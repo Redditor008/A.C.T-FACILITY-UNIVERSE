@@ -1,0 +1,159 @@
+A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+Multi-Verse-Vending-Machine-Experiment-Testing-AFD-OB-117
+
+═══════════════════════════════════════════════════════════════════════
+              A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-117
+TITLE I:             Multi-Verse Vending Machine
+TITLE II:            THE DIY FUTURIST / THE INTERDIMENSIONAL DISPENSER
+
+FIELD TYPE:          OB — Object
+PRIMARY FILE:        Multi-Verse-Vending-Machine-AFD-OB-117
+
+DOCUMENT CATEGORY:   CATEGORY III — Experiment & Testing Dossier
+CATEGORY FUNCTION:   Acquisition logs, cross-dimensional item analysis, 
+                     and volumetric-constraint verification.
+
+CLEARANCE REQUIRED:  Level 4
+
+CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex
+ARCHIVE STATUS:      Active / Experimental Procurement
+DOSSIER STATUS:      Open / Purchase History Logged
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier contains the verified acquisition logs for items purchased 
+from AFD-OB-117. Each entry includes the item's appearance on the 
+interface, the purchase price, and a post-dispensing analysis.
+
+INCLUDED LOG TYPES:
+   - Successful Acquisition Logs (Purchases 001-009)
+   - Volumetric Anomaly Review (The 30-90cm Constraint)
+   - Non-Anomalous Extra-Terrestrial Inventory
+   - [STRUCTURAL DATA OMITTED]
+   - Dossier Closing Statement
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 001 — ACQUISITION LOGS
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-117/ACQ-001
+DATE:                2023-04-12
+ITEM NAME:           "Nether Rack"
+PRICE:               $45.00
+ANALYSIS:            A 30 cm block of red, porous, non-terrestrial stone. 
+                     The material matches descriptions found in popular 
+                     digital media but possesses a real physical 
+                     presence. The stone maintains a constant internal 
+                     temperature of 45°C.
+
+LOG ID:              AFD-OB-117/ACQ-002
+DATE:                2023-05-18
+ITEM NAME:           "Potion of Regeneration" (Universe-Z Variant)
+PRICE:               $12,500.00
+ANALYSIS:            A 40 cm glass vial containing a luminous pink 
+                     fluid. When applied to open wounds on E-Class 
+                     subjects, the fluid accelerates cellular mitosis by 
+                     10,000%, closing critical lacerations in 4 seconds.
+
+LOG ID:              AFD-OB-117/ACQ-003
+DATE:                2023-07-02
+ITEM NAME:           "Anti-Wet Prosthetic"
+PRICE:               $8,900.00
+ANALYSIS:            A 65 cm cybernetic arm composed of a matte-white 
+                     alloy. The material possesses a perfect hydrophobic 
+                     surface; water molecules are repelled with such 
+                     force that the arm remains dry even when submerged 
+                     in high-pressure tanks.
+
+LOG ID:              AFD-OB-117/ACQ-004
+DATE:                2023-09-14
+ITEM NAME:           "Heavy-Edge Sword"
+PRICE:               $2,200.00
+ANALYSIS:            A 60 cm blade with no hilt. Despite its size, the 
+                     object has the mass and weight of a 1-meter cube of 
+                     solid tungsten (approx. 19 tons). The handle 
+                     requires a specialized A.C.T hydraulic exoskeleton 
+                     to lift.
+
+LOG ID:              AFD-OB-117/ACQ-005
+DATE:                2023-11-20
+ITEM NAME:           "Standard Biological Nutrition Unit" (Bento-Box)
+PRICE:               $110.00
+ANALYSIS:            Non-anomalous. An organized container of extra-
+                     terrestrial organic matter. Chemical analysis 
+                     confirms it is a high-protein meal designed for a 
+                     non-human metabolism. Tastes like [ REDACTED ].
+
+LOG ID:              AFD-OB-117/ACQ-006
+DATE:                2024-01-05
+ITEM NAME:           "Star-Walker Commemorative Figurine"
+PRICE:               $25.00
+ANALYSIS:            Non-anomalous. A 30 cm plastic-like statue of a 
+                     six-limbed entity. Appears to be commercial 
+                     merchandise from a non-terrestrial civilization.
+
+LOG ID:              AFD-OB-117/ACQ-007
+DATE:                2024-03-22
+ITEM NAME:           "Almond Water"
+PRICE:               $10.00
+ANALYSIS:            A 50 cm canteen containing a clear liquid with a 
+                     faint almond scent. Properties match the 
+                     description in online urban legends (Backrooms), 
+                     providing mild sedative and nutritional benefits 
+                     to the consumer.
+
+LOG ID:              AFD-OB-117/ACQ-008
+DATE:                [ REDACTED ]
+ITEM NAME:           [ BLANK ]
+PRICE:               $1,500,000.00
+ANALYSIS:            Purchase authorized by O5-4 for "Biological 
+                     Curiosity." Upon dispensing, the item produced a 
+                     scent and texture so [ REDACTED ] and offensive 
+                     that the room required a full chemical purge. 
+                     No written record of the item's appearance exists. 
+                     The object was incinerated immediately.
+
+LOG ID:              AFD-OB-117/ACQ-009
+DATE:                2024-06-12
+ITEM NAME:           "Energy-Core Crystal"
+PRICE:               $5,000,000.00
+ANALYSIS:            Non-anomalous in its origin universe. A 90 cm 
+                     blue crystal that emits a steady 220V electrical 
+                     current via unknown piezo-vibrations. Effectively 
+                     functions as a perpetual battery for low-power 
+                     containment systems.
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+The diversity of items confirms that AFD-OB-117 has access to causal 
+realities ranging from the "Fictional-Emergent" (Minecraft/Backrooms) 
+to the "Advanced-Technological" (Anti-Wet Prosthetics/Energy Crystals). 
+
+The 30-90 cm size rule is absolute. Even the 19-ton Tungsten Sword was 
+compressed into a 60 cm frame, proving the machine manipulates atomic 
+spacing during the dispensing process.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+The "Almond Water" canteen was analyzed for spatial displacement, but 
+the container is non-anomalous. It seems the machine simply bought a 
+large bottle.
+
+NOTE 002:
+Researcher Price has been banned from procurement after attempting to 
+wish for "A date with the Countess" on the Un-Monkey Paw while 
+standing near the Vending Machine. The machine dispensed a 30 cm 
+cardboard cutout of a goat for $500.00.
+
+END OF DOSSIER

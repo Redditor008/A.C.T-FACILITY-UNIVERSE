@@ -1,0 +1,298 @@
+A.C.T FACILITY — ANOMALY FILE
+Shadow-Shark-AFD-SU-010
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-010
+TITLE I:             Shadow Shark
+TITLE II:            THE HUNGER WITHOUT A BODY
+
+FIELD TYPE:          SU — Subject
+                     Intangible predatory subject / shadow-bound feeder
+
+CLEARANCE REQUIRED:  Level 3
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   INTANGIBLE
+
+FRACTURE INDEX —
+CONTAINMENT:         ABSURD
+
+THREAT LEVEL:        3
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           CONTAINED-STUDY
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   2021-05-14
+VERIFICATION DATE:   2021-05-19
+LOCATION:            Indoor aquarium loading bay / Busan, South Korea
+DISCOVERY METHOD:    Missing feed inventory / shadow-motion footage /
+                     animal agitation without physical intruder
+
+INITIAL RESPONSE
+OPERATION:           Black Fin Intake
+RESPONDING UNIT:     Field Containment Division / Intangible Hazard Review
+RESPONDING FIELD
+OPERATOR:            Agent Min Seo-Yun
+CIVILIAN EXPOSURE:   17 suspected / 5 confirmed
+AMNESTIC DEPLOYED:   Yes
+NARRATIVE STATUS:    Controlled as electrical malfunction, animal stress event,
+                     and inventory clerical error
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-010 is an airborne, shark-shaped shadow that moves as if swimming
+through water despite occupying open air. The anomaly has no confirmed physical
+body, mass, heat signature, odor, measurable respiration, or biological tissue.
+It is visible only as a moving shadow cast across surfaces, airborne dust,
+smoke, fog, reflective haze, or the bodies of observers standing in its path.
+
+The subject's visible form most closely resembles a medium-to-large shark,
+approximately 2.7 m from snout to tail in its resting state. It possesses a
+distinct dorsal fin, pectoral fins, caudal fin, and elongated head profile. The
+shape deforms when crossing uneven surfaces but restores itself when passing
+over flat planes. Its movement is fluid and continuous, matching the swimming
+motion of a submerged animal rather than the path of an ordinary projected
+shadow.
+
+AFD-SU-010 does not require water. It can move through corridors, rooms,
+warehouse spaces, stairwells, elevator shafts, open air, and exterior spaces
+as long as enough light exists to produce visible shadow contrast. Complete
+darkness does not destroy the anomaly, but renders it inactive or untrackable.
+High uniform illumination weakens its outline and reduces movement speed.
+
+The anomaly's only confirmed physical attribute is its feeding action. If any
+kind of feed, edible matter, biological mass, or animal-food substitute is
+placed directly in front of the shadow's mouth area, AFD-SU-010 can physically
+consume it. During feeding, the target object becomes covered in dense black
+shadow, loses visible surface detail, compresses inward, and is then swallowed
+into the shark-shaped silhouette. The consumed matter does not fall through the
+shadow or remain on the surface beneath it.
+
+This feeding behavior has been confirmed with fish, meat, livestock feed,
+gelatin blocks, nutrient paste, insects, and synthetic aquarium pellets. The
+anomaly shows preference for fish and red meat, but will accept nonliving feed
+if it contains sufficient protein scent or has been handled like animal feed.
+AFD-SU-010 has not attempted to consume full human subjects under containment,
+but it has bitten exposed fingers, loose hair, and blood-soaked cloth placed
+within the mouth boundary.
+
+AFD-SU-010 displays simple predatory curiosity. It circles moving shadows,
+follows buckets of feed, reacts to dripping liquid, and accelerates toward
+thrashing motions. It does not speak, respond to names, follow symbolic orders,
+or demonstrate human-level planning. Its behavior is most consistent with a
+non-sapient predator whose body has been reduced to the condition of a shadow,
+while its appetite remains physically functional.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Air-swimming shadow form. AFD-SU-010 exists visibly as a
+                     shark-shaped shadow moving through air and across surfaces
+                     without a corresponding physical body.
+
+SECONDARY EFFECT:    Physical feeding aperture. Matter placed directly in front
+                     of the shadow mouth can be covered in shadow and swallowed,
+                     despite the absence of a measurable jaw, stomach, or body.
+
+TERTIARY EFFECT:     Surface-dependent visibility. The subject is easiest to
+                     observe when crossing walls, floors, smoke, fog, suspended
+                     dust, or other contrast-bearing media. It becomes difficult
+                     to track in darkness or flat high-light environments.
+
+TRIGGER CONDITION:   Presence of feed or feed-like matter near the mouth shadow.
+                     Rapid movement, dripping blood, and fish scent increase
+                     approach behavior.
+
+RANGE / AREA OF
+INFLUENCE:           Subject-bound / feeding contact occurs within the mouth
+                     silhouette only / pursuit behavior observed up to 90 m
+                     from initial feed source.
+
+TEMPORAL BEHAVIOR:   Constant while illuminated / sluggish in darkness /
+                     active predatory cycles increase after feeding.
+
+REALITY INTERACTION: Intangible-Physical Contradiction / Shadow-Matter Ingestion /
+                     Biological Behavior Without Body.
+
+KNOWN FEEDING
+RESPONSES:
+   - fish: immediate approach and full consumption
+   - red meat: immediate approach, slower swallow
+   - animal feed pellets: accepted if dropped individually
+   - synthetic protein paste: accepted after repeated exposure
+   - plant material: ignored unless coated in blood or fish oil
+   - metal objects: ignored unless wrapped in edible tissue
+   - human skin contact: shallow bite behavior confirmed; full human ingestion
+     not tested and not authorized
+
+VISUAL OBSERVATION
+NOTES:
+   - casts no shadow of its own; it is the shadow
+   - cannot be photographed as a body, only as dark silhouette distortion
+   - appears darker than ordinary absence of light
+   - dorsal fin remains visible even when the rest of the outline is fragmented
+   - mouth boundary opens wider than normal shark anatomy should allow
+   - swallowed objects do not reappear in any known waste form
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-010 is contained in a sealed light-managed observation chamber with
+matte white walls, matte white flooring, adjustable overhead illumination, and
+no standing water. The chamber must remain free of unnecessary shadows, hanging
+objects, suspended cables, open vents, reflective panels, and loose biological
+material.
+
+The subject is to be maintained under uniform diffuse illumination during
+standard containment. Directional lighting may be used only during approved
+tracking, feeding, or behavioral testing. Complete darkness is prohibited unless
+part of an authorized inactivity trial, as the subject becomes difficult to
+locate and may reappear unpredictably once contrast returns.
+
+Feeding is conducted remotely every 10 days through a floor-level feed aperture.
+Approved feed consists of 1.5 kg fish protein blocks or equivalent synthetic
+feed. Feed must be placed in front of the projected mouth path using automated
+arms. Personnel must not hand-feed AFD-SU-010.
+
+No personnel may enter the chamber with exposed skin below the elbow, loose
+hair, dangling straps, food residue, blood contamination, or animal-feed scent.
+Entry is permitted only when the subject is held in diffuse-light sedation mode
+and its silhouette has been visually pinned between three independent tracking
+surfaces.
+
+All chamber shadows must be mapped before maintenance. If an unmapped shark
+silhouette is detected outside the containment chamber, personnel are to stop
+movement, activate diffuse floodlights, remove all feed sources, and seal nearby
+corridors until Intangible Hazard Review confirms recovery.
+
+CONTAINMENT SITE:        ACT-SITE-01-US-W — Redwood Veil Complex
+SITE TYPE:               Primary Site / Urban artifact and intangible organism
+                         containment
+JURISDICTIONAL
+AUTHORITY:               Intangible Hazard Review / Central Archive Administration
+CONTAINING DIVISION:     Subject Containment Division / Spatial-Optic Hazard Desk
+REQUIRED PERSONNEL:      2 remote containment technicians, 1 optical monitoring
+                         officer, 1 emergency medical responder on standby
+MONITORING FREQUENCY:    Continuous visual silhouette tracking / lighting audit
+                         every 6 hours
+MAINTENANCE CYCLE:       Weekly surface-contrast inspection / feed aperture
+                         cleaning after each feeding
+
+BREACH PROTOCOL:         Activate diffuse floodlighting in all adjacent halls,
+                         remove food and biological material from projected
+                         path, deploy matte tracking screens, and lure subject
+                         back using approved fish-protein feed blocks. Personnel
+                         must not chase the shadow through narrow spaces or
+                         attempt physical restraint.
+
+BREACH CONDITIONS —
+THIS ANOMALY IS CONSIDERED
+IN BREACH IF IT:
+   [x] Breaks formal containment
+   [x] Endangers public normalcy
+   [ ] Causes distortion in reality, Earth, time, or cosmic law
+   [ ] Spreads memetic, informational, or biological contamination
+   [x] Resists classification and escalates beyond predicted behavior
+   [ ] Transforms its environment into an anomalous zone
+   [x] Other: Subject appears on unapproved surfaces, consumes unauthorized
+              matter, or exits light-managed containment volume
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-010 is classified as a subject rather than an object because it displays
+persistent autonomous movement, prey selection, feeding preference, avoidance
+behavior, and simple learning. It is not considered sapient. It does not appear
+to understand personnel, language, symbols, or containment rules.
+
+The major unresolved question is whether AFD-SU-010 is a shark deprived of its
+body, a shadow given predator behavior, or a feeding mechanism shaped by human
+recognition of sharks. No biological residue has been recovered from within the
+anomaly. Consumed matter is not transferred to any observed internal location,
+external space, or recoverable digestive output.
+
+The feeding event is the only point at which AFD-SU-010 becomes physically
+consequential. Before feeding contact, the silhouette may pass across personnel
+without injury, producing only cold sensation and mild anxiety. Once the mouth
+boundary opens over matter, the covered target becomes subject to real crushing,
+tearing, and disappearance.
+
+Testing confirms that AFD-SU-010 cannot consume objects merely touched by its
+body-shadow, fin-shadow, or tail-shadow. The mouth region must be oriented
+toward the object, and the object must cross the apparent feeding plane. This
+has allowed safe containment through controlled feeding direction and surface
+projection management.
+
+The anomaly shows signs of conditioning. It now approaches the feed aperture
+within 40 seconds of hearing the aperture unlock. It has also learned to circle
+beneath observation windows where staff previously dropped feed during early
+containment. This behavior is not to be rewarded.
+
+═══════════════════════════════════════════════════════════════════════
+                      TRANSFORMATION NOTES
+═══════════════════════════════════════════════════════════════════════
+
+TRANSFORMATION ATTEMPT
+STATUS:              Limited containment-use study approved
+
+TRANSFORMATION NOTES:
+AFD-SU-010 may have limited application in disposal of hazardous biological
+material that cannot be burned, buried, or chemically neutralized. However, no
+method currently exists to retrieve or confirm final disposition of consumed
+matter. Until the destination of swallowed material is understood, use as a
+disposal tool remains prohibited outside test quantities.
+
+Proposals to weaponize the subject through portable light projection have been
+denied. AFD-SU-010 does not reliably remain attached to a projected surface and
+may choose any suitable contrast plane once released.
+
+Current transformation doctrine focuses on behavioral stabilization, safe
+feeding schedules, and determining whether the subject can be kept calm without
+increasing predatory interest toward personnel.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+AFD-SU-010 is not a projected image. Turning off a single light source may
+remove visibility but does not remove the subject. Personnel who cannot see it
+should assume it remains present until tracking confirms otherwise.
+
+NOTE 002:
+During Test 010-C, a feed block was held 5 cm above the mouth silhouette by a
+robotic arm. The shadow rose off the floor, crossed the arm's shadow, and
+covered the feed block from below. The feed vanished. The robotic arm was not
+damaged except for loss of paint on the portion shadowed by the mouth.
+
+NOTE 003:
+During initial recovery, aquarium staff reported hearing water splashes in a dry
+loading bay. A.C.T sensors recorded no sound above environmental noise. The
+staff member who first saw the anomaly stated, "It was swimming in the place
+where light forgot to be floor."
+
+NOTE 004:
+Do not draw shark shapes on the chamber floor. The subject has shown repeated
+interest in artificial shark silhouettes and will attempt to circle or bite
+them. This complicates tracking and is not considered enrichment.
+
+END OF FILE

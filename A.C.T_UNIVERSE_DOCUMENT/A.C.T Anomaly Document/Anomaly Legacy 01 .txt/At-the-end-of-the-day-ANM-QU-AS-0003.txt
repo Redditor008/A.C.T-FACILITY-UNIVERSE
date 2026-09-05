@@ -1,0 +1,338 @@
+A.C.T FACILITY — ANOMALY FILE
+At-the-end-of-the-day-ANM-QU-AS-0003
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         ANM-QU-AS-0003
+                     Fracture-sensitive anomaly designation
+                     QU = QUESTIONED containment fracture
+                     AS = ABSENT sub-threat fracture
+TITLE I:             At the end of the day
+TITLE II:            THE CALENDAR THAT CIRCLES THE IMPOSSIBLE
+
+FIELD TYPE:          OB — Object
+                     Event-predictive / event-emergent calendar anomaly
+
+CLEARANCE REQUIRED:  Level 4
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   INTANGIBLE
+
+FRACTURE INDEX —
+CONTAINMENT:         QUESTIONED
+
+THREAT LEVEL:        5
+
+FRACTURE INDEX —
+SUB-THREAT:          ABSENT
+
+TRANSFORMATION
+VIABILITY:           CONTAINED-STUDY
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   1994-02-13
+VERIFICATION DATE:   1994-03-24
+LOCATION:            Office supply storeroom / ACT-SUB-03-JP-E — Silent Reed
+                     Annex
+DISCOVERY METHOD:    Impossible event correlation / archive date contradiction /
+                     repeated red-circle manifestation
+
+INITIAL RESPONSE
+OPERATION:           Last Page Review
+RESPONDING UNIT:     Archiver Division / Temporal Event Review
+RESPONDING FIELD
+OPERATOR:            Archivist Kenji Takahara
+CIVILIAN EXPOSURE:   None confirmed during initial detection
+AMNESTIC DEPLOYED:   No
+NARRATIVE STATUS:    Internal / predictive uncertainty sealed
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+ANM-QU-AS-0003 is a paper wall calendar of inconsistent manufacture. The object
+usually presents as a standard twelve-month printed calendar with ordinary date
+blocks, thin paper pages, a metal hanging loop, and a plain backing board. The
+printed year, language, manufacturer, holidays, paper quality, and illustration
+style change between observation cycles. These alterations occur without visible
+movement of the pages or replacement of the object.
+
+The object's primary anomalous feature is the appearance of a red circular mark
+around one date on one calendar page. The circle is not printed, drawn in ink,
+painted, burned, carved, projected, or digitally added. Microscopic inspection
+shows no pigment on the paper. The circled region is simply recognized as
+circled by all observers and by most imaging systems.
+
+A short event statement appears beneath, beside, or inside the circled date.
+The statement describes an event so absurd, unlikely, inappropriate, or causally
+unsupported that no ordinary person would reasonably expect it to happen. Despite
+this absurdity, the event either occurs, appears to occur, becomes recorded as
+having occurred, or causes operational consequences consistent with occurrence.
+
+A.C.T does not currently know whether ANM-QU-AS-0003 is predicting impossible
+events, selecting impossible events, causing impossible events, allowing them to
+emerge, or merely becoming associated with events that would have happened
+without it. The uncertainty is severe enough that the anomaly is classified as
+ANM rather than as a standard AFD time-object.
+
+The calendar itself is not physically aggressive. It does not attack personnel,
+spread contamination, force observers to act, or directly alter human memory by
+normal exposure. The danger lies in the circled date and the impossible event
+attached to it.
+
+A.C.T personnel have informally described the object as "a schedule for things
+reality was too embarrassed to plan."
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Anomalous date circling. A red circle appears around a
+                     calendar date without physical marking material or known
+                     inscription process.
+
+SECONDARY EFFECT:    Absurd event attachment. The circled date is associated
+                     with an event statement describing a highly improbable,
+                     impossible, or reality-inappropriate event.
+
+TERTIARY EFFECT:     Event realization uncertainty. The described event may
+                     occur, partially occur, retroactively appear to have
+                     occurred, or manifest as an archive-confirmed consequence
+                     without clear physical origin.
+
+TRIGGER CONDITION:   Unknown. Circle emergence occurs after page transition,
+                     archive attention, date proximity, or containment record
+                     update, but no condition is fully reliable.
+
+RANGE / AREA OF
+INFLUENCE:           Unknown. Events have manifested locally, regionally, and in
+                     unrelated A.C.T sites. No maximum range confirmed.
+
+TEMPORAL BEHAVIOR:   Intermittent / date-associated / predictive-emergent /
+                     causally unresolved.
+
+REALITY INTERACTION: Probabilistic Violation / Absurd Event Manifestation /
+                     Possible Predictive-XX Function.
+
+KNOWN EVENT STATEMENT
+FORMATS:
+   - standard date plus event description
+   - incomplete date string plus event description
+   - corrupted date sequence with no readable year
+   - circled blank date followed by handwritten-appearing text
+   - date written in a calendar system not used on the current page
+   - impossible date, such as 31 February or 00-Month-19XX
+   - only the phrase: "AT THE END OF THE DAY"
+
+RECOVERED EXAMPLE
+STATEMENTS:
+   - 23-March-20XX — A shark will fall on top of the Facility.
+   - XX-XXXXXX-XXXX — An anomalous event that makes people forget.
+   - 12-Febuary-19XX — A tornado that will stack trees will appear.
+   - 04-July-200X — Every locked door in the east wing will politely knock
+     before opening.
+   - 17-October-19XX — A cafeteria spoon will be declared a hostile witness.
+   - 00-Null-20XX — Someone will remember a meeting that was never scheduled.
+   - 29-February-NotYet — The rain will fall upward inside only one elevator.
+   - [DATE REMOVED] — A moon-shaped bruise will appear on the wrong building.
+
+═══════════════════════════════════════════════════════════════════════
+                     SELECTED CONFIRMED EVENTS
+═══════════════════════════════════════════════════════════════════════
+
+EVENT 0003-01:
+Circled Statement:   23-March-20XX — A shark will fall on top of the Facility.
+Result:              On the indicated date, a 1.8 m dead reef shark impacted
+                     the reinforced roof of Primary Facility Intake Annex B.
+                     No aircraft, storm activity, teleportation signature,
+                     animal transport record, or local aquarium loss explained
+                     the impact. The shark contained salt water in its gills
+                     from no recognized ocean chemistry.
+
+EVENT 0003-04:
+Circled Statement:   XX-XXXXXX-XXXX — An anomalous event that makes people
+                     forget.
+Result:              No single event could be identified. Instead, 312 personnel
+                     across four sites independently forgot the existence of a
+                     minor stairwell for 11 hours. The stairwell remained usable.
+                     Personnel walking through it remembered using "some other
+                     way down."
+
+EVENT 0003-09:
+Circled Statement:   12-Febuary-19XX — A tornado that will stack trees will
+                     appear.
+Result:              Historical weather records from 1972 altered to include a
+                     9-minute localized tornado in rural Saskatchewan. Satellite
+                     records did not change. A later field team found 43 trees
+                     stacked upright in a spiral, roots facing inward, leaves
+                     still alive.
+
+EVENT 0003-16:
+Circled Statement:   31-November-2004 — The day will be too full and spill.
+Result:              No such date occurred. However, 2004-11-30 generated 24
+                     hours and 17 minutes of timestamped internal A.C.T records.
+                     The extra 17 minutes do not fit into any confirmed clock
+                     sequence.
+
+EVENT 0003-21:
+Circled Statement:   AT THE END OF THE DAY.
+Result:              Pending. This phrase appeared without date association.
+                     Since appearance, ANM-QU-AS-0003 has refused to display
+                     any month page for longer than 59 seconds.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+ANM-QU-AS-0003 is stored in a non-dated archive chamber with all clocks,
+calendars, scheduling boards, appointment notices, countdown displays, and date
+labels removed. The object is to remain suspended on an unmarked wall hook
+inside a transparent containment case. The case is not considered reliable
+containment of the anomalous effect, but it prevents unauthorized handling and
+page alteration.
+
+Personnel assigned to ANM-QU-AS-0003 must not ask the object what will happen
+today, tomorrow, at the end of the month, or at the end of the year. Spoken
+questions concerning future dates are prohibited within the chamber.
+
+The calendar is to be photographed once per day using a non-networked camera.
+If a red circle is present, the image is to be sealed and reviewed by Temporal
+Event Review, Archiver Division, and the relevant containment site command.
+Personnel must not attempt to erase, cover, cut out, redraw, reinterpret, or
+correct the circled date.
+
+When a circled event statement appears, A.C.T must prepare for three possible
+models simultaneously:
+
+   1. Predictive Model — the event will occur whether or not the calendar is
+      observed.
+   2. Emergent Model — observation or documentation increases event stability.
+   3. XX Model — the event has no stable cause and may rewrite itself around
+      the calendar after the fact.
+
+No single response plan is adequate. Each circled statement is to receive a
+custom absurd-event mitigation brief.
+
+If the circled event references a known A.C.T site, that site must enter
+Low-Level Impossibility Watch until 24 hours after the referenced date. If the
+statement contains corrupted dates, impossible dates, or missing years, the
+watch period is determined by Temporal Event Review.
+
+CONTAINMENT SITE:        Primary Facility / Non-Dated Archive Chamber
+SITE TYPE:               Primary Facility / Archive-sensitive temporal fracture
+                         storage
+JURISDICTIONAL
+AUTHORITY:               Temporal Event Review / Central Archive Administration
+CONTAINING DIVISION:     Archiver Division / Temporal Event Review
+REQUIRED PERSONNEL:      1 archive handler, 1 temporal analyst, 1 absurd-event
+                         mitigation officer during active circles
+MONITORING FREQUENCY:    Daily non-networked visual capture / continuous chamber
+                         environmental monitoring
+MAINTENANCE CYCLE:       Monthly non-dated chamber audit
+
+BREACH PROTOCOL:         If the object leaves the non-dated chamber, recover by
+                         hand without stating the current date aloud. If an
+                         active circled statement is visible, cover the observer's
+                         line of sight with an opaque card and transport the
+                         calendar face-down to containment. Do not destroy the
+                         current page.
+
+BREACH CONDITIONS —
+THIS ANOMALY IS CONSIDERED
+IN BREACH IF IT:
+   [ ] Breaks formal containment
+   [x] Endangers public normalcy
+   [x] Causes distortion in reality, Earth, time, or cosmic law
+   [ ] Spreads memetic, informational, or biological contamination
+   [x] Resists classification and escalates beyond predicted behavior
+   [x] Transforms its environment into an anomalous zone
+   [x] Other: A circled event manifests without prior archive notice, the object
+              displays an impossible date in public, or event statements begin
+              appearing on unrelated calendars
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+ANM-QU-AS-0003 is one of the clearest examples of a QUESTIONED containment
+fracture. The object can be physically stored, handled, photographed, and locked
+inside a room. However, containment of the calendar does not demonstrate
+containment of the circled event, the emergence of the circle, or the absurd
+condition attached to the date. It is therefore unclear what is actually being
+contained.
+
+The ABSENT sub-threat fracture reflects that the calendar itself has no direct
+attack behavior. The threat is displaced into associated events. If the calendar
+is predictive, then it may not be responsible for danger. If it is emergent,
+then the object may be generating danger. If it is XX, then responsibility may
+not be a stable category.
+
+Attempts to determine whether the calendar causes or predicts events have failed.
+Destroying marked duplicate photographs has no effect. Covering a circled date
+causes the red circle to appear on the reverse side of the page. Removing the
+page causes the same month to reappear behind it. Refusing to read the statement
+does not prevent later confirmation, but may reduce the precision of the event
+manifestation.
+
+The object shows a preference for absurdity over violence. Many circled events
+are disruptive, humiliating, bureaucratically damaging, or physically impossible
+without being fatal. However, at least five confirmed events could have killed
+personnel if mitigation had not been enacted. A.C.T is not to treat absurdity as
+safety.
+
+═══════════════════════════════════════════════════════════════════════
+                      TRANSFORMATION NOTES
+═══════════════════════════════════════════════════════════════════════
+
+TRANSFORMATION ATTEMPT
+STATUS:              Suspended
+
+TRANSFORMATION NOTES:
+ANM-QU-AS-0003 has potential value as an early warning system for impossible
+incidents. This value is limited by uncertainty regarding causation. If the
+calendar is predictive, reading it saves lives. If the calendar is emergent,
+reading it may invite events into firmer reality.
+
+Repurposing as an anomaly forecast tool is not approved. Limited observation may
+continue because ignoring the object has not prevented event realization and has
+increased unpreparedness.
+
+Attempts to influence event statements by placing blank calendars nearby,
+writing safe events on adjacent pages, or verbally requesting harmless outcomes
+have failed. In one trial, personnel wrote "nothing unusual will happen" across
+a blank month. The next circle appeared around the statement itself.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+Do not laugh at active event statements during briefing. The calendar's events
+are often ridiculous. They are still operational events.
+
+NOTE 002:
+The phrase "At the end of the day" appears in the lower margin of every calendar
+form the object has taken. It is printed in a different typeface each time. No
+manufacturer has claimed this design element.
+
+NOTE 003:
+During Event 0003-01, the falling shark caused only roof damage because the
+annex had been evacuated after circle review. The absurd-event mitigation
+officer requested commendation. The request was denied because he had attempted
+to keep the shark.
+
+NOTE 004:
+A.C.T does not currently know whether ANM-QU-AS-0003 is the calendar, the red
+circle, the event statement, the impossible event, or the relationship between
+all four. Until resolved, personnel are to assume all four are dangerous.
+
+END OF FILE

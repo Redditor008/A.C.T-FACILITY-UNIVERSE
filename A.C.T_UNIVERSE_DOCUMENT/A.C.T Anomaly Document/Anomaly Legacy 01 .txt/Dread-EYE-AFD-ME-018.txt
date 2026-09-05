@@ -1,0 +1,221 @@
+A.C.T FACILITY — ANOMALY FILE
+Dread-EYE-AFD-ME-018
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-ME-018
+TITLE I:             Dread EYE
+TITLE II:            THE PUPIL THAT TEACHES FEAR TO LOOK BACK
+
+FIELD TYPE:          ME — Memetic
+                     Visual-symbolic fear induction anomaly
+
+CLEARANCE REQUIRED:  Level 3
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   INTANGIBLE
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        3
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           CONTAINED-STUDY
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   2017-01-26
+VERIFICATION DATE:   2017-02-02
+LOCATION:            University psychology archive / Utrecht, Netherlands
+DISCOVERY METHOD:    Repeated panic-study contamination / symbol recurrence /
+                     cross-medium visual hazard report
+
+INITIAL RESPONSE
+OPERATION:           Closed Pupil Review
+RESPONDING UNIT:     Memetic Hazard Review / Archiver Division
+RESPONDING FIELD
+OPERATOR:            Agent Lotte Vermeer
+CIVILIAN EXPOSURE:   38 suspected / 11 confirmed
+AMNESTIC DEPLOYED:   Limited
+NARRATIVE STATUS:    Controlled as experimental anxiety-study malpractice
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-ME-018 is a memetic visual anomaly presenting as a simplified eye-like
+symbol. The symbol consists of a narrow black oval, a white vertical pupil, and
+three short radial marks beneath the lower curve. The shape is simple enough to
+be redrawn accidentally, but the anomalous form is identifiable by the subject's
+immediate recognition that the symbol is "looking afraid of them."
+
+The anomaly does not produce fear by showing frightening imagery. Instead, it
+causes the viewer to become aware of a fear response that appears to originate
+outside the viewer's own mind. Affected subjects report that the eye is afraid,
+that the fear is contagious, and that something unseen has noticed both the eye
+and the viewer at the same time.
+
+Exposure effects begin after 4 to 9 seconds of direct visual attention. Initial
+symptoms include unease, cold sensation behind the eyes, reluctance to blink,
+and the belief that the symbol should be covered before it "finishes noticing."
+Longer exposure produces panic, visual fixation, and compulsive attempts to
+locate an unseen observer behind walls, mirrors, windows, or the viewer's own
+reflection.
+
+AFD-ME-018 is capable of reproduction across physical and digital media. Printed
+copies, hand drawings, chalk marks, photocopies, projection artifacts, and low
+resolution images can all carry partial effect if they preserve the eye/pupil
+relationship. The anomaly weakens when heavily distorted, inverted, or separated
+into disconnected fragments.
+
+The symbol is not sapient. No communication has been confirmed. The apparent
+sense of being watched appears to be a memetic response rather than evidence of
+an entity behind the symbol.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Visual memetic dread induction. Subjects who view the full
+                     Dread EYE symbol experience escalating fear tied to the
+                     belief that something has noticed them through the symbol.
+
+SECONDARY EFFECT:    Attention lock. Affected subjects may struggle to look away
+                     despite recognizing that continued viewing worsens the
+                     response.
+
+TERTIARY EFFECT:     Medium persistence. The symbol can retain anomalous effect
+                     across drawings, photocopies, digital images, projections,
+                     and reflective duplication.
+
+TRIGGER CONDITION:   Direct visual recognition of the completed Dread EYE form
+                     for more than 4 seconds.
+
+RANGE / AREA OF
+INFLUENCE:           Visual line of sight / digital display / printed copy.
+                     Effect does not transmit through purely verbal description.
+
+TEMPORAL BEHAVIOR:   Exposure-dependent / effect decays after visual contact is
+                     broken and subject is grounded.
+
+REALITY INTERACTION: Memetic Perception Distortion / Fear-Origin Displacement /
+                     Symbolic Attention Hazard.
+
+EXPOSURE STAGES:
+   - 0 to 4 seconds: no reliable effect.
+   - 4 to 9 seconds: unease, eye pressure, discomfort with the symbol.
+   - 10 to 30 seconds: dread, fixation, reluctance to blink.
+   - 31 to 90 seconds: panic, search behavior, belief of unseen observer.
+   - Over 90 seconds: acute breakdown risk, persistent fear of eye-like shapes,
+     and dream recurrence.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+All confirmed instances of AFD-ME-018 are to be stored in fragmented visual
+format. No complete copy may be displayed outside approved testing. Physical
+copies must be kept inside opaque envelopes marked with nonvisual archive codes.
+Digital copies must be stored as separated image layers that cannot render the
+complete symbol without Level 3 authorization.
+
+Personnel must not redraw the symbol from memory. Training files are to use
+partial diagrams only. Any accidental complete reproduction in notebooks,
+whiteboards, margins, graffiti, or digital sketch files must be covered first,
+then photographed for archive confirmation, then destroyed or segmented.
+
+Exposure response consists of immediate line-of-sight break, low-light grounding,
+verbal reassurance, and removal from reflective surfaces for at least 20 minutes.
+Personnel should not ask affected subjects what they think is watching them
+until after panic response has declined.
+
+CONTAINMENT SITE:        ACT-SITE-03-JP-E — Kurokawa Archive Node
+SITE TYPE:               Primary Site / Memetic and informational containment
+JURISDICTIONAL
+AUTHORITY:               Memetic Hazard Review / Central Archive Administration
+CONTAINING DIVISION:     Memetic Hazard Review / Archiver Division
+REQUIRED PERSONNEL:      1 memetic handler, 1 archive technician, 1 care
+                         responder during exposure tests
+MONITORING FREQUENCY:    Weekly file-integrity audit / immediate review after
+                         accidental symbol reports
+MAINTENANCE CYCLE:       Monthly digital segmentation check
+
+BREACH PROTOCOL:         Cover all suspected symbols without looking directly at
+                         them. Remove exposed personnel from visual range.
+                         Disable displays showing the symbol. Use text-only
+                         incident reports until Memetic Hazard Review clears the
+                         site.
+
+BREACH CONDITIONS —
+THIS ANOMALY IS CONSIDERED
+IN BREACH IF IT:
+   [ ] Breaks formal containment
+   [x] Endangers public normalcy
+   [ ] Causes distortion in reality, Earth, time, or cosmic law
+   [x] Spreads memetic, informational, or biological contamination
+   [ ] Resists classification and escalates beyond predicted behavior
+   [ ] Transforms its environment into an anomalous zone
+   [x] Other: A complete Dread EYE symbol appears in uncontrolled visual media
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-ME-018 is unusual because its primary fear response feels externalized. The
+subject is not simply afraid of the symbol. The subject believes the symbol is
+afraid first, and that the viewer becomes involved in whatever caused that fear.
+This displaced dread makes the anomaly more difficult to dismiss through normal
+cognitive reassurance.
+
+The symbol has no confirmed origin. It appears in the margins of archived panic
+studies, unfinished dream journals, damaged classroom projectors, and one mural
+painted under a train bridge in 2004. No artist or researcher connected to the
+instances remembers creating the complete form.
+
+Testing indicates that the symbol loses most effect when the pupil is removed.
+Removing the outer eye shape without removing the pupil produces stronger short
+exposure discomfort but weaker long exposure fixation. This suggests the pupil
+is the active memetic anchor and the eye shape is the recognition frame.
+
+═══════════════════════════════════════════════════════════════════════
+                      TRANSFORMATION NOTES
+═══════════════════════════════════════════════════════════════════════
+
+TRANSFORMATION ATTEMPT
+STATUS:              Limited study only
+
+TRANSFORMATION NOTES:
+AFD-ME-018 may have limited value as a controlled fear-response calibration tool,
+but use is currently restricted. The anomaly does not teach courage, reveal
+truth, or identify external threats. It produces dread without reliable benefit.
+
+Repurposing as interrogation pressure, crowd dispersal, or compliance training
+is prohibited. Controlled study may continue only for memetic-resistance
+research and exposure recovery protocol improvement.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+Do not use eye icons as bullet points in AFD-ME-018 documentation. This rule was
+added after two junior archivists independently recreated partial hazard forms
+while formatting a presentation.
+
+NOTE 002:
+One affected subject described the exposure as: "It was not looking at me. It
+was looking past me, and then I understood why it was scared."
+
+END OF FILE

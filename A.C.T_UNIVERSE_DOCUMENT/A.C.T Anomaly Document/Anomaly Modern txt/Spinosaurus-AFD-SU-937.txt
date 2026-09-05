@@ -1,0 +1,189 @@
+A.C.T FACILITY — ANOMALY FILE
+Spinosaurus-AFD-SU-937
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-937
+TITLE I:             Spinosaurus
+TITLE II:            THE JURASSIC VESTIGE / THE TIME-FROZEN APEX
+
+FIELD TYPE:          SU — Subject
+                     NB — Non-Natural Bio Hazard (Anomalous Reinforcement)
+
+CLEARANCE REQUIRED:  Level 3
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        4
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           NEUTRAL
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   2024-06-15
+VERIFICATION DATE:   2024-06-20
+LOCATION:            Unmarked temperate forest / [ REDACTED ]
+DISCOVERY METHOD:    Satellite thermal-bloom detection / Local 
+                     disappearance of large game / Verification of a 
+                     localized "Temporal Thaw" signature.
+
+INITIAL RESPONSE
+OPERATION:           Jurassic Hook
+RESPONDING UNIT:     Field Recovery Division / Heavy Biological Intake
+RESPONDING FIELD
+OPERATOR:            Agent Sofia Ramirez
+CIVILIAN EXPOSURE:   Zero.
+AMNESTIC DEPLOYED:   N/A.
+NARRATIVE STATUS:    The region has been declared a "Protected Wildlife 
+                     Conservation Zone" under ACT-SITE-04 oversight.
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-937 is a sentient biological organism bearing an 88% phenotypic 
+resemblance to the *Spinosaurus aegyptiacus* depicted in late 20th-
+century cinema (Ref: Jurassic Park III). The subject measures 15.2 m 
+in length and possesses a large dorsal sail, elongated snout, and 
+powerful three-clawed forelimbs.
+
+Unlike standard biological fossils, AFD-SU-937 is a "Time-Frozen 
+Anomaly." It remained in a state of localized temporal suspension for 
+approximately [ REDACTED ] years, only recently awakening due to a 
+failure in the natural "Stasis Field" at its discovery site.
+
+ANOMALOUS ENHANCEMENTS:
+During its time in suspension, the subject was in direct physical 
+contact with a [ REDACTED ] anomaly source. This prolonged exposure resulted 
+in a total molecular rewrite of its skeletal and dermal structures:
+
+1. TUNGSTEN DURABILITY (SKELETAL): The subject’s bones have been 
+   transmuted into a calcium-tungsten composite. Tests indicate the 
+   skeleton is functionally immune to crushing forces and high-caliber 
+   ballistic impact.
+
+2. KEVLAR III RESISTANCE (DERMAL): The skin and muscle tissue possess 
+   an anomalous tensile strength consistent with high-grade Kevlar III 
+   body armor. Standard blades and small-arms fire fail to penetrate the 
+   epidermis.
+
+BEHAVIORAL PROFILE:
+Despite its anomalous durability, AFD-SU-937 behaves as a normal, 
+territorial apex predator. It does not possess human-level intelligence, 
+memetic properties, or intentional malice. Its primary drives are 
+hunger, territory maintenance, and thermoregulation.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Temporal Vestige. The subject is a living prehistoric 
+                     organism recovered from a localized time-freeze.
+
+SECONDARY EFFECT:    Molecular Reinforcement. Skeleton possesses Tungsten-
+                     grade durability; skin possesses Kevlar-III ballistic 
+                     resistance.
+
+TERTIARY EFFECT:     Metabolic Efficiency. Due to its reinforced 
+                     physiology, the subject requires 300% more caloric 
+                     intake than a non-anomalous reptile of similar mass.
+
+TRIGGER CONDITION:   N/A (Permanent State).
+
+RANGE / AREA OF
+INFLUENCE:           Subject-bound.
+
+TEMPORAL BEHAVIOR:   Post-stasis active state.
+
+REALITY INTERACTION: Biological-Molecular Transmutation / Temporal 
+                     Persistence.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-937 is housed in a "Massive Box" biological arena at 
+ACT-SITE-04-BR-C.
+
+1. STRUCTURAL REINFORCEMENT: The containment walls are composed of 
+   layered **Abyssal Anchor Plating (Item 34)** to withstand the 
+   subject's reinforced physical strikes.
+
+2. THERMAL MANAGEMENT: The arena utilizes **Thermal-Lure Beacons 
+   (Item 15)** to guide the subject into its feeding and medical bays. 
+   Maintaining a 30°C baseline is essential for behavioral stability.
+
+3. TRANQUILIZATION PROTOCOL: Standard tranquilizers are ineffective. 
+   Recovery and medical procedures require a concentrated aerosol 
+   dose equivalent to three (3) adult elephants to achieve sedation.
+
+4. FEEDING: Nutrition is provided twice weekly via an automated 
+   chute. All biological matter must be high-protein and 
+   fortified with tungsten-catalyst minerals to support its 
+   anomalous bone density.
+
+CONTAINMENT SITE:        ACT-SITE-04-BR-C — Verde Null Bio-Reserve
+SITE TYPE:               Primary Site / Biological and Flora-Fauna Enclosure
+JURISDICTIONAL
+AUTHORITY:               Verde Null Command / Bio-Subject Review Desk
+CONTAINING DIVISION:     Subject Care Division
+REQUIRED PERSONNEL:      1 Paleontological Consultant, 2 Heavy Security 
+                         Officers, 1 Bio-Maintenance Technician.
+MONITORING FREQUENCY:    Continuous (Acoustic and Thermal).
+MAINTENANCE CYCLE:       Monthly structural-integrity audit of plating.
+
+BREACH PROTOCOL:         If a breach occurs, deploy the **FCA (Facility 
+                         Converted Aircraft)** with heavy cable-restraints. 
+                         Do not engage with small arms; utilize 
+                         industrial-grade magnetic torsion restraints 
+                         to pin the subject's tungsten skeleton.
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+The "Jurassic Vestige" provides a rare opportunity to study the 
+long-term effects of anomalous exposure on prehistoric biology. The 
+way the [ REDACTED ] source reinforced the subject's bones suggests it 
+was an "Evolutionary Fast-Forward" event rather than a mutation. 
+
+═══════════════════════════════════════════════════════════════════════
+                      TRANSFORMATION NOTES
+═══════════════════════════════════════════════════════════════════════
+
+CURRENT VIABILITY:       NEUTRAL
+
+TRANSFORMATION NOTES:
+Proposals to use the subject as a tactical "Breach-Ram" have been 
+denied by the O5 Council. The creature is non-obedient and its 
+nutritional costs outweigh its potential as a mobile asset. 
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+The subject has a peculiar habit of roaring at the Site-04 transport 
+helicopters. We believe it perceives the rotation of the blades as a 
+rival predator's threat display.
+
+NOTE 002:
+[STRUCTURAL DATA OMITTED]
+
+END OF FILE

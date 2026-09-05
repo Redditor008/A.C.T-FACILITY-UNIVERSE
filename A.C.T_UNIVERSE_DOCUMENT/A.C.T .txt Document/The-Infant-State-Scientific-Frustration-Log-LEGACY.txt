@@ -1,0 +1,216 @@
+A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
+The-Infant-State-Scientific-Frustration-Log-LEGACY
+
+═══════════════════════════════════════════════════════════════════════
+              A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         LEGACY-HIST-001
+TITLE I:             The Infant State (1598 - 1888)
+TITLE II:            THE ERA OF UNREFINED LOGIC / THE FIVE SEEKERS
+
+FIELD TYPE:          N/A — Institutional History
+PRIMARY FILE:        ENTITY_000_ITHYOS (Foundational Link)
+
+DOCUMENT CATEGORY:   CATEGORY VI — Research & Analysis Dossier
+CATEGORY FUNCTION:   Historical record of the Founder-group's early research, 
+                     the "Half-Immortal" condition, and pre-technological 
+                     containment failures.
+
+CLEARANCE REQUIRED:  [ O5-RESTRICTED ]
+
+CONTAINMENT SITE:    Primary Facility / Deep Archive / First Vault
+ARCHIVE STATUS:      Active / Historical Preservation
+DOSSIER STATUS:      Open / Chronology of the Founder's Era / Detailed Review
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category VI — Research & Analysis Dossier. 
+It documents the three-century intellectual and scientific struggle of 
+the five individuals who would eventually form the O5 Council. It 
+traces the evolution of the precursor body, Entity Research Exploration 
+(ERE), from its inception in 1598 to the catastrophic realization of the 
+First Descent in 1888.
+
+INCLUDED LOG TYPES:
+   - The 1598 Threshold (The Genesis of the Pulse)
+   - Mastery of the Material (Scientific Consolidation)
+   - The ENTITY Registry (Archival Evolution)
+   - Failed Enclosures: A Quantitative Review
+   - The Desperation of 1888 (Pre-Descent Log)
+   - Dossier Closing Statement
+
+CATEGORY PURPOSE:
+To preserve the record of the "First Containment Failure"—the 
+unintentional immortality of the Founders. This log provides the 
+archival context for the First Descent, clarifying that A.C.T was born 
+not from curiosity, but from a failed attempt to find a medical cure 
+for a reality-breaking condition.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 001 — THE 1598 THRESHOLD
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              HIST-1598/FOUND-001
+LOG TYPE:            Founder Condition Analysis
+AUTHOR:              [ REDACTED ]
+
+SUMMARY:
+Following the [ BLANK ] incident in the late 16th century, five 
+individuals—possessing varied backgrounds in early natural philosophy, 
+medicine, and metallurgy—were entangled with an anomaly-linked non-aging 
+condition. 
+
+BIO-METRIC RECORDING:
+   - Cellular Decay: Arrested / Static.
+   - Pulse Signature: [ REDACTED ]
+   - Subjective Aging: 0% over [ REDACTED ] years.
+   - Physical Trauma: Standard susceptibility, though recovery patterns 
+     showed anomalous [STRUCTURAL DATA OMITTED].
+
+INITIAL INTENT:
+The Five did not view themselves as divine. They viewed their state as 
+a "System Error" of the natural world. Their first collective decision 
+was to form a private research body dedicated to identifying the 
+triggering event and reversing the biological lock. 
+
+Early efforts were focused on [ BLANK ], believing that if they could 
+reproduce the event in a controlled environment, they could isolate 
+ the "Cure-State."
+
+═══════════════════════════════════════════════════════════════════════
+               SECTION 002 — MASTERY OF THE MATERIAL
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              HIST-1650/SCI-001
+LOG TYPE:            Scientific Consolidation Review
+RANGE:               1650 → 1800
+
+SUMMARY:
+The Founders used their accidental longevity to become the most 
+sophisticated scientific group in human history. By the late 18th 
+century, they had master-level proficiency in:
+   - Newtonian and Post-Newtonian Physics.
+   - Advanced Alchemy (Refined into Early Molecular Chemistry).
+   - Global Cartography.
+   - Comparative Biological Morphology.
+
+RECOVERY EFFORTS:
+As they searched for a cure, they inevitably encountered other "Fractures" 
+in reality. They realized that their immortality was not an isolated 
+event, but part of a wider spectrum of "Impossible Things." They 
+transitioned from self-study to the systematic capture of external 
+anomalies, hoping one of them held the key to the "Life-Clock."
+
+ARCHIVE NOTE:
+During this era, the Founders operated in total seclusion. They manipulated 
+local economies and governments from the shadows only when necessary to 
+secure materials for their laboratories. They were not kings; they were 
+highly-informed prisoners of time.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 003 — THE ENTITY REGISTRY
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              HIST-1800/ARC-001
+LOG TYPE:            Archival Standard Evolution
+AUTHOR:              Archivist [ REDACTED ]
+
+SUMMARY:
+By 1800, the Five had abandoned all mythic nomenclature. Documentation 
+became strictly numerical. The "ENTITY" system was established to 
+strip away emotional and religious bias.
+
+SAMPLE REGISTRY (1800 - 1850):
+   - ENTITY-012: (Now [ BLANK ]) — A spatial displacement stone.
+   - ENTITY-044: (Now [ INFO-HAZARD ]) — A recurring text.
+   - ENTITY-089: (Now [ REDACTED ]) — A biological mimetic.
+
+Every discovery was treated as a data-point for the eventual "Cure 
+Theory." Capture was prioritized over containment; the Five believed 
+that if they could hold a thing, they could eventually master it. This 
+assumption proved to be their greatest intellectual failure.
+
+═══════════════════════════════════════════════════════════════════════
+               SECTION 004 — FAILED ENCLOSURES: A REVIEW
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              HIST-1850/CON-003
+LOG TYPE:            Containment Failure Quantitative Analysis
+RANGE:               1850 → 1888
+
+SUMMARY:
+The ERE era was defined by "Imperfect Starts." Despite the Five's 
+intellectual brilliance, their technology was purely physical. They 
+tried to hold reality-breaks with matter. 
+
+CASE 01: THE VACUUM SPHERES (1742)
+   - GOAL: Silence a [ BLANK ] memetic source.
+   - METHOD: Hand-blown nested glass vacuum chambers.
+   - FAILURE: The sound was not a vibration of air, but a vibration of 
+     [ REDACTED ]. The vacuum held, but the personnel outside did not.
+
+CASE 02: THE CLOCKWORK ANCHOR (1812)
+   - GOAL: Force linear time on a TI-class object.
+   - METHOD: A 4-ton brass and iron differential engine.
+   - FAILURE: The object synchronized the machine to its own loop. The 
+     machine was found 20 years before it was built. 
+
+CASE 03: THE LEAD VESTIBULE (1866)
+   - GOAL: Contain an SP-class "Bleed-Through."
+   - METHOD: 14 layers of high-density lead shielding.
+   - FAILURE: The anomaly did not move through the lead; it used the lead 
+     as a bridge to [STRUCTURAL DATA OMITTED].
+
+FOUNDER CONCLUSION (1870):
+"We are trying to catch the wind with a net made of iron. The universe 
+does not obey the geometry of Euclid, and it certainly does not obey 
+the logic of the steam engine."
+
+═══════════════════════════════════════════════════════════════════════
+             SECTION 005 — THE DESPERATION OF 1888
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              HIST-1888/TRN-001
+LOG TYPE:            Pre-Descent Crisis Log
+DATE:                1888-03-14
+
+CIRCUMSTANCES:
+By early 1888, the Five reached a point of total intellectual exhaustion. 
+Three hundred years of research had yielded no cure, no stabilization 
+of their condition, and a growing ledger of leaking boxes. 
+
+RECOVERED FIELD NOTE:
+"The tremors are increasing. They are not tectonic. They are [ BLANK ]. 
+Everything we have found points downward. The 'Source' is not a 
+metaphor; it is a geographic location. 
+
+We have failed to contain the anomalies on the surface. We have failed 
+to cure our own blood. If we remain above, we will simply watch the 
+world dissolve while we remain unchanging witnesses to its end. 
+
+We are commencing the descent. We are not seeking a god. We are seeking 
+the laboratory where our reality was first broken."
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+The Infant State ended in 1888 with the first eight-month excavation. 
+The Founders entered the core expecting a localizable entity they could 
+reverse to cure themselves. They found ITHYOS. 
+
+They found the World-Sleeper, and in doing so, they realized that 
+"Curing" immortality was irrelevant compared to "Containing" the end 
+of existence. 
+
+MANDATORY BRIEFING PHRASE:
+                     "We sought the cure. We found the foundation. 
+                      Now we keep it asleep."
+
+CURRENT DOSSIER STATUS: Open / O5-Restricted
+
+END OF DOSSIER

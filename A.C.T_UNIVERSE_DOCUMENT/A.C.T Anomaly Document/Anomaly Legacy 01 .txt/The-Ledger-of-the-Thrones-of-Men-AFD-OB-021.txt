@@ -1,0 +1,371 @@
+A.C.T FACILITY — ANOMALY FILE
+The-Ledger-of-the-Thrones-of-Men-AFD-OB-021
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-021
+TITLE I:             The Ledger of the Thrones of Men
+TITLE II:            THE COUNTESS OF HORN — A SECRET CHRONICLE
+
+FIELD TYPE:          OB — Object
+                     Anomalous historical ledger / sovereign-chain archive
+
+CLEARANCE REQUIRED:  Level 3
+
+RELATED ANOMALY:     AFD-SU-009 — The Goat Man-NOO IAM A WOMAN
+                     Commonly addressed as Countess / Her Ladyship
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        1
+
+FRACTURE INDEX —
+SUB-THREAT:          BENEFICIAL
+
+TRANSFORMATION
+VIABILITY:           NEUTRAL
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   1976-11-02
+VERIFICATION DATE:   1976-11-13
+LOCATION:            Sealed vault beneath estate ruin / outskirts of Siena,
+                     Italy
+DISCOVERY METHOD:    Historical anomaly cross-reference / estate vault survey /
+                     linked-document response during AFD-SU-009 intake
+
+INITIAL RESPONSE
+OPERATION:           Horned Ledger Retrieval
+RESPONDING UNIT:     Archiver Division / Historical Anomaly Review
+RESPONDING FIELD
+OPERATOR:            Agent Sofia Bellandi
+CIVILIAN EXPOSURE:   None confirmed during A.C.T recovery
+AMNESTIC DEPLOYED:   No
+NARRATIVE STATUS:    Internal / sealed historical continuity record
+
+RECOVERED MATERIAL:  THE COUNTESS OF HORN HISTORY.txt
+ARCHIVE STATUS:      Transcribed / original sealed
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-021 is a large bound historical ledger measuring 42 cm in height, 29 cm
+in width, and 9 cm in thickness. The cover is dark leather of unknown animal
+origin reinforced with tarnished bronze corner plates. The front bears no formal
+title, but all readers report understanding the object as a royal history book
+written for and about AFD-SU-009, the entity commonly addressed as Countess.
+
+The opening transcribed title reads:
+
+                     THE COUNTESS OF HORN — A SECRET CHRONICLE
+                     The Ledger of the Thrones of Men, Passed Hand to Hand
+                     From Sovereign to Sovereign, in Silence
+
+AFD-OB-021 is not a public history. It is a concealed chain-record written by
+rulers, emperors, kings, crown-bearing nobles, and later political leaders who
+personally encountered AFD-SU-009. Its stated purpose is to ensure that the
+Countess is remembered by those who have stood before her, even when public
+history, common folklore, and institutional record reduce her into distorted
+myth.
+
+The book appears to have been maintained behind the Countess's back, though the
+final appended note suggests AFD-SU-009 has always known of the book and simply
+chooses not to acknowledge it. The relationship between the Countess and the
+ledger is not hostile. The object appears to preserve a duty of remembrance
+around her rather than impose memory upon her directly.
+
+AFD-OB-021 contains entries attributed to a First King, Gaius Julius Caesar,
+King Henri of the Franks, Grand Duke Alessandro, a Last Crowned Hand, and an
+unknown sovereign at the close of an unnamed age. Several entries contain
+historical contradictions, references to lost estates, events missing from
+public record, and descriptions of AFD-SU-009's role in shaping early concepts
+of authority, law, dignity, courtly conduct, and sovereign posture.
+
+The book's central anomalous function is sovereign-chain preservation. When a
+qualified ruler, leader, or successor-authority who has personally met AFD-SU-009
+comes into rightful possession of AFD-OB-021, the object encourages the addition
+of a new chapter. The effect is subtle and non-compulsive under normal
+conditions. Readers report a sense of formal responsibility, as though failing
+to add a chapter would break a chain older than their office.
+
+The ledger does not accept entries from leaders who have only inherited records,
+rumors, titles, or secondhand knowledge of the Countess. To write into the true
+chain, the writer must have stood before her, received her words or correction,
+and departed changed enough to understand the duty.
+
+AFD-OB-021 does not make AFD-SU-009 more famous. It does the opposite: it keeps
+her remembered by those who must remember while allowing the wider world to
+forget, distort, or mythologize her. It is a private archive of royal witness,
+not a public monument.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Sovereign-chain memory preservation. AFD-OB-021 preserves
+                     private ruler-to-ruler memory of AFD-SU-009 across eras,
+                     dynasties, regime changes, and archive loss.
+
+SECONDARY EFFECT:    Chapter-duty response. Qualified leaders who read the book
+                     experience a formal obligation to add testimony only if
+                     they have personally encountered AFD-SU-009.
+
+TERTIARY EFFECT:     Historical survival resistance. AFD-OB-021 has survived
+                     fire, estate collapse, regime transition, library loss,
+                     war displacement, and deliberate concealment without losing
+                     entries.
+
+QUATERNARY EFFECT:   Corrective title pressure. Documents stored near AFD-OB-021
+                     that describe AFD-SU-009 in insulting, incorrect, or
+                     reductive terms may develop marginal corrections using
+                     courtly honorifics.
+
+TRIGGER CONDITION:   Reading by a ruler, sovereign, political leader, or
+                     legitimate successor-authority who has personally met
+                     AFD-SU-009. Archive officers may preserve and annotate but
+                     cannot enter the sovereign chain unless personally received
+                     by the Countess.
+
+RANGE / AREA OF
+INFLUENCE:           Object-bound / marginal correction effect confirmed within
+                     same archive cabinet / memory-duty response subject-bound.
+
+TEMPORAL BEHAVIOR:   Persistent historical continuity preservation / entry
+                     acceptance appears event-responsive.
+
+REALITY INTERACTION: Historical Record Preservation / Authority-Line Memory /
+                     Minor Document Correction / Etiquette-Linked Archive Bias.
+
+QUALIFIED WRITER
+REQUIREMENTS:
+A writer is qualified only if both conditions are true:
+
+   1. The writer holds, or held, recognized sovereign, ruling, command, archive,
+      or successor-authority status.
+   2. The writer has personally met AFD-SU-009 and was directly received,
+      corrected, instructed, or acknowledged by the Countess.
+
+Accepted examples:
+   - crowned sovereign personally received by AFD-SU-009
+   - emperor or imperial claimant personally corrected by the Countess
+   - king, queen, grand duke, president, chancellor, or comparable leader who
+     stood before AFD-SU-009 and departed with direct testimony
+   - guardian of a collapsed throne archive, only if personally received by
+     AFD-SU-009
+   - A.C.T archive officer, only if formally assigned and personally received by
+     the Countess
+
+Not sufficient by itself:
+   - inherited title
+   - inherited archive duty
+   - bloodline claim
+   - possession of the ledger
+   - reading previous entries
+   - secondhand knowledge of the Countess
+   - political authority without personal encounter
+
+NON-QUALIFIED WRITER
+RESPONSE:
+Ordinary personnel, unreceived leaders, inherited-title holders, and readers who
+know of the Countess only through records can write on inserted blank slips,
+notebooks, or derivative copies. They cannot add permanent entries to AFD-OB-021
+itself. Ink placed by non-qualified writers beads on the page surface, dries
+into dust, and falls away within 4 to 12 minutes.
+
+═══════════════════════════════════════════════════════════════════════
+                     RECOVERED TEXT SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+ENTRY:               The First King
+SUMMARY:             Describes the Old Blood as an ageless horned lineage and
+                     states that AFD-SU-009 taught early boundary law, hearth
+                     order, and the true manner of leadership. Establishes the
+                     command that every following sovereign should add truth and
+                     pass the book onward.
+
+ENTRY:               Gaius Julius Caesar
+SUMMARY:             Describes meeting AFD-SU-009 before imperial ascent and
+                     learning the posture of majesty, law, and state authority.
+                     States: "I came to her a warlord. I departed an Emperor."
+
+ENTRY:               King Henri of the Franks
+SUMMARY:             Describes AFD-SU-009 as a living treasury of remembrance
+                     who refuses to write history in what she considers a
+                     narrow clerkly manner. Confirms that the ledger survived
+                     previous library loss.
+
+ENTRY:               Grand Duke Alessandro
+SUMMARY:             Records an etiquette-correction event matching known
+                     AFD-SU-009 anomalous properties, including self-moving
+                     doors, furniture repositioning, and corrective marginalia.
+
+ENTRY:               The Last Crowned Hand
+SUMMARY:             Describes decline of royal secrecy, public reduction of
+                     AFD-SU-009 into "goat-man" folklore, and the decision to
+                     hide the book in the estate vault.
+
+ENTRY:               Unknown Sovereign
+SUMMARY:             States that AFD-SU-009 knows of the book, has always
+                     known, and permits its quiet existence while pretending
+                     not to acknowledge it.
+
+FINAL LINE:
+                     THE CHAIN HOLDS. ADD THY CHAPTER AS THE DUTY DEMANDS.
+                     HER MAJESTY REMAINS UNAWARE OF IT.
+                     (She is aware. She pretends not to be.)
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-021 is stored in a climate-controlled historical archive case within the
+Primary Facility's sealed noble-lineage document chamber. The original is not to
+be displayed publicly, loaned to museums, given to national archives, or shown
+to AFD-SU-009 without her explicit request.
+
+The object is to be handled with gloves and placed on a bowed reading stand.
+Personnel reading AFD-OB-021 must not mock, parody, or deliberately misaddress
+AFD-SU-009 while the book is open. Previous exposure indicates that the ledger's
+marginal correction effect becomes more active when disrespectful phrasing is
+written nearby.
+
+No attempt is to force AFD-SU-009 to acknowledge, read, sign, correct, or
+comment upon AFD-OB-021. Her apparent refusal to acknowledge the ledger is to be
+considered part of the object-subject relationship and not a containment flaw.
+
+If a head of state, royal claimant, government leader, or comparable authority
+becomes unintentionally exposed to AFD-OB-021, the event must be reported to
+Central Archive Administration immediately. If the exposed party attempts to add
+a chapter, writing is to be permitted only under controlled supervision after
+identity, authority status, and confirmed personal encounter with AFD-SU-009 are
+verified.
+
+A.C.T archive officers may add supplementary custodial notes only on inserted
+non-anomalous pages clearly marked as A.C.T commentary. They are not to attempt
+entry into the original sovereign chain unless they have personally met the
+Countess and the book opens a blank page of its own accord.
+
+CONTAINMENT SITE:        Primary Facility / Sealed Noble-Lineage Document Chamber
+SITE TYPE:               Primary Facility / Archive-sensitive historical object
+                         storage
+JURISDICTIONAL
+AUTHORITY:               Central Archive Administration / Historical Anomaly Review
+CONTAINING DIVISION:     Archiver Division
+REQUIRED PERSONNEL:      1 archive handler, 1 historical reviewer, 1 etiquette
+                         liaison if AFD-SU-009 is involved
+MONITORING FREQUENCY:    Monthly physical inspection / annual transcription review
+MAINTENANCE CYCLE:       Climate case calibration every 90 days
+
+BREACH PROTOCOL:         Recover as high-priority archive object. Inspect royal,
+                         diplomatic, museum, and estate archives for sudden
+                         ledger appearance. If found in possession of a leader,
+                         initiate diplomatic cover and retrieve by negotiated
+                         archive claim rather than seizure when possible.
+
+BREACH CONDITIONS —
+THIS ANOMALY IS CONSIDERED
+IN BREACH IF IT:
+   [x] Breaks formal containment
+   [x] Endangers public normalcy
+   [ ] Causes distortion in reality, Earth, time, or cosmic law
+   [ ] Spreads memetic, informational, or biological contamination
+   [ ] Resists classification and escalates beyond predicted behavior
+   [ ] Transforms its environment into an anomalous zone
+   [x] Other: Appears in the possession of an unbriefed political leader,
+              public archive, museum, or anti-A.C.T historical organization
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-021 is one of the strongest historical anchors connected to AFD-SU-009.
+The ledger suggests that the Countess's influence on leadership doctrine may be
+far older and broader than first assumed. Multiple entries describe rulers
+approaching her as warriors, heirs, or uncertain leaders and departing with a
+changed understanding of authority.
+
+The book also supports the Old Blood hypothesis: that AFD-SU-009 is not a
+singular mutation, costume, or transformation case, but the last known survivor
+of an older lineage possessing extreme longevity and stable caprine-humanoid
+traits. The ledger claims her people were hunted, feared, and reduced through
+early conflict, leaving her in chosen seclusion.
+
+A.C.T has not confirmed every historical claim. Several named authors conflict
+with known travel records. However, those travel records are incomplete,
+contradictory, or known to have passed through archives later damaged by war,
+fire, or political cleansing. The ledger's survival across such losses remains
+anomalous but not overtly aggressive.
+
+AFD-OB-021 appears to protect remembrance without creating publicity. This is
+unusual. Most memory-preservation anomalies either spread knowledge or resist
+forgetting broadly. AFD-OB-021 instead preserves a narrow chain: those who hold
+power, inherit duty, or keep the archive. It allows the common world to forget
+because it considers common remembrance unnecessary or unsafe. It also refuses
+secondhand authority: a ruler cannot inherit the right to remember her in the
+ledger without first meeting her.
+
+The final unknown-sovereign entry implies AFD-SU-009's knowledge and consent by
+silence. During controlled discussion, AFD-SU-009 has never confirmed the book's
+existence. When asked indirectly whether leaders should write down what they
+learn from her, she answered: "If they require parchment to remember manners,
+then parchment is already too generous."
+
+═══════════════════════════════════════════════════════════════════════
+                      TRANSFORMATION NOTES
+═══════════════════════════════════════════════════════════════════════
+
+TRANSFORMATION ATTEMPT
+STATUS:              Not recommended
+
+TRANSFORMATION NOTES:
+AFD-OB-021 is not to be repurposed as a political influence tool, leadership
+selection mechanism, diplomatic weapon, or proof of AFD-SU-009's historical
+claims. Its value is archival and relational. Interfering with the sovereign
+chain may damage the only surviving continuity of AFD-SU-009's long historical
+presence.
+
+Digitization is permitted only through sealed non-networked archival scans.
+Digital copies do not reproduce the chapter-duty effect, though they preserve
+readable text.
+
+No attempt is to induce a modern leader to meet AFD-SU-009 or add a chapter for
+research purposes. The book records duty after encounter; it is not a guestbook.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+AFD-OB-021 should not be shown to junior staff as proof that AFD-SU-009 is
+"royalty." The ledger shows that rulers treated her as an authority. It does
+not define her office in modern legal terms.
+
+NOTE 002:
+When AFD-SU-009 was informed that A.C.T had recovered several old estate books,
+she replied: "How dreadful. Men always become sentimental when ink is involved."
+No further comment was provided.
+
+NOTE 003:
+The ledger's repeated instruction, "add thy chapter as the duty demands," is
+not classified as compulsion under current standards. It produces obligation,
+not loss of agency.
+
+NOTE 004:
+The book is not to be corrected for historical spelling, archaic grammar, or
+honorific exaggeration. Attempts to modernize the text have resulted in marginal
+notes reading: "A clerk has touched this."
+
+END OF FILE

@@ -1,0 +1,337 @@
+A.C.T FACILITY — INCIDENT & BREACH DOSSIER
+THE-CLOCK-SAYS-DAWN-Incident-Breach-Dossier-AFD-TI-003
+
+═══════════════════════════════════════════════════════════════════════
+                A.C.T FACILITY — INCIDENT & BREACH DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-TI-003
+TITLE I:             THE CLOCK SAYS DAWN
+TITLE II:            THE HOUR THAT COUNTS BACKWARD
+
+FIELD TYPE:          TI — Time
+PRIMARY FILE:        THE-CLOCK-SAYS-DAWN-AFD-TI-003
+
+DOCUMENT CATEGORY:   CATEGORY IV — Incident & Breach Dossier
+CATEGORY FUNCTION:   Activation-event preservation, exposure-threshold review,
+                     notation-sequence analysis, and procedure correction
+
+CLEARANCE REQUIRED:  Level 3
+
+CONTAINMENT SITE:    ACT-SITE-03-JP-E — Kurokawa Archive Node
+ARCHIVE STATUS:      Active / Chronometric hazard restricted
+DOSSIER STATUS:      Open / Incident record archived
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category IV — Incident & Breach Dossier. The
+document may contain multiple related incident, exposure, transcript, security,
+medical, and procedure review records concerning AFD-TI-003.
+
+INCLUDED LOG TYPES:
+   - Incident Summary
+   - Exposure Timeline
+   - Notepad Transcript
+   - Video / Sensor Review
+   - Post-Incident Medical Review
+   - Procedure Revision Notice
+   - Dossier Closing Statement
+
+CATEGORY PURPOSE:
+To preserve the incident that established the fifty-nine-second visual fixation
+threshold, the 1000x subjective acceleration state, the notepad manifestation,
+and the terminal phrase sequence associated with AFD-TI-003.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-TI-003 is an antique grandfather clock fixed at 05:59. The clock hands do
+not physically move under normal observation or instrument review. However,
+subjects who stare directly at the clock face for fifty-nine continuous seconds
+enter an accelerated subjective time state while exterior time continues
+normally.
+
+During activation, the subject perceives the clock hands reversing through
+unstable time values toward 12:00 PM. A notepad and pencil manifest near the
+subject, and the subject compulsively records statements beginning with "the
+clock says." All confirmed full activation events end with the phrase:
+
+                     THE CLOCK SAYS DAWN
+
+Incident 003-B confirmed that physical interruption after notation begins does
+not reliably stop the event. Prevention must occur before the fifty-nine-second
+threshold.
+
+═══════════════════════════════════════════════════════════════════════
+                    SECTION 001 — INCIDENT SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-TI-003/INC-001
+LOG TYPE:            Incident Summary
+CATEGORY:            Incident & Breach Dossier
+DATE:                1999-01-12
+LOCATION:            ACT-SITE-03-JP-E / Chronometric Object Chamber 2
+INCIDENT NAME:       003-B — Terminal Notation Exposure
+RESPONDING UNIT:     Chronometric Review Cell / Object Containment Division
+LEAD OBSERVER:       Researcher Dr. Akio Moriyama
+EXPOSED SUBJECT:     E-Class E-003-17
+
+SUMMARY:
+Incident 003-B occurred during controlled visual-threshold testing of AFD-TI-003.
+The test was approved to confirm whether line-of-sight interruption after the
+fifty-nine-second trigger could prevent the notation sequence from completing.
+
+E-Class E-003-17 was seated 3 m from AFD-TI-003 with direct view of the clock
+face. A remote blackout panel was prepared between the subject and the clock.
+The panel was scheduled to deploy after activation but before terminal notation.
+
+At 59 seconds, the subject entered activation state and reported that the clock
+was moving. Exterior instruments recorded no movement of AFD-TI-003's hands.
+At 64 seconds, a plain notepad and pencil manifested on the table in front of
+the subject. At 72 seconds, the subject began writing.
+
+At 76 seconds, the blackout panel deployed, fully blocking direct visual contact
+with AFD-TI-003. The subject did not look up. Writing continued for 12 seconds.
+At 88 seconds, the subject completed the final line and entered sudden cardiac
+failure.
+
+Recovered page contained the standard sequence plus an unexpected repeated line:
+
+                     the clock says it is still looking
+
+RESULT:
+Line-of-sight break after notation begins does not reliably stop the sequence.
+Exposure must be prevented before fifty-nine seconds.
+
+═══════════════════════════════════════════════════════════════════════
+                    SECTION 002 — EXPOSURE TIMELINE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-TI-003/TLN-001
+LOG TYPE:            Exposure Timeline
+CATEGORY:            Incident & Breach Dossier
+SOURCE:              Chamber clock, video feed, medical monitor, observer notes
+
+TIME INDEX:
+
+T+00:00 — Subject seated. AFD-TI-003 uncovered. Clock face visible. Hands remain
+fixed at 05:59.
+
+T+00:20 — Subject reports no unusual effect. Pulse slightly elevated due to test
+stress.
+
+T+00:40 — Subject reports "the glass looks deeper." No instrument change.
+
+T+00:55 — Observer issues pre-threshold warning. Subject instructed to describe
+any perceived hand movement.
+
+T+00:59 — Subject says: "It moved." Activation threshold confirmed. Exterior
+video shows no movement of clock hands.
+
+T+01:03 — Subject reports room sound stretching. Audio feed remains normal.
+
+T+01:04 — Notepad manifests on table. Pencil manifests in subject's right hand.
+
+T+01:12 — Subject begins notation sequence.
+
+T+01:16 — Blackout panel deployed. Direct line of sight to clock interrupted.
+
+T+01:17 — Subject says: "No, it is on the page now."
+
+T+01:20 — Writing speed increases. Medical monitor shows severe stress pattern.
+
+T+01:26 — Subject writes phrase later transcribed as "the clock says it is still
+looking." Phrase repeats across lower margin.
+
+T+01:28 — Subject writes terminal phrase. Cardiac failure follows immediately.
+
+T+01:31 — Medical response initiated. AFD-TI-003 remains fixed at 05:59.
+
+T+03:10 — Chamber sealed. Notepad recovered by remote arm.
+
+SUMMARY:
+The event progressed after visual interruption. The notepad may become the
+active reference surface once manifested.
+
+═══════════════════════════════════════════════════════════════════════
+                    SECTION 003 — NOTEPAD TRANSCRIPT
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-TI-003/DOC-001
+LOG TYPE:            Recovered Document Transcript
+CATEGORY:            Incident & Breach Dossier
+SOURCE:              Manifested notepad from Incident 003-B
+STATUS:              Original sealed / transcript cleared for Level 3 review
+
+TRANSCRIPT:
+
+   - the clock says 05:30
+   - the clock says 04:15
+   - the clock says 03:33
+   - the clock says 03:21
+   - the clock says 03:12
+   - the clock says 03:01
+   - the clock says 02:54
+   - the clock says 02:44
+   - the clock says 02:11
+   - the clock says 02:0000001
+   - the clock says 02:00002
+   - the clock says 01:9999999
+
+Lower margin, written diagonally after blackout panel deployment:
+
+   - the clock says it is still looking
+   - the clock says it is still looking
+   - the clock says it is still looking
+   - the clock says it is still looking
+   - the clock says it is still looking
+   - the clock says it is still looking
+   - the clock says it is still looking
+
+Final line, written with increased pressure:
+
+   - THE CLOCK SAYS DAWN
+
+DOCUMENT REVIEW:
+The lower-margin phrase does not appear in standard civilian recovery sequences.
+Its appearance after visual interruption suggests AFD-TI-003's perceived clock
+state may transfer from the physical clock face to the manifested writing medium
+once notation begins.
+
+ARCHIVE WARNING:
+The phrase may be read safely in transcript form. Original notepad remains
+sealed because paper pressure, line order, and graphite density may preserve
+additional temporal residue.
+
+═══════════════════════════════════════════════════════════════════════
+                  SECTION 004 — VIDEO / SENSOR REVIEW
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-TI-003/SEN-001
+LOG TYPE:            Video / Sensor Review
+CATEGORY:            Incident & Breach Dossier
+REVIEWING UNIT:      Chronometric Review Cell
+DATE:                1999-01-14
+
+REVIEW SUMMARY:
+All external instruments confirm that AFD-TI-003 did not move its hands during
+Incident 003-B. No measurable time acceleration occurred in the chamber as a
+whole. The anomaly remained localized to the exposed subject's subjective time
+and manifested notation process.
+
+SENSOR FINDINGS:
+   - Chamber clock remained synchronized with exterior site time.
+   - AFD-TI-003 hands remained fixed at 05:59.
+   - Blackout panel fully blocked optical line of sight after deployment.
+   - Subject continued writing without renewed visual contact.
+   - Video feed lost 3 frames during final phrase, but timestamp remained stable.
+   - Notepad appeared between frames without displacement blur.
+   - Pencil was not present before manifestation.
+
+CHRONOMETRIC ANALYSIS:
+The subject experienced accelerated sequence density without corresponding
+local time dilation. This supports the term subjective temporal acceleration,
+not chamber-wide temporal acceleration.
+
+KEY FINDING:
+AFD-TI-003 is not required to physically move for the subject to perceive clock
+movement. The observed clock may be an imposed internal reference rather than
+the contained object itself.
+
+═══════════════════════════════════════════════════════════════════════
+               SECTION 005 — POST-INCIDENT MEDICAL REVIEW
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-TI-003/MED-001
+LOG TYPE:            Post-Incident Medical Review
+CATEGORY:            Incident & Breach Dossier
+REVIEWING UNIT:      Medical Response / Chronometric Injury Desk
+DATE:                1999-01-15
+
+REVIEW SUMMARY:
+E-003-17's final biological state indicates extreme internal stress inconsistent
+with the short exterior duration of exposure. Findings are consistent with a
+subjective experience of greatly extended panic, exertion, or forced sequence
+compression.
+
+CONFIRMED FINDINGS:
+   - exterior exposure duration under 90 seconds
+   - stress markers consistent with far longer perceived duration
+   - no poison detected
+   - no electrical trauma detected
+   - no ordinary cardiac defect sufficient to explain event alone
+   - no chamber-wide time anomaly detected
+
+INTERPRETATION:
+AFD-TI-003's terminal effect appears to overload the subject's internal sequence
+processing. The phrase "THE CLOCK SAYS DAWN" may mark completion of the imposed
+countdown rather than cause the medical collapse directly.
+
+MEDICAL DIRECTIVE:
+No exposed subject is to be allowed to continue after reporting that the clock
+has moved. Prevention before the threshold remains the only reliable safety
+measure.
+
+═══════════════════════════════════════════════════════════════════════
+               SECTION 006 — PROCEDURE REVISION NOTICE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-TI-003/PRC-001
+LOG TYPE:            Procedure Revision Notice
+CATEGORY:            Incident & Breach Dossier
+ISSUING AUTHORITY:   Chronometric Review Cell / Object Containment Division
+DATE ISSUED:         1999-01-17
+
+REVISION SUMMARY:
+Incident 003-B confirms that interruption after notation begins is insufficient.
+All procedures must prevent exposure from reaching the fifty-nine-second
+activation threshold.
+
+UPDATED PROCEDURES:
+   1. No direct viewing of AFD-TI-003 may exceed 12 seconds under normal
+      inspection conditions.
+   2. Continuous video feeds remain prohibited.
+   3. Any accidental exposure reaching 40 seconds triggers immediate blackout.
+   4. Any exposure reaching 50 seconds triggers emergency shutter activation
+      without awaiting command approval.
+   5. If a subject reports that the clock is moving, personnel are to treat the
+      notation sequence as active or imminent.
+   6. Once notepad manifestation occurs, personnel must not attempt physical
+      interruption by entering the chamber.
+   7. Manifested writing materials are to be recovered by remote arm only.
+   8. Original notepads remain sealed as anomalous documents.
+
+TRAINING PHRASE:
+
+                     Do not wait for the clock to move.
+                     It never has to.
+
+IMPLEMENTATION STATUS:
+Approved. Added to primary containment procedures and chronometric object
+training.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+Incident 003-B established that AFD-TI-003's danger is not the visible clock
+hand. The danger is the subject's entry into a private countdown state that no
+external observer can see or interrupt reliably after onset.
+
+The clock remains fixed. The subject does not.
+
+Future additions to this dossier should include:
+   - variant notation sequences
+   - exposure interruption trials below threshold
+   - notepad material analysis
+   - long-term effects of sub-threshold viewing
+   - comparison between civilian and E-Class notation samples
+   - investigation into why terminal phrase uses "dawn" rather than 12:00 PM
+
+CURRENT DOSSIER STATUS: Open / Procedure Revision Active
+
+END OF DOSSIER

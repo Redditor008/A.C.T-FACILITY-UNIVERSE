@@ -1,0 +1,232 @@
+A.C.T FACILITY — ANOMALY FILE
+The-Sixteenth-Second-Stone-AFD-CH-002
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-CH-002
+TITLE I:             The Sixteenth-Second Stone
+TITLE II:            THE SMALL STAR THAT THINS TIME
+
+FIELD TYPE:          CH — Cosmic Hazard
+                     Object-presenting anomaly / localized temporal dilution
+
+CLEARANCE REQUIRED:  Level 3
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        3
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           CONTAINED-STUDY
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   2009-04-17
+VERIFICATION DATE:   2009-04-29
+LOCATION:            Abandoned observatory storage room / Atacama Region, Chile
+DISCOVERY METHOD:    Civilian missing-time report / atomic clock disagreement /
+                     astronomical equipment failure
+
+INITIAL RESPONSE
+OPERATION:           Quiet Meridian Retrieval
+RESPONDING UNIT:     Field Containment Division / Chronometric Review Cell
+RESPONDING FIELD
+OPERATOR:            Agent Mateo Araya
+CIVILIAN EXPOSURE:   6 confirmed / 19 suspected
+AMNESTIC DEPLOYED:   Yes
+NARRATIVE STATUS:    Controlled as carbon monoxide exposure and equipment fault
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-CH-002 is a medium-sized object measuring approximately 84 cm in height,
+51 cm in width, and 46 cm in depth. It resembles a dark, smooth meteorite
+fragment suspended inside a naturally formed cage of pale metallic ribs. The
+object has a mass of 112 kg despite displacing insufficient volume for any
+known terrestrial mineral composition.
+
+The object emits no measurable heat, radiation, or gravitational distortion
+under ordinary observation. However, optical instruments placed near AFD-CH-002
+record faint stellar parallax inconsistent with the interior containment room.
+Spectrographic analysis suggests the object reflects light from a sky that is
+not currently visible from Earth.
+
+AFD-CH-002's primary anomalous effect activates when a living observer remains
+inside its influence zone for sixteen continuous seconds. The influence zone is
+not spherical. It consistently occupies a rectangular local volume measuring
+approximately 2 m by 3 m, extending outward from the object's forward-facing
+surface. The affected zone has no visible boundary, but dust, condensation,
+and suspended particles move incorrectly inside it during activation.
+
+After the sixteenth second of exposure, local time surrounding the exposed
+subject begins to dilute. Personnel describe this as a thinning, spreading, or
+weakening of sequence. Affected subjects continue to move and speak, but their
+actions lose temporal density: spoken words arrive with missing syllables,
+movements appear partially skipped, and biological processes become unevenly
+paced.
+
+The anomaly does not simply slow time. Instead, time in the affected area
+appears to become less complete. Events still occur, but portions of their
+continuity fail to arrive.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Sixteen-second temporal dilution. After sixteen seconds
+                     of continuous exposure within the 2 m x 3 m influence
+                     zone, the subject's surrounding time loses continuity
+                     and begins to fragment.
+
+SECONDARY EFFECT:    Recorded media captured inside the active zone contains
+                     missing frames, impossible overlaps, and short intervals
+                     where the subject is visible but no longer has a matching
+                     timestamp.
+
+TRIGGER CONDITION:   Continuous biological presence inside the influence zone
+                     for sixteen seconds.
+
+RANGE / AREA OF
+INFLUENCE:           Rectangular local volume / approximately 2 m x 3 m from
+                     forward-facing surface.
+
+TEMPORAL BEHAVIOR:   Delayed activation / exposure-threshold dependent /
+                     self-correcting after removal from range.
+
+REALITY INTERACTION: Local Temporal Distortion / Cosmic Reference Bleed /
+                     Continuity Loss.
+
+KNOWN EFFECTS AFTER
+EXPOSURE:
+   - 1 to 15 seconds: no reliable anomalous effect.
+   - 16 to 24 seconds: mild missing-time sensation, audio gaps, delayed pulse
+     rhythm, incorrect shadow position.
+   - 25 to 40 seconds: subject movement becomes visibly discontinuous;
+     short-term memory develops sequence errors.
+   - 41 to 60 seconds: subject may experience partial temporal absence;
+     external observers report seeing the subject occupy two adjacent moments
+     at once.
+   - Over 60 seconds: risk of permanent continuity injury, including memory
+     holes, arrhythmic organ timing, and inability to perceive event order.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-CH-002 is to be stored in a fixed-orientation containment cradle inside a
+chronometric isolation chamber. The forward-facing surface of the object must
+remain directed toward a sealed dead-wall panel marked with a 3.5 m exclusion
+boundary.
+
+No personnel may stand inside the marked influence zone for more than ten
+continuous seconds. All chamber entry must be conducted using two-person timing
+confirmation, with one observer stationed outside the chamber and one remote
+clock visible from the entry point. Personnel must exit the influence zone
+immediately if audio delay, visual skipping, or pulse desynchronization is
+reported.
+
+The containment chamber must contain no mirrors, polished surfaces, glass
+panels, or autonomous recording devices inside the influence zone. Prior tests
+show that reflected observation may create secondary influence vectors, though
+these reflections remain weaker than the primary field.
+
+AFD-CH-002 is not to be rotated without written approval from Chronometric
+Review and Site Command. Any accidental reorientation is to be treated as a
+containment emergency until the influence zone has been mapped and sealed.
+
+CONTAINMENT SITE:        ACT-SITE-05-ID-C — Nusantara Deep Relay
+SITE TYPE:               Regional Site / Maritime-seismic temporal monitoring
+JURISDICTIONAL
+AUTHORITY:               Chronometric Review Cell / Central Archive Administration
+CONTAINING DIVISION:     Field Containment Division / Cosmic Hazard Study Unit
+REQUIRED PERSONNEL:      2 containment technicians, 1 chronometric observer,
+                         1 medical responder on standby
+MONITORING FREQUENCY:    Continuous passive monitoring / manual review every 6 hours
+MAINTENANCE CYCLE:       Weekly exclusion-grid verification
+
+BREACH PROTOCOL:         Seal chamber, evacuate forward field path, initiate
+                         remote orientation check, and perform timestamp audit
+                         on all personnel who entered the room within the last
+                         24 hours.
+
+BREACH CONDITIONS —
+THIS ANOMALY IS CONSIDERED
+IN BREACH IF IT:
+   [ ] Breaks formal containment
+   [x] Endangers public normalcy
+   [x] Causes distortion in reality, Earth, time, or cosmic law
+   [ ] Spreads memetic, informational, or biological contamination
+   [ ] Resists classification and escalates beyond predicted behavior
+   [ ] Transforms its environment into an anomalous zone
+   [x] Other: Influence zone becomes misaligned with marked containment grid
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-CH-002 is classified as a cosmic hazard despite its object-like body
+because its effect appears to reference an external cosmic time standard rather
+than any known terrestrial temporal frame. The object's surface reflections
+contain star positions that do not match current sky maps, historical sky maps,
+or predicted future arrangements within accepted cosmological models.
+
+A.C.T researchers currently theorize that AFD-CH-002 may be a fragment of a
+larger structure designed to separate events from their sequence. The sixteen
+second delay is believed to be either a calibration threshold or a safety
+interval remaining from the object's original function.
+
+Subjects removed before the sixteenth second show no lasting effect. Subjects
+removed after activation may recover if exposure remains under forty seconds,
+though they frequently report remembering actions in the wrong order for
+several hours.
+
+═══════════════════════════════════════════════════════════════════════
+                      TRANSFORMATION NOTES
+═══════════════════════════════════════════════════════════════════════
+
+TRANSFORMATION ATTEMPT
+STATUS:              Prohibited pending further study
+
+TRANSFORMATION NOTES:
+AFD-CH-002 has potential use as a controlled time-dilution tool for emergency
+containment, evidence disruption, or short-duration event separation. However,
+the incomplete nature of its temporal effect makes controlled use unsafe.
+A.C.T does not currently possess a reliable method to restore all missing
+sequence data after prolonged exposure.
+
+No repurposing trial may exceed twelve seconds of direct-zone interaction.
+Testing beyond this threshold requires Level 4 authorization and medical
+continuity monitoring.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+The anomaly is not to be described to junior staff as a time-slowing object.
+That description has caused repeated procedural complacency. The correct term
+is temporal dilution. Slowed time remains whole. Diluted time does not.
+
+NOTE 002:
+During Retrieval Operation Quiet Meridian, one civilian witness remained in the
+active zone for an estimated 72 seconds. The witness survived but could not
+answer questions in chronological order. When asked what happened first, the
+witness replied: "The last part got here before I did."
+
+END OF FILE

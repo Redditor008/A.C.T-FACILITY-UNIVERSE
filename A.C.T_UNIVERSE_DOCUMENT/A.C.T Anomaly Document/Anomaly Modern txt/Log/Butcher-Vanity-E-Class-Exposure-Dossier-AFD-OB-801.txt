@@ -1,0 +1,131 @@
+A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+Butcher-Vanity-E-Class-Exposure-Dossier-AFD-OB-801
+
+═══════════════════════════════════════════════════════════════════════
+              A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-801
+TITLE I:             Butcher Vanity
+TITLE II:            THE VESTIBULE OF SLAUGHTER
+
+FIELD TYPE:          OB — Object
+PRIMARY FILE:        Butcher-Vanity-AFD-OB-801
+
+DOCUMENT CATEGORY:   CATEGORY III — Experiment & Testing Dossier
+CATEGORY FUNCTION:   Compulsion-threshold mapping, matter-transmutation 
+                     verification, and auditory-whisper logging using 
+                     expendable personnel.
+
+CLEARANCE REQUIRED:  Level 4 / Memetic Hazard Desk
+
+CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex
+ARCHIVE STATUS:      Active / High-Risk Memetic
+DOSSIER STATUS:      Open / E-Class Trial Cycle 04 Compiled
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier documents the controlled exposure of E-Class subjects to 
+AFD-OB-801 (Butcher Vanity). The objective was to define the exact 
+second when the "Urge to Butcher" overrides the human survival instinct 
+and to analyze the "Meat-Reversion" effect on non-biological targets.
+
+INCLUDED LOG TYPES:
+   - Trial 801-E-01: The Wood-to-Flesh Transmutation
+   - Trial 801-E-02: Auditory Progression (The Whisper Count)
+   - Incident Report: E-801-14 Post-Test Recovery
+   - Senior Researcher Aris Thorne: Clinical Observation Note
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 001 — THE WOOD-TO-FLESH TRIAL
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-801/TST-E01
+DATE:                2024-02-14
+SUBJECT:             E-Class E-801-09 (PR Score: 42)
+
+PROCEDURE:
+Subject was instructed to enter the vault and utilize AFD-OB-801-A (The 
+Cleaver) to strike a 10cm x 10cm oak block. Subject was fitted with 
+a remote-release collar for safety.
+
+OBSERVATION:
+[00:00:12] — Subject perceives the cleaver. Immediate dilation of 
+              pupils recorded.
+[00:00:45] — Subject approaches the trunk. He is heard whispering: 
+              "It's just steel. It's just a tool."
+[00:01:14] — Subject grabs the handle. No electrical discharge. 
+              Subject's breathing becomes heavy and "wet."
+[00:01:20] — THE STRIKE: Subject impacts the oak block. 
+[00:01:21] — ANALYSIS: The oak block does not splinter. High-speed 
+              cameras record the wood grain deforming into muscle 
+              fibers and a small section of "marrow-bone" at the 
+              impact site. 
+[00:01:28] — REVERSION: The block bleeds for 7 seconds before 
+              instantaneously reverting to oak. 
+
+RESULT:
+Verification of "Matter Transmutation." The object forces its own 
+narrative (Butchery) onto the environment regardless of material 
+composition.
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 002 — THE WHISPER PROGRESSION
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-801/TST-E02
+DATE:                2024-03-01
+SUBJECT:             E-Class E-801-12 (PR Score: 89 - High Resilience)
+
+PURPOSE:
+To map the auditory output of the "Strong Mind" threshold.
+
+LOGGED DATA:
+- T+5 min: Subject reports a "hissing radiator" sound. 
+- T+12 min: Subject identifies a voice. "It wants me to use it. It says 
+            I'm holding it wrong."
+- T+30 min: Subject reports the first "Meat Count." The voice began 
+            listing the weight of the subject's own internal organs in 
+            ounces. 
+- T+45 min: Subject reports a "Chorus." Thousands of voices repeating: 
+            "tHerre soomUuch Meaat."
+
+RESULT:
+High PR subjects are not immune; the anomaly simply shifts from a 
+compulsion to a persistent auditory harassment. E-801-12 requested 
+immediate termination of the test.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 003 — ARCHIVIST'S ANALYSIS
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-801/THORNE-04
+AUTHOR:              Aris Thorne (SR-412)
+
+"I sat in the observation booth for the E-801-12 trial. The subject was 
+strong, but the air in the room was 'Thick.' 
+
+The Butcher Vanity isn't just a cleaver. It’s an appetite that has 
+found a way to speak. The fact that the wood turns to meat is the most 
+disturbing part. It suggests that the anomaly doesn't see 'Matter'—it 
+only sees potential cuts of steak. 
+
+To this object, the universe is just one very large, un-butchered 
+carcass. We are not containing a weapon. We are containing a 
+fundamental hunger that found a handle."
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+MANDATORY PERSONNEL NOTICE:
+                     The cleaver is the mouth. 
+                     The trunk is the stomach. 
+                     Do not offer them anything to chew.
+
+CURRENT DOSSIER STATUS: Open / Psychological Decay Monitoring Active
+
+END OF DOSSIER

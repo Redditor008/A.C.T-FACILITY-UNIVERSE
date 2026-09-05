@@ -1,0 +1,377 @@
+A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+I-AM-A-Test-Testing-Dossier-AFD-OB-001
+
+═══════════════════════════════════════════════════════════════════════
+              A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-001
+TITLE I:             I AM A Test
+TITLE II:            Example Iteration Paper
+
+FIELD TYPE:          OB — Object
+PRIMARY FILE:        I-AM-A-Test-AFD-OB-001
+
+DOCUMENT CATEGORY:   CATEGORY III — Experiment & Testing Dossier
+CATEGORY FUNCTION:   Controlled interaction, trigger confirmation, archive
+                     handling validation, and training-use assessment
+
+CLEARANCE REQUIRED:  Level 1
+
+CONTAINMENT SITE:    Primary Facility / Central Archive / Document Reference Storage
+ARCHIVE STATUS:      Active / Training-Approved
+DOSSIER STATUS:      Closed / Training Reference Active
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category III — Experiment & Testing Dossier.
+The document may contain multiple related log types as long as they support the
+same category function.
+
+INCLUDED LOG TYPES:
+   - Baseline Intake Log
+   - Trigger Confirmation Test
+   - Physical Alteration Test
+   - Digital Alteration Test
+   - Reproduction Test
+   - Authorized Revision Test
+   - Handling Training Log
+   - Archive Review Note
+
+CATEGORY PURPOSE:
+To preserve the controlled evidence showing how AFD-OB-001 behaves under safe
+archive testing conditions. The dossier explains why the main anomaly file lists
+AFD-OB-001 as INERT, Threat Level 0, and approved for Level 1 training use.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-001, designated I AM A Test, is a harmless document-state anomaly used
+by A.C.T as a controlled example for anomaly-file familiarization.
+
+The object's confirmed anomalous property is an immutable first-completion lock.
+Once the first finalized version exists, the document resists alteration by
+ordinary physical, digital, procedural, and authorized revision methods. New
+versions may be created as separate records, but the first completed version
+cannot be changed.
+
+This dossier confirms that AFD-OB-001 is:
+
+   - non-hostile
+   - object-bound
+   - safe for supervised archive training
+   - resistant only to post-completion alteration
+   - not memetic, biological, informational, or spatially hazardous
+
+A main anomaly file tells personnel what to do. This dossier records why those
+instructions exist.
+
+═══════════════════════════════════════════════════════════════════════
+                     SECTION 001 — BASELINE INTAKE LOG
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-001/TST-001
+LOG TYPE:            Baseline Intake Log
+CATEGORY:            Experiment & Testing Dossier
+CONDUCTING UNIT:     Archiver Division / Classification Review
+DATE:                [ INTERNAL TEST ISSUE ]
+
+PURPOSE:
+To establish whether AFD-OB-001 presents any immediate hazard before controlled
+interaction testing.
+
+PROCEDURE:
+AFD-OB-001 was placed on a clean archive inspection surface and reviewed for
+ordinary physical hazards, memetic contamination, biological residue, chemical
+contaminants, unstable ink, embedded signal material, and hostile document
+behavior.
+
+OBSERVATIONS:
+   - Object presents as a single ordinary sheet of paper.
+   - No hazardous odor, heat, radiation, moisture, residue, or sound detected.
+   - No unusual response to reading, handling, or indirect observation.
+   - No behavioral response to personnel presence.
+   - Text remained stable during baseline review.
+
+RESULT:
+No direct hazard detected. Object approved for further low-risk testing.
+
+ARCHIVE NOTE:
+The object remained fully readable throughout intake. No personnel reported
+headache, memory loss, compulsive rereading, emotional pressure, or perceptual
+shift.
+
+═══════════════════════════════════════════════════════════════════════
+                  SECTION 002 — FIRST-COMPLETION LOCK TEST
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-001/TST-002
+LOG TYPE:            Trigger Confirmation Test
+CATEGORY:            Experiment & Testing Dossier
+CONDUCTING UNIT:     Archive Testing Staff
+DATE:                [ SAME-DAY VERIFIED ]
+
+PURPOSE:
+To determine whether the document's immutability begins before, during, or after
+completion of the first finalized iteration.
+
+PROCEDURE:
+A controlled draft sheet was created using approved archive formatting. During
+active drafting, archive staff made minor changes to line spacing, section
+labels, and designation placement. After final review, the document was declared
+complete and placed into archive custody.
+
+After completion declaration, staff attempted to apply one minor authorized
+revision to a noncritical line.
+
+OBSERVATIONS:
+   - Edits made before finalization applied normally.
+   - Formatting changes before finalization persisted normally.
+   - After completion declaration, the authorized revision failed.
+   - No physical damage occurred to the paper.
+   - The attempted revision did not appear as ghost text, crossed-out text, or
+     alternate overlay.
+   - The document preserved the first completed state.
+
+RESULT:
+Confirmed. AFD-OB-001 enters immutable state after first finalized iteration.
+
+CONCLUSION:
+The anomaly does not prevent drafting. It prevents post-completion alteration.
+
+═══════════════════════════════════════════════════════════════════════
+                     SECTION 003 — ERASURE TEST LOG
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-001/TST-003
+LOG TYPE:            Physical Alteration Test
+CATEGORY:            Experiment & Testing Dossier
+CONDUCTING UNIT:     Archiver Division
+DATE:                [ INTERNAL ]
+
+PURPOSE:
+To determine whether finalized document content can be removed by ordinary
+physical erasure or surface disruption.
+
+PROCEDURE:
+A non-primary controlled duplicate produced during testing was subjected to
+limited erasure attempts using standard archive-safe methods. No destructive
+chemical process was authorized.
+
+TESTED METHODS:
+   - soft eraser
+   - hard eraser
+   - dry cloth abrasion
+   - graphite overlay correction
+   - adhesive correction strip
+   - archival tape overlay
+
+OBSERVATIONS:
+   - Erasers passed over text without removing it.
+   - Abrasion did not degrade text clarity.
+   - Graphite overlay failed to obscure original characters.
+   - Correction strip would not adhere directly over locked text.
+   - Archival tape adhered to paper but original text remained readable through
+     the tape regardless of opacity rating.
+
+RESULT:
+Physical erasure failed. Content remained unchanged.
+
+ARCHIVE NOTE:
+Testing staff reported the sensation that the document was not resisting damage,
+but simply treating revision as inapplicable.
+
+═══════════════════════════════════════════════════════════════════════
+                   SECTION 004 — DIGITAL REVISION TEST LOG
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-001/TST-004
+LOG TYPE:            Digital Alteration Test
+CATEGORY:            Experiment & Testing Dossier
+CONDUCTING UNIT:     Central Archive Administration
+DATE:                [ INTERNAL ]
+
+PURPOSE:
+To determine whether digital reproduction, scanning, or file editing can bypass
+the first-completion lock.
+
+PROCEDURE:
+AFD-OB-001 was scanned using a non-networked archive scanner. A digital image
+and text transcription were created. Staff attempted to revise the digital file,
+then printed the altered version for comparison.
+
+OBSERVATIONS:
+   - The scanner captured the original completed state.
+   - Digital file opened normally.
+   - Attempted edits appeared to apply during active editing.
+   - Upon saving, closing, and reopening the file, altered portions reverted to
+     the original completed state.
+   - Printed copies produced from the altered file matched the original completed
+     state rather than the attempted revision.
+   - Metadata recorded a save action but no corresponding content change.
+
+RESULT:
+Digital revision failed after finalization. Digital copies preserve the original
+completed state when derived directly from AFD-OB-001.
+
+CONCLUSION:
+The immutability effect extends to direct digital representations produced from
+the object. It does not prevent independent new documents from being written
+about the object.
+
+═══════════════════════════════════════════════════════════════════════
+                       SECTION 005 — COPY TEST LOG
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-001/TST-005
+LOG TYPE:            Reproduction Test
+CATEGORY:            Experiment & Testing Dossier
+CONDUCTING UNIT:     Archive Testing Staff
+DATE:                [ INTERNAL ]
+
+PURPOSE:
+To determine whether manually created copies inherit the anomalous lock.
+
+PROCEDURE:
+Three archive staff members manually copied AFD-OB-001's content onto separate
+sheets while viewing the original. After completing the copies, each staff
+member attempted to revise their own copy.
+
+OBSERVATIONS:
+   - Manual copies could be created normally.
+   - Copy A remained editable after completion.
+   - Copy B remained editable after completion.
+   - Copy C became resistant to revision only after the copyist declared it a
+     formal training derivative.
+   - Copy C's resistance was weaker than the original and ended after the word
+     "derivative" was crossed out on its file label.
+
+RESULT:
+Manual copies do not automatically inherit AFD-OB-001's full anomalous property.
+Formal archive treatment may create minor symbolic resistance, but not a stable
+secondary anomaly.
+
+ARCHIVE NOTE:
+Personnel are advised not to overformalize practice copies. The document appears
+sensitive to completion status, not to content alone.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 006 — AUTHORIZED REVISION ATTEMPT
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-001/TST-006
+LOG TYPE:            Authorized Revision Test
+CATEGORY:            Experiment & Testing Dossier
+CONDUCTING UNIT:     Classification Review
+DATE:                [ INTERNAL ]
+
+PURPOSE:
+To determine whether proper authority can override the first-completion lock.
+
+PROCEDURE:
+An authorized archive officer attempted to amend a minor spacing error using
+standard revision approval. The attempt was documented, signed, and filed before
+application.
+
+OBSERVATIONS:
+   - Approval paperwork processed normally.
+   - Revision tool functioned normally on blank paper.
+   - Revision did not appear on AFD-OB-001.
+   - The approval form updated itself with the phrase: "new version required."
+   - No other document modification occurred.
+
+RESULT:
+Authority does not override immutability. Authorized revision attempts are
+redirected toward separate-version creation.
+
+CONCLUSION:
+AFD-OB-001 does not reject A.C.T authority. It rejects alteration of completed
+state.
+
+═══════════════════════════════════════════════════════════════════════
+                    SECTION 007 — HANDLING TRAINING LOG
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-001/TRN-001
+LOG TYPE:            Handling Training Log
+CATEGORY:            Experiment & Testing Dossier
+CONDUCTING UNIT:     Archiver Division
+DATE:                [ INTERNAL ]
+
+PURPOSE:
+To evaluate AFD-OB-001 as a Level 1 training object for new archive personnel.
+
+PROCEDURE:
+New personnel were shown AFD-OB-001 as part of anomaly document familiarization.
+The training session explained designation format, containment class, threat
+level, anomaly field type, and the difference between revising a file and
+creating a new record.
+
+OBSERVATIONS:
+   - Personnel understood object-bound anomaly behavior quickly.
+   - No panic, confusion, or overreaction recorded.
+   - AFD-OB-001 proved useful for explaining that harmless anomalies still
+     require classification discipline.
+   - Two trainees attempted to suggest improving the file format. Both were
+     instructed to create derivative practice records instead.
+
+RESULT:
+Approved for supervised Level 1 training use.
+
+TRAINING NOTE:
+AFD-OB-001 is useful because it demonstrates an anomaly with no threat, no
+hostility, and no dramatic breach behavior while still requiring procedural
+respect.
+
+═══════════════════════════════════════════════════════════════════════
+                     SECTION 008 — ARCHIVE REVIEW NOTE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-001/REV-001
+LOG TYPE:            Archive Review Note
+CATEGORY:            Experiment & Testing Dossier
+REVIEWING UNIT:      Central Archive Administration
+DATE:                [ INTERNAL ]
+
+REVIEW SUMMARY:
+AFD-OB-001 is retained as a reference object and training example. Its value is
+not strategic, defensive, medical, informational, or transformational. Its value
+is procedural. It teaches that anomaly status is not determined by danger alone.
+
+The object is harmless, but it is still impossible under normal document law.
+The completed version remains completed regardless of preference, correction,
+authority, or revision desire.
+
+CLASSIFICATION CONFIRMED:
+   - Field Type: OB — Object
+   - Containment Class: INERT
+   - Threat Level: 0
+   - Transformation Viability: INVIOLABLE
+   - Training Use: Approved
+
+ARCHIVE DIRECTIVE:
+Do not attempt further correction of AFD-OB-001. If a cleaner, corrected, or
+expanded version is needed, create a new document under a separate title or
+append a dossier entry. The original is to remain as first completed.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-001 requires no additional testing at this time. All known anomalous
+behavior is limited to preservation of first completed document state.
+
+Further logs may be added only if:
+   - AFD-OB-001 exhibits new behavior.
+   - AFD-OB-001 affects unrelated documents.
+   - AFD-OB-001 resists storage.
+   - AFD-OB-001 generates new copies without personnel action.
+   - AFD-OB-001 becomes relevant to a larger archive-fracture event.
+
+CURRENT DOSSIER STATUS: Closed / Training Reference Active
+
+END OF DOSSIER

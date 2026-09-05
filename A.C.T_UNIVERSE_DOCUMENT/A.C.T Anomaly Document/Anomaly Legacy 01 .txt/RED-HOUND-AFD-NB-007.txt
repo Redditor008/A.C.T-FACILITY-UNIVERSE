@@ -1,0 +1,296 @@
+A.C.T FACILITY — ANOMALY FILE
+RED-HOUND-AFD-NB-007
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-NB-007
+TITLE I:             RED HOUND
+TITLE II:            THE MEAT THAT CALLS IN YOUR VOICE
+
+FIELD TYPE:          NB — Non-Natural Bio Hazard
+                     Predatory organism / amnestic claw effect / vocal mimicry
+
+CLEARANCE REQUIRED:  Level 4
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   EXIGENT
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        4
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           INVIOLABLE
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   2003-06-19
+VERIFICATION DATE:   2003-06-23
+LOCATION:            Decommissioned mining access road / Northern Cape,
+                     South Africa
+DISCOVERY METHOD:    Missing-person cluster / contradictory distress calls /
+                     field recovery team memory gaps
+
+INITIAL RESPONSE
+OPERATION:           Red Kennel Sweep
+RESPONDING UNIT:     Field Containment Division / Biohazard Suppression Unit
+RESPONDING FIELD
+OPERATOR:            Agent Thabo Mbeki
+CIVILIAN EXPOSURE:   27 suspected / 9 confirmed fatalities
+AMNESTIC DEPLOYED:   Yes
+NARRATIVE STATUS:    Controlled as illegal predator import, mine collapse,
+                     and heat exposure fatalities
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-NB-007 is a large quadrupedal predatory organism superficially resembling a
+hound or oversized hunting dog. The organism measures approximately 3 m at the
+shoulder when standing and has an estimated mass between 910 and 1,120 kg,
+depending on feeding state.
+
+AFD-NB-007 is blind. The head contains no eyes and no eye sockets. The forward
+cranial region is instead covered by continuous natural skin, dense scar-like
+folds, and heat-sensitive pits arranged along the snout ridge. Despite lacking
+visual organs, the organism navigates with high accuracy in darkness, smoke,
+dust, and unfamiliar structures.
+
+The body is composed of jagged protruding red muscular tissue covered only in
+partial natural skin. Large sections of the torso, shoulders, spine, and limbs
+appear as exposed red meat, though the tissue does not rot under normal
+conditions. Hardened spike-like growths protrude from the organism's back,
+neck, elbows, and ribs. These spikes are made of a cartilage-bone composite
+wrapped in living muscle fibers and tear free from surrounding objects when the
+organism forces itself through narrow spaces.
+
+The forelimbs end in massive claws, each between 31 and 46 cm in length. The
+claws are black-red, serrated along the inner edge, and coated in an oily film
+that resists ordinary sterilization. Contact with these claws produces a minor
+amnestic effect in living targets. Victims scratched by AFD-NB-007 frequently
+forget the immediate cause of injury, the direction from which the organism
+approached, or the fact that they heard it before seeing it.
+
+AFD-NB-007 is an ambush scavenger-predator. After consuming a target, it can
+mimic sounds produced by that target, including speech, crying, coughing,
+whistling, radio call signs, and short distress phrases. The mimicry is not
+perfect in linguistic content but is emotionally accurate enough to draw other
+victims toward the feeding site.
+
+After feeding, AFD-NB-007 exhales or vents a red mist from gaps between the
+ribs and throat. Inhalation of this mist causes acute neurological and emotional
+collapse in exposed subjects. Affected individuals enter critical breakdown,
+marked by panic, disorientation, loss of motor planning, respiratory distress,
+and sudden inability to distinguish real voices from mimicked ones.
+
+The organism's body has a natural resistance to blunt force trauma. Impact
+weapons, low-caliber kinetic rounds, vehicular collision, falling debris, and
+standard restraint impact systems produce little operational impairment unless
+combined with cutting, thermal, or chemical suppression.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Predatory non-natural biology. AFD-NB-007 is a blind,
+                     hound-like organism with exposed red meat tissue, jagged
+                     spike growths, massive claws, and extreme blunt-force
+                     resistance.
+
+SECONDARY EFFECT:    Claw-induced amnestic damage. Scratches from AFD-NB-007
+                     cause localized memory loss around attack circumstances,
+                     making pursuit, testimony, and tactical response unreliable.
+
+TERTIARY EFFECT:     Post-consumption vocal mimicry. After eating a target,
+                     AFD-NB-007 can reproduce the victim's sounds and emotional
+                     vocal patterns to lure additional prey.
+
+QUATERNARY EFFECT:   Red mist breakdown. After feeding, AFD-NB-007 releases a
+                     red aerosol that causes critical psychological and
+                     neurological breakdown when inhaled.
+
+TRIGGER CONDITION:   Feeding intensifies mimicry and mist production. Claw
+                     contact triggers amnestic injury. Threat response is
+                     triggered by sound, heat, blood scent, and rapid movement.
+
+RANGE / AREA OF
+INFLUENCE:           Physical contact for claw effect / vocal lure effective up
+                     to 600 m in open terrain / red mist hazardous within 18 m
+                     under still-air conditions.
+
+TEMPORAL BEHAVIOR:   Active predatory cycle / post-feeding aerosol period lasts
+                     11 to 34 minutes.
+
+REALITY INTERACTION: Biological-Law Violation / Memory Suppression via Tissue
+                     Contact / Predatory Acoustic Mimicry.
+
+KNOWN BIOLOGICAL
+FEATURES:
+   - no eyes or eye sockets
+   - continuous skin over cranial front
+   - exposed non-decaying red muscular tissue
+   - jagged dorsal and rib spikes
+   - massive serrated claws
+   - reinforced cartilage-bone composite frame
+   - extreme blunt-force dissipation across muscle layers
+   - red aerosol sacs near throat and rib gaps
+   - throat structure capable of multi-source vocal reproduction
+
+DOCUMENTED MIMICRY
+SAMPLES:
+   - "help me, the dog is gone"
+   - "this way, I found the road"
+   - "mother, answer me"
+   - three separate police radio identifiers
+   - one deceased miner's cough pattern repeated for 46 minutes
+   - sound of an infant crying, despite no infant victim being present in the
+     verified feeding record
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-NB-007 is housed in an underground reinforced biological containment arena
+with layered cutting-barrier gates, thermal suppression vents, and negative
+pressure aerosol control. The chamber is not to contain unsecured blunt impact
+restraints as primary containment. Hydraulic pressure gates may be used only if
+paired with edge-locking anchors designed to catch and tear spike growths away
+from movement paths.
+
+All personnel entering observation level must wear sealed respiratory equipment
+rated for anomalous aerosol exposure. No personnel may enter the primary arena
+while AFD-NB-007 is within 6 hours of feeding. Post-feeding red mist must be
+fully filtered and chemically bound before maintenance access is approved.
+
+Acoustic monitoring is to be filtered through voice-scrambling review software.
+Personnel are prohibited from responding directly to any voice, cry, distress
+call, familiar name, or command originating from the containment arena unless
+confirmed by two independent staff members outside the acoustic exposure zone.
+
+Feeding is conducted remotely every 21 days using non-human biological mass.
+Human remains, human blood, recorded human voices, personal clothing, and audio
+materials from missing-person cases are prohibited within the containment wing.
+Testing involving human vocal mimicry requires Level 4 authorization and must
+use synthetic voice constructs only.
+
+AFD-NB-007 must never be subdued by blunt-force methods alone. Approved
+suppression options include thermal shock, cutting cable nets, immobilizing
+foam with embedded razors, aerosol sedatives, and directional ultrasonic
+saturation.
+
+CONTAINMENT SITE:        ACT-SITE-02-RU-N — White Grave Station
+SITE TYPE:               Primary Site / Cryogenic biological isolation
+JURISDICTIONAL
+AUTHORITY:               Biohazard Suppression Unit / Central Archive Administration
+CONTAINING DIVISION:     Biohazard Containment Division / Predatory Organism Desk
+REQUIRED PERSONNEL:      4 biohazard technicians, 2 remote weapons operators,
+                         1 acoustic review officer, 1 medical responder team
+MONITORING FREQUENCY:    Continuous thermal, acoustic, and aerosol monitoring
+MAINTENANCE CYCLE:       Biweekly barrier inspection / post-feeding filter purge
+
+BREACH PROTOCOL:         Initiate silent lockdown. Do not use vocal commands.
+                         Flood route intersections with thermal suppressant and
+                         deploy cutting cable gates. Personnel must ignore all
+                         distress calls unless visually confirmed outside the
+                         breach zone. Respiratory seals are mandatory.
+
+BREACH CONDITIONS —
+THIS ANOMALY IS CONSIDERED
+IN BREACH IF IT:
+   [x] Breaks formal containment
+   [x] Endangers public normalcy
+   [ ] Causes distortion in reality, Earth, time, or cosmic law
+   [x] Spreads memetic, informational, or biological contamination
+   [ ] Resists classification and escalates beyond predicted behavior
+   [x] Transforms its environment into an anomalous zone
+   [x] Other: Mimicked human distress calls are detected outside approved
+              acoustic containment range
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-NB-007 is considered a high-risk biological predator primarily because it
+attacks response structure rather than merely attacking bodies. The claw effect
+prevents witnesses from retaining reliable tactical memory. The mimicry effect
+turns rescue behavior into a feeding path. The red mist disables survivors and
+creates additional vulnerable targets.
+
+The organism's lack of eyes appears genuine, not vestigial. Dissection of shed
+cranial tissue shows no evidence of orbital formation, optic nerves, or
+recessed visual organs. Navigation is believed to rely on heat, pressure waves,
+chemical traces, and possibly heartbeat recognition.
+
+Blunt-force resistance is produced by layered muscle sliding around a flexible
+bone-cartilage lattice. Incoming force disperses through the red meat tissue as
+wave-like ripples, reducing fracture and organ trauma. Cutting damage remains
+more effective, though wounds close rapidly after feeding.
+
+The amnestic claw effect is localized but operationally severe. Scratched
+subjects often remember fear, pain, and the sound of pursuit but forget the
+physical appearance of AFD-NB-007. This has caused multiple false reports of
+human attackers, ordinary canines, and "something red that was already behind
+me."
+
+═══════════════════════════════════════════════════════════════════════
+                      TRANSFORMATION NOTES
+═══════════════════════════════════════════════════════════════════════
+
+TRANSFORMATION ATTEMPT
+STATUS:              Prohibited
+
+TRANSFORMATION NOTES:
+AFD-NB-007 is not approved for weaponization, tracking, guard use, or behavioral
+repurposing. Attempts to condition the organism have failed. It can learn
+feeding schedules and gate locations, but shows no stable handler recognition
+or obedience response.
+
+The organism's mimicry has limited research value for acoustic deception study,
+but all such testing is restricted due to the risk of personnel attachment to
+reproduced voices of deceased individuals.
+
+Neutralization has been proposed twice and denied twice. Current doctrine holds
+that study of its amnestic claw secretion and aerosol breakdown mechanism may
+provide defensive value against related predatory anomalies. This decision is
+under annual review.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+Personnel are reminded that AFD-NB-007 is blind. Covering lights, using visual
+camouflage, or freezing in place does not significantly reduce detection risk.
+Reducing sound, heat signature, and respiratory output is more effective.
+
+NOTE 002:
+During Incident 007-C, the organism used the voice of Technician O. Sokolov to
+say, "Open the inside gate, I am still in here." Technician Sokolov was alive
+and accounted for in Observation Room 2 at the time. The voice was later
+matched to a cough sample recorded from Sokolov during a medical exam three
+weeks earlier.
+
+NOTE 003:
+The phrase "victim/meal" appears in early field notes recovered from Agent
+Mbeki's damaged recorder. Later review confirmed the phrase was not spoken by
+any team member. It appeared as automatic transcription beneath 11 seconds of
+red-mist static.
+
+NOTE 004:
+If a familiar voice is heard from the arena after feeding, personnel are to log
+the event as acoustic bait. They are not to answer. They are especially not to
+apologize.
+
+END OF FILE

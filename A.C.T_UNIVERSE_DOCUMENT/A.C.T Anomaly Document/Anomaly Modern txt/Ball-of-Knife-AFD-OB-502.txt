@@ -1,0 +1,202 @@
+A.C.T FACILITY — ANOMALY FILE
+Ball-of-Knife-AFD-OB-502
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-502
+TITLE I:             Ball of Knife
+TITLE II:            THE HATING BLADE / THE BUNDLE OF CONTEMPT
+
+FIELD TYPE:          OB — Object
+                     ?.H — Shifting Hazard (Pseudo-Sentient Aggression)
+
+CLEARANCE REQUIRED:  Level 4
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   EXIGENT
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        4
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           INVIOLABLE
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   1994-11-21
+VERIFICATION DATE:   1994-12-05
+LOCATION:            Sub-level mechanical room of a high-rise / 
+                     New York City, NY, USA.
+DISCOVERY METHOD:    Investigation into an "Unstoppable Mutilation" 
+                     event / Structural damage reported as "Metallic 
+                     Burrowing."
+
+INITIAL RESPONSE
+OPERATION:           Cold Shear
+RESPONDING UNIT:     Field Containment Division / Recovery Team Alpha-7
+RESPONDING FIELD
+OPERATOR:            Field Agent [REDACTED]
+CIVILIAN EXPOSURE:   8 confirmed fatalities.
+AMNESTIC DEPLOYED:   Yes — 004-C Grade.
+NARRATIVE STATUS:    Controlled as a localized elevator cable failure 
+                     and industrial industrial accident.
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-502 is a self-organizing mass of bladed tools and short-edged 
+weaponry. The subject measures approximately 1.2 m in diameter when 
+in its "Resting" spherical configuration. The components include 
+kitchen knives, surgical scalpels, straight razors, industrial shears, 
+and improvised metal shards, all interconnected by a dense, 
+constantly shifting lattice of high-tensile metallic wire.
+
+The subject demonstrates a primitive but extreme form of sentience 
+driven entirely by an absolute contempt for biological life. It does 
+not possess eyes, ears, or nervous tissue, yet it detects the presence 
+of living organisms with 100% accuracy within its active radius. 
+
+ANOMALOUS PROPERTIES:
+1. TOTAL REGENERATION: AFD-OB-502 is functionally indestructible. 
+   Physical destruction—including cutting, crushing, or complete 
+   shattering—results in the immediate manifestation of new wire-strands 
+   and bladed components from [ BLANK ]. Thermal application (melting) 
+   results in the subject "Shedding" the molten slag and replacing it 
+   with fresh cold-rolled steel.
+
+2. AGGRESSIVE LOCOMOTION: If not actively restrained, the subject 
+   moves by rolling, lunging, and spinning at high velocities. It 
+   targets any biological organism in its vicinity, attempting to 
+   slice, cut, chop, and stab until the target is effectively 
+   disarticulated. The subject's "Hate" appears to intensify the closer 
+   it gets to a living Heart-Signal.
+
+3. MAGNETIC SENSITIVITY: The subject is highly susceptible to magnetic 
+   interference. A sustained 2-ton magnetic field is the only 
+   confirmed method of inhibiting its internal wire-reconfiguration 
+   and preventing its movement.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Autonomous Life-Seeking Aggression. The subject 
+                     actively pursues and attempts to mutilate any 
+                     form of living matter.
+
+SECONDARY EFFECT:    Indestructibility / Matter Manifestation. The subject 
+                     replaces damaged or destroyed parts instantaneously.
+
+TERTIARY EFFECT:     Metaphysical Contempt. Proximity to the subject 
+                     often triggers an intense emotional surge of 
+                     hatred and anger in personnel, believed to be an 
+                     empathic bleed-off from the object itself.
+
+TRIGGER CONDITION:   Presence of biological life / Failure of magnetic 
+                     restraint.
+
+RANGE / AREA OF
+INFLUENCE:           50 m detection radius / Immediate physical engagement.
+
+TEMPORAL BEHAVIOR:   Constant.
+
+REALITY INTERACTION: Biological-Contempt Logic / Matter-Generation.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-502 is housed in a high-intensity magnetic vault at 
+ACT-SITE-01-US-W. 
+
+1. MAGNETIC LOCK: The subject is to be suspended in the geometric 
+   center of the vault via a continuous 2-ton (19.6 kN) electromagnetic 
+   field. The field must be maintained by redundant power supplies 
+   backed by [ REDACTED ] energy crystals.
+
+2. NO BIOLOGICAL ENTRY: No living organisms, including E-Class 
+   subjects, are permitted within the primary containment chamber 
+   while the subject is active. Maintenance is to be performed via 
+   non-magnetic robotic arms only.
+
+3. SENSOR MONITORING: The subject's vibration levels are to be 
+   monitored continuously. Any rhythmic "Clicking" or "Grinding" 
+   noise above 40 dB indicates an attempt to reconfigure its wire-
+   lattice to bypass the magnetic flux.
+
+4. EMERGENCY SEAL: In the event of a power failure, the vault is 
+   to be flooded with high-density quick-setting polymer to delay 
+   the subject's burrowing until the magnetic field is restored.
+
+CONTAINMENT SITE:        ACT-SITE-01-US-W — Redwood Veil Complex
+SITE TYPE:               Primary Site / Heavy Object Containment
+JURISDICTIONAL
+AUTHORITY:               Redwood Veil Command / Combat-Anomaly Desk
+CONTAINING DIVISION:     Object Containment Division
+REQUIRED PERSONNEL:      2 Magnetic-Field Technicians, 1 Remote Operator.
+MONITORING FREQUENCY:    Continuous (Gravimetric and Acoustic).
+MAINTENANCE CYCLE:       Weekly electromagnetic stress-test.
+
+BREACH PROTOCOL:         If magnetic containment fails, evacuate the 
+                         wing immediately. Do not attempt to engage 
+                         the subject with standard kinetic weaponry. 
+                         Isolate the subject using mobile magnetic 
+                         barriers and guide it back to a secure zone 
+                         using biological bait (non-sentient tissue).
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-502 is not a "Tool" that became anomalous; it is a "Thought of 
+Violence" that has manifested a physical body. The variety of blades 
+indicates that it "Draws" from the human history of tool-assisted 
+harm. 
+
+Psychological Review: Researchers with a high PR score report hearing 
+the subject's hate as a background hum. One senior researcher noted: 
+"It doesn't hate us for what we are; it hates us for the fact that we 
+can be warm. It finds the concept of blood circulation to be a 
+personal offense."
+
+═══════════════════════════════════════════════════════════════════════
+                      TRANSFORMATION NOTES
+═══════════════════════════════════════════════════════════════════════
+
+CURRENT VIABILITY:       INVIOLABLE
+
+TRANSFORMATION NOTES:
+Attempts to neutralize the subject's hate-response via memetic 
+it cracked its previous non-magnetic containment. It is a "Pure" 
+anomaly; its identity and its danger are the same thing.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+The subject's wire-lattice has been observed to spell out the word 
+"QUIT" when it is successfully pinned by the 2-ton field. This is not 
+interpreted as a request for peace, but as a command to the 
+Facility to stop existing.
+
+NOTE 002:
+During the 2011 breach, AFD-OB-502 bypassed a standard steel door by 
+vibrating its sharpest edges at a frequency that caused the door’s 
+molecular structure to [ BLANK ].
+
+END OF FILE

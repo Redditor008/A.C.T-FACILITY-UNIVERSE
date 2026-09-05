@@ -1,0 +1,145 @@
+A.C.T FACILITY — INCIDENT & BREACH DOSSIER
+Gems-of-Change-Incident-Breach-Dossier-AFD-OB-612
+
+═══════════════════════════════════════════════════════════════════════
+                A.C.T FACILITY — INCIDENT & BREACH DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-612
+TITLE I:             Gems of Change
+TITLE II:            THE SCARLET CHIMERA
+
+FIELD TYPE:          OB — Object
+PRIMARY FILE:        Gems-of-Change-AFD-OB-612
+
+DOCUMENT CATEGORY:   CATEGORY IV — Incident & Breach Dossier
+CATEGORY FUNCTION:   Accidental exposure recording, transmutation 
+                     timeline, and secondary subject-research logs.
+
+CLEARANCE REQUIRED:  Level 3
+
+CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex
+ARCHIVE STATUS:      Active / Personnel Exposure Incident
+DOSSIER STATUS:      Open / Continuous Subject Logging
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier documents Incident 612-Alpha-1, which resulted in the 
+permanent biological transmutation of Senior Researcher Maya Chen. 
+
+INCLUDED LOG TYPES:
+   - Incident Summary (The Audit Failure)
+   - Transmutation Timeline (T+0 to T+5 Minutes)
+   - The Personal Responsibility Logs (Researcher Maya Chen)
+   - Medical & Genetic Stability Review
+   - Dossier Closing Statement
+
+═══════════════════════════════════════════════════════════════════════
+                    SECTION 001 — INCIDENT SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-612/INC-001
+LOG TYPE:            Accidental Exposure Report
+DATE:                2024-03-12
+LOCATION:            Site-01 / Vault 12 / High-Value Storage
+
+SUMMARY:
+During a routine structural audit of Vault 12, a high-density shelf 
+experienced a localized fatigue failure. The lead-lined container 
+housing AFD-OB-612 fell from its mounting. 
+
+Senior Researcher Maya Chen (PR Score: 88) was present in the vault. 
+Witnessing the fall, Researcher Chen attempted to catch the container to 
+prevent a "Shatter-Event." During the catch, the lid shifted, allowing 
+the gemstone to slide out and make direct contact with her bare wrist 
+through a pre-existing 2 cm tear in her Tier-3 hazardous environment 
+glove.
+
+The gemstone immediately activated. Per protocol, Researcher Chen 
+initiated a self-lockdown of the vault to prevent further exposure 
+to the responding security team.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 002 — TRANSMUTATION TIMELINE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-612/TLN-001
+SOURCE:              Vault 12 internal CCTV / Biometric data
+
+T+00:00 — Initial contact. Subject cries out. Crimson light fills the 
+          room (Intensity: [ REDACTED ] lumens).
+
+T+01:15 — Subject's heart rate drops from 140 BPM to 72 BPM. The 
+          "Calming Nudge" effect is confirmed. Subject is seen sitting 
+          against the vault wall, staring at the gem with an 
+          expression of "profound tranquility."
+
+T+02:30 — Rapid structural biological reconfiguration begins. Subject's 
+          uniform is visibly strained by sudden muscle-mass 
+          redistribution and skeletal alignment.
+
+T+04:45 — Luminous output fades. Subject remains conscious. 
+
+T+05:00 — Transformation complete. Subject addresses the camera, 
+          stating: "Containment is stable. I am changed. I will 
+          wait for the medical team."
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 003 — THE PERSONAL RESPONSIBILITY LOGS
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-612/PERS-01
+AUTHOR:              Researcher Maya Chen (Subject 612-A)
+
+Note: Researcher Chen has requested to remain the primary logger for 
+her own condition. She stated: "It was my error to catch the box with 
+a damaged glove. Its my fault so now its my responsibility to log every 
+thing."
+
+[LOG ENTRY: 2024-03-15]
+"Three days since the change. The 'Nudge' has faded, but the peace it 
+gave me remains. I should be angry, or scared, but looking in the 
+mirror... I feel 'Correct.' It’s a very weird feeling for a scientist. 
+I have completed my first self-biopsy. DNA is stable. All cellular 
+errors I had before—the chronic inflammation in my hip, the nearsighted 
+eyes—they’re just... gone. If the A.C.T wants a perfect intersex 
+subject for study, they have me. I owe it to the archive to be 
+precise."
+
+[LOG ENTRY: 2024-04-10]
+"I have requested a transfer back to the Bio-Hazard Desk. site-04 is 
+an option, but I prefer to stay here at Site-01 to oversee the 
+artifact that changed me. I am currently logging my own reproductive 
+fertility cycles. As specified in the main file, I am now biologically 
+dual-compatible. It is my responsibility to ensure no 'Secondary 
+Spawning' occurs without O5 authorization. I am keeping my own 
+paperwork. It is the only way to balance the ledger."
+
+[LOG ENTRY: 2024-06-01]
+"Finalized the 'Social-Adjustment' report. Staff are unsure how to 
+address me. I told them to use 'Chen.' My rank hasn't changed, only 
+my anatomy. I am a researcher who happens to be the result of a 
+Class-2 transmutation incident. If anyone has questions about the 
+physical sensation of a 5-minute DNA rewrite, they can read the 
+appendix I added to the main file. I made sure to include the bit 
+about the 'Static Heat' in the marrow. Every detail matters."
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+Senior Researcher Maya Chen remains a high-functioning asset to the 
+Facility. Her dedication to logging her own anomalous transformation 
+has provided invaluable data on the "Calming Nudge" and "Perfected DNA" 
+phenomena associated with AFD-OB-612.
+
+MANDATORY BRIEFING PHRASE:
+                     "Error leads to observation. 
+                      Observation leads to order."
+
+CURRENT DOSSIER STATUS: Open / Ongoing Self-Logging Active
+
+END OF DOSSIER

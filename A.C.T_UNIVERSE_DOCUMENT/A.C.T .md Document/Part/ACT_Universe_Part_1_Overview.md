@@ -1,0 +1,40 @@
+# A.C.T Facility — Overview
+
+## 1. A.C.T = Anomaly Containment Transformation
+**A.C.T** stands for **Anomaly Containment Transformation**, the central doctrine and operational foundation of the Facility. The name defines the three pillars of its purpose: to identify anomalous phenomena, to contain them before they can threaten the world, and to transform them through research, control, or adaptation into something that can be understood, stabilized, or made useful. A.C.T is not merely a reactionary organization—it exists to impose order on the impossible.
+
+## 2. Main Goal
+The primary goal of the **A.C.T Facility** is to preserve the structural stability of Earth’s reality. The organization operates under the understanding that reality is not as secure or as natural as humanity believes it to be. Across the world, there exist anomalies—objects, entities, locations, substances, and events—that defy accepted natural law and possess the capacity to distort matter, time, mind, biology, or reality itself. Left unchecked, these anomalies may destabilize civilization, unravel local or global normalcy, and in the worst cases threaten the continuity of existence. A.C.T exists to prevent that outcome at all costs.
+
+## 3. Containment
+Containment is the Facility’s first and most immediate responsibility. Once an anomaly is identified, A.C.T prioritizes isolation, suppression, control, and environmental regulation to prevent it from affecting civilian populations or spreading beyond a manageable boundary. The organization treats every anomaly as a potential threat regardless of initial appearance, since even seemingly harmless anomalies may carry hidden risks or cascading consequences. Through containment, A.C.T ensures that public exposure remains minimal, panic is avoided, and anomalous influence does not compromise the safety of humanity or the integrity of reality.
+
+## 4. Transformation
+The Facility does not believe containment alone is enough. The third pillar of its doctrine—**Transformation**—reflects its long-term objective to move beyond simple imprisonment of anomalies. Through controlled experimentation, analysis, and development, A.C.T seeks to alter the role of anomalies in the world. If a phenomenon can be stabilized, neutralized, repurposed, weaponized, or integrated into controlled systems, then it ceases to be only a threat and becomes a potential asset. Transformation is the process by which the unknown is redefined: from danger into utility, from instability into managed function, and from fear into controlled advantage.
+
+## 5. Research
+At its core, A.C.T is a scientific organization. Although it employs containment teams, security forces, and covert operatives, these exist in service to its greater purpose: the pursuit of knowledge. The Facility views anomalies not as isolated accidents, but as evidence of deeper truths hidden beneath conventional science. Through observation, experimentation, dissection, simulation, and theoretical analysis, A.C.T attempts to uncover the laws that govern anomalous existence. Each anomaly is both a hazard and a source of knowledge. To understand the anomaly is to understand more about reality itself, and to understand reality is to control it.
+
+## 6. Secrecy
+The **A.C.T Facility** operates in secrecy, hidden behind layers of misinformation, compartmentalization, and covert infrastructure. Officially, it does not exist in the public sphere. Unofficially, it is known only to a limited percentage of governments, intelligence branches, and select scientific authorities, many of whom are only partially informed of its true scale or operations. The Facility maintains the illusion of a normal world by suppressing evidence, controlling narratives, eliminating public awareness of anomalous incidents, and restricting knowledge to those deemed necessary. Secrecy is not merely policy—it is a structural necessity. In the eyes of A.C.T, humanity’s ignorance of the anomalous is one of the foundations that keeps civilization intact.
+
+## 6.5 Site Network
+A.C.T does not exist only as one buried core installation. In modern doctrine, the Facility operates through a wider network of recognized **SITES** and **SUB-SITES**, each assigned to specific regional, recovery, secrecy, containment, archive, or research functions. Detailed installation logic is preserved separately in Site Doctrine, Site Registry, and Jurisdiction records.
+
+## 7. Gray Morality
+A.C.T is neither purely benevolent nor openly tyrannical. It is a **gray organization**, one defined by necessity, pragmatism, and morally ambiguous choices. The Facility exists to protect humanity and preserve reality, but it does so through methods that often violate conventional ethics. It may conceal truth, authorize human experimentation, sacrifice lives, weaponize dangerous anomalies, or erase entire incidents from public memory if leadership determines such actions are necessary for the greater good. To A.C.T, morality is secondary to survival. The preservation of reality outweighs individual innocence, public transparency, and idealistic restraint.
+
+## 8. Motto
+### **“To A.C.T is to maintain the normalcy and the stability of Earth and its populace.”**
+
+This motto serves as the guiding philosophy of the Facility and summarizes the burden of its existence. Within A.C.T doctrine, to **A.C.T** means more than to act—it means to take deliberate, necessary action in defense of the world’s natural order, regardless of cost. “Normalcy” refers to the continued illusion of an ordinary world, one in which humanity remains unaware of the anomalies, distortions, and hidden threats that exist beyond common understanding. “Stability” refers both to public safety and to the deeper integrity of reality itself, which the Facility believes must be constantly protected from disruption.
+
+The motto reinforces the idea that the organization does not exist for recognition, approval, or moral purity. It exists to preserve. Every containment action, every suppressed incident, every classified report, every successful transformation, and every sacrifice made by the Facility is justified under the mission of maintaining Earth’s functional order and protecting its people from forces they were never meant to witness. To A.C.T is to defend the world from the impossible, preserve the status quo of existence, and ensure that humanity continues forward in safety, even if it never knows what was done in its name.
+
+## Full Overview Paragraph
+The **A.C.T Facility**, short for **Anomaly Containment Transformation**, is a covert scientific organization dedicated to preserving the structural stability of Earth’s reality through the control, study, and transformation of anomalous phenomena. Its purpose is to locate, secure, and contain objects, entities, and events that defy natural law and threaten the world’s normal order, while minimizing civilian exposure and preventing public awareness of the impossible. Beyond containment, A.C.T conducts extensive research into the nature of anomalies, seeking to understand the hidden laws behind them and, where possible, transform them into manageable assets or stable phenomena. Operating from the shadows with the cooperation of only a limited fraction of government authorities, the Facility maintains secrecy as a necessary defense against panic, social collapse, and reality destabilization. Guided by the motto, **“To A.C.T is to maintain the normalcy and the stability of Earth and its populace,”** the organization sees itself as the unseen guardian of a fragile world. Yet despite its protective mission, A.C.T remains fundamentally gray in nature, willing to sacrifice ethics, truth, and even human life if it believes such measures are required to preserve reality and ensure humanity’s survival.
+
+---
+
+## A.C.T Universe — Part One
+This document serves as **Part One of the A.C.T Universe**.

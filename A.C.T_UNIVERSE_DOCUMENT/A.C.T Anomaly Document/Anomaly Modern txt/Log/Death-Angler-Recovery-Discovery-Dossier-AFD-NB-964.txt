@@ -1,0 +1,111 @@
+A.C.T FACILITY — RECOVERY & DISCOVERY DOSSIER
+Death-Angler-Recovery-Discovery-Dossier-AFD-NB-964
+
+═══════════════════════════════════════════════════════════════════════
+                A.C.T FACILITY — RECOVERY & DISCOVERY DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-NB-964
+TITLE I:             Death Angler
+PRIMARY FILE:        Death-Angler-AFD-NB-964
+
+DOCUMENT CATEGORY:   CATEGORY I — Recovery & Discovery Dossier
+CATEGORY FUNCTION:   Reconstruction of Operation DEEP HOOK; Documentation of 
+                     the 3-month elusive hunt and adaptive containment.
+
+CLEARANCE REQUIRED:  Level 4
+
+CONTAINMENT SITE:    ACT-SITE-05-ID-C — Nusantara Deep Relay
+ARCHIVE STATUS:      Active / Recovery Context Verified
+DOSSIER STATUS:      Open / Historical Mission Log Archived
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier chronicles the exceptionally difficult three-month recovery 
+of AFD-NB-964. The operation was plagued by the subject's ability to 
+vanish from all light-based sensors and its capacity to hypnotize 
+tactical dive teams.
+
+INCLUDED LOG TYPES:
+   - Initial Detection Summary (The Sonar Voids)
+   - Month 1: The Lure Incident (Personnel Loss)
+   - Month 2: Transition to Sonar-Only Tracking
+   - Month 3: The Final Engagement and Extraction
+   - Dossier Closing Statement
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 001 — THE SONAR VOIDS
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-NB-964/REC-01
+DATE:                2023-11-04
+
+Operation DEEP HOOK began after Site-05 detected a series of 
+impossible "holes" in the seafloor sonar mapping of the Sunda Trench. 
+Objects would disappear from the feed for 10-15 minutes at a time, only 
+to reappear in a "Glitched" state. 
+
+Recovery Team Gamma was deployed to investigate a suspected spatial 
+fracture. 
+
+═══════════════════════════════════════════════════════════════════════
+                    SECTION 002 — THE LURE INCIDENT
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-NB-964/REC-02
+DATE:                2023-12-14
+
+During the first visual contact, the subject activated its lure at a 
+depth of 6,000 m. 
+
+OBSERVATION:
+The video feed from the submersible *Abyssal Eye* was compromised. The 
+three personnel on board were seen staring into the external monitors 
+with fixed pupils, ignoring emergency proximity alarms.
+
+One team member was heard whispering: "It's so bright. It's so clean."
+
+THE BREACH:
+The subject extinguished the lure. The submersible was instantly 
+sighted as being "crushed" on sonar, despite the external cameras 
+showing only empty black water. All three personnel were lost. The 
+subject remained invisible for the next 22 days.
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 003 — EXTRACTION AND CAPTURE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-NB-964/REC-03
+DATE:                2024-02-12
+
+Following the integration of **Sub-Abyssal Sonar (Item 37)**, the 
+recovery team was able to track the subject's physical mass regardless 
+of its optical state. 
+
+THE TRAP:
+A high-capacity **FCA (Facility Converted Aircraft)** was positioned in 
+a low-hover over the deployment zone. Tactical divers used remote-
+controlled "Dummy" submersibles to trigger the "Dread Hunt" screech. 
+
+When the subject attacked the decoys, it was snared using **Causal 
+Tethering Cables (Item 03)** and heavy magnetic torsion collars. 
+Extraction took 48 hours to reach the Site-05 surface elevator.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+The recovery of AFD-NB-964 highlights the necessity of multi-spectral 
+containment. If we had relied only on visual data, the subject would 
+never have been found. 
+
+MANDATORY BRIEFING PHRASE:
+                     "Don't look at the light. 
+                      Listen for the void."
+
+CURRENT DOSSIER STATUS: Open / Recovery History Secured
+
+END OF DOSSIER

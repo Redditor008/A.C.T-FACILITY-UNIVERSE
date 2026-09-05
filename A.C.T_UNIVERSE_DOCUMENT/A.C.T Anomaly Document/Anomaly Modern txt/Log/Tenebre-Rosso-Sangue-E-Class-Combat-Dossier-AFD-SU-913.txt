@@ -1,0 +1,122 @@
+A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+Tenebre-Rosso-Sangue-E-Class-Combat-Dossier-AFD-SU-913
+
+═══════════════════════════════════════════════════════════════════════
+              A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-913
+TITLE I:             Tenebre Rosso Sangue
+TITLE II:            THE SANGUINE CHASSIS
+
+FIELD TYPE:          SU — Subject
+PRIMARY FILE:        Tenebre-Rosso-Sangue-AFD-SU-913
+
+DOCUMENT CATEGORY:   CATEGORY III — Experiment & Testing Dossier
+CATEGORY FUNCTION:   Absorption-efficiency verification, combat-velocity 
+                     mapping, and parry-protocol threshold analysis.
+
+CLEARANCE REQUIRED:  Level 4 / Combat-Anomaly Review
+
+CONTAINMENT SITE:    Black Site [ REDACTED ]
+ARCHIVE STATUS:      Active / High-Lethality Combat Data
+DOSSIER STATUS:      Open / Tactical Profile Compiled
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier contains the results of controlled combat engagement tests 
+between AFD-SU-913 and E-Class subjects. The goal was to measure the 
+instantaneous repair rate of the "Sanguine Chassis" and the 
+predictive capabilities of its parry-subroutines.
+
+INCLUDED LOG TYPES:
+   - Engagement 913-E-04: Sanguine Absorption Rate
+   - Engagement 913-E-05: The "Feedbacker" Parry Test
+   - Post-Combat Debris Analysis: Synthetic vs. Organic Fuel
+   - Dossier Closing Statement
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 001 — SANGUINE ABSORPTION TEST
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-913/TST-E04
+DATE:                2024-05-18
+SUBJECT:             E-Class E-913-02 (Armed with standard tactical knife)
+
+PROCEDURE:
+Subject was instructed to attempt a strike on the deactivated chassis 
+of AFD-SU-913. 4 liters of type-O blood were provided in a standard 
+intake-tray.
+
+OBSERVATION:
+[00:00] — Subject initiates strike. Knife impacts the blue plating 
+          causing a 4cm structural gouge.
+[00:02] — Intake-tray is exposed to the subject's dermal layer.
+[00:03] — REPAIR: The blood in the tray is absorbed through the 
+          porous plating in 0.8 seconds. 
+[00:04] — The 4cm gouge in the metal instantly re-knits. The alloy 
+          displays "Biological Mending" behavior. No seam remains.
+
+RESULT:
+Verification of the "Blood is Fuel" logic. The subject's repair speed 
+is dependent on the volume and freshness of the biological input.
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 002 — THE FEEDBACKER PARRY TRIAL
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-913/TST-E05
+DATE:                2024-06-02
+LEAD ANALYST:        Field Operator Bagus Wirawan
+
+PROCEDURE:
+Subject was fueled to 100% capacity. A remotely operated kinetic 
+launcher fired a standard .45 caliber projectile at the subject's 
+core.
+
+OBSERVATIONS:
+[00:00:01] — Projectile fired.
+[00:00:02] — THE PARRY: Subject’s left arm (Feedbacker) initiates a 
+              harmonic vibration. The arm strikes the projectile 
+              mid-air. 
+[00:00:03] — REDIRECTION: The bullet's kinetic energy is amplified by 
+              the subject's harmonic burst. The bullet is sent 
+              backward at 200% original velocity, impacting the 
+              launcher turret and destroying it.
+
+ANALYSIS:
+The subject's parry is not mechanical; it is a "Causal Reversal." It 
+uses the force of the attacker against the source.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 003 — ARCHIVIST'S NOTE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-913/THORNE-REF
+AUTHOR:              Aris Thorne (SR-412)
+
+"Engaging with Subject 913 is like fighting a mirror that is trying to 
+break you. 
+
+I reviewed the parry-frames. The subject doesn't just block; it 
+harmonizes with the impact. It turns the violence of the world into 
+its own internal logic. If it ever escapes this Black Site, the only way 
+to stop it is to stop being violent. And since we are a Facility 
+built on 'Containment by Force,' we are effectively providing the 
+subject with an infinite supply of ammunition."
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+MANDATORY PERSONNEL NOTICE:
+                     Mankind is dead. 
+                     Blood is fuel. 
+                     The vault is currently full.
+
+CURRENT DOSSIER STATUS: Open / Combat-Calibration Ongoing
+
+END OF DOSSIER

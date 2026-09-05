@@ -1,0 +1,165 @@
+A.C.T FACILITY — ANOMALY FILE
+Music-Box-of-Unending-Sadness-AFD-OB-311
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-311
+TITLE I:             Music Box of Unending Sadness
+TITLE II:            THE PALE LULLABY / THE CAROUSEL OF AGONY
+
+FIELD TYPE:          OB — Object
+                     ME — Memetic (Empathic Resonance)
+
+CLEARANCE REQUIRED:  Level 2
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        2
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           NEUTRAL
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   2018-03-14
+VERIFICATION DATE:   2018-03-22
+LOCATION:            Abandoned dormitory / [ REDACTED ], Japan.
+DISCOVERY METHOD:    Reports of localized "Sorrow Spikes" / Persistent 
+                     unexplained vocalizations from a sealed music room.
+
+INITIAL RESPONSE
+OPERATION:           Soft Crank
+RESPONDING UNIT:     Site-03 Technical Recovery / Memetic Review
+RESPONDING FIELD
+OPERATOR:            Archivist Kenji Takahara
+CIVILIAN EXPOSURE:   Minimal.
+AMNESTIC DEPLOYED:   Yes — 004-G Grade.
+NARRATIVE STATUS:    Object recovered from a box of personal effects. 
+                     Attributed to a defective mechanical toy.
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-311 is a small, ornate music box composed of dark wood and 
+polished silver. The lid features a small, fixed figurine of a juvenile 
+human female in a seated, crying position. The figurine does not rotate 
+or move when the box is active.
+
+Upon being wound and opened, the subject performs a musical composition 
+titled "Bad Apple." Unlike standard music boxes, AFD-OB-311 does not 
+merely produce chime-based melodies; it emits a high-fidelity vocal 
+track of an unidentified female child (estimated age 10-16). The 
+singing is slow, melodic, and arranged as a lullaby.
+
+ANOMALOUS PROPERTIES:
+1. EMPATHIC RESONANCE: Listeners within a 5m radius experience 
+   "Residual Emotional Imprinting." The subject broadcasts the exact 
+   emotional state of the box's creator during the moment of its 
+   assembly. This is described as a profound, paralyzing sense of 
+   misery, grief, and "uncertainty enveloping the mind."
+
+2. VISUAL FADING: Prolonged exposure (exceeding 4 minutes) causes a 
+   minor perceptual shift in the listener. Observers report that 
+   colors in their environment begin to "fade to black" or "fade to 
+   white" in synchronization with the song’s lyrics. This effect is 
+   temporary and resolves 30 minutes after the music stops.
+
+3. VOCAL PERSISTENCE: The singing persists even if the mechanical 
+   cylinder is jammed or removed. The audio appears to manifest from 
+   the wood grain itself.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Emotional Imprinting. Listeners are forced to 
+                     perceive the creator's despair.
+
+SECONDARY EFFECT:    Acoustic Manifestation. Subject produces vocal 
+                     output without speakers or vocal cords.
+
+TERTIARY EFFECT:     Perceptual Desaturation. Colors in the local 
+                     environment shift toward monochrome during 
+                     playback.
+
+TRIGGER CONDITION:   Opening the lid / Winding the mechanism.
+
+RANGE / AREA OF
+INFLUENCE:           5m acoustic/empathic radius.
+
+TEMPORAL BEHAVIOR:   Constant during playback.
+
+REALITY INTERACTION: Empathic Broadcast / Optical Desaturation.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-311 is stored in a padded, sound-proofed locker at 
+ACT-SITE-03-JP-E. 
+
+1. NO UNAUTHORIZED PLAYBACK: Winding the subject for non-research 
+   purposes is prohibited. Listening sessions must be limited to 
+   5 minutes per staff member to prevent "Empathic Sink."
+
+2. PSYCHOLOGICAL MONITORING: Personnel with recent trauma-logs are 
+   prohibited from handling the subject. The "Carousel of Agony" 
+   effect can trigger deep depressive episodes in susceptible minds.
+
+3. SILENT HANDLING: The lid must remain latched and secured with an 
+   acoustic-dampening band during transport.
+
+CONTAINMENT SITE:        ACT-SITE-03-JP-E — Kurokawa Archive Node
+SITE TYPE:               Primary Site / Memetic and Audio Archive
+JURISDICTIONAL
+AUTHORITY:               Kurokawa Site Command / Memetic Hazard Desk
+CONTAINING DIVISION:     Object Containment Division
+REQUIRED PERSONNEL:      1 Archivist, 1 Psychological Monitor.
+MONITORING FREQUENCY:    Monthly inventory check.
+MAINTENANCE CYCLE:       N/A.
+
+BREACH PROTOCOL:         If the box is opened accidentally, evacuate the 
+                         immediate room. The effect will dissipate once 
+                         the spring-mechanism winds down.
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-311 appears to be a "Memory-Trap." The creator utilized [ BLANK ] 
+techniques to bind their own identity-loss into the object. The 
+lyrics ("Till slowly I forget and my heart starts vanishing") suggest 
+the creator may have been undergoing an unauthorized transformation 
+or a 004-Series overdose during the box's construction.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+Subject has shown a 14% increase in volume when placed near **Anny 
+(AFD-SU-005)**. Anny remarked: "The girl on the box is crying because 
+she has no chapters left to read. It is a very cold song."
+
+NOTE 002:
+Spectroscopic analysis of the "White" and "Black" visual artifacts 
+shows they are not mere hallucinations but a localized [ REDACTED ] 
+of light-waves.
+
+END OF FILE

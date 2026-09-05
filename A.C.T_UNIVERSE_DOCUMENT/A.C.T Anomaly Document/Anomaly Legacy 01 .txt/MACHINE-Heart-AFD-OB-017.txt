@@ -1,0 +1,325 @@
+A.C.T FACILITY — ANOMALY FILE
+MACHINE-Heart-AFD-OB-017
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-017
+TITLE I:             MACHINE Heart
+TITLE II:            THE GUARDIAN THAT MAKES ITS OWN TRESPASSERS
+
+
+FIELD TYPE:          OB — Object
+                     Animated machine-golem / Heart-Signal activation artifact
+
+CLEARANCE REQUIRED:  Level 4
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        4
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           INVIOLABLE
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   2001-08-29
+VERIFICATION DATE:   2001-09-04
+LOCATION:            Abandoned hydroelectric service cavern / Asturias, Spain
+DISCOVERY METHOD:    Missing-person report / unexplained Heart-Signal transfer /
+                     mechanical movement detected in unpowered structure
+
+INITIAL RESPONSE
+OPERATION:           Empty Slot Retrieval
+RESPONDING UNIT:     Field Containment Division / Anomalous Machinery Review
+RESPONDING FIELD
+OPERATOR:            Agent Isabel Cárdenas
+CIVILIAN EXPOSURE:   5 confirmed / 2 severe exposure cases prior to containment
+AMNESTIC DEPLOYED:   Yes
+NARRATIVE STATUS:    Controlled as industrial accident, illegal machinery
+                     salvage incident, and cavern instability
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-017 is an 8 m tall metal golem-like machine composed of dark iron alloy,
+brass-colored hydraulic structures, black ceramic plates, and unknown pressure
+systems. The anomaly resembles a giant industrial guardian with a visible
+machine core in the center of its torso. The core contains a vertical slot
+measuring 18 cm wide and 31 cm long.
+
+The anomaly's right arm terminates in a large clawed hand with four segmented
+metal talons. The left arm terminates in a hammer-like mass with a broad flat
+striking face and internal piston structures. Its legs are dual-jointed
+mechanical limbs arranged in an avian or reverse-knee configuration, giving the
+object a forward-leaning posture when active. Its head has no face, eyes, or
+mouth, only a smooth metal front plate with three inactive circular recesses.
+
+The torso slot rejects ordinary fuel, batteries, keys, tools, coins, and data
+storage devices. It accepts only a Heart-Signal: an anomalous red-gold
+heart-shaped energy imprint created during the activation sequence. The
+Heart-Signal behaves as both temporary power source and command anchor.
+
+When no Heart-Signal is present inside the torso slot, AFD-OB-017 remains still.
+It produces no heat, sound, exhaust, measurable electrical activity, or internal
+motion. In this state it can be approached by most personnel without immediate
+response, though close-range contact remains prohibited.
+
+The activation process begins when a chosen subject visually perceives
+AFD-OB-017. The selection method is unknown. The chosen consistently speaks or
+whispers the phrase:
+
+                     "The Machine need a Heart."
+
+The chosen then attempts to approach the anomaly. The chosen remains aware and
+may respond to questions, but shows strong fixation on the torso slot and may
+resist redirection as distance decreases.
+
+Upon entry into the 1 m activation zone, AFD-OB-017's claw hand activates and
+rips the chosen subject's Heart-Signal from the surrounding aura field, then
+seals the red-gold imprint inside the torso slot.
+
+During transfer, a red-gold heart-shaped light appears between the chosen and
+the torso slot. The light enters the slot and becomes the machine's temporary
+core. The chosen immediately enters a deep but stable rest-state. Under
+controlled care, affected subjects have awakened after 24 to 96 hours, though
+they report feeling "hollow," "quiet," or "watched from inside a machine" for
+several days after waking.
+
+Once a valid Heart-Signal is seated in the slot, AFD-OB-017 enters Stage Two.
+
+═══════════════════════════════════════════════════════════════════════
+                      STAGE TWO — CHOSEN HEART GUARDIAN
+═══════════════════════════════════════════════════════════════════════
+
+STAGE TWO NAME:      Uncontrollable Guardian of Chosen Heart
+
+After a Heart-Signal is placed in the slot, AFD-OB-017 becomes fully mobile and
+begins emitting a circular 3 m radius exclusion field identified by researchers
+as a "NO Sentient Heart Signature" zone.
+
+Within this zone, AFD-OB-017 appears to detect nearby sentient life by rhythm,
+presence, and signature pressure. The anomaly then attempts to extinguish or
+remove those signatures from the area. It does not communicate, negotiate,
+retreat, or distinguish between security staff, care personnel, rescuers,
+observers, animals with complex cognition, or accidental entrants.
+
+If a sentient heart signature enters the 3 m radius, AFD-OB-017 will act until
+the signature is no longer present inside the zone. Its usual response is to
+push, throw, block, pin, strike, or force the intruder away from the chosen
+Heart-Signal. The anomaly's strength is sufficient to cause severe blunt impact
+trauma, so Stage Two is treated as a lethal hazard even though its focus appears
+to be guardian behavior rather than predation.
+
+The Heart-Signal inside the slot is treated as the anomaly's protected center.
+AFD-OB-017 will position its frame, claw, and hammer to prevent access to the
+slot. It does not appear to defend itself as a whole. It defends the chosen
+Heart-Signal.
+
+Stage Two continues until the inserted Heart-Signal fades, is separated from the
+slot by remote equipment, or becomes invalid as a core anchor. The longest
+confirmed Stage Two activation lasted 11 days, 6 hours, and 14 minutes.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Heart-Signal slot activation. AFD-OB-017 remains inert
+                     until a valid Heart-Signal is placed inside its machine
+                     core slot.
+
+SECONDARY EFFECT:    Chosen-subject compulsion. A visually exposed chosen
+                     subject will state "The Machine need a Heart" and attempt
+                     to approach the anomaly.
+
+TERTIARY EFFECT:     Forced Heart-Signal removal. If the chosen subject reaches
+                     the 1 m activation zone, AFD-OB-017 rips the chosen
+                     subject's Heart-Signal from the surrounding aura field and
+                     seals it inside its own slot.
+
+QUATERNARY EFFECT:   Stage Two guardian state. After activation, the anomaly
+                     creates a 3 m radius NO Sentient Heart Signature zone and
+                     attempts to force away, silence, or extinguish any sentient
+                     heart signature within the area.
+
+TRIGGER CONDITION:   Visual exposure by an unknown chosen subject, followed by
+                     approach within 1 m.
+
+RANGE / AREA OF
+INFLUENCE:           Selection effect requires visual perception; confirmed up
+                     to 42 m. Heart-Signal transfer occurs within 1 m. Stage Two
+                     exclusion radius is 3 m from torso core.
+
+TEMPORAL BEHAVIOR:   Inert without Heart-Signal / forcefully active while the
+                     chosen Heart-Signal remains in slot.
+
+REALITY INTERACTION: Biological-Mechanical Violation / Sentient Heart-Signature
+                     Detection / Forced Activation Logic.
+
+STAGE ONE INDICATORS:
+   - anomaly remains completely still
+   - selected subject states activation phrase
+   - selected subject fixates on torso slot
+   - selected subject attempts approach despite fear
+   - pulse of chosen subject accelerates sharply within 5 m
+
+STAGE TWO INDICATORS:
+   - inserted Heart-Signal remains active inside slot
+   - core emits low red-gold mechanical light
+   - right claw articulates continuously
+   - left hammer arm charges piston pressure
+   - all sentient heart signatures within 3 m are targeted
+   - anomaly positions itself to defend the slot
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-017 is contained in a reinforced vertical machine chamber with a minimum
+ceiling height of 12 m, floor-mounted magnetic braces, and remote visual systems
+with selection-filter delay. The anomaly must remain in Stage One inert state at
+all times. Under no circumstance is a compatible Heart-Signal medium to be
+introduced into the containment chamber.
+
+Direct visual exposure to AFD-OB-017 is restricted. Personnel may view the
+anomaly only through delayed video feed, silhouette mapping, or still-image
+review divided into non-continuous sections. Live direct observation through
+windows, optical scopes, or open chamber doors is prohibited unless approved by
+Level 4 command.
+
+Any subject who states "The Machine need a Heart" or any close variant while
+within visual exposure range is to be considered chosen. The chosen must be
+redirected, physically blocked if necessary, and removed from line of sight. The
+chosen must not be allowed within 5 m of the anomaly under any condition.
+
+The torso slot must remain sealed by a remote-fitted ceramic Heart-Block plate.
+The plate is designed to prevent accidental slot access and to delay claw access
+should Stage One movement occur. The plate is not expected to stop Stage Two
+activity if a Heart-Signal is already inside the slot.
+
+If Stage Two activates, all personnel must evacuate beyond 20 m and deploy
+remote containment units only. Do not send responders into the 3 m zone. Remote
+arms may attempt Heart-Signal separation or slot occlusion after the anomaly is
+pinned by magnetic floor braces and overhead cable restraints.
+
+CONTAINMENT SITE:        ACT-SITE-01-US-W — Redwood Veil Complex
+SITE TYPE:               Primary Site / Heavy object and anomalous machinery
+                         containment
+JURISDICTIONAL
+AUTHORITY:               Anomalous Machinery Review / Central Archive Administration
+CONTAINING DIVISION:     Object Containment Division / Heavy Entity Suppression
+REQUIRED PERSONNEL:      2 remote machinery technicians, 2 security officers,
+                         1 care specialist on standby, 1 compulsion response
+                         officer
+MONITORING FREQUENCY:    Continuous delayed-feed monitoring / daily slot-seal
+                         status check
+MAINTENANCE CYCLE:       Weekly magnetic brace inspection / monthly Heart-Block
+                         plate replacement
+
+BREACH PROTOCOL:         If inert, close all visual shutters and deploy remote
+                         magnetic locks. If active, evacuate all personnel beyond
+                         the 3 m signature zone and preferably beyond 20 m. Use
+                         unmanned units only. Do not approach affected subjects
+                         until the Heart-Signal has faded or the anomaly has
+                         been immobilized.
+
+BREACH CONDITIONS —
+THIS ANOMALY IS CONSIDERED
+IN BREACH IF IT:
+   [x] Breaks formal containment
+   [x] Endangers public normalcy
+   [ ] Causes distortion in reality, Earth, time, or cosmic law
+   [ ] Spreads memetic, informational, or biological contamination
+   [x] Resists classification and escalates beyond predicted behavior
+   [ ] Transforms its environment into an anomalous zone
+   [x] Other: A chosen subject approaches within 5 m, the torso slot becomes
+              unsealed, a Heart-Signal enters the slot, or Stage Two activates
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-017 appears to define the chosen Heart-Signal as both fuel and protected
+command object. It does not consume the signal immediately. It preserves the
+chosen signal and removes other sentient heart signatures from its radius. The
+behavior resembles guardianship more than hunger.
+
+The meaning of "NO Sentient Heart Signature" is a field-description term, not a
+phrase produced by the anomaly. Instruments detect a circular suppression zone
+where biological rhythm, emotional-response signatures, and conscious presence
+patterns are targeted by the machine's movement. The zone itself is not active
+by exposure alone. The machine enforces the zone through direct action.
+
+Chosen-subject selection remains unresolved. The anomaly does not select every
+viewer. Selection does not correlate cleanly with age, gender, wellness history,
+fear level, moral history, or prior anomaly exposure. In all known cases, the
+chosen subject reported feeling that the machine was incomplete rather than
+threatening.
+
+AFD-OB-017's Heart-Signal removal action is too fast for normal machinery of its
+mass. High-speed footage shows the right claw moving before any detectable
+power-up sequence. In several frames from Incident 017-B, the chosen subject's
+Heart-Signal appears in both the subject's aura field and the machine core at
+the same time. This may indicate a short-range discontinuity rather than
+ordinary mechanical action.
+
+═══════════════════════════════════════════════════════════════════════
+                      TRANSFORMATION NOTES
+═══════════════════════════════════════════════════════════════════════
+
+TRANSFORMATION ATTEMPT
+STATUS:              Prohibited
+
+TRANSFORMATION NOTES:
+AFD-OB-017 is not approved for transformation, repurposing, battlefield use,
+area denial, or guardian deployment. The anomaly's activation places chosen
+subjects at significant risk and its Stage Two state is uncontrollable.
+
+Proposals to use artificial Heart-Signals, animal signatures, printed symbolic
+hearts, or simulated emotional cores have been denied. The slot rejects all
+known substitutes during passive testing.
+
+Current doctrine prioritizes inert-state preservation, visual-exposure control,
+and prevention of chosen-subject approach.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+The phrase is grammatically incorrect in every confirmed language translation.
+The chosen does not say "the machine needs a heart." The chosen says "The
+Machine need a Heart." Do not correct the chosen. Redirect the chosen.
+
+NOTE 002:
+During Incident 017-A, a responder entered the Stage Two zone to assist an
+affected subject. AFD-OB-017 used its hammer arm to force the responder out of
+the radius. The responder survived with temporary disorientation due to partial
+cover behind a concrete pillar.
+
+NOTE 003:
+The anomaly's hammer arm has never been used to perform Heart-Signal removal.
+It is used only during Stage Two enforcement after activation. The claw chooses.
+The hammer enforces.
+
+NOTE 004:
+Do not describe AFD-OB-017 as asleep when inert. Personnel exposed to that term
+showed increased sympathy toward the object's incompleteness. Use "inactive" or
+"empty" only.
+
+END OF FILE

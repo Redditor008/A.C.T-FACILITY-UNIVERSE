@@ -1,0 +1,372 @@
+A.C.T FACILITY — INCIDENT & BREACH DOSSIER
+KITSUNE-Fox-Girl-Incident-Breach-Dossier-AFD-SU-572
+
+═══════════════════════════════════════════════════════════════════════
+                A.C.T FACILITY — INCIDENT & BREACH DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-572
+TITLE I:             KITSUNE, Fox Girl
+TITLE II:            KAZUMI MORI, THE TEMPLE-KEPT FOX
+
+FIELD TYPE:          SU — Subject
+PRIMARY FILE:        KITSUNE-Fox-Girl-AFD-SU-572
+
+DOCUMENT CATEGORY:   CATEGORY IV — Incident & Breach Dossier
+CATEGORY FUNCTION:   Emotional destabilization record, handler-loss response,
+                     telepathic surge review, and care-continuity correction
+
+CLEARANCE REQUIRED:  Level 3
+
+CONTAINMENT SITE:    ACT-SITE-03-JP-E — Kurokawa Archive Node
+ARCHIVE STATUS:      Active / Cooperative subject-care archive
+DOSSIER STATUS:      Open / Handler-loss incident archived
+
+RELATED DOSSIER:     KITSUNE-Fox-Girl-Behavioral-Observation-Dossier-AFD-SU-572
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category IV — Incident & Breach Dossier. The
+document may contain multiple related incident, emotional response, containment
+risk, care review, and procedure revision records concerning AFD-SU-572.
+
+INCLUDED LOG TYPES:
+   - Incident Summary
+   - Notification Timeline
+   - Telepathic Surge Record
+   - Subject Testimony Extract
+   - Care Staff Review
+   - Procedure Revision Notice
+   - Dossier Closing Statement
+
+CATEGORY PURPOSE:
+To preserve Incident 572-F, during which AFD-SU-572 discovered the death of her
+long-term friend and handler, Care Specialist Hanae Fujimoto, due to old age.
+The incident did not produce a containment breach, but it caused significant
+emotional destabilization, telepathic overflow, and temporary regression in the
+subject's socialization progress.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-572 formed a long-term attachment to Care Specialist Hanae Fujimoto over
+several decades of cooperative containment. Fujimoto served as offering handler,
+cultural liaison, and trusted social anchor for the subject during the transition
+from introverted shrine withdrawal to semi-extroverted stability.
+
+In 1991, after a prolonged age-related decline, Fujimoto died peacefully outside
+the containment suite. Due to administrative caution, the subject was not
+informed immediately. AFD-SU-572 discovered the loss indirectly after noticing
+absence patterns, altered offering preparation, and the emotional state of
+replacement staff.
+
+The incident produced a strong telepathic grief surge across the subject-care
+wing and caused AFD-SU-572 to retreat into shrine-screen isolation for 19 days.
+No hostile intent was recorded. No personnel were physically harmed. However,
+several staff experienced involuntary grief impressions, forest imagery, and the
+sensation of standing in an empty temple during rain.
+
+A.C.T's initial decision to delay the notification is now considered a care
+error.
+
+═══════════════════════════════════════════════════════════════════════
+                    SECTION 001 — INCIDENT SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-572/INC-001
+LOG TYPE:            Incident Summary
+CATEGORY:            Incident & Breach Dossier
+DATE:                1991-02-17
+LOCATION:            ACT-SITE-03-JP-E / Kitsune-Class Subject Suite
+INCIDENT NAME:       572-F — Empty Offering Bowl
+PRIMARY SUBJECT:     AFD-SU-572 / Kazumi Mori
+RELATED PERSONNEL:   Care Specialist Hanae Fujimoto
+REVIEWING UNIT:      Subject Care Division / Cultural Continuity Review
+
+SUMMARY:
+Incident 572-F began after AFD-SU-572 refused the morning offering placed by a
+replacement handler. The subject remained seated behind the shrine screen and
+moved the offering tray back to the room entrance three times without physical
+contact.
+
+At 08:42, the subject transmitted a telepathic impression to all personnel
+within approximately 31 m. The impression contained no words. Personnel reported:
+
+   - cold rain on temple stone
+   - an extinguished lamp
+   - a teacup placed for someone who would not arrive
+   - the smell of old cedar
+   - the feeling of a forest path closing behind them
+
+At 09:03, AFD-SU-572 spoke aloud:
+
+                     "Hanae did not forget the rice."
+
+Replacement staff attempted to redirect. The subject did not respond. At 09:11,
+she moved all offering bowls in the suite into a circle and placed Fujimoto's
+old cloth handkerchief in the center. The handkerchief had been stored in a care
+cabinet and was not known to be accessible to the subject.
+
+Subject Care Division authorized direct notification at 09:25. Dr. Aiko Senda
+entered the suite and informed AFD-SU-572 that Care Specialist Fujimoto had died
+peacefully after age-related decline.
+
+AFD-SU-572 remained silent for 4 hours, 16 minutes.
+
+At 13:47, the subject asked:
+
+                     "Does old age have a door, or does it only take the room?"
+
+RESULT:
+Containment remained intact. Emotional destabilization continued for 19 days.
+Procedure revised for future long-term handler loss.
+
+═══════════════════════════════════════════════════════════════════════
+                  SECTION 002 — NOTIFICATION TIMELINE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-572/TLN-001
+LOG TYPE:            Notification Timeline
+CATEGORY:            Incident & Breach Dossier
+SOURCE:              Care logs, observation notes, telepathic review reports
+
+TIME INDEX:
+
+1991-02-10 — Care Specialist Hanae Fujimoto enters medical leave. AFD-SU-572 is
+told Fujimoto is resting and will not attend offering service.
+
+1991-02-12 — Subject asks whether Fujimoto's tea should still be prepared.
+Replacement staff answer yes. Subject accepts response.
+
+1991-02-15 — Fujimoto dies peacefully from age-related decline. Notification is
+delayed pending care-stability meeting.
+
+1991-02-16 — Morning offering prepared by replacement handler. Subject accepts
+food but does not speak. Telekinetic movement limited to closing screen panels.
+
+1991-02-17 / 08:12 — Subject refuses morning offering. Bowl returns to entrance.
+
+1991-02-17 / 08:31 — Replacement handler attempts second offering. Subject moves
+bowl back without verbal response.
+
+1991-02-17 / 08:42 — Telepathic grief surge begins. Multiple personnel report
+shared imagery.
+
+1991-02-17 / 09:03 — Subject states: "Hanae did not forget the rice."
+
+1991-02-17 / 09:25 — Direct notification authorized.
+
+1991-02-17 / 09:31 — Dr. Senda informs subject of Fujimoto's death.
+
+1991-02-17 / 13:47 — Subject asks first grief-related question.
+
+1991-02-18 to 1991-03-07 — Subject remains withdrawn. Accepts only simple rice,
+water, and tea offerings. No group sessions permitted.
+
+1991-03-08 — Subject exits shrine screen voluntarily and requests a bell cord be
+hung for Fujimoto during seasonal observance.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 003 — TELEPATHIC SURGE RECORD
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-572/TEL-001
+LOG TYPE:            Telepathic Surge Record
+CATEGORY:            Incident & Breach Dossier
+REVIEWING UNIT:      Memetic-Psionic Support Desk
+DATE:                1991-02-18
+
+SUMMARY:
+The grief surge during Incident 572-F was the strongest recorded telepathic
+broadcast from AFD-SU-572 up to that date. Unlike ordinary telepathic contact,
+which remains directional and limited, the surge radiated outward through the
+subject-care wing and affected personnel not directly interacting with the
+subject.
+
+ESTIMATED RANGE:
+   - strong effect: 31 m
+   - weak emotional impression: up to 46 m
+   - no confirmed effect beyond 46 m
+
+COMMON IMPRESSIONS:
+   - rain in an empty temple courtyard
+   - an offering bowl cooling before being accepted
+   - a fox statue covered in moss
+   - a path through dark cedar forest closing behind the viewer
+   - the certainty that someone kind had walked too far to answer
+
+PHYSICAL CORRELATES:
+   - paper charms moved without direct line of sight
+   - three offering bowls formed a circle around Fujimoto's handkerchief
+   - tea temperature in one cup dropped from 62°C to 21°C in under 4 seconds
+   - shrine screen panels closed and remained closed despite unlocked rails
+
+INTERPRETATION:
+The surge was emotional overflow, not attack. Personnel affected by the surge
+reported grief, not compulsion. No lasting memetic contamination detected.
+
+CARE WARNING:
+Long-term attachment figures must not be removed from AFD-SU-572's life without
+transparent transition protocol. The subject detects absence patterns more
+quickly than personnel expect.
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 004 — SUBJECT TESTIMONY EXTRACT
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-572/INT-001
+LOG TYPE:            Subject Testimony Extract
+CATEGORY:            Incident & Breach Dossier
+DATE:                1991-03-08
+INTERVIEWER:         Dr. Aiko Senda
+SUBJECT:             AFD-SU-572 / Kazumi Mori
+SETTING:             Subject suite / shrine alcove / low-light care session
+
+FOREWORD:
+This interview occurred after 19 days of withdrawal. AFD-SU-572 requested tea,
+rice, and Fujimoto's handkerchief be placed near the alcove before speaking.
+
+BEGIN EXTRACT:
+
+DR. SENDA:           Kazumi, would you like to talk about Hanae today?
+
+AFD-SU-572:          She always placed the bowl with two fingers on the rim.
+
+DR. SENDA:           Yes.
+
+AFD-SU-572:          The new one used three. Three is not wrong. It is only not
+                     her.
+
+DR. SENDA:           We should have told you sooner.
+
+AFD-SU-572:          You were afraid I would break something.
+
+DR. SENDA:           We were afraid you would be hurt.
+
+AFD-SU-572:          Hurt came anyway. It walked in wearing another person's
+                     hands.
+
+[Subject pauses for 38 seconds. Tail remains still.]
+
+AFD-SU-572:          Hanae was old when she was young.
+
+DR. SENDA:           What do you mean?
+
+AFD-SU-572:          She knew how to leave a room gently. Even when she stayed.
+
+DR. SENDA:           Do you want us to keep her name in the offering record?
+
+AFD-SU-572:          Yes. Not as staff. As weather.
+
+DR. SENDA:           As weather?
+
+AFD-SU-572:          Some people are weather in a forest. When they are gone,
+                     the leaves still know how they moved.
+
+DR. SENDA:           We can preserve that.
+
+AFD-SU-572:          Do not preserve her like a file.
+
+DR. SENDA:           How should we preserve her?
+
+AFD-SU-572:          Put rice down correctly. Say her name before tea. Let the
+                     new hands learn slowly.
+
+END EXTRACT.
+
+CLOSING NOTE:
+Subject accepted a replacement offering handler after this interview, provided
+the new handler trained under Fujimoto's recorded offering protocol and performed
+three silent sessions before speaking.
+
+═══════════════════════════════════════════════════════════════════════
+                  SECTION 005 — CARE STAFF REVIEW
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-572/CARE-001
+LOG TYPE:            Care Staff Review
+CATEGORY:            Incident & Breach Dossier
+REVIEWING UNIT:      Subject Care Division
+DATE:                1991-03-12
+
+REVIEW SUMMARY:
+Incident 572-F was not caused by Fujimoto's death alone. The destabilizing factor
+was delayed disclosure and failed ritual transition. AFD-SU-572 understood the
+absence before staff acknowledged it. This created distrust during grief.
+
+CARE ERRORS:
+   - notification delayed without subject-specific transition plan
+   - replacement handler assigned before emotional disclosure
+   - offering protocol changed abruptly
+   - staff underestimated subject's pattern recognition
+   - staff treated grief as containment risk before treating it as grief
+
+PROTECTIVE FACTORS:
+   - Dr. Senda provided direct honest notification
+   - Fujimoto's personal offering protocol was preserved
+   - subject was allowed private withdrawal
+   - no forced interviews during first 19 days
+   - memorial request was approved
+
+CARE CONCLUSION:
+For long-lived social subjects, mortality of trusted personnel is not an
+administrative staffing issue. It is containment-relevant emotional terrain.
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 006 — PROCEDURE REVISION NOTICE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-572/PRC-001
+LOG TYPE:            Procedure Revision Notice
+CATEGORY:            Incident & Breach Dossier
+ISSUING AUTHORITY:   Subject Care Division / Cultural Continuity Review
+DATE ISSUED:         1991-03-15
+
+REVISION SUMMARY:
+Following Incident 572-F, all long-term cooperative subject assignments must
+include continuity planning for handler aging, retirement, transfer, and death.
+
+UPDATED PROCEDURES:
+   1. Long-term handlers must prepare transition records for attached subjects.
+   2. Replacement handlers must train in ritual, care, and social habits before
+      direct replacement occurs.
+   3. Death of a trusted handler must be disclosed honestly and promptly by an
+      approved care authority.
+   4. Memorial requests are to be considered containment-relevant, not decorative.
+   5. Sudden offering-protocol changes are prohibited after handler loss.
+   6. Telepathic grief surges are to be treated as distress, not attack, unless
+      compulsion or hostile intent is confirmed.
+   7. Long-lived subjects must not be protected from mortality through deception.
+   8. Care records must distinguish grief behavior from breach behavior.
+
+APPROVED TRANSITION PHRASE:
+
+                     They are gone. We will not pretend they forgot you.
+
+IMPLEMENTATION STATUS:
+Approved. Added to cooperative subject-care doctrine.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+Incident 572-F confirmed that AFD-SU-572's attachments are deep, specific, and
+ritualized. Her grief response produced telepathic overflow and temporary social
+regression, but no hostility. The incident should be remembered as a failure of
+care timing rather than a failure of containment behavior.
+
+Future additions to this dossier should include:
+   - memorial observance stability review
+   - new handler acceptance record
+   - long-term grief recurrence during seasonal festivals
+   - telepathic surge threshold study
+   - attachment planning for future staff retirement or death
+   - subject consent model for memorial archive entries
+
+CURRENT DOSSIER STATUS: Open / Care Procedure Revised
+
+END OF DOSSIER

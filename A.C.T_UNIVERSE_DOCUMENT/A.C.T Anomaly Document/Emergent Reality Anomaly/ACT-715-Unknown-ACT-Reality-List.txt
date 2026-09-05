@@ -1,0 +1,128 @@
+A.C.T FACILITY — MASTER REGISTRY
+ACT-715-Unknown-ACT-Reality-List
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — MASTER REGISTRY
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+REGISTRY ID:         ACT-715-URL (Unknown Reality List)
+AUTHOR:              Aris Thorne (SR-412)
+DISTRIBUTION:        O5 COUNCIL ONLY
+CLEARANCE:           [ ABYSS ACCESS ONLY ] / [ Level 4-5 Lock ]
+
+This registry serves as the definitive catalog for EXOGENOUS DATA 
+LEAKAGE—non-anomalous physical and digital media recovered by the 
+A.C.T Facility that appears to describe or originate from external 
+causal planes. 
+
+**RESEARCHER NOTE (THORNE):**
+The items below possess zero anomalous properties. They do not bend 
+reality, they do not emit radiation, and they do not influence the 
+mind. They are 'Dead Data'—fragments of other worlds that have 
+manifested as mundane objects (USB drives, paper scripts, photos) 
+within our Site Network. 
+
+We categorize them under the 715 series not because they are dangerous, 
+but because they are impossible records. They are the 'Unauthored 
+Artifacts' of the archive.
+
+═══════════════════════════════════════════════════════════════════════
+                    THE EXOGENOUS ARTIFACT LIST (715)
+═══════════════════════════════════════════════════════════════════════
+
+------------------------------------------------------------------------
+[RECORD A]           | STATUS: SECURED (USB FILE)
+------------------------------------------------------------------------
+IDENTIFIER:          Colorful Array
+SUBJECT REF:         AFD-SU-715
+DATA SUMMARY:        A single .mp4 clip found on an unbranded 8GB USB 
+                     drive. Depicts a sentient AI (Neuro-Sama) singing 
+                     a song.
+THORNE ANALYSIS:     Non-anomalous video. The file is stable and can 
+                     be played on any standard terminal. The source 
+                     metadata points to the year 30XX.
+
+------------------------------------------------------------------------
+[RECORD B]           | STATUS: SECURED (PHYSICAL SCRIPT)
+------------------------------------------------------------------------
+IDENTIFIER:          Dramatugy Script
+SUBJECT REF:         AFD-OB-715
+DATA SUMMARY:        A physical, human-written paper script for a 
+                     musical play. 
+THORNE ANALYSIS:     Standard bond paper. The ink is non-anomalous. It 
+                     appears to be a copy transcribed by a human hand 
+                     describing a theatrical conflict.
+
+------------------------------------------------------------------------
+[RECORD C]           | STATUS: SECURED (PHYSICAL BOOK)
+------------------------------------------------------------------------
+IDENTIFIER:          Melancholy Regressor Diary
+SUBJECT REF:         AFD-OB-715
+DATA SUMMARY:        A physical leather-bound book titled 'Before I 
+                     Forget You.'
+THORNE ANALYSIS:     A written copy. It contains the long-form text of 
+                     a regressor's journal. No empathic bleed or 
+                     temporal residue detected. It is simply a book.
+
+------------------------------------------------------------------------
+[RECORD D]           | STATUS: SECURED (LOG DOCUMENT)
+------------------------------------------------------------------------
+IDENTIFIER:          The Game of Life
+SUBJECT REF:         AFD-SU-715
+DATA SUMMARY:        A standard A.C.T-formatted log document found 
+                     printed in the Site-03 output tray.
+THORNE ANALYSIS:     A profile of a subject that does not exist in our 
+                     custody. The document is ink on paper, 100% 
+                     mundane.
+
+------------------------------------------------------------------------
+[RECORD E]           | STATUS: SECURED (PHYSICAL PHOTOGRAPH)
+------------------------------------------------------------------------
+IDENTIFIER:          An End to ALL… OVER
+SUBJECT REF:         AFD-OB-715
+DATA SUMMARY:        A single 4x6 matte photograph.
+THORNE ANALYSIS:     The photo depicts a barren Earth and a figure on 
+                     a bench (the 'Ending'). Analysis confirms it is 
+                     standard photographic paper. No data-stream or 
+                     simulation.
+
+------------------------------------------------------------------------
+[RECORD F]           | STATUS: SECURED (WRITTEN LOG)
+------------------------------------------------------------------------
+IDENTIFIER:          Grim Helm
+SUBJECT REF:         AFD-OB-715
+DATA SUMMARY:        A multi-page written log describing the POV 
+                     observations of an entity named 'MR. FIXER.'
+THORNE ANALYSIS:     No physical helm was ever found. This is a 
+                     transcript only, found as a hard-copy in a 
+                     secure locker. 
+
+------------------------------------------------------------------------
+[RECORD G]           | STATUS: SECURED (SERVER CACHE)
+------------------------------------------------------------------------
+IDENTIFIER:          [BLANK] SERVER
+SUBJECT REF:         AFD-OB-715
+DATA SUMMARY:        A 2MB save-file recovered from an internal 
+                     Facility server.
+THORNE ANALYSIS:     The file contains only 25% of a master anomaly 
+                     list before the data cuts off. It is a 
+                     corrupted database fragment, non-anomalous.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 002 — O5-1 DIRECTIVE
+═══════════════════════════════════════════════════════════════════════
+
+"These items are fossils of intent. They do not pose a threat to our 
+reality, but they reveal that our archive is being used as a waste-bin 
+for other timelines. Store them as 'Exogenous Literature.' Do not 
+assign containment teams."
+
+═══════════════════════════════════════════════════════════════════════
+                         REGISTRY CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+COMPILER: Aris Thorne (SR-412)
+STATUS: Non-Anomalous Artifacts Secured
+
+END OF REGISTRY

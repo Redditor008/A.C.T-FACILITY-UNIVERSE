@@ -1,0 +1,266 @@
+# Chapter 4 — The Bloom Before the Bloom
+
+The next contradiction came with a smell.
+
+It should not have been possible for paper to remember scent after that many years, not through filtered air, sealed sleeves, preservation resin, and the layered indifference of time. Yet when Sera opened the first evidence envelope from the pre-classification botanical shelves, a faint trace escaped into the cold archive air—something dry, floral, and metallic, as though frost had been steeped in gold and left to rot beneath glass.
+
+She froze with the sleeve half-drawn from its case.
+
+Not because the smell was strong.
+
+Because she knew it.
+
+She had never stood in the live cultivation chambers where AFD-NB-004 was housed; her clearance stopped far above active biological handling. But she had passed enough sealed transfer carts between Archive and Medical to know the warning markers. She had reviewed enough post-handling reports to recognize the descriptive language. Cold. Floral. Metallic. A brightness in the air before the mind began slipping.
+
+The bloom.
+
+Except this envelope was older than the bloom was supposed to be.
+
+Sera set the sleeve under the reading lamp and forced herself into procedure.
+
+The file was catalogued as a provisional environmental contaminant sample recovered during a lower descent support operation. No field designation. No anomaly code. No attached biological class. The date marked it seventeen years before the official discovery of AFD-NB-004.
+
+The preservation sheet inside contained only three surviving fragments of the original note. Most of the page had been eaten by later overstrike and archive correction, but the lines that remained were enough.
+
+**pale tissue sample**  
+**non-decaying gold residue**  
+**subject lost previous day in under seven minutes**
+
+Sera read the last line three times.
+
+Not the previous hour.
+Not the previous conversation.
+The previous day.
+
+She turned the page over.
+
+A second hand had written along the back margin in severe compressed script:
+
+**do not classify under inhalation poison**
+
+The handwriting was not one she recognized from the ITHYOS ledgers. Which somehow made it worse. Too many hands had touched this. Too many people had known enough to leave warnings and not enough—or not safely enough—to preserve explanation.
+
+She looked at the catalog tag again.
+
+The sample had been routed through an obsolete branch of biological review that no longer existed as an independent unit. That alone was not remarkable. Half the old Facility had been cannibalized into newer divisions. What mattered was the transit route attached to the sample.
+
+It did not originate from a surface site.
+
+It did not even originate from a recognizable field operation.
+
+The route origin marker consisted of a single code she had already seen twice in lower descent records and once in the dead maintenance branch beneath Central.
+
+**L-0B / below mapped access**
+
+Below mapped access.
+
+Not outside.
+Not recovered from a valley, forest, ruin, or contaminated settlement.
+
+Below.
+
+The bloom was below.
+
+Sera sat back slowly.
+
+The official record for AFD-NB-004 placed its discovery years later, in a localized civilian memory-collapse zone whose witnesses emerged confused, missing time, and unable to reconstruct their route through a white-blue flowering field. That version had shape. It had documentation logic. It had a useful beginning. Recovery. Study. Refinement. Integration.
+
+This file had none of that.
+
+This file suggested the Facility had touched the bloom—or something like it—before the world ever officially knew it existed.
+
+And if that was true, then every modern narrative about AFD-NB-004 had been built on a false starting point.
+
+Sera pulled the next folder.
+
+Then the next.
+
+Once she stopped treating the official discovery date as real, the evidence began surfacing everywhere.
+
+A breathing-mask requisition for deep-route handlers with notation referencing “gold particulate and recall collapse.” A medical sheet describing hand tremor and name-displacement after contact with a “cool luminous excretion.” A dead inventory ledger listing six sealed ampoules under no recognized biological designation, transferred upward from an abyss-route checkpoint and immediately reassigned to restricted pharmacological review.
+
+The bloom was not after the abyss.
+
+The bloom was part of it.
+
+She copied each fragment into the shadow file under a new heading:
+
+**NB-004 CHRONOLOGY FAILURE**
+
+Then she hesitated and changed the heading.
+
+**NB-004 CHRONOLOGY SUPPRESSION**
+
+That felt more honest.
+
+By mid-shift her desk had become a controlled disaster of opened sleeves, approved cross-tags, and false-facing admin windows meant to disguise the fact that she had stopped reconciling records and started dissecting a lie.
+
+Nobody interrupted her until the door at the far end of the archive floor opened and the room changed shape.
+
+There was no alarm.
+No announcement.
+No visible panic.
+
+But every person in the room noticed.
+
+A woman stepped through the threshold accompanied by no one, which was how Sera understood immediately that she belonged to a level of authority requiring no escort. Tall, severe, dressed in the kind of quiet black that was too plain to be ordinary and too exact to be accidental, she moved with the unhurried certainty of someone for whom all locked spaces were temporary conditions.
+
+Sera had never seen her before.
+
+That did not matter.
+
+What mattered was what happened to the room around her.
+
+People straightened before she looked at them. Conversations stopped before her attention shifted in their direction. A junior clerk halfway up a ladder froze, eyes wide, as though he had just realized that hiding inside routine was no protection at all. Even the ambient rhythm of the archive seemed to pull tight.
+
+The woman’s face was calm without softness, pale without fragility. She did not scan the room in the ordinary sense. Her gaze moved once, slowly, and Sera had the strange, immediate certainty that nothing animate in the archive could have concealed itself from her if it tried.
+
+It was not vigilance.
+It was worse.
+
+It felt like an anomalous sense of surrounding, as though the very shape of occupied space announced itself to her whether it wished to or not. No person, no hidden movement, perhaps no living thing at all could remain fully concealed in her presence.
+
+When her eyes passed over Sera’s aisle, Sera felt the reflexive urge to look down—not out of submissiveness, but out of the terrible sensation of being located with absolute precision.
+
+The woman crossed to Mila Renn’s station.
+
+Mila rose at once.
+
+There was no salute, no title spoken aloud. Only a small transfer case passed from Mila’s hands to the woman’s, followed by a single sheet of verification paper. The woman signed it without reading, because she had probably already understood everything that mattered before touching the case at all.
+
+On her way back toward the door, she paused.
+
+Not near Sera’s desk.
+Not even directly facing her.
+
+But near enough that Sera could feel it.
+
+The woman tilted her head by the slightest degree, like someone listening to a sound under the floor.
+
+Then she looked, not at Sera, but at the open sleeve on Sera’s desk—the old evidence envelope with the trace scent of metallic cold still leaking from its age.
+
+For a moment the air itself seemed to still.
+
+Then the woman moved on.
+
+The door closed behind her.
+
+Only after it sealed did breathing resume around the room in a way that felt human again.
+
+Mila sat down first.
+Then everyone else pretended nothing had happened.
+
+Sera waited three full minutes before leaving her desk and crossing the room.
+
+“What was that?” she asked quietly.
+
+Mila did not look up from her terminal. “A lesson.”
+
+“In what?”
+
+“In not mistaking quiet floors for safe ones.”
+
+Sera kept her voice level. “Who was she?”
+
+Mila’s hands stopped over the keys.
+
+When she finally answered, she did so with the care people used around high-voltage systems.
+
+“Someone you are better off describing than naming.”
+
+Sera said nothing.
+
+Mila glanced toward the now-closed door. “She notices what is present. All of it. People. Movement. Hidden things. The wrong kind of residue.” Her eyes flicked, briefly, to the envelope on Sera’s desk. “Sometimes she notices what should not be present too.”
+
+That did not calm Sera in the slightest.
+
+“Is she O5?”
+
+Mila returned her attention to the terminal. “Wrong question.”
+
+Sera almost laughed at the repetition of it. Wrong question seemed to be the Facility’s way of saying yes when yes was too dangerous to preserve in language.
+
+She went back to her desk and closed the evidence sleeve carefully, hands suddenly less steady than before.
+
+If the unnamed woman had truly sensed the residue on the envelope, then the bloom was not merely hidden in old records. It was still dangerous enough that old traces mattered in present rooms.
+
+The thought sharpened everything.
+
+Sera reopened the chronology file and continued.
+
+The more she gathered, the less the official discovery story survived. The so-called first civilian event now looked less like discovery and more like controlled release into the archive. A clean narrative. A manageable starting point. A safer official history than the truth.
+
+Meaning the truth was this:
+
+The Forgetting Bloom had been known to the Facility before it was known to the Facility.
+
+And if that sentence made no sense, it was only because someone had worked very hard to make sure it never would.
+
+Near the end of shift she found the piece that made the whole structure buckle.
+
+It was hidden inside a pharmacological trial index, cross-filed under obsolete transformation language. Most of the record was gone, but one line remained intact because someone had misjudged what later readers would understand.
+
+**sap viability contingent on dream-state stability**
+
+Sera stared at the line until the letters blurred.
+
+Dream-state.
+
+Not bloom cycle.
+Not environmental condition.
+Not chamber humidity or harvest interval.
+
+Dream-state.
+
+There was only one thing in the entire buried history of A.C.T that made that word feel less metaphorical than operational.
+
+ITHYOS.
+
+Her pulse thudded once, hard enough to hurt.
+
+The possibility opened beneath her all at once.
+
+NEMNOLIA was not simply an anomaly later made useful. It was tied—biologically, pharmacologically, maybe ontologically—to the sleeping state of the abyssal entity below.
+
+The source of the Facility’s power to erase memory came from the same buried truth the Facility most feared remembering.
+
+For a long time she did not move.
+
+Then, very carefully, Sera copied the surviving line into the shadow file and encrypted it under a false revision header.
+
+She saved the note, closed every open archive window, and sat with her hands flat against the desk while the shift lamps dimmed toward cycle-end.
+
+The bloom was below.
+The archive had lied about when it found it.
+The woman who could sense hidden presence had noticed the old residue instantly.
+And somewhere, in a record no one at her level was ever meant to read, someone had written that the sap’s viability depended on dream-state stability.
+
+The contradiction had become too large to be only archival.
+
+This was not a clerical corruption.
+Not a hidden experiment.
+Not even merely a cover-up.
+
+This was history being forced into a safer shape so the institution built on top of it could continue functioning.
+
+When Sera finally stood, she did so with the strange numbness of someone who had gone looking for missing paperwork and found the edge of a mythology.
+
+On her way out, she passed Mila’s station once more.
+
+Without looking up, Mila said, “If you keep digging, choose carefully what part of yourself you plan to bring back.”
+
+Sera stopped.
+
+“That isn’t advice,” she said quietly.
+
+“No,” Mila answered. “It’s inheritance.”
+
+Then the senior archivist turned a page, and the conversation ended as completely as if it had never happened.
+
+That night, in the privacy of her quarters, Sera opened the shadow file and added a final line beneath the day’s evidence chain.
+
+**The bloom did not come after the abyss. It came with it.**
+
+She looked at the sentence for a long time.
+
+Then she encrypted it, hid it, and sat awake in the dark while far below the Facility, beneath floors, beneath doctrine, beneath corrected history, something slept—and something rooted itself in that sleep.

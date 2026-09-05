@@ -1,0 +1,217 @@
+A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
+An-End-to-ALL-OVER-Survival-History-Log-AFD-OB-715
+
+═══════════════════════════════════════════════════════════════════════
+             A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-715
+TITLE I:             An End to ALL… OVER
+TITLE II:            THE TERMINAL SURVIVOR / THE SELF-PLAYING APOCALYPSE
+
+FIELD TYPE:          OB — Object / PL — Place
+PRIMARY FILE:        An-End-to-ALL-OVER-AFD-OB-715
+
+DOCUMENT CATEGORY:   CATEGORY VIII — Behavioral & Observation Dossier
+CATEGORY FUNCTION:   Long-term monitoring of the "PLAYER" subject; 
+                     Monthly survival progress recording; Causal-endpoint 
+                     analysis (Year 2 – Year 5).
+
+CLEARANCE REQUIRED:  Level 4 / Narrative Hazard Desk
+
+CONTAINMENT SITE:    Site-Sub-03-UK-E
+ARCHIVE STATUS:      Active / Continuous Observation
+DOSSIER STATUS:      Open / Historical Cycle Logged
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier contains the month-by-month observation records of the 
+self-playing simulation "An End to ALL… OVER." It tracks the autonomous 
+actions of the single remaining human subject, the "PLAYER," from the 
+beginning of the second year of observation to the conclusion of the 
+fifth.
+
+INCLUDED LOG TYPES:
+   - Year 2: The Foundation of the Barren (Resource Acquisition)
+   - Year 3: The Rift Expeditions (Dark World Interface)
+   - Year 4: The Reclamation of the Grid (Infrastructure Repair)
+   - Year 5: The Final Seal (Aperture Closure)
+   - Dossier Closing Statement
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 001 — YEAR TWO: THE BARREN FOUNDATION
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-715/Y2-OBS
+RANGE:               Month 13 → Month 24
+
+M13:                 PLAYER begins construction of a "Fortress-Hub" atop 
+                     the ruins of what appears to be London. Significant 
+                     use of rusted rebar and [ BLANK ] matter.
+M14:                 PLAYER discovers a cache of high-density energy 
+                     cells. Observation confirms the cells bear the 
+                     A.C.T logo. PLAYER displays zero emotional 
+                     response.
+M15:                 First confrontation with "Bones Hounds" near the 
+                     perimeter. PLAYER utilizes a heavy industrial 
+                     welder as a defensive weapon. Combat intelligence 
+                     is 100% efficient.
+M16:                 PLAYER identifies a "Blue Dirt" vein. Begins 
+                     experimental hardening of the base’s outer wall 
+                     using local moisture-vapor. 
+M17:                 Atmospheric conditions shift to "Total Dust." PLAYER 
+                     remains active despite zero visibility. Acoustic 
+                     sensors record the sound of [ REDACTED ] digging.
+M18:                 PLAYER successfully manufactures a "Sanguine-Filter" 
+                     mask. The design is 88% consistent with 
+                     [ REDACTED ] technology found in the 31st century.
+M19:                 Establishment of an automated farming unit. The 
+                     "Crops" appear to be non-organic, crystalline 
+                     structures.
+M20:                 PLAYER observes the Red Moon cycle. In-game 
+                     aggression of fauna increases. PLAYER initiates 
+                     "Lockdown Protocol" within the Hub.
+M21:                 An unidentified aerial entity (approx. 500m) passes 
+                     over the Hub. PLAYER remains motionless for 14 
+                     hours until the shadow departs.
+M22:                 PLAYER recovers a "Fragmented Script" from a 
+                     collapsed theater. Subject spends 3 days staring 
+                     at the pages.
+M23:                 PLAYER begins the first long-range expedition 
+                     toward the "Great Rift." 
+M24:                 Year Two concludes. The Hub is stable. PLAYER is 
+                     seen looking toward the camera for 0.4 seconds.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 002 — YEAR THREE: THE RIFT EXPEDITIONS
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-715/Y3-OBS
+RANGE:               Month 25 → Month 36
+
+M25:                 PLAYER reaches the edge of the [ REDACTED ] 
+                     Aperture. The Rift emits a deep red glow. PLAYER 
+                     deploys a tethered drone.
+M26:                 Drone feed (viewed within the game) reveals the 
+                     "Interior World." Environment matches 100% with 
+                     the Dark World (AFD-PL-932).
+M27:                 PLAYER enters the Rift. The "PLAYER" icon 
+                     undergoes a visual glitch, briefly appearing 
+                     [ REDACTED ].
+M28:                 Exploration of the "Red River" bank. PLAYER 
+                     collects samples of "Eel-Crab" tissue for 
+                     unidentified fuel refinement.
+M29:                 PLAYER constructs a bridge using "Pale Wood" 
+                     harvested from the Rift. Bridge resists all 
+                     environmental acid-storms.
+M30:                 The Blue Moon cycle begins. PLAYER experiences 
+                     decreased visibility. First recorded instance of 
+                     the PLAYER "Whispering" to himself. [SOUND MASKED].
+M31:                 PLAYER encounters a "Sentinel" entity inside the 
+                     Rift. Combat lasts 48 minutes. PLAYER survives with 
+                     [ REDACTED ] injuries.
+M32:                 Recovery phase. PLAYER remains in a "Stasis Pod" 
+                     constructed from salvage.
+M33:                 PLAYER discovers the "Archive of Ash"—a 
+                     partially-buried vault containing digital tablets. 
+                     The tablets contain [STRUCTURAL DATA OMITTED].
+M34:                 PLAYER begins translating the tablets. Local 
+                     reality in the simulation begins to "Melt" at the 
+                     edges.
+M35:                 PLAYER constructs a "Causal Beacon" at the mouth of 
+                     the Rift. 
+M36:                 Year Three concludes. The PLAYER exits the Rift, 
+                     carrying a large, black knight's helm.
+
+═══════════════════════════════════════════════════════════════════════
+               SECTION 003 — YEAR FOUR: THE RECLAMATION
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-715/Y4-OBS
+RANGE:               Month 37 → Month 48
+
+M37:                 PLAYER returns to the Hub. The black helm is placed 
+                     on a pedestal in the center of the base.
+M38:                 PLAYER begins repairing a massive satellite array 
+                     located 100 km from the base. Purpose: [ BLANK ].
+M39:                 Satellite array activated. A signal is broadcast 
+                     across the game world. Observers in our reality 
+                     record a matched "Pulse" in the Site-03 basement.
+M40:                 The "Script" begins to rewrite itself. Objects in the 
+                     Hub begin to move with "Theatrical Weight."
+M41:                 PLAYER identifies a group of "Glitched Humans"—
+                     translucent entities resembling A.C.T personnel. 
+                     PLAYER ignores them.
+M42:                 Construction of the "Primary Seal." PLAYER uses 
+                     liquid gold to bind Pale Wood structures.
+M43:                 PLAYER experiences a "Narrative Twist." A 
+                     previously "Dead" NPC manifests and attempts to 
+                     sabotage the Satellite Array. 
+M44:                 PLAYER neutralizes the NPC. The NPC's body 
+                     dissolves into [ REDACTED ].
+M45:                 PLAYER spends the entire month in "Meditation" 
+                     before the black helm.
+M46:                 A localized "Time-Loop" triggers around the Hub. 
+                     PLAYER repeats the same 24-hour cycle 18 times 
+                     before breaking the loop using [ BLANK ].
+M47:                 PLAYER begins the journey back to the Rift with a 
+                     "Final Payload."
+M48:                 Year Four concludes. PLAYER stands at the threshold 
+                     of the Aperture.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 004 — YEAR FIVE: THE FINAL SEAL
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-715/Y5-OBS
+RANGE:               Month 49 → Month 60
+
+M49:                 PLAYER re-enters the Rift. Target: The "Root 
+                     Singularity."
+M50:                 The "Galaxy Motive" is seen in the sky of the 
+                     simulation. A giant, sleeping female figure 
+                     manifests in the background (Approx. 1000 km).
+M51:                 PLAYER ignores the lunar entity. Focus remains on 
+                     the Rift’s core. 
+M52:                 First contact with the "Director" entity. A 
+                     dialogue box manifests (First in 5 years).
+                     DIRECTOR: "ARE YOU A HYPOCRITE TOO?"
+M53:                 PLAYER does not respond. Begins planting the 
+                     "Primary Seal" devices around the Aperture.
+M54:                 Bones Hound packs initiate a mass-assault. PLAYER 
+                     utilizes the "Feedbacker" protocol to parry 
+                     incoming attacks.
+M55:                 The "Blue Moon" and "Red Moon" manifest 
+                     simultaneously. Simulation stability drops to 44%.
+M56:                 PLAYER initiates the "End to ALL" sequence. 
+M57:                 The Rift begins to collapse. Causal static 
+                     overwhelms the video output for 72 hours.
+M58:                 Output restored. The Rift is closed. The Earth 
+                     remains barren, but the "leaks" have stopped.
+M59:                 PLAYER returns to the monument he built in Year 4. 
+                     He carves one final line into the stone: 
+                     "IT WAS ALL FOR THE BEST YOU SEE."
+M60:                 Year Five concludes. The PLAYER sits on a bench 
+                     overlooking the sunrise. The screen fades to black. 
+                     "GAME OVER" manifests in English. 
+
+[NOTE: 14 seconds later, the simulation restarted from Year 1, Month 1.]
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+The 5-year cycle of AFD-OB-715 provides a comprehensive causal map of 
+the eventual [ REDACTED ] event. The PLAYER’s success in closing the 
+Rift suggests that the apocalypse is a "Win-State" rather than a 
+failure.
+
+MANDATORY BRIEFING PHRASE:
+                     "The game plays itself so we don't have to."
+
+CURRENT DOSSIER STATUS: Open / New Cycle Monitoring Active
+
+END OF DOSSIER

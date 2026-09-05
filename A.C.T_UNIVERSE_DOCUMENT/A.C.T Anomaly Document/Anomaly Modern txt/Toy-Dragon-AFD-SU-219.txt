@@ -1,0 +1,176 @@
+A.C.T FACILITY — ANOMALY FILE
+Toy-Dragon-AFD-SU-219
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-219
+TITLE I:             Toy Dragon
+TITLE II:            THE POLYMER HATCHLING / THE PLASTIC APEX
+
+FIELD TYPE:          SU — Subject
+                     NB — Non-Natural Bio Hazard (Inorganic Sentience)
+
+CLEARANCE REQUIRED:  Level 2
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   INERT
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        1 (Minor Thermal Hazard)
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           STABILIZED
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   1945-12-05
+VERIFICATION DATE:   1950-12-12
+LOCATION:            Retail storage facility / [ REDACTED ], USA.
+DISCOVERY METHOD:    Report of a "Living Doll" consuming 
+                     employee rations / Automated thermal-leak detection.
+
+INITIAL RESPONSE
+OPERATION:           Plastic Scale
+RESPONDING UNIT:     ERE Recovery Team / Minor Artifact Desk
+RESPONDING FIELD
+OPERATOR:            [ REDACTED ]
+CIVILIAN EXPOSURE:   3 confirmed (Warehouse staff).
+AMNESTIC DEPLOYED:   Yes — Hypnotic Suggestion (Post-WWII Protocol).
+NARRATIVE STATUS:    The incident was suppressed as a staged hoax. 
+                     (Retroactive AFD conversion 1978)
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-219 is a sentient, 2-meter tall entity composed entirely of 
+high-density industrial polymer, resembling a large toy dragon. The 
+subject possesses four legs, a pair of functional wings, and two 
+prominent black horns on its head. 
+
+Despite its inorganic, plastic composition, the subject behaves as a 
+living biological organism. It possesses the cognitive development and 
+intellectual capacity of a three-year-old human child. It is 
+capable of basic emotional expression (joy, fear, curiosity) but lacks 
+speech, communicating instead through chirps, low rumbles, and 
+non-verbal gestures.
+
+BIOLOGICAL ANOMALIES:
+1. NUTRITION: The subject requires regular intake of water and food. 
+   It follows a carnivorous diet consistent with large monitor 
+   lizards, though it has demonstrated a specific preference for 
+   fruits with high fat content (e.g., avocados). 
+
+2. ZERO-WASTE METABOLISM: AFD-SU-219 has never been recorded 
+   producing biological waste of any kind. 100% of consumed matter 
+   is converted into structural maintenance for its plastic chassis.
+
+3. REGENERATIVE SHEDDING: The subject "sheds" its plastic scales if 
+   they are damaged, or on a natural cycle of every 1 to 3 months. 
+   These discarded scales are composed of standard polyethylene but 
+   possess an anomalous structural resilience until they are detached 
+   from the subject's "Body-Field."
+
+4. THERMAL BREATH: Subject does not breathe fire. Instead, it 
+   exhales a light purple gas that resembles a winded mist. This mist 
+   consists of heated air (max temp: 40°C). While not lethal, the 
+   mist is a byproduct of its internal thermal-regulation.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Inorganic Life. The subject is a plastic object that 
+                     possesses a functional, sentient metabolism.
+
+SECONDARY EFFECT:    Thermal Mist Exhalation. The subject produces 40°C 
+                     purple gas during respiration.
+
+TERTIARY EFFECT:     Scale Regeneration. Periodic shedding of "Toy-Grade" 
+                     but resilient plastic protective plating.
+
+TRIGGER CONDITION:   N/A (Persistent state).
+
+RANGE / AREA OF
+INFLUENCE:           Subject-bound / Localized thermal emission.
+
+TEMPORAL BEHAVIOR:   Constant / Subject to juvenile growth cycles.
+
+REALITY INTERACTION: Matter-to-Energy Efficiency (Zero Waste) / 
+                     Biological-Inorganic Hybridization.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-219 is housed in a "Juvenile Habitat" within the Subject Care 
+Wing at ACT-SITE-04-BR-C.
+
+1. HABITAT MAINTENANCE: The suite is to be kept at a base temperature 
+   of 24°C. The floor must be covered in **Refined Steel-Dirt (Item 42)** 
+   to provide a durable, non-abrasive surface for the subject's 
+   claws and tail.
+
+2. FEEDING LOGS: Subject is to be fed twice daily. Diet consists of 
+   high-protein lizard-meal and fat-rich fruits. All water provided 
+   must be filtered.
+
+3. ENRICHMENT: Due to its 3-year-old intellect, the subject requires 
+   toys and tactile enrichment to prevent "Boredom Breaches." 
+   Large rubber balls and non-anomalous plastic blocks are approved.
+
+4. SCALE COLLECTION: Discarded plastic scales must be collected 
+   during the 1-3 month shed cycles. These are to be archived as 
+   Non-Anomalous Refined Material (Polymer).
+
+CONTAINMENT SITE:        ACT-SITE-04-BR-C — Verde Null Bio-Reserve
+SITE TYPE:               Primary Site / Biological Enclosure
+JURISDICTIONAL
+AUTHORITY:               Verde Null Command / Subject Care Desk
+CONTAINING DIVISION:     Subject Care Division
+REQUIRED PERSONNEL:      1 Subject Care Handler, 1 Bio-Maintenance Tech.
+MONITORING FREQUENCY:    Daily (Welfare checks).
+MAINTENANCE CYCLE:       Weekly habitat cleaning.
+
+BREACH PROTOCOL:         The subject is non-hostile. If it leaves its suite, 
+                         utilize **Thermal-Lure Beacons (Item 15)** or 
+                         fatty-fruit lures to guide it back. It is 
+                         easily distracted by shiny objects.
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-219 is an example of "Material Substitution" in an anomaly. It 
+functions as a living creature but is constructed of the same matter 
+as a child’s toy. The "Zero-Waste" property is of particular interest 
+to the Transformation Division, as it represents a 100% efficient 
+conversion of matter into structural energy.
+
+The purple mist has been analyzed and contains trace amounts of 
+[ REDACTED ], providing a faint, pleasant scent often described by 
+staff as "new toy smell."
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+
+during their monitored "Reading Sessions." It appears to enjoy the 
+sound of her voice, often napping near the observation pane while 
+she reads.
+
+END OF FILE

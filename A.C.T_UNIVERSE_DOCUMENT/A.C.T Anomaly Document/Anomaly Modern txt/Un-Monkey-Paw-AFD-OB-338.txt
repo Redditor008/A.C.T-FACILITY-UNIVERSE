@@ -1,0 +1,189 @@
+A.C.T FACILITY — ANOMALY FILE
+Un-Monkey-Paw-AFD-OB-338
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-338
+TITLE I:             Un-Monkey Paw
+TITLE II:            THE MINOR IRONIST / THE REPETITIVE WISH-HITCH
+
+FIELD TYPE:          OB — Object
+                     RE — Reality-Event (Minor/Causal)
+
+CLEARANCE REQUIRED:  Level 2
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   INERT
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        1
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           CONTAINED-STUDY
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   1912-05-22
+VERIFICATION DATE:   1915-06-05
+LOCATION:            Antique boutique / New Orleans, Louisiana, USA.
+DISCOVERY METHOD:    Report of recurring "Minor Nuisance" coincidences 
+                     following the sale of a novelty artifact.
+
+INITIAL RESPONSE
+OPERATION:           Blue Locket
+RESPONDING UNIT:     Field Containment Division / Minor Artifact Desk
+RESPONDING FIELD
+OPERATOR:            [ REDACTED / ERE ERA ]
+CIVILIAN EXPOSURE:   3 confirmed (Amnesticized).
+AMNESTIC DEPLOYED:   Yes — Early Selective Forgetting.
+NARRATIVE STATUS:    The boutique owner was informed the object was a 
+                     dyed biological hazard and it was seized for 
+                     incineration.
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-338 is a mummified simian paw, approximately 12 cm in length. 
+The object is covered in coarse, vivid blue fur. Analysis of the fur 
+indicates no terrestrial dye; the pigmentation is integrated into the 
+biological structure of the organism. 
+
+The subject possesses reality-altering capabilities similar to the 
+classic "Monkey's Paw" folklore, but at a significantly reduced 
+magnitude and power envelope (estimated at 20% of the folk-narrative 
+potential). 
+
+WISH-GRANTING MECHANICS:
+1. THE WISH: When a sentient subject holds the paw and speaks a 
+   desire aloud, one of the paw's fingers will curl inward. The wish is 
+   then granted via a localized shift in the state of matter or a 
+   minor causal coincidence.
+
+2. THE IRONIC TAX: Every granted wish is accompanied by a "Minor Ironic 
+   Consequence." Unlike the catastrophic irony of the original legend 
+   (e.g., receiving money in exchange for a son's life), the irony of 
+   AFD-OB-338 is manageable, inconvenient, or petty in nature. 
+
+3. MONTHLY REGENERATION: Once all five fingers are curled, the object 
+   remains inert for the remainder of the calendar month. On the first 
+   day of the subsequent month, the fingers spontaneously "uncurl," 
+   allowing the object to be used again.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Limited Reality Alteration. The object can manipulate 
+                     small quantities of matter or influence immediate 
+                     local coincidences to fulfill a verbal request.
+
+SECONDARY EFFECT:    Minor Causal Backlash. The object generates a 
+                     "Hitch" in the outcome that ensures the wisher is 
+                     mildly dissatisfied or inconvenienced by the result.
+
+TERTIARY EFFECT:     Cyclic Reset. The subject resets its "charges" every 
+                     30 days.
+
+TRIGGER CONDITION:   Holding the object while speaking a desire with 
+                     intent.
+
+RANGE / AREA OF
+INFLUENCE:           Object-centric / 10m reality-warping radius.
+
+TEMPORAL BEHAVIOR:   Monthly cyclic reset.
+
+REALITY INTERACTION: Matter-State Transmutation / Probabilistic Irony.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-338 is to be stored in a standard vacuum-sealed artifact box 
+at ACT-SITE-01-US-W. 
+
+1. NO CASUAL SPEECH: Personnel handling the box or performing cleaning 
+   must wear noise-canceling headsets or maintain strict silence. The 
+   object has been known to interpret complaints (e.g., "I wish it 
+   wasn't so hot in here") as formal wishes.
+
+2. WISH LOGGING: All approved test-wishes must be submitted in writing 
+   to the Minor Artifact Desk for pre-approval. Only "Boring" or 
+   "Static" wishes are authorized to prevent narrative escalation.
+
+3. GOLD RESTRAINT: During the monthly "Uncurling" event, the paw must 
+   be monitored via remote camera to ensure no physical containment 
+   breach occurs during the limb's movement.
+
+CONTAINMENT SITE:        ACT-SITE-01-US-W — Redwood Veil Complex
+SITE TYPE:               Primary Site / Urban Artifact Containment
+JURISDICTIONAL
+AUTHORITY:               Redwood Veil Command / Minor Artifact Desk
+CONTAINING DIVISION:     Object Containment Division
+REQUIRED PERSONNEL:      1 Archivist.
+MONITORING FREQUENCY:    Monthly (During uncurling).
+MAINTENANCE CYCLE:       N/A.
+
+BREACH PROTOCOL:         If the object is used by unauthorized staff, 
+                         document the "Ironic Tax" immediately and 
+                         administer 004-G to the user. 
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-338 appears to be a "Diluted Legend." It follows the narrative 
+structure of high-threat artifacts but lacks the "Weight" to cause 
+significant damage. 
+
+Researchers have noted that the irony is almost "Tame." In one test, 
+a researcher wished for a cup of high-quality coffee. The paw 
+transmuted a beaker of water into the requested liquid, but the 
+coffee was served in a cup that was slightly too hot to hold for 
+three minutes. 
+
+The goal of ongoing research is to determine if the irony is truly 
+random or if it is tailored to the specific annoyances of the user.
+
+═══════════════════════════════════════════════════════════════════════
+                      TRANSFORMATION NOTES
+═══════════════════════════════════════════════════════════════════════
+
+CURRENT VIABILITY:       CONTAINED-STUDY
+
+TRANSFORMATION NOTES:
+Proposal to use the paw for "Minor Procurement" (e.g., manifesting 
+rare chemical reagents or small electronic components) is under 
+consideration. The Facility must weigh the value of the materials 
+against the inevitable "Petty Irony" that would accompany them (e.g., 
+the reagents arriving in an slightly leaky bottle).
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+The color of the fur (Blue) is unique among similar artifacts. 
+Spectroscopy shows the fur contains trace amounts of the same blue 
+pigment found in the "Blue Dirt" of the Dark World (AFD-PL-932). A 
+causal link is suspected but not confirmed.
+
+NOTE 002:
+O5-7 comment: 
+"Stop using the paw to wish for better office chairs. The chairs 
+always arrive with one squeaky wheel. It is not worth the paperwork."
+
+END OF FILE

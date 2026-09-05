@@ -1,0 +1,165 @@
+A.C.T FACILITY — EXPLORATION & SURVEY DOSSIER
+Dark-World-Door-Expedition-Log-AFD-PL-932
+
+═══════════════════════════════════════════════════════════════════════
+                A.C.T FACILITY — EXPLORATION & SURVEY
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-PL-932
+TITLE I:             Dark World Door
+TITLE II:            THE NIGHT-CYCLE DIMENSION
+
+FIELD TYPE:          PL — Place
+PRIMARY FILE:        Dark-World-Door-AFD-PL-932
+
+DOCUMENT CATEGORY:   CATEGORY V — Exploration & Survey Dossier
+CATEGORY FUNCTION:   First-contact topographical survey; Initial 
+                     exploration of the "Pale Woods" and "Red River" 
+                     environmental sectors.
+
+CLEARANCE REQUIRED:  Level 4 / White Grave Site Command
+
+CONTAINMENT SITE:    ACT-SITE-02-RU-N — White Grave Station
+ARCHIVE STATUS:      Active / Extradimensional Survey
+DOSSIER STATUS:      Open / Exploration Records Compiled
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier contains the audio-visual and sensory logs from 
+**Expedition Pale-01**, the first authorized manned mission through 
+the threshold of AFD-PL-932. The mission was conducted by Recovery 
+Team Gamma-9 using Level-A Hazmat suits and early **RSA (Item 01)** 
+stabilization tech.
+
+INCLUDED LOG TYPES:
+   - Expedition Log: Threshold Entry and "Blue Moon" Visibility
+   - Field Survey: The Pale Wood Structural Density
+   - Aquatic Analysis: The Red River Bank
+   - Biological Encounter: Bones Hound Pack Alpha
+   - After-Action Report: The "Blue Haze" Extraction
+
+═══════════════════════════════════════════════════════════════════════
+                SECTION 001 — THRESHOLD ENTRY
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-PL-932/EXP-01
+DATE:                1985-02-14
+LEAD OPERATOR:       Handler Pavel Sokolov
+TEAM:                Gamma-9 (Sokolov, Veyr, Novak)
+
+[00:00:00] — TEAM STANDBY. Vault airlock is cycled. Humidity at 0%. 
+              Sokolov utilizes a 24k gold key to disengage the Pale 
+              Wood latch.
+
+[00:00:14] — THE TRANSITION: Sokolov steps through. The camera feed 
+              experiences 2.4 seconds of chromatic aberration. 
+
+[00:00:17] — ARRIVAL: Team is standing on a plain of vivid "Blue Dirt." 
+              The sky is absolute black. A single **Blue Moon** is at 
+              zenith, providing a dim, ultraviolet-shifted 
+              illumination. 
+
+SOKOLOV (Comms):     "The air feels... heavy. My suit's pressure-alarm is 
+                      chirping. The ground looks like crushed lapis. 
+                      Novak, get the moisture-sensor out. If we spill a 
+                      drop of water, this whole sector turns to steel."
+
+[00:12:00] — FIRST STEP: Team begins walking toward a cluster of 
+              "Pale Woods" approx. 200m from the door. Every footstep 
+              emits a faint, metallic crunching sound.
+
+═══════════════════════════════════════════════════════════════════════
+                SECTION 002 — THE PALE WOOD SURVEY
+═══════════════════════════════════════════════════════════════════════
+
+[00:45:00] — Team reaches the forest edge. The trees are 12-15m tall, 
+              lacking bark. The trunks are smooth, pale, and cold.
+
+NOVAK (Field Note):  "I struck a branch with my tactical knife. No 
+                      vibration. It's like hitting a mountain. I used 
+                      the gold-plated probe Thorne gave us. The probe 
+                      went through the wood like it was butter. The sap 
+                      inside is clear and smells like ozone."
+
+[01:14:00] — OBSERVED FLORA: The "Red Grass" is found growing around 
+              the roots. It does not sway in the wind, as there is no 
+              detectable wind in this dimension. It feels like 
+              coarse copper wire.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 003 — THE RED RIVER BANK
+═══════════════════════════════════════════════════════════════════════
+
+[02:30:00] — Team arrives at the bank of the "Red River." The liquid is 
+              viscous and deep crimson. It emits a constant, low-
+              frequency hum.
+
+VEYR (Analysis):     "Acid sensors are pegged. It's roughly 20% HCl-
+                      equivalent but the molecular weight is all wrong. 
+                      I see 'Eel-Crabs' in the shallows. They have 
+                      humanoid ribcages for shells. This place is... 
+                      efficiently horrific."
+
+[02:44:00] — VISUAL: A single Eel-Crab crawls onto a Pale Wood root. 
+              The acid from its limbs causes a minor hiss as it 
+              touches the wood, but no damage occurs. 
+
+═══════════════════════════════════════════════════════════════════════
+                SECTION 004 — BIOLOGICAL ENCOUNTER
+═══════════════════════════════════════════════════════════════════════
+
+[03:12:00] — ALERT. Acoustic sensors record a high-pitched, rattling 
+              vibration from the tree-line. 
+
+SOKOLOV (Comms):     "Contacts. 3 o'clock. Move to a defensive triangle. 
+                      Shields up."
+
+[03:14:00] — VISUAL: Four **Bones Hounds** emerge from the Pale Woods. 
+              They move with a staggering, non-biological gait. Their 
+              "Shiny Blue Eyes" are fixed on the team's thermal 
+              signatures. 
+
+[03:15:00] — ENGAGEMENT: One Hound lunges at Novak. Novak activates 
+              the **Tactical Feedbacker Arm (Item 21)**. The impact 
+              vibration shatters the Hound's front limb-bone, but the 
+              entity does not vocalize pain. It simply re-orients 
+              using its tail.
+
+SOKOLOV (Comms):     "They're pack-hunting. They're trying to circle 
+                      us. Veyr, use the thermal-flare. Now!"
+
+[03:18:00] — Veyr deploys a high-intensity magnesium flare. The Hounds 
+              immediately recoil, shielding their ocular spheres. The 
+              heat appears to cause immediate "Cooking" of the flesh 
+              on their necks. The pack retreats into the shadows.
+
+═══════════════════════════════════════════════════════════════════════
+               SECTION 005 — EXTRACTION & AUDIT
+═══════════════════════════════════════════════════════════════════════
+
+[04:00:00] — Team returns to the threshold. Sokolov initiates the 
+              "Dry-Cleaning" protocol to ensure zero Blue Dirt residue.
+
+[04:12:00] — EXIT: Vault door closed and locked with gold key.
+
+ARCHIVIST'S NOTE:
+During the extraction, Novak's left boot showed a 2mm layer of 
+"Steel-Bloom." A single drop of sweat had leaked through his suit's 
+internal seal and touched a grain of Blue Dirt. The boot had to be 
+amputated via gold-shear to save the subject's foot from being 
+integrated into the hardening block.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+Expedition Pale-01 confirms that AFD-PL-932 is a gateway to a 
+resource-rich but lethally hostile environment. Future expeditions 
+must prioritize thermal weaponry and redundant moisture-scrubbing.
+
+CURRENT DOSSIER STATUS: Open / Next Survey Scheduled
+
+END OF DOSSIER

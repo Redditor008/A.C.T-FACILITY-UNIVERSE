@@ -1,0 +1,41 @@
+# Main Story Index
+## The Facility That Forgot Its First Lie
+
+### Archives
+- `Archives/The-Facility-That-Forgot-Its-First-Lie-Archive.md`
+- `Archives/The-Facility-That-Forgot-Its-First-Lie-Archive.txt`
+
+### Narrative
+- `Narrative/The-Facility-That-Forgot-Its-First-Lie-Narrative.md`
+- `Narrative/The-Facility-That-Forgot-Its-First-Lie-Narrative.txt`
+
+### Outlines
+- `Outlines/The-Facility-That-Forgot-Its-First-Lie-Chapter-Outline.md`
+- `Outlines/The-Facility-That-Forgot-Its-First-Lie-Chapter-Outline.txt`
+
+### Characters
+- `Characters/The-Facility-That-Forgot-Its-First-Lie-Character-Archive-Profiles.md`
+- `Characters/The-Facility-That-Forgot-Its-First-Lie-Character-Archive-Profiles.txt`
+
+### Chapters
+- `Chapters/Chapter-1-Correction-Order.md`
+- `Chapters/Chapter-1-Correction-Order.txt`
+- `Chapters/Chapter-2-Wounds-in-the-Archive.md`
+- `Chapters/Chapter-2-Wounds-in-the-Archive.txt`
+- `Chapters/Chapter-3-The-004-Irregularity.md`
+- `Chapters/Chapter-3-The-004-Irregularity.txt`
+- `Chapters/Chapter-4-The-Bloom-Before-the-Bloom.md`
+- `Chapters/Chapter-4-The-Bloom-Before-the-Bloom.txt`
+- `Chapters/Chapter-5-Entity-Research-Exploration.md`
+- `Chapters/Chapter-5-Entity-Research-Exploration.txt`
+- `Chapters/Chapter-6-The-Sleeping-Foundation.md`
+- `Chapters/Chapter-6-The-Sleeping-Foundation.txt`
+- `Chapters/Chapter-7-The-Founders-Silence.md`
+
+### Current Progress
+The main story currently has:
+- archive concept file
+- full narrative summary
+- chapter outline
+- character archive profiles
+- Chapter 1 through Chapter 7 prose, with Chapter 1 through Chapter 6 also available in .txt

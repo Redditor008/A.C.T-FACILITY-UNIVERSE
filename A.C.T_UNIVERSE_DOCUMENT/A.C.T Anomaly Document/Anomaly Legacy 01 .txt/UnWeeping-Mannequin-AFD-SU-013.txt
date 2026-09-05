@@ -1,0 +1,293 @@
+A.C.T FACILITY — ANOMALY FILE
+UnWeeping-Mannequin-AFD-SU-013
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-013
+TITLE I:             UnWeeping Mannequin
+TITLE II:            THE WOMAN WHO MOVES WHEN SEEN
+
+FIELD TYPE:          SU — Subject
+                     Observation-reactive humanoid mannequin entity
+
+CLEARANCE REQUIRED:  Level 2
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         SCHRÖDINGER
+
+THREAT LEVEL:        2
+
+FRACTURE INDEX —
+SUB-THREAT:          HARMLESS
+
+TRANSFORMATION
+VIABILITY:           NEUTRAL
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   2014-03-06
+VERIFICATION DATE:   2014-03-09
+LOCATION:            Closed department store / Lyon, France
+DISCOVERY METHOD:    Security footage contradiction / staff assault report /
+                     repeated mannequin relocation complaints
+
+INITIAL RESPONSE
+OPERATION:           Backward Glance Intake
+RESPONDING UNIT:     Field Containment Division / Humanoid Subject Review
+RESPONDING FIELD
+OPERATOR:            Agent Corinne Duval
+CIVILIAN EXPOSURE:   12 suspected / 4 confirmed minor injuries
+AMNESTIC DEPLOYED:   Limited
+NARRATIVE STATUS:    Controlled as trespassing incident, costume prank, and
+                     faulty security footage
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-013 is a humanoid mannequin entity resembling a female dress mannequin.
+The subject measures 172 cm in height and appears to be constructed from matte
+white composite material with articulated limbs, a narrow torso, and a smooth
+featureless face. No eyes, nose, mouth, ears, or facial markings are present.
+Despite this absence of facial anatomy, AFD-SU-013 possesses human-like dark
+hair extending to the upper back. The hair is rooted into the scalp surface and
+regrows if cut.
+
+AFD-SU-013 is typically dressed in women's formal clothing. Its outfit changes
+only when clothing is provided within its chamber and personnel directly watch
+the subject for a continuous period. If clothing is left inside the chamber
+without observation, AFD-SU-013 does not change. If personnel observe the
+subject and then look away, no movement occurs until direct observation resumes.
+
+AFD-SU-013 displays an inverted observation response. Unlike conventional
+observation-paralysis anomalies, AFD-SU-013 only moves while being looked at.
+When no living observer is directly viewing it, the subject becomes completely
+motionless. Motion resumes the moment a living observer visually registers the
+entity again. Camera systems do not trigger movement unless a living person is
+watching the live feed in real time.
+
+The subject's usual nature is gentle, quiet, and non-hostile, though its
+behavior is unpredictable. Under ordinary short observation, AFD-SU-013 may
+wave, adjust clothing, arrange nearby objects, point toward doors, copy posture,
+or slowly approach personnel without aggression. It appears socially curious but
+lacks a readable face, making intention difficult to interpret.
+
+If a person stares directly at AFD-SU-013 for more than five continuous minutes,
+the subject enters an embarrassment-agitation state. In this state, AFD-SU-013
+covers or tilts its blank face, turns its shoulders inward, then begins chasing
+the person who stared at it. The subject will pursue the starer until physical
+contact is achieved or until line-of-sight is broken for more than ten minutes.
+
+When AFD-SU-013 reaches the starer, it punches the target repeatedly until it
+appears satisfied. The subject's strength is equivalent to that of a normal
+adult human female of comparable height and build. Injuries are usually limited
+to bruising, minor cuts, nosebleeds, and falls caused by panic. No confirmed
+fatalities have occurred.
+
+After the punching episode, AFD-SU-013 usually straightens its clothing, places
+one hand over its blank face, and retreats to a corner or display position. The
+entity does not continue pursuit after satisfaction is reached unless stared at
+again for another five-minute period.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Observation-enabled motion. AFD-SU-013 moves only while a
+                     living observer is looking at it directly or watching a
+                     live visual feed in real time.
+
+SECONDARY EFFECT:    Non-observed immobilization. When no living observer is
+                     viewing the subject, AFD-SU-013 becomes static and cannot
+                     be recorded moving by unattended cameras.
+
+TERTIARY EFFECT:     Five-minute embarrassment aggression. Continuous direct
+                     staring for more than five minutes causes the subject to
+                     become agitated, chase the starer, and punch them until
+                     satisfied.
+
+TRIGGER CONDITION:   Living observation permits movement. Prolonged staring for
+                     more than five continuous minutes triggers pursuit and
+                     punching behavior.
+
+RANGE / AREA OF
+INFLUENCE:           Subject-bound / pursuit range limited by line of sight,
+                     physical barriers, and normal human-equivalent speed.
+
+TEMPORAL BEHAVIOR:   Constant observation-reactive state / intermittent
+                     embarrassment-agitation episodes.
+
+REALITY INTERACTION: Observation Logic Inversion / Humanoid Object Animation /
+                     Live-Observer Dependency.
+
+OBSERVED BEHAVIORS:
+   - waving at personnel during short observation
+   - adjusting dresses, sleeves, collars, and hair
+   - copying human posture after a delay of 3 to 9 seconds
+   - standing in display poses when unobserved
+   - hiding its blank face after prolonged staring
+   - chasing only the person who stared too long
+   - striking with closed fists until the subject appears emotionally satisfied
+   - returning to nonviolent behavior after the episode ends
+
+KNOWN NON-TRIGGERS:
+   - unattended cameras
+   - pre-recorded video playback
+   - photographs
+   - mirrors without a living observer viewing the reflection
+   - audio monitoring
+   - blind personnel in the room
+   - brief glances under five minutes
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-013 is contained in a furnished humanoid-object display chamber with
+soft flooring, rounded furniture, reinforced glass observation panels, and no
+sharp loose objects. The chamber is to be decorated as a fitting-room or display
+space to reduce agitation. Approved clothing may be provided as enrichment.
+
+Personnel are not to stare at AFD-SU-013 for more than four continuous minutes.
+All observation must be performed in timed shifts using a visible countdown
+clock. Observers must look away, close the viewing shutter, or transfer visual
+contact to another approved observer before the four-minute warning expires.
+
+At least one live observer must be present during any planned movement of
+AFD-SU-013. If staff require the subject to remain immobile, all direct and live
+visual observation must cease after the chamber has been secured. Unattended
+camera recording may continue for archival purposes but will not capture subject
+movement unless monitored live.
+
+Containment staff are not to tease, challenge, or deliberately embarrass
+AFD-SU-013. Personnel are specifically forbidden from conducting staring
+contests, fashion criticism tests, or repeated five-minute trigger trials.
+Incident 013-D demonstrated that the subject can remember repeat offenders.
+
+If AFD-SU-013 enters pursuit state, the targeted person must break line of sight
+and exit through the nearest soft-lock corridor. Other personnel must not stare
+at the subject while attempting intervention. Barriers and door closure are
+preferred over physical restraint.
+
+CONTAINMENT SITE:        ACT-SITE-01-US-W — Redwood Veil Complex
+SITE TYPE:               Primary Site / Low-to-mid threat humanoid object
+                         containment
+JURISDICTIONAL
+AUTHORITY:               Humanoid Subject Review / Central Archive Administration
+CONTAINING DIVISION:     Subject Containment Division / Object Behavior Desk
+REQUIRED PERSONNEL:      2 observation handlers, 1 security officer on standby,
+                         1 medical technician during tests
+MONITORING FREQUENCY:    Live timed observation twice daily / passive recording
+                         continuous
+MAINTENANCE CYCLE:       Weekly chamber inspection / monthly clothing rotation
+
+BREACH PROTOCOL:         Close visual shutters if safe to do so. If the subject
+                         is pursuing a starer, remove the targeted person from
+                         line of sight and allow AFD-SU-013 to lose visual
+                         confirmation. Do not form a crowd around the subject.
+                         Do not shout instructions requiring personnel to look
+                         at it. Once static, secure room and reset observation
+                         timers.
+
+BREACH CONDITIONS —
+THIS ANOMALY IS CONSIDERED
+IN BREACH IF IT:
+   [x] Breaks formal containment
+   [x] Endangers public normalcy
+   [ ] Causes distortion in reality, Earth, time, or cosmic law
+   [ ] Spreads memetic, informational, or biological contamination
+   [ ] Resists classification and escalates beyond predicted behavior
+   [ ] Transforms its environment into an anomalous zone
+   [x] Other: Subject enters embarrassment-agitation state outside approved
+              test conditions or pursues personnel beyond containment chamber
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-013 is classified as a subject due to persistent personality-like
+behavior, preference, recognition, and direct response to social attention. It
+is not confirmed sapient. The subject does not speak, write, or communicate
+complex information, but its embarrassment response implies some awareness of
+being watched as a social condition rather than a purely optical trigger.
+
+The five-minute threshold is precise but not perfectly mechanical. If the
+observer blinks naturally, the countdown continues. If the observer looks away
+for more than three seconds, the countdown appears to reset. Viewing through
+live video also counts, though the threshold extends slightly, averaging five
+minutes and eighteen seconds before agitation.
+
+The subject's aggression remains limited. It does not use weapons, aim for
+lethal areas, or continue striking unconscious targets. It punches until a
+subjective satisfaction condition is met, then disengages. This behavior is
+currently interpreted as punitive embarrassment response rather than predation.
+
+Testing confirms that AFD-SU-013 cannot move in a room occupied only by blind
+personnel unless a sighted observer watches through a live feed. However, blind
+personnel should not be used as sole containment staff, as the subject may
+become mobile when any sighted person enters visual range.
+
+The SCHRÖDINGER containment fracture reflects the paradox that observation is
+required to make the subject move for study or relocation, while observation is
+also the condition that creates hazard.
+
+═══════════════════════════════════════════════════════════════════════
+                      TRANSFORMATION NOTES
+═══════════════════════════════════════════════════════════════════════
+
+TRANSFORMATION ATTEMPT
+STATUS:              Not recommended
+
+TRANSFORMATION NOTES:
+AFD-SU-013 has no approved transformation pathway. Potential use as a training
+example for observation-dependent anomalies has been approved in limited form,
+but the subject is not to be used for intimidation, punishment, or live-response
+security drills.
+
+Behavioral stabilization through respectful short-duration interaction has
+reduced pursuit incidents. Providing clothing options and allowing the subject
+to adjust its attire under timed observation appears to lower agitation during
+routine checks.
+
+No attempt is to be made to remove the subject's hair, face covering, or attire
+for cosmetic study. Prior cutting of hair caused no injury but resulted in the
+subject staring at the responsible technician for four minutes and fifty-nine
+seconds during the next observation cycle.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+AFD-SU-013 is not dangerous when glanced at. It becomes dangerous when stared at
+rudely, carelessly, or experimentally for too long. Training should emphasize
+polite observation discipline rather than panic.
+
+NOTE 002:
+During Incident 013-B, a civilian security guard attempted to prove the subject
+was a prank by staring at it without blinking. At five minutes and four seconds,
+AFD-SU-013 covered its blank face with both hands, ran across the store display
+floor, and punched the guard eleven times in the shoulder and chest. The guard
+survived with bruising and significant embarrassment.
+
+NOTE 003:
+The entity appears to prefer dresses with sleeves. Sleeveless garments are moved
+to the corner of the chamber and ignored.
+
+NOTE 004:
+A sign has been placed outside the observation room reading: DO NOT STARE AT
+THE MANNEQUIN FOR FIVE MINUTES. This sign is not a joke. Personnel have been
+reminded of this after three separate violations.
+
+END OF FILE

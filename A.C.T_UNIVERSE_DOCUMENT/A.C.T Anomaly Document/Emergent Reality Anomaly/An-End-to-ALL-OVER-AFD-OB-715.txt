@@ -1,0 +1,172 @@
+A.C.T FACILITY — ANOMALY FILE
+An-End-to-ALL-OVER-AFD-OB-715
+
+═══════════════════════════════════════════════════════════════════════
+     A.C.T FACILITY — ANOMALY FILE
+     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:   AFD-OB-715
+TITLE I:    An End to ALL… OVER
+TITLE II:   THE TERMINAL SURVIVOR / THE SELF-PLAYING APOCALYPSE
+
+FIELD TYPE:   OB — Object
+      PL — Place (Extradimensional Projection)
+
+CLEARANCE REQUIRED: Level 4 / Narrative Hazard Desk
+
+═══════════════════════════════════════════════════════════════════════
+       CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS: REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:   MUTATED
+
+THREAT LEVEL:  4
+
+FRACTURE INDEX —
+SUB-THREAT:   NONE
+
+TRANSFORMATION
+VIABILITY:   INVIOLABLE
+
+═══════════════════════════════════════════════════════════════════════
+       DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION: 2020-03-12
+VERIFICATION DATE: 2020-03-25
+LOCATION:   [ REDACTED ] Satellite Ground Station / Svalbard
+DISCOVERY METHOD: Signal intercept from a decommissioned deep-space 
+      array. The hardware was found to be outputting a 
+      high-density data stream originating from a 
+      single, physical disk.
+
+INITIAL RESPONSE
+OPERATION:   Final Save
+RESPONDING UNIT:  Technical Recovery Team / Narrative Hazard Desk
+RESPONDING FIELD
+OPERATOR:   Technician Alice Morgan
+CIVILIAN EXPOSURE: Zero.
+AMNESTIC DEPLOYED: N/A.
+NARRATIVE STATUS: The disk is held at a secure technical facility.
+
+═══════════════════════════════════════════════════════════════════════
+       DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-715 is a circular storage medium of indestructible composition, 
+bearing the handwritten title "An End to ALL… OVER." The disk resists 
+all known forms of physical, thermal, and chemical destruction. When 
+inserted into a compatible drive, it launches an autonomous survival-
+sandbox simulation that appears to be a 1:1 projection of a future 
+causal state.
+
+THE SIMULATION:
+1. THE SURVIVOR: The game depicts a single humanoid subject, 
+ historically known as the "PLAYER." Biological analysis of the 
+ on-screen entity suggests a state of "Static Immortality." The 
+ PLAYER is the only sentient biological human remaining in the 
+ projected reality.
+
+2. THE WORLD: The setting consists of two connected dimensions:
+ - DESTROYED EARTH: A barren, post-apocalyptic version of our planet 
+  set in an omitted future date. The environment is physically 
+  shattered, with massive tectonic fractures and zero non-anomalous 
+  biosphere.
+ - [ REDACTED ] DIMENSION: A hostile, extra-universal space 
+  accessible through a permanent rift on the Earth's surface.
+
+3. SELF-PLAY PHENOMENON: The game is non-interactable. No peripheral 
+ input (keyboard, controller, or neural-link) can influence the 
+ actions of the PLAYER. The simulation plays itself out in real-time. 
+ The PLAYER is observed gathering resources, repairing damaged 
+ planetary infrastructure, and attempting to "Fix" the Earth while 
+ working to close the portal to the [ REDACTED ] dimension.
+
+4. NARRATIVE WEIGHT: Current theory suggests this is not a game, but 
+ a "Terminal Window"—a live feed of our reality's eventual outcome.
+
+═══════════════════════════════════════════════════════════════════════
+      ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:  Autonomous Temporal Projection. The subject 
+      visualizes a future timeline that persists 
+      independently of current causal actions.
+
+SECONDARY EFFECT: Indestructibility. The physical medium (the disk) 
+      cannot be damaged or altered.
+
+TERTIARY EFFECT:  Input Immunity. The simulation actively rejects all 
+      attempts at external control or modification.
+
+TRIGGER CONDITION: Hardware initialization / Playback.
+
+RANGE / AREA OF
+INFLUENCE:   Object-bound / Visual.
+
+TEMPORAL BEHAVIOR: Real-time progression (Self-Playing).
+
+REALITY INTERACTION: Causal-Projection / Informational Loop.
+
+═══════════════════════════════════════════════════════════════════════
+      CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-715 is contained in an air-gapped terminal at Site-Sub-03.
+
+1. CONTINUOUS MONITORING: The simulation is to be displayed on a 
+ dedicated monitor 24/7. Any significant "Achievement" or 
+ "Level-Up" in the PLAYER's behavior must be logged by the 
+ Narrative Hazard Desk.
+
+2. INPUT ISOLATION: No controllers, networks, or data-bridges are 
+ to be connected to the playback terminal. We must not attempt to 
+ "Play" the game. 
+
+3. ARCHIVAL CAUTION: If the PLAYER in the game successfully "Fixes" 
+ an infrastructure point that exists in the current timeline, the 
+ corresponding real-world location is to be placed under 
+ immediate structural observation.
+
+CONTAINMENT SITE:  Site-Sub-03-UK-E
+SITE TYPE:    Sub-Site / Future-Artifact Containment
+JURISDICTIONAL
+AUTHORITY:    Narrative Hazard Desk / Technical Review Desk
+CONTAINING DIVISION:  Intelligence Division
+REQUIRED PERSONNEL:  1 Future-Systems Technician, 2 Narrative Observers.
+MONITORING FREQUENCY: Continuous.
+MAINTENANCE CYCLE:  N/A.
+
+BREACH PROTOCOL:   If the PLAYER makes eye-contact with the screen 
+       (The "Gamer" Event), terminate power to the 
+       terminal immediately.
+
+═══════════════════════════════════════════════════════════════════════
+       RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-715 is believed to be a "Causal Finality." The PLAYER is 
+performing the work that A.C.T has not yet begun. 
+
+The [ REDACTED ] dimension shown in the game bears a similarity to 
+other explored hazardous thresholds. It is possible that this 
+projection is the result of a total containment failure of an 
+unidentified rift.
+
+═══════════════════════════════════════════════════════════════════════
+       ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+In early 2024, the PLAYER was observed constructing a crude 
+monument. Using high-resolution zoom, technicians identified the 
+monument as a stylized depiction of [ REDACTED ]. 
+
+NOTE 002:
+[STRUCTURAL DATA OMITTED]
+
+END OF FILE

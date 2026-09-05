@@ -1,0 +1,133 @@
+A.C.T FACILITY — EXPLORATION & SURVEY DOSSIER
+Infinity-Train-Carriage-412-Survey-AFD-SP-890
+
+═══════════════════════════════════════════════════════════════════════
+                A.C.T FACILITY — EXPLORATION & SURVEY
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SP-890
+TITLE I:             Infinity Train
+TITLE II:            THE VOID-TRACK SINGULARITY
+
+FIELD TYPE:          SP — Space
+PRIMARY FILE:        Infinity-Train-AFD-SP-890
+
+DOCUMENT CATEGORY:   CATEGORY V — Exploration & Survey Dossier
+CATEGORY FUNCTION:   In-depth reconnaissance of a specific "Rare" 
+                     carriage manifestation; mapping of 
+                     non-Euclidean storage environments.
+
+CLEARANCE REQUIRED:  Level 4 / Narrative Hazard Desk
+
+CONTAINMENT SITE:    Site-Sub-[REDACTED]-UK-W
+ARCHIVE STATUS:      Active / Temporal Mapping
+DOSSIER STATUS:      Open / Exploration Records Compiled
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier contains the logs from **Exploration Mission Iron-12**, 
+conducted by E-Class Subject E-890-14. Unlike previous missions, 
+this expedition utilized a **Digital Resonance Sensor (Item 10)** to 
+track the train’s internal "Echoes" as the subject moved through 
+increasingly complex carriages.
+
+INCLUDED LOG TYPES:
+   - Expedition Log: The "Infinite Storage" Node
+   - The Discovery of Carriage 412
+   - Narrative Resonance: The Thorne Hypothesis
+   - Extraction Data: Station Delta-Zero
+   - Dossier Closing Statement
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 001 — THE INFINITE STORAGE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SP-890/SRV-042
+DATE:                2024-03-20
+SUBJECT:             E-Class E-890-14 (Fitted with head-mounted QNB)
+
+[00:00:00] — ENTRY: Subject enters the train. Door closes. Wall 
+              materializes. 
+[04:30:00] — TRANSIT: Subject has moved through 12 "Normal Seated" 
+              carriages. He enters a **Storage Carriage** of 
+              unusual length.
+
+E-890-14 (Audio):    "This one isn't just a car. It's a hallway. I’ve 
+                      been walking for twenty minutes and I haven't hit 
+                       the far door yet. The walls are lined with 
+                      crates. They all have the A.C.T logo on them. Some 
+                      of them are bleeding."
+
+[04:55:00] — OBSERVATION: Subject identifies a crate labeled **AFD-SU-
+              005 (Anny)**. The crate is empty, but it smells of 
+              old paper and "new toy smell." 
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 002 — CARRIAGE 412
+═══════════════════════════════════════════════════════════════════════
+
+[12:12:00] — THE RARE EVENT: Subject enters a carriage designated 
+              internally as **Carriage 412**. 
+
+VISUAL DATA:
+The interior is an exact 1:1 replica of **Dr. Aris Thorne’s** office 
+at Site-02. 
+   - Desk: 1990s-era steel.
+   - Files: Thousands of physical folders.
+   - Windows: Do not show the office walls; they show the **Void**.
+
+E-890-14 (Audio):    "I found a desk. There's a coat hanging on the 
+                      chair. A white lab coat. It looks old. There's a 
+                      note on the blotter. It says... 'You're late, 
+                      04.' Who is 04? My number is 14."
+
+═══════════════════════════════════════════════════════════════════════
+                SECTION 003 — NARRATIVE RESONANCE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SP-890/THORNE-ANALYSIS
+AUTHOR:              Aris Thorne (SR-412)
+
+"I reviewed the footage from E-890-14. The replica of my office was 
+perfect, down to the stain on the third drawer. This confirms that 
+the Infinity Train is not just 'Stretched Space.' It is an **Active 
+Narrative Archive.**
+
+It is reading the minds of the personnel outside the spur and 
+projecting their memories into its carriages. It is trying to build 
+a 'Bridge' to us. It used my name and my office because I am the one 
+currently watching it. It is a mirror that moves."
+
+═══════════════════════════════════════════════════════════════════════
+               SECTION 004 — EXTRACTION (STATION D-0)
+═══════════════════════════════════════════════════════════════════════
+
+[24:00:00] — The train halts. The door in Carriage 412 opens.
+
+VISUAL:
+The subject looks out. He sees a station consisting only of a 
+floating neon sign. The sign reads: **"RECOVERY."**
+
+E-890-14 (Audio):    "The sign... it's purple. The same color as my 
+                      eyes when I'm scared. Should I go?"
+
+DISPATCHER (Comms):  "Step out, 14. We have the **RSA (Item 01)** 
+                      synced to your signal. Cross the threshold now."
+
+[24:01:14] — Subject crosses. He manifests in the Site-Sub-UK-W 
+              recovery bay. 
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+MANDATORY PERSONNEL NOTICE:
+                     The train knows your name. 
+                     Do not answer if it calls.
+
+CURRENT DOSSIER STATUS: Open / Narrative Resonance Testing Active
+
+END OF DOSSIER

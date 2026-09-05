@@ -1,0 +1,160 @@
+A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
+Soul-Pendant-Personnel-Status-Dossier-AFD-OB-412
+
+═══════════════════════════════════════════════════════════════════════
+             A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-412
+TITLE I:             Soul Pendant
+TITLE II:            RE-INTERFACED SUBJECT: DR. ARIS THORNE
+
+FIELD TYPE:          OB — Object / SU — Subject (Integrated)
+PRIMARY FILE:        Soul-Pendant-AFD-OB-412
+
+DOCUMENT CATEGORY:   CATEGORY VIII — Behavioral & Observation Dossier
+CATEGORY FUNCTION:   Post-awakening personnel longitudinal study; 
+                     Biological-stasis maintenance review (2001-2020).
+
+CLEARANCE REQUIRED:  Level 4 / White Grave Site Command
+
+CONTAINMENT SITE:    ACT-SITE-02-RU-N — White Grave Station
+ARCHIVE STATUS:      Active / Personnel Asset
+DOSSIER STATUS:      Open / 19-Year Post-Awakening Record
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier tracks the professional reintegration and stability of 
+Senior Researcher Aris Thorne following his "Awakening" in 2001. 
+
+Due to the continuous regenerative loop of AFD-OB-412, Dr. Thorne remains 
+biologically frozen at age 26, while his chronological age as of 2020 
+has reached 110 years. This log serves as the definitive record of his 
+operational utility and long-term psychological alignment.
+
+INCLUDED LOG TYPES:
+   - Re-Interface Phase (2001-2002)
+   - Institutional Friction & Social Correction (2005-2010)
+   - High-Intensity Research Deployment (2011-2018)
+   - The 110-Year Biological Review (2020)
+   - Dossier Closing Statement
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 001 — THE RE-INTERFACE PHASE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-412/PER-2001
+DATE RANGE:          2001-01-01 → 2001-12-31
+
+M01-M02:             Subject achieved full motor-control re-sync. Dr. Thorne 
+                     successfully moved his physical fingers for the 
+                     first time since 1992. He describes the sensation 
+                     as "waking up from a dream made of glass." 
+
+M03-M04:             Psychological audit confirmed. Thorne retains all 
+                     previous A.C.T research data. He began reviewing 
+                     the files of the anomalies he was studying before the 
+                     incident. Physical state remains optimal (Age: 26).
+
+M05-M06:             Dr. Thorne requested to return to active duty. O5-1 
+                     approved "Consultant Status" under strict observation. 
+                     The pendant is now worn as a permanent fixture 
+                     within a reinforced, double-locked chest harness.
+
+M11-M12:             First field-test. Thorne was tasked with identifying 
+                     luminous artifacts at Site-01. His efficiency is 
+                     rated at 98%. He does not require sleep, though he 
+                     mimics it for social comfort.
+
+═══════════════════════════════════════════════════════════════════════
+               SECTION 002 — FRICTION & SOCIAL CORRECTION
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-412/PER-2005
+DATE RANGE:          2005-01-01 → 2005-12-31
+
+M01-M02:             Social friction log. New junior researchers are 
+                     uncomfortable receiving orders from an individual who 
+                     appears younger than them but possesses 80 years 
+                     of seniority. Thorne’s tone is reported as 
+                     "excessively clinical."
+
+M03-M04:             Thorne began wearing a 1990s-era lab coat as a 
+                     symbolic identifier of his true seniority. He 
+                     refused modern upgrades to his office, preferring 
+                     analog record-keeping.
+
+M09-M10:             Stability Review: Thorne remains 100% focused on his 
+                     work. He has shown zero interest in external 
+                     civilian life or personal relationships. He stated: 
+                     "My heart is a crystal; it doesn't have room for 
+                     anything else."
+
+═══════════════════════════════════════════════════════════════════════
+             SECTION 003 — HIGH-INTENSITY RESEARCH DEPLOYMENT
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-412/PER-2012
+DATE RANGE:          2012-01-01 → 2012-12-31
+
+M01-M02:             Thorne assigned to the **Gems of Change (AFD-OB-612)** 
+                     recovery task force. His immunity to standard 
+                     biological fatigue allowed for a 72-hour continuous 
+                     archival sweep.
+
+M05-M06:             Thorne provided a breakthrough in "Causal-Pulse" 
+                     detection. He claims he can "hear" the resonance of 
+                     other artifacts through the pendant. This has 
+                     improved discovery accuracy by 12%.
+
+M11-M12:             Internal medical scan. Biological age remains 26. 
+                     No cellular errors. Thorne’s blood, when removed 
+                     from his body, remains fresh for 18 days without 
+                     refrigeration, provided it stays within 2m of the 
+                     pendant.
+
+═══════════════════════════════════════════════════════════════════════
+               SECTION 004 — THE 110-YEAR BIOLOGICAL REVIEW
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-412/PER-2020
+DATE RANGE:          2020-01-01 → 2020-12-31
+
+M01-M02:             Dr. Thorne reached the chronological age of 110. 
+                     Site-02 staff held a private (monitored) 
+                     commemoration. Thorne’s physical appearance remains 
+                     that of a 26-year-old male. 
+
+M03-M04:             Stability check during a minor containment breach. 
+                     While other staff showed signs of panic, Thorne's 
+                     heart rate remained a perfect, rhythmic 60 BPM. 
+                     The pendant's glow did not fluctuate.
+
+M05-M06:             Thorne requested access to the "Black Ledger" 
+                     research. Request forwarded to O5-1. Thorne argues 
+                     that as an "Unwilling Immortal," he is the best 
+                     candidate to study the "Static Condition."
+
+M11-M12:             Final 2020 Summary: Subject is exceptionally stable. 
+                     He is now the lead researcher for the "Artifact 
+                     Awakening" project. He has successfully integrated 
+                     his trauma into his professional identity.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+The 19-year history of Dr. Aris Thorne post-awakening demonstrates the 
+Facility’s ability to "Transform" a tragedy into a high-level asset. 
+Thorne is no longer a victim of the Soul Pendant; he is its master. 
+
+MANDATORY BRIEFING PHRASE:
+                     "Age is an archive. 
+                      Flesh is just the binding."
+
+CURRENT DOSSIER STATUS: Open / Ongoing Operational Audit
+
+END OF DOSSIER

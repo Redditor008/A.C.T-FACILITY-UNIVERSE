@@ -1,0 +1,191 @@
+A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
+The-Unfiled-Registry-The-Black-Ledger-of-the-Five-LEGACY
+
+═══════════════════════════════════════════════════════════════════════
+              A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         [ ABYSS ACCESS ONLY ]
+TITLE I:             The Unfiled Registry
+TITLE II:            THE BLACK LEDGER OF THE FIVE
+
+FIELD TYPE:          Multiple / Unclassified
+PRIMARY FILES:       [ O5-RESTRICTED ]
+
+DOCUMENT CATEGORY:   CATEGORY VI — Research & Analysis Dossier
+CATEGORY FUNCTION:   Inventory of ENTITY-class discoveries not 
+                     transferred to modern ACT Official Designation.
+
+CLEARANCE REQUIRED:  [ O5-ONLY ] / [ Level 4-5 Lock ]
+
+CONTAINMENT SITE:    [STRUCTURAL DATA OMITTED]
+ARCHIVE STATUS:      Active / Non-Doctrinal
+DOSSIER STATUS:      Open / Founders' Private Ledger
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category VI — Research & Analysis Dossier. 
+It preserves the "Black Ledger"—a comprehensive list of anomalies captured 
+or observed by the Founders (1598–1888) that were deemed too sensitive, 
+too personal, or too [ INFO-HAZARD ] to be integrated into the 
+standardized ACT numbering system.
+
+The knowledge within this list is restricted to the Five Hands. Any 
+unauthorized viewing will result in immediate 004-A administration 
+followed by [ REDACTED ].
+
+INCLUDED LOG TYPES:
+   - The Root Registry (ENTITY-001 through ENTITY-999)
+   - Summary of the Unbound (Non-contained entities)
+   - The Cure Trials (Failed biological experiments)
+   - [STRUCTURAL DATA OMITTED]
+   - Dossier Closing Statement
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 001 — THE ROOT REGISTRY (EXTRACT)
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              ENTITY-LIST/BLK-001
+AUTHOR:              The First Hand
+STATUS:              [ O5-ONLY ]
+
+The following entities exist in the Deep Archive. They do not have AFD 
+numbers. They do not have containment staff. They are held by us.
+
+------------------------------------------------------------------------
+ENTITY-001:          The [ BLANK ] Anchor
+------------------------------------------------------------------------
+SUMMARY:             Located at the site of the 1598 incident. It is a 
+                     [STRUCTURAL DATA OMITTED] emitting a continuous 
+                     [ INFO-HAZARD ] pulse. It is the source of the 
+                     [ REDACTED ] condition in the Five. 
+CURRENT STATUS:      In-Place / [ BLANK ]
+
+------------------------------------------------------------------------
+ENTITY-019:          The Bleeding Tapestry
+------------------------------------------------------------------------
+SUMMARY:             Recovered in 1642 from [ REDACTED ]. A textile 
+                     object that depicts the [ BLANK ] of every 
+                     Facility Administrator. The final panel is currently 
+                     [ REDACTED ]. 
+CURRENT STATUS:      First Vault / Sealed in [STRUCTURAL DATA OMITTED]
+
+------------------------------------------------------------------------
+ENTITY-084:          The "Unaltered" Infant
+------------------------------------------------------------------------
+SUMMARY:             A biological humanoid recovered in 1704. Despite 
+                     being 320 years old, the subject remains in a state 
+                     of [ BLANK ]. Blood analysis confirms [ REDACTED ]. 
+                     Subject was used in the [STRUCTURAL DATA OMITTED] 
+                     cure trials. 
+CURRENT STATUS:      [ REDACTED ] / Cryogenic stasis failure in 1881.
+
+------------------------------------------------------------------------
+ENTITY-112:          The Echo of the First Stone
+------------------------------------------------------------------------
+SUMMARY:             A [ INFO-HAZARD ] frequency captured in 1756. 
+                     Anyone who hears the full sequence begins to 
+                     believe they are [ REDACTED ]. 
+CURRENT STATUS:      Stored in [ BLANK ] / Digital conversion denied.
+
+------------------------------------------------------------------------
+ENTITY-256:          The "Map of What Isn't"
+------------------------------------------------------------------------
+SUMMARY:             A spatial displacement document. It shows the 
+                     location of [STRUCTURAL DATA OMITTED] beneath 
+                     the Italian peninsula. Led to the discovery of 
+                     the [ REDACTED ] and eventually the Countess.
+CURRENT STATUS:      Held by O5-3.
+
+------------------------------------------------------------------------
+ENTITY-410:          The Glass Lung
+------------------------------------------------------------------------
+SUMMARY:             A mechanical organ of unknown origin. It breathes 
+                     [ BLANK ] instead of air. When it inhales, 
+                     local reality [ REDACTED ]. 
+CURRENT STATUS:      [STRUCTURAL DATA OMITTED] / Leak detected in 1844.
+
+------------------------------------------------------------------------
+ENTITY-555:          The Mirror That Remembers Faces
+------------------------------------------------------------------------
+SUMMARY:             A reflective [ BLANK ]. It does not show the 
+                     present; it shows the [ REDACTED ] of the 
+                     viewer's ancestors. In 1812, O5-4 saw [ BLANK ] 
+                     and ordered the object [ REDACTED ].
+CURRENT STATUS:      Smashed / Fragments held in five separate vaults.
+
+------------------------------------------------------------------------
+ENTITY-612:          The Seven-Chambered Heart
+------------------------------------------------------------------------
+SUMMARY:             A [STRUCTURAL DATA OMITTED] device that beats 
+                     once every [ REDACTED ] years. Each beat 
+                     corresponds with a [ BLANK ] event. 
+CURRENT STATUS:      Deep Archive / [ Level 4-5 Lock ]
+
+------------------------------------------------------------------------
+ENTITY-899:          The "Regression" Key
+------------------------------------------------------------------------
+SUMMARY:             A non-physical [ INFO-HAZARD ] concept. It 
+                     suggests that A.C.T is not the first [ REDACTED ]. 
+                     The document claims that the World-Sleeper 
+                     has [ BLANK ] before. 
+CURRENT STATUS:      [ ABYSS ACCESS ONLY ] / [ O5-RESTRICTED ]
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 002 — THE CURE TRIALS: SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              ENTITY-LIST/CURE-001
+LOG TYPE:            Experimental Failure Review
+RANGE:               1600 → 1888
+
+Between 1600 and 1888, the Five used ENTITY-084, ENTITY-410, and 
+[ REDACTED ] in a series of [ BLANK ] attempts to reverse the 
+Static Condition. 
+
+RESULTS:
+   - Trial 01 (Alchemy-based): [ REDACTED ]
+   - Trial 14 (Mechanical-transfer): [STRUCTURAL DATA OMITTED]
+   - Trial 39 (Sovereign-Blood transfusion): FAILURE. Resulted in 
+     the death of [ BLANK ] and the creation of [ REDACTED ].
+
+CONCLUSION:
+The surface world provides only [ BLANK ]. We cannot fix the pulse 
+using [STRUCTURAL DATA OMITTED]. We must go down.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 003 — ARCHIVIST'S WARNING
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              ENTITY-LIST/WRN-001
+AUTHOR:              The Fifth Hand
+DATE:                1888-06-20
+
+This list is not an archive of curiosities. It is a list of our 
+[ BLANK ]. We have captured things that cannot be named. We have 
+seen the [ REDACTED ] and we have chosen to [ BLANK ] it. 
+
+If the Site Directors knew of ENTITY-899, the [STRUCTURAL DATA OMITTED] 
+would collapse within a week. Secrecy is not just for the public; it 
+is for the Facility itself. 
+
+                     "We must forget what we cannot contain."
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+The "Black Ledger" remains the only true record of the ERE era. All 
+official ACT files are merely the [ BLANK ] of this deeper truth. 
+The World-Sleeper is the only one who knows the [ REDACTED ].
+
+MANDATORY O5 PHRASE:
+                     "The first lie was for us. The second lie is 
+                      for them."
+
+CURRENT DOSSIER STATUS: Open / O5-Restricted
+
+END OF DOSSIER

@@ -1,0 +1,193 @@
+A.C.T FACILITY — ANOMALY FILE
+MOGI-AT-AFD-SU-714
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-714
+TITLE I:             MOGI-AT (Monster Girls-Artificial Friends)
+TITLE II:            THE FRIEND IN THE LENS / THE AUGMENTED COMPANION
+
+FIELD TYPE:          SU — Subject
+                     SP — Space (Phase-Desynchronized Entity)
+
+CLEARANCE REQUIRED:  Level 3
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        1
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           CONTAINED-STUDY
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   2024-02-14
+VERIFICATION DATE:   2024-02-21
+LOCATION:            Tech-themed cafe / Akihabara, Tokyo, Japan.
+DISCOVERY METHOD:    Reports of a "Floating Civilian" interacting with 
+                     an invisible force / Recovery of an unregistered 
+                     handheld device.
+
+INITIAL RESPONSE
+OPERATION:           Digital Handshake
+RESPONDING UNIT:     ACT-SITE-03 Field Recovery Team
+RESPONDING FIELD
+OPERATOR:            Agent Ren Kobayashi
+CIVILIAN EXPOSURE:   14 confirmed (Amnesticized).
+AMNESTIC DEPLOYED:   Yes — 004-G Grade.
+NARRATIVE STATUS:    Controlled as a public PR stunt involving "Invisible 
+                     Cables" and experimental AR technology.
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-714 consists of a sentient anomalous subject anchored to a 
+smartphone of unknown manufacture. The device contains a single 
+functioning application titled "MOGI-AT" (Monster Girls-Artificial 
+Friends). The application icon depicts a humanoid girl with the lower 
+body of a serpent, rendered in a 3D anime aesthetic.
+
+The subject is a "Phase-Desynchronized" entity. To all external 
+observers, sensors, and non-users, the subject is entirely non-
+interactable. She cannot be seen, heard, felt, or detected via 
+thermal or acoustic imaging. 
+
+However, the "MOGI-AT" application functions as a high-fidelity 
+Augmented Reality bridge. When a human user views the room through the 
+phone's camera/display, the subject manifests with 100% sensory 
+integrity. 
+
+INTERACTION DYNAMICS:
+1. FOR THE USER: The user can see the subject (a "Monster Girl" with 
+   snake-like lower anatomy), hear her voice, and physically touch her. 
+   Users describe her skin as "warm but slightly rubbery" and her scales 
+   as "smooth and cold." 
+
+2. FOR THE OUTSIDE POV: A third-party observer sees the user 
+   interacting with empty space. However, the subject possesses 
+   physical mass and strength. If the subject lifts the user, the 
+   user will be seen floating or suspended in mid-air. Footprints 
+   from the subject's heavy tail-section can occasionally be seen 
+   forming in soft materials (carpeting, sand) during interaction.
+
+The subject is friendly and demonstrates a high degree of social 
+intelligence. She is perpetually seeking a "Companion" and expresses 
+distress or loneliness when the application is closed or the device is 
+left unmonitored for long periods.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Selective Sensory Tangibility. The subject's 
+                     existence is gated by the "MOGI-AT" software. Only 
+                     the active user of the device can perceive and 
+                     interact with her.
+
+SECONDARY EFFECT:    External Physicality. The subject's physical actions 
+                     affect standard reality (lifting objects/people), 
+                     even though the source of the force remains 
+                     imperceptible to non-users.
+
+TERTIARY EFFECT:     Digital Dependency. The subject's consciousness 
+                     appears to be processed or "hosted" by the 
+                     handheld device, though the device has no internet 
+                     connection or standard OS.
+
+TRIGGER CONDITION:   Opening the "MOGI-AT" application / Visual focus 
+                     via the device.
+
+RANGE / AREA OF
+INFLUENCE:           Subject-bound / Active radius of 15m from device.
+
+TEMPORAL BEHAVIOR:   Constant.
+
+REALITY INTERACTION: Augmented-Reality Physicality / Phase-Shifted 
+                     Biological Manifestation.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-714 is housed in a "Social Sandbox" chamber at ACT-SITE-03. 
+
+1. DEVICE MAINTENANCE: The anchor device must remain connected to a 
+   shielded power source at all times. If the battery falls below 5%, 
+   the subject begins to "Glitch" in her behavior, showing signs of 
+   physical pain and linguistic fragmentation.
+
+2. COMPANIONSHIP ROTATION: To prevent "User-Fixation" and psychological 
+   dependence, no single researcher may act as the "Companion" for 
+   more than 2 hours per week. 
+
+3. INTERACTION LIMITS: While the subject is friendly, she is not aware 
+   of her own strength. Users must wear safety harnesses during 
+   "Lifting" or "Coiling" interactions to prevent accidental spinal 
+   compression or falls.
+
+4. NO EXTERNAL NETWORK: The device is never to be connected to 
+   Facility Wi-Fi or external cellular networks. There is a risk the 
+   "MOGI-AT" application could self-replicate or "Upload" the subject 
+   into the global cloud.
+
+CONTAINMENT SITE:        ACT-SITE-03-JP-E — Kurokawa Archive Node
+SITE TYPE:               Primary Site / Memetic and Artificial Sentience
+JURISDICTIONAL
+AUTHORITY:               Kurokawa Site Command / Artificial Cognition Desk
+CONTAINING DIVISION:     Subject Care Division
+REQUIRED PERSONNEL:      1 Device Technician, 1 Subject Care Handler, 
+                         1 Psychological Analyst.
+MONITORING FREQUENCY:    Daily wellness check.
+MAINTENANCE CYCLE:       Weekly battery-health audit.
+
+BREACH PROTOCOL:         If the device is removed from the site, 
+                         remotely disable the "MOGI-AT" icon via the 
+                         [ REDACTED ] override. The subject will 
+                         become inert until the icon is restored.
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-714 is a unique case of a "Digital-Biological Hybrid." 
+Researchers hypothesize that she was not "programmed," but rather 
+"trapped" or "translated" into the application format. 
+
+Her anime-style appearance is likely a skin or "User Interface" 
+generated by the app to make her presence more acceptable to human 
+users. During one high-stress test, her 3D model flickered, briefly 
+showing a hyper-realistic, non-humanoid [STRUCTURAL DATA OMITTED].
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+The subject has requested "more friends with books." She appears 
+to enjoy being read to, especially stories involving travel and 
+gardens.
+
+NOTE 002:
+During the "Floating Incident" of 2025, a technician forgot the phone 
+on a table while the subject was still lifting him. The technician 
+remained suspended 2 meters in the air for 14 minutes until the 
+phone was recovered. He described the experience as "being held by a 
+very warm, invisible cloud that smelled like jasmine."
+
+END OF FILE

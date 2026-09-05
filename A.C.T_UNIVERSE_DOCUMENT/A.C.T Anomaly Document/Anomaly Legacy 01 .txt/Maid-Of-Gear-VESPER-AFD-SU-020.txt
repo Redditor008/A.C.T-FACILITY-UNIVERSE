@@ -1,0 +1,349 @@
+A.C.T FACILITY — ANOMALY FILE
+Maid-Of-Gear-VESPER-AFD-SU-020
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-020
+TITLE I:             Maid Of Gear-VESPER
+TITLE II:            THE MAIDEN BLADE FROM 3X2X
+
+FIELD TYPE:          SU — Subject
+                     Future-displaced cybernetic operative / defensive-state
+                     conditional combat anomaly
+
+CLEARANCE REQUIRED:  Level 4
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        4
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           CONTAINED-STUDY
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   2026-06-09
+VERIFICATION DATE:   2026-06-14
+LOCATION:            Service alley behind abandoned textile warehouse /
+                     Jakarta, Indonesia
+DISCOVERY METHOD:    Temporal residue detection / unidentified low-metabolism
+                     subject recovery / future database artifact
+
+INITIAL RESPONSE
+OPERATION:           Quiet Apron Retrieval
+RESPONDING UNIT:     Field Containment Division / Temporal Displacement Review
+RESPONDING FIELD
+OPERATOR:            Agent Nadira Prasetyo
+CIVILIAN EXPOSURE:   3 confirmed
+AMNESTIC DEPLOYED:   Limited
+NARRATIVE STATUS:    Controlled as collapse of unidentified costumed performer
+                     and illegal cybernetic prosthetic trafficking case
+
+RECOVERED MATERIAL:  Vesper_Full_Master_Database.pdf
+DOCUMENT STATUS:     Sealed / future-origin reference copy
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-020 is a sentient female-presenting cybernetic subject identifying, when
+awake, as Vesper. Recovered documentation lists additional identifiers including
+Designation MNT-092-OMEGA, Operational Alias Vesper, and "The Maiden Blade."
+The subject appears to originate from a future period recorded as year 3X2X,
+though the recovered database carries conflicting registry markings and a 2026
+copyright line. Temporal Displacement Review currently treats the document as a
+future-origin record with damaged or intentionally masked dating logic.
+
+AFD-SU-020 was found in a shutdown or low-metabolism state in a service alley.
+At recovery, the subject was in critical condition consistent with severe
+transition shock following temporal crossing. Internal systems were operating at
+reduced rhythm, nanite circulation was intermittent, and defensive subroutines
+were locked behind a low-power state. The subject did not respond to verbal
+contact until stabilization began.
+
+The subject's body is approximately 80% biological tissue and 20% cybernetic
+fusion according to the recovered database. This ratio cannot be confirmed by
+ordinary medical imaging because several internal components actively blur or
+mislabel themselves on modern scanning equipment. Known cybernetic elements
+include a cerebellum-to-sacral neural bridge, internal nanite metabolic support,
+leg compression boosters, optical interface hardware, and Neuro-Mantid
+sacral-spur weapon systems.
+
+AFD-SU-020's exterior presentation resembles an elegant maid or aristocratic
+service attendant. The attire is not merely clothing. It functions as optical
+camouflage designed for urban, corporate, and high-security environments. The
+fabric can reduce visual recognition, soften silhouette contrast, and cause
+casual observers to categorize the subject as decorative staff, service worker,
+or background presence rather than an armed operative.
+
+By nature and observed protocol, AFD-SU-020 does not activate full defensive
+mode when the figure in front of her is non-combatant. The subject appears to
+assess posture, carried equipment, threat intent, movement velocity, targeting
+focus, and emotional surge. If the nearby party is classified as non-combatant,
+AFD-SU-020 remains dormant, conversational, evasive, or passive. If the nearby
+party is classified as combat-capable or actively hostile, defensive systems may
+arm rapidly.
+
+The subject is not to be approached as ordinary machinery, wounded personnel,
+maid-costumed civilian, or standard cyborg. AFD-SU-020 is a future-displaced
+operative with combat conditioning, partial memory fragmentation, and equipment
+built beyond current public technological capacity.
+
+═══════════════════════════════════════════════════════════════════════
+                    RECOVERED DATABASE SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+SOURCE FILE:         Vesper_Full_Master_Database.pdf
+HEADER:              VESPER.SYSMASTER OPERATOR DATABASE
+REGISTRY:            GUILD REGISTRY // VANGUARD DIVISION
+ACCESS LEVEL:        RESTRICTED ACCESS — LEVEL OMEGA
+
+DATABASE EXTRACTS:
+   - Designation: MNT-092-OMEGA
+   - Operational Alias: Vesper, The Maiden Blade
+   - Primary Role: Solo Vanguard-Assassin / Infiltration Specialist
+   - Biological Ratio: 80% Flesh / 20% Cybernetic Fusion
+   - Primary Modification: Neuro-Mantid Sacral-Spurs
+   - Metabolic Rate: 3x Human Baseline, sustained via internal nanites
+   - Mobility Rating: EX+ / Apex Verticality
+   - Strength Rating: S-Class / Hydraulic Force
+   - Weaponry: ITEM-W01 "ARGUS" / KSG-16 Smart-Shotgun
+   - Defense: ITEM-A01 "FEEDBACKER" / reactive shield and exo-skeleton
+   - Perception: ITEM-E01 "BIFOCAL SUITE" / dual-mode visual interface
+
+DATABASE RELIABILITY:
+The recovered document is operationally useful but not fully trusted. Several
+sections use terminology not present in current A.C.T technology records. Some
+mathematical notations appear damaged. Registry context refers to organizations,
+sectors, and conflicts not yet confirmed in present history.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Temporal displacement from year 3X2X. AFD-SU-020 and the
+                     recovered database appear to have crossed from a future
+                     period into the current archive timeline.
+
+SECONDARY EFFECT:    Conditional defensive-state activation. AFD-SU-020 does
+                     not normally activate defensive mode in front of a
+                     non-combatant, but may respond rapidly to combat-capable
+                     approach, weapon focus, hostile posture, or active threat
+                     pattern.
+
+TERTIARY EFFECT:     Optical maid camouflage. The subject's attire reduces
+                     threat recognition and encourages observers to categorize
+                     AFD-SU-020 as service staff, decorative attendant, or
+                     background personnel.
+
+QUATERNARY EFFECT:   Future cybernetic performance envelope. The subject's
+                     mobility, perception, strength, and defensive systems
+                     exceed present public technological capability.
+
+TRIGGER CONDITION:   Recovery from low-metabolism state / hostile classification
+                     / combat posture / direct threat approach / unauthorized
+                     access to core systems.
+
+RANGE / AREA OF
+INFLUENCE:           Subject-bound / weapon and shield systems vary by equipment
+                     state / optical camouflage effective within ordinary visual
+                     range.
+
+TEMPORAL BEHAVIOR:   Future-displaced / recovery-state dependent / defensive
+                     activation dependent on threat classification.
+
+REALITY INTERACTION: Temporal Displacement / Cybernetic-Tech Impossibility /
+                     Perception Camouflage / Conditional Defensive Logic.
+
+═══════════════════════════════════════════════════════════════════════
+                PHYSICAL CAPABILITIES AND EQUIPMENT SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+MOBILITY:
+The recovered database claims a vertical jump capability exceeding 15 m through
+internal leg compression boosters. It also claims "predator-hopping" movement
+between skyscraper structures for up to 3 km without ground contact. A.C.T has
+not authorized full mobility testing.
+
+STRENGTH:
+The database lists hydraulic-force rating as S-Class. Neuro-Mantid arm systems
+are claimed to exert 2,500 PSI piercing force and to lift 250 kg additional
+payload while anchored vertically. Containment staff are not to test these
+limits by direct restraint.
+
+ITEM-W01 "ARGUS":
+Recovered database describes a KSG-16 smart-shotgun with neural-linked screen,
+dual-tube smart feed, and specialized ammunition types including plasma slug,
+paralysis slug, chain-hook slug, and mini-locking rocket. No complete ARGUS unit
+was recovered with AFD-SU-020. Partial ammunition fragments were recovered in
+the alleyway and remain sealed.
+
+ITEM-A01 "FEEDBACKER":
+Database describes a reactive shield and exo-skeleton capable of absorbing 95%
+of incoming kinetic force and redirecting it through harmonic vibration. A.C.T
+has confirmed partial forearm shield structures integrated beneath the subject's
+left sleeve.
+
+ITEM-E01 "BIFOCAL SUITE":
+The left eye is described as biological predator mode with heartbeat detection,
+thermal vascular mapping, and adrenaline micro-surge detection. The right eye is
+described as a neural gamified HUD showing ammunition count, lock-on reticles,
+and nanite status.
+
+GAMIFICATION PROTOCOL:
+The database describes a detachment protocol that renders enemies as tactical
+icons to reduce emotional interference during Omega-level clearance missions.
+A.C.T considers this system psychologically hazardous to the subject if
+reactivated without review.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-020 is housed in a reinforced recovery suite designed for cooperative
+cybernetic subjects. The chamber must include nonreflective walls, shielded
+power systems, isolated data terminals, soft medical support equipment, and no
+visible weapons. The suite must remain visually calm and must not resemble a
+battlefield, interrogation cell, corporate kill-box, or tactical ambush site.
+
+All first-contact staff must enter with open hands, no visible weapons, and no
+surrounding formation that could be interpreted as a capture squad. AFD-SU-020
+is to be addressed as "Vesper" unless she requests another form of address.
+Personnel are to identify themselves, state that she is in recovery custody, and
+avoid sudden approach toward her back, left forearm, spine, or sacral region.
+
+No combat drills, live-fire tests, hostile posture trials, or forced activation
+attempts are permitted. Testing defensive mode by threatening the subject is
+prohibited. The subject's natural non-combatant filter is valuable and must not
+be corrupted by careless procedure.
+
+AFD-SU-020 may be questioned about year 3X2X only after stabilization and only
+by Temporal Displacement Review. Questions regarding the Guild Registry, Swarm
+collective, Clockwork Sector, Omega clearance missions, or anti-tech insurgents
+must be spaced by care intervals to avoid memory cascade.
+
+The recovered database is to be stored separately from AFD-SU-020. The subject
+is not to receive full database access until memory stability and loyalty drift
+risk are evaluated. Database excerpts may be shown in controlled sessions if the
+subject requests identity confirmation.
+
+CONTAINMENT SITE:        ACT-SITE-05-ID-C — Nusantara Deep Relay
+SITE TYPE:               Regional Site / Temporal-displacement and cybernetic
+                         recovery containment
+JURISDICTIONAL
+AUTHORITY:               Temporal Displacement Review / Anomalous Machinery Review
+CONTAINING DIVISION:     Subject Care Division / Future Technology Assessment Desk
+REQUIRED PERSONNEL:      2 cybernetic care technicians, 1 temporal analyst,
+                         1 non-combatant liaison, 1 remote security observer
+MONITORING FREQUENCY:    Continuous noninvasive vitals and nanite-state monitoring
+MAINTENANCE CYCLE:       Daily recovery assessment / weekly database integrity
+                         review
+
+BREACH PROTOCOL:         Do not initiate armed pursuit unless AFD-SU-020 enters
+                         public view or attempts to access strategic systems.
+                         Use non-combatant liaison voice contact first. Reduce
+                         visible threat posture, open exit routes away from
+                         populated zones, and offer a recovery point rather than
+                         a surrender demand. If defensive mode is active, deploy
+                         remote barriers and avoid close engagement.
+
+BREACH CONDITIONS —
+THIS ANOMALY IS CONSIDERED
+IN BREACH IF IT:
+   [x] Breaks formal containment
+   [x] Endangers public normalcy
+   [x] Causes distortion in reality, Earth, time, or cosmic law
+   [ ] Spreads memetic, informational, or biological contamination
+   [x] Resists classification and escalates beyond predicted behavior
+   [ ] Transforms its environment into an anomalous zone
+   [x] Other: Subject enters defensive mode, accesses future weapon systems,
+              or connects the recovered database to any networked device
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-020 is a high-value future-displacement case. Unlike many temporal
+objects, the subject carries active technological systems, identity records,
+combat conditioning, and social context from an unverified future. The database
+mentions the Guild Registry, Vanguard Division, Clockwork Sector, Swarm
+collective, corporate districts, and anti-tech insurgents. None of these
+entities have confirmed present-day equivalents.
+
+The subject's non-combatant filter is the most important behavioral stabilizer.
+If personnel present as calm, unarmed, and non-hostile, AFD-SU-020 remains
+manageable even while disoriented. If personnel present as tactical threats, the
+subject may classify the room as an engagement environment and begin defensive
+calculation.
+
+The maid persona is not ornamental. It is a deep-cover interface, social
+camouflage layer, and emotional mask. AFD-SU-020 appears trained to enter
+spaces where overt military forms would be rejected. The persona may also serve
+as self-regulation: when addressed politely and offered routine service-like
+structure such as tea preparation, room tidying, or garment repair, the subject
+shows lower stress and better memory continuity.
+
+A.C.T does not currently know whether AFD-SU-020 intentionally crossed into the
+present, was displaced by an external event, escaped from year 3X2X, or was sent
+as a delayed operation asset. The subject's low-metabolism recovery state
+suggests crossing was traumatic and not fully controlled.
+
+═══════════════════════════════════════════════════════════════════════
+                      TRANSFORMATION NOTES
+═══════════════════════════════════════════════════════════════════════
+
+TRANSFORMATION ATTEMPT
+STATUS:              Suspended pending consent and stabilization
+
+TRANSFORMATION NOTES:
+AFD-SU-020 is not approved for repurposing as a Facility weapon, assassin,
+infiltration asset, tactical instructor, or future-technology extraction source.
+Although her systems are strategically valuable, forced integration risks
+triggering defensive mode, memory cascade, or future-history contamination.
+
+Approved transformation work is limited to stabilization: restoring metabolic
+balance, reducing temporal shock, mapping cybernetic systems, and determining
+whether the subject can safely consent to cooperation.
+
+Future technology reverse-engineering is prohibited until Central Archive and
+Temporal Displacement Review determine whether extracting knowledge from
+AFD-SU-020 creates causal contamination.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+Do not call AFD-SU-020 a robot. She has corrected this twice while still in
+partial recovery and became noticeably distressed both times.
+
+NOTE 002:
+During Recovery Hour 14, AFD-SU-020 opened her right eye and asked whether the
+Clockwork Sector had fallen. When told that no such sector exists in current
+records, she answered: "Then I crossed too early."
+
+NOTE 003:
+The recovered database describes Vesper as a vanguard-assassin. This should not
+be treated as current intent. A role from a future registry is not the same as
+an active command state.
+
+NOTE 004:
+When asked why her defensive mode did not activate during recovery, AFD-SU-020
+replied: "You were scared. Not hunting."
+
+END OF FILE

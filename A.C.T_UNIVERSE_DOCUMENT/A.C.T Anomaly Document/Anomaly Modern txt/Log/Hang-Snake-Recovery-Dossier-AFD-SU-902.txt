@@ -1,0 +1,109 @@
+A.C.T FACILITY — RECOVERY & DISCOVERY DOSSIER
+Hang-Snake-Recovery-Dossier-AFD-SU-902
+
+═══════════════════════════════════════════════════════════════════════
+                A.C.T FACILITY — RECOVERY & DISCOVERY DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-902
+TITLE I:             Hang Snake
+PRIMARY FILE:        Hang-Snake-AFD-SU-902
+
+DOCUMENT CATEGORY:   CATEGORY I — Recovery & Discovery Dossier
+CATEGORY FUNCTION:   Chronology of the 1992 [ REDACTED ] Prison Event; 
+                     Documentation of first-contact siphoning behavior.
+
+CLEARANCE REQUIRED:  Level 4 / White Grave Site Command
+
+CONTAINMENT SITE:    ACT-SITE-02-RU-N — White Grave Station
+ARCHIVE STATUS:      Active / Transition Verified
+DOSSIER STATUS:      Open / Incident Recovery Logged
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier contains the reconstructed logs from **Operation Tight 
+Knot**, detailing the recovery of the "Gallows Constrictor" following 
+a botched execution in 1992. 
+
+INCLUDED LOG TYPES:
+   - Initial Discovery: The Empty Noose
+   - Recovery Timeline: The Medical Bay Siphoning
+   - Field Agent Notes: Material Resilience
+   - Dossier Closing Statement
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 001 — THE EMPTY NOOSE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-902/REC-01
+DATE:                1992-10-31
+LOCATION:            [ REDACTED ] Historical Prison
+
+The event was triggered during the scheduled execution of POI-902. 
+The trapdoor was released at 00:01 local time. 
+
+OBSERVATION:
+The target dropped through the floor. However, the rope did not snap 
+taut. Instead, the knot appeared to "Relax" mid-air. When the prison 
+doctor entered the pit to verify the death, he found the noose empty. 
+The target subject had vanished. 
+
+The rope, still attached to the crossbeam, was observed to be 
+"thickening" and changing color from a weathered beige to a deep 
+crimson-streaked brown.
+
+═══════════════════════════════════════════════════════════════════════
+                SECTION 002 — THE MEDICAL BAY EVENT
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-902/REC-02
+DATE:                1992-10-31 (T+45 Minutes)
+
+Recovery Team Alpha arrived at the prison under the cover of a 
+national security audit. The "Noose" had detached itself from the 
+gallows and was located in the medical infirmary.
+
+[VISUAL DATA SUMMARY]:
+The subject (now designated AFD-SU-902) was found coiled around the 
+neck of a medical assistant. The assistant was suspended in mid-air 
+without support. 
+
+As the team watched, the assistant's physical body began to "soften" 
+and lose structural definition. Within 120 seconds, the assistant had 
+been entirely absorbed. No clothing, hair, or biological traces 
+remained. AFD-SU-902 had increased its length by approximately 15 cm 
+following the event.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 003 — FIELD AGENT NOTES
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-902/LOG-01
+AUTHOR:              Agent [ REDACTED ]
+
+"It’s not just a snake. It’s a tool that realized it could do its job 
+without a hangman. 
+
+When we tried to snare it, the rope turned into steel. Our nets 
+couldn't hold the tension. We only managed to box it after we 
+lowered the temperature in the infirmary. The fibers froze, and it 
+became just a piece of old rope again. But even then, I could feel it 
+vibrating in the crate. It was waiting for someone to get close 
+enough to the knot."
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+MANDATORY PERSONNEL NOTICE:
+                     The noose is not for 
+                     execution. 
+                     The noose is for 
+                     persistence.
+
+CURRENT DOSSIER STATUS: Open / Causal-Origin Inquiry Active
+
+END OF DOSSIER

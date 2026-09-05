@@ -1,0 +1,404 @@
+A.C.T Universe
+Part Six
+Facility Divisions, Personnel Roles, and Operational Life
+
+Introduction
+If Part Two defined the internal structure of A.C.T at the level of hierarchy and doctrine, then Part Six defines the Facility at the level of function, labor, discipline, and lived operation. A.C.T is not sustained by doctrine alone. It is sustained by thousands of daily actions carried out by researchers, guards, field operators, archivists, janitors, administrators, medics, containment engineers, and personnel whose work is rarely heroic, often secret, and constantly dangerous.
+
+To understand A.C.T fully, one must understand not only its command structure, but the routines, burdens, duties, and human systems that allow it to keep the impossible buried.
+
+---
+
+6.1 — The Facility as a Living System
+The A.C.T Facility is not merely a headquarters, a laboratory, or a prison. It is a living operational system built around the permanent management of anomalies. Every division, floor, and role exists to support one or more of the following functions:
+
+- detect the anomalous
+- secure the anomalous
+- contain the anomalous
+- understand the anomalous
+- transform the anomalous where viable
+- suppress public knowledge
+- preserve structural normalcy
+- maintain internal continuity when the impossible pushes back
+
+The Facility is therefore not organized like a normal institution. It is closer to a buried state, a scientific fortress, and a secret civilization beneath civilization.
+
+6.1.1 Site Network and Distributed Operation
+The labor structure described in this file does not exist only inside one central body. A.C.T functions through a distributed network of major SITES, SUB-SITES, relays, and sealed installations, each carrying different burdens of containment, secrecy, archive continuity, and recovery. Divisions therefore operate both locally and across jurisdictional site boundaries. Detailed installation doctrine is preserved separately in the dedicated site records within Part Six.
+
+---
+
+6.2 — Division Function by Wing
+While Part Two defined the broad structure of the wings, Part Six explains what those divisions actually do as daily institutions.
+
+West Wings — Force, Capture, and Hard Containment
+The West Wings serve as the Facility’s enforcement and tactical pressure side.
+
+Security Division
+Responsible for:
+- internal security
+- clearance enforcement
+- checkpoint control
+- escorting sensitive personnel and materials
+- first-line breach response
+- lockdown implementation
+
+Security personnel are not normal guards. They are trained for environments where the threat may be physical, memetic, temporal, or informational.
+
+Recovery Division
+Responsible for:
+- anomaly retrieval
+- site acquisition
+- witness isolation support
+- transport escort
+- perimeter control during field discovery
+- first-stage anomaly intake
+
+Recovery teams are often the first A.C.T personnel to physically encounter an emerging anomaly.
+
+Containment Division
+Responsible for:
+- enclosure design
+- containment maintenance
+- containment revision
+- chamber condition regulation
+- anomaly holding review
+- response integration with research and security
+
+If Research learns what an anomaly is, Containment decides how it survives being near humanity.
+
+Military Division
+Responsible for:
+- high-threat suppression
+- extreme breach combat response
+- blacksite reinforcement
+- anomaly-adjacent warfare
+- anti-GOI armed intervention
+- existential emergency deployment
+
+The Military Division is not used casually. Its activation usually means containment logic has entered failure pressure.
+
+---
+
+East Wings — Information, Administration, and Internal Coordination
+The East Wings maintain the informational body of the Facility.
+
+Archiver Division
+Responsible for:
+- anomaly records
+- incident logs
+- redaction management
+- controlled file release
+- historical preservation
+- dangerous information quarantine
+
+In A.C.T, archiving is a containment function. Some records are as dangerous as the anomalies they describe.
+
+Intelligence Division
+Responsible for:
+- GOI surveillance
+- internal behavioral review
+- external anomaly intelligence
+- secrecy risk analysis
+- infiltration tracking
+- witness and leak projection
+
+The Intelligence Division watches both the world outside and the personnel within.
+
+Task Management
+Responsible for:
+- assignment flow
+- division scheduling
+- operational prioritization
+- response allocation
+- workload routing
+- multi-team coordination
+
+Task Management makes sure the machine keeps moving even during multi-layer emergencies.
+
+---
+
+South Wings — Command, Continuity, and Civil Masking
+The South Wings preserve the higher strategic structure of A.C.T.
+
+O5 Headquarters
+Responsible for:
+- deep command decisions
+- black-level policy
+- catastrophic authorization
+- abyssal access authority
+- existential doctrine review
+
+This is not a normal executive wing. It is the highest buried logic of the Facility.
+
+Company Development
+Responsible for:
+- shell-company growth
+- black budget channels
+- asset laundering
+- procurement masking
+- infrastructure expansion
+- financial invisibility
+
+A.C.T cannot survive if its funding is visible.
+
+Civil Covert Division
+Responsible for:
+- cover stories
+- civilian-facing masks
+- quiet influence
+- public reality management
+- institutional infiltration
+- hidden narrative control
+
+This division helps maintain the lie called normal life.
+
+---
+
+North Wings — Study, Transformation, and Medical Continuity
+The North Wings are the scientific and biological heart of A.C.T.
+
+Researcher Division
+Responsible for:
+- anomaly study
+- experiment design
+- property analysis
+- theory construction
+- pattern recognition
+- controlled observation
+
+This division does not simply ask what anomalies do. It asks what they imply about reality itself.
+
+Transformation Division
+Responsible for:
+- anomaly repurposing
+- stabilization projects
+- threat conversion
+- controlled utility assessment
+- anomaly-to-asset development
+
+This is the most controversial division in the Facility. It is where morality thins under strategic need.
+
+Anomaly Lab Quarter
+Responsible for:
+- contained testing
+- specialized experimental chambers
+- block-specific analysis
+- prototype control
+- restricted transformation trials
+
+This quarter exists because some anomalies cannot be studied in generic lab space.
+
+Medical Care Division
+Responsible for:
+- physical trauma treatment
+- memetic contamination response
+- cognitive collapse care
+- biohazard screening
+- abyssal isolation medicine
+- post-contact stabilization
+
+Medical staff in A.C.T are often dealing with injuries that medicine was never meant to classify.
+
+---
+
+Central — Operational Spine
+The Central Sector remains the spine of the Facility.
+
+It exists to connect:
+- anomaly movement
+- floor access
+- containment descent
+- intake transfer
+- checkpoint control
+- emergency lockdown
+- abyssal routing
+
+The Main Containment Elevator is not just transportation. It is the vertical artery of the entire underground complex.
+
+---
+
+6.3 — Personnel Roles in Daily Practice
+Part Two defined the rank order. Part Six explains how those roles feel in operation.
+
+O5 Council
+Rarely seen, deeply insulated, and almost mythic to lower personnel. Most staff know the O5 more as an authority pattern than as individuals.
+
+Facility Administrator
+The practical sovereign of a site. Responsible for balancing doctrine, discipline, output, secrecy, and survival.
+
+Site Director
+The operational ruler of a specific branch or site zone. Where the Administrator governs broadly, the Site Director governs directly.
+
+High Researcher
+The senior scientific mind trusted not only to study anomalies, but to help decide what reality they are looking at.
+
+Senior Researcher
+The daily engine of scientific work. Senior Researchers convert unknowns into experimental procedure.
+
+Task Force Commander
+The point where anomaly doctrine turns into field action.
+
+Field Operator
+The hands of the Facility in the outside world and in unstable field environments.
+
+Junior Researcher
+Learns the science while surviving it.
+
+Facility Guard
+Enforces the line between controlled and uncontrolled.
+
+Facility Archiver
+Preserves knowledge without letting knowledge become a leak.
+
+Facility Junior Employee
+Keeps the invisible logistics alive.
+
+Site Janitor
+One of the least respected and most quietly necessary roles in the Facility. They clean the residue of impossible things.
+
+Recruiter
+Finds the next generation of staff, assets, specialists, and expendables.
+
+---
+
+6.4 — Recruitment, Initiation, and Internalization
+A.C.T does not recruit the way normal institutions recruit.
+
+Personnel are selected because they are:
+- useful
+- resilient
+- intelligent
+- controllable
+- necessary
+- compromised enough to be kept
+- or too valuable to leave outside
+
+Recruitment pipelines include:
+- academic extraction
+- military transfer
+- government reassignment
+- intelligence absorption
+- anomaly exposure retention
+- covert inheritance through protected bloodlines or hidden family branches
+- selective civilian disappearance into black employment structures
+
+Once brought in, personnel are not simply employed. They are internalized.
+
+This means:
+- restricted truth exposure
+- controlled orientation
+- psychological filtering
+- secrecy conditioning
+- role-specific indoctrination
+- procedural dependency on the Facility
+
+A.C.T does not merely hire people. It absorbs them.
+
+---
+
+6.5 — Daily Operational Life
+Daily life inside A.C.T varies by division, but several constants remain:
+
+- every person lives under compartmentalized truth
+- every floor has access restrictions
+- every action is logged somewhere
+- every staff member knows less than they want to know and more than they should know
+- every shift assumes the impossible may become physical
+
+A normal day may include:
+- containment review
+- script redaction
+- transporting a sealed object
+- cleaning biohazard residue from a breach corridor
+- monitoring a chamber that must never be seen directly
+- treating a researcher who looked at the wrong thing
+- covering up an anomaly event on the surface
+- evaluating whether a file should be censored or buried deeper
+
+In A.C.T, routine is the disguise worn by constant danger.
+
+---
+
+6.6 — E-Class and Disposable Exposure
+E-Class personnel are used where risk cannot be ethically or operationally assigned to protected staff.
+
+Their uses include:
+- exposure testing
+- trigger confirmation
+- chamber contact verification
+- survival threshold observation
+- procedural sacrifice
+- memetic or infohazard measurement
+
+In doctrine, E-Class use is justified as necessity.
+
+In truth, E-Class represents the gray heart of A.C.T’s morality: the belief that some lives can be spent if reality itself is the alternative cost.
+
+---
+
+6.7 — Internal Discipline and Secrecy
+A.C.T maintains order through:
+- total compartmentalization
+- surveillance
+- file access control
+- enforced silence
+- psychological review
+- amnestic administration where necessary
+- reassignment
+- sealing
+- disappearance in extreme cases
+
+Internal secrecy is not simply to protect the world from knowledge.
+
+It also protects the Facility from itself.
+
+Too much shared truth inside A.C.T can be just as dangerous as public exposure.
+
+---
+
+6.8 — Hazard Burden and Psychological Attrition
+Working in A.C.T damages people.
+
+Even when they survive, they may suffer:
+- chronic paranoia
+- memetic stress
+- reality fatigue
+- moral detachment
+- dissociation
+- dream contamination
+- temporal confusion
+- abyss-related dread
+- identity instability after repeated anomaly exposure
+
+Personnel do not merely risk death. They risk becoming incompatible with ordinary humanity.
+
+This is why the Facility must constantly rotate, isolate, evaluate, and medically stabilize its own staff.
+
+---
+
+6.9 — Operational Culture
+A.C.T culture is built around several quiet assumptions:
+
+- the world above must not know
+- the anomaly is never harmless just because it is calm
+- trust procedure before instinct
+- write everything down
+- assume every unknown can kill
+- silence is often containment
+- survival is not innocence
+- normalcy is manufactured, not natural
+
+This produces a culture that is:
+- cold
+- professional
+- deeply suspicious
+- darkly practical
+- and permanently shaped by hidden dread
+
+There are no truly ordinary employees in A.C.T. Only personnel at different distances from the truth.
+
+---
+
+6.10 — Closing Summary
+Part Six defines A.C.T not just as a doctrine or structure, but as a functioning buried civilization of secrecy, containment, study, and compromise. The Facility survives because its divisions function together, its personnel accept unbearable routines, and its culture turns fear into procedure. In the end, A.C.T is held together not only by steel, doctrine, and classification—but by the continuous labor of people who spend their lives making sure the world above never learns how close it lives to the impossible.

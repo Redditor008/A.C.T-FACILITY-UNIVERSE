@@ -1,0 +1,169 @@
+A.C.T FACILITY — ANOMALY FILE
+Circus-Monster-AFD-SU-507
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-507
+TITLE I:             Circus Monster
+TITLE II:            THE ABANDONED ATTRACTION / THE SINGING SHAME
+
+FIELD TYPE:          SU — Subject
+                     NB — Non-Natural Bio Hazard (Physical Mutation)
+
+CLEARANCE REQUIRED:  Level 3
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        3
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           STABILIZED
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   2021-08-14
+VERIFICATION DATE:   2021-08-20
+LOCATION:            Traveling fairground / [ REDACTED ], Poland.
+DISCOVERY METHOD:    A.C.T Raid: Operation BIG TOP. Targeted the 
+                     "Amazoo Circus," an unregistered anomalous 
+                     humanoid collective.
+
+INITIAL RESPONSE
+OPERATION:           Broken Ring
+RESPONDING UNIT:     Tactical Containment / Recovery Team Gamma-6
+RESPONDING FIELD
+OPERATOR:            Field Agent [REDACTED]
+CIVILIAN EXPOSURE:   [ REDACTED ] fatalities during raid chaos.
+AMNESTIC DEPLOYED:   Yes — 004-D Grade.
+NARRATIVE STATUS:    "Amazoo Circus" publicly erased. Grand Master Amazoo 
+                     remains uncaptured (POI-0507). Subject was found 
+                     locked in a reinforced iron cage, abandoned.
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-507 is a juvenile humanoid female possessing several distinct 
+anomalous physical mutations. The subject has vivid pink hair, a pair 
+of curved black horn-like protrusions from the temples, and four 
+elongated canine fangs. Her hands have permanently transitioned into 
+clawed appendages with sharpened digits.
+
+The subject displays severe signs of chronic psychological trauma, 
+malnutrition, and neglect consistent with her time as an "Attraction" 
+in the Amazoo Circus. She is non-aggressive but highly reactive to 
+loud noises, crowds, and authority figures who adopt a "Command" 
+posture.
+
+ANOMALOUS TRAITS:
+1. VOCAL RESONANCE: While she rarely speaks in a standard conversational 
+   manner, the subject possesses a unique vocal capacity. When 
+   distressed, she emits a "Silent Song"—a low-frequency acoustic 
+   phenomenon that causes feelings of intense misery and existential 
+   dread in nearby sentient beings.
+
+2. PHYSICAL CAPACITY: Despite her fragile appearance, the subject’s 
+   claws are capable of rending low-grade industrial metals. This 
+   appears to be a defense mechanism rather than a predatory instinct.
+
+3. ARCHIVAL PERSISTENCE: The subject carries a fragmented set of 
+   memories regarding her former "Act" and a partner who she believes 
+   "left her behind" prior to the A.C.T raid.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Emotional Acoustic Bleed. The subject's singing/crying 
+                     broadcasts a field of intense sorrow. 
+
+SECONDARY EFFECT:    Enhanced Claw Lethality. Biological appendages 
+                     possessing anomalous hardness and cutting power.
+
+TERTIARY EFFECT:     [STRUCTURAL DATA OMITTED]
+
+TRIGGER CONDITION:   Stress / Crowds / Memories of "Grand Master Amazoo."
+
+RANGE / AREA OF
+INFLUENCE:           15m acoustic radius.
+
+TEMPORAL BEHAVIOR:   Episodic (Scene-responsive).
+
+REALITY INTERACTION: Empathic Distortion / Biological Adaptation.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-507 is housed in a "Quiet Suite" at Site-Sub-[REDACTED]-PL-C. 
+
+1. SILENCE PROTOCOL: No loud alarms, shouting, or chanting is 
+   permitted within 50m of the containment suite. Interaction must 
+   be performed in a soft, melodic, or whisper-level tone.
+
+2. NO AUDIENCE: Observation is strictly remote via silent thermal 
+   cameras. Under no circumstance are personnel to "Stare" at the 
+   subject as if she were a display. 
+
+3. VOCAL MITIGATION: The suite is lined with high-density acoustic 
+   dampening panels. In the event of a "Misery Song" event, 
+   personnel are to activate noise-canceling headsets immediately.
+
+4. DIARY ACCESS: Subject is provided with a notebook and drawing 
+   supplies. Recovered writings are to be transferred to Category XII 
+   dossiers for analysis.
+
+CONTAINMENT SITE:        Site-Sub-[REDACTED]-PL-C
+SITE TYPE:               Sub-Site / Humanoid Subject Stabilization
+JURISDICTIONAL
+AUTHORITY:               Subject Care Division / Regional Command
+CONTAINING DIVISION:     Subject Care Division
+REQUIRED PERSONNEL:      1 Care Handler, 1 Acoustic Technician.
+MONITORING FREQUENCY:    Continuous (Passive).
+MAINTENANCE CYCLE:       Monthly emotional health review.
+
+BREACH PROTOCOL:         The subject does not attempt escape. In the event 
+                         of a panic-breach, deploy sedative vapor and 
+                         use the phrase: "The show is over. You are 
+                         safe."
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-507 appears to be the sole remaining victim of the "Amazoo 
+Humanoid Circus." Interviews suggest that the "Grand Master" was 
+using the subject as a focal point for an emotional-siphoning 
+performance. The subject views her own existence as "worthless" due to 
+the years of verbal abuse and chanting she received from the circus 
+audience.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+Subject often refers to her claws as "The Amazing Gift." Analysis 
+indicates they may have been surgically or anomalous-augmented by 
+Grand Master Amazoo to fit her "Monster" role.
+
+NOTE 002:
+During Recovery, a scrap of paper was found in her cage. It contained 
+the words: "Time is dead and gone, Show must go on."
+
+END OF FILE

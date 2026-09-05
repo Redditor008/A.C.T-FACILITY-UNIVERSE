@@ -1,0 +1,204 @@
+A.C.T FACILITY — ANOMALY FILE
+Proto-Thal-AFD-NB-125
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-NB-125
+TITLE I:             Proto-Thal
+TITLE II:            THE SEABED SOVEREIGN / THE AWAKE ISLAND
+
+FIELD TYPE:          NB — Non-Natural Bio Hazard
+                     CH — Cosmic Hazard (World-Scale Organism)
+
+CLEARANCE REQUIRED:  Level 5 / [ O5-RESTRICTED ]
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   TIAMAT
+
+FRACTURE INDEX —
+CONTAINMENT:         UNENCLOSABLE
+
+THREAT LEVEL:        9
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           INVIOLABLE
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   1992-05-14
+VERIFICATION DATE:   1992-08-20
+LOCATION:            Mariana Trench / [ REDACTED ] Seismic Node
+DISCOVERY METHOD:    Deep-sea sonar mapping / Gravitational anomaly 
+                     detection / Recurring "Abyssal Whirlpool" events.
+
+INITIAL RESPONSE
+OPERATION:           Abyssal Anchor
+RESPONDING UNIT:     Maritime Recovery / Nusantara Deep Relay Support
+RESPONDING FIELD
+OPERATOR:            Agent Raka Suryanto
+CIVILIAN EXPOSURE:   Zero
+AMNESTIC DEPLOYED:   N/A
+NARRATIVE STATUS:    Internal documentation only. Public sonar data 
+                     scrubbed via ACT-SITE-03 (Kurokawa).
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-NB-125, designated Proto-Thal, is an ancient crustacean organism 
+of impossible scale. Shell-surface scans indicate the subject is 
+approximately 12,500 years old. The subject measures 43 km in total 
+diameter and resides within an anomalously "Stretched" section of the 
+Mariana Trench seabed.
+
+Unlike many world-scale anomalies, Proto-Thal is **perpetually awake**. 
+The subject does not enter dormancy or slumber. Its sedentary nature is 
+a biological requirement; the subject remains mostly stationary to 
+prevent its massive frame from being overwhelmed by the combined 
+force of oceanic weight and abyssal pressure. Meaningful limb 
+adjustment—specifically of its 3 km long left claw—occurs only once 
+every [ REDACTED ] years to relieve structural stress.
+
+PHYSICAL CHARACTERISTICS:
+1. THE SHELL (ISLAND): The dorsal surface functions as a submerged 
+   island, housing a massive, self-contained ecosystem of deep-sea 
+   flora and fauna that thrives on the subject's biological heat.
+
+2. FEEDING MECHANISM: Proto-Thal is a filter-feeder. While capable of 
+   consuming larger organisms, the subject demonstrates a strict 
+   preference for plankton. It feeds by generating high-intensity 
+   suction events. These intake events are powerful enough to create 
+   localized abyssal whirlpools capable of drawing in any matter within 
+   a 5 km radius of its mouth-parts.
+
+3. THE CLAWS: The subject possesses two massive claws. The left claw is 
+   3 km in length and is rarely moved, serving as a primary structural 
+   brace against the trench floor.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      World-Scale Biological Presence. Proto-Thal is a 
+                     perpetually conscious organism whose 43 km mass 
+                     is integrated into the Earth's crust.
+
+SECONDARY EFFECT:    Suction-Linked Whirlpools. Filter-feeding events 
+                     create powerful deep-sea whirlpools. While primarily 
+                     targeting plankton, the force is sufficient to 
+                     threaten deep-sea submersibles and marine life.
+
+TERTIARY EFFECT:     Pressure-Management Movement. Every [ REDACTED ] 
+                     years, the subject must move to redistribute sea-
+                     weight. This movement triggers magnitude 6.0+ 
+                     seismic events globally.
+
+TRIGGER CONDITION:   Structural stress threshold (Movement) / 
+                     Feeding hunger-cycle (Whirlpools).
+
+RANGE / AREA OF
+INFLUENCE:           Global Tectonic Impact / Local 5 km Suction Zone.
+
+TEMPORAL BEHAVIOR:   Perpetually Awake / Cyclic Pressure-Adjustment.
+
+REALITY INTERACTION: Biological-Scale Violation / Spatial Expansion / 
+                     Tectonic Entanglement.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-NB-125 is contained in-place via ACT-SITE-05-ID-C — Nusantara Deep 
+Relay. Containment is focused on "Routine Preservation" and the 
+prevention of subject agitation.
+
+1. FEEDING SAFETY: To prevent the subject from generating excessive 
+   suction force, ACT-SITE-05 coordinates the seasonal release of 
+   concentrated nutrient-plankton "Chaff" into the local currents. 
+   This maintains the subject's satiation and reduces the frequency of 
+   uncontrolled whirlpool events.
+
+2. WEIGHT MONITORING: A network of 12 Deep Relay sensors monitors 
+   the subject's posture and shell-integrity. Predictive models must 
+   calculate the date of the next "Pressure-Adjustment Movement" at 
+   least three years in advance to allow for global seismic 
+   preparation.
+
+3. SONAR SCRUBBING: Site-03 (Kurokawa) filters all global sonar data 
+   to mask the subject's 43 km footprint.
+
+4. NO AGITATION: No heavy ordinance testing, deep-sea mining, or 
+   unauthorized high-energy acoustic signals are permitted within 
+   150 km. Although the subject is non-hostile, its awake state means 
+   it is highly responsive to external stimuli.
+
+CONTAINMENT SITE:        ACT-SITE-05-ID-C — Nusantara Deep Relay
+SITE TYPE:               Primary Site / Maritime and Seismic Monitoring
+JURISDICTIONAL
+AUTHORITY:               Nusantara Deep Relay Command / O5 Oversight
+CONTAINING DIVISION:     Containment Division / Maritime Observation Desk
+REQUIRED PERSONNEL:      4 seismic analysts, 2 plankton-logistics 
+                         technicians, 1 spatial surveyor.
+MONITORING FREQUENCY:    Continuous (Acoustic and Gravimetric).
+MAINTENANCE CYCLE:       Monthly nutrient-release calibration.
+
+BREACH PROTOCOL:         In the event of an ascent attempt or significant 
+                         unplanned movement, initiate Tectonic Warning 
+                         Protocol. If suction events reach the surface, 
+                         activate maritime misdirection "Storm-Front" 
+                         narratives.
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+Proto-Thal represents the ultimate expression of filter-feeding biology. 
+Its ability to remain awake for 12,000 years while supporting an entire 
+island-ecosystem suggests a metabolic efficiency previously thought 
+impossible.
+
+The "Pressure-Adjustment" movements are a biological necessity. Without 
+them, the sea-weight would eventually crush the subject's internal 
+organs. These events are not signs of aggression, but "Maintenance of 
+the Form."
+
+═══════════════════════════════════════════════════════════════════════
+                      TRANSFORMATION NOTES
+═══════════════════════════════════════════════════════════════════════
+
+CURRENT VIABILITY:       INVIOLABLE
+
+TRANSFORMATION NOTES:
+Transformation is prohibited. However, the SCT (Sovereign-Chain 
+Transformation) team is investigating whether the subject's plankton-
+attraction method can be mimicked to manage oceanic biological health 
+at a regional scale.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+The subject's suction force once accidentally consumed an automated 
+A.C.T drone in 2012. Acoustic logs recorded a 4-second "Vibration of 
+Disgust" from the subject before the drone's remains were expelled at 
+high velocity.
+
+NOTE 002:
+Proto-Thal's consciousness appears to be entirely focused on the 
+balance of water and weight. It does not respond to human attempts 
+at communication, viewing us as no more significant than the plankton 
+it consumes.
+
+END OF FILE

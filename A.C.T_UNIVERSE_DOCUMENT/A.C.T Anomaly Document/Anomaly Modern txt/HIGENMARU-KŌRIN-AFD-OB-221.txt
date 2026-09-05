@@ -1,0 +1,194 @@
+A.C.T FACILITY — ANOMALY FILE
+HIGENMARU-KŌRIN-AFD-OB-221
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-221
+TITLE I:             HIGENMARU-KŌRIN (緋玄丸 - 紅鱗)
+TITLE II:            THE DUAL-EDGE DICHOTOMY / THE CRIMSON AND ONYX BLADE
+
+FIELD TYPE:          OB — Object
+                     RE — Reality-Event (Selective Material Breach)
+
+CLEARANCE REQUIRED:  Level 4 / Tactical Review Desk
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        3 (High-Lethality Melee Weaponry)
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           CONTAINED-STUDY
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   1978-02-14
+VERIFICATION DATE:   1978-03-02
+LOCATION:            Seized from a private collection / Kyoto, Japan.
+DISCOVERY METHOD:    Investigation into an "Impossible Assassination"—a 
+                     target was decapitated inside a high-security steel 
+                     safe while the safe's exterior remained unmarred.
+
+INITIAL RESPONSE
+OPERATION:           Sharp Shadow
+RESPONDING UNIT:     ERE Recovery Team / Artifact Suppression Desk
+RESPONDING FIELD
+OPERATOR:            [ REDACTED ]
+CIVILIAN EXPOSURE:   Zero.
+AMNESTIC DEPLOYED:   N/A.
+NARRATIVE STATUS:    The incident was suppressed as a technical failure 
+                     of the safe's locking mechanism. Converted to AFD 
+                     registry in 1985.
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-221 consists of a curved single-handed sword named **緋玄丸 
+(HIGENMARU)** and its specialized scabbard named **紅鱗 (KŌRIN)**. The 
+pair measures 90 cm in length and possesses unique physical and 
+metaphysical traits derived from their disparate material compositions.
+
+PHYSICAL CHARACTERISTICS:
+1. THE BLADE (**緋玄丸 / HIGENMARU**): 
+   Refers to the 90 cm primary asset. Denotes the synthesis of the 
+   pulsating scarlet upper edge (Absolute Cutting Force) and the 
+   matte-black lower edge (Selective Causal Breach). The *-maru* suffix 
+   addresses the weapon's autonomous biological siphoning routine as a 
+   distinct, predatory entity.
+   - THE CRIMSON EDGE: The upper edge is a deep, pulsating crimson red. 
+     The material is functionally absolute; it can slash through any 
+     known matter without resistance or edge-degradation.
+   - THE ONYX EDGE: The lower edge is a matte-black finish that appears 
+     to "absorb" local light. This edge possesses a "Selective Causal 
+     Breach" property. It can "force slash" a designated target within 
+     the wielder's line of sight, cutting only the intended object while 
+     leaving all surrounding material entirely unaffected.
+
+2. THE HILT: Composed of a rare, non-terrestrial **Blue Wood**. The 
+   grain of the wood is fitted with a **Pressure-Sensitive Disc** that 
+   monitors the wielder's biological output and stamina-drain status.
+
+3. THE SCABBARD (**紅鱗 / KŌRIN**): 
+   Refers to the containment scabbard architecture. Logged after the 
+   structural analysis confirmed an exterior weave of unknown, 
+   thermally fluctuating scales layered over anomalous red wood.
+
+THE COST OF USE:
+Utilization of **緋玄丸 (HIGENMARU)** requires an immense expenditure of 
+biological stamina. The weapon establishes a metabolic link with the 
+wielder to fuel its "Focus" and "Selective Breach" subroutines. 
+Prolonged usage (exceeding 30 seconds) results in acute exhaustion, 
+syncope, and permanent [ BLANK ] depletion in non-anomalous humans.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Absolute Cutting Force (Crimson Edge). Total negation 
+                     of material hardness or structural integrity.
+
+SECONDARY EFFECT:    Selective Intent-Based Slashing (Onyx Edge). The 
+                     ability to strike a target through intervening matter 
+                     without damaging the medium.
+
+TERTIARY EFFECT:     Metabolic Siphoning. The weapon uses the wielder's 
+                     stamina as a tactical fuel-source.
+
+TRIGGER CONDITION:   Manual draw from **紅鱗 (KŌRIN)** / Intent to strike.
+
+RANGE / AREA OF
+INFLUENCE:           Physical reach / 5m Intent-Radius.
+
+TEMPORAL BEHAVIOR:   Constant.
+
+REALITY INTERACTION: Causal-Matter Decoupling / Biological Energy 
+                     Conversion.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-221 is contained in a "High-Tension Magnetic Locker" at 
+ACT-SITE-01-US-W.
+
+1. SHEATHED MANDATE: **緋玄丸 (HIGENMARU)** must remain inside 
+   **紅鱗 (KŌRIN)** at all times. The scabbard is fitted with a 
+   **[ REDACTED ]-phase lock** that can only be disengaged via a 
+   Level-4 biometric key.
+
+2. STASIS STORAGE: The locker is lined with **Abyssal Masonry (Item 20)** 
+   and monitored by **Digital Resonance Sensors (Item 10)**. Any 
+   vibration in the "Crimson Frequency" triggers an immediate 
+   automated lockdown.
+
+3. PERSONNEL LIMIT: No personnel with a "Low Stamina" medical rating 
+   are permitted to handle the artifact. Training with the weapon is 
+   restricted to **Vesper-Pattern Tactical AI (Item 40)** 
+   simulations to avoid personnel fatalities.
+
+CONTAINMENT SITE:        ACT-SITE-01-US-W — Redwood Veil Complex
+SITE TYPE:               Primary Site / Heavy Artifact Archive
+JURISDICTIONAL
+AUTHORITY:               Redwood Veil Command / Tactical Review Desk
+CONTAINING DIVISION:     Object Containment Division
+REQUIRED PERSONNEL:      1 Artifact Archivist, 2 Security Officers.
+MONITORING FREQUENCY:    Weekly inventory audit.
+MAINTENANCE CYCLE:       N/A.
+
+BREACH PROTOCOL:         In the event of an unsheathed breach, utilize 
+                         **Magnetic Torsion Restraints (Item 05)** to 
+                         lock the blade in space. Do not attempt to 
+                         parry with standard equipment.
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+The **HIGENMARU-KŌRIN** is an apex example of a "Causal Tool." The onyx 
+side suggests a high-level mastery of intent-based reality warping, 
+while the crimson side is a brute-force violation of material physics. 
+
+The **Blue Wood** hilt has been cross-referenced with the **Dark World 
+(AFD-PL-932)** archive; while not an exact match to **Pale Wood**, it 
+shares similar trace elements.
+
+═══════════════════════════════════════════════════════════════════════
+                      TRANSFORMATION NOTES
+═══════════════════════════════════════════════════════════════════════
+
+CURRENT VIABILITY:       CONTAINED-STUDY
+
+TRANSFORMATION NOTES:
+The Engineering Division is investigating whether the "Selective 
+Slashing" effect can be reverse-engineered for surgical use. If we can 
+"Cut" the anomalous growth without harming healthy tissue, subjects like 
+**Vivienne Argent** could potentially be reverted.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+Testing on E-Class subjects resulted in a 100% mortality rate due to 
+"Total Stamina Collapse" when attempting a cross-vault strike. Use of 
+human wielders is currently suspended.
+
+NOTE 002:
+[STRUCTURAL DATA OMITTED]
+
+END OF FILE

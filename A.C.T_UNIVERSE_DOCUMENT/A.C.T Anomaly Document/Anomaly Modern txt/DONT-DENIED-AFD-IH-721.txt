@@ -1,0 +1,164 @@
+A.C.T FACILITY — ANOMALY FILE
+DONT-DENIED-AFD-IH-721
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-IH-721
+TITLE I:             DONT DENIED
+TITLE II:            THE OBJECTIVE CUBE / THE UNDENIABLE TRUTH
+
+FIELD TYPE:          IH — Info Hazard
+                     ME — Memetic (Cognitive Constraint)
+
+CLEARANCE REQUIRED:  Level 2
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   INERT
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        1 (Informational Constraint)
+
+FRACTURE INDEX —
+SUB-THREAT:          HARMLESS
+
+TRANSFORMATION
+VIABILITY:           STABILIZED
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   1994-03-12
+VERIFICATION DATE:   1994-03-15
+LOCATION:            [ REDACTED ] Philosophy Department / London, UK.
+DISCOVERY METHOD:    Reports of a "Debate Lockdown" where researchers were 
+                     incapable of disagreeing on the description of a 
+                     paperweight.
+
+INITIAL RESPONSE
+OPERATION:           Clear Sight
+RESPONDING UNIT:     Site-03 Archival Recovery
+RESPONDING FIELD
+OPERATOR:            Archivist Nora Ashfield
+CIVILIAN EXPOSURE:   3 confirmed (Faculty members).
+AMNESTIC DEPLOYED:   Yes — 004-G Grade.
+NARRATIVE STATUS:    The item was seized and replaced with a replica.
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-IH-721 is a 10 cm cubic block composed of an unidentified yellow 
+material. The texture is smooth, resembling polished resin or aged 
+ivory, though it possesses the weight and density of **Abyssal Basalt 
+(Item 50)**.
+
+PHYSICAL CHARACTERISTICS:
+1. TOP SURFACE: Features a carved "Simple EYE" symbol.
+2. LATERAL SIDES: Each side contains a seasonal icon:
+   - Summer (Sun)
+   - Winter (Ice)
+   - Spring (Leaf)
+   - Fall (Dead Branch)
+3. BOTTOM SURFACE: Features a carved "Closed EYE" symbol.
+
+ANOMALOUS PROPERTIES:
+AFD-IH-721 is a visual Information Hazard that enforces "Absolute 
+Descriptive Honesty." 
+
+If a sentient subject visually perceives the object, they become 
+incapable of denying or lying about its physical properties. Any 
+attempt to provide a false description (e.g., claiming it is blue, 
+larger than 10cm, or made of wood) results in an immediate vocal and 
+cognitive block. The subject's mind is "Filled" with the correct 
+parameters of the object, overriding their ability to deceive others 
+or themselves regarding its appearance.
+
+The effect is persistent following a single visual exposure. While the 
+hazard is not physically dangerous, it creates a permanent cognitive 
+constraint regarding this specific data-set.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Enforced Veracity. Viewers are physically and 
+                     mentally unable to lie about the object’s look, 
+                     material, or shape.
+
+SECONDARY EFFECT:    Cognitive Imprinting. The correct description of the 
+                     subject remains active in the viewer's mind 
+                     indefinitely.
+
+TRIGGER CONDITION:   Visual perception of the object.
+
+RANGE / AREA OF
+INFLUENCE:           Line-of-sight (Trigger) / Infinite (Post-exposure).
+
+TEMPORAL BEHAVIOR:   Permanent cognitive shift.
+
+REALITY INTERACTION: Informational Fixation / Causal Synchronization.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-IH-721 is stored in an opaque locker at Site-03.
+
+1. VISUAL DENIAL: The subject must remain shrouded in a non-transparent 
+   cloth when not in testing. Unfiltered observation is restricted to 
+   authorized personnel only.
+
+2. DOCUMENTATION CONTROL: To prevent the spread of the info-hazard via 
+   detailed description, this file utilizes **Narrative Seal Varnish 
+   (Item 08)** to ensure the facts remain static.
+
+3. BLIND HANDLING: If the object must be moved for cleaning or 
+   inventory, staff are encouraged to use tactile-only methods or 
+   **Chrono-Stuttered Visors (Item 09)** to avoid direct imprinting.
+
+CONTAINMENT SITE:        ACT-SITE-03-JP-E — Kurokawa Archive Node
+SITE TYPE:               Primary Site / Info-Hazard and Memetic Storage
+JURISDICTIONAL
+AUTHORITY:               Kurokawa Command / Info-Hazard Desk
+CONTAINING DIVISION:     Archiver Division
+REQUIRED PERSONNEL:      1 Archivist.
+MONITORING FREQUENCY:    Annual.
+MAINTENANCE CYCLE:       N/A.
+
+BREACH PROTOCOL:         The subject poses no physical threat. If a 
+                         visual breach occurs, the affected personnel are 
+                         to be debriefed to ensure the "Undeniable Truth" 
+                         does not interfere with unrelated A.C.T 
+                         secrecy protocols.
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-IH-721 represents a "Pure Information Anomaly." It does not 
+manipulate reality; it manipulates the *reporting* of reality. 
+
+Researchers are investigating whether this effect can be transformed 
+into a training tool for new Recruits. By exposing staff to a 
+controlled, "Undeniable" truth, we may be able to calibrate their 
+resilience against more hostile deceptions found in the **715-Series**.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+A trial where a subject was offered $1,000,000 to say the block was 
+'Green' resulted in the subject suffering a localized throat-seizure 
+until they recanted and stated it was 'Yellow.' 
+
+END OF FILE

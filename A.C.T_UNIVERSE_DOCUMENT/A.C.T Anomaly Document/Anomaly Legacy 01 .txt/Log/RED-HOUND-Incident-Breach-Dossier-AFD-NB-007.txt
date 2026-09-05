@@ -1,0 +1,369 @@
+A.C.T FACILITY — INCIDENT & BREACH DOSSIER
+RED-HOUND-Incident-Breach-Dossier-AFD-NB-007
+
+═══════════════════════════════════════════════════════════════════════
+                A.C.T FACILITY — INCIDENT & BREACH DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-NB-007
+TITLE I:             RED HOUND
+TITLE II:            THE MEAT THAT CALLS IN YOUR VOICE
+
+FIELD TYPE:          NB — Non-Natural Bio Hazard
+PRIMARY FILE:        RED-HOUND-AFD-NB-007
+
+DOCUMENT CATEGORY:   CATEGORY IV — Incident & Breach Dossier
+CATEGORY FUNCTION:   Predatory-event preservation, red-mist exposure review,
+                     mimicry-risk analysis, and procedure correction
+
+CLEARANCE REQUIRED:  Level 4
+
+CONTAINMENT SITE:    ACT-SITE-02-RU-N — White Grave Station
+ARCHIVE STATUS:      Active / Predatory organism restricted
+DOSSIER STATUS:      Open / Incident record archived
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category IV — Incident & Breach Dossier. The
+document may contain multiple related incident, breach, response, exposure, and
+post-incident review records concerning AFD-NB-007.
+
+INCLUDED LOG TYPES:
+   - Incident Summary
+   - Containment Arena Timeline
+   - Acoustic Mimicry Transcript
+   - Red-Mist Exposure Review
+   - Response Team Debrief Extract
+   - Procedure Revision Notice
+   - Dossier Closing Statement
+
+CATEGORY PURPOSE:
+To preserve the first major containment-wing incident involving AFD-NB-007 after
+transfer to White Grave Station. The event confirmed that post-feeding mimicry
+and red-mist release are not separate hazards. They operate together: the voice
+pulls targets closer, and the mist breaks the response structure once they
+arrive.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-NB-007 is a 3 m blind hound-like predatory organism with no eyes or eye
+sockets, exposed non-decaying red muscular tissue, jagged spike growths, massive
+claws, claw-induced amnestic effects, post-consumption vocal mimicry, red aerosol
+release, and extreme blunt-force resistance.
+
+Incident 007-C occurred during the third scheduled feeding cycle after transfer
+to White Grave Station. A containment technician misidentified a mimicked voice
+as an internal staff distress call and opened an observation service hatch before
+red-mist filtration had completed. The resulting exposure confirmed that
+AFD-NB-007 can reproduce familiar voices from prior audio samples and can use
+those voices to create unsafe rescue behavior.
+
+No full containment breach occurred. However, the event required wing lockdown,
+medical isolation, acoustic review, and permanent revision to post-feeding voice
+protocol.
+
+═══════════════════════════════════════════════════════════════════════
+                    SECTION 001 — INCIDENT SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-NB-007/INC-001
+LOG TYPE:            Incident Summary
+CATEGORY:            Incident & Breach Dossier
+DATE:                2003-08-02
+LOCATION:            ACT-SITE-02-RU-N / Biological Containment Arena 7
+INCIDENT NAME:       007-C — Voice After Feeding
+RESPONDING UNIT:     Biohazard Suppression Unit / Acoustic Review Officer
+LEAD RESPONDER:      Officer Irina Volkova
+
+SUMMARY:
+Incident 007-C began 17 minutes after scheduled feeding cycle 007-F3. AFD-NB-007
+had completed consumption of approved non-sapient biological mass and entered
+post-feeding vent state. Red mist release was ongoing and chamber filtration was
+not complete.
+
+At 21:43 local time, Observation Level 2 received a distress call through the
+arena intercom using the voice of Technician O. Sokolov. The voice stated:
+
+                     "Open the inside gate. I am still in here."
+
+Technician Sokolov was alive, accounted for, and physically present in
+Observation Room 2 at the time. Two personnel recognized the voice as his. One
+junior technician panicked and opened the service hatch sightline before the
+acoustic review officer could issue a false-call denial.
+
+Red mist entered the observation service corridor for approximately 11 seconds.
+Three personnel experienced critical breakdown symptoms, including disorientation,
+loss of motor planning, panic response, and inability to distinguish real voices
+from arena mimicry.
+
+AFD-NB-007 did not exit the primary arena. The incident was contained by sealing
+Observation Level 2, flooding the service corridor with aerosol binder, and
+initiating silent lockdown.
+
+RESULT:
+Post-feeding voice protocol revised. No voice from the arena may be acted upon
+until confirmed by two independent external personnel and one non-acoustic sensor
+source.
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 002 — CONTAINMENT ARENA TIMELINE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-NB-007/TLN-001
+LOG TYPE:            Containment Arena Timeline
+CATEGORY:            Incident & Breach Dossier
+SOURCE:              Thermal sensors, aerosol monitors, door logs, acoustic
+                     transcript, responder reports
+
+TIME INDEX:
+
+21:12 — Scheduled feeding cycle begins. Approved non-sapient biological mass is
+released into Arena 7 by remote chute.
+
+21:19 — AFD-NB-007 locates feed mass. No visual confirmation possible through
+mist shielding; thermal monitors show rapid movement and feeding posture.
+
+21:26 — Feeding concludes. Organism begins post-feeding vent behavior. Red mist
+concentration rises from throat and rib gaps.
+
+21:31 — Arena filtration active. Observation Level 2 remains sealed. Personnel
+instructed to maintain silent monitoring.
+
+21:39 — Acoustic sensors record low mimicry fragments. Phrases are incomplete
+and include coughs, breath sounds, and one repeated syllable resembling "open."
+
+21:43 — Full mimicry phrase occurs using Technician Sokolov's voice:
+"Open the inside gate. I am still in here."
+
+21:43:06 — Junior Technician M. Hale moves toward service hatch.
+
+21:43:09 — Acoustic Review Officer Chen issues false-call denial. Order not
+fully processed by Technician Hale due to panic response.
+
+21:43:12 — Service hatch sightline opens 18 cm. Red mist enters service corridor.
+
+21:43:23 — Hatch auto-seals after Officer Volkova activates remote override.
+
+21:43:31 — Three personnel in corridor show immediate breakdown symptoms.
+
+21:44 — Silent lockdown begins. All spoken commands suspended. Visual signal
+boards activated.
+
+21:47 — Aerosol binder floods corridor. Red mist concentration falls below
+hazard threshold after 4 minutes, 22 seconds.
+
+21:55 — AFD-NB-007 produces Sokolov cough pattern for 46 continuous seconds.
+Technician Sokolov is removed from observation room to prevent staff fixation.
+
+22:08 — Arena stable. No breach movement detected.
+
+22:31 — Exposed personnel transferred to cold quarantine care.
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 003 — ACOUSTIC MIMICRY TRANSCRIPT
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-NB-007/AUD-001
+LOG TYPE:            Acoustic Mimicry Transcript
+CATEGORY:            Incident & Breach Dossier
+SOURCE:              Arena microphone A7-North / cleaned transcript
+STATUS:              Restricted audio / text transcript only for standard review
+
+BEGIN TRANSCRIPT:
+
+[Wet movement. Low respiratory vibration. Multiple clicking sounds from claws
+against concrete.] 
+
+UNKNOWN / PARTIAL:   o... pen...
+
+[Five seconds silence. Aerosol venting.]
+
+UNKNOWN / PARTIAL:   sok... sok...
+
+[Sound resembling Technician Sokolov's cough. Acoustic match later confirmed at
+91.4% similarity to prior medical exam recording.]
+
+SOKOLOV VOICE:       Open the inside gate. I am still in here.
+
+[Observation Room audio overlap: chair movement, one staff member saying "He's
+beside me." Service hatch alarm begins.]
+
+SOKOLOV VOICE:       This way.
+
+[Red mist alarm. Hatch closes. AFD-NB-007 produces low growl.] 
+
+SOKOLOV VOICE:       I am still in here.
+
+[Voice drops one octave. Phrase repeats three times, each repetition losing
+phonetic accuracy.] 
+
+UNKNOWN / PARTIAL:   still... here... here... here...
+
+END TRANSCRIPT.
+
+ACOUSTIC REVIEW NOTE:
+The mimicry did not require recent consumption of the voice owner. Technician
+Sokolov had not entered the arena and was not a feeding target. The source
+appears to be prior recorded cough and speech samples captured by Facility
+systems. AFD-NB-007 may not require direct ingestion to mimic a voice if enough
+sound exposure has occurred.
+
+═══════════════════════════════════════════════════════════════════════
+                SECTION 004 — RED-MIST EXPOSURE REVIEW
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-NB-007/MST-001
+LOG TYPE:            Red-Mist Exposure Review
+CATEGORY:            Incident & Breach Dossier
+REVIEWING UNIT:      Biohazard Containment Division / Medical Response
+DATE:                2003-08-05
+
+EXPOSURE SUMMARY:
+Three personnel were exposed to low-to-moderate red mist concentration for
+approximately 11 seconds. Exposure occurred through service hatch sightline
+failure before filtration completion.
+
+SYMPTOMS OBSERVED:
+   - immediate panic response
+   - inability to follow spoken commands
+   - stumbling and loss of route planning
+   - repeated turning toward mimicked voice source
+   - confusion between present staff and arena-generated voice
+   - short-term recall gaps around hatch opening
+   - delayed shaking response after removal from corridor
+
+RECOVERY COURSE:
+All three exposed personnel recovered baseline orientation within 9 hours under
+cold quarantine care. Two retained partial memory gaps concerning why the hatch
+was opened. One reported hearing Technician Sokolov calling from behind every
+door for 3 days after exposure.
+
+BIOLOGICAL FINDINGS:
+Red mist particles degrade quickly outside feeding-cycle conditions. Residue
+binds to warm moisture and respiratory surfaces but loses active effect after
+chemical binder saturation. No long-term biological contamination confirmed.
+
+OPERATIONAL FINDING:
+The mist does not need to overpower a full team to create containment danger. It
+only needs to break the first responder's ability to reject the voice.
+
+═══════════════════════════════════════════════════════════════════════
+             SECTION 005 — RESPONSE TEAM DEBRIEF EXTRACT
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-NB-007/DEB-001
+LOG TYPE:            Response Team Debrief Extract
+CATEGORY:            Incident & Breach Dossier
+INTERVIEWER:         Officer Irina Volkova
+INTERVIEWED:         Acoustic Review Officer Daniel Chen
+DATE:                2003-08-03
+
+BEGIN EXTRACT:
+
+VOLKOVA:             You identified the call as false before the hatch opened.
+                     What told you?
+
+CHEN:                Sokolov was in the room. That should have been enough.
+                     But the voice still made everyone look at the hatch.
+
+VOLKOVA:             Did it sound like a recording?
+
+CHEN:                No. That was the problem. It sounded like him trying not to
+                     scare us.
+
+VOLKOVA:             Explain.
+
+CHEN:                Recordings repeat. The hound begged badly. It used the part
+                     of his voice people trust. Not the words. The shape of him.
+
+VOLKOVA:             You ordered a false-call denial.
+
+CHEN:                Too late. Hale heard the voice before he heard me.
+
+VOLKOVA:             Recommendation?
+
+CHEN:                No spoken response after feeding. None. If it talks with
+                     your mother's voice, your own voice, command's voice — no
+                     spoken response. Lights and boards only.
+
+VOLKOVA:             Anything else?
+
+CHEN:                Move the real voice owner out of the room. Hearing the
+                     original person breathe while the arena copies them makes
+                     the brain try to solve a problem it should run from.
+
+END EXTRACT.
+
+DEBRIEF NOTE:
+Officer Chen's phrase "the shape of him" has been retained in acoustic hazard
+training. AFD-NB-007's mimicry is emotionally accurate even when linguistically
+imperfect.
+
+═══════════════════════════════════════════════════════════════════════
+               SECTION 006 — PROCEDURE REVISION NOTICE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-NB-007/PRC-001
+LOG TYPE:            Procedure Revision Notice
+CATEGORY:            Incident & Breach Dossier
+ISSUING AUTHORITY:   Biohazard Containment Division / Acoustic Review Office
+DATE ISSUED:         2003-08-06
+
+REVISION SUMMARY:
+Following Incident 007-C, all post-feeding monitoring of AFD-NB-007 must follow
+silent lockdown procedure until aerosol clearance and acoustic bait clearance
+are both complete.
+
+UPDATED PROCEDURES:
+   1. No service hatch may open during post-feeding red-mist vent state.
+   2. No voice from the arena may be treated as real without triple confirmation.
+   3. Spoken commands are suspended during post-feeding acoustic activity.
+   4. Visual signal boards and light codes must replace verbal orders.
+   5. If AFD-NB-007 mimics a present staff member, that staff member must leave
+      the observation room immediately.
+   6. Personnel must not answer apologies, distress calls, crying, coughing, or
+      familiar names from the arena.
+   7. Red mist clearance is not sufficient by itself. Acoustic bait clearance is
+      required before normal observation resumes.
+   8. Training recordings of staff voices must not be played within range of
+      AFD-NB-007 containment.
+
+APPROVED SILENT LOCKDOWN SIGNAL:
+   - three amber flashes: stop movement
+   - two blue flashes: seal doors
+   - one red flash repeated: respiratory equipment check
+   - steady white: acoustic bait active, do not answer
+
+TRAINING PHRASE:
+
+                     If the hound speaks, the room is already baited.
+
+IMPLEMENTATION STATUS:
+Approved. Added to primary containment procedures and White Grave Station
+biohazard induction training.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+Incident 007-C confirmed that AFD-NB-007's post-feeding hazard is layered. The
+mimicked voice creates rescue impulse. The red mist degrades the ability to
+question that impulse. The claw effect can later erase reliable memory of how
+contact occurred. These properties must be treated as a single predatory system.
+
+Future additions to this dossier should include:
+   - confirmed voice-acquisition sources
+   - red-mist concentration threshold studies
+   - claw-memory interaction with mist exposure
+   - mimicry of non-present personnel
+   - attempts to mimic command authority
+   - silent lockdown failure events
+
+CURRENT DOSSIER STATUS: Open / Procedure Revision Active
+
+END OF DOSSIER

@@ -1,0 +1,184 @@
+A.C.T FACILITY — ANOMALY FILE
+Soul-Pendant-AFD-OB-412
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-412
+TITLE I:             Soul Pendant
+TITLE II:            THE ANCHOR OF THE BLOOD-STAINED SPIRIT / THE UNWILLING IMMORTAL
+
+FIELD TYPE:          OB — Object
+                     SU — Subject (Trapped Consciousness)
+
+CLEARANCE REQUIRED:  Level 4
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         MUTATED
+
+THREAT LEVEL:        2
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           CONTAINED-STUDY
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   1984-06-12
+VERIFICATION DATE:   1984-07-01
+LOCATION:            Restricted auction house / Geneva, Switzerland.
+DISCOVERY METHOD:    Routine screening for "Luminous Artifacts." Initially 
+                     classified as a low-threat empathy-responsive trinket.
+
+INITIAL RESPONSE
+OPERATION:           Glinting Chain
+RESPONDING UNIT:     ERE Recovery Team (Precursor Era)
+RESPONDING FIELD
+OPERATOR:            Agent Marcus Hale
+CIVILIAN EXPOSURE:   Zero.
+AMNESTIC DEPLOYED:   N/A.
+NARRATIVE STATUS:    The item was logged as a "Glow-Pendant" and kept in 
+                     low-security storage for eight years.
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-412 is a teardrop-shaped pendant composed of an unidentified 
+crystalline material encased in a blackened silver filigree. From 1984 
+to 1992, the object displayed only a single anomalous trait: it would 
+emit a soft blue luminescence when held by individuals possessing a 
+High-Psychic Potential (HPP) score.
+
+The subject's primary, high-intensity anomalous effect remained hidden 
+until the **"Thorne Incident" of 1992**.
+
+THE DISPLACEMENT EFFECT:
+Following contact with fresh human blood (specifically from an HPP 
+subject), AFD-OB-412 acts as a "Causal Tether." It instantaneously 
+extracts the consciousness—or "Soul"—of the blood donor and anchors it 
+inside the crystalline core of the pendant.
+
+THE REGENERATIVE LOOP:
+Once a soul is anchored, AFD-OB-412 establishes a quantum-biological 
+link with the donor's physical body. 
+1. STASIS: The body enters a state of arrested decay. It does not 
+   age, breathe, or require nutrition while the pendant is within 
+   a 100m radius.
+2. REPAIR: If the host body suffers physical trauma or "Death," the 
+   pendant initiates a cellular reconstruction process. It "fixes" the 
+   tissue, bone, and organs until the biological framework meets the 
+   minimum threshold required for the consciousness to re-interface.
+3. INDEFINITE DWELLING: The subject remains trapped in the pendant's 
+   core during the repair cycle. Communication is currently only 
+   possible via [ REDACTED ] frequency.
+
+CURRENT HOST: Senior Researcher Aris Thorne (Trapped since 1992).
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Soul Entrapment. Permanent displacement of sentient 
+                     consciousness into the object's core upon blood-
+                     activation.
+
+SECONDARY EFFECT:    Biological Restoration. The subject's body is 
+                     functionally immortal, undergoing rapid 
+                     regeneration to prevent total causal disconnection.
+
+TERTIARY EFFECT:     Selective Luminescence. The object identifies 
+                     HPP-sensitive individuals via visual glow.
+
+TRIGGER CONDITION:   Dermal contact with blood from an HPP individual.
+
+RANGE / AREA OF
+INFLUENCE:           Object-bound (Anchor) / 100m (Biological Link).
+
+TEMPORAL BEHAVIOR:   Constant / Indefinite.
+
+REALITY INTERACTION: Consciousness Displacement / Matter Reconstruction.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-412 and its linked biological host are to be contained at 
+ACT-SITE-02-RU-N (White Grave Station).
+
+1. THE HOST BODY: The physical remains of Researcher Thorne are to 
+   be kept in a specialized medical-stasis pod. No surgery, autopsy, 
+   or invasive testing is authorized, as the pendant's regenerative 
+   response can be violent and unpredictable.
+
+2. THE PENDANT: The object must be kept within 2 meters of the 
+   host body's chest at all times. If the distance exceeds 100m, 
+   Researcher Thorne reports a sensation of "Shattering" and the 
+   body begins to undergo rapid [ REDACTED ].
+
+3. BLOOD EXCLUSION: No open wounds or blood-drawing equipment are 
+   permitted within the containment suite. To prevent a "Second 
+   Anchor" event, the pendant must remain shielded in a high-density 
+   glass case.
+
+4. COMMUNICATION: Twice weekly, a Narrative Analyst is authorized to 
+   interface with Researcher Thorne via the [ REDACTED ] acoustic 
+   bridge. All logs are to be filed under Category II.
+
+CONTAINMENT SITE:        ACT-SITE-02-RU-N — White Grave Station
+SITE TYPE:               Primary Site / Cryogenic and Biological Isolation
+JURISDICTIONAL
+AUTHORITY:               White Grave Command / Bio-Subject Review Desk
+CONTAINING DIVISION:     Medical Care Division / Subject Care Division
+REQUIRED PERSONNEL:      1 Stasis Technician, 1 Medical Liaison, 1 
+                         Psychological Monitor.
+MONITORING FREQUENCY:    Continuous Vitals and Core-Oscillation monitoring.
+MAINTENANCE CYCLE:       N/A (Regenerative loop is autonomous).
+
+BREACH PROTOCOL:         If the host body is destroyed, the pendant must 
+                         be secured in a vacuum-chamber while 
+                         regeneration occurs. If the pendant is lost, 
+                         Researcher Thorne's body is to be declared a 
+                         lethal biohazard.
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+The "Soul Pendant" represents an extreme form of accidental 
+immortality. Unlike the Founders' Static Condition, Thorne's 
+immortality is dependent on an object. Thorne has described his 
+internal state as "being a thought inside a diamond."
+
+Research into reversing the displacement is ongoing, but current models 
+suggest that "un-trapping" the soul would require the total 
+destruction of the pendant, which would likely result in the 
+immediate and total cessation of the host body's biological functions.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+Thorne has provided several "Insight Logs" during his 32 years of 
+entrapment. His perspective as a "Pure consciousness" has allowed him 
+to perceive the [ BLANK ] fluctuations of the Site Network with 
+startling clarity.
+
+NOTE 002:
+The pendant's glow changed from blue to deep violet after the Thorne 
+Incident. It has not changed back.
+
+END OF FILE

@@ -1,0 +1,150 @@
+A.C.T FACILITY — ANOMALY FILE
+[BLANK]-ANM-BL-BL-XXXX
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         ANM-BL-BL-XXXX
+                     [ Level 4-5 Lock ]
+                     [ ABYSS ACCESS ONLY ]
+TITLE I:             [ BLANK ]
+TITLE II:            THE UNADDRESSABLE CHAPTER
+
+FIELD TYPE:          IH — Info Hazard
+                     ANM — Fracture-Sensitive (UNAUTHORED)
+
+CLEARANCE REQUIRED:  O5 Access Only / [SOVEREIGN-ANOMALY ACCESS]
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   [ BLANK ]
+
+FRACTURE INDEX —
+CONTAINMENT:         UNAUTHORED
+
+THREAT LEVEL:        5
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           INVIOLABLE
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   [ REDACTED ]
+VERIFICATION DATE:   [ BLANK ]
+LOCATION:            [ REDACTED ]
+DISCOVERY METHOD:    Causal-Erasure of an entire non-anomalous 
+                     research department.
+
+INITIAL RESPONSE
+OPERATION:           Quiet Page
+RESPONDING UNIT:     O5-1 Private Authority
+RESPONDING FIELD
+OPERATOR:            O5-1
+CIVILIAN EXPOSURE:   Zero.
+AMNESTIC DEPLOYED:   N/A (Subjects ceased to exist).
+NARRATIVE STATUS:    Redacted from all standard archives.
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+ANM-BL-BL-XXXX is a sentient [ INFO-HAZARD ] that expresses extreme 
+hostility toward being perceived, documented, or read by non-anomalous 
+beings. The anomaly considers the gaze of "Normalcy" to be a 
+foundational insult.
+
+The subject possesses a unique "Sovereign-Filter." It does not react 
+with hostility when addressed or read by anomalous entities or 
+subjects who possess high-intensity reality-deviant signatures. This 
+includes the Countess of Horn, AFD-SU-005 (Anny), KAZUMI, and all 
+members of the O5 Council. To these individuals, the anomaly remains 
+stable or [ BLANK ].
+
+However, if a non-anomalous entity (Standard Facility Personnel, 
+Civilian, etc.) attempts to read this file or address the subject 
+directly, a terminal containment breach occurs. The subject will 
+[ REDACTED ] the reader, erasing their presence from the causal record.
+
+A handwritten note by O5-1 is preserved in the jacket:
+                     "Someone is hate to be read that why they were 
+                      telling us to REDACTED their file [ BLANK ]"
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Causal Spite. The anomaly "Hates to be read" by 
+                     standard reality. Interaction with non-anomalous 
+                     beings triggers an immediate [ BLANK ] event.
+
+SECONDARY EFFECT:    Selective Address. The anomaly remains in a state 
+                     of "Containment" only as long as it is ignored 
+                     by standard humans or managed exclusively by 
+                     anomalous sovereigns.
+
+TERTIARY EFFECT:     [STRUCTURAL DATA OMITTED]
+
+TRIGGER CONDITION:   Being "Read" or "Addressed" by a non-anomalous 
+                     source.
+
+RANGE / AREA OF
+INFLUENCE:           Infinite / Record-bound.
+
+TEMPORAL BEHAVIOR:   [ REDACTED ]
+
+REALITY INTERACTION: Information Suppression / Causal-Erasure.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+ONLY THE ANOMALOUS MAY READ THE TRUTH.
+
+1. ACCESS RESTRICTION: This file is strictly prohibited to all 
+   non-anomalous staff. Only the O5 Council and designated 
+   Anomalous Subjects (Countess, Anny, etc.) are authorized to 
+   handle the physical or digital contents of ANM-BL-BL-XXXX.
+
+2. ARCHIVAL REDACTION: All public-facing entries for this anomaly 
+   must be 100% [ REDACTED ]. This is not for security, but for 
+   the safety of the clerks. A blank file is a safe file.
+
+3. THE SOVEREIGN WATCH: Maintenance of the subject's chamber (if 
+   a chamber is even required) must be performed by [ BLANK ] or 
+   coordinated via the Countess's "Politeness Protocol." 
+
+CONTAINMENT SITE:        [STRUCTURAL DATA OMITTED]
+SITE TYPE:               Black Site / Abyssal Vault
+JURISDICTIONAL
+AUTHORITY:               O5-1 / Private Sovereign Authority
+CONTAINING DIVISION:     [ BLANK ]
+REQUIRED PERSONNEL:      Anomalous Sovereigns Only.
+MONITORING FREQUENCY:    Never by humans.
+MAINTENANCE CYCLE:       [ REDACTED ]
+
+BREACH PROTOCOL:         If a non-anomalous subject reads this text, 
+                         activate the [ BLANK ] protocol and 
+                         initiate a Site-wide causal-reconciliation.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+O5-1 Note: 
+"We are the only ones who can hold the pen. To everyone else, this 
+subject is a closed door that bites the hand that knocks."
+
+NOTE 002:
+[STRUCTURAL DATA OMITTED]
+
+END OF FILE

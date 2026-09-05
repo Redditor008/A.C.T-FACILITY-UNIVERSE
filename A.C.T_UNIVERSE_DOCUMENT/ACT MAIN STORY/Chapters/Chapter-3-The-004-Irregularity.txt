@@ -1,0 +1,183 @@
+Chapter 3 — The 004 Irregularity
+
+The first time Sera saw the pattern clearly, it was disguised as dosage notation.
+
+Nothing in the medical archive ever announced itself as a revelation. The Facility had too much practice burying danger inside routine language. Catastrophe lived in abbreviations. Horror passed through routing forms. A life could be cut in half by a line item no longer than a thumb.
+
+The slips from the sealed drawer in Lower Stack C had looked ordinary enough the first time she handled them. Restricted handling. Partial black bars. Controlled clinical language. What had unsettled her was not the existence of amnestic use, but the direction of it.
+
+The 004-Series was for the world outside.
+
+That was the understanding everyone carried, even if no one said it aloud in such simple terms. Civilians saw too much. Witnesses survived the wrong thing. Contaminated externals had to be cleaned, softened, redirected, broken free from knowledge they were never meant to keep. That was the purpose of the compounds derived from AFD-NB-004. The Forgetting Bloom made ordinary life possible by making inconvenient memory unstable.
+
+But the slips in Lower Stack C were not civilian cleanup records.
+
+They were internal.
+
+And not low-level internal, either.
+
+They belonged to people whose work should have placed them above accidental sedation, above procedural confusion, above routine memory correction. High-clearance names stripped away, rank markers preserved, all of them tied to the same phrase:
+
+ABYSS ACCESS RECOVERY.
+
+Sera spent the next three shifts pretending she was not building a second archive inside the first.
+
+Her official reconciliation file progressed exactly as expected. She corrected dead format codes. She flagged legacy indexing drift. She filed two harmless discrepancies through ordinary review. She let herself be seen doing work that looked administrative, because being seen doing the wrong kind of work was safer than being seen doing nothing at all.
+
+At the same time, inside a private notation shell hidden under the grammar of cross-format correction, she built a shadow record.
+
+Dates. Dosages. Rank markers. Recovery windows. Repeated 004 classifications.
+
+004-H. 004-H. 004-F. 004-H.
+
+Not strong enough to erase years.
+Strong enough to remove days.
+Enough to blunt continuity.
+Enough to scrape memory down to a smooth surface and let the mind build over it.
+
+She should have stopped there.
+
+Instead she went looking for supply movement.
+
+Medical records could be argued with. Symptoms could be misfiled. Clearance markers could be buried under emergency authority. But supplies moved through the Facility like blood through a body. They left traces even when the people using them tried not to.
+
+The East Wing logistics net kept controlled pharmaceutical flow under split authority: Medical, Archive, and Internal Security all held pieces, but none held the whole. That was meant to prevent misuse. It also meant the truth of a thing often existed only in the seams between departments.
+
+Sera lived in seams.
+
+By the fourth shift she had enough access fragments to track two years of lower-tier 004 movement without triggering escalation review. What she found made her go cold.
+
+The amount of 004-H issued under ordinary witness suppression channels was lower than projected. Not dramatically. Just enough to matter if someone was looking at totals rather than incidents. The missing volume had not vanished. It had been rerouted under a nested internal category with no direct narrative label, only a maintenance-style abbreviation.
+
+A.R.R.
+
+She stared at the code for a full minute before understanding what she was seeing.
+
+Abyss Recovery Review.
+
+Not field incidents.
+Not public exposure.
+Not surface compromise.
+
+Internal review after contact with something below.
+
+The realization sat in her chest like swallowed ice.
+
+She expanded the window.
+
+The routing code appeared again, tied to personnel access bands far above her own.
+
+004-H in clusters. Sometimes 004-G. Rarely 004-F. Enough to strip a day. A week. A month if pushed. Always followed by review holds, reassignment quiet periods, or sealed archive corrections. Some names were hidden entirely. Others had been reduced to initials that no longer matched any current personnel roster.
+
+It was not medical cleanup.
+It was maintenance.
+
+The Facility was maintaining itself with forgetting.
+
+That was the moment the theory became structure.
+
+Sera leaned back from the terminal and became abruptly aware of the room around her. Archive Administration was in full shift rhythm. Sleeves moved. Carts rolled. Someone argued softly over redaction priority near the east aisle. Ventilation whispered from the upper ducts. The ordinary life of the buried institution continued in the same steady pattern as always.
+
+How many of them, she wondered, were carrying holes they did not know existed?
+
+How many corrected records in this room had been written by people who had forgotten why they were correcting them?
+
+The thought almost made her stand up and leave.
+
+Instead she did what fear often forced people in the Facility to do.
+
+She kept going.
+
+The next obstacle was Medical Chain, which meant Tavian.
+
+She found him at the edge of the lower med-record corridor sorting sealed cartridges into color-coded trays. His hair looked damp, as though he had splashed water on his face to trick his body into believing it had rested. When he saw her, he did not look surprised.
+
+That worried her more than if he had.
+
+“Archive?” he said.
+
+“Medical.”
+
+“That’s usually not how that sentence goes.”
+
+“I need a clarification.”
+
+“On?”
+
+Sera chose her words with surgical care. “Historical amnestic notation. Pre-standard coding drift. I hit a symptom profile that may not map correctly to later 004 classifications.”
+
+Tavian looked at her for a long moment.
+
+“Are you asking casually,” he said, “or in a way that will make me wish I’d taken the long corridor?”
+
+“Casually,” Sera lied.
+
+He sighed. “Then I’ll answer casually. Pre-standard medical language is garbage. Half of it got retrofitted after the fact.”
+
+“Could 004-linked symptoms appear in records before official anomaly recovery?”
+
+His expression changed—not much, but enough.
+
+“That depends what you mean by ‘appear.’”
+
+“Golden residue. Delayed identity recognition. Memory collapse without ordinary brain trauma.”
+
+He did not answer immediately.
+
+When he finally did, his voice had gone flatter.
+
+“If you found that in something older than the bloom file, close it and forget it.”
+
+Sera kept her face still. “That isn’t a clarification.”
+
+“No,” he said. “It’s advice.”
+
+She watched him, and for a second thought he might walk away. Instead he leaned one shoulder against the wall and looked toward the sterilization door rather than at her.
+
+“My supervisor had a review gap two years ago,” he said. “Three days missing from his own continuity. He knew the gap was there because the logs around him were too neat. He spent six months trying to figure out what he’d forgotten.”
+
+“And?”
+
+“And he transferred out after the second review.”
+
+“Why?”
+
+Tavian finally looked at her. “Because after the second review, he stopped trying to remember.”
+
+The corridor felt colder.
+
+“What happened in the first review?” Sera asked.
+
+Tavian shook his head once. “Wrong question.”
+
+Then he pushed off the wall, balanced the records case against his hip, and added quietly, “If the archive around the abyss looks wounded, that’s because the people above it were wounded first.”
+
+Before she could stop him, he keyed through the sterilization door and was gone.
+
+Sera stood alone in the service corridor, listening to the locks reseal.
+
+The people above it were wounded first.
+
+When she returned to her desk, she no longer felt like she was chasing inconsistencies.
+
+She felt like she was tracking blood through layers of paper.
+
+At the end of shift, she opened her private pad and wrote a line she knew she should not keep.
+
+Not a correction.
+Not a report.
+Not even a question.
+
+Just a sentence.
+
+The archive is shaped like damage.
+
+She encrypted it under a standard notation shell and buried it in her task file.
+
+Then she closed the terminal, signed out, and walked back through the ordinary-seeming corridors of the Facility while, far below, something slept beneath the Earth and a flower bloomed in memory of it.
+
+By the time she reached her quarters, Sera understood one thing clearly.
+
+The contradiction was no longer whether the records were false.
+
+The contradiction was whether the truth had ever been safe enough for the Facility to keep intact.

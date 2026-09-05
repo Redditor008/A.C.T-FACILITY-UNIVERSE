@@ -1,0 +1,140 @@
+A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
+Vivienne-Argent-Behavioral-Observation-Dossier-AFD-SU-827
+
+═══════════════════════════════════════════════════════════════════════
+             A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-827
+TITLE I:             Vivienne Argent
+TITLE II:            THE TRANSFORMED RECLUSE
+
+FIELD TYPE:          SU — Subject
+PRIMARY FILE:        Vivienne-Argent-AFD-SU-827
+
+DOCUMENT CATEGORY:   CATEGORY VIII — Behavioral & Observation Dossier
+CATEGORY FUNCTION:   Longitudinal behavioral tracking; Analysis of 
+                     genre-literate coping mechanisms, 31-day pre-recovery 
+                     survival, and 30-day post-recovery integration.
+
+CLEARANCE REQUIRED:  Level 2
+
+CONTAINMENT SITE:    ACT-SITE-04-BR-C — Verde Null Bio-Reserve
+ARCHIVE STATUS:      Active / Progress Tracking
+DOSSIER STATUS:      Open / Comprehensive History Compiled
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier provides the definitive behavioral and historical record of 
+Vivienne Argent. It covers her personality profile, her 31 days of 
+survival in isolation *before* A.C.T discovery, and her subsequent 
+30-day integration into the Site-04 Facility.
+
+INCLUDED LOG TYPES:
+   - Section 001: Personality & Interpretive Framework
+   - Section 002: The Seclusion Log (31 Days Pre-Recovery)
+   - Section 003: The Integration Log (30 Days Post-Recovery)
+   - Dossier Closing Statement
+
+═══════════════════════════════════════════════════════════════════════
+             SECTION 001 — PERSONALITY & FRAMEWORK
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-827/PERS-01
+AUTHOR:              Dr. Camila Rocha
+
+Vivienne Argent is an introverted, genre-literate NEET/otaku. Her 
+worldview is heavily informed by anime, manga, and monster-girl fiction. 
+A.C.T. does not treat this as a delusion, but as a **Structured 
+Interpretive Framework.** 
+
+OBSERVATION:
+Vivienne uses "Protagonist Thinking" as a survival strategy. She 
+identifies "Death Flags" and "Bad Routes" in the Site Network. She is 
+broadly accepting of her body, viewing it as a "High-Value Race 
+Evolution" rather than a curse. She recognizes practical advantages in 
+her form: enhanced sensory perception, constriction strength, and 
+climbing ability. 
+
+She reacts poorly to pity or fetishization. She prefers language that 
+acknowledges her body as different, powerful, and personally 
+significant. When comfortable, she "Coil-Sits" (stacking her tail for 
+height). When cold, her cognition slows, an effect she describes as 
+"page-skipping."
+
+═══════════════════════════════════════════════════════════════════════
+             SECTION 002 — THE SECLUSION LOG (PRE-RECOVERY)
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-827/HIST-PRE
+RANGE:               Transformation Day 01 → Day 31
+
+The following is a reconstruction of the subject’s time in her Seattle 
+residence following her spontaneous transmutation. Data recovered via 
+browser history, smart-home logs, and subject testimony.
+
+DAY 01: Transformation occurs during sleep. Subject wakes up "heavy." 
+        Finds her bed full of scales and her pajama pants missing. 
+        Enters a state of immediate shock. First Google search: "can a 
+        person become a snake overnight."
+DAY 03: Initial panic subsides. Subject begins identifying her condition 
+        via anime tropes. Uses her tail to drag a mini-fridge into her 
+        bedroom. 
+DAY 07: Motor-control attempts. Vivienne spends the day in her hallway, 
+        practicing slithering. She knocks over three bookcases but 
+        successfully navigates to the kitchen.
+DAY 14: Resource management. Subject begins rationing frozen meals. She 
+        spends most of the day in a bathtub filled with lukewarm water 
+        to ease dermal itching (later confirmed as the start of a 
+        shed cycle).
+DAY 21: Psychological shift. Subject begins talking to herself in 
+        "Protagonist dialogue." She treats her home as a "Starting 
+        Zone" dungeon. She manages to climb the structural beams in her 
+        garage, describing it as a "Level 1 Skill Unlock."
+DAY 28: Exhaustion and Isolation. Rations are depleted. Subject remains 
+        mostly coiled in her bedroom, monitoring the street through 
+        the blinds. 
+DAY 31: A neighbor reports seeing a "massive python" through the window. 
+        A.C.T undercover agents intercept the call. Recovery initiated.
+
+═══════════════════════════════════════════════════════════════════════
+             SECTION 003 — THE INTEGRATION LOG (POST-RECOVERY)
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-827/OBS-30D
+AUTHOR:              Dr. Camila Rocha
+RANGE:               Integration Day 01 → Day 30
+
+DAY 01: Subject arrived at Site-04. Refused to uncoil for 4 hours. Moved 
+        into the humidity suite. Stated: "I need a bigger room for this 
+        many scales."
+DAY 05: Social Trial 1. Vivienne makes eye contact with Dr. Rocha. Asks 
+        if A.C.T has "other people like in the shows."
+DAY 11: Vivienne initiates a conversation about "Anime tropes." Posits 
+        her transformation is a "hidden plot point." 
+DAY 14: Coordination milestone. Subject can now move at 15 km/h without 
+        impacting furniture. She calls this her "Dash Skill."
+DAY 19: Shedding begins. Subject is irritable and refuses to speak.
+DAY 20: First full shed completed. Vivienne is fascinated by the 
+        "Ghost-skin." Requests it be preserved as an "artifact."
+DAY 25: Vivienne correctly identifies that it is raining outside Site-04 
+        via scent-signatures before the sensors trigger.
+DAY 30: Vivienne Argent officially requested to be an "ACT Volunteer." 
+        Stated: "If I'm the protagonist, I might as well help the 
+        researchers."
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+MANDATORY PERSONNEL NOTICE:
+                     Respect the build. 
+                     Do not trigger death flags. 
+                     The story is ongoing.
+
+CURRENT DOSSIER STATUS: Open / Ongoing Strategic Partnership
+
+END OF DOSSIER

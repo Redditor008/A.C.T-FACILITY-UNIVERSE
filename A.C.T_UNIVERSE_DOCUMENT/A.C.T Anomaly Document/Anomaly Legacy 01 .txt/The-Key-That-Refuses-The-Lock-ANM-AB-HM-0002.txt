@@ -1,0 +1,235 @@
+A.C.T FACILITY — ANOMALY FILE
+The-Key-That-Refuses-The-Lock-ANM-AB-HM-0002
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         ANM-AB-HM-0002
+                     Fracture-sensitive anomaly designation
+                     AB = ABSURD containment fracture
+                     HM = HARMLESS sub-threat fracture
+TITLE I:             The Key That Refuses The Lock
+TITLE II:            THE OPENING THAT WILL NOT BEGIN
+
+FIELD TYPE:          OB — Object
+
+CLEARANCE REQUIRED:  Level 3
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   [BLANK]
+
+FRACTURE INDEX —
+CONTAINMENT:         ABSURD
+
+THREAT LEVEL:        1
+
+FRACTURE INDEX —
+SUB-THREAT:          HARMLESS
+
+TRANSFORMATION
+VIABILITY:           NEUTRAL
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   1989-01-14
+VERIFICATION DATE:   1989-01-19
+LOCATION:            Probate archive basement / Kraków, Poland
+DISCOVERY METHOD:    Sealed evidence locker contradiction / repeated lock audit
+                     failure / impossible key inventory
+
+INITIAL RESPONSE
+OPERATION:           Unopened Door Review
+RESPONDING UNIT:     Archiver Division / Object Containment Division
+RESPONDING FIELD
+OPERATOR:            Agent Ewa Malinowska
+CIVILIAN EXPOSURE:   2 confirmed
+AMNESTIC DEPLOYED:   Limited
+NARRATIVE STATUS:    Controlled as clerical evidence-handling error
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+ANM-AB-HM-0002 is a tarnished iron key measuring 7.2 cm in length. The object
+has a simple circular bow, a narrow shaft, and a single square tooth. No lock
+matching the key's profile has been identified. Metallurgical dating places the
+iron between the 12th and 15th centuries, but tool marks on the surface resemble
+modern machine filing.
+
+ANM-AB-HM-0002 cannot unlock a locked door, box, safe, cabinet, vehicle, gate,
+or mechanical restraint. When inserted into a locked mechanism, the key will not
+turn. If pressure is applied, a small phrase appears in the lock material:
+
+                     NOT YET
+
+The phrase remains for 3 to 11 minutes before fading.
+
+The object's anomalous behavior occurs only after a lock has already been
+opened by another method. If ANM-AB-HM-0002 is inserted into an already-unlocked
+lock and turned, the lock will perform an opening action retroactively. Hinges
+sound before movement, seals report having been broken before contact, and
+written records update to state that the key was responsible for opening the
+lock. Physical evidence does not fully agree with the records.
+
+The anomaly therefore does not open locks. It claims the opening after the
+opening has happened.
+
+ANM-AB-HM-0002 also resists ordinary containment logic. When placed inside any
+sealed container, the key is later found resting on top of the container, beside
+it, hanging from the lock, or inside the inventory drawer assigned to the
+container's key. The original container remains sealed and undamaged. Internal
+sensors confirm the object was inside until the next audit begins, at which
+point the audit record changes to state the object was never inside.
+
+Despite this behavior, ANM-AB-HM-0002 does not attempt escape, does not move
+when unobserved in a dangerous manner, and does not harm personnel. It is
+classified as ANM because the act of containing and recording the object is
+more unstable than the object itself.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Post-opening key claim. ANM-AB-HM-0002 cannot unlock a
+                     locked mechanism, but can retroactively become the stated
+                     cause of an opening after the lock is already open.
+
+SECONDARY EFFECT:    Containment refusal by audit contradiction. When sealed
+                     inside a container, the key exits into a logically related
+                     external position while the container remains sealed and
+                     records revise to deny prior containment.
+
+TERTIARY EFFECT:     Lock inscription. Attempts to force the key into locked
+                     operation cause the phrase "NOT YET" to appear temporarily
+                     on or inside the lock.
+
+TRIGGER CONDITION:   Contact with locks, containment containers, key inventories,
+                     audit records, or formal opening procedures.
+
+RANGE / AREA OF
+INFLUENCE:           Object-bound / record effects limited to directly related
+                     containment and lock documentation.
+
+TEMPORAL BEHAVIOR:   Event-triggered / retroactive attribution / audit-sensitive.
+
+REALITY INTERACTION: Causal Attribution Violation / Containment Logic Reversal /
+                     Minor Record Correction.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+ANM-AB-HM-0002 is not to be stored inside a locked container. Previous attempts
+at sealed storage produced unnecessary audit contradictions and increased
+archive correction workload.
+
+The object is to be kept on an open ceramic tray inside Observation Drawer 4 of
+the Primary Facility's minor fracture-object archive. The drawer is not to be
+locked. The room containing the drawer may be locked, but personnel must not
+insert ANM-AB-HM-0002 into that room's lock after the room has been opened.
+
+All audits must use present-tense language only. Do not write "the key was
+contained," "the key has remained contained," or "the key was removed from
+containment." Approved phrasing is:
+
+                     The key is currently visible on the tray.
+
+If ANM-AB-HM-0002 is found outside the tray, personnel are to return it by hand
+without disciplinary escalation unless public-normalcy risk occurred. The key
+must not be accused in writing of escape. Use the phrase "position correction"
+instead of "breach" for minor internal movements.
+
+Testing involving active locks requires Level 3 approval. Testing involving
+A.C.T archive vaults, personnel quarters, evidence lockers, or containment-cell
+locks is prohibited.
+
+CONTAINMENT SITE:        Primary Facility / Fracture Object Archive
+SITE TYPE:               Primary Facility / Archive-sensitive object storage
+JURISDICTIONAL
+AUTHORITY:               Central Archive Administration
+CONTAINING DIVISION:     Archiver Division / Object Containment Division
+REQUIRED PERSONNEL:      Standard archive staff with fracture-audit training
+MONITORING FREQUENCY:    Visual confirmation every 12 hours
+MAINTENANCE CYCLE:       Weekly tray inspection / monthly documentation review
+
+BREACH PROTOCOL:         Locate nearest unlocked container, key drawer, lock
+                         plate, or audit station. Recover by hand. Do not lock
+                         the object in a container as an emergency response.
+                         Update records with present-tense language only.
+
+BREACH CONDITIONS —
+THIS ANOMALY IS CONSIDERED
+IN BREACH IF IT:
+   [ ] Breaks formal containment
+   [x] Endangers public normalcy
+   [ ] Causes distortion in reality, Earth, time, or cosmic law
+   [ ] Spreads memetic, informational, or biological contamination
+   [x] Resists classification and escalates beyond predicted behavior
+   [ ] Transforms its environment into an anomalous zone
+   [x] Other: Appears outside A.C.T archive custody, attaches itself to a
+              high-security lock, or revises containment records beyond its
+              assigned file chain
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+ANM-AB-HM-0002 is operationally harmless but archivally irritating. It does not
+free prisoners, open sealed vaults, bypass security, or provide useful lockpick
+function. Its anomaly begins only after access has already been achieved.
+
+The key's behavior suggests it is not an opener, but a claimant of openings.
+It attaches itself to the history of unlocked states and attempts to become the
+recognized reason those states occurred. This causes small causal and archival
+contradictions without major physical danger.
+
+The ABSURD containment fracture is assigned because the object should be easy to
+store, yet every ordinary storage attempt fails in a way that leaves the storage
+system physically intact. The HARMLESS sub-threat is assigned because no direct
+injury, coercion, contamination, or meaningful security compromise has occurred
+under controlled conditions.
+
+═══════════════════════════════════════════════════════════════════════
+                      TRANSFORMATION NOTES
+═══════════════════════════════════════════════════════════════════════
+
+TRANSFORMATION ATTEMPT
+STATUS:              Not recommended
+
+TRANSFORMATION NOTES:
+ANM-AB-HM-0002 has no useful transformation pathway at this time. Attempts to
+repurpose the object as a security audit tool produced excessive false access
+histories and no reliable breach-prevention value.
+
+The object is best maintained as a training example for minor ANM object logic:
+a harmless physical object whose containment problem is caused by documentation,
+audit timing, and causal attribution rather than aggression or power.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+Do not ask whether the key is "really contained." The current answer is less
+important than keeping the answer from becoming part of the audit.
+
+NOTE 002:
+During Test 0002-C, the object was sealed inside a transparent lockbox. Three
+observers watched continuously. At the beginning of the next written audit, the
+key was hanging from the lockbox keyhole. Video showed no movement. The lockbox
+was still sealed. The audit sheet already read: "The key is currently visible
+on the lock."
+
+NOTE 003:
+The object has never opened anything that was not already open. This has not
+prevented three separate researchers from trying to use it as a skeleton key.
+All three received the phrase "NOT YET" on their test locks.
+
+END OF FILE

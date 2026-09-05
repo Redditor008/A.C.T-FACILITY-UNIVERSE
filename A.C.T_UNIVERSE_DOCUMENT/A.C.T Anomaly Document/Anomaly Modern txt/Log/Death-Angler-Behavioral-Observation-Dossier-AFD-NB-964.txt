@@ -1,0 +1,146 @@
+A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
+Death-Angler-Behavioral-Observation-Dossier-AFD-NB-964
+
+═══════════════════════════════════════════════════════════════════════
+             A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-NB-964
+TITLE I:             Death Angler
+TITLE II:            THE ABYSSAL PREDATOR OF THE GATED LURE
+
+FIELD TYPE:          NB — Non-Natural Bio Hazard
+PRIMARY FILE:        Death-Angler-AFD-NB-964
+
+DOCUMENT CATEGORY:   CATEGORY VIII — Behavioral & Observation Dossier
+CATEGORY FUNCTION:   Feeding ritual documentation, predatory intelligence 
+                     mapping, and acoustic fear-threshold analysis.
+
+CLEARANCE REQUIRED:  Level 4 / Site-05 Command
+
+CONTAINMENT SITE:    ACT-SITE-05-ID-C — Nusantara Deep Relay
+ARCHIVE STATUS:      Active / High-Lethality Predator
+DOSSIER STATUS:      Open / Behavioral Profile Logged
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier explores the complex predatory behaviors of AFD-NB-964. 
+Beyond simple hunger, the subject demonstrates a ritualistic approach 
+to hunting designated as the "Sinister Hunt." This document compiles 
+observations from the first six months of captivity at Site-05.
+
+INCLUDED LOG TYPES:
+   - Feeding Observation: The Dread Hunt Sequence
+   - Predatory Intelligence: The "Wait-and-Watch" Pattern
+   - Acoustic Impact Review: The Jagged Screech
+   - Territorial Posture: Invisibility Cycles
+   - Dossier Closing Statement
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 001 — THE DREAD HUNT SEQUENCE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-NB-964/FED-01
+DATE:                2024-03-12
+SUBJECT:             Controlled Feeding (Non-Sentient Biological Mass)
+
+SUMMARY:
+Observation of the feeding cycle reveals that AFD-NB-964 requires its 
+prey to be in an active state of neurological alarm before consumption.
+
+OBSERVATION LOG:
+[00:00] — Lure activated. Deep-sea biological analog (500kg) released.
+[00:14] — Analog moves toward the light. Subject remains perfectly still, 
+          its mass invisible to standard optics but monitored via SAS.
+[00:32] — Analog enters the 2m radius. 
+[00:33] — THE SCREECH: Subject emits a 180 dB acoustic burst. Hydro-
+          phones record a "jagged" frequency that bypasses all dampening.
+[00:34] — THE HUNT: Instead of biting, the subject uses its armored 
+          snout to "nudge" the prey. It circles the prey at high speed, 
+          creating a micro-whirlpool. 
+[00:41] — Pre-consumption ritual lasts 7 minutes. Subject repeatedly 
+          flashes its lure in a "strobe" pattern, seemingly to increase 
+          the disorientation of the prey.
+[00:48] — Consumption occurs. The subject utilizes its Dunkleosteus-style 
+          plates to shear the mass into four equal segments before 
+          swallowing.
+
+═══════════════════════════════════════════════════════════════════════
+                SECTION 002 — PREDATORY INTELLIGENCE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-NB-964/INT-01
+AUTHOR:              Care Specialist Made Ayu Pradnya
+
+"The subject is not an animal. It is an auditor. 
+
+We have watched it through the **Sub-Abyssal Sonar (Item 37)** for 
+hundreds of hours. When the lure is off, it doesn't sleep. It hovers at the 
+very bottom of the tank, facing the observation glass. It knows where 
+the researchers are. 
+
+It waits for the moments when our focus slips. During a minor power 
+surge in April, it activated its lure for exactly 1.4 seconds—just 
+enough to see if the technicians would look. It isn't trying to 
+escape; it's trying to find out which of us is susceptible to the 
+trance. It is grading us."
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 003 — THE JAGGED SCREECH
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-NB-964/ACU-01
+REVIEWER:            Dr. Aris Thorne (SR-412)
+
+ANALYSIS:
+"The frequency of the 'Dread Hunt' screech has been mapped. It does 
+not correspond to any terrestrial mating call or threat display. 
+
+The sound contains a specific 'Notch' at the [ REDACTED ] Hz range. 
+This notch is designed to trigger the human amygdala into an 
+instantaneous fight-or-flight response. It is a biological key that 
+unlocks pure terror. 
+
+The subject doesn't just want meat. It wants the hormonal byproduct of 
+that terror. It is a harvester of high-intensity distress. Every hunt 
+is a performance for an audience of one: the prey."
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 004 — INVISIBILITY CYCLES
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-NB-964/VIS-01
+TYPE:                Optical Stability Audit
+
+The subject’s invisibility is absolute. When the lure is inactive, the 
+water in the tank appears entirely empty. 
+
+DATA FINDINGS:
+   - Light refraction: 100% normal (The subject does not bend light).
+   - Thermal profile: Matched to ambient water temp (Zero signature).
+   - Gravimetric sensors: Confirm 10.4-ton mass remains stationary.
+
+RESEARCHER NOTE:
+The subject is not "cloaked." It has entered a state of 
+**Gated Existence.** It only "Permits" itself to be visible when it 
+wants to be seen. This is a high-level biological reality-bend that we 
+are containing with purely mechanical sonar.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+AFD-NB-964 is a highly disciplined predator with an advanced 
+understanding of sentient fear-mechanics. Containment must continue to 
+prioritize "Blind Monitoring" to avoid the subject's hypnotic hooks.
+
+MANDATORY BRIEFING PHRASE:
+                     "If you see the light, 
+                      the hunt has already started."
+
+CURRENT DOSSIER STATUS: Open / Continuous Observation Active
+
+END OF DOSSIER

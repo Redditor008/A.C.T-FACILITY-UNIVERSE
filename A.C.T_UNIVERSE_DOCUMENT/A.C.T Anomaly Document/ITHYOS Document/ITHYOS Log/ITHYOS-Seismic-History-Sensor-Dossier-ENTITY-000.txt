@@ -1,0 +1,472 @@
+A.C.T FACILITY — AUDIO / VIDEO / SENSOR DOSSIER
+ITHYOS-Seismic-History-Sensor-Dossier-ENTITY-000
+
+═══════════════════════════════════════════════════════════════════════
+              A.C.T FACILITY — AUDIO / VIDEO / SENSOR DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         ENTITY-000 / AFD-CH-000
+COMMON ARCHIVE NAME: ITHYOS, THE WORLD-SLEEPER
+LEGACY TITLE:        THE SLUMBERING SERPENT GOD
+
+FIELD TYPE:          CH — Cosmic Hazard
+PRIMARY FILES:       ENTITY_000_ITHYOS
+                     ITHYOS-AFD-CH-000
+
+DOCUMENT CATEGORY:   CATEGORY XI — Audio / Video / Sensor Dossier
+CATEGORY FUNCTION:   Historical seismic record preservation, dormant movement
+                     correlation, ABYSS Floor sensor review, and wake-state
+                     warning continuity
+
+CLEARANCE REQUIRED:  O5 Access / ABYSS Access Only
+
+CONTAINMENT SITE:    Primary Facility / ABYSS Floor / Final Contact Vault
+ARCHIVE STATUS:      Active / O5-Restricted
+DOSSIER STATUS:      Open / Historical seismic range archived
+
+TIME RANGE:          2020 back to 1950
+ORDERING METHOD:     Reverse chronological, newest to oldest
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category XI — Audio / Video / Sensor Dossier.
+It preserves selected historical seismic records associated with ENTITY-000 /
+AFD-CH-000 from 2020 back through 1950.
+
+INCLUDED LOG TYPES:
+   - Historical Sensor Summary
+   - Reverse Chronological Seismic Ledger
+   - Global Tremor Correlation Review
+   - ABYSS Floor Sensor Interpretation
+   - Archive Warning Notice
+   - Closing Sensor Statement
+
+CATEGORY PURPOSE:
+To preserve the long-term seismic record connected to ITHYOS without expanding
+the main anomaly file into a full century-scale sensor archive. This dossier is
+not authorization to map, model, stimulate, interpret, or approach the entity.
+
+The official anomaly file states that minor involuntary movement during dormancy
+is sufficient to generate earthquakes approximating magnitude 3.0. This dossier
+records selected events interpreted under that doctrine.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+ITHYOS is a planetary-scale serpentiform cosmic hazard measured up to
+10 kilometers in length, with total length believed to be 10 kilometers or more,
+and is believed to remain dormant within the Earth core region. Its full body has never been completely observed. All measurements remain
+partial, inferred, or uncertain.
+
+From 1950 to 2020, A.C.T seismic records repeatedly show low-to-moderate global
+or globally distributed tremor patterns correlated with ABYSS Floor sensor
+activity. These events are not interpreted as wake-state transitions. They are
+classified as dormant movement events unless accompanied by abyss-seal
+degradation, large-scale tectonic irregularity beyond expected range, psychic
+proximity exposure, or serpent-class biological convergence.
+
+The central rule remains:
+
+                     Dormant movement is not waking.
+                     Dormant movement is still containment-relevant.
+
+No event in this dossier confirms ITHYOS opening its eyes, shifting into full
+wakefulness, communicating, or acting intentionally.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 001 — HISTORICAL SENSOR SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              ENTITY-000/SEI-SUM-001
+LOG TYPE:            Historical Sensor Summary
+CATEGORY:            Audio / Video / Sensor Dossier
+REVIEWING UNIT:      ABYSS Floor Sensor Office / O5 Oversight Archive
+DATE COMPILED:       2021-02-04
+
+SUMMARY:
+The 1950–2020 historical range shows four recurring classes of seismic concern
+associated with ITHYOS.
+
+CATEGORY A — ORDINARY GEOLOGICAL OVERLAP:
+Surface or regional tremors that pass through Facility systems while producing
+no confirmed ABYSS Floor correlation.
+
+CATEGORY B — DORMANT MOVEMENT CORRELATION:
+Magnitude 3-range global or distributed tremor patterns corresponding with
+ABYSS Floor sensor fluctuation. These are believed to reflect minor involuntary
+movement while ITHYOS remains asleep.
+
+CATEGORY C — ACCESS-BOUNDARY DISTURBANCE:
+Events in which seismic readings coincide with pressure changes near the ABYSS
+Floor influence boundary, Final Contact Vault systems, or sealed descent routes.
+
+CATEGORY D — PROXIMITY HAZARD COINCIDENCE:
+Events in which seismic disturbance coincides with unsafe descent, psychic
+proximity symptoms, recovered glyph transcription, or serpent-class submission
+behavior.
+
+HISTORICAL TREND:
+No verified full waking event exists in this range. The record supports ongoing
+sleep-state preservation doctrine, not awakening confirmation.
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 002 — REVERSE CHRONOLOGICAL SEISMIC LEDGER
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              ENTITY-000/SEI-LEDGER-001
+LOG TYPE:            Reverse Chronological Seismic Ledger
+CATEGORY:            Audio / Video / Sensor Dossier
+RANGE:               2020 → 1950
+
+NOTE:
+This ledger records selected major or doctrinally significant events. Minor
+unclassified tremor records remain in sealed raw sensor archive.
+
+------------------------------------------------------------------------
+YEAR:                2020
+EVENT CODE:          SEI-2020-Global Thread
+EVENT CATEGORY:      B / Dormant Movement Correlation
+MAGNITUDE PROFILE:   Distributed magnitude 3-range tremor pattern
+
+SUMMARY:
+A low-intensity tremor pattern was detected across multiple global monitoring
+points. External agencies classified the readings as unrelated local seismic
+noise. ABYSS Floor monitors recorded synchronized fluctuation across three
+shielded observation systems.
+
+OBSERVED EFFECTS:
+   - no abyss-seal degradation
+   - no approved descent in progress
+   - no serpent-class test specimen present
+   - no recovered glyph activity
+   - tremor pattern resolved without intervention
+
+INTERPRETATION:
+Dormant movement correlation. No wake-state indicator confirmed.
+
+------------------------------------------------------------------------
+YEAR:                2016
+EVENT CODE:          SEI-2016-Seal Pressure Variance
+EVENT CATEGORY:      C / Access-Boundary Disturbance
+MAGNITUDE PROFILE:   Surface minimal / ABYSS Floor pressure fluctuation elevated
+
+SUMMARY:
+ABYSS Floor pressure monitors detected a short variance along sealed lower
+routes. Surface seismic profile was weak and not publicly notable.
+
+OBSERVED EFFECTS:
+   - Final Contact Vault monitoring systems entered caution state
+   - one sealed observation line reported static eye-pattern artifacts
+   - no direct visual exposure occurred
+   - no personnel entered unsafe proximity
+
+INTERPRETATION:
+Access-boundary disturbance. Classified as containment-relevant due to proximity
+system response, not due to tremor strength.
+
+------------------------------------------------------------------------
+YEAR:                2011
+EVENT CODE:          SEI-2011-Serpent Refusal
+EVENT CATEGORY:      D / Proximity Hazard Coincidence
+MAGNITUDE PROFILE:   Magnitude 3.0-range distributed tremor
+
+SUMMARY:
+During a restricted serpent-class biological suppression observation, three
+shielded serpent-type organisms entered total passivity 42 seconds before ABYSS
+Floor tremor registration. Test was terminated immediately.
+
+OBSERVED EFFECTS:
+   - bowing and collapse response in all serpent specimens
+   - no specimen advanced after response onset
+   - tremor profile matched dormant movement correlation
+   - no full waking signs detected
+
+INTERPRETATION:
+Supports sovereign serpentine dominance effect described in both legacy and
+modern ITHYOS records. No further serpent-class proximity testing authorized
+under this dossier.
+
+------------------------------------------------------------------------
+YEAR:                2004
+EVENT CODE:          SEI-2004-Unauthorized Descent Echo
+EVENT CATEGORY:      D / Proximity Hazard Coincidence
+MAGNITUDE PROFILE:   Regional tremor overlay with ABYSS Floor sensor spike
+
+SUMMARY:
+An unauthorized lower-route intrusion attempt coincided with ABYSS Floor sensor
+spike and a magnitude 3-range tremor cluster. The intruder did not reach direct
+observation boundary but later reported the standard proximity vision: the
+belief that ITHYOS had opened its eyes and was looking directly at them.
+
+OBSERVED EFFECTS:
+   - intrusive vision report
+   - mental destabilization
+   - compulsive glyph-like scribbling within 2 hours
+   - sealed medical outcome archived under O5 access
+   - tremor resolved after lower-route seal re-engaged
+
+INTERPRETATION:
+Seismic event may have coincided with unsafe proximity influence. The record is
+not evidence of waking behavior; physical indicators confirmed dormancy.
+
+------------------------------------------------------------------------
+YEAR:                1998
+EVENT CODE:          SEI-1998-Dormant Stress Roll
+EVENT CATEGORY:      B / Dormant Movement Correlation
+MAGNITUDE PROFILE:   Magnitude 3.1 global tremor approximation
+
+SUMMARY:
+A distributed tremor pattern appeared across global monitoring stations with no
+single conventional epicenter. ABYSS Floor monitors registered a slow stress
+roll lasting 9 minutes.
+
+OBSERVED EFFECTS:
+   - no public attribution to a single event
+   - no descent activity underway
+   - minor vibration in sealed observation conduits
+   - no glyph recovery
+   - no serpent convergence
+
+INTERPRETATION:
+Probable minor involuntary dormant movement. No escalation.
+
+------------------------------------------------------------------------
+YEAR:                1989
+EVENT CODE:          SEI-1989-Eye Vision Cluster
+EVENT CATEGORY:      D / Proximity Hazard Coincidence
+MAGNITUDE PROFILE:   Surface 2.8–3.0 approximation / ABYSS sensor correlation
+
+SUMMARY:
+A maintenance error briefly exposed two under-cleared personnel to unsafe lower
+route influence during a tremor event. Both personnel reported the same vision:
+ITHYOS opening its eyes and staring at them.
+
+OBSERVED EFFECTS:
+   - immediate psychological collapse in one subject
+   - controlled restraint applied during scribbling phase
+   - unknown glyph-like writing recovered and sealed
+   - second subject stabilized under abyss medical isolation
+   - no physical waking indicators detected
+
+INTERPRETATION:
+Classic proximity vision sequence coinciding with seismic disturbance. Supports
+legacy exposure sequence. Does not indicate actual eye-opening.
+
+------------------------------------------------------------------------
+YEAR:                1976
+EVENT CODE:          SEI-1976-Modern Conversion Tremor
+EVENT CATEGORY:      C / Access-Boundary Disturbance
+MAGNITUDE PROFILE:   Magnitude 3.0 approximation / Facility-local emphasis
+
+SUMMARY:
+During conversion of First Vault ENTITY-000 materials into modern AFD-CH-000
+archive doctrine, ABYSS Floor monitoring recorded a mild tremor and seal-stress
+variance.
+
+OBSERVED EFFECTS:
+   - no damage to First Vault document
+   - modern file retains designation history ENTITY-000 → AFD-CH-000
+   - phrase "preserved dormancy" appears in review notes from this period
+   - no waking indicators detected
+
+INTERPRETATION:
+Archive conversion coincided with access-boundary fluctuation. No causal claim
+authorized.
+
+------------------------------------------------------------------------
+YEAR:                1962
+EVENT CODE:          SEI-1962-Global Minor Pulse
+EVENT CATEGORY:      B / Dormant Movement Correlation
+MAGNITUDE PROFILE:   Magnitude 3-range global tremor pulse
+
+SUMMARY:
+Multiple low-intensity tremor readings occurred within a 24-hour window. ABYSS
+Floor monitors recorded matched pressure pulses.
+
+OBSERVED EFFECTS:
+   - no descent activity
+   - no exposure cases
+   - no serpent-class convergence
+   - public seismic records treated readings as unrelated minor tremors
+
+INTERPRETATION:
+Dormant movement correlation. Retained as one of the cleaner early sensor
+examples of passive planetary influence while asleep.
+
+------------------------------------------------------------------------
+YEAR:                1956
+EVENT CODE:          SEI-1956-Seal Calibration Event
+EVENT CATEGORY:      C / Access-Boundary Disturbance
+MAGNITUDE PROFILE:   Facility-local pressure event / weak surface profile
+
+SUMMARY:
+Early shielded observation and seal-monitoring equipment was recalibrated near
+ABYSS access routes. A short Facility-local pressure event followed calibration.
+
+OBSERVED EFFECTS:
+   - observation shields held
+   - no direct line-of-sight exposure
+   - sealed route pressure rose above safe threshold for 3 minutes
+   - calibration procedure suspended
+
+INTERPRETATION:
+Demonstrates that even indirect observation-system work can interact with the
+influence boundary. Supports modern restriction on direct observation.
+
+------------------------------------------------------------------------
+YEAR:                1950
+EVENT CODE:          SEI-1950-Standard Baseline
+EVENT CATEGORY:      Baseline Establishment
+MAGNITUDE PROFILE:   Historical comparison baseline
+
+SUMMARY:
+The first standardized post-war seismic comparison ledger for ENTITY-000 begins.
+Older records exist but use pre-standard notation and remain under First Vault
+review.
+
+OBSERVED EFFECTS:
+   - magnitude 3-range tremor correlations noted as recurring phenomenon
+   - ABYSS access route sensors placed under continuous comparison
+   - terminology "dormant movement" begins appearing in technical notes
+   - no full waking event recorded
+
+INTERPRETATION:
+1950 provides the stable comparison baseline for later ITHYOS seismic activity.
+The phenomenon predates the ledger.
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 003 — GLOBAL TREMOR CORRELATION REVIEW
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              ENTITY-000/SEI-COR-001
+LOG TYPE:            Global Tremor Correlation Review
+CATEGORY:            Audio / Video / Sensor Dossier
+REVIEWING UNIT:      ABYSS Floor Sensor Office / O5 Oversight Archive
+
+CORRELATION SUMMARY:
+ITHYOS-associated seismic activity is defined by the relationship between global
+magnitude 3-range tremor patterns and ABYSS Floor sensor response. Ordinary
+surface magnitude alone is insufficient for classification.
+
+HIGH-CORRELATION FACTORS:
+   - ABYSS Floor pressure fluctuation
+   - Final Contact Vault system response
+   - sealed lower-route stress variance
+   - serpent-class submission behavior near approved influence boundary
+   - proximity vision reports
+   - compulsive glyph transcription following unsafe approach
+   - distributed tremor without conventional epicenter
+
+LOW-CORRELATION FACTORS:
+   - ordinary regional earthquake alone
+   - surface building sway alone
+   - weather pressure changes
+   - equipment vibration
+   - public seismic reporting without ABYSS correlation
+
+CONCLUSION:
+The relevant question is not only "did the Earth shake?" The relevant question
+is "did the ABYSS Floor answer?"
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 004 — ABYSS FLOOR SENSOR INTERPRETATION
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              ENTITY-000/SEI-ABY-001
+LOG TYPE:            ABYSS Floor Sensor Interpretation
+CATEGORY:            Audio / Video / Sensor Dossier
+STATUS:              Active interpretation / O5 restricted
+
+INTERPRETATION:
+The 1950–2020 seismic record does not indicate a verified waking trend. It
+indicates recurring passive planetary influence during dormancy. Minor movement
+while ITHYOS remains asleep is sufficient to create measurable seismic activity.
+
+This is consistent with both the First Vault record and the modern AFD-CH-000
+file.
+
+Important distinctions:
+   - Dormant movement is not intentional attack.
+   - Dormant movement is not safe.
+   - Psychic proximity visions of open eyes do not prove waking.
+   - Magnitude 3-range tremors do not prove breach by themselves.
+   - Any wake-state transition sign supersedes all normal seismic categories.
+
+WORKING MODEL:
+   - ITHYOS remains dormant.
+   - Minor involuntary movement creates measurable tremors.
+   - ABYSS Floor systems monitor the reachable influence boundary.
+   - Containment preserves dormancy and restricts access, observation,
+     excavation, biological interaction, and wake-state destabilization.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 005 — ARCHIVE WARNING NOTICE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              ENTITY-000/SEI-WRN-001
+LOG TYPE:            Archive Warning Notice
+CATEGORY:            Audio / Video / Sensor Dossier
+ISSUING AUTHORITY:   O5 Oversight Archive / ABYSS Floor Sensor Office
+STATUS:              Active
+
+NOTICE:
+Seismic logs related to ITHYOS are not to be used for full-body mapping.
+
+The entity's full body has never been completely observed. All measurements are
+partial, inferred, or uncertain. This dossier preserves tremor history; it does
+not authorize reconstruction of the entity's posture, anatomy, depth, coil
+pattern, or waking trajectory.
+
+PROHIBITED USES:
+   - full-body modeling
+   - predictive waking simulation without O5 authorization
+   - sonar correlation below approved threshold
+   - direct observation attempts
+   - serpent-class proximity testing without explicit O5 approval
+   - interpretation of recovered glyphs without sealed archive review
+   - treating vision reports as physical waking confirmation
+
+APPROVED USES:
+   - dormant movement correlation
+   - ABYSS Floor pressure monitoring
+   - Final Contact Vault risk review
+   - lower-route access restriction
+   - serpent-class exclusion planning
+   - proximity hazard training
+   - preservation of historical doctrine
+
+MANDATORY PHRASE FOR SENSOR BRIEFINGS:
+
+                     We are measuring dormant influence.
+                     We are not measuring the whole sleeper.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+The 1950–2020 ITHYOS seismic history supports the current A.C.T doctrine that
+sleep-state preservation is containment. The entity's minor involuntary movement
+while asleep is sufficient to affect the planet. This makes every verified
+ABYSS-correlated tremor operationally relevant even when no conventional breach
+has occurred.
+
+Future additions to this dossier should include:
+   - post-2020 ABYSS-correlated tremor events
+   - updated serpent-class biological response records
+   - sealed proximity vision cases
+   - glyph transcription recovery records
+   - Final Contact Vault sensor changes
+   - any sign of wake-state transition, if ever recorded
+
+CURRENT DOSSIER STATUS: Open / Historical Range Archived
+
+FINAL SENSOR STATEMENT:
+
+                     It does not need to wake to move the world.
+                     That is why the world must not wake it.
+
+END OF DOSSIER

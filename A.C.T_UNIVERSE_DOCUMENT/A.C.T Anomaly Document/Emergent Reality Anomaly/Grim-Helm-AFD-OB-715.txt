@@ -1,0 +1,180 @@
+A.C.T FACILITY — ANOMALY FILE
+Grim-Helm-AFD-OB-715
+
+═══════════════════════════════════════════════════════════════════════
+   A.C.T FACILITY — ANOMALY FILE
+   Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:  AFD-OB-715
+TITLE I:  Grim Helm
+TITLE II:  THE VANTAGE OF THE SIN-EATER / POV: MR. FIXER
+
+FIELD TYPE:  OB — Object
+   SP — Space (Perspective Displacement)
+
+CLEARANCE REQUIRED: Level 4 / Narrative Hazard Desk
+
+═══════════════════════════════════════════════════════════════════════
+    CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS: REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:  MUTATED
+
+THREAT LEVEL: 4
+
+FRACTURE INDEX —
+SUB-THREAT:  NONE
+
+TRANSFORMATION
+VIABILITY:  INVIOLABLE
+
+═══════════════════════════════════════════════════════════════════════
+    DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION: 2019-11-28
+VERIFICATION DATE: 2019-12-05
+LOCATION:  [ REDACTED ] Catacombs / [ BLANK ]
+DISCOVERY METHOD: Discovery of an unidentified "Black Knight" skeletal 
+   remain possessing high-density narrative residue. 
+   The helm was the only preserved artifact.
+
+INITIAL RESPONSE
+OPERATION:  Dark Visor
+RESPONDING UNIT: Site-03 Technical Recovery / Psychological Review
+RESPONDING FIELD
+OPERATOR:  Archivist Kenji Takahara
+CIVILIAN EXPOSURE: Zero.
+AMNESTIC DEPLOYED: N/A.
+NARRATIVE STATUS: Registered under the [ BLANK ] Project.
+
+═══════════════════════════════════════════════════════════════════════
+    DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-715 is a suit-integrated knight’s helmet composed of an 
+unidentified matte-black metallic alloy. The design is roughly 
+consistent with 15th-century European armory, though it possesses zero 
+internal padding and no visible ventilation ports. 
+
+The subject functions as a sensory bridge to an unknown dimension or 
+causal plane. When a human subject (the "Observer") wears the helm, 
+their consciousness is immediately displaced. 
+
+THE OBSERVER EXPERIENCE:
+1. POV DISPLACEMENT: The Observer is transported into the perspective of 
+ an entity designated as "MR. FIXER" or "GRIM." The transition is 
+ instantaneous and absolute.
+
+2. MORPHOLOGICAL STATES: 
+ - THE SOUL STATE: Initial observation typically begins as a 
+ "Floating Blue Flame"—a spectral soul-entity drifting through a 
+ void or darkened space. 
+ - THE KNIGHT STATE: Following an interaction with the entity "Alice," 
+ the perspective shifts into a biological humanoid within a matte-
+ black armored frame (Grim).
+
+3. SENSORY LIMITATION: The Observer is a passive witness. They can see 
+ and hear everything within the entity's vicinity, including the 
+ entity's internal monologue and vocalizations. However, they cannot 
+ move, interact, feel physical sensations, or exert any control. 
+
+4. ENVIRONMENTAL DATA: The "World" seen through the helm is characterized 
+ by a state of terminal decay and moral compromise. It is described 
+ as a "Nightmare" where human lives are treated as "Consumables"— 
+ born only to disappear for the "Arbitrary pleasure" of an 
+ unseen force. 
+
+5. THE "ALICE" CONSTANT: A recurring voice, identified as "Alice," 
+ interacts with the entity. She refers to the entity as the 
+ "Protagonist of this story" and maintains a constant, often 
+ mocking dialogue regarding justice, hypocrisy, and an "endless 
+ game of hide and seek."
+
+═══════════════════════════════════════════════════════════════════════
+   ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT: Perspective Hijacking. The subject forces a 1:1 
+   sensory link with an extra-universal entity.
+
+SECONDARY EFFECT: Narrative Immersion. Observers report a "Short-
+   circuiting of the ID," where their own memories 
+   begin to feel like "Mistakes" or "Daydreams" compared 
+   to the intensity of the helm's vision.
+
+TERTIARY EFFECT: [STRUCTURAL DATA OMITTED]
+
+TRIGGER CONDITION: Securing the helm onto a human head.
+
+RANGE / AREA OF
+INFLUENCE:  Object-bound (Input) / Extradimensional (Output).
+
+TEMPORAL BEHAVIOR: Persistent. The "Grim" timeline appears to progress 
+   even when the helm is not being worn.
+
+REALITY INTERACTION: Causal-Perspective Bridge / Psychological Displacement.
+
+═══════════════════════════════════════════════════════════════════════
+   CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-715 is contained in a secure equipment locker at Site-03.
+
+1. ACCESS RESTRICTION: No personnel are to wear the helm without 
+ Level 4 authorization and a pre-session psychological stability 
+ audit. The despair-bleed from the vision is hazardous to 
+ unprepared minds.
+
+2. SESSION LIMITS: No "Observation Session" may exceed 30 minutes. 
+ Prolonged exposure causes "Identity Dissolution," where the 
+ Observer begins to believe they are the "Fixer" and attempts to 
+ [ REDACTED ] their own physical body upon return.
+
+3. LOGGING: Every word heard from the "Alice" voice or the "Grim" 
+ monologue must be transcribed for Narrative Analysis. 
+
+CONTAINMENT SITE: ACT-SITE-03-JP-E — Kurokawa Archive Node
+SITE TYPE:  Primary Site / Archive and Memetic Containment
+JURISDICTIONAL
+AUTHORITY:  Narrative Hazard Desk / Site-03 Command
+CONTAINING DIVISION: Archiver Division
+REQUIRED PERSONNEL: 1 Narrative Analyst, 1 Trauma Counselor.
+MONITORING FREQUENCY: During active observation sessions only.
+MAINTENANCE CYCLE: Monthly material-integrity check.
+
+BREACH PROTOCOL:  If an Observer refuses to remove the helm, 
+    security is to utilize the "Emergency Shears" 
+    to sever the subject's connection. Do not 
+    attempt to talk the subject out of the vision.
+
+═══════════════════════════════════════════════════════════════════════
+    RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+The "Grim" world appears to be a reality where the "First Lie" was never 
+successfully managed. It is a world of "Unspeakable Sin" and "Polluted 
+Souls." 
+
+The entity "Alice" is of particular interest. She claims to be 
+"always watching" and suggests that the entity's path is decided by 
+destiny. Some researchers believe this helm is a window into a 
+"Failed Regression" timeline.
+
+═══════════════════════════════════════════════════════════════════════
+    ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+Observers consistently report the sensation of staring at an 
+"unchanging, filthy ceiling" during the start of every session. This 
+is believed to be the entity's "Save Point."
+
+NOTE 002:
+[STRUCTURAL DATA OMITTED]
+
+END OF FILE

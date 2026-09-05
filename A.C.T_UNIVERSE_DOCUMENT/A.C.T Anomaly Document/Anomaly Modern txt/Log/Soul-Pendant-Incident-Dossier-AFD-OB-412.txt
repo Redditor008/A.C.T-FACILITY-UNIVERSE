@@ -1,0 +1,115 @@
+A.C.T FACILITY — INCIDENT & BREACH DOSSIER
+Soul-Pendant-Thorne-Incident-Dossier-AFD-OB-412
+
+═══════════════════════════════════════════════════════════════════════
+                A.C.T FACILITY — INCIDENT & BREACH DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-412
+TITLE I:             Soul Pendant
+PRIMARY FILE:        Soul-Pendant-AFD-OB-412
+
+DOCUMENT CATEGORY:   CATEGORY IV — Incident & Breach Dossier
+CATEGORY FUNCTION:   Reconstruction of the 1992 Thorne Exposure Event, 
+                     displacement chronology, and first-wake testimony.
+
+CLEARANCE REQUIRED:  Level 4
+
+CONTAINMENT SITE:    ACT-SITE-02-RU-N — White Grave Station
+ARCHIVE STATUS:      Active / Personnel Loss Record
+DOSSIER STATUS:      Open / Historical Verification Complete
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier contains the investigative results of the "Thorne Incident" 
+of 1992, which transformed AFD-OB-412 from a low-threat artifact into a 
+Class-2 containment priority.
+
+INCLUDED LOG TYPES:
+   - Incident Timeline: 1992-05-14
+   - The "Glow-Shift" Analysis
+   - Post-Displacement Vitals Review
+   - First-Wake Communication (Thorne-1)
+   - Dossier Closing Statement
+
+═══════════════════════════════════════════════════════════════════════
+                    SECTION 001 — INCIDENT TIMELINE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-412/INC-92
+DATE:                1992-05-14
+LOCATION:            Site-01 / Minor Artifact Lab 4
+SUBJECT:             Senior Researcher Aris Thorne
+
+[09:12] — Researcher Thorne enters Lab 4 to perform a routine luminosity 
+          test on the pendant.
+[09:44] — While adjusting the glass display housing, a jagged edge of 
+          the reinforced casing lacerates Thorne’s right palm.
+[09:45] — Approximately 4ml of blood splashes directly onto the 
+          crystalline core of the pendant.
+[09:45:03] — THE EVENT: The pendant emits a deep violet flash. All 
+          local electronic sensors are overloaded. 
+[09:46] — Security finds Researcher Thorne collapsed on the floor. His 
+          vitals are "Flatline," yet his body remains warm and shows zero 
+          signs of rigor or lividity. 
+[09:50] — The pendant is observed glowing with a "Pulse" that matches 
+          Thorne's previous heart-rhythm.
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 002 — FIRST-WAKE COMMUNICATION
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-412/INT-001
+DATE:                1992-06-01
+METHOD:              [ REDACTED ] Acoustic Bridge
+
+Following the incident, the pendant was moved to Site-02. This log 
+captures the first successful contact with Researcher Thorne's 
+displaced consciousness.
+
+[TRANSCRIPT BEGINS]
+
+THORNE:              "...hear... can you... hear?"
+
+SITE-02 ANALYST:     "We can hear you, Aris. This is White Grave 
+                      Command. How are you feeling?"
+
+THORNE:              "Feeling... is the wrong word. I am not cold. I am 
+                      not hot. I am... sharp. I am looking at the 
+                      room from four different facets at once. Why is 
+                      it so dark in the lab?"
+
+SITE-02 ANALYST:     "You are inside the pendant, Aris. We are keeping 
+                      it in a shielded locker."
+
+THORNE:              "Inside. Yes. I can see my body. It looks like 
+                      it’s sleeping. Why won’t it wake up?"
+
+SITE-02 ANALYST:     "The connection is broken, but the anchor is 
+                      stable. We are working on a way to get you back."
+
+THORNE:              "No. Don't touch the glass. Every time you touch 
+                      the case, it feels like someone is scratching my 
+                      thoughts. Just... keep me near the body. I don't 
+                      want to drift."
+
+[TRANSCRIPT ENDS]
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+The Thorne Incident remains a foundational warning for handling 
+"Dormant" artifacts. The pendant did not "Develop" an effect; it 
+simply waited for the correct biological key. 
+
+MANDATORY BRIEFING PHRASE:
+                     "The blood was the key. 
+                      The pendant was the lock."
+
+CURRENT DOSSIER STATUS: Open / Continuous Dialogue Maintained
+
+END OF DOSSIER

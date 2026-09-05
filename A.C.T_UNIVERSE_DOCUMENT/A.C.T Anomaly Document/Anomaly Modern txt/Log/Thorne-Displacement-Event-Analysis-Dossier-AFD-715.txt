@@ -1,0 +1,101 @@
+A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
+Thorne-Displacement-Event-Analysis-Dossier-AFD-715
+
+═══════════════════════════════════════════════════════════════════════
+              A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-715 (Series Composite)
+TITLE I:             The 715 Displacement Event
+TITLE II:            THE ARCHIVE OF MUNDANE ECHOES
+
+FIELD TYPE:          N/A — Non-Anomalous Information Artifacts
+PRIMARY FILE:        ACT-715-Unknown-ACT-Reality-List
+
+DOCUMENT CATEGORY:   CATEGORY VI — Research & Analysis Dossier
+CATEGORY FUNCTION:   Analysis of non-anomalous physical media manifestations 
+                     (2021-2024); Documentation of 'Dead Data' leakage.
+
+CLEARANCE REQUIRED:  Level 4 / O5-Restricted
+
+CONTAINMENT SITE:    Primary Facility / Storage Sector 7 / Low-Threat
+ARCHIVE STATUS:      Active / Secured
+DOSSIER STATUS:      Open / Media Inventory Logged
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier, compiled by Aris Thorne, establishes that the 715-Series 
+items are not anomalies in the functional sense. They are physical 
+objects (paper, USBs, photos) that appeared without a source but 
+behave according to standard laws of physics.
+
+INCLUDED LOG TYPES:
+   - The Absence of Resonance (Thorne Analysis)
+   - Media Inventory: The Seven Manifestations
+   - The O5-1 Directive on Passive Storage
+   - Dossier Closing Statement
+
+═══════════════════════════════════════════════════════════════════════
+               SECTION 001 — THE ABSENCE OF RESONANCE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-715/THORNE-NULL-LOG
+AUTHOR:              Aris Thorne (SR-412)
+DATE:                2024-06-12
+
+I have finished my audit of the 715 series. There is no 'Pulse.' 
+
+When I hold the 'Before I Forget You' book, I don't feel grief; I feel 
+paper. When I plug in the 'Colorful Array' USB, I don't hear a 30XX 
+server; I see a standard digital video file. The 'Dramatugy' script 
+isn't a bender's portal; it's a stack of bond paper.
+
+These items are perfectly mundane. They are 'Dead Data' that has 
+somehow bypassed our security to sit in our trays. They are not 
+dangerous, but they are impossible. We are containing the **Fact of 
+their Presence**, not their power. They are the litter of a 
+multiverse that has run out of space.
+
+═══════════════════════════════════════════════════════════════════════
+               SECTION 002 — MEDIA INVENTORY
+═══════════════════════════════════════════════════════════════════════
+
+[RECORD A] - COLORFUL ARRAY: 
+A generic 8GB USB drive. Contains one 14MB video file (.mp4).
+
+[RECORD B] - DRAMATUGY SCRIPT: 
+A 42-page physical script, hand-transcribed on standard office paper.
+
+[RECORD C] - REGRESSOR DIARY: 
+A physical leather-bound book. The text is handwritten in ink.
+
+[RECORD D] - GAME OF LIFE: 
+A single-page printed A.C.T log, found in the Site-03 printer output.
+
+[RECORD E] - END FOR ALL: 
+A single 4x6 matte photograph. No electronic components.
+
+[RECORD F] - GRIM HELM: 
+A five-page written log found stapled in an evidence jacket. 
+
+[RECORD G] - BLANK SERVER: 
+A 2MB file on a Site-01 server containing a truncated list (25%) of 
+designations.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+We will keep these items in standard archival lockers. They serve as 
+historical curiosities rather than containment priorities.
+
+MANDATORY BRIEFING PHRASE:
+                     "The object is normal. 
+                      The history is impossible."
+
+CURRENT DOSSIER STATUS: Open / Static Artifact Storage
+
+END OF DOSSIER

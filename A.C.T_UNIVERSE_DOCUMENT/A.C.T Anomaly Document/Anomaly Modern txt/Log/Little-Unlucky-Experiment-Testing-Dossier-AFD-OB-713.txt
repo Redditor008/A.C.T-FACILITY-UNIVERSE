@@ -1,0 +1,134 @@
+A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+Little-Unlucky-Experiment-Testing-Dossier-AFD-OB-713
+
+═══════════════════════════════════════════════════════════════════════
+              A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-713
+TITLE I:             Little Unlucky
+TITLE II:            THE DICE THAT APOLOGIZES
+
+FIELD TYPE:          OB — Object
+PRIMARY FILE:        Little-Unlucky-AFD-OB-713
+
+DOCUMENT CATEGORY:   CATEGORY III — Experiment & Testing Dossier
+CATEGORY FUNCTION:   Probability distribution verification, telepathic 
+                     lexicon mapping, and emotional-impact testing.
+
+CLEARANCE REQUIRED:  Level 2
+
+CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex
+ARCHIVE STATUS:      Active / Minor Artifact
+DOSSIER STATUS:      Open / Testing logs archived
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier contains the raw testing data for AFD-OB-713, specifically 
+focusing on the relationship between its mathematical failure and its 
+telepathic output.
+
+INCLUDED LOG TYPES:
+   - Probability Distribution Test (1,000 Rolls)
+   - Telepathic Lexicon Log
+   - Emotional "Bleed" Observation
+   - The "Triple-Twenty" Incident Log
+   - Dossier Closing Statement
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 001 — TELEPATHIC LEXICON LOG
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-713/TLP-001
+LOG TYPE:            Communication Mapping
+DATE:                2022-05-10
+
+The following one-word telepathic messages were recorded by researchers 
+following low rolls (1 through 6). Messages are received as a "small, 
+almost unheard whisper" directly in the mind.
+
+ROLL RESULT | WHISPERED WORD | SUBJECTIVE EMOTIONAL TONE
+------------------------------------------------------------------------
+1           | "Sorry."       | Profound Guilt
+1           | "Fail."        | Hopelessness
+2           | "Again."       | Frustration
+3           | "Oops."        | Embarrassment
+4           | "Mistake."     | Self-Correction
+1           | "No."          | Fear
+6           | "Better?"      | Desperate Hope
+
+RESEARCHER NOTE:
+The die appears to be rooting for itself. When it rolls a 6, the whisper 
+"Better?" indicates it perceives this as a relative success compared to 
+a 1. 
+
+═══════════════════════════════════════════════════════════════════════
+             SECTION 002 — EMOTIONAL "BLEED" OBSERVATION
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-713/EMO-001
+LOG TYPE:            Field Observer Report
+AUTHOR:              Agent Clara Ibarra
+
+During the 1,000-roll endurance test, I was tasked with being the 
+primary roller. By roll 400, I began to experience a heavy sense of 
+unearned melancholy. 
+
+Even though I have no stake in the outcome of the dice, every time a 1 
+appeared, I felt a physical pang of disappointment in my chest. By the 
+end of the session, I found myself patting the die and telling it "it was 
+okay." 
+
+The die responded by rolling another 1 and whispering "Liar." 
+
+RECOMMENDATION:
+Rollers must be rotated every 200 rolls to avoid "Pity Contamination." 
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 003 — THE "TRIPLE-TWENTY" INCIDENT
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-713/INC-001
+DATE:                2023-08-14
+PARTICIPANTS:        Researcher Isaac Romero
+
+Researcher Romero attempted to use "Good Luck" ritual behavior 
+(blowing on the die, shaking it gently) during a standardized test.
+
+[TRANSCRIPT SNIPPET]
+ROMERO:              "Come on, little guy. You can do it. Just one 
+                      high number for the charts."
+
+[Roll 1: 20]
+[The room feels suddenly light. No whisper recorded.]
+
+ROMERO:              "There we go! Do it again!"
+
+[Roll 2: 20]
+[Researcher reports a feeling of 'impossible victory'.]
+
+ROMERO:              "One more! Triple threat!"
+
+[Roll 3: 20]
+[The die emits a sharp, clear telepathic shout: "WAIT?"]
+
+[Roll 4: The die rolls a 1 with such velocity it imprints itself into 
+the high-density plastic table. A deep, heavy sense of 'Gloom' fills 
+the room for 10 minutes.]
+
+WHISPERED WORD:      "Useless."
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+Testing confirms that AFD-OB-713 is not a broken tool, but a sentient 
+entity that has internalized its own failure. Its luck is tied to its 
+self-esteem. 
+
+CURRENT DOSSIER STATUS: Open / Emotional Stability Testing Ongoing
+
+END OF DOSSIER

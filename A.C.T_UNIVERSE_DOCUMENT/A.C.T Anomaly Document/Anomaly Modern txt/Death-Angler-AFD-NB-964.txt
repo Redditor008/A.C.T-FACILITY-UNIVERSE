@@ -1,0 +1,175 @@
+A.C.T FACILITY — ANOMALY FILE
+Death-Angler-AFD-NB-964
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-NB-964
+TITLE I:             Death Angler
+TITLE II:            THE ABYSSAL PREDATOR OF THE GATED LURE
+
+FIELD TYPE:          NB — Non-Natural Bio Hazard
+                     ?.H — Shifting Hazard (Adaptive Imperceptibility)
+
+CLEARANCE REQUIRED:  Level 4
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        4 (High Lethality)
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           NEUTRAL
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   1911-11-04
+VERIFICATION DATE:   1914-02-12
+LOCATION:            Sunda Trench / Maritime Jurisdiction ERE
+DISCOVERY METHOD:    Investigation into intermittent "Sonar Voids" / 
+                     Unexplained loss of deep-sea research submersibles.
+
+INITIAL RESPONSE
+OPERATION:           Deep Hook
+RESPONDING UNIT:     Maritime Recovery / ERE Tactical Divers
+RESPONDING FIELD
+OPERATOR:            [ REDACTED ]
+CIVILIAN EXPOSURE:   Zero.
+AMNESTIC DEPLOYED:   N/A.
+NARRATIVE STATUS:    The 3-month capture effort was masked as a deep-sea 
+                     exploration mission. (Modernized to AFD-NB-964 1982)
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-NB-964 is a massive aquatic organism measuring 10.4 meters in 
+length. Morphologically, the subject resembles a hybrid of a female 
+deep-sea anglerfish (*Melanocetus johnsonii*) and the armored 
+prehistoric *Dunkleosteus*. 
+
+PHYSICAL CHARACTERISTICS:
+1. ARMORED INTEGUMENT: The subject’s body is covered in thick, dark 
+   crocodile-like scales. The cranial region is protected by external 
+   bony plates consistent with Placodermi fossils.
+2. DENTAL STRUCTURE: Possesses multiple rows of jagged, non-replacing 
+   teeth designed for the crushing of reinforced titanium hulls.
+3. THE LURE: A modified dorsal fin spine terminating in a large, 
+   multi-spectrum luminescent organ.
+
+ANOMALOUS PROPERTIES:
+The subject operates via a two-stage predatory cycle:
+
+STAGE I — THE HYPNOTIC LURE:
+When the luminescent lure is active, it emits a memetic visual signal. 
+Any sentient viewer perceives the light as "profoundly beautiful" and 
+develops an irresistible compulsion to approach the light source. If 
+the lure is **inactive**, the subject becomes functionally invisible. 
+It cannot be seen, photographed, or detected via standard light-based 
+sensors.
+
+STAGE II — THE DREAD HUNT:
+Once the prey enters a 2-meter "Kill Zone," the subject initiates the 
+"Dread Hunt." It produces a high-intensity underwater screech (180 dB). 
+This acoustic event instantaneously breaks the hypnotic trance, 
+forcing the prey into a state of acute terror. The subject then 
+pursues the prey in a "Sinister Hunt"—a highly coordinated and 
+ritualistic predatory sequence that appears to prioritize the prey’s 
+distress over immediate consumption.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Visual Hypnosis. The active lure forces subjects 
+                     into proximity.
+
+SECONDARY EFFECT:    Acoustic Terror-Trigger. The "Dread Hunt" screech 
+                     instantly transitions prey from trance to panic.
+
+TERTIARY EFFECT:     Passive Invisibility. Complete optical 
+                     imperceptibility when the lure is extinguished.
+
+TRIGGER CONDITION:   Proximity of prey (Hunt) / Hunger cycle (Lure).
+
+RANGE / AREA OF
+INFLUENCE:           50 m hypnotic radius / 2 m hunt-trigger zone.
+
+TEMPORAL BEHAVIOR:   Intermittent (Lure-dependent).
+
+REALITY INTERACTION: Perceptual Masking / Memetic Compulsion.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-NB-964 is housed in a "Blind Box" Abyssal Aquarium at 
+ACT-SITE-05-ID-C. 
+
+1. STRUCTURAL REINFORCEMENT: The tank walls are constructed of 
+   2-meter thick **Abyssal Anchor Plating (Item 34)** to withstand 
+   Dread Hunt impact events.
+
+2. SENSORY MONITORING: As the subject is invisible to standard optics, 
+   monitoring is performed exclusively via **Sub-Abyssal Sonar (Item 37)** 
+   and **Digital Resonance Sensors (Item 10)**.
+
+3. OPTICAL LOCKDOWN: The observation deck is fitted with **Phase-
+   Shifted Containment Glass (Item 35)**. Unfiltered direct viewing of 
+   the active lure is strictly prohibited. 
+
+4. FEEDING: Subject is fed non-sentient biological mass every 30 days. 
+   During feeding, the room must be flooded with **Banalist White-Noise 
+   (Item 24)** to dampen the acoustic impact of the hunt-screech.
+
+CONTAINMENT SITE:        ACT-SITE-05-ID-C — Nusantara Deep Relay
+SITE TYPE:               Primary Site / Maritime and Abyssal Containment
+JURISDICTIONAL
+AUTHORITY:               Nusantara Site Command / Bio-Subject Review
+CONTAINING DIVISION:     Containment Division / Maritime Observation Desk
+REQUIRED PERSONNEL:      1 Marine Biologist, 2 Heavy Security Officers, 
+                         1 SAS Technician.
+MONITORING FREQUENCY:    Continuous (Sonar-Acoustic).
+MAINTENANCE CYCLE:       Monthly structural-vibration audit.
+
+BREACH PROTOCOL:         In the event of a breach, initiate a "Blind 
+                         Lockdown." Use sonar-homing torpedoes fitted with 
+                         high-intensity thermal-lures to guide the 
+                         subject back to primary containment. 
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+Research into the "Sinister Hunt" suggests that AFD-NB-964 does not 
+merely feed on tissue, but on the chemical and neural output of high-
+intensity fear. The screech is a deliberate "Wake-up" command designed 
+to ensure the prey is conscious and terrified during the chase.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+The 3-month capture effort resulted in the loss of one recovery 
+vessel after the subject extinguished its lure, rendering it invisible 
+to the team's visual tracking. Capture was only successful after the 
+deployment of SAS technology.
+
+NOTE 002:
+[STRUCTURAL DATA OMITTED]
+
+END OF FILE

@@ -1,0 +1,289 @@
+A.C.T FACILITY — ANOMALY FILE
+The-Forgotten-Serpent-AFD-SU-008
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-008
+TITLE I:             The Forgotten Serpent
+TITLE II:            THE WASTE THAT REMEMBERS HOW TO CRAWL
+
+FIELD TYPE:          SU — Subject
+                     Mechanical organism / discarded-technology accumulator
+
+CLEARANCE REQUIRED:  Level 3
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         MUTATED
+
+THREAT LEVEL:        3
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           CONTAINED-STUDY
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   2019-08-04
+VERIFICATION DATE:   2019-08-11
+LOCATION:            Municipal electronic-waste processing yard / Bandung,
+                     Indonesia
+DISCOVERY METHOD:    Repeated equipment loss / plasma discharge reports /
+                     security footage contradiction
+
+INITIAL RESPONSE
+OPERATION:           Scrap Coil Recovery
+RESPONDING UNIT:     Field Containment Division / Applied Anomalous Machinery Desk
+RESPONDING FIELD
+OPERATOR:            Agent Raka Suryanto
+CIVILIAN EXPOSURE:   14 confirmed / 41 suspected
+AMNESTIC DEPLOYED:   Yes
+NARRATIVE STATUS:    Controlled as battery fire, theft, and unsafe recycling
+                     violation
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-008 is an autonomous mechanical serpent composed of forgotten, obsolete,
+broken, discarded, and thrown-out technological components. Its baseline body
+length is approximately 3 m. During accumulation phases, the subject may extend
+itself to a maximum observed length of 10 m by integrating additional abandoned
+technology into its body.
+
+The subject's base structure consists of overlapping plates made from fractured
+phone casings, obsolete circuit boards, stripped copper wiring, cracked laptop
+hinges, camera lenses, cassette-machine rollers, broken antenna segments,
+watch springs, damaged speaker cones, and unidentifiable metallic vertebrae.
+No original central chassis has been identified. Components appear to remain
+functional inside the subject even when they were nonfunctional before
+integration.
+
+AFD-SU-008 has no natural eyes and no natural mouth. Its head is normally a
+smooth wedge of layered scrap, wire, and dark composite plating. During active
+navigation, feeding, threat response, or plasma conversion, the subject
+manifests temporary plasma eye structures and a plasma mouth. These structures
+are not physical organs. They form as blue-white or green-white energy suspended
+between gaps in the head plating and vanish when the subject becomes dormant.
+
+AFD-SU-008 does not speak and has shown no confirmed symbolic intelligence.
+However, it demonstrates persistent animal-like behavior: searching, hiding,
+coiling, avoiding open flame, returning to electronic-waste concentrations, and
+reacting defensively when newly integrated components are removed.
+
+The anomaly's primary behavior is accumulation. When given forgotten, old,
+thrown-out, or obsolete technology, AFD-SU-008 breaks the object down without
+external tools and incorporates it into its own body. Integration may occur
+through mechanical unfolding, cable penetration, magnetic adhesion, or short
+plasma welding flashes generated from the subject's throat region.
+
+After reaching approximately 10 m in length, AFD-SU-008 enters a breakdown
+state. Recently integrated technology begins to degrade, soften, liquefy,
+fragment, and convert into bundles of anomalous plasma energy held between the
+subject's body segments. The plasma is then vented, consumed, or shed as the
+serpent shrinks. Once the body returns to its baseline length of 3 m, the
+subject resumes searching for forgotten technology and begins the accumulation
+cycle again.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Discarded-technology integration. AFD-SU-008 incorporates
+                     forgotten, old, obsolete, broken, or thrown-out technology
+                     into its body, increasing its length and structural mass.
+
+SECONDARY EFFECT:    Cyclical plasma breakdown. Once AFD-SU-008 reaches a
+                     maximum length of approximately 10 m, integrated material
+                     begins breaking down into anomalous plasma energy until
+                     the subject returns to its 3 m baseline length.
+
+TERTIARY EFFECT:     Generated plasma organs. The subject lacks natural eyes
+                     and a natural mouth, but can temporarily generate plasma
+                     eyes and a plasma mouth for navigation, feeding behavior,
+                     threat response, and material conversion.
+
+TRIGGER CONDITION:   Exposure to discarded technology initiates accumulation.
+                     Reaching 10 m body length initiates plasma breakdown.
+
+RANGE / AREA OF
+INFLUENCE:           Physical contact for integration / plasma discharge hazard
+                     within 9 m during breakdown state.
+
+TEMPORAL BEHAVIOR:   Cyclical accumulation and reduction. Average full cycle
+                     under containment conditions lasts 19 to 36 days depending
+                     on available scrap volume.
+
+REALITY INTERACTION: Mechanical-Biological Behavior Violation / Matter-to-Plasma
+                     Conversion / Obsolescence-Selective Feeding Pattern.
+
+MATERIALS ACCEPTED
+FOR INTEGRATION:
+   - broken phones and tablets
+   - obsolete radios and cassette players
+   - discarded computers and circuit boards
+   - damaged cameras and lenses
+   - rusted cables, plugs, adapters, and chargers
+   - dead batteries after safe discharge
+   - abandoned household electronics
+   - laboratory equipment declared nonfunctional
+   - analog storage media with no active archive claim
+
+MATERIALS REJECTED
+OR AVOIDED:
+   - newly manufactured technology still in active use
+   - ceremonial antiques preserved with strong personal attachment
+   - biological tissue
+   - handwritten paper records
+   - active A.C.T containment hardware unless already damaged or abandoned
+   - devices that personnel verbally identify as "still needed"
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-008 is contained in a reinforced non-networked machinery enclosure lined
+with ceramic insulation, magnetic baffling, and plasma-dissipation rods. The
+containment chamber must remain free of unauthorized electronic waste, loose
+cabling, broken sensors, discarded tools, and obsolete equipment except during
+scheduled feeding cycles.
+
+The subject is to be maintained at or near its 3 m baseline length whenever
+possible. Controlled feeding may be performed every 14 days using low-risk
+obsolete electronics cleared by Archive Review and Engineering Safety. No
+memory-bearing device may be provided until all recoverable data has been
+copied, erased, and certified non-sensitive.
+
+AFD-SU-008 must not be allowed to reach 10 m outside its plasma-rated chamber.
+If body length exceeds 8.5 m, nonessential personnel must evacuate the wing and
+plasma-dissipation rods must be armed. At 9.5 m, the chamber is to enter
+automatic breakdown containment mode, including negative-pressure venting,
+arc-grounding, and remote observation only.
+
+Personnel are prohibited from placing personal discarded devices in the chamber.
+Objects with sentimental, classified, or unidentified informational value may
+produce irregular integration behavior. In two tests, the subject refused to
+break down devices that still contained unsent messages.
+
+AFD-SU-008 is not to be struck with high-voltage suppression systems unless it
+has entered uncontrolled breach movement. Electrical attacks may be interpreted
+as feeding stimulus and may increase plasma mouth formation.
+
+CONTAINMENT SITE:        ACT-SITE-05-ID-C — Nusantara Deep Relay
+SITE TYPE:               Regional Site / Anomalous machinery and plasma-cycle
+                         containment
+JURISDICTIONAL
+AUTHORITY:               Applied Anomalous Machinery Desk / Central Archive
+                         Administration
+CONTAINING DIVISION:     Object Containment Division / Engineering Hazard Review
+REQUIRED PERSONNEL:      2 machinery technicians, 1 plasma safety observer,
+                         1 archive-clearing officer during feeding
+MONITORING FREQUENCY:    Continuous length, thermal, and electromagnetic monitoring
+MAINTENANCE CYCLE:       Feeding review every 14 days / chamber grounding test weekly
+
+BREACH PROTOCOL:         Remove all accessible electronics from projected route,
+                         disable local network hardware, deploy ceramic barrier
+                         gates, and lure subject using approved obsolete scrap
+                         toward a plasma-rated holding tunnel. Personnel must
+                         not carry phones, radios, tablets, exposed cables, or
+                         damaged equipment during retrieval.
+
+BREACH CONDITIONS —
+THIS ANOMALY IS CONSIDERED
+IN BREACH IF IT:
+   [x] Breaks formal containment
+   [x] Endangers public normalcy
+   [ ] Causes distortion in reality, Earth, time, or cosmic law
+   [ ] Spreads memetic, informational, or biological contamination
+   [x] Resists classification and escalates beyond predicted behavior
+   [x] Transforms its environment into an anomalous zone
+   [x] Other: Body length exceeds 10 m outside plasma-rated containment or
+              subject integrates active Facility hardware
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-008 is classified as a subject due to its autonomous movement, animal-like
+behavior, selective feeding, and self-preserving response patterns. It is not
+considered sapient. Its decision-making resembles scavenger instinct rather than
+reasoned intent.
+
+The anomaly distinguishes between discarded and valued technology through an
+unknown selection mechanism. Devices that have been thrown away, forgotten, or
+emotionally abandoned are accepted most readily. Devices still in active use are
+usually ignored unless broken during a breach event. This suggests the subject
+may respond to social or informational abandonment rather than material age
+alone.
+
+The plasma generated during the reduction cycle does not match ordinary thermal
+plasma. It contains brief electromagnetic patterns resembling boot sequences,
+fragments of audio static, corrupted image headers, and incomplete timestamps.
+Researchers have described the breakdown state as "burning the object's last
+utility out of it."
+
+The 3 m baseline appears stable and self-correcting. Attempts to remove body
+segments below baseline length cause the subject to rapidly absorb nearby small
+metal objects until the missing length is restored. Segments removed above
+baseline length degrade into inert slag within 3 to 7 hours if separated from
+the subject.
+
+═══════════════════════════════════════════════════════════════════════
+                      TRANSFORMATION NOTES
+═══════════════════════════════════════════════════════════════════════
+
+TRANSFORMATION ATTEMPT
+STATUS:              Limited study approved
+
+TRANSFORMATION NOTES:
+AFD-SU-008 has potential use in controlled electronic-waste disposal, hazardous
+technology neutralization, and anomalous plasma research. However, the subject's
+selection of "forgotten" technology is not fully understood and may create
+serious archive risks if used near undocumented equipment.
+
+Repurposing is not authorized at this time. Controlled study may continue only
+with cleared obsolete devices and no live network access. Plasma capture trials
+must remain below 9.5 m body length unless Level 4 authorization is granted.
+
+Researchers have proposed using AFD-SU-008 to process anomalous machines that
+cannot be safely dismantled. Proposal is pending after review noted that the
+subject may integrate such machines rather than destroy them.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+Do not leave broken equipment near AFD-SU-008's chamber door. The subject has
+repeatedly pressed its head against the lower seal when discarded components are
+stored nearby.
+
+NOTE 002:
+During Test 008-D, AFD-SU-008 generated two plasma eyes after being shown a box
+of obsolete mobile phones. The eyes tracked the box, not the handler. When the
+handler said, "These are trash," the plasma mouth opened and remained active
+for 94 seconds.
+
+NOTE 003:
+The subject has never eaten a functioning clock, but has integrated five broken
+ones. In every case, the clock hands were expelled during the next breakdown
+cycle, fused together at 12:00.
+
+NOTE 004:
+Personnel have informally described the subject as "recycling with a spine."
+This phrase is not approved for formal documentation but remains accurate enough
+to appear in containment training.
+
+END OF FILE

@@ -1,0 +1,279 @@
+A.C.T FACILITY — ANOMALY FILE
+The-Tooth-Fed-Handgun-AFD-OB-006
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-006
+TITLE I:             The Tooth-Fed Handgun
+TITLE II:            THE SMALL ANIMAL THAT CHOOSES THE SHOT
+
+FIELD TYPE:          OB — Object
+                     Biomechanical firearm anomaly / trained-object behavior
+
+CLEARANCE REQUIRED:  Level 3
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         MUTATED
+
+THREAT LEVEL:        3
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           CONTAINED-STUDY
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   2011-09-22
+VERIFICATION DATE:   2011-10-01
+LOCATION:            Seized weapons locker / Marseille, France
+DISCOVERY METHOD:    Ballistic mismatch / organic residue report / repeated
+                     discharge without trigger pressure
+
+INITIAL RESPONSE
+OPERATION:           Milk Tooth Interdiction
+RESPONDING UNIT:     Field Containment Division / Object Containment Division
+RESPONDING FIELD
+OPERATOR:            Agent Lucien Moreau
+CIVILIAN EXPOSURE:   11 confirmed / 3 fatalities prior to containment
+AMNESTIC DEPLOYED:   Yes
+NARRATIVE STATUS:    Controlled as illegal experimental firearm trafficking
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-006 is a handgun-shaped biomechanical object externally resembling a
+worn compact semi-automatic pistol. The object's outer frame is blackened metal
+with irregular patches of enamel-like white material along the grip, slide, and
+trigger guard. No manufacturer mark, serial number, machining pattern, or known
+weapon platform matches the object.
+
+Internal inspection confirms that AFD-OB-006 does not contain ordinary firearm
+components. Springs, pins, extractors, recoil assemblies, and standard firing
+mechanisms are absent. In their place are structures resembling small-scale
+internal organs, including flexible muscular bands, a vascular membrane lining
+the barrel, tooth-bud sacs inside the magazine well, and a narrow calcified
+spine-like bone running from the grip to the rear of the slide.
+
+Despite these organic structures, AFD-OB-006 is not fully alive in the manner
+of a sentient organism. It demonstrates no language comprehension, symbolic
+reasoning, self-recognition, or deliberate communication. Its behavior is closer
+to that of a trained animal or conditioned tool. The object responds to feeding,
+handling tone, repeated use patterns, and stress in the holder's body.
+
+AFD-OB-006 uses teeth as ammunition. The teeth are grown internally when
+powdered or loose gunpowder is introduced through the magazine opening. Once
+fed, the magazine well seals for 4 to 11 minutes while internal tissue converts
+the gunpowder into enamel, dentin, root-like anchoring fibers, and a compact
+propellant pressure sac. Mature ammunition resembles malformed human molars,
+though isotope analysis does not match any known human donor.
+
+When fired, the object expels the tooth through its barrel with velocity
+comparable to a conventional handgun round. Recovered projectiles frequently
+show biting deformation at impact, as if the tooth attempted to close around
+material while traveling.
+
+The most operationally dangerous property of AFD-OB-006 is its ability to aim
+for its handler. When held in a firing grip, the object may subtly redirect the
+holder's wrist, adjust barrel angle using internal muscle contraction, and
+select a target independent of the handler's conscious intention. Skilled
+shooters report the object "pulling toward" persons or objects before the
+trigger is engaged. In several incidents, AFD-OB-006 struck targets the handler
+had not seen.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Biomechanical firearm function. AFD-OB-006 replaces
+                     ordinary handgun mechanisms with internal organs, tissue,
+                     and bone while retaining the ability to discharge lethal
+                     projectiles.
+
+SECONDARY EFFECT:    Tooth ammunition generation. When gunpowder is fed through
+                     the magazine opening, the object grows tooth-like rounds
+                     inside its magazine well.
+
+TERTIARY EFFECT:     Handler-aim override. AFD-OB-006 can aim itself while
+                     held, using small muscular contractions and pressure shifts
+                     to redirect the handler's grip toward selected targets.
+
+TRIGGER CONDITION:   Feeding with gunpowder enables ammunition growth. Direct
+                     handling enables aiming response. Trigger pressure or
+                     severe handler stress may enable discharge.
+
+RANGE / AREA OF
+INFLUENCE:           Object-bound / effective projectile range approximately
+                     35 m under controlled testing.
+
+TEMPORAL BEHAVIOR:   Constant biological activity while fed / dormant when
+                     unfed and secured.
+
+REALITY INTERACTION: Biological-Mechanical Violation / Weapon-Animal Behavior /
+                     Minor Intentionality Distortion.
+
+BIOLOGICAL COMPONENTS
+IDENTIFIED:
+   - tooth-bud sacs inside magazine well
+   - vascular barrel membrane
+   - muscular recoil band behind chamber cavity
+   - calcified internal support bone
+   - saliva-like lubricating fluid with nitrate traces
+   - gum tissue around magazine feed lips
+   - nerve-like filament bundles embedded in grip panels
+
+BEHAVIORAL NOTES:
+   - accepts gunpowder through magazine well as food
+   - becomes difficult to hold steady when unfed for more than 30 days
+   - orients toward sudden movement, elevated heart rate, and raised voices
+   - resists disassembly by clenching tissue around tools
+   - calms when handled by personnel with slow breathing and stable pulse
+   - performs best for repeated handlers, suggesting conditioning response
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-006 is to be stored unloaded in a locked organic-object weapons case
+inside a reinforced object chamber. The case must contain humidity control,
+non-reactive padding, and a muzzle block rated for anomalous ballistic discharge.
+The magazine well is to remain sealed with a fitted ceramic plug except during
+authorized feeding or testing.
+
+No gunpowder, ammunition, loose teeth, dental equipment, firearms, or firearm
+cleaning tools may be stored within 20 m of the containment chamber. Personnel
+entering the chamber must pass residue screening for nitrate and propellant
+contamination.
+
+AFD-OB-006 is not to be held in a firing grip except during approved testing.
+Approved handlers must wear reinforced wrist braces fitted with remote lock
+servos. The object is to be pointed only into a sealed ballistic digestion trap
+before the magazine plug is removed.
+
+Feeding is permitted once every 45 days using a measured 0.8 gram quantity of
+low-grade gunpowder. Feeding is required to prevent agitation and tissue
+necrosis, but overfeeding is prohibited. Overfed states increase ammunition
+count, handler-aim aggression, and uncommanded trigger flexion.
+
+Personnel must not attempt to train AFD-OB-006 for field use. Conditioning
+trials may be conducted only to reduce hostile aim behavior and improve safe
+handling response.
+
+CONTAINMENT SITE:        ACT-SITE-01-US-W — Redwood Veil Complex
+SITE TYPE:               Primary Site / Urban artifact and weapons containment
+JURISDICTIONAL
+AUTHORITY:               Object Containment Division / Biohazard Review Support
+CONTAINING DIVISION:     Object Containment Division / Anomalous Weapons Review
+REQUIRED PERSONNEL:      2 armed containment technicians, 1 organic-object
+                         specialist, 1 remote safety observer
+MONITORING FREQUENCY:    Continuous case sensor monitoring / visual inspection
+                         every 72 hours
+MAINTENANCE CYCLE:       Feeding every 45 days / tissue health review monthly
+
+BREACH PROTOCOL:         Lock down local weapons wing, cut all firearm-access
+                         routes, deploy non-human remote retrieval unit, and
+                         flood chamber with low-temperature sedative aerosol.
+                         Personnel are not to approach if the object is held
+                         by any subject, including an injured or deceased one.
+
+BREACH CONDITIONS —
+THIS ANOMALY IS CONSIDERED
+IN BREACH IF IT:
+   [x] Breaks formal containment
+   [x] Endangers public normalcy
+   [ ] Causes distortion in reality, Earth, time, or cosmic law
+   [x] Spreads memetic, informational, or biological contamination
+   [ ] Resists classification and escalates beyond predicted behavior
+   [ ] Transforms its environment into an anomalous zone
+   [x] Other: Object is fed outside authorization, grows ammunition, or enters
+              firing grip with an unapproved handler
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-006 occupies an uncertain boundary between anomalous object and
+non-natural biological organism. It is classified as OB because it remains
+functionally and behaviorally centered on being a handgun, but its internal
+systems are undeniably organic. The MUTATED containment fracture reflects that
+standard weapons storage becomes biologically inappropriate, while biological
+containment alone fails to address its ballistic hazard.
+
+The object's aiming behavior does not appear to be moral, intelligent, or fully
+predatory. It reacts to stimulus patterns similar to a trained attack animal:
+movement, fear, aggression, and prior reward. However, it can also strike
+concealed targets, suggesting that its sensory field is not limited to ordinary
+visual alignment.
+
+Dissection beyond minor biopsy is prohibited. During early inspection, removal
+of a small tissue strip from the barrel membrane caused the object to discharge
+three immature teeth into the examination table without trigger contact. The
+teeth were soft at the time of discharge but hardened within seconds of impact.
+
+The internal bone is of special interest. It does not match human, animal, or
+synthetic calcium structure. Stress imaging suggests the bone flexes before
+each shot, functioning as both skeleton and intent-transfer channel between
+handler and object.
+
+═══════════════════════════════════════════════════════════════════════
+                      TRANSFORMATION NOTES
+═══════════════════════════════════════════════════════════════════════
+
+TRANSFORMATION ATTEMPT
+STATUS:              Limited behavioral stabilization only
+
+TRANSFORMATION NOTES:
+Several divisions have proposed repurposing AFD-OB-006 as a guided emergency
+sidearm. These proposals remain denied. Although the object can aim beyond its
+handler's visible knowledge, it does not reliably distinguish threat, ally,
+noncombatant, or containment priority.
+
+Current transformation work focuses on reducing uncommanded aim correction and
+teaching the object safe inactivity through repeated low-stress handling.
+Personnel are reminded that this is conditioning, not communication. AFD-OB-006
+is not considered a partner, agent, or tactical asset.
+
+Neutralization by starvation is not authorized. Extended deprivation causes
+organic degradation, distress-like vibration, and increased risk of spontaneous
+misfire if gunpowder is later introduced.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+AFD-OB-006 should not be called alive in operational briefings. It should also
+not be called inert. Both descriptions have caused procedural errors.
+
+NOTE 002:
+During Test 006-F, the approved handler attempted to aim at Target A. AFD-OB-006
+redirected 14 degrees right and fired at Target C, which had not been raised
+from behind the ballistic wall. Inspection revealed Target C contained a heated
+pig-heart analog used for later calibration. The object had no direct line of
+sight to the target before discharge.
+
+NOTE 003:
+The object produces a low clicking sound when exposed to gunpowder. Audio
+analysis indicates the sound is not mechanical cycling. It is produced by small
+teeth striking each other inside the magazine well.
+
+NOTE 004:
+One technician described the object as "a dog that was taught to be a murder
+weapon and forgot there were other tricks." The description is informal but has
+been retained in training material because it accurately reduces overconfidence
+among new handlers.
+
+END OF FILE

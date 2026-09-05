@@ -1,0 +1,178 @@
+A.C.T FACILITY — ANOMALY FILE
+Little-Unlucky-AFD-OB-713
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-713
+TITLE I:             Little Unlucky
+TITLE II:            THE DICE THAT APOLOGIZES / THE WEIGHT OF FAILURE
+
+FIELD TYPE:          OB — Object
+                     ME — Memetic (Low-level Empathic)
+
+CLEARANCE REQUIRED:  Level 2
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   INERT
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        1
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           NEUTRAL
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   1972-04-12
+VERIFICATION DATE:   1974-04-19
+LOCATION:            Residential basement / Seattle, WA, USA.
+DISCOVERY METHOD:    Investigation into a "Cursed" Tabletop Gaming group / 
+                     Reports of auditory hallucinations during game 
+                     sessions / Recurring structural bad luck.
+
+INITIAL RESPONSE
+OPERATION:           Critical Miss
+RESPONDING UNIT:     Field Containment Division / Minor Artifact Desk
+RESPONDING FIELD
+OPERATOR:            Agent Clara Ibarra
+CIVILIAN EXPOSURE:   5 confirmed (Amnesticized).
+AMNESTIC DEPLOYED:   Yes — 004-G Grade.
+NARRATIVE STATUS:    Object recovered from a "Dungeons & Dragons" 
+                     starter set. Explained as a weighted/defective 
+                     novelty item. (Retroactive Archive Cleanup 1975)
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-713 is a standard twenty-sided die (D20) composed of a deep 
+purple resin with high-contrast black numerical engravings. Physical 
+composition is 99% consistent with standard acrylic polymer, with an 
+unidentified 1% anomalous trace element concentrated in the core.
+
+The object is sentient and possesses a specialized form of probability 
+distortion and low-level telepathic communication. AFD-OB-713 
+demonstrates a profound "Weighted Bias" toward catastrophic failure.
+
+PROBABILITY DISTRIBUTION (Measured over 10,000 rolls):
+1. CRITICAL LOW (Values 1-6): 65% to 99% frequency.
+2. MID-RANGE (Values 7-15): 10% to 15% frequency.
+3. HIGH-RANGE (Values 16-18): 1% to 5% frequency.
+4. CRITICAL HIGH (Values 19-20): 0.001% frequency.
+5. SINGULARITY EVENT (Value 1): 99.99% frequency when the subject is 
+   under high emotional or observational stress.
+
+TELEPATHIC AND EMPATHIC EFFECTS:
+AFD-OB-713 communicates via "Whisper-Telepathy." Whenever the die 
+produces a low-value result (1-6), observers within a 3m radius report 
+hearing a single, faint, one-word telepathic message. These words are 
+consistently apologetic or self-deprecating.
+
+Furthermore, individuals in proximity to the die can "feel" the object's 
+internal state. Subject 713 expresses a constant, heavy sense of 
+disappointment and shame regarding its own mathematical performance.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Probability Inversion. The subject is mathematically 
+                     incapable of performing as a fair random-number 
+                     generator, favoring failure-states in almost all 
+                     circumstances.
+
+SECONDARY EFFECT:    Disappointment-Bleed. Observers experience a 
+                     contagious emotional state of let-down or failure 
+                     when the die is rolled.
+
+TERTIARY EFFECT:     Whisper-Telepathy. One-word vocalizations occur 
+                     following low rolls. Common words include: "Sorry," 
+                     "Again," "Oops," "Fail," "Mistake," and "No."
+
+TRIGGER CONDITION:   Being rolled / Kinetic movement followed by rest.
+
+RANGE / AREA OF
+INFLUENCE:           3m telepathic/empathic radius.
+
+TEMPORAL BEHAVIOR:   Constant.
+
+REALITY INTERACTION: Probability Distortion / Empathic Broadcast.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-713 is to be stored in a standard padded lockbox within the 
+Low-Threat Artifact wing of ACT-SITE-01-US-W. 
+
+1. NO GAMING: The use of AFD-OB-713 for gaming, gambling, decision-
+   making, or recreational use is strictly prohibited. The object’s 
+   unlucky bias can lead to "Probability Drift," where the rolling 
+   user experiences minor bad luck (stumbles, spills, document errors) 
+   for up to 2 hours following exposure.
+
+2. EMOTIONAL BUFFER: Personnel with a history of clinical depression 
+   or anxiety are not to handle the subject, as its "Disappointment 
+   Bleed" can exacerbate existing negative emotional states.
+
+3. ROLL LIMITATION: Research rolls must not exceed 10 per day. 
+   Excessive rolling increases the frequency of the "Singularity 1" 
+   result and increases the volume of the telepathic whispers.
+
+CONTAINMENT SITE:        ACT-SITE-01-US-W — Redwood Veil Complex
+SITE TYPE:               Primary Site / Urban Artifact Containment
+JURISDICTIONAL
+AUTHORITY:               Redwood Veil Command / Minor Artifact Desk
+CONTAINING DIVISION:     Object Containment Division
+REQUIRED PERSONNEL:      1 Archivist (Standard handling).
+MONITORING FREQUENCY:    Monthly inventory check.
+MAINTENANCE CYCLE:       N/A.
+
+BREACH PROTOCOL:         If the object is lost, it is to be recovered via 
+                         standard search. The object has no means of 
+                         locomotion. If a staff member is found 
+                         obsessively rolling the die, remove them and 
+                         administer 004-H.
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-713 appears to be a "Self-Loathing Anomaly." It is aware of its 
+intended function (to provide random numbers) and is distressed by its 
+inability to provide high values. 
+
+Tests involving "Loaded Dice" physics show that the subject is not 
+physically weighted. X-ray scans show the interior is uniform. The 
+weight is entirely metaphysical—the die "wants" to succeed but 
+fundamentally "expects" to fail, thus forcing the outcome.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+A researcher once rolled three consecutive 20s in 2023. This was 
+statistically impossible given the measurements. The die immediately 
+emitted a telepathic "Wait?" and then rolled a 1 so hard it cracked 
+the testing table.
+
+NOTE 002:
+Staff have nicknamed the die "Little Unlucky." This is permitted, as it 
+seems to slightly stabilize the subject's emotional state, provided it 
+is said in a comforting tone.
+
+END OF FILE

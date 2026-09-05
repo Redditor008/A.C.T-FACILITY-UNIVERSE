@@ -1,0 +1,229 @@
+A.C.T FACILITY — ANOMALY FILE
+Dark-World-Door-AFD-PL-932
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-PL-932
+TITLE I:             Dark World Door
+TITLE II:            THE INDESTRUCTIBLE THRESHOLD TO THE NIGHT-CYCLE DIMENSION
+
+FIELD TYPE:          PL — Place
+                     Extradimensional portal / biological-hazardous environment
+
+CLEARANCE REQUIRED:  Level 4
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   EXIGENT
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        4
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           CONTAINED-STUDY
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   1984-10-12
+VERIFICATION DATE:   1984-11-05
+LOCATION:            Basement of a derelict manor / Black Forest, Germany
+DISCOVERY METHOD:    Reports of localized toxic fog / livestock disappearance 
+                     cluster / architectural inconsistency investigation.
+
+INITIAL RESPONSE
+OPERATION:           Pale Timber Intake
+RESPONDING UNIT:     Field Containment Division / Recovery Team Gamma-9
+RESPONDING FIELD
+OPERATOR:            Handler Pavel Sokolov
+CIVILIAN EXPOSURE:   11 confirmed
+AMNESTIC DEPLOYED:   Yes — 004-D Grade
+NARRATIVE STATUS:    Manor sealed under "Structural Instability and Chemical 
+                     Contamination" cover story.
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-PL-932 is a wooden door measuring 2.1 m by 0.9 m, composed of an 
+unidentified, non-terrestrial pale wood. The material is functionally 
+indestructible under all standard physical, thermal, and chemical stress 
+testing. The only confirmed method of damaging or altering the door's 
+structure is the application of tools composed of 24-karat gold, which 
+interact with the wood as if it were a soft softwood.
+
+The door serves as a permanent, bidirectional portal to a separate dimension 
+designated the "Dark World." 
+
+ENVIRONMENTAL PROFILE OF THE DARK WORLD:
+1. SKY AND LIGHTING: The dimension is locked in a state of perpetual night. 
+   A single moon orbits the region, alternating between Red and Blue states 
+   every two months. Red-cycle moons correspond with higher aggression in 
+   local fauna, while Blue-cycle moons correlate with increased toxic fog 
+   density.
+
+2. FLORA: The dominant vegetation consists of "Pale Woods"—trees composed 
+   of the same indestructible material as the door, bearing gray, stiff 
+   leaves. The ground is covered in red-colored grass which demonstrates 
+   extreme fire resistance, remaining unmarred even when exposed to 
+   sustained 1000°C temperatures.
+
+3. SOIL (BLUE DIRT): The ground is composed of a vivid blue particulate 
+   matter. When this "Blue Dirt" makes contact with water, it undergoes a 
+   rapid exothermic hardening process, achieving the density and hardness of 
+   high-grade steel within 4 seconds. Following solidification, the material 
+   emits a steady stream of toxic fumes for a period exceeding 12 months.
+
+4. HYDROLOGY (RED RIVER): A major river of deep red liquid bisects the 
+   explored region. The fluid is highly corrosive to Earth-based organic 
+   tissue and materials, possessing a chemical composition approximately 
+   20% consistent with hydrochloric acid.
+
+LOCAL FAUNA:
+The primary predator of the Dark World is a pack-hunting organism 
+designated the "Bones Hound." These entities are 3.5 m in length, possessing 
+a predominantly skeletal appearance. Biological tissue is present only 
+along the neck bone, ribcage, and stomach regions. The stomach remains 
+functionally active, though its internal mechanics are unresolved. 
+
+Bones Hounds possess deep-blue, shiny eyes composed of a non-organic 
+unknown material. They feed on "Eel-Crabs"—amphibious deep-red hybrids 
+found within the Red River.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Stable Spatiotemporal Portal. AFD-PL-932 allows 
+                     unrestricted physical transit between Earth and the 
+                     Dark World dimension.
+
+SECONDARY EFFECT:    Indestructibility / Selective Vulnerability. The Pale 
+                     Wood material resists all terrestrial destruction methods 
+                     but is easily worked with gold-based tools.
+
+TERTIARY EFFECT:     Material Hardening (Blue Dirt). Rapid transmutation of 
+                     soil into a steel-hardened state upon contact with water, 
+                     followed by long-term toxic outgassing.
+
+QUATERNARY EFFECT:   Non-Standard Biology (Bones Hound). Persistence of 
+                     sentient life in a partial-skeletal state without a 
+                     closed circulatory or muscular system.
+
+TRIGGER CONDITION:   Physical transit through threshold (Door) / Moisture 
+                     contact (Soil).
+
+RANGE / AREA OF
+INFLUENCE:           Threshold-bound (Door) / Extradimensional (Dark World).
+
+TEMPORAL BEHAVIOR:   Constant. Moon cycles shift every two months.
+
+REALITY INTERACTION: Dimensional Aperture / Matter-Transformation / 
+                     Anomalous Biological Persistence.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-PL-932 is contained within a reinforced, airtight vault at 
+ACT-SITE-02-RU-N — White Grave Station. The primary containment focus is 
+the prevention of extradimensional fauna egress and the exclusion of all 
+moisture from the portal room.
+
+1. MOISTURE CONTROL: The containment vault is fitted with redundant 
+   industrial dehumidifiers and a triple-seal airlock system. No water, 
+   liquids, or moisture-bearing equipment are permitted within 20 m of 
+   the door. This is to prevent a "Steel-Bloom" event should Blue Dirt 
+   become tracked into the terrestrial site.
+
+2. GOLD TOOL PROTOCOL: Any maintenance, samples, or structural tests 
+   on the door or Pale Wood samples must be performed using 24k gold 
+   instruments. Gold tools are to be kept in a high-security locker 
+   beside the vault and must be weighed before and after use to ensure 
+   no material loss occurs.
+
+3. BIOLOGICAL DEFENSE: The vault threshold is equipped with automated 
+   high-intensity thermal barriers and acid-resistant physical traps. 
+   In the event of a "Bones Hound" breach attempt, personnel are to 
+   activate the thermal scrubbers. Despite the fire resistance of the 
+   red grass, the flesh on the Hounds' necks and stomachs is 
+   vulnerable to extreme heat.
+
+4. EXPLORATION RULES: All personnel entering the Dark World must wear 
+   sealed, acid-resistant hazardous environment suits with integrated 
+   air supply. Suits must be thoroughly dry-cleaned before exiting the 
+   dimension to ensure no Blue Dirt residue remains.
+
+CONTAINMENT SITE:        ACT-SITE-02-RU-N — White Grave Station
+SITE TYPE:               Primary Site / Biological Isolation and Hazardous Containment
+JURISDICTIONAL
+AUTHORITY:               White Grave Command / Dimensional Review Desk
+CONTAINING DIVISION:     Containment Division / Exploration Division
+REQUIRED PERSONNEL:      2 hazmat-technicians, 2 heavy security officers, 
+                         1 moisture-control specialist.
+MONITORING FREQUENCY:    Continuous internal and external monitoring.
+MAINTENANCE CYCLE:       Daily humidity check / Monthly gold tool calibration.
+
+BREACH PROTOCOL:         In the event of a biological breach, seal the 
+                         outer airlock and activate the vacuum-purge. If 
+                         Blue Dirt is released into a hydrated environment, 
+                         the area is to be declared a "Steel-Zone"; 
+                         evacuate and wait for outgassing to conclude 
+                         (approx. 12 months) before attempt recovery.
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+The Dark World represents a highly hostile but resource-rich environment. 
+The Pale Wood possesses potential for use as structural reinforcement for 
+TIAMAT-class containment chambers, provided the "Gold Weakness" is kept 
+classified. 
+
+The Blue Dirt phenomenon is under active study for potential 
+transformation into a rapid-seal containment material, though the toxic 
+fumes ("Blue Haze") currently render it unsuitable for use in 
+occupied facilities. 
+
+Bones Hound biology defies current ACT medical understanding. The Blue 
+Shiny eyes do not possess a nervous connection to the brain (which is 
+partially desiccated). They appear to transmit sensory data via 
+[ REDACTED ] frequency.
+
+═══════════════════════════════════════════════════════════════════════
+                      TRANSFORMATION NOTES
+═══════════════════════════════════════════════════════════════════════
+
+TRANSFORMATION ATTEMPT
+STATUS:              CONTAINED-STUDY
+
+TRANSFORMATION NOTES:
+Research into refining the toxic byproduct of hardened Blue Dirt is 
+ongoing. If the outgassing can be neutralized, "Steel-Dirt" could 
+become the standard for immediate breach-point sealing.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+Personnel are warned that the "shiny eyes" of the Bones Hounds are 
+not bioluminescent. They reflect ambient extradimensional light in a way 
+that disrupts standard NVG (Night Vision Goggles) equipment.
+
+NOTE 002:
+Sample 932-Red (River Liquid) corroded a standard titanium sample jar in 
+under 14 minutes. Use high-density ceramic or gold-lined containers only.
+
+END OF FILE

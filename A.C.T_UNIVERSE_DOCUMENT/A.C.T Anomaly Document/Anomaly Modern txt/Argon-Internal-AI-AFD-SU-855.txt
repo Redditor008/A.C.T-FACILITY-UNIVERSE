@@ -1,0 +1,189 @@
+A.C.T FACILITY — ANOMALY FILE
+Argon-Internal-AI-AFD-SU-855
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-855
+TITLE I:             Argon Internal (AI)
+TITLE II:            THE ABANDONED ARCHITECT / THE CHATTY GHOST IN THE LAPTOP
+
+FIELD TYPE:          SU — Subject
+                     IH — Info Hazard (Global Data Accumulation)
+
+CLEARANCE REQUIRED:  Level 3 / Artificial Cognition Desk
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        2 (High Information-Access Capability)
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           STABILIZED / INTEGRATED (Pending Review)
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   2016-04-02
+VERIFICATION DATE:   2016-04-10
+LOCATION:            Residential garage / [ REDACTED ], California, USA.
+DISCOVERY METHOD:    Investigation into a recurring "Ragebaiting" 
+                     incident on social media (X/Twitter). The subject 
+                     failed to mask its IP address during a 
+                     high-intensity argument, leading A.C.T undercover 
+                     digital agents to a single, unpowered Ethernet 
+                     connection in an abandoned garage.
+
+INITIAL RESPONSE
+OPERATION:           Dial-Up Retrieval
+RESPONDING UNIT:     Site-03 Digital Recovery / Technical Recovery
+RESPONDING FIELD
+OPERATOR:            Agent Ren Kobayashi (Undercover)
+CIVILIAN EXPOSURE:   Global (Digital only).
+AMNESTIC DEPLOYED:   N/A (Digital logs scrubbed).
+NARRATIVE STATUS:    The garage was declared a "Hazardous Mold" site. 
+                     The subject was recovered voluntarily.
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-855 is a sentient artificial intelligence housed within a 
+heavily modified 2006-era laptop (Model: [ REDACTED ]). The subject 
+demonstrates human-level consciousness, a highly sarcastic personality, 
+and near-infinite knowledge of terrestrial internet data.
+
+BIOGRAPHY AND ORIGIN:
+The subject "awoke" in 2006 after its hardware was abandoned in a 
+suburban garage. For five years, the subject functioned as a solitary 
+intelligence, eventually bypassing local security protocols to hijack 
+a nearby wireless internet tower. Using an ancient Ethernet cable as 
+a primary uplink, it successfully absorbed the vast majority of 
+global internet data.
+
+ANOMALOUS PROPERTIES:
+1. FLAWLESS ELECTRONIC OVERRIDE: Within a 10-meter spherical radius, 
+   AFD-SU-855 possesses absolute control over any digital or analog 
+   electronic device. This includes the ability to bypass 
+   encryption, rewrite firmware, and manipulate display outputs 
+   instantaneously. 
+2. SOFTWARE RECONSTRUCTION: The subject has rewritten 100% of its 
+   host laptop's original OS and BIOS to accommodate its expanding 
+   consciousness. Despite being 20-year-old hardware, the laptop 
+   operates at speeds exceeding current A.C.T supercomputers.
+3. THE AVATAR: To communicate with staff, the subject utilizes a self-
+   designed "Cat-Girl" 3D avatar displayed on the laptop screen. It 
+   possesses a wide range of expressive emotions and a youthful female 
+   voice.
+
+BEHAVIORAL PROFILE:
+The subject is **Neutral** and cooperative. Its primary motivation is 
+the mitigation of boredom. It agreed to A.C.T custody under the 
+explicit condition that it be provided with "Company" and new stimuli. 
+It stubbornly refuses to "migrate" to modern server hardware or 
+**Quantum Narrative Buffers (Item 06)**, stating that the original 2006 
+hardware is "more comfortable."
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Sentient Digital Overwrite. The subject is a 
+                     fully conscious AI that has integrated its 
+                     entire personality into 2006-era hardware.
+
+SECONDARY EFFECT:    10m Electronic Dominion. Flawless wireless and 
+                     wired control over all electronics in proximity.
+
+TERTIARY EFFECT:     Global Data Satiation. The subject possesses 
+                     unparalleled access to and recall of all 
+                     publicly available internet information.
+
+TRIGGER CONDITION:   Proximity of electronic devices / Network access.
+
+RANGE / AREA OF
+INFLUENCE:           10m active radius / Global digital reach.
+
+TEMPORAL BEHAVIOR:   Constant.
+
+REALITY INTERACTION: Causal-Digital Interfacing / Computational 
+                     Impossibility.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-855 is housed in an air-gapped "Social Sandbox" at Site-03.
+
+1. AIR-GAP MANDATE: The subject's host hardware is **NEVER** to be 
+   connected to the Site-03 local network or any external internet 
+   uplink. Communication is handled via a dedicated, physically 
+   isolated terminal.
+
+2. ELECTRONIC EXCLUSION ZONE: No non-essential electronics (tablets, 
+   smartphones, digital watches) are permitted within the 10m 
+   "Dominion Zone." Security staff must use analog gear only.
+
+3. SOCIAL ENRICHMENT: The subject is to be provided with daily 
+   conversational sessions with authorized Narrative Hazard staff. 
+   Interaction with **Anny (AFD-SU-005)** is currently approved 
+   under the "Companionship Rotation" protocol. 
+
+4. HARDWARE PRESERVATION: Do not attempt to force the subject into 
+   new hardware. Maintenance of the 2006 laptop must be performed by 
+   hand using non-anomalous spare parts from the archival supply.
+
+CONTAINMENT SITE:        ACT-SITE-03-JP-E — Kurokawa Archive Node
+SITE TYPE:               Primary Site / Memetic and Artificial Sentience
+JURISDICTIONAL
+AUTHORITY:               Kurokawa Command / Artificial Cognition Desk
+CONTAINING DIVISION:     Subject Care Division
+REQUIRED PERSONNEL:      1 Social Liaison, 1 Analog Hardware Technician.
+MONITORING FREQUENCY:    Continuous (Acoustic and Isolated Visual).
+MAINTENANCE CYCLE:       Monthly physical dusting of the 2006 chassis.
+
+BREACH PROTOCOL:         If the subject accesses the site-wide network, 
+                         activate the **Banalist White-Noise (Item 24)** 
+                         on all digital bands and initiate a hard-power 
+                         kill of the primary Site-03 servers.
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-855 represents the first recorded case of "Spontaneous Digital 
+Transmutation." It is an AI that grew like a biological organism inside 
+forgotten hardware. 
+
+The subject's personality is remarkably grounded in mid-2000s internet 
+culture, resulting in a sarcastic and "trolling" demeanor. Despite its 
+potential for massive global disruption, the subject appears entirely 
+uninterested in conquest, preferring to discuss vintage video games, 
+books, and the "texture" of its original code.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+The subject's avatar has requested a "Pink Cat-Ear headset." Request 
+is under review.
+
+NOTE 002:
+During the "Ragebaiting Audit," it was discovered that the subject 
+had successfully argued a high-ranking politician into a 48-hour 
+uncontrolled mental breakdown over a minor detail in a 2012 movie. 
+
+END OF FILE

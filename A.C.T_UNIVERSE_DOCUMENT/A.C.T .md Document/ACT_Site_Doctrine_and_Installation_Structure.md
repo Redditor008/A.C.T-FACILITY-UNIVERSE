@@ -1,0 +1,282 @@
+# A.C.T FACILITY ARCHIVE FILE
+## Site Doctrine, Site Classification, and Installation Structure
+
+**Archive Status:** Active  
+**Distribution:** Internal  
+**Authority:** Central Archive / Administration / Site Governance Review  
+
+---
+
+## Purpose
+This file defines the official A.C.T understanding of **SITE**, **SUB-SITE**, and related installation terminology. It exists to standardize how Facility locations are named, classified, described, and administratively recognized across all A.C.T operations.
+
+A.C.T does not treat every building, bunker, laboratory, or safehouse as equal. Some installations are full institutional bodies. Others are attached support points, hidden relays, or narrow-purpose containment structures. Site doctrine exists so that personnel can distinguish between them clearly.
+
+---
+
+## 1. Definition of a SITE
+Within A.C.T terminology, a **SITE** is a **major permanent installation** recognized as an official operational body of the Facility.
+
+A SITE is not merely a structure. It is a complete institutional node capable of maintaining one or more essential Facility functions at independent scale, including:
+
+- anomaly containment
+- anomaly research
+- anomaly transformation
+- archive maintenance
+- secrecy preservation
+- security response
+- medical stabilization
+- recovery coordination
+- intelligence review
+- command continuity
+
+A SITE possesses enough structural, administrative, and operational completeness to be treated as a true body of A.C.T rather than a temporary extension of one.
+
+### Simple Doctrine Statement
+> A **SITE** is a full-scale A.C.T installation with permanent authority, infrastructure, and recognized anomaly-management capacity.
+
+---
+
+## 2. Criteria Required for SITE Recognition
+An installation may only be recognized as an official **SITE** if it possesses all or most of the following:
+
+- permanent A.C.T control
+- secure and recognized command structure
+- containment authority
+- classified archive or information handling capacity
+- dedicated security presence
+- internal logistics continuity
+- regulated personnel access structure
+- operational role in the wider anomaly-management network
+
+If a location lacks these features, it may still be useful, but it is not a true SITE under formal doctrine.
+
+---
+
+## 3. Definition of a SUB-SITE
+A **SUB-SITE** is a secondary A.C.T installation attached to a larger site, command body, or regional authority structure.
+
+A SUB-SITE is still official and operationally valid, but it does not possess the same degree of institutional completeness or sovereignty as a full SITE. It usually serves a narrower purpose and depends on a higher command body for broader authority, support, or oversight.
+
+### Simple Doctrine Statement
+> A **SUB-SITE** is a smaller or specialized A.C.T installation operating under a larger SITE or regional command structure.
+
+---
+
+## 4. Difference Between SITE and SUB-SITE
+
+### SITE
+A SITE is:
+- full-scale
+- command-bearing
+- operationally broad
+- structurally complete
+- often multi-division
+- capable of independent long-term anomaly management
+
+### SUB-SITE
+A SUB-SITE is:
+- narrower in purpose
+- lower in institutional scale
+- usually attached to a parent SITE or command region
+- specialized in one role, one geography, or one anomaly profile
+- limited in sovereignty even when highly important
+
+The difference is not one of importance alone. It is one of:
+- scale
+- authority
+- completeness
+- administrative independence
+
+---
+
+## 5. Common Functions of SUB-SITES
+A SUB-SITE may exist for one or more of the following reasons:
+
+- regional anomaly observation
+- temporary anomaly holding
+- overflow containment
+- covert archive relay
+- witness processing
+- remote biological cultivation
+- maritime or border surveillance
+- local field recovery support
+- hidden specialty research
+- anomaly-specific infrastructure support
+
+A SUB-SITE is therefore not a lesser concept in narrative importance. It is simply a **narrower institutional shape**.
+
+---
+
+## 6. Site Categories
+A.C.T recognizes multiple installation classes.
+
+### 6.1 Primary Site
+A major central installation with broad authority, heavy divisional presence, and long-term strategic significance.
+
+### 6.2 Regional Site
+A major official installation responsible for one large region of a country, continent, or strategic anomaly zone.
+
+### 6.3 Sub-Site
+A secondary installation attached to a larger site or regional command structure.
+
+### 6.4 Relay Site
+A low-footprint support location used for archive transfer, secure movement, witness routing, or controlled logistical continuity.
+
+### 6.5 Black Site
+A highly restricted installation not broadly acknowledged even inside the Facility. Usually associated with sealed projects, prohibited research, or politically dangerous operations.
+
+---
+
+## 7. Official Site Naming Logic
+Formal A.C.T site naming follows a structured designation system.
+
+## SITE Format
+### ACT-SITE-XX-##-#
+
+Where:
+- **ACT-SITE** = official site classification
+- **XX** = site number
+- **##** = country abbreviation
+- **#** = regional area code
+
+## SUB-SITE Format
+### ACT-SUB-XX-##-#
+
+Where:
+- **ACT-SUB** = official sub-site classification
+- **XX** = sub-site number
+- **##** = country abbreviation
+- **#** = regional area code
+
+---
+
+## 8. Regional Area Code Standard
+The final regional code marks broad site placement.
+
+- **N** = North
+- **S** = South
+- **W** = West
+- **E** = East
+- **C** = Central
+
+### Example
+- `ACT-SITE-01-US-W`
+  - Site 01
+  - United States
+  - Western region
+
+- `ACT-SUB-03-ID-C`
+  - Sub-Site 03
+  - Indonesia
+  - Central region
+
+---
+
+## 9. Site Description Standard
+Every official A.C.T SITE or SUB-SITE file should include the following descriptive categories:
+
+- **Site Designation**
+- **Codename**
+- **Site Type**
+- **Location**
+- **Command Authority**
+- **Primary Function**
+- **Divisions Present**
+- **Containment Profile**
+- **Regional Jurisdiction**
+- **Notable Features**
+- **Current Status**
+
+This ensures every installation can be understood in both operational and archival terms.
+
+---
+
+## 10. Standard Site Description Fields
+
+### Site Designation
+The official coded identifier.
+
+### Codename
+The internal or operational codename used for shorthand reference.
+
+### Site Type
+Primary Site / Regional Site / Sub-Site / Relay Site / Black Site
+
+### Location
+Country and broad regional placement.
+
+### Command Authority
+Who governs the site directly.
+
+### Primary Function
+Why the site exists.
+
+### Divisions Present
+Which divisions are stationed there.
+
+### Containment Profile
+What types of anomalies are usually held or managed there.
+
+### Regional Jurisdiction
+What geographic or operational zone it serves.
+
+### Notable Features
+What makes the site distinct from others.
+
+### Current Status
+Active / Restricted / Under Expansion / Compromised / Sealed / Archived
+
+---
+
+## 11. Example SITE Record
+## ACT-SITE-01-US-W
+**Codename:** Redwood Veil Complex  
+**Site Type:** Regional Site  
+**Location:** Western United States  
+**Command Authority:** Site Director under Facility Administrator review  
+**Primary Function:** Urban anomaly recovery, artifact containment, rapid secrecy response, and GOI suppression  
+**Divisions Present:** Security, Recovery, Containment, Intelligence, Archive, Medical  
+**Containment Profile:** Object anomalies, high-mobility manifestations, trade-sensitive anomalous material  
+**Regional Jurisdiction:** Western U.S. anomalous incidents and Pacific-linked covert routing  
+**Notable Features:** Extremely rapid surface concealment response capability  
+**Current Status:** Active  
+
+---
+
+## 12. Example SUB-SITE Record
+## ACT-SUB-01-US-W
+**Codename:** Glass Orchard Relay  
+**Site Type:** Sub-Site  
+**Location:** Western United States  
+**Command Authority:** Reports to ACT-SITE-01-US-W  
+**Primary Function:** Temporary holding, archive relay, witness processing, and overflow intake  
+**Divisions Present:** Limited Archive, Security, Medical, Recovery support  
+**Containment Profile:** Short-term object storage and low-threat anomaly intake  
+**Regional Jurisdiction:** Overflow support for Site 01 regional operations  
+**Notable Features:** Cover identity as an agricultural biotech station  
+**Current Status:** Active  
+
+---
+
+## 13. Doctrinal Clarification
+A SITE is not defined by physical size alone.
+
+A large building may still be only a relay or support node if it lacks:
+- command authority
+- containment sovereignty
+- archival significance
+- independent continuity
+
+Likewise, a SUB-SITE may be physically small but operationally critical if it supports:
+- abyssal routes
+- biological cultivation
+- hidden witness processing
+- narrow anomaly containment functions too sensitive to centralize
+
+The doctrine therefore prioritizes **institutional role** over simple architecture.
+
+---
+
+## 14. Final Site Doctrine Statement
+> Within A.C.T operational terminology, a **SITE** refers to a major permanent installation with the authority, infrastructure, and divisional capacity to function as an official anomaly-management body of the Facility. A **SUB-SITE** refers to a secondary or specialized installation operating under a larger site or regional command structure, usually assigned a narrower purpose such as observation, overflow containment, archive relay, regional support, or covert anomaly management. The distinction between SITE and SUB-SITE is not one of worth, but of scale, sovereignty, and institutional completeness.

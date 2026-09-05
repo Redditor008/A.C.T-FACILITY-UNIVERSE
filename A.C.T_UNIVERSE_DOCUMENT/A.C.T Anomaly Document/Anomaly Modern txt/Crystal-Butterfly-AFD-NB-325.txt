@@ -1,0 +1,181 @@
+A.C.T FACILITY — ANOMALY FILE
+Crystal-Butterfly-AFD-NB-325
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-NB-325
+TITLE I:             Crystal Butterfly
+TITLE II:            THE PRISM SWARM / THE OBSIDIAN ARCHITECTS
+
+FIELD TYPE:          NB — Non-Natural Bio Hazard
+                     OB — Object (Colony/Hive Structure)
+
+CLEARANCE REQUIRED:  Level 3 / Verde Null Bio-Reserve
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        3 (Biological / Chemical Hazard)
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           CONTAINED-STUDY
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   2008-04-12
+VERIFICATION DATE:   2008-05-10
+LOCATION:            Remote geode cavern / Sierra Madre, Mexico.
+DISCOVERY METHOD:    Investigation into a "Rainbow Fog" that caused 
+                     severe crystalline burns on local miners.
+
+INITIAL RESPONSE
+OPERATION:           Shattered Wing
+RESPONDING UNIT:     Bio-Hazard Recovery / Site-04 Support
+RESPONDING FIELD
+OPERATOR:            Agent Lucas Bennett
+CIVILIAN EXPOSURE:   4 confirmed (Deceased due to internal crystallization).
+AMNESTIC DEPLOYED:   Yes — 004-D Grade.
+NARRATIVE STATUS:    The cavern was collapsed and declared a 
+                     "Geological Instability Zone."
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-NB-325 is a collective colony of anomalous lepidoptera composed 
+entirely of organic crystalline structures. The colony consists of 
+exactly twenty-five (25) individual workers and one (1) reproductive 
+Queen.
+
+PHYSICAL CHARACTERISTICS:
+1. THE SWARM: Individual workers measure 20 to 30 cm in wingspan. 
+   Their bodies are multifaceted and possess a "Rainbow Range" of 
+   chromatic shifting colors. Despite their crystalline composition, 
+   their wings are flexible and capable of high-velocity flight.
+
+2. THE QUEEN: A singular 65 cm specimen with a significantly larger 
+   abdomen. The Queen possesses a deeper color saturation and 
+   functions as the primary intelligence and reproductive source 
+   for the colony.
+
+3. THE HIVE: A 2m x 4m structure in the shape of a half-dome merged 
+   with a half-cube. The exterior is composed of **Refined Steel-Dirt 
+   (Item 42)** and **Abyssal Masonry (Item 20)**, over which the 
+   colony has layered a thick coating of "Harden Obsidian." 
+
+BIOLOGY AND LIFE CYCLE:
+AFD-NB-325 bypasses the standard larval (caterpillar) stage. Their 
+developmental cycle is: **Egg > Cocoon > Butterfly.**
+They sustain themselves by consuming raw stone and high-grade 
+gemstones. This mineral intake is processed into "Honey Obsidian"—a 
+highly adhesive, semi-liquid resin used to reinforce the hive and 
+entrap intruders.
+
+ANOMALOUS TOXICITY (CRYSTAL DUST):
+The fluttering of the subject's wings releases microscopic crystalline 
+particulates. If inhaled, ingested, or making contact with skin, this 
+dust triggers a "Hydration-Reactive Burn." The particles utilize the 
+body's internal water (H2O) to fuel a rapid crystalline 
+proliferation, effectively "growing" through the subject's tissues 
+until the host is biologically compromised.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Crystalline Biology. The subject is a mineral-based 
+                     lifeform with sentient social behaviors.
+
+SECONDARY EFFECT:    Honey Obsidian Secretion. Production of an 
+                     anomalous, indestructible adhesive.
+
+TERTIARY EFFECT:     Hydration-Reactive Dust. Microscopic particulates 
+                     that cause chemical burns and internal 
+                     crystallization upon contact with water.
+
+TRIGGER CONDITION:   Proximity breach / Agitation of the Hive.
+
+RANGE / AREA OF
+INFLUENCE:           3m to 5m defensive radius (Seasonal).
+
+TEMPORAL BEHAVIOR:   Cyclic. Months 1-6: Breeding Season (High 
+                     Aggression). Months 7-12: Gathering Season.
+
+REALITY INTERACTION: Biological-Material Substitution / H2O-Triggered 
+                     Transmutation.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-NB-325 is housed in a "Shatter-Proof Biosphere" at 
+ACT-SITE-04-BR-C.
+
+1. PROXIMITY ZONE: A strict exclusion zone is enforced around the hive. 
+   - Breeding Season (M1-M6): 5-meter radius.
+   - Gathering Season (M7-M12): 3-meter radius.
+   The floor within this zone must remain coated in **High-Density 
+   Liquid Lead (Item 39)** to trap fallen dust.
+
+2. FEEDING PROTOCOL: Once weekly, 5kg of low-grade industrial emeralds 
+   and quartz are to be introduced via an automated conveyor.
+
+3. PPE REQUIREMENTS: Personnel entering the secondary chamber must 
+   wear **Galaxy-Motive Textiles (Item 43)** treated with a 
+   hydrophobic coating. Full-face **Chrono-Stuttered Visors (Item 
+   09)** are mandatory to prevent accidental eye-contact with 
+   the Queen's chromatic flashes.
+
+4. DUST SCRUBBING: The chamber's air-filtration system must utilize 
+   **Molecular Leak Sensors (Item 39)** to detect the presence of 
+   crystalline particulates.
+
+CONTAINMENT SITE:        ACT-SITE-04-BR-C — Verde Null Bio-Reserve
+SITE TYPE:               Primary Site / Biological and Flora-Fauna Enclosure
+JURISDICTIONAL
+AUTHORITY:               Verde Null Command / Bio-Subject Review
+CONTAINING DIVISION:     Biological Containment Division
+REQUIRED PERSONNEL:      1 Entomologist, 1 Mineralogist, 2 Security.
+MONITORING FREQUENCY:    Continuous (Passive).
+MAINTENANCE CYCLE:       Monthly honey-obsidian harvest (authorized only).
+
+BREACH PROTOCOL:         In the event of a swarm-breach, activate the 
+                         **Thermal-Lure Beacons (Item 15)**. The 
+                         colony will prioritize heat over aggression.
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+The "Honey Obsidian" is a high-value material for the Transformation 
+Division. Its adhesive properties are rated as being 400% stronger than 
+standard industrial epoxies. We are currently investigating if it can 
+be used to reinforce **Abyssal Masonry** joints.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+Subject has demonstrated the ability to "Recognize" **Dr. Aris Thorne**. 
+During his last visit, the swarm vibrated at a frequency that 
+matched his harness's violet pulse. No interaction authorized.
+
+NOTE 002:
+[STRUCTURAL DATA OMITTED]
+
+END OF FILE

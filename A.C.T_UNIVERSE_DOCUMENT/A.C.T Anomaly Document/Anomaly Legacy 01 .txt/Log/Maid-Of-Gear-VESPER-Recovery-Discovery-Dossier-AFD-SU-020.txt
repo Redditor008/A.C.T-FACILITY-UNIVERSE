@@ -1,0 +1,389 @@
+A.C.T FACILITY — RECOVERY & DISCOVERY DOSSIER
+Maid-Of-Gear-VESPER-Recovery-Discovery-Dossier-AFD-SU-020
+
+═══════════════════════════════════════════════════════════════════════
+             A.C.T FACILITY — RECOVERY & DISCOVERY DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-020
+TITLE I:             Maid Of Gear-VESPER
+TITLE II:            THE MAIDEN BLADE FROM 3X2X
+
+FIELD TYPE:          SU — Subject
+PRIMARY FILE:        Maid-Of-Gear-VESPER-AFD-SU-020
+
+DOCUMENT CATEGORY:   CATEGORY I — Recovery & Discovery Dossier
+CATEGORY FUNCTION:   First detection, field recovery, low-metabolism intake,
+                     recovered database handling, and stabilization review
+
+CLEARANCE REQUIRED:  Level 4
+
+CONTAINMENT SITE:    ACT-SITE-05-ID-C — Nusantara Deep Relay
+ARCHIVE STATUS:      Active / Temporal-displacement restricted
+DOSSIER STATUS:      Open / Recovery sequence archived
+
+RECOVERED MATERIAL:  Vesper_Full_Master_Database.pdf
+MATERIAL LOCATION:   Anomaly Log / Vesper_Full_Master_Database.pdf
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category I — Recovery & Discovery Dossier.
+The document may contain multiple related discovery, recovery, first-contact,
+evidence, transport, and after-action records concerning AFD-SU-020.
+
+INCLUDED LOG TYPES:
+   - Discovery Signal Log
+   - Field Recovery Log
+   - Initial Contact Transcript
+   - Recovered Evidence Log
+   - Transport Stabilization Log
+   - After-Action Review
+   - Dossier Closing Statement
+
+CATEGORY PURPOSE:
+To preserve the first chain of custody for AFD-SU-020, including the alleyway
+recovery, low-metabolism condition, non-combatant response, first words after
+partial wake, and recovery of the future-origin database file.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-020, identifying as Vesper, was recovered in a shutdown or low-metabolism
+state from a service alley behind an abandoned textile warehouse in Jakarta,
+Indonesia. Temporal residue, unknown cybernetic material signatures, and an
+unregistered database file indicated future displacement from a period recorded
+as year 3X2X.
+
+The subject was in critical transition condition after crossing into the current
+year. Defensive subroutines were present but did not fully activate during first
+contact because the recovery team approached with non-combatant posture.
+
+This dossier establishes the central recovery rule for AFD-SU-020:
+
+                     Do not approach her like a battlefield.
+
+When approached as an active threat, AFD-SU-020's systems begin tactical
+classification. When approached by calm, unarmed, non-combatant personnel, the
+subject remains passive, confused, or cooperative even while disoriented.
+
+═══════════════════════════════════════════════════════════════════════
+                   SECTION 001 — DISCOVERY SIGNAL LOG
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-020/DIS-001
+LOG TYPE:            Discovery Signal Log
+CATEGORY:            Recovery & Discovery Dossier
+DATE:                2026-06-09
+LOCATION:            Jakarta, Indonesia / abandoned textile district
+DETECTING UNIT:      ACT-SITE-05-ID-C / Nusantara Deep Relay
+ANALYST:             Temporal Analyst Wayan Mahendra
+
+SUMMARY:
+At 03:17 local time, Nusantara Deep Relay detected a short-lived temporal shear
+signature originating from a low-traffic warehouse district. The signal was too
+small for standard breach classification but too structured for ordinary
+instrument noise.
+
+Initial scan showed:
+   - localized chronology drift lasting 11.4 seconds
+   - non-present alloy reflection in rainwater runoff
+   - collapsed heat signature consistent with active metabolism suppression
+   - intermittent encrypted broadcast fragments using unknown registry format
+   - repeated identifier fragment: MNT-092-OMEGA
+
+At 03:29, an automated street camera near the site captured a single frame of a
+female-presenting figure in maid attire lying partially beneath a loading awning.
+The image was corrupted from the shoulders down by angular compression artifacts
+not matching camera failure.
+
+ACTION TAKEN:
+Field Containment Division dispatched a quiet recovery team under Operation
+Quiet Apron Retrieval.
+
+ANALYST NOTE:
+The signal did not resemble arrival by portal, teleportation, or ordinary time
+slip. It resembled something forcing itself through a narrowing year.
+
+═══════════════════════════════════════════════════════════════════════
+                    SECTION 002 — FIELD RECOVERY LOG
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-020/REC-001
+LOG TYPE:            Field Recovery Log
+CATEGORY:            Recovery & Discovery Dossier
+DATE:                2026-06-09
+FIELD OPERATION:     Quiet Apron Retrieval
+LEAD OPERATOR:       Agent Nadira Prasetyo
+SUPPORT:             Technician Bima Hartono / Care Specialist Dr. Elaine Sato
+
+FIELD CONDITIONS:
+   - heavy rain
+   - low civilian traffic
+   - multiple inactive security cameras
+   - alley lighting intermittent
+   - electrical interference within 8 m of subject
+
+RECOVERY OBSERVATION:
+AFD-SU-020 was found seated against a brick wall beneath a damaged awning. Her
+head was lowered. Right hand rested against the pavement. Left forearm was held
+across the torso in a guarded position. Clothing resembled formal maid attire,
+though water failed to saturate the fabric normally.
+
+Initial scans indicated low-metabolism state rather than ordinary unconsciousness.
+Internal nanite activity was intermittent. Several cybernetic systems cycled
+between active, locked, and unknown standby states.
+
+Visible injuries were not assessed on-site due to the risk of triggering a
+defensive response. The subject's right eye opened briefly when Agent Prasetyo
+approached within 3 m.
+
+Agent Prasetyo ordered all visible weapons lowered and instructed the team to
+keep hands open. No tactical encirclement was permitted.
+
+AFD-SU-020 spoke one word:
+
+                     "Non-combatant."
+
+After this statement, the subject's right eye dimmed and she returned to
+low-metabolism state.
+
+RESULT:
+Subject recovered without defensive-mode activation.
+
+FIELD NOTE:
+The subject classified the recovery team before the recovery team fully
+classified her.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 003 — INITIAL CONTACT TRANSCRIPT
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-020/CON-001
+LOG TYPE:            Initial Contact Transcript
+CATEGORY:            Recovery & Discovery Dossier
+SOURCE:              Agent Prasetyo body microphone / partial audio
+STATUS:              Cleaned transcript
+
+BEGIN TRANSCRIPT:
+
+[Rainfall. Electrical buzz. Footsteps slow.]
+
+PRASETYO:            This is Agent Prasetyo. I am approaching with empty hands.
+                     No weapons raised. No engagement posture.
+
+TECH. HARTONO:       Her right eye moved.
+
+DR. SATO:            Nanite reading just spiked.
+
+PRASETYO:            Vesper, if that is your name, we are not here to fight.
+
+[Seven-second pause. Rainfall increases. Metallic click from subject's left
+forearm.]
+
+TECH. HARTONO:       Shield structure is waking.
+
+PRASETYO:            Everyone step back. Slow. Hands visible.
+
+[Three sets of footsteps retreat one step.]
+
+AFD-SU-020:          Non-combatant.
+
+PRASETYO:            Correct. Non-combatant. Recovery only.
+
+AFD-SU-020:          Sector?
+
+PRASETYO:            We do not know your sector. We can move you somewhere dry.
+
+AFD-SU-020:          Too early.
+
+PRASETYO:            Too early for what?
+
+AFD-SU-020:          Fall sequence.
+
+[Subject's voice drops below recorder threshold.]
+
+DR. SATO:            Metabolic collapse starting again.
+
+PRASETYO:            Stretcher. No restraints unless she wakes in combat state.
+                     Keep the blanket visible. Do not cover her face.
+
+END TRANSCRIPT.
+
+TRANSCRIPT NOTE:
+The word "Sector" is believed to refer to the Clockwork Sector named in the
+recovered database. The phrase "fall sequence" remains unconfirmed.
+
+═══════════════════════════════════════════════════════════════════════
+                  SECTION 004 — RECOVERED EVIDENCE LOG
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-020/EVD-001
+LOG TYPE:            Recovered Evidence Log
+CATEGORY:            Recovery & Discovery Dossier
+DATE:                2026-06-09
+EVIDENCE HANDLER:    Archivist R. Nakamura
+
+RECOVERED ITEMS:
+
+ITEM 020-E1:
+Recovered File — Vesper_Full_Master_Database.pdf
+
+Description:
+A compact encrypted database file recovered from a damaged black wafer found
+beneath the subject's left hip. The wafer dissolved into fine gray dust after
+successful extraction of the PDF file. The extracted file displays registry
+markings for VESPER.SYSMASTER OPERATOR DATABASE and GUILD REGISTRY // VANGUARD
+DIVISION.
+
+Relevant extract terms:
+   - MNT-092-OMEGA
+   - Vesper, The Maiden Blade
+   - Solo Vanguard-Assassin / Infiltration Specialist
+   - Neuro-Mantid Sacral-Spurs
+   - ARGUS
+   - FEEDBACKER
+   - BIFOCAL SUITE
+   - Clockwork Sector
+   - Swarm collective
+
+ITEM 020-E2:
+Three partial ammunition fragments of unknown manufacture.
+
+Description:
+Fragments were found in rainwater near the subject. They do not match any
+present-day commercial munition type. Thermal residue remained active for 19
+minutes despite rainfall.
+
+ITEM 020-E3:
+Cloth fiber sample from the subject's outer attire.
+
+Description:
+Fiber sample detached from damaged hem. The material changes contrast under
+camera observation and appears designed for optical camouflage. Sample remains
+stored in light-neutral evidence sleeve.
+
+ITEM 020-E4:
+Rainwater sample from immediate recovery location.
+
+Description:
+Water contained suspended metallic particles that briefly formed grid-like
+patterns when exposed to scanning light. Pattern decayed after 6 minutes.
+
+EVIDENCE STATUS:
+All items sealed. Database file stored in Anomaly Log archive. Network connection
+strictly prohibited.
+
+═══════════════════════════════════════════════════════════════════════
+               SECTION 005 — TRANSPORT STABILIZATION LOG
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-020/TRN-001
+LOG TYPE:            Transport Stabilization Log
+CATEGORY:            Recovery & Discovery Dossier
+DATE:                2026-06-09
+ROUTE:               Jakarta field site to ACT-SITE-05-ID-C interim transport
+                     relay, then secure transfer to recovery suite
+MEDICAL LEAD:        Dr. Elaine Sato
+
+TRANSPORT CONDITIONS:
+   - no visible weapons inside transport compartment
+   - soft restraints prepared but not applied
+   - nonreflective blanket used
+   - left forearm kept visible and uncompressed
+   - sacral-spur region not touched
+   - database material transported separately
+
+STABILIZATION NOTES:
+AFD-SU-020's metabolism cycled between near-shutdown and rapid nanite correction.
+When unfamiliar mechanical sounds occurred near the transport door, her left
+forearm shield structure flexed beneath the sleeve. The flex ceased when Agent
+Prasetyo repeated:
+
+                     Recovery only. Non-combatant.
+
+The subject did not fully wake during transport. She spoke three phrases while
+in partial low-metabolism state:
+
+   - "Clockwork not visible."
+   - "Where is the fall?"
+   - "Do not render them as icons."
+
+The final phrase is believed to reference the gamification protocol described in
+the recovered database.
+
+ARRIVAL STATUS:
+Subject arrived at recovery suite without defensive activation. Nanite activity
+stabilized at 38% of database-claimed baseline.
+
+═══════════════════════════════════════════════════════════════════════
+                    SECTION 006 — AFTER-ACTION REVIEW
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-020/AAR-001
+LOG TYPE:            After-Action Review
+CATEGORY:            Recovery & Discovery Dossier
+REVIEWING UNIT:      Field Containment Division / Temporal Displacement Review
+DATE:                2026-06-14
+
+WHAT SUCCEEDED:
+   - Recovery team avoided tactical encirclement.
+   - Visible weapons were lowered before full defensive wake.
+   - Non-combatant posture was verbally established and maintained.
+   - Subject was transported without direct restraint.
+   - Recovered database was isolated from networked systems.
+
+WHAT NEARLY FAILED:
+   - Initial support personnel prepared standard armed perimeter too close to
+     the subject.
+   - Technician Hartono almost scanned the sacral-spur region at close range.
+   - Transport latch noise triggered partial shield flex.
+   - Database file was almost opened on a networked analysis terminal before
+     Archive quarantine order arrived.
+
+PRIMARY LESSON:
+AFD-SU-020 responds to posture before language. Calm words are insufficient if
+personnel stand like a threat.
+
+PROCEDURE CHANGE:
+All future AFD-SU-020 contact teams must include a non-combatant liaison. Armed
+security may observe remotely but must not form the first visual contact line.
+
+APPROVED CONTACT PHRASE:
+
+                     Recovery only. Non-combatant. We are not hunting.
+
+PROHIBITED CONTACT CONDITIONS:
+   - weapons raised
+   - surrounding formation
+   - sudden approach from rear
+   - direct handling of left forearm
+   - direct handling of spine or sacral region
+   - network exposure of recovered database
+   - use of terms implying ownership, capture, or deployment
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+Operation Quiet Apron Retrieval established that AFD-SU-020 is dangerous when
+approached as a battlefield asset but manageable when approached as a disoriented
+future-displaced subject in need of recovery.
+
+The subject's non-combatant filter is not a weakness to exploit. It is the only
+reason first contact did not become an armed engagement.
+
+Future additions to this dossier should include:
+   - full first-wake interview
+   - database authenticity review
+   - BIFOCAL SUITE recovery assessment
+   - FEEDBACKER shield safety report
+   - memory cascade monitoring
+   - any confirmed information about year 3X2X
+
+CURRENT DOSSIER STATUS: Open / Recovery Sequence Archived
+
+END OF DOSSIER

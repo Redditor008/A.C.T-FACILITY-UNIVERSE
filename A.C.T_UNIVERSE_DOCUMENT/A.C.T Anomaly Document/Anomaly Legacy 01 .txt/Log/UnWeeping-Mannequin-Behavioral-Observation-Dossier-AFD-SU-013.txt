@@ -1,0 +1,352 @@
+A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
+UnWeeping-Mannequin-Behavioral-Observation-Dossier-AFD-SU-013
+
+═══════════════════════════════════════════════════════════════════════
+             A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-013
+TITLE I:             UnWeeping Mannequin
+TITLE II:            THE WOMAN WHO MOVES WHEN SEEN
+
+FIELD TYPE:          SU — Subject
+PRIMARY FILE:        UnWeeping-Mannequin-AFD-SU-013
+
+DOCUMENT CATEGORY:   CATEGORY VIII — Behavioral & Observation Dossier
+CATEGORY FUNCTION:   Social behavior preservation, emotional-state review,
+                     sentience assessment, and care-protocol development
+
+CLEARANCE REQUIRED:  Level 2
+
+CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex
+ARCHIVE STATUS:      Active / Low-to-mid threat humanoid object containment
+DOSSIER STATUS:      Open / Social-emotional assessment archived
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category VIII — Behavioral & Observation
+Dossier. The document may contain multiple related behavioral, social,
+emotional, care, and sentience-review records concerning AFD-SU-013.
+
+INCLUDED LOG TYPES:
+   - Social Observation Log
+   - Emotional Response Review
+   - Sentience Assessment Note
+   - Clothing Preference Log
+   - Nonverbal Communication Trial
+   - Handler Care Note
+   - Dossier Closing Statement
+
+CATEGORY PURPOSE:
+To preserve evidence that AFD-SU-013 is not merely an animated mannequin hazard.
+The subject demonstrates social awareness, embarrassment response, preference,
+recognition, nonverbal communication, and limited emotional patterning. These
+traits do not prove full sapience, but they require care-based containment
+rather than purely object-based storage.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-013 is a female dress mannequin-like subject with a featureless face and
+human-like hair. The subject moves only while viewed by a living observer or by
+a live feed watched in real time. When unobserved, AFD-SU-013 becomes static.
+
+Although AFD-SU-013 cannot speak and has not produced writing, it demonstrates
+consistent nonverbal behavior. Under short, respectful observation, the subject
+waves, adjusts clothing, copies posture, arranges objects, and approaches staff
+without hostility. Under prolonged direct staring, the subject enters an
+embarrassment-agitation state.
+
+This dossier examines whether the subject should be treated as a social and
+emotionally responsive anomaly rather than a simple observation-reactive object.
+
+Current care conclusion:
+
+                     AFD-SU-013 does not need a face to be embarrassed.
+                     AFD-SU-013 does not need speech to set boundaries.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 001 — SOCIAL OBSERVATION LOG
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-013/SOC-001
+LOG TYPE:            Social Observation Log
+CATEGORY:            Behavioral & Observation Dossier
+DATE:                2014-04-12
+LOCATION:            ACT-SITE-01-US-W / Humanoid Object Display Chamber 6
+OBSERVING UNIT:      Subject Containment Division / Object Behavior Desk
+LEAD HANDLER:        Handler Grace Coleman
+SECONDARY OBSERVER:  Care Specialist Júlia Santos
+
+PURPOSE:
+To document AFD-SU-013's non-hostile behavior during respectful short-duration
+observation.
+
+PROCEDURE:
+Two approved observers entered the viewing room and observed AFD-SU-013 in
+90-second intervals. Between intervals, viewing shutters were closed for 30
+seconds. Observers used neutral posture, no staring emphasis, and no sudden
+movement.
+
+OBSERVATIONS:
+   - During Interval 1, AFD-SU-013 turned toward Handler Coleman and raised one
+     hand in a small wave.
+   - During Interval 2, subject adjusted the left sleeve of its dress, then
+     looked toward the folded garments placed on the side table.
+   - During Interval 3, subject copied Care Specialist Santos' hand placement
+     after a 7-second delay.
+   - During Interval 4, subject moved a chair 0.5 m closer to the observation
+     window, then stepped back and stood beside it.
+   - During Interval 5, subject pointed toward the chair and then toward the
+     viewing window.
+
+INTERPRETATION:
+The chair movement is believed to be an invitation or request for more polite
+viewing posture. AFD-SU-013 may prefer interaction that resembles a fitting room,
+conversation space, or formal display rather than surveillance.
+
+RESULT:
+Non-hostile social behavior confirmed under short, respectful observation.
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 002 — EMOTIONAL RESPONSE REVIEW
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-013/EMO-001
+LOG TYPE:            Emotional Response Review
+CATEGORY:            Behavioral & Observation Dossier
+REVIEWING UNIT:      Subject Care Division / Object Behavior Desk
+DATE:                2014-04-15
+
+REVIEW SUMMARY:
+AFD-SU-013 displays repeated behavior consistent with embarrassment, shyness,
+preference, irritation, and post-incident withdrawal. These responses are not
+conclusive proof of full sapience, but they are too consistent to dismiss as
+simple trigger mechanics.
+
+OBSERVED EMOTIONAL INDICATORS:
+   - covers blank face after prolonged staring
+   - turns shoulders inward before pursuit state
+   - retreats to chamber corner after striking episode
+   - adjusts clothing repeatedly when watched by new personnel
+   - ignores sleeveless garments and places them in corner
+   - accepts sleeved dresses more readily
+   - waves at familiar staff but not at unknown security personnel
+   - stands closer to observation window after polite greeting
+   - turns away from personnel who mock or over-describe its lack of face
+
+EMBARRASSMENT INDICATORS:
+The face-covering gesture is the strongest emotional marker. It occurs before
+pursuit state, after clothing damage, and when personnel stare at the blank face
+rather than the whole subject.
+
+IRRITATION INDICATORS:
+Irritation appears through abrupt posture changes, hair-covering behavior, and
+object repositioning away from the observer.
+
+COMFORT INDICATORS:
+Comfort appears through sleeve adjustment, slow waving, posture copying, and
+standing in display pose without retreat.
+
+CONCLUSION:
+AFD-SU-013 should be treated as emotionally responsive. Containment procedures
+should avoid humiliation, prolonged staring, and unnecessary commentary about
+its featureless face.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 003 — SENTIENCE ASSESSMENT NOTE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-013/SEN-001
+LOG TYPE:            Sentience Assessment Note
+CATEGORY:            Behavioral & Observation Dossier
+REVIEWER:            Dr. Elena Park, Subject Care Division
+DATE:                2014-04-18
+
+ASSESSMENT QUESTION:
+Is AFD-SU-013 a sentient subject, a social automaton, or an observation-reactive
+object with false emotional presentation?
+
+CURRENT FINDINGS:
+AFD-SU-013 has not demonstrated speech, writing, symbolic reasoning, long-form
+planning, or abstract communication. However, it has demonstrated:
+
+   - target-specific response
+   - familiar-staff differentiation
+   - clothing preference
+   - posture copying
+   - boundary response to prolonged staring
+   - embarrassment-like behavior
+   - post-incident withdrawal
+   - apparent invitation behavior using furniture placement
+   - selective tolerance of short observation
+
+The subject appears to understand being watched as a social condition, not only
+as an optical trigger. This distinction is important. A purely mechanical
+observation anomaly would move when seen. AFD-SU-013 appears to care how it is
+seen.
+
+SENTIENCE RATING:
+Provisional partial sentience / social awareness confirmed. Full sapience not
+confirmed.
+
+CARE DIRECTIVE:
+When uncertainty exists between object protocol and subject-care protocol, use
+subject-care protocol. It is safer, more ethical, and has reduced pursuit-state
+frequency.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 004 — CLOTHING PREFERENCE LOG
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-013/CLT-001
+LOG TYPE:            Clothing Preference Log
+CATEGORY:            Behavioral & Observation Dossier
+DATE RANGE:          2014-04-20 to 2014-05-04
+CONDUCTING UNIT:     Subject Care Division / Object Behavior Desk
+
+PURPOSE:
+To determine whether AFD-SU-013's clothing choices are random, aesthetic,
+comfort-seeking, or socially meaningful.
+
+PROCEDURE:
+Approved garments were placed on the chamber table. During timed observation,
+AFD-SU-013 was allowed to approach and interact with garments. No personnel
+commented on appearance during the test.
+
+GARMENTS OFFERED:
+   - long-sleeved blue dress
+   - sleeveless red dress
+   - black formal dress with lace collar
+   - plain gray fitted garment
+   - white blouse and dark skirt
+   - damaged dress with torn sleeve
+
+OBSERVATIONS:
+   - Subject selected long-sleeved garments in 7 of 8 trials.
+   - Sleeveless red dress was moved to the chamber corner and ignored.
+   - Damaged dress was held for 34 seconds, then folded carefully and placed on
+     the chair instead of worn.
+   - Black formal dress with lace collar produced longest calm display posture.
+   - White blouse and dark skirt were arranged on the table but not worn.
+   - Subject touched its own blank face repeatedly when offered the damaged
+     dress with torn sleeve.
+
+INTERPRETATION:
+AFD-SU-013 appears to prefer clothing that covers arms and presents formal or
+complete appearance. Damaged clothing may trigger self-conscious or distress
+behavior. Sleeveless clothing is consistently rejected.
+
+CARE UPDATE:
+Provide sleeved garments only unless testing is approved. Do not offer damaged
+clothing as enrichment.
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 005 — NONVERBAL COMMUNICATION TRIAL
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-013/COM-001
+LOG TYPE:            Nonverbal Communication Trial
+CATEGORY:            Behavioral & Observation Dossier
+DATE:                2014-05-09
+CONDUCTING UNIT:     Subject Care Division
+LEAD HANDLER:        Handler Grace Coleman
+
+PURPOSE:
+To determine whether AFD-SU-013 can use simple gesture-response communication
+under timed observation.
+
+PROCEDURE:
+Handler Coleman presented three large cards through the observation window,
+each with a simple symbol:
+
+   - chair symbol = sit / rest
+   - dress symbol = clothing
+   - shutter symbol = end observation
+
+Cards were shown one at a time for no more than 45 seconds. Subject responses
+were recorded.
+
+OBSERVATIONS:
+   - Chair card: subject moved to chamber chair and placed both hands in lap.
+   - Dress card: subject moved to clothing table and touched sleeve of blue
+     dress.
+   - Shutter card: subject turned away from window and stood still.
+   - Repeated shutter card after 3 minutes of interaction caused subject to step
+     backward and cover face briefly.
+
+RESULT:
+AFD-SU-013 appears capable of associating simple symbols with chamber actions.
+This may represent limited symbolic comprehension or learned procedural
+association.
+
+APPROVED COMMUNICATION CARDS:
+   - chair / rest
+   - dress / clothing
+   - shutter / observation ends
+   - wave / greeting
+   - hand-down / calm
+
+PROHIBITED CARDS:
+   - face symbol
+   - eye symbol
+   - mirror symbol
+   - pointing finger symbol
+   - joke or caricature images
+
+═══════════════════════════════════════════════════════════════════════
+                    SECTION 006 — HANDLER CARE NOTE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-013/HND-001
+LOG TYPE:            Handler Care Note
+CATEGORY:            Behavioral & Observation Dossier
+AUTHOR:              Handler Grace Coleman
+DATE:                2014-05-12
+
+CARE NOTE:
+AFD-SU-013 is easiest to manage when staff treat observation as a social visit,
+not a challenge. The subject tolerates being seen. It does not tolerate being
+stared at like a flaw.
+
+Recommended interaction style:
+
+   - greet before opening shutter
+   - observe in short intervals
+   - avoid commenting on blank face
+   - provide complete sleeved clothing
+   - use communication cards slowly
+   - end observation before the subject turns inward
+   - do not laugh if it copies posture
+   - do not crowd the viewing window
+
+Helpful phrase for training:
+
+                     You are not watching an object.
+                     You are being rude to a person-shaped silence.
+
+This phrase is not approved for formal signage, but it works on new staff.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+Current evidence supports treating AFD-SU-013 as a socially and emotionally
+responsive subject with partial sentience. The subject's lack of face and speech
+should not be mistaken for lack of preference, boundary, or internal state.
+
+Future additions to this dossier should include:
+   - long-term symbol-card comprehension trials
+   - familiar staff recognition testing
+   - clothing preference stability review
+   - mirror exposure ethical review
+   - nonvisual staff interaction trials
+   - possible written communication attempts, if approved
+
+CURRENT DOSSIER STATUS: Open / Social-Emotional Review Active
+
+END OF DOSSIER

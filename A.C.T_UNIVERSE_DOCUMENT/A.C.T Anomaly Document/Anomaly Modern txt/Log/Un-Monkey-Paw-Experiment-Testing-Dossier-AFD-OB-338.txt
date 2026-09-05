@@ -1,0 +1,118 @@
+A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+Un-Monkey-Paw-Experiment-Testing-Dossier-AFD-OB-338
+
+═══════════════════════════════════════════════════════════════════════
+              A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-338
+TITLE I:             Un-Monkey Paw
+TITLE II:            THE MINOR IRONIST
+
+FIELD TYPE:          OB — Object
+PRIMARY FILE:        Un-Monkey-Paw-AFD-OB-338
+
+DOCUMENT CATEGORY:   CATEGORY III — Experiment & Testing Dossier
+CATEGORY FUNCTION:   Wish-irony mapping, matter-transmutation limits, 
+                     and uncurling-cycle observation.
+
+CLEARANCE REQUIRED:  Level 2
+
+CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex
+ARCHIVE STATUS:      Active / Minor Artifact
+DOSSIER STATUS:      Open / Testing logs archived
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier contains the results of "Minor Wish" trials conducted at 
+Site-01 to verify the power envelope of AFD-OB-338.
+
+INCLUDED LOG TYPES:
+   - Trial 01: Matter State Transmutation (Liquid)
+   - Trial 02: Causal Coincidence (Small Objects)
+   - The "Lunch" Incident
+   - Uncurling Cycle Observation
+   - Dossier Closing Statement
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 001 — WISH TRIAL LOGS
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-338/TST-001
+DATE:                2019-02-04
+ROLLER:              Researcher Helen Price
+
+TRIAL 01:            WISHING FOR A CHANGE IN MATTER
+WISH:                "I wish this beaker of distilled water was fine 
+                      French wine."
+RESULT:              The water turned into a high-quality 1945 Bordeaux.
+THE IRONIC TAX:      The cork was wedged too tightly to be removed with 
+                      standard tools. Researcher Price spent 14 
+                      minutes attempting to open it, eventually 
+                      shattering the neck.
+
+TRIAL 02:            WISHING FOR PROBABILISTIC SUCCESS
+WISH:                "I wish I could find my lost office keys today."
+RESULT:              Keys were found within 2 minutes inside the 
+                      researcher's desk drawer.
+THE IRONIC TAX:      The keys had been magnetized. Upon retrieval, they 
+                      stuck to the researcher’s watch and wiped her 
+                      access card data.
+
+═══════════════════════════════════════════════════════════════════════
+                    SECTION 002 — THE "LUNCH" INCIDENT
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-338/INC-001
+DATE:                2021-11-12
+PARTICIPANT:         Junior Researcher [ REDACTED ]
+
+[TRANSCRIPT BEGINS]
+
+J. RESEARCHER:       "I'm starving. I wish I had a warm ham sandwich 
+                      right now."
+
+[One finger of the paw curls inward.]
+
+RESULT:              A warm ham sandwich manifests on the testing table. 
+                      Scans show it is non-anomalous and safe for 
+                      consumption.
+
+THE IRONIC TAX:      The sandwich contained exactly 400% more mustard 
+                      than requested. The researcher reported that the 
+                      first bite was "physically painful" to his 
+                      sinuses. He finished the sandwich regardless.
+
+[TRANSCRIPT ENDS]
+
+═══════════════════════════════════════════════════════════════════════
+             SECTION 003 — UNCURLING CYCLE OBSERVATION
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-338/OBS-001
+LOG TYPE:            Time-Lapse Summary
+RANGE:               Monthly (Recurring)
+
+On the 1st of every month, at exactly 00:00:01 local time, the curled 
+fingers of AFD-OB-338 begin a slow extension process. 
+
+The movement takes approximately 4 minutes. During this time, the 
+room temperature drops by 0.5°C and a faint sound resembling a 
+"cracking knuckle" is recorded via acoustic sensors. Once the paw is 
+flat, the anomalous charge is considered restored.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-338 is consistently "Minor." It does not possess the narrative 
+weight to cause life-changing tragedy. It exists as a petty, 
+frustrating reminder that reality-warping always comes with a cost—
+even if that cost is just too much mustard.
+
+CURRENT DOSSIER STATUS: Open / Ongoing Nuisance Monitoring
+
+END OF DOSSIER

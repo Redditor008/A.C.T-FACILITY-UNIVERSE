@@ -1,0 +1,328 @@
+# A.C.T FACILITY ARCHIVE FILE
+## GOI Registry, Rival Powers, and External Threat Doctrine
+
+**Archive Status:** Active  
+**Distribution:** Internal / Intelligence Use  
+**Authority:** Intelligence Division and Central Archive  
+
+### Archive Note
+This file is the complete internal archive version of GOI classification, registry doctrine, posture logic, and external threat interpretation used by the Facility.
+
+---
+
+## Introduction
+If Part Three defines how A.C.T records anomalies, then Part Four defines how A.C.T records the organizations, factions, networks, and powers that operate around the anomalous world. Not every danger to structural reality is an object, entity, place, or phenomenon. Some dangers are organized. Some are ideological. Some are commercial. Some are state-backed. Some are cultic. Some are useful. Some are allies. Some are worse than anomalies because they intentionally weaponize them.
+
+For this reason, A.C.T maintains a separate archive system for **Groups of Interest**, or **GOIs**.
+
+A GOI is not necessarily an anomaly itself. It is a structured actor in the anomalous world. It may know of anomalies, hide them, worship them, study them, trade them, manufacture them, contain them, destroy them, or exploit them. What makes a GOI dangerous—or valuable—is not merely what it is, but what it does with the impossible.
+
+---
+
+## 4.1 — What Qualifies as a GOI
+A **GOI / Group of Interest** is any organization, network, movement, institution, market, or collective that knowingly interacts with anomalies in a meaningful, repeatable, or operational way.
+
+A body qualifies as a GOI if it does one or more of the following:
+
+- knows about anomalies as a real category of existence
+- can contain anomalies
+- worships anomalies
+- studies anomalies
+- creates anomalies
+- actively tries to neutralize anomalies
+- buys or sells anomalies
+- researches anomalies
+- has a negative, positive, neutral, business, trade, or unknown relationship with the Facility
+
+In A.C.T doctrine, awareness alone is not always enough. What matters is organized anomalous relevance. A random civilian witness is not a GOI. A hidden syndicate trading anomalous objects is.
+
+A GOI may be:
+- hostile
+- cooperative
+- tolerated
+- useful
+- unstable
+- opportunistic
+- partially understood
+- or completely unknown in deeper purpose
+
+Not all GOIs are enemies. But all GOIs matter.
+
+---
+
+## 4.2 — GOI Designation Rules
+A.C.T identifies Groups of Interest under a dedicated registry system:
+
+## **GOI-##-#-XXX**
+
+This structure separates GOI records from anomaly records and ensures that external anomalous actors are archived under their own institutional logic.
+
+### 4.2.1 Designation Segment Meaning
+- the first **##** identifies the **Nature Class code**
+- the second **#** identifies the **Alignment Class marker**
+- the **XXX** identifies the numerical registry code
+
+This allows A.C.T to understand a GOI’s broad type and relational status at a glance.
+
+### 4.2.2 Recommended Nature Codes
+- **GV** = Government
+- **CP** = Corporate
+- **CU** = Cultic
+- **SC** = Scientific
+- **CV** = Civil
+- **ML** = Militant
+- **AN** = Anomalous
+- **IH** = In-Human
+- **BS** = Business
+- **HY** = Hybrid
+
+### 4.2.3 Recommended Alignment Markers
+- **N** = Neutral
+- **P** = Positive
+- **X** = Negative
+- **U** = Unknown
+- **T** = Trade
+- **B** = Business
+- **G** = Guild
+
+### 4.2.4 Example GOI Designations
+- `GOI-GV-P-001`
+- `GOI-ML-X-014`
+- `GOI-BS-T-027`
+
+These identifiers are intended to make GOI records searchable, comparable, and operationally readable across divisions.
+
+---
+
+## 4.3 — GOI Classification Structure
+Every GOI file should be written using a stable classification stack so that A.C.T can quickly assess what the group is, how far it reaches, what it can do, and how the Facility should respond.
+
+### 4.3.1 Nature Class
+Nature Class describes what kind of group the GOI is at its core.
+
+- **Government**
+- **Corporate**
+- **Cultic**
+- **Scientific**
+- **Civil**
+- **Militant**
+- **Anomalous**
+- **In-Human**
+- **Business**
+- **Hybrid**
+
+### 4.3.2 Alignment Class
+Alignment Class records the GOI’s broad relationship to A.C.T.
+
+- **Neutral**
+- **Positive**
+- **Negative**
+- **Unknown**
+- **Trade**
+- **Business**
+- **Guild**
+
+### 4.3.3 Reach Class
+Reach Class records how large the GOI’s influence is.
+
+- **CELLULAR**
+- **LOCAL**
+- **REGIONAL**
+- **NATIONAL**
+- **TRANSNATIONAL**
+- **GLOBAL**
+- **STRUCTURAL**
+
+### 4.3.4 Anomalous Capability Class
+This class records how capable the GOI is when dealing with anomalies directly.
+
+- **NULL**
+- **EXPOSED**
+- **HANDLER**
+- **PRACTITIONER**
+- **ENGINEERING**
+- **REALITY-ACTIVE**
+- **STRUCTURAL**
+
+### 4.3.5 Threat Level
+GOI threat is measured from **0 to 5**.
+
+- **0** = no meaningful threat
+- **1** = low threat
+- **2** = moderate threat
+- **3** = high threat
+- **4** = severe threat
+- **5** = critical threat
+
+### 4.3.6 Secrecy Risk
+This class measures how dangerous the GOI is to the masquerade of normal life.
+
+- **VEILED**
+- **LEAKING**
+- **EXPOSURE-ACTIVE**
+- **NORMALCY-BREACHING**
+
+### 4.3.7 A.C.T Posture
+This records what A.C.T intends to do with the GOI.
+
+- **MONITOR**
+- **INFILTRATE**
+- **MISDIRECT**
+- **CONTAIN**
+- **DISMANTLE**
+- **APPROPRIATE**
+- **ERASE**
+- **COOPERATED**
+- **HELP**
+
+---
+
+## 4.4 — GOI Registry File Standard
+Every GOI file should include the following sections:
+
+- GOI Designation
+- Common Name
+- Aliases
+- Nature Class
+- Alignment Class
+- Reach Class
+- Anomalous Capability
+- Threat Level
+- Secrecy Risk
+- A.C.T Posture
+- Known Leadership
+- Known Assets
+- Known Holdings
+- Operational Regions
+- Ideology
+- History with A.C.T
+- Current Status
+- Cross-Referenced Anomalies
+
+This keeps GOI records consistent with A.C.T’s broader archive doctrine while preserving their distinct organizational focus.
+
+## 4.4.1 Site Monitoring and Jurisdiction
+Where relevant, GOI records should note which A.C.T SITE, SUB-SITE, or regional command body maintains primary monitoring, infiltration, or response jurisdiction. External threat handling is therefore tied directly to the Facility's territorial site network rather than treated as abstract intelligence alone.
+
+---
+
+## 4.5 — A.C.T External Threat Doctrine
+A.C.T doctrine does not treat all GOIs equally.
+
+Some are:
+- enemies
+- tools
+- tolerated outsiders
+- trade-linked networks
+- temporary allies
+- close allies
+- helpful groups
+- operational nuisances
+- existential rivals
+
+A.C.T therefore holds the following external doctrine principles:
+
+- not all GOIs are enemies
+- some are useful
+- some are tolerated
+- some are temporary allies
+- some are more dangerous than anomalies because they intentionally weaponize anomalies
+- some are helpful
+- some are close allies
+
+The Facility’s goal is not emotional loyalty. Its goal is structural survival. A GOI is assessed by consequence, capability, secrecy impact, and usefulness.
+
+---
+
+## 4.6 — GOI and Anomaly Overlap
+Not all GOIs are entirely normal organizations.
+
+Some GOIs are:
+- human organizations using anomalies
+- partly anomalous groups
+- entirely anomalous collectives
+
+For this reason, A.C.T separates documentation into two layers:
+
+- **GOI file** = organizational archive
+- **AFD file** = anomalous nature archive
+
+If the group itself is anomalous, it receives **dual filing**.
+
+This prevents A.C.T from confusing:
+- what the group **is as an organization**
+with
+- what the group **is as an anomalous condition**
+
+A cult may worship an anomaly without being anomalous itself. A collective intelligence may be both a GOI and an anomaly at once.
+
+---
+
+## 4.7 — Sample GOI Entries
+
+### GOI-GV-P-001
+**Common Name:** Government Anti Anomaly  
+**Short Name:** GAA
+
+**Nature Class:** Government  
+**Alignment Class:** Positive  
+**Reach Class:** National  
+**Anomalous Capability:** Handler  
+**Threat Level:** 2  
+**Secrecy Risk:** Veiled  
+**A.C.T Posture:** Cooperated
+
+**Summary:**  
+The **Government Anti Anomaly**, or **GAA**, is a limited government body aware of anomalous existence and partially cooperative with the A.C.T Facility. Internal estimates suggest that only around **10% of the wider government structure** possesses any meaningful awareness of anomalies at all. The GAA serves as one of the few official bridges between ordinary state power and the hidden anomaly-management world.
+
+**Role in Doctrine:**  
+The GAA is not treated as a direct threat. It is a controlled state partner whose usefulness lies in legal masking, quiet authorization, classified logistics, and selective political cooperation.
+
+---
+
+### GOI-ML-X-014
+**Common Name:** Anti-Global Anomaly  
+**Short Name:** A-GA
+
+**Nature Class:** Militant  
+**Alignment Class:** Negative  
+**Reach Class:** Transnational  
+**Anomalous Capability:** Engineering  
+**Threat Level:** 4  
+**Secrecy Risk:** Leaking  
+**A.C.T Posture:** Contain / Dismantle
+
+**Summary:**  
+The **Anti-Global Anomaly**, or **A-GA**, is a large standalone militia-style organization whose sole ideological objective is the destruction of anomalies. It does not distinguish between harmful, useful, neutral, or beneficial anomalies. To A-GA, all anomalies are violations that must be eradicated.
+
+**Role in Doctrine:**  
+A-GA is dangerous not because it loves anomalies, but because it refuses all nuance. Its willingness to destroy beneficial or stabilizing anomalies makes it a threat not only to A.C.T, but to structural reality itself. In multiple models, A-GA is more dangerous than certain hostile anomalies because it may remove the very things keeping larger threats contained.
+
+---
+
+### GOI-BS-T-027
+**Common Name:** Anstrall Market
+
+**Nature Class:** Business  
+**Alignment Class:** Trade  
+**Reach Class:** Transnational  
+**Anomalous Capability:** Handler  
+**Threat Level:** 3  
+**Secrecy Risk:** Exposure-Active  
+**A.C.T Posture:** Monitor / Appropriate
+
+**Known Leadership:**  
+A mysterious individual known only as **Anstrall**
+
+**Summary:**  
+The **Anstrall Market** is a black-market anomaly trade structure specializing in the movement and sale of anomalous objects to the highest bidder. It is governed by the enigmatic figure known as **Anstrall** and is considered one of the most commercially useful yet ethically unstable GOIs in A.C.T records.
+
+**Role in Doctrine:**  
+The Market is not inherently aligned with the Facility, but it is not always best treated as an enemy. It can be more useful when controlled, tracked, infiltrated, or quietly exploited than when openly destroyed. However, its trade in anomalous materials makes it a constant secrecy hazard and a source of escalation if left unmanaged.
+
+---
+
+## Closing Summary
+Part Four defines the hidden political world around the anomalous. Where Part Three explains how A.C.T archives the impossible, Part Four explains how it archives the people, powers, and organizations that seek to control that impossibility. Through GOI designation, classification, posture doctrine, and dual filing logic, A.C.T transforms the chaotic external anomaly world into something operationally readable.
+
+Not every threat is an entity in a box. Some threats have leaders, markets, flags, militias, clients, and beliefs.

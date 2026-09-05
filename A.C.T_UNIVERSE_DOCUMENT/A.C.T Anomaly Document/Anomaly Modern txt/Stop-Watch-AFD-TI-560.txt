@@ -1,0 +1,167 @@
+A.C.T FACILITY — ANOMALY FILE
+Stop-Watch-AFD-TI-560
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-TI-560
+TITLE I:             Stop-Watch
+TITLE II:            THE MOMENTARY STILLNESS / THE GOLDEN SECOND-HAND
+
+FIELD TYPE:          TI — Time
+                     OB — Object
+
+CLEARANCE REQUIRED:  Level 4 / O5-Restricted
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        3 (Causal Disruption Hazard)
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           STABILIZED / REPURPOSED
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   1956-08-20
+VERIFICATION DATE:   1958-03-12
+LOCATION:            Private estate / Zurich, Switzerland.
+DISCOVERY METHOD:    Investigation into "Frozen Crimes"—incidents where 
+                     perpetrators appeared to move between seconds.
+
+INITIAL RESPONSE
+OPERATION:           Quiet Clock
+RESPONDING UNIT:     ERE Recovery / Temporal Analysis Desk
+RESPONDING FIELD
+OPERATOR:            [ REDACTED ]
+CIVILIAN EXPOSURE:   Zero (Initial owner was a collector).
+AMNESTIC DEPLOYED:   Yes — Early Selective Forgetting.
+NARRATIVE STATUS:    The item was replaced with a non-anomalous 19th-
+                     century timepiece.
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-TI-560 is an ornate golden pocket-watch measuring 5 cm in diameter. 
+The casing is composed of 18k gold and features intricate engravings 
+of [ REDACTED ] motifs. Internally, the object possesses no standard 
+gears or springs; the cavity is filled with **Causal-Reactive Mercury 
+(Item 45)**.
+
+The object functions as a localized temporal suspension device.
+
+CHRONOLOGICAL MECHANICS:
+1. ACTIVATION: Upon depressing the crown, time within a global or 
+   semi-global frame (subject to O5-debate) is instantaneously 
+   suspended for the user.
+2. DURATION: The suspension lasts for exactly 60 seconds, during which 
+   the second hand performs one full clockwise rotation. The user 
+   remains in a state of "Active Movement" while the rest of the 
+   universe is locked in a static state.
+3. COOLDOWN: Following a successful activation, the object enters a 
+   mandatory recovery phase of seven (7) days. During this time, the 
+   second hand regresses autonomously in a counter-clockwise motion 
+   from the 12-mark back to the 12-mark.
+4. CONDITIONAL REDUCTION (THE MISFIRE): If the activation is 
+   "Unsuccessful"—defined as an attempt to stop time within the 
+   radius of a **Reality Stabilization Anchor (Item 01)** or a 
+   failure to fulfill a chronological intent—the cooldown is reduced by 
+   50% (3.5 days).
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Temporal Suspension. Forces a 60-second window of 
+                     absolute stasis on standard reality.
+
+SECONDARY EFFECT:    Reverse-Chronological Cooldown. The physical state 
+                     of the second hand tracks the recovery of the 
+                     causal-charge.
+
+TERTIARY EFFECT:     [STRUCTURAL DATA OMITTED]
+
+TRIGGER CONDITION:   Manual depression of the crown.
+
+RANGE / AREA OF
+INFLUENCE:           Global (Perceived) / User-centric (Active).
+
+TEMPORAL BEHAVIOR:   Cyclic (7-day recovery).
+
+REALITY INTERACTION: Causal Lock / Localized Temporal Acceleration.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-TI-560 is housed in a "Time-Shielded Vault" at ACT-SITE-03-JP-E.
+
+1. RSA INTERFERENCE: The vault must be equipped with an active 
+   **RSA (Item 01)** set to a "Misfire Frequency." This ensures 
+   that any unauthorized attempt to use the watch results in an 
+   Unsuccessful Activation, shortening the window for recovery.
+
+2. ACCESS LOCK: Only O5-approved personnel or Senior Researcher 
+   Thorne are authorized to handle the subject. The watch is never 
+   to be wound or depressed outside of "Terminal Emergency" 
+   protocols.
+
+3. LOGGING: The position of the second hand must be monitored via 
+   **Chrono-Stuttered Visors (Item 09)** to avoid accidental 
+   imprinting by the Causal-Reactive Mercury.
+
+CONTAINMENT SITE:        ACT-SITE-03-JP-E — Kurokawa Archive Node
+SITE TYPE:               Primary Site / Chronometric and Memetic Archive
+JURISDICTIONAL
+AUTHORITY:               Kurokawa Site Command / O5 Oversight
+CONTAINING DIVISION:     Object Containment Division
+REQUIRED PERSONNEL:      1 Temporal Analyst, 1 High-PR Guard.
+MONITORING FREQUENCY:    Daily (Position check).
+MAINTENANCE CYCLE:       N/A.
+
+BREACH PROTOCOL:         In the event of a "Gilded Silence" (Active 
+                         Time Stop), all personnel are to remain at 
+                         their posts. The event will resolve 
+                         automatically after 60 seconds.
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-TI-560 is one of the few anomalies that has been successfully 
+"Repurposed" for high-level tactical use. It was utilized in 1999 to 
+prevent a [ REDACTED ] level breach at Site-01. 
+
+Dr. Aris Thorne’s Note:
+"I carried this watch during the recovery of the **Ball of Knife**. 
+Stopping sixty seconds of time sounds like a miracle, but when you 
+are the only thing moving in a world of statues, the silence is 
+deafening. It doesn't feel like power. It feels like a very fast 
+loneliness. Use it only when the alternative is extinction."
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+The engravings on the back were partially translated in 2021. They 
+read: *"For the one who cannot wait for the sun."*
+
+NOTE 002:
+[STRUCTURAL DATA OMITTED]
+
+END OF FILE

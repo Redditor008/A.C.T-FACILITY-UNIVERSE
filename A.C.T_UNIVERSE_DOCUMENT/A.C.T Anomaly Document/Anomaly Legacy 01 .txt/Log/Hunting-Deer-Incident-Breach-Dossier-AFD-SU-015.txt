@@ -1,0 +1,388 @@
+A.C.T FACILITY — INCIDENT & BREACH DOSSIER
+Hunting-Deer-Incident-Breach-Dossier-AFD-SU-015
+
+═══════════════════════════════════════════════════════════════════════
+                A.C.T FACILITY — INCIDENT & BREACH DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-015
+TITLE I:             Hunting Deer
+TITLE II:            THE STAG THAT WAITS UNTIL YOU ARE ALONE
+
+FIELD TYPE:          SU — Subject
+PRIMARY FILE:        Hunting-Deer-AFD-SU-015
+
+DOCUMENT CATEGORY:   CATEGORY IV — Incident & Breach Dossier
+CATEGORY FUNCTION:   Containment failure preservation, false-description review,
+                     isolation-risk analysis, and procedure correction
+
+CLEARANCE REQUIRED:  Level 4
+
+CONTAINMENT SITE:    In-Place / ACT-SUB-01-US-W oversight relay
+ARCHIVE STATUS:      Active / Wilderness exclusion protocol
+DOSSIER STATUS:      Open / Incident record archived
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category IV — Incident & Breach Dossier. The
+document may contain multiple related incident, breach, security, response, and
+post-incident review records concerning AFD-SU-015.
+
+INCLUDED LOG TYPES:
+   - Incident Summary
+   - Field Team Timeline
+   - Security / Radio Transcript
+   - False-Description Contamination Review
+   - Survivor Debrief Extract
+   - Procedure Revision Notice
+   - Closing Archive Statement
+
+CATEGORY PURPOSE:
+To preserve the operational failure that confirmed AFD-SU-015's isolation-based
+transformation behavior and the danger of trusting early "red-eyed deer" reports.
+This dossier explains why all future patrols require group movement, direct
+visual-contact discipline, and rejection of the false normal-deer description.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-015 is a predatory subject capable of presenting at distance as an
+ordinary deer with deep red eyes. This presentation is false or incomplete. The
+verified active form is a 2.5 m wendigo-like humanoid predator with skeletal
+body structure, deer skull head, deep red eyes, powerful hoofed legs, and long
+clawed hands.
+
+The subject transforms only when its selected prey, designated by the anomaly as
+"Hunter," is alone. It does not reliably transform under group observation. It
+uses the normal-deer presentation to encourage pursuit, confidence, and
+separation.
+
+This dossier records Incident 015-A, during which early response personnel
+accepted the false description too readily and allowed an armed field volunteer
+to break visual contact with the group. The resulting event established the
+current no-solo-entry and no-solo-pursuit doctrine.
+
+═══════════════════════════════════════════════════════════════════════
+                    SECTION 001 — INCIDENT SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-015/INC-001
+LOG TYPE:            Incident Summary
+CATEGORY:            Incident & Breach Dossier
+DATE:                2007-11-23
+LOCATION:            Managed hunting reserve / Alberta, Canada
+OPERATION:           Red Antler Blind
+RESPONDING UNIT:     Field Containment Division / Predatory Humanoid Review
+LEAD FIELD OPERATOR: Agent Naomi Whitaker
+
+INCIDENT NAME:       015-A — Hunter Isolation Failure
+
+SUMMARY:
+Incident 015-A occurred during early verification of AFD-SU-015. At the time,
+field teams were still operating under the incomplete civilian description of a
+normal-looking deer with deep red eyes that growled when a hunter approached.
+This description was later marked false and procedurally dangerous.
+
+During the field survey, a deer-like manifestation appeared approximately 94 m
+northwest of Team Red Antler. The manifestation did not approach. It stood near
+a treeline, lowered its head, and maintained visual contact with the group.
+
+A contracted wildlife tracker assigned to the survey identified the subject as
+"probably sick, but still just a deer." The tracker requested permission to move
+around the left flank for a closer view. Permission was denied twice. At 14:22,
+the tracker moved without authorization and broke direct group line of sight for
+approximately 47 seconds.
+
+At 14:23, the team heard a low structural cracking sound followed by rapid hoof
+impact. The tracker transmitted one incomplete radio phrase before signal loss:
+
+                     "It stood up."
+
+Team Red Antler regrouped and advanced in formation. No further visual contact
+with the tracker occurred. Recovered equipment included a bent rifle, torn pack
+straps, boot prints ending near a tree line, and repeated antler-shaped gouges
+in nearby bark.
+
+The event confirmed that AFD-SU-015 should not be treated as a hostile deer. It
+is a hunter-selective predator that waits for isolation.
+
+RESULT:
+Field doctrine updated. All solo pursuit and flanking maneuvers prohibited.
+False-description warning added to primary anomaly file.
+
+═══════════════════════════════════════════════════════════════════════
+                    SECTION 002 — FIELD TEAM TIMELINE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-015/TLN-001
+LOG TYPE:            Field Team Timeline
+CATEGORY:            Incident & Breach Dossier
+DATE:                2007-11-23
+SOURCE:              Team radio logs, GPS pings, thermal drone scan, Agent
+                     Whitaker written report
+
+TIME INDEX:
+
+13:58 — Team Red Antler enters inner reserve boundary in four-person formation.
+Weather overcast. Visibility moderate. No ordinary deer detected on thermal.
+
+14:07 — First red-eye reflection reported near treeline. Drone feed shows a
+standard deer-shaped heat gap. Thermal resolution unstable around head region.
+
+14:09 — Wildlife tracker states: "That's the red-eyed one." Agent Whitaker
+orders no approach and no separation.
+
+14:12 — Deer-like manifestation remains still. All personnel report mild urge to
+walk closer, interpreted at the time as ordinary curiosity.
+
+14:16 — Tracker suggests flank movement. Request denied.
+
+14:19 — Tracker suggests use of tranquilizer rifle. Request denied.
+
+14:21 — Deer-like manifestation takes three steps backward into trees. Tracker
+states: "If it gets away, we learn nothing."
+
+14:22 — Tracker breaks formation. Visual contact with team lost behind low brush
+and deadfall. Agent Whitaker orders immediate return.
+
+14:22:31 — Tracker replies: "I can see it. It's not moving."
+
+14:22:49 — Unidentified cracking sound captured on body microphone. Later audio
+review suggests sound resembles bone, wood, and antler stress occurring at the
+same time.
+
+14:22:53 — Tracker transmits: "It stood up."
+
+14:22:56 — Radio cuts to static. Static contains three low vocalizations not
+produced by any team member.
+
+14:23 — Team regroups. Agent Whitaker orders no solo recovery.
+
+14:26 — Five-person recovery formation assembled with drone overhead. No direct
+sighting of AFD-SU-015.
+
+14:31 — Bent rifle recovered. Barrel shaped into partial antler curve. No tool
+marks detected.
+
+14:34 — Boot prints recovered. Prints show tracker moving forward, stopping,
+stepping backward twice, then ending suddenly. Around final print location,
+multiple hoof impacts appear in a circle.
+
+14:38 — Red eyes observed again 180 m east of recovery position. Agent Whitaker
+orders withdrawal. No pursuit authorized.
+
+14:51 — Team exits inner perimeter. Exclusion boundary expanded by 1.5 km.
+
+═══════════════════════════════════════════════════════════════════════
+                  SECTION 003 — RADIO TRANSCRIPT EXTRACT
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-015/COM-001
+LOG TYPE:            Security / Radio Transcript
+CATEGORY:            Incident & Breach Dossier
+SOURCE:              Field radio channel RED-3
+STATUS:              Partial transcript / static cleaned by Audio Review
+
+BEGIN TRANSCRIPT:
+
+WHITAKER:            Hold position. Nobody moves alone.
+
+TRACKER:             It is looking at us. Red eyes, but the body is normal.
+
+WHITAKER:            That description is not cleared. Hold position.
+
+TRACKER:             If I circle left, I can see whether it's sick or staged.
+
+WHITAKER:            Denied.
+
+[11 seconds of wind noise]
+
+TRACKER:             It is backing into the trees.
+
+WHITAKER:            Let it. We are mapping behavior, not winning a chase.
+
+TRACKER:             If it gets away, we learn nothing.
+
+WHITAKER:            We learn that it wants you separated.
+
+[Brush movement. Tracker breathing becomes louder.]
+
+WHITAKER:            Return to group.
+
+TRACKER:             I can see it. It's not moving.
+
+WHITAKER:            Return to group now.
+
+[Unidentified cracking sound]
+
+TRACKER:             It stood up.
+
+[Static. Three low vocalizations. Possible hoof impact.]
+
+WHITAKER:            Red Antler, regroup. Nobody runs. Nobody follows the voice.
+
+UNKNOWN AUDIO:       [low, breath-like imitation of tracker] this way
+
+WHITAKER:            Ignore it. Group line. Eyes on each other.
+
+END TRANSCRIPT.
+
+AUDIO REVIEW NOTE:
+The final phrase "this way" was not produced by the tracker. Vocal structure is
+incomplete and lacks normal breath pattern. It may indicate limited mimicry or
+acoustic distortion near AFD-SU-015. This behavior is not yet confirmed as a
+primary property.
+
+═══════════════════════════════════════════════════════════════════════
+          SECTION 004 — FALSE-DESCRIPTION CONTAMINATION REVIEW
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-015/REV-001
+LOG TYPE:            False-Description Contamination Review
+CATEGORY:            Incident & Breach Dossier
+REVIEWING UNIT:      Archiver Division / Predatory Humanoid Review
+DATE:                2007-11-27
+
+REVIEW SUMMARY:
+The phrase "normal-looking deer with deep red eyes" appeared in six early field
+reports, three civilian statements, and one draft containment summary. In every
+case, the phrase reduced operational caution and encouraged standard wildlife
+response behavior.
+
+The description is not classified as a memetic hazard under current standards.
+Personnel can reject it once warned. However, it behaves as a dangerous
+misclassification pattern because it frames AFD-SU-015 as an animal problem
+rather than an isolation predator.
+
+CONFIRMED EFFECTS OF FALSE DESCRIPTION:
+   - encourages closer inspection
+   - encourages tranquilizer or wildlife-control thinking
+   - encourages flanking behavior
+   - encourages solo pursuit
+   - reduces attention to group visual-contact rules
+   - causes personnel to treat transformation as unlikely unless already seen
+
+ARCHIVE DIRECTIVE:
+The main anomaly file must include an explicit false description notice. Any
+future report beginning with "normal deer" or "just a deer" must be corrected
+before entering operational circulation.
+
+APPROVED CORRECTION PHRASE:
+
+                     It is not a deer that becomes dangerous.
+                     It is a predator that waits to be called a deer.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 005 — SURVIVOR DEBRIEF EXTRACT
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-015/DEB-001
+LOG TYPE:            Personnel Debrief Extract
+CATEGORY:            Incident & Breach Dossier
+INTERVIEWER:         Agent Naomi Whitaker
+INTERVIEWED:         Field Technician Mara Ellison
+DATE:                2007-11-24
+
+FOREWORD:
+Field Technician Ellison maintained group position during Incident 015-A and was
+one of two personnel who observed the red-eye manifestation after recovery
+attempt began.
+
+BEGIN EXTRACT:
+
+WHITAKER:            When the tracker moved, did anything about the deer change?
+
+ELLISON:             Not while we could all see it. It was small. Ordinary size.
+                     Wrong eyes, but ordinary size.
+
+WHITAKER:            Did it look weak?
+
+ELLISON:             It looked patient.
+
+WHITAKER:            Patient how?
+
+ELLISON:             Like it knew one of us would decide the rules were too slow.
+
+WHITAKER:            After the radio cut, you saw red eyes east of the site.
+                     Same animal?
+
+ELLISON:             I don't want to say animal.
+
+WHITAKER:            Use your best word.
+
+ELLISON:             Same invitation.
+
+WHITAKER:            Did you feel compelled to follow?
+
+ELLISON:             No. I felt embarrassed that part of me still wanted to know
+                     if it really was just a deer.
+
+WHITAKER:            It was not.
+
+ELLISON:             I know. That is the part I want written down.
+
+END EXTRACT.
+
+CLOSING NOTE:
+Technician Ellison's phrase "same invitation" has been retained in training
+material. It accurately describes AFD-SU-015's lure behavior without relying on
+the false deer framing.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 006 — PROCEDURE REVISION NOTICE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-015/PRC-001
+LOG TYPE:            Procedure Update Notice
+CATEGORY:            Incident & Breach Dossier
+ISSUING AUTHORITY:   Predatory Humanoid Review / Field Containment Division
+DATE ISSUED:         2007-12-02
+
+REVISION SUMMARY:
+Following Incident 015-A, the following containment and field procedures are
+mandatory for all AFD-SU-015 operations.
+
+UPDATED PROCEDURES:
+   1. No personnel may enter the inner perimeter alone.
+   2. All patrols must maintain groups of three or more.
+   3. Direct visual-contact checks are required every 30 seconds.
+   4. No flanking, solo tracking, or closer inspection of deer-like manifestations
+      is authorized.
+   5. Armed posture increases selection risk and must be limited to approved
+      grouped teams.
+   6. Any deer with deep red eyes triggers withdrawal, not pursuit.
+   7. Distress calls from separated targets are not to be followed unless
+      confirmed by two independent grouped observers.
+   8. Reports describing the subject as "just a deer" must be rejected and
+      rewritten before operational use.
+
+TRAINING PHRASE:
+
+                     Three stay alive. One becomes the hunt.
+
+IMPLEMENTATION STATUS:
+Approved. Added to primary file and field training brief.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+Incident 015-A established that AFD-SU-015's most dangerous stage begins before
+transformation. The threat is not only the active predator form. The threat is
+the confidence that permits a target to become alone.
+
+Future additions to this dossier should include:
+   - confirmed transformation footage
+   - new false-description variants
+   - attempted lure behavior
+   - perimeter breach reports
+   - cases involving nontraditional Hunter selection
+   - evidence of mimicry, if confirmed
+
+CURRENT DOSSIER STATUS: Open / Procedure Revision Active
+
+END OF DOSSIER

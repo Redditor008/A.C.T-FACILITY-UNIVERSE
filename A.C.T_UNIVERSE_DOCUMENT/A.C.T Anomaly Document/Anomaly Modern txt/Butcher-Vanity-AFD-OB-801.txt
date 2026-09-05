@@ -1,0 +1,196 @@
+A.C.T FACILITY — ANOMALY FILE
+Butcher-Vanity-AFD-OB-801
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-801
+TITLE I:             Butcher Vanity
+TITLE II:            THE VESTIBULE OF SLAUGHTER / THE HUNGERING EDGE
+
+FIELD TYPE:          OB — Object
+                     ME — Memetic (Visual/Auditory)
+
+CLEARANCE REQUIRED:  Level 3
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        3
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           INVIOLABLE
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   1892-06-22
+VERIFICATION DATE:   1895-07-01
+LOCATION:            Basement of a meat-packing plant / 
+                     Chicago, Illinois, USA.
+DISCOVERY METHOD:    Reports of a "Massacre Cycle" among workers / 
+                     Discovery of a pedestal that "refused to stop bleeding."
+
+INITIAL RESPONSE
+OPERATION:           Cold Hook
+RESPONDING UNIT:     ERE Recovery Team Alpha
+RESPONDING FIELD
+OPERATOR:            [ REDACTED ]
+CIVILIAN EXPOSURE:   14 confirmed fatalities prior to containment.
+AMNESTIC DEPLOYED:   Yes — Alcohol-based sedative suppression (ERE Era).
+NARRATIVE STATUS:    The location was condemned and demolished following 
+                     the removal of the subject. (Converted to AFD 1976)
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-801, designated Butcher Vanity, consists of two interconnected 
+components:
+
+1. AFD-OB-801-A (The Cleaver): A standard industrial-style meat 
+   cleaver composed of high-carbon steel. Despite extensive use, the 
+   edge remains surgically sharp and demonstrates no signs of rust, 
+   pitting, or structural wear.
+
+2. AFD-OB-801-B (The Trunk): A wooden storage trunk of unknown origin, 
+   heavily stained with dried and fresh biological fluid. The trunk 
+   functions as the subject's primary anchor; the cleaver is 
+   invariably found resting atop the lid. Analysis of the fluid shows 
+   a cocktail of mammalian blood that self-regenerates from the 
+   wood grain at a rate of 50ml per hour.
+
+ANOMALOUS EFFECTS:
+The subject possesses a tiered memetic trigger based on the viewer’s 
+Psychological Resilience (PR) score.
+
+Tier I: Low PR Subjects ("Weak Minded")
+Individuals who visually perceive AFD-OB-801-A develop an immediate, 
+overpowering homicidal mania. Affected subjects enter a fugue state 
+characterized by a "Deep urge to butcher." This aggression is not limited 
+to living beings; subjects will attempt to disarticulate furniture, 
+walls, clothing, and themselves using the cleaver.
+
+Tier II: High PR Subjects ("Strong Minded")
+Individuals who resist the initial homicidal compulsion report persistent 
+auditory hallucinations. These take the form of low-volume, raspy 
+telepathic whispers that increase in frequency and intensity with 
+prolonged proximity. 
+
+DOCUMENTED WHISPERS:
+   - "Used Mee..."
+   - "tHerre soomUuch Meaat…"
+   - "Meat. MEat. MEAt. MEAT."
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Compulsive Slaughter. Visual exposure triggers 
+                     extreme destructive and homicidal behavior in 
+                     susceptible individuals.
+
+SECONDARY EFFECT:    Auditory Info-Hazard. Resistant subjects are 
+                     targeted by telepathic messages encouraging 
+                     utilization of the object for "butchery."
+
+TERTIARY EFFECT:     Biological Anchor. The trunk (801-B) provides 
+                     constant biological lubrication (blood) for 
+                     the object.
+
+TRIGGER CONDITION:   Visual perception / Proximity.
+
+RANGE / AREA OF
+INFLUENCE:           Visual line-of-sight / 15m auditory radius.
+
+TEMPORAL BEHAVIOR:   Constant.
+
+REALITY INTERACTION: Memetic Compulsion / Biological Spawning.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-801 is housed in an opaque, windowless containment vault at 
+ACT-SITE-01-US-W. 
+
+1. VISUAL DENIAL: The subject must remain covered by an opaque, 
+   non-reflective shroud when not undergoing authorized testing. 
+   Direct eye contact with the cleaver is strictly prohibited. 
+   Monitoring is to be performed via low-resolution thermal 
+   sensors only.
+
+2. PSYCHOLOGICAL SCREENING: Only personnel with a verified PR score 
+   of 85 or higher are permitted within 20m of the containment 
+   vault. Staff reporting any auditory anomalies (whispering) are 
+   to be immediately rotated and administered 004-H amnestics.
+
+3. BLOOD MANAGEMENT: The containment floor is fitted with a 
+   specialized drainage and filtration system to manage the 
+   constant output from the trunk. The recovered biological waste 
+   is to be incinerated weekly.
+
+4. NO CONTACT: Under no circumstance is a human subject to handle 
+   AFD-OB-801-A without a Level 4 research authorization and full 
+   mechanical-restraint protocols.
+
+CONTAINMENT SITE:        ACT-SITE-01-US-W — Redwood Veil Complex
+SITE TYPE:               Primary Site / Heavy Artifact Containment
+JURISDICTIONAL
+AUTHORITY:               Redwood Veil Command / Memetic Hazard Desk
+CONTAINING DIVISION:     Object Containment Division
+REQUIRED PERSONNEL:      2 high-PR security officers, 1 automated 
+                         drainage technician.
+MONITORING FREQUENCY:    Continuous (Sensory-Gated).
+MAINTENANCE CYCLE:       Weekly blood-drainage purge.
+
+BREACH PROTOCOL:         In the event of a visual breach, security 
+                         personnel must deploy non-lethal flash-bang 
+                         ordinance to disrupt the subject's line of sight. 
+                         If a subject acquires the cleaver, lethal 
+                         force is authorized to prevent a slaughter-
+                         cascade.
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-801 appears to be a "Hungering Object." It does not merely 
+compel violence; it demands the literal breakdown of matter into "Meat." 
+Testing on non-living matter showed that when a compelled subject 
+strikes a wooden table with the cleaver, the wood displays trauma 
+consistent with butchered bone and muscle tissue for several seconds 
+before reverting to wood. 
+
+The origin of the whispers is unidentified, though the linguistic 
+distortion ("tHerre soomUuch Meaat") suggests a mind that is 
+struggling to translate its intent into human phonemes.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+The name "Vanity" was found carved into the underside of the trunk's 
+lid. The handwriting matches the style of [ REDACTED ], a known 
+serialist from the 1890s who was never captured.
+
+NOTE 002:
+During Test 801-Gamma, an E-Class subject with a strong mind managed 
+to hold the cleaver for 12 minutes without striking. He reported that 
+the whispers began to name every individual in the observation 
+room, followed by their "weight in prime cuts." 
+
+END OF FILE

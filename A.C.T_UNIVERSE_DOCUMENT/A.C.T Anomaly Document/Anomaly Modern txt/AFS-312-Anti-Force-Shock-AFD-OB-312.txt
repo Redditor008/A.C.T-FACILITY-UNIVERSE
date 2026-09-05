@@ -1,0 +1,207 @@
+A.C.T FACILITY — ANOMALY FILE
+AFS-312-Anti-Force-Shock-AFD-OB-312
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-312
+TITLE I:             AFS-312 (Anti Force Shock-312)
+TITLE II:            THE SOLAR RAILGUN / THE LIGHTNING STRIKE FROM TOMORROW
+
+FIELD TYPE:          OB — Object
+
+CLEARANCE REQUIRED:  Level 3 / Tactical Review Desk
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        3 (High-Lethality Weaponry)
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           REPURPOSED / CONTAINED-STUDY
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   2021-05-18
+VERIFICATION DATE:   2021-06-02
+LOCATION:            Crater site / Nevada Desert, USA.
+DISCOVERY METHOD:    Automated detection of a high-energy "Causal Flare" / 
+                     Unexplained ionization of local atmosphere.
+
+INITIAL RESPONSE
+OPERATION:           Gilded Trigger
+RESPONDING UNIT:     Tactical Recovery / Recovery Team Alpha-9
+RESPONDING FIELD
+OPERATOR:            Field Agent [ REDACTED ]
+CIVILIAN EXPOSURE:   Zero.
+AMNESTIC DEPLOYED:   N/A.
+NARRATIVE STATUS:    The crater was attributed to a failed satellite 
+                     de-orbit event. The subject is held at Site-01.
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-312 is a futuristic, portable railgun of unknown temporal origin. 
+The weapon follows a standard rifle configuration but features a 
+complex, motorized electromagnetic assembly in place of a traditional 
+barrel and receiver.
+
+VISUAL SPECIFICATIONS:
+1. THE CHASSIS: The body is composed of a matte-grey carbon-titanium 
+   composite. The stock features a **folding solar-intake array** 
+   protected by a layer of **Phase-Shifted Containment Glass (Item 35)** 
+   to allow for efficient light-absorption while remaining physically 
+   indestructible.
+
+2. THE BARREL ASSEMBLY: The barrel is not a solid tube; it consists of 
+   two parallel **Electromagnetic Rails** supported by a series of 
+   ten (10) **Rotating Power-Charge Discs**. These discs spin at 
+   variable speeds depending on the selected firing mode, emitting a 
+   bright blue-white light and a sharp electronic whine during the 
+   charge cycle.
+
+3. INTERFACE: A side-mounted **LCD Status Panel** provides real-time 
+   data on "Charge Percentage," "Core Temperature," and "Causal 
+   Alignment." The trigger is a pressure-sensitive touch-pad fitted 
+   with an integrated **Biometric Recognition Scanner**.
+
+ANOMALOUS OUTPUT:
+The weapon utilizes solar radiation to generate high-intensity bolts 
+of localized lightning. This output is functionally a "Directed 
+Railgun Strike" using atmospheric particles as projectiles. The 
+subject is rated as being 10X more powerful than a standard 21st-
+century anti-material rifle.
+
+OPERATIONAL MODES:
+The AFS-312 features three distinct firing profiles:
+
+*   50% WEAK SCATTER SHOT: A wide-angle discharge used for area denial. 
+    It scorches all surfaces within a 15m cone but has a shorter 
+    effective range of 50m.
+*   100% FOCUSED CHARGE SHOT: The weapon’s primary lethality mode. 
+    Requires a **5-minute sustained charge**. The resulting bolt can 
+    pierce a 5cm hole through solid **Abyssal Basalt (Item 50)** at 
+    ranges up to 550m.
+*   10% MULTI-SHOT: A rapid-fire suppression mode. It fires ten (10) 
+    low-intensity bolts with a 5-second mechanical delay between 
+    each discharge.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      High-Intensity Solar-Railgun Discharge. The subject 
+                     converts light into focused electromagnetic bolts 
+                     capable of scorching all known biological and 
+                     industrial materials.
+
+SECONDARY EFFECT:    Temporal Displacement. The hardware displays 
+                     manufacturing stamps from an unidentified future 
+                     era. Its internal OS operates on **[ REDACTED ] 
+                     logic gates**.
+
+TERTIARY EFFECT:     Indestructible Chassis. The weapon's external 
+                     housing resists all standard physical damage and 
+                     environmental wear.
+
+TRIGGER CONDITION:   Solar saturation / Manual interface activation.
+
+RANGE / AREA OF
+INFLUENCE:           Direct line-of-sight / Effective range 100m-550m.
+
+TEMPORAL BEHAVIOR:   20-minute cooldown per single charge refill.
+
+REALITY INTERACTION: Causal Information Displacement / High-Energy 
+                     Matter Transmutation (Scorching).
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-312 is housed in a "Total Light-Absorb" vault at 
+ACT-SITE-01-US-W.
+
+1. SOLAR DENIAL: The vault must remain at 0% light intensity at all 
+   times. This ensures the weapon cannot auto-recharge its capacitors 
+   outside of authorized testing. 
+
+2. THERMAL MONITORING: The vault is lined with **Abyssal Anchor 
+   Plating (Item 34)** to prevent damage from accidental heat-venting. 
+   Internal temperature is to be maintained at 15°C via a **Cryo-
+   Seismic Stabilizer (Item 26)** loop.
+
+3. DISCHARGE SAFETY: Testing must only be performed within a 
+   ballistic-vacuum range. No biological subjects are permitted within 
+   the firing lane during a 100% Focused Charge event.
+
+4. CALIBRATION: The **Rotating Power Discs** must be inspected 
+   remotely every 30 days. If the discs begin to spin without a 
+   charge-command, initiate a "Static-Purge" of the chamber.
+
+CONTAINMENT SITE:        ACT-SITE-01-US-W — Redwood Veil Complex
+SITE TYPE:               Primary Site / Heavy Artifact Archive
+JURISDICTIONAL
+AUTHORITY:               Redwood Veil Command / Tactical Review Desk
+CONTAINING DIVISION:     Object Containment Division
+REQUIRED PERSONNEL:      1 Weapons Technician, 2 Security Officers.
+MONITORING FREQUENCY:    Continuous (Thermal and EM-Sensors).
+MAINTENANCE CYCLE:       Monthly disc-alignment audit.
+
+BREACH PROTOCOL:         The weapon is inanimate and poses no movement 
+                         threat. In the event of an accidental discharge, 
+                         activate the **RSA (Item 01)** to stabilize 
+                         the resulting ionization and seal the vault.
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+Research into AFD-OB-312 suggests it was part of a future military 
+standardization program. The "AFS" designation likely refers to a 
+mass-produced model of Anti Force Shock rifles. 
+
+Technicians have noted that the 20-minute cooldown period is a 
+safety limitation designed to prevent the **[ REDACTED ]** cooling 
+pipes from melting. The 5-minute charge time for the focused shot 
+is a mathematical necessity for stabilizing the bolt's trajectory. 
+
+═══════════════════════════════════════════════════════════════════════
+                      TRANSFORMATION NOTES
+═══════════════════════════════════════════════════════════════════════
+
+CURRENT VIABILITY:       REPURPOSED
+
+TRANSFORMATION NOTES:
+The subject is currently authorized for use as a "Site-Scale Breach 
+Suppressor." In the event of a high-tier containment failure at 
+Site-01, a trained operator is authorized to utilize the 100% Focused 
+Charge mode to neutralize the escaping anomaly from a distance. 
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+During the 2023 calibration test, the weapon's LCD screen briefly 
+displayed a message in modern English: "MAINTENANCE OVERDUE. 
+CONTACT GUILD REGISTRY." This provides a possible causal link to the 
+origin of **AFD-SU-020 (Vesper)**.
+
+NOTE 002:
+[STRUCTURAL DATA OMITTED]
+
+END OF FILE

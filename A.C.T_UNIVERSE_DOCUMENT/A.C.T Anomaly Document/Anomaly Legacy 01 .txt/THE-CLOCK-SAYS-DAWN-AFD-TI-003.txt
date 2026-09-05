@@ -1,0 +1,265 @@
+A.C.T FACILITY — ANOMALY FILE
+THE-CLOCK-SAYS-DAWN-AFD-TI-003
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-TI-003
+TITLE I:             THE CLOCK SAYS DAWN
+TITLE II:            THE HOUR THAT COUNTS BACKWARD
+
+FIELD TYPE:          TI — Time
+                     Object-bound temporal acceleration anomaly
+
+CLEARANCE REQUIRED:  Level 3
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        3
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           NEUTRAL
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   1998-11-03
+VERIFICATION DATE:   1998-11-12
+LOCATION:            Private estate auction storage / York, England
+DISCOVERY METHOD:    Unexplained cardiac death cluster / estate inventory
+                     contradiction / witness time-perception report
+
+INITIAL RESPONSE
+OPERATION:           Still Hand Review
+RESPONDING UNIT:     Field Containment Division / Chronometric Review Cell
+RESPONDING FIELD
+OPERATOR:            Agent Mireille Voss
+CIVILIAN EXPOSURE:   4 confirmed / 2 fatal prior to containment
+AMNESTIC DEPLOYED:   Yes
+NARRATIVE STATUS:    Controlled as hereditary cardiac failure and auction
+                     house liability suppression
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-TI-003 is an antique grandfather clock measuring 211 cm in height, 49 cm
+in width, and 31 cm in depth. Its exterior is dark walnut with brass fittings,
+a cracked glass clock-face cover, and a pendulum chamber containing no pendulum.
+No manufacturer's mark has been found. Carbon dating of sampled wood places the
+case between 1870 and 1890, while the clock face and internal mechanism return
+contradictory dates ranging from 1912 to 1964.
+
+The clock's hour and minute hands are permanently fixed at 05:59. The hands do
+not move under mechanical force, electrical stimulation, vibration, disassembly,
+or direct manipulation. Attempts to remove the hands have failed; tools either
+slip from the clock face or are later found placed neatly on the floor behind
+the subject who attempted removal.
+
+Despite the apparent stillness of the hands, subjects who stare directly at the
+clock face for fifty-nine continuous seconds enter an accelerated subjective
+time state. During this event, the area immediately surrounding the subject
+continues to appear normal to outside observers. External clocks, cameras, and
+biological monitoring equipment record no matching acceleration. From the
+subject's perspective, however, personal time and perception advance at an
+estimated rate of approximately 1000x normal speed.
+
+Once the acceleration state begins, affected subjects report that the clock
+finally moves. This reported movement has never been recorded externally. The
+subject perceives the hands reversing from 05:59 toward 12:00 PM through a
+sequence of unstable and mathematically degraded times. During this phase, a
+plain notepad and graphite pencil manifest in the subject's hands or within
+arm's reach. The subject then begins writing observed clock statements with
+compulsive urgency.
+
+The event always ends with the phrase "THE CLOCK SAYS DAWN." Immediately after
+this phrase is written, the subject suffers sudden fatal cardiac arrest. Medical
+analysis has found no consistent poison, electrical trauma, vascular defect, or
+ordinary stress marker sufficient to explain the death.
+
+At no confirmed point has AFD-TI-003 physically moved its hands.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Subjective temporal acceleration after fifty-nine seconds
+                     of uninterrupted visual fixation on the clock face. The
+                     affected subject experiences local time at approximately
+                     1000x perceived speed while exterior time continues
+                     normally.
+
+SECONDARY EFFECT:    A notepad and pencil manifest during the acceleration
+                     phase. The subject is compelled to record perceived clock
+                     positions as written declarations beginning with "the
+                     clock says" and ending with "THE CLOCK SAYS DAWN."
+
+TRIGGER CONDITION:   Direct visual fixation on the clock face for fifty-nine
+                     continuous seconds.
+
+RANGE / AREA OF
+INFLUENCE:           Subject-bound after visual trigger / initial hazard line
+                     extends 4 m from clock face.
+
+TEMPORAL BEHAVIOR:   Delayed activation / subjective acceleration / apparent
+                     reverse clock progression / fatal terminal phrase.
+
+REALITY INTERACTION: Local Temporal Perception Distortion / Object-Bound Event
+                     Compulsion / Manifested Writing Materials.
+
+RECOVERED TERMINAL
+TRANSCRIPTION SAMPLE:
+   - the clock says 05:30
+   - the clock says 04:15
+   - the clock says 03:33
+   - the clock says 03:21
+   - the clock says 03:12
+   - the clock says 03:01
+   - the clock says 02:54
+   - the clock says 02:44
+   - the clock says 02:11
+   - the clock says 02:0000001
+   - the clock says 02:00002
+   - the clock says 01:9999999
+   - THE CLOCK SAYS DAWN
+
+NOTE:                Recorded subjects do not always write the exact same
+                     intermediate values. However, all fatal sequences degrade
+                     near the 02:00 threshold and end with the same terminal
+                     phrase.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-TI-003 is to be stored in a covered object chamber with the clock face
+oriented toward a non-reflective containment wall. The clock face must remain
+covered by an opaque, triple-layer blackout shroud except during authorized
+testing.
+
+No personnel may view the uncovered clock face directly. All visual inspection
+must be conducted through still-image capture systems programmed to terminate
+feed exposure at intervals below twelve seconds. Continuous video feeds are
+prohibited. Mirrors, polished instruments, glass panels, and reflective eye
+protection are not permitted inside the chamber while the clock is uncovered.
+
+Any personnel accidentally exposed to the clock face must break line of sight
+before forty seconds. If exposure reaches fifty seconds, the chamber observer
+is authorized to activate the emergency blackout shutter without awaiting
+confirmation from the exposed subject.
+
+Personnel who verbally report that the clock is moving are to be considered in
+active temporal acceleration and must not be approached until medical staff and
+Chronometric Review confirm event termination. Attempts to physically interrupt
+writing during the terminal notation phase have failed and resulted in injury
+to assisting personnel.
+
+CONTAINMENT SITE:        ACT-SITE-03-JP-E — Kurokawa Archive Node
+SITE TYPE:               Primary Site / Archive-sensitive temporal containment
+JURISDICTIONAL
+AUTHORITY:               Chronometric Review Cell / Central Archive Administration
+CONTAINING DIVISION:     Object Containment Division / Chronometric Review Cell
+REQUIRED PERSONNEL:      2 containment technicians, 1 remote observer,
+                         1 medical responder on standby
+MONITORING FREQUENCY:    Continuous covered-state sensor monitoring / weekly
+                         shroud integrity inspection
+MAINTENANCE CYCLE:       Monthly non-visual mechanical survey
+
+BREACH PROTOCOL:         Activate chamber blackout shutters, evacuate all
+                         personnel with possible visual exposure, quarantine
+                         recovered notes, and perform cardiac screening on all
+                         exposed subjects.
+
+BREACH CONDITIONS —
+THIS ANOMALY IS CONSIDERED
+IN BREACH IF IT:
+   [ ] Breaks formal containment
+   [x] Endangers public normalcy
+   [x] Causes distortion in reality, Earth, time, or cosmic law
+   [ ] Spreads memetic, informational, or biological contamination
+   [ ] Resists classification and escalates beyond predicted behavior
+   [ ] Transforms its environment into an anomalous zone
+   [x] Other: Clock face becomes visible to unauthorized personnel for more
+              than forty continuous seconds
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-TI-003 appears to generate a one-person temporal event without measurably
+altering the surrounding environment. The subject's body remains externally
+visible and physically present for the duration of the event, yet post-mortem
+analysis indicates internal stress consistent with prolonged extreme panic,
+severe circadian collapse, and cardiac overuse far beyond the amount of normal
+time that passed externally.
+
+The most significant unresolved issue is the clock's reported reverse movement.
+No external instrument has recorded displacement of the hands from 05:59. Even
+when subjects die while writing values below 02:00, the clock remains fixed at
+05:59. This suggests the moving clock perceived by the subject may not be the
+contained object itself, but a temporal image or internalized countdown imposed
+by the anomaly.
+
+The phrase "THE CLOCK SAYS DAWN" is considered a terminal event marker rather
+than a memetic trigger. Personnel may read the phrase safely after exposure,
+provided the original notepad is handled under standard anomalous document
+protocol.
+
+═══════════════════════════════════════════════════════════════════════
+                      TRANSFORMATION NOTES
+═══════════════════════════════════════════════════════════════════════
+
+TRANSFORMATION ATTEMPT
+STATUS:              Suspended
+
+TRANSFORMATION NOTES:
+Early proposals suggested that AFD-TI-003 could be repurposed for accelerated
+subjective cognition, emergency analysis, or short-duration decision expansion.
+These proposals have been suspended. All known activation events terminate in
+cardiac death once the notation sequence reaches its final phrase.
+
+Attempts to interrupt the event before terminal notation have produced no
+reliable survival outcome after the subject reports visible hand movement.
+Current doctrine treats the fifty-nine second trigger threshold as the only
+safe point of prevention.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+The clock does not announce dawn. The subject writes that it does. This
+distinction is not semantic. Audio sensors have never recorded speech,
+chiming, ticking, or internal mechanical movement from AFD-TI-003.
+
+NOTE 002:
+Recovered notepads are not physically identical. Paper stock, binding style,
+and pencil composition vary between incidents. In all cases, however, the final
+line is written in heavier pressure than the preceding text, often tearing the
+paper beneath the word "DAWN."
+
+NOTE 003:
+During Test 003-B, a remote robotic arm placed an opaque barrier between the
+subject and the clock after the subject had begun writing. The subject did not
+look up. The writing continued for twelve external seconds before cardiac
+failure. The recovered page contained only one sentence repeated thirty-one
+times:
+
+                     the clock says it is still looking
+
+No repeat of this variant has been approved for testing.
+
+END OF FILE

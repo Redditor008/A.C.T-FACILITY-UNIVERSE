@@ -1,0 +1,163 @@
+A.C.T FACILITY — ANOMALY FILE
+Book-of-Hero-AFD-OB-142
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-142
+TITLE I:             Book of Hero
+TITLE II:            THE CHRONICLE OF ENDLESS VALOR / THE ONE-SHOT LEDGER
+
+FIELD TYPE:          OB — Object
+                     IH — Info Hazard (Narrative Manifestation)
+
+CLEARANCE REQUIRED:  Level 2
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   INERT
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        1 (Informational Hazard)
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           STABILIZED
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   1998-05-10
+VERIFICATION DATE:   2001-11-12
+LOCATION:            Isolated cottage / outskirts of [ REDACTED ], UK.
+DISCOVERY METHOD:    Civilian report of a "Book that writes itself." 
+                     Original find occurred in 1998; A.C.T recovery 
+                     operations commenced in 2001 after the subject was 
+                     identified as non-terrestrial in origin.
+
+INITIAL RESPONSE
+OPERATION:           Old Shelf
+RESPONDING UNIT:     Site-03 Archival Recovery / Recovery Team Beta-2
+RESPONDING FIELD
+OPERATOR:            Archivist Nora Ashfield
+CIVILIAN EXPOSURE:   2 confirmed (Amnesticized).
+AMNESTIC DEPLOYED:   Yes — 004-G Grade.
+NARRATIVE STATUS:    The book was recovered from a shelf containing 
+                     mundane literature; only AFD-OB-142 demonstrated 
+                     anomalous traits.
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-142 is a hardcover book measuring 25 cm x 18 cm with a thickness 
+of 10 cm. The binding is composed of worn brown leather, and the 
+pages consist of high-quality parchment that shows no signs of aging.
+
+The subject is a self-authoring narrative artifact. It contains a 
+collection of "One-Shot" stories centered on the archetype of a "HERO." 
+
+NARRATIVE REGENERATION:
+1. STORY COUNT: As of 2005, the A.C.T Archive recorded 1,021 unique 
+   stories. As of 2026, the count has risen to 1,144. 
+2. MANIFESTATION CYCLE: A new, completed story appears within the 
+   book at randomized intervals ranging from 1 month to 2 years. 
+   The ink appears instantaneously on previously blank pages.
+3. CONTENT VARIANCE: The stories vary wildly in tone, ranging from 
+   traditional "Happy Endings" (victory, rescue, preservation) to 
+   "Dark Endings" (sacrifice, failure, moral collapse). 
+
+The subject possesses no direct mind-altering or physical effects. It is 
+entirely non-hostile. However, it represents a breach of standard 
+causality, as the stories appear to describe individuals and 
+civilizations from multiple [ BLANK ] planes.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Autonomous Narrative Inscription. The subject 
+                     spontaneously generates new text and illustrations.
+
+SECONDARY EFFECT:    Archive Expansion. The book never runs out of pages; 
+                     the physical thickness of the object remains 10 cm 
+                     regardless of the increasing story count.
+
+TRIGGER CONDITION:   Time-Interval / Causal-Alignment.
+
+RANGE / AREA OF
+INFLUENCE:           Object-bound.
+
+TEMPORAL BEHAVIOR:   Cyclic (Manifestation window 1m - 2y).
+
+REALITY INTERACTION: Narrative Materialization / Spatial Volume 
+                     Consistency.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-142 is housed in the Low-Threat Archive at 
+ACT-SITE-03-JP-E (Kurokawa Archive Node).
+
+1. DOCUMENT PROTECTION: The cover and existing pages have been 
+   treated with **Narrative Seal Varnish (Item 08)** to ensure 
+   ink stability and prevent external editing.
+
+2. LOGGING PROTOCOL: On the first of every month, an archivist must 
+   perform a "Page Count." If a new story has manifested, it must 
+   be transcribed and mirrored in the **Quantum Narrative Buffer 
+   (Item 06)** for safety.
+
+3. HANDLING: No specialized gloves are required, but standard archival 
+   discipline is mandatory. Personnel are encouraged to read the 
+   stories as part of "Narrative Resilience" training, provided 
+   they report any recurring patterns involving A.C.T personnel.
+
+CONTAINMENT SITE:        ACT-SITE-03-JP-E — Kurokawa Archive Node
+SITE TYPE:               Primary Site / Memetic and Informational Containment
+JURISDICTIONAL
+AUTHORITY:               Kurokawa Site Command / Archiver Division
+CONTAINING DIVISION:     Archiver Division
+REQUIRED PERSONNEL:      1 Archivist.
+MONITORING FREQUENCY:    Monthly.
+MAINTENANCE CYCLE:       N/A.
+
+BREACH PROTOCOL:         The subject poses no physical breach threat. 
+                         If lost, recover via inventory audit.
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+Research into AFD-OB-142 focuses on the "Source of the Stories." Unlike 
+the **Dramatugy Script (AFD-715)**, the Book of Hero does not 
+force projection; it is a passive record. 
+
+Analysis suggests the book is a "Causal Sink"—a repository for the 
+narrative energy of heroic archetypes across the multiverse. The fact 
+that the story count continues to rise suggests that "Heroism" is an 
+active, recurring constant in reality.
+
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+The 1,000th story, manifested in 2004, bore a striking resemblance 
+to the **First Descent (1888)**, though the names of the Five 
+Founders were replaced with symbolic glyphs.
+
+NOTE 002:
+Subject has requested nothing. It sits on its shelf and waits for 
+time to pass.
+
+END OF FILE

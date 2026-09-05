@@ -1,0 +1,206 @@
+A.C.T FACILITY — ANOMALY FILE
+Multi-Verse-Vending-Machine-AFD-OB-117
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-117
+TITLE I:             Multi-Verse Vending Machine
+TITLE II:            THE DIY FUTURIST / THE INTERDIMENSIONAL DISPENSER
+
+FIELD TYPE:          OB — Object
+                     SP — Space (Extradimensional Retrieval)
+
+CLEARANCE REQUIRED:  Level 4
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        3 (Variable based on output)
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           CONTAINED-STUDY
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   1954-09-18
+VERIFICATION DATE:   1958-10-02
+LOCATION:            Abandoned shopping mall / Cleveland, Ohio, USA.
+DISCOVERY METHOD:    Investigation into a "High-Value Loot" rumor / 
+                     Recovery of non-terrestrial materials from local 
+                     pawn shops.
+
+INITIAL RESPONSE
+OPERATION:           Loose Change
+RESPONDING UNIT:     Field Containment Division / Recovery Team Beta-4
+RESPONDING FIELD
+OPERATOR:            Agent Miles Carter
+CIVILIAN EXPOSURE:   17 confirmed (Amnesticized).
+AMNESTIC DEPLOYED:   Yes — Early 004-F Prototype.
+NARRATIVE STATUS:    The mall was condemned for "Asbestos and Structural 
+                     Hazard." The machine was recovered from an 
+                     unlabeled alcove. (Archive Modernization 1960)
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-117 is a high-resistance vending machine of pseudo-futuristic 
+design. The exterior appears to be a standard industrial-grade vending 
+chassis that has been modified with roughly-cut plastic panels, 
+exposed neon LED strips, and hand-soldered circuit boards. The 
+aesthetic is consistent with a "Normal Citizen's" attempt to construct 
+a futuristic device using hardware-store materials and DIY-electronics.
+
+The machine possesses a reinforced reinforced-glass front and a 
+dynamic digital interface that displays the current "Product Catalog."
+
+CORE ANOMALOUS FEATURES:
+1. THE SHIFTING INTERFACE: The items displayed on the interface 
+   reconfigure spontaneously every minute to one hour. The machine 
+   pulls items from across Earth, the A.C.T Site Network, alternate 
+   dimensions, and entirely unknown causal timelines. 
+
+2. DYNAMIC PRICING: The cost of items is determined by an internal 
+   logarithm that does not always correlate with terrestrial value. 
+   Prices range from $10.00 to $1,000,000,000.00 (USD equivalent). The 
+   machine possesses a "Universal Reader" that accepts cash, high-
+   clearance A.C.T credit chips, and anomalous currency.
+
+3. SPATIAL SIZE CONSTRAINT: Regardless of the item’s origin or value, 
+   the dispensed object is **always between 30 cm and 90 cm** in its 
+   largest dimension. If a requested item (e.g., a car) is naturally 
+   larger, the machine dispenses a 90 cm "Truncated" or "Miniature" 
+   version that retains the weight and functionality of the original. 
+   Conversely, items smaller than 30 cm are enlarged to fit the 
+   lower limit.
+
+4. HIGH RESISTANCE: The chassis of the machine is functionally immune 
+   to forced entry. Attempts to dismantle the paneling result in the 
+   tools simply sliding off the surface as if the machine possessed 
+   no friction.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Cross-Dimensional Vending. The subject acts as a 
+                     point of transaction for items from multiple 
+                     realities and locations.
+
+SECONDARY EFFECT:    Size Stabilization (30-90cm). All dispensed matter 
+                     is forced into a strict volumetric envelope between 
+                     30 cm and 90 cm upon arrival in the dispensing tray.
+
+TERTIARY EFFECT:     Material-Immutability. The machine’s exterior resists 
+                     all non-consensual structural changes.
+
+TRIGGER CONDITION:   Selection via interface + Valid payment.
+
+RANGE / AREA OF
+INFLUENCE:           Object-bound (Dispensing tray).
+
+TEMPORAL BEHAVIOR:   Interface reconfigures at intervals of 1 to 60 min.
+
+REALITY INTERACTION: Causal Extraction / Spatial Volume Correction / 
+                     Multiversal Transaction.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-117 is housed in a high-security containment vault at 
+ACT-SITE-01-US-W. 
+
+1. FUND RESTRICTION: No currency or payment methods exceeding a 
+   value of $500.00 are permitted in the same room as the subject 
+   without O5 authorization. This is to prevent accidental "High-
+   Value Procurement" of potentially world-ending artifacts.
+
+2. LOGGING PROTOCOL: A remote camera must record the interface 
+   changes at all times. All items appearing on the catalog must be 
+   cross-referenced with the "Black Ledger" and "Official 
+   Designation" registries to identify potentially stolen A.C.T 
+   assets.
+
+3. DISPENSING SAFETY: All items purchased for research must be 
+   dropped directly from the tray into a reinforced, transparent 
+   isolation box for initial scanning. Personnel are not to touch 
+   dispensed items until they are cleared of biological, memetic, 
+   or radioactive hazards.
+
+4. SEIZURE OF UNKNOWN MATERIAL: Any item purchased that is of 
+   "Unknown Material" must be transferred to the Transformation 
+   Division for stability testing.
+
+CONTAINMENT SITE:        ACT-SITE-01-US-W — Redwood Veil Complex
+SITE TYPE:               Primary Site / Heavy Object and Artifact Containment
+JURISDICTIONAL
+AUTHORITY:               Redwood Veil Command / Object Review Desk
+CONTAINING DIVISION:     Object Containment Division
+REQUIRED PERSONNEL:      2 security officers, 1 artifact analyst, 
+                         1 procurement officer (for authorized trials).
+MONITORING FREQUENCY:    Continuous visual monitoring.
+MAINTENANCE CYCLE:       Monthly LED-strip and display calibration.
+
+BREACH PROTOCOL:         If an item is dispensed that causes structural 
+                         damage, the vault is to be sealed and flooded 
+                         with 004-A Grade vapor to neutralize the 
+                         narrative impact of the item.
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-117 is a "Causal Thief." It does not create items; it retrieves 
+them. This has been confirmed by the appearance of a "Missing" 
+prototype scanner from Site-04 in the machine's catalog in 2018 (Price: 
+$45,000.00). 
+
+The size-constraint (30-90cm) appears to be a physical limitation of 
+the machine’s "Arrival Aperture." The fact that it can scale 
+functionality along with size suggests a high-level mastery of 
+atomic-density manipulation.
+
+═══════════════════════════════════════════════════════════════════════
+                      TRANSFORMATION NOTES
+═══════════════════════════════════════════════════════════════════════
+
+CURRENT VIABILITY:       CONTAINED-STUDY
+
+TRANSFORMATION NOTES:
+The Facility is investigating using the machine as a "Strategic 
+Procurement Asset." By monitoring the interface and waiting for 
+rare materials (e.g., Stable Abyssal Quartz) to appear at a low price 
+point, A.C.T can acquire assets that would otherwise be unattainable. 
+O5-3 has approved a discretionary fund of $10,000,000 for this 
+project.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+The machine once listed "A cure for the O5 Pulse" for $1,000,000,000. 
+The O5 Council debated for 4 hours before the interface shifted to 
+list "A very large bag of non-anomalous salt" for $10.00. 
+
+NOTE 002:
+Do not kick the machine if it fails to dispense. The "Sovereign-
+Dignity" research from AFD-SU-009 suggests that the machine 
+responds negatively to "Coarse Manners."
+
+END OF FILE

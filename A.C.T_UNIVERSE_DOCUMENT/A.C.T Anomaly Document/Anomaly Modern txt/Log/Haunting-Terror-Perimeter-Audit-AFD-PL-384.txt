@@ -1,0 +1,128 @@
+A.C.T FACILITY — EXPLORATION & SURVEY DOSSIER
+Haunting-Terror-Perimeter-Audit-AFD-PL-384
+
+═══════════════════════════════════════════════════════════════════════
+                A.C.T FACILITY — EXPLORATION & SURVEY
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-PL-384
+TITLE I:             Haunting Terror
+TITLE II:            THE UNROUND FOG
+
+FIELD TYPE:          PL — Place
+PRIMARY FILE:        Haunting-Terror-AFD-PL-384
+
+DOCUMENT CATEGORY:   CATEGORY V — Exploration & Survey Dossier
+CATEGORY FUNCTION:   Mapping of the "Unround" boundary geometry; Analysis 
+                     of the recursive displacement effect.
+
+CLEARANCE REQUIRED:  Level 3 / Spatial Phenomenon Desk
+
+CONTAINMENT SITE:    Site-Sub-01-US-W — Glass Orchard Relay
+ARCHIVE STATUS:      Active / Seasonal Manifestation
+DOSSIER STATUS:      Open / Boundary Geometry Logged
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier documents the **Boundary Audit of October 2024**. The goal 
+was to determine if the "Unround" fog perimeter can be predicted using 
+non-Euclidean geometry and to measure the physical sensation of the 
+recursive "Snap" during displacement.
+
+INCLUDED LOG TYPES:
+   - Field Log: The 20m Folded Outline
+   - The Recursive Loop Trial (E-Class)
+   - Visual Evidence: The Hair and the Eyes
+   - After-Action Report: The 19-Attempt Limit
+   - Dossier Closing Statement
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 001 — THE FOLDED OUTLINE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-PL-384/SRV-001
+DATE:                2024-10-15
+LOCATION:            Appalachian Sector 4-B
+
+SUMMARY:
+A manifestation occurred at 02:00 local time. A field team attempted to 
+map the edge of the mist using laser rangefinders.
+
+OBSERVATIONS:
+The laser beams did not pass through the fog; they curved. At the 
+north-western edge, the mist forms a "Bite" shape—a sharp 90-degree 
+inward fold that should not exist in a natural cloud. 
+
+SURVEYOR (Field Log): "The fog isn't expanding. It's *invading* the 
+                      space. I’m standing 5 meters from the edge, but 
+                      my rangefinder says the distance is zero."
+
+═══════════════════════════════════════════════════════════════════════
+               SECTION 002 — THE RECURSIVE TRIAL
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-PL-384/TST-E01
+SUBJECT:             E-Class E-384-02 (Fitted with inertial locator)
+
+PROCEDURE:
+Subject was instructed to walk in a straight line out of the mist.
+
+LOGGED ATTEMPTS:
+- ATTEMPT 1: Subject walks 20m. He reports "the fog is clearing." 
+  Subject blinks. He is standing back at the center, facing a dead oak 
+  tree.
+- ATTEMPT 4: Subject runs. He reaches a fence line. He steps over it. 
+  Subject is instantly back at the tree. 
+- ATTEMPT 19: Subject is exhausted. He has attempted exit 19 times in 
+  one hour. He reports: "The tree is getting closer every time I 
+  leave it."
+
+═══════════════════════════════════════════════════════════════════════
+               SECTION 003 — VISUAL EVIDENCE: THE EYES
+═══════════════════════════════════════════════════════════════════════
+
+[04:45:00] — Active Haunting Stage begins.
+
+VISUAL DATA:
+The red-dressed apparition manifests. It is suspended 10 cm off the 
+ground. 
+
+E-384-02 (Audio):    "I see her. She’s... she’s not walking. She’s just 
+                      *there*. Her hair is red. It’s floating like it’s 
+                      underwater. And her eyes... they’re glowing like 
+                      red-hot copper. She isn't looking at me. She's 
+                      looking at the ground where I was just standing."
+
+RESEARCHER NOTE:
+The apparition appears to be "Tracking" the subject's displacement points 
+rather than the subject himself.
+
+═══════════════════════════════════════════════════════════════════════
+               SECTION 004 — AFTER-ACTION SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+The event terminated at 07:12. E-384-02 was recovered in a state of 
+catatonic shock. 
+
+Finding:
+Reaching the boundary 19 times appears to be a "Causal Threshold." 
+After the 19th attempt, the apparition’s pursuit becomes 300% faster. 
+We recommend that any future trapped subjects remain stationary 
+after their 5th attempt to exit.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+MANDATORY PERSONNEL NOTICE:
+                     The fog has no edge. 
+                     The red dress has no owner. 
+                     Do not try to leave until 
+                     the sun confirms you can.
+
+CURRENT DOSSIER STATUS: Open / Seasonal Audit Concluded
+
+END OF DOSSIER

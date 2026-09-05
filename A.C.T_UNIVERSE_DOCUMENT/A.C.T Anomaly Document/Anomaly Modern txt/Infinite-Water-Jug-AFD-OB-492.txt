@@ -1,0 +1,171 @@
+A.C.T FACILITY — ANOMALY FILE
+Infinite-Water-Jug-AFD-OB-492
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-492
+TITLE I:             Infinite Water Jug
+TITLE II:            THE NILE’S PERSISTENCE / THE PHARAOH’S CISTERN
+
+FIELD TYPE:          OB — Object
+
+CLEARANCE REQUIRED:  Level 1
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   INERT
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        0
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           REPURPOSED
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   1924-03-12
+VERIFICATION DATE:   1924-04-05
+LOCATION:            Excavation site / Valley of the Kings, Egypt.
+DISCOVERY METHOD:    Archaeological recovery / Identification of 
+                     self-filling vessel during cataloging.
+
+INITIAL RESPONSE
+OPERATION:           Dry Throat
+RESPONDING UNIT:     Precursor Recovery Team (ERE Era)
+RESPONDING FIELD
+OPERATOR:            Dr. Samuel Reed
+CIVILIAN EXPOSURE:   Minimal (Archaeological staff).
+AMNESTIC DEPLOYED:   Yes (Standard ERE selective suppression).
+NARRATIVE STATUS:    The item was replaced with a non-anomalous clay 
+                     replica for museum display.
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-492 is a hand-crafted clay jug measuring 30 cm in height. The 
+object is consistent with Egyptian pottery from the [ REDACTED ] 
+dynasty. Despite being composed of standard porous clay, the object 
+demonstrates high resistance to structural decay and environmental 
+erosion.
+
+The object functions as an autonomous water generator. It possesses an 
+internal extradimensional reservoir or transmutation process that 
+allows for the manifestation of clean, potable water.
+
+REPLENISHMENT MECHANICS:
+1. THE OUTPUT: The jug can pour a maximum of 100ml of water in a single 
+   active sequence. Once the 100ml limit is reached, the jug becomes 
+   temporarily inert and will not produce fluid even if tilted 
+   inverted.
+
+2. FULL-CYCLE COOLDOWN: Following a full 100ml pour, the subject enters 
+   a "Cooldown State" lasting between 1 to 3 hours. 
+
+3. PARTIAL-CYCLE REDUCTION: If the jug is only partially poured, the 
+   cooldown period is reduced accordingly. 
+   - 50% to 70% pour (50ml - 70ml): Cooldown is reduced to a range 
+     between 45 minutes and 2 hours, 15 minutes.
+   - Pours under 50% result in significantly shorter recovery times, 
+     allowing for frequent small-volume use.
+
+ORIGIN AND MYTHOLOGY:
+The jug’s profile matches depictions found in several high-clearance 
+Egyptian murals. In these depictions, the jug is carried by a 
+servant of the Pharaoh and is described as a "Gift of the Hidden Nile" 
+or a "Sovereign’s Mercy." It was likely used as a ceremonial 
+drought-prevention tool for royal gardens or religious rituals.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Autonomous Water Manifestation. The object generates 
+                     fresh water within its ceramic basin without an 
+                     external source.
+
+SECONDARY EFFECT:    Volumetric Cooldown Logic. The object’s recovery 
+                     time is dictated by the volume of liquid 
+                     dispensed in its most recent active state.
+
+TRIGGER CONDITION:   Kinetic tilt / Intention to pour.
+
+RANGE / AREA OF
+INFLUENCE:           Object-bound.
+
+TEMPORAL BEHAVIOR:   Cyclic (Recovery phase).
+
+REALITY INTERACTION: Matter Manifestation / Limited Resource Generation.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-492 is stored in a standard archival locker at 
+ACT-SITE-01-US-W. 
+
+1. UPRIGHT STORAGE: The object must be kept in an upright position 
+   when not in use to prevent accidental activation.
+
+2. USE LOGS: All water removed from the jug must be measured and 
+   logged to ensure accurate cooldown tracking. 
+
+3. UTILITY USE: The water produced by AFD-OB-492 is chemically 
+   pure and safe for human consumption. It is currently approved 
+   for use as emergency hydration for the Site-01 administrative 
+   staff or for the maintenance of high-value botanical anomalies 
+   (e.g., NEMNOLIA).
+
+CONTAINMENT SITE:        ACT-SITE-01-US-W — Redwood Veil Complex
+SITE TYPE:               Primary Site / Artifact Archive
+JURISDICTIONAL
+AUTHORITY:               Redwood Veil Command / Minor Artifact Desk
+CONTAINING DIVISION:     Object Containment Division
+REQUIRED PERSONNEL:      1 Archivist (Standard handling).
+MONITORING FREQUENCY:    Weekly status check.
+MAINTENANCE CYCLE:       N/A.
+
+BREACH PROTOCOL:         The object poses no breach threat. If lost, 
+                         recover via standard inventory search.
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-492 is one of the most stable and reliable anomalies in the 
+Facility’s possession. Chemical analysis of the water reveals it is 
+exceptionally "Young," containing zero microplastics or modern 
+atmospheric contaminants. 
+
+Transformation Review: The object has been successfully "Repurposed." 
+It no longer sits in a vault but functions as the primary water 
+source for the O5-1 Private Office. 
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+Testing indicates that the jug "Refuses" to pour if the recipient is 
+hostile toward the artifact. The water will simply not flow over 
+the rim. This aligns with the "Sovereign-Dignity" principles noted 
+in other ancient objects.
+
+NOTE 002:
+During the "Great Drought" of 1952 in [ REDACTED ], the jug was used 
+to maintain the primary NEMNOLIA bloom at Site-04 when the local 
+water lines failed. Its reliability is its greatest asset.
+
+END OF FILE

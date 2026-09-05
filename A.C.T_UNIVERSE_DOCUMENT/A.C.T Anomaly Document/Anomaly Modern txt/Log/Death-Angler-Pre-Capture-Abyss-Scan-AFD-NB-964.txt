@@ -1,0 +1,126 @@
+A.C.T FACILITY — EXPLORATION & SURVEY DOSSIER
+Death-Angler-Pre-Capture-Abyss-Scan-AFD-NB-964
+
+═══════════════════════════════════════════════════════════════════════
+                A.C.T FACILITY — EXPLORATION & SURVEY
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-NB-964
+TITLE I:             Death Angler
+TITLE II:            THE ABYSSAL PREDATOR OF THE GATED LURE
+
+FIELD TYPE:          NB — Non-Natural Bio Hazard
+PRIMARY FILE:        Death-Angler-AFD-NB-964
+
+DOCUMENT CATEGORY:   CATEGORY V — Exploration & Survey Dossier
+CATEGORY FUNCTION:   Tactical mapping of the Sunda Trench "Kill Zone"; 
+                     Analysis of the subject's pre-capture territory.
+
+CLEARANCE REQUIRED:  Level 4 / Maritime Observation Desk
+
+CONTAINMENT SITE:    ACT-SITE-05-ID-C — Nusantara Deep Relay
+ARCHIVE STATUS:      Active / High-Lethality Environment
+DOSSIER STATUS:      Open / Mission Log Archived
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier contains the reconstructed sonar and audio logs from 
+**Mission Sunda-09**, the final deep-sea drone survey conducted before 
+the successful capture of AFD-NB-964. The drone, *Nusantara-9*, was 
+lost during this mission but the data was successfully transmitted via 
+**Sub-Abyssal Sonar (Item 37)**.
+
+INCLUDED LOG TYPES:
+   - Drone Log: Descent to 7,500m (The Optical Void)
+   - Tactical Scan: The Floating Lure
+   - Acoustic Record: The Pre-Hunt Silence
+   - Incident Report: The "Sinister Hunt" Data Loss
+   - Dossier Closing Statement
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 001 — THE OPTICAL VOID
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-NB-964/SRV-09
+DATE:                2024-01-20
+
+[00:00:00] — *Nusantara-9* enters the trench.
+[03:45:00] — DEPTH 7,500m: High-intensity floodlights are activated. 
+              The external cameras show only clear water. 
+[03:45:14] — ANALYSIS: **Digital Resonance Sensors (Item 10)** detect 
+              a 10.4-ton biological signature 20m in front of the 
+              drone. 
+
+OPERATOR (Comms):    "We have a massive sonar-return. But the camera is 
+                      clean. No sediment, no scales, nothing. It’s 
+                      like the sonar is bouncing off a hole in the 
+                      water."
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 002 — THE FLOATING LURE
+═══════════════════════════════════════════════════════════════════════
+
+[04:12:00] — THE ACTIVATION: The subject activates its lure. 
+
+VISUAL:
+Suddenly, a single, brilliant point of white light manifests in the 
+camera feed. 
+
+OPERATOR (Comms):    "Oh. It’s beautiful. I... I want to get closer. 
+                      Let me adjust the thrusters."
+
+SUPERVISOR:          "Do not engage, Operator. Maintain the 20m safety 
+                      distance. Check your **Adrenaline Monitor (Item 
+                      18)**."
+
+ANALYSIS:
+The lure light is non-thermal. It does not heat the water around it, 
+but the drone’s optical sensors are saturated. The subject's armored 
+body remains invisible; only the light exists.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 003 — THE PRE-HUNT SILENCE
+═══════════════════════════════════════════════════════════════════════
+
+[04:22:00] — Subject initiates Stage II (The Dread Hunt). 
+
+ACOUSTIC LOG:
+Total silence for 4 seconds. Then, a low-frequency hum (4 Hz) begins 
+to vibrate the drone’s chassis. 
+
+THORNE NOTE:         "The subject was measuring the drone. It realized 
+                      the drone didn't have a heartbeat. It didn't have 
+                      terror to harvest."
+
+═══════════════════════════════════════════════════════════════════════
+               SECTION 004 — THE SINISTER HUNT
+═══════════════════════════════════════════════════════════════════════
+
+[04:25:00] — Subject emits the "Jagged Screech." (182 dB recorded).
+
+THE EVENT:
+Despite the drone being non-biological, the screech caused a mechanical 
+failure in the *Nusantara-9*'s navigation computer. The subject 
+instantly appeared on the optical cameras—a massive, croc-scaled 
+nightmare with armored plates and jagged teeth.
+
+[04:25:12] — Subject lunges. Its jaws close around the drone.
+[04:25:14] — FINAL TRANSMISSION: Visual of the interior of the 
+              subject's mouth. Multiple rows of teeth visible. Data 
+              cutoff.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+MANDATORY PERSONNEL NOTICE:
+                     The light is a lie. 
+                     The void is a trap. 
+                     The hunt is a ritual.
+
+CURRENT DOSSIER STATUS: Open / Pre-Capture Data Validated
+
+END OF DOSSIER

@@ -1,0 +1,380 @@
+A.C.T FACILITY ARCHIVE FILE
+Anomaly Classification Manual and File Standard
+
+Archive Status: Active  
+Distribution: Internal / Archive Use  
+Authority: Archive Administration and Classification Review  
+
+Archive Note
+This file is the complete internal archive version of the anomaly classification system, file doctrine, designation rules, fracture logic, and transformation record structure used by the Facility.
+
+---
+
+Introduction
+Part Three of the A.C.T Universe defines how the Facility formally records, classifies, contains, studies, and evaluates anomalies. If Part One established what A.C.T is, and Part Two established how A.C.T functions, then Part Three establishes how the impossible is turned into archive, doctrine, and operational record.
+
+Before the modern anomaly system existed, A.C.T preserved impossible discoveries through primitive vault records, sealed witness reports, deployment notes, and early ENTITY archives. Those documents were often written in fear, under incomplete knowledge, and before any unified classification system had been established. As anomalous encounters increased, that raw archive approach became insufficient. The Facility required a stable documentation structure capable of handling containment, threat assessment, research, transformation, fracture logic, and information suppression on a permanent institutional scale.
+
+This necessity led to the development of the formal A.C.T anomaly file system.
+
+---
+
+3.0 Historical Preface — The First Vault Record
+The earliest preserved document in A.C.T archive history predates the formal use of the term Anomaly. In that era, impossible phenomena and entities were often recorded simply as ENTITY files. These records did not yet operate under standardized field designation, containment class, threat level, or transformation viability. They were survival documents first and archival documents second.
+
+The first such preserved record in A.C.T Vault history is:
+
+- ENTITY-000
+- Title I: The Slumbering Serpent God
+- Title II: ITHYOS, The World-Sleeper
+
+That document remains preserved as the oldest known sealed vault record and serves as the historical beginning of A.C.T anomaly doctrine.
+
+Supporting file:
+- `ACT_First_Vault_Document_ENTITY_000_ITHYOS.md`
+- `ACT_First_Vault_Document_ENTITY_000_ITHYOS.txt`
+- `ACT_First_Vault_Document_ENTITY_000_ITHYOS.pdf`
+
+---
+
+3.1 Transition to Formal Anomaly Doctrine
+As the number of impossible encounters increased, the early archive model became unsustainable. It lacked a stable naming system, could not scale to multiple divisions, and left too much room for contradiction, mythologizing, and fatal misinterpretation. A.C.T therefore formalized a doctrine in which every anomaly would be:
+
+- detected
+- verified
+- designated
+- classified
+- contained
+- researched
+- transformed where viable
+- permanently archived
+
+This transition marked the beginning of the Anomaly Era, in which the impossible would no longer exist only as rumor, fear, or sealed witness accounts, but as controlled entries within a larger framework of containment logic and structural reality preservation.
+
+---
+
+3.2 Official A.C.T File Categories
+A.C.T recognizes two primary official documentation categories for anomaly records.
+
+3.2.1 `ACT_Anomaly_Standard_Format.md`
+The Standard Format is the primary anomaly archive structure used for the majority of documented anomalies. It is used for stable, verified, and conventionally recordable cases where the anomaly can be described within a complete archival file.
+
+The Standard Format includes:
+- designation
+- titles
+- field type
+- clearance
+- containment class
+- fracture indexing
+- threat level
+- transformation viability
+- discovery data
+- description
+- anomalous properties
+- containment procedures
+- research summary
+- transformation status
+- incident summary
+- personnel record
+- reality theory notes
+- metadata
+
+The Standard Format answers the question:
+
+What is this anomaly, how dangerous is it, how is it contained, and what is its place in A.C.T archive logic?
+
+3.2.2 `ACT_Anomaly_RCT_Format.md`
+The RCT Format is a specialized anomaly record focused on three operational axes:
+
+- CO — Containment
+- RE — Research
+- TR — Transformation
+
+This file category is used when an anomaly must be understood not only as a static archive object, but as an active operational subject under continuing containment strain, live research pressure, and transformation review.
+
+The RCT Format answers the question:
+
+How are we holding it, what are we learning from it, and can it be changed into something useful without destroying ourselves?
+
+3.2.3 Relationship Between Standard and RCT Formats
+These two formats are not competing systems. They are parallel tools.
+
+- Standard Format = full archival identity
+- RCT Format = live operational handling body
+
+A single anomaly may possess both a Standard file and an RCT file if its archival and operational importance justify dual-record status.
+
+Official templates preserved with Part Three:
+- `ACT_Anomaly_Standard_Format.md`
+- `ACT_Anomaly_RCT_Format.md`
+
+3.2.4 Site Integration in Anomaly Files
+Modern anomaly records are expected to identify not only what the anomaly is, but where within the A.C.T network it is housed, routed, or governed. For this reason, anomaly documentation may include Containment Site, Site Type, and Jurisdictional Authority fields. Site metadata is treated as containment-relevant archive logic rather than optional location flavor.
+
+---
+
+3.3 Designation Rules
+A.C.T uses three primary designation structures:
+
+- `UFD-##-XXX`
+- `AFD-##-XXX`
+- `ANM-##-##-XXXX`
+
+3.3.1 UFD — Unknown Field Designation
+UFD is assigned during provisional detection and verification stages. It is used when anomalous status is suspected but not yet fully confirmed or stabilized in archive logic.
+
+3.3.2 AFD — Anomaly Field Designation
+AFD is assigned once the anomaly has been formally verified and entered into permanent A.C.T archive structure.
+
+In both cases:
+- the first ## is the anomaly field type code
+- the XXX is the numerical registry code
+
+Recognized field type codes are:
+- OB = Object
+- SU = Subject
+- PL = Place
+- TI = Time
+- SP = Space
+- ME = Memetic
+- IH = Info Hazard
+- CH = Cosmic Hazard
+- NB = Non-Natural Bio Hazard
+- ?.H = Shifting Hazard
+
+3.3.3 ANM — Fracture Designation
+`ANM-##-##-XXXX` is used for anomalies whose documentation must be understood through fracture-state logic.
+
+In this format:
+- the first ## is the Fracture Containment Index
+- the second ## is the Fracture Sub-Threat Index
+- the XXXX is the numerical registry code
+
+This designation is used when standard archive assumptions become structurally insufficient.
+
+3.3.4 Reserved Significance
+Some numbers may hold special historical meaning. The number 000 is treated as a designation of foundational or origin-level significance and is never assigned casually.
+
+---
+
+3.4 Fracture Index
+Not every anomaly threatens containment in a straightforward way. Some distort the very logic used to describe, contain, or assess them. For these cases, A.C.T maintains the Fracture Index, divided into two categories.
+
+3.4.1 Fracture Index — Containment
+- QUESTIONED — *Did we even put it in the box — it's so passive you wonder if containment ever happened*
+- ABSURD — *How the hell is it in the box — it shouldn't fit, shouldn't stay, but somehow it does*
+- MUTATED — *The box grew legs — containment itself became the anomaly*
+- UNAUTHORED — *Who wrote this — the documentation is wrong, the procedure is wrong, something is rewriting the rules*
+- SCHRÖDINGER — *It's in the box, but not in the box — simultaneously contained and not contained, and observation determines which*
+
+3.4.2 Fracture Index — Sub-Threat
+- HARMLESS — *Did it even hurt anybody — no damage, no effect, no consequence to anyone*
+- BENEFICIAL — *It healed someone — the anomaly actively improves or repairs, not harms*
+- REVERTED — *Somehow it reverted back — the damage undoes itself, as if the threat never happened*
+- ABSENT — *Where's the threat — the danger exists on paper but nowhere in reality*
+- NULLIFIED — *It stopped — whatever it was doing, it ceased entirely on its own*
+
+The Fracture Index exists so the Facility does not lie to itself when standard categories no longer describe the anomaly honestly.
+
+---
+
+3.5 Containment Procedure Writing Standard
+Every anomaly containment procedure must state:
+- where the anomaly is kept
+- what kind of thing it is
+- who may be exposed to it
+- how it is transported
+- what kind of containment structure is used
+- what happens when containment fails
+
+3.5.1 Containment Location Behavior Category
+Every anomaly is assigned one of the following:
+- LEFT ALONE
+- CAN’T BE LEFT ALONE
+- MUST MONITOR
+- DON’T MONITOR
+
+3.5.2 Containment Condition Category
+Every anomaly is categorized as:
+- Humanoid
+- Non-Humanoid
+- Object
+- Phenomenon
+
+3.5.3 Exposure Authorization
+Direct exposure is restricted to:
+- E-Class Test Subject
+- Current Researcher
+- Designated Field Personnel
+
+3.5.4 Transport Rule
+Movable anomalies must be transported using REALITY STABILIZATION ANCHOR / RSA support.
+
+- standard anomalies use RSA transport support
+- oversized anomalies use Facility Converted Aircraft
+- unmovable anomalies receive a Facility-built perimeter, enclosure, and support system around the anomaly itself
+
+3.5.5 Containment Structure Category
+Recognized structure categories include:
+
+- Small Box — used for compact anomalous objects, devices, samples, or low-volume materials requiring minimal secure enclosed storage
+- Medium Box — used for larger objects or manageable contained anomalies needing modest chamber space
+- Large Box — used for significant objects, active subjects, or anomalies requiring broad enclosure room
+- Massive Box — used for oversized entities, large-scale hazards, or high-volume enclosures requiring heavy structural containment
+- Enclosure Box — used when the anomaly requires a perimeter or territory-style enclosure rather than a simple chamber
+- Box-cass — used when the anomaly is already effectively a box, shell, vessel, or self-contained container-state object
+- Monitoring Field — used when the anomaly is best controlled through a monitored field, exclusion area, perimeter, or indirect watch-zone instead of a hard chamber
+- Blind Box — used when direct observation is dangerous and the anomaly must be enclosed under visual-denial or sensory-restricted conditions
+- Eye Box — used when active or continuous observation is itself part of containment and the anomaly must remain visible under controlled conditions
+- Non-Box — used when the anomaly cannot be described by ordinary enclosure logic but may still be managed through procedure
+- Unclose — used when the anomaly is too vast, too distributed, too abstract, or too structurally broad to enclose meaningfully at all
+
+These categories matter because in A.C.T, containment is not only about difficulty. It is also about what kind of structure reality will tolerate around the anomaly.
+
+3.5.6 Breach Response Rule
+When a breach occurs, Facility priority order is:
+- Maintain World Secrecy
+- Maintain Structural Normalcy
+- Closing of F-1 To the Outside
+- Activated Anti Reality Mesh / ARM
+- Activated Facility REALITY STABILIZATION ANCHOR / RSA
+- Deployment of Anti Anomaly Containment / AAC Task Force
+- Evacuation all non-containment Operator and employee
+
+3.5.7 Broken Masquerade Protocol
+If standard concealment fails, the Facility activates Broken Masquerade Protocol to preserve humanity’s survival and broad continuity even when secrecy collapses.
+
+3.5.8 REGRESSION Protocol
+If a World End Scenario / WES becomes unavoidable, the Facility may activate REGRESSION Protocol in order to preserve or send one surviving warning document into the past so earlier timeframes may learn how the world-ending sequence occurred.
+
+3.5.9 Termination Rule
+An anomaly may be granted termination if:
+- it will bring a WES
+- no countermeasure exists
+- no survivable transformation path exists
+- continued existence is judged more dangerous than elimination
+
+---
+
+3.6 Observation and Handling Restrictions
+Anomalies may be assigned one or more direct interaction restrictions, including:
+- no direct eye contact
+- no verbal naming
+- no mirrored reflection exposure
+- no digital replication
+- no written duplication
+- no solo observation
+- no biological contact
+- no serpent-class organism proximity
+- no descent below assigned floor without clearance
+- no destabilizing
+- no weak psychic
+
+These restrictions are part of containment, not optional notes.
+
+---
+
+3.7 Breach State Recording
+Every anomaly file must include a current breach-state condition.
+
+Recognized states are:
+- Stable
+- Content
+- Contain
+- Unstable
+- Agitated
+- Leaking
+- Compromised
+- Breached
+- Escalating
+- Critical
+- Structural Failure State
+
+These states describe not only whether the anomaly is in its assigned place, but whether containment reality itself remains coherent around it.
+
+---
+
+3.8 Transformation Authorization Protocol
+Transformation may only proceed through ascending authority:
+
+Field Operating Chief High Researcher Site Director Head Transformation if High Threat Administrator O5
+
+3.8.1 Transformation Prohibition Conditions
+Transformation is not allowed when the anomaly is marked:
+- Content
+- Unstable
+- Don’t Touch
+- Don’t See
+- Don’t Fix
+
+3.8.2 Required Proof Before Transformation
+The following must be demonstrated:
+- compatibility
+- application
+- use
+- lower projected danger or improved control
+- high-need operational justification
+
+3.8.3 Unstable Asset Conditions
+An anomaly is considered an unstable asset if:
+- it has failed transformation before
+- transformation changes its threat level
+- transformation changes its containment class
+- it remains unstable after conversion
+- it carries heavy ethical burden
+
+3.8.4 Stabilized vs Repurposed
+- Stabilized = safer, more predictable, lower-threat anomaly state
+- Repurposed = anomaly has been turned into a Facility asset
+
+3.8.5 Inviolable
+Inviolable indicates that attempting to change the anomaly’s structure or nature may itself trigger catastrophic harm.
+
+---
+
+3.9 Information Suppression and Redaction Format
+Authorized suppression and redaction markers include:
+- `[ BLANK ]`
+- `[ MEMETIC ]`
+- `[ INFO-HAZARD ]`
+- `[MEMETIC FILTER APPLIED]`
+- `[STRUCTURAL DATA OMITTED]`
+- `[ABYSS ACCESS ONLY]`
+- `[ O5 - ONLY ]`
+- `[O5-RESTRICTED]`
+- `[ Level 4-5 Lock ]`
+- `[ Specialize Only ]`
+
+These markers indicate that the information itself may be dangerous, destabilizing, or part of containment.
+
+---
+
+3.10 Supplementary Log Categories
+Beyond the main anomaly file, A.C.T maintains categorized supporting dossier structures for anomalies that generate too much evidence, transcript material, testing history, or review complexity to live safely in one file. These dossier categories include recovery, testimony, testing, incident, exploration, research, recovered document, observation, transformation, correspondence, sensor, and personal record structures. They exist to preserve how A.C.T learned what it learned without overloading the active containment file.
+
+Supporting file:
+- `ACT_Anomaly_Log_Categories_In_World_Explanation.md`
+- `ACT_Anomaly_Log_Categories_In_World_Explanation.txt`
+
+---
+
+3.11 Sample Modern Anomaly Entry
+The first modern sample anomaly file preserved with Part Three is the standardized A.C.T anomaly record for:
+
+- AFD-CH-000
+- Title I: The Slumbering Serpent God
+- Title II: ITHYOS, The World-Sleeper
+
+Supporting file:
+- `ACT_ITHYOS_Modern_Anomaly_File_Standard.md`
+- `ACT_ITHYOS_Modern_Anomaly_File_Standard.txt`
+- `ACT_ITHYOS_Modern_Anomaly_File_Standard.pdf`
+
+This file demonstrates the transition from the early ENTITY archive era into full modern A.C.T anomaly doctrine.
+
+---
+
+Closing Summary
+Part Three establishes the archival backbone of the A.C.T Facility. It records how the impossible is designated, classified, contained, studied, transformed, restricted, and remembered. Through the Standard and RCT formats, the Fracture Index, breach logic, transformation doctrine, and suppression rules, A.C.T transforms fear into method and method into survival.
+
+If Part One defined the Facility, and Part Two defined its structure and philosophy, then Part Three defines the language through which the Facility speaks about the impossible.

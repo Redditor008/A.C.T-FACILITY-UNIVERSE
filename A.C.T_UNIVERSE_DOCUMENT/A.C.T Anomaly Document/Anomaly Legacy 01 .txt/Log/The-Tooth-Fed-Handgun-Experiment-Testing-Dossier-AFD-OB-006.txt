@@ -1,0 +1,338 @@
+A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+The-Tooth-Fed-Handgun-Experiment-Testing-Dossier-AFD-OB-006
+
+═══════════════════════════════════════════════════════════════════════
+              A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-006
+TITLE I:             The Tooth-Fed Handgun
+TITLE II:            THE SMALL ANIMAL THAT CHOOSES THE SHOT
+
+FIELD TYPE:          OB — Object
+PRIMARY FILE:        The-Tooth-Fed-Handgun-AFD-OB-006
+
+DOCUMENT CATEGORY:   CATEGORY III — Experiment & Testing Dossier
+CATEGORY FUNCTION:   Feeding-cycle verification, ammunition growth study,
+                     handler-aim override testing, and safe-conditioning review
+
+CLEARANCE REQUIRED:  Level 3
+
+CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex
+ARCHIVE STATUS:      Active / Anomalous weapons restricted
+DOSSIER STATUS:      Open / Initial testing archived
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category III — Experiment & Testing Dossier.
+The document may contain multiple controlled test, feeding, interaction, and
+safety review logs concerning AFD-OB-006.
+
+INCLUDED LOG TYPES:
+   - Baseline Handling Test
+   - Feeding Cycle Test
+   - Ammunition Growth Review
+   - Handler-Aim Override Test
+   - Ballistic Discharge Log
+   - Safe-Conditioning Trial
+   - Procedure Revision Note
+   - Closing Archive Statement
+
+CATEGORY PURPOSE:
+To preserve controlled evidence of AFD-OB-006's biomechanical weapon behavior:
+its acceptance of gunpowder as feed, growth of tooth-like ammunition, animal-like
+conditioning responses, and ability to redirect the handler's aim.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-006 is a handgun-shaped biomechanical object with internal organs,
+tissue-like structures, and a calcified support bone in place of ordinary
+springs, pins, and firearm mechanisms. The object grows tooth-like ammunition
+when gunpowder is introduced through the magazine opening.
+
+AFD-OB-006 is not considered sapient. Its behavior is closer to a trained animal
+or conditioned tool than a conscious being. It responds to feeding schedule,
+handler pulse, repeated handling patterns, sound, movement, and stress.
+
+This dossier records the first controlled tests establishing three primary
+containment rules:
+
+   1. Do not feed outside schedule.
+   2. Do not hold in firing grip without restraints.
+   3. Do not assume the handler chooses the target.
+
+═══════════════════════════════════════════════════════════════════════
+                  SECTION 001 — BASELINE HANDLING TEST
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-006/TST-001
+LOG TYPE:            Baseline Handling Test
+CATEGORY:            Experiment & Testing Dossier
+DATE:                2011-10-04
+LOCATION:            ACT-SITE-01-US-W / Anomalous Weapons Bay 3
+CONDUCTING UNIT:     Object Containment Division / Anomalous Weapons Review
+LEAD TECHNICIAN:     Technician Amara Singh
+REMOTE SAFETY:       Officer Daniel Keene
+
+PURPOSE:
+To determine whether AFD-OB-006 reacts to ordinary handling while unfed,
+unloaded, and fitted with a ceramic magazine plug.
+
+PROCEDURE:
+AFD-OB-006 was placed on a nonreactive testing table under ballistic containment.
+A remote manipulator touched the grip, trigger guard, slide surface, muzzle
+block, and magazine plug. No firing grip was used during this test.
+
+OBSERVATIONS:
+   - Object remained externally still during first 4 minutes.
+   - Grip surface warmed by 2.1°C when manipulator touched it repeatedly.
+   - Trigger guard flexed inward once without trigger movement.
+   - Magazine plug remained sealed.
+   - Low clicking heard from magazine well after 7 minutes.
+   - Audio analysis suggests clicking was produced by internal tooth structures,
+     not metal cycling.
+
+RESULT:
+AFD-OB-006 reacts mildly to touch even when unfed. No discharge occurred.
+
+SAFETY NOTE:
+The object should not be described as inert. It should be described as dormant.
+
+═══════════════════════════════════════════════════════════════════════
+                    SECTION 002 — FEEDING CYCLE TEST
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-006/FED-001
+LOG TYPE:            Feeding Cycle Test
+CATEGORY:            Experiment & Testing Dossier
+DATE:                2011-10-09
+LOCATION:            Anomalous Weapons Bay 3
+FEED MATERIAL:       0.8 g low-grade gunpowder
+
+PURPOSE:
+To confirm feeding behavior and determine ammunition-growth timing after
+controlled gunpowder introduction.
+
+PROCEDURE:
+The ceramic magazine plug was removed by remote manipulator. Measured gunpowder
+was introduced through the magazine opening. The plug was reinserted after
+feeding. Object remained pointed into a sealed ballistic digestion trap.
+
+OBSERVATIONS:
+   - Magazine tissue opened before full plug removal.
+   - Gunpowder was drawn inward without gravity assistance.
+   - Gum-like tissue sealed the magazine opening for 6 minutes, 22 seconds.
+   - Internal temperature increased by 8.4°C.
+   - Low wet grinding sounds recorded from chamber cavity.
+   - Nitrate levels dropped to baseline after 9 minutes.
+   - Three tooth-like rounds formed inside the magazine well.
+
+RESULT:
+Feeding confirmed. Gunpowder is converted into tooth-like ammunition structures.
+Growth time varies by quantity and prior feeding interval.
+
+ARCHIVE NOTE:
+AFD-OB-006 displayed lower agitation for approximately 31 days after feeding.
+This supports current 45-day feeding schedule but does not justify overfeeding.
+
+═══════════════════════════════════════════════════════════════════════
+                SECTION 003 — AMMUNITION GROWTH REVIEW
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-006/AMM-001
+LOG TYPE:            Ammunition Growth Review
+CATEGORY:            Experiment & Testing Dossier
+REVIEWING UNIT:      Biohazard Review Support / Anomalous Weapons Review
+DATE:                2011-10-11
+
+SAMPLE BASIS:
+Two immature tooth-rounds were recovered after remote clearing test. One mature
+round was recovered intact from ballistic gel after discharge test.
+
+FINDINGS:
+   - Rounds resemble malformed molars with root-like anchoring fibers.
+   - Enamel composition does not match known donor sources.
+   - Dentin structure contains nitrate traces and pressure-reactive sac tissue.
+   - Mature rounds harden rapidly after leaving the chamber.
+   - Impact deformation suggests biting closure around target material.
+   - Immature rounds remain soft for 11 to 38 seconds after discharge.
+
+CONCLUSION:
+The ammunition is not loaded into the object. It is grown by the object. The
+rounds should be classified as temporary biological projectiles with ballistic
+function rather than ordinary ammunition.
+
+HANDLING NOTE:
+Recovered tooth-rounds must be stored in sealed sample trays. Do not place
+recovered rounds near AFD-OB-006. The object may attempt to reabsorb or reject
+them depending on maturity state.
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 004 — HANDLER-AIM OVERRIDE TEST
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-006/TST-002
+LOG TYPE:            Handler-Aim Override Test
+CATEGORY:            Experiment & Testing Dossier
+DATE:                2011-10-16
+LOCATION:            Anomalous Weapons Bay 3 / Remote Ballistic Lane
+APPROVED HANDLER:    Handler K-06, wrist-braced and remotely locked
+TARGETS:             Target A, Target B, Target C
+
+PURPOSE:
+To determine whether AFD-OB-006 can redirect aim independent of handler intent.
+
+PROCEDURE:
+Approved handler held AFD-OB-006 in firing grip while wrist braces and remote
+servo locks limited unsafe range. Three targets were placed in the ballistic
+lane. Handler was instructed to aim at Target A only. Target C was concealed
+behind a ballistic wall and contained a heated pig-heart analog for later
+calibration.
+
+OBSERVATIONS:
+   - Object remained steady for 4 seconds after firing grip established.
+   - Grip tissue tightened around handler's palm.
+   - Internal bone flexed before visible wrist movement.
+   - Barrel redirected 14 degrees right despite handler resistance.
+   - Object discharged one tooth-round at Target C's concealed position.
+   - Target C was struck through the edge of the ballistic wall.
+   - Handler reported the object "pulled like it had smelled something."
+
+RESULT:
+Handler-aim override confirmed. AFD-OB-006 can select a target not consciously
+chosen by the handler and not directly visible to the handler.
+
+PROCEDURE UPDATE:
+AFD-OB-006 may not be held in firing grip unless all unintended heat, pulse,
+movement, and biological analog targets are removed from the testing lane.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 005 — BALLISTIC DISCHARGE LOG
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-006/BAL-001
+LOG TYPE:            Ballistic Discharge Log
+CATEGORY:            Experiment & Testing Dossier
+DATE:                2011-10-21
+LOCATION:            Remote Ballistic Lane
+TEST STATE:          Fed / three mature tooth-rounds confirmed
+
+PURPOSE:
+To record projectile performance under controlled discharge conditions.
+
+PROCEDURE:
+AFD-OB-006 was mounted in a remote brace pointed into calibrated ballistic gel.
+No handler contact occurred. Trigger actuation was performed by remote arm.
+
+OBSERVATIONS:
+   - Trigger resisted remote pressure until chamber membrane contracted.
+   - Recoil band flexed backward before discharge.
+   - Projectile velocity comparable to compact handgun range.
+   - Tooth-round entered gel, curved 3.2 degrees after entry, and fractured.
+   - Fragments remained tooth-like rather than metallic.
+   - Gel surrounding impact channel showed compression marks resembling bite
+     pressure.
+
+RESULT:
+AFD-OB-006 can discharge lethal-force projectiles even without a handler, but
+aim correction is stronger when the object is held.
+
+SAFETY NOTE:
+Remote mounting reduces but does not eliminate hazard. The object may still
+select target-like stimuli if they enter its forward arc.
+
+═══════════════════════════════════════════════════════════════════════
+                  SECTION 006 — SAFE-CONDITIONING TRIAL
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-006/CON-001
+LOG TYPE:            Safe-Conditioning Trial
+CATEGORY:            Experiment & Testing Dossier
+DATE:                2011-11-02
+CONDUCTING UNIT:     Anomalous Weapons Review / Organic Object Handling
+
+PURPOSE:
+To determine whether repeated low-stress handling reduces hostile aim correction
+and agitation.
+
+PROCEDURE:
+AFD-OB-006 was exposed to one approved handler for 12 minutes daily over seven
+days. No ammunition was present. Handler used slow breathing, stable pulse, and
+consistent grip without firing posture. No trigger contact occurred.
+
+OBSERVATIONS:
+   - Day 1: grip tissue tightened repeatedly; muzzle drifted toward movement.
+   - Day 2: clicking reduced after handler slowed breathing.
+   - Day 3: object accepted palm contact without trigger flexion.
+   - Day 4: object oriented toward handler's elevated pulse during stress drill.
+   - Day 5: muzzle remained downward for 8 continuous minutes.
+   - Day 6: object vibrated when gunpowder scent introduced outside chamber.
+   - Day 7: object returned to downward rest position after handler whispered
+     approved calming phrase.
+
+APPROVED CALMING PHRASE:
+
+                     Not hunting. Empty hand. Stay down.
+
+RESULT:
+Limited safe-conditioning possible. AFD-OB-006 can develop calmer handling
+patterns but remains stimulus-reactive and unsafe for field use.
+
+CONCLUSION:
+Conditioning should be used only to reduce containment risk. It is not training
+for deployment.
+
+═══════════════════════════════════════════════════════════════════════
+                SECTION 007 — PROCEDURE REVISION NOTE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-006/PRC-001
+LOG TYPE:            Procedure Revision Note
+CATEGORY:            Experiment & Testing Dossier
+ISSUING AUTHORITY:   Object Containment Division / Anomalous Weapons Review
+DATE ISSUED:         2011-11-05
+
+REVISION SUMMARY:
+Testing confirms AFD-OB-006 is not an ordinary weapon and not a cooperative
+asset. It must be treated as a biomechanical predatory tool with trained-animal
+style response patterns.
+
+UPDATED RULES:
+   1. Do not feed outside authorized schedule.
+   2. Do not overfeed.
+   3. Do not hold in firing grip without wrist braces.
+   4. Do not test near unintended biological analogs.
+   5. Do not assume visible targets are the only targets it can select.
+   6. Do not refer to conditioning as obedience.
+   7. Do not use in field deployment proposals.
+   8. Do not starve as neutralization method.
+
+TRAINING PHRASE:
+
+                     It is not smart enough to trust.
+                     It is not inert enough to ignore.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+Current testing supports classification of AFD-OB-006 as a reactive anomalous
+object with biological internal systems and animal-like conditioning behavior.
+Its tooth ammunition, gunpowder feeding, and handler-aim override are confirmed.
+
+Future additions to this dossier should include:
+   - long-term feeding interval study
+   - overfeeding risk review
+   - recovered tooth-round stability testing
+   - sensory field mapping
+   - safe-conditioning failure events
+   - tissue health review during prolonged dormancy
+
+CURRENT DOSSIER STATUS: Open / Initial Testing Archived
+
+END OF DOSSIER

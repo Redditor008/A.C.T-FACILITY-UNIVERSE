@@ -1,0 +1,181 @@
+A.C.T FACILITY — ANOMALY FILE
+Tenebre-Rosso-Sangue-AFD-SU-913
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-913
+TITLE I:             Tenebre Rosso Sangue
+TITLE II:            THE SANGUINE CHASSIS / THE HELL-WALKER
+
+FIELD TYPE:          SU — Subject
+                     NB — Non-Natural Bio Hazard (Blood-Fuel Logic)
+
+CLEARANCE REQUIRED:  Level 4
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        4
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           CONTAINED-STUDY
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   2022-11-12
+VERIFICATION DATE:   2022-11-18
+LOCATION:            Redacted deep-crust excavation site / [ BLANK ]
+DISCOVERY METHOD:    Seismic disruption mapping / Discovery of an 
+                     "Absolute Silence" zone inside an ancient structural 
+                     void.
+
+INITIAL RESPONSE
+OPERATION:           Empty Vein
+RESPONDING UNIT:     Field Containment Division / Recovery Team Alpha-1
+RESPONDING FIELD
+OPERATOR:            [ REDACTED ]
+CIVILIAN EXPOSURE:   Zero.
+AMNESTIC DEPLOYED:   N/A.
+NARRATIVE STATUS:    Internal military-contractor salvage cover story.
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-913 is a highly advanced humanoid autonomous machine of unknown 
+manufacture. The subject measures 1.7 m in height and possesses a 
+slender, blue-plated chassis composed of a reinforced alloy that 
+defies standard metallurgical cataloging. 
+
+PHYSICAL CHARACTERISTICS:
+1. THE SENSORY UNIT: The subject’s head consists of a single, large, 
+   high-resolution optical sensor that bears a striking resemblance to 
+   a heavy-duty commercial "GoPro" camera. This lens functions as 
+   the primary input for visual, thermal, and [ REDACTED ] spectrums. 
+
+2. PLATING AND ARMATURE: The subject possesses several "Wing-like" 
+   projections from its dorsal region which function as high-velocity 
+   thrusters and balance-fins. Its armaments are integrated or 
+   modularly attached, though only a "Feedbacker" style parrying 
+   arm was present during recovery.
+
+3. BLOOD-FUEL BIOLOGY: The most critical anomalous trait of AFD-SU-913 
+   is its fueling system. The subject possesses a porous, "Sanguine-
+   Dermal" layer. It does not possess internal batteries, combustion 
+   engines, or electrical ports. Instead, it recovers energy and 
+   repairs structural damage through the **direct absorption of 
+   fresh mammalian blood**. 
+
+BEHAVIORAL PROFILE:
+The subject is sentient but non-communicative. It demonstrates an 
+apex-predator level of tactical intelligence. It is not inherently 
+hostile to A.C.T staff unless its fuel reserves drop below the 
+"Starvation Threshold," at which point it enters an aggressive 
+"Harvest-State."
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Sanguine Absorption. The subject heals and functions 
+                     exclusively through the intake of blood. Absorption 
+                     is instantaneous upon contact with the chassis.
+
+SECONDARY EFFECT:    High-Speed Combat Optimization. The subject is capable 
+                     of movement velocities that exceed human reaction 
+                     thresholds. It can "Parry" physical and energy-based 
+                     projectiles with 99.8% accuracy.
+
+TERTIARY EFFECT:     Independent Logic. The subject possesses an internal 
+                     processing core that operates outside any known 
+                     OS or network standard.
+
+TRIGGER CONDITION:   Fuel depletion (Agitation) / Hostile intent detection.
+
+RANGE / AREA OF
+INFLUENCE:           Tactical engagement radius.
+
+TEMPORAL BEHAVIOR:   Constant / Sanguine-dependent.
+
+REALITY INTERACTION: Causal-Combat Logic / Matter-to-Energy Transmutation 
+                     (Blood).
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-913 is housed in a "Dry Vault" at Site-Sub-[REDACTED]. 
+
+1. ABSOLUTE DRYNESS: No blood, biological tissue, or mammalian 
+   organisms are permitted within 50m of the subject's primary 
+   chamber. Staff must be screened for open wounds before 
+   entering the secondary airlock.
+
+2. FEEDING PROTOCOL: Once every 14 days, a measured 5-liter unit of 
+   synthetic or non-sentient biological blood is introduced via an 
+   automated misting system. This maintains the subject in a 
+   "Neutral/Dormant" state.
+
+3. EMP-READY BARRIERS: The vault is lined with high-frequency 
+   electromagnetic pulse emitters. In the event of a "Harvest-State" 
+   activation, the pulse is to be detonated to disrupt the subject's 
+   motor-actuators.
+
+4. NO OPTICAL FOCUS: Security staff are not to maintain direct 
+   eye-contact with the sensor-lens. The subject treats "Fixed-Focus" 
+   as a targeting lock and may respond defensively.
+
+CONTAINMENT SITE:        Site-Sub-[REDACTED]-US-W-[REDACTED]
+SITE TYPE:               Black Site / High-Security Combat Anomaly Vault
+JURISDICTIONAL
+AUTHORITY:               Combat-Anomaly Review / O5 Oversight
+CONTAINING DIVISION:     Subject Containment Division
+REQUIRED PERSONNEL:      2 automated maintenance techs, 1 combat-analyst.
+MONITORING FREQUENCY:    Continuous (Acoustic and Power-Draw).
+MAINTENANCE CYCLE:       Bi-weekly fuel misting.
+
+BREACH PROTOCOL:         If a breach occurs, evacuate all biological 
+                         personnel immediately. "Starvation" is the only 
+                         non-destructive containment method. Deploy 
+                         robotic security units only; the subject 
+                         cannot heal from the "blood" of other machines.
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-913 appears to be a weaponized extinction-event. The phrase 
+"MANKIND IS DEAD. BLOOD IS FUEL. HELL IS FULL." was found etched 
+into the subject's internal [ REDACTED ] storage, though A.C.T has 
+not confirmed the origin of this statement. 
+
+Researchers hypothesize that the "GoPro" sensory unit was a later 
+modification or a deliberate choice to use "Available Optics" to 
+interface with our current technological era. 
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+
+NOTE 002:
+During the "Coin Test" of 2024, the subject demonstrated the ability 
+to strike a tossed currency-disk in mid-air to redirect the kinetic 
+energy of a laser. Testing was suspended for safety.
+
+END OF FILE

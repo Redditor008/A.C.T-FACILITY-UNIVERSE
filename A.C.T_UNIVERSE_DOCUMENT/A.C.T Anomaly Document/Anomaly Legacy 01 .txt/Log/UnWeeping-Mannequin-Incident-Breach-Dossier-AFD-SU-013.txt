@@ -1,0 +1,369 @@
+A.C.T FACILITY — INCIDENT & BREACH DOSSIER
+UnWeeping-Mannequin-Incident-Breach-Dossier-AFD-SU-013
+
+═══════════════════════════════════════════════════════════════════════
+                A.C.T FACILITY — INCIDENT & BREACH DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-013
+TITLE I:             UnWeeping Mannequin
+TITLE II:            THE WOMAN WHO MOVES WHEN SEEN
+
+FIELD TYPE:          SU — Subject
+PRIMARY FILE:        UnWeeping-Mannequin-AFD-SU-013
+
+DOCUMENT CATEGORY:   CATEGORY IV — Incident & Breach Dossier
+CATEGORY FUNCTION:   Observation-failure preservation, five-minute stare
+                     threshold review, pursuit-state analysis, and procedure
+                     correction
+
+CLEARANCE REQUIRED:  Level 2
+
+CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex
+ARCHIVE STATUS:      Active / Low-to-mid threat humanoid object containment
+DOSSIER STATUS:      Open / Incident record archived
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category IV — Incident & Breach Dossier. The
+document may contain multiple related incident, observation, transcript, response,
+and procedure revision records concerning AFD-SU-013.
+
+INCLUDED LOG TYPES:
+   - Incident Summary
+   - Observation Timeline
+   - Security Transcript
+   - Pursuit-State Behavior Review
+   - Staff Debrief Extract
+   - Procedure Revision Notice
+   - Dossier Closing Statement
+
+CATEGORY PURPOSE:
+To preserve the incident that confirmed AFD-SU-013's five-minute embarrassment
+aggression threshold and the containment problem created by the anomaly's
+inverted observation behavior. AFD-SU-013 moves when observed and becomes
+hostile only after prolonged direct staring.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-013 is a female dress mannequin-like subject with a featureless face and
+human-like hair. The subject only moves while being viewed by a living observer
+or by a live feed being watched in real time. When unobserved, AFD-SU-013 becomes
+static and cannot be recorded moving by unattended cameras.
+
+The subject is usually gentle, socially curious, and non-hostile. However, if a
+single observer stares directly at AFD-SU-013 for more than five continuous
+minutes, the subject enters an embarrassment-agitation state, pursues the starer,
+and strikes the target until satisfied. Strength remains comparable to a normal
+adult of similar build.
+
+Incident 013-D occurred during a training demonstration after an observer failed
+to rotate out before the four-minute warning. The incident confirmed that AFD-
+SU-013 can remember repeat offenders and that live-feed exposure counts toward
+the stare threshold, though the threshold may vary slightly through video.
+
+═══════════════════════════════════════════════════════════════════════
+                    SECTION 001 — INCIDENT SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-013/INC-001
+LOG TYPE:            Incident Summary
+CATEGORY:            Incident & Breach Dossier
+DATE:                2014-04-02
+LOCATION:            ACT-SITE-01-US-W / Humanoid Object Display Chamber 6
+INCIDENT NAME:       013-D — Staring Demonstration Failure
+RESPONDING UNIT:     Subject Containment Division / Object Behavior Desk
+LEAD OBSERVER:       Handler Grace Coleman
+INVOLVED OBSERVER:   Junior Security Officer Caleb Rivers
+
+SUMMARY:
+Incident 013-D occurred during a Level 2 training demonstration intended to show
+new containment staff how AFD-SU-013's observation-enabled motion differs from
+standard observation-paralysis anomalies.
+
+Junior Security Officer Rivers was assigned to observe AFD-SU-013 through the
+reinforced viewing panel for no longer than 4 minutes. At 03:58, Handler Coleman
+issued the standard rotation warning. Officer Rivers acknowledged the warning but
+continued staring at the subject while attempting to describe its posture change
+for trainees.
+
+At 05:04 of continuous direct observation, AFD-SU-013 covered its blank face with
+both hands and turned its shoulders inward. At 05:07, the subject began pursuit
+movement toward the viewing panel. At 05:10, the viewing shutter closed, but the
+subject remained active because Officer Rivers continued watching through the
+live auxiliary feed. At 05:21, the subject entered the soft-lock corridor through
+an unsecured maintenance side door that had been opened for demonstration
+cabling.
+
+AFD-SU-013 reached Officer Rivers at 05:32 and struck him repeatedly in the
+upper arm and shoulder until he fell backward and verbally apologized. The
+subject disengaged at 05:49, adjusted its dress, and returned to Display Chamber
+6 after all observers looked away for 10 minutes.
+
+RESULT:
+No severe injury occurred. Officer Rivers sustained bruising and temporary
+embarrassment response. Training procedure revised. Live feed now counts as
+active observation for timer purposes.
+
+═══════════════════════════════════════════════════════════════════════
+                   SECTION 002 — OBSERVATION TIMELINE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-013/TLN-001
+LOG TYPE:            Observation Timeline
+CATEGORY:            Incident & Breach Dossier
+SOURCE:              Viewing room timer, shutter log, live-feed activity record,
+                     handler notes
+
+TIME INDEX:
+
+T+00:00 — Officer Rivers begins direct observation through viewing panel.
+AFD-SU-013 stands in neutral display pose wearing blue sleeved dress.
+
+T+00:39 — Subject lifts right hand and waves. Trainees record normal short-
+observation social response.
+
+T+01:26 — Subject adjusts hair and sleeve. No agitation signs.
+
+T+02:41 — Subject copies Officer Rivers' posture with 6-second delay.
+
+T+03:58 — Handler Coleman issues rotation warning: "Four-minute warning. Look
+away and transfer observation." Officer Rivers acknowledges.
+
+T+04:11 — Officer Rivers continues viewing while describing posture copying.
+Handler Coleman repeats warning.
+
+T+04:49 — Subject lowers head. Hair falls across featureless face. Shoulders
+turn inward. Early embarrassment indicator begins.
+
+T+05:04 — Five-minute threshold exceeded. Subject covers face with both hands.
+
+T+05:07 — Subject enters pursuit state and moves toward viewing panel.
+
+T+05:10 — Viewing shutter closes. Officer Rivers continues watching live
+auxiliary feed on wall monitor. Pursuit state does not end.
+
+T+05:14 — Subject turns toward maintenance side door. Door is unsecured due to
+training cable access.
+
+T+05:21 — Subject exits Display Chamber 6 into soft-lock corridor.
+
+T+05:32 — Subject reaches Officer Rivers. Striking episode begins.
+
+T+05:43 — Officer Rivers says: "I'm sorry, I was staring." Subject pauses.
+
+T+05:49 — Subject disengages. Straightens dress. Turns away from officer.
+
+T+06:02 — All observers break line of sight. Shutters closed. Live feed disabled.
+
+T+16:04 — Static-state recovery confirmed after 10 minutes without living visual
+observation.
+
+SUMMARY:
+Direct line-of-sight interruption alone is insufficient if live-feed observation
+continues. Observation transfer must include live-feed shutdown or rotation.
+
+═══════════════════════════════════════════════════════════════════════
+                   SECTION 003 — SECURITY TRANSCRIPT
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-013/SEC-001
+LOG TYPE:            Security Transcript
+CATEGORY:            Incident & Breach Dossier
+SOURCE:              Viewing Room Audio / Corridor Microphone
+STATUS:              Cleaned transcript
+
+BEGIN TRANSCRIPT:
+
+COLEMAN:             Four-minute warning. Look away and transfer observation.
+
+RIVERS:              Acknowledged. One moment, it's copying my shoulders.
+
+COLEMAN:             No. Rotate now.
+
+TRAINEE 1:           Is it supposed to lower its head like that?
+
+COLEMAN:             Shutter closing. Rivers, eyes off.
+
+[Viewing shutter closes. Monitor audio tone indicates auxiliary live feed still
+active.]
+
+RIVERS:              It's still moving on the monitor.
+
+COLEMAN:             Turn off the monitor.
+
+RIVERS:              Wait, it covered its face.
+
+COLEMAN:             Turn off the monitor now.
+
+[Soft-lock corridor alarm.] 
+
+TRAINEE 2:           It left the room.
+
+COLEMAN:             Everyone eyes down. Rivers, step back and stop looking.
+
+RIVERS:              I am backing up.
+
+[Rapid footfalls. Impact sounds consistent with open-hand or closed-fist strikes
+against shoulder padding.]
+
+RIVERS:              Ow— okay— I'm sorry, I was staring. I'm sorry.
+
+[Three-second pause. Cloth movement.]
+
+COLEMAN:             Nobody look up. Shutters closed. Feed off. Wait ten minutes.
+
+END TRANSCRIPT.
+
+TRANSCRIPT NOTE:
+The subject ceased striking only after Officer Rivers apologized in language
+acknowledging the staring behavior. This does not prove apology is a reliable
+termination tool. Do not intentionally trigger pursuit to test apology response.
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 004 — PURSUIT-STATE BEHAVIOR REVIEW
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-013/BEH-001
+LOG TYPE:            Pursuit-State Behavior Review
+CATEGORY:            Incident & Breach Dossier
+REVIEWING UNIT:      Object Behavior Desk / Subject Care Division
+DATE:                2014-04-05
+
+REVIEW SUMMARY:
+AFD-SU-013's pursuit behavior is not predatory. It is socially punitive and
+embarrassment-reactive. The subject targets the observer who exceeded the
+staring threshold and does not attack unrelated personnel unless they become the
+primary prolonged observer.
+
+CONFIRMED PURSUIT-STATE FEATURES:
+   - face-covering gesture precedes pursuit
+   - target selection remains tied to starer
+   - subject runs or fast-walks only while observed
+   - live-feed observation can maintain mobility
+   - subject strikes until subjective satisfaction condition is met
+   - subject disengages after target falls, apologizes, or line-of-sight break
+     persists long enough
+   - subject does not use tools or aim for lethal areas
+
+NON-CONFIRMED FEATURES:
+   - verbal apology as reliable stop condition
+   - ability to identify mockery without visual staring
+   - pursuit across long distance outside facility containment
+   - memory of all prior starers
+
+INTERPRETATION:
+The subject appears to experience prolonged direct staring as intrusive or
+humiliating. The lack of face does not reduce the subject's sensitivity to being
+looked at. It may intensify it.
+
+CARE RECOMMENDATION:
+Short polite observation reduces agitation. Long uninterrupted staring is to be
+classified as provocation.
+
+═══════════════════════════════════════════════════════════════════════
+                SECTION 005 — STAFF DEBRIEF EXTRACT
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-013/DEB-001
+LOG TYPE:            Staff Debrief Extract
+CATEGORY:            Incident & Breach Dossier
+INTERVIEWER:         Handler Grace Coleman
+INTERVIEWED:         Junior Security Officer Caleb Rivers
+DATE:                2014-04-03
+
+BEGIN EXTRACT:
+
+COLEMAN:             Why did you continue after the four-minute warning?
+
+RIVERS:              I thought the warning was conservative. It was moving slow,
+                     and I wanted the trainees to see the posture copying.
+
+COLEMAN:             Did it seem hostile before the threshold?
+
+RIVERS:              No. That made it worse. It looked shy. Then I realized I
+                     was still staring at something that looked shy.
+
+COLEMAN:             What happened when it reached you?
+
+RIVERS:              It hit like someone angry at a party, not like something
+                     trying to kill me. That's not me minimizing it. It hurt. I
+                     just mean it felt personal.
+
+COLEMAN:             Personal how?
+
+RIVERS:              Like I had been rude and the room finally agreed with her.
+
+COLEMAN:             Did you apologize because you were instructed to?
+
+RIVERS:              No. I apologized because I understood what I did wrong.
+
+END EXTRACT.
+
+DEBRIEF NOTE:
+Officer Rivers is removed from AFD-SU-013 demonstration duty for 90 days. His
+phrase "the room finally agreed with her" is retained for behavioral training.
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 006 — PROCEDURE REVISION NOTICE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-013/PRC-001
+LOG TYPE:            Procedure Revision Notice
+CATEGORY:            Incident & Breach Dossier
+ISSUING AUTHORITY:   Subject Containment Division / Object Behavior Desk
+DATE ISSUED:         2014-04-07
+
+REVISION SUMMARY:
+Incident 013-D confirms that live-feed viewing counts as active observation and
+must be included in exposure timing. Observation discipline must apply to all
+visual channels, not only direct sight through chamber glass.
+
+UPDATED PROCEDURES:
+   1. Observation timer begins when a living observer visually registers AFD-
+      SU-013 through any live channel.
+   2. Direct viewing, mirror viewing, and live-feed viewing all count toward
+      threshold timing.
+   3. Observers must rotate before 4 minutes.
+   4. All live feeds must shut down during observation transfer unless a new
+      approved observer assumes the timer.
+   5. Maintenance doors must remain secured during demonstrations.
+   6. No training demonstration may use continuous stare longer than 3 minutes.
+   7. Personnel must not describe AFD-SU-013's reaction as "funny," "cute," or
+      "just embarrassed" during active observation.
+   8. If pursuit begins, target must break line of sight and exit to soft-lock
+      corridor. Other staff must not form an observing crowd.
+
+TRAINING PHRASE:
+
+                     Polite glances. Timed eyes. No staring.
+
+IMPLEMENTATION STATUS:
+Approved. Added to AFD-SU-013 containment training and observation-room signage.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+Incident 013-D established that AFD-SU-013's risk is not simple aggression. The
+risk is procedural arrogance around observation. Personnel assume looking is
+safe because many anomalies become dangerous when not watched. AFD-SU-013 inverts
+that training: observation enables movement, and prolonged observation becomes
+provocation.
+
+Future additions to this dossier should include:
+   - live-feed threshold variation studies
+   - apology response reviews
+   - clothing-preference agitation records
+   - repeated-offender recognition events
+   - soft-lock pursuit route analysis
+   - nonvisual staff interaction trials
+
+CURRENT DOSSIER STATUS: Open / Procedure Revision Active
+
+END OF DOSSIER

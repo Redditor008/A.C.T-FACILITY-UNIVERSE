@@ -1,0 +1,319 @@
+A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
+Dream-Eater-THEMESY-Behavioral-Observation-Dossier-AFD-SU-011
+
+═══════════════════════════════════════════════════════════════════════
+             A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-011
+TITLE I:             Dream Eater-THEMESY
+TITLE II:            THE GENTLE WHALE THAT DOES NOT KNOW IT FEEDS
+
+FIELD TYPE:          SU — Subject
+PRIMARY FILE:        Dream-Eater-THEMESY-AFD-SU-011
+
+DOCUMENT CATEGORY:   CATEGORY VIII — Behavioral & Observation Dossier
+CATEGORY FUNCTION:   Long-term behavior monitoring, feeding-cycle observation,
+                     care protocol development, and sleep-state review
+
+CLEARANCE REQUIRED:  Level 3
+
+CONTAINMENT SITE:    ACT-SITE-03-JP-E — Kurokawa Archive Node
+ARCHIVE STATUS:      Active / Oneiric subject-care restricted
+DOSSIER STATUS:      Open / Observation cycle archived
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category VIII — Behavioral & Observation
+Dossier. The document may contain multiple related behavioral, care, routine,
+feeding, and subject-welfare records concerning AFD-SU-011.
+
+INCLUDED LOG TYPES:
+   - Baseline Observation Log
+   - Feeding Behavior Log
+   - Nightmare-Care Event Log
+   - Post-Slumber Care Note
+   - Handler Observation Note
+   - Dossier Closing Statement
+
+CATEGORY PURPOSE:
+To preserve repeated behavioral evidence showing that AFD-SU-011 is gentle,
+non-hostile, and unaware of the full effect its feeding has on sleeping subjects.
+This dossier also records the difference between ordinary dream feeding and
+nightmare-care feeding.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-011 is a 2 m aerial whale-like entity that swims through air and feeds on
+active dream content. The subject has a cloud-like mane, glowing white marble-like
+eyes, and a body that is approximately 22% transparent.
+
+When feeding from ordinary dream states, AFD-SU-011 induces a stable 72-hour
+deep slumber. When feeding from severe nightmare states, the subject slows its
+feeding process and appears to remove fear-content carefully, resulting in a
+shorter 64-hour deep slumber.
+
+This dossier records Observation Cycle 011-C, during which A.C.T confirmed that
+AFD-SU-011 does not behave like a predator in the usual sense. It approaches
+sleeping subjects softly, avoids loud rooms, retreats from intense light, and
+modifies its feeding when distress is present.
+
+═══════════════════════════════════════════════════════════════════════
+                    SECTION 001 — BASELINE OBSERVATION LOG
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-011/OBS-001
+LOG TYPE:            Baseline Observation Log
+CATEGORY:            Behavioral & Observation Dossier
+DATE:                2018-12-14
+LOCATION:            ACT-SITE-03-JP-E / Oneiric Subject Suite 4
+OBSERVING UNIT:      Subject Care Division / Sleep-State Anomaly Desk
+LEAD OBSERVER:       Dr. Haruka Iwase
+SECONDARY OBSERVER:  Care Technician Emil Novak
+
+PURPOSE:
+To establish baseline movement, visual response, and calm-state behavior for
+AFD-SU-011 outside an active feeding event.
+
+CHAMBER CONDITIONS:
+   - light level: low indirect blue-white illumination
+   - sound level: below 30 dB
+   - no sleeping subjects inside suite
+   - no reflective panels exposed
+   - suspended cloth baffles installed for motion tracking
+
+OBSERVATIONS:
+AFD-SU-011 remained suspended between 0.8 m and 1.6 m above the chamber floor
+for most of the observation period. Movement consisted of slow swimming motions
+consistent with a submerged whale despite the absence of water.
+
+The subject circled the western side of the chamber 17 times. It paused near
+cloth baffles when they moved in the ventilation current and appeared to inspect
+them using both visual attention and mane expansion.
+
+The entity's mane remained pale white during calm movement. When Technician
+Novak accidentally dropped a metal clipboard outside the observation window, the
+mane contracted tightly against the dorsal line and the subject became more
+transparent for 44 seconds. No aggressive behavior followed.
+
+The subject approached the observation window twice. During both approaches, its
+white marble-like eyes brightened slightly. Personnel reported mild calmness and
+the sensation of being watched by something that did not understand why it was
+being watched in return.
+
+RESULT:
+AFD-SU-011 displays non-hostile exploratory behavior under low-stress conditions.
+Sudden sound produces retreat and transparency increase, not aggression.
+
+CARE NOTE:
+Avoid abrupt metallic sound near the containment suite. The subject does not
+attack when startled, but tracking becomes more difficult while it is partially
+transparent.
+
+═══════════════════════════════════════════════════════════════════════
+                    SECTION 002 — FEEDING BEHAVIOR LOG
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-011/FED-001
+LOG TYPE:            Feeding Behavior Log
+CATEGORY:            Behavioral & Observation Dossier
+DATE:                2018-12-18
+LOCATION:            Oneiric Subject Suite 4 / Monitored Sleep Annex
+FEEDING SUBJECT:     Volunteer Subject 011-V1
+MEDICAL STATUS:      Cleared for prolonged monitored slumber
+CONSENT STATUS:      Voluntary / witnessed / recorded
+
+PURPOSE:
+To document ordinary dream feeding and confirm the 72-hour post-feeding slumber
+pattern under controlled care.
+
+PROCEDURE:
+Volunteer Subject 011-V1 entered monitored sleep at 22:14. Dream activity was
+confirmed through REM-state monitoring. AFD-SU-011 was permitted to enter the
+sleep annex after the subject reached stable dream state.
+
+OBSERVATION:
+At 22:39, AFD-SU-011 detected the sleeping subject and moved through the open
+suite partition without touching the frame. The entity hovered above the upper
+torso at a distance of approximately 0.6 m.
+
+At 22:41, the cloud-like mane expanded downward. Pale thread-like light rose
+from the sleeping subject's face and chest. AFD-SU-011 opened its mouth slightly
+and drew the light inward. No bite motion, pressure, or visible distress was
+observed.
+
+The subject's breathing slowed but remained stable. REM activity decreased over
+9 minutes. AFD-SU-011's body brightness increased slightly after feeding.
+
+At 22:52, AFD-SU-011 withdrew, circled the bed once, and pressed its mane
+briefly against the blanket near the subject's shoulder. This gesture is not
+understood. It has been provisionally classified as post-feeding inspection or
+unintentional comfort behavior.
+
+POST-FEEDING RESULT:
+Volunteer Subject 011-V1 entered deep slumber lasting 72 hours and 11 minutes.
+The subject woke naturally, thirsty and mildly disoriented, but showed no
+lasting cognitive deficit. The subject remembered preparing to sleep and then
+"having no dream where a dream should have been."
+
+RESULT:
+Ordinary dream feeding confirmed. Post-feeding slumber duration falls within
+expected 72-hour range.
+
+═══════════════════════════════════════════════════════════════════════
+                SECTION 003 — NIGHTMARE-CARE EVENT LOG
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-011/FED-002
+LOG TYPE:            Nightmare-Care Event Log
+CATEGORY:            Behavioral & Observation Dossier
+DATE:                2019-01-07
+LOCATION:            Oneiric Subject Suite 4 / Monitored Sleep Annex
+FEEDING SUBJECT:     Volunteer Subject 011-V2
+MEDICAL STATUS:      Cleared for monitored nightmare-stimulus trial
+CONSENT STATUS:      Voluntary / witnessed / recorded
+
+PURPOSE:
+To document AFD-SU-011's altered feeding behavior when a sleeping subject is
+experiencing a severe nightmare state.
+
+PROCEDURE:
+Volunteer Subject 011-V2 entered sleep under monitored dream-stimulus conditions.
+Nightmare markers were confirmed through elevated pulse, muscle tension,
+respiratory irregularity, and distress-pattern EEG. AFD-SU-011 was allowed to
+approach after care staff confirmed no immediate risk to the subject.
+
+OBSERVATION:
+At 01:16, AFD-SU-011 entered the annex and stopped 1.2 m above the sleeping
+subject. The entity did not descend immediately. Its mane darkened from white to
+gray-blue and expanded in slow pulses.
+
+At 01:18, AFD-SU-011 positioned itself above the subject's head rather than the
+upper torso. The mouth opened only slightly. Pale light rose from the subject,
+but unlike ordinary feeding, the light contained dark, knot-like inclusions.
+
+AFD-SU-011 did not draw the entire dream-thread at once. It moved its head in
+small lateral motions, separating dark knots from pale strands before consuming
+them. The process lasted 41 minutes.
+
+During the feeding period, the subject's distress markers reduced gradually. At
+no point did AFD-SU-011 display urgency or hunger escalation. It paused three
+times when the subject's breathing changed, then resumed more slowly.
+
+At 01:59, AFD-SU-011 closed its mouth and hovered silently for 6 minutes. Its
+mane returned to pale white. Before leaving, the entity touched its mane to the
+subject's forehead. No physical residue was detected.
+
+POST-FEEDING RESULT:
+Volunteer Subject 011-V2 entered deep slumber lasting 64 hours and 08 minutes.
+Upon waking, the subject reported:
+
+                     "It ate around the teeth of the dream.
+                     It was trying not to bite me."
+
+The subject retained memory of pre-existing stress but could not recall the
+nightmare imagery. Fear response to the original nightmare topic was reduced for
+at least 30 days after the event.
+
+RESULT:
+Nightmare-care feeding confirmed. AFD-SU-011 slows its feeding process and
+appears to separate fear-content from surrounding memory structure before
+consumption.
+
+CAUTION:
+This behavior is beneficial in result but not fully controlled. AFD-SU-011 must
+not be treated as an approved medical tool.
+
+═══════════════════════════════════════════════════════════════════════
+                  SECTION 004 — POST-SLUMBER CARE NOTE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-011/CARE-001
+LOG TYPE:            Post-Slumber Care Note
+CATEGORY:            Behavioral & Observation Dossier
+AUTHOR:              Sleep Medical Technician Keiko Tan
+DATE:                2019-01-10
+
+CARE SUMMARY:
+Subjects entering post-feeding slumber require ordinary supportive care rather
+than emergency awakening. Forced waking is not recommended except under severe
+medical necessity. Natural awakening is calmer and produces fewer orientation
+problems.
+
+POST-FEEDING CARE REQUIREMENTS:
+   - hydration support
+   - temperature monitoring
+   - pressure care
+   - low-noise room conditions
+   - no bright overhead lighting during first hour after waking
+   - simple orientation statement on waking
+   - no immediate interrogation about dream content
+
+APPROVED ORIENTATION STATEMENT:
+
+                     You are awake. You were cared for.
+                     The dream is gone. You are still here.
+
+OBSERVATION:
+Subjects often attempt to describe the absence of a dream rather than the dream
+itself. Interviewers should not pressure them to reconstruct missing dream
+content. In nightmare-care cases, forced reconstruction may restore distress
+without restoring useful information.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 005 — HANDLER OBSERVATION NOTE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-011/HND-001
+LOG TYPE:            Handler Observation Note
+CATEGORY:            Behavioral & Observation Dossier
+AUTHOR:              Care Handler Mina Okafor
+DATE:                2019-01-14
+
+OBSERVATION:
+AFD-SU-011 appears gentle, but the entity does not understand consent in a way
+compatible with A.C.T subject-care standards. It approaches sleep the way a
+small animal approaches food or warmth. It is not cruel. It is also not asking.
+
+The subject reacts positively to low-volume whale-song tones and soft indirect
+light. It reacts poorly to alarms, metal impacts, crowding, and rooms where many
+awake personnel are speaking at once.
+
+When sleeping subjects are moved outside its detection radius, AFD-SU-011 often
+circles the nearest wall for several minutes and then returns to calm movement.
+This suggests confusion rather than frustration.
+
+Containment staff should remember two facts at the same time:
+
+   1. THEMESY is gentle.
+   2. Gentle does not mean safe to ignore.
+
+RECOMMENDATION:
+Maintain strict sleep-radius control. Do not allow staff to nap near containment
+because they believe the entity is "nice." Its kindness is not procedure.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+Observation Cycle 011-C supports the current classification of AFD-SU-011 as a
+low-threat but operationally significant oneiric-feeding subject. The entity's
+behavior is soft, careful, and non-hostile, especially during nightmare exposure,
+but its feeding still produces prolonged slumber and dream removal.
+
+Future additions to this dossier should include:
+   - long-term post-nightmare outcome reviews
+   - changes in mane coloration by dream type
+   - feeding refusal events
+   - response to artificial dream simulation
+   - consent-recognition training trials, if approved
+   - sleep-radius breach events
+
+CURRENT DOSSIER STATUS: Open / Observation Cycle Archived
+
+END OF DOSSIER

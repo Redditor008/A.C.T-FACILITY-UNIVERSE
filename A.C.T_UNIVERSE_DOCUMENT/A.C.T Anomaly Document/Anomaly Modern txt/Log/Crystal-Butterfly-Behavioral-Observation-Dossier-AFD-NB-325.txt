@@ -1,0 +1,113 @@
+A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
+Crystal-Butterfly-Behavioral-Observation-Dossier-AFD-NB-325
+
+═══════════════════════════════════════════════════════════════════════
+             A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-NB-325
+TITLE I:             Crystal Butterfly
+PRIMARY FILE:        Crystal-Butterfly-AFD-NB-325
+
+DOCUMENT CATEGORY:   CATEGORY VIII — Behavioral & Observation Dossier
+CATEGORY FUNCTION:   Hive construction analysis, seasonal aggression 
+                     mapping, and honey-obsidian secretion logs.
+
+CLEARANCE REQUIRED:  Level 3 / Verde Null Bio-Reserve
+
+CONTAINMENT SITE:    ACT-SITE-04-BR-C — Verde Null Bio-Reserve
+ARCHIVE STATUS:      Active / Routine Monitoring
+DOSSIER STATUS:      Open / Colonial Data Compiled
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier contains the findings from a six-month behavioral audit of 
+AFD-NB-325. It details the transition between the "Breeding" and 
+"Gathering" seasons and the colony's response to different 
+mineral-nutrition inputs.
+
+INCLUDED LOG TYPES:
+   - Hive Architecture Review (The Obsidian Layering)
+   - Seasonal Aggression Study: The 3m vs 5m Threshold
+   - Feeding Incident: The Diamond Over-Excitement
+   - The Honey Obsidian Harvest Trial
+   - Dossier Closing Statement
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 001 — HIVE ARCHITECTURE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-NB-325/OBS-01
+DATE:                2024-01-15
+LEAD ENTOMOLOGIST:   Dr. Mateus Carvalho
+
+The construction of the hive is a continuous biological effort. The 
+Queen directs the twenty-five workers via high-frequency wing-
+vibrations. 
+
+OBSERVATION:
+The workers were observed carrying small shards of raw granite to the 
+summit of the hive. Upon reaching the apex, the worker butterfly 
+regurgitates a small amount of "Honey Obsidian." This adhesive sets 
+within 30 seconds, fusing the granite to the metal skeleton. This 
+process creates a shell that is functionally immune to standard 
+drilling tools.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 002 — SEASONAL AGGRESSION
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-NB-325/OBS-02
+RANGE:               Month 1 → Month 6 (Breeding Season)
+
+During the breeding cycle, the colony develops a "Swarm-Mind" 
+defensive posture. 
+
+DATA:
+- Intrusion detected at 4.8 meters. 
+- RESULT: The entire swarm (26 units) exited the hive and performed a 
+  "Chromatic Flash" maneuver, attempting to blind the intruder. 
+- SECONDARY ACTION: Workers began to shed "Crystal Dust" at an 
+  accelerated rate, creating a toxic 2m cloud around the hive. 
+
+ADVISORY:
+All non-essential personnel are prohibited from the chamber until the 
+start of the Gathering Season in Month 7.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 003 — THE DIAMOND INCIDENT
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-NB-325/FED-01
+DATE:                2024-08-20
+
+Purpose: To test the impact of high-carat carbon input on worker 
+performance.
+
+EVENT:
+A single 2-carat industrial diamond was included in the feeding chute. 
+The Queen immediately descended and claimed the diamond. For the 
+following 48 hours, the Queen emitted a light of such intensity that it 
+burned out the suite’s low-resolution thermal cameras. 
+
+RESULT:
+The following week, the "Honey Obsidian" produced by the colony 
+contained diamond-like micro-shards, increasing the hive’s hardness rating 
+by 40%. Feeding of diamonds is now restricted to "Structural 
+Emergency" protocols only.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+MANDATORY PERSONNEL NOTICE:
+                     The swarm is a machine made of jewels. 
+                     Do not reach for the honey. 
+                     It is not for you.
+
+CURRENT DOSSIER STATUS: Open / Ongoing Mineral Review
+
+END OF DOSSIER

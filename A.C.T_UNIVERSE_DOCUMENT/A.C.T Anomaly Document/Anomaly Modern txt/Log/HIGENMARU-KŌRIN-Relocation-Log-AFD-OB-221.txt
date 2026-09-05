@@ -1,0 +1,133 @@
+A.C.T FACILITY — COMMUNICATION & INTERNAL CORRESPONDENCE DOSSIER
+HIGENMARU-KŌRIN-Relocation-Strategic-Dossier-AFD-OB-221
+
+═══════════════════════════════════════════════════════════════════════
+        A.C.T FACILITY — COMMUNICATION & INTERNAL CORRESPONDENCE
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-221
+TITLE I:             HIGENMARU-KŌRIN
+PRIMARY FILE:        HIGENMARU-KŌRIN-AFD-OB-221
+
+DOCUMENT CATEGORY:   CATEGORY X — Communication & Internal Correspondence
+CATEGORY FUNCTION:   Documentation of strategic relocation to the Kazumi 
+                     Temple; Justification for sovereign-tier 
+                     stabilization.
+
+CLEARANCE REQUIRED:  Level 4 / O5-Restricted
+
+CONTAINMENT SITE:    Site-Sub-[REDACTED]-C-Temple (Kazumi Temple)
+ARCHIVE STATUS:      Active / Relocated
+DOSSIER STATUS:      Open / Strategic Alignment Verified
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier provides the institutional reasoning for the removal of 
+AFD-OB-221 from standard artifact vaulting at Site-01 and its 
+integration into the personal residence of Subject KAZUMI.
+
+INCLUDED LOG TYPES:
+   - Memorandum: The Site-01 Resonance Leak
+   - Relocation Order: The "Temple" Alternative
+   - Placement Protocol: The Katana Stand Anchor
+   - Senior Researcher Aris Thorne: Final Authorization Note
+
+═══════════════════════════════════════════════════════════════════════
+                    SECTION 001 — THE RESONANCE LEAK
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-221/COR-01
+DATE:                2025-02-14
+AUTHOR:              Security Director Graham West
+
+Following the 2024 audits, the **HIGENMARU** blade demonstrated an 
+aggressive escalation in its "Biological Siphoning" routine. Despite 
+being housed in a triple-locked magnetic vault at Site-01, the 
+artifact began to "reach" through the **Abyssal Masonry (Item 20)**. 
+
+Three junior technicians working in the adjacent corridor suffered 
+unexplained "Stamina Spikes" followed by severe lethargy. I requested 
+an immediate resonance scan. The blade isn't just hungry; it is 
+searching for a pulse it recognizes. Storing it in a room full of 
+standard humans is like keeping a wolf in a nursery.
+
+═══════════════════════════════════════════════════════════════════════
+                SECTION 002 — THE "TEMPLE" ALTERNATIVE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-221/REL-01
+DATE:                2025-03-02
+AUTHOR:              O5-1
+
+Finding:
+Standard mechanical containment (RSAs and Magnetic Locks) is 
+insufficient for the long-term stabilization of HIGENMARU-KŌRIN. The 
+weapon requires a "Manners-Based" environment (Reference: SR-Thorne 
+Memorandum 2026).
+
+Directive:
+AFD-OB-221 is to be relocated to the **Kazumi Temple** sub-site. 
+The high-intensity reality-deviant signature of **KAZUMI** provides a 
+natural "Suppression Field" that harmonizes with the blade’s 
+predatory frequency. 
+
+KAZUMI has agreed to act as the "Living Anchor" for the blade, provided 
+the Facility respects the boundaries of her threshold.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 003 — THE PLACEMENT PROTOCOL
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-221/PLC-01
+LOCATION:            Kazumi Temple / Central Inner Sanctum
+
+PROTOCOL:
+The **HIGENMARU-KŌRIN** is to be placed on a traditional black-lacquer 
+katana stand, situated exactly 1.2 meters behind KAZUMI’s primary 
+seating area. 
+
+REASONING:
+1. **Deterrence:** The proximity of KAZUMI’s presence forces the 
+   *-maru* routine into a state of "Passive Respect." The blade 
+   recognizes her as an apex peer and ceases its outward siphoning.
+2. **Safety:** Placing the blade behind her ensures that any 
+   "Unauthored" manifestation or attempt by a third party to draw 
+   the sword is immediately suppressed by her field. 
+3. **Manners:** This arrangement fulfills the subject’s requirement 
+   for "Dignity." The sword is no longer "Paperwork" in a box; it is 
+   a "Sovereign Asset" in a place of honor.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 004 — ARCHIVIST'S FINAL NOTE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-221/THORNE-FIN
+AUTHOR:              Aris Thorne (SR-412)
+
+"I oversaw the transfer. The moment the blade entered the Temple, the 
+hissing from the scabbard stopped. 
+
+KAZUMI didn't touch it. She just looked at it once and pointed to the 
+stand. The 'Pulse' stabilized within seconds. We are no longer fighting 
+the blade; we are letting a higher-order silence manage it for us. 
+
+This is the 'Neutral Good' path in practice. We have moved a lethal 
+hazard from a place where it was an 'Enemy' to a place where it is 
+merely a 'Guest.' Maintain the silence. Do not send anyone to that 
+Temple who doesn't know how to bow."
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+MANDATORY PERSONNEL NOTICE:
+                     Access to the Kazumi Temple is restricted. 
+                     The blade is at rest. 
+                     Do not disturb the anchor.
+
+CURRENT DOSSIER STATUS: Open / Relocation Success Confirmed
+
+END OF DOSSIER

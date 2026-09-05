@@ -1,0 +1,173 @@
+A.C.T FACILITY — INTERVIEW & TESTIMONY DOSSIER
+Vivienne-Argent-Interview-Testimony-Dossier-AFD-SU-827
+
+═══════════════════════════════════════════════════════════════════════
+             A.C.T FACILITY — INTERVIEW & TESTIMONY DOSSIER
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-827
+TITLE I:             Vivienne Argent
+TITLE II:            THE ANACONDA’S HEIR / THE TRANSFORMED RECLUSE
+
+FIELD TYPE:          SU — Subject
+PRIMARY FILE:        Vivienne-Argent-AFD-SU-827
+
+DOCUMENT CATEGORY:   CATEGORY II — Interview & Testimony Dossier
+CATEGORY FUNCTION:   First-contact testimony, transformation-trauma 
+                     analysis, and physiological-behavioral discovery.
+
+CLEARANCE REQUIRED:  Level 3
+
+CONTAINMENT SITE:    ACT-SITE-04-BR-C — Verde Null Bio-Reserve
+ARCHIVE STATUS:      Active / Subject-care restricted
+DOSSIER STATUS:      Open / Interview records archived
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier documents the initial interviews with AFD-SU-827 following 
+her recovery. While the subject is confirmed to be an introvert, she is 
+cooperative and non-hostile, providing detailed accounts of her 
+experience and specific physiological changes.
+
+INCLUDED LOG TYPES:
+   - Interview Transcript: The First Inquiry
+   - Behavioral Discovery: Thermal-Responsive Somnolence
+   - Anatomical Note: The Trifecta Taste-Buds
+   - Subject Questions and Metadata
+   - Dossier Closing Statement
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 001 — INTERVIEW TRANSCRIPT
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-827/INT-001
+LOG TYPE:            Post-Recovery Interview
+DATE:                2023-09-18
+LOCATION:            ACT-SITE-04-BR-C / Bio-Subject Suite 4
+INTERVIEWER:         Dr. Camila Rocha, Subject Care Division
+SUBJECT:             AFD-SU-827 (Vivienne Argent)
+
+[CONTEXT: The interview was conducted through a one-way observation 
+pane at the subject’s request. Vivienne is coiled on a heated floor-pad, 
+flicking her tongue intermittently.]
+
+[BEGIN TRANSCRIPT]
+
+DR. ROCHA:           "Good afternoon, Vivienne. How are you adjusting 
+                      to the climate here?"
+
+AFD-SU-827:          "It's... it's okay. The humidity is nice. It makes 
+                      the scales feel less tight. I’m sorry I don’t 
+                      come to the door often. I just... I’m still not 
+                      used to how much space I take up now."
+
+DR. ROCHA:           "That’s perfectly understandable. We’ve noticed 
+                      that you’ve been very cooperative with our 
+                      non-invasive scans. You're helping us understand 
+                      what happened."
+
+AFD-SU-827:          "That’s just it. I don’t understand it either. One 
+                      night I was just a regular girl in Seattle, and 
+                      the next... I’m a snake girl. Like in those 
+                      animes I used to watch. Why me? I didn't touch 
+                      anything weird. I don't have some secret 
+                      bloodline."
+
+DR. ROCHA:           "We are still investigating the 'Why.' But can you 
+                      tell me about that first morning?"
+
+AFD-SU-827:          "It was so strange. I woke up because I felt 
+                      heavy. I went to roll over and my legs wouldn't 
+                      move, but I felt this... this long muscle behind 
+                      me. I looked down and my bed was full of 
+                      scales. But Dr. Rocha, there’s something that 
+                      really bothers me."
+
+DR. ROCHA:           "Go on."
+
+AFD-SU-827:          "I was wearing my favorite pajama pants. They’re 
+                      gone. But I didn't feel them rip. I didn't hear 
+                      the fabric tearing. I didn't even wake up while 
+                      my legs were... changing. How can a human body 
+                      just rewrite itself so quietly that the person 
+                      inside doesn't even feel their clothes breaking?"
+
+DR. ROCHA:           "It suggests a high-level molecular restructuring, 
+                      Vivienne. One that might have numbed your 
+                      senses during the process."
+
+AFD-SU-827:          "And my mouth... the air tastes different. Not 
+                      just the smell, but the flavor of it. It's like 
+                      there's three new types of things I can taste 
+                      now that I don't have words for."
+
+[END TRANSCRIPT]
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 002 — PHYSIOLOGICAL FINDINGS
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-827/PHY-001
+LOG TYPE:            Anatomical & Behavioral Summary
+REVIEWING UNIT:      Herpetology Review / Subject Care Division
+
+SUMMARY OF RECENT FINDINGS:
+
+1. THE TRIFECTA TASTE-BUDS:
+   Detailed biopsy of the subject's bifurcated tongue reveals three 
+   previously uncatalogued types of sensory buds. These allow 
+   AFD-SU-827 to "taste" magnetic flux, atmospheric moisture density, 
+   and the [ REDACTED ] signature of nearby living beings. This 
+   surpasses all known biological standards for both humans and 
+   anacondas.
+
+2. THERMAL-RESPONSIVE SOMNOLENCE:
+   The subject demonstrates an extreme ectothermic response to cold. 
+   When the ambient temperature drops below 18°C, Vivienne enters a 
+   state of "Deep Sleep" within 3 minutes. This somnolence is not 
+   medically harmful but serves as a primary non-hostile containment 
+   tool.
+
+3. REPTILIAN INSTINCT VS. HUMAN LOGIC:
+   The subject remains 100% cognitively human, but her body reacts 
+   instinctively to movement and heat. She has expressed frustration 
+   that she "sometimes wants to coil around things" without knowing 
+   why.
+
+═══════════════════════════════════════════════════════════════════════
+                    SECTION 003 — SUBJECT-CARE NOTE
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-827/HND-001
+AUTHOR:              Dr. Camila Rocha
+DATE:                2023-09-20
+
+CARE ADVISORY:
+Vivienne is an introvert, not a prisoner. She is currently obsessed with 
+the "Anime" comparison because it is the only framework she has for 
+her condition. We should provide her with a tablet (non-networked) 
+containing her preferred media to maintain her mental health.
+
+Regarding her concern about her "pajama pants," she is right to be 
+disturbed. Our analysis of the recovery site found no fabric scraps. 
+It appears the transformation didn't rip the clothes; it may have 
+[STRUCTURAL DATA OMITTED] the matter into her new form.
+
+Training Phrase for Site-04 Staff:
+                     "She tastes the air and fears the cold. 
+                      Treat her as a guest, not a specimen."
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-827 is a stable, non-hostile subject. Future research will focus 
+on her new sensory buds and the "Quiet Transformation" phenomenon 
+that allowed for total biological rewrite without physical resistance.
+
+CURRENT DOSSIER STATUS: Open / Ongoing Observation
+
+END OF DOSSIER

@@ -1,0 +1,185 @@
+# A.C.T FACILITY ARCHIVE FILE
+## Global Site Registry
+
+**Archive Status:** Active  
+**Distribution:** Internal / Command / Archive / Recovery / Intelligence  
+**Authority:** Central Archive / Site Governance Review / Administration  
+
+---
+
+## Purpose
+This file serves as a consolidated registry of major recognized A.C.T **SITE** and **SUB-SITE** installations currently preserved in primary archive reference. It is not an exhaustive list of every relay, blacksite, temporary enclosure, or hidden support point maintained by the Facility, but it records the most relevant known installation bodies for internal strategic awareness.
+
+This registry follows the naming standards established under **ACT-SITE-XX-##-#** and **ACT-SUB-XX-##-#** doctrine.
+
+---
+
+# Section I — Major SITE Installations
+
+## 1. ACT-SITE-01-US-W
+**Codename:** Redwood Veil Complex  
+**Site Type:** Regional Site  
+**Location:** Western United States  
+**Command Authority:** Site Director under Facility Administrator review  
+**Primary Function:** Urban anomaly recovery, artifact containment, rapid secrecy response, and GOI suppression  
+**Divisions Present:** Security, Recovery, Containment, Intelligence, Archive, Medical  
+**Containment Profile:** Object-Focused / Mixed Mobility / Urban Recovery  
+**Regional Jurisdiction:** Western United States anomaly incidents and Pacific-linked covert routing  
+**Notable Features:** High-speed urban concealment response network; strong black-market interdiction capability; heavy GOI surveillance overlap  
+**Current Status:** Active  
+**History Notes:** Expanded from a smaller relay network into a full regional command site after sustained urban anomaly density increase.  
+**Security Notes:** Maintains multiple false civilian infrastructure overlays and layered city-entry cover identities.  
+
+---
+
+## 2. ACT-SITE-02-RU-N
+**Codename:** White Grave Station  
+**Site Type:** Regional Site  
+**Location:** Northern Russia  
+**Command Authority:** Site Director under restricted cold-zone review authority  
+**Primary Function:** Deep cold-environment containment, biological suppression, and long-term isolation of unstable anomalies  
+**Divisions Present:** Security, Containment, Medical, Research, Limited Military Presence  
+**Containment Profile:** Biological / Cryogenic / Entropic / Deep Isolation  
+**Regional Jurisdiction:** Arctic and northern Eurasian anomaly events, deep freeze transfer corridors, remote black containment support  
+**Notable Features:** Extreme environmental isolation; highly secure low-population concealment value; capable of housing anomalies requiring climate suppression  
+**Current Status:** Active  
+**History Notes:** Built around the need to store anomalies too unstable or too logistically inconvenient to keep near population centers.  
+**Security Notes:** Access during deep winter periods is heavily restricted; some transport windows are seasonal and weather-conditional.  
+
+---
+
+## 3. ACT-SITE-03-JP-E
+**Codename:** Kurokawa Archive Node  
+**Site Type:** Regional Site  
+**Location:** Eastern Japan  
+**Command Authority:** Site Director with Archive and Intelligence dual review  
+**Primary Function:** Memetic and informational anomaly handling, archive-redaction testing, and urban data anomaly response  
+**Divisions Present:** Archiver Division, Intelligence Division, Researcher Division, Medical Cognitive Support, Security  
+**Containment Profile:** Memetic / Infohazard / Archive-Sensitive / Signal-Borne  
+**Regional Jurisdiction:** Eastern Japanese anomaly events, urban infohazard spread corridors, media-adjacent suppression zones  
+**Notable Features:** Strong archive-intelligence integration; advanced document containment procedures; media-density operational relevance  
+**Current Status:** Active  
+**History Notes:** Expanded from a specialized records-monitoring site into a major East-region anomaly interpretation hub.  
+**Security Notes:** Any uncontrolled digital leak is treated as a priority containment breach.  
+
+---
+
+## 4. ACT-SITE-04-BR-C
+**Codename:** Verde Null Bio-Reserve  
+**Site Type:** Regional Site  
+**Location:** Central Brazil  
+**Command Authority:** Site Director under biological containment review  
+**Primary Function:** Remote containment of non-natural biological anomalies and wilderness-bound anomaly observation  
+**Divisions Present:** Research, Transformation, Recovery, Medical, Security, Environmental Containment  
+**Containment Profile:** Biological / Forest-Bound / Place-Anomaly / Field Enclosure  
+**Regional Jurisdiction:** Central South American biological anomalies, wild-zone containment, remote cultivation programs  
+**Notable Features:** High adaptability for non-movable anomaly enclosures; extensive concealed perimeter structures  
+**Current Status:** Active  
+**History Notes:** Developed from remote field enclosures into a permanent reserve-style site due to recurring non-natural flora and fauna cases.  
+**Security Notes:** Some anomalies are managed in-place under perimeter doctrine rather than transported to interior vaults.  
+
+---
+
+## 5. ACT-SITE-05-ID-C
+**Codename:** Nusantara Deep Relay  
+**Site Type:** Regional Site  
+**Location:** Central Indonesia  
+**Command Authority:** Site Director with seismic and maritime anomaly oversight  
+**Primary Function:** Island anomaly monitoring, sea-bound recovery, volcanic and tectonic anomaly response, and abyss-linked seismic observation  
+**Divisions Present:** Recovery, Containment, Medical, Research, Security, Seismic Analysis Support  
+**Containment Profile:** Maritime / Seismic / Place-Anomaly / Deep-Earth Observation  
+**Regional Jurisdiction:** Indonesian archipelago anomaly events, undersea disturbances, volcanic anomaly signatures, tectonic irregularity zones  
+**Notable Features:** High-value for anomalies linked to sea routes, fault pressure, or deep-earth movement patterns  
+**Current Status:** Active  
+**History Notes:** Elevated to major site status after repeated irregularity clusters tied to undersea and island instability reports.  
+**Security Notes:** Some deep-earth records routed through this site remain partially sealed under abyss-related review standards.  
+
+---
+
+# Section II — Recognized SUB-SITE Installations
+
+## 6. ACT-SUB-01-US-W
+**Codename:** Glass Orchard Relay  
+**Site Type:** Sub-Site  
+**Location:** Western United States  
+**Command Authority:** Reports to ACT-SITE-01-US-W  
+**Primary Function:** Temporary holding, archive relay, witness processing, and overflow intake  
+**Divisions Present:** Limited Archive, Security, Medical, Recovery Support  
+**Containment Profile:** Low-Threat Intake / Short-Term Object Storage / Witness Sanitation  
+**Regional Jurisdiction:** Overflow support for Site 01 regional operations  
+**Notable Features:** Cover identity as agricultural biotech station; optimized for low-visibility processing  
+**Current Status:** Active  
+**History Notes:** Originally established as a covert witness routing point before being upgraded into sub-site classification.  
+**Security Notes:** Strictly denied long-term holding authority for high-threat anomalies.  
+
+---
+
+## 7. ACT-SUB-02-RU-N
+**Codename:** Frost Hollow Depot  
+**Site Type:** Sub-Site  
+**Location:** Northern Russia  
+**Command Authority:** Reports to ACT-SITE-02-RU-N  
+**Primary Function:** Interim cold storage and quarantine staging  
+**Divisions Present:** Security, Medical Quarantine Staff, Limited Containment Support  
+**Containment Profile:** Cryogenic Overflow / Quarantine / Temporary Biological Suppression  
+**Regional Jurisdiction:** Transfer support for White Grave Station and surrounding arctic recovery corridors  
+**Notable Features:** Designed for rapid frozen relocation and silent disappearance of hazardous organic material  
+**Current Status:** Active  
+**History Notes:** Built to reduce over-concentration pressure on White Grave Station during seasonal biological incidents.  
+**Security Notes:** Personnel rotation is tightly controlled due to long-duration cold exposure and isolation stress.  
+
+---
+
+## 8. ACT-SUB-03-JP-E
+**Codename:** Silent Reed Annex  
+**Site Type:** Sub-Site  
+**Location:** Eastern Japan  
+**Command Authority:** Reports to ACT-SITE-03-JP-E  
+**Primary Function:** Minor memetic quarantine, controlled infohazard review, and temporary redaction buffering  
+**Divisions Present:** Archive, Intelligence, Limited Medical Cognitive Staff  
+**Containment Profile:** Low-to-Mid Memetic / Infohazard Buffer / Document Quarantine  
+**Regional Jurisdiction:** Overflow support for Kurokawa Archive Node  
+**Notable Features:** Built for cases too dangerous for ordinary records but too minor for full black archive burial  
+**Current Status:** Active  
+**History Notes:** Created after repeated archive spillover events stressed the main East-region records body.  
+**Security Notes:** No solo review shifts authorized during active memetic contamination cycles.  
+
+---
+
+## 9. ACT-SUB-04-BR-C
+**Codename:** Hollow Canopy Enclosure  
+**Site Type:** Sub-Site  
+**Location:** Central Brazil  
+**Command Authority:** Reports to ACT-SITE-04-BR-C  
+**Primary Function:** In-place observation and enclosure of non-movable flora anomalies  
+**Divisions Present:** Environmental Containment, Research Support, Limited Security  
+**Containment Profile:** Fixed Biological / Flora / Remote Monitoring Field  
+**Regional Jurisdiction:** Specific reserve sectors under Verde Null Bio-Reserve control  
+**Notable Features:** Exists as a concealed perimeter rather than a conventional building-dominant installation  
+**Current Status:** Active  
+**History Notes:** Recognized as a sub-site after repeated failed relocation attempts proved certain flora anomalies safer in native containment fields.  
+**Security Notes:** Transport denial is built into containment doctrine for several housed anomalies.  
+
+---
+
+## 10. ACT-SUB-05-ID-C
+**Codename:** Ash Tide Watchpoint  
+**Site Type:** Sub-Site  
+**Location:** Central Indonesia  
+**Command Authority:** Reports to ACT-SITE-05-ID-C  
+**Primary Function:** Coastal anomaly watch, sea-entry relay, and volcanic-event observation support  
+**Divisions Present:** Recovery Support, Security, Seismic Monitoring, Limited Medical Staff  
+**Containment Profile:** Maritime Relay / Volcanic Watch / Coastal Intake  
+**Regional Jurisdiction:** Selected island and near-shore anomaly corridors under Nusantara Deep Relay authority  
+**Notable Features:** Combines maritime observation with hidden emergency intake capability  
+**Current Status:** Active  
+**History Notes:** Elevated from a relay watchpoint after repeated coastal anomaly appearances required permanent staffing.  
+**Security Notes:** Capable of emergency lockdown and silent withdrawal during large-scale tectonic shifts.  
+
+---
+
+## Closing Registry Note
+The A.C.T network does not function through one monolithic body alone. It survives through layered installations—major SITES, supporting SUB-SITES, relays, and sealed locations—distributed according to secrecy value, containment need, recovery pressure, geography, and anomaly profile.
+
+A site is not merely where the Facility exists.
+A site is where the impossible has been given an address, a doctrine, and a chain of command.

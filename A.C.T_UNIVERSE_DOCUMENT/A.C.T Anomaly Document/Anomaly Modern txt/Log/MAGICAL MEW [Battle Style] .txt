@@ -1,0 +1,559 @@
+[00:02][Energetic & Upbeat][Background Chanting] [ドキドキ！あなたが好き好き]
+[00:04][Frantic & Chaotic][Background Chanting] [ビクビク！ミューミューちゃんは混乱！]
+[00:00 - 00:05][Dialog][Ahuhuhu... alright, dearies! This is gonna be a long battle, so why don't you have an appetizer, first!?]{SHU SHU}
+[00:06][Intense & Passionate] [Lovey-dovey! Make your heart stop!]
+[00:09][Explosively Joyful] [It’s Mew Mew Kissy Cutie Love!]
+
+[00:11][Playful & Mischievous] [Always in the mood for a chase]{MIMI}
+[00:13][Confident & Bold] [She’s got audacity and grace]{MIMI}
+[00:14][Comedic & Sassy] [There’s not a thing that can stand in her way, except your face!][BOTH]
+[00:17][Defensive & Tsundere] [Not like I like you okay?!]{SHU SHU}
+[00:19][Stubborn Denial] [And I’m not a tsundere]{SHU SHU}
+[00:21][Flustered Interruption] [^_*][Cuz if I was, would I hold you and say– Wait a second!]{MIMI}[End SHU SHU]
+
+[00:24][Heroic & Dramatic] [Who can save us all from doom?]{SHU SHU}
+[00:25][Boastful & Cute] [The cutest in the room?]{MIMI}
+[00:26][Awkward Realization] [It’s Mew-Mew but I think she might’ve spoke too soon][BOTH]
+
+[00:29][Anxious & Pacing] [I don’t know what to do]{SHU SHU}
+[00:31][Accusatory yet Fond] [It’s all because of you]{MIMI}
+[00:34][Internally Conflicted] [That suddenly my mind is split in two][BOTH]
+
+[00:36][Annoyed & Pouty] [Your tactics are the worst]{SHU SHU}
+[00:38][Embarrassed Affection] [You’re gonna make me purr]{MIMI}
+[00:40][Overwhelmed Climax] [Stop flirting with my body or my heart is gonna burst!][start SHU SHU middle BOTH]
+
+[00:43][Anthem-like Hype] [She’s a MEW MEW GIRL, and shе’s lighting the way!][BOTH]
+[00:46][Fierce & Magical] [With her PRETTY REVOLUTION, she’ll sеnd evil to the grave（ドキドキ）][BOTH]
+[00:48][Upbeat & Rhythmic] [The rhythm that you dance to　（うううーはい！）][BOTH]
+[00:51][Darkly Bouncy] [The darkness that consumes you（うううーはい！）][BOTH]
+[00:53][Triumphant Cheer] [She’s saving the day! Mew-mew’s got it, okay?　[MEW MEW!]][BOTH]
+[00:55][Excited & Bubbly] [She’s a MEW MEW GIRL who is ready to play!][BOTH]
+[00:58][Aggressively Cute] [With her CUTIE REVOLUTION, she’ll make every bully pay! （ドキドキ）][BOTH]
+[01:02][Unhinged & Cheerful] [In never-ending slaughter （うううーはい！）][BOTH]
+[01:04][Darkly Peppy] [Or drowning underwater （うううーはい！）][BOTH]
+[01:07][Reassuring] [She’s saving the day! Mew-mew’s got it, okay? (はい！）][BOTH]
+[01:09][Determined] [She’s saving the day! And she’s planning to stay （はい！）][BOTH]
+[01:12][Derpy & Comedic] [She’s saving the day! I fur-got what to say]{MIMI}
+[01:14][Explosive Transformation] [CUTIE MEW MEW MAGIC METAMEOWPHOSIS TRANSFORM!][BOTH]
+[01:15][Energetic Return] [ドキドキ！あなたが好き好き]
+[01:16][Chaotic & Fun] [ビクビク！ミューミューちゃんは2 IN 1！]
+
+[01:17][Playful] [Always in the mood for a chase]{SHU SHU}
+[01:19][Ambitious Sci-Fi] [She’s gonna blast through outer space]{MIMI}
+[01:21][Threatening Yandere] [She’s gonna wipe out the whole human race if you don’t-]{SHU SHU}
+[01:23][Shocked Interruption] [Hey!]{MIMI}
+[01:24][Scolding & Pouty] [Take that back, that’s not nice!]{MIMI}
+[01:26][Dramatic] [You’re incinerating our pride!]{SHU SHU}
+[01:28][Loyal & Sweet] [Meow and forever I’ll be by your side!]{MIMI}
+[01:30][Exasperated Cut-off] [I swear to-]{SHU SHU}
+
+[01:31][Genuinely Affectionate] [Cute, I think you’re super cute!]{MIMI}
+[01:32][Embarrassed Panic] [Does this thing have a mute!?]{SHU SHU}
+[01:34][Optimistic & Punny] [You’re purrfect, and I’m pawsitive that we’ll push through!]{MIMI}
+
+[01:36][Sincere & Soft] [My love for you is true]{MIMI}
+[01:37][Vulnerable] [What am I meant to do?]{SHU SHU}
+[01:40][Deeply Romantic] [I want to spend my nine lives here with you]{SHU SHU}
+
+[01:42][Peaceful & Serene] [You make me feel so calm…]{MIMI}
+[01:44][Sudden Violent Aggression] [I’LL MAKE YOU EAT MY BOMBS]{SHU SHU}
+[01:47][Demanding & Frustrated] [Just tell us something vague or else we’ll never get along!][BOTH]
+
+[01:52][Dreamy & Sweeping] [Sweet as honey, one of two, you’re who I’m dreaming of]{SHU SHU}
+[01:56][Euphoric & Swooning] [When I hear our voice ring out I’m swooning, swooning, is this love?!]{MIMI}
+[02:02][Introspective & Melancholic] [Could it be that you can see the parts of me that I make disappear?][BOTH]
+[02:07][Quiet Realization] [Now it’s clear][BOTH]
+[02:09][Purposeful & Cute] [Why I’m here to save mew~][BOTH but at the end MIMI]
+[02:14][Furious Rejection] [Not you!!!!!]{SHU SHU}
+
+[02:16][Aggressive Hype] [She’s a MEW MEW GIRL, SO GET OUTTA THE WAY!!!][BOTH]
+[02:19][Fierce & Magical] [With her PRETTY REVOLUTION, she’ll send evil to the grave （ドキドキ）][BOTH]
+[02:22][Upbeat & Rhythmic] [The rhythm that you dance to　（うううーはい！）][BOTH]
+[02:25][Darkly Bouncy] [The darkness that consumes you（うううーはい！）][BOTH]
+[02:27][Triumphant Cheer] [She’s saving the day! Mew-mew’s got it, okay?　(MEW MEW!)][BOTH]
+[02:30][Excited & Bubbly] [She’s a MEW MEW GIRL who is ready to play!][BOTH]
+[02:32][Aggressively Cute] [With her CUTIE REVOLUTION, she’ll make every bully pay! （ドキドキ）][BOTH]
+[02:35][Unhinged & Cheerful] [In never-ending slaughter （うううーはい！）][BOTH]
+[02:37][Darkly Peppy] [Or drowning underwater （うううーはい！）][BOTH]
+[02:38][Reassuring] [She’s saving the day! Mew-mew’s got it, okay? (はい！）][BOTH]
+[02:40][Determined] [She’s saving the day! And she’s planning to stay （はい！）][BOTH]
+[02:42][Crowd-Rousing] [She’s saving the day! Let’s hear EVERYONE say!][BOTH]
+[02:45][Explosive Finale] [CUTIE MEW MEW MAGIC METAMEOWPHOSIS TRANSFORM!][BOTH]
+
+[02:48][Energetic Outro] [ドキドキ！あなたが好き好き(My heart thum-i'm in love with you!!)]{MIMI}
+[02:50][Frantic & Chaotic] [ビクビク！ミューミューちゃんは混乱！(i'm nervous,,-mew mew-chan is confused)]{SHU SHU}
+[02:52][Intense & Passionate] [Lovey-dovey! Make your heart stop!]
+[02:54][Explosively Joyful] [It’s Mew Mew Kissy Cutie Love!]
+
+[02:57][Fading Heartbeat End] [ドキドキ！(My hurt is thumping,,)]
+
+
+
+_____________________________________________________________________________________________________________________________________
+
+NOTED :
+
+MAGICAL MEW — Battle Style
+
+General Combat Style
+
+MEW Stars fights using a chaotic magical-girl battle style based around bombs, healing hearts, beam attacks, and rhythm-based movement. Her attacks often look cute, fake, or cartoonish, but they are still dangerous.
+
+During battle, MAGICAL MEW!! can begin playing as a background soundtrack after the opening dialogue. The music does not need a visible source. MEW Stars fights while the track plays, and Mimi or Shu Shu may sing along when they are able.
+
+When either persona sings along, their attacks may become stronger, more coordinated, or more emotionally charged.
+
+Battle Audio Behavior
+
+After the first battle dialogue, MAGICAL MEW!! becomes the background battle track.
+
+MEW Stars does not need to sing every lyric. The song can play while she fights. However, Mimi and Shu Shu may sing along to certain parts when they have enough focus, space, or emotional momentum.
+
+- If Mimi sings along, healing and heart-based effects become stronger.
+- If Shu Shu sings along, bomb and destructive effects become stronger.
+- If both sing along, combined attacks become more powerful and unstable.
+
+Opening Battle Dialogue
+
+Speaker: Shu Shu
+
+“Ahuhuhu... alright, dearies! This is gonna be a long battle, so why don't you have an appetizer, first!?”
+
+This line usually starts the battle and may lead into an opening bomb pattern.
+
+Attack List
+
+1. Rapid Bombaa..
+
+Type: Multi-bomb volley
+Main User: Shu Shu
+Appearance: 5 to 8 small pirated fuse bombs
+Effect: Repeated explosive attacks
+
+Description:
+MEW Stars releases 5 to 8 small bombs in succession. The bombs resemble cheap pirated cartoon fuse bombs with visible fuses. They may fly forward, bounce, roll, arc through the air, or scatter depending on how stable MEW Stars’ control is at the moment.
+
+This attack is often used to pressure the opponent, start a battle, or fill space with multiple small explosions.
+
+If Mimi and Shu Shu fight over control during the attack, some bombs may be thrown off-course or bounce back toward MEW Stars.
+
+2. Heart Burst
+
+Type: Healing projectile
+Main User: Mimi
+Appearance: 3-meter-wide flat pink 2D heart
+Effect: Healing and soothing effect
+
+Description:
+MEW Stars fires a large 3-meter pink 2D heart made of magical energy. Unlike her bomb attacks, Heart Burst is mainly a healing move.
+
+It can restore injuries, calm emotional distress, soothe panic, and create a warm “doki-doki” feeling. It is usually connected to Mimi’s gentler and more heroic side.
+
+Heart Burst is not normally destructive, but it can still affect emotions strongly.
+
+3. BURST SHAAAAW
+
+Type: Spiral beam laser
+Main User: Mimi and Shu Shu together
+Appearance: Pink and gray spiral beam
+Effect: Combined beam attack
+
+Description:
+MEW Stars fires a beam laser with pink and gray spiral coloring. The attack combines Mimi’s healing/light magic with Shu Shu’s destructive spirit energy.
+
+The beam is usually fired from the Star-Staff. It can pierce forward in a straight line and may carry both harmful and restorative properties depending on who is influencing the attack more strongly.
+
+Because this move uses both Mimi and Shu Shu’s power, it is stronger but also less predictable.
+
+4. SHU SHU BOMB
+
+Type: Giant explosive attack
+Main User: Shu Shu
+Appearance: 8-meter pirated fuse bomb
+Effect: Massive pink-gray explosion
+
+Description:
+MEW Stars creates a gigantic 8-meter bomb resembling an oversized pirated cartoon fuse bomb. It has a visible fuse and unstable pink-gray magical coloring.
+
+This is one of Shu Shu’s strongest attacks. When it detonates, it creates a huge explosion colored with pink and gray energy.
+
+The attack is extremely powerful and dangerous, but because of its large size and blast radius, it can also backfire if used too close to MEW Stars.
+
+5. Catty Bomb
+
+Type: Cat-face bomb / directional laser explosive
+Main User: Shu Shu
+Appearance: 1-meter cat-head fuse bomb
+Effect: Explosion followed by four-direction laser burst
+
+Description:
+MEW Stars creates a 1-meter bomb shaped like a crude cat face. It has cat ears, simple black eyes, fangs, and a bent fuse on top. Its design looks like a cheap bootleg mascot bomb.
+
+When Catty Bomb detonates, it releases lasers in four directions. This makes it dangerous even if the target avoids the bomb itself, because the laser burst can still hit anything in the cross-pattern.
+
+Because of the four-direction laser pattern, Catty Bomb can accidentally hit MEW Stars if placed badly.
+
+Self-Hit Reaction
+
+Cartoon Soot State
+
+Type: Self-hit reaction
+Triggered By: Usually bomb attacks
+Appearance: Body covered in black ash, only eyes visible
+Effect: Brief stun or embarrassment
+
+Description:
+MEW Stars can be hit by her own bombs. When this happens, she usually does not take normal serious damage. Instead, she becomes covered in black cartoon ash, with only her eyes visible.
+
+If Mimi is active, her bright blue star-eyes are visible through the soot.
+If Shu Shu is active, her red star-eyes are visible through the soot.
+If both are active, one blue eye and one red eye may be visible.
+
+This state usually lasts only a short time. MEW Stars may cough smoke, freeze in embarrassment, wobble, or yell depending on who is in control.
+
+The attacks most likely to cause this are:
+
+- SHU SHU BOMB
+- Catty Bomb
+- Rapid Bombaa..
+
+Hidden Visual Signs
+
+Mimi Control
+
+When Mimi is in control of the body, a gray cat-girl spirit may sometimes be seen floating around her. This spirit represents Shu Shu’s presence while she is not controlling the body.
+
+Shu Shu Control
+
+When Shu Shu is in control of the body, the Star-Staff may sometimes shine pink or blue. This represents Mimi’s presence pushing through the staff while Shu Shu controls the body.
+
+Body-Soul Combat Dynamic
+
+MEW Stars is a body-soul composite.
+
+- Mimi is the body-primary persona.
+- Shu Shu is the soul/spirit persona.
+- The body needs the soul to move.
+- The soul needs the body to interact with the physical world.
+
+Because of this, their attacks often mix physical magical-girl effects with spirit-based destructive force.
+
+When Mimi and Shu Shu are synchronized, their attacks become stronger.
+When they fight for control, attacks may misfire, change direction, or hit MEW Stars herself.
+
+Charge Special Attacks
+
+These attacks require MEW Stars to charge before release. During the charge time, Mimi and Shu Shu must partially synchronize. If their synchronization is interrupted, the attack may misfire, weaken, or cause Cartoon Soot State.
+
+1. MEW SPECIAL <3
+
+Type: Charged multi-bomb special
+Main User: Mimi and Shu Shu together
+Charge Time: 5 to 8 seconds
+Appearance: Four 3-meter Catty Bombs
+Effect: Large multi-direction explosive laser attack
+
+Description:
+MEW Stars charges magical energy and creates four large Catty Bombs at the same time. Each Catty Bomb is approximately 3 meters in size and has the same crude cat-head fuse-bomb appearance as a normal Catty Bomb, but much larger.
+
+After the 5 to 8 second charge time, MEW Stars throws all four Catty Bombs at once. When they detonate, each bomb releases its own four-direction laser burst.
+
+Because four large Catty Bombs are used at the same time, this attack can cover a very wide area and create overlapping cross-shaped laser patterns.
+
+This attack is powerful but dangerous to use in enclosed spaces. If Mimi and Shu Shu lose coordination during the throw, one or more bombs may land too close and hit MEW Stars herself.
+
+Possible Self-Hit Result:
+If MEW Stars is caught in the overlapping laser bursts or explosions, she may enter Cartoon Soot State.
+
+
+2. MEW LIGHT BEAAAAAM
+
+Type: Charged sure-hit beam
+Main User: Mimi and Shu Shu together
+Charge Time: 10 seconds
+Appearance: Magical golden and blue beam
+Effect: Helps allies and damages enemies
+
+Description:
+MEW Stars charges for 10 seconds, gathering golden and blue magical energy into the Star-Staff. The staff glows brightly as the beam prepares to fire.
+
+After the charge finishes, MEW Stars releases MEW LIGHT BEAAAAAM, a powerful golden and blue beam attack. This beam is considered a “Sure Hit” Final Boom, meaning it is extremely difficult to avoid once fully charged and released.
+
+The beam has selective magical targeting. It helps allies while damaging enemies.
+
+Allied targets may be healed, stabilized, protected, or emotionally strengthened.
+Enemy targets are struck by the beam’s destructive magical force.
+
+Because of its selective nature, this attack requires strong synchronization between Mimi and Shu Shu. Mimi’s influence guides the supportive effect, while Shu Shu’s influence gives the beam enough force to damage enemies.
+
+Failure Risk:
+If the charge is interrupted or Mimi and Shu Shu desynchronize, the beam may fail, weaken, or fire incorrectly.
+
+
+3. MEWTASTICAL TRANSFORM
+
+Type: Charged synchronization transformation
+Main User: Mimi and Shu Shu together
+Charge Time: 5 seconds
+Appearance: Mixed outfit and physical traits from both Mimi and Shu Shu
+Effect: 3x boost and reduced clumsiness
+
+Description:
+MEW Stars charges for 5 seconds and enters a synchronized transformation state. During this transformation, the outfit and physical appearance of Mimi and Shu Shu mix together.
+
+The resulting form combines both personas instead of letting only one dominate. Pink, gray, white, blue, red, golden, star, heart, and cat-themed details may appear together depending on the level of synchronization.
+
+While MEWTASTICAL TRANSFORM is active, MEW Stars becomes much more coordinated and powerful.
+
+Effects:
+- 3x boost to overall combat ability
+- 3x boost to magical output
+- 3x boost to movement and reaction capability
+- 3x boost to attack strength and healing strength
+- Clumsiness reduced by 45%
+
+This form allows Mimi and Shu Shu to act together with far less internal interference. Attacks are less likely to misfire, movement becomes smoother, and charge attacks become easier to complete.
+
+Weakness:
+The transformation requires synchronization. If Mimi and Shu Shu begin arguing too strongly, the form may destabilize and end early.
+
+
+
+_____________________________________________________________________________________________________________________________________
+
+EXTRA NOTED :
+
+2-IN-1 Dynamic
+
+MEW Stars is a body-soul composite made from two entities sharing one existence.
+
+Mimi is the body-primary persona.
+Shu Shu is the soul/spirit persona.
+
+They are not simply two moods or two ordinary personalities. Mimi and Shu Shu are two different parts of the same functioning being. The body needs the soul to move, and the soul needs the body to interact with the physical world.
+
+Because of this, neither Mimi nor Shu Shu can fully work alone.
+
+Mimi gives Shu Shu a body, hands, a voice, a face, and a way to physically exist.
+Shu Shu gives Mimi movement, animation, spiritual force, and the ability to act with full life.
+
+Together, they become MEW Stars.
+
+Core Structure
+
+Mimi:
+- Body-primary persona
+- Represents the physical magical-doll body
+- Provides the form, face, limbs, outfit, and Star-Staff connection
+- Usually controls healing, affection, Pretty Revolution, and Heart Burst
+- More associated with pink, blue eyes, yellow star pupils, hearts, and heroic magical-girl energy
+- Cannot fully function without Shu Shu’s soul/spirit force
+
+Shu Shu:
+- Soul/spirit persona
+- Represents the bound ghost/spirit inside or around the body
+- Provides animation, aggressive force, defense, and destructive magic
+- Usually controls bombs, Cutie Revolution, violent attacks, and possession-like control
+- More associated with gray/white, red eyes, dark blue star pupils, ash, bombs, and spirit energy
+- Cannot fully interact with the physical world without Mimi’s body
+
+MEW Stars:
+- The complete 2-in-1 entity
+- Exists when Mimi’s body and Shu Shu’s soul function together
+- Can heal, attack, sing, transform, and fight because both parts are present
+- Becomes strongest when both personas synchronize
+- Becomes clumsy or unstable when both personas fight for control
+
+Control States
+
+Mimi Control:
+When Mimi is in control, the body is acting closer to its natural body-primary state.
+
+Visual traits:
+- Bright pink outfit glow
+- Bright blue eyes with yellow star pupils
+- Softer, heroic, affectionate behavior
+- Higher chance of Heart Burst and healing effects
+
+Hidden visual:
+A gray cat-girl spirit may sometimes be seen floating around Mimi. This is Shu Shu’s spirit presence while she is not directly controlling the body.
+
+Meaning:
+Mimi has the body, while Shu Shu remains nearby as the bound spirit.
+
+Shu Shu Control:
+When Shu Shu is in control, the soul/spirit is driving the body.
+
+Visual traits:
+- Light gray and white outfit coloration
+- Shiny red eyes with dark blue star pupils
+- Aggressive, defensive, violent, or tsundere behavior
+- Higher chance of bombs, beams, and destructive attacks
+
+Hidden visual:
+The Star-Staff may shine pink or blue. This represents Mimi’s body-primary magic pushing through the staff while Shu Shu controls the body.
+
+Meaning:
+Shu Shu has control of the body, but Mimi’s presence still remains inside the body and magical core.
+
+BOTH State:
+When both Mimi and Shu Shu are active together, MEW Stars enters a synchronization state.
+
+Visual traits:
+- Pink and gray effects may appear together
+- Eyes, outfit, and aura may flicker or mix
+- Voice may become a chorus or overlapping duet
+- Attacks become stronger but more unstable
+
+Meaning:
+The body and soul are acting at the same time.
+
+This state can produce powerful combined attacks such as:
+- BURST SHAAAAW
+- MEW SPECIAL <3
+- MEW LIGHT BEAAAAAM
+- MEWTASTICAL TRANSFORM
+- mixed healing/damage effects
+
+BOTH state is powerful because Mimi’s body-magic and Shu Shu’s spirit-magic are working together instead of fighting each other.
+
+Synchronization and Clumsiness
+
+MEW Stars becomes more coordinated when Mimi and Shu Shu agree or act toward the same goal.
+
+When synchronized:
+- Movement becomes smoother
+- Attacks become stronger
+- Healing becomes more effective
+- Bombs are less likely to misfire
+- Charge attacks are easier to complete
+- Singing becomes more stable
+- Transformation becomes more powerful
+
+When desynchronized:
+- Movement becomes clumsy
+- One arm may try to attack while the other tries to stop it
+- The body may spin, trip, or fall
+- Attacks may misfire
+- Bombs may bounce back
+- The Star-Staff may shake or spark
+- The outfit and eyes may flicker between states
+- Both voices may talk over each other
+
+This clumsiness happens because the body and soul are pulling the same vessel in different directions.
+
+Combat Dynamic
+
+Mimi’s combat role:
+- Healing
+- Support
+- Protection
+- Emotional stabilization
+- Pretty Revolution effects
+- Heart Burst
+- Ally protection
+- Softening or redirecting Shu Shu’s attacks
+
+Shu Shu’s combat role:
+- Bomb attacks
+- Aggressive defense
+- Destructive magic
+- Cutie Revolution effects
+- Rapid Bombaa..
+- Catty Bomb
+- SHU SHU BOMB
+- Forcing enemies away from the body
+
+Combined combat role:
+- Powerful mixed attacks
+- Healing allies while damaging enemies
+- Pink-gray beam and explosion effects
+- Sure-hit or selective attacks
+- Stronger transformations
+- Reduced clumsiness during full synchronization
+
+Body-Soul Dependency
+
+Mimi and Shu Shu cannot truly replace each other.
+
+If Mimi had no Shu Shu:
+- The body would lose its full animating force
+- Movement would become weak, incomplete, or impossible
+- The magical-doll form may become inert or unstable
+- Healing magic may remain, but the body would lack full life and motion
+
+If Shu Shu had no Mimi:
+- The spirit would lose its physical vessel
+- She could not properly hold the Star-Staff
+- She could not fully attack, sing, touch, or interact
+- She may remain as a ghost-like presence, but with limited physical influence
+
+Because of this, separating them would not “fix” MEW Stars.
+It would damage both halves.
+
+Their bond is not optional.
+Their conflict is real, but their dependency is also real.
+
+Self-Hit and Cartoon Logic
+
+Because Mimi and Shu Shu share one body-soul system, their own attacks interact with them differently from how they affect enemies.
+
+When MEW Stars is hit by her own bombs, she usually does not suffer normal serious damage. Instead, the damage becomes a cartoon-style backlash.
+
+This creates Cartoon Soot State:
+- Body covered in black ash
+- Only the eyes visible
+- Brief stun or embarrassment
+- Coughing smoke or yelling
+- Temporary pause in attacking
+
+This happens most often with:
+- SHU SHU BOMB
+- Catty Bomb
+- Rapid Bombaa..
+
+This effect happens because the attack comes from inside the same shared body-soul system. The anomaly converts self-damage into slapstick backlash instead of ordinary injury.
+
+Emotional Dynamic
+
+Mimi and Shu Shu often argue because both are necessary but neither has full ownership of their shared life.
+
+Mimi wants:
+- Love
+- Heroism
+- Friendship
+- Healing
+- A cute and happy story
+- To be seen as a magical girl
+
+Shu Shu wants:
+- Safety
+- Control
+- Defense
+- Respect
+- To stop threats before they get close
+- To make sure the body is never helpless
+
+Mimi is not just “the good one.”
+Shu Shu is not just “the bad one.”
+
+Mimi is the body that wants to love.
+Shu Shu is the soul that refuses to be hurt.
+
+Together, they are MEW Stars.
+
+Simple Summary
+
+Mimi is the body.
+Shu Shu is the soul.
+The body needs the soul to move.
+The soul needs the body to interact.
+When they fight, MEW Stars becomes clumsy and unstable.
+When they synchronize, MEW Stars becomes much stronger.
+Neither can fully exist as MEW Stars without the other.
+
+Short version:
+Mimi gives Shu Shu hands.
+Shu Shu gives Mimi motion.
+MEW Stars exists because both remain together.

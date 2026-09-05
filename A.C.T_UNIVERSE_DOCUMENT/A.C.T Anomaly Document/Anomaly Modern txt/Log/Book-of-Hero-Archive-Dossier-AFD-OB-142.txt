@@ -1,0 +1,104 @@
+A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER
+Book-of-Hero-Archive-Dossier-AFD-OB-142
+
+═══════════════════════════════════════════════════════════════════════
+             A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-142
+TITLE I:             Book of Hero
+PRIMARY FILE:        Book-of-Hero-AFD-OB-142
+
+DOCUMENT CATEGORY:   CATEGORY VII — Recovered Document & Archive Dossier
+CATEGORY FUNCTION:   Story cataloging, thematic analysis, and historical 
+                     manifestation tracking.
+
+CLEARANCE REQUIRED:  Level 2
+
+CONTAINMENT SITE:    ACT-SITE-03-JP-E — Kurokawa Archive Node
+ARCHIVE STATUS:      Active / Informational
+DOSSIER STATUS:      Open / Continuous Manifestation Logging
+
+═══════════════════════════════════════════════════════════════════════
+                         CATEGORY CONTENTS
+═══════════════════════════════════════════════════════════════════════
+
+This dossier contains the cataloged entries of AFD-OB-142, documenting 
+the rise and fall of various "HERO" subjects across the multiversal 
+spectrum.
+
+INCLUDED LOG TYPES:
+   - Recovery Log: The Cottage Shelf (1998/2001)
+   - Sample Story Summaries (Happy vs. Dark)
+   - Chronological Manifestation Ledger (2005-2026)
+   - Dossier Closing Statement
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 001 — THE COTTAGE RECOVERY
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-142/REC-01
+DATE:                2001-11-12
+LOCATION:            [ REDACTED ], UK.
+
+The subject was found in a small stone cottage that appeared to have 
+been abandoned for over seventy years. While the cottage itself 
+demonstrated minor spatial instability (larger on the inside by 4 cm), it 
+was not classified as a PL-Anomaly.
+
+AFD-OB-142 was located on a shelf among standard 1920s-era fiction and 
+botany manuals. The civilian who discovered it in 1998 had been using 
+the book as a coffee table conversation piece, noting that "the ending 
+changed every time we read it." A.C.T intercepted the object after a 
+local librarian reported that the book’s text matched an event that 
+occurred in a neighboring town three weeks *after* the story appeared.
+
+═══════════════════════════════════════════════════════════════════════
+                 SECTION 002 — SAMPLE STORY SUMMARIES
+═══════════════════════════════════════════════════════════════════════
+
+ENTRY 0442:          "The Iron Lantern"
+TONE:                Happy Ending
+SUMMARY:             A knight in a world of endless fog finds a way to 
+                     ignite a permanent flame, clearing the mist and 
+                     restoring the sun. 
+
+ENTRY 0981:          "The Silence of the Seven"
+TONE:                Dark Ending
+SUMMARY:             A group of protectors attempts to seal a 
+                     reality-break beneath their city. They succeed, 
+                     but at the cost of their existence being erased 
+                     from the memory of the people they saved.
+THORNE NOTE:         "Resonates strongly with the First Lie."
+
+ENTRY 1021:          "The Final Act of the Brave" (Final 2005 Entry)
+TONE:                Ambiguous
+SUMMARY:             A hero stands before a closed door, waiting for a 
+                     knock that never comes. The story ends mid-
+                     sentence.
+
+═══════════════════════════════════════════════════════════════════════
+             SECTION 003 — MANIFESTATION LEDGER (RECENT)
+═══════════════════════════════════════════════════════════════════════
+
+2005-2015:           114 new stories recorded. Tones balanced (60% 
+                     Happy, 40% Dark).
+2016-2024:           9 new stories recorded. All categorized as 
+                     "High-Stakes" with significant causal overlap 
+                     to the **715-Series**.
+2026-07-01:          A new story titled "The Relic in the Harness" 
+                     manifested. It describes a man with a 
+                     "Stone heart" who keeps a library of survivors.
+
+═══════════════════════════════════════════════════════════════════════
+                         DOSSIER CLOSING
+═══════════════════════════════════════════════════════════════════════
+
+AFD-OB-142 remains one of our most valuable longitudinal studies on 
+narrative causality. It serves as a reminder that stories are just 
+another way to contain the weight of existence.
+
+CURRENT DOSSIER STATUS: Open / Monthly Review Active
+
+END OF DOSSIER

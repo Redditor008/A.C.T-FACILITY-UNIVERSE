@@ -1,0 +1,186 @@
+A.C.T FACILITY — ANOMALY FILE
+Hang-Snake-AFD-SU-902
+
+═══════════════════════════════════════════════════════════════════════
+                    A.C.T FACILITY — ANOMALY FILE
+                 Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-902
+TITLE I:             Hang Snake
+TITLE II:            THE GALLOWS CONSTRICTOR / THE NOOSE THAT HUNTS
+
+FIELD TYPE:          SU — Subject
+                     NB — Non-Natural Bio Hazard (Material Sentience)
+
+CLEARANCE REQUIRED:  Level 3 / Site-02 Command
+
+═══════════════════════════════════════════════════════════════════════
+                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+CONTAINMENT CLASS:   REACTIVE
+
+FRACTURE INDEX —
+CONTAINMENT:         NONE
+
+THREAT LEVEL:        3 (Lethality: High / Tactical: Moderate)
+
+FRACTURE INDEX —
+SUB-THREAT:          NONE
+
+TRANSFORMATION
+VIABILITY:           NEUTRAL
+
+═══════════════════════════════════════════════════════════════════════
+                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════
+
+DATE OF DETECTION:   1992-10-31
+VERIFICATION DATE:   1992-11-15
+LOCATION:            [ REDACTED ] Historical Prison / [ REDACTED ]
+DISCOVERY METHOD:    Investigation into an "Impossible Escape." After a 
+                     high-profile [ REDACTED ] was loosened from a 
+                     standard gallows noose, the rope manifested 
+                     predatory behavior and consumed the responding 
+                     medical staff.
+
+INITIAL RESPONSE
+OPERATION:           Tight Knot
+RESPONDING UNIT:     ERE Recovery Team / Bio-Hazard Response
+RESPONDING FIELD
+OPERATOR:            [ REDACTED ]
+CIVILIAN EXPOSURE:   2 confirmed fatalities (Prison staff).
+AMNESTIC DEPLOYED:   Yes — Early Selective Forgetting.
+NARRATIVE STATUS:    The incident was suppressed as a structural 
+                     collapse and subsequent localized riot.
+
+═══════════════════════════════════════════════════════════════════════
+                         DESCRIPTION
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-902 is a sentient serpentine entity composed entirely of 
+weathered hemp rope, historically identified as a hangman’s noose. 
+The subject measures approximately 2.8 meters in length, with a 
+thickness consistent with industrial-grade 19th-century cordage.
+
+Despite its composition, the subject demonstrates a high degree of 
+biological coordination and predatory intelligence. It mimics the 
+locomotion and ambush patterns of terrestrial vipers (*Viperidae*), 
+utilizing its natural camouflage as "mundane rope" to evade detection 
+until it enters a lethal striking range.
+
+ANOMALOUS PROPERTIES:
+1. MATERIAL SENTIENCE: The hemp fibers of AFD-SU-902 function as a 
+   distributed nervous system and muscular lattice. The subject can 
+   alter its internal tension instantaneously, allowing it to move with 
+   the rigidity of steel or the flexibility of a biological organism.
+
+2. FEEDING (TOTAL ABSORPTION): The subject is a specialized constrictor. 
+   Its primary method of predation involves looping its "Head" (the 
+   original noose knot) around the cervical region of a target. Once 
+   a lock is established, the subject initiates a high-pressure 
+   strangulation sequence. Following the death of the prey, the 
+   noose begins a "Siphoning" event—the biological mass of the prey is 
+   molecularly dismantled and absorbed into the rope's fibers as 
+   nutrients. 
+
+3. STRUCTURAL PERSISTENCE: AFD-SU-902 does not produce waste. 100% of 
+   absorbed matter is used to maintain the "Freshness" of the hemp 
+   fibers, preventing rot or fraying despite its age.
+
+═══════════════════════════════════════════════════════════════════════
+                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY EFFECT:      Predatory Material Mimicry. The subject functions 
+                     as a living animal while composed of inorganic 
+                     hemp rope.
+
+SECONDARY EFFECT:    Causal Absorption. The subject's feeding process 
+                     results in the total removal of the prey's 
+                     biological presence from the local environment.
+
+TERTIARY EFFECT:     [STRUCTURAL DATA OMITTED]
+
+TRIGGER CONDITION:   Proximity of biological life / Loosening of the 
+                     primary knot.
+
+RANGE / AREA OF
+INFLUENCE:           Physical reach (2.8m).
+
+TEMPORAL BEHAVIOR:   Constant.
+
+REALITY INTERACTION: Matter-to-Fiber Transmutation / Bio-Mechanical 
+                     Hybridization.
+
+═══════════════════════════════════════════════════════════════════════
+                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-902 is housed in a "Sanded-Steel" biological vault at 
+ACT-SITE-02-RU-N.
+
+1. TENSION MONITORING: The subject must be kept in a "Slack State" 
+   within its vault. The floor is lined with **Abyssal Anchor Plating 
+   (Item 34)** to prevent the subject from burrowing or 
+   leveraging itself against standard concrete.
+
+2. NO LOOSE ENDS: Personnel entering the secondary chamber are 
+   prohibited from wearing scarves, ties, loose straps, or unbuttoned 
+   lab coats. Any flexible material in the subject's proximity 
+   may be utilized by AFD-SU-902 as a "Graft" to extend its length.
+
+3. FEEDING PROTOCOL: Once every 45 days, the subject is provided 
+   with a non-sentient biological carcass (approx. 70kg). The 
+   carcass is to be lowered via an automated crane. No manual 
+   feeding is authorized.
+
+4. THERMAL DAMPENING: The vault temperature is maintained at 10°C 
+   via a **Cryo-Seismic Stabilizer (Item 26)** loop. This induces 
+   a state of "Fiber-Stiffness," significantly slowing the subject's 
+   reaction time.
+
+CONTAINMENT SITE:        ACT-SITE-02-RU-N — White Grave Station
+SITE TYPE:               Primary Site / Biological and Hazardous Isolation
+JURISDICTIONAL
+AUTHORITY:               White Grave Command / Bio-Subject Review
+CONTAINING DIVISION:     Biological Containment Division
+REQUIRED PERSONNEL:      2 Animal Handlers, 1 Bio-Maintenance Tech.
+MONITORING FREQUENCY:    Continuous (CCTV and Tension-Sensors).
+MAINTENANCE CYCLE:       Quarterly fiber-integrity scan.
+
+BREACH PROTOCOL:         In the event of a breach, utilize **Causal 
+                         Anchor Nails (Item 30)** to pin sections of 
+                         the rope to a hard surface. Do not attempt 
+                         to cut the subject with standard blades; use 
+                         **Pale Wood Scalpels (Item 14)** if 
+                         disarticulation is necessary.
+
+═══════════════════════════════════════════════════════════════════════
+                         RESEARCH SUMMARY
+═══════════════════════════════════════════════════════════════════════
+
+AFD-SU-902 appears to be an "Echo of Justice" that has gained 
+biological agency. Its material composition is non-anomalous, but 
+the "Focus" of its fibers suggests a high-level intent-based 
+transmutation. 
+
+Dr. Aris Thorne has noted that the subject does not "Eat" in a 
+biological sense; it "Incorporates." It is as if the rope is trying 
+to grow its own history by absorbing the bodies of those who were 
+meant to be its victims.
+
+═══════════════════════════════════════════════════════════════════════
+                         ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════
+
+NOTE 001:
+Subject demonstrates an intense "Scent-Fixation" on personnel who 
+possess a history of criminal conviction. It will actively coil against 
+the observation glass when such individuals are present.
+
+NOTE 002:
+[STRUCTURAL DATA OMITTED]
+
+END OF FILE
