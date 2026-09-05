@@ -1,7 +1,7 @@
 # A.C.T Group of Interest Expansion Roadmap
 ## Twenty original core-GOI concepts, prepared for one-at-a-time development
 
-**Status:** Planning only — no new GOI dossier has been created
+**Status:** Planning only for twenty new candidates — no new original roadmap-candidate dossier has been created; the three existing registry GOIs are documented separately as expanded in-world archive records
 **Prepared:** 06 September 2026
 **Requested outcome:** At least 20 new original A.C.T. Groups of Interest, developed **one new GOI per owner prompt**
 **Scope:** Independent A.C.T. core universe only; not a live wiki implementation
@@ -50,7 +50,7 @@ The source registry presently names these existing examples/anchors:
 - **Anti-Global Anomaly / A-GA** — militia that seeks indiscriminate destruction of anomalies;
 - **Anstrall Market** — transnational anomalous black-market structure.
 
-They remain source-preserved. None of them is revised, replaced, or counted toward the requested twenty new GOIs. Every candidate below must avoid duplicating their core role.
+They are documented separately as source-anchored, expanded in-world A.C.T archive records. None of them is counted toward the requested twenty new GOIs. Every candidate below must avoid duplicating their core role.
 
 ---
 
@@ -343,7 +343,7 @@ A completed individual dossier remains **Owner Review** until the owner accepts 
 
 # 7. Creation safeguards
 
-Before writing a single detailed GOI, confirm all of the following:
+Before writing a single new roadmap-candidate GOI, confirm all of the following:
 
 ```text
 [ ] This is the one GOI selected by the owner in this prompt.

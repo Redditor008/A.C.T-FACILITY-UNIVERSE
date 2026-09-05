@@ -1,173 +1,193 @@
 # A.C.T FACILITY ARCHIVE FILE
-## Group of Interest Registry Entry — Template
+## GROUP OF INTEREST REGISTRY — CONTROLLED RECORD FORM
 
-> **Template status:** Planning scaffold only. Do not treat placeholder fields as a completed GOI or canon.
-> **One-GOI gate:** Use this template for only one owner-selected new GOI per prompt.
-> **Format pairing:** The completed Markdown record in `GOI_MD/` must receive a matching plain-text reading copy in `GOI_TXT/` with the same filename base.
+```text
+═══════════════════════════════════════════════════════════════════════
+             A.C.T FACILITY — GROUP OF INTEREST RECORD
+                    CONTROLLED BLANK FILING FORM
+═══════════════════════════════════════════════════════════════════════
+
+GOI DESIGNATION:          GOI-XX-X-XXX
+COMMON NAME:              [REGISTERED COMMON NAME]
+SHORT NAME:               [SHORT NAME / INITIALISM / NONE CONFIRMED]
+ALIASES:                  [ALIASES, PUBLIC MASKS, OR NONE CONFIRMED]
+
+NATURE CLASS:             [GOVERNMENT / CORPORATE / CULTIC / SCIENTIFIC /
+                           CIVIL / MILITANT / ANOMALOUS / IN-HUMAN /
+                           BUSINESS / HYBRID]
+ALIGNMENT CLASS:          [NEUTRAL / POSITIVE / NEGATIVE / UNKNOWN /
+                           TRADE / BUSINESS / GUILD]
+REACH CLASS:              [CELLULAR / LOCAL / REGIONAL / NATIONAL /
+                           TRANSNATIONAL / GLOBAL / STRUCTURAL]
+ANOMALOUS CAPABILITY:     [NULL / EXPOSED / HANDLER / PRACTITIONER /
+                           ENGINEERING / REALITY-ACTIVE / STRUCTURAL]
+THREAT LEVEL:             [0 / 1 / 2 / 3 / 4 / 5]
+SECRECY RISK:             [VEILED / LEAKING / EXPOSURE-ACTIVE /
+                           NORMALCY-BREACHING]
+A.C.T POSTURE:            [MONITOR / INFILTRATE / MISDIRECT / CONTAIN /
+                           DISMANTLE / APPROPRIATE / ERASE / COOPERATED /
+                           HELP]
+
+KNOWN LEADERSHIP:         [IDENTITY, OFFICE, ROTATION, OR UNRESOLVED]
+KNOWN ASSETS:             [MATERIAL, HUMAN, INSTITUTIONAL, OR ANOMALOUS]
+KNOWN HOLDINGS:           [SITE, ROUTE, NETWORK, OR NONE CONFIRMED]
+OPERATIONAL REGIONS:      [REACH AND JURISDICTION]
+IDEOLOGY:                 [STATED OR ASSESSED OPERATING BELIEF]
+HISTORY WITH A.C.T:       [FIRST CONTACT / RELATIONSHIP CONDITION]
+CROSS-REFERENCED
+ANOMALIES:                [RESTRICTED LIST / NONE CONFIRMED / SEE CHAINS]
+
+CURRENT STATUS:           [ACTIVE / DORMANT / FRAGMENTED / CONTAINED /
+                           UNKNOWN / OTHER]
+PRIMARY FILE AUTHORITY:   [DIVISION / DESK / CENTRAL ARCHIVE]
+SITE JURISDICTION:        [PRIMARY SITE, SUB-SITE, OR CENTRAL REVIEW]
+CLEARANCE REQUIRED:       [LEVEL AND DISTRIBUTION LIMIT]
+═══════════════════════════════════════════════════════════════════════
+```
 
 **Archive Status:** [Active / Restricted / Archived / Sealed / Under Review]
-**Current Status:** [Active / Dormant / Fragmented / Contained / Unknown / Other]
 **Distribution:** [Internal / Intelligence / Site Command / O5-Restricted]
-**Authority:** Intelligence Division / Central Archive / [Other]
+**Authority:** [Responsible archive and operational authority]
+
+### Archive Note
+[State the filing condition, the limits of current certainty, and whether the record concerns an organization, an anomalous group requiring dual filing, or a suspected but unresolved structure. Do not use this field as a short description.]
 
 ---
 
-## Registry Header
+# IDENTITY AND INSTITUTIONAL FUNCTION
+
+## [Group Function]
+
+[Record what makes the group an organized anomalous actor. Explain what it does, why the activity is repeatable, and why it matters to containment, Structural Reality, secrecy, or ordinary life.]
+
+## [Public Presence and Concealment]
+
+[Record public identities, cover structures, denial mechanisms, or the reason no public identity can be verified.]
+
+---
+
+# ORGANIZATION, LEADERSHIP, AND HOLDINGS
+
+## [Leadership Condition]
+
+[Identify confirmed leadership, explain why leadership is unknown, or distinguish the leadership role from the people currently occupying it.]
+
+## [Internal Structure]
+
+[Describe cells, departments, market layers, hierarchy, networks, rituals, committees, collective behavior, or another material structure. Clearly distinguish confirmed information from assessed inference.]
+
+## [Known Holdings and Assets]
+
+[Detail sites, routes, archives, facilities, equipment, personnel, information, financial means, cover institutions, anomalous tools, and logistical capacity. State whether each is confirmed, assessed, or unresolved.]
+
+## [Operational Regions]
+
+[Explain the assigned Reach Class through actual operational geography, routes, jurisdictional limits, or non-geographic structural reach.]
+
+---
+
+# IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
+
+## [Stated Belief]
+
+[Record what the group says it protects, opposes, seeks, sells, studies, worships, hides, changes, or destroys.]
+
+## [Assessed Objective]
+
+[Record what A.C.T believes the group is trying to achieve, including conditions of uncertainty.]
+
+## [Anomalous Capability Assessment]
+
+[Explain why the assigned capability class fits. Describe how the group handles, studies, trades, creates, contains, weaponizes, avoids, or is affected by anomalies without assigning unproven capacity.]
+
+## [Secrecy and Civilian Exposure]
+
+[Explain how the group preserves, damages, uses, or exploits normalcy. Connect this directly to the assigned Secrecy Risk.]
+
+---
+
+# HISTORY WITH A.C.T
+
+## [Contact History]
+
+[Record known first contact, records limitation, previous posture, major break, treaty condition, or recurring pattern that established the relationship. Mark restricted or contested history without inventing a complete origin.]
+
+## [Current Relationship]
+
+[Explain why the group is not simply ignored, erased, recruited, or destroyed. State the active tension, dependency, shared interest, or source of conflict.]
+
+---
+
+# A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
+
+## [Responsible Jurisdiction]
+
+[Name the primary SITE, SUB-SITE, or Central review body. Explain why the responsible jurisdiction follows established site doctrine. Include cross-site roles where the group’s reach requires them.]
+
+## [Posture Implementation]
+
+[Translate the A.C.T Posture into actual conduct. Explain what monitoring, infiltration, misdirection, containment, dismantling, appropriation, erasure, cooperation, or help requires in this specific case.]
+
+## [Response Limits and Red Lines]
+
+[State what A.C.T will not permit, what would trigger escalation, and what must be protected despite conflict or opportunity.]
+
+---
+
+# INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
+
+## [Confirmed Operational Facts]
+
+- [CONFIRMED FACT]
+- [CONFIRMED FACT]
+- [CONFIRMED FACT]
+
+## [Active Intelligence Assessment]
+
+[Provide the current assessed pattern and why it matters. Separate assessment from confirmed fact.]
+
+## [Persistent Questions]
+
+- [OPEN QUESTION]
+- [OPEN QUESTION]
+- [OPEN QUESTION]
+
+## [Intelligence Confidence]
+
+[High / Moderate / Low / Contested, with reasons and the next condition that could change the rating.]
+
+---
+
+# CROSS-REFERENCE STATUS
+
+## Anomaly and Record Relationship
+
+[Identify approved-core anomaly records or state why a permanent group-wide list is restricted. If the group itself is anomalous, require a distinct AFD file and preserve the separation between organizational behavior and anomalous condition.]
+
+## Related A.C.T Records
+
+- [GOI REGISTRY / SITE / DOCTRINE / HISTORY RECORD]
+- [GOI REGISTRY / SITE / DOCTRINE / HISTORY RECORD]
+
+## Dual Filing
+
+[Required / Not required / Under review. Explain the ruling.]
+
+---
+
+# FILE METADATA
 
 ```text
-GOI DESIGNATION:          GOI-XX-X-XXX
-COMMON NAME:              [Name]
-SHORT NAME / INITIALISM:  [Name or N/A]
-ALIASES:                  [Known alternate names]
-
-NATURE CLASS:             [Government / Corporate / Cultic / Scientific /
-                           Civil / Militant / Anomalous / In-Human /
-                           Business / Hybrid]
-ALIGNMENT CLASS:          [Neutral / Positive / Negative / Unknown /
-                           Trade / Business / Guild]
-REACH CLASS:              [Cellular / Local / Regional / National /
-                           Transnational / Global / Structural]
-ANOMALOUS CAPABILITY:     [Null / Exposed / Handler / Practitioner /
-                           Engineering / Reality-Active / Structural]
-THREAT LEVEL:             [0 / 1 / 2 / 3 / 4 / 5]
-SECRECY RISK:             [Veiled / Leaking / Exposure-Active /
-                           Normalcy-Breaching]
-A.C.T POSTURE:            [Monitor / Infiltrate / Misdirect / Contain /
-                           Dismantle / Appropriate / Erase / Cooperated / Help]
+FILE CREATED:            [DD/MM/YYYY]
+FILE LAST UPDATED:       [DD/MM/YYYY]
+FILE AUTHOR:             [A.C.T ROLE / DESK]
+REVIEWED BY:             [A.C.T ROLE / DIVISION]
+FILE STATUS:             [ACTIVE / RESTRICTED / SEALED / OTHER]
+DESIGNATION HISTORY:     [DESIGNATION AND CHANGE CONDITION]
+RECORD CONDITION:        [DRAFT / OPERATIONAL / ARCHIVED / OTHER]
 ```
 
----
-
-## 1. Archive Summary
-
-[Two or three direct paragraphs answering: What does this group do? Why does it matter in the anomalous world? Why can A.C.T neither ignore nor simply describe it as a generic enemy?]
-
----
-
-## 2. Known Identity and Structure
-
-### Common Name
-[The name used by the group itself, where known.]
-
-### Aliases and Public Masks
-[Cover institution, legal name, historical name, civilian label, or “none confirmed.”]
-
-### Internal Structure
-[Leadership pattern, cells, professional body, marketplace, congregation, collective, distributed intelligence, or other organisational form. Distinguish confirmed facts from A.C.T inference.]
-
-### Known Leadership
-[Named leader, office, rotating authority, anonymous committee, unknown, or not applicable.]
-
----
-
-## 3. Ideology and Objective
-
-### Stated Belief
-[What the group says it wants.]
-
-### Assessed Objective
-[What A.C.T believes it actually wants, including uncertainty.]
-
-### Method
-[How it interacts with anomalies: study, worship, protection, trade, exploitation, destruction, concealment, transformation, public exposure, or another grounded practice.]
-
-### Core Tension with A.C.T
-[The meaningful disagreement, dependency, shared goal, moral conflict, or unresolved treaty that makes this GOI distinct.]
-
----
-
-## 4. Operational Profile
-
-### Operational Regions
-[Regions, routes, site-adjacent zones, or non-geographic reach.]
-
-### Known Holdings
-[Buildings, routes, archive systems, sanctuaries, laboratories, vessels, networks, or unknown.]
-
-### Known Assets
-[Nonvisual assets: personnel, cover institutions, equipment, authority, information, supply routes, anomalous tools. Do not add a visual asset unless separately owner-approved.]
-
-### Anomalous Capability Assessment
-[Explain why the assigned capability level fits. Do not state that the group can do more than the source-world rules support.]
-
-### Secrecy and Civilian Exposure Risk
-[How the group affects normalcy and why the assigned secrecy-risk level fits.]
-
----
-
-## 5. A.C.T. Relationship and Response
-
-### History with A.C.T
-[First known contact, current relationship, and major change in posture. Mark unverified history as such.]
-
-### Responsible Jurisdiction
-[Relevant primary SITE, SUB-SITE, or Central review body. Explain why that location is responsible using existing A.C.T jurisdiction doctrine.]
-
-### Current A.C.T. Posture
-[State the posture and its operational purpose. A posture must never be included merely as decoration.]
-
-### Response Limits and Red Lines
-[What A.C.T will not permit, what would force escalation, and what must be protected despite conflict.]
-
----
-
-## 6. Evidence and Uncertainty
-
-### Confirmed Facts
-- [Fact]
-- [Fact]
-- [Fact]
-
-### Active Theories
-- [Clearly labelled theory]
-- [Clearly labelled theory]
-
-### Open Questions
-- [Question that creates future story or archive potential without silently retconning core canon]
-- [Question]
-
-### Intelligence Confidence
-[High / Moderate / Low / Contested, with a short reason.]
-
----
-
-## 7. Cross-References
-
-### Cross-Referenced Anomalies
-- [Only approved-core anomaly record(s), or `None confirmed`]
-- [Do not use `Emergent Reality Anomaly/` / 715 material]
-
-### Existing A.C.T. Records
-- [Relevant approved-core site, doctrine, history, or story files]
-
-### Dual Filing
-[Required / Not required / Under review. If the group itself is anomalous, identify the intended separate AFD record rather than confusing the group record with an anomaly file.]
-
----
-
-## 8. Continuity and Originality Check
-
-Before this file is treated as an approved draft, confirm:
-
 ```text
-[ ] It is not a duplicate of GAA, A-GA, or Anstrall Market.
-[ ] It has a distinctive purpose, method, and point of conflict or cooperation.
-[ ] It fits Structural Reality, the site lattice, and the A.C.T doctrine of Containment and Transformation.
-[ ] It does not borrow another property’s names, systems, lore, prose, or visual identity.
-[ ] It does not use any 715 / Emergent Reality material.
-[ ] It does not change ITHYOS, NEMNOLIA, ERE, the First Lie, or a main-story revelation without specific owner approval.
-[ ] Any proposed new image or SVG has received separate owner approval before creation.
-```
-
----
-
-## File Metadata
-
-```text
-FILE CREATED:             [DD/MM/YYYY]
-FILE LAST UPDATED:        [DD/MM/YYYY]
-DRAFT PHASE:              [Concept / First Draft / Owner Review / Approved]
-FILE AUTHOR:              [Name / Role]
-REVIEWED WITH:            [Owner / N/A]
-CONTINUITY STATUS:        [Provisional / Owner-Approved / Canon-Pending]
+THIS BLANK FORM IS NOT A GOI DESIGNATION, ACTIVE OPERATIONAL RECORD,
+OR AUTHORIZATION TO CREATE A NEW GROUP WITHOUT CONTROLLED APPROVAL.
 ```
