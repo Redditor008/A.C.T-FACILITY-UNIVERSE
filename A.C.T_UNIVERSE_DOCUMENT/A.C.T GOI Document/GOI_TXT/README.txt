@@ -9,7 +9,7 @@ A.C.T GROUPS OF INTEREST — DEVELOPMENT FOLDER
 
 Status: Planning infrastructure created 06 September 2026
 Scope: New, original Groups of Interest for the independent A.C.T. core universe
-Current count: 0 completed individual GOI dossiers
+Current count: 20 individually filed planning seeds; 0 completed individual GOI dossiers
 Important: This is not a wiki implementation folder.
 
 ==============================================================================
@@ -51,6 +51,34 @@ Plain-text mirrors — GOI_TXT/
 - 00_GOI_Development_Roadmap.txt
 - 00_GOI_Record_Template.txt
 - README.txt
+
+Individually filed planning seeds — 20 matching pairs
+
+
+Every short candidate brief already written in the roadmap now has its own file pair. These files are navigable copies of the existing planning material; they add no new lore and remain planning-only until the owner selects one for expansion.
+
+| # | Candidate | Markdown | Plain text |
+|---:|---|---|---|
+| 01 | Office of Public Continuity | MD | TXT |
+| 02 | Treaty of Closed Harbors | MD | TXT |
+| 03 | Morrowline Indemnity | MD | TXT |
+| 04 | Nacre Vector Biologics | MD | TXT |
+| 05 | The Still Hour Congregation | MD | TXT |
+| 06 | The Lanternless Pilgrims | MD | TXT |
+| 07 | Meridian Survey | MD | TXT |
+| 08 | The Second Observation Society | MD | TXT |
+| 09 | Quiet Harbor Mutual | MD | TXT |
+| 10 | The Last Address Network | MD | TXT |
+| 11 | The Iron Quiet | MD | TXT |
+| 12 | The Boundary Wardens | MD | TXT |
+| 13 | The Unfinished Assembly | MD | TXT |
+| 14 | The Chorus of Shared Names | MD | TXT |
+| 15 | The Brine Witnesses | MD | TXT |
+| 16 | Hushfield Court | MD | TXT |
+| 17 | Pale Freight Compact | MD | TXT |
+| 18 | Secondhand Reliquaries | MD | TXT |
+| 19 | Threshold Census | MD | TXT |
+| 20 | Deep-Pressure Accord | MD | TXT |
 
 The roadmap entries are planning seeds only. They are not completed dossiers, final canon, or permission to create all twenty at once.
 

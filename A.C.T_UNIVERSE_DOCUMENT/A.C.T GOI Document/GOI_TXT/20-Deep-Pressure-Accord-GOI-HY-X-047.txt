@@ -1,0 +1,40 @@
+A.C.T. GROUPS OF INTEREST — PLAIN-TEXT MIRROR
+Source Markdown record: ../GOI_MD/20-Deep-Pressure-Accord-GOI-HY-X-047.md
+Mirror rule: Keep this reading copy aligned with its Markdown source; the Markdown file remains authoritative.
+
+==============================================================================
+
+A.C.T. GROUP OF INTEREST — INDIVIDUAL PLANNING FILE
+---------------------------------------------------
+20 — DEEP-PRESSURE ACCORD
+-------------------------
+
+Registry designation: GOI-HY-X-047
+File status: Individual planning seed — not a completed GOI dossier
+Canon status: Provisional; owner selection and review required
+Dossier gate: This file preserves the already-written roadmap brief only. It does not bypass the rule that a full new GOI dossier is created only after an owner selects this one in a dedicated prompt.
+Master source: 00_GOI_Development_Roadmap.md
+Plain-text mirror: ../GOI_TXT/20-Deep-Pressure-Accord-GOI-HY-X-047.txt
+
+==============================================================================
+
+EXISTING PLANNING BRIEF
+-----------------------
+
+- Provisional designation: GOI-HY-X-047
+- Class direction: Hybrid / Negative / Transnational / Engineering / Threat 5 / Normalcy-Breaching / Dismantle + Contain
+- Core premise: A coalition of extraction firms, private divers, salvage crews, and ritual navigators that drills, maps, and removes material from deep maritime pressure zones because it believes the seabed contains controllable infrastructure rather than living risk.
+- Distinctive pressure: Its method destabilizes sites and routes that must remain undisturbed. It is a direct challenge to the principle that some foundations must be maintained, not exploited.
+- Likely jurisdiction: Site 05 with Central abyssal-restriction review.
+- Key drafting question: What is the difference between resource extraction and waking a system that has only survived because no one touched it?
+
+==============================================================================
+
+==============================================================================
+
+FUTURE EXPANSION GATE
+---------------------
+
+This candidate may be expanded into a complete archive dossier only when the owner asks for GOI 20 — Deep-Pressure Accord in a later prompt. At that time, this file and its matching TXT mirror will be expanded together using 00_GOI_Record_Template.md.
+
+Until then, this file is a navigable individual copy of the current roadmap entry. It introduces no additional lore, assets, cross-references, completed history, or canon beyond the provisional planning brief above.

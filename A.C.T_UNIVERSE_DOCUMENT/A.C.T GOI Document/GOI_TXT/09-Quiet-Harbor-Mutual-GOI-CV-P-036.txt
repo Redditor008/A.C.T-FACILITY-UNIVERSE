@@ -1,0 +1,38 @@
+A.C.T. GROUPS OF INTEREST — PLAIN-TEXT MIRROR
+Source Markdown record: ../GOI_MD/09-Quiet-Harbor-Mutual-GOI-CV-P-036.md
+Mirror rule: Keep this reading copy aligned with its Markdown source; the Markdown file remains authoritative.
+
+==============================================================================
+
+A.C.T. GROUP OF INTEREST — INDIVIDUAL PLANNING FILE
+---------------------------------------------------
+09 — QUIET HARBOR MUTUAL
+------------------------
+
+Registry designation: GOI-CV-P-036
+File status: Individual planning seed — not a completed GOI dossier
+Canon status: Provisional; owner selection and review required
+Dossier gate: This file preserves the already-written roadmap brief only. It does not bypass the rule that a full new GOI dossier is created only after an owner selects this one in a dedicated prompt.
+Master source: 00_GOI_Development_Roadmap.md
+Plain-text mirror: ../GOI_TXT/09-Quiet-Harbor-Mutual-GOI-CV-P-036.txt
+
+==============================================================================
+
+EXISTING PLANNING BRIEF
+-----------------------
+
+- Provisional designation: GOI-CV-P-036
+- Class direction: Civil / Positive / Regional / Exposed / Threat 1 / Leaking / Help + Cooperated
+- Core premise: A mutual-aid association of coastal workers, fishers, medics, and families who share warnings about impossible currents, missing boats, and returned survivors before authorities can erase the evidence.
+- Distinctive pressure: It is not secretly powerful; its importance is trust. A.C.T. can gain early warnings only by respecting the people who already know their coast has been changed.
+- Likely jurisdiction: Site 05.
+- Key drafting question: Can a secrecy-driven institution genuinely partner with a community whose first duty is to its own missing people?
+
+==============================================================================
+
+FUTURE EXPANSION GATE
+---------------------
+
+This candidate may be expanded into a complete archive dossier only when the owner asks for GOI 09 — Quiet Harbor Mutual in a later prompt. At that time, this file and its matching TXT mirror will be expanded together using 00_GOI_Record_Template.md.
+
+Until then, this file is a navigable individual copy of the current roadmap entry. It introduces no additional lore, assets, cross-references, completed history, or canon beyond the provisional planning brief above.
