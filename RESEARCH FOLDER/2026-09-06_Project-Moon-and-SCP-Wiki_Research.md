@@ -7,6 +7,8 @@
 **Prepared for:** A.C.T.-FACILITY-WIKI  
 **Scope:** The principal English-language Project Moon game wiki hubs on wiki.gg and Fandom, the ProjectMoon lore hub, the Russian Project Moon wiki.gg portal, and the official English SCP Wiki.
 
+> **Owner scope update — 06 September 2026:** The public-facing independent A.C.T. core excludes the complete `A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Emergent Reality Anomaly/` folder. Its 715-series records, logs, related material, and assets are retained in the repository but are not to be migrated, featured, linked, or used as core-wiki material. The current visual-asset policy also requires an owner-approved, main-branch asset pool with an 80% SVG / maximum 20% explicitly approved non-SVG target; no automatic or AI-generated imagery is to be used. See [`2026-09-06_A.C.T._Wiki_Scope_and_Visual_Asset_Policy.md`](2026-09-06_A.C.T._Wiki_Scope_and_Visual_Asset_Policy.md) for the controlling planning decision.
+
 > **Important scope note:** These are living, community-maintained collections containing thousands of pages, continuing updates, translations, and individual author contributions. A finite research pass cannot honestly duplicate or "read all" of their full archives. This dossier therefore reviews **every requested main wiki hub**, its visible information architecture, and the core system/lore pages needed to understand how its documentation works. It intentionally does **not** copy, mirror, or bulk-archive source text, art, audio, or game data. Before any future A.C.T. page uses a specific Project Moon or SCP element, that exact primary page and its rights status should be checked again.
 
 > **Research conclusion in one sentence:** A.C.T. can take inspiration from the *design logic* of Project Moon's emotionally meaningful institutional archives and SCP's modular document storytelling, while preserving its own terminology, cosmology, visual identity, and rights-safe source boundary.
@@ -388,16 +390,15 @@ Each can be visually and rhetorically distinct in the wiki.
 
 The source’s Mirror World material demonstrates that an alternate-version system becomes narratively meaningful when it raises questions about identity, longing, responsibility, memory, and the cost of comparison.
 
-A.C.T. already has an original foothold for cross-reality material:
+A.C.T. has an original archive-variant foothold in the material that remains within the approved core scope:
 
 - **Minor Pauses** in the Cosmic Timer;
-- **Exogenous Realities** and the 715-Series;
 - fractured/contradictory documentation;
 - REGRESSION Protocol;
 - ANM designation logic;
 - the narrative premise of archive records that should not exist when they do.
 
-Therefore, an A.C.T. alternate-reality page should never be a mere character-skin or list of “what if” variants. It should answer at least one of these questions:
+The excluded 715/Emergent Reality material is not a future core-wiki application of this pattern. Any A.C.T. archive-variant page should never be a mere character-skin or list of “what if” variants. It should answer at least one of these questions:
 
 - What causal rule changed?
 - What did the observer lose or misremember?
@@ -483,9 +484,8 @@ The official Canon Hub states that the SCP setting has multiple shared canons th
 
 A.C.T. should not copy SCP canons. It can adopt the organisational principle in an original form:
 
-- **Core Canon** — baseline A.C.T. universe documents;
+- **Core Canon** — baseline independent A.C.T. universe documents;
 - **Abyssal Archive Continuity** — the First Lie / ITHYOS-focused story layer;
-- **Emergent Reality Series** — 715-Series and reality-fracture material;
 - **Legacy Records** — earlier documents retained as in-world historical material;
 - **Crossover Continuities** — explicitly non-core fan works involving Project Moon, SCP, or other source properties;
 - **Experimental / Apocryphal Files** — optional alternate or disputed records.
@@ -696,7 +696,7 @@ A.C.T. will feel generic if it is presented as “SCP but renamed” or “Lobot
 - the universe’s major cosmological model is the **Cosmic Timer** and **Minor Pause**;
 - A.C.T. is built around a founding abyssal fact: **ITHYOS, the World-Sleeper**;
 - anomaly status has an explicit ethical/operational **Transformation Viability** axis;
-- archive failure is itself a meaningful phenomenon, especially in the **First Lie**, founder continuity failure, NEMNOLIA material, and the 715-Series;
+- archive failure is itself a meaningful phenomenon, especially in the **First Lie**, founder continuity failure, NEMNOLIA material, and legacy-to-modern record conflicts;
 - its global site network is a deliberately strategic containment lattice;
 - its doctrine is **Detect → Verify → Conceal → Contain → Assess → Research → Transform → Maintain**.
 
@@ -1487,4 +1487,4 @@ The Project Moon game wikis and the SCP Wiki have now been researched as request
 - clearly separate core A.C.T. canon from legacy/variant/crossover content;
 - maintain rigorous source, asset, attribution, and licensing boundaries before public release.
 
-**The next implementation stage should begin only after the project owner confirms whether the public-facing wiki is intended to be an original A.C.T. universe, an explicitly SCP-derivative universe, a Project Moon fan crossover archive, or a deliberately separated combination of all three.**
+**Owner decision recorded:** The public-facing wiki is an independent A.C.T. core universe. Any future implementation must also follow the controlling scope/asset policy: exclude the entire Emergent Reality / 715 folder, use owner-approved main-branch assets, make SVG the dominant visual medium, obtain explicit permission for any non-SVG visual asset, and do not use automatic or AI-generated imagery.
