@@ -3,7 +3,7 @@ A.C.T Group of Interest Expansion Roadmap
 Twenty original core-GOI concepts, prepared for one-at-a-time development
 -------------------------------------------------------------------------
 
-Status: Planning only for twenty new candidates — no new original roadmap-candidate dossier has been created; the three existing registry GOIs are documented separately as expanded in-world archive records
+Status: Planning only for twenty new candidates - no roadmap-candidate dossier has been created; the three existing registry GOIs and the owner-directed original Children of the Deep are documented separately as expanded in-world archive records
 Prepared: 06 September 2026
 Requested outcome: At least 20 new original A.C.T. Groups of Interest, developed one new GOI per owner prompt
 Scope: Independent A.C.T. core universe only; not a live wiki implementation
@@ -18,6 +18,8 @@ This roadmap creates a deliberate pool of twenty provisional GOI seeds. A seed h
 This Markdown roadmap is the authoritative planning source in GOI_MD/. Its matching plain-text reading copy is kept in GOI_TXT/00_GOI_Development_Roadmap.txt. The same Markdown-plus-TXT pairing will be used for every later owner-approved individual GOI dossier.
 
 A candidate does not become final canon merely because it appears in this file. The owner selects one candidate in a later prompt. Only then will one detailed GOI archive record be written, checked, and presented for review. No batch of twenty finished organizations will be generated from this plan.
+
+Direct-owner record note: GOI-CU-X-048 - Children of the Deep / CoTD - was commissioned directly outside this provisional list. Its creation does not select, replace, number, or activate one of the twenty roadmap seeds.
 
 This protects the project from the most common expansion problem: a setting gaining many names, but no meaningful institutions. Every completed GOI must earn its place through a distinct method, pressure on A.C.T., human consequence, and connection to the existing world.
 

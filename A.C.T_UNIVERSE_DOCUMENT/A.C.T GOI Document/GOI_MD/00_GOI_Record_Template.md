@@ -2,10 +2,11 @@
 ## GROUP OF INTEREST REGISTRY — CONTROLLED RECORD FORM
 
 ```text
-═══════════════════════════════════════════════════════════════════════
-             A.C.T FACILITY — GROUP OF INTEREST RECORD
-                    CONTROLLED BLANK FILING FORM
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
+| A.C.T FACILITY - GROUP OF INTEREST RECORD                          |
++=====================================================================+
+| CONTROLLED BLANK FILING FORM                                       |
++---------------------------------------------------------------------+
 
 GOI DESIGNATION:          GOI-XX-X-XXX
 COMMON NAME:              [REGISTERED COMMON NAME]
@@ -42,7 +43,6 @@ CURRENT STATUS:           [ACTIVE / DORMANT / FRAGMENTED / CONTAINED /
 PRIMARY FILE AUTHORITY:   [DIVISION / DESK / CENTRAL ARCHIVE]
 SITE JURISDICTION:        [PRIMARY SITE, SUB-SITE, OR CENTRAL REVIEW]
 CLEARANCE REQUIRED:       [LEVEL AND DISTRIBUTION LIMIT]
-═══════════════════════════════════════════════════════════════════════
 ```
 
 **Archive Status:** [Active / Restricted / Archived / Sealed / Under Review]

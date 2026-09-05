@@ -1,7 +1,7 @@
 A.C.T. Groups of Interest — Archive and Development Folder
 ==========================================================
 
-Status: Three expanded, source-anchored in-world GOI archive dossiers; twenty provisional roadmap seeds in one master plan
+Status: Three expanded source-anchored registry dossiers, one owner-directed original in-world dossier, and twenty provisional roadmap seeds in one master plan
 Scope: Independent A.C.T. core universe only
 Implementation status: No live wiki work has begun
 
@@ -41,6 +41,17 @@ The canonical registry contains the three entries above, while an earlier owner 
 
 ==============================================================================
 
+Owner-directed original dossier
+-------------------------------
+
+The owner directly commissioned the following original dossier in a separate prompt. It is the one new GOI authorized by that prompt and is distinct from the twenty provisional roadmap candidates.
+
+- GOI-CU-X-048 - Children of the Deep / CoTD - Markdown dossier (GOI-CU-X-048-Children-of-the-Deep-CoTD.md) | Plain-text reading copy (../GOI_TXT/GOI-CU-X-048-Children-of-the-Deep-CoTD.txt)
+
+Children of the Deep is a Cultic / Negative / Regional / Practitioner group assessed at Threat Level 5. Its primary active region is the Midwestern United States, and its active objective is awakening a separately sealed, apocalyptic deep-sea anomaly. Its dossier preserves the supplied redactions and keeps the target anomaly separate from the organization record.
+
+==============================================================================
+
 Planning material — not individual GOI dossiers
 -----------------------------------------------
 
@@ -48,7 +59,7 @@ Planning material — not individual GOI dossiers
 - 00_GOI_Record_Template.md (00_GOI_Record_Template.md) — the controlled in-world archive form for a future owner-selected original GOI dossier.
 - README.md — this folder guide.
 
-The twenty roadmap candidates remain in the master roadmap only. They do not have individual GOI files because the owner clarified that individual-file work applies to GOIs already written in the source registry, not to all provisional candidates.
+The twenty roadmap candidates remain in the master roadmap only. They do not have individual GOI files because the owner clarified that individual-file work applies to GOIs already written in the source registry, not to all provisional candidates. Children of the Deep is an owner-directed original dossier outside that provisional list; it does not convert, replace, or silently activate any roadmap seed.
 
 ==============================================================================
 
