@@ -128,8 +128,6 @@ The twenty candidates are intentionally distributed across all ten existing Natu
 
 **Important:** Each entry is a short planning brief, not a finished record. The designation, classification, name, and premise may be refined only when the owner selects that numbered GOI for its individual prompt.
 
-Each already-written brief below is also available as its own individual planning file in `GOI_MD/`, with a matching `.txt` mirror in `GOI_TXT/`. The files are indexed in [`README.md`](README.md); they duplicate the current seed material for navigation and do not constitute twenty completed dossiers.
-
 ## 01 — Office of Public Continuity
 
 - **Provisional designation:** `GOI-GV-N-028`

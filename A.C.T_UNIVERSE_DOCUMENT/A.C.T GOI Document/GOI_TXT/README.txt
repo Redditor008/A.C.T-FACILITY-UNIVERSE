@@ -4,104 +4,79 @@ Mirror rule: Keep this reading copy aligned with its Markdown source; the Markdo
 
 ==============================================================================
 
-A.C.T GROUPS OF INTEREST — DEVELOPMENT FOLDER
----------------------------------------------
+A.C.T. GROUPS OF INTEREST — DEVELOPMENT FOLDER
+----------------------------------------------
 
-Status: Planning infrastructure created 06 September 2026
-Scope: New, original Groups of Interest for the independent A.C.T. core universe
-Current count: 20 individually filed planning seeds; 0 completed individual GOI dossiers
-Important: This is not a wiki implementation folder.
+Status: Source-preserved GOI extracts and planning infrastructure
+Scope: Independent A.C.T. core universe only
+Current contents: 3 individual source-registry extracts; 20 roadmap seeds held in one master plan; 0 newly expanded original GOI dossiers
+Important: This is not a live wiki implementation folder.
 
 ==============================================================================
 
 FOLDER SPLIT
 ------------
 
-The parent A.C.T GOI Document/ folder is deliberately divided into two matching formats:
+The parent A.C.T GOI Document/ folder is divided into two matching formats:
 
 GOI_MD/   ← authoritative Markdown records, templates, and planning material
 GOI_TXT/  ← plain-text mirrors with the same filename base
 
-A future owner-selected GOI dossier will receive both files at the same time: one .md file in GOI_MD/ and one matching .txt file in GOI_TXT/. Until an individual candidate is selected, the only current GOI writing is planning material, mirrored in both folders.
+Every individual GOI record in GOI_MD/ has a matching .txt reading copy in GOI_TXT/. The Markdown file remains the authoritative editable source.
 
 ==============================================================================
 
-PURPOSE
-------------
+SOURCE-PRESERVED INDIVIDUAL GOI FILES
+-------------------------------------
 
-This folder is the controlled home for future A.C.T. Group of Interest (GOI) records. It was created because the present source corpus has only a small set of registry examples and the project owner wants a planned expansion of at least twenty new original GOIs.
+The individual records below are the GOIs already written as lore in the canonical source registry:
 
-The existing source registry names Government Anti Anomaly / GAA, Anti-Global Anomaly / A-GA, and Anstrall Market as existing reference anchors. They are not rewritten, replaced, or counted as any of the twenty planned new GOIs in this folder.
+A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_GOI_Registry_and_External_Threat_Doctrine_Archive.md
 
-==============================================================================
+They preserve the sample-entry text that already exists in that source file. They do not add aliases, history, assets, sites, personnel, anomalies, or other lore that the source registry did not state.
 
-WHAT IS HERE NOW
-----------------
+| Designation | Existing source GOI | Markdown | Plain text |
+|---|---|---|---|
+| GOI-GV-P-001 | Government Anti Anomaly / GAA | MD | TXT |
+| GOI-ML-X-014 | Anti-Global Anomaly / A-GA | MD | TXT |
+| GOI-BS-T-027 | Anstrall Market | MD | TXT |
 
-Markdown source records — GOI_MD/
-
-
-- 00_GOI_Development_Roadmap.md — twenty provisional GOI seeds, the coverage plan, and the creation order.
-- 00_GOI_Record_Template.md — the shared archive-file structure for a future individual GOI dossier.
-- README.md — this working and format guide.
-
-Plain-text mirrors — GOI_TXT/
+Continuity note
 
 
-- 00_GOI_Development_Roadmap.txt
-- 00_GOI_Record_Template.txt
-- README.txt
-
-Individually filed planning seeds — 20 matching pairs
-
-
-Every short candidate brief already written in the roadmap now has its own file pair. These files are navigable copies of the existing planning material; they add no new lore and remain planning-only until the owner selects one for expansion.
-
-| # | Candidate | Markdown | Plain text |
-|---:|---|---|---|
-| 01 | Office of Public Continuity | MD | TXT |
-| 02 | Treaty of Closed Harbors | MD | TXT |
-| 03 | Morrowline Indemnity | MD | TXT |
-| 04 | Nacre Vector Biologics | MD | TXT |
-| 05 | The Still Hour Congregation | MD | TXT |
-| 06 | The Lanternless Pilgrims | MD | TXT |
-| 07 | Meridian Survey | MD | TXT |
-| 08 | The Second Observation Society | MD | TXT |
-| 09 | Quiet Harbor Mutual | MD | TXT |
-| 10 | The Last Address Network | MD | TXT |
-| 11 | The Iron Quiet | MD | TXT |
-| 12 | The Boundary Wardens | MD | TXT |
-| 13 | The Unfinished Assembly | MD | TXT |
-| 14 | The Chorus of Shared Names | MD | TXT |
-| 15 | The Brine Witnesses | MD | TXT |
-| 16 | Hushfield Court | MD | TXT |
-| 17 | Pale Freight Compact | MD | TXT |
-| 18 | Secondhand Reliquaries | MD | TXT |
-| 19 | Threshold Census | MD | TXT |
-| 20 | Deep-Pressure Accord | MD | TXT |
-
-The roadmap entries are planning seeds only. They are not completed dossiers, final canon, or permission to create all twenty at once.
+The source registry contains the three sample entries above, while the owner has said the currently intended setting roster has only two GOIs. These extracts do not decide, retcon, add to, or resolve that count. They preserve the source material exactly enough for separate reference until the owner gives a continuity decision.
 
 ==============================================================================
 
-ONE GOI PER OWNER PROMPT
-------------------------
+PLANNING MATERIAL — NOT INDIVIDUAL GOI DOSSIERS
+-----------------------------------------------
 
-The owner has set a deliberate working rule:
+- 00_GOI_Development_Roadmap.md — master plan containing twenty provisional original GOI seeds.
+- 00_GOI_Record_Template.md — shared structure for a future owner-selected original GOI dossier.
+- README.md — this folder guide.
+
+The twenty roadmap candidates remain in the master roadmap only. They do not have individual GOI files, because the owner clarified that the individual-file request applies to the existing lore entries already written in the source registry, not to the twenty new planning candidates.
+
+==============================================================================
+
+ONE NEW ORIGINAL GOI PER OWNER PROMPT
+-------------------------------------
+
+The owner has set a deliberate creation rule for the roadmap candidates:
 
 1. The owner selects one roadmap slot in a new prompt, for example: Create GOI 01 — Office of Public Continuity.
-2. Only that one GOI receives a dedicated Markdown dossier in GOI_MD/ and a matching plain-text mirror in GOI_TXT/.
-3. The dossier pair is checked with the owner for continuity, originality, tone, and desired changes.
-4. No second new GOI dossier pair is created until the owner sends another prompt selecting it.
+2. Only that selected new GOI receives a dedicated Markdown dossier in GOI_MD/ and a matching plain-text mirror in GOI_TXT/.
+3. The dossier pair is reviewed for continuity, originality, tone, classification, and desired changes.
+4. No second new original GOI dossier pair is created until the owner sends another prompt selecting it.
 
-A correction, expansion, or review of an already-created GOI is not treated as a new GOI. The next new number remains paused until the owner explicitly requests it.
+A correction, source-preserved extract, expansion, or review of an already-existing GOI does not count as creating another new original GOI.
 
 ==============================================================================
 
-RECORD NAMING RULE
-------------------
+FUTURE NEW-RECORD NAMING RULE
+-----------------------------
 
-When a roadmap item is approved for creation, its dossier pair will use this pattern:
+When a roadmap item is selected for full creation, its new dossier pair will use this pattern:
 
 GOI_MD/NN-Common-Name-GOI-XX-A-XXX.md
 GOI_TXT/NN-Common-Name-GOI-XX-A-XXX.txt
@@ -118,13 +93,13 @@ The filename base and registry designation must match the approved roadmap slot 
 CORE-CONTINUITY SAFEGUARDS
 --------------------------
 
-Every future GOI in this folder must remain an original A.C.T. core creation:
+Every future original GOI in this folder must remain an original A.C.T. core creation:
 
-- It must follow A.C.T’s existing GOI classification system: Nature Class, Alignment Class, Reach Class, Anomalous Capability, Threat Level, Secrecy Risk, and A.C.T. Posture.
+- It must follow A.C.T.’s existing GOI classification system: Nature Class, Alignment Class, Reach Class, Anomalous Capability, Threat Level, Secrecy Risk, and A.C.T. Posture.
 - It must serve a distinct role around Structural Reality, secrecy, containment, Transformation, site jurisdiction, or the human cost of those systems.
 - It must not duplicate the purpose of GAA, A-GA, or Anstrall Market.
-- It must not turn A.C.T into an SCP derivative, a Project Moon crossover, or a generic clone of another fictional organization.
-- It must not use any source material, event, character, asset, or lore from A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Emergent Reality Anomaly/, including all 715 material.
+- It must not turn A.C.T. into an SCP derivative, a Project Moon crossover, or a generic clone of another fictional organization.
+- It must not use source material, events, characters, assets, or lore from A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Emergent Reality Anomaly/, including all 715 material.
 - It must not alter the source-preserved records outside this folder unless the owner explicitly requests a later integration pass.
 
 ==============================================================================
@@ -134,6 +109,6 @@ VISUAL AND ASSET BOUNDARY
 
 No images, SVGs, logos, or other visual assets are planned for a GOI dossier by default.
 
-If an individual future GOI needs a new visual asset, the owner must first be asked for approval of that single proposed asset or small bounded set. The wider SVG-first, no-generation, external-art prohibition, and phased-review rules are binding under:
+If an individual future GOI needs a new visual asset, the owner must first approve that single proposed asset or a small bounded set. The wider SVG-first, no-generation, external-art prohibition, and phased-review rules are binding under:
 
 RESEARCH FOLDER/2026-09-06_A.C.T._Wiki_Scope_and_Visual_Asset_Policy.md
