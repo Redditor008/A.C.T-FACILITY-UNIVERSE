@@ -12,6 +12,8 @@
 
 This roadmap creates a deliberate pool of **twenty provisional GOI seeds**. A seed has a working identity, a classification direction, a narrative role, a likely A.C.T. jurisdiction, and an important question to resolve later. It is intentionally not a completed faction dossier.
 
+This Markdown roadmap is the authoritative planning source in `GOI_MD/`. Its matching plain-text reading copy is kept in `GOI_TXT/00_GOI_Development_Roadmap.txt`. The same Markdown-plus-TXT pairing will be used for every later owner-approved individual GOI dossier.
+
 A candidate does **not** become final canon merely because it appears in this file. The owner selects one candidate in a later prompt. Only then will one detailed GOI archive record be written, checked, and presented for review. No batch of twenty finished organizations will be generated from this plan.
 
 This protects the project from the most common expansion problem: a setting gaining many names, but no meaningful institutions. Every completed GOI must earn its place through a distinct method, pressure on A.C.T., human consequence, and connection to the existing world.
@@ -324,14 +326,14 @@ The owner may instead rename, reorder, combine, or reject a candidate before cre
 
 For the selected candidate only, the work will:
 
-1. create one dedicated Markdown record in this folder using `00_GOI_Record_Template.md`;
+1. create one dedicated Markdown record in `GOI_MD/` using `00_GOI_Record_Template.md`, plus a matching `.txt` reading copy in `GOI_TXT/`;
 2. turn the short seed into a concrete institutional structure, ideology, assets, history with A.C.T., responsible site, current posture, and open questions;
 3. verify that every classification value is legal under the existing GOI doctrine;
 4. cross-reference only approved independent-core records;
 5. run a duplicate-name and prohibited-scope check;
-6. present the individual dossier for owner review.
+6. present the matched dossier pair for owner review.
 
-No other candidate becomes a dossier in the same response. The next new GOI waits for another owner prompt.
+No other candidate becomes a dossier pair in the same response. The next new GOI waits for another owner prompt.
 
 ## 6.3 Review before registry integration
 
