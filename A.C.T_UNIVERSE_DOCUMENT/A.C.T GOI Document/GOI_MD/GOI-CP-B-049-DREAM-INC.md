@@ -1,0 +1,397 @@
+# A.C.T FACILITY ARCHIVE FILE
+## GROUP OF INTEREST REGISTRY - DREAM .INC
+
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| GOI DESIGNATION            | GOI-CP-B-049                                                |
++----------------------------+-------------------------------------------------------------+
+| COMMON NAME                | DREAM .INC                                                  |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | DREAM                                                       |
++----------------------------+-------------------------------------------------------------+
+| KNOWN ALIASES              | Dream Incorporated; DREAM Health; local building names      |
+|                            | restricted                                                  |
++----------------------------+-------------------------------------------------------------+
+| NATURE CLASS               | CORPORATE                                                   |
++----------------------------+-------------------------------------------------------------+
+| ALIGNMENT CLASS            | BUSINESS                                                    |
++----------------------------+-------------------------------------------------------------+
+| REACH CLASS                | NATIONAL                                                    |
++----------------------------+-------------------------------------------------------------+
+| ANOMALOUS CAPABILITY       | ENGINEERING                                                 |
++----------------------------+-------------------------------------------------------------+
+| THREAT LEVEL               | 4                                                           |
++----------------------------+-------------------------------------------------------------+
+| SECRECY RISK               | EXPOSURE-ACTIVE                                             |
++----------------------------+-------------------------------------------------------------+
+| A.C.T POSTURE              | INFILTRATE / CONTAIN / APPROPRIATE                          |
++----------------------------+-------------------------------------------------------------+
+| KNOWN LEADERSHIP           | Unresolved corporate executive structure; local directors   |
+|                            | use compartmented identities                                |
++----------------------------+-------------------------------------------------------------+
+| KNOWN MEMBERSHIP           | Large workforce, contractors, sellers, and consumers; exact |
+|                            | roles compartmented                                         |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY ACTIVE REGION      | National distributed corporate footprint; exact             |
+|                            | concentration unresolved                                    |
++----------------------------+-------------------------------------------------------------+
+| KNOWN ASSETS               | Dream Nectar Extraction Apparatus, Dream-Type Anomaly,      |
+|                            | product supply, buildings, and consumer data                |
++----------------------------+-------------------------------------------------------------+
+| KNOWN HOLDINGS             | At least twelve open company buildings; additional support  |
+|                            | locations suspected                                         |
++----------------------------+-------------------------------------------------------------+
+| IDEOLOGY                   | Commercial wish fulfillment through Dream Nectar extraction |
+|                            | and sale                                                    |
++----------------------------+-------------------------------------------------------------+
+| HISTORY WITH A.C.T         | Linked product, building, and source-anomaly pattern opened |
+|                            | the current dossier                                         |
++----------------------------+-------------------------------------------------------------+
+| ANOMALY CROSS-REFERENCE    | [REDACTED] Dream-Type Anomaly and extraction apparatus;     |
+|                            | separate files restricted                                   |
++----------------------------+-------------------------------------------------------------+
+| CURRENT STATUS             | ACTIVE - at least twelve open buildings confirmed; full     |
+|                            | network unresolved                                          |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY FILE AUTHORITY     | Intelligence Division, Corporate Exploitation Desk          |
++----------------------------+-------------------------------------------------------------+
+| SITE JURISDICTION          | Central Command with ACT-SITE-03 review and ACT-SITE-01     |
+|                            | commercial support                                          |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4; Level 5 for source anomaly and machine material    |
++----------------------------+-------------------------------------------------------------+
+```
+
+**Archive Status:** Active Restricted Record
+**Distribution:** Intelligence / Security / Recovery / Containment / Medical / Civil Covert / Command
+**Authority:** Intelligence Division, Corporate Exploitation Desk, with Central Archive custody
+
+### Archive Note
+DREAM .INC is a large company in possession of a mysterious anomalous machine capable of extracting a substance called Dream Nectar from at least one Dream-Type Anomaly. The company sells the substance as underground medicine. Its central sales claim is that a consumer's wish will come true in their dream after use.
+
+A.C.T has not accepted DREAM .INC's advertising claim as a complete description of the product. The evidence establishes that Dream Nectar can alter dream experience in a wish-directed pattern. It does not establish that every stated wish appears exactly as advertised, that the experience ends when the consumer wakes, or that the company understands the full cost of repeated extraction from the source anomaly. The product's commercial promise, its covert distribution, and the machine's unknown operating condition make DREAM .INC an active corporate Group of Interest rather than a conventional unlicensed medicine seller.
+
+---
+
+# IDENTITY AND INSTITUTIONAL FUNCTION
+
+## A Company That Sells Private Fulfillment
+
+DREAM .INC presents itself through a changing collection of ordinary corporate identities connected to sleep support, wellness, private consultation, dream analysis, recovery services, and discreet pharmaceutical assistance. The legal name that appears on a local building is not always the name used in product distribution. The stable identifier in A.C.T records is the stylized corporate mark **DREAM .INC**.
+
+The company does not sell a public cure for insomnia or a licensed treatment for recognized illness. It sells an underground promise: consume Dream Nectar, state or hold a wish, sleep, and receive that wish in dream form. The promise is intentionally personal. A client does not need to believe in anomalies, join an organization, or understand the machine that created the substance. They only need to want something that ordinary life has failed to provide.
+
+This is the company's primary institutional function. DREAM .INC converts a private longing into a repeatable commercial demand, then uses that demand to finance access to an anomalous source. It does not need to persuade customers that the world is anomalous. It needs them to believe that the product works once, keep silent when it does, and return when waking life feels less satisfying than the dream it sold them.
+
+## Public Presence and Corporate Masking
+
+At least twelve company buildings are confirmed to be open and operating. These are not abandoned shells or sealed warehouses. They are active premises that receive deliveries, employ staff, maintain normal business hours, and present ordinary reasons for people to enter. Some use sleep, wellness, or recovery language. Others use generic consultancy or property-management language that creates distance from the product itself.
+
+The buildings are useful because their openness makes them difficult to classify as a single hidden base. A closed black site invites attention. A clean lobby, a receptionist, an appointment system, ordinary maintenance staff, and a plausible service offering create a civilian layer around more restricted activity. The company can dismiss a concern as a privacy matter, a health matter, a trade-secret matter, or an administrative misunderstanding before it is forced to acknowledge any relationship to Dream Nectar.
+
+No employee should be presumed aware of the whole operation simply because they work in a confirmed building. DREAM .INC appears designed to keep public-facing staff, clinical workers, maintenance personnel, couriers, data contractors, product sellers, and source-anomaly personnel in separate knowledge compartments.
+
+## The Name DREAM .INC
+
+The company uses the word DREAM as both a brand and a shield. It is broad enough to sound harmless and emotionally attractive, while also functioning as a promise that the company can place a desired reality inside a person's sleep. The space before `.INC` is retained in the file because the stylized mark is repeated across recovered material and customer-facing packaging.
+
+A.C.T personnel should use the full designation in internal records. Public-facing cover operations must not repeat the mark unnecessarily. The company gains from every unqualified person who learns there may be a purchasable way to alter dreams.
+
+---
+
+# ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
+
+## Executive Condition
+
+No verified public executive structure accounts for the full DREAM .INC network. Local building directors, product representatives, and legal contacts use non-overlapping identities and appear able to operate without receiving the same information. Some describe their employer as a legitimate private health company. Others speak only of a contracted service chain. None of the confirmed public-facing personnel has supplied a reliable path to the person or body that controls the Dream Nectar source and the extraction machine.
+
+A.C.T therefore records leadership as **unresolved**. This does not mean the company lacks command. A company that can operate at least twelve open buildings, maintain controlled product supply, manage repeated consumer demand, and prevent staff from assembling the full picture has a functioning leadership system whether or not its executives are visible.
+
+The most likely command conditions are a concealed board, a single protected owner, a rotating custody group around the machine, or a layered structure in which commercial executives do not know the anomalous source. None has been verified. Investigations must distinguish between a person who signs a lease and a person who decides how much Dream Nectar can be extracted from a Dream-Type Anomaly.
+
+## Building Layers
+
+Confirmed buildings display different public functions, but their internal structure follows a recurring separation of access.
+
+### Public Layer
+
+The public layer handles appointments, customer contact, paperwork, ordinary sales language, payment routing, and the appearance of a legitimate service business. Staff at this level may believe they are working for a high-end sleep or wellness provider. They are the most visible part of the company and the least reliable source of source-anomaly information.
+
+### Restricted Consultation Layer
+
+The restricted layer screens customers, evaluates whether a person is likely to return, manages confidentiality pressure, gathers dream reports, and directs selected consumers toward underground product access. Personnel in this layer may understand that the company sells an unlicensed substance, but they are not necessarily told how it is made.
+
+### Product Custody Layer
+
+The product custody layer stores, divides, labels, moves, and accounts for Dream Nectar. This layer has practical knowledge of batch handling and demand, but its procedures may be copied from operating habit rather than genuine anomaly understanding. A person who knows not to expose a vial to light, heat, sound, or a particular material may only know that a previous batch failed when that rule was ignored.
+
+### Source and Machine Layer
+
+The source and machine layer is the smallest and most protected part of the organization. It includes personnel with direct or indirect access to the Dream-Type Anomaly, the extraction apparatus, maintenance conditions, output records, and any process used to convert extracted material into saleable Dream Nectar. A.C.T has not confirmed whether the source anomaly is held in one of the twelve known buildings, moved between sites, or contained at an unlocated facility.
+
+## Workforce, Contractors, and Consumers
+
+DREAM .INC is a large company, but its total relevant membership cannot be measured by payroll. The operational body includes ordinary employees, senior managers, contractors, couriers, data handlers, product sellers, building staff, technical personnel, medical intermediaries, and recurring consumers who may spread the product through private networks.
+
+Consumers are not automatically members of the GOI. Most may know only that someone sold them a substance that promised a desired dream. They may be frightened, dependent, embarrassed, grieving, desperate, or unaware that their private dream reports feed a corporate system. A.C.T response must distinguish a customer seeking relief from an employee who profits from extraction, and both from a source-layer operator who understands the machine.
+
+The company benefits when its consumers feel isolated. A person who believes their wish was shown only to them is less likely to compare experiences, report harm, or realize that their dream has been converted into product data. This isolation is part of DREAM .INC's commercial security model.
+
+---
+
+# IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
+
+## The Wish as a Commodity
+
+DREAM .INC does not openly present an ideology. Its practical belief is commercial: a wish can be packaged, a dream can be directed, and the distance between a person's waking life and desired life can be monetized. The company turns an intimate psychological need into a private transaction, then makes that transaction difficult to examine because the claimed benefit occurs while the client is asleep.
+
+The product promise is carefully shaped. It does not guarantee money, physical healing, public success, or a changed waking world. It offers something more difficult to prove and easier to desire: the experience of having a wish come true in a dream. This allows the company to present failure as a problem with the consumer's state of mind, the specificity of their wish, the quality of sleep, or the need for another dose.
+
+A.C.T assesses the real objective as continued controlled extraction and expansion of a consumer market around dream fulfillment. The company may value individual customer relief, but no evidence supports treating care as its primary purpose. The scarce asset is not compassion. It is the Dream-Type Anomaly and the machine that turns its condition into product.
+
+## The Dream-Type Anomaly
+
+The source anomaly is withheld in this file as **[REDACTED] Dream-Type Anomaly**. It is known to generate, contain, produce, or otherwise sustain the condition from which Dream Nectar is extracted. The exact relationship between the source and the product is restricted because source-specific knowledge may expose a containment weakness or give DREAM .INC competitors a way to exploit the anomaly.
+
+A.C.T does not know whether the anomaly consents to extraction, understands extraction, is harmed by it, regenerates the substance naturally, or changes in response to the wishes imposed on its output. This uncertainty is central to the threat assessment. A medicine can be dangerous even when a customer reports relief. A product source can be stable for years and still fail catastrophically if its extraction condition is misunderstood.
+
+The company treats the source as an asset. A.C.T treats it as an anomaly requiring separate classification, welfare assessment where applicable, and containment analysis. These are not compatible approaches.
+
+## The Mysterious Extraction Machine
+
+DREAM .INC possesses an anomalous machine capable of extracting Dream Nectar from the Dream-Type Anomaly. The machine is not treated as ordinary laboratory equipment. Its construction, origin, power requirements, internal process, and full operating limits remain unresolved.
+
+The company may understand only enough to operate it. This is a serious possibility. A machine can produce a valuable result for years without its operators knowing what it removes, where the removed material is stored before bottling, what it leaves behind in the source anomaly, or how it connects the consumer's wish to the resulting dream. The apparent reliability of output is not proof of safety.
+
+A.C.T calls the device the **Dream Nectar Extraction Apparatus** for filing purposes. This is an archive designation, not a confirmed company name. No staff member is to assume that a recovered manual, machine label, or employee nickname identifies the apparatus correctly. The device may have a different identity in different company layers, or it may have no stable human-readable name at all.
+
+## Dream Nectar and the Claimed Effect
+
+Dream Nectar is an underground medicine sold with the claim that a consumer will have their wish come true in a dream. Available evidence supports a narrower but still dangerous finding: after use, some consumers report dream experiences arranged around a held or stated desire with unusual vividness, continuity, emotional force, and recall.
+
+The claim has three unresolved parts.
+
+1. **Wish recognition:** It is not known how the product identifies a wish. It may respond to conscious intention, spoken language, emotional fixation, remembered grief, recent conversation, or data collected by the company before sale.
+2. **Dream construction:** It is not known whether the dream is generated by the consumer, the source anomaly, the machine, a shared dream environment, or an interaction among all four.
+3. **Aftereffect:** It is not known whether the wish-directed dream ends with waking. Some consumers report only powerful recall. Others report sleep disruption, a need to return to the same dream, discomfort with ordinary reality, confusion about events that did not occur, or distress when a desired dream cannot be repeated.
+
+No A.C.T employee may consume Dream Nectar for research, empathy, cover maintenance, or personal reason outside a specific approved containment study. A product that promises subjective fulfillment can exploit the tester as effectively as it exploits a customer.
+
+## Engineering Capability Assessment
+
+DREAM .INC is classified **ENGINEERING** because it uses a machine-based extraction process to obtain, process, package, and distribute an anomalous substance. This classification does not state that the company designed the apparatus or understands the underlying anomaly. It reflects the scale of its direct technical interaction with anomalous material.
+
+The distinction matters. A handler can move an object according to learned rules. DREAM .INC has built a commercial supply system around active extraction. Its employees or contractors can maintain enough of a process to convert a Dream-Type Anomaly into recurring product. That makes the company capable of causing harm through overuse, miscalibration, unauthorized modification, product dilution, data misuse, or a failure to recognize that the machine has changed state.
+
+## Secrecy and Civilian Exposure
+
+DREAM .INC is classified **EXPOSURE-ACTIVE**. The product is underground, but underground does not mean contained. Every sale creates a customer. Every customer can tell a friend. Every wish report can become recruitment material. Every open building makes the company look more plausible to a person who would otherwise reject an impossible claim.
+
+The company does not need a public advertising campaign to expand. It can market through trusted referrals, private consultations, message groups, paid intermediaries, false medical discretion, and the shame that prevents consumers from reporting a product associated with their deepest desires. This creates an active exposure system even when the company appears quiet.
+
+---
+
+# OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
+
+## Known Open Building Network
+
+A.C.T has confirmed **at least twelve open buildings** used by DREAM .INC as company facilities. The number is a lower bound, not a claim that the network ends at twelve. Each confirmed building is active enough to maintain an ordinary corporate appearance. Some are direct customer-entry sites. Some are administrative or consultation sites. Some may support custody, data handling, product movement, or technical work behind an unrelated public function.
+
+The address list is restricted because publishing it would create panic, drive consumers toward the company, alert DREAM .INC to every known location, and potentially reveal where the source anomaly is not located. Individual building files are maintained by Intelligence Division under the DREAM .INC location index.
+
+The company has made the twelve-building condition strategically useful. If one building draws inquiry, it can be described as a local office. If two are linked, the company can claim normal expansion. If a product route is exposed, the relevant building can stop offering a service while the wider brand remains open elsewhere. The corporate network converts distribution into plausible administration.
+
+## Geographic Reach
+
+DREAM .INC is assigned **NATIONAL** reach based on the scale of the known corporate footprint and the ability to operate multiple open buildings under coordinated secrecy. No verified evidence currently supports a Transnational classification. Conversely, treating the network as merely local would ignore the demonstrated capacity to spread product, staffing, data, and cover methods beyond one isolated community.
+
+The primary active region is recorded as a distributed national corporate footprint rather than one named city. Precise regional concentration is still under review. This wording prevents A.C.T from making an unsupported geographic claim while recognizing that at least twelve functioning sites cannot be managed as unrelated local incidents.
+
+## Known Assets
+
+The following assets are confirmed or strongly assessed:
+
+- the mysterious Dream Nectar Extraction Apparatus;
+- at least one [REDACTED] Dream-Type Anomaly connected to the extraction process;
+- recurring Dream Nectar product supply;
+- at least twelve publicly open company buildings;
+- compartmented employees and contractors;
+- customer screening, appointment, payment, and confidential-report systems;
+- consumer dream reports and other sensitive personal data;
+- covert distribution channels that move the product outside ordinary medical regulation;
+- legal, administrative, and public-facing corporate cover;
+- the ability to convert private referral networks into new demand.
+
+The most dangerous asset may be consumer data. A wish report can reveal grief, fear, dependency, financial pressure, relationship conflict, trauma, medical need, and the reason a person may agree to a second transaction. If DREAM .INC combines these reports with product effects, it may be able to target people at their most vulnerable without ever describing itself as coercive.
+
+## Product Flow and Custody Method
+
+DREAM .INC's product chain is assessed to move through five broad conditions: source extraction, machine-mediated collection, controlled preparation, building or courier custody, and consumer handoff. Not every building handles every condition. The separation makes it harder for a single employee to identify both the source anomaly and the finished product route.
+
+The company is likely to use batch scarcity as both a safety measure and a sales device. Scarcity allows it to test demand, increase perceived value, identify returning consumers, and explain inconsistent effects without acknowledging whether a batch has degraded or the source has changed. A.C.T has not confirmed a stable dosage, shelf condition, or batch standard. Any vial, residue, packaging, or consumer sample must be handled as a potentially active anomalous material until Containment and Medical review clear it.
+
+## Consumer Acquisition Method
+
+The company does not need to promise a universal miracle. It only needs to locate people who are willing to pay for one private hour in which a wish feels real. This makes consumers vulnerable to a form of recruitment that resembles care.
+
+A prospective customer may enter through a normal building, be directed to a private consultant, complete an apparently confidential discussion, receive a suggested product route, and be warned not to discuss the experience with ordinary medical staff. The consultation may also gather the very information needed to make the later dream feel personally accurate. Whether this information guides the product, feeds the machine, or simply helps the company claim success is unresolved.
+
+A.C.T response cannot treat consumer contact as a simple narcotics case. The product is tied to a dream condition, private desire, and potential psychological dependence. The right intervention may require Medical Care, Intelligence, Civil Covert, and carefully limited disclosure rather than public seizure alone.
+
+---
+
+# HISTORY WITH A.C.T
+
+## File Formation
+
+The DREAM .INC file was opened after separate reports of unusually consistent wish-directed dreams were found to share common product language, similar confidentiality pressure, and links to active corporate buildings. Initial reports did not establish an anomalous company. People have vivid dreams, private wellness businesses exist, and unlicensed substances can make false promises without involving an anomaly.
+
+The pattern became a GOI matter when product evidence, building records, client handling, and restricted intelligence pointed toward a common corporate system. A.C.T subsequently identified the extraction apparatus and the Dream-Type Anomaly relationship as the central risk condition. The discovery that at least twelve open buildings were tied to the company changed the case from a product investigation into a national containment problem.
+
+The exact first recovery of Dream Nectar, the source anomaly's location, and the first confirmed observation of the machine remain restricted. Releasing those details could expose a current investigation or create a market for a product whose value is built on private desperation.
+
+## Current Relationship
+
+DREAM .INC has no formal relationship with A.C.T. The company benefits from remaining unidentified as an anomalous actor, while the Facility must prevent product expansion without warning the network before source and machine custody can be secured.
+
+A direct raid on every known building would be premature if it leaves the source anomaly and extraction apparatus unlocated. A passive observation approach would be unacceptable if product distribution continues to create dependent consumers and expose anomalous knowledge. The current posture therefore combines infiltration, containment, and appropriation: map the company, protect consumers, stop dangerous product movement, contain the source condition, and take custody of the machine when safe.
+
+---
+
+# A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
+
+## Responsible Jurisdiction
+
+**Central Command** and the **Intelligence Division, Corporate Exploitation Desk** hold primary file authority because DREAM .INC is a multi-building corporate structure with an unresolved source location and national reach.
+
+**ACT-SITE-03-JP-E / Kurokawa Archive Node** provides cognitive, dream-content, recording, data, and information-hazard review. Its role follows the product's relationship to memory, subjective experience, private reporting, and potentially contagious dream narratives rather than any claim that the company operates in the Site's geographic region.
+
+**ACT-SITE-01-US-W / Redwood Veil Complex** supports corporate-front tracing, artifact-route interdiction, covert recovery, building-entry planning, and black-market or underground-medicine links where product movement intersects commercial networks.
+
+**Medical Care Division** assesses consumers, exposed personnel, sleep disruption, memory contradiction, dependency, and any waking aftereffect. **Containment Division** assumes custody of recovered Nectar, source material, and machine components. **Civil Covert Division** manages narrow public explanations that protect patients and prevent product attention from becoming free advertising.
+
+## Posture Implementation
+
+### Infiltrate
+
+Infiltration is directed toward source and machine discovery, not mere collection of customer stories. Approved operations may map appointment systems, corporate leases, supply routes, payment structures, building staff roles, product custody conditions, client-referral patterns, and communication paths between open locations.
+
+No infiltrator may ingest Dream Nectar without a separate authorized study. A fabricated consumer history may be used only when it does not exploit a real person's private loss or create a new distribution path that A.C.T cannot safely control.
+
+### Contain
+
+Containment applies to active product batches, packaging, data records, consumer-exposure material, restricted addresses, the Dream-Type Anomaly, and the extraction apparatus. The order of custody must be decided by immediate risk. A batch moving toward consumers may require rapid seizure. A machine tied to a living or unstable source may require long observation before removal. A public building may require covert control rather than a visible closure.
+
+Recovered Dream Nectar is not to be stored as an ordinary pharmaceutical sample. It must be logged under anomaly-material procedure, isolated from staff sleep quarters, and handled only under Medical and Containment review. Consumer reports derived from the product are also restricted because they may contain false memories, personally identifying wishes, or language that functions as a product trigger.
+
+### Appropriate
+
+Appropriation means taking custody of the extraction apparatus, source-related records, product handling knowledge, and commercial intelligence when doing so reduces harm. It does not mean treating Dream Nectar as an acceptable Facility resource or continuing the company's consumer business under A.C.T control.
+
+The machine may prove useful for understanding the source anomaly or preventing uncontrolled extraction. That possibility is not permission to operate it casually. Any decision to test, move, disable, or retain the apparatus requires joint Intelligence, Containment, Medical, and O5-level review if the source anomaly's condition could change.
+
+## Response Limits and Red Lines
+
+A.C.T may not distribute Dream Nectar to maintain a cover identity, calm a consumer, recruit an informant, or finance an operation. The product's claimed benefit is inseparable from private dependency and an unknown extraction cost.
+
+A.C.T may not compel an exposed person to recount a wish-directed dream in front of unnecessary personnel. Dream reports are medical, psychological, intelligence, and privacy-sensitive material. Collection must be limited to what is necessary for containment.
+
+No operation may damage, exhaust, or destroy the Dream-Type Anomaly merely to deny DREAM .INC its product supply unless Containment determines that immediate source failure is less dangerous than continued extraction. The source is not a corporate resource and not a disposable tactical object.
+
+---
+
+# OPERATIONAL RECORDS
+
+## Open Building Survey - Restricted Extract
+
+A coordinated review of publicly open company locations established twelve buildings with direct or indirect links to DREAM .INC. The shared link was not a common sign, leaseholder, or public executive. It was an overlap in appointment routing, client confidentiality language, unusual after-hours delivery windows, product-adjacent payment handling, and employee movement between otherwise unrelated corporate functions.
+
+The survey did not authorize immediate closure. Several locations hosted ordinary employees and clients who could not be assumed to know the product system. Intelligence Division maintained observation while Civil Covert prepared non-anomalous explanations for any later intervention. The review showed that DREAM .INC's openness is an operational shield: the company can hide a restricted product chain inside structures designed to look too ordinary to be connected.
+
+## Dream Nectar Batch Recovery - Restricted Extract
+
+Recovery personnel obtained a sealed product batch after a private referral chain was disrupted. Packaging used wellness language and did not identify the source anomaly, machine, or corporate executive. A consumer-facing insert instructed users to protect the experience from skeptical people and to avoid discussing the dream with ordinary clinicians. This language was assessed as both marketing and isolation pressure.
+
+Medical review found that the batch could not be treated as a standard medication sample. The material was associated with altered sleep reports and unusually persistent dream recall. No reproduction testing was authorized at recovery stage. The batch was transferred to controlled storage while Intelligence traced the referral route rather than exposing every person who had received a vial.
+
+## Apparatus Maintenance Indicator - Restricted Extract
+
+An internal company communication referenced an interruption described only as a quiet machine condition. The message directed selected staff to delay appointments, reclassify client reports, and avoid accepting certain wishes until an unspecified correction had been completed. No public building announced a closure.
+
+The communication did not reveal the apparatus location, but it established that machine condition can alter consumer-facing business behavior. A.C.T now treats sudden appointment restrictions, changes in product claims, unusual batch scarcity, or urgent collection of dream reports as possible indicators of a source or machine-state change.
+
+---
+
+# INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
+
+## Confirmed Operational Facts
+
+- DREAM .INC is a large company using a distributed corporate structure.
+- The company possesses a mysterious anomalous machine that extracts Dream Nectar from at least one [REDACTED] Dream-Type Anomaly.
+- DREAM .INC sells Dream Nectar as underground medicine.
+- The product is sold with the claim that a consumer's wish will come true in their dream.
+- At least twelve open buildings are confirmed as company facilities.
+- The full executive structure, source location, machine origin, and total distribution footprint remain unresolved.
+
+## Active Intelligence Assessment
+
+DREAM .INC's greatest strength is not the number of buildings alone. It is the company's ability to make an anomalous supply chain look like private care. Each building can appear lawful, each employee can know only part of the system, and each consumer can be made to believe their experience is too personal to report. This lets the company turn secrecy into a service feature.
+
+The extraction apparatus is the central leverage point, but it cannot be treated as a simple object to seize. If the machine regulates a source anomaly, abrupt interference could harm the anomaly, contaminate product stock, alter consumer dream states, or produce a wider cognitive event. A.C.T must understand enough of the relationship to stop extraction without repeating the company's own mistake of treating the source as a machine part.
+
+The twelve known buildings should be treated as evidence of an operating model, not a complete map. The company may maintain unconfirmed offices, courier nodes, data stores, product preparation rooms, or source sites outside the visible corporate network. The current count establishes a lower limit on reach and a reason for continued infiltration.
+
+## Persistent Questions
+
+- Is Dream Nectar extracted from one Dream-Type Anomaly or from multiple sources?
+- Does the extraction apparatus create the dream effect, capture it from the source, or connect consumers to a shared dream condition?
+- Is the source anomaly aware of, harmed by, or altered through repeated extraction?
+- Who controls the machine, and are corporate executives aware that it is anomalous?
+- Which of the twelve confirmed buildings handles source-adjacent work, machine maintenance, product custody, consumer screening, or ordinary cover activity?
+- Are Dream Nectar wishes collected from consumers only for marketing, or do they affect extraction output and source-anomaly behavior?
+- Do repeated users develop a dependency on dream fulfillment, false memory, altered desire, or a waking effect not yet reported to A.C.T?
+- What event would force the company to abandon open buildings and move its machine or source into a more dangerous hidden condition?
+
+## Intelligence Confidence
+
+**Moderate.** The company, anomalous extraction process, underground product, consumer claim, and twelve open-building minimum are confirmed. The source anomaly's condition, machine origin, executive command, full distribution route, exact building functions, and long-term consumer effects are incomplete. Confidence will increase through controlled building access, safe product recovery, protected consumer interviews, machine-condition correlation, and source-anomaly discovery.
+
+---
+
+# CROSS-REFERENCE STATUS
+
+## Anomaly and Record Relationship
+
+The [REDACTED] Dream-Type Anomaly and the Dream Nectar Extraction Apparatus require separate restricted anomaly files. This GOI record documents the company that exploits them. It must not be used as a substitute for source-anomaly containment procedure, machine analysis, medical handling guidance, or product-batch records.
+
+DREAM .INC itself is currently filed as a corporate organization, not an anomalous collective. Dual filing is **not required** for the company as a whole. If evidence establishes that its executive structure, building network, client database, or commercial process is itself anomalous, a separate AFD file must be opened and cross-linked without removing this organizational dossier.
+
+## Related A.C.T Records
+
+- GOI Registry and External Threat Doctrine Archive - classification and posture authority.
+- Site Map and Jurisdiction Doctrine - cross-site assignment and corporate-route response.
+- Facility Divisions, Personnel Roles, and Operational Life - Intelligence, Medical, Recovery, Containment, Civil Covert, and Security responsibilities.
+- Anomaly Classification Manual Archive - separate filing of the Dream-Type Anomaly, extraction apparatus, and Dream Nectar material.
+- Anomaly Log Categories In-World Explanation - controlled recovery, medical, incident, and exposure documentation.
+
+---
+
+# FILE METADATA
+
+```text
+FILE CREATED:            06/09/2026
+FILE LAST UPDATED:       06/09/2026
+FILE AUTHOR:             Intelligence Division, Corporate Exploitation Desk
+REVIEWED BY:             Central Archive / Medical Care Division /
+                          Containment Division / ACT-SITE-03 Liaison
+FILE STATUS:             Active Restricted Record
+DESIGNATION HISTORY:     GOI-CP-B-049 - initial controlled registry filing
+RECORD CONDITION:        Operational dossier; source and machine files restricted
+```
+
+```text
+THE COMPANY DOES NOT SELL A DREAM. IT SELLS THE MOMENT A PERSON STOPS
+ASKING WHAT WAS TAKEN FROM THEM TO MAKE THAT DREAM POSSIBLE.
+```
