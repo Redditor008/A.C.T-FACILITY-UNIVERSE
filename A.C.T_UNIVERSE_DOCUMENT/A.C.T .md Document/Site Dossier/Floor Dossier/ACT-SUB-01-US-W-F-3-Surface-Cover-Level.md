@@ -1,0 +1,383 @@
+# A.C.T FACILITY ARCHIVE FILE
+## Floor Dossier — F-3, Surface Cover Level
+## ACT-SUB-01-US-W — Glass Orchard Relay
+## Western United States
+
+**Archive Status:** Active
+**Distribution:** Internal / Command / Security / Administration
+**Authority:** Central Archive / Site Governance Review / Administration
+**File Class:** Floor Dossier — Individual Level Record
+**Dossier Number:** FLOOR-DOSSIER-SUB-01-US-W-F-3
+**Compiled By:** Central Archive, Site Records Office
+**Compilation Standard:** ACT Site Registry File Standard / ACT Floor Record Standard
+
+---
+
+## Archive Note
+
+This file is the complete individual record of **F-3, the Surface Cover
+Level**, the surface-adjacent floor of **ACT-SUB-01-US-W, the Glass Orchard
+Relay**.
+
+F-3 is the agricultural biotech campus that gives the relay its name and
+its cover: greenhouses, legitimate laboratories, and the administrative
+face of the cover identity. Genuine agricultural research occurs here — 
+real work, conducted in the open, that explains the site's existence to
+anyone who asks. Beneath the glasshouses, the relay's operational levels do
+the work the campus exists to conceal.
+
+This dossier records the floor in full institutional language: what it is,
+how it conceals, how it is built, and how the relay's cover is maintained
+through genuine science conducted above a buried staging installation.
+
+---
+
+## 1. Floor Registry Identity Summary
+
+**Site Designation:** ACT-SUB-01-US-W
+**Site Codename:** Glass Orchard Relay
+**Parent Command:** ACT-SITE-01-US-W — Redwood Veil Complex
+**Floor Designation:** F-3
+**Floor Name:** Surface Cover Level
+**Floor Type:** Surface Cover and Transition Level
+**Vertical Position:** Surface-adjacent floor of the relay's buried
+component
+**Floor Above:** None numbered — the legitimate surface campus structures
+**Floor Below:** F-2 (Processing and Staging Level)
+**Containment Character:** Non-resident surface cover and research
+infrastructure
+**Primary Function:** Greenhouses, legitimate laboratories, and the
+administrative face of the relay's agricultural biotech cover; transition
+point for material and personnel entering the buried component
+**Distinctive Feature:** The relay's cover identity — genuine agricultural
+research conducted in the open
+**Access Posture:** Public and semi-public access under cover doctrine
+**Current Status:** Active
+
+---
+
+## 2. Dossier Purpose
+
+The Glass Orchard Relay exists to absorb overflow that must never be seen.
+But an installation cannot simply exist in hiding — a private site with
+buildings, staff, and traffic requires a reason to exist that the ordinary
+world can see and accept.
+
+F-3 provides that reason. It is the agricultural biotech station that gives
+the relay its name: a campus of greenhouses and laboratories where genuine
+genetically-improved-crop research is conducted in the open. The name
+"Glass Orchard" is drawn directly from the cover — the glasshouses are a
+genuine part of the site's legitimate face, and the biotech framing explains
+the laboratories, climate-controlled structures, and quiet rural location
+that the buried relay requires.
+
+---
+
+## 3. Position in the Site Stack
+
+### 3.1 Vertical Position
+
+F-3 is the uppermost floor of the relay's buried component, sitting
+directly below the legitimate surface campus structures and above the
+Processing and Staging Level of F-2. It is the relay's boundary with the
+ordinary world.
+
+### 3.2 Relationship to the Surface Campus
+
+The level's greenhouses, laboratories, and administrative buildings rise
+above the buried component, presenting the relay to the world as an
+agricultural biotech station. The campus's genuine research activity is
+conducted openly on this level.
+
+### 3.3 Relationship to F-2
+
+Personnel and material that must pass between the surface and the relay's
+operational levels descend through F-3 into F-2, under the transition
+control that the cover requires. F-3 is the physical boundary; the
+processing floor below is the operational boundary.
+
+---
+
+## 4. Historical Foundation
+
+### 4.1 Development of the Cover Campus
+
+F-3's character developed with the relay's founding: a covert witness
+routing point required a legitimate identity, and the agricultural biotech
+cover was developed as the site's public face. The campus was built to
+conduct real research from the beginning — a cover that could withstand
+scrutiny because its science was genuine.
+
+### 4.2 The Glass Orchard Identity
+
+The relay's name — and the level's character — derive from the cover's
+defining feature: the glasshouses of the agricultural biotech station. The
+"Glass Orchard" framing explains the site's greenhouses, its
+climate-controlled structures, its restricted growing areas, and its quiet
+rural location — every physical feature the buried relay requires.
+
+### 4.3 Modern Configuration
+
+In its modern configuration, F-3 is the relay's legitimate face: an
+agricultural biotech campus conducting genuine research above a buried
+staging installation.
+
+---
+
+## 5. Command and Authority
+
+### 5.1 Campus Command
+
+F-3 operates under the relay's Sub-Site Chief, administered day-to-day by
+a **Campus Manager** responsible for the cover campus's legitimate
+operations.
+
+### 5.2 Authority over the Cover
+
+The Campus Manager holds authority over the level's legitimate functions:
+the agricultural research program, the greenhouses and laboratories, and
+the campus's public administration.
+
+### 5.3 Authority Limits
+
+F-3 holds no authority over the relay's operational functions. Its
+authority is over the cover campus — and its most important duty is the
+maintenance of the boundary between the campus's visible science and the
+buried relay's processing work.
+
+---
+
+## 6. Divisional Presence
+
+### 6.1 Cover Research Staff
+
+The campus's agricultural research staff conduct the legitimate science
+that maintains the cover: genuine crop-improvement research in the
+greenhouses and laboratories, pursued openly and professionally.
+
+### 6.2 Campus Administration
+
+The campus administration operates the level's public functions:
+administration, logistics, and the ordinary operations of the biotech
+station.
+
+### 6.3 Security Staff (Boundary)
+
+Security personnel operate the campus's boundary functions: the control
+architecture through which material and personnel pass between the surface
+and the buried relay, concealed within the campus's ordinary operations.
+
+---
+
+## 7. Physical Plant and Architecture
+
+### 7.1 Layout
+
+F-3's campus comprises the relay's legitimate surface structures:
+- the greenhouses — the glasshouses that give the relay its name;
+- the legitimate research laboratories;
+- the administrative buildings;
+- the restricted growing areas;
+- the campus's concealed transition architecture connecting to the buried
+  levels below.
+
+### 7.2 The Greenhouses
+
+The campus's greenhouses are its defining feature: working glasshouses
+where genuine crop research is conducted. The greenhouses explain the
+site's climate-controlled structures and restricted growing areas — the
+same infrastructure that conceals the environmental systems of the buried
+component below.
+
+### 7.3 The Research Laboratories
+
+The campus's laboratories conduct genuine agricultural biotech research:
+crop improvement, genetic work, and the professional science of the cover
+identity. The research is real — the relay's cover is built on work that
+can withstand scrutiny.
+
+### 7.4 The Concealed Transition Architecture
+
+The level's buried component is its transition architecture: the concealed
+control points through which screened personnel and material pass from the
+cover campus into the relay's operational levels. The architecture is
+designed to be indistinguishable from ordinary station infrastructure —
+loading areas, service corridors, and utility spaces that give no sign of
+what lies beneath.
+
+---
+
+## 8. Systems and Infrastructure
+
+### 8.1 Power
+
+F-3 draws on the campus's legitimate power infrastructure, with the buried
+relay protected by the installation's backup systems.
+
+### 8.2 Environment
+
+The level's structures are engineered for their agricultural function:
+greenhouse climate control, laboratory environments, and the ordinary
+systems of a working biotech campus.
+
+### 8.3 Monitoring
+
+Monitoring on F-3 is boundary-oriented: campus traffic, delivery flow, and
+the concealed transition points are monitored under the relay's security
+doctrine, with the monitoring architecture concealed within the campus's
+ordinary systems.
+
+### 8.4 Communication
+
+The campus maintains its legitimate communications — the professional
+operations of the biotech station — alongside the relay's secure internal
+networks.
+
+---
+
+## 9. Security and Boundary Architecture
+
+### 9.1 Cover Doctrine
+
+F-3's defining security function is its cover: the campus's genuine
+agricultural research, greenhouses, and administration present the relay
+to the world as a private biotech station. The cover is reinforced by
+genuine activity — the site grows real crops and conducts real research,
+and observers who look closely find nothing false.
+
+### 9.2 Low-Visibility Doctrine
+
+The campus is optimized for low-visibility processing: the relay is
+designed to receive material and people without anyone outside the
+Facility noticing the traffic. Deliveries, vehicle movements, and staff
+arrivals are framed within the campus's legitimate logistics.
+
+### 9.3 Concealed Transition Doctrine
+
+The level's transition architecture is controlled and concealed: the
+passage between the cover campus and the buried relay is governed by the
+relay's access doctrine, and the routes are designed to be
+indistinguishable from ordinary agricultural logistics.
+
+### 9.4 Incident Response
+
+F-3 maintains incident response for cover events: cover incidents,
+boundary incidents, and attempts to penetrate the transition architecture
+are met with the relay's response doctrine, with the buried component
+sealed behind the level if the surface boundary is threatened.
+
+---
+
+## 10. Function and Character
+
+### 10.1 Cover Function
+
+F-3 is the relay's legitimate face: the agricultural biotech campus whose
+genuine research and glasshouses conceal the buried staging installation
+beneath it.
+
+### 10.2 Transition Function
+
+F-3 is the relay's surface gateway: the level through which material and
+personnel pass between the ordinary world and the relay's processing
+levels.
+
+### 10.3 Holding Character
+
+F-3 holds no anomalous material. Its holdings are the legitimate campus's
+research operations, and its population is the biotech station's staff and
+legitimate visitors. Nothing anomalous remains on this level beyond the
+time required for transition below.
+
+---
+
+## 11. Personnel and Duty Life
+
+### 11.1 Staffing
+
+F-3's population comprises the campus's legitimate personnel: agricultural
+researchers, greenhouse and laboratory staff, administrators, and the
+boundary security staff who control the concealed transition.
+
+### 11.2 Duty Life
+
+Duty on F-3 is legitimate research and campus work: crop research,
+greenhouse operations, administration, and the ordinary activity of a
+biotech station. The level's personnel perform genuine work in the open —
+under the discipline of personnel who know that their visible campus
+conceals the relay below.
+
+### 11.3 Cover Discipline
+
+The level's personnel work under cover discipline: their professional
+reputations and daily operations are part of the relay's concealment. The
+research is genuine, and so is the discipline of those who conduct it.
+
+---
+
+## 12. Floor Doctrine
+
+### 12.1 Cover Doctrine
+
+F-3 doctrine holds that concealment is built on genuine activity: the
+campus's agricultural research must withstand scrutiny because it is real.
+The relay's cover is not a lie maintained by secrecy — it is a truth
+maintained by discipline.
+
+### 12.2 Low-Visibility Doctrine
+
+F-3 doctrine holds that the relay's processing must be invisible: the
+campus is optimized so that the traffic of the buried relay is absorbed
+into the ordinary logistics of a working biotech station.
+
+### 12.3 Separation Doctrine
+
+F-3 doctrine holds that the campus's public science and the relay's buried
+work must remain separate: the world sees an agricultural biotech station,
+and the relay's processing continues beneath it, undisturbed and unseen.
+
+---
+
+## 13. Incident Archive
+
+The floor's incident record is dominated by cover and boundary events:
+cover incidents, boundary incidents, and attempts to penetrate the
+transition architecture. The relay's history records the incidents that
+have tested the campus boundary — and the cover has held.
+
+---
+
+## 14. Current Status and Projected Development
+
+F-3 is **Active** and operating within its designed capacity. Projected
+priorities include:
+- continued operation of the legitimate agricultural biotech campus;
+- maintenance of the concealed transition architecture;
+- preservation of the campus's cover discipline.
+
+---
+
+## 15. Cross-Referenced Files
+
+- `ACT-SUB-01-US-W — Glass Orchard Relay` Sub-Site Dossier
+- `ACT-SUB-01-US-W — F-2 Processing and Staging Level` Floor Dossier
+- `ACT-SITE-01-US-W — Redwood Veil Complex` Site Dossier
+- `ACT_Global_Site_Registry.md` / `.txt`
+- `ACT_Site_Doctrine_and_Installation_Structure.md` / `.txt`
+- Parent command Annex Register (clearance-gated)
+
+---
+
+## Archive Closing
+
+F-3, the Surface Cover Level, is the legitimate face of the Glass Orchard
+Relay: the agricultural biotech campus of greenhouses and laboratories
+whose genuine crop research gives the relay its name and its reason to
+exist in the open — and whose glasshouses conceal the buried staging
+installation beneath them.
+
+It is the campus where the relay meets the world: a surface of real
+science and real agriculture, an orchard of glass above a floor where the
+impossible is processed in passing — and a cover maintained by people whose
+visible work is true, because in the rural quiet of the biotech station,
+truth is the best concealment the Facility has.

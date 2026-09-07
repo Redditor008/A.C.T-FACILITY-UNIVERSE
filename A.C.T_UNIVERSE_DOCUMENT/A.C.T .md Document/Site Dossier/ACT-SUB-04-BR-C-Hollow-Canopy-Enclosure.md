@@ -1,0 +1,301 @@
+# A.C.T FACILITY ARCHIVE FILE
+## ACT-SUB-04-BR-C — Hollow Canopy Enclosure
+## Sub-Site Dossier — Central Brazil
+
+**Archive Status:** Active
+**Distribution:** Internal / Command / Archive / Research
+**Authority:** Central Archive / Site Governance Review / Administration
+**File Class:** Site Dossier — Individual Installation Record
+**Dossier Number:** SUB-SITE-DOSSIER-04-BR-C
+**Compiled By:** Central Archive, Site Records Office
+**Compilation Standard:** ACT Site Registry File Standard
+
+---
+
+## Archive Note
+
+This file is the complete individual dossier for **ACT-SUB-04-BR-C**, the
+**Hollow Canopy Enclosure**, a recognized SUB-SITE installation of the A.C.T
+Facility network operating under the command authority of **ACT-SITE-04-BR-C,
+Verde Null Bio-Reserve**.
+
+Hollow Canopy is not a building-dominant installation. It is a concealed
+perimeter: a network of fixed-enclosure sectors within the Bio-Reserve where
+non-movable flora anomalies are observed, managed, and contained in place.
+It exists because the Verde Null Bio-Reserve learned — through repeated
+failed relocation attempts — that some anomalies are safer, and only
+containable, where they grow.
+
+This dossier records the enclosure in full institutional language: what it
+is, what it contains, why it exists as a sub-site, how it is governed, and
+how it supports the parent reserve.
+
+---
+
+## 1. Registry Identity Summary
+
+**Site Designation:** ACT-SUB-04-BR-C
+**Codename:** Hollow Canopy Enclosure
+**Site Type:** Sub-Site
+**Location:** Central Brazil (concealed sectors within the Verde Null Bio-Reserve)
+**Command Authority:** Reports to ACT-SITE-04-BR-C
+**Primary Function:** In-place observation and enclosure of non-movable flora anomalies
+**Divisions Present:** Environmental Containment, Research Support, Limited Security
+**Containment Profile:** Fixed Biological / Flora / Remote Monitoring Field
+**Regional Jurisdiction:** Specific reserve sectors under Verde Null Bio-Reserve control
+**Notable Features:** Exists as a concealed perimeter rather than a conventional building-dominant installation
+**Current Status:** Active
+**History Notes:** Recognized as a sub-site after repeated failed relocation attempts proved certain flora anomalies safer in native containment fields.
+**Security Notes:** Transport denial is built into containment doctrine for several housed anomalies.
+
+---
+
+## 2. Dossier Purpose
+
+Some anomalies grow. And some of what grows cannot be moved: transport kills
+it, or its anomalous properties are bound to its soil, or the attempt to
+relocate it triggers behavior that makes containment impossible. For these
+anomalies, the Facility maintains in-place containment — and for the flora
+among them, it maintains Hollow Canopy Enclosure.
+
+The enclosure is where the reserve's non-movable flora anomalies live: a
+series of concealed perimeter sectors where impossible plants are observed,
+studied, and contained within the environment they require.
+
+---
+
+## 3. Site Profile and Cover Architecture
+
+### 3.1 Geography
+
+The enclosure occupies designated sectors within the Verde Null Bio-Reserve's
+territory — areas of forest and transitional wilderness selected for their
+suitability to the residents they hold. Each sector is chosen for its
+environmental match to the anomaly contained within it.
+
+### 3.2 Cover Identity
+
+The enclosure has no separate public cover identity. It exists within the
+Bio-Reserve's legitimate research land and is concealed by the reserve's
+overall cover — protected wilderness sectors that ordinary research never
+enters.
+
+### 3.3 Why a Sub-Site
+
+The enclosure exists as a sub-site because it is a specialized extension of
+the reserve rather than an independent installation. It has no campus, no
+independent command, and no mandate beyond the in-place management of its
+flora residents.
+
+---
+
+## 4. Historical Foundation and Evolution
+
+### 4.1 The Relocation-Failure Doctrine
+
+The enclosure's origin lies in the relocation-failure records of the reserve:
+repeated attempts to move non-movable flora anomalies to interior containment
+that ended in degradation, escalation, or death. Each failure reinforced the
+same lesson — some anomalies belong to their location, and moving them is the
+containment failure.
+
+### 4.2 Development of Native Containment Fields
+
+The reserve responded by developing native containment fields: perimeter-
+defined sectors where flora anomalies were managed in the environment they
+required. The earliest fields were simple; over time they grew into a
+coordinated enclosure network.
+
+### 4.3 Recognition as a Sub-Site
+
+The enclosure network was recognized as a formal sub-site after its
+distinct role became clear: a dedicated body managing the reserve's fixed
+flora holdings under in-place doctrine, with transport denial built into its
+containment design.
+
+### 4.4 Modern Role
+
+Today the enclosure functions as:
+- the in-place observation and management body for the reserve's non-movable
+  flora anomalies
+- the demonstration of the Facility's in-place containment doctrine
+- a research site for the study of place-bound anomalous biology
+
+---
+
+## 5. Command and Governance
+
+### 5.1 Command Structure
+
+The enclosure is administered by an **Enclosure Supervisor** appointed by the
+Verde Null Bio-Reserve's Site Director, operating under the reserve's
+biological containment review structure.
+
+### 5.2 Relationship to the Parent Reserve
+
+The enclosure reports to ACT-SITE-04-BR-C for all operational matters:
+sector management policy, resident assessment, research authorization, and
+emergency response. The reserve's Environmental Containment Division provides
+the enclosure's operational support.
+
+### 5.3 Command Limits
+
+The enclosure's command limits are explicit:
+- no transport of residents whose doctrine requires in-place containment
+- no interior containment for flora bound to native fields
+- no independent research authority
+- no transformation work without the parent reserve's authorization
+
+---
+
+## 6. Divisional Presence and Daily Function
+
+### 6.1 Environmental Containment
+
+The enclosure's Environmental Containment staff are its operational core:
+ranger-ecologists who maintain the sector perimeters, monitor resident
+condition, and manage the environments that keep each flora anomaly stable.
+Their work is the in-place containment doctrine made daily practice.
+
+### 6.2 Research Support
+
+Research Support personnel conduct the enclosure's observation programs:
+documenting resident behavior, growth patterns, and environmental
+interactions under the reserve's research authority.
+
+### 6.3 Limited Security
+
+Limited Security personnel enforce the concealed boundaries between
+enclosure sectors and the reserve's legitimate research areas, and respond
+to any incursion into anomalous territory.
+
+---
+
+## 7. Physical Plant and Internal Structure
+
+The enclosure is not a building-dominant installation. Its "plant" is the
+sector network itself:
+
+### 7.1 Concealed Perimeter Sectors
+
+Each sector is a perimeter-defined area containing one or more flora
+residents. Perimeters are concealed — monitoring infrastructure is disguised
+as natural terrain, and the boundary between anomalous flora and ordinary
+forest is deliberately invisible.
+
+### 7.2 Field Stations
+
+The enclosure maintains small concealed field stations within or adjacent to
+its sectors: minimal structures housing monitoring equipment, observation
+posts, and the limited staff presence the enclosure requires.
+
+### 7.3 The "Hollow Canopy"
+
+The enclosure's name derives from its operational reality: beneath an
+ordinary-looking forest canopy, hollow spaces exist — concealed clearings,
+underground observation posts, and environmental control infrastructure
+tucked into the wilderness where impossible flora grows.
+
+---
+
+## 8. Containment and Operational Doctrine
+
+### 8.1 In-Place Management Doctrine
+
+The enclosure's defining protocol is in-place management: flora residents are
+contained by managing the environment they occupy rather than by moving them
+into built containment. The perimeter, the environment, and the monitoring
+network together form the containment system.
+
+### 8.2 Transport Denial Doctrine
+
+For several residents, transport denial is built into containment doctrine:
+the anomaly is not to be moved, under any circumstances. Transport denial is
+recorded as a containment requirement, not an operational preference — moving
+the resident is the containment failure.
+
+### 8.3 Observation Doctrine
+
+Observation at the enclosure is conducted at distance and on ecological
+timescales. Residents are studied through their behavior in their native
+environment, with minimal intrusion — the enclosure's researchers understand
+that for place-bound flora, the environment is part of the anomaly.
+
+---
+
+## 9. Resident Holdings
+
+The enclosure's residents are non-movable flora anomalies — impossible plants
+bound to their native containment fields. Their designations and sector
+assignments are preserved in the Verde Null Annex Register under the parent
+reserve's authority. Personnel without specific assignment to those files do
+not require their names.
+
+---
+
+## 10. Secrecy and Security Posture
+
+The enclosure is concealed by the reserve's overall cover as legitimate
+protected research land. Security procedures emphasize:
+- concealed perimeter maintenance
+- sector boundary enforcement
+- incursion response into anomalous territory
+- environmental monitoring that detects both resident condition and external
+  approach
+
+---
+
+## 11. Personnel and Operational Life
+
+The enclosure's personnel serve on rotation from the reserve's staff,
+selected for environmental adaptability and patience. Their work is the
+quiet, long work of in-place containment: observing, maintaining, and
+protecting flora anomalies that will never leave their native fields.
+
+A working day at the enclosure may include:
+- monitoring sector perimeter integrity
+- observing a resident's growth and environmental interaction
+- maintaining concealed monitoring infrastructure
+- coordinating with the reserve's Environmental Containment Division
+- documenting resident behavior under the reserve's research authority
+
+---
+
+## 12. Incident Archive
+
+The enclosure's incident records are dominated by environmental and
+observation events: perimeter incidents, resident condition changes, and
+incursion attempts into anomalous sectors. The relocation-failure records
+that established the enclosure's doctrine are preserved in the parent
+reserve's history.
+
+---
+
+## 13. Current Status and Projected Development
+
+The enclosure is **Active** and operating within its designed capacity.
+Projected development priorities include:
+- continued in-place management of existing sectors
+- environmental monitoring improvements
+- coordination with the parent reserve's expanding cultivation programs
+
+---
+
+## 14. Cross-Referenced Files
+
+- `ACT_Global_Site_Registry.md` / `.txt`
+- `ACT_Site_Doctrine_and_Installation_Structure.md` / `.txt`
+- `ACT-SITE-04-BR-C — Verde Null Bio-Reserve` Site Dossier
+- Parent command: `ACT-SITE-04-BR-C` Annex Register (clearance-gated)
+
+---
+
+## Archive Closing
+
+ACT-SUB-04-BR-C, the Hollow Canopy Enclosure, is the place where the Facility
+stopped moving what could not be moved: a network of concealed perimeters in
+the wilderness where impossible flora grows in its native soil, observed,
+maintained, and contained in place.
+
+It is called hollow because that is its nature: beneath an ordinary canopy,
+hidden spaces hold what must not be seen — and what must never be uprooted.

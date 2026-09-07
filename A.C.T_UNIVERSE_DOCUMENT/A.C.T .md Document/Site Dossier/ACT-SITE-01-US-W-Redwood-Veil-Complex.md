@@ -1,0 +1,704 @@
+# A.C.T FACILITY ARCHIVE FILE
+## ACT-SITE-01-US-W — Redwood Veil Complex
+## Regional Site Dossier — Western United States
+
+**Archive Status:** Active
+**Distribution:** Internal / Command / Archive / Recovery / Intelligence / Containment
+**Authority:** Central Archive / Site Governance Review / Administration
+**File Class:** Site Dossier — Individual Installation Record
+**Dossier Number:** SITE-DOSSIER-01-US-W
+**Compiled By:** Central Archive, Site Records Office
+**Compilation Standard:** ACT Site Registry File Standard
+
+---
+
+## Archive Note
+
+This file is the complete individual dossier for **ACT-SITE-01-US-W**, the
+**Redwood Veil Complex**, one of the five recognized major SITE installations
+of the A.C.T Facility network. Where the Global Site Registry provides the
+consolidated institutional reference for every recognized installation, this
+dossier exists to preserve the full operational, architectural, historical,
+jurisdictional, and human record of one site alone.
+
+This file is written in the same internal archive language as every other
+Facility record: direct, institutional, and without decoration. It records what
+the site is, why it exists, how it is governed, what it holds, how it fails, and
+what it costs the people who keep it running.
+
+Readers are reminded that a site dossier is not a complete manifest. Resident
+anomaly holdings are deliberately not enumerated in full. The Facility does not
+concentrate knowledge of what it holds in any single record that could be lost,
+leaked, or read by the wrong eyes. This dossier identifies the site's signature
+resident and leaves the rest to clearance-gated annex registers.
+
+---
+
+## 1. Registry Identity Summary
+
+**Site Designation:** ACT-SITE-01-US-W
+**Codename:** Redwood Veil Complex
+**Site Type:** Regional Site
+**Location:** Western United States (exact coordinates withheld; surface identity layered under multiple false civilian infrastructure overlays)
+**Command Authority:** Site Director under Facility Administrator review
+**Primary Function:** Urban anomaly recovery, artifact containment, rapid secrecy response, and GOI suppression
+**Divisions Present:** Security, Recovery, Containment, Intelligence, Archive, Medical
+**Containment Profile:** Object-Focused / Mixed Mobility / Urban Recovery
+**Regional Jurisdiction:** Western United States anomaly incidents and Pacific-linked covert routing
+**Notable Features:** High-speed urban concealment response network; strong black-market interdiction capability; heavy GOI surveillance overlap
+**Current Status:** Active
+**History Notes:** Expanded from a smaller relay network into a full regional command site after sustained urban anomaly density increase.
+**Security Notes:** Maintains multiple false civilian infrastructure overlays and layered city-entry cover identities.
+
+---
+
+## 2. Dossier Purpose
+
+The Redwood Veil Complex is the Facility's most visible — and therefore most
+carefully disguised — regional instrument. It exists where human population is
+densest, where memory is shortest, and where the anomalous is most likely to
+surface inside ordinary life rather than beyond it. Western urban corridors,
+seaport chains, and Pacific transfer routes place the site at the center of
+anomaly movement, artifact trade, and information pressure that no other major
+installation experiences at the same intensity.
+
+This dossier exists so that command, recovery, intelligence, and containment
+personnel can understand the site they are being routed through before they
+ever set foot inside it. A site is not a building. It is a doctrine made
+physical — and the Redwood Veil Complex is the doctrine of the **city as a
+containment environment**.
+
+---
+
+## 3. Site Profile and Cover Architecture
+
+### 3.1 Geography
+
+The complex is buried beneath and woven into a cluster of civilian holdings in
+the western United States. Its operational territory is not one address. It is
+a **pressure web**: a group of real civilian structures — office towers, a
+biotechnology campus, a cold-storage logistics yard, a private medical
+foundation, a university archive annex, and several residential properties —
+whose basements, service tunnels, and municipal utility corridors connect to a
+single buried command core.
+
+This is deliberate. A single isolated compound can be watched, mapped, or
+struck. A distributed urban web cannot be conclusively identified because no
+single building, if examined, contains the Facility. Each structure is genuine.
+Each employs genuine civilians at its upper levels. The anomaly apparatus lives
+in the floors those civilians never reach.
+
+### 3.2 Cover Identities
+
+The complex maintains layered surface identities, each with its own paperwork,
+payroll, regulatory history, and public reputation:
+
+- **Redwood Veil Biotechnologies** — agricultural and biomedical research
+  concern; used for inbound logistics, reagent acquisition, and legitimate
+  scientific cover for anomalous biological sampling.
+- **Cascade Cold Chain Logistics** — refrigerated freight operator; used for
+  transport of temperature-sensitive objects and for the quiet movement of
+  sealed materials between city nodes.
+- **The Halvorsen Medical Foundation** — private clinic and research hospital;
+  provides cover for the Medical Division's cognitive and memetic trauma work
+  and for the treatment of compromised personnel under civilian pretense.
+- **Western State Archive Annex (fictional university program)** — document
+  preservation facility used to explain archivists, microfilm traffic, and
+  restricted document storage.
+- Additional single-occupancy residential and commercial fronts are rotated on
+  a schedule. No cover identity is allowed to age past usefulness.
+
+### 3.3 Why the West
+
+The western United States was selected as a regional anchor because of density
+and distance in combination. The region contains major population clusters —
+which generate anomalies — while also offering long coastal, desert, and
+mountain corridors through which recovery teams can move artifacts away from
+those populations with minimal observation. Pacific-linked covert routing means
+the site functions as the Facility's primary western gate for anomaly traffic
+moving between the Americas and the Pacific basin.
+
+In practice this means Redwood Veil is simultaneously the site most likely to
+encounter an anomaly inside a shopping mall and the site most likely to be
+asked to move one across an ocean.
+
+---
+
+## 4. Historical Foundation and Evolution
+
+### 4.1 Origins as a Relay Network
+
+The complex began not as a site but as a chain of discreet urban **relay
+points** established in the mid-twentieth century. These relays were never
+intended to hold anomalies long-term. They were witness-processing stations,
+secrecy-response nodes, and artifact-handoff points placed along the Pacific
+corridor where the Facility's earliest western operations needed to disappear
+evidence quickly.
+
+Relay personnel were few. They were chosen for judgment rather than rank: the
+kind of people who could make a crowd forget what it had seen, or move a boxed
+artifact through a city without anyone asking what was inside it.
+
+### 4.2 The Unremarkable Transition (1982)
+
+When the Facility enacted the **Site-Wide ARM Deployment** of 1982 — the
+transition of the entire Site Network into "Unremarkable" status through
+advanced perceptual cloaking — the western relays were formalized into a single
+administrative body. Cover identities that had previously been improvised were
+standardized into permanent front companies. The scattered nodes received their
+first unified command structure.
+
+### 4.3 Elevation to Regional Site
+
+For decades the western apparatus functioned as a capable but secondary network
+under the doctrinal gravity of the Primary Facility. Sustained increases in
+urban anomaly density changed that. Western cities began producing — and
+receiving — more anomalous material than the relay structure could safely
+process. Black-market artifact movement along the Pacific corridor intensified.
+Witness exposure risk in dense urban environments demanded faster, more
+centralized secrecy response.
+
+The relay network was therefore elevated into a full **Regional Site**, and the
+buried core beneath the Redwood Veil campus was constructed to house the
+archive, containment, and command functions the relays had previously lacked.
+
+### 4.4 Modern Role
+
+Today the complex is the Facility's primary western instrument for:
+- urban anomaly recovery
+- artifact containment and long-term object storage
+- rapid secrecy response inside population centers
+- black-market anomaly interdiction
+- GOI surveillance and suppression along the Pacific corridor
+
+It is the site most frequently called upon to turn a public impossibility into
+a private one.
+
+---
+
+## 5. Command and Governance
+
+### 5.1 Command Chain
+
+The complex is governed by a **Site Director** appointed by and answerable to
+the **Facility Administrator**. Under the Director, the site's operational
+authority runs through the standard A.C.T ladder: the Field Operating Chief
+commands all field and recovery deployments; the Head Transformation and High
+Researchers govern scientific and transformation decisions; the Security
+Division command enforces internal order; the site's Senior Researchers direct
+individual study programs; and the site Intelligence desk reports both to the
+Director and, through separate channels, to the Facility's central Intelligence
+Division.
+
+### 5.2 Site Director's Office
+
+The Site Director's authority at Redwood Veil is unusual among regional sites
+because of the volume of **civilian-adjacent operations** the complex runs.
+Directors must therefore be fluent in two contradictory languages: the internal
+language of containment doctrine and the external language of legitimate
+business, medicine, and academia. A Director who cannot lie convincingly to a
+city council cannot protect a city.
+
+Directors serve staggered terms and are rotated out of the complex entirely on
+completion of service. No Director of Redwood Veil has ever been permitted to
+retire into the region they governed.
+
+### 5.3 Escalation and Overlap
+
+Because the complex sits on the Pacific routing chain, its jurisdiction
+frequently overlaps with:
+- **ACT-SITE-03-JP-E (Kurokawa Archive Node)** — for artifact export and
+  document-borne hazards moving across the Pacific;
+- **ACT-SITE-05-ID-C (Nusantara Deep Relay)** — for maritime anomaly traffic
+  and island-chain routing;
+- **ACT-SUB-01-US-W (Glass Orchard Relay)** — its principal support sub-site.
+
+Where multiple sites could claim an event, the Jurisdiction Priority Rule
+applies: containment viability first, secrecy risk second, recovery speed
+third, specialization fourth, command proximity fifth, and Site Governance
+Review as final arbiter.
+
+---
+
+## 6. Divisional Presence and Daily Function
+
+### 6.1 Security Division
+
+The Security Division at Redwood Veil is the site's largest single body.
+Security personnel operate under three distinct uniforms: internal Facility
+security (visible only inside the buried core), corporate security of the cover
+companies (visible to civilians and legitimate), and plainclothes urban
+response teams (visible to no one).
+
+Duties include:
+- checkpoint control across all cover-company interfaces
+- escort of sealed materials between city nodes
+- civilian incident containment during recovery operations
+- internal lockdown implementation
+- GOI surveillance support on Facility-owned ground
+
+Security personnel assigned to the urban decks receive additional training in
+crowd behavior, emergency-services impersonation, and the maintenance of cover
+under direct public scrutiny. A Security officer who panics in front of a crowd
+has failed the site's primary doctrine.
+
+### 6.2 Recovery Division
+
+Recovery is the division that defines the complex. Redwood Veil recovery teams
+are urban specialists: they are trained to extract anomalies from apartments,
+office buildings, hospitals, schools, warehouses, and public transit systems
+without triggering mass witness events.
+
+Standard recovery doctrine at the site includes:
+- rapid perimeter establishment through cover-company assets
+- civilian narrative insertion before, not after, containment
+- minimal-force anomalous capture with RSA support
+- immediate transport routing to the buried core or to Glass Orchard Relay
+- full documentation handoff to the Archive Division within twelve hours
+
+### 6.3 Containment Division
+
+The Containment Division designs and maintains the object chambers, vault
+systems, and transport enclosures that define the complex's holding capacity.
+Because the site is object-focused, Containment personnel here are closer to
+engineers and material scientists than to prison guards. Their work includes
+box design, environmental regulation, RSA calibration, and the constant
+revision of containment structures as objects reveal new behaviors.
+
+### 6.4 Intelligence Division
+
+The Intelligence Division at Redwood Veil runs the site's dual surveillance
+posture:
+- **outward**, against the civilian and GOI world — tracking black-market
+  artifact movement, monitoring rival organizations, forecasting exposure risk;
+- **inward**, over site personnel — because a facility buried inside a city is
+  uniquely vulnerable to personnel leaking its location.
+
+The site maintains some of the Facility's heaviest coverage of the **Anstrall
+Market** trade networks, whose artifact routes run through Pacific corridors
+and western cities. Redwood Veil Intelligence does not attempt to destroy the
+Market; it attempts to know everything the Market does.
+
+### 6.5 Archive Division
+
+The Archive Division preserves the complex's records: recovery logs, incident
+files, object histories, witness-processing records, and the layered cover
+paperwork that keeps the site invisible. The archive is itself a containment
+system — some of what the complex records is dangerous to read, and the
+Archiver Division treats documents as potential biohazards.
+
+### 6.6 Medical Division
+
+The Medical Division treats conventional injuries, anomalous contamination,
+memetic trauma, and the cognitive damage that urban recovery work produces.
+Personnel exposed to artifact influence — particularly objects with memetic or
+informational components — are evaluated here before they are permitted to
+return to duty or to leave the site.
+
+---
+
+## 7. Physical Plant and Surface Layout
+
+The physical plant is organized as a **hub-and-node web**. The buried core —
+located beneath the Redwood Veil Biotechnologies campus — is the hub. The
+surface structures of the cover companies are the nodes.
+
+### 7.1 The Campus (Primary Surface Node)
+
+The Redwood Veil Biotechnologies campus appears to be a mid-size private
+research concern. It contains:
+- genuine laboratories and greenhouse structures
+- administrative buildings
+- a central utility plant whose below-grade machinery floors conceal the
+  primary elevator bank into the buried core
+- staff parking, delivery docks, and loading bays used for anomalous logistics
+
+No civilian employee of the campus has ever reached the buried core. Access
+requires layered clearance verification at every transition between legitimate
+and operational space.
+
+### 7.2 City Nodes
+
+The other cover structures function as satellite access points:
+- Cascade Cold Chain warehouses provide refrigerated artifact staging and
+  transport-vehicle cover;
+- the Halvorsen Medical Foundation provides medical cover and a discreet
+  intake route for compromised personnel;
+- the university archive annex provides document-flow cover and a secondary
+  archive relay point;
+- residential fronts provide safe houses for field personnel and witnesses in
+  transition.
+
+### 7.3 Approaches and Perimeter
+
+The perimeter of the buried core is not a fence. It is a graduated sequence of
+legitimacy: public space, semi-private corporate space, restricted corporate
+space, sealed operational space, and finally the core itself. Every transition
+is monitored. Every transition is reversible — the site can shed a compromised
+node and rebuild its cover elsewhere without losing the core.
+
+---
+
+## 8. Internal Floor Register
+
+The buried core below the Redwood Veil campus is registered on **nine numbered
+strata**, from **F-1** (deepest) to **F-9** (surface-adjacent), consistent with
+Facility floor doctrine: **F-1** is the deepest numbered floor and higher
+numbers rise toward the surface. Below F-1 lies only the deep utility and
+emergency routing that connects the complex to regional transport corridors;
+there is no abyssal access beneath this site.
+
+### F-9 — Surface Transition Level
+The uppermost operational level: vehicle screening, delivery intake, loading
+bay processing, and the primary elevator bank connecting the campus to the
+levels below. This floor is the only level where legitimate civilian activity
+and Facility activity share physical space — separated by an unmarked wall that
+has never been breached.
+
+### F-8 — Administration and Personnel
+Site administration, personnel processing, clearance verification, training
+spaces, the Site Director's office, and staff support facilities. The floor is
+designed so that personnel entering duty move downward and personnel leaving
+duty move upward — the pattern of descent into work is part of the site's
+psychological architecture.
+
+### F-7 — Central Archive and Records
+The complex's document repository: recovery logs, object histories, witness
+records, and cover paperwork. Includes the document quarantine cells where
+information-borne hazards are held. The archive is QNB-hardened against
+external causal rewrites in accordance with central archival doctrine.
+
+### F-6 — Medical and Cognitive Care
+The Medical Division's primary ward level: trauma care, memetic contamination
+treatment, cognitive recovery, and the isolation suites used for personnel
+undergoing artifact-influence evaluation.
+
+### F-5 — Research and Analysis
+Laboratory and analysis decks where contained objects are studied under
+controlled conditions. Includes the Digital Resonance Mapping suite used to
+measure an artifact's causal pulse before physical contact, in accordance with
+current (2026) intake standards.
+
+### F-4 — Transformation Staging
+Workshops and staging chambers where the Transformation Division evaluates
+whether contained objects can be stabilized, neutralized, repurposed, or
+integrated. Objects approved for transformation study pass through this level
+under ascending authorization.
+
+### F-3 — Standard Object Chambers
+The main holding level for object-class anomalies of INERT, RESIDUAL, and
+SPORADIC disposition. Rows of Small, Medium, and Large Boxes under continuous
+monitoring. This is the largest containment level by volume.
+
+### F-2 — Deep Object and Memetic-Component Vaults
+Holding level for REACTIVE, ENTROPIC, and EXIGENT object-class anomalies and
+for objects with memetic or informational components that require Blind Box or
+Eye Box confinement. Access is restricted; observation is governed by the
+specific restriction set of each resident.
+
+### F-1 — The Hanging Vault (Deepest)
+The complex's deepest and most secure level: the high-inviolability object
+vault where the site's signature residents are held under maximum structural
+and procedural reinforcement. During a breach response, **closing F-1 to the
+outside** seals this level entirely — the procedural origin of the site's
+"F-1 closure" drills.
+
+---
+
+## 9. Containment Infrastructure
+
+### 9.1 RSA and ARM Coverage
+
+The buried core operates under continuous **Reality Stabilization Anchor**
+support. RSA units are calibrated per level, with the densest concentration on
+F-1 through F-3, where object influence is most likely to distort local
+conditions. The site's ARM mesh extends over the campus and primary nodes,
+maintaining the "Unremarkable" perceptual field established in 1982.
+
+### 9.2 Chamber Types in Use
+
+The complex makes use of the full recognized containment structure vocabulary:
+Small Box, Medium Box, Large Box, Massive Box (rare), Enclosure Box,
+Box-cass (for self-contained objects), Monitoring Field, Blind Box, Eye Box,
+Non-Box, and Unclose. Object-class residents at Redwood Veil are most commonly
+held in Small, Medium, and Large Box configurations with monitoring.
+
+### 9.3 Transport Infrastructure
+
+Because the site is a routing node, its transport infrastructure is unusually
+developed:
+- armored surface transport vehicles under Cascade Cold Chain cover
+- RSA-equipped intermodal containers for overland movement
+- Facility Converted Aircraft access through a remote Pacific-coast airfield
+  node for transoceanic artifact routing
+- sealed rail corridors for bulk movement between the complex and Glass Orchard
+  Relay
+
+---
+
+## 10. Resident Anomaly Holdings
+
+### 10.1 Filing Doctrine
+
+The complex's full resident manifest is preserved in the clearance-gated
+**Redwood Veil Annex Register**, not in this dossier. This file identifies only
+the site's signature resident and confirms the general character of its
+holdings. The remainder of the manifest is deliberately unreferenced here:
+knowledge of what a site holds is distributed across the Facility precisely so
+that no single document can reveal it all.
+
+### 10.2 General Holding Character
+
+The complex's holdings are object-dominant but not object-exclusive:
+- object-class anomalies of every containment disposition, from INERT
+  curiosities to REACTIVE hazards;
+- subjects of low-to-moderate threat requiring urban-adjacent housing;
+- memetic and informational objects requiring strict visual and document
+  quarantine;
+- trade-sensitive anomalous material recovered through black-market
+  interdiction — the site's specialty;
+- transient holdings awaiting routing to specialized sites elsewhere in the
+  network.
+
+### 10.3 Signature Resident — AFD-OB-801, "Butcher Vanity"
+
+The complex's most storied artifact holding is **AFD-OB-801**, designated
+**Butcher Vanity**, also recorded under the titles **THE VESTIBULE OF
+SLAUGHTER** and **THE HUNGERING EDGE**.
+
+AFD-OB-801 consists of two bound components: **AFD-OB-801-A**, a high-carbon
+steel meat cleaver that never dulls, rusts, or wears, and **AFD-OB-801-B**, a
+heavily stained wooden trunk that serves as the object's anchor and
+self-regenerates mammalian blood from its grain at roughly fifty milliliters per
+hour. The cleaver is invariably found resting atop the trunk.
+
+The object operates through a tiered memetic trigger keyed to the viewer's
+psychological resilience. Individuals of low resilience who perceive the
+cleaver develop an overpowering homicidal mania — a "deep urge to butcher"
+directed at living beings and, in documented cases, at furniture, walls,
+clothing, and the affected individual's own body. Individuals of high
+resilience resist the compulsion but suffer persistent auditory hallucinations:
+low, raspy telepathic whispers that grow in frequency and intensity with
+proximity. Documented whisper fragments include "Used Mee..." and
+"Meat. MEat. MEAt. MEAT."
+
+AFD-OB-801 is classified **REACTIVE**, **Threat Level 3**, with **Transformation
+Viability: INVIOLABLE**. It was recovered in the nineteenth century, long
+before the western relay network existed, and was transferred to the complex
+during its elevation to regional status — where its containment became a
+recurring test of the site's memetic-object doctrine. The object's E-Class
+exposure program and its visual/auditory containment regimen are documented in
+the Redwood Veil Annex Register and in the file's individual log dossiers.
+
+The complex has never attempted to transform AFD-OB-801. The doctrine
+surrounding it is simple: **it is not to be used, and it is not to be
+understood quickly.**
+
+### 10.4 Additional Holdings (Referenced Only)
+
+Other residents — including multiple object-class anomalies, low-threat
+subjects, and interdicted trade material recovered along the Pacific corridor —
+are held on F-1 through F-3 under standard doctrine. Their designations are
+preserved in the Annex Register. Personnel without specific assignment to those
+files do not require their names.
+
+---
+
+## 11. Site Doctrine and Routing
+
+### 11.1 What Routes Into the Complex
+
+The complex accepts:
+- anomalies recovered in its regional jurisdiction
+- artifacts interdicted from black-market movement
+- Pacific-route transfers from other sites awaiting specialized routing
+- document-borne hazards routed through the university archive annex
+- personnel and witnesses requiring processing at Glass Orchard Relay before
+  entering the core
+
+### 11.2 What Routes Out
+
+The complex routes material to:
+- **ACT-SITE-03-JP-E (Kurokawa)** — for East-Pacific and archival-document
+  specialization;
+- **ACT-SITE-02-RU-N (White Grave Station)** — for cold-sensitive or
+  biologically unstable material requiring climate suppression;
+- **ACT-SITE-04-BR-C (Verde Null Bio-Reserve)** — for biological material
+  requiring wilderness or in-place enclosure;
+- **ACT-SITE-05-ID-C (Nusantara Deep Relay)** — for maritime and island-chain
+  material;
+- the **Primary Facility** — for abyss-linked material, high-clearance
+  anomalies, and final doctrinal authority.
+
+### 11.3 Support Relationship — Glass Orchard Relay
+
+ACT-SUB-01-US-W, the **Glass Orchard Relay**, functions as the complex's
+overflow and witness-processing extension. Newly recovered anomalies of
+low-threat disposition may be held temporarily at the Relay; witnesses are
+processed there; archive overflow is buffered there. The Relay is denied
+long-term holding authority for high-threat anomalies — such material moves to
+the core or onward.
+
+---
+
+## 12. Special Operations and Site Protocols
+
+### 12.1 Urban Recovery Doctrine
+
+The complex's defining protocol is **urban recovery under cover**: every
+recovery operation in a populated area is planned backward from the narrative
+that will explain it. Fire drills, gas leaks, hazardous-material incidents,
+police activity, and medical emergencies are all pre-scripted cover frames that
+recovery teams may deploy. A recovery is considered successful only when the
+anomaly is contained **and** the story holds.
+
+### 12.2 Interdiction Doctrine
+
+Because the site maintains heavy GOI surveillance overlap, its Intelligence
+Division runs standing interdiction operations against artifact movement along
+Pacific corridors. Interdiction is a containment action: the goal is to remove
+anomalous material from trade circulation before it reaches buyers who cannot
+be allowed to possess it.
+
+### 12.3 Breach Response
+
+Breach response at the complex follows the standard Facility priority order:
+maintain world secrecy, maintain structural normalcy, close F-1 to the outside,
+activate the ARM mesh, activate RSA support, deploy the AAC Task Force, and
+evacuate all non-containment personnel. Urban breach response adds one local
+requirement: the cover frame must hold until the site decides whether the
+breach is containable within it.
+
+---
+
+## 13. Secrecy and Security Posture
+
+### 13.1 The Cost of Proximity
+
+The complex's greatest strength — its embedment in civilian life — is also its
+greatest vulnerability. A breach that escapes the buried core enters a city,
+not a wilderness. The site therefore maintains standing relationships with
+local emergency services through layers of legitimate cover, and its Security
+Division rehearses city-wide narrative containment as routinely as it rehearses
+lockdown.
+
+### 13.2 GOI Exposure Risk
+
+The site's black-market interdiction work makes it a target of organized
+anomalous interests. The Intelligence Division monitors known GOI activity in
+the region, including Anstrall Market trade cells and Anti-Global Anomaly
+sympathizer networks. The site's cover identities are rotated on a schedule
+short enough to outpace sustained hostile observation.
+
+### 13.3 Personnel Secrecy Burden
+
+Personnel assigned to Redwood Veil carry an unusual burden: they live in or
+near the region they police. Staff are required to maintain cover even in their
+private lives — a researcher at the complex may be publicly employed by the
+Halvorsen Medical Foundation and must be able to answer questions about that
+employment convincingly. Personnel who cannot sustain the double life are
+reassigned to sites where separation from the civilian world is more complete.
+
+---
+
+## 14. Personnel and Operational Life
+
+### 14.1 Staffing Character
+
+Redwood Veil personnel are selected for composure. The site's work places them
+in sustained proximity to ordinary people who must never learn what they are —
+and the psychological cost of that proximity is the site's quietest attrition
+factor.
+
+### 14.2 Daily Operational Life
+
+A working day at the complex may include:
+- reviewing interdicted artifacts recovered overnight
+- rehearsing a cover narrative for an imminent recovery
+- transporting a sealed object between city nodes under Cascade Cold Chain
+  cover
+- treating a Recovery operator who viewed an object they should not have viewed
+- monitoring the Hanging Vault's visual-denial systems
+- evaluating whether a recovered document belongs in the archive or in
+  quarantine
+
+Routine at Redwood Veil is the disguise worn by constant danger — the same
+disguise the site wears for the city above it.
+
+### 14.3 Rotation and Attrition
+
+Urban-site personnel rotate more frequently than their counterparts at remote
+installations. The site monitors its staff for the specific failure modes of
+urban work: cover leakage, civilian attachment, reality fatigue from sustained
+double consciousness, and the slow erosion of the boundary between the
+operational self and the cover self.
+
+---
+
+## 15. Incident Archive
+
+### 15.1 Foundation-Era Incidents
+
+Early relay records preserve incidents from the network's pre-elevation era:
+witness clusters contained through improvised cover, artifact handoffs
+conducted under pursuit, and at least two relay points abandoned when sustained
+observation made them unsalvageable.
+
+### 15.2 Elevation-Era Incidents
+
+The transition to regional status was driven by incident pressure — repeated
+urban anomaly appearances that the relay network could no longer absorb without
+centralized containment capacity. Archive notes record that the elevation was
+approved only after a sustained density increase made the network's continued
+existence as relays operationally indefensible.
+
+### 15.3 Modern Incidents
+
+Modern incident records, including object-influence exposures and E-Class
+program events involving signature residents such as AFD-OB-801, are preserved
+in the complex's incident archive and in individual log dossiers. Specific
+incident narratives are not reproduced in this file; they are held to the
+clearance of the personnel who must learn from them.
+
+---
+
+## 16. Current Status and Projected Development
+
+The complex is **Active** and operating within projected capacity. Projected
+development priorities include:
+- expansion of interdiction coverage along Pacific artifact routes
+- reinforcement of the F-2 memetic-component vaulting under updated doctrine
+- continued rotation and hardening of cover identities against sustained GOI
+  observation
+- deeper integration with Kurokawa Archive Node for document-borne hazard
+  routing
+
+The site's long-term function — to be the Facility's face in the densest
+human places — is not expected to change.
+
+---
+
+## 17. Cross-Referenced Files
+
+- `ACT_Global_Site_Registry.md` / `.txt`
+- `ACT_Site_Doctrine_and_Installation_Structure.md` / `.txt`
+- `ACT_Site_Map_and_Jurisdiction_Doctrine.md` / `.txt`
+- `ACT_Site_Registry_File_Standard.md` / `.txt`
+- `ACT_SITE-01-US-W` Annex Register (clearance-gated)
+- `ACT-SUB-01-US-W — Glass Orchard Relay` Site Dossier
+- Resident file: `Butcher-Vanity-AFD-OB-801.txt` (and log dossiers)
+- Resident manifest records (clearance-gated)
+
+---
+
+## Archive Closing
+
+ACT-SITE-01-US-W, the Redwood Veil Complex, is the A.C.T Facility's instrument
+for the places where the impossible happens in public. It is a buried core
+under a believable city, staffed by people who have learned to live double
+lives, holding objects that must never be seen — and it exists because the
+Facility understands that the hardest place to hide a secret is among people,
+and that someone must do exactly that.
+
+A site is where the impossible has been given an address.
+This is that address.
