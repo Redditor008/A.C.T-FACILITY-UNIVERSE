@@ -30,6 +30,8 @@ The first such preserved record in A.C.T Vault history is:
 
 That document remains preserved as the oldest known sealed vault record and serves as the historical beginning of A.C.T anomaly doctrine.
 
+**Naming note:** the historical designation is written **ENTITY-000**; sealed file titles use the underscore form, **ENTITY_000_ITHYOS**.
+
 Supporting file:
 - `ACT_First_Vault_Document_ENTITY_000_ITHYOS.md`
 - `ACT_First_Vault_Document_ENTITY_000_ITHYOS.txt`
@@ -108,7 +110,7 @@ Official templates preserved with Part Three:
 - `ACT_Anomaly_Standard_Format.md`
 - `ACT_Anomaly_RCT_Format.md`
 
-## 3.2.4 Site Integration in Anomaly Files
+### 3.2.4 Site Integration in Anomaly Files
 Modern anomaly records are expected to identify not only what the anomaly is, but where within the A.C.T network it is housed, routed, or governed. For this reason, anomaly documentation may include **Containment Site**, **Site Type**, and **Jurisdictional Authority** fields. Site metadata is treated as containment-relevant archive logic rather than optional location flavor.
 
 ---
@@ -116,9 +118,9 @@ Modern anomaly records are expected to identify not only what the anomaly is, bu
 ## 3.3 Designation Rules
 A.C.T uses three primary designation structures:
 
-- `UFD-##-XXX`
-- `AFD-##-XXX`
-- `ANM-##-##-XXXX`
+- `UFD-XX-###`
+- `AFD-XX-###`
+- `ANM-XX-XX-####`
 
 ### 3.3.1 UFD — Unknown Field Designation
 **UFD** is assigned during provisional detection and verification stages. It is used when anomalous status is suspected but not yet fully confirmed or stabilized in archive logic.
@@ -127,8 +129,8 @@ A.C.T uses three primary designation structures:
 **AFD** is assigned once the anomaly has been formally verified and entered into permanent A.C.T archive structure.
 
 In both cases:
-- the first **##** is the anomaly field type code
-- the **XXX** is the numerical registry code
+- the first **XX** is the anomaly field type code
+- the **###** is the numerical registry code
 
 Recognized field type codes are:
 - **OB** = Object
@@ -143,12 +145,12 @@ Recognized field type codes are:
 - **?.H** = Shifting Hazard
 
 ### 3.3.3 ANM — Fracture Designation
-`ANM-##-##-XXXX` is used for anomalies whose documentation must be understood through fracture-state logic.
+`ANM-XX-XX-####` is used for anomalies whose documentation must be understood through fracture-state logic.
 
 In this format:
-- the first **##** is the **Fracture Containment Index**
-- the second **##** is the **Fracture Sub-Threat Index**
-- the **XXXX** is the numerical registry code
+- the first **XX** is the **Fracture Containment Index**
+- the second **XX** is the **Fracture Sub-Threat Index**
+- the **####** is the numerical registry code
 
 This designation is used when standard archive assumptions become structurally insufficient.
 
@@ -173,6 +175,15 @@ Not every anomaly threatens containment in a straightforward way. Some distort t
 - **REVERTED** — *Somehow it reverted back — the damage undoes itself, as if the threat never happened*
 - **ABSENT** — *Where's the threat — the danger exists on paper but nowhere in reality*
 - **NULLIFIED** — *It stopped — whatever it was doing, it ceased entirely on its own*
+
+
+### Official Fracture Index Codes
+When a fracture-sensitive designation is written in `ANM-XX-XX-####` form, the two letter segments abbreviate the Fracture Index:
+
+- **QUESTIONED** (`QU`) / **ABSURD** (`AB`) / **MUTATED** (`MU`) / **UNAUTHORED** (`UA`) / **SCHRÖDINGER** (`SC`) — used in the **Fracture Containment Index** segment
+- **HARMLESS** (`HM`) / **BENEFICIAL** (`BE`) / **REVERTED** (`RV`) / **ABSENT** (`AS`) / **NULLIFIED** (`NU`) — used in the **Fracture Sub-Threat Index** segment
+
+Under this rule, a designation such as `ANM-AB-HM-0002` is read as **ABSURD** containment, **HARMLESS** sub-threat, registry number 0002.
 
 The Fracture Index exists so the Facility does not lie to itself when standard categories no longer describe the anomaly honestly.
 
@@ -240,6 +251,8 @@ When a breach occurs, Facility priority order is:
 - Activated Facility REALITY STABILIZATION ANCHOR / RSA
 - Deployment of Anti Anomaly Containment / AAC Task Force
 - Evacuation all non-containment Operator and employee
+
+*Floor reference: **F-1** is the deepest numbered floor of the main Facility (floor designations run **F-1** deepest upward to **F-N** at surface level); "closing F-1 to the outside" seals the deepest access route during a breach response.*
 
 ### 3.5.7 Broken Masquerade Protocol
 If standard concealment fails, the Facility activates **Broken Masquerade Protocol** to preserve humanity’s survival and broad continuity even when secrecy collapses.

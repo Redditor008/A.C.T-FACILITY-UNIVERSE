@@ -24,14 +24,23 @@ At the apex of the organization stands the O5 Council, also called the Overseer 
 Facility Administrator
 The Facility Administrator functions as the highest executive authority beneath the O5 Council. Where the O5 defines policy and direction, the Administrator ensures that the Facility itself remains functional, obedient, and capable. This role oversees all site-level governance, inter-divisional coordination, resource distribution, long-term internal stability, and disciplinary authority. The Administrator is effectively the living mechanism through which O5 will becomes operational reality.
 
+High Threat Administrator
+A High Threat Administrator is a senior Administrator-track officer appointed to govern responses, research, and transformation decisions involving Threat Level 7 and above anomalies — those whose failure could endanger nations, continents, or reality itself. They hold O5-delegated authority within that high-threat mandate, outranking ordinary site governance only on matters that cross their threshold, and they serve as the final institutional checkpoint before the O5 Council in transformation authorization.
+
 Site Director
 A Site Director governs a specific A.C.T site, branch, or operational complex. Site Directors are responsible for the practical management of personnel, containment systems, local anomaly programs, emergency responses, and coordination between departments housed within the site. If a branch falls, it is the Site Director who is held responsible.
+
+Head Transformation
+The Head Transformation is the senior authority of the Transformation Division and the Facility's principal arbiter of transformation doctrine. Where High Researchers and Site Directors judge individual anomalies, the Head Transformation judges whether transformation itself is safe, lawful, and sustainable across the wider Facility — approving, revising, or rejecting transformation proposals that exceed site-level authority.
 
 High Researcher
 A High Researcher is among the highest scientific authorities within the Facility. They oversee advanced anomaly study, cross-divisional scientific planning, transformation approval recommendations, and the interpretation of reality-breaking phenomena. Their role bridges science and policy, especially when an anomaly’s behavior affects broader containment logic or structural reality.
 
 Senior Researcher
 A Senior Researcher manages active study teams, laboratory direction, experiment oversight, and field interpretation of anomalous evidence. They translate high-level scientific theory into workable procedures. In many cases, Senior Researchers are the individuals who first determine whether an anomaly is merely dangerous, scientifically invaluable, or potentially transformative.
+
+Field Operating Chief
+A Field Operating Chief is the senior commander of field, recovery, and tactical operations within a site or regional command. Where Task Force Commanders lead individual teams and missions, the Field Operating Chief directs the full field apparatus — approving recovery plans, overseeing black-zone deployments, and endorsing field-initiated proposals, including transformation requests, before they pass upward to scientific and site command.
 
 Task Force Commander
 The Task Force Commander leads organized response teams assigned to field recovery, containment breach response, hostile anomaly suppression, and blacksite intervention. They operate where research ends and deployment begins. Their authority is tactical and immediate, particularly in live crisis zones.
@@ -48,6 +57,9 @@ The Facility Guard represents the physical security arm of internal operations. 
 Facility Archiver
 A Facility Archiver is responsible for the preservation, organization, redaction, and controlled release of anomaly records. Archivers are not simple clerks; they are custodians of dangerous information. In A.C.T doctrine, information itself may be anomalous, infectious, destabilizing, or lethal. Archivers therefore stand between knowledge and disaster.
 
+Junior Archiver
+A Junior Archiver is the entry-level role of the Archiver Division. Junior Archivers handle low-risk record organization, controlled copying, data entry, supervised redaction preparation, and archive catalog maintenance under the Facility Archivers. Their access is limited by design: they handle the paper, not the poison — until they prove they can survive handling dangerous information.
+
 Facility Junior Employee
 The Facility Junior Employee occupies a low-level support role involving logistics, administration, inventory, maintenance support, document handling, and non-sensitive internal services. They know enough to function, but never enough to compromise the whole.
 
@@ -59,8 +71,6 @@ The Recruiter is positioned at the edge of A.C.T’s human pipeline. Recruiters 
 
 2. Core Divisions and Wing Structure
 
-2.1.1 Site and Sub-Site Doctrine
-Beyond the internal wing structure of the primary Facility, A.C.T recognizes a wider institutional network of SITES and SUB-SITES. A SITE is a major permanent installation with independent operational completeness, while a SUB-SITE is a smaller or specialized installation operating under a larger site or regional command. Jurisdiction is assigned according to geography, secrecy pressure, anomaly profile, and recovery necessity. Detailed naming and governance logic is preserved separately in Part Six site doctrine records.
 The physical and administrative layout of the A.C.T Facility is organized through a directional wing system. Each wing reflects not only operational convenience, but philosophical purpose. The Facility is structured like a body: force to one side, memory to another, command at the rear, science at the front, and the anomaly itself at the center.
 
 West Wings
@@ -102,8 +112,8 @@ The Central sector is the operational spine of the Facility. Everything else exi
 
 The Central sector is the symbolic and literal core of A.C.T: where the hidden world is physically held beneath the machinery of secrecy.
 
-2.1.1 Site and Sub-Site Doctrine
-Beyond the internal wing structure of the primary Facility, A.C.T recognizes a wider institutional network of SITES and SUB-SITES. A SITE is a major permanent installation with independent operational completeness, while a SUB-SITE is a smaller or specialized installation operating under a larger site or regional command. Jurisdiction is assigned according to geography, secrecy pressure, anomaly profile, and recovery necessity. Detailed naming and governance logic is preserved separately in Part Six site doctrine records.
+Site and Sub-Site Doctrine
+Beyond the internal wing structure of the primary Facility, A.C.T recognizes a wider institutional network of SITES and SUB-SITES. A SITE is a major permanent installation with independent operational completeness, while a SUB-SITE is a smaller or specialized installation operating under a larger site or regional command. Jurisdiction is assigned according to geography, secrecy pressure, anomaly profile, and recovery necessity. Detailed naming and governance logic is preserved separately in the dedicated Site Doctrine, Site Registry, and Jurisdiction records.
 
 3. Clearance Levels
 Clearance in A.C.T is not simply a matter of authority—it is a matter of survivable knowledge. Not all truths can be safely known, and not all personnel can be trusted with the same version of reality.
@@ -127,10 +137,10 @@ Level 3
 Assigned to Field Operators and Senior Researchers. This level allows active engagement with operational anomalies, field response data, and site-level classified incidents.
 
 Level 4
-Assigned to Task Force Command, High Researchers, and Site Directors. These individuals oversee dangerous operations and possess broad knowledge of live anomaly programs.
+Assigned to Field Operating Chiefs, Task Force Command, Head Transformation, High Researchers, and Site Directors. These individuals oversee dangerous operations and possess broad knowledge of live anomaly programs.
 
 Level 5
-Assigned to the Facility Administrator. This level grants near-total site authority, full administrative oversight, and access to highly restricted truth sets.
+Assigned to the Facility Administrator and High Threat Administrators. This level grants near-total site authority, full administrative oversight, and access to highly restricted truth sets.
 
 O5 Access Card
 Reserved exclusively for O5 Council members. This clearance does not simply exceed Level 5; it bypasses ordinary compartmentalization entirely. O5 access permits entry into truths that may be hidden even from Administrators and Site Directors.

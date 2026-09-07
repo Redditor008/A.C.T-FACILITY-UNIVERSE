@@ -32,7 +32,7 @@ The A.C.T Facility is not merely a headquarters, a laboratory, or a prison. It i
 The Facility is therefore not organized like a normal institution. It is closer to a buried state, a scientific fortress, and a secret civilization beneath civilization.
 
 ## 6.1.1 Site Network and Distributed Operation
-The labor structure described in this file does not exist only inside one central body. A.C.T functions through a distributed network of major SITES, SUB-SITES, relays, and sealed installations, each carrying different burdens of containment, secrecy, archive continuity, and recovery. Divisions therefore operate both locally and across jurisdictional site boundaries. Detailed installation doctrine is preserved separately in the dedicated site records within Part Six.
+The labor structure described in this file does not exist only inside one central body. A.C.T functions through a distributed network of major SITES, SUB-SITES, relays, and sealed installations, each carrying different burdens of containment, secrecy, archive continuity, and recovery. Divisions therefore operate both locally and across jurisdictional site boundaries. Detailed installation doctrine is preserved separately in the dedicated Site Doctrine, Site Registry, and Jurisdiction records.
 
 ---
 
@@ -222,7 +222,7 @@ It exists to connect:
 - emergency lockdown
 - abyssal routing
 
-The **Main Containment Elevator** is not just transportation. It is the vertical artery of the entire underground complex.
+The **Anomaly Containment Elevator** — called the Main Containment Elevator in operational shorthand — is not just transportation. It is the vertical artery of the entire underground complex.
 
 ---
 
@@ -235,14 +235,23 @@ Rarely seen, deeply insulated, and almost mythic to lower personnel. Most staff 
 ### Facility Administrator
 The practical sovereign of a site. Responsible for balancing doctrine, discipline, output, secrecy, and survival.
 
+### High Threat Administrator
+The authority that appears when an anomaly, program, or transformation decision crosses into Threat Level 7+ territory. Within that narrow mandate they outrank ordinary site governance and answer directly to the O5.
+
 ### Site Director
 The operational ruler of a specific branch or site zone. Where the Administrator governs broadly, the Site Director governs directly.
+
+### Head Transformation
+The senior voice of the Transformation Division. Approves or rejects transformation proposals beyond site-level authority and arbitrates what may — and may not — be changed.
 
 ### High Researcher
 The senior scientific mind trusted not only to study anomalies, but to help decide what reality they are looking at.
 
 ### Senior Researcher
 The daily engine of scientific work. Senior Researchers convert unknowns into experimental procedure.
+
+### Field Operating Chief
+Commands the full field and recovery apparatus of a site: above individual Task Force Commanders, below the Site Director.
 
 ### Task Force Commander
 The point where anomaly doctrine turns into field action.
@@ -258,6 +267,9 @@ Enforces the line between controlled and uncontrolled.
 
 ### Facility Archiver
 Preserves knowledge without letting knowledge become a leak.
+
+### Junior Archiver
+The entry-level hand of the Archiver Division — cataloging, controlled copying, and supervised redaction preparation. They touch the paper, not the poison.
 
 ### Facility Junior Employee
 Keeps the invisible logistics alive.

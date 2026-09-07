@@ -1,5 +1,5 @@
 A.C.T FACILITY — ANOMALY FILE
-[BLANK]-ANM-BL-BL-XXXX
+[ BLANK ]-ANM-BL-BL-XXXX
 
 ═══════════════════════════════════════════════════════════════════════
                     A.C.T FACILITY — ANOMALY FILE
@@ -21,7 +21,7 @@ CLEARANCE REQUIRED:  O5 Access Only / [SOVEREIGN-ANOMALY ACCESS]
                          CLASSIFICATION
 ═══════════════════════════════════════════════════════════════════════
 
-CONTAINMENT CLASS:   [ BLANK ]
+CONTAINMENT CLASS:   [BLANK]
 
 FRACTURE INDEX —
 CONTAINMENT:         UNAUTHORED

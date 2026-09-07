@@ -156,7 +156,7 @@ The final regional code marks broad site placement.
 
 Example:
 - ACT-SITE-01-US-W
-- ACT-SUB-03-ID-C
+- ACT-SUB-05-ID-C
 
 ============================================================
 

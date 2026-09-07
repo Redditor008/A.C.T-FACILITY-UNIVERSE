@@ -183,3 +183,19 @@ The A.C.T network does not function through one monolithic body alone. It surviv
 
 A site is not merely where the Facility exists.
 A site is where the impossible has been given an address, a doctrine, and a chain of command.
+
+## Site Dossier Reference
+Individual full dossiers for each recognized SITE and SUB-SITE — preserving the complete operational, historical, architectural, floor-register, personnel, and incident record of every installation — are maintained as separate Site Dossier files under:
+
+- `A.C.T .md Document/Site Dossier/` (authoritative Markdown)
+- `A.C.T .txt Document/Site Dossier/` (plain-text reading copies)
+
+Each dossier follows the Site Registry File Standard and carries its own Dossier Number in the `SITE-DOSSIER` / `SUB-SITE-DOSSIER` series.
+
+### Floor Dossier Reference
+Individual full dossiers for each numbered floor of the primary SITES and SUB-SITES — preserving the complete operational, architectural, systems, security, holdings, personnel, and incident record of every level, from the deepest numbered floor (F-1) to the surface-adjacent floor (F-N) — are maintained as separate Floor Dossier files under:
+
+- `A.C.T .md Document/Site Dossier/Floor Dossier/` (authoritative Markdown)
+- `A.C.T .txt Document/Site Dossier/Floor Dossier/` (plain-text reading copies)
+
+Each floor dossier follows the ACT Floor Record Standard and carries its own Dossier Number in the `FLOOR-DOSSIER` series. Floor dossiers are written for all five primary SITES and for the four SUB-SITES with numbered buried components (Glass Orchard Relay, Frost Hollow Depot, Silent Reed Annex, and Ash Tide Watchpoint). **ACT-SUB-04-BR-C, the Hollow Canopy Enclosure**, is a concealed-perimeter installation rather than a building-dominant facility: it carries no numbered floor register, and its operational architecture is documented through its concealed perimeter sectors and field stations rather than floor dossiers.

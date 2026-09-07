@@ -57,7 +57,7 @@ secrecy maintenance.
     integrated architectural concealment.
 *   **1940:** **ARM Prototype (Alpha).** The first functional 
     Anti Reality Mesh was deployed. It used light-refraction 
-    interference to mask the Siena Estate from surface detection.
+    interference to mask the Siena Estate — the ancestral seat of the Old Blood anomaly later filed as **AFD-SU-009**, Her Ladyship of the Horned House — from surface detection. That custodial arrangement would remain outside formal anomaly archives until the subject's classification in 1976.
 
 ---
 

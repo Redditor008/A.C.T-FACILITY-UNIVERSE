@@ -45,14 +45,14 @@ Not all GOIs are enemies. But all GOIs matter.
 4.2 — GOI Designation Rules
 A.C.T identifies Groups of Interest under a dedicated registry system:
 
-GOI-##-#-XXX
+GOI-XX-X-XXX
 
 This structure separates GOI records from anomaly records and ensures that external anomalous actors are archived under their own institutional logic.
 
 4.2.1 Designation Segment Meaning
-- the first ## identifies the Nature Class code
-- the second # identifies the Alignment Class marker
-- the XXX identifies the numerical registry code
+- the first XX is the Nature Class code
+- the second X is the Alignment Class marker
+- the XXX is the numerical registry code
 
 This allows A.C.T to understand a GOI’s broad type and relational status at a glance.
 

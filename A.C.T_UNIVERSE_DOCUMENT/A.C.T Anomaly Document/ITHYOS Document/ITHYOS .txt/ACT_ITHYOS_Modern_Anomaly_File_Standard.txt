@@ -116,7 +116,7 @@ observation, excavation, ritual interference, biological interaction, and
 wake-state destabilization.
 
 The anomaly is managed through the ABYSS Floor, a non-standard terminal
-containment stratum beneath F-xxxx. The ABYSS Floor functions as the
+containment stratum beneath F-1 — the deepest numbered floor of the main Facility, below which only the ABYSS access route continues. (Floor designations follow the form F-1, F-2, F-3, with F-1 deepest; the shorthand F-xxxx is used in drafts where the precise floor has not been declassified.) The ABYSS Floor functions as the
 nearest stable human-operable interface to the anomaly’s reachable
 influence boundary. No personnel below O5 authority are permitted
 unrestricted file access or direct abyssal descent authorization.
