@@ -1,6 +1,6 @@
 # A.C.T. Groups of Interest - Archive and Development Folder
 
-**Status:** Three expanded source-anchored registry dossiers, two owner-directed original dossiers, and twenty provisional roadmap seeds in one master plan.
+**Status:** Three expanded source-anchored registry dossiers, three owner-directed original dossiers, and twenty provisional roadmap seeds in one master plan.
 **Scope:** Independent A.C.T. core universe only.
 **Implementation status:** No live wiki work has begun.
 
@@ -72,10 +72,15 @@ The following original dossiers were directly commissioned in separate owner pro
 - `GOI-CP-B-049` - DREAM .INC / DREAM
   - [Markdown dossier](GOI-CP-B-049-DREAM-INC.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-CP-B-049-DREAM-INC.txt)
+- `GOI-ML-X-050` - Liberty Freedoms / L.F.
+  - [Markdown dossier](GOI-ML-X-050-Liberty-Freedoms-LF.md)
+  - [Plain-text reading copy](../GOI_TXT/GOI-ML-X-050-Liberty-Freedoms-LF.txt)
 
 Children of the Deep is a Cultic / Negative / Regional / Practitioner group assessed at Threat Level 5. Its primary active region is the Midwestern United States, and its active objective is awakening a separately sealed, apocalyptic deep-sea anomaly. Its dossier preserves the supplied redactions and keeps the target anomaly separate from the organization record.
 
 DREAM .INC is a Corporate / Business / National / Engineering group assessed at Threat Level 4. It possesses a mysterious Dream Nectar Extraction Apparatus, extracts Dream Nectar from a separately restricted Dream-Type Anomaly, sells the substance as underground medicine, and has at least twelve confirmed open company buildings.
+
+Liberty Freedoms is a Militant / Negative / Transnational / Handler group assessed at Threat Level 4 and classified Exposure-Active. It is a dispersed insurgency of assessed defector origin that treats A.C.T custody itself - containment, Transformation, secrecy, and research alike - as the enemy, raids transport and recovery operations, publishes controlled document leaks, transports anomalies that have left containment with it, and recruits former A.C.T personnel through staged disclosure of verifiable truth. Its dossier is written to keep it distinct from A-GA (which seeks the destruction of anomalies), Anstrall Market (which trades them), and the state-aligned GAA (which partners with A.C.T).
 
 ### Registry-count continuity note
 
@@ -89,7 +94,7 @@ The canonical registry contains the three source-anchored entries above, while a
 - [00_GOI_Record_Template.md](00_GOI_Record_Template.md) - Universal controlled in-world archive form for a future owner-selected original GOI dossier.
 - `README.md` - This folder guide.
 
-The twenty roadmap candidates remain in the master roadmap only. They do **not** have individual GOI files because the owner clarified that individual-file work applies to GOIs already written in the source registry, not to all provisional candidates. Children of the Deep and DREAM .INC are owner-directed original dossiers outside that provisional list; neither converts, replaces, or silently activates a roadmap seed.
+The twenty roadmap candidates remain in the master roadmap only. They do **not** have individual GOI files because the owner clarified that individual-file work applies to GOIs already written in the source registry, not to all provisional candidates. Children of the Deep, DREAM .INC, and Liberty Freedoms are owner-directed original dossiers outside that provisional list; none converts, replaces, or silently activates a roadmap seed.
 
 ---
 
@@ -132,7 +137,7 @@ Every future original GOI in this folder must remain an original A.C.T. core cre
 
 - It must use A.C.T.'s existing GOI classification stack: Nature Class, Alignment Class, Reach Class, Anomalous Capability, Threat Level, Secrecy Risk, and A.C.T. Posture.
 - It must serve a distinct role around Structural Reality, secrecy, containment, Transformation, site jurisdiction, or the human cost of those systems.
-- It must not duplicate the core role of GAA, A-GA, Anstrall Market, Children of the Deep, or DREAM .INC.
+- It must not duplicate the core role of GAA, A-GA, Anstrall Market, Children of the Deep, DREAM .INC, or Liberty Freedoms.
 - It must not turn A.C.T. into an SCP derivative, a Project Moon crossover, or a generic clone of another fictional organization.
 - It must not use source material, events, characters, assets, or lore from `A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Emergent Reality Anomaly/`, including all 715 material.
 - It must not alter the First Lie, ERE, ITHYOS, NEMNOLIA, founder self-erasure, or protected main-story revelations without later explicit owner direction.
