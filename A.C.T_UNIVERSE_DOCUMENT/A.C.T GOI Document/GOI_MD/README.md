@@ -1,6 +1,6 @@
 # A.C.T. Groups of Interest - Archive and Development Folder
 
-**Status:** Three expanded source-anchored registry dossiers, three owner-directed original dossiers, and twenty provisional roadmap seeds in one master plan.
+**Status:** Three expanded source-anchored registry dossiers, three owner-directed original dossiers (registry-integrated 08/09/2026), and twenty provisional roadmap seeds in one master plan.
 **Scope:** Independent A.C.T. core universe only.
 **Implementation status:** No live wiki work has begun.
 
@@ -85,6 +85,9 @@ Liberty Freedoms is a Militant / Negative / Transnational / Handler group assess
 ### Registry-count continuity note
 
 The canonical registry contains the three source-anchored entries above, while an earlier owner statement described the intended current setting roster as containing two GOIs. This folder preserves all three written registry entries. It does not decide which two-or-three roster interpretation is ultimately adopted, retcon an entry, or convert the twenty roadmap candidates into active groups.
+### Registry integration (08/09/2026)
+
+With the owner's approval, the three owner-directed original dossiers are no longer folder-only records. **GOI-CU-X-048** (Children of the Deep), **GOI-CP-B-049** (DREAM .INC), and **GOI-ML-X-050** (Liberty Freedoms) were folded into the canonical registry on 08/09/2026: each received a classification-stack entry under the Sample GOI Entries section of Part Four and of the GOI Registry and External Threat Doctrine Archive (md and txt), and a prose subsection in the BOOK's Sample GOIs chapter. The continuity note above preserves the earlier registry state for historical record; the live registry now contains six entries, and the next owner-directed GOI will take the next unused registry number.
 
 ---
 

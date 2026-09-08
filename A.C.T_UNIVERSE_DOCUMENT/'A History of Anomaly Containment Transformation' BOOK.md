@@ -2213,6 +2213,21 @@ The **Anstrall Market** is a black-market anomaly trade structure specializing i
 
 The Market is not inherently aligned with the Facility, but it is not always best treated as an enemy. It can be more useful when controlled, tracked, infiltrated, or quietly exploited than when openly destroyed. However, its trade in anomalous materials makes it a constant secrecy hazard and a source of escalation if left unmanaged.
 
+### Children of the Deep (CoTD)
+The **Children of the Deep**, or **CoTD**, is a cultic congregation network gathered around a single apocalyptic objective: the awakening of a separately sealed deep-sea sleeper whose release is believed to return the world to an older, submerged order. Its congregations operate through ritual preparation, coastal and inland recruitment, and the patient accumulation of the means to reach the sleeper.
+
+CoTD is a severe, patient threat rather than an immediate one. Because its objective is the awakening of a separately contained apocalyptic anomaly, A.C.T posture is infiltration to map the congregations, containment to interrupt ritual and supply activity, and dismantling of awakening preparations that remain interrupted but not ended. The target anomaly is filed separately and kept distinct from the organization record.
+
+### DREAM .INC (DREAM)
+**DREAM .INC** is a company that possesses a mysterious anomalous machine capable of extracting a substance called Dream Nectar from at least one Dream-Type Anomaly. The company sells the substance as underground medicine, advertising that a consumer's wish will come true in their dream after use. At least twelve open company buildings are confirmed to be operating.
+
+DREAM .INC is a corrupt commercial mirror of Transformation: it converts an anomalous source into a saleable product before the risks are understood. A.C.T posture is infiltration to map the building network, containment of the product and the extraction apparatus, and appropriation of what can be safely taken into Facility control. The Dream-Type Anomaly and the machine are filed separately under restricted anomaly records.
+
+### Liberty Freedoms (L.F.)
+**Liberty Freedoms**, or **L.F.**, is a dispersed militant insurgency of assessed defector origin whose stated enemy is A.C.T custody itself. It raids transport and recovery operations, publishes controlled document leaks through shifting mastheads, and transports anomalies that have left containment with it, presenting every act as liberation from institutional capture.
+
+L.F. is dangerous because it weaponizes the Facility's own records, routes, and moral language against containment. It must not be confused with A-GA, which seeks the destruction of anomalies; L.F. claims to preserve them. A.C.T posture is containment of cells and carried subjects, dismantling of defector-recruitment and publication paths, and infiltration of a network whose doctrine outruns its members' knowledge.
+
 These examples reveal the larger point of GOI doctrine: not every threat comes from a chambered object or a sleeping entity. Some threats have flags, leaders, markets, clients, ideologies, budgets, and supply routes.
 
 ---
@@ -2803,7 +2818,7 @@ What this book now contains:
 - Full global site registry (5 major sites with complete registry entries)
 - Full supporting sub-site registry (5 sub-sites with complete entries)
 - Complete GOI doctrine (qualification, designation, classification stack, file standard, dual filing)
-- Full sample GOIs (GAA, A-GA, Anstrall Market) with complete classification stacks
+- Full sample GOIs (GAA, A-GA, Anstrall Market, Children of the Deep, DREAM .INC, Liberty Freedoms) with complete classification stacks
 - Complete historical origin (ERE, first signs, first deployment, ENTITY-000, founding, ABYSS Floor construction, first doctrine, transition to modern A.C.T)
 - Foundational anomaly case study: ITHYOS, The World-Sleeper (ENTITY-000 / AFD-CH-000)
 - Foundational anomaly case study: NEMNOLIA, The Golden Veil / The Forgetting Bloom (UFD-NB-004 / AFD-NB-004)
