@@ -1,0 +1,184 @@
+A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER
+Stop-Watch-Recovered-Document-Archive-Dossier-AFD-TI-560
+
+═══════════════════════════════════════════════════════════════════════
+         A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER         
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-TI-560
+TITLE I:             Stop-Watch
+TITLE II:            THE MOMENTARY STILLNESS / THE GOLDEN SECOND-HAND
+FIELD TYPE:          TI — Time / OB — Object
+PRIMARY FILE:        Stop-Watch-AFD-TI-560
+DOCUMENT CATEGORY:   CATEGORY VII — Recovered Document & Archive Dossier
+CATEGORY FUNCTION:   Access and activation archive, recovered inscription
+                     record, and archived operator testimony for the
+                     temporal-suspension pocket-watch.
+CLEARANCE REQUIRED:  Level 4 / O5-Restricted
+CONTAINMENT SITE:    ACT-SITE-03-JP-E — Kurokawa Archive Node / Time-Shielded
+                     Vault
+JURISDICTIONAL AUTHORITY:  Kurokawa Site Command / O5 Oversight
+ARCHIVE STATUS:      Active / O5-restricted
+DOSSIER STATUS:      Open — activation record retained
+
+═══════════════════════════════════════════════════════════════════════
+                           CATEGORY CONTENTS                           
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category VII — Recovered Document & Archive
+Dossier. AFD-TI-560 is an ornate golden pocket-watch, 5 cm in diameter, filled
+with Causal-Reactive Mercury (Item 45). Depressing the crown suspends time
+within a global or semi-global frame for exactly 60 seconds, during which the
+user remains the only thing in motion.
+
+Because the watch is never wound or depressed outside Terminal Emergency
+protocols, its history survives mainly as archive: access records, activation
+records, a recovered inscription, and one operator's testimony.
+
+INCLUDED LOG TYPES:
+   - Access and Handling Archive
+   - Activation Record — 1999 Site-01 Breach Prevention
+   - Activation Record — Ball of Knife Recovery Operation
+   - Recovered Inscription — Back-Case Engraving
+   - Operator Testimony — Dr. Aris Thorne
+   - Archive Closing Note
+
+CATEGORY PURPOSE:
+To preserve the watch's restricted operational history — every documented
+activation, the recovered engraving, and the testimony of the senior
+researcher authorized to carry it.
+
+═══════════════════════════════════════════════════════════════════════
+               SECTION 001 — ACCESS AND HANDLING ARCHIVE               
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-TI-560/ARC-001
+DATE:                1958-03-12 (verification) — ongoing
+LOCATION:            ACT-SITE-03-JP-E — Time-Shielded Vault
+ARCHIVIST:           Temporal Analysis Desk
+STATUS:              Standing access control
+
+ACCESS RECORD:
+
+   - Only O5-approved personnel or Senior Researcher Thorne are authorized
+     to handle the subject
+   - The watch is never to be wound or depressed outside "Terminal Emergency"
+     protocols
+   - The vault is equipped with an active RSA (Item 01) set to a "Misfire
+     Frequency," ensuring any unauthorized attempt results in an Unsuccessful
+     Activation with a reduced recovery window
+
+HANDLING DISCIPLINE:
+
+   - The position of the second hand is monitored daily via Chrono-Stuttered
+     Visors (Item 09) to avoid accidental imprinting by the Causal-Reactive
+     Mercury
+   - Required watch: 1 temporal analyst, 1 high-PR guard
+   - Cadence: daily position check
+
+═══════════════════════════════════════════════════════════════════════
+   SECTION 002 — ACTIVATION RECORD — 1999 SITE-01 BREACH PREVENTION    
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-TI-560/ARC-002
+DATE:                1999
+LOCATION:            Site-01 (activation site) / Site-03 (archive)
+ARCHIVIST:           Temporal Analysis Desk
+STATUS:              Recorded — authorized Terminal Emergency use
+
+ACTIVATION SUMMARY:
+
+The watch was utilized in 1999 to prevent a [ REDACTED ]-level breach at
+Site-01. Details of the breach and the exact chronological intent of the
+activation remain O5-restricted.
+
+CONSEQUENCE RECORD:
+
+   - Activation: successful (full 60-second suspension)
+   - Breach outcome: prevented
+   - Post-activation state: mandatory 7-day recovery phase, second hand
+     regressing counter-clockwise from the 12-mark back to the 12-mark
+
+═══════════════════════════════════════════════════════════════════════
+  SECTION 003 — ACTIVATION RECORD — BALL OF KNIFE RECOVERY OPERATION   
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-TI-560/ARC-003
+DATE:                Recovery operation (on file)
+LOCATION:            Site-01 / Redwood Veil Complex
+ARCHIVIST:           Temporal Analysis Desk
+STATUS:              Recorded — operator testimony attached
+
+ACTIVATION SUMMARY:
+
+Senior Researcher Thorne carried the watch during the recovery of the Ball of
+Knife (AFD-OB-502). The activation record is retained with the operator's own
+account of the event, archived in full in this dossier.
+
+Note: no activation is recorded as trivial. The watch is carried as a terminal
+option, not an instrument of convenience.
+
+═══════════════════════════════════════════════════════════════════════
+       SECTION 004 — RECOVERED INSCRIPTION — BACK-CASE ENGRAVING       
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-TI-560/ARC-004
+DATE:                2021 (partial translation)
+LOCATION:            ACT-SITE-03-JP-E — translation desk
+ARCHIVIST:           Kurokawa translation unit
+STATUS:              Partial translation on file
+
+RECOVERY SUMMARY:
+
+The engravings on the watch's back were partially translated in 2021. They
+read:
+
+"For the one who cannot wait for the sun."
+
+INTERPRETATION NOTE: The engraving frames the watch as a gift for someone who
+cannot bear the ordinary passage of time. Whether the original owner was its
+maker, its victim, or its keeper is not established. The archive retains the
+translation without assigning a story to it.
+
+═══════════════════════════════════════════════════════════════════════
+          SECTION 005 — OPERATOR TESTIMONY — DR. ARIS THORNE           
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-TI-560/ARC-005
+DATE:                On file
+LOCATION:            Senior Researcher Thorne — archived note
+ARCHIVIST:           Temporal Analysis Desk
+STATUS:              Retained in full
+
+TESTIMONY TEXT (retained verbatim):
+
+"I carried this watch during the recovery of the Ball of Knife. Stopping sixty
+seconds of time sounds like a miracle, but when you are the only thing moving
+in a world of statues, the silence is deafening. It doesn't feel like power.
+It feels like a very fast loneliness. Use it only when the alternative is
+extinction."
+
+ARCHIVE NOTE: This is the only first-person account of an activation on file.
+It is preserved because it is the clearest warning the archive holds about the
+cost of the watch — and because the warning comes from the one person
+authorized to carry it.
+
+═══════════════════════════════════════════════════════════════════════
+                  SECTION 006 — ARCHIVE CLOSING NOTE                   
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-TI-560/ARC-CLS-001
+DATE:                2026-09-08
+LOCATION:            Kurokawa Site Command / O5 Oversight
+AUTHOR:              Temporal Analysis Desk
+STATUS:              Standing
+
+The watch's archive is deliberately thin: sixty seconds of absolute stasis
+leaves no witness except the user, and the user's account is the only record
+A.C.T permits itself. In the event of a "Gilded Silence" — an active time stop
+— all personnel are to remain at their posts; the event resolves automatically
+after 60 seconds. The archive's duty is to make sure the watch is never needed
+often enough to fill these pages.
+
+END OF FILE

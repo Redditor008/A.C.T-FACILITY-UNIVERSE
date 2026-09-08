@@ -1,0 +1,193 @@
+A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
+Ball-of-Knife-Behavioral-Observation-Dossier-AFD-OB-502
+
+═══════════════════════════════════════════════════════════════════════
+           A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER           
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-502
+TITLE I:             Ball of Knife
+TITLE II:            THE HATING BLADE / THE BUNDLE OF CONTEMPT
+FIELD TYPE:          OB — Object / ?.H — Shifting Hazard (Pseudo-Sentient
+                     Aggression)
+PRIMARY FILE:        Ball-of-Knife-AFD-OB-502
+DOCUMENT CATEGORY:   CATEGORY VIII — Behavioral & Observation Dossier
+CATEGORY FUNCTION:   Magnetic-restraint watch, aggression-behavior logging,
+                     hate-signal monitoring, and wire-lattice activity
+                     records.
+CLEARANCE REQUIRED:  Level 4
+CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex
+JURISDICTIONAL AUTHORITY:  Redwood Veil Command / Combat-Anomaly Desk
+ARCHIVE STATUS:      Active / Combat-anomaly restricted
+DOSSIER STATUS:      Open — continuous observation under magnetic lock
+
+═══════════════════════════════════════════════════════════════════════
+                           CATEGORY CONTENTS                           
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category VIII — Behavioral & Observation
+Dossier. AFD-OB-502 is a self-organizing mass of bladed tools driven by a
+primitive but extreme sentience: an absolute contempt for biological life. It
+is suspended in the geometric center of a high-intensity magnetic vault at
+ACT-SITE-01-US-W under a continuous 2-ton (19.6 kN) electromagnetic field.
+
+Observation is performed through non-magnetic robotic arms, gravimetric and
+acoustic sensors, and remote monitoring. No living organism — including
+E-Class subjects — may enter the primary chamber while the subject is active.
+
+INCLUDED LOG TYPES:
+   - Magnetic-Restraint and Vibration Watch
+   - Aggression and Life-Seeking Behavior Log
+   - Hate-Signal Monitoring — Psychological Note
+   - Wire-Lattice Activity — The 'QUIT' Observation
+   - 2011 Breach Review — Door Vibrational Bypass
+   - Closing Observation Statement
+
+CATEGORY PURPOSE:
+To track the subject's aggression baseline and restraint integrity so that
+reconfiguration attempts, provocation states, and containment stress are
+recognized the moment they begin.
+
+═══════════════════════════════════════════════════════════════════════
+         SECTION 001 — MAGNETIC-RESTRAINT AND VIBRATION WATCH          
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-502/OBS-001
+DATE:                1994-12-05 (verification) — ongoing
+LOCATION:            ACT-SITE-01-US-W — magnetic vault
+OBSERVER:            Magnetic-Field Technician / Remote Operator
+STATUS:              Continuous — field nominal
+
+The subject is held suspended by a continuous 2-ton electromagnetic field
+maintained by redundant power supplies backed by [ REDACTED ] energy crystals.
+A sustained field of this strength is the only confirmed method of inhibiting
+the subject's internal wire-reconfiguration and preventing its movement.
+
+VIBRATION WATCH:
+
+   - Vibration levels monitored continuously (gravimetric and acoustic)
+   - Rhythmic "Clicking" or "Grinding" above 40 dB indicates an attempt to
+     reconfigure the wire-lattice to bypass the magnetic flux
+   - Required watch: 2 magnetic-field technicians, 1 remote operator
+   - Cadence: continuous monitoring / weekly electromagnetic stress-test
+
+OBSERVER NOTE: The clicking is not noise. It is the subject thinking in tools.
+
+═══════════════════════════════════════════════════════════════════════
+        SECTION 002 — AGGRESSION AND LIFE-SEEKING BEHAVIOR LOG         
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-502/OBS-002
+DATE:                1994-2024 review series
+LOCATION:            ACT-SITE-01-US-W — observation records
+OBSERVER:            Combat-Anomaly Desk
+STATUS:              Baseline confirmed
+
+BEHAVIORAL BASELINE:
+
+   - Detects living organisms with 100% accuracy within its 50 m active
+     radius despite possessing no eyes, ears, or nervous tissue
+   - When unrestrained, moves by rolling, lunging, and spinning at high
+     velocity
+   - Targets any biological organism in its vicinity, attempting to slice,
+     cut, chop, and stab until the target is effectively disarticulated
+   - "Hate" intensifies the closer the subject gets to a living Heart-Signal
+
+DISCOVERY CONTEXT:
+
+The subject was recovered during Operation Cold Shear following an
+"Unstoppable Mutilation" event in a New York City sub-level mechanical room —
+8 confirmed civilian fatalities, structured as a localized elevator cable
+failure. Its behavior has not changed since recovery. It was not learning; it
+was already complete.
+
+═══════════════════════════════════════════════════════════════════════
+       SECTION 003 — HATE-SIGNAL MONITORING — PSYCHOLOGICAL NOTE       
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-502/OBS-003
+DATE:                Standing
+LOCATION:            ACT-SITE-01-US-W — observation wing
+OBSERVER:            Psychological Review Desk
+STATUS:              Active — personnel rotation enforced
+
+Proximity to the subject triggers an intense emotional surge of hatred and
+anger in personnel, believed to be an empathic bleed-off from the object
+itself. Researchers with a high PR score report hearing the subject's hate as
+a background hum.
+
+A senior researcher's note is retained in the behavioral file:
+
+"It doesn't hate us for what we are; it hates us for the fact that we can be
+warm. It finds the concept of blood circulation to be a personal offense."
+
+OBSERVER NOTE: The hate is not a malfunction of the subject. It is the
+subject. Observation shifts are capped, and no personnel are assigned to the
+vault long enough to mistake its contempt for a message.
+
+═══════════════════════════════════════════════════════════════════════
+     SECTION 004 — WIRE-LATTICE ACTIVITY — THE 'QUIT' OBSERVATION      
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-502/OBS-004
+DATE:                On file
+LOCATION:            ACT-SITE-01-US-W — magnetic vault
+OBSERVER:            Remote Operator
+STATUS:              Recorded — interpretation fixed
+
+EVENT SUMMARY:
+
+When the subject is successfully pinned by the 2-ton field, its wire-lattice
+has been observed spelling out the word:
+
+"QUIT"
+
+INTERPRETATION: This is not a request for peace. Per Combat-Anomaly Desk
+doctrine, it is a command to the Facility to stop existing. The word is
+treated as threat language, not negotiation.
+
+═══════════════════════════════════════════════════════════════════════
+      SECTION 005 — 2011 BREACH REVIEW — DOOR VIBRATIONAL BYPASS       
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-502/OBS-005
+DATE:                2011 (breach review)
+LOCATION:            ACT-SITE-01-US-W — containment wing
+OBSERVER:            Combat-Anomaly Desk / Incident review
+STATUS:              Closed — containment updated
+
+EVENT SUMMARY:
+
+During the 2011 breach, AFD-OB-502 bypassed a standard steel door by vibrating
+its sharpest edges at a frequency that caused the door's molecular structure
+to [ BLANK ]. Standard kinetic weaponry was not engaged, per protocol; the
+subject was isolated with mobile magnetic barriers and guided back to a secure
+zone.
+
+CONTAINMENT UPDATES AFTER REVIEW:
+
+   - Emergency seal: vault floods with high-density quick-setting polymer on
+     power failure to delay burrowing until the field is restored
+   - No biological entry at any activity state
+   - Standard steel doors replaced with magnetic-lock assemblies in the
+     containment wing
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 006 — CLOSING OBSERVATION STATEMENT              
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-502/OBS-CLS-001
+DATE:                2026-09-08
+LOCATION:            Combat-Anomaly Desk
+AUTHOR:              Behavioral Review Desk
+STATUS:              Standing
+
+Observation of AFD-OB-502 is observation of a "Thought of Violence" that has
+manifested a physical body. Its identity and its danger are the same thing,
+which is why its transformation viability is INVIOLABLE. The vault does not
+contain a monster that hates us. It contains a theory of harm that learned to
+hold a blade. The field holds. The watch keeps. The clicking is the only
+debate it is permitted to have.
+
+END OF FILE

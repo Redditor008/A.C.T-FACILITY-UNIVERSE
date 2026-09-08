@@ -1,0 +1,192 @@
+A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+AFS-312-Experiment-Testing-Dossier-AFD-OB-312
+
+═══════════════════════════════════════════════════════════════════════
+             A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER             
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-312
+TITLE I:             AFS-312 (Anti Force Shock-312)
+TITLE II:            THE SOLAR RAILGUN / THE LIGHTNING STRIKE FROM TOMORROW
+FIELD TYPE:          OB — Object (unknown temporal origin)
+PRIMARY FILE:        AFS-312-Anti-Force-Shock-AFD-OB-312
+DOCUMENT CATEGORY:   CATEGORY IV — Experiment & Testing Dossier
+CATEGORY FUNCTION:   Charge-cycle calibration, firing-mode discharge tests,
+                     and calibration-anomaly records for the solar railgun.
+CLEARANCE REQUIRED:  Level 3 / Tactical Review Desk
+CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex
+JURISDICTIONAL AUTHORITY:  Redwood Veil Command / Tactical Review Desk
+ARCHIVE STATUS:      Active / Tactical-discharge restricted
+DOSSIER STATUS:      Open — authorized testing under ballistic-vacuum protocol
+
+═══════════════════════════════════════════════════════════════════════
+                           CATEGORY CONTENTS                           
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category IV — Experiment & Testing Dossier.
+AFD-OB-312 is held in a Total Light-Absorb vault at ACT-SITE-01-US-W, where
+solar denial prevents any recharge outside authorized testing. All discharge
+testing is performed within a ballistic-vacuum range, with no biological
+subjects permitted in the firing lane during a 100% Focused Charge event.
+
+The weapon is rated as 10X more powerful than a standard 21st-century
+anti-material rifle and converts solar radiation into focused electromagnetic
+bolts that scorch all known biological and industrial materials.
+
+INCLUDED LOG TYPES:
+   - Charge-Cycle and Solar-Absorption Calibration
+   - Discharge Protocol — 50% Weak Scatter Shot
+   - Discharge Protocol — 100% Focused Charge Shot
+   - Discharge Protocol — 10% Multi-Shot
+   - 2023 Calibration Anomaly — Guild Registry Message
+   - Closing Testing Note
+
+CATEGORY PURPOSE:
+To record the discharge behavior of each firing profile and the weapon's
+charge mechanics, so that authorized breach-suppression use rests on tested
+fact rather than manufacturer legend.
+
+═══════════════════════════════════════════════════════════════════════
+      SECTION 001 — CHARGE-CYCLE AND SOLAR-ABSORPTION CALIBRATION      
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-312/EXP-001
+DATE:                2021-06-02 (verification) — ongoing
+LOCATION:            ACT-SITE-01-US-W — Total Light-Absorb vault
+TEST SUPERVISOR:     Weapons Technician / Tactical Review Desk
+STATUS:              Calibration baseline anchored
+
+The subject cannot auto-recharge outside authorized testing because its vault
+is held at 0% light intensity at all times. Under test lighting, the weapon's
+folding solar-intake array recharges its capacitors through a layer of
+Phase-Shifted Containment Glass (Item 35), which admits light while remaining
+physically indestructible.
+
+CALIBRATION RECORD:
+
+   - Recharge behavior: 20-minute cooldown per single charge refill
+   - Technicians attribute the cooldown to a safety limitation preventing the
+     [ REDACTED ] cooling pipes from melting
+   - Core temperature held stable at 15°C via the Cryo-Seismic Stabilizer
+     (Item 26) loop
+   - The ten (10) Rotating Power-Charge Discs are inspected remotely every 30
+     days; spin without a charge-command triggers a Static-Purge of the
+     chamber
+
+═══════════════════════════════════════════════════════════════════════
+       SECTION 002 — DISCHARGE PROTOCOL — 50% WEAK SCATTER SHOT        
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-312/EXP-002
+DATE:                2021-2024 test series
+LOCATION:            Ballistic-vacuum range / Site-01
+TEST SUPERVISOR:     Weapons Technician
+STATUS:              Profile confirmed
+
+TEST SUMMARY:
+
+The wide-angle area-denial profile discharges a fan of electrical scatter that
+scorches all surfaces within a 15 m cone. Effective range is short —
+approximately 50 m — with the beam dissipating into ordinary ionization beyond
+that boundary.
+
+OBSERVED CHARACTERISTICS:
+
+   - Blue-white disc illumination during the charge cycle
+   - Sharp electronic whine during charge and release
+   - No biological targets permitted in the affected cone
+   - Residual ionization stabilized post-test with the RSA (Item 01)
+
+═══════════════════════════════════════════════════════════════════════
+      SECTION 003 — DISCHARGE PROTOCOL — 100% FOCUSED CHARGE SHOT      
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-312/EXP-003
+DATE:                2021-2024 test series
+LOCATION:            Ballistic-vacuum range / Site-01
+TEST SUPERVISOR:     Weapons Technician / Tactical Review Desk
+STATUS:              Profile confirmed — primary lethality mode
+
+TEST SUMMARY:
+
+The weapon's primary lethality mode requires a sustained 5-minute charge
+before release. The resulting bolt pierces a 5 cm hole through solid Abyssal
+Basalt (Item 50) at ranges up to 550 m. The 5-minute charge time is analyzed
+as a mathematical necessity for stabilizing the bolt's trajectory.
+
+RESTRICTIONS:
+
+   - No biological subjects permitted within the firing lane
+   - Range confined to the ballistic-vacuum facility
+   - This profile is the sole authorized mode for Site-Scale Breach
+     Suppressor duty in the event of a high-tier containment failure at
+     Site-01
+
+═══════════════════════════════════════════════════════════════════════
+           SECTION 004 — DISCHARGE PROTOCOL — 10% MULTI-SHOT           
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-312/EXP-004
+DATE:                2021-2024 test series
+LOCATION:            Ballistic-vacuum range / Site-01
+TEST SUPERVISOR:     Weapons Technician
+STATUS:              Profile confirmed
+
+TEST SUMMARY:
+
+The rapid-fire suppression profile discharges ten (10) low-intensity bolts
+with a 5-second mechanical delay between each discharge. Bolt intensity is
+markedly reduced against the focused profile, making the mode suitable for
+suppression rather than penetration.
+
+OBSERVED CHARACTERISTICS:
+
+   - Sustained series of 10 discharges per charge
+   - Disc rotation speed varies per selected mode
+   - Recharge requirement unchanged: 20 minutes per full refill
+
+═══════════════════════════════════════════════════════════════════════
+    SECTION 005 — 2023 CALIBRATION ANOMALY — GUILD REGISTRY MESSAGE    
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-312/EXP-005
+DATE:                2023 (calibration cycle)
+LOCATION:            ACT-SITE-01-US-W — Total Light-Absorb vault
+TEST SUPERVISOR:     Weapons Technician / Tactical Review Desk
+STATUS:              Under review — possible causal link
+
+EVENT SUMMARY:
+
+During the 2023 calibration test, the weapon's side-mounted LCD Status Panel
+briefly displayed a message in modern English:
+
+"MAINTENANCE OVERDUE. CONTACT GUILD REGISTRY."
+
+ANALYSIS:
+
+   - The display normally reports Charge Percentage, Core Temperature, and
+     Causal Alignment only
+   - The hardware carries manufacturing stamps from an unidentified future
+     era and its internal OS operates on [ REDACTED ] logic gates
+   - The message provides a possible causal link to the origin of AFD-SU-020
+     (Vesper) and is retained under Tactical Review Desk jurisdiction
+
+═══════════════════════════════════════════════════════════════════════
+                  SECTION 006 — CLOSING TESTING NOTE                   
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-312/EXP-CLS-001
+DATE:                2026-09-08
+LOCATION:            Tactical Review Desk
+AUTHOR:              Weapons Technician, Site-01
+STATUS:              Standing
+
+Testing confirms the weapon is exactly what its stamped future claims it to
+be: a mass-produced model of an Anti Force Shock rifle. It is inanimate, poses
+no movement threat, and is currently the only authorized long-range
+suppression asset for a high-tier Site-01 containment failure. The railgun is
+kept honest by the vault: at 0% light, tomorrow's weapon is today's
+paperweight.
+
+END OF FILE
