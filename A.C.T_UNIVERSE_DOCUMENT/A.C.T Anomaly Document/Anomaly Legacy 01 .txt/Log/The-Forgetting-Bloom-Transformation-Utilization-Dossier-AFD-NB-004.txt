@@ -11,8 +11,9 @@ TITLE I:             The Forgetting Bloom
 TITLE II:            NEMNOLIA, THE GOLDEN VEIL
 FIELD TYPE:          NB — Non-Natural Bio Hazard
 PRIMARY FILE:        The-Forgetting-Bloom-AFD-NB-004
-PAIRED RECORD:       UFD-NB-004 — The-Forgetting-Bloom-UFD-NB-004 (sealed
-                     early transition record)
+RELATED INTAKE:      UFD-NB-004 — separate unfiled intake record of the same
+                     subject (sealed); a distinct intake document, never a
+                     copy or twin of this AFD record
 DOCUMENT CATEGORY:   CATEGORY IX — Transformation & Utilization Dossier
 CATEGORY FUNCTION:   Cultivation record, sap-exposure incident summary,
                      derivative refinement history, and integrated-utility
@@ -43,7 +44,7 @@ INCLUDED LOG TYPES:
    - Cultivation and Bloom-Cycle Observation
    - Sap-Exposure and Incident Record
    - Derivative Refinement — Amnestic Compound Production
-   - UFD Historical Transition Record
+   - Intake-Type Clarification — UFD and AFD Records
    - Memory-As-Structure Theory Review
    - Closing Utilization Statement
 
@@ -136,33 +137,35 @@ derivative use. Without AFD-NB-004, mass witness sanitation would be
 significantly less reliable.
 
 ═══════════════════════════════════════════════════════════════════════
-            SECTION 004 — UFD HISTORICAL TRANSITION RECORD             
+  SECTION 004 — INTAKE-TYPE CLARIFICATION — UFD-NB-004 AND AFD-NB-004  
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-NB-004/TRF-004
-DATE:                Sealed archive — early biohazard record
-LOCATION:            UFD-NB-004 file / restricted distribution
-OBSERVER:            Early Biohazard Containment Record
-STATUS:              Sealed — historical reference only
+DATE:                Standing — intake-type doctrine
+LOCATION:            Primary Facility — Central Archive Administration
+OBSERVER:            Archive reviewer / Transformation Division
+STATUS:              Distinction doctrine anchored
 
-HISTORICAL SUMMARY:
+INTENT STATEMENT:
 
-The paired record UFD-NB-004 preserves the raw entity-anomaly transition
-history. The discovery team documented the organism after repeated incidents
-of memory loss, disorientation, missing time, and contradictory witness
-testimony, and concluded it could not be treated as a simple plant, poison, or
-hallucinogenic species: its sap affects memory itself as if memory were a
-removable physical structure.
+UFD-NB-004 and AFD-NB-004 are two different intake records concerning the same
+subject. They are not clones, copies, or synchronized twins of one another.
+This dossier is the AFD intake record. Content held in the UFD record is
+preserved in that record and in its own Log dossier; it is not restated here.
 
-The team concluded the organism was too valuable to destroy and too dangerous
-to leave unmanaged. Initial directives required no direct unmasked handling,
-no solo observation during bloom, no unfiltered sap contact, no civilian
-knowledge, immediate sealing of extracted sap, and recall testing for all
-exposed personnel.
+INTAKE DISTINCTION:
 
-HISTORICAL NOTE: UFD-NB-004 is believed to be one of the earliest anomalies
-successfully transformed into a controlled strategic asset. Its later
-derivatives became the foundation of A.C.T amnestic compounds.
+UFD-NB-004 is the unfiled intake record: the raw early capture written before
+formal designation, sealed under Early Biohazard Containment Record authority
+with restricted distribution. AFD-NB-004 is the verified archive designation:
+the formal anomaly file under which the organism is cultivated, refined, and
+managed as an integrated asset. Different intake stages produce different
+records; neither record is derived from the other.
+
+ARCHIVE RULE: Do not merge, mirror, regenerate, or delete either intake record
+in favor of the other. Where the two records differ in detail, the difference
+is intake history, not error. UFD-NB-004 remains sealed historical intake;
+AFD-NB-004 remains the active record of record.
 
 ═══════════════════════════════════════════════════════════════════════
             SECTION 005 — MEMORY-AS-STRUCTURE THEORY REVIEW            
