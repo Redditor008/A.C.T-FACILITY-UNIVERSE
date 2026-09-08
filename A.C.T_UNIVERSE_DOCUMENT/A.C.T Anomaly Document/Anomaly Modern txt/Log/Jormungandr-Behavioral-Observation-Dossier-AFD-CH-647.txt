@@ -1,0 +1,180 @@
+A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
+Jormungandr-Behavioral-Observation-Dossier-AFD-CH-647
+
+═══════════════════════════════════════════════════════════════════════
+           A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER           
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-CH-647
+TITLE I:             Jormungandr
+TITLE II:            THE OBSIDIAN COIL THAT DRINKS THE MOUNTAIN
+FIELD TYPE:          CH — Cosmic Hazard / Volcanic serpentiform sapient entity
+                     / possible ITHYOS-lineage claim
+PRIMARY FILE:        Jormungandr-AFD-CH-647
+DOCUMENT CATEGORY:   CATEGORY VIII — Behavioral & Observation Dossier
+CATEGORY FUNCTION:   Feeding-cycle monitoring, pressure-regulation behavior,
+                     temperament tracking, and provocation watch.
+CLEARANCE REQUIRED:  Level 4 / Serpent-Class Contact Authorization
+CONTAINMENT SITE:    Primary Facility / Remote Volcanic Monitoring Extension
+JURISDICTIONAL AUTHORITY:  Cosmic Hazard Review / Primary Facility Command /
+                           Volcanic Monitoring Desk
+ARCHIVE STATUS:      Active / Behavioral monitoring under standing review
+DOSSIER STATUS:      Open — observation cadence maintained
+
+═══════════════════════════════════════════════════════════════════════
+                           CATEGORY CONTENTS                           
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category VIII — Behavioral & Observation
+Dossier. AFD-CH-647's containment depends on understanding its behavior,
+feeding, and temperament — not on locking it away. The subject is contained in
+place beneath Mount [ REDACTED ] through continuous seismic and thermal
+monitoring, weekly resonance check-ins, and a strict no-provocation rule.
+
+Observation is conducted from a concealed monitoring installation on the upper
+volcanic rim, linked to the Primary Facility through sealed seismic relay.
+Nothing in this dossier authorizes entry to the chamber.
+
+INCLUDED LOG TYPES:
+   - Feeding-Cycle and Pressure-Regulation Log
+   - Temperament and Cooperation Review
+   - Aversion and Provocation Watch
+   - Silence Protocol — When Quiet Means Trouble
+   - Closing Observation Statement
+
+CATEGORY PURPOSE:
+To track the subject's behavioral baseline so that deviation — early,
+dangerous, or otherwise — can be recognized the moment it begins.
+
+═══════════════════════════════════════════════════════════════════════
+        SECTION 001 — FEEDING-CYCLE AND PRESSURE-REGULATION LOG        
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-CH-647/OBS-001
+DATE:                1974-09-18 (detection) — ongoing
+LOCATION:            Mount [ REDACTED ] — lower-chamber seismic imaging
+OBSERVER:            Seismic Analysis Desk / Volcanic Monitoring Desk
+STATUS:              Continuous
+
+The volcano displayed 11 months of abnormal internal motion, heat fluctuation,
+and magma pressure inconsistent with dormancy — and did not erupt. Sensor
+review showed that magma pressure was being actively redistributed by a large
+coiled body moving within the lower chamber.
+
+The volcano was not failing to erupt because it was inactive. It was failing
+to erupt because AFD-CH-647 was holding the pressure in a stable pattern while
+feeding. Its primary food source is dark red volcanic rock formed in the lower
+chamber; its primary drink is molten lava.
+
+STANDING OBSERVATION:
+
+   - Feeding cycles are long-duration and slow-moving
+   - Movement correlates with volcanic pressure waves
+   - Required watch: 2 seismic analysts, 1 heat-resonance linguist,
+     1 volcanic systems engineer, 1 remote security officer
+   - Cadence: continuous seismic and thermal monitoring / weekly resonance
+     check-in / monthly rim-station inspection / annual exclusion-zone audit
+
+OBSERVER NOTE: If lower-chamber thermal flow is not confirmed, the subject's
+silence is not peace. In this case, quiet may mean the serpent has stopped
+feeding.
+
+═══════════════════════════════════════════════════════════════════════
+           SECTION 002 — TEMPERAMENT AND COOPERATION REVIEW            
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-CH-647/OBS-002
+DATE:                Reviewed annually
+LOCATION:            Mount [ REDACTED ] / Cosmic Hazard Review
+OBSERVER:            Behavioral Review Desk
+STATUS:              Stable — no hostile pattern
+
+AFD-CH-647 is not hostile by default. The subject is neutral in its place in
+the world and has repeatedly demonstrated friendly or cooperative behavior
+when not provoked. It does not pursue civilians, does not demand worship, and
+does not attempt surface emergence under stable feeding and monitoring
+conditions.
+
+REVIEW FINDINGS:
+
+   - No unprovoked aggression observed since detection
+   - Cooperation is conditional on feeding stability and absence of
+     provocation — it is not consent for exploitation
+   - Not approved for transformation, repurposing, weaponization, thermal
+     energy harvesting, scale extraction, or serpent-class dominance testing
+   - The subject's dignity is a containment requirement: it responds poorly to
+     worshipful titles and worse to military asset language
+
+OBSERVER NOTE: The subject is dangerous by scale and environment, not by
+default temperament. Those two facts must be held together. Neither justifies
+treating it as a weapon, and neither justifies treating it as a pet.
+
+═══════════════════════════════════════════════════════════════════════
+             SECTION 003 — AVERSION AND PROVOCATION WATCH              
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-CH-647/OBS-003
+DATE:                Standing
+LOCATION:            Mount [ REDACTED ] — rim station and relay
+OBSERVER:            Remote Security Officer / Volcanic Monitoring Desk
+STATUS:              Active — no violations to date
+
+Aversion triggers are monitored as part of containment. Any sign of the
+following is reported immediately:
+
+   - forced cooling agents introduced to the chamber
+   - deep drilling near the head chamber
+   - explosive pressure-release charges
+   - serpent-class submission experiments
+   - attempts to compel surface emergence
+   - language that frames the subject as a monster, weapon, or eruption
+     trigger
+
+No serpent-type organism may be brought into AFD-CH-647's chamber. This is
+both a standard ITHYOS-derived serpent-class safety rule and a protection
+measure for AFD-CH-647. Cosmic Hazard Review has not determined whether direct
+ITHYOS influence exposure would produce submission behavior in AFD-CH-647,
+distress, or a more severe response.
+
+═══════════════════════════════════════════════════════════════════════
+       SECTION 004 — SILENCE PROTOCOL — WHEN QUIET MEANS TROUBLE       
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-CH-647/OBS-004
+DATE:                2026-09-08 (codified from Additional Notes)
+LOCATION:            Mount [ REDACTED ] / Cosmic Hazard Review
+OBSERVER:            Seismic Analysis Desk
+STATUS:              Standing rule
+
+Rule: if the volcano becomes quiet, do not celebrate until lower-chamber
+thermal flow is confirmed. In this case, silence may mean the serpent has
+stopped feeding.
+
+For a normal volcano, silence is a return to dormancy. For this one, silence
+may mean the serpent has stopped feeding — which precedes the one condition
+A.C.T cannot manage: a mountain that has been left to answer for itself.
+
+ACTION ON QUIET:
+
+   - Confirm lower-chamber thermal flow within the hour
+   - Verify dark red volcanic rock formation availability
+   - Begin calm resonance contact, not emergency measures
+   - Do not introduce emergency feed unless availability is confirmed low
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 005 — CLOSING OBSERVATION STATEMENT              
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-CH-647/OBS-CLS-001
+DATE:                2026-09-08
+LOCATION:            Cosmic Hazard Review
+AUTHOR:              Behavioral Review Desk
+STATUS:              Standing
+
+Observation exists to protect a baseline: a serpent that eats, a mountain that
+stays a mountain, and a world that never has to learn the difference. Every
+log in this dossier is a record of that baseline holding. The day a log stops
+matching the baseline is the day this file becomes an alarm.
+
+END OF FILE
