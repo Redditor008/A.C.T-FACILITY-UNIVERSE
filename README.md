@@ -78,7 +78,7 @@ Per the **2026-09-07 Core Worldbuilding Consistency Review** (`RESEARCH FOLDER/`
 | Main story | `…/ACT MAIN STORY/` | Story Index, full manuscripts, chapters (1–12 + Epilogue, md+txt), Archives, Characters, Narrative, Outlines |
 | Handbook | `…/Junior Handbook/` | `ACT_Orientation_Handbook` (md+txt) |
 | BOOK | `…/'A History of Anomaly Containment Transformation' BOOK.md` | In-universe history, md-only |
-| Reviews | `RESEARCH FOLDER/` | Dated consistency/style reviews — read before large edits |
+| Reviews | `RESEARCH FOLDER/` | Dated consistency/style reviews + working/provenance notes — read before large edits |
 
 ---
 
