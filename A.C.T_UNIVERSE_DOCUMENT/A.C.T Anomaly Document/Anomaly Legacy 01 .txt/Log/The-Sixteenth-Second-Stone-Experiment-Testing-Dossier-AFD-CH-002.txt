@@ -1,0 +1,185 @@
+A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+The-Sixteenth-Second-Stone-Experiment-Testing-Dossier-AFD-CH-002
+
+═══════════════════════════════════════════════════════════════════════
+             A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER             
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-CH-002
+TITLE I:             The Sixteenth-Second Stone
+TITLE II:            THE SMALL STAR THAT THINS TIME
+FIELD TYPE:          CH — Cosmic Hazard / object-presenting anomaly /
+                     localized temporal dilution
+PRIMARY FILE:        The-Sixteenth-Second-Stone-AFD-CH-002
+DOCUMENT CATEGORY:   CATEGORY IV — Experiment & Testing Dossier
+CATEGORY FUNCTION:   Temporal-dilution threshold mapping,
+                     reflected-observation testing, media-capture records, and
+                     continuity-injury review.
+CLEARANCE REQUIRED:  Level 3
+CONTAINMENT SITE:    ACT-SITE-05-ID-C — Nusantara Deep Relay / chronometric
+                     isolation chamber
+JURISDICTIONAL AUTHORITY:  Chronometric Review Cell / Central Archive
+                           Administration
+ARCHIVE STATUS:      Active / chronometric restricted
+DOSSIER STATUS:      Open — two-person timing confirmation
+
+═══════════════════════════════════════════════════════════════════════
+                           CATEGORY CONTENTS                           
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category IV — Experiment & Testing Dossier.
+AFD-CH-002 is a medium-sized object resembling a dark, smooth meteorite
+fragment suspended inside a cage of pale metallic ribs, measuring
+approximately 84 cm by 51 cm by 46 cm with a mass of 112 kg. After sixteen
+continuous seconds of exposure within its influence zone, local time begins to
+dilute: events still occur, but portions of their continuity fail to arrive.
+
+The anomaly is not to be described as a time-slowing object. Slowed time
+remains whole. Diluted time does not. All chamber entry uses two-person timing
+confirmation with one observer outside and one remote clock visible.
+
+INCLUDED LOG TYPES:
+   - Exposure-Threshold Mapping
+   - Reflected Observation — Secondary Influence Vector Testing
+   - Media-Capture Anomaly Record
+   - Retrieval-Witness Continuity Case
+   - Recovery and Continuity-Injury Review
+   - Closing Testing Note
+
+CATEGORY PURPOSE:
+To map the dilution thresholds precisely enough that no personnel ever cross
+the sixteenth second, and to record what happens to continuity when someone
+does.
+
+═══════════════════════════════════════════════════════════════════════
+               SECTION 001 — EXPOSURE-THRESHOLD MAPPING                
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-CH-002/EXP-001
+DATE:                2009-04-29 (verification) — ongoing
+LOCATION:            ACT-SITE-05-ID-C — chronometric isolation chamber
+TEST SUPERVISOR:     Chronometric observer / containment technician
+STATUS:              Thresholds confirmed
+
+THRESHOLD RECORD:
+
+   - 1 to 15 seconds: no reliable anomalous effect
+   - 16 to 24 seconds: mild missing-time sensation, audio gaps, delayed
+     pulse rhythm, incorrect shadow position
+   - 25 to 40 seconds: movement visibly discontinuous; short-term memory
+     develops sequence errors
+   - 41 to 60 seconds: possible partial temporal absence; observers report
+     the subject occupying two adjacent moments at once
+   - Over 60 seconds: risk of permanent continuity injury — memory holes,
+     arrhythmic organ timing, inability to perceive event order
+
+PERSONNEL RULE: No personnel may stand inside the marked influence zone for
+more than ten continuous seconds. Subjects removed before the sixteenth second
+show no lasting effect.
+
+═══════════════════════════════════════════════════════════════════════
+SECTION 002 — REFLECTED OBSERVATION — SECONDARY INFLUENCE VECTOR TESTING
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-CH-002/EXP-002
+DATE:                Standing — containment-environment tests
+LOCATION:            ACT-SITE-05-ID-C — chamber survey
+TEST SUPERVISOR:     Chronometric Review Cell
+STATUS:              Restrictions confirmed
+
+TEST SUMMARY:
+
+Prior tests show that reflected observation may create secondary influence
+vectors, though reflections remain weaker than the primary field. The
+containment chamber therefore contains no mirrors, polished surfaces, glass
+panels, or autonomous recording devices inside the influence zone.
+
+CONTAINMENT CONSEQUENCE: The object is not to be rotated without written
+approval from Chronometric Review and Site Command. Any accidental
+reorientation is a containment emergency until the influence zone has been
+mapped and sealed.
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 003 — MEDIA-CAPTURE ANOMALY RECORD               
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-CH-002/EXP-003
+DATE:                On file
+LOCATION:            ACT-SITE-05-ID-C — passive recording review
+TEST SUPERVISOR:     Chronometric observer
+STATUS:              Recorded — media artifacts confirmed
+
+RECORD SUMMARY:
+
+Recorded media captured inside the active zone contains missing frames,
+impossible overlaps, and short intervals where the subject is visible but no
+longer has a matching timestamp. Optical instruments placed near the object
+record faint stellar parallax inconsistent with the interior containment room.
+
+SPECTROGRAPHIC NOTE: The object reflects light from a sky that is not
+currently visible from Earth — star positions matching no current, historical,
+or predicted future sky map within accepted cosmological models.
+
+═══════════════════════════════════════════════════════════════════════
+            SECTION 004 — RETRIEVAL-WITNESS CONTINUITY CASE            
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-CH-002/EXP-004
+DATE:                2009 — Operation Quiet Meridian Retrieval
+LOCATION:            Atacama Region, Chile — abandoned observatory
+TEST SUPERVISOR:     Chronometric Review Cell
+STATUS:              Case on file
+
+CASE SUMMARY:
+
+During Retrieval Operation Quiet Meridian, one civilian witness remained in
+the active zone for an estimated 72 seconds. The witness survived but could
+not answer questions in chronological order. When asked what happened first,
+the witness replied: "The last part got here before I did."
+
+RETRIEVAL RECORD: The operation followed civilian missing-time reports, atomic
+clock disagreement, and astronomical equipment failure at an abandoned
+observatory storage room. Six exposures were confirmed and nineteen suspected,
+controlled as carbon monoxide exposure and equipment fault.
+
+═══════════════════════════════════════════════════════════════════════
+          SECTION 005 — RECOVERY AND CONTINUITY-INJURY REVIEW          
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-CH-002/EXP-005
+DATE:                Standing — exposure follow-up
+LOCATION:            Medical continuity monitoring
+TEST SUPERVISOR:     Medical responder on standby
+STATUS:              Recovery profile confirmed
+
+REVIEW SUMMARY:
+
+Subjects removed before the sixteenth second show no lasting effect. Subjects
+removed after activation may recover if exposure remains under forty seconds,
+though they frequently report remembering actions in the wrong order for
+several hours. A.C.T does not currently possess a reliable method to restore
+all missing sequence data after prolonged exposure.
+
+No repurposing trial may exceed twelve seconds of direct-zone interaction.
+Testing beyond this threshold requires Level 4 authorization and medical
+continuity monitoring.
+
+═══════════════════════════════════════════════════════════════════════
+                  SECTION 006 — CLOSING TESTING NOTE                   
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-CH-002/EXP-CLS-001
+DATE:                2026-09-08
+LOCATION:            Chronometric Review Cell
+AUTHOR:              Cosmic Hazard Study Unit
+STATUS:              Standing
+
+Testing keeps one number holy: sixteen. Before it, the stone is a curious
+object with impossible mass. After it, time stops arriving whole. The
+sixteen-second delay is believed to be either a calibration threshold or a
+safety interval remaining from the object's original function — A.C.T treats
+it as both, and keeps every experiment on the safe side of the boundary it was
+kind enough to leave.
+
+END OF FILE

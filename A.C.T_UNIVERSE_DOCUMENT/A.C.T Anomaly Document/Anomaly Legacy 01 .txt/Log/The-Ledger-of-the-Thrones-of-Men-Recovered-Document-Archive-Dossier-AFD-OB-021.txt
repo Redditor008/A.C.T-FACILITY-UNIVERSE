@@ -1,0 +1,211 @@
+A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER
+The-Ledger-of-the-Thrones-of-Men-Recovered-Document-Archive-Dossier-AFD-OB-021
+
+═══════════════════════════════════════════════════════════════════════
+         A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER         
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-021
+TITLE I:             The Ledger of the Thrones of Men
+TITLE II:            THE COUNTESS OF HORN — A SECRET CHRONICLE
+FIELD TYPE:          OB — Object / anomalous historical ledger /
+                     sovereign-chain archive
+PRIMARY FILE:        The-Ledger-of-the-Thrones-of-Men-AFD-OB-021
+RELATED ANOMALY:     AFD-SU-009 — The Goat Man-NOO IAM A WOMAN (the Countess /
+                     Her Ladyship)
+DOCUMENT CATEGORY:   CATEGORY VII — Recovered Document & Archive Dossier
+CATEGORY FUNCTION:   Sovereign-chain mechanism study, recovered-text register,
+                     marginal-correction record, and custodial doctrine for
+                     the Countess's secret chronicle.
+CLEARANCE REQUIRED:  Level 3
+CONTAINMENT SITE:    Primary Facility / Sealed Noble-Lineage Document Chamber
+JURISDICTIONAL AUTHORITY:  Central Archive Administration / Historical Anomaly
+                           Review
+ARCHIVE STATUS:      Transcribed / original sealed
+DOSSIER STATUS:      Closed recovery / open custodial record
+
+═══════════════════════════════════════════════════════════════════════
+                           CATEGORY CONTENTS                           
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category VII — Recovered Document & Archive
+Dossier. AFD-OB-021 is a large bound historical ledger, 42 cm by 29 cm by 9
+cm, recovered from a sealed vault beneath an estate ruin outside Siena, Italy.
+It is a concealed chain-record written by rulers, emperors, kings, and later
+political leaders who personally encountered AFD-SU-009, ensuring she is
+remembered by those who have stood before her even when public history reduces
+her into myth.
+
+The ledger does not make the Countess more famous. It keeps her remembered by
+those who must remember while allowing the wider world to forget. It is a
+private archive of royal witness, not a public monument.
+
+INCLUDED LOG TYPES:
+   - Recovery Record — Horned Ledger Retrieval (1976)
+   - Sovereign-Chain Mechanism — The Chapter-Duty Response
+   - Recovered Text Register — Entry Summaries
+   - Corrective Title Pressure — Marginalia Record
+   - Custodial Doctrine and Non-Interference
+   - Closing Archive Statement
+
+CATEGORY PURPOSE:
+To preserve the recovery record, entry register, and custodial doctrine of the
+only surviving sovereign-chain continuity connected to AFD-SU-009.
+
+═══════════════════════════════════════════════════════════════════════
+    SECTION 001 — RECOVERY RECORD — HORNED LEDGER RETRIEVAL (1976)     
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-021/ARC-001
+DATE:                1976-11-02 (detection) / 1976-11-13 (verification)
+LOCATION:            Sealed vault beneath estate ruin / Siena, Italy
+RECOVERING OPERATOR:  Agent Sofia Bellandi / Archiver Division
+STATUS:              Recovery closed — original sealed
+
+RECOVERY SUMMARY:
+
+The ledger was detected by historical-anomaly cross-reference during a
+linked-document response at AFD-SU-009 intake, and recovered under Operation
+Horned Ledger Retrieval by the Archiver Division and Historical Anomaly
+Review. No civilian exposure occurred during recovery.
+
+RECOVERED MATERIAL: THE COUNTESS OF HORN HISTORY.txt — transcribed; the
+original ledger remains sealed. Its opening transcribed title reads:
+
+"THE COUNTESS OF HORN — A SECRET CHRONICLE. The Ledger of the Thrones of Men,
+Passed Hand to Hand From Sovereign to Sovereign, in Silence."
+
+═══════════════════════════════════════════════════════════════════════
+  SECTION 002 — SOVEREIGN-CHAIN MECHANISM — THE CHAPTER-DUTY RESPONSE  
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-021/ARC-002
+DATE:                Standing — mechanism study
+LOCATION:            Primary Facility — sealed document chamber
+RECOVERING OPERATOR:  Historical reviewer
+STATUS:              Mechanism confirmed — non-compulsive
+
+MECHANISM SUMMARY:
+
+When a qualified ruler, leader, or successor-authority who has personally met
+AFD-SU-009 comes into rightful possession of the ledger, the object encourages
+the addition of a new chapter. Readers report a sense of formal
+responsibility, as though failing to add a chapter would break a chain older
+than their office. The repeated instruction, "add thy chapter as the duty
+demands," is not classified as compulsion — it produces obligation, not loss
+of agency.
+
+QUALIFIED WRITER REQUIREMENTS:
+
+   1. The writer holds, or held, recognized sovereign, ruling, command,
+      archive, or successor-authority status
+   2. The writer has personally met AFD-SU-009 and was directly received,
+      corrected, instructed, or acknowledged by her
+
+NON-QUALIFIED RESPONSE: Ink placed by non-qualified writers beads on the page
+surface, dries into dust, and falls away within 4 to 12 minutes. Inherited
+title, archive duty, bloodline, ledger possession, and secondhand knowledge
+are all insufficient by themselves.
+
+═══════════════════════════════════════════════════════════════════════
+        SECTION 003 — RECOVERED TEXT REGISTER — ENTRY SUMMARIES        
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-021/ARC-003
+DATE:                Transcription review
+LOCATION:            Archiver Division — sealed document chamber
+RECOVERING OPERATOR:  Historical reviewer
+STATUS:              Register confirmed
+
+ENTRY REGISTER (abridged):
+
+   - The First King: describes the Old Blood as an ageless horned lineage;
+     establishes the command that every sovereign should add truth and pass
+     the book onward
+   - Gaius Julius Caesar: "I came to her a warlord. I departed an Emperor."
+   - King Henri of the Franks: describes AFD-SU-009 as a living treasury of
+     remembrance who refuses to write history in a narrow clerkly manner
+   - Grand Duke Alessandro: records an etiquette-correction event matching
+     known AFD-SU-009 anomalous properties
+   - The Last Crowned Hand: describes the decline of royal secrecy and the
+     decision to hide the book in the estate vault
+   - Unknown Sovereign: states that AFD-SU-009 knows of the book, has always
+     known, and permits its quiet existence while pretending not to
+     acknowledge it
+
+FINAL LINE:
+
+"THE CHAIN HOLDS. ADD THY CHAPTER AS THE DUTY DEMANDS. HER MAJESTY REMAINS
+UNAWARE OF IT. (She is aware. She pretends not to be.)"
+
+═══════════════════════════════════════════════════════════════════════
+      SECTION 004 — CORRECTIVE TITLE PRESSURE — MARGINALIA RECORD      
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-021/ARC-004
+DATE:                Standing — same-cabinet effect
+LOCATION:            Primary Facility — noble-lineage document chamber
+RECOVERING OPERATOR:  Historical reviewer
+STATUS:              Effect active — etiquette liaison on standby
+
+MARGINALIA SUMMARY:
+
+Documents stored near AFD-OB-021 that describe AFD-SU-009 in insulting,
+incorrect, or reductive terms may develop marginal corrections using courtly
+honorifics. Attempts to modernize the ledger's spelling or grammar have
+resulted in marginal notes reading: "A clerk has touched this."
+
+CUSTODIAL RULE: Personnel reading the ledger must not mock, parody, or
+deliberately misaddress AFD-SU-009 while the book is open; the correction
+effect becomes more active when disrespectful phrasing is written nearby.
+
+═══════════════════════════════════════════════════════════════════════
+         SECTION 005 — CUSTODIAL DOCTRINE AND NON-INTERFERENCE         
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-021/ARC-005
+DATE:                Standing
+LOCATION:            Central Archive Administration
+RECOVERING OPERATOR:  Archive handler
+STATUS:              Doctrine anchored
+
+DOCTRINE SUMMARY:
+
+The original is not to be displayed publicly, loaned, given to national
+archives, or shown to AFD-SU-009 without her explicit request. No attempt is
+to be made to force her to acknowledge, read, sign, or comment on the ledger;
+her apparent refusal is part of the object-subject relationship, not a
+containment flaw.
+
+CUSTODIAL NOTES:
+
+   - Archive officers may add custodial notes only on inserted non-anomalous
+     pages marked as A.C.T commentary
+   - The ledger should not be shown to junior staff as proof that the
+     Countess is "royalty"; it shows rulers treated her as an authority
+   - When AFD-SU-009 was informed that A.C.T had recovered several old estate
+     books, she replied: "How dreadful. Men always become sentimental when
+     ink is involved."
+   - Digitization is permitted only through sealed non-networked scans;
+     digital copies do not reproduce the chapter-duty effect
+
+═══════════════════════════════════════════════════════════════════════
+                SECTION 006 — CLOSING ARCHIVE STATEMENT                
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-021/ARC-CLS-001
+DATE:                2026-09-08
+LOCATION:            Historical Anomaly Review
+AUTHOR:              Archiver Division
+STATUS:              Standing
+
+The ledger protects remembrance without creating publicity: a narrow chain of
+those who hold power, inherit duty, or keep the archive, refusing second- hand
+authority at every page. It is not a political instrument, a leadership
+mechanism, or proof of office. It is a record of duty after encounter — the
+Countess's own standard, which is that parchment should never have to remind
+anyone of manners. The chain holds because the book is kept closed and kept
+whole.
+
+END OF FILE

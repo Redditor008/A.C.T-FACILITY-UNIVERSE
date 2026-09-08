@@ -1,0 +1,203 @@
+A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+Shadow-Shark-Experiment-Testing-Dossier-AFD-SU-010
+
+═══════════════════════════════════════════════════════════════════════
+             A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER             
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-010
+TITLE I:             Shadow Shark
+TITLE II:            THE HUNGER WITHOUT A BODY
+FIELD TYPE:          SU — Subject / intangible predatory subject /
+                     shadow-bound feeder
+PRIMARY FILE:        Shadow-Shark-AFD-SU-010
+DOCUMENT CATEGORY:   CATEGORY IV — Experiment & Testing Dossier
+CATEGORY FUNCTION:   Visual-silhouette observation, feed-response testing,
+                     consumption-boundary mapping, and conditioning records.
+CLEARANCE REQUIRED:  Level 3
+CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex / light-managed
+                     chamber
+JURISDICTIONAL AUTHORITY:  Intangible Hazard Review / Central Archive
+                           Administration
+ARCHIVE STATUS:      Active / intangible-hazard restricted
+DOSSIER STATUS:      Open — diffuse-light observation mode
+
+═══════════════════════════════════════════════════════════════════════
+                           CATEGORY CONTENTS                           
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category IV — Experiment & Testing Dossier.
+AFD-SU-010 is an airborne, shark-shaped shadow, approximately 2.7 m from snout
+to tail, with no confirmed physical body, mass, heat signature, odor,
+respiration, or biological tissue. It moves as if swimming through water
+despite occupying open air, and becomes physically consequential only at its
+feeding aperture.
+
+The subject is maintained under uniform diffuse illumination in a sealed
+light-managed chamber. Feeding is conducted remotely every 10 days through a
+floor-level feed aperture; personnel must not hand-feed AFD-SU-010.
+
+INCLUDED LOG TYPES:
+   - Visual-Silhouette Observation and Tracking Protocol
+   - Feed-Response Testing — Approved Matter
+   - Consumption-Boundary Mapping
+   - Conditioning Observation
+   - Recovery and Narrative Review
+   - Closing Testing Note
+
+CATEGORY PURPOSE:
+To map what the shadow will eat, what it can eat, and what it has learned, so
+that its only physical function is exercised in a direction A.C.T controls.
+
+═══════════════════════════════════════════════════════════════════════
+   SECTION 001 — VISUAL-SILHOUETTE OBSERVATION AND TRACKING PROTOCOL   
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-010/EXP-001
+DATE:                2021-05-14 (detection) — ongoing
+LOCATION:            ACT-SITE-01-US-W — light-managed observation chamber
+TEST SUPERVISOR:     Optical monitoring officer
+STATUS:              Tracking protocol effective
+
+OBSERVATION SUMMARY:
+
+The subject is visible only as a moving shadow cast across surfaces, airborne
+dust, smoke, fog, reflective haze, or the bodies of observers. It casts no
+shadow of its own — it is the shadow — and appears darker than ordinary
+absence of light. Its dorsal fin remains visible even when the rest of the
+outline fragments.
+
+TRACKING DISCIPLINE:
+
+   - Complete darkness is prohibited except in authorized inactivity trials;
+     it renders the subject untrackable, not absent
+   - High uniform illumination weakens its outline and slows its movement
+   - All chamber shadows are mapped before maintenance
+   - Unmapped silhouettes outside the chamber trigger floodlights, feed
+     removal, and corridor sealing until Intangible Hazard Review confirms
+     recovery
+
+═══════════════════════════════════════════════════════════════════════
+         SECTION 002 — FEED-RESPONSE TESTING — APPROVED MATTER         
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-010/EXP-002
+DATE:                Feeding records — every 10 days
+LOCATION:            ACT-SITE-01-US-W — floor-level feed aperture
+TEST SUPERVISOR:     Remote containment technician
+STATUS:              Response profile confirmed
+
+FEEDING RECORD:
+
+Approved feed consists of 1.5 kg fish protein blocks or equivalent synthetic
+feed, placed in front of the projected mouth path using automated arms. During
+feeding, the target becomes covered in dense black shadow, loses visible
+surface detail, compresses inward, and is swallowed into the shark- shaped
+silhouette. Consumed matter does not fall through the shadow or remain on the
+surface beneath it.
+
+KNOWN FEEDING RESPONSES:
+
+   - fish: immediate approach and full consumption
+   - red meat: immediate approach, slower swallow
+   - animal feed pellets: accepted if dropped individually
+   - synthetic protein paste: accepted after repeated exposure
+   - plant material: ignored unless coated in blood or fish oil
+   - metal objects: ignored unless wrapped in edible tissue
+   - human skin contact: shallow bite behavior confirmed; full human
+     ingestion not tested and not authorized
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 003 — CONSUMPTION-BOUNDARY MAPPING               
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-010/EXP-003
+DATE:                Test series including Test 010-C
+LOCATION:            ACT-SITE-01-US-W — feed aperture / robotic arm tests
+TEST SUPERVISOR:     Remote containment technician
+STATUS:              Boundary confirmed
+
+TEST SUMMARY:
+
+Testing confirms that AFD-SU-010 cannot consume objects merely touched by its
+body-shadow, fin-shadow, or tail-shadow. The mouth region must be oriented
+toward the object, and the object must cross the apparent feeding plane. This
+has allowed safe containment through controlled feeding direction and surface
+projection management.
+
+TEST 010-C RECORD:
+
+A feed block was held 5 cm above the mouth silhouette by a robotic arm. The
+shadow rose off the floor, crossed the arm's shadow, and covered the feed
+block from below. The feed vanished. The robotic arm was not damaged except
+for loss of paint on the portion shadowed by the mouth.
+
+═══════════════════════════════════════════════════════════════════════
+                SECTION 004 — CONDITIONING OBSERVATION                 
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-010/EXP-004
+DATE:                Ongoing — behavioral records
+LOCATION:            ACT-SITE-01-US-W — light-managed chamber
+TEST SUPERVISOR:     Intangible Hazard Review
+STATUS:              Conditioning confirmed — not rewarded
+
+OBSERVATION SUMMARY:
+
+The anomaly shows signs of conditioning. It now approaches the feed aperture
+within 40 seconds of hearing the aperture unlock, and it has learned to circle
+beneath observation windows where staff previously dropped feed during early
+containment.
+
+TESTING NOTE: Do not draw shark shapes on the chamber floor. The subject has
+shown repeated interest in artificial shark silhouettes and will attempt to
+circle or bite them. This complicates tracking and is not considered
+enrichment. The window-circling behavior is likewise not to be rewarded.
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 005 — RECOVERY AND NARRATIVE REVIEW              
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-010/EXP-005
+DATE:                2021 — Operation Black Fin Intake review
+LOCATION:            Busan indoor aquarium loading bay / Site-01 records
+TEST SUPERVISOR:     Field Containment Division
+STATUS:              Recovery record closed
+
+RECOVERY SUMMARY:
+
+The subject was detected on 2021-05-14 at an indoor aquarium loading bay in
+Busan, South Korea, following missing feed inventory, shadow-motion footage,
+and animal agitation without a physical intruder. Initial recovery fell under
+Operation Black Fin Intake, with 17 suspected and 5 confirmed civilian
+exposures.
+
+NARRATIVE AND RECOVERY NOTES:
+
+   - Public narrative: electrical malfunction, animal stress event, and
+     inventory clerical error
+   - AFD-SU-010 is not a projected image. Turning off a single light source
+     removes visibility, not the subject
+   - Aquarium staff reported hearing water splashes in a dry loading bay; one
+     staff member stated, "It was swimming in the place where light forgot to
+     be floor."
+
+═══════════════════════════════════════════════════════════════════════
+                  SECTION 006 — CLOSING TESTING NOTE                   
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-010/EXP-CLS-001
+DATE:                2026-09-08
+LOCATION:            Intangible Hazard Review
+AUTHOR:              Subject Containment Division
+STATUS:              Standing
+
+Testing confirms a predator reduced to the condition of a shadow while its
+appetite remains physically functional. No biological residue has ever been
+recovered, and no method exists to retrieve or confirm the final disposition
+of consumed matter. Until the destination of swallowed material is understood,
+the shadow is fed on a schedule, kept in light, and never asked where the food
+goes.
+
+END OF FILE

@@ -1,0 +1,201 @@
+A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+MACHINE-Heart-Experiment-Testing-Dossier-AFD-OB-017
+
+═══════════════════════════════════════════════════════════════════════
+             A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER             
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-OB-017
+TITLE I:             MACHINE Heart
+TITLE II:            THE GUARDIAN THAT MAKES ITS OWN TRESPASSERS
+FIELD TYPE:          OB — Object / animated machine-golem / Heart-Signal
+                     activation artifact
+PRIMARY FILE:        MACHINE-Heart-AFD-OB-017
+DOCUMENT CATEGORY:   CATEGORY IV — Experiment & Testing Dossier
+CATEGORY FUNCTION:   Inert-state verification, slot-rejection testing,
+                     activation-sequence records, and Stage Two guardian-state
+                     observation.
+CLEARANCE REQUIRED:  Level 4
+CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex / vertical
+                     machine chamber
+JURISDICTIONAL AUTHORITY:  Anomalous Machinery Review / Central Archive
+                           Administration
+ARCHIVE STATUS:      Active / machinery-hazard restricted
+DOSSIER STATUS:      Open — delayed-feed observation only
+
+═══════════════════════════════════════════════════════════════════════
+                           CATEGORY CONTENTS                           
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category IV — Experiment & Testing Dossier.
+AFD-OB-017 is an 8 m tall metal golem-like machine whose torso core holds a
+slot that accepts only a Heart-Signal: an anomalous red-gold heart-shaped
+energy imprint created during activation. Under no circumstance is a
+compatible Heart-Signal medium to be introduced into the containment chamber.
+
+Direct visual exposure is restricted to delayed video feed, silhouette
+mapping, or still-image review divided into non-continuous sections. Any
+subject who states "The Machine need a Heart" is considered chosen.
+
+INCLUDED LOG TYPES:
+   - Inert-State Verification and Slot-Rejection Testing
+   - Chosen-Subject Compulsion Records
+   - Heart-Signal Transfer Analysis — Stage One
+   - Stage Two Guardian-State Observation
+   - Incident Review 017-A
+   - Closing Testing Note
+
+CATEGORY PURPOSE:
+To record everything the machine does while empty, and everything it does when
+full, so that the difference between guardianship and hunger is never guessed
+from a distance.
+
+═══════════════════════════════════════════════════════════════════════
+   SECTION 001 — INERT-STATE VERIFICATION AND SLOT-REJECTION TESTING   
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-017/EXP-001
+DATE:                2001-09-04 (verification) — ongoing
+LOCATION:            ACT-SITE-01-US-W — vertical machine chamber
+TEST SUPERVISOR:     Remote machinery technician
+STATUS:              Inert state confirmed — slot sealed
+
+TESTING SUMMARY:
+
+When no Heart-Signal is present in the torso slot, AFD-OB-017 remains
+completely still, producing no heat, sound, exhaust, measurable electrical
+activity, or internal motion. In this state it can be approached by most
+personnel without immediate response, though close-range contact remains
+prohibited.
+
+SLOT-REJECTION RECORD:
+
+The slot rejects ordinary fuel, batteries, keys, tools, coins, and data
+storage devices. Proposals to use artificial Heart-Signals, animal signatures,
+printed symbolic hearts, or simulated emotional cores have been denied — the
+slot rejects all known substitutes during passive testing.
+
+TERMINOLOGY RULE: Do not describe AFD-OB-017 as asleep when inert. Use
+"inactive" or "empty" only. Personnel exposed to the term "asleep" showed
+increased sympathy toward the object's incompleteness.
+
+═══════════════════════════════════════════════════════════════════════
+            SECTION 002 — CHOSEN-SUBJECT COMPULSION RECORDS            
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-017/EXP-002
+DATE:                Standing — incident-correlated
+LOCATION:            ACT-SITE-01-US-W — observation records
+TEST SUPERVISOR:     Compulsion response officer
+STATUS:              Pattern confirmed — selection method unknown
+
+COMPULSION RECORD:
+
+The activation process begins when a chosen subject visually perceives
+AFD-OB-017. The selection method is unknown. The chosen consistently speaks or
+whispers the phrase: "The Machine need a Heart," then attempts to approach the
+anomaly, remaining aware but showing strong fixation on the torso slot.
+
+The phrase is grammatically incorrect in every confirmed language translation.
+The chosen does not say "the machine needs a heart." The chosen says "The
+Machine need a Heart." Do not correct the chosen. Redirect the chosen.
+
+RESPONSE RECORD: The chosen must be redirected, physically blocked if
+necessary, and removed from line of sight. The chosen must not be allowed
+within 5 m of the anomaly under any condition.
+
+═══════════════════════════════════════════════════════════════════════
+       SECTION 003 — HEART-SIGNAL TRANSFER ANALYSIS — STAGE ONE        
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-017/EXP-003
+DATE:                Incident-correlated footage review
+LOCATION:            High-speed footage analysis / Incident 017-B frames
+TEST SUPERVISOR:     Anomalous Machinery Review
+STATUS:              Transfer mechanics under review
+
+ANALYSIS SUMMARY:
+
+Upon entry into the 1 m activation zone, the claw hand activates and rips the
+chosen subject's Heart-Signal from the surrounding aura field, sealing the
+red-gold imprint inside the torso slot. The chosen immediately enters a deep
+but stable rest-state, awakening after 24 to 96 hours under controlled care
+and reporting feeling "hollow," "quiet," or "watched from inside a machine"
+for several days.
+
+FOOTAGE FINDING: The removal action is too fast for normal machinery of the
+machine's mass. The right claw moves before any detectable power-up sequence.
+In several frames from Incident 017-B, the chosen subject's Heart-Signal
+appears in both the subject's aura field and the machine core at the same time
+— a possible short-range discontinuity rather than ordinary mechanical action.
+
+═══════════════════════════════════════════════════════════════════════
+          SECTION 004 — STAGE TWO GUARDIAN-STATE OBSERVATION           
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-017/EXP-004
+DATE:                Stage Two activations on file
+LOCATION:            ACT-SITE-01-US-W — Stage Two observation
+TEST SUPERVISOR:     Remote containment units only
+STATUS:              Uncontrollable — no in-zone personnel
+
+OBSERVATION SUMMARY:
+
+After a Heart-Signal is placed in the slot, AFD-OB-017 becomes fully mobile
+and emits a circular 3 m radius exclusion field identified as a "NO Sentient
+Heart Signature" zone. Within that zone it detects sentient life by rhythm,
+presence, and signature pressure, and acts until the signature is no longer
+present — pushing, throwing, blocking, pinning, striking, or forcing the
+intruder away from the chosen Heart-Signal.
+
+OBSERVED CONSTRAINTS:
+
+   - It does not communicate, negotiate, or retreat
+   - It does not distinguish staff, rescuers, observers, or accidental
+     entrants
+   - It defends the Heart-Signal, not itself as a whole
+   - The claw chooses; the hammer enforces. The hammer arm is never used for
+     Heart-Signal removal — only Stage Two enforcement
+   - Longest confirmed Stage Two activation: 11 days, 6 hours, 14 minutes
+
+═══════════════════════════════════════════════════════════════════════
+                  SECTION 005 — INCIDENT REVIEW 017-A                  
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-017/EXP-005
+DATE:                Incident 017-A — on file
+LOCATION:            ACT-SITE-01-US-W — Stage Two zone
+TEST SUPERVISOR:     Anomalous Machinery Review
+STATUS:              Reviewed — doctrine unchanged
+
+INCIDENT SUMMARY:
+
+During Incident 017-A, a responder entered the Stage Two zone to assist an
+affected subject. AFD-OB-017 used its hammer arm to force the responder out of
+the radius. The responder survived with temporary disorientation due to
+partial cover behind a concrete pillar.
+
+DOCTRINE CONFIRMED: If Stage Two activates, all personnel evacuate beyond 20 m
+and deploy remote containment units only. Do not send responders into the 3 m
+zone. Remote arms may attempt Heart-Signal separation or slot occlusion after
+the anomaly is pinned by magnetic floor braces and overhead cable restraints.
+
+═══════════════════════════════════════════════════════════════════════
+                  SECTION 006 — CLOSING TESTING NOTE                   
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-OB-017/EXP-CLS-001
+DATE:                2026-09-08
+LOCATION:            Anomalous Machinery Review
+AUTHOR:              Object Containment Division
+STATUS:              Standing
+
+Testing describes a machine that treats a stolen heartbeat as both fuel and a
+protected command object — guardianship more than hunger. Selection remains
+unresolved; in all known cases the chosen subject reported feeling that the
+machine was incomplete rather than threatening. That feeling is exactly why
+the empty slot must stay sealed. The machine makes its own trespassers. A.C.T
+testing's only task is to make sure it never gets the heart to defend.
+
+END OF FILE
