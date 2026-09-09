@@ -6,7 +6,7 @@ ITHYOS-Seismic-History-Sensor-Dossier-ENTITY-000
                      Anomaly Containment Transformation
 ═══════════════════════════════════════════════════════════════════════
 
-DESIGNATION:         ENTITY-000 / AFD-CH-000
+DESIGNATION:         ENTITY-000 / UFD-CH-000 / AFD-CH-000
 COMMON ARCHIVE NAME: ITHYOS, THE WORLD-SLEEPER
 LEGACY TITLE:        THE SLUMBERING SERPENT GOD
 
@@ -269,7 +269,8 @@ variance.
 
 OBSERVED EFFECTS:
    - no damage to First Vault document
-   - modern file retains designation history ENTITY-000 → AFD-CH-000
+   - modern file keeps designation history ENTITY-000 → UFD-CH-000 →
+   AFD-CH-000
    - phrase "preserved dormancy" appears in review notes from this period
    - no waking indicators detected
 

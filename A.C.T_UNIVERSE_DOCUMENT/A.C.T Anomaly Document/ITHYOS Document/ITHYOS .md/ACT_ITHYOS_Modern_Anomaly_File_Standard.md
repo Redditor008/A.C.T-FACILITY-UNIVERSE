@@ -259,6 +259,7 @@ containment condition.
 
 Cross-reference:
 - First Vault Document — ENTITY-000
+- Unfiled Intake Record — UFD-CH-000
 - ABYSS Floor access doctrine
 - Serpent-class biological suppression observations
 - World End Scenario threshold review
@@ -275,8 +276,9 @@ FILE AUTHOR:             [ SEALED ]
 REVIEWED BY:             O5 Council
 FILE STATUS:             O5-Restricted
 
-DESIGNATION HISTORY:     ENTITY-000 → AFD-CH-000
-                         Raw vault archive converted into modern A.C.T
+DESIGNATION HISTORY:     ENTITY-000 → UFD-CH-000 → AFD-CH-000
+                         Raw vault archive converted into an unfiled
+                         intake record and then into modern A.C.T
                          anomaly doctrine record after formalization of
                          classification standards.
 

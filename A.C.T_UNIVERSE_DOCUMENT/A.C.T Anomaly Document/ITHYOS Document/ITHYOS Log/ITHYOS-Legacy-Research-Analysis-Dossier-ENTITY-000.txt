@@ -6,7 +6,7 @@ ITHYOS-Legacy-Research-Analysis-Dossier-ENTITY-000
                      Anomaly Containment Transformation
 ═══════════════════════════════════════════════════════════════════════
 
-DESIGNATION:         ENTITY-000 / AFD-CH-000
+DESIGNATION:         ENTITY-000 / UFD-CH-000 / AFD-CH-000
 COMMON ARCHIVE NAME: ITHYOS, THE WORLD-SLEEPER
 LEGACY TITLE:        THE SLUMBERING SERPENT GOD
 
@@ -28,9 +28,10 @@ DOSSIER STATUS:      Open / Legacy review archived
                          CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
-This dossier belongs to A.C.T Log Category VI — Research & Analysis Dossier. It
-collects legacy research, First Vault interpretation, modern classification
-commentary, and containment-doctrine notes concerning ENTITY-000 / AFD-CH-000.
+This dossier belongs to A.C.T Log Category VI — Research & Analysis Dossier.
+It collects legacy research, First Vault interpretation, modern
+classification commentary, and containment-doctrine notes concerning
+ENTITY-000 / UFD-CH-000 / AFD-CH-000.
 
 INCLUDED LOG TYPES:
    - Legacy Archive Summary
@@ -146,7 +147,7 @@ Both records are required.
 ARCHIVE DIRECTIVE:
 All future ITHYOS documentation must preserve designation continuity:
 
-   ENTITY-000 → AFD-CH-000
+   ENTITY-000 → UFD-CH-000 → AFD-CH-000
 
 No division is authorized to erase the First Vault identity simply because the
 modern designation is cleaner.
