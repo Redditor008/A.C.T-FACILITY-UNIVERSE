@@ -10,7 +10,7 @@ This doctrine records the difference between divisions, desks, temporary task gr
 
 ---
 
-# PATH 5 — FIELD UNIT AND INTERACTION FOUNDATION
+# FIELD UNIT AND INTERACTION FOUNDATION
 
 ## 5.1 Purpose
 
@@ -266,5 +266,5 @@ FILE LAST UPDATED:   12/09/2026
 FILE AUTHOR:         Field Operating Chief Council / Central Archive
 REVIEWED BY:         Recovery Division / Containment Division / Tactical Review Desk
 FILE STATUS:         ACTIVE
-PATH STATUS:         PATH 5 CREATED
+DOCTRINE STATUS:     ACTIVE
 

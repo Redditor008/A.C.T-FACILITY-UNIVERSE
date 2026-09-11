@@ -117,7 +117,7 @@ Per the **2026-09-07 Core Worldbuilding Consistency Review** (`RESEARCH FOLDER/`
 
 ## Development Rules
 
-- **GOI development is gated**: create only owner-selected GOIs; never batch-generate unapproved scaffold entries or scan results.
+- **GOI development is gated**: create only approved GOIs; never batch-generate unapproved scaffold entries or scan results.
 - **Dossier files are per-item documents**: individual, un-summarized, detailed, matching the ACT archive style. No compressed or abridged notes in the RESEARCH FOLDER either (extensive `.md` only).
 - New content should reference the canonical role names, the ANM code table, and the containment-class list adopted by the 2026-09-07 consistency sweep so the chosen system stays load-bearing.
 - Every completed change should be committed and pushed; keep `.md`/`.txt` twins in lockstep.

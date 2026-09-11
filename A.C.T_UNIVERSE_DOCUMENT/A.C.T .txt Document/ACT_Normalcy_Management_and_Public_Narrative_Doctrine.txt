@@ -10,7 +10,7 @@ This doctrine defines how A.C.T manufactures public explanations after anomalous
 
 ---
 
-# PATH 3 — NORMALCY MANAGEMENT FOUNDATION
+# NORMALCY MANAGEMENT FOUNDATION
 
 ## 3.1 Purpose
 
@@ -25,7 +25,7 @@ A.C.T does not preserve normalcy because normal life is naturally true. It prese
 ## 3.2 Responsible Divisions
 
 ### Civil Covert Division
-Primary owner of public-facing masks, false explanations, shell institutions, civilian narrative insertion, local rumor dampening, media liaison, and non-violent institutional influence.
+Primary authority for public-facing masks, false explanations, shell institutions, civilian narrative insertion, local rumor dampening, media liaison, and non-violent institutional influence.
 
 ### Intelligence Division
 Tracks leak probability, GOI interference, hostile documentation, online pattern spread, witness vulnerability, and whether a cover story will attract the wrong attention.
@@ -235,5 +235,5 @@ FILE LAST UPDATED:   12/09/2026
 FILE AUTHOR:         Civil Covert Division / Intelligence Division
 REVIEWED BY:         Archiver Division / Site Command
 FILE STATUS:         ACTIVE
-PATH STATUS:         PATH 3 CREATED
+DOCTRINE STATUS:     ACTIVE
 

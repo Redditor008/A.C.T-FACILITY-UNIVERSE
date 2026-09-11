@@ -3,10 +3,10 @@ A.C.T Group of Interest Expansion Roadmap
 Twenty original core-GOI concepts, prepared for one-at-a-time development
 -------------------------------------------------------------------------
 
-Status: Structural planning scaffold only - the twenty listed entries are not approved GOI names, not approved designations, and not a selection menu; no scaffold entry becomes canon unless the owner explicitly approves or rewrites it in a later prompt
+Status: Structural planning scaffold only - the twenty listed entries are not approved GOI names, not approved designations, and not a selection menu; no scaffold entry becomes canon unless Central Archive explicitly authorizes or rewrites it in a later archive order
 Prepared: 06 September 2026
-Owner correction recorded: 11 September 2026
-Requested outcome: Build future A.C.T. Groups of Interest one at a time from owner-approved names, anomaly-mentioned groups, or owner-approved rewrites of any scaffold slot
+Archive control note recorded: 11 September 2026
+Requested outcome: Build future A.C.T. Groups of Interest one at a time from approved names, anomaly-mentioned groups, or approved rewrites of any scaffold slot
 Scope: Independent A.C.T. core universe only; not a live wiki implementation
 
 ==============================================================================
@@ -14,15 +14,15 @@ Scope: Independent A.C.T. core universe only; not a live wiki implementation
 1. What this roadmap does - and does not do
 -------------------------------------------
 
-This roadmap preserves a twenty-slot structural scaffold that was created during earlier planning. The scaffold demonstrates possible GOI distribution across nature classes, alignment classes, narrative functions, and site jurisdictions. It does not mean the owner approved the names, designations, or premises chosen for those slots.
+This roadmap preserves a twenty-slot structural scaffold that was created during earlier planning. The scaffold demonstrates possible GOI distribution across nature classes, alignment classes, narrative functions, and site jurisdictions. It does not mean Central Archive approved the names, designations, or premises chosen for those slots.
 
-This Markdown roadmap is retained because deleting the scaffold would lose useful structure. Its matching plain-text reading copy is kept in GOI_TXT/00_GOI_Development_Roadmap.txt. The same Markdown-plus-TXT pairing will be used for every later owner-approved individual GOI dossier.
+This Markdown roadmap is retained because deleting the scaffold would lose useful structure. Its matching plain-text reading copy is kept in GOI_TXT/00_GOI_Development_Roadmap.txt. The same Markdown-plus-TXT pairing will be used for every later approved individual GOI dossier.
 
-A scaffold slot does not become final canon merely because it appears in this file. The owner may keep a slot, rename it, replace it, combine it with anomaly-mentioned GOI material, or reject it entirely. Only an explicit future owner prompt can authorize one detailed GOI archive record. No batch of twenty finished organizations will be generated from this plan, and the listed names must not be treated as approved names.
+A scaffold slot does not become final canon merely because it appears in this file. A later registry order may keep a slot, rename it, replace it, combine it with anomaly-mentioned GOI material, or reject it entirely. Only an explicit future Central Archive registry order can authorize one detailed GOI archive record. No batch of twenty finished organizations will be generated from this plan, and the listed names must not be treated as approved names.
 
-Direct-owner record note: GOI-CU-X-048 - Children of the Deep / CoTD - and GOI-CP-B-049 - DREAM .INC / DREAM - were commissioned directly outside this scaffold. Their creation does not select, replace, number, or activate any scaffold slot.
+Direct commission record note: GOI-CU-X-048 - Children of the Deep / CoTD - and GOI-CP-B-049 - DREAM .INC / DREAM - were commissioned directly outside this scaffold. Their creation does not select, replace, number, or activate any scaffold slot.
 
-Owner correction note, 11 September 2026: The twenty listed GOI slots are structure only. They are not finished GOIs, not approved names, and not a required creation order. Future GOI work should first check whether the owner has a specific GOI name, an anomaly-mentioned group, or a revised concept. Do not ask the owner to choose from the scaffold as if the names are already accepted.
+Archive control note, 11 September 2026: The twenty listed GOI slots are structure only. They are not finished GOIs, not approved names, and not a required creation order. Future GOI work should first check whether Central Archive has a specific GOI name, an anomaly-mentioned group, or a revised concept. Do not ask Central Archive to choose from the scaffold as if the names are already accepted.
 
 This protects the project from the most common expansion problem: a setting gaining many names, but no meaningful institutions. Every completed GOI must earn its place through a distinct method, pressure on A.C.T., human consequence, and connection to the existing world.
 
@@ -58,7 +58,7 @@ The source registry presently names these existing examples/anchors:
 - Anti-Global Anomaly / A-GA - militia that seeks indiscriminate destruction of anomalies;
 - Anstrall Market - transnational anomalous black-market structure.
 
-They are documented separately as source-anchored, expanded in-world A.C.T archive records. None of them is counted toward the requested twenty new GOIs. Every future owner-approved GOI must avoid duplicating their core role.
+They are documented separately as source-anchored, expanded in-world A.C.T archive records. None of them is counted toward the requested twenty new GOIs. Every future approved GOI must avoid duplicating their core role.
 
 ==============================================================================
 
@@ -98,7 +98,7 @@ Nature codes in this roadmap are deliberately balanced across Government, Corpor
 
 None of these groups should casually outclass the Facility, erase the purpose of the five regional Sites, or solve the First Lie. They should create pressure around the existing system, not replace it.
 
-The First Lie, ERE, ITHYOS, NEMNOLIA, the founders' self-erasure, and the main story's revelations remain protected core material. A later GOI may encounter their effects only if the owner approves a specific, continuity-safe connection. No scaffold slot is assumed to possess that knowledge.
+The First Lie, ERE, ITHYOS, NEMNOLIA, the founders' self-erasure, and the main story's revelations remain protected core material. A later GOI may encounter their effects only if Central Archive approves a specific, continuity-safe connection. No scaffold slot is assumed to possess that knowledge.
 
 3.4 Geography is an operational choice, not decoration
 ......................................................
@@ -160,7 +160,7 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 5. The twenty structural GOI scaffold slots
 ===================================
 
-Important owner correction: Each entry below is a structural placeholder only. The designation, classification, name, and premise are not approved canon. They may be kept, renamed, rewritten, replaced by a GOI already mentioned in an anomaly file, or discarded when the owner directs actual GOI creation.
+Important archive control note: Each entry below is a structural placeholder only. The designation, classification, name, and premise are not approved canon. They may be kept, renamed, rewritten, replaced by a GOI already mentioned in an anomaly file, or discarded when Central Archive directs actual GOI creation.
 
 01 - Office of Public Continuity
 --------------------------------
@@ -364,36 +364,36 @@ Important owner correction: Each entry below is a structural placeholder only. T
 
 ==============================================================================
 
-6. One-prompt creation procedure
+6. Single-order creation procedure
 ================================
 
-When the owner authorizes a GOI, the next response may create only that one individual GOI dossier. The authorization may name a scaffold slot, but it may also name a different owner-approved GOI or a GOI already mentioned in an anomaly file.
+When Central Archive authorizes a GOI, the next registry order may create only that one individual GOI dossier. The authorization may name a scaffold slot, but it may also name a different approved GOI or a GOI already mentioned in an anomaly file.
 
-6.1 Suggested owner prompt form
+6.1 Suggested Central Archive registry order form
 -------------------------------
 
-Create one GOI dossier for [owner-approved GOI name / anomaly-mentioned group / revised scaffold slot].
+Create one GOI dossier for [approved GOI name / anomaly-mentioned group / revised scaffold slot].
 
-The owner may rename, reorder, combine, replace, or reject any scaffold slot before creation. A scaffold name is not assumed accepted.
+A later registry order may rename, reorder, combine, replace, or reject any scaffold slot before creation. A scaffold name is not assumed accepted.
 
-6.2 What one creation response will contain
+6.2 What one registry creation order will contain
 -------------------------------------------
 
-For the selected owner-approved GOI only, the work will:
+For the selected approved GOI only, the work will:
 
 1. create one dedicated Markdown record in GOI_MD/ using 00_GOI_Record_Template.md, plus a matching .txt reading copy in GOI_TXT/;
 2. turn the short seed into a concrete institutional structure, ideology, assets, history with A.C.T., responsible site, current posture, and open questions;
 3. verify that every classification value is legal under the existing GOI doctrine;
 4. cross-reference only approved independent-core records;
 5. run a duplicate-name and prohibited-scope check;
-6. present the matched dossier pair for owner review.
+6. present the matched dossier pair for Archive Review.
 
-No other GOI becomes a dossier pair in the same response. The next new GOI waits for another owner prompt.
+No other GOI becomes a dossier pair in the same registry order. The next new GOI waits for another Central Archive registry order.
 
 6.3 Review before registry integration
 --------------------------------------
 
-A completed individual dossier remains Owner Review until the owner accepts it. It will not automatically rewrite the older Part Four registry, master book, main story, site registry, or live wiki material. A later, owner-approved registry-integration pass can update those documents in a controlled way.
+A completed individual dossier remains Archive Review until Central Archive accepts it. It will not automatically rewrite the older Part Four registry, master book, main story, site registry, or live wiki material. A later, controlled registry-integration pass can update those documents in a controlled way.
 
 ==============================================================================
 
@@ -402,12 +402,12 @@ A completed individual dossier remains Owner Review until the owner accepts it. 
 
 Before writing a single new GOI, confirm all of the following:
 
-[ ] This is the one GOI selected by the owner in this prompt.
-[ ] It uses an unused designation from the planned sequence or an owner-approved replacement.
+[ ] This is the one GOI selected by Central Archive in this registry order.
+[ ] It uses an unused designation from the planned sequence or an approved replacement.
 [ ] It does not duplicate GAA, A-GA, or Anstrall Market.
 [ ] Its nature, alignment, reach, capability, threat, secrecy risk, and A.C.T. posture make sense together.
 [ ] It has a real operational relationship to at least one existing site or Central review body.
-[ ] It does not alter the First Lie, ERE, ITHYOS, NEMNOLIA, or the main-story revelations without explicit owner direction.
+[ ] It does not alter the First Lie, ERE, ITHYOS, NEMNOLIA, or the main-story revelations without explicit Central Archive direction.
 [ ] It uses no 715 / Emergent Reality material or assets.
 [ ] It uses no Project Moon, SCP, or other external-property material.
 [ ] It creates no image or SVG unless a separate per-asset proposal is approved first.

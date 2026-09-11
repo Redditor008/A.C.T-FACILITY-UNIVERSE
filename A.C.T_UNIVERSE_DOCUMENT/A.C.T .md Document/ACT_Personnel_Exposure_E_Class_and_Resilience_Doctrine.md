@@ -8,11 +8,10 @@
 ### Archive Note
 This doctrine formalizes the human side of A.C.T operations: Excommunicated Class personnel, exposure rotation, resilience review, aftercare, and the limit between necessary risk and institutional cruelty. It does not replace the Divisions and Personnel archive. It supplies the missing operational rules that keep personnel from becoming invisible equipment.
 
-Owner correction retained in this file: **E-Class means Excommunicated Class**. It is not a generic exposure category.
 
 ---
 
-# PATH 2 — PERSONNEL CARE FOUNDATION
+# PERSONNEL CARE FOUNDATION
 
 ## 2.1 Purpose
 
@@ -249,5 +248,5 @@ FILE LAST UPDATED:   12/09/2026
 FILE AUTHOR:         Personnel Review / Medical Care Division
 REVIEWED BY:         Subject Care Division / Administration
 FILE STATUS:         ACTIVE
-PATH STATUS:         PATH 2 CREATED / E-CLASS OWNER CORRECTION APPLIED
+DOCTRINE STATUS:     ACTIVE
 ```

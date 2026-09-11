@@ -1,6 +1,6 @@
 # A.C.T. Groups of Interest - Archive and Development Folder
 
-**Status:** Three expanded source-anchored registry dossiers, three owner-directed original dossiers (registry-integrated 08/09/2026), and one retained twenty-slot structural scaffold whose names/designations are not owner-approved canon.
+**Status:** Three expanded source-anchored registry dossiers, three registry-integrated original dossiers, two anomaly-anchored pending dossiers, and one retained twenty-slot structural scaffold whose names/designations are not active canon.
 **Scope:** Independent A.C.T. core universe only.
 **Implementation status:** No live wiki work has begun.
 
@@ -62,9 +62,9 @@ A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_GOI_Registry_and_External_Threat_
 
 Their established designations and classification stacks are retained. Their individual records provide detailed in-world A.C.T operational treatment: identity, membership, organization, assets, holdings, jurisdiction, history with A.C.T, response doctrine, operational records, uncertainty conditions, and filing relationships.
 
-### Owner-directed original dossier
+### Commissioned original dossier
 
-The following original dossiers were directly commissioned by owner prompts. They are distinct from the twenty provisional roadmap candidates.
+The following original dossiers were created under separate registry creation orders. They are distinct from the twenty provisional roadmap candidates.
 
 - `GOI-CU-X-048` - Children of the Deep / CoTD
   - [Markdown dossier](GOI-CU-X-048-Children-of-the-Deep-CoTD.md)
@@ -94,37 +94,37 @@ Amazoo Circus is a Hybrid / Negative / Regional / Handler group assessed at Thre
 
 ### Registry-count continuity note
 
-The canonical registry contains the three source-anchored entries above, while an earlier owner statement described the intended current setting roster as containing two GOIs. This folder preserves all three written registry entries. It does not decide which two-or-three roster interpretation is ultimately adopted, retcon an entry, or convert the twenty roadmap candidates into active groups.
+The canonical registry contains the three source-anchored entries above, while an earlier continuity statement described the intended current setting roster as containing two GOIs. This folder preserves all three written registry entries. It does not decide which two-or-three roster interpretation is ultimately adopted, retcon an entry, or convert the twenty roadmap candidates into active groups.
 ### Registry integration (08/09/2026)
 
-With the owner's approval, the three owner-directed original dossiers are no longer folder-only records. **GOI-CU-X-048** (Children of the Deep), **GOI-CP-B-049** (DREAM .INC), and **GOI-ML-X-050** (Liberty Freedoms) were folded into the canonical registry on 08/09/2026: each received a classification-stack entry under the Sample GOI Entries section of Part Four and of the GOI Registry and External Threat Doctrine Archive (md and txt), and a prose subsection in the BOOK's Sample GOIs chapter. The continuity note above preserves the earlier registry state for historical record; the live registry now contains six registry-integrated entries. GOI-HY-U-051 and GOI-HY-X-052 are anomaly-anchored folder dossiers pending later registry-integration work.
+With Central Archive approval, the three earlier commissioned original dossiers are no longer folder-only records. **GOI-CU-X-048** (Children of the Deep), **GOI-CP-B-049** (DREAM .INC), and **GOI-ML-X-050** (Liberty Freedoms) were folded into the canonical registry on 08/09/2026: each received a classification-stack entry under the Sample GOI Entries section of Part Four and of the GOI Registry and External Threat Doctrine Archive (md and txt), and a prose subsection in the BOOK's Sample GOIs chapter. The continuity note above preserves the earlier registry state for historical record; the live registry now contains six registry-integrated entries. GOI-HY-U-051 and GOI-HY-X-052 are anomaly-anchored folder dossiers pending later registry-integration work.
 
 ---
 
 ## Planning material - not individual GOI dossiers
 
 - [00_GOI_Development_Roadmap.md](00_GOI_Development_Roadmap.md) - Retained twenty-slot structural scaffold for GOI category planning; listed names/designations are not approved GOIs.
-- [00_GOI_Record_Template.md](00_GOI_Record_Template.md) - Universal controlled in-world archive form for a future owner-selected original GOI dossier.
+- [00_GOI_Record_Template.md](00_GOI_Record_Template.md) - Universal controlled in-world archive form for a future approved original GOI dossier.
 - `README.md` - This folder guide.
 
-The twenty roadmap/scaffold entries remain in the master roadmap only. They do **not** have individual GOI files, and their names/designations are **not approved canon**. The owner clarified that the twenty entries were meant to preserve structure, not to finalize a roster or force later selection from those names. Children of the Deep, DREAM .INC, and Liberty Freedoms are owner-directed original dossiers outside that scaffold; none converts, replaces, or silently activates a scaffold slot.
+The twenty roadmap/scaffold entries remain in the master roadmap only. They do **not** have individual GOI files, and their names/designations are **not approved canon**. Central Archive clarified that the twenty entries were meant to preserve structure, not to finalize a roster or force later selection from those names. Children of the Deep, DREAM .INC, and Liberty Freedoms are commissioned original dossiers outside that scaffold; none converts, replaces, or silently activates a scaffold slot.
 
 ---
 
-### Owner correction on roadmap scaffold
+### Archive control note on roadmap scaffold
 
-Recorded 11 September 2026: the twenty roadmap entries are structural placeholders only. They were retained instead of deleted because their category spread may still be useful, but their names, designations, premises, and order are not approved. Future GOI work must begin from the owner's selected or supplied GOI, especially a GOI already mentioned in an anomaly file, rather than treating the scaffold list as a finished menu.
+Recorded 11 September 2026: the twenty roadmap entries are structural placeholders only. They were retained instead of deleted because their category spread may still be useful, but their names, designations, premises, and order are not approved. Future GOI work must begin from a selected or supplied GOI, especially a GOI already mentioned in an anomaly file, rather than treating the scaffold list as a finished menu.
 
 ---
 
-## Owner-selected original GOI creation
+## Controlled original GOI creation
 
-The owner's deliberate production rule for new GOIs remains active:
+The controlled production rule for new GOIs remains active:
 
-1. The owner explicitly approves the GOI or GOIs in a prompt. A selected GOI may come from an anomaly mention, a new owner name, or a rewritten scaffold slot; scaffold names are not assumed approved.
+1. Central Archive issues a registry creation order for the GOI or GOIs. A selected GOI may come from an anomaly mention, a new approved name, or a rewritten scaffold slot; scaffold names are not assumed approved.
 2. Each selected new GOI receives one detailed Markdown dossier in `GOI_MD/` and one matching plain-text reading copy in `GOI_TXT/`.
 3. Each pair is checked for universal format, continuity, classification, originality, tone, and requested revisions.
-4. No extra unselected original GOI dossier pair is created from the scaffold list or from scan results without owner approval.
+4. No extra unselected original GOI dossier pair is created from the scaffold list or from scan results without Central Archive approval.
 
 Expanding, correcting, or reviewing an existing source-registry dossier does not count as creating a new original GOI.
 
@@ -146,7 +146,7 @@ GOI_MD/01-Office-of-Public-Continuity-GOI-GV-N-028.md
 GOI_TXT/01-Office-of-Public-Continuity-GOI-GV-N-028.txt
 ```
 
-The filename base and registry designation must match the approved roadmap slot unless the owner changes them during that individual creation phase.
+The filename base and registry designation must match the approved roadmap slot unless Central Archive changes them during that individual creation phase.
 
 ---
 
@@ -159,7 +159,7 @@ Every future original GOI in this folder must remain an original A.C.T. core cre
 - It must not duplicate the core role of GAA, A-GA, Anstrall Market, Children of the Deep, DREAM .INC, or Liberty Freedoms.
 - It must not turn A.C.T. into an SCP derivative, a Project Moon crossover, or a generic clone of another fictional organization.
 - It must not use source material, events, characters, assets, or lore from `A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Emergent Reality Anomaly/`, including all 715 material.
-- It must not alter the First Lie, ERE, ITHYOS, NEMNOLIA, founder self-erasure, or protected main-story revelations without later explicit owner direction.
+- It must not alter the First Lie, ERE, ITHYOS, NEMNOLIA, founder self-erasure, or protected main-story revelations without later explicit Central Archive direction.
 
 ---
 
@@ -167,6 +167,6 @@ Every future original GOI in this folder must remain an original A.C.T. core cre
 
 No images, SVGs, logos, or other visual assets are included in these dossiers.
 
-If an individual future GOI needs a new visual asset, the owner must first approve that specific asset or a small bounded set. The wider SVG-first, no-generation, external-art prohibition, and phased-review rules remain binding under:
+If an individual future GOI needs a new visual asset, Central Archive must first approve that specific asset or a small bounded set. The wider SVG-first, no-generation, external-art prohibition, and phased-review rules remain binding under:
 
 [RESEARCH FOLDER/2026-09-06_A.C.T._Wiki_Scope_and_Visual_Asset_Policy.md](../../../RESEARCH%20FOLDER/2026-09-06_A.C.T._Wiki_Scope_and_Visual_Asset_Policy.md)

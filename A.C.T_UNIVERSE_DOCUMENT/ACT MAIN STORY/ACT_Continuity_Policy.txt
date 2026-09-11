@@ -58,7 +58,7 @@ The Part series explains the universe in numbered doctrine form. It should stay 
 
 Archive copies are in-universe institutional copies of doctrine. They are canon as archive artifacts and should normally match the doctrine they mirror.
 
-Archive copies may be useful for story tone because A.C.T. is a setting where record-keeping itself matters. However, unplanned drift between an archive copy and its source should be treated as a maintenance issue unless the owner explicitly declares the drift intentional.
+Archive copies may be useful for story tone because A.C.T. is a setting where record-keeping itself matters. However, unplanned drift between an archive copy and its source should be treated as a maintenance issue unless Central Archive explicitly declares the drift intentional.
 
 2.4 Anomaly Record Canon
 
@@ -99,7 +99,7 @@ A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_TXT/
 
 A GOI dossier is canon as A.C.T.'s institutional assessment of that group. It is not necessarily the group's own self-understanding. Future recovered documents written from a GOI voice should be clearly marked as recovered, intercepted, translated, reconstructed, or otherwise separated from the A.C.T. assessment voice.
 
-GOI expansion remains gated: one new original GOI per owner prompt unless the owner changes that rule.
+GOI expansion remains gated: one new original GOI per Central Archive registry order unless Central Archive changes that rule.
 
 2.7 Main Story / Tale Layer
 
@@ -141,7 +141,7 @@ Primary location:
 
 RESEARCH FOLDER/
 
-Research files are not canon by default. They may recommend canon additions, document owner decisions, or preserve research context. A recommendation in the research folder becomes active canon only when it is implemented into the appropriate canon document or explicitly approved as binding guidance.
+Research files are not canon by default. They may recommend canon additions, document archive decisions, or preserve research context. A recommendation in the research folder becomes active canon only when it is implemented into the appropriate canon document or explicitly approved as binding guidance.
 
 2.11 Wiki / Public Presentation Layer
 
@@ -153,11 +153,11 @@ docs/
 
 A docs page should present or adapt canon; it should not silently rewrite source canon. When in doubt, docs pages should link back to the source files that govern them.
 
-The current docs/ scaffold may remain minimal until the owner requests wiki implementation.
+The current docs/ scaffold may remain minimal until wiki implementation is authorized.
 
 2.12 Crossover / Non-Core Material
 
-Crossover material is not Core A.C.T. Canon unless the owner explicitly declares a specific element to be imported into core continuity.
+Crossover material is not Core A.C.T. Canon unless Central Archive explicitly declares a specific element to be imported into core continuity.
 
 Known crossover/example location:
 
@@ -172,7 +172,7 @@ This rule especially protects the independent A.C.T. core from accidental depend
 
 When editing or adding files, use this practical authority order:
 
-1. Owner instruction in the current task.
+1. Current archive directive.
 2. Root README.md repository rules and current branch/session requirements.
 3. Core Doctrine Canon.
 4. Complete Designation and Class Reference.
@@ -194,7 +194,7 @@ If two canon files disagree, do not silently flatten the contradiction. Determin
 - a plain maintenance error;
 - an unapproved draft change;
 - a story-layer perspective limitation;
-- or a true continuity conflict requiring owner decision.
+- or a true continuity conflict requiring Central Archive decision.
 
 ============================================================
 4. Markdown / Text Twin Rule
@@ -216,7 +216,7 @@ A .txt twin should normally be a plain-text reading copy of the Markdown source,
 Known exceptions remain:
 
 - the BOOK is Markdown-only;
-- research reports are Markdown-only unless the owner requests otherwise;
+- research reports are Markdown-only unless the Central Archive requests otherwise;
 - some legacy records are intentionally text-only;
 - public docs/ pages do not automatically require text twins unless a docs policy later establishes that rule.
 
@@ -225,7 +225,7 @@ Known exceptions remain:
 
 A.C.T. may contain crossover stories, research references, and comparison notes. Those materials are useful, but they must stay visibly separated from the independent core.
 
-Do not copy external-property terminology, organizations, visual symbols, mechanics, cosmology, or named systems into core A.C.T. files unless the owner explicitly asks for a crossover or non-core document.
+Do not copy external-property terminology, organizations, visual symbols, mechanics, cosmology, or named systems into core A.C.T. files unless Central Archive explicitly authorizes a crossover or non-core document.
 
 When writing core A.C.T. material, use A.C.T.'s own vocabulary:
 
@@ -264,7 +264,7 @@ Only after those checks should a contradiction be preserved as intentional canon
 - [BLANK] without spaces is a containment class.
 - Floor designations run from F-1 upward to surface level.
 - The ABYSS is not just another numbered floor.
-- GOI expansion remains gated by owner prompt.
+- GOI expansion remains gated by Central Archive registry order.
 - Crossover stories are preserved but not default core canon.
 - Research files can recommend future doctrine, but canon changes must be implemented in canon files.
 

@@ -363,6 +363,6 @@ FILE LAST UPDATED:       12/09/2026
 FILE AUTHOR:             Intelligence Division / Temporal Evidence Review Desk
 REVIEWED BY:             Tactical Review Desk / Subject Care Division Liaison
 FILE STATUS:             ACTIVE / RESTRICTED / UNRESOLVED
-DESIGNATION HISTORY:     GOI-HY-U-051 created from owner-approved anomaly-linked Guild evidence
+DESIGNATION HISTORY:     GOI-HY-U-051 created from anomaly-linked Guild evidence
 RECORD CONDITION:        OPERATIONAL WITH INTENTIONAL OPEN CONDITIONS
 ```

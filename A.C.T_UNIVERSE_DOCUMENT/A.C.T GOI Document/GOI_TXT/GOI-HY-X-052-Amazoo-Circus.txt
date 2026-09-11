@@ -65,7 +65,7 @@
 **Authority:** Intelligence Division and Subject Care Division
 
 ### Archive Note
-Amazoo Circus is the owner-approved GOI filing for the unregistered anomalous humanoid collective targeted during the A.C.T raid known as **Operation BIG TOP** and the follow-up containment frame **Broken Ring**. It is directly tied to AFD-SU-507, the subject currently filed as Circus Monster.
+Amazoo Circus is the GOI filing for the unregistered anomalous humanoid collective targeted during the A.C.T raid known as **Operation BIG TOP** and the follow-up containment frame **Broken Ring**. It is directly tied to AFD-SU-507, the subject currently filed as Circus Monster.
 
 This record must not treat the Circus Monster as the Circus. AFD-SU-507 is a survivor, not the organization that abused her. The Circus is the structure that displayed, commanded, starved, named, caged, and monetized anomalous pain.
 
@@ -374,6 +374,6 @@ FILE LAST UPDATED:       12/09/2026
 FILE AUTHOR:             Intelligence Division / Subject Care Division Liaison
 REVIEWED BY:             Regional Command / Tactical Containment
 FILE STATUS:             ACTIVE / RESTRICTED / FRAGMENTED
-DESIGNATION HISTORY:     GOI-HY-X-052 created from owner-approved Circus Monster anomaly evidence
+DESIGNATION HISTORY:     GOI-HY-X-052 created from Circus Monster anomaly evidence
 RECORD CONDITION:        OPERATIONAL WITH INTENTIONAL OPEN CONDITIONS
 ```
