@@ -45,6 +45,15 @@ To maintain chronological and causal integrity, all documentation must be saved 
 *   All items originating from the "Displacement Event" of 2021-2024 are designated under the **715** numerical registry. 
 *   They are categorized as **Information-Only Manifestations** and stored as "Static Artifacts."
 
+### **3.3 Path 1 Foundation Fields**
+Every full anomaly file must include the current foundation fields:
+
+*   **REGISTRY BAND:** ENTITY Historical / 000 Foundational Reserve / LEGACY ACCEPTED 001-120 / Modern Registry 121-999 / ANM Fracture-State / Reserved / Obscured.
+*   **LIFECYCLE STATE:** PROVISIONAL / ACTIVE-CONTAINED / ACTIVE-UNCONTAINED / UNDER REVIEW / TRANSFORMATION-CANDIDATE / INTEGRATED / RETIRED / ARCHIVED / NEUTRALIZED / EXPLAINED / LOST / MEMORIALIZED / PROHIBITED-FROM-TRANSFORMATION.
+*   **HAZARD TAGS:** Use only evidenced tags from PHYS / BIO / COG / MEM / INFO / TEMP / SPAT / STR / COS / SOC / OPR families.
+
+These fields are not decoration. Registry Band explains number logic, Lifecycle State explains current archive/operational condition, and Hazard Tags explain proven hazard behavior for search and routing.
+
 ---
 
 # 4. TECHNOLOGICAL INTEGRATION (INDEX 50)
@@ -92,7 +101,7 @@ Generate all documents as if you are a clerk of the **Main A.C.T Reality**. Main
 
 > **"Manners are the only Anti Reality Mesh that doesn't require a power supply."** 
 
-Respect the designation. Protect the survivor. Stabilize the world.
+Respect the designation. Confirm the registry band. Prove the hazard tags. Preserve the lifecycle state. Protect the survivor. Stabilize the world.
 
 ---
 **END OF GENERATOR STANDARD**

@@ -70,6 +70,15 @@ For anomalies that are "side stories" and not part of the main canonical anchors
 
 # 5. GENERATION WORKFLOW (2026 VERSION)
 
+## Registry Band / Lifecycle / Hazard Tag Requirement
+Every generated anomaly must now include the Path 1 foundation fields unless the owner asks for a short concept only:
+
+- **REGISTRY BAND** — ENTITY Historical / 000 Foundational Reserve / LEGACY ACCEPTED 001–120 / Modern Registry 121–999 / ANM Fracture-State / Reserved / Obscured.
+- **LIFECYCLE STATE** — PROVISIONAL / ACTIVE-CONTAINED / ACTIVE-UNCONTAINED / UNDER REVIEW / TRANSFORMATION-CANDIDATE / INTEGRATED / RETIRED / ARCHIVED / NEUTRALIZED / EXPLAINED / LOST / MEMORIALIZED / PROHIBITED-FROM-TRANSFORMATION.
+- **HAZARD TAGS** — evidenced tags only, using PHYS / BIO / COG / MEM / INFO / TEMP / SPAT / STR / COS / SOC / OPR families.
+
+Do not use tags as decoration. If the hazard is not demonstrated in the file body, do not tag it.
+
 When creating a new entry, follow this hierarchy:
 
 1.  **Identify the Node:** Is it **Main Reality** or an **Exogenous Node (715)**?
@@ -79,6 +88,7 @@ When creating a new entry, follow this hierarchy:
     *   No "Keter/Thaumiel."
     *   No "Sovereign" used obsessively.
     *   Clinical adjectives only (Hostile, Resonant, Corrosive).
+    *   Confirm registry band, lifecycle state, and hazard tags match the body of the file.
 5.  **Save Destination:** 
     *   Main Files -> `ANOMALY txt Part 2`
     *   Supporting Logs -> `ANOMALY Log Part 2`

@@ -21,10 +21,16 @@ This file is the complete internal archive version of the official Standard Anom
 DESIGNATION:         [UFD-XX-### / AFD-XX-###][ANM-XX-XX-####]
                      UFD = Unknown Field Designation (provisional)
                      AFD = Anomaly Field Designation (verified)
+REGISTRY BAND:       [ENTITY Historical / 000 Foundational Reserve /
+                      LEGACY ACCEPTED 001-120 / Modern Registry 121-999 /
+                      ANM Fracture-State / Reserved / Obscured]
 TITLE I:             [Primary Title / N/A]
 TITLE II:            [Secondary Title / Alternate Title / N/A]
 
 FIELD TYPE:          [OB / SU / PL / TI / SP / ME / IH / CH / NB / ?.H]
+HAZARD TAGS:         [PHYS-____ / BIO-____ / COG-____ / MEM-____ /
+                      INFO-____ / TEMP-____ / SPAT-____ / STR-____ /
+                      COS-____ / SOC-____ / OPR-____ / N/A]
 
 CLEARANCE REQUIRED:  [Non-Access / Level E / Level 0 / Level 1 / Level 2
                       / Level 3 / Level 4 / Level 5 / O5 Access]
@@ -51,6 +57,12 @@ TRANSFORMATION
 VIABILITY:           [INVIOLABLE / NEUTRAL / CONTAINED-STUDY /
                       STABILIZED / NEUTRALIZED / REPURPOSED /
                       INTEGRATED]
+LIFECYCLE STATE:     [PROVISIONAL / ACTIVE-CONTAINED /
+                      ACTIVE-UNCONTAINED / UNDER REVIEW /
+                      TRANSFORMATION-CANDIDATE / INTEGRATED /
+                      RETIRED / ARCHIVED / NEUTRALIZED / EXPLAINED /
+                      LOST / MEMORIALIZED /
+                      PROHIBITED-FROM-TRANSFORMATION]
 
 ═══════════════════════════════════════════════════════════════════════
                           DISCOVERY
@@ -348,9 +360,11 @@ The three-digit number is assigned sequentially. It does not reflect threat leve
 
 ```
 DESIGNATION:         AFD-OB-042
+REGISTRY BAND:       Modern Registry 121-999
 TITLE I:             Example Primary Title
 TITLE II:            Example Secondary Title
 FIELD TYPE:          OB — Object
+HAZARD TAGS:         PHYS-IMPACT / OPR-HANDLING-RISK
 CLEARANCE REQUIRED:  Level 3
 
 CONTAINMENT CLASS:   REACTIVE
@@ -358,6 +372,7 @@ FRACTURE (CONT.):    NONE
 THREAT LEVEL:        4
 FRACTURE (SUB-T.):   NONE
 TRANSFORMATION:      CONTAINED-STUDY
+LIFECYCLE STATE:     ACTIVE-CONTAINED
 ```
 
 > *Personnel should be able to read this block and understand the anomaly's type, danger, containment behavior, and conversion potential at a glance. Everything else in this file is detail. This block is the truth.*

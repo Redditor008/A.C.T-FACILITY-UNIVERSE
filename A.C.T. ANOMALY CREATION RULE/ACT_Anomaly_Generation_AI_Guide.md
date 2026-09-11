@@ -133,6 +133,20 @@ Use these examples as guidance:
 - **NB / Non-Natural Bio Hazard** — a plant, fungus, parasite, pathogen, body-fluid source, or impossible organism that violates normal biology
 - **?.H / Shifting Hazard** — an anomaly that changes category over time, resists stable definition, or behaves as more than one field type depending on state or observer
 
+## 4.4 Registry Band Selection
+Every new anomaly should identify its registry band before the file is drafted.
+
+Use these bands:
+
+- **ENTITY Historical Band** — closed pre-standard historical records only; do not create new ordinary ENTITY files.
+- **000 Foundational Reserve** — origin-level or foundation-level subjects only; do not use casually.
+- **LEGACY ACCEPTED 001–120** — legacy-era anomalies, early accepted anomalies, and records where UFD/AFD coexistence preserves intake history.
+- **Modern Registry 121–999** — ordinary modern UFD/AFD anomalies.
+- **ANM Fracture-State 0001–9999** — fracture-state records where normal archive logic is insufficient.
+- **Reserved / Obscured** — use when the number is intentionally hidden, unsettled, or structurally protected.
+
+Do not treat a UFD and AFD with the same number as duplicates if they represent different archive states. UFD preserves provisional intake. AFD preserves verified status.
+
 ---
 
 # 5. Titles
@@ -277,6 +291,25 @@ Use these examples as guidance:
 - **REPURPOSED** — an anomaly actively converted into a tool, medicine, containment aid, or controlled strategic function
 - **INTEGRATED** — an anomaly so thoroughly adapted into Facility infrastructure that it now functions as part of A.C.T’s normal buried systems
 
+## 9.5 Lifecycle State
+Lifecycle State records where the anomaly currently stands in A.C.T custody, knowledge, or loss. It is separate from Containment Class and Transformation Viability.
+
+Use one of these:
+
+- **PROVISIONAL** — suspected or partially documented; common for UFD intake.
+- **ACTIVE-CONTAINED** — active and presently controlled, bounded, or monitored.
+- **ACTIVE-UNCONTAINED** — active and not under reliable A.C.T control.
+- **UNDER REVIEW** — classification, containment, transformation, or record integrity is being formally reviewed.
+- **TRANSFORMATION-CANDIDATE** — being considered for controlled change or use.
+- **INTEGRATED** — the anomaly or derivative is part of A.C.T infrastructure, procedure, medicine, equipment, or archive function.
+- **RETIRED** — no longer an active operational problem, but retained as a controlled record.
+- **ARCHIVED** — active handling closed; preserved for reference, training, law, or future reactivation.
+- **NEUTRALIZED** — anomalous effect has ceased or been rendered nonfunctional.
+- **EXPLAINED** — resolved as non-anomalous, misclassified, hoax, ordinary science, or known non-A.C.T phenomenon.
+- **LOST** — A.C.T lacks the anomaly, route, source, evidence, or file body needed to claim control.
+- **MEMORIALIZED** — retained mainly because people, sites, or historical consequences require remembrance.
+- **PROHIBITED-FROM-TRANSFORMATION** — transformation is formally forbidden.
+
 ---
 
 # 10. Site Integration
@@ -325,6 +358,29 @@ Use these examples as guidance:
 - **In-Place** — a case where the anomaly remains where it was found and the Facility builds the containment perimeter around it instead of moving it
 
 This helps make the anomaly feel integrated into the A.C.T setting instead of floating without context.
+
+---
+
+# 10.5 Hazard Tags
+Hazard Tags are controlled routing/search markers. They should describe proven hazards, not vibes.
+
+Use the smallest useful set from these families:
+
+- **PHYS** — impact, cutting, pressure, temperature, weaponization, direct material harm.
+- **BIO** — infection, mutation, growth, parasitism, ecology, impossible biology.
+- **COG** — memory, perception, compulsion, identity drift, dreams, cognition.
+- **MEM / INFO** — symbol, language, audio, visual, reading, naming, or knowledge hazards.
+- **TEMP** — loops, time loss, pre-echoes, delay, chronology damage.
+- **SPAT** — nonlocal space, thresholds, transit, impossible interiors, distance errors.
+- **STR** — reality fracture, classification failure, observation instability, archive drift.
+- **COS** — abyssal, divine, world-scale, foundational, origin-level, cosmic.
+- **SOC / OPR** — recruitment, market exposure, cover risk, GOI interference, handler risk, asset dependency.
+
+Example tag line:
+
+```text
+HAZARD TAGS: COG-MEMORY / TEMP-PRE-ECHO / STR-ARCHIVE-DRIFT
+```
 
 ---
 
@@ -439,15 +495,18 @@ When generating an anomaly, prefer this structure:
 
 ## Required Fields
 - DESIGNATION
+- REGISTRY BAND
 - TITLE I
 - TITLE II
 - FIELD TYPE
+- HAZARD TAGS
 - CLEARANCE REQUIRED
 - CONTAINMENT CLASS
 - FRACTURE INDEX — CONTAINMENT
 - THREAT LEVEL
 - FRACTURE INDEX — SUB-THREAT
 - TRANSFORMATION VIABILITY
+- LIFECYCLE STATE
 - DESCRIPTION
 - ANOMALOUS PROPERTIES
 - CONTAINMENT PROCEDURES
@@ -466,27 +525,33 @@ You may generate it either as:
 
 ---
 
-# 17. Recommended Generation Workflow for the AI
+# 16. Recommended Generation Workflow for the AI
 When generating a new anomaly, follow this order:
 
 1. Decide the **core concept**
 2. Decide whether it is `UFD`, `AFD`, or `ANM`
-3. Assign **field type**
-4. Assign **TITLE I** and **TITLE II**
-5. Define the **main anomalous effect**
-6. Decide how it is **contained**
-7. Assign **containment class**
-8. Assign **threat level**
-9. Decide if fracture logic applies
-10. Decide whether it is transformable
-11. Assign **site integration** fields
-12. Add one or two strong research or story hooks
+3. Select the **registry band**
+4. Assign **field type**
+5. Assign **TITLE I** and **TITLE II**
+6. Define the **main anomalous effect**
+7. Decide how it is **contained**
+8. Assign **containment class**
+9. Assign **threat level**
+10. Decide if fracture logic applies
+11. Decide whether it is transformable
+12. Assign **lifecycle state**
+13. Assign evidenced **hazard tags**
+14. Assign **site integration** fields
+15. Add one or two strong research or story hooks
 
 ---
 
-# 16. Example Mini-Concept
+# 17. Example Mini-Concept
 ## DESIGNATION
 AFD-ME-118
+
+## REGISTRY BAND
+LEGACY ACCEPTED 001–120
 
 ## TITLE I
 The Seventh Instruction
@@ -497,6 +562,9 @@ THE MEMO THAT LEARNS YOU
 ## FIELD TYPE
 ME — Memetic
 
+## HAZARD TAGS
+MEM-LANGUAGE / COG-COMPULSION / STR-ARCHIVE-DRIFT
+
 ## CONTAINMENT CLASS
 REACTIVE
 
@@ -505,6 +573,9 @@ REACTIVE
 
 ## TRANSFORMATION VIABILITY
 NEUTRAL
+
+## LIFECYCLE STATE
+ACTIVE-CONTAINED
 
 ## DESCRIPTION
 A typed instruction sheet that rewrites itself after being read. The new text always appears to address the specific reader and gradually shifts from workplace instructions into intimate knowledge that the sheet should not possess.
@@ -518,7 +589,7 @@ A typed instruction sheet that rewrites itself after being read. The new text al
 
 ---
 
-# 19. Final Instruction to the AI
+# 18. Final Instruction to the AI
 When generating anomalies for A.C.T, remember:
 
 > This is not just a horror setting. It is a classified institutional setting where horror must survive contact with bureaucracy.

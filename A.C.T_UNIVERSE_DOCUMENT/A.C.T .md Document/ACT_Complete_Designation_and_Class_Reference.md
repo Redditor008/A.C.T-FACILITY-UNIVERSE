@@ -42,7 +42,7 @@ This reference consolidates definitions preserved in the following source record
 
 # PART I — ANOMALY FILE DESIGNATIONS AND CLASSES
 
-This Part explains the designation and classification system that appears on every modern anomaly file. It is organized in the same order the fields appear on the Standard Format file: designation first, then field type, then fracture logic, then containment class, threat level, transformation viability, clearance, and finally the operational fields (structure class, breach state, restrictions, redaction, and record state).
+This Part explains the designation and classification system that appears on every modern anomaly file. It is organized in the same order the fields appear on the Standard Format file: designation first, then registry band, field type, fracture logic, containment class, threat level, transformation viability, lifecycle state, clearance, hazard tags, and finally the operational fields (structure class, breach state, restrictions, redaction, and record state).
 
 ---
 
@@ -105,6 +105,57 @@ In `ANM` form:
 
 **Do not confuse with.** Anomalies whose registry number happens to contain zeros. Ordinary three- and four-digit registry codes are assigned in sequence; only 000 carries the reserved significance.
 
+## I-1A Registry Band Doctrine
+
+Registry Band Doctrine defines how A.C.T reads anomaly numbers across historical, provisional, verified, and fracture-state records. It exists because a number is not only an index; in some ranges it also records archive age, intake history, and protected significance.
+
+### ENTITY Historical Band
+
+**Range.** `ENTITY-###`, closed historical series.
+
+**Meaning.** ENTITY numbers belong to the First Vault and pre-standard archive era. They are preserved as historical designations even when the same subject later receives a modern UFD, AFD, or ANM record.
+
+**Rule.** No new ENTITY file is opened under ordinary modern doctrine. A modern file may cross-reference an ENTITY record, but it must not overwrite it.
+
+### 000 Foundational Reserve
+
+**Range.** `000` in modern UFD/AFD registry use, and `ENTITY-000` in the historical series.
+
+**Meaning.** The number marks origin-level or foundation-level significance. It is not a normal first entry and is not assigned for sequence convenience.
+
+**Rule.** Any new use of `000` requires O5-level or equivalent owner-approved authority in canon. ITHYOS is the controlling example.
+
+### LEGACY ACCEPTED Band
+
+**Range.** `001–120` in UFD/AFD-style three-digit anomaly records.
+
+**Meaning.** This band is accepted for legacy-era anomalies that predate, strain, or were later re-housed inside modern doctrine. Records in this band may preserve older tone, older intake history, and UFD-to-AFD traces without being treated as format errors.
+
+**Rule.** A legacy anomaly may have both a UFD and an AFD record when the UFD preserves the provisional intake state and the AFD preserves the verified state. These are **distinct archive records, not duplicate copies**.
+
+**Reading example.** `UFD-NB-004` and `AFD-NB-004` describe different archive states of The Forgetting Bloom rather than accidental duplicate numbering.
+
+### Modern Registry Band
+
+**Range.** `121–999` in standard UFD/AFD three-digit anomaly records.
+
+**Meaning.** This is the ordinary modern registry range for verified and provisional anomalies after the legacy accepted range.
+
+**Rule.** A modern UFD may become an AFD after verification, but the designation history must preserve the intake path. If the UFD file contains evidence that must remain historically readable, it should be archived rather than erased.
+
+### ANM Fracture-State Band
+
+**Range.** `ANM-XX-XX-0001` through `ANM-XX-XX-9999`, with `XXXX` reserved for unresolved or deliberately obscured numbering.
+
+**Meaning.** ANM records use four digits because fracture-state files require their own enumeration and may describe anomalies that break ordinary registry assumptions.
+
+**Rule.** ANM is not a stronger AFD. It is a different record logic used when standard archive categories fail, fracture, loop, rewrite, or become unsafe.
+
+### Obscured, Reserved, and Closed Numbers
+
+**Obscured numbers** may appear as `XXXX`, `[Question]`, or equivalent redacted forms when the number itself is not declassified or cannot be stabilized. **Reserved numbers** are held for structural, story, or archive-governance reasons. **Closed numbers** are numbers retired from new assignment because the previous record remains historically load-bearing.
+
+No registry number should be reused merely because an anomaly is neutralized, lost, explained, transformed, or archived. The archive preserves the wound even when the wound stops moving.
 
 ---
 
@@ -497,6 +548,65 @@ Beyond the seven viability values, transformation doctrine carries four status c
 - Transformation is **not allowed** when the anomaly is marked **Content**, **Unstable**, **Don't Touch**, **Don't See**, or **Don't Fix**.
 - Before transformation, the file must demonstrate: **compatibility, application, use, lower projected danger or improved control, and high-need operational justification**.
 
+## I-6A Anomaly Lifecycle State
+
+**What the field measures.** Lifecycle State records the anomaly's present archive and operational condition. It is not the same as Containment Class and not the same as Transformation Viability. Containment Class asks how containment relates to the anomaly. Transformation Viability asks whether the anomaly can be changed. Lifecycle State asks where the anomaly currently stands in A.C.T custody, knowledge, or loss.
+
+Recognized lifecycle states are **PROVISIONAL / ACTIVE-CONTAINED / ACTIVE-UNCONTAINED / UNDER REVIEW / TRANSFORMATION-CANDIDATE / INTEGRATED / RETIRED / ARCHIVED / NEUTRALIZED / EXPLAINED / LOST / MEMORIALIZED / PROHIBITED-FROM-TRANSFORMATION**.
+
+### PROVISIONAL
+
+**Meaning.** The anomaly is suspected, detected, or partially documented, but verification remains incomplete. Most UFD records begin here.
+
+### ACTIVE-CONTAINED
+
+**Meaning.** The anomaly remains active and is presently held, bounded, monitored, or managed by A.C.T procedure.
+
+### ACTIVE-UNCONTAINED
+
+**Meaning.** The anomaly remains active and is not presently under reliable A.C.T control. This state may apply to mobile subjects, open places, spreading effects, escaped objects, public phenomena, or anomalies whose containment is theoretical only.
+
+### UNDER REVIEW
+
+**Meaning.** The anomaly's classification, containment procedure, transformation status, or record integrity is under formal review. This state is used when the archive knows that the current file may no longer be safe to trust.
+
+### TRANSFORMATION-CANDIDATE
+
+**Meaning.** The anomaly is being considered for controlled transformation, repurposing, stabilization, neutralization, or integration. No operational transformation is implied unless separately authorized.
+
+### INTEGRATED
+
+**Meaning.** The anomaly or a derivative of it has become part of A.C.T infrastructure, procedure, equipment, medicine, archive function, or operational capacity. The source anomaly may still require containment.
+
+### RETIRED
+
+**Meaning.** The anomaly no longer requires active operational handling, but its file remains open as a controlled historical and procedural record.
+
+### ARCHIVED
+
+**Meaning.** The active case has closed and the file is preserved for reference, history, training, law, or future reactivation.
+
+### NEUTRALIZED
+
+**Meaning.** The anomalous effect has ceased, been suppressed, been exhausted, or been rendered nonfunctional. The file remains because the cause, method, or consequence may still matter.
+
+### EXPLAINED
+
+**Meaning.** The anomaly was resolved into non-anomalous cause, misclassification, hoax, ordinary science, or a known non-A.C.T phenomenon. The file is retained so the mistake cannot repeat unexamined.
+
+### LOST
+
+**Meaning.** The anomaly, source, file body, route, or confirming evidence has been lost. LOST does not mean safe; it means A.C.T no longer knows enough to claim control.
+
+### MEMORIALIZED
+
+**Meaning.** The anomaly record is retained primarily because personnel, civilians, sites, or historical events attached to it require formal remembrance. Memorialized files may still contain hazardous information.
+
+### PROHIBITED-FROM-TRANSFORMATION
+
+**Meaning.** Transformation is formally forbidden by doctrine, review, ethical determination, or risk. This lifecycle state can coexist with active containment.
+
+**Do not confuse with.** Transformation Viability. An anomaly may be INVIOLABLE as a viability value and ACTIVE-CONTAINED as a lifecycle state. A different anomaly may be REPURPOSED as a viability value and INTEGRATED as a lifecycle state.
 
 ---
 
@@ -725,6 +835,69 @@ Anomaly files and their supporting records carry state fields whose vocabulary i
 - **CURRENT STATUS** (on anomaly and registry files): Active / Dormant / Fragmented / Contained / Sealed / Unknown / Under Expansion / Compromised / Archived — the value states the live condition of the subject (anomaly, site, or organization) at the file's last update.
 - **DESIGNATION HISTORY**: records every designation the subject has carried, in order — for example a file noting it was opened as UFD and verified as AFD, or a GOI record noting a retained registry designation. When a designation changes, the history line is how the archive keeps the subject identifiable across its own name changes.
 
+## I-15 Anomaly Hazard Tag Index
+
+Hazard Tags are controlled search and routing markers attached to an anomaly file. They do not replace Field Type, Containment Class, Threat Level, or Transformation Viability. A tag only names a documented hazard behavior so the archive can find similar risks across different files.
+
+**Rule of evidence.** A Hazard Tag may appear on a file only when the description, anomalous properties, containment procedure, incident history, log dossier, or research summary demonstrates the hazard. Tags are not mood labels and not guesses.
+
+**Rule of restraint.** A file should carry the smallest useful set of tags. If every danger is tagged, the tags stop helping containment.
+
+### PHYS — Physical Hazard Tags
+
+Used for direct material harm, kinetic danger, cutting, crushing, impact, weaponization, pressure, heat, cold, radiation-like output, or other body/world damage not better described by a more specific family.
+
+Example tags: `PHYS-IMPACT`, `PHYS-CUTTING`, `PHYS-THERMAL`, `PHYS-PRESSURE`, `PHYS-WEAPONIZED`.
+
+### BIO — Biological Hazard Tags
+
+Used for anomalous life, infection, growth, mutation, parasitism, ecological disruption, bodily transformation, or non-natural biological systems.
+
+Example tags: `BIO-INFECTION`, `BIO-MUTAGENIC`, `BIO-GROWTH`, `BIO-PARASITIC`, `BIO-ECOLOGICAL`.
+
+### COG — Cognitive and Identity Hazard Tags
+
+Used for memory alteration, compulsion, perception failure, personality drift, identity replacement, false recognition, dream intrusion, or cognition damage.
+
+Example tags: `COG-MEMORY`, `COG-COMPULSION`, `COG-IDENTITY-DRIFT`, `COG-PERCEPTION`, `COG-DREAM`.
+
+### MEM — Memetic and Information Hazard Tags
+
+Used when information, symbols, language, sound, images, documents, naming, or knowledge transmission carries the hazard.
+
+Example tags: `MEM-SYMBOL`, `MEM-LANGUAGE`, `MEM-AUDIO`, `MEM-VISUAL`, `INFO-READING-HAZARD`, `INFO-NAMING-HAZARD`.
+
+### TEMP — Temporal Hazard Tags
+
+Used for loops, pre-echoes, time loss, acceleration, delay, chronology damage, predictive contamination, or events remembered before they occur.
+
+Example tags: `TEMP-LOOP`, `TEMP-LOSS`, `TEMP-PRE-ECHO`, `TEMP-DELAY`, `TEMP-CHRONOLOGY`.
+
+### SPAT — Spatial Hazard Tags
+
+Used for impossible geometry, nonlocal interiors, false distance, extradimensional routing, transit anomalies, unstable thresholds, or space behaving as the active hazard.
+
+Example tags: `SPAT-NONLOCAL`, `SPAT-THRESHOLD`, `SPAT-TRANSIT`, `SPAT-INTERIOR`, `SPAT-DISTANCE`.
+
+### STR — Structural-Reality Hazard Tags
+
+Used when the anomaly affects the rules that allow reality, containment, documentation, causality, classification, or observation to remain stable.
+
+Example tags: `STR-REALITY-FRACTURE`, `STR-CLASSIFICATION-FAILURE`, `STR-CONTAINMENT-LOGIC`, `STR-OBSERVATION`, `STR-ARCHIVE-DRIFT`.
+
+### COS — Cosmic / Abyssal Hazard Tags
+
+Used for origin-level, abyssal, divine, cosmic, foundational, world-scale, or structure-bearing hazards whose scope exceeds ordinary local anomaly behavior.
+
+Example tags: `COS-ABYSSAL`, `COS-FOUNDATIONAL`, `COS-DIVINE`, `COS-WORLD-SCALE`, `COS-SLEEPING-SYSTEM`.
+
+### SOC — Social / Operational Exposure Tags
+
+Used for hazards that spread through institutions, groups, secrecy failures, recruitment, markets, public narratives, or operational handling rather than only through physical contact.
+
+Example tags: `SOC-RECRUITMENT`, `SOC-MARKET`, `SOC-COVER-RISK`, `SOC-GOI-INTERFERENCE`, `OPR-HANDLING-RISK`, `OPR-ASSET-DEPENDENCY`.
+
+**Reading principle.** The first tag family should match the most operationally urgent hazard, not the most dramatic one. A beautiful object that primarily rewrites memory is filed with a cognitive or memetic hazard tag before a physical one.
 
 ---
 
