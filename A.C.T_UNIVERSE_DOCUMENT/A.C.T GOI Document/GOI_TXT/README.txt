@@ -1,7 +1,7 @@
 A.C.T. Groups of Interest - Archive and Development Folder
 ==========================================================
 
-Status: Three expanded source-anchored registry dossiers, three owner-directed original dossiers (registry-integrated 08/09/2026), and one retained twenty-slot structural scaffold whose names/designations are not owner-approved canon.
+Status: Three expanded source-anchored registry dossiers, five owner-directed original dossiers, and one retained twenty-slot structural scaffold whose names/designations are not owner-approved canon.
 Scope: Independent A.C.T. core universe only.
 Implementation status: No live wiki work has begun.
 
@@ -64,7 +64,7 @@ Their established designations and classification stacks are retained. Their ind
 Owner-directed original dossier
 ...............................
 
-The following original dossiers were directly commissioned in separate owner prompts. They are distinct from the twenty provisional roadmap candidates.
+The following original dossiers were directly commissioned by owner prompts. They are distinct from the twenty provisional roadmap candidates.
 
 - GOI-CU-X-048 - Children of the Deep / CoTD
   - Markdown dossier (GOI-CU-X-048-Children-of-the-Deep-CoTD.md)
@@ -75,12 +75,22 @@ The following original dossiers were directly commissioned in separate owner pro
 - GOI-ML-X-050 - Liberty Freedoms / L.F.
   - Markdown dossier (GOI-ML-X-050-Liberty-Freedoms-LF.md)
   - Plain-text reading copy (../GOI_TXT/GOI-ML-X-050-Liberty-Freedoms-LF.txt)
+- GOI-HY-U-051 - Mysterious Guild / The Guild
+  - Markdown dossier (GOI-HY-U-051-Mysterious-Guild.md)
+  - Plain-text reading copy (../GOI_TXT/GOI-HY-U-051-Mysterious-Guild.txt)
+- GOI-HY-N-052 - Amazoo Circus / Amazoo
+  - Markdown dossier (GOI-HY-N-052-Amazoo-Circus.md)
+  - Plain-text reading copy (../GOI_TXT/GOI-HY-N-052-Amazoo-Circus.txt)
 
 Children of the Deep is a Cultic / Negative / Regional / Practitioner group assessed at Threat Level 5. Its primary active region is the Midwestern United States, and its active objective is awakening a separately sealed, apocalyptic deep-sea anomaly. Its dossier preserves the supplied redactions and keeps the target anomaly separate from the organization record.
 
 DREAM .INC is a Corporate / Business / National / Engineering group assessed at Threat Level 4. It possesses a mysterious Dream Nectar Extraction Apparatus, extracts Dream Nectar from a separately restricted Dream-Type Anomaly, sells the substance as underground medicine, and has at least twelve confirmed open company buildings.
 
 Liberty Freedoms is a Militant / Negative / Transnational / Handler group assessed at Threat Level 4 and classified Exposure-Active. It is a dispersed insurgency of assessed defector origin that treats A.C.T custody itself - containment, Transformation, secrecy, and research alike - as the enemy, raids transport and recovery operations, publishes controlled document leaks, transports anomalies that have left containment with it, and recruits former A.C.T personnel through staged disclosure of verifiable truth. Its dossier is written to keep it distinct from A-GA (which seeks the destruction of anomalies), Anstrall Market (which trades them), and the state-aligned GAA (which partners with A.C.T).
+
+Mysterious Guild is a Hybrid / Unknown / Structural / Engineering group assessed at Threat Level 4 and classified Leaking. It was created from direct anomaly evidence in the VESPER / MNT-092 material, the VESPERSYS Guild Database Archive PDF, and the AFD-OB-312 Guild Registry maintenance message. Its dossier intentionally preserves major open conditions around whether the Guild is future-origin, alternate, extinct, synthetic, present but hidden, or watching A.C.T through recovered records.
+
+Amazoo Circus is a Hybrid / Negative / Regional / Handler group assessed at Threat Level 4 and classified Exposure-Active. It was created from the Circus Monster anomaly chain, including Operation BIG TOP, Broken Ring, the uncaptured Grand Master Amazoo / POI-0507, and the recovered diary material. Its dossier preserves open conditions around missing performers, the two young lions, the tyrant figure, emotional siphoning, and whether the erased circus can reform under another route or name.
 
 Registry-count continuity note
 ..............................
@@ -89,7 +99,7 @@ The canonical registry contains the three source-anchored entries above, while a
 Registry integration (08/09/2026)
 ................................
 
-With the owner's approval, the three owner-directed original dossiers are no longer folder-only records. GOI-CU-X-048 (Children of the Deep), GOI-CP-B-049 (DREAM .INC), and GOI-ML-X-050 (Liberty Freedoms) were folded into the canonical registry on 08/09/2026: each received a classification-stack entry under the Sample GOI Entries section of Part Four and of the GOI Registry and External Threat Doctrine Archive (md and txt), and a prose subsection in the BOOK's Sample GOIs chapter. The continuity note above preserves the earlier registry state for historical record; the live registry now contains six entries, and the next owner-directed GOI will take the next unused registry number.
+With the owner's approval, the three owner-directed original dossiers are no longer folder-only records. GOI-CU-X-048 (Children of the Deep), GOI-CP-B-049 (DREAM .INC), and GOI-ML-X-050 (Liberty Freedoms) were folded into the canonical registry on 08/09/2026: each received a classification-stack entry under the Sample GOI Entries section of Part Four and of the GOI Registry and External Threat Doctrine Archive (md and txt), and a prose subsection in the BOOK's Sample GOIs chapter. The continuity note above preserves the earlier registry state for historical record; the live registry now contains six registry-integrated entries. GOI-HY-U-051 and GOI-HY-N-052 are anomaly-anchored folder dossiers pending later registry-integration work.
 
 ==============================================================================
 
@@ -104,15 +114,15 @@ The twenty roadmap/scaffold entries remain in the master roadmap only. They do n
 
 ==============================================================================
 
-One new original GOI per future owner prompt
---------------------------------------------
+Owner-selected original GOI creation
+------------------------------------
 
-The owner's deliberate production rule for roadmap candidates remains active:
+The owner's deliberate production rule for new GOIs remains active:
 
-1. The owner explicitly approves one GOI in a new prompt. The GOI may come from an anomaly mention, a new owner name, or a rewritten scaffold slot; scaffold names are not assumed approved.
-2. Only that selected new GOI receives one detailed Markdown dossier in GOI_MD/ and one matching plain-text reading copy in GOI_TXT/.
-3. The pair is checked for universal format, continuity, classification, originality, tone, and requested revisions.
-4. No second new original GOI dossier pair is created until the owner sends another prompt selecting it.
+1. The owner explicitly approves the GOI or GOIs in a prompt. A selected GOI may come from an anomaly mention, a new owner name, or a rewritten scaffold slot; scaffold names are not assumed approved.
+2. Each selected new GOI receives one detailed Markdown dossier in GOI_MD/ and one matching plain-text reading copy in GOI_TXT/.
+3. Each pair is checked for universal format, continuity, classification, originality, tone, and requested revisions.
+4. No extra unselected original GOI dossier pair is created from the scaffold list or from scan results without owner approval.
 
 Expanding, correcting, or reviewing an existing source-registry dossier does not count as creating a new original GOI.
 
