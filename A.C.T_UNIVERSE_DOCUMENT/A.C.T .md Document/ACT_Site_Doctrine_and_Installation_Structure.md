@@ -166,8 +166,8 @@ The final regional code marks broad site placement.
   - United States
   - Western region
 
-- `ACT-SUB-03-ID-C`
-  - Sub-Site 03
+- `ACT-SUB-05-ID-C`
+  - Sub-Site 05
   - Indonesia
   - Central region
 

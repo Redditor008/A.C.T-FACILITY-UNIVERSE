@@ -1,0 +1,214 @@
+A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
+The-Forgotten-Serpent-Behavioral-Observation-Dossier-AFD-SU-008
+
+═══════════════════════════════════════════════════════════════════════
+           A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER           
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-SU-008
+TITLE I:             The Forgotten Serpent
+TITLE II:            THE WASTE THAT REMEMBERS HOW TO CRAWL
+FIELD TYPE:          SU — Subject / mechanical organism / discarded-technology
+                     accumulator
+PRIMARY FILE:        The-Forgotten-Serpent-AFD-SU-008
+DOCUMENT CATEGORY:   CATEGORY VIII — Behavioral & Observation Dossier
+CATEGORY FUNCTION:   Accumulation-cycle observation, material-acceptance
+                     mapping, plasma-breakdown records, and baseline-stability
+                     tracking.
+CLEARANCE REQUIRED:  Level 3
+CONTAINMENT SITE:    ACT-SITE-05-ID-C — Nusantara Deep Relay / machinery
+                     enclosure
+JURISDICTIONAL AUTHORITY:  Applied Anomalous Machinery Desk / Central Archive
+                           Administration
+ARCHIVE STATUS:      Active / machinery-cycle restricted
+DOSSIER STATUS:      Open — continuous length and plasma monitoring
+
+═══════════════════════════════════════════════════════════════════════
+                           CATEGORY CONTENTS                           
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category VIII — Behavioral & Observation
+Dossier. AFD-SU-008 is an autonomous mechanical serpent composed of forgotten,
+obsolete, broken, and thrown-out technological components. Its baseline body
+length is approximately 3 m, extending to a maximum observed 10 m during
+accumulation phases before a cyclical plasma breakdown returns it to baseline.
+
+The subject is contained in a reinforced non-networked machinery enclosure
+lined with ceramic insulation, magnetic baffling, and plasma-dissipation rods,
+and must never be allowed to reach 10 m outside its plasma-rated chamber.
+
+INCLUDED LOG TYPES:
+   - Accumulation-Cycle Observation
+   - Material-Acceptance and Rejection Mapping
+   - Plasma-Organ and Breakdown-State Record
+   - Baseline Stability and Self-Correction Tracking
+   - Feeding Discipline and Chamber Protocol
+   - Closing Observation Statement
+
+CATEGORY PURPOSE:
+To track the serpent's accumulation and reduction cycle, map what it will and
+will not integrate, and hold its 3 m baseline so its appetite is observed
+rather than indulged.
+
+═══════════════════════════════════════════════════════════════════════
+             SECTION 001 — ACCUMULATION-CYCLE OBSERVATION              
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-008/OBS-001
+DATE:                2019-08-04 (detection) — ongoing
+LOCATION:            ACT-SITE-05-ID-C — machinery enclosure
+OBSERVER:            Machinery technician / plasma safety observer
+STATUS:              Cycle nominal
+
+CYCLE SUMMARY:
+
+The subject's base structure is built from fractured phone casings, obsolete
+circuit boards, stripped copper wiring, cracked laptop hinges, camera lenses,
+cassette rollers, watch springs, and unidentifiable metallic vertebrae.
+Components appear to remain functional inside the subject even when they were
+nonfunctional before integration.
+
+When given forgotten, old, thrown-out, or obsolete technology, the subject
+breaks it down without external tools and incorporates it — through mechanical
+unfolding, cable penetration, magnetic adhesion, or short plasma welding
+flashes from its throat region. At approximately 10 m it enters a breakdown
+state: integrated material degrades into anomalous plasma energy held between
+body segments, then is vented, consumed, or shed as the serpent shrinks back
+to 3 m and resumes searching.
+
+OBSERVED CADENCE: Average full cycle under containment lasts 19 to 36 days
+depending on available scrap volume.
+
+═══════════════════════════════════════════════════════════════════════
+        SECTION 002 — MATERIAL-ACCEPTANCE AND REJECTION MAPPING        
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-008/OBS-002
+DATE:                Standing — feeding records
+LOCATION:            ACT-SITE-05-ID-C — chamber intake review
+OBSERVER:            Archive-clearing officer during feeding
+STATUS:              Mapping confirmed
+
+ACCEPTED MATERIALS:
+
+   - broken phones, tablets, radios, cassette players, and cameras
+   - discarded computers and circuit boards
+   - rusted cables, plugs, adapters, chargers, and dead batteries after safe
+     discharge
+   - abandoned household electronics and nonfunctional laboratory equipment
+   - analog storage media with no active archive claim
+
+REJECTED OR AVOIDED MATERIALS:
+
+   - newly manufactured technology still in active use
+   - ceremonial antiques preserved with strong personal attachment
+   - biological tissue and handwritten paper records
+   - active A.C.T containment hardware
+   - devices that personnel verbally identify as "still needed"
+
+OBSERVATION NOTE: The subject distinguishes discarded from valued technology
+by an unknown mechanism; it may respond to social or informational abandonment
+rather than material age alone. In two tests it refused to break down devices
+that still contained unsent messages.
+
+═══════════════════════════════════════════════════════════════════════
+         SECTION 003 — PLASMA-ORGAN AND BREAKDOWN-STATE RECORD         
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-008/OBS-003
+DATE:                Breakdown-state records / Test 008-D
+LOCATION:            ACT-SITE-05-ID-C — plasma-rated chamber
+OBSERVER:            Plasma safety observer
+STATUS:              Recorded — 9 m discharge limit enforced
+
+RECORD SUMMARY:
+
+The subject has no natural eyes or mouth. During navigation, feeding, threat
+response, or plasma conversion it manifests temporary plasma eyes and a plasma
+mouth — blue-white or green-white energy suspended between gaps in the head
+plating that vanishes when the subject becomes dormant.
+
+TEST 008-D RECORD:
+
+After being shown a box of obsolete mobile phones, AFD-SU-008 generated two
+plasma eyes. The eyes tracked the box, not the handler. When the handler said,
+"These are trash," the plasma mouth opened and remained active for 94 seconds.
+
+PLASMA ANALYSIS: The plasma contains brief electromagnetic patterns resembling
+boot sequences, audio static fragments, corrupted image headers, and
+incomplete timestamps. Researchers describe the breakdown state as "burning
+the object's last utility out of it."
+
+═══════════════════════════════════════════════════════════════════════
+     SECTION 004 — BASELINE STABILITY AND SELF-CORRECTION TRACKING     
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-008/OBS-004
+DATE:                Standing — length telemetry
+LOCATION:            ACT-SITE-05-ID-C — chamber sensors
+OBSERVER:            Machinery technician
+STATUS:              Baseline self-correcting
+
+TRACKING SUMMARY:
+
+The 3 m baseline is stable and self-correcting. Attempts to remove body
+segments below baseline length cause the subject to rapidly absorb nearby
+small metal objects until the missing length is restored. Segments removed
+above baseline length degrade into inert slag within 3 to 7 hours if separated
+from the subject.
+
+OBSERVATION NOTE: The subject has never eaten a functioning clock, but has
+integrated five broken ones. In every case, the clock hands were expelled
+during the next breakdown cycle, fused together at 12:00.
+
+═══════════════════════════════════════════════════════════════════════
+         SECTION 005 — FEEDING DISCIPLINE AND CHAMBER PROTOCOL         
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-008/OBS-005
+DATE:                Standing — 14-day feeding review
+LOCATION:            ACT-SITE-05-ID-C — chamber intake
+OBSERVER:            Archive-clearing officer
+STATUS:              Protocol anchored
+
+PROTOCOL SUMMARY:
+
+Controlled feeding is performed every 14 days using low-risk obsolete
+electronics cleared by Archive Review and Engineering Safety. No
+memory-bearing device may be provided until all recoverable data has been
+copied, erased, and certified non-sensitive.
+
+CONTAINMENT RULES:
+
+   - The subject must not reach 10 m outside its plasma-rated chamber
+   - Above 8.5 m, nonessential personnel evacuate the wing and dissipation
+     rods are armed; at 9.5 m the chamber enters automatic breakdown
+     containment mode
+   - No personal discarded devices may be placed in the chamber
+   - No high-voltage suppression unless the subject is in uncontrolled
+     breach movement — electrical attacks may be read as feeding stimulus
+
+OBSERVATION NOTE: Do not leave broken equipment near the chamber door. The
+subject has repeatedly pressed its head against the lower seal when discarded
+components are stored nearby.
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 006 — CLOSING OBSERVATION STATEMENT              
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-SU-008/OBS-CLS-001
+DATE:                2026-09-08
+LOCATION:            Applied Anomalous Machinery Desk
+AUTHOR:              Engineering Hazard Review
+STATUS:              Standing
+
+Observation of AFD-SU-008 is observation of waste that learned to want itself
+back. Personnel have informally described the subject as "recycling with a
+spine" — a phrase not approved for formal documentation but accurate enough to
+appear in containment training. The serpent integrates nothing that is loved
+and nothing that is needed. A.C.T's duty is to keep it that way: to feed it
+only what the world has already abandoned, and never to let it discover that
+the Facility itself keeps anything worth taking.
+
+END OF FILE

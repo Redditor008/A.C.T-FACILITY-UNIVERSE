@@ -1,0 +1,188 @@
+A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+Dread-EYE-Experiment-Testing-Dossier-AFD-ME-018
+
+═══════════════════════════════════════════════════════════════════════
+             A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER             
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-ME-018
+TITLE I:             Dread EYE
+TITLE II:            THE PUPIL THAT TEACHES FEAR TO LOOK BACK
+FIELD TYPE:          ME — Memetic / visual-symbolic fear induction anomaly
+PRIMARY FILE:        Dread-EYE-AFD-ME-018
+DOCUMENT CATEGORY:   CATEGORY IV — Experiment & Testing Dossier
+CATEGORY FUNCTION:   Exposure-stage mapping, medium-persistence and
+                     fragmentation testing, origin-trace review, and
+                     recovery-protocol trials for the Dread EYE symbol.
+CLEARANCE REQUIRED:  Level 3
+CONTAINMENT SITE:    ACT-SITE-03-JP-E — Kurokawa Archive Node
+JURISDICTIONAL AUTHORITY:  Memetic Hazard Review / Central Archive
+                           Administration
+ARCHIVE STATUS:      Active / memetic hazard restricted
+DOSSIER STATUS:      Open — segmented-format testing only
+
+═══════════════════════════════════════════════════════════════════════
+                           CATEGORY CONTENTS                           
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category IV — Experiment & Testing Dossier.
+AFD-ME-018 is a memetic visual anomaly presenting as a simplified eye-like
+symbol: a narrow black oval, a white vertical pupil, and three short radial
+marks beneath the lower curve. The shape is simple enough to be redrawn
+accidentally, but the anomalous form is identifiable by the viewer's immediate
+recognition that the symbol is "looking afraid of them."
+
+No complete copy may be displayed outside approved testing. All confirmed
+instances are stored in fragmented visual format, and personnel must not
+redraw the symbol from memory.
+
+INCLUDED LOG TYPES:
+   - Exposure-Stage Mapping Trial
+   - Medium-Persistence and Fragmentation Testing
+   - Pupil-Anchor Testing
+   - Origin-Trace Archive Review
+   - Response and Recovery Protocol Review
+   - Documentation-Safety Incident and Closing Note
+
+CATEGORY PURPOSE:
+To map the exact exposure thresholds of the dread-induction effect, confirm
+which visual degradations weaken it, and improve the recovery protocol that
+follows every accidental exposure.
+
+═══════════════════════════════════════════════════════════════════════
+              SECTION 001 — EXPOSURE-STAGE MAPPING TRIAL               
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-ME-018/EXP-001
+DATE:                2017-02-02 (verification) — ongoing
+LOCATION:            ACT-SITE-03-JP-E — segmented-format testing chamber
+TEST SUPERVISOR:     Memetic Hazard Review / Archiver Division
+STATUS:              Exposure stages confirmed
+
+TRIAL SUMMARY:
+
+Exposure effects begin after 4 to 9 seconds of direct visual attention.
+Affected subjects report that the eye is afraid, that the fear is contagious,
+and that something unseen has noticed both the eye and the viewer at the same
+time. The anomaly does not produce fear by showing frightening imagery; it
+causes the viewer to become aware of a fear response that appears to originate
+outside the viewer's own mind.
+
+EXPOSURE STAGES:
+
+   - 0 to 4 seconds: no reliable effect
+   - 4 to 9 seconds: unease, eye pressure, discomfort with the symbol
+   - 10 to 30 seconds: dread, fixation, reluctance to blink
+   - 31 to 90 seconds: panic, search behavior, belief of an unseen observer
+   - Over 90 seconds: acute breakdown risk, persistent fear of eye-like
+     shapes, dream recurrence
+
+═══════════════════════════════════════════════════════════════════════
+      SECTION 002 — MEDIUM-PERSISTENCE AND FRAGMENTATION TESTING       
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-ME-018/EXP-002
+DATE:                Multiple sessions
+LOCATION:            ACT-SITE-03-JP-E — controlled displays
+TEST SUPERVISOR:     Memetic Hazard Review
+STATUS:              Boundaries mapped
+
+TESTING SUMMARY:
+
+Printed copies, hand drawings, chalk marks, photocopies, projection artifacts,
+and low-resolution images can all carry partial effect if they preserve the
+eye/pupil relationship. The anomaly weakens when heavily distorted, inverted,
+or separated into disconnected fragments. The effect does not transmit through
+purely verbal description.
+
+STORAGE DISCIPLINE CONFIRMED:
+
+   - Physical copies: opaque envelopes marked with nonvisual archive codes
+   - Digital copies: separated image layers that cannot render the complete
+     symbol without Level 3 authorization
+   - Accidental reproductions: covered first, photographed for archive
+     confirmation, then destroyed or segmented
+
+═══════════════════════════════════════════════════════════════════════
+                  SECTION 003 — PUPIL-ANCHOR TESTING                   
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-ME-018/EXP-003
+DATE:                Research-series records
+LOCATION:            ACT-SITE-03-JP-E — controlled displays
+TEST SUPERVISOR:     Memetic Hazard Review
+STATUS:              Anchor hypothesis supported
+
+TESTING SUMMARY:
+
+The symbol loses most effect when the pupil is removed. Removing the outer eye
+shape without removing the pupil produces stronger short-exposure discomfort
+but weaker long-exposure fixation.
+
+INTERPRETATION: The pupil is the active memetic anchor; the eye shape is the
+recognition frame. Containment segmentation therefore prioritizes separating
+the pupil from its frame in every stored instance.
+
+═══════════════════════════════════════════════════════════════════════
+               SECTION 004 — ORIGIN-TRACE ARCHIVE REVIEW               
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-ME-018/EXP-004
+DATE:                Standing review
+LOCATION:            Kurokawa Archive Node — origin files
+TEST SUPERVISOR:     Archiver Division
+STATUS:              Origin unconfirmed
+
+REVIEW SUMMARY:
+
+The symbol has no confirmed origin. It appears in the margins of archived
+panic studies, unfinished dream journals, damaged classroom projectors, and
+one mural painted under a train bridge in 2004. No artist or researcher
+connected to the instances remembers creating the complete form.
+
+RESEARCH NOTE: The absence of a remembered creator is consistent with the
+anomaly's nature — a symbol that installs itself in peripheral vision and
+documentation margins may also install itself in memory's margins.
+
+═══════════════════════════════════════════════════════════════════════
+          SECTION 005 — RESPONSE AND RECOVERY PROTOCOL REVIEW          
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-ME-018/EXP-005
+DATE:                Standing — reviewed after each exposure
+LOCATION:            ACT-SITE-03-JP-E — care rooms
+TEST SUPERVISOR:     Memetic handler / care responder
+STATUS:              Protocol effective
+
+PROTOCOL SUMMARY:
+
+Exposure response consists of immediate line-of-sight break, low-light
+grounding, verbal reassurance, and removal from reflective surfaces for at
+least 20 minutes. Personnel should not ask affected subjects what they think
+is watching them until panic response has declined.
+
+One affected subject described the exposure as: "It was not looking at me. It
+was looking past me, and then I understood why it was scared."
+
+═══════════════════════════════════════════════════════════════════════
+     SECTION 006 — DOCUMENTATION-SAFETY INCIDENT AND CLOSING NOTE      
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-ME-018/EXP-CLS-001
+DATE:                2026-09-08
+LOCATION:            Memetic Hazard Review
+AUTHOR:              Archiver Division
+STATUS:              Standing
+
+DOCUMENTATION RULE: Do not use eye icons as bullet points in AFD-ME-018
+documentation. This rule was added after two junior archivists independently
+recreated partial hazard forms while formatting a presentation.
+
+CLOSING NOTE: Testing confirms the anomaly produces dread without reliable
+benefit. It does not teach courage, reveal truth, or identify external
+threats, and repurposing as interrogation pressure, crowd dispersal, or
+compliance training is prohibited. The pupil is contained so that the frame
+never finds it again.
+
+END OF FILE

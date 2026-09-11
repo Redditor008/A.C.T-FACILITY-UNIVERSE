@@ -115,7 +115,7 @@ observation, excavation, ritual interference, biological interaction, and
 wake-state destabilization.
 
 The anomaly is managed through the ABYSS Floor, a non-standard terminal
-containment stratum beneath F-xxxx. The ABYSS Floor functions as the
+containment stratum beneath **F-1** — the deepest numbered floor of the main Facility, below which only the ABYSS access route continues. (Floor designations follow the form **F-1**, **F-2**, **F-3**, with **F-1** deepest; the shorthand **F-xxxx** is used in drafts where the precise floor has not been declassified.) The ABYSS Floor functions as the
 nearest stable human-operable interface to the anomaly’s reachable
 influence boundary. No personnel below O5 authority are permitted
 unrestricted file access or direct abyssal descent authorization.
@@ -259,6 +259,7 @@ containment condition.
 
 Cross-reference:
 - First Vault Document — ENTITY-000
+- Unfiled Intake Record — UFD-CH-000
 - ABYSS Floor access doctrine
 - Serpent-class biological suppression observations
 - World End Scenario threshold review
@@ -275,8 +276,9 @@ FILE AUTHOR:             [ SEALED ]
 REVIEWED BY:             O5 Council
 FILE STATUS:             O5-Restricted
 
-DESIGNATION HISTORY:     ENTITY-000 → AFD-CH-000
-                         Raw vault archive converted into modern A.C.T
+DESIGNATION HISTORY:     ENTITY-000 → UFD-CH-000 → AFD-CH-000
+                         Raw vault archive converted into an unfiled
+                         intake record and then into modern A.C.T
                          anomaly doctrine record after formalization of
                          classification standards.
 

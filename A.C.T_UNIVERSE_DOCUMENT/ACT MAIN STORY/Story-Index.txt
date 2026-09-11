@@ -1,6 +1,12 @@
 Main Story Index
 The Facility That Forgot Its First Lie
 
+Complete Files
+- The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md
+- The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.txt
+- The_Complete_Abyssal_Archive_Dossier.md
+- The_Complete_Abyssal_Archive_Dossier.txt
+
 Archives
 - Archives/The-Facility-That-Forgot-Its-First-Lie-Archive.md
 - Archives/The-Facility-That-Forgot-Its-First-Lie-Archive.txt
@@ -32,12 +38,26 @@ Chapters
 - Chapters/Chapter-6-The-Sleeping-Foundation.txt
 - Chapters/Chapter-7-The-Founders-Silence.md
 - Chapters/Chapter-7-The-Founders-Silence.txt
+- Chapters/Chapter-8-NEMNOLIA-and-the-Dream-State.md
+- Chapters/Chapter-8-NEMNOLIA-and-the-Dream-State.txt
+- Chapters/Chapter-9-The-First-Lie.md
+- Chapters/Chapter-9-The-First-Lie.txt
+- Chapters/Chapter-10-The-Cost-of-Remembering.md
+- Chapters/Chapter-10-The-Cost-of-Remembering.txt
+- Chapters/Chapter-11-Fragments-Not-Revelation.md
+- Chapters/Chapter-11-Fragments-Not-Revelation.txt
+- Chapters/Chapter-12-The-Second-Self-Erasure.md
+- Chapters/Chapter-12-The-Second-Self-Erasure.txt
+- Chapters/Epilogue-The-Archive-Still-Breathes.md
+- Chapters/Epilogue-The-Archive-Still-Breathes.txt
 
 Current Progress
-The main story currently has:
+The main story is complete. It currently has:
 - archive concept file
 - full narrative summary
 - chapter outline
 - character archive profiles
-- Chapter 1 through Chapter 7 prose
-- Chapter 1 through Chapter 7 txt versions
+- Chapter 1 through Chapter 12 prose, all with .txt twins
+- Epilogue prose, with .txt twin
+- a full continuous manuscript edition
+- a complete abyssal archive compilation dossier

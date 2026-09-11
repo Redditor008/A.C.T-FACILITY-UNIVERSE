@@ -15,6 +15,8 @@ ITHYOS, the World-Sleeper.
 5.1 — Before A.C.T
 The earliest human records of anomalous existence are believed to date back to the early 15xx, though older references almost certainly exist in even earlier fragments of history, oral traditions, temple records, and half-preserved myth cycles. Long before the modern age of classification, human beings had already witnessed things that did not belong to natural law.
 
+A.C.T dating note: years written as 15xx and 16xx are deliberately approximate. The earliest chronicles predate reliable Facility record-keeping and carry no exact dates of their own, and the Facility does not assign precise years to events its own archives cannot fix. Only internal engineering history — such as the Technology Timeline — is dated exactly.
+
 What later ages would call Anomalies first appeared in early human stories as:
 - spirits,
 - wandering dead,

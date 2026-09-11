@@ -282,14 +282,23 @@ At the apex of the organization stands the **O5 Council**, also called the **Ove
 ### Facility Administrator
 The **Facility Administrator** functions as the highest executive authority beneath the O5 Council. Where the O5 defines policy and direction, the Administrator ensures that the Facility itself remains functional, obedient, and capable. This role oversees all site-level governance, inter-divisional coordination, resource distribution, long-term internal stability, and disciplinary authority. The Administrator is effectively the living mechanism through which O5 will becomes operational reality.
 
+### High Threat Administrator
+A **High Threat Administrator** is a senior Administrator-track officer appointed to govern responses, research, and transformation decisions involving **Threat Level 7 and above** anomalies — those whose failure could endanger nations, continents, or reality itself. They hold O5-delegated authority within that high-threat mandate, outranking ordinary site governance only on matters that cross their threshold, and they serve as the final institutional checkpoint before the O5 Council in transformation authorization.
+
 ### Site Director
 A **Site Director** governs a specific A.C.T site, branch, or operational complex. Site Directors are responsible for the practical management of personnel, containment systems, local anomaly programs, emergency responses, and coordination between departments housed within the site. If a branch falls, it is the Site Director who is held responsible.
+
+### Head Transformation
+The **Head Transformation** is the senior authority of the **Transformation Division** and the Facility's principal arbiter of transformation doctrine. Where High Researchers and Site Directors judge individual anomalies, the Head Transformation judges whether transformation itself is safe, lawful, and sustainable across the wider Facility — approving, revising, or rejecting transformation proposals that exceed site-level authority.
 
 ### High Researcher
 A **High Researcher** is among the highest scientific authorities within the Facility. They oversee advanced anomaly study, cross-divisional scientific planning, transformation approval recommendations, and the interpretation of reality-breaking phenomena. Their role bridges science and policy, especially when an anomaly’s behavior affects broader containment logic or structural reality.
 
 ### Senior Researcher
 A **Senior Researcher** manages active study teams, laboratory direction, experiment oversight, and field interpretation of anomalous evidence. They translate high-level scientific theory into workable procedures. In many cases, Senior Researchers are the individuals who first determine whether an anomaly is merely dangerous, scientifically invaluable, or potentially transformative.
+
+### Field Operating Chief
+A **Field Operating Chief** is the senior commander of field, recovery, and tactical operations within a site or regional command. Where Task Force Commanders lead individual teams and missions, the Field Operating Chief directs the full field apparatus — approving recovery plans, overseeing black-zone deployments, and endorsing field-initiated proposals, including transformation requests, before they pass upward to scientific and site command.
 
 ### Task Force Commander
 The **Task Force Commander** leads organized response teams assigned to field recovery, containment breach response, hostile anomaly suppression, and blacksite intervention. They operate where research ends and deployment begins. Their authority is tactical and immediate, particularly in live crisis zones.
@@ -305,6 +314,9 @@ The **Facility Guard** represents the physical security arm of internal operatio
 
 ### Facility Archiver
 A **Facility Archiver** is responsible for the preservation, organization, redaction, and controlled release of anomaly records. Archivers are not simple clerks; they are custodians of dangerous information. In A.C.T doctrine, information itself may be anomalous, infectious, destabilizing, or lethal. Archivers therefore stand between knowledge and disaster.
+
+### Junior Archiver
+A **Junior Archiver** is the entry-level role of the **Archiver Division**. Junior Archivers handle low-risk record organization, controlled copying, data entry, supervised redaction preparation, and archive catalog maintenance under the Facility Archivers. Their access is limited by design: they handle the paper, not the poison — until they prove they can survive handling dangerous information.
 
 ### Facility Junior Employee
 The **Facility Junior Employee** occupies a low-level support role involving logistics, administration, inventory, maintenance support, document handling, and non-sensitive internal services. They know enough to function, but never enough to compromise the whole.
@@ -395,10 +407,10 @@ Assigned to **Guards**, **Archivers**, and **Junior Archivers**. These personnel
 Assigned to **Field Operators** and **Senior Researchers**. This level allows active engagement with operational anomalies, field response data, and site-level classified incidents.
 
 ### Level 4
-Assigned to **Task Force Command**, **High Researchers**, and **Site Directors**. These individuals oversee dangerous operations and possess broad knowledge of live anomaly programs.
+Assigned to **Field Operating Chiefs**, **Task Force Command**, **Head Transformation**, **High Researchers**, and **Site Directors**. These individuals oversee dangerous operations and possess broad knowledge of live anomaly programs.
 
 ### Level 5
-Assigned to the **Facility Administrator**. This level grants near-total site authority, full administrative oversight, and access to highly restricted truth sets.
+Assigned to the **Facility Administrator** and **High Threat Administrators**. This level grants near-total site authority, full administrative oversight, and access to highly restricted truth sets.
 
 ### O5 Access Card
 Reserved exclusively for **O5 Council members**. This clearance does not simply exceed Level 5; it bypasses ordinary compartmentalization entirely. O5 access permits entry into truths that may be hidden even from Administrators and Site Directors.
@@ -638,9 +650,9 @@ The **?.H** designation is reserved for anomalies that resist stable categorizat
 
 ### Designation Structures
 A.C.T uses three primary designation structures:
-- `UFD-##-XXX`
-- `AFD-##-XXX`
-- `ANM-##-##-XXXX`
+- `UFD-XX-###`
+- `AFD-XX-###`
+- `ANM-XX-XX-####`
 
 #### UFD — Unknown Field Designation
 Assigned during provisional detection and verification when anomalous status is suspected but not yet fully confirmed or stabilized in archive logic.
@@ -649,7 +661,7 @@ Assigned during provisional detection and verification when anomalous status is 
 Assigned once the anomaly has been formally verified and entered into permanent A.C.T archive structure.
 
 #### ANM — Fracture Designation
-Used for anomalies whose documentation must be understood through fracture-state logic. In this format, the first numerical pair reflects the Fracture Containment Index, the second reflects the Fracture Sub-Threat Index, and the final numerical body remains the registry number.
+Used for anomalies whose documentation must be understood through fracture-state logic. In this format, the first **XX** is the **Fracture Containment Index** code, the second **XX** is the **Fracture Sub-Threat Index** code, and **####** is the numerical registry code. The official code list is given in Chapter 25.
 
 The function of this system is not simply labeling. It is the creation of a language through which the Facility can speak about the impossible without drowning in ambiguity.
 
@@ -844,9 +856,9 @@ The RCT Format organizes an anomaly file into three operational blocks, each ans
 When an anomaly file is saved for distribution, archive transfer, or direct download, the file name should place the anomaly title first, followed by the designation.
 
 Approved structures:
-- `Title-UFD-XXX-###.txt` or `.md`
-- `Title-AFD-XXX-###.txt` or `.md`
-- `Title-ANM-####-####-XXXX.txt` or `.md`
+- `Title-UFD-XX-###.txt` or `.md`
+- `Title-AFD-XX-###.txt` or `.md`
+- `Title-ANM-XX-XX-####.txt` or `.md`
 
 Recommended title formatting: replace spaces with hyphens, preserve readable title order, keep the designation exact.
 
@@ -987,6 +999,16 @@ Not every anomaly threatens containment in a straightforward way. Some distort t
 - **REVERTED** — *Somehow it reverted back — the damage undoes itself, as if the threat never happened*
 - **ABSENT** — *Where's the threat — the danger exists on paper but nowhere in reality*
 - **NULLIFIED** — *It stopped — whatever it was doing, it ceased entirely on its own*
+
+
+
+### Official Fracture Index Codes
+When a fracture-sensitive designation is written in `ANM-XX-XX-####` form, the two letter segments abbreviate the Fracture Index:
+
+- **QUESTIONED** (`QU`) / **ABSURD** (`AB`) / **MUTATED** (`MU`) / **UNAUTHORED** (`UA`) / **SCHRÖDINGER** (`SC`) — used in the **Fracture Containment Index** segment
+- **HARMLESS** (`HM`) / **BENEFICIAL** (`BE`) / **REVERTED** (`RV`) / **ABSENT** (`AS`) / **NULLIFIED** (`NU`) — used in the **Fracture Sub-Threat Index** segment
+
+Under this rule, a designation such as `ANM-AB-HM-0002` is read as **ABSURD** containment, **HARMLESS** sub-threat, registry number 0002.
 
 The purpose of the Fracture Index is deeply important. It exists so the Facility does not lie to itself when standard categories no longer describe the anomaly honestly. It is an admission that sometimes the archive itself must bend if it wants to stay truthful.
 
@@ -2011,10 +2033,10 @@ A GOI may be hostile, cooperative, tolerated, useful, unstable, opportunistic, p
 
 A.C.T identifies Groups of Interest under:
 
-**GOI-##-#-XXX**
+**GOI-XX-X-XXX**
 
-- first **##** = Nature Class code
-- second **#** = Alignment Class marker
+- first **XX** = Nature Class code
+- second **X** = Alignment Class marker
 - **XXX** = numerical registry code
 
 ### Nature Codes
@@ -2191,6 +2213,21 @@ The **Anstrall Market** is a black-market anomaly trade structure specializing i
 
 The Market is not inherently aligned with the Facility, but it is not always best treated as an enemy. It can be more useful when controlled, tracked, infiltrated, or quietly exploited than when openly destroyed. However, its trade in anomalous materials makes it a constant secrecy hazard and a source of escalation if left unmanaged.
 
+### Children of the Deep (CoTD)
+The **Children of the Deep**, or **CoTD**, is a cultic congregation network gathered around a single apocalyptic objective: the awakening of a separately sealed deep-sea sleeper whose release is believed to return the world to an older, submerged order. Its congregations operate through ritual preparation, coastal and inland recruitment, and the patient accumulation of the means to reach the sleeper.
+
+CoTD is a severe, patient threat rather than an immediate one. Because its objective is the awakening of a separately contained apocalyptic anomaly, A.C.T posture is infiltration to map the congregations, containment to interrupt ritual and supply activity, and dismantling of awakening preparations that remain interrupted but not ended. The target anomaly is filed separately and kept distinct from the organization record.
+
+### DREAM .INC (DREAM)
+**DREAM .INC** is a company that possesses a mysterious anomalous machine capable of extracting a substance called Dream Nectar from at least one Dream-Type Anomaly. The company sells the substance as underground medicine, advertising that a consumer's wish will come true in their dream after use. At least twelve open company buildings are confirmed to be operating.
+
+DREAM .INC is a corrupt commercial mirror of Transformation: it converts an anomalous source into a saleable product before the risks are understood. A.C.T posture is infiltration to map the building network, containment of the product and the extraction apparatus, and appropriation of what can be safely taken into Facility control. The Dream-Type Anomaly and the machine are filed separately under restricted anomaly records.
+
+### Liberty Freedoms (L.F.)
+**Liberty Freedoms**, or **L.F.**, is a dispersed militant insurgency of assessed defector origin whose stated enemy is A.C.T custody itself. It raids transport and recovery operations, publishes controlled document leaks through shifting mastheads, and transports anomalies that have left containment with it, presenting every act as liberation from institutional capture.
+
+L.F. is dangerous because it weaponizes the Facility's own records, routes, and moral language against containment. It must not be confused with A-GA, which seeks the destruction of anomalies; L.F. claims to preserve them. A.C.T posture is containment of cells and carried subjects, dismantling of defector-recruitment and publication paths, and infiltration of a network whose doctrine outruns its members' knowledge.
+
 These examples reveal the larger point of GOI doctrine: not every threat comes from a chambered object or a sleeping entity. Some threats have flags, leaders, markets, clients, ideologies, budgets, and supply routes.
 
 ---
@@ -2200,6 +2237,8 @@ These examples reveal the larger point of GOI doctrine: not every threat comes f
 ## Chapter 38 — Before the Facility Had a Name
 
 The earliest human records of anomalous existence are believed to date back to the **early 15xx**, though older references almost certainly exist in even earlier fragments of history, oral traditions, temple records, and half-preserved myth cycles. Long before the modern age of classification, human beings had already witnessed things that did not belong to natural law.
+
+A.C.T dating note: years written as **15xx** and **16xx** are deliberately approximate. The earliest chronicles predate reliable Facility record-keeping and carry no exact dates of their own, and the Facility does not assign precise years to events its own archives cannot fix. Only internal engineering history — such as the Technology Timeline — is dated exactly.
 
 What later ages would call **Anomalies** first appeared in early human stories as:
 - spirits
@@ -2779,7 +2818,7 @@ What this book now contains:
 - Full global site registry (5 major sites with complete registry entries)
 - Full supporting sub-site registry (5 sub-sites with complete entries)
 - Complete GOI doctrine (qualification, designation, classification stack, file standard, dual filing)
-- Full sample GOIs (GAA, A-GA, Anstrall Market) with complete classification stacks
+- Full sample GOIs (GAA, A-GA, Anstrall Market, Children of the Deep, DREAM .INC, Liberty Freedoms) with complete classification stacks
 - Complete historical origin (ERE, first signs, first deployment, ENTITY-000, founding, ABYSS Floor construction, first doctrine, transition to modern A.C.T)
 - Foundational anomaly case study: ITHYOS, The World-Sleeper (ENTITY-000 / AFD-CH-000)
 - Foundational anomaly case study: NEMNOLIA, The Golden Veil / The Forgetting Bloom (UFD-NB-004 / AFD-NB-004)

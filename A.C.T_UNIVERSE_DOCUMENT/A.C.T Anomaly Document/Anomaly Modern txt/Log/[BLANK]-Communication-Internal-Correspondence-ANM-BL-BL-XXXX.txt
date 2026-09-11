@@ -1,5 +1,5 @@
 A.C.T FACILITY — COMMUNICATION & INTERNAL CORRESPONDENCE DOSSIER
-[BLANK]-Private-Note-O5-1-ANM-BL-BL-XXXX
+[ BLANK ]-Private-Note-O5-1-ANM-BL-BL-XXXX
 
 ═══════════════════════════════════════════════════════════════════════
         A.C.T FACILITY — COMMUNICATION & INTERNAL CORRESPONDENCE
@@ -8,7 +8,7 @@ A.C.T FACILITY — COMMUNICATION & INTERNAL CORRESPONDENCE DOSSIER
 
 DESIGNATION:         ANM-BL-BL-XXXX
 TITLE I:             [ BLANK ]
-PRIMARY FILE:        [BLANK]-ANM-BL-BL-XXXX
+PRIMARY FILE:        [ BLANK ]-ANM-BL-BL-XXXX
 
 DOCUMENT CATEGORY:   CATEGORY X — Communication & Internal Correspondence
 CATEGORY FUNCTION:   Private O5-1 Note / Warning to the Council

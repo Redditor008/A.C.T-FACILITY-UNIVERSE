@@ -1,0 +1,185 @@
+A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+DONT-DENIED-Experiment-Testing-Dossier-AFD-IH-721
+
+═══════════════════════════════════════════════════════════════════════
+             A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER             
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-IH-721
+TITLE I:             DONT DENIED
+TITLE II:            THE OBJECTIVE CUBE / THE UNDENIABLE TRUTH
+FIELD TYPE:          IH — Info Hazard / ME — Memetic (Cognitive Constraint)
+PRIMARY FILE:        DONT-DENIED-AFD-IH-721
+DOCUMENT CATEGORY:   CATEGORY IV — Experiment & Testing Dossier
+CATEGORY FUNCTION:   Veracity-constraint trials, descriptive-limit mapping,
+                     post-exposure persistence review, and training-tool
+                     feasibility study.
+CLEARANCE REQUIRED:  Level 2
+CONTAINMENT SITE:    ACT-SITE-03-JP-E — Kurokawa Archive Node
+JURISDICTIONAL AUTHORITY:  Kurokawa Command / Info-Hazard Desk
+ARCHIVE STATUS:      Active / Info-hazard restricted
+DOSSIER STATUS:      Open — controlled visual-exposure trials on file
+
+═══════════════════════════════════════════════════════════════════════
+                           CATEGORY CONTENTS                           
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category IV — Experiment & Testing Dossier.
+AFD-IH-721 is a 10 cm cubic block that enforces "Absolute Descriptive
+Honesty": any sentient subject who visually perceives it becomes incapable of
+denying or lying about its physical properties.
+
+All trials are conducted under the Info-Hazard Desk's visual-denial protocol.
+The object remains shrouded when not in testing, and this file relies on
+Narrative Seal Varnish (Item 08) so that describing the hazard does not spread
+it.
+
+INCLUDED LOG TYPES:
+   - Visual-Exposure Protocol and Constraint Trial
+   - The One-Million-Dollar Misdescription Trial
+   - Descriptive-Limit Mapping
+   - Post-Exposure Persistence Review
+   - Training-Tool Feasibility Study
+   - Closing Testing Statement
+
+CATEGORY PURPOSE:
+To map the exact boundaries of the enforced-veracity effect, confirm its
+persistence, and assess whether controlled exposure can calibrate personnel
+against hostile deceptions in the 715-Series.
+
+═══════════════════════════════════════════════════════════════════════
+      SECTION 001 — VISUAL-EXPOSURE PROTOCOL AND CONSTRAINT TRIAL      
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-IH-721/EXP-001
+DATE:                1994-03-15 (verification) — ongoing
+LOCATION:            ACT-SITE-03-JP-E — Kurokawa Archive Node
+TEST SUPERVISOR:     Archivist Nora Ashfield / Info-Hazard Desk
+STATUS:              Effect confirmed
+
+TRIAL SUMMARY:
+
+Subjects who visually perceive the object become incapable of denying or lying
+about its physical properties. Any attempt to provide a false description
+results in an immediate vocal and cognitive block. The mind is "filled" with
+the correct parameters of the object — 10 cm, yellow, smooth, cubic —
+overriding the ability to deceive others or oneself regarding its appearance.
+
+OBSERVED CONSTRAINTS:
+
+   - Trigger: line-of-sight perception of the object
+   - Block: vocal and cognitive, immediate on attempted falsehood
+   - Content: physical properties only (look, material, shape)
+   - No physical danger observed in any trial
+
+═══════════════════════════════════════════════════════════════════════
+       SECTION 002 — THE ONE-MILLION-DOLLAR MISDESCRIPTION TRIAL       
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-IH-721/EXP-002
+DATE:                On file
+LOCATION:            ACT-SITE-03-JP-E — controlled chamber
+TEST SUPERVISOR:     Info-Hazard Desk
+STATUS:              Recorded — canonical demonstration
+
+TRIAL SUMMARY:
+
+A subject was offered $1,000,000 to state that the block was "Green." The
+offer was declined by the subject's own body first: the attempt produced a
+localized throat-seizure that continued until the subject recanted and stated
+the block was "Yellow."
+
+INTERPRETATION: The enforced-veracity constraint outranks financial incentive,
+personal interest, and the subject's own will. It is not a social compulsion;
+it is a hardware limit on the reporting of a specific data-set.
+
+═══════════════════════════════════════════════════════════════════════
+                SECTION 003 — DESCRIPTIVE-LIMIT MAPPING                
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-IH-721/EXP-003
+DATE:                Multiple sessions
+LOCATION:            ACT-SITE-03-JP-E — controlled chamber
+TEST SUPERVISOR:     Info-Hazard Desk
+STATUS:              Boundaries mapped
+
+MAPPING RECORD:
+
+   - Claiming the block is blue: blocked
+   - Claiming the block is larger than 10 cm: blocked
+   - Claiming the block is made of wood: blocked
+   - Claiming the block is yellow, 10 cm, smooth, and resin-like: permitted
+     (because it is true)
+
+INTERPRETATION: The effect is specific to the object's physical data-set. It
+does not enforce honesty about unrelated matters, and it does not compel the
+subject to volunteer the truth unprompted. It only makes the truth the only
+available description.
+
+═══════════════════════════════════════════════════════════════════════
+            SECTION 004 — POST-EXPOSURE PERSISTENCE REVIEW             
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-IH-721/EXP-004
+DATE:                Standing review
+LOCATION:            ACT-SITE-03-JP-E — follow-up assessments
+TEST SUPERVISOR:     Info-Hazard Desk
+STATUS:              Persistence confirmed — indefinite
+
+REVIEW SUMMARY:
+
+The effect is persistent following a single visual exposure. The correct
+description remains active in the viewer's mind indefinitely, giving the
+hazard an effective range of "line-of-sight to trigger, infinite after
+exposure."
+
+OPERATIONAL CONSEQUENCE:
+
+   - Unfiltered observation restricted to authorized personnel only
+   - Movement performed by tactile-only methods or with Chrono-Stuttered
+     Visors (Item 09) to avoid direct imprinting
+   - Any visual breach is debriefed so the "Undeniable Truth" does not
+     interfere with unrelated A.C.T secrecy protocols
+
+═══════════════════════════════════════════════════════════════════════
+             SECTION 005 — TRAINING-TOOL FEASIBILITY STUDY             
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-IH-721/EXP-005
+DATE:                Open investigation
+LOCATION:            ACT-SITE-03-JP-E / Recruit Training Coordination
+TEST SUPERVISOR:     Info-Hazard Desk
+STATUS:              Under evaluation
+
+STUDY SUMMARY:
+
+AFD-IH-721 represents a "Pure Information Anomaly." It does not manipulate
+reality; it manipulates the reporting of reality. Researchers are
+investigating whether controlled exposure can be transformed into a training
+tool for new recruits — by calibrating their resilience against the more
+hostile deceptions of the 715-Series through contact with a controlled,
+"Undeniable" truth.
+
+RESERVATION ON FILE: The same property that makes the cube useful — its
+permanence — is the property that makes it dangerous to teach with. A recruit
+who cannot be deceived about the cube has not learned discernment; they have
+learned one fact very hard.
+
+═══════════════════════════════════════════════════════════════════════
+                SECTION 006 — CLOSING TESTING STATEMENT                
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-IH-721/EXP-CLS-001
+DATE:                2026-09-08
+LOCATION:            Info-Hazard Desk
+AUTHOR:              Archiver Division
+STATUS:              Standing
+
+Testing has established the cube's single rule and its single mercy: it cannot
+be lied about, and it cannot be lied with. The effect is permanent, so every
+exposure is an enrollment. A.C.T's testing discipline is therefore the same as
+its containment discipline — show the cube only to those who can be trusted to
+carry its truth without wanting to use it.
+
+END OF FILE

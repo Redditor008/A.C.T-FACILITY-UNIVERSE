@@ -18,13 +18,13 @@ At its core, A.C.T is a scientific organization. Although it employs containment
 ## 6. Secrecy
 The **A.C.T Facility** operates in secrecy, hidden behind layers of misinformation, compartmentalization, and covert infrastructure. Officially, it does not exist in the public sphere. Unofficially, it is known only to a limited percentage of governments, intelligence branches, and select scientific authorities, many of whom are only partially informed of its true scale or operations. The Facility maintains the illusion of a normal world by suppressing evidence, controlling narratives, eliminating public awareness of anomalous incidents, and restricting knowledge to those deemed necessary. Secrecy is not merely policy—it is a structural necessity. In the eyes of A.C.T, humanity’s ignorance of the anomalous is one of the foundations that keeps civilization intact.
 
-## 6.5 Site Network
+## 7. Site Network
 A.C.T does not exist only as one buried core installation. In modern doctrine, the Facility operates through a wider network of recognized **SITES** and **SUB-SITES**, each assigned to specific regional, recovery, secrecy, containment, archive, or research functions. Detailed installation logic is preserved separately in Site Doctrine, Site Registry, and Jurisdiction records.
 
-## 7. Gray Morality
+## 8. Gray Morality
 A.C.T is neither purely benevolent nor openly tyrannical. It is a **gray organization**, one defined by necessity, pragmatism, and morally ambiguous choices. The Facility exists to protect humanity and preserve reality, but it does so through methods that often violate conventional ethics. It may conceal truth, authorize human experimentation, sacrifice lives, weaponize dangerous anomalies, or erase entire incidents from public memory if leadership determines such actions are necessary for the greater good. To A.C.T, morality is secondary to survival. The preservation of reality outweighs individual innocence, public transparency, and idealistic restraint.
 
-## 8. Motto
+## 9. Motto
 ### **“To A.C.T is to maintain the normalcy and the stability of Earth and its populace.”**
 
 This motto serves as the guiding philosophy of the Facility and summarizes the burden of its existence. Within A.C.T doctrine, to **A.C.T** means more than to act—it means to take deliberate, necessary action in defense of the world’s natural order, regardless of cost. “Normalcy” refers to the continued illusion of an ordinary world, one in which humanity remains unaware of the anomalies, distortions, and hidden threats that exist beyond common understanding. “Stability” refers both to public safety and to the deeper integrity of reality itself, which the Facility believes must be constantly protected from disruption.

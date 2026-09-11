@@ -1,0 +1,391 @@
+# A.C.T FACILITY ARCHIVE FILE
+## Floor Dossier — F-2, Processing and Staging Level
+## ACT-SUB-01-US-W — Glass Orchard Relay
+## Western United States
+
+**Archive Status:** Active
+**Distribution:** Internal / Command / Security / Medical / Archive / Recovery
+**Authority:** Central Archive / Site Governance Review / Administration
+**File Class:** Floor Dossier — Individual Level Record
+**Dossier Number:** FLOOR-DOSSIER-SUB-01-US-W-F-2
+**Compiled By:** Central Archive, Site Records Office
+**Compilation Standard:** ACT Site Registry File Standard / ACT Floor Record Standard
+
+---
+
+## Archive Note
+
+This file is the complete individual record of **F-2, the Processing and
+Staging Level**, the second-deepest numbered floor of **ACT-SUB-01-US-W,
+the Glass Orchard Relay**.
+
+F-2 is the relay's operational heart. Most of the Glass Orchard Relay's
+work occurs on this level: witness processing suites, intake staging,
+temporary holding cells for low-threat anomalies, and the archive relay
+buffering area. It is the level where the relay does what it exists to do —
+process the witnesses, stage the recoveries, and buffer the records that
+keep the parent site from being overwhelmed.
+
+This dossier records the floor in full institutional language: what it is,
+what it does, how it is built, how it is run, and how the relay's daily
+purpose is concentrated on a single buried level.
+
+---
+
+## 1. Floor Registry Identity Summary
+
+**Site Designation:** ACT-SUB-01-US-W
+**Site Codename:** Glass Orchard Relay
+**Parent Command:** ACT-SITE-01-US-W — Redwood Veil Complex
+**Floor Designation:** F-2
+**Floor Name:** Processing and Staging Level
+**Floor Type:** Operational Processing and Staging Level
+**Vertical Position:** Second-deepest numbered floor of the relay's buried
+component
+**Floor Above:** F-3 (Surface Cover Level)
+**Floor Below:** F-1 (Short-Term Holding Vault)
+**Containment Character:** Witness processing, intake staging, and temporary
+holding infrastructure
+**Primary Function:** Witness processing suites, intake staging, temporary
+holding cells for low-threat anomalies, and archive relay buffering
+**Access Posture:** Controlled operational access
+**Current Status:** Active
+**Doctrine Note:** The level where most of the relay's work occurs
+
+---
+
+## 2. Dossier Purpose
+
+The Glass Orchard Relay is a staging installation, and staging is activity.
+Material and people arrive at the relay from field operations; they must be
+received, processed, held briefly, and moved on — and that activity happens
+on F-2.
+
+F-2 is the relay's operational heart: the level where witnesses are
+processed, recovered anomalies are staged, low-threat material is held in
+temporary cells, and archive material is buffered for transfer to the
+parent site. The floor is the relay's working level — the place where the
+western apparatus's overflow is absorbed and redirected.
+
+---
+
+## 3. Position in the Site Stack
+
+### 3.1 Vertical Position
+
+F-2 lies between the Surface Cover Level of F-3 above and the Short-Term
+Holding Vault of F-1 below. It is the relay's operational level, positioned
+directly beneath the cover campus through which everything arrives.
+
+### 3.2 Relationship to F-3
+
+Material and people entering the relay from the surface pass through the
+cover level above and descend to F-2 for processing. The floor is the
+relay's first operational destination.
+
+### 3.3 Relationship to F-1
+
+Material requiring temporary holding descends from F-2 to the Short-Term
+Holding Vault below; material ready for transfer moves up through F-2 on
+its way out of the relay. F-2 is the floor that decides which material
+needs the vault and which is ready to move.
+
+---
+
+## 4. Historical Foundation
+
+### 4.1 Development of the Processing Floor
+
+F-2's character developed from the relay's origins as a covert witness
+routing point: as the relay's function expanded to include intake staging
+and archive buffering, its operational activity consolidated on a single
+buried level beneath the cover campus.
+
+### 4.2 The Witness Processing Tradition
+
+The floor's witness processing suites carry the relay's oldest tradition:
+the relay began as a place where witnesses could be brought, processed, and
+either sanitized or assimilated without ever approaching the deeper
+installations. F-2 continues that work today.
+
+### 4.3 Modern Configuration
+
+In its modern configuration, F-2 is the relay's operational heart: witness
+processing, intake staging, temporary holding, and archive buffering
+concentrated on one level.
+
+---
+
+## 5. Command and Authority
+
+### 5.1 Floor Command
+
+F-2 operates under the relay's Sub-Site Chief, administered day-to-day by
+a **Processing Chief**. The Chief administers the floor's processing,
+staging, and buffering operations.
+
+### 5.2 Authority over Processing
+
+The Processing Chief holds authority over the floor's operational
+functions: witness processing schedules, intake staging, and archive
+buffering under the relay's doctrine. Authority over temporary holding is
+shared with the Holding Officer of F-1.
+
+### 5.3 Authority Limits
+
+F-2 holds no authority over witness disposition beyond the relay's
+processing doctrine, no authority over high-threat material beyond
+emergency handling, and no authority to archive material permanently. Its
+role is processing and staging — the movement of material and people
+through the relay.
+
+---
+
+## 6. Divisional Presence
+
+### 6.1 Security Staff
+
+Security personnel operate F-2's processing and staging functions: intake
+control, witness processing support, and the enforcement of the floor's
+handling rules.
+
+### 6.2 Medical Staff
+
+The relay's medical staff are central to F-2's witness work: assessment,
+care, and — where required — the amnestic administration that witness
+sanitation demands.
+
+### 6.3 Archive Staff (Limited)
+
+The relay's limited archive function operates the floor's buffering area:
+documents staged for transfer to the parent site's archive, held under
+chain-of-custody until the scheduled transfer.
+
+### 6.4 Recovery Support Staff
+
+Recovery support personnel coordinate with F-2 on intake staging: recovered
+material arriving from field operations is received, logged, and staged on
+the floor before moving to F-1 or onward.
+
+---
+
+## 7. Physical Plant and Architecture
+
+### 7.1 Layout
+
+F-2's plan is organized around the relay's operational functions:
+- the witness processing suites;
+- the intake staging area;
+- the temporary holding cells for low-threat anomalies;
+- the archive relay buffering area;
+- the floor command post and support services.
+
+### 7.2 The Witness Processing Suites
+
+The floor's witness processing suites are where the relay's oldest function
+is performed: witnesses of anomalous events are received, assessed, and
+processed under the Facility's witness doctrine. The suites are designed
+for the full arc of witness handling — assessment, narrative insertion, and
+where required, amnestic administration — conducted by personnel who ensure
+that witnesses who enter the relay need never learn that a larger
+installation exists.
+
+### 7.3 The Intake Staging Area
+
+The floor's staging area receives recovered material from field
+operations: material is logged, assessed against the relay's holding
+limits, and routed — to the temporary holding cells, to the vault below,
+or directly to transfer preparation.
+
+### 7.4 The Temporary Holding Cells
+
+The floor's temporary holding cells hold low-threat anomalies for the
+short period between intake and transfer: monitored cells sized for the
+relay's transient population, governed by the same time limits as the
+vault below.
+
+### 7.5 The Archive Buffering Area
+
+The floor's buffering area holds documents in transit: records staged at
+the relay until the scheduled batch transfer to the parent site's archive.
+Nothing of permanent value accumulates here — the buffer is a staging area,
+not a repository.
+
+---
+
+## 8. Systems and Infrastructure
+
+### 8.1 Power
+
+F-2 draws on the relay's main supply with standard emergency backup.
+
+### 8.2 Environment
+
+The floor's environmental systems maintain operational conditions across
+the processing suites, staging areas, and cells, with individual
+adjustment available for holding cells whose occupants require it.
+
+### 8.3 Monitoring
+
+Monitoring on F-2 is continuous across the processing, staging, and holding
+spaces, documenting the movement of every person and item through the
+floor.
+
+### 8.4 Communication
+
+The floor maintains communication with the cover level above, the vault
+below, and the parent site's coordination. Documentation is exact, because
+the floor's population turns over constantly and its records must carry
+the history that personnel rotation cannot.
+
+---
+
+## 9. Security and Containment Architecture
+
+### 9.1 Access Control
+
+Access to F-2 is controlled through the floor's access core, which connects
+the cover level above to the vault below. The floor's processing and
+staging spaces are governed by the handling rules of the material and
+people being processed.
+
+### 9.2 Witness Processing Security
+
+Witness processing is governed by the relay's witness doctrine: witnesses
+are handled under controlled conditions, their processing is documented,
+and their separation from the relay's other functions is maintained. The
+relay's isolation from the parent core makes it an ideal location for
+witness work.
+
+### 9.3 Staging Discipline
+
+The floor's staging operations follow the relay's staging doctrine: every
+item is logged, assessed against the relay's limits, and routed under
+documentation. Nothing moves through the floor without its record.
+
+### 9.4 Escalation Handling
+
+The floor's escalation handling follows the relay's doctrine: any material
+that demonstrates higher threat or instability is transferred to the parent
+site immediately, under maximum procedural restriction, and any person
+whose processing exceeds the relay's capacity is moved to the parent site's
+facilities.
+
+---
+
+## 10. Holdings and Filing Doctrine
+
+### 10.1 Rolling Manifest
+
+F-2 does not maintain permanent holdings. Its manifest is a rolling record
+of transients: witnesses in processing, staged material, temporary cell
+occupants, and buffered documents. The floor's documentation is tied to the
+movement of its population.
+
+### 10.2 Population Character
+
+The floor's population at any time may include:
+- witnesses undergoing processing;
+- low-threat anomalies held in the temporary cells;
+- recovered material staged for routing;
+- documents buffered for archive transfer.
+
+### 10.3 Holding Note
+
+The floor's temporary cells hold only low-threat material within the
+relay's holding window. High-threat anomalies are never staged on F-2
+beyond emergency transit handling under the parent site's authority.
+
+---
+
+## 11. Personnel and Duty Life
+
+### 11.1 Staffing
+
+F-2 is the relay's most heavily staffed level. Its personnel include the
+processing, security, medical, archive, and recovery support staff who
+operate the relay's daily work.
+
+### 11.2 Duty Life
+
+Duty on F-2 is processing work: receiving witnesses, staging material,
+monitoring cells, and buffering documents. The floor's rhythm is set by
+the relay's flow — the arrivals from field operations and the transfers to
+the parent site that define the relay's purpose.
+
+### 11.3 The Processing Discipline
+
+The floor's personnel work under the relay's processing discipline: exact
+handling, exact documentation, and the quiet professionalism of people who
+process the overflow of a larger apparatus. Personnel on F-2 learn to move
+people and material through the relay without disruption and without
+delay.
+
+---
+
+## 12. Floor Doctrine
+
+### 12.1 Processing Doctrine
+
+F-2 doctrine holds that the relay's purpose is processing: the floor
+receives what the parent site cannot absorb and moves it on, under
+documentation and control.
+
+### 12.2 Witness Doctrine
+
+F-2 doctrine holds that witnesses who enter the relay need never learn that
+a larger installation exists: the floor's processing suites conduct the
+Facility's witness work in isolation from the parent core, under the full
+witness doctrine.
+
+### 12.3 Transience Doctrine
+
+F-2 doctrine holds that nothing on the floor is permanent: staged material,
+buffered documents, and temporary cell occupants are all in transit, and
+the floor's success is measured in material moved on.
+
+---
+
+## 13. Incident Archive
+
+The floor's incident record is dominated by processing and staging events:
+witness handling incidents, staging overflow, and buffering coordination
+issues. Material that exceeds the relay's capacity or its authority is
+recorded and transferred, and the floor's history is largely the history
+of successful redirection.
+
+---
+
+## 14. Current Status and Projected Development
+
+F-2 is **Active** and operating within its designed capacity. Projected
+priorities include:
+- continued processing support for the parent site's recovery overflow;
+- refinement of witness processing doctrine;
+- coordination with the parent site's archive on buffering schedules.
+
+---
+
+## 15. Cross-Referenced Files
+
+- `ACT-SUB-01-US-W — Glass Orchard Relay` Sub-Site Dossier
+- `ACT-SUB-01-US-W — F-1 Short-Term Holding Vault` Floor Dossier
+- `ACT-SUB-01-US-W — F-3 Surface Cover Level` Floor Dossier
+- `ACT-SITE-01-US-W — Redwood Veil Complex` Site Dossier
+- `ACT_Global_Site_Registry.md` / `.txt`
+- `ACT_Site_Doctrine_and_Installation_Structure.md` / `.txt`
+- Parent command Annex Register (clearance-gated)
+
+---
+
+## Archive Closing
+
+F-2, the Processing and Staging Level, is the operational heart of the
+Glass Orchard Relay: the buried level where witnesses are processed,
+recoveries are staged, low-threat material is held in temporary cells, and
+archive records are buffered for the parent site.
+
+It is the floor where the relay does its daily work — the quiet, exact
+labor of absorbing the western apparatus's overflow and moving it on,
+conducted beneath a cover campus of greenhouses where the world above sees
+only agricultural research.

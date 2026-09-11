@@ -1,5 +1,14 @@
-A.C.T Facility — Modern Anomaly File
-AFD-CH-000 — ITHYOS, THE WORLD-SLEEPER
+A.C.T FACILITY ARCHIVE FILE
+Modern Standard Record — AFD-CH-000 / ITHYOS
+
+Archive Status: Active / O5-Restricted
+Distribution: Restricted
+Authority: Classification Archive
+
+Archive Note
+This file is the complete internal archive version of the modern standardized anomaly record for ITHYOS. It preserves the current doctrinal status, classification logic, and containment framing of AFD-CH-000 in full.
+
+---
 
 ═══════════════════════════════════════════════════════════════════════
                     A.C.T FACILITY — ANOMALY FILE
@@ -58,9 +67,8 @@ NARRATIVE STATUS:    Controlled / Buried / Myth-fractured
 ═══════════════════════════════════════════════════════════════════════
 
 AFD-CH-000, designated ITHYOS, THE WORLD-SLEEPER, is a planetary-scale
-serpentiform entity measured up to 10 kilometers in length, with total
-length believed to be 10 kilometers or more. The anomaly is believed to remain
-dormant within the Earth’s core region,
+serpentiform entity estimated at approximately 10 kilometers in length.
+The anomaly is believed to remain dormant within the Earth’s core region,
 though total body confirmation is incomplete due to extreme inaccessibility,
 structural interference, and abyss-level observation limits.
 
@@ -128,10 +136,7 @@ observation systems.
 No written transcription recovered from exposed victims may circulate
 without sealed archive review.
 
-CONTAINMENT SITE:        Primary Facility / ABYSS Floor / Final Contact Vault
-SITE TYPE:               Primary Facility / Abyssal Terminal Stratum
-JURISDICTIONAL
-AUTHORITY:               O5 Council / Primary Facility Command
+CONTAINMENT SITE:        ABYSS Floor / Final Contact Vault
 CONTAINING DIVISION:     Containment Division / O5 Oversight
 REQUIRED PERSONNEL:      O5-cleared containment operators, abyss
                          medical isolation staff, sealed observation
@@ -260,6 +265,7 @@ containment condition.
 
 Cross-reference:
 - First Vault Document — ENTITY-000
+- Unfiled Intake Record — UFD-CH-000
 - ABYSS Floor access doctrine
 - Serpent-class biological suppression observations
 - World End Scenario threshold review
@@ -276,8 +282,9 @@ FILE AUTHOR:             [ SEALED ]
 REVIEWED BY:             O5 Council
 FILE STATUS:             O5-Restricted
 
-DESIGNATION HISTORY:     ENTITY-000 → AFD-CH-000
-                         Raw vault archive converted into modern A.C.T
+DESIGNATION HISTORY:     ENTITY-000 → UFD-CH-000 → AFD-CH-000
+                         Raw vault archive converted into an unfiled
+                         intake record and then into modern A.C.T
                          anomaly doctrine record after formalization of
                          classification standards.
 

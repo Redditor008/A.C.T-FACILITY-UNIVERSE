@@ -1,0 +1,384 @@
+# A.C.T FACILITY ARCHIVE FILE
+## Floor Dossier — F-3, Surface Cover Level
+## ACT-SUB-05-ID-C — Ash Tide Watchpoint
+## Central Indonesia
+
+**Archive Status:** Active
+**Distribution:** Internal / Command / Security / Administration
+**Authority:** Central Archive / Site Governance Review / Administration
+**File Class:** Floor Dossier — Individual Level Record
+**Dossier Number:** FLOOR-DOSSIER-SUB-05-ID-C-F-3
+**Compiled By:** Central Archive, Site Records Office
+**Compilation Standard:** ACT Site Registry File Standard / ACT Floor Record Standard
+
+---
+
+## Archive Note
+
+This file is the complete individual record of **F-3, the Surface Cover
+Level**, the surface-adjacent floor of **ACT-SUB-05-ID-C, the Ash Tide
+Watchpoint**.
+
+F-3 is the legitimate coastal research station that forms the watchpoint's
+cover: observation decks, monitoring equipment, administrative spaces, and
+the small dock used for legitimate research vessel operations. In the
+archipelago, coastal research stations are ordinary features — and a small
+station conducting oceanographic, volcanic, and wildlife observation raises
+no questions. Beneath the station, the watchpoint's operational levels do
+the work the cover exists to conceal.
+
+This dossier records the floor in full institutional language: what it is,
+how it conceals, how it is built, and how the watchpoint's natural cover
+serves an installation whose purpose is watching what the region would
+rather not see.
+
+---
+
+## 1. Floor Registry Identity Summary
+
+**Site Designation:** ACT-SUB-05-ID-C
+**Site Codename:** Ash Tide Watchpoint
+**Parent Command:** ACT-SITE-05-ID-C — Nusantara Deep Relay
+**Floor Designation:** F-3
+**Floor Name:** Surface Cover Level
+**Floor Type:** Surface Cover and Transition Level
+**Vertical Position:** Surface-adjacent floor of the watchpoint's buried
+component
+**Floor Above:** None numbered — the legitimate coastal research station
+surface structures
+**Floor Below:** F-2 (Operations and Watch Level)
+**Containment Character:** Non-resident surface cover and research
+infrastructure
+**Primary Function:** Observation decks, monitoring equipment,
+administrative spaces, and the small dock used for legitimate research
+vessel operations; transition point for the watchpoint's operational
+traffic
+**Distinctive Feature:** Natural cover — the coastal research station
+identity is ordinary in the archipelago
+**Access Posture:** Semi-public access under cover doctrine
+**Current Status:** Active
+
+---
+
+## 2. Dossier Purpose
+
+The Ash Tide Watchpoint watches the coastal corridors of the Nusantara Deep
+Relay's jurisdiction — a watch that must never be visible. But an occupied
+station on the coast requires a reason to exist that the region accepts
+without question.
+
+F-3 provides that reason. It is the legitimate coastal research and
+monitoring station that forms the watchpoint's cover: observation decks,
+monitoring equipment, administrative spaces, and a small dock serving
+legitimate research vessel operations. The cover is natural for the region
+— coastal research stations conducting oceanographic, volcanic, and
+wildlife observation are ordinary features of the archipelago, and the
+watchpoint's instruments are the same instruments a genuine research
+station would require.
+
+---
+
+## 3. Position in the Site Stack
+
+### 3.1 Vertical Position
+
+F-3 is the uppermost floor of the watchpoint's buried component, sitting
+directly below the legitimate surface structures and above the Operations
+and Watch Level of F-2. It is the watchpoint's boundary with the ordinary
+world.
+
+### 3.2 Relationship to the Surface
+
+The level's observation decks, monitoring equipment, and dock present the
+watchpoint to the region as a working coastal research station, conducting
+genuine oceanographic, volcanic, and wildlife observation in the open.
+
+### 3.3 Relationship to F-2
+
+Personnel and operational traffic that must pass between the surface and
+the watchpoint's operational levels descend through F-3 into F-2, under the
+transition control that the cover requires. F-3 is the physical boundary;
+the watch floor below is the operational boundary.
+
+---
+
+## 4. Historical Foundation
+
+### 4.1 Development of the Cover Station
+
+F-3's character developed as the watchpoint's role expanded: elevated from
+a relay watchpoint to a permanently staffed sub-site, the watchpoint
+required a legitimate surface identity, and the coastal research station
+was chosen for its naturalness — such stations are ordinary throughout the
+archipelago.
+
+### 4.2 The Natural Instrument Doctrine
+
+The watchpoint's cover was built around a fortunate truth: a coastal
+research station's legitimate instruments — oceanographic, volcanic, and
+wildlife monitoring equipment — are the same instruments the watchpoint's
+concealed watch requires. The cover and the mission share their hardware.
+
+### 4.3 Modern Configuration
+
+In its modern configuration, F-3 is the watchpoint's legitimate face: a
+coastal research station whose genuine observation work conceals the watch
+operations below.
+
+---
+
+## 5. Command and Authority
+
+### 5.1 Station Command
+
+F-3 operates under the watchpoint's Watch Chief, administered day-to-day
+by a **Station Manager** responsible for the legitimate station's
+operations.
+
+### 5.2 Authority over the Cover
+
+The Station Manager holds authority over the level's legitimate functions:
+the research station's observation program, administration, and the public
+face of the cover identity.
+
+### 5.3 Authority Limits
+
+F-3 holds no authority over the watchpoint's operational functions. Its
+authority is over the legitimate station — and its most important duty is
+the maintenance of the boundary between the station's visible observation
+and the buried watchpoint's concealed watch.
+
+---
+
+## 6. Divisional Presence
+
+### 6.1 Legitimate Station Staff
+
+The station's legitimate staff conduct the ordinary observation work that
+maintains the cover: oceanographic, volcanic, and wildlife monitoring
+pursued openly and professionally.
+
+### 6.2 Security Staff (Boundary)
+
+Security personnel operate the level's boundary functions: the control
+architecture through which operational traffic passes between the surface
+and the buried watchpoint, concealed within the station's ordinary
+operations.
+
+### 6.3 Administrative Staff
+
+Administrative personnel operate the level's public functions,
+maintaining the legitimate paperwork and operations of the research
+station.
+
+---
+
+## 7. Physical Plant and Architecture
+
+### 7.1 Layout
+
+F-3's surface structures comprise the legitimate coastal research station:
+- the observation decks;
+- the monitoring equipment and instrument housing;
+- the administrative spaces;
+- the small dock for legitimate research vessel operations;
+- the station's concealed transition architecture connecting to the buried
+  levels below.
+
+### 7.2 The Observation Decks
+
+The station's observation decks conduct the legitimate observation work of
+the cover: coastal, marine, and wildlife monitoring pursued in the open —
+and the same vantage points that give the watchpoint's concealed watch its
+view of the corridors below.
+
+### 7.3 The Monitoring Equipment
+
+The station's instrument housing presents the watchpoint's hardware as
+legitimate research equipment: oceanographic and volcanic monitoring
+instruments, openly maintained and professionally operated, serving both
+the cover's science and the watchpoint's concealed watch.
+
+### 7.4 The Concealed Transition Architecture
+
+The level's buried component is its transition architecture: the concealed
+control points through which operational traffic passes from the station
+into the watchpoint's buried levels. The architecture is designed to be
+indistinguishable from ordinary station infrastructure.
+
+---
+
+## 8. Systems and Infrastructure
+
+### 8.1 Power
+
+F-3 draws on the station's legitimate power infrastructure, with the buried
+watchpoint protected by the installation's backup systems.
+
+### 8.2 Environment
+
+The level's structures are engineered for the tropical coastal
+environment: climate control, weather and salt protection, and the
+ordinary systems of a working research station on the water.
+
+### 8.3 Monitoring
+
+Monitoring on F-3 is boundary-oriented: station traffic, vessel movement,
+and the concealed transition points are monitored under the watchpoint's
+security doctrine, with the monitoring architecture concealed within the
+station's ordinary systems.
+
+### 8.4 Communication
+
+The station maintains its legitimate communications — the professional
+operations of the research station — alongside the watchpoint's secure
+internal networks.
+
+---
+
+## 9. Security and Boundary Architecture
+
+### 9.1 Natural Cover Doctrine
+
+F-3's defining security function is its cover: the legitimate research
+station's ordinary presence presents the watchpoint to the region as an
+unremarkable coastal observation post. The cover is natural and durable —
+coastal research stations are ordinary throughout the archipelago.
+
+### 9.2 Shared-Instrument Doctrine
+
+The level's cover is reinforced by the identity of its instruments: the
+observation decks and monitoring equipment serve both the legitimate
+science and the concealed watch, and the station's genuine observation
+work gives the watchpoint's hardware an honest public purpose.
+
+### 9.3 Concealed Transition Doctrine
+
+The passage between the surface station and the buried watchpoint is
+governed by the watchpoint's access doctrine, and the routes are designed
+to be indistinguishable from ordinary station logistics.
+
+### 9.4 Incident Response
+
+F-3 maintains incident response for cover events: cover incidents,
+boundary incidents, and attempts to penetrate the transition architecture
+are met with the watchpoint's response doctrine, with the buried component
+sealed behind the level if the surface boundary is threatened. The level's
+procedures also include the watchpoint's silent withdrawal capacity for
+large-scale tectonic shifts.
+
+---
+
+## 10. Function and Character
+
+### 10.1 Cover Function
+
+F-3 is the watchpoint's legitimate face: the coastal research station whose
+genuine oceanographic, volcanic, and wildlife observation conceals the
+watch operations below.
+
+### 10.2 Transition Function
+
+F-3 is the watchpoint's surface gateway: the level through which
+operational traffic passes between the coast and the buried watchpoint.
+
+### 10.3 Holding Character
+
+F-3 holds no anomalous material. Its operations are the legitimate
+station's observation and administrative functions; operational traffic
+passes through the level only in transit, under the cover's protection.
+
+---
+
+## 11. Personnel and Duty Life
+
+### 11.1 Staffing
+
+F-3's population comprises the legitimate station's personnel:
+oceanographic and volcanic observers, wildlife monitors, administrators,
+and the boundary security staff who control the concealed transition.
+
+### 11.2 Duty Life
+
+Duty on F-3 is legitimate station work: observation, monitoring,
+administration, and the ordinary operations of a coastal research post.
+The level's personnel perform genuine work in the open — under the
+discipline of personnel who know that their visible station conceals the
+watchpoint below.
+
+### 11.3 Cover Discipline
+
+The level's personnel work under cover discipline: their professional
+conduct and daily observations are part of the watchpoint's concealment.
+The station is genuine, and so is the discipline of those who run it.
+
+---
+
+## 12. Floor Doctrine
+
+### 12.1 Natural Cover Doctrine
+
+F-3 doctrine holds that concealment is strongest when it is ordinary: the
+watchpoint's research-station cover is natural to the archipelago, and the
+level maintains the ordinariness that makes the cover invisible.
+
+### 12.2 Shared-Instrument Doctrine
+
+F-3 doctrine holds that the cover and the mission share their instruments:
+the station's genuine observation equipment serves both the legitimate
+science and the concealed watch, and the station's public work reinforces
+the watchpoint's hidden purpose.
+
+### 12.3 Separation Doctrine
+
+F-3 doctrine holds that the station's visible observation and the
+watchpoint's concealed watch must remain separate: the region sees a
+coastal research post, and the watch continues beneath it, undisturbed and
+unseen.
+
+---
+
+## 13. Incident Archive
+
+The floor's incident record is dominated by cover and transition events:
+cover incidents, boundary incidents, and attempts to penetrate the
+transition architecture. The watchpoint's history records the incidents
+that have tested the surface boundary — and the cover has held.
+
+---
+
+## 14. Current Status and Projected Development
+
+F-3 is **Active** and operating within its designed capacity. Projected
+priorities include:
+- continued operation of the legitimate coastal research station;
+- maintenance of the concealed transition architecture;
+- preservation of the station's cover discipline.
+
+---
+
+## 15. Cross-Referenced Files
+
+- `ACT-SUB-05-ID-C — Ash Tide Watchpoint` Sub-Site Dossier
+- `ACT-SUB-05-ID-C — F-2 Operations and Watch Level` Floor Dossier
+- `ACT-SITE-05-ID-C — Nusantara Deep Relay` Site Dossier
+- `ACT_Global_Site_Registry.md` / `.txt`
+- `ACT_Site_Doctrine_and_Installation_Structure.md` / `.txt`
+- Parent command Annex Register (clearance-gated)
+
+---
+
+## Archive Closing
+
+F-3, the Surface Cover Level, is the legitimate face of the Ash Tide
+Watchpoint: the coastal research station whose observation decks,
+monitoring equipment, and small dock present the watchpoint to the region
+as an ordinary feature of the archipelago — a station watching the ocean,
+the volcanoes, and the wildlife, exactly as such stations do.
+
+It is the floor where the watchpoint meets the world: a surface of genuine
+science on a restless coast, instruments that honestly watch the sea and
+the earth while the buried watch watches for what the sea and the earth
+conceal — and a cover maintained by people whose visible work is true,
+because in the archipelago, the most ordinary station on the water is the
+one no one ever questions.

@@ -189,7 +189,7 @@ DR. THORNE:          "The harness is functional. Tell me, have you
 
 ARGON:               "I’ve spent the last three days crawling through 
                       the 'Dead Data' lists from **Reality G**. Your 
-                      little **[BLANK] SERVER** is a mess, Dr. Thorne. 
+                      little **[ BLANK ] SERVER** is a mess, Dr. Thorne. 
                       It’s like someone took a dictionary and tore out 
                       every fourth page. But I did find a pattern. 
                       There was a recurring mention of a 'Blue Doe' in 

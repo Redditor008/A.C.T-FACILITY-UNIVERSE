@@ -1,0 +1,181 @@
+A.C.T FACILITY — AUDIO / VIDEO / SENSOR DOSSIER
+Nyxara-Celestial-Sensor-Dossier-AFD-CH-703
+
+═══════════════════════════════════════════════════════════════════════
+            A.C.T FACILITY — AUDIO / VIDEO / SENSOR DOSSIER            
+                     Anomaly Containment Transformation
+═══════════════════════════════════════════════════════════════════════
+
+DESIGNATION:         AFD-CH-703
+TITLE I:             Nyxara
+TITLE II:            THE GODDESS OF NIGHT / THE LUNAR CRADLE
+FIELD TYPE:          CH — Cosmic Hazard / World-Scale Entity /
+                     Extraterrestrial Presence
+PRIMARY FILE:        Nyxara-Goddess-of-NIGHT-AFD-CH-703
+DOCUMENT CATEGORY:   CATEGORY XI — Audio / Video / Sensor Dossier
+CATEGORY FUNCTION:   Lunar acoustic capture, orbital visibility-window
+                     protocol runs, Site-03 interference records, and maritime
+                     pulse correlation.
+CLEARANCE REQUIRED:  Level 5 / [ O5-RESTRICTED ]
+CONTAINMENT SITE:    Lunar Surface / Earth Orbital Relay — In-Place Cosmic
+                     Containment
+JURISDICTIONAL AUTHORITY:  Cosmic Hazard Review / Nusantara Deep Relay
+                           (Maritime)
+ARCHIVE STATUS:      Active / Sensor-hold restricted
+DOSSIER STATUS:      Open — sensor chain under continuous record
+
+═══════════════════════════════════════════════════════════════════════
+                           CATEGORY CONTENTS                           
+═══════════════════════════════════════════════════════════════════════
+
+This dossier belongs to A.C.T Log Category XI — Audio / Video / Sensor
+Dossier. It preserves the raw recorded evidence of AFD-CH-703: the capture
+that proved the sleep hum, the protocol runs that hide the 100% visibility
+windows, the Site-03 interference records, and the maritime records that
+correlate the subject's movement to planetary hydrology.
+
+The record is more important than any summary. Timestamps, signal paths, and
+interference logs are preserved exactly as captured.
+
+INCLUDED LOG TYPES:
+   - Lunar Far-Side Acoustic Array — Sleep Hum Capture
+   - Orbital Relay — Visibility-Window Protocol Run
+   - Site-03 Signal Burst — Atmospheric Distortion Override
+   - Nusantara Hydrophone — Hydrological Pulse Correlate
+   - Analyst Notes — What the Record Does and Does Not Show
+
+CATEGORY PURPOSE:
+To preserve the sensor evidence of the subject's sleep, the annual visibility
+protocol, and the tidal-pulse correlation in a form that survives
+reinterpretation.
+
+═══════════════════════════════════════════════════════════════════════
+    SECTION 001 — LUNAR FAR-SIDE ACOUSTIC ARRAY — SLEEP HUM CAPTURE    
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-CH-703/SEN-001
+DATE-TIME:           Continuous capture — reference recording on file
+LOCATION:            Lunar far-side passive acoustic array / Earth-orbital
+                     relay downlink
+RECORDING METHOD:    Seismic-acoustic array, low-frequency band-pass
+ANALYST:             Sensor Analysis Group / Celestial Desk
+STATUS:              Signature confirmed
+
+CAPTURE SUMMARY:
+
+Acoustic sensors on the Moon's surface have recorded a 1,000 km wide "Hum"
+matching the delta-wave sleep pattern of a human woman, slowed by a factor of
+4,000. Array elements spanning the far-side surface recover the tone as a
+standing, sub-audible signal with a periodic deepening consistent with
+biological slow-wave sleep. The signal has never interrupted since first
+capture.
+
+ANALYST NOTE: The hum is not an emission A.C.T can trace to a mouth, a
+machine, or a process. It is the subject's sleep, heard at planetary scale. It
+has never stopped. This is the closest approach to confirmation that the
+subject remains asleep.
+
+═══════════════════════════════════════════════════════════════════════
+     SECTION 002 — ORBITAL RELAY — VISIBILITY-WINDOW PROTOCOL RUN      
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-CH-703/SEN-002
+DATE-TIME:           Annual — last run [ REDACTED ]
+LOCATION:            Earth-orbital relay constellation / ground stations
+RECORDING METHOD:    Telemetry and command log
+AUTHORITY:           Celestial Analysis Desk / Cosmic Hazard Review
+STATUS:              Executed — no public exposure
+
+PROTOCOL RUN SUMMARY:
+
+During each 100% visibility window, the relay constellation applies a
+14-second delay to global satellite feeds crossing the lunar disk. The delay
+window is coordinated so that corrected imagery reaches public networks with
+the anomaly's light signature managed, and high-power civilian telescopes are
+covered by Site-03 (Kurokawa) atmospheric-distortion bursts.
+
+COMMAND SEQUENCE (abridged):
+
+   - Window open — 14-second feed delay engaged across the constellation
+   - Site-03 signal bursts begin for telescopes above aperture threshold
+   - Affected instruments report seeing turbulence ("poor seeing conditions")
+   - Window close — feeds normalized, interference released
+
+ANALYST NOTE: The protocol is exercised on a fixed calendar, but the three
+100% visibility dates are not written into this dossier; they are [ REDACTED ]
+and held at Level 5 and above. If Nyxara achieves 100% visibility outside the
+predicted dates, the standing breach response is to activate Global
+Cloud-Seeding Masking.
+
+═══════════════════════════════════════════════════════════════════════
+ SECTION 003 — SITE-03 SIGNAL BURST — ATMOSPHERIC DISTORTION OVERRIDE  
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-CH-703/SEN-003
+DATE-TIME:           Recorded during annual visibility windows
+LOCATION:            Site-03 (Kurokawa) Archive Node — signal station
+RECORDING METHOD:    Transmitter command and effect telemetry
+AUTHORITY:           Intelligence Division / Cosmic Hazard Review
+STATUS:              Active standing measure
+
+MEASURE SUMMARY:
+
+Localized "Atmospheric Distortion" interference is directed at high-power
+civilian telescope observation points during the 100% visibility windows. The
+effect is registered by affected instruments as seeing turbulence, and is
+reported by amateur and professional networks alike as ordinary "poor seeing
+conditions." No denial is issued; the atmosphere simply misbehaves.
+
+BACKSTOP: Unauthorized astronomers who persist despite the interference are
+handled under Amnestic deployment 004-A. Public light emissions outside the
+suppression frames are narrated as "Lunar Phenomena" or "Camera Artifacts."
+
+═══════════════════════════════════════════════════════════════════════
+   SECTION 004 — NUSANTARA HYDROPHONE — HYDROLOGICAL PULSE CORRELATE   
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-CH-703/SEN-004
+DATE-TIME:           Event-window correlation, ongoing
+LOCATION:            Nusantara Deep Relay — deep hydrophone network
+RECORDING METHOD:    Hydrophone array / pressure and current telemetry
+AUTHORITY:           Nusantara Deep Relay maritime-link operators
+STATUS:              Correlation confirmed
+
+CORRELATION SUMMARY:
+
+Deep hydrophone and pressure records show a global hydrological pulse whose
+onset matches the subject's sleep-shift events. When Nyxara "moves side" or
+shifts her weight, the pulse travels as a coherent pressure wave, reorienting
+current strength before dispersing into ordinary oceanographic noise.
+
+STANDING CREW: 2 maritime-link operators maintain the correlation watch under
+continuous (celestial and tidal) monitoring. Any record of "Hydrological
+Pulsing" consistent with subject movement must have its data intercepted in
+line with the Tidal Narrative doctrine.
+
+ANALYST NOTE: Every occurrence is attributed, when observed by outsiders, to
+standard gravitational mechanics and thermal-saline circulation models. The
+records in this dossier are the only place where the tide has a cause with a
+name.
+
+═══════════════════════════════════════════════════════════════════════
+ SECTION 005 — ANALYST NOTES — WHAT THE RECORD DOES AND DOES NOT SHOW  
+═══════════════════════════════════════════════════════════════════════
+
+LOG ID:              AFD-CH-703/SEN-005
+DATE:                2026-09-08
+LOCATION:            Cosmic Hazard Review
+AUTHOR:              Senior Analyst — Celestial Desk
+STATUS:              Standing
+
+The sensor record proves that something on the far side of the Moon sleeps,
+that its sleep moves the oceans, and that its light can be hidden. It does not
+prove what the subject is, how old she is, or whether "she" is the correct
+frame at all.
+
+The record must not be over-read. A capture is evidence of a signal, not a
+license to build a theology. A.C.T has built enough institutions on evidence
+it later discovered it did not understand. The hum is evidence. The rest is
+containment discipline.
+
+END OF FILE

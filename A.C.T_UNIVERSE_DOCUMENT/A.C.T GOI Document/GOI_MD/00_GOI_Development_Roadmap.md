@@ -74,7 +74,7 @@ A good GOI needs all four of these dimensions:
 Each completed record must use the already-established structure:
 
 ```text
-GOI-##-#-XXX
+GOI-XX-X-XXX
 Nature Class
 Alignment Class
 Reach Class

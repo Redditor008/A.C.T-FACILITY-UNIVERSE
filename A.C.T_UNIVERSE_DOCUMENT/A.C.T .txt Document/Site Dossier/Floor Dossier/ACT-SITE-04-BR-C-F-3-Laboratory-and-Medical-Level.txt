@@ -1,0 +1,376 @@
+A.C.T FACILITY ARCHIVE FILE
+Floor Dossier — F-3, Laboratory and Medical Level
+ACT-SITE-04-BR-C — Verde Null Bio-Reserve
+Central Brazil
+
+Archive Status: Active
+Distribution: Internal / Command / Research / Medical / Containment / Archive
+Authority: Central Archive / Site Governance Review / Administration
+File Class: Floor Dossier — Individual Level Record
+Dossier Number: FLOOR-DOSSIER-04-BR-C-F-3
+Compiled By: Central Archive, Site Records Office
+Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
+
+---
+
+Archive Note
+
+This file is the complete individual record of F-3, the Laboratory and
+Medical Level, the third-deepest numbered level of the built installation
+of ACT-SITE-04-BR-C, Verde Null Bio-Reserve.
+
+F-3 is the reserve's main laboratory and medical level: biological analysis
+laboratories, sample processing, containment research suites, and the
+medical facilities for personnel and anomalous subjects requiring
+built-environment care. The floor is where the reserve's understanding of
+its holdings is built — and where the reserve cares for the living material
+and the living people its work depends on.
+
+This dossier records the floor in full institutional language: what it is,
+what it does, how it is built, how it is run, and how the reserve's science
+and medicine serve its containment mission.
+
+---
+
+1. Floor Registry Identity Summary
+
+Site Designation: ACT-SITE-04-BR-C
+Site Codename: Verde Null Bio-Reserve
+Floor Designation: F-3
+Floor Name: Laboratory and Medical Level
+Floor Type: Laboratory and Medical Level
+Vertical Position: Third-deepest numbered level of the reserve's built
+installation
+Floor Above: F-4 (Personnel and Operations Level)
+Floor Below: F-2 (Interior Biological Holding)
+Containment Character: Controlled laboratory and medical environments
+Primary Function: Biological analysis laboratories, sample processing,
+containment research suites, and medical facilities for personnel and
+anomalous subjects requiring built-environment care
+Access Posture: Clearance-gated research and medical access
+Current Status: Active
+
+---
+
+2. Dossier Purpose
+
+The Verde Null Bio-Reserve is an outdoor facility, but its work is not
+outdoor work alone. Understanding the reserve's holdings requires
+laboratories; caring for its anomalous subjects and its personnel requires
+medicine; and the reserve's cultivation and transformation doctrine requires
+containment research conducted under controlled conditions.
+
+F-3 provides all three. It is the reserve's main laboratory and medical
+level: biological analysis laboratories, sample processing, containment
+research suites, and medical facilities for personnel and anomalous subjects
+requiring built-environment care. The floor is where the reserve's
+knowledge and care are concentrated — beneath a campus whose surface work
+is ecological science in the open.
+
+---
+
+3. Position in the Site Stack
+
+3.1 Vertical Position
+
+F-3 lies between the Personnel and Operations level of F-4 above and the
+Interior Biological Holding of F-2 below. It is the reserve's scientific
+and medical heart, serving both the operational floors above and the
+holding floors below.
+
+3.2 Relationship to F-2
+
+F-3 serves the interior holding floor below: material held on F-2 is
+studied in the laboratories above under controlled conditions, and anomalous
+subjects requiring built-environment medical care are treated in the
+medical facilities on this floor.
+
+3.3 Relationship to the Surface and Enclosure Network
+
+F-3's laboratories serve the reserve's wider work: samples from the
+enclosure sectors and the surface research programs are processed here, and
+the floor's findings inform both the reserve's ecological science and its
+containment doctrine.
+
+---
+
+4. Historical Foundation
+
+4.1 Development of the Laboratory Level
+
+F-3's character developed with the reserve's research mandate: as Verde
+Null's holdings grew, the reserve required a built level for the biological
+analysis, sample processing, and containment research that outdoor work
+alone could not support.
+
+4.2 The Medical Mandate
+
+The floor's medical capacity developed with the recognition that the
+reserve's work involved living material on both sides of containment: the
+anomalous subjects requiring built-environment care and the personnel whose
+work with them demanded medical support.
+
+4.3 Modern Configuration
+
+In its modern configuration, F-3 is the reserve's laboratory and medical
+heart: the level where the reserve studies its holdings, processes its
+samples, and cares for the living beings its work involves.
+
+---
+
+5. Command and Authority
+
+5.1 Floor Command
+
+F-3 operates under the Research Division's laboratory command, with the
+medical facilities administered by the Medical Division. Day-to-day
+operations are coordinated by a Laboratory and Medical Chief appointed
+by the Site Director.
+
+5.2 Authority over Study and Care
+
+The floor's authority covers its laboratory programs and medical
+operations: study is conducted under the reserve's research authorization
+doctrine, and medical care is provided under the Medical Division's
+standards.
+
+5.3 Authority Limits
+
+F-3 holds no authority over resident disposition. Its role is scientific
+and medical: the floor may study, process, and care — it may not decide
+what happens to the material or subjects it serves.
+
+---
+
+6. Divisional Presence
+
+6.1 Research Division
+
+The Research Division operates F-3's laboratory programs: biological
+analysis, sample processing, and containment research under the reserve's
+doctrine.
+
+6.2 Medical Division
+
+The Medical Division operates the floor's medical facilities: care for
+personnel and for anomalous subjects requiring built-environment care.
+
+6.3 Environmental Containment Division Liaison
+
+Environmental Containment personnel coordinate with F-3 on the analysis of
+material from the enclosure sectors, linking the floor's laboratory work
+to the reserve's outdoor operations.
+
+6.4 Security Division
+
+Security guards the floor's access architecture and the laboratory and
+medical spaces, enforcing the access rules that govern the floor.
+
+6.5 Archive Division Liaison
+
+Archive personnel maintain the floor's research and medical documentation
+under the Archive Division's custody.
+
+---
+
+7. Physical Plant and Architecture
+
+7.1 Layout
+
+F-3's plan is organized around laboratory and medical functions:
+- the biological analysis laboratories;
+- the sample processing facilities;
+- the containment research suites;
+- the medical facilities for personnel;
+- the medical facilities for anomalous subjects requiring built-environment
+  care;
+- the data and documentation offices;
+- the floor command post and support services.
+
+7.2 The Biological Analysis Laboratories
+
+The floor's analysis laboratories are engineered for work with biological
+material under controlled conditions: individually regulated environments,
+containment-compatible construction, and observation architecture that
+documents every study.
+
+7.3 The Containment Research Suites
+
+The floor's containment research suites support the reserve's cultivation
+and transformation doctrine: controlled environments where containment
+methods are studied, developed, and refined under the reserve's research
+program.
+
+7.4 The Medical Facilities
+
+The floor's medical facilities serve two populations: reserve personnel
+receiving ordinary and occupational care, and anomalous subjects whose
+condition requires built-environment medical attention. The facilities are
+engineered for both — clinical environments that respect the medical and
+containment requirements of their patients.
+
+---
+
+8. Systems and Infrastructure
+
+8.1 Power
+
+F-3 draws on the reserve's main supply with dedicated conditioning for the
+laboratory and medical equipment.
+
+8.2 Environment
+
+The floor's environmental systems provide the controlled conditions that
+laboratory and medical work requires, with individual regulation per suite
+and atmospheric separation between study and care areas.
+
+8.3 Monitoring
+
+Monitoring on F-3 is continuous across the laboratory and medical spaces,
+documenting studies, patient conditions, and the integrity of the floor's
+controlled environments.
+
+8.4 Data Systems
+
+F-3 maintains the reserve's research and medical data infrastructure:
+study data, sample records, and patient documentation are stored under the
+standards appropriate to their sensitivity.
+
+---
+
+9. Security and Containment Architecture
+
+9.1 Access Control
+
+Access to F-3 is controlled through the floor's access core, with entry
+under research or medical authorization. Laboratory and medical spaces are
+individually gated to the personnel cleared for each function.
+
+9.2 Sample Control
+
+Material drawn from the holding floors and enclosure sectors for study is
+controlled at every step: documented transfer, controlled handling, and
+verified return under the reserve's chain-of-custody standard.
+
+9.3 Medical Containment
+
+The floor's medical care for anomalous subjects is governed by medical
+containment doctrine: subjects are cared for under conditions that respect
+both their medical needs and their containment status, with the balance
+documented and reviewed.
+
+9.4 Incident Response
+
+F-3 maintains incident response for laboratory and medical events:
+biological incidents, exposure events, and medical containment incidents
+are met with the reserve's response doctrine.
+
+---
+
+10. Function and Character
+
+10.1 Laboratory Function
+
+F-3 is the reserve's laboratory level: biological analysis, sample
+processing, and containment research under controlled conditions.
+
+10.2 Medical Function
+
+F-3 is the reserve's medical level: care for personnel and for anomalous
+subjects requiring built-environment care.
+
+10.3 Holding Character
+
+F-3 holds no residents in the holding sense. Its population is material and
+subjects under study or care, and the personnel conducting the floor's
+scientific and medical work.
+
+---
+
+11. Personnel and Duty Life
+
+11.1 Staffing
+
+F-3's personnel are drawn from the Research and Medical Divisions'
+laboratory and clinical staff, supported by Environmental Containment,
+Security, and Archive personnel.
+
+11.2 Duty Life
+
+Duty on F-3 is scientific and medical work: conducting studies, processing
+samples, providing care, and documenting the floor's operations. The
+floor's rhythm is set by the reserve's research program and the medical
+needs of its population.
+
+11.3 The Dual Mandate
+
+The floor's personnel work under a dual mandate: science that serves
+containment, and medicine that serves both the reserve's people and the
+anomalous subjects in its care. The dual mandate is the floor's defining
+culture.
+
+---
+
+12. Floor Doctrine
+
+12.1 Knowledge Doctrine
+
+F-3 doctrine holds that the reserve's containment depends on its
+laboratories: the floor's biological analysis and containment research
+produce the understanding that the reserve's doctrine requires.
+
+12.2 Care Doctrine
+
+F-3 doctrine holds that the reserve's work involves living beings on both
+sides of containment: the floor's medical care serves personnel and
+anomalous subjects alike, under standards that respect the dignity of both.
+
+12.3 Built-Complement Doctrine
+
+F-3 doctrine holds that an outdoor reserve still requires built science:
+the floor's laboratories and medical facilities complement the enclosure
+network, providing the controlled conditions that open-air containment
+cannot.
+
+---
+
+13. Incident Archive
+
+The floor's incident record is dominated by laboratory and medical events:
+biological incidents, exposure events, and medical containment incidents.
+The incidents that shaped the reserve's laboratory and medical doctrine are
+preserved in the reserve's history files.
+
+---
+
+14. Current Status and Projected Development
+
+F-3 is Active and operating within its designed capacity. Projected
+priorities include:
+- continued laboratory support for the reserve's research programs;
+- maintenance of medical facilities for personnel and anomalous subjects;
+- refinement of containment research methodology.
+
+---
+
+15. Cross-Referenced Files
+
+- ACT-SITE-04-BR-C — Verde Null Bio-Reserve Site Dossier (Floor Register)
+- ACT-SITE-04-BR-C — F-2 Interior Biological Holding Floor Dossier
+- ACT-SITE-04-BR-C — F-4 Personnel and Operations Level Floor Dossier
+- ACT_Global_Site_Registry.md / .txt
+- ACT_Site_Doctrine_and_Installation_Structure.md / .txt
+- Verde Null Annex Register (clearance-gated)
+
+---
+
+Archive Closing
+
+F-3, the Laboratory and Medical Level, is the scientific and medical heart
+of the Verde Null Bio-Reserve: the floor where biological material is
+analyzed, samples are processed, containment research is conducted, and
+medical care is provided for personnel and anomalous subjects alike.
+
+It is the floor where the reserve's outdoor work becomes knowledge and
+care — the built level beneath the open canopy where the Facility learns
+what it holds, and tends to the living beings its work depends on.

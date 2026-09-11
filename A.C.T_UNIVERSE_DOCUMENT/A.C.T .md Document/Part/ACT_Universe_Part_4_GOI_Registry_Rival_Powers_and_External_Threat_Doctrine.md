@@ -45,14 +45,14 @@ Not all GOIs are enemies. But all GOIs matter.
 ## 4.2 — GOI Designation Rules
 A.C.T identifies Groups of Interest under a dedicated registry system:
 
-## **GOI-##-#-XXX**
+## **GOI-XX-X-XXX**
 
 This structure separates GOI records from anomaly records and ensures that external anomalous actors are archived under their own institutional logic.
 
 ### 4.2.1 Designation Segment Meaning
-- the first **##** identifies the **Nature Class code**
-- the second **#** identifies the **Alignment Class marker**
-- the **XXX** identifies the numerical registry code
+- the first **XX** is the **Nature Class code**
+- the second **X** is the **Alignment Class marker**
+- the **XXX** is the numerical registry code
 
 This allows A.C.T to understand a GOI’s broad type and relational status at a glance.
 
@@ -311,6 +311,73 @@ The **Anstrall Market** is a black-market anomaly trade structure specializing i
 
 **Role in Doctrine:**  
 The Market is not inherently aligned with the Facility, but it is not always best treated as an enemy. It can be more useful when controlled, tracked, infiltrated, or quietly exploited than when openly destroyed. However, its trade in anomalous materials makes it a constant secrecy hazard and a source of escalation if left unmanaged.
+
+### GOI-CU-X-048
+**Common Name:** Children of the Deep  
+**Short Name:** CoTD
+
+**Nature Class:** Cultic  
+**Alignment Class:** Negative  
+**Reach Class:** Regional  
+**Anomalous Capability:** Practitioner  
+**Threat Level:** 5  
+**Secrecy Risk:** Leaking  
+**A.C.T Posture:** Infiltrate / Contain / Dismantle  
+
+**Known Leadership:** The Sounding Council; individual identities restricted and compartmented
+**Primary Active Region:** Midwestern United States
+
+**Summary:**  
+The **Children of the Deep**, or **CoTD**, is a cultic congregation network gathered around a single apocalyptic objective: the awakening of a separately sealed deep-sea sleeper whose release is believed to return the world to an older, submerged order. Its congregations operate through ritual preparation, coastal and inland recruitment, and the patient accumulation of the means to reach the sleeper; the network's own name for its work is the Inland Tide.
+
+**Role in Doctrine:**  
+CoTD is treated as a severe, patient threat rather than an immediate one. Because its objective is the awakening of a separately contained apocalyptic anomaly, A.C.T posture is infiltration to map the congregations, containment to interrupt ritual and supply activity, and dismantling of awakening preparations that remain interrupted but not ended. The target anomaly is filed separately and kept distinct from the organization record.
+
+---
+
+### GOI-CP-B-049
+**Common Name:** DREAM .INC  
+**Short Name:** DREAM
+
+**Nature Class:** Corporate  
+**Alignment Class:** Business  
+**Reach Class:** National  
+**Anomalous Capability:** Engineering  
+**Threat Level:** 4  
+**Secrecy Risk:** Exposure-Active  
+**A.C.T Posture:** Infiltrate / Contain / Appropriate  
+
+**Known Leadership:** Unresolved corporate executive structure; local directors compartmented
+**Primary Active Region:** National distributed corporate footprint
+
+**Summary:**  
+**DREAM .INC** is a company that possesses a mysterious anomalous machine capable of extracting a substance called Dream Nectar from at least one Dream-Type Anomaly. The company sells the substance as underground medicine, advertising that a consumer's wish will come true in their dream after use. At least twelve open company buildings are confirmed to be operating.
+
+**Role in Doctrine:**  
+DREAM .INC is a corrupt commercial mirror of Transformation: it converts an anomalous source into a saleable product before the risks are understood. A.C.T posture is infiltration to map the building network, containment of the product and the extraction apparatus, and appropriation of what can be safely taken into Facility control. The Dream-Type Anomaly and the machine are filed separately under restricted anomaly records.
+
+---
+
+### GOI-ML-X-050
+**Common Name:** Liberty Freedoms  
+**Short Name:** L.F.
+
+**Nature Class:** Militant  
+**Alignment Class:** Negative  
+**Reach Class:** Transnational  
+**Anomalous Capability:** Handler  
+**Threat Level:** 4  
+**Secrecy Risk:** Exposure-Active  
+**A.C.T Posture:** Contain / Dismantle / Infiltrate  
+
+**Known Leadership:** Assessed rotating council of founding defectors and regional commanders
+**Primary Active Region:** Transnational; defector-trace and route analysis held restricted
+
+**Summary:**  
+**Liberty Freedoms**, or **L.F.**, is a dispersed militant insurgency of assessed defector origin whose stated enemy is A.C.T custody itself. It raids transport and recovery operations, publishes controlled document leaks through shifting mastheads, and transports anomalies that have left containment with it, presenting every act as liberation from institutional capture.
+
+**Role in Doctrine:**  
+L.F. is dangerous because it weaponizes the Facility's own records, routes, and moral language against containment. It must not be confused with A-GA, which seeks the destruction of anomalies; L.F. claims to preserve them. A.C.T posture is containment of cells and carried subjects, dismantling of defector-recruitment and publication paths, and infiltration of a network whose doctrine outruns its members' knowledge.
 
 ---
 

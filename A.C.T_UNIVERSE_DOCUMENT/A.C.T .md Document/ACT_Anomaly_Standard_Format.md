@@ -8,7 +8,7 @@
                      Anomaly Containment Transformation
 ═══════════════════════════════════════════════════════════════════════
 
-DESIGNATION:         [UFD-XXX-### / AFD-XXX-###][ANM-####-####-XXXX]
+DESIGNATION:         [UFD-XX-### / AFD-XX-###][ANM-XX-XX-####]
                      UFD = Unknown Field Designation (provisional)
                      AFD = Anomaly Field Designation (verified)
 TITLE I:             [Primary Title / N/A]
@@ -285,12 +285,12 @@ When an anomaly file is saved for distribution, archive transfer, or direct down
 
 Approved structure:
 
-- `Title-UFD-XXX-###.txt`
-- `Title-UFD-XXX-###.md`
-- `Title-AFD-XXX-###.txt`
-- `Title-AFD-XXX-###.md`
-- `Title-ANM-####-####-XXXX.txt`
-- `Title-ANM-####-####-XXXX.md`
+- `Title-UFD-XX-###.txt`
+- `Title-UFD-XX-###.md`
+- `Title-AFD-XX-###.txt`
+- `Title-AFD-XX-###.md`
+- `Title-ANM-XX-XX-####.txt`
+- `Title-ANM-XX-XX-####.md`
 
 Recommended title formatting:
 - replace spaces with hyphens
