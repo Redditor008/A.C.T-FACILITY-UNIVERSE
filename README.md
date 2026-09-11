@@ -99,7 +99,7 @@ Per the **2026-09-07 Core Worldbuilding Consistency Review** (`RESEARCH FOLDER/`
 
 | Family | Path | Contents |
 |---|---|---|
-| Core doctrine (md) | `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/` | 19 top-level texts: Site Doctrine, Site Map & Jurisdiction, Global Site Registry, Classification Manual, Standard/RCT/Log-Categories formats, Reality Doctrine, Divisions & Personnel, Technology Timeline, Master Index 50, Visual Reference Guide, NEMNOLIA archive, and the Archive-series copies |
+| Core doctrine (md) | `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/` | 24 top-level texts: Site Doctrine, Site Map & Jurisdiction, Global Site Registry, Classification Manual, Standard/RCT/Log-Categories formats, Reality Doctrine, Divisions & Personnel, Personnel Exposure/E-Class/Resilience Doctrine, Normalcy Management Doctrine, Transformation Review Board/Field Asset Doctrine, Standing Field Units/Cross-Containment Doctrine, Technology Timeline, Master Index 50, Visual Reference Guide, NEMNOLIA archive, and the Archive-series copies |
 | Core doctrine (txt) | `…/A.C.T .txt Document/` | Twin mirrors of all of the above (+ the 2 legacy-only records) |
 | Part series | `…/A.C.T .md Document/Part/` ↔ `…/A.C.T .txt Document/PART/` | The numbered Part One → … universe texts |
 | Site dossiers | `…/Site Dossier/` (both md & txt trees) | 5 `SITE` + 5 `SUB` comprehensive dossiers |
@@ -107,7 +107,7 @@ Per the **2026-09-07 Core Worldbuilding Consistency Review** (`RESEARCH FOLDER/`
 | Legacy anomalies | `…/A.C.T Anomaly Document/Anomaly Legacy 01 .txt/` (+ `Log/`, `STORY/`) and `Anomaly Legacy 01.md/` | Legacy-era files, observation logs, and the Lobotomy Corporation × A.C.T crossover story |
 | Modern anomalies | `…/Anomaly Modern txt/` (+ `Log/`) | Modern-era anomaly files and dossiers, character/capability profiles |
 | ITHYOS | `…/ITHYOS Document/` (`ITHYOS .md`, `ITHYOS .txt`, `ITHYOS Log`) | ENTITY-000 ITHYOS first-vault records, modern file standard, archive copies, tales |
-| GOI | `…/A.C.T GOI Document/GOI_MD` ↔ `GOI_TXT` | Record template, development roadmap, 6 dossiers (GAA, A-GA, Anstrall, CoTD, DREAM, L.F.) |
+| GOI | `…/A.C.T GOI Document/GOI_MD` ↔ `GOI_TXT` | Record template, development roadmap, 8 dossiers (GAA, A-GA, Anstrall, CoTD, DREAM, L.F., Mysterious Guild, Amazoo Circus) |
 | Main story | `…/ACT MAIN STORY/` | Continuity Policy, Story Index, full manuscripts, chapters (1–12 + Epilogue, md+txt), Archives, Characters, Narrative, Outlines |
 | Handbook | `…/Junior Handbook/` | `ACT_Orientation_Handbook` (md+txt) |
 | BOOK | `…/'A History of Anomaly Containment Transformation' BOOK.md` | In-universe history, md-only |
@@ -117,7 +117,7 @@ Per the **2026-09-07 Core Worldbuilding Consistency Review** (`RESEARCH FOLDER/`
 
 ## Development Rules
 
-- **GOI development is gated**: one new GOI per owner prompt — never batch-generate GOIs.
+- **GOI development is gated**: create only owner-selected GOIs; never batch-generate unapproved scaffold entries or scan results.
 - **Dossier files are per-item documents**: individual, un-summarized, detailed, matching the ACT archive style. No compressed or abridged notes in the RESEARCH FOLDER either (extensive `.md` only).
 - New content should reference the canonical role names, the ANM code table, and the containment-class list adopted by the 2026-09-07 consistency sweep so the chosen system stays load-bearing.
 - Every completed change should be committed and pushed; keep `.md`/`.txt` twins in lockstep.

@@ -1,0 +1,270 @@
+# A.C.T FACILITY ARCHIVE FILE
+## Standing Field Units and Cross-Containment Interaction Protocol
+
+Archive Status: Active  
+Distribution: Internal / Recovery / Containment / Tactical / Site Command  
+Authority: Field Operating Chief Council, Recovery Division, Containment Division, and Central Archive  
+
+### Archive Note
+This doctrine records the difference between divisions, desks, temporary task groups, and standing field units. It also establishes the basic rule for one of the most dangerous operational shortcuts in A.C.T: letting anomalies, anomaly-derived tools, or anomaly-influenced subjects interact with each other.
+
+---
+
+# PATH 5 — FIELD UNIT AND INTERACTION FOUNDATION
+
+## 5.1 Purpose
+
+A.C.T anomaly files already name many response bodies: Recovery Teams, Review Cells, Tactical Desks, Maritime units, Biohazard teams, Chronometric reviewers, and regional support groups. Until this doctrine, those names existed as local record fragments rather than a controlled operating layer.
+
+This file defines:
+
+1. what a standing field unit is;
+2. how named units are registered;
+3. how temporary teams differ from permanent cells;
+4. how anomaly-to-anomaly interaction is requested, denied, or contained.
+
+---
+
+## 5.2 Division, Desk, Cell, Team, and Unit
+
+### Division
+A major institutional body such as Recovery Division, Containment Division, Subject Care Division, Archiver Division, or Civil Covert Division.
+
+### Desk
+A specialized review or coordination body inside or across divisions. Desks often own doctrine, analysis, approvals, or case families.
+
+### Cell
+A compact expert group maintained for repeated problem types. Cells are smaller than divisions but more persistent than temporary mission teams.
+
+### Team
+A mission-deployed group assembled for one operation or a short series of related operations.
+
+### Standing Field Unit
+A recurring, registered operational group with name, role, jurisdiction, activation conditions, equipment profile, and review history.
+
+A.C.T records often blur these words. This doctrine does not retcon every older file. It gives future files a cleaner rule.
+
+---
+
+## 5.3 Standing Field Unit Registry Format
+
+Standing Field Unit designation format:
+
+text
+SFU-[REGION/SITE]-[ROLE]-[SEQUENCE]
+
+
+Examples:
+
+text
+SFU-S01-RCV-009
+SFU-S03-ARC-002
+SFU-CORE-CHR-001
+SFU-PL-SUB-C-SCR-001
+
+
+The public-facing name may remain more natural, such as Recovery Team Alpha-9 or Chronometric Review Cell. The SFU designation exists so the archive can track the unit across files.
+
+---
+
+## 5.4 Required Unit Fields
+
+Every standing field unit register entry must include:
+
+- unit designation;
+- common name;
+- parent division;
+- supporting divisions;
+- site jurisdiction;
+- activation conditions;
+- anomaly types handled;
+- standard equipment;
+- command authority;
+- clearance floor;
+- medical/resilience burden;
+- civilian exposure role;
+- GOI contact likelihood;
+- known failures;
+- retirement or renaming condition.
+
+---
+
+## 5.5 Known Unit and Desk Seeds From Existing Anomaly Records
+
+The following names already appear in anomaly records and should be treated as candidates for future full register entries:
+
+- Recovery Team Alpha-9 - future-origin weapon recovery / AFD-OB-312 chain;
+- Recovery Team Alpha-7 - combat-object recovery / Ball of Knife chain;
+- Recovery Team Beta-2 - Site-03 archival recovery / Book of Hero chain;
+- Recovery Team Gamma-6 - Tactical Containment raid unit / Circus Monster and Amazoo Circus chain;
+- Recovery Team Gamma-9 - dimensional/place recovery / Dark World Door chain;
+- ERE Tactical Divers - maritime recovery and hostile biological contact / Death-Angler chain;
+- Chronometric Review Cell - time-injury, loop, and clock anomaly review;
+- Apocalyptic Continuity Desk - world-ending or world-repeating hazard review;
+- Predatory Humanoid Review - humanoid predator incident review;
+- Acoustic Review Office - sound-linked hazard and biohazard event review;
+- Artificial Cognition Desk - digital or internal-AI subject review;
+- Tactical Review Desk - anomalous weapon and high-force artifact review;
+- Temporal Displacement Review - future-origin or displacement evidence review.
+
+This list is a seed list, not a full registry. It does not automatically create new unit dossiers.
+
+---
+
+## 5.6 Activation Authority
+
+A standing field unit activates under one of four conditions:
+
+### Scheduled Deployment
+Known operation, planned recovery, routine transfer, escort, review, or maintenance.
+
+### Incident Response
+Immediate anomaly emergence, breach, witness cluster, public exposure, or casualty event.
+
+### Escalation Call
+A lower team discovers hazard complexity beyond its assignment.
+
+### Sealed Command
+O5, Site Director, or Field Operating Chief activates the unit without full explanation due to sensitive information.
+
+Sealed command must be logged after the fact. A blank command chain is not mystery. It is a future disaster.
+
+---
+
+## 5.7 Field Handoff Rule
+
+When a field team transfers custody to another unit, the handoff record must state:
+
+- what is being transferred;
+- what is not being transferred;
+- last observed anomaly state;
+- injuries and missing personnel;
+- active public narrative;
+- whether the receiving unit is allowed to know the whole truth;
+- whether any personnel have memory gaps;
+- whether any equipment behaved differently after exposure.
+
+A.C.T has lost containment before because one team carried a fact and another team received only an object.
+
+---
+
+## 5.8 Cross-Containment Interaction Definition
+
+A Cross-Containment Interaction occurs when A.C.T intentionally or negligently allows one anomaly, anomaly-derived asset, anomalously altered subject, or active anomaly field to affect another.
+
+Examples include:
+
+- testing one object on another object;
+- using an anomalous weapon against a contained entity;
+- placing two subject anomalies in the same room;
+- using amnestics derived from one anomaly on personnel exposed to another;
+- moving a place anomaly into the influence range of a cognitive anomaly;
+- asking a sentient anomaly to stabilize another subject;
+- letting a GOI-derived system interface with A.C.T containment hardware.
+
+---
+
+## 5.9 Cross-Containment Request Tiers
+
+### CCI-0 — Incidental Avoidance
+No interaction intended. Record only if accidental proximity occurs.
+
+### CCI-1 — Passive Comparison
+Files are compared. No physical, cognitive, digital, biological, or memetic contact.
+
+### CCI-2 — Controlled Indirect Contact
+Outputs are compared under sealed conditions without direct anomaly-to-anomaly contact.
+
+### CCI-3 — Direct Limited Contact
+Direct interaction occurs under active containment, time limit, abort signal, and medical/technical monitoring.
+
+### CCI-4 — Hazard Interaction
+Interaction may amplify, transform, damage, contaminate, or unpredictably stabilize either anomaly.
+
+### CCI-5 — Structural Interaction
+Interaction may affect reality structure, site integrity, identity continuity, time, memory, cosmic boundary, or public normalcy.
+
+---
+
+## 5.10 Approval Requirements
+
+CCI-0 and CCI-1 may be logged by the responsible division.
+
+CCI-2 requires division approval and Archive note.
+
+CCI-3 requires Containment, Research, and responsible Site Command approval.
+
+CCI-4 requires Site Director, Medical or Subject Care where applicable, and hazard-specific desk approval.
+
+CCI-5 requires O5 authorization or emergency action with post-event O5 review.
+
+No team may create a cross-containment interaction because it is faster than building correct containment.
+
+---
+
+## 5.11 Subject Interaction Safeguard
+
+If either anomaly is a sentient subject, the interaction must pass Subject Care review. A.C.T may not use one contained person as therapy, weapon, bait, interpreter, restraint, or emotional regulator for another contained person without clear authority and aftercare.
+
+Friendship, trust, fear, dependence, and curiosity are containment variables. They are also real. The file must record both.
+
+---
+
+## 5.12 GOI-Derived Systems
+
+GOI-derived tools, archives, software, rituals, medical substances, or weapons must not interface with A.C.T containment hardware unless cleared under CCI rules and GOI evidence review.
+
+This is especially important for groups such as Mysterious Guild, DREAM .INC, Anstrall Market, Amazoo Circus, and Liberty Freedoms, where recovered systems may be designed to call home, recruit, condition, leak, or punish unauthorized handlers.
+
+---
+
+## 5.13 Failed Interaction Rule
+
+If an interaction produces unexpected benefit, it is still a failed interaction until reviewed. A.C.T must not allow lucky success to become hidden policy.
+
+Failure review must ask:
+
+- What changed?
+- Which anomaly gained information?
+- Which personnel were altered?
+- Which containment assumption died?
+- Which public narrative would fail if the interaction repeated outside the Facility?
+- Did A.C.T create a new anomaly by forcing old anomalies together?
+
+---
+
+## 5.14 Red Lines
+
+A.C.T will not:
+
+- use a sentient subject as disposable stabilizer;
+- connect unknown software to containment systems;
+- force two hostile subjects into contact for spectacle;
+- test GOI weapons on living subjects without review;
+- use anomaly-derived amnestics to hide interaction failure;
+- let field teams improvise cross-use because a breach is embarrassing;
+- call an interaction harmless only because nothing exploded.
+
+---
+
+## 5.15 Related Records
+
+- ACT_Divisions_Personnel_and_Operational_Life_Archive.md
+- ACT_Anomaly_Log_Categories_In_World_Explanation.md
+- ACT_Complete_Designation_and_Class_Reference.md
+- Standing future SFU register entries
+- Transformation Review Board determinations
+- GOI dossiers for recovered outside systems
+
+---
+
+## File Metadata
+
+text
+FILE CREATED:        12/09/2026
+FILE LAST UPDATED:   12/09/2026
+FILE AUTHOR:         Field Operating Chief Council / Central Archive
+REVIEWED BY:         Recovery Division / Containment Division / Tactical Review Desk
+FILE STATUS:         ACTIVE
+PATH STATUS:         PATH 5 CREATED
+
