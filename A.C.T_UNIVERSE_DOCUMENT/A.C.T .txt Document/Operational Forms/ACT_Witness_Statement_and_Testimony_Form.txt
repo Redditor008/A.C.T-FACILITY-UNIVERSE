@@ -1,0 +1,459 @@
+# A.C.T FACILITY ARCHIVE FILE
+## WITNESS STATEMENT AND TESTIMONY FORM
+
+Archive Status: Active Working Form  
+Distribution: Field Operators / Civil Covert / Medical Care / Archiver Division / Intelligence Division  
+Authority: Central Archive, Civil Covert Division, and Medical Care Division  
+
+### Archive Note
+This form is used when a civilian, personnel member, contained subject, GOI contact, or other witness provides testimony connected to an anomalous event. The purpose is to preserve what was perceived before A.C.T normalcy work reshapes the public record.
+
+A witness statement is not automatically true. It is not automatically false. It is evidence of contact between a mind and an event that may not have obeyed the same rules for every observer.
+
+---
+
+# WITNESS STATEMENT FOUNDATION
+
+## 1. Use Conditions
+
+Use this form when testimony may affect:
+
+- anomaly classification;
+- field designation;
+- containment revision;
+- public narrative construction;
+- amnestic decision;
+- personnel resilience review;
+- GOI identification;
+- missing-person tracing;
+- site security review;
+- cross-containment interaction review;
+- transformation approval or denial.
+
+Do not use this form as a casual interview transcript when no anomalous relevance exists. Do not replace therapy notes, medical diagnosis, interrogation logs, or subject-care records with this form unless the witness statement itself is the required evidence.
+
+---
+
+## 2. Witness Category
+
+Mark one primary category and any secondary category required.
+
+text
+[ ] CIVILIAN WITNESS
+[ ] A.C.T PERSONNEL WITNESS
+[ ] FIELD OPERATOR WITNESS
+[ ] MEDICAL WITNESS
+[ ] SUBJECT / CONTAINED ANOMALY WITNESS
+[ ] E-CLASS / EXCOMMUNICATED CLASS WITNESS
+[ ] GOI-AFFILIATED WITNESS
+[ ] HOSTILE WITNESS
+[ ] CHILD / DEPENDENT WITNESS
+[ ] MEMORY-ALTERED WITNESS
+[ ] POST-AMNESTIC WITNESS
+[ ] DECEASED / RECONSTRUCTED TESTIMONY
+[ ] OTHER: ______________________________
+
+
+Witness category does not decide credibility by itself. A frightened civilian may be more accurate than a trained researcher exposed to a memetic field. A hostile witness may tell the truth for the wrong reason. An E-Class witness remains a person even when the institution has excommunicated them from ordinary protection.
+
+---
+
+## 3. Statement Header
+
+text
+STATEMENT ID:
+LINKED CASE DESIGNATION:
+RELATED ANOMALY / GOI / SITE:
+DATE OF STATEMENT:
+DATE OF INCIDENT:
+LOCATION OF INCIDENT:
+LOCATION OF STATEMENT:
+WITNESS CATEGORY:
+WITNESS NAME / IDENTIFIER:
+AGE / ESTIMATED AGE:
+LANGUAGE USED:
+TRANSLATION REQUIRED:
+INTERVIEWING PERSONNEL:
+OBSERVING PERSONNEL:
+RECORDING METHOD:
+CLEARANCE REQUIRED:
+PUBLIC EXPOSURE STATUS:
+AMNESTIC STATUS:
+MEDICAL STATUS:
+MEMETIC / COGNITIVE SCREENING STATUS:
+NORMALCY NARRATIVE STATUS:
+ARCHIVE ROUTING:
+
+
+If witness identity is unsafe to preserve, use a sealed identifier and record the sealing authority.
+
+---
+
+## 4. Pre-Statement Handling Check
+
+Before testimony begins, the interviewer must confirm:
+
+text
+[ ] witness is medically stable enough to speak
+[ ] witness understands they are giving a statement, if capable
+[ ] witness has not been coached by unauthorized personnel
+[ ] witness has not been exposed to the public cover story in a way that invalidates raw perception
+[ ] witness has been screened for immediate memetic or cognitive hazard
+[ ] recording equipment has been checked for anomaly-reactive behavior
+[ ] interpreter or cultural liaison is present if needed
+[ ] child/dependent safeguard is present if needed
+[ ] Subject Care safeguard is present if the witness is a contained subject
+[ ] E-Class safeguard is present if the witness is Excommunicated Class
+[ ] GOI-risk observer is present if the witness may be affiliated with a GOI
+
+
+Failure to complete a check does not always stop testimony. It must be recorded before testimony is trusted.
+
+---
+
+## 5. Free Statement Section
+
+The interviewer should begin with a free statement before guided questions.
+
+text
+OPENING INSTRUCTION USED:
+"Tell me what happened in the order you remember it. Do not fix the order for me. If something happened twice, happened before itself, sounded wrong, looked staged, or feels impossible to place, say that directly."
+
+
+text
+FREE STATEMENT:
+[Write or attach the witness's account here. Preserve uncertain wording, pauses, repeated phrases, drawings, gestures, emotional breaks, and refusal to answer where relevant.]
+
+
+Do not correct the witness into A.C.T terminology during the first account.
+
+---
+
+## 6. Guided Question Block
+
+Use only the questions needed for the case.
+
+### Perception
+
+text
+What did you see?
+What did you hear?
+What did you smell?
+What did you feel physically?
+What changed first?
+What did not change when it should have?
+Did anyone else react differently from you?
+
+
+### Time and Sequence
+
+text
+What happened before the event?
+What happened after the event?
+Did time skip, repeat, slow, stop, or arrive out of order?
+Did you remember something before it happened?
+Did clocks, phones, cameras, shadows, or reflections disagree?
+
+
+### Body and Mind
+
+text
+Did your body feel altered?
+Did your thoughts feel like your own?
+Did you forget names, places, language, pain, fear, or identity?
+Did you feel ordered to act?
+Did you want something that did not feel like your own want?
+
+
+### People and Entities
+
+text
+Who was present?
+Who was missing?
+Did anyone appear twice?
+Did anyone speak in a voice that was not theirs?
+Did anyone behave like they knew a script?
+Did any person, animal, object, or place seem to notice being watched?
+
+
+### Objects and Environment
+
+text
+What object, doorway, sound, symbol, document, machine, animal, body, weather, road, room, screen, or file seemed central?
+Was anything too clean, too old, too new, too staged, or impossible to damage?
+Did the environment behave as if it had rules?
+
+
+### Public Narrative
+
+text
+What explanation did people give before A.C.T arrived?
+What explanation would you have believed if no one stopped you?
+What explanation are others repeating now?
+Who benefits if that explanation is accepted?
+
+
+### GOI Indicators
+
+text
+Did you see a name, logo, badge, uniform, chant, ticket, catalogue, contract, ritual phrase, maintenance message, company label, market price, or political slogan?
+Did anyone claim ownership, rescue, authority, payment, faith, liberation, or eradication?
+Did anyone try to remove evidence before emergency services arrived?
+
+
+---
+
+## 7. Reliability and Alteration Assessment
+
+This section is completed by A.C.T personnel, not the witness.
+
+text
+BASELINE RELIABILITY:
+[ ] HIGH
+[ ] MODERATE
+[ ] LOW
+[ ] UNUSABLE WITHOUT SUPPORTING EVIDENCE
+[ ] NOT RATED
+
+ALTERATION INDICATORS:
+[ ] memory gap
+[ ] forced certainty
+[ ] repeated phrase
+[ ] impossible chronology
+[ ] foreign terminology
+[ ] borrowed voice
+[ ] dream contamination
+[ ] grief fixation
+[ ] worship response
+[ ] fear obedience
+[ ] hostile coaching
+[ ] amnestic residue
+[ ] identity instability
+[ ] biological change
+[ ] information hazard contamination
+[ ] other: ______________________________
+
+
+Low reliability does not mean low value. A distorted statement may reveal the shape of the distortion.
+
+---
+
+## 8. Immediate Handling Orders
+
+text
+[ ] release under public narrative
+[ ] release with monitoring
+[ ] medical observation
+[ ] psychological stabilization
+[ ] memetic quarantine
+[ ] information-hazard quarantine
+[ ] protective custody
+[ ] recruitment screening
+[ ] GOI-risk surveillance
+[ ] amnestic treatment under separate authorization
+[ ] no amnestic treatment; memory needed for stability
+[ ] repeat statement after sleep cycle
+[ ] repeat statement after medical stabilization
+[ ] transfer to Subject Care
+[ ] transfer to Intelligence Division
+[ ] transfer to Civil Covert Division
+[ ] transfer to Archiver Division
+[ ] other: ______________________________
+
+
+Do not select amnestic treatment only because the testimony is inconvenient.
+
+---
+
+## 9. Normalcy Narrative Attachment
+
+Civil Covert must complete this section if the witness will return to public life.
+
+text
+PUBLIC EXPLANATION PROVIDED:
+COVER STORY STRENGTH BAND:
+NARRATIVE STATUS FIELD UPDATE REQUIRED:
+WITNESS CAN SAFELY REPEAT COVER STORY:
+WITNESS REQUIRES PARTIAL TRUTH SHARD:
+WITNESS MUST AVOID SPECIFIC LOCATION / PERSON / OBJECT:
+FOLLOW-UP DATE:
+FOLLOW-UP AUTHORITY:
+
+
+A partial truth shard is a controlled fragment of truth left intact because full erasure would cause worse instability, obsession, grief collapse, or pattern-seeking behavior.
+
+---
+
+## 10. E-Class / Excommunicated Class Attachment
+
+Complete only if the witness is E-Class.
+
+text
+EXCOMMUNICATED CLASS STATUS CONFIRMED BY:
+CONTACT CATEGORY:
+ASSIGNMENT AUTHORITY:
+REFUSAL / CONSENT RECORD:
+INJURY OR ALTERATION DURING ASSIGNMENT:
+REPEAT-USE LIMIT:
+AFTERCARE REQUIREMENT:
+RETURN TO DUTY ALLOWED:
+RETURN TO DUTY AUTHORITY:
+
+
+E-Class testimony is not less human because the witness is excommunicated. It may be more institutionally dangerous because the witness has seen what protected staff were spared.
+
+---
+
+## 11. GOI-Affiliated Witness Attachment
+
+Complete only if a Group of Interest is involved or suspected.
+
+text
+SUSPECTED / CONFIRMED GOI:
+GOI RELATIONSHIP:
+[ ] member
+[ ] former member
+[ ] courier
+[ ] buyer
+[ ] victim
+[ ] recruit
+[ ] employee
+[ ] worshipper
+[ ] coerced participant
+[ ] planted witness
+[ ] unknown
+
+GOI PHRASES OR TERMS USED:
+GOI DOCUMENTS OR OBJECTS SEEN:
+GOI CLAIMS MADE:
+GOI THREATS MADE:
+GOI OFFERS MADE:
+GOI RECOVERED DOCUMENT RECORD REQUIRED:
+
+
+A GOI-affiliated witness may require both witness filing and recovered-document filing if they carry written, spoken, digital, ritual, or commercial material from the group.
+
+---
+
+## 12. Closing Certification
+
+text
+INTERVIEWER CERTIFICATION:
+I certify that this statement preserves the witness account, observed condition, and A.C.T handling decisions as accurately as current containment conditions allow.
+
+INTERVIEWER NAME / IDENTIFIER:
+DIVISION:
+SIGNATURE / SEAL:
+DATE:
+
+ARCHIVE RECEIPT:
+RECEIVING ARCHIVER:
+ARCHIVE LOCATION:
+REDACTION REQUIRED:
+DUPLICATE COPY CREATED:
+TEXT COPY CREATED:
+RELATED FILES UPDATED:
+
+
+---
+
+## 13. Red Lines
+
+A.C.T will not:
+
+- rewrite testimony so it matches the public cover story;
+- punish a witness for describing impossible chronology;
+- force a child witness to repeat traumatic details for curiosity;
+- use E-Class status to ignore pain, refusal, or identity collapse;
+- use amnestics to hide misconduct;
+- treat GOI language as proof without corroboration;
+- treat hostile testimony as worthless by default;
+- allow a recovered statement to become spectacle.
+
+---
+
+## 14. Blank Field Copy
+
+text
+A.C.T FACILITY ARCHIVE FILE
+WITNESS STATEMENT AND TESTIMONY FORM
+
+STATEMENT ID:
+LINKED CASE DESIGNATION:
+RELATED ANOMALY / GOI / SITE:
+DATE OF STATEMENT:
+DATE OF INCIDENT:
+LOCATION OF INCIDENT:
+LOCATION OF STATEMENT:
+WITNESS CATEGORY:
+WITNESS NAME / IDENTIFIER:
+AGE / ESTIMATED AGE:
+LANGUAGE USED:
+TRANSLATION REQUIRED:
+INTERVIEWING PERSONNEL:
+OBSERVING PERSONNEL:
+RECORDING METHOD:
+CLEARANCE REQUIRED:
+PUBLIC EXPOSURE STATUS:
+AMNESTIC STATUS:
+MEDICAL STATUS:
+MEMETIC / COGNITIVE SCREENING STATUS:
+NORMALCY NARRATIVE STATUS:
+ARCHIVE ROUTING:
+
+PRE-STATEMENT HANDLING CHECK:
+[ ] medically stable enough to speak
+[ ] understands statement process, if capable
+[ ] not coached by unauthorized personnel
+[ ] raw perception not overwritten by public cover story
+[ ] screened for immediate memetic or cognitive hazard
+[ ] recording equipment checked
+[ ] interpreter / cultural liaison present if needed
+[ ] child/dependent safeguard present if needed
+[ ] Subject Care safeguard present if needed
+[ ] E-Class safeguard present if needed
+[ ] GOI-risk observer present if needed
+
+FREE STATEMENT:
+
+GUIDED QUESTIONS USED:
+
+RELIABILITY AND ALTERATION ASSESSMENT:
+BASELINE RELIABILITY:
+ALTERATION INDICATORS:
+
+IMMEDIATE HANDLING ORDERS:
+
+NORMALCY NARRATIVE ATTACHMENT:
+
+E-CLASS / EXCOMMUNICATED CLASS ATTACHMENT:
+
+GOI-AFFILIATED WITNESS ATTACHMENT:
+
+INTERVIEWER CERTIFICATION:
+INTERVIEWER NAME / IDENTIFIER:
+DIVISION:
+SIGNATURE / SEAL:
+DATE:
+
+ARCHIVE RECEIPT:
+RECEIVING ARCHIVER:
+ARCHIVE LOCATION:
+REDACTION REQUIRED:
+DUPLICATE COPY CREATED:
+TEXT COPY CREATED:
+RELATED FILES UPDATED:
+
+
+---
+
+## File Metadata
+
+text
+FILE CREATED:        12/09/2026
+FILE LAST UPDATED:   12/09/2026
+FILE AUTHOR:         Archiver Division / Civil Covert Division
+REVIEWED BY:         Medical Care Division / Intelligence Division / Subject Care Division
+FILE STATUS:         ACTIVE WORKING FORM
+DOCTRINE STATUS:     ACTIVE
+

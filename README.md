@@ -45,6 +45,7 @@ A.C.T-FACILITY-UNIVERSE/
 ├── A.C.T_UNIVERSE_DOCUMENT/      ← the universe itself (all canon text lives here)
 │   ├── A.C.T .md Document/       ← core doctrine — Markdown editions
 │   │   ├── Part/                 ← Part series (Part One → …), Markdown
+│   │   ├── Operational Forms/    ← reusable in-world working forms
 │   │   ├── Site Dossier/         ← 10 site/sub-site dossiers (5 SITE + 5 SUB)
 │   │   └── Site Dossier/Floor Dossier/ ← 46 individual floor dossiers
 │   ├── A.C.T .txt Document/      ← core doctrine — plain-text twin editions
@@ -102,6 +103,7 @@ Per the **2026-09-07 Core Worldbuilding Consistency Review** (`RESEARCH FOLDER/`
 | Core doctrine (md) | `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/` | 24 top-level texts: Site Doctrine, Site Map & Jurisdiction, Global Site Registry, Classification Manual, Standard/RCT/Log-Categories formats, Reality Doctrine, Divisions & Personnel, Personnel Exposure/Excommunicated Class/Resilience Doctrine, Normalcy Management Doctrine, Transformation Review Board/Field Asset Doctrine, Standing Field Units/Cross-Containment Doctrine, Technology Timeline, Master Index 50, Visual Reference Guide, NEMNOLIA archive, and the Archive-series copies |
 | Core doctrine (txt) | `…/A.C.T .txt Document/` | Twin mirrors of all of the above (+ the 2 legacy-only records) |
 | Part series | `…/A.C.T .md Document/Part/` ↔ `…/A.C.T .txt Document/PART/` | The numbered Part One → … universe texts |
+| Operational forms | `…/Operational Forms/` (both md & txt trees) | Reusable in-world working forms, beginning with witness statement/testimony intake |
 | Site dossiers | `…/Site Dossier/` (both md & txt trees) | 5 `SITE` + 5 `SUB` comprehensive dossiers |
 | Floor dossiers | `…/Site Dossier/Floor Dossier/` (both trees) | 46 individual floor dossiers (SUB-04 has no floors by canon) |
 | Legacy anomalies | `…/A.C.T Anomaly Document/Anomaly Legacy 01 .txt/` (+ `Log/`, `STORY/`) and `Anomaly Legacy 01.md/` | Legacy-era files, observation logs, and the Lobotomy Corporation × A.C.T crossover story |
