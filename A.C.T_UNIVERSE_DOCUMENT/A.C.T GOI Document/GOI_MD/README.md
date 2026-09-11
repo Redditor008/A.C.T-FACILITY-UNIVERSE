@@ -1,6 +1,6 @@
 # A.C.T. Groups of Interest - Archive and Development Folder
 
-**Status:** Three expanded source-anchored registry dossiers, three owner-directed original dossiers (registry-integrated 08/09/2026), and twenty provisional roadmap seeds in one master plan.
+**Status:** Three expanded source-anchored registry dossiers, three owner-directed original dossiers (registry-integrated 08/09/2026), and one retained twenty-slot structural scaffold whose names/designations are not owner-approved canon.
 **Scope:** Independent A.C.T. core universe only.
 **Implementation status:** No live wiki work has begun.
 
@@ -93,11 +93,17 @@ With the owner's approval, the three owner-directed original dossiers are no lon
 
 ## Planning material - not individual GOI dossiers
 
-- [00_GOI_Development_Roadmap.md](00_GOI_Development_Roadmap.md) - Master plan containing twenty provisional original GOI seeds.
+- [00_GOI_Development_Roadmap.md](00_GOI_Development_Roadmap.md) - Retained twenty-slot structural scaffold for GOI category planning; listed names/designations are not approved GOIs.
 - [00_GOI_Record_Template.md](00_GOI_Record_Template.md) - Universal controlled in-world archive form for a future owner-selected original GOI dossier.
 - `README.md` - This folder guide.
 
-The twenty roadmap candidates remain in the master roadmap only. They do **not** have individual GOI files because the owner clarified that individual-file work applies to GOIs already written in the source registry, not to all provisional candidates. Children of the Deep, DREAM .INC, and Liberty Freedoms are owner-directed original dossiers outside that provisional list; none converts, replaces, or silently activates a roadmap seed.
+The twenty roadmap/scaffold entries remain in the master roadmap only. They do **not** have individual GOI files, and their names/designations are **not approved canon**. The owner clarified that the twenty entries were meant to preserve structure, not to finalize a roster or force later selection from those names. Children of the Deep, DREAM .INC, and Liberty Freedoms are owner-directed original dossiers outside that scaffold; none converts, replaces, or silently activates a scaffold slot.
+
+---
+
+### Owner correction on roadmap scaffold
+
+Recorded 11 September 2026: the twenty roadmap entries are structural placeholders only. They were retained instead of deleted because their category spread may still be useful, but their names, designations, premises, and order are not approved. Future GOI work must begin from the owner's selected or supplied GOI, especially a GOI already mentioned in an anomaly file, rather than treating the scaffold list as a finished menu.
 
 ---
 
@@ -105,7 +111,7 @@ The twenty roadmap candidates remain in the master roadmap only. They do **not**
 
 The owner's deliberate production rule for roadmap candidates remains active:
 
-1. The owner selects one roadmap slot in a new prompt, for example: `Create GOI 01 - Office of Public Continuity`.
+1. The owner explicitly approves one GOI in a new prompt. The GOI may come from an anomaly mention, a new owner name, or a rewritten scaffold slot; scaffold names are not assumed approved.
 2. Only that selected new GOI receives one detailed Markdown dossier in `GOI_MD/` and one matching plain-text reading copy in `GOI_TXT/`.
 3. The pair is checked for universal format, continuity, classification, originality, tone, and requested revisions.
 4. No second new original GOI dossier pair is created until the owner sends another prompt selecting it.

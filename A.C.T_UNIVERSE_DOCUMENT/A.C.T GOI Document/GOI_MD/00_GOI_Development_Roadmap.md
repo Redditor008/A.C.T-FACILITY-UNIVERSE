@@ -1,22 +1,25 @@
 # A.C.T Group of Interest Expansion Roadmap
 ## Twenty original core-GOI concepts, prepared for one-at-a-time development
 
-**Status:** Planning only for twenty new candidates - no roadmap-candidate dossier has been created; the three existing registry GOIs plus owner-directed originals Children of the Deep and DREAM .INC are documented separately as expanded in-world archive records
+**Status:** Structural planning scaffold only - the twenty listed entries are **not approved GOI names, not approved designations, and not a selection menu**; no scaffold entry becomes canon unless the owner explicitly approves or rewrites it in a later prompt
 **Prepared:** 06 September 2026
-**Requested outcome:** At least 20 new original A.C.T. Groups of Interest, developed **one new GOI per owner prompt**
+**Owner correction recorded:** 11 September 2026
+**Requested outcome:** Build future A.C.T. Groups of Interest one at a time from owner-approved names, anomaly-mentioned groups, or owner-approved rewrites of any scaffold slot
 **Scope:** Independent A.C.T. core universe only; not a live wiki implementation
 
 ---
 
 ## 1. What this roadmap does - and does not do
 
-This roadmap creates a deliberate pool of **twenty provisional GOI seeds**. A seed has a working identity, a classification direction, a narrative role, a likely A.C.T. jurisdiction, and an important question to resolve later. It is intentionally not a completed faction dossier.
+This roadmap preserves a **twenty-slot structural scaffold** that was created during earlier planning. The scaffold demonstrates possible GOI distribution across nature classes, alignment classes, narrative functions, and site jurisdictions. It does **not** mean the owner approved the names, designations, or premises chosen for those slots.
 
-This Markdown roadmap is the authoritative planning source in `GOI_MD/`. Its matching plain-text reading copy is kept in `GOI_TXT/00_GOI_Development_Roadmap.txt`. The same Markdown-plus-TXT pairing will be used for every later owner-approved individual GOI dossier.
+This Markdown roadmap is retained because deleting the scaffold would lose useful structure. Its matching plain-text reading copy is kept in `GOI_TXT/00_GOI_Development_Roadmap.txt`. The same Markdown-plus-TXT pairing will be used for every later owner-approved individual GOI dossier.
 
-A candidate does **not** become final canon merely because it appears in this file. The owner selects one candidate in a later prompt. Only then will one detailed GOI archive record be written, checked, and presented for review. No batch of twenty finished organizations will be generated from this plan.
+A scaffold slot does **not** become final canon merely because it appears in this file. The owner may keep a slot, rename it, replace it, combine it with anomaly-mentioned GOI material, or reject it entirely. Only an explicit future owner prompt can authorize one detailed GOI archive record. No batch of twenty finished organizations will be generated from this plan, and the listed names must not be treated as approved names.
 
-**Direct-owner record note:** `GOI-CU-X-048` - Children of the Deep / CoTD - and `GOI-CP-B-049` - DREAM .INC / DREAM - were commissioned directly outside this provisional list. Their creation does not select, replace, number, or activate any of the twenty roadmap seeds.
+**Direct-owner record note:** `GOI-CU-X-048` - Children of the Deep / CoTD - and `GOI-CP-B-049` - DREAM .INC / DREAM - were commissioned directly outside this scaffold. Their creation does not select, replace, number, or activate any scaffold slot.
+
+**Owner correction note, 11 September 2026:** The twenty listed GOI slots are structure only. They are not finished GOIs, not approved names, and not a required creation order. Future GOI work should first check whether the owner has a specific GOI name, an anomaly-mentioned group, or a revised concept. Do not ask the owner to choose from the scaffold as if the names are already accepted.
 
 This protects the project from the most common expansion problem: a setting gaining many names, but no meaningful institutions. Every completed GOI must earn its place through a distinct method, pressure on A.C.T., human consequence, and connection to the existing world.
 
@@ -52,7 +55,7 @@ The source registry presently names these existing examples/anchors:
 - **Anti-Global Anomaly / A-GA** - militia that seeks indiscriminate destruction of anomalies;
 - **Anstrall Market** - transnational anomalous black-market structure.
 
-They are documented separately as source-anchored, expanded in-world A.C.T archive records. None of them is counted toward the requested twenty new GOIs. Every candidate below must avoid duplicating their core role.
+They are documented separately as source-anchored, expanded in-world A.C.T archive records. None of them is counted toward the requested twenty new GOIs. Every future owner-approved GOI must avoid duplicating their core role.
 
 ---
 
@@ -90,11 +93,11 @@ Nature codes in this roadmap are deliberately balanced across Government, Corpor
 
 None of these groups should casually outclass the Facility, erase the purpose of the five regional Sites, or solve the First Lie. They should create **pressure around the existing system**, not replace it.
 
-The First Lie, ERE, ITHYOS, NEMNOLIA, the founders' self-erasure, and the main story's revelations remain protected core material. A later GOI may encounter their effects only if the owner approves a specific, continuity-safe connection. No candidate below is assumed to possess that knowledge.
+The First Lie, ERE, ITHYOS, NEMNOLIA, the founders' self-erasure, and the main story's revelations remain protected core material. A later GOI may encounter their effects only if the owner approves a specific, continuity-safe connection. No scaffold slot is assumed to possess that knowledge.
 
 ### 3.4 Geography is an operational choice, not decoration
 
-A candidate's suggested site relationship comes from the existing site lattice:
+A future GOI's site relationship should come from the existing site lattice:
 
 - **Site 01 / Redwood Veil** - urban recovery, artifact routes, public concealment, black-market pressure;
 - **Site 02 / White Grave** - cold isolation, biological suppression, remote containment;
@@ -109,11 +112,11 @@ A final dossier will explain why a given site has responsibility. It will not ad
 
 ## 4. Coverage plan
 
-The twenty candidates are intentionally distributed across all ten existing Nature Classes. This prevents a roster made entirely of cults, corporations, or armed enemies.
+The twenty scaffold slots are distributed across all ten existing Nature Classes as a structure example only. This demonstrates balance, but it does not approve the slot names or require those exact groups to be created.
 
 ```text
 +------------------+--------------------+------------------------------------------------------------------+
-| Nature Class     | Planned candidates | Why the category matters                                         |
+| Nature Class     | Planned scaffold slots | Why the category matters                                         |
 +==================+====================+==================================================================+
 | Government       | 2                  | Tests the boundary between state authority, public stability,    |
 |                  |                    | and A.C.T. secrecy.                                              |
@@ -149,9 +152,9 @@ The twenty candidates are intentionally distributed across all ten existing Natu
 
 ---
 
-# 5. The twenty provisional GOI seeds
+# 5. The twenty structural GOI scaffold slots
 
-**Important:** Each entry is a short planning brief, not a finished record. The designation, classification, name, and premise may be refined only when the owner selects that numbered GOI for its individual prompt.
+**Important owner correction:** Each entry below is a structural placeholder only. The designation, classification, name, and premise are not approved canon. They may be kept, renamed, rewritten, replaced by a GOI already mentioned in an anomaly file, or discarded when the owner directs actual GOI creation.
 
 ## 01 - Office of Public Continuity
 
@@ -337,19 +340,19 @@ The twenty candidates are intentionally distributed across all ten existing Natu
 
 # 6. One-prompt creation procedure
 
-When the owner chooses a number, the next response may create **only that one** individual GOI dossier.
+When the owner authorizes a GOI, the next response may create **only that one** individual GOI dossier. The authorization may name a scaffold slot, but it may also name a different owner-approved GOI or a GOI already mentioned in an anomaly file.
 
 ## 6.1 Suggested owner prompt form
 
 ```text
-Create GOI 01 - Office of Public Continuity.
+Create one GOI dossier for [owner-approved GOI name / anomaly-mentioned group / revised scaffold slot].
 ```
 
-The owner may instead rename, reorder, combine, or reject a candidate before creation.
+The owner may rename, reorder, combine, replace, or reject any scaffold slot before creation. A scaffold name is not assumed accepted.
 
 ## 6.2 What one creation response will contain
 
-For the selected candidate only, the work will:
+For the selected owner-approved GOI only, the work will:
 
 1. create one dedicated Markdown record in `GOI_MD/` using `00_GOI_Record_Template.md`, plus a matching `.txt` reading copy in `GOI_TXT/`;
 2. turn the short seed into a concrete institutional structure, ideology, assets, history with A.C.T., responsible site, current posture, and open questions;
@@ -358,7 +361,7 @@ For the selected candidate only, the work will:
 5. run a duplicate-name and prohibited-scope check;
 6. present the matched dossier pair for owner review.
 
-No other candidate becomes a dossier pair in the same response. The next new GOI waits for another owner prompt.
+No other GOI becomes a dossier pair in the same response. The next new GOI waits for another owner prompt.
 
 ## 6.3 Review before registry integration
 
@@ -368,7 +371,7 @@ A completed individual dossier remains **Owner Review** until the owner accepts 
 
 # 7. Creation safeguards
 
-Before writing a single new roadmap-candidate GOI, confirm all of the following:
+Before writing a single new GOI, confirm all of the following:
 
 ```text
 [ ] This is the one GOI selected by the owner in this prompt.
