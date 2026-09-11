@@ -99,7 +99,7 @@ Per the **2026-09-07 Core Worldbuilding Consistency Review** (`RESEARCH FOLDER/`
 
 | Family | Path | Contents |
 |---|---|---|
-| Core doctrine (md) | `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/` | 24 top-level texts: Site Doctrine, Site Map & Jurisdiction, Global Site Registry, Classification Manual, Standard/RCT/Log-Categories formats, Reality Doctrine, Divisions & Personnel, Personnel Exposure/E-Class/Resilience Doctrine, Normalcy Management Doctrine, Transformation Review Board/Field Asset Doctrine, Standing Field Units/Cross-Containment Doctrine, Technology Timeline, Master Index 50, Visual Reference Guide, NEMNOLIA archive, and the Archive-series copies |
+| Core doctrine (md) | `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/` | 24 top-level texts: Site Doctrine, Site Map & Jurisdiction, Global Site Registry, Classification Manual, Standard/RCT/Log-Categories formats, Reality Doctrine, Divisions & Personnel, Personnel Exposure/Excommunicated Class/Resilience Doctrine, Normalcy Management Doctrine, Transformation Review Board/Field Asset Doctrine, Standing Field Units/Cross-Containment Doctrine, Technology Timeline, Master Index 50, Visual Reference Guide, NEMNOLIA archive, and the Archive-series copies |
 | Core doctrine (txt) | `…/A.C.T .txt Document/` | Twin mirrors of all of the above (+ the 2 legacy-only records) |
 | Part series | `…/A.C.T .md Document/Part/` ↔ `…/A.C.T .txt Document/PART/` | The numbered Part One → … universe texts |
 | Site dossiers | `…/Site Dossier/` (both md & txt trees) | 5 `SITE` + 5 `SUB` comprehensive dossiers |

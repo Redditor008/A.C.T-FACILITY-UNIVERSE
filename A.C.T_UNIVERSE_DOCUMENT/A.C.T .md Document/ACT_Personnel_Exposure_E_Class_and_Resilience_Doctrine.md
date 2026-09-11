@@ -1,12 +1,14 @@
 # A.C.T FACILITY ARCHIVE FILE
-## Personnel Exposure, E-Class, and Resilience Doctrine
+## Personnel Exposure, Excommunicated Class, and Resilience Doctrine
 
 **Archive Status:** Active  
 **Distribution:** Internal / Division Command / Subject Care / Medical Care  
 **Authority:** Administration, Medical Care Division, Subject Care Division, and Personnel Review  
 
 ### Archive Note
-This doctrine formalizes the human side of A.C.T operations: E-Class personnel, exposure rotation, resilience review, aftercare, and the limit between necessary risk and institutional cruelty. It does not replace the Divisions and Personnel archive. It supplies the missing operational rules that keep personnel from becoming invisible equipment.
+This doctrine formalizes the human side of A.C.T operations: Excommunicated Class personnel, exposure rotation, resilience review, aftercare, and the limit between necessary risk and institutional cruelty. It does not replace the Divisions and Personnel archive. It supplies the missing operational rules that keep personnel from becoming invisible equipment.
+
+Owner correction retained in this file: **E-Class means Excommunicated Class**, not Exposure-Class.
 
 ---
 
@@ -28,11 +30,11 @@ This doctrine exists to answer five standing questions:
 
 ## 2.2 E-Class Personnel Definition
 
-**E-Class** means **Exposure-Class personnel**. The term is not a moral rank, punishment class, prisoner class, expendable class, or low-value labor category.
+**E-Class** means **Excommunicated Class**. The term refers to personnel who have been removed from normal institutional protection, normal civic identity, and normal career standing because A.C.T has judged them condemned, censured, legally erased, operationally isolated, or already lost to a condition that ordinary staff cannot be asked to carry.
 
-E-Class personnel are individuals assigned to tasks where direct or indirect anomalous exposure is expected, measured, controlled, or unavoidable. They may be temporary operators, trained volunteers, specialist technicians, handlers, medical observers, field assistants, or personnel whose unique tolerance profile makes them suitable for limited contact.
+E-Class is not the same as ordinary exposed personnel. Many A.C.T workers face anomaly exposure. They do not become E-Class merely because their assignment is dangerous. E-Class begins when the person has been excommunicated from standard personnel status and placed under restricted use rules where high-risk testing, exposure trials, punitive assignment, or sacrificial operation may be authorized.
 
-E-Class is assigned to a duty condition, not to a person's worth.
+The category is deliberately ugly. A.C.T doctrine does not allow the word to become clean. If a file says E-Class, the archive must remember that the institution has already crossed a moral line before the test begins.
 
 ### E-Class is not authorized for:
 
@@ -46,27 +48,27 @@ E-Class is assigned to a duty condition, not to a person's worth.
 
 ---
 
-## 2.3 E-Class Assignment Bands
+## 2.3 Excommunicated Class Assignment Bands
 
 A.C.T uses assignment bands to prevent the old error of calling every exposed worker the same thing.
 
 ### E-0 — Brief Exposure Reserve
-Personnel cleared for observation-adjacent presence, controlled object handling, perimeter support, and low-risk witness interaction. E-0 does not authorize direct contact with living subjects, memetic vectors, temporal loops, or transformation-active material.
+Personnel removed from normal status but held in reserve for non-contact support, observation-adjacent presence, controlled object handling, perimeter labor, and low-risk witness interaction. E-0 does not authorize direct contact with living subjects, memetic vectors, temporal loops, or transformation-active material.
 
 ### E-1 — Controlled Contact
-Personnel authorized for short, supervised exposure to a verified anomaly under stable conditions. E-1 is common for trained handlers, medical observers, and containment support staff.
+Excommunicated personnel authorized for short, supervised exposure to a verified anomaly under stable conditions. E-1 is used when standard personnel cannot ethically or operationally be risked, but the test does not yet justify severe-contact authorization.
 
 ### E-2 — Repeated Contact
-Personnel assigned to recurring interaction with a stable but psychologically, cognitively, or biologically stressful anomaly. E-2 requires resilience review and rotation scheduling.
+Excommunicated personnel assigned to recurring interaction with a stable but psychologically, cognitively, or biologically stressful anomaly. E-2 requires resilience review and rotation scheduling even when the institution would prefer not to admit the subject can still be harmed.
 
 ### E-3 — Hazard Contact
-Personnel exposed to known active risk: memetic stress, minor biological alteration, spatial disorientation, emotional bleed, or limited temporal interference. E-3 assignments require signed command authorization and aftercare tracking.
+Excommunicated personnel exposed to known active risk: memetic stress, minor biological alteration, spatial disorientation, emotional bleed, or limited temporal interference. E-3 assignments require signed command authorization and aftercare tracking.
 
 ### E-4 — Severe Contact
-Personnel entering high-harm exposure where injury, memory discontinuity, personality disturbance, or long-term medical consequence is plausible. E-4 is not approved by local enthusiasm. It requires division command, Medical Care, and site command approval.
+Excommunicated personnel entering high-harm exposure where injury, memory discontinuity, personality disturbance, or long-term medical consequence is plausible. E-4 is not approved by local enthusiasm. It requires division command, Medical Care, and site command approval.
 
 ### E-5 — Existential Contact
-Personnel exposed to abyssal, catastrophic, identity-erasing, reality-structural, or apocalyptic conditions. E-5 is emergency-only and must be reviewed afterward even if the mission succeeds.
+Excommunicated personnel exposed to abyssal, catastrophic, identity-erasing, reality-structural, or apocalyptic conditions. E-5 is emergency-only and must be reviewed afterward even if the mission succeeds.
 
 ---
 
@@ -76,13 +78,14 @@ A.C.T recognizes that consent inside a secret institution is never simple. Clear
 
 For that reason:
 
-- E-Class assignment must be explained in task-specific language;
-- refusal must be recorded without automatic misconduct classification;
-- repeated refusal may trigger reassignment review, not punishment by default;
+- E-Class assignment must be explained in task-specific language when the individual is capable of understanding the assignment;
+- refusal must be recorded as evidence, even where refusal does not halt the assignment;
+- refusal by an Excommunicated Class subject may trigger command review, not automatic escalation to cruelty;
 - high-risk exposure cannot be approved by the same officer who benefits from the exposure result unless a second approving authority is present;
-- personnel who cannot remember consenting require immediate review before further use.
+- personnel who cannot remember consenting require immediate review before further use;
+- no file may imply that excommunication removes the fact that the subject is still a person.
 
-A.C.T does not call coerced obedience consent.
+A.C.T does not call coerced obedience consent. A.C.T may still proceed under Excommunicated Class authority, but the archive must name that act honestly.
 
 ---
 
@@ -156,7 +159,7 @@ Personnel is not dead by ordinary definition, but cannot return as the same oper
 
 ## 2.8 Rotation and Cooldown Rules
 
-E-Class and repeated-exposure personnel must rotate away from active anomaly contact when one of the following occurs:
+E-Class and repeated-exposure personnel must rotate away from active anomaly contact when one of the following occurs, unless O5 seals an emergency exception:
 
 - two WATCHED events in one assignment cycle;
 - one BRUISED event involving memory, identity, or reality-stability change;
@@ -216,12 +219,12 @@ Civilian return is not a dump site for inconvenient survivors. If A.C.T cannot s
 
 The following are prohibited under this doctrine:
 
-- assigning E-Class status as discipline;
+- assigning E-Class status as casual discipline outside formal excommunication authority;
 - hiding repeat exposure through separate site logs;
-- using amnestics to reset consent;
+- using amnestics to pretend excommunication equals consent;
 - forcing a handler to continue because a subject prefers them;
 - classifying compassion as contamination without evidence;
-- pushing BRUISED personnel into high-risk duty to meet schedule pressure;
+- pushing BRUISED E-Class personnel into high-risk duty to meet schedule pressure without recording the institutional violation;
 - keeping transformed personnel on payroll without identity review;
 - calling a person "asset" in medical-care files unless the person is no longer legally or cognitively addressable by name and O5 has sealed the reason.
 
@@ -246,5 +249,5 @@ FILE LAST UPDATED:   12/09/2026
 FILE AUTHOR:         Personnel Review / Medical Care Division
 REVIEWED BY:         Subject Care Division / Administration
 FILE STATUS:         ACTIVE
-PATH STATUS:         PATH 2 CREATED
+PATH STATUS:         PATH 2 CREATED / E-CLASS OWNER CORRECTION APPLIED
 ```
