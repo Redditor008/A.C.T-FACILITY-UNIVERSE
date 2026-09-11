@@ -78,9 +78,9 @@ The following original dossiers were directly commissioned by owner prompts. The
 - GOI-HY-U-051 - Mysterious Guild / The Guild
   - Markdown dossier (GOI-HY-U-051-Mysterious-Guild.md)
   - Plain-text reading copy (../GOI_TXT/GOI-HY-U-051-Mysterious-Guild.txt)
-- GOI-HY-N-052 - Amazoo Circus / Amazoo
-  - Markdown dossier (GOI-HY-N-052-Amazoo-Circus.md)
-  - Plain-text reading copy (../GOI_TXT/GOI-HY-N-052-Amazoo-Circus.txt)
+- GOI-HY-X-052 - Amazoo Circus / Amazoo
+  - Markdown dossier (GOI-HY-X-052-Amazoo-Circus.md)
+  - Plain-text reading copy (../GOI_TXT/GOI-HY-X-052-Amazoo-Circus.txt)
 
 Children of the Deep is a Cultic / Negative / Regional / Practitioner group assessed at Threat Level 5. Its primary active region is the Midwestern United States, and its active objective is awakening a separately sealed, apocalyptic deep-sea anomaly. Its dossier preserves the supplied redactions and keeps the target anomaly separate from the organization record.
 
@@ -99,7 +99,7 @@ The canonical registry contains the three source-anchored entries above, while a
 Registry integration (08/09/2026)
 ................................
 
-With the owner's approval, the three owner-directed original dossiers are no longer folder-only records. GOI-CU-X-048 (Children of the Deep), GOI-CP-B-049 (DREAM .INC), and GOI-ML-X-050 (Liberty Freedoms) were folded into the canonical registry on 08/09/2026: each received a classification-stack entry under the Sample GOI Entries section of Part Four and of the GOI Registry and External Threat Doctrine Archive (md and txt), and a prose subsection in the BOOK's Sample GOIs chapter. The continuity note above preserves the earlier registry state for historical record; the live registry now contains six registry-integrated entries. GOI-HY-U-051 and GOI-HY-N-052 are anomaly-anchored folder dossiers pending later registry-integration work.
+With the owner's approval, the three owner-directed original dossiers are no longer folder-only records. GOI-CU-X-048 (Children of the Deep), GOI-CP-B-049 (DREAM .INC), and GOI-ML-X-050 (Liberty Freedoms) were folded into the canonical registry on 08/09/2026: each received a classification-stack entry under the Sample GOI Entries section of Part Four and of the GOI Registry and External Threat Doctrine Archive (md and txt), and a prose subsection in the BOOK's Sample GOIs chapter. The continuity note above preserves the earlier registry state for historical record; the live registry now contains six registry-integrated entries. GOI-HY-U-051 and GOI-HY-X-052 are anomaly-anchored folder dossiers pending later registry-integration work.
 
 ==============================================================================
 

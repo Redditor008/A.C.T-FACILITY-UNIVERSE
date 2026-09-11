@@ -8,7 +8,7 @@
 ### Archive Note
 This doctrine formalizes the human side of A.C.T operations: Excommunicated Class personnel, exposure rotation, resilience review, aftercare, and the limit between necessary risk and institutional cruelty. It does not replace the Divisions and Personnel archive. It supplies the missing operational rules that keep personnel from becoming invisible equipment.
 
-Owner correction retained in this file: **E-Class means Excommunicated Class**, not Exposure-Class.
+Owner correction retained in this file: **E-Class means Excommunicated Class**. It is not a generic exposure category.
 
 ---
 
@@ -48,27 +48,27 @@ The category is deliberately ugly. A.C.T doctrine does not allow the word to bec
 
 ---
 
-## 2.3 Excommunicated Class Assignment Bands
+## 2.3 Excommunicated Class Use Categories
 
-A.C.T uses assignment bands to prevent the old error of calling every exposed worker the same thing.
+A.C.T uses contact categories to prevent the old error of calling every excommunicated person the same thing. These are not clearance levels and must not be confused with Level 0 through Level 5 access.
 
-### E-0 — Brief Exposure Reserve
-Personnel removed from normal status but held in reserve for non-contact support, observation-adjacent presence, controlled object handling, perimeter labor, and low-risk witness interaction. E-0 does not authorize direct contact with living subjects, memetic vectors, temporal loops, or transformation-active material.
+### EC-RESERVE — Brief Exposure Reserve
+Personnel removed from normal status but held in reserve for non-contact support, observation-adjacent presence, controlled object handling, perimeter labor, and low-risk witness interaction. EC-RESERVE does not authorize direct contact with living subjects, memetic vectors, temporal loops, or transformation-active material.
 
-### E-1 — Controlled Contact
-Excommunicated personnel authorized for short, supervised exposure to a verified anomaly under stable conditions. E-1 is used when standard personnel cannot ethically or operationally be risked, but the test does not yet justify severe-contact authorization.
+### EC-CONTROLLED — Controlled Contact
+Excommunicated personnel authorized for short, supervised exposure to a verified anomaly under stable conditions. EC-CONTROLLED is used when standard personnel cannot ethically or operationally be risked, but the test does not yet justify severe-contact authorization.
 
-### E-2 — Repeated Contact
-Excommunicated personnel assigned to recurring interaction with a stable but psychologically, cognitively, or biologically stressful anomaly. E-2 requires resilience review and rotation scheduling even when the institution would prefer not to admit the subject can still be harmed.
+### EC-REPEATED — Repeated Contact
+Excommunicated personnel assigned to recurring interaction with a stable but psychologically, cognitively, or biologically stressful anomaly. EC-REPEATED requires resilience review and rotation scheduling even when the institution would prefer not to admit the subject can still be harmed.
 
-### E-3 — Hazard Contact
-Excommunicated personnel exposed to known active risk: memetic stress, minor biological alteration, spatial disorientation, emotional bleed, or limited temporal interference. E-3 assignments require signed command authorization and aftercare tracking.
+### EC-HAZARD — Hazard Contact
+Excommunicated personnel exposed to known active risk: memetic stress, minor biological alteration, spatial disorientation, emotional bleed, or limited temporal interference. EC-HAZARD assignments require signed command authorization and aftercare tracking.
 
-### E-4 — Severe Contact
-Excommunicated personnel entering high-harm exposure where injury, memory discontinuity, personality disturbance, or long-term medical consequence is plausible. E-4 is not approved by local enthusiasm. It requires division command, Medical Care, and site command approval.
+### EC-SEVERE — Severe Contact
+Excommunicated personnel entering high-harm exposure where injury, memory discontinuity, personality disturbance, or long-term medical consequence is plausible. EC-SEVERE is not approved by local enthusiasm. It requires division command, Medical Care, and site command approval.
 
-### E-5 — Existential Contact
-Excommunicated personnel exposed to abyssal, catastrophic, identity-erasing, reality-structural, or apocalyptic conditions. E-5 is emergency-only and must be reviewed afterward even if the mission succeeds.
+### EC-EXISTENTIAL — Existential Contact
+Excommunicated personnel exposed to abyssal, catastrophic, identity-erasing, reality-structural, or apocalyptic conditions. EC-EXISTENTIAL is emergency-only and must be reviewed afterward even if the mission succeeds.
 
 ---
 
@@ -91,11 +91,11 @@ A.C.T does not call coerced obedience consent. A.C.T may still proceed under Exc
 
 ## 2.5 Exposure Ledger Requirement
 
-Every E-Class assignment above E-1 requires an **Exposure Ledger** entry. The entry must include:
+Every E-Class assignment above EC-CONTROLLED requires an **Exposure Ledger** entry. The entry must include:
 
 - personnel identifier;
 - anomaly designation or event code;
-- exposure band;
+- Excommunicated Class contact category;
 - duration;
 - known hazard tags;
 - observed effects;

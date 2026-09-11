@@ -5,7 +5,7 @@
 +----------------------------+-------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                               |
 +============================+=============================================================+
-| GOI DESIGNATION            | GOI-HY-N-052                                                |
+| GOI DESIGNATION            | GOI-HY-X-052                                                |
 +----------------------------+-------------------------------------------------------------+
 | COMMON NAME                | Amazoo Circus                                               |
 +----------------------------+-------------------------------------------------------------+
@@ -374,6 +374,6 @@ FILE LAST UPDATED:       12/09/2026
 FILE AUTHOR:             Intelligence Division / Subject Care Division Liaison
 REVIEWED BY:             Regional Command / Tactical Containment
 FILE STATUS:             ACTIVE / RESTRICTED / FRAGMENTED
-DESIGNATION HISTORY:     GOI-HY-N-052 created from owner-approved Circus Monster anomaly evidence
+DESIGNATION HISTORY:     GOI-HY-X-052 created from owner-approved Circus Monster anomaly evidence
 RECORD CONDITION:        OPERATIONAL WITH INTENTIONAL OPEN CONDITIONS
 ```
