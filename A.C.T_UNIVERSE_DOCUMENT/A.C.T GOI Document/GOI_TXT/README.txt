@@ -10,7 +10,7 @@ Implementation status: No live wiki work has begun.
 Folder split
 ------------
 
-GOI_MD/   <- Authoritative Markdown records, controlled form, and planning material
+GOI_MD/   <- Authoritative Markdown records, controlled forms, planning material, and recovered-document holding folder
 GOI_TXT/  <- Plain-text reading copies with the same filename base
 
 Every individual GOI dossier in GOI_MD/ has a matching .txt reading copy in GOI_TXT/. Markdown remains the authoritative editable archive source.
@@ -108,6 +108,8 @@ Planning material - not individual GOI dossiers
 
 - 00_GOI_Development_Roadmap.md (00_GOI_Development_Roadmap.md) - Retained twenty-slot structural scaffold for GOI category planning; listed names/designations are not approved GOIs.
 - 00_GOI_Record_Template.md (00_GOI_Record_Template.md) - Universal controlled in-world archive form for a future approved original GOI dossier.
+- 00_GOI_Recovered_Document_Format.md (00_GOI_Recovered_Document_Format.md) - Controlled in-world format for recovered or intercepted GOI-origin documents.
+- Recovered_Document_Records/ (Recovered_Document_Records/) - Holding folder for future recovered GOI document records.
 - README.md - This folder guide.
 
 The twenty roadmap/scaffold entries remain in the master roadmap only. They do not have individual GOI files, and their names/designations are not approved canon. Central Archive clarified that the twenty entries were meant to preserve structure, not to finalize a roster or force later selection from those names. Children of the Deep, DREAM .INC, and Liberty Freedoms are commissioned original dossiers outside that scaffold; none converts, replaces, or silently activates a scaffold slot.
