@@ -1,6 +1,11 @@
 Main Story Index
 The Facility That Forgot Its First Lie
 
+
+Continuity Policy
+- ACT_Continuity_Policy.md
+- ACT_Continuity_Policy.txt
+
 Complete Files
 - The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md
 - The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.txt
@@ -61,3 +66,4 @@ The main story is complete. It currently has:
 - Epilogue prose, with .txt twin
 - a full continuous manuscript edition
 - a complete abyssal archive compilation dossier
+- an active continuity policy defining Core Canon, Archive Canon, Story Layer, Research Layer, Docs Layer, and Crossover / Non-Core material

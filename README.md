@@ -1,6 +1,39 @@
 # A.C.T-FACILITY-UNIVERSE
 
-**Anomaly Containment Transformation (A.C.T)** — a worldbuilding project about a facility that does not merely contain anomalies: it transforms them. Built from the author's original idea layered over other publicly known projects.
+**Anomaly Containment Transformation (A.C.T)** is an original containment-fiction universe about an institution that does not stop at locking the impossible away. The Facility studies anomalies, contains them, argues over them, transforms some of them into controlled uses, refuses others, and records the cost of every decision inside an archive that is never as clean as it pretends to be.
+
+A.C.T. is built around the question: **what happens when containment becomes an engine for change instead of a permanent box?** The answer is not simple victory. Transformation creates tools, amnestics, infrastructure, cover stories, political debts, damaged personnel, false histories, and old lies that keep breathing underneath the official record.
+
+---
+
+## What the A.C.T. Universe Is
+
+A.C.T. stands for **Anomaly Containment Transformation**. In-world, it is a global hidden institution built to respond to breaks in reality: objects that should not exist, subjects that should not survive, places that do not obey geography, memories that behave like infections, gods that sleep under foundations, and files that become dangerous when read too directly.
+
+The Facility's public face is absence. Incidents become equipment failures, weather events, folklore, criminal cases, medical confusion, or records that no longer point where they used to point. Its internal face is documentation: classification manuals, floor dossiers, site registries, review boards, witness logs, amnestic histories, and contradictory archive copies that reveal as much through drift as through direct disclosure.
+
+The universe's central tension is not simply **humanity versus anomaly**. It is **containment versus transformation**:
+
+- containment asks how to keep the impossible from harming the world;
+- research asks what the impossible means;
+- transformation asks whether an anomaly can become useful without becoming an atrocity;
+- the archive asks what had to be hidden so the institution could keep functioning.
+
+A.C.T. uses other containment and facility-fiction traditions as historical research references, but the core universe is its own continuity with its own terminology, classes, sites, anomalies, ethics, and mysteries. Crossover material exists in the repository only where explicitly marked or folder-separated; it is not the default core canon.
+
+---
+
+## Tidbits / Core Identity Notes
+
+- **The Facility transforms.** A.C.T.'s signature difference is that containment is not always the final state. Some anomalies become amnestics, systems, warnings, tools, doctrine, or permanent institutional scars.
+- **The archive is a character.** Drift between records, missing context, redactions, legacy files, and archive copies are part of the setting's language.
+- **ITHYOS / ENTITY-000 is foundational.** The First Vault material is not just another anomaly file; it is tied to the origin pressure beneath the Facility and the ABYSS.
+- **NEMNOLIA matters because memory matters.** The 004-series amnestic archive is one of the clearest examples of A.C.T. converting an anomaly into an operational system while inheriting its cost.
+- **Sites are not interchangeable.** Each SITE and SUB-SITE has regional purpose, floor logic, command function, containment profile, and local narrative pressure.
+- **The ABYSS is below the floor system.** Floor designations run from **F-1** upward to surface level; below F-1 only the ABYSS access route continues.
+- **`[ BLANK ]` and `[BLANK]` are different.** `[ BLANK ]` is a spaced redaction marker. `[BLANK]` is an unspaced containment class. Do not merge them.
+- **GOIs are not only enemies.** Groups of Interest may be governments, markets, cults, companies, civil networks, rivals, witnesses, partial allies, or communities A.C.T. cannot cleanly classify.
+- **The story layer is archive-adjacent.** Main story files dramatize the institution's contradictions, especially memory, origin, ABYSS history, and the cost of official truth.
 
 ---
 
@@ -22,10 +55,10 @@ A.C.T-FACILITY-UNIVERSE/
 │   │   ├── Anomaly Modern txt/      ← modern-era files (+ Log/)
 │   │   └── ITHYOS Document/         ← ITHYOS / ENTITY-000 (ITHYOS .md, ITHYOS .txt, ITHYOS Log)
 │   ├── A.C.T GOI Document/       ← Groups of Interest (GOI_MD + GOI_TXT)
-│   ├── ACT MAIN STORY/           ← story root (Index, Archives, Chapters, Characters, Narrative, Outlines)
+│   ├── ACT MAIN STORY/           ← story root (Continuity Policy, Index, Archives, Chapters, Characters, Narrative, Outlines)
 │   ├── Junior Handbook/          ← ACT Orientation Handbook (junior/Level 1–2 edition)
 │   └── 'A History of Anomaly Containment Transformation' BOOK.md  ← in-universe history book
-├── RESEARCH FOLDER/              ← dated maintenance reviews (2026-09-06 → 2026-09-08)
+├── RESEARCH FOLDER/              ← dated maintenance reviews, research records, and provenance notes
 ├── LOGO/                         ← project logo assets (png / svg / seal)
 └── docs/                         ← future wiki/site scaffold (empty landing page)
 ```
@@ -55,7 +88,7 @@ Per the **2026-09-07 Core Worldbuilding Consistency Review** (`RESEARCH FOLDER/`
 - **Archive series** (…`_Archive.md`/`.txt` under `.md Document` / `.txt Document`) are the in-universe institutional copies of the same doctrine. Do not let them drift from the Part series.
 - **BOOK** is the in-universe *history* of A.C.T — a readable synthesis, not the doctrine source of record.
 - **Junior Handbook** is deliberately simplified for junior orientation (Level 1–2); do not force the full mid-level role ladder into it.
-- **Anomaly Modern txt / Anomaly Legacy 01** hold the actual anomaly files (`AFD-…`, `UFD-…`, `ANM-…` codes). Anomaly code families: `AFD` (anomaly), `UFD` (unfiled), `ANM` (anomaly, modern), with type codes such as OB / SU / CH / NB / ME / IH / PL / TI / ?.H.
+- **Anomaly Modern txt / Anomaly Legacy 01** hold the actual anomaly files (`AFD-…`, `UFD-…`, `ANM-…` codes). Anomaly code families: `AFD` (anomaly), `UFD` (unfiled), `ANM` (anomaly, modern), with type codes such as OB / SU / CH / NB / ME / IH / PL / SP / TI / ?.H.
 - **GOI designation** is `GOI-XX-X-XXX` (doctrine matches the GOI folder files).
 - **Floor canon**: floor designations run **F-1** (deepest numbered floor) upward to **F-N** at surface level; below F-1 only the **ABYSS** access route continues. `F-xxxx` is in-draft shorthand where the precise floor is not declassified.
 - **Site designation**: `ACT-SITE-01-US-W` / `ACT-SUB-01-US-W` style (regional codes defined by the Global Site Registry).
@@ -75,7 +108,7 @@ Per the **2026-09-07 Core Worldbuilding Consistency Review** (`RESEARCH FOLDER/`
 | Modern anomalies | `…/Anomaly Modern txt/` (+ `Log/`) | Modern-era anomaly files and dossiers, character/capability profiles |
 | ITHYOS | `…/ITHYOS Document/` (`ITHYOS .md`, `ITHYOS .txt`, `ITHYOS Log`) | ENTITY-000 ITHYOS first-vault records, modern file standard, archive copies, tales |
 | GOI | `…/A.C.T GOI Document/GOI_MD` ↔ `GOI_TXT` | Record template, development roadmap, 6 dossiers (GAA, A-GA, Anstrall, CoTD, DREAM, L.F.) |
-| Main story | `…/ACT MAIN STORY/` | Story Index, full manuscripts, chapters (1–12 + Epilogue, md+txt), Archives, Characters, Narrative, Outlines |
+| Main story | `…/ACT MAIN STORY/` | Continuity Policy, Story Index, full manuscripts, chapters (1–12 + Epilogue, md+txt), Archives, Characters, Narrative, Outlines |
 | Handbook | `…/Junior Handbook/` | `ACT_Orientation_Handbook` (md+txt) |
 | BOOK | `…/'A History of Anomaly Containment Transformation' BOOK.md` | In-universe history, md-only |
 | Reviews | `RESEARCH FOLDER/` | Dated consistency/style reviews + working/provenance notes — read before large edits |
