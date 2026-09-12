@@ -103,7 +103,7 @@ Per the **2026-09-07 Core Worldbuilding Consistency Review** (`RESEARCH FOLDER/`
 | Core doctrine (md) | `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/` | 24 top-level texts: Site Doctrine, Site Map & Jurisdiction, Global Site Registry, Classification Manual, Standard/RCT/Log-Categories formats, Reality Doctrine, Divisions & Personnel, Personnel Exposure/Excommunicated Class/Resilience Doctrine, Normalcy Management Doctrine, Transformation Review Board/Field Asset Doctrine, Standing Field Units/Cross-Containment Doctrine, Technology Timeline, Master Index 50, Visual Reference Guide, NEMNOLIA archive, and the Archive-series copies |
 | Core doctrine (txt) | `…/A.C.T .txt Document/` | Twin mirrors of all of the above (+ the 2 legacy-only records) |
 | Part series | `…/A.C.T .md Document/Part/` ↔ `…/A.C.T .txt Document/PART/` | The numbered Part One → … universe texts |
-| Operational forms | `…/Operational Forms/` (both md & txt trees) | Reusable in-world working forms, including witness statement/testimony intake and access/egress ledgers |
+| Operational forms | `…/Operational Forms/` (both md & txt trees) | Reusable in-world working forms, including witness statement/testimony intake, access/egress ledgers, and amnestic memory-aftercare review |
 | Site dossiers | `…/Site Dossier/` (both md & txt trees) | 5 `SITE` + 5 `SUB` comprehensive dossiers |
 | Floor dossiers | `…/Site Dossier/Floor Dossier/` (both trees) | 46 individual floor dossiers (SUB-04 has no floors by canon) |
 | Legacy anomalies | `…/A.C.T Anomaly Document/Anomaly Legacy 01 .txt/` (+ `Log/`, `STORY/`) and `Anomaly Legacy 01.md/` | Legacy-era files, observation logs, and the Lobotomy Corporation × A.C.T crossover story |
