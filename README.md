@@ -32,7 +32,7 @@ A.C.T. uses other containment and facility-fiction traditions as historical rese
 - **Sites are not interchangeable.** Each SITE and SUB-SITE has regional purpose, floor logic, command function, containment profile, and local narrative pressure.
 - **The ABYSS is below the floor system.** Floor designations run from **F-1** upward to surface level; below F-1 only the ABYSS access route continues.
 - **`[ BLANK ]` and `[BLANK]` are different.** `[ BLANK ]` is a spaced redaction marker. `[BLANK]` is an unspaced containment class. Do not merge them.
-- **GOIs are not only enemies.** Groups of Interest may be governments, markets, cults, companies, civil networks, rivals, witnesses, partial allies, or communities A.C.T. cannot cleanly classify.
+- **GOIs are not only enemies.** Groups of Interest may be governments, markets, cults, companies, civil networks, rivals, witnesses, allied institutions, or communities outside A.C.T.; live relationship labels are POSITIVE, NEUTRAL, NEGATIVE, and WORK.
 - **The story layer is archive-adjacent.** Main story files dramatize the institution's contradictions, especially memory, origin, ABYSS history, and the cost of official truth.
 
 ---
@@ -109,7 +109,7 @@ Per the **2026-09-07 Core Worldbuilding Consistency Review** (`RESEARCH FOLDER/`
 | Legacy anomalies | `…/A.C.T Anomaly Document/Anomaly Legacy 01 .txt/` (+ `Log/`, `STORY/`) and `Anomaly Legacy 01.md/` | Legacy-era files, observation logs, and the Lobotomy Corporation × A.C.T crossover story |
 | Modern anomalies | `…/Anomaly Modern txt/` (+ `Log/`) | Modern-era anomaly files and dossiers, character/capability profiles |
 | ITHYOS | `…/ITHYOS Document/` (`ITHYOS .md`, `ITHYOS .txt`, `ITHYOS Log`) | ENTITY-000 ITHYOS first-vault records, modern file standard, archive copies, tales |
-| GOI | `…/A.C.T GOI Document/GOI_MD` ↔ `GOI_TXT` | Record template, recovered-document format, recovered-record holding folder, development roadmap, 8 dossiers (GAA, A-GA, Anstrall, CoTD, DREAM, L.F., Mysterious Guild, Amazoo Circus) |
+| GOI | `…/A.C.T GOI Document/GOI_MD` ↔ `GOI_TXT` | Record template, recovered-document format, recovered-record holding folder, development roadmap, 9 dossiers (GAA, A-GA, Anstrall, CoTD, DREAM, L.F., Mysterious Guild, Amazoo Circus, Missing 404 Watch Tower) |
 | Main story | `…/ACT MAIN STORY/` | Continuity Policy, Story Index, full manuscripts, chapters (1–12 + Epilogue, md+txt), Archives, Characters, Narrative, Outlines |
 | Handbook | `…/Junior Handbook/` | `ACT_Orientation_Handbook` (md+txt) |
 | BOOK | `…/'A History of Anomaly Containment Transformation' BOOK.md` | In-universe history, md-only |

@@ -81,6 +81,9 @@ The following original dossiers were created under separate registry creation or
 - GOI-HY-X-052 - Amazoo Circus / Amazoo
   - Markdown dossier (GOI-HY-X-052-Amazoo-Circus.md)
   - Plain-text reading copy (../GOI_TXT/GOI-HY-X-052-Amazoo-Circus.txt)
+- GOI-HY-W-053 - Missing 404 Watch Tower / M404-WT
+  - Markdown dossier (GOI-HY-W-053-Missing-404-Watch-Tower.md)
+  - Plain-text reading copy (../GOI_TXT/GOI-HY-W-053-Missing-404-Watch-Tower.txt)
 
 Children of the Deep is a Cultic / Negative / Regional / Practitioner group assessed at Threat Level 5. Its primary active region is the Midwestern United States, and its active objective is awakening a separately sealed, apocalyptic deep-sea anomaly. Its dossier preserves the supplied redactions and keeps the target anomaly separate from the organization record.
 
@@ -92,6 +95,8 @@ Mysterious Guild is a Hybrid / Unknown / Structural / Engineering group assessed
 
 Amazoo Circus is a Hybrid / Negative / Regional / Handler group assessed at Threat Level 4 and classified Exposure-Active. It was created from the Circus Monster anomaly chain, including Operation BIG TOP, Broken Ring, the uncaptured Grand Master Amazoo / POI-0507, and the recovered diary material. Its dossier preserves open conditions around missing performers, the two young lions, the tyrant figure, emotional siphoning, and whether the erased circus can reform under another route or name.
 
+Missing 404 Watch Tower is a Hybrid / Work / Transnational / Handler group assessed at Threat Level 3 and classified Leaking. It was created as an outside observation and recovery-support GOI for Missing 404 cases, where physical disappearance overlaps with records, addresses, coordinates, files, links, or names returning not found. It is not an A.C.T unit, a single tower, or an internet-only group; it is a working outside institution that preserves absence records, missing-person continuance, dead-address ledgers, null-coordinate maps, and recovery signals.
+
 Registry-count continuity note
 ..............................
 
@@ -99,7 +104,7 @@ The canonical registry contains the three source-anchored entries above, while a
 Registry integration (08/09/2026)
 ................................
 
-With Central Archive approval, the three earlier commissioned original dossiers are no longer folder-only records. GOI-CU-X-048 (Children of the Deep), GOI-CP-B-049 (DREAM .INC), and GOI-ML-X-050 (Liberty Freedoms) were folded into the canonical registry on 08/09/2026: each received a classification-stack entry under the Sample GOI Entries section of Part Four and of the GOI Registry and External Threat Doctrine Archive (md and txt), and a prose subsection in the BOOK's Sample GOIs chapter. The continuity note above preserves the earlier registry state for historical record; the live registry now contains six registry-integrated entries. GOI-HY-U-051 and GOI-HY-X-052 are anomaly-anchored folder dossiers pending later registry-integration work.
+With Central Archive approval, the three earlier commissioned original dossiers are no longer folder-only records. GOI-CU-X-048 (Children of the Deep), GOI-CP-B-049 (DREAM .INC), and GOI-ML-X-050 (Liberty Freedoms) were folded into the canonical registry on 08/09/2026: each received a classification-stack entry under the Sample GOI Entries section of Part Four and of the GOI Registry and External Threat Doctrine Archive (md and txt), and a prose subsection in the BOOK's Sample GOIs chapter. The continuity note above preserves the earlier registry state for historical record; the live registry now contains six registry-integrated entries. GOI-HY-U-051 and GOI-HY-X-052 are anomaly-anchored folder dossiers pending later registry-integration work. GOI-HY-W-053 is a Missing 404 observation dossier pending later registry-integration work.
 
 ==============================================================================
 
