@@ -109,7 +109,7 @@ Per the **2026-09-07 Core Worldbuilding Consistency Review** (`RESEARCH FOLDER/`
 | Legacy anomalies | `…/A.C.T Anomaly Document/Anomaly Legacy 01 .txt/` (+ `Log/`, `STORY/`) and `Anomaly Legacy 01.md/` | Legacy-era files, observation logs, and the Lobotomy Corporation × A.C.T crossover story |
 | Modern anomalies | `…/Anomaly Modern txt/` (+ `Log/`) | Modern-era anomaly files and dossiers, character/capability profiles |
 | ITHYOS | `…/ITHYOS Document/` (`ITHYOS .md`, `ITHYOS .txt`, `ITHYOS Log`) | ENTITY-000 ITHYOS first-vault records, modern file standard, archive copies, tales |
-| GOI | `…/A.C.T GOI Document/GOI_MD` ↔ `GOI_TXT` | Record template, recovered-document format, recovered-record holding folder, development roadmap, 9 dossiers (GAA, A-GA, Anstrall, CoTD, DREAM, L.F., Mysterious Guild, Amazoo Circus, Missing 404 Watch Tower) |
+| GOI | `…/A.C.T GOI Document/GOI_MD` ↔ `GOI_TXT` | Record template, recovered-document format, recovered-record holding folder, development roadmap, 10 dossiers (GAA, A-GA, Anstrall, CoTD, DREAM, L.F., Mysterious Guild, Amazoo Circus, Missing 404 Watch Tower, Lullaby Works) |
 | Main story | `…/ACT MAIN STORY/` | Continuity Policy, Story Index, full manuscripts, chapters (1–12 + Epilogue, md+txt), Archives, Characters, Narrative, Outlines |
 | Handbook | `…/Junior Handbook/` | `ACT_Orientation_Handbook` (md+txt) |
 | BOOK | `…/'A History of Anomaly Containment Transformation' BOOK.md` | In-universe history, md-only |

@@ -1,6 +1,6 @@
 # A.C.T. Groups of Interest - Archive and Development Folder
 
-**Status:** Three expanded source-anchored registry dossiers, three registry-integrated original dossiers, two anomaly-anchored pending dossiers, one Missing 404 observation dossier, and one retained twenty-slot structural scaffold whose names/designations are not active canon.
+**Status:** Three expanded source-anchored registry dossiers, three registry-integrated original dossiers, two anomaly-anchored pending dossiers, one Missing 404 observation dossier, one child-protection corporate dossier, and one retained twenty-slot structural scaffold whose names/designations are not active canon.
 **Scope:** Independent A.C.T. core universe only.
 **Implementation status:** No live wiki work has begun.
 
@@ -84,6 +84,9 @@ The following original dossiers were created under separate registry creation or
 - `GOI-HY-W-053` - Missing 404 Watch Tower / M404-WT
   - [Markdown dossier](GOI-HY-W-053-Missing-404-Watch-Tower.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-HY-W-053-Missing-404-Watch-Tower.txt)
+- `GOI-CP-P-054` - Lullaby Works / LW
+  - [Markdown dossier](GOI-CP-P-054-Lullaby-Works.md)
+  - [Plain-text reading copy](../GOI_TXT/GOI-CP-P-054-Lullaby-Works.txt)
 
 Children of the Deep is a Cultic / Negative / Regional / Practitioner group assessed at Threat Level 5. Its primary active region is the Midwestern United States, and its active objective is awakening a separately sealed, apocalyptic deep-sea anomaly. Its dossier preserves the supplied redactions and keeps the target anomaly separate from the organization record.
 
@@ -97,12 +100,14 @@ Amazoo Circus is a Hybrid / Negative / Regional / Handler group assessed at Thre
 
 Missing 404 Watch Tower is a Hybrid / Work / Transnational / Handler group assessed at Threat Level 3 and classified Leaking. It was created as an outside observation and recovery-support GOI for Missing 404 cases, where physical disappearance overlaps with records, addresses, coordinates, files, links, or names returning not found. It is not an A.C.T unit, a single tower, or an internet-only group; it is a working outside institution that preserves absence records, missing-person continuance, dead-address ledgers, null-coordinate maps, and recovery signals.
 
+Lullaby Works is a Corporate / Positive / Transnational / Engineering group assessed at Threat Level 3 and classified Leaking. It is an outside child-protection manufacturer and donation network whose toys, blankets, nightlights, dolls, paper masks, music boxes, and school materials are designed to help children survive anomalous fear, sleep contamination, domestic intrusion, missing-time distress, and post-incident trauma. Its dossier preserves child-identity censorship, product-failure uncertainty, manufacturing-source gaps, and the operational rule that a protective item may be evidence while also being the child's only working boundary against a returning hazard.
+
 ### Registry-count continuity note
 
 The canonical registry contains the three source-anchored entries above, while an earlier continuity statement described the intended current setting roster as containing two GOIs. This folder preserves all three written registry entries. It does not decide which two-or-three roster interpretation is ultimately adopted, retcon an entry, or convert the twenty roadmap candidates into active groups.
 ### Registry integration (08/09/2026)
 
-With Central Archive approval, the three earlier commissioned original dossiers are no longer folder-only records. **GOI-CU-X-048** (Children of the Deep), **GOI-CP-B-049** (DREAM .INC), and **GOI-ML-X-050** (Liberty Freedoms) were folded into the canonical registry on 08/09/2026: each received a classification-stack entry under the Sample GOI Entries section of Part Four and of the GOI Registry and External Threat Doctrine Archive (md and txt), and a prose subsection in the BOOK's Sample GOIs chapter. The continuity note above preserves the earlier registry state for historical record; the live registry now contains six registry-integrated entries. GOI-HY-U-051 and GOI-HY-X-052 are anomaly-anchored folder dossiers pending later registry-integration work. GOI-HY-W-053 is a Missing 404 observation dossier pending later registry-integration work.
+With Central Archive approval, the three earlier commissioned original dossiers are no longer folder-only records. **GOI-CU-X-048** (Children of the Deep), **GOI-CP-B-049** (DREAM .INC), and **GOI-ML-X-050** (Liberty Freedoms) were folded into the canonical registry on 08/09/2026: each received a classification-stack entry under the Sample GOI Entries section of Part Four and of the GOI Registry and External Threat Doctrine Archive (md and txt), and a prose subsection in the BOOK's Sample GOIs chapter. The continuity note above preserves the earlier registry state for historical record; the live registry now contains six registry-integrated entries. GOI-HY-U-051 and GOI-HY-X-052 are anomaly-anchored folder dossiers pending later registry-integration work. GOI-HY-W-053 is a Missing 404 observation dossier pending later registry-integration work. GOI-CP-P-054 is a child-protection corporate dossier pending later registry-integration work.
 
 ---
 
