@@ -1,6 +1,6 @@
 # A.C.T. Groups of Interest - Archive and Development Folder
 
-**Status:** Three expanded source-anchored registry dossiers, three registry-integrated original dossiers, two anomaly-anchored pending dossiers, one Missing 404 observation dossier, three new corporate dossiers, three new government dossiers, and one retained twenty-slot structural scaffold whose names/designations are not active canon.
+**Status:** Three expanded source-anchored registry dossiers, three registry-integrated original dossiers, two anomaly-anchored pending dossiers, one Missing 404 observation dossier, three new corporate dossiers, four new government dossiers, and one retained twenty-slot structural scaffold whose names/designations are not active canon.
 **Scope:** Independent A.C.T. core universe only.
 **Implementation status:** No live wiki work has begun.
 
@@ -102,6 +102,9 @@ The following original dossiers were created under separate registry creation or
 - `GOI-GV-P-059` - Grey Harbor Civil Rescue Directorate / GHCRD
   - [Markdown dossier](GOI-GV-P-059-Grey-Harbor-Civil-Rescue-Directorate.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-GV-P-059-Grey-Harbor-Civil-Rescue-Directorate.txt)
+- `GOI-GV-X-060` - Office for Witness Continuance / OWC
+  - [Markdown dossier](GOI-GV-X-060-Office-for-Witness-Continuance.md)
+  - [Plain-text reading copy](../GOI_TXT/GOI-GV-X-060-Office-for-Witness-Continuance.txt)
 
 Children of the Deep is a Cultic / Negative / Regional / Practitioner group assessed at Threat Level 5. Its primary active region is the Midwestern United States, and its active objective is awakening a separately sealed, apocalyptic deep-sea anomaly. Its dossier preserves the supplied redactions and keeps the target anomaly separate from the organization record.
 
@@ -127,12 +130,14 @@ Crown Office of Ash Keys is a Government / Neutral / Regional / Handler group as
 
 Grey Harbor Civil Rescue Directorate is a Government / Positive / National / Handler group assessed at Threat Level 3 and classified Leaking. It is an outside civil-disaster, evacuation, rescue, and emergency medical authority trained to save civilians during anomaly-adjacent disasters before the public explanation is stable. Its dossier preserves casualty censorship, child-extraction route limits, responder memory-care uncertainty, restricted rescue manuals, and the operational rule that rescue begins before the explanation is safe.
 
+Office for Witness Continuance is a Government / Negative / National / Handler group assessed at Threat Level 3 and classified Leaking. It is an outside legal-state witness authority that protects anomaly survivors, families, transformed persons, and civilian testimony from forced disappearance, unreviewed amnestics, unlawful silence, and permanent removal from public record. Its dossier preserves protected-witness censorship, tribunal uncertainty, legal-act gaps, and the operational rule that the event may be sealed but the person shall not be.
+
 ### Registry-count continuity note
 
 The canonical registry contains the three source-anchored entries above, while an earlier continuity statement described the intended current setting roster as containing two GOIs. This folder preserves all three written registry entries. It does not decide which two-or-three roster interpretation is ultimately adopted, retcon an entry, or convert the twenty roadmap candidates into active groups.
 ### Registry integration (08/09/2026)
 
-With Central Archive approval, the three earlier commissioned original dossiers are no longer folder-only records. **GOI-CU-X-048** (Children of the Deep), **GOI-CP-B-049** (DREAM .INC), and **GOI-ML-X-050** (Liberty Freedoms) were folded into the canonical registry on 08/09/2026: each received a classification-stack entry under the Sample GOI Entries section of Part Four and of the GOI Registry and External Threat Doctrine Archive (md and txt), and a prose subsection in the BOOK's Sample GOIs chapter. The continuity note above preserves the earlier registry state for historical record; the live registry now contains six registry-integrated entries. GOI-HY-U-051 and GOI-HY-X-052 are anomaly-anchored folder dossiers pending later registry-integration work. GOI-HY-W-053 is a Missing 404 observation dossier pending later registry-integration work. GOI-CP-P-054 is a child-protection corporate dossier pending later registry-integration work. GOI-CP-W-055 is an infrastructure and shelter corporate dossier pending later registry-integration work. GOI-CP-P-056 is a medical restoration corporate dossier pending later registry-integration work. GOI-GV-W-057 is a border-government dossier pending later registry-integration work. GOI-GV-N-058 is an old-state relic custody dossier pending later registry-integration work. GOI-GV-P-059 is a civil rescue government dossier pending later registry-integration work.
+With Central Archive approval, the three earlier commissioned original dossiers are no longer folder-only records. **GOI-CU-X-048** (Children of the Deep), **GOI-CP-B-049** (DREAM .INC), and **GOI-ML-X-050** (Liberty Freedoms) were folded into the canonical registry on 08/09/2026: each received a classification-stack entry under the Sample GOI Entries section of Part Four and of the GOI Registry and External Threat Doctrine Archive (md and txt), and a prose subsection in the BOOK's Sample GOIs chapter. The continuity note above preserves the earlier registry state for historical record; the live registry now contains six registry-integrated entries. GOI-HY-U-051 and GOI-HY-X-052 are anomaly-anchored folder dossiers pending later registry-integration work. GOI-HY-W-053 is a Missing 404 observation dossier pending later registry-integration work. GOI-CP-P-054 is a child-protection corporate dossier pending later registry-integration work. GOI-CP-W-055 is an infrastructure and shelter corporate dossier pending later registry-integration work. GOI-CP-P-056 is a medical restoration corporate dossier pending later registry-integration work. GOI-GV-W-057 is a border-government dossier pending later registry-integration work. GOI-GV-N-058 is an old-state relic custody dossier pending later registry-integration work. GOI-GV-P-059 is a civil rescue government dossier pending later registry-integration work. GOI-GV-X-060 is a witness-continuance government dossier pending later registry-integration work.
 
 ---
 
