@@ -1,7 +1,7 @@
 A.C.T. Groups of Interest - Archive and Development Folder
 ==========================================================
 
-Status: Three expanded source-anchored registry dossiers, three registry-integrated original dossiers, two anomaly-anchored pending dossiers, one Missing 404 observation dossier, three new corporate dossiers, and one retained twenty-slot structural scaffold whose names/designations are not active canon.
+Status: Three expanded source-anchored registry dossiers, three registry-integrated original dossiers, two anomaly-anchored pending dossiers, one Missing 404 observation dossier, three new corporate dossiers, one border-government dossier, and one retained twenty-slot structural scaffold whose names/designations are not active canon.
 Scope: Independent A.C.T. core universe only.
 Implementation status: No live wiki work has begun.
 
@@ -93,6 +93,9 @@ The following original dossiers were created under separate registry creation or
 - GOI-CP-P-056 - Saint-Vera Restoration Concern / SVRC
   - Markdown dossier (GOI-CP-P-056-Saint-Vera-Restoration-Concern.md)
   - Plain-text reading copy (../GOI_TXT/GOI-CP-P-056-Saint-Vera-Restoration-Concern.txt)
+- GOI-GV-W-057 - Bureau of Unquiet Borders / BUB
+  - Markdown dossier (GOI-GV-W-057-Bureau-of-Unquiet-Borders.md)
+  - Plain-text reading copy (../GOI_TXT/GOI-GV-W-057-Bureau-of-Unquiet-Borders.txt)
 
 Children of the Deep is a Cultic / Negative / Regional / Practitioner group assessed at Threat Level 5. Its primary active region is the Midwestern United States, and its active objective is awakening a separately sealed, apocalyptic deep-sea anomaly. Its dossier preserves the supplied redactions and keeps the target anomaly separate from the organization record.
 
@@ -112,6 +115,8 @@ Cairn & Lintel is a Corporate / Work / Transnational / Engineering group assesse
 
 Saint-Vera Restoration Concern is a Corporate / Positive / Transnational / Engineering group assessed at Threat Level 4 and classified Leaking. It is an outside medical restoration, surgical, prosthetic, and survivor-aftercare network whose procedures stabilize altered bodies, restore damaged senses, preserve patient consent, and challenge A.C.T when custody moves faster than care. Its dossier preserves patient-dignity censorship, surgical-source uncertainty, failed restoration gaps, and the operational rule that an altered survivor is not evidence first.
 
+Bureau of Unquiet Borders is a Government / Work / Transnational / Handler group assessed at Threat Level 3 and classified Veiled. It is an outside state and treaty-backed border authority that handles anomalous movement across national lines, including unstable passports, disputed citizenship, quiet-line stations, sealed crossing ledgers, customs anomalies, extradition conflict, cargo nonarrival, and border routes that ordinary law cannot process. Its dossier preserves treaty-line censorship, leadership uncertainty, foreign custody limits, and the operational rule that no person becomes stateless only because the road was wrong.
+
 Registry-count continuity note
 ..............................
 
@@ -119,7 +124,7 @@ The canonical registry contains the three source-anchored entries above, while a
 Registry integration (08/09/2026)
 ................................
 
-With Central Archive approval, the three earlier commissioned original dossiers are no longer folder-only records. GOI-CU-X-048 (Children of the Deep), GOI-CP-B-049 (DREAM .INC), and GOI-ML-X-050 (Liberty Freedoms) were folded into the canonical registry on 08/09/2026: each received a classification-stack entry under the Sample GOI Entries section of Part Four and of the GOI Registry and External Threat Doctrine Archive (md and txt), and a prose subsection in the BOOK's Sample GOIs chapter. The continuity note above preserves the earlier registry state for historical record; the live registry now contains six registry-integrated entries. GOI-HY-U-051 and GOI-HY-X-052 are anomaly-anchored folder dossiers pending later registry-integration work. GOI-HY-W-053 is a Missing 404 observation dossier pending later registry-integration work. GOI-CP-P-054 is a child-protection corporate dossier pending later registry-integration work. GOI-CP-W-055 is an infrastructure and shelter corporate dossier pending later registry-integration work. GOI-CP-P-056 is a medical restoration corporate dossier pending later registry-integration work.
+With Central Archive approval, the three earlier commissioned original dossiers are no longer folder-only records. GOI-CU-X-048 (Children of the Deep), GOI-CP-B-049 (DREAM .INC), and GOI-ML-X-050 (Liberty Freedoms) were folded into the canonical registry on 08/09/2026: each received a classification-stack entry under the Sample GOI Entries section of Part Four and of the GOI Registry and External Threat Doctrine Archive (md and txt), and a prose subsection in the BOOK's Sample GOIs chapter. The continuity note above preserves the earlier registry state for historical record; the live registry now contains six registry-integrated entries. GOI-HY-U-051 and GOI-HY-X-052 are anomaly-anchored folder dossiers pending later registry-integration work. GOI-HY-W-053 is a Missing 404 observation dossier pending later registry-integration work. GOI-CP-P-054 is a child-protection corporate dossier pending later registry-integration work. GOI-CP-W-055 is an infrastructure and shelter corporate dossier pending later registry-integration work. GOI-CP-P-056 is a medical restoration corporate dossier pending later registry-integration work. GOI-GV-W-057 is a border-government dossier pending later registry-integration work.
 
 ==============================================================================
 
