@@ -1,7 +1,7 @@
 A.C.T. Groups of Interest - Archive and Development Folder
 ==========================================================
 
-Status: Three expanded source-anchored registry dossiers, three registry-integrated original dossiers, two anomaly-anchored pending dossiers, one Missing 404 observation dossier, three new corporate dossiers, four new government dossiers, three new cultic dossiers, two apocalypse-related dossiers, and one retained twenty-slot structural scaffold whose names/designations are not active canon.
+Status: Three expanded source-anchored registry dossiers, three registry-integrated original dossiers, two anomaly-anchored pending dossiers, one Missing 404 observation dossier, three new corporate dossiers, four new government dossiers, three new cultic dossiers, three apocalypse-related dossiers, and one retained twenty-slot structural scaffold whose names/designations are not active canon.
 Scope: Independent A.C.T. core universe only.
 Implementation status: No live wiki work has begun.
 
@@ -120,6 +120,9 @@ The following original dossiers were created under separate registry creation or
 - GOI-CU-X-065 - Mercy of the Quiet Sun / MQS
   - Markdown dossier (GOI-CU-X-065-Mercy-of-the-Quiet-Sun.md)
   - Plain-text reading copy (../GOI_TXT/GOI-CU-X-065-Mercy-of-the-Quiet-Sun.txt)
+- GOI-CU-W-066 - Archivists of the Final Dawn / AFDN
+  - Markdown dossier (GOI-CU-W-066-Archivists-of-the-Final-Dawn.md)
+  - Plain-text reading copy (../GOI_TXT/GOI-CU-W-066-Archivists-of-the-Final-Dawn.txt)
 
 Children of the Deep is a Cultic / Negative / Regional / Practitioner group assessed at Threat Level 5. Its primary active region is the Midwestern United States, and its active objective is awakening a separately sealed, apocalyptic deep-sea anomaly. Its dossier preserves the supplied redactions and keeps the target anomaly separate from the organization record.
 
@@ -157,6 +160,8 @@ Last Bell Congregation is a Cultic / Positive / Transnational / Practitioner gro
 
 Mercy of the Quiet Sun is a Cultic / Negative / Transnational / Practitioner group assessed at Threat Level 4 and classified Exposure-Active. It is an outside apocalypse-mercy sect that believes some endings cannot be prevented and that the final duty is to remove terror, pain, memory panic, and the violence of false hope. Its dossier preserves quieting-formula censorship, Warm Witness uncertainty, clinic-chapel gaps, and the operational rule that its mercy doctrine makes victims easier to lose.
 
+Archivists of the Final Dawn is a Cultic / Work / Transnational / Handler group assessed at Threat Level 3 and classified Leaking. It is an outside apocalypse-preservation order that collects names, maps, recipes, songs, languages, family trees, last messages, school rolls, witness boxes, and dawn copies from communities at risk of ending or erasure. Its dossier preserves final-record censorship, First Shelf uncertainty, hidden preservation-house gaps, and the operational rule that the morning after must have a memory.
+
 Registry-count continuity note
 ..............................
 
@@ -164,7 +169,7 @@ The canonical registry contains the three source-anchored entries above, while a
 Registry integration (08/09/2026)
 ................................
 
-With Central Archive approval, the three earlier commissioned original dossiers are no longer folder-only records. GOI-CU-X-048 (Children of the Deep), GOI-CP-B-049 (DREAM .INC), and GOI-ML-X-050 (Liberty Freedoms) were folded into the canonical registry on 08/09/2026: each received a classification-stack entry under the Sample GOI Entries section of Part Four and of the GOI Registry and External Threat Doctrine Archive (md and txt), and a prose subsection in the BOOK's Sample GOIs chapter. The continuity note above preserves the earlier registry state for historical record; the live registry now contains six registry-integrated entries. GOI-HY-U-051 and GOI-HY-X-052 are anomaly-anchored folder dossiers pending later registry-integration work. GOI-HY-W-053 is a Missing 404 observation dossier pending later registry-integration work. GOI-CP-P-054 is a child-protection corporate dossier pending later registry-integration work. GOI-CP-W-055 is an infrastructure and shelter corporate dossier pending later registry-integration work. GOI-CP-P-056 is a medical restoration corporate dossier pending later registry-integration work. GOI-GV-W-057 is a border-government dossier pending later registry-integration work. GOI-GV-N-058 is an old-state relic custody dossier pending later registry-integration work. GOI-GV-P-059 is a civil rescue government dossier pending later registry-integration work. GOI-GV-X-060 is a witness-continuance government dossier pending later registry-integration work. GOI-CU-P-061 is a transformation-survivor cultic dossier pending later registry-integration work. GOI-CU-X-062 is a memory-preservation cultic dossier pending later registry-integration work. GOI-CU-N-063 is a relic-custody cultic dossier pending later registry-integration work. GOI-CU-P-064 is an apocalypse-warning dossier pending later registry-integration work. GOI-CU-X-065 is an apocalypse-mercy dossier pending later registry-integration work.
+With Central Archive approval, the three earlier commissioned original dossiers are no longer folder-only records. GOI-CU-X-048 (Children of the Deep), GOI-CP-B-049 (DREAM .INC), and GOI-ML-X-050 (Liberty Freedoms) were folded into the canonical registry on 08/09/2026: each received a classification-stack entry under the Sample GOI Entries section of Part Four and of the GOI Registry and External Threat Doctrine Archive (md and txt), and a prose subsection in the BOOK's Sample GOIs chapter. The continuity note above preserves the earlier registry state for historical record; the live registry now contains six registry-integrated entries. GOI-HY-U-051 and GOI-HY-X-052 are anomaly-anchored folder dossiers pending later registry-integration work. GOI-HY-W-053 is a Missing 404 observation dossier pending later registry-integration work. GOI-CP-P-054 is a child-protection corporate dossier pending later registry-integration work. GOI-CP-W-055 is an infrastructure and shelter corporate dossier pending later registry-integration work. GOI-CP-P-056 is a medical restoration corporate dossier pending later registry-integration work. GOI-GV-W-057 is a border-government dossier pending later registry-integration work. GOI-GV-N-058 is an old-state relic custody dossier pending later registry-integration work. GOI-GV-P-059 is a civil rescue government dossier pending later registry-integration work. GOI-GV-X-060 is a witness-continuance government dossier pending later registry-integration work. GOI-CU-P-061 is a transformation-survivor cultic dossier pending later registry-integration work. GOI-CU-X-062 is a memory-preservation cultic dossier pending later registry-integration work. GOI-CU-N-063 is a relic-custody cultic dossier pending later registry-integration work. GOI-CU-P-064 is an apocalypse-warning dossier pending later registry-integration work. GOI-CU-X-065 is an apocalypse-mercy dossier pending later registry-integration work. GOI-CU-W-066 is an apocalypse-preservation dossier pending later registry-integration work.
 
 ==============================================================================
 
