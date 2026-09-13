@@ -1,0 +1,382 @@
+# A.C.T FACILITY ARCHIVE FILE
+## GROUP OF INTEREST REGISTRY - NAMEWRIGHT BAZAAR
+
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| GOI DESIGNATION            | GOI-BS-X-069                                                |
++----------------------------+-------------------------------------------------------------+
+| COMMON NAME                | Namewright Bazaar                                           |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | NBZ                                                         |
++----------------------------+-------------------------------------------------------------+
+| KNOWN ALIASES              | The Name Market; True-Name Row; Alias Fair; Paper-Mouth     |
+|                            | Bazaar; [CENSOR: FORMER CHILD LEDGER TITLE]                 |
++----------------------------+-------------------------------------------------------------+
+| NATURE CLASS               | BUSINESS                                                    |
++----------------------------+-------------------------------------------------------------+
+| ALIGNMENT CLASS            | NEGATIVE                                                    |
++----------------------------+-------------------------------------------------------------+
+| REACH CLASS                | TRANSNATIONAL                                               |
++----------------------------+-------------------------------------------------------------+
+| ANOMALOUS CAPABILITY       | PRACTITIONER                                                |
++----------------------------+-------------------------------------------------------------+
+| THREAT LEVEL               | 4                                                           |
++----------------------------+-------------------------------------------------------------+
+| SECRECY RISK               | EXPOSURE-ACTIVE                                             |
++----------------------------+-------------------------------------------------------------+
+| A.C.T POSTURE              | INFILTRATE / MISDIRECT / CONTAIN / DISMANTLE               |
++----------------------------+-------------------------------------------------------------+
+| KNOWN LEADERSHIP           | Namewrights, Mouth Factors, Ledger Mothers, Alias Cutters,  |
+|                            | Debt Registrars, and unidentified auction callers           |
++----------------------------+-------------------------------------------------------------+
+| KNOWN MEMBERSHIP           | Identity brokers, document forgers, ritual scribes,         |
+|                            | blackmail clerks, stolen-heir agents, and name collectors   |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY ACTIVE REGION      | Hidden markets, document districts, refugee routes, court   |
+|                            | archives, online identity boards, and private ceremonies    |
++----------------------------+-------------------------------------------------------------+
+| KNOWN ASSETS               | Name ledgers, alias knives, mouth contracts, stolen birth   |
+|                            | rolls, seal inks, false families, and identity rooms        |
++----------------------------+-------------------------------------------------------------+
+| KNOWN HOLDINGS             | Back-room stalls, paper vaults, witness cages, registry     |
+|                            | mirrors, mobile document vans, and dead-name cupboards      |
++----------------------------+-------------------------------------------------------------+
+| IDEOLOGY                   | A person is what can be named, bought, cut, sold, hidden,   |
+|                            | misfiled, reassigned, or spoken by someone with leverage    |
++----------------------------+-------------------------------------------------------------+
+| HISTORY WITH A.C.T         | Repeated hostile contact through missing identities, false  |
+|                            | witnesses, stolen children, court-record alteration, and    |
+|                            | post-incident survivor exploitation                         |
++----------------------------+-------------------------------------------------------------+
+| ANOMALY CROSS-REFERENCE    | Restricted identity, witness, missing-person, registry,     |
+|                            | contract, amnestic, court, and survivor-exploitation files  |
++----------------------------+-------------------------------------------------------------+
+| CURRENT STATUS             | ACTIVE - hostile identity market under dismantlement order  |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY FILE AUTHORITY     | Intelligence Division / Civil Covert / Legal / Recovery     |
++----------------------------+-------------------------------------------------------------+
+| SITE JURISDICTION          | Central Command with Site 01, Site 03, and regional review  |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4; Level 5 for child ledgers, true-name instruments,  |
+|                            | stolen witness identities, and A.C.T record penetrations    |
++----------------------------+-------------------------------------------------------------+
+```
+
+**Archive Status:** Active Restricted Record
+**Distribution:** Intelligence / Civil Covert / Legal / Recovery / Memory / Command
+**Authority:** Intelligence Division, Civil Covert Division, Legal Division, Recovery Division, Memory Review, and Central Archive
+
+### Archive Note
+Namewright Bazaar is the active business filing for an outside identity market that buys, sells, cuts, leases, disguises, stores, and weaponizes names. Its trade includes ordinary aliases, forged documents, witness redirection, stolen family names, ritual true-name fragments, dead-name shielding, custody-title substitution, legal personhood laundering, and contracts that can make a buyer easier to remember than the original person. The Bazaar is not a harmless forgery ring. It is a predatory market that treats identity as inventory.
+
+The relationship class is **NEGATIVE**. Namewright Bazaar repeatedly harms civilians, survivors, witnesses, and A.C.T operations by stealing names, replacing testimony, severing family recognition, hiding offenders under purchased identities, and selling vulnerable people into debt conditions based on who can legally or magically say their name. It is not merely illegal. Its business model depends on turning personhood into merchandise.
+
+All true-name fragments, child ledgers, active witness substitutions, and A.C.T registry penetration notes are censored under **NAMEWRIGHT DISCLOSURE LIMIT**. Some redactions prevent further harm to victims whose names remain unstable. Some prevent hostile readers from reconstructing sale methods. Some hide operational stings still inside Bazaar routes.
+
+---
+
+# IDENTITY AND INSTITUTIONAL FUNCTION
+
+## Group Function
+
+Namewright Bazaar functions as a black market for identity under abnormal conditions. It answers a demand created by hidden-world pressure: people need to vanish, inherit, testify, pass borders, evade debts, escape entities, access locked places, or become someone else. Ordinary document crime supplies one layer. The Bazaar supplies the deeper layer: names that memory accepts, names that records bend toward, names that doors answer, names that entities stop hunting, names that families forget were stolen, and names that make a body more legally real than the body that was born with them.
+
+A.C.T tracks the Bazaar because containment systems depend on reliable identity. Witness care, custody, quarantine, memory treatment, subject recovery, clearance, family notification, and normalcy doctrine all fail if names cannot be trusted. The Bazaar attacks that trust for profit.
+
+The repeated stall phrase is:
+
+```text
+EVERYONE IS SOMEONE. SOMEONE IS ALWAYS FOR SALE.
+```
+
+The phrase is not philosophy only. It is an operating proposition: a name can be separated from a person and moved through a market chain.
+
+## Public Presence and Concealment
+
+The Bazaar appears through legal-document fixers, adoption-paper consultants, refugee-route brokers, private investigators, data-cleaning firms, obituary clerks, online alias sellers, fake witness advisers, and ritual scribes working behind normal services. It does not maintain one permanent market hall. It opens as stalls: a side room at an auction, a locked office above a passport shop, a rented table behind a language school, a temporary online board, a funeral archive after closing, or a storage unit filled with filing cabinets.
+
+Public language is careful. Sellers rarely say true name. They say old paper, better name, court-safe face, clean mouth, family fit, or witness repair. Victims often do not know they have been sold until documents, memories, or relatives start answering to someone else.
+
+---
+
+# ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
+
+## Leadership Condition
+
+No central master has been confirmed. A.C.T uses the term Namewright for senior practitioners able to cut, bind, or transfer names with anomalous effect. Mouth Factors arrange contracts and introductions. Ledger Mothers maintain family rolls and child-name inventories. Alias Cutters prepare disposable identities. Debt Registrars enforce payment through legal, social, or ritual recognition. Auction Callers appear during high-value sales and may not be human in all cases.
+
+Leadership is distributed by ledger access. A person who controls a ledger controls the names inside it. That fact makes raids difficult. Destroying a ledger may free victims, kill a record, create nameless conditions, or transfer control to the last reader. Current procedure requires Memory Review before destructive action when living names are present.
+
+## Internal Structure
+
+A.C.T identifies these functional layers:
+
+- Namewrights who perform binding, severance, reassignment, and concealment rituals;
+- Mouth Factors who negotiate contracts and teach buyers how to speak purchased names;
+- Ledger Mothers who store family lines, child names, adoption paths, and inheritance hooks;
+- Alias Cutters who produce short-use identities for border, hospital, police, and hotel systems;
+- Paper Doctors who repair documents after anomalous mismatch;
+- Witness Brokers who sell replacement testimony or redirect summons;
+- Debt Registrars who bind unpaid identity services to labor, silence, or future names;
+- Recovery Men who retrieve escaped names, runaway witnesses, or unpaid buyers;
+- Cleaners who remove traces from public records after sale.
+
+The Bazaar is therefore an institution, not a loose crime trend. Its divisions support repeat trade across many regions.
+
+## Membership and Recruitment
+
+Members are recruited from document forgers, court clerks, corrupt social-service staff, funeral-home aides, data brokers, adoption intermediaries, ritual calligraphers, refugee exploiters, debt collectors, and families that have handled names as property for generations. Some participants are ordinary criminals with no anomalous knowledge. Others are full practitioners who understand that speech, handwriting, bloodline, grief, state paperwork, and memory can be made to reinforce each other.
+
+New workers are tested by asking them to misfile a living person without causing immediate death. This has been reported by two defectors but not independently verified. The phrase used in both interviews was:
+
+```text
+Can you lose a man without killing him?
+```
+
+A.C.T classifies the phrase as a training marker and possible initiation standard.
+
+---
+
+# IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
+
+## Stated Belief
+
+Namewright Bazaar does not present a public ideology, but recovered contracts repeat the same assumption: identity is transferable if enough systems agree. Those systems may be legal, familial, spiritual, archival, digital, or predatory. A birth certificate is one voice. A mother is another. A school register is another. A god, monster, house, or grave may be another. If the Bazaar can make enough voices say the buyer's chosen answer, reality begins to comply.
+
+A recovered teaching card states:
+
+```text
+A name is not owned by the mouth that first cried it.
+A name is owned by the mouths that can prove it.
+```
+
+A.C.T rejects the doctrine as hostile to personhood, witness protection, and subject care.
+
+## Assessed Objective
+
+The Bazaar seeks profit and leverage through control of identity. Its objective is not simple anonymity. Simple anonymity can be bought cheaply. The Bazaar sells recognized existence. It sells the ability to be believed as someone, to stop being hunted as someone, to become the named heir, to erase a witness, to pass as dead, to make a victim legally unreachable, or to bind a debtor's future children as payment.
+
+The objective is Negative because the Bazaar's most profitable services require coercion, theft, exploitation, and long-term harm. It benefits from displaced people, memory injury, covered incidents, family death, undocumented survivors, and institutional delay.
+
+## Anomalous Capability Assessment
+
+Namewright Bazaar is assigned **Practitioner** capability. It performs repeated name-working practices with measurable abnormal effects. Confirmed or strongly assessed capabilities include:
+
+- making public records resist correction after a false identity is installed;
+- causing witnesses to hesitate, stutter, or substitute a purchased name during testimony;
+- severing a person's recognition by specific family members or institutions;
+- transferring minor pursuit phenomena from buyer to victim through name substitution;
+- creating aliases that remain plausible across unrelated databases;
+- binding debts to future names, including unborn or unregistered children;
+- hiding offenders from entities that hunt by spoken designation;
+- creating dead-name cupboards where discarded identities continue to whisper.
+
+The Bazaar is not assessed as Engineering because its power rests in ritual, contract, speech, and ledger practice rather than device manufacture. Some instruments, such as alias knives and registry mirrors, may require separate technology or anomaly filing.
+
+## Secrecy and Civilian Exposure
+
+The Bazaar is **Exposure-Active** because its work changes public records, families, testimony, and administrative systems. It creates contradictions that ordinary authorities cannot resolve: one child with two birth histories, one corpse with an active passport, one witness who remembers the crime but not the accused's name, one survivor whose hospital file now belongs to the person who harmed them.
+
+Unlike Velvet Provenance House, which hides within elite confidentiality, Namewright Bazaar must touch public systems to make its products valuable. Every successful sale is a pressure point in normalcy.
+
+---
+
+# OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
+
+## Operational Regions
+
+Namewright Bazaar operates transnationally through document districts, court-adjacent offices, refugee routes, adoption channels, online identity boards, private collector circles, hospital discharge points, grave registries, and hidden markets. Activity has been linked to port cities, border towns, post-disaster registration centers, estate disputes, and areas where A.C.T cover stories produce large numbers of administratively displaced people.
+
+The Bazaar thrives after incidents. When names are confused, bodies are unrecovered, papers are burned, and families accept official uncertainty, identity can be moved.
+
+## Known Assets and Holdings
+
+Known or assessed assets include:
+
+- name ledgers written in multiple hands;
+- alias knives used to cut signatures, labels, bracelets, and name tags;
+- mouth contracts that require spoken acceptance;
+- stolen birth rolls;
+- adoption side-books;
+- court stamp caches;
+- registry mirrors used to compare face, paper, and remembered name;
+- dead-name cupboards containing discarded identity fragments;
+- mobile document vans;
+- witness cages used to rehearse false testimony;
+- seal inks that bleed when an original name is spoken nearby;
+- online boards that vanish when searched by the wrong legal name.
+
+A.C.T has recovered partial ledgers, two alias knives, three counterfeit court stamps, one dead-name cupboard door, and multiple victim statements. Full Bazaar books remain unrecovered.
+
+## Operating Method
+
+A typical Bazaar sale begins with a need: flee a charge, escape a pursuing entity, inherit a protected object, cross a border, silence a witness, or disappear a victim. The Mouth Factor evaluates whether the buyer needs paper, memory, family, legal, spiritual, or predatory recognition. The Ledger Mother identifies a suitable source name. The Namewright performs binding through documents, speech, signatures, hair, blood, school records, gravesoil, hospital bracelets, or photographs. The Debt Registrar writes payment terms.
+
+Payment may include money, documents, labor, favors, silence, future names, child registration rights, or the ability to call a debtor by a name they cannot refuse. This payment structure is one reason for Negative classification.
+
+Stall rules recovered from a burned document van read:
+
+```text
+Do not sell a name still screaming unless the buyer pays for the noise.
+Do not cut a mother from a child in front of the child.
+Do not promise court safety if the judge remembers faces.
+Do not take A.C.T names unless the handler pays in advance.
+No refunds after first answering.
+```
+
+The rules show internal discipline, but not ethics.
+
+---
+
+# HISTORY WITH A.C.T
+
+## Contact History
+
+A.C.T first consolidated Bazaar references after three unrelated witness failures used the same phrase: I had his name yesterday. In each case, the witness retained event memory but substituted an unrelated identity when asked to identify the perpetrator. Civil Covert traced two false identities to document fixers already connected to survivor exploitation. Recovery later seized an alias knife from a hotel room used by a missing-person broker.
+
+The most significant early case remains [CENSOR: FORMER CHILD LEDGER TITLE]. A group of children displaced by an anomalous evacuation were assigned emergency identities under public cover. Within six months, four records had been purchased, one child had two living mothers in separate databases, one family forgot the child's first name, and one offender used a purchased child-name chain to access benefits, school records, and a protected shelter. Subject Care classifies the case as active harm. Legal classifies it as evidence that Bazaar work can penetrate state systems without conventional hacking.
+
+Recovered ledger margin:
+
+```text
+Children are expensive because the world has not finished teaching them who they are.
+```
+
+This line remains Level 5 restricted.
+
+## Current Relationship
+
+The current relationship is **NEGATIVE**. A.C.T does not maintain formal cooperation with Namewright Bazaar. Stings, infiltrations, controlled purchases, and false-buyer operations are authorized when survivor safety and legal review permit. Direct raid is authorized only after Memory Review assesses ledger-destruction risk.
+
+The Bazaar attempts to identify A.C.T personnel through badge names, cover names, field aliases, medical intake records, and internal leak chains. At least one failed infiltration ended when an operative's cover name began appearing in unrelated family obituaries. The operative was withdrawn and treated under Memory Review protocol.
+
+---
+
+# A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
+
+## Responsible Jurisdiction
+
+Primary jurisdiction rests with Intelligence Division, Civil Covert Division, Legal Division, Recovery Division, and Memory Review. Subject Care attaches when victims include survivors, children, displaced families, or witnesses. Site 03 attaches when name alteration intersects amnestic history, memory instability, NEMNOLIA-class review, or public record contradiction.
+
+## Posture Implementation
+
+A.C.T posture is **INFILTRATE / MISDIRECT / CONTAIN / DISMANTLE**. Infiltration targets Mouth Factors, document vans, online boards, and low-level Alias Cutters before ledger holders are approached. Misdirection is authorized to poison buyer confidence, circulate false demand, reroute victims to protected care, or lead Bazaar sellers toward inert name bundles prepared by Memory Review.
+
+Containment applies to recovered ledgers, knives, contracts, mirrors, cupboards, seal inks, and living victims whose recognition fields remain unstable. Dismantlement targets child ledgers, witness substitution routes, A.C.T penetration attempts, and debt structures binding future names.
+
+## Response Limits and Red Lines
+
+A.C.T personnel must not speak recovered true-name fragments aloud outside approved review. Do not test a suspected alias knife on living identification. Do not separate a victim from all documents at once unless immediate harm requires it. Do not erase false records before mapping who now remembers them. Do not promise a victim that restoration will return every relationship exactly as it was.
+
+A.C.T will not allow the Bazaar to purchase survivor records, sell child identities, redirect testimony, or hide offenders under stolen names. Use of A.C.T cover identities in Bazaar trade is Command-reportable within one hour.
+
+---
+
+# OPERATIONAL RECORDS
+
+## Restricted Operational Extract
+
+```text
+INTERCEPTED SALE CARD: NBZ / PAPER-MOUTH BAZAAR
+STALL: [CENSOR: DOCUMENT DISTRICT]
+LOT: half-clean adult name; no family attachment; court-plausible; hospital weak
+PRICE: cash, one witness silence, or two future registrations
+WARNING: old debt may answer at churches
+
+Everyone is someone. Someone is always for sale.
+```
+
+A.C.T assessed the lot as a stolen emergency identity from a post-incident shelter. Hospital weak likely means medical records would not fully accept the buyer without additional alteration. The phrase old debt may answer at churches remains unresolved.
+
+```text
+VICTIM STATEMENT FRAGMENT
+
+My sister knows my face. She made tea when I came in. She asked what I wanted. I said my name three times and she cried because she thought I was saying a dead girl's name as a joke. The papers in her drawer had my handwriting on them. The photograph on the mantel had my coat. The birthday card said someone else.
+```
+
+Subject Care confirms the speaker's original identity was later partially restored. Family recognition remains incomplete.
+
+```text
+RECOVERED LEDGER STRIP
+
+Name: [CENSOR: LIVING VICTIM]
+Cut from: mother, school, west clinic, bus pass.
+Still attached: dog, scar, old neighbor, rain song.
+Buyer complaint: dreams answer wrong.
+Registrar note: collect remainder before dog dies.
+```
+
+The dog attachment is preserved as evidence that non-human recognition may resist Bazaar work.
+
+---
+
+# INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
+
+## Confirmed Operational Facts
+
+- Namewright Bazaar is an outside identity market and not an A.C.T body.
+- The Bazaar trades in ordinary and anomalous identity products.
+- Its practices can alter records, memory, testimony, family recognition, and pursuit conditions.
+- It has exploited displaced survivors and children after abnormal incidents.
+- It has attempted to penetrate or purchase A.C.T-adjacent names and cover identities.
+- It maintains ledgers and instruments that require special containment handling.
+
+## Active Intelligence Assessment
+
+A.C.T assesses Namewright Bazaar as a specialized NEGATIVE market GOI. Its recurring pressure is institutional: it attacks the assumption that a person can be found, protected, charged, treated, released, or mourned by name. It is especially dangerous in the aftermath of incidents where A.C.T normalcy work creates temporary confusion. Cover stories, evacuations, substitute death records, and emergency documents can become Bazaar raw material if not protected.
+
+The Bazaar also threatens other GOIs. Candle-Under Exchange reports bad-buyer warnings consistent with Namewright scouts seeking survivor names. Velvet Provenance House has barred at least one client for attempted heir-name purchase. Anstrall Market has sold identity lots that may have originated from Bazaar ledgers, though direct supply-chain evidence remains incomplete.
+
+## Persistent Questions
+
+- Is the Bazaar one institution, or a trade language shared by several hostile identity markets?
+- Are Ledger Mothers human title holders, inherited roles, or living ledgers using human agents?
+- How many A.C.T cover identities have been tested, priced, or sold?
+- Can a name be fully restored after being cut from family, school, clinic, and legal record at once?
+- What does old debt may answer at churches mean in sale warnings?
+- Do non-human attachments, such as pets, houses, graves, or entities, resist name theft more strongly than institutions?
+- Can NEMNOLIA-series amnestic protocols worsen name instability if used before identity mapping?
+- What happens to future children bound as payment if the original debtor dies nameless?
+
+## Intelligence Confidence
+
+Moderate to High. A.C.T has recovered instruments, sale cards, victim statements, ledgers, forged records, and repeated contract phrases from separate regions. Confidence is limited by living-name hazards, reluctance to destroy ledgers without mapping victims, and uncertainty over whether all identified stalls answer to a central Bazaar authority. Confidence may rise through controlled buyer operations and recovery of an intact child ledger under Memory Review containment.
+
+---
+
+# CROSS-REFERENCE STATUS
+
+## Anomaly and Record Relationship
+
+Namewright Bazaar is an organization and therefore belongs in the GOI archive. Individual alias knives, registry mirrors, dead-name cupboards, mouth contracts, name ledgers, seal inks, stolen identities, and altered witnesses may require separate anomaly, technology, witness, legal, memory, or recovered-document files. The GOI record must not be used as a substitute for victim restoration files.
+
+## Related A.C.T Records
+
+- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
+- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
+- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-BS-T-027-Anstrall-Market.md`
+- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-BS-P-067-Candle-Under-Exchange.md`
+- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-BS-N-068-Velvet-Provenance-House.md`
+- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/NEMNOLIA-004-Series-Amnestic-Archive.md`
+- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md`
+- Restricted identity, witness, missing-person, registry, contract, amnestic, court, and survivor-exploitation files held under Central Archive routing.
+
+## Dual Filing
+
+Mandatory. Namewright instruments and ledgers are often active hazards. Any recovered alias knife, registry mirror, mouth contract, dead-name cupboard, child ledger, or seal ink must be separately filed if it causes measurable identity, memory, testimony, legal, or pursuit alteration. Witness and Subject Care filing is mandatory for living victims.
+
+---
+
+# FILE METADATA
+
+```text
+FILE CREATED:            14/09/2026
+FILE LAST UPDATED:       14/09/2026
+FILE AUTHOR:             Intelligence Division / Civil Covert / Legal / Memory Review Joint Desk
+REVIEWED BY:             Central Archive
+FILE STATUS:             ACTIVE / RESTRICTED
+DESIGNATION HISTORY:     GOI-BS-X-069 assigned at creation for Namewright Bazaar
+RECORD CONDITION:        OPERATIONAL
+```
