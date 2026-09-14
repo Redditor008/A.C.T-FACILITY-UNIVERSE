@@ -12,12 +12,22 @@ Each technology file must identify what the technology is, who controls it, what
 Current Individual Technology Records
 -------------------------------------
 
-- TECH-HY-MED-001 - Mercy Lock Gentle Lock System / ML-GLS
-  - [Markdown record](TECH-HY-MED-001-Mercy-Lock-Gentle-Lock-System.md)
-  - [Plain-text reading copy](../TECH_TXT/TECH-HY-MED-001-Mercy-Lock-Gentle-Lock-System.txt)
-- TECH-ACT-CON-002 - Reality Stabilization Anchor System / RSA
-  - [Markdown record](TECH-ACT-CON-002-Reality-Stabilization-Anchor-System.md)
-  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-CON-002-Reality-Stabilization-Anchor-System.txt)
+- TECH-GOI-071-1 - Mercy Lock Gentle Lock System / ML-GLS
+  - [Markdown record](TECH-GOI-071-1-Mercy-Lock-Gentle-Lock-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-071-1-Mercy-Lock-Gentle-Lock-System.txt)
+- TECH-ACT-001 - Reality Stabilization Anchor System / RSA
+  - [Markdown record](TECH-ACT-001-Reality-Stabilization-Anchor-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-001-Reality-Stabilization-Anchor-System.txt)
+- TECH-ACT-002 - Anti Reality Mesh System / ARM
+  - [Markdown record](TECH-ACT-002-Anti-Reality-Mesh-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-002-Anti-Reality-Mesh-System.txt)
+
+Numbering Rule
+--------------
+
+- A.C.T-origin technology uses one sequential technology number only: TECH-ACT-001, TECH-ACT-002, and onward.
+- GOI-linked technology uses the GOI registry number plus a dash-number for that GOI's technology sequence: TECH-GOI-071-1 means the first registered technology attached to GOI number 071.
+- The dash-number is the technology number from that GOI. The three-digit number before the dash is the GOI number, not the technology sequence.
 
 Active Format Rules
 -------------------
@@ -33,4 +43,4 @@ Active Format Rules
 Current Status
 --------------
 
-TECH-HY-MED-001 establishes the archive standard through Mercy Lock Institute's gentle lock system: a nonviolent containment-door and room-interface technology used to lock the harm without locking away the person. TECH-ACT-CON-002 establishes the first expanded main A.C.T technology record for the Reality Stabilization Anchor System, the primary causal-baseline infrastructure used to keep containment rooms, transport units, and site geometry operational under anomalous pressure. Additional individual technology records should follow this structure for A.C.T systems, GOI systems, recovered devices, and recurring anomalous materials.
+TECH-GOI-071-1 establishes the archive standard through Mercy Lock Institute's gentle lock system: a nonviolent containment-door and room-interface technology used to lock the harm without locking away the person. TECH-ACT-001 establishes the first expanded main A.C.T technology record for the Reality Stabilization Anchor System, the primary causal-baseline infrastructure used to keep containment rooms, transport units, and site geometry operational under anomalous pressure. TECH-ACT-002 expands the Anti Reality Mesh System, the site-wide concealment and perceptual masking infrastructure paired with RSA across A.C.T facilities. Additional individual technology records should follow this structure for A.C.T systems, GOI systems, recovered devices, and recurring anomalous materials.

@@ -5,7 +5,7 @@
 +----------------------------+-------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                               |
 +============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-HY-MED-001                                             |
+| TECHNOLOGY DESIGNATION     | TECH-GOI-071-1                                             |
 +----------------------------+-------------------------------------------------------------+
 | TECHNOLOGY NAME            | Mercy Lock Gentle Lock System                              |
 +----------------------------+-------------------------------------------------------------+
@@ -42,7 +42,7 @@
 **Authority:** Medical Division, Containment Division, Engineering Division, Legal Division, and Central Archive
 
 ### Archive Note
-The Mercy Lock Gentle Lock System is a GOI-origin nonviolent containment technology used by Mercy Lock Institute in abnormal-care wards. It is not a single padlock. It is a room-and-door interface, restraint philosophy, patient-specific tuning process, emergency release method, and staff behavior standard arranged around one technical principle: restrict the harmful manifestation before restricting the whole person. A.C.T uses the designation TECH-HY-MED-001 because the system recurs across multiple Mercy Lock wards and is now relevant to A.C.T transfer planning, medical containment design, patient-rights review, and future technology-document development.
+The Mercy Lock Gentle Lock System is a GOI-origin nonviolent containment technology used by Mercy Lock Institute in abnormal-care wards. It is not a single padlock. It is a room-and-door interface, restraint philosophy, patient-specific tuning process, emergency release method, and staff behavior standard arranged around one technical principle: restrict the harmful manifestation before restricting the whole person. A.C.T uses the designation TECH-GOI-071-1 because the system recurs across multiple Mercy Lock wards and is now relevant to A.C.T transfer planning, medical containment design, patient-rights review, and future technology-document development.
 
 A.C.T does not possess a complete Mercy Lock schematic. A.C.T has inspected installed locks, recovered broken lock faces, observed two transfers where gentle locks prevented escalation, and reviewed partial training cards. Mercy Lock Institute has not surrendered full manufacturing notes. Current knowledge is enough for operational use and risk review, not enough for unsupervised reproduction.
 
@@ -294,6 +294,6 @@ FILE LAST UPDATED:       14/09/2026
 FILE AUTHOR:             Medical Division / Containment / Engineering / Legal Joint Desk
 REVIEWED BY:             Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     TECH-HY-MED-001 assigned at creation for Mercy Lock Gentle Lock System
+DESIGNATION HISTORY:     TECH-GOI-071-1 assigned for Mercy Lock Institute first registered technology under GOI-linked technology numbering
 RECORD CONDITION:        OPERATIONAL / PARTIAL SCHEMATIC ACCESS
 ```

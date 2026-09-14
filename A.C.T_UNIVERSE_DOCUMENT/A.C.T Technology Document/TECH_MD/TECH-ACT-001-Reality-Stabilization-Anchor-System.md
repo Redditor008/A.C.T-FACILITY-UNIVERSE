@@ -5,7 +5,7 @@
 +----------------------------+-------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                               |
 +============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-CON-002                                            |
+| TECHNOLOGY DESIGNATION     | TECH-ACT-001                                            |
 +----------------------------+-------------------------------------------------------------+
 | TECHNOLOGY NAME            | Reality Stabilization Anchor System                         |
 +----------------------------+-------------------------------------------------------------+
@@ -283,6 +283,6 @@ FILE LAST UPDATED:       14/09/2026
 FILE AUTHOR:             Engineering Division / Containment Division Joint Desk
 REVIEWED BY:             Central Archive / Site Command Technical Board
 FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     TECH-ACT-CON-002 assigned for individual RSA system expansion
+DESIGNATION HISTORY:     TECH-ACT-001 assigned for individual RSA system expansion under A.C.T-owned technology numbering
 RECORD CONDITION:        OPERATIONAL / MAIN A.C.T TECHNOLOGY RECORD
 ```
