@@ -24,6 +24,9 @@ Current Individual Technology Records
 - TECH-ACT-003 - Quantum Narrative Buffer System / QNB
   - [Markdown record](TECH-ACT-003-Quantum-Narrative-Buffer-System.md)
   - [Plain-text reading copy](../TECH_TXT/TECH-ACT-003-Quantum-Narrative-Buffer-System.txt)
+- TECH-ACT-004 - 004-Series Amnestic Compound System / 004-Series
+  - [Markdown record](TECH-ACT-004-004-Series-Amnestic-Compound-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-004-004-Series-Amnestic-Compound-System.txt)
 
 Numbering Rule
 --------------
@@ -46,4 +49,4 @@ Active Format Rules
 Current Status
 --------------
 
-TECH-GOI-071-1 establishes the archive standard through Mercy Lock Institute's gentle lock system: a nonviolent containment-door and room-interface technology used to lock the harm without locking away the person. TECH-ACT-001 establishes the first expanded main A.C.T technology record for the Reality Stabilization Anchor System, the primary causal-baseline infrastructure used to keep containment rooms, transport units, and site geometry operational under anomalous pressure. TECH-ACT-002 expands the Anti Reality Mesh System, the site-wide concealment and perceptual masking infrastructure paired with RSA across A.C.T facilities. TECH-ACT-003 expands the Quantum Narrative Buffer System, the archival causal-safeguard used to preserve records through rewrites, regressions, temporal resets, and narrative drift. Additional individual technology records should follow this structure for A.C.T systems, GOI systems, recovered devices, and recurring anomalous materials.
+TECH-GOI-071-1 establishes the archive standard through Mercy Lock Institute's gentle lock system: a nonviolent containment-door and room-interface technology used to lock the harm without locking away the person. TECH-ACT-001 establishes the first expanded main A.C.T technology record for the Reality Stabilization Anchor System, the primary causal-baseline infrastructure used to keep containment rooms, transport units, and site geometry operational under anomalous pressure. TECH-ACT-002 expands the Anti Reality Mesh System, the site-wide concealment and perceptual masking infrastructure paired with RSA across A.C.T facilities. TECH-ACT-003 expands the Quantum Narrative Buffer System, the archival causal-safeguard used to preserve records through rewrites, regressions, temporal resets, and narrative drift. TECH-ACT-004 expands the 004-Series Amnestic Compound System, the NEMNOLIA-lineage memory-control technology used for normalcy, witness sanitation, and restricted recall erasure under medical aftercare. Additional individual technology records should follow this structure for A.C.T systems, GOI systems, recovered devices, and recurring anomalous materials.
