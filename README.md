@@ -110,6 +110,7 @@ Per the **2026-09-07 Core Worldbuilding Consistency Review** (`RESEARCH FOLDER/`
 | Modern anomalies | `…/Anomaly Modern txt/` (+ `Log/`) | Modern-era anomaly files and dossiers, character/capability profiles |
 | ITHYOS | `…/ITHYOS Document/` (`ITHYOS .md`, `ITHYOS .txt`, `ITHYOS Log`) | ENTITY-000 ITHYOS first-vault records, modern file standard, archive copies, tales |
 | GOI | `…/A.C.T GOI Document/GOI_MD` ↔ `GOI_TXT` | Record template, recovered-document format, recovered-record holding folder, development roadmap, 30 dossiers (GAA, A-GA, Anstrall, CoTD, DREAM, L.F., Mysterious Guild, Amazoo Circus, Missing 404 Watch Tower, Lullaby Works, Cairn & Lintel, Saint-Vera Restoration Concern, Bureau of Unquiet Borders, Crown Office of Ash Keys, Grey Harbor Civil Rescue Directorate, Office for Witness Continuance, The Kindly Molt, Choir of the Unforgotten Name, Keepers of the Ninth Reliquary, Last Bell Congregation, Mercy of the Quiet Sun, Archivists of the Final Dawn, Candle-Under Exchange, Velvet Provenance House, Namewright Bazaar, Saint Morrow Passage, Mercy Lock Institute, Iron Meridian Authority, Lantern Accord, Ninefold Ark) |
+| Technology records | `…/A.C.T Technology Document/TECH_MD` ↔ `TECH_TXT` | Per-technology controlled records for individual A.C.T, GOI, recovered, containment, medical, field, archival, infrastructure, and abnormal-material systems; currently includes the Technology Record Template and TECH-HY-MED-001 Mercy Lock Gentle Lock System |
 | Main story | `…/ACT MAIN STORY/` | Continuity Policy, Story Index, full manuscripts, chapters (1–12 + Epilogue, md+txt), Archives, Characters, Narrative, Outlines |
 | Handbook | `…/Junior Handbook/` | `ACT_Orientation_Handbook` (md+txt) |
 | BOOK | `…/'A History of Anomaly Containment Transformation' BOOK.md` | In-universe history, md-only |
@@ -121,5 +122,6 @@ Per the **2026-09-07 Core Worldbuilding Consistency Review** (`RESEARCH FOLDER/`
 
 - **GOI development is gated**: create only approved GOIs; never batch-generate unapproved scaffold entries or scan results.
 - **Dossier files are per-item documents**: individual, un-summarized, detailed, matching the ACT archive style. No compressed or abridged notes in the RESEARCH FOLDER either (extensive `.md` only).
+- **Technology records are per-system documents**: the master technology index stays broad, while `A.C.T Technology Document` holds extended individual records with custody, function, limits, failure history, and cross-reference control.
 - New content should reference the canonical role names, the ANM code table, and the containment-class list adopted by the 2026-09-07 consistency sweep so the chosen system stays load-bearing.
 - Every completed change should be committed and pushed; keep `.md`/`.txt` twins in lockstep.
