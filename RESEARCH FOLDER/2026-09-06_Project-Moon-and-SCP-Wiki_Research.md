@@ -1162,7 +1162,7 @@ Keep the *function*, change the most source-identifying names, and clearly docum
 |---|---|---|
 | O5 Council | **Fivefold Directorate**, **Apex Five**, **The Five Hands**, or **Abyssal Oversight** | Highest authority. |
 | O5 Access | **Apex Access**, **Fivefold Clearance**, or **Abyss Seal** | Exceptional access state. |
-| E-Class | **Exposure Class**, **Restricted Exposure Personnel**, **Penalty Cohort**, or **Expendable Operations Class** | High-risk/compromised personnel status. |
+| E-Class | **Excommunicated Class** | Personnel status for individuals cut off from ordinary A.C.T trust, access, or institutional standing after severe compromise, violation, or removal from normal service. |
 | Foundation | **Facility**, **Archive**, **Directorate**, or **A.C.T. Network** | Organisation/setting description. |
 
 This is a creative recommendation, not an instruction to retroactively edit user material without approval.
