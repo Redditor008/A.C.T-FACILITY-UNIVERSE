@@ -966,3 +966,53 @@ Next prompt start action remains mandatory:
 - Verify branch state and restore exact arena branch if stale workspace drift appears again.
 - Read the next selected A.C.T source documents fully or by complete non-truncated targeted reads before drafting.
 - Continue source-backed main A.C.T technology records before GOI technology.
+
+## Prompt Start Update — 2026-09-16, Continue After Redwood Veil `TECH-ACT-126`
+New user prompt received: `p`.
+
+Required continuation state:
+
+- Continue on branch `arena/01a08e49-a-c-t-facility-universe` only.
+- Preserve completed technology records through `TECH-ACT-126`.
+- Next A.C.T-origin technology number is `TECH-ACT-127`.
+- Continue main A.C.T technology from existing A.C.T source material before GOI technology.
+- Read the next selected source documents fully or by complete non-truncated targeted reads before drafting.
+- Keep manual/direct record creation for this continuation pattern, not generator-script drafting.
+- Validate word counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world wording, pair integrity, broken local Markdown links, repository document integrity, and diff whitespace before commit.
+
+## Prompt End Update — 2026-09-16, Redwood Veil F-6/F-7/F-8 Continuation Through `TECH-ACT-129`
+Work completed during this prompt:
+
+- Prompt-start Patch Saver update was appended before continuing work.
+- Verified active branch state at the start of the continuation: `arena/01a08e49-a-c-t-facility-universe`, HEAD `6c091a0e829cc9a70f34ff20115c2674bc8a49bf`, clean before the prompt-start Patch Saver write.
+- Read selected Redwood Veil F-6, F-7, and F-8 source sections through non-truncated targeted reads before drafting, including F-6 medical isolation and cognitive care, F-7 QNB-hardened repository and retrieval doctrine, and F-8 vertical-flow personnel processing and clearance verification.
+- Created `TECH-ACT-127` Medical Isolation and Cognitive Recovery Ward System as Markdown/TXT twins.
+- Created `TECH-ACT-128` QNB-Hardened Repository and Record Retrieval System as Markdown/TXT twins.
+- Created `TECH-ACT-129` Vertical-Flow Personnel Processing and Clearance Verification System as Markdown/TXT twins.
+- Updated `TECH_MD/README.md`, `TECH_TXT/README.txt`, and root `README.md` through `TECH-ACT-129`.
+
+Validation results before staging:
+
+- `TECH-ACT-127` Markdown word count: `1243`.
+- `TECH-ACT-127` TXT word count: `1167`.
+- `TECH-ACT-128` Markdown word count: `1276`.
+- `TECH-ACT-128` TXT word count: `1198`.
+- `TECH-ACT-129` Markdown word count: `1317`.
+- `TECH-ACT-129` TXT word count: `1236`.
+- New TXT twins had no Markdown-only marker hits.
+- Old designation scan produced only known numeric-title path hits for `TECH-ACT-004` and `TECH-ACT-058`; no bad new designation strings were present in the new records.
+- No stale or misspelled E-Class wording found in the new records.
+- New technology files had no unwanted out-of-world wording hits.
+- Repo-wide document check: `DOCUMENT_COUNT 772`, `BELOW_200_COUNT 0`, `EMPTY_COUNT 0`, `NO_FINAL_NEWLINE_COUNT 0`, `UTF8_DECODE_ERROR_COUNT 0`, `EXACT_CONFLICT_MARKER_COUNT 0`.
+- Technology pair check: `TECH_MD 130`, `TECH_TXT 130`, no missing pairs.
+- GOI full tree pair check: `GOI_MD_ALL 35`, `GOI_TXT_ALL 35`, no missing pairs.
+- Broken local Markdown links: `0`.
+- Diff whitespace check before staging passed.
+
+Immediate next work after this prompt:
+
+- Stage intended files.
+- Run cached diff whitespace validation.
+- Commit and push this batch.
+- Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
+- If successful, next A.C.T-origin technology number will be `TECH-ACT-130`.
