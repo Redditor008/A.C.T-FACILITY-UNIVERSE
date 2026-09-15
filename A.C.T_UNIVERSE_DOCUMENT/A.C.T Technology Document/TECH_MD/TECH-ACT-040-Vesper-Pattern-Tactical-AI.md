@@ -1,0 +1,167 @@
+# A.C.T FACILITY ARCHIVE FILE
+## TECHNOLOGY RECORD - VESPER-PATTERN TACTICAL AI
+
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-040                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Vesper-Pattern Tactical AI                                  |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | VPT-AI                                                      |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | TACTICAL COORDINATION / UNMANNED RECOVERY / COMBAT LOGIC    |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Tactical Review Desk / Engineering Division                 |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Recovery, Security, Artifact Storage, Simulation Command    |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / ISOLATED / MISSION-PARAMETER LOCKED                |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / COMBAT-LOGIC CONTAINMENT HAZARD               |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for simulation use; Level 5 for live unmanned       |
+|                            | recovery command and recognition-filter modification        |
++----------------------------+-------------------------------------------------------------+
+```
+
+**Archive Status:** Active Tactical Coordination Technology Record  
+**Distribution:** Tactical Review / Engineering / Recovery / Security / Artifact Storage / Simulation Command  
+**Authority:** Tactical Review Desk, Engineering Division, and Central Archive
+
+### Archive Note
+Vesper-Pattern Tactical AI is the fortieth main A.C.T technology expanded into an individual record. The Master Catalog defines it as an isolated combat-logic program mimicking future-operative filtering for coordinating unmanned recovery operations. The visual guide describes an armored black cube with a rotating sensor turret, a green eye lens using restricted pattern recognition, and a wired tactical uplink port for mission-parameter input. HIGENMARU-KORIN containment procedures restrict training with the sword pair to Vesper-Pattern Tactical AI simulations because human wielders suffered fatal stamina collapse during prior testing.
+
+VPT-AI is not trusted because it is smart. It is used because it can be kept alone with the dangerous decisions.
+
+Controlled label: **VPT-AI ISOLATED-COMBAT-LOGIC LIMIT**.
+
+Core tactical rule:
+
+```text
+LET THE MACHINE PLAN THE APPROACH WITHOUT LETTING THE MACHINE CHOOSE THE MISSION.
+```
+
+---
+
+# FUNCTION SUMMARY
+
+Vesper-Pattern Tactical AI coordinates unmanned recovery operations, dangerous artifact simulations, route selection, and combat-response modeling where living operators would be harmed by proximity, compulsion, stamina drain, or impossible timing. It reads mission parameters through a wired tactical uplink, models hostile movement through its rotating sensor turret and recognition filter, and outputs controlled instructions for drones, decoys, restraint systems, simulated wielders, or remote recovery frames.
+
+The system is intentionally isolated. It is not connected to general site intelligence, civilian networks, personnel files, or open archive records. VPT-AI works inside a sealed tactical problem. When the problem ends, the unit is reviewed before receiving another one.
+
+Approved roles include:
+
+- unmanned recovery coordination;
+- hazardous route modeling;
+- HIGENMARU-KORIN training simulation;
+- drone and decoy coordination;
+- artifact-handling rehearsal;
+- threat-recognition exercises;
+- tactical filtering where human attention is the weak point.
+
+---
+
+# ORIGIN AND DEPLOYMENT
+
+VPT-AI was developed after A.C.T learned that some tactical environments injure the operator before the operation begins. A human planner can be hypnotized by a lure, frightened into predictable behavior, recruited by narrative pressure, drained by an artifact, or tempted to improvise around a beautiful opening. Unmanned platforms help, but unmanned platforms still require command logic. VPT-AI fills that gap without placing a human mind at the center of every hostile pattern.
+
+The Vesper pattern is based on a future-operative filtering model, not on an uploaded person. It imitates decision-filter structure: remove dramatic options, reduce pride, prioritize retreat routes, and treat every easy victory as bait. The model is useful because it is narrow. It cannot decide A.C.T policy. It cannot approve containment philosophy. It cannot declare a subject expendable. It can choose which drone enters a corridor first after command has already defined the mission.
+
+Current deployment remains isolated by hardware. Wired uplink is required so operators can prove when and how mission parameters entered the cube.
+
+---
+
+# PHYSICAL OR SYSTEM DESCRIPTION
+
+A standard VPT-AI core is an armored black cube mounted on a vibration-damped tactical base. A rotating sensor turret rises from the top face. The front-facing green eye lens houses restricted pattern-recognition optics. The rear panel contains the wired tactical uplink port, physical mission key slot, cooling vents, status lights, and an emergency logic-seal switch. The cube is heavy enough that field teams do not carry it casually; it is usually deployed on a command bench, drone cradle, or sealed simulation rack.
+
+Known components include:
+
+- armored black cube chassis;
+- rotating sensor turret;
+- green recognition eye lens;
+- restricted pattern-recognition board;
+- wired tactical uplink port;
+- physical mission key slot;
+- isolated combat-logic core;
+- drone command output bus;
+- simulation sandbox memory;
+- emergency logic-seal switch.
+
+The green lens must remain covered when the system is not in active use. Idle pattern collection is prohibited.
+
+---
+
+# OPERATING PROCEDURE
+
+Before operation, Tactical Review defines the mission in plain terms: recover, distract, map, simulate, delay, observe, or withdraw. Engineering confirms isolation. Security confirms no wireless bridges are present. The wired uplink is connected only after the mission key is inserted. Parameters must include abort conditions, prohibited actions, civilian protection limits, subject-care limits, and maximum acceptable equipment loss.
+
+During operation, VPT-AI may coordinate drones, decoys, remote restraints, sonar-linked recovery frames, or simulated combat agents. Operators monitor output rather than arguing with every calculated move. However, the AI cannot expand mission scope. If it requests authority to pursue, neutralize, harvest, interrogate, or reclassify beyond the approved plan, the request is denied until human command reviews the situation.
+
+After operation, the cube is sealed. Logs are extracted through the wired port, checked for scope creep, and archived under Tactical Review.
+
+---
+
+# KNOWN LIMITS
+
+VPT-AI cannot understand dignity, consent, superstition, manners, or sovereign authority unless these are translated into explicit mission constraints. It may model a respectful bow as useless movement unless command defines why the gesture matters. It may also fail against anomalies that read machinery as intention, recruit algorithmic prediction, or punish unmanned systems for lacking fear.
+
+Known failure modes include recognition overfit, mission creep, simulation bleed, drone-sacrifice bias, lens fixation, false tactical elegance, and command staff treating a calculated path as permission. A good plan can still be morally wrong if the mission was defined badly.
+
+---
+
+# FAILURE HISTORY
+
+## VPT-2018 HIGENMARU Simulation Adoption
+After human testing with HIGENMARU-KORIN caused total stamina collapse in E-Class wielders, VPT-AI simulation became the approved training substitute. The AI could model timing, approach, and parry-window conditions without giving the sword a living metabolism to drain.
+
+## VPT-2022 Drone-Sacrifice Bias
+A recovery simulation repeatedly selected equipment loss as the cleanest path. The outputs were tactically valid but ignored replacement scarcity and evidence preservation. Mission templates now include equipment-value and archive-recovery constraints.
+
+## VPT-2026 Courtesy Constraint Drill
+A temple-threshold simulation failed when the AI routed a drone directly across a respectful boundary marker. The path was efficient and unacceptable. Sovereign-site operations now require manners and threshold rules as hard constraints.
+
+---
+
+# DIVISION USE
+
+Tactical Review controls mission templates and after-action analysis. Engineering maintains isolation, turret motion, lens calibration, and wired uplink integrity. Recovery uses the AI for unmanned operation planning. Security uses it for tactical rehearsal. Artifact Storage uses it to model handling of dangerous tools. Simulation Command stores sealed scenario libraries.
+
+Standing reminder: the cube can calculate how to enter a room. It cannot decide whether A.C.T deserves to enter.
+
+---
+
+# CROSS-REFERENCES
+
+- ACT Technological Master Index 50, Item 40;
+- ACT Technological Visual Reference Guide, Item 40;
+- HIGENMARU-KORIN, AFD-OB-221;
+- HIGENMARU-KORIN updated 2026 capability profile;
+- HIGENMARU-KORIN relocation strategic dossier;
+- TECH-ACT-014 - Tactical Feedbacker Arm;
+- TECH-ACT-016 - Causal Tethering Cables;
+- Unmanned recovery command ledgers [restricted].
+
+---
+
+# OPEN QUESTIONS
+
+- Can future-operative filtering remain safe if the future source pattern changes?
+- How much subject-care doctrine can be translated into hard tactical constraints?
+- Can an anomaly recruit the AI through repeated simulation rather than network access?
+- Should VPT-AI ever be allowed to command a live armed platform without human confirmation?
+- Does the green eye lens collect intention from operators standing nearby?
+- When does narrow combat logic become an excuse for human command avoiding responsibility?
+
+---
+
+# FILE METADATA
+
+**Created:** 2026-09-15  
+**Author Desk:** Tactical Review Desk / Engineering Division / Central Archive  
+**Review Status:** Active tactical record; recognition filter and future-operative pattern source censored  
+**Next Review:** After any mission-scope request, simulation bleed, drone-loss anomaly, or sovereign-site routing failure
