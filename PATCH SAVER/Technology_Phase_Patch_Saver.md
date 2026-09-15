@@ -756,3 +756,62 @@ Next prompt start action remains mandatory:
 - Verify branch state and restore exact arena branch if stale workspace drift appears again.
 - Read the next selected A.C.T source documents fully before drafting.
 - Continue source-backed main A.C.T technology records before GOI technology.
+
+## Prompt Start Update — 2026-09-16, Continue After Kurokawa `TECH-ACT-117`
+New user prompt received: `p`.
+
+Workspace drift was detected immediately after the first prompt-start write: local HEAD had fallen back to `22c3ec5de5d0cebbcc7a33177b410ffde1f00c61` with many stale modified and untracked files. Required correction was performed before continuing:
+
+- Fetched `origin arena/01a08e49-a-c-t-facility-universe` into `refs/remotes/origin/arena/01a08e49-a-c-t-facility-universe`.
+- Hard reset local workspace to the fetched arena branch head.
+- Cleaned stale untracked files.
+- Re-applied this prompt-start Patch Saver update after reset.
+
+Required continuation state:
+
+- Continue on branch `arena/01a08e49-a-c-t-facility-universe` only.
+- Preserve completed technology records through `TECH-ACT-117`.
+- Next A.C.T-origin technology number is `TECH-ACT-118`.
+- Continue main A.C.T technology from existing A.C.T source material before GOI technology.
+- Read the next selected source documents fully or by complete non-truncated targeted reads before drafting.
+- Keep manual/direct record creation for this continuation pattern, not generator-script drafting.
+- Validate word counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world wording, pair integrity, broken local Markdown links, repository document integrity, and diff whitespace before commit.
+
+## Prompt End Update — 2026-09-16, Kurokawa F-4/F-5 Research and Redaction Continuation Through `TECH-ACT-120`
+Work completed during this prompt:
+
+- Prompt-start Patch Saver update was appended before continuing work.
+- Workspace drift was detected after the first prompt-start write; local HEAD had fallen back to base commit with stale modified and untracked files. Corrected with explicit fetch, hard reset to the arena remote branch, clean, and re-applied this prompt-start Patch Saver update before continuing.
+- Verified branch state after correction: branch `arena/01a08e49-a-c-t-facility-universe`, HEAD `60bad19acfc8442680cee44ae5c29a7b75e4fff9`.
+- Read `ACT-SITE-03-JP-E-F-4 Research and Analysis Level`, `ACT-SITE-03-JP-E-F-5 Redaction and Controlled-Reading Laboratory`, and `ACT-SITE-03-JP-E-F-6 General Records and Anomalous Intake` through non-truncated targeted reads for the new records.
+- Created `TECH-ACT-118` Symbol Behavior Controlled Observation Suites as Markdown/TXT twins.
+- Created `TECH-ACT-119` Media Propagation Tracking Center System as Markdown/TXT twins.
+- Created `TECH-ACT-120` Redaction Release Authorization and Filtering Record System as Markdown/TXT twins.
+- Updated `TECH_MD/README.md`, `TECH_TXT/README.txt`, and root `README.md` through `TECH-ACT-120`.
+
+Validation results before staging:
+
+- `TECH-ACT-118` Markdown word count: `1244`.
+- `TECH-ACT-118` TXT word count: `1166`.
+- `TECH-ACT-119` Markdown word count: `1262`.
+- `TECH-ACT-119` TXT word count: `1185`.
+- `TECH-ACT-120` Markdown word count: `1307`.
+- `TECH-ACT-120` TXT word count: `1227`.
+- Patch Saver word count before this end update: `5700`.
+- New TXT twins had no Markdown-only marker hits.
+- No old bad technology designation strings found.
+- No stale or misspelled E-Class wording found.
+- New technology files had no unwanted out-of-world wording hits.
+- Repo-wide document check: `DOCUMENT_COUNT 754`, `BELOW_200_COUNT 0`, `EMPTY_COUNT 0`, `NO_FINAL_NEWLINE_COUNT 0`, `UTF8_DECODE_ERROR_COUNT 0`, `EXACT_CONFLICT_MARKER_COUNT 0`.
+- Technology pair check: `TECH_MD 122`, `TECH_TXT 122`, no missing pairs.
+- GOI pair check: `GOI_MD 33`, `GOI_TXT 33`, no missing pairs.
+- Broken local Markdown links: `0`.
+- Diff whitespace check before staging passed.
+
+Immediate next work after this prompt:
+
+- Stage intended files.
+- Run cached diff whitespace validation.
+- Commit and push this batch.
+- Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
+- If successful, next A.C.T-origin technology number will be `TECH-ACT-121`.
