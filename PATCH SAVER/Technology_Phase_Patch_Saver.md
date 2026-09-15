@@ -1033,3 +1033,56 @@ Next prompt start action remains mandatory:
 - Verify branch state and restore exact arena branch if stale workspace drift appears again.
 - Read the next selected A.C.T source documents fully or by complete non-truncated targeted reads before drafting.
 - Continue source-backed main A.C.T technology records before GOI technology.
+
+## Prompt Start Update — 2026-09-16, Continue After Redwood Veil `TECH-ACT-129` and Count Remaining A.C.T Technology Work
+New user prompt received: `p + how many more`.
+
+Required continuation state:
+
+- Continue on branch `arena/01a08e49-a-c-t-facility-universe` only.
+- Preserve completed technology records through `TECH-ACT-129`.
+- Next A.C.T-origin technology number is `TECH-ACT-130`.
+- Continue main A.C.T technology from existing A.C.T source material before GOI technology.
+- Answer the user's "how many more" directly from repository evidence where possible; distinguish confirmed source-backed candidates from uncertain future extraction.
+- Read the next selected source documents fully or by complete non-truncated targeted reads before drafting.
+- Keep manual/direct record creation for this continuation pattern, not generator-script drafting.
+- Validate word counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world wording, pair integrity, broken local Markdown links, repository document integrity, and diff whitespace before commit.
+
+## Prompt End Update — 2026-09-16, Redwood F-9 and White Grave F-6/F-5 Continuation Through `TECH-ACT-132`
+Work completed during this prompt:
+
+- Prompt-start Patch Saver update was appended before continuing work.
+- User asked `how many more`; current evidence-based answer is that the immediate confirmed site/floor technology pass has four obvious White Grave floor-system records remaining after this batch: F-4 Research and Biological Study, F-3 Standard Deep-Isolation Holding, F-2 Entropic and Unstable Resident Holding, and F-1 The Long Sleep. This does not count later optional extraction from anomaly files, material files, or GOI-linked technology.
+- Verified active branch state at the start of the continuation: `arena/01a08e49-a-c-t-facility-universe`, HEAD `8d59f5e94f8039c265a661a577bef8807d7d1c5f`, clean before the prompt-start Patch Saver write.
+- Read selected Redwood Veil F-9, White Grave F-6, and White Grave F-5 source sections through non-truncated targeted reads before drafting, including F-9 unmarked wall and loading transition, F-6 genuine arctic research cover and seasonal transport, and F-5 long-rotation habitation with main security checkpoint.
+- Created `TECH-ACT-130` Unmarked Wall Surface Boundary and Loading Transition System as Markdown/TXT twins.
+- Created `TECH-ACT-131` Seasonal Arctic Research Cover and Transition Control System as Markdown/TXT twins.
+- Created `TECH-ACT-132` Long-Rotation Habitation and Main Security Checkpoint System as Markdown/TXT twins.
+- Updated `TECH_MD/README.md`, `TECH_TXT/README.txt`, and root `README.md` through `TECH-ACT-132`.
+
+Validation results before staging:
+
+- `TECH-ACT-130` Markdown word count: `1274`.
+- `TECH-ACT-130` TXT word count: `1198`.
+- `TECH-ACT-131` Markdown word count: `1305`.
+- `TECH-ACT-131` TXT word count: `1229`.
+- `TECH-ACT-132` Markdown word count: `1318`.
+- `TECH-ACT-132` TXT word count: `1242`.
+- New TXT twins had no Markdown-only marker hits.
+- Old designation scan produced only known numeric-title path hits for `TECH-ACT-004` and `TECH-ACT-058`; no bad new designation strings were present in the new records.
+- No stale or misspelled E-Class wording found in the new records.
+- New technology files had no unwanted out-of-world wording hits.
+- Repo-wide document check: `DOCUMENT_COUNT 778`, `BELOW_200_COUNT 0`, `EMPTY_COUNT 0`, `NO_FINAL_NEWLINE_COUNT 0`, `UTF8_DECODE_ERROR_COUNT 0`, `EXACT_CONFLICT_MARKER_COUNT 0`.
+- Technology pair check: `TECH_MD 133`, `TECH_TXT 133`, no missing pairs.
+- GOI full tree pair check: `GOI_MD_ALL 35`, `GOI_TXT_ALL 35`, no missing pairs.
+- Broken local Markdown links: `0`.
+- Diff whitespace check before staging passed.
+
+Immediate next work after this prompt:
+
+- Stage intended files.
+- Run cached diff whitespace validation.
+- Commit and push this batch.
+- Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
+- If successful, next A.C.T-origin technology number will be `TECH-ACT-133`.
+- Four obvious confirmed site/floor technology candidates remain after this batch before the immediate site/floor pass is exhausted.
