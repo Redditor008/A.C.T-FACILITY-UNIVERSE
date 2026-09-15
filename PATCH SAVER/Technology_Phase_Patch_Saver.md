@@ -832,3 +832,53 @@ Next prompt start action remains mandatory:
 - Verify branch state and restore exact arena branch if stale workspace drift appears again.
 - Read the next selected A.C.T source documents fully before drafting.
 - Continue source-backed main A.C.T technology records before GOI technology.
+
+## Prompt Start Update — 2026-09-16, Continue After Kurokawa `TECH-ACT-120`
+New user prompt received: `p`.
+
+Required continuation state:
+
+- Continue on branch `arena/01a08e49-a-c-t-facility-universe` only.
+- Preserve completed technology records through `TECH-ACT-120`.
+- Next A.C.T-origin technology number is `TECH-ACT-121`.
+- Continue main A.C.T technology from existing A.C.T source material before GOI technology.
+- Read the next selected source documents fully or by complete non-truncated targeted reads before drafting.
+- Keep manual/direct record creation for this continuation pattern, not generator-script drafting.
+- Validate word counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world wording, pair integrity, broken local Markdown links, repository document integrity, and diff whitespace before commit.
+
+## Prompt End Update — 2026-09-16, Kurokawa F-1/F-2/F-3 Deep-Archive Continuation Through `TECH-ACT-123`
+Work completed during this prompt:
+
+- Prompt-start Patch Saver update was already present before continuing work.
+- Verified active branch state at the start of the continuation: `arena/01a08e49-a-c-t-facility-universe`, HEAD `c7c15d085232b5228f31ceb81668693b398d4fc8`, with only this Patch Saver modified at that time.
+- Reran targeted, non-truncated source reads for Kurokawa F-1, F-2, and F-3 material used in this batch, including F-1 anti-reading preservation vaults and closure doctrine, F-2 Blind Box/Eye Box perception-control vaulting, and F-3 signal-isolated active anomalous document storage.
+- Created `TECH-ACT-121` Unread Archive Anti-Reading Preservation Vault System as Markdown/TXT twins.
+- Created `TECH-ACT-122` Blind Box and Eye Box Perception-Control Vault System as Markdown/TXT twins.
+- Created `TECH-ACT-123` Signal-Isolated Anomalous Document Storage System as Markdown/TXT twins.
+- Updated `TECH_MD/README.md`, `TECH_TXT/README.txt`, and root `README.md` through `TECH-ACT-123`.
+
+Validation results before staging:
+
+- `TECH-ACT-121` Markdown word count: `1288`.
+- `TECH-ACT-121` TXT word count: `1211`.
+- `TECH-ACT-122` Markdown word count: `1319`.
+- `TECH-ACT-122` TXT word count: `1239`.
+- `TECH-ACT-123` Markdown word count: `1278`.
+- `TECH-ACT-123` TXT word count: `1201`.
+- New TXT twins had no Markdown-only marker hits.
+- Old designation scan produced only known numeric-title path hits for `TECH-ACT-004` and `TECH-ACT-058`; no bad new designation strings were present in the new records.
+- No stale or misspelled E-Class wording found in the new records.
+- New technology files had no unwanted out-of-world wording hits after changing Markdown headings to `FUNCTION OUTLINE`.
+- Repo-wide document check: `DOCUMENT_COUNT 760`, `BELOW_200_COUNT 0`, `EMPTY_COUNT 0`, `NO_FINAL_NEWLINE_COUNT 0`, `UTF8_DECODE_ERROR_COUNT 0`, `EXACT_CONFLICT_MARKER_COUNT 0`.
+- Technology pair check: `TECH_MD 124`, `TECH_TXT 124`, no missing pairs.
+- GOI full tree pair check: `GOI_MD_ALL 35`, `GOI_TXT_ALL 35`, no missing pairs.
+- Broken local Markdown links: `0`.
+- Diff whitespace check before staging passed.
+
+Immediate next work after this prompt:
+
+- Stage intended files.
+- Run cached diff whitespace validation.
+- Commit and push this batch.
+- Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
+- If successful, next A.C.T-origin technology number will be `TECH-ACT-124`.
