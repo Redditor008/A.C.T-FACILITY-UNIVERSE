@@ -1305,3 +1305,16 @@ Immediate next work after this prompt:
 - Commit and push this batch.
 - Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
 - Continue Mercy Lock Institute with `TECH-GOI-071-5` next to complete its five-record set, then proceed to another GOI source dossier.
+
+## Continuation Update — 2026-09-16, Mercy Lock Institute Set Completed at `5/5`
+Additional work completed in the same continuation:
+
+- Created `TECH-GOI-071-5` Mercy Lock Shielded Ambulance Transfer System as Markdown/TXT twins from Mercy Lock source material naming shielded ambulances, interior route curtains, patient transfer agreements, portable gentle lock transfer use, patient bells, and nonviolent transfer practice.
+- Updated `TECH_MD/README.md`, `TECH_TXT/README.txt`, and root `README.md` through `TECH-GOI-071-5`.
+- Mercy Lock Institute is now `5/5` for the current GOI-acquired technology requirement.
+- Current GOI-acquired technology count is now `5/150` if the active 30 GOI dossier set is treated as the total batch scope. Remaining GOI-acquired technology work is `145/150`, beginning with the next GOI selected by source-backed acquisition evidence.
+
+Next prompt instruction:
+
+- At the start of the next prompt, append another Patch Saver prompt-start entry before continuing.
+- Continue by selecting the next GOI with source-backed acquired technology/equipment in its dossier, read the relevant dossier carefully, and create that GOI's five `TECH-GOI-xxx-y` records manually as Markdown/TXT twins.
