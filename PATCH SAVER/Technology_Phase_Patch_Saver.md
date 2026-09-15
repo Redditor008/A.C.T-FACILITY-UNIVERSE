@@ -1231,3 +1231,24 @@ Immediate next work after this prompt:
 - Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
 - If successful, immediate confirmed A.C.T site/floor technology pass is complete at `136/136`.
 - After completion, further technology work should be treated as a new extraction pass from anomaly files, material files, operational doctrine, or GOI-linked technology unless the user gives a different priority.
+
+## Post-Push Verification Update — 2026-09-16
+Technology batch commit completed and pushed:
+
+- Commit: `d9fd4b8 Add White Grave Long Sleep technology record`.
+- Verified hash: `d9fd4b823b7ff15967ff1980e56809f5862b396a`.
+- Verification result: local, remote, and `FETCH_HEAD` matched after explicit-refspec fetch.
+- Working tree was clean after the technology batch push.
+
+Current A.C.T technology count answer:
+
+- Immediate confirmed A.C.T site/floor pass is `136/136` complete.
+- Remaining in immediate confirmed A.C.T site/floor pass is `0/136`.
+- `TECH-ACT-136` is the final record in this immediate confirmed site/floor pass.
+
+Next prompt start action remains mandatory:
+
+- Update this Patch Saver first.
+- Verify branch state and restore exact arena branch if stale workspace drift appears again.
+- If user orders more technology, treat it as a new extraction pass from anomaly files, material files, operational doctrine, or GOI-linked technology unless user supplies a different priority.
+- Continue source-backed main A.C.T technology before GOI technology unless user redirects.
