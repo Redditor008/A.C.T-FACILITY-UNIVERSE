@@ -484,3 +484,54 @@ Next prompt start action remains mandatory:
 - Verify branch state and restore exact arena branch if stale workspace drift appears again.
 - Read the next selected A.C.T source documents fully before drafting.
 - Continue source-backed main A.C.T technology records before GOI technology.
+
+## Prompt Start Update — 2026-09-16, Continue After Verde Null `TECH-ACT-105`
+New user prompt received: `pp`.
+
+Required continuation state:
+
+- Continue on branch `arena/01a08e49-a-c-t-facility-universe` only.
+- Preserve the completed Verde Null technology batch through `TECH-ACT-105`.
+- Next A.C.T-origin technology number is `TECH-ACT-106`.
+- Continue main A.C.T technology from existing A.C.T source material before GOI technology.
+- Read the next selected source documents fully or by complete non-truncated targeted reads before drafting.
+- Keep using direct/manual record creation for this continuation pattern, not generator-script drafting.
+- Validate word counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world wording, pair integrity, broken local Markdown links, repository document integrity, and diff whitespace before commit.
+
+## Prompt End Update — 2026-09-16, Verde Null Command and Cover Continuation Through `TECH-ACT-108`
+Work completed during this prompt:
+
+- Prompt-start Patch Saver update was appended before continuing work.
+- Verified branch state: branch `arena/01a08e49-a-c-t-facility-universe`, HEAD `94e836092bfc39b8ac18d962626fbdd48fbc3bfb`.
+- Read the Verde Null Bio-Reserve source context and fully read F-4 Personnel and Operations Level plus F-5 Surface Research Campus without truncation.
+- Created `TECH-ACT-106` Reserve Command and Operations Coordination System as Markdown/TXT twins.
+- Created `TECH-ACT-107` Personnel Processing and Reserve Clearance System as Markdown/TXT twins.
+- Created `TECH-ACT-108` Surface Research Campus Cover Integration System as Markdown/TXT twins.
+- Updated `TECH_MD/README.md`, `TECH_TXT/README.txt`, and root `README.md` through `TECH-ACT-108`.
+
+Validation results before staging:
+
+- `TECH-ACT-106` Markdown word count: `1338`.
+- `TECH-ACT-106` TXT word count: `1257`.
+- `TECH-ACT-107` Markdown word count: `1309`.
+- `TECH-ACT-107` TXT word count: `1229`.
+- `TECH-ACT-108` Markdown word count: `1317`.
+- `TECH-ACT-108` TXT word count: `1237`.
+- Patch Saver word count before this end update: `3690`.
+- New TXT twins had no Markdown-only marker hits.
+- No old bad technology designation strings found.
+- No stale or misspelled E-Class wording found.
+- New technology files had no unwanted out-of-world wording hits.
+- Repo-wide document check: `DOCUMENT_COUNT 730`, `BELOW_200_COUNT 0`, `EMPTY_COUNT 0`, `NO_FINAL_NEWLINE_COUNT 0`, `UTF8_DECODE_ERROR_COUNT 0`, `EXACT_CONFLICT_MARKER_COUNT 0`.
+- Technology pair check: `TECH_MD 110`, `TECH_TXT 110`, no missing pairs.
+- GOI pair check: `GOI_MD 33`, `GOI_TXT 33`, no missing pairs.
+- Broken local Markdown links: `0`.
+- Diff whitespace check before staging passed.
+
+Immediate next work after this prompt:
+
+- Stage all intended files.
+- Run cached diff whitespace validation.
+- Commit and push this batch.
+- Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
+- If successful, next A.C.T-origin technology number will be `TECH-ACT-109`.
