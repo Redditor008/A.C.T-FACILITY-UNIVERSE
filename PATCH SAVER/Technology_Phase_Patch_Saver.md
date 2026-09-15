@@ -1252,3 +1252,56 @@ Next prompt start action remains mandatory:
 - Verify branch state and restore exact arena branch if stale workspace drift appears again.
 - If user orders more technology, treat it as a new extraction pass from anomaly files, material files, operational doctrine, or GOI-linked technology unless user supplies a different priority.
 - Continue source-backed main A.C.T technology before GOI technology unless user redirects.
+
+## Prompt Start Update — 2026-09-16, Begin GOI-Acquired Technology Phase After A.C.T Site/Floor `136/136`
+New user prompt received: `Then you just need to create five of each individual GOI tech that A.C.T. acquires`.
+
+Required continuation state:
+
+- Continue on branch `arena/01a08e49-a-c-t-facility-universe` only.
+- Preserve completed immediate confirmed A.C.T site/floor technology pass at `136/136`.
+- Begin GOI-acquired technology phase unless user redirects.
+- Interpret current GOI-acquired technology target as five individual acquired technology records per GOI, using GOI-linked numbering: `TECH-GOI-xxx-y`, where `xxx` is the GOI number and `y` is that GOI's individual technology number.
+- Existing GOI-linked technology before this phase is `TECH-GOI-071-1` for Mercy Lock Institute, so Mercy Lock requires four more records to reach five.
+- Continue source-backed extraction from existing GOI files before drafting. Read each selected GOI source dossier and any existing GOI tech record before adding new acquired tech.
+- Keep manual/direct record creation for this continuation pattern, not generator-script drafting.
+- Validate word counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world wording, pair integrity, broken local Markdown links, repository document integrity, and diff whitespace before commit.
+
+## Prompt End Update — 2026-09-16, GOI-Acquired Technology Phase Start Through `TECH-GOI-071-4`
+Work completed during this prompt:
+
+- Prompt-start Patch Saver update was appended before continuing work.
+- User directed creation of five acquired technology records for each individual GOI.
+- Current count interpretation: 30 active GOI dossiers times 5 technology records each equals 150 GOI-acquired technology records total. Existing `TECH-GOI-071-1` counted as 1/150 before this prompt. This prompt adds `TECH-GOI-071-2` through `TECH-GOI-071-4`, moving the GOI-acquired technology count to `4/150` complete, `146/150` remaining. Mercy Lock Institute itself is now `4/5` complete, `1/5` remaining.
+- Verified active branch state at the start of the continuation: `arena/01a08e49-a-c-t-facility-universe`, HEAD `ed9676e76002fa59f88e42dcf9aeca2d0611dddd`, clean before the prompt-start Patch Saver write.
+- Read Mercy Lock Institute GOI dossier and existing `TECH-GOI-071-1` through non-truncated targeted reads before drafting, including patient bells, consent ledgers, quiet rooms, gentle lock interface, transfer cards, Red Key failures, and hostile-use concerns.
+- Created `TECH-GOI-071-2` Mercy Lock Patient Bell Distress Signal System as Markdown/TXT twins.
+- Created `TECH-GOI-071-3` Mercy Lock Consent Ledger and Custody Status System as Markdown/TXT twins.
+- Created `TECH-GOI-071-4` Mercy Lock Quiet Room Low-Stimulation Care Architecture as Markdown/TXT twins.
+- Updated `TECH_MD/README.md`, `TECH_TXT/README.txt`, and root `README.md` through `TECH-GOI-071-4`.
+
+Validation results before staging:
+
+- `TECH-GOI-071-2` Markdown word count: `1426`.
+- `TECH-GOI-071-2` TXT word count: `1345`.
+- `TECH-GOI-071-3` Markdown word count: `1382`.
+- `TECH-GOI-071-3` TXT word count: `1301`.
+- `TECH-GOI-071-4` Markdown word count: `1328`.
+- `TECH-GOI-071-4` TXT word count: `1248`.
+- New TXT twins had no Markdown-only marker hits.
+- Old designation scan produced only known numeric-title path hits for `TECH-ACT-004` and `TECH-ACT-058`; no bad new designation strings were present in the new records.
+- No stale or misspelled E-Class wording found in the new records.
+- New technology files had no unwanted out-of-world wording hits.
+- Repo-wide document check: `DOCUMENT_COUNT 792`, `BELOW_200_COUNT 0`, `EMPTY_COUNT 0`, `NO_FINAL_NEWLINE_COUNT 0`, `UTF8_DECODE_ERROR_COUNT 0`, `EXACT_CONFLICT_MARKER_COUNT 0`.
+- Technology pair check: `TECH_MD 140`, `TECH_TXT 140`, no missing pairs.
+- GOI full tree pair check: `GOI_MD_ALL 35`, `GOI_TXT_ALL 35`, no missing pairs.
+- Broken local Markdown links: `0`.
+- Diff whitespace check before staging passed.
+
+Immediate next work after this prompt:
+
+- Stage intended files.
+- Run cached diff whitespace validation.
+- Commit and push this batch.
+- Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
+- Continue Mercy Lock Institute with `TECH-GOI-071-5` next to complete its five-record set, then proceed to another GOI source dossier.

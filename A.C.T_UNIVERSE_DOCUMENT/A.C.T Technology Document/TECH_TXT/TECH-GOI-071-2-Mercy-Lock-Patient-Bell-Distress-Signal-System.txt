@@ -1,0 +1,120 @@
+A.C.T FACILITY ARCHIVE FILE
+TECHNOLOGY RECORD - MERCY LOCK PATIENT BELL DISTRESS SIGNAL SYSTEM
+
+REGISTRY FIELD: CURRENT VALUE
+TECHNOLOGY DESIGNATION: TECH-GOI-071-2
+TECHNOLOGY NAME: Mercy Lock Patient Bell Distress Signal System
+SHORT NAME: MLPBDSS
+GOI SOURCE: GOI-HY-P-071 - Mercy Lock Institute
+TECHNOLOGY FAMILY: PATIENT SIGNAL / NONVIOLENT CUSTODY / WARD DISTRESS CALL
+A.C.T CUSTODY STATUS: ACQUIRED THROUGH COOPERATIVE TRANSFER AND INSPECTION
+PRIMARY A.C.T REVIEW: Medical Division / Subject Care / Containment / Legal
+OPERATIONAL STATUS: RESTRICTED CONSULTATION USE / PARTIAL TECHNICAL ACCESS
+RISK STATUS: SIGNAL NEGLECT / BELL REMOVAL / HOSTILE REPURPOSING
+CLEARANCE REQUIRED: Level 4; Level 5 for patient-linked tuning, living names, ward locations, and failed-bell incident files
+
+Archive Status: Active GOI-Acquired Technology Record
+Distribution: Medical / Subject Care / Containment / Legal / Intelligence / Engineering
+Authority: Medical Division, Subject Care Division, Legal Division, Intelligence Division, and Central Archive
+
+Archive Note
+Mercy Lock Patient Bell Distress Signal System is the second registered technology record derived from Mercy Lock Institute. A.C.T has observed patient bells wrapped in white cloth, bells retained during cooperative transfer, bells connected to gentle lock interfaces, and ward doctrine that treats an unanswered bell as a restraint failure rather than a minor care delay. The Red Key fragment preserved in Mercy Lock records states that a door held while a bell went unanswered for four minutes; A.C.T Medical classifies that incident as proof that the bell is part of containment, not a comfort object.
+
+MLPBDSS is acquired by A.C.T through cooperative transfers, inspected ward visits, recovered transfer cards, and inactive component review. Full patient-linked tuning remains withheld by Mercy Lock Institute.
+
+Controlled label: MLPBDSS ANSWER-THE-LOCKED-PERSON BELL.
+
+Core operating rule:
+
+IF THE ROOM CAN HOLD THE PATIENT, THE PATIENT MUST STILL BE ABLE TO REACH CARE.
+
+FUNCTION OUTLINE
+
+Mercy Lock Patient Bell Distress Signal System is a nonviolent custody signal technology used by Mercy Lock wards to let restrained, isolated, transformed, frightened, nonhuman, or cognitively unstable residents summon staff without forcing a breach, injury, shout, manifestation, or panic escalation. The bell may be physical, cloth-wrapped, skin-safe polymer housed, vibration linked, gentle-lock interfaced, or ward-distortion routed according to patient condition.
+
+The system is not an ordinary nurse-call bell. Its purpose is to preserve personhood inside containment. A resident who can signal distress can participate in care, refuse worsening conditions, request air, indicate pain, warn of manifestation onset, or interrupt staff neglect before the room becomes a prison. In Mercy Lock doctrine, a locked door must answer to someone inside it; the bell is one of the ways the door answers.
+
+Approved A.C.T use includes cooperative transfer, temporary medical containment with Mercy Lock consultation, altered-person care, nonhuman dependent care, low-violence custody, episode-linked hazard management, and review of restraint plans where ordinary alarms provoke escalation.
+
+ORIGIN, CUSTODY, AND OWNERSHIP
+
+Mercy Lock Institute appears to have developed patient bells alongside gentle locks, quiet rooms, and consent-ledger practice. A.C.T does not possess complete origin data. Some bells are mundane care tools. Some observed bells appear to signal across ward distortions or interact with gentle lock plates through vibration, proximity, name-safe contact, or staff-side acknowledgement. Mercy Lock has not confirmed which behaviors are engineered and which are anomalous.
+
+A.C.T custody is partial. Medical teams may handle inactive bells, may accept bells in transfer, and may document bell status in joint custody notes. A.C.T may not confiscate an active patient bell merely because it is anomalous if the bell is functioning as the patient's only safe communication path.
+
+PHYSICAL AND SYSTEM DESCRIPTION
+
+Observed Mercy Lock patient bells include hand bells wrapped in white cloth, soft pull-bells mounted near beds, palm-sized vibration bells, polymer call tabs, bell interfaces embedded inside gentle lock plates, and ward keys paired with staff-side chimes. Materials include treated linen, skin-safe polymer, braided copper thread, ordinary brass, acoustic felt, and soft ceramic contact plates.
+
+Known components include:
+
+- patient-side bell body;
+- cloth or polymer protective wrapping;
+- vibration or pressure contact surface;
+- staff-side chime or ward alert;
+- gentle lock interface path;
+- consent-ledger status reference;
+- emergency escalation marker;
+- maintenance and cleaning restriction tag;
+- unanswered-bell incident timer;
+- patient-specific safe-use note.
+
+A bell may be assigned to the patient rather than the room. During transfer, Mercy Lock may require the bell to stay in the patient's hand, pouch, bed rail, or visible reach.
+
+OPERATING PROCEDURE
+
+Before accepting a Mercy Lock patient bell into A.C.T custody, Medical records patient identity limits, safe name, permitted contact, escalation triggers, bell location, staff response time, whether the bell may be removed during sedation, whether it interfaces with a gentle lock, and whether family or advocate contact depends on bell use. Legal records consent status where required. Subject Care reviews bell accessibility for children, altered civilians, nonhuman dependents, and patients with unstable communication.
+
+During use, staff must answer bell activation as a containment event. The correct response is not automatically entry; it may be voice contact, vent adjustment, advocate call, window clearance, nurse approach, restraint review, or emergency release. Removing the bell to make a room quieter is prohibited unless immediate harm is proven and replacement communication is established.
+
+KNOWN LIMITS AND FAILURE CONDITIONS
+
+Patient bells can fail technically and ethically. Cloth wrapping may be removed during cleaning, blocking safe contact. Staff may ignore repeated calls. A frightened patient may ring continuously. A hostile imitator may wire a bell to compliance punishment. A bell linked to identity may stop responding when the patient's name, memory, or body state changes.
+
+Known failure modes include unanswered bell delay, bell removal, wetted cloth wrap, disinfectant damage, staff-side chime silencing, patient inability to reach bell, false activation during manifestation, hostile repurposing, gentle-lock interface fault, and paperwork treating bell status as comfort preference rather than containment condition.
+
+FAILURE HISTORY AND RECORDED INCIDENTS
+
+MLPBDSS-Red Key Bell Delay
+A recovered Red Key fragment states that the door held while the bell went unanswered for four minutes. Mercy Lock sustained an advocate complaint and suspended a Quiet Engineer. A.C.T Medical uses the fragment to teach that mechanical containment success can coexist with care failure.
+
+MLPBDSS-Transfer Retention Finding
+During a cooperative heat-manifestation transfer, A.C.T's first plan would have removed the patient's bell and added hand restraints. Mercy Lock objected. The bell remained with the patient inside a shielded pouch; heat output stayed below injury threshold.
+
+MLPBDSS-Cleaning Restriction Note
+Inactive component inspection found residue damage on a cloth-wrapped bell interface. Current handling prohibits unknown solvents and requires Medical review before wrapping removal.
+
+DIVISION USE AND REQUEST RULES
+
+Medical owns care response and patient condition tracking. Subject Care may block bell removal where communication would be erased. Containment may request bell integration for low-violence residents whose escalation begins when ignored. Engineering may inspect inactive signal paths but may not reproduce patient-linked tuning without authorization. Legal reviews consent, guardianship, and liability when bell denial contributes to injury.
+
+MLPBDSS doctrine holds that containment is not humane if the contained person has no answered way to say something is wrong.
+
+CROSS-REFERENCE STATUS
+
+- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-HY-P-071-Mercy-Lock-Institute.md
+- A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/TECH-GOI-071-1-Mercy-Lock-Gentle-Lock-System.md
+- Mercy Lock transfer cards, Red Key fragments, patient care files, and Site 02 medical-wing transfer notes [restricted]
+
+OPEN QUESTIONS
+
+- Which bells are mundane, and which use anomalous routing through ward distortion?
+- Does bell vibration communicate with gentle locks directly or only alert staff?
+- Can a bell remain patient-linked after memory, legal name, or body changes?
+- What is the maximum safe staff response time before bell neglect becomes containment failure?
+- Has Iron Meridian Authority copied patient bells into punitive restraint systems?
+- Can A.C.T build an equivalent without breaking Mercy Lock trust?
+
+Intelligence Confidence
+
+Moderate. A.C.T has observed working bells, reviewed transfer notes, and inspected inactive components. Confidence is limited by patient-specific tuning, withheld ward schematics, and uncertainty around anomalous signal behavior.
+
+FILE METADATA
+
+FILE CREATED:            16/09/2026
+FILE LAST UPDATED:       16/09/2026
+FILE AUTHOR:             Medical Division / Subject Care / Legal / Intelligence Joint Desk
+REVIEWED BY:             Central Archive
+FILE STATUS:             ACTIVE / RESTRICTED
+DESIGNATION HISTORY:     TECH-GOI-071-2 assigned for Mercy Lock Institute second registered technology under GOI-linked technology numbering
+RECORD CONDITION:        OPERATIONAL / PARTIAL TECHNICAL ACCESS
