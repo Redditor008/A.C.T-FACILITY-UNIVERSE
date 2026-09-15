@@ -1,0 +1,167 @@
+# A.C.T FACILITY ARCHIVE FILE
+## TECHNOLOGY RECORD - ABYSSAL MASONRY
+
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-033                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Abyssal Masonry                                             |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | ABM                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | STRUCTURAL MATERIAL / ABYSS FLOOR / PSYCHIC-SEISMIC DAMPING |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Engineering Division / Abyss Floor Structural Desk          |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Site Command, Heavy Containment, Artifact Storage, Archive  |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / STRUCTURAL / HIGH-DENSITY DEPLOYMENT               |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / ITHYOS-RESIDUE MATERIAL                       |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for installation support; Level 4 for composition   |
+|                            | data; Level 5 for Abyss Floor core placement                |
++----------------------------+-------------------------------------------------------------+
+```
+
+**Archive Status:** Active Structural Material Technology Record  
+**Distribution:** Engineering / Abyss Floor / Site Command / Heavy Containment / Artifact Storage / Archive  
+**Authority:** Engineering Division, Abyss Floor Structural Desk, and Central Archive
+
+### Archive Note
+Abyssal Masonry is the thirty-third main A.C.T technology expanded into an individual record. The Master Catalog defines it as a composite building material infused with ITHYOS-residue and essential for dampening seismic and psychic fluctuations on the Abyss Floor. The visual guide describes dark grey-black stone blocks with rough volcanic texture, hollowed to contain a lead-shielded restricted core designed to absorb abyssal seismic echoes. The technological timeline records its 1912 introduction as a concrete composite built to dampen seismic fluctuations within the Primary Facility. Later files place it inside Crystal Butterfly hive construction, HIGENMARU-KORIN artifact vaulting, and older deep-structure containment work.
+
+ABM is not ordinary concrete. It is a wall that remembers pressure from below.
+
+Controlled label: **ABM RESIDUE-CORE LIMIT**.
+
+Core structural rule:
+
+```text
+BUILD THE WALL TO LISTEN BEFORE THE FLOOR STARTS SPEAKING.
+```
+
+---
+
+# FUNCTION SUMMARY
+
+Abyssal Masonry is a high-density structural composite used where ordinary stone, reinforced concrete, steel, and lead fail to stay quiet under deep anomaly pressure. It dampens seismic movement, psychic fluctuation, abyssal echo, and limited resonance bleed. It is most closely associated with the Abyss Floor, but modified blocks also appear in artifact lockers, bio-hive reinforcement, heavy containment foundations, and corridors where vibration from below must be treated as a containment signal rather than a construction inconvenience.
+
+The material works by combining dense mineral aggregate, engineered binding layers, ITHYOS-residue infusion, and an internal lead-shielded restricted core. The core does not make the block alive. It gives the block a place to swallow echo without returning it immediately into the room.
+
+Approved roles include:
+
+- Abyss Floor wall and floor reinforcement;
+- seismic fluctuation dampening;
+- psychic pressure reduction;
+- artifact locker lining;
+- structural joints in high-threat chambers;
+- heavy-entity shielding support;
+- reinforcement pairing with Refined Steel-Dirt and anchor plating.
+
+---
+
+# ORIGIN AND DEVELOPMENT
+
+Abyssal Masonry entered A.C.T use in 1912, after deep facility work proved that ordinary architecture could transmit too much of the underground pressure it was meant to resist. Early builders tried iron, lead, stone, and layered concrete. These materials could hold weight, but they did not hold silence. Seismic motion became psychic vibration. Psychic vibration became staff symptoms. Staff symptoms became documentation gaps and maintenance injuries.
+
+The 1912 formulation added restricted abyssal residue to a concrete-like composite and gave each block an internal absorption path. The result was a construction material that behaved less like a wall and more like a dampener. It did not cancel the deep pressure. It spread, slowed, and buried it long enough for other systems to work.
+
+Current ABM doctrine recognizes that the material is foundational but not final. HIGENMARU-KORIN reached through Abyssal Masonry during the Site-01 resonance leak, draining nearby technicians despite vault lining. That failure did not make ABM useless. It proved that a wall can dampen pressure without defeating a hungry will.
+
+---
+
+# PHYSICAL OR SYSTEM DESCRIPTION
+
+A standard ABM block is dark grey-black with a rough volcanic texture. It feels colder and heavier than standard concrete. Each block is hollowed around an internal lead-shielded restricted core. The surface may show faint tooling seams, anchor sockets, or joint channels depending on site generation. Blocks installed in older corridors are usually larger and less regular. Modern blocks are manufactured for easier replacement, but their composition remains restricted.
+
+Known components include:
+
+- high-density mineral aggregate;
+- abyssal residue infusion layer;
+- lead-shielded restricted core;
+- seismic echo absorption channel;
+- cold-binding structural matrix;
+- joint-lock grooves;
+- resonance survey marks;
+- installation orientation code;
+- surface abrasion layer;
+- maintenance sampling plug.
+
+ABM should never be cut with ordinary tools. Approved modification requires Engineering oversight and, where Pale Wood or Dark World material is involved, gold-tipped drilling or other specialized interface procedures.
+
+---
+
+# OPERATING PROCEDURE
+
+Before installation, Engineering surveys the site for seismic profile, psychic pressure, floor drift, existing RSA coverage, nearby subject class, and maintenance access. Blocks are logged individually. Orientation matters. A block placed backward may still function as mass but may return echo through the wrong face. Lead-shield integrity is inspected before placement.
+
+During installation, staff avoid exposing the internal core. If a core is visible, work stops until shielding review. Fresh ABM should not be installed near active HPP screening gates, open amnestic storage, or unstable narrative archives without cross-division review because residue noise may interfere with readings.
+
+After installation, the wall is listened to. Engineering performs vibration taps, Digital Resonance Sensor checks, thermal comparison, and long-period quiet observation. A stable wall is not silent because nothing is happening. It is silent because pressure is being carried correctly.
+
+---
+
+# KNOWN LIMITS
+
+Abyssal Masonry does not make an enclosure absolute. It can dampen seismic and psychic fluctuation, but it cannot guarantee containment of entities that cut through causal relationships, siphon biological energy through walls, rewrite architecture, or treat matter as suggestion. ABM can reduce symptoms while hiding escalation if staff assume the wall is enough.
+
+Known failure modes include core saturation, joint cracking, echo return, cold seep, psychic hum, residue shedding, improper orientation, tool contamination, and overconfidence by vault teams. Blocks exposed to Honey Obsidian, High-Density Liquid Lead, Refined Steel-Dirt, or gold-tool modification require separate inspection because the joint behavior may change.
+
+---
+
+# FAILURE HISTORY
+
+## ABM-1912 First Quiet Corridor
+Early Primary Facility installation reduced measurable floor vibration but caused staff to report the corridor felt like it was listening. The report was retained. Listening sensation is not treated as failure unless accompanied by directional whisper, pulse matching, or heat loss.
+
+## ABM-2008 Crystal Butterfly Reinforcement
+AFD-NB-325 built hive surfaces over Refined Steel-Dirt and Abyssal Masonry, then coated the structure with Harden Obsidian. The colony's use of ABM confirmed that some anomalous builders recognize the material as durable substrate. Bio-Hazard now treats stolen or incorporated ABM as part of the containment ecology rather than inert debris.
+
+## ABM-2025 HIGENMARU Resonance Leak
+HIGENMARU began reaching through a Site-01 vault lined with Abyssal Masonry, producing stamina spikes and severe lethargy in nearby technicians. The event confirmed that ABM dampens pressure but cannot block all will-bearing predatory resonance. The sword pair was later relocated to Kazumi Temple.
+
+---
+
+# DIVISION USE
+
+Engineering controls production, installation, repair, and core inspection. Abyss Floor Structural Desk manages deep-site loads. Heavy Containment uses ABM in high-density walls, floors, and massive enclosure supports. Artifact Storage uses it as vault lining when resonance dampening is more important than visibility. Archive stores composition records under restricted material handling. Site Command approves any removal from primary structure.
+
+Standing reminder: if a wall feels quiet, ask what it is carrying.
+
+---
+
+# CROSS-REFERENCES
+
+- ACT Technological Master Index 50, Item 20;
+- ACT Technological Visual Reference Guide, Item 20;
+- ACT Technological Evolution Timeline, 1912 Abyssal Masonry entry;
+- Crystal Butterfly, AFD-NB-325;
+- HIGENMARU-KORIN, AFD-OB-221;
+- HIGENMARU-KORIN Relocation Strategic Dossier;
+- TECH-ACT-027 - Gold-Tipped Mining Drills;
+- Abyssal Anchor Plating, Item 34.
+
+---
+
+# OPEN QUESTIONS
+
+- How much ITHYOS-residue can a block carry before it becomes a source instead of a sink?
+- Can ABM be safely recycled after exposure to living artifacts?
+- Does the listening sensation come from residue behavior, staff expectation, or actual echo retention?
+- Should ABM corridors require periodic HPP personnel exclusion?
+- Can Honey Obsidian reinforcement improve joints without trapping hostile vibration inside them?
+- When should an ABM failure trigger relocation rather than wall replacement?
+
+---
+
+# FILE METADATA
+
+**Created:** 2026-09-15  
+**Author Desk:** Engineering Division / Abyss Floor Structural Desk / Central Archive  
+**Review Status:** Active structural record; residue composition and core design censored  
+**Next Review:** After any core saturation, resonance leak, structural breach, or Abyss Floor seismic event
