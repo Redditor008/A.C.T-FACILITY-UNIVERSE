@@ -688,3 +688,54 @@ Next prompt start action remains mandatory:
 - Verify branch state and restore exact arena branch if stale workspace drift appears again.
 - Read the next selected A.C.T source documents fully before drafting.
 - Continue source-backed main A.C.T technology records before GOI technology.
+
+## Prompt Start Update — 2026-09-16, Continue After Nusantara `TECH-ACT-114`
+New user prompt received: `p`.
+
+Required continuation state:
+
+- Continue on branch `arena/01a08e49-a-c-t-facility-universe` only.
+- Preserve completed technology records through `TECH-ACT-114`.
+- Next A.C.T-origin technology number is `TECH-ACT-115`.
+- Continue main A.C.T technology from existing A.C.T source material before GOI technology.
+- Read the next selected source documents fully or by complete non-truncated targeted reads before drafting.
+- Keep manual/direct record creation for this continuation pattern, not generator-script drafting.
+- Validate word counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world wording, pair integrity, broken local Markdown links, repository document integrity, and diff whitespace before commit.
+
+## Prompt End Update — 2026-09-16, Kurokawa F-7/F-8 Continuation Through `TECH-ACT-117`
+Work completed during this prompt:
+
+- Prompt-start Patch Saver update was appended before continuing work.
+- Verified branch state: branch `arena/01a08e49-a-c-t-facility-universe`, HEAD `8743755100e43410e7a3e2d53fe52eb4a26065e7`.
+- Fully read `ACT-SITE-03-JP-E-F-7 Personnel and Administrative Level` and `ACT-SITE-03-JP-E-F-8 Surface Archive and Transition Level` through non-truncated targeted reads for the new records.
+- Created `TECH-ACT-115` Archive Boundary Personnel Clearance System as Markdown/TXT twins.
+- Created `TECH-ACT-116` Operational Archive Training and Doctrine Preparation System as Markdown/TXT twins.
+- Created `TECH-ACT-117` Public Archive Absolute Separation and Immediate Transfer System as Markdown/TXT twins.
+- Updated `TECH_MD/README.md`, `TECH_TXT/README.txt`, and root `README.md` through `TECH-ACT-117`.
+
+Validation results before staging:
+
+- `TECH-ACT-115` Markdown word count: `1314`.
+- `TECH-ACT-115` TXT word count: `1233`.
+- `TECH-ACT-116` Markdown word count: `1284`.
+- `TECH-ACT-116` TXT word count: `1198`.
+- `TECH-ACT-117` Markdown word count: `1398`.
+- `TECH-ACT-117` TXT word count: `1311`.
+- Patch Saver word count before this end update: `5153`.
+- New TXT twins had no Markdown-only marker hits.
+- No old bad technology designation strings found.
+- No stale or misspelled E-Class wording found.
+- New technology files had no unwanted out-of-world wording hits.
+- Repo-wide document check: `DOCUMENT_COUNT 748`, `BELOW_200_COUNT 0`, `EMPTY_COUNT 0`, `NO_FINAL_NEWLINE_COUNT 0`, `UTF8_DECODE_ERROR_COUNT 0`, `EXACT_CONFLICT_MARKER_COUNT 0`.
+- Technology pair check: `TECH_MD 119`, `TECH_TXT 119`, no missing pairs.
+- GOI pair check: `GOI_MD 33`, `GOI_TXT 33`, no missing pairs.
+- Broken local Markdown links: `0`.
+- Diff whitespace check before staging passed.
+
+Immediate next work after this prompt:
+
+- Stage intended files.
+- Run cached diff whitespace validation.
+- Commit and push this batch.
+- Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
+- If successful, next A.C.T-origin technology number will be `TECH-ACT-118`.
