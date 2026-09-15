@@ -1183,3 +1183,51 @@ Next prompt start action remains mandatory:
 - Verify branch state and restore exact arena branch if stale workspace drift appears again.
 - Read White Grave F-1 The Long Sleep fully or by complete non-truncated targeted reads before drafting `TECH-ACT-136`.
 - Continue source-backed main A.C.T technology records before GOI technology unless user redirects after the immediate site/floor pass completes.
+
+## Prompt Start Update — 2026-09-16, Continue After `TECH-ACT-135`
+New user prompt received: `p`.
+
+Required continuation state:
+
+- Continue on branch `arena/01a08e49-a-c-t-facility-universe` only.
+- Preserve completed technology records through `TECH-ACT-135`.
+- Current immediate confirmed A.C.T site/floor technology pass is `135/136` complete before new drafting, with `1/136` remaining.
+- Next A.C.T-origin technology number is `TECH-ACT-136`.
+- Draft the remaining immediate site/floor pass record from White Grave F-1 The Long Sleep.
+- Continue main A.C.T technology from existing A.C.T source material before GOI technology unless user redirects after the immediate site/floor pass completes.
+- Read White Grave F-1 fully or by complete non-truncated targeted reads before drafting.
+- Keep manual/direct record creation for this continuation pattern, not generator-script drafting.
+- Validate word counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world wording, pair integrity, broken local Markdown links, repository document integrity, and diff whitespace before commit.
+
+## Prompt End Update — 2026-09-16, White Grave F-1 Completion Through `TECH-ACT-136`
+Work completed during this prompt:
+
+- Prompt-start Patch Saver update was appended before continuing work.
+- Immediate confirmed A.C.T site/floor technology pass moved from `135/136` complete before this prompt to `136/136` complete after this prompt.
+- Verified active branch state at the start of the continuation: `arena/01a08e49-a-c-t-facility-universe`, HEAD `08c129da6222f4817020a7b34936a51d4dc4eb97`, clean before the prompt-start Patch Saver write.
+- Read White Grave F-1 The Long Sleep through complete non-truncated targeted reads before drafting, including Long Sleep doctrine, individual sleep vaults, deep-cold reinforcement, sleep-state monitoring, resident-specific access, Soul Pendant maximum isolation, and F-1 closure procedure.
+- Created `TECH-ACT-136` Long Sleep Vault and F-1 Closure Containment System as Markdown/TXT twins.
+- Updated `TECH_MD/README.md`, `TECH_TXT/README.txt`, and root `README.md` through `TECH-ACT-136`.
+
+Validation results before staging:
+
+- `TECH-ACT-136` Markdown word count: `1439`.
+- `TECH-ACT-136` TXT word count: `1361`.
+- New TXT twin had no Markdown-only marker hits.
+- Old designation scan produced only known numeric-title path hits for `TECH-ACT-004` and `TECH-ACT-058`; no bad new designation strings were present in the new record.
+- No stale or misspelled E-Class wording found in the new record.
+- New technology file had no unwanted out-of-world wording hits.
+- Repo-wide document check: `DOCUMENT_COUNT 786`, `BELOW_200_COUNT 0`, `EMPTY_COUNT 0`, `NO_FINAL_NEWLINE_COUNT 0`, `UTF8_DECODE_ERROR_COUNT 0`, `EXACT_CONFLICT_MARKER_COUNT 0`.
+- Technology pair check: `TECH_MD 137`, `TECH_TXT 137`, no missing pairs.
+- GOI full tree pair check: `GOI_MD_ALL 35`, `GOI_TXT_ALL 35`, no missing pairs.
+- Broken local Markdown links: `0`.
+- Diff whitespace check before staging passed.
+
+Immediate next work after this prompt:
+
+- Stage intended files.
+- Run cached diff whitespace validation.
+- Commit and push this batch.
+- Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
+- If successful, immediate confirmed A.C.T site/floor technology pass is complete at `136/136`.
+- After completion, further technology work should be treated as a new extraction pass from anomaly files, material files, operational doctrine, or GOI-linked technology unless the user gives a different priority.
