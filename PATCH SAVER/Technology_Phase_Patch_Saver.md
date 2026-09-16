@@ -1318,3 +1318,65 @@ Next prompt instruction:
 
 - At the start of the next prompt, append another Patch Saver prompt-start entry before continuing.
 - Continue by selecting the next GOI with source-backed acquired technology/equipment in its dossier, read the relevant dossier carefully, and create that GOI's five `TECH-GOI-xxx-y` records manually as Markdown/TXT twins.
+
+## Prompt Start Update — 2026-09-16, Continue GOI-Acquired Technology After Mercy Lock `5/5`
+User sent `p`, meaning proceed/continue. Continue the GOI-acquired technology phase.
+
+Current confirmed pushed head before this prompt: `196003032c936c3e1e904bb11ac9fabb35969ad4` on `arena/01a08e49-a-c-t-facility-universe`.
+
+Current count before new drafting in this prompt:
+
+- Mercy Lock Institute GOI-acquired technology is complete at `5/5`.
+- GOI-acquired technology total is `5/150` if the active 30 GOI dossier set remains the batch scope.
+- Remaining GOI-acquired technology total is `145/150`.
+
+Immediate continuation instructions:
+
+- Keep branch fixed to `arena/01a08e49-a-c-t-facility-universe`.
+- Select the next GOI with source-backed technology/equipment that A.C.T acquires or inspects.
+- Read the relevant GOI dossier carefully before drafting.
+- Create five manually drafted `TECH-GOI-xxx-y` Markdown/TXT twin records for that GOI.
+- Update technology README Markdown/TXT and root README.
+- Validate word counts, final newlines, pair integrity, TXT formatting, no unwanted meta wording, no E-Class error, broken links, and whitespace before commit/push.
+
+## Prompt End Update — 2026-09-16, DREAM .INC Acquired Technology Set Completed at `5/5`
+Work completed during this prompt:
+
+- Local branch had rehydrated to stale base state at prompt start after status showed large historical uncommitted drift. Saved the prompt-start Patch Saver block, explicitly fetched `arena/01a08e49-a-c-t-facility-universe`, hard reset to confirmed remote head `196003032c936c3e1e904bb11ac9fabb35969ad4`, and reapplied the prompt-start Patch Saver block. Working tree then contained only the intended Patch Saver modification before new work continued.
+- Selected DREAM .INC (`GOI-CP-B-049`) as the next GOI-acquired technology set because its dossier explicitly identifies the Dream Nectar Extraction Apparatus, Dream-Type source relationship, product supply, buildings, consumer data, customer screening, appointment/payment/confidential-report systems, product batches, and a quiet machine condition communication that A.C.T targets for infiltration, containment, and appropriation.
+- Read the DREAM .INC dossier carefully through targeted non-truncated sections before drafting.
+- Created `TECH-GOI-049-1` DREAM .INC Dream Nectar Extraction Apparatus as Markdown/TXT twins.
+- Created `TECH-GOI-049-2` DREAM .INC Dream Nectar Sealed Batch System as Markdown/TXT twins.
+- Created `TECH-GOI-049-3` DREAM .INC Wish Intake and Confidential Report System as Markdown/TXT twins.
+- Created `TECH-GOI-049-4` DREAM .INC Twelve-Building Appointment Routing Network as Markdown/TXT twins.
+- Created `TECH-GOI-049-5` DREAM .INC Quiet Machine Condition Indicator System as Markdown/TXT twins.
+- Updated `TECH_MD/README.md`, `TECH_TXT/README.txt`, and root `README.md` through `TECH-GOI-049-5`.
+
+Validation results before staging:
+
+- `TECH-GOI-049-1` Markdown word count: `625`; TXT word count after plain-text cleanup: above 200.
+- `TECH-GOI-049-2` Markdown word count: `561`; TXT word count after plain-text cleanup: above 200.
+- `TECH-GOI-049-3` Markdown word count: `588`; TXT word count after plain-text cleanup: above 200.
+- `TECH-GOI-049-4` Markdown word count: `563`; TXT word count after plain-text cleanup: above 200.
+- `TECH-GOI-049-5` Markdown word count: `564`; TXT word count after plain-text cleanup: above 200.
+- Removed accidental heading `#` characters from the new TXT reading copies after validation caught them.
+- New technology records had no unwanted meta wording hits and no stale E-Class wording hits.
+- Repo-wide document check after drafting: no below-200 files, no empty files, no missing final newlines, no UTF-8 decode errors, and no exact conflict markers.
+- Technology pair check after drafting: `TECH_MD 146`, `TECH_TXT 146`, no missing pairs.
+- Broken local Markdown links: `0`.
+- Diff whitespace check passed.
+
+Current count after this prompt's content if committed:
+
+- Mercy Lock Institute: `5/5`.
+- DREAM .INC: `5/5`.
+- GOI-acquired technology total: `10/150`.
+- Remaining GOI-acquired technology total: `140/150`.
+
+Immediate next work after this prompt:
+
+- Stage intended files.
+- Run cached whitespace validation.
+- Commit and push.
+- Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
+- On next prompt, append a new prompt-start Patch Saver update, then choose another source-backed GOI technology set.
