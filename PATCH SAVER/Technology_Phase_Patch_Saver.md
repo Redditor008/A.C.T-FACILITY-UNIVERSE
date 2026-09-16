@@ -6,6 +6,18 @@ This file exists because the user ordered a Patch Saver to prevent task-state lo
 ## Standing Update Rule
 At the start of every new user prompt from this point forward, update this file before continuing work. At the end of each completed batch, update it again with the new commit, pushed hash, validation results, and next action.
 
+## Working Style Rule
+Report to the user once, at the end of the prompt, after all work is finished, committed, and pushed.
+
+Do not alternate between running commands and narrating them. Do not post progress commentary between batches of work. The user does not read individual command transcripts and cannot inspect intermediate output, because nothing is verifiable to them until it is committed and pushed to the branch. Interleaved narration reads as clutter and wastes the user's attention on state they cannot act on.
+
+The required shape of a completed prompt is therefore:
+
+1. Read source, draft, update indexes, validate, commit, push, and fetch-verify silently.
+2. Then produce a single closing report containing the verified results, the commit hash, and the next action.
+
+This rule is about reporting, not about skipping verification. Validation, commit, push, and fetch-verify are still mandatory; only the mid-work narration is removed.
+
 ## Current Branch Rule
 All work must remain on the **active Arena session branch**. This file must never hard-code a branch name, because Arena issues a fresh `arena/<session-id>-a-c-t-facility-universe` branch every time a new session opens and any name written here goes stale immediately.
 
@@ -1919,3 +1931,23 @@ Next action on the following prompt:
 - Resolve the active session branch live; do not look for a branch name in this file.
 - Select another source-backed GOI technology set. Candidates with the largest existing dossiers and no technology set yet: Children of the Deep (`GOI-CU-X-048`), Liberty Freedoms (`GOI-ML-X-050`), Anti-Global Anomaly (`GOI-ML-X-014`), Government Anti Anomaly (`GOI-GV-P-001`), Ninefold Ark (`GOI-HY-N-074`).
 - Read the selected dossier fully before drafting, then produce five `TECH-GOI-xxx-y` Markdown/TXT twins, update the three indexes, validate, commit, push, and fetch-verify.
+
+## Workspace Drift Recovery Note — 2026-09-17, Second Occurrence Pattern
+The sandbox workspace can be re-created mid-session, which reverts the local branch to the merge base while leaving edited files on disk as uncommitted changes. This happened again in the session after `8b13c28`.
+
+Observed on recovery:
+
+- Local `HEAD` had reverted to `a17dfd048c8666ce55c1dc2363bc40a0cfa0bf80` with only `clone` and `checkout` in the reflog.
+- Local commits `94ad50e` and `8b13c28` were gone from the object database.
+- The remote still held `refs/heads/arena/01a0ab57-a-c-t-facility-universe` at `8b13c286c3d3447bb3f60b5d7d3d1317fcb28d74`, so the pushed work was never lost.
+- All ten `TECH-GOI-027` files on disk were byte-identical to their blobs in `8b13c28`; only the Patch Saver carried new content.
+
+Mandatory recovery procedure, in order:
+
+1. `git rev-parse --abbrev-ref HEAD` to confirm the branch, and `git reflog -5` to detect a fresh clone.
+2. `git ls-remote origin` to confirm what the remote actually holds. Do not assume local history is authoritative.
+3. `git fetch origin <branch>`, then compare the working tree against `FETCH_HEAD` with `git diff --stat FETCH_HEAD` before touching anything.
+4. Confirm no unique uncommitted content exists, or back it up outside the repository first.
+5. Only then `git reset --hard FETCH_HEAD`, re-apply the intended new edit, validate, commit, push, and fetch-verify.
+
+Never run `git reset --hard` before step 3. The remote is the authority, not local `HEAD`.
