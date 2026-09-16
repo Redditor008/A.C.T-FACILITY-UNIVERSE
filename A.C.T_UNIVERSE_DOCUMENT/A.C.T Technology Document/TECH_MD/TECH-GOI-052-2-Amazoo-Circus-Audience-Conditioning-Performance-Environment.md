@@ -1,0 +1,31 @@
+# TECH-GOI-052-2 - AMAZOO CIRCUS AUDIENCE CONDITIONING PERFORMANCE ENVIRONMENT
+
+Technology Designation: TECH-GOI-052-2
+Technology Name: Amazoo Circus Audience Conditioning Performance Environment
+Common Abbreviations: ACPE / Audience Ring / Chant Environment
+Origin: Amazoo Circus
+Acquisition Status: Scene reconstruction, witness testimony, and recovered performance fragments
+Primary A.C.T Interest: Exposure control, crowd-harm prevention, survivor trigger mapping, hostile show detection
+Archive Handling: AMAZOO PERFORMANCE RESTRICTED / NO-AUDIENCE TESTING
+
+## Functional Identity
+
+The Amazoo Circus Audience Conditioning Performance Environment is the stage, light, sound, crowd, curtain, and cue arrangement used to make civilians participate in anomalous abuse while believing they were watching entertainment. The Amazoo dossier identifies audience conditioning, stage-lighting and audience-control environment, crowds and chanting as stressors, and audience abuse becoming part of the act. A.C.T files the environment as technology because it is a repeatable control system, even if much of it used mundane equipment.
+
+The environment's core function was permission. It taught the audience what reaction to give and taught the captive performer what role they were trapped inside. Laughter, hollering commands, applause, silence, spotlighting, music, and the ring boundary could all become control inputs. The system hid harm by making cruelty look like audience participation.
+
+## Known Components
+
+Confirmed or indicated components include performance curtains, stage lighting, loud music, ticketed viewing, planted chant leaders, handler posture, cage placement, act naming, animal presence, and verbal degradation. The recovered diary phrases show that repeated language mattered. A phrase such as Time is dead and gone. Show must go on. may have been motto, command imprint, trauma echo, or anomalous performance anchor. A.C.T does not reproduce such phrases around AFD-SU-507.
+
+The environment may also have supported emotional siphoning. A crowd focused on fear, pity, shame, or excitement can create a controlled emotional field around a captive subject. A.C.T has not confirmed what that field fed, but the dossier keeps emotional-siphoning performance and audience mood harvesting under active investigation.
+
+## A.C.T Handling Rules
+
+A.C.T must not stage audience simulations for interrogation or testing on AFD-SU-507. Any recovered spotlight, speaker, curtain, seating plan, ticket booth item, calliope, ring prop, or chant sheet must be handled as possible trauma-anchor evidence. Civilian witnesses must be interviewed without recreating the show atmosphere.
+
+Training material for field teams may describe indicators, but it must not dramatize Amazoo's performance structure for morale, entertainment, or scare instruction. The system becomes dangerous when personnel enjoy the reconstruction.
+
+## Failure and Open Questions
+
+Failure modes include witness contagion, survivor retraumatization, accidental chant reproduction, and public fascination that functions as free advertisement for a rebuilt circus. Open questions include whether planted audience members directed the crowd, whether the crowd itself powered an anomalous effect, and whether ordinary spectators became victims, customers, batteries, or accomplices. Archive confidence is High for audience conditioning as a method and Low for the exact anomalous mechanism.

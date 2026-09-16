@@ -1445,3 +1445,70 @@ Immediate next work after this prompt:
 - Commit and push.
 - Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
 - On next prompt, append a new prompt-start Patch Saver update, then choose another source-backed GOI technology set.
+
+## Prompt Start Update — 2026-09-16, Continue GOI-Acquired Technology After Mysterious Guild `5/5`
+User sent `p`, meaning proceed/continue. Continue the GOI-acquired technology phase.
+
+Current confirmed pushed head before this prompt: `90e5f4b2b1c6d136b5ba6d0273970b26b6660b08` on `arena/01a08e49-a-c-t-facility-universe`.
+
+Current count before new drafting in this prompt:
+
+- Mercy Lock Institute GOI-acquired technology is complete at `5/5`.
+- DREAM .INC GOI-acquired technology is complete at `5/5`.
+- Mysterious Guild GOI-acquired technology is complete at `5/5`.
+- GOI-acquired technology total is `15/150` if the active 30 GOI dossier set remains the batch scope.
+- Remaining GOI-acquired technology total is `135/150`.
+
+Immediate continuation instructions:
+
+- Keep branch fixed to `arena/01a08e49-a-c-t-facility-universe`.
+- Select the next GOI with source-backed technology/equipment that A.C.T acquires or inspects.
+- Read the relevant GOI dossier carefully before drafting.
+- Create five manually drafted `TECH-GOI-xxx-y` Markdown/TXT twin records for that GOI.
+- Update technology README Markdown/TXT and root README.
+- Validate word counts, final newlines, pair integrity, TXT formatting, no unwanted meta wording, no E-Class error, broken links, and whitespace before commit/push.
+
+## Prompt End Update — 2026-09-16, Amazoo Circus Acquired Technology Set Completed at `5/5`
+Work completed during this prompt:
+
+- Prompt-start Patch Saver update was appended before continuing.
+- Confirmed working tree only had the intended Patch Saver modification before new work began.
+- Selected Amazoo Circus (`GOI-HY-X-052`) as the next GOI-acquired technology set because its dossier explicitly identifies recovered or inspectable cages, performance curtains, stage-lighting and audience-control environment, emotional-siphoning performances, command phrases, route infrastructure, tickets, animal collars, calliope, spotlight, fairground mobility, and Operation BIG TOP scene evidence.
+- Read the Amazoo Circus dossier carefully through full and targeted non-truncated sections before drafting.
+- Created `TECH-GOI-052-1` Amazoo Circus Reinforced Iron Performance Cage System as Markdown/TXT twins.
+- Created `TECH-GOI-052-2` Amazoo Circus Audience Conditioning Performance Environment as Markdown/TXT twins.
+- Created `TECH-GOI-052-3` Amazoo Circus Emotional-Siphoning Performance Frame as Markdown/TXT twins.
+- Created `TECH-GOI-052-4` Amazoo Circus Trauma-Command and Act-Naming System as Markdown/TXT twins.
+- Created `TECH-GOI-052-5` Amazoo Circus Fairground Mobility and Route Concealment System as Markdown/TXT twins.
+- Updated `TECH_MD/README.md`, `TECH_TXT/README.txt`, and root `README.md` through `TECH-GOI-052-5`.
+
+Validation results before staging:
+
+- `TECH-GOI-052-1` Markdown word count: `508`; TXT word count: `503`.
+- `TECH-GOI-052-2` Markdown word count: `465`; TXT word count: `460`.
+- `TECH-GOI-052-3` Markdown word count: `480`; TXT word count: `475`.
+- `TECH-GOI-052-4` Markdown word count: `461`; TXT word count: `456`.
+- `TECH-GOI-052-5` Markdown word count: `467`; TXT word count: `462`.
+- New TXT twins had no Markdown-only marker hits.
+- New technology records had no unwanted meta wording hits and no stale E-Class wording hits.
+- Repo-wide document check after drafting: `DOCUMENT_COUNT 824`, `BELOW_200_COUNT 0`, `EMPTY_COUNT 0`, `NO_FINAL_NEWLINE_COUNT 0`, `UTF8_DECODE_ERROR_COUNT 0`, `EXACT_CONFLICT_MARKER_COUNT 0`.
+- Technology pair check after drafting: `TECH_MD 156`, `TECH_TXT 156`, no missing pairs.
+- Broken local Markdown links: `0`.
+- Diff whitespace check passed.
+
+Current count after this prompt's content if committed:
+
+- Mercy Lock Institute: `5/5`.
+- DREAM .INC: `5/5`.
+- Mysterious Guild: `5/5`.
+- Amazoo Circus: `5/5`.
+- GOI-acquired technology total: `20/150`.
+- Remaining GOI-acquired technology total: `130/150`.
+
+Immediate next work after this prompt:
+
+- Stage intended files.
+- Run cached whitespace validation.
+- Commit and push.
+- Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
+- On next prompt, append a new prompt-start Patch Saver update, then choose another source-backed GOI technology set.
