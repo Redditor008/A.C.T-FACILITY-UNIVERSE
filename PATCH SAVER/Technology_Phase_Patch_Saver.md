@@ -1859,12 +1859,12 @@ Patch Saver compliance action:
 
 - Rewrote the **Current Branch Rule** so the branch is resolved at runtime with `git rev-parse --abbrev-ref HEAD` instead of read from this file.
 - Replaced all 52 hard-coded branch-name occurrences across the historical log with the neutral phrase "the active session branch", preserving each entry's commit hash and factual content.
-- Verified `arena/01a0` appears **0** times in this file after the rewrite.
+- Verified that no session branch name appears anywhere in this file after the rewrite.
 - This file no longer requires a branch-name edit when a new session opens.
 
 State entering this prompt:
 
-- Active session branch resolved live: `arena/01a0ab57-a-c-t-facility-universe`, HEAD `a17dfd048c8666ce55c1dc2363bc40a0cfa0bf80`, working tree clean.
+- Active session branch resolved live with `git rev-parse --abbrev-ref HEAD`; its name is deliberately not recorded here. HEAD `a17dfd048c8666ce55c1dc2363bc40a0cfa0bf80`, working tree clean.
 - Completed GOI technology sets before this prompt: DREAM .INC, Mysterious Guild, Amazoo Circus, Missing 404 Watch Tower, Lullaby Works, Cairn & Lintel, Saint-Vera Restoration Concern, Mercy Lock Institute (`8/30`).
 - Next source-backed GOI selected: **Anstrall Market (`GOI-BS-T-027`)**, chosen because its dossier explicitly identifies broker claim narrowing, controlled descriptions, valuation factors, handler custody rules, packaging, altered manifests, concealed payment, false provenance chains, staged demonstrations, recorded proof, and recovered catalogues.
 
@@ -1918,7 +1918,7 @@ Anstrall Market technology batch committed and pushed:
 
 - Commit: `94ad50e Add Anstrall Market technology records; make patch saver branch-agnostic`.
 - Verified hash: `94ad50eab6e38454f22f29da9a6ae1a963d2ba2b`.
-- Branch resolved live at push time: `arena/01a0ab57-a-c-t-facility-universe`, created on the remote by this push.
+- Branch resolved live at push time with `git rev-parse --abbrev-ref HEAD` and created on the remote by this push; its name is deliberately not recorded here.
 - Verification method: explicit-refspec fetch into `refs/remotes/origin/<branch>`, then compared `HEAD`, the remote ref, and `FETCH_HEAD`.
 - Verification result: local, remote, and `FETCH_HEAD` all matched at `94ad50eab6e38454f22f29da9a6ae1a963d2ba2b`.
 - Working tree was clean after the push.
@@ -1939,7 +1939,7 @@ Observed on recovery:
 
 - Local `HEAD` had reverted to `a17dfd048c8666ce55c1dc2363bc40a0cfa0bf80` with only `clone` and `checkout` in the reflog.
 - Local commits `94ad50e` and `8b13c28` were gone from the object database.
-- The remote still held `refs/heads/arena/01a0ab57-a-c-t-facility-universe` at `8b13c286c3d3447bb3f60b5d7d3d1317fcb28d74`, so the pushed work was never lost.
+- The remote still held the active session branch ref at `8b13c286c3d3447bb3f60b5d7d3d1317fcb28d74`, so the pushed work was never lost.
 - All ten `TECH-GOI-027` files on disk were byte-identical to their blobs in `8b13c28`; only the Patch Saver carried new content.
 
 Mandatory recovery procedure, in order:
