@@ -7,7 +7,15 @@ This file exists because the user ordered a Patch Saver to prevent task-state lo
 At the start of every new user prompt from this point forward, update this file before continuing work. At the end of each completed batch, update it again with the new commit, pushed hash, validation results, and next action.
 
 ## Current Branch Rule
-All work must remain on branch `arena/01a08e49-a-c-t-facility-universe`.
+All work must remain on the **active Arena session branch**. This file must never hard-code a branch name, because Arena issues a fresh `arena/<session-id>-a-c-t-facility-universe` branch every time a new session opens and any name written here goes stale immediately.
+
+Resolve the branch at the start of every session instead of reading it from this file:
+
+```
+git rev-parse --abbrev-ref HEAD
+```
+
+Commit to that branch, push only to that branch, and open any pull request from it. Never switch to, create, or push to a different branch. If the branch name in a status output differs from what an earlier entry in this file recorded, the recorded name is history and the live output is correct.
 
 ## Current Confirmed Repository State
 Latest confirmed pushed commit before this Patch Saver was created:
@@ -131,7 +139,7 @@ Immediate next action for this prompt:
 ## Prompt End Update — 2026-09-16, Glass Orchard Continuation Through `TECH-ACT-093`
 Work completed during this prompt:
 
-- Verified branch state at prompt start: branch `arena/01a08e49-a-c-t-facility-universe`, HEAD `ba4b78f3de4cd570a6febc7f1007c8a8fcc4ee92`.
+- Verified branch state at prompt start: active session branch, HEAD `ba4b78f3de4cd570a6febc7f1007c8a8fcc4ee92`.
 - Rechecked relevant Glass Orchard Relay source passages from the sub-site dossier, F-2 Processing and Staging Level dossier, and F-3 Surface Cover Level dossier.
 - Created `TECH-ACT-091` Intake Staging and Routing System as Markdown/TXT twins.
 - Created `TECH-ACT-092` Agricultural Biotech Cover Campus as Markdown/TXT twins.
@@ -189,7 +197,7 @@ User prompt received: `p`.
 Patch Saver compliance action:
 
 - Branch state initially drifted back to the old `22c3ec5` main-base workspace with many stale modifications and untracked files.
-- Corrected state by fetching `origin` branch `arena/01a08e49-a-c-t-facility-universe`, hard-resetting to `FETCH_HEAD`, and cleaning untracked files.
+- Corrected state by fetching `origin` for the active session branch, hard-resetting to `FETCH_HEAD`, and cleaning untracked files.
 - Current confirmed restored HEAD is `8257ae6fdb601a6f393fae78313fed4ae516d8de`, commit title `Update technology phase patch saver`.
 - Working tree was clean immediately after restore, before this Patch Saver update.
 - Current completed technology range is `TECH-ACT-001` through `TECH-ACT-093` as Markdown/TXT twins, plus `TECH-GOI-071-1`.
@@ -206,7 +214,7 @@ Immediate next action for this prompt:
 ## Prompt End Update — 2026-09-16, Frost Hollow Continuation Through `TECH-ACT-096`
 Work completed during this prompt:
 
-- Restored branch state after stale workspace drift: fetched `origin` branch `arena/01a08e49-a-c-t-facility-universe`, hard-reset to `FETCH_HEAD`, and cleaned untracked files.
+- Restored branch state after stale workspace drift: fetched `origin` for the active session branch, hard-reset to `FETCH_HEAD`, and cleaned untracked files.
 - Verified restored HEAD before drafting: `8257ae6fdb601a6f393fae78313fed4ae516d8de`.
 - Read the Frost Hollow Depot sub-site dossier and its three floor dossiers for source-backed continuation.
 - Created `TECH-ACT-094` Interim Cryogenic Holding System as Markdown/TXT twins.
@@ -282,7 +290,7 @@ Immediate next action for this prompt:
 ## Prompt End Update — 2026-09-16, Silent Reed Continuation Through `TECH-ACT-099`
 Work completed during this prompt:
 
-- Verified branch state after prompt-start Patch Saver update: branch `arena/01a08e49-a-c-t-facility-universe`, HEAD `7d08832c1ac2682f6d56c3cb2ebface6a1227753`.
+- Verified branch state after prompt-start Patch Saver update: active session branch, HEAD `7d08832c1ac2682f6d56c3cb2ebface6a1227753`.
 - Read the Silent Reed Annex sub-site dossier and its three floor dossiers for source-backed continuation.
 - Created `TECH-ACT-097` Minor Memetic Quarantine Vault System as Markdown/TXT twins.
 - Created `TECH-ACT-098` Controlled Reading and Redaction Workroom System as Markdown/TXT twins.
@@ -358,7 +366,7 @@ Immediate next action for this prompt:
 ## Prompt End Update — 2026-09-16, Hollow Canopy Continuation Through `TECH-ACT-102`
 Work completed during this prompt:
 
-- Verified branch state after prompt-start Patch Saver update: branch `arena/01a08e49-a-c-t-facility-universe`, HEAD `b8644c184512adc9aecb19aeb678dd6cd2855ec2`.
+- Verified branch state after prompt-start Patch Saver update: active session branch, HEAD `b8644c184512adc9aecb19aeb678dd6cd2855ec2`.
 - Read the Hollow Canopy Enclosure sub-site dossier in full for source-backed continuation.
 - Created `TECH-ACT-100` Native Containment Field System as Markdown/TXT twins.
 - Created `TECH-ACT-101` Concealed Perimeter Sector Network as Markdown/TXT twins.
@@ -433,7 +441,7 @@ Immediate next action for this prompt:
 ## Prompt End Update — 2026-09-16, Verde Null Continuation Through `TECH-ACT-105`
 Work completed during this prompt:
 
-- Verified branch state after prompt-start Patch Saver update: branch `arena/01a08e49-a-c-t-facility-universe`, HEAD `eb8d57fe318e9f57393cdb11c08a0ff424193f71`.
+- Verified branch state after prompt-start Patch Saver update: active session branch, HEAD `eb8d57fe318e9f57393cdb11c08a0ff424193f71`.
 - Read the Verde Null Bio-Reserve site dossier and F-1, F-2, and F-3 floor dossiers for source-backed continuation.
 - Created `TECH-ACT-103` Interior Biological Habitat Chamber System as Markdown/TXT twins.
 - Created `TECH-ACT-104` Biological Analysis and Sample Control Laboratories as Markdown/TXT twins.
@@ -490,7 +498,7 @@ New user prompt received: `pp`.
 
 Required continuation state:
 
-- Continue on branch `arena/01a08e49-a-c-t-facility-universe` only.
+- Continue on the active session branch only.
 - Preserve the completed Verde Null technology batch through `TECH-ACT-105`.
 - Next A.C.T-origin technology number is `TECH-ACT-106`.
 - Continue main A.C.T technology from existing A.C.T source material before GOI technology.
@@ -502,7 +510,7 @@ Required continuation state:
 Work completed during this prompt:
 
 - Prompt-start Patch Saver update was appended before continuing work.
-- Verified branch state: branch `arena/01a08e49-a-c-t-facility-universe`, HEAD `94e836092bfc39b8ac18d962626fbdd48fbc3bfb`.
+- Verified branch state: active session branch, HEAD `94e836092bfc39b8ac18d962626fbdd48fbc3bfb`.
 - Read the Verde Null Bio-Reserve source context and fully read F-4 Personnel and Operations Level plus F-5 Surface Research Campus without truncation.
 - Created `TECH-ACT-106` Reserve Command and Operations Coordination System as Markdown/TXT twins.
 - Created `TECH-ACT-107` Personnel Processing and Reserve Clearance System as Markdown/TXT twins.
@@ -558,7 +566,7 @@ New user prompt received: `p`.
 
 Required continuation state:
 
-- Continue on branch `arena/01a08e49-a-c-t-facility-universe` only.
+- Continue on the active session branch only.
 - Preserve completed technology records through `TECH-ACT-108`.
 - Next A.C.T-origin technology number is `TECH-ACT-109`.
 - Continue main A.C.T technology from existing A.C.T source material before GOI technology.
@@ -570,7 +578,7 @@ Required continuation state:
 Work completed during this prompt:
 
 - Prompt-start Patch Saver update was appended before continuing work.
-- Verified branch state: branch `arena/01a08e49-a-c-t-facility-universe`, HEAD `f51d09a792b514f2d3cff5d54a051b66ea4ee714`.
+- Verified branch state: active session branch, HEAD `f51d09a792b514f2d3cff5d54a051b66ea4ee714`.
 - Fully read `ACT-SITE-05-ID-C-F-3 Maritime and Island Holding Level` and `ACT-SITE-05-ID-C-F-4 Laboratory and Research Level` without truncation for the new records.
 - Created `TECH-ACT-109` Maritime Holding Intake and Transfer System as Markdown/TXT twins.
 - Created `TECH-ACT-110` Climate-Controlled Island Holding Unit System as Markdown/TXT twins.
@@ -626,7 +634,7 @@ New user prompt received: `p`.
 
 Required continuation state:
 
-- Continue on branch `arena/01a08e49-a-c-t-facility-universe` only.
+- Continue on the active session branch only.
 - Preserve completed technology records through `TECH-ACT-111`.
 - Next A.C.T-origin technology number is `TECH-ACT-112`.
 - Continue main A.C.T technology from existing A.C.T source material before GOI technology.
@@ -638,7 +646,7 @@ Required continuation state:
 Work completed during this prompt:
 
 - Prompt-start Patch Saver update was appended before continuing work.
-- Verified branch state: branch `arena/01a08e49-a-c-t-facility-universe`, HEAD `6f425d830331b3a2602740ad9ff278b18f12323b`.
+- Verified branch state: active session branch, HEAD `6f425d830331b3a2602740ad9ff278b18f12323b`.
 - Fully read `ACT-SITE-05-ID-C-F-5 Personnel and Command Level` and `ACT-SITE-05-ID-C-F-6 Surface Research and Transition Level` through non-truncated targeted reads for the new records.
 - Created `TECH-ACT-112` Island Personnel Habitation and Sustainment System as Markdown/TXT twins.
 - Created `TECH-ACT-113` Relay Command Floor Status and Decision System as Markdown/TXT twins.
@@ -694,7 +702,7 @@ New user prompt received: `p`.
 
 Required continuation state:
 
-- Continue on branch `arena/01a08e49-a-c-t-facility-universe` only.
+- Continue on the active session branch only.
 - Preserve completed technology records through `TECH-ACT-114`.
 - Next A.C.T-origin technology number is `TECH-ACT-115`.
 - Continue main A.C.T technology from existing A.C.T source material before GOI technology.
@@ -706,7 +714,7 @@ Required continuation state:
 Work completed during this prompt:
 
 - Prompt-start Patch Saver update was appended before continuing work.
-- Verified branch state: branch `arena/01a08e49-a-c-t-facility-universe`, HEAD `8743755100e43410e7a3e2d53fe52eb4a26065e7`.
+- Verified branch state: active session branch, HEAD `8743755100e43410e7a3e2d53fe52eb4a26065e7`.
 - Fully read `ACT-SITE-03-JP-E-F-7 Personnel and Administrative Level` and `ACT-SITE-03-JP-E-F-8 Surface Archive and Transition Level` through non-truncated targeted reads for the new records.
 - Created `TECH-ACT-115` Archive Boundary Personnel Clearance System as Markdown/TXT twins.
 - Created `TECH-ACT-116` Operational Archive Training and Doctrine Preparation System as Markdown/TXT twins.
@@ -762,14 +770,14 @@ New user prompt received: `p`.
 
 Workspace drift was detected immediately after the first prompt-start write: local HEAD had fallen back to `22c3ec5de5d0cebbcc7a33177b410ffde1f00c61` with many stale modified and untracked files. Required correction was performed before continuing:
 
-- Fetched `origin arena/01a08e49-a-c-t-facility-universe` into `refs/remotes/origin/arena/01a08e49-a-c-t-facility-universe`.
+- Fetched the active session branch from `origin` into its matching `refs/remotes/origin/` ref.
 - Hard reset local workspace to the fetched arena branch head.
 - Cleaned stale untracked files.
 - Re-applied this prompt-start Patch Saver update after reset.
 
 Required continuation state:
 
-- Continue on branch `arena/01a08e49-a-c-t-facility-universe` only.
+- Continue on the active session branch only.
 - Preserve completed technology records through `TECH-ACT-117`.
 - Next A.C.T-origin technology number is `TECH-ACT-118`.
 - Continue main A.C.T technology from existing A.C.T source material before GOI technology.
@@ -782,7 +790,7 @@ Work completed during this prompt:
 
 - Prompt-start Patch Saver update was appended before continuing work.
 - Workspace drift was detected after the first prompt-start write; local HEAD had fallen back to base commit with stale modified and untracked files. Corrected with explicit fetch, hard reset to the arena remote branch, clean, and re-applied this prompt-start Patch Saver update before continuing.
-- Verified branch state after correction: branch `arena/01a08e49-a-c-t-facility-universe`, HEAD `60bad19acfc8442680cee44ae5c29a7b75e4fff9`.
+- Verified branch state after correction: branch the active session branch, HEAD `60bad19acfc8442680cee44ae5c29a7b75e4fff9`.
 - Read `ACT-SITE-03-JP-E-F-4 Research and Analysis Level`, `ACT-SITE-03-JP-E-F-5 Redaction and Controlled-Reading Laboratory`, and `ACT-SITE-03-JP-E-F-6 General Records and Anomalous Intake` through non-truncated targeted reads for the new records.
 - Created `TECH-ACT-118` Symbol Behavior Controlled Observation Suites as Markdown/TXT twins.
 - Created `TECH-ACT-119` Media Propagation Tracking Center System as Markdown/TXT twins.
@@ -838,7 +846,7 @@ New user prompt received: `p`.
 
 Required continuation state:
 
-- Continue on branch `arena/01a08e49-a-c-t-facility-universe` only.
+- Continue on the active session branch only.
 - Preserve completed technology records through `TECH-ACT-120`.
 - Next A.C.T-origin technology number is `TECH-ACT-121`.
 - Continue main A.C.T technology from existing A.C.T source material before GOI technology.
@@ -850,7 +858,7 @@ Required continuation state:
 Work completed during this prompt:
 
 - Prompt-start Patch Saver update was already present before continuing work.
-- Verified active branch state at the start of the continuation: `arena/01a08e49-a-c-t-facility-universe`, HEAD `c7c15d085232b5228f31ceb81668693b398d4fc8`, with only this Patch Saver modified at that time.
+- Verified active branch state at the start of the continuation: active session branch, HEAD `c7c15d085232b5228f31ceb81668693b398d4fc8`, with only this Patch Saver modified at that time.
 - Reran targeted, non-truncated source reads for Kurokawa F-1, F-2, and F-3 material used in this batch, including F-1 anti-reading preservation vaults and closure doctrine, F-2 Blind Box/Eye Box perception-control vaulting, and F-3 signal-isolated active anomalous document storage.
 - Created `TECH-ACT-121` Unread Archive Anti-Reading Preservation Vault System as Markdown/TXT twins.
 - Created `TECH-ACT-122` Blind Box and Eye Box Perception-Control Vault System as Markdown/TXT twins.
@@ -905,7 +913,7 @@ New user prompt received: `p`.
 
 Required continuation state:
 
-- Continue on branch `arena/01a08e49-a-c-t-facility-universe` only.
+- Continue on the active session branch only.
 - Preserve completed technology records through `TECH-ACT-123`.
 - Next A.C.T-origin technology number is `TECH-ACT-124`.
 - Continue main A.C.T technology from existing A.C.T source material before GOI technology.
@@ -917,7 +925,7 @@ Required continuation state:
 Work completed during this prompt:
 
 - Prompt-start Patch Saver update was appended before continuing work.
-- Verified active branch state at the start of the continuation: `arena/01a08e49-a-c-t-facility-universe`, HEAD `46009acbe8f69af1280425563dfa2e22e1f0e641`, clean before the prompt-start Patch Saver write.
+- Verified active branch state at the start of the continuation: active session branch, HEAD `46009acbe8f69af1280425563dfa2e22e1f0e641`, clean before the prompt-start Patch Saver write.
 - Read selected Redwood Veil F-3, F-4, and F-5 source sections through non-truncated targeted reads before drafting, including F-3 standard object chambers and Box system, F-4 transformation staging and ascending authorization, and F-5 controlled study, sample control, and research data doctrine.
 - Created `TECH-ACT-124` Standard Box Holding Chamber System as Markdown/TXT twins.
 - Created `TECH-ACT-125` Ascending Authorization Transformation Staging Lock System as Markdown/TXT twins.
@@ -972,7 +980,7 @@ New user prompt received: `p`.
 
 Required continuation state:
 
-- Continue on branch `arena/01a08e49-a-c-t-facility-universe` only.
+- Continue on the active session branch only.
 - Preserve completed technology records through `TECH-ACT-126`.
 - Next A.C.T-origin technology number is `TECH-ACT-127`.
 - Continue main A.C.T technology from existing A.C.T source material before GOI technology.
@@ -984,7 +992,7 @@ Required continuation state:
 Work completed during this prompt:
 
 - Prompt-start Patch Saver update was appended before continuing work.
-- Verified active branch state at the start of the continuation: `arena/01a08e49-a-c-t-facility-universe`, HEAD `6c091a0e829cc9a70f34ff20115c2674bc8a49bf`, clean before the prompt-start Patch Saver write.
+- Verified active branch state at the start of the continuation: active session branch, HEAD `6c091a0e829cc9a70f34ff20115c2674bc8a49bf`, clean before the prompt-start Patch Saver write.
 - Read selected Redwood Veil F-6, F-7, and F-8 source sections through non-truncated targeted reads before drafting, including F-6 medical isolation and cognitive care, F-7 QNB-hardened repository and retrieval doctrine, and F-8 vertical-flow personnel processing and clearance verification.
 - Created `TECH-ACT-127` Medical Isolation and Cognitive Recovery Ward System as Markdown/TXT twins.
 - Created `TECH-ACT-128` QNB-Hardened Repository and Record Retrieval System as Markdown/TXT twins.
@@ -1039,7 +1047,7 @@ New user prompt received: `p + how many more`.
 
 Required continuation state:
 
-- Continue on branch `arena/01a08e49-a-c-t-facility-universe` only.
+- Continue on the active session branch only.
 - Preserve completed technology records through `TECH-ACT-129`.
 - Next A.C.T-origin technology number is `TECH-ACT-130`.
 - Continue main A.C.T technology from existing A.C.T source material before GOI technology.
@@ -1053,7 +1061,7 @@ Work completed during this prompt:
 
 - Prompt-start Patch Saver update was appended before continuing work.
 - User asked `how many more`; current evidence-based answer is that the immediate confirmed site/floor technology pass has four obvious White Grave floor-system records remaining after this batch: F-4 Research and Biological Study, F-3 Standard Deep-Isolation Holding, F-2 Entropic and Unstable Resident Holding, and F-1 The Long Sleep. This does not count later optional extraction from anomaly files, material files, or GOI-linked technology.
-- Verified active branch state at the start of the continuation: `arena/01a08e49-a-c-t-facility-universe`, HEAD `8d59f5e94f8039c265a661a577bef8807d7d1c5f`, clean before the prompt-start Patch Saver write.
+- Verified active branch state at the start of the continuation: active session branch, HEAD `8d59f5e94f8039c265a661a577bef8807d7d1c5f`, clean before the prompt-start Patch Saver write.
 - Read selected Redwood Veil F-9, White Grave F-6, and White Grave F-5 source sections through non-truncated targeted reads before drafting, including F-9 unmarked wall and loading transition, F-6 genuine arctic research cover and seasonal transport, and F-5 long-rotation habitation with main security checkpoint.
 - Created `TECH-ACT-130` Unmarked Wall Surface Boundary and Loading Transition System as Markdown/TXT twins.
 - Created `TECH-ACT-131` Seasonal Arctic Research Cover and Transition Control System as Markdown/TXT twins.
@@ -1114,7 +1122,7 @@ New user prompt received: `P + What I Mean How Many Left From ACT Tech : X/X`.
 
 Required continuation state:
 
-- Continue on branch `arena/01a08e49-a-c-t-facility-universe` only.
+- Continue on the active session branch only.
 - Preserve completed technology records through `TECH-ACT-132`.
 - Current immediate site/floor A.C.T technology pass is counted as `132/136` complete before new drafting, with `4/136` remaining before this prompt's work.
 - Next A.C.T-origin technology number is `TECH-ACT-133`.
@@ -1129,7 +1137,7 @@ Work completed during this prompt:
 
 - Prompt-start Patch Saver update was appended before continuing work.
 - User clarified they want A.C.T technology count as `X/X`; current immediate site/floor pass moved from `132/136` complete before this prompt to `135/136` complete after this prompt, with `1/136` remaining in the immediate confirmed site/floor pass.
-- Verified active branch state at the start of the continuation: `arena/01a08e49-a-c-t-facility-universe`, HEAD `e8f854200d174d853d001fe0edeae8c32cc3b6fd`, clean before the prompt-start Patch Saver write.
+- Verified active branch state at the start of the continuation: active session branch, HEAD `e8f854200d174d853d001fe0edeae8c32cc3b6fd`, clean before the prompt-start Patch Saver write.
 - Read selected White Grave F-4, F-3, and F-2 source sections through non-truncated targeted reads before drafting, including F-4 long-term biological observation and cold-suppressed study, F-3 standard deep-isolation and biological suppression holding, and F-2 failure-tolerant entropic holding with redundant structures and self-repairing environmental systems.
 - Created `TECH-ACT-133` Long-Term Biological Observation and Cold-Suppressed Study System as Markdown/TXT twins.
 - Created `TECH-ACT-134` Biological Suppression Chamber and Climate-Controlled Deep-Isolation Holding System as Markdown/TXT twins.
@@ -1189,7 +1197,7 @@ New user prompt received: `p`.
 
 Required continuation state:
 
-- Continue on branch `arena/01a08e49-a-c-t-facility-universe` only.
+- Continue on the active session branch only.
 - Preserve completed technology records through `TECH-ACT-135`.
 - Current immediate confirmed A.C.T site/floor technology pass is `135/136` complete before new drafting, with `1/136` remaining.
 - Next A.C.T-origin technology number is `TECH-ACT-136`.
@@ -1204,7 +1212,7 @@ Work completed during this prompt:
 
 - Prompt-start Patch Saver update was appended before continuing work.
 - Immediate confirmed A.C.T site/floor technology pass moved from `135/136` complete before this prompt to `136/136` complete after this prompt.
-- Verified active branch state at the start of the continuation: `arena/01a08e49-a-c-t-facility-universe`, HEAD `08c129da6222f4817020a7b34936a51d4dc4eb97`, clean before the prompt-start Patch Saver write.
+- Verified active branch state at the start of the continuation: active session branch, HEAD `08c129da6222f4817020a7b34936a51d4dc4eb97`, clean before the prompt-start Patch Saver write.
 - Read White Grave F-1 The Long Sleep through complete non-truncated targeted reads before drafting, including Long Sleep doctrine, individual sleep vaults, deep-cold reinforcement, sleep-state monitoring, resident-specific access, Soul Pendant maximum isolation, and F-1 closure procedure.
 - Created `TECH-ACT-136` Long Sleep Vault and F-1 Closure Containment System as Markdown/TXT twins.
 - Updated `TECH_MD/README.md`, `TECH_TXT/README.txt`, and root `README.md` through `TECH-ACT-136`.
@@ -1258,7 +1266,7 @@ New user prompt received: `Then you just need to create five of each individual 
 
 Required continuation state:
 
-- Continue on branch `arena/01a08e49-a-c-t-facility-universe` only.
+- Continue on the active session branch only.
 - Preserve completed immediate confirmed A.C.T site/floor technology pass at `136/136`.
 - Begin GOI-acquired technology phase unless user redirects.
 - Interpret current GOI-acquired technology target as five individual acquired technology records per GOI, using GOI-linked numbering: `TECH-GOI-xxx-y`, where `xxx` is the GOI number and `y` is that GOI's individual technology number.
@@ -1273,7 +1281,7 @@ Work completed during this prompt:
 - Prompt-start Patch Saver update was appended before continuing work.
 - User directed creation of five acquired technology records for each individual GOI.
 - Current count interpretation: 30 active GOI dossiers times 5 technology records each equals 150 GOI-acquired technology records total. Existing `TECH-GOI-071-1` counted as 1/150 before this prompt. This prompt adds `TECH-GOI-071-2` through `TECH-GOI-071-4`, moving the GOI-acquired technology count to `4/150` complete, `146/150` remaining. Mercy Lock Institute itself is now `4/5` complete, `1/5` remaining.
-- Verified active branch state at the start of the continuation: `arena/01a08e49-a-c-t-facility-universe`, HEAD `ed9676e76002fa59f88e42dcf9aeca2d0611dddd`, clean before the prompt-start Patch Saver write.
+- Verified active branch state at the start of the continuation: active session branch, HEAD `ed9676e76002fa59f88e42dcf9aeca2d0611dddd`, clean before the prompt-start Patch Saver write.
 - Read Mercy Lock Institute GOI dossier and existing `TECH-GOI-071-1` through non-truncated targeted reads before drafting, including patient bells, consent ledgers, quiet rooms, gentle lock interface, transfer cards, Red Key failures, and hostile-use concerns.
 - Created `TECH-GOI-071-2` Mercy Lock Patient Bell Distress Signal System as Markdown/TXT twins.
 - Created `TECH-GOI-071-3` Mercy Lock Consent Ledger and Custody Status System as Markdown/TXT twins.
@@ -1322,7 +1330,7 @@ Next prompt instruction:
 ## Prompt Start Update — 2026-09-16, Continue GOI-Acquired Technology After Mercy Lock `5/5`
 User sent `p`, meaning proceed/continue. Continue the GOI-acquired technology phase.
 
-Current confirmed pushed head before this prompt: `196003032c936c3e1e904bb11ac9fabb35969ad4` on `arena/01a08e49-a-c-t-facility-universe`.
+Current confirmed pushed head before this prompt: `196003032c936c3e1e904bb11ac9fabb35969ad4` on the active session branch.
 
 Current count before new drafting in this prompt:
 
@@ -1332,7 +1340,7 @@ Current count before new drafting in this prompt:
 
 Immediate continuation instructions:
 
-- Keep branch fixed to `arena/01a08e49-a-c-t-facility-universe`.
+- Keep branch fixed to the active session branch.
 - Select the next GOI with source-backed technology/equipment that A.C.T acquires or inspects.
 - Read the relevant GOI dossier carefully before drafting.
 - Create five manually drafted `TECH-GOI-xxx-y` Markdown/TXT twin records for that GOI.
@@ -1342,7 +1350,7 @@ Immediate continuation instructions:
 ## Prompt End Update — 2026-09-16, DREAM .INC Acquired Technology Set Completed at `5/5`
 Work completed during this prompt:
 
-- Local branch had rehydrated to stale base state at prompt start after status showed large historical uncommitted drift. Saved the prompt-start Patch Saver block, explicitly fetched `arena/01a08e49-a-c-t-facility-universe`, hard reset to confirmed remote head `196003032c936c3e1e904bb11ac9fabb35969ad4`, and reapplied the prompt-start Patch Saver block. Working tree then contained only the intended Patch Saver modification before new work continued.
+- Local branch had rehydrated to stale base state at prompt start after status showed large historical uncommitted drift. Saved the prompt-start Patch Saver block, explicitly fetched the active session branch, hard reset to confirmed remote head `196003032c936c3e1e904bb11ac9fabb35969ad4`, and reapplied the prompt-start Patch Saver block. Working tree then contained only the intended Patch Saver modification before new work continued.
 - Selected DREAM .INC (`GOI-CP-B-049`) as the next GOI-acquired technology set because its dossier explicitly identifies the Dream Nectar Extraction Apparatus, Dream-Type source relationship, product supply, buildings, consumer data, customer screening, appointment/payment/confidential-report systems, product batches, and a quiet machine condition communication that A.C.T targets for infiltration, containment, and appropriation.
 - Read the DREAM .INC dossier carefully through targeted non-truncated sections before drafting.
 - Created `TECH-GOI-049-1` DREAM .INC Dream Nectar Extraction Apparatus as Markdown/TXT twins.
@@ -1384,7 +1392,7 @@ Immediate next work after this prompt:
 ## Prompt Start Update — 2026-09-16, Continue GOI-Acquired Technology After DREAM .INC `5/5`
 User sent `p`, meaning proceed/continue. Continue the GOI-acquired technology phase.
 
-Current confirmed pushed head before this prompt: `e9d8ef24865d15af21e36be81cdcc659c59ef5b1` on `arena/01a08e49-a-c-t-facility-universe`.
+Current confirmed pushed head before this prompt: `e9d8ef24865d15af21e36be81cdcc659c59ef5b1` on the active session branch.
 
 Current count before new drafting in this prompt:
 
@@ -1395,7 +1403,7 @@ Current count before new drafting in this prompt:
 
 Immediate continuation instructions:
 
-- Keep branch fixed to `arena/01a08e49-a-c-t-facility-universe`.
+- Keep branch fixed to the active session branch.
 - Select the next GOI with source-backed technology/equipment that A.C.T acquires or inspects.
 - Read the relevant GOI dossier carefully before drafting.
 - Create five manually drafted `TECH-GOI-xxx-y` Markdown/TXT twin records for that GOI.
@@ -1406,7 +1414,7 @@ Immediate continuation instructions:
 Work completed during this prompt:
 
 - Prompt-start Patch Saver update was appended before continuing.
-- Local branch again showed historical stale uncommitted drift at prompt start. Saved the prompt-start Patch Saver block, explicitly fetched `arena/01a08e49-a-c-t-facility-universe`, hard reset to confirmed remote head `e9d8ef24865d15af21e36be81cdcc659c59ef5b1`, cleaned stale untracked files, and reapplied the prompt-start Patch Saver block. Working tree then contained only the intended Patch Saver modification before new work continued.
+- Local branch again showed historical stale uncommitted drift at prompt start. Saved the prompt-start Patch Saver block, explicitly fetched the active session branch, hard reset to confirmed remote head `e9d8ef24865d15af21e36be81cdcc659c59ef5b1`, cleaned stale untracked files, and reapplied the prompt-start Patch Saver block. Working tree then contained only the intended Patch Saver modification before new work continued.
 - Selected Mysterious Guild (`GOI-HY-U-051`) as the next GOI-acquired technology set because its dossier explicitly identifies recoverable or inspectable Guild technology layers: MNT-092 VESPER records, OMEGA-KERN, Gamification Protocol, Guild Registry maintenance logic, Argus KSG-16 data, Feedbacker Shield data, Ghost Files, Guild leash references, Bifocal Perception Suite records, data-slates, and future-origin equipment contact warnings.
 - Read the Mysterious Guild dossier carefully through targeted non-truncated sections before drafting.
 - Created `TECH-GOI-051-1` Mysterious Guild OMEGA-KERN Gamification Protocol Control Layer as Markdown/TXT twins.
@@ -1449,7 +1457,7 @@ Immediate next work after this prompt:
 ## Prompt Start Update — 2026-09-16, Continue GOI-Acquired Technology After Mysterious Guild `5/5`
 User sent `p`, meaning proceed/continue. Continue the GOI-acquired technology phase.
 
-Current confirmed pushed head before this prompt: `90e5f4b2b1c6d136b5ba6d0273970b26b6660b08` on `arena/01a08e49-a-c-t-facility-universe`.
+Current confirmed pushed head before this prompt: `90e5f4b2b1c6d136b5ba6d0273970b26b6660b08` on the active session branch.
 
 Current count before new drafting in this prompt:
 
@@ -1461,7 +1469,7 @@ Current count before new drafting in this prompt:
 
 Immediate continuation instructions:
 
-- Keep branch fixed to `arena/01a08e49-a-c-t-facility-universe`.
+- Keep branch fixed to the active session branch.
 - Select the next GOI with source-backed technology/equipment that A.C.T acquires or inspects.
 - Read the relevant GOI dossier carefully before drafting.
 - Create five manually drafted `TECH-GOI-xxx-y` Markdown/TXT twin records for that GOI.
@@ -1516,7 +1524,7 @@ Immediate next work after this prompt:
 ## Prompt Start Update — 2026-09-16, Continue GOI-Acquired Technology After Amazoo Circus `5/5`
 User sent `pp`, meaning proceed/continue. Continue the GOI-acquired technology phase.
 
-Current confirmed pushed head before this prompt: `0d3a7c5f5eb9ac6aa4fadefe85141ce6c8278824` on `arena/01a08e49-a-c-t-facility-universe`.
+Current confirmed pushed head before this prompt: `0d3a7c5f5eb9ac6aa4fadefe85141ce6c8278824` on the active session branch.
 
 Current count before new drafting in this prompt:
 
@@ -1529,7 +1537,7 @@ Current count before new drafting in this prompt:
 
 Immediate continuation instructions:
 
-- Keep branch fixed to `arena/01a08e49-a-c-t-facility-universe`.
+- Keep branch fixed to the active session branch.
 - Select the next GOI with source-backed technology/equipment that A.C.T acquires or inspects.
 - Read the relevant GOI dossier carefully before drafting.
 - Create five manually drafted `TECH-GOI-xxx-y` Markdown/TXT twin records for that GOI.
@@ -1540,7 +1548,7 @@ Immediate continuation instructions:
 Work completed during this prompt:
 
 - Prompt-start Patch Saver update was appended before continuing.
-- Local branch showed historical stale uncommitted drift at prompt start again. Saved the prompt-start Patch Saver block, explicitly fetched `arena/01a08e49-a-c-t-facility-universe`, hard reset to confirmed remote head `0d3a7c5f5eb9ac6aa4fadefe85141ce6c8278824`, cleaned stale untracked files, and reapplied the prompt-start Patch Saver block before new work continued.
+- Local branch showed historical stale uncommitted drift at prompt start again. Saved the prompt-start Patch Saver block, explicitly fetched the active session branch, hard reset to confirmed remote head `0d3a7c5f5eb9ac6aa4fadefe85141ce6c8278824`, cleaned stale untracked files, and reapplied the prompt-start Patch Saver block before new work continued.
 - Selected Missing 404 Watch Tower (`GOI-HY-W-053`) as the next GOI-acquired technology set because its dossier explicitly identifies watch towers, signal ledgers, missing-person registers, null-coordinate maps, archived dead links, rescue bells, dead-address ledgers, analog photograph vaults, microfilm/paper archives, private radio relays, locked emergency phones, trail-marking kits, portable signal lamps, and cooperative A.C.T recovery notices.
 - Read the Missing 404 Watch Tower dossier carefully through full and targeted non-truncated sections before drafting.
 - Created `TECH-GOI-053-1` Missing 404 Watch Tower Dead-Address Ledger System as Markdown/TXT twins.
@@ -1585,7 +1593,7 @@ Immediate next work after this prompt:
 ## Prompt Start Update — 2026-09-16, Continue GOI-Acquired Technology After Missing 404 Watch Tower `5/5`
 User sent `ppp`, meaning proceed/continue. Continue the GOI-acquired technology phase.
 
-Current confirmed pushed head before this prompt: `a434a6595997b9f494fc60186b058944da18c18f` on `arena/01a08e49-a-c-t-facility-universe`.
+Current confirmed pushed head before this prompt: `a434a6595997b9f494fc60186b058944da18c18f` on the active session branch.
 
 Current count before new drafting in this prompt:
 
@@ -1599,7 +1607,7 @@ Current count before new drafting in this prompt:
 
 Immediate continuation instructions:
 
-- Keep branch fixed to `arena/01a08e49-a-c-t-facility-universe`.
+- Keep branch fixed to the active session branch.
 - Select the next GOI with source-backed technology/equipment that A.C.T acquires or inspects.
 - Read the relevant GOI dossier carefully before drafting.
 - Create five manually drafted `TECH-GOI-xxx-y` Markdown/TXT twin records for that GOI.
@@ -1610,7 +1618,7 @@ Immediate continuation instructions:
 Work completed during this prompt:
 
 - Prompt-start Patch Saver update was appended before continuing.
-- Local branch showed historical stale uncommitted drift at prompt start again. Saved the prompt-start Patch Saver block, explicitly fetched `arena/01a08e49-a-c-t-facility-universe`, hard reset to confirmed remote head `a434a6595997b9f494fc60186b058944da18c18f`, cleaned stale untracked files, and reapplied the prompt-start Patch Saver block before new work continued.
+- Local branch showed historical stale uncommitted drift at prompt start again. Saved the prompt-start Patch Saver block, explicitly fetched the active session branch, hard reset to confirmed remote head `a434a6595997b9f494fc60186b058944da18c18f`, cleaned stale untracked files, and reapplied the prompt-start Patch Saver block before new work continued.
 - Selected Lullaby Works (`GOI-CP-P-054`) as the next GOI-acquired technology set because its dossier explicitly identifies protective toys, comfort objects, nursery devices, recalled product lots, donor routes, care instructions, warranty ledgers, nightlights, stuffed animals, blankets, music boxes, paper masks, toy radios, soft dolls, play tents, repair vans, donation lockers, product tags, failure crates, recall lists, and child-safety product recovery cases.
 - Read the Lullaby Works dossier carefully through full and targeted non-truncated sections before drafting.
 - Created `TECH-GOI-054-1` Lullaby Works Sleep-Safe Nightlight Lot System as Markdown/TXT twins.
@@ -1656,7 +1664,7 @@ Immediate next work after this prompt:
 ## Prompt Start Update — 2026-09-16, Count GOI Remaining and Continue Precaution Discipline
 User sent `p + how many GOI + Always update the precaution filep + how many GOI + Always update the precaution file`. Treat `p` as proceed/continue and answer the count question before any further drafting.
 
-Current confirmed pushed head before this prompt: `c087f879ca7fb387fde764fc752ae02311c91bc4` on `arena/01a08e49-a-c-t-facility-universe`.
+Current confirmed pushed head before this prompt: `c087f879ca7fb387fde764fc752ae02311c91bc4` on the active session branch.
 
 Current count before new drafting in this prompt:
 
@@ -1669,7 +1677,7 @@ Current count before new drafting in this prompt:
 Precaution-file standing instruction reaffirmed:
 
 - `PATCH SAVER/Technology_Phase_Patch_Saver.md` must be updated at the start of every new user prompt before continuing work.
-- Keep branch fixed to `arena/01a08e49-a-c-t-facility-universe`.
+- Keep branch fixed to the active session branch.
 - If stale historical workspace drift appears again, save this prompt-start block, explicit-refspec fetch the fixed branch, hard reset/clean to remote head, then reapply this prompt-start block before proceeding.
 
 ## Prompt End Update — 2026-09-16, GOI Count Answer Logged
@@ -1699,7 +1707,7 @@ Immediate next work:
 ## Prompt Start Update — 2026-09-16, Continue GOI-Acquired Technology After GOI Count Check
 User sent `p`, meaning proceed/continue. Continue the GOI-acquired technology phase after the count confirmation.
 
-Current confirmed pushed head before this prompt: `f4f244b84d35f80334d17e5488d38f95790c90ac` on `arena/01a08e49-a-c-t-facility-universe`.
+Current confirmed pushed head before this prompt: `f4f244b84d35f80334d17e5488d38f95790c90ac` on the active session branch.
 
 Current count before new drafting in this prompt:
 
@@ -1711,7 +1719,7 @@ Current count before new drafting in this prompt:
 
 Immediate continuation instructions:
 
-- Keep branch fixed to `arena/01a08e49-a-c-t-facility-universe`.
+- Keep branch fixed to the active session branch.
 - Select the next GOI with source-backed technology/equipment that A.C.T acquires or inspects.
 - Read the relevant GOI dossier carefully before drafting.
 - Create five manually drafted `TECH-GOI-xxx-y` Markdown/TXT twin records for that GOI.
@@ -1766,7 +1774,7 @@ Immediate next work after this prompt:
 ## Prompt Start Update — 2026-09-16, Continue GOI-Acquired Technology After Cairn & Lintel `5/5`
 User sent `pp`, meaning proceed/continue. Continue the GOI-acquired technology phase.
 
-Current confirmed pushed head before this prompt: `aff1db6fff2a7ff8b2b0f80e627795ffdc996093` on `arena/01a08e49-a-c-t-facility-universe`.
+Current confirmed pushed head before this prompt: `aff1db6fff2a7ff8b2b0f80e627795ffdc996093` on the active session branch.
 
 Current count before new drafting in this prompt:
 
@@ -1778,7 +1786,7 @@ Current count before new drafting in this prompt:
 
 Immediate continuation instructions:
 
-- Keep branch fixed to `arena/01a08e49-a-c-t-facility-universe`.
+- Keep branch fixed to the active session branch.
 - Select the next GOI with source-backed technology/equipment that A.C.T acquires or inspects.
 - Read the relevant GOI dossier carefully before drafting.
 - Create five manually drafted `TECH-GOI-xxx-y` Markdown/TXT twin records for that GOI.
@@ -1829,3 +1837,66 @@ Immediate next work after this prompt:
 - Commit and push.
 - Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
 - On next prompt, append a new prompt-start Patch Saver update, then choose another source-backed GOI technology set.
+
+## Prompt Start Update — 2026-09-17, Branch Rule Made Session-Agnostic
+User prompt received: `A.C.T. UNIVERSE`, clarified as: continue the technology phase (Option 1) **and** repair this Patch Saver so it no longer points at any `arena/<session-id>-a-c-t-facility-universe` branch name.
+
+Reason for the repair: this file previously hard-coded a completed session's branch name in 52 places and ordered future work to stay on it and hard-reset to it. Arena issues a fresh branch per session, so that instruction was stale on arrival and would have moved work off the branch the platform tracks.
+
+Patch Saver compliance action:
+
+- Rewrote the **Current Branch Rule** so the branch is resolved at runtime with `git rev-parse --abbrev-ref HEAD` instead of read from this file.
+- Replaced all 52 hard-coded branch-name occurrences across the historical log with the neutral phrase "the active session branch", preserving each entry's commit hash and factual content.
+- Verified `arena/01a0` appears **0** times in this file after the rewrite.
+- This file no longer requires a branch-name edit when a new session opens.
+
+State entering this prompt:
+
+- Active session branch resolved live: `arena/01a0ab57-a-c-t-facility-universe`, HEAD `a17dfd048c8666ce55c1dc2363bc40a0cfa0bf80`, working tree clean.
+- Completed GOI technology sets before this prompt: DREAM .INC, Mysterious Guild, Amazoo Circus, Missing 404 Watch Tower, Lullaby Works, Cairn & Lintel, Saint-Vera Restoration Concern, Mercy Lock Institute (`8/30`).
+- Next source-backed GOI selected: **Anstrall Market (`GOI-BS-T-027`)**, chosen because its dossier explicitly identifies broker claim narrowing, controlled descriptions, valuation factors, handler custody rules, packaging, altered manifests, concealed payment, false provenance chains, staged demonstrations, recorded proof, and recovered catalogues.
+
+## Prompt End Update — 2026-09-17, Anstrall Market Acquired Technology Set Completed at `5/5`
+Work completed during this prompt:
+
+- Repaired the branch rule and all 52 stale branch references as recorded above.
+- Read the Anstrall Market dossier in full, including the truncated organization, transaction-cycle, valuation, handler, transit, demonstration, catalogue, and interdiction sections, before drafting.
+- Created `TECH-GOI-027-1` Anstrall Market Broker Claim-Control and Controlled-Description Distribution System as Markdown/TXT twins.
+- Created `TECH-GOI-027-2` Anstrall Market Anomalous Object Valuation and Demand-Price Ledger as Markdown/TXT twins.
+- Created `TECH-GOI-027-3` Anstrall Market Handler Improvised Custody Rule and Packaging Set as Markdown/TXT twins.
+- Created `TECH-GOI-027-4` Anstrall Market Concealed Payment and False Provenance Chain System as Markdown/TXT twins.
+- Created `TECH-GOI-027-5` Anstrall Market Staged Demonstration and Recorded Proof Exposure Set as Markdown/TXT twins.
+- Inserted all five entries at the top of the GOI block in `TECH_MD/README.md` and `TECH_TXT/README.txt`, matching the ascending GOI-number ordering.
+- Prepended five `TECH-GOI-027-x` sentences to the Current Status paragraph in both technology indexes.
+- Added the five records to the technology-records row of the root `README.md`.
+
+Validation results before staging:
+
+- `TECH-GOI-027-1` Markdown word count: `474`; TXT word count: `469`.
+- `TECH-GOI-027-2` Markdown word count: `489`; TXT word count: `484`.
+- `TECH-GOI-027-3` Markdown word count: `476`; TXT word count: `471`.
+- `TECH-GOI-027-4` Markdown word count: `452`; TXT word count: `447`.
+- `TECH-GOI-027-5` Markdown word count: `453`; TXT word count: `448`.
+- New TXT twins had no Markdown-only marker hits: `0`.
+- All five new pairs pass the twin rule (Markdown equals TXT after stripping heading markers).
+- No old bad technology designation strings found. No stale or misspelled E-Class wording found.
+- Forbidden-wording scan on all ten new files returned `0` genuine hits. One `prompt` match was reviewed and cleared: the phrase "recruitment or acquisition prompts" is verbatim in-world language from the source dossier at `GOI_MD/GOI-BS-T-027-Anstrall-Market.md` line 298, not out-of-world wording.
+- Repo-wide document check: `DOCUMENT_COUNT 874`, `BELOW_200_COUNT 0`, `EMPTY_COUNT 0`, `NO_FINAL_NEWLINE_COUNT 0`, `UTF8_DECODE_ERROR_COUNT 0`, `EXACT_CONFLICT_MARKER_COUNT 0`.
+- Technology pair check: `TECH_MD 183`, `TECH_TXT 183`, no missing pairs.
+- GOI pair check: `GOI_MD 35`, `GOI_TXT 35`, no missing pairs.
+- Broken local Markdown links: `0` of `433` checked, after correcting the checker to accept directory targets. The single earlier flag was `GOI_MD/README.md` pointing at the existing `Recovered_Document_Records/` folder; that link is present unchanged at HEAD and was not touched in this prompt.
+- `git diff --check` and `git diff --cached --check` both returned `0`.
+
+Current count after this prompt's content if committed:
+
+- Completed GOI-acquired technology sets: Anstrall Market, DREAM .INC, Mysterious Guild, Amazoo Circus, Missing 404 Watch Tower, Lullaby Works, Cairn & Lintel, Saint-Vera Restoration Concern, and Mercy Lock Institute.
+- Completed GOIs in the GOI-acquired technology phase: `9/30`.
+- Remaining GOIs in the GOI-acquired technology phase: `21/30`.
+- GOI-acquired technology total: `45/150`.
+- Remaining GOI-acquired technology total: `105/150`.
+
+Immediate next work after this prompt:
+
+- Commit and push this batch on the active session branch.
+- Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
+- On the next prompt, append a prompt-start Patch Saver update, resolve the branch live with `git rev-parse --abbrev-ref HEAD`, then choose another source-backed GOI technology set. No branch-name edit to this file is required.

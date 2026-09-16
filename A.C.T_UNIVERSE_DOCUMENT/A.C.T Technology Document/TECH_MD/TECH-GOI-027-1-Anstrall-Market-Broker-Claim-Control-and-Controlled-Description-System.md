@@ -1,0 +1,25 @@
+# TECH-GOI-027-1 - ANSTRALL MARKET BROKER CLAIM-CONTROL AND CONTROLLED-DESCRIPTION DISTRIBUTION SYSTEM
+
+Technology Designation: TECH-GOI-027-1
+Technology Name: Anstrall Market Broker Claim-Control and Controlled-Description Distribution System
+Common Abbreviations: Claim Control / Broker Description Set / Narrowed Claim
+Origin: Anstrall Market
+Acquisition Status: Recovered fragments from intercepted broker contact; no complete Market description standard held
+Primary A.C.T Interest: Trade interdiction, buyer-network mapping, information containment, controlled-contact safety
+Archive Handling: TRADE-INTERDICTION RESTRICTED / ACTIVE-ROUTE DISCLOSURE LIMIT
+
+## Functional Identity
+
+The Anstrall Market Broker Claim-Control and Controlled-Description Distribution System is the commercial information technology that lets a broker advertise an anomalous object without disclosing enough to allow identification, seizure, or independent recovery. Intelligence Division records the transaction cycle phase as Claim Control: a broker narrows the description, withholds verification detail, and manages the risk that the object is fraudulent, unsafe, or already sought by another actor. A.C.T files this as acquired GOI technology because the same method governs what a buyer learns, what a seller admits, and what a handler is told.
+
+## Known Structure and Use
+
+The system is procedural rather than mechanical. Brokers verify that an item exists, distribute a controlled description, arrange a viewing, negotiate a risk premium, or direct a client toward a handler capable of moving the item. Recovered material shows ordinary commercial language carrying deliberately incomplete claims: an effect described but not timed, a condition reported but not located, a capability asserted but not demonstrated. Descriptions are tuned to attract a qualified buyer while remaining useless to a rival, an investigator, or a Facility analyst working from the text alone. The Market benefits from brokers who can be replaced more easily than a route map or leadership contact, so claim wording is designed to survive the loss of the broker who wrote it.
+
+## A.C.T Handling Rules
+
+Recovered broker descriptions are trade-interdiction evidence and must not be circulated as an object register. Descriptions are routed to Object Custody, Route Intelligence, or Commercial Intelligence classes according to what they actually reveal. A description that reads as ordinary collector language still enters exposure review, because Archive review of recovered Market material has already established that a price, a false provenance, or a partial claim can make an object desirable to an unqualified buyer. Controlled contact rules prohibit revealing that a broker, handler, or client is under Facility observation unless exposure is operationally necessary.
+
+## Failure and Open Questions
+
+Claim control fails when a buyer demands live proof, when a rival broker reuses the same wording to sell a different object, or when a seller exaggerates beyond what the item can survive. A.C.T does not know whether narrowed claim wording is deliberate leadership policy issued through Anstrall or an informal practice copied independently between brokers. Neither explanation is confirmed. Recovered descriptions must therefore be treated as behavioral evidence about one broker, not as a validated Market standard.
