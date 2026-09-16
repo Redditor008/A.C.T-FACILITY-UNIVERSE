@@ -1,0 +1,31 @@
+TECH-GOI-055-3 - CAIRN & LINTEL SHELTER KEY ACTIVATION SYSTEM
+
+Technology Designation: TECH-GOI-055-3
+Technology Name: Cairn & Lintel Shelter Key Activation System
+Common Abbreviations: Shelter Key / Green Key / C&L Key
+Origin: Cairn & Lintel
+Acquisition Status: Recovered inactive key evidence, route-card instruction, and cooperative shelter review
+Primary A.C.T Interest: Emergency door activation, child-safe evacuation, access control, post-incident component custody
+Archive Handling: OCCUPIED-SHELTER DISCLOSURE LIMIT / RECOVERY-SUBJECT CARE REVIEW
+
+Functional Identity
+
+The Cairn & Lintel Shelter Key Activation System is the key-and-door technology used to open or guide protected exits during abnormal building events. The GOI dossier identifies shelter keys as known assets and preserves a school route card instructing evacuees to have the smallest child carry the green key if the hallway repeats the trophy case. The same incident ended with Door 2B opening into a service corridor absent from the school plan; the green key became ordinary brass after closure. A.C.T files the system as acquired GOI technology because key custody can determine whether a shelter route activates safely.
+
+The key is not only a lock tool. It appears to be an authorization token, route focus, fear-bearing object, and possibly a civilian-priority control. The route card's line, the key will be afraid, suggests the object either carries a response state or that C&L writes instructions in terms frightened children can follow.
+
+Known Structure and Use
+
+Known shelter keys may be brass, painted green, tagged through charity shelter kits, hidden behind clocks, assigned to children, or paired with door labels that shift during incidents. A.C.T has recovered at least one key after it became ordinary. Whether inactive keys retain forensic value is under Engineering review.
+
+The system may require the right carrier. The instruction to use the smallest child may indicate height, innocence, witness priority, anomaly targeting logic, or social control designed to make adults protect the child carrying the exit.
+
+A.C.T Handling Rules
+
+A.C.T personnel must not take an active shelter key away from civilians during evacuation unless the key is causing immediate harm. If a child holds the key, Subject Care controls communication. Staff must not mock, test, or replace the carrier without cause.
+
+Recovered inactive keys must be bagged with route card, door number, time of activation, carrier identity restrictions, and closure condition. Do not cut duplicate keys from an anomalous original without Engineering approval.
+
+Failure and Open Questions
+
+Failure modes include assigning the key to the wrong person, treating an ordinary-looking key as trash after closure, copying a key that opens into nowhere, or using a key to bypass civilian shelter boundaries for tactical convenience. Open questions include why some keys become ordinary, whether fear is a functional state, and whether a key can refuse an operator. Archive confidence is High for one documented school key and Moderate for a broader system.
