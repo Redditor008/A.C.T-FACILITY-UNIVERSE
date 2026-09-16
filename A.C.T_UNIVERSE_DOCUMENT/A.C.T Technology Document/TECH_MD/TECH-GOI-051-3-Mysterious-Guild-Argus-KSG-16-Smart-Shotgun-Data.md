@@ -1,0 +1,33 @@
+# TECH-GOI-051-3 - MYSTERIOUS GUILD ARGUS KSG-16 SMART-SHOTGUN DATA
+
+Technology Designation: TECH-GOI-051-3
+Technology Name: Mysterious Guild Argus KSG-16 Smart-Shotgun Data
+Common Abbreviations: Argus KSG-16 / Item-W01 / Smart-Shotgun Data
+Origin: Mysterious Guild
+Acquisition Status: Recovered record data and AFD-OB-312 testing correlation; physical custody unresolved by this file
+Primary A.C.T Interest: Future-origin weapon safety, registry message correlation, smart-targeting analysis, tactical containment limits
+Archive Handling: GUILD ARMORY RESTRICTED / WEAPON DATA AIR-GAP
+
+## Functional Identity
+
+The Mysterious Guild Argus KSG-16 Smart-Shotgun Data record covers the Guild weapon system identified in the Mysterious Guild dossier as Item-W01 Argus KSG-16 and linked to recovered future-origin weapon testing material. A.C.T has not treated the Argus name as a normal firearm model. The recovered context ties it to Guild armory records, maintenance warnings, vanguard deployment, and the broader pattern of converting combat into managed interface behavior.
+
+This technology record concerns the data layer A.C.T can study: naming, maintenance instruction, probable smart-targeting behavior, registry dependency, and risk to personnel. It does not authorize reproduction of ammunition, firmware, targeting routines, or any physical shotgun assembly. If a physical weapon is present in a separate AFD-OB file, that file controls immediate containment.
+
+## Known Behavior
+
+The Argus KSG-16 appears in a Guild technology environment that also includes OMEGA-KERN, Feedbacker Shield data, Bifocal Perception Suite records, sacral-scythe mobility systems, data-slates, and Guild Registry maintenance logic. The name Argus implies multi-point watching, but A.C.T does not assume the label describes the mechanism. The smart-shotgun may identify targets, authorize firing states, track ammunition, communicate with OMEGA-KERN, or require registry maintenance before safe operation.
+
+The recovered maintenance message from AFD-OB-312 proves that at least one future-origin weapon system could display Guild Registry instructions. A.C.T therefore treats Argus data as a possible contact vector. Even a disconnected diagnostic screen may carry unsafe commands if personnel respond to it as ordinary maintenance.
+
+## A.C.T Handling Rules
+
+Argus data must remain air-gapped from tactical training systems. No targeting model is to be imported into A.C.T range software, drone control, facility turret logic, or personnel simulator environments. No user may attempt to satisfy a Guild maintenance state by loading ammunition, cycling a weapon, connecting a diagnostic cable, or presenting VESPER as an authorized operator.
+
+Any reference to Item-W01 must be cross-checked against AFD-OB-312 and VESPER files. Tactical Review may study failure warnings, power isolation, material composition, and safe transport. Subject Care must review any testing proposal that would expose VESPER to the weapon, its name, its sounds, or its maintenance display.
+
+## Failure and Open Questions
+
+Primary risks include accidental discharge, false target recognition, registry contact, operator coercion, and A.C.T adoption of Guild smart-weapon doctrine. A weapon designed for a gamified operative may not understand surrender, bystanders, hostages, family members, or medical staff as protected categories.
+
+Open questions include whether the Argus KSG-16 is a shotgun, a launcher, a sensor platform shaped like a shotgun, or an interface-dependent weapon that becomes meaningful only when held by a Guild operative. Archive confidence is Moderate for record existence and Low for safe technical understanding.
