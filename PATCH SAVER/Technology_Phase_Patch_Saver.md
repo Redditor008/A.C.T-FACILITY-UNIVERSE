@@ -7,16 +7,19 @@ This file exists because the user ordered a Patch Saver to prevent task-state lo
 At the start of every new user prompt from this point forward, update this file before continuing work. At the end of each completed batch, update it again with the new commit, pushed hash, validation results, and next action.
 
 ## Working Style Rule
-Report to the user once, at the end of the prompt, after all work is finished, committed, and pushed.
+The user has stated this twice, in the same words, because the first version of this rule was not strict enough. Treat it as hard.
 
-Do not alternate between running commands and narrating them. Do not post progress commentary between batches of work. The user does not read individual command transcripts and cannot inspect intermediate output, because nothing is verifiable to them until it is committed and pushed to the branch. Interleaved narration reads as clutter and wastes the user's attention on state they cannot act on.
+The user does not read command transcripts. They cannot inspect anything mid-prompt, because nothing is verifiable to them until it is committed and pushed. Every tool call and every line of text emitted before the final report is therefore noise that costs them attention and gives them nothing.
 
-The required shape of a completed prompt is therefore:
+Required shape of a completed prompt:
 
-1. Read source, draft, update indexes, validate, commit, push, and fetch-verify silently.
-2. Then produce a single closing report containing the verified results, the commit hash, and the next action.
+1. Emit **no assistant text at all** before the final report. No preambles, no "let me check", no progress notes, no explanations of what you are about to run.
+2. Collapse the entire prompt's work into the **fewest possible tool calls — target one**. Read, draft, edit, validate, commit, push, and fetch-verify inside a single script wherever the work allows it. Separate calls are only justified when one call's result must decide the next step.
+3. Then write **one short closing report**: verified results with their actual numbers, the commit hash, and the next action. Keep it tight; do not restate the process step by step.
 
-This rule is about reporting, not about skipping verification. Validation, commit, push, and fetch-verify are still mandatory; only the mid-work narration is removed.
+This governs reporting only. It never licenses skipping verification, validation, commit, push, or fetch-verify, and it never licenses presenting unchecked work as done. If a check fails, fix it and re-run inside the same call, then report the failure honestly in the closing report.
+
+Do not ask the user whether they want this style. They have answered twice.
 
 ## Current Branch Rule
 All work must remain on the **active Arena session branch**. This file must never hard-code a branch name, because Arena issues a fresh `arena/<session-id>-a-c-t-facility-universe` branch every time a new session opens and any name written here goes stale immediately.
