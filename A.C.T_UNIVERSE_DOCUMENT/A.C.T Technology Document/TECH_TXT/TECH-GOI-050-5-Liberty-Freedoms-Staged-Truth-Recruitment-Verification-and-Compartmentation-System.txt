@@ -1,0 +1,25 @@
+TECH-GOI-050-5 - LIBERTY FREEDOMS STAGED-TRUTH RECRUITMENT VERIFICATION AND COMPARTMENTATION SYSTEM
+
+Technology Designation: TECH-GOI-050-5
+Technology Name: Liberty Freedoms Staged-Truth Recruitment Verification and Compartmentation System
+Common Abbreviations: Staged Truth / True Fragment / Gate Screening
+Origin: Liberty Freedoms
+Acquisition Status: Reconstructed from returnee and captured-defector interviews; no captured recruitment manual held
+Primary A.C.T Interest: Insider-approach detection, vulnerability-profile analysis, defector credibility assessment, witness-chain control
+Archive Handling: DEFECTOR-IDENTITY RESTRICTED / GATE-CELL SOURCE CONTROL
+
+Functional Identity
+
+The Liberty Freedoms Staged-Truth Recruitment Verification and Compartmentation System is the personnel technology that converts a true grievance into armed commitment while keeping most members ignorant of the whole operation. The dossier records Gate Cells as the function that recruits, protects, and vets former A.C.T personnel, contractors, and their families, managing the highest-risk asset the network holds, which is inside knowledge. A.C.T files this as acquired GOI technology because the method is a designed system with repeatable stages, not spontaneous radicalization.
+
+Known Structure and Use
+
+Recruitment is staged. A prospect is first given a true fragment, a real but carefully chosen piece of concealed information, and invited to verify it. The fragment establishes that the concealed world exists and that the Facility has hidden it. From that point the recruit is led through increasing commitment: reading, witnessing, transport assistance, and only later, for most, knowledge of armed activity. The method is effective because every step is voluntary and every early claim is verifiable. Compartmentation completes it. Cells are separated by design, captured records may use older terminology to mislead analysis about a cell's current role, and personnel who hesitate at the threshold of violence are assessed to be moved into support or publication roles rather than released, because a released recruit is a reportable witness.
+
+A.C.T Handling Rules
+
+Every returnee receives full physical, cognitive, memetic, and environmental screening before interview. A returned defector may be a committed convert, a coerced intermediary, a remorseful witness, a source of disinformation, or a person who believed a true fragment and never saw the raid it enabled, and none of those conditions may be assumed from the account alone. Interviews must separate genuine operational knowledge from doctrine. Recovered material is divided into immediate safety, intelligence, and exposure streams, and no L.F. material is repurposed by Transformation Division without Command-level exception.
+
+Failure and Open Questions
+
+The system fails when a fragment cannot be verified, when a recruit reports the approach, or when compartmentation leaves a cell unable to act on information it holds. Identifying gate-cell recruiters who approach current staff and the vulnerability profiles they exploit is a standing intelligence priority. Whether a founding council exists, or whether coherence is maintained entirely by shared doctrine and defector culture, remains unresolved.

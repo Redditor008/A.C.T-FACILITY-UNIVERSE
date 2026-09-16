@@ -1,0 +1,25 @@
+# TECH-GOI-050-3 - LIBERTY FREEDOMS CARRIED-SUBJECT TRANSPORT AND TEMPORARY CARE SYSTEM
+
+Technology Designation: TECH-GOI-050-3
+Technology Name: Liberty Freedoms Carried-Subject Transport and Temporary Care System
+Common Abbreviations: Carry System / Corridor Transport / L.F. Temporary Holding
+Origin: Liberty Freedoms
+Acquisition Status: Reconstructed from recovered subjects, abandoned transports, corridor interdictions, and returnee interviews
+Primary A.C.T Interest: Carried-subject location and condition assessment, non-specialist handling injury review, corridor interdiction, recovery triage
+Archive Handling: SEIZED-SUBJECT FILES RESTRICTED / LEVEL 5 CASE-CHAIN CONTROL
+
+## Functional Identity
+
+The Liberty Freedoms Carried-Subject Transport and Temporary Care System is the logistics and husbandry method the network uses to keep an anomaly alive, stable, and moving after it has left Facility custody. The dossier records Carry Cells as the function that receives, secures, transports, and temporarily tends anomalies that have left containment with L.F., using handling knowledge assessed as defector-derived, and lists carried subjects among the network's assets while noting that each represents both an asset and a vulnerability. A.C.T files this as acquired GOI technology because it is improvised containment performed without containment authority.
+
+## Known Structure and Use
+
+The system runs through corridor cells that move personnel, material, and subjects across jurisdictions using changing routes, safehouses near transport junctions, temporary holding sites, and forward staging abandoned on a schedule. Care practice borrows Facility procedure: subjects are fed, restrained, monitored, and documented in a form that resembles a custody record. The network's signature is its ending. When pursuit closes, cells abandon subjects with visible care rather than destroy them, which preserves L.F. doctrine and complicates recovery, because an abandoned subject is often still conditioned by the care it received.
+
+## A.C.T Handling Rules
+
+Carried subjects are recovered under their own case chains and never filed as a consolidated list, since a consolidated register of carried subjects would become a targeting catalogue if compromised. Every recovered subject receives full assessment for harm caused by non-specialist handling before its own anomalous condition is evaluated. ACT-SITE-04-BR-C Verde Null Bio-Reserve receives biological and environmental subjects that cells attempted to carry and reviews whether freed living subjects were harmed. No operation may treat a carried subject as expendable because it chose L.F.; subjects may be coerced, confused, or unable to consent to the network's offer.
+
+## Failure and Open Questions
+
+A cell that carries an anomaly it does not fully understand may misjudge the subject's requirements, interrupt a stabilizing condition, or misread a file warning. The insurgency's confidence in its own handling exceeds its verified capacity. How many subjects currently travel with cells, how many travel willingly, and whether any carried subject has influenced or controlled the cell carrying it are all unresolved, and A.C.T does not know whether L.F. would recognize that last condition if it occurred.

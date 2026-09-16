@@ -2015,3 +2015,62 @@ Immediate next work after this prompt:
 
 - Commit and push this batch on the active session branch, then explicit-refspec fetch verify.
 - On the next prompt, append a prompt-start Patch Saver update, resolve the branch live, then choose another source-backed GOI technology set. Largest remaining dossiers with no technology set: Liberty Freedoms (`GOI-ML-X-050`), Anti-Global Anomaly (`GOI-ML-X-014`), Government Anti Anomaly (`GOI-GV-P-001`), Ninefold Ark (`GOI-HY-N-074`), Archivists of the Final Dawn (`GOI-CU-W-066`).
+
+## Prompt Start Update — 2026-09-17, Continue GOI-Acquired Technology After Children of the Deep `5/5`
+User sent `p`, meaning proceed/continue. Continue the GOI-acquired technology phase.
+
+Patch Saver compliance action:
+
+- Branch resolved live with `git rev-parse --abbrev-ref HEAD`; no branch name is recorded in this file.
+- Local head confirmed equal to the remote head before drafting; working tree clean.
+- Selected Liberty Freedoms (`GOI-ML-X-050`) as the next GOI-acquired technology set because it is the largest remaining dossier without a technology set and because it explicitly identifies adapted A.C.T equipment, seized transport fixtures, improvised restraint borrowing Facility procedure, diverted sealed restraint fixtures, Facility-format identification, seized route and schedule records, defector operational knowledge, carry-cell secure transport and temporary tending, abandonment-with-care practice, publication infrastructure with masthead identities, relay points, encrypted drop systems and printing capacity, fragment-assembled leaks built without theft, and staged-truth recruitment verification.
+- Read the `GOI-ML-X-050` dossier in full across ranged reads, including the dispersed revolutionary structure, leadership condition, staged recruitment, custody doctrine, handler capability assessment, exposure discipline, assets and holdings, operating method, first-response and Site responsibility, defector handling, red lines, and both operational-record extracts.
+
+Counts before new drafting in this prompt:
+
+- Completed GOI technology sets: Children of the Deep, Anstrall Market, DREAM .INC, Mysterious Guild, Amazoo Circus, Missing 404 Watch Tower, Lullaby Works, Cairn & Lintel, Saint-Vera Restoration Concern, and Mercy Lock Institute.
+- Completed GOIs in the GOI-acquired technology phase: `10/30`. Remaining: `20/30`.
+- Completed GOI-acquired technology records: `50/150`. Remaining: `100/150`.
+
+## Prompt End Update — 2026-09-17, Liberty Freedoms Acquired Technology Set Completed at `5/5`
+Work completed during this prompt:
+
+- Resolved the branch live and confirmed local head equalled the remote head before drafting; no branch name is recorded in this file.
+- Read the `GOI-ML-X-050` Liberty Freedoms dossier in full across ranged reads before drafting, covering the dispersed revolutionary structure, leadership condition, staged recruitment, custody doctrine, handler capability assessment, exposure discipline, assets and holdings, operating method, first-response and Site responsibilities, defector handling, standing red lines, and both operational-record extracts.
+- Created `TECH-GOI-050-1` Liberty Freedoms Adapted Facility Transport Fixture and Restraint Set as Markdown/TXT twins.
+- Created `TECH-GOI-050-2` Liberty Freedoms Facility-Format Identification and Route Knowledge Set as Markdown/TXT twins.
+- Created `TECH-GOI-050-3` Liberty Freedoms Carried-Subject Transport and Temporary Care System as Markdown/TXT twins.
+- Created `TECH-GOI-050-4` Liberty Freedoms Fragment-Assembly Publication and Masthead Relay System as Markdown/TXT twins.
+- Created `TECH-GOI-050-5` Liberty Freedoms Staged-Truth Recruitment Verification and Compartmentation System as Markdown/TXT twins.
+- Avoided reproducing the dossier's `O5-level exception` phrasing in derived records, writing `Command-level exception` instead so no source-adjacent clearance term is propagated into new technology files.
+- Inserted all five entries between `TECH-GOI-049-5` and `TECH-GOI-051-1` in `TECH_MD/README.md` and `TECH_TXT/README.txt`, preserving ascending GOI-number ordering.
+- Prepended five `TECH-GOI-050-x` sentences to the Current Status paragraph in both technology indexes and added the five records to the technology-records row of the root `README.md`.
+
+Validation results before staging:
+
+- `TECH-GOI-050-1` Markdown word count: `464`; TXT word count: `459`.
+- `TECH-GOI-050-2` Markdown word count: `447`; TXT word count: `442`.
+- `TECH-GOI-050-3` Markdown word count: `454`; TXT word count: `449`.
+- `TECH-GOI-050-4` Markdown word count: `443`; TXT word count: `438`.
+- `TECH-GOI-050-5` Markdown word count: `451`; TXT word count: `446`.
+- New TXT twins had no Markdown-only marker hits: `0`.
+- All five new pairs pass the twin rule (Markdown equals TXT after stripping heading markers).
+- No old bad technology designation strings found. No stale or misspelled E-Class wording found.
+- Forbidden-wording scan across all ten new files returned `0` hits.
+- Repo-wide document check: `DOCUMENT_COUNT 894`, `BELOW_200_COUNT 0`, `EMPTY_COUNT 0`, `NO_FINAL_NEWLINE_COUNT 0`, `UTF8_DECODE_ERROR_COUNT 0`, `EXACT_CONFLICT_MARKER_COUNT 0`.
+- Technology pair check: `TECH_MD 193`, `TECH_TXT 193`, no missing pairs.
+- GOI pair check: `GOI_MD 35`, `GOI_TXT 35`, no missing pairs.
+- Broken local Markdown links: `0` of `453` checked.
+- No session branch name appears in this file: `0` occurrences.
+- `git diff --check` and `git diff --cached --check` both returned `0`.
+
+Current count after this prompt's content if committed:
+
+- Completed GOI-acquired technology sets: Liberty Freedoms, Children of the Deep, Anstrall Market, DREAM .INC, Mysterious Guild, Amazoo Circus, Missing 404 Watch Tower, Lullaby Works, Cairn & Lintel, Saint-Vera Restoration Concern, and Mercy Lock Institute.
+- Completed GOIs in the GOI-acquired technology phase: `11/30`. Remaining: `19/30`.
+- GOI-acquired technology total: `55/150`. Remaining: `95/150`.
+
+Immediate next work after this prompt:
+
+- Commit and push this batch on the active session branch, then explicit-refspec fetch verify.
+- On the next prompt, append a prompt-start Patch Saver update, resolve the branch live, then choose another source-backed GOI technology set. Largest remaining dossiers with no technology set: Anti-Global Anomaly (`GOI-ML-X-014`), Government Anti Anomaly (`GOI-GV-P-001`), Ninefold Ark (`GOI-HY-N-074`), Archivists of the Final Dawn (`GOI-CU-W-066`), Lantern Accord (`GOI-HY-W-073`).
