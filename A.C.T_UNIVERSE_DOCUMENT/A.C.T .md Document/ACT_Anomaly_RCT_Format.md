@@ -10,15 +10,26 @@
 ═══════════════════════════════════════════════════════════════════════
 
 DESIGNATION:         [UFD-XX-### / AFD-XX-###]
+REGISTRY BAND:       [LEGACY ACCEPTED 001-120 / Modern Registry 121-999 /
+                      000 Foundational Reserve / Reserved / Obscured]
 TITLE I:             [Primary Title / N/A]
 TITLE II:            [Secondary Title / Alternate Title / N/A]
 FIELD TYPE:          [OB / SU / PL / TI / SP / ME / IH / CH / NB / ?.H]
+HAZARD TAGS:         [PHYS-____ / BIO-____ / COG-____ / MEM-____ /
+                      INFO-____ / TEMP-____ / SPAT-____ / STR-____ /
+                      COS-____ / SOC-____ / OPR-____ / N/A]
 CLEARANCE REQUIRED:  [Level 0–5 / O5 Access]
 
 CONTAINMENT CLASS:   [INERT → [BLANK]]
 THREAT LEVEL:        [0 → 10]
 TRANSFORMATION
 VIABILITY:           [INVIOLABLE → INTEGRATED]
+LIFECYCLE STATE:     [PROVISIONAL / ACTIVE-CONTAINED /
+                      ACTIVE-UNCONTAINED / UNDER REVIEW /
+                      TRANSFORMATION-CANDIDATE / INTEGRATED /
+                      RETIRED / ARCHIVED / NEUTRALIZED / EXPLAINED /
+                      LOST / MEMORIALIZED /
+                      PROHIBITED-FROM-TRANSFORMATION]
 
 ═══════════════════════════════════════════════════════════════════════
                          ╔═══════╗

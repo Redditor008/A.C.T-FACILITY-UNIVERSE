@@ -1,0 +1,164 @@
+# A.C.T FACILITY ARCHIVE FILE
+## TECHNOLOGY RECORD - THERMAL-LURE BEACON
+
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-025                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Thermal-Lure Beacon                                         |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | TLB                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | FIELD / BIOLOGICAL CONTAINMENT / NON-HOSTILE RELOCATION     |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Subject Care Division / Biological Containment Division     |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Recovery, Medical, Engineering, Site-04 Command             |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / FIELD AND HABITAT ISSUE / RESTRICTED HIGH HEAT     |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF OVERHEATED OR MISDIRECTED        |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 2 for habitat use; Level 3 for recovery deployment;   |
+|                            | Level 4 for high-output settings and predator routing       |
++----------------------------+-------------------------------------------------------------+
+```
+
+**Archive Status:** Active Biological Handling Technology Record  
+**Distribution:** Subject Care / Biological Containment / Recovery / Medical / Site-04 Command  
+**Authority:** Subject Care Division, Biological Containment Division, Engineering Division, and Central Archive
+
+### Archive Note
+Thermal-Lure Beacon is the twenty-fifth main A.C.T technology expanded into an individual record. The Master Catalog defines it as tunable infrared projection arrays used for non-hostile relocation of ectothermic subjects. The visual guide describes a floor-standing industrial lamp with a folding Focus Hood, a directional dark orange heat beam, a Digital Heat-Dial, a redacted-grade cooling unit, and a temperature range beginning at 20 degrees C and rising to restricted levels. Multiple subject files already rely on the system. Crystal Butterfly breach procedure uses Thermal-Lure Beacons because the colony prioritizes heat over aggression. Spinosaurus containment uses them to guide the subject into feeding and medical bays while maintaining a 30 degrees C behavioral baseline. Toy Dragon recovery uses them or fatty-fruit lures because the subject is non-hostile and easily guided by preferred stimuli.
+
+TLB is not a weapon. It is a controlled false sun used to move a body without teaching it fear.
+
+Controlled label: **TLB HIGH-OUTPUT AND PREDATOR ROUTING LIMIT**.
+
+Core handling rule:
+
+```text
+GUIDE THE ANIMAL BEFORE THE ANIMAL NEEDS TO BE FORCED.
+```
+
+---
+
+# FUNCTION SUMMARY
+
+Thermal-Lure Beacons create a directional heat target that ectothermic, thermoregulatory, heat-curious, or heat-prioritizing subjects may choose over aggression, escape, feeding, or panic. The beacon projects a controlled infrared lure rather than a visible command. Proper use can move an organism toward a feeding bay, medical bay, return path, resting zone, collection point, or safe enclosure without gunfire, shouting, electric prods, or unnecessary sedation.
+
+The technology is especially valuable for living anomalies whose behavior is animal-like rather than malicious. It respects the fact that some subjects are dangerous because they are large, hungry, frightened, territorial, or biologically strange, not because they intend harm. A.C.T uses the beacon to create a better option.
+
+Approved roles include:
+
+- guiding ectothermic subjects;
+- redirecting heat-prioritizing colonies;
+- moving large biological subjects into feeding or medical bays;
+- returning non-hostile escaped subjects to habitat;
+- reducing sedation need during routine care;
+- creating thermal decoys during low-grade breach response.
+
+---
+
+# ORIGIN AND CUSTODY
+
+TLB development grew out of Subject Care doctrine. A.C.T needed tools between affection and violence. Ordinary heaters were too broad. Floodlights caused visual stress. Food lures taught dangerous bargaining. The modern beacon uses directional thermal output, focus hoods, and calibrated heat-dials so staff can create a temporary heat preference without turning the whole room into bait.
+
+Custody belongs to Subject Care Division and Biological Containment Division. Engineering maintains heat-dials, cooling units, lamp housings, and focus hoods. Recovery carries portable units during field capture. Medical approves use when temperature affects sedation, metabolism, or wound response. Site-04 Command holds the largest habitat stock because Verde Null houses multiple biological and flora-fauna subjects.
+
+High-output settings are restricted because a lure bright enough to redirect an apex predator may also cook a room, trigger mating behavior, or attract the wrong organism.
+
+---
+
+# PHYSICAL OR SYSTEM DESCRIPTION
+
+A standard TLB is a floor-standing industrial lamp on a weighted base. The folding Focus Hood shapes the beam. The output appears dark orange when visible, though much of its lure value is infrared. A Digital Heat-Dial controls intensity and ramp speed. The base contains a redacted-grade cooling unit that prevents the housing from melting during sustained use. Field models have carry handles and locking legs. Habitat models may be wall or track mounted.
+
+Known components include:
+
+- floor-standing lamp housing;
+- folding Focus Hood;
+- Digital Heat-Dial;
+- dark orange directional beam;
+- cooling unit;
+- ramp-speed limiter;
+- thermal spill sensor;
+- subject-profile setting tag;
+- emergency shutter;
+- post-use heat log.
+
+A clean beam is more important than a bright beam. Scatter can create several false targets and confuse the subject.
+
+---
+
+# OPERATING PROCEDURE
+
+Before use, staff confirm subject file, safe temperature range, route, destination, room humidity, and competing stimuli. The beacon is placed so the desired movement path is obvious to the subject and safe for staff. Operators raise temperature slowly unless breach procedure authorizes immediate output. The subject is given room to choose the lure. Crowding defeats the point.
+
+Crystal Butterfly procedure uses TLB as breach response because heat priority can override swarm aggression. Spinosaurus management uses beacons for feeding and medical routing while maintaining a 30 degrees C arena baseline. Toy Dragon return procedure allows TLB when fatty-fruit lures are not enough or when handlers need a non-food thermal guide.
+
+Do not aim TLB at personnel, flammable storage, untreated containment glass, sleeping subjects without file approval, or other beacons without route planning. Do not use heat to tease a subject.
+
+---
+
+# KNOWN LIMITS
+
+TLB fails against subjects that are not heat-motivated, subjects in pain, starving predators, mating cycles, territorial defense, cold-resistant entities, heat-feeding hazards, and organisms that interpret warmth as prey. It may also produce accidental conditioning: a subject learns that heat appears before feeding, medicine, or containment closure.
+
+Known failure modes include beam scatter, heat-dial drift, cooling failure, lure competition, thermal panic, habitat overheating, subject overconditioning, and staff complacency around non-hostile subjects.
+
+---
+
+# FAILURE HISTORY
+
+## TLB-2009 Split Beam Event
+A damaged Focus Hood produced two thermal targets inside a habitat. The subject alternated between both until agitation rose. No breach occurred, but the event established mandatory beam-shape checks before use.
+
+## TLB-2024 Spinosaurus Bay Hesitation
+A medical bay beacon ramped too quickly and created a heat spike above the subject's normal route preference. The Spinosaurus stopped at the threshold and struck the bay wall. Procedures now require slow ramping except during emergency redirection.
+
+## TLB-2025 Toy Dragon Food Association
+Repeated pairing of beacon return with fatty-fruit reward caused the Toy Dragon to sit beside inactive units and refuse enrichment. Subject Care separated heat guidance from food reward in juvenile habitats.
+
+---
+
+# DIVISION USE
+
+Subject Care operates habitat beacons and trains handlers. Biological Containment approves subject profiles. Recovery uses portable beacons during field movement. Engineering maintains heat and cooling hardware. Medical attaches when thermoregulation affects treatment. Site Command authorizes high-output predator routing.
+
+Standing reminder: a thermal lure is a promise of warmth. Do not make promises the enclosure cannot keep.
+
+---
+
+# CROSS-REFERENCES
+
+- ACT Technological Master Index 50, Item 15;
+- ACT Technological Visual Reference Guide, Item 15;
+- AFD-NB-325 Crystal Butterfly containment file;
+- AFD-SU-937 Spinosaurus containment file;
+- AFD-SU-219 Toy Dragon containment file;
+- Site-04 Verde Null habitat management procedures [restricted].
+
+---
+
+# OPEN QUESTIONS
+
+- Which subjects learn thermal schedules faster than handlers expect?
+- Can a hostile organism fake heat preference to manipulate staff routing?
+- Does repeated beacon use reduce fear or create dependency?
+- How high can output rise before non-hostile relocation becomes coercive harm?
+- Should TLB logs be attached to every feeding record for large predators?
+- Can thermal lure behavior reveal hidden illness before medical symptoms appear?
+
+---
+
+# FILE METADATA
+
+**Created:** 2026-09-15  
+**Author Desk:** Subject Care Division / Biological Containment Division / Central Archive  
+**Review Status:** Active restricted record; high-output settings censored  
+**Next Review:** After any beam scatter event, predator misroute, habitat overheating, or subject conditioning incident

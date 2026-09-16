@@ -1,0 +1,25 @@
+# TECH-GOI-056-1 - SAINT-VERA RESTORATION THEATER SURGICAL ENVIRONMENT
+
+Technology Designation: TECH-GOI-056-1
+Technology Name: Saint-Vera Restoration Theater Surgical Environment
+Common Abbreviations: Restoration Theater
+Origin: Saint-Vera Restoration Concern
+Acquisition Status: Cooperative recovery, partial inspection, or restricted patient-transfer evidence
+Primary A.C.T Interest: Survivor restoration, medical containment, Subject Care continuity, and consent-safe custody
+Archive Handling: PATIENT-DIGNITY DISCLOSURE LIMIT / MEDICAL-SUBJECT CARE RESTRICTED
+
+## Functional Identity
+
+The Saint-Vera Restoration Theater Surgical Environment is the controlled medical space used by Saint-Vera Restoration Concern for anomaly-survivor reconstruction, stabilization, and dignity-preserving surgical review. The GOI dossier identifies restoration theaters as known assets and records that the Concern operates through front clinics, charitable recovery houses, private wards, blackout clinics, and mobile medical routes. A.C.T classifies this as acquired GOI technology because Saint-Vera theaters produce outcomes conventional medicine cannot explain and because A.C.T may need to inspect, protect, or appropriate theater components after patient transfer.
+
+## Known Structure and Use
+
+A restoration theater is not a standard operating room with better instruments. It appears to be a patient-status environment where lighting, consent language, prosthetic preparation, tissue stabilizers, temperature control, and identity-record handling are treated as parts of the same procedure. Saint-Vera doctrine warns that survival should include dignity and that a changed body is not automatically failed, contaminated, or disposable. The theater likely enforces that doctrine through layout as much as through equipment.
+
+## A.C.T Handling Rules
+
+Known features include pale green glass, white-thread markings, sealed restoration licenses, surgical supply caches, recovery-house routing, patient cards, and instructions that delay classification until fever or transformation pressure breaks. A.C.T has not confirmed whether glass theatre lighting reduces transformation shock, reveals false body requests, or stabilizes altered tissue during consent review.
+
+## Failure and Open Questions
+
+A.C.T personnel may not enter a Saint-Vera theater as a tactical seizure site while life-sustaining surgery is active unless immediate lethal hazard overrides Medical command. If a theater is recovered empty, Engineering and Medical must preserve lighting, wall markings, surgical tables, drainage routes, patient-card racks, and temperature logs together. Removing one piece may erase the condition that made the theater work.

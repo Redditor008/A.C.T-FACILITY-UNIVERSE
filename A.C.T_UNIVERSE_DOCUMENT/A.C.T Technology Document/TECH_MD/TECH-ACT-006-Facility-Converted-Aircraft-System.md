@@ -1,0 +1,290 @@
+# A.C.T FACILITY ARCHIVE FILE
+## TECHNOLOGY RECORD - FACILITY CONVERTED AIRCRAFT SYSTEM
+
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-006                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Facility Converted Aircraft System                          |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | FCA                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | FIELD / LOGISTICS / TRANSPORT / MOBILE CONTAINMENT          |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Logistics Division / Recovery Division                      |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Engineering, Containment, Site Command, Civil Covert,       |
+|                            | Medical Care, Field Command, and Intelligence               |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / HIGH-PRIORITY TRANSPORT               |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF MASS, RSA, OR COVER FAILS        |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for mission planning; Level 5 for route masking,    |
+|                            | cargo-weight stabilizer access, RSA-rail calibration, and   |
+|                            | world-scale sample movement                                 |
++----------------------------+-------------------------------------------------------------+
+```
+
+**Archive Status:** Active Restricted Technology Record  
+**Distribution:** Logistics / Recovery / Engineering / Containment / Site Command / Civil Covert / Command  
+**Authority:** Logistics Division, Recovery Division, Engineering Division, Containment Division, and Central Archive
+
+### Archive Note
+The Facility Converted Aircraft System is the sixth main A.C.T technology expanded into an individual record under corrected A.C.T-owned technology numbering. It is already present in the Master Catalog of Operational Assets as Item 22, in the technological timeline as a 1995 heavy VTOL transport platform, in the visual reference guide as a lifting-body cargo plane with VTOL turbofans, ARM-emitter nodes, Magnetic RSA-Rails, and a Cargo-Weight Stabilizer, and in site dossiers as the long-range transport option for oversized anomalies, high-priority biological material, and trans-regional recovery.
+
+FCA is not a normal cargo aircraft with hidden paint. It is a mobile containment bridge. It exists because some recovered material cannot be moved by truck, elevator, rail, ship, or ordinary aircraft without tearing the transport chain open. A.C.T uses FCA when the question is not simply how to move cargo, but how to keep cargo from changing mass, route, jurisdiction, observation, biological condition, or public story while it is in the sky.
+
+This file expands the short catalog entry into a working technology record. Full aircraft counts, airfield nodes, route masking, cargo-weight stabilizer internals, RSA-rail geometry, and trans-orbital emergency ceilings remain censored under **FCA ROUTE DISCLOSURE LIMIT**.
+
+---
+
+# FUNCTION SUMMARY
+
+## Practical Function
+
+Facility Converted Aircraft move anomalous objects, biological samples, oversized components, unstable containment packages, field teams, medical transfer pods, and emergency site cargo across long distances while maintaining enough stabilization and concealment for the cargo to remain containable. The aircraft combine ordinary heavy-lift aviation with A.C.T systems: integrated RSA support to preserve cargo state, ARM-emitter nodes to dampen public attention, specialized cargo rails to control mass and position, and mission control procedures that treat route, weather, observation, and paperwork as containment variables.
+
+The master catalog describes FCA as:
+
+```text
+Heavy-lift VTOL vessels utilizing integrated RSA technology for the transport of world-scale biological samples.
+```
+
+That description remains correct but incomplete. FCA transports world-scale biological samples, but it also serves as A.C.T's mobile bridge between field recovery and site intake when ordinary transport is too slow, too visible, too fragile, or too politically exposed.
+
+## Operational Role
+
+FCA appears in five major roles:
+
+- oversized anomaly transport where RSA-equipped ground containers cannot maintain mass or geometry;
+- high-priority biological material movement to and from White Grave, Verde Null, and other specialized sites;
+- long-range recovery support when field teams must carry containment equipment into remote or unstable territory;
+- emergency evacuation of contained material from compromised facilities;
+- covert trans-regional logistics where public aviation records, customs, or road routes would create exposure.
+
+Core mission rule:
+
+```text
+THE AIRCRAFT IS PART OF THE BOX UNTIL THE CARGO IS SOMEWHERE SAFER.
+```
+
+---
+
+# ORIGIN AND CUSTODY
+
+## Development History
+
+The technological timeline records FCA deployment in 1995, shortly after the 1992 deployment of QNB. By that point A.C.T had stabilized major facilities with RSA, hidden them with ARM, and hardened records through QNB, but still lacked reliable long-distance transport for anomalous mass. Ground movement could not meet every recovery need. Some objects warped roads. Some biological samples changed when held too near sea level. Some entities were too large for standard aircraft and too sensitive for slow shipping.
+
+FCA development converted heavy VTOL aviation into A.C.T-specific containment logistics. Early test craft were less aircraft than flying containment chambers. The modern system preserves that philosophy: flight systems and containment systems are interlocked rather than merely bolted together.
+
+## Custody
+
+Primary custody belongs to Logistics Division and Recovery Division. Logistics controls fleet scheduling, airfield nodes, cover traffic, cargo loading windows, crew rotation, fuel, maintenance access, and route deconfliction. Recovery controls mission cargo chain, field pickup, object securing, and handoff to receiving site custody.
+
+Engineering maintains aircraft systems, RSA rails, ARM nodes, weight stabilizers, and structural modifications. Containment defines cargo restrictions and emergency jettison prohibitions. Civil Covert manages cover flights, false manifests, public airspace traces, and emergency incident narratives. Medical Care attaches to living cargo. Site Command controls departure and receiving authority.
+
+---
+
+# PHYSICAL AND SYSTEM DESCRIPTION
+
+## Standard Aircraft Frame
+
+The visual reference guide describes FCA as a massive cargo plane with a lifting-body design and four VTOL turbofans. The exterior is integrated with ARM-emitter nodes. The cargo bay features Magnetic RSA-Rails and a Cargo-Weight Stabilizer to neutralize the mass of world-scale samples.
+
+Those details are approved for recognition and mission orientation. They are not sufficient for unauthorized operation. FCA is not safe to fly as a normal aircraft if containment systems are disabled.
+
+## Known Components
+
+Known components include:
+
+- lifting-body heavy cargo airframe;
+- four VTOL turbofan assemblies;
+- ARM-emitter node skin array;
+- Magnetic RSA-Rails in the cargo bay;
+- Cargo-Weight Stabilizer;
+- sealed restraint sockets;
+- cargo geometry monitor;
+- biological sample climate lanes;
+- hardpoint cages for Box-cass and containerized objects;
+- crew isolation bulkheads;
+- shielded medical transfer bay;
+- QNB-linked flight recorder;
+- Civil Covert manifest scrubber;
+- emergency dulling lights for exterior observation;
+- receiving-site handshake beacon.
+
+The Magnetic RSA-Rails are not ordinary tie-down rails. They maintain cargo position and causal relationship to the aircraft interior. If rails desynchronize, cargo may remain strapped down physically while no longer agreeing that the aircraft is its transport environment.
+
+## Variants
+
+A.C.T records at least three variant profiles:
+
+```text
+FCA-LIFT: oversized object or biological sample movement.
+FCA-MED: living anomalous patient, altered civilian, or high-risk medical transfer.
+FCA-SHADOW: low-observation covert flight under heavy ARM and Civil Covert routing.
+```
+
+Variant names are operational profiles, not confirmed separate aircraft models.
+
+---
+
+# OPERATING PROCEDURE
+
+## Authorized Use
+
+FCA missions require Level 4 mission planning by Logistics, Recovery, Engineering, Containment, and receiving Site Command. Level 5 review is required for world-scale biological samples, active large anomalies, public airspace contradiction, cross-border political risk, mass-casualty evacuation, or cargo whose containment depends on continuous RSA support.
+
+Standard mission planning begins with cargo condition. Planners confirm mass, field effect, biological needs, route sensitivity, public visibility, loading geometry, receiving site readiness, escort need, weather, ARM cover, RSA rail calibration, and whether ordinary transport is safer. FCA should not be used merely because it is impressive. High-capacity transport creates high-capacity failure.
+
+## Operating States
+
+A.C.T uses the following working labels. These are technical mission states, not anomaly classes:
+
+```text
+FCA-GREEN: flight systems, RSA rails, ARM skin, and cargo state stable.
+FCA-YELLOW: route, weather, public attention, or cargo stress requires review.
+FCA-AMBER: cargo/aircraft disagreement detected; restrict maneuver and prepare receiving site.
+FCA-RED: containment or flight emergency; Site Command and Field Command attach.
+FCA-WHITE: emergency stabilization flight; public cover secondary to safe arrival.
+FCA-BLACK: aircraft, cargo, route, or record identity unreliable; trust only direct command confirmation.
+```
+
+FCA-BLACK may involve wrong destination behavior, duplicate flight plans, cargo mass contradiction, or QNB recorder disagreement.
+
+## Handling Rules
+
+Do not load cargo before RSA rail acceptance. Do not use ARM skin to hide structural fire from crew. Do not open cargo bay in flight unless receiving conditions are verified. Do not separate living cargo from medical stabilizers because the flight appears calm. Do not treat a world-scale sample as safe because the Cargo-Weight Stabilizer reports manageable mass. Do not allow public aviation control to receive the real manifest.
+
+---
+
+# KNOWN LIMITS
+
+## What FCA Cannot Do
+
+FCA cannot make all cargo transportable, cannot guarantee safe flight through spatial storms, cannot contain a hostile entity without internal containment, cannot erase public radar records by itself, cannot replace receiving-site readiness, and cannot safely carry every anomaly whose weight has been reduced. It is transport containment, not final containment.
+
+FCA is weakest against:
+
+- anomalies that rewrite destination or route meaning;
+- cargo that changes identity when moved;
+- biological samples whose survival depends on local ecology or pressure;
+- hostile GOI tracking through airfield supply chains;
+- ARM failures over populated airspace;
+- RSA rail desynchronization during turbulence or mass shift;
+- crew overconfidence after successful high-risk flights.
+
+## Misuse Risk
+
+Misuse can escalate an incident across regions. A ground containment failure may harm one site. An FCA failure can spread the failure through airspace, borders, weather systems, public aviation records, and receiving facilities. Overuse also creates pattern: secret airfields, unusual cargo windows, repeated weather excuses, and aircraft that are too boring on radar.
+
+Logistics note:
+
+```text
+A flying box is still a box. It is also a promise to every place beneath it.
+```
+
+---
+
+# FAILURE HISTORY
+
+## FCA-1995 WEIGHT STABILIZER DRIFT
+
+An early test flight carried a biological mass sample whose recorded weight and physical pressure disagreed by increasing margins. The Cargo-Weight Stabilizer reported safe load. The landing gear compression sensors disagreed. The aircraft landed safely, but runway concrete showed stress beyond the reported mass. Engineering determined that the stabilizer had reduced aircraft burden without fully reducing ground consequence.
+
+Corrective action required separate mass, burden, and landing-impact channels.
+
+## PACIFIC COAST AIRFIELD COVER BREACH
+
+A Redwood Veil support flight routed through a remote Pacific-coast airfield attracted local attention after three unrelated cover manifests described the same aircraft as medical relief, geological survey, and private freight. ARM nodes prevented immediate questioning, but Civil Covert flagged the contradiction as an exposure seed.
+
+Corrective action centralized FCA manifest scrubber authority and prohibited improvised cover stacking.
+
+## WHITE GRAVE BIOLOGICAL TRANSFER FREEZE
+
+A high-priority trans-regional transfer to White Grave entered FCA-AMBER when biological cargo stabilized to aircraft climate rather than destination climate. The sample remained alive, but post-arrival thaw behavior differed from pre-flight estimates. Medical and Containment disagreed whether the flight preserved the sample or taught it a new environmental expectation.
+
+The case remains under review and is used to warn crews that successful arrival is not the same as unchanged cargo.
+
+---
+
+# DIVISION USE
+
+## Logistics Division
+
+Logistics owns fleet scheduling, route planning, airfield coordination, fuel, cover traffic, manifests, crew rotations, and weather windows. Logistics may deny use if the public or route exposure cost exceeds containment benefit.
+
+## Recovery and Containment
+
+Recovery owns field pickup and chain of custody until receiving transfer. Containment defines cargo configuration, internal box requirements, emergency restrictions, and receiving-site readiness. A cargo cannot be accepted for flight because the aircraft has space. It must have a containment plan.
+
+## Engineering and Civil Covert
+
+Engineering maintains airframe modifications, VTOL systems, RSA rails, ARM skin, Cargo-Weight Stabilizer, QNB recorder, and receiving beacons. Civil Covert manages false manifests, aviation records, radar explanation, emergency crash narratives, and public witness suppression if a flight becomes visible.
+
+## Medical Care and Site Command
+
+Medical Care attaches to living cargo, biological samples, altered civilians, and anomalous patients. Site Command must approve departure and receiving conditions. No FCA mission is complete until receiving site custody confirms stable arrival.
+
+---
+
+# CROSS-REFERENCES
+
+## Related A.C.T Records
+
+- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Master_Index_50.md`
+- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Evolution_Timeline.md`
+- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Visual_Reference_Guide.md`
+- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Complete_Designation_and_Class_Reference.md`
+- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Site Dossier/ACT-SITE-01-US-W-Redwood-Veil-Complex.md`
+- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Site Dossier/ACT-SITE-02-RU-N-White-Grave-Station.md`
+- `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/TECH-ACT-001-Reality-Stabilization-Anchor-System.md`
+- `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/TECH-ACT-002-Anti-Reality-Mesh-System.md`
+- `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/TECH-ACT-003-Quantum-Narrative-Buffer-System.md`
+- `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/00_Technology_Record_Template.md`
+
+## Technology Relationship
+
+The FCA system interacts with, but is distinct from:
+
+- Reality Stabilization Anchor System, whose transport support is integrated into FCA cargo rails;
+- Anti Reality Mesh System, whose emitter nodes conceal aircraft presence and route importance;
+- Quantum Narrative Buffer System, whose flight recorder preserves mission evidence;
+- Causal Anchor Nails, which may be used to fix cargo before loading;
+- Cryogenic Biological Isolation Units, which may be loaded into FCA-MED or FCA-LIFT missions;
+- Facility ground transport containers, which remain preferred when air movement is unnecessary.
+
+Each system requires its own individual technology record. This file covers only the Facility Converted Aircraft System.
+
+---
+
+# OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
+
+- How much Cargo-Weight Stabilizer use changes landing consequence rather than true mass remains under study.
+- Can hostile GOIs identify FCA routes by tracking impossible weather gaps or boring radar behavior?
+- What happens if ARM skin fails while RSA rails remain active over a populated area?
+- Can FCA safely move anomalies that define themselves by route, destination, or ownership chain?
+- How many remote airfield nodes are still safe after repeated use?
+- Does biological cargo adapt to FCA climate if transfer takes longer than planned?
+- Can QNB flight recorders preserve evidence if the aircraft arrives before it departed according to public logs?
+- Should A.C.T develop smaller FCA profiles, or does downscaling create too many visible flights?
+
+---
+
+# FILE METADATA
+
+```text
+FILE CREATED:            15/09/2026
+FILE LAST UPDATED:       15/09/2026
+FILE AUTHOR:             Logistics Division / Recovery Division / Engineering Division Joint Desk
+REVIEWED BY:             Central Archive / Site Command Technical Board / Civil Covert
+FILE STATUS:             ACTIVE / RESTRICTED
+DESIGNATION HISTORY:     TECH-ACT-006 assigned for individual Facility Converted Aircraft system expansion under A.C.T-owned technology numbering
+RECORD CONDITION:        OPERATIONAL / MAIN A.C.T TECHNOLOGY RECORD
+```

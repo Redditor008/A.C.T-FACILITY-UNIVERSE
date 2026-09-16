@@ -1,0 +1,560 @@
+# A.C.T TECHNOLOGY DOCUMENT ARCHIVE
+
+**Archive Status:** Active Technology Record Index  
+**Distribution:** Engineering / Containment / Medical / Recovery / Intelligence / Command  
+**Authority:** Central Archive, Engineering Division, Containment Division, Medical Division, and file-specific attached desks
+
+This archive holds individual technology documents for A.C.T systems, GOI-derived systems, recovered equipment, containment tools, field instruments, medical devices, infrastructure components, memory-control systems, access devices, and abnormal materials that require more detail than the master technology index can carry. The existing A.C.T Technological Master Index remains the broad catalog. This folder is for per-technology working records.
+
+Each technology file must identify what the technology is, who controls it, what it does, what it cannot do, what materials or subsystems are known, where it is used, how A.C.T handles it, what failures are recorded, which divisions may request it, what censorship applies, and what remains unknown. A technology file is not a sales sheet and not an omniscient explanation. It should preserve working gaps, redactions, labels, test limits, and unresolved engineering questions.
+
+## Current Individual Technology Records
+
+- `TECH-GOI-049-1` - DREAM .INC Dream Nectar Extraction Apparatus / DNEA
+  - [Markdown record](TECH-GOI-049-1-DREAM-INC-Dream-Nectar-Extraction-Apparatus.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-049-1-DREAM-INC-Dream-Nectar-Extraction-Apparatus.txt)
+- `TECH-GOI-049-2` - DREAM .INC Dream Nectar Sealed Batch System / DNSBS
+  - [Markdown record](TECH-GOI-049-2-DREAM-INC-Dream-Nectar-Sealed-Batch-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-049-2-DREAM-INC-Dream-Nectar-Sealed-Batch-System.txt)
+- `TECH-GOI-049-3` - DREAM .INC Wish Intake and Confidential Report System / DWICRS
+  - [Markdown record](TECH-GOI-049-3-DREAM-INC-Wish-Intake-and-Confidential-Report-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-049-3-DREAM-INC-Wish-Intake-and-Confidential-Report-System.txt)
+- `TECH-GOI-049-4` - DREAM .INC Twelve-Building Appointment Routing Network / DTBARN
+  - [Markdown record](TECH-GOI-049-4-DREAM-INC-Twelve-Building-Appointment-Routing-Network.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-049-4-DREAM-INC-Twelve-Building-Appointment-Routing-Network.txt)
+- `TECH-GOI-049-5` - DREAM .INC Quiet Machine Condition Indicator System / DQMCIS
+  - [Markdown record](TECH-GOI-049-5-DREAM-INC-Quiet-Machine-Condition-Indicator-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-049-5-DREAM-INC-Quiet-Machine-Condition-Indicator-System.txt)
+- `TECH-GOI-051-1` - Mysterious Guild OMEGA-KERN Gamification Protocol Control Layer / OMEGA-KERN
+  - [Markdown record](TECH-GOI-051-1-Mysterious-Guild-OMEGA-KERN-Gamification-Protocol-Control-Layer.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-051-1-Mysterious-Guild-OMEGA-KERN-Gamification-Protocol-Control-Layer.txt)
+- `TECH-GOI-051-2` - Mysterious Guild Registry Maintenance Contact System / Guild Registry
+  - [Markdown record](TECH-GOI-051-2-Mysterious-Guild-Registry-Maintenance-Contact-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-051-2-Mysterious-Guild-Registry-Maintenance-Contact-System.txt)
+- `TECH-GOI-051-3` - Mysterious Guild Argus KSG-16 Smart-Shotgun Data / Argus KSG-16
+  - [Markdown record](TECH-GOI-051-3-Mysterious-Guild-Argus-KSG-16-Smart-Shotgun-Data.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-051-3-Mysterious-Guild-Argus-KSG-16-Smart-Shotgun-Data.txt)
+- `TECH-GOI-051-4` - Mysterious Guild Feedbacker Shield Record System / Feedbacker Shield
+  - [Markdown record](TECH-GOI-051-4-Mysterious-Guild-Feedbacker-Shield-Record-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-051-4-Mysterious-Guild-Feedbacker-Shield-Record-System.txt)
+- `TECH-GOI-051-5` - Mysterious Guild Ghost File Record Erasure System / Ghost File
+  - [Markdown record](TECH-GOI-051-5-Mysterious-Guild-Ghost-File-Record-Erasure-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-051-5-Mysterious-Guild-Ghost-File-Record-Erasure-System.txt)
+- `TECH-GOI-052-1` - Amazoo Circus Reinforced Iron Performance Cage System / Amazoo Cage
+  - [Markdown record](TECH-GOI-052-1-Amazoo-Circus-Reinforced-Iron-Performance-Cage-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-052-1-Amazoo-Circus-Reinforced-Iron-Performance-Cage-System.txt)
+- `TECH-GOI-052-2` - Amazoo Circus Audience Conditioning Performance Environment / ACPE
+  - [Markdown record](TECH-GOI-052-2-Amazoo-Circus-Audience-Conditioning-Performance-Environment.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-052-2-Amazoo-Circus-Audience-Conditioning-Performance-Environment.txt)
+- `TECH-GOI-052-3` - Amazoo Circus Emotional-Siphoning Performance Frame / ESPF
+  - [Markdown record](TECH-GOI-052-3-Amazoo-Circus-Emotional-Siphoning-Performance-Frame.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-052-3-Amazoo-Circus-Emotional-Siphoning-Performance-Frame.txt)
+- `TECH-GOI-052-4` - Amazoo Circus Trauma-Command and Act-Naming System / TCANS
+  - [Markdown record](TECH-GOI-052-4-Amazoo-Circus-Trauma-Command-and-Act-Naming-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-052-4-Amazoo-Circus-Trauma-Command-and-Act-Naming-System.txt)
+- `TECH-GOI-052-5` - Amazoo Circus Fairground Mobility and Route Concealment System / FMRC
+  - [Markdown record](TECH-GOI-052-5-Amazoo-Circus-Fairground-Mobility-and-Route-Concealment-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-052-5-Amazoo-Circus-Fairground-Mobility-and-Route-Concealment-System.txt)
+- `TECH-GOI-053-1` - Missing 404 Watch Tower Dead-Address Ledger System / DAL
+  - [Markdown record](TECH-GOI-053-1-Missing-404-Watch-Tower-Dead-Address-Ledger-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-053-1-Missing-404-Watch-Tower-Dead-Address-Ledger-System.txt)
+- `TECH-GOI-053-2` - Missing 404 Watch Tower Null-Coordinate Map Set / NCM
+  - [Markdown record](TECH-GOI-053-2-Missing-404-Watch-Tower-Null-Coordinate-Map-Set.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-053-2-Missing-404-Watch-Tower-Null-Coordinate-Map-Set.txt)
+- `TECH-GOI-053-3` - Missing 404 Watch Tower Rescue Bell Continuance Register / Bell Ledger
+  - [Markdown record](TECH-GOI-053-3-Missing-404-Watch-Tower-Rescue-Bell-Continuance-Register.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-053-3-Missing-404-Watch-Tower-Rescue-Bell-Continuance-Register.txt)
+- `TECH-GOI-053-4` - Missing 404 Watch Tower Locked Emergency Phone and Signal Relay / Signal Relay
+  - [Markdown record](TECH-GOI-053-4-Missing-404-Watch-Tower-Locked-Emergency-Phone-and-Signal-Relay.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-053-4-Missing-404-Watch-Tower-Locked-Emergency-Phone-and-Signal-Relay.txt)
+- `TECH-GOI-053-5` - Missing 404 Watch Tower Analog Photograph and Dead-Link Vault / Photo Vault
+  - [Markdown record](TECH-GOI-053-5-Missing-404-Watch-Tower-Analog-Photograph-and-Dead-Link-Vault.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-053-5-Missing-404-Watch-Tower-Analog-Photograph-and-Dead-Link-Vault.txt)
+- `TECH-GOI-054-1` - Lullaby Works Sleep-Safe Nightlight Lot System / Sleep-Safe Nightlight
+  - [Markdown record](TECH-GOI-054-1-Lullaby-Works-Sleep-Safe-Nightlight-Lot-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-054-1-Lullaby-Works-Sleep-Safe-Nightlight-Lot-System.txt)
+- `TECH-GOI-054-2` - Lullaby Works Listening Plush Distress Transducer / Listening Plush
+  - [Markdown record](TECH-GOI-054-2-Lullaby-Works-Listening-Plush-Distress-Transducer.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-054-2-Lullaby-Works-Listening-Plush-Distress-Transducer.txt)
+- `TECH-GOI-054-3` - Lullaby Works Quiet Blanket Panic-Reduction Weave / Quiet Blanket
+  - [Markdown record](TECH-GOI-054-3-Lullaby-Works-Quiet-Blanket-Panic-Reduction-Weave.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-054-3-Lullaby-Works-Quiet-Blanket-Panic-Reduction-Weave.txt)
+- `TECH-GOI-054-4` - Lullaby Works Nightmare-Loop Music Box Interrupter / Music Box Interrupter
+  - [Markdown record](TECH-GOI-054-4-Lullaby-Works-Nightmare-Loop-Music-Box-Interrupter.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-054-4-Lullaby-Works-Nightmare-Loop-Music-Box-Interrupter.txt)
+- `TECH-GOI-054-5` - Lullaby Works Warranty Recall and Failure Ledger / Warranty Ledger
+  - [Markdown record](TECH-GOI-054-5-Lullaby-Works-Warranty-Recall-and-Failure-Ledger.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-054-5-Lullaby-Works-Warranty-Recall-and-Failure-Ledger.txt)
+- `TECH-GOI-055-1` - Cairn & Lintel Threshold Stone Marking System / Threshold Stone
+  - [Markdown record](TECH-GOI-055-1-Cairn-and-Lintel-Threshold-Stone-Marking-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-055-1-Cairn-and-Lintel-Threshold-Stone-Marking-System.txt)
+- `TECH-GOI-055-2` - Cairn & Lintel Emergency Corridor Stabilization Array / Emergency Corridor
+  - [Markdown record](TECH-GOI-055-2-Cairn-and-Lintel-Emergency-Corridor-Stabilization-Array.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-055-2-Cairn-and-Lintel-Emergency-Corridor-Stabilization-Array.txt)
+- `TECH-GOI-055-3` - Cairn & Lintel Shelter Key Activation System / Shelter Key
+  - [Markdown record](TECH-GOI-055-3-Cairn-and-Lintel-Shelter-Key-Activation-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-055-3-Cairn-and-Lintel-Shelter-Key-Activation-System.txt)
+- `TECH-GOI-055-4` - Cairn & Lintel Sealed Living Floor Plan Archive / Living Floor Plan
+  - [Markdown record](TECH-GOI-055-4-Cairn-and-Lintel-Sealed-Living-Floor-Plan-Archive.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-055-4-Cairn-and-Lintel-Sealed-Living-Floor-Plan-Archive.txt)
+- `TECH-GOI-055-5` - Cairn & Lintel Promised Exit Lintel Assembly / Promised Exit
+  - [Markdown record](TECH-GOI-055-5-Cairn-and-Lintel-Promised-Exit-Lintel-Assembly.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-055-5-Cairn-and-Lintel-Promised-Exit-Lintel-Assembly.txt)
+- `TECH-GOI-056-1` - Saint-Vera Restoration Theater Surgical Environment / Restoration Theater
+  - [Markdown record](TECH-GOI-056-1-Saint-Vera-Restoration-Theater-Surgical-Environment.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-056-1-Saint-Vera-Restoration-Theater-Surgical-Environment.txt)
+- `TECH-GOI-056-2` - Saint-Vera Green-Thread Tissue Stabilizer / Green Thread
+  - [Markdown record](TECH-GOI-056-2-Saint-Vera-Green-Thread-Tissue-Stabilizer.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-056-2-Saint-Vera-Green-Thread-Tissue-Stabilizer.txt)
+- `TECH-GOI-056-3` - Saint-Vera Memory-Sensitive Consent Form System / Memory-Sensitive Consent
+  - [Markdown record](TECH-GOI-056-3-Saint-Vera-Memory-Sensitive-Consent-Form-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-056-3-Saint-Vera-Memory-Sensitive-Consent-Form-System.txt)
+- `TECH-GOI-056-4` - Saint-Vera Living Prosthetic Memory-Motion System / Living Prosthetic
+  - [Markdown record](TECH-GOI-056-4-Saint-Vera-Living-Prosthetic-Memory-Motion-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-056-4-Saint-Vera-Living-Prosthetic-Memory-Motion-System.txt)
+- `TECH-GOI-056-5` - Saint-Vera Cold Ledger and Sealed Patient Continuity Archive / Cold Ledger
+  - [Markdown record](TECH-GOI-056-5-Saint-Vera-Cold-Ledger-and-Sealed-Patient-Continuity-Archive.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-056-5-Saint-Vera-Cold-Ledger-and-Sealed-Patient-Continuity-Archive.txt)
+- `TECH-GOI-071-1` - Mercy Lock Gentle Lock System / ML-GLS
+  - [Markdown record](TECH-GOI-071-1-Mercy-Lock-Gentle-Lock-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-071-1-Mercy-Lock-Gentle-Lock-System.txt)
+- `TECH-GOI-071-2` - Mercy Lock Patient Bell Distress Signal System / MLPBDSS
+  - [Markdown record](TECH-GOI-071-2-Mercy-Lock-Patient-Bell-Distress-Signal-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-071-2-Mercy-Lock-Patient-Bell-Distress-Signal-System.txt)
+- `TECH-GOI-071-3` - Mercy Lock Consent Ledger and Custody Status System / MLCLCSS
+  - [Markdown record](TECH-GOI-071-3-Mercy-Lock-Consent-Ledger-and-Custody-Status-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-071-3-Mercy-Lock-Consent-Ledger-and-Custody-Status-System.txt)
+- `TECH-GOI-071-4` - Mercy Lock Quiet Room Low-Stimulation Care Architecture / MLQRLCA
+  - [Markdown record](TECH-GOI-071-4-Mercy-Lock-Quiet-Room-Low-Stimulation-Care-Architecture.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-071-4-Mercy-Lock-Quiet-Room-Low-Stimulation-Care-Architecture.txt)
+- `TECH-GOI-071-5` - Mercy Lock Shielded Ambulance Transfer System / MLSATS
+  - [Markdown record](TECH-GOI-071-5-Mercy-Lock-Shielded-Ambulance-Transfer-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-GOI-071-5-Mercy-Lock-Shielded-Ambulance-Transfer-System.txt)
+- `TECH-ACT-001` - Reality Stabilization Anchor System / RSA
+  - [Markdown record](TECH-ACT-001-Reality-Stabilization-Anchor-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-001-Reality-Stabilization-Anchor-System.txt)
+- `TECH-ACT-002` - Anti Reality Mesh System / ARM
+  - [Markdown record](TECH-ACT-002-Anti-Reality-Mesh-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-002-Anti-Reality-Mesh-System.txt)
+- `TECH-ACT-003` - Quantum Narrative Buffer System / QNB
+  - [Markdown record](TECH-ACT-003-Quantum-Narrative-Buffer-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-003-Quantum-Narrative-Buffer-System.txt)
+- `TECH-ACT-004` - 004-Series Amnestic Compound System / 004-Series
+  - [Markdown record](TECH-ACT-004-004-Series-Amnestic-Compound-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-004-004-Series-Amnestic-Compound-System.txt)
+- `TECH-ACT-005` - Causal Static Generator System / CSG
+  - [Markdown record](TECH-ACT-005-Causal-Static-Generator-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-005-Causal-Static-Generator-System.txt)
+- `TECH-ACT-006` - Facility Converted Aircraft System / FCA
+  - [Markdown record](TECH-ACT-006-Facility-Converted-Aircraft-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-006-Facility-Converted-Aircraft-System.txt)
+- `TECH-ACT-007` - Static-Pulse Crystal / SPC
+  - [Markdown record](TECH-ACT-007-Static-Pulse-Crystal.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-007-Static-Pulse-Crystal.txt)
+- `TECH-ACT-008` - Causal Anchor Nails / CAN
+  - [Markdown record](TECH-ACT-008-Causal-Anchor-Nails.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-008-Causal-Anchor-Nails.txt)
+- `TECH-ACT-009` - Chrono-Stuttered Visors / CSV
+  - [Markdown record](TECH-ACT-009-Chrono-Stuttered-Visors.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-009-Chrono-Stuttered-Visors.txt)
+- `TECH-ACT-010` - Digital Resonance Sensors / DRS
+  - [Markdown record](TECH-ACT-010-Digital-Resonance-Sensors.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-010-Digital-Resonance-Sensors.txt)
+- `TECH-ACT-011` - Narrative Seal Varnish / NSV
+  - [Markdown record](TECH-ACT-011-Narrative-Seal-Varnish.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-011-Narrative-Seal-Varnish.txt)
+- `TECH-ACT-012` - Banalist White-Noise Broadcast / BWB
+  - [Markdown record](TECH-ACT-012-Banalist-White-Noise-Broadcast.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-012-Banalist-White-Noise-Broadcast.txt)
+- `TECH-ACT-013` - Magnetic Torsion Restraints / MTR
+  - [Markdown record](TECH-ACT-013-Magnetic-Torsion-Restraints.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-013-Magnetic-Torsion-Restraints.txt)
+- `TECH-ACT-014` - Tactical Feedbacker Arm / TFA
+  - [Markdown record](TECH-ACT-014-Tactical-Feedbacker-Arm.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-014-Tactical-Feedbacker-Arm.txt)
+- `TECH-ACT-015` - Static Pulse Biometric ID / SPBID
+  - [Markdown record](TECH-ACT-015-Static-Pulse-Biometric-ID.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-015-Static-Pulse-Biometric-ID.txt)
+- `TECH-ACT-016` - Causal Tethering Cables / CTC
+  - [Markdown record](TECH-ACT-016-Causal-Tethering-Cables.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-016-Causal-Tethering-Cables.txt)
+- `TECH-ACT-017` - Vacuum Isolation Spheres / VIS
+  - [Markdown record](TECH-ACT-017-Vacuum-Isolation-Spheres.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-017-Vacuum-Isolation-Spheres.txt)
+- `TECH-ACT-018` - Non-Euclidean Compass / NEC
+  - [Markdown record](TECH-ACT-018-Non-Euclidean-Compass.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-018-Non-Euclidean-Compass.txt)
+- `TECH-ACT-019` - Cryo-Seismic Stabilizers / CSS
+  - [Markdown record](TECH-ACT-019-Cryo-Seismic-Stabilizers.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-019-Cryo-Seismic-Stabilizers.txt)
+- `TECH-ACT-020` - Regression-Resistant Ink / RRI
+  - [Markdown record](TECH-ACT-020-Regression-Resistant-Ink.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-020-Regression-Resistant-Ink.txt)
+- `TECH-ACT-021` - Spectral Vibration Sensors / SVS
+  - [Markdown record](TECH-ACT-021-Spectral-Vibration-Sensors.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-021-Spectral-Vibration-Sensors.txt)
+- `TECH-ACT-022` - Synthetic Sanguine-Fuel / SSF
+  - [Markdown record](TECH-ACT-022-Synthetic-Sanguine-Fuel.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-022-Synthetic-Sanguine-Fuel.txt)
+- `TECH-ACT-023` - Genetic Perfection Protocol / GPP
+  - [Markdown record](TECH-ACT-023-Genetic-Perfection-Protocol.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-023-Genetic-Perfection-Protocol.txt)
+- `TECH-ACT-024` - Pale Wood Scalpel / PWS
+  - [Markdown record](TECH-ACT-024-Pale-Wood-Scalpel.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-024-Pale-Wood-Scalpel.txt)
+- `TECH-ACT-025` - Thermal-Lure Beacon / TLB
+  - [Markdown record](TECH-ACT-025-Thermal-Lure-Beacon.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-025-Thermal-Lure-Beacon.txt)
+- `TECH-ACT-026` - Biometric Resonance Dampeners / BRD
+  - [Markdown record](TECH-ACT-026-Biometric-Resonance-Dampeners.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-026-Biometric-Resonance-Dampeners.txt)
+- `TECH-ACT-027` - Gold-Tipped Mining Drills / GTMD
+  - [Markdown record](TECH-ACT-027-Gold-Tipped-Mining-Drills.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-027-Gold-Tipped-Mining-Drills.txt)
+- `TECH-ACT-028` - Neural Lacing Type 004-MOD / NL-004
+  - [Markdown record](TECH-ACT-028-Neural-Lacing-Type-004-MOD.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-028-Neural-Lacing-Type-004-MOD.txt)
+- `TECH-ACT-029` - Cryogenic Biological Isolation Units / CBI
+  - [Markdown record](TECH-ACT-029-Cryogenic-Biological-Isolation-Units.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-029-Cryogenic-Biological-Isolation-Units.txt)
+- `TECH-ACT-030` - Soul-Stasis Harness / SSH
+  - [Markdown record](TECH-ACT-030-Soul-Stasis-Harness.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-030-Soul-Stasis-Harness.txt)
+- `TECH-ACT-031` - Adrenaline Micro-Surge Detectors / AMSD
+  - [Markdown record](TECH-ACT-031-Adrenaline-Micro-Surge-Detectors.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-031-Adrenaline-Micro-Surge-Detectors.txt)
+- `TECH-ACT-032` - HPP Resonance Scanners / HPP-RS
+  - [Markdown record](TECH-ACT-032-HPP-Resonance-Scanners.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-032-HPP-Resonance-Scanners.txt)
+- `TECH-ACT-033` - Abyssal Masonry / ABM
+  - [Markdown record](TECH-ACT-033-Abyssal-Masonry.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-033-Abyssal-Masonry.txt)
+- `TECH-ACT-034` - Abyssal Anchor Plating / AAP
+  - [Markdown record](TECH-ACT-034-Abyssal-Anchor-Plating.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-034-Abyssal-Anchor-Plating.txt)
+- `TECH-ACT-035` - Phase-Shifted Containment Glass / PSCG
+  - [Markdown record](TECH-ACT-035-Phase-Shifted-Containment-Glass.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-035-Phase-Shifted-Containment-Glass.txt)
+- `TECH-ACT-036` - Ectothermic Regeneration Gel / ERG
+  - [Markdown record](TECH-ACT-036-Ectothermic-Regeneration-Gel.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-036-Ectothermic-Regeneration-Gel.txt)
+- `TECH-ACT-037` - Sub-Abyssal Sonar / SAS
+  - [Markdown record](TECH-ACT-037-Sub-Abyssal-Sonar.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-037-Sub-Abyssal-Sonar.txt)
+- `TECH-ACT-038` - Causal Static Earpieces / CSE
+  - [Markdown record](TECH-ACT-038-Causal-Static-Earpieces.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-038-Causal-Static-Earpieces.txt)
+- `TECH-ACT-039` - High-Density Liquid Lead / HDLL
+  - [Markdown record](TECH-ACT-039-High-Density-Liquid-Lead.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-039-High-Density-Liquid-Lead.txt)
+- `TECH-ACT-040` - Vesper-Pattern Tactical AI / VPT-AI
+  - [Markdown record](TECH-ACT-040-Vesper-Pattern-Tactical-AI.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-040-Vesper-Pattern-Tactical-AI.txt)
+- `TECH-ACT-041` - Harvested Pale Wood / HPW
+  - [Markdown record](TECH-ACT-041-Harvested-Pale-Wood.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-041-Harvested-Pale-Wood.txt)
+- `TECH-ACT-042` - Refined Steel-Dirt / RSD
+  - [Markdown record](TECH-ACT-042-Refined-Steel-Dirt.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-042-Refined-Steel-Dirt.txt)
+- `TECH-ACT-043` - Galaxy-Motive Textile / GMT
+  - [Markdown record](TECH-ACT-043-Galaxy-Motive-Textile.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-043-Galaxy-Motive-Textile.txt)
+- `TECH-ACT-044` - Causal-Reactive Mercury / CRM
+  - [Markdown record](TECH-ACT-044-Causal-Reactive-Mercury.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-044-Causal-Reactive-Mercury.txt)
+- `TECH-ACT-045` - Refined NEMNOLIA Sap / RNS
+  - [Markdown record](TECH-ACT-045-Refined-Nemnolia-Sap.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-045-Refined-Nemnolia-Sap.txt)
+- `TECH-ACT-046` - Sanguine-Conductive Alloy / SCA
+  - [Markdown record](TECH-ACT-046-Sanguine-Conductive-Alloy.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-046-Sanguine-Conductive-Alloy.txt)
+- `TECH-ACT-047` - Phase-Stable Silicone / PSS
+  - [Markdown record](TECH-ACT-047-Phase-Stable-Silicone.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-047-Phase-Stable-Silicone.txt)
+- `TECH-ACT-048` - Red-River Acid (Stabilized) / RRA-S
+  - [Markdown record](TECH-ACT-048-Red-River-Acid-Stabilized.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-048-Red-River-Acid-Stabilized.txt)
+- `TECH-ACT-049` - Abyssal Basalt / AB-BAS
+  - [Markdown record](TECH-ACT-049-Abyssal-Basalt.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-049-Abyssal-Basalt.txt)
+- `TECH-ACT-050` - Digital Resonance Mapping Suite / DRM Suite
+  - [Markdown record](TECH-ACT-050-Digital-Resonance-Mapping-Suite.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-050-Digital-Resonance-Mapping-Suite.txt)
+- `TECH-ACT-051` - Steam-Drill Excavator / SDE
+  - [Markdown record](TECH-ACT-051-Steam-Drill-Excavator.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-051-Steam-Drill-Excavator.txt)
+- `TECH-ACT-052` - High-Density Lead Vaulting / HDLV
+  - [Markdown record](TECH-ACT-052-High-Density-Lead-Vaulting.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-052-High-Density-Lead-Vaulting.txt)
+- `TECH-ACT-053` - Clockwork Causal Anchors / CCA
+  - [Markdown record](TECH-ACT-053-Clockwork-Causal-Anchors.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-053-Clockwork-Causal-Anchors.txt)
+- `TECH-ACT-054` - Reinforced Iron Caging / RIC
+  - [Markdown record](TECH-ACT-054-Reinforced-Iron-Caging.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-054-Reinforced-Iron-Caging.txt)
+- `TECH-ACT-055` - Silent Boundary System / SBS
+  - [Markdown record](TECH-ACT-055-Silent-Boundary-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-055-Silent-Boundary-System.txt)
+- `TECH-ACT-056` - Memetic Filtering Infrastructure / MFI
+  - [Markdown record](TECH-ACT-056-Memetic-Filtering-Infrastructure.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-056-Memetic-Filtering-Infrastructure.txt)
+- `TECH-ACT-057` - Anomalous Intake Screening Suites / AISS
+  - [Markdown record](TECH-ACT-057-Anomalous-Intake-Screening-Suites.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-057-Anomalous-Intake-Screening-Suites.txt)
+- `TECH-ACT-058` - F-1 Closure System / F1-CS
+  - [Markdown record](TECH-ACT-058-F-1-Closure-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-058-F-1-Closure-System.txt)
+- `TECH-ACT-059` - Document Quarantine Cells / DQC
+  - [Markdown record](TECH-ACT-059-Document-Quarantine-Cells.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-059-Document-Quarantine-Cells.txt)
+- `TECH-ACT-060` - Artifact-Influence Isolation Suites / AIIS
+  - [Markdown record](TECH-ACT-060-Artifact-Influence-Isolation-Suites.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-060-Artifact-Influence-Isolation-Suites.txt)
+- `TECH-ACT-061` - Suspended Vault Mounting System / SVMS
+  - [Markdown record](TECH-ACT-061-Suspended-Vault-Mounting-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-061-Suspended-Vault-Mounting-System.txt)
+- `TECH-ACT-062` - QNB-Hardened Archive Structure / QHAS
+  - [Markdown record](TECH-ACT-062-QNB-Hardened-Archive-Structure.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-062-QNB-Hardened-Archive-Structure.txt)
+- `TECH-ACT-063` - Memetic Contamination Treatment Suites / MCTS
+  - [Markdown record](TECH-ACT-063-Memetic-Contamination-Treatment-Suites.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-063-Memetic-Contamination-Treatment-Suites.txt)
+- `TECH-ACT-064` - Water-Capable Containment Chambers / WCCC
+  - [Markdown record](TECH-ACT-064-Water-Capable-Containment-Chambers.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-064-Water-Capable-Containment-Chambers.txt)
+- `TECH-ACT-065` - Pressure-Rated Environmental Transition System / PRETS
+  - [Markdown record](TECH-ACT-065-Pressure-Rated-Environmental-Transition-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-065-Pressure-Rated-Environmental-Transition-System.txt)
+- `TECH-ACT-066` - Maritime Platform Containment Infrastructure / MPCI
+  - [Markdown record](TECH-ACT-066-Maritime-Platform-Containment-Infrastructure.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-066-Maritime-Platform-Containment-Infrastructure.txt)
+- `TECH-ACT-067` - Deep-Earth Sensor Arrays / DESA
+  - [Markdown record](TECH-ACT-067-Deep-Earth-Sensor-Arrays.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-067-Deep-Earth-Sensor-Arrays.txt)
+- `TECH-ACT-068` - Sensor Nexus Signal Processing Architecture / SNSPA
+  - [Markdown record](TECH-ACT-068-Sensor-Nexus-Signal-Processing-Architecture.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-068-Sensor-Nexus-Signal-Processing-Architecture.txt)
+- `TECH-ACT-069` - Abyss-Linked Observation Recording System / ALORS
+  - [Markdown record](TECH-ACT-069-Abyss-Linked-Observation-Recording-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-069-Abyss-Linked-Observation-Recording-System.txt)
+- `TECH-ACT-070` - Deep Monitoring Processing Center / DMPC
+  - [Markdown record](TECH-ACT-070-Deep-Monitoring-Processing-Center.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-070-Deep-Monitoring-Processing-Center.txt)
+- `TECH-ACT-071` - Seismic Records Vaults / SRV
+  - [Markdown record](TECH-ACT-071-Seismic-Records-Vaults.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-071-Seismic-Records-Vaults.txt)
+- `TECH-ACT-072` - Restricted Records Vaults / RRV
+  - [Markdown record](TECH-ACT-072-Restricted-Records-Vaults.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-072-Restricted-Records-Vaults.txt)
+- `TECH-ACT-073` - Marine Biology Laboratory Suites / MBLS
+  - [Markdown record](TECH-ACT-073-Marine-Biology-Laboratory-Suites.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-073-Marine-Biology-Laboratory-Suites.txt)
+- `TECH-ACT-074` - Deep-Earth Sample Analysis Laboratories / DESAL
+  - [Markdown record](TECH-ACT-074-Deep-Earth-Sample-Analysis-Laboratories.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-074-Deep-Earth-Sample-Analysis-Laboratories.txt)
+- `TECH-ACT-075` - Sonar Void Research Program Infrastructure / SVRPI
+  - [Markdown record](TECH-ACT-075-Sonar-Void-Research-Program-Infrastructure.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-075-Sonar-Void-Research-Program-Infrastructure.txt)
+- `TECH-ACT-076` - Command Communications Nexus / CCN
+  - [Markdown record](TECH-ACT-076-Command-Communications-Nexus.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-076-Command-Communications-Nexus.txt)
+- `TECH-ACT-077` - Internal Logistics Coordination Center / ILCC
+  - [Markdown record](TECH-ACT-077-Internal-Logistics-Coordination-Center.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-077-Internal-Logistics-Coordination-Center.txt)
+- `TECH-ACT-078` - Seismic Preparedness Shelter and Response System / SPSRS
+  - [Markdown record](TECH-ACT-078-Seismic-Preparedness-Shelter-and-Response-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-078-Seismic-Preparedness-Shelter-and-Response-System.txt)
+- `TECH-ACT-079` - Surface Cover Research Campus / SCRC
+  - [Markdown record](TECH-ACT-079-Surface-Cover-Research-Campus.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-079-Surface-Cover-Research-Campus.txt)
+- `TECH-ACT-080` - Concealed Transition Access Architecture / CTAA
+  - [Markdown record](TECH-ACT-080-Concealed-Transition-Access-Architecture.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-080-Concealed-Transition-Access-Architecture.txt)
+- `TECH-ACT-081` - Maritime Separation Port Operations System / MSPOS
+  - [Markdown record](TECH-ACT-081-Maritime-Separation-Port-Operations-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-081-Maritime-Separation-Port-Operations-System.txt)
+- `TECH-ACT-082` - Emergency Intake and Secure Storage System / EISSS
+  - [Markdown record](TECH-ACT-082-Emergency-Intake-and-Secure-Storage-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-082-Emergency-Intake-and-Secure-Storage-System.txt)
+- `TECH-ACT-083` - Coastal Watch Coordination Center / CWCC
+  - [Markdown record](TECH-ACT-083-Coastal-Watch-Coordination-Center.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-083-Coastal-Watch-Coordination-Center.txt)
+- `TECH-ACT-084` - Volcanic-Seismic Monitoring Suites / VSMS
+  - [Markdown record](TECH-ACT-084-Volcanic-Seismic-Monitoring-Suites.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-084-Volcanic-Seismic-Monitoring-Suites.txt)
+- `TECH-ACT-085` - Recovery Support Staging Area / RSSA
+  - [Markdown record](TECH-ACT-085-Recovery-Support-Staging-Area.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-085-Recovery-Support-Staging-Area.txt)
+- `TECH-ACT-086` - Natural Cover Research Station System / NCRSS
+  - [Markdown record](TECH-ACT-086-Natural-Cover-Research-Station-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-086-Natural-Cover-Research-Station-System.txt)
+- `TECH-ACT-087` - Shared-Instrument Observation Network / SION
+  - [Markdown record](TECH-ACT-087-Shared-Instrument-Observation-Network.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-087-Shared-Instrument-Observation-Network.txt)
+- `TECH-ACT-088` - Short-Term Holding Vault System / STHVS
+  - [Markdown record](TECH-ACT-088-Short-Term-Holding-Vault-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-088-Short-Term-Holding-Vault-System.txt)
+- `TECH-ACT-089` - Witness Processing and Sanitation Suites / WPSS
+  - [Markdown record](TECH-ACT-089-Witness-Processing-and-Sanitation-Suites.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-089-Witness-Processing-and-Sanitation-Suites.txt)
+- `TECH-ACT-090` - Archive Relay Buffering Area / ARBA
+  - [Markdown record](TECH-ACT-090-Archive-Relay-Buffering-Area.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-090-Archive-Relay-Buffering-Area.txt)
+- `TECH-ACT-091` - Intake Staging and Routing System / ISRS
+  - [Markdown record](TECH-ACT-091-Intake-Staging-and-Routing-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-091-Intake-Staging-and-Routing-System.txt)
+- `TECH-ACT-092` - Agricultural Biotech Cover Campus / ABCC
+  - [Markdown record](TECH-ACT-092-Agricultural-Biotech-Cover-Campus.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-092-Agricultural-Biotech-Cover-Campus.txt)
+- `TECH-ACT-093` - Low-Visibility Processing Logistics System / LVPLS
+  - [Markdown record](TECH-ACT-093-Low-Visibility-Processing-Logistics-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-093-Low-Visibility-Processing-Logistics-System.txt)
+- `TECH-ACT-094` - Interim Cryogenic Holding System / ICHS
+  - [Markdown record](TECH-ACT-094-Interim-Cryogenic-Holding-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-094-Interim-Cryogenic-Holding-System.txt)
+- `TECH-ACT-095` - Quarantine Assessment and Medical Staging Suites / QAMSS
+  - [Markdown record](TECH-ACT-095-Quarantine-Assessment-and-Medical-Staging-Suites.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-095-Quarantine-Assessment-and-Medical-Staging-Suites.txt)
+- `TECH-ACT-096` - Arctic Cold-Storage Cover and Silent Movement System / ACSCSMS
+  - [Markdown record](TECH-ACT-096-Arctic-Cold-Storage-Cover-and-Silent-Movement-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-096-Arctic-Cold-Storage-Cover-and-Silent-Movement-System.txt)
+- `TECH-ACT-097` - Minor Memetic Quarantine Vault System / MMQVS
+  - [Markdown record](TECH-ACT-097-Minor-Memetic-Quarantine-Vault-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-097-Minor-Memetic-Quarantine-Vault-System.txt)
+- `TECH-ACT-098` - Controlled Reading and Redaction Workroom System / CRRWS
+  - [Markdown record](TECH-ACT-098-Controlled-Reading-and-Redaction-Workroom-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-098-Controlled-Reading-and-Redaction-Workroom-System.txt)
+- `TECH-ACT-099` - Document Preservation Studio Cover System / DPSCS
+  - [Markdown record](TECH-ACT-099-Document-Preservation-Studio-Cover-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-099-Document-Preservation-Studio-Cover-System.txt)
+- `TECH-ACT-100` - Native Containment Field System / NCFS
+  - [Markdown record](TECH-ACT-100-Native-Containment-Field-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-100-Native-Containment-Field-System.txt)
+- `TECH-ACT-101` - Concealed Perimeter Sector Network / CPSN
+  - [Markdown record](TECH-ACT-101-Concealed-Perimeter-Sector-Network.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-101-Concealed-Perimeter-Sector-Network.txt)
+- `TECH-ACT-102` - Hollow Canopy Field Station and Remote Monitoring System / HCFSRMS
+  - [Markdown record](TECH-ACT-102-Hollow-Canopy-Field-Station-and-Remote-Monitoring-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-102-Hollow-Canopy-Field-Station-and-Remote-Monitoring-System.txt)
+- `TECH-ACT-103` - Interior Biological Habitat Chamber System / IBHCS
+  - [Markdown record](TECH-ACT-103-Interior-Biological-Habitat-Chamber-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-103-Interior-Biological-Habitat-Chamber-System.txt)
+- `TECH-ACT-104` - Biological Analysis and Sample Control Laboratories / BASCL
+  - [Markdown record](TECH-ACT-104-Biological-Analysis-and-Sample-Control-Laboratories.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-104-Biological-Analysis-and-Sample-Control-Laboratories.txt)
+- `TECH-ACT-105` - Deep Cultivation Vault System / DCVS
+  - [Markdown record](TECH-ACT-105-Deep-Cultivation-Vault-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-105-Deep-Cultivation-Vault-System.txt)
+- `TECH-ACT-106` - Reserve Command and Operations Coordination System / RCOCS
+  - [Markdown record](TECH-ACT-106-Reserve-Command-and-Operations-Coordination-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-106-Reserve-Command-and-Operations-Coordination-System.txt)
+- `TECH-ACT-107` - Personnel Processing and Reserve Clearance System / PPRCS
+  - [Markdown record](TECH-ACT-107-Personnel-Processing-and-Reserve-Clearance-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-107-Personnel-Processing-and-Reserve-Clearance-System.txt)
+- `TECH-ACT-108` - Surface Research Campus Cover Integration System / SRCCIS
+  - [Markdown record](TECH-ACT-108-Surface-Research-Campus-Cover-Integration-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-108-Surface-Research-Campus-Cover-Integration-System.txt)
+- `TECH-ACT-109` - Maritime Holding Intake and Transfer System / MHITS
+  - [Markdown record](TECH-ACT-109-Maritime-Holding-Intake-and-Transfer-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-109-Maritime-Holding-Intake-and-Transfer-System.txt)
+- `TECH-ACT-110` - Climate-Controlled Island Holding Unit System / CCIHUS
+  - [Markdown record](TECH-ACT-110-Climate-Controlled-Island-Holding-Unit-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-110-Climate-Controlled-Island-Holding-Unit-System.txt)
+- `TECH-ACT-111` - Seismic Data Interpretation and Restriction Enforcement System / SDIRES
+  - [Markdown record](TECH-ACT-111-Seismic-Data-Interpretation-and-Restriction-Enforcement-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-111-Seismic-Data-Interpretation-and-Restriction-Enforcement-System.txt)
+- `TECH-ACT-112` - Island Personnel Habitation and Sustainment System / IPHSS
+  - [Markdown record](TECH-ACT-112-Island-Personnel-Habitation-and-Sustainment-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-112-Island-Personnel-Habitation-and-Sustainment-System.txt)
+- `TECH-ACT-113` - Relay Command Floor Status and Decision System / RCFSD
+  - [Markdown record](TECH-ACT-113-Relay-Command-Floor-Status-and-Decision-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-113-Relay-Command-Floor-Status-and-Decision-System.txt)
+- `TECH-ACT-114` - Surface Transition and Maritime Cover Gateway System / STMCGS
+  - [Markdown record](TECH-ACT-114-Surface-Transition-and-Maritime-Cover-Gateway-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-114-Surface-Transition-and-Maritime-Cover-Gateway-System.txt)
+- `TECH-ACT-115` - Archive Boundary Personnel Clearance System / ABPCS
+  - [Markdown record](TECH-ACT-115-Archive-Boundary-Personnel-Clearance-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-115-Archive-Boundary-Personnel-Clearance-System.txt)
+- `TECH-ACT-116` - Operational Archive Training and Doctrine Preparation System / OATDPS
+  - [Markdown record](TECH-ACT-116-Operational-Archive-Training-and-Doctrine-Preparation-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-116-Operational-Archive-Training-and-Doctrine-Preparation-System.txt)
+- `TECH-ACT-117` - Public Archive Absolute Separation and Immediate Transfer System / PAASITS
+  - [Markdown record](TECH-ACT-117-Public-Archive-Absolute-Separation-and-Immediate-Transfer-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-117-Public-Archive-Absolute-Separation-and-Immediate-Transfer-System.txt)
+- `TECH-ACT-118` - Symbol Behavior Controlled Observation Suites / SBCOS
+  - [Markdown record](TECH-ACT-118-Symbol-Behavior-Controlled-Observation-Suites.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-118-Symbol-Behavior-Controlled-Observation-Suites.txt)
+- `TECH-ACT-119` - Media Propagation Tracking Center System / MPTCS
+  - [Markdown record](TECH-ACT-119-Media-Propagation-Tracking-Center-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-119-Media-Propagation-Tracking-Center-System.txt)
+- `TECH-ACT-120` - Redaction Release Authorization and Filtering Record System / RRAFRS
+  - [Markdown record](TECH-ACT-120-Redaction-Release-Authorization-and-Filtering-Record-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-120-Redaction-Release-Authorization-and-Filtering-Record-System.txt)
+- `TECH-ACT-121` - Unread Archive Anti-Reading Preservation Vault System / UAARPV
+  - [Markdown record](TECH-ACT-121-Unread-Archive-Anti-Reading-Preservation-Vault-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-121-Unread-Archive-Anti-Reading-Preservation-Vault-System.txt)
+- `TECH-ACT-122` - Blind Box and Eye Box Perception-Control Vault System / BBEBPCVS
+  - [Markdown record](TECH-ACT-122-Blind-Box-and-Eye-Box-Perception-Control-Vault-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-122-Blind-Box-and-Eye-Box-Perception-Control-Vault-System.txt)
+- `TECH-ACT-123` - Signal-Isolated Anomalous Document Storage System / SIADSS
+  - [Markdown record](TECH-ACT-123-Signal-Isolated-Anomalous-Document-Storage-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-123-Signal-Isolated-Anomalous-Document-Storage-System.txt)
+- `TECH-ACT-124` - Standard Box Holding Chamber System / SBHCS
+  - [Markdown record](TECH-ACT-124-Standard-Box-Holding-Chamber-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-124-Standard-Box-Holding-Chamber-System.txt)
+- `TECH-ACT-125` - Ascending Authorization Transformation Staging Lock System / AATSL
+  - [Markdown record](TECH-ACT-125-Ascending-Authorization-Transformation-Staging-Lock-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-125-Ascending-Authorization-Transformation-Staging-Lock-System.txt)
+- `TECH-ACT-126` - Controlled Study Environment and Research Sample-Custody System / CSERSCS
+  - [Markdown record](TECH-ACT-126-Controlled-Study-Environment-and-Research-Sample-Custody-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-126-Controlled-Study-Environment-and-Research-Sample-Custody-System.txt)
+- `TECH-ACT-127` - Medical Isolation and Cognitive Recovery Ward System / MICRWS
+  - [Markdown record](TECH-ACT-127-Medical-Isolation-and-Cognitive-Recovery-Ward-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-127-Medical-Isolation-and-Cognitive-Recovery-Ward-System.txt)
+- `TECH-ACT-128` - QNB-Hardened Repository and Record Retrieval System / QHRRRS
+  - [Markdown record](TECH-ACT-128-QNB-Hardened-Repository-and-Record-Retrieval-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-128-QNB-Hardened-Repository-and-Record-Retrieval-System.txt)
+- `TECH-ACT-129` - Vertical-Flow Personnel Processing and Clearance Verification System / VFPPCVS
+  - [Markdown record](TECH-ACT-129-Vertical-Flow-Personnel-Processing-and-Clearance-Verification-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-129-Vertical-Flow-Personnel-Processing-and-Clearance-Verification-System.txt)
+- `TECH-ACT-130` - Unmarked Wall Surface Boundary and Loading Transition System / UWSBLTS
+  - [Markdown record](TECH-ACT-130-Unmarked-Wall-Surface-Boundary-and-Loading-Transition-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-130-Unmarked-Wall-Surface-Boundary-and-Loading-Transition-System.txt)
+- `TECH-ACT-131` - Seasonal Arctic Research Cover and Transition Control System / SARCTCS
+  - [Markdown record](TECH-ACT-131-Seasonal-Arctic-Research-Cover-and-Transition-Control-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-131-Seasonal-Arctic-Research-Cover-and-Transition-Control-System.txt)
+- `TECH-ACT-132` - Long-Rotation Habitation and Main Security Checkpoint System / LRHMSCS
+  - [Markdown record](TECH-ACT-132-Long-Rotation-Habitation-and-Main-Security-Checkpoint-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-132-Long-Rotation-Habitation-and-Main-Security-Checkpoint-System.txt)
+- `TECH-ACT-133` - Long-Term Biological Observation and Cold-Suppressed Study System / LTBOCSS
+  - [Markdown record](TECH-ACT-133-Long-Term-Biological-Observation-and-Cold-Suppressed-Study-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-133-Long-Term-Biological-Observation-and-Cold-Suppressed-Study-System.txt)
+- `TECH-ACT-134` - Biological Suppression Chamber and Climate-Controlled Deep-Isolation Holding System / BSCCDIHS
+  - [Markdown record](TECH-ACT-134-Biological-Suppression-Chamber-and-Climate-Controlled-Deep-Isolation-Holding-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-134-Biological-Suppression-Chamber-and-Climate-Controlled-Deep-Isolation-Holding-System.txt)
+- `TECH-ACT-135` - Failure-Tolerant Entropic Holding and Self-Repairing Environment System / FTEHSRES
+  - [Markdown record](TECH-ACT-135-Failure-Tolerant-Entropic-Holding-and-Self-Repairing-Environment-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-135-Failure-Tolerant-Entropic-Holding-and-Self-Repairing-Environment-System.txt)
+- `TECH-ACT-136` - Long Sleep Vault and F-1 Closure Containment System / LSVF1CCS
+  - [Markdown record](TECH-ACT-136-Long-Sleep-Vault-and-F-1-Closure-Containment-System.md)
+  - [Plain-text reading copy](../TECH_TXT/TECH-ACT-136-Long-Sleep-Vault-and-F-1-Closure-Containment-System.txt)
+
+## Numbering Rule
+
+- A.C.T-origin technology uses one sequential technology number only: `TECH-ACT-001`, `TECH-ACT-002`, and onward.
+- GOI-linked technology uses the GOI registry number plus a dash-number for that GOI's technology sequence: `TECH-GOI-071-1` means the first registered technology attached to GOI number 071.
+- The dash-number is the technology number from that GOI. The three-digit number before the dash is the GOI number, not the technology sequence.
+
+## Active Format Rules
+
+- Use md and txt twins.
+- Keep each document above 200 words.
+- Record concrete function, custody, operating limits, failure behavior, and handling rules.
+- Preserve unknowns where A.C.T has not recovered complete schematics or long-term data.
+- Do not flatten GOI technology into A.C.T ownership unless a file explicitly states appropriation or licensing.
+- Do not use a technology record to replace anomaly, GOI, personnel, witness, medical, or incident files.
+- Censor living patients, active facility coordinates, exploitable schematics, and hostile-use instructions.
+
+## Current Status
+
+TECH-GOI-049-1 establishes the DREAM .INC extraction apparatus as the source-machine technology that draws Dream Nectar from a redacted Dream-Type Anomaly. TECH-GOI-049-2 expands the sealed Dream Nectar batch system recovered from private referral distribution. TECH-GOI-049-3 expands the wish intake and confidential report system that turns consumer desire into exploitable product data. TECH-GOI-049-4 expands the twelve-building appointment routing network that hides product movement inside open corporate premises. TECH-GOI-049-5 expands the quiet machine condition indicator system that converts apparatus instability into business-facing appointment, wish, and report changes. TECH-GOI-051-1 expands the Mysterious Guild OMEGA-KERN Gamification Protocol Control Layer, the coercive combat-interface framework that reframes reality into jobs, nodes, health bars, and tactical scoring. TECH-GOI-051-2 expands the Mysterious Guild Registry Maintenance Contact System, the equipment authority and overdue-maintenance contact logic that must remain air-gapped. TECH-GOI-051-3 expands Mysterious Guild Argus KSG-16 Smart-Shotgun Data, the future-origin armory record tied to smart targeting and Guild maintenance risk. TECH-GOI-051-4 expands Mysterious Guild Feedbacker Shield Record System, the defensive equipment data that may redirect force or feed combat feedback into an operative interface. TECH-GOI-051-5 expands Mysterious Guild Ghost File Record Erasure System, the record-control method that turns missing public identity into evidence of Guild custody and censorship. TECH-GOI-052-1 expands the Amazoo Circus reinforced iron performance cage system, the recovered restraint-and-display technology tied to AFD-SU-507 and Operation BIG TOP. TECH-GOI-052-2 expands the Amazoo Circus audience conditioning performance environment, the stage, crowd, light, sound, curtain, and chant arrangement that made abuse look like entertainment. TECH-GOI-052-3 expands the Amazoo Circus emotional-siphoning performance frame, the suspected method for converting shame, fear, applause, and forced performance into anomalous yield. TECH-GOI-052-4 expands the Amazoo Circus trauma-command and act-naming system, the verbal role-control method that turned performer identity into restraint. TECH-GOI-052-5 expands the Amazoo Circus fairground mobility and route concealment system, the traveling infrastructure used to move cages, performers, animals, tickets, and evidence under carnival cover. TECH-GOI-053-1 expands the Missing 404 Watch Tower Dead-Address Ledger System, the analog address-continuance technology used to preserve vanished locations after ordinary systems return absence. TECH-GOI-053-2 expands the Missing 404 Watch Tower Null-Coordinate Map Set, the failed-route map system used when roads, trails, and coordinates contradict each other. TECH-GOI-053-3 expands the Missing 404 Watch Tower Rescue Bell Continuance Register, the name-preservation system behind bell entries that keep missing persons legally and socially held. TECH-GOI-053-4 expands the Missing 404 Watch Tower Locked Emergency Phone and Signal Relay, the distress-signal preservation system used for removed-location calls and impossible radio returns. TECH-GOI-053-5 expands the Missing 404 Watch Tower Analog Photograph and Dead-Link Vault, the paper, microfilm, photograph, and broken-link preservation system used against digital record failure. TECH-GOI-054-1 expands the Lullaby Works Sleep-Safe Nightlight Lot System, the child-protection lighting technology recovered from shelter and nursery incidents. TECH-GOI-054-2 expands the Lullaby Works Listening Plush Distress Transducer, the stuffed-animal warning system that listens when a child cannot speak. TECH-GOI-054-3 expands the Lullaby Works Quiet Blanket Panic-Reduction Weave, the protective textile system that reduces post-incident panic without full memory suppression. TECH-GOI-054-4 expands the Lullaby Works Nightmare-Loop Music Box Interrupter, the limited-night sleep device that disrupts repeated harmful dream sequences. TECH-GOI-054-5 expands the Lullaby Works Warranty Recall and Failure Ledger, the product-safety record system tracking lots, failures, caregiver notes, and replacement decisions. TECH-GOI-055-1 expands the Cairn & Lintel Threshold Stone Marking System, the four-cut route marker technology used to identify thresholds that may hold during abnormal structural failure. TECH-GOI-055-2 expands the Cairn & Lintel Emergency Corridor Stabilization Array, the temporary route and undocumented stair system used in breach evacuation and spatial collapse. TECH-GOI-055-3 expands the Cairn & Lintel Shelter Key Activation System, the key-and-door technology behind green-key and Door 2B evacuation cases. TECH-GOI-055-4 expands the Cairn & Lintel Sealed Living Floor Plan Archive, the plan system for structures whose safe routes disagree with civic records. TECH-GOI-055-5 expands the Cairn & Lintel Promised Exit Lintel Assembly, the load-bearing threshold technology behind doors that keep their exit obligation under impossible pressure. TECH-GOI-056-1 expands the Saint-Vera Restoration Theater Surgical Environment, the patient-status surgical space used for anomaly-survivor restoration. TECH-GOI-056-2 expands the Saint-Vera Green-Thread Tissue Stabilizer, the closure technology that halts symbol-burn and transformation spread during transfer. TECH-GOI-056-3 expands the Saint-Vera Memory-Sensitive Consent Form System, the consent safeguard that separates living refusal from payer demand, sedation contradiction, and false assent. TECH-GOI-056-4 expands the Saint-Vera Living Prosthetic Memory-Motion System, the prosthetic family that restores altered movement while preserving patient continuity. TECH-GOI-056-5 expands the Saint-Vera Cold Ledger and Sealed Patient Continuity Archive, the patient-record system for survival, refusal, restoration, and legal-death contradictions. TECH-GOI-071-1 establishes the archive standard through Mercy Lock Institute's gentle lock system: a nonviolent containment-door and room-interface technology used to lock the harm without locking away the person. TECH-GOI-071-2 expands Mercy Lock Patient Bell Distress Signal System, the cloth-wrapped and patient-linked distress-call technology that preserves communication inside nonviolent custody. TECH-GOI-071-3 expands Mercy Lock Consent Ledger and Custody Status System, the custody, advocacy, name, and consent-marker record technology that keeps restraint lawful through anomalous identity change. TECH-GOI-071-4 expands Mercy Lock Quiet Room Low-Stimulation Care Architecture, the soft-room, baffling, light-control, and patient-specific environment system that reduces escalation before increasing restraint. TECH-GOI-071-5 expands Mercy Lock Shielded Ambulance Transfer System, the route-curtain, bell-compatible, consent-preserving, nonviolent medical transport platform used for ward, hospital, maritime, and A.C.T transfer. TECH-ACT-001 establishes the first expanded main A.C.T technology record for the Reality Stabilization Anchor System, the primary causal-baseline infrastructure used to keep containment rooms, transport units, and site geometry operational under anomalous pressure. TECH-ACT-002 expands the Anti Reality Mesh System, the site-wide concealment and perceptual masking infrastructure paired with RSA across A.C.T facilities. TECH-ACT-003 expands the Quantum Narrative Buffer System, the archival causal-safeguard used to preserve records through rewrites, regressions, temporal resets, and narrative drift. TECH-ACT-004 expands the 004-Series Amnestic Compound System, the NEMNOLIA-lineage memory-control technology used for normalcy, witness sanitation, and restricted recall erasure under medical aftercare. TECH-ACT-005 expands the Causal Static Generator System, the high-entropy narrative-suppression technology used to induce Narrative Starvation in anomalies that escalate through dramatic causality. TECH-ACT-006 expands the Facility Converted Aircraft System, the RSA-supported and ARM-masked heavy VTOL transport platform used for oversized anomaly movement and high-priority trans-regional recovery logistics. TECH-ACT-007 expands Static-Pulse Crystal, the Abyss Floor violet material that powers RSA cores and serves as a restricted baseline reference. TECH-ACT-008 expands Causal Anchor Nails, the single-use field spikes used to fix objects briefly during recovery, loading, or emergency stabilization. TECH-ACT-009 expands Chrono-Stuttered Visors, the delayed-vision PPE used against visual-trigger, temporal-imprint, and direct-observation hazards. TECH-ACT-010 expands Digital Resonance Sensors, the causal-pulse detection instruments used before contact with unclassified artifacts and low-visibility hazards. TECH-ACT-011 expands Narrative Seal Varnish, the physical document coating used to stabilize ink-presence against auto-redaction, archival spite, and hostile text drift. TECH-ACT-012 expands Banalist White-Noise Broadcast, the site-wide acoustic dullness system used to disrupt narrative-scripting pressure. TECH-ACT-013 expands Magnetic Torsion Restraints, the heavy superconducting ring systems used to deny dangerous metallic mass, blades, and self-organizing metal their preferred angle of motion. TECH-ACT-014 expands the Tactical Feedbacker Arm, the bonded harmonic prosthesis used to parry and redirect defined impacts during field operations. TECH-ACT-015 expands Static Pulse Biometric ID, the senior-access scanner system that compares physical biometrics against causal identity continuity. TECH-ACT-016 expands Causal Tethering Cables, the phase-existent high-load rigging lines used to hold objects, operators, and cargo relationships inside stretched space. TECH-ACT-017 expands Vacuum Isolation Spheres, the legacy-derived zero-atmosphere chambers used to isolate acoustic memetic sources and info-hazard frequencies. TECH-ACT-018 expands the Non-Euclidean Compass, the expedition navigation device used to read Narrative North and probability pressure in Dark World and unstable route work. TECH-ACT-019 expands Cryo-Seismic Stabilizers, the liquid-nitrogen and RSA-interval infrastructure used to dampen reality-seismic movement below critical sites. TECH-ACT-020 expands Regression-Resistant Ink, the causal-memory writing material used for O5-level records and self-editing anomaly logs. TECH-ACT-021 expands Spectral Vibration Sensors, the early-warning devices used to detect acoustic script leakage and song-based narrative pressure. TECH-ACT-022 expands Synthetic Sanguine-Fuel, the controlled blood-fuel substitute used for mechanical and biological NB-class feeding support. TECH-ACT-023 expands the Genetic Perfection Protocol, the automated medical pod suite used for DNA-level repair and transmutation-linked cellular stabilization. TECH-ACT-024 expands the Pale Wood Scalpel, the Dark World material surgical edge used for high-security biological sampling and controlled disarticulation. TECH-ACT-025 expands the Thermal-Lure Beacon, the controlled infrared guidance system used for non-hostile relocation of heat-prioritizing subjects. TECH-ACT-026 expands Biometric Resonance Dampeners, the behind-ear masking patches used to hide staff pulse and emotional rhythm from heart-signature detection. TECH-ACT-027 expands Gold-Tipped Mining Drills, the 24k-gold boring equipment used to modify Pale Wood and Dark World architecture under Engineering control. TECH-ACT-028 expands Neural Lacing Type 004-MOD, the implanted 004-derived filter lattice used to suppress selected hazardous recall without general personnel erasure. TECH-ACT-029 expands Cryogenic Biological Isolation Units, the resonant-cooling stasis coffins used to keep tissue, patients, host bodies, and anchor-linked biological cases medically waiting without destructive freezing. TECH-ACT-030 expands the Soul-Stasis Harness, the chest-mounted anchor-proximity apparatus used to hold and monitor a consciousness-anchor near its biological host under White Grave control. TECH-ACT-031 expands Adrenaline Micro-Surge Detectors, the personnel wristband system used to read panic and compulsion-linked surges before they become containment actions. TECH-ACT-032 expands HPP Resonance Scanners, the walk-through personnel screening gates used to measure High-Psychic Potential before artifact exposure or assignment. TECH-ACT-033 expands Abyssal Masonry, the ITHYOS-residue structural composite used to dampen seismic and psychic pressure in deep containment spaces. TECH-ACT-034 expands Abyssal Anchor Plating, the tungsten-reinforced Massive Box tile system used to spread world-scale load and anchor heavy containment shells. TECH-ACT-035 expands Phase-Shifted Containment Glass, the adjustable observation-pane medium used to view phased or visual-hazard subjects without full direct alignment. TECH-ACT-036 expands Ectothermic Regeneration Gel, the refrigerated green salve used to support reptilian and NB-class transmutant tissue care without forcing reversion. TECH-ACT-037 expands Sub-Abyssal Sonar, the low-frequency blind-monitoring array used to map bodies, voids, and stretched depths when cameras lie or direct sight is unsafe. TECH-ACT-038 expands Causal Static Earpieces, the individual static earbuds used to interrupt scripted thought and narrative recruitment during consensus-hazard work. TECH-ACT-039 expands High-Density Liquid Lead, the shimmering barrier fluid used for restricted-energy absorption, artifact shielding, and particulate trapping. TECH-ACT-040 expands Vesper-Pattern Tactical AI, the isolated combat-logic cube used to coordinate unmanned recovery and dangerous artifact simulations. TECH-ACT-041 expands Harvested Pale Wood, the Dark World timber stock used for high-resistance structures and controlled gold-tool material work. TECH-ACT-042 expands Refined Steel-Dirt, the stabilized Blue Dirt derivative used for rapid steel-grade breach sealing under hydration-trigger control. TECH-ACT-043 expands Galaxy-Motive Textile, the self-luminous radiation-resistant protective fabric used for specialized containment apparel and hydrophobic bio-hazard work. TECH-ACT-044 expands Causal-Reactive Mercury, the reverse-flow temporal liquid metal used in Stop-Watch custody and chronometric study. TECH-ACT-045 expands Refined NEMNOLIA Sap, the golden memory-solvent source material used to create the 004-Series amnestic compounds. TECH-ACT-046 expands Sanguine-Conductive Alloy, the blue blood-data conduction metal used for restricted biological interface and non-networked medical signal transfer. TECH-ACT-047 expands Phase-Stable Silicone, the tangibility-retaining polymer used for surgical phase support, prosthetic liners, and digital-hosting chassis proposals. TECH-ACT-048 expands Red-River Acid (Stabilized), the controlled Dark World corrosive used for specialized etching and neutralization under ceramic-jug custody. TECH-ACT-049 expands Abyssal Basalt, the Stretched-space-compressed black stone used for heavy shielding, coffin bodies, ballast, and gravimetric reference. TECH-ACT-050 expands the Digital Resonance Mapping Suite, the 2026 pre-contact causal-pulse instrument used by Redwood Veil F-5 intake and analysis work. TECH-ACT-051 expands the Steam-Drill Excavator, the retired First Descent boring platform that anchors A.C.T deep-earth engineering history. TECH-ACT-052 expands High-Density Lead Vaulting, the founding-era refined-lead shielding system used to secure early artifacts and define passive barrier doctrine. TECH-ACT-053 expands Clockwork Causal Anchors, the retired brass-and-iron sequence stabilizers that preceded modern causal infrastructure. TECH-ACT-054 expands Reinforced Iron Caging, the 1860s heavy-containment system that formed the first standardized Massive Box precursor. TECH-ACT-055 expands the Silent Boundary System, the integrated normalcy and public-narrative infrastructure that keeps concealed sites and incidents ordinary to civilian life. TECH-ACT-056 expands Memetic Filtering Infrastructure, the controlled-reading cell technology that disciplines dangerous document exposure at Kurokawa. TECH-ACT-057 expands Anomalous Intake Screening Suites, the dual-route archive intake system that receives, logs, screens, and triages suspect documents and media. TECH-ACT-058 expands the F-1 Closure System, the Hanging Vault self-containment infrastructure that severs the deepest floor from upward routes during critical threat conditions. TECH-ACT-059 expands Document Quarantine Cells, the QNB-hardened archive cells that contain information-borne hazard documents as residents. TECH-ACT-060 expands Artifact-Influence Isolation Suites, the clinical isolation environments used to evaluate and treat personnel carrying possible anomalous influence. TECH-ACT-061 expands the Suspended Vault Mounting System, the shaft and damper architecture that lets F-1 resident vaults hang instead of sharing the floor slab. TECH-ACT-062 expands QNB-Hardened Archive Structure, the structural continuity hardening that makes an archive room remember with its files. TECH-ACT-063 expands Memetic Contamination Treatment Suites, the exposure-limited clinical rooms used to treat personnel after dangerous meaning has acted like contamination. TECH-ACT-064 expands Water-Capable Containment Chambers, the aquatic holding environments that make chamber water part of containment for marine-dependent residents. TECH-ACT-065 expands the Pressure-Rated Environmental Transition System, the pressure-history and transfer-lock system that keeps deep-origin residents from being surfaced into failure. TECH-ACT-066 expands Maritime Platform Containment Infrastructure, the specialized vessel, submersible, deck-lock, port-interface, and mobile holding network that carries containment into the sea. TECH-ACT-067 expands Deep-Earth Sensor Arrays, the buried monitoring networks that extend below Nusantara's deepest built floor into the island foundation. TECH-ACT-068 expands Sensor Nexus Signal Processing Architecture, the F-1 interpretation architecture that receives, amplifies, compares, routes, and preserves deep-listening signals. TECH-ACT-069 expands Abyss-Linked Observation Recording System, the restricted record-custody system that seals and routes deep observations before they circulate. TECH-ACT-070 expands the Deep Monitoring Processing Center, the F-2 operational system that turns F-1 signal streams into controlled routing and containment warnings. TECH-ACT-071 expands Seismic Records Vaults, the archive custody system preserving Nusantara's continuous deep-earth monitoring memory. TECH-ACT-072 expands Restricted Records Vaults, the partially sealed file infrastructure that keeps abyss-related records accountable under review-chain authority. TECH-ACT-073 expands Marine Biology Laboratory Suites, the controlled F-4 aquatic research environments for characterizing sea-recovered biological material. TECH-ACT-074 expands Deep-Earth Sample Analysis Laboratories, the geological and volcanic sample suites used to study foundation, pressure-marked, and abyss-adjacent material. TECH-ACT-075 expands Sonar Void Research Program Infrastructure, the controlled research architecture for studying acoustic absence, failed returns, and Death Angler-linked detection gaps. TECH-ACT-076 expands Command Communications Nexus, the protected F-5 command channel architecture used to route verified orders through the relay. TECH-ACT-077 expands Internal Logistics Coordination Center, the movement-custody system that schedules, authorizes, and reconstructs personnel and material transfer inside Nusantara. TECH-ACT-078 expands Seismic Preparedness Shelter and Response System, the F-5 shelter, route, medical staging, and accountability system for tectonic and anomaly-adjacent ground events. TECH-ACT-079 expands Surface Cover Research Campus, the genuine-science public campus system that gives Nusantara's buried relay its ordinary visible reason to exist. TECH-ACT-080 expands Concealed Transition Access Architecture, the monitored and disguised route system between F-6's public campus and the buried relay. TECH-ACT-081 expands Maritime Separation Port Operations System, the dual-use port procedure set keeping legitimate research vessels and concealed recovery work separated. TECH-ACT-082 expands Emergency Intake and Secure Storage System, the Ash Tide F-1 hidden receipt, temporary custody, transfer-preparation, and closure architecture. TECH-ACT-083 expands Coastal Watch Coordination Center, the Ash Tide F-2 continuous corridor-watch and parent-relay reporting system. TECH-ACT-084 expands Volcanic-Seismic Monitoring Suites, the Ash Tide F-2 geologic watch and withdrawal-warning system. TECH-ACT-085 expands Recovery Support Staging Area, the Ash Tide F-2 recovery, vessel, sea-entry, and intake-handoff staging system. TECH-ACT-086 expands Natural Cover Research Station System, the Ash Tide F-3 public-facing legitimate research-station cover architecture. TECH-ACT-087 expands Shared-Instrument Observation Network, the Ash Tide F-3 dual-use observation equipment network serving legitimate science and concealed watch. TECH-ACT-088 expands Short-Term Holding Vault System, the Glass Orchard F-1 provisional low-threat holding and transfer-custody vault. TECH-ACT-089 expands Witness Processing and Sanitation Suites, the Glass Orchard F-2 witness assessment, care, narrative-return, and sanitation environment. TECH-ACT-090 expands Archive Relay Buffering Area, the Glass Orchard F-2 temporary record-custody and parent-archive transfer buffer. TECH-ACT-091 expands Intake Staging and Routing System, the Glass Orchard F-2 field-arrival receipt, relay-limit assessment, and route-control system. TECH-ACT-092 expands Agricultural Biotech Cover Campus, the Glass Orchard F-3 greenhouse-and-laboratory cover campus. TECH-ACT-093 expands Low-Visibility Processing Logistics System, the Glass Orchard F-3 delivery, staff-flow, cargo, and concealed-transition traffic mask. TECH-ACT-094 expands Interim Cryogenic Holding System, the Frost Hollow F-1 days-to-weeks biological suppression and cold-transfer holding system. TECH-ACT-095 expands Quarantine Assessment and Medical Staging Suites, the Frost Hollow F-2 quarantine chamber, verification laboratory, and medical staging environment. TECH-ACT-096 expands Arctic Cold-Storage Cover and Silent Movement System, the Frost Hollow F-3 receiving-cover and concealed hazardous-material transition system. TECH-ACT-097 expands Minor Memetic Quarantine Vault System, the Silent Reed F-1 low-to-mid memetic, infohazard, visual-denial, and buffer-custody vault. TECH-ACT-098 expands Controlled Reading and Redaction Workroom System, the Silent Reed F-2 paired review, redaction buffering, exposure-limited, and parent-node release preparation environment. TECH-ACT-099 expands Document Preservation Studio Cover System, the Silent Reed F-3 legitimate preservation-studio cover and concealed document-transition system. TECH-ACT-100 expands Native Containment Field System, the Hollow Canopy in-place environmental containment field for non-movable flora residents. TECH-ACT-101 expands Concealed Perimeter Sector Network, the Hollow Canopy hidden boundary, incursion, and sector-control system. TECH-ACT-102 expands Hollow Canopy Field Station and Remote Monitoring System, the low-intrusion observation and ecological monitoring infrastructure for place-bound flora sectors. TECH-ACT-103 expands Interior Biological Habitat Chamber System, the Verde Null F-2 climate-controlled chamber, containment habitat, and specialized environment system. TECH-ACT-104 expands Biological Analysis and Sample Control Laboratories, the Verde Null F-3 biological analysis, sample processing, and custody-chain laboratory system. TECH-ACT-105 expands Deep Cultivation Vault System, the Verde Null F-1 restricted cultivation chamber, monitoring gallery, service ring, and closure-ready vault system. TECH-ACT-106 expands Reserve Command and Operations Coordination System, the Verde Null F-4 buried command, security coordination, communications, and operations picture for wilderness sectors. TECH-ACT-107 expands Personnel Processing and Reserve Clearance System, the Verde Null F-4 personnel intake, reserve-clearance, duty-compatibility, and access-core control system. TECH-ACT-108 expands Surface Research Campus Cover Integration System, the Verde Null F-5 legitimate ecology campus, public-program, boundary concealment, and cover-response system. TECH-ACT-109 expands Maritime Holding Intake and Transfer System, the Nusantara F-3 recovery receipt, intake, holding assignment, and transfer-custody system. TECH-ACT-110 expands Climate-Controlled Island Holding Unit System, the Nusantara F-3 controlled terrestrial, amphibious, coastal, and island-recovered holding environment system. TECH-ACT-111 expands Seismic Data Interpretation and Restriction Enforcement System, the Nusantara F-4 analytical, review-chain, and restricted deep-earth interpretation control system. TECH-ACT-112 expands Island Personnel Habitation and Sustainment System, the Nusantara F-5 personnel housing, rest-cycle, welfare-routing, and duty-resilience support system. TECH-ACT-113 expands Relay Command Floor Status and Decision System, the Nusantara F-5 whole-relay status, command decision, duty-officer, and personnel-readiness picture. TECH-ACT-114 expands Surface Transition and Maritime Cover Gateway System, the Nusantara F-6 concealed surface gateway, maritime cover, personnel descent, and recovered-material transition system. TECH-ACT-115 expands Archive Boundary Personnel Clearance System, the Kurokawa F-7 personnel-processing, identity-distinction, and operational-depth clearance system. TECH-ACT-116 expands Operational Archive Training and Doctrine Preparation System, the Kurokawa F-7 doctrine, controlled-reading, procedure, and descent-readiness training system. TECH-ACT-117 expands Public Archive Absolute Separation and Immediate Transfer System, the Kurokawa F-8 public-floor cleanliness, suspect-material isolation, and immediate transfer control system. TECH-ACT-118 expands Symbol Behavior Controlled Observation Suites, the Kurokawa F-4 visual-denial, controlled-observation, and memetic symbol behavior study environment. TECH-ACT-119 expands Media Propagation Tracking Center System, the Kurokawa F-4 replication-chain, derivative, public-risk, and anomalous media spread analysis system. TECH-ACT-120 expands Redaction Release Authorization and Filtering Record System, the Kurokawa F-5 safe-release, filtering-history, minimum-release, and recall-ledger system. TECH-ACT-121 expands Unread Archive Anti-Reading Preservation Vault System, the Kurokawa F-1 content-blind preservation, anti-reading architecture, and unreadable register custody system. TECH-ACT-122 expands Blind Box and Eye Box Perception-Control Vault System, the Kurokawa F-2 perception-denial, disciplined-observation, and restriction-set vaulting system. TECH-ACT-123 expands Signal-Isolated Anomalous Document Storage System, the Kurokawa F-3 active document holding, signal-isolated storage, quarantine handoff, and transfer-escalation system. TECH-ACT-124 expands Standard Box Holding Chamber System, the Redwood Veil F-3 Small, Medium, and Large Box chamber-row, standard resident holding, monitoring, documentation, and sorting system. TECH-ACT-125 expands Ascending Authorization Transformation Staging Lock System, the Redwood Veil F-4 staging-lock, evaluation-to-preparation, and authority-before-alteration control system. TECH-ACT-126 expands Controlled Study Environment and Research Sample-Custody System, the Redwood Veil F-5 program-gated research suite, controlled condition, sample custody, verified return, and Archive-mirrored data system. TECH-ACT-127 expands Medical Isolation and Cognitive Recovery Ward System, the Redwood Veil F-6 trauma-care, memetic-treatment, cognitive-recovery, artifact-influence evaluation, and patient-confidentiality system. TECH-ACT-128 expands QNB-Hardened Repository and Record Retrieval System, the Redwood Veil F-7 repository hall, restricted record, causal rewrite resistance, retrieval control, and archive memory system. TECH-ACT-129 expands Vertical-Flow Personnel Processing and Clearance Verification System, the Redwood Veil F-8 descent-into-duty, ascent-accountability, personnel processing, clearance verification, and command gateway system. TECH-ACT-130 expands Unmarked Wall Surface Boundary and Loading Transition System, the Redwood Veil F-9 unmarked-wall, vehicle-screening, delivery-intake, loading-bay, and primary elevator boundary system. TECH-ACT-131 expands Seasonal Arctic Research Cover and Transition Control System, the White Grave F-6 genuine arctic research cover, seasonal transport, airstrip, power, maintenance, and concealed transition system. TECH-ACT-132 expands Long-Rotation Habitation and Main Security Checkpoint System, the White Grave F-5 living-quarter, mess, recreation, routine medical, command-office, and life-duty separation checkpoint system. TECH-ACT-133 expands Long-Term Biological Observation and Cold-Suppressed Study System, the White Grave F-4 biological study chamber, long-observation, sample-processing, cold-research, and study-restriction system. TECH-ACT-134 expands Biological Suppression Chamber and Climate-Controlled Deep-Isolation Holding System, the White Grave F-3 suppression chamber, climate-controlled unit, standard cold holding, monitoring, and sorting system. TECH-ACT-135 expands Failure-Tolerant Entropic Holding and Self-Repairing Environment System, the White Grave F-2 redundant containment, self-repairing environment, high-frequency monitoring, and attrition-control system. TECH-ACT-136 expands Long Sleep Vault and F-1 Closure Containment System, the White Grave F-1 individual sleep vault, deep-cold reinforcement, sleep-state monitoring, resident-specific access, Soul Pendant maximum-isolation, and full-floor closure system. Additional individual technology records should follow this structure for A.C.T systems, GOI systems, recovered devices, and recurring anomalous materials.

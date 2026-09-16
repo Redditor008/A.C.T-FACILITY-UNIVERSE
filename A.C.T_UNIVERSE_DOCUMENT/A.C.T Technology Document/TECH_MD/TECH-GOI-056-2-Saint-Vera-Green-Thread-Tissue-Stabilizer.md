@@ -1,0 +1,25 @@
+# TECH-GOI-056-2 - SAINT-VERA GREEN-THREAD TISSUE STABILIZER
+
+Technology Designation: TECH-GOI-056-2
+Technology Name: Saint-Vera Green-Thread Tissue Stabilizer
+Common Abbreviations: Green Thread
+Origin: Saint-Vera Restoration Concern
+Acquisition Status: Cooperative recovery, partial inspection, or restricted patient-transfer evidence
+Primary A.C.T Interest: Survivor restoration, medical containment, Subject Care continuity, and consent-safe custody
+Archive Handling: PATIENT-DIGNITY DISCLOSURE LIMIT / MEDICAL-SUBJECT CARE RESTRICTED
+
+## Functional Identity
+
+The Saint-Vera Green-Thread Tissue Stabilizer is the surgical closure, binding, or wound-control technology recovered in Saint-Vera patient-transfer evidence. The GOI dossier records a green-thread route case involving a domestic mirror-burn survivor and notes that Medical Division confirmed the green-thread closure prevented further symbol spread for approximately eighteen hours. A.C.T classifies this as acquired GOI technology because the thread directly preserved airway and tissue function during a case where ordinary transport likely would have failed.
+
+## Known Structure and Use
+
+The stabilizer is not ordinary suture. Its instructions ordered A.C.T not to cut the thread until the burn stopped spelling and not to ask for the original face that night. That language indicates the thread may interact with injury text, identity pressure, fever state, and patient recognition. It may hold damaged tissue closed while also limiting the spread of symbolic, memetic, or transformation-linked injury across the body.
+
+## A.C.T Handling Rules
+
+Known handling signs include pale green fiber, Saint-Vera transfer cards, patient blanket pins, heat or fever thresholds, and warnings against premature removal. Loose fibers may be sampled, but stabilizing thread attached to a living patient is not evidence first. Medical Division specifically recorded that staff should photograph, sample loose fibers only, and maintain patient temperature below fever threshold.
+
+## Failure and Open Questions
+
+A.C.T personnel may not remove, cut, sterilize, burn, or re-tie active green thread for study unless the thread itself is killing the patient. Subject Care and Medical must record old and new names if the patient answers to both. Neither answer is proof of death. The stabilizer must be treated as a medical device and identity-continuity support.

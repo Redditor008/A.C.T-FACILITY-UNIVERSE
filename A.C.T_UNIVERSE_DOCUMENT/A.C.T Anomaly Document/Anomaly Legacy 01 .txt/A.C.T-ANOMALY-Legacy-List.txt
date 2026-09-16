@@ -40,6 +40,13 @@ List Of LMD/Legacy 01 ANOMALY
 
 ====================================================================================================================================
 
+ARCHIVE FUNCTION:
+This list is a working index for the Legacy 01 low-numbered anomaly group. It is not a containment procedure, not a founding-era truth record, and not a complete explanation of why each anomaly received its designation. Its purpose is to let authorized archivists confirm which files belong to the LMD/Legacy 01 shelf before pulling individual dossiers, observation logs, recovery documents, or later archive copies.
+
+The list preserves rough legacy naming because the old record shelf was not clean. Several entries use early-file spelling, emotional titles, unstable punctuation, or older designation habits. These names should not be corrected inside this list unless the corresponding primary anomaly file and archive reference are also being reconciled. A mismatch between a legacy title and a later standardized title may indicate file drift, renaming, reclassification, or a historical archive scar.
+
+ENTITY_000_ITHYOS and ITHYOS-AFD-CH-000 are retained in the list because the archive shelf historically pointed toward them during low-number catalog work. Their presence does not make this a founding anomaly list. It means the legacy drawer carried references that later archivists were not allowed to separate casually.
+
 Noted       : Don't insult how i wrote down this list, because i only care to finish this as fast as possible.
 
 Extra Noted : No Administrator this is not a Founding Anomaly List, just our current list of LMD in the system for refrance.

@@ -1,0 +1,539 @@
+# A.C.T FACILITY ARCHIVE FILE
+## AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM
+
+**Archive Status:** Active Working Form  
+**Distribution:** Medical Care Division / Civil Covert Division / Archiver Division / Site Command / Subject Care Division  
+**Authority:** Medical Care Division, Civil Covert Division, and Central Archive  
+
+### Archive Note
+This form governs the review, authorization, administration, and aftercare record for amnestic use. It exists because memory treatment is not a cleanup tool. It is an intervention against a person's continuity, and every intervention leaves an institutional trace even when the person no longer remembers the reason.
+
+The 004-series amnestic lineage demonstrates that A.C.T can transform anomalous material into operational protection. It also demonstrates that protection can become habit. This form is designed to make that habit visible.
+
+---
+
+# AMNESTIC REVIEW FOUNDATION
+
+## 1. Use Conditions
+
+Use this form whenever A.C.T considers, approves, denies, administers, withholds, reverses, audits, or follows up on memory alteration.
+
+Required use cases include:
+
+- civilian witness memory treatment;
+- personnel memory treatment;
+- E-Class / Excommunicated Class memory treatment;
+- field operator post-exposure stabilization;
+- medical memory intervention;
+- public normalcy operation;
+- GOI exposure mitigation;
+- subject-care boundary protection;
+- containment breach response;
+- recovered-document exposure;
+- dream, memetic, temporal, or identity contamination;
+- repeated-use review;
+- partial truth shard planning;
+- refusal or denial of amnestic use.
+
+A denied amnestic request must still be recorded if the request reached Medical Care, Civil Covert, Site Command, or Central Archive.
+
+---
+
+## 2. Review Header
+
+```text
+AMNESTIC REVIEW ID:
+LINKED CASE DESIGNATION:
+RELATED ANOMALY / GOI / SITE:
+REQUEST DATE:
+INCIDENT DATE:
+REQUESTING DIVISION:
+REQUESTING OFFICER:
+REVIEWING MEDICAL AUTHORITY:
+CIVIL COVERT AUTHORITY:
+ARCHIVE AUTHORITY:
+SITE / SUB-SITE:
+WITNESS / PERSONNEL / SUBJECT IDENTIFIER:
+PERSON CATEGORY:
+CLEARANCE STATUS:
+PUBLIC EXPOSURE STATUS:
+MEMETIC / COGNITIVE HAZARD STATUS:
+MEDICAL STABILITY STATUS:
+NORMALCY NARRATIVE STATUS:
+RELATED WITNESS STATEMENT ID:
+RELATED ACCESS / EGRESS LEDGER ID:
+RELATED EXPOSURE LEDGER ID:
+```
+
+If the person cannot safely be named, use the sealed identifier already established in the witness, personnel, subject-care, or custody record.
+
+---
+
+## 3. Person Category
+
+Mark all applicable categories.
+
+```text
+[ ] CIVILIAN
+[ ] CIVILIAN WITNESS
+[ ] MINOR / DEPENDENT
+[ ] A.C.T PERSONNEL
+[ ] FIELD OPERATOR
+[ ] MEDICAL PERSONNEL
+[ ] SECURITY PERSONNEL
+[ ] RESEARCH PERSONNEL
+[ ] SUBJECT CARE PERSONNEL
+[ ] E-CLASS / EXCOMMUNICATED CLASS
+[ ] CONTAINED SUBJECT
+[ ] HUMANOID ANOMALY
+[ ] GOI-AFFILIATED INDIVIDUAL
+[ ] DETAINEE
+[ ] POST-BREACH SURVIVOR
+[ ] DECEASED-RECORD RECONSTRUCTION
+[ ] OTHER: ______________________________
+```
+
+Person category affects safeguards. It does not erase personhood. A.C.T may alter memory under authority, but it may not pretend the altered person has become only a record problem.
+
+---
+
+## 4. Request Reason
+
+```text
+PRIMARY REQUEST REASON:
+[ ] PUBLIC NORMALCY PROTECTION
+[ ] CIVILIAN TRAUMA REDUCTION
+[ ] MEMETIC CONTAMINATION INTERRUPTION
+[ ] COGNITIVE HAZARD STABILIZATION
+[ ] PERSONNEL DUTY CONTINUITY
+[ ] FIELD OPERATOR POST-CONTACT CARE
+[ ] GOI INFORMATION CONTAINMENT
+[ ] SUBJECT-CARE BOUNDARY PROTECTION
+[ ] TEMPORAL / CHRONOLOGY REPAIR
+[ ] DREAM OR SLEEP-STATE CONTAMINATION
+[ ] IDENTITY CONTINUITY PRESERVATION
+[ ] BREACH RESPONSE
+[ ] LEGAL / INSTITUTIONAL COVER SUPPORT
+[ ] REQUEST DENIAL REVIEW
+[ ] OTHER: ______________________________
+
+DETAILED REASON:
+```
+
+The request must describe the memory or exposure condition to be treated. "Knows too much" is not sufficient.
+
+---
+
+## 5. Memory Scope Assessment
+
+```text
+MEMORY TARGET:
+[ ] SINGLE EVENT
+[ ] REPEATED EXPOSURE SERIES
+[ ] LOCATION MEMORY
+[ ] PERSON MEMORY
+[ ] ORGANIZATION MEMORY
+[ ] ANOMALY PROPERTY MEMORY
+[ ] PROCEDURAL KNOWLEDGE
+[ ] VISUAL IMAGE
+[ ] SOUND / SONG / PHRASE
+[ ] DREAM CONTENT
+[ ] BODY MEMORY
+[ ] TIME GAP
+[ ] IDENTITY ALTERATION
+[ ] GOI CONTACT
+[ ] UNKNOWN SCOPE
+[ ] OTHER: ______________________________
+
+ESTIMATED MEMORY RANGE:
+MEMORY ANCHORS TO PRESERVE:
+MEMORY ANCHORS TO REMOVE:
+MEMORY ANCHORS THAT MUST NOT BE TOUCHED:
+EXPECTED POST-TREATMENT STORY:
+RISK IF MEMORY REMAINS:
+RISK IF MEMORY IS REMOVED:
+```
+
+Some memories are load-bearing. Removing them may break grief processing, location avoidance, family continuity, subject trust, or the person's ability to explain their own scars.
+
+---
+
+## 6. Amnestic Grade and Method
+
+```text
+PROPOSED AMNESTIC GRADE:
+COMPOUND / SERIES:
+DELIVERY METHOD:
+DOSAGE:
+ADMINISTRATION SITE:
+ADMINISTERING MEDICAL PERSONNEL:
+OBSERVING PERSONNEL:
+REVERSIBILITY STATUS:
+EXPECTED DURATION:
+EXPECTED SIDE EFFECTS:
+CONTRAINDICATIONS:
+REPEATED USE HISTORY:
+NEMNOLIA-LINEAGE MATERIAL INVOLVED:
+TRANSFORMATION-DERIVED MATERIAL INVOLVED:
+```
+
+If 004-series material or NEMNOLIA-lineage derivatives are involved, the review must acknowledge transformation provenance. A.C.T cannot safely use transformed memory tools while forgetting the anomaly that made them possible.
+
+---
+
+## 7. Partial Truth Shard Review
+
+A **partial truth shard** is a controlled fragment of truth left intact because full erasure would cause worse instability, obsession, grief collapse, pattern-seeking behavior, subject-care failure, or recurring exposure.
+
+```text
+PARTIAL TRUTH SHARD REQUIRED:
+[ ] YES
+[ ] NO
+[ ] UNDER REVIEW
+
+TRUTH SHARD CONTENT:
+REASON SHARD IS SAFER THAN FULL ERASURE:
+WHO MAY DISCLOSE SHARD:
+WHEN SHARD MAY BE DISCLOSED:
+HOW SHARD MUST BE PHRASED:
+FOLLOW-UP IF SHARD DESTABILIZES PERSON:
+```
+
+A partial truth shard is not mercy by default. It is controlled damage left visible because invisible damage would spread.
+
+---
+
+## 8. Consent, Refusal, and Authority
+
+```text
+PERSON CAPABLE OF CONSENT:
+CONSENT GIVEN:
+CONSENT REFUSED:
+CONSENT IMPOSSIBLE BECAUSE:
+REFUSAL RECORDED BY:
+OVERRIDE AUTHORITY:
+OVERRIDE REASON:
+SECONDARY REVIEW PRESENT:
+SUBJECT CARE REVIEW PRESENT:
+MINOR / DEPENDENT SAFEGUARD PRESENT:
+E-CLASS SAFEGUARD PRESENT:
+GOI-RISK REVIEW PRESENT:
+```
+
+A.C.T may administer amnestics without consent under restricted authority. The form must record that authority plainly. Memory removed under command is not consent retroactively created.
+
+---
+
+## 9. Administration Record
+
+```text
+ADMINISTRATION APPROVED:
+[ ] APPROVED
+[ ] LIMITED APPROVAL
+[ ] DENIED
+[ ] DEFERRED
+[ ] EMERGENCY ADMINISTRATION ALREADY PERFORMED
+[ ] WITHHELD FOR STABILITY
+
+APPROVING AUTHORITY:
+DENYING AUTHORITY:
+DATE / TIME ADMINISTERED:
+LOCATION:
+PERSONNEL PRESENT:
+PRE-ADMINISTRATION BASELINE COMPLETE:
+POST-ADMINISTRATION BASELINE COMPLETE:
+IMMEDIATE ADVERSE EFFECTS:
+UNEXPECTED MEMORY RETENTION:
+UNEXPECTED MEMORY LOSS:
+FALSE MEMORY INSERTION USED:
+FALSE MEMORY INSERTION TEXT:
+NO FALSE MEMORY INSERTION USED:
+REASON:
+```
+
+False memory insertion requires its own justification. A blank space may be safer than a lie. A lie may be safer than a blank space. Neither is clean.
+
+---
+
+## 10. Post-Amnestic Aftercare
+
+```text
+AFTERCARE REQUIRED:
+AFTERCARE TYPE:
+[ ] MEDICAL OBSERVATION
+[ ] PSYCHOLOGICAL STABILIZATION
+[ ] SLEEP MONITORING
+[ ] FAMILY / COVER CONTACT
+[ ] CIVILIAN FOLLOW-UP
+[ ] PERSONNEL DUTY RESTRICTION
+[ ] SUBJECT CARE TRUST REPAIR
+[ ] MEMETIC RE-SCREENING
+[ ] DREAM MONITORING
+[ ] IDENTITY CONTINUITY CHECK
+[ ] RETURN-TO-DUTY REVIEW
+[ ] PROTECTED RELOCATION
+[ ] OTHER: ______________________________
+
+FOLLOW-UP DATE:
+FOLLOW-UP AUTHORITY:
+SYMPTOMS TO WATCH:
+WORDS / LOCATIONS / PEOPLE TO AVOID:
+RECONTACT PERMITTED:
+RECONTACT PROHIBITED:
+```
+
+Aftercare belongs to the person, not to the cover story. A successful public narrative does not prove the treated person is stable.
+
+---
+
+## 11. Personnel Repeated-Use Review
+
+Complete when the person is A.C.T personnel, contractor, embedded liaison, E-Class, or recurring witness.
+
+```text
+PRIOR AMNESTIC EVENTS:
+PRIOR GRADES USED:
+CUMULATIVE SIDE EFFECTS:
+DUTY CONTINUITY RISK:
+IDENTITY CONTINUITY RISK:
+MEMETIC RESILIENCE CHANGE:
+REALITY-STABILITY CHANGE:
+FIT FOR RETURN:
+REASSIGNMENT REQUIRED:
+RETIREMENT / AFTERCARE REVIEW REQUIRED:
+EXPOSURE LEDGER UPDATED:
+PERSONNEL RESILIENCE PROFILE UPDATED:
+```
+
+A person cannot be made safe for repeated harm by repeatedly removing the memory of harm.
+
+---
+
+## 12. GOI Exposure Attachment
+
+Complete when memory treatment is tied to a Group of Interest.
+
+```text
+SUSPECTED / CONFIRMED GOI:
+GOI EXPOSURE TYPE:
+[ ] RECRUITMENT MATERIAL
+[ ] MARKET TRANSACTION
+[ ] CULTIC / RITUAL CONTACT
+[ ] CORPORATE PRODUCT CONTACT
+[ ] MILITANT PROPAGANDA
+[ ] GOVERNMENT LIAISON BREACH
+[ ] GUILD / FUTURE-SYSTEM CONTACT
+[ ] CIRCUS / PERFORMANCE CONDITIONING
+[ ] OTHER: ______________________________
+
+GOI TERMS REMEMBERED:
+GOI TERMS TO PRESERVE:
+GOI TERMS TO REMOVE:
+GOI RECOVERED DOCUMENT RECORD REQUIRED:
+INTELLIGENCE FOLLOW-UP REQUIRED:
+RISK OF RECONTACT:
+```
+
+Some GOI words are hooks. Some are evidence. Some are both.
+
+---
+
+## 13. Archive and Narrative Closure
+
+```text
+TRUE EVENT RECORD UPDATED:
+PUBLIC NARRATIVE UPDATED:
+WITNESS STATEMENT UPDATED:
+ACCESS / EGRESS LEDGER UPDATED:
+EXPOSURE LEDGER UPDATED:
+MEDICAL RECORD UPDATED:
+SUBJECT CARE RECORD UPDATED:
+GOI FILE UPDATED:
+REDACTION REQUIRED:
+SEALED ANNEX REQUIRED:
+ARCHIVE LOCATION:
+NEXT REVIEW DATE:
+```
+
+A.C.T must preserve both the treatment and the reason for treatment. If the archive forgets why a memory was removed, the institution inherits the same wound it created in the person.
+
+---
+
+## 14. Red Lines
+
+A.C.T will not:
+
+- use amnestics to hide internal misconduct;
+- use amnestics to reset consent;
+- use memory treatment as punishment;
+- repeatedly return personnel to harmful exposure without cumulative review;
+- erase subject-care bonds for convenience;
+- erase a witness before preserving raw testimony where safe;
+- insert a false memory without recording the text and authority;
+- remove a memory anchor required for survival, grief, medical care, or identity continuity;
+- call a normalcy operation complete merely because the witness no longer remembers.
+
+---
+
+## 15. Blank Field Copy
+
+```text
+A.C.T FACILITY ARCHIVE FILE
+AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM
+
+AMNESTIC REVIEW ID:
+LINKED CASE DESIGNATION:
+RELATED ANOMALY / GOI / SITE:
+REQUEST DATE:
+INCIDENT DATE:
+REQUESTING DIVISION:
+REQUESTING OFFICER:
+REVIEWING MEDICAL AUTHORITY:
+CIVIL COVERT AUTHORITY:
+ARCHIVE AUTHORITY:
+SITE / SUB-SITE:
+WITNESS / PERSONNEL / SUBJECT IDENTIFIER:
+PERSON CATEGORY:
+CLEARANCE STATUS:
+PUBLIC EXPOSURE STATUS:
+MEMETIC / COGNITIVE HAZARD STATUS:
+MEDICAL STABILITY STATUS:
+NORMALCY NARRATIVE STATUS:
+RELATED WITNESS STATEMENT ID:
+RELATED ACCESS / EGRESS LEDGER ID:
+RELATED EXPOSURE LEDGER ID:
+
+REQUEST REASON:
+PRIMARY REQUEST REASON:
+DETAILED REASON:
+
+MEMORY SCOPE ASSESSMENT:
+MEMORY TARGET:
+ESTIMATED MEMORY RANGE:
+MEMORY ANCHORS TO PRESERVE:
+MEMORY ANCHORS TO REMOVE:
+MEMORY ANCHORS THAT MUST NOT BE TOUCHED:
+EXPECTED POST-TREATMENT STORY:
+RISK IF MEMORY REMAINS:
+RISK IF MEMORY IS REMOVED:
+
+AMNESTIC GRADE AND METHOD:
+PROPOSED AMNESTIC GRADE:
+COMPOUND / SERIES:
+DELIVERY METHOD:
+DOSAGE:
+ADMINISTRATION SITE:
+ADMINISTERING MEDICAL PERSONNEL:
+OBSERVING PERSONNEL:
+REVERSIBILITY STATUS:
+EXPECTED DURATION:
+EXPECTED SIDE EFFECTS:
+CONTRAINDICATIONS:
+REPEATED USE HISTORY:
+NEMNOLIA-LINEAGE MATERIAL INVOLVED:
+TRANSFORMATION-DERIVED MATERIAL INVOLVED:
+
+PARTIAL TRUTH SHARD REVIEW:
+PARTIAL TRUTH SHARD REQUIRED:
+TRUTH SHARD CONTENT:
+REASON SHARD IS SAFER THAN FULL ERASURE:
+WHO MAY DISCLOSE SHARD:
+WHEN SHARD MAY BE DISCLOSED:
+HOW SHARD MUST BE PHRASED:
+FOLLOW-UP IF SHARD DESTABILIZES PERSON:
+
+CONSENT, REFUSAL, AND AUTHORITY:
+PERSON CAPABLE OF CONSENT:
+CONSENT GIVEN:
+CONSENT REFUSED:
+CONSENT IMPOSSIBLE BECAUSE:
+REFUSAL RECORDED BY:
+OVERRIDE AUTHORITY:
+OVERRIDE REASON:
+SECONDARY REVIEW PRESENT:
+SUBJECT CARE REVIEW PRESENT:
+MINOR / DEPENDENT SAFEGUARD PRESENT:
+E-CLASS SAFEGUARD PRESENT:
+GOI-RISK REVIEW PRESENT:
+
+ADMINISTRATION RECORD:
+ADMINISTRATION APPROVED:
+APPROVING AUTHORITY:
+DENYING AUTHORITY:
+DATE / TIME ADMINISTERED:
+LOCATION:
+PERSONNEL PRESENT:
+PRE-ADMINISTRATION BASELINE COMPLETE:
+POST-ADMINISTRATION BASELINE COMPLETE:
+IMMEDIATE ADVERSE EFFECTS:
+UNEXPECTED MEMORY RETENTION:
+UNEXPECTED MEMORY LOSS:
+FALSE MEMORY INSERTION USED:
+FALSE MEMORY INSERTION TEXT:
+NO FALSE MEMORY INSERTION USED:
+REASON:
+
+POST-AMNESTIC AFTERCARE:
+AFTERCARE REQUIRED:
+AFTERCARE TYPE:
+FOLLOW-UP DATE:
+FOLLOW-UP AUTHORITY:
+SYMPTOMS TO WATCH:
+WORDS / LOCATIONS / PEOPLE TO AVOID:
+RECONTACT PERMITTED:
+RECONTACT PROHIBITED:
+
+PERSONNEL REPEATED-USE REVIEW:
+PRIOR AMNESTIC EVENTS:
+PRIOR GRADES USED:
+CUMULATIVE SIDE EFFECTS:
+DUTY CONTINUITY RISK:
+IDENTITY CONTINUITY RISK:
+MEMETIC RESILIENCE CHANGE:
+REALITY-STABILITY CHANGE:
+FIT FOR RETURN:
+REASSIGNMENT REQUIRED:
+RETIREMENT / AFTERCARE REVIEW REQUIRED:
+EXPOSURE LEDGER UPDATED:
+PERSONNEL RESILIENCE PROFILE UPDATED:
+
+GOI EXPOSURE ATTACHMENT:
+SUSPECTED / CONFIRMED GOI:
+GOI EXPOSURE TYPE:
+GOI TERMS REMEMBERED:
+GOI TERMS TO PRESERVE:
+GOI TERMS TO REMOVE:
+GOI RECOVERED DOCUMENT RECORD REQUIRED:
+INTELLIGENCE FOLLOW-UP REQUIRED:
+RISK OF RECONTACT:
+
+ARCHIVE AND NARRATIVE CLOSURE:
+TRUE EVENT RECORD UPDATED:
+PUBLIC NARRATIVE UPDATED:
+WITNESS STATEMENT UPDATED:
+ACCESS / EGRESS LEDGER UPDATED:
+EXPOSURE LEDGER UPDATED:
+MEDICAL RECORD UPDATED:
+SUBJECT CARE RECORD UPDATED:
+GOI FILE UPDATED:
+REDACTION REQUIRED:
+SEALED ANNEX REQUIRED:
+ARCHIVE LOCATION:
+NEXT REVIEW DATE:
+
+CLOSING AUTHORITY:
+CLOSING DATE:
+```
+
+---
+
+## File Metadata
+
+```text
+FILE CREATED:        12/09/2026
+FILE LAST UPDATED:   12/09/2026
+FILE AUTHOR:         Medical Care Division / Civil Covert Division
+REVIEWED BY:         Archiver Division / Subject Care Division / Site Command
+FILE STATUS:         ACTIVE WORKING FORM
+DOCTRINE STATUS:     ACTIVE
+```

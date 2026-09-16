@@ -56,12 +56,15 @@ The **Standard Format** is the primary anomaly archive structure used for the ma
 The Standard Format includes:
 - designation
 - titles
+- registry band
 - field type
+- hazard tags
 - clearance
 - containment class
 - fracture indexing
 - threat level
 - transformation viability
+- lifecycle state
 - discovery data
 - description
 - anomalous properties
@@ -148,6 +151,18 @@ This designation is used when standard archive assumptions become structurally i
 
 ### 3.3.4 Reserved Significance
 Some numbers may hold special historical meaning. The number **000** is treated as a designation of foundational or origin-level significance and is never assigned casually.
+
+### 3.3.5 Registry Band Doctrine
+Registry Band Doctrine explains what a number range means before a reader treats the number as a simple sequence mark.
+
+- **ENTITY Historical Band** — `ENTITY-###`, closed historical series. Preserved for First Vault and pre-standard records. No new ordinary ENTITY files are opened.
+- **000 Foundational Reserve** — `000` marks origin-level or foundation-level significance. ITHYOS is the controlling example.
+- **LEGACY ACCEPTED Band** — `001–120` accepts legacy-era anomalies inside modern UFD/AFD handling. A legacy anomaly may preserve both UFD and AFD files when those files record different intake states.
+- **Modern Registry Band** — `121–999` is the ordinary modern UFD/AFD anomaly range.
+- **ANM Fracture-State Band** — `ANM-XX-XX-0001` through `ANM-XX-XX-9999`, with `XXXX` used for unresolved or obscured numbers.
+- **Obscured / Reserved / Closed Numbers** — numbers may be hidden, reserved, or retired when the number itself is classified, structurally important, or historically load-bearing.
+
+A UFD and AFD sharing the same number are not duplicates when one preserves provisional intake and the other preserves verified archive status. They are distinct archive states of the same subject.
 
 ---
 
@@ -337,7 +352,47 @@ An anomaly is considered an unstable asset if:
 
 ---
 
-## 3.9 Information Suppression and Redaction Format
+## 3.9 Anomaly Lifecycle State
+Lifecycle State records the anomaly's current archive and operational condition. It is separate from Containment Class and Transformation Viability.
+
+Recognized lifecycle states are:
+- **PROVISIONAL** — suspected or partially documented, usually during UFD intake.
+- **ACTIVE-CONTAINED** — active and presently held, bounded, monitored, or managed.
+- **ACTIVE-UNCONTAINED** — active and not under reliable A.C.T control.
+- **UNDER REVIEW** — classification, containment, transformation, or record integrity is under formal review.
+- **TRANSFORMATION-CANDIDATE** — under consideration for controlled change, use, stabilization, or integration.
+- **INTEGRATED** — the anomaly or a derivative has become part of A.C.T infrastructure, procedure, equipment, medicine, archive function, or operational capacity.
+- **RETIRED** — no longer active as an operational problem but retained as controlled historical record.
+- **ARCHIVED** — active handling has closed and the file is retained for reference, training, law, or possible reactivation.
+- **NEUTRALIZED** — the anomalous effect has ceased, been exhausted, or been rendered nonfunctional.
+- **EXPLAINED** — resolved as non-anomalous cause, misclassification, hoax, ordinary science, or known non-A.C.T phenomenon.
+- **LOST** — A.C.T no longer possesses the anomaly, route, source, evidence, or file body needed to claim control.
+- **MEMORIALIZED** — retained primarily for remembrance of attached personnel, civilians, sites, or historical consequences.
+- **PROHIBITED-FROM-TRANSFORMATION** — transformation is formally forbidden while other containment or archive handling may continue.
+
+---
+
+## 3.10 Anomaly Hazard Tags
+Hazard Tags are controlled search and routing markers. They identify documented hazard behaviors and do not replace field type, containment class, threat level, or transformation viability.
+
+A tag may be used only when the file body proves the hazard through description, properties, containment procedure, incident history, logs, or research summary.
+
+Recognized tag families are:
+- **PHYS** — physical danger such as impact, cutting, pressure, temperature, or weaponization.
+- **BIO** — anomalous life, infection, growth, mutation, parasitism, or ecological disruption.
+- **COG** — memory, compulsion, perception, identity, dream, or cognition hazards.
+- **MEM / INFO** — memetic, language, symbol, audio, visual, reading, naming, or information hazards.
+- **TEMP** — loops, time loss, pre-echoes, delay, chronology damage, or predictive contamination.
+- **SPAT** — nonlocal space, thresholds, transit, impossible interiors, distance errors, or spatial instability.
+- **STR** — Structural Reality fracture, classification failure, containment-logic failure, observation instability, or archive drift.
+- **COS** — abyssal, divine, world-scale, foundational, cosmic, or origin-level hazards.
+- **SOC / OPR** — recruitment, markets, cover risk, GOI interference, handler risk, asset dependency, or institutional exposure.
+
+Hazard tags should be few, evidenced, and operationally useful. The first tag family should name the most urgent containment problem, not the most dramatic aesthetic.
+
+---
+
+## 3.11 Information Suppression and Redaction Format
 Authorized suppression and redaction markers include:
 - `[ BLANK ]`
 - `[ MEMETIC ]`
@@ -354,7 +409,7 @@ These markers indicate that the information itself may be dangerous, destabilizi
 
 ---
 
-## 3.10 Supplementary Log Categories
+## 3.12 Supplementary Log Categories
 Beyond the main anomaly file, A.C.T maintains categorized supporting dossier structures for anomalies that generate too much evidence, transcript material, testing history, or review complexity to live safely in one file. These dossier categories include recovery, testimony, testing, incident, exploration, research, recovered document, observation, transformation, correspondence, sensor, and personal record structures. They exist to preserve how A.C.T learned what it learned without overloading the active containment file.
 
 Supporting file:
@@ -363,7 +418,7 @@ Supporting file:
 
 ---
 
-## 3.11 Sample Modern Anomaly Entry
+## 3.13 Sample Modern Anomaly Entry
 The first modern sample anomaly file preserved with Part Three is the standardized A.C.T anomaly record for:
 
 - **AFD-CH-000**
@@ -380,6 +435,6 @@ This file demonstrates the transition from the early ENTITY archive era into ful
 ---
 
 ## Closing Summary
-Part Three establishes the archival backbone of the A.C.T Facility. It records how the impossible is designated, classified, contained, studied, transformed, restricted, and remembered. Through the Standard and RCT formats, the Fracture Index, breach logic, transformation doctrine, and suppression rules, A.C.T transforms fear into method and method into survival.
+Part Three establishes the archival backbone of the A.C.T Facility. It records how the impossible is designated, classified, contained, studied, transformed, restricted, and remembered. Through the Standard and RCT formats, the Registry Band Doctrine, Fracture Index, lifecycle states, hazard tags, breach logic, transformation doctrine, and suppression rules, A.C.T transforms fear into method and method into survival.
 
 If Part One defined the Facility, and Part Two defined its structure and philosophy, then Part Three defines the language through which the Facility speaks about the impossible.

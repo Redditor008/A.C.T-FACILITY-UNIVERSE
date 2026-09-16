@@ -94,90 +94,226 @@ She found him at the edge of the lower med-record corridor sorting sealed cartri
 
 That worried her more than if he had.
 
-“Archive?” he said.
+“You came back,” he said.
 
-“Medical.”
+“You said the archive around the abyss looks wounded because the people above it were wounded first.”
 
-“That’s usually not how that sentence goes.”
+“I say lots of things when I’m tired.”
 
-“I need a clarification.”
+“You didn’t say that one by accident.”
 
-“On?”
+Tavian slid a tray into the cabinet and closed it with unnecessary care. “Then maybe you shouldn’t have heard it on purpose.”
 
-Sera chose her words with surgical care. “Historical amnestic notation. Pre-standard coding drift. I hit a symptom profile that may not map correctly to later 004 classifications.”
+Sera stepped into the corridor proper. “What is A.R.R.?”
 
-Tavian looked at her for a long moment.
+He went still.
 
-“Are you asking casually,” he said, “or in a way that will make me wish I’d taken the long corridor?”
+Not visibly enough for anyone walking by to notice. But Sera saw it. The tiny pause in the shoulder. The slight tightening of the jaw.
 
-“Casually,” Sera lied.
+“You should not know that code.”
 
-He sighed. “Then I’ll answer casually. Pre-standard medical language is garbage. Half of it got retrofitted after the fact.”
+“I know enough to ask.”
 
-“Could 004-linked symptoms appear in records before official anomaly recovery?”
+“That’s usually how it starts.”
 
-His expression changed—not much, but enough.
+“How what starts?”
 
-“That depends what you mean by ‘appear.’”
+He looked past her toward the checkpoint door, then back again. “A review spiral.”
 
-“Golden residue. Delayed identity recognition. Memory collapse without ordinary brain trauma.”
+“Tell me what A.R.R. means.”
 
-He did not answer immediately.
+Tavian exhaled through his nose. “You already know what it means.”
 
-When he finally did, his voice had gone flatter.
+“I know what the letters probably mean. I don’t know what the function is.”
 
-“If you found that in something older than the bloom file, close it and forget it.”
+“You think there’s a difference?”
 
-Sera kept her face still. “That isn’t a clarification.”
+“Yes.”
 
-“No,” he said. “It’s advice.”
+“There isn’t.”
 
-She watched him, and for a second thought he might walk away. Instead he leaned one shoulder against the wall and looked toward the sterilization door rather than at her.
+The answer landed heavier than she expected.
 
-“My supervisor had a review gap two years ago,” he said. “Three days missing from his own continuity. He knew the gap was there because the logs around him were too neat. He spent six months trying to figure out what he’d forgotten.”
+He saw that and, for reasons she did not understand, softened just enough to keep talking.
 
-“And?”
+“Abyss Recovery Review is what happens after someone comes back from too near the wrong thing,” he said. “Not physically wrong. Cognitively wrong. They return functional. They talk. They walk. They sign. But something in them doesn’t sit right with the continuity checks.”
 
-“And he transferred out after the second review.”
+“What continuity checks?”
 
-“Why?”
+“The ones you only notice after you’ve learned how a person normally remembers.”
 
-Tavian finally looked at her. “Because after the second review, he stopped trying to remember.”
+Sera folded her arms. “You’re speaking like a redaction notice.”
 
-The corridor felt colder.
+“I’m speaking like someone who knows which phrases keep people alive.”
 
-“What happened in the first review?” Sera asked.
+He pulled one of the sealed cartridges from its tray and held it up between two fingers. The fluid inside was almost clear, touched only by the faintest gold cast when it caught the corridor light.
 
-Tavian shook his head once. “Wrong question.”
+“004-H,” he said. “Lowest stable operational grade. One day, under proper conditions.”
 
-Then he pushed off the wall, balanced the records case against his hip, and added quietly, “If the archive around the abyss looks wounded, that’s because the people above it were wounded first.”
+“Under improper conditions?”
 
-Before she could stop him, he keyed through the sterilization door and was gone.
+He smiled without humor. “Under improper conditions, everything becomes a different drug.”
 
-Sera stood alone in the service corridor, listening to the locks reseal.
+Sera looked at the cartridge. “How many abyss reviews use this?”
 
-The people above it were wounded first.
+“Enough that no one in Medical says the number out loud.”
 
-When she returned to her desk, she no longer felt like she was chasing inconsistencies.
+“Because?”
 
-She felt like she was tracking blood through layers of paper.
+“Because once you start counting, you start asking whether the problem is isolated incidents or the floor itself.”
 
-At the end of shift, she opened her private pad and wrote a line she knew she should not keep.
+She held his gaze. “And what answer did you get?”
 
-Not a correction.
-Not a report.
-Not even a question.
+Tavian placed the cartridge back in the tray.
 
-Just a sentence.
+“I got transferred to records.”
 
-The archive is shaped like damage.
+The corridor seemed to narrow around them.
 
-She encrypted it under a standard notation shell and buried it in her task file.
+“You used to work lower?”
 
-Then she closed the terminal, signed out, and walked back through the ordinary-seeming corridors of the Facility while, far below, something slept beneath the Earth and a flower bloomed in memory of it.
+“For six months.”
 
-By the time she reached her quarters, Sera understood one thing clearly.
+“On the abyss route?”
 
-The contradiction was no longer whether the records were false.
+He shook his head once. “Closer than I should have been. Farther than I wanted.”
 
-The contradiction was whether the truth had ever been safe enough for the Facility to keep intact.
+That was the most direct thing he had given her, and it told her almost nothing except that the distance mattered.
+
+“Do they wipe people because they saw something?” she asked.
+
+“No.”
+
+The answer came too quickly.
+
+Sera caught it.
+
+Tavian did too.
+
+He closed his eyes for a second, opened them again, and corrected himself.
+
+“Not only because they saw something.”
+
+That was worse.
+
+“What else is there?”
+
+He hesitated long enough that she thought he would stop. Instead he said, very quietly, “Sometimes they come back remembering in the wrong direction.”
+
+Sera said nothing.
+
+He continued before she could ask what that meant.
+
+“They remember things they shouldn’t know yet. They speak in sequence breaks. They recognize names attached to sealed records. They describe locations before the route logs are opened in front of them. Sometimes it burns off. Sometimes it doesn’t.”
+
+The skin between her shoulders went tight.
+
+“Has it happened often?”
+
+“Often enough that there’s a code for it.”
+
+She thought of the margin note again. The bloom was below. A phrase appearing seventeen years before the official discovery of the bloom. A symptom language older than the classification itself.
+
+“Is 004 correcting damage,” she asked, “or hiding it?”
+
+Tavian gave a tired little laugh that did not sound amused. “That depends who writes the after-action report.”
+
+He lifted the tray and turned toward the sterilization door.
+
+Sera caught his sleeve before he could leave.
+
+It was a stupid thing to do. Physical contact in the Facility always meant one of two things: urgency or a failure to control yourself. She released him immediately, but not before he looked down at her hand and then back at her face with something close to alarm.
+
+“Have you been reviewed?” she asked.
+
+For the first time since she had known him, Tavian Holt looked genuinely afraid.
+
+Not exposed. Not guilty.
+Afraid.
+
+“Yes,” he said.
+
+“How many times?”
+
+He stepped back.
+
+“That,” he said, “is the kind of question people forget asking.”
+
+Then he keyed through the sterilization door and left her standing alone again.
+
+Sera went back to Archive Administration in a silence so complete it felt staged.
+
+At her desk, she reopened the shadow notation file and added a new category.
+
+Not contradictions.
+Not route errors.
+Not bloom pre-echoes.
+
+Internal memory maintenance.
+
+Once she wrote the phrase, everything around it began to settle into place.
+
+The dead signatures wearing new names.
+The review gaps.
+The impossible chronology.
+The symptom language arriving before the anomaly’s official discovery.
+The small, repeated doses rather than massive erasures.
+The way the archive seemed not shattered, but curated into stable damage.
+
+The Facility had not merely forgotten parts of itself.
+It had been taught how to forget selectively.
+
+And if that was true, then the old question—what happened in the abyss?—was no longer the most dangerous one.
+
+The most dangerous question was this:
+
+Who decides what the Facility is allowed to remember?
+
+That evening, instead of returning directly to her quarters, Sera took the long route through Central.
+
+The Main Containment Elevator stood in its armored shaft like a vertical law. Personnel passed through checkpoint lanes beneath camera domes and biometric bars. A sealed cart descended under armed escort. Somewhere far below, beyond mapped floors and procedural confidence, the route continued toward places most of the Facility would spend entire careers pretending not to imagine.
+
+She stopped just long enough to watch the level indicators above the shaft.
+
+F2.
+F1.
+G.
+F-1.
+Then the lower sequence, hidden as usual behind restricted opacity.
+
+One of the guards near the checkpoint noticed her lingering.
+
+“Move along, Archivist.”
+
+She did.
+
+But as she walked away, she could not shake the feeling that the elevator was less a machine than a throat—and that everything she was learning had already passed through it once on its way up, stripped of memory, renamed, and sent back into the Facility as doctrine.
+
+When she reached her quarters, she reviewed the private notes again.
+
+The archive wound.
+A.R.R.
+Repeated 004 use.
+Memory in the wrong direction.
+The bloom before the bloom.
+
+Then she opened a fresh page and wrote the sentence she had avoided all shift.
+
+The Facility may be using amnestics not only to protect the world from knowledge, but to protect its own structure from the truth of its beginning.
+
+She stared at the line until it no longer looked like language.
+
+Then she encrypted it twice, buried it under correction syntax, and shut the terminal down.
+
+In the darkness that followed, she sat on the edge of the narrow bed and tried to remember whether she had always trusted the archive.
+
+She could no longer tell.
+
+That, more than anything else, was what finally frightened her.
+
+Not the possibility that the records were false.
+Not the possibility that the founders had lied.
+
+But the possibility that the Facility’s greatest success had never been making the world forget.
+
+It had been teaching its own people how to live inside what was missing.
