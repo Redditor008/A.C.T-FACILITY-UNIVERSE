@@ -1,0 +1,25 @@
+# TECH-GOI-048-2 - CHILDREN OF THE DEEP INLAND MOUTH OVERLAY MAP SET
+
+Technology Designation: TECH-GOI-048-2
+Technology Name: Children of the Deep Inland Mouth Overlay Map Set
+Common Abbreviations: Mouth Maps / Depth-Language Maps / Inland Mouth Set
+Origin: Children of the Deep
+Acquisition Status: Recovered copies from separate cells and custody sites; no single authoritative cult atlas held
+Primary A.C.T Interest: Ritual geography analysis, inland mouth site classification, infrastructure risk assessment, cell-link identification
+Archive Handling: CULTIC NETWORKS RESTRICTED / MAP-BASED TARGET DATA SEALED
+
+## Functional Identity
+
+The Children of the Deep Inland Mouth Overlay Map Set is the cartographic technology the cult uses to make inland water systems operationally relevant to a distant deep-sea objective. The dossier records documented cult practice including the use of maps that overlay inland water systems with sealed deep-sea data, and identifies as an inland mouth indicator any handwritten or digital map that replaces ordinary place names with depth, tide, mouth, or shore terminology. A.C.T files this as acquired GOI technology because the maps are how a landlocked regional movement directs attention toward a maritime target.
+
+## Known Structure and Use
+
+Recovered maps do not share ordinary address formatting. In a regional review, separately produced CoTD materials ranked sites by depth language, remembered flood events, and fragments of maritime terminology, and the overlap between them was significant because the authors had no visible public connection. The set therefore functions as both a site list and a training instrument: it identifies local gathering sites and simultaneously trains members to perceive an inland geography as part of one submerged ritual system. River channels, aquifers, drainage corridors, flooded extraction sites, reservoirs, and water-control infrastructure appear as ritual equivalents of the distant sea.
+
+## A.C.T Handling Rules
+
+Maps are routed to ACT-SITE-03-JP-E Kurokawa Archive Node for review of mapped data and information patterns that may function as ritual or target-contact vectors. A map is intelligence, not proof: not every listed location had anomalous value, and several were selected because they were emotionally powerful to local members or easy to access without attention. Site classification must distinguish actual operational value from symbolic geography, and a site cannot be dismissed as symbolic until its materials, participants, technical links, and target-related communications have been examined.
+
+## Failure and Open Questions
+
+The cult's theological claim that every inland mouth is physically connected to the deep-sea target has not been accepted by A.C.T, and whether the underlying doctrine is physically valid remains under evaluation. Which inland mouths have a measurable relationship to the sleeping anomaly, and which exist only as cult symbolism, is an open intelligence question. Overlay maps may also be decoys produced to draw attention away from a live preparation chain.

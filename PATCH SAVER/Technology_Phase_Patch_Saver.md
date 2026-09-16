@@ -1954,3 +1954,64 @@ Mandatory recovery procedure, in order:
 5. Only then `git reset --hard FETCH_HEAD`, re-apply the intended new edit, validate, commit, push, and fetch-verify.
 
 Never run `git reset --hard` before step 3. The remote is the authority, not local `HEAD`.
+
+## Prompt Start Update — 2026-09-17, Continue GOI-Acquired Technology After Anstrall Market `5/5`
+User sent `p`, meaning proceed/continue. Continue the GOI-acquired technology phase.
+
+Patch Saver compliance action:
+
+- Branch resolved live with `git rev-parse --abbrev-ref HEAD`; no branch name is recorded here.
+- Local head confirmed equal to the remote head before any drafting began; working tree clean.
+- Selected Children of the Deep (`GOI-CU-X-048`) as the next GOI-acquired technology set because its dossier explicitly identifies low-frequency sound work, sound-capable equipment, handwritten timing sheets, non-cult commercial transport cover, inland mouth overlay maps with depth and tide terminology, pressure equipment, imported marine material, sealed containers, copied devotional text containing deliberate omissions, distributed recordings, synchronized calendar rules, shared dates and return language, informal contribution systems, technical intermediaries, and Dredger procurement of marine survey, sonar, and deep-water coordinate material.
+- Read the `GOI-CU-X-048` dossier in full, including the truncated organization, membership-layer, practitioner-capability, awakening-preparation, inland-mouth, assets, holdings, and operational-record sections, before drafting.
+- Target-anomaly identity remains sealed in the source dossier and must not be named in any derived technology record.
+
+Counts before new drafting in this prompt:
+
+- Completed GOI technology sets: Anstrall Market, DREAM .INC, Mysterious Guild, Amazoo Circus, Missing 404 Watch Tower, Lullaby Works, Cairn & Lintel, Saint-Vera Restoration Concern, and Mercy Lock Institute.
+- Completed GOIs in the GOI-acquired technology phase: `9/30`. Remaining: `21/30`.
+- Completed GOI-acquired technology records: `45/150`. Remaining: `105/150`.
+
+## Prompt End Update — 2026-09-17, Children of the Deep Acquired Technology Set Completed at `5/5`
+Work completed during this prompt:
+
+- Resolved the branch live and confirmed local head equalled the remote head before drafting; no branch name is recorded in this file.
+- Read the `GOI-CU-X-048` Children of the Deep dossier in full before drafting, including the previously truncated membership-layer, practitioner-capability, awakening-preparation, inland-mouth, assets, holdings, and operational-record sections.
+- Corrected a script fault that derived the record code from three stem segments instead of four, which aborted the first attempt at index insertion after the record files were already written. Re-ran insertion with guarded assertions so no index could be written twice.
+- Created `TECH-GOI-048-1` Children of the Deep Low-Frequency Sounding and Timing Apparatus as Markdown/TXT twins.
+- Created `TECH-GOI-048-2` Children of the Deep Inland Mouth Overlay Map Set as Markdown/TXT twins.
+- Created `TECH-GOI-048-3` Children of the Deep Pressure Ritual Equipment and Sealed Container Set as Markdown/TXT twins.
+- Created `TECH-GOI-048-4` Children of the Deep Compartmented Devotional Text, Distributed Recording, and Synchronized Calendar Set as Markdown/TXT twins.
+- Created `TECH-GOI-048-5` Children of the Deep Concealed Contribution and Technical Procurement System as Markdown/TXT twins.
+- Kept the sealed target anomaly unnamed in all five records, matching the source dossier redaction.
+- Inserted all five entries between `TECH-GOI-027-5` and `TECH-GOI-049-1` in `TECH_MD/README.md` and `TECH_TXT/README.txt`, preserving ascending GOI-number ordering.
+- Prepended five `TECH-GOI-048-x` sentences to the Current Status paragraph in both technology indexes and added the five records to the technology-records row of the root `README.md`.
+
+Validation results before staging:
+
+- `TECH-GOI-048-1` Markdown word count: `438`; TXT word count: `433`.
+- `TECH-GOI-048-2` Markdown word count: `449`; TXT word count: `444`.
+- `TECH-GOI-048-3` Markdown word count: `462`; TXT word count: `457`.
+- `TECH-GOI-048-4` Markdown word count: `430`; TXT word count: `425`.
+- `TECH-GOI-048-5` Markdown word count: `441`; TXT word count: `436`.
+- New TXT twins had no Markdown-only marker hits: `0`.
+- All five new pairs pass the twin rule (Markdown equals TXT after stripping heading markers).
+- No old bad technology designation strings found. No stale or misspelled E-Class wording found.
+- Forbidden-wording scan across all ten new files returned `0` hits.
+- Repo-wide document check: `DOCUMENT_COUNT 884`, `BELOW_200_COUNT 0`, `EMPTY_COUNT 0`, `NO_FINAL_NEWLINE_COUNT 0`, `UTF8_DECODE_ERROR_COUNT 0`, `EXACT_CONFLICT_MARKER_COUNT 0`.
+- Technology pair check: `TECH_MD 188`, `TECH_TXT 188`, no missing pairs.
+- GOI pair check: `GOI_MD 35`, `GOI_TXT 35`, no missing pairs.
+- Broken local Markdown links: `0` of `443` checked.
+- No session branch name appears in this file: `0` occurrences.
+- `git diff --check` and `git diff --cached --check` both returned `0`.
+
+Current count after this prompt's content if committed:
+
+- Completed GOI-acquired technology sets: Children of the Deep, Anstrall Market, DREAM .INC, Mysterious Guild, Amazoo Circus, Missing 404 Watch Tower, Lullaby Works, Cairn & Lintel, Saint-Vera Restoration Concern, and Mercy Lock Institute.
+- Completed GOIs in the GOI-acquired technology phase: `10/30`. Remaining: `20/30`.
+- GOI-acquired technology total: `50/150`. Remaining: `100/150`.
+
+Immediate next work after this prompt:
+
+- Commit and push this batch on the active session branch, then explicit-refspec fetch verify.
+- On the next prompt, append a prompt-start Patch Saver update, resolve the branch live, then choose another source-backed GOI technology set. Largest remaining dossiers with no technology set: Liberty Freedoms (`GOI-ML-X-050`), Anti-Global Anomaly (`GOI-ML-X-014`), Government Anti Anomaly (`GOI-GV-P-001`), Ninefold Ark (`GOI-HY-N-074`), Archivists of the Final Dawn (`GOI-CU-W-066`).
