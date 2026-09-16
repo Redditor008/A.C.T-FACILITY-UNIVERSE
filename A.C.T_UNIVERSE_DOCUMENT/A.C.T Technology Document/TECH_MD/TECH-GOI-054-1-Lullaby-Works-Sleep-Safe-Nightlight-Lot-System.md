@@ -1,0 +1,25 @@
+# TECH-GOI-054-1 - LULLABY WORKS SLEEP-SAFE NIGHTLIGHT LOT SYSTEM
+
+Technology Designation: TECH-GOI-054-1
+Technology Name: Lullaby Works Sleep-Safe Nightlight Lot System
+Common Abbreviations: Sleep-Safe Nightlight
+Origin: Lullaby Works
+Acquisition Status: Cooperative recovery, partial inspection, or protected field custody through child-safety cases
+Primary A.C.T Interest: Child protection, Subject Care continuity, product-risk review, and safe evidence handling
+Archive Handling: CHILD-CARE DISCLOSURE LIMIT / SUBJECT CARE RESTRICTED
+
+## Functional Identity
+
+The Lullaby Works Sleep-Safe Nightlight Lot System is the child-protection lighting technology recovered from the sealed pediatric shelter incident and recurring nursery-object chains. The GOI dossier records nightlights that intensify when an unregistered presence enters a child's room, a product recovery label for NIGHTLIGHT LOT SLEEP-SAFE-7, and a shelter delivery that arrived twelve minutes before the first recorded distortion. A.C.T recovered three nightlights for examination and left fourteen active units in place under monitored-care authority because removal could have increased risk to the children.
+
+## Known Structure and Use
+
+This technology is not a simple lamp. It is a domestic warning boundary built for rooms where children cannot yet explain the threat. The instruction under the battery cover ordered staff not to unscrew the moon while children were sleeping, not to test the light by pretending to be afraid, to count every child twice if the shade hummed, and not to name an extra child if the count returned eighteen. These rules indicate that the device monitors presence, sleep state, room count, and caregiver behavior.
+
+## A.C.T Handling Rules
+
+A.C.T handling requires Subject Care approval before removal from a child-occupied room. Engineering may inspect inactive shells, wiring, shade material, battery plates, and heat behavior, but may not provoke a response by staging fear or placing children in simulated danger. The nightlight is evidence, barrier, and comfort object at once.
+
+## Failure and Open Questions
+
+Known failure risks include adult tampering, forced disassembly, false reassurance, extra-child naming, and careless confiscation. A nightlight that protects a room may also preserve classified memory and produce normalcy leakage. Archive confidence is High for protective field effect in the shelter case and Moderate for mechanism. Manufacturing source, lot variation, and long-term bonding cost remain unresolved.
