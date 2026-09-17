@@ -1,71 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - THE KINDLY MOLT
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-CU-P-061                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | The Kindly Molt                                             |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | TKM                                                         |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Kindly Molt Fellowship; Molt Houses; The Soft-Skin Rite;   |
-|                            | Shed-Saints; [CENSOR: LOCAL CHAPEL NAME]                   |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | CULTIC                                                      |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | POSITIVE                                                    |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | REGIONAL                                                    |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | PRACTITIONER                                                |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 3                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | LEAKING                                                     |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | MONITOR / HELP / COOPERATED                                 |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | House Mothers, Shed Fathers, and Molt Witnesses; no central |
-|                            | prophet confirmed                                           |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Transformed survivors, caregivers, ritual nurses, altered   |
-|                            | families, refuge escorts, and sympathetic physicians        |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Regional refuge houses, back-room chapels, survivor homes,  |
-|                            | rural clinics, city shelters, and transformation routes     |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Molt houses, comfort rites, skin ledgers, acceptance vows,  |
-|                            | safe bedding, body maps, concealment garments, and escorts  |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Refuge rooms, hidden chapels, care kitchens, locked baths,  |
-|                            | garment stores, patient ledgers, and family meeting rooms   |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | A changed body is not proof that the person inside has      |
-|                            | ended, failed, or become unworthy of care                   |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Repeated contact during transformation aftercare, survivor  |
-|                            | refusal, E-Class review adjacency, and altered-body shelter |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | Restricted transformation, altered-body, refuge, witness,   |
-|                            | medical aftercare, and family-continuance case chains       |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - positive cultic survivor-care network under review |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Subject Care Division / Intelligence Division / Medical     |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with Site 04 and Site-specific care review  |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for refuge locations, child members,       |
-|                            | active transformation rites, and E-Class linked cases       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-CU-P-061 |
+| COMMON NAME | The Kindly Molt |
+| SHORT NAME | TKM |
+| KNOWN ALIASES | Kindly Molt Fellowship; Molt Houses; The Soft-Skin Rite; Shed-Saints; [CENSOR: LOCAL CHAPEL NAME] |
+| NATURE CLASS | CULTIC |
+| ALIGNMENT CLASS | POSITIVE |
+| REACH CLASS | REGIONAL |
+| ANOMALOUS CAPABILITY | PRACTITIONER |
+| THREAT LEVEL | 3 |
+| SECRECY RISK | LEAKING |
+| A.C.T POSTURE | MONITOR / HELP / COOPERATED |
+| KNOWN LEADERSHIP | House Mothers, Shed Fathers, and Molt Witnesses; no central prophet confirmed |
+| KNOWN MEMBERSHIP | Transformed survivors, caregivers, ritual nurses, altered families, refuge escorts, and sympathetic physicians |
+| PRIMARY ACTIVE REGION | Regional refuge houses, back-room chapels, survivor homes, rural clinics, city shelters, and transformation routes |
+| KNOWN ASSETS | Molt houses, comfort rites, skin ledgers, acceptance vows, safe bedding, body maps, concealment garments, and escorts |
+| KNOWN HOLDINGS | Refuge rooms, hidden chapels, care kitchens, locked baths, garment stores, patient ledgers, and family meeting rooms |
+| IDEOLOGY | A changed body is not proof that the person inside has ended, failed, or become unworthy of care |
+| HISTORY WITH A.C.T | Repeated contact during transformation aftercare, survivor refusal, E-Class review adjacency, and altered-body shelter |
+| ANOMALY CROSS-REFERENCE | Restricted transformation, altered-body, refuge, witness, medical aftercare, and family-continuance case chains |
+| CURRENT STATUS | ACTIVE - positive cultic survivor-care network under review |
+| PRIMARY FILE AUTHORITY | Subject Care Division / Intelligence Division / Medical |
+| SITE JURISDICTION | Central Command with Site 04 and Site-specific care review |
+| CLEARANCE REQUIRED | Level 4; Level 5 for refuge locations, child members, active transformation rites, and E-Class linked cases |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Subject Care / Medical / Intelligence / Recovery / Civil Covert / Containment / Command
-**Authority:** Subject Care Division, Medical Division, Intelligence Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Subject Care / Medical / Intelligence / Recovery / Civil Covert / Containment / Command |
+| AUTHORITY | Subject Care Division, Medical Division, Intelligence Division, and Central Archive |
 
 #### Archive Note
 The Kindly Molt is the active cultic filing for an outside faith and refuge network that shelters people whose bodies changed through anomalous exposure, incomplete transformation, failed reversal, inherited abnormality, or long-term containment injury. The group is not filed as a monster fan club, a mutation cult, a single chapel, a medical charity, or an A.C.T aftercare program. It qualifies as a Group of Interest because it has recurring refuge houses, ritual vocabulary, trained caregivers, membership continuity, concealment routes, altered-body doctrine, and a repeated ability to affect whether transformed persons enter A.C.T custody, accept reversal, remain with family, or disappear into community protection.

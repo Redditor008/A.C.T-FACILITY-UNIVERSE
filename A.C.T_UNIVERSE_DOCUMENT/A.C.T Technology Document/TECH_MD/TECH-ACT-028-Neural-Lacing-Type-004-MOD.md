@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - NEURAL LACING TYPE 004-MOD
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-028                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Neural Lacing Type 004-MOD                                  |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | NL-004                                                      |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | MEDICAL / INFO-HAZARD DEFENSE / MEMORY-CONTROL IMPLANT      |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T / 004-SERIES DERIVATIVE                               |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Medical Division / Info-Hazard Division                     |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Engineering, Personnel Resilience, Archive, Site Command    |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / PATIENT-SPECIFIC IMPLANT              |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF MISKEYED OR OVERFILTERING        |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for implant approval; Level 5 for filter lists,     |
-|                            | micro-receiver tuning, and permanent memory exclusions      |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-028 |
+| TECHNOLOGY NAME | Neural Lacing Type 004-MOD |
+| SHORT NAME | NL-004 |
+| TECHNOLOGY FAMILY | MEDICAL / INFO-HAZARD DEFENSE / MEMORY-CONTROL IMPLANT |
+| ORIGIN | A.C.T / 004-SERIES DERIVATIVE |
+| PRIMARY CONTROLLER | Medical Division / Info-Hazard Division |
+| ATTACHED DIVISIONS | Engineering, Personnel Resilience, Archive, Site Command |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / PATIENT-SPECIFIC IMPLANT |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF MISKEYED OR OVERFILTERING |
+| CLEARANCE REQUIRED | Level 4 for implant approval; Level 5 for filter lists, micro-receiver tuning, and permanent memory exclusions |
 
-**Archive Status:** Active Restricted Medical Technology Record  
-**Distribution:** Medical / Info-Hazard / Personnel Resilience / Engineering / Site Command  
-**Authority:** Medical Division, Info-Hazard Division, Engineering Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Medical Technology Record |
+| DISTRIBUTION | Medical / Info-Hazard / Personnel Resilience / Engineering / Site Command |
+| AUTHORITY | Medical Division, Info-Hazard Division, Engineering Division, and Central Archive |
 
 #### Archive Note
 Neural Lacing Type 004-MOD is the twenty-eighth main A.C.T technology expanded into an individual record. The Master Catalog defines it as a permanent neural lattice providing an internal Auto-Forget filter against specific high-tier info-hazards. The visual reference guide describes a golden neural lattice visible only on high-level scans, controlled by a micro-receiver at the base of the skull, functioning as a signal-sink for incoming info-hazardous data. On a patient, it appears as a small surgical scar protected by a redacted patch. TECH-ACT-004 already identifies NL-004 as distinct from administered 004-Series amnestics: it is an internal filter, not a dose.

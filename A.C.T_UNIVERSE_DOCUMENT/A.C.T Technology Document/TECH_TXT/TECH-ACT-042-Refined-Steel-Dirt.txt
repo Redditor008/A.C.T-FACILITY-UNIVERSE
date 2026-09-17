@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - REFINED STEEL-DIRT
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-042
-TECHNOLOGY NAME: Refined Steel-Dirt
-SHORT NAME: RSD
-TECHNOLOGY FAMILY: ANOMALOUS MATERIAL / RAPID SEALANT / BLUE DIRT REFINEMENT
-ORIGIN: A.C.T REFINEMENT OF AFD-PL-932 BLUE DIRT
-PRIMARY CONTROLLER: Materials Custody / Hazardous Materials Desk
-ATTACHED DIVISIONS: Engineering, Dark World Survey, Biological Containment
-OPERATIONAL STATUS: ACTIVE / RESTRICTED / BREACH-SEALING DEVELOPMENT
-RISK STATUS: HAZARDOUS / HYDRATION-TRIGGER AND BLUE HAZE RISK
-CLEARANCE REQUIRED: Level 4 for sealed handling; Level 5 for hydration trigger, occupied-facility deployment, and outgassing suppression
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-042                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Refined Steel-Dirt                                          |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | RSD                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | ANOMALOUS MATERIAL / RAPID SEALANT / BLUE DIRT REFINEMENT   |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T REFINEMENT OF AFD-PL-932 BLUE DIRT                    |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Materials Custody / Hazardous Materials Desk                |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Engineering, Dark World Survey, Biological Containment      |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / BREACH-SEALING DEVELOPMENT            |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | HAZARDOUS / HYDRATION-TRIGGER AND BLUE HAZE RISK            |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for sealed handling; Level 5 for hydration trigger, |
+|                            | occupied-facility deployment, and outgassing suppression    |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Refined Anomalous Material Technology Record
 Distribution: Materials Custody / Hazardous Materials / Engineering / Dark World Survey / Biological Containment

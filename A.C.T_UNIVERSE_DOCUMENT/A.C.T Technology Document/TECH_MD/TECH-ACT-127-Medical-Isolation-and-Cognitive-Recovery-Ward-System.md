@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - MEDICAL ISOLATION AND COGNITIVE RECOVERY WARD SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-127                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Medical Isolation and Cognitive Recovery Ward System        |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | MICRWS                                                      |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | MEDICAL WARD / COGNITIVE CARE / ARTIFACT-INFLUENCE ISOLATION|
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | REDWOOD VEIL COMPLEX F-6 MEDICAL AND COGNITIVE CARE        |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Chief Medical Officer / Medical Division                    |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Medical, Containment, Research, Security, Archive           |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / CONTROLLED MEDICAL AND COGNITIVE CARE              |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | ISOLATION BREACH / TREATMENT EXPOSURE / CONFIDENTIALITY GAP|
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Medical authorization; patient-specific restriction-set     |
-|                            | authority for anomalous influence or memetic contamination |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-127 |
+| TECHNOLOGY NAME | Medical Isolation and Cognitive Recovery Ward System |
+| SHORT NAME | MICRWS |
+| TECHNOLOGY FAMILY | MEDICAL WARD / COGNITIVE CARE / ARTIFACT-INFLUENCE ISOLATION |
+| ORIGIN | REDWOOD VEIL COMPLEX F-6 MEDICAL AND COGNITIVE CARE |
+| PRIMARY CONTROLLER | Chief Medical Officer / Medical Division |
+| ATTACHED DIVISIONS | Medical, Containment, Research, Security, Archive |
+| OPERATIONAL STATUS | ACTIVE / CONTROLLED MEDICAL AND COGNITIVE CARE |
+| RISK STATUS | ISOLATION BREACH / TREATMENT EXPOSURE / CONFIDENTIALITY GAP |
+| CLEARANCE REQUIRED | Medical authorization; patient-specific restriction-set authority for anomalous influence or memetic contamination |
 
-**Archive Status:** Active Redwood Veil Medical Technology Record
-**Distribution:** Redwood Veil Complex / Medical / Containment / Research / Security / Archive
-**Authority:** Chief Medical Officer, Medical Division, Site Director, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Redwood Veil Medical Technology Record |
+| DISTRIBUTION | Redwood Veil Complex / Medical / Containment / Research / Security / Archive |
+| AUTHORITY | Chief Medical Officer, Medical Division, Site Director, and Central Archive |
 
 #### Archive Note
 Medical Isolation and Cognitive Recovery Ward System is the one-hundred-twenty-seventh main A.C.T technology expanded into an individual record. The Redwood Veil F-6 Medical and Cognitive Care dossier identifies F-6 as the Medical Division's primary ward level, providing trauma care, memetic contamination treatment, cognitive recovery, and artifact-influence evaluation for personnel. It records clinical wards, memetic contamination treatment suites, cognitive recovery center, artifact-influence isolation suites, patient-status confidentiality, exposure-limited treatment, and isolation doctrine protecting both patient and complex.

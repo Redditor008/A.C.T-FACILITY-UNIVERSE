@@ -1,71 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - BUREAU OF UNQUIET BORDERS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-GV-W-057                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Bureau of Unquiet Borders                                   |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | BUB                                                         |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Unquiet Border Bureau; Border Quiet Office; Unsettled       |
-|                            | Crossing Authority; [CENSOR: TREATY-LINE NAME]             |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | GOVERNMENT                                                  |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | WORK                                                        |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | TRANSNATIONAL                                               |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | HANDLER                                                     |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 3                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | VEILED                                                      |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | COOPERATED / MONITOR / MISDIRECT                           |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Secretariat council unresolved; field authority held by     |
-|                            | Crossing Magistrates and Quiet-Line Wardens                 |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Border officers, treaty clerks, customs handlers,           |
-|                            | translators, custody drivers, map auditors, and station medics|
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Cross-border anomaly routes, disputed checkpoints, border   |
-|                            | towns, ports, airports, mountain passes, and dead corridors |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Quiet-line stations, sealed crossing ledgers, treaty seals, |
-|                            | custody vehicles, false-neutral holding rooms, and route maps|
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Border offices, unlisted customs rooms, transit archives,   |
-|                            | temporary humane holding cells, and treaty-marked corridors |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | Borders must remain usable even when geography, identity,   |
-|                            | law, or citizenship becomes unstable                        |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Recurring cooperation during cross-border anomaly movement, |
-|                            | witness transfer, extradition dispute, and artifact routing |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | Restricted border-hole, passport, customs, missing-citizen, |
-|                            | transit-object, and extradition case chains                 |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - working foreign and treaty-backed border authority |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division / Civil Covert / Recovery Division    |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with Site-specific cross-border transfer    |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for treaty seals, foreign custody names,   |
-|                            | and unresolved citizenship cases                            |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-GV-W-057 |
+| COMMON NAME | Bureau of Unquiet Borders |
+| SHORT NAME | BUB |
+| KNOWN ALIASES | Unquiet Border Bureau; Border Quiet Office; Unsettled Crossing Authority; [CENSOR: TREATY-LINE NAME] |
+| NATURE CLASS | GOVERNMENT |
+| ALIGNMENT CLASS | WORK |
+| REACH CLASS | TRANSNATIONAL |
+| ANOMALOUS CAPABILITY | HANDLER |
+| THREAT LEVEL | 3 |
+| SECRECY RISK | VEILED |
+| A.C.T POSTURE | COOPERATED / MONITOR / MISDIRECT |
+| KNOWN LEADERSHIP | Secretariat council unresolved; field authority held by Crossing Magistrates and Quiet-Line Wardens |
+| KNOWN MEMBERSHIP | Border officers, treaty clerks, customs handlers, translators, custody drivers, map auditors, and station medics |
+| PRIMARY ACTIVE REGION | Cross-border anomaly routes, disputed checkpoints, border towns, ports, airports, mountain passes, and dead corridors |
+| KNOWN ASSETS | Quiet-line stations, sealed crossing ledgers, treaty seals, custody vehicles, false-neutral holding rooms, and route maps |
+| KNOWN HOLDINGS | Border offices, unlisted customs rooms, transit archives, temporary humane holding cells, and treaty-marked corridors |
+| IDEOLOGY | Borders must remain usable even when geography, identity, law, or citizenship becomes unstable |
+| HISTORY WITH A.C.T | Recurring cooperation during cross-border anomaly movement, witness transfer, extradition dispute, and artifact routing |
+| ANOMALY CROSS-REFERENCE | Restricted border-hole, passport, customs, missing-citizen, transit-object, and extradition case chains |
+| CURRENT STATUS | ACTIVE - working foreign and treaty-backed border authority |
+| PRIMARY FILE AUTHORITY | Intelligence Division / Civil Covert / Recovery Division |
+| SITE JURISDICTION | Central Command with Site-specific cross-border transfer |
+| CLEARANCE REQUIRED | Level 4; Level 5 for treaty seals, foreign custody names, and unresolved citizenship cases |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Intelligence / Civil Covert / Recovery / Containment / Legal Liaison / Command
-**Authority:** Intelligence Division, Civil Covert Division, Recovery Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Intelligence / Civil Covert / Recovery / Containment / Legal Liaison / Command |
+| AUTHORITY | Intelligence Division, Civil Covert Division, Recovery Division, and Central Archive |
 
 #### Archive Note
 The Bureau of Unquiet Borders is the active government filing for an outside state and treaty-backed border authority that handles anomalous movement across national lines. The Bureau is not an A.C.T branch, not a foreign copy of A.C.T, not a customs office with unusual rumors, and not a single checkpoint. It qualifies as a Group of Interest because it has offices, field personnel, treaty instruments, custody practices, maps, holding rooms, and a repeated ability to affect A.C.T recovery when persons, objects, animals, vehicles, buildings, files, or legal identities cross borders in ways ordinary law cannot process.

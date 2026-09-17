@@ -2,9 +2,11 @@
 ## Primary Narrative Archive
 ## The Facility That Forgot Its First Lie
 
-**Archive Status:** Restricted  
-**Distribution:** Internal Narrative Preservation / Story Structure Reference  
-**Authority:** Archive Draft Record  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Restricted |
+| DISTRIBUTION | Internal Narrative Preservation / Story Structure Reference |
+| AUTHORITY | Archive Draft Record |
 
 ---
 

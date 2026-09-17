@@ -1,29 +1,14 @@
 # TECH-GOI-048-5 - CHILDREN OF THE DEEP CONCEALED CONTRIBUTION AND TECHNICAL PROCUREMENT SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-048-5                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Children of the Deep Concealed Contribution and Technical   |
-|                            | Procurement System                                          |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Contribution Routes / Dredger Procurement / Technical       |
-|                            | Intermediary Chain                                          |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Children of the Deep                                        |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Reconstructed from interdiction records, departure          |
-|                            | interviews, and procurement traces; no complete cult ledger |
-|                            | held                                                        |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Technical preparation interdiction, deep-water data theft   |
-|                            | detection, Dredger identification, commercial-cover tracing |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | CULTIC NETWORKS RESTRICTED / ACTIVE-SOURCE DISCLOSURE LIMIT |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-048-5 |
+| TECHNOLOGY NAME | Children of the Deep Concealed Contribution and Technical Procurement System |
+| COMMON ABBREVIATIONS | Contribution Routes / Dredger Procurement / Technical Intermediary Chain |
+| ORIGIN | Children of the Deep |
+| ACQUISITION STATUS | Reconstructed from interdiction records, departure interviews, and procurement traces; no complete cult ledger held |
+| PRIMARY A.C.T INTEREST | Technical preparation interdiction, deep-water data theft detection, Dredger identification, commercial-cover tracing |
+| ARCHIVE HANDLING | CULTIC NETWORKS RESTRICTED / ACTIVE-SOURCE DISCLOSURE LIMIT |
 
 ## Functional Identity
 

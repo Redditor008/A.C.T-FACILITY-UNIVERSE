@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - AGRICULTURAL BIOTECH COVER CAMPUS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-092                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Agricultural Biotech Cover Campus                           |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | ABCC                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | AGRICULTURAL COVER / GREENHOUSE CAMPUS / LOW-VISIBILITY    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | GLASS ORCHARD RELAY F-3 SURFACE COVER LEVEL                |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Campus Manager / Sub-Site Chief                             |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Cover Research Staff, Administration, Security, Medical     |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / PUBLIC-FACING COVER USE                            |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | COVER SCRUTINY / RESEARCH INCONSISTENCY / LOGISTICS RISK   |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 2 for legitimate campus work; Level 3 for boundary    |
-|                            | staff; Level 4 for buried-relay integration                 |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-092 |
+| TECHNOLOGY NAME | Agricultural Biotech Cover Campus |
+| SHORT NAME | ABCC |
+| TECHNOLOGY FAMILY | AGRICULTURAL COVER / GREENHOUSE CAMPUS / LOW-VISIBILITY |
+| ORIGIN | GLASS ORCHARD RELAY F-3 SURFACE COVER LEVEL |
+| PRIMARY CONTROLLER | Campus Manager / Sub-Site Chief |
+| ATTACHED DIVISIONS | Cover Research Staff, Administration, Security, Medical |
+| OPERATIONAL STATUS | ACTIVE / PUBLIC-FACING COVER USE |
+| RISK STATUS | COVER SCRUTINY / RESEARCH INCONSISTENCY / LOGISTICS RISK |
+| CLEARANCE REQUIRED | Level 2 for legitimate campus work; Level 3 for boundary staff; Level 4 for buried-relay integration |
 
-**Archive Status:** Active Cover Campus Technology Record
-**Distribution:** Glass Orchard Relay / Redwood Veil Complex / Campus Administration / Security / Cover Research Staff
-**Authority:** Campus Manager, Sub-Site Chief, Redwood Veil Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Cover Campus Technology Record |
+| DISTRIBUTION | Glass Orchard Relay / Redwood Veil Complex / Campus Administration / Security / Cover Research Staff |
+| AUTHORITY | Campus Manager, Sub-Site Chief, Redwood Veil Site Command, and Central Archive |
 
 #### Archive Note
 Agricultural Biotech Cover Campus is the ninety-second main A.C.T technology expanded into an individual record. The Glass Orchard Relay dossier identifies the relay's cover identity as an agricultural biotech station: a greenhouse-and-laboratory complex producing genetically improved crops. The F-3 Surface Cover Level dossier identifies the surface campus as greenhouses, legitimate research laboratories, administrative buildings, restricted growing areas, and concealed transition architecture.

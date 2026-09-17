@@ -1,17 +1,32 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - SEISMIC DATA INTERPRETATION AND RESTRICTION ENFORCEMENT SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-111
-TECHNOLOGY NAME: Seismic Data Interpretation and Restriction Enforcement System
-SHORT NAME: SDIRES
-TECHNOLOGY FAMILY: SEISMIC INTERPRETATION / RESTRICTED DATA / ABYSS REVIEW
-ORIGIN: NUSANTARA DEEP RELAY F-4 LABORATORY AND RESEARCH LEVEL
-PRIMARY CONTROLLER: Floor Research Chief / Seismic Analysis Support Liaison
-ATTACHED DIVISIONS: Research, Seismic Analysis Support, Security, Archive, Containment
-OPERATIONAL STATUS: ACTIVE / DEEP-EARTH INTERPRETATION CONTROL
-RISK STATUS: DATA OVERREACH / REVIEW-CHAIN BREACH / CORRELATION HAZARD
-CLEARANCE REQUIRED: Level 4 for interpretation duty; Level 5 or review-chain authority for abyss-related correlation release
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-111                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Seismic Data Interpretation and Restriction Enforcement     |
+|                            | System                                                      |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | SDIRES                                                      |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | SEISMIC INTERPRETATION / RESTRICTED DATA / ABYSS REVIEW     |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | NUSANTARA DEEP RELAY F-4 LABORATORY AND RESEARCH LEVEL      |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Floor Research Chief / Seismic Analysis Support Liaison     |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Research, Seismic Analysis Support, Security, Archive,      |
+|                            | Containment                                                 |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / DEEP-EARTH INTERPRETATION CONTROL                  |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | DATA OVERREACH / REVIEW-CHAIN BREACH / CORRELATION HAZARD   |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for interpretation duty; Level 5 or review-chain    |
+|                            | authority for abyss-related correlation release             |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Nusantara Research-Data Technology Record
 Distribution: Nusantara Deep Relay / Research / Seismic Analysis Support / Security / Archive

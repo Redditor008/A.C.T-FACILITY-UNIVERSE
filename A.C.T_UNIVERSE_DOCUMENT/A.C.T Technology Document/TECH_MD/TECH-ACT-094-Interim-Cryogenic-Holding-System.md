@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - INTERIM CRYOGENIC HOLDING SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-094                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Interim Cryogenic Holding System                            |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | ICHS                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | CRYOGENIC OVERFLOW / BIOLOGICAL SUPPRESSION / TRANSFER     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | FROST HOLLOW DEPOT F-1 INTERIM CRYOGENIC HOLDING           |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | F-1 Holding Officer / Medical Quarantine Lead               |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Medical Quarantine, Security, Limited Containment Support   |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / INTERIM COLD-STORAGE USE                           |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | OVERSTAY / SUPPRESSION FAILURE / TRANSFER DELAY RISK        |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for routine holding; Level 4 for closure, silent    |
-|                            | removal, parent-station override, or failed suppression     |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-094 |
+| TECHNOLOGY NAME | Interim Cryogenic Holding System |
+| SHORT NAME | ICHS |
+| TECHNOLOGY FAMILY | CRYOGENIC OVERFLOW / BIOLOGICAL SUPPRESSION / TRANSFER |
+| ORIGIN | FROST HOLLOW DEPOT F-1 INTERIM CRYOGENIC HOLDING |
+| PRIMARY CONTROLLER | F-1 Holding Officer / Medical Quarantine Lead |
+| ATTACHED DIVISIONS | Medical Quarantine, Security, Limited Containment Support |
+| OPERATIONAL STATUS | ACTIVE / INTERIM COLD-STORAGE USE |
+| RISK STATUS | OVERSTAY / SUPPRESSION FAILURE / TRANSFER DELAY RISK |
+| CLEARANCE REQUIRED | Level 3 for routine holding; Level 4 for closure, silent removal, parent-station override, or failed suppression |
 
-**Archive Status:** Active Interim Cryogenic Technology Record
-**Distribution:** Frost Hollow Depot / White Grave Station / Medical Quarantine / Security / Limited Containment Support
-**Authority:** F-1 Holding Officer, Sub-Site Chief, White Grave Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Interim Cryogenic Technology Record |
+| DISTRIBUTION | Frost Hollow Depot / White Grave Station / Medical Quarantine / Security / Limited Containment Support |
+| AUTHORITY | F-1 Holding Officer, Sub-Site Chief, White Grave Site Command, and Central Archive |
 
 #### Archive Note
 Interim Cryogenic Holding System is the ninety-fourth main A.C.T technology expanded into an individual record. The Frost Hollow Depot dossier defines the depot as White Grave Station's quarantine and staging extension: an interim cold-storage and quarantine facility built to absorb seasonal biological pressure. The F-1 floor dossier identifies the deepest level as interim cryogenic holding with intake and staging bay, cryogenic storage units, suppression monitoring stations, transfer preparation area, floor command post, documentation alcove, and F-1 closure procedure.

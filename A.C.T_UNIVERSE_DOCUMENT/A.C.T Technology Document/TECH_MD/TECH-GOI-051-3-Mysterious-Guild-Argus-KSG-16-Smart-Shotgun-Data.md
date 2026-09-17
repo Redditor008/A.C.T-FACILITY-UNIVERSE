@@ -1,26 +1,14 @@
 # TECH-GOI-051-3 - MYSTERIOUS GUILD ARGUS KSG-16 SMART-SHOTGUN DATA
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-051-3                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Mysterious Guild Argus KSG-16 Smart-Shotgun Data            |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Argus KSG-16 / Item-W01 / Smart-Shotgun Data                |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Mysterious Guild                                            |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Recovered record data and AFD-OB-312 testing correlation;   |
-|                            | physical custody unresolved by this file                    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Future-origin weapon safety, registry message correlation,  |
-|                            | smart-targeting analysis, tactical containment limits       |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | GUILD ARMORY RESTRICTED / WEAPON DATA AIR-GAP               |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-051-3 |
+| TECHNOLOGY NAME | Mysterious Guild Argus KSG-16 Smart-Shotgun Data |
+| COMMON ABBREVIATIONS | Argus KSG-16 / Item-W01 / Smart-Shotgun Data |
+| ORIGIN | Mysterious Guild |
+| ACQUISITION STATUS | Recovered record data and AFD-OB-312 testing correlation; physical custody unresolved by this file |
+| PRIMARY A.C.T INTEREST | Future-origin weapon safety, registry message correlation, smart-targeting analysis, tactical containment limits |
+| ARCHIVE HANDLING | GUILD ARMORY RESTRICTED / WEAPON DATA AIR-GAP |
 
 ## Functional Identity
 

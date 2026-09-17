@@ -1,71 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - CANDLE-UNDER EXCHANGE
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-BS-P-067                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Candle-Under Exchange                                       |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | CUE                                                         |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Candle Under; Under-Candle; Low Light Exchange; Shelter     |
-|                            | Table; [CENSOR: SURVIVOR BOARD NAME]                       |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | BUSINESS                                                    |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | POSITIVE                                                    |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | TRANSNATIONAL                                               |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | HANDLER                                                     |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 3                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | LEAKING                                                     |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | MONITOR / HELP / COOPERATED / APPROPRIATE                  |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Table Keepers, Candle Clerks, Debt Witnesses, and route     |
-|                            | moderators; no central proprietor confirmed                 |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Survivors, family brokers, safe-house owners, care runners, |
-|                            | barter clerks, field medics, charm handlers, and guides     |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Survivor neighborhoods, post-incident shelters, clinics,    |
-|                            | hostels, forums, back rooms, border routes, and kitchens    |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Aid ledgers, candle tokens, safe-room lists, medicine lots, |
-|                            | low-risk charms, doctor names, witness advice, and routes   |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Shelter tables, kitchen exchanges, clinic cupboards,        |
-|                            | survivor hostels, coded boards, and temporary store rooms   |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | Survivors should not have to buy safety from predators or   |
-|                            | beg institutions that cannot publicly admit their injuries  |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Repeated contact through survivor aid, protective-object    |
-|                            | movement, witness avoidance, and post-incident barter       |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | Restricted survivor-aid, protective charm, safe-house,      |
-|                            | medicine, witness, and post-breach family case chains       |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - positive survivor-aid market under monitored use   |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division / Subject Care / Civil Covert         |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with Site 01 and route-specific review      |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for safe-house lists, child witnesses,     |
-|                            | medical supplier names, and A.C.T-adjacent aid routes       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-BS-P-067 |
+| COMMON NAME | Candle-Under Exchange |
+| SHORT NAME | CUE |
+| KNOWN ALIASES | Candle Under; Under-Candle; Low Light Exchange; Shelter Table; [CENSOR: SURVIVOR BOARD NAME] |
+| NATURE CLASS | BUSINESS |
+| ALIGNMENT CLASS | POSITIVE |
+| REACH CLASS | TRANSNATIONAL |
+| ANOMALOUS CAPABILITY | HANDLER |
+| THREAT LEVEL | 3 |
+| SECRECY RISK | LEAKING |
+| A.C.T POSTURE | MONITOR / HELP / COOPERATED / APPROPRIATE |
+| KNOWN LEADERSHIP | Table Keepers, Candle Clerks, Debt Witnesses, and route moderators; no central proprietor confirmed |
+| KNOWN MEMBERSHIP | Survivors, family brokers, safe-house owners, care runners, barter clerks, field medics, charm handlers, and guides |
+| PRIMARY ACTIVE REGION | Survivor neighborhoods, post-incident shelters, clinics, hostels, forums, back rooms, border routes, and kitchens |
+| KNOWN ASSETS | Aid ledgers, candle tokens, safe-room lists, medicine lots, low-risk charms, doctor names, witness advice, and routes |
+| KNOWN HOLDINGS | Shelter tables, kitchen exchanges, clinic cupboards, survivor hostels, coded boards, and temporary store rooms |
+| IDEOLOGY | Survivors should not have to buy safety from predators or beg institutions that cannot publicly admit their injuries |
+| HISTORY WITH A.C.T | Repeated contact through survivor aid, protective-object movement, witness avoidance, and post-incident barter |
+| ANOMALY CROSS-REFERENCE | Restricted survivor-aid, protective charm, safe-house, medicine, witness, and post-breach family case chains |
+| CURRENT STATUS | ACTIVE - positive survivor-aid market under monitored use |
+| PRIMARY FILE AUTHORITY | Intelligence Division / Subject Care / Civil Covert |
+| SITE JURISDICTION | Central Command with Site 01 and route-specific review |
+| CLEARANCE REQUIRED | Level 4; Level 5 for safe-house lists, child witnesses, medical supplier names, and A.C.T-adjacent aid routes |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Intelligence / Subject Care / Civil Covert / Recovery / Medical / Command
-**Authority:** Intelligence Division, Subject Care Division, Civil Covert Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Intelligence / Subject Care / Civil Covert / Recovery / Medical / Command |
+| AUTHORITY | Intelligence Division, Subject Care Division, Civil Covert Division, and Central Archive |
 
 #### Archive Note
 Candle-Under Exchange is the active business filing for an outside survivor-aid market that trades protection, medicine, shelter, advice, routes, testimony support, and low-risk anomalous objects among people harmed by abnormal events. The Exchange is not Anstrall Market, not a black-market auction house, not a charity office, not an A.C.T victim-service desk, and not a single online forum. It qualifies as a Group of Interest because it has recurring exchange rules, table keepers, barter clerks, coded ledgers, safe-house routes, medical suppliers, charm handlers, debt witnesses, and a repeated ability to help or hide witnesses outside A.C.T control.

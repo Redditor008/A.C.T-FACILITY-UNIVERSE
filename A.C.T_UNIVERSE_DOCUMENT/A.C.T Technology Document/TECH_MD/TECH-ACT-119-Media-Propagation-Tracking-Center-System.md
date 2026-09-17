@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - MEDIA PROPAGATION TRACKING CENTER SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-119                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Media Propagation Tracking Center System                    |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | MPTCS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | MEDIA TRACKING / REPLICATION ANALYSIS / SECRECY RESPONSE    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | KUROKAWA ARCHIVE NODE F-4 RESEARCH AND ANALYSIS LEVEL       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Media Propagation Lead / Floor Research Chief               |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Researcher, Intelligence, Archive, Security, Medical        |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / PROPAGATION TRACKING AND RESPONSE SUPPORT          |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | REPLICATION ESCAPE / MISROUTED WARNING / DATA CONTAMINATION|
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for propagation tracking; Level 5 for public-media  |
-|                            | intervention orders or unrestricted pattern export          |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-119 |
+| TECHNOLOGY NAME | Media Propagation Tracking Center System |
+| SHORT NAME | MPTCS |
+| TECHNOLOGY FAMILY | MEDIA TRACKING / REPLICATION ANALYSIS / SECRECY RESPONSE |
+| ORIGIN | KUROKAWA ARCHIVE NODE F-4 RESEARCH AND ANALYSIS LEVEL |
+| PRIMARY CONTROLLER | Media Propagation Lead / Floor Research Chief |
+| ATTACHED DIVISIONS | Researcher, Intelligence, Archive, Security, Medical |
+| OPERATIONAL STATUS | ACTIVE / PROPAGATION TRACKING AND RESPONSE SUPPORT |
+| RISK STATUS | REPLICATION ESCAPE / MISROUTED WARNING / DATA CONTAMINATION |
+| CLEARANCE REQUIRED | Level 4 for propagation tracking; Level 5 for public-media intervention orders or unrestricted pattern export |
 
-**Archive Status:** Active Kurokawa Media Technology Record
-**Distribution:** Kurokawa Archive Node / Researcher Division / Intelligence / Archive / Security
-**Authority:** Media Propagation Lead, Floor Research Chief, Intelligence Liaison, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Kurokawa Media Technology Record |
+| DISTRIBUTION | Kurokawa Archive Node / Researcher Division / Intelligence / Archive / Security |
+| AUTHORITY | Media Propagation Lead, Floor Research Chief, Intelligence Liaison, and Central Archive |
 
 #### Archive Note
 Media Propagation Tracking Center System is the one-hundred-nineteenth main A.C.T technology expanded into an individual record. The F-4 Research and Analysis Level dossier identifies the media propagation tracking center as the floor system that tracks the spread of anomalous media: documents, images, and recordings whose anomalous character includes transmission or replication. The dossier states that the center informs Kurokawa's media response operations and the Facility's wider secrecy doctrine.

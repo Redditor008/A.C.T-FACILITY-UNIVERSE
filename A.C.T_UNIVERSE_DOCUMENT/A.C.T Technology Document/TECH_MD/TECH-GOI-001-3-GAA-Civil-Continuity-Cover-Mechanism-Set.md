@@ -1,28 +1,14 @@
 # TECH-GOI-001-3 - GAA CIVIL CONTINUITY COVER MECHANISM SET
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-001-3                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | GAA Civil Continuity Cover Mechanism Set                    |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Continuity Cover Set / Civil Explanation Layer / GAA        |
-|                            | Aftermath Cover                                             |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Government Anti Anomaly                                     |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Cooperative liaison capability exercised under bounded task |
-|                            | authorization; measures reviewed against containment need   |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Public normalcy preservation, aftermath explanation         |
-|                            | control, witness-chain prevention, proportionality review   |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | GOVERNMENT-INTERFACE RESTRICTED / CIVIL COVERT AND ARCHIVE  |
-|                            | REVIEW REQUIRED                                             |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-001-3 |
+| TECHNOLOGY NAME | GAA Civil Continuity Cover Mechanism Set |
+| COMMON ABBREVIATIONS | Continuity Cover Set / Civil Explanation Layer / GAA Aftermath Cover |
+| ORIGIN | Government Anti Anomaly |
+| ACQUISITION STATUS | Cooperative liaison capability exercised under bounded task authorization; measures reviewed against containment need |
+| PRIMARY A.C.T INTEREST | Public normalcy preservation, aftermath explanation control, witness-chain prevention, proportionality review |
+| ARCHIVE HANDLING | GOVERNMENT-INTERFACE RESTRICTED / CIVIL COVERT AND ARCHIVE REVIEW REQUIRED |
 
 ## Functional Identity
 

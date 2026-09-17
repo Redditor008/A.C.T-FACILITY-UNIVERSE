@@ -1,17 +1,31 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - VERTICAL-FLOW PERSONNEL PROCESSING AND CLEARANCE VERIFICATION SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-129
-TECHNOLOGY NAME: Vertical-Flow Personnel Processing and Clearance Verification System
-SHORT NAME: VFPPCVS
-TECHNOLOGY FAMILY: PERSONNEL PROCESSING / CLEARANCE VERIFICATION / DUTY FLOW
-ORIGIN: REDWOOD VEIL COMPLEX F-8 ADMINISTRATION AND PERSONNEL
-PRIMARY CONTROLLER: Site Director / Site Administration
-ATTACHED DIVISIONS: Administration, Personnel, Security, Training, Command
-OPERATIONAL STATUS: ACTIVE / COMPLEX-CLEARANCE-GATED PERSONNEL GATEWAY
-RISK STATUS: CLEARANCE DRIFT / PROCESSING ERROR / DUTY-PASSAGE FAILURE
-CLEARANCE REQUIRED: Complex access authorization; duty-floor clearance, training status, and command assignment verified per shift
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-129                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Vertical-Flow Personnel Processing and Clearance            |
+|                            | Verification System                                         |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | VFPPCVS                                                     |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | PERSONNEL PROCESSING / CLEARANCE VERIFICATION / DUTY FLOW   |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | REDWOOD VEIL COMPLEX F-8 ADMINISTRATION AND PERSONNEL       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Site Director / Site Administration                         |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Administration, Personnel, Security, Training, Command      |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / COMPLEX-CLEARANCE-GATED PERSONNEL GATEWAY          |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CLEARANCE DRIFT / PROCESSING ERROR / DUTY-PASSAGE FAILURE   |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Complex access authorization; duty-floor clearance,         |
+|                            | training status, and command assignment verified per shift  |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Redwood Veil Administrative Technology Record
 Distribution: Redwood Veil Complex / Administration / Personnel / Security / Training / Command

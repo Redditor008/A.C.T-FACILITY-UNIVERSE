@@ -2,13 +2,15 @@
 ## ACT-SITE-04-BR-C — Verde Null Bio-Reserve
 ## Regional Site Dossier — Central Brazil
 
-**Archive Status:** Active
-**Distribution:** Internal / Command / Archive / Recovery / Research / Medical
-**Authority:** Central Archive / Site Governance Review / Administration
-**File Class:** Site Dossier — Individual Installation Record
-**Dossier Number:** SITE-DOSSIER-04-BR-C
-**Compiled By:** Central Archive, Site Records Office
-**Compilation Standard:** ACT Site Registry File Standard
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal / Command / Archive / Recovery / Research / Medical |
+| AUTHORITY | Central Archive / Site Governance Review / Administration |
+| FILE CLASS | Site Dossier — Individual Installation Record |
+| DOSSIER NUMBER | SITE-DOSSIER-04-BR-C |
+| COMPILED BY | Central Archive, Site Records Office |
+| COMPILATION STANDARD | ACT Site Registry File Standard |
 
 ---
 

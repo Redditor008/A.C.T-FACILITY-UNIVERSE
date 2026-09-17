@@ -1,10 +1,12 @@
 # A.C.T FACILITY UNIVERSE — CONTINUITY POLICY
 ## Canon, Story Layer, Archive Layer, and Non-Core Material
 
-**Archive Status:** Active  
-**Distribution:** Internal / Repository Guidance  
-**Authority:** Central Archive Administration / Narrative Continuity Review  
-**Purpose:** Define how A.C.T. files should be read when doctrine, archive copies, anomaly records, story material, research notes, and crossover material exist in the same repository.
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal / Repository Guidance |
+| AUTHORITY | Central Archive Administration / Narrative Continuity Review |
+| PURPOSE | Define how A.C.T. files should be read when doctrine, archive copies, anomaly records, story material, research notes, and crossover material exist in the same repository. |
 
 ---
 

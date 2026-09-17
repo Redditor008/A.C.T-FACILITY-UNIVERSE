@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - SYMBOL BEHAVIOR CONTROLLED OBSERVATION SUITES
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-118                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Symbol Behavior Controlled Observation Suites               |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SBCOS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | SYMBOL STUDY / VISUAL DENIAL / EXPOSURE-RESTRICTED ANALYSIS |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | KUROKAWA ARCHIVE NODE F-4 RESEARCH AND ANALYSIS LEVEL       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Floor Research Chief / Symbol Behavior Study Lead           |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Researcher, Archive, Intelligence, Medical, Security        |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / CONTROLLED SYMBOL RESEARCH                         |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | VISUAL EXPOSURE / PROPAGATION ERROR / STUDY OVERREACH      |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for symbol-study duty; Level 5 for Dread EYE        |
-|                            | restriction-set modification or full-effect review          |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-118 |
+| TECHNOLOGY NAME | Symbol Behavior Controlled Observation Suites |
+| SHORT NAME | SBCOS |
+| TECHNOLOGY FAMILY | SYMBOL STUDY / VISUAL DENIAL / EXPOSURE-RESTRICTED ANALYSIS |
+| ORIGIN | KUROKAWA ARCHIVE NODE F-4 RESEARCH AND ANALYSIS LEVEL |
+| PRIMARY CONTROLLER | Floor Research Chief / Symbol Behavior Study Lead |
+| ATTACHED DIVISIONS | Researcher, Archive, Intelligence, Medical, Security |
+| OPERATIONAL STATUS | ACTIVE / CONTROLLED SYMBOL RESEARCH |
+| RISK STATUS | VISUAL EXPOSURE / PROPAGATION ERROR / STUDY OVERREACH |
+| CLEARANCE REQUIRED | Level 4 for symbol-study duty; Level 5 for Dread EYE restriction-set modification or full-effect review |
 
-**Archive Status:** Active Kurokawa Research Technology Record
-**Distribution:** Kurokawa Archive Node / Researcher Division / Archive / Intelligence / Medical / Security
-**Authority:** Floor Research Chief, Symbol Behavior Study Lead, Cognitive Care Liaison, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Kurokawa Research Technology Record |
+| DISTRIBUTION | Kurokawa Archive Node / Researcher Division / Archive / Intelligence / Medical / Security |
+| AUTHORITY | Floor Research Chief, Symbol Behavior Study Lead, Cognitive Care Liaison, and Central Archive |
 
 #### Archive Note
 Symbol Behavior Controlled Observation Suites is the one-hundred-eighteenth main A.C.T technology expanded into an individual record. The F-4 Research and Analysis Level dossier identifies symbol behavior study suites as dedicated environments where memetic symbols are studied under visual-denial and controlled-observation doctrine. It states that symbols are observed through apparatus that disciplines sight, and that Dread EYE research is conducted under visual-denial protocols through the Eye Box apparatus on F-2 with analysis on F-4.

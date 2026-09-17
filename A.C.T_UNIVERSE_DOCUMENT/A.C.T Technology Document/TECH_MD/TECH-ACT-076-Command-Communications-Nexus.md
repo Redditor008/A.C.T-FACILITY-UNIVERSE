@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - COMMAND COMMUNICATIONS NEXUS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-076                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Command Communications Nexus                                |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | CCN                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | COMMAND INFRASTRUCTURE / SECURE SITE COMMUNICATION         |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY F-5 COMMAND FLOOR                     |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Site Director / Command Support                             |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Security, Administration, Recovery, Containment, Research   |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / SITE COMMAND USE                                   |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | COMMAND DELAY / MISROUTED ORDER / COMMUNICATION EXPOSURE   |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for live command routing, external network links,   |
-|                            | emergency broadcast, or sealed operational channel access   |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-076 |
+| TECHNOLOGY NAME | Command Communications Nexus |
+| SHORT NAME | CCN |
+| TECHNOLOGY FAMILY | COMMAND INFRASTRUCTURE / SECURE SITE COMMUNICATION |
+| ORIGIN | NUSANTARA DEEP RELAY F-5 COMMAND FLOOR |
+| PRIMARY CONTROLLER | Site Director / Command Support |
+| ATTACHED DIVISIONS | Security, Administration, Recovery, Containment, Research |
+| OPERATIONAL STATUS | ACTIVE / SITE COMMAND USE |
+| RISK STATUS | COMMAND DELAY / MISROUTED ORDER / COMMUNICATION EXPOSURE |
+| CLEARANCE REQUIRED | Level 4 for live command routing, external network links, emergency broadcast, or sealed operational channel access |
 
-**Archive Status:** Active Command Infrastructure Technology Record
-**Distribution:** Command / Security / Administration / Division Chiefs / Nusantara Deep Relay
-**Authority:** Site Director, Command Support, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Command Infrastructure Technology Record |
+| DISTRIBUTION | Command / Security / Administration / Division Chiefs / Nusantara Deep Relay |
+| AUTHORITY | Site Director, Command Support, and Central Archive |
 
 #### Archive Note
 Command Communications Nexus is the seventy-sixth main A.C.T technology expanded into an individual record. The F-5 Personnel and Command Level dossier identifies F-5 as the relay's Site Director command floor, administrative center, internal logistics center, and command communications nexus. Its communications systems are on protected circuits, and the command floor maintains the links through which the Site Director commands the relay and coordinates with the Facility network beyond.

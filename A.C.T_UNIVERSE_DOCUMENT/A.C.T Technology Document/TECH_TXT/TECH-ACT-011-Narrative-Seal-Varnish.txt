@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - NARRATIVE SEAL VARNISH
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-011
-TECHNOLOGY NAME: Narrative Seal Varnish
-SHORT NAME: NSV
-TECHNOLOGY FAMILY: ARCHIVAL / DOCUMENT PROTECTION / INFO-HAZARD CONTROL
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Archive Division / Engineering Division
-ATTACHED DIVISIONS: Info-Hazard, Containment, Site-03 Archive, Materials Desk
-OPERATIONAL STATUS: ACTIVE / RESTRICTED APPLICATION
-RISK STATUS: CONTROLLED / HAZARDOUS IF MISAPPLIED TO LIVE TEXT
-CLEARANCE REQUIRED: Level 3 for ordinary archive use; Level 4 for info-hazard documents, self-writing artifacts, and reapplication orders
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-011                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Narrative Seal Varnish                                      |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | NSV                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | ARCHIVAL / DOCUMENT PROTECTION / INFO-HAZARD CONTROL        |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Archive Division / Engineering Division                     |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Info-Hazard, Containment, Site-03 Archive, Materials Desk   |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED APPLICATION                             |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF MISAPPLIED TO LIVE TEXT           |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for ordinary archive use; Level 4 for info-hazard   |
+|                            | documents, self-writing artifacts, and reapplication orders |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Archival Technology Record
 Distribution: Archive / Info-Hazard / Site-03 / Engineering / Containment

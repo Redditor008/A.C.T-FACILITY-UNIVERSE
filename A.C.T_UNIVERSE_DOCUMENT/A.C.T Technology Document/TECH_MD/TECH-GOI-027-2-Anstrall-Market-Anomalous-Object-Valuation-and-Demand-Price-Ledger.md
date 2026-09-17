@@ -1,28 +1,14 @@
 # TECH-GOI-027-2 - ANSTRALL MARKET ANOMALOUS OBJECT VALUATION AND DEMAND-PRICE LEDGER
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-027-2                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Anstrall Market Anomalous Object Valuation and Demand-Price |
-|                            | Ledger                                                      |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Market Valuation / Demand-Price Ledger / Anstrall Price     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Anstrall Market                                             |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Partial valuation notes recovered through intercepted       |
-|                            | transactions; central ledger never held                     |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Demand mapping, hostile-acquisition warning, risk-rating    |
-|                            | correction, buyer-behavior analysis                         |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | TRADE-INTERDICTION RESTRICTED / BUYER-IDENTITY DISCLOSURE   |
-|                            | LIMIT                                                       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-027-2 |
+| TECHNOLOGY NAME | Anstrall Market Anomalous Object Valuation and Demand-Price Ledger |
+| COMMON ABBREVIATIONS | Market Valuation / Demand-Price Ledger / Anstrall Price |
+| ORIGIN | Anstrall Market |
+| ACQUISITION STATUS | Partial valuation notes recovered through intercepted transactions; central ledger never held |
+| PRIMARY A.C.T INTEREST | Demand mapping, hostile-acquisition warning, risk-rating correction, buyer-behavior analysis |
+| ARCHIVE HANDLING | TRADE-INTERDICTION RESTRICTED / BUYER-IDENTITY DISCLOSURE LIMIT |
 
 ## Functional Identity
 

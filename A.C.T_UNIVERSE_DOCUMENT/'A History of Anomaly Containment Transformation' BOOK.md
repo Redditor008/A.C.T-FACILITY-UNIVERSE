@@ -1837,18 +1837,20 @@ A site is not merely where the Facility exists.
 A site is where the impossible has been given an address, a doctrine, and a chain of command.
 
 #### ACT-SITE-01-US-W — Redwood Veil Complex
-**Codename:** Redwood Veil Complex  
-**Site Type:** Regional Site  
-**Location:** Western United States  
-**Command Authority:** Site Director under Facility Administrator review  
-**Primary Function:** Urban anomaly recovery, artifact containment, rapid secrecy response, and GOI suppression  
-**Divisions Present:** Security, Recovery, Containment, Intelligence, Archive, Medical  
-**Containment Profile:** Object-Focused / Mixed Mobility / Urban Recovery  
-**Regional Jurisdiction:** Western United States anomaly incidents and Pacific-linked covert routing  
-**Notable Features:** High-speed urban concealment response network; strong black-market interdiction capability; heavy GOI surveillance overlap  
-**Current Status:** Active  
-**History Notes:** Expanded from a smaller relay network into a full regional command site after sustained urban anomaly density increase.  
-**Security Notes:** Maintains multiple false civilian infrastructure overlays and layered city-entry cover identities.  
+| FIELD | VALUE |
+|---|---|
+| CODENAME | Redwood Veil Complex |
+| SITE TYPE | Regional Site |
+| LOCATION | Western United States |
+| COMMAND AUTHORITY | Site Director under Facility Administrator review |
+| PRIMARY FUNCTION | Urban anomaly recovery, artifact containment, rapid secrecy response, and GOI suppression |
+| DIVISIONS PRESENT | Security, Recovery, Containment, Intelligence, Archive, Medical |
+| CONTAINMENT PROFILE | Object-Focused / Mixed Mobility / Urban Recovery |
+| REGIONAL JURISDICTION | Western United States anomaly incidents and Pacific-linked covert routing |
+| NOTABLE FEATURES | High-speed urban concealment response network; strong black-market interdiction capability; heavy GOI surveillance overlap |
+| CURRENT STATUS | Active |
+| HISTORY NOTES | Expanded from a smaller relay network into a full regional command site after sustained urban anomaly density increase. |
+| SECURITY NOTES | Maintains multiple false civilian infrastructure overlays and layered city-entry cover identities. |
 
 Redwood Veil Complex exists in one of the most difficult concealment environments in the A.C.T network: the dense, high-mobility, high-population, black-market-sensitive urban zones of the western United States. It is defined by speed. Urban anomaly recovery does not allow slow ritualized response. It requires rapid surface concealment, artifact interception, witness management, and quick intelligence coordination. Its heavy GOI overlap also makes it one of the clearest examples of a site where anomaly containment and external threat management are inseparable.
 

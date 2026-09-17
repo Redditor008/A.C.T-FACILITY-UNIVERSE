@@ -1,28 +1,14 @@
 # TECH-GOI-014-4 - ANTI-GLOBAL ANOMALY DATA EXTRACTION, DOCUMENT COPYING, AND LEAK PRODUCTION SET
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-014-4                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Anti-Global Anomaly Data Extraction, Document Copying, and  |
-|                            | Leak Production Set                                         |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Copy Set / Leak Kit / Narrative Material Chain              |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Anti-Global Anomaly                                         |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Recovered media, copy chains, and extraction tools from     |
-|                            | cells and detainees; distribution endpoints partly mapped   |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Document contamination review, copy-chain interruption,     |
-|                            | recruitment-pathway analysis, exposure containment          |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | LEAK-SOURCE RESTRICTED / SITE 03 DOCUMENT CONTAMINATION     |
-|                            | REVIEW                                                      |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-014-4 |
+| TECHNOLOGY NAME | Anti-Global Anomaly Data Extraction, Document Copying, and Leak Production Set |
+| COMMON ABBREVIATIONS | Copy Set / Leak Kit / Narrative Material Chain |
+| ORIGIN | Anti-Global Anomaly |
+| ACQUISITION STATUS | Recovered media, copy chains, and extraction tools from cells and detainees; distribution endpoints partly mapped |
+| PRIMARY A.C.T INTEREST | Document contamination review, copy-chain interruption, recruitment-pathway analysis, exposure containment |
+| ARCHIVE HANDLING | LEAK-SOURCE RESTRICTED / SITE 03 DOCUMENT CONTAMINATION REVIEW |
 
 ## Functional Identity
 

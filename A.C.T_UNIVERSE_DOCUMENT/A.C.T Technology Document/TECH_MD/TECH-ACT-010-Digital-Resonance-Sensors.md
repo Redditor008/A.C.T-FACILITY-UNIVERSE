@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - DIGITAL RESONANCE SENSORS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-010                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Digital Resonance Sensors                                   |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | DRS                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | FIELD / DETECTION / CLASSIFICATION / SURVEY                 |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Survey Division / Engineering Division                      |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Recovery, Containment, Maritime Observation, Archive        |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / STANDARD FIELD ISSUE / RESTRICTED CALIBRATION      |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF MISREAD OR SPOOFED               |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 2 for operation; Level 4 for calibration libraries,   |
-|                            | resonance maps, and hostile-signal comparison files         |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-010 |
+| TECHNOLOGY NAME | Digital Resonance Sensors |
+| SHORT NAME | DRS |
+| TECHNOLOGY FAMILY | FIELD / DETECTION / CLASSIFICATION / SURVEY |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Survey Division / Engineering Division |
+| ATTACHED DIVISIONS | Recovery, Containment, Maritime Observation, Archive |
+| OPERATIONAL STATUS | ACTIVE / STANDARD FIELD ISSUE / RESTRICTED CALIBRATION |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF MISREAD OR SPOOFED |
+| CLEARANCE REQUIRED | Level 2 for operation; Level 4 for calibration libraries, resonance maps, and hostile-signal comparison files |
 
-**Archive Status:** Active Detection Technology Record  
-**Distribution:** Survey / Recovery / Engineering / Containment / Maritime Observation / Archive  
-**Authority:** Survey Division, Engineering Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Detection Technology Record |
+| DISTRIBUTION | Survey / Recovery / Engineering / Containment / Maritime Observation / Archive |
+| AUTHORITY | Survey Division, Engineering Division, and Central Archive |
 
 #### Archive Note
 Digital Resonance Sensors are the tenth main A.C.T technology expanded into an individual record. The Master Catalog identifies them as high-sensitivity arrays used to hear the unique causal pulse of unclassified artifacts so Field Type may be determined prior to contact. The visual guide describes the field wand as a blue polymer instrument with a miniaturized spectrogram display, an intensity trigger that vibrates the user's arm, a tuning-fork array that hums within two meters of a fracture, and a small speaker that emits mechanical ticking when a causal pulse is detected.

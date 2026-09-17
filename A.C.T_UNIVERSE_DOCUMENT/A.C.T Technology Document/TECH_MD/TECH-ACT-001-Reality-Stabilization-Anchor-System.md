@@ -1,37 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - REALITY STABILIZATION ANCHOR SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-001                                            |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Reality Stabilization Anchor System                         |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | RSA                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | CONTAINMENT / INFRASTRUCTURE / REALITY-STABILIZATION        |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Engineering Division / Containment Division                 |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Site Command, Recovery, Logistics, Archive, Civil Covert,   |
-|                            | Field Command, and Transformation Review                    |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / SITE-CRITICAL                         |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF MIS-CALIBRATED                   |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for operation; Level 5 for core geometry, crystal   |
-|                            | sourcing, synchronization tables, and emergency override    |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-001 |
+| TECHNOLOGY NAME | Reality Stabilization Anchor System |
+| SHORT NAME | RSA |
+| TECHNOLOGY FAMILY | CONTAINMENT / INFRASTRUCTURE / REALITY-STABILIZATION |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Engineering Division / Containment Division |
+| ATTACHED DIVISIONS | Site Command, Recovery, Logistics, Archive, Civil Covert, Field Command, and Transformation Review |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / SITE-CRITICAL |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF MIS-CALIBRATED |
+| CLEARANCE REQUIRED | Level 4 for operation; Level 5 for core geometry, crystal sourcing, synchronization tables, and emergency override |
 
-**Archive Status:** Active Restricted Technology Record  
-**Distribution:** Engineering / Containment / Site Command / Recovery / Logistics / Archive / Command  
-**Authority:** Engineering Division, Containment Division, Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Technology Record |
+| DISTRIBUTION | Engineering / Containment / Site Command / Recovery / Logistics / Archive / Command |
+| AUTHORITY | Engineering Division, Containment Division, Site Command, and Central Archive |
 
 #### Archive Note
 The Reality Stabilization Anchor System is the first A.C.T-owned technology to receive an individual expanded technology record in this archive because it is the main A.C.T containment infrastructure already present across the master technology index, technological timeline, visual reference guide, and site dossiers. The RSA is the primary pillar of modern containment. It broadcasts a calibrated causal baseline that holds local space, sequence, object presence, chamber geometry, and procedural reality close enough to Earth-standard conditions for A.C.T facilities to function.

@@ -1,28 +1,14 @@
 # TECH-GOI-014-3 - ANTI-GLOBAL ANOMALY MODIFIED SURVEILLANCE, TRACKING, AND TRANSPORT INTERCEPTION SET
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-014-3                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Anti-Global Anomaly Modified Surveillance, Tracking, and    |
-|                            | Transport Interception Set                                  |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Watch Set / Tracking Kit / Route Interception Gear          |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Anti-Global Anomaly                                         |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Recovered from target cells and interdicted routes;         |
-|                            | observation positions frequently abandoned before recovery  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Route exposure assessment, target-package reconstruction,   |
-|                            | deception detection, transport-leg protection               |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | STRATEGIC INTERDICTION RESTRICTED / ACTIVE-SURVEILLANCE     |
-|                            | DISCLOSURE LIMIT                                            |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-014-3 |
+| TECHNOLOGY NAME | Anti-Global Anomaly Modified Surveillance, Tracking, and Transport Interception Set |
+| COMMON ABBREVIATIONS | Watch Set / Tracking Kit / Route Interception Gear |
+| ORIGIN | Anti-Global Anomaly |
+| ACQUISITION STATUS | Recovered from target cells and interdicted routes; observation positions frequently abandoned before recovery |
+| PRIMARY A.C.T INTEREST | Route exposure assessment, target-package reconstruction, deception detection, transport-leg protection |
+| ARCHIVE HANDLING | STRATEGIC INTERDICTION RESTRICTED / ACTIVE-SURVEILLANCE DISCLOSURE LIMIT |
 
 ## Functional Identity
 

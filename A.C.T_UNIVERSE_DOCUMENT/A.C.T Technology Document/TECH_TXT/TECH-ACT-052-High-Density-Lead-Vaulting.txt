@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - HIGH-DENSITY LEAD VAULTING
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-052
-TECHNOLOGY NAME: High-Density Lead Vaulting
-SHORT NAME: HDLV
-TECHNOLOGY FAMILY: FOUNDATIONAL SHIELDING / REFINED LEAD / PASSIVE VAULTING
-ORIGIN: A.C.T FOUNDATIONAL ERA, 1598
-PRIMARY CONTROLLER: Historical Engineering Archive / Materials Custody
-ATTACHED DIVISIONS: Engineering, Artifact Storage, Site Safety, Archive
-OPERATIONAL STATUS: LEGACY-ACTIVE / RESTRICTED RETROFIT
-RISK STATUS: TOXIC MATERIAL / PASSIVE SHIELDING LIMIT
-CLEARANCE REQUIRED: Level 2 for inherited vault access; Level 4 for opening, cutting, melting, or refitting historical lead shielding
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-052                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | High-Density Lead Vaulting                                  |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | HDLV                                                        |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | FOUNDATIONAL SHIELDING / REFINED LEAD / PASSIVE VAULTING    |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T FOUNDATIONAL ERA, 1598                                |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Historical Engineering Archive / Materials Custody          |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Engineering, Artifact Storage, Site Safety, Archive         |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | LEGACY-ACTIVE / RESTRICTED RETROFIT                         |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | TOXIC MATERIAL / PASSIVE SHIELDING LIMIT                    |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 2 for inherited vault access; Level 4 for opening,    |
+|                            | cutting, melting, or refitting historical lead shielding    |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Legacy-Active Foundational Technology Record
 Distribution: Historical Engineering Archive / Materials Custody / Artifact Storage / Site Safety / Archive

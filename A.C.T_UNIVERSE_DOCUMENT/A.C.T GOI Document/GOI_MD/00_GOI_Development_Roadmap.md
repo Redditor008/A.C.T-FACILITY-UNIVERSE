@@ -1,11 +1,13 @@
 # A.C.T Group of Interest Expansion Roadmap
 ### Twenty original core-GOI concepts, prepared for one-at-a-time development
 
-**Status:** Structural planning scaffold only - the twenty listed entries are **not approved GOI names, not approved designations, and not a selection menu**; no scaffold entry becomes canon unless Central Archive explicitly authorizes or rewrites it in a later archive order
-**Prepared:** 06 September 2026
-**Archive control note recorded:** 11 September 2026
-**Requested outcome:** Build future A.C.T. Groups of Interest one at a time from approved names, anomaly-mentioned groups, or approved rewrites of any scaffold slot
-**Scope:** Independent A.C.T. core universe only; not a live wiki implementation
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| STATUS | Structural planning scaffold only - the twenty listed entries are **not approved GOI names, not approved designations, and not a selection menu**; no scaffold entry becomes canon unless Central Archive explicitly authorizes or rewrites it in a later archive order |
+| PREPARED | 06 September 2026 |
+| ARCHIVE CONTROL NOTE RECORDED | 11 September 2026 |
+| REQUESTED OUTCOME | Build future A.C.T. Groups of Interest one at a time from approved names, anomaly-mentioned groups, or approved rewrites of any scaffold slot |
+| SCOPE | Independent A.C.T. core universe only; not a live wiki implementation |
 
 ---
 
@@ -114,41 +116,18 @@ A final dossier will explain why a given site has responsibility. It will not ad
 
 The twenty scaffold slots are distributed across all ten existing Nature Classes as a structure example only. This demonstrates balance, but it does not approve the slot names or require those exact groups to be created.
 
-```text
-+------------------+--------------------+------------------------------------------------------------------+
-| Nature Class     | Planned scaffold slots | Why the category matters                                         |
-+==================+====================+==================================================================+
-| Government       | 2                  | Tests the boundary between state authority, public stability,    |
-|                  |                    | and A.C.T. secrecy.                                              |
-+------------------+--------------------+------------------------------------------------------------------+
-| Corporate        | 2                  | Creates economic pressure around Transformation, healthcare,     |
-|                  |                    | property, and profit.                                            |
-+------------------+--------------------+------------------------------------------------------------------+
-| Cultic           | 2                  | Allows belief and ritual to be useful, harmful, or both without  |
-|                  |                    | treating every faith as evil.                                    |
-+------------------+--------------------+------------------------------------------------------------------+
-| Scientific       | 2                  | Creates ethical and epistemic rivals who can study reality       |
-|                  |                    | without owning it.                                               |
-+------------------+--------------------+------------------------------------------------------------------+
-| Civil            | 2                  | Gives witnesses, families, workers, and survivors organized      |
-|                  |                    | agency.                                                          |
-+------------------+--------------------+------------------------------------------------------------------+
-| Militant         | 2                  | Supplies force-based pressure without repeating A-GA's           |
-|                  |                    | destroy-all-anomalies doctrine.                                  |
-+------------------+--------------------+------------------------------------------------------------------+
-| Anomalous        | 2                  | Uses the existing dual-filing doctrine for organizations that    |
-|                  |                    | are themselves anomalous.                                        |
-+------------------+--------------------+------------------------------------------------------------------+
-| In-Human         | 2                  | Expands the setting beyond human institutions while preserving   |
-|                  |                    | containment logic.                                               |
-+------------------+--------------------+------------------------------------------------------------------+
-| Business         | 2                  | Separates trade, logistics, and legal commerce from Anstrall     |
-|                  |                    | Market's black-market role.                                      |
-+------------------+--------------------+------------------------------------------------------------------+
-| Hybrid           | 2                  | Explores groups whose structure crosses human, technological,    |
-|                  |                    | and anomalous boundaries.                                        |
-+------------------+--------------------+------------------------------------------------------------------+
-```
+| Nature Class | Planned scaffold slots | Why the category matters |
+|---|---|---|
+| Government | 2 | Tests the boundary between state authority, public stability, and A.C.T. secrecy. |
+| Corporate | 2 | Creates economic pressure around Transformation, healthcare, property, and profit. |
+| Cultic | 2 | Allows belief and ritual to be useful, harmful, or both without treating every faith as evil. |
+| Scientific | 2 | Creates ethical and epistemic rivals who can study reality without owning it. |
+| Civil | 2 | Gives witnesses, families, workers, and survivors organized agency. |
+| Militant | 2 | Supplies force-based pressure without repeating A-GA's destroy-all-anomalies doctrine. |
+| Anomalous | 2 | Uses the existing dual-filing doctrine for organizations that are themselves anomalous. |
+| In-Human | 2 | Expands the setting beyond human institutions while preserving containment logic. |
+| Business | 2 | Separates trade, logistics, and legal commerce from Anstrall Market's black-market role. |
+| Hybrid | 2 | Explores groups whose structure crosses human, technological, and anomalous boundaries. |
 
 ---
 

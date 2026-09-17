@@ -1,12 +1,27 @@
 TECH-GOI-001-1 - GAA LEGAL MASKING AND TASK-BOUNDED AUTHORIZATION INSTRUMENT SET
 
-Technology Designation: TECH-GOI-001-1
-Technology Name: GAA Legal Masking and Task-Bounded Authorization Instrument Set
-Common Abbreviations: Legal Masking Set / Task-Bounded Order / GAA Authorization Layer
-Origin: Government Anti Anomaly
-Acquisition Status: Cooperative liaison capability exercised under bounded task authorization; instruments reviewed case by case
-Primary A.C.T Interest: Operational cover legality, oversight exposure control, authorization scope discipline, jurisdictional protection
-Archive Handling: GOVERNMENT-INTERFACE RESTRICTED / LEVEL 4 NEGOTIATION AND REVIEW RECORDS
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-001-1                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | GAA Legal Masking and Task-Bounded Authorization Instrument |
+|                            | Set                                                         |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | Legal Masking Set / Task-Bounded Order / GAA Authorization  |
+|                            | Layer                                                       |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | Government Anti Anomaly                                     |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Cooperative liaison capability exercised under bounded task |
+|                            | authorization; instruments reviewed case by case            |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Operational cover legality, oversight exposure control,     |
+|                            | authorization scope discipline, jurisdictional protection   |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | GOVERNMENT-INTERFACE RESTRICTED / LEVEL 4 NEGOTIATION AND   |
+|                            | REVIEW RECORDS                                              |
++----------------------------+-------------------------------------------------------------+
 
 Functional Identity
 

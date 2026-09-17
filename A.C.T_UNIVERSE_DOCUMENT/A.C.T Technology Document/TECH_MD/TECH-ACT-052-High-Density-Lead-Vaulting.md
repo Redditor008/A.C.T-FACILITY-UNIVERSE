@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - HIGH-DENSITY LEAD VAULTING
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-052                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | High-Density Lead Vaulting                                  |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | HDLV                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | FOUNDATIONAL SHIELDING / REFINED LEAD / PASSIVE VAULTING    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T FOUNDATIONAL ERA, 1598                                |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Historical Engineering Archive / Materials Custody          |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Engineering, Artifact Storage, Site Safety, Archive         |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | LEGACY-ACTIVE / RESTRICTED RETROFIT                         |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | TOXIC MATERIAL / PASSIVE SHIELDING LIMIT                    |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 2 for inherited vault access; Level 4 for opening,    |
-|                            | cutting, melting, or refitting historical lead shielding    |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-052 |
+| TECHNOLOGY NAME | High-Density Lead Vaulting |
+| SHORT NAME | HDLV |
+| TECHNOLOGY FAMILY | FOUNDATIONAL SHIELDING / REFINED LEAD / PASSIVE VAULTING |
+| ORIGIN | A.C.T FOUNDATIONAL ERA, 1598 |
+| PRIMARY CONTROLLER | Historical Engineering Archive / Materials Custody |
+| ATTACHED DIVISIONS | Engineering, Artifact Storage, Site Safety, Archive |
+| OPERATIONAL STATUS | LEGACY-ACTIVE / RESTRICTED RETROFIT |
+| RISK STATUS | TOXIC MATERIAL / PASSIVE SHIELDING LIMIT |
+| CLEARANCE REQUIRED | Level 2 for inherited vault access; Level 4 for opening, cutting, melting, or refitting historical lead shielding |
 
-**Archive Status:** Legacy-Active Foundational Technology Record  
-**Distribution:** Historical Engineering Archive / Materials Custody / Artifact Storage / Site Safety / Archive  
-**Authority:** Historical Engineering Archive, Materials Custody, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Legacy-Active Foundational Technology Record |
+| DISTRIBUTION | Historical Engineering Archive / Materials Custody / Artifact Storage / Site Safety / Archive |
+| AUTHORITY | Historical Engineering Archive, Materials Custody, and Central Archive |
 
 #### Archive Note
 High-Density Lead Vaulting is the fifty-second main A.C.T technology expanded into an individual record. The Technological Evolution Timeline places HDLV in 1598 during the Foundational Era and records the identification of shielding properties in refined lead, used to secure the foundational artifacts. Later A.C.T shielding traditions evolved into High-Density Liquid Lead, Abyssal Masonry, Abyssal Anchor Plating, and other active barrier systems, but HDLV remains the earliest preserved example of A.C.T treating material density as containment doctrine.

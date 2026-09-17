@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - MEDIA PROPAGATION TRACKING CENTER SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-119
-TECHNOLOGY NAME: Media Propagation Tracking Center System
-SHORT NAME: MPTCS
-TECHNOLOGY FAMILY: MEDIA TRACKING / REPLICATION ANALYSIS / SECRECY RESPONSE
-ORIGIN: KUROKAWA ARCHIVE NODE F-4 RESEARCH AND ANALYSIS LEVEL
-PRIMARY CONTROLLER: Media Propagation Lead / Floor Research Chief
-ATTACHED DIVISIONS: Researcher, Intelligence, Archive, Security, Medical
-OPERATIONAL STATUS: ACTIVE / PROPAGATION TRACKING AND RESPONSE SUPPORT
-RISK STATUS: REPLICATION ESCAPE / MISROUTED WARNING / DATA CONTAMINATION
-CLEARANCE REQUIRED: Level 4 for propagation tracking; Level 5 for public-media intervention orders or unrestricted pattern export
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-119                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Media Propagation Tracking Center System                    |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | MPTCS                                                       |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | MEDIA TRACKING / REPLICATION ANALYSIS / SECRECY RESPONSE    |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | KUROKAWA ARCHIVE NODE F-4 RESEARCH AND ANALYSIS LEVEL       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Media Propagation Lead / Floor Research Chief               |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Researcher, Intelligence, Archive, Security, Medical        |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / PROPAGATION TRACKING AND RESPONSE SUPPORT          |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | REPLICATION ESCAPE / MISROUTED WARNING / DATA CONTAMINATION |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for propagation tracking; Level 5 for public-media  |
+|                            | intervention orders or unrestricted pattern export          |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Kurokawa Media Technology Record
 Distribution: Kurokawa Archive Node / Researcher Division / Intelligence / Archive / Security

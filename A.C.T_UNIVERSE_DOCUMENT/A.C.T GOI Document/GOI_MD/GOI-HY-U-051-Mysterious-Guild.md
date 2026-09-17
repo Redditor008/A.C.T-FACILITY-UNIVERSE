@@ -1,70 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - MYSTERIOUS GUILD
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-HY-U-051                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Mysterious Guild                                            |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | The Guild                                                   |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Guild Registry; GUILD_WIKI; VESPERSYS; Vanguard Division;  |
-|                            | Ghost File Authority; OMEGA Platform Authority              |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | HYBRID                                                      |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | UNKNOWN                                                     |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | STRUCTURAL                                                  |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | ENGINEERING                                                 |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 4                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | LEAKING                                                     |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | MONITOR / CONTAIN / MISDIRECT                              |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Unknown; Chief Surgeon Valerius named only as one internal  |
-|                            | actor in recovered Guild-side material                      |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | OMEGA-level operatives, surgeons, archivists, registry      |
-|                            | clerks, sector handlers, and unknown command authorities     |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Unverified sector-based future environment; no present-day  |
-|                            | headquarters confirmed                                      |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | MNT-092 VESPER records, OMEGA-KERN, Argus KSG-16 data,      |
-|                            | Feedbacker Shield data, Guild leash references, Ghost Files |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | VESPERSYS database fragments, GUILD_WIKI archive structure, |
-|                            | Guild Registry maintenance references                       |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | Tactical purity, operative conversion, record control,      |
-|                            | sector clearance, and utility before personhood             |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Known through VESPER evidence, recovered Guild archive PDF, |
-|                            | and a separate Guild Registry equipment message             |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | AFD-SU-020; AFD-OB-312 testing dossier; recovered VESPERSYS |
-|                            | Guild Database Archive PDF                                  |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | UNKNOWN - disconnected signature / possible future actor    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division / Temporal Evidence Review Desk       |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | ACT-SITE-01-US-W with Tactical Review Desk participation    |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for VESPER-origin reconstruction material  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-HY-U-051 |
+| COMMON NAME | Mysterious Guild |
+| SHORT NAME | The Guild |
+| KNOWN ALIASES | Guild Registry; GUILD_WIKI; VESPERSYS; Vanguard Division; Ghost File Authority; OMEGA Platform Authority |
+| NATURE CLASS | HYBRID |
+| ALIGNMENT CLASS | UNKNOWN |
+| REACH CLASS | STRUCTURAL |
+| ANOMALOUS CAPABILITY | ENGINEERING |
+| THREAT LEVEL | 4 |
+| SECRECY RISK | LEAKING |
+| A.C.T POSTURE | MONITOR / CONTAIN / MISDIRECT |
+| KNOWN LEADERSHIP | Unknown; Chief Surgeon Valerius named only as one internal actor in recovered Guild-side material |
+| KNOWN MEMBERSHIP | OMEGA-level operatives, surgeons, archivists, registry clerks, sector handlers, and unknown command authorities |
+| PRIMARY ACTIVE REGION | Unverified sector-based future environment; no present-day headquarters confirmed |
+| KNOWN ASSETS | MNT-092 VESPER records, OMEGA-KERN, Argus KSG-16 data, Feedbacker Shield data, Guild leash references, Ghost Files |
+| KNOWN HOLDINGS | VESPERSYS database fragments, GUILD_WIKI archive structure, Guild Registry maintenance references |
+| IDEOLOGY | Tactical purity, operative conversion, record control, sector clearance, and utility before personhood |
+| HISTORY WITH A.C.T | Known through VESPER evidence, recovered Guild archive PDF, and a separate Guild Registry equipment message |
+| ANOMALY CROSS-REFERENCE | AFD-SU-020; AFD-OB-312 testing dossier; recovered VESPERSYS Guild Database Archive PDF |
+| CURRENT STATUS | UNKNOWN - disconnected signature / possible future actor |
+| PRIMARY FILE AUTHORITY | Intelligence Division / Temporal Evidence Review Desk |
+| SITE JURISDICTION | ACT-SITE-01-US-W with Tactical Review Desk participation |
+| CLEARANCE REQUIRED | Level 4; Level 5 for VESPER-origin reconstruction material |
 
-**Archive Status:** Active Restricted Record / Unresolved Structural Actor
-**Distribution:** Intelligence Division, Tactical Review Desk, Temporal Evidence Review, Subject Care as required for AFD-SU-020
-**Authority:** Intelligence Division and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record / Unresolved Structural Actor |
+| DISTRIBUTION | Intelligence Division, Tactical Review Desk, Temporal Evidence Review, Subject Care as required for AFD-SU-020 |
+| AUTHORITY | Intelligence Division and Central Archive |
 
 #### Archive Note
 The Mysterious Guild is filed as a recovered, temporally displaced, and internally contradictory organization signature associated with AFD-SU-020, VESPER / MNT-092. A.C.T has not verified whether the Guild exists in the present baseline, existed in a sealed future, existed in an alternate sector structure, or was produced by an anomalous archive imitating institutional memory.

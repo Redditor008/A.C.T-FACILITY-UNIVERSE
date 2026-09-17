@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - CAUSAL STATIC EARPIECES
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-038
-TECHNOLOGY NAME: Causal Static Earpieces
-SHORT NAME: CSE
-TECHNOLOGY FAMILY: FIELD GEAR / INDIVIDUAL STATIC / NARRATIVE-BLEED DEFENSE
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Narrative Hazard Desk / Field Containment Division
-ATTACHED DIVISIONS: Security, Banalist Operators, Site-03 Command, Engineering
-OPERATIONAL STATUS: ACTIVE / INDIVIDUAL ISSUE / NARRATIVE-STATIC
-RISK STATUS: CONTROLLED / COGNITIVE INTERFERENCE HAZARD
-CLEARANCE REQUIRED: Level 3 for field issue; Level 4 for logic-anchor tuning; Level 5 for live consensus-hazard deployment override
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-038                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Causal Static Earpieces                                     |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | CSE                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | FIELD GEAR / INDIVIDUAL STATIC / NARRATIVE-BLEED DEFENSE    |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Narrative Hazard Desk / Field Containment Division          |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Security, Banalist Operators, Site-03 Command, Engineering  |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / INDIVIDUAL ISSUE / NARRATIVE-STATIC                |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / COGNITIVE INTERFERENCE HAZARD                  |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for field issue; Level 4 for logic-anchor tuning;   |
+|                            | Level 5 for live consensus-hazard deployment override       |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Narrative-Bleed Field Gear Technology Record
 Distribution: Narrative Hazard / Field Containment / Security / Banalist Operators / Site-03 / Engineering

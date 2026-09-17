@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - ADRENALINE MICRO-SURGE DETECTORS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-031                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Adrenaline Micro-Surge Detectors                            |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | AMSD                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | MEDICAL / STAFF STRESS / LOCAL SEDATION SAFETY              |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Medical Division / Personnel Safety Desk                    |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Biological Containment, Subject Care, Security, Site Command|
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / PERSONNEL-ISSUE / SUITE-LINKED                     |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / SEDATIVE-RELEASE HAZARD                       |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 2 for wear; Level 3 for threshold calibration;        |
-|                            | Level 4 for containment-suite sedative integration          |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-031 |
+| TECHNOLOGY NAME | Adrenaline Micro-Surge Detectors |
+| SHORT NAME | AMSD |
+| TECHNOLOGY FAMILY | MEDICAL / STAFF STRESS / LOCAL SEDATION SAFETY |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Medical Division / Personnel Safety Desk |
+| ATTACHED DIVISIONS | Biological Containment, Subject Care, Security, Site Command |
+| OPERATIONAL STATUS | ACTIVE / PERSONNEL-ISSUE / SUITE-LINKED |
+| RISK STATUS | CONTROLLED / SEDATIVE-RELEASE HAZARD |
+| CLEARANCE REQUIRED | Level 2 for wear; Level 3 for threshold calibration; Level 4 for containment-suite sedative integration |
 
-**Archive Status:** Active Personnel Safety Technology Record  
-**Distribution:** Medical / Biological Containment / Subject Care / Security / Site Command  
-**Authority:** Medical Division, Personnel Safety Desk, and Containment Safety Board
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Personnel Safety Technology Record |
+| DISTRIBUTION | Medical / Biological Containment / Subject Care / Security / Site Command |
+| AUTHORITY | Medical Division, Personnel Safety Desk, and Containment Safety Board |
 
 #### Archive Note
 Adrenaline Micro-Surge Detectors are the thirty-first main A.C.T technology expanded into an individual record. The Master Catalog identifies them as continuous staff-stress monitors configured to trigger local sedative-vapor release upon panic thresholds. The visual guide describes a sleek silver wristband with a circular gauge, LCD status readout, refillable sedative canister, emergency auto-release pin, and wrist vibration warning. Terra's Pulse containment procedures require staff inside the fifty-meter effect radius to wear these detectors because sudden amatory arousal or existential panic must lock down the suite and release sedative before compulsion becomes action.

@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - VOLCANIC-SEISMIC MONITORING SUITES
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-084                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Volcanic-Seismic Monitoring Suites                          |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | VSMS                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | VOLCANIC OBSERVATION / SEISMIC MONITORING / WATCH SUPPORT  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | ASH TIDE WATCHPOINT F-2 MONITORING SUITES                  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Seismic Monitoring Staff / Watch Officer                    |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Watch Coordination, Security, Recovery Support, Research    |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / COASTAL VOLCANIC WATCH USE                         |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | FALSE GEOLOGIC READ / SILENT WITHDRAWAL DELAY RISK          |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for routine monitoring; Level 4 for irregular       |
-|                            | volcanic signature, withdrawal alert, or relay escalation   |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-084 |
+| TECHNOLOGY NAME | Volcanic-Seismic Monitoring Suites |
+| SHORT NAME | VSMS |
+| TECHNOLOGY FAMILY | VOLCANIC OBSERVATION / SEISMIC MONITORING / WATCH SUPPORT |
+| ORIGIN | ASH TIDE WATCHPOINT F-2 MONITORING SUITES |
+| PRIMARY CONTROLLER | Seismic Monitoring Staff / Watch Officer |
+| ATTACHED DIVISIONS | Watch Coordination, Security, Recovery Support, Research |
+| OPERATIONAL STATUS | ACTIVE / COASTAL VOLCANIC WATCH USE |
+| RISK STATUS | FALSE GEOLOGIC READ / SILENT WITHDRAWAL DELAY RISK |
+| CLEARANCE REQUIRED | Level 3 for routine monitoring; Level 4 for irregular volcanic signature, withdrawal alert, or relay escalation |
 
-**Archive Status:** Active Volcanic-Seismic Monitoring Technology Record
-**Distribution:** Seismic Monitoring / Watch Staff / Security / Nusantara Deep Relay / Ash Tide Watchpoint
-**Authority:** Watch Officer, Seismic Monitoring Staff, Nusantara Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Volcanic-Seismic Monitoring Technology Record |
+| DISTRIBUTION | Seismic Monitoring / Watch Staff / Security / Nusantara Deep Relay / Ash Tide Watchpoint |
+| AUTHORITY | Watch Officer, Seismic Monitoring Staff, Nusantara Site Command, and Central Archive |
 
 #### Archive Note
 Volcanic-Seismic Monitoring Suites are the eighty-fourth main A.C.T technology expanded into an individual record. The Ash Tide Watchpoint dossier identifies volcanic-event observation support as one of the sub-site's core purposes and states that the watchpoint watches the volcanoes marking the region's restless geology. The F-2 Operations and Watch Level dossier identifies seismic monitoring suites as the spaces that track volcanic and seismic activity and report irregular activity to the parent relay.

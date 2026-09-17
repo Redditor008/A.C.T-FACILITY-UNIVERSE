@@ -1,37 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - RELAY COMMAND FLOOR STATUS AND DECISION SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-113                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Relay Command Floor Status and Decision System              |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | RCFSD                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | COMMAND FLOOR / STATUS WATCH / DECISION ROUTING             |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY F-5 PERSONNEL AND COMMAND LEVEL       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Site Director / Duty Command Officer                        |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Command, Administration, Security, Recovery, Containment,   |
-|                            | Research, Medical                                           |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / SITE COMMAND DECISION INFRASTRUCTURE               |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | STATUS MISREAD / COMMAND DELAY / OPERATIONAL OVERLAP       |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for command-floor duty; Level 5 for site-wide       |
-|                            | emergency posture or restricted vault decision routing      |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-113 |
+| TECHNOLOGY NAME | Relay Command Floor Status and Decision System |
+| SHORT NAME | RCFSD |
+| TECHNOLOGY FAMILY | COMMAND FLOOR / STATUS WATCH / DECISION ROUTING |
+| ORIGIN | NUSANTARA DEEP RELAY F-5 PERSONNEL AND COMMAND LEVEL |
+| PRIMARY CONTROLLER | Site Director / Duty Command Officer |
+| ATTACHED DIVISIONS | Command, Administration, Security, Recovery, Containment, Research, Medical |
+| OPERATIONAL STATUS | ACTIVE / SITE COMMAND DECISION INFRASTRUCTURE |
+| RISK STATUS | STATUS MISREAD / COMMAND DELAY / OPERATIONAL OVERLAP |
+| CLEARANCE REQUIRED | Level 4 for command-floor duty; Level 5 for site-wide emergency posture or restricted vault decision routing |
 
-**Archive Status:** Active Nusantara Command Technology Record
-**Distribution:** Nusantara Deep Relay / Command / Administration / Security / Recovery / Containment / Research / Medical
-**Authority:** Site Director, Duty Command Officer, Relay Administration, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Nusantara Command Technology Record |
+| DISTRIBUTION | Nusantara Deep Relay / Command / Administration / Security / Recovery / Containment / Research / Medical |
+| AUTHORITY | Site Director, Duty Command Officer, Relay Administration, and Central Archive |
 
 #### Archive Note
 Relay Command Floor Status and Decision System is the one-hundred-thirteenth main A.C.T technology expanded into an individual record. The F-5 Personnel and Command Level dossier identifies the Site Director's command floor as the level's architectural center, adjacent to operations spaces where the relay's status is watched and decisions are made. It also identifies F-5 as the command communications nexus and the level from which the operational floors below are directed.

@@ -1,12 +1,25 @@
 TECH-GOI-056-3 - SAINT-VERA MEMORY-SENSITIVE CONSENT FORM SYSTEM
 
-Technology Designation: TECH-GOI-056-3
-Technology Name: Saint-Vera Memory-Sensitive Consent Form System
-Common Abbreviations: Memory-Sensitive Consent
-Origin: Saint-Vera Restoration Concern
-Acquisition Status: Cooperative recovery, partial inspection, or restricted patient-transfer evidence
-Primary A.C.T Interest: Survivor restoration, medical containment, Subject Care continuity, and consent-safe custody
-Archive Handling: PATIENT-DIGNITY DISCLOSURE LIMIT / MEDICAL-SUBJECT CARE RESTRICTED
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-056-3                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Saint-Vera Memory-Sensitive Consent Form System             |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | Memory-Sensitive Consent                                    |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | Saint-Vera Restoration Concern                              |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Cooperative recovery, partial inspection, or restricted     |
+|                            | patient-transfer evidence                                   |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Survivor restoration, medical containment, Subject Care     |
+|                            | continuity, and consent-safe custody                        |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | PATIENT-DIGNITY DISCLOSURE LIMIT / MEDICAL-SUBJECT CARE     |
+|                            | RESTRICTED                                                  |
++----------------------------+-------------------------------------------------------------+
 
 Functional Identity
 

@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - CHRONO-STUTTERED VISORS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-009                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Chrono-Stuttered Visors                                     |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | CSV                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | FIELD / INFO-HAZARD / TEMPORAL OPTICS / PPE                 |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Field Safety Desk / Info-Hazard Division                    |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Temporal Analysis, Biological Containment, Medical, Archive |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / PPE-STANDARD FOR VISUAL HAZARDS       |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF DELAY, POWER, OR FILTER FAILS    |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 2 for basic issue; Level 3 for visual-trigger hazard  |
-|                            | work; Level 4 for temporal vault and causal mercury use     |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-009 |
+| TECHNOLOGY NAME | Chrono-Stuttered Visors |
+| SHORT NAME | CSV |
+| TECHNOLOGY FAMILY | FIELD / INFO-HAZARD / TEMPORAL OPTICS / PPE |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Field Safety Desk / Info-Hazard Division |
+| ATTACHED DIVISIONS | Temporal Analysis, Biological Containment, Medical, Archive |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / PPE-STANDARD FOR VISUAL HAZARDS |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF DELAY, POWER, OR FILTER FAILS |
+| CLEARANCE REQUIRED | Level 2 for basic issue; Level 3 for visual-trigger hazard work; Level 4 for temporal vault and causal mercury use |
 
-**Archive Status:** Active Field Safety Technology Record  
-**Distribution:** Field Safety / Info-Hazard / Temporal Analysis / Biological Containment / Archive / Medical  
-**Authority:** Field Safety Desk, Info-Hazard Division, Temporal Analysis Desk, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Field Safety Technology Record |
+| DISTRIBUTION | Field Safety / Info-Hazard / Temporal Analysis / Biological Containment / Archive / Medical |
+| AUTHORITY | Field Safety Desk, Info-Hazard Division, Temporal Analysis Desk, and Central Archive |
 
 #### Archive Note
 Chrono-Stuttered Visors are the ninth main A.C.T technology expanded into an individual record. The Master Catalog defines them as optics with a 0.5-second processing delay that allow safe monitoring of visual-trigger hazards. The visual reference guide describes rugged tactical goggles with an integrated HUD, multi-layered digital lenses, an external focus dial, frame-delay readout, battery life display, hazard threat probability, and shielded batteries that avoid interference from local temporal distortion. Multiple anomaly files already require CSV use: Crystal Butterfly procedures require full-face units to prevent eye contact with chromatic flashes; DONT DENIED handling allows visors to avoid direct imprinting; Stop-Watch files use them to observe the second hand without Causal-Reactive Mercury imprinting; Terra's Pulse Goddess monitoring uses them or Phase-Shifted Containment Glass to filter dangerous viewing.

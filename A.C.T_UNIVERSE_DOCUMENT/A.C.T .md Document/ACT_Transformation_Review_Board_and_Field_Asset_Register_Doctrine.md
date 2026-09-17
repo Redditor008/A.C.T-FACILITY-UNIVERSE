@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### Transformation Review Board and Field Asset Register Doctrine
 
-**Archive Status:** Active  
-**Distribution:** Internal / Transformation / Research / Command / Archive  
-**Authority:** Transformation Division, Researcher Division, Medical Care Division, and O5 Review  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal / Transformation / Research / Command / Archive |
+| AUTHORITY | Transformation Division, Researcher Division, Medical Care Division, and O5 Review |
 
 #### Archive Note
 This doctrine creates the formal decision body and register language for A.C.T's most dangerous institutional act: turning anomaly contact into usable systems, materials, procedures, or field assets. It is not permission to transform more anomalies. It is the rule that makes approval, refusal, revocation, cost, and dissent visible.

@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - RESTRICTED RECORDS VAULTS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-072                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Restricted Records Vaults                                   |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | RRV                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | RESTRICTED ARCHIVE / ABYSS-RELATED REVIEW / RECORD SEALING |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY F-2 PARTIALLY SEALED FILE STANDARD    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Central Archive / Restricted Review Chain                   |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Seismic Analysis, Security, Site Command, Research          |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / PARTIALLY SEALED DEEP-EARTH FILE CUSTODY           |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | UNAUTHORIZED ACCESS / RESTRICTED KNOWLEDGE CIRCULATION      |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 minimum; review-chain authorization required for    |
-|                            | sealed file opening, copying, transfer, or downgrading      |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-072 |
+| TECHNOLOGY NAME | Restricted Records Vaults |
+| SHORT NAME | RRV |
+| TECHNOLOGY FAMILY | RESTRICTED ARCHIVE / ABYSS-RELATED REVIEW / RECORD SEALING |
+| ORIGIN | NUSANTARA DEEP RELAY F-2 PARTIALLY SEALED FILE STANDARD |
+| PRIMARY CONTROLLER | Central Archive / Restricted Review Chain |
+| ATTACHED DIVISIONS | Seismic Analysis, Security, Site Command, Research |
+| OPERATIONAL STATUS | ACTIVE / PARTIALLY SEALED DEEP-EARTH FILE CUSTODY |
+| RISK STATUS | UNAUTHORIZED ACCESS / RESTRICTED KNOWLEDGE CIRCULATION |
+| CLEARANCE REQUIRED | Level 4 minimum; review-chain authorization required for sealed file opening, copying, transfer, or downgrading |
 
-**Archive Status:** Active Restricted Archive Technology Record
-**Distribution:** Central Archive / Seismic Analysis / Security / Nusantara Deep Relay / Restricted Review Chain
-**Authority:** Central Archive, Restricted Review Chain, and Nusantara Site Command
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Archive Technology Record |
+| DISTRIBUTION | Central Archive / Seismic Analysis / Security / Nusantara Deep Relay / Restricted Review Chain |
+| AUTHORITY | Central Archive, Restricted Review Chain, and Nusantara Site Command |
 
 #### Archive Note
 Restricted Records Vaults are the seventy-second main A.C.T technology expanded into an individual record. The F-2 Deep Monitoring and Restricted Records dossier identifies restricted records vaults as holding the partially sealed deep-earth files: records routed under abyss-related review standards, sealed under the review chain, and accessible only under the restrictions the review chain imposes. These records may correlate with the structure beneath the Primary Facility and are not released by ordinary site authority.

@@ -1,38 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - QUANTUM NARRATIVE BUFFER SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-003                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Quantum Narrative Buffer System                             |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | QNB                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ARCHIVAL / CAUSAL-SAFEGUARD / INFORMATION-CONTAINMENT      |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Archive Division / Engineering Division                     |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Containment, Site Command, Intelligence, Memory Review,     |
-|                            | Recovery, Digital Systems, and Transformation Review        |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / ARCHIVE-CRITICAL                      |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF MIS-ETCHED OR MIS-RESTORED       |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for archive use; Level 5 for crystal canister       |
-|                            | replacement, drift override, sub-atomic etching tables, and |
-|                            | timeline restoration authority                              |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-003 |
+| TECHNOLOGY NAME | Quantum Narrative Buffer System |
+| SHORT NAME | QNB |
+| TECHNOLOGY FAMILY | ARCHIVAL / CAUSAL-SAFEGUARD / INFORMATION-CONTAINMENT |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Archive Division / Engineering Division |
+| ATTACHED DIVISIONS | Containment, Site Command, Intelligence, Memory Review, Recovery, Digital Systems, and Transformation Review |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / ARCHIVE-CRITICAL |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF MIS-ETCHED OR MIS-RESTORED |
+| CLEARANCE REQUIRED | Level 4 for archive use; Level 5 for crystal canister replacement, drift override, sub-atomic etching tables, and timeline restoration authority |
 
-**Archive Status:** Active Restricted Technology Record  
-**Distribution:** Archive / Engineering / Containment / Site Command / Intelligence / Memory Review / Command  
-**Authority:** Archive Division, Engineering Division, Site Command, Memory Review, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Technology Record |
+| DISTRIBUTION | Archive / Engineering / Containment / Site Command / Intelligence / Memory Review / Command |
+| AUTHORITY | Archive Division, Engineering Division, Site Command, Memory Review, and Central Archive |
 
 #### Archive Note
 The Quantum Narrative Buffer System is the third main A.C.T technology expanded into an individual record under corrected A.C.T-owned technology numbering. It is already present in the Master Catalog of Operational Assets as Item 06, in the 1992 technology timeline as a causal-resistant data etching system, in the visual reference guide as a rack-mounted crystal-canister archive hub, and in site dossiers as the hardening layer that protects A.C.T records against causal rewrites and temporal resets. QNB is the technology that helps the Archive remain the Archive when history, sequence, public memory, or narrative pressure attempts to change what the record says.

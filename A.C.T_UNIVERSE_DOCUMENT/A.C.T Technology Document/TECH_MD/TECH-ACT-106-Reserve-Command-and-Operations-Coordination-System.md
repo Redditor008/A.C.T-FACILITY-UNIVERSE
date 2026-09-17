@@ -1,37 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - RESERVE COMMAND AND OPERATIONS COORDINATION SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-106                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Reserve Command and Operations Coordination System          |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | RCOCS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | SITE COMMAND / WILDERNESS OPERATIONS / SECURITY CONTROL     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | VERDE NULL BIO-RESERVE F-4 PERSONNEL AND OPERATIONS LEVEL  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Site Director / Reserve Operations Command                  |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Administration, Security, Environmental Containment,        |
-|                            | Research, Medical, Recovery                                 |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESERVE COMMAND INFRASTRUCTURE                     |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | COMMAND DRIFT / SECTOR DELAY / BOUNDARY RESPONSE FAILURE   |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for operations duty; Level 4 for command routing,   |
-|                            | sector incident control, or cross-site escalation           |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-106 |
+| TECHNOLOGY NAME | Reserve Command and Operations Coordination System |
+| SHORT NAME | RCOCS |
+| TECHNOLOGY FAMILY | SITE COMMAND / WILDERNESS OPERATIONS / SECURITY CONTROL |
+| ORIGIN | VERDE NULL BIO-RESERVE F-4 PERSONNEL AND OPERATIONS LEVEL |
+| PRIMARY CONTROLLER | Site Director / Reserve Operations Command |
+| ATTACHED DIVISIONS | Administration, Security, Environmental Containment, Research, Medical, Recovery |
+| OPERATIONAL STATUS | ACTIVE / RESERVE COMMAND INFRASTRUCTURE |
+| RISK STATUS | COMMAND DRIFT / SECTOR DELAY / BOUNDARY RESPONSE FAILURE |
+| CLEARANCE REQUIRED | Level 3 for operations duty; Level 4 for command routing, sector incident control, or cross-site escalation |
 
-**Archive Status:** Active Verde Null Command Technology Record
-**Distribution:** Verde Null Bio-Reserve / Command / Security / Environmental Containment / Recovery / Archive
-**Authority:** Site Director, Reserve Operations Command, Security Command Center, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Verde Null Command Technology Record |
+| DISTRIBUTION | Verde Null Bio-Reserve / Command / Security / Environmental Containment / Recovery / Archive |
+| AUTHORITY | Site Director, Reserve Operations Command, Security Command Center, and Central Archive |
 
 #### Archive Note
 Reserve Command and Operations Coordination System is the one-hundred-sixth main A.C.T technology expanded into an individual record. The Verde Null Bio-Reserve site dossier identifies the reserve as a wilderness installation whose work extends across enclosure sectors, concealed perimeters, field operations, and a legitimate research campus. The F-4 floor dossier identifies the Personnel and Operations Level as the Site Director's command floor, division operations offices, security command center, internal logistics center, communications nexus, access core, and buried command heart of the reserve.

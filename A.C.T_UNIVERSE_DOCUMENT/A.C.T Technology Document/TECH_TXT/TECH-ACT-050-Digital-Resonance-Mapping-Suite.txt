@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - DIGITAL RESONANCE MAPPING SUITE
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-050
-TECHNOLOGY NAME: Digital Resonance Mapping Suite
-SHORT NAME: DRM SUITE
-TECHNOLOGY FAMILY: INTAKE ANALYSIS / CAUSAL PULSE MEASUREMENT / NON-CONTACT
-ORIGIN: REDWOOD VEIL F-5 RESEARCH AND ANALYSIS STANDARD
-PRIMARY CONTROLLER: Research Division / Redwood Veil F-5
-ATTACHED DIVISIONS: Archive, Containment, Transformation, Medical
-OPERATIONAL STATUS: ACTIVE / 2026 INTAKE STANDARD
-RISK STATUS: INSTRUMENT-SENSITIVE / DATA-CONTROLLED
-CLEARANCE REQUIRED: Level 3 for routine operation; Level 4 for high-risk anomaly intake, signature disputes, or method changes
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-050                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Digital Resonance Mapping Suite                             |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | DRM SUITE                                                   |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | INTAKE ANALYSIS / CAUSAL PULSE MEASUREMENT / NON-CONTACT    |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | REDWOOD VEIL F-5 RESEARCH AND ANALYSIS STANDARD             |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Research Division / Redwood Veil F-5                        |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Archive, Containment, Transformation, Medical               |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / 2026 INTAKE STANDARD                               |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | INSTRUMENT-SENSITIVE / DATA-CONTROLLED                      |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for routine operation; Level 4 for high-risk        |
+|                            | anomaly intake, signature disputes, or method changes       |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Facility Instrument Technology Record
 Distribution: Research / Archive / Containment / Transformation / Medical / Redwood Veil

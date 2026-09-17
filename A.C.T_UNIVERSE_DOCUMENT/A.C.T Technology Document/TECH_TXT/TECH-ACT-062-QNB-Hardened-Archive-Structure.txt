@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - QNB-HARDENED ARCHIVE STRUCTURE
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-062
-TECHNOLOGY NAME: QNB-Hardened Archive Structure
-SHORT NAME: QHAS
-TECHNOLOGY FAMILY: ARCHIVAL INFRASTRUCTURE / CAUSAL REWRITE RESISTANCE
-ORIGIN: CENTRAL ARCHIVAL DOCTRINE / REDWOOD VEIL F-7
-PRIMARY CONTROLLER: Archive Division / Engineering Division
-ATTACHED DIVISIONS: Site Command, Containment, Recovery, Medical, Digital
-OPERATIONAL STATUS: ACTIVE / ARCHIVE-CRITICAL / STRUCTURAL HARDENING
-RISK STATUS: RECORD-IDENTITY HAZARD / FALSE CONTINUITY RISK
-CLEARANCE REQUIRED: Level 4 for maintenance or audit; Level 5 for hardening redesign, restoration authority, or causal conflict review
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-062                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | QNB-Hardened Archive Structure                              |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | QHAS                                                        |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | ARCHIVAL INFRASTRUCTURE / CAUSAL REWRITE RESISTANCE         |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | CENTRAL ARCHIVAL DOCTRINE / REDWOOD VEIL F-7                |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Archive Division / Engineering Division                     |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Site Command, Containment, Recovery, Medical, Digital       |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / ARCHIVE-CRITICAL / STRUCTURAL HARDENING            |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | RECORD-IDENTITY HAZARD / FALSE CONTINUITY RISK              |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for maintenance or audit; Level 5 for hardening     |
+|                            | redesign, restoration authority, or causal conflict review  |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Archival Infrastructure Technology Record
 Distribution: Archive / Engineering / Site Command / Containment / Recovery / Medical / Digital Systems

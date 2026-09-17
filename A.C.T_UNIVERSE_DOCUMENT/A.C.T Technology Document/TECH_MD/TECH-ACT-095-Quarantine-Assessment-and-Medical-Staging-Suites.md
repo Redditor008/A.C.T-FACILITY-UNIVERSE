@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - QUARANTINE ASSESSMENT AND MEDICAL STAGING SUITES
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-095                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Quarantine Assessment and Medical Staging Suites            |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | QAMSS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | QUARANTINE / BIOLOGICAL ASSESSMENT / MEDICAL STAGING       |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | FROST HOLLOW DEPOT F-2 QUARANTINE AND ASSESSMENT LEVEL     |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Medical Quarantine Lead / Assessment Officer                |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Medical Quarantine, Assessment Laboratory, Security         |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / QUARANTINE ASSESSMENT USE                          |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | FALSE RELEASE / MISCLASSIFICATION / SUPPRESSION ERROR RISK |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for quarantine work; Level 4 for suppression change,|
-|                            | parent-station escalation, or failed assessment             |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-095 |
+| TECHNOLOGY NAME | Quarantine Assessment and Medical Staging Suites |
+| SHORT NAME | QAMSS |
+| TECHNOLOGY FAMILY | QUARANTINE / BIOLOGICAL ASSESSMENT / MEDICAL STAGING |
+| ORIGIN | FROST HOLLOW DEPOT F-2 QUARANTINE AND ASSESSMENT LEVEL |
+| PRIMARY CONTROLLER | Medical Quarantine Lead / Assessment Officer |
+| ATTACHED DIVISIONS | Medical Quarantine, Assessment Laboratory, Security |
+| OPERATIONAL STATUS | ACTIVE / QUARANTINE ASSESSMENT USE |
+| RISK STATUS | FALSE RELEASE / MISCLASSIFICATION / SUPPRESSION ERROR RISK |
+| CLEARANCE REQUIRED | Level 3 for quarantine work; Level 4 for suppression change, parent-station escalation, or failed assessment |
 
-**Archive Status:** Active Quarantine Assessment Technology Record
-**Distribution:** Frost Hollow Depot / White Grave Station / Medical Quarantine / Assessment Laboratory / Security
-**Authority:** Medical Quarantine Lead, Assessment Officer, Sub-Site Chief, White Grave Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Quarantine Assessment Technology Record |
+| DISTRIBUTION | Frost Hollow Depot / White Grave Station / Medical Quarantine / Assessment Laboratory / Security |
+| AUTHORITY | Medical Quarantine Lead, Assessment Officer, Sub-Site Chief, White Grave Site Command, and Central Archive |
 
 #### Archive Note
 Quarantine Assessment and Medical Staging Suites are the ninety-fifth main A.C.T technology expanded into an individual record. The Frost Hollow Depot dossier defines quarantine as the depot's central protocol: every item of incoming biological material is held under assessment until its status is confirmed, containment verified, and transfer authorized. The F-2 floor dossier identifies quarantine chambers, assessment laboratories, and medical staging suites as the operational heart of the depot.

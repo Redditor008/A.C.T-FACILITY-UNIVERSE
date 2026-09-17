@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - NARRATIVE SEAL VARNISH
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-011                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Narrative Seal Varnish                                      |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | NSV                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ARCHIVAL / DOCUMENT PROTECTION / INFO-HAZARD CONTROL        |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Archive Division / Engineering Division                     |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Info-Hazard, Containment, Site-03 Archive, Materials Desk   |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED APPLICATION                             |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF MISAPPLIED TO LIVE TEXT          |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for ordinary archive use; Level 4 for info-hazard   |
-|                            | documents, self-writing artifacts, and reapplication orders |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-011 |
+| TECHNOLOGY NAME | Narrative Seal Varnish |
+| SHORT NAME | NSV |
+| TECHNOLOGY FAMILY | ARCHIVAL / DOCUMENT PROTECTION / INFO-HAZARD CONTROL |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Archive Division / Engineering Division |
+| ATTACHED DIVISIONS | Info-Hazard, Containment, Site-03 Archive, Materials Desk |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED APPLICATION |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF MISAPPLIED TO LIVE TEXT |
+| CLEARANCE REQUIRED | Level 3 for ordinary archive use; Level 4 for info-hazard documents, self-writing artifacts, and reapplication orders |
 
-**Archive Status:** Active Archival Technology Record  
-**Distribution:** Archive / Info-Hazard / Site-03 / Engineering / Containment  
-**Authority:** Archive Division, Engineering Division, Info-Hazard Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Archival Technology Record |
+| DISTRIBUTION | Archive / Info-Hazard / Site-03 / Engineering / Containment |
+| AUTHORITY | Archive Division, Engineering Division, Info-Hazard Division, and Central Archive |
 
 #### Archive Note
 Narrative Seal Varnish is the eleventh main A.C.T technology expanded into an individual record. The Master Catalog defines it as a protective chemical coating for physical documents that stabilizes ink-presence against auto-redaction and archival-spite effects. The visual guide describes a pressurized spray canister with a digital precision nozzle, surface-tension gauge, remaining-volume display, estimated narrative half-life readout, a clear ozone-and-old-paper liquid, and a matte invisible finish. AFD-OB-142 Book of Hero uses NSV on the cover and existing pages to stabilize ink and prevent external editing. AFD-IH-721 DONT DENIED uses NSV because describing the object can create dangerous certainty, and the experiment dossier records varnish use so that describing the hazard does not spread it beyond authorized review.

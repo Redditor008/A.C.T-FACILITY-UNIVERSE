@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - ARCTIC COLD-STORAGE COVER AND SILENT MOVEMENT SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-096                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Arctic Cold-Storage Cover and Silent Movement System        |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | ACSCSMS                                                     |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ARCTIC COVER / RECEIVING LOGISTICS / SILENT MATERIAL FLOW  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | FROST HOLLOW DEPOT F-3 SURFACE COVER AND TRANSITION LEVEL  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Facility Manager / Security Boundary Lead                   |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Security, Administration, Medical Quarantine, Logistics     |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / COVER AND TRANSITION USE                           |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | COVER BREACH / RECEIVING-PATTERN EXPOSURE / ROUTE NOISE    |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for transition work; Level 4 for silent movement,   |
-|                            | surface sealing, or hazardous material disappearance action |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-096 |
+| TECHNOLOGY NAME | Arctic Cold-Storage Cover and Silent Movement System |
+| SHORT NAME | ACSCSMS |
+| TECHNOLOGY FAMILY | ARCTIC COVER / RECEIVING LOGISTICS / SILENT MATERIAL FLOW |
+| ORIGIN | FROST HOLLOW DEPOT F-3 SURFACE COVER AND TRANSITION LEVEL |
+| PRIMARY CONTROLLER | Facility Manager / Security Boundary Lead |
+| ATTACHED DIVISIONS | Security, Administration, Medical Quarantine, Logistics |
+| OPERATIONAL STATUS | ACTIVE / COVER AND TRANSITION USE |
+| RISK STATUS | COVER BREACH / RECEIVING-PATTERN EXPOSURE / ROUTE NOISE |
+| CLEARANCE REQUIRED | Level 3 for transition work; Level 4 for silent movement, surface sealing, or hazardous material disappearance action |
 
-**Archive Status:** Active Arctic Cover Logistics Technology Record
-**Distribution:** Frost Hollow Depot / White Grave Station / Security / Administration / Medical Quarantine / Logistics
-**Authority:** Facility Manager, Security Boundary Lead, Sub-Site Chief, White Grave Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Arctic Cover Logistics Technology Record |
+| DISTRIBUTION | Frost Hollow Depot / White Grave Station / Security / Administration / Medical Quarantine / Logistics |
+| AUTHORITY | Facility Manager, Security Boundary Lead, Sub-Site Chief, White Grave Site Command, and Central Archive |
 
 #### Archive Note
 Arctic Cold-Storage Cover and Silent Movement System is the ninety-sixth main A.C.T technology expanded into an individual record. The Frost Hollow Depot dossier identifies the depot's cover as an arctic cold-storage and quarantine facility, a natural identity in the far north. The F-3 floor dossier identifies receiving areas, legitimate cold-storage and quarantine-capable structures, administrative spaces, and concealed transition architecture. It also records Silent Movement Doctrine: hazardous biological material must pass through receiving operations without disturbing the cover or transport schedule.

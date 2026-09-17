@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - WATER-CAPABLE CONTAINMENT CHAMBERS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-064                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Water-Capable Containment Chambers                          |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | WCCC                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | MARITIME CONTAINMENT / AQUATIC ENVIRONMENTAL HOLDING       |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY MARITIME HOLDING STANDARD              |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Containment Division / Maritime-Hold Command                |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Recovery, Research, Medical, Security, Seismic Analysis     |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / WATER-DEPENDENT RESIDENT USE                       |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | AQUATIC BREACH / ENVIRONMENTAL COLLAPSE RISK                |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for routine chamber support; Level 4 for resident   |
-|                            | access, transfer, environmental alteration, or breach use   |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-064 |
+| TECHNOLOGY NAME | Water-Capable Containment Chambers |
+| SHORT NAME | WCCC |
+| TECHNOLOGY FAMILY | MARITIME CONTAINMENT / AQUATIC ENVIRONMENTAL HOLDING |
+| ORIGIN | NUSANTARA DEEP RELAY MARITIME HOLDING STANDARD |
+| PRIMARY CONTROLLER | Containment Division / Maritime-Hold Command |
+| ATTACHED DIVISIONS | Recovery, Research, Medical, Security, Seismic Analysis |
+| OPERATIONAL STATUS | ACTIVE / WATER-DEPENDENT RESIDENT USE |
+| RISK STATUS | AQUATIC BREACH / ENVIRONMENTAL COLLAPSE RISK |
+| CLEARANCE REQUIRED | Level 3 for routine chamber support; Level 4 for resident access, transfer, environmental alteration, or breach use |
 
-**Archive Status:** Active Maritime Containment Technology Record
-**Distribution:** Containment / Recovery / Research / Medical / Security / Nusantara Deep Relay
-**Authority:** Maritime-Hold Command, Nusantara Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Maritime Containment Technology Record |
+| DISTRIBUTION | Containment / Recovery / Research / Medical / Security / Nusantara Deep Relay |
+| AUTHORITY | Maritime-Hold Command, Nusantara Site Command, and Central Archive |
 
 #### Archive Note
 Water-Capable Containment Chambers are the sixty-fourth main A.C.T technology expanded into an individual record. The Nusantara Deep Relay site dossier identifies water-capable containment as a core holding system for maritime anomalies, deep-sea organisms, island-recovered material, and marine-dependent residents. The F-3 Maritime and Island Holding Level dossier states that the floor's defining infrastructure is water-capable containment chambers and pressure-rated environments, developed as the relay's standard response to material shaped by the sea. The Death Angler file identifies AFD-NB-964 as housed in a Blind Box Abyssal Aquarium under water-capable, pressure-rated, continuously monitored conditions.

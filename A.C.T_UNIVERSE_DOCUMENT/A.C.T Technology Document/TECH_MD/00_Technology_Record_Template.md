@@ -1,35 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ## TECHNOLOGY RECORD TEMPLATE
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-000 or TECH-GOI-000-0                                             |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            |                                                             |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 |                                                             |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | CONTAINMENT / MEDICAL / FIELD / ARCHIVAL / INFRASTRUCTURE  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T / GOI / RECOVERED / HYBRID / UNKNOWN                 |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         |                                                             |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         |                                                             |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / TRIAL / QUARANTINED / RETIRED        |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | LOW / CONTROLLED / HAZARDOUS / HOSTILE-USE / UNKNOWN       |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         |                                                             |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-000 or TECH-GOI-000-0 |
+| TECHNOLOGY NAME |  |
+| SHORT NAME |  |
+| TECHNOLOGY FAMILY | CONTAINMENT / MEDICAL / FIELD / ARCHIVAL / INFRASTRUCTURE |
+| ORIGIN | A.C.T / GOI / RECOVERED / HYBRID / UNKNOWN |
+| PRIMARY CONTROLLER |  |
+| ATTACHED DIVISIONS |  |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / TRIAL / QUARANTINED / RETIRED |
+| RISK STATUS | LOW / CONTROLLED / HAZARDOUS / HOSTILE-USE / UNKNOWN |
+| CLEARANCE REQUIRED |  |
 
-**Archive Status:** Template Record  
-**Distribution:** Technology Archive Staff / File Authors  
-**Authority:** Central Archive and attached technical division
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Template Record |
+| DISTRIBUTION | Technology Archive Staff / File Authors |
+| AUTHORITY | Central Archive and attached technical division |
 
 ### Required Sections
 

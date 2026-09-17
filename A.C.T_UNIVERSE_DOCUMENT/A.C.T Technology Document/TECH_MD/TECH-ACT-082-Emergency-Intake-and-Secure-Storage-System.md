@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - EMERGENCY INTAKE AND SECURE STORAGE SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-082                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Emergency Intake and Secure Storage System                  |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | EISSS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | EMERGENCY INTAKE / TEMPORARY STORAGE / COASTAL TRANSFER    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | ASH TIDE WATCHPOINT F-1 INTAKE LEVEL                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Watch Chief / Intake Officer                                |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Recovery Support, Security, Limited Medical, Logistics      |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / TEMPORARY INTAKE USE                               |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | TRANSIENT HOLDING / INTAKE BREACH / TRANSFER DELAY RISK     |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for readiness support; Level 4 for live intake,     |
-|                            | secure storage override, or F-1 closure authority           |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-082 |
+| TECHNOLOGY NAME | Emergency Intake and Secure Storage System |
+| SHORT NAME | EISSS |
+| TECHNOLOGY FAMILY | EMERGENCY INTAKE / TEMPORARY STORAGE / COASTAL TRANSFER |
+| ORIGIN | ASH TIDE WATCHPOINT F-1 INTAKE LEVEL |
+| PRIMARY CONTROLLER | Watch Chief / Intake Officer |
+| ATTACHED DIVISIONS | Recovery Support, Security, Limited Medical, Logistics |
+| OPERATIONAL STATUS | ACTIVE / TEMPORARY INTAKE USE |
+| RISK STATUS | TRANSIENT HOLDING / INTAKE BREACH / TRANSFER DELAY RISK |
+| CLEARANCE REQUIRED | Level 3 for readiness support; Level 4 for live intake, secure storage override, or F-1 closure authority |
 
-**Archive Status:** Active Emergency Intake Technology Record
-**Distribution:** Recovery Support / Security / Limited Medical / Nusantara Deep Relay / Ash Tide Watchpoint
-**Authority:** Watch Chief, Intake Officer, Nusantara Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Emergency Intake Technology Record |
+| DISTRIBUTION | Recovery Support / Security / Limited Medical / Nusantara Deep Relay / Ash Tide Watchpoint |
+| AUTHORITY | Watch Chief, Intake Officer, Nusantara Site Command, and Central Archive |
 
 #### Archive Note
 Emergency Intake and Secure Storage System is the eighty-second main A.C.T technology expanded into an individual record. The Ash Tide Watchpoint sub-site dossier identifies hidden emergency intake capability as one of the watchpoint's defining features. The F-1 Emergency Intake and Secure Storage floor dossier states that the deepest level contains the hidden intake bay, secure storage units, personnel reception and stabilization space, transfer preparation area, command post, and documentation alcove.

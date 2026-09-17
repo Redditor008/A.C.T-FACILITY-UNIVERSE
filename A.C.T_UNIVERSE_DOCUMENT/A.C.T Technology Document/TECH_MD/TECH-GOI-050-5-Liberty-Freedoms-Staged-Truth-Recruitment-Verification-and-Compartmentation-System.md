@@ -1,27 +1,14 @@
 # TECH-GOI-050-5 - LIBERTY FREEDOMS STAGED-TRUTH RECRUITMENT VERIFICATION AND COMPARTMENTATION SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-050-5                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Liberty Freedoms Staged-Truth Recruitment Verification and  |
-|                            | Compartmentation System                                     |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Staged Truth / True Fragment / Gate Screening               |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Liberty Freedoms                                            |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Reconstructed from returnee and captured-defector           |
-|                            | interviews; no captured recruitment manual held             |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Insider-approach detection, vulnerability-profile analysis, |
-|                            | defector credibility assessment, witness-chain control      |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | DEFECTOR-IDENTITY RESTRICTED / GATE-CELL SOURCE CONTROL     |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-050-5 |
+| TECHNOLOGY NAME | Liberty Freedoms Staged-Truth Recruitment Verification and Compartmentation System |
+| COMMON ABBREVIATIONS | Staged Truth / True Fragment / Gate Screening |
+| ORIGIN | Liberty Freedoms |
+| ACQUISITION STATUS | Reconstructed from returnee and captured-defector interviews; no captured recruitment manual held |
+| PRIMARY A.C.T INTEREST | Insider-approach detection, vulnerability-profile analysis, defector credibility assessment, witness-chain control |
+| ARCHIVE HANDLING | DEFECTOR-IDENTITY RESTRICTED / GATE-CELL SOURCE CONTROL |
 
 ## Functional Identity
 

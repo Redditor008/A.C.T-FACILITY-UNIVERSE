@@ -1,45 +1,27 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - MERCY LOCK GENTLE LOCK SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-071-1                                             |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Mercy Lock Gentle Lock System                              |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | ML-GLS                                                      |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | MEDICAL CONTAINMENT / NONVIOLENT RESTRAINT ARCHITECTURE    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | GOI-HY-P-071 / HYBRID / PARTIALLY COOPERATED               |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Mercy Lock Institute                                        |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T CUSTODY STATUS       | LIMITED ACCESS / INSPECTED COMPONENTS / NO FULL SCHEMATIC  |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Medical / Containment / Subject Care / Engineering / Legal  |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE IN GOI WARDS / RESTRICTED A.C.T FIELD REVIEW        |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HOSTILE-USE IF MODIFIED                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY USE                | Patient-specific restraint of harmful manifestations while  |
-|                            | preserving communication, breath, dignity, and emergency    |
-|                            | release capability                                          |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN VARIANTS             | Blue Lock, White Lock, Green Lock, Grey Lock, Black Lock,   |
-|                            | and Red Lock failure-review configurations                  |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for living patient tuning, override        |
-|                            | language, ward maps, and failed lock construction notes     |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-071-1 |
+| TECHNOLOGY NAME | Mercy Lock Gentle Lock System |
+| SHORT NAME | ML-GLS |
+| TECHNOLOGY FAMILY | MEDICAL CONTAINMENT / NONVIOLENT RESTRAINT ARCHITECTURE |
+| ORIGIN | GOI-HY-P-071 / HYBRID / PARTIALLY COOPERATED |
+| PRIMARY CONTROLLER | Mercy Lock Institute |
+| A.C.T CUSTODY STATUS | LIMITED ACCESS / INSPECTED COMPONENTS / NO FULL SCHEMATIC |
+| ATTACHED DIVISIONS | Medical / Containment / Subject Care / Engineering / Legal |
+| OPERATIONAL STATUS | ACTIVE IN GOI WARDS / RESTRICTED A.C.T FIELD REVIEW |
+| RISK STATUS | CONTROLLED / HOSTILE-USE IF MODIFIED |
+| PRIMARY USE | Patient-specific restraint of harmful manifestations while preserving communication, breath, dignity, and emergency release capability |
+| KNOWN VARIANTS | Blue Lock, White Lock, Green Lock, Grey Lock, Black Lock, and Red Lock failure-review configurations |
+| CLEARANCE REQUIRED | Level 4; Level 5 for living patient tuning, override language, ward maps, and failed lock construction notes |
 
-**Archive Status:** Active Restricted Technology Record  
-**Distribution:** Medical / Containment / Subject Care / Engineering / Legal / Intelligence / Command  
-**Authority:** Medical Division, Containment Division, Engineering Division, Legal Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Technology Record |
+| DISTRIBUTION | Medical / Containment / Subject Care / Engineering / Legal / Intelligence / Command |
+| AUTHORITY | Medical Division, Containment Division, Engineering Division, Legal Division, and Central Archive |
 
 #### Archive Note
 The Mercy Lock Gentle Lock System is a GOI-origin nonviolent containment technology used by Mercy Lock Institute in abnormal-care wards. It is not a single padlock. It is a room-and-door interface, restraint philosophy, patient-specific tuning process, emergency release method, and staff behavior standard arranged around one technical principle: restrict the harmful manifestation before restricting the whole person. A.C.T uses the designation TECH-GOI-071-1 because the system recurs across multiple Mercy Lock wards and is now relevant to A.C.T transfer planning, medical containment design, patient-rights review, and future technology-document development.

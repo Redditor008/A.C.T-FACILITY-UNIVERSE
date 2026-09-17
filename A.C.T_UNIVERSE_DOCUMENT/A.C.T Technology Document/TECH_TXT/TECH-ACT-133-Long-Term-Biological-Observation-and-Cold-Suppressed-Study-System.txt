@@ -1,17 +1,31 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - LONG-TERM BIOLOGICAL OBSERVATION AND COLD-SUPPRESSED STUDY SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-133
-TECHNOLOGY NAME: Long-Term Biological Observation and Cold-Suppressed Study System
-SHORT NAME: LTBOCSS
-TECHNOLOGY FAMILY: BIOLOGICAL STUDY / LONG OBSERVATION / COLD RESEARCH
-ORIGIN: WHITE GRAVE STATION F-4 RESEARCH AND BIOLOGICAL STUDY
-PRIMARY CONTROLLER: Floor Research Chief / Research Division
-ATTACHED DIVISIONS: Research, Medical, Containment, Security, Archive
-OPERATIONAL STATUS: ACTIVE / CONTROLLED LONG-DURATION BIOLOGICAL STUDY
-RISK STATUS: SAMPLE-CONTROL BREACH / COLD-CONDITION DRIFT / DATA LOSS
-CLEARANCE REQUIRED: Program-specific research authorization and resident restriction-set authority
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-133                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Long-Term Biological Observation and Cold-Suppressed Study  |
+|                            | System                                                      |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | LTBOCSS                                                     |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | BIOLOGICAL STUDY / LONG OBSERVATION / COLD RESEARCH         |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | WHITE GRAVE STATION F-4 RESEARCH AND BIOLOGICAL STUDY       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Floor Research Chief / Research Division                    |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Research, Medical, Containment, Security, Archive           |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / CONTROLLED LONG-DURATION BIOLOGICAL STUDY          |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | SAMPLE-CONTROL BREACH / COLD-CONDITION DRIFT / DATA LOSS    |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Program-specific research authorization and resident        |
+|                            | restriction-set authority                                   |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active White Grave Research Technology Record
 Distribution: White Grave Station / Research / Medical / Containment / Security / Archive

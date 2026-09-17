@@ -1,68 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - AMAZOO CIRCUS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-HY-X-052                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Amazoo Circus                                               |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | Amazoo                                                      |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Amazoo Humanoid Circus; The Abandoned Attraction; Broken    |
-|                            | Ring target; unregistered anomalous humanoid collective     |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | HYBRID                                                      |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | NEGATIVE                                                    |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | REGIONAL                                                    |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | HANDLER                                                     |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 4                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | EXPOSURE-ACTIVE                                             |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | INFILTRATE / CONTAIN / DISMANTLE                           |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Grand Master Amazoo, POI-0507; uncaptured                   |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Unknown performers, handlers, audience plants, animal or    |
-|                            | humanoid acts, and possible escaped anomalous juveniles      |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Traveling fairground routes in and around Poland; prior and |
-|                            | future routes unresolved                                    |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Performance cages, anomalous humanoid attractions, audience |
-|                            | conditioning, emotional-siphoning performances              |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Former traveling fairground seized during Operation BIG TOP;|
-|                            | additional tents, wagons, cages, and routes unconfirmed     |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | Exploitation disguised as spectacle; pain converted into    |
-|                            | entertainment, control, and possible anomalous extraction    |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Targeted in Operation BIG TOP / Broken Ring after discovery |
-|                            | of AFD-SU-507 and other circus-linked harms                 |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | AFD-SU-507; Circus Monster diary dossiers; POI-0507         |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | FRAGMENTED - public circus erased; Grand Master uncaptured  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division / Subject Care Division               |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Site-Sub-[REDACTED]-PL-C with Regional Command support      |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3; Level 4 for POI-0507 pursuit and survivor routing  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-HY-X-052 |
+| COMMON NAME | Amazoo Circus |
+| SHORT NAME | Amazoo |
+| KNOWN ALIASES | Amazoo Humanoid Circus; The Abandoned Attraction; Broken Ring target; unregistered anomalous humanoid collective |
+| NATURE CLASS | HYBRID |
+| ALIGNMENT CLASS | NEGATIVE |
+| REACH CLASS | REGIONAL |
+| ANOMALOUS CAPABILITY | HANDLER |
+| THREAT LEVEL | 4 |
+| SECRECY RISK | EXPOSURE-ACTIVE |
+| A.C.T POSTURE | INFILTRATE / CONTAIN / DISMANTLE |
+| KNOWN LEADERSHIP | Grand Master Amazoo, POI-0507; uncaptured |
+| KNOWN MEMBERSHIP | Unknown performers, handlers, audience plants, animal or humanoid acts, and possible escaped anomalous juveniles |
+| PRIMARY ACTIVE REGION | Traveling fairground routes in and around Poland; prior and future routes unresolved |
+| KNOWN ASSETS | Performance cages, anomalous humanoid attractions, audience conditioning, emotional-siphoning performances |
+| KNOWN HOLDINGS | Former traveling fairground seized during Operation BIG TOP; additional tents, wagons, cages, and routes unconfirmed |
+| IDEOLOGY | Exploitation disguised as spectacle; pain converted into entertainment, control, and possible anomalous extraction |
+| HISTORY WITH A.C.T | Targeted in Operation BIG TOP / Broken Ring after discovery of AFD-SU-507 and other circus-linked harms |
+| ANOMALY CROSS-REFERENCE | AFD-SU-507; Circus Monster diary dossiers; POI-0507 |
+| CURRENT STATUS | FRAGMENTED - public circus erased; Grand Master uncaptured |
+| PRIMARY FILE AUTHORITY | Intelligence Division / Subject Care Division |
+| SITE JURISDICTION | Site-Sub-[REDACTED]-PL-C with Regional Command support |
+| CLEARANCE REQUIRED | Level 3; Level 4 for POI-0507 pursuit and survivor routing |
 
-**Archive Status:** Active Restricted Record / Survivor-Linked GOI
-**Distribution:** Subject Care Division, Intelligence Division, Tactical Containment, Regional Command, Medical Care as required
-**Authority:** Intelligence Division and Subject Care Division
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record / Survivor-Linked GOI |
+| DISTRIBUTION | Subject Care Division, Intelligence Division, Tactical Containment, Regional Command, Medical Care as required |
+| AUTHORITY | Intelligence Division and Subject Care Division |
 
 #### Archive Note
 Amazoo Circus is the GOI filing for the unregistered anomalous humanoid collective targeted during the A.C.T raid known as **Operation BIG TOP** and the follow-up containment frame **Broken Ring**. It is directly tied to AFD-SU-507, the subject currently filed as Circus Monster.

@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - ABYSSAL ANCHOR PLATING
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-034
-TECHNOLOGY NAME: Abyssal Anchor Plating
-SHORT NAME: AAP
-TECHNOLOGY FAMILY: HEAVY CONTAINMENT / ANCHOR PLATING / MASSIVE BOX STRUCTURE
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Engineering Division / Heavy Containment Structural Desk
-ATTACHED DIVISIONS: Abyss Floor, Site Command, Logistics, World-Scale Recovery
-OPERATIONAL STATUS: ACTIVE / HEAVY STRUCTURAL / MASSIVE BOX DEPLOYMENT
-RISK STATUS: CONTROLLED / LOAD-ANCHOR AND RESONANCE HAZARD
-CLEARANCE REQUIRED: Level 4 for installation; Level 5 for Massive Box design, tungsten-lattice layout, and anchor-load override
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-034                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Abyssal Anchor Plating                                      |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | AAP                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | HEAVY CONTAINMENT / ANCHOR PLATING / MASSIVE BOX STRUCTURE  |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Engineering Division / Heavy Containment Structural Desk    |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Abyss Floor, Site Command, Logistics, World-Scale Recovery  |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / HEAVY STRUCTURAL / MASSIVE BOX DEPLOYMENT          |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / LOAD-ANCHOR AND RESONANCE HAZARD               |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for installation; Level 5 for Massive Box design,   |
+|                            | tungsten-lattice layout, and anchor-load override           |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Heavy Containment Technology Record
 Distribution: Engineering / Heavy Containment / Abyss Floor / Site Command / Logistics / World-Scale Recovery

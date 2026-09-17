@@ -1,38 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - 004-SERIES AMNESTIC COMPOUND SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-004                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | 004-Series Amnestic Compound System                         |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | 004-SERIES / NEMNOLIA-LINEAGE AMNESTICS                     |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | MEDICAL / NORMALCY / MEMORY-CONTROL / TRANSFORMATION OUTPUT |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T / ANOMALY-DERIVED FROM AFD-NB-004                     |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Medical Care Division / Civil Covert Division               |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Transformation Review, Site Command, Subject Care, Archive, |
-|                            | Intelligence, Legal, Field Command, and Memory Review       |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / CONTROLLED PHARMACEUTICAL LINEAGE     |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | HAZARDOUS / CONTINUITY-INVASIVE IF MISUSED                  |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for grade review and administration; Level 5 for    |
-|                            | 004-A through 004-D, raw sap handling, refinement tables,    |
-|                            | and institutional misconduct review                         |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-004 |
+| TECHNOLOGY NAME | 004-Series Amnestic Compound System |
+| SHORT NAME | 004-SERIES / NEMNOLIA-LINEAGE AMNESTICS |
+| TECHNOLOGY FAMILY | MEDICAL / NORMALCY / MEMORY-CONTROL / TRANSFORMATION OUTPUT |
+| ORIGIN | A.C.T / ANOMALY-DERIVED FROM AFD-NB-004 |
+| PRIMARY CONTROLLER | Medical Care Division / Civil Covert Division |
+| ATTACHED DIVISIONS | Transformation Review, Site Command, Subject Care, Archive, Intelligence, Legal, Field Command, and Memory Review |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / CONTROLLED PHARMACEUTICAL LINEAGE |
+| RISK STATUS | HAZARDOUS / CONTINUITY-INVASIVE IF MISUSED |
+| CLEARANCE REQUIRED | Level 4 for grade review and administration; Level 5 for 004-A through 004-D, raw sap handling, refinement tables, and institutional misconduct review |
 
-**Archive Status:** Active Restricted Technology Record  
-**Distribution:** Medical Care / Civil Covert / Transformation Review / Subject Care / Archive / Site Command / Command  
-**Authority:** Medical Care Division, Civil Covert Division, Transformation Review Board, Memory Review, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Technology Record |
+| DISTRIBUTION | Medical Care / Civil Covert / Transformation Review / Subject Care / Archive / Site Command / Command |
+| AUTHORITY | Medical Care Division, Civil Covert Division, Transformation Review Board, Memory Review, and Central Archive |
 
 #### Archive Note
 The 004-Series Amnestic Compound System is the fourth main A.C.T technology expanded into an individual record under A.C.T-owned technology numbering. It is already present in the 004-Series Amnestic Compound Reference, the technological timeline, the master technology index, the visual reference guide, normalcy doctrine, personnel exposure doctrine, operational forms, and multiple anomaly case chains. The 004-series is one of the clearest examples of A.C.T transformation doctrine: a dangerous anomaly, AFD-NB-004 / NEMNOLIA, The Golden Veil, became a controlled memory-suppression system used to preserve secrecy, interrupt exposure, and manage witness continuity.

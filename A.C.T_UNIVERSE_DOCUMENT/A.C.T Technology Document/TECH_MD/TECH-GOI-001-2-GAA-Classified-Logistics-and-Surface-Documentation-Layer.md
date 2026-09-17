@@ -1,29 +1,14 @@
 # TECH-GOI-001-2 - GAA CLASSIFIED LOGISTICS AND SURFACE DOCUMENTATION LAYER
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-001-2                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | GAA Classified Logistics and Surface Documentation Layer    |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | GAA Logistics Layer / Surface Documentation Set / Protected |
-|                            | Route Cover                                                 |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Government Anti Anomaly                                     |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Cooperative liaison capability exercised under bounded task |
-|                            | authorization; routes varied deliberately between           |
-|                            | operations                                                  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Transport route protection, records-safe movement, cover    |
-|                            | plausibility, dependency-risk monitoring                    |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | GOVERNMENT-INTERFACE RESTRICTED / ACTIVE-ROUTE DISCLOSURE   |
-|                            | LIMIT                                                       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-001-2 |
+| TECHNOLOGY NAME | GAA Classified Logistics and Surface Documentation Layer |
+| COMMON ABBREVIATIONS | GAA Logistics Layer / Surface Documentation Set / Protected Route Cover |
+| ORIGIN | Government Anti Anomaly |
+| ACQUISITION STATUS | Cooperative liaison capability exercised under bounded task authorization; routes varied deliberately between operations |
+| PRIMARY A.C.T INTEREST | Transport route protection, records-safe movement, cover plausibility, dependency-risk monitoring |
+| ARCHIVE HANDLING | GOVERNMENT-INTERFACE RESTRICTED / ACTIVE-ROUTE DISCLOSURE LIMIT |
 
 ## Functional Identity
 

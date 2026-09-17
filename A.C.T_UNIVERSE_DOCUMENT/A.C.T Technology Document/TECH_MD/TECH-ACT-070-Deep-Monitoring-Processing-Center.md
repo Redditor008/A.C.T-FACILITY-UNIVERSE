@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - DEEP MONITORING PROCESSING CENTER
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-070                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Deep Monitoring Processing Center                           |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | DMPC                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | SEISMIC ANALYSIS / MONITORING OPERATIONS / RECORD ROUTING  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY F-2 RECORDS LEVEL                     |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Seismic Analysis Support / Records and Monitoring Chief     |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Archive, Research, Containment, Security, Site Command      |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / F-2 CONTROLLED USE                                 |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | MISROUTED WARNING / RECORD DELAY / FALSE REVIEW RISK        |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for live processing, review routing, and sealed     |
-|                            | observation handling                                        |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-070 |
+| TECHNOLOGY NAME | Deep Monitoring Processing Center |
+| SHORT NAME | DMPC |
+| TECHNOLOGY FAMILY | SEISMIC ANALYSIS / MONITORING OPERATIONS / RECORD ROUTING |
+| ORIGIN | NUSANTARA DEEP RELAY F-2 RECORDS LEVEL |
+| PRIMARY CONTROLLER | Seismic Analysis Support / Records and Monitoring Chief |
+| ATTACHED DIVISIONS | Archive, Research, Containment, Security, Site Command |
+| OPERATIONAL STATUS | ACTIVE / F-2 CONTROLLED USE |
+| RISK STATUS | MISROUTED WARNING / RECORD DELAY / FALSE REVIEW RISK |
+| CLEARANCE REQUIRED | Level 4 for live processing, review routing, and sealed observation handling |
 
-**Archive Status:** Active Monitoring-Operations Technology Record
-**Distribution:** Seismic Analysis / Archive / Research / Containment / Nusantara Deep Relay
-**Authority:** Records and Monitoring Chief, Seismic Analysis Support, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Monitoring-Operations Technology Record |
+| DISTRIBUTION | Seismic Analysis / Archive / Research / Containment / Nusantara Deep Relay |
+| AUTHORITY | Records and Monitoring Chief, Seismic Analysis Support, and Central Archive |
 
 #### Archive Note
 Deep Monitoring Processing Center is the seventieth main A.C.T technology expanded into an individual record. The F-2 Deep Monitoring and Restricted Records dossier identifies F-2 as the level where Nusantara's deepest observations are processed, recorded, distributed under sensitivity rules, and sealed where records demand it. The dossier identifies the monitoring processing center as the place where signals from the F-1 sensor nexus are processed, assessed, and distributed under records doctrine.

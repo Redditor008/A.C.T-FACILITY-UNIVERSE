@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - ECTOTHERMIC REGENERATION GEL
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-036                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Ectothermic Regeneration Gel                                |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | ERG                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | MEDICAL / REPTILIAN CARE / NB-CLASS TISSUE SUPPORT          |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Medical Division / Biological Subject Care Desk             |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Verde Null, Herpetology Review, Transformation Review       |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / MEDICAL SUPPORT / CASE-RESTRICTED                  |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / METABOLIC-ACCELERATION HAZARD                 |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for application; Level 4 for formulation access;    |
-|                            | Level 5 for transmutation-repair experimentation            |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-036 |
+| TECHNOLOGY NAME | Ectothermic Regeneration Gel |
+| SHORT NAME | ERG |
+| TECHNOLOGY FAMILY | MEDICAL / REPTILIAN CARE / NB-CLASS TISSUE SUPPORT |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Medical Division / Biological Subject Care Desk |
+| ATTACHED DIVISIONS | Verde Null, Herpetology Review, Transformation Review |
+| OPERATIONAL STATUS | ACTIVE / MEDICAL SUPPORT / CASE-RESTRICTED |
+| RISK STATUS | CONTROLLED / METABOLIC-ACCELERATION HAZARD |
+| CLEARANCE REQUIRED | Level 3 for application; Level 4 for formulation access; Level 5 for transmutation-repair experimentation |
 
-**Archive Status:** Active Biological Medical Technology Record  
-**Distribution:** Medical / Verde Null / Subject Care / Herpetology Review / Transformation Review  
-**Authority:** Medical Division, Biological Subject Care Desk, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Biological Medical Technology Record |
+| DISTRIBUTION | Medical / Verde Null / Subject Care / Herpetology Review / Transformation Review |
+| AUTHORITY | Medical Division, Biological Subject Care Desk, and Central Archive |
 
 #### Archive Note
 Ectothermic Regeneration Gel is the thirty-sixth main A.C.T technology expanded into an individual record. The Master Catalog identifies it as a specialized medical salve used to accelerate healing in NB-class transmutants, with Vivienne Argent and Grumblesail listed as references. The visual guide describes a thick translucent green slime stored in refrigerated tubs, fitted with an automated agitator disc in the lid to prevent anomalous separation, and emitting a strong medicinal mint scent. Vivienne Argent's files establish the care environment ERG was designed to support: transmuted reptilian biology, scale tension, thermal sensitivity, humidity dependence, shed cycles, and the need to treat a subject as a person rather than a specimen.

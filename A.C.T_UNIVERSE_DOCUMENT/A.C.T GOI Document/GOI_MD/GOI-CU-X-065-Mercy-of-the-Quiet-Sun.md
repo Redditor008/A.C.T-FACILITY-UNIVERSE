@@ -1,71 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - MERCY OF THE QUIET SUN
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-CU-X-065                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Mercy of the Quiet Sun                                      |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | MQS                                                         |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Quiet Sun Mercy; The Merciful Noon; Sun-Sleep Fellowship;   |
-|                            | The Soft Ending; [CENSOR: CLINIC-CHAPEL NAME]              |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | CULTIC                                                      |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | NEGATIVE                                                    |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | TRANSNATIONAL                                               |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | PRACTITIONER                                                |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 4                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | EXPOSURE-ACTIVE                                             |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | INFILTRATE / MISDIRECT / CONTAIN / DISMANTLE               |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Mercy Readers, Noon Nurses, Quiet Cantors, and an unverified|
-|                            | figure called the Warm Witness                              |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | End-believers, grief nurses, sedation handlers, hospice     |
-|                            | volunteers, failed-rescue survivors, and quieting families  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Transnational hospice routes, post-disaster shelters,       |
-|                            | closed clinics, care homes, survivor wards, and retreat sites|
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Quiet-sun liturgies, sedation teas, noon-room curtains,     |
-|                            | surrender cards, lull clocks, mercy ledgers, and sleep rites|
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Clinic-chapels, hospice rooms, retreat houses, white vans,  |
-|                            | sealed medicine cupboards, and quiet-noon wards             |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | If the end cannot be stopped, the final duty is to remove   |
-|                            | terror, pain, memory panic, and the violence of false hope  |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Repeated conflict over evacuation refusal, mass sedation,   |
-|                            | survivor disappearance, rescue obstruction, and mercy rites |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | Restricted apocalypse, sedation, hospice, surrender,        |
-|                            | post-disaster, amnestic, and survivor-care case chains      |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - negative apocalypse-mercy sect under containment   |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division / Medical Division / Subject Care     |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with Site 03, Site 05, and case Site review |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for active quieting formulae, child        |
-|                            | shelter cases, Warm Witness material, and mass-rite records |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-CU-X-065 |
+| COMMON NAME | Mercy of the Quiet Sun |
+| SHORT NAME | MQS |
+| KNOWN ALIASES | Quiet Sun Mercy; The Merciful Noon; Sun-Sleep Fellowship; The Soft Ending; [CENSOR: CLINIC-CHAPEL NAME] |
+| NATURE CLASS | CULTIC |
+| ALIGNMENT CLASS | NEGATIVE |
+| REACH CLASS | TRANSNATIONAL |
+| ANOMALOUS CAPABILITY | PRACTITIONER |
+| THREAT LEVEL | 4 |
+| SECRECY RISK | EXPOSURE-ACTIVE |
+| A.C.T POSTURE | INFILTRATE / MISDIRECT / CONTAIN / DISMANTLE |
+| KNOWN LEADERSHIP | Mercy Readers, Noon Nurses, Quiet Cantors, and an unverified figure called the Warm Witness |
+| KNOWN MEMBERSHIP | End-believers, grief nurses, sedation handlers, hospice volunteers, failed-rescue survivors, and quieting families |
+| PRIMARY ACTIVE REGION | Transnational hospice routes, post-disaster shelters, closed clinics, care homes, survivor wards, and retreat sites |
+| KNOWN ASSETS | Quiet-sun liturgies, sedation teas, noon-room curtains, surrender cards, lull clocks, mercy ledgers, and sleep rites |
+| KNOWN HOLDINGS | Clinic-chapels, hospice rooms, retreat houses, white vans, sealed medicine cupboards, and quiet-noon wards |
+| IDEOLOGY | If the end cannot be stopped, the final duty is to remove terror, pain, memory panic, and the violence of false hope |
+| HISTORY WITH A.C.T | Repeated conflict over evacuation refusal, mass sedation, survivor disappearance, rescue obstruction, and mercy rites |
+| ANOMALY CROSS-REFERENCE | Restricted apocalypse, sedation, hospice, surrender, post-disaster, amnestic, and survivor-care case chains |
+| CURRENT STATUS | ACTIVE - negative apocalypse-mercy sect under containment |
+| PRIMARY FILE AUTHORITY | Intelligence Division / Medical Division / Subject Care |
+| SITE JURISDICTION | Central Command with Site 03, Site 05, and case Site review |
+| CLEARANCE REQUIRED | Level 4; Level 5 for active quieting formulae, child shelter cases, Warm Witness material, and mass-rite records |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Intelligence / Medical / Subject Care / Recovery / Containment / Civil Covert / Command
-**Authority:** Intelligence Division, Medical Division, Subject Care Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Intelligence / Medical / Subject Care / Recovery / Containment / Civil Covert / Command |
+| AUTHORITY | Intelligence Division, Medical Division, Subject Care Division, and Central Archive |
 
 #### Archive Note
 Mercy of the Quiet Sun is the active cultic filing for an outside apocalypse-mercy sect that believes some endings cannot be prevented and that the only moral response is to make the ending gentle. The group is not Last Bell Congregation, not Children of the Deep, not a normal hospice charity, not a single death cult, and not a medical company. It qualifies as a Group of Interest because it has transnational cells, rites, care sites, sedation materials, recruitment pathways, leadership titles, doctrine, and a repeated ability to obstruct rescue, containment, evacuation, and survivor aftercare.

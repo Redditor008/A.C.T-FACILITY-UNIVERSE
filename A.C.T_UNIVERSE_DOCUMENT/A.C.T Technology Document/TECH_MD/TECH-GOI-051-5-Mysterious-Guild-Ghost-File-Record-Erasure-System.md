@@ -1,28 +1,14 @@
 # TECH-GOI-051-5 - MYSTERIOUS GUILD GHOST FILE RECORD ERASURE SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-051-5                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Mysterious Guild Ghost File Record Erasure System           |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Ghost File / Guild Ghost File System / Public Record        |
-|                            | Erasure Layer                                               |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Mysterious Guild                                            |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Recovered archive references and VESPER-linked evidence; no |
-|                            | controlled instance in A.C.T custody                        |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Identity restoration, archive defense, public-record        |
-|                            | contamination, future-origin censorship analysis            |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | GUILD ARCHIVE RESTRICTED / CENTRAL ARCHIVE AND SUBJECT CARE |
-|                            | REVIEW                                                      |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-051-5 |
+| TECHNOLOGY NAME | Mysterious Guild Ghost File Record Erasure System |
+| COMMON ABBREVIATIONS | Ghost File / Guild Ghost File System / Public Record Erasure Layer |
+| ORIGIN | Mysterious Guild |
+| ACQUISITION STATUS | Recovered archive references and VESPER-linked evidence; no controlled instance in A.C.T custody |
+| PRIMARY A.C.T INTEREST | Identity restoration, archive defense, public-record contamination, future-origin censorship analysis |
+| ARCHIVE HANDLING | GUILD ARCHIVE RESTRICTED / CENTRAL ARCHIVE AND SUBJECT CARE REVIEW |
 
 ## Functional Identity
 

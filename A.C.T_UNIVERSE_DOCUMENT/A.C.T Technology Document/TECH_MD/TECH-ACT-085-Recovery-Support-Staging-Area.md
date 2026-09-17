@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - RECOVERY SUPPORT STAGING AREA
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-085                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Recovery Support Staging Area                               |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | RSSA                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | RECOVERY STAGING / SEA-ENTRY COORDINATION / INTAKE SUPPORT |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | ASH TIDE WATCHPOINT F-2 RECOVERY STAGING AREA              |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Watch Officer / Recovery Support Lead                       |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Recovery Support, Watch Coordination, Security, Intake      |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / STANDBY RECOVERY USE                               |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | PREMATURE LAUNCH / ROUTE CONFUSION / INTAKE OVERLOAD RISK   |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for staging duty; Level 4 for active recovery       |
-|                            | launch, emergency intake handoff, or parent-relay override  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-085 |
+| TECHNOLOGY NAME | Recovery Support Staging Area |
+| SHORT NAME | RSSA |
+| TECHNOLOGY FAMILY | RECOVERY STAGING / SEA-ENTRY COORDINATION / INTAKE SUPPORT |
+| ORIGIN | ASH TIDE WATCHPOINT F-2 RECOVERY STAGING AREA |
+| PRIMARY CONTROLLER | Watch Officer / Recovery Support Lead |
+| ATTACHED DIVISIONS | Recovery Support, Watch Coordination, Security, Intake |
+| OPERATIONAL STATUS | ACTIVE / STANDBY RECOVERY USE |
+| RISK STATUS | PREMATURE LAUNCH / ROUTE CONFUSION / INTAKE OVERLOAD RISK |
+| CLEARANCE REQUIRED | Level 3 for staging duty; Level 4 for active recovery launch, emergency intake handoff, or parent-relay override |
 
-**Archive Status:** Active Recovery Staging Technology Record
-**Distribution:** Recovery Support / Watch Staff / Security / Intake / Nusantara Deep Relay / Ash Tide Watchpoint
-**Authority:** Watch Officer, Recovery Support Lead, Intake Officer, Nusantara Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Recovery Staging Technology Record |
+| DISTRIBUTION | Recovery Support / Watch Staff / Security / Intake / Nusantara Deep Relay / Ash Tide Watchpoint |
+| AUTHORITY | Watch Officer, Recovery Support Lead, Intake Officer, Nusantara Site Command, and Central Archive |
 
 #### Archive Note
 Recovery Support Staging Area is the eighty-fifth main A.C.T technology expanded into an individual record. The F-2 Operations and Watch Level dossier identifies the staging area as one of the floor's core spaces: the place that coordinates recovery support, vessel operations, sea-entry coordination, and the staging of recovery operations that route their results through F-1 Emergency Intake and Secure Storage.

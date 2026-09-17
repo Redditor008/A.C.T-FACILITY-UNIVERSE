@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - MARITIME PLATFORM CONTAINMENT INFRASTRUCTURE
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-066                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Maritime Platform Containment Infrastructure                |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | MPCI                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | MARITIME RECOVERY / MOBILE CONTAINMENT / PORT INTEGRATION  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY MARITIME RECOVERY NETWORK             |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Recovery Division / Maritime Recovery Command              |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Containment, Security, Research, Seismic Analysis, Cover    |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / VESSEL AND SUBMERSIBLE PLATFORM USE               |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | FIELD BREACH / COVER FAILURE / SEA-TRANSFER RISK            |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for platform support; Level 4 for anomaly transfer, |
-|                            | submersible containment, or hostile maritime response       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-066 |
+| TECHNOLOGY NAME | Maritime Platform Containment Infrastructure |
+| SHORT NAME | MPCI |
+| TECHNOLOGY FAMILY | MARITIME RECOVERY / MOBILE CONTAINMENT / PORT INTEGRATION |
+| ORIGIN | NUSANTARA DEEP RELAY MARITIME RECOVERY NETWORK |
+| PRIMARY CONTROLLER | Recovery Division / Maritime Recovery Command |
+| ATTACHED DIVISIONS | Containment, Security, Research, Seismic Analysis, Cover |
+| OPERATIONAL STATUS | ACTIVE / VESSEL AND SUBMERSIBLE PLATFORM USE |
+| RISK STATUS | FIELD BREACH / COVER FAILURE / SEA-TRANSFER RISK |
+| CLEARANCE REQUIRED | Level 3 for platform support; Level 4 for anomaly transfer, submersible containment, or hostile maritime response |
 
-**Archive Status:** Active Maritime Recovery Technology Record
-**Distribution:** Recovery / Containment / Security / Nusantara Deep Relay / Maritime Field Commands
-**Authority:** Maritime Recovery Command, Nusantara Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Maritime Recovery Technology Record |
+| DISTRIBUTION | Recovery / Containment / Security / Nusantara Deep Relay / Maritime Field Commands |
+| AUTHORITY | Maritime Recovery Command, Nusantara Site Command, and Central Archive |
 
 #### Archive Note
 Maritime Platform Containment Infrastructure is the sixty-sixth main A.C.T technology expanded into an individual record. The Nusantara Deep Relay site dossier states that the site maintains maritime platform infrastructure, specialized vessels, submersible platforms, port facilities, water-capable containment, pressure-rated systems, RSA and ARM coverage, and sea-bound recovery doctrine. The F-3 Maritime and Island Holding Level dossier confirms that the relay's maritime holdings are not limited to one floor: water-capable containment exists in the port facility and aboard specialized vessels as well as in the island's built levels.

@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - CONTROLLED READING AND REDACTION WORKROOM SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-098                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Controlled Reading and Redaction Workroom System            |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | CRRWS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | CONTROLLED READING / REDACTION BUFFER / REVIEW STAGING     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | SILENT REED ANNEX F-2 REVIEW AND REDACTION LEVEL           |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Review Officer / Redaction Lead                             |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Archive, Intelligence, Limited Medical Cognitive Staff      |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / SUPERVISED REVIEW USE                              |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | SOLO EXPOSURE / BAD REDACTION / REVIEW CONTAMINATION RISK   |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for controlled review; Level 4 for active memetic   |
-|                            | cycle work, redaction release, or parent-node exception     |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-098 |
+| TECHNOLOGY NAME | Controlled Reading and Redaction Workroom System |
+| SHORT NAME | CRRWS |
+| TECHNOLOGY FAMILY | CONTROLLED READING / REDACTION BUFFER / REVIEW STAGING |
+| ORIGIN | SILENT REED ANNEX F-2 REVIEW AND REDACTION LEVEL |
+| PRIMARY CONTROLLER | Review Officer / Redaction Lead |
+| ATTACHED DIVISIONS | Archive, Intelligence, Limited Medical Cognitive Staff |
+| OPERATIONAL STATUS | ACTIVE / SUPERVISED REVIEW USE |
+| RISK STATUS | SOLO EXPOSURE / BAD REDACTION / REVIEW CONTAMINATION RISK |
+| CLEARANCE REQUIRED | Level 3 for controlled review; Level 4 for active memetic cycle work, redaction release, or parent-node exception |
 
-**Archive Status:** Active Controlled Review Technology Record
-**Distribution:** Silent Reed Annex / Kurokawa Archive Node / Archive / Intelligence / Cognitive Medical
-**Authority:** Review Officer, Redaction Lead, Sub-Site Chief, Kurokawa Archive Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Controlled Review Technology Record |
+| DISTRIBUTION | Silent Reed Annex / Kurokawa Archive Node / Archive / Intelligence / Cognitive Medical |
+| AUTHORITY | Review Officer, Redaction Lead, Sub-Site Chief, Kurokawa Archive Command, and Central Archive |
 
 #### Archive Note
 Controlled Reading and Redaction Workroom System is the ninety-eighth main A.C.T technology expanded into an individual record. The Silent Reed Annex dossier identifies F-2 as the annex's operational heart: controlled-reading cells, redaction workrooms, and review staging areas where buffered material is assessed. It also states that no solo review shifts are authorized during active memetic contamination cycles.

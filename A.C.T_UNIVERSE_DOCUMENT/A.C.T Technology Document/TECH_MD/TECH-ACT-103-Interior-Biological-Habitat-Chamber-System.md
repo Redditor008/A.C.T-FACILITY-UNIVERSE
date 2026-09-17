@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - INTERIOR BIOLOGICAL HABITAT CHAMBER SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-103                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Interior Biological Habitat Chamber System                  |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | IBHCS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | BUILT BIOLOGICAL HOLDING / CLIMATE CHAMBER / HABITAT       |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | VERDE NULL BIO-RESERVE F-2 INTERIOR BIOLOGICAL HOLDING     |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | F-2 Holding Officer / Environmental Containment Liaison     |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Research, Environmental Containment, Medical, Security      |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / INTERIOR BIOLOGICAL HOLDING USE                    |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | HABITAT MISMATCH / TRANSFER INSTABILITY / ENVIRONMENT RISK |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for chamber duty; Level 4 for habitat redesign,     |
-|                            | downward escalation, open-sector transfer, or resident move |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-103 |
+| TECHNOLOGY NAME | Interior Biological Habitat Chamber System |
+| SHORT NAME | IBHCS |
+| TECHNOLOGY FAMILY | BUILT BIOLOGICAL HOLDING / CLIMATE CHAMBER / HABITAT |
+| ORIGIN | VERDE NULL BIO-RESERVE F-2 INTERIOR BIOLOGICAL HOLDING |
+| PRIMARY CONTROLLER | F-2 Holding Officer / Environmental Containment Liaison |
+| ATTACHED DIVISIONS | Research, Environmental Containment, Medical, Security |
+| OPERATIONAL STATUS | ACTIVE / INTERIOR BIOLOGICAL HOLDING USE |
+| RISK STATUS | HABITAT MISMATCH / TRANSFER INSTABILITY / ENVIRONMENT RISK |
+| CLEARANCE REQUIRED | Level 3 for chamber duty; Level 4 for habitat redesign, downward escalation, open-sector transfer, or resident move |
 
-**Archive Status:** Active Built Biological Holding Technology Record
-**Distribution:** Verde Null Bio-Reserve / Research / Environmental Containment / Medical / Security
-**Authority:** F-2 Holding Officer, Environmental Containment Liaison, Verde Null Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Built Biological Holding Technology Record |
+| DISTRIBUTION | Verde Null Bio-Reserve / Research / Environmental Containment / Medical / Security |
+| AUTHORITY | F-2 Holding Officer, Environmental Containment Liaison, Verde Null Site Command, and Central Archive |
 
 #### Archive Note
 Interior Biological Habitat Chamber System is the one-hundred-third main A.C.T technology expanded into an individual record. The Verde Null Bio-Reserve F-2 dossier identifies Interior Biological Holding as the reserve's built containment floor for non-natural organisms requiring close-controlled study, biological material requiring environmental conditions the wilderness cannot provide, and residents held in climate-controlled chambers, containment habitats, and specialized environment chambers.

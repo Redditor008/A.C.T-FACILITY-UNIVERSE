@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - REINFORCED IRON CAGING
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-054
-TECHNOLOGY NAME: Reinforced Iron Caging
-SHORT NAME: RIC
-TECHNOLOGY FAMILY: LEGACY HEAVY CONTAINMENT / MASSIVE BOX PRECURSOR
-ORIGIN: A.C.T FOUNDATIONAL ERA, 1860s
-PRIMARY CONTROLLER: Historical Engineering Archive / Heavy Containment
-ATTACHED DIVISIONS: Engineering, Containment, Site Safety, Archive
-OPERATIONAL STATUS: RETIRED / HISTORICAL FRAMEWORK / LIMITED LEGACY PRESENCE
-RISK STATUS: STRUCTURAL FAILURE / HUMANE-CONTAINMENT REVIEW REQUIRED
-CLEARANCE REQUIRED: Level 3 for archive review; Level 4 for surviving cage access, retrofit, or resident-adjacent inspection
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-054                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Reinforced Iron Caging                                      |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | RIC                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | LEGACY HEAVY CONTAINMENT / MASSIVE BOX PRECURSOR            |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T FOUNDATIONAL ERA, 1860s                               |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Historical Engineering Archive / Heavy Containment          |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Engineering, Containment, Site Safety, Archive              |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | RETIRED / HISTORICAL FRAMEWORK / LIMITED LEGACY PRESENCE    |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | STRUCTURAL FAILURE / HUMANE-CONTAINMENT REVIEW REQUIRED     |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for archive review; Level 4 for surviving cage      |
+|                            | access, retrofit, or resident-adjacent inspection           |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Retired Heavy Containment Technology Record
 Distribution: Historical Engineering Archive / Heavy Containment / Engineering / Site Safety / Archive

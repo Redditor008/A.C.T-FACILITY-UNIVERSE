@@ -1,39 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - OPERATIONAL ARCHIVE TRAINING AND DOCTRINE PREPARATION SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-116                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Operational Archive Training and Doctrine Preparation       |
-|                            | System                                                      |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | OATDPS                                                      |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | TRAINING / ARCHIVE DOCTRINE / PERSONNEL PREPARATION         |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | KUROKAWA ARCHIVE NODE F-7 PERSONNEL AND ADMINISTRATIVE     |
-|                            | LEVEL                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Training Office / Node Administration                       |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Administration, Archive, Security, Research, Medical,       |
-|                            | Command                                                     |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / CONTROLLED TRAINING AND DOCTRINE PREPARATION       |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | PREPARATION FAILURE / DOCTRINE MISUSE / EXPOSURE BY TRAINING|
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for training participation; Level 4 for operational |
-|                            | archive instructor duty or doctrine alteration              |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-116 |
+| TECHNOLOGY NAME | Operational Archive Training and Doctrine Preparation System |
+| SHORT NAME | OATDPS |
+| TECHNOLOGY FAMILY | TRAINING / ARCHIVE DOCTRINE / PERSONNEL PREPARATION |
+| ORIGIN | KUROKAWA ARCHIVE NODE F-7 PERSONNEL AND ADMINISTRATIVE LEVEL |
+| PRIMARY CONTROLLER | Training Office / Node Administration |
+| ATTACHED DIVISIONS | Administration, Archive, Security, Research, Medical, Command |
+| OPERATIONAL STATUS | ACTIVE / CONTROLLED TRAINING AND DOCTRINE PREPARATION |
+| RISK STATUS | PREPARATION FAILURE / DOCTRINE MISUSE / EXPOSURE BY TRAINING |
+| CLEARANCE REQUIRED | Level 3 for training participation; Level 4 for operational archive instructor duty or doctrine alteration |
 
-**Archive Status:** Active Kurokawa Training Technology Record
-**Distribution:** Kurokawa Archive Node / Administration / Archive / Security / Research / Medical
-**Authority:** Training Office, Node Administration, Site Director's Command Floor, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Kurokawa Training Technology Record |
+| DISTRIBUTION | Kurokawa Archive Node / Administration / Archive / Security / Research / Medical |
+| AUTHORITY | Training Office, Node Administration, Site Director's Command Floor, and Central Archive |
 
 #### Archive Note
 Operational Archive Training and Doctrine Preparation System is the one-hundred-sixteenth main A.C.T technology expanded into an individual record. The F-7 Personnel and Administrative Level dossier identifies training spaces as a defining part of the floor: doctrine training, procedure training, and preparation of personnel for work in the operational archive below. It places those spaces beside clearance processing and the command floor, confirming that training is part of the boundary between Kurokawa's legitimate archive and its buried archive.

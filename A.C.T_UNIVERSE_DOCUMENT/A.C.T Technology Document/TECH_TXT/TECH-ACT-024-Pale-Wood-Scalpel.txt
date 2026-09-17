@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - PALE WOOD SCALPEL
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-024
-TECHNOLOGY NAME: Pale Wood Scalpel
-SHORT NAME: PWS
-TECHNOLOGY FAMILY: MEDICAL / BIOLOGICAL SAMPLING / ANOMALOUS MATERIAL TOOL
-ORIGIN: A.C.T / DARK WORLD MATERIAL
-PRIMARY CONTROLLER: Medical Division / Surgical Materials Custody
-ATTACHED DIVISIONS: Biological Containment, Recovery, Engineering, Site Command
-OPERATIONAL STATUS: ACTIVE / RESTRICTED / GOLD-VULNERABLE MATERIAL
-RISK STATUS: CONTROLLED / HAZARDOUS IF MISUSED OR IMPROPERLY TRACKED
-CLEARANCE REQUIRED: Level 3 for prepared surgical use; Level 4 for Dark World source material, laser-tracking calibration, and breach use
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-024                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Pale Wood Scalpel                                           |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | PWS                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | MEDICAL / BIOLOGICAL SAMPLING / ANOMALOUS MATERIAL TOOL     |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T / DARK WORLD MATERIAL                                 |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Medical Division / Surgical Materials Custody               |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Biological Containment, Recovery, Engineering, Site Command |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / GOLD-VULNERABLE MATERIAL              |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF MISUSED OR IMPROPERLY TRACKED     |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for prepared surgical use; Level 4 for Dark World   |
+|                            | source material, laser-tracking calibration, and breach use |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Surgical Tool Technology Record
 Distribution: Medical / Biological Containment / Recovery / Engineering / Site Command

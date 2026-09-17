@@ -1,17 +1,31 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - ABYSSAL BASALT
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-049
-TECHNOLOGY NAME: Abyssal Basalt
-SHORT NAME: AB-BAS
-TECHNOLOGY FAMILY: ABYSS MATERIAL / HEAVY SHIELDING / SPATIAL MASS ANCHOR
-ORIGIN: A.C.T STABILIZATION OF ABYSS FLOOR AND STRETCHED-SPACE GEOLOGICAL EXTRACTION
-PRIMARY CONTROLLER: Materials Custody / Abyss Engineering
-ATTACHED DIVISIONS: Engineering, Containment, Research, Heavy Transport
-OPERATIONAL STATUS: ACTIVE / RESTRICTED / MASS-CONTROLLED
-RISK STATUS: STRUCTURAL HAZARD / SPATIAL COMPRESSION MATERIAL
-CLEARANCE REQUIRED: Level 4 for handling; Level 5 for extraction, shaping, or use in heavy-entity shielding
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-049                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Abyssal Basalt                                              |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | AB-BAS                                                      |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | ABYSS MATERIAL / HEAVY SHIELDING / SPATIAL MASS ANCHOR      |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T STABILIZATION OF ABYSS FLOOR AND STRETCHED-SPACE      |
+|                            | GEOLOGICAL EXTRACTION                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Materials Custody / Abyss Engineering                       |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Engineering, Containment, Research, Heavy Transport         |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / MASS-CONTROLLED                       |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | STRUCTURAL HAZARD / SPATIAL COMPRESSION MATERIAL            |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for handling; Level 5 for extraction, shaping, or   |
+|                            | use in heavy-entity shielding                               |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Anomalous Material Technology Record
 Distribution: Materials Custody / Abyss Engineering / Containment / Research / Heavy Transport

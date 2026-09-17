@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - MARITIME HOLDING INTAKE AND TRANSFER SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-109                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Maritime Holding Intake and Transfer System                 |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | MHITS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | MARITIME INTAKE / HOLDING TRANSFER / CHAIN OF CUSTODY       |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY F-3 MARITIME AND ISLAND HOLDING LEVEL |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Floor Holding Chief / Maritime-Hold Command                 |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Containment, Recovery, Research, Medical, Security          |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / MARITIME RECOVERY RECEIPT AND TRANSFER             |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | TRANSFER FAILURE / ENVIRONMENTAL MISMATCH / CUSTODY DRIFT  |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for intake duty; Level 4 for downward transfer,     |
-|                            | vessel transfer, or deep-sensitivity routing                |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-109 |
+| TECHNOLOGY NAME | Maritime Holding Intake and Transfer System |
+| SHORT NAME | MHITS |
+| TECHNOLOGY FAMILY | MARITIME INTAKE / HOLDING TRANSFER / CHAIN OF CUSTODY |
+| ORIGIN | NUSANTARA DEEP RELAY F-3 MARITIME AND ISLAND HOLDING LEVEL |
+| PRIMARY CONTROLLER | Floor Holding Chief / Maritime-Hold Command |
+| ATTACHED DIVISIONS | Containment, Recovery, Research, Medical, Security |
+| OPERATIONAL STATUS | ACTIVE / MARITIME RECOVERY RECEIPT AND TRANSFER |
+| RISK STATUS | TRANSFER FAILURE / ENVIRONMENTAL MISMATCH / CUSTODY DRIFT |
+| CLEARANCE REQUIRED | Level 3 for intake duty; Level 4 for downward transfer, vessel transfer, or deep-sensitivity routing |
 
-**Archive Status:** Active Nusantara Maritime Technology Record
-**Distribution:** Nusantara Deep Relay / Containment / Recovery / Research / Medical / Security
-**Authority:** Maritime-Hold Command, Floor Holding Chief, Recovery Liaison, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Nusantara Maritime Technology Record |
+| DISTRIBUTION | Nusantara Deep Relay / Containment / Recovery / Research / Medical / Security |
+| AUTHORITY | Maritime-Hold Command, Floor Holding Chief, Recovery Liaison, and Central Archive |
 
 #### Archive Note
 Maritime Holding Intake and Transfer System is the one-hundred-ninth main A.C.T technology expanded into an individual record. The F-3 Maritime and Island Holding Level dossier identifies the floor as the relay's main holding level for anomalies recovered from regional waters and islands. Its layout includes intake and assessment bays, water-capable containment chambers, pressure-rated environments, climate-controlled holding units, monitoring galleries, handling corridors, and a floor command post. Its transfer procedure routes deep-sensitive material downward, research-approved material upward, and water-capable material to port containment or specialized vessels under maritime doctrine.

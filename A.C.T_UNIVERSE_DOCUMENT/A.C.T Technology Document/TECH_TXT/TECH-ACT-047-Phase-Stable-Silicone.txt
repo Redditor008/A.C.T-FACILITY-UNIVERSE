@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - PHASE-STABLE SILICONE
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-047
-TECHNOLOGY NAME: Phase-Stable Silicone
-SHORT NAME: PSS
-TECHNOLOGY FAMILY: SYNTHETIC POLYMER / PHASE SUPPORT / DIGITAL-HOSTING SHELL
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Engineering Division / Medical Fabrication Desk
-ATTACHED DIVISIONS: Artificial Cognition, Medical, Subject Care, Materials
-OPERATIONAL STATUS: ACTIVE / FABRICATION-STOCK / CASE-RESTRICTED
-RISK STATUS: CONTROLLED / PHASE-MISALIGNMENT AND HOSTING HAZARD
-CLEARANCE REQUIRED: Level 3 for fabrication stock; Level 4 for surgical use; Level 5 for digital-hosting chassis or high-phase exposure
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-047                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Phase-Stable Silicone                                       |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | PSS                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | SYNTHETIC POLYMER / PHASE SUPPORT / DIGITAL-HOSTING SHELL   |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Engineering Division / Medical Fabrication Desk             |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Artificial Cognition, Medical, Subject Care, Materials      |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / FABRICATION-STOCK / CASE-RESTRICTED                |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / PHASE-MISALIGNMENT AND HOSTING HAZARD          |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for fabrication stock; Level 4 for surgical use;    |
+|                            | Level 5 for digital-hosting chassis or high-phase exposure  |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Synthetic Polymer Technology Record
 Distribution: Engineering / Medical Fabrication / Artificial Cognition / Medical / Subject Care / Materials Custody

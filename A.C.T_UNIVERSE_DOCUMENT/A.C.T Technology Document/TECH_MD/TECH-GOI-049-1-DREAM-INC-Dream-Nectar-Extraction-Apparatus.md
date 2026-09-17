@@ -1,27 +1,14 @@
 # TECH-GOI-049-1 - DREAM .INC DREAM NECTAR EXTRACTION APPARATUS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-049-1                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | DREAM .INC Dream Nectar Extraction Apparatus                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | DNEA / Extraction Apparatus / Quiet Machine                 |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | DREAM .INC                                                  |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Targeted for appropriation; partial condition intelligence  |
-|                            | and restricted recovery planning only                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Source-anomaly protection, extraction shutdown,             |
-|                            | anomalous-machine custody, Dream Nectar supply interruption |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | DREAM .INC SOURCE-MACHINE RESTRICTED / LEVEL 5 REVIEW FOR   |
-|                            | OPERATION                                                   |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-049-1 |
+| TECHNOLOGY NAME | DREAM .INC Dream Nectar Extraction Apparatus |
+| COMMON ABBREVIATIONS | DNEA / Extraction Apparatus / Quiet Machine |
+| ORIGIN | DREAM .INC |
+| ACQUISITION STATUS | Targeted for appropriation; partial condition intelligence and restricted recovery planning only |
+| PRIMARY A.C.T INTEREST | Source-anomaly protection, extraction shutdown, anomalous-machine custody, Dream Nectar supply interruption |
+| ARCHIVE HANDLING | DREAM .INC SOURCE-MACHINE RESTRICTED / LEVEL 5 REVIEW FOR OPERATION |
 
 ## Functional Identity
 

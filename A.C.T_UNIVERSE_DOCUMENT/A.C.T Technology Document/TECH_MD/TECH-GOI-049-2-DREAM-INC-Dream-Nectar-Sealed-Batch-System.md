@@ -1,25 +1,14 @@
 # TECH-GOI-049-2 - DREAM .INC DREAM NECTAR SEALED BATCH SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-049-2                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | DREAM .INC Dream Nectar Sealed Batch System                 |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | DNSBS / Nectar Batch / Sealed Wish Dose                     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | DREAM .INC                                                  |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Recovered sealed batch and packaging under A.C.T custody    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Anomalous medicine control, consumer exposure prevention,   |
-|                            | product-route intelligence, dependency assessment           |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | DREAM .INC PRODUCT RESTRICTED / MEDICAL-CONTAINMENT STORAGE |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-049-2 |
+| TECHNOLOGY NAME | DREAM .INC Dream Nectar Sealed Batch System |
+| COMMON ABBREVIATIONS | DNSBS / Nectar Batch / Sealed Wish Dose |
+| ORIGIN | DREAM .INC |
+| ACQUISITION STATUS | Recovered sealed batch and packaging under A.C.T custody |
+| PRIMARY A.C.T INTEREST | Anomalous medicine control, consumer exposure prevention, product-route intelligence, dependency assessment |
+| ARCHIVE HANDLING | DREAM .INC PRODUCT RESTRICTED / MEDICAL-CONTAINMENT STORAGE |
 
 ## Functional Identity
 

@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - STATIC PULSE BIOMETRIC ID
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-015                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Static Pulse Biometric ID                                   |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SPBID                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ACCESS CONTROL / IDENTITY / CAUSAL SIGNATURE SECURITY       |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Security Division / Identity Control Desk                   |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | O5 Liaison, Site Command, Engineering, Archive, Medical     |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / SENIOR-ACCESS STANDARD                |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF SPOOFED, MISKEYED, OR OVERUSED   |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for senior-site use; Level 5 for O5 Council pulse   |
-|                            | libraries, re-interfaced staff records, and override rules  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-015 |
+| TECHNOLOGY NAME | Static Pulse Biometric ID |
+| SHORT NAME | SPBID |
+| TECHNOLOGY FAMILY | ACCESS CONTROL / IDENTITY / CAUSAL SIGNATURE SECURITY |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Security Division / Identity Control Desk |
+| ATTACHED DIVISIONS | O5 Liaison, Site Command, Engineering, Archive, Medical |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / SENIOR-ACCESS STANDARD |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF SPOOFED, MISKEYED, OR OVERUSED |
+| CLEARANCE REQUIRED | Level 4 for senior-site use; Level 5 for O5 Council pulse libraries, re-interfaced staff records, and override rules |
 
-**Archive Status:** Active Identity Technology Record  
-**Distribution:** Security / Identity Control / O5 Liaison / Site Command / Engineering / Archive  
-**Authority:** Security Division, Identity Control Desk, O5 Liaison, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Identity Technology Record |
+| DISTRIBUTION | Security / Identity Control / O5 Liaison / Site Command / Engineering / Archive |
+| AUTHORITY | Security Division, Identity Control Desk, O5 Liaison, and Central Archive |
 
 #### Archive Note
 Static Pulse Biometric ID is the fifteenth main A.C.T technology expanded into an individual record. The Master Catalog defines it as causal-signature scanners used to verify the Static Pulse of the O5 Council and senior-level re-interfaced staff. The visual guide describes a brushed-aluminum wall scanner with an ultraviolet spectrograph, high-resolution palm pad, and a small access-log receipt after every successful Static Pulse verification. TECH-ACT-007 established Static-Pulse Crystal as the material that teaches A.C.T systems an Earth-standard baseline. SPBID applies a related principle to identity: it asks whether the person at the scanner is carrying the right causal continuity, not merely the right hand.

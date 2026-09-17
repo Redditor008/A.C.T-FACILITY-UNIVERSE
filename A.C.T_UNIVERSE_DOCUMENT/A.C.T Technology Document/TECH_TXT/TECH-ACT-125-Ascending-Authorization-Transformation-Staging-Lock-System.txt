@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - ASCENDING AUTHORIZATION TRANSFORMATION STAGING LOCK SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-125
-TECHNOLOGY NAME: Ascending Authorization Transformation Staging Lock System
-SHORT NAME: AATSL
-TECHNOLOGY FAMILY: TRANSFORMATION STAGING / AUTHORIZATION GATE / OBJECT FUTURE
-ORIGIN: REDWOOD VEIL COMPLEX F-4 TRANSFORMATION STAGING
-PRIMARY CONTROLLER: Floor Transformation Chief / Transformation Division
-ATTACHED DIVISIONS: Transformation, Research, Containment, Security, Archive
-OPERATIONAL STATUS: ACTIVE / ASCENDING-AUTHORIZATION TRANSFORMATION CONTROL
-RISK STATUS: UNAUTHORIZED TRANSFORMATION / STAGING LOCK VIOLATION
-CLEARANCE REQUIRED: Operation-specific ascending authorization; higher command approval for irreversible, experimental, or dangerous work
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-125                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Ascending Authorization Transformation Staging Lock System  |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | AATSL                                                       |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | TRANSFORMATION STAGING / AUTHORIZATION GATE / OBJECT FUTURE |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | REDWOOD VEIL COMPLEX F-4 TRANSFORMATION STAGING             |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Floor Transformation Chief / Transformation Division        |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Transformation, Research, Containment, Security, Archive    |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / ASCENDING-AUTHORIZATION TRANSFORMATION CONTROL     |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | UNAUTHORIZED TRANSFORMATION / STAGING LOCK VIOLATION        |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Operation-specific ascending authorization; higher command  |
+|                            | approval for irreversible, experimental, or dangerous work  |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Redwood Veil Transformation Technology Record
 Distribution: Redwood Veil Complex / Transformation / Research / Containment / Security / Archive

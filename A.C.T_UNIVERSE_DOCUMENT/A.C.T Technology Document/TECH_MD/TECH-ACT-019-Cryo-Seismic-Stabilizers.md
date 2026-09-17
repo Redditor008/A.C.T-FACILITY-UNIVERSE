@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - CRYO-SEISMIC STABILIZERS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-019                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Cryo-Seismic Stabilizers                                    |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | CSS                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | REALITY INFRASTRUCTURE / TECTONIC CONTROL / EMERGENCY SITE  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Engineering Division / Site Infrastructure Command          |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Containment, Abyss Floor Operations, Logistics, Command     |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / HEAVY INSTALLATION / EMERGENCY DEPLOYABLE          |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF OVERCOOLED OR MISALIGNED         |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for operation; Level 5 for sub-crustal deployment,  |
-|                            | RSA interval timing, and world-scale event response         |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-019 |
+| TECHNOLOGY NAME | Cryo-Seismic Stabilizers |
+| SHORT NAME | CSS |
+| TECHNOLOGY FAMILY | REALITY INFRASTRUCTURE / TECTONIC CONTROL / EMERGENCY SITE |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Engineering Division / Site Infrastructure Command |
+| ATTACHED DIVISIONS | Containment, Abyss Floor Operations, Logistics, Command |
+| OPERATIONAL STATUS | ACTIVE / HEAVY INSTALLATION / EMERGENCY DEPLOYABLE |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF OVERCOOLED OR MISALIGNED |
+| CLEARANCE REQUIRED | Level 4 for operation; Level 5 for sub-crustal deployment, RSA interval timing, and world-scale event response |
 
-**Archive Status:** Active Infrastructure Technology Record  
-**Distribution:** Engineering / Site Infrastructure / Abyss Floor Operations / Containment / Command  
-**Authority:** Engineering Division, Site Infrastructure Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Infrastructure Technology Record |
+| DISTRIBUTION | Engineering / Site Infrastructure / Abyss Floor Operations / Containment / Command |
+| AUTHORITY | Engineering Division, Site Infrastructure Command, and Central Archive |
 
 #### Archive Note
 Cryo-Seismic Stabilizers are the nineteenth main A.C.T technology expanded into an individual record. The Master Catalog identifies them as sub-crustal tectonic dampeners using liquid nitrogen and RSA intervals to freeze localized reality during world-scale events. The visual guide describes large tripod-mounted industrial canisters venting constant white nitrogen fog, with a screen for Crustal Temperature Index and Tectonic Stress indices, a rotating piston sensor synchronized with tremors, a vapor-release valve for causal heat, an internal redacted thermal-cell, and a wired remote with venting-intensity sliders.

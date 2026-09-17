@@ -1,38 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - SURFACE TRANSITION AND MARITIME COVER GATEWAY SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-114                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Surface Transition and Maritime Cover Gateway System        |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | STMCGS                                                      |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | SURFACE TRANSITION / MARITIME COVER / ACCESS CONCEALMENT    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY F-6 SURFACE RESEARCH AND TRANSITION   |
-|                            | LEVEL                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Campus Director / Security Boundary Command                 |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Security, Research, Campus Administration, Port Operations, |
-|                            | Recovery, Command                                           |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / SURFACE GATEWAY AND COVER TRANSITION               |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | TRANSITION EXPOSURE / PORT OVERLAP / COVER ROUTE FAILURE   |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for transition oversight; Level 4 for concealed     |
-|                            | recovery routing, port separation, or surface seal action   |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-114 |
+| TECHNOLOGY NAME | Surface Transition and Maritime Cover Gateway System |
+| SHORT NAME | STMCGS |
+| TECHNOLOGY FAMILY | SURFACE TRANSITION / MARITIME COVER / ACCESS CONCEALMENT |
+| ORIGIN | NUSANTARA DEEP RELAY F-6 SURFACE RESEARCH AND TRANSITION LEVEL |
+| PRIMARY CONTROLLER | Campus Director / Security Boundary Command |
+| ATTACHED DIVISIONS | Security, Research, Campus Administration, Port Operations, Recovery, Command |
+| OPERATIONAL STATUS | ACTIVE / SURFACE GATEWAY AND COVER TRANSITION |
+| RISK STATUS | TRANSITION EXPOSURE / PORT OVERLAP / COVER ROUTE FAILURE |
+| CLEARANCE REQUIRED | Level 3 for transition oversight; Level 4 for concealed recovery routing, port separation, or surface seal action |
 
-**Archive Status:** Active Nusantara Surface-Transition Technology Record
-**Distribution:** Nusantara Deep Relay / Security / Research / Campus Administration / Port Operations / Recovery / Command
-**Authority:** Campus Director, Security Boundary Command, Site Director's Office, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Nusantara Surface-Transition Technology Record |
+| DISTRIBUTION | Nusantara Deep Relay / Security / Research / Campus Administration / Port Operations / Recovery / Command |
+| AUTHORITY | Campus Director, Security Boundary Command, Site Director's Office, and Central Archive |
 
 #### Archive Note
 Surface Transition and Maritime Cover Gateway System is the one-hundred-fourteenth main A.C.T technology expanded into an individual record. The F-6 Surface Research and Transition Level dossier identifies F-6 as the relay's legitimate face and physical boundary: research laboratories, monitoring stations, administrative buildings, port facility surface operations, campus access architecture, and the transition of personnel and recovered material between the island surface and the buried relay. It also records concealed transition doctrine, maritime separation doctrine, and surface response doctrine.

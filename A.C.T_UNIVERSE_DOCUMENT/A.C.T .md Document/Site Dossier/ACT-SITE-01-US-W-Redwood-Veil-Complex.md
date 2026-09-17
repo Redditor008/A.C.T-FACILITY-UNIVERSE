@@ -2,13 +2,15 @@
 ## ACT-SITE-01-US-W — Redwood Veil Complex
 ## Regional Site Dossier — Western United States
 
-**Archive Status:** Active
-**Distribution:** Internal / Command / Archive / Recovery / Intelligence / Containment
-**Authority:** Central Archive / Site Governance Review / Administration
-**File Class:** Site Dossier — Individual Installation Record
-**Dossier Number:** SITE-DOSSIER-01-US-W
-**Compiled By:** Central Archive, Site Records Office
-**Compilation Standard:** ACT Site Registry File Standard
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal / Command / Archive / Recovery / Intelligence / Containment |
+| AUTHORITY | Central Archive / Site Governance Review / Administration |
+| FILE CLASS | Site Dossier — Individual Installation Record |
+| DOSSIER NUMBER | SITE-DOSSIER-01-US-W |
+| COMPILED BY | Central Archive, Site Records Office |
+| COMPILATION STANDARD | ACT Site Registry File Standard |
 
 ---
 

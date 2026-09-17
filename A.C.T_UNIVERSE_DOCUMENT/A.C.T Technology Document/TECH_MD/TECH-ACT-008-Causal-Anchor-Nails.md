@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - CAUSAL ANCHOR NAILS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-008                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Causal Anchor Nails                                         |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | CAN                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | FIELD / RECOVERY / TEMPORARY STABILIZATION                  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Recovery Division / Engineering Division                    |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Containment, Logistics, Field Command, Site Command         |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / SINGLE-USE                            |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF MISPLACED OR OVERTRUSTED         |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for field issue; Level 4 for multi-nail geometry    |
-|                            | and post-use extraction review                              |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-008 |
+| TECHNOLOGY NAME | Causal Anchor Nails |
+| SHORT NAME | CAN |
+| TECHNOLOGY FAMILY | FIELD / RECOVERY / TEMPORARY STABILIZATION |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Recovery Division / Engineering Division |
+| ATTACHED DIVISIONS | Containment, Logistics, Field Command, Site Command |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / SINGLE-USE |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF MISPLACED OR OVERTRUSTED |
+| CLEARANCE REQUIRED | Level 3 for field issue; Level 4 for multi-nail geometry and post-use extraction review |
 
-**Archive Status:** Active Field Technology Record  
-**Distribution:** Recovery / Engineering / Containment / Logistics / Site Command  
-**Authority:** Recovery Division, Engineering Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Field Technology Record |
+| DISTRIBUTION | Recovery / Engineering / Containment / Logistics / Site Command |
+| AUTHORITY | Recovery Division, Engineering Division, and Central Archive |
 
 #### Archive Note
 Causal Anchor Nails are the eighth main A.C.T technology expanded into an individual record. The Master Catalog defines them as portable, single-use stabilization units used to fix an object within three-dimensional space for short-duration transport or recovery. The visual guide describes them as thirty-centimeter violet-tinted spikes with revolving mechanical disc heads, internal heating, and a heavy magnetic feel even before deployment. TECH-ACT-001 already lists them as portable companions to Reality Stabilization Anchors. TECH-ACT-006 references them as pre-loading fixation tools before Facility Converted Aircraft movement.

@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - SUSPENDED VAULT MOUNTING SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-061                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Suspended Vault Mounting System                             |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SVMS                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | DEEP VAULT ARCHITECTURE / VIBRATION ISOLATION / SHAFT HOLD  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | REDWOOD VEIL F-1 HANGING VAULT ARCHITECTURE                 |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Containment Division / Engineering Division                 |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Security, Deep-Hold Command, Medical, Archive               |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESIDENT-SPECIFIC / HIGH-INVIOLABILITY USE         |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | STRUCTURAL SUSPENSION HAZARD / VAULT-DROP FAILURE RISK      |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for inspection; Level 5 for mount replacement,      |
-|                            | vault lowering, resident transfer, or shaft redesign        |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-061 |
+| TECHNOLOGY NAME | Suspended Vault Mounting System |
+| SHORT NAME | SVMS |
+| TECHNOLOGY FAMILY | DEEP VAULT ARCHITECTURE / VIBRATION ISOLATION / SHAFT HOLD |
+| ORIGIN | REDWOOD VEIL F-1 HANGING VAULT ARCHITECTURE |
+| PRIMARY CONTROLLER | Containment Division / Engineering Division |
+| ATTACHED DIVISIONS | Security, Deep-Hold Command, Medical, Archive |
+| OPERATIONAL STATUS | ACTIVE / RESIDENT-SPECIFIC / HIGH-INVIOLABILITY USE |
+| RISK STATUS | STRUCTURAL SUSPENSION HAZARD / VAULT-DROP FAILURE RISK |
+| CLEARANCE REQUIRED | Level 4 for inspection; Level 5 for mount replacement, vault lowering, resident transfer, or shaft redesign |
 
-**Archive Status:** Active Deep Vault Architecture Technology Record  
-**Distribution:** Containment / Engineering / Security / Deep-Hold Command / Medical / Archive  
-**Authority:** Containment Division, Engineering Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Deep Vault Architecture Technology Record |
+| DISTRIBUTION | Containment / Engineering / Security / Deep-Hold Command / Medical / Archive |
+| AUTHORITY | Containment Division, Engineering Division, and Central Archive |
 
 #### Archive Note
 The Suspended Vault Mounting System is the sixty-first main A.C.T technology expanded into an individual record. Redwood Veil's F-1 floor dossier identifies The Hanging Vault as a deep high-inviolability floor where primary resident vaults are suspended inside structural shafts rather than seated on the floor slab. The dossier states that each vault is anchored from above and below by dampened mountings so seismic transmission, structural vibration, and the surrounding floor fabric do not directly carry into the resident housing.

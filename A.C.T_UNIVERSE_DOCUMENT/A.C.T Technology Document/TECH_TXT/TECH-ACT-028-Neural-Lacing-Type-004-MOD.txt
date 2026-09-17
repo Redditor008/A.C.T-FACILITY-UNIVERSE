@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - NEURAL LACING TYPE 004-MOD
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-028
-TECHNOLOGY NAME: Neural Lacing Type 004-MOD
-SHORT NAME: NL-004
-TECHNOLOGY FAMILY: MEDICAL / INFO-HAZARD DEFENSE / MEMORY-CONTROL IMPLANT
-ORIGIN: A.C.T / 004-SERIES DERIVATIVE
-PRIMARY CONTROLLER: Medical Division / Info-Hazard Division
-ATTACHED DIVISIONS: Engineering, Personnel Resilience, Archive, Site Command
-OPERATIONAL STATUS: ACTIVE / RESTRICTED / PATIENT-SPECIFIC IMPLANT
-RISK STATUS: CONTROLLED / HAZARDOUS IF MISKEYED OR OVERFILTERING
-CLEARANCE REQUIRED: Level 4 for implant approval; Level 5 for filter lists, micro-receiver tuning, and permanent memory exclusions
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-028                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Neural Lacing Type 004-MOD                                  |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | NL-004                                                      |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | MEDICAL / INFO-HAZARD DEFENSE / MEMORY-CONTROL IMPLANT      |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T / 004-SERIES DERIVATIVE                               |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Medical Division / Info-Hazard Division                     |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Engineering, Personnel Resilience, Archive, Site Command    |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / PATIENT-SPECIFIC IMPLANT              |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF MISKEYED OR OVERFILTERING         |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for implant approval; Level 5 for filter lists,     |
+|                            | micro-receiver tuning, and permanent memory exclusions      |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Restricted Medical Technology Record
 Distribution: Medical / Info-Hazard / Personnel Resilience / Engineering / Site Command

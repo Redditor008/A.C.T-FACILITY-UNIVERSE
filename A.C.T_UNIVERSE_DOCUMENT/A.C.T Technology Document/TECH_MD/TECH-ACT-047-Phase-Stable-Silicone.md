@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - PHASE-STABLE SILICONE
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-047                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Phase-Stable Silicone                                       |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | PSS                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | SYNTHETIC POLYMER / PHASE SUPPORT / DIGITAL-HOSTING SHELL   |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Engineering Division / Medical Fabrication Desk             |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Artificial Cognition, Medical, Subject Care, Materials      |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / FABRICATION-STOCK / CASE-RESTRICTED                |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / PHASE-MISALIGNMENT AND HOSTING HAZARD          |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for fabrication stock; Level 4 for surgical use;    |
-|                            | Level 5 for digital-hosting chassis or high-phase exposure  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-047 |
+| TECHNOLOGY NAME | Phase-Stable Silicone |
+| SHORT NAME | PSS |
+| TECHNOLOGY FAMILY | SYNTHETIC POLYMER / PHASE SUPPORT / DIGITAL-HOSTING SHELL |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Engineering Division / Medical Fabrication Desk |
+| ATTACHED DIVISIONS | Artificial Cognition, Medical, Subject Care, Materials |
+| OPERATIONAL STATUS | ACTIVE / FABRICATION-STOCK / CASE-RESTRICTED |
+| RISK STATUS | CONTROLLED / PHASE-MISALIGNMENT AND HOSTING HAZARD |
+| CLEARANCE REQUIRED | Level 3 for fabrication stock; Level 4 for surgical use; Level 5 for digital-hosting chassis or high-phase exposure |
 
-**Archive Status:** Active Synthetic Polymer Technology Record  
-**Distribution:** Engineering / Medical Fabrication / Artificial Cognition / Medical / Subject Care / Materials Custody  
-**Authority:** Engineering Division, Medical Fabrication Desk, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Synthetic Polymer Technology Record |
+| DISTRIBUTION | Engineering / Medical Fabrication / Artificial Cognition / Medical / Subject Care / Materials Custody |
+| AUTHORITY | Engineering Division, Medical Fabrication Desk, and Central Archive |
 
 #### Archive Note
 Phase-Stable Silicone is the forty-seventh main A.C.T technology expanded into an individual record. The Master Catalog defines it as a synthetic polymer capable of maintaining physical tangibility during high-level spatial phasing or digital hosting. The visual guide describes translucent flesh-colored polymer supplied on rolls with a Tear-Resistance Gauge and Thermal-Alignment Strip for precision surgical application. Argon Internal's social log records Technician Hruby offering Phase-Stable Silicone as a possible chassis material for AFD-SU-855; Argon refused because the original 2006 laptop is experienced as skin, not disposable hardware. The Genetic Perfection Protocol also references PSS as medical stabilization support.

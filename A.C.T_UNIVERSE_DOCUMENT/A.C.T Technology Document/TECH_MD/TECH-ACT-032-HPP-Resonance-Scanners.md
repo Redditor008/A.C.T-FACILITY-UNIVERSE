@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - HPP RESONANCE SCANNERS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-032                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | HPP Resonance Scanners                                      |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | HPP-RS                                                      |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | PERSONNEL SCREENING / PSYCHIC RESONANCE / ASSIGNMENT SAFETY |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Personnel Screening Desk / Medical Division                 |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Human Resources, Artifact Review, White Grave, Site Command |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / SCREENING-GATE / ASSIGNMENT-RESTRICTED             |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / PSYCHIC DISCLOSURE HAZARD                     |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for screening operation; Level 4 for full PR-score  |
-|                            | access; Level 5 for assignment override                     |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-032 |
+| TECHNOLOGY NAME | HPP Resonance Scanners |
+| SHORT NAME | HPP-RS |
+| TECHNOLOGY FAMILY | PERSONNEL SCREENING / PSYCHIC RESONANCE / ASSIGNMENT SAFETY |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Personnel Screening Desk / Medical Division |
+| ATTACHED DIVISIONS | Human Resources, Artifact Review, White Grave, Site Command |
+| OPERATIONAL STATUS | ACTIVE / SCREENING-GATE / ASSIGNMENT-RESTRICTED |
+| RISK STATUS | CONTROLLED / PSYCHIC DISCLOSURE HAZARD |
+| CLEARANCE REQUIRED | Level 3 for screening operation; Level 4 for full PR-score access; Level 5 for assignment override |
 
-**Archive Status:** Active Personnel Screening Technology Record  
-**Distribution:** Personnel Screening / Medical / Human Resources / Artifact Review / White Grave / Site Command  
-**Authority:** Personnel Screening Desk, Medical Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Personnel Screening Technology Record |
+| DISTRIBUTION | Personnel Screening / Medical / Human Resources / Artifact Review / White Grave / Site Command |
+| AUTHORITY | Personnel Screening Desk, Medical Division, and Central Archive |
 
 #### Archive Note
 HPP Resonance Scanners are the thirty-second main A.C.T technology expanded into an individual record. The Master Catalog identifies them as diagnostic tools used to measure High-Psychic Potential during personnel screening and assignment. The visual guide describes a walk-through gateway with a PR-Score digital counter on the top beam, vertical light-pillars containing restricted sensors, and a visible shift from white to deep violet when a High-Psychic Potential signature is detected. The Soul Pendant record confirms why this matters: AFD-OB-412 glowed for HPP-sensitive individuals before later blood activation anchored Senior Researcher Aris Thorne's consciousness inside the pendant.

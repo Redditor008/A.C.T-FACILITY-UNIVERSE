@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - VESPER-PATTERN TACTICAL AI
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-040
-TECHNOLOGY NAME: Vesper-Pattern Tactical AI
-SHORT NAME: VPT-AI
-TECHNOLOGY FAMILY: TACTICAL COORDINATION / UNMANNED RECOVERY / COMBAT LOGIC
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Tactical Review Desk / Engineering Division
-ATTACHED DIVISIONS: Recovery, Security, Artifact Storage, Simulation Command
-OPERATIONAL STATUS: ACTIVE / ISOLATED / MISSION-PARAMETER LOCKED
-RISK STATUS: CONTROLLED / COMBAT-LOGIC CONTAINMENT HAZARD
-CLEARANCE REQUIRED: Level 4 for simulation use; Level 5 for live unmanned recovery command and recognition-filter modification
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-040                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Vesper-Pattern Tactical AI                                  |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | VPT-AI                                                      |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | TACTICAL COORDINATION / UNMANNED RECOVERY / COMBAT LOGIC    |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Tactical Review Desk / Engineering Division                 |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Recovery, Security, Artifact Storage, Simulation Command    |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / ISOLATED / MISSION-PARAMETER LOCKED                |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / COMBAT-LOGIC CONTAINMENT HAZARD                |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for simulation use; Level 5 for live unmanned       |
+|                            | recovery command and recognition-filter modification        |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Tactical Coordination Technology Record
 Distribution: Tactical Review / Engineering / Recovery / Security / Artifact Storage / Simulation Command

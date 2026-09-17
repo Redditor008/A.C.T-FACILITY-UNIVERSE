@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - CRYO-SEISMIC STABILIZERS
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-019
-TECHNOLOGY NAME: Cryo-Seismic Stabilizers
-SHORT NAME: CSS
-TECHNOLOGY FAMILY: REALITY INFRASTRUCTURE / TECTONIC CONTROL / EMERGENCY SITE
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Engineering Division / Site Infrastructure Command
-ATTACHED DIVISIONS: Containment, Abyss Floor Operations, Logistics, Command
-OPERATIONAL STATUS: ACTIVE / HEAVY INSTALLATION / EMERGENCY DEPLOYABLE
-RISK STATUS: CONTROLLED / HAZARDOUS IF OVERCOOLED OR MISALIGNED
-CLEARANCE REQUIRED: Level 4 for operation; Level 5 for sub-crustal deployment, RSA interval timing, and world-scale event response
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-019                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Cryo-Seismic Stabilizers                                    |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | CSS                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | REALITY INFRASTRUCTURE / TECTONIC CONTROL / EMERGENCY SITE  |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Engineering Division / Site Infrastructure Command          |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Containment, Abyss Floor Operations, Logistics, Command     |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / HEAVY INSTALLATION / EMERGENCY DEPLOYABLE          |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF OVERCOOLED OR MISALIGNED          |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for operation; Level 5 for sub-crustal deployment,  |
+|                            | RSA interval timing, and world-scale event response         |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Infrastructure Technology Record
 Distribution: Engineering / Site Infrastructure / Abyss Floor Operations / Containment / Command

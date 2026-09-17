@@ -1,12 +1,14 @@
 # Kazumi Mori — Updated 2026 Character and Capability Profile
 
-**Name:** Kazumi Mori  
-**A.C.T designation:** AFD-SU-572  
-**Known title:** The Temple-Kept Fox  
-**Current year:** 2026  
-**Current age:** **324 years old**  
-**Species/type:** Long-lived kitsune-class humanoid  
-**Current personality classification:** **Non-extrovert / selectively social / supernaturally cautious**
+| FIELD | VALUE |
+|---|---|
+| NAME | Kazumi Mori |
+| A.C.T DESIGNATION | AFD-SU-572 |
+| KNOWN TITLE | The Temple-Kept Fox |
+| CURRENT YEAR | 2026 |
+| CURRENT AGE | **324 years old** |
+| SPECIES/TYPE | Long-lived kitsune-class humanoid |
+| CURRENT PERSONALITY CLASSIFICATION | **Non-extrovert / selectively social / supernaturally cautious** |
 
 ---
 

@@ -1,28 +1,14 @@
 # TECH-GOI-048-3 - CHILDREN OF THE DEEP PRESSURE RITUAL EQUIPMENT AND SEALED CONTAINER SET
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-048-3                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Children of the Deep Pressure Ritual Equipment and Sealed   |
-|                            | Container Set                                               |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Pressure Set / Sealed Containers / Marine Material Cache    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Children of the Deep                                        |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Recovered from custody and mouth sites; individual items    |
-|                            | assessed separately, no complete cult inventory held        |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Technical preparation detection, inland mouth indicator     |
-|                            | review, procurement interdiction, anomalous material triage |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | CULTIC NETWORKS RESTRICTED / ANOMALOUS MATERIAL CUSTODY     |
-|                            | REVIEW                                                      |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-048-3 |
+| TECHNOLOGY NAME | Children of the Deep Pressure Ritual Equipment and Sealed Container Set |
+| COMMON ABBREVIATIONS | Pressure Set / Sealed Containers / Marine Material Cache |
+| ORIGIN | Children of the Deep |
+| ACQUISITION STATUS | Recovered from custody and mouth sites; individual items assessed separately, no complete cult inventory held |
+| PRIMARY A.C.T INTEREST | Technical preparation detection, inland mouth indicator review, procurement interdiction, anomalous material triage |
+| ARCHIVE HANDLING | CULTIC NETWORKS RESTRICTED / ANOMALOUS MATERIAL CUSTODY REVIEW |
 
 ## Functional Identity
 

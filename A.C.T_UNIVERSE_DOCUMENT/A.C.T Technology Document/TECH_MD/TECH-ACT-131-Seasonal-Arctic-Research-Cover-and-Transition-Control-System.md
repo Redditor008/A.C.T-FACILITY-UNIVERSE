@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - SEASONAL ARCTIC RESEARCH COVER AND TRANSITION CONTROL SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-131                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Seasonal Arctic Research Cover and Transition Control System|
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SARCTCS                                                     |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | SURFACE COVER / SEASONAL TRANSPORT / ARCTIC TRANSITION     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | WHITE GRAVE STATION F-6 SURFACE RESEARCH AND TRANSITION    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Surface Chief / Station Administration Surface Command      |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Research, Administration, Logistics, Engineering, Security  |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / LEGITIMATE ARCTIC RESEARCH COVER AND GATEWAY       |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | COVER INCIDENT / TRANSPORT WINDOW FAILURE / TRANSITION PENETRATION|
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Boundary-control access; seasonal transport and buried      |
-|                            | station transition authority per person and shipment       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-131 |
+| TECHNOLOGY NAME | Seasonal Arctic Research Cover and Transition Control System |
+| SHORT NAME | SARCTCS |
+| TECHNOLOGY FAMILY | SURFACE COVER / SEASONAL TRANSPORT / ARCTIC TRANSITION |
+| ORIGIN | WHITE GRAVE STATION F-6 SURFACE RESEARCH AND TRANSITION |
+| PRIMARY CONTROLLER | Surface Chief / Station Administration Surface Command |
+| ATTACHED DIVISIONS | Research, Administration, Logistics, Engineering, Security |
+| OPERATIONAL STATUS | ACTIVE / LEGITIMATE ARCTIC RESEARCH COVER AND GATEWAY |
+| RISK STATUS | COVER INCIDENT / TRANSPORT WINDOW FAILURE / TRANSITION PENETRATION |
+| CLEARANCE REQUIRED | Boundary-control access; seasonal transport and buried station transition authority per person and shipment |
 
-**Archive Status:** Active White Grave Surface Technology Record
-**Distribution:** White Grave Station / Research Surface Program / Administration / Logistics / Engineering / Security
-**Authority:** Surface Chief, Station Administration, Site Director, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active White Grave Surface Technology Record |
+| DISTRIBUTION | White Grave Station / Research Surface Program / Administration / Logistics / Engineering / Security |
+| AUTHORITY | Surface Chief, Station Administration, Site Director, and Central Archive |
 
 #### Archive Note
 Seasonal Arctic Research Cover and Transition Control System is the one-hundred-thirty-first main A.C.T technology expanded into an individual record. The White Grave F-6 Surface Research and Transition Level dossier identifies F-6 as the station's legitimate face: administrative buildings, conventional research laboratories, the power plant, vehicle maintenance, airstrip, and transition architecture connecting the surface to the buried station. It records genuine arctic science, seasonal flights and overland transport, concealed transition control, external communications, boundary monitoring, and doctrine that the arctic environment is an ally.

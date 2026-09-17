@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - GOLD-TIPPED MINING DRILLS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-027                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Gold-Tipped Mining Drills                                   |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | GTMD                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ENGINEERING / DARK WORLD MODIFICATION / MATERIAL BORING     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Engineering Division / Dark World Survey                    |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Materials Custody, Recovery, Site Infrastructure, Medical   |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / GOLD-CONSUMING TOOLCHAIN              |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF MISALIGNED OR CONTAMINATED       |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for operation; Level 5 for Dark World architecture, |
-|                            | Pale Wood modification plans, and recovered core samples    |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-027 |
+| TECHNOLOGY NAME | Gold-Tipped Mining Drills |
+| SHORT NAME | GTMD |
+| TECHNOLOGY FAMILY | ENGINEERING / DARK WORLD MODIFICATION / MATERIAL BORING |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Engineering Division / Dark World Survey |
+| ATTACHED DIVISIONS | Materials Custody, Recovery, Site Infrastructure, Medical |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / GOLD-CONSUMING TOOLCHAIN |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF MISALIGNED OR CONTAMINATED |
+| CLEARANCE REQUIRED | Level 4 for operation; Level 5 for Dark World architecture, Pale Wood modification plans, and recovered core samples |
 
-**Archive Status:** Active Engineering Technology Record  
-**Distribution:** Engineering / Dark World Survey / Materials Custody / Recovery / Site Infrastructure  
-**Authority:** Engineering Division, Dark World Survey Desk, Materials Custody, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Engineering Technology Record |
+| DISTRIBUTION | Engineering / Dark World Survey / Materials Custody / Recovery / Site Infrastructure |
+| AUTHORITY | Engineering Division, Dark World Survey Desk, Materials Custody, and Central Archive |
 
 #### Archive Note
 Gold-Tipped Mining Drills are the twenty-seventh main A.C.T technology expanded into an individual record. The Master Catalog defines them as industrial boring equipment required for modification of Pale Wood structures and Dark World architecture. The visual guide describes heavy industrial drills with 24k gold-plated bits, an acoustic vibration disc for material-density monitoring, a redacted-cooled engine housing, analog pressure gauges, and a digital RPM readout. TECH-ACT-024 already identifies 24k gold as the controlled vulnerability of Pale Wood surgical tools.

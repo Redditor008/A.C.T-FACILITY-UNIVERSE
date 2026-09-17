@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - STEAM-DRILL EXCAVATOR
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-051
-TECHNOLOGY NAME: Steam-Drill Excavator
-SHORT NAME: SDE
-TECHNOLOGY FAMILY: HISTORICAL DEEP-EARTH ENGINEERING / SUB-CRUSTAL BORING
-ORIGIN: FIRST DESCENT ENGINEERING PROGRAM, 1888
-PRIMARY CONTROLLER: Historical Engineering Archive / Abyss Engineering
-ATTACHED DIVISIONS: Engineering, History, Materials Custody, Site Archives
-OPERATIONAL STATUS: RETIRED / PRESERVED / DOCTRINAL REFERENCE
-RISK STATUS: HISTORICAL HAZARD / PRESSURE AND THERMAL FAILURE RISK
-CLEARANCE REQUIRED: Level 3 for archive study; Level 4 for component access; Level 5 for any reconstruction proposal
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-051                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Steam-Drill Excavator                                       |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | SDE                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | HISTORICAL DEEP-EARTH ENGINEERING / SUB-CRUSTAL BORING      |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | FIRST DESCENT ENGINEERING PROGRAM, 1888                     |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Historical Engineering Archive / Abyss Engineering          |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Engineering, History, Materials Custody, Site Archives      |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | RETIRED / PRESERVED / DOCTRINAL REFERENCE                   |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | HISTORICAL HAZARD / PRESSURE AND THERMAL FAILURE RISK       |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for archive study; Level 4 for component access;    |
+|                            | Level 5 for any reconstruction proposal                     |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Retired Historical Technology Record
 Distribution: Historical Engineering Archive / Abyss Engineering / Materials Custody / Site Archives

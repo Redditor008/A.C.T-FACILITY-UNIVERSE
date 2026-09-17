@@ -1,28 +1,14 @@
 # TECH-GOI-014-5 - ANTI-GLOBAL ANOMALY LOW-VISIBILITY FIELD WORKSHOP AND MUNDANE-COMPONENT PROCUREMENT SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-014-5                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Anti-Global Anomaly Low-Visibility Field Workshop and       |
-|                            | Mundane-Component Procurement System                        |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Field Workshop / Procurement Profile / Cache Network        |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Anti-Global Anomaly                                         |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Temporary workshops and caches recovered and dismantled;    |
-|                            | procurement contacts partly traced                          |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Procurement pattern analysis, workshop location tracing,    |
-|                            | shared-supply-route mapping, cell regeneration prevention   |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | STRATEGIC INTERDICTION RESTRICTED / PROCUREMENT-SOURCE      |
-|                            | CONTROL                                                     |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-014-5 |
+| TECHNOLOGY NAME | Anti-Global Anomaly Low-Visibility Field Workshop and Mundane-Component Procurement System |
+| COMMON ABBREVIATIONS | Field Workshop / Procurement Profile / Cache Network |
+| ORIGIN | Anti-Global Anomaly |
+| ACQUISITION STATUS | Temporary workshops and caches recovered and dismantled; procurement contacts partly traced |
+| PRIMARY A.C.T INTEREST | Procurement pattern analysis, workshop location tracing, shared-supply-route mapping, cell regeneration prevention |
+| ARCHIVE HANDLING | STRATEGIC INTERDICTION RESTRICTED / PROCUREMENT-SOURCE CONTROL |
 
 ## Functional Identity
 

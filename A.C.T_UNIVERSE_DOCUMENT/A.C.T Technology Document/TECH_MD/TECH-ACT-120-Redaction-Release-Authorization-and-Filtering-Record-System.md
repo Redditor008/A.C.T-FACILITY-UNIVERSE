@@ -1,37 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - REDACTION RELEASE AUTHORIZATION AND FILTERING RECORD SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-120                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Redaction Release Authorization and Filtering Record System |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | RRAFRS                                                      |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | REDACTION / SAFE RELEASE / ARCHIVE RECORD CUSTODY           |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | KUROKAWA ARCHIVE NODE F-5 REDACTION AND CONTROLLED-READING |
-|                            | LABORATORY                                                  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Redaction Authority Desk / Archive Division                 |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Archive, Intelligence, Researcher, Security, Medical        |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / SAFE-RELEASE REDACTION CONTROL                     |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | OVERRELEASE / UNDERREDACTION / RECORD DRIFT / READER HARM  |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for release authorization; Level 5 for restricted   |
-|                            | release reversal, minimum-release override, or source return|
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-120 |
+| TECHNOLOGY NAME | Redaction Release Authorization and Filtering Record System |
+| SHORT NAME | RRAFRS |
+| TECHNOLOGY FAMILY | REDACTION / SAFE RELEASE / ARCHIVE RECORD CUSTODY |
+| ORIGIN | KUROKAWA ARCHIVE NODE F-5 REDACTION AND CONTROLLED-READING LABORATORY |
+| PRIMARY CONTROLLER | Redaction Authority Desk / Archive Division |
+| ATTACHED DIVISIONS | Archive, Intelligence, Researcher, Security, Medical |
+| OPERATIONAL STATUS | ACTIVE / SAFE-RELEASE REDACTION CONTROL |
+| RISK STATUS | OVERRELEASE / UNDERREDACTION / RECORD DRIFT / READER HARM |
+| CLEARANCE REQUIRED | Level 4 for release authorization; Level 5 for restricted release reversal, minimum-release override, or source return |
 
-**Archive Status:** Active Kurokawa Redaction Technology Record
-**Distribution:** Kurokawa Archive Node / Archive / Intelligence / Researcher / Security / Medical
-**Authority:** Redaction Authority Desk, Archive Division, Floor Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Kurokawa Redaction Technology Record |
+| DISTRIBUTION | Kurokawa Archive Node / Archive / Intelligence / Researcher / Security / Medical |
+| AUTHORITY | Redaction Authority Desk, Archive Division, Floor Command, and Central Archive |
 
 #### Archive Note
 Redaction Release Authorization and Filtering Record System is the one-hundred-twentieth main A.C.T technology expanded into an individual record. The F-5 Redaction and Controlled-Reading Laboratory dossier identifies F-5 as the floor where documents are made safe to release under Facility redaction doctrine. It records redaction workrooms, controlled-reading cells, memetic filtering infrastructure, redaction records, filtering history, controlled-reading documentation, release authorization, safe-release doctrine, and minimum-release doctrine.

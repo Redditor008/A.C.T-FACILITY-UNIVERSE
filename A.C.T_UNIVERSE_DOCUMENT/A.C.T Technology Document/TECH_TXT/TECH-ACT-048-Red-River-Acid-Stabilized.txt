@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - RED-RIVER ACID (STABILIZED)
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-048
-TECHNOLOGY NAME: Red-River Acid (Stabilized)
-SHORT NAME: RRA-S
-TECHNOLOGY FAMILY: ANOMALOUS CHEMICAL / DARK WORLD ACID / ETCHING AGENT
-ORIGIN: A.C.T STABILIZATION OF AFD-PL-932 RED RIVER MATERIAL
-PRIMARY CONTROLLER: Hazardous Materials Desk / Dark World Survey
-ATTACHED DIVISIONS: Engineering, Materials Custody, Medical, White Grave
-OPERATIONAL STATUS: ACTIVE / RESTRICTED / CERAMIC-JUG STORED
-RISK STATUS: HAZARDOUS / CORROSIVE AND DIMENSIONAL CHEMICAL
-CLEARANCE REQUIRED: Level 4 for storage and transport; Level 5 for etching, neutralization use, sample exposure, and Dark World export
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-048                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Red-River Acid (Stabilized)                                 |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | RRA-S                                                       |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | ANOMALOUS CHEMICAL / DARK WORLD ACID / ETCHING AGENT        |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T STABILIZATION OF AFD-PL-932 RED RIVER MATERIAL        |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Hazardous Materials Desk / Dark World Survey                |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Engineering, Materials Custody, Medical, White Grave        |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / CERAMIC-JUG STORED                    |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | HAZARDOUS / CORROSIVE AND DIMENSIONAL CHEMICAL              |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for storage and transport; Level 5 for etching,     |
+|                            | neutralization use, sample exposure, and Dark World export  |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Anomalous Chemical Technology Record
 Distribution: Hazardous Materials / Dark World Survey / Engineering / Materials Custody / Medical / White Grave

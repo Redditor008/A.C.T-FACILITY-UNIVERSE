@@ -1,30 +1,14 @@
 # TECH-GOI-001-4 - GAA COMPARTMENTED AWARENESS AND SECURE DOCUMENT-ROUTING CHANNEL SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-001-4                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | GAA Compartmented Awareness and Secure Document-Routing     |
-|                            | Channel System                                              |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Compartmented Awareness Set / GAA Routing Channels /        |
-|                            | Ten-Percent Layer                                           |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Government Anti Anomaly                                     |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Cooperative liaison capability exercised under bounded task |
-|                            | authorization; channel integrity reviewed after each        |
-|                            | operation                                                   |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Awareness containment, information-hazard prevention,       |
-|                            | compromise detection, disclosure minimization               |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | GOVERNMENT-INTERFACE RESTRICTED / LEVEL 3 LIAISON AND LEVEL |
-|                            | 4 REVIEW MATERIAL                                           |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-001-4 |
+| TECHNOLOGY NAME | GAA Compartmented Awareness and Secure Document-Routing Channel System |
+| COMMON ABBREVIATIONS | Compartmented Awareness Set / GAA Routing Channels / Ten-Percent Layer |
+| ORIGIN | Government Anti Anomaly |
+| ACQUISITION STATUS | Cooperative liaison capability exercised under bounded task authorization; channel integrity reviewed after each operation |
+| PRIMARY A.C.T INTEREST | Awareness containment, information-hazard prevention, compromise detection, disclosure minimization |
+| ARCHIVE HANDLING | GOVERNMENT-INTERFACE RESTRICTED / LEVEL 3 LIAISON AND LEVEL 4 REVIEW MATERIAL |
 
 ## Functional Identity
 

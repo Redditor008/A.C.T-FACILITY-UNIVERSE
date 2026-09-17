@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ## RECOVERED GOI DOCUMENT RECORDS - HOLDING FOLDER
 
-**Archive Status:** Active Holding Folder  
-**Distribution:** Intelligence Division / Archiver Division / GOI Desk  
-**Authority:** Central Archive and External Threat Review  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Holding Folder |
+| DISTRIBUTION | Intelligence Division / Archiver Division / GOI Desk |
+| AUTHORITY | Central Archive and External Threat Review |
 
 ### Archive Note
 This folder is reserved for recovered, intercepted, translated, reconstructed, or quarantined documents connected to Groups of Interest. It is not the home for full GOI dossiers. Full GOI assessment records remain in the parent `GOI_MD/` and `GOI_TXT/` folders.

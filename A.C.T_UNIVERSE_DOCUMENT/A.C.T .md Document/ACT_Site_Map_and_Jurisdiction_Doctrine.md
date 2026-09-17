@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ## Site Map and Jurisdiction Doctrine
 
-**Archive Status:** Active  
-**Distribution:** Internal / Command / Recovery / Intelligence / Archive  
-**Authority:** Central Archive / Site Governance Review / Strategic Routing Office  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal / Command / Recovery / Intelligence / Archive |
+| AUTHORITY | Central Archive / Site Governance Review / Strategic Routing Office |
 
 ---
 

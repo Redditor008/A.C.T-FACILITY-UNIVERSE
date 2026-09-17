@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - DIGITAL RESONANCE MAPPING SUITE
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-050                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Digital Resonance Mapping Suite                             |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | DRM SUITE                                                   |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | INTAKE ANALYSIS / CAUSAL PULSE MEASUREMENT / NON-CONTACT    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | REDWOOD VEIL F-5 RESEARCH AND ANALYSIS STANDARD             |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Research Division / Redwood Veil F-5                        |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Archive, Containment, Transformation, Medical               |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / 2026 INTAKE STANDARD                               |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | INSTRUMENT-SENSITIVE / DATA-CONTROLLED                      |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for routine operation; Level 4 for high-risk        |
-|                            | anomaly intake, signature disputes, or method changes       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-050 |
+| TECHNOLOGY NAME | Digital Resonance Mapping Suite |
+| SHORT NAME | DRM SUITE |
+| TECHNOLOGY FAMILY | INTAKE ANALYSIS / CAUSAL PULSE MEASUREMENT / NON-CONTACT |
+| ORIGIN | REDWOOD VEIL F-5 RESEARCH AND ANALYSIS STANDARD |
+| PRIMARY CONTROLLER | Research Division / Redwood Veil F-5 |
+| ATTACHED DIVISIONS | Archive, Containment, Transformation, Medical |
+| OPERATIONAL STATUS | ACTIVE / 2026 INTAKE STANDARD |
+| RISK STATUS | INSTRUMENT-SENSITIVE / DATA-CONTROLLED |
+| CLEARANCE REQUIRED | Level 3 for routine operation; Level 4 for high-risk anomaly intake, signature disputes, or method changes |
 
-**Archive Status:** Active Facility Instrument Technology Record  
-**Distribution:** Research / Archive / Containment / Transformation / Medical / Redwood Veil  
-**Authority:** Research Division, Redwood Veil F-5, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Facility Instrument Technology Record |
+| DISTRIBUTION | Research / Archive / Containment / Transformation / Medical / Redwood Veil |
+| AUTHORITY | Research Division, Redwood Veil F-5, and Central Archive |
 
 #### Archive Note
 The Digital Resonance Mapping Suite is the fiftieth main A.C.T technology expanded into an individual record. The Technological Evolution Timeline records Digital Resonance Mapping as the 2026 standard for detecting the unique causal pulse of an object before physical contact. The Redwood Veil F-5 floor dossier identifies the suite as the level's most distinctive instrument and states that F-5 measures an artifact's causal pulse before handling, allowing characterization without exposing personnel to the artifact's direct effects.

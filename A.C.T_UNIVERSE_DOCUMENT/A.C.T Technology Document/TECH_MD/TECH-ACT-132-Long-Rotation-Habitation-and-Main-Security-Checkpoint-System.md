@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - LONG-ROTATION HABITATION AND MAIN SECURITY CHECKPOINT SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-132                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Long-Rotation Habitation and Main Security Checkpoint System|
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | LRHMSCS                                                     |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | HABITATION / PERSONNEL SUSTAINMENT / DUTY-LIFE SEPARATION  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | WHITE GRAVE STATION F-5 PERSONNEL HABITATION AND SUPPORT   |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Habitation Chief / Station Administration Support Command   |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Administration, Medical, Command, Security                  |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / LONG-ROTATION PERSONNEL SUSTAINMENT                |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | HABITATION FAILURE / CHECKPOINT BREACH / DUTY-LIFE COLLAPSE|
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Personnel-access control for habitation; duty authorization |
-|                            | for passage through the main security checkpoint           |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-132 |
+| TECHNOLOGY NAME | Long-Rotation Habitation and Main Security Checkpoint System |
+| SHORT NAME | LRHMSCS |
+| TECHNOLOGY FAMILY | HABITATION / PERSONNEL SUSTAINMENT / DUTY-LIFE SEPARATION |
+| ORIGIN | WHITE GRAVE STATION F-5 PERSONNEL HABITATION AND SUPPORT |
+| PRIMARY CONTROLLER | Habitation Chief / Station Administration Support Command |
+| ATTACHED DIVISIONS | Administration, Medical, Command, Security |
+| OPERATIONAL STATUS | ACTIVE / LONG-ROTATION PERSONNEL SUSTAINMENT |
+| RISK STATUS | HABITATION FAILURE / CHECKPOINT BREACH / DUTY-LIFE COLLAPSE |
+| CLEARANCE REQUIRED | Personnel-access control for habitation; duty authorization for passage through the main security checkpoint |
 
-**Archive Status:** Active White Grave Personnel-Sustainment Technology Record
-**Distribution:** White Grave Station / Administration / Medical / Command / Security
-**Authority:** Habitation Chief, Station Administration, Site Director, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active White Grave Personnel-Sustainment Technology Record |
+| DISTRIBUTION | White Grave Station / Administration / Medical / Command / Security |
+| AUTHORITY | Habitation Chief, Station Administration, Site Director, and Central Archive |
 
 #### Archive Note
 Long-Rotation Habitation and Main Security Checkpoint System is the one-hundred-thirty-second main A.C.T technology expanded into an individual record. The White Grave F-5 Personnel Habitation and Support dossier identifies F-5 as the level where the station's population lives: living quarters, mess facilities, routine medical clinics, recreation spaces, internal command offices, and the main security checkpoint separating the habitation level from the operational floors below. It records sustainment doctrine, separation doctrine, domestic doctrine, long arctic rotations, and the physical boundary between life and duty.

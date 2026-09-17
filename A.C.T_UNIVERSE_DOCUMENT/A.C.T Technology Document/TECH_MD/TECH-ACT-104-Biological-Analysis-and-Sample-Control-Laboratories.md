@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - BIOLOGICAL ANALYSIS AND SAMPLE CONTROL LABORATORIES
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-104                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Biological Analysis and Sample Control Laboratories         |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | BASCL                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | BIOLOGICAL ANALYSIS / SAMPLE PROCESSING / DATA CUSTODY     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | VERDE NULL BIO-RESERVE F-3 LABORATORY AND MEDICAL LEVEL    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Laboratory and Medical Chief / Research Division Lead       |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Research, Medical, Environmental Containment, Archive       |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / CONTROLLED BIOLOGICAL STUDY USE                    |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | SAMPLE DRIFT / CROSS-CONTAMINATION / DATA-CUSTODY RISK     |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for routine sample processing; Level 4 for resident |
-|                            | samples, containment research, or medical-subject crossover |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-104 |
+| TECHNOLOGY NAME | Biological Analysis and Sample Control Laboratories |
+| SHORT NAME | BASCL |
+| TECHNOLOGY FAMILY | BIOLOGICAL ANALYSIS / SAMPLE PROCESSING / DATA CUSTODY |
+| ORIGIN | VERDE NULL BIO-RESERVE F-3 LABORATORY AND MEDICAL LEVEL |
+| PRIMARY CONTROLLER | Laboratory and Medical Chief / Research Division Lead |
+| ATTACHED DIVISIONS | Research, Medical, Environmental Containment, Archive |
+| OPERATIONAL STATUS | ACTIVE / CONTROLLED BIOLOGICAL STUDY USE |
+| RISK STATUS | SAMPLE DRIFT / CROSS-CONTAMINATION / DATA-CUSTODY RISK |
+| CLEARANCE REQUIRED | Level 3 for routine sample processing; Level 4 for resident samples, containment research, or medical-subject crossover |
 
-**Archive Status:** Active Biological Laboratory Technology Record
-**Distribution:** Verde Null Bio-Reserve / Research / Medical / Environmental Containment / Archive / Security
-**Authority:** Laboratory and Medical Chief, Research Division Command, Verde Null Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Biological Laboratory Technology Record |
+| DISTRIBUTION | Verde Null Bio-Reserve / Research / Medical / Environmental Containment / Archive / Security |
+| AUTHORITY | Laboratory and Medical Chief, Research Division Command, Verde Null Site Command, and Central Archive |
 
 #### Archive Note
 Biological Analysis and Sample Control Laboratories are the one-hundred-fourth main A.C.T technology expanded into an individual record. The Verde Null F-3 dossier identifies the Laboratory and Medical Level as the reserve's scientific and medical heart: biological analysis laboratories, sample processing facilities, containment research suites, medical facilities, data offices, and documentation custody. It states that material drawn from holding floors and enclosure sectors is controlled through documented transfer, controlled handling, and verified return.

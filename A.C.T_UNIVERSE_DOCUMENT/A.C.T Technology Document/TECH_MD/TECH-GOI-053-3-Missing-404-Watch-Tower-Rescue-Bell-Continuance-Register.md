@@ -1,27 +1,14 @@
 # TECH-GOI-053-3 - MISSING 404 WATCH TOWER RESCUE BELL CONTINUANCE REGISTER
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-053-3                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Missing 404 Watch Tower Rescue Bell Continuance Register    |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Rescue Bell Register / Bell Ledger / Continuance Bell       |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Missing 404 Watch Tower                                     |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Cooperative notice extracts and bell-entry cross-reference; |
-|                            | full register withheld                                      |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Name preservation, missing-person continuance,              |
-|                            | identity-loss resistance, recovery closure discipline       |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | M404-WT NAME CONTINUANCE RESTRICTED / SUBJECT CARE AND      |
-|                            | LEGAL REVIEW                                                |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-053-3 |
+| TECHNOLOGY NAME | Missing 404 Watch Tower Rescue Bell Continuance Register |
+| COMMON ABBREVIATIONS | Rescue Bell Register / Bell Ledger / Continuance Bell |
+| ORIGIN | Missing 404 Watch Tower |
+| ACQUISITION STATUS | Cooperative notice extracts and bell-entry cross-reference; full register withheld |
+| PRIMARY A.C.T INTEREST | Name preservation, missing-person continuance, identity-loss resistance, recovery closure discipline |
+| ARCHIVE HANDLING | M404-WT NAME CONTINUANCE RESTRICTED / SUBJECT CARE AND LEGAL REVIEW |
 
 ## Functional Identity
 

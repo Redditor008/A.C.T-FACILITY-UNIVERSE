@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ## Site Doctrine, Site Classification, and Installation Structure
 
-**Archive Status:** Active  
-**Distribution:** Internal  
-**Authority:** Central Archive / Administration / Site Governance Review  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal |
+| AUTHORITY | Central Archive / Administration / Site Governance Review |
 
 ---
 

@@ -1,72 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - NAMEWRIGHT BAZAAR
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-BS-X-069                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Namewright Bazaar                                           |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | NBZ                                                         |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | The Name Market; True-Name Row; Alias Fair; Paper-Mouth     |
-|                            | Bazaar; [CENSOR: FORMER CHILD LEDGER TITLE]                 |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | BUSINESS                                                    |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | NEGATIVE                                                    |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | TRANSNATIONAL                                               |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | PRACTITIONER                                                |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 4                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | EXPOSURE-ACTIVE                                             |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | INFILTRATE / MISDIRECT / CONTAIN / DISMANTLE               |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Namewrights, Mouth Factors, Ledger Mothers, Alias Cutters,  |
-|                            | Debt Registrars, and unidentified auction callers           |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Identity brokers, document forgers, ritual scribes,         |
-|                            | blackmail clerks, stolen-heir agents, and name collectors   |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Hidden markets, document districts, refugee routes, court   |
-|                            | archives, online identity boards, and private ceremonies    |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Name ledgers, alias knives, mouth contracts, stolen birth   |
-|                            | rolls, seal inks, false families, and identity rooms        |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Back-room stalls, paper vaults, witness cages, registry     |
-|                            | mirrors, mobile document vans, and dead-name cupboards      |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | A person is what can be named, bought, cut, sold, hidden,   |
-|                            | misfiled, reassigned, or spoken by someone with leverage    |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Repeated hostile contact through missing identities, false  |
-|                            | witnesses, stolen children, court-record alteration, and    |
-|                            | post-incident survivor exploitation                         |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | Restricted identity, witness, missing-person, registry,     |
-|                            | contract, amnestic, court, and survivor-exploitation files  |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - hostile identity market under dismantlement order  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division / Civil Covert / Legal / Recovery     |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with Site 01, Site 03, and regional review  |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for child ledgers, true-name instruments,  |
-|                            | stolen witness identities, and A.C.T record penetrations    |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-BS-X-069 |
+| COMMON NAME | Namewright Bazaar |
+| SHORT NAME | NBZ |
+| KNOWN ALIASES | The Name Market; True-Name Row; Alias Fair; Paper-Mouth Bazaar; [CENSOR: FORMER CHILD LEDGER TITLE] |
+| NATURE CLASS | BUSINESS |
+| ALIGNMENT CLASS | NEGATIVE |
+| REACH CLASS | TRANSNATIONAL |
+| ANOMALOUS CAPABILITY | PRACTITIONER |
+| THREAT LEVEL | 4 |
+| SECRECY RISK | EXPOSURE-ACTIVE |
+| A.C.T POSTURE | INFILTRATE / MISDIRECT / CONTAIN / DISMANTLE |
+| KNOWN LEADERSHIP | Namewrights, Mouth Factors, Ledger Mothers, Alias Cutters, Debt Registrars, and unidentified auction callers |
+| KNOWN MEMBERSHIP | Identity brokers, document forgers, ritual scribes, blackmail clerks, stolen-heir agents, and name collectors |
+| PRIMARY ACTIVE REGION | Hidden markets, document districts, refugee routes, court archives, online identity boards, and private ceremonies |
+| KNOWN ASSETS | Name ledgers, alias knives, mouth contracts, stolen birth rolls, seal inks, false families, and identity rooms |
+| KNOWN HOLDINGS | Back-room stalls, paper vaults, witness cages, registry mirrors, mobile document vans, and dead-name cupboards |
+| IDEOLOGY | A person is what can be named, bought, cut, sold, hidden, misfiled, reassigned, or spoken by someone with leverage |
+| HISTORY WITH A.C.T | Repeated hostile contact through missing identities, false witnesses, stolen children, court-record alteration, and post-incident survivor exploitation |
+| ANOMALY CROSS-REFERENCE | Restricted identity, witness, missing-person, registry, contract, amnestic, court, and survivor-exploitation files |
+| CURRENT STATUS | ACTIVE - hostile identity market under dismantlement order |
+| PRIMARY FILE AUTHORITY | Intelligence Division / Civil Covert / Legal / Recovery |
+| SITE JURISDICTION | Central Command with Site 01, Site 03, and regional review |
+| CLEARANCE REQUIRED | Level 4; Level 5 for child ledgers, true-name instruments, stolen witness identities, and A.C.T record penetrations |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Intelligence / Civil Covert / Legal / Recovery / Memory / Command
-**Authority:** Intelligence Division, Civil Covert Division, Legal Division, Recovery Division, Memory Review, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Intelligence / Civil Covert / Legal / Recovery / Memory / Command |
+| AUTHORITY | Intelligence Division, Civil Covert Division, Legal Division, Recovery Division, Memory Review, and Central Archive |
 
 #### Archive Note
 Namewright Bazaar is the active business filing for an outside identity market that buys, sells, cuts, leases, disguises, stores, and weaponizes names. Its trade includes ordinary aliases, forged documents, witness redirection, stolen family names, ritual true-name fragments, dead-name shielding, custody-title substitution, legal personhood laundering, and contracts that can make a buyer easier to remember than the original person. The Bazaar is not a harmless forgery ring. It is a predatory market that treats identity as inventory.

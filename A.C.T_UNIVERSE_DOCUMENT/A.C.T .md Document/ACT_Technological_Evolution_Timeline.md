@@ -6,10 +6,12 @@
                  Anomaly Containment Transformation
 ═══════════════════════════════════════════════════════════════════════
 
-**DOCUMENT ID:** ACT-HIST-TECH-2026  
-**DISTRIBUTION:** Level 4 Research Staff / Site Archives  
-**AUTHORITY:** Engineering & Transformation Division  
-**STATUS:** Active Internal Reference  
+| FIELD | VALUE |
+|---|---|
+| DOCUMENT ID | ACT-HIST-TECH-2026 |
+| DISTRIBUTION | Level 4 Research Staff / Site Archives |
+| AUTHORITY | Engineering & Transformation Division |
+| STATUS | Active Internal Reference |
 
 This record tracks the development of specialized containment systems, 
 structural materials, and operational hardware utilized by the 

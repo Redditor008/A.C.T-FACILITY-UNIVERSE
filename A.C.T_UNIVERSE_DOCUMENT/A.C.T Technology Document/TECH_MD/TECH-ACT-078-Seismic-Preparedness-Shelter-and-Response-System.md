@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - SEISMIC PREPAREDNESS SHELTER AND RESPONSE SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-078                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Seismic Preparedness Shelter and Response System            |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SPSRS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | PERSONNEL SAFETY / SEISMIC RESPONSE / SITE RESILIENCE      |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY F-5 PERSONNEL LEVEL                   |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Security Division / Relay Administration                    |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Medical, Command, Engineering, Seismic Analysis             |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / PERSONNEL PROTECTION USE                           |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | TECTONIC INCIDENT / EVACUATION CONFLICT / SHELTER FAILURE   |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 2 for personnel drill participation; Level 4 for      |
-|                            | response control, shelter override, or route reprioritizing |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-078 |
+| TECHNOLOGY NAME | Seismic Preparedness Shelter and Response System |
+| SHORT NAME | SPSRS |
+| TECHNOLOGY FAMILY | PERSONNEL SAFETY / SEISMIC RESPONSE / SITE RESILIENCE |
+| ORIGIN | NUSANTARA DEEP RELAY F-5 PERSONNEL LEVEL |
+| PRIMARY CONTROLLER | Security Division / Relay Administration |
+| ATTACHED DIVISIONS | Medical, Command, Engineering, Seismic Analysis |
+| OPERATIONAL STATUS | ACTIVE / PERSONNEL PROTECTION USE |
+| RISK STATUS | TECTONIC INCIDENT / EVACUATION CONFLICT / SHELTER FAILURE |
+| CLEARANCE REQUIRED | Level 2 for personnel drill participation; Level 4 for response control, shelter override, or route reprioritizing |
 
-**Archive Status:** Active Personnel Safety Technology Record
-**Distribution:** Security / Administration / Medical / Command / Engineering / Nusantara Deep Relay
-**Authority:** Security Division, Relay Administration, Site Director, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Personnel Safety Technology Record |
+| DISTRIBUTION | Security / Administration / Medical / Command / Engineering / Nusantara Deep Relay |
+| AUTHORITY | Security Division, Relay Administration, Site Director, and Central Archive |
 
 #### Archive Note
 Seismic Preparedness Shelter and Response System is the seventy-eighth main A.C.T technology expanded into an individual record. The F-5 Personnel and Command Level dossier identifies seismic preparedness as part of the floor's security posture and states that personnel-level procedures include response doctrine for large-scale tectonic shifts. It also identifies personnel housing as engineered for an island installation in a seismically active region where the environment itself demands resilience.

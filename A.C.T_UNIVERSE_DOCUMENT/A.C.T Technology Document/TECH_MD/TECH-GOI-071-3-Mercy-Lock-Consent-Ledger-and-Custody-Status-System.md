@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - MERCY LOCK CONSENT LEDGER AND CUSTODY STATUS SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-071-3                                             |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Mercy Lock Consent Ledger and Custody Status System         |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | MLCLCSS                                                     |
-+----------------------------+-------------------------------------------------------------+
-| GOI SOURCE                 | GOI-HY-P-071 - Mercy Lock Institute                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | CONSENT RECORD / LEGAL CUSTODY / IDENTITY-STABLE LEDGER    |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T CUSTODY STATUS       | ACQUIRED THROUGH TRANSFER AGREEMENTS AND DOCUMENT REVIEW    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T REVIEW       | Legal Division / Medical / Subject Care / Intelligence      |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | RESTRICTED JOINT-TRANSFER USE / PARTIAL ACCESS              |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONSENT MISREAD / IDENTITY DRIFT / UNLAWFUL DETENTION      |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for living patient identities, disputed    |
-|                            | guardianship, ledger anomaly, and ward location links       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-071-3 |
+| TECHNOLOGY NAME | Mercy Lock Consent Ledger and Custody Status System |
+| SHORT NAME | MLCLCSS |
+| GOI SOURCE | GOI-HY-P-071 - Mercy Lock Institute |
+| TECHNOLOGY FAMILY | CONSENT RECORD / LEGAL CUSTODY / IDENTITY-STABLE LEDGER |
+| A.C.T CUSTODY STATUS | ACQUIRED THROUGH TRANSFER AGREEMENTS AND DOCUMENT REVIEW |
+| PRIMARY A.C.T REVIEW | Legal Division / Medical / Subject Care / Intelligence |
+| OPERATIONAL STATUS | RESTRICTED JOINT-TRANSFER USE / PARTIAL ACCESS |
+| RISK STATUS | CONSENT MISREAD / IDENTITY DRIFT / UNLAWFUL DETENTION |
+| CLEARANCE REQUIRED | Level 4; Level 5 for living patient identities, disputed guardianship, ledger anomaly, and ward location links |
 
-**Archive Status:** Active GOI-Acquired Technology Record
-**Distribution:** Legal / Medical / Subject Care / Containment / Intelligence / Archive
-**Authority:** Legal Division, Medical Division, Subject Care Division, Intelligence Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active GOI-Acquired Technology Record |
+| DISTRIBUTION | Legal / Medical / Subject Care / Containment / Intelligence / Archive |
+| AUTHORITY | Legal Division, Medical Division, Subject Care Division, Intelligence Division, and Central Archive |
 
 #### Archive Note
 Mercy Lock Consent Ledger and Custody Status System is the third registered technology record derived from Mercy Lock Institute. Mercy Lock dossiers identify consent ledgers with voluntary, substitute, disputed, and emergency custody markings, and A.C.T has observed transfer agreements where patient safety requirements overrode faster containment handling. Mercy Lock claims dangerous abnormal conditions do not erase personhood; MLCLCSS is the record system that gives that claim operational weight.

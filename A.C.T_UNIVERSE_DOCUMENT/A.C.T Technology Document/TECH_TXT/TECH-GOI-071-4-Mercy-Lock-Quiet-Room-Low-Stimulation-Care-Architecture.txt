@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - MERCY LOCK QUIET ROOM LOW-STIMULATION CARE ARCHITECTURE
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-GOI-071-4
-TECHNOLOGY NAME: Mercy Lock Quiet Room Low-Stimulation Care Architecture
-SHORT NAME: MLQRLCA
-GOI SOURCE: GOI-HY-P-071 - Mercy Lock Institute
-TECHNOLOGY FAMILY: QUIET ROOM / LOW-STIMULATION WARD / NONVIOLENT CONTAINMENT
-A.C.T CUSTODY STATUS: ACQUIRED THROUGH WARD INSPECTION AND CONSULTATION
-PRIMARY A.C.T REVIEW: Medical / Subject Care / Containment / Engineering / Legal
-OPERATIONAL STATUS: RESTRICTED DESIGN REVIEW / CONSULTATION USE
-RISK STATUS: ROOM-PATIENT MISMATCH / ISOLATION HARM / HOSTILE ADAPTATION
-CLEARANCE REQUIRED: Level 4; Level 5 for ward layouts, patient-linked tuning, failed room incidents, and hidden clinic addresses
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-071-4                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Mercy Lock Quiet Room Low-Stimulation Care Architecture     |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | MLQRLCA                                                     |
++----------------------------+-------------------------------------------------------------+
+| GOI SOURCE                 | GOI-HY-P-071 - Mercy Lock Institute                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | QUIET ROOM / LOW-STIMULATION WARD / NONVIOLENT CONTAINMENT  |
++----------------------------+-------------------------------------------------------------+
+| A.C.T CUSTODY STATUS       | ACQUIRED THROUGH WARD INSPECTION AND CONSULTATION           |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T REVIEW       | Medical / Subject Care / Containment / Engineering / Legal  |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | RESTRICTED DESIGN REVIEW / CONSULTATION USE                 |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | ROOM-PATIENT MISMATCH / ISOLATION HARM / HOSTILE ADAPTATION |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4; Level 5 for ward layouts, patient-linked tuning,   |
+|                            | failed room incidents, and hidden clinic addresses          |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active GOI-Acquired Technology Record
 Distribution: Medical / Subject Care / Containment / Engineering / Legal / Intelligence

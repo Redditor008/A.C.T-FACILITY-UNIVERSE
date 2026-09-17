@@ -1,39 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - PUBLIC ARCHIVE ABSOLUTE SEPARATION AND IMMEDIATE TRANSFER SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-117                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Public Archive Absolute Separation and Immediate Transfer   |
-|                            | System                                                      |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | PAASITS                                                     |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | SURFACE ARCHIVE / COVER SEPARATION / TRANSFER CONTROL       |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | KUROKAWA ARCHIVE NODE F-8 SURFACE ARCHIVE AND TRANSITION   |
-|                            | LEVEL                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Foundation Director / Security Boundary Office              |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Foundation Administration, Archive, Security,               |
-|                            | Administration, Command                                     |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / PUBLIC-FLOOR CLEANNESS AND TRANSFER CONTROL        |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | PUBLIC CONTAMINATION / TRANSFER DELAY / COVER COLLAPSE     |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for boundary-transfer oversight; Level 4 for        |
-|                            | public-floor seal action or anomalous-material exception    |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-117 |
+| TECHNOLOGY NAME | Public Archive Absolute Separation and Immediate Transfer System |
+| SHORT NAME | PAASITS |
+| TECHNOLOGY FAMILY | SURFACE ARCHIVE / COVER SEPARATION / TRANSFER CONTROL |
+| ORIGIN | KUROKAWA ARCHIVE NODE F-8 SURFACE ARCHIVE AND TRANSITION LEVEL |
+| PRIMARY CONTROLLER | Foundation Director / Security Boundary Office |
+| ATTACHED DIVISIONS | Foundation Administration, Archive, Security, Administration, Command |
+| OPERATIONAL STATUS | ACTIVE / PUBLIC-FLOOR CLEANNESS AND TRANSFER CONTROL |
+| RISK STATUS | PUBLIC CONTAMINATION / TRANSFER DELAY / COVER COLLAPSE |
+| CLEARANCE REQUIRED | Level 3 for boundary-transfer oversight; Level 4 for public-floor seal action or anomalous-material exception |
 
-**Archive Status:** Active Kurokawa Surface-Archive Technology Record
-**Distribution:** Kurokawa Archive Node / Foundation Administration / Archive / Security / Command
-**Authority:** Foundation Director, Security Boundary Office, Site Director's Command Floor, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Kurokawa Surface-Archive Technology Record |
+| DISTRIBUTION | Kurokawa Archive Node / Foundation Administration / Archive / Security / Command |
+| AUTHORITY | Foundation Director, Security Boundary Office, Site Director's Command Floor, and Central Archive |
 
 #### Archive Note
 Public Archive Absolute Separation and Immediate Transfer System is the one-hundred-seventeenth main A.C.T technology expanded into an individual record. The F-8 Surface Archive and Transition Level dossier identifies F-8 as Kurokawa's legitimate foundation complex: reading rooms, preservation laboratories, digitization facilities, administrative spaces, and transition architecture connecting the public archive to the operational archive below. It states the floor's defining principle clearly: nothing anomalous is handled on the public level without immediate transfer below, because the public floor must be genuinely clean.

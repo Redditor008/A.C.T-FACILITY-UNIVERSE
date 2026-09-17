@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - REGRESSION-RESISTANT INK
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-020                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Regression-Resistant Ink                                    |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | RRI                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ARCHIVAL / CAUSAL SAFEGUARD / PHYSICAL RECORD MATERIAL      |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Archive Division / Materials Custody Desk                   |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | O5 Liaison, Info-Hazard, Site-03 Archive, Engineering       |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / O5-LEVEL LOG MATERIAL                 |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF FORGED, SPILLED, OR MISSEALED    |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for use; Level 5 for formula, particle source,      |
-|                            | O5 log stock, and shift-resistant witness record handling   |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-020 |
+| TECHNOLOGY NAME | Regression-Resistant Ink |
+| SHORT NAME | RRI |
+| TECHNOLOGY FAMILY | ARCHIVAL / CAUSAL SAFEGUARD / PHYSICAL RECORD MATERIAL |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Archive Division / Materials Custody Desk |
+| ATTACHED DIVISIONS | O5 Liaison, Info-Hazard, Site-03 Archive, Engineering |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / O5-LEVEL LOG MATERIAL |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF FORGED, SPILLED, OR MISSEALED |
+| CLEARANCE REQUIRED | Level 4 for use; Level 5 for formula, particle source, O5 log stock, and shift-resistant witness record handling |
 
-**Archive Status:** Active Archival Material Record  
-**Distribution:** Archive / O5 Liaison / Info-Hazard / Materials Custody / Site-03  
-**Authority:** Archive Division, Materials Custody Desk, O5 Liaison, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Archival Material Record |
+| DISTRIBUTION | Archive / O5 Liaison / Info-Hazard / Materials Custody / Site-03 |
+| AUTHORITY | Archive Division, Materials Custody Desk, O5 Liaison, and Central Archive |
 
 #### Archive Note
 Regression-Resistant Ink is the twentieth main A.C.T technology expanded into an individual record. The Master Catalog identifies it as liquid medium infused with redacted particles possessing causal memory and used for O5-level log preservation. The visual guide describes a heavy glass inkwell with a drip-prevention valve, pitch-black liquid with violet sparkle, a pressurized reservoir, biometric thumbprint cap, unusually thick fluid, and resistance to all non-anomalous solvents. AFD-?.H-404 The Refracted One requires all research logs to be written in Regression-Resistant Ink and stored in QNB because the subject rewrites non-shielded physical records whenever its state changes.

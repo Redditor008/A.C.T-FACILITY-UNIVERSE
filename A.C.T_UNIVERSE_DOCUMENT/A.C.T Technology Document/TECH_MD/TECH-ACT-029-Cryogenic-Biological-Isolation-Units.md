@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - CRYOGENIC BIOLOGICAL ISOLATION UNITS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-029                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Cryogenic Biological Isolation Units                        |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | CBI                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | MEDICAL / STASIS / BIOLOGICAL ISOLATION                     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Medical Division / Stasis Technology Desk                   |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Biological Containment, Logistics, Site Command, Recovery   |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / PATIENT AND SAMPLE SPECIFIC           |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF THAW, RHYTHM, OR SEAL FAILS      |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for patient use, FCA loading, and long-duration     |
-|                            | stasis; Level 5 for consciousness-adjacent containment      |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-029 |
+| TECHNOLOGY NAME | Cryogenic Biological Isolation Units |
+| SHORT NAME | CBI |
+| TECHNOLOGY FAMILY | MEDICAL / STASIS / BIOLOGICAL ISOLATION |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Medical Division / Stasis Technology Desk |
+| ATTACHED DIVISIONS | Biological Containment, Logistics, Site Command, Recovery |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / PATIENT AND SAMPLE SPECIFIC |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF THAW, RHYTHM, OR SEAL FAILS |
+| CLEARANCE REQUIRED | Level 4 for patient use, FCA loading, and long-duration stasis; Level 5 for consciousness-adjacent containment |
 
-**Archive Status:** Active Medical Stasis Technology Record  
-**Distribution:** Medical / Biological Containment / Stasis Technology / Logistics / Site Command  
-**Authority:** Medical Division, Stasis Technology Desk, Biological Containment Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Medical Stasis Technology Record |
+| DISTRIBUTION | Medical / Biological Containment / Stasis Technology / Logistics / Site Command |
+| AUTHORITY | Medical Division, Stasis Technology Desk, Biological Containment Division, and Central Archive |
 
 #### Archive Note
 Cryogenic Biological Isolation Units are the twenty-ninth main A.C.T technology expanded into an individual record. The Master Catalog defines CBI units as advanced stasis pods using resonant cooling to prevent biological decay without causing ice-crystal tissue damage. The visual guide describes a horizontal stasis coffin made of Abyssal Basalt and glass, with a Cellular-Rhythm Monitor on the headboard, a Manual Hand-Pump for emergency oxygenation, and anti-crystallization-coated glass that leaves the subject visible as if suspended in invisible ice. TECH-ACT-006 names CBI units as cargo that may be loaded into FCA-MED or FCA-LIFT missions. The Soul Pendant file requires Thorne's host body to remain in specialized medical stasis while the pendant stays within required proximity.

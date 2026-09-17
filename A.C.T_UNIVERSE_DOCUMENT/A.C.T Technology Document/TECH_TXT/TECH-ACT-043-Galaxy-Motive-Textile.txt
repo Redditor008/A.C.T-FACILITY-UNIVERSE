@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - GALAXY-MOTIVE TEXTILE
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-043
-TECHNOLOGY NAME: Galaxy-Motive Textile
-SHORT NAME: GMT
-TECHNOLOGY FAMILY: PROTECTIVE TEXTILE / RADIATION RESISTANCE / BIO-HAZARD PPE
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Materials Custody / Protective Equipment Desk
-ATTACHED DIVISIONS: Biological Containment, Recovery, Medical, Site Safety
-OPERATIONAL STATUS: ACTIVE / SPECIALIZED APPAREL / CASE-ISSUED
-RISK STATUS: CONTROLLED / RADIATION AND CONTAMINATION INDICATOR HAZARD
-CLEARANCE REQUIRED: Level 3 for wear; Level 4 for tailoring, fiber repair, radiation-counter calibration, and hydrophobic treatment
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-043                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Galaxy-Motive Textile                                       |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | GMT                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | PROTECTIVE TEXTILE / RADIATION RESISTANCE / BIO-HAZARD PPE  |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Materials Custody / Protective Equipment Desk               |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Biological Containment, Recovery, Medical, Site Safety      |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / SPECIALIZED APPAREL / CASE-ISSUED                  |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / RADIATION AND CONTAMINATION INDICATOR HAZARD   |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for wear; Level 4 for tailoring, fiber repair,      |
+|                            | radiation-counter calibration, and hydrophobic treatment    |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Protective Equipment Technology Record
 Distribution: Materials Custody / Protective Equipment / Biological Containment / Recovery / Medical / Site Safety

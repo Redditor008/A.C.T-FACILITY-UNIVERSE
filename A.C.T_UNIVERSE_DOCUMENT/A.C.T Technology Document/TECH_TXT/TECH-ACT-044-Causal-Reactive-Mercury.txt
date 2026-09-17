@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - CAUSAL-REACTIVE MERCURY
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-044
-TECHNOLOGY NAME: Causal-Reactive Mercury
-SHORT NAME: CRM
-TECHNOLOGY FAMILY: ANOMALOUS MATERIAL / TEMPORAL REACTIVE LIQUID METAL
-ORIGIN: A.C.T RECOVERY / TEMPORAL ARTIFACT DERIVATIVE STUDY
-PRIMARY CONTROLLER: Temporal Analysis Desk / Materials Custody
-ATTACHED DIVISIONS: Kurokawa Site Command, Object Containment, O5 Oversight
-OPERATIONAL STATUS: ACTIVE / VAULT-RESTRICTED / STASIS-FIELD STORED
-RISK STATUS: HAZARDOUS / TEMPORAL IMPRINT AND LIQUID METAL TOXICITY
-CLEARANCE REQUIRED: Level 4 for observation; Level 5 for flask transfer, Stop-Watch access, or stasis-field configuration
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-044                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Causal-Reactive Mercury                                     |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | CRM                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | ANOMALOUS MATERIAL / TEMPORAL REACTIVE LIQUID METAL         |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T RECOVERY / TEMPORAL ARTIFACT DERIVATIVE STUDY         |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Temporal Analysis Desk / Materials Custody                  |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Kurokawa Site Command, Object Containment, O5 Oversight     |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / VAULT-RESTRICTED / STASIS-FIELD STORED             |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | HAZARDOUS / TEMPORAL IMPRINT AND LIQUID METAL TOXICITY      |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for observation; Level 5 for flask transfer,        |
+|                            | Stop-Watch access, or stasis-field configuration            |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Temporal Material Technology Record
 Distribution: Temporal Analysis / Materials Custody / Kurokawa / Object Containment / O5 Oversight

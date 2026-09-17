@@ -256,13 +256,15 @@ A cult may worship an anomaly without being anomalous itself. A collective intel
 **Common Name:** Government Anti Anomaly  
 **Short Name:** GAA
 
-**Nature Class:** Government  
-**Alignment Class:** Positive  
-**Reach Class:** National  
-**Anomalous Capability:** Handler  
-**Threat Level:** 2  
-**Secrecy Risk:** Veiled  
-**A.C.T Posture:** Cooperated
+| FIELD | VALUE |
+|---|---|
+| NATURE CLASS | Government |
+| ALIGNMENT CLASS | Positive |
+| REACH CLASS | National |
+| ANOMALOUS CAPABILITY | Handler |
+| THREAT LEVEL | 2 |
+| SECRECY RISK | Veiled |
+| A.C.T POSTURE | Cooperated |
 
 **Summary:**  
 The **Government Anti Anomaly**, or **GAA**, is a limited government body aware of anomalous existence and partially cooperative with the A.C.T Facility. Internal estimates suggest that only around **10% of the wider government structure** possesses any meaningful awareness of anomalies at all. The GAA serves as one of the few official bridges between ordinary state power and the hidden anomaly-management world.

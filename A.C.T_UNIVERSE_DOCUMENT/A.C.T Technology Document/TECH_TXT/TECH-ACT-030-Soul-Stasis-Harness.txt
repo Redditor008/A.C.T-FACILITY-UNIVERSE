@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - SOUL-STASIS HARNESS
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-030
-TECHNOLOGY NAME: Soul-Stasis Harness
-SHORT NAME: SSH
-TECHNOLOGY FAMILY: MEDICAL / CONSCIOUSNESS ANCHOR / STASIS INTERFACE
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Medical Division / White Grave Stasis Desk
-ATTACHED DIVISIONS: Subject Care, Engineering, Narrative Analysis, Site Command
-OPERATIONAL STATUS: ACTIVE / CASE-RESTRICTED / CONSCIOUSNESS-ADJACENT
-RISK STATUS: HAZARDOUS / CONTROLLED ONLY UNDER PROXIMITY DISCIPLINE
-CLEARANCE REQUIRED: Level 4 for monitoring; Level 5 for anchor adjustment, acoustic bridge integration, and pendant-distance override
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-030                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Soul-Stasis Harness                                         |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | SSH                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | MEDICAL / CONSCIOUSNESS ANCHOR / STASIS INTERFACE           |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Medical Division / White Grave Stasis Desk                  |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Subject Care, Engineering, Narrative Analysis, Site Command |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / CASE-RESTRICTED / CONSCIOUSNESS-ADJACENT           |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | HAZARDOUS / CONTROLLED ONLY UNDER PROXIMITY DISCIPLINE      |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for monitoring; Level 5 for anchor adjustment,      |
+|                            | acoustic bridge integration, and pendant-distance override  |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Case-Restricted Medical Technology Record
 Distribution: Medical / White Grave / Subject Care / Engineering / Narrative Analysis / Site Command

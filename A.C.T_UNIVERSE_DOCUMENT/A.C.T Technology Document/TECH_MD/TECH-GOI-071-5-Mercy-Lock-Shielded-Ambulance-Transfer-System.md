@@ -1,13 +1,15 @@
 # TECH-GOI-071-5 - MERCY LOCK SHIELDED AMBULANCE TRANSFER SYSTEM
 
-**Technology Designation:** TECH-GOI-071-5
-**Technology Name:** Mercy Lock Shielded Ambulance Transfer System
-**Common Abbreviations:** MLSATS / Shielded Ambulance / Route-Curtain Ambulance
-**Origin:** Mercy Lock Institute
-**Acquisition Status:** Cooperative access, partial inspection, and recovered transfer components
-**Controlling Files:** GOI-HY-P-071, Mercy Lock transfer records, Medical Division custody logs, Site 02 transfer notes
-**Primary A.C.T Interest:** Nonviolent patient transport, medical containment transfer, public-cover movement, low-escalation custody
-**Archive Handling:** MERCY LOCK DISCLOSURE LIMIT / MEDICAL-CUSTODY RESTRICTED
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-071-5 |
+| TECHNOLOGY NAME | Mercy Lock Shielded Ambulance Transfer System |
+| COMMON ABBREVIATIONS | MLSATS / Shielded Ambulance / Route-Curtain Ambulance |
+| ORIGIN | Mercy Lock Institute |
+| ACQUISITION STATUS | Cooperative access, partial inspection, and recovered transfer components |
+| CONTROLLING FILES | GOI-HY-P-071, Mercy Lock transfer records, Medical Division custody logs, Site 02 transfer notes |
+| PRIMARY A.C.T INTEREST | Nonviolent patient transport, medical containment transfer, public-cover movement, low-escalation custody |
+| ARCHIVE HANDLING | MERCY LOCK DISCLOSURE LIMIT / MEDICAL-CUSTODY RESTRICTED |
 
 ## Functional Identity
 

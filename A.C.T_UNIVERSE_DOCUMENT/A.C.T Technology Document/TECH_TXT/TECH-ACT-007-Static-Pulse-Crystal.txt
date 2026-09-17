@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - STATIC-PULSE CRYSTAL
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-007
-TECHNOLOGY NAME: Static-Pulse Crystal
-SHORT NAME: SPC
-TECHNOLOGY FAMILY: ANOMALOUS MATERIAL / REALITY INFRASTRUCTURE / POWER CORE
-ORIGIN: A.C.T CONTROLLED EXTRACTION / ABYSS FLOOR SOURCE
-PRIMARY CONTROLLER: Engineering Division / Materials Custody Desk
-ATTACHED DIVISIONS: Containment, Logistics, Site Command, Archive, Intelligence
-OPERATIONAL STATUS: ACTIVE / RESTRICTED / SOURCE-LIMITED
-RISK STATUS: CONTROLLED / HAZARDOUS IF FRACTURED, OVERHEATED, OR STOLEN
-CLEARANCE REQUIRED: Level 4 for issued cores; Level 5 for source, cutting, four-split geometry, and discarded-shard inventory
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-007                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Static-Pulse Crystal                                        |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | SPC                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | ANOMALOUS MATERIAL / REALITY INFRASTRUCTURE / POWER CORE    |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T CONTROLLED EXTRACTION / ABYSS FLOOR SOURCE            |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Engineering Division / Materials Custody Desk               |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Containment, Logistics, Site Command, Archive, Intelligence |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / SOURCE-LIMITED                        |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF FRACTURED, OVERHEATED, OR STOLEN  |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for issued cores; Level 5 for source, cutting,      |
+|                            | four-split geometry, and discarded-shard inventory          |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Restricted Material Record
 Distribution: Engineering / Containment / Materials Custody / Logistics / Command

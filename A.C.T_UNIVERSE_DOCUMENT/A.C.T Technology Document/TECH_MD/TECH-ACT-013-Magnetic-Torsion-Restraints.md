@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - MAGNETIC TORSION RESTRAINTS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-013                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Magnetic Torsion Restraints                                 |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | MTR                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | CONTAINMENT / HEAVY RESTRAINT / MAGNETIC LOCKDOWN           |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Containment Division / Engineering Division                 |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Object Containment, Tactical Review, Site Command, Security |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / FIXED-INSTALLATION / EMERGENCY FIELD ADAPTABLE     |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF LOAD, FIELD, OR SUBJECT SHIFTS   |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for operation; Level 4 for frequency dial access,   |
-|                            | HIGENMARU-KORIN breach use, and mobile rig authorization    |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-013 |
+| TECHNOLOGY NAME | Magnetic Torsion Restraints |
+| SHORT NAME | MTR |
+| TECHNOLOGY FAMILY | CONTAINMENT / HEAVY RESTRAINT / MAGNETIC LOCKDOWN |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Containment Division / Engineering Division |
+| ATTACHED DIVISIONS | Object Containment, Tactical Review, Site Command, Security |
+| OPERATIONAL STATUS | ACTIVE / FIXED-INSTALLATION / EMERGENCY FIELD ADAPTABLE |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF LOAD, FIELD, OR SUBJECT SHIFTS |
+| CLEARANCE REQUIRED | Level 3 for operation; Level 4 for frequency dial access, HIGENMARU-KORIN breach use, and mobile rig authorization |
 
-**Archive Status:** Active Containment Technology Record  
-**Distribution:** Containment / Engineering / Object Containment / Tactical Review / Site Command / Security  
-**Authority:** Containment Division, Engineering Division, Tactical Review Desk, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Containment Technology Record |
+| DISTRIBUTION | Containment / Engineering / Object Containment / Tactical Review / Site Command / Security |
+| AUTHORITY | Containment Division, Engineering Division, Tactical Review Desk, and Central Archive |
 
 #### Archive Note
 Magnetic Torsion Restraints are the thirteenth main A.C.T technology expanded into an individual record. The Master Catalog defines them as superconducting magnetic arrays with capacity above twenty tons, calibrated for inhibition of self-organizing metallic mass. The visual reference guide describes massive wall-mounted brushed surgical-steel rings with liquid-helium circulation vents, gravity-compensation arms, a redacted frequency dial, manual lockdown levers, digital magnetic load gauge, and torso-thick power conduits pulsing with blue LED light. AFD-OB-221 HIGENMARU-KORIN also names MTR as the breach response for an unsheathed blade, with the direct warning not to parry the weapon with standard equipment.

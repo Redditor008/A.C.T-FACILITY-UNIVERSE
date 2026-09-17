@@ -1,37 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - SURFACE RESEARCH CAMPUS COVER INTEGRATION SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-108                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Surface Research Campus Cover Integration System            |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SRCCIS                                                      |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | COVER CAMPUS / ECOLOGICAL RESEARCH / BOUNDARY CONCEALMENT  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | VERDE NULL BIO-RESERVE F-5 SURFACE RESEARCH CAMPUS         |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Campus Director / Surface Cover Administration              |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Research, Administration, Security, Environmental           |
-|                            | Containment, Command                                        |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / LEGITIMATE CAMPUS COVER INFRASTRUCTURE             |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | COVER BREACH / BOUNDARY EXPOSURE / PUBLIC-RESEARCH CONFLICT|
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 2 for campus operation; Level 3 for boundary liaison; |
-|                            | Level 4 for cover adjustment or concealed access routing    |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-108 |
+| TECHNOLOGY NAME | Surface Research Campus Cover Integration System |
+| SHORT NAME | SRCCIS |
+| TECHNOLOGY FAMILY | COVER CAMPUS / ECOLOGICAL RESEARCH / BOUNDARY CONCEALMENT |
+| ORIGIN | VERDE NULL BIO-RESERVE F-5 SURFACE RESEARCH CAMPUS |
+| PRIMARY CONTROLLER | Campus Director / Surface Cover Administration |
+| ATTACHED DIVISIONS | Research, Administration, Security, Environmental Containment, Command |
+| OPERATIONAL STATUS | ACTIVE / LEGITIMATE CAMPUS COVER INFRASTRUCTURE |
+| RISK STATUS | COVER BREACH / BOUNDARY EXPOSURE / PUBLIC-RESEARCH CONFLICT |
+| CLEARANCE REQUIRED | Level 2 for campus operation; Level 3 for boundary liaison; Level 4 for cover adjustment or concealed access routing |
 
-**Archive Status:** Active Verde Null Cover Technology Record
-**Distribution:** Verde Null Bio-Reserve / Research / Administration / Security / Environmental Containment / Archive
-**Authority:** Campus Director, Surface Cover Administration, Site Director, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Verde Null Cover Technology Record |
+| DISTRIBUTION | Verde Null Bio-Reserve / Research / Administration / Security / Environmental Containment / Archive |
+| AUTHORITY | Campus Director, Surface Cover Administration, Site Director, and Central Archive |
 
 #### Archive Note
 Surface Research Campus Cover Integration System is the one-hundred-eighth main A.C.T technology expanded into an individual record. The Verde Null Bio-Reserve dossier identifies the site cover as a legitimate ecological research reserve conducting genuine biodiversity, conservation, and climate science. The F-5 Surface Research Campus dossier identifies the campus as the reserve's visible face: research laboratories, ecological monitoring stations, personnel housing, administrative buildings, command center, campus access architecture, public-program communications, and the invisible boundary between legitimate research areas and anomalous enclosure sectors.

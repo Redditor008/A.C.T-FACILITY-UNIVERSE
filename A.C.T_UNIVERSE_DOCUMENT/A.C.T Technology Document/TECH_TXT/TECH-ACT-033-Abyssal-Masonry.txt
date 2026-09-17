@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - ABYSSAL MASONRY
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-033
-TECHNOLOGY NAME: Abyssal Masonry
-SHORT NAME: ABM
-TECHNOLOGY FAMILY: STRUCTURAL MATERIAL / ABYSS FLOOR / PSYCHIC-SEISMIC DAMPING
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Engineering Division / Abyss Floor Structural Desk
-ATTACHED DIVISIONS: Site Command, Heavy Containment, Artifact Storage, Archive
-OPERATIONAL STATUS: ACTIVE / STRUCTURAL / HIGH-DENSITY DEPLOYMENT
-RISK STATUS: CONTROLLED / ITHYOS-RESIDUE MATERIAL
-CLEARANCE REQUIRED: Level 3 for installation support; Level 4 for composition data; Level 5 for Abyss Floor core placement
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-033                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Abyssal Masonry                                             |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | ABM                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | STRUCTURAL MATERIAL / ABYSS FLOOR / PSYCHIC-SEISMIC DAMPING |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Engineering Division / Abyss Floor Structural Desk          |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Site Command, Heavy Containment, Artifact Storage, Archive  |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / STRUCTURAL / HIGH-DENSITY DEPLOYMENT               |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / ITHYOS-RESIDUE MATERIAL                        |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for installation support; Level 4 for composition   |
+|                            | data; Level 5 for Abyss Floor core placement                |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Structural Material Technology Record
 Distribution: Engineering / Abyss Floor / Site Command / Heavy Containment / Artifact Storage / Archive

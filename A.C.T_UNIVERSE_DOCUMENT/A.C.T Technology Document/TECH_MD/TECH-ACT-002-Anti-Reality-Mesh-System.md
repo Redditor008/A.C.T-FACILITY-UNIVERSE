@@ -1,37 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - ANTI REALITY MESH SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-002                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Anti Reality Mesh System                                    |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | ARM                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | INFRASTRUCTURE / CONCEALMENT / PERCEPTUAL-MASKING          |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Engineering Division / Civil Covert Division                |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Site Command, Containment, Intelligence, Archive, Logistics,|
-|                            | Recovery, and Normalcy Management                           |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / SITE-CRITICAL                         |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF OVERLAPPED OR MIS-CALIBRATED     |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for mesh operation; Level 5 for aperture-node       |
-|                            | composition, site-wide reset, and civilian-perception tables|
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-002 |
+| TECHNOLOGY NAME | Anti Reality Mesh System |
+| SHORT NAME | ARM |
+| TECHNOLOGY FAMILY | INFRASTRUCTURE / CONCEALMENT / PERCEPTUAL-MASKING |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Engineering Division / Civil Covert Division |
+| ATTACHED DIVISIONS | Site Command, Containment, Intelligence, Archive, Logistics, Recovery, and Normalcy Management |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / SITE-CRITICAL |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF OVERLAPPED OR MIS-CALIBRATED |
+| CLEARANCE REQUIRED | Level 4 for mesh operation; Level 5 for aperture-node composition, site-wide reset, and civilian-perception tables |
 
-**Archive Status:** Active Restricted Technology Record  
-**Distribution:** Engineering / Civil Covert / Site Command / Containment / Intelligence / Archive / Command  
-**Authority:** Engineering Division, Civil Covert Division, Site Command, Normalcy Management, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Technology Record |
+| DISTRIBUTION | Engineering / Civil Covert / Site Command / Containment / Intelligence / Archive / Command |
+| AUTHORITY | Engineering Division, Civil Covert Division, Site Command, Normalcy Management, and Central Archive |
 
 #### Archive Note
 The Anti Reality Mesh System is the second main A.C.T technology expanded into an individual record because it is the site-wide concealment and perceptual damping system paired with the Reality Stabilization Anchor System across A.C.T infrastructure. The master technology index identifies ARM as a multi-vector cloaking field operating on physical and perceptual levels to render Facility locations unremarkable to civilian observation. The technological timeline records full site-wide deployment in 1982, following the earlier 1940 Alpha prototype used to mask the Siena Estate from surface detection. Site dossiers identify ARM as the system maintaining public cover identity for major facilities.

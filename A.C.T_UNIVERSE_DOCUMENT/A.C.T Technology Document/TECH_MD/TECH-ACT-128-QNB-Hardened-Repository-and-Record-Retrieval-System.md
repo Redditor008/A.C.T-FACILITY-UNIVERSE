@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - QNB-HARDENED REPOSITORY AND RECORD RETRIEVAL SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-128                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | QNB-Hardened Repository and Record Retrieval System         |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | QHRRRS                                                      |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | CENTRAL ARCHIVE / QNB HARDENING / RECORD RETRIEVAL         |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | REDWOOD VEIL COMPLEX F-7 CENTRAL ARCHIVE AND RECORDS       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Floor Archivist / Archive Division                          |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Archive, Containment, Recovery, Medical, Administration    |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / CAUSAL-RESISTANT DOCUMENTARY ESTATE                |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | RECORD REWRITE / ACCESS VIOLATION / QUARANTINE MISROUTE    |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Archive clearance; restricted-record and quarantine-cell    |
-|                            | access by contents, resident status, and command authority |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-128 |
+| TECHNOLOGY NAME | QNB-Hardened Repository and Record Retrieval System |
+| SHORT NAME | QHRRRS |
+| TECHNOLOGY FAMILY | CENTRAL ARCHIVE / QNB HARDENING / RECORD RETRIEVAL |
+| ORIGIN | REDWOOD VEIL COMPLEX F-7 CENTRAL ARCHIVE AND RECORDS |
+| PRIMARY CONTROLLER | Floor Archivist / Archive Division |
+| ATTACHED DIVISIONS | Archive, Containment, Recovery, Medical, Administration |
+| OPERATIONAL STATUS | ACTIVE / CAUSAL-RESISTANT DOCUMENTARY ESTATE |
+| RISK STATUS | RECORD REWRITE / ACCESS VIOLATION / QUARANTINE MISROUTE |
+| CLEARANCE REQUIRED | Archive clearance; restricted-record and quarantine-cell access by contents, resident status, and command authority |
 
-**Archive Status:** Active Redwood Veil Archive Technology Record
-**Distribution:** Redwood Veil Complex / Archive / Containment / Recovery / Medical / Administration
-**Authority:** Floor Archivist, Archive Division, Site Director, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Redwood Veil Archive Technology Record |
+| DISTRIBUTION | Redwood Veil Complex / Archive / Containment / Recovery / Medical / Administration |
+| AUTHORITY | Floor Archivist, Archive Division, Site Director, and Central Archive |
 
 #### Archive Note
 QNB-Hardened Repository and Record Retrieval System is the one-hundred-twenty-eighth main A.C.T technology expanded into an individual record. The Redwood Veil F-7 Central Archive and Records dossier identifies F-7 as the complex's document repository for recovery logs, object histories, witness records, cover paperwork, restricted records, and information-borne hazard documents. It records repository halls, accession and processing bays, retrieval rooms, restricted vaults, document quarantine cells, record systems, and QNB-hardened structure resisting external causal rewrites.

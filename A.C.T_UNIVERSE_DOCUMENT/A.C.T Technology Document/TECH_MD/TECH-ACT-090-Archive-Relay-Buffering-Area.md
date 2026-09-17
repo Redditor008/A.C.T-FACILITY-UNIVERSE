@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - ARCHIVE RELAY BUFFERING AREA
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-090                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Archive Relay Buffering Area                                |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | ARBA                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ARCHIVE RELAY / TEMPORARY RECORD CUSTODY / TRANSFER BUFFER |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | GLASS ORCHARD RELAY F-2 ARCHIVE BUFFERING AREA             |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Limited Archive Lead / Processing Officer                   |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Limited Archive, Security, Recovery Support, Medical        |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / TEMPORARY ARCHIVE TRANSFER USE                     |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | RECORD OVERSTAY / CUSTODY LOSS / HAZARD MISROUTING RISK    |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for relay custody; Level 4 for restricted record,   |
-|                            | anomaly-bearing document, or parent-archive exception       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-090 |
+| TECHNOLOGY NAME | Archive Relay Buffering Area |
+| SHORT NAME | ARBA |
+| TECHNOLOGY FAMILY | ARCHIVE RELAY / TEMPORARY RECORD CUSTODY / TRANSFER BUFFER |
+| ORIGIN | GLASS ORCHARD RELAY F-2 ARCHIVE BUFFERING AREA |
+| PRIMARY CONTROLLER | Limited Archive Lead / Processing Officer |
+| ATTACHED DIVISIONS | Limited Archive, Security, Recovery Support, Medical |
+| OPERATIONAL STATUS | ACTIVE / TEMPORARY ARCHIVE TRANSFER USE |
+| RISK STATUS | RECORD OVERSTAY / CUSTODY LOSS / HAZARD MISROUTING RISK |
+| CLEARANCE REQUIRED | Level 3 for relay custody; Level 4 for restricted record, anomaly-bearing document, or parent-archive exception |
 
-**Archive Status:** Active Archive Relay Technology Record
-**Distribution:** Glass Orchard Relay / Redwood Veil Complex / Limited Archive / Security / Recovery Support / Central Archive
-**Authority:** Limited Archive Lead, Processing Officer, Sub-Site Chief, Redwood Veil Archive Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Archive Relay Technology Record |
+| DISTRIBUTION | Glass Orchard Relay / Redwood Veil Complex / Limited Archive / Security / Recovery Support / Central Archive |
+| AUTHORITY | Limited Archive Lead, Processing Officer, Sub-Site Chief, Redwood Veil Archive Command, and Central Archive |
 
 #### Archive Note
 Archive Relay Buffering Area is the ninetieth main A.C.T technology expanded into an individual record. The Glass Orchard Relay dossier identifies the relay as an archive relay node buffering material between field operations and the parent site's archive. The F-2 Processing and Staging Level dossier identifies the archive relay buffering area as a core space and states that documents buffered there await transfer, not permanent repository status.

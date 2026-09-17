@@ -1,12 +1,25 @@
 TECH-GOI-052-5 - AMAZOO CIRCUS FAIRGROUND MOBILITY AND ROUTE CONCEALMENT SYSTEM
 
-Technology Designation: TECH-GOI-052-5
-Technology Name: Amazoo Circus Fairground Mobility and Route Concealment System
-Common Abbreviations: FMRC / Traveling Route System / Amazoo Route Cover
-Origin: Amazoo Circus
-Acquisition Status: Operation BIG TOP route reconstruction and seized fairground evidence
-Primary A.C.T Interest: POI-0507 pursuit, missing performer tracing, cage inventory recovery, rebuilt-circus detection
-Archive Handling: AMAZOO ROUTE RESTRICTED / INTELLIGENCE AND REGIONAL COMMAND
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-052-5                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Amazoo Circus Fairground Mobility and Route Concealment     |
+|                            | System                                                      |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | FMRC / Traveling Route System / Amazoo Route Cover          |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | Amazoo Circus                                               |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Operation BIG TOP route reconstruction and seized           |
+|                            | fairground evidence                                         |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | POI-0507 pursuit, missing performer tracing, cage inventory |
+|                            | recovery, rebuilt-circus detection                          |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | AMAZOO ROUTE RESTRICTED / INTELLIGENCE AND REGIONAL COMMAND |
++----------------------------+-------------------------------------------------------------+
 
 Functional Identity
 

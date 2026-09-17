@@ -162,9 +162,11 @@ The **?.H** designation is reserved for anomalies that resist stable categorizat
 A.C.T anomaly files may be structured in layered format, such as:
 
 **AFD-OB-042**  
-**Containment Class:** REACTIVE  
-**Threat Level:** 4  
-**Transformation Viability:** CONTAINED-STUDY
+| FIELD | VALUE |
+|---|---|
+| CONTAINMENT CLASS | REACTIVE |
+| THREAT LEVEL | 4 |
+| TRANSFORMATION VIABILITY | CONTAINED-STUDY |
 
 This allows personnel to identify the anomaly’s type, danger, containment behavior, and conversion potential at a glance.
 

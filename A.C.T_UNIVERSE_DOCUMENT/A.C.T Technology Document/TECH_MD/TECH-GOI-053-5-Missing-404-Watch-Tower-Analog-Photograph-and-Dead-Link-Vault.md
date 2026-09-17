@@ -1,27 +1,14 @@
 # TECH-GOI-053-5 - MISSING 404 WATCH TOWER ANALOG PHOTOGRAPH AND DEAD-LINK VAULT
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-053-5                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Missing 404 Watch Tower Analog Photograph and Dead-Link     |
-|                            | Vault                                                       |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Photo Vault / Dead-Link Vault / Analog Continuance Vault    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Missing 404 Watch Tower                                     |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Cooperative dead-link notices and inspected storage         |
-|                            | practice; full vault withheld                               |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Digital-failure backup, visual proof preservation,          |
-|                            | vanished-web evidence, normalcy cleanup restraint           |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | M404-WT ARCHIVE RESTRICTED / CENTRAL ARCHIVE REVIEW         |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-053-5 |
+| TECHNOLOGY NAME | Missing 404 Watch Tower Analog Photograph and Dead-Link Vault |
+| COMMON ABBREVIATIONS | Photo Vault / Dead-Link Vault / Analog Continuance Vault |
+| ORIGIN | Missing 404 Watch Tower |
+| ACQUISITION STATUS | Cooperative dead-link notices and inspected storage practice; full vault withheld |
+| PRIMARY A.C.T INTEREST | Digital-failure backup, visual proof preservation, vanished-web evidence, normalcy cleanup restraint |
+| ARCHIVE HANDLING | M404-WT ARCHIVE RESTRICTED / CENTRAL ARCHIVE REVIEW |
 
 ## Functional Identity
 

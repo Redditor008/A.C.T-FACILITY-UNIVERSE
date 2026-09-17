@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - TACTICAL FEEDBACKER ARM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-014                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Tactical Feedbacker Arm                                     |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | TFA                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | FIELD / PROSTHETIC / TACTICAL DEFLECTION                    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Tactical Engineering / Medical Prosthetics Desk             |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Recovery, Field Command, Medical, Training, Security        |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED ISSUE / OPERATOR-BONDED                 |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF TIMING, FEEDBACK, OR USER FAILS  |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for bonded operators; Level 4 for capacitor tuning, |
-|                            | combat deployment, and anomaly-contact parry authorization  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-014 |
+| TECHNOLOGY NAME | Tactical Feedbacker Arm |
+| SHORT NAME | TFA |
+| TECHNOLOGY FAMILY | FIELD / PROSTHETIC / TACTICAL DEFLECTION |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Tactical Engineering / Medical Prosthetics Desk |
+| ATTACHED DIVISIONS | Recovery, Field Command, Medical, Training, Security |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED ISSUE / OPERATOR-BONDED |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF TIMING, FEEDBACK, OR USER FAILS |
+| CLEARANCE REQUIRED | Level 3 for bonded operators; Level 4 for capacitor tuning, combat deployment, and anomaly-contact parry authorization |
 
-**Archive Status:** Active Tactical Prosthetic Record  
-**Distribution:** Tactical Engineering / Medical / Recovery / Field Command / Training / Security  
-**Authority:** Tactical Engineering Desk, Medical Prosthetics Desk, Field Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Tactical Prosthetic Record |
+| DISTRIBUTION | Tactical Engineering / Medical / Recovery / Field Command / Training / Security |
+| AUTHORITY | Tactical Engineering Desk, Medical Prosthetics Desk, Field Command, and Central Archive |
 
 #### Archive Note
 The Tactical Feedbacker Arm is the fourteenth main A.C.T technology expanded into an individual record. The Master Catalog defines it as a cybernetic prosthesis using harmonic vibration to parry kinetic projectiles and energy bursts. The technological timeline records 2018 as the deployment year of the first parrying prosthesis using harmonic vibration to redirect high-energy projectiles. The visual guide describes a blue-tinted steel prosthetic with vibrating harmonic fins along the forearm, a pressure-sensitive disc in the palm, a tactical wrist-screen showing parry-window timing, and a yellow light pulse with a sharp ding after a successful strike. The Dark World Door expedition log records a field use during Expedition Pale-01, when Novak activated a Tactical Feedbacker Arm against a Bones Hound and shattered the entity's front limb-bone through impact vibration.

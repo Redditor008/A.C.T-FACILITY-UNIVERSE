@@ -2,9 +2,11 @@
 ## Main Story Character Archive Profiles
 ## The Facility That Forgot Its First Lie
 
-**Archive Status:** Internal Narrative Use  
-**Distribution:** Restricted  
-**Authority:** Story Structure Reference Archive  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Internal Narrative Use |
+| DISTRIBUTION | Restricted |
+| AUTHORITY | Story Structure Reference Archive |
 
 ---
 

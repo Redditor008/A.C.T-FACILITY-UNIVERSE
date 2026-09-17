@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - SENSOR NEXUS SIGNAL PROCESSING ARCHITECTURE
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-068                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Sensor Nexus Signal Processing Architecture                 |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SNSPA                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | SEISMIC ANALYSIS / SIGNAL INTERPRETATION / F-1 NEXUS       |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY SENSOR NEXUS                          |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Seismic Analysis Support / Vault Listening Chief            |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Containment, Research, Engineering, Central Archive         |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / F-1 CONTROLLED USE                                 |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | FALSE PATTERN / SIGNAL CONTAGION / RECORD ROUTING RISK      |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; restricted review escalation for abyss-linked      |
-|                            | correlation output                                          |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-068 |
+| TECHNOLOGY NAME | Sensor Nexus Signal Processing Architecture |
+| SHORT NAME | SNSPA |
+| TECHNOLOGY FAMILY | SEISMIC ANALYSIS / SIGNAL INTERPRETATION / F-1 NEXUS |
+| ORIGIN | NUSANTARA DEEP RELAY SENSOR NEXUS |
+| PRIMARY CONTROLLER | Seismic Analysis Support / Vault Listening Chief |
+| ATTACHED DIVISIONS | Containment, Research, Engineering, Central Archive |
+| OPERATIONAL STATUS | ACTIVE / F-1 CONTROLLED USE |
+| RISK STATUS | FALSE PATTERN / SIGNAL CONTAGION / RECORD ROUTING RISK |
+| CLEARANCE REQUIRED | Level 4; restricted review escalation for abyss-linked correlation output |
 
-**Archive Status:** Active Sensor-Nexus Technology Record
-**Distribution:** Seismic Analysis / Research / Containment / Central Archive / Nusantara Deep Relay
-**Authority:** Vault Listening Chief, Seismic Analysis Support, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Sensor-Nexus Technology Record |
+| DISTRIBUTION | Seismic Analysis / Research / Containment / Central Archive / Nusantara Deep Relay |
+| AUTHORITY | Vault Listening Chief, Seismic Analysis Support, and Central Archive |
 
 #### Archive Note
 Sensor Nexus Signal Processing Architecture is the sixty-eighth main A.C.T technology expanded into an individual record. The F-1 Deep Listening Vault dossier identifies the deepest floor of Nusantara Deep Relay as the sensor nexus where deep-earth monitoring arrays terminate, and where signals from the island's foundation and the deep structure beyond are received, amplified, interpreted, and preserved. The same dossier states that F-1's sensor systems are its defining infrastructure: arrays, signal processing architecture, and recording systems.

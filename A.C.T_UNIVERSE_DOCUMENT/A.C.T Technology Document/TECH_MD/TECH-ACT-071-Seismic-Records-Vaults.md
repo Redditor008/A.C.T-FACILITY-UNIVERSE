@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - SEISMIC RECORDS VAULTS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-071                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Seismic Records Vaults                                      |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SRV                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ARCHIVAL INFRASTRUCTURE / SEISMIC RECORD CUSTODY           |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY F-2 RECORDS LEVEL                     |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Archive Division / Records and Monitoring Chief             |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Seismic Analysis, Research, Security, Site Command          |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / CONTINUOUS SEISMIC RECORD PRESERVATION             |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | RECORD LOSS / MISFILED EVENT / BASELINE CORRUPTION RISK     |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for ordinary seismic archive maintenance; Level 4   |
-|                            | for deep observation sets or sensitivity reclassification   |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-071 |
+| TECHNOLOGY NAME | Seismic Records Vaults |
+| SHORT NAME | SRV |
+| TECHNOLOGY FAMILY | ARCHIVAL INFRASTRUCTURE / SEISMIC RECORD CUSTODY |
+| ORIGIN | NUSANTARA DEEP RELAY F-2 RECORDS LEVEL |
+| PRIMARY CONTROLLER | Archive Division / Records and Monitoring Chief |
+| ATTACHED DIVISIONS | Seismic Analysis, Research, Security, Site Command |
+| OPERATIONAL STATUS | ACTIVE / CONTINUOUS SEISMIC RECORD PRESERVATION |
+| RISK STATUS | RECORD LOSS / MISFILED EVENT / BASELINE CORRUPTION RISK |
+| CLEARANCE REQUIRED | Level 3 for ordinary seismic archive maintenance; Level 4 for deep observation sets or sensitivity reclassification |
 
-**Archive Status:** Active Archival Infrastructure Technology Record
-**Distribution:** Archive / Seismic Analysis / Research / Security / Nusantara Deep Relay
-**Authority:** Archive Division, Records and Monitoring Chief, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Archival Infrastructure Technology Record |
+| DISTRIBUTION | Archive / Seismic Analysis / Research / Security / Nusantara Deep Relay |
+| AUTHORITY | Archive Division, Records and Monitoring Chief, and Central Archive |
 
 #### Archive Note
 Seismic Records Vaults are the seventy-first main A.C.T technology expanded into an individual record. The F-2 Deep Monitoring and Restricted Records dossier identifies the records vaults as the holding infrastructure for Nusantara's seismic documentation: the continuous record of the relay's deep-earth monitoring, maintained under Archive Division custody. F-2 doctrine names the floor as the relay's memory of the deep.

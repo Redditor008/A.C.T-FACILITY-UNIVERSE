@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - SANGUINE-CONDUCTIVE ALLOY
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-046
-TECHNOLOGY NAME: Sanguine-Conductive Alloy
-SHORT NAME: SCA
-TECHNOLOGY FAMILY: ANOMALOUS MATERIAL / BIOLOGICAL DATA CONDUCTION
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Materials Custody / Medical Engineering Desk
-ATTACHED DIVISIONS: Medical, Biological Containment, Data Security, O5 Review
-OPERATIONAL STATUS: ACTIVE / RESTRICTED / BLOOD-CONTACT CONTROLLED
-RISK STATUS: HAZARDOUS / BIOLOGICAL DATA AND CONTAMINATION HAZARD
-CLEARANCE REQUIRED: Level 4 for handling; Level 5 for live-blood interface, subject-linked data transfer, and alloy-network testing
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-046                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Sanguine-Conductive Alloy                                   |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | SCA                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | ANOMALOUS MATERIAL / BIOLOGICAL DATA CONDUCTION             |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Materials Custody / Medical Engineering Desk                |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Medical, Biological Containment, Data Security, O5 Review   |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / BLOOD-CONTACT CONTROLLED              |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | HAZARDOUS / BIOLOGICAL DATA AND CONTAMINATION HAZARD        |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for handling; Level 5 for live-blood interface,     |
+|                            | subject-linked data transfer, and alloy-network testing     |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Anomalous Material Technology Record
 Distribution: Materials Custody / Medical Engineering / Medical / Biological Containment / Data Security / O5 Review

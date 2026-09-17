@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - SURFACE COVER RESEARCH CAMPUS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-079                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Surface Cover Research Campus                               |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SCRC                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | NORMALCY INFRASTRUCTURE / SCIENTIFIC COVER / SITE SURFACE  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY F-6 PUBLIC PROGRAM                    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Campus Director / Relay Administration                      |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Research, Security, Port Operations, Cover, Site Command    |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / PUBLIC AND SEMI-PUBLIC COVER USE                  |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | COVER FAILURE / PUBLIC SCRUTINY / BOUNDARY EXPOSURE RISK    |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 2 for ordinary campus support; Level 4 for cover      |
-|                            | alteration, concealed-transition control, or exposure event |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-079 |
+| TECHNOLOGY NAME | Surface Cover Research Campus |
+| SHORT NAME | SCRC |
+| TECHNOLOGY FAMILY | NORMALCY INFRASTRUCTURE / SCIENTIFIC COVER / SITE SURFACE |
+| ORIGIN | NUSANTARA DEEP RELAY F-6 PUBLIC PROGRAM |
+| PRIMARY CONTROLLER | Campus Director / Relay Administration |
+| ATTACHED DIVISIONS | Research, Security, Port Operations, Cover, Site Command |
+| OPERATIONAL STATUS | ACTIVE / PUBLIC AND SEMI-PUBLIC COVER USE |
+| RISK STATUS | COVER FAILURE / PUBLIC SCRUTINY / BOUNDARY EXPOSURE RISK |
+| CLEARANCE REQUIRED | Level 2 for ordinary campus support; Level 4 for cover alteration, concealed-transition control, or exposure event |
 
-**Archive Status:** Active Normalcy Infrastructure Technology Record
-**Distribution:** Administration / Research / Security / Cover / Nusantara Deep Relay
-**Authority:** Campus Director, Site Director, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Normalcy Infrastructure Technology Record |
+| DISTRIBUTION | Administration / Research / Security / Cover / Nusantara Deep Relay |
+| AUTHORITY | Campus Director, Site Director, and Central Archive |
 
 #### Archive Note
 Surface Cover Research Campus is the seventy-ninth main A.C.T technology expanded into an individual record. The F-6 Surface Research and Transition Level dossier identifies the surface campus as the legitimate face of Nusantara Deep Relay: research laboratories, monitoring stations, administrative buildings, and port facility surface operations. The dossier states that the cover is built on genuine marine, volcanic, and geological science that can withstand scrutiny because it is real.

@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - STATIC-PULSE CRYSTAL
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-007                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Static-Pulse Crystal                                        |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SPC                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ANOMALOUS MATERIAL / REALITY INFRASTRUCTURE / POWER CORE    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T CONTROLLED EXTRACTION / ABYSS FLOOR SOURCE            |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Engineering Division / Materials Custody Desk               |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Containment, Logistics, Site Command, Archive, Intelligence |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / SOURCE-LIMITED                        |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF FRACTURED, OVERHEATED, OR STOLEN |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for issued cores; Level 5 for source, cutting,      |
-|                            | four-split geometry, and discarded-shard inventory          |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-007 |
+| TECHNOLOGY NAME | Static-Pulse Crystal |
+| SHORT NAME | SPC |
+| TECHNOLOGY FAMILY | ANOMALOUS MATERIAL / REALITY INFRASTRUCTURE / POWER CORE |
+| ORIGIN | A.C.T CONTROLLED EXTRACTION / ABYSS FLOOR SOURCE |
+| PRIMARY CONTROLLER | Engineering Division / Materials Custody Desk |
+| ATTACHED DIVISIONS | Containment, Logistics, Site Command, Archive, Intelligence |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / SOURCE-LIMITED |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF FRACTURED, OVERHEATED, OR STOLEN |
+| CLEARANCE REQUIRED | Level 4 for issued cores; Level 5 for source, cutting, four-split geometry, and discarded-shard inventory |
 
-**Archive Status:** Active Restricted Material Record  
-**Distribution:** Engineering / Containment / Materials Custody / Logistics / Command  
-**Authority:** Engineering Division, Materials Custody Desk, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Material Record |
+| DISTRIBUTION | Engineering / Containment / Materials Custody / Logistics / Command |
+| AUTHORITY | Engineering Division, Materials Custody Desk, and Central Archive |
 
 #### Archive Note
 Static-Pulse Crystal is the seventh main A.C.T technology expanded into an individual record. The material is listed in the Master Catalog as raw violet shards held in dampening cases and in the visual guide as crystals requiring temperature monitoring for vibration-heat. TECH-ACT-001 already identifies Static-Pulse Crystal as the active material inside Reality Stabilization Anchor cores. This record exists because the crystal is not only a component. It is the material basis of much of A.C.T's modern stabilization culture.

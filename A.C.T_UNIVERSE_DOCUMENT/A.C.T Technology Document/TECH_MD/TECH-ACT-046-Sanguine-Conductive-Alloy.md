@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - SANGUINE-CONDUCTIVE ALLOY
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-046                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Sanguine-Conductive Alloy                                   |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SCA                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ANOMALOUS MATERIAL / BIOLOGICAL DATA CONDUCTION             |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Materials Custody / Medical Engineering Desk                |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Medical, Biological Containment, Data Security, O5 Review   |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / BLOOD-CONTACT CONTROLLED              |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | HAZARDOUS / BIOLOGICAL DATA AND CONTAMINATION HAZARD        |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for handling; Level 5 for live-blood interface,     |
-|                            | subject-linked data transfer, and alloy-network testing     |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-046 |
+| TECHNOLOGY NAME | Sanguine-Conductive Alloy |
+| SHORT NAME | SCA |
+| TECHNOLOGY FAMILY | ANOMALOUS MATERIAL / BIOLOGICAL DATA CONDUCTION |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Materials Custody / Medical Engineering Desk |
+| ATTACHED DIVISIONS | Medical, Biological Containment, Data Security, O5 Review |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / BLOOD-CONTACT CONTROLLED |
+| RISK STATUS | HAZARDOUS / BIOLOGICAL DATA AND CONTAMINATION HAZARD |
+| CLEARANCE REQUIRED | Level 4 for handling; Level 5 for live-blood interface, subject-linked data transfer, and alloy-network testing |
 
-**Archive Status:** Active Anomalous Material Technology Record  
-**Distribution:** Materials Custody / Medical Engineering / Medical / Biological Containment / Data Security / O5 Review  
-**Authority:** Materials Custody, Medical Engineering Desk, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Anomalous Material Technology Record |
+| DISTRIBUTION | Materials Custody / Medical Engineering / Medical / Biological Containment / Data Security / O5 Review |
+| AUTHORITY | Materials Custody, Medical Engineering Desk, and Central Archive |
 
 #### Archive Note
 Sanguine-Conductive Alloy is the forty-sixth main A.C.T technology expanded into an individual record. The Master Catalog defines it as a blue metallic composite capable of data-transmission via biological blood contact. The visual guide describes a blue metal sheet with a micro-vein network and a Data-Flow Indicator LED that blinks during biological data-transmission. Existing A.C.T medical and material records establish the danger around blood-adjacent technology: blood can activate consciousness anchors, blood-fuel systems require strict identity separation, and biological signal handling can become contamination if treated as ordinary wiring.

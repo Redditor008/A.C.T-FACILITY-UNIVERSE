@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### Normalcy Management and Public Narrative Doctrine
 
-**Archive Status:** Active  
-**Distribution:** Internal / Civil Covert / Intelligence / Recovery / Site Command  
-**Authority:** Civil Covert Division, Intelligence Division, and Central Archive  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal / Civil Covert / Intelligence / Recovery / Site Command |
+| AUTHORITY | Civil Covert Division, Intelligence Division, and Central Archive |
 
 #### Archive Note
 This doctrine defines how A.C.T manufactures public explanations after anomalous incidents. It does not celebrate deception. It records the machinery that keeps civilian life from collapsing under truths it has not been allowed to survive.

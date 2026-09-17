@@ -1,29 +1,14 @@
 # TECH-GOI-050-3 - LIBERTY FREEDOMS CARRIED-SUBJECT TRANSPORT AND TEMPORARY CARE SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-050-3                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Liberty Freedoms Carried-Subject Transport and Temporary    |
-|                            | Care System                                                 |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Carry System / Corridor Transport / L.F. Temporary Holding  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Liberty Freedoms                                            |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Reconstructed from recovered subjects, abandoned            |
-|                            | transports, corridor interdictions, and returnee interviews |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Carried-subject location and condition assessment,          |
-|                            | non-specialist handling injury review, corridor             |
-|                            | interdiction, recovery triage                               |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | SEIZED-SUBJECT FILES RESTRICTED / LEVEL 5 CASE-CHAIN        |
-|                            | CONTROL                                                     |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-050-3 |
+| TECHNOLOGY NAME | Liberty Freedoms Carried-Subject Transport and Temporary Care System |
+| COMMON ABBREVIATIONS | Carry System / Corridor Transport / L.F. Temporary Holding |
+| ORIGIN | Liberty Freedoms |
+| ACQUISITION STATUS | Reconstructed from recovered subjects, abandoned transports, corridor interdictions, and returnee interviews |
+| PRIMARY A.C.T INTEREST | Carried-subject location and condition assessment, non-specialist handling injury review, corridor interdiction, recovery triage |
+| ARCHIVE HANDLING | SEIZED-SUBJECT FILES RESTRICTED / LEVEL 5 CASE-CHAIN CONTROL |
 
 ## Functional Identity
 

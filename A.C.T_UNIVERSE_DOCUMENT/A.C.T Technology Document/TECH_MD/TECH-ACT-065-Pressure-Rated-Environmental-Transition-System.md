@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - PRESSURE-RATED ENVIRONMENTAL TRANSITION SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-065                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Pressure-Rated Environmental Transition System              |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | PRETS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | MARITIME CONTAINMENT / PRESSURE MANAGEMENT                 |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY DEEP-HOLDING PROGRAM                  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Containment Division / Maritime-Hold Command                |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Recovery, Research, Medical, Engineering, Security          |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / DEEP-RECOVERY TRANSFER USE                         |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | PRESSURE SHOCK / HULL FAILURE / RESIDENT STRESS RISK        |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for maintenance; Level 4 for resident transfer,     |
-|                            | decompression curve changes, or emergency override          |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-065 |
+| TECHNOLOGY NAME | Pressure-Rated Environmental Transition System |
+| SHORT NAME | PRETS |
+| TECHNOLOGY FAMILY | MARITIME CONTAINMENT / PRESSURE MANAGEMENT |
+| ORIGIN | NUSANTARA DEEP RELAY DEEP-HOLDING PROGRAM |
+| PRIMARY CONTROLLER | Containment Division / Maritime-Hold Command |
+| ATTACHED DIVISIONS | Recovery, Research, Medical, Engineering, Security |
+| OPERATIONAL STATUS | ACTIVE / DEEP-RECOVERY TRANSFER USE |
+| RISK STATUS | PRESSURE SHOCK / HULL FAILURE / RESIDENT STRESS RISK |
+| CLEARANCE REQUIRED | Level 3 for maintenance; Level 4 for resident transfer, decompression curve changes, or emergency override |
 
-**Archive Status:** Active Maritime Containment Technology Record
-**Distribution:** Containment / Recovery / Engineering / Medical / Research / Nusantara Deep Relay
-**Authority:** Maritime-Hold Command, Engineering Desk, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Maritime Containment Technology Record |
+| DISTRIBUTION | Containment / Recovery / Engineering / Medical / Research / Nusantara Deep Relay |
+| AUTHORITY | Maritime-Hold Command, Engineering Desk, and Central Archive |
 
 #### Archive Note
 Pressure-Rated Environmental Transition System is the sixty-fifth main A.C.T technology expanded into an individual record. The Nusantara Deep Relay site dossier identifies pressure-rated systems as part of its containment infrastructure for maritime and abyssal work. The F-3 Maritime and Island Holding Level dossier identifies pressure-rated environments as one of the floor's defining systems for holding material recovered from depth. The Death Angler file confirms the relay's use of water-capable pressure-rated deep holding, heavy plating, continuous sonar-acoustic monitoring, and monthly structural-vibration audit cycles.

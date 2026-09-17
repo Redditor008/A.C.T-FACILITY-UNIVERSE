@@ -1,9 +1,18 @@
 A.C.T TECHNOLOGY DOCUMENT ARCHIVE
 =================================
 
-Archive Status: Active Technology Record Index  
-Distribution: Engineering / Containment / Medical / Recovery / Intelligence / Command  
-Authority: Central Archive, Engineering Division, Containment Division, Medical Division, and file-specific attached desks
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| ARCHIVE STATUS             | Active Technology Record Index                              |
++----------------------------+-------------------------------------------------------------+
+| DISTRIBUTION               | Engineering / Containment / Medical / Recovery /            |
+|                            | Intelligence / Command                                      |
++----------------------------+-------------------------------------------------------------+
+| AUTHORITY                  | Central Archive, Engineering Division, Containment          |
+|                            | Division, Medical Division, and file-specific attached      |
+|                            | desks                                                       |
++----------------------------+-------------------------------------------------------------+
 
 This archive holds individual technology documents for A.C.T systems, GOI-derived systems, recovered equipment, containment tools, field instruments, medical devices, infrastructure components, memory-control systems, access devices, and abnormal materials that require more detail than the master technology index can carry. The existing A.C.T Technological Master Index remains the broad catalog. This folder is for per-technology working records.
 

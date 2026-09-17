@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - HARVESTED PALE WOOD
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-041                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Harvested Pale Wood                                         |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | HPW                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ANOMALOUS MATERIAL / DARK WORLD TIMBER / STRUCTURAL STOCK   |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T RECOVERY FROM AFD-PL-932                              |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Materials Custody / Dark World Survey                       |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Engineering, Medical, White Grave, Site Infrastructure      |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / HARVEST-RESTRICTED / GOLD-VULNERABLE               |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | HAZARDOUS / DIMENSIONAL MATERIAL AND DUST-CUSTODY HAZARD    |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for handling; Level 5 for harvest authorization,    |
-|                            | structural use, and gold-tool modification plans            |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-041 |
+| TECHNOLOGY NAME | Harvested Pale Wood |
+| SHORT NAME | HPW |
+| TECHNOLOGY FAMILY | ANOMALOUS MATERIAL / DARK WORLD TIMBER / STRUCTURAL STOCK |
+| ORIGIN | A.C.T RECOVERY FROM AFD-PL-932 |
+| PRIMARY CONTROLLER | Materials Custody / Dark World Survey |
+| ATTACHED DIVISIONS | Engineering, Medical, White Grave, Site Infrastructure |
+| OPERATIONAL STATUS | ACTIVE / HARVEST-RESTRICTED / GOLD-VULNERABLE |
+| RISK STATUS | HAZARDOUS / DIMENSIONAL MATERIAL AND DUST-CUSTODY HAZARD |
+| CLEARANCE REQUIRED | Level 4 for handling; Level 5 for harvest authorization, structural use, and gold-tool modification plans |
 
-**Archive Status:** Active Anomalous Material Technology Record  
-**Distribution:** Materials Custody / Dark World Survey / Engineering / Medical / White Grave / Site Infrastructure  
-**Authority:** Materials Custody, Dark World Survey, Engineering Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Anomalous Material Technology Record |
+| DISTRIBUTION | Materials Custody / Dark World Survey / Engineering / Medical / White Grave / Site Infrastructure |
+| AUTHORITY | Materials Custody, Dark World Survey, Engineering Division, and Central Archive |
 
 #### Archive Note
 Harvested Pale Wood is the forty-first main A.C.T technology expanded into an individual record. The Master Catalog defines it as indestructible timber derived from the Dark World, used for internal structural reinforcement and vulnerable to twenty-four karat gold. The visual guide describes stacks of white barkless timber, microscopic restricted ID tags, a polished-bone feel, and a low-level pearlescent sheen. Dark World Door files identify Pale Wood as the material composing the AFD-PL-932 threshold and the dominant tree growth inside the Dark World. Expedition Pale-01 confirmed that ordinary knives produce no vibration against it, while gold-plated probes pass through it as if through butter.

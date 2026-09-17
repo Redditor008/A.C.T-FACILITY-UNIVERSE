@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - DIGITAL RESONANCE SENSORS
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-010
-TECHNOLOGY NAME: Digital Resonance Sensors
-SHORT NAME: DRS
-TECHNOLOGY FAMILY: FIELD / DETECTION / CLASSIFICATION / SURVEY
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Survey Division / Engineering Division
-ATTACHED DIVISIONS: Recovery, Containment, Maritime Observation, Archive
-OPERATIONAL STATUS: ACTIVE / STANDARD FIELD ISSUE / RESTRICTED CALIBRATION
-RISK STATUS: CONTROLLED / HAZARDOUS IF MISREAD OR SPOOFED
-CLEARANCE REQUIRED: Level 2 for operation; Level 4 for calibration libraries, resonance maps, and hostile-signal comparison files
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-010                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Digital Resonance Sensors                                   |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | DRS                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | FIELD / DETECTION / CLASSIFICATION / SURVEY                 |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Survey Division / Engineering Division                      |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Recovery, Containment, Maritime Observation, Archive        |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / STANDARD FIELD ISSUE / RESTRICTED CALIBRATION      |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF MISREAD OR SPOOFED                |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 2 for operation; Level 4 for calibration libraries,   |
+|                            | resonance maps, and hostile-signal comparison files         |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Detection Technology Record
 Distribution: Survey / Recovery / Engineering / Containment / Maritime Observation / Archive

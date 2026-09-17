@@ -1,37 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - MEMETIC CONTAMINATION TREATMENT SUITES
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-063                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Memetic Contamination Treatment Suites                      |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | MCTS                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | MEDICAL COGNITIVE CARE / MEMETIC EXPOSURE TREATMENT        |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | REDWOOD VEIL F-6 MEDICAL AND COGNITIVE CARE PROGRAM         |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Medical Division / Cognitive Care                           |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Containment, Research, Archive, Security                    |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / CLINICAL / EXPOSURE-LIMITED                        |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | COGNITIVE CONTAMINATION / TREATMENT-AMPLIFICATION RISK      |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Medical authorization; Level 3 for routine treatment;       |
-|                            | Level 4 for hostile memetic exposure or containment-linked  |
-|                            | cognitive effect review                                     |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-063 |
+| TECHNOLOGY NAME | Memetic Contamination Treatment Suites |
+| SHORT NAME | MCTS |
+| TECHNOLOGY FAMILY | MEDICAL COGNITIVE CARE / MEMETIC EXPOSURE TREATMENT |
+| ORIGIN | REDWOOD VEIL F-6 MEDICAL AND COGNITIVE CARE PROGRAM |
+| PRIMARY CONTROLLER | Medical Division / Cognitive Care |
+| ATTACHED DIVISIONS | Containment, Research, Archive, Security |
+| OPERATIONAL STATUS | ACTIVE / CLINICAL / EXPOSURE-LIMITED |
+| RISK STATUS | COGNITIVE CONTAMINATION / TREATMENT-AMPLIFICATION RISK |
+| CLEARANCE REQUIRED | Medical authorization; Level 3 for routine treatment; Level 4 for hostile memetic exposure or containment-linked cognitive effect review |
 
-**Archive Status:** Active Medical Cognitive-Care Technology Record  
-**Distribution:** Medical / Cognitive Care / Containment / Research / Archive / Security  
-**Authority:** Medical Division, Cognitive Care, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Medical Cognitive-Care Technology Record |
+| DISTRIBUTION | Medical / Cognitive Care / Containment / Research / Archive / Security |
+| AUTHORITY | Medical Division, Cognitive Care, and Central Archive |
 
 #### Archive Note
 Memetic Contamination Treatment Suites are the sixty-third main A.C.T technology expanded into an individual record. Redwood Veil's F-6 floor dossier identifies Medical and Cognitive Care as the level responsible for trauma care, memetic contamination treatment, cognitive recovery, and artifact-influence evaluation. It describes the memetic treatment suites as controlled environments engineered for work with material that acts on the mind, using exposure-limited treatment protocols and observation architecture that documents treatment without compounding exposure.

@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - CHRONO-STUTTERED VISORS
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-009
-TECHNOLOGY NAME: Chrono-Stuttered Visors
-SHORT NAME: CSV
-TECHNOLOGY FAMILY: FIELD / INFO-HAZARD / TEMPORAL OPTICS / PPE
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Field Safety Desk / Info-Hazard Division
-ATTACHED DIVISIONS: Temporal Analysis, Biological Containment, Medical, Archive
-OPERATIONAL STATUS: ACTIVE / RESTRICTED / PPE-STANDARD FOR VISUAL HAZARDS
-RISK STATUS: CONTROLLED / HAZARDOUS IF DELAY, POWER, OR FILTER FAILS
-CLEARANCE REQUIRED: Level 2 for basic issue; Level 3 for visual-trigger hazard work; Level 4 for temporal vault and causal mercury use
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-009                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Chrono-Stuttered Visors                                     |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | CSV                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | FIELD / INFO-HAZARD / TEMPORAL OPTICS / PPE                 |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Field Safety Desk / Info-Hazard Division                    |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Temporal Analysis, Biological Containment, Medical, Archive |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / PPE-STANDARD FOR VISUAL HAZARDS       |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF DELAY, POWER, OR FILTER FAILS     |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 2 for basic issue; Level 3 for visual-trigger hazard  |
+|                            | work; Level 4 for temporal vault and causal mercury use     |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Field Safety Technology Record
 Distribution: Field Safety / Info-Hazard / Temporal Analysis / Biological Containment / Archive / Medical

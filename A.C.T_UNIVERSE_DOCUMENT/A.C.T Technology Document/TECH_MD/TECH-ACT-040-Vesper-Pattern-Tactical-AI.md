@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - VESPER-PATTERN TACTICAL AI
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-040                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Vesper-Pattern Tactical AI                                  |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | VPT-AI                                                      |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | TACTICAL COORDINATION / UNMANNED RECOVERY / COMBAT LOGIC    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Tactical Review Desk / Engineering Division                 |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Recovery, Security, Artifact Storage, Simulation Command    |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / ISOLATED / MISSION-PARAMETER LOCKED                |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / COMBAT-LOGIC CONTAINMENT HAZARD               |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for simulation use; Level 5 for live unmanned       |
-|                            | recovery command and recognition-filter modification        |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-040 |
+| TECHNOLOGY NAME | Vesper-Pattern Tactical AI |
+| SHORT NAME | VPT-AI |
+| TECHNOLOGY FAMILY | TACTICAL COORDINATION / UNMANNED RECOVERY / COMBAT LOGIC |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Tactical Review Desk / Engineering Division |
+| ATTACHED DIVISIONS | Recovery, Security, Artifact Storage, Simulation Command |
+| OPERATIONAL STATUS | ACTIVE / ISOLATED / MISSION-PARAMETER LOCKED |
+| RISK STATUS | CONTROLLED / COMBAT-LOGIC CONTAINMENT HAZARD |
+| CLEARANCE REQUIRED | Level 4 for simulation use; Level 5 for live unmanned recovery command and recognition-filter modification |
 
-**Archive Status:** Active Tactical Coordination Technology Record  
-**Distribution:** Tactical Review / Engineering / Recovery / Security / Artifact Storage / Simulation Command  
-**Authority:** Tactical Review Desk, Engineering Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Tactical Coordination Technology Record |
+| DISTRIBUTION | Tactical Review / Engineering / Recovery / Security / Artifact Storage / Simulation Command |
+| AUTHORITY | Tactical Review Desk, Engineering Division, and Central Archive |
 
 #### Archive Note
 Vesper-Pattern Tactical AI is the fortieth main A.C.T technology expanded into an individual record. The Master Catalog defines it as an isolated combat-logic program mimicking future-operative filtering for coordinating unmanned recovery operations. The visual guide describes an armored black cube with a rotating sensor turret, a green eye lens using restricted pattern recognition, and a wired tactical uplink port for mission-parameter input. HIGENMARU-KORIN containment procedures restrict training with the sword pair to Vesper-Pattern Tactical AI simulations because human wielders suffered fatal stamina collapse during prior testing.

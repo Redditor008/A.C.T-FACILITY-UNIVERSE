@@ -1,27 +1,14 @@
 # TECH-GOI-053-1 - MISSING 404 WATCH TOWER DEAD-ADDRESS LEDGER SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-053-1                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Missing 404 Watch Tower Dead-Address Ledger System          |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Dead-Address Ledger / DAL / Tower Address Book              |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Missing 404 Watch Tower                                     |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Cooperative access to extracts and protected copies; full   |
-|                            | tower ledger custody withheld                               |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Vanished-location continuity, record-loss resistance,       |
-|                            | missing-person proof preservation, A.C.T archive comparison |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | M404-WT LEDGER RESTRICTED / CENTRAL ARCHIVE AND RECOVERY    |
-|                            | REVIEW                                                      |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-053-1 |
+| TECHNOLOGY NAME | Missing 404 Watch Tower Dead-Address Ledger System |
+| COMMON ABBREVIATIONS | Dead-Address Ledger / DAL / Tower Address Book |
+| ORIGIN | Missing 404 Watch Tower |
+| ACQUISITION STATUS | Cooperative access to extracts and protected copies; full tower ledger custody withheld |
+| PRIMARY A.C.T INTEREST | Vanished-location continuity, record-loss resistance, missing-person proof preservation, A.C.T archive comparison |
+| ARCHIVE HANDLING | M404-WT LEDGER RESTRICTED / CENTRAL ARCHIVE AND RECOVERY REVIEW |
 
 ## Functional Identity
 

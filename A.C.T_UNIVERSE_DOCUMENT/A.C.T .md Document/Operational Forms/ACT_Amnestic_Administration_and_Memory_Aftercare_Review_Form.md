@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM
 
-**Archive Status:** Active Working Form  
-**Distribution:** Medical Care Division / Civil Covert Division / Archiver Division / Site Command / Subject Care Division  
-**Authority:** Medical Care Division, Civil Covert Division, and Central Archive  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Working Form |
+| DISTRIBUTION | Medical Care Division / Civil Covert Division / Archiver Division / Site Command / Subject Care Division |
+| AUTHORITY | Medical Care Division, Civil Covert Division, and Central Archive |
 
 #### Archive Note
 This form governs the review, authorization, administration, and aftercare record for amnestic use. It exists because memory treatment is not a cleanup tool. It is an intervention against a person's continuity, and every intervention leaves an institutional trace even when the person no longer remembers the reason.

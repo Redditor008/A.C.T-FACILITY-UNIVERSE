@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - MAGNETIC TORSION RESTRAINTS
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-013
-TECHNOLOGY NAME: Magnetic Torsion Restraints
-SHORT NAME: MTR
-TECHNOLOGY FAMILY: CONTAINMENT / HEAVY RESTRAINT / MAGNETIC LOCKDOWN
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Containment Division / Engineering Division
-ATTACHED DIVISIONS: Object Containment, Tactical Review, Site Command, Security
-OPERATIONAL STATUS: ACTIVE / FIXED-INSTALLATION / EMERGENCY FIELD ADAPTABLE
-RISK STATUS: CONTROLLED / HAZARDOUS IF LOAD, FIELD, OR SUBJECT SHIFTS
-CLEARANCE REQUIRED: Level 3 for operation; Level 4 for frequency dial access, HIGENMARU-KORIN breach use, and mobile rig authorization
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-013                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Magnetic Torsion Restraints                                 |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | MTR                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | CONTAINMENT / HEAVY RESTRAINT / MAGNETIC LOCKDOWN           |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Containment Division / Engineering Division                 |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Object Containment, Tactical Review, Site Command, Security |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / FIXED-INSTALLATION / EMERGENCY FIELD ADAPTABLE     |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF LOAD, FIELD, OR SUBJECT SHIFTS    |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for operation; Level 4 for frequency dial access,   |
+|                            | HIGENMARU-KORIN breach use, and mobile rig authorization    |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Containment Technology Record
 Distribution: Containment / Engineering / Object Containment / Tactical Review / Site Command / Security

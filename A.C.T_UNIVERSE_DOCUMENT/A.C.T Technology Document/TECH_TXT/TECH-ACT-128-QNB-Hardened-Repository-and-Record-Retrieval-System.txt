@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - QNB-HARDENED REPOSITORY AND RECORD RETRIEVAL SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-128
-TECHNOLOGY NAME: QNB-Hardened Repository and Record Retrieval System
-SHORT NAME: QHRRRS
-TECHNOLOGY FAMILY: CENTRAL ARCHIVE / QNB HARDENING / RECORD RETRIEVAL
-ORIGIN: REDWOOD VEIL COMPLEX F-7 CENTRAL ARCHIVE AND RECORDS
-PRIMARY CONTROLLER: Floor Archivist / Archive Division
-ATTACHED DIVISIONS: Archive, Containment, Recovery, Medical, Administration
-OPERATIONAL STATUS: ACTIVE / CAUSAL-RESISTANT DOCUMENTARY ESTATE
-RISK STATUS: RECORD REWRITE / ACCESS VIOLATION / QUARANTINE MISROUTE
-CLEARANCE REQUIRED: Archive clearance; restricted-record and quarantine-cell access by contents, resident status, and command authority
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-128                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | QNB-Hardened Repository and Record Retrieval System         |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | QHRRRS                                                      |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | CENTRAL ARCHIVE / QNB HARDENING / RECORD RETRIEVAL          |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | REDWOOD VEIL COMPLEX F-7 CENTRAL ARCHIVE AND RECORDS        |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Floor Archivist / Archive Division                          |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Archive, Containment, Recovery, Medical, Administration     |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / CAUSAL-RESISTANT DOCUMENTARY ESTATE                |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | RECORD REWRITE / ACCESS VIOLATION / QUARANTINE MISROUTE     |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Archive clearance; restricted-record and quarantine-cell    |
+|                            | access by contents, resident status, and command authority  |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Redwood Veil Archive Technology Record
 Distribution: Redwood Veil Complex / Archive / Containment / Recovery / Medical / Administration

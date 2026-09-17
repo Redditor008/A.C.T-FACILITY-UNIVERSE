@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - HIGH-DENSITY LIQUID LEAD
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-039
-TECHNOLOGY NAME: High-Density Liquid Lead
-SHORT NAME: HDLL
-TECHNOLOGY FAMILY: BARRIER FLUID / ARTIFACT SHIELDING / CONTAMINANT TRAPPING
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Engineering Division / Hazardous Materials Desk
-ATTACHED DIVISIONS: Artifact Storage, Biological Containment, Site Safety
-OPERATIONAL STATUS: ACTIVE / SHIELDING FLUID / PIPELINE-CONTROLLED
-RISK STATUS: HAZARDOUS / TOXIC AND HIGH-MASS BARRIER MATERIAL
-CLEARANCE REQUIRED: Level 3 for monitored use; Level 4 for flow adjustment; Level 5 for restricted-energy shielding configuration
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-039                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | High-Density Liquid Lead                                    |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | HDLL                                                        |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | BARRIER FLUID / ARTIFACT SHIELDING / CONTAMINANT TRAPPING   |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Engineering Division / Hazardous Materials Desk             |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Artifact Storage, Biological Containment, Site Safety       |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / SHIELDING FLUID / PIPELINE-CONTROLLED              |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | HAZARDOUS / TOXIC AND HIGH-MASS BARRIER MATERIAL            |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for monitored use; Level 4 for flow adjustment;     |
+|                            | Level 5 for restricted-energy shielding configuration       |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Hazardous Barrier Material Technology Record
 Distribution: Engineering / Hazardous Materials / Artifact Storage / Biological Containment / Site Safety

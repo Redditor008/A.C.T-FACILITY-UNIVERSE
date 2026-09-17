@@ -1,72 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - MERCY LOCK INSTITUTE
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-HY-P-071                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Mercy Lock Institute                                        |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | MLI                                                         |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Mercy Lock; The Gentle Lock; Morrow Mercy Ward; Locked      |
-|                            | Hospice; [CENSOR: ORIGINAL CLINIC NAME]                    |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | HYBRID                                                      |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | POSITIVE                                                    |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | TRANSNATIONAL                                               |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | CONTAINMENT                                                 |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 3                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | VEILED                                                      |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | COOPERATED / HELP / MONITOR / APPROPRIATE                  |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Ward Governors, Lock Physicians, Quiet Engineers, Patient   |
-|                            | Advocates, and custody chaplains                            |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Doctors, nurses, containment engineers, hospice staff,      |
-|                            | legal guardians, altered-person advocates, and ward guards  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Private clinics, long-term abnormal care wards, hidden      |
-|                            | hospices, custody houses, and low-violence containment beds |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Gentle locks, consent ledgers, quiet rooms, soft restraints,|
-|                            | ward keys, patient bells, shielded ambulances, and clinics  |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Mercy wards, sealed hospices, patient houses, underground   |
-|                            | care basements, mobile care units, and legal trust shells   |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | Containment is justified only when it prevents harm while   |
-|                            | preserving the patient, witness, subject, or resident as a  |
-|                            | person rather than evidence                                 |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Repeated cooperation through patient transfer, nonviolent   |
-|                            | entity custody, altered-person care, and ward consultation  |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | Restricted medical, hospice, restraint, altered-person,     |
-|                            | low-risk custody, legal guardianship, and transfer files    |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - positive allied containment institution monitored  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Medical Division / Containment / Subject Care / Legal       |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with Site 01, Site 02, and medical review   |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for patient names, ward locations, living  |
-|                            | anomalies, custody failures, and A.C.T transfer agreements  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-HY-P-071 |
+| COMMON NAME | Mercy Lock Institute |
+| SHORT NAME | MLI |
+| KNOWN ALIASES | Mercy Lock; The Gentle Lock; Morrow Mercy Ward; Locked Hospice; [CENSOR: ORIGINAL CLINIC NAME] |
+| NATURE CLASS | HYBRID |
+| ALIGNMENT CLASS | POSITIVE |
+| REACH CLASS | TRANSNATIONAL |
+| ANOMALOUS CAPABILITY | CONTAINMENT |
+| THREAT LEVEL | 3 |
+| SECRECY RISK | VEILED |
+| A.C.T POSTURE | COOPERATED / HELP / MONITOR / APPROPRIATE |
+| KNOWN LEADERSHIP | Ward Governors, Lock Physicians, Quiet Engineers, Patient Advocates, and custody chaplains |
+| KNOWN MEMBERSHIP | Doctors, nurses, containment engineers, hospice staff, legal guardians, altered-person advocates, and ward guards |
+| PRIMARY ACTIVE REGION | Private clinics, long-term abnormal care wards, hidden hospices, custody houses, and low-violence containment beds |
+| KNOWN ASSETS | Gentle locks, consent ledgers, quiet rooms, soft restraints, ward keys, patient bells, shielded ambulances, and clinics |
+| KNOWN HOLDINGS | Mercy wards, sealed hospices, patient houses, underground care basements, mobile care units, and legal trust shells |
+| IDEOLOGY | Containment is justified only when it prevents harm while preserving the patient, witness, subject, or resident as a person rather than evidence |
+| HISTORY WITH A.C.T | Repeated cooperation through patient transfer, nonviolent entity custody, altered-person care, and ward consultation |
+| ANOMALY CROSS-REFERENCE | Restricted medical, hospice, restraint, altered-person, low-risk custody, legal guardianship, and transfer files |
+| CURRENT STATUS | ACTIVE - positive allied containment institution monitored |
+| PRIMARY FILE AUTHORITY | Medical Division / Containment / Subject Care / Legal |
+| SITE JURISDICTION | Central Command with Site 01, Site 02, and medical review |
+| CLEARANCE REQUIRED | Level 4; Level 5 for patient names, ward locations, living anomalies, custody failures, and A.C.T transfer agreements |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Medical / Containment / Subject Care / Legal / Intelligence / Command
-**Authority:** Medical Division, Containment Division, Subject Care Division, Legal Division, Intelligence Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Medical / Containment / Subject Care / Legal / Intelligence / Command |
+| AUTHORITY | Medical Division, Containment Division, Subject Care Division, Legal Division, Intelligence Division, and Central Archive |
 
 #### Archive Note
 Mercy Lock Institute is the active hybrid filing for an outside allied containment and abnormal-care institution that houses, treats, restrains, studies, protects, and legally advocates for low-violence anomalous persons, altered civilians, nonhuman dependents, and dangerous patients who cannot safely live in public but should not be treated as disposable hazards. The Institute is not an A.C.T branch, not a normal hospital, not a prison company, not a religious mercy sect, and not Mercy of the Quiet Sun. Its use of the word mercy refers to restraint with care, not quiet surrender to extinction.

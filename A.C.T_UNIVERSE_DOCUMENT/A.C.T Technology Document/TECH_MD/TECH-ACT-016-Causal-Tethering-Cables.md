@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - CAUSAL TETHERING CABLES
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-016                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Causal Tethering Cables                                     |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | CTC                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | REALITY INFRASTRUCTURE / FIELD RECOVERY / SPATIAL RESTRAINT |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Engineering Division / Recovery Division                    |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Containment, Logistics, Site Command, Dark World Survey     |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / HIGH-LOAD FIELD USE                   |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF OVERLOADED, PHASED, OR CUT       |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for supervised field use; Level 4 for phase-lock    |
-|                            | calibration, stretched-space deployment, and recovery rigs  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-016 |
+| TECHNOLOGY NAME | Causal Tethering Cables |
+| SHORT NAME | CTC |
+| TECHNOLOGY FAMILY | REALITY INFRASTRUCTURE / FIELD RECOVERY / SPATIAL RESTRAINT |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Engineering Division / Recovery Division |
+| ATTACHED DIVISIONS | Containment, Logistics, Site Command, Dark World Survey |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / HIGH-LOAD FIELD USE |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF OVERLOADED, PHASED, OR CUT |
+| CLEARANCE REQUIRED | Level 3 for supervised field use; Level 4 for phase-lock calibration, stretched-space deployment, and recovery rigs |
 
-**Archive Status:** Active Spatial Restraint Technology Record  
-**Distribution:** Engineering / Recovery / Containment / Logistics / Site Command  
-**Authority:** Engineering Division, Recovery Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Spatial Restraint Technology Record |
+| DISTRIBUTION | Engineering / Recovery / Containment / Logistics / Site Command |
+| AUTHORITY | Engineering Division, Recovery Division, and Central Archive |
 
 #### Archive Note
 Causal Tethering Cables are the sixteenth main A.C.T technology expanded into an individual record. The Master Catalog defines them as phase-existent high-tensile lines designed to secure artifacts within unstable or stretched spatial environments without material failure. The visual guide describes thick iridescent industrial cables five centimeters in diameter, wrapped in carbon-fiber reinforcement weave, fitted with oversized connectors, redacted phase locks, internal liquid-cooling channels, and digital shunt displays every five meters showing causal tension and ontological drag.

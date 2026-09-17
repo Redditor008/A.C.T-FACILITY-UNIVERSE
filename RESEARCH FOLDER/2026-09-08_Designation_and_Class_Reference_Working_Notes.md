@@ -1,9 +1,11 @@
 # A.C.T Designation and Class Reference — Working Notes and Provenance File
 
-**Dated:** 08 September 2026
-**Type:** Working / provenance record — companion to the canonical reference
-**Companion to:** `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Complete_Designation_and_Class_Reference.md` and its `.txt` twin
-**Owner instruction honored:** the canonical reference carries no draft wording. All provenance, working-status, drafting decisions, and open questions live here, so a future meaning change can be made by editing **both** this file and the canonical reference together.
+| FIELD | VALUE |
+|---|---|
+| DATED | 08 September 2026 |
+| TYPE | Working / provenance record — companion to the canonical reference |
+| COMPANION TO | `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Complete_Designation_and_Class_Reference.md` and its `.txt` twin |
+| OWNER INSTRUCTION HONORED | the canonical reference carries no draft wording. All provenance, working-status, drafting decisions, and open questions live here, so a future meaning change can be made by editing **both** this file and the canonical reference together. |
 
 ---
 

@@ -1,17 +1,31 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - FAILURE-TOLERANT ENTROPIC HOLDING AND SELF-REPAIRING ENVIRONMENT SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-135
-TECHNOLOGY NAME: Failure-Tolerant Entropic Holding and Self-Repairing Environment System
-SHORT NAME: FTEHSRES
-TECHNOLOGY FAMILY: ENTROPIC HOLDING / FAILURE TOLERANCE / SELF-REPAIRING ENV
-ORIGIN: WHITE GRAVE STATION F-2 ENTROPIC AND UNSTABLE HOLDING
-PRIMARY CONTROLLER: Floor Holding Chief / Restricted-Hold Command
-ATTACHED DIVISIONS: Containment, Engineering, Security, Medical, Archive
-OPERATIONAL STATUS: ACTIVE / RESTRICTED FAILURE-TOLERANT HOLDING
-RISK STATUS: ENTROPIC DEGRADATION / REDUNDANCY LOSS / ESCALATION FAILURE
-CLEARANCE REQUIRED: Heavily restricted resident-specific authorization; Site Director authority for F-1 Long Sleep transfer assessment
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-135                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Failure-Tolerant Entropic Holding and Self-Repairing        |
+|                            | Environment System                                          |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | FTEHSRES                                                    |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | ENTROPIC HOLDING / FAILURE TOLERANCE / SELF-REPAIRING ENV   |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | WHITE GRAVE STATION F-2 ENTROPIC AND UNSTABLE HOLDING       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Floor Holding Chief / Restricted-Hold Command               |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Containment, Engineering, Security, Medical, Archive        |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED FAILURE-TOLERANT HOLDING                |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | ENTROPIC DEGRADATION / REDUNDANCY LOSS / ESCALATION FAILURE |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Heavily restricted resident-specific authorization; Site    |
+|                            | Director authority for F-1 Long Sleep transfer assessment   |
++----------------------------+-------------------------------------------------------------+
 
 
 Archive Status: Active White Grave Restricted-Holding Technology Record

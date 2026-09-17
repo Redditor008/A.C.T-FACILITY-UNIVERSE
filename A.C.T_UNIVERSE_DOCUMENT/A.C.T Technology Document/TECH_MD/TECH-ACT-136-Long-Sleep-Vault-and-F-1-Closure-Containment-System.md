@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - LONG SLEEP VAULT AND F-1 CLOSURE CONTAINMENT SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-136                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Long Sleep Vault and F-1 Closure Containment System         |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | LSVF1CCS                                                    |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | LONG-TERM ISOLATION / DEEP-COLD VAULT / FLOOR CLOSURE      |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | WHITE GRAVE STATION F-1 THE LONG SLEEP                     |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Sleep Vault Chief / Containment Division Deep-Hold Command |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Containment, Security, Medical, Research, Archive           |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / MAXIMUM-REINFORCED LONG-TERM ISOLATION             |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | SLEEP DISTURBANCE / VAULT ACCESS FAILURE / CLOSURE COST    |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Heavily clearance-gated resident-specific authority; Site  |
-|                            | Director or above for release or sleep-state interruption  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-136 |
+| TECHNOLOGY NAME | Long Sleep Vault and F-1 Closure Containment System |
+| SHORT NAME | LSVF1CCS |
+| TECHNOLOGY FAMILY | LONG-TERM ISOLATION / DEEP-COLD VAULT / FLOOR CLOSURE |
+| ORIGIN | WHITE GRAVE STATION F-1 THE LONG SLEEP |
+| PRIMARY CONTROLLER | Sleep Vault Chief / Containment Division Deep-Hold Command |
+| ATTACHED DIVISIONS | Containment, Security, Medical, Research, Archive |
+| OPERATIONAL STATUS | ACTIVE / MAXIMUM-REINFORCED LONG-TERM ISOLATION |
+| RISK STATUS | SLEEP DISTURBANCE / VAULT ACCESS FAILURE / CLOSURE COST |
+| CLEARANCE REQUIRED | Heavily clearance-gated resident-specific authority; Site Director or above for release or sleep-state interruption |
 
-**Archive Status:** Active White Grave Deep-Hold Technology Record
-**Distribution:** White Grave Station / Deep-Hold Command / Security / Medical / Research / Archive
-**Authority:** Sleep Vault Chief, Containment Division Deep-Hold Command, Site Director, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active White Grave Deep-Hold Technology Record |
+| DISTRIBUTION | White Grave Station / Deep-Hold Command / Security / Medical / Research / Archive |
+| AUTHORITY | Sleep Vault Chief, Containment Division Deep-Hold Command, Site Director, and Central Archive |
 
 #### Archive Note
 Long Sleep Vault and F-1 Closure Containment System is the one-hundred-thirty-sixth main A.C.T technology expanded into an individual record. The White Grave F-1 Long Sleep dossier identifies F-1 as the deepest numbered floor of White Grave Station and the installation's defining vault: the long-term isolation level for the station's most unstable and most sensitive residents. It records independent sleep vaults, deep-cold reinforcement, duplicated environmental plant, sleep-state monitoring, resident-specific access restrictions, the Soul Pendant's maximum-isolation conditions, and the F-1 closure procedure that seals the floor completely from the outside.

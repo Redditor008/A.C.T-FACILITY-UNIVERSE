@@ -1,38 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - SEISMIC DATA INTERPRETATION AND RESTRICTION ENFORCEMENT SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-111                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Seismic Data Interpretation and Restriction Enforcement     |
-|                            | System                                                      |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SDIRES                                                      |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | SEISMIC INTERPRETATION / RESTRICTED DATA / ABYSS REVIEW     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY F-4 LABORATORY AND RESEARCH LEVEL     |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Floor Research Chief / Seismic Analysis Support Liaison     |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Research, Seismic Analysis Support, Security, Archive,      |
-|                            | Containment                                                |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / DEEP-EARTH INTERPRETATION CONTROL                  |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | DATA OVERREACH / REVIEW-CHAIN BREACH / CORRELATION HAZARD  |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for interpretation duty; Level 5 or review-chain    |
-|                            | authority for abyss-related correlation release             |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-111 |
+| TECHNOLOGY NAME | Seismic Data Interpretation and Restriction Enforcement System |
+| SHORT NAME | SDIRES |
+| TECHNOLOGY FAMILY | SEISMIC INTERPRETATION / RESTRICTED DATA / ABYSS REVIEW |
+| ORIGIN | NUSANTARA DEEP RELAY F-4 LABORATORY AND RESEARCH LEVEL |
+| PRIMARY CONTROLLER | Floor Research Chief / Seismic Analysis Support Liaison |
+| ATTACHED DIVISIONS | Research, Seismic Analysis Support, Security, Archive, Containment |
+| OPERATIONAL STATUS | ACTIVE / DEEP-EARTH INTERPRETATION CONTROL |
+| RISK STATUS | DATA OVERREACH / REVIEW-CHAIN BREACH / CORRELATION HAZARD |
+| CLEARANCE REQUIRED | Level 4 for interpretation duty; Level 5 or review-chain authority for abyss-related correlation release |
 
-**Archive Status:** Active Nusantara Research-Data Technology Record
-**Distribution:** Nusantara Deep Relay / Research / Seismic Analysis Support / Security / Archive
-**Authority:** Floor Research Chief, Seismic Analysis Support Liaison, Restricted Review Chain, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Nusantara Research-Data Technology Record |
+| DISTRIBUTION | Nusantara Deep Relay / Research / Seismic Analysis Support / Security / Archive |
+| AUTHORITY | Floor Research Chief, Seismic Analysis Support Liaison, Restricted Review Chain, and Central Archive |
 
 #### Archive Note
 Seismic Data Interpretation and Restriction Enforcement System is the one-hundred-eleventh main A.C.T technology expanded into an individual record. The F-4 Laboratory and Research Level dossier identifies the Seismic Data Interpretation Center as the floor's support for the relay's seismic watch: deep-earth observations are assessed, correlated against known patterns, and interpreted with the research floor's analytical capacity, including restricted analysis supporting the abyss-related review chain. The same dossier identifies data restriction enforcement as one of F-4's most sensitive security functions.

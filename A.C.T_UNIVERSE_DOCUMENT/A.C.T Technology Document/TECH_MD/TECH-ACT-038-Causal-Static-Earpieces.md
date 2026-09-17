@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - CAUSAL STATIC EARPIECES
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-038                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Causal Static Earpieces                                     |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | CSE                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | FIELD GEAR / INDIVIDUAL STATIC / NARRATIVE-BLEED DEFENSE    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Narrative Hazard Desk / Field Containment Division          |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Security, Banalist Operators, Site-03 Command, Engineering  |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / INDIVIDUAL ISSUE / NARRATIVE-STATIC                |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / COGNITIVE INTERFERENCE HAZARD                 |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for field issue; Level 4 for logic-anchor tuning;  |
-|                            | Level 5 for live consensus-hazard deployment override       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-038 |
+| TECHNOLOGY NAME | Causal Static Earpieces |
+| SHORT NAME | CSE |
+| TECHNOLOGY FAMILY | FIELD GEAR / INDIVIDUAL STATIC / NARRATIVE-BLEED DEFENSE |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Narrative Hazard Desk / Field Containment Division |
+| ATTACHED DIVISIONS | Security, Banalist Operators, Site-03 Command, Engineering |
+| OPERATIONAL STATUS | ACTIVE / INDIVIDUAL ISSUE / NARRATIVE-STATIC |
+| RISK STATUS | CONTROLLED / COGNITIVE INTERFERENCE HAZARD |
+| CLEARANCE REQUIRED | Level 3 for field issue; Level 4 for logic-anchor tuning; Level 5 for live consensus-hazard deployment override |
 
-**Archive Status:** Active Narrative-Bleed Field Gear Technology Record  
-**Distribution:** Narrative Hazard / Field Containment / Security / Banalist Operators / Site-03 / Engineering  
-**Authority:** Narrative Hazard Desk, Field Containment Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Narrative-Bleed Field Gear Technology Record |
+| DISTRIBUTION | Narrative Hazard / Field Containment / Security / Banalist Operators / Site-03 / Engineering |
+| AUTHORITY | Narrative Hazard Desk, Field Containment Division, and Central Archive |
 
 #### Archive Note
 Causal Static Earpieces are the thirty-eighth main A.C.T technology expanded into an individual record. The Master Catalog defines them as individual-issue static generators for field agents to prevent cognitive recruitment during narrative-bleed events. The visual guide describes tactical earbuds with a rugged transceiver box and an internal Logic-Anchor Chip that vibrates against the ear canal if the user's brainwaves begin to enter a scripted state. The Refracted One containment procedures require all chamber personnel to wear CSE units so they do not speculate on what the subject might be or looks like while its ontology responds to collective observer consensus. The Causal Static Generator record identifies CSE as the individual field form of broader static protection.

@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - HPP RESONANCE SCANNERS
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-032
-TECHNOLOGY NAME: HPP Resonance Scanners
-SHORT NAME: HPP-RS
-TECHNOLOGY FAMILY: PERSONNEL SCREENING / PSYCHIC RESONANCE / ASSIGNMENT SAFETY
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Personnel Screening Desk / Medical Division
-ATTACHED DIVISIONS: Human Resources, Artifact Review, White Grave, Site Command
-OPERATIONAL STATUS: ACTIVE / SCREENING-GATE / ASSIGNMENT-RESTRICTED
-RISK STATUS: CONTROLLED / PSYCHIC DISCLOSURE HAZARD
-CLEARANCE REQUIRED: Level 3 for screening operation; Level 4 for full PR-score access; Level 5 for assignment override
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-032                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | HPP Resonance Scanners                                      |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | HPP-RS                                                      |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | PERSONNEL SCREENING / PSYCHIC RESONANCE / ASSIGNMENT SAFETY |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Personnel Screening Desk / Medical Division                 |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Human Resources, Artifact Review, White Grave, Site Command |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / SCREENING-GATE / ASSIGNMENT-RESTRICTED             |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / PSYCHIC DISCLOSURE HAZARD                      |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for screening operation; Level 4 for full PR-score  |
+|                            | access; Level 5 for assignment override                     |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Personnel Screening Technology Record
 Distribution: Personnel Screening / Medical / Human Resources / Artifact Review / White Grave / Site Command

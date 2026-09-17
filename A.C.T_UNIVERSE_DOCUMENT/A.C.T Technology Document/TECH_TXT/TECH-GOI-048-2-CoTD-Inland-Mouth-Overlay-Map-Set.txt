@@ -1,12 +1,25 @@
 TECH-GOI-048-2 - CHILDREN OF THE DEEP INLAND MOUTH OVERLAY MAP SET
 
-Technology Designation: TECH-GOI-048-2
-Technology Name: Children of the Deep Inland Mouth Overlay Map Set
-Common Abbreviations: Mouth Maps / Depth-Language Maps / Inland Mouth Set
-Origin: Children of the Deep
-Acquisition Status: Recovered copies from separate cells and custody sites; no single authoritative cult atlas held
-Primary A.C.T Interest: Ritual geography analysis, inland mouth site classification, infrastructure risk assessment, cell-link identification
-Archive Handling: CULTIC NETWORKS RESTRICTED / MAP-BASED TARGET DATA SEALED
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-048-2                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Children of the Deep Inland Mouth Overlay Map Set           |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | Mouth Maps / Depth-Language Maps / Inland Mouth Set         |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | Children of the Deep                                        |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Recovered copies from separate cells and custody sites; no  |
+|                            | single authoritative cult atlas held                        |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Ritual geography analysis, inland mouth site                |
+|                            | classification, infrastructure risk assessment, cell-link   |
+|                            | identification                                              |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | CULTIC NETWORKS RESTRICTED / MAP-BASED TARGET DATA SEALED   |
++----------------------------+-------------------------------------------------------------+
 
 Functional Identity
 

@@ -1,26 +1,14 @@
 # TECH-GOI-054-2 - LULLABY WORKS LISTENING PLUSH DISTRESS TRANSDUCER
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-054-2                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Lullaby Works Listening Plush Distress Transducer           |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Listening Plush                                             |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Lullaby Works                                               |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Cooperative recovery, partial inspection, or protected      |
-|                            | field custody through child-safety cases                    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Child protection, Subject Care continuity, product-risk     |
-|                            | review, and safe evidence handling                          |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | CHILD-CARE DISCLOSURE LIMIT / SUBJECT CARE RESTRICTED       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-054-2 |
+| TECHNOLOGY NAME | Lullaby Works Listening Plush Distress Transducer |
+| COMMON ABBREVIATIONS | Listening Plush |
+| ORIGIN | Lullaby Works |
+| ACQUISITION STATUS | Cooperative recovery, partial inspection, or protected field custody through child-safety cases |
+| PRIMARY A.C.T INTEREST | Child protection, Subject Care continuity, product-risk review, and safe evidence handling |
+| ARCHIVE HANDLING | CHILD-CARE DISCLOSURE LIMIT / SUBJECT CARE RESTRICTED |
 
 ## Functional Identity
 

@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - CAUSAL TETHERING CABLES
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-016
-TECHNOLOGY NAME: Causal Tethering Cables
-SHORT NAME: CTC
-TECHNOLOGY FAMILY: REALITY INFRASTRUCTURE / FIELD RECOVERY / SPATIAL RESTRAINT
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Engineering Division / Recovery Division
-ATTACHED DIVISIONS: Containment, Logistics, Site Command, Dark World Survey
-OPERATIONAL STATUS: ACTIVE / RESTRICTED / HIGH-LOAD FIELD USE
-RISK STATUS: CONTROLLED / HAZARDOUS IF OVERLOADED, PHASED, OR CUT
-CLEARANCE REQUIRED: Level 3 for supervised field use; Level 4 for phase-lock calibration, stretched-space deployment, and recovery rigs
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-016                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Causal Tethering Cables                                     |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | CTC                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | REALITY INFRASTRUCTURE / FIELD RECOVERY / SPATIAL RESTRAINT |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Engineering Division / Recovery Division                    |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Containment, Logistics, Site Command, Dark World Survey     |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / HIGH-LOAD FIELD USE                   |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF OVERLOADED, PHASED, OR CUT        |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for supervised field use; Level 4 for phase-lock    |
+|                            | calibration, stretched-space deployment, and recovery rigs  |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Spatial Restraint Technology Record
 Distribution: Engineering / Recovery / Containment / Logistics / Site Command

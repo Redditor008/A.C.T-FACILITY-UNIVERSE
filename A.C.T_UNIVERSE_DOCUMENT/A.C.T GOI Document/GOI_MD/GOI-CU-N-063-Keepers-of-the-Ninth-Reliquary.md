@@ -1,71 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - KEEPERS OF THE NINTH RELIQUARY
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-CU-N-063                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Keepers of the Ninth Reliquary                              |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | KNR                                                         |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Ninth Reliquary Keepers; Reliquary Nine; The Ninth Keep;    |
-|                            | Bone-Lamp Custodians; [CENSOR: RELIQUARY SITE NAME]        |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | CULTIC                                                      |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | NEUTRAL                                                     |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | REGIONAL                                                    |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | PRACTITIONER                                                |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 3                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | VEILED                                                      |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | MONITOR / COOPERATED / CONTAIN                             |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Reliquary Abbots, Lamp-Bearers, Bone Notaries, and sealed   |
-|                            | Ninth Custodian; identity of current Ninth unresolved       |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Relic keepers, shrine nurses, procession guards, offering   |
-|                            | clerks, votive cooks, archivists, and hereditary attendants |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Regional shrine houses, hidden reliquaries, museum-adjacent |
-|                            | stores, sealed chapels, rural processions, and old roads    |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Nine-class relic ledgers, lamp rites, offering schedules,   |
-|                            | reliquary keys, saint-cloth wrappings, and custody vows     |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Active reliquary rooms, votive kitchens, sealed carts,      |
-|                            | bone-lamp cupboards, procession routes, and shrine archives |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | Some objects are not property, trophies, evidence, or tools;|
-|                            | they are obligations that must be tended in the right manner|
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Repeated limited cooperation and dispute over relic seizure,|
-|                            | shrine custody, museum transfer, and unsafe handling        |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | Restricted relic, shrine, offering, procession, museum,     |
-|                            | caretaker, and object-custody case chains                   |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - neutral cultic relic-custody order under monitor   |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division / Recovery Division / Central Archive |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with Site 01 and Site-specific object review|
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for active reliquary inventory, child      |
-|                            | attendants, Ninth Custodian identity, and feeding rites     |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-CU-N-063 |
+| COMMON NAME | Keepers of the Ninth Reliquary |
+| SHORT NAME | KNR |
+| KNOWN ALIASES | Ninth Reliquary Keepers; Reliquary Nine; The Ninth Keep; Bone-Lamp Custodians; [CENSOR: RELIQUARY SITE NAME] |
+| NATURE CLASS | CULTIC |
+| ALIGNMENT CLASS | NEUTRAL |
+| REACH CLASS | REGIONAL |
+| ANOMALOUS CAPABILITY | PRACTITIONER |
+| THREAT LEVEL | 3 |
+| SECRECY RISK | VEILED |
+| A.C.T POSTURE | MONITOR / COOPERATED / CONTAIN |
+| KNOWN LEADERSHIP | Reliquary Abbots, Lamp-Bearers, Bone Notaries, and sealed Ninth Custodian; identity of current Ninth unresolved |
+| KNOWN MEMBERSHIP | Relic keepers, shrine nurses, procession guards, offering clerks, votive cooks, archivists, and hereditary attendants |
+| PRIMARY ACTIVE REGION | Regional shrine houses, hidden reliquaries, museum-adjacent stores, sealed chapels, rural processions, and old roads |
+| KNOWN ASSETS | Nine-class relic ledgers, lamp rites, offering schedules, reliquary keys, saint-cloth wrappings, and custody vows |
+| KNOWN HOLDINGS | Active reliquary rooms, votive kitchens, sealed carts, bone-lamp cupboards, procession routes, and shrine archives |
+| IDEOLOGY | Some objects are not property, trophies, evidence, or tools; they are obligations that must be tended in the right manner |
+| HISTORY WITH A.C.T | Repeated limited cooperation and dispute over relic seizure, shrine custody, museum transfer, and unsafe handling |
+| ANOMALY CROSS-REFERENCE | Restricted relic, shrine, offering, procession, museum, caretaker, and object-custody case chains |
+| CURRENT STATUS | ACTIVE - neutral cultic relic-custody order under monitor |
+| PRIMARY FILE AUTHORITY | Intelligence Division / Recovery Division / Central Archive |
+| SITE JURISDICTION | Central Command with Site 01 and Site-specific object review |
+| CLEARANCE REQUIRED | Level 4; Level 5 for active reliquary inventory, child attendants, Ninth Custodian identity, and feeding rites |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Intelligence / Recovery / Containment / Civil Covert / Subject Care / Command
-**Authority:** Intelligence Division, Recovery Division, Central Archive, and Site-specific object custody desks
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Intelligence / Recovery / Containment / Civil Covert / Subject Care / Command |
+| AUTHORITY | Intelligence Division, Recovery Division, Central Archive, and Site-specific object custody desks |
 
 #### Archive Note
 Keepers of the Ninth Reliquary is the active cultic filing for an outside relic-custody faith order that protects, tends, feeds, hides, records, and moves anomalous objects according to inherited reliquary law. The group is not an A.C.T relic desk, not a single temple, not a harmless worship circle, not the Crown Office of Ash Keys, and not a generic object cult. It qualifies as a Group of Interest because it has organized membership, custody rites, reliquary rooms, offering schedules, routes, ledgers, leadership titles, trained handlers, and a repeated ability to affect A.C.T object recovery.

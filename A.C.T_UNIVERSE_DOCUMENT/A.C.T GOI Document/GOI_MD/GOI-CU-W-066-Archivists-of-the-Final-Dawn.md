@@ -1,71 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - ARCHIVISTS OF THE FINAL DAWN
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-CU-W-066                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Archivists of the Final Dawn                                |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | AFDN                                                        |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Final Dawn Archive; Dawn Archivists; Last Ledger Order;     |
-|                            | First Morning Scribes; [CENSOR: PRESERVATION HOUSE NAME]    |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | CULTIC                                                      |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | WORK                                                        |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | TRANSNATIONAL                                               |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | HANDLER                                                     |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 3                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | LEAKING                                                     |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | COOPERATED / MONITOR / MISDIRECT                           |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Dawn Curators, Ledger Priors, Last-Word Conservators, and   |
-|                            | an unverified office called the First Shelf                 |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Archivists, oral historians, disaster scribes, linguists,   |
-|                            | witness clerks, family recorders, map keepers, and mourners |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Transnational archives, disaster zones, erased towns,       |
-|                            | refugee routes, post-breach shelters, and dying communities |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Last ledgers, dawn copies, witness boxes, song cylinders,   |
-|                            | family-history rolls, language cards, map skins, and seals  |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Preservation houses, hidden reading rooms, mobile archives, |
-|                            | vault caravans, sealed basements, and post-disaster stacks  |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | If an ending comes, someone must still be able to prove who |
-|                            | lived, what was loved, and what was lost                    |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Repeated limited cooperation over missing identities, lost  |
-|                            | towns, witness recovery, erased records, and disaster lists |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | Restricted apocalypse, archive, witness, missing-person,    |
-|                            | erased-town, language-loss, and final-record case chains    |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - working apocalypse-preservation order under review |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Central Archive / Intelligence Division / Civil Covert      |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with Site 03 primary archive review         |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for active dawn copies, child last-words,  |
-|                            | sealed town ledgers, and archive rooms that remember back   |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-CU-W-066 |
+| COMMON NAME | Archivists of the Final Dawn |
+| SHORT NAME | AFDN |
+| KNOWN ALIASES | Final Dawn Archive; Dawn Archivists; Last Ledger Order; First Morning Scribes; [CENSOR: PRESERVATION HOUSE NAME] |
+| NATURE CLASS | CULTIC |
+| ALIGNMENT CLASS | WORK |
+| REACH CLASS | TRANSNATIONAL |
+| ANOMALOUS CAPABILITY | HANDLER |
+| THREAT LEVEL | 3 |
+| SECRECY RISK | LEAKING |
+| A.C.T POSTURE | COOPERATED / MONITOR / MISDIRECT |
+| KNOWN LEADERSHIP | Dawn Curators, Ledger Priors, Last-Word Conservators, and an unverified office called the First Shelf |
+| KNOWN MEMBERSHIP | Archivists, oral historians, disaster scribes, linguists, witness clerks, family recorders, map keepers, and mourners |
+| PRIMARY ACTIVE REGION | Transnational archives, disaster zones, erased towns, refugee routes, post-breach shelters, and dying communities |
+| KNOWN ASSETS | Last ledgers, dawn copies, witness boxes, song cylinders, family-history rolls, language cards, map skins, and seals |
+| KNOWN HOLDINGS | Preservation houses, hidden reading rooms, mobile archives, vault caravans, sealed basements, and post-disaster stacks |
+| IDEOLOGY | If an ending comes, someone must still be able to prove who lived, what was loved, and what was lost |
+| HISTORY WITH A.C.T | Repeated limited cooperation over missing identities, lost towns, witness recovery, erased records, and disaster lists |
+| ANOMALY CROSS-REFERENCE | Restricted apocalypse, archive, witness, missing-person, erased-town, language-loss, and final-record case chains |
+| CURRENT STATUS | ACTIVE - working apocalypse-preservation order under review |
+| PRIMARY FILE AUTHORITY | Central Archive / Intelligence Division / Civil Covert |
+| SITE JURISDICTION | Central Command with Site 03 primary archive review |
+| CLEARANCE REQUIRED | Level 4; Level 5 for active dawn copies, child last-words, sealed town ledgers, and archive rooms that remember back |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Central Archive / Intelligence / Civil Covert / Recovery / Subject Care / Command
-**Authority:** Central Archive, Intelligence Division, Civil Covert Division, and Site 03 Review
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Central Archive / Intelligence / Civil Covert / Recovery / Subject Care / Command |
+| AUTHORITY | Central Archive, Intelligence Division, Civil Covert Division, and Site 03 Review |
 
 #### Archive Note
 Archivists of the Final Dawn is the active cultic filing for an outside apocalypse-preservation order that collects records before, during, and after communities experience endings. The order is not Last Bell Congregation, not Mercy of the Quiet Sun, not Choir of the Unforgotten Name, not Missing 404 Watch Tower, not an A.C.T archive branch, and not a normal historical society. It qualifies as a Group of Interest because it has transnational archivists, mobile vaults, specialized record forms, leadership titles, preservation rites, disaster-entry methods, witness boxes, living oral chains, and a repeated ability to assist or obstruct A.C.T archive control.

@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ## Internal Structure, Classification, and Reality Doctrine
 
-**Archive Status:** Active  
-**Distribution:** Internal / Clearance Required  
-**Authority:** Central Archive and Command Review  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal / Clearance Required |
+| AUTHORITY | Central Archive and Command Review |
 
 ### Archive Note
 This file is the complete internal archive version of the Facility's structure, classification logic, and reality doctrine. It is intended to preserve not only summary understanding, but full explanatory reference for authorized personnel.

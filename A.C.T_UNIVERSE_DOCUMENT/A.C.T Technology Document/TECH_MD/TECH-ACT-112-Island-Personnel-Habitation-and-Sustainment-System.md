@@ -1,37 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - ISLAND PERSONNEL HABITATION AND SUSTAINMENT SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-112                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Island Personnel Habitation and Sustainment System          |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | IPHSS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | PERSONNEL HOUSING / ISLAND SUSTAINMENT / DUTY RESILIENCE   |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY F-5 PERSONNEL AND COMMAND LEVEL       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Relay Administration / Personnel Support Office             |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Administration, Medical, Security, Command, Internal        |
-|                            | Logistics                                                   |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / ON-SITE PERSONNEL SUSTAINMENT                      |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | HABITATION FATIGUE / SEISMIC DISRUPTION / DUTY DEGRADATION |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 2 for housing support; Level 3 for duty-cycle and     |
-|                            | personnel-sustainment administration                        |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-112 |
+| TECHNOLOGY NAME | Island Personnel Habitation and Sustainment System |
+| SHORT NAME | IPHSS |
+| TECHNOLOGY FAMILY | PERSONNEL HOUSING / ISLAND SUSTAINMENT / DUTY RESILIENCE |
+| ORIGIN | NUSANTARA DEEP RELAY F-5 PERSONNEL AND COMMAND LEVEL |
+| PRIMARY CONTROLLER | Relay Administration / Personnel Support Office |
+| ATTACHED DIVISIONS | Administration, Medical, Security, Command, Internal Logistics |
+| OPERATIONAL STATUS | ACTIVE / ON-SITE PERSONNEL SUSTAINMENT |
+| RISK STATUS | HABITATION FATIGUE / SEISMIC DISRUPTION / DUTY DEGRADATION |
+| CLEARANCE REQUIRED | Level 2 for housing support; Level 3 for duty-cycle and personnel-sustainment administration |
 
-**Archive Status:** Active Nusantara Personnel Technology Record
-**Distribution:** Nusantara Deep Relay / Administration / Medical / Security / Command / Internal Logistics
-**Authority:** Relay Administration, Personnel Support Office, Site Director's Command Floor, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Nusantara Personnel Technology Record |
+| DISTRIBUTION | Nusantara Deep Relay / Administration / Medical / Security / Command / Internal Logistics |
+| AUTHORITY | Relay Administration, Personnel Support Office, Site Director's Command Floor, and Central Archive |
 
 #### Archive Note
 Island Personnel Habitation and Sustainment System is the one-hundred-twelfth main A.C.T technology expanded into an individual record. The F-5 Personnel and Command Level dossier identifies F-5 as the relay's human heart: personnel housing, administrative spaces, medical support, Site Director command, and internal logistics. It records that relay personnel live on-site in a volcanic, seismically active island installation whose work reaches from the surface sea to the deep earth.

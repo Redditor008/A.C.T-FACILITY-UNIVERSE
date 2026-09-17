@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - ANOMALOUS INTAKE SCREENING SUITES
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-057                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Anomalous Intake Screening Suites                           |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | AISS                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ARCHIVE INTAKE / DOCUMENT TRIAGE / CONTROLLED SCREENING     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | KUROKAWA ARCHIVE NODE F-6 INTAKE DOCTRINE                   |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Archiver Division / Kurokawa Intake Chief                   |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Intelligence, Research, Security, Redaction, Containment    |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / TRIAGE-GATED / DUAL-ROUTE                          |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | ANOMALOUS MEDIA EXPOSURE / ROUTING ERROR RISK               |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 2 for routine intake support; Level 3 for screening; |
-|                            | Level 4 for anomalous-media triage or route override        |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-057 |
+| TECHNOLOGY NAME | Anomalous Intake Screening Suites |
+| SHORT NAME | AISS |
+| TECHNOLOGY FAMILY | ARCHIVE INTAKE / DOCUMENT TRIAGE / CONTROLLED SCREENING |
+| ORIGIN | KUROKAWA ARCHIVE NODE F-6 INTAKE DOCTRINE |
+| PRIMARY CONTROLLER | Archiver Division / Kurokawa Intake Chief |
+| ATTACHED DIVISIONS | Intelligence, Research, Security, Redaction, Containment |
+| OPERATIONAL STATUS | ACTIVE / TRIAGE-GATED / DUAL-ROUTE |
+| RISK STATUS | ANOMALOUS MEDIA EXPOSURE / ROUTING ERROR RISK |
+| CLEARANCE REQUIRED | Level 2 for routine intake support; Level 3 for screening; Level 4 for anomalous-media triage or route override |
 
-**Archive Status:** Active Archive Intake Technology Record  
-**Distribution:** Archiver Division / Kurokawa Archive Node / Intelligence / Research / Security / Redaction / Containment  
-**Authority:** Kurokawa Intake Chief, Archiver Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Archive Intake Technology Record |
+| DISTRIBUTION | Archiver Division / Kurokawa Archive Node / Intelligence / Research / Security / Redaction / Containment |
+| AUTHORITY | Kurokawa Intake Chief, Archiver Division, and Central Archive |
 
 #### Archive Note
 Anomalous Intake Screening Suites are the fifty-seventh main A.C.T technology expanded into an individual record. The Kurokawa F-6 floor dossier identifies General Records and Anomalous Intake as the node's intake level, where documents and media suspected of anomalous content are received, logged, screened, and triaged. It also describes the screening suites as the places where material is assessed under controlled conditions, where cleared material returns to legitimate archival processing, and where confirmed anomalous material moves downward under controlled protocols.

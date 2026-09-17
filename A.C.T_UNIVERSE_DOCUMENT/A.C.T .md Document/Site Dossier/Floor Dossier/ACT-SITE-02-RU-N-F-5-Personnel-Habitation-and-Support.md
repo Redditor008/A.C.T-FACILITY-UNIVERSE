@@ -3,13 +3,15 @@
 ## ACT-SITE-02-RU-N — White Grave Station
 ## Northern Russia
 
-**Archive Status:** Active
-**Distribution:** Internal / Command / Medical / Administration / Security
-**Authority:** Central Archive / Site Governance Review / Administration
-**File Class:** Floor Dossier — Individual Level Record
-**Dossier Number:** FLOOR-DOSSIER-02-RU-N-F-5
-**Compiled By:** Central Archive, Site Records Office
-**Compilation Standard:** ACT Site Registry File Standard / ACT Floor Record Standard
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal / Command / Medical / Administration / Security |
+| AUTHORITY | Central Archive / Site Governance Review / Administration |
+| FILE CLASS | Floor Dossier — Individual Level Record |
+| DOSSIER NUMBER | FLOOR-DOSSIER-02-RU-N-F-5 |
+| COMPILED BY | Central Archive, Site Records Office |
+| COMPILATION STANDARD | ACT Site Registry File Standard / ACT Floor Record Standard |
 
 ---
 

@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - ABYSSAL ANCHOR PLATING
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-034                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Abyssal Anchor Plating                                      |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | AAP                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | HEAVY CONTAINMENT / ANCHOR PLATING / MASSIVE BOX STRUCTURE  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Engineering Division / Heavy Containment Structural Desk    |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Abyss Floor, Site Command, Logistics, World-Scale Recovery  |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / HEAVY STRUCTURAL / MASSIVE BOX DEPLOYMENT          |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / LOAD-ANCHOR AND RESONANCE HAZARD              |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for installation; Level 5 for Massive Box design,   |
-|                            | tungsten-lattice layout, and anchor-load override           |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-034 |
+| TECHNOLOGY NAME | Abyssal Anchor Plating |
+| SHORT NAME | AAP |
+| TECHNOLOGY FAMILY | HEAVY CONTAINMENT / ANCHOR PLATING / MASSIVE BOX STRUCTURE |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Engineering Division / Heavy Containment Structural Desk |
+| ATTACHED DIVISIONS | Abyss Floor, Site Command, Logistics, World-Scale Recovery |
+| OPERATIONAL STATUS | ACTIVE / HEAVY STRUCTURAL / MASSIVE BOX DEPLOYMENT |
+| RISK STATUS | CONTROLLED / LOAD-ANCHOR AND RESONANCE HAZARD |
+| CLEARANCE REQUIRED | Level 4 for installation; Level 5 for Massive Box design, tungsten-lattice layout, and anchor-load override |
 
-**Archive Status:** Active Heavy Containment Technology Record  
-**Distribution:** Engineering / Heavy Containment / Abyss Floor / Site Command / Logistics / World-Scale Recovery  
-**Authority:** Engineering Division, Heavy Containment Structural Desk, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Heavy Containment Technology Record |
+| DISTRIBUTION | Engineering / Heavy Containment / Abyss Floor / Site Command / Logistics / World-Scale Recovery |
+| AUTHORITY | Engineering Division, Heavy Containment Structural Desk, and Central Archive |
 
 #### Archive Note
 Abyssal Anchor Plating is the thirty-fourth main A.C.T technology expanded into an individual record. The Master Catalog defines it as tungsten-reinforced Abyssal Masonry used in the construction of Massive Box enclosures for world-scale entities. The visual guide describes interlocking matte-black tiles with hexagonal reinforcement grooves, an internal thermal-sink layer, a cold surface, and a tendency to absorb room sound. Earlier engineering records place Massive Box logic among A.C.T's oldest heavy-containment traditions, while modern Cryo-Seismic Stabilizer and Abyssal Masonry records identify anchor plating as part of the structure required when mass, pressure, and reality-shear become too large for ordinary walls.

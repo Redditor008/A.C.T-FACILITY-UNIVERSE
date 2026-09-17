@@ -1,81 +1,36 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - LIBERTY FREEDOMS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-ML-X-050                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Liberty Freedoms                                            |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | L.F. (rendered LF in seized working drafts)                 |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | The Freedoms; the Open Hand (leaflet alias); name           |
-|                            | variants under which early material circulated are          |
-|                            | restricted                                                  |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | MILITANT                                                    |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | NEGATIVE                                                    |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | TRANSNATIONAL                                               |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | HANDLER                                                     |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 4                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | EXPOSURE-ACTIVE                                             |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | CONTAIN / DISMANTLE / INFILTRATE                            |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Assessed rotating council of founding defectors and         |
-|                            | regional commanders; individual identities compartmented    |
-|                            | and unresolved                                              |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Large decentralized network of former A.C.T personnel,      |
-|                            | displaced civilians, radical sympathizers, and              |
-|                            | opportunist cells; live census unresolved                   |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Transnational; defector-trace and transport-route           |
-|                            | analysis held in restricted surveillance records            |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Defector operational knowledge, seized route and            |
-|                            | schedule records, adapted A.C.T equipment, publication      |
-|                            | and leak infrastructure, and anomalies assessed to          |
-|                            | travel with cells                                           |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Dispersed safehouses, temporary holding routes,             |
-|                            | publication relays, and changing forward staging            |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | Liberation of anomalies and of concealed knowledge from     |
-|                            | A.C.T custody, pursued through deliberate public rupture    |
-|                            | rather than negotiated reform                               |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Coordinated defection-and-leak pattern opened the           |
-|                            | current record; a single founding event remains             |
-|                            | unverified and contested                                    |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | No permanent group-wide list; case chains and               |
-|                            | seized-subject files held restricted                        |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - dispersed insurgency with confirmed defector,      |
-|                            | publication, and anomaly-carry operations                   |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division, Hostile Networks Desk, with          |
-|                            | Internal Security liaison                                   |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with cross-site incident authority;         |
-|                            | ACT-SITE-01, ACT-SITE-03, and ACT-SITE-05 lead standing     |
-|                            | response lanes                                              |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for defector identity, seized-subject,     |
-|                            | and leak-source files                                       |
-+----------------------------+-------------------------------------------------------------+
-```
+| GOI DESIGNATION | GOI-ML-X-050 |
+|---|---|
+| COMMON NAME | Liberty Freedoms |
+| SHORT NAME | L.F. (rendered LF in seized working drafts) |
+| KNOWN ALIASES | The Freedoms; the Open Hand (leaflet alias); name variants under which early material circulated are restricted |
+| NATURE CLASS | MILITANT |
+| ALIGNMENT CLASS | NEGATIVE |
+| REACH CLASS | TRANSNATIONAL |
+| ANOMALOUS CAPABILITY | HANDLER |
+| THREAT LEVEL | 4 |
+| SECRECY RISK | EXPOSURE-ACTIVE |
+| A.C.T POSTURE | CONTAIN / DISMANTLE / INFILTRATE |
+| KNOWN LEADERSHIP | Assessed rotating council of founding defectors and regional commanders; individual identities compartmented and unresolved |
+| KNOWN MEMBERSHIP | Large decentralized network of former A.C.T personnel, displaced civilians, radical sympathizers, and opportunist cells; live census unresolved |
+| PRIMARY ACTIVE REGION | Transnational; defector-trace and transport-route analysis held in restricted surveillance records |
+| KNOWN ASSETS | Defector operational knowledge, seized route and schedule records, adapted A.C.T equipment, publication and leak infrastructure, and anomalies assessed to travel with cells |
+| KNOWN HOLDINGS | Dispersed safehouses, temporary holding routes, publication relays, and changing forward staging |
+| IDEOLOGY | Liberation of anomalies and of concealed knowledge from A.C.T custody, pursued through deliberate public rupture rather than negotiated reform |
+| HISTORY WITH A.C.T | Coordinated defection-and-leak pattern opened the current record; a single founding event remains unverified and contested |
+| ANOMALY CROSS-REFERENCE | No permanent group-wide list; case chains and seized-subject files held restricted |
+| CURRENT STATUS | ACTIVE - dispersed insurgency with confirmed defector, publication, and anomaly-carry operations |
+| PRIMARY FILE AUTHORITY | Intelligence Division, Hostile Networks Desk, with Internal Security liaison |
+| SITE JURISDICTION | Central Command with cross-site incident authority; ACT-SITE-01, ACT-SITE-03, and ACT-SITE-05 lead standing response lanes |
+| CLEARANCE REQUIRED | Level 4; Level 5 for defector identity, seized-subject, and leak-source files |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Intelligence / Security / Recovery / Containment / Military / Civil Covert / Command
-**Authority:** Intelligence Division, Hostile Networks Desk, with Central Archive custody
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Intelligence / Security / Recovery / Containment / Military / Civil Covert / Command |
+| AUTHORITY | Intelligence Division, Hostile Networks Desk, with Central Archive custody |
 
 #### Archive Note
 Liberty Freedoms, or L.F., is a transnational militant insurgency whose stated enemy is not the anomalous world but A.C.T custody itself. The network describes its purpose as liberation: of anomalies held in containment, of personnel it believes are imprisoned by doctrine, and of knowledge it claims the Facility withholds from humanity. In practice, the organization is recorded as a decentralized network that raids transport and recovery operations, publishes controlled document leaks, recruits and shelters former Facility personnel, and transports anomalies that have left containment with it or that its cells have seized.

@@ -1,17 +1,31 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - ISLAND PERSONNEL HABITATION AND SUSTAINMENT SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-112
-TECHNOLOGY NAME: Island Personnel Habitation and Sustainment System
-SHORT NAME: IPHSS
-TECHNOLOGY FAMILY: PERSONNEL HOUSING / ISLAND SUSTAINMENT / DUTY RESILIENCE
-ORIGIN: NUSANTARA DEEP RELAY F-5 PERSONNEL AND COMMAND LEVEL
-PRIMARY CONTROLLER: Relay Administration / Personnel Support Office
-ATTACHED DIVISIONS: Administration, Medical, Security, Command, Internal Logistics
-OPERATIONAL STATUS: ACTIVE / ON-SITE PERSONNEL SUSTAINMENT
-RISK STATUS: HABITATION FATIGUE / SEISMIC DISRUPTION / DUTY DEGRADATION
-CLEARANCE REQUIRED: Level 2 for housing support; Level 3 for duty-cycle and personnel-sustainment administration
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-112                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Island Personnel Habitation and Sustainment System          |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | IPHSS                                                       |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | PERSONNEL HOUSING / ISLAND SUSTAINMENT / DUTY RESILIENCE    |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | NUSANTARA DEEP RELAY F-5 PERSONNEL AND COMMAND LEVEL        |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Relay Administration / Personnel Support Office             |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Administration, Medical, Security, Command, Internal        |
+|                            | Logistics                                                   |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / ON-SITE PERSONNEL SUSTAINMENT                      |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | HABITATION FATIGUE / SEISMIC DISRUPTION / DUTY DEGRADATION  |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 2 for housing support; Level 3 for duty-cycle and     |
+|                            | personnel-sustainment administration                        |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Nusantara Personnel Technology Record
 Distribution: Nusantara Deep Relay / Administration / Medical / Security / Command / Internal Logistics

@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - PALE WOOD SCALPEL
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-024                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Pale Wood Scalpel                                           |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | PWS                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | MEDICAL / BIOLOGICAL SAMPLING / ANOMALOUS MATERIAL TOOL     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T / DARK WORLD MATERIAL                                 |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Medical Division / Surgical Materials Custody               |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Biological Containment, Recovery, Engineering, Site Command |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / GOLD-VULNERABLE MATERIAL              |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF MISUSED OR IMPROPERLY TRACKED    |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for prepared surgical use; Level 4 for Dark World   |
-|                            | source material, laser-tracking calibration, and breach use |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-024 |
+| TECHNOLOGY NAME | Pale Wood Scalpel |
+| SHORT NAME | PWS |
+| TECHNOLOGY FAMILY | MEDICAL / BIOLOGICAL SAMPLING / ANOMALOUS MATERIAL TOOL |
+| ORIGIN | A.C.T / DARK WORLD MATERIAL |
+| PRIMARY CONTROLLER | Medical Division / Surgical Materials Custody |
+| ATTACHED DIVISIONS | Biological Containment, Recovery, Engineering, Site Command |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / GOLD-VULNERABLE MATERIAL |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF MISUSED OR IMPROPERLY TRACKED |
+| CLEARANCE REQUIRED | Level 3 for prepared surgical use; Level 4 for Dark World source material, laser-tracking calibration, and breach use |
 
-**Archive Status:** Active Surgical Tool Technology Record  
-**Distribution:** Medical / Biological Containment / Recovery / Engineering / Site Command  
-**Authority:** Medical Division, Surgical Materials Custody, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Surgical Tool Technology Record |
+| DISTRIBUTION | Medical / Biological Containment / Recovery / Engineering / Site Command |
+| AUTHORITY | Medical Division, Surgical Materials Custody, and Central Archive |
 
 #### Archive Note
 The Pale Wood Scalpel is the twenty-fourth main A.C.T technology expanded into an individual record. The Master Catalog defines it as an indestructible surgical cutting edge vulnerable only to 24k gold and standard for high-security biological sampling. The visual guide describes a surgical knife with a blade made from a razor-sharp shard of white bark-less wood, a laser-tracking rail along the spine of the blade to keep cuts aligned with a redacted subject signature, and a heavy surgical-steel handle with vibration-dampening padding. AFD-SU-902 Hang Snake breach procedure states that standard blades must not be used and that Pale Wood Scalpels are required if disarticulation becomes necessary.

@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - SIGNAL-ISOLATED ANOMALOUS DOCUMENT STORAGE SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-123                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Signal-Isolated Anomalous Document Storage System           |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SIADSS                                                      |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ANOMALOUS DOCUMENT STORAGE / SIGNAL ISOLATION / ACTIVE HOLD |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | KUROKAWA ARCHIVE NODE F-3 ACTIVE ANOMALOUS DOCUMENT STORAGE|
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Floor Holding Archivist / Document-Holding Command          |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Archive, Intelligence, Researcher, Security                 |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / MONITORED ANOMALOUS DOCUMENT HOLDING               |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | SIGNAL ESCAPE / STORAGE MISASSIGNMENT / QUARANTINE DRIFT   |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for holding duty; Level 4 for signal-isolated       |
-|                            | access, F-2 transfer, or F-4 sample-control release         |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-123 |
+| TECHNOLOGY NAME | Signal-Isolated Anomalous Document Storage System |
+| SHORT NAME | SIADSS |
+| TECHNOLOGY FAMILY | ANOMALOUS DOCUMENT STORAGE / SIGNAL ISOLATION / ACTIVE HOLD |
+| ORIGIN | KUROKAWA ARCHIVE NODE F-3 ACTIVE ANOMALOUS DOCUMENT STORAGE |
+| PRIMARY CONTROLLER | Floor Holding Archivist / Document-Holding Command |
+| ATTACHED DIVISIONS | Archive, Intelligence, Researcher, Security |
+| OPERATIONAL STATUS | ACTIVE / MONITORED ANOMALOUS DOCUMENT HOLDING |
+| RISK STATUS | SIGNAL ESCAPE / STORAGE MISASSIGNMENT / QUARANTINE DRIFT |
+| CLEARANCE REQUIRED | Level 3 for holding duty; Level 4 for signal-isolated access, F-2 transfer, or F-4 sample-control release |
 
-**Archive Status:** Active Kurokawa Active-Storage Technology Record
-**Distribution:** Kurokawa Archive Node / Archive / Intelligence / Researcher Division / Security
-**Authority:** Floor Holding Archivist, Document-Holding Command, Archive Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Kurokawa Active-Storage Technology Record |
+| DISTRIBUTION | Kurokawa Archive Node / Archive / Intelligence / Researcher Division / Security |
+| AUTHORITY | Floor Holding Archivist, Document-Holding Command, Archive Division, and Central Archive |
 
 #### Archive Note
 Signal-Isolated Anomalous Document Storage System is the one-hundred-twenty-third main A.C.T technology expanded into an individual record. The F-3 Active Anomalous Document Storage dossier identifies F-3 as Kurokawa's main holding level for confirmed anomalous documents and media requiring ongoing monitoring. It records storage rows, document quarantine cells, signal-isolated storage units, monitoring galleries, handling corridors, intake and assessment bays, transfer procedures to F-2 and F-4, and a doctrine that treats anomalous documents as active holdings.

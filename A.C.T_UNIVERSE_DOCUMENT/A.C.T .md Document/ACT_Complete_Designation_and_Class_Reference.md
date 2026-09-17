@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### Complete Designation and Class Reference
 
-**Archive Status:** Active Reference Standard
-**Distribution:** Internal / Archive / Classification Review / Training / All Divisions
-**Authority:** Archive Administration and Classification Review, with Central Archive custody
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Reference Standard |
+| DISTRIBUTION | Internal / Archive / Classification Review / Training / All Divisions |
+| AUTHORITY | Archive Administration and Classification Review, with Central Archive custody |
 
 #### Archive Note
 This file is the consolidated meaning reference for every designation, code, marker, and class used on A.C.T records. Until this file was opened, the same code could be read differently by an Archiver, a Field Operator, a Site Director, and a Transformation specialist, because its definition lived in a different supporting file each time. This reference ends that condition.

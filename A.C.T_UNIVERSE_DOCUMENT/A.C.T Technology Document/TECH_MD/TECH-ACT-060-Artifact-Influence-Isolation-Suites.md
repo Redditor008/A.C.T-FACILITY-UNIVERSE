@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - ARTIFACT-INFLUENCE ISOLATION SUITES
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-060                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Artifact-Influence Isolation Suites                         |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | AIIS                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | MEDICAL ISOLATION / COGNITIVE CARE / PERSONNEL SAFETY       |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | REDWOOD VEIL F-6 MEDICAL AND COGNITIVE CARE PROGRAM         |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Medical Division / Chief Medical Officer                    |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Containment, Research, Security, Archive                    |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / CLINICAL ISOLATION / CONFIDENTIAL                  |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | PATIENT INFLUENCE / COGNITIVE CONTAMINATION / CARE BREACH   |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Medical authorization plus applicable restriction clearance;|
-|                            | Level 4 for active anomalous influence escalation           |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-060 |
+| TECHNOLOGY NAME | Artifact-Influence Isolation Suites |
+| SHORT NAME | AIIS |
+| TECHNOLOGY FAMILY | MEDICAL ISOLATION / COGNITIVE CARE / PERSONNEL SAFETY |
+| ORIGIN | REDWOOD VEIL F-6 MEDICAL AND COGNITIVE CARE PROGRAM |
+| PRIMARY CONTROLLER | Medical Division / Chief Medical Officer |
+| ATTACHED DIVISIONS | Containment, Research, Security, Archive |
+| OPERATIONAL STATUS | ACTIVE / CLINICAL ISOLATION / CONFIDENTIAL |
+| RISK STATUS | PATIENT INFLUENCE / COGNITIVE CONTAMINATION / CARE BREACH |
+| CLEARANCE REQUIRED | Medical authorization plus applicable restriction clearance; Level 4 for active anomalous influence escalation |
 
-**Archive Status:** Active Medical Containment Technology Record  
-**Distribution:** Medical / Containment / Research / Security / Archive  
-**Authority:** Medical Division, Chief Medical Officer, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Medical Containment Technology Record |
+| DISTRIBUTION | Medical / Containment / Research / Security / Archive |
+| AUTHORITY | Medical Division, Chief Medical Officer, and Central Archive |
 
 #### Archive Note
 Artifact-Influence Isolation Suites are the sixtieth main A.C.T technology expanded into an individual record. Redwood Veil's F-6 floor dossier identifies Medical and Cognitive Care as the complex's primary ward level and states that it provides trauma care, memetic contamination treatment, cognitive recovery, and isolation suites for personnel undergoing artifact-influence evaluation. The dossier describes those suites as secure medical environments where personnel suspected of artifact influence are evaluated and treated away from the working population, with clinical observation, exact documentation, and care governed by medical doctrine.

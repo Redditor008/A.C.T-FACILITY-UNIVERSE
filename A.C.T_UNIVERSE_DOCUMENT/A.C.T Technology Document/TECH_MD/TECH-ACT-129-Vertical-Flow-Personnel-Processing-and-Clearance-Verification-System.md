@@ -1,37 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - VERTICAL-FLOW PERSONNEL PROCESSING AND CLEARANCE VERIFICATION SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-129                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Vertical-Flow Personnel Processing and Clearance           |
-|                            | Verification System                                         |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | VFPPCVS                                                     |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | PERSONNEL PROCESSING / CLEARANCE VERIFICATION / DUTY FLOW  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | REDWOOD VEIL COMPLEX F-8 ADMINISTRATION AND PERSONNEL      |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Site Director / Site Administration                         |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Administration, Personnel, Security, Training, Command     |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / COMPLEX-CLEARANCE-GATED PERSONNEL GATEWAY         |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CLEARANCE DRIFT / PROCESSING ERROR / DUTY-PASSAGE FAILURE  |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Complex access authorization; duty-floor clearance,         |
-|                            | training status, and command assignment verified per shift |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-129 |
+| TECHNOLOGY NAME | Vertical-Flow Personnel Processing and Clearance Verification System |
+| SHORT NAME | VFPPCVS |
+| TECHNOLOGY FAMILY | PERSONNEL PROCESSING / CLEARANCE VERIFICATION / DUTY FLOW |
+| ORIGIN | REDWOOD VEIL COMPLEX F-8 ADMINISTRATION AND PERSONNEL |
+| PRIMARY CONTROLLER | Site Director / Site Administration |
+| ATTACHED DIVISIONS | Administration, Personnel, Security, Training, Command |
+| OPERATIONAL STATUS | ACTIVE / COMPLEX-CLEARANCE-GATED PERSONNEL GATEWAY |
+| RISK STATUS | CLEARANCE DRIFT / PROCESSING ERROR / DUTY-PASSAGE FAILURE |
+| CLEARANCE REQUIRED | Complex access authorization; duty-floor clearance, training status, and command assignment verified per shift |
 
-**Archive Status:** Active Redwood Veil Administrative Technology Record
-**Distribution:** Redwood Veil Complex / Administration / Personnel / Security / Training / Command
-**Authority:** Site Director, Site Administration, Personnel Office, Security Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Redwood Veil Administrative Technology Record |
+| DISTRIBUTION | Redwood Veil Complex / Administration / Personnel / Security / Training / Command |
+| AUTHORITY | Site Director, Site Administration, Personnel Office, Security Division, and Central Archive |
 
 #### Archive Note
 Vertical-Flow Personnel Processing and Clearance Verification System is the one-hundred-twenty-ninth main A.C.T technology expanded into an individual record. The Redwood Veil F-8 Administration and Personnel dossier identifies F-8 as the administrative heart of the complex, holding site administration, personnel processing, clearance verification, training spaces, command support, staff support, and the Site Director's command suite. It records the floor's vertical-flow design, where personnel entering duty move downward and personnel leaving duty move upward, making the passage between surface and Facility part of the site's psychological architecture.

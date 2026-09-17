@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ## RCT Anomaly File Format Reference
 
-**Archive Status:** Active  
-**Distribution:** Internal / Operational Use  
-**Authority:** Classification Administration and Research Command  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal / Operational Use |
+| AUTHORITY | Classification Administration and Research Command |
 
 ### Archive Note
 This file is the complete internal archive version of the official RCT Anomaly File Format, preserving the Containment, Research, and Transformation block structure in full.

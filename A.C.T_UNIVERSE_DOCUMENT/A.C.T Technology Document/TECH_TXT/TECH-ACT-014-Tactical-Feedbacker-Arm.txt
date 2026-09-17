@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - TACTICAL FEEDBACKER ARM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-014
-TECHNOLOGY NAME: Tactical Feedbacker Arm
-SHORT NAME: TFA
-TECHNOLOGY FAMILY: FIELD / PROSTHETIC / TACTICAL DEFLECTION
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Tactical Engineering / Medical Prosthetics Desk
-ATTACHED DIVISIONS: Recovery, Field Command, Medical, Training, Security
-OPERATIONAL STATUS: ACTIVE / RESTRICTED ISSUE / OPERATOR-BONDED
-RISK STATUS: CONTROLLED / HAZARDOUS IF TIMING, FEEDBACK, OR USER FAILS
-CLEARANCE REQUIRED: Level 3 for bonded operators; Level 4 for capacitor tuning, combat deployment, and anomaly-contact parry authorization
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-014                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Tactical Feedbacker Arm                                     |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | TFA                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | FIELD / PROSTHETIC / TACTICAL DEFLECTION                    |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Tactical Engineering / Medical Prosthetics Desk             |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Recovery, Field Command, Medical, Training, Security        |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED ISSUE / OPERATOR-BONDED                 |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF TIMING, FEEDBACK, OR USER FAILS   |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for bonded operators; Level 4 for capacitor tuning, |
+|                            | combat deployment, and anomaly-contact parry authorization  |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Tactical Prosthetic Record
 Distribution: Tactical Engineering / Medical / Recovery / Field Command / Training / Security

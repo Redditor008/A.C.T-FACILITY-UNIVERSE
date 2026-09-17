@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - PHASE-SHIFTED CONTAINMENT GLASS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-035                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Phase-Shifted Containment Glass                             |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | PSCG                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | OBSERVATION / PHASE CONTROL / VISUAL HAZARD FILTER          |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Engineering Division / Observation Safety Desk              |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Subject Care, Biological Containment, Security, Site Command|
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / OBSERVATION-PANE / SUITE-INTEGRATED                |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / PHASE-MISALIGNMENT HAZARD                     |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for observation use; Level 4 for phase adjustment;  |
-|                            | Level 5 for desynchronized-subject interface override       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-035 |
+| TECHNOLOGY NAME | Phase-Shifted Containment Glass |
+| SHORT NAME | PSCG |
+| TECHNOLOGY FAMILY | OBSERVATION / PHASE CONTROL / VISUAL HAZARD FILTER |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Engineering Division / Observation Safety Desk |
+| ATTACHED DIVISIONS | Subject Care, Biological Containment, Security, Site Command |
+| OPERATIONAL STATUS | ACTIVE / OBSERVATION-PANE / SUITE-INTEGRATED |
+| RISK STATUS | CONTROLLED / PHASE-MISALIGNMENT HAZARD |
+| CLEARANCE REQUIRED | Level 3 for observation use; Level 4 for phase adjustment; Level 5 for desynchronized-subject interface override |
 
-**Archive Status:** Active Observation Safety Technology Record  
-**Distribution:** Engineering / Observation Safety / Subject Care / Biological Containment / Security / Site Command  
-**Authority:** Engineering Division, Observation Safety Desk, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Observation Safety Technology Record |
+| DISTRIBUTION | Engineering / Observation Safety / Subject Care / Biological Containment / Security / Site Command |
+| AUTHORITY | Engineering Division, Observation Safety Desk, and Central Archive |
 
 #### Archive Note
 Phase-Shifted Containment Glass is the thirty-fifth main A.C.T technology expanded into an individual record. The Master Catalog defines it as a transparent viewing medium that exists between standard and desynchronized frequencies, allowing direct observation of phased subjects. The visual guide describes standard-looking glass with a faint rainbow oil-slick sheen, a polarizing dial, and a digital phase-slider used to adjust visibility and tangibility of desynchronized subjects. Terra's Pulse containment procedures list it beside Chrono-Stuttered Visors as an approved visual filter for monitoring AFD-SU-952 without unsafe direct viewing.

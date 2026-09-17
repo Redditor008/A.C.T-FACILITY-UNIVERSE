@@ -1,27 +1,14 @@
 # TECH-GOI-049-4 - DREAM .INC TWELVE-BUILDING APPOINTMENT ROUTING NETWORK
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-049-4                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | DREAM .INC Twelve-Building Appointment Routing Network      |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | DTBARN / Appointment Routing Network / Open Building Cover  |
-|                            | System                                                      |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | DREAM .INC                                                  |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Surveyed and infiltrated in part; location index restricted |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Corporate route mapping, product interdiction,              |
-|                            | building-function identification, covert containment        |
-|                            | planning                                                    |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | DREAM .INC LOCATION RESTRICTED / CIVIL COVERT CONTROL       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-049-4 |
+| TECHNOLOGY NAME | DREAM .INC Twelve-Building Appointment Routing Network |
+| COMMON ABBREVIATIONS | DTBARN / Appointment Routing Network / Open Building Cover System |
+| ORIGIN | DREAM .INC |
+| ACQUISITION STATUS | Surveyed and infiltrated in part; location index restricted |
+| PRIMARY A.C.T INTEREST | Corporate route mapping, product interdiction, building-function identification, covert containment planning |
+| ARCHIVE HANDLING | DREAM .INC LOCATION RESTRICTED / CIVIL COVERT CONTROL |
 
 ## Functional Identity
 

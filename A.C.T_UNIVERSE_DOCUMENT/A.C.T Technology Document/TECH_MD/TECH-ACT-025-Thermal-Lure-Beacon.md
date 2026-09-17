@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - THERMAL-LURE BEACON
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-025                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Thermal-Lure Beacon                                         |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | TLB                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | FIELD / BIOLOGICAL CONTAINMENT / NON-HOSTILE RELOCATION     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Subject Care Division / Biological Containment Division     |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Recovery, Medical, Engineering, Site-04 Command             |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / FIELD AND HABITAT ISSUE / RESTRICTED HIGH HEAT     |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF OVERHEATED OR MISDIRECTED        |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 2 for habitat use; Level 3 for recovery deployment;   |
-|                            | Level 4 for high-output settings and predator routing       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-025 |
+| TECHNOLOGY NAME | Thermal-Lure Beacon |
+| SHORT NAME | TLB |
+| TECHNOLOGY FAMILY | FIELD / BIOLOGICAL CONTAINMENT / NON-HOSTILE RELOCATION |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Subject Care Division / Biological Containment Division |
+| ATTACHED DIVISIONS | Recovery, Medical, Engineering, Site-04 Command |
+| OPERATIONAL STATUS | ACTIVE / FIELD AND HABITAT ISSUE / RESTRICTED HIGH HEAT |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF OVERHEATED OR MISDIRECTED |
+| CLEARANCE REQUIRED | Level 2 for habitat use; Level 3 for recovery deployment; Level 4 for high-output settings and predator routing |
 
-**Archive Status:** Active Biological Handling Technology Record  
-**Distribution:** Subject Care / Biological Containment / Recovery / Medical / Site-04 Command  
-**Authority:** Subject Care Division, Biological Containment Division, Engineering Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Biological Handling Technology Record |
+| DISTRIBUTION | Subject Care / Biological Containment / Recovery / Medical / Site-04 Command |
+| AUTHORITY | Subject Care Division, Biological Containment Division, Engineering Division, and Central Archive |
 
 #### Archive Note
 Thermal-Lure Beacon is the twenty-fifth main A.C.T technology expanded into an individual record. The Master Catalog defines it as tunable infrared projection arrays used for non-hostile relocation of ectothermic subjects. The visual guide describes a floor-standing industrial lamp with a folding Focus Hood, a directional dark orange heat beam, a Digital Heat-Dial, a redacted-grade cooling unit, and a temperature range beginning at 20 degrees C and rising to restricted levels. Multiple subject files already rely on the system. Crystal Butterfly breach procedure uses Thermal-Lure Beacons because the colony prioritizes heat over aggression. Spinosaurus containment uses them to guide the subject into feeding and medical bays while maintaining a 30 degrees C behavioral baseline. Toy Dragon recovery uses them or fatty-fruit lures because the subject is non-hostile and easily guided by preferred stimuli.

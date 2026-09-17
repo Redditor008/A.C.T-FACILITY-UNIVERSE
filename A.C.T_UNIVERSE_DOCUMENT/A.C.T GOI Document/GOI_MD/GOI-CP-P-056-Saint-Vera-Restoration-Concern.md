@@ -1,72 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - SAINT-VERA RESTORATION CONCERN
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-CP-P-056                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Saint-Vera Restoration Concern                              |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SVRC                                                        |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Saint-Vera Clinics; Vera Restorative; SV Aftercare;         |
-|                            | The Concern; [CENSOR: MOBILE CLINIC BRAND]                  |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | CORPORATE                                                   |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | POSITIVE                                                    |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | TRANSNATIONAL                                               |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | ENGINEERING                                                 |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 4                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | LEAKING                                                     |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | COOPERATED / MONITOR / HELP / APPROPRIATE                  |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Charitable board and surgical directorate unresolved;       |
-|                            | named physicians use sealed restoration licenses            |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Surgeons, restoration technicians, trauma nurses, prosthetic|
-|                            | makers, record advocates, mobile-clinic drivers, and donors |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Transnational post-incident care routes, blackout clinics,  |
-|                            | shelters, hospitals, refugee corridors, and private wards   |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Restoration theaters, mobile clinics, memory-sensitive      |
-|                            | consent forms, living prosthetics, tissue stabilizers, and  |
-|                            | sealed patient ledgers                                      |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Front clinics, charitable recovery houses, ambulance routes,|
-|                            | aftercare hostels, surgical supply caches, and cold ledgers |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | Survival should include dignity; a changed body is not      |
-|                            | automatically failed, contaminated, or disposable           |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Repeated discovery through survivors treated after A.C.T or |
-|                            | non-A.C.T anomaly incidents                                 |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | Restricted transformation, injury-restoration, altered-body,|
-|                            | amnestic-aftercare, and E-Class review chains               |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - monitored positive medical-corporate network       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Medical Division / Subject Care Division / Intelligence     |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with Site-specific medical transfer review  |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for patient names, surgical source records,|
-|                            | failed restorations, and E-Class linked cases               |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-CP-P-056 |
+| COMMON NAME | Saint-Vera Restoration Concern |
+| SHORT NAME | SVRC |
+| KNOWN ALIASES | Saint-Vera Clinics; Vera Restorative; SV Aftercare; The Concern; [CENSOR: MOBILE CLINIC BRAND] |
+| NATURE CLASS | CORPORATE |
+| ALIGNMENT CLASS | POSITIVE |
+| REACH CLASS | TRANSNATIONAL |
+| ANOMALOUS CAPABILITY | ENGINEERING |
+| THREAT LEVEL | 4 |
+| SECRECY RISK | LEAKING |
+| A.C.T POSTURE | COOPERATED / MONITOR / HELP / APPROPRIATE |
+| KNOWN LEADERSHIP | Charitable board and surgical directorate unresolved; named physicians use sealed restoration licenses |
+| KNOWN MEMBERSHIP | Surgeons, restoration technicians, trauma nurses, prosthetic makers, record advocates, mobile-clinic drivers, and donors |
+| PRIMARY ACTIVE REGION | Transnational post-incident care routes, blackout clinics, shelters, hospitals, refugee corridors, and private wards |
+| KNOWN ASSETS | Restoration theaters, mobile clinics, memory-sensitive consent forms, living prosthetics, tissue stabilizers, and sealed patient ledgers |
+| KNOWN HOLDINGS | Front clinics, charitable recovery houses, ambulance routes, aftercare hostels, surgical supply caches, and cold ledgers |
+| IDEOLOGY | Survival should include dignity; a changed body is not automatically failed, contaminated, or disposable |
+| HISTORY WITH A.C.T | Repeated discovery through survivors treated after A.C.T or non-A.C.T anomaly incidents |
+| ANOMALY CROSS-REFERENCE | Restricted transformation, injury-restoration, altered-body, amnestic-aftercare, and E-Class review chains |
+| CURRENT STATUS | ACTIVE - monitored positive medical-corporate network |
+| PRIMARY FILE AUTHORITY | Medical Division / Subject Care Division / Intelligence |
+| SITE JURISDICTION | Central Command with Site-specific medical transfer review |
+| CLEARANCE REQUIRED | Level 4; Level 5 for patient names, surgical source records, failed restorations, and E-Class linked cases |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Medical / Subject Care / Intelligence / Recovery / Containment / Civil Covert / Command
-**Authority:** Medical Division, Subject Care Division, Intelligence Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Medical / Subject Care / Intelligence / Recovery / Containment / Civil Covert / Command |
+| AUTHORITY | Medical Division, Subject Care Division, Intelligence Division, and Central Archive |
 
 #### Archive Note
 Saint-Vera Restoration Concern is the active corporate filing for an outside medical, surgical, prosthetic, and survivor-restoration institution that treats people damaged or altered by anomalous events. The group is not filed as a single black clinic, a charity hospital, a rogue doctor, or an ordinary biotechnology firm. It qualifies as a Group of Interest because its care network recurs across separate jurisdictions, its procedures produce outcomes conventional medicine cannot explain, its patient-protection policies can obstruct A.C.T custody, and its restoration technology directly affects Transformation review, E-Class evaluation, memory aftercare, and public normalcy management.

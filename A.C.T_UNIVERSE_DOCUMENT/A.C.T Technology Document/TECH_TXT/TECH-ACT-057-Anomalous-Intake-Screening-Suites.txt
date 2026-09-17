@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - ANOMALOUS INTAKE SCREENING SUITES
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-057
-TECHNOLOGY NAME: Anomalous Intake Screening Suites
-SHORT NAME: AISS
-TECHNOLOGY FAMILY: ARCHIVE INTAKE / DOCUMENT TRIAGE / CONTROLLED SCREENING
-ORIGIN: KUROKAWA ARCHIVE NODE F-6 INTAKE DOCTRINE
-PRIMARY CONTROLLER: Archiver Division / Kurokawa Intake Chief
-ATTACHED DIVISIONS: Intelligence, Research, Security, Redaction, Containment
-OPERATIONAL STATUS: ACTIVE / TRIAGE-GATED / DUAL-ROUTE
-RISK STATUS: ANOMALOUS MEDIA EXPOSURE / ROUTING ERROR RISK
-CLEARANCE REQUIRED: Level 2 for routine intake support; Level 3 for screening; Level 4 for anomalous-media triage or route override
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-057                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Anomalous Intake Screening Suites                           |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | AISS                                                        |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | ARCHIVE INTAKE / DOCUMENT TRIAGE / CONTROLLED SCREENING     |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | KUROKAWA ARCHIVE NODE F-6 INTAKE DOCTRINE                   |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Archiver Division / Kurokawa Intake Chief                   |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Intelligence, Research, Security, Redaction, Containment    |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / TRIAGE-GATED / DUAL-ROUTE                          |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | ANOMALOUS MEDIA EXPOSURE / ROUTING ERROR RISK               |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 2 for routine intake support; Level 3 for screening;  |
+|                            | Level 4 for anomalous-media triage or route override        |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Archive Intake Technology Record
 Distribution: Archiver Division / Kurokawa Archive Node / Intelligence / Research / Security / Redaction / Containment

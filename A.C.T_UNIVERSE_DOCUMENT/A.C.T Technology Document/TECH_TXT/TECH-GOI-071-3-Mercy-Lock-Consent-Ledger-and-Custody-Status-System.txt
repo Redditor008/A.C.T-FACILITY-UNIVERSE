@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - MERCY LOCK CONSENT LEDGER AND CUSTODY STATUS SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-GOI-071-3
-TECHNOLOGY NAME: Mercy Lock Consent Ledger and Custody Status System
-SHORT NAME: MLCLCSS
-GOI SOURCE: GOI-HY-P-071 - Mercy Lock Institute
-TECHNOLOGY FAMILY: CONSENT RECORD / LEGAL CUSTODY / IDENTITY-STABLE LEDGER
-A.C.T CUSTODY STATUS: ACQUIRED THROUGH TRANSFER AGREEMENTS AND DOCUMENT REVIEW
-PRIMARY A.C.T REVIEW: Legal Division / Medical / Subject Care / Intelligence
-OPERATIONAL STATUS: RESTRICTED JOINT-TRANSFER USE / PARTIAL ACCESS
-RISK STATUS: CONSENT MISREAD / IDENTITY DRIFT / UNLAWFUL DETENTION
-CLEARANCE REQUIRED: Level 4; Level 5 for living patient identities, disputed guardianship, ledger anomaly, and ward location links
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-071-3                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Mercy Lock Consent Ledger and Custody Status System         |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | MLCLCSS                                                     |
++----------------------------+-------------------------------------------------------------+
+| GOI SOURCE                 | GOI-HY-P-071 - Mercy Lock Institute                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | CONSENT RECORD / LEGAL CUSTODY / IDENTITY-STABLE LEDGER     |
++----------------------------+-------------------------------------------------------------+
+| A.C.T CUSTODY STATUS       | ACQUIRED THROUGH TRANSFER AGREEMENTS AND DOCUMENT REVIEW    |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T REVIEW       | Legal Division / Medical / Subject Care / Intelligence      |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | RESTRICTED JOINT-TRANSFER USE / PARTIAL ACCESS              |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONSENT MISREAD / IDENTITY DRIFT / UNLAWFUL DETENTION       |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4; Level 5 for living patient identities, disputed    |
+|                            | guardianship, ledger anomaly, and ward location links       |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active GOI-Acquired Technology Record
 Distribution: Legal / Medical / Subject Care / Containment / Intelligence / Archive

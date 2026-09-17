@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - SUB-ABYSSAL SONAR
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-037                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Sub-Abyssal Sonar                                           |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SAS                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | FIELD GEAR / ABYSSAL MAPPING / BLIND MONITORING             |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Maritime Observation Desk / Engineering Division            |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Site-05 Command, Recovery, Heavy Containment, Abyss Survey  |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / DEEP-DEPLOYMENT / SONAR-ACOUSTIC                   |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / PRESSURE AND FALSE-VOID HAZARD                |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for operation; Level 5 for trench-grid mapping,     |
-|                            | blind-predator targeting, and sub-abyssal depth export      |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-037 |
+| TECHNOLOGY NAME | Sub-Abyssal Sonar |
+| SHORT NAME | SAS |
+| TECHNOLOGY FAMILY | FIELD GEAR / ABYSSAL MAPPING / BLIND MONITORING |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Maritime Observation Desk / Engineering Division |
+| ATTACHED DIVISIONS | Site-05 Command, Recovery, Heavy Containment, Abyss Survey |
+| OPERATIONAL STATUS | ACTIVE / DEEP-DEPLOYMENT / SONAR-ACOUSTIC |
+| RISK STATUS | CONTROLLED / PRESSURE AND FALSE-VOID HAZARD |
+| CLEARANCE REQUIRED | Level 4 for operation; Level 5 for trench-grid mapping, blind-predator targeting, and sub-abyssal depth export |
 
-**Archive Status:** Active Maritime and Abyssal Mapping Technology Record  
-**Distribution:** Maritime Observation / Engineering / Site-05 / Recovery / Heavy Containment / Abyss Survey  
-**Authority:** Maritime Observation Desk, Engineering Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Maritime and Abyssal Mapping Technology Record |
+| DISTRIBUTION | Maritime Observation / Engineering / Site-05 / Recovery / Heavy Containment / Abyss Survey |
+| AUTHORITY | Maritime Observation Desk, Engineering Division, and Central Archive |
 
 #### Archive Note
 Sub-Abyssal Sonar is the thirty-seventh main A.C.T technology expanded into an individual record. The Master Catalog defines it as low-frequency mapping arrays designed to penetrate high-density rock and extra-terrestrial surfaces. The visual guide describes a rugged dual-monitor console linked to two-meter spikes with laser-alignment points and pneumatic insertion pistons, rendering restricted depths in high-fidelity three-dimensional wireframes. Death Angler files establish SAS as the system that allowed A.C.T to track AFD-NB-964 when the organism extinguished its lure and became invisible to light-based sensors. Proto-Thal shell survey files establish SAS as part of unmanned deep-sea mapping under stretched seafloor geometry.

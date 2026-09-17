@@ -3,13 +3,15 @@
 ## ACT-SITE-05-ID-C — Nusantara Deep Relay
 ## Central Indonesia
 
-**Archive Status:** Active
-**Distribution:** Internal / Command / Research / Containment / Seismic Analysis Support
-**Authority:** Central Archive / Site Governance Review / Administration
-**File Class:** Floor Dossier — Individual Level Record
-**Dossier Number:** FLOOR-DOSSIER-05-ID-C-F-1
-**Compiled By:** Central Archive, Site Records Office
-**Compilation Standard:** ACT Site Registry File Standard / ACT Floor Record Standard
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal / Command / Research / Containment / Seismic Analysis Support |
+| AUTHORITY | Central Archive / Site Governance Review / Administration |
+| FILE CLASS | Floor Dossier — Individual Level Record |
+| DOSSIER NUMBER | FLOOR-DOSSIER-05-ID-C-F-1 |
+| COMPILED BY | Central Archive, Site Records Office |
+| COMPILATION STANDARD | ACT Site Registry File Standard / ACT Floor Record Standard |
 
 ---
 

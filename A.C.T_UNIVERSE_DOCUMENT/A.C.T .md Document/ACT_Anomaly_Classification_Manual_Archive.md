@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ## Anomaly Classification Manual and File Standard
 
-**Archive Status:** Active  
-**Distribution:** Internal / Archive Use  
-**Authority:** Archive Administration and Classification Review  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal / Archive Use |
+| AUTHORITY | Archive Administration and Classification Review |
 
 ### Archive Note
 This file is the complete internal archive version of the anomaly classification system, file doctrine, designation rules, fracture logic, and transformation record structure used by the Facility.

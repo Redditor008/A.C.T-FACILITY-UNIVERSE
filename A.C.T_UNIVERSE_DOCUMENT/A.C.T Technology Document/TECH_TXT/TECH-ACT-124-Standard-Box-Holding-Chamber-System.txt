@@ -1,17 +1,31 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - STANDARD BOX HOLDING CHAMBER SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-124
-TECHNOLOGY NAME: Standard Box Holding Chamber System
-SHORT NAME: SBHCS
-TECHNOLOGY FAMILY: STANDARD OBJECT HOLDING / BOX ARCHITECTURE / CHAMBER ROWS
-ORIGIN: REDWOOD VEIL COMPLEX F-3 STANDARD OBJECT CHAMBERS
-PRIMARY CONTROLLER: Floor Holding Chief / Containment Division
-ATTACHED DIVISIONS: Containment, Security, Recovery, Archive, Transformation
-OPERATIONAL STATUS: ACTIVE / STANDARD RESIDENT OBJECT HOLDING
-RISK STATUS: CHAMBER MISASSIGNMENT / MONITORING LOSS / ROUTING FAILURE
-CLEARANCE REQUIRED: Standard holding authorization; elevated authorization for transfer to F-2 restricted hold or F-4 transformation review
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-124                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Standard Box Holding Chamber System                         |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | SBHCS                                                       |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | STANDARD OBJECT HOLDING / BOX ARCHITECTURE / CHAMBER ROWS   |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | REDWOOD VEIL COMPLEX F-3 STANDARD OBJECT CHAMBERS           |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Floor Holding Chief / Containment Division                  |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Containment, Security, Recovery, Archive, Transformation    |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / STANDARD RESIDENT OBJECT HOLDING                   |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CHAMBER MISASSIGNMENT / MONITORING LOSS / ROUTING FAILURE   |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Standard holding authorization; elevated authorization for  |
+|                            | transfer to F-2 restricted hold or F-4 transformation       |
+|                            | review                                                      |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Redwood Veil Containment Technology Record
 Distribution: Redwood Veil Complex / Containment / Security / Recovery / Archive / Transformation

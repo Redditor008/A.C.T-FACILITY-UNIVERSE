@@ -1,72 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - LULLABY WORKS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-CP-P-054                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Lullaby Works                                               |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | LW                                                          |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Lullaby Workshop; Little Lantern Toys; Sleep-Safe Line;     |
-|                            | Goodnight Works; [CENSOR: REGIONAL CHILD-CARE BRAND]        |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | CORPORATE                                                   |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | POSITIVE                                                    |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | TRANSNATIONAL                                               |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | ENGINEERING                                                 |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 3                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | LEAKING                                                     |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | COOPERATED / MONITOR / HELP                                 |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Executive board unconfirmed; product design office uses     |
-|                            | rotating nursery-title signatures                           |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Designers, toy engineers, sleep clinicians, child-trauma     |
-|                            | workers, warehouse staff, route volunteers, and caregivers  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Transnational child-care markets, hospital donation chains, |
-|                            | disaster shelters, schools, and private homes               |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Protective toys, comfort objects, nursery devices, recalled |
-|                            | product lots, donor routes, care instructions, and warranty |
-|                            | ledgers                                                     |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Front workshops, storage rooms, mobile repair vans,         |
-|                            | pediatric-clinic donation lockers, and unlisted catalogues  |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | Children should not be left defenseless because adults      |
-|                            | cannot name the thing that harmed them                      |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Repeated recovery of protective child-facing anomalous      |
-|                            | products from post-incident homes and shelters              |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | Restricted child-witness, nightmare, nursery-object, and    |
-|                            | post-breach family-care chains                              |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - monitored cooperative corporate network            |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division / Subject Care Division               |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with Site-specific child-safety review      |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for manufacturing source, child identities,|
-|                            | and sealed product-failure records                          |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-CP-P-054 |
+| COMMON NAME | Lullaby Works |
+| SHORT NAME | LW |
+| KNOWN ALIASES | Lullaby Workshop; Little Lantern Toys; Sleep-Safe Line; Goodnight Works; [CENSOR: REGIONAL CHILD-CARE BRAND] |
+| NATURE CLASS | CORPORATE |
+| ALIGNMENT CLASS | POSITIVE |
+| REACH CLASS | TRANSNATIONAL |
+| ANOMALOUS CAPABILITY | ENGINEERING |
+| THREAT LEVEL | 3 |
+| SECRECY RISK | LEAKING |
+| A.C.T POSTURE | COOPERATED / MONITOR / HELP |
+| KNOWN LEADERSHIP | Executive board unconfirmed; product design office uses rotating nursery-title signatures |
+| KNOWN MEMBERSHIP | Designers, toy engineers, sleep clinicians, child-trauma workers, warehouse staff, route volunteers, and caregivers |
+| PRIMARY ACTIVE REGION | Transnational child-care markets, hospital donation chains, disaster shelters, schools, and private homes |
+| KNOWN ASSETS | Protective toys, comfort objects, nursery devices, recalled product lots, donor routes, care instructions, and warranty ledgers |
+| KNOWN HOLDINGS | Front workshops, storage rooms, mobile repair vans, pediatric-clinic donation lockers, and unlisted catalogues |
+| IDEOLOGY | Children should not be left defenseless because adults cannot name the thing that harmed them |
+| HISTORY WITH A.C.T | Repeated recovery of protective child-facing anomalous products from post-incident homes and shelters |
+| ANOMALY CROSS-REFERENCE | Restricted child-witness, nightmare, nursery-object, and post-breach family-care chains |
+| CURRENT STATUS | ACTIVE - monitored cooperative corporate network |
+| PRIMARY FILE AUTHORITY | Intelligence Division / Subject Care Division |
+| SITE JURISDICTION | Central Command with Site-specific child-safety review |
+| CLEARANCE REQUIRED | Level 4; Level 5 for manufacturing source, child identities, and sealed product-failure records |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Intelligence / Subject Care / Recovery / Containment / Medical / Civil Covert / Command
-**Authority:** Intelligence Division and Subject Care Division, with Central Archive custody
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Intelligence / Subject Care / Recovery / Containment / Medical / Civil Covert / Command |
+| AUTHORITY | Intelligence Division and Subject Care Division, with Central Archive custody |
 
 #### Archive Note
 Lullaby Works is the active corporate filing for an outside manufacturer and donation network that produces anomalous child-protection objects disguised as toys, nursery goods, school comfort materials, night-care devices, and playroom supplies. The group is not filed as a single toy maker, a novelty brand, a charity, or a haunted-object series. It qualifies as a Group of Interest because its products recur across separate incidents, its distribution routes cross jurisdictions, its protective effects are consistent enough to save children, and its refusal to submit full manufacturing records prevents A.C.T from treating the network as a simple supplier.

@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - CONCEALED TRANSITION ACCESS ARCHITECTURE
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-080                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Concealed Transition Access Architecture                    |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | CTAA                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ACCESS CONTROL / COVER BOUNDARY / SITE TRANSITION          |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY F-6 TO F-5 BOUNDARY                   |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Security Division / Campus Boundary Desk                    |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Administration, Logistics, Command, Recovery, Containment   |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / PERSONNEL AND MATERIAL TRANSITION USE             |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | SURFACE PENETRATION / ROUTE EXPOSURE / UNLOGGED DESCENT     |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for assigned transition operation; Level 4 for      |
-|                            | route alteration, emergency seal, or exposure response      |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-080 |
+| TECHNOLOGY NAME | Concealed Transition Access Architecture |
+| SHORT NAME | CTAA |
+| TECHNOLOGY FAMILY | ACCESS CONTROL / COVER BOUNDARY / SITE TRANSITION |
+| ORIGIN | NUSANTARA DEEP RELAY F-6 TO F-5 BOUNDARY |
+| PRIMARY CONTROLLER | Security Division / Campus Boundary Desk |
+| ATTACHED DIVISIONS | Administration, Logistics, Command, Recovery, Containment |
+| OPERATIONAL STATUS | ACTIVE / PERSONNEL AND MATERIAL TRANSITION USE |
+| RISK STATUS | SURFACE PENETRATION / ROUTE EXPOSURE / UNLOGGED DESCENT |
+| CLEARANCE REQUIRED | Level 3 for assigned transition operation; Level 4 for route alteration, emergency seal, or exposure response |
 
-**Archive Status:** Active Access-Control Technology Record
-**Distribution:** Security / Administration / Logistics / Command / Nusantara Deep Relay
-**Authority:** Campus Boundary Desk, Site Director, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Access-Control Technology Record |
+| DISTRIBUTION | Security / Administration / Logistics / Command / Nusantara Deep Relay |
+| AUTHORITY | Campus Boundary Desk, Site Director, and Central Archive |
 
 #### Archive Note
 Concealed Transition Access Architecture is the eightieth main A.C.T technology expanded into an individual record. The F-6 Surface Research and Transition Level dossier states that personnel and recovered material transition through the surface level before descending, and that concealed transitions between the legitimate campus and the buried relay are concealed, monitored, and documented while remaining indistinguishable from ordinary institute infrastructure. The F-5 dossier identifies the next level down as the administrative boundary that receives people and material.

@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - BANALIST WHITE-NOISE BROADCAST
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-012                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Banalist White-Noise Broadcast                              |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | BWB                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | CONTAINMENT / ACOUSTIC / NARRATIVE SUPPRESSION              |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Containment Division / Civil Covert Division                |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Engineering, Site Command, Archive, Medical, Security       |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / SITE-WIDE WHERE INSTALLED / RESTRICTED TUNING      |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF OVERLOUD, PATTERNED, OR LEAKING  |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for operation; Level 4 for manifest libraries,      |
-|                            | pattern-randomizer access, and site-wide emergency tuning   |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-012 |
+| TECHNOLOGY NAME | Banalist White-Noise Broadcast |
+| SHORT NAME | BWB |
+| TECHNOLOGY FAMILY | CONTAINMENT / ACOUSTIC / NARRATIVE SUPPRESSION |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Containment Division / Civil Covert Division |
+| ATTACHED DIVISIONS | Engineering, Site Command, Archive, Medical, Security |
+| OPERATIONAL STATUS | ACTIVE / SITE-WIDE WHERE INSTALLED / RESTRICTED TUNING |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF OVERLOUD, PATTERNED, OR LEAKING |
+| CLEARANCE REQUIRED | Level 3 for operation; Level 4 for manifest libraries, pattern-randomizer access, and site-wide emergency tuning |
 
-**Archive Status:** Active Containment Technology Record  
-**Distribution:** Containment / Civil Covert / Engineering / Site Command / Security / Medical  
-**Authority:** Containment Division, Civil Covert Division, Engineering Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Containment Technology Record |
+| DISTRIBUTION | Containment / Civil Covert / Engineering / Site Command / Security / Medical |
+| AUTHORITY | Containment Division, Civil Covert Division, Engineering Division, and Central Archive |
 
 #### Archive Note
 Banalist White-Noise Broadcast is the twelfth main A.C.T technology expanded into an individual record. The Master Catalog defines it as a site-wide acoustic system playing randomized manifests to disrupt narrative-scripting anomalies. The visual guide describes wall-mounted digital speakers with a Banal-Status Monitor and an internal Pattern-Randomizer Disc that keeps the acoustic output in a high-entropy state of boredom. Earlier technology records connect BWB to ARM, 004-Series amnestic operations, and Causal Static Generator doctrine because all three deal with secrecy, attention, memory, or story pressure. BWB is the acoustic cousin of that work: it makes the room too administratively ordinary for certain dramatic forces to find a clean rhythm.

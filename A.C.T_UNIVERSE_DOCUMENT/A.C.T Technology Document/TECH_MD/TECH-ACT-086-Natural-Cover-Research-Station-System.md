@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - NATURAL COVER RESEARCH STATION SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-086                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Natural Cover Research Station System                       |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | NCRSS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | SURFACE COVER / LEGITIMATE SCIENCE / BOUNDARY CONTROL      |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | ASH TIDE WATCHPOINT F-3 SURFACE COVER LEVEL                |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Station Manager / Watch Chief                               |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Administration, Security, Watch Coordination, Research      |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / PUBLIC-FACING COVER USE                            |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | COVER FATIGUE / BOUNDARY PENETRATION / FALSE ROUTINE RISK  |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 2 for ordinary station function; Level 3 for boundary |
-|                            | staff; Level 4 for concealed-watch integration              |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-086 |
+| TECHNOLOGY NAME | Natural Cover Research Station System |
+| SHORT NAME | NCRSS |
+| TECHNOLOGY FAMILY | SURFACE COVER / LEGITIMATE SCIENCE / BOUNDARY CONTROL |
+| ORIGIN | ASH TIDE WATCHPOINT F-3 SURFACE COVER LEVEL |
+| PRIMARY CONTROLLER | Station Manager / Watch Chief |
+| ATTACHED DIVISIONS | Administration, Security, Watch Coordination, Research |
+| OPERATIONAL STATUS | ACTIVE / PUBLIC-FACING COVER USE |
+| RISK STATUS | COVER FATIGUE / BOUNDARY PENETRATION / FALSE ROUTINE RISK |
+| CLEARANCE REQUIRED | Level 2 for ordinary station function; Level 3 for boundary staff; Level 4 for concealed-watch integration |
 
-**Archive Status:** Active Surface Cover Technology Record
-**Distribution:** Station Management / Security / Administration / Watch Staff / Nusantara Deep Relay / Ash Tide Watchpoint
-**Authority:** Station Manager, Watch Chief, Nusantara Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Surface Cover Technology Record |
+| DISTRIBUTION | Station Management / Security / Administration / Watch Staff / Nusantara Deep Relay / Ash Tide Watchpoint |
+| AUTHORITY | Station Manager, Watch Chief, Nusantara Site Command, and Central Archive |
 
 #### Archive Note
 Natural Cover Research Station System is the eighty-sixth main A.C.T technology expanded into an individual record. The F-3 Surface Cover Level dossier identifies the surface structures of Ash Tide as a legitimate coastal research station: observation decks, monitoring equipment, administrative spaces, and a small dock for legitimate research vessel operations. The dossier states that such stations are ordinary throughout the archipelago and that the cover is strongest because the station's visible work is genuine.

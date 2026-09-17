@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - DOCUMENT QUARANTINE CELLS
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-059
-TECHNOLOGY NAME: Document Quarantine Cells
-SHORT NAME: DQC
-TECHNOLOGY FAMILY: ARCHIVE CONTAINMENT / INFORMATION-BORNE HAZARD ISOLATION
-ORIGIN: REDWOOD VEIL F-7 ARCHIVE QUARANTINE PROGRAM
-PRIMARY CONTROLLER: Archive Division / Floor Archivist
-ATTACHED DIVISIONS: Containment, Security, Recovery, Medical, Administration
-OPERATIONAL STATUS: ACTIVE / QNB-HARDENED / RESTRICTED ACCESS
-RISK STATUS: INFORMATION-BORNE HAZARD / READER AND RECORD RISK
-CLEARANCE REQUIRED: Level 3 for custody support; Level 4 for cell opening, reading preparation, relocation, or quarantine release
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-059                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Document Quarantine Cells                                   |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | DQC                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | ARCHIVE CONTAINMENT / INFORMATION-BORNE HAZARD ISOLATION    |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | REDWOOD VEIL F-7 ARCHIVE QUARANTINE PROGRAM                 |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Archive Division / Floor Archivist                          |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Containment, Security, Recovery, Medical, Administration    |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / QNB-HARDENED / RESTRICTED ACCESS                   |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | INFORMATION-BORNE HAZARD / READER AND RECORD RISK           |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for custody support; Level 4 for cell opening,      |
+|                            | reading preparation, relocation, or quarantine release      |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Archive Containment Technology Record
 Distribution: Archive / Containment / Security / Recovery / Medical / Administration

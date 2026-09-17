@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - INTAKE STAGING AND ROUTING SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-091                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Intake Staging and Routing System                           |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | ISRS                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | INTAKE STAGING / LIMIT ASSESSMENT / ROUTE CONTROL          |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | GLASS ORCHARD RELAY F-2 INTAKE STAGING AREA                |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Processing Officer / Recovery Support Lead                  |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Recovery Support, Security, Medical, Limited Archive        |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / TRANSIENT ROUTING USE                              |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | MISROUTING / LIMIT FAILURE / UNDOCUMENTED MOVEMENT RISK     |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for intake staging; Level 4 for high-threat refusal,|
-|                            | emergency transit, or parent-site routing override          |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-091 |
+| TECHNOLOGY NAME | Intake Staging and Routing System |
+| SHORT NAME | ISRS |
+| TECHNOLOGY FAMILY | INTAKE STAGING / LIMIT ASSESSMENT / ROUTE CONTROL |
+| ORIGIN | GLASS ORCHARD RELAY F-2 INTAKE STAGING AREA |
+| PRIMARY CONTROLLER | Processing Officer / Recovery Support Lead |
+| ATTACHED DIVISIONS | Recovery Support, Security, Medical, Limited Archive |
+| OPERATIONAL STATUS | ACTIVE / TRANSIENT ROUTING USE |
+| RISK STATUS | MISROUTING / LIMIT FAILURE / UNDOCUMENTED MOVEMENT RISK |
+| CLEARANCE REQUIRED | Level 3 for intake staging; Level 4 for high-threat refusal, emergency transit, or parent-site routing override |
 
-**Archive Status:** Active Intake Routing Technology Record
-**Distribution:** Glass Orchard Relay / Redwood Veil Complex / Recovery Support / Security / Medical / Limited Archive
-**Authority:** Processing Officer, Recovery Support Lead, Sub-Site Chief, Redwood Veil Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Intake Routing Technology Record |
+| DISTRIBUTION | Glass Orchard Relay / Redwood Veil Complex / Recovery Support / Security / Medical / Limited Archive |
+| AUTHORITY | Processing Officer, Recovery Support Lead, Sub-Site Chief, Redwood Veil Site Command, and Central Archive |
 
 #### Archive Note
 Intake Staging and Routing System is the ninety-first main A.C.T technology expanded into an individual record. The Glass Orchard Relay sub-site dossier defines the relay as an overflow hand for Redwood Veil and identifies overflow intake as one of its modern roles. The F-2 Processing and Staging Level dossier identifies the intake staging area as the floor space where recovered material from field operations is logged, assessed against relay holding limits, and routed to temporary holding cells, the vault below, or direct transfer preparation.

@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ## Modern Standard Record — AFD-CH-000 / ITHYOS
 
-**Archive Status:** Active / O5-Restricted  
-**Distribution:** Restricted  
-**Authority:** Classification Archive  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active / O5-Restricted |
+| DISTRIBUTION | Restricted |
+| AUTHORITY | Classification Archive |
 
 ### Archive Note
 This file is the complete internal archive version of the modern standardized anomaly record for ITHYOS. It preserves the current doctrinal status, classification logic, and containment framing of AFD-CH-000 in full.

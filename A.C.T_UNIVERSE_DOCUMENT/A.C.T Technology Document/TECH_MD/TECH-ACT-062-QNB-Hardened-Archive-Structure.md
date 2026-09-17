@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - QNB-HARDENED ARCHIVE STRUCTURE
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-062                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | QNB-Hardened Archive Structure                              |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | QHAS                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ARCHIVAL INFRASTRUCTURE / CAUSAL REWRITE RESISTANCE         |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | CENTRAL ARCHIVAL DOCTRINE / REDWOOD VEIL F-7                |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Archive Division / Engineering Division                     |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Site Command, Containment, Recovery, Medical, Digital       |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / ARCHIVE-CRITICAL / STRUCTURAL HARDENING            |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | RECORD-IDENTITY HAZARD / FALSE CONTINUITY RISK              |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for maintenance or audit; Level 5 for hardening     |
-|                            | redesign, restoration authority, or causal conflict review  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-062 |
+| TECHNOLOGY NAME | QNB-Hardened Archive Structure |
+| SHORT NAME | QHAS |
+| TECHNOLOGY FAMILY | ARCHIVAL INFRASTRUCTURE / CAUSAL REWRITE RESISTANCE |
+| ORIGIN | CENTRAL ARCHIVAL DOCTRINE / REDWOOD VEIL F-7 |
+| PRIMARY CONTROLLER | Archive Division / Engineering Division |
+| ATTACHED DIVISIONS | Site Command, Containment, Recovery, Medical, Digital |
+| OPERATIONAL STATUS | ACTIVE / ARCHIVE-CRITICAL / STRUCTURAL HARDENING |
+| RISK STATUS | RECORD-IDENTITY HAZARD / FALSE CONTINUITY RISK |
+| CLEARANCE REQUIRED | Level 4 for maintenance or audit; Level 5 for hardening redesign, restoration authority, or causal conflict review |
 
-**Archive Status:** Active Archival Infrastructure Technology Record  
-**Distribution:** Archive / Engineering / Site Command / Containment / Recovery / Medical / Digital Systems  
-**Authority:** Archive Division, Engineering Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Archival Infrastructure Technology Record |
+| DISTRIBUTION | Archive / Engineering / Site Command / Containment / Recovery / Medical / Digital Systems |
+| AUTHORITY | Archive Division, Engineering Division, and Central Archive |
 
 #### Archive Note
 QNB-Hardened Archive Structure is the sixty-second main A.C.T technology expanded into an individual record. Redwood Veil's F-7 floor dossier states that the Central Archive and Records level is QNB-hardened against external causal rewrites in accordance with central archival doctrine. It defines F-7 as the complex's documentary estate, where recovery logs, object histories, witness records, cover paperwork, personnel files, and clinical records are preserved. TECH-ACT-003 establishes the Quantum Narrative Buffer System as the causal-safeguard that preserves records through rewrites, regressions, temporal resets, and narrative drift.

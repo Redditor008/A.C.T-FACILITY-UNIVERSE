@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - HARVESTED PALE WOOD
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-041
-TECHNOLOGY NAME: Harvested Pale Wood
-SHORT NAME: HPW
-TECHNOLOGY FAMILY: ANOMALOUS MATERIAL / DARK WORLD TIMBER / STRUCTURAL STOCK
-ORIGIN: A.C.T RECOVERY FROM AFD-PL-932
-PRIMARY CONTROLLER: Materials Custody / Dark World Survey
-ATTACHED DIVISIONS: Engineering, Medical, White Grave, Site Infrastructure
-OPERATIONAL STATUS: ACTIVE / HARVEST-RESTRICTED / GOLD-VULNERABLE
-RISK STATUS: HAZARDOUS / DIMENSIONAL MATERIAL AND DUST-CUSTODY HAZARD
-CLEARANCE REQUIRED: Level 4 for handling; Level 5 for harvest authorization, structural use, and gold-tool modification plans
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-041                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Harvested Pale Wood                                         |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | HPW                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | ANOMALOUS MATERIAL / DARK WORLD TIMBER / STRUCTURAL STOCK   |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T RECOVERY FROM AFD-PL-932                              |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Materials Custody / Dark World Survey                       |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Engineering, Medical, White Grave, Site Infrastructure      |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / HARVEST-RESTRICTED / GOLD-VULNERABLE               |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | HAZARDOUS / DIMENSIONAL MATERIAL AND DUST-CUSTODY HAZARD    |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for handling; Level 5 for harvest authorization,    |
+|                            | structural use, and gold-tool modification plans            |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Anomalous Material Technology Record
 Distribution: Materials Custody / Dark World Survey / Engineering / Medical / White Grave / Site Infrastructure

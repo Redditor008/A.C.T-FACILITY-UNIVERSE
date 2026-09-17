@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - BIOMETRIC RESONANCE DAMPENERS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-026                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Biometric Resonance Dampeners                               |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | BRD                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | FIELD / MEDICAL PPE / SIGNATURE MASKING                     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Field Safety Desk / Medical Division                        |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Recovery, Biological Containment, Security, Engineering     |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED ISSUE / SHORT-DURATION WEAR             |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF OVERWORN OR MASKING FAILS        |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for field use; Level 4 for pulse-sync calibration,  |
-|                            | micro-injector load, and heart-signature predator missions  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-026 |
+| TECHNOLOGY NAME | Biometric Resonance Dampeners |
+| SHORT NAME | BRD |
+| TECHNOLOGY FAMILY | FIELD / MEDICAL PPE / SIGNATURE MASKING |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Field Safety Desk / Medical Division |
+| ATTACHED DIVISIONS | Recovery, Biological Containment, Security, Engineering |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED ISSUE / SHORT-DURATION WEAR |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF OVERWORN OR MASKING FAILS |
+| CLEARANCE REQUIRED | Level 3 for field use; Level 4 for pulse-sync calibration, micro-injector load, and heart-signature predator missions |
 
-**Archive Status:** Active Field Safety Technology Record  
-**Distribution:** Field Safety / Medical / Recovery / Biological Containment / Security / Engineering  
-**Authority:** Field Safety Desk, Medical Division, Engineering Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Field Safety Technology Record |
+| DISTRIBUTION | Field Safety / Medical / Recovery / Biological Containment / Security / Engineering |
+| AUTHORITY | Field Safety Desk, Medical Division, Engineering Division, and Central Archive |
 
 #### Archive Note
 Biometric Resonance Dampeners are the twenty-sixth main A.C.T technology expanded into an individual record. The Master Catalog defines them as wearable patches that mask a human's pulse and emotional rhythm from anomalies possessing heart-signature detection. The visual guide describes a skin-colored adhesive patch worn behind the ear, fitted with a micro-injector node, a Pulse-Sync Chip, and a tiny blinking green LED confirming that the masking field is active.

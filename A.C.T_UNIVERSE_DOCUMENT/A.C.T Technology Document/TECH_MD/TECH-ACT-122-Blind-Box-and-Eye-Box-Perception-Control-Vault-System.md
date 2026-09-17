@@ -1,37 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - BLIND BOX AND EYE BOX PERCEPTION-CONTROL VAULT SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-122                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Blind Box and Eye Box Perception-Control Vault System       |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | BBEBPCVS                                                    |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | PERCEPTION CONTROL / MEMETIC VAULT / INFOHAZARD HOLDING    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | KUROKAWA ARCHIVE NODE F-2 DEEP MEMETIC AND INFOHAZARD      |
-|                            | VAULTING                                                    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Floor Vault Chief / Restricted-Vault Command                |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Archive, Intelligence, Security, Medical, Researcher        |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED PERCEPTION-CONTROL VAULTING             |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | PERCEPTION BREACH / RESTRICTION-SET VIOLATION / EYE EXPOSURE|
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for unit maintenance; Level 5 for Eye Box           |
-|                            | observation, restriction-set alteration, or F-1 transfer    |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-122 |
+| TECHNOLOGY NAME | Blind Box and Eye Box Perception-Control Vault System |
+| SHORT NAME | BBEBPCVS |
+| TECHNOLOGY FAMILY | PERCEPTION CONTROL / MEMETIC VAULT / INFOHAZARD HOLDING |
+| ORIGIN | KUROKAWA ARCHIVE NODE F-2 DEEP MEMETIC AND INFOHAZARD VAULTING |
+| PRIMARY CONTROLLER | Floor Vault Chief / Restricted-Vault Command |
+| ATTACHED DIVISIONS | Archive, Intelligence, Security, Medical, Researcher |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED PERCEPTION-CONTROL VAULTING |
+| RISK STATUS | PERCEPTION BREACH / RESTRICTION-SET VIOLATION / EYE EXPOSURE |
+| CLEARANCE REQUIRED | Level 4 for unit maintenance; Level 5 for Eye Box observation, restriction-set alteration, or F-1 transfer |
 
-**Archive Status:** Active Kurokawa Restricted-Vault Technology Record
-**Distribution:** Kurokawa Archive Node / Archive / Intelligence / Security / Medical / Researcher Division
-**Authority:** Floor Vault Chief, Restricted-Vault Command, Site Director, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Kurokawa Restricted-Vault Technology Record |
+| DISTRIBUTION | Kurokawa Archive Node / Archive / Intelligence / Security / Medical / Researcher Division |
+| AUTHORITY | Floor Vault Chief, Restricted-Vault Command, Site Director, and Central Archive |
 
 #### Archive Note
 Blind Box and Eye Box Perception-Control Vault System is the one-hundred-twenty-second main A.C.T technology expanded into an individual record. The F-2 Deep Memetic and Infohazard Vaulting dossier identifies F-2 as the level for memetic symbols requiring visual denial, information hazards requiring knowledge restriction, and material that must never be fully read. It records Blind Box units that deny perception, Eye Box units that discipline perception, visual-denial infrastructure, perception-protocol monitoring, holding-specific restriction sets, and Dread EYE containment under Eye Box apparatus.

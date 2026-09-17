@@ -1,9 +1,11 @@
 # A.C.T Master Anomaly Generator Guide
 ### Institutional Standard: 1598 – 2026 Archive Cycle
 
-**Status:** Active Internal Reference  
-**Authority:** Archiver Division / O5 Council  
-**Purpose:** Standardize the generation of Anomaly Files, Dossiers, and Tales while maintaining the sovereignty of the Main A.C.T Reality.
+| FIELD | VALUE |
+|---|---|
+| STATUS | Active Internal Reference |
+| AUTHORITY | Archiver Division / O5 Council |
+| PURPOSE | Standardize the generation of Anomaly Files, Dossiers, and Tales while maintaining the sovereignty of the Main A.C.T Reality. |
 
 ---
 

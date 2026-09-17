@@ -1,37 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - BIOLOGICAL SUPPRESSION CHAMBER AND CLIMATE-CONTROLLED DEEP-ISOLATION HOLDING SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-134                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Biological Suppression Chamber and Climate-Controlled      |
-|                            | Deep-Isolation Holding System                               |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | BSCCDIHS                                                    |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | COLD SUPPRESSION / DEEP ISOLATION / STANDARD HOLDING       |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | WHITE GRAVE STATION F-3 STANDARD DEEP-ISOLATION HOLDING   |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Floor Holding Chief / Containment Division                  |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Containment, Security, Medical, Research, Archive           |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / STANDARD COLD-SUPPRESSION RESIDENT HOLDING         |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | SUPPRESSION DRIFT / UNIT MISASSIGNMENT / TRANSFER DELAY    |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Standard holding authorization; elevated authority for      |
-|                            | F-2 escalation or F-4 sample-control release                |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-134 |
+| TECHNOLOGY NAME | Biological Suppression Chamber and Climate-Controlled Deep-Isolation Holding System |
+| SHORT NAME | BSCCDIHS |
+| TECHNOLOGY FAMILY | COLD SUPPRESSION / DEEP ISOLATION / STANDARD HOLDING |
+| ORIGIN | WHITE GRAVE STATION F-3 STANDARD DEEP-ISOLATION HOLDING |
+| PRIMARY CONTROLLER | Floor Holding Chief / Containment Division |
+| ATTACHED DIVISIONS | Containment, Security, Medical, Research, Archive |
+| OPERATIONAL STATUS | ACTIVE / STANDARD COLD-SUPPRESSION RESIDENT HOLDING |
+| RISK STATUS | SUPPRESSION DRIFT / UNIT MISASSIGNMENT / TRANSFER DELAY |
+| CLEARANCE REQUIRED | Standard holding authorization; elevated authority for F-2 escalation or F-4 sample-control release |
 
-**Archive Status:** Active White Grave Containment Technology Record
-**Distribution:** White Grave Station / Containment / Security / Medical / Research / Archive
-**Authority:** Floor Holding Chief, Containment Division, Site Director, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active White Grave Containment Technology Record |
+| DISTRIBUTION | White Grave Station / Containment / Security / Medical / Research / Archive |
+| AUTHORITY | Floor Holding Chief, Containment Division, Site Director, and Central Archive |
 
 #### Archive Note
 Biological Suppression Chamber and Climate-Controlled Deep-Isolation Holding System is the one-hundred-thirty-fourth main A.C.T technology expanded into an individual record. The White Grave F-3 Standard Deep-Isolation Holding dossier identifies F-3 as the station's main holding level for anomalies requiring cold suppression or long-term isolation under standard station doctrine. It records biological suppression chambers, climate-controlled individual holding units, intake and assessment bays, monitoring galleries, handling corridors, suppression administration, transfer to F-2 for entropic escalation, and transfer to F-4 under sample control.

@@ -1,28 +1,14 @@
 # TECH-GOI-050-1 - LIBERTY FREEDOMS ADAPTED FACILITY TRANSPORT FIXTURE AND RESTRAINT SET
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-050-1                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Liberty Freedoms Adapted Facility Transport Fixture and     |
-|                            | Restraint Set                                               |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Adapted Fixtures / Diverted Stock / L.F. Restraint Set      |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Liberty Freedoms                                            |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Recovered diverted and adapted equipment from interdiction  |
-|                            | and abandoned transports; no complete inventory held        |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Diversion-source tracing, restraint failure analysis,       |
-|                            | transport-seam interdiction, subject-safety recovery        |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | DEFECTOR-IDENTITY RESTRICTED / LEVEL 5 HOSTILE NETWORKS     |
-|                            | REVIEW                                                      |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-050-1 |
+| TECHNOLOGY NAME | Liberty Freedoms Adapted Facility Transport Fixture and Restraint Set |
+| COMMON ABBREVIATIONS | Adapted Fixtures / Diverted Stock / L.F. Restraint Set |
+| ORIGIN | Liberty Freedoms |
+| ACQUISITION STATUS | Recovered diverted and adapted equipment from interdiction and abandoned transports; no complete inventory held |
+| PRIMARY A.C.T INTEREST | Diversion-source tracing, restraint failure analysis, transport-seam interdiction, subject-safety recovery |
+| ARCHIVE HANDLING | DEFECTOR-IDENTITY RESTRICTED / LEVEL 5 HOSTILE NETWORKS REVIEW |
 
 ## Functional Identity
 

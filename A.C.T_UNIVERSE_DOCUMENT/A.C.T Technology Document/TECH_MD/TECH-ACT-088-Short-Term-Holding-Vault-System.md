@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - SHORT-TERM HOLDING VAULT SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-088                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Short-Term Holding Vault System                             |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | STHVS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | PROVISIONAL HOLDING / OVERFLOW INTAKE / TRANSFER CUSTODY   |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | GLASS ORCHARD RELAY F-1 SHORT-TERM HOLDING VAULT           |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Sub-Site Chief / F-1 Vault Officer                          |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Security, Recovery Support, Medical Liaison, Archive Relay  |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / LOW-THREAT TRANSIENT HOLDING USE                   |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | OVERSTAY / THREAT-MISCLASSIFICATION / CUSTODY DRIFT RISK   |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for holding duty; Level 4 for closure, escalation,  |
-|                            | transfer override, or high-threat rejection                 |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-088 |
+| TECHNOLOGY NAME | Short-Term Holding Vault System |
+| SHORT NAME | STHVS |
+| TECHNOLOGY FAMILY | PROVISIONAL HOLDING / OVERFLOW INTAKE / TRANSFER CUSTODY |
+| ORIGIN | GLASS ORCHARD RELAY F-1 SHORT-TERM HOLDING VAULT |
+| PRIMARY CONTROLLER | Sub-Site Chief / F-1 Vault Officer |
+| ATTACHED DIVISIONS | Security, Recovery Support, Medical Liaison, Archive Relay |
+| OPERATIONAL STATUS | ACTIVE / LOW-THREAT TRANSIENT HOLDING USE |
+| RISK STATUS | OVERSTAY / THREAT-MISCLASSIFICATION / CUSTODY DRIFT RISK |
+| CLEARANCE REQUIRED | Level 3 for holding duty; Level 4 for closure, escalation, transfer override, or high-threat rejection |
 
-**Archive Status:** Active Provisional Holding Technology Record
-**Distribution:** Glass Orchard Relay / Redwood Veil Complex / Security / Recovery Support / Medical Liaison / Archive Relay
-**Authority:** Sub-Site Chief, F-1 Vault Officer, Redwood Veil Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Provisional Holding Technology Record |
+| DISTRIBUTION | Glass Orchard Relay / Redwood Veil Complex / Security / Recovery Support / Medical Liaison / Archive Relay |
+| AUTHORITY | Sub-Site Chief, F-1 Vault Officer, Redwood Veil Site Command, and Central Archive |
 
 #### Archive Note
 Short-Term Holding Vault System is the eighty-eighth main A.C.T technology expanded into an individual record. The Glass Orchard Relay dossier identifies F-1 as the relay's secure holding level: short-term containment for low-threat anomalies awaiting transfer to the parent site. The F-1 floor dossier defines the level by intake bay, holding unit rows, monitoring gallery, transfer preparation area, floor command post, documentation alcove, and F-1 closure procedure.

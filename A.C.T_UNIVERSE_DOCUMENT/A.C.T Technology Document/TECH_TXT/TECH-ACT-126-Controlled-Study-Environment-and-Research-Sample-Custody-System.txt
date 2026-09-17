@@ -1,17 +1,31 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - CONTROLLED STUDY ENVIRONMENT AND RESEARCH SAMPLE-CUSTODY SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-126
-TECHNOLOGY NAME: Controlled Study Environment and Research Sample-Custody System
-SHORT NAME: CSERSCS
-TECHNOLOGY FAMILY: RESEARCH FLOOR / CONTROLLED STUDY / SAMPLE CUSTODY
-ORIGIN: REDWOOD VEIL COMPLEX F-5 RESEARCH AND ANALYSIS
-PRIMARY CONTROLLER: Floor Research Chief / Research Division
-ATTACHED DIVISIONS: Research, Transformation, Containment, Medical, Archive
-OPERATIONAL STATUS: ACTIVE / CLEARANCE-GATED RESEARCH SAMPLE CONTROL
-RISK STATUS: SAMPLE-CONTROL BREACH / CONDITION LEAK / UNDOCUMENTED STUDY
-CLEARANCE REQUIRED: Program-specific research authorization; additional restriction-set authority per resident object
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-126                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Controlled Study Environment and Research Sample-Custody    |
+|                            | System                                                      |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | CSERSCS                                                     |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | RESEARCH FLOOR / CONTROLLED STUDY / SAMPLE CUSTODY          |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | REDWOOD VEIL COMPLEX F-5 RESEARCH AND ANALYSIS              |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Floor Research Chief / Research Division                    |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Research, Transformation, Containment, Medical, Archive     |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / CLEARANCE-GATED RESEARCH SAMPLE CONTROL            |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | SAMPLE-CONTROL BREACH / CONDITION LEAK / UNDOCUMENTED STUDY |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Program-specific research authorization; additional         |
+|                            | restriction-set authority per resident object               |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Redwood Veil Research Technology Record
 Distribution: Redwood Veil Complex / Research / Transformation / Containment / Medical / Archive

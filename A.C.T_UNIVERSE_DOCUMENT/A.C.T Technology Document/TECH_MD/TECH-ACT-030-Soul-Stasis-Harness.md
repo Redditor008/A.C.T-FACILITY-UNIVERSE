@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - SOUL-STASIS HARNESS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-030                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Soul-Stasis Harness                                         |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SSH                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | MEDICAL / CONSCIOUSNESS ANCHOR / STASIS INTERFACE           |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Medical Division / White Grave Stasis Desk                  |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Subject Care, Engineering, Narrative Analysis, Site Command |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / CASE-RESTRICTED / CONSCIOUSNESS-ADJACENT           |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | HAZARDOUS / CONTROLLED ONLY UNDER PROXIMITY DISCIPLINE      |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for monitoring; Level 5 for anchor adjustment,      |
-|                            | acoustic bridge integration, and pendant-distance override  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-030 |
+| TECHNOLOGY NAME | Soul-Stasis Harness |
+| SHORT NAME | SSH |
+| TECHNOLOGY FAMILY | MEDICAL / CONSCIOUSNESS ANCHOR / STASIS INTERFACE |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Medical Division / White Grave Stasis Desk |
+| ATTACHED DIVISIONS | Subject Care, Engineering, Narrative Analysis, Site Command |
+| OPERATIONAL STATUS | ACTIVE / CASE-RESTRICTED / CONSCIOUSNESS-ADJACENT |
+| RISK STATUS | HAZARDOUS / CONTROLLED ONLY UNDER PROXIMITY DISCIPLINE |
+| CLEARANCE REQUIRED | Level 4 for monitoring; Level 5 for anchor adjustment, acoustic bridge integration, and pendant-distance override |
 
-**Archive Status:** Active Case-Restricted Medical Technology Record  
-**Distribution:** Medical / White Grave / Subject Care / Engineering / Narrative Analysis / Site Command  
-**Authority:** Medical Division, White Grave Stasis Desk, Engineering Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Case-Restricted Medical Technology Record |
+| DISTRIBUTION | Medical / White Grave / Subject Care / Engineering / Narrative Analysis / Site Command |
+| AUTHORITY | Medical Division, White Grave Stasis Desk, Engineering Division, and Central Archive |
 
 #### Archive Note
 The Soul-Stasis Harness is the thirtieth main A.C.T technology expanded into an individual record. The Master Catalog defines it as a reinforced chest-cavity apparatus designed to maintain the required proximity lock between a host and a consciousness-anchor. The visual guide describes black leather and silver buckles, an integrated data-link, a reinforced sternum housing holding the Soul Pendant behind thick glass, and a wrist-mounted status tablet connected by shielded fiber-optic cable to display Resonance Stability. The Soul Pendant file requires AFD-OB-412 to remain within two meters of Senior Researcher Aris Thorne's host body and warns that if distance exceeds one hundred meters, Thorne experiences shattering while the body undergoes rapid redacted deterioration.

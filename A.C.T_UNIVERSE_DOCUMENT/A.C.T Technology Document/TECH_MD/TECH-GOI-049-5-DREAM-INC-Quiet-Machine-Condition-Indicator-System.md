@@ -1,28 +1,14 @@
 # TECH-GOI-049-5 - DREAM .INC QUIET MACHINE CONDITION INDICATOR SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-049-5                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | DREAM .INC Quiet Machine Condition Indicator System         |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | DQMCIS / Quiet Machine Indicator / Maintenance Condition    |
-|                            | Signal                                                      |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | DREAM .INC                                                  |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Internal communication recovered; indicator model under     |
-|                            | Intelligence review                                         |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Apparatus-state warning, product scarcity interpretation,   |
-|                            | source anomaly risk detection, intervention timing          |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | DREAM .INC MACHINE-STATE RESTRICTED /                       |
-|                            | INTELLIGENCE-CONTAINMENT JOINT REVIEW                       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-049-5 |
+| TECHNOLOGY NAME | DREAM .INC Quiet Machine Condition Indicator System |
+| COMMON ABBREVIATIONS | DQMCIS / Quiet Machine Indicator / Maintenance Condition Signal |
+| ORIGIN | DREAM .INC |
+| ACQUISITION STATUS | Internal communication recovered; indicator model under Intelligence review |
+| PRIMARY A.C.T INTEREST | Apparatus-state warning, product scarcity interpretation, source anomaly risk detection, intervention timing |
+| ARCHIVE HANDLING | DREAM .INC MACHINE-STATE RESTRICTED / INTELLIGENCE-CONTAINMENT JOINT REVIEW |
 
 ## Functional Identity
 

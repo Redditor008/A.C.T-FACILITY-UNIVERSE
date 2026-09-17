@@ -1,73 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - SAINT MORROW PASSAGE
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-BS-W-070                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Saint Morrow Passage                                        |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SMP                                                         |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Morrow Passage; Saint Morrow Ferry; Tomorrow Gate Office;   |
-|                            | The White Ticket Desk; [CENSOR: BORDER-ROOM NAME]           |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | BUSINESS                                                    |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | WORK                                                        |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | TRANSNATIONAL                                               |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | HANDLER                                                     |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 3                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | LEAKING                                                     |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | COOPERATED / MONITOR / MISDIRECT / APPROPRIATE             |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Passage Wardens, Ticket Saints, White Clerks, Last-Porter   |
-|                            | crews, and route auditors                                   |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Drivers, boat crews, border fixers, shelter hosts, route    |
-|                            | readers, ferry brokers, hospital discharge agents, and      |
-|                            | hazard guides                                               |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Borders, ferries, bus terminals, dead roads, closed towns,  |
-|                            | quarantine rings, evacuation corridors, and liminal routes  |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | White tickets, crossing ledgers, route bells, safe vans,    |
-|                            | ferry rooms, border permits, cold maps, and porter keys     |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Ticket desks, road houses, unlisted ferry offices, border   |
-|                            | rooms, sleeper cars, safe garages, and chapel-like depots   |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | Passage is a trade, but nobody should be left on the wrong  |
-|                            | side of a closing road only because the official route lies |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Repeated work contact through evacuation corridors, witness |
-|                            | transfer, quarantine exit, false-border incidents, and      |
-|                            | object courier interception                                 |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | Restricted travel, evacuation, border, false road, witness, |
-|                            | quarantine, ferry, and route-shift case chains              |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - work relationship passage market under monitoring  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division / Recovery / Civil Covert / Logistics |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with Site 01, Site 02, and regional review  |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for active crossing ledgers, child routes, |
-|                            | quarantine breaches, and A.C.T evacuation substitutions     |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-BS-W-070 |
+| COMMON NAME | Saint Morrow Passage |
+| SHORT NAME | SMP |
+| KNOWN ALIASES | Morrow Passage; Saint Morrow Ferry; Tomorrow Gate Office; The White Ticket Desk; [CENSOR: BORDER-ROOM NAME] |
+| NATURE CLASS | BUSINESS |
+| ALIGNMENT CLASS | WORK |
+| REACH CLASS | TRANSNATIONAL |
+| ANOMALOUS CAPABILITY | HANDLER |
+| THREAT LEVEL | 3 |
+| SECRECY RISK | LEAKING |
+| A.C.T POSTURE | COOPERATED / MONITOR / MISDIRECT / APPROPRIATE |
+| KNOWN LEADERSHIP | Passage Wardens, Ticket Saints, White Clerks, Last-Porter crews, and route auditors |
+| KNOWN MEMBERSHIP | Drivers, boat crews, border fixers, shelter hosts, route readers, ferry brokers, hospital discharge agents, and hazard guides |
+| PRIMARY ACTIVE REGION | Borders, ferries, bus terminals, dead roads, closed towns, quarantine rings, evacuation corridors, and liminal routes |
+| KNOWN ASSETS | White tickets, crossing ledgers, route bells, safe vans, ferry rooms, border permits, cold maps, and porter keys |
+| KNOWN HOLDINGS | Ticket desks, road houses, unlisted ferry offices, border rooms, sleeper cars, safe garages, and chapel-like depots |
+| IDEOLOGY | Passage is a trade, but nobody should be left on the wrong side of a closing road only because the official route lies |
+| HISTORY WITH A.C.T | Repeated work contact through evacuation corridors, witness transfer, quarantine exit, false-border incidents, and object courier interception |
+| ANOMALY CROSS-REFERENCE | Restricted travel, evacuation, border, false road, witness, quarantine, ferry, and route-shift case chains |
+| CURRENT STATUS | ACTIVE - work relationship passage market under monitoring |
+| PRIMARY FILE AUTHORITY | Intelligence Division / Recovery / Civil Covert / Logistics |
+| SITE JURISDICTION | Central Command with Site 01, Site 02, and regional review |
+| CLEARANCE REQUIRED | Level 4; Level 5 for active crossing ledgers, child routes, quarantine breaches, and A.C.T evacuation substitutions |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Intelligence / Recovery / Civil Covert / Logistics / Subject Care / Command
-**Authority:** Intelligence Division, Recovery Division, Civil Covert Division, Logistics Division, Subject Care Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Intelligence / Recovery / Civil Covert / Logistics / Subject Care / Command |
+| AUTHORITY | Intelligence Division, Recovery Division, Civil Covert Division, Logistics Division, Subject Care Division, and Central Archive |
 
 #### Archive Note
 Saint Morrow Passage is the active business filing for an outside passage market that sells and arranges movement across abnormal borders, closed evacuation corridors, false roads, hostile quarantine rings, displaced ferry routes, dead-town edges, and ordinary national boundaries complicated by anomalous activity. The Passage is not an airline, not a smuggling gang, not a refugee charity, not a normal transport bureau, and not an A.C.T evacuation unit. It qualifies as a Group of Interest because it maintains route ledgers, crossing rituals, ticket desks, vetted drivers, ferry offices, safe houses, payment rules, route-audit practices, and repeated access to roads or thresholds that A.C.T cannot always open on command.

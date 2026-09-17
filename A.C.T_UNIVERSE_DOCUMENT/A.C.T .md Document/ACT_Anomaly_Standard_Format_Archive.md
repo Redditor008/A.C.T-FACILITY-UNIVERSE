@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ## Standard Anomaly File Format Reference
 
-**Archive Status:** Active  
-**Distribution:** Internal / Archive Use  
-**Authority:** Classification Administration  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal / Archive Use |
+| AUTHORITY | Classification Administration |
 
 ### Archive Note
 This file is the complete internal archive version of the official Standard Anomaly File Format, including title placement, naming convention, designation logic, and record architecture.

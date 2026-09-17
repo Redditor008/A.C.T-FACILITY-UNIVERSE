@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ## Divisions, Personnel Roles, and Operational Life
 
-**Archive Status:** Active  
-**Distribution:** Internal  
-**Authority:** Administration, Archive, and Division Review  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal |
+| AUTHORITY | Administration, Archive, and Division Review |
 
 ### Archive Note
 This file is the complete internal archive version of the Facility's divisions, personnel systems, operational culture, daily labor structure, and hidden institutional life.

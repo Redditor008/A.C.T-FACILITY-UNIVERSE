@@ -1,27 +1,14 @@
 # TECH-GOI-050-4 - LIBERTY FREEDOMS FRAGMENT-ASSEMBLY PUBLICATION AND MASTHEAD RELAY SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-050-4                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Liberty Freedoms Fragment-Assembly Publication and Masthead |
-|                            | Relay System                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Open Hand / Publication Relay / Fragment Assembly           |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Liberty Freedoms                                            |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Seized pre-release assemblies, masthead material, and relay |
-|                            | traces; publication infrastructure only partly mapped       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Leak forensics, pre-release detection, lawful-access abuse  |
-|                            | analysis, exposure containment                              |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | LEAK-SOURCE RESTRICTED / SITE 03 DOCUMENT-WARFARE CONTROL   |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-050-4 |
+| TECHNOLOGY NAME | Liberty Freedoms Fragment-Assembly Publication and Masthead Relay System |
+| COMMON ABBREVIATIONS | Open Hand / Publication Relay / Fragment Assembly |
+| ORIGIN | Liberty Freedoms |
+| ACQUISITION STATUS | Seized pre-release assemblies, masthead material, and relay traces; publication infrastructure only partly mapped |
+| PRIMARY A.C.T INTEREST | Leak forensics, pre-release detection, lawful-access abuse analysis, exposure containment |
+| ARCHIVE HANDLING | LEAK-SOURCE RESTRICTED / SITE 03 DOCUMENT-WARFARE CONTROL |
 
 ## Functional Identity
 

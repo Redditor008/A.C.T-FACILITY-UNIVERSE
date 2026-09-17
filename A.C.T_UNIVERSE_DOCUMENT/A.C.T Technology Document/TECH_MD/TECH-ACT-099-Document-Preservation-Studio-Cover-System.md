@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - DOCUMENT PRESERVATION STUDIO COVER SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-099                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Document Preservation Studio Cover System                   |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | DPSCS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | DOCUMENT COVER / QUIET PRESENCE / CONCEALED TRANSITION     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | SILENT REED ANNEX F-3 SURFACE COVER LEVEL                  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Studio Manager / Security Boundary Lead                     |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Archive, Administration, Security, Intelligence             |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / PUBLIC-FACING STUDIO COVER USE                     |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | COVER SCRUTINY / CLIENT TRAFFIC / TRANSITION EXPOSURE RISK |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 2 for legitimate studio work; Level 3 for boundary    |
-|                            | duty; Level 4 for buried-annex transition control           |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-099 |
+| TECHNOLOGY NAME | Document Preservation Studio Cover System |
+| SHORT NAME | DPSCS |
+| TECHNOLOGY FAMILY | DOCUMENT COVER / QUIET PRESENCE / CONCEALED TRANSITION |
+| ORIGIN | SILENT REED ANNEX F-3 SURFACE COVER LEVEL |
+| PRIMARY CONTROLLER | Studio Manager / Security Boundary Lead |
+| ATTACHED DIVISIONS | Archive, Administration, Security, Intelligence |
+| OPERATIONAL STATUS | ACTIVE / PUBLIC-FACING STUDIO COVER USE |
+| RISK STATUS | COVER SCRUTINY / CLIENT TRAFFIC / TRANSITION EXPOSURE RISK |
+| CLEARANCE REQUIRED | Level 2 for legitimate studio work; Level 3 for boundary duty; Level 4 for buried-annex transition control |
 
-**Archive Status:** Active Document Cover Technology Record
-**Distribution:** Silent Reed Annex / Kurokawa Archive Node / Studio Management / Security / Archive / Intelligence
-**Authority:** Studio Manager, Security Boundary Lead, Sub-Site Chief, Kurokawa Archive Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Document Cover Technology Record |
+| DISTRIBUTION | Silent Reed Annex / Kurokawa Archive Node / Studio Management / Security / Archive / Intelligence |
+| AUTHORITY | Studio Manager, Security Boundary Lead, Sub-Site Chief, Kurokawa Archive Command, and Central Archive |
 
 #### Archive Note
 Document Preservation Studio Cover System is the ninety-ninth main A.C.T technology expanded into an individual record. The Silent Reed Annex dossier identifies the annex's cover as a private document-preservation and restoration studio serving the region's archival and cultural-heritage sector. The F-3 floor dossier identifies restoration workrooms, administrative spaces, restricted work areas, and concealed transition architecture as the surface structures that make the cover durable.

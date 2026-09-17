@@ -1,26 +1,14 @@
 # TECH-GOI-054-3 - LULLABY WORKS QUIET BLANKET PANIC-REDUCTION WEAVE
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-054-3                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Lullaby Works Quiet Blanket Panic-Reduction Weave           |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Quiet Blanket                                               |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Lullaby Works                                               |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Cooperative recovery, partial inspection, or protected      |
-|                            | field custody through child-safety cases                    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Child protection, Subject Care continuity, product-risk     |
-|                            | review, and safe evidence handling                          |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | CHILD-CARE DISCLOSURE LIMIT / SUBJECT CARE RESTRICTED       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-054-3 |
+| TECHNOLOGY NAME | Lullaby Works Quiet Blanket Panic-Reduction Weave |
+| COMMON ABBREVIATIONS | Quiet Blanket |
+| ORIGIN | Lullaby Works |
+| ACQUISITION STATUS | Cooperative recovery, partial inspection, or protected field custody through child-safety cases |
+| PRIMARY A.C.T INTEREST | Child protection, Subject Care continuity, product-risk review, and safe evidence handling |
+| ARCHIVE HANDLING | CHILD-CARE DISCLOSURE LIMIT / SUBJECT CARE RESTRICTED |
 
 ## Functional Identity
 

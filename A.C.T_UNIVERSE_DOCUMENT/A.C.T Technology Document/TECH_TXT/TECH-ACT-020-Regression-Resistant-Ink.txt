@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - REGRESSION-RESISTANT INK
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-020
-TECHNOLOGY NAME: Regression-Resistant Ink
-SHORT NAME: RRI
-TECHNOLOGY FAMILY: ARCHIVAL / CAUSAL SAFEGUARD / PHYSICAL RECORD MATERIAL
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Archive Division / Materials Custody Desk
-ATTACHED DIVISIONS: O5 Liaison, Info-Hazard, Site-03 Archive, Engineering
-OPERATIONAL STATUS: ACTIVE / RESTRICTED / O5-LEVEL LOG MATERIAL
-RISK STATUS: CONTROLLED / HAZARDOUS IF FORGED, SPILLED, OR MISSEALED
-CLEARANCE REQUIRED: Level 4 for use; Level 5 for formula, particle source, O5 log stock, and shift-resistant witness record handling
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-020                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Regression-Resistant Ink                                    |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | RRI                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | ARCHIVAL / CAUSAL SAFEGUARD / PHYSICAL RECORD MATERIAL      |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Archive Division / Materials Custody Desk                   |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | O5 Liaison, Info-Hazard, Site-03 Archive, Engineering       |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / O5-LEVEL LOG MATERIAL                 |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF FORGED, SPILLED, OR MISSEALED     |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for use; Level 5 for formula, particle source, O5   |
+|                            | log stock, and shift-resistant witness record handling      |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Archival Material Record
 Distribution: Archive / O5 Liaison / Info-Hazard / Materials Custody / Site-03

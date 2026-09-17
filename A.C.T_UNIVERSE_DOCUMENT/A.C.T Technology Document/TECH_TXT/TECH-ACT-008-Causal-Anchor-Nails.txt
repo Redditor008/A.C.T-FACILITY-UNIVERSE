@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - CAUSAL ANCHOR NAILS
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-008
-TECHNOLOGY NAME: Causal Anchor Nails
-SHORT NAME: CAN
-TECHNOLOGY FAMILY: FIELD / RECOVERY / TEMPORARY STABILIZATION
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Recovery Division / Engineering Division
-ATTACHED DIVISIONS: Containment, Logistics, Field Command, Site Command
-OPERATIONAL STATUS: ACTIVE / RESTRICTED / SINGLE-USE
-RISK STATUS: CONTROLLED / HAZARDOUS IF MISPLACED OR OVERTRUSTED
-CLEARANCE REQUIRED: Level 3 for field issue; Level 4 for multi-nail geometry and post-use extraction review
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-008                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Causal Anchor Nails                                         |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | CAN                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | FIELD / RECOVERY / TEMPORARY STABILIZATION                  |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Recovery Division / Engineering Division                    |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Containment, Logistics, Field Command, Site Command         |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / SINGLE-USE                            |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF MISPLACED OR OVERTRUSTED          |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for field issue; Level 4 for multi-nail geometry    |
+|                            | and post-use extraction review                              |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Field Technology Record
 Distribution: Recovery / Engineering / Containment / Logistics / Site Command

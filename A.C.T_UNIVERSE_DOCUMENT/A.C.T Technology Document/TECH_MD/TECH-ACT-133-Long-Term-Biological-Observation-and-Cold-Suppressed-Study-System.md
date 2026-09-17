@@ -1,37 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - LONG-TERM BIOLOGICAL OBSERVATION AND COLD-SUPPRESSED STUDY SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-133                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Long-Term Biological Observation and Cold-Suppressed Study  |
-|                            | System                                                      |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | LTBOCSS                                                     |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | BIOLOGICAL STUDY / LONG OBSERVATION / COLD RESEARCH        |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | WHITE GRAVE STATION F-4 RESEARCH AND BIOLOGICAL STUDY      |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Floor Research Chief / Research Division                    |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Research, Medical, Containment, Security, Archive           |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / CONTROLLED LONG-DURATION BIOLOGICAL STUDY          |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | SAMPLE-CONTROL BREACH / COLD-CONDITION DRIFT / DATA LOSS   |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Program-specific research authorization and resident        |
-|                            | restriction-set authority                                   |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-133 |
+| TECHNOLOGY NAME | Long-Term Biological Observation and Cold-Suppressed Study System |
+| SHORT NAME | LTBOCSS |
+| TECHNOLOGY FAMILY | BIOLOGICAL STUDY / LONG OBSERVATION / COLD RESEARCH |
+| ORIGIN | WHITE GRAVE STATION F-4 RESEARCH AND BIOLOGICAL STUDY |
+| PRIMARY CONTROLLER | Floor Research Chief / Research Division |
+| ATTACHED DIVISIONS | Research, Medical, Containment, Security, Archive |
+| OPERATIONAL STATUS | ACTIVE / CONTROLLED LONG-DURATION BIOLOGICAL STUDY |
+| RISK STATUS | SAMPLE-CONTROL BREACH / COLD-CONDITION DRIFT / DATA LOSS |
+| CLEARANCE REQUIRED | Program-specific research authorization and resident restriction-set authority |
 
-**Archive Status:** Active White Grave Research Technology Record
-**Distribution:** White Grave Station / Research / Medical / Containment / Security / Archive
-**Authority:** Floor Research Chief, Research Division, Site Director, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active White Grave Research Technology Record |
+| DISTRIBUTION | White Grave Station / Research / Medical / Containment / Security / Archive |
+| AUTHORITY | Floor Research Chief, Research Division, Site Director, and Central Archive |
 
 #### Archive Note
 Long-Term Biological Observation and Cold-Suppressed Study System is the one-hundred-thirty-third main A.C.T technology expanded into an individual record. The White Grave F-4 Research and Biological Study dossier identifies F-4 as the station's primary laboratory level, containing biological study chambers, sample processing, long-term observation suites, and controlled research environments for cold-suppressed anomalies. It records research authorization, sample control, study restriction enforcement, environmental separation, observation streams, and the doctrine that slow behavior is data.

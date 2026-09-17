@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - SILENT BOUNDARY SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-055
-TECHNOLOGY NAME: Silent Boundary System
-SHORT NAME: SBS
-TECHNOLOGY FAMILY: NORMALCY INFRASTRUCTURE / PUBLIC NARRATIVE CONTROL
-ORIGIN: A.C.T INDUSTRIAL EXPANSION ERA, 1926
-PRIMARY CONTROLLER: Civil Covert Division / Intelligence Division
-ATTACHED DIVISIONS: Recovery, Medical Care, Archiver Division, Site Command
-OPERATIONAL STATUS: ACTIVE / STRUCTURAL NORMALCY SUPPORT
-RISK STATUS: CIVILIAN REALITY MANAGEMENT / INTERNAL MEMORY RISK
-CLEARANCE REQUIRED: Level 3 for local cover operations; Level 4 for regional narrative coordination; Level 5 for structural operations
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-055                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Silent Boundary System                                      |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | SBS                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | NORMALCY INFRASTRUCTURE / PUBLIC NARRATIVE CONTROL          |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T INDUSTRIAL EXPANSION ERA, 1926                        |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Civil Covert Division / Intelligence Division               |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Recovery, Medical Care, Archiver Division, Site Command     |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / STRUCTURAL NORMALCY SUPPORT                        |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CIVILIAN REALITY MANAGEMENT / INTERNAL MEMORY RISK          |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for local cover operations; Level 4 for regional    |
+|                            | narrative coordination; Level 5 for structural operations   |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Normalcy Infrastructure Technology Record
 Distribution: Civil Covert / Intelligence / Recovery / Medical Care / Archiver Division / Site Command

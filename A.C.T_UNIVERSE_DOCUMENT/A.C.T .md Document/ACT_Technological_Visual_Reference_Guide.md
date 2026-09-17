@@ -6,10 +6,12 @@
                  Anomaly Containment Transformation
 ═══════════════════════════════════════════════════════════════════════
 
-**DOCUMENT ID:** ACT-VIS-REF-50  
-**DISTRIBUTION:** Field Agents / Site Architects / New Recruits  
-**AUTHORITY:** Engineering & Transformation Division  
-**STATUS:** Active Operational Reference
+| FIELD | VALUE |
+|---|---|
+| DOCUMENT ID | ACT-VIS-REF-50 |
+| DISTRIBUTION | Field Agents / Site Architects / New Recruits |
+| AUTHORITY | Engineering & Transformation Division |
+| STATUS | Active Operational Reference |
 
 This guide provides exhaustive visual, tactile, and mechanical 
 descriptions for the 50 primary operational assets utilized within the 

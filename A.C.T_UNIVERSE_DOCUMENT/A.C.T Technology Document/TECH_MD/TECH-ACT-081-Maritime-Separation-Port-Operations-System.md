@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - MARITIME SEPARATION PORT OPERATIONS SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-081                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Maritime Separation Port Operations System                  |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | MSPOS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | PORT OPERATIONS / MARITIME COVER / RECOVERY SEPARATION     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY F-6 PORT FACILITY                     |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Port Operations / Security Division Boundary Command        |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Recovery, Research, Logistics, Cover, Containment           |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / DUAL-USE PORT SUPPORT                              |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | COVER COLLISION / RECOVERY EXPOSURE / HARBOR BREACH RISK    |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for surface port support; Level 4 for concealed     |
-|                            | recovery handoff, vessel retasking, or anomaly offload      |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-081 |
+| TECHNOLOGY NAME | Maritime Separation Port Operations System |
+| SHORT NAME | MSPOS |
+| TECHNOLOGY FAMILY | PORT OPERATIONS / MARITIME COVER / RECOVERY SEPARATION |
+| ORIGIN | NUSANTARA DEEP RELAY F-6 PORT FACILITY |
+| PRIMARY CONTROLLER | Port Operations / Security Division Boundary Command |
+| ATTACHED DIVISIONS | Recovery, Research, Logistics, Cover, Containment |
+| OPERATIONAL STATUS | ACTIVE / DUAL-USE PORT SUPPORT |
+| RISK STATUS | COVER COLLISION / RECOVERY EXPOSURE / HARBOR BREACH RISK |
+| CLEARANCE REQUIRED | Level 3 for surface port support; Level 4 for concealed recovery handoff, vessel retasking, or anomaly offload |
 
-**Archive Status:** Active Maritime Operations Technology Record
-**Distribution:** Port Operations / Recovery / Security / Logistics / Nusantara Deep Relay
-**Authority:** Port Operations, Maritime Recovery Command, Campus Director, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Maritime Operations Technology Record |
+| DISTRIBUTION | Port Operations / Recovery / Security / Logistics / Nusantara Deep Relay |
+| AUTHORITY | Port Operations, Maritime Recovery Command, Campus Director, and Central Archive |
 
 #### Archive Note
 Maritime Separation Port Operations System is the eighty-first main A.C.T technology expanded into an individual record. The F-6 Surface Research and Transition Level dossier identifies the port facility as the relay's legitimate maritime face: research vessels, scientific logistics, and ordinary island institute operations, while the same waters serve concealed maritime operations under enforced separation. The F-3 dossier also confirms that water-capable containment exists in port facilities and specialized vessels as part of the wider maritime holding system.

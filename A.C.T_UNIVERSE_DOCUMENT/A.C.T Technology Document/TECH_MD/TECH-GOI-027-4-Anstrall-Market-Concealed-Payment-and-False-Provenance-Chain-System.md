@@ -1,28 +1,14 @@
 # TECH-GOI-027-4 - ANSTRALL MARKET CONCEALED PAYMENT AND FALSE PROVENANCE CHAIN SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-027-4                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Anstrall Market Concealed Payment and False Provenance      |
-|                            | Chain System                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Concealed Payment / Provenance Chain / Market Exchange Set  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Anstrall Market                                             |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Partial exchange records and provenance documents recovered |
-|                            | during interdiction; no complete chain reconstructed        |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Transaction interdiction, buyer-network reconstruction,     |
-|                            | financial-trail analysis, dispersal tracking                |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | TRADE-INTERDICTION RESTRICTED / ACTIVE-ROUTE DISCLOSURE     |
-|                            | LIMIT                                                       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-027-4 |
+| TECHNOLOGY NAME | Anstrall Market Concealed Payment and False Provenance Chain System |
+| COMMON ABBREVIATIONS | Concealed Payment / Provenance Chain / Market Exchange Set |
+| ORIGIN | Anstrall Market |
+| ACQUISITION STATUS | Partial exchange records and provenance documents recovered during interdiction; no complete chain reconstructed |
+| PRIMARY A.C.T INTEREST | Transaction interdiction, buyer-network reconstruction, financial-trail analysis, dispersal tracking |
+| ARCHIVE HANDLING | TRADE-INTERDICTION RESTRICTED / ACTIVE-ROUTE DISCLOSURE LIMIT |
 
 ## Functional Identity
 

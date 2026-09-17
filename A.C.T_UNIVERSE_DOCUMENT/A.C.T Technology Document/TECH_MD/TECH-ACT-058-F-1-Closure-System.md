@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - F-1 CLOSURE SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-058                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | F-1 Closure System                                          |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | F1-CS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | DEEP FLOOR ISOLATION / ACCESS-CORE SEVERANCE / SELF-HOLD    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | REDWOOD VEIL HANGING VAULT CLOSURE DOCTRINE                 |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Containment Division / Deep-Hold Command                    |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Security, Engineering, Site Command, Medical, Archive       |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / DRILLED / STANDING OPTION                          |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | SELF-CONTAINMENT SACRIFICE / ACCESS-SEAL FAILURE RISK       |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for drill authority; Level 5 or Site Director seal  |
-|                            | for live closure activation                                 |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-058 |
+| TECHNOLOGY NAME | F-1 Closure System |
+| SHORT NAME | F1-CS |
+| TECHNOLOGY FAMILY | DEEP FLOOR ISOLATION / ACCESS-CORE SEVERANCE / SELF-HOLD |
+| ORIGIN | REDWOOD VEIL HANGING VAULT CLOSURE DOCTRINE |
+| PRIMARY CONTROLLER | Containment Division / Deep-Hold Command |
+| ATTACHED DIVISIONS | Security, Engineering, Site Command, Medical, Archive |
+| OPERATIONAL STATUS | ACTIVE / DRILLED / STANDING OPTION |
+| RISK STATUS | SELF-CONTAINMENT SACRIFICE / ACCESS-SEAL FAILURE RISK |
+| CLEARANCE REQUIRED | Level 4 for drill authority; Level 5 or Site Director seal for live closure activation |
 
-**Archive Status:** Active Deep Containment Infrastructure Technology Record  
-**Distribution:** Containment / Security / Engineering / Site Command / Medical / Archive  
-**Authority:** Deep-Hold Command, Site Director, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Deep Containment Infrastructure Technology Record |
+| DISTRIBUTION | Containment / Security / Engineering / Site Command / Medical / Archive |
+| AUTHORITY | Deep-Hold Command, Site Director, and Central Archive |
 
 #### Archive Note
 The F-1 Closure System is the fifty-eighth main A.C.T technology expanded into an individual record. Redwood Veil's F-1 floor dossier identifies the Hanging Vault as the deepest numbered floor of the complex and records its defining security procedure as closing F-1 to the outside. That closure cuts the access core, isolates the floor's service connections, and commits the floor to full self-containment until the triggering condition is resolved. The same dossier states that closure is not a last resort but a standing option drilled across the site.

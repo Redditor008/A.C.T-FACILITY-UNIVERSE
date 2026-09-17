@@ -1,70 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - MISSING 404 WATCH TOWER
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-HY-W-053                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Missing 404 Watch Tower                                     |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | M404-WT                                                     |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Missing Four-Oh-Four; the Watch Tower; Dead Address         |
-|                            | Observers; Not-Found Bell                                   |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | HYBRID                                                      |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | WORK                                                        |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | TRANSNATIONAL                                               |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | HANDLER                                                     |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 3                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | LEAKING                                                     |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | COOPERATED / MONITOR / HELP                                 |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Rotating tower offices; personal names compartmented        |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Watchers, signal clerks, absence cartographers, recovery    |
-|                            | observers, dead-address archivists, and field relays        |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Missing-location clusters, dead-address networks,           |
-|                            | wilderness disappearance routes, and vanished records       |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Watch towers, signal ledgers, missing-person registers,     |
-|                            | null-coordinate maps, archived dead links, and rescue bells |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Distributed tower posts, hidden listening rooms, sealed     |
-|                            | paper archives, relay stations, and route-observation cells |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | Absence is evidence; missing persons, places, and files     |
-|                            | must remain watched until found, recovered, or named dead   |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Repeated cooperative contact during cases where people,     |
-|                            | sites, coordinates, records, or signals returned not found  |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | Restricted missing-person, vanished-site, dead-link, and    |
-|                            | inaccessible-location case chains                           |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - cooperative but independent observation network    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division / Recovery Division / Central Archive |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with route-specific Site transfer           |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for sealed tower ledgers and survivor      |
-|                            | continuance records                                         |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-HY-W-053 |
+| COMMON NAME | Missing 404 Watch Tower |
+| SHORT NAME | M404-WT |
+| KNOWN ALIASES | Missing Four-Oh-Four; the Watch Tower; Dead Address Observers; Not-Found Bell |
+| NATURE CLASS | HYBRID |
+| ALIGNMENT CLASS | WORK |
+| REACH CLASS | TRANSNATIONAL |
+| ANOMALOUS CAPABILITY | HANDLER |
+| THREAT LEVEL | 3 |
+| SECRECY RISK | LEAKING |
+| A.C.T POSTURE | COOPERATED / MONITOR / HELP |
+| KNOWN LEADERSHIP | Rotating tower offices; personal names compartmented |
+| KNOWN MEMBERSHIP | Watchers, signal clerks, absence cartographers, recovery observers, dead-address archivists, and field relays |
+| PRIMARY ACTIVE REGION | Missing-location clusters, dead-address networks, wilderness disappearance routes, and vanished records |
+| KNOWN ASSETS | Watch towers, signal ledgers, missing-person registers, null-coordinate maps, archived dead links, and rescue bells |
+| KNOWN HOLDINGS | Distributed tower posts, hidden listening rooms, sealed paper archives, relay stations, and route-observation cells |
+| IDEOLOGY | Absence is evidence; missing persons, places, and files must remain watched until found, recovered, or named dead |
+| HISTORY WITH A.C.T | Repeated cooperative contact during cases where people, sites, coordinates, records, or signals returned not found |
+| ANOMALY CROSS-REFERENCE | Restricted missing-person, vanished-site, dead-link, and inaccessible-location case chains |
+| CURRENT STATUS | ACTIVE - cooperative but independent observation network |
+| PRIMARY FILE AUTHORITY | Intelligence Division / Recovery Division / Central Archive |
+| SITE JURISDICTION | Central Command with route-specific Site transfer |
+| CLEARANCE REQUIRED | Level 4; Level 5 for sealed tower ledgers and survivor continuance records |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Intelligence / Recovery / Containment / Civil Covert / Subject Care / Command
-**Authority:** Intelligence Division, Recovery Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Intelligence / Recovery / Containment / Civil Covert / Subject Care / Command |
+| AUTHORITY | Intelligence Division, Recovery Division, and Central Archive |
 
 #### Archive Note
 Missing 404 Watch Tower is the active filing for an outside observation and recovery-support network that tracks persons, places, structures, addresses, records, and distress signals after ordinary systems return absence. The group is not filed as an A.C.T unit, search-and-rescue auxiliary, internet collective, or single watch station. It is a real external organization with repeated contact history, specialized personnel, physical holdings, record discipline, and an operating belief that disappearance remains a living condition until the missing subject is recovered, confirmed dead, or given a durable name inside an archive that cannot be quietly erased.

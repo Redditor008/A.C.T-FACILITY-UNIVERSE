@@ -1,17 +1,31 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - UNMARKED WALL SURFACE BOUNDARY AND LOADING TRANSITION SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-130
-TECHNOLOGY NAME: Unmarked Wall Surface Boundary and Loading Transition System
-SHORT NAME: UWSBLTS
-TECHNOLOGY FAMILY: SURFACE BOUNDARY / LOADING TRANSITION / CONCEALED SCREENING
-ORIGIN: REDWOOD VEIL COMPLEX F-9 SURFACE TRANSITION LEVEL
-PRIMARY CONTROLLER: Boundary Chief / Security Division Boundary Command
-ATTACHED DIVISIONS: Security, Recovery, Administration, Logistics
-OPERATIONAL STATUS: ACTIVE / UNBREACHED SURFACE-TO-CORE BOUNDARY
-RISK STATUS: WALL BREACH / SCREENING FAILURE / LOADING INTAKE VIOLATION
-CLEARANCE REQUIRED: Boundary-control access; buried-core transition authority for personnel, vehicles, shipments, and elevator movement
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-130                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Unmarked Wall Surface Boundary and Loading Transition       |
+|                            | System                                                      |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | UWSBLTS                                                     |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | SURFACE BOUNDARY / LOADING TRANSITION / CONCEALED SCREENING |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | REDWOOD VEIL COMPLEX F-9 SURFACE TRANSITION LEVEL           |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Boundary Chief / Security Division Boundary Command         |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Security, Recovery, Administration, Logistics               |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / UNBREACHED SURFACE-TO-CORE BOUNDARY                |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | WALL BREACH / SCREENING FAILURE / LOADING INTAKE VIOLATION  |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Boundary-control access; buried-core transition authority   |
+|                            | for personnel, vehicles, shipments, and elevator movement   |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Redwood Veil Boundary Technology Record
 Distribution: Redwood Veil Complex / Security / Recovery / Administration / Logistics

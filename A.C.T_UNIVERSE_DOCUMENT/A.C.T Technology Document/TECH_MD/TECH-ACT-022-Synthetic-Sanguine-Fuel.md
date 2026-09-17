@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - SYNTHETIC SANGUINE-FUEL
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-022                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Synthetic Sanguine-Fuel                                     |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SSF                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | BIO-CHEMICAL / MEDICAL SUPPORT / ANOMALOUS NUTRITION        |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Medical Division / Biological Containment Division          |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Logistics, Engineering, Transformation, Site Command        |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / CONTROLLED STOCK / TEMPERATURE-DEPENDENT           |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF CONTAMINATED OR MISFED           |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for issue; Level 4 for formula, pump calibration,   |
-|                            | subject-specific mixture, and blood-fuel dependency review  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-022 |
+| TECHNOLOGY NAME | Synthetic Sanguine-Fuel |
+| SHORT NAME | SSF |
+| TECHNOLOGY FAMILY | BIO-CHEMICAL / MEDICAL SUPPORT / ANOMALOUS NUTRITION |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Medical Division / Biological Containment Division |
+| ATTACHED DIVISIONS | Logistics, Engineering, Transformation, Site Command |
+| OPERATIONAL STATUS | ACTIVE / CONTROLLED STOCK / TEMPERATURE-DEPENDENT |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF CONTAMINATED OR MISFED |
+| CLEARANCE REQUIRED | Level 3 for issue; Level 4 for formula, pump calibration, subject-specific mixture, and blood-fuel dependency review |
 
-**Archive Status:** Active Medical Support Technology Record  
-**Distribution:** Medical / Biological Containment / Logistics / Transformation / Site Command  
-**Authority:** Medical Division, Biological Containment Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Medical Support Technology Record |
+| DISTRIBUTION | Medical / Biological Containment / Logistics / Transformation / Site Command |
+| AUTHORITY | Medical Division, Biological Containment Division, and Central Archive |
 
 #### Archive Note
 Synthetic Sanguine-Fuel is the twenty-second main A.C.T technology expanded into an individual record. The Master Catalog defines SSF as a bio-engineered mammalian blood substitute that sustains blood-fuel requirements for mechanical and biological NB-class entities. The technological timeline records 2004 as the year SSF was perfected and standardized for all mechanical subjects requiring mammalian biological input. The visual reference guide describes a deep red viscous liquid stored in industrial-grade blue canisters, fitted with a friction-less magnetic pump, a digital O2-saturation monitor in the dispensing valve, and an internal thermal coil maintaining the canister at 37 degrees C.

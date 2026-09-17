@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - REFINED NEMNOLIA SAP
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-045                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Refined NEMNOLIA Sap                                        |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | RNS                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ANOMALY-DERIVED MATERIAL / MEMORY SOLVENT / 004 INPUT       |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T REFINEMENT OF AFD-NB-004                              |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Medical Division / Transformation Division                  |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Normalcy, Memory Review, Materials Custody, O5 Oversight    |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / 004-SERIES SOURCE MATERIAL            |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | HAZARDOUS / MEMORY CONTINUITY AND AIRBORNE MEMETIC HAZARD   |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for storage access; Level 5 for raw-to-refined      |
-|                            | processing, grade transfer, or high-concentration release   |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-045 |
+| TECHNOLOGY NAME | Refined NEMNOLIA Sap |
+| SHORT NAME | RNS |
+| TECHNOLOGY FAMILY | ANOMALY-DERIVED MATERIAL / MEMORY SOLVENT / 004 INPUT |
+| ORIGIN | A.C.T REFINEMENT OF AFD-NB-004 |
+| PRIMARY CONTROLLER | Medical Division / Transformation Division |
+| ATTACHED DIVISIONS | Normalcy, Memory Review, Materials Custody, O5 Oversight |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / 004-SERIES SOURCE MATERIAL |
+| RISK STATUS | HAZARDOUS / MEMORY CONTINUITY AND AIRBORNE MEMETIC HAZARD |
+| CLEARANCE REQUIRED | Level 4 for storage access; Level 5 for raw-to-refined processing, grade transfer, or high-concentration release |
 
-**Archive Status:** Active Anomaly-Derived Material Technology Record  
-**Distribution:** Medical / Transformation / Normalcy / Memory Review / Materials Custody / O5 Oversight  
-**Authority:** Medical Division, Transformation Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Anomaly-Derived Material Technology Record |
+| DISTRIBUTION | Medical / Transformation / Normalcy / Memory Review / Materials Custody / O5 Oversight |
+| AUTHORITY | Medical Division, Transformation Division, and Central Archive |
 
 #### Archive Note
 Refined NEMNOLIA Sap is the forty-fifth main A.C.T technology expanded into an individual record. The Master Catalog identifies it as the active ingredient in all 004-Series amnestics and describes it as a targeted memory-solvent. The visual guide describes golden syrup stored in lead-lined vials with molecular-stabilizer caps to prevent evaporation into an airborne memetic hazard. The NEMNOLIA archive records that AFD-NB-004 secretes glowing translucent golden sap capable of erasing, fracturing, or collapsing human memory continuity, and that A.C.T refines it into graded 004 compounds from 004-A through 004-H.

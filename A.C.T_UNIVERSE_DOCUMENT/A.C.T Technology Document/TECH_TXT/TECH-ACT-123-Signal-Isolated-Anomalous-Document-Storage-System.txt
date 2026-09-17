@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - SIGNAL-ISOLATED ANOMALOUS DOCUMENT STORAGE SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-123
-TECHNOLOGY NAME: Signal-Isolated Anomalous Document Storage System
-SHORT NAME: SIADSS
-TECHNOLOGY FAMILY: ANOMALOUS DOCUMENT STORAGE / SIGNAL ISOLATION / ACTIVE HOLD
-ORIGIN: KUROKAWA ARCHIVE NODE F-3 ACTIVE ANOMALOUS DOCUMENT STORAGE
-PRIMARY CONTROLLER: Floor Holding Archivist / Document-Holding Command
-ATTACHED DIVISIONS: Archive, Intelligence, Researcher, Security
-OPERATIONAL STATUS: ACTIVE / MONITORED ANOMALOUS DOCUMENT HOLDING
-RISK STATUS: SIGNAL ESCAPE / STORAGE MISASSIGNMENT / QUARANTINE DRIFT
-CLEARANCE REQUIRED: Level 3 for holding duty; Level 4 for signal-isolated access, F-2 transfer, or F-4 sample-control release
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-123                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Signal-Isolated Anomalous Document Storage System           |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | SIADSS                                                      |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | ANOMALOUS DOCUMENT STORAGE / SIGNAL ISOLATION / ACTIVE HOLD |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | KUROKAWA ARCHIVE NODE F-3 ACTIVE ANOMALOUS DOCUMENT STORAGE |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Floor Holding Archivist / Document-Holding Command          |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Archive, Intelligence, Researcher, Security                 |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / MONITORED ANOMALOUS DOCUMENT HOLDING               |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | SIGNAL ESCAPE / STORAGE MISASSIGNMENT / QUARANTINE DRIFT    |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for holding duty; Level 4 for signal-isolated       |
+|                            | access, F-2 transfer, or F-4 sample-control release         |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Kurokawa Active-Storage Technology Record
 Distribution: Kurokawa Archive Node / Archive / Intelligence / Researcher Division / Security

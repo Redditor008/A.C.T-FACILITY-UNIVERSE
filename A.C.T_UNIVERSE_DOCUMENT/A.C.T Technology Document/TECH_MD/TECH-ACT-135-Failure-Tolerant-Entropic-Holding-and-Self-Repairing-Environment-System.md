@@ -1,37 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - FAILURE-TOLERANT ENTROPIC HOLDING AND SELF-REPAIRING ENVIRONMENT SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-135                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Failure-Tolerant Entropic Holding and Self-Repairing       |
-|                            | Environment System                                          |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | FTEHSRES                                                    |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ENTROPIC HOLDING / FAILURE TOLERANCE / SELF-REPAIRING ENV  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | WHITE GRAVE STATION F-2 ENTROPIC AND UNSTABLE HOLDING      |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Floor Holding Chief / Restricted-Hold Command               |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Containment, Engineering, Security, Medical, Archive        |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED FAILURE-TOLERANT HOLDING                |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | ENTROPIC DEGRADATION / REDUNDANCY LOSS / ESCALATION FAILURE|
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Heavily restricted resident-specific authorization; Site    |
-|                            | Director authority for F-1 Long Sleep transfer assessment  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-135 |
+| TECHNOLOGY NAME | Failure-Tolerant Entropic Holding and Self-Repairing Environment System |
+| SHORT NAME | FTEHSRES |
+| TECHNOLOGY FAMILY | ENTROPIC HOLDING / FAILURE TOLERANCE / SELF-REPAIRING ENV |
+| ORIGIN | WHITE GRAVE STATION F-2 ENTROPIC AND UNSTABLE HOLDING |
+| PRIMARY CONTROLLER | Floor Holding Chief / Restricted-Hold Command |
+| ATTACHED DIVISIONS | Containment, Engineering, Security, Medical, Archive |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED FAILURE-TOLERANT HOLDING |
+| RISK STATUS | ENTROPIC DEGRADATION / REDUNDANCY LOSS / ESCALATION FAILURE |
+| CLEARANCE REQUIRED | Heavily restricted resident-specific authorization; Site Director authority for F-1 Long Sleep transfer assessment |
 
-**Archive Status:** Active White Grave Restricted-Holding Technology Record
-**Distribution:** White Grave Station / Containment / Engineering / Security / Medical / Archive
-**Authority:** Floor Holding Chief, Containment Division, Engineering Support, Site Director, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active White Grave Restricted-Holding Technology Record |
+| DISTRIBUTION | White Grave Station / Containment / Engineering / Security / Medical / Archive |
+| AUTHORITY | Floor Holding Chief, Containment Division, Engineering Support, Site Director, and Central Archive |
 
 #### Archive Note
 Failure-Tolerant Entropic Holding and Self-Repairing Environment System is the one-hundred-thirty-fifth main A.C.T technology expanded into an individual record. The White Grave F-2 Entropic and Unstable Resident Holding dossier identifies F-2 as the station's failure-hostile holding level for anomalies that degrade containment systems, erode structures, unmake holding conditions, and cannot be trusted with ordinary infrastructure. It records redundant containment structures, self-repairing environmental systems, duplicated power feeds, high-frequency monitoring, resident-specific restriction sets, and escalation review toward F-1 Long Sleep.

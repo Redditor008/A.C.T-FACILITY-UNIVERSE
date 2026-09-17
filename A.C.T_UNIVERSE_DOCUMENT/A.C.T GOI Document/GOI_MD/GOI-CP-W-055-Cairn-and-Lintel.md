@@ -1,72 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - CAIRN & LINTEL
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-CP-W-055                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Cairn & Lintel                                              |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | C&L                                                         |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Cairn and Lintel; C-L Shelterworks; Old Door Relief;        |
-|                            | The Lintel Company; [CENSOR: MUNICIPAL CONTRACT NAME]       |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | CORPORATE                                                   |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | WORK                                                        |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | TRANSNATIONAL                                               |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | ENGINEERING                                                 |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 3                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | LEAKING                                                     |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | COOPERATED / MONITOR / APPROPRIATE                         |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Board identity restricted; local projects answer to named   |
-|                            | Foremen of Threshold and Shelter Wardens                    |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Architects, masons, structural engineers, municipal         |
-|                            | contractors, shelter keepers, route surveyors, and locksmiths|
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Disaster-prone cities, breach-adjacent districts, unstable  |
-|                            | housing blocks, hospitals, schools, tunnels, and shelters   |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Protected buildings, threshold stones, emergency corridors, |
-|                            | impossible rooms, shelter keys, construction records, and   |
-|                            | sealed floor plans                                          |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Front construction firms, municipal contracts, repair yards,|
-|                            | shelter houses, old-work depots, and unregistered stairwells|
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | A door is a promise; shelter must hold even when the map,   |
-|                            | street, or sky fails                                        |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Repeated field cooperation during spatial collapse, breach  |
-|                            | evacuation, unsafe housing, and impossible-access incidents |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | Restricted building, shelter, tunnel, hospital, school, and |
-|                            | evacuation-route case chains                                |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - monitored working infrastructure network           |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division / Recovery Division / Civil Covert    |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with Site 01, Site 03, and local Site review|
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for sealed city maps, living-floor plans,  |
-|                            | and inhabited shelter interiors                             |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-CP-W-055 |
+| COMMON NAME | Cairn & Lintel |
+| SHORT NAME | C&L |
+| KNOWN ALIASES | Cairn and Lintel; C-L Shelterworks; Old Door Relief; The Lintel Company; [CENSOR: MUNICIPAL CONTRACT NAME] |
+| NATURE CLASS | CORPORATE |
+| ALIGNMENT CLASS | WORK |
+| REACH CLASS | TRANSNATIONAL |
+| ANOMALOUS CAPABILITY | ENGINEERING |
+| THREAT LEVEL | 3 |
+| SECRECY RISK | LEAKING |
+| A.C.T POSTURE | COOPERATED / MONITOR / APPROPRIATE |
+| KNOWN LEADERSHIP | Board identity restricted; local projects answer to named Foremen of Threshold and Shelter Wardens |
+| KNOWN MEMBERSHIP | Architects, masons, structural engineers, municipal contractors, shelter keepers, route surveyors, and locksmiths |
+| PRIMARY ACTIVE REGION | Disaster-prone cities, breach-adjacent districts, unstable housing blocks, hospitals, schools, tunnels, and shelters |
+| KNOWN ASSETS | Protected buildings, threshold stones, emergency corridors, impossible rooms, shelter keys, construction records, and sealed floor plans |
+| KNOWN HOLDINGS | Front construction firms, municipal contracts, repair yards, shelter houses, old-work depots, and unregistered stairwells |
+| IDEOLOGY | A door is a promise; shelter must hold even when the map, street, or sky fails |
+| HISTORY WITH A.C.T | Repeated field cooperation during spatial collapse, breach evacuation, unsafe housing, and impossible-access incidents |
+| ANOMALY CROSS-REFERENCE | Restricted building, shelter, tunnel, hospital, school, and evacuation-route case chains |
+| CURRENT STATUS | ACTIVE - monitored working infrastructure network |
+| PRIMARY FILE AUTHORITY | Intelligence Division / Recovery Division / Civil Covert |
+| SITE JURISDICTION | Central Command with Site 01, Site 03, and local Site review |
+| CLEARANCE REQUIRED | Level 4; Level 5 for sealed city maps, living-floor plans, and inhabited shelter interiors |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Intelligence / Recovery / Containment / Civil Covert / Engineering / Medical / Command
-**Authority:** Intelligence Division, Recovery Division, Civil Covert Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Intelligence / Recovery / Containment / Civil Covert / Engineering / Medical / Command |
+| AUTHORITY | Intelligence Division, Recovery Division, Civil Covert Division, and Central Archive |
 
 #### Archive Note
 Cairn & Lintel is the active corporate filing for an outside infrastructure, shelter, construction, and emergency-access network that builds or maintains structures capable of remaining useful during abnormal disasters. The group is not filed as a single construction company, haunted-building owner, municipal contractor, or architect collective. It qualifies as a Group of Interest because its projects recur across separate jurisdictions, its protected spaces demonstrably alter access and survival outcomes, and its sealed plans affect A.C.T containment boundaries, evacuation ledgers, and civilian custody chains.

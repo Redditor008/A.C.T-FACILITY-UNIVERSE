@@ -3,13 +3,15 @@
 ## ACT-SUB-01-US-W — Glass Orchard Relay
 ## Western United States
 
-**Archive Status:** Active
-**Distribution:** Internal / Command / Containment / Archive / Security / Medical
-**Authority:** Central Archive / Site Governance Review / Administration
-**File Class:** Floor Dossier — Individual Level Record
-**Dossier Number:** FLOOR-DOSSIER-SUB-01-US-W-F-1
-**Compiled By:** Central Archive, Site Records Office
-**Compilation Standard:** ACT Site Registry File Standard / ACT Floor Record Standard
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal / Command / Containment / Archive / Security / Medical |
+| AUTHORITY | Central Archive / Site Governance Review / Administration |
+| FILE CLASS | Floor Dossier — Individual Level Record |
+| DOSSIER NUMBER | FLOOR-DOSSIER-SUB-01-US-W-F-1 |
+| COMPILED BY | Central Archive, Site Records Office |
+| COMPILATION STANDARD | ACT Site Registry File Standard / ACT Floor Record Standard |
 
 ---
 

@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - BIOMETRIC RESONANCE DAMPENERS
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-026
-TECHNOLOGY NAME: Biometric Resonance Dampeners
-SHORT NAME: BRD
-TECHNOLOGY FAMILY: FIELD / MEDICAL PPE / SIGNATURE MASKING
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Field Safety Desk / Medical Division
-ATTACHED DIVISIONS: Recovery, Biological Containment, Security, Engineering
-OPERATIONAL STATUS: ACTIVE / RESTRICTED ISSUE / SHORT-DURATION WEAR
-RISK STATUS: CONTROLLED / HAZARDOUS IF OVERWORN OR MASKING FAILS
-CLEARANCE REQUIRED: Level 3 for field use; Level 4 for pulse-sync calibration, micro-injector load, and heart-signature predator missions
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-026                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Biometric Resonance Dampeners                               |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | BRD                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | FIELD / MEDICAL PPE / SIGNATURE MASKING                     |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Field Safety Desk / Medical Division                        |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Recovery, Biological Containment, Security, Engineering     |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED ISSUE / SHORT-DURATION WEAR             |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF OVERWORN OR MASKING FAILS         |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for field use; Level 4 for pulse-sync calibration,  |
+|                            | micro-injector load, and heart-signature predator missions  |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Field Safety Technology Record
 Distribution: Field Safety / Medical / Recovery / Biological Containment / Security / Engineering

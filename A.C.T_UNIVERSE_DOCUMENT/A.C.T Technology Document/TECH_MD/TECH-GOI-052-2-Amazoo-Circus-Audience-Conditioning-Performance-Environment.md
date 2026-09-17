@@ -1,26 +1,14 @@
 # TECH-GOI-052-2 - AMAZOO CIRCUS AUDIENCE CONDITIONING PERFORMANCE ENVIRONMENT
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-052-2                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Amazoo Circus Audience Conditioning Performance Environment |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | ACPE / Audience Ring / Chant Environment                    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Amazoo Circus                                               |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Scene reconstruction, witness testimony, and recovered      |
-|                            | performance fragments                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Exposure control, crowd-harm prevention, survivor trigger   |
-|                            | mapping, hostile show detection                             |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | AMAZOO PERFORMANCE RESTRICTED / NO-AUDIENCE TESTING         |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-052-2 |
+| TECHNOLOGY NAME | Amazoo Circus Audience Conditioning Performance Environment |
+| COMMON ABBREVIATIONS | ACPE / Audience Ring / Chant Environment |
+| ORIGIN | Amazoo Circus |
+| ACQUISITION STATUS | Scene reconstruction, witness testimony, and recovered performance fragments |
+| PRIMARY A.C.T INTEREST | Exposure control, crowd-harm prevention, survivor trigger mapping, hostile show detection |
+| ARCHIVE HANDLING | AMAZOO PERFORMANCE RESTRICTED / NO-AUDIENCE TESTING |
 
 ## Functional Identity
 

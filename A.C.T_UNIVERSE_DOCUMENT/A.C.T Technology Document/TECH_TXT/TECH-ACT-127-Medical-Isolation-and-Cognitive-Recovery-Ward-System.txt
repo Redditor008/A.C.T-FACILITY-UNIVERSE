@@ -1,17 +1,31 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - MEDICAL ISOLATION AND COGNITIVE RECOVERY WARD SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-127
-TECHNOLOGY NAME: Medical Isolation and Cognitive Recovery Ward System
-SHORT NAME: MICRWS
-TECHNOLOGY FAMILY: MEDICAL WARD / COGNITIVE CARE / ARTIFACT-INFLUENCE ISOLATION
-ORIGIN: REDWOOD VEIL COMPLEX F-6 MEDICAL AND COGNITIVE CARE
-PRIMARY CONTROLLER: Chief Medical Officer / Medical Division
-ATTACHED DIVISIONS: Medical, Containment, Research, Security, Archive
-OPERATIONAL STATUS: ACTIVE / CONTROLLED MEDICAL AND COGNITIVE CARE
-RISK STATUS: ISOLATION BREACH / TREATMENT EXPOSURE / CONFIDENTIALITY GAP
-CLEARANCE REQUIRED: Medical authorization; patient-specific restriction-set authority for anomalous influence or memetic contamination
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-127                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Medical Isolation and Cognitive Recovery Ward System        |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | MICRWS                                                      |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | MEDICAL WARD / COGNITIVE CARE / ARTIFACT-INFLUENCE          |
+|                            | ISOLATION                                                   |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | REDWOOD VEIL COMPLEX F-6 MEDICAL AND COGNITIVE CARE         |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Chief Medical Officer / Medical Division                    |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Medical, Containment, Research, Security, Archive           |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / CONTROLLED MEDICAL AND COGNITIVE CARE              |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | ISOLATION BREACH / TREATMENT EXPOSURE / CONFIDENTIALITY GAP |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Medical authorization; patient-specific restriction-set     |
+|                            | authority for anomalous influence or memetic contamination  |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Redwood Veil Medical Technology Record
 Distribution: Redwood Veil Complex / Medical / Containment / Research / Security / Archive

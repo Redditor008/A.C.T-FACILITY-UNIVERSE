@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - CAUSAL-REACTIVE MERCURY
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-044                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Causal-Reactive Mercury                                     |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | CRM                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ANOMALOUS MATERIAL / TEMPORAL REACTIVE LIQUID METAL         |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T RECOVERY / TEMPORAL ARTIFACT DERIVATIVE STUDY         |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Temporal Analysis Desk / Materials Custody                  |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Kurokawa Site Command, Object Containment, O5 Oversight     |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / VAULT-RESTRICTED / STASIS-FIELD STORED             |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | HAZARDOUS / TEMPORAL IMPRINT AND LIQUID METAL TOXICITY      |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for observation; Level 5 for flask transfer,        |
-|                            | Stop-Watch access, or stasis-field configuration            |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-044 |
+| TECHNOLOGY NAME | Causal-Reactive Mercury |
+| SHORT NAME | CRM |
+| TECHNOLOGY FAMILY | ANOMALOUS MATERIAL / TEMPORAL REACTIVE LIQUID METAL |
+| ORIGIN | A.C.T RECOVERY / TEMPORAL ARTIFACT DERIVATIVE STUDY |
+| PRIMARY CONTROLLER | Temporal Analysis Desk / Materials Custody |
+| ATTACHED DIVISIONS | Kurokawa Site Command, Object Containment, O5 Oversight |
+| OPERATIONAL STATUS | ACTIVE / VAULT-RESTRICTED / STASIS-FIELD STORED |
+| RISK STATUS | HAZARDOUS / TEMPORAL IMPRINT AND LIQUID METAL TOXICITY |
+| CLEARANCE REQUIRED | Level 4 for observation; Level 5 for flask transfer, Stop-Watch access, or stasis-field configuration |
 
-**Archive Status:** Active Temporal Material Technology Record  
-**Distribution:** Temporal Analysis / Materials Custody / Kurokawa / Object Containment / O5 Oversight  
-**Authority:** Temporal Analysis Desk, Materials Custody, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Temporal Material Technology Record |
+| DISTRIBUTION | Temporal Analysis / Materials Custody / Kurokawa / Object Containment / O5 Oversight |
+| AUTHORITY | Temporal Analysis Desk, Materials Custody, and Central Archive |
 
 #### Archive Note
 Causal-Reactive Mercury is the forty-fourth main A.C.T technology expanded into an individual record. The Master Catalog defines it as liquid metal that flows in reverse-chronological order in the presence of temporal fluctuations. The visual guide describes silver liquid held in magnetic-containment flasks with stasis-field generators to prevent the liquid from curling or falling upward. Stop-Watch files identify CRM as the internal material filling the ornate golden pocket-watch AFD-TI-560, whose crown can suspend time for exactly sixty seconds and whose second hand regresses during the seven-day recovery phase.

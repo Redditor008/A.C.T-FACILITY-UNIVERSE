@@ -3,13 +3,15 @@
 ## ACT-SITE-03-JP-E — Kurokawa Archive Node
 ## Eastern Japan
 
-**Archive Status:** Active
-**Distribution:** Internal / Command / Archive / Intelligence / Research
-**Authority:** Central Archive / Site Governance Review / Administration
-**File Class:** Floor Dossier — Individual Level Record
-**Dossier Number:** FLOOR-DOSSIER-03-JP-E-F-3
-**Compiled By:** Central Archive, Site Records Office
-**Compilation Standard:** ACT Site Registry File Standard / ACT Floor Record Standard
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal / Command / Archive / Intelligence / Research |
+| AUTHORITY | Central Archive / Site Governance Review / Administration |
+| FILE CLASS | Floor Dossier — Individual Level Record |
+| DOSSIER NUMBER | FLOOR-DOSSIER-03-JP-E-F-3 |
+| COMPILED BY | Central Archive, Site Records Office |
+| COMPILATION STANDARD | ACT Site Registry File Standard / ACT Floor Record Standard |
 
 ---
 

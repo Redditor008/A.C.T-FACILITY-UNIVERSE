@@ -1,12 +1,25 @@
 TECH-GOI-051-2 - MYSTERIOUS GUILD REGISTRY MAINTENANCE CONTACT SYSTEM
 
-Technology Designation: TECH-GOI-051-2
-Technology Name: Mysterious Guild Registry Maintenance Contact System
-Common Abbreviations: Guild Registry / Maintenance Contact Logic / Registry Signal
-Origin: Mysterious Guild
-Acquisition Status: Recovered equipment message and archive references; no live contact authorized
-Primary A.C.T Interest: Future-origin device isolation, contact prevention, maintenance-command analysis, registry signal tracing
-Archive Handling: GUILD REGISTRY CONTACT RESTRICTED / AIR-GAP REQUIRED
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-051-2                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Mysterious Guild Registry Maintenance Contact System        |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | Guild Registry / Maintenance Contact Logic / Registry       |
+|                            | Signal                                                      |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | Mysterious Guild                                            |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Recovered equipment message and archive references; no live |
+|                            | contact authorized                                          |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Future-origin device isolation, contact prevention,         |
+|                            | maintenance-command analysis, registry signal tracing       |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | GUILD REGISTRY CONTACT RESTRICTED / AIR-GAP REQUIRED        |
++----------------------------+-------------------------------------------------------------+
 
 Functional Identity
 

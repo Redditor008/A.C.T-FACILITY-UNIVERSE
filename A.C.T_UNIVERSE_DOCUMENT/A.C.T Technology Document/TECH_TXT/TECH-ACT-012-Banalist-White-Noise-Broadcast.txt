@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - BANALIST WHITE-NOISE BROADCAST
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-012
-TECHNOLOGY NAME: Banalist White-Noise Broadcast
-SHORT NAME: BWB
-TECHNOLOGY FAMILY: CONTAINMENT / ACOUSTIC / NARRATIVE SUPPRESSION
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Containment Division / Civil Covert Division
-ATTACHED DIVISIONS: Engineering, Site Command, Archive, Medical, Security
-OPERATIONAL STATUS: ACTIVE / SITE-WIDE WHERE INSTALLED / RESTRICTED TUNING
-RISK STATUS: CONTROLLED / HAZARDOUS IF OVERLOUD, PATTERNED, OR LEAKING
-CLEARANCE REQUIRED: Level 3 for operation; Level 4 for manifest libraries, pattern-randomizer access, and site-wide emergency tuning
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-012                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Banalist White-Noise Broadcast                              |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | BWB                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | CONTAINMENT / ACOUSTIC / NARRATIVE SUPPRESSION              |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Containment Division / Civil Covert Division                |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Engineering, Site Command, Archive, Medical, Security       |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / SITE-WIDE WHERE INSTALLED / RESTRICTED TUNING      |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF OVERLOUD, PATTERNED, OR LEAKING   |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for operation; Level 4 for manifest libraries,      |
+|                            | pattern-randomizer access, and site-wide emergency tuning   |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Containment Technology Record
 Distribution: Containment / Civil Covert / Engineering / Site Command / Security / Medical

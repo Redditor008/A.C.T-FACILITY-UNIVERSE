@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - GOLD-TIPPED MINING DRILLS
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-027
-TECHNOLOGY NAME: Gold-Tipped Mining Drills
-SHORT NAME: GTMD
-TECHNOLOGY FAMILY: ENGINEERING / DARK WORLD MODIFICATION / MATERIAL BORING
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Engineering Division / Dark World Survey
-ATTACHED DIVISIONS: Materials Custody, Recovery, Site Infrastructure, Medical
-OPERATIONAL STATUS: ACTIVE / RESTRICTED / GOLD-CONSUMING TOOLCHAIN
-RISK STATUS: CONTROLLED / HAZARDOUS IF MISALIGNED OR CONTAMINATED
-CLEARANCE REQUIRED: Level 4 for operation; Level 5 for Dark World architecture, Pale Wood modification plans, and recovered core samples
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-027                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Gold-Tipped Mining Drills                                   |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | GTMD                                                        |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | ENGINEERING / DARK WORLD MODIFICATION / MATERIAL BORING     |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Engineering Division / Dark World Survey                    |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Materials Custody, Recovery, Site Infrastructure, Medical   |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / GOLD-CONSUMING TOOLCHAIN              |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF MISALIGNED OR CONTAMINATED        |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for operation; Level 5 for Dark World architecture, |
+|                            | Pale Wood modification plans, and recovered core samples    |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Engineering Technology Record
 Distribution: Engineering / Dark World Survey / Materials Custody / Recovery / Site Infrastructure

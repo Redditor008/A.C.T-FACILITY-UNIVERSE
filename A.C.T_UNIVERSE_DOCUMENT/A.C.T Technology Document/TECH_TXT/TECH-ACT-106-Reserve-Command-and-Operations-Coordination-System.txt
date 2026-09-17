@@ -1,17 +1,31 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - RESERVE COMMAND AND OPERATIONS COORDINATION SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-106
-TECHNOLOGY NAME: Reserve Command and Operations Coordination System
-SHORT NAME: RCOCS
-TECHNOLOGY FAMILY: SITE COMMAND / WILDERNESS OPERATIONS / SECURITY CONTROL
-ORIGIN: VERDE NULL BIO-RESERVE F-4 PERSONNEL AND OPERATIONS LEVEL
-PRIMARY CONTROLLER: Site Director / Reserve Operations Command
-ATTACHED DIVISIONS: Administration, Security, Environmental Containment, Research, Medical, Recovery
-OPERATIONAL STATUS: ACTIVE / RESERVE COMMAND INFRASTRUCTURE
-RISK STATUS: COMMAND DRIFT / SECTOR DELAY / BOUNDARY RESPONSE FAILURE
-CLEARANCE REQUIRED: Level 3 for operations duty; Level 4 for command routing, sector incident control, or cross-site escalation
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-106                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Reserve Command and Operations Coordination System          |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | RCOCS                                                       |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | SITE COMMAND / WILDERNESS OPERATIONS / SECURITY CONTROL     |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | VERDE NULL BIO-RESERVE F-4 PERSONNEL AND OPERATIONS LEVEL   |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Site Director / Reserve Operations Command                  |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Administration, Security, Environmental Containment,        |
+|                            | Research, Medical, Recovery                                 |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESERVE COMMAND INFRASTRUCTURE                     |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | COMMAND DRIFT / SECTOR DELAY / BOUNDARY RESPONSE FAILURE    |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for operations duty; Level 4 for command routing,   |
+|                            | sector incident control, or cross-site escalation           |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Verde Null Command Technology Record
 Distribution: Verde Null Bio-Reserve / Command / Security / Environmental Containment / Recovery / Archive

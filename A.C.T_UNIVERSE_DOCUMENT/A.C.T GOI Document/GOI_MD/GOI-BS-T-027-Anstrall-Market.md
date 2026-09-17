@@ -1,69 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - ANSTRALL MARKET
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-BS-T-027                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Anstrall Market                                             |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | No universal operational abbreviation retained              |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Market references vary by broker, route, and transaction;   |
-|                            | Anstrall is the stable identifier                           |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | BUSINESS                                                    |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | TRADE                                                       |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | TRANSNATIONAL                                               |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | HANDLER                                                     |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 3                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | EXPOSURE-ACTIVE                                             |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | MONITOR / APPROPRIATE                                       |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | A mysterious individual known only as Anstrall              |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Brokers, handlers, sellers, and buyers; no reliable single  |
-|                            | census                                                      |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Transnational; route locations held in restricted           |
-|                            | trade-interdiction material                                 |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Broker relationships, handlers, temporary storage, trade    |
-|                            | routes, and cover identities                                |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Distributed exchange, storage, and transit nodes; no        |
-|                            | permanent market center confirmed                           |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | Profit, leverage, and access through anomalous trade        |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Recurrent trade-interdiction relationship; earliest common  |
-|                            | contact remains restricted                                  |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | No permanent group-wide anomaly cross-reference; consult    |
-|                            | object-custody chains                                       |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - mobile commercial network                          |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division / Trade Interdiction Desk             |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | ACT-SITE-01-US-W / Redwood Veil Complex, with               |
-|                            | route-specific Site transfer                                |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for controlled market operations           |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-BS-T-027 |
+| COMMON NAME | Anstrall Market |
+| SHORT NAME | No universal operational abbreviation retained |
+| KNOWN ALIASES | Market references vary by broker, route, and transaction; Anstrall is the stable identifier |
+| NATURE CLASS | BUSINESS |
+| ALIGNMENT CLASS | TRADE |
+| REACH CLASS | TRANSNATIONAL |
+| ANOMALOUS CAPABILITY | HANDLER |
+| THREAT LEVEL | 3 |
+| SECRECY RISK | EXPOSURE-ACTIVE |
+| A.C.T POSTURE | MONITOR / APPROPRIATE |
+| KNOWN LEADERSHIP | A mysterious individual known only as Anstrall |
+| KNOWN MEMBERSHIP | Brokers, handlers, sellers, and buyers; no reliable single census |
+| PRIMARY ACTIVE REGION | Transnational; route locations held in restricted trade-interdiction material |
+| KNOWN ASSETS | Broker relationships, handlers, temporary storage, trade routes, and cover identities |
+| KNOWN HOLDINGS | Distributed exchange, storage, and transit nodes; no permanent market center confirmed |
+| IDEOLOGY | Profit, leverage, and access through anomalous trade |
+| HISTORY WITH A.C.T | Recurrent trade-interdiction relationship; earliest common contact remains restricted |
+| ANOMALY CROSS-REFERENCE | No permanent group-wide anomaly cross-reference; consult object-custody chains |
+| CURRENT STATUS | ACTIVE - mobile commercial network |
+| PRIMARY FILE AUTHORITY | Intelligence Division / Trade Interdiction Desk |
+| SITE JURISDICTION | ACT-SITE-01-US-W / Redwood Veil Complex, with route-specific Site transfer |
+| CLEARANCE REQUIRED | Level 4; Level 5 for controlled market operations |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Intelligence / Recovery / Containment / Civil Covert / Command
-**Authority:** Intelligence Division, Trade Interdiction Desk, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Intelligence / Recovery / Containment / Civil Covert / Command |
+| AUTHORITY | Intelligence Division, Trade Interdiction Desk, and Central Archive |
 
 #### Archive Note
 The Anstrall Market is a transnational black-market structure specializing in the movement and sale of anomalous objects to the highest bidder. It is governed by an enigmatic figure known only as **Anstrall**. The Market is commercially useful, ethically unstable, and persistently dangerous to both containment and secrecy.

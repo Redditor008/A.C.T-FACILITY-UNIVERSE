@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - WITNESS PROCESSING AND SANITATION SUITES
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-089                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Witness Processing and Sanitation Suites                    |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | WPSS                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | WITNESS PROCESSING / MEDICAL ASSESSMENT / NARRATIVE RETURN |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | GLASS ORCHARD RELAY F-2 WITNESS PROCESSING SUITES          |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Processing Officer / Medical Lead                           |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Medical, Security, Limited Archive, Recovery Support        |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / CONTROLLED WITNESS WORK                            |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | MEMORY HARM / NARRATIVE MISMATCH / FACILITY EXPOSURE RISK  |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for suite operation; Level 4 for amnestic approval, |
-|                            | assimilation decision, or parent-site policy exception      |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-089 |
+| TECHNOLOGY NAME | Witness Processing and Sanitation Suites |
+| SHORT NAME | WPSS |
+| TECHNOLOGY FAMILY | WITNESS PROCESSING / MEDICAL ASSESSMENT / NARRATIVE RETURN |
+| ORIGIN | GLASS ORCHARD RELAY F-2 WITNESS PROCESSING SUITES |
+| PRIMARY CONTROLLER | Processing Officer / Medical Lead |
+| ATTACHED DIVISIONS | Medical, Security, Limited Archive, Recovery Support |
+| OPERATIONAL STATUS | ACTIVE / CONTROLLED WITNESS WORK |
+| RISK STATUS | MEMORY HARM / NARRATIVE MISMATCH / FACILITY EXPOSURE RISK |
+| CLEARANCE REQUIRED | Level 3 for suite operation; Level 4 for amnestic approval, assimilation decision, or parent-site policy exception |
 
-**Archive Status:** Active Witness Processing Technology Record
-**Distribution:** Glass Orchard Relay / Redwood Veil Complex / Medical / Security / Limited Archive / Recovery Support
-**Authority:** Processing Officer, Medical Lead, Sub-Site Chief, Redwood Veil Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Witness Processing Technology Record |
+| DISTRIBUTION | Glass Orchard Relay / Redwood Veil Complex / Medical / Security / Limited Archive / Recovery Support |
+| AUTHORITY | Processing Officer, Medical Lead, Sub-Site Chief, Redwood Veil Site Command, and Central Archive |
 
 #### Archive Note
 Witness Processing and Sanitation Suites are the eighty-ninth main A.C.T technology expanded into an individual record. The Glass Orchard Relay dossier states that the relay began as a covert witness routing point and continues to function as a witness processing and sanitation center. The F-2 Processing and Staging Level dossier identifies the witness processing suites as a core space where witnesses are received, assessed, interviewed, sanitized where required, and routed without approaching the parent site's deeper installations.

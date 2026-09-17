@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - ECTOTHERMIC REGENERATION GEL
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-036
-TECHNOLOGY NAME: Ectothermic Regeneration Gel
-SHORT NAME: ERG
-TECHNOLOGY FAMILY: MEDICAL / REPTILIAN CARE / NB-CLASS TISSUE SUPPORT
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Medical Division / Biological Subject Care Desk
-ATTACHED DIVISIONS: Verde Null, Herpetology Review, Transformation Review
-OPERATIONAL STATUS: ACTIVE / MEDICAL SUPPORT / CASE-RESTRICTED
-RISK STATUS: CONTROLLED / METABOLIC-ACCELERATION HAZARD
-CLEARANCE REQUIRED: Level 3 for application; Level 4 for formulation access; Level 5 for transmutation-repair experimentation
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-036                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Ectothermic Regeneration Gel                                |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | ERG                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | MEDICAL / REPTILIAN CARE / NB-CLASS TISSUE SUPPORT          |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Medical Division / Biological Subject Care Desk             |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Verde Null, Herpetology Review, Transformation Review       |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / MEDICAL SUPPORT / CASE-RESTRICTED                  |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / METABOLIC-ACCELERATION HAZARD                  |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for application; Level 4 for formulation access;    |
+|                            | Level 5 for transmutation-repair experimentation            |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Biological Medical Technology Record
 Distribution: Medical / Verde Null / Subject Care / Herpetology Review / Transformation Review

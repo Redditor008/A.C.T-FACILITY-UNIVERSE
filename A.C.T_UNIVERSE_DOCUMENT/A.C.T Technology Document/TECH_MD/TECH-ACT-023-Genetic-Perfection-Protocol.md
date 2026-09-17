@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - GENETIC PERFECTION PROTOCOL
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-023                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Genetic Perfection Protocol                                 |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | GPP                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | MEDICAL / TRANSMUTATION REPAIR / BIOLOGICAL RESTORATION     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Medical Division / Transformation Review Board              |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Engineering, Biological Containment, Site Command, Ethics   |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / PATIENT-SPECIFIC                      |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF OVERCORRECTIVE OR MISDIAGNOSED   |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for use; Level 5 for viral-vector libraries,        |
-|                            | rapid full-body rewrite response, and irreversible changes  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-023 |
+| TECHNOLOGY NAME | Genetic Perfection Protocol |
+| SHORT NAME | GPP |
+| TECHNOLOGY FAMILY | MEDICAL / TRANSMUTATION REPAIR / BIOLOGICAL RESTORATION |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Medical Division / Transformation Review Board |
+| ATTACHED DIVISIONS | Engineering, Biological Containment, Site Command, Ethics |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / PATIENT-SPECIFIC |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF OVERCORRECTIVE OR MISDIAGNOSED |
+| CLEARANCE REQUIRED | Level 4 for use; Level 5 for viral-vector libraries, rapid full-body rewrite response, and irreversible changes |
 
-**Archive Status:** Active Medical Technology Record  
-**Distribution:** Medical / Transformation Review / Biological Containment / Engineering / Site Command  
-**Authority:** Medical Division, Transformation Review Board, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Medical Technology Record |
+| DISTRIBUTION | Medical / Transformation Review / Biological Containment / Engineering / Site Command |
+| AUTHORITY | Medical Division, Transformation Review Board, and Central Archive |
 
 #### Archive Note
 The Genetic Perfection Protocol is the twenty-third main A.C.T technology expanded into an individual record. The Master Catalog defines it as an automated medical bay using targeted viral vectors to mend genetic flaws or transmutation-linked cellular decay. The technological timeline records 2023 as the deployment of automated medical suites designed to mend total DNA-level rewrites in under five minutes. The visual guide describes a large egg-shaped medical pod with a clear glass lid, internal laser-point bio-scanners that map DNA in real time, biological scrubbers cycling pink mist every sixty seconds, and a side display showing Mending Progress and a redacted bloodstream concentration.

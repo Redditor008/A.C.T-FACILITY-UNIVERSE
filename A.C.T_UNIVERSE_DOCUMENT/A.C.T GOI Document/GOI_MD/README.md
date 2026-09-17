@@ -1,8 +1,10 @@
 # A.C.T. Groups of Interest - Archive and Development Folder
 
-**Status:** Three expanded source-anchored registry dossiers, three registry-integrated original dossiers, two anomaly-anchored pending dossiers, one Missing 404 observation dossier, three new corporate dossiers, four new government dossiers, three new cultic dossiers, three apocalypse-related dossiers, four new market dossiers, four allied/hostile containment dossiers, and one retained twenty-slot structural scaffold whose names/designations are not active canon.
-**Scope:** Independent A.C.T. core universe only.
-**Implementation status:** No live wiki work has begun.
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| STATUS | Three expanded source-anchored registry dossiers, three registry-integrated original dossiers, two anomaly-anchored pending dossiers, one Missing 404 observation dossier, three new corporate dossiers, four new government dossiers, three new cultic dossiers, three apocalypse-related dossiers, four new market dossiers, four allied/hostile containment dossiers, and one retained twenty-slot structural scaffold whose names/designations are not active canon. |
+| SCOPE | Independent A.C.T. core universe only. |
+| IMPLEMENTATION STATUS | No live wiki work has begun. |
 
 ---
 

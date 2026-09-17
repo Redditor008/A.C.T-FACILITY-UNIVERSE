@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - SPECTRAL VIBRATION SENSORS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-021                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Spectral Vibration Sensors                                  |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SVS                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ARCHIVAL / ACOUSTIC DETECTION / NARRATIVE EARLY WARNING     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Archive Division / Info-Hazard Division                     |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Containment, Engineering, Site Command, Security, CSG Desk  |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / FIXED SENSOR / RESTRICTED CALIBRATION              |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF IGNORED, SPOOFED, OR OVERTUNED   |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for monitoring; Level 4 for narrative-tempo         |
-|                            | calibration, script-manifestation response, and log access  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-021 |
+| TECHNOLOGY NAME | Spectral Vibration Sensors |
+| SHORT NAME | SVS |
+| TECHNOLOGY FAMILY | ARCHIVAL / ACOUSTIC DETECTION / NARRATIVE EARLY WARNING |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Archive Division / Info-Hazard Division |
+| ATTACHED DIVISIONS | Containment, Engineering, Site Command, Security, CSG Desk |
+| OPERATIONAL STATUS | ACTIVE / FIXED SENSOR / RESTRICTED CALIBRATION |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF IGNORED, SPOOFED, OR OVERTUNED |
+| CLEARANCE REQUIRED | Level 3 for monitoring; Level 4 for narrative-tempo calibration, script-manifestation response, and log access |
 
-**Archive Status:** Active Early-Warning Technology Record  
-**Distribution:** Archive / Info-Hazard / Containment / Engineering / Site Command / Security  
-**Authority:** Archive Division, Info-Hazard Division, Engineering Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Early-Warning Technology Record |
+| DISTRIBUTION | Archive / Info-Hazard / Containment / Engineering / Site Command / Security |
+| AUTHORITY | Archive Division, Info-Hazard Division, Engineering Division, and Central Archive |
 
 #### Archive Note
 Spectral Vibration Sensors are the twenty-first main A.C.T technology expanded into an individual record. The Master Catalog identifies them as early-warning sensors tuned to detect the acoustic leaking of narrative scripts or song-based anomalies. The visual guide describes wall-mounted boxes with a sensitivity calibrator dial, a bone-white needle behind glass, a digital warning light that flashes amber when script-manifestation is imminent, and a low metallic clicking sound as the needle moves. Earlier technology records distinguish SVS from Causal Static Generators: SVS detects song or script leakage; CSG suppresses certain narrative escalations after detection.

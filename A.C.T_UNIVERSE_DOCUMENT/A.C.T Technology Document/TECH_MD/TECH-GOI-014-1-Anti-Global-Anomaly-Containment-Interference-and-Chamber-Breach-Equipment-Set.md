@@ -1,28 +1,14 @@
 # TECH-GOI-014-1 - ANTI-GLOBAL ANOMALY CONTAINMENT INTERFERENCE AND CHAMBER BREACH EQUIPMENT SET
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-014-1                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Anti-Global Anomaly Containment Interference and Chamber    |
-|                            | Breach Equipment Set                                        |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Breach Set / Containment Interference Kit / A-GA Entry Gear |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Anti-Global Anomaly                                         |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Recovered from cell workshops, interdicted routes, and      |
-|                            | post-incident scenes; no complete cell inventory held       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Chamber integrity assessment, breach-tool failure analysis, |
-|                            | procurement pattern detection, secondary-risk triage        |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | STRATEGIC INTERDICTION RESTRICTED / LEVEL 5 ENGINEERING AND |
-|                            | CONTAINMENT JOINT REVIEW                                    |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-014-1 |
+| TECHNOLOGY NAME | Anti-Global Anomaly Containment Interference and Chamber Breach Equipment Set |
+| COMMON ABBREVIATIONS | Breach Set / Containment Interference Kit / A-GA Entry Gear |
+| ORIGIN | Anti-Global Anomaly |
+| ACQUISITION STATUS | Recovered from cell workshops, interdicted routes, and post-incident scenes; no complete cell inventory held |
+| PRIMARY A.C.T INTEREST | Chamber integrity assessment, breach-tool failure analysis, procurement pattern detection, secondary-risk triage |
+| ARCHIVE HANDLING | STRATEGIC INTERDICTION RESTRICTED / LEVEL 5 ENGINEERING AND CONTAINMENT JOINT REVIEW |
 
 ## Functional Identity
 

@@ -1,17 +1,31 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - ARTIFACT-INFLUENCE ISOLATION SUITES
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-060
-TECHNOLOGY NAME: Artifact-Influence Isolation Suites
-SHORT NAME: AIIS
-TECHNOLOGY FAMILY: MEDICAL ISOLATION / COGNITIVE CARE / PERSONNEL SAFETY
-ORIGIN: REDWOOD VEIL F-6 MEDICAL AND COGNITIVE CARE PROGRAM
-PRIMARY CONTROLLER: Medical Division / Chief Medical Officer
-ATTACHED DIVISIONS: Containment, Research, Security, Archive
-OPERATIONAL STATUS: ACTIVE / CLINICAL ISOLATION / CONFIDENTIAL
-RISK STATUS: PATIENT INFLUENCE / COGNITIVE CONTAMINATION / CARE BREACH
-CLEARANCE REQUIRED: Medical authorization plus applicable restriction clearance; Level 4 for active anomalous influence escalation
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-060                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Artifact-Influence Isolation Suites                         |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | AIIS                                                        |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | MEDICAL ISOLATION / COGNITIVE CARE / PERSONNEL SAFETY       |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | REDWOOD VEIL F-6 MEDICAL AND COGNITIVE CARE PROGRAM         |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Medical Division / Chief Medical Officer                    |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Containment, Research, Security, Archive                    |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / CLINICAL ISOLATION / CONFIDENTIAL                  |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | PATIENT INFLUENCE / COGNITIVE CONTAMINATION / CARE BREACH   |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Medical authorization plus applicable restriction           |
+|                            | clearance; Level 4 for active anomalous influence           |
+|                            | escalation                                                  |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Medical Containment Technology Record
 Distribution: Medical / Containment / Research / Security / Archive

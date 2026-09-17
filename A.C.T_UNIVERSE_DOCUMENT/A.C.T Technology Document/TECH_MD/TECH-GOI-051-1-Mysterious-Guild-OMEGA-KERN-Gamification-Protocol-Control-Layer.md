@@ -1,27 +1,14 @@
 # TECH-GOI-051-1 - MYSTERIOUS GUILD OMEGA-KERN GAMIFICATION PROTOCOL CONTROL LAYER
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-051-1                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Mysterious Guild OMEGA-KERN Gamification Protocol Control   |
-|                            | Layer                                                       |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | OMEGA-KERN / Gamification Protocol / Guild Combat Interface |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Mysterious Guild                                            |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Recovered record evidence and VESPER-linked operational     |
-|                            | restrictions; no safe reproduction authorized               |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Subject-care protection, coercive interface suppression,    |
-|                            | future-origin software containment, tactical deconditioning |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | GUILD LEASH RESTRICTED / SUBJECT CARE HARD LIMIT            |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-051-1 |
+| TECHNOLOGY NAME | Mysterious Guild OMEGA-KERN Gamification Protocol Control Layer |
+| COMMON ABBREVIATIONS | OMEGA-KERN / Gamification Protocol / Guild Combat Interface |
+| ORIGIN | Mysterious Guild |
+| ACQUISITION STATUS | Recovered record evidence and VESPER-linked operational restrictions; no safe reproduction authorized |
+| PRIMARY A.C.T INTEREST | Subject-care protection, coercive interface suppression, future-origin software containment, tactical deconditioning |
+| ARCHIVE HANDLING | GUILD LEASH RESTRICTED / SUBJECT CARE HARD LIMIT |
 
 ## Functional Identity
 

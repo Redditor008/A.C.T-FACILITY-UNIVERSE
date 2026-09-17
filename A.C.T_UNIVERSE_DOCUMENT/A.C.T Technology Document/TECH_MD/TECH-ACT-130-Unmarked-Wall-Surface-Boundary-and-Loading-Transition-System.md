@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - UNMARKED WALL SURFACE BOUNDARY AND LOADING TRANSITION SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-130                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Unmarked Wall Surface Boundary and Loading Transition System|
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | UWSBLTS                                                     |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | SURFACE BOUNDARY / LOADING TRANSITION / CONCEALED SCREENING|
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | REDWOOD VEIL COMPLEX F-9 SURFACE TRANSITION LEVEL          |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Boundary Chief / Security Division Boundary Command         |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Security, Recovery, Administration, Logistics               |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / UNBREACHED SURFACE-TO-CORE BOUNDARY                |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | WALL BREACH / SCREENING FAILURE / LOADING INTAKE VIOLATION |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Boundary-control access; buried-core transition authority   |
-|                            | for personnel, vehicles, shipments, and elevator movement  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-130 |
+| TECHNOLOGY NAME | Unmarked Wall Surface Boundary and Loading Transition System |
+| SHORT NAME | UWSBLTS |
+| TECHNOLOGY FAMILY | SURFACE BOUNDARY / LOADING TRANSITION / CONCEALED SCREENING |
+| ORIGIN | REDWOOD VEIL COMPLEX F-9 SURFACE TRANSITION LEVEL |
+| PRIMARY CONTROLLER | Boundary Chief / Security Division Boundary Command |
+| ATTACHED DIVISIONS | Security, Recovery, Administration, Logistics |
+| OPERATIONAL STATUS | ACTIVE / UNBREACHED SURFACE-TO-CORE BOUNDARY |
+| RISK STATUS | WALL BREACH / SCREENING FAILURE / LOADING INTAKE VIOLATION |
+| CLEARANCE REQUIRED | Boundary-control access; buried-core transition authority for personnel, vehicles, shipments, and elevator movement |
 
-**Archive Status:** Active Redwood Veil Boundary Technology Record
-**Distribution:** Redwood Veil Complex / Security / Recovery / Administration / Logistics
-**Authority:** Boundary Chief, Security Division, Site Director, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Redwood Veil Boundary Technology Record |
+| DISTRIBUTION | Redwood Veil Complex / Security / Recovery / Administration / Logistics |
+| AUTHORITY | Boundary Chief, Security Division, Site Director, and Central Archive |
 
 #### Archive Note
 Unmarked Wall Surface Boundary and Loading Transition System is the one-hundred-thirtieth main A.C.T technology expanded into an individual record. The Redwood Veil F-9 Surface Transition Level dossier identifies F-9 as the uppermost operational level of the buried core, handling vehicle screening, delivery intake, loading bay processing, and the primary elevator bank between legitimate campus and buried facility. It records the unmarked wall separating civilian and Facility activity, concealed boundary monitoring, loading bay screening, communication separation, and doctrine that the surface boundary is the first containment line.

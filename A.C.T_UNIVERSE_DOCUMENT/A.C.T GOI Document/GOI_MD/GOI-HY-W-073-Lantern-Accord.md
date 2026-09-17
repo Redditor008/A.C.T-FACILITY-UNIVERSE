@@ -1,77 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - LANTERN ACCORD
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-HY-W-073                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Lantern Accord                                              |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | LTA                                                         |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | The Lantern Table; Accord of Lit Doors; Yellow Signal       |
-|                            | Compact; Last Lantern Conference; [CENSOR: SIGNATORY SEAT] |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | HYBRID                                                      |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | WORK                                                        |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | TRANSNATIONAL                                               |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | CONTAINMENT                                                 |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 3                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | LEAKING                                                     |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | COOPERATED / MONITOR / MISDIRECT / APPROPRIATE             |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Signatory Seats, Lantern Marshals, Accord Clerks, Safe-Line |
-|                            | arbiters, and crisis delegates                              |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Independent containment houses, municipal response cells,   |
-|                            | hospital wards, border teams, retired field officers,       |
-|                            | technical custodians, and treaty witnesses                  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Transnational crisis corridors, temporary safe lines,       |
-|                            | signatory rooms, emergency warehouses, and neutral depots   |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Lantern beacons, yellow-line warrants, accord seals,        |
-|                            | neutral keys, safe-line maps, crisis rooms, and ceasefire   |
-|                            | ledgers                                                     |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Signatory depots, neutral handover rooms, beacon towers,    |
-|                            | mobile accord tents, locked map cabinets, and relay vans    |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | When abnormal danger crosses jurisdictions, rival keepers   |
-|                            | must hold the line first and argue ownership after lives    |
-|                            | are no longer burning                                      |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Repeated work contact through temporary ceasefires, joint   |
-|                            | evacuations, handover disputes, breach signaling, and       |
-|                            | multi-GOI corridor control                                  |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | Restricted breach, evacuation, multi-agency containment,    |
-|                            | beacon, neutral corridor, handover, and temporary accord    |
-|                            | case chains                                                 |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - work relationship containment accord under review  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division / Containment / Legal / Field Command |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with Site 01, Site 02, Site 03, and crisis  |
-|                            | command attachment                                          |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for signatory lists, beacon codes, neutral |
-|                            | line maps, accord violations, and A.C.T crisis concessions  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-HY-W-073 |
+| COMMON NAME | Lantern Accord |
+| SHORT NAME | LTA |
+| KNOWN ALIASES | The Lantern Table; Accord of Lit Doors; Yellow Signal Compact; Last Lantern Conference; [CENSOR: SIGNATORY SEAT] |
+| NATURE CLASS | HYBRID |
+| ALIGNMENT CLASS | WORK |
+| REACH CLASS | TRANSNATIONAL |
+| ANOMALOUS CAPABILITY | CONTAINMENT |
+| THREAT LEVEL | 3 |
+| SECRECY RISK | LEAKING |
+| A.C.T POSTURE | COOPERATED / MONITOR / MISDIRECT / APPROPRIATE |
+| KNOWN LEADERSHIP | Signatory Seats, Lantern Marshals, Accord Clerks, Safe-Line arbiters, and crisis delegates |
+| KNOWN MEMBERSHIP | Independent containment houses, municipal response cells, hospital wards, border teams, retired field officers, technical custodians, and treaty witnesses |
+| PRIMARY ACTIVE REGION | Transnational crisis corridors, temporary safe lines, signatory rooms, emergency warehouses, and neutral depots |
+| KNOWN ASSETS | Lantern beacons, yellow-line warrants, accord seals, neutral keys, safe-line maps, crisis rooms, and ceasefire ledgers |
+| KNOWN HOLDINGS | Signatory depots, neutral handover rooms, beacon towers, mobile accord tents, locked map cabinets, and relay vans |
+| IDEOLOGY | When abnormal danger crosses jurisdictions, rival keepers must hold the line first and argue ownership after lives are no longer burning |
+| HISTORY WITH A.C.T | Repeated work contact through temporary ceasefires, joint evacuations, handover disputes, breach signaling, and multi-GOI corridor control |
+| ANOMALY CROSS-REFERENCE | Restricted breach, evacuation, multi-agency containment, beacon, neutral corridor, handover, and temporary accord case chains |
+| CURRENT STATUS | ACTIVE - work relationship containment accord under review |
+| PRIMARY FILE AUTHORITY | Intelligence Division / Containment / Legal / Field Command |
+| SITE JURISDICTION | Central Command with Site 01, Site 02, Site 03, and crisis command attachment |
+| CLEARANCE REQUIRED | Level 4; Level 5 for signatory lists, beacon codes, neutral line maps, accord violations, and A.C.T crisis concessions |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Intelligence / Containment / Legal / Field Command / Recovery / Command
-**Authority:** Intelligence Division, Containment Division, Legal Division, Field Command, Recovery Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Intelligence / Containment / Legal / Field Command / Recovery / Command |
+| AUTHORITY | Intelligence Division, Containment Division, Legal Division, Field Command, Recovery Division, and Central Archive |
 
 #### Archive Note
 Lantern Accord is the active hybrid filing for an outside containment compact used by multiple non-A.C.T organizations, municipal covert cells, private ward systems, route keepers, technical custodians, and crisis delegates to create temporary safe lines during abnormal emergencies. The Accord is not one government, not an A.C.T treaty office, not a charity, not a market, and not a single containment company. It is a standing agreement culture: light the beacon, name the hazard, hold the line, move civilians, postpone ownership fights, and record who broke the rules.

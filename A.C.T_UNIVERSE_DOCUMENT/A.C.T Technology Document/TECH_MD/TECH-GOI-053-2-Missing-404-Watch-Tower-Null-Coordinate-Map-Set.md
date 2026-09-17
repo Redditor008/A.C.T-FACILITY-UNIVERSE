@@ -1,26 +1,14 @@
 # TECH-GOI-053-2 - MISSING 404 WATCH TOWER NULL-COORDINATE MAP SET
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-053-2                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Missing 404 Watch Tower Null-Coordinate Map Set             |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Null-Coordinate Map / NCM / Failed-Route Map                |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Missing 404 Watch Tower                                     |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Cooperative field use and copied route extracts; original   |
-|                            | tower maps withheld                                         |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Absent-location navigation, recovery-route correction,      |
-|                            | map-failure comparison, field team survival                 |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | M404-WT ROUTE RESTRICTED / RECOVERY DIVISION CONTROL        |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-053-2 |
+| TECHNOLOGY NAME | Missing 404 Watch Tower Null-Coordinate Map Set |
+| COMMON ABBREVIATIONS | Null-Coordinate Map / NCM / Failed-Route Map |
+| ORIGIN | Missing 404 Watch Tower |
+| ACQUISITION STATUS | Cooperative field use and copied route extracts; original tower maps withheld |
+| PRIMARY A.C.T INTEREST | Absent-location navigation, recovery-route correction, map-failure comparison, field team survival |
+| ARCHIVE HANDLING | M404-WT ROUTE RESTRICTED / RECOVERY DIVISION CONTROL |
 
 ## Functional Identity
 

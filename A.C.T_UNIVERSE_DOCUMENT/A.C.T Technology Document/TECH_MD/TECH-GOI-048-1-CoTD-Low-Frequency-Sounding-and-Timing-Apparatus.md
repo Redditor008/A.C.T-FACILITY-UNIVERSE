@@ -1,30 +1,14 @@
 # TECH-GOI-048-1 - CHILDREN OF THE DEEP LOW-FREQUENCY SOUNDING AND TIMING APPARATUS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-048-1                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Children of the Deep Low-Frequency Sounding and Timing      |
-|                            | Apparatus                                                   |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Sounding Apparatus / CoTD Sound Rig / Timing Sheets         |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Children of the Deep                                        |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Intercepted during sounding material interdiction;          |
-|                            | equipment and timing sheets held, full procedure not        |
-|                            | reconstructed                                               |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Sleep-state interference prevention, acoustic escalation    |
-|                            | detection, target-contact interdiction, ritual efficacy     |
-|                            | assessment                                                  |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | TARGET-ANOMALY MATERIAL SEALED / LEVEL 5 CULTIC NETWORKS    |
-|                            | RESTRICTED                                                  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-048-1 |
+| TECHNOLOGY NAME | Children of the Deep Low-Frequency Sounding and Timing Apparatus |
+| COMMON ABBREVIATIONS | Sounding Apparatus / CoTD Sound Rig / Timing Sheets |
+| ORIGIN | Children of the Deep |
+| ACQUISITION STATUS | Intercepted during sounding material interdiction; equipment and timing sheets held, full procedure not reconstructed |
+| PRIMARY A.C.T INTEREST | Sleep-state interference prevention, acoustic escalation detection, target-contact interdiction, ritual efficacy assessment |
+| ARCHIVE HANDLING | TARGET-ANOMALY MATERIAL SEALED / LEVEL 5 CULTIC NETWORKS RESTRICTED |
 
 ## Functional Identity
 

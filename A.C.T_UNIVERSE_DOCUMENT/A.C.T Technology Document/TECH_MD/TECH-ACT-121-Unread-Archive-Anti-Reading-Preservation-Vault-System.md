@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - UNREAD ARCHIVE ANTI-READING PRESERVATION VAULT SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-121                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Unread Archive Anti-Reading Preservation Vault System       |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | UAARPV                                                      |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | UNREAD ARCHIVE / PRESERVATION VAULT / ANTI-READING CONTROL |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | KUROKAWA ARCHIVE NODE F-1 THE UNREAD ARCHIVE                |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Unread Archive Chief / Deep-Archive Command                 |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Archive, Security, Intelligence, Medical, Command           |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / MAXIMUM-SECURITY UNREADABLE ARCHIVE VAULTING       |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | UNCONTROLLED READING / PRESERVATION BREACH / ACCESS FAILURE|
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 5 for vault access; Site Director or above for        |
-|                            | release, restriction change, or direct content exposure     |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-121 |
+| TECHNOLOGY NAME | Unread Archive Anti-Reading Preservation Vault System |
+| SHORT NAME | UAARPV |
+| TECHNOLOGY FAMILY | UNREAD ARCHIVE / PRESERVATION VAULT / ANTI-READING CONTROL |
+| ORIGIN | KUROKAWA ARCHIVE NODE F-1 THE UNREAD ARCHIVE |
+| PRIMARY CONTROLLER | Unread Archive Chief / Deep-Archive Command |
+| ATTACHED DIVISIONS | Archive, Security, Intelligence, Medical, Command |
+| OPERATIONAL STATUS | ACTIVE / MAXIMUM-SECURITY UNREADABLE ARCHIVE VAULTING |
+| RISK STATUS | UNCONTROLLED READING / PRESERVATION BREACH / ACCESS FAILURE |
+| CLEARANCE REQUIRED | Level 5 for vault access; Site Director or above for release, restriction change, or direct content exposure |
 
-**Archive Status:** Active Kurokawa Deep-Archive Technology Record
-**Distribution:** Kurokawa Archive Node / Deep-Archive Command / Security / Intelligence / Medical
-**Authority:** Unread Archive Chief, Site Director, Archive Division Deep-Archive Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Kurokawa Deep-Archive Technology Record |
+| DISTRIBUTION | Kurokawa Archive Node / Deep-Archive Command / Security / Intelligence / Medical |
+| AUTHORITY | Unread Archive Chief, Site Director, Archive Division Deep-Archive Command, and Central Archive |
 
 #### Archive Note
 Unread Archive Anti-Reading Preservation Vault System is the one-hundred-twenty-first main A.C.T technology expanded into an individual record. The F-1 Unread Archive dossier identifies the deepest Kurokawa level as a maximum-security archive for material that must never be read, viewed, or fully understood. It records independent preservation vaults, anti-reading architecture, environmental and structural monitoring, a monitoring gallery that watches without reading, and a closure doctrine where uncontrolled reading is treated as an escape.

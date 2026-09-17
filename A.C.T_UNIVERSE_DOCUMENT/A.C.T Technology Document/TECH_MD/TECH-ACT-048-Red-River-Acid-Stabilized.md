@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - RED-RIVER ACID (STABILIZED)
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-048                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Red-River Acid (Stabilized)                                 |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | RRA-S                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ANOMALOUS CHEMICAL / DARK WORLD ACID / ETCHING AGENT        |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T STABILIZATION OF AFD-PL-932 RED RIVER MATERIAL        |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Hazardous Materials Desk / Dark World Survey                |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Engineering, Materials Custody, Medical, White Grave        |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / CERAMIC-JUG STORED                    |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | HAZARDOUS / CORROSIVE AND DIMENSIONAL CHEMICAL              |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for storage and transport; Level 5 for etching,     |
-|                            | neutralization use, sample exposure, and Dark World export  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-048 |
+| TECHNOLOGY NAME | Red-River Acid (Stabilized) |
+| SHORT NAME | RRA-S |
+| TECHNOLOGY FAMILY | ANOMALOUS CHEMICAL / DARK WORLD ACID / ETCHING AGENT |
+| ORIGIN | A.C.T STABILIZATION OF AFD-PL-932 RED RIVER MATERIAL |
+| PRIMARY CONTROLLER | Hazardous Materials Desk / Dark World Survey |
+| ATTACHED DIVISIONS | Engineering, Materials Custody, Medical, White Grave |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / CERAMIC-JUG STORED |
+| RISK STATUS | HAZARDOUS / CORROSIVE AND DIMENSIONAL CHEMICAL |
+| CLEARANCE REQUIRED | Level 4 for storage and transport; Level 5 for etching, neutralization use, sample exposure, and Dark World export |
 
-**Archive Status:** Active Anomalous Chemical Technology Record  
-**Distribution:** Hazardous Materials / Dark World Survey / Engineering / Materials Custody / Medical / White Grave  
-**Authority:** Hazardous Materials Desk, Dark World Survey, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Anomalous Chemical Technology Record |
+| DISTRIBUTION | Hazardous Materials / Dark World Survey / Engineering / Materials Custody / Medical / White Grave |
+| AUTHORITY | Hazardous Materials Desk, Dark World Survey, and Central Archive |
 
 #### Archive Note
 Red-River Acid (Stabilized) is the forty-eighth main A.C.T technology expanded into an individual record. The Master Catalog defines it as corrosive fluid with an approximately twenty percent hydrochloric-acid equivalent, used for specialized etching and neutralization protocols. The visual guide describes bubbling red liquid stored in a reinforced ceramic jug with a Neutralization-Tab Slot for emergency shutdown of reactivity. Dark World Door files identify the Red River as a deep red liquid that bisects the explored region of AFD-PL-932 and corrodes Earth-based organic tissue and materials. Expedition Pale-01 recorded that the river hums at low frequency and that Eel-Crabs crawl from its shallows.

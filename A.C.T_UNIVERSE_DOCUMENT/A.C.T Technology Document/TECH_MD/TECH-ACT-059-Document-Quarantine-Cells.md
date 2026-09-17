@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - DOCUMENT QUARANTINE CELLS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-059                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Document Quarantine Cells                                   |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | DQC                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ARCHIVE CONTAINMENT / INFORMATION-BORNE HAZARD ISOLATION    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | REDWOOD VEIL F-7 ARCHIVE QUARANTINE PROGRAM                 |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Archive Division / Floor Archivist                          |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Containment, Security, Recovery, Medical, Administration    |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / QNB-HARDENED / RESTRICTED ACCESS                   |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | INFORMATION-BORNE HAZARD / READER AND RECORD RISK          |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for custody support; Level 4 for cell opening,      |
-|                            | reading preparation, relocation, or quarantine release      |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-059 |
+| TECHNOLOGY NAME | Document Quarantine Cells |
+| SHORT NAME | DQC |
+| TECHNOLOGY FAMILY | ARCHIVE CONTAINMENT / INFORMATION-BORNE HAZARD ISOLATION |
+| ORIGIN | REDWOOD VEIL F-7 ARCHIVE QUARANTINE PROGRAM |
+| PRIMARY CONTROLLER | Archive Division / Floor Archivist |
+| ATTACHED DIVISIONS | Containment, Security, Recovery, Medical, Administration |
+| OPERATIONAL STATUS | ACTIVE / QNB-HARDENED / RESTRICTED ACCESS |
+| RISK STATUS | INFORMATION-BORNE HAZARD / READER AND RECORD RISK |
+| CLEARANCE REQUIRED | Level 3 for custody support; Level 4 for cell opening, reading preparation, relocation, or quarantine release |
 
-**Archive Status:** Active Archive Containment Technology Record  
-**Distribution:** Archive / Containment / Security / Recovery / Medical / Administration  
-**Authority:** Archive Division, Floor Archivist, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Archive Containment Technology Record |
+| DISTRIBUTION | Archive / Containment / Security / Recovery / Medical / Administration |
+| AUTHORITY | Archive Division, Floor Archivist, and Central Archive |
 
 #### Archive Note
 Document Quarantine Cells are the fifty-ninth main A.C.T technology expanded into an individual record. Redwood Veil's F-7 floor dossier identifies Central Archive and Records as the complex's document repository and states that it includes document quarantine cells where information-borne hazards are held. The dossier specifies that such cells contain documents that act on readers, rewrite themselves, or carry memetic content, keeping them out of the general repository. It also states that F-7 is QNB-hardened against external causal rewrites in accordance with central archival doctrine.

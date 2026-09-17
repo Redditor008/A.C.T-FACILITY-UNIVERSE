@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### Historical Origin, First Deployment, and ABYSS Foundation
 
-**Archive Status:** Active  
-**Distribution:** Internal / Historical Review  
-**Authority:** Central Archive and O5 Historical Seal  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal / Historical Review |
+| AUTHORITY | Central Archive and O5 Historical Seal |
 
 #### Archive Note
 This file is the complete internal archive version of the Facility's origin history, the first descent, the discovery of ITHYOS, and the construction logic of the ABYSS foundation.

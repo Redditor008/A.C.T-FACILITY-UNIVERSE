@@ -1,37 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - PERSONNEL PROCESSING AND RESERVE CLEARANCE SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-107                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Personnel Processing and Reserve Clearance System           |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | PPRCS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | PERSONNEL SECURITY / RESERVE ADMINISTRATION / ACCESS CORE   |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | VERDE NULL BIO-RESERVE F-4 PERSONNEL AND OPERATIONS LEVEL  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Personnel Processing Office / Security Administration       |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Administration, Security, Medical, Environmental            |
-|                            | Containment, Research                                       |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESERVE PERSONNEL GATEKEEPING                      |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CLEARANCE DRIFT / COVER EXPOSURE / BIOLOGICAL DUTY MISMATCH|
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 2 for personnel intake handling; Level 3 for reserve  |
-|                            | clearance assignment; Level 4 for denial override           |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-107 |
+| TECHNOLOGY NAME | Personnel Processing and Reserve Clearance System |
+| SHORT NAME | PPRCS |
+| TECHNOLOGY FAMILY | PERSONNEL SECURITY / RESERVE ADMINISTRATION / ACCESS CORE |
+| ORIGIN | VERDE NULL BIO-RESERVE F-4 PERSONNEL AND OPERATIONS LEVEL |
+| PRIMARY CONTROLLER | Personnel Processing Office / Security Administration |
+| ATTACHED DIVISIONS | Administration, Security, Medical, Environmental Containment, Research |
+| OPERATIONAL STATUS | ACTIVE / RESERVE PERSONNEL GATEKEEPING |
+| RISK STATUS | CLEARANCE DRIFT / COVER EXPOSURE / BIOLOGICAL DUTY MISMATCH |
+| CLEARANCE REQUIRED | Level 2 for personnel intake handling; Level 3 for reserve clearance assignment; Level 4 for denial override |
 
-**Archive Status:** Active Verde Null Personnel Technology Record
-**Distribution:** Verde Null Bio-Reserve / Administration / Security / Medical / Environmental Containment / Archive
-**Authority:** Personnel Processing Office, Security Administration, Site Director's Office, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Verde Null Personnel Technology Record |
+| DISTRIBUTION | Verde Null Bio-Reserve / Administration / Security / Medical / Environmental Containment / Archive |
+| AUTHORITY | Personnel Processing Office, Security Administration, Site Director's Office, and Central Archive |
 
 #### Archive Note
 Personnel Processing and Reserve Clearance System is the one-hundred-seventh main A.C.T technology expanded into an individual record. The F-4 Personnel and Operations Level dossier identifies personnel processing as one of the floor's defining functions: arriving personnel are processed, clearances are administered, and personnel records are maintained from the buried operations level. The Verde Null site dossier adds the local personnel burden: personnel must handle ecological timescales, remoteness, biological exposure risk, concealed boundaries, legitimate research adjacency, and long periods away from the ordinary world.

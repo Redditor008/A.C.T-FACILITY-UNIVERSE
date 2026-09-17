@@ -1,70 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - CHILDREN OF THE DEEP
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-CU-X-048                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Children of the Deep                                        |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | CoTD                                                        |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | The Inland Tide; Congregations of the Second Shore; local   |
-|                            | cover names vary by cell                                    |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | CULTIC                                                      |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | NEGATIVE                                                    |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | REGIONAL                                                    |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | PRACTITIONER                                                |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 5                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | LEAKING                                                     |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | INFILTRATE / CONTAIN / DISMANTLE                            |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | The Sounding Council; individual identities restricted and  |
-|                            | continuity unverified                                       |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Large group of [REDACTED] people; exact census and          |
-|                            | vulnerable dependents restricted                            |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Midwestern United States                                    |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Distributed congregations, ritual data, technical material, |
-|                            | contribution routes, and cover access                       |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Inland mouth sites, meeting spaces, storage areas, and      |
-|                            | transit points                                              |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | Awaken the [REDACTED] deep-sea sleeper and return the world |
-|                            | to the Deep                                                 |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Coordinated Midwest pattern identified through              |
-|                            | target-related cult preparation                             |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | [REDACTED] deep-sea sleeper; separate anomaly file sealed   |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - awakening preparations interrupted but not ended   |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division, Cultic Networks Desk                 |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with ACT-SITE-05 deep-sea liaison; Midwest  |
-|                            | response is incident-led                                    |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for target-anomaly and live-operation      |
-|                            | material                                                    |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-CU-X-048 |
+| COMMON NAME | Children of the Deep |
+| SHORT NAME | CoTD |
+| KNOWN ALIASES | The Inland Tide; Congregations of the Second Shore; local cover names vary by cell |
+| NATURE CLASS | CULTIC |
+| ALIGNMENT CLASS | NEGATIVE |
+| REACH CLASS | REGIONAL |
+| ANOMALOUS CAPABILITY | PRACTITIONER |
+| THREAT LEVEL | 5 |
+| SECRECY RISK | LEAKING |
+| A.C.T POSTURE | INFILTRATE / CONTAIN / DISMANTLE |
+| KNOWN LEADERSHIP | The Sounding Council; individual identities restricted and continuity unverified |
+| KNOWN MEMBERSHIP | Large group of [REDACTED] people; exact census and vulnerable dependents restricted |
+| PRIMARY ACTIVE REGION | Midwestern United States |
+| KNOWN ASSETS | Distributed congregations, ritual data, technical material, contribution routes, and cover access |
+| KNOWN HOLDINGS | Inland mouth sites, meeting spaces, storage areas, and transit points |
+| IDEOLOGY | Awaken the [REDACTED] deep-sea sleeper and return the world to the Deep |
+| HISTORY WITH A.C.T | Coordinated Midwest pattern identified through target-related cult preparation |
+| ANOMALY CROSS-REFERENCE | [REDACTED] deep-sea sleeper; separate anomaly file sealed |
+| CURRENT STATUS | ACTIVE - awakening preparations interrupted but not ended |
+| PRIMARY FILE AUTHORITY | Intelligence Division, Cultic Networks Desk |
+| SITE JURISDICTION | Central Command with ACT-SITE-05 deep-sea liaison; Midwest response is incident-led |
+| CLEARANCE REQUIRED | Level 4; Level 5 for target-anomaly and live-operation material |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Intelligence / Security / Recovery / Containment / Civil Covert / Command
-**Authority:** Intelligence Division, Cultic Networks Desk, with Central Archive custody
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Intelligence / Security / Recovery / Containment / Civil Covert / Command |
+| AUTHORITY | Intelligence Division, Cultic Networks Desk, with Central Archive custody |
 
 #### Archive Note
 Children of the Deep is a large cultic organization whose members worship a sealed, sleeping anomaly located in the deep sea. The cross-referenced anomaly is withheld from this organizational file because its identifying information, wake-state indicators, and full containment condition are not necessary for ordinary GOI response. Personnel requiring target-specific material must access the separately sealed anomaly record through Level 5 authority.

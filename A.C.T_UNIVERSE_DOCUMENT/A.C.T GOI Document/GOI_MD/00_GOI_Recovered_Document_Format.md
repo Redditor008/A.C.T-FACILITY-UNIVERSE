@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE
 
-**Archive Status:** Active  
-**Distribution:** Intelligence Division / Archiver Division / Civil Covert / GOI Desk  
-**Authority:** Central Archive, Intelligence Division, and External Threat Review  
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Intelligence Division / Archiver Division / Civil Covert / GOI Desk |
+| AUTHORITY | Central Archive, Intelligence Division, and External Threat Review |
 
 #### Archive Note
 This doctrine governs documents that originate from a Group of Interest, appear to originate from a Group of Interest, or imitate a Group of Interest well enough to affect A.C.T operations. It exists so a GOI may speak in its own voice inside the archive without being mistaken for A.C.T's institutional assessment.

@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - LOW-VISIBILITY PROCESSING LOGISTICS SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-093                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Low-Visibility Processing Logistics System                  |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | LVPLS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | COVER LOGISTICS / CONCEALED TRANSITION / TRAFFIC CONTROL   |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | GLASS ORCHARD RELAY F-3 LOW-VISIBILITY AND TRANSITION      |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Campus Manager / Security Boundary Lead                     |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Security, Campus Administration, Recovery Support, Archive  |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / CONCEALED TRAFFIC SUPPORT                          |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | PATTERN EXPOSURE / TRANSITION BREACH / DELIVERY MISMATCH   |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for boundary logistics; Level 4 for concealed       |
-|                            | transition scheduling or emergency surface sealing          |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-093 |
+| TECHNOLOGY NAME | Low-Visibility Processing Logistics System |
+| SHORT NAME | LVPLS |
+| TECHNOLOGY FAMILY | COVER LOGISTICS / CONCEALED TRANSITION / TRAFFIC CONTROL |
+| ORIGIN | GLASS ORCHARD RELAY F-3 LOW-VISIBILITY AND TRANSITION |
+| PRIMARY CONTROLLER | Campus Manager / Security Boundary Lead |
+| ATTACHED DIVISIONS | Security, Campus Administration, Recovery Support, Archive |
+| OPERATIONAL STATUS | ACTIVE / CONCEALED TRAFFIC SUPPORT |
+| RISK STATUS | PATTERN EXPOSURE / TRANSITION BREACH / DELIVERY MISMATCH |
+| CLEARANCE REQUIRED | Level 3 for boundary logistics; Level 4 for concealed transition scheduling or emergency surface sealing |
 
-**Archive Status:** Active Cover Logistics Technology Record
-**Distribution:** Glass Orchard Relay / Redwood Veil Complex / Security / Campus Administration / Recovery Support / Limited Archive
-**Authority:** Campus Manager, Security Boundary Lead, Sub-Site Chief, Redwood Veil Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Cover Logistics Technology Record |
+| DISTRIBUTION | Glass Orchard Relay / Redwood Veil Complex / Security / Campus Administration / Recovery Support / Limited Archive |
+| AUTHORITY | Campus Manager, Security Boundary Lead, Sub-Site Chief, Redwood Veil Site Command, and Central Archive |
 
 #### Archive Note
 Low-Visibility Processing Logistics System is the ninety-third main A.C.T technology expanded into an individual record. The Glass Orchard Relay dossier states that the relay is optimized for low-visibility processing and that its location is chosen for access rather than isolation. The F-3 Surface Cover Level dossier records that deliveries, vehicle movements, and staff arrivals are framed within the campus's legitimate logistics, and that concealed transition architecture is disguised as loading areas, service corridors, and utility spaces.

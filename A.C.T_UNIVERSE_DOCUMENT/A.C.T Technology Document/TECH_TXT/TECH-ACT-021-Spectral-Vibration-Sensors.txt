@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - SPECTRAL VIBRATION SENSORS
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-021
-TECHNOLOGY NAME: Spectral Vibration Sensors
-SHORT NAME: SVS
-TECHNOLOGY FAMILY: ARCHIVAL / ACOUSTIC DETECTION / NARRATIVE EARLY WARNING
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Archive Division / Info-Hazard Division
-ATTACHED DIVISIONS: Containment, Engineering, Site Command, Security, CSG Desk
-OPERATIONAL STATUS: ACTIVE / FIXED SENSOR / RESTRICTED CALIBRATION
-RISK STATUS: CONTROLLED / HAZARDOUS IF IGNORED, SPOOFED, OR OVERTUNED
-CLEARANCE REQUIRED: Level 3 for monitoring; Level 4 for narrative-tempo calibration, script-manifestation response, and log access
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-021                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Spectral Vibration Sensors                                  |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | SVS                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | ARCHIVAL / ACOUSTIC DETECTION / NARRATIVE EARLY WARNING     |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Archive Division / Info-Hazard Division                     |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Containment, Engineering, Site Command, Security, CSG Desk  |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / FIXED SENSOR / RESTRICTED CALIBRATION              |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF IGNORED, SPOOFED, OR OVERTUNED    |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for monitoring; Level 4 for narrative-tempo         |
+|                            | calibration, script-manifestation response, and log access  |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Early-Warning Technology Record
 Distribution: Archive / Info-Hazard / Containment / Engineering / Site Command / Security

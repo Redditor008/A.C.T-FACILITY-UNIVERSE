@@ -1,27 +1,14 @@
 # TECH-GOI-027-5 - ANSTRALL MARKET STAGED DEMONSTRATION AND RECORDED PROOF EXPOSURE SET
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-027-5                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Anstrall Market Staged Demonstration and Recorded Proof     |
-|                            | Exposure Set                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Market Proof / Demonstration Set / Market Catalogue         |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Anstrall Market                                             |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Recovered catalogue and proof material under exposure       |
-|                            | handling; demonstration apparatus not held                  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Information-hazard containment, exposure control,           |
-|                            | buyer-recruitment tracking, acquisition-prompt analysis     |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | EXPOSURE-ACTIVE RESTRICTED / CATALOGUE CONTAINMENT REQUIRED |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-027-5 |
+| TECHNOLOGY NAME | Anstrall Market Staged Demonstration and Recorded Proof Exposure Set |
+| COMMON ABBREVIATIONS | Market Proof / Demonstration Set / Market Catalogue |
+| ORIGIN | Anstrall Market |
+| ACQUISITION STATUS | Recovered catalogue and proof material under exposure handling; demonstration apparatus not held |
+| PRIMARY A.C.T INTEREST | Information-hazard containment, exposure control, buyer-recruitment tracking, acquisition-prompt analysis |
+| ARCHIVE HANDLING | EXPOSURE-ACTIVE RESTRICTED / CATALOGUE CONTAINMENT REQUIRED |
 
 ## Functional Identity
 

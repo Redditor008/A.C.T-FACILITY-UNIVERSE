@@ -3,9 +3,11 @@
 ## TITLE I: The Forgetting Bloom
 ## TITLE II: NEMNOLIA, THE GOLDEN VEIL
 
-**Archive Status:** Sealed  
-**Distribution:** Restricted  
-**Authority:** Early Biohazard Containment Record  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Sealed |
+| DISTRIBUTION | Restricted |
+| AUTHORITY | Early Biohazard Containment Record |
 
 ---
 

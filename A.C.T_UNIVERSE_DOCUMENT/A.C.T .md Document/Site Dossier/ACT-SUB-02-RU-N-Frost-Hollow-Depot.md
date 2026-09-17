@@ -2,13 +2,15 @@
 ## ACT-SUB-02-RU-N — Frost Hollow Depot
 ## Sub-Site Dossier — Northern Russia
 
-**Archive Status:** Active
-**Distribution:** Internal / Command / Archive / Containment / Medical
-**Authority:** Central Archive / Site Governance Review / Administration
-**File Class:** Site Dossier — Individual Installation Record
-**Dossier Number:** SUB-SITE-DOSSIER-02-RU-N
-**Compiled By:** Central Archive, Site Records Office
-**Compilation Standard:** ACT Site Registry File Standard
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal / Command / Archive / Containment / Medical |
+| AUTHORITY | Central Archive / Site Governance Review / Administration |
+| FILE CLASS | Site Dossier — Individual Installation Record |
+| DOSSIER NUMBER | SUB-SITE-DOSSIER-02-RU-N |
+| COMPILED BY | Central Archive, Site Records Office |
+| COMPILATION STANDARD | ACT Site Registry File Standard |
 
 ---
 

@@ -1,17 +1,31 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - LONG-ROTATION HABITATION AND MAIN SECURITY CHECKPOINT SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-132
-TECHNOLOGY NAME: Long-Rotation Habitation and Main Security Checkpoint System
-SHORT NAME: LRHMSCS
-TECHNOLOGY FAMILY: HABITATION / PERSONNEL SUSTAINMENT / DUTY-LIFE SEPARATION
-ORIGIN: WHITE GRAVE STATION F-5 PERSONNEL HABITATION AND SUPPORT
-PRIMARY CONTROLLER: Habitation Chief / Station Administration Support Command
-ATTACHED DIVISIONS: Administration, Medical, Command, Security
-OPERATIONAL STATUS: ACTIVE / LONG-ROTATION PERSONNEL SUSTAINMENT
-RISK STATUS: HABITATION FAILURE / CHECKPOINT BREACH / DUTY-LIFE COLLAPSE
-CLEARANCE REQUIRED: Personnel-access control for habitation; duty authorization for passage through the main security checkpoint
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-132                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Long-Rotation Habitation and Main Security Checkpoint       |
+|                            | System                                                      |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | LRHMSCS                                                     |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | HABITATION / PERSONNEL SUSTAINMENT / DUTY-LIFE SEPARATION   |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | WHITE GRAVE STATION F-5 PERSONNEL HABITATION AND SUPPORT    |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Habitation Chief / Station Administration Support Command   |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Administration, Medical, Command, Security                  |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / LONG-ROTATION PERSONNEL SUSTAINMENT                |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | HABITATION FAILURE / CHECKPOINT BREACH / DUTY-LIFE COLLAPSE |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Personnel-access control for habitation; duty authorization |
+|                            | for passage through the main security checkpoint            |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active White Grave Personnel-Sustainment Technology Record
 Distribution: White Grave Station / Administration / Medical / Command / Security

@@ -1,27 +1,14 @@
 # TECH-GOI-056-3 - SAINT-VERA MEMORY-SENSITIVE CONSENT FORM SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-056-3                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Saint-Vera Memory-Sensitive Consent Form System             |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Memory-Sensitive Consent                                    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Saint-Vera Restoration Concern                              |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Cooperative recovery, partial inspection, or restricted     |
-|                            | patient-transfer evidence                                   |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Survivor restoration, medical containment, Subject Care     |
-|                            | continuity, and consent-safe custody                        |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | PATIENT-DIGNITY DISCLOSURE LIMIT / MEDICAL-SUBJECT CARE     |
-|                            | RESTRICTED                                                  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-056-3 |
+| TECHNOLOGY NAME | Saint-Vera Memory-Sensitive Consent Form System |
+| COMMON ABBREVIATIONS | Memory-Sensitive Consent |
+| ORIGIN | Saint-Vera Restoration Concern |
+| ACQUISITION STATUS | Cooperative recovery, partial inspection, or restricted patient-transfer evidence |
+| PRIMARY A.C.T INTEREST | Survivor restoration, medical containment, Subject Care continuity, and consent-safe custody |
+| ARCHIVE HANDLING | PATIENT-DIGNITY DISCLOSURE LIMIT / MEDICAL-SUBJECT CARE RESTRICTED |
 
 ## Functional Identity
 

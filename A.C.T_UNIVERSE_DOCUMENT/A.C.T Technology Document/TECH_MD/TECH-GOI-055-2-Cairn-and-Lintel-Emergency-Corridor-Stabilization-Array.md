@@ -1,27 +1,14 @@
 # TECH-GOI-055-2 - CAIRN & LINTEL EMERGENCY CORRIDOR STABILIZATION ARRAY
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-055-2                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Cairn & Lintel Emergency Corridor Stabilization Array       |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Emergency Corridor / C&L Corridor / Promised Exit Route     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Cairn & Lintel                                              |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Observed in evacuations, copied from route cards, and       |
-|                            | partially inspected after closure events                    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Breach evacuation, spatial-collapse survival, hospital and  |
-|                            | school route stability, access-and-egress logging           |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | OCCUPIED-SHELTER DISCLOSURE LIMIT / RECOVERY-ENGINEERING    |
-|                            | CONTROL                                                     |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-055-2 |
+| TECHNOLOGY NAME | Cairn & Lintel Emergency Corridor Stabilization Array |
+| COMMON ABBREVIATIONS | Emergency Corridor / C&L Corridor / Promised Exit Route |
+| ORIGIN | Cairn & Lintel |
+| ACQUISITION STATUS | Observed in evacuations, copied from route cards, and partially inspected after closure events |
+| PRIMARY A.C.T INTEREST | Breach evacuation, spatial-collapse survival, hospital and school route stability, access-and-egress logging |
+| ARCHIVE HANDLING | OCCUPIED-SHELTER DISCLOSURE LIMIT / RECOVERY-ENGINEERING CONTROL |
 
 ## Functional Identity
 

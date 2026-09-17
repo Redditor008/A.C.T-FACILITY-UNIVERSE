@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - MERCY LOCK PATIENT BELL DISTRESS SIGNAL SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-GOI-071-2
-TECHNOLOGY NAME: Mercy Lock Patient Bell Distress Signal System
-SHORT NAME: MLPBDSS
-GOI SOURCE: GOI-HY-P-071 - Mercy Lock Institute
-TECHNOLOGY FAMILY: PATIENT SIGNAL / NONVIOLENT CUSTODY / WARD DISTRESS CALL
-A.C.T CUSTODY STATUS: ACQUIRED THROUGH COOPERATIVE TRANSFER AND INSPECTION
-PRIMARY A.C.T REVIEW: Medical Division / Subject Care / Containment / Legal
-OPERATIONAL STATUS: RESTRICTED CONSULTATION USE / PARTIAL TECHNICAL ACCESS
-RISK STATUS: SIGNAL NEGLECT / BELL REMOVAL / HOSTILE REPURPOSING
-CLEARANCE REQUIRED: Level 4; Level 5 for patient-linked tuning, living names, ward locations, and failed-bell incident files
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-071-2                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Mercy Lock Patient Bell Distress Signal System              |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | MLPBDSS                                                     |
++----------------------------+-------------------------------------------------------------+
+| GOI SOURCE                 | GOI-HY-P-071 - Mercy Lock Institute                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | PATIENT SIGNAL / NONVIOLENT CUSTODY / WARD DISTRESS CALL    |
++----------------------------+-------------------------------------------------------------+
+| A.C.T CUSTODY STATUS       | ACQUIRED THROUGH COOPERATIVE TRANSFER AND INSPECTION        |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T REVIEW       | Medical Division / Subject Care / Containment / Legal       |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | RESTRICTED CONSULTATION USE / PARTIAL TECHNICAL ACCESS      |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | SIGNAL NEGLECT / BELL REMOVAL / HOSTILE REPURPOSING         |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4; Level 5 for patient-linked tuning, living names,   |
+|                            | ward locations, and failed-bell incident files              |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active GOI-Acquired Technology Record
 Distribution: Medical / Subject Care / Containment / Legal / Intelligence / Engineering

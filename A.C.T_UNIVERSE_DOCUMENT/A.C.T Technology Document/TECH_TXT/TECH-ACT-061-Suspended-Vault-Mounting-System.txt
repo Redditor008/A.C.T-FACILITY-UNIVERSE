@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - SUSPENDED VAULT MOUNTING SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-061
-TECHNOLOGY NAME: Suspended Vault Mounting System
-SHORT NAME: SVMS
-TECHNOLOGY FAMILY: DEEP VAULT ARCHITECTURE / VIBRATION ISOLATION / SHAFT HOLD
-ORIGIN: REDWOOD VEIL F-1 HANGING VAULT ARCHITECTURE
-PRIMARY CONTROLLER: Containment Division / Engineering Division
-ATTACHED DIVISIONS: Security, Deep-Hold Command, Medical, Archive
-OPERATIONAL STATUS: ACTIVE / RESIDENT-SPECIFIC / HIGH-INVIOLABILITY USE
-RISK STATUS: STRUCTURAL SUSPENSION HAZARD / VAULT-DROP FAILURE RISK
-CLEARANCE REQUIRED: Level 4 for inspection; Level 5 for mount replacement, vault lowering, resident transfer, or shaft redesign
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-061                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Suspended Vault Mounting System                             |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | SVMS                                                        |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | DEEP VAULT ARCHITECTURE / VIBRATION ISOLATION / SHAFT HOLD  |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | REDWOOD VEIL F-1 HANGING VAULT ARCHITECTURE                 |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Containment Division / Engineering Division                 |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Security, Deep-Hold Command, Medical, Archive               |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESIDENT-SPECIFIC / HIGH-INVIOLABILITY USE         |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | STRUCTURAL SUSPENSION HAZARD / VAULT-DROP FAILURE RISK      |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for inspection; Level 5 for mount replacement,      |
+|                            | vault lowering, resident transfer, or shaft redesign        |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Deep Vault Architecture Technology Record
 Distribution: Containment / Engineering / Security / Deep-Hold Command / Medical / Archive

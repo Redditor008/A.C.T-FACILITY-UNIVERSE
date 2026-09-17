@@ -1,38 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - FACILITY CONVERTED AIRCRAFT SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-006                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Facility Converted Aircraft System                          |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | FCA                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | FIELD / LOGISTICS / TRANSPORT / MOBILE CONTAINMENT          |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Logistics Division / Recovery Division                      |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Engineering, Containment, Site Command, Civil Covert,       |
-|                            | Medical Care, Field Command, and Intelligence               |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / HIGH-PRIORITY TRANSPORT               |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF MASS, RSA, OR COVER FAILS        |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for mission planning; Level 5 for route masking,    |
-|                            | cargo-weight stabilizer access, RSA-rail calibration, and   |
-|                            | world-scale sample movement                                 |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-006 |
+| TECHNOLOGY NAME | Facility Converted Aircraft System |
+| SHORT NAME | FCA |
+| TECHNOLOGY FAMILY | FIELD / LOGISTICS / TRANSPORT / MOBILE CONTAINMENT |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Logistics Division / Recovery Division |
+| ATTACHED DIVISIONS | Engineering, Containment, Site Command, Civil Covert, Medical Care, Field Command, and Intelligence |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / HIGH-PRIORITY TRANSPORT |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF MASS, RSA, OR COVER FAILS |
+| CLEARANCE REQUIRED | Level 4 for mission planning; Level 5 for route masking, cargo-weight stabilizer access, RSA-rail calibration, and world-scale sample movement |
 
-**Archive Status:** Active Restricted Technology Record  
-**Distribution:** Logistics / Recovery / Engineering / Containment / Site Command / Civil Covert / Command  
-**Authority:** Logistics Division, Recovery Division, Engineering Division, Containment Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Technology Record |
+| DISTRIBUTION | Logistics / Recovery / Engineering / Containment / Site Command / Civil Covert / Command |
+| AUTHORITY | Logistics Division, Recovery Division, Engineering Division, Containment Division, and Central Archive |
 
 #### Archive Note
 The Facility Converted Aircraft System is the sixth main A.C.T technology expanded into an individual record under corrected A.C.T-owned technology numbering. It is already present in the Master Catalog of Operational Assets as Item 22, in the technological timeline as a 1995 heavy VTOL transport platform, in the visual reference guide as a lifting-body cargo plane with VTOL turbofans, ARM-emitter nodes, Magnetic RSA-Rails, and a Cargo-Weight Stabilizer, and in site dossiers as the long-range transport option for oversized anomalies, high-priority biological material, and trans-regional recovery.

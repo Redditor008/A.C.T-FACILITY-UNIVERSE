@@ -1,37 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - NATIVE CONTAINMENT FIELD SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-100                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Native Containment Field System                             |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | NCFS                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | IN-PLACE CONTAINMENT / FLORA MANAGEMENT / ENVIRONMENTAL    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | HOLLOW CANOPY ENCLOSURE NATIVE CONTAINMENT FIELDS          |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Enclosure Supervisor / Environmental Containment Lead       |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Environmental Containment, Research Support, Limited        |
-|                            | Security                                                    |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / PLACE-BOUND FLORA CONTAINMENT USE                  |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | RELOCATION FAILURE / ENVIRONMENTAL DRIFT / ROOT-SHOCK RISK |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for sector duty; Level 4 for resident-field change, |
-|                            | transport-denial review, or parent-reserve override         |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-100 |
+| TECHNOLOGY NAME | Native Containment Field System |
+| SHORT NAME | NCFS |
+| TECHNOLOGY FAMILY | IN-PLACE CONTAINMENT / FLORA MANAGEMENT / ENVIRONMENTAL |
+| ORIGIN | HOLLOW CANOPY ENCLOSURE NATIVE CONTAINMENT FIELDS |
+| PRIMARY CONTROLLER | Enclosure Supervisor / Environmental Containment Lead |
+| ATTACHED DIVISIONS | Environmental Containment, Research Support, Limited Security |
+| OPERATIONAL STATUS | ACTIVE / PLACE-BOUND FLORA CONTAINMENT USE |
+| RISK STATUS | RELOCATION FAILURE / ENVIRONMENTAL DRIFT / ROOT-SHOCK RISK |
+| CLEARANCE REQUIRED | Level 3 for sector duty; Level 4 for resident-field change, transport-denial review, or parent-reserve override |
 
-**Archive Status:** Active In-Place Flora Containment Technology Record
-**Distribution:** Hollow Canopy Enclosure / Verde Null Bio-Reserve / Environmental Containment / Research Support / Limited Security
-**Authority:** Enclosure Supervisor, Verde Null Site Command, Environmental Containment Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active In-Place Flora Containment Technology Record |
+| DISTRIBUTION | Hollow Canopy Enclosure / Verde Null Bio-Reserve / Environmental Containment / Research Support / Limited Security |
+| AUTHORITY | Enclosure Supervisor, Verde Null Site Command, Environmental Containment Division, and Central Archive |
 
 #### Archive Note
 Native Containment Field System is the one-hundredth main A.C.T technology expanded into an individual record. The Hollow Canopy Enclosure dossier defines the sub-site as a concealed perimeter network for non-movable flora anomalies contained in place. It states that repeated relocation failures proved some flora anomalies safer, and only containable, where they grow. The dossier identifies native containment fields as perimeter-defined sectors where flora anomalies are managed in the environment they require.

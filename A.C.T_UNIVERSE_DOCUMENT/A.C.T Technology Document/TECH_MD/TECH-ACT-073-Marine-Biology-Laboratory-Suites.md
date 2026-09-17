@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - MARINE BIOLOGY LABORATORY SUITES
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-073                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Marine Biology Laboratory Suites                            |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | MBLS                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | MARITIME RESEARCH / BIOLOGICAL ANALYSIS / SAMPLE CONTROL   |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY F-4 RESEARCH LEVEL                    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Research Division / Floor Research Chief                    |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Containment, Medical, Recovery, Security                    |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / MARITIME HOLDING STUDY USE                         |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | BIOLOGICAL EXPOSURE / SAMPLE ESCAPE / WATER-CONTROL RISK    |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for ordinary suite maintenance; Level 4 for live    |
-|                            | anomaly samples, resident-derived tissues, or void cases    |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-073 |
+| TECHNOLOGY NAME | Marine Biology Laboratory Suites |
+| SHORT NAME | MBLS |
+| TECHNOLOGY FAMILY | MARITIME RESEARCH / BIOLOGICAL ANALYSIS / SAMPLE CONTROL |
+| ORIGIN | NUSANTARA DEEP RELAY F-4 RESEARCH LEVEL |
+| PRIMARY CONTROLLER | Research Division / Floor Research Chief |
+| ATTACHED DIVISIONS | Containment, Medical, Recovery, Security |
+| OPERATIONAL STATUS | ACTIVE / MARITIME HOLDING STUDY USE |
+| RISK STATUS | BIOLOGICAL EXPOSURE / SAMPLE ESCAPE / WATER-CONTROL RISK |
+| CLEARANCE REQUIRED | Level 3 for ordinary suite maintenance; Level 4 for live anomaly samples, resident-derived tissues, or void cases |
 
-**Archive Status:** Active Maritime Research Technology Record
-**Distribution:** Research / Containment / Medical / Recovery / Nusantara Deep Relay
-**Authority:** Floor Research Chief, Maritime-Hold Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Maritime Research Technology Record |
+| DISTRIBUTION | Research / Containment / Medical / Recovery / Nusantara Deep Relay |
+| AUTHORITY | Floor Research Chief, Maritime-Hold Command, and Central Archive |
 
 #### Archive Note
 Marine Biology Laboratory Suites are the seventy-third main A.C.T technology expanded into an individual record. The F-4 Laboratory and Research Level dossier identifies marine biology laboratories as one of the floor's defining systems: controlled aquatic environments where sea-recovered anomalies are characterized and understood. The F-3 dossier confirms that material from water-capable holding is studied above under controlled sample movement, and that research findings flow back to holding regimens.

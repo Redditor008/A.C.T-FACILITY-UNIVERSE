@@ -1,37 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - CONCEALED PERIMETER SECTOR NETWORK
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-101                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Concealed Perimeter Sector Network                          |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | CPSN                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | PERIMETER CONCEALMENT / SECTOR BOUNDARY / INCURSION        |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | HOLLOW CANOPY ENCLOSURE CONCEALED PERIMETER SECTORS        |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Enclosure Supervisor / Limited Security Lead                |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Limited Security, Environmental Containment, Research       |
-|                            | Support                                                     |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / CONCEALED SECTOR CONTROL USE                       |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | INCURSION / BOUNDARY DRIFT / PUBLIC DISCOVERY RISK          |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for sector patrol; Level 4 for boundary redesign,   |
-|                            | incursion response, or resident perimeter expansion         |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-101 |
+| TECHNOLOGY NAME | Concealed Perimeter Sector Network |
+| SHORT NAME | CPSN |
+| TECHNOLOGY FAMILY | PERIMETER CONCEALMENT / SECTOR BOUNDARY / INCURSION |
+| ORIGIN | HOLLOW CANOPY ENCLOSURE CONCEALED PERIMETER SECTORS |
+| PRIMARY CONTROLLER | Enclosure Supervisor / Limited Security Lead |
+| ATTACHED DIVISIONS | Limited Security, Environmental Containment, Research Support |
+| OPERATIONAL STATUS | ACTIVE / CONCEALED SECTOR CONTROL USE |
+| RISK STATUS | INCURSION / BOUNDARY DRIFT / PUBLIC DISCOVERY RISK |
+| CLEARANCE REQUIRED | Level 3 for sector patrol; Level 4 for boundary redesign, incursion response, or resident perimeter expansion |
 
-**Archive Status:** Active Concealed Perimeter Technology Record
-**Distribution:** Hollow Canopy Enclosure / Verde Null Bio-Reserve / Limited Security / Environmental Containment / Research Support
-**Authority:** Enclosure Supervisor, Limited Security Lead, Verde Null Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Concealed Perimeter Technology Record |
+| DISTRIBUTION | Hollow Canopy Enclosure / Verde Null Bio-Reserve / Limited Security / Environmental Containment / Research Support |
+| AUTHORITY | Enclosure Supervisor, Limited Security Lead, Verde Null Site Command, and Central Archive |
 
 #### Archive Note
 Concealed Perimeter Sector Network is the one-hundred-first main A.C.T technology expanded into an individual record. The Hollow Canopy Enclosure dossier states that the sub-site is not building-dominant; it is a concealed perimeter composed of fixed-enclosure sectors within the Bio-Reserve. Each sector is a perimeter-defined area where monitoring infrastructure is disguised as natural terrain and the boundary between anomalous flora and ordinary forest is deliberately invisible.

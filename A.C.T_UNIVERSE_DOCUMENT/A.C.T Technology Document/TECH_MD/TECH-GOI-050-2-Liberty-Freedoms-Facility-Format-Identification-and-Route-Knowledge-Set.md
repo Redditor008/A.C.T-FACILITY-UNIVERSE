@@ -1,28 +1,14 @@
 # TECH-GOI-050-2 - LIBERTY FREEDOMS FACILITY-FORMAT IDENTIFICATION AND ROUTE KNOWLEDGE SET
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-050-2                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Liberty Freedoms Facility-Format Identification and Route   |
-|                            | Knowledge Set                                               |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Format Kit / Defector Route Set / Corridor Knowledge        |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Liberty Freedoms                                            |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Reconstructed from intercepted cells, seized route and      |
-|                            | schedule records, and controlled defector interviews        |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Insider-knowledge decay tracking, format compromise         |
-|                            | assessment, transport-seam protection, defector screening   |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | DEFECTOR-IDENTITY RESTRICTED / LEVEL 5 ROUTE AND SCHEDULE   |
-|                            | SEALED                                                      |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-050-2 |
+| TECHNOLOGY NAME | Liberty Freedoms Facility-Format Identification and Route Knowledge Set |
+| COMMON ABBREVIATIONS | Format Kit / Defector Route Set / Corridor Knowledge |
+| ORIGIN | Liberty Freedoms |
+| ACQUISITION STATUS | Reconstructed from intercepted cells, seized route and schedule records, and controlled defector interviews |
+| PRIMARY A.C.T INTEREST | Insider-knowledge decay tracking, format compromise assessment, transport-seam protection, defector screening |
+| ARCHIVE HANDLING | DEFECTOR-IDENTITY RESTRICTED / LEVEL 5 ROUTE AND SCHEDULE SEALED |
 
 ## Functional Identity
 

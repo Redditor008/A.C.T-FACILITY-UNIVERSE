@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### Global Site Registry
 
-**Archive Status:** Active  
-**Distribution:** Internal / Command / Archive / Recovery / Intelligence  
-**Authority:** Central Archive / Site Governance Review / Administration  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal / Command / Archive / Recovery / Intelligence |
+| AUTHORITY | Central Archive / Site Governance Review / Administration |
 
 ---
 

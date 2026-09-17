@@ -1,37 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - CONTROLLED STUDY ENVIRONMENT AND RESEARCH SAMPLE-CUSTODY SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-126                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Controlled Study Environment and Research Sample-Custody    |
-|                            | System                                                      |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | CSERSCS                                                     |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | RESEARCH FLOOR / CONTROLLED STUDY / SAMPLE CUSTODY         |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | REDWOOD VEIL COMPLEX F-5 RESEARCH AND ANALYSIS              |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Floor Research Chief / Research Division                    |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Research, Transformation, Containment, Medical, Archive     |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / CLEARANCE-GATED RESEARCH SAMPLE CONTROL            |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | SAMPLE-CONTROL BREACH / CONDITION LEAK / UNDOCUMENTED STUDY|
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Program-specific research authorization; additional         |
-|                            | restriction-set authority per resident object               |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-126 |
+| TECHNOLOGY NAME | Controlled Study Environment and Research Sample-Custody System |
+| SHORT NAME | CSERSCS |
+| TECHNOLOGY FAMILY | RESEARCH FLOOR / CONTROLLED STUDY / SAMPLE CUSTODY |
+| ORIGIN | REDWOOD VEIL COMPLEX F-5 RESEARCH AND ANALYSIS |
+| PRIMARY CONTROLLER | Floor Research Chief / Research Division |
+| ATTACHED DIVISIONS | Research, Transformation, Containment, Medical, Archive |
+| OPERATIONAL STATUS | ACTIVE / CLEARANCE-GATED RESEARCH SAMPLE CONTROL |
+| RISK STATUS | SAMPLE-CONTROL BREACH / CONDITION LEAK / UNDOCUMENTED STUDY |
+| CLEARANCE REQUIRED | Program-specific research authorization; additional restriction-set authority per resident object |
 
-**Archive Status:** Active Redwood Veil Research Technology Record
-**Distribution:** Redwood Veil Complex / Research / Transformation / Containment / Medical / Archive
-**Authority:** Floor Research Chief, Research Division, Site Director, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Redwood Veil Research Technology Record |
+| DISTRIBUTION | Redwood Veil Complex / Research / Transformation / Containment / Medical / Archive |
+| AUTHORITY | Floor Research Chief, Research Division, Site Director, and Central Archive |
 
 #### Archive Note
 Controlled Study Environment and Research Sample-Custody System is the one-hundred-twenty-sixth main A.C.T technology expanded into an individual record. The Redwood Veil F-5 Research and Analysis dossier identifies F-5 as the complex's laboratory and analysis deck where contained objects are studied under controlled conditions. It records sample and study suites, individually regulated laboratory environments, atmospheric and electromagnetic separation, observation architecture, sample-control doctrine, instrument security, data systems, and the floor doctrine that understanding is containment.

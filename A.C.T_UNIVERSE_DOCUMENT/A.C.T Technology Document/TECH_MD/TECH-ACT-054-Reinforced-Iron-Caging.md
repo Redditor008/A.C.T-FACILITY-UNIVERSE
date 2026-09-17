@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - REINFORCED IRON CAGING
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-054                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Reinforced Iron Caging                                      |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | RIC                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | LEGACY HEAVY CONTAINMENT / MASSIVE BOX PRECURSOR           |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T FOUNDATIONAL ERA, 1860s                               |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Historical Engineering Archive / Heavy Containment          |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Engineering, Containment, Site Safety, Archive              |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | RETIRED / HISTORICAL FRAMEWORK / LIMITED LEGACY PRESENCE    |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | STRUCTURAL FAILURE / HUMANE-CONTAINMENT REVIEW REQUIRED     |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for archive review; Level 4 for surviving cage      |
-|                            | access, retrofit, or resident-adjacent inspection           |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-054 |
+| TECHNOLOGY NAME | Reinforced Iron Caging |
+| SHORT NAME | RIC |
+| TECHNOLOGY FAMILY | LEGACY HEAVY CONTAINMENT / MASSIVE BOX PRECURSOR |
+| ORIGIN | A.C.T FOUNDATIONAL ERA, 1860s |
+| PRIMARY CONTROLLER | Historical Engineering Archive / Heavy Containment |
+| ATTACHED DIVISIONS | Engineering, Containment, Site Safety, Archive |
+| OPERATIONAL STATUS | RETIRED / HISTORICAL FRAMEWORK / LIMITED LEGACY PRESENCE |
+| RISK STATUS | STRUCTURAL FAILURE / HUMANE-CONTAINMENT REVIEW REQUIRED |
+| CLEARANCE REQUIRED | Level 3 for archive review; Level 4 for surviving cage access, retrofit, or resident-adjacent inspection |
 
-**Archive Status:** Retired Heavy Containment Technology Record  
-**Distribution:** Historical Engineering Archive / Heavy Containment / Engineering / Site Safety / Archive  
-**Authority:** Historical Engineering Archive, Heavy Containment, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Retired Heavy Containment Technology Record |
+| DISTRIBUTION | Historical Engineering Archive / Heavy Containment / Engineering / Site Safety / Archive |
+| AUTHORITY | Historical Engineering Archive, Heavy Containment, and Central Archive |
 
 #### Archive Note
 Reinforced Iron Caging is the fifty-fourth main A.C.T technology expanded into an individual record. The Technological Evolution Timeline places RIC in the 1860s and identifies it as the first standardized Massive Box design, using multi-layered iron hulls to contain high-mass biological subjects. Current classification doctrine defines Massive Box structures as industrial-grade enclosures for oversized entities, large-scale hazards, or high-volume enclosures requiring heavy structural containment. Modern A.C.T systems such as Abyssal Anchor Plating and Abyssal Masonry grew from the problem RIC first made visible: a very large anomaly is not held by a larger room alone.

@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - VACUUM ISOLATION SPHERES
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-017                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Vacuum Isolation Spheres                                    |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | VIS                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | CONTAINMENT / ACOUSTIC ISOLATION / INFO-HAZARD CONTROL      |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T / FOUNDATIONAL ERA                                    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Containment Division / Archive Division                     |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Info-Hazard, Engineering, Site Command, Historical Custody  |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / LEGACY DESIGN MODERNIZED / RESTRICTED HANDLING     |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF PRESSURE OR ACOUSTIC SEAL FAILS  |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for operation; Level 4 for hatch override, legacy   |
-|                            | units, internal atmosphere cycling, and acoustic evidence   |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-017 |
+| TECHNOLOGY NAME | Vacuum Isolation Spheres |
+| SHORT NAME | VIS |
+| TECHNOLOGY FAMILY | CONTAINMENT / ACOUSTIC ISOLATION / INFO-HAZARD CONTROL |
+| ORIGIN | A.C.T / FOUNDATIONAL ERA |
+| PRIMARY CONTROLLER | Containment Division / Archive Division |
+| ATTACHED DIVISIONS | Info-Hazard, Engineering, Site Command, Historical Custody |
+| OPERATIONAL STATUS | ACTIVE / LEGACY DESIGN MODERNIZED / RESTRICTED HANDLING |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF PRESSURE OR ACOUSTIC SEAL FAILS |
+| CLEARANCE REQUIRED | Level 3 for operation; Level 4 for hatch override, legacy units, internal atmosphere cycling, and acoustic evidence |
 
-**Archive Status:** Active Legacy-Derived Containment Technology Record  
-**Distribution:** Containment / Archive / Info-Hazard / Engineering / Site Command  
-**Authority:** Containment Division, Archive Division, Engineering Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Legacy-Derived Containment Technology Record |
+| DISTRIBUTION | Containment / Archive / Info-Hazard / Engineering / Site Command |
+| AUTHORITY | Containment Division, Archive Division, Engineering Division, and Central Archive |
 
 #### Archive Note
 Vacuum Isolation Spheres are the seventeenth main A.C.T technology expanded into an individual record. The Master Catalog defines them as zero-atmosphere glass-ceramic chambers used to isolate memetic acoustic signatures and info-hazard frequencies. The technological timeline places their development in the 1740s as hand-blown glass-ceramic vacuum chambers from the Foundational Era. The visual guide describes seamless two-meter spheres made of milky-white opaque ceramic, with exterior acoustic decibel sensors, a mechanical pressure disc, a heavy circular entry hatch, digital keypad, anti-magnetic brass manual override wheel, and a hatch monitor displaying internal atmospheric purity and decibel count.

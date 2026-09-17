@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - MEMETIC FILTERING INFRASTRUCTURE
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-056                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Memetic Filtering Infrastructure                            |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | MFI                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | CONTROLLED READING / MEMETIC SUPPRESSION / ARCHIVE SAFETY   |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | KUROKAWA ARCHIVE NODE CONTROLLED-READING PROGRAM            |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Archiver Division / Kurokawa Redaction Chief                |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Intelligence, Research, Security, Medical Cognitive Care    |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / CONTROLLED-READING CELL INFRASTRUCTURE             |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | COGNITIVE EXPOSURE / FILTER FAILURE RISK                    |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for controlled-reading support; Level 4 for filter  |
-|                            | design, failure review, or restricted document release      |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-056 |
+| TECHNOLOGY NAME | Memetic Filtering Infrastructure |
+| SHORT NAME | MFI |
+| TECHNOLOGY FAMILY | CONTROLLED READING / MEMETIC SUPPRESSION / ARCHIVE SAFETY |
+| ORIGIN | KUROKAWA ARCHIVE NODE CONTROLLED-READING PROGRAM |
+| PRIMARY CONTROLLER | Archiver Division / Kurokawa Redaction Chief |
+| ATTACHED DIVISIONS | Intelligence, Research, Security, Medical Cognitive Care |
+| OPERATIONAL STATUS | ACTIVE / CONTROLLED-READING CELL INFRASTRUCTURE |
+| RISK STATUS | COGNITIVE EXPOSURE / FILTER FAILURE RISK |
+| CLEARANCE REQUIRED | Level 3 for controlled-reading support; Level 4 for filter design, failure review, or restricted document release |
 
-**Archive Status:** Active Archive Safety Technology Record  
-**Distribution:** Archiver Division / Kurokawa Archive Node / Intelligence / Research / Security / Medical Cognitive Care  
-**Authority:** Kurokawa Redaction Chief, Archiver Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Archive Safety Technology Record |
+| DISTRIBUTION | Archiver Division / Kurokawa Archive Node / Intelligence / Research / Security / Medical Cognitive Care |
+| AUTHORITY | Kurokawa Redaction Chief, Archiver Division, and Central Archive |
 
 #### Archive Note
 Memetic Filtering Infrastructure is the fifty-sixth main A.C.T technology expanded into an individual record. The Kurokawa F-5 floor dossier identifies memetic filtering infrastructure as the defining technology of the Redaction and Controlled-Reading Laboratory. It states that controlled-reading cells use memetic filtering to interrupt or discipline the perceptual effects of dangerous documents while trained personnel read under documented protocols. The Complete Designation and Class Reference preserves the marker `[MEMETIC FILTER APPLIED]` for text that has been processed for safe reading.

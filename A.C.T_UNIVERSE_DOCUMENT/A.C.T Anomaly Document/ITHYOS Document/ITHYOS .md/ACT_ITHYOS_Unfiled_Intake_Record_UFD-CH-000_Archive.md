@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### Unfiled Intake Record — UFD-CH-000 / ITHYOS
 
-**Archive Status:** Sealed  
-**Distribution:** Absolute Restricted  
-**Authority:** Entity Transition Intake Archive  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Sealed |
+| DISTRIBUTION | Absolute Restricted |
+| AUTHORITY | Entity Transition Intake Archive |
 
 #### Archive Note
 This file is the complete internal archive version of the unfiled intake

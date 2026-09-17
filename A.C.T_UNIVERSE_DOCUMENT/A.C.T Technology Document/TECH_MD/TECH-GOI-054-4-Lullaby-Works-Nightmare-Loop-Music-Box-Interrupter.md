@@ -1,26 +1,14 @@
 # TECH-GOI-054-4 - LULLABY WORKS NIGHTMARE-LOOP MUSIC BOX INTERRUPTER
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-054-4                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Lullaby Works Nightmare-Loop Music Box Interrupter          |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Music Box Interrupter                                       |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Lullaby Works                                               |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Cooperative recovery, partial inspection, or protected      |
-|                            | field custody through child-safety cases                    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Child protection, Subject Care continuity, product-risk     |
-|                            | review, and safe evidence handling                          |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | CHILD-CARE DISCLOSURE LIMIT / SUBJECT CARE RESTRICTED       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-054-4 |
+| TECHNOLOGY NAME | Lullaby Works Nightmare-Loop Music Box Interrupter |
+| COMMON ABBREVIATIONS | Music Box Interrupter |
+| ORIGIN | Lullaby Works |
+| ACQUISITION STATUS | Cooperative recovery, partial inspection, or protected field custody through child-safety cases |
+| PRIMARY A.C.T INTEREST | Child protection, Subject Care continuity, product-risk review, and safe evidence handling |
+| ARCHIVE HANDLING | CHILD-CARE DISCLOSURE LIMIT / SUBJECT CARE RESTRICTED |
 
 ## Functional Identity
 

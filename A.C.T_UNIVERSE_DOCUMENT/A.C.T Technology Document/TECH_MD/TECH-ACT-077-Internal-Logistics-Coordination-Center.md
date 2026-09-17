@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - INTERNAL LOGISTICS COORDINATION CENTER
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-077                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Internal Logistics Coordination Center                      |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | ILCC                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | SITE LOGISTICS / MATERIAL MOVEMENT / PERSONNEL ROUTING     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY F-5 LOGISTICS CENTER                  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Relay Administration / Internal Logistics                   |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Recovery, Containment, Research, Security, Medical          |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / SITE-WIDE SUPPORT USE                              |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | MISROUTED MATERIAL / PERSONNEL DELAY / CHAIN BREAK RISK     |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for routine logistics; Level 4 for restricted       |
-|                            | transfer, resident support, or deep-floor movement          |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-077 |
+| TECHNOLOGY NAME | Internal Logistics Coordination Center |
+| SHORT NAME | ILCC |
+| TECHNOLOGY FAMILY | SITE LOGISTICS / MATERIAL MOVEMENT / PERSONNEL ROUTING |
+| ORIGIN | NUSANTARA DEEP RELAY F-5 LOGISTICS CENTER |
+| PRIMARY CONTROLLER | Relay Administration / Internal Logistics |
+| ATTACHED DIVISIONS | Recovery, Containment, Research, Security, Medical |
+| OPERATIONAL STATUS | ACTIVE / SITE-WIDE SUPPORT USE |
+| RISK STATUS | MISROUTED MATERIAL / PERSONNEL DELAY / CHAIN BREAK RISK |
+| CLEARANCE REQUIRED | Level 3 for routine logistics; Level 4 for restricted transfer, resident support, or deep-floor movement |
 
-**Archive Status:** Active Logistics Infrastructure Technology Record
-**Distribution:** Administration / Logistics / Recovery / Containment / Research / Security / Nusantara Deep Relay
-**Authority:** Relay Administration, Site Director, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Logistics Infrastructure Technology Record |
+| DISTRIBUTION | Administration / Logistics / Recovery / Containment / Research / Security / Nusantara Deep Relay |
+| AUTHORITY | Relay Administration, Site Director, and Central Archive |
 
 #### Archive Note
 Internal Logistics Coordination Center is the seventy-seventh main A.C.T technology expanded into an individual record. The F-5 Personnel and Command Level dossier identifies the relay's internal logistics center as the system coordinating movement of material, equipment, and personnel within the built installation and supporting Nusantara's far-flung maritime and monitoring operations.

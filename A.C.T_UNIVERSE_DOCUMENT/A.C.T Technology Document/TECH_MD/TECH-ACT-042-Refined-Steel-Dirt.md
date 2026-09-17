@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - REFINED STEEL-DIRT
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-042                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Refined Steel-Dirt                                          |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | RSD                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ANOMALOUS MATERIAL / RAPID SEALANT / BLUE DIRT REFINEMENT   |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T REFINEMENT OF AFD-PL-932 BLUE DIRT                    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Materials Custody / Hazardous Materials Desk                |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Engineering, Dark World Survey, Biological Containment      |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / BREACH-SEALING DEVELOPMENT            |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | HAZARDOUS / HYDRATION-TRIGGER AND BLUE HAZE RISK            |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for sealed handling; Level 5 for hydration trigger, |
-|                            | occupied-facility deployment, and outgassing suppression    |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-042 |
+| TECHNOLOGY NAME | Refined Steel-Dirt |
+| SHORT NAME | RSD |
+| TECHNOLOGY FAMILY | ANOMALOUS MATERIAL / RAPID SEALANT / BLUE DIRT REFINEMENT |
+| ORIGIN | A.C.T REFINEMENT OF AFD-PL-932 BLUE DIRT |
+| PRIMARY CONTROLLER | Materials Custody / Hazardous Materials Desk |
+| ATTACHED DIVISIONS | Engineering, Dark World Survey, Biological Containment |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / BREACH-SEALING DEVELOPMENT |
+| RISK STATUS | HAZARDOUS / HYDRATION-TRIGGER AND BLUE HAZE RISK |
+| CLEARANCE REQUIRED | Level 4 for sealed handling; Level 5 for hydration trigger, occupied-facility deployment, and outgassing suppression |
 
-**Archive Status:** Active Refined Anomalous Material Technology Record  
-**Distribution:** Materials Custody / Hazardous Materials / Engineering / Dark World Survey / Biological Containment  
-**Authority:** Materials Custody, Hazardous Materials Desk, Engineering Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Refined Anomalous Material Technology Record |
+| DISTRIBUTION | Materials Custody / Hazardous Materials / Engineering / Dark World Survey / Biological Containment |
+| AUTHORITY | Materials Custody, Hazardous Materials Desk, Engineering Division, and Central Archive |
 
 #### Archive Note
 Refined Steel-Dirt is the forty-second main A.C.T technology expanded into an individual record. The Master Catalog defines it as a stabilized byproduct of Blue Dirt with the tensile strength of steel and the mass of topsoil. The visual guide describes vivid blue powder stored in pressurized hoppers with a hydration-trigger valve used to spray material for instantaneous steel-grade breach sealing. Dark World Door files identify raw Blue Dirt as vivid blue particulate matter that hardens into high-grade steel within four seconds after contact with water, then emits toxic fumes for more than twelve months. The Blue Dirt reactivity dossier names that event a Steel-Bloom and records the dangerous Blue Haze released afterward.

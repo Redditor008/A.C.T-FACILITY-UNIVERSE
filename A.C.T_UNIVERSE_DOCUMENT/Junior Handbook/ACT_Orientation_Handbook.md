@@ -6,9 +6,11 @@
                  Anomaly Containment Transformation
 ═══════════════════════════════════════════════════════════════════════
 
-**DISTRIBUTION:** Junior Employees / Level 1-2 Personnel  
-**AUTHORITY:** Administrative Division / O5 Council  
-**STATUS:** Active Educational Standard
+| FIELD | VALUE |
+|---|---|
+| DISTRIBUTION | Junior Employees / Level 1-2 Personnel |
+| AUTHORITY | Administrative Division / O5 Council |
+| STATUS | Active Educational Standard |
 
 ---
 

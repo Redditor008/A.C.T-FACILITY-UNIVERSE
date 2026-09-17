@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### Vault Record — ENTITY-000 / ITHYOS
 
-**Archive Status:** Sealed  
-**Distribution:** Absolute Restricted  
-**Authority:** Vault Archive  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Sealed |
+| DISTRIBUTION | Absolute Restricted |
+| AUTHORITY | Vault Archive |
 
 #### Archive Note
 This file is the complete internal archive version of the first preserved vault document in A.C.T history. It preserves the pre-anomaly-era language, early threat understanding, and original doctrinal significance of ENTITY-000.

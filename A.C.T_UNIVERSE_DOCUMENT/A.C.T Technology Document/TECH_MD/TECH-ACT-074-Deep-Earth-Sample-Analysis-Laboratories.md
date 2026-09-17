@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - DEEP-EARTH SAMPLE ANALYSIS LABORATORIES
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-074                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Deep-Earth Sample Analysis Laboratories                     |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | DESAL                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | GEOLOGICAL RESEARCH / VOLCANIC ANALYSIS / RESTRICTED STUDY |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY F-4 RESEARCH LEVEL                    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Research Division / Deep-Earth Analysis Desk                |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Seismic Analysis, Containment, Engineering, Archive         |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / GEOLOGICAL AND VOLCANIC SAMPLE USE                |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | SAMPLE ACTIVATION / RESTRICTED CORRELATION / CONTAMINATION |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for ordinary geological analysis; Level 4 or        |
-|                            | review-chain authority for abyss-linked samples             |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-074 |
+| TECHNOLOGY NAME | Deep-Earth Sample Analysis Laboratories |
+| SHORT NAME | DESAL |
+| TECHNOLOGY FAMILY | GEOLOGICAL RESEARCH / VOLCANIC ANALYSIS / RESTRICTED STUDY |
+| ORIGIN | NUSANTARA DEEP RELAY F-4 RESEARCH LEVEL |
+| PRIMARY CONTROLLER | Research Division / Deep-Earth Analysis Desk |
+| ATTACHED DIVISIONS | Seismic Analysis, Containment, Engineering, Archive |
+| OPERATIONAL STATUS | ACTIVE / GEOLOGICAL AND VOLCANIC SAMPLE USE |
+| RISK STATUS | SAMPLE ACTIVATION / RESTRICTED CORRELATION / CONTAMINATION |
+| CLEARANCE REQUIRED | Level 3 for ordinary geological analysis; Level 4 or review-chain authority for abyss-linked samples |
 
-**Archive Status:** Active Deep-Earth Research Technology Record
-**Distribution:** Research / Seismic Analysis / Engineering / Containment / Nusantara Deep Relay
-**Authority:** Deep-Earth Analysis Desk, Floor Research Chief, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Deep-Earth Research Technology Record |
+| DISTRIBUTION | Research / Seismic Analysis / Engineering / Containment / Nusantara Deep Relay |
+| AUTHORITY | Deep-Earth Analysis Desk, Floor Research Chief, and Central Archive |
 
 #### Archive Note
 Deep-Earth Sample Analysis Laboratories are the seventy-fourth main A.C.T technology expanded into an individual record. The F-4 Laboratory and Research Level dossier identifies deep-earth sample analysis laboratories as a primary research system for material from Nusantara's geological and volcanic operations: samples from the island's foundation, volcanic material, and deep-earth material characterized under the relay's research doctrine. F-4 also coordinates with F-2 and F-1 when deep-earth interpretation or material falls under restricted review.

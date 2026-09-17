@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ## Facility Overview
 
-**Archive Status:** Active  
-**Distribution:** Internal  
-**Authority:** A.C.T Central Archive  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal |
+| AUTHORITY | A.C.T Central Archive |
 
 ### Archive Note
 This file is the complete internal archive version of the Facility overview. It preserves the core doctrine, mission, secrecy logic, and operational philosophy of A.C.T in full internal language.

@@ -1,8 +1,10 @@
 # HIGENMARU-KŌRIN — Updated 2026 Entity and Capability Profile
 
-**A.C.T designation:** AFD-OB-221  
-**Primary name:** HIGENMARU-KŌRIN  
-**HIGENMARU:** 緋玄丸  
+| FIELD | VALUE |
+|---|---|
+| A.C.T DESIGNATION | AFD-OB-221 |
+| PRIMARY NAME | HIGENMARU-KŌRIN |
+| HIGENMARU | 緋玄丸 |
 **KŌRIN:** 紅鱗  
 **Known title:** The Dual-Edge Dichotomy / The Crimson and Onyx Blade  
 **Current year:** 2026  

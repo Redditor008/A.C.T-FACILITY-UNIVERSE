@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - SYMBOL BEHAVIOR CONTROLLED OBSERVATION SUITES
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-118
-TECHNOLOGY NAME: Symbol Behavior Controlled Observation Suites
-SHORT NAME: SBCOS
-TECHNOLOGY FAMILY: SYMBOL STUDY / VISUAL DENIAL / EXPOSURE-RESTRICTED ANALYSIS
-ORIGIN: KUROKAWA ARCHIVE NODE F-4 RESEARCH AND ANALYSIS LEVEL
-PRIMARY CONTROLLER: Floor Research Chief / Symbol Behavior Study Lead
-ATTACHED DIVISIONS: Researcher, Archive, Intelligence, Medical, Security
-OPERATIONAL STATUS: ACTIVE / CONTROLLED SYMBOL RESEARCH
-RISK STATUS: VISUAL EXPOSURE / PROPAGATION ERROR / STUDY OVERREACH
-CLEARANCE REQUIRED: Level 4 for symbol-study duty; Level 5 for Dread EYE restriction-set modification or full-effect review
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-118                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Symbol Behavior Controlled Observation Suites               |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | SBCOS                                                       |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | SYMBOL STUDY / VISUAL DENIAL / EXPOSURE-RESTRICTED ANALYSIS |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | KUROKAWA ARCHIVE NODE F-4 RESEARCH AND ANALYSIS LEVEL       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Floor Research Chief / Symbol Behavior Study Lead           |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Researcher, Archive, Intelligence, Medical, Security        |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / CONTROLLED SYMBOL RESEARCH                         |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | VISUAL EXPOSURE / PROPAGATION ERROR / STUDY OVERREACH       |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for symbol-study duty; Level 5 for Dread EYE        |
+|                            | restriction-set modification or full-effect review          |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Kurokawa Research Technology Record
 Distribution: Kurokawa Archive Node / Researcher Division / Archive / Intelligence / Medical / Security

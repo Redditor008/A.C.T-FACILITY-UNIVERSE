@@ -3,11 +3,13 @@
 ## Pre-Anomaly Era Record
 ## ENTITY FILE: 000
 
-**Vault Status:** Sealed  
-**Record Status:** Absolute Restricted  
-**Document Type:** Raw Entity Archive  
-**Classification Era:** Before formal Anomaly designation  
-**Distribution:** Command Authority Only  
+| FIELD | VALUE |
+|---|---|
+| VAULT STATUS | Sealed |
+| RECORD STATUS | Absolute Restricted |
+| DOCUMENT TYPE | Raw Entity Archive |
+| CLASSIFICATION ERA | Before formal Anomaly designation |
+| DISTRIBUTION | Command Authority Only |
 
 ---
 

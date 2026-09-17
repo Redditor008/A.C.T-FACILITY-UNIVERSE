@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - STANDARD BOX HOLDING CHAMBER SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-124                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Standard Box Holding Chamber System                         |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SBHCS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | STANDARD OBJECT HOLDING / BOX ARCHITECTURE / CHAMBER ROWS  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | REDWOOD VEIL COMPLEX F-3 STANDARD OBJECT CHAMBERS           |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Floor Holding Chief / Containment Division                  |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Containment, Security, Recovery, Archive, Transformation    |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / STANDARD RESIDENT OBJECT HOLDING                   |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CHAMBER MISASSIGNMENT / MONITORING LOSS / ROUTING FAILURE  |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Standard holding authorization; elevated authorization for  |
-|                            | transfer to F-2 restricted hold or F-4 transformation review|
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-124 |
+| TECHNOLOGY NAME | Standard Box Holding Chamber System |
+| SHORT NAME | SBHCS |
+| TECHNOLOGY FAMILY | STANDARD OBJECT HOLDING / BOX ARCHITECTURE / CHAMBER ROWS |
+| ORIGIN | REDWOOD VEIL COMPLEX F-3 STANDARD OBJECT CHAMBERS |
+| PRIMARY CONTROLLER | Floor Holding Chief / Containment Division |
+| ATTACHED DIVISIONS | Containment, Security, Recovery, Archive, Transformation |
+| OPERATIONAL STATUS | ACTIVE / STANDARD RESIDENT OBJECT HOLDING |
+| RISK STATUS | CHAMBER MISASSIGNMENT / MONITORING LOSS / ROUTING FAILURE |
+| CLEARANCE REQUIRED | Standard holding authorization; elevated authorization for transfer to F-2 restricted hold or F-4 transformation review |
 
-**Archive Status:** Active Redwood Veil Containment Technology Record
-**Distribution:** Redwood Veil Complex / Containment / Security / Recovery / Archive / Transformation
-**Authority:** Floor Holding Chief, Containment Division, Site Director, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Redwood Veil Containment Technology Record |
+| DISTRIBUTION | Redwood Veil Complex / Containment / Security / Recovery / Archive / Transformation |
+| AUTHORITY | Floor Holding Chief, Containment Division, Site Director, and Central Archive |
 
 #### Archive Note
 Standard Box Holding Chamber System is the one-hundred-twenty-fourth main A.C.T technology expanded into an individual record. The Redwood Veil F-3 Standard Object Chambers dossier identifies F-3 as the complex's largest containment level by volume and the main holding level for INERT, RESIDUAL, and SPORADIC object-class anomalies. It records chamber rows of Small, Medium, and Large Boxes, independent monitoring connections, adjustable environment, handling corridors, observation routes, intake and triage bays, transfer routes to F-2 and F-4, and the doctrine that documentation is containment.

@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - STATIC PULSE BIOMETRIC ID
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-015
-TECHNOLOGY NAME: Static Pulse Biometric ID
-SHORT NAME: SPBID
-TECHNOLOGY FAMILY: ACCESS CONTROL / IDENTITY / CAUSAL SIGNATURE SECURITY
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Security Division / Identity Control Desk
-ATTACHED DIVISIONS: O5 Liaison, Site Command, Engineering, Archive, Medical
-OPERATIONAL STATUS: ACTIVE / RESTRICTED / SENIOR-ACCESS STANDARD
-RISK STATUS: CONTROLLED / HAZARDOUS IF SPOOFED, MISKEYED, OR OVERUSED
-CLEARANCE REQUIRED: Level 4 for senior-site use; Level 5 for O5 Council pulse libraries, re-interfaced staff records, and override rules
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-015                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Static Pulse Biometric ID                                   |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | SPBID                                                       |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | ACCESS CONTROL / IDENTITY / CAUSAL SIGNATURE SECURITY       |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Security Division / Identity Control Desk                   |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | O5 Liaison, Site Command, Engineering, Archive, Medical     |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / SENIOR-ACCESS STANDARD                |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF SPOOFED, MISKEYED, OR OVERUSED    |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for senior-site use; Level 5 for O5 Council pulse   |
+|                            | libraries, re-interfaced staff records, and override rules  |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Identity Technology Record
 Distribution: Security / Identity Control / O5 Liaison / Site Command / Engineering / Archive

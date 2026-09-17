@@ -1,17 +1,31 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - BIOLOGICAL SUPPRESSION CHAMBER AND CLIMATE-CONTROLLED DEEP-ISOLATION HOLDING SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-134
-TECHNOLOGY NAME: Biological Suppression Chamber and Climate-Controlled Deep-Isolation Holding System
-SHORT NAME: BSCCDIHS
-TECHNOLOGY FAMILY: COLD SUPPRESSION / DEEP ISOLATION / STANDARD HOLDING
-ORIGIN: WHITE GRAVE STATION F-3 STANDARD DEEP-ISOLATION HOLDING
-PRIMARY CONTROLLER: Floor Holding Chief / Containment Division
-ATTACHED DIVISIONS: Containment, Security, Medical, Research, Archive
-OPERATIONAL STATUS: ACTIVE / STANDARD COLD-SUPPRESSION RESIDENT HOLDING
-RISK STATUS: SUPPRESSION DRIFT / UNIT MISASSIGNMENT / TRANSFER DELAY
-CLEARANCE REQUIRED: Standard holding authorization; elevated authority for F-2 escalation or F-4 sample-control release
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-134                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Biological Suppression Chamber and Climate-Controlled       |
+|                            | Deep-Isolation Holding System                               |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | BSCCDIHS                                                    |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | COLD SUPPRESSION / DEEP ISOLATION / STANDARD HOLDING        |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | WHITE GRAVE STATION F-3 STANDARD DEEP-ISOLATION HOLDING     |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Floor Holding Chief / Containment Division                  |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Containment, Security, Medical, Research, Archive           |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / STANDARD COLD-SUPPRESSION RESIDENT HOLDING         |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | SUPPRESSION DRIFT / UNIT MISASSIGNMENT / TRANSFER DELAY     |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Standard holding authorization; elevated authority for F-2  |
+|                            | escalation or F-4 sample-control release                    |
++----------------------------+-------------------------------------------------------------+
 
 
 Archive Status: Active White Grave Containment Technology Record

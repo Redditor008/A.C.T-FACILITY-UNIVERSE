@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - MINOR MEMETIC QUARANTINE VAULT SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-097                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Minor Memetic Quarantine Vault System                       |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | MMQVS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | MEMETIC QUARANTINE / DOCUMENT BUFFER / VISUAL DENIAL       |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | SILENT REED ANNEX F-1 MINOR MEMETIC QUARANTINE VAULT       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | F-1 Quarantine Officer / Archive Lead                       |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Archive, Intelligence, Limited Medical Cognitive Staff      |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / TEMPORARY MEMETIC BUFFER USE                       |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | SPILLOVER / OVERSTAY / UNSUPERVISED EXPOSURE RISK           |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for quarantine duty; Level 4 for closure, exposure, |
-|                            | parent-node escalation, or black-archive referral           |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-097 |
+| TECHNOLOGY NAME | Minor Memetic Quarantine Vault System |
+| SHORT NAME | MMQVS |
+| TECHNOLOGY FAMILY | MEMETIC QUARANTINE / DOCUMENT BUFFER / VISUAL DENIAL |
+| ORIGIN | SILENT REED ANNEX F-1 MINOR MEMETIC QUARANTINE VAULT |
+| PRIMARY CONTROLLER | F-1 Quarantine Officer / Archive Lead |
+| ATTACHED DIVISIONS | Archive, Intelligence, Limited Medical Cognitive Staff |
+| OPERATIONAL STATUS | ACTIVE / TEMPORARY MEMETIC BUFFER USE |
+| RISK STATUS | SPILLOVER / OVERSTAY / UNSUPERVISED EXPOSURE RISK |
+| CLEARANCE REQUIRED | Level 3 for quarantine duty; Level 4 for closure, exposure, parent-node escalation, or black-archive referral |
 
-**Archive Status:** Active Memetic Quarantine Technology Record
-**Distribution:** Silent Reed Annex / Kurokawa Archive Node / Archive / Intelligence / Limited Medical Cognitive Staff
-**Authority:** F-1 Quarantine Officer, Sub-Site Chief, Kurokawa Archive Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Memetic Quarantine Technology Record |
+| DISTRIBUTION | Silent Reed Annex / Kurokawa Archive Node / Archive / Intelligence / Limited Medical Cognitive Staff |
+| AUTHORITY | F-1 Quarantine Officer, Sub-Site Chief, Kurokawa Archive Command, and Central Archive |
 
 #### Archive Note
 Minor Memetic Quarantine Vault System is the ninety-seventh main A.C.T technology expanded into an individual record. The Silent Reed Annex dossier identifies F-1 as the secure quarantine level for low-to-mid memetic and infohazard material held under visual-denial and document-quarantine conditions. The dossier states that the annex buffers material; it does not bury it.

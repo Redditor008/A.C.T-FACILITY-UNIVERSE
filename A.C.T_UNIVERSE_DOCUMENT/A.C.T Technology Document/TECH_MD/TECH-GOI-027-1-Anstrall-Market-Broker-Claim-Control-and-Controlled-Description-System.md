@@ -1,28 +1,14 @@
 # TECH-GOI-027-1 - ANSTRALL MARKET BROKER CLAIM-CONTROL AND CONTROLLED-DESCRIPTION DISTRIBUTION SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-027-1                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Anstrall Market Broker Claim-Control and                    |
-|                            | Controlled-Description Distribution System                  |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Claim Control / Broker Description Set / Narrowed Claim     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Anstrall Market                                             |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Recovered fragments from intercepted broker contact; no     |
-|                            | complete Market description standard held                   |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Trade interdiction, buyer-network mapping, information      |
-|                            | containment, controlled-contact safety                      |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | TRADE-INTERDICTION RESTRICTED / ACTIVE-ROUTE DISCLOSURE     |
-|                            | LIMIT                                                       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-027-1 |
+| TECHNOLOGY NAME | Anstrall Market Broker Claim-Control and Controlled-Description Distribution System |
+| COMMON ABBREVIATIONS | Claim Control / Broker Description Set / Narrowed Claim |
+| ORIGIN | Anstrall Market |
+| ACQUISITION STATUS | Recovered fragments from intercepted broker contact; no complete Market description standard held |
+| PRIMARY A.C.T INTEREST | Trade interdiction, buyer-network mapping, information containment, controlled-contact safety |
+| ARCHIVE HANDLING | TRADE-INTERDICTION RESTRICTED / ACTIVE-ROUTE DISCLOSURE LIMIT |
 
 ## Functional Identity
 

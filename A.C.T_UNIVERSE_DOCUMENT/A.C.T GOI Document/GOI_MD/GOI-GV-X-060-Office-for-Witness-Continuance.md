@@ -1,72 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - OFFICE FOR WITNESS CONTINUANCE
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-GV-X-060                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Office for Witness Continuance                              |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | OWC                                                         |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Witness Continuance Office; Continuance Board; O.W.C.;      |
-|                            | Office of Unbroken Testimony; [CENSOR: LEGAL ACT NAME]      |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | GOVERNMENT                                                  |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | NEGATIVE                                                    |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | NATIONAL                                                    |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | HANDLER                                                     |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 3                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | LEAKING                                                     |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | MONITOR / MISDIRECT / INFILTRATE                           |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Continuance Commissioner; tribunal chairs and legal         |
-|                            | protectors confirmed; full ministerial sponsor unresolved   |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Lawyers, tribunal clerks, witness advocates, record guards, |
-|                            | survivor escorts, medical observers, and sealed archivists  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | National courts, hospitals, survivor shelters, family       |
-|                            | notification offices, detention appeals, and public records |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Continuance writs, protected testimony vaults, injunction   |
-|                            | channels, survivor ledgers, amnestic challenge forms, and   |
-|                            | emergency custody stays                                     |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Legal offices, tribunal rooms, witness hostels, sealed      |
-|                            | transcript stores, hospital liaison desks, and court archives|
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | A witness remains a person after the event and cannot be    |
-|                            | erased only because truth is operationally inconvenient     |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Repeated legal obstruction, witness extraction, testimony   |
-|                            | preservation, amnestic challenge, and detention review      |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | Restricted witness, amnestic, survivor-rights, detention,   |
-|                            | transformed-person, and public accountability chains        |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - adversarial legal-state witness authority          |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division / Civil Covert / Legal Liaison        |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with Site-specific survivor custody review  |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for protected witness names, tribunal      |
-|                            | transcripts, and sealed amnestic appeal exhibits            |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-GV-X-060 |
+| COMMON NAME | Office for Witness Continuance |
+| SHORT NAME | OWC |
+| KNOWN ALIASES | Witness Continuance Office; Continuance Board; O.W.C.; Office of Unbroken Testimony; [CENSOR: LEGAL ACT NAME] |
+| NATURE CLASS | GOVERNMENT |
+| ALIGNMENT CLASS | NEGATIVE |
+| REACH CLASS | NATIONAL |
+| ANOMALOUS CAPABILITY | HANDLER |
+| THREAT LEVEL | 3 |
+| SECRECY RISK | LEAKING |
+| A.C.T POSTURE | MONITOR / MISDIRECT / INFILTRATE |
+| KNOWN LEADERSHIP | Continuance Commissioner; tribunal chairs and legal protectors confirmed; full ministerial sponsor unresolved |
+| KNOWN MEMBERSHIP | Lawyers, tribunal clerks, witness advocates, record guards, survivor escorts, medical observers, and sealed archivists |
+| PRIMARY ACTIVE REGION | National courts, hospitals, survivor shelters, family notification offices, detention appeals, and public records |
+| KNOWN ASSETS | Continuance writs, protected testimony vaults, injunction channels, survivor ledgers, amnestic challenge forms, and emergency custody stays |
+| KNOWN HOLDINGS | Legal offices, tribunal rooms, witness hostels, sealed transcript stores, hospital liaison desks, and court archives |
+| IDEOLOGY | A witness remains a person after the event and cannot be erased only because truth is operationally inconvenient |
+| HISTORY WITH A.C.T | Repeated legal obstruction, witness extraction, testimony preservation, amnestic challenge, and detention review |
+| ANOMALY CROSS-REFERENCE | Restricted witness, amnestic, survivor-rights, detention, transformed-person, and public accountability chains |
+| CURRENT STATUS | ACTIVE - adversarial legal-state witness authority |
+| PRIMARY FILE AUTHORITY | Intelligence Division / Civil Covert / Legal Liaison |
+| SITE JURISDICTION | Central Command with Site-specific survivor custody review |
+| CLEARANCE REQUIRED | Level 4; Level 5 for protected witness names, tribunal transcripts, and sealed amnestic appeal exhibits |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Intelligence / Civil Covert / Legal Liaison / Subject Care / Medical / Command
-**Authority:** Intelligence Division, Civil Covert Division, Legal Liaison, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Intelligence / Civil Covert / Legal Liaison / Subject Care / Medical / Command |
+| AUTHORITY | Intelligence Division, Civil Covert Division, Legal Liaison, and Central Archive |
 
 #### Archive Note
 The Office for Witness Continuance is the active government filing for an outside legal-state authority that protects witnesses, anomaly survivors, transformed persons, families, and detained subjects from forced disappearance, unreviewed amnestics, unlawful silence, and permanent removal from public record. The Office is not an A.C.T ethics board, not a normal civil-rights charity, not a court clerk rumor, and not a single lawyer network. It qualifies as a Group of Interest because it holds statutory authority, tribunal rooms, protected archives, trained advocates, injunction tools, survivor hostels, and a repeated ability to obstruct A.C.T containment secrecy through legal action.

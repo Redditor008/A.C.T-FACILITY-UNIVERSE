@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - COASTAL WATCH COORDINATION CENTER
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-083                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Coastal Watch Coordination Center                           |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | CWCC                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | COASTAL OBSERVATION / WATCH COORDINATION / RELAY REPORTING |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | ASH TIDE WATCHPOINT F-2 OPERATIONS AND WATCH LEVEL         |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Watch Officer / Watch Chief                                 |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Seismic Monitoring, Recovery Support, Security, Command     |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / CONTINUOUS WATCH USE                               |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | MISSED ARRIVAL / FALSE REPORT / REPORTING DELAY RISK        |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for watch-floor duty; Level 4 for anomaly sighting, |
-|                            | parent-relay escalation, or recovery staging command        |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-083 |
+| TECHNOLOGY NAME | Coastal Watch Coordination Center |
+| SHORT NAME | CWCC |
+| TECHNOLOGY FAMILY | COASTAL OBSERVATION / WATCH COORDINATION / RELAY REPORTING |
+| ORIGIN | ASH TIDE WATCHPOINT F-2 OPERATIONS AND WATCH LEVEL |
+| PRIMARY CONTROLLER | Watch Officer / Watch Chief |
+| ATTACHED DIVISIONS | Seismic Monitoring, Recovery Support, Security, Command |
+| OPERATIONAL STATUS | ACTIVE / CONTINUOUS WATCH USE |
+| RISK STATUS | MISSED ARRIVAL / FALSE REPORT / REPORTING DELAY RISK |
+| CLEARANCE REQUIRED | Level 3 for watch-floor duty; Level 4 for anomaly sighting, parent-relay escalation, or recovery staging command |
 
-**Archive Status:** Active Coastal Watch Technology Record
-**Distribution:** Watch Staff / Recovery Support / Security / Nusantara Deep Relay / Ash Tide Watchpoint
-**Authority:** Watch Officer, Watch Chief, Nusantara Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Coastal Watch Technology Record |
+| DISTRIBUTION | Watch Staff / Recovery Support / Security / Nusantara Deep Relay / Ash Tide Watchpoint |
+| AUTHORITY | Watch Officer, Watch Chief, Nusantara Site Command, and Central Archive |
 
 #### Archive Note
 Coastal Watch Coordination Center is the eighty-third main A.C.T technology expanded into an individual record. The Ash Tide Watchpoint dossier defines the sub-site as the relay's coastal eye, responsible for coastal anomaly watch, sea-entry relay, volcanic-event observation support, and hidden emergency intake. The F-2 Operations and Watch Level dossier identifies the watch coordination center as the space where continuous observation of assigned coastal corridors, instrument feeds, and reporting coordination are conducted.

@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - SILENT BOUNDARY SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-055                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Silent Boundary System                                      |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SBS                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | NORMALCY INFRASTRUCTURE / PUBLIC NARRATIVE CONTROL          |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T INDUSTRIAL EXPANSION ERA, 1926                        |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Civil Covert Division / Intelligence Division               |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Recovery, Medical Care, Archiver Division, Site Command     |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / STRUCTURAL NORMALCY SUPPORT                        |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CIVILIAN REALITY MANAGEMENT / INTERNAL MEMORY RISK          |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for local cover operations; Level 4 for regional    |
-|                            | narrative coordination; Level 5 for structural operations   |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-055 |
+| TECHNOLOGY NAME | Silent Boundary System |
+| SHORT NAME | SBS |
+| TECHNOLOGY FAMILY | NORMALCY INFRASTRUCTURE / PUBLIC NARRATIVE CONTROL |
+| ORIGIN | A.C.T INDUSTRIAL EXPANSION ERA, 1926 |
+| PRIMARY CONTROLLER | Civil Covert Division / Intelligence Division |
+| ATTACHED DIVISIONS | Recovery, Medical Care, Archiver Division, Site Command |
+| OPERATIONAL STATUS | ACTIVE / STRUCTURAL NORMALCY SUPPORT |
+| RISK STATUS | CIVILIAN REALITY MANAGEMENT / INTERNAL MEMORY RISK |
+| CLEARANCE REQUIRED | Level 3 for local cover operations; Level 4 for regional narrative coordination; Level 5 for structural operations |
 
-**Archive Status:** Active Normalcy Infrastructure Technology Record  
-**Distribution:** Civil Covert / Intelligence / Recovery / Medical Care / Archiver Division / Site Command  
-**Authority:** Civil Covert Division, Intelligence Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Normalcy Infrastructure Technology Record |
+| DISTRIBUTION | Civil Covert / Intelligence / Recovery / Medical Care / Archiver Division / Site Command |
+| AUTHORITY | Civil Covert Division, Intelligence Division, and Central Archive |
 
 #### Archive Note
 The Silent Boundary System is the fifty-fifth main A.C.T technology expanded into an individual record. The Technological Evolution Timeline places the Silent Boundary in 1926 during the Industrial Expansion era, describing it as the first Normalcy protocol shift away from visible vaults and toward integrated architectural concealment. The Normalcy Management and Public Narrative Doctrine defines A.C.T's public face as the ordinary explanation left behind after the impossible is removed and gives Civil Covert authority over public masks, false explanations, shell institutions, civilian narrative insertion, rumor dampening, media liaison, and non-violent institutional influence.

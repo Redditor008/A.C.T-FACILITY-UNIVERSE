@@ -1,27 +1,14 @@
 # TECH-GOI-055-3 - CAIRN & LINTEL SHELTER KEY ACTIVATION SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-055-3                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Cairn & Lintel Shelter Key Activation System                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Shelter Key / Green Key / C&L Key                           |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Cairn & Lintel                                              |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Recovered inactive key evidence, route-card instruction,    |
-|                            | and cooperative shelter review                              |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Emergency door activation, child-safe evacuation, access    |
-|                            | control, post-incident component custody                    |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | OCCUPIED-SHELTER DISCLOSURE LIMIT / RECOVERY-SUBJECT CARE   |
-|                            | REVIEW                                                      |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-055-3 |
+| TECHNOLOGY NAME | Cairn & Lintel Shelter Key Activation System |
+| COMMON ABBREVIATIONS | Shelter Key / Green Key / C&L Key |
+| ORIGIN | Cairn & Lintel |
+| ACQUISITION STATUS | Recovered inactive key evidence, route-card instruction, and cooperative shelter review |
+| PRIMARY A.C.T INTEREST | Emergency door activation, child-safe evacuation, access control, post-incident component custody |
+| ARCHIVE HANDLING | OCCUPIED-SHELTER DISCLOSURE LIMIT / RECOVERY-SUBJECT CARE REVIEW |
 
 ## Functional Identity
 

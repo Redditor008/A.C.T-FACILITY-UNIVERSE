@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - NON-EUCLIDEAN COMPASS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-018                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Non-Euclidean Compass                                       |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | NEC                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | FIELD / NAVIGATION / PROBABILITY MAPPING / SURVEY           |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Survey Division / Dark World Expedition Desk                |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Recovery, Engineering, Site Command, Archive, Intelligence  |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / EXPEDITION-CRITICAL                   |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF MAP, THREAD, OR NORTH IS SPOOFED |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for supervised survey use; Level 4 for Narrative    |
-|                            | North calibration, Aether-Filter access, and route records  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-018 |
+| TECHNOLOGY NAME | Non-Euclidean Compass |
+| SHORT NAME | NEC |
+| TECHNOLOGY FAMILY | FIELD / NAVIGATION / PROBABILITY MAPPING / SURVEY |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Survey Division / Dark World Expedition Desk |
+| ATTACHED DIVISIONS | Recovery, Engineering, Site Command, Archive, Intelligence |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / EXPEDITION-CRITICAL |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF MAP, THREAD, OR NORTH IS SPOOFED |
+| CLEARANCE REQUIRED | Level 3 for supervised survey use; Level 4 for Narrative North calibration, Aether-Filter access, and route records |
 
-**Archive Status:** Active Expedition Navigation Technology Record  
-**Distribution:** Survey / Dark World Expedition Desk / Recovery / Engineering / Site Command / Archive  
-**Authority:** Survey Division, Dark World Expedition Desk, Engineering Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Expedition Navigation Technology Record |
+| DISTRIBUTION | Survey / Dark World Expedition Desk / Recovery / Engineering / Site Command / Archive |
+| AUTHORITY | Survey Division, Dark World Expedition Desk, Engineering Division, and Central Archive |
 
 #### Archive Note
 The Non-Euclidean Compass is the eighteenth main A.C.T technology expanded into an individual record. The Master Catalog defines it as navigation hardware that tracks Narrative North through probability-density mapping and identifies it as essential for Dark World expeditions. The visual guide describes a rugged handheld device resembling a high-end GPS unit, with a circular digital display rendering three-dimensional topographic probability maps, a retractable adjustable focus lens that locks onto a causal thread, a flip-open Aether-Filter for seeing through localized temporal fog, and a gyro-stabilized sensor array that highlights Narrative Density in real time.

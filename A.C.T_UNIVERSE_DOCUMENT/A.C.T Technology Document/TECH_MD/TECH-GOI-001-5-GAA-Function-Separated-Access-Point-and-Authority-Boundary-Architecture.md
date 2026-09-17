@@ -1,29 +1,14 @@
 # TECH-GOI-001-5 - GAA FUNCTION-SEPARATED ACCESS POINT AND AUTHORITY BOUNDARY ARCHITECTURE
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-001-5                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | GAA Function-Separated Access Point and Authority Boundary  |
-|                            | Architecture                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Function-Separated Access Set / GAA Holdings Architecture / |
-|                            | Authority Boundary Frame                                    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Government Anti Anomaly                                     |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Cooperative liaison capability exercised under bounded task |
-|                            | authorization; access points activated per function only    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Target-hardening against hostile mapping, compromise        |
-|                            | containment, access-point triage, boundary enforcement      |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | GOVERNMENT-INTERFACE RESTRICTED / ACCESS-POINT LOCATION     |
-|                            | SEALED                                                      |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-001-5 |
+| TECHNOLOGY NAME | GAA Function-Separated Access Point and Authority Boundary Architecture |
+| COMMON ABBREVIATIONS | Function-Separated Access Set / GAA Holdings Architecture / Authority Boundary Frame |
+| ORIGIN | Government Anti Anomaly |
+| ACQUISITION STATUS | Cooperative liaison capability exercised under bounded task authorization; access points activated per function only |
+| PRIMARY A.C.T INTEREST | Target-hardening against hostile mapping, compromise containment, access-point triage, boundary enforcement |
+| ARCHIVE HANDLING | GOVERNMENT-INTERFACE RESTRICTED / ACCESS-POINT LOCATION SEALED |
 
 ## Functional Identity
 

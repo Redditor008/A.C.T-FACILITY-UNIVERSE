@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - GALAXY-MOTIVE TEXTILE
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-043                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Galaxy-Motive Textile                                       |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | GMT                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | PROTECTIVE TEXTILE / RADIATION RESISTANCE / BIO-HAZARD PPE  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Materials Custody / Protective Equipment Desk               |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Biological Containment, Recovery, Medical, Site Safety      |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / SPECIALIZED APPAREL / CASE-ISSUED                  |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / RADIATION AND CONTAMINATION INDICATOR HAZARD   |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for wear; Level 4 for tailoring, fiber repair,      |
-|                            | radiation-counter calibration, and hydrophobic treatment    |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-043 |
+| TECHNOLOGY NAME | Galaxy-Motive Textile |
+| SHORT NAME | GMT |
+| TECHNOLOGY FAMILY | PROTECTIVE TEXTILE / RADIATION RESISTANCE / BIO-HAZARD PPE |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Materials Custody / Protective Equipment Desk |
+| ATTACHED DIVISIONS | Biological Containment, Recovery, Medical, Site Safety |
+| OPERATIONAL STATUS | ACTIVE / SPECIALIZED APPAREL / CASE-ISSUED |
+| RISK STATUS | CONTROLLED / RADIATION AND CONTAMINATION INDICATOR HAZARD |
+| CLEARANCE REQUIRED | Level 3 for wear; Level 4 for tailoring, fiber repair, radiation-counter calibration, and hydrophobic treatment |
 
-**Archive Status:** Active Protective Equipment Technology Record  
-**Distribution:** Materials Custody / Protective Equipment / Biological Containment / Recovery / Medical / Site Safety  
-**Authority:** Materials Custody, Protective Equipment Desk, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Protective Equipment Technology Record |
+| DISTRIBUTION | Materials Custody / Protective Equipment / Biological Containment / Recovery / Medical / Site Safety |
+| AUTHORITY | Materials Custody, Protective Equipment Desk, and Central Archive |
 
 #### Archive Note
 Galaxy-Motive Textile is the forty-third main A.C.T technology expanded into an individual record. The Master Catalog defines it as self-luminous radiation-resistant fabric woven from restricted fibers and used in specialized containment apparel. The visual guide describes soft dark purple fabric with shifting stars and a radiation-counter strip in the hem that changes color from violet to black under high gamma exposure. Crystal Butterfly containment procedures require personnel entering the secondary chamber to wear Galaxy-Motive Textiles treated with a hydrophobic coating, paired with full-face Chrono-Stuttered Visors, because the colony's wing dust produces hydration-reactive burns and internal crystallization.

@@ -1,17 +1,32 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - BLIND BOX AND EYE BOX PERCEPTION-CONTROL VAULT SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-122
-TECHNOLOGY NAME: Blind Box and Eye Box Perception-Control Vault System
-SHORT NAME: BBEBPCVS
-TECHNOLOGY FAMILY: PERCEPTION CONTROL / MEMETIC VAULT / INFOHAZARD HOLDING
-ORIGIN: KUROKAWA ARCHIVE NODE F-2 DEEP MEMETIC AND INFOHAZARD VAULTING
-PRIMARY CONTROLLER: Floor Vault Chief / Restricted-Vault Command
-ATTACHED DIVISIONS: Archive, Intelligence, Security, Medical, Researcher
-OPERATIONAL STATUS: ACTIVE / RESTRICTED PERCEPTION-CONTROL VAULTING
-RISK STATUS: PERCEPTION BREACH / RESTRICTION-SET VIOLATION / EYE EXPOSURE
-CLEARANCE REQUIRED: Level 4 for unit maintenance; Level 5 for Eye Box observation, restriction-set alteration, or F-1 transfer
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-122                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Blind Box and Eye Box Perception-Control Vault System       |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | BBEBPCVS                                                    |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | PERCEPTION CONTROL / MEMETIC VAULT / INFOHAZARD HOLDING     |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | KUROKAWA ARCHIVE NODE F-2 DEEP MEMETIC AND INFOHAZARD       |
+|                            | VAULTING                                                    |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Floor Vault Chief / Restricted-Vault Command                |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Archive, Intelligence, Security, Medical, Researcher        |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED PERCEPTION-CONTROL VAULTING             |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | PERCEPTION BREACH / RESTRICTION-SET VIOLATION / EYE         |
+|                            | EXPOSURE                                                    |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for unit maintenance; Level 5 for Eye Box           |
+|                            | observation, restriction-set alteration, or F-1 transfer    |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Kurokawa Restricted-Vault Technology Record
 Distribution: Kurokawa Archive Node / Archive / Intelligence / Security / Medical / Researcher Division

@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - SHARED-INSTRUMENT OBSERVATION NETWORK
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-087                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Shared-Instrument Observation Network                       |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SION                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | OBSERVATION DECKS / PUBLIC INSTRUMENTS / CONCEALED WATCH   |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | ASH TIDE WATCHPOINT F-3 OBSERVATION AND INSTRUMENT HOUSING |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Station Manager / Watch Officer                             |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Legitimate Station Staff, Watch Coordination, Security      |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / DUAL-USE OBSERVATION USE                           |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | DATA BLEED / INSTRUMENT CURIOSITY / COVER-CORRELATION RISK |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 2 for public station instrument work; Level 3 for     |
-|                            | watch-linked feeds; Level 4 for concealed routing review    |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-087 |
+| TECHNOLOGY NAME | Shared-Instrument Observation Network |
+| SHORT NAME | SION |
+| TECHNOLOGY FAMILY | OBSERVATION DECKS / PUBLIC INSTRUMENTS / CONCEALED WATCH |
+| ORIGIN | ASH TIDE WATCHPOINT F-3 OBSERVATION AND INSTRUMENT HOUSING |
+| PRIMARY CONTROLLER | Station Manager / Watch Officer |
+| ATTACHED DIVISIONS | Legitimate Station Staff, Watch Coordination, Security |
+| OPERATIONAL STATUS | ACTIVE / DUAL-USE OBSERVATION USE |
+| RISK STATUS | DATA BLEED / INSTRUMENT CURIOSITY / COVER-CORRELATION RISK |
+| CLEARANCE REQUIRED | Level 2 for public station instrument work; Level 3 for watch-linked feeds; Level 4 for concealed routing review |
 
-**Archive Status:** Active Dual-Use Observation Technology Record
-**Distribution:** Station Staff / Watch Coordination / Security / Administration / Nusantara Deep Relay / Ash Tide Watchpoint
-**Authority:** Station Manager, Watch Officer, Watch Chief, Nusantara Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Dual-Use Observation Technology Record |
+| DISTRIBUTION | Station Staff / Watch Coordination / Security / Administration / Nusantara Deep Relay / Ash Tide Watchpoint |
+| AUTHORITY | Station Manager, Watch Officer, Watch Chief, Nusantara Site Command, and Central Archive |
 
 #### Archive Note
 Shared-Instrument Observation Network is the eighty-seventh main A.C.T technology expanded into an individual record. The F-3 Surface Cover Level dossier records the Natural Instrument Doctrine: the coastal research station's legitimate instruments, including oceanographic, volcanic, and wildlife monitoring equipment, are the same instruments the concealed watch requires. The dossier also identifies observation decks and monitoring equipment as surface structures that serve both genuine station work and the watchpoint's hidden purpose.

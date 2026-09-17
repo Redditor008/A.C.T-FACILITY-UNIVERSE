@@ -1,9 +1,11 @@
 # THE ABYSSAL ARCHIVE DOSSIER
 ### A.C.T. ORIGIN RECONSTRUCTION — THE FIRST LIE
 #### Complete Narrative Dossier | Compiled from Primary Archive Sources
-**Classification:** [INTERNAL USE ONLY — FRAGMENTED TRUTH PROTOCOL]  
-**Subject:** Entity Research Exploration (ERE) / Abyssal Foundation / NEMNOLIA Dependency / Founder Continuity Failure  
-**Compiler Note:** This dossier reconstructs the full chronological record of Archivist Sera Vey’s investigation into the wounded archive. All original chapter texts have been preserved without summarization, redaction, or condensation. Presented as a single continuous narrative for archival integrity.
+| FIELD | VALUE |
+|---|---|
+| CLASSIFICATION | [INTERNAL USE ONLY — FRAGMENTED TRUTH PROTOCOL] |
+| SUBJECT | Entity Research Exploration (ERE) / Abyssal Foundation / NEMNOLIA Dependency / Founder Continuity Failure |
+| COMPILER NOTE | This dossier reconstructs the full chronological record of Archivist Sera Vey’s investigation into the wounded archive. All original chapter texts have been preserved without summarization, redaction, or condensation. Presented as a single continuous narrative for archival integrity. |
 
 ---
 

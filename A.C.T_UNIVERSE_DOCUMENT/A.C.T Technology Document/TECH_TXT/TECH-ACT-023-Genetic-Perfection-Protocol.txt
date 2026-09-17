@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - GENETIC PERFECTION PROTOCOL
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-023
-TECHNOLOGY NAME: Genetic Perfection Protocol
-SHORT NAME: GPP
-TECHNOLOGY FAMILY: MEDICAL / TRANSMUTATION REPAIR / BIOLOGICAL RESTORATION
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Medical Division / Transformation Review Board
-ATTACHED DIVISIONS: Engineering, Biological Containment, Site Command, Ethics
-OPERATIONAL STATUS: ACTIVE / RESTRICTED / PATIENT-SPECIFIC
-RISK STATUS: CONTROLLED / HAZARDOUS IF OVERCORRECTIVE OR MISDIAGNOSED
-CLEARANCE REQUIRED: Level 4 for use; Level 5 for viral-vector libraries, rapid full-body rewrite response, and irreversible changes
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-023                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Genetic Perfection Protocol                                 |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | GPP                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | MEDICAL / TRANSMUTATION REPAIR / BIOLOGICAL RESTORATION     |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Medical Division / Transformation Review Board              |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Engineering, Biological Containment, Site Command, Ethics   |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / PATIENT-SPECIFIC                      |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF OVERCORRECTIVE OR MISDIAGNOSED    |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for use; Level 5 for viral-vector libraries, rapid  |
+|                            | full-body rewrite response, and irreversible changes        |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Medical Technology Record
 Distribution: Medical / Transformation Review / Biological Containment / Engineering / Site Command

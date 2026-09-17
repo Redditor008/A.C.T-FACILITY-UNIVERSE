@@ -1,28 +1,14 @@
 # TECH-GOI-027-3 - ANSTRALL MARKET HANDLER IMPROVISED CUSTODY RULE AND PACKAGING SET
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-027-3                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Anstrall Market Handler Improvised Custody Rule and         |
-|                            | Packaging Set                                               |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Handler Rules / Market Packaging / Custody Set              |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Anstrall Market                                             |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Recovered through intercepted shipments and handler         |
-|                            | interviews; packaging components partially held             |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Transport containment, improvised-rule analysis,            |
-|                            | transit-route interdiction, handler-safety assessment       |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | TRADE-INTERDICTION RESTRICTED / HANDLER-IDENTITY DISCLOSURE |
-|                            | LIMIT                                                       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-027-3 |
+| TECHNOLOGY NAME | Anstrall Market Handler Improvised Custody Rule and Packaging Set |
+| COMMON ABBREVIATIONS | Handler Rules / Market Packaging / Custody Set |
+| ORIGIN | Anstrall Market |
+| ACQUISITION STATUS | Recovered through intercepted shipments and handler interviews; packaging components partially held |
+| PRIMARY A.C.T INTEREST | Transport containment, improvised-rule analysis, transit-route interdiction, handler-safety assessment |
+| ARCHIVE HANDLING | TRADE-INTERDICTION RESTRICTED / HANDLER-IDENTITY DISCLOSURE LIMIT |
 
 ## Functional Identity
 

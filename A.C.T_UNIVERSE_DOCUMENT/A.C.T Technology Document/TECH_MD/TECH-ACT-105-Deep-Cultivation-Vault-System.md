@@ -1,37 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - DEEP CULTIVATION VAULT SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-105                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Deep Cultivation Vault System                               |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | DCVS                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | CULTIVATION VAULT / HIGH-SECURITY BIOLOGY / TRANSFORMATION |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | VERDE NULL BIO-RESERVE F-1 THE DEEP CULTIVATION VAULT      |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Deep-Cultivation Command / F-1 Vault Officer                |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Research, Transformation, Environmental Containment,        |
-|                            | Security, Medical                                           |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED CULTIVATION USE                         |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CULTIVATION ESCALATION / ACCESS FAILURE / VAULT BREACH RISK|
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for vault duty; Level 5 for cultivation-program     |
-|                            | alteration, resident access, or closure override            |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-105 |
+| TECHNOLOGY NAME | Deep Cultivation Vault System |
+| SHORT NAME | DCVS |
+| TECHNOLOGY FAMILY | CULTIVATION VAULT / HIGH-SECURITY BIOLOGY / TRANSFORMATION |
+| ORIGIN | VERDE NULL BIO-RESERVE F-1 THE DEEP CULTIVATION VAULT |
+| PRIMARY CONTROLLER | Deep-Cultivation Command / F-1 Vault Officer |
+| ATTACHED DIVISIONS | Research, Transformation, Environmental Containment, Security, Medical |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED CULTIVATION USE |
+| RISK STATUS | CULTIVATION ESCALATION / ACCESS FAILURE / VAULT BREACH RISK |
+| CLEARANCE REQUIRED | Level 4 for vault duty; Level 5 for cultivation-program alteration, resident access, or closure override |
 
-**Archive Status:** Active Deep Cultivation Technology Record
-**Distribution:** Verde Null Bio-Reserve / Research / Transformation / Environmental Containment / Security / Medical
-**Authority:** Deep-Cultivation Command, F-1 Vault Officer, Verde Null Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Deep Cultivation Technology Record |
+| DISTRIBUTION | Verde Null Bio-Reserve / Research / Transformation / Environmental Containment / Security / Medical |
+| AUTHORITY | Deep-Cultivation Command, F-1 Vault Officer, Verde Null Site Command, and Central Archive |
 
 #### Archive Note
 Deep Cultivation Vault System is the one-hundred-fifth main A.C.T technology expanded into an individual record. The Verde Null Bio-Reserve dossier identifies F-1 as the Deep Cultivation Vault: the deepest and most restricted level, used for high-security biological containment and long-term cultivation programs tied to the reserve's transformation doctrine. The F-1 floor dossier identifies cultivation chambers, observation and monitoring gallery, service ring, floor command post, secure archive alcove, and F-1 closure procedure.

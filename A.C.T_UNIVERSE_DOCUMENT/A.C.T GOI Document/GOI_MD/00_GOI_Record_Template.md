@@ -1,67 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - CONTROLLED RECORD FORM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-XX-X-XXX                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | [REGISTERED COMMON NAME]                                    |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | [SHORT NAME / INITIALISM / NONE CONFIRMED]                  |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | [ALIASES, PUBLIC MASKS, OR NONE CONFIRMED]                  |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | [GOVERNMENT / CORPORATE / CULTIC / SCIENTIFIC / CIVIL /     |
-|                            | MILITANT / ANOMALOUS / IN-HUMAN / BUSINESS / HYBRID]        |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | [NEUTRAL / POSITIVE / NEGATIVE / UNKNOWN / TRADE / BUSINESS |
-|                            | / GUILD]                                                    |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | [CELLULAR / LOCAL / REGIONAL / NATIONAL / TRANSNATIONAL /   |
-|                            | GLOBAL / STRUCTURAL]                                        |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | [NULL / EXPOSED / HANDLER / PRACTITIONER / ENGINEERING /    |
-|                            | REALITY-ACTIVE / STRUCTURAL]                                |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | [0 / 1 / 2 / 3 / 4 / 5]                                     |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | [VEILED / LEAKING / EXPOSURE-ACTIVE / NORMALCY-BREACHING]   |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | [MONITOR / INFILTRATE / MISDIRECT / CONTAIN / DISMANTLE /   |
-|                            | APPROPRIATE / ERASE / COOPERATED / HELP]                    |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | [IDENTITY, OFFICE, ROTATION, OR UNRESOLVED]                 |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | [SIZE, COMPOSITION, ACCESS LAYERS, OR UNRESOLVED]           |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | [REGION, ROUTE, OR STRUCTURAL OPERATING SPACE]              |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | [HUMAN, MATERIAL, INSTITUTIONAL, OR ANOMALOUS CAPACITY]     |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | [SITE, ROUTE, NETWORK, OR NONE CONFIRMED]                   |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | [STATED OR ASSESSED OPERATING BELIEF]                       |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | [FIRST CONTACT OR RELATIONSHIP CONDITION]                   |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | [RESTRICTED LIST / NONE CONFIRMED / SEE CASE CHAINS]        |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | [ACTIVE / DORMANT / FRAGMENTED / CONTAINED / UNKNOWN /      |
-|                            | OTHER]                                                      |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | [DIVISION / DESK / CENTRAL ARCHIVE]                         |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | [PRIMARY SITE, SUB-SITE, OR CENTRAL REVIEW]                 |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | [LEVEL AND DISTRIBUTION LIMIT]                              |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-XX-X-XXX |
+| COMMON NAME | [REGISTERED COMMON NAME] |
+| SHORT NAME | [SHORT NAME / INITIALISM / NONE CONFIRMED] |
+| KNOWN ALIASES | [ALIASES, PUBLIC MASKS, OR NONE CONFIRMED] |
+| NATURE CLASS | [GOVERNMENT / CORPORATE / CULTIC / SCIENTIFIC / CIVIL / MILITANT / ANOMALOUS / IN-HUMAN / BUSINESS / HYBRID] |
+| ALIGNMENT CLASS | [NEUTRAL / POSITIVE / NEGATIVE / UNKNOWN / TRADE / BUSINESS / GUILD] |
+| REACH CLASS | [CELLULAR / LOCAL / REGIONAL / NATIONAL / TRANSNATIONAL / GLOBAL / STRUCTURAL] |
+| ANOMALOUS CAPABILITY | [NULL / EXPOSED / HANDLER / PRACTITIONER / ENGINEERING / REALITY-ACTIVE / STRUCTURAL] |
+| THREAT LEVEL | [0 / 1 / 2 / 3 / 4 / 5] |
+| SECRECY RISK | [VEILED / LEAKING / EXPOSURE-ACTIVE / NORMALCY-BREACHING] |
+| A.C.T POSTURE | [MONITOR / INFILTRATE / MISDIRECT / CONTAIN / DISMANTLE / APPROPRIATE / ERASE / COOPERATED / HELP] |
+| KNOWN LEADERSHIP | [IDENTITY, OFFICE, ROTATION, OR UNRESOLVED] |
+| KNOWN MEMBERSHIP | [SIZE, COMPOSITION, ACCESS LAYERS, OR UNRESOLVED] |
+| PRIMARY ACTIVE REGION | [REGION, ROUTE, OR STRUCTURAL OPERATING SPACE] |
+| KNOWN ASSETS | [HUMAN, MATERIAL, INSTITUTIONAL, OR ANOMALOUS CAPACITY] |
+| KNOWN HOLDINGS | [SITE, ROUTE, NETWORK, OR NONE CONFIRMED] |
+| IDEOLOGY | [STATED OR ASSESSED OPERATING BELIEF] |
+| HISTORY WITH A.C.T | [FIRST CONTACT OR RELATIONSHIP CONDITION] |
+| ANOMALY CROSS-REFERENCE | [RESTRICTED LIST / NONE CONFIRMED / SEE CASE CHAINS] |
+| CURRENT STATUS | [ACTIVE / DORMANT / FRAGMENTED / CONTAINED / UNKNOWN / OTHER] |
+| PRIMARY FILE AUTHORITY | [DIVISION / DESK / CENTRAL ARCHIVE] |
+| SITE JURISDICTION | [PRIMARY SITE, SUB-SITE, OR CENTRAL REVIEW] |
+| CLEARANCE REQUIRED | [LEVEL AND DISTRIBUTION LIMIT] |
 
-**Archive Status:** [Active Restricted Record / Archived / Sealed / Under Review]
-**Distribution:** [Authorized A.C.T divisions and clearance boundary]
-**Authority:** [Responsible archive and operational authority]
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | [Active Restricted Record / Archived / Sealed / Under Review] |
+| DISTRIBUTION | [Authorized A.C.T divisions and clearance boundary] |
+| AUTHORITY | [Responsible archive and operational authority] |
 
 #### Archive Note
 [State the filing condition, the limit of current certainty, and whether the record concerns an organization, an anomalous group requiring dual filing, or an unresolved structure. This field establishes scope; it is not a short description.]

@@ -1,12 +1,26 @@
 TECH-GOI-027-4 - ANSTRALL MARKET CONCEALED PAYMENT AND FALSE PROVENANCE CHAIN SYSTEM
 
-Technology Designation: TECH-GOI-027-4
-Technology Name: Anstrall Market Concealed Payment and False Provenance Chain System
-Common Abbreviations: Concealed Payment / Provenance Chain / Market Exchange Set
-Origin: Anstrall Market
-Acquisition Status: Partial exchange records and provenance documents recovered during interdiction; no complete chain reconstructed
-Primary A.C.T Interest: Transaction interdiction, buyer-network reconstruction, financial-trail analysis, dispersal tracking
-Archive Handling: TRADE-INTERDICTION RESTRICTED / ACTIVE-ROUTE DISCLOSURE LIMIT
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-027-4                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Anstrall Market Concealed Payment and False Provenance      |
+|                            | Chain System                                                |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | Concealed Payment / Provenance Chain / Market Exchange Set  |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | Anstrall Market                                             |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Partial exchange records and provenance documents recovered |
+|                            | during interdiction; no complete chain reconstructed        |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Transaction interdiction, buyer-network reconstruction,     |
+|                            | financial-trail analysis, dispersal tracking                |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | TRADE-INTERDICTION RESTRICTED / ACTIVE-ROUTE DISCLOSURE     |
+|                            | LIMIT                                                       |
++----------------------------+-------------------------------------------------------------+
 
 Functional Identity
 

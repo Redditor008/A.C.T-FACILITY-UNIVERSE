@@ -1,17 +1,31 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - PERSONNEL PROCESSING AND RESERVE CLEARANCE SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-107
-TECHNOLOGY NAME: Personnel Processing and Reserve Clearance System
-SHORT NAME: PPRCS
-TECHNOLOGY FAMILY: PERSONNEL SECURITY / RESERVE ADMINISTRATION / ACCESS CORE
-ORIGIN: VERDE NULL BIO-RESERVE F-4 PERSONNEL AND OPERATIONS LEVEL
-PRIMARY CONTROLLER: Personnel Processing Office / Security Administration
-ATTACHED DIVISIONS: Administration, Security, Medical, Environmental Containment, Research
-OPERATIONAL STATUS: ACTIVE / RESERVE PERSONNEL GATEKEEPING
-RISK STATUS: CLEARANCE DRIFT / COVER EXPOSURE / BIOLOGICAL DUTY MISMATCH
-CLEARANCE REQUIRED: Level 2 for personnel intake handling; Level 3 for reserve clearance assignment; Level 4 for denial override
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-107                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Personnel Processing and Reserve Clearance System           |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | PPRCS                                                       |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | PERSONNEL SECURITY / RESERVE ADMINISTRATION / ACCESS CORE   |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | VERDE NULL BIO-RESERVE F-4 PERSONNEL AND OPERATIONS LEVEL   |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Personnel Processing Office / Security Administration       |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Administration, Security, Medical, Environmental            |
+|                            | Containment, Research                                       |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESERVE PERSONNEL GATEKEEPING                      |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CLEARANCE DRIFT / COVER EXPOSURE / BIOLOGICAL DUTY MISMATCH |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 2 for personnel intake handling; Level 3 for reserve  |
+|                            | clearance assignment; Level 4 for denial override           |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Verde Null Personnel Technology Record
 Distribution: Verde Null Bio-Reserve / Administration / Security / Medical / Environmental Containment / Archive

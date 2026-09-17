@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - ASCENDING AUTHORIZATION TRANSFORMATION STAGING LOCK SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-125                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Ascending Authorization Transformation Staging Lock System  |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | AATSL                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | TRANSFORMATION STAGING / AUTHORIZATION GATE / OBJECT FUTURE|
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | REDWOOD VEIL COMPLEX F-4 TRANSFORMATION STAGING             |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Floor Transformation Chief / Transformation Division        |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Transformation, Research, Containment, Security, Archive    |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / ASCENDING-AUTHORIZATION TRANSFORMATION CONTROL     |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | UNAUTHORIZED TRANSFORMATION / STAGING LOCK VIOLATION       |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Operation-specific ascending authorization; higher command  |
-|                            | approval for irreversible, experimental, or dangerous work  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-125 |
+| TECHNOLOGY NAME | Ascending Authorization Transformation Staging Lock System |
+| SHORT NAME | AATSL |
+| TECHNOLOGY FAMILY | TRANSFORMATION STAGING / AUTHORIZATION GATE / OBJECT FUTURE |
+| ORIGIN | REDWOOD VEIL COMPLEX F-4 TRANSFORMATION STAGING |
+| PRIMARY CONTROLLER | Floor Transformation Chief / Transformation Division |
+| ATTACHED DIVISIONS | Transformation, Research, Containment, Security, Archive |
+| OPERATIONAL STATUS | ACTIVE / ASCENDING-AUTHORIZATION TRANSFORMATION CONTROL |
+| RISK STATUS | UNAUTHORIZED TRANSFORMATION / STAGING LOCK VIOLATION |
+| CLEARANCE REQUIRED | Operation-specific ascending authorization; higher command approval for irreversible, experimental, or dangerous work |
 
-**Archive Status:** Active Redwood Veil Transformation Technology Record
-**Distribution:** Redwood Veil Complex / Transformation / Research / Containment / Security / Archive
-**Authority:** Floor Transformation Chief, Transformation Division, Site Director, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Redwood Veil Transformation Technology Record |
+| DISTRIBUTION | Redwood Veil Complex / Transformation / Research / Containment / Security / Archive |
+| AUTHORITY | Floor Transformation Chief, Transformation Division, Site Director, and Central Archive |
 
 #### Archive Note
 Ascending Authorization Transformation Staging Lock System is the one-hundred-twenty-fifth main A.C.T technology expanded into an individual record. The Redwood Veil F-4 Transformation Staging dossier identifies F-4 as the level where contained objects are evaluated for stabilization, neutralization, repurposing, or integration. It records evaluation workshops, staging chambers, staging locks, secure transfer routes, authorization and review offices, and the doctrine that the weight of a transformation decision must match the authority that approves it.

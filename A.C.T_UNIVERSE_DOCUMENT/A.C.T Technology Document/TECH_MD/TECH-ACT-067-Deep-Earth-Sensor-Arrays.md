@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - DEEP-EARTH SENSOR ARRAYS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-067                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Deep-Earth Sensor Arrays                                    |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | DESA                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | SEISMIC ANALYSIS / ABYSS-LINKED MONITORING                 |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY F-1 LISTENING DOCTRINE                |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Seismic Analysis Support                                    |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Containment, Research, Engineering, Security                |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / ISLAND-FOUNDATION DEPLOYMENT                       |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | SIGNAL MISREAD / ABYSS-LINKED CONTACT RISK                  |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for live readings, array maintenance, or abyss-     |
-|                            | linked correlation review                                   |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-067 |
+| TECHNOLOGY NAME | Deep-Earth Sensor Arrays |
+| SHORT NAME | DESA |
+| TECHNOLOGY FAMILY | SEISMIC ANALYSIS / ABYSS-LINKED MONITORING |
+| ORIGIN | NUSANTARA DEEP RELAY F-1 LISTENING DOCTRINE |
+| PRIMARY CONTROLLER | Seismic Analysis Support |
+| ATTACHED DIVISIONS | Containment, Research, Engineering, Security |
+| OPERATIONAL STATUS | ACTIVE / ISLAND-FOUNDATION DEPLOYMENT |
+| RISK STATUS | SIGNAL MISREAD / ABYSS-LINKED CONTACT RISK |
+| CLEARANCE REQUIRED | Level 4 for live readings, array maintenance, or abyss- linked correlation review |
 
-**Archive Status:** Active Seismic Monitoring Technology Record
-**Distribution:** Seismic Analysis / Containment / Research / Engineering / Nusantara Deep Relay
-**Authority:** Seismic Analysis Support, Nusantara Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Seismic Monitoring Technology Record |
+| DISTRIBUTION | Seismic Analysis / Containment / Research / Engineering / Nusantara Deep Relay |
+| AUTHORITY | Seismic Analysis Support, Nusantara Site Command, and Central Archive |
 
 #### Archive Note
 Deep-Earth Sensor Arrays are the sixty-seventh main A.C.T technology expanded into an individual record. The Nusantara Deep Relay site dossier defines the relay as A.C.T's Central Indonesia site for maritime anomalies, volcanic and tectonic response, abyss-linked seismic observation, island anomaly monitoring, and deep-earth records under restricted review. The F-1 Deep Listening Vault dossier states that deep-earth sensor arrays extend into the island's foundation and converge at the sensor nexus where the relay's deepest listening occurs.

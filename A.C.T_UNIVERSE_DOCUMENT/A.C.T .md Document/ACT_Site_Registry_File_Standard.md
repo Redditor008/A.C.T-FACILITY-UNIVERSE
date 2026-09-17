@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ## Site Registry File Standard
 
-**Archive Status:** Active  
-**Distribution:** Internal  
-**Authority:** Central Archive / Site Governance Review / Administration  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal |
+| AUTHORITY | Central Archive / Site Governance Review / Administration |
 
 ---
 

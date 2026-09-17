@@ -1,37 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - HOLLOW CANOPY FIELD STATION AND REMOTE MONITORING SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-102                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Hollow Canopy Field Station and Remote Monitoring System    |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | HCFSRMS                                                     |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | FIELD STATION / REMOTE MONITORING / ECOLOGICAL OBSERVATION |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | HOLLOW CANOPY ENCLOSURE FIELD STATIONS AND MONITORING      |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Environmental Containment Lead / Research Support Lead      |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Environmental Containment, Research Support, Limited        |
-|                            | Security                                                    |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / LOW-INTRUSION FIELD OBSERVATION USE                |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | SENSOR VISIBILITY / OBSERVATION DISTURBANCE / DATA GAP RISK|
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for field station duty; Level 4 for resident data,  |
-|                            | sensor placement, or parent-reserve research override       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-102 |
+| TECHNOLOGY NAME | Hollow Canopy Field Station and Remote Monitoring System |
+| SHORT NAME | HCFSRMS |
+| TECHNOLOGY FAMILY | FIELD STATION / REMOTE MONITORING / ECOLOGICAL OBSERVATION |
+| ORIGIN | HOLLOW CANOPY ENCLOSURE FIELD STATIONS AND MONITORING |
+| PRIMARY CONTROLLER | Environmental Containment Lead / Research Support Lead |
+| ATTACHED DIVISIONS | Environmental Containment, Research Support, Limited Security |
+| OPERATIONAL STATUS | ACTIVE / LOW-INTRUSION FIELD OBSERVATION USE |
+| RISK STATUS | SENSOR VISIBILITY / OBSERVATION DISTURBANCE / DATA GAP RISK |
+| CLEARANCE REQUIRED | Level 3 for field station duty; Level 4 for resident data, sensor placement, or parent-reserve research override |
 
-**Archive Status:** Active Field Monitoring Technology Record
-**Distribution:** Hollow Canopy Enclosure / Verde Null Bio-Reserve / Environmental Containment / Research Support / Limited Security
-**Authority:** Environmental Containment Lead, Research Support Lead, Enclosure Supervisor, Verde Null Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Field Monitoring Technology Record |
+| DISTRIBUTION | Hollow Canopy Enclosure / Verde Null Bio-Reserve / Environmental Containment / Research Support / Limited Security |
+| AUTHORITY | Environmental Containment Lead, Research Support Lead, Enclosure Supervisor, Verde Null Site Command, and Central Archive |
 
 #### Archive Note
 Hollow Canopy Field Station and Remote Monitoring System is the one-hundred-second main A.C.T technology expanded into an individual record. The Hollow Canopy Enclosure dossier identifies small concealed field stations within or adjacent to sectors: minimal structures housing monitoring equipment, observation posts, and the limited staff presence the enclosure requires. It also states that observation is conducted at distance and on ecological timescales with minimal intrusion.

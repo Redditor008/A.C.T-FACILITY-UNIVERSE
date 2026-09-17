@@ -6,12 +6,14 @@
 
 ## TITLE II: ITHYOS, THE WORLD-SLEEPER
 
-**Archive Status:** Sealed  
-**Distribution:** Absolute Restricted  
-**Authority:** Entity Transition Intake Record  
-**Document Type:** Raw entity-anomaly transition record  
-**Intake Band:** LEGACY ACCEPTED — codes 00 through 120  
-**Later Filing:** AFD-CH-000 — verified archive designation  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Sealed |
+| DISTRIBUTION | Absolute Restricted |
+| AUTHORITY | Entity Transition Intake Record |
+| DOCUMENT TYPE | Raw entity-anomaly transition record |
+| INTAKE BAND | LEGACY ACCEPTED — codes 00 through 120 |
+| LATER FILING | AFD-CH-000 — verified archive designation |
 
 **INTAKE NOTE:**  
 

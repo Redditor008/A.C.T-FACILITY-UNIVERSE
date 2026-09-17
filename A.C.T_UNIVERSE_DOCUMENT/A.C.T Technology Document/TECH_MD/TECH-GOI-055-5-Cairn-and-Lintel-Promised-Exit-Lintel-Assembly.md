@@ -1,28 +1,14 @@
 # TECH-GOI-055-5 - CAIRN & LINTEL PROMISED EXIT LINTEL ASSEMBLY
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-055-5                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Cairn & Lintel Promised Exit Lintel Assembly                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Promised Exit / C&L Lintel / Old Door Relief Lintel         |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Cairn & Lintel                                              |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Post-incident lintel inspection, invoice fragments, and     |
-|                            | restricted component review                                 |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Door survival under spatial stress, breach evacuation,      |
-|                            | protected architecture preservation, component              |
-|                            | appropriation limits                                        |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | OCCUPIED-SHELTER DISCLOSURE LIMIT / ENGINEERING-CIVIL       |
-|                            | COVERT REVIEW                                               |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-055-5 |
+| TECHNOLOGY NAME | Cairn & Lintel Promised Exit Lintel Assembly |
+| COMMON ABBREVIATIONS | Promised Exit / C&L Lintel / Old Door Relief Lintel |
+| ORIGIN | Cairn & Lintel |
+| ACQUISITION STATUS | Post-incident lintel inspection, invoice fragments, and restricted component review |
+| PRIMARY A.C.T INTEREST | Door survival under spatial stress, breach evacuation, protected architecture preservation, component appropriation limits |
+| ARCHIVE HANDLING | OCCUPIED-SHELTER DISCLOSURE LIMIT / ENGINEERING-CIVIL COVERT REVIEW |
 
 ## Functional Identity
 

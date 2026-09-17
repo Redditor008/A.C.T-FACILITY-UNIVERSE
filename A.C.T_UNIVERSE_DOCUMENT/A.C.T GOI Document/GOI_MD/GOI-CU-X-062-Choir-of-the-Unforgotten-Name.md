@@ -1,71 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - CHOIR OF THE UNFORGOTTEN NAME
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-CU-X-062                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Choir of the Unforgotten Name                               |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | CUN                                                         |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Unforgotten Choir; Name Choir; Witness-Singers; The Ninth   |
-|                            | Refrain; [CENSOR: MEMORIAL CHAPEL NAME]                    |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | CULTIC                                                      |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | NEGATIVE                                                    |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | TRANSNATIONAL                                               |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | PRACTITIONER                                                |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 4                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | EXPOSURE-ACTIVE                                             |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | INFILTRATE / MISDIRECT / CONTAIN                           |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Cantors, Name Bearers, Vestry Archivists, and Refrain       |
-|                            | Mothers; no single high priest confirmed                    |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Singers, memory keepers, survivor relatives, anti-amnestic  |
-|                            | initiates, grief archivists, and altered-name custodians    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Memorial chapels, family wakes, survivor meetings, old      |
-|                            | hospitals, dead schools, transit vigils, and hidden choirs  |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Name books, refrain sheets, bell throats, witness hymns,    |
-|                            | anti-amnestic rites, preserved testimony, and grief choirs  |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Unlisted chapels, soundproof vestries, memorial basements,  |
-|                            | mobile vigil rooms, name vaults, and recording cupboards    |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | A name erased for safety remains a wound; memory must be    |
-|                            | sung back before the dead, missing, or altered are lost     |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Repeated conflict over amnestic reversal, witness memory,   |
-|                            | public memorials, erased casualty names, and testimony rites|
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | Restricted amnestic, witness, memory-shard, memorial,       |
-|                            | missing-person, and post-incident identity case chains      |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - negative cultic memory-preservation network        |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division / Civil Covert / Subject Care         |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with Site 03 primary review                 |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for active refrain texts, child singers,   |
-|                            | NEMNOLIA-adjacent fragments, and mass-memory cases          |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-CU-X-062 |
+| COMMON NAME | Choir of the Unforgotten Name |
+| SHORT NAME | CUN |
+| KNOWN ALIASES | Unforgotten Choir; Name Choir; Witness-Singers; The Ninth Refrain; [CENSOR: MEMORIAL CHAPEL NAME] |
+| NATURE CLASS | CULTIC |
+| ALIGNMENT CLASS | NEGATIVE |
+| REACH CLASS | TRANSNATIONAL |
+| ANOMALOUS CAPABILITY | PRACTITIONER |
+| THREAT LEVEL | 4 |
+| SECRECY RISK | EXPOSURE-ACTIVE |
+| A.C.T POSTURE | INFILTRATE / MISDIRECT / CONTAIN |
+| KNOWN LEADERSHIP | Cantors, Name Bearers, Vestry Archivists, and Refrain Mothers; no single high priest confirmed |
+| KNOWN MEMBERSHIP | Singers, memory keepers, survivor relatives, anti-amnestic initiates, grief archivists, and altered-name custodians |
+| PRIMARY ACTIVE REGION | Memorial chapels, family wakes, survivor meetings, old hospitals, dead schools, transit vigils, and hidden choirs |
+| KNOWN ASSETS | Name books, refrain sheets, bell throats, witness hymns, anti-amnestic rites, preserved testimony, and grief choirs |
+| KNOWN HOLDINGS | Unlisted chapels, soundproof vestries, memorial basements, mobile vigil rooms, name vaults, and recording cupboards |
+| IDEOLOGY | A name erased for safety remains a wound; memory must be sung back before the dead, missing, or altered are lost |
+| HISTORY WITH A.C.T | Repeated conflict over amnestic reversal, witness memory, public memorials, erased casualty names, and testimony rites |
+| ANOMALY CROSS-REFERENCE | Restricted amnestic, witness, memory-shard, memorial, missing-person, and post-incident identity case chains |
+| CURRENT STATUS | ACTIVE - negative cultic memory-preservation network |
+| PRIMARY FILE AUTHORITY | Intelligence Division / Civil Covert / Subject Care |
+| SITE JURISDICTION | Central Command with Site 03 primary review |
+| CLEARANCE REQUIRED | Level 4; Level 5 for active refrain texts, child singers, NEMNOLIA-adjacent fragments, and mass-memory cases |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Intelligence / Civil Covert / Subject Care / Medical / Recovery / Containment / Command
-**Authority:** Intelligence Division, Civil Covert Division, Subject Care Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Intelligence / Civil Covert / Subject Care / Medical / Recovery / Containment / Command |
+| AUTHORITY | Intelligence Division, Civil Covert Division, Subject Care Division, and Central Archive |
 
 #### Archive Note
 Choir of the Unforgotten Name is the active cultic filing for an outside memory-preservation and anti-amnestic faith network that restores, preserves, repeats, and publicly reattaches names removed by disaster, containment secrecy, false death, memory alteration, or anomalous identity damage. The Choir is not an A.C.T office, not a witness-rights tribunal, not a harmless memorial society, not a single church, and not a normal activist group. It qualifies as a Group of Interest because it has transnational cells, rites, leaders, ledgers, memorized archives, recruitment practices, repeatable anomalous memory effects, and a direct ability to compromise A.C.T normalcy and aftercare operations.

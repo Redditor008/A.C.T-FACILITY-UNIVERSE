@@ -1,11 +1,13 @@
 # Project Moon Game Wikis (.gg and Fandom) + SCP Wiki
 ### Research Dossier for the A.C.T. Facility Universe
 
-**Research status:** Foundational reference complete  
-**Research date:** 06 September 2026  
-**Purpose:** Establish a careful, source-aware foundation before expanding the A.C.T. Facility Wiki.  
-**Prepared for:** A.C.T.-FACILITY-WIKI  
-**Scope:** The principal English-language Project Moon game wiki hubs on wiki.gg and Fandom, the ProjectMoon lore hub, the Russian Project Moon wiki.gg portal, and the official English SCP Wiki.
+| FIELD | VALUE |
+|---|---|
+| RESEARCH STATUS | Foundational reference complete |
+| RESEARCH DATE | 06 September 2026 |
+| PURPOSE | Establish a careful, source-aware foundation before expanding the A.C.T. Facility Wiki. |
+| PREPARED FOR | A.C.T.-FACILITY-WIKI |
+| SCOPE | The principal English-language Project Moon game wiki hubs on wiki.gg and Fandom, the ProjectMoon lore hub, the Russian Project Moon wiki.gg portal, and the official English SCP Wiki. |
 
 > **Owner scope update — 06 September 2026:** The public-facing independent A.C.T. core excludes the complete `A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Emergent Reality Anomaly/` folder. Its 715-series records, logs, related material, and assets are retained in the repository but are not to be migrated, featured, linked, or used as core-wiki material. The current visual-asset policy also requires an owner-approved, main-branch asset pool with an 80% SVG / maximum 20% explicitly approved non-SVG target; no automatic or AI-generated imagery is to be used. See [`2026-09-06_A.C.T._Wiki_Scope_and_Visual_Asset_Policy.md`](2026-09-06_A.C.T._Wiki_Scope_and_Visual_Asset_Policy.md) for the controlling planning decision.
 

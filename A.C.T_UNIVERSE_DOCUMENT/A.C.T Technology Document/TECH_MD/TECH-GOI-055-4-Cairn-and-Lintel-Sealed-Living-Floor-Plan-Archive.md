@@ -1,27 +1,14 @@
 # TECH-GOI-055-4 - CAIRN & LINTEL SEALED LIVING FLOOR PLAN ARCHIVE
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-055-4                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Cairn & Lintel Sealed Living Floor Plan Archive             |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Living Floor Plan / Sealed Plan / C&L Plan Archive          |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Cairn & Lintel                                              |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Restricted copied extracts, withheld full plans, and        |
-|                            | post-incident comparison access                             |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Map-discrepancy control, containment-boundary protection,   |
-|                            | evacuation planning, occupied shelter privacy               |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | OCCUPIED-SHELTER DISCLOSURE LIMIT / LEVEL 5 FOR INHABITED   |
-|                            | INTERIORS                                                   |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-055-4 |
+| TECHNOLOGY NAME | Cairn & Lintel Sealed Living Floor Plan Archive |
+| COMMON ABBREVIATIONS | Living Floor Plan / Sealed Plan / C&L Plan Archive |
+| ORIGIN | Cairn & Lintel |
+| ACQUISITION STATUS | Restricted copied extracts, withheld full plans, and post-incident comparison access |
+| PRIMARY A.C.T INTEREST | Map-discrepancy control, containment-boundary protection, evacuation planning, occupied shelter privacy |
+| ARCHIVE HANDLING | OCCUPIED-SHELTER DISCLOSURE LIMIT / LEVEL 5 FOR INHABITED INTERIORS |
 
 ## Functional Identity
 

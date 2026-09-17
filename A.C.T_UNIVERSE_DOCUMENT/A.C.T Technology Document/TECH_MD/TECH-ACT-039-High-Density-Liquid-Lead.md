@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - HIGH-DENSITY LIQUID LEAD
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-039                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | High-Density Liquid Lead                                    |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | HDLL                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | BARRIER FLUID / ARTIFACT SHIELDING / CONTAMINANT TRAPPING   |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Engineering Division / Hazardous Materials Desk             |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Artifact Storage, Biological Containment, Site Safety       |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / SHIELDING FLUID / PIPELINE-CONTROLLED              |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | HAZARDOUS / TOXIC AND HIGH-MASS BARRIER MATERIAL            |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for monitored use; Level 4 for flow adjustment;     |
-|                            | Level 5 for restricted-energy shielding configuration       |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-039 |
+| TECHNOLOGY NAME | High-Density Liquid Lead |
+| SHORT NAME | HDLL |
+| TECHNOLOGY FAMILY | BARRIER FLUID / ARTIFACT SHIELDING / CONTAMINANT TRAPPING |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Engineering Division / Hazardous Materials Desk |
+| ATTACHED DIVISIONS | Artifact Storage, Biological Containment, Site Safety |
+| OPERATIONAL STATUS | ACTIVE / SHIELDING FLUID / PIPELINE-CONTROLLED |
+| RISK STATUS | HAZARDOUS / TOXIC AND HIGH-MASS BARRIER MATERIAL |
+| CLEARANCE REQUIRED | Level 3 for monitored use; Level 4 for flow adjustment; Level 5 for restricted-energy shielding configuration |
 
-**Archive Status:** Active Hazardous Barrier Material Technology Record  
-**Distribution:** Engineering / Hazardous Materials / Artifact Storage / Biological Containment / Site Safety  
-**Authority:** Engineering Division, Hazardous Materials Desk, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Hazardous Barrier Material Technology Record |
+| DISTRIBUTION | Engineering / Hazardous Materials / Artifact Storage / Biological Containment / Site Safety |
+| AUTHORITY | Engineering Division, Hazardous Materials Desk, and Central Archive |
 
 #### Archive Note
 High-Density Liquid Lead is the thirty-ninth main A.C.T technology expanded into an individual record. The Master Catalog defines it as a barrier fluid used to absorb radiation and restricted energy in high-threat artifact shielding. The visual guide describes shimmering grey liquid moving through lead-glass pipes, with each joint fitted with a digital flow-meter and molecular-leak sensor to prevent environmental contamination. Crystal Butterfly procedures require the floor of the exclusion zone to remain coated in HDLL so fallen crystalline dust is trapped before it can contact water and trigger hydration-reactive burns.

@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - STEAM-DRILL EXCAVATOR
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-051                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Steam-Drill Excavator                                       |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SDE                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | HISTORICAL DEEP-EARTH ENGINEERING / SUB-CRUSTAL BORING     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | FIRST DESCENT ENGINEERING PROGRAM, 1888                     |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Historical Engineering Archive / Abyss Engineering          |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Engineering, History, Materials Custody, Site Archives      |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | RETIRED / PRESERVED / DOCTRINAL REFERENCE                   |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | HISTORICAL HAZARD / PRESSURE AND THERMAL FAILURE RISK       |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for archive study; Level 4 for component access;    |
-|                            | Level 5 for any reconstruction proposal                     |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-051 |
+| TECHNOLOGY NAME | Steam-Drill Excavator |
+| SHORT NAME | SDE |
+| TECHNOLOGY FAMILY | HISTORICAL DEEP-EARTH ENGINEERING / SUB-CRUSTAL BORING |
+| ORIGIN | FIRST DESCENT ENGINEERING PROGRAM, 1888 |
+| PRIMARY CONTROLLER | Historical Engineering Archive / Abyss Engineering |
+| ATTACHED DIVISIONS | Engineering, History, Materials Custody, Site Archives |
+| OPERATIONAL STATUS | RETIRED / PRESERVED / DOCTRINAL REFERENCE |
+| RISK STATUS | HISTORICAL HAZARD / PRESSURE AND THERMAL FAILURE RISK |
+| CLEARANCE REQUIRED | Level 3 for archive study; Level 4 for component access; Level 5 for any reconstruction proposal |
 
-**Archive Status:** Retired Historical Technology Record  
-**Distribution:** Historical Engineering Archive / Abyss Engineering / Materials Custody / Site Archives  
-**Authority:** Historical Engineering Archive, Abyss Engineering, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Retired Historical Technology Record |
+| DISTRIBUTION | Historical Engineering Archive / Abyss Engineering / Materials Custody / Site Archives |
+| AUTHORITY | Historical Engineering Archive, Abyss Engineering, and Central Archive |
 
 #### Archive Note
 The Steam-Drill Excavator is the fifty-first main A.C.T technology expanded into an individual record. The Technological Evolution Timeline places the Steam-Drill Excavator in 1888 during the Industrial Expansion era and defines it as custom sub-crustal boring equipment capable of sustained thermal and pressure resistance. The Historical Origin archive records that the First Deployment became an eight-month excavation and mantle-crossing mining effort through the Earth's deep structure, ending in the discovery of ITHYOS, the World-Sleeper.

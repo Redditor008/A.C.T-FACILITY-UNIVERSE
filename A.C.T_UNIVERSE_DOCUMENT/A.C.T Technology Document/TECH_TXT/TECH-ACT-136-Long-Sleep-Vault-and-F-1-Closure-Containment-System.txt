@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - LONG SLEEP VAULT AND F-1 CLOSURE CONTAINMENT SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-136
-TECHNOLOGY NAME: Long Sleep Vault and F-1 Closure Containment System
-SHORT NAME: LSVF1CCS
-TECHNOLOGY FAMILY: LONG-TERM ISOLATION / DEEP-COLD VAULT / FLOOR CLOSURE
-ORIGIN: WHITE GRAVE STATION F-1 THE LONG SLEEP
-PRIMARY CONTROLLER: Sleep Vault Chief / Containment Division Deep-Hold Command
-ATTACHED DIVISIONS: Containment, Security, Medical, Research, Archive
-OPERATIONAL STATUS: ACTIVE / MAXIMUM-REINFORCED LONG-TERM ISOLATION
-RISK STATUS: SLEEP DISTURBANCE / VAULT ACCESS FAILURE / CLOSURE COST
-CLEARANCE REQUIRED: Heavily clearance-gated resident-specific authority; Site Director or above for release or sleep-state interruption
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-136                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Long Sleep Vault and F-1 Closure Containment System         |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | LSVF1CCS                                                    |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | LONG-TERM ISOLATION / DEEP-COLD VAULT / FLOOR CLOSURE       |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | WHITE GRAVE STATION F-1 THE LONG SLEEP                      |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Sleep Vault Chief / Containment Division Deep-Hold Command  |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Containment, Security, Medical, Research, Archive           |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / MAXIMUM-REINFORCED LONG-TERM ISOLATION             |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | SLEEP DISTURBANCE / VAULT ACCESS FAILURE / CLOSURE COST     |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Heavily clearance-gated resident-specific authority; Site   |
+|                            | Director or above for release or sleep-state interruption   |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active White Grave Deep-Hold Technology Record
 Distribution: White Grave Station / Deep-Hold Command / Security / Medical / Research / Archive

@@ -2144,7 +2144,7 @@ Verified defect: `208` of `385` Markdown files carried more than one `#` (H1) he
 Repair applied to the Markdown edition:
 
 - Demoted every heading after the first H1 by exactly one level, uniformly, so relative nesting is preserved and only the shift changes.
-- Skipped fenced code blocks, so ASCII registry tables and quoted labels inside ```text fences were never treated as headings.
+- Skipped fenced code blocks, so ASCII registry tables and quoted labels inside code fences were never treated as headings.
 - Left headings already at H6 in place; none were encountered.
 - Guarded every file with two assertions: marker-stripped text must be byte-identical before and after, and the result must contain exactly one H1.
 

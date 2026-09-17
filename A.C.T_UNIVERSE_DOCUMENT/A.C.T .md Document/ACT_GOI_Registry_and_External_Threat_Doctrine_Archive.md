@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ## GOI Registry, Rival Powers, and External Threat Doctrine
 
-**Archive Status:** Active  
-**Distribution:** Internal / Intelligence Use  
-**Authority:** Intelligence Division and Central Archive  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal / Intelligence Use |
+| AUTHORITY | Intelligence Division and Central Archive |
 
 ### Archive Note
 This file is the complete internal archive version of GOI classification, registry doctrine, posture logic, and external threat interpretation used by the Facility.

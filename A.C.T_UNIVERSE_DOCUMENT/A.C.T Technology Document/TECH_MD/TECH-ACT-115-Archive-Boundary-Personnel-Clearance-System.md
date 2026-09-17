@@ -1,37 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - ARCHIVE BOUNDARY PERSONNEL CLEARANCE SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-115                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Archive Boundary Personnel Clearance System                 |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | ABPCS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | PERSONNEL CLEARANCE / ARCHIVE BOUNDARY / IDENTITY CONTROL  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | KUROKAWA ARCHIVE NODE F-7 PERSONNEL AND ADMINISTRATIVE     |
-|                            | LEVEL                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Personnel and Clearance Office / Node Administration        |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Administration, Security, Archive, Command, Training        |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / PUBLIC-OPERATIONAL PERSONNEL SEPARATION            |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | IDENTITY BLEED / CLEARANCE DRIFT / BOUNDARY FAILURE        |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for clearance processing; Level 4 for boundary      |
-|                            | override, operational-depth assignment, or denial reversal  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-115 |
+| TECHNOLOGY NAME | Archive Boundary Personnel Clearance System |
+| SHORT NAME | ABPCS |
+| TECHNOLOGY FAMILY | PERSONNEL CLEARANCE / ARCHIVE BOUNDARY / IDENTITY CONTROL |
+| ORIGIN | KUROKAWA ARCHIVE NODE F-7 PERSONNEL AND ADMINISTRATIVE LEVEL |
+| PRIMARY CONTROLLER | Personnel and Clearance Office / Node Administration |
+| ATTACHED DIVISIONS | Administration, Security, Archive, Command, Training |
+| OPERATIONAL STATUS | ACTIVE / PUBLIC-OPERATIONAL PERSONNEL SEPARATION |
+| RISK STATUS | IDENTITY BLEED / CLEARANCE DRIFT / BOUNDARY FAILURE |
+| CLEARANCE REQUIRED | Level 3 for clearance processing; Level 4 for boundary override, operational-depth assignment, or denial reversal |
 
-**Archive Status:** Active Kurokawa Personnel Technology Record
-**Distribution:** Kurokawa Archive Node / Administration / Security / Archive / Command
-**Authority:** Personnel and Clearance Office, Node Administration, Site Director's Command Floor, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Kurokawa Personnel Technology Record |
+| DISTRIBUTION | Kurokawa Archive Node / Administration / Security / Archive / Command |
+| AUTHORITY | Personnel and Clearance Office, Node Administration, Site Director's Command Floor, and Central Archive |
 
 #### Archive Note
 Archive Boundary Personnel Clearance System is the one-hundred-fifteenth main A.C.T technology expanded into an individual record. The F-7 Personnel and Administrative Level dossier identifies F-7 as the boundary floor between Kurokawa's legitimate archive and its operational archive: the place where personnel are processed, clearances are verified, training begins, and the distinction between legitimate-archive personnel and operational-archive personnel is administered. The same dossier names that identity distinction as the floor's most important security function.

@@ -4,9 +4,11 @@
 ## TITLE I: The Forgetting Bloom
 ## TITLE II: NEMNOLIA, THE GOLDEN VEIL
 
-**Archive Status:** Active  
-**Distribution:** Medical Care Division / Transformation Division / O5 Review if escalated  
-**Use Status:** Controlled Internal Pharmaceutical Derivative System  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Medical Care Division / Transformation Division / O5 Review if escalated |
+| USE STATUS | Controlled Internal Pharmaceutical Derivative System |
 
 ---
 

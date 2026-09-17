@@ -1,71 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - VELVET PROVENANCE HOUSE
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-BS-N-068                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Velvet Provenance House                                     |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | VPH                                                         |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | The Velvet House; Red Room Provenance; House of Receipts;   |
-|                            | Vellum Velvet; [CENSOR: AUCTION FAMILY NAME]                |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | BUSINESS                                                    |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | NEUTRAL                                                     |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | TRANSNATIONAL                                               |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | HANDLER                                                     |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 3                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | VEILED                                                      |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | MONITOR / MISDIRECT / COOPERATED / APPROPRIATE             |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Provenance Masters, Receipt Factors, Velvet Notaries,       |
-|                            | Lot Readers, and private-client officers                    |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Appraisers, archivists, auction agents, estate brokers,     |
-|                            | lawyers, notaries, restorers, transport clerks, and guards  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Private sales, estate rooms, museum back channels, antique  |
-|                            | fairs, bonded warehouses, and sealed collector networks     |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Provenance ledgers, red velvet lots, seal papers, auction   |
-|                            | rooms, authenticity tests, courier crates, and buyer books  |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Registered vaults, private viewing rooms, archive desks,    |
-|                            | unlisted warehouses, and temporary exhibition rooms         |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | Ownership is safer when origin, chain, and liability are    |
-|                            | recorded, even when the object should not exist publicly    |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Repeated contact through estate seizures, forged anomaly    |
-|                            | papers, museum incidents, collector disputes, and returns   |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | Restricted object, estate, auction, restoration, witness,   |
-|                            | museum, and private-collector case chains                   |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - neutral provenance market under continuing review  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division / Legal / Recovery / Civil Covert     |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with Site 01, Site 02, and regional review  |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for buyer books, return clauses, living    |
-|                            | heirs, and A.C.T-adjacent sale interventions                |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-BS-N-068 |
+| COMMON NAME | Velvet Provenance House |
+| SHORT NAME | VPH |
+| KNOWN ALIASES | The Velvet House; Red Room Provenance; House of Receipts; Vellum Velvet; [CENSOR: AUCTION FAMILY NAME] |
+| NATURE CLASS | BUSINESS |
+| ALIGNMENT CLASS | NEUTRAL |
+| REACH CLASS | TRANSNATIONAL |
+| ANOMALOUS CAPABILITY | HANDLER |
+| THREAT LEVEL | 3 |
+| SECRECY RISK | VEILED |
+| A.C.T POSTURE | MONITOR / MISDIRECT / COOPERATED / APPROPRIATE |
+| KNOWN LEADERSHIP | Provenance Masters, Receipt Factors, Velvet Notaries, Lot Readers, and private-client officers |
+| KNOWN MEMBERSHIP | Appraisers, archivists, auction agents, estate brokers, lawyers, notaries, restorers, transport clerks, and guards |
+| PRIMARY ACTIVE REGION | Private sales, estate rooms, museum back channels, antique fairs, bonded warehouses, and sealed collector networks |
+| KNOWN ASSETS | Provenance ledgers, red velvet lots, seal papers, auction rooms, authenticity tests, courier crates, and buyer books |
+| KNOWN HOLDINGS | Registered vaults, private viewing rooms, archive desks, unlisted warehouses, and temporary exhibition rooms |
+| IDEOLOGY | Ownership is safer when origin, chain, and liability are recorded, even when the object should not exist publicly |
+| HISTORY WITH A.C.T | Repeated contact through estate seizures, forged anomaly papers, museum incidents, collector disputes, and returns |
+| ANOMALY CROSS-REFERENCE | Restricted object, estate, auction, restoration, witness, museum, and private-collector case chains |
+| CURRENT STATUS | ACTIVE - neutral provenance market under continuing review |
+| PRIMARY FILE AUTHORITY | Intelligence Division / Legal / Recovery / Civil Covert |
+| SITE JURISDICTION | Central Command with Site 01, Site 02, and regional review |
+| CLEARANCE REQUIRED | Level 4; Level 5 for buyer books, return clauses, living heirs, and A.C.T-adjacent sale interventions |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Intelligence / Legal / Recovery / Civil Covert / Command
-**Authority:** Intelligence Division, Legal Division, Recovery Division, Civil Covert Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Intelligence / Legal / Recovery / Civil Covert / Command |
+| AUTHORITY | Intelligence Division, Legal Division, Recovery Division, Civil Covert Division, and Central Archive |
 
 #### Archive Note
 Velvet Provenance House is the active business filing for an outside provenance, authentication, and private-sale institution that services anomalous and anomaly-adjacent objects. The House does not present itself as a marketplace for miracles. Its public face resembles old auction families, restoration consultants, insurance investigators, estate appraisers, and private collection advisers. Its private work concerns origin, custody chain, liability, authenticity, inheritance, concealment, and the controlled return of objects whose histories cannot survive ordinary court, museum, or insurance review.

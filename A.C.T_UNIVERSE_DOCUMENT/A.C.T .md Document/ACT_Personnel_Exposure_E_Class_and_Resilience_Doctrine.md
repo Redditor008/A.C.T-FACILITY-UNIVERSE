@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### Personnel Exposure, Excommunicated Class, and Resilience Doctrine
 
-**Archive Status:** Active  
-**Distribution:** Internal / Division Command / Subject Care / Medical Care  
-**Authority:** Administration, Medical Care Division, Subject Care Division, and Personnel Review  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal / Division Command / Subject Care / Medical Care |
+| AUTHORITY | Administration, Medical Care Division, Subject Care Division, and Personnel Review |
 
 #### Archive Note
 This doctrine formalizes the human side of A.C.T operations: Excommunicated Class personnel, exposure rotation, resilience review, aftercare, and the limit between necessary risk and institutional cruelty. It does not replace the Divisions and Personnel archive. It supplies the missing operational rules that keep personnel from becoming invisible equipment.

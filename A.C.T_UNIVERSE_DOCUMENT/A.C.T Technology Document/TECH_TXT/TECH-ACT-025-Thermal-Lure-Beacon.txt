@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - THERMAL-LURE BEACON
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-025
-TECHNOLOGY NAME: Thermal-Lure Beacon
-SHORT NAME: TLB
-TECHNOLOGY FAMILY: FIELD / BIOLOGICAL CONTAINMENT / NON-HOSTILE RELOCATION
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Subject Care Division / Biological Containment Division
-ATTACHED DIVISIONS: Recovery, Medical, Engineering, Site-04 Command
-OPERATIONAL STATUS: ACTIVE / FIELD AND HABITAT ISSUE / RESTRICTED HIGH HEAT
-RISK STATUS: CONTROLLED / HAZARDOUS IF OVERHEATED OR MISDIRECTED
-CLEARANCE REQUIRED: Level 2 for habitat use; Level 3 for recovery deployment; Level 4 for high-output settings and predator routing
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-025                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Thermal-Lure Beacon                                         |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | TLB                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | FIELD / BIOLOGICAL CONTAINMENT / NON-HOSTILE RELOCATION     |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Subject Care Division / Biological Containment Division     |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Recovery, Medical, Engineering, Site-04 Command             |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / FIELD AND HABITAT ISSUE / RESTRICTED HIGH HEAT     |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF OVERHEATED OR MISDIRECTED         |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 2 for habitat use; Level 3 for recovery deployment;   |
+|                            | Level 4 for high-output settings and predator routing       |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Biological Handling Technology Record
 Distribution: Subject Care / Biological Containment / Recovery / Medical / Site-04 Command

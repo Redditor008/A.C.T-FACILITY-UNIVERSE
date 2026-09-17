@@ -1,17 +1,32 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - REDACTION RELEASE AUTHORIZATION AND FILTERING RECORD SYSTEM
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-120
-TECHNOLOGY NAME: Redaction Release Authorization and Filtering Record System
-SHORT NAME: RRAFRS
-TECHNOLOGY FAMILY: REDACTION / SAFE RELEASE / ARCHIVE RECORD CUSTODY
-ORIGIN: KUROKAWA ARCHIVE NODE F-5 REDACTION AND CONTROLLED-READING LABORATORY
-PRIMARY CONTROLLER: Redaction Authority Desk / Archive Division
-ATTACHED DIVISIONS: Archive, Intelligence, Researcher, Security, Medical
-OPERATIONAL STATUS: ACTIVE / SAFE-RELEASE REDACTION CONTROL
-RISK STATUS: OVERRELEASE / UNDERREDACTION / RECORD DRIFT / READER HARM
-CLEARANCE REQUIRED: Level 4 for release authorization; Level 5 for restricted release reversal, minimum-release override, or source return
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-120                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Redaction Release Authorization and Filtering Record System |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | RRAFRS                                                      |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | REDACTION / SAFE RELEASE / ARCHIVE RECORD CUSTODY           |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | KUROKAWA ARCHIVE NODE F-5 REDACTION AND CONTROLLED-READING  |
+|                            | LABORATORY                                                  |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Redaction Authority Desk / Archive Division                 |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Archive, Intelligence, Researcher, Security, Medical        |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / SAFE-RELEASE REDACTION CONTROL                     |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | OVERRELEASE / UNDERREDACTION / RECORD DRIFT / READER HARM   |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for release authorization; Level 5 for restricted   |
+|                            | release reversal, minimum-release override, or source       |
+|                            | return                                                      |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Kurokawa Redaction Technology Record
 Distribution: Kurokawa Archive Node / Archive / Intelligence / Researcher / Security / Medical

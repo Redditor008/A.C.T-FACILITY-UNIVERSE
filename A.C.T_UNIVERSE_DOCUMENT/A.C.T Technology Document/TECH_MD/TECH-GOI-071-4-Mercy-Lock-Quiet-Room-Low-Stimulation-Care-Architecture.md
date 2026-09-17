@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - MERCY LOCK QUIET ROOM LOW-STIMULATION CARE ARCHITECTURE
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-071-4                                             |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Mercy Lock Quiet Room Low-Stimulation Care Architecture     |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | MLQRLCA                                                     |
-+----------------------------+-------------------------------------------------------------+
-| GOI SOURCE                 | GOI-HY-P-071 - Mercy Lock Institute                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | QUIET ROOM / LOW-STIMULATION WARD / NONVIOLENT CONTAINMENT |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T CUSTODY STATUS       | ACQUIRED THROUGH WARD INSPECTION AND CONSULTATION           |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T REVIEW       | Medical / Subject Care / Containment / Engineering / Legal  |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | RESTRICTED DESIGN REVIEW / CONSULTATION USE                 |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | ROOM-PATIENT MISMATCH / ISOLATION HARM / HOSTILE ADAPTATION|
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for ward layouts, patient-linked tuning,   |
-|                            | failed room incidents, and hidden clinic addresses          |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-071-4 |
+| TECHNOLOGY NAME | Mercy Lock Quiet Room Low-Stimulation Care Architecture |
+| SHORT NAME | MLQRLCA |
+| GOI SOURCE | GOI-HY-P-071 - Mercy Lock Institute |
+| TECHNOLOGY FAMILY | QUIET ROOM / LOW-STIMULATION WARD / NONVIOLENT CONTAINMENT |
+| A.C.T CUSTODY STATUS | ACQUIRED THROUGH WARD INSPECTION AND CONSULTATION |
+| PRIMARY A.C.T REVIEW | Medical / Subject Care / Containment / Engineering / Legal |
+| OPERATIONAL STATUS | RESTRICTED DESIGN REVIEW / CONSULTATION USE |
+| RISK STATUS | ROOM-PATIENT MISMATCH / ISOLATION HARM / HOSTILE ADAPTATION |
+| CLEARANCE REQUIRED | Level 4; Level 5 for ward layouts, patient-linked tuning, failed room incidents, and hidden clinic addresses |
 
-**Archive Status:** Active GOI-Acquired Technology Record
-**Distribution:** Medical / Subject Care / Containment / Engineering / Legal / Intelligence
-**Authority:** Medical Division, Subject Care Division, Containment Division, Engineering Division, Legal Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active GOI-Acquired Technology Record |
+| DISTRIBUTION | Medical / Subject Care / Containment / Engineering / Legal / Intelligence |
+| AUTHORITY | Medical Division, Subject Care Division, Containment Division, Engineering Division, Legal Division, and Central Archive |
 
 #### Archive Note
 Mercy Lock Quiet Room Low-Stimulation Care Architecture is the fourth registered technology record derived from Mercy Lock Institute. Mercy Lock dossiers identify quiet rooms with layered acoustic, emotional, radiant, or shadow baffling; low-stimulation rooms for auditory, radiant, shadow, and memory-sensitive residents; and soft-room designs that reduce panic escalation in altered persons. A.C.T has inspected ward rooms under agreement and has observed that room architecture, restraint culture, and patient advocacy cannot be separated in Mercy Lock practice.

@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - SONAR VOID RESEARCH PROGRAM INFRASTRUCTURE
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-075                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Sonar Void Research Program Infrastructure                  |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | SVRPI                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | MARITIME RESEARCH / ACOUSTIC ABSENCE / VOID ANALYSIS       |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY F-4 SONAR VOID PROGRAM                |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Research Division / Seismic Analysis Support Liaison        |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Recovery, Containment, Security, Archive                    |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED MARITIME RESEARCH USE                  |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | DETECTION FAILURE / ACOUSTIC HAZARD / FALSE ABSENCE RISK    |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for live void data, Death Angler comparison, or     |
-|                            | abyss-linked absence correlation                            |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-075 |
+| TECHNOLOGY NAME | Sonar Void Research Program Infrastructure |
+| SHORT NAME | SVRPI |
+| TECHNOLOGY FAMILY | MARITIME RESEARCH / ACOUSTIC ABSENCE / VOID ANALYSIS |
+| ORIGIN | NUSANTARA DEEP RELAY F-4 SONAR VOID PROGRAM |
+| PRIMARY CONTROLLER | Research Division / Seismic Analysis Support Liaison |
+| ATTACHED DIVISIONS | Recovery, Containment, Security, Archive |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED MARITIME RESEARCH USE |
+| RISK STATUS | DETECTION FAILURE / ACOUSTIC HAZARD / FALSE ABSENCE RISK |
+| CLEARANCE REQUIRED | Level 4 for live void data, Death Angler comparison, or abyss-linked absence correlation |
 
-**Archive Status:** Active Maritime-Acoustic Research Technology Record
-**Distribution:** Research / Seismic Analysis / Recovery / Containment / Nusantara Deep Relay
-**Authority:** Floor Research Chief, Seismic Analysis Support, Maritime Recovery Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Maritime-Acoustic Research Technology Record |
+| DISTRIBUTION | Research / Seismic Analysis / Recovery / Containment / Nusantara Deep Relay |
+| AUTHORITY | Floor Research Chief, Seismic Analysis Support, Maritime Recovery Command, and Central Archive |
 
 #### Archive Note
 Sonar Void Research Program Infrastructure is the seventy-fifth main A.C.T technology expanded into an individual record. The F-4 Laboratory and Research Level dossier identifies continuing research into Sonar Voids: regions of ocean where sound returned nothing, through which the relay's signature resident was first detected. The Death Angler file records investigation into intermittent Sonar Voids and unexplained loss of deep-sea research submersibles as the discovery method for AFD-NB-964. Nusantara's F-4 program studies how deep-sea anomalies conceal themselves.

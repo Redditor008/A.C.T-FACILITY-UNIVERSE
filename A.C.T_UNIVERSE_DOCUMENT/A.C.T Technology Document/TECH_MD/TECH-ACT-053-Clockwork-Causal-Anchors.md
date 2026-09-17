@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - CLOCKWORK CAUSAL ANCHORS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-053                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Clockwork Causal Anchors                                    |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | CCA                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | LEGACY TEMPORAL STABILIZATION / MECHANICAL CAUSAL CONTROL  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T FOUNDATIONAL ERA, 1810s                               |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Historical Engineering Archive / Temporal Review Desk       |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Engineering, Archive, Research, Artifact Storage            |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | RETIRED / STUDY-ONLY / LIMITED DISPLAY UNDER SEAL           |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | TEMPORAL MISALIGNMENT / MECHANICAL FAILURE RISK             |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for archive review; Level 4 for mechanism access;  |
-|                            | Level 5 for winding, reconstruction, or live testing        |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-053 |
+| TECHNOLOGY NAME | Clockwork Causal Anchors |
+| SHORT NAME | CCA |
+| TECHNOLOGY FAMILY | LEGACY TEMPORAL STABILIZATION / MECHANICAL CAUSAL CONTROL |
+| ORIGIN | A.C.T FOUNDATIONAL ERA, 1810s |
+| PRIMARY CONTROLLER | Historical Engineering Archive / Temporal Review Desk |
+| ATTACHED DIVISIONS | Engineering, Archive, Research, Artifact Storage |
+| OPERATIONAL STATUS | RETIRED / STUDY-ONLY / LIMITED DISPLAY UNDER SEAL |
+| RISK STATUS | TEMPORAL MISALIGNMENT / MECHANICAL FAILURE RISK |
+| CLEARANCE REQUIRED | Level 3 for archive review; Level 4 for mechanism access; Level 5 for winding, reconstruction, or live testing |
 
-**Archive Status:** Retired Legacy Temporal Technology Record  
-**Distribution:** Historical Engineering Archive / Temporal Review Desk / Research / Artifact Storage / Archive  
-**Authority:** Historical Engineering Archive, Temporal Review Desk, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Retired Legacy Temporal Technology Record |
+| DISTRIBUTION | Historical Engineering Archive / Temporal Review Desk / Research / Artifact Storage / Archive |
+| AUTHORITY | Historical Engineering Archive, Temporal Review Desk, and Central Archive |
 
 #### Archive Note
 Clockwork Causal Anchors are the fifty-third main A.C.T technology expanded into an individual record. The Technological Evolution Timeline places CCA development in the 1810s and describes it as an early attempt to mechanize temporal stabilization using precision brass and iron systems. Later A.C.T technology produced Reality Stabilization Anchors, Causal Anchor Nails, Causal Static Generators, Causal-Reactive Mercury procedures, and other stronger methods, but CCA remains the first recorded mechanical effort to make time and cause obey an engineered rhythm.

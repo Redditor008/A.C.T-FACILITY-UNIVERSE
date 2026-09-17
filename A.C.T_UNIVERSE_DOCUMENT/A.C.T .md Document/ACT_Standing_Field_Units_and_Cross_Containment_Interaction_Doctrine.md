@@ -1,9 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### Standing Field Units and Cross-Containment Interaction Protocol
 
-**Archive Status:** Active  
-**Distribution:** Internal / Recovery / Containment / Tactical / Site Command  
-**Authority:** Field Operating Chief Council, Recovery Division, Containment Division, and Central Archive  
+| FIELD | VALUE |
+|---|---|
+| ARCHIVE STATUS | Active |
+| DISTRIBUTION | Internal / Recovery / Containment / Tactical / Site Command |
+| AUTHORITY | Field Operating Chief Council, Recovery Division, Containment Division, and Central Archive |
 
 #### Archive Note
 This doctrine records the difference between divisions, desks, temporary task groups, and standing field units. It also establishes the basic rule for one of the most dangerous operational shortcuts in A.C.T: letting anomalies, anomaly-derived tools, or anomaly-influenced subjects interact with each other.

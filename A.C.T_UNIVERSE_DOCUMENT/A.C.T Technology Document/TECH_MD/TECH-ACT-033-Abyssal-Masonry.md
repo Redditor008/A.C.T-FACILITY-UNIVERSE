@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - ABYSSAL MASONRY
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-033                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Abyssal Masonry                                             |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | ABM                                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | STRUCTURAL MATERIAL / ABYSS FLOOR / PSYCHIC-SEISMIC DAMPING |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Engineering Division / Abyss Floor Structural Desk          |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Site Command, Heavy Containment, Artifact Storage, Archive  |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / STRUCTURAL / HIGH-DENSITY DEPLOYMENT               |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / ITHYOS-RESIDUE MATERIAL                       |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for installation support; Level 4 for composition   |
-|                            | data; Level 5 for Abyss Floor core placement                |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-033 |
+| TECHNOLOGY NAME | Abyssal Masonry |
+| SHORT NAME | ABM |
+| TECHNOLOGY FAMILY | STRUCTURAL MATERIAL / ABYSS FLOOR / PSYCHIC-SEISMIC DAMPING |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Engineering Division / Abyss Floor Structural Desk |
+| ATTACHED DIVISIONS | Site Command, Heavy Containment, Artifact Storage, Archive |
+| OPERATIONAL STATUS | ACTIVE / STRUCTURAL / HIGH-DENSITY DEPLOYMENT |
+| RISK STATUS | CONTROLLED / ITHYOS-RESIDUE MATERIAL |
+| CLEARANCE REQUIRED | Level 3 for installation support; Level 4 for composition data; Level 5 for Abyss Floor core placement |
 
-**Archive Status:** Active Structural Material Technology Record  
-**Distribution:** Engineering / Abyss Floor / Site Command / Heavy Containment / Artifact Storage / Archive  
-**Authority:** Engineering Division, Abyss Floor Structural Desk, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Structural Material Technology Record |
+| DISTRIBUTION | Engineering / Abyss Floor / Site Command / Heavy Containment / Artifact Storage / Archive |
+| AUTHORITY | Engineering Division, Abyss Floor Structural Desk, and Central Archive |
 
 #### Archive Note
 Abyssal Masonry is the thirty-third main A.C.T technology expanded into an individual record. The Master Catalog defines it as a composite building material infused with ITHYOS-residue and essential for dampening seismic and psychic fluctuations on the Abyss Floor. The visual guide describes dark grey-black stone blocks with rough volcanic texture, hollowed to contain a lead-shielded restricted core designed to absorb abyssal seismic echoes. The technological timeline records its 1912 introduction as a concrete composite built to dampen seismic fluctuations within the Primary Facility. Later files place it inside Crystal Butterfly hive construction, HIGENMARU-KORIN artifact vaulting, and older deep-structure containment work.

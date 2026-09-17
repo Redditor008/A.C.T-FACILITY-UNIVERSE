@@ -1,72 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - GOVERNMENT ANTI ANOMALY
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-GV-P-001                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Government Anti Anomaly                                     |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | GAA                                                         |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Government Anti Anomaly Liaison Body; state-interface       |
-|                            | references vary by jurisdiction                             |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | GOVERNMENT                                                  |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | POSITIVE                                                    |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | NATIONAL                                                    |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | HANDLER                                                     |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 2                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | VEILED                                                      |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | COOPERATED                                                  |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | No singular leadership identity released; liaison authority |
-|                            | is function-bound and segmented                             |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Restricted government personnel; wider meaningful awareness |
-|                            | is estimated at roughly ten percent                         |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | National state-facing jurisdiction; exact liaison routes    |
-|                            | restricted                                                  |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Legal masking, classified logistics, controlled state       |
-|                            | access, and civil-continuity authority                      |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Distributed restricted access points; no unified public     |
-|                            | headquarters recognized                                     |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | Controlled state continuity without unrestricted anomaly    |
-|                            | awareness                                                   |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Standing limited cooperation; original contact sequence     |
-|                            | remains restricted                                          |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | No permanent group-wide anomaly cross-reference; consult    |
-|                            | restricted incident chains                                  |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - controlled government interface                    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division / Civil Covert Division               |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central coordination; regional routing assigned by incident |
-|                            | and threat profile                                          |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for liaison material; Level 4 for negotiation and   |
-|                            | review records                                              |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-GV-P-001 |
+| COMMON NAME | Government Anti Anomaly |
+| SHORT NAME | GAA |
+| KNOWN ALIASES | Government Anti Anomaly Liaison Body; state-interface references vary by jurisdiction |
+| NATURE CLASS | GOVERNMENT |
+| ALIGNMENT CLASS | POSITIVE |
+| REACH CLASS | NATIONAL |
+| ANOMALOUS CAPABILITY | HANDLER |
+| THREAT LEVEL | 2 |
+| SECRECY RISK | VEILED |
+| A.C.T POSTURE | COOPERATED |
+| KNOWN LEADERSHIP | No singular leadership identity released; liaison authority is function-bound and segmented |
+| KNOWN MEMBERSHIP | Restricted government personnel; wider meaningful awareness is estimated at roughly ten percent |
+| PRIMARY ACTIVE REGION | National state-facing jurisdiction; exact liaison routes restricted |
+| KNOWN ASSETS | Legal masking, classified logistics, controlled state access, and civil-continuity authority |
+| KNOWN HOLDINGS | Distributed restricted access points; no unified public headquarters recognized |
+| IDEOLOGY | Controlled state continuity without unrestricted anomaly awareness |
+| HISTORY WITH A.C.T | Standing limited cooperation; original contact sequence remains restricted |
+| ANOMALY CROSS-REFERENCE | No permanent group-wide anomaly cross-reference; consult restricted incident chains |
+| CURRENT STATUS | ACTIVE - controlled government interface |
+| PRIMARY FILE AUTHORITY | Intelligence Division / Civil Covert Division |
+| SITE JURISDICTION | Central coordination; regional routing assigned by incident and threat profile |
+| CLEARANCE REQUIRED | Level 3 for liaison material; Level 4 for negotiation and review records |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Intelligence / Civil Covert / Recovery / Containment / Command Liaison
-**Authority:** Intelligence Division and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Intelligence / Civil Covert / Recovery / Containment / Command Liaison |
+| AUTHORITY | Intelligence Division and Central Archive |
 
 #### Archive Note
 The Government Anti Anomaly is an acknowledged state-facing interface within the concealed anomaly-management environment. It is not a public ministry, a replacement Facility command body, or a government with complete knowledge of A.C.T operations. Its value lies in controlled access to ordinary institutional power without allowing ordinary institutions to see the whole concealed structure.

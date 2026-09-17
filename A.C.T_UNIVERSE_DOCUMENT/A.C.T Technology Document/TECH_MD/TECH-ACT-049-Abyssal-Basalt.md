@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - ABYSSAL BASALT
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-049                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Abyssal Basalt                                              |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | AB-BAS                                                      |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ABYSS MATERIAL / HEAVY SHIELDING / SPATIAL MASS ANCHOR      |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | ABYSS FLOOR AND STRETCHED-SPACE GEOLOGICAL EXTRACTION       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Materials Custody / Abyss Engineering                       |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Engineering, Containment, Research, Heavy Transport         |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / MASS-CONTROLLED                       |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | STRUCTURAL HAZARD / SPATIAL COMPRESSION MATERIAL           |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for handling; Level 5 for extraction, shaping, or   |
-|                            | use in heavy-entity shielding                               |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-049 |
+| TECHNOLOGY NAME | Abyssal Basalt |
+| SHORT NAME | AB-BAS |
+| TECHNOLOGY FAMILY | ABYSS MATERIAL / HEAVY SHIELDING / SPATIAL MASS ANCHOR |
+| ORIGIN | ABYSS FLOOR AND STRETCHED-SPACE GEOLOGICAL EXTRACTION |
+| PRIMARY CONTROLLER | Materials Custody / Abyss Engineering |
+| ATTACHED DIVISIONS | Engineering, Containment, Research, Heavy Transport |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / MASS-CONTROLLED |
+| RISK STATUS | STRUCTURAL HAZARD / SPATIAL COMPRESSION MATERIAL |
+| CLEARANCE REQUIRED | Level 4 for handling; Level 5 for extraction, shaping, or use in heavy-entity shielding |
 
-**Archive Status:** Active Anomalous Material Technology Record  
-**Distribution:** Materials Custody / Abyss Engineering / Containment / Research / Heavy Transport  
-**Authority:** Materials Custody, Abyss Engineering, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Anomalous Material Technology Record |
+| DISTRIBUTION | Materials Custody / Abyss Engineering / Containment / Research / Heavy Transport |
+| AUTHORITY | Materials Custody, Abyss Engineering, and Central Archive |
 
 #### Archive Note
 Abyssal Basalt is the forty-ninth main A.C.T technology expanded into an individual record. The Master Catalog defines it as ultra-high-density volcanic rock compressed by Stretched space and suited for heavy-entity shielding. The visual guide describes heavy black rocks etched with structural tracking codes and monitored on digital gravimetric scales to detect localized weight shifts or spatial compression. Existing technology records identify Abyssal Basalt as a coffin body material for Cryogenic Biological Isolation Units, a reference mass for Refined Steel-Dirt, and a related material in Abyssal Anchor Plating and Abyssal Masonry custody.

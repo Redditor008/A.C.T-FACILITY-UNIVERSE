@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - MERCY LOCK PATIENT BELL DISTRESS SIGNAL SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-071-2                                             |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Mercy Lock Patient Bell Distress Signal System              |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | MLPBDSS                                                     |
-+----------------------------+-------------------------------------------------------------+
-| GOI SOURCE                 | GOI-HY-P-071 - Mercy Lock Institute                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | PATIENT SIGNAL / NONVIOLENT CUSTODY / WARD DISTRESS CALL   |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T CUSTODY STATUS       | ACQUIRED THROUGH COOPERATIVE TRANSFER AND INSPECTION        |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T REVIEW       | Medical Division / Subject Care / Containment / Legal       |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | RESTRICTED CONSULTATION USE / PARTIAL TECHNICAL ACCESS      |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | SIGNAL NEGLECT / BELL REMOVAL / HOSTILE REPURPOSING        |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for patient-linked tuning, living names,   |
-|                            | ward locations, and failed-bell incident files              |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-071-2 |
+| TECHNOLOGY NAME | Mercy Lock Patient Bell Distress Signal System |
+| SHORT NAME | MLPBDSS |
+| GOI SOURCE | GOI-HY-P-071 - Mercy Lock Institute |
+| TECHNOLOGY FAMILY | PATIENT SIGNAL / NONVIOLENT CUSTODY / WARD DISTRESS CALL |
+| A.C.T CUSTODY STATUS | ACQUIRED THROUGH COOPERATIVE TRANSFER AND INSPECTION |
+| PRIMARY A.C.T REVIEW | Medical Division / Subject Care / Containment / Legal |
+| OPERATIONAL STATUS | RESTRICTED CONSULTATION USE / PARTIAL TECHNICAL ACCESS |
+| RISK STATUS | SIGNAL NEGLECT / BELL REMOVAL / HOSTILE REPURPOSING |
+| CLEARANCE REQUIRED | Level 4; Level 5 for patient-linked tuning, living names, ward locations, and failed-bell incident files |
 
-**Archive Status:** Active GOI-Acquired Technology Record
-**Distribution:** Medical / Subject Care / Containment / Legal / Intelligence / Engineering
-**Authority:** Medical Division, Subject Care Division, Legal Division, Intelligence Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active GOI-Acquired Technology Record |
+| DISTRIBUTION | Medical / Subject Care / Containment / Legal / Intelligence / Engineering |
+| AUTHORITY | Medical Division, Subject Care Division, Legal Division, Intelligence Division, and Central Archive |
 
 #### Archive Note
 Mercy Lock Patient Bell Distress Signal System is the second registered technology record derived from Mercy Lock Institute. A.C.T has observed patient bells wrapped in white cloth, bells retained during cooperative transfer, bells connected to gentle lock interfaces, and ward doctrine that treats an unanswered bell as a restraint failure rather than a minor care delay. The Red Key fragment preserved in Mercy Lock records states that a door held while a bell went unanswered for four minutes; A.C.T Medical classifies that incident as proof that the bell is part of containment, not a comfort object.

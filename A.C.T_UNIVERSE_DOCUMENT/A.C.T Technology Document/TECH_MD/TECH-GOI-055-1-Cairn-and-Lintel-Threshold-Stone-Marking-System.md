@@ -1,27 +1,14 @@
 # TECH-GOI-055-1 - CAIRN & LINTEL THRESHOLD STONE MARKING SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-055-1                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Cairn & Lintel Threshold Stone Marking System               |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Threshold Stone / C&L Stone / Four-Cut Marker               |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Cairn & Lintel                                              |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Cooperative inspection, post-incident component custody,    |
-|                            | and restricted site-mark observation                        |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Route stability, evacuation identification, protected-entry |
-|                            | verification, hostile misuse prevention                     |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | OCCUPIED-SHELTER DISCLOSURE LIMIT / ENGINEERING-RECOVERY    |
-|                            | REVIEW                                                      |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-055-1 |
+| TECHNOLOGY NAME | Cairn & Lintel Threshold Stone Marking System |
+| COMMON ABBREVIATIONS | Threshold Stone / C&L Stone / Four-Cut Marker |
+| ORIGIN | Cairn & Lintel |
+| ACQUISITION STATUS | Cooperative inspection, post-incident component custody, and restricted site-mark observation |
+| PRIMARY A.C.T INTEREST | Route stability, evacuation identification, protected-entry verification, hostile misuse prevention |
+| ARCHIVE HANDLING | OCCUPIED-SHELTER DISCLOSURE LIMIT / ENGINEERING-RECOVERY REVIEW |
 
 ## Functional Identity
 

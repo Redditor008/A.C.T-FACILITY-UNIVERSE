@@ -1,71 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - ANTI-GLOBAL ANOMALY
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-ML-X-014                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Anti-Global Anomaly                                         |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | A-GA                                                        |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Mission-specific local cover names; no stable alternative   |
-|                            | title verified                                              |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | MILITANT                                                    |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | NEGATIVE                                                    |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | TRANSNATIONAL                                               |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | ENGINEERING                                                 |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 4                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | LEAKING                                                     |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | CONTAIN / DISMANTLE                                         |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Unresolved; no universally verified central leader or       |
-|                            | command body                                                |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Large dispersed militant network; exact live cell census    |
-|                            | remains unresolved                                          |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Transnational; current cell locations held in restricted    |
-|                            | surveillance records                                        |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Engineering cells, target intelligence, dispersed           |
-|                            | procurement, and militant personnel                         |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Decentralized caches, temporary workshops, and changing     |
-|                            | transit support                                             |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | Total eradication of anomalous existence without a useful   |
-|                            | or stabilizing distinction                                  |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Hostile contact predates the current live network map;      |
-|                            | origin remains contested                                    |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | No permanent group-wide anomaly cross-reference; consult    |
-|                            | target and incident chains                                  |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - dispersed hostile network                          |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division / West Wing Response Command          |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Incident-led; cross-site coordination required for network, |
-|                            | material, and leak conditions                               |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for strategic interdiction files           |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-ML-X-014 |
+| COMMON NAME | Anti-Global Anomaly |
+| SHORT NAME | A-GA |
+| KNOWN ALIASES | Mission-specific local cover names; no stable alternative title verified |
+| NATURE CLASS | MILITANT |
+| ALIGNMENT CLASS | NEGATIVE |
+| REACH CLASS | TRANSNATIONAL |
+| ANOMALOUS CAPABILITY | ENGINEERING |
+| THREAT LEVEL | 4 |
+| SECRECY RISK | LEAKING |
+| A.C.T POSTURE | CONTAIN / DISMANTLE |
+| KNOWN LEADERSHIP | Unresolved; no universally verified central leader or command body |
+| KNOWN MEMBERSHIP | Large dispersed militant network; exact live cell census remains unresolved |
+| PRIMARY ACTIVE REGION | Transnational; current cell locations held in restricted surveillance records |
+| KNOWN ASSETS | Engineering cells, target intelligence, dispersed procurement, and militant personnel |
+| KNOWN HOLDINGS | Decentralized caches, temporary workshops, and changing transit support |
+| IDEOLOGY | Total eradication of anomalous existence without a useful or stabilizing distinction |
+| HISTORY WITH A.C.T | Hostile contact predates the current live network map; origin remains contested |
+| ANOMALY CROSS-REFERENCE | No permanent group-wide anomaly cross-reference; consult target and incident chains |
+| CURRENT STATUS | ACTIVE - dispersed hostile network |
+| PRIMARY FILE AUTHORITY | Intelligence Division / West Wing Response Command |
+| SITE JURISDICTION | Incident-led; cross-site coordination required for network, material, and leak conditions |
+| CLEARANCE REQUIRED | Level 4; Level 5 for strategic interdiction files |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Intelligence / Security / Recovery / Containment / Military / Command
-**Authority:** Intelligence Division and West Wing Response Command
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Intelligence / Security / Recovery / Containment / Military / Command |
+| AUTHORITY | Intelligence Division and West Wing Response Command |
 
 #### Archive Note
 Anti-Global Anomaly is a large, standalone militia-style organization whose stated ideological objective is the destruction of anomalies. The organization does not distinguish between hostile, beneficial, neutral, stabilizing, contained, or insufficiently understood anomalous conditions. For A-GA, anomalous existence is itself the offense.

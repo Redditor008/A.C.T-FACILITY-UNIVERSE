@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - SUB-ABYSSAL SONAR
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-037
-TECHNOLOGY NAME: Sub-Abyssal Sonar
-SHORT NAME: SAS
-TECHNOLOGY FAMILY: FIELD GEAR / ABYSSAL MAPPING / BLIND MONITORING
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Maritime Observation Desk / Engineering Division
-ATTACHED DIVISIONS: Site-05 Command, Recovery, Heavy Containment, Abyss Survey
-OPERATIONAL STATUS: ACTIVE / DEEP-DEPLOYMENT / SONAR-ACOUSTIC
-RISK STATUS: CONTROLLED / PRESSURE AND FALSE-VOID HAZARD
-CLEARANCE REQUIRED: Level 4 for operation; Level 5 for trench-grid mapping, blind-predator targeting, and sub-abyssal depth export
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-037                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Sub-Abyssal Sonar                                           |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | SAS                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | FIELD GEAR / ABYSSAL MAPPING / BLIND MONITORING             |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Maritime Observation Desk / Engineering Division            |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Site-05 Command, Recovery, Heavy Containment, Abyss Survey  |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / DEEP-DEPLOYMENT / SONAR-ACOUSTIC                   |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / PRESSURE AND FALSE-VOID HAZARD                 |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for operation; Level 5 for trench-grid mapping,     |
+|                            | blind-predator targeting, and sub-abyssal depth export      |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Maritime and Abyssal Mapping Technology Record
 Distribution: Maritime Observation / Engineering / Site-05 / Recovery / Heavy Containment / Abyss Survey

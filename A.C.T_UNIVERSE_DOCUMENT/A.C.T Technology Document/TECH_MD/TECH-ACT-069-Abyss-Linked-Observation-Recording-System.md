@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - ABYSS-LINKED OBSERVATION RECORDING SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-069                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Abyss-Linked Observation Recording System                   |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | ALORS                                                       |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | RESTRICTED RECORDS / DEEP-EARTH OBSERVATION / ARCHIVAL     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY F-1 AND RESTRICTED REVIEW CHAIN       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Central Archive / Restricted Review Chain                   |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Seismic Analysis, Containment, Research, Site Command       |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / ABYSS-LINKED RECORD CUSTODY                        |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CIRCULATION HAZARD / CAUSAL CORRELATION RISK                |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 minimum; higher authorization for abyss-related     |
-|                            | correlation, release, or inter-site comparison              |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-069 |
+| TECHNOLOGY NAME | Abyss-Linked Observation Recording System |
+| SHORT NAME | ALORS |
+| TECHNOLOGY FAMILY | RESTRICTED RECORDS / DEEP-EARTH OBSERVATION / ARCHIVAL |
+| ORIGIN | NUSANTARA DEEP RELAY F-1 AND RESTRICTED REVIEW CHAIN |
+| PRIMARY CONTROLLER | Central Archive / Restricted Review Chain |
+| ATTACHED DIVISIONS | Seismic Analysis, Containment, Research, Site Command |
+| OPERATIONAL STATUS | ACTIVE / ABYSS-LINKED RECORD CUSTODY |
+| RISK STATUS | CIRCULATION HAZARD / CAUSAL CORRELATION RISK |
+| CLEARANCE REQUIRED | Level 4 minimum; higher authorization for abyss-related correlation, release, or inter-site comparison |
 
-**Archive Status:** Active Restricted Observation Technology Record
-**Distribution:** Central Archive / Seismic Analysis / Nusantara Site Command / Restricted Review Chain
-**Authority:** Central Archive, Restricted Review Chain, and Nusantara Site Command
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Observation Technology Record |
+| DISTRIBUTION | Central Archive / Seismic Analysis / Nusantara Site Command / Restricted Review Chain |
+| AUTHORITY | Central Archive, Restricted Review Chain, and Nusantara Site Command |
 
 #### Archive Note
 Abyss-Linked Observation Recording System is the sixty-ninth main A.C.T technology expanded into an individual record. The F-1 Deep Listening Vault dossier states that the floor's sensor systems include recording systems that preserve the relay's deepest observations. It also states that abyss-linked records may correlate with the structure beneath the Primary Facility, must not circulate as ordinary site records, and are sealed on F-1 before routing through a restricted review chain beyond normal site governance.

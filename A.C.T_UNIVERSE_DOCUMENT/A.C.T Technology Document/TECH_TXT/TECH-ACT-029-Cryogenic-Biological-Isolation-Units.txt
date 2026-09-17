@@ -1,17 +1,30 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - CRYOGENIC BIOLOGICAL ISOLATION UNITS
 
-REGISTRY FIELD: CURRENT VALUE
-TECHNOLOGY DESIGNATION: TECH-ACT-029
-TECHNOLOGY NAME: Cryogenic Biological Isolation Units
-SHORT NAME: CBI
-TECHNOLOGY FAMILY: MEDICAL / STASIS / BIOLOGICAL ISOLATION
-ORIGIN: A.C.T
-PRIMARY CONTROLLER: Medical Division / Stasis Technology Desk
-ATTACHED DIVISIONS: Biological Containment, Logistics, Site Command, Recovery
-OPERATIONAL STATUS: ACTIVE / RESTRICTED / PATIENT AND SAMPLE SPECIFIC
-RISK STATUS: CONTROLLED / HAZARDOUS IF THAW, RHYTHM, OR SEAL FAILS
-CLEARANCE REQUIRED: Level 4 for patient use, FCA loading, and long-duration stasis; Level 5 for consciousness-adjacent containment
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-029                                                |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Cryogenic Biological Isolation Units                        |
++----------------------------+-------------------------------------------------------------+
+| SHORT NAME                 | CBI                                                         |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | MEDICAL / STASIS / BIOLOGICAL ISOLATION                     |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | A.C.T                                                       |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Medical Division / Stasis Technology Desk                   |
++----------------------------+-------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Biological Containment, Logistics, Site Command, Recovery   |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / PATIENT AND SAMPLE SPECIFIC           |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | CONTROLLED / HAZARDOUS IF THAW, RHYTHM, OR SEAL FAILS       |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for patient use, FCA loading, and long-duration     |
+|                            | stasis; Level 5 for consciousness-adjacent containment      |
++----------------------------+-------------------------------------------------------------+
 
 Archive Status: Active Medical Stasis Technology Record
 Distribution: Medical / Biological Containment / Stasis Technology / Logistics / Site Command

@@ -1,37 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - CAUSAL STATIC GENERATOR SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-005                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Causal Static Generator System                              |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | CSG / CAUSAL STATIC                                         |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | CONTAINMENT / FIELD / ARCHIVAL / NARRATIVE-SUPPRESSION     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | A.C.T                                                       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Engineering Division / Containment Division                 |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Archive, Site Command, Civil Covert, Intelligence, Field    |
-|                            | Command, Recovery, Medical Care, and Kurokawa review        |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED / FIELD-DEPLOYABLE                      |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CONTROLLED / HAZARDOUS IF OVER-BROADCAST OR MIS-TUNED      |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for deployment; Level 5 for boredom-frequency       |
-|                            | tuning, narrative starvation tables, and site-wide overlap  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-005 |
+| TECHNOLOGY NAME | Causal Static Generator System |
+| SHORT NAME | CSG / CAUSAL STATIC |
+| TECHNOLOGY FAMILY | CONTAINMENT / FIELD / ARCHIVAL / NARRATIVE-SUPPRESSION |
+| ORIGIN | A.C.T |
+| PRIMARY CONTROLLER | Engineering Division / Containment Division |
+| ATTACHED DIVISIONS | Archive, Site Command, Civil Covert, Intelligence, Field Command, Recovery, Medical Care, and Kurokawa review |
+| OPERATIONAL STATUS | ACTIVE / RESTRICTED / FIELD-DEPLOYABLE |
+| RISK STATUS | CONTROLLED / HAZARDOUS IF OVER-BROADCAST OR MIS-TUNED |
+| CLEARANCE REQUIRED | Level 4 for deployment; Level 5 for boredom-frequency tuning, narrative starvation tables, and site-wide overlap |
 
-**Archive Status:** Active Restricted Technology Record  
-**Distribution:** Engineering / Containment / Archive / Civil Covert / Field Command / Intelligence / Command  
-**Authority:** Engineering Division, Containment Division, Archive Division, Site Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Technology Record |
+| DISTRIBUTION | Engineering / Containment / Archive / Civil Covert / Field Command / Intelligence / Command |
+| AUTHORITY | Engineering Division, Containment Division, Archive Division, Site Command, and Central Archive |
 
 #### Archive Note
 The Causal Static Generator System is the fifth main A.C.T technology expanded into an individual record under corrected A.C.T-owned technology numbering. It is already present in the Master Catalog of Operational Assets as Item 07, in the technological timeline as a 2011 high-entropy defense system, and in the visual reference guide as a heavy signal-broadcaster with an oscillating signal disc, boredom-frequency tuner, retractable cooling chimney, and high-intensity narrative suppression mode. Causal Static Generators exist because some anomalies do not only break walls, bodies, memory, or space. Some anomalies feed on meaning, attention, dramatic escalation, role assignment, repeated story shape, and the sense that events are becoming inevitable.

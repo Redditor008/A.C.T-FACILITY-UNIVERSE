@@ -1,71 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - CROWN OFFICE OF ASH KEYS
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-GV-N-058                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Crown Office of Ash Keys                                    |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | COAK                                                        |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Ash Keys Office; Crown Key Registry; Office of Burnt Locks; |
-|                            | The Ash Office; [CENSOR: DYNASTIC CHARTER NAME]            |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | GOVERNMENT                                                  |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | NEUTRAL                                                     |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | REGIONAL                                                    |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | HANDLER                                                     |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 3                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | VEILED                                                      |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | MONITOR / MISDIRECT / COOPERATED                           |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Lord Clerk of Ash Keys; Keeper-Chancellors; named holders   |
-|                            | obscured by hereditary and charter restrictions             |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Charter clerks, vault ushers, oath witnesses, estate        |
-|                            | stewards, relic notaries, key bearers, and hereditary guards|
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | Old estates, former royal vaults, charter towns, sealed     |
-|                            | chapels, inheritance routes, and treaty-marked relic sites  |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Ash keys, burned-lock ledgers, relic charters, oath seals,  |
-|                            | vault inventories, procession rights, and estate maps       |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Crown vaults, closed estate rooms, chapel crypts, archive   |
-|                            | shelves, inherited lockboxes, and oath-protected roads      |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | Old custody remains custody until the oath, lock, heir, and |
-|                            | danger are all lawfully answered                            |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Recurring dispute and limited cooperation over relic claims,|
-|                            | sealed estates, hereditary containment, and old treaty sites|
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | Restricted relic, inheritance, estate, sealed-room, old-law,|
-|                            | and historical containment case chains                      |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - old-state custody office with limited modern reach |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division / Central Archive / Civil Covert      |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with Site 01 and route-specific Site review |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for living heirs, active oath locks, and   |
-|                            | sealed crown vault inventories                              |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-GV-N-058 |
+| COMMON NAME | Crown Office of Ash Keys |
+| SHORT NAME | COAK |
+| KNOWN ALIASES | Ash Keys Office; Crown Key Registry; Office of Burnt Locks; The Ash Office; [CENSOR: DYNASTIC CHARTER NAME] |
+| NATURE CLASS | GOVERNMENT |
+| ALIGNMENT CLASS | NEUTRAL |
+| REACH CLASS | REGIONAL |
+| ANOMALOUS CAPABILITY | HANDLER |
+| THREAT LEVEL | 3 |
+| SECRECY RISK | VEILED |
+| A.C.T POSTURE | MONITOR / MISDIRECT / COOPERATED |
+| KNOWN LEADERSHIP | Lord Clerk of Ash Keys; Keeper-Chancellors; named holders obscured by hereditary and charter restrictions |
+| KNOWN MEMBERSHIP | Charter clerks, vault ushers, oath witnesses, estate stewards, relic notaries, key bearers, and hereditary guards |
+| PRIMARY ACTIVE REGION | Old estates, former royal vaults, charter towns, sealed chapels, inheritance routes, and treaty-marked relic sites |
+| KNOWN ASSETS | Ash keys, burned-lock ledgers, relic charters, oath seals, vault inventories, procession rights, and estate maps |
+| KNOWN HOLDINGS | Crown vaults, closed estate rooms, chapel crypts, archive shelves, inherited lockboxes, and oath-protected roads |
+| IDEOLOGY | Old custody remains custody until the oath, lock, heir, and danger are all lawfully answered |
+| HISTORY WITH A.C.T | Recurring dispute and limited cooperation over relic claims, sealed estates, hereditary containment, and old treaty sites |
+| ANOMALY CROSS-REFERENCE | Restricted relic, inheritance, estate, sealed-room, old-law, and historical containment case chains |
+| CURRENT STATUS | ACTIVE - old-state custody office with limited modern reach |
+| PRIMARY FILE AUTHORITY | Intelligence Division / Central Archive / Civil Covert |
+| SITE JURISDICTION | Central Command with Site 01 and route-specific Site review |
+| CLEARANCE REQUIRED | Level 4; Level 5 for living heirs, active oath locks, and sealed crown vault inventories |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Intelligence / Central Archive / Civil Covert / Recovery / Containment / Legal Liaison / Command
-**Authority:** Intelligence Division, Central Archive, Civil Covert Division, and Legal Liaison
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Intelligence / Central Archive / Civil Covert / Recovery / Containment / Legal Liaison / Command |
+| AUTHORITY | Intelligence Division, Central Archive, Civil Covert Division, and Legal Liaison |
 
 #### Archive Note
 The Crown Office of Ash Keys is the active government filing for a surviving old-state custody office that claims authority over anomalous relics, sealed estates, inherited locks, crown vaults, oath-bound rooms, and treaty-marked danger sites. The Office is not an A.C.T division, not a noble family, not a single castle, and not decorative history. It qualifies as a Group of Interest because it possesses durable legal identity, trained officers, physical holdings, custody rituals, inventories, jurisdictional claims, and records older than many modern containment arrangements.

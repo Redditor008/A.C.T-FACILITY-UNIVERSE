@@ -1,72 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - DREAM .INC
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-CP-B-049                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | DREAM .INC                                                  |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | DREAM                                                       |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Dream Incorporated; DREAM Health; local building names      |
-|                            | restricted                                                  |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | CORPORATE                                                   |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | BUSINESS                                                    |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | NATIONAL                                                    |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | ENGINEERING                                                 |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 4                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | EXPOSURE-ACTIVE                                             |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | INFILTRATE / CONTAIN / APPROPRIATE                          |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Unresolved corporate executive structure; local directors   |
-|                            | use compartmented identities                                |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Large workforce, contractors, sellers, and consumers; exact |
-|                            | roles compartmented                                         |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | National distributed corporate footprint; exact             |
-|                            | concentration unresolved                                    |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Dream Nectar Extraction Apparatus, Dream-Type Anomaly,      |
-|                            | product supply, buildings, and consumer data                |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | At least twelve open company buildings; additional support  |
-|                            | locations suspected                                         |
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | Commercial wish fulfillment through Dream Nectar extraction |
-|                            | and sale                                                    |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Linked product, building, and source-anomaly pattern opened |
-|                            | the current dossier                                         |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | [REDACTED] Dream-Type Anomaly and extraction apparatus;     |
-|                            | separate files restricted                                   |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - at least twelve open buildings confirmed; full     |
-|                            | network unresolved                                          |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Intelligence Division, Corporate Exploitation Desk          |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with ACT-SITE-03 review and ACT-SITE-01     |
-|                            | commercial support                                          |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for source anomaly and machine material    |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-CP-B-049 |
+| COMMON NAME | DREAM .INC |
+| SHORT NAME | DREAM |
+| KNOWN ALIASES | Dream Incorporated; DREAM Health; local building names restricted |
+| NATURE CLASS | CORPORATE |
+| ALIGNMENT CLASS | BUSINESS |
+| REACH CLASS | NATIONAL |
+| ANOMALOUS CAPABILITY | ENGINEERING |
+| THREAT LEVEL | 4 |
+| SECRECY RISK | EXPOSURE-ACTIVE |
+| A.C.T POSTURE | INFILTRATE / CONTAIN / APPROPRIATE |
+| KNOWN LEADERSHIP | Unresolved corporate executive structure; local directors use compartmented identities |
+| KNOWN MEMBERSHIP | Large workforce, contractors, sellers, and consumers; exact roles compartmented |
+| PRIMARY ACTIVE REGION | National distributed corporate footprint; exact concentration unresolved |
+| KNOWN ASSETS | Dream Nectar Extraction Apparatus, Dream-Type Anomaly, product supply, buildings, and consumer data |
+| KNOWN HOLDINGS | At least twelve open company buildings; additional support locations suspected |
+| IDEOLOGY | Commercial wish fulfillment through Dream Nectar extraction and sale |
+| HISTORY WITH A.C.T | Linked product, building, and source-anomaly pattern opened the current dossier |
+| ANOMALY CROSS-REFERENCE | [REDACTED] Dream-Type Anomaly and extraction apparatus; separate files restricted |
+| CURRENT STATUS | ACTIVE - at least twelve open buildings confirmed; full network unresolved |
+| PRIMARY FILE AUTHORITY | Intelligence Division, Corporate Exploitation Desk |
+| SITE JURISDICTION | Central Command with ACT-SITE-03 review and ACT-SITE-01 commercial support |
+| CLEARANCE REQUIRED | Level 4; Level 5 for source anomaly and machine material |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Intelligence / Security / Recovery / Containment / Medical / Civil Covert / Command
-**Authority:** Intelligence Division, Corporate Exploitation Desk, with Central Archive custody
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Intelligence / Security / Recovery / Containment / Medical / Civil Covert / Command |
+| AUTHORITY | Intelligence Division, Corporate Exploitation Desk, with Central Archive custody |
 
 #### Archive Note
 DREAM .INC is a large company in possession of a mysterious anomalous machine capable of extracting a substance called Dream Nectar from at least one Dream-Type Anomaly. The company sells the substance as underground medicine. Its central sales claim is that a consumer's wish will come true in their dream after use.

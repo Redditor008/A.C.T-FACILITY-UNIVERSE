@@ -1,30 +1,14 @@
 # TECH-GOI-048-4 - CHILDREN OF THE DEEP COMPARTMENTED DEVOTIONAL TEXT, DISTRIBUTED RECORDING, AND SYNCHRONIZED CALENDAR SET
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-048-4                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Children of the Deep Compartmented Devotional Text,         |
-|                            | Distributed Recording, and Synchronized Calendar Set        |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Sounding Texts / Cult Recordings / Return Calendar          |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Children of the Deep                                        |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Copied texts and recording extracts recovered and           |
-|                            | interdicted; materials restricted, no full reconstruction   |
-|                            | authorized                                                  |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Ritual vector analysis, information-hazard containment,     |
-|                            | leadership continuity tracking, coordinated-action early    |
-|                            | warning                                                     |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | CULTIC NETWORKS RESTRICTED / KUROKAWA RECORDING REVIEW      |
-|                            | REQUIRED                                                    |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-048-4 |
+| TECHNOLOGY NAME | Children of the Deep Compartmented Devotional Text, Distributed Recording, and Synchronized Calendar Set |
+| COMMON ABBREVIATIONS | Sounding Texts / Cult Recordings / Return Calendar |
+| ORIGIN | Children of the Deep |
+| ACQUISITION STATUS | Copied texts and recording extracts recovered and interdicted; materials restricted, no full reconstruction authorized |
+| PRIMARY A.C.T INTEREST | Ritual vector analysis, information-hazard containment, leadership continuity tracking, coordinated-action early warning |
+| ARCHIVE HANDLING | CULTIC NETWORKS RESTRICTED / KUROKAWA RECORDING REVIEW REQUIRED |
 
 ## Functional Identity
 

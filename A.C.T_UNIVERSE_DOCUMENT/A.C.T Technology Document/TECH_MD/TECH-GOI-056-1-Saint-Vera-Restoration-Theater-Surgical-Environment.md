@@ -1,27 +1,14 @@
 # TECH-GOI-056-1 - SAINT-VERA RESTORATION THEATER SURGICAL ENVIRONMENT
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-056-1                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Saint-Vera Restoration Theater Surgical Environment         |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Restoration Theater                                         |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Saint-Vera Restoration Concern                              |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Cooperative recovery, partial inspection, or restricted     |
-|                            | patient-transfer evidence                                   |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Survivor restoration, medical containment, Subject Care     |
-|                            | continuity, and consent-safe custody                        |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | PATIENT-DIGNITY DISCLOSURE LIMIT / MEDICAL-SUBJECT CARE     |
-|                            | RESTRICTED                                                  |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-056-1 |
+| TECHNOLOGY NAME | Saint-Vera Restoration Theater Surgical Environment |
+| COMMON ABBREVIATIONS | Restoration Theater |
+| ORIGIN | Saint-Vera Restoration Concern |
+| ACQUISITION STATUS | Cooperative recovery, partial inspection, or restricted patient-transfer evidence |
+| PRIMARY A.C.T INTEREST | Survivor restoration, medical containment, Subject Care continuity, and consent-safe custody |
+| ARCHIVE HANDLING | PATIENT-DIGNITY DISCLOSURE LIMIT / MEDICAL-SUBJECT CARE RESTRICTED |
 
 ## Functional Identity
 

@@ -1,27 +1,14 @@
 # TECH-GOI-052-3 - AMAZOO CIRCUS EMOTIONAL-SIPHONING PERFORMANCE FRAME
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-052-3                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Amazoo Circus Emotional-Siphoning Performance Frame         |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | ESPF / Siphon Act / Emotional Performance Frame             |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Amazoo Circus                                               |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Inferred from GOI dossier, survivor-linked evidence, and    |
-|                            | Operation BIG TOP scene analysis                            |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Unknown yield prevention, performer welfare, hostile        |
-|                            | ritual-performance detection, exposure containment          |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | AMAZOO SIPHON RESTRICTED / SUBJECT CARE AND CONTAINMENT     |
-|                            | JOINT REVIEW                                                |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-052-3 |
+| TECHNOLOGY NAME | Amazoo Circus Emotional-Siphoning Performance Frame |
+| COMMON ABBREVIATIONS | ESPF / Siphon Act / Emotional Performance Frame |
+| ORIGIN | Amazoo Circus |
+| ACQUISITION STATUS | Inferred from GOI dossier, survivor-linked evidence, and Operation BIG TOP scene analysis |
+| PRIMARY A.C.T INTEREST | Unknown yield prevention, performer welfare, hostile ritual-performance detection, exposure containment |
+| ARCHIVE HANDLING | AMAZOO SIPHON RESTRICTED / SUBJECT CARE AND CONTAINMENT JOINT REVIEW |
 
 ## Functional Identity
 

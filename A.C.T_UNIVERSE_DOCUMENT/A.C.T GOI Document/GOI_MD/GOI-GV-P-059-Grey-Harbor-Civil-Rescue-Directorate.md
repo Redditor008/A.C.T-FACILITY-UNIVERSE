@@ -1,71 +1,37 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### GROUP OF INTEREST REGISTRY - GREY HARBOR CIVIL RESCUE DIRECTORATE
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| GOI DESIGNATION            | GOI-GV-P-059                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON NAME                | Grey Harbor Civil Rescue Directorate                        |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | GHCRD                                                       |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ALIASES              | Grey Harbor Rescue; Civil Rescue Directorate; Harbor Grey;  |
-|                            | Directorate Rescue Command; [CENSOR: NATIONAL AGENCY NAME]  |
-+----------------------------+-------------------------------------------------------------+
-| NATURE CLASS               | GOVERNMENT                                                  |
-+----------------------------+-------------------------------------------------------------+
-| ALIGNMENT CLASS            | POSITIVE                                                    |
-+----------------------------+-------------------------------------------------------------+
-| REACH CLASS                | NATIONAL                                                    |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALOUS CAPABILITY       | HANDLER                                                     |
-+----------------------------+-------------------------------------------------------------+
-| THREAT LEVEL               | 3                                                           |
-+----------------------------+-------------------------------------------------------------+
-| SECRECY RISK               | LEAKING                                                     |
-+----------------------------+-------------------------------------------------------------+
-| A.C.T POSTURE              | COOPERATED / HELP / MONITOR                                 |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN LEADERSHIP           | Director-General concealed under civil-disaster authority;  |
-|                            | regional rescue chiefs and harbor captains confirmed        |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN MEMBERSHIP           | Rescue officers, medics, evacuation drivers, shelter        |
-|                            | coordinators, signal staff, search teams, divers, and clerks|
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY ACTIVE REGION      | National disaster zones, coastal evacuations, industrial    |
-|                            | accidents, breach-adjacent cities, shelters, and hospitals  |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN ASSETS               | Rescue fleets, civil shelters, triage tents, siren towers,  |
-|                            | evacuation buses, survivor ledgers, and grey-tag kits       |
-+----------------------------+-------------------------------------------------------------+
-| KNOWN HOLDINGS             | Emergency depots, harbor stations, mobile command posts,    |
-|                            | disaster warehouses, field hospitals, and protected shelters|
-+----------------------------+-------------------------------------------------------------+
-| IDEOLOGY                   | Rescue begins before the explanation is safe; civilians are |
-|                            | not to be abandoned for secrecy alone                       |
-+----------------------------+-------------------------------------------------------------+
-| HISTORY WITH A.C.T         | Repeated cooperation and dispute during civilian evacuation,|
-|                            | shelter triage, missing-child recovery, and breach response |
-+----------------------------+-------------------------------------------------------------+
-| ANOMALY CROSS-REFERENCE    | Restricted disaster, evacuation, shelter, maritime,         |
-|                            | industrial, hospital, and witness-care case chains          |
-+----------------------------+-------------------------------------------------------------+
-| CURRENT STATUS             | ACTIVE - positive government rescue authority under monitor |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY FILE AUTHORITY     | Civil Covert Division / Recovery Division / Medical         |
-+----------------------------+-------------------------------------------------------------+
-| SITE JURISDICTION          | Central Command with Site 01 and Site 05 primary review     |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4; Level 5 for uncensored casualty lists, child       |
-|                            | extraction routes, and sealed rescue recordings             |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| GOI DESIGNATION | GOI-GV-P-059 |
+| COMMON NAME | Grey Harbor Civil Rescue Directorate |
+| SHORT NAME | GHCRD |
+| KNOWN ALIASES | Grey Harbor Rescue; Civil Rescue Directorate; Harbor Grey; Directorate Rescue Command; [CENSOR: NATIONAL AGENCY NAME] |
+| NATURE CLASS | GOVERNMENT |
+| ALIGNMENT CLASS | POSITIVE |
+| REACH CLASS | NATIONAL |
+| ANOMALOUS CAPABILITY | HANDLER |
+| THREAT LEVEL | 3 |
+| SECRECY RISK | LEAKING |
+| A.C.T POSTURE | COOPERATED / HELP / MONITOR |
+| KNOWN LEADERSHIP | Director-General concealed under civil-disaster authority; regional rescue chiefs and harbor captains confirmed |
+| KNOWN MEMBERSHIP | Rescue officers, medics, evacuation drivers, shelter coordinators, signal staff, search teams, divers, and clerks |
+| PRIMARY ACTIVE REGION | National disaster zones, coastal evacuations, industrial accidents, breach-adjacent cities, shelters, and hospitals |
+| KNOWN ASSETS | Rescue fleets, civil shelters, triage tents, siren towers, evacuation buses, survivor ledgers, and grey-tag kits |
+| KNOWN HOLDINGS | Emergency depots, harbor stations, mobile command posts, disaster warehouses, field hospitals, and protected shelters |
+| IDEOLOGY | Rescue begins before the explanation is safe; civilians are not to be abandoned for secrecy alone |
+| HISTORY WITH A.C.T | Repeated cooperation and dispute during civilian evacuation, shelter triage, missing-child recovery, and breach response |
+| ANOMALY CROSS-REFERENCE | Restricted disaster, evacuation, shelter, maritime, industrial, hospital, and witness-care case chains |
+| CURRENT STATUS | ACTIVE - positive government rescue authority under monitor |
+| PRIMARY FILE AUTHORITY | Civil Covert Division / Recovery Division / Medical |
+| SITE JURISDICTION | Central Command with Site 01 and Site 05 primary review |
+| CLEARANCE REQUIRED | Level 4; Level 5 for uncensored casualty lists, child extraction routes, and sealed rescue recordings |
 
-**Archive Status:** Active Restricted Record
-**Distribution:** Civil Covert / Recovery / Medical / Intelligence / Containment / Subject Care / Command
-**Authority:** Civil Covert Division, Recovery Division, Medical Division, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Record |
+| DISTRIBUTION | Civil Covert / Recovery / Medical / Intelligence / Containment / Subject Care / Command |
+| AUTHORITY | Civil Covert Division, Recovery Division, Medical Division, and Central Archive |
 
 #### Archive Note
 Grey Harbor Civil Rescue Directorate is the active government filing for an outside civil-disaster, evacuation, rescue, and emergency medical authority trained to operate inside anomaly-adjacent disasters before the public explanation is stable. The Directorate is not an A.C.T branch, not GAA, not a military anomaly command, not a city fire department, and not a single harbor office. It qualifies as a Group of Interest because it possesses national command structure, rescue fleets, trained personnel, shelters, records, public legitimacy, and a repeated ability to change A.C.T field outcomes when civilians are trapped between breach, disaster, secrecy, and delayed containment jurisdiction.

@@ -1,36 +1,24 @@
 # A.C.T FACILITY ARCHIVE FILE
 ### TECHNOLOGY RECORD - CLIMATE-CONTROLLED ISLAND HOLDING UNIT SYSTEM
 
-```text
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-110                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Climate-Controlled Island Holding Unit System               |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | CCIHUS                                                      |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | ISLAND HOLDING / CLIMATE REGULATION / TERRESTRIAL MARITIME  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | NUSANTARA DEEP RELAY F-3 MARITIME AND ISLAND HOLDING LEVEL |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Floor Holding Chief / Environmental Holding Staff           |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Containment, Research, Medical, Recovery, Security          |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / ISLAND-RECOVERED MATERIAL HOLDING                  |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | CLIMATE DRIFT / HABITAT MISMATCH / BIOLOGICAL ESCALATION   |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for holding duty; Level 4 for climate-regimen       |
-|                            | alteration, resident movement, or cross-floor transfer      |
-+----------------------------+-------------------------------------------------------------+
-```
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-ACT-110 |
+| TECHNOLOGY NAME | Climate-Controlled Island Holding Unit System |
+| SHORT NAME | CCIHUS |
+| TECHNOLOGY FAMILY | ISLAND HOLDING / CLIMATE REGULATION / TERRESTRIAL MARITIME |
+| ORIGIN | NUSANTARA DEEP RELAY F-3 MARITIME AND ISLAND HOLDING LEVEL |
+| PRIMARY CONTROLLER | Floor Holding Chief / Environmental Holding Staff |
+| ATTACHED DIVISIONS | Containment, Research, Medical, Recovery, Security |
+| OPERATIONAL STATUS | ACTIVE / ISLAND-RECOVERED MATERIAL HOLDING |
+| RISK STATUS | CLIMATE DRIFT / HABITAT MISMATCH / BIOLOGICAL ESCALATION |
+| CLEARANCE REQUIRED | Level 3 for holding duty; Level 4 for climate-regimen alteration, resident movement, or cross-floor transfer |
 
-**Archive Status:** Active Nusantara Island-Holding Technology Record
-**Distribution:** Nusantara Deep Relay / Containment / Research / Medical / Recovery / Security
-**Authority:** Floor Holding Chief, Environmental Holding Staff, Maritime-Hold Command, and Central Archive
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Nusantara Island-Holding Technology Record |
+| DISTRIBUTION | Nusantara Deep Relay / Containment / Research / Medical / Recovery / Security |
+| AUTHORITY | Floor Holding Chief, Environmental Holding Staff, Maritime-Hold Command, and Central Archive |
 
 #### Archive Note
 Climate-Controlled Island Holding Unit System is the one-hundred-tenth main A.C.T technology expanded into an individual record. The F-3 Maritime and Island Holding Level dossier identifies climate-controlled holding units as the F-3 infrastructure used for island-recovered material requiring terrestrial environments: temperature, humidity, and atmosphere regulated to each resident's requirements under the relay's holding doctrine. The same dossier places those units beside water-capable chambers, pressure-rated environments, monitoring galleries, and handling corridors inside the relay's main holding floor.
