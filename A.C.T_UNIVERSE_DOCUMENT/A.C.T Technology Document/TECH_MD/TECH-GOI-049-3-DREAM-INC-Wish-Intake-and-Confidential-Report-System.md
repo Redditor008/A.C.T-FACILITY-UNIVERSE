@@ -1,12 +1,27 @@
 # TECH-GOI-049-3 - DREAM .INC WISH INTAKE AND CONFIDENTIAL REPORT SYSTEM
 
-Technology Designation: TECH-GOI-049-3
-Technology Name: DREAM .INC Wish Intake and Confidential Report System
-Common Abbreviations: DWICRS / Wish Intake / Confidential Dream Report System
-Origin: DREAM .INC
-Acquisition Status: Infiltration target; partial consumer-report intelligence and handling rules in A.C.T custody
-Primary A.C.T Interest: Consumer protection, dream-trigger control, data exploitation prevention, wish-pattern intelligence
-Archive Handling: DREAM .INC CONSUMER DATA RESTRICTED / MEDICAL-PRIVACY CONTROL
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-049-3                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | DREAM .INC Wish Intake and Confidential Report System       |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | DWICRS / Wish Intake / Confidential Dream Report System     |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | DREAM .INC                                                  |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Infiltration target; partial consumer-report intelligence   |
+|                            | and handling rules in A.C.T custody                         |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Consumer protection, dream-trigger control, data            |
+|                            | exploitation prevention, wish-pattern intelligence          |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | DREAM .INC CONSUMER DATA RESTRICTED / MEDICAL-PRIVACY       |
+|                            | CONTROL                                                     |
++----------------------------+-------------------------------------------------------------+
+```
 
 ## Functional Identity
 

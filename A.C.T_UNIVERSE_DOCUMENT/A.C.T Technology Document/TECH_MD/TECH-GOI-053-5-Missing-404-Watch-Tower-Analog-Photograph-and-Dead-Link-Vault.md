@@ -1,12 +1,27 @@
 # TECH-GOI-053-5 - MISSING 404 WATCH TOWER ANALOG PHOTOGRAPH AND DEAD-LINK VAULT
 
-Technology Designation: TECH-GOI-053-5
-Technology Name: Missing 404 Watch Tower Analog Photograph and Dead-Link Vault
-Common Abbreviations: Photo Vault / Dead-Link Vault / Analog Continuance Vault
-Origin: Missing 404 Watch Tower
-Acquisition Status: Cooperative dead-link notices and inspected storage practice; full vault withheld
-Primary A.C.T Interest: Digital-failure backup, visual proof preservation, vanished-web evidence, normalcy cleanup restraint
-Archive Handling: M404-WT ARCHIVE RESTRICTED / CENTRAL ARCHIVE REVIEW
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-053-5                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Missing 404 Watch Tower Analog Photograph and Dead-Link     |
+|                            | Vault                                                       |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | Photo Vault / Dead-Link Vault / Analog Continuance Vault    |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | Missing 404 Watch Tower                                     |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Cooperative dead-link notices and inspected storage         |
+|                            | practice; full vault withheld                               |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Digital-failure backup, visual proof preservation,          |
+|                            | vanished-web evidence, normalcy cleanup restraint           |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | M404-WT ARCHIVE RESTRICTED / CENTRAL ARCHIVE REVIEW         |
++----------------------------+-------------------------------------------------------------+
+```
 
 ## Functional Identity
 

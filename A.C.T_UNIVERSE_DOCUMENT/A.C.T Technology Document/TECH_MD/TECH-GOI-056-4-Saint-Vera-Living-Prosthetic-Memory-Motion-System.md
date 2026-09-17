@@ -1,12 +1,27 @@
 # TECH-GOI-056-4 - SAINT-VERA LIVING PROSTHETIC MEMORY-MOTION SYSTEM
 
-Technology Designation: TECH-GOI-056-4
-Technology Name: Saint-Vera Living Prosthetic Memory-Motion System
-Common Abbreviations: Living Prosthetic
-Origin: Saint-Vera Restoration Concern
-Acquisition Status: Cooperative recovery, partial inspection, or restricted patient-transfer evidence
-Primary A.C.T Interest: Survivor restoration, medical containment, Subject Care continuity, and consent-safe custody
-Archive Handling: PATIENT-DIGNITY DISCLOSURE LIMIT / MEDICAL-SUBJECT CARE RESTRICTED
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-056-4                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Saint-Vera Living Prosthetic Memory-Motion System           |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | Living Prosthetic                                           |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | Saint-Vera Restoration Concern                              |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Cooperative recovery, partial inspection, or restricted     |
+|                            | patient-transfer evidence                                   |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Survivor restoration, medical containment, Subject Care     |
+|                            | continuity, and consent-safe custody                        |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | PATIENT-DIGNITY DISCLOSURE LIMIT / MEDICAL-SUBJECT CARE     |
+|                            | RESTRICTED                                                  |
++----------------------------+-------------------------------------------------------------+
+```
 
 ## Functional Identity
 

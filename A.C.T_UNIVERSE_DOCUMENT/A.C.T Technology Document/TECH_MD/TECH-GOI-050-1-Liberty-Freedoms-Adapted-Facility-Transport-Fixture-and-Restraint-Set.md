@@ -1,12 +1,28 @@
 # TECH-GOI-050-1 - LIBERTY FREEDOMS ADAPTED FACILITY TRANSPORT FIXTURE AND RESTRAINT SET
 
-Technology Designation: TECH-GOI-050-1
-Technology Name: Liberty Freedoms Adapted Facility Transport Fixture and Restraint Set
-Common Abbreviations: Adapted Fixtures / Diverted Stock / L.F. Restraint Set
-Origin: Liberty Freedoms
-Acquisition Status: Recovered diverted and adapted equipment from interdiction and abandoned transports; no complete inventory held
-Primary A.C.T Interest: Diversion-source tracing, restraint failure analysis, transport-seam interdiction, subject-safety recovery
-Archive Handling: DEFECTOR-IDENTITY RESTRICTED / LEVEL 5 HOSTILE NETWORKS REVIEW
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-050-1                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Liberty Freedoms Adapted Facility Transport Fixture and     |
+|                            | Restraint Set                                               |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | Adapted Fixtures / Diverted Stock / L.F. Restraint Set      |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | Liberty Freedoms                                            |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Recovered diverted and adapted equipment from interdiction  |
+|                            | and abandoned transports; no complete inventory held        |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Diversion-source tracing, restraint failure analysis,       |
+|                            | transport-seam interdiction, subject-safety recovery        |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | DEFECTOR-IDENTITY RESTRICTED / LEVEL 5 HOSTILE NETWORKS     |
+|                            | REVIEW                                                      |
++----------------------------+-------------------------------------------------------------+
+```
 
 ## Functional Identity
 

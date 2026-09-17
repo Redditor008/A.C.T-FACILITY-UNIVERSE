@@ -1,12 +1,28 @@
 # TECH-GOI-014-2 - ANTI-GLOBAL ANOMALY REMOTE DETONATION AND AREA-DENIAL TOOL SET
 
-Technology Designation: TECH-GOI-014-2
-Technology Name: Anti-Global Anomaly Remote Detonation and Area-Denial Tool Set
-Common Abbreviations: Denial Set / Remote Trigger Kit / A-GA Demolition Gear
-Origin: Anti-Global Anomaly
-Acquisition Status: Recovered from interdicted cells and failed demolition sites; trigger chains often incomplete at recovery
-Primary A.C.T Interest: Device clearance, trigger-chain reconstruction, structural harm assessment, civilian evacuation planning
-Archive Handling: STRATEGIC INTERDICTION RESTRICTED / LEVEL 5 EXPLOSIVE AND TRIGGER REVIEW
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-014-2                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Anti-Global Anomaly Remote Detonation and Area-Denial Tool  |
+|                            | Set                                                         |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | Denial Set / Remote Trigger Kit / A-GA Demolition Gear      |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | Anti-Global Anomaly                                         |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Recovered from interdicted cells and failed demolition      |
+|                            | sites; trigger chains often incomplete at recovery          |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Device clearance, trigger-chain reconstruction, structural  |
+|                            | harm assessment, civilian evacuation planning               |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | STRATEGIC INTERDICTION RESTRICTED / LEVEL 5 EXPLOSIVE AND   |
+|                            | TRIGGER REVIEW                                              |
++----------------------------+-------------------------------------------------------------+
+```
 
 ## Functional Identity
 

@@ -1,12 +1,28 @@
 # TECH-GOI-049-5 - DREAM .INC QUIET MACHINE CONDITION INDICATOR SYSTEM
 
-Technology Designation: TECH-GOI-049-5
-Technology Name: DREAM .INC Quiet Machine Condition Indicator System
-Common Abbreviations: DQMCIS / Quiet Machine Indicator / Maintenance Condition Signal
-Origin: DREAM .INC
-Acquisition Status: Internal communication recovered; indicator model under Intelligence review
-Primary A.C.T Interest: Apparatus-state warning, product scarcity interpretation, source anomaly risk detection, intervention timing
-Archive Handling: DREAM .INC MACHINE-STATE RESTRICTED / INTELLIGENCE-CONTAINMENT JOINT REVIEW
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-049-5                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | DREAM .INC Quiet Machine Condition Indicator System         |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | DQMCIS / Quiet Machine Indicator / Maintenance Condition    |
+|                            | Signal                                                      |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | DREAM .INC                                                  |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Internal communication recovered; indicator model under     |
+|                            | Intelligence review                                         |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Apparatus-state warning, product scarcity interpretation,   |
+|                            | source anomaly risk detection, intervention timing          |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | DREAM .INC MACHINE-STATE RESTRICTED /                       |
+|                            | INTELLIGENCE-CONTAINMENT JOINT REVIEW                       |
++----------------------------+-------------------------------------------------------------+
+```
 
 ## Functional Identity
 

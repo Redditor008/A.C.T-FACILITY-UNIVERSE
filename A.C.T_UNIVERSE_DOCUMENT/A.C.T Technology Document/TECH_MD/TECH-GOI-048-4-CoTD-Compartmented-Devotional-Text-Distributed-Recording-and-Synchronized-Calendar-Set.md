@@ -1,12 +1,30 @@
 # TECH-GOI-048-4 - CHILDREN OF THE DEEP COMPARTMENTED DEVOTIONAL TEXT, DISTRIBUTED RECORDING, AND SYNCHRONIZED CALENDAR SET
 
-Technology Designation: TECH-GOI-048-4
-Technology Name: Children of the Deep Compartmented Devotional Text, Distributed Recording, and Synchronized Calendar Set
-Common Abbreviations: Sounding Texts / Cult Recordings / Return Calendar
-Origin: Children of the Deep
-Acquisition Status: Copied texts and recording extracts recovered and interdicted; materials restricted, no full reconstruction authorized
-Primary A.C.T Interest: Ritual vector analysis, information-hazard containment, leadership continuity tracking, coordinated-action early warning
-Archive Handling: CULTIC NETWORKS RESTRICTED / KUROKAWA RECORDING REVIEW REQUIRED
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-048-4                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Children of the Deep Compartmented Devotional Text,         |
+|                            | Distributed Recording, and Synchronized Calendar Set        |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | Sounding Texts / Cult Recordings / Return Calendar          |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | Children of the Deep                                        |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Copied texts and recording extracts recovered and           |
+|                            | interdicted; materials restricted, no full reconstruction   |
+|                            | authorized                                                  |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Ritual vector analysis, information-hazard containment,     |
+|                            | leadership continuity tracking, coordinated-action early    |
+|                            | warning                                                     |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | CULTIC NETWORKS RESTRICTED / KUROKAWA RECORDING REVIEW      |
+|                            | REQUIRED                                                    |
++----------------------------+-------------------------------------------------------------+
+```
 
 ## Functional Identity
 

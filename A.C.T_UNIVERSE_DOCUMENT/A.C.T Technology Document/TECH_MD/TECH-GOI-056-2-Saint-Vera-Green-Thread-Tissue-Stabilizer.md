@@ -1,12 +1,27 @@
 # TECH-GOI-056-2 - SAINT-VERA GREEN-THREAD TISSUE STABILIZER
 
-Technology Designation: TECH-GOI-056-2
-Technology Name: Saint-Vera Green-Thread Tissue Stabilizer
-Common Abbreviations: Green Thread
-Origin: Saint-Vera Restoration Concern
-Acquisition Status: Cooperative recovery, partial inspection, or restricted patient-transfer evidence
-Primary A.C.T Interest: Survivor restoration, medical containment, Subject Care continuity, and consent-safe custody
-Archive Handling: PATIENT-DIGNITY DISCLOSURE LIMIT / MEDICAL-SUBJECT CARE RESTRICTED
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-056-2                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Saint-Vera Green-Thread Tissue Stabilizer                   |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | Green Thread                                                |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | Saint-Vera Restoration Concern                              |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Cooperative recovery, partial inspection, or restricted     |
+|                            | patient-transfer evidence                                   |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Survivor restoration, medical containment, Subject Care     |
+|                            | continuity, and consent-safe custody                        |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | PATIENT-DIGNITY DISCLOSURE LIMIT / MEDICAL-SUBJECT CARE     |
+|                            | RESTRICTED                                                  |
++----------------------------+-------------------------------------------------------------+
+```
 
 ## Functional Identity
 

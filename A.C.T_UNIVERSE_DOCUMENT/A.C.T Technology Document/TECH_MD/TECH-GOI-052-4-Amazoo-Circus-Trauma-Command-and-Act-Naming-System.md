@@ -1,12 +1,26 @@
 # TECH-GOI-052-4 - AMAZOO CIRCUS TRAUMA-COMMAND AND ACT-NAMING SYSTEM
 
-Technology Designation: TECH-GOI-052-4
-Technology Name: Amazoo Circus Trauma-Command and Act-Naming System
-Common Abbreviations: TCANS / Act Naming / Command Phrase System
-Origin: Amazoo Circus
-Acquisition Status: Survivor-linked evidence and restricted diary phrase analysis
-Primary A.C.T Interest: Survivor protection, trigger suppression, hostile command detection, testimony-safe interviewing
-Archive Handling: AMAZOO COMMAND LANGUAGE RESTRICTED / SUBJECT CARE CONTROL
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-052-4                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Amazoo Circus Trauma-Command and Act-Naming System          |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | TCANS / Act Naming / Command Phrase System                  |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | Amazoo Circus                                               |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Survivor-linked evidence and restricted diary phrase        |
+|                            | analysis                                                    |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Survivor protection, trigger suppression, hostile command   |
+|                            | detection, testimony-safe interviewing                      |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | AMAZOO COMMAND LANGUAGE RESTRICTED / SUBJECT CARE CONTROL   |
++----------------------------+-------------------------------------------------------------+
+```
 
 ## Functional Identity
 

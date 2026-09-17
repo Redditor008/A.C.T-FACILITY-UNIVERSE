@@ -1,12 +1,27 @@
 # TECH-GOI-055-3 - CAIRN & LINTEL SHELTER KEY ACTIVATION SYSTEM
 
-Technology Designation: TECH-GOI-055-3
-Technology Name: Cairn & Lintel Shelter Key Activation System
-Common Abbreviations: Shelter Key / Green Key / C&L Key
-Origin: Cairn & Lintel
-Acquisition Status: Recovered inactive key evidence, route-card instruction, and cooperative shelter review
-Primary A.C.T Interest: Emergency door activation, child-safe evacuation, access control, post-incident component custody
-Archive Handling: OCCUPIED-SHELTER DISCLOSURE LIMIT / RECOVERY-SUBJECT CARE REVIEW
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-055-3                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Cairn & Lintel Shelter Key Activation System                |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | Shelter Key / Green Key / C&L Key                           |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | Cairn & Lintel                                              |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Recovered inactive key evidence, route-card instruction,    |
+|                            | and cooperative shelter review                              |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Emergency door activation, child-safe evacuation, access    |
+|                            | control, post-incident component custody                    |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | OCCUPIED-SHELTER DISCLOSURE LIMIT / RECOVERY-SUBJECT CARE   |
+|                            | REVIEW                                                      |
++----------------------------+-------------------------------------------------------------+
+```
 
 ## Functional Identity
 

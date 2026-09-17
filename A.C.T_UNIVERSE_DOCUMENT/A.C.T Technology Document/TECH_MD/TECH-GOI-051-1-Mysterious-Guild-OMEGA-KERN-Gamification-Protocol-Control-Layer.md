@@ -1,12 +1,27 @@
 # TECH-GOI-051-1 - MYSTERIOUS GUILD OMEGA-KERN GAMIFICATION PROTOCOL CONTROL LAYER
 
-Technology Designation: TECH-GOI-051-1
-Technology Name: Mysterious Guild OMEGA-KERN Gamification Protocol Control Layer
-Common Abbreviations: OMEGA-KERN / Gamification Protocol / Guild Combat Interface
-Origin: Mysterious Guild
-Acquisition Status: Recovered record evidence and VESPER-linked operational restrictions; no safe reproduction authorized
-Primary A.C.T Interest: Subject-care protection, coercive interface suppression, future-origin software containment, tactical deconditioning
-Archive Handling: GUILD LEASH RESTRICTED / SUBJECT CARE HARD LIMIT
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-051-1                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Mysterious Guild OMEGA-KERN Gamification Protocol Control   |
+|                            | Layer                                                       |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | OMEGA-KERN / Gamification Protocol / Guild Combat Interface |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | Mysterious Guild                                            |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Recovered record evidence and VESPER-linked operational     |
+|                            | restrictions; no safe reproduction authorized               |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Subject-care protection, coercive interface suppression,    |
+|                            | future-origin software containment, tactical deconditioning |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | GUILD LEASH RESTRICTED / SUBJECT CARE HARD LIMIT            |
++----------------------------+-------------------------------------------------------------+
+```
 
 ## Functional Identity
 

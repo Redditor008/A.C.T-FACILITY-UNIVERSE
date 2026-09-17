@@ -1,12 +1,28 @@
 # TECH-GOI-056-5 - SAINT-VERA COLD LEDGER AND SEALED PATIENT CONTINUITY ARCHIVE
 
-Technology Designation: TECH-GOI-056-5
-Technology Name: Saint-Vera Cold Ledger and Sealed Patient Continuity Archive
-Common Abbreviations: Cold Ledger
-Origin: Saint-Vera Restoration Concern
-Acquisition Status: Cooperative recovery, partial inspection, or restricted patient-transfer evidence
-Primary A.C.T Interest: Survivor restoration, medical containment, Subject Care continuity, and consent-safe custody
-Archive Handling: PATIENT-DIGNITY DISCLOSURE LIMIT / MEDICAL-SUBJECT CARE RESTRICTED
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-056-5                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Saint-Vera Cold Ledger and Sealed Patient Continuity        |
+|                            | Archive                                                     |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | Cold Ledger                                                 |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | Saint-Vera Restoration Concern                              |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Cooperative recovery, partial inspection, or restricted     |
+|                            | patient-transfer evidence                                   |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Survivor restoration, medical containment, Subject Care     |
+|                            | continuity, and consent-safe custody                        |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | PATIENT-DIGNITY DISCLOSURE LIMIT / MEDICAL-SUBJECT CARE     |
+|                            | RESTRICTED                                                  |
++----------------------------+-------------------------------------------------------------+
+```
 
 ## Functional Identity
 

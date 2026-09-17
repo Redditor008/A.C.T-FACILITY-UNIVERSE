@@ -1,12 +1,26 @@
 # TECH-GOI-054-2 - LULLABY WORKS LISTENING PLUSH DISTRESS TRANSDUCER
 
-Technology Designation: TECH-GOI-054-2
-Technology Name: Lullaby Works Listening Plush Distress Transducer
-Common Abbreviations: Listening Plush
-Origin: Lullaby Works
-Acquisition Status: Cooperative recovery, partial inspection, or protected field custody through child-safety cases
-Primary A.C.T Interest: Child protection, Subject Care continuity, product-risk review, and safe evidence handling
-Archive Handling: CHILD-CARE DISCLOSURE LIMIT / SUBJECT CARE RESTRICTED
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-054-2                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Lullaby Works Listening Plush Distress Transducer           |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | Listening Plush                                             |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | Lullaby Works                                               |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Cooperative recovery, partial inspection, or protected      |
+|                            | field custody through child-safety cases                    |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Child protection, Subject Care continuity, product-risk     |
+|                            | review, and safe evidence handling                          |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | CHILD-CARE DISCLOSURE LIMIT / SUBJECT CARE RESTRICTED       |
++----------------------------+-------------------------------------------------------------+
+```
 
 ## Functional Identity
 

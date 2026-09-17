@@ -1,12 +1,28 @@
 # TECH-GOI-053-4 - MISSING 404 WATCH TOWER LOCKED EMERGENCY PHONE AND SIGNAL RELAY
 
-Technology Designation: TECH-GOI-053-4
-Technology Name: Missing 404 Watch Tower Locked Emergency Phone and Signal Relay
-Common Abbreviations: Locked Phone / Signal Relay / North Window Relay
-Origin: Missing 404 Watch Tower
-Acquisition Status: Cooperative signal notice and A.C.T call verification; hardware access limited
-Primary A.C.T Interest: Distress-signal preservation, removed-location contact, missing-team recovery, communications hazard control
-Archive Handling: M404-WT SIGNAL RESTRICTED / RECOVERY AND INTELLIGENCE JOINT REVIEW
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-053-4                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Missing 404 Watch Tower Locked Emergency Phone and Signal   |
+|                            | Relay                                                       |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | Locked Phone / Signal Relay / North Window Relay            |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | Missing 404 Watch Tower                                     |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Cooperative signal notice and A.C.T call verification;      |
+|                            | hardware access limited                                     |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Distress-signal preservation, removed-location contact,     |
+|                            | missing-team recovery, communications hazard control        |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | M404-WT SIGNAL RESTRICTED / RECOVERY AND INTELLIGENCE JOINT |
+|                            | REVIEW                                                      |
++----------------------------+-------------------------------------------------------------+
+```
 
 ## Functional Identity
 

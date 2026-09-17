@@ -1,12 +1,27 @@
 # TECH-GOI-056-1 - SAINT-VERA RESTORATION THEATER SURGICAL ENVIRONMENT
 
-Technology Designation: TECH-GOI-056-1
-Technology Name: Saint-Vera Restoration Theater Surgical Environment
-Common Abbreviations: Restoration Theater
-Origin: Saint-Vera Restoration Concern
-Acquisition Status: Cooperative recovery, partial inspection, or restricted patient-transfer evidence
-Primary A.C.T Interest: Survivor restoration, medical containment, Subject Care continuity, and consent-safe custody
-Archive Handling: PATIENT-DIGNITY DISCLOSURE LIMIT / MEDICAL-SUBJECT CARE RESTRICTED
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-056-1                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Saint-Vera Restoration Theater Surgical Environment         |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | Restoration Theater                                         |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | Saint-Vera Restoration Concern                              |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Cooperative recovery, partial inspection, or restricted     |
+|                            | patient-transfer evidence                                   |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Survivor restoration, medical containment, Subject Care     |
+|                            | continuity, and consent-safe custody                        |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | PATIENT-DIGNITY DISCLOSURE LIMIT / MEDICAL-SUBJECT CARE     |
+|                            | RESTRICTED                                                  |
++----------------------------+-------------------------------------------------------------+
+```
 
 ## Functional Identity
 

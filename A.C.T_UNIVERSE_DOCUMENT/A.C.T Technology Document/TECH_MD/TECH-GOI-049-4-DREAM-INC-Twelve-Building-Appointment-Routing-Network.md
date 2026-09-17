@@ -1,12 +1,27 @@
 # TECH-GOI-049-4 - DREAM .INC TWELVE-BUILDING APPOINTMENT ROUTING NETWORK
 
-Technology Designation: TECH-GOI-049-4
-Technology Name: DREAM .INC Twelve-Building Appointment Routing Network
-Common Abbreviations: DTBARN / Appointment Routing Network / Open Building Cover System
-Origin: DREAM .INC
-Acquisition Status: Surveyed and infiltrated in part; location index restricted
-Primary A.C.T Interest: Corporate route mapping, product interdiction, building-function identification, covert containment planning
-Archive Handling: DREAM .INC LOCATION RESTRICTED / CIVIL COVERT CONTROL
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-049-4                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | DREAM .INC Twelve-Building Appointment Routing Network      |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | DTBARN / Appointment Routing Network / Open Building Cover  |
+|                            | System                                                      |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | DREAM .INC                                                  |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Surveyed and infiltrated in part; location index restricted |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Corporate route mapping, product interdiction,              |
+|                            | building-function identification, covert containment        |
+|                            | planning                                                    |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | DREAM .INC LOCATION RESTRICTED / CIVIL COVERT CONTROL       |
++----------------------------+-------------------------------------------------------------+
+```
 
 ## Functional Identity
 

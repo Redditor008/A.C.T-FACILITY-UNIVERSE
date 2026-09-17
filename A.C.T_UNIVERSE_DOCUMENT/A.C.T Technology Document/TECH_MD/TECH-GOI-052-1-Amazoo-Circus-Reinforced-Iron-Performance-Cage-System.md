@@ -1,12 +1,26 @@
 # TECH-GOI-052-1 - AMAZOO CIRCUS REINFORCED IRON PERFORMANCE CAGE SYSTEM
 
-Technology Designation: TECH-GOI-052-1
-Technology Name: Amazoo Circus Reinforced Iron Performance Cage System
-Common Abbreviations: Amazoo Cage / Performance Cage / Broken Ring Cage
-Origin: Amazoo Circus
-Acquisition Status: Recovered cage evidence from Operation BIG TOP and Broken Ring scene custody
-Primary A.C.T Interest: Survivor evidence, anomalous restraint analysis, trafficking-route reconstruction, non-reuse prevention
-Archive Handling: AMAZOO SURVIVOR-EVIDENCE RESTRICTED / SUBJECT CARE REVIEW
+```text
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-052-1                                              |
++----------------------------+-------------------------------------------------------------+
+| TECHNOLOGY NAME            | Amazoo Circus Reinforced Iron Performance Cage System       |
++----------------------------+-------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | Amazoo Cage / Performance Cage / Broken Ring Cage           |
++----------------------------+-------------------------------------------------------------+
+| ORIGIN                     | Amazoo Circus                                               |
++----------------------------+-------------------------------------------------------------+
+| ACQUISITION STATUS         | Recovered cage evidence from Operation BIG TOP and Broken   |
+|                            | Ring scene custody                                          |
++----------------------------+-------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Survivor evidence, anomalous restraint analysis,            |
+|                            | trafficking-route reconstruction, non-reuse prevention      |
++----------------------------+-------------------------------------------------------------+
+| ARCHIVE HANDLING           | AMAZOO SURVIVOR-EVIDENCE RESTRICTED / SUBJECT CARE REVIEW   |
++----------------------------+-------------------------------------------------------------+
+```
 
 ## Functional Identity
 
