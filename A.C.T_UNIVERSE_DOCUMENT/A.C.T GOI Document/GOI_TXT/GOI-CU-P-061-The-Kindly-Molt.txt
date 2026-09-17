@@ -78,7 +78,7 @@ Refuge locations, child members, active rites, and some body-condition details a
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -103,7 +103,7 @@ Public language is gentle and indirect. Members speak of shedding, soft skin, ol
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -143,7 +143,7 @@ The group does not publicly recruit healthy people into transformation. A.C.T ha
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -191,7 +191,7 @@ This leakage often improves long-term stability. Families who are prepared may p
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -237,7 +237,7 @@ These labels are useful and provocative. They imply that some institutions treat
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -258,7 +258,7 @@ A.C.T field teams must expect moral friction. The group will ask whether contain
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -284,7 +284,7 @@ A.C.T will also not treat all Molt members as cult threats. If a refuge practice
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -323,7 +323,7 @@ The fragment is retained because it shows the group's practical care language an
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -361,7 +361,7 @@ Moderate. Recovered care cards, refuge contacts, body-map consistency, survivor 
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -389,7 +389,7 @@ Under review. The Kindly Molt is a cultic GOI, but some rites, refuge rooms, led
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            13/09/2026
 FILE LAST UPDATED:       13/09/2026

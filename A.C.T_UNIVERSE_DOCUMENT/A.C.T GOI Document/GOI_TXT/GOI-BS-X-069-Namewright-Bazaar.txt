@@ -79,7 +79,7 @@ All true-name fragments, child ledgers, active witness substitutions, and A.C.T 
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -104,7 +104,7 @@ Public language is careful. Sellers rarely say true name. They say old paper, be
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -144,7 +144,7 @@ A.C.T classifies the phrase as a training marker and possible initiation standar
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -191,7 +191,7 @@ Unlike Velvet Provenance House, which hides within elite confidentiality, Namewr
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -240,7 +240,7 @@ The rules show internal discipline, but not ethics.
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -265,7 +265,7 @@ The Bazaar attempts to identify A.C.T personnel through badge names, cover names
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -289,7 +289,7 @@ A.C.T will not allow the Bazaar to purchase survivor records, sell child identit
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -323,7 +323,7 @@ The dog attachment is preserved as evidence that non-human recognition may resis
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -362,7 +362,7 @@ Moderate to High. A.C.T has recovered instruments, sale cards, victim statements
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -389,7 +389,7 @@ Mandatory. Namewright instruments and ledgers are often active hazards. Any reco
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            14/09/2026
 FILE LAST UPDATED:       14/09/2026

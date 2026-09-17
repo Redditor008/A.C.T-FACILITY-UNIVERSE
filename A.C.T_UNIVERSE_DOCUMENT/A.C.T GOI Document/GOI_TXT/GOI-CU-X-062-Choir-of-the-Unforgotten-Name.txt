@@ -78,7 +78,7 @@ Active hymn texts, child singer identities, memorial-chapel locations, and NEMNO
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -103,7 +103,7 @@ Public marks include black song ribbons, folded paper throats, hymn sheets with 
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -143,7 +143,7 @@ The Choir is especially dangerous around vulnerable survivors because it offers 
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -191,7 +191,7 @@ Civilian exposure is most severe at funerals, anniversaries, school memorials, h
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -235,7 +235,7 @@ A.C.T treats the final instruction as deliberate counter-containment practice.
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -258,7 +258,7 @@ A.C.T must maintain the distinction between grief and threat. Individual relativ
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -282,7 +282,7 @@ A.C.T will also not erase grief only to defeat the Choir. If a family can be giv
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -319,7 +319,7 @@ The card was left at an A.C.T temporary evidence office. No entry breach recorde
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -356,7 +356,7 @@ Moderate. Recovered refrain sheets, repeated phrases, witness effects, and organ
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -383,7 +383,7 @@ Under review. The Choir is a cultic GOI, but specific refrains, bells, name book
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            13/09/2026
 FILE LAST UPDATED:       13/09/2026

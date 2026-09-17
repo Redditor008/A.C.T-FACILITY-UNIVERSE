@@ -44,7 +44,7 @@ This record expands the short catalog entry into a working technology document. 
 ---
 
 FUNCTION SUMMARY
-================
+----------------
 
 Practical Function
 ------------------
@@ -75,7 +75,7 @@ ARM is therefore a normalcy technology as much as a site technology. It is one o
 ---
 
 ORIGIN AND CUSTODY
-==================
+------------------
 
 Development History
 -------------------
@@ -96,7 +96,7 @@ Site Command controls local activation posture and emergency override. Containme
 ---
 
 PHYSICAL AND SYSTEM DESCRIPTION
-===============================
+-------------------------------
 
 Mesh Nodes
 ----------
@@ -136,7 +136,7 @@ Mobile ARM variants exist but are weaker and shorter-lived. They are used on con
 ---
 
 OPERATING PROCEDURE
-===================
+-------------------
 
 Authorized Use
 --------------
@@ -171,7 +171,7 @@ Do not remove a copper node because it looks decorative. Do not paint over node 
 ---
 
 KNOWN LIMITS
-============
+------------
 
 What ARM Cannot Do
 ------------------
@@ -200,7 +200,7 @@ A good ARM field makes a civilian say later, I think it was just some office. A 
 ---
 
 FAILURE HISTORY
-===============
+---------------
 
 SIENA ESTATE ALPHA BLEED
 ------------------------
@@ -226,7 +226,7 @@ The combined failure mode is still under review.
 ---
 
 DIVISION USE
-============
+------------
 
 Engineering Division
 --------------------
@@ -251,7 +251,7 @@ Intelligence monitors hostile probing, false maintenance activity, pattern mappi
 ---
 
 CROSS-REFERENCES
-================
+----------------
 
 Related A.C.T Records
 ---------------------
@@ -282,7 +282,7 @@ Each system requires its own individual technology record. This file covers only
 ---
 
 OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
-===========================================
+-------------------------------------------
 
 - How much long-term ARM exposure changes staff expectations of public attention remains incompletely studied.
 - Can hostile GOIs map ARM edges by tracking what civilians do not photograph?
@@ -296,7 +296,7 @@ OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            14/09/2026
 FILE LAST UPDATED:       14/09/2026

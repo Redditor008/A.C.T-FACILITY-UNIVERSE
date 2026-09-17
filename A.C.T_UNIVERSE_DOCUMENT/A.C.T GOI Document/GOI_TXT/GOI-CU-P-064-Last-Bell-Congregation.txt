@@ -79,7 +79,7 @@ Active end calendars, true-bell tone notations, child shelter rosters, and faile
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -104,7 +104,7 @@ Public marks include bell cords tied with grey ribbon, printed end calendars wit
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -144,7 +144,7 @@ A.C.T has no confirmed evidence that Last Bell deliberately creates disasters to
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -193,7 +193,7 @@ The group rarely publishes direct A.C.T information. Exposure comes from pattern
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -238,7 +238,7 @@ A.C.T treats unapproved prayer routes as an access-and-egress risk, especially w
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -261,7 +261,7 @@ A.C.T must not confuse Last Bell with Children of the Deep. Children of the Deep
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -287,7 +287,7 @@ A.C.T will also not dismantle a working shelter network merely because it knows 
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -325,7 +325,7 @@ The failed-calendar fragment is retained because it shows the Congregation has i
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -363,7 +363,7 @@ Moderate. Recovered notices, shelter ledgers, confirmed warning events, and cons
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -391,7 +391,7 @@ Under review. Last Bell is a cultic GOI, but specific bells, calendars, shelters
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            13/09/2026
 FILE LAST UPDATED:       13/09/2026

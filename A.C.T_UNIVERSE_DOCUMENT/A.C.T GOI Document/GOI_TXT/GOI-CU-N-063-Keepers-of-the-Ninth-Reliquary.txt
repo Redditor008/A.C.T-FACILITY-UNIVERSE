@@ -78,7 +78,7 @@ Active reliquary locations, feeding texts, child-attendant records, and the curr
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -103,7 +103,7 @@ Public marks include nine small nail holes in a shelf, bone-colored lamp glass, 
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -143,7 +143,7 @@ A.C.T has no confirmed evidence that the Keepers intentionally expose civilians 
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -191,7 +191,7 @@ Exposure risk rises when a relic enters a market, museum dispute, estate sale, p
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -238,7 +238,7 @@ A.C.T may use such instructions when risk is immediate, but permanent policy req
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -259,7 +259,7 @@ A.C.T should expect slow negotiation, refusal language, and partial disclosure. 
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -283,7 +283,7 @@ A.C.T will also not seize Keeper relics for research convenience when existing t
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -320,7 +320,7 @@ The ledger fragment is retained because it records both ritual language and oper
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -358,7 +358,7 @@ Moderate. Recovered notices, material outcomes, repeated markings, ledgers, and 
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -383,7 +383,7 @@ Under review. The Keepers are a cultic GOI, but active relics and some reliquary
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            13/09/2026
 FILE LAST UPDATED:       13/09/2026

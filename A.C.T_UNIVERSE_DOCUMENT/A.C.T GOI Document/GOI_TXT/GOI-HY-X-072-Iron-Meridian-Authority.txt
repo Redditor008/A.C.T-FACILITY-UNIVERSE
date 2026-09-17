@@ -84,7 +84,7 @@ Prisoner names, charter-state sponsors, suppression-device schematics, tribunal 
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -109,7 +109,7 @@ Visual marks include black meridian lines painted across roads, iron-colored arm
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -149,7 +149,7 @@ A.C.T Legal Division classifies the line as evidence of institutional abuse rath
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -201,7 +201,7 @@ Unlike A.C.T normalcy work, Iron Meridian often benefits from civilians being af
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -251,7 +251,7 @@ A.C.T personnel are frequently classified as LINE-ENEMY when operating without a
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -276,7 +276,7 @@ Iron Meridian propaganda depicts A.C.T as sentimental, unstable, and irresponsib
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -300,7 +300,7 @@ A.C.T will not permit Iron Meridian to claim A.C.T detainees, operate camps insi
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -331,7 +331,7 @@ The note is retained because it corrects the recurring operational temptation to
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -370,7 +370,7 @@ Moderate to High. A.C.T has recovered warrants, devices, captive statements, pho
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -397,7 +397,7 @@ Mandatory. Iron Meridian devices and detention systems are often active hazards.
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            14/09/2026
 FILE LAST UPDATED:       14/09/2026

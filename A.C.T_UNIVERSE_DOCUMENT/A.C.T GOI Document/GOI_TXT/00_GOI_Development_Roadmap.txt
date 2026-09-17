@@ -158,7 +158,7 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 ==============================================================================
 
 5. The twenty structural GOI scaffold slots
-===================================
+-----------------------------------
 
 Important archive control note: Each entry below is a structural placeholder only. The designation, classification, name, and premise are not approved canon. They may be kept, renamed, rewritten, replaced by a GOI already mentioned in an anomaly file, or discarded when Central Archive directs actual GOI creation.
 
@@ -365,7 +365,7 @@ Important archive control note: Each entry below is a structural placeholder onl
 ==============================================================================
 
 6. Single-order creation procedure
-================================
+--------------------------------
 
 When Central Archive authorizes a GOI, the next registry order may create only that one individual GOI dossier. The authorization may name a scaffold slot, but it may also name a different approved GOI or a GOI already mentioned in an anomaly file.
 
@@ -398,7 +398,7 @@ A completed individual dossier remains Archive Review until Central Archive acce
 ==============================================================================
 
 7. Creation safeguards
-======================
+----------------------
 
 Before writing a single new GOI, confirm all of the following:
 

@@ -79,7 +79,7 @@ Patient names, mobile clinic routes, and restoration failures are censored under
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -104,7 +104,7 @@ This phrase appears in multiple languages and is the clearest reason Subject Car
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -143,7 +143,7 @@ A.C.T has not confirmed whether Saint-Vera recruits from former A.C.T personnel.
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -189,7 +189,7 @@ This leakage often occurs through compassion. Families want explanations. Surviv
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -235,7 +235,7 @@ These labels are clinically useful and politically provocative. They imply that 
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -259,7 +259,7 @@ The relationship is not Work because no stable operating agreement exists and th
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -285,7 +285,7 @@ A.C.T will also not treat every Saint-Vera patient as contraband. If a survivor 
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -320,7 +320,7 @@ The failure label is retained because it proves that Saint-Vera refuses some pro
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -358,7 +358,7 @@ Moderate. Patient outcomes, repeated labels, restoration signatures, and mobile 
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -384,7 +384,7 @@ Under review. Saint-Vera is a corporate GOI, but specific medical objects or pat
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            13/09/2026
 FILE LAST UPDATED:       13/09/2026

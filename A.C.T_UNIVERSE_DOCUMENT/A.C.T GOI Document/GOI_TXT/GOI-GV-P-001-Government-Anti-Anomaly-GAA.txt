@@ -77,7 +77,7 @@ The word Positive in the Alignment Class records an operational relationship wit
 ==============================================================================
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Government Anti Anomaly as a Limited State Body
 -----------------------------------------------
@@ -110,7 +110,7 @@ Where cover continuity cannot be maintained, the GAA does not decide concealment
 ==============================================================================
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Liaison Architecture
 --------------------
@@ -175,7 +175,7 @@ Any GAA component attempting to cross these boundaries is to be treated as a com
 ==============================================================================
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Controlled State Continuity
 ---------------------------
@@ -188,7 +188,7 @@ The practice becomes dangerous when state continuity is reinterpreted as state e
 ==============================================================================
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Known Operational Assets
 ------------------------
@@ -233,7 +233,7 @@ This distinction produces recurring friction. A.C.T evaluates a decision accordi
 ==============================================================================
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Restricted Contact History
 --------------------------
@@ -246,7 +246,7 @@ The relationship has endured because it is deliberately narrow. When cooperation
 ==============================================================================
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Cooperation Posture
 -------------------
@@ -306,7 +306,7 @@ Direct dismantling of a government-facing interface is authorized only when ordi
 ==============================================================================
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Task-Bounded Authorization Review - Restricted Extract
 ------------------------------------------------------
@@ -324,7 +324,7 @@ Post-action review identified no unauthorized material retention, but it noted t
 ==============================================================================
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Operational Value Assessment
 ----------------------------
@@ -358,7 +358,7 @@ No A.C.T division is to disclose a complete Site map, full anomaly index, O5-lev
 ==============================================================================
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -378,7 +378,7 @@ Related A.C.T Records
 ==============================================================================
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            06/09/2026
 FILE LAST UPDATED:       06/09/2026

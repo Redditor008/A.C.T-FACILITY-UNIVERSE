@@ -78,7 +78,7 @@ Buyer books, living heir identities, return clauses, and active sale rooms are c
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -103,7 +103,7 @@ Private contact usually begins through estate disputes, collector introductions,
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -143,7 +143,7 @@ The note suggests House education treats normal public history as one evidence l
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -191,7 +191,7 @@ Civilian danger comes from respectability. An object with a Velvet certificate m
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -238,7 +238,7 @@ The House sometimes refuses payment after assigning Red Hold. This supports Neut
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -262,7 +262,7 @@ The House has aided at least four recoveries by confirming forged origin stories
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -286,7 +286,7 @@ A.C.T should not destroy provenance records unless they are themselves active ha
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -324,7 +324,7 @@ The barred-client card confirms the House restricts some buyers for safety, repu
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -363,7 +363,7 @@ Moderate. Physical receipts, forged receipt comparisons, estate testimony, buyer
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -389,7 +389,7 @@ Required when a House receipt, seal, ledger page, velvet cloth, return clause, o
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            14/09/2026
 FILE LAST UPDATED:       14/09/2026

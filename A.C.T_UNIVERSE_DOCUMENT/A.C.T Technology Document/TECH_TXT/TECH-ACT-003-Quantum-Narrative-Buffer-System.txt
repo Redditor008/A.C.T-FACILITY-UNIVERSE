@@ -45,7 +45,7 @@ This file expands the short catalog entry into a working technical record. Cryst
 ---
 
 FUNCTION SUMMARY
-================
+----------------
 
 Practical Function
 ------------------
@@ -74,7 +74,7 @@ QNB is the reason A.C.T can compare before and after when before has been attack
 ---
 
 ORIGIN AND CUSTODY
-==================
+------------------
 
 Development History
 -------------------
@@ -95,7 +95,7 @@ No GOI owns QNB. Several GOIs may possess weaker continuity ledgers, memory bank
 ---
 
 PHYSICAL AND SYSTEM DESCRIPTION
-===============================
+-------------------------------
 
 Standard Rack Unit
 ------------------
@@ -136,7 +136,7 @@ Field variants include portable evidence buffers, head-mounted recording buffers
 ---
 
 OPERATING PROCEDURE
-===================
+-------------------
 
 Authorized Use
 --------------
@@ -171,7 +171,7 @@ Do not overwrite a QNB-preserved contradiction because the current file looks cl
 ---
 
 KNOWN LIMITS
-============
+------------
 
 What QNB Cannot Do
 ------------------
@@ -200,7 +200,7 @@ A preserved record is not innocence. It is a witness that cannot forget, and wit
 ---
 
 FAILURE HISTORY
-===============
+---------------
 
 QNB-1992 FIRST RESTORATION DISPUTE
 ----------------------------------
@@ -226,7 +226,7 @@ The event remains training material for witness handling. QNB does not outrank l
 ---
 
 DIVISION USE
-============
+------------
 
 Archive Division
 ----------------
@@ -251,7 +251,7 @@ Intelligence tracks hostile rewriting, GOI document alteration, and archive pene
 ---
 
 CROSS-REFERENCES
-================
+----------------
 
 Related A.C.T Records
 ---------------------
@@ -283,7 +283,7 @@ Each system requires its own individual technology record. This file covers only
 ---
 
 OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
-===========================================
+-------------------------------------------
 
 - Can QNB preserve a record if the decision to write that record is erased before accession?
 - How many QNB-preserved contradictions represent hostile alteration rather than ordinary human error?
@@ -297,7 +297,7 @@ OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            15/09/2026
 FILE LAST UPDATED:       15/09/2026

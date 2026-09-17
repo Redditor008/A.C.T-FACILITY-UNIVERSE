@@ -78,7 +78,7 @@ Casualty names, child evacuation paths, responder audio, and active shelter loca
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -103,7 +103,7 @@ Public marks include grey harbor lanterns, slate rescue tags, blue-white stretch
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -144,7 +144,7 @@ A.C.T has no evidence that the Directorate recruits from A.C.T. It does recruit 
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -192,7 +192,7 @@ This leakage is not hostile publication. It is emergency accountability. Familie
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -238,7 +238,7 @@ These instructions save lives but create command friction. A.C.T field commander
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -259,7 +259,7 @@ A.C.T must expect disagreement. Grey Harbor will prioritize living civilians in 
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -285,7 +285,7 @@ A.C.T will also not order responder amnestics solely to avoid embarrassment over
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -323,7 +323,7 @@ The responder audio remains sealed because the voice under the boat matched a ci
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -360,7 +360,7 @@ Moderate to High. Field outcomes, public assets, command structure, and repeated
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -387,7 +387,7 @@ Under review. Grey Harbor is a government GOI, but some equipment, shelters, sir
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            13/09/2026
 FILE LAST UPDATED:       13/09/2026

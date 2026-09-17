@@ -78,7 +78,7 @@ Safe-house names, child-witness routes, medical suppliers, and living survivor b
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -103,7 +103,7 @@ Public marks include candle drawings under tables, receipts stamped PAID IN BREA
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -143,7 +143,7 @@ The Exchange does not recruit by promising power. It recruits by making survival
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -189,7 +189,7 @@ This leakage is often stabilizing. A survivor who receives medicine, housing, an
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -234,7 +234,7 @@ A.C.T classifies the final line as operationally hostile in tone but not proof o
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -257,7 +257,7 @@ A.C.T must distinguish between the Exchange and Anstrall Market. Both move anoma
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -281,7 +281,7 @@ A.C.T will also not dismantle a table only because it embarrasses official after
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -317,7 +317,7 @@ The bad-buyer card is retained because it shows internal ethical enforcement and
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -354,7 +354,7 @@ Moderate. Recovered ledgers, tokens, survivor statements, bad-buyer cards, and r
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -382,7 +382,7 @@ Under review. Candle-Under is a market GOI, but specific charms, salves, tokens,
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            14/09/2026
 FILE LAST UPDATED:       14/09/2026

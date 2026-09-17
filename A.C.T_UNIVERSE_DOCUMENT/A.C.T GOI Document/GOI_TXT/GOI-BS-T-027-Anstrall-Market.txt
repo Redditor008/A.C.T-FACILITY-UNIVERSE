@@ -74,7 +74,7 @@ The Market is not treated as an ordinary criminal organization that happens to t
 ==============================================================================
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 The Market Is a Structure, Not a Single Location
 ------------------------------------------------
@@ -105,7 +105,7 @@ This logic creates both danger and opportunity. A market can sell an object to a
 ==============================================================================
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Functional Layers
 -----------------
@@ -151,7 +151,7 @@ A temporary holding point is not necessarily a Market stronghold. It may be an o
 ==============================================================================
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 The Transaction Cycle
 ---------------------
@@ -195,7 +195,7 @@ This does not mean every Market participant understands the full anomaly-managem
 ==============================================================================
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Known Assets
 ------------
@@ -240,7 +240,7 @@ This reach requires Site cooperation. A local recovery success must be entered i
 ==============================================================================
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Record Formation and Recurrent Interdiction
 -------------------------------------------
@@ -253,7 +253,7 @@ The relationship changes from case to case. A live object in civilian transit re
 ==============================================================================
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Purpose of the Dual Posture
 ---------------------------
@@ -314,7 +314,7 @@ No single recovered object should be treated as proof that the Market has been n
 ==============================================================================
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Controlled Exchange Observation - Restricted Extract
 ----------------------------------------------------
@@ -332,7 +332,7 @@ Market documentation is not harmless because it is commercial. A price, a false 
 ==============================================================================
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Threat Level 3 Assessment
 -------------------------
@@ -373,7 +373,7 @@ The Facility's ability to appropriate an object from a trade structure is not pe
 ==============================================================================
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -393,7 +393,7 @@ Related A.C.T Records
 ==============================================================================
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            06/09/2026
 FILE LAST UPDATED:       06/09/2026

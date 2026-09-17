@@ -44,7 +44,7 @@ This file expands the short master-index entry into a working technical record. 
 ---
 
 FUNCTION SUMMARY
-================
+----------------
 
 Practical Function
 ------------------
@@ -74,7 +74,7 @@ The RSA is one reason A.C.T can develop technologies from anomalies without ever
 ---
 
 ORIGIN AND CUSTODY
-==================
+------------------
 
 Development History
 -------------------
@@ -97,7 +97,7 @@ No GOI owns RSA technology. Multiple GOIs have seen RSA effects. Iron Meridian A
 ---
 
 PHYSICAL AND SYSTEM DESCRIPTION
-===============================
+-------------------------------
 
 Standard Pillar Unit
 --------------------
@@ -136,7 +136,7 @@ Transport variants include RSA-equipped sealed containers, RSA-equipped intermod
 ---
 
 OPERATING PROCEDURE
-===================
+-------------------
 
 Authorized Use
 --------------
@@ -171,7 +171,7 @@ Do not open the front hatch during drift unless Engineering authorizes stress re
 ---
 
 KNOWN LIMITS
-============
+------------
 
 What RSA Cannot Do
 ------------------
@@ -200,7 +200,7 @@ The RSA is not courage. It is permission to begin being careful.
 ---
 
 FAILURE HISTORY
-===============
+---------------
 
 RSA-1965-PROTOTYPE STRESS BLOOM
 -------------------------------
@@ -226,7 +226,7 @@ No casualties occurred. The event remains training material for transport crews.
 ---
 
 DIVISION USE
-============
+------------
 
 Engineering Division
 --------------------
@@ -256,7 +256,7 @@ Archive Division reviews RSA logs when records, timestamps, map labels, retrieva
 ---
 
 CROSS-REFERENCES
-================
+----------------
 
 Related A.C.T Records
 ---------------------
@@ -286,7 +286,7 @@ Each system requires its own individual technology record. This file covers only
 ---
 
 OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
-===========================================
+-------------------------------------------
 
 - How long can a split Static-Pulse Crystal core operate after repeated RSA-WHITE events before replacement becomes mandatory?
 - Can hostile actors reproduce partial RSA effects using stolen crystal fragments or Ninefold Ark low-power seal patterns?
@@ -300,7 +300,7 @@ OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            14/09/2026
 FILE LAST UPDATED:       14/09/2026

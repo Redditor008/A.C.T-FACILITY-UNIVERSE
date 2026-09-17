@@ -75,7 +75,7 @@ The phrase Missing 404 is not treated as casual numerical styling. A.C.T uses it
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -94,7 +94,7 @@ A.C.T has confirmed that at least some public masks are deliberately harmless. T
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -129,7 +129,7 @@ Missing 404 Watch Tower is not assessed as a cult. It has ritual behavior around
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -174,7 +174,7 @@ This leakage is usually not malicious. The group does not broadly publish A.C.T 
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -213,7 +213,7 @@ The group does not always enter the hazard. It often watches, guides, documents,
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -232,7 +232,7 @@ A.C.T does not classify the group as Neutral because repeated practical cooperat
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -256,7 +256,7 @@ Escalation is required if Tower personnel knowingly guide civilians into hazardo
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -282,7 +282,7 @@ Missing 404 Watch Tower did not request custody of the survivors. Tower liaison 
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -318,7 +318,7 @@ Moderate. The group has produced consistent, useful material and has demonstrate
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -343,7 +343,7 @@ Under review. Missing 404 Watch Tower is an organization and therefore belongs i
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            13/09/2026
 FILE LAST UPDATED:       13/09/2026

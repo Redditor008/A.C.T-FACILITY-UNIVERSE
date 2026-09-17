@@ -78,7 +78,7 @@ Sedation formulae, child shelter cases, active quieting liturgies, and reference
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -103,7 +103,7 @@ Public marks include pale yellow cloth circles, clock faces stopped at noon, whi
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -143,7 +143,7 @@ The sect recruits through exhaustion. It offers rest to people tired of alarms, 
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -190,7 +190,7 @@ Exposure risk increases when the sect publicly contradicts A.C.T or civil rescue
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -236,7 +236,7 @@ These instructions attack trust in rescue and are treated as active counter-resp
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -262,7 +262,7 @@ A.C.T must separate victims from active sect personnel. Many recruits are trauma
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -286,7 +286,7 @@ A.C.T will also not treat all quieted civilians as willing cultists. Sedation, s
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -323,7 +323,7 @@ The ledger fragment is retained because it confirms operational self-assessment,
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -361,7 +361,7 @@ Moderate. Recovered cards, sedative evidence, shelter incidents, repeated termin
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -389,7 +389,7 @@ Under review. Mercy of the Quiet Sun is a cultic GOI, but specific quieting subs
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            14/09/2026
 FILE LAST UPDATED:       14/09/2026

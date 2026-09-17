@@ -86,7 +86,7 @@ L.F. must not be confused with Anti-Global Anomaly. A-GA treats every anomaly as
 ==============================================================================
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 An Insurgency of Custody
 ------------------------
@@ -105,7 +105,7 @@ The network's concealment is layered rather than absolute. Cells that raid and c
 ==============================================================================
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Dispersed Revolutionary Structure
 ---------------------------------
@@ -139,7 +139,7 @@ Recruitment is staged. A prospect is first given a true fragment - a real but ca
 ==============================================================================
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 The Custody Doctrine
 --------------------
@@ -177,7 +177,7 @@ The same discipline does not apply to civilian exposure caused by raids and carr
 ==============================================================================
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Reach
 -----------------
@@ -213,7 +213,7 @@ L.F. operations follow a repeating pattern that distinguishes the network from o
 ==============================================================================
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Record Formation and Continuing Hostility
 -----------------------------------------
@@ -230,7 +230,7 @@ L.F. is not A-GA: it does not seek the destruction of anomalies and has fought A
 ==============================================================================
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Posture: Contain / Dismantle / Infiltrate
 -----------------------------------------
@@ -284,7 +284,7 @@ The following are standing red lines for all L.F. response:
 ==============================================================================
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Transport Interception and Subject Recovery - Restricted Extract
 ----------------------------------------------------------------
@@ -303,7 +303,7 @@ Interdiction occurred before release. Source analysis traced the fragments to a 
 ==============================================================================
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 What Makes Liberty Freedoms Persistent
 --------------------------------------
@@ -346,7 +346,7 @@ No A.C.T unit is authorized to negotiate the release of a contained anomaly to g
 ==============================================================================
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -367,7 +367,7 @@ Related A.C.T Records
 ==============================================================================
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            08/09/2026
 FILE LAST UPDATED:       08/09/2026

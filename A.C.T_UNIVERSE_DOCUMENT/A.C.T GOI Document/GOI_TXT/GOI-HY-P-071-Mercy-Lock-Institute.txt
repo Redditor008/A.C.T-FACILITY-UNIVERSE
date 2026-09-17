@@ -79,7 +79,7 @@ Patient identities, ward sites, living anomaly names, restraint designs, transfe
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -104,7 +104,7 @@ Known external marks include blue key pins, patient bells wrapped in white cloth
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -145,7 +145,7 @@ A.C.T Medical Division considers the sheet consistent with positive alignment.
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -195,7 +195,7 @@ The Institute's secrecy is not only self-protection. If ward addresses leak, hos
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -239,7 +239,7 @@ A.C.T may use these categories for field communication only after local confirma
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -270,7 +270,7 @@ A.C.T does not classify refusal as hostility when the refusal is grounded in pat
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -294,7 +294,7 @@ A.C.T will not permit the Institute to conceal active mass-risk patients, conduc
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -331,7 +331,7 @@ The fragment confirms that Mercy Lock investigates its own failures and that its
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -370,7 +370,7 @@ Moderate to High. A.C.T has inspected wards, witnessed transfers, recovered card
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -397,7 +397,7 @@ Mandatory when Institute devices, rooms, ledgers, bells, restraints, or ambulanc
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            14/09/2026
 FILE LAST UPDATED:       14/09/2026

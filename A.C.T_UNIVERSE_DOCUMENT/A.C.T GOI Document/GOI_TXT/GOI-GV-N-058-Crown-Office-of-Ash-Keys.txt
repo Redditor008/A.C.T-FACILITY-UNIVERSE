@@ -78,7 +78,7 @@ Names of living heirs, dynastic charters, and active oath-lock sites are censore
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -97,7 +97,7 @@ Its public symbols include blackened keys, ash-grey ribbons, wax seals impressed
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -137,7 +137,7 @@ The Office does not recruit publicly. Membership often follows inheritance, oath
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -187,7 +187,7 @@ Exposure risk increases when A.C.T raids an estate, when inheritance courts dema
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -233,7 +233,7 @@ The final sentence is unresolved. A.C.T Legal Liaison has not determined whether
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -254,7 +254,7 @@ A.C.T must approach the Office with patience. Treating all claims as superstitio
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -278,7 +278,7 @@ A.C.T will also not destroy old custody systems merely because they predate mode
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -314,7 +314,7 @@ The ledger fragment remains legible only under low candlelight. Digital scans sh
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -351,7 +351,7 @@ Moderate. Repeated documents, field interventions, relic custody effects, and le
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -377,7 +377,7 @@ Under review. The Office is a government GOI, but active ash keys, oath seals, b
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            13/09/2026
 FILE LAST UPDATED:       13/09/2026

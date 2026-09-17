@@ -80,7 +80,7 @@ Active route ledgers, living passengers, child crossings, quarantine substitutio
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -105,7 +105,7 @@ Public signs include white ticket stubs, chalk arrows shaped like half-doors, br
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -141,7 +141,7 @@ Recruitment often follows proof of passage. A driver who returns from a road tha
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -191,7 +191,7 @@ A.C.T's exposure risk rises when the Passage uses public vehicles or crosses off
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -236,7 +236,7 @@ Route classes may vary by region. Do not assume color equivalence without local 
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -265,7 +265,7 @@ The Passage has warned A.C.T of failing roads in at least five cases. It has als
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -289,7 +289,7 @@ A.C.T will not permit Saint Morrow Passage to sell transit through active contai
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -323,7 +323,7 @@ The audit fragment indicates internal suspension thresholds and confirms that th
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -362,7 +362,7 @@ Moderate. A.C.T has recovered tickets, bells, route fragments, passenger testimo
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -390,7 +390,7 @@ Mandatory when a Passage item or route produces measurable abnormal transit, ide
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            14/09/2026
 FILE LAST UPDATED:       14/09/2026

@@ -45,7 +45,7 @@ This file expands the existing compound reference into a working technology reco
 ---
 
 FUNCTION SUMMARY
-================
+----------------
 
 Practical Function
 ------------------
@@ -76,7 +76,7 @@ The 004-series appears in five major roles:
 ---
 
 ORIGIN AND CUSTODY
-==================
+------------------
 
 Source Anomaly
 --------------
@@ -102,7 +102,7 @@ Transformation Review controls provenance and derivative-use ethics. Subject Car
 ---
 
 GRADE STRUCTURE AND SYSTEM DESCRIPTION
-======================================
+--------------------------------------
 
 Recognized Grades
 -----------------
@@ -144,7 +144,7 @@ Raw sap, unstable dilution, cracked stabilizer caps, or unexplained golden vapor
 ---
 
 OPERATING PROCEDURE
-===================
+-------------------
 
 Review Before Administration
 ----------------------------
@@ -177,7 +177,7 @@ Do not administer 004-series compounds as punishment, convenience, intimidation,
 ---
 
 KNOWN LIMITS
-============
+------------
 
 What 004 Cannot Do
 ------------------
@@ -206,7 +206,7 @@ A quiet witness is not proof of a healed witness.
 ---
 
 FAILURE HISTORY
-===============
+---------------
 
 004-C FIELD OVERGRADE REVIEW
 ----------------------------
@@ -232,7 +232,7 @@ This incident is the reason cracked stabilizer caps are treated as airborne meme
 ---
 
 DIVISION USE
-============
+------------
 
 Medical Care Division
 ---------------------
@@ -257,7 +257,7 @@ Subject Care attaches for minors, survivors, altered persons, contained subjects
 ---
 
 CROSS-REFERENCES
-================
+----------------
 
 Related A.C.T Records
 ---------------------
@@ -289,7 +289,7 @@ Each system requires its own individual technology record. This file covers the 
 ---
 
 OPEN ENGINEERING, MEDICAL, AND ETHICS QUESTIONS
-===============================================
+-----------------------------------------------
 
 - Can any 004-grade be made safer without hiding the NEMNOLIA provenance that keeps staff cautious?
 - How many repeated short-window administrations equal one severe continuity injury?
@@ -303,7 +303,7 @@ OPEN ENGINEERING, MEDICAL, AND ETHICS QUESTIONS
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            15/09/2026
 FILE LAST UPDATED:       15/09/2026

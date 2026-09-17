@@ -44,7 +44,7 @@ This file expands the short catalog entry into a working technology record. Bore
 ---
 
 FUNCTION SUMMARY
-================
+----------------
 
 Practical Function
 ------------------
@@ -75,7 +75,7 @@ BREAK THE SHAPE BEFORE THE SHAPE BREAKS THE TEAM.
 ---
 
 ORIGIN AND CUSTODY
-==================
+------------------
 
 Development History
 -------------------
@@ -94,7 +94,7 @@ Archive Division controls document-quarantine use. Civil Covert controls public 
 ---
 
 PHYSICAL AND SYSTEM DESCRIPTION
-===============================
+-------------------------------
 
 Standard Broadcast Unit
 -----------------------
@@ -133,7 +133,7 @@ Fixed generators are installed in selected containment corridors, archive quaran
 ---
 
 OPERATING PROCEDURE
-===================
+-------------------
 
 Authorized Use
 --------------
@@ -164,7 +164,7 @@ Do not activate Causal Static because an incident merely feels dramatic. Do not 
 ---
 
 KNOWN LIMITS
-============
+------------
 
 What Causal Static Cannot Do
 ----------------------------
@@ -193,7 +193,7 @@ Static is not silence. Static is a crowd of small interruptions. Some things can
 ---
 
 FAILURE HISTORY
-===============
+---------------
 
 CSG-2011 FIRST STARVATION TEST
 ------------------------------
@@ -219,7 +219,7 @@ The event established intermittent broadcast as preferred field mode when comman
 ---
 
 DIVISION USE
-============
+------------
 
 Engineering Division
 --------------------
@@ -244,7 +244,7 @@ Civil Covert uses limited static concepts to prevent public narratives from hard
 ---
 
 CROSS-REFERENCES
-================
+----------------
 
 Related A.C.T Records
 ---------------------
@@ -275,7 +275,7 @@ Each system requires its own individual technology record. This file covers only
 ---
 
 OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
-===========================================
+-------------------------------------------
 
 - Can long-term low-level static exposure reduce staff ability to recognize real urgency?
 - Which anomalies feed on static itself rather than on narrative coherence?
@@ -289,7 +289,7 @@ OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            15/09/2026
 FILE LAST UPDATED:       15/09/2026

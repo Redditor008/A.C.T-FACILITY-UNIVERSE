@@ -78,7 +78,7 @@ Specific checkpoint names, treaty signatories, and protected travelers are censo
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -97,7 +97,7 @@ Public marks include quiet-line stamps, grey crossing slips, seal wax over passp
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -136,7 +136,7 @@ A.C.T has no evidence that the Bureau recruits from A.C.T personnel. It may, how
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -184,7 +184,7 @@ Exposure risk increases when families demand answers, when cargo owners sue, whe
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -229,7 +229,7 @@ A.C.T may receive the result as a handover packet, sealed delay notice, route de
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -248,7 +248,7 @@ The relationship remains limited by law and pride. A.C.T does not control Bureau
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -274,7 +274,7 @@ A.C.T will also not override Bureau delay solely because field command wants a f
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -309,7 +309,7 @@ The customs tag remains under review because the third manifest dissolved after 
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -346,7 +346,7 @@ Moderate. Repeated field cooperation, matching seals, witness transfers, and cus
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -372,7 +372,7 @@ Under review. The Bureau is a government GOI, but some of its seals, stamps, hol
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            13/09/2026
 FILE LAST UPDATED:       13/09/2026

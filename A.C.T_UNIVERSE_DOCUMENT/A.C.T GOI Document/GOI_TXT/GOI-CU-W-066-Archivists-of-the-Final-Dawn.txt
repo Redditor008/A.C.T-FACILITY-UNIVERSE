@@ -78,7 +78,7 @@ Child last-words, sealed town ledgers, active dawn copies, and preservation-hous
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -103,7 +103,7 @@ Public marks include pale-orange file ties, sunrise stamps, black boxes labeled 
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -143,7 +143,7 @@ The order does not require members to worship destruction. It requires them to a
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -193,7 +193,7 @@ This leakage can be humane and dangerous at the same time. A family may deserve 
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -238,7 +238,7 @@ A.C.T treats the final instruction as cooperative if the box is surrendered for 
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -261,7 +261,7 @@ A.C.T must keep the order distinct from Choir of the Unforgotten Name. The Choir
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -285,7 +285,7 @@ A.C.T will also not destroy a final civilian record solely because it complicate
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -323,7 +323,7 @@ The ledger fragment remains under Site 03 review because the well line produced 
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -361,7 +361,7 @@ Moderate. Recovered dawn copies, courier manifests, repeated marks, useful recor
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -389,7 +389,7 @@ Under review. The Archivists are a cultic GOI, but specific documents, rooms, bo
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            14/09/2026
 FILE LAST UPDATED:       14/09/2026

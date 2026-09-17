@@ -45,7 +45,7 @@ This file expands the short catalog entry into a working technology record. Full
 ---
 
 FUNCTION SUMMARY
-================
+----------------
 
 Practical Function
 ------------------
@@ -76,7 +76,7 @@ THE AIRCRAFT IS PART OF THE BOX UNTIL THE CARGO IS SOMEWHERE SAFER.
 ---
 
 ORIGIN AND CUSTODY
-==================
+------------------
 
 Development History
 -------------------
@@ -95,7 +95,7 @@ Engineering maintains aircraft systems, RSA rails, ARM nodes, weight stabilizers
 ---
 
 PHYSICAL AND SYSTEM DESCRIPTION
-===============================
+-------------------------------
 
 Standard Aircraft Frame
 -----------------------
@@ -141,7 +141,7 @@ Variant names are operational profiles, not confirmed separate aircraft models.
 ---
 
 OPERATING PROCEDURE
-===================
+-------------------
 
 Authorized Use
 --------------
@@ -172,7 +172,7 @@ Do not load cargo before RSA rail acceptance. Do not use ARM skin to hide struct
 ---
 
 KNOWN LIMITS
-============
+------------
 
 What FCA Cannot Do
 ------------------
@@ -201,7 +201,7 @@ A flying box is still a box. It is also a promise to every place beneath it.
 ---
 
 FAILURE HISTORY
-===============
+---------------
 
 FCA-1995 WEIGHT STABILIZER DRIFT
 --------------------------------
@@ -227,7 +227,7 @@ The case remains under review and is used to warn crews that successful arrival 
 ---
 
 DIVISION USE
-============
+------------
 
 Logistics Division
 ------------------
@@ -252,7 +252,7 @@ Medical Care attaches to living cargo, biological samples, altered civilians, an
 ---
 
 CROSS-REFERENCES
-================
+----------------
 
 Related A.C.T Records
 ---------------------
@@ -285,7 +285,7 @@ Each system requires its own individual technology record. This file covers only
 ---
 
 OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
-===========================================
+-------------------------------------------
 
 - How much Cargo-Weight Stabilizer use changes landing consequence rather than true mass remains under study.
 - Can hostile GOIs identify FCA routes by tracking impossible weather gaps or boring radar behavior?
@@ -299,7 +299,7 @@ OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            15/09/2026
 FILE LAST UPDATED:       15/09/2026

@@ -79,7 +79,7 @@ Several city contracts, shelter addresses, and inhabited floor plans are censore
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -102,7 +102,7 @@ Cairn & Lintel conceals by making its work useful even without explanation. A re
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -141,7 +141,7 @@ A.C.T has not verified whether Cairn & Lintel recruits anomaly survivors directl
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -189,7 +189,7 @@ The group rarely advertises anomalous function. It creates normalcy stress by le
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -234,7 +234,7 @@ A.C.T may use these instructions in field response, but they are not a substitut
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -260,7 +260,7 @@ A.C.T does not classify the group as Positive because it will protect a structur
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -286,7 +286,7 @@ A.C.T will also not destroy protected architecture solely because it creates pap
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -321,7 +321,7 @@ The invoice confirms that Cairn & Lintel recognizes witness memory as part of sh
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -358,7 +358,7 @@ Moderate. Recovered structures, field outcomes, repeated marks, and contract tra
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -384,7 +384,7 @@ Under review. Cairn & Lintel is a corporate GOI, but its individual construction
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            13/09/2026
 FILE LAST UPDATED:       13/09/2026

@@ -79,7 +79,7 @@ Several product names, child identities, and school donation locations are censo
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -102,7 +102,7 @@ Known public-facing marks include a stitched half-moon, a paper lantern with clo
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -139,7 +139,7 @@ WANTED: pattern cutters, night nurses, repair drivers, story editors, and patien
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -185,7 +185,7 @@ Normalcy complications are most severe when families keep items after A.C.T reco
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -228,7 +228,7 @@ This style makes the products useful during crisis but difficult for A.C.T to cl
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -251,7 +251,7 @@ A.C.T does not classify the group as Neutral because its products are consistent
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -277,7 +277,7 @@ A.C.T will also not confiscate a protective item solely to complete an evidence 
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -311,7 +311,7 @@ The final fragment is preserved because it proves product failure review exists.
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -348,7 +348,7 @@ Moderate. Product effects, distribution patterns, and positive child-protection 
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -373,7 +373,7 @@ Under review. Lullaby Works is a corporate GOI, but several products may require
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            13/09/2026
 FILE LAST UPDATED:       13/09/2026

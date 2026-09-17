@@ -76,7 +76,7 @@ A-GA must not be confused with ordinary public skepticism, lawful safety oversig
 ==============================================================================
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 A Militant Eradication Network
 ------------------------------
@@ -89,7 +89,7 @@ A.C.T classifies A-GA as a GOI because its danger is repeatable and directed. It
 ==============================================================================
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Dispersed Militia Structure
 ---------------------------
@@ -147,7 +147,7 @@ A-GA personnel may carry deliberately misleading references to draw A.C.T resour
 ==============================================================================
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 The Eradication Premise
 -----------------------
@@ -189,7 +189,7 @@ No A.C.T unit should assume that an A-GA cell incapable of immediate destruction
 ==============================================================================
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Engineering Capability
 ----------------------
@@ -248,7 +248,7 @@ A-GA accepts none of these possibilities unless they can be used to justify a la
 ==============================================================================
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Record Formation and Continuing Hostility
 -----------------------------------------
@@ -261,7 +261,7 @@ The relationship has remained hostile because A-GA's central premise leaves no d
 ==============================================================================
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Posture: Contain / Dismantle
 ----------------------------
@@ -320,7 +320,7 @@ No recovered A-GA equipment is to be repurposed by Transformation Division witho
 ==============================================================================
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Engineering Route Interdiction - Restricted Extract
 ---------------------------------------------------
@@ -338,7 +338,7 @@ The event demonstrates why A-GA information must be treated as both intelligence
 ==============================================================================
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 What Makes A-GA Persistent
 --------------------------
@@ -377,7 +377,7 @@ No A.C.T unit is authorized to negotiate an anomaly's destruction solely to gain
 ==============================================================================
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -397,7 +397,7 @@ Related A.C.T Records
 ==============================================================================
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            06/09/2026
 FILE LAST UPDATED:       06/09/2026

@@ -79,7 +79,7 @@ Witness names, tribunal statutes, sealed appeal exhibits, and protected shelter 
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -106,7 +106,7 @@ Public marks include redacted continuance seals, witness cards stamped PERSON BE
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -146,7 +146,7 @@ A.C.T has no confirmed evidence that the Office recruits from A.C.T personnel. H
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -194,7 +194,7 @@ A.C.T cannot treat every preserved record as hostile exposure. Some records prot
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -238,7 +238,7 @@ Do not call silence consent.
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -259,7 +259,7 @@ A.C.T does not classify the Office as Positive because its interventions often u
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -285,7 +285,7 @@ A.C.T will also not use amnestics, false death records, or emergency detention o
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -320,7 +320,7 @@ The card was found in the witness's coat after transfer to protected medical hou
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -357,7 +357,7 @@ High for institutional reality and operational effect. The Office has identifiab
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -384,7 +384,7 @@ Under review. The Office is a government GOI, but some documents, tribunal rooms
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            13/09/2026
 FILE LAST UPDATED:       13/09/2026

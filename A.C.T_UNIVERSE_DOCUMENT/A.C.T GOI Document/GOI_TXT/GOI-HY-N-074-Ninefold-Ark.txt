@@ -85,7 +85,7 @@ Ark coordinates, living samples, selection ledgers, rejected evacuation requests
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -110,7 +110,7 @@ Known marks include nine nested arcs, white hull paint beneath ordinary ship nam
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -152,7 +152,7 @@ A.C.T Ethics Review marks the phrase as operationally honest and morally dangero
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -202,7 +202,7 @@ Civilian danger comes from both discovery and nondiscovery. If people discover a
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -252,7 +252,7 @@ Do not assume the holds are physically separate. Some documents describe categor
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -275,7 +275,7 @@ The Ark treats A.C.T as necessary, temporary, and possibly doomed. A.C.T treats 
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -299,7 +299,7 @@ A.C.T will not permit Ninefold Ark to steal active anomalies, seize children und
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -335,7 +335,7 @@ Do not mistake the Ark for salvation. Do not mistake it for villainy because it 
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -374,7 +374,7 @@ Moderate. A.C.T has recovered sample coffers, selection fragments, denial cards,
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -402,7 +402,7 @@ Mandatory when Ark tools or holdings demonstrate active anomalous behavior. Fold
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            14/09/2026
 FILE LAST UPDATED:       14/09/2026

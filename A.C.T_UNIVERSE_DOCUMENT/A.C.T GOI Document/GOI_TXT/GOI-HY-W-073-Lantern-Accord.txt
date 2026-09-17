@@ -84,7 +84,7 @@ Signatory seats, beacon codes, neutral-line maps, violation ledgers, and A.C.T c
 ---
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-===================================
+-----------------------------------
 
 Group Function
 --------------
@@ -109,7 +109,7 @@ Known marks include yellow lantern stickers on the inside of depot doors, chalk 
 ---
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-========================================
+----------------------------------------
 
 Leadership Condition
 --------------------
@@ -144,7 +144,7 @@ The Accord also includes questionable seats. Some delegates are former smugglers
 ---
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-===========================================
+-------------------------------------------
 
 Stated Belief
 -------------
@@ -193,7 +193,7 @@ A.C.T may tolerate limited leakage when the alternative is mass casualty, public
 ---
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-==================================================
+--------------------------------------------------
 
 Operational Regions
 -------------------
@@ -240,7 +240,7 @@ Do not treat Lantern colors as A.C.T hazard classes. They are accord statuses an
 ---
 
 HISTORY WITH A.C.T
-==================
+------------------
 
 Contact History
 ---------------
@@ -271,7 +271,7 @@ The Accord has formally censured A.C.T twice for line violations. A.C.T recogniz
 ---
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-=============================================
+---------------------------------------------
 
 Responsible Jurisdiction
 ------------------------
@@ -295,7 +295,7 @@ A.C.T will not permit Lantern Accord to protect Iron Meridian operations, freeze
 ---
 
 OPERATIONAL RECORDS
-===================
+-------------------
 
 Restricted Operational Extract
 ------------------------------
@@ -331,7 +331,7 @@ The Accord is not command. It is a tool other people will use when command is co
 ---
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-===========================================
+-------------------------------------------
 
 Confirmed Operational Facts
 ---------------------------
@@ -370,7 +370,7 @@ Moderate. A.C.T has witnessed activations, recovered minutes, handled expired se
 ---
 
 CROSS-REFERENCE STATUS
-======================
+----------------------
 
 Anomaly and Record Relationship
 -------------------------------
@@ -398,7 +398,7 @@ Mandatory when Accord tools or line records demonstrate active anomalous behavio
 ---
 
 FILE METADATA
-=============
+-------------
 
 FILE CREATED:            14/09/2026
 FILE LAST UPDATED:       14/09/2026

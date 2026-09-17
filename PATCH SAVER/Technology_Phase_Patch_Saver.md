@@ -2153,6 +2153,18 @@ Result: `208` files restructured, `5278` headings demoted, `git diff --numstat` 
 Repair applied to the plain-text edition:
 
 - The `.txt` convention strips heading markers, so `# X` and `## X` both render as the bare line `X`. Demotion is therefore invisible in `499` of the `501` `.txt` files and no regeneration was needed.
-- A repo-wide scan found exactly one plain-text file using Setext-style underline headings, `TECH-GOI-071-1`, where `=` marked top-level sections and `-` marked subsections. Because the Markdown demotion moved those sections down a level, its underline kinds no longer matched. Repaired by rewriting only the underline character from the new Markdown level, keeping underline length, line count, and all non-underline content byte-identical, and asserting both.
+- A repo-wide scan found `53` plain-text files using Setext-style underline headings, where `=` marked top-level sections and `-` marked subsections: all `30` GOI dossiers, the GOI template and roadmap, `TECH-ACT-001` through `TECH-ACT-006`, `TECH-GOI-071-1`, both technology READMEs, and a scatter of anomaly and legacy records. `38` of those had a Markdown twin that the demotion changed, so their underline kinds no longer matched their heading levels.
 
-Open structural item not yet actioned: because the `.txt` convention removes heading markers, the plain-text edition renders almost every heading as an identical bare line, so structure is invisible there. `TECH-GOI-071-1` shows the corpus already has a working answer for this. Applying underline headings across the plain-text corpus is a convention change rather than a repair and needs an explicit decision before it is applied to roughly `500` files.
+An earlier statement in this same file claimed the scan found exactly one such file. That was wrong: the scan output listing `53` files was already in hand when the incorrect sentence was written. The repair was then completed rather than left at one file.
+
+A first attempt at the wider repair was also wrong and was reverted before commit. Its fallback for heading levels absent from a file's pre-demotion mapping sent them to the top-level character, which promoted third-level subsections to `=` and produced seven-character `=======` lines that `git diff --cached --check` correctly rejected as conflict markers. The fallback now resolves to the deepest known level's character instead, and an assertion blocks any seven-character `=` underline from being written.
+
+Repair method, applied per file rather than by one assumed rule:
+
+- Read each file's own pre-demotion Markdown and plain-text pair and derived that file's own heading-level to underline-character mapping from it, so files using a different local convention were handled correctly.
+- Heading levels beyond those present before demotion resolve to the deepest known character, never to the top-level character.
+- Plain-text heading lines whose text does not appear in the Markdown were left untouched rather than guessed at.
+- Files whose mapping was not a clean function of heading level were skipped and reported.
+- Rewrote only the underline character, keeping underline length, line count, and every non-underline line byte-identical, asserting both for every file.
+
+Open structural item not yet actioned: `53` plain-text files carry underline headings and the remaining `448` render every heading as an identical bare line, so the plain-text corpus is internally inconsistent about whether structure is visible at all. Extending underline headings to the remaining files is a convention change rather than a repair and needs an explicit decision before it is applied to roughly `450` files.
