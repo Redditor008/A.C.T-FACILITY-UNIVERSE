@@ -2232,3 +2232,96 @@ Immediate next work after this prompt:
 
 - Commit and push this batch on the active session branch, then explicit-refspec fetch verify.
 - On the next prompt, append a prompt-start Patch Saver update, resolve the branch live, then choose another source-backed GOI technology set. Largest remaining dossiers with no technology set: Ninefold Ark (`GOI-HY-N-074`), Archivists of the Final Dawn (`GOI-CU-W-066`), Lantern Accord (`GOI-HY-W-073`), The Kindly Molt (`GOI-CU-P-061`), Saint Morrow Passage (`GOI-BS-W-070`).
+
+## Structure And Content Correction Log (commits 0ef7523, 1179747, and the TECH-GOI-054-1 exemplar)
+
+Correction to this file: the two prompt-start updates that should have been written for the
+`0ef7523` and `1179747` batches were never applied. The edit used an unasserted
+`str.replace` against anchors that did not exist in the file, so it was a silent no-op while
+the commit messages claimed the log had been updated. Every Patch Saver edit from now on
+asserts that its anchor matched exactly once before writing.
+
+### Batch 0ef7523 - metadata blocks rendered as one paragraph
+
+Defect reported by the user on `TECH-GOI-014-1`: the metadata block was seven consecutive
+`Label: value` lines outside a code fence, so Markdown soft-wrapped them into a single
+paragraph. All 60 `TECH-GOI` `.md` records were converted to the house fenced `text` ASCII
+registry table, 28/61 columns. 420 registry fields verified byte-identical to their
+pre-conversion values through `git show HEAD:<file>`. 0 `.txt` files changed. A first attempt
+used `textwrap` defaults and split `Ten-Percent` into `Ten- Percent` across 11 records; it was
+reverted and re-run with `break_on_hyphens=False`.
+
+### Batch 1179747 - table format policy
+
+Standing rule: the ASCII box table in `.md` is reserved for genuine system-interface diagrams;
+ordinary data tables are Markdown pipe tables. In `.txt` the box is always used, because plain
+text cannot render a Markdown table.
+
+- 233 `.md` box tables converted to Markdown tables. Every one was inspected first: 232
+  two-column, 1 three-column, none a system-interface diagram.
+- 285 `.md` bold `**Label:**` metadata blocks converted to Markdown tables. Consecutive bold
+  label lines collapse into one paragraph exactly like the flat-line defect above.
+- Registry records (`TECH_MD`, `GOI_MD`) keep the header `REGISTRY FIELD | CURRENT VALUE`;
+  the 108 other documents use `FIELD | VALUE`.
+- 151 `.txt` twins given the house box; 82 already had one.
+- Result: 0 ASCII box tables left in `.md`; 350 `.md` files carry Markdown tables;
+  235 of 524 `.txt` carry a box.
+- Two files were corrupted by building a box from the `.md` twin instead of the file's own
+  content: `TECH_TXT/README.txt` received another table's values, and `TECH-ACT-049` lost
+  `A.C.T STABILIZATION OF` from `ORIGIN` because its `.md` and `.txt` values already disagreed.
+  Both were rebuilt from their own content. The check that caught them is a word-multiset diff
+  of every modified file against `git show HEAD:<file>`.
+- A first `.md` attempt silently deleted 3055 net lines because the span loop never re-emitted
+  the text preceding each box. Caught by `git diff --numstat`, reverted with `git reset --hard`.
+
+### Batch: TECH-GOI-054-1 rewritten as a real technology record
+
+Defect reported by the user: the `TECH-GOI` records do not talk about the technology.
+Measured against the three reference documents the user named
+(`ACT_Technological_Evolution_Timeline.md`, `ACT_Technological_Master_Index_50.md`,
+`ACT_Technological_Visual_Reference_Guide.md`) and the 136 house `TECH-ACT` records:
+
+| | words | house sections /10 | physical terms | Master Index xref | dated incidents |
+|---|---|---|---|---|---|
+| TECH-ACT (house) | 1388 | 9.0 | 7.2 | 46 | 155 |
+| TECH-GOI (written in earlier batches) | 588 | 0.2 | 1.0 | 0 | 0 |
+
+63 of 65 `TECH-GOI` records contained three or fewer physical or mechanical terms in the whole
+document. The four-section shape in use - Functional Identity, Known Structure and Use,
+A.C.T Handling Rules, Failure and Open Questions - has no Physical Description section, so
+there was nowhere for hardware to go, and roughly a third of the text was handling policy.
+
+Mandatory record shape for every `TECH-GOI` record from now on:
+
+1. `# A.C.T FACILITY ARCHIVE FILE` then `### TECHNOLOGY RECORD - <NAME>`;
+2. registry table; archive-status table;
+3. Archive Note with controlled label and core rule;
+4. `## FUNCTION SUMMARY`;
+5. `## ORIGIN AND CUSTODY`;
+6. `## PHYSICAL OR SYSTEM DESCRIPTION`;
+7. `## OPERATING PROCEDURE`;
+8. `## KNOWN LIMITS`;
+9. `## FAILURE HISTORY` with one `###` subsection per incident;
+10. `## DIVISION USE`;
+11. `## CROSS-REFERENCES`;
+12. `## OPEN QUESTIONS`;
+13. `## FILE METADATA`.
+
+Target 1300+ words. Never invent a year for an incident the source dossier does not date; use
+`DATE WITHHELD`. Where the source is silent on mechanism, state that and file it as an open
+question rather than inventing hardware. `FILE METADATA` entries are separated by blank lines,
+not two-space line breaks, because trailing whitespace trips `git diff --check` and consecutive
+bold lines collapse into one rendered paragraph.
+
+Exemplar shipped: `TECH-GOI-054-1` at 2166 words, 10 of 10 house sections, 38 physical terms,
+4 incident subsections, and an explicit note on why it is not listed in Master Index 50 or the
+Visual Reference Guide. Every technical detail is drawn from `GOI-CP-P-054`.
+
+Remaining: 59 `TECH-GOI` records still on the old four-section shape.
+
+### Drift note
+
+The workspace was re-cloned onto base `a17dfd0` twice in one session, so commits landed on the
+wrong parent and a push was correctly rejected. Recovery order: `fetch`, tag the orphan commit,
+`reset --hard FETCH_HEAD`, restore only that turn's files from the tag with `git checkout <tag> -- <paths>`,
+re-apply the Patch Saver edit, re-validate, commit, push.
