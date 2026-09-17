@@ -1,0 +1,25 @@
+TECH-GOI-001-5 - GAA FUNCTION-SEPARATED ACCESS POINT AND AUTHORITY BOUNDARY ARCHITECTURE
+
+Technology Designation: TECH-GOI-001-5
+Technology Name: GAA Function-Separated Access Point and Authority Boundary Architecture
+Common Abbreviations: Function-Separated Access Set / GAA Holdings Architecture / Authority Boundary Frame
+Origin: Government Anti Anomaly
+Acquisition Status: Cooperative liaison capability exercised under bounded task authorization; access points activated per function only
+Primary A.C.T Interest: Target-hardening against hostile mapping, compromise containment, access-point triage, boundary enforcement
+Archive Handling: GOVERNMENT-INTERFACE RESTRICTED / ACCESS-POINT LOCATION SEALED
+
+Functional Identity
+
+The GAA Function-Separated Access Point and Authority Boundary Architecture is the physical and administrative structure that keeps a cooperative government interface from becoming a single target or a single authority. The dossier records that no fixed public headquarters is treated as a reliable operational asset, and that the body uses authorized rooms, secured administrative annexes, temporary command spaces, protected records channels, and pre-cleared transfer points activated only for specific functions. A.C.T files this as a GOI-linked technology because the separation is engineered, not incidental.
+
+Known Structure and Use
+
+Function determines access. A location used for legal review is not automatically a logistics site, and a site used for continuity coordination is not automatically authorized for evidence handling. The dossier states the reason directly: a stable centralized government anomaly office would create a target for Anti-Global Anomaly, commercial capture, public discovery, and internal overreach, and would create a record pattern hostile intelligence could reconstruct. GAA holdings are therefore functionally real but institutionally diffuse. The paired control is the authority boundary, which lists what the GAA may do under active A.C.T authorization and, separately, what it may not do without explicit Facility authorization.
+
+A.C.T Handling Rules
+
+Any physical GAA access point discovered by external actors is evaluated for four conditions: whether it exposes an A.C.T route or merely a government cover layer; whether the compromise is local or systemic; whether civilian staff possess knowledge requiring protection or restriction; and whether the access point must be abandoned, resealed, or retained under observation. A component attempting to cross an authority boundary is treated as a compromised interface, not as proof that the whole body has become hostile, and the response is limited to the actual breach until Intelligence establishes wider compromise. Direct dismantling of a government-facing interface is authorized only when ordinary restriction has failed, requires Level 4 review, and must preserve the distinction between a compromised component and the broader state structure around it.
+
+Failure and Open Questions
+
+The architecture fails when functions concentrate in one location, when an access point is used beyond its activation purpose, or when access-pattern convergence appears around restricted Sites, relays, or transport routes. Which liaison channels remain dependent on historical arrangements no current officer fully understands is unresolved, and unexplained convergence is treated as an indicator rather than a conviction because government systems naturally produce paperwork, overlap, and demands for accountability.

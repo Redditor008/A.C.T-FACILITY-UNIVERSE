@@ -2168,3 +2168,67 @@ Repair method, applied per file rather than by one assumed rule:
 - Rewrote only the underline character, keeping underline length, line count, and every non-underline line byte-identical, asserting both for every file.
 
 Open structural item not yet actioned: `53` plain-text files carry underline headings and the remaining `448` render every heading as an identical bare line, so the plain-text corpus is internally inconsistent about whether structure is visible at all. Extending underline headings to the remaining files is a convention change rather than a repair and needs an explicit decision before it is applied to roughly `450` files.
+
+## Prompt Start Update — 2026-09-17, Continue GOI-Acquired Technology After Anti-Global Anomaly `5/5`
+User sent `p`, meaning proceed/continue. Continue the GOI-acquired technology phase.
+
+Patch Saver compliance action:
+
+- Branch resolved live with `git rev-parse --abbrev-ref HEAD`; no branch name is recorded in this file.
+- Local head confirmed equal to the remote head before drafting; working tree clean.
+- Selected Government Anti Anomaly (`GOI-GV-P-001`) as the next GOI technology set because it is the largest remaining dossier without one and because its four liaison interfaces are explicitly enumerated: the legal masking interface covering emergency restrictions, protected transfer permissions, sealed procurement exemptions, controlled property access, limited jurisdictional waivers, and oversight-limiting review language; the classified logistics interface covering controlled aviation routing, records-safe border passage, unlisted storage windows, medical transfer cover, and irregular procurement scheduling; the civil continuity interface covering road closure, utility interruption, evacuation notice, inspection order, hospital intake category, disaster-recovery notice, and infrastructure repair explanation; and the restricted intelligence interface with its secure document-routing channels and regulated liaison contact points.
+- Read the `GOI-GV-P-001` dossier in full across two ranged passes before drafting, covering the limited state body definition, the ten-percent compartmented awareness estimate, public absence and cover discipline, all four liaison interfaces, authority boundaries in both directions, controlled state continuity doctrine, operational assets, holdings and the four-condition access-point evaluation, personnel profile, restricted contact history, the six-step cooperation sequence, site coordination, compromise indicators, response to governmental overreach, both operational-record extracts, and the standing restriction order.
+- This is the first POSITIVE-alignment, COOPERATED-posture GOI in the phase, so Acquisition Status wording reflects bounded task authorization rather than hostile recovery.
+- The dossier's `O5-level directive` phrasing is not to be propagated into derived records; write `Command-level directive` instead.
+
+Counts before new drafting in this prompt:
+
+- Completed GOIs in the GOI-acquired technology phase: `12/30`. Remaining: `18/30`.
+- Completed GOI-acquired technology records: `60/150`. Remaining: `90/150`.
+
+## Prompt End Update — 2026-09-17, Government Anti Anomaly Technology Set Completed at `5/5`
+Work completed during this prompt:
+
+- Resolved the branch live and confirmed local head equalled the remote head before drafting; no branch name is recorded in this file.
+- Read the `GOI-GV-P-001` dossier in full across two ranged passes before drafting.
+- Wrote `Command-level directive` rather than the dossier's `O5-level directive` in the standing restriction material carried into `TECH-GOI-001-1`.
+- A first index-insertion attempt aborted on an assertion before commit. Its shared helper asserted that the Current Status prose anchor existed in every index, but the root `README.md` holds a comma-separated list rather than prose, so it has no such paragraph. The two technology indexes had already been written when the assertion fired. The helper was made idempotent with an already-present guard so the completed indexes were skipped rather than written twice, and the root `README.md` was then updated on its own terms. Validation now checks that all five codes appear in all three indexes.
+
+- Created `TECH-GOI-001-1` GAA Legal Masking and Task-Bounded Authorization Instrument Set as Markdown/TXT twins.
+- Created `TECH-GOI-001-2` GAA Classified Logistics and Surface Documentation Layer as Markdown/TXT twins.
+- Created `TECH-GOI-001-3` GAA Civil Continuity Cover Mechanism Set as Markdown/TXT twins.
+- Created `TECH-GOI-001-4` GAA Compartmented Awareness and Secure Document-Routing Channel System as Markdown/TXT twins.
+- Created `TECH-GOI-001-5` GAA Function-Separated Access Point and Authority Boundary Architecture as Markdown/TXT twins.
+- Wrote Acquisition Status as cooperative liaison capability under bounded task authorization rather than hostile recovery, because `GOI-GV-P-001` is the first POSITIVE-alignment, COOPERATED-posture GOI in this phase.
+- Inserted all five entries at the head of the GOI block, before `TECH-GOI-014-1`, preserving ascending GOI-number ordering in all three indexes.
+
+Validation results before staging:
+
+- `TECH-GOI-001-1` Markdown word count: `484`; TXT word count: `479`.
+- `TECH-GOI-001-2` Markdown word count: `443`; TXT word count: `438`.
+- `TECH-GOI-001-3` Markdown word count: `459`; TXT word count: `454`.
+- `TECH-GOI-001-4` Markdown word count: `455`; TXT word count: `450`.
+- `TECH-GOI-001-5` Markdown word count: `478`; TXT word count: `473`.
+- New TXT twins had no Markdown-only marker hits: `0`.
+- All five new pairs pass the twin rule (Markdown equals TXT after stripping heading markers).
+- No old bad technology designation strings found. No stale or misspelled E-Class wording found.
+- Forbidden-wording scan across all ten new files returned `0` hits.
+- Repo-wide document check: `DOCUMENT_COUNT 914`, `BELOW_200_COUNT 0`, `EMPTY_COUNT 0`, `NO_FINAL_NEWLINE_COUNT 0`, `UTF8_DECODE_ERROR_COUNT 0`, `EXACT_CONFLICT_MARKER_COUNT 0`.
+- Markdown files with more than one H1 after the structure repair: `0`.
+- Technology pair check: `TECH_MD 203`, `TECH_TXT 203`, no missing pairs.
+- GOI pair check: `GOI_MD 35`, `GOI_TXT 35`, no missing pairs.
+- Broken local Markdown links: `0` of `473` checked.
+- All five `TECH-GOI-001-x` codes confirmed present in the root `README.md`, `TECH_MD/README.md`, and `TECH_TXT/README.txt`.
+- No session branch name appears in this file: `0` occurrences.
+- `git diff --check` and `git diff --cached --check` both returned `0`.
+
+Current count after this prompt's content if committed:
+
+- Completed GOI-acquired technology sets: Government Anti Anomaly, Anti-Global Anomaly, Liberty Freedoms, Children of the Deep, Anstrall Market, DREAM .INC, Mysterious Guild, Amazoo Circus, Missing 404 Watch Tower, Lullaby Works, Cairn & Lintel, Saint-Vera Restoration Concern, and Mercy Lock Institute.
+- Completed GOIs in the GOI-acquired technology phase: `13/30`. Remaining: `17/30`.
+- GOI-acquired technology total: `65/150`. Remaining: `85/150`.
+
+Immediate next work after this prompt:
+
+- Commit and push this batch on the active session branch, then explicit-refspec fetch verify.
+- On the next prompt, append a prompt-start Patch Saver update, resolve the branch live, then choose another source-backed GOI technology set. Largest remaining dossiers with no technology set: Ninefold Ark (`GOI-HY-N-074`), Archivists of the Final Dawn (`GOI-CU-W-066`), Lantern Accord (`GOI-HY-W-073`), The Kindly Molt (`GOI-CU-P-061`), Saint Morrow Passage (`GOI-BS-W-070`).
