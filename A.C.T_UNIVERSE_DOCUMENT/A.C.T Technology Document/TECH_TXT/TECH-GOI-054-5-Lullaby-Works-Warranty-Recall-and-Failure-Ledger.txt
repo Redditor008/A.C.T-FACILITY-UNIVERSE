@@ -1,4 +1,5 @@
-TECH-GOI-054-5 - LULLABY WORKS WARRANTY RECALL AND FAILURE LEDGER
+A.C.T FACILITY ARCHIVE FILE
+TECHNOLOGY RECORD - LULLABY WORKS WARRANTY RECALL AND FAILURE LEDGER
 
 +----------------------------+-------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                               |
@@ -7,31 +8,181 @@ TECH-GOI-054-5 - LULLABY WORKS WARRANTY RECALL AND FAILURE LEDGER
 +----------------------------+-------------------------------------------------------------+
 | TECHNOLOGY NAME            | Lullaby Works Warranty Recall and Failure Ledger            |
 +----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Warranty Ledger                                             |
+| SHORT NAME                 | LW-WRFL                                                     |
 +----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Lullaby Works                                               |
+| TECHNOLOGY FAMILY          | GOI-DERIVED / DOCUMENT AND LOGISTICS SYSTEM / PRODUCT       |
+|                            | FAILURE TRACKING                                            |
 +----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Cooperative recovery, partial inspection, or protected      |
-|                            | field custody through child-safety cases                    |
+| ORIGIN                     | LULLABY WORKS (GOI-CP-P-054) / RECOVERED WARRANTY AND       |
+|                            | RECALL MATERIAL                                             |
 +----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Child protection, Subject Care continuity, product-risk     |
-|                            | review, and safe evidence handling                          |
+| PRIMARY CONTROLLER         | Intelligence Division / Archive Division joint custody      |
 +----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | CHILD-CARE DISCLOSURE LIMIT / SUBJECT CARE RESTRICTED       |
+| ATTACHED DIVISIONS         | Subject Care, Engineering, Containment, Logistics, Civil    |
+|                            | Covert                                                      |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | PARTIALLY RECOVERED / MANUFACTURER CONTACT CHANNEL          |
+|                            | UNCONFIRMED                                                 |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | INFORMATION HAZARD IF DISCLOSED TO FAMILIES / NO PHYSICAL   |
+|                            | HAZARD                                                      |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for ledger and recall material; Level 5 for contact |
+|                            | attempts, failure crate access, or lot reconciliation       |
 +----------------------------+-------------------------------------------------------------+
 
-Functional Identity
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| ARCHIVE STATUS             | Active Restricted GOI Technology Record                     |
++----------------------------+-------------------------------------------------------------+
+| DISTRIBUTION               | Intelligence / Archive / Subject Care / Engineering /       |
+|                            | Command                                                     |
++----------------------------+-------------------------------------------------------------+
+| AUTHORITY                  | Intelligence Division, Archive Division, and Central        |
+|                            | Archive                                                     |
++----------------------------+-------------------------------------------------------------+
 
-The Lullaby Works Warranty Recall and Failure Ledger is the corporate safety-record system used to track product lots, caregiver notes, child drawings, sealed failure crates, recall lists, and replacement decisions. The GOI dossier identifies warranty ledgers as known assets, sealed failure crates marked DO NOT RETURN TO CHILD, recall lists naming product lots A.C.T has not recovered, and a warranty card fragment apologizing that a bear bit the wrong hand. A.C.T classifies this as acquired GOI technology because it proves the company reviews failures and because those records may be the only map of product risk.
+Archive Note
+The Warranty Recall and Failure Ledger is the fifth Lullaby Works entry expanded into an individual technology record. It is not a device. It is catalogued as technology because it is a manufactured system with defined inputs, defined outputs, and a measurable effect on how the rest of the range behaves in the field.
 
-Known Structure and Use
+The dossier records warranty ledgers storing child drawings and caregiver notes, recall lists naming product lots that A.C.T has not recovered, sealed failure crates marked **DO NOT RETURN TO CHILD**, product catalogues with missing pages, and a warranty fragment proving that replacement review exists. Together these constitute a functioning product-safety organisation operating outside every registry A.C.T can read.
 
-The ledger is not a customer-service database. It is a containment, ethics, and aftercare instrument hidden inside commercial language. A replacement approval may mean a protective object misidentified a caregiver, absorbed the wrong fear, bonded too strongly, or acted after the child taught it danger. A recall notice may indicate a product line that protects one child while harming others nearby.
+A.C.T holds fragments. The ledger itself has never been recovered.
 
-A.C.T Handling Rules
+Controlled label: **LULLABY WORKS CHILD-CARE DISCLOSURE LIMIT**.
 
-Known fields likely include product lot, child status, caregiver statement, drawing attachment, injury report, return decision, replacement condition, donation route, and whether the item may be returned to the child. A.C.T does not possess a complete ledger. Current access comes from fragments, packaging, failure labels, and incident cross-comparison.
+Core handling rule:
 
-Failure and Open Questions
+A COMPANY THAT TAKES BACK A TOY THAT BIT SOMEONE IS A COMPANY THAT KEEPS RECORDS. FIND THE RECORDS.
 
-A.C.T must preserve warranty cards, return slips, child drawings, packaging seams, and caregiver notes as technical evidence. Staff must not dismiss soft wording as harmless branding. Phrases such as Do not punish the child for teaching it fear may describe how the product learns threat categories. Failure risks include hiding injury behind kindness, leaving dangerous items in civilian custody, or seizing the only record that allows safe replacement. Open questions include how many failures exist, who reviews them, and whether Lullaby Works ever recalls a product from a child it cannot safely contact. Archive confidence is High for ledger existence and Moderate for safety function.
+---
+
+FUNCTION SUMMARY
+
+The ledger system performs four functions that A.C.T has confirmed from recovered material:
+
+- **Failure intake.** A caregiver reports a fault. The recovered warranty fragment shows the manufacturer acknowledging a specific injury — **We are sorry the bear bit the wrong hand** — instructing that the injured caregiver's statement be wrapped in plain paper, stating **Do not punish the child for teaching it fear**, and approving replacement after review.
+- **Recall issuance.** Recall lists exist and name product lots. A.C.T has recovered lists naming lots it has never encountered in the field, which means the recall system reaches products outside A.C.T visibility.
+- **Failure quarantine.** Failed units are sealed in crates marked **DO NOT RETURN TO CHILD**. The marking confirms that the manufacturer distinguishes a repairable unit from a unit that must never go back into a child's hands.
+- **Evidence retention.** Ledgers store child drawings and caregiver notes. The manufacturer is collecting witness material as a matter of routine, not as an incident response.
+
+The system does not detect anomalies and does not protect anyone directly. Its effect on the range is indirect and substantial: it is the mechanism by which Lullaby Works learns what its products do, and therefore the mechanism by which the products improve.
+
+---
+
+ORIGIN AND CUSTODY
+
+Operated by Lullaby Works. Supporting infrastructure recorded in the dossier includes repair vans using temporary local registration, warehouses rented under dissolved child-care brands, donation lockers in clinics and shelters, and product catalogues with missing pages.
+
+Custody of recovered material is joint between Intelligence Division and Archive Division, because the material is simultaneously an intelligence target and a documentary record. Subject Care Division holds veto authority over any use of ledger material that could reach a family, and exercises it by default.
+
+No A.C.T division may contact the manufacturer through the ledger channel without Command-level exception. One contact has ever been made, described below.
+
+---
+
+PHYSICAL OR SYSTEM DESCRIPTION
+
+The system is documentary and logistical rather than mechanical. Its recovered components are:
+
+- **warranty cards** carrying the three-quiet-nights line and a return route;
+- **a blue card** bearing a telephone number, recovered from shelter staff during the nightlight incident;
+- **warranty ledger pages** storing child drawings and caregiver notes;
+- **recall lists** naming product lots, some unknown to A.C.T;
+- **product catalogues with missing pages**, where the removed pages are presumed to describe items A.C.T has not recovered;
+- **sealed failure crates** marked **DO NOT RETURN TO CHILD**;
+- **caregiver instruction cards** written to be understood by a frightened adult, shared across the whole product range;
+- **production tags** stitched under seams or hidden behind battery plates, which are the only per-unit identifiers A.C.T has ever located.
+
+The blue card is the only live interface A.C.T has observed. When called, the number connected to a recorded lullaby for thirty-two seconds, followed by a woman's voice stating: **The extra child leaves when nobody gives it a bed.** Whether that is an automated message, a live operator, or something else is unresolved.
+
+The system's most significant physical property is that it produces paper. Every contact leaves a document. That is why A.C.T treats it as a recoverable target rather than as a rumour.
+
+---
+
+OPERATING PROCEDURE
+
+Standing rules for ledger material:
+
+- catalogue every fragment on recovery, including envelope, handwriting, and paper stock, before content analysis;
+- do not attempt contact through any recovered number or return address without Command-level exception;
+- do not return a failed unit to a family, and do not place a unit from a failure crate into any A.C.T holding area used for service items;
+- reconcile every recovered recall list against A.C.T lot knowledge and file the gaps, because a lot A.C.T has never seen is a product line A.C.T has never assessed;
+- treat catalogue pages that are missing as evidence of an unassessed product, not as damage;
+- do not disclose ledger material, recall status, or failure history to a family. A parent who learns that a protective item has a failure record may remove it, and removal is the outcome Subject Care most needs to avoid.
+
+Field personnel who recover a warranty card log it and pass it to Intelligence. They do not call the number.
+
+---
+
+KNOWN LIMITS
+
+A.C.T holds fragments, not the ledger. No complete failure file has ever been recovered, and the dossier states this directly.
+
+The system cannot be read from the outside. A.C.T cannot determine how many lots exist, how many recalls have been issued, or how many units have been returned.
+
+The contact channel cannot be tested. One call was made; repeating it without authorization is prohibited, and the risk profile of a second call is unknown.
+
+Recall lists name lots A.C.T has not recovered, which means the system's coverage exceeds A.C.T's. Any assessment built only on A.C.T holdings is incomplete by an unknown margin.
+
+The system cannot be used to reach the manufacturer. A.C.T does not know whether the ledger is maintained by an organisation, a process, or something that only appears to be either.
+
+---
+
+FAILURE HISTORY
+
+BLUE CARD CONTACT — DATE WITHHELD
+A.C.T recovered the blue card from a shelter staff member during the nightlight incident and called the number. The line connected to a recorded lullaby for thirty-two seconds, followed by a woman's voice stating **The extra child leaves when nobody gives it a bed.** Containment teams maintained room count protocol until dawn. No additional entity was recovered, and four minors reported uninterrupted sleep for the first time since relocation. This is the only confirmed manufacturer contact A.C.T holds. It produced no technical information and no channel that could be reused, and it established the standing rule that contact requires Command-level exception.
+
+WARRANTY FRAGMENT RECOVERY — BEAR BITE CASE
+A single warranty card fragment was recovered acknowledging that a plush bit an adult hand, instructing that the caregiver's statement be wrapped in plain paper, and approving replacement after review. The full failure file was never recovered. A.C.T preserves the fragment because it proves that a failure-review process exists and that the manufacturer understands misuse and unintended injury. It is the only documentary proof that the ledger functions at all.
+
+UNRECONCILED RECALL LOTS — OPEN
+Recall lists recovered by A.C.T name product lots that A.C.T has never encountered. The gap has not been closed. No recall lot has ever been traced to a physical unit in A.C.T custody. This is recorded as an open intelligence failure rather than as a low-priority backlog item, because each unreconciled lot is a product family with no technology record.
+
+---
+
+DIVISION USE
+
+Intelligence Division owns ledger recovery, contact-channel assessment, recall reconciliation, and manufacturer infrastructure tracking. Archive Division holds every recovered fragment under restricted access and maintains the fragment catalogue. Subject Care Division holds veto authority over disclosure and owns the family-facing position. Engineering Division uses lot marks and production tags to attribute recovered units to lines. Logistics Division handles failure crates and does not route them into service stock. Civil Covert maintains the cover position and does not confirm A.C.T interest in any recovered document.
+
+---
+
+CROSS-REFERENCES
+
+- GOI-CP-P-054 — Lullaby Works;
+- TECH-GOI-054-1 — Lullaby Works Sleep-Safe Nightlight Lot System;
+- TECH-GOI-054-2 — Lullaby Works Listening Plush Distress Transducer;
+- TECH-GOI-054-3 — Lullaby Works Quiet Blanket Panic-Reduction Weave;
+- TECH-GOI-054-4 — Lullaby Works Nightmare-Loop Music Box Interrupter;
+- Lullaby Works recovered warranty and recall fragment set [restricted];
+- Blue card contact transcript [restricted];
+- Intelligence Division unreconciled recall lot register [restricted].
+
+This record is not listed in the ACT Technological Master Index 50 or the ACT Technological Visual Reference Guide. Both catalogue A.C.T-manufactured and A.C.T-controlled assets. This is a GOI-operated documentary system with no A.C.T equivalent, so it is catalogued in the GOI technology series.
+
+---
+
+OPEN QUESTIONS
+
+- Who maintains the ledger, and is there an organisation behind it at all?
+- How many product lots exist, and how many have been recalled?
+- What is in the missing catalogue pages?
+- What happens to units placed in failure crates?
+- Is the blue card number a live operator, a recording, or a route to somewhere else?
+- Why does the ledger store child drawings, and what is done with them?
+- Does the warranty cover exhaustion, as with the music box, or only physical failure?
+- Can A.C.T reach the manufacturer at all without disclosing itself?
+- Are the recall lists issued to protect children, to retrieve product, or both?
+
+---
+
+FILE METADATA
+
+**Created:** 2026-09-18
+
+**Author Desk:** Intelligence Division / Archive Division / Central Archive
+
+**Review Status:** Active restricted GOI technology record; manufacturer identity and ledger location unresolved
+
+**Next Review:** After any new fragment recovery, any recall lot reconciliation, or any authorized contact attempt

@@ -2317,7 +2317,20 @@ Exemplar shipped: `TECH-GOI-054-1` at 2166 words, 10 of 10 house sections, 38 ph
 4 incident subsections, and an explicit note on why it is not listed in Master Index 50 or the
 Visual Reference Guide. Every technical detail is drawn from `GOI-CP-P-054`.
 
-Remaining: 59 `TECH-GOI` records still on the old four-section shape.
+Remaining after this batch: 55 `TECH-GOI` records still on the old four-section shape.
+`TECH-GOI-054` Lullaby Works is now complete at house standard (all 5 records).
+The five `TECH-GOI-071` Mercy Lock records already carried the house sections.
+
+Batch shipped in this prompt: `TECH-GOI-054-2` Listening Plush Distress Transducer (1959 words),
+`TECH-GOI-054-3` Quiet Blanket Panic-Reduction Weave (1850), `TECH-GOI-054-4` Nightmare-Loop
+Music Box Interrupter (1781), `TECH-GOI-054-5` Warranty Recall and Failure Ledger (1815).
+All 10 of 10 house sections each. Every technical detail is drawn from `GOI-CP-P-054`:
+the bear-bite warranty fragment, production tags under seams and battery plates, material
+samples that remain warm when separated, lullaby recordings in the family's non-language,
+the blue card and its thirty-two-second recording, failure crates marked
+DO NOT RETURN TO CHILD, catalogues with missing pages, and the confirmed capability list.
+No mechanism was invented where the dossier is silent; those points are filed as open
+questions. No incident was given a year the source does not supply.
 
 ### Drift note
 

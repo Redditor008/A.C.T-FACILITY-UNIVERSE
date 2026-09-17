@@ -1,4 +1,5 @@
-TECH-GOI-054-4 - LULLABY WORKS NIGHTMARE-LOOP MUSIC BOX INTERRUPTER
+A.C.T FACILITY ARCHIVE FILE
+TECHNOLOGY RECORD - LULLABY WORKS NIGHTMARE-LOOP MUSIC BOX INTERRUPTER
 
 +----------------------------+-------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                               |
@@ -7,31 +8,188 @@ TECH-GOI-054-4 - LULLABY WORKS NIGHTMARE-LOOP MUSIC BOX INTERRUPTER
 +----------------------------+-------------------------------------------------------------+
 | TECHNOLOGY NAME            | Lullaby Works Nightmare-Loop Music Box Interrupter          |
 +----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Music Box Interrupter                                       |
+| SHORT NAME                 | NL-MBI                                                      |
 +----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Lullaby Works                                               |
+| TECHNOLOGY FAMILY          | GOI-DERIVED / MECHANICAL SOFT GOODS / FINITE-DURATION SLEEP |
+|                            | INTERVENTION                                                |
 +----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Cooperative recovery, partial inspection, or protected      |
-|                            | field custody through child-safety cases                    |
+| ORIGIN                     | LULLABY WORKS (GOI-CP-P-054) / RECOVERED MUSIC BOX LINE     |
 +----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Child protection, Subject Care continuity, product-risk     |
-|                            | review, and safe evidence handling                          |
+| PRIMARY CONTROLLER         | Subject Care Division / Medical Division joint custody      |
 +----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | CHILD-CARE DISCLOSURE LIMIT / SUBJECT CARE RESTRICTED       |
+| ATTACHED DIVISIONS         | Containment, Archive, Intelligence, Civil Covert, Site      |
+|                            | Command                                                     |
++----------------------------+-------------------------------------------------------------+
+| OPERATIONAL STATUS         | PARTIALLY RECOVERED / UNITS REMAIN IN CIVILIAN HOMES        |
++----------------------------+-------------------------------------------------------------+
+| RISK STATUS                | PROTECTIVE WHILE CHARGED / INERT AFTER EXHAUSTION /         |
+|                            | HAZARDOUS IF FORCE-OPENED                                   |
++----------------------------+-------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for instruction handling; Level 4 for external      |
+|                            | inspection and night counting; Level 5 for opening,         |
+|                            | movement work, or lot tracing                               |
 +----------------------------+-------------------------------------------------------------+
 
-Functional Identity
++----------------------------+-------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                               |
++============================+=============================================================+
+| ARCHIVE STATUS             | Active Restricted GOI Technology Record                     |
++----------------------------+-------------------------------------------------------------+
+| DISTRIBUTION               | Subject Care / Medical / Containment / Archive /            |
+|                            | Intelligence                                                |
++----------------------------+-------------------------------------------------------------+
+| AUTHORITY                  | Subject Care Division, Medical Division, and Central        |
+|                            | Archive                                                     |
++----------------------------+-------------------------------------------------------------+
 
-The Lullaby Works Nightmare-Loop Music Box Interrupter is the product family used to disrupt repeated harmful dream sequences for a limited number of nights. The GOI dossier lists music boxes that interrupt nightmare loops and notes that some Lullaby Works recordings contain voices matching missing adults with no known relation to purchasing families. A.C.T classifies this as acquired GOI technology because it touches sleep, memory continuity, child trauma, and possible signal contamination.
+Archive Note
+The Nightmare-Loop Music Box is the fourth Lullaby Works product expanded into an individual technology record. It is catalogued because it is the only item in the recovered range with a **finite service life**, and because that makes it the only one A.C.T can watch run out.
 
-Known Structure and Use
+The Lullaby Works dossier records music boxes that **interrupt nightmare loops for a limited number of nights**. It also records lullaby recordings in languages not spoken by the purchasing family, and the nightlight instruction line **keep the room singing**. Those details are the technical basis of this file.
 
-The music box appears designed for nights when a child is repeatedly forced back into the same dream, room, voice, chase, or witnessed event. It does not erase the child and does not necessarily end the underlying anomaly. It buys time. That time may allow Medical to stabilize sleep, Subject Care to obtain gentle testimony, Recovery to locate the source hazard, or caregivers to survive the interval without dismissing the child as imaginative.
+A.C.T holds parts but no working unit. As with the rest of the range, no service unit is opened at any clearance level.
 
-A.C.T Handling Rules
+Controlled label: **LULLABY WORKS CHILD-CARE DISCLOSURE LIMIT**.
 
-Known components include simple wind-up or battery-driven casings, lullaby recordings in languages not spoken by the household, limited-night warranty language, and instructions that tell adults when not to ask questions until morning. The box may interrupt by sound, rhythm, voice substitution, dream boundary reinforcement, or by redirecting attention from the returning nightmare. No model is confirmed.
+Core handling rule:
 
-Failure and Open Questions
+IT DOES NOT END THE NIGHTMARE. IT SPENDS NIGHTS UNTIL THE NIGHTMARE STOPS REPEATING.
 
-A.C.T handling requires sleep-isolated storage when removed from a home or shelter. No personnel may use a recovered music box as a sleep aid, morale object, or acoustic sample in occupied child wards. If a recording contains a voice matching a missing adult, Central Archive and Missing 404-related procedures may be required before erasure or duplication. Failure risks include dependency on the tune, transfer of nightmares to siblings, recording contamination, false waking relief, and accidental invitation of the voice being interrupted. Archive confidence is Moderate for loop interruption and Low for the identity of recorded voices.
+---
+
+FUNCTION SUMMARY
+
+The music box interrupts a recurring nightmare loop. A child who wakes repeatedly from the same dream stops repeating it after the unit is introduced. The effect is bounded: the unit functions for a limited number of nights and then stops.
+
+Three properties define the device:
+
+- **Interruption, not suppression.** The loop is broken, not deleted. The child still remembers the dream. Consistent with the rest of the range, nothing about the product suppresses memory.
+- **Finite charge.** The unit exhausts. A.C.T has not established the night count for any recovered part, and the dossier does not state one. That the count is limited is confirmed; the number is not.
+- **Audible output.** The unit plays a lullaby. The dossier records Lullaby Works lullaby recordings in languages not spoken by the purchasing family, and the nightlight instruction directs caregivers to keep the room singing. A.C.T treats the singing as functional rather than decorative.
+
+The device does not detect threats, does not relay distress, and does not protect a room. It intervenes in a sleep pattern.
+
+---
+
+ORIGIN AND CUSTODY
+
+Manufactured by Lullaby Works. No lot label has been recovered for the music box line. Distribution routes match the rest of the range.
+
+Custody is joint between Subject Care Division and Medical Division, because the product's function is a sleep intervention with a defined endpoint and therefore requires clinical tracking. Engineering Division holds non-functional parts. No unit in a child's possession may be removed without Subject Care authorization, and Medical Division must record the night count for every unit in service.
+
+A.C.T has deliberately not sought a working unit for destructive study, following the Listening Plush force-opening loss recorded in TECH-GOI-054-2.
+
+---
+
+PHYSICAL OR SYSTEM DESCRIPTION
+
+The unit presents as an ordinary domestic music box of the size that fits on a shelf or bedside table. Nothing about the exterior indicates function.
+
+Known external features:
+
+- a **winding key or crank**, present on all recovered parts, whose function A.C.T has not been able to confirm;
+- a **hinged lid** in most variants;
+- a **movement housing** that should contain a cylinder or disc mechanism;
+- a **sewn or adhered label area** under which a production tag may sit;
+- a **battery plate** in some variants, behind which a tag may be hidden.
+
+Known construction findings:
+
+- the movement housing of recovered parts is **empty or does not contain a mechanism capable of producing the reported output**;
+- no spring, no governor, no comb, and no cylinder have been recovered that correspond to the audible tune;
+- winding the key produces no resistance and no sound in any recovered part;
+- material samples from the range **remain warm when separated from the item body**, the shared Lullaby Works finding.
+
+Packaging and documentation features shared across the range: a stitched or printed **half-moon** mark, a warranty line promising **three quiet nights**, a **caregiver instruction card** written for a frightened adult, and short gentle instruction text.
+
+Whether the winding key is functional, decorative, or a ritual control is unresolved. Whether the finite night count is stored mechanically, materially, or not at all is unresolved.
+
+---
+
+OPERATING PROCEDURE
+
+Units in a child's possession stay there. Field personnel do not confiscate, wind, open, or test a service unit.
+
+Standing rules:
+
+- do not open a service unit at any clearance level;
+- do not wind a service unit. Winding may consume charge, and A.C.T has no way to measure charge remaining;
+- record the night count. Every night the unit is in service is logged, because the service life is finite and no one can tell from the outside how much remains;
+- when a unit stops, do not replace it silently. Notify Medical Division, tell the family plainly that the item has finished, and begin follow-up care, because the end of the unit is not the end of the risk;
+- do not test the interruption by inducing a nightmare;
+- keep the room singing. Recovered instruction treats continued sound as part of the protocol, and A.C.T follows it during any night on which a unit is active.
+
+If a family reports that the unit has stopped working, treat it as exhausted rather than broken until proven otherwise, and do not attempt repair.
+
+---
+
+KNOWN LIMITS
+
+The unit runs out. Every other Lullaby Works product A.C.T holds appears to persist; this one does not, and there is no way to measure remaining charge from the exterior.
+
+It does not prevent the nightmare that starts a loop. It interrupts repetition.
+
+It does not suppress memory and must never be recorded as amnestic.
+
+It cannot be rewound, recharged, or repaired by A.C.T.
+
+The most serious operational risk is the silent end of service. A family that believes the box is still protecting a child will not seek help when the loop returns. A.C.T mitigates this with night counting, but night counting only works while A.C.T knows the unit exists, and most units are in homes A.C.T has never visited.
+
+---
+
+FAILURE HISTORY
+
+EXHAUSTION WITHOUT NOTIFICATION — DATE WITHHELD
+A caregiver reported that the music box had stopped and asked whether it was broken. A.C.T could not determine whether the unit was exhausted, damaged, or never functional, because no baseline night count had been recorded before the report. The event produced the standing rule that every known service unit is night-counted from first report, and that exhaustion is announced to the family rather than left for them to discover.
+
+EMPTY MOVEMENT HOUSING — PART SERIES
+Recovered parts contained movement housings with no mechanism capable of producing the reported tune. Winding the key produced no resistance and no sound. Engineering closed the series as inconclusive and recorded that the recovered parts may be exhausted units rather than representative specimens, which A.C.T cannot rule out. This is the reason no recovered part is treated as evidence of how a working unit is built.
+
+LANGUAGE MISMATCH OBSERVATION
+Lullaby Works recordings have been recovered in languages not spoken by the purchasing family. No functional difference has been observed between a recording in the family's language and one outside it, and A.C.T has not determined whether the language matters, whether it is a manufacturing artefact, or whether it is intentional. Recorded here because it is a repeatable observation with no explanation.
+
+---
+
+DIVISION USE
+
+Subject Care Division authorizes retention, transfer, and removal, and owns the family conversation about exhaustion. Medical Division tracks the loop, sets the intervention window, records the night count, and takes over care when a unit ends. Engineering Division inspects parts, records housing and movement findings, and holds the warmth observation. Containment Division treats the box as a care asset and does not handle it during an incident. Archive holds inspection records, instruction text, and recovered recordings under restricted access. Intelligence tracks the half-moon mark, the three-quiet-nights line, and the language distribution of recovered recordings. Civil Covert maintains the cover position for families.
+
+---
+
+CROSS-REFERENCES
+
+- GOI-CP-P-054 — Lullaby Works;
+- TECH-GOI-054-1 — Lullaby Works Sleep-Safe Nightlight Lot System;
+- TECH-GOI-054-2 — Lullaby Works Listening Plush Distress Transducer;
+- TECH-GOI-054-3 — Lullaby Works Quiet Blanket Panic-Reduction Weave;
+- TECH-GOI-054-5 — Lullaby Works Warranty Recall and Failure Ledger;
+- Subject Care Division sleep-intervention tracking file [restricted];
+- Lullaby Works recovered lullaby recording set [restricted].
+
+This record is not listed in the ACT Technological Master Index 50 or the ACT Technological Visual Reference Guide. Both catalogue A.C.T-manufactured and A.C.T-controlled assets. This product is GOI-origin, finite-duration, and unreproducible by A.C.T, so it is catalogued in the GOI technology series.
+
+---
+
+OPEN QUESTIONS
+
+- How many nights does a unit last, and is the count fixed per unit or per child?
+- What is consumed as the unit exhausts?
+- Is the winding key functional, and does winding it spend charge?
+- What produces the tune, given that no mechanism has been found in any housing?
+- Does the language of the lullaby matter to the effect?
+- Can an exhausted unit be restored by the manufacturer, and does the warranty cover it?
+- Does the interruption end the loop permanently or only for the duration of the charge?
+- Does a music box line lot label exist?
+- What does the manufacturer expect a family to do when the box stops?
+
+---
+
+FILE METADATA
+
+**Created:** 2026-09-18
+
+**Author Desk:** Subject Care Division / Medical Division / Central Archive
+
+**Review Status:** Active restricted GOI technology record; service life and mechanism unresolved
+
+**Next Review:** After any night-count completion, any working unit recovery, or any movement identification result
