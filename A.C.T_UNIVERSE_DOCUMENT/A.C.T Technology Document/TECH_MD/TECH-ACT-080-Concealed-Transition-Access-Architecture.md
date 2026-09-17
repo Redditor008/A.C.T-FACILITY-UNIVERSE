@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - CONCEALED TRANSITION ACCESS ARCHITECTURE
+### TECHNOLOGY RECORD - CONCEALED TRANSITION ACCESS ARCHITECTURE
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Security / Administration / Logistics / Command / Nusantara Deep Relay
 **Authority:** Campus Boundary Desk, Site Director, and Central Archive
 
-### Archive Note
+#### Archive Note
 Concealed Transition Access Architecture is the eightieth main A.C.T technology expanded into an individual record. The F-6 Surface Research and Transition Level dossier states that personnel and recovered material transition through the surface level before descending, and that concealed transitions between the legitimate campus and the buried relay are concealed, monitored, and documented while remaining indistinguishable from ordinary institute infrastructure. The F-5 dossier identifies the next level down as the administrative boundary that receives people and material.
 
 CTAA exists because the most dangerous door at Nusantara is not the deepest vault door. It is the ordinary-looking route that proves there is a deeper site.
@@ -47,7 +47,7 @@ THE DESCENT MUST LOOK ORDINARY UNTIL AUTHORITY MAKES IT REAL.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Concealed Transition Access Architecture is the system of disguised routes, monitored thresholds, identity checks, material locks, traffic controls, ordinary-building masks, and documentation practices that allows authorized personnel and recovered material to move between F-6's public campus and the buried relay below. It is the physical and administrative boundary between visible science and concealed A.C.T operation.
 
@@ -57,7 +57,7 @@ Approved roles include authorized descent, surface-to-F-5 handoff, concealed mat
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 F-6 was built as Nusantara's legitimate face. F-5 was built as the personnel and command level below it. The relay therefore required a boundary that people could cross without exposing what they crossed into. Early transition controls treated hidden entrances as enough. Later review showed that concealment depended on behavior, scheduling, traffic, route purpose, and documentation as much as architecture.
 
@@ -65,7 +65,7 @@ CTAA developed as an integrated standard. A service hallway, elevator, storage r
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A CTAA installation includes disguised doors, dual-purpose service lifts, biometric or static-pulse checks where appropriate, cargo screening locks, surveillance disguised as campus safety monitoring, boundary alarm circuits, visitor diversion routes, concealed descent indicators, ordinary maintenance signage, access ledgers, and emergency seal mechanisms. The best transition point is not invisible; it is uninteresting.
 
@@ -86,7 +86,7 @@ Route maps are restricted because a transition map is also an exposure map.
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Routine transition begins with authorization, purpose, timing, route assignment, and destination confirmation. Personnel entering the buried relay are received by F-5 administrative boundary systems. Material entering from the surface or port is checked for custody, environmental requirement, and whether it should move to F-5, F-4, F-3, F-2, or special handling.
 
@@ -94,7 +94,7 @@ If public traffic is present, CTAA delays or reroutes transition rather than exp
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 CTAA can hide routes, but it cannot make suspicious behavior ordinary. Repeated staff movement, unusual cargo timing, nervous security posture, mismatched paperwork, and poorly justified restricted spaces can reveal more than a door. It also depends on F-6 and F-5 coordination; a clean surface entry fails if F-5 cannot receive what descends.
 
@@ -102,20 +102,20 @@ Known failure modes include contractor curiosity, unlogged descent, wrong-route 
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## CTAA-F-6 Boundary Formation
+### CTAA-F-6 Boundary Formation
 The F-6 dossier identifies concealed transitions as a defining surface security function. CTAA was formalized to make transition control part of campus architecture, not improvised secrecy.
 
-## CTAA-Contractor Route Notice
+### CTAA-Contractor Route Notice
 A contractor once approached a transition-adjacent maintenance zone under a valid work order. Visitor routing was corrected, and transition masks were reviewed for ordinary plausibility.
 
-## CTAA-Emergency Material Intake Drill
+### CTAA-Emergency Material Intake Drill
 A simulated recovered-material arrival required immediate descent while public campus traffic was active. The drill established current reroute rules for cover-compatible urgent intake.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Security controls the boundary and route permission. Administration maintains campus-facing justification. Logistics schedules movement. Command authorizes emergency seal and high-risk transition. Recovery and Containment use CTAA for material handoff from surface and port operations.
 
@@ -123,7 +123,7 @@ CTAA doctrine holds that a concealed site is protected by the quality of its thr
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-05-ID-C-F-6 Surface Research and Transition Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-5 Personnel and Command Level Floor Dossier;
@@ -134,7 +134,7 @@ CTAA doctrine holds that a concealed site is protected by the quality of its thr
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which surface routes should be retired before pattern recognition becomes visible?
 - Can public research schedules accidentally reveal descent timing?
@@ -145,7 +145,7 @@ CTAA doctrine holds that a concealed site is protected by the quality of its thr
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15
 **Author Desk:** Campus Boundary Desk / Security Division / Central Archive

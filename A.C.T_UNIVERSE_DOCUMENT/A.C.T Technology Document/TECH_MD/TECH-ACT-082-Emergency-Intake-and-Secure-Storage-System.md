@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - EMERGENCY INTAKE AND SECURE STORAGE SYSTEM
+### TECHNOLOGY RECORD - EMERGENCY INTAKE AND SECURE STORAGE SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Recovery Support / Security / Limited Medical / Nusantara Deep Relay / Ash Tide Watchpoint
 **Authority:** Watch Chief, Intake Officer, Nusantara Site Command, and Central Archive
 
-### Archive Note
+#### Archive Note
 Emergency Intake and Secure Storage System is the eighty-second main A.C.T technology expanded into an individual record. The Ash Tide Watchpoint sub-site dossier identifies hidden emergency intake capability as one of the watchpoint's defining features. The F-1 Emergency Intake and Secure Storage floor dossier states that the deepest level contains the hidden intake bay, secure storage units, personnel reception and stabilization space, transfer preparation area, command post, and documentation alcove.
 
 EISSS exists because Ash Tide is not a containment installation. It receives what cannot wait, stabilizes it briefly, records it exactly, and moves it to the parent relay.
@@ -47,7 +47,7 @@ RECEIVE FAST, HOLD BRIEFLY, TRANSFER CLEANLY.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 The Emergency Intake and Secure Storage System is the hidden F-1 infrastructure used by Ash Tide Watchpoint to receive recovered material, emergency personnel, maritime arrivals, and time-sensitive objects under operational pressure. It combines a concealed intake bay, temporary secure storage, personnel stabilization space, transfer preparation area, monitoring coverage, communications with the parent relay, and a rolling manifest that follows every intake to transfer.
 
@@ -57,7 +57,7 @@ Approved roles include emergency material reception, personnel intake, temporary
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Ash Tide began as a coastal relay watchpoint and became permanently staffed after repeated coastal anomaly appearances. Permanent watch created a second need: when the watch revealed an arrival, the watchpoint needed somewhere to receive it. The parent relay could command the response, but distance, weather, volcanic movement, civilian traffic, and maritime conditions could make immediate direct transfer unsafe.
 
@@ -65,7 +65,7 @@ F-1 was built as the answer. The hidden intake bay receives what the surface can
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 An EISSS installation includes concealed receiving doors, stretcher and cargo intake tracks, sealed storage lockers, monitored temporary cells, environmental controls, transfer crates, personnel stabilization benches, communications panels, rolling manifest terminals, and emergency closure seals. It is compact because Ash Tide is compact, but every component is built around readiness.
 
@@ -86,7 +86,7 @@ The system is measured by readiness, not occupancy. An empty intake bay is still
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before intake, F-2 or the Watch Chief confirms arrival type, source route, risk class, transfer destination, and whether parent-relay authorization has been issued. Recovery Support prepares the bay. Security secures the access core and surface boundary. Limited Medical prepares for personnel stabilization if living arrivals are expected.
 
@@ -96,7 +96,7 @@ After intake, transfer preparation begins as soon as the arrival is stable enoug
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 EISSS cannot replace Nusantara's water-capable chambers, pressure-rated systems, restricted records vaults, or long-term holding. It can stabilize briefly; it cannot solve resident behavior. It can secure a package; it cannot make unknown material safe. It can receive personnel; it cannot provide full hospital or cognitive care.
 
@@ -104,20 +104,20 @@ Known failure modes include transfer delay, storage-capacity overrun, wrong inta
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## EISSS-F-1 Formation
+### EISSS-F-1 Formation
 The F-1 floor dossier identifies emergency intake and secure storage as the floor's defining purpose. EISSS was formalized after Ash Tide's permanent staffing required hidden reception capacity.
 
-## EISSS-Temporary Doctrine Review
+### EISSS-Temporary Doctrine Review
 A recovery drill showed that stable storage conditions could tempt staff to extend local holding. Current procedure marks every intake with a transfer clock and parent-relay destination before storage is accepted.
 
-## EISSS-Closure Integration Drill
+### EISSS-Closure Integration Drill
 A breach-response exercise confirmed that closing F-1 must seal both material and personnel inside the intake level until the triggering condition is resolved. Closure authority now includes manifest freeze and parent-relay alert.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Recovery Support operates intake and transfer preparation. Security controls access, closure, and surface boundary risk. Limited Medical stabilizes personnel and living arrivals. Logistics coordinates movement to Nusantara. The Watch Chief controls local authorization while the parent relay controls destination and disposition.
 
@@ -125,7 +125,7 @@ EISSS doctrine holds that the watchpoint receives what it does not own.
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SUB-05-ID-C Ash Tide Watchpoint Sub-Site Dossier;
 - ACT-SUB-05-ID-C-F-1 Emergency Intake and Secure Storage Floor Dossier;
@@ -137,7 +137,7 @@ EISSS doctrine holds that the watchpoint receives what it does not own.
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How long can Ash Tide safely hold material when weather blocks transfer?
 - Which arrivals require immediate F-1 closure on receipt?
@@ -148,7 +148,7 @@ EISSS doctrine holds that the watchpoint receives what it does not own.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15
 **Author Desk:** Watch Chief / Intake Officer / Central Archive

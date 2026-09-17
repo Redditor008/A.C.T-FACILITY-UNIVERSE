@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - MINOR MEMETIC QUARANTINE VAULT SYSTEM
+### TECHNOLOGY RECORD - MINOR MEMETIC QUARANTINE VAULT SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Silent Reed Annex / Kurokawa Archive Node / Archive / Intelligence / Limited Medical Cognitive Staff
 **Authority:** F-1 Quarantine Officer, Sub-Site Chief, Kurokawa Archive Command, and Central Archive
 
-### Archive Note
+#### Archive Note
 Minor Memetic Quarantine Vault System is the ninety-seventh main A.C.T technology expanded into an individual record. The Silent Reed Annex dossier identifies F-1 as the secure quarantine level for low-to-mid memetic and infohazard material held under visual-denial and document-quarantine conditions. The dossier states that the annex buffers material; it does not bury it.
 
 MMQVS exists because some dangerous information is too unsafe for ordinary records but too minor for black archive burial. It needs a place to wait without becoming forgotten.
@@ -47,7 +47,7 @@ DENY CASUAL SIGHT, HOLD TEMPORARILY, TRANSFER UNDER PARENT AUTHORITY.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 The Minor Memetic Quarantine Vault System is the F-1 temporary quarantine technology used by Silent Reed Annex to hold low-to-mid memetic documents, controlled infohazard material, visual-risk records, and redaction-bound archive objects while Kurokawa Archive Node prepares final processing. It combines document-quarantine containment, visual-denial custody, rolling buffer manifests, exposure restriction, F-1 closure authority, and parent-node transfer routing.
 
@@ -57,7 +57,7 @@ Approved roles include minor memetic quarantine, infohazard buffer custody, visu
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Silent Reed Annex was created after archive spillover events stressed Kurokawa's main records body. Incoming anomalous documents and infohazards sometimes arrived faster than the parent node could process them. Ordinary archive space was unsafe. Black archive burial was excessive. The annex became the waiting place between those extremes.
 
@@ -65,7 +65,7 @@ F-1 developed as the secure bottom of that waiting place. The minor quarantine v
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 An MMQVS installation includes visually shielded document cells, covered transfer drawers, low-light handling lanes, manifest stations, exposure clocks, document hazard tags, quarantine cabinets, cognitive aftercare alert links, F-1 closure controls, and parent-node routing terminals. The architecture prevents accidental reading, reflection, reproduction, or staff familiarity.
 
@@ -86,7 +86,7 @@ A quiet document is not assumed safe. Silence can be part of the hazard.
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before intake, Archive staff confirm source, hazard outline, visual risk, handling limits, review status, transfer destination, and parent-node authority. Material is moved through covered lanes and assigned a quarantine cell or visual-denial cabinet. The rolling manifest records custody without reproducing hazardous content.
 
@@ -94,7 +94,7 @@ During storage, staff avoid solo exposure, casual viewing, and unnecessary handl
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 MMQVS cannot safely hold major memetic residents, aggressive self-copying documents, high-grade infohazards, or material requiring full Kurokawa black archive burial. It is vulnerable to accidental sight, reflection, copy drift, manifest contamination, staff curiosity, overstay, and pressure to keep difficult files out of the parent node longer than doctrine allows.
 
@@ -102,20 +102,20 @@ Known failure modes include spillover, unauthorized reading, visual-denial failu
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## MMQVS-Spillover Formation
+### MMQVS-Spillover Formation
 The Silent Reed dossier records the annex's creation after archive spillover events. MMQVS formalizes the F-1 quarantine capacity built to absorb that overflow.
 
-## MMQVS-No-Solo-Review Reinforcement
+### MMQVS-No-Solo-Review Reinforcement
 A controlled-reading exercise showed that even low-to-mid material can act faster than a lone reviewer can report. Current vault procedure supports the annex-wide no-solo-review rule during active contamination cycles.
 
-## MMQVS-Buffer Overstay Review
+### MMQVS-Buffer Overstay Review
 A parent-node scheduling delay left a minor infohazard in annex custody longer than intended. Current procedure treats overstay as a risk event, not a harmless administrative delay.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Archive operates quarantine custody. Intelligence watches information-flow risk and blind spots. Limited Medical Cognitive Staff monitors exposed personnel. Kurokawa Archive Command controls final processing, burial, or transfer authority.
 
@@ -123,7 +123,7 @@ MMQVS doctrine holds that a buffer is safe only while it remembers it is not a g
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SUB-03-JP-E Silent Reed Annex Sub-Site Dossier;
 - ACT-SUB-03-JP-E-F-1 Minor Memetic Quarantine Vault Floor Dossier;
@@ -135,7 +135,7 @@ MMQVS doctrine holds that a buffer is safe only while it remembers it is not a g
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which low-to-mid materials should bypass the annex and enter Kurokawa directly?
 - Can repeated minor hazards combine into major spillover pressure?
@@ -146,7 +146,7 @@ MMQVS doctrine holds that a buffer is safe only while it remembers it is not a g
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** F-1 Quarantine Officer / Archive Lead / Central Archive

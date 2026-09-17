@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - UNREAD ARCHIVE ANTI-READING PRESERVATION VAULT SYSTEM
+### TECHNOLOGY RECORD - UNREAD ARCHIVE ANTI-READING PRESERVATION VAULT SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Kurokawa Archive Node / Deep-Archive Command / Security / Intelligence / Medical
 **Authority:** Unread Archive Chief, Site Director, Archive Division Deep-Archive Command, and Central Archive
 
-### Archive Note
+#### Archive Note
 Unread Archive Anti-Reading Preservation Vault System is the one-hundred-twenty-first main A.C.T technology expanded into an individual record. The F-1 Unread Archive dossier identifies the deepest Kurokawa level as a maximum-security archive for material that must never be read, viewed, or fully understood. It records independent preservation vaults, anti-reading architecture, environmental and structural monitoring, a monitoring gallery that watches without reading, and a closure doctrine where uncontrolled reading is treated as an escape.
 
 UAARPV exists because some holdings must be preserved without becoming knowledge. The system's purpose is not to make reading difficult; it is to make preservation possible without reading.
@@ -47,7 +47,7 @@ PRESERVE THE HOLDING WITHOUT LETTING THE HOLDING BECOME UNDERSTOOD.
 
 ---
 
-# FUNCTION OUTLINE
+## FUNCTION OUTLINE
 
 Unread Archive Anti-Reading Preservation Vault System is Kurokawa's F-1 vault technology for retaining informational material whose primary containment condition is non-reading. It combines independent preservation vaults, compartmented environmental envelopes, access routes that do not expose contents, monitoring systems that report condition without revealing content, documentation methods that identify without explaining, and command procedures that treat uncontrolled reading as a breach.
 
@@ -57,7 +57,7 @@ Approved roles include unreadable material preservation, maximum-security inform
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Kurokawa's earliest dangerous-information incidents produced a distinction sharper than ordinary clearance. Some files could be read by trained personnel. Some could be read through controlled apparatus. Some could be redacted. A final category could not be safely understood at all. The node needed an archive where the point of preservation was not future access but future containment.
 
@@ -65,7 +65,7 @@ F-1 became that archive. UAARPV formalizes the vaulting logic inside the Unread 
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A UAARPV installation includes isolated preservation vaults, sealed content trays, blind retrieval frames, non-disclosing condition sensors, compartmented air handling, independent emergency power links, access-core checkpoints, content-obscuring custody labels, vault-service corridors, monitoring gallery displays, and a floor archive alcove for non-comprehensive records.
 
@@ -86,7 +86,7 @@ The system is built so personnel can know that a vault requires service without 
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before any vault work, UAARPV verifies the holding's restriction set, service purpose, access authority, paired personnel rule, Medical standby requirement, monitoring method, and whether the task can be completed without opening a content line. Personnel perform maintenance through blind service points whenever possible. If vault opening is unavoidable, the holding remains shielded unless the authorization specifically includes content exposure.
 
@@ -94,7 +94,7 @@ Documentation avoids full description. A record may state vault identity, preser
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 UAARPV can deny reading, but it cannot remove the pressure created by the existence of unreadable knowledge. Personnel may become curious about what requires such protection. Records may accidentally reveal patterns through catalog terms, service frequency, restriction codes, or silence. Preservation itself can also become difficult when the safest maintenance action would require knowing what material form the holding has taken.
 
@@ -102,20 +102,20 @@ Known failure modes include accidental content line exposure, overdescriptive ca
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## UAARPV-Unreadable Register Correction
+### UAARPV-Unreadable Register Correction
 A record review found that safe cataloging could still become dangerous if entries described too much of why a holding was unreadable. Current UAARPV doctrine records enough for custody and preservation but not enough for understanding.
 
-## UAARPV-Blind Maintenance Drill
+### UAARPV-Blind Maintenance Drill
 A preservation drill showed that technicians requested content detail when ordinary maintenance questions became difficult. Current procedure requires vault-service instructions to be written as condition tasks rather than content tasks.
 
-## UAARPV-Reading-as-Breach Standard
+### UAARPV-Reading-as-Breach Standard
 F-1 doctrine established that an opened door is not the only escape condition. Current UAARPV procedure treats uncontrolled reading, viewing, or full understanding as a breach event even if the vault remains physically sealed.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Archive Division maintains preservation and custody. Security controls access, pairing, and closure response. Intelligence enforces knowledge limits rather than expanding them. Medical provides cognitive-care standby for personnel whose duties approach restricted material. Command authorizes the rare decisions that alter restriction, release, or closure status.
 
@@ -123,7 +123,7 @@ UAARPV doctrine holds that the deepest archive is successful when it remembers w
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-03-JP-E-F-1 The Unread Archive Floor Dossier;
 - ACT-SITE-03-JP-E-F-2 Deep Memetic and Infohazard Vaulting Floor Dossier;
@@ -134,7 +134,7 @@ UAARPV doctrine holds that the deepest archive is successful when it remembers w
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can a holding remain preserved forever if no one may confirm its full content?
 - When does a catalog code reveal too much about the unreadable thing it hides?
@@ -145,7 +145,7 @@ UAARPV doctrine holds that the deepest archive is successful when it remembers w
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Unread Archive Chief / Deep-Archive Command / Central Archive

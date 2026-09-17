@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## GROUP OF INTEREST REGISTRY - GREY HARBOR CIVIL RESCUE DIRECTORATE
+### GROUP OF INTEREST REGISTRY - GREY HARBOR CIVIL RESCUE DIRECTORATE
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -67,7 +67,7 @@
 **Distribution:** Civil Covert / Recovery / Medical / Intelligence / Containment / Subject Care / Command
 **Authority:** Civil Covert Division, Recovery Division, Medical Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Grey Harbor Civil Rescue Directorate is the active government filing for an outside civil-disaster, evacuation, rescue, and emergency medical authority trained to operate inside anomaly-adjacent disasters before the public explanation is stable. The Directorate is not an A.C.T branch, not GAA, not a military anomaly command, not a city fire department, and not a single harbor office. It qualifies as a Group of Interest because it possesses national command structure, rescue fleets, trained personnel, shelters, records, public legitimacy, and a repeated ability to change A.C.T field outcomes when civilians are trapped between breach, disaster, secrecy, and delayed containment jurisdiction.
 
 The relationship class is **POSITIVE**. Grey Harbor Civil Rescue Directorate repeatedly saves civilians, extracts children, stabilizes shelters, preserves hospitals, and prevents panic deaths during abnormal events. The Directorate is still monitored because its rescue-first doctrine can expose incident truth, preserve witness testimony, break containment perimeters, and oppose broad amnestic use for responders. The positive classification records the observed purpose of the group, not obedience to A.C.T.
@@ -76,9 +76,9 @@ Casualty names, child evacuation paths, responder audio, and active shelter loca
 
 ---
 
-# IDENTITY AND INSTITUTIONAL FUNCTION
+## IDENTITY AND INSTITUTIONAL FUNCTION
 
-## Group Function
+### Group Function
 
 Grey Harbor Civil Rescue Directorate functions as a national emergency-rescue authority with specialized procedures for disasters that ordinary services cannot safely understand. Its repeated activity is civilian extraction, shelter conversion, field triage, missing-child recovery, public evacuation, hazard cordon management, family notification, and hospital continuity during events where the cause cannot be honestly named in public. The Directorate does not seek possession of anomalies. It seeks living evacuees.
 
@@ -92,7 +92,7 @@ PULL FIRST. EXPLAIN WHEN BREATHING.
 
 A.C.T does not endorse the motto as containment doctrine. A.C.T does recognize that, in several incidents, delaying rescue until full explanation would have increased deaths.
 
-## Public Presence and Concealment
+### Public Presence and Concealment
 
 Grey Harbor operates openly as a civil rescue and disaster-response authority. Its anomalous specialization is concealed inside ordinary emergency language: chemical leak, structural collapse, storm surge, industrial accident, gas exposure, riot cordon, electrical fire, maritime hazard, infectious quarantine, or search-and-rescue delay. Civilians see uniforms, ambulances, rescue boats, buses, shelters, sirens, and temporary clinics. They do not see the restricted manuals that tell responders not to follow a duplicate child, not to count a burned doorway as an exit, or not to remove a mask from a survivor who has no face beneath it.
 
@@ -100,15 +100,15 @@ Public marks include grey harbor lanterns, slate rescue tags, blue-white stretch
 
 ---
 
-# ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
+## ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
 
-## Leadership Condition
+### Leadership Condition
 
 Grey Harbor is directed by a concealed Director-General under an ordinary national disaster authority. A.C.T has identified several regional rescue chiefs, harbor captains, medical commanders, and shelter registrars, but the central anomaly-response office is compartmented behind disaster-continuity law. The Directorate can issue orders faster than normal government channels during restricted events, which suggests preauthorized emergency powers.
 
 A.C.T has not confirmed whether all national ministers know the Directorate's anomalous function. Some documents imply full state authorization. Others imply that the Directorate survives by hiding its restricted manuals inside public rescue law.
 
-## Internal Structure
+### Internal Structure
 
 A.C.T assessment identifies these functional layers:
 
@@ -124,7 +124,7 @@ A.C.T assessment identifies these functional layers:
 
 This structure makes the Directorate a real government GOI. It has command, law, personnel, public-facing authority, equipment, and doctrine.
 
-## Membership and Recruitment
+### Membership and Recruitment
 
 Membership includes professional rescuers, medics, ambulance drivers, dispatchers, divers, shelter workers, search teams, crisis counselors, engineers, logistics officers, and ordinary civil-defense staff. Most members begin in conventional emergency service. Those who repeatedly encounter impossible rescue conditions may be moved into restricted Grey Harbor training.
 
@@ -139,9 +139,9 @@ A.C.T has no evidence that the Directorate recruits from A.C.T. It does recruit 
 
 ---
 
-# IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
+## IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
 
-## Stated Belief
+### Stated Belief
 
 The Directorate's most repeated doctrine line is:
 
@@ -157,13 +157,13 @@ If the person can be carried, carry them. If the name can be recorded, record it
 
 Grey Harbor believes that rescue is a state duty that remains active even when cause, jurisdiction, and public truth are restricted. The Directorate does not demand full disclosure of anomaly reality. It demands that secrecy not become an excuse to delay extraction, hide casualty counts, abandon responders, or erase families from the record.
 
-## Assessed Objective
+### Assessed Objective
 
 A.C.T assesses that Grey Harbor seeks to preserve civilian life and civil trust during abnormal disasters. It wants reliable evacuation, practical shelters, responder safety, casualty accounting, hospital continuity, and enough truth for families to survive grief. Its goal aligns with A.C.T when saving civilians supports containment and normalcy. It conflicts with A.C.T when A.C.T prioritizes perimeter closure, evidence control, or memory alteration before rescue is finished.
 
 The Directorate is not a broad containment institution. It does not want long-term custody of most anomalies. It wants authority to enter, extract, triage, shelter, document, and notify.
 
-## Anomalous Capability Assessment
+### Anomalous Capability Assessment
 
 Grey Harbor is assigned **Handler** capability. It handles anomaly-adjacent environments, abnormal injuries, unstable shelters, impossible evacuation routes, and witness populations. It does not consistently create anomalous objects or engineer reality effects. Confirmed or strongly assessed capabilities include:
 
@@ -178,7 +178,7 @@ Grey Harbor is assigned **Handler** capability. It handles anomaly-adjacent envi
 
 Some tools, including grey-tag kits and siren lanterns, may require later object review, but the Directorate itself remains classed as Handler.
 
-## Secrecy and Civilian Exposure
+### Secrecy and Civilian Exposure
 
 Grey Harbor is **Leaking** because rescue produces witnesses, logs, photographs, dispatch calls, family notifications, triage sheets, body counts, and survivors who remember being carried out. The Directorate can conceal cause, but it will not always erase the fact of rescue. Its records can contradict A.C.T public narratives when casualty numbers, evacuation routes, or responder statements do not fit the cover story.
 
@@ -186,15 +186,15 @@ This leakage is not hostile publication. It is emergency accountability. Familie
 
 ---
 
-# OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
+## OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
 
-## Operational Regions
+### Operational Regions
 
 Grey Harbor operates nationally, with strongest presence in coastal districts, ports, flood routes, industrial cities, tunnel networks, bridge systems, hospital corridors, public shelters, and mass-evacuation zones. Site 05 is frequently attached for maritime and coastal response. Site 01 attaches for dense urban evacuation and public concealment. Site 03 attaches when dispatch records, witness statements, or public media become unstable. Site 04 attaches when rural disaster zones or non-natural biology affect rescue operations.
 
 The Directorate's name originates from a harbor disaster office, but the current organization is larger than one port. A.C.T must not reduce it to local coastal color.
 
-## Known Assets and Holdings
+### Known Assets and Holdings
 
 Known or assessed assets include:
 
@@ -213,7 +213,7 @@ Known or assessed assets include:
 
 A.C.T has used Grey Harbor assets during joint operations but does not own them.
 
-## Operating Method
+### Operating Method
 
 Grey Harbor enters incidents through public emergency response. It establishes cordons, opens shelters, records evacuees, moves ambulances, deploys boats or buses, and keeps civilians away from the most obvious danger. Restricted teams then identify abnormal layers and coordinate with A.C.T if A.C.T is present or reachable.
 
@@ -230,9 +230,9 @@ These instructions save lives but create command friction. A.C.T field commander
 
 ---
 
-# HISTORY WITH A.C.T
+## HISTORY WITH A.C.T
 
-## Contact History
+### Contact History
 
 A.C.T first encountered Grey Harbor as an unusually competent civil rescue partner during covered disasters. Directorate responders knew when to stop civilian traffic before visible hazard, when to separate witnesses without panic, and when to avoid phrases that triggered anomaly behavior. Early contacts were routed through ordinary government cooperation and sometimes mistaken for GAA support.
 
@@ -240,7 +240,7 @@ Formal GOI review began after the [CENSOR: FLOODLIGHT HARBOR INCIDENT], when Gre
 
 Grey Harbor's shelter registrar refused an A.C.T request to merge duplicate family entries until all evacuees were physically accounted for. That refusal identified three children who would have been erased as paperwork duplication under the initial cover plan.
 
-## Current Relationship
+### Current Relationship
 
 The current relationship is **POSITIVE**. Grey Harbor Civil Rescue Directorate saves civilians and improves emergency outcomes. A.C.T cooperates with the Directorate during disasters but does not control it. The relationship is not Work because Grey Harbor's value is primarily humanitarian and public-rescue oriented, not a stable operational contract. It is not Neutral because it actively intervenes to protect people. It is not Negative because obstruction events are tied to rescue and accountability rather than anti-containment doctrine.
 
@@ -248,21 +248,21 @@ A.C.T must expect disagreement. Grey Harbor will prioritize living civilians in 
 
 ---
 
-# A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
+## A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
 
-## Responsible Jurisdiction
+### Responsible Jurisdiction
 
 Primary jurisdiction rests with Civil Covert Division, Recovery Division, and Medical Division. Intelligence Division monitors command structure, restricted manuals, and foreign contact. Subject Care attaches when witnesses, children, families, responders, or altered survivors need continuing support. Site jurisdiction follows the disaster location, with Site 01 and Site 05 most commonly attached due to urban and maritime rescue patterns.
 
 Access and egress ledgers must distinguish A.C.T movement from Grey Harbor evacuation movement. A bus carrying survivors out of a breach zone is not automatically an A.C.T custody transfer. Witness forms and aftercare records must preserve whether the survivor was moved by Grey Harbor, A.C.T, municipal responders, or unknown actors.
 
-## Posture Implementation
+### Posture Implementation
 
 A.C.T posture is **COOPERATED / HELP / MONITOR**. Cooperation is authorized for evacuation planning, shelter counts, triage, family notification, missing-child recovery, maritime extraction, hospital stabilization, and public cover management. Help is authorized when Grey Harbor responders are trapped, contaminated, injured, or placed under memory stress due to A.C.T-related incidents. Monitoring includes restricted manuals, grey-tag use, siren lanterns, casualty ledgers, shelter registrars, and emergency recordings that contradict public narratives.
 
 A.C.T may not seize Grey Harbor casualty ledgers without Civil Covert and Subject Care review. Those ledgers may contain the only surviving civilian continuity records for families.
 
-## Response Limits and Red Lines
+### Response Limits and Red Lines
 
 A.C.T will not permit Grey Harbor to open shelters inside active lethal containment zones, broadcast restricted anomaly information, remove contained subjects under civilian-rescue pretext, or interfere with emergency quarantine when a survivor poses immediate danger to others. A.C.T will not permit responders to self-deploy into known nonrecoverable zones without command review.
 
@@ -270,9 +270,9 @@ A.C.T will also not order responder amnestics solely to avoid embarrassment over
 
 ---
 
-# OPERATIONAL RECORDS
+## OPERATIONAL RECORDS
 
-## Restricted Operational Extract
+### Restricted Operational Extract
 
 ```text
 GREY-TAG EVACUATION SHEET: GHCRD / FLOODLIGHT HARBOR
@@ -312,9 +312,9 @@ The responder audio remains sealed because the voice under the boat matched a ci
 
 ---
 
-# INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
+## INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
 
-## Confirmed Operational Facts
+### Confirmed Operational Facts
 
 - Grey Harbor Civil Rescue Directorate is an outside government rescue authority and not an A.C.T branch.
 - The Directorate has repeatedly saved civilians during anomaly-adjacent disasters.
@@ -322,13 +322,13 @@ The responder audio remains sealed because the voice under the boat matched a ci
 - Grey Harbor maintains casualty and survivor records that may contradict A.C.T public-cover narratives.
 - The Directorate can cooperate with A.C.T while refusing orders it considers unsafe for civilians in reach.
 
-## Active Intelligence Assessment
+### Active Intelligence Assessment
 
 A.C.T assesses Grey Harbor as a specialized POSITIVE government GOI. Its strongest value is practical rescue before full explanation. Its strongest risk is that rescue creates records, witnesses, and moral claims that cannot always be folded neatly into normalcy doctrine.
 
 The Directorate must remain distinct from GAA and from a military anomaly command. GAA is a controlled government bridge for A.C.T coordination. Grey Harbor is a civil rescue authority with public-facing legitimacy and rescue law. Its conflict with A.C.T should come from evacuation, survivor accounting, responder memory, and family truth, not from wanting control over anomalies.
 
-## Persistent Questions
+### Persistent Questions
 
 - How many national officials know the Directorate's restricted anomalous-disaster function?
 - Are grey-tag kits anomalous, symbolic, or both?
@@ -338,19 +338,19 @@ The Directorate must remain distinct from GAA and from a military anomaly comman
 - Do some shelter registrars possess training from another outside GOI such as Cairn & Lintel or Lullaby Works?
 - How many responder memory-care files contain unreported A.C.T operational failures?
 
-## Intelligence Confidence
+### Intelligence Confidence
 
 Moderate to High. Field outcomes, public assets, command structure, and repeated cooperation confirm the Directorate's institutional reality. Confidence is reduced by restricted government layers, sealed casualty recordings, and uncertainty around grey-tag and siren-lantern effects. Confidence may rise if A.C.T completes a joint evacuation drill, secures a full restricted rescue manual, or interviews the Director-General under Central Command protection.
 
 ---
 
-# CROSS-REFERENCE STATUS
+## CROSS-REFERENCE STATUS
 
-## Anomaly and Record Relationship
+### Anomaly and Record Relationship
 
 Grey Harbor Civil Rescue Directorate is an organization and therefore belongs in the GOI archive. Individual siren lanterns, grey tags, shelters, rescue recordings, anomalous flood routes, duplicate casualty records, or impossible evacuation vehicles may require separate anomaly, incident, access-and-egress, witness, or aftercare files. The GOI record must not replace disaster casualty records or survivor care.
 
-## Related A.C.T Records
+### Related A.C.T Records
 
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
@@ -361,13 +361,13 @@ Grey Harbor Civil Rescue Directorate is an organization and therefore belongs in
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md`
 - Restricted disaster, evacuation, shelter, maritime, industrial, hospital, and witness-care case chains held under Central Archive routing.
 
-## Dual Filing
+### Dual Filing
 
 Under review. Grey Harbor is a government GOI, but some equipment, shelters, siren tones, rescue tags, or dispatch recordings may require separate filing. Dual filing is mandatory when a Grey Harbor asset acts independently, changes route access, preserves or alters memory, produces abnormal shelter counts, or remains active after the rescue incident closes.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 ```text
 FILE CREATED:            13/09/2026

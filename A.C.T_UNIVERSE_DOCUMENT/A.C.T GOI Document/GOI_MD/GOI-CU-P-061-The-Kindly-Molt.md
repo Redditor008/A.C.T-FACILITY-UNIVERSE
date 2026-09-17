@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## GROUP OF INTEREST REGISTRY - THE KINDLY MOLT
+### GROUP OF INTEREST REGISTRY - THE KINDLY MOLT
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -67,7 +67,7 @@
 **Distribution:** Subject Care / Medical / Intelligence / Recovery / Civil Covert / Containment / Command
 **Authority:** Subject Care Division, Medical Division, Intelligence Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 The Kindly Molt is the active cultic filing for an outside faith and refuge network that shelters people whose bodies changed through anomalous exposure, incomplete transformation, failed reversal, inherited abnormality, or long-term containment injury. The group is not filed as a monster fan club, a mutation cult, a single chapel, a medical charity, or an A.C.T aftercare program. It qualifies as a Group of Interest because it has recurring refuge houses, ritual vocabulary, trained caregivers, membership continuity, concealment routes, altered-body doctrine, and a repeated ability to affect whether transformed persons enter A.C.T custody, accept reversal, remain with family, or disappear into community protection.
 
 The relationship class is **POSITIVE**. The Kindly Molt repeatedly reduces suicide risk, abandonment, untreated injury, self-harm, exposure panic, and family rejection among altered survivors. It gives care where fear would otherwise make people cages for themselves. A.C.T still monitors the group because positive care can conceal dangerous transformation, delay medical review, resist containment, and protect persons whose bodies remain hazardous. The positive classification records the group's observed life-preserving function, not permission to ignore risk.
@@ -76,9 +76,9 @@ Refuge locations, child members, active rites, and some body-condition details a
 
 ---
 
-# IDENTITY AND INSTITUTIONAL FUNCTION
+## IDENTITY AND INSTITUTIONAL FUNCTION
 
-## Group Function
+### Group Function
 
 The Kindly Molt functions as a survivor-care faith network for people who have changed and cannot immediately return to ordinary life. Its repeated activity is shelter, ritual reassurance, wound care, body mapping, family mediation, clothing adaptation, meal support, consent protection, and emotional survival for persons whose bodies have become frightening to themselves or others. The group treats transformation as an injury, passage, calling, illness, grief, or second birth depending on the person involved. It does not force one interpretation onto all members.
 
@@ -92,7 +92,7 @@ THE PERSON REMAINS THROUGH THE SHEDDING.
 
 A.C.T records this as doctrine and as warning. The group may insist personhood remains even when containment risk is still active.
 
-## Public Presence and Concealment
+### Public Presence and Concealment
 
 The Kindly Molt hides behind small chapels, survivor support circles, disability care groups, night kitchens, rural convalescent houses, unregistered hospice rooms, clothing repair charities, burn-scar support networks, and private family mediation. Its members often avoid public signage. A doorway may show only a folded cloth, a bowl of warm water, or a painted moth with no face.
 
@@ -100,15 +100,15 @@ Public language is gentle and indirect. Members speak of shedding, soft skin, ol
 
 ---
 
-# ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
+## ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
 
-## Leadership Condition
+### Leadership Condition
 
 The Kindly Molt has no confirmed central prophet. Local refuge houses are led by House Mothers, Shed Fathers, Molt Witnesses, and care elders. These titles do not appear to require gender consistency; they describe duties. A House Mother protects daily life inside a refuge. A Shed Father supervises difficult body-care rites and prevents coercion. A Molt Witness records what changed and what remained. Care elders decide when A.C.T, doctors, family, or clergy may be contacted.
 
 A.C.T has identified at least nine local leaders across separate cases, but no single command figure. This decentralized form makes the group harder to dismantle and also less likely to become a single hostile authority.
 
-## Internal Structure
+### Internal Structure
 
 A.C.T assessment identifies these functional layers:
 
@@ -124,7 +124,7 @@ A.C.T assessment identifies these functional layers:
 
 This structure distinguishes the Kindly Molt from a vague cult label. It is organized care, belief, and practical survival.
 
-## Membership and Recruitment
+### Membership and Recruitment
 
 Membership includes transformed survivors, relatives, caregivers, sympathetic physicians, burn-care volunteers, former foster guardians, altered children, E-Class-adjacent personnel under protected review, and people whose bodies recovered in ways ordinary medicine cannot explain. Some members join temporarily until stable. Others remain because the outside world cannot safely accept them.
 
@@ -138,9 +138,9 @@ The group does not publicly recruit healthy people into transformation. A.C.T ha
 
 ---
 
-# IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
+## IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
 
-## Stated Belief
+### Stated Belief
 
 The central belief of the Kindly Molt is that a changed body does not automatically end the person. Its doctrine rejects three common forms of harm: family abandonment, self-hatred, and institutional reduction of the survivor to hazard. Members speak of the molt as a condition where pain, fear, and new shape must be witnessed before decisions are made.
 
@@ -154,13 +154,13 @@ Let no frightened hand become a knife against itself.
 
 The group does not teach that every change is holy or desirable. Some rites ask the body to stop changing. Some ask the survivor whether they want reversal. Some are mourning rites for features that cannot be recovered.
 
-## Assessed Objective
+### Assessed Objective
 
 A.C.T assesses that the Kindly Molt seeks to build a protective community for altered persons outside official containment. Its objective is survival with dignity, not secrecy for its own sake. It hides members when exposure would endanger them. It contacts doctors when care exceeds house capacity. It contacts A.C.T only when containment danger is obvious or when prior contact has not resulted in disappearance.
 
 This objective aligns with A.C.T Subject Care and conflicts with A.C.T Containment. The group may save a person from suicide while also delaying necessary quarantine. It may preserve a family bond while also preventing A.C.T from collecting early transformation data. Its value and risk come from the same source: it sees the person before the hazard file.
 
-## Anomalous Capability Assessment
+### Anomalous Capability Assessment
 
 The Kindly Molt is assigned **Practitioner** capability because some rites produce repeatable effects beyond ordinary counseling or nursing. Confirmed or strongly assessed practices include:
 
@@ -175,7 +175,7 @@ The Kindly Molt is assigned **Practitioner** capability because some rites produ
 
 The group is not assessed as Engineering. It does not manufacture complex anomaly devices. It uses rites, care objects, repetition, prepared rooms, and learned handling.
 
-## Secrecy and Civilian Exposure
+### Secrecy and Civilian Exposure
 
 The Kindly Molt is **Leaking** because altered persons cannot always be hidden without harming them. A survivor may return to family with changed hands. A child may need school accommodations. A spouse may remember the first night after transformation. A local doctor may see a wound that should not exist. The group does not broadcast anomaly reality, but it refuses to solve every exposure problem by isolation or erasure.
 
@@ -183,15 +183,15 @@ This leakage often improves long-term stability. Families who are prepared may p
 
 ---
 
-# OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
+## OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
 
-## Operational Regions
+### Operational Regions
 
 The Kindly Molt operates through regional refuge houses, back-room chapels, survivor apartments, rural clinics, city shelters, safe kitchens, temporary baths, clothing rooms, and family meeting spaces. Site 04 is frequently attached because non-natural biology and transformed bodies are common. Site 03 attaches when identity, speech, memory, or self-recognition is affected. Site 01 attaches when public housing, hospitals, and family courts become involved.
 
 The group's reach is Regional rather than Transnational in current classification. Similar rites appear elsewhere, but A.C.T has not confirmed whether they belong to one network or parallel traditions.
 
-## Known Assets and Holdings
+### Known Assets and Holdings
 
 Known or assessed assets include:
 
@@ -209,7 +209,7 @@ Known or assessed assets include:
 
 A.C.T has recovered care cards, cloth samples, and two partial skin-ledger pages. Full refuge ledgers remain protected by the group and are not to be seized without Command and Subject Care review.
 
-## Operating Method
+### Operating Method
 
 A typical Kindly Molt intervention begins when an altered person is at risk of panic, family rejection, self-harm, exploitation, or premature containment. A member or sympathizer provides contact through a card, phone phrase, hospital whisper, chapel door, or survivor referral. The person is brought to a refuge house or visited in place. Immediate work focuses on warmth, water, food, privacy, pain mapping, name confirmation, and removal of mirrors or restraints that increase panic.
 
@@ -227,9 +227,9 @@ These labels are useful and provocative. They imply that some institutions treat
 
 ---
 
-# HISTORY WITH A.C.T
+## HISTORY WITH A.C.T
 
-## Contact History
+### Contact History
 
 A.C.T first encountered the Kindly Molt through missing survivor follow-ups. Individuals expected to enter secure medical review instead appeared days later with wounds cleaned, clothing adapted, names preserved, and family contact partially restored. Early cases were mistaken for ordinary family concealment or unlicensed medical care. Subject Care Division opened a consolidated review after repeated cards, prayer lines, and body-map formats appeared across unrelated transformation cases.
 
@@ -237,7 +237,7 @@ Formal GOI designation followed the [CENSOR: RED-BATH REFUGE] incident. A partia
 
 A.C.T still cited the refuge for delaying report. Subject Care cited A.C.T for failing to explain transport to the survivor before restraints were visible.
 
-## Current Relationship
+### Current Relationship
 
 The current relationship is **POSITIVE**. The Kindly Molt protects altered survivors and reduces harm. A.C.T may cooperate with local houses when trust is available, but no stable agreement exists across the network. The relationship is not Work because cooperation is inconsistent and locally negotiated. It is not Neutral because the group actively intervenes to protect people. It is not Negative because the core pattern is care, not sabotage.
 
@@ -245,21 +245,21 @@ A.C.T field teams must expect moral friction. The group will ask whether contain
 
 ---
 
-# A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
+## A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
 
-## Responsible Jurisdiction
+### Responsible Jurisdiction
 
 Primary jurisdiction rests with Subject Care Division, Medical Division, and Intelligence Division. Recovery Division attaches when a refuge house contains a survivor required for emergency transport or hazard containment. Civil Covert Division attaches when family, housing, employment, disability records, school records, or public religious protections are involved. Transformation Review Board participation is required when the group shelters a person whose body condition may become stable, reversible, contagious, or hazardous.
 
 E-Class references must use the correct term: Excommunicated Class. A transformed A.C.T member sheltered by the Kindly Molt may require E-Class review if duty status, public identity, access, or institutional trust has broken, but the Molt file does not redefine E-Class.
 
-## Posture Implementation
+### Posture Implementation
 
 A.C.T posture is **MONITOR / HELP / COOPERATED**. Monitoring includes refuge cards, local leaders, body-map formats, red-bath rooms, transport routes, altered-family mediation, and cases where survivors avoid A.C.T care. Help is authorized when a Molt house is threatened by hostile GOIs, public panic, unsafe transformation, medical shortage, or predatory actors seeking altered bodies. Cooperation is authorized case-by-case for safe transport, family mediation, pain mapping, consent review, and post-containment aftercare.
 
 A.C.T personnel may not raid a Molt house solely to complete paperwork if no immediate danger exists. When danger exists, Subject Care must remain present unless tactical conditions make that impossible.
 
-## Response Limits and Red Lines
+### Response Limits and Red Lines
 
 A.C.T will not permit the Kindly Molt to hide contagious transformation, block emergency quarantine, induce transformation, prevent lifesaving medical treatment, use children in rites without protection, or conceal a survivor who is actively harming others. A.C.T will not allow religious language to override medical necessity.
 
@@ -267,9 +267,9 @@ A.C.T will also not treat all Molt members as cult threats. If a refuge practice
 
 ---
 
-# OPERATIONAL RECORDS
+## OPERATIONAL RECORDS
 
-## Restricted Operational Extract
+### Restricted Operational Extract
 
 ```text
 MOLT HOUSE CARE CARD: TKM / RED-BATH REFUGE
@@ -310,9 +310,9 @@ The fragment is retained because it shows the group's practical care language an
 
 ---
 
-# INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
+## INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
 
-## Confirmed Operational Facts
+### Confirmed Operational Facts
 
 - The Kindly Molt is an outside cultic survivor-care network and not an A.C.T program.
 - The group maintains refuge houses, care roles, rites, body maps, skin ledgers, and altered-family support practices.
@@ -320,13 +320,13 @@ The fragment is retained because it shows the group's practical care language an
 - The group can delay A.C.T custody, medical review, or containment transfer.
 - No confirmed evidence currently shows the group deliberately inducing transformation for recruitment.
 
-## Active Intelligence Assessment
+### Active Intelligence Assessment
 
 A.C.T assesses the Kindly Molt as a specialized POSITIVE cultic GOI. Its strongest value is care for people whose bodies have become socially, medically, or institutionally terrifying. Its strongest risk is that compassion can become concealment when a survivor remains dangerous or contagious.
 
 The group should not be written as evil mutation worship. Its faith is practical, tender, and stubborn. It should also not be written as harmless. A refuge network that can hide transformed people, challenge A.C.T removal, and preserve alternative body doctrine can become a major operational factor even when its purpose is care.
 
-## Persistent Questions
+### Persistent Questions
 
 - Did the Kindly Molt begin as a religious tradition, survivor network, medical refuge, or response to one catastrophic transformation event?
 - Are House Mothers and Shed Fathers elected, inherited, trained, or chosen by successful care outcomes?
@@ -337,19 +337,19 @@ The group should not be written as evil mutation worship. Its faith is practical
 - What does the group do when a survivor wants reversal but the local house believes the new body should remain?
 - Are altered children protected differently from altered adults inside Molt doctrine?
 
-## Intelligence Confidence
+### Intelligence Confidence
 
 Moderate. Recovered care cards, refuge contacts, body-map consistency, survivor outcomes, and repeated ritual language confirm organizational reality. Confidence is limited by local autonomy, protected refuge locations, incomplete rite analysis, and lack of full membership census. Confidence may rise if A.C.T completes a monitored refuge visit, negotiates a Subject Care memorandum, or verifies whether multiple Molt houses answer to a shared elder council.
 
 ---
 
-# CROSS-REFERENCE STATUS
+## CROSS-REFERENCE STATUS
 
-## Anomaly and Record Relationship
+### Anomaly and Record Relationship
 
 The Kindly Molt is an organization and therefore belongs in the GOI archive. Individual rites, body maps, red-bath rooms, altered-body conditions, refuge bells, or skin ledgers may require separate anomaly, medical, transformation, witness, or E-Class review records. The organization record must not replace survivor files or transformation-board determinations.
 
-## Related A.C.T Records
+### Related A.C.T Records
 
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
@@ -361,13 +361,13 @@ The Kindly Molt is an organization and therefore belongs in the GOI archive. Ind
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md`
 - Restricted transformation, altered-body, refuge, witness, medical aftercare, and family-continuance case chains held under Central Archive routing.
 
-## Dual Filing
+### Dual Filing
 
 Under review. The Kindly Molt is a cultic GOI, but some rites, refuge rooms, ledgers, or altered-body support objects may require separate filing. Dual filing is mandatory when a rite produces measurable anomalous effect, a refuge room changes physical conditions, a skin ledger preserves identity beyond normal memory, or a care object remains active after leaving the Molt house.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 ```text
 FILE CREATED:            13/09/2026

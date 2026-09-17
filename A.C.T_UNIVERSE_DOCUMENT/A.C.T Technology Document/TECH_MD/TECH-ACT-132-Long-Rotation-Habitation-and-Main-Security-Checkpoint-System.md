@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - LONG-ROTATION HABITATION AND MAIN SECURITY CHECKPOINT SYSTEM
+### TECHNOLOGY RECORD - LONG-ROTATION HABITATION AND MAIN SECURITY CHECKPOINT SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** White Grave Station / Administration / Medical / Command / Security
 **Authority:** Habitation Chief, Station Administration, Site Director, and Central Archive
 
-### Archive Note
+#### Archive Note
 Long-Rotation Habitation and Main Security Checkpoint System is the one-hundred-thirty-second main A.C.T technology expanded into an individual record. The White Grave F-5 Personnel Habitation and Support dossier identifies F-5 as the level where the station's population lives: living quarters, mess facilities, routine medical clinics, recreation spaces, internal command offices, and the main security checkpoint separating the habitation level from the operational floors below. It records sustainment doctrine, separation doctrine, domestic doctrine, long arctic rotations, and the physical boundary between life and duty.
 
 LRHMSCS exists because White Grave personnel do not leave the station at the end of a shift. The station must create a livable human world above the work and a checkpoint that lets personnel cross into and out of that work without carrying all of it back to their beds.
@@ -47,7 +47,7 @@ SUSTAIN THE PERSON LONG ENOUGH FOR DUTY, AND SEPARATE DUTY WELL ENOUGH FOR THE P
 
 ---
 
-# FUNCTION OUTLINE
+## FUNCTION OUTLINE
 
 Long-Rotation Habitation and Main Security Checkpoint System is White Grave's F-5 personnel-sustainment technology for supporting long-duration arctic station life while controlling the boundary between domestic habitation and operational duty. It combines living quarters, mess facilities, recreation spaces, routine medical clinics, internal command offices, access monitoring, and the main security checkpoint into a single support architecture.
 
@@ -57,7 +57,7 @@ Approved roles include long-rotation housing, mess support, recreation schedulin
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 White Grave's isolation made ordinary staffing impossible. Personnel could not commute from nearby communities, and seasonal transport meant rotations had to last long enough to strain ordinary morale and domestic tolerance. Early station arrangements proved that a remote containment installation fails if it treats living space as leftover engineering.
 
@@ -65,7 +65,7 @@ F-5 developed into a dedicated habitation level as the station grew. The main se
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A LRHMSCS installation includes private and shared quarters, mess hall, food storage and preparation systems, recreation rooms, routine medical clinic, internal command offices, environmental controls, domestic monitoring, personnel access gates, and the main security checkpoint leading to the operational floors.
 
@@ -86,7 +86,7 @@ The checkpoint is not only security hardware. It is the station's deliberate lin
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before duty descent, LRHMSCS verifies personnel identity, duty assignment, operational-floor authorization, Medical limitation if flagged for checkpoint use, equipment status, and command schedule. Personnel pass through the main security checkpoint from habitation into operational depth. The checkpoint records the passage because the station treats crossing from life into duty as an operational event.
 
@@ -94,7 +94,7 @@ After duty, personnel ascend through the checkpoint into F-5. The system records
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 LRHMSCS can create separation, but it cannot guarantee that personnel leave duty behind. Long rotations compress private life, professional hierarchy, fear, boredom, and fatigue into the same sealed population. The checkpoint can become comforting or oppressive depending on conditions. Domestic monitoring can protect personnel while also making rest feel supervised.
 
@@ -102,20 +102,20 @@ Known failure modes include checkpoint routine erosion, duty bleed into habitati
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## LRHMSCS-Separation Doctrine Finding
+### LRHMSCS-Separation Doctrine Finding
 A station welfare review found that personnel who felt constantly on duty degraded faster during long arctic rotations. Current procedure preserves the checkpoint as a real boundary rather than a symbolic doorway.
 
-## LRHMSCS-Domestic Infrastructure Correction
+### LRHMSCS-Domestic Infrastructure Correction
 Earlier support planning treated mess and recreation as morale benefits. Current doctrine treats them as operational infrastructure necessary for station endurance.
 
-## LRHMSCS-Ascent Flag Review
+### LRHMSCS-Ascent Flag Review
 Checkpoint records showed that returning from duty requires as much attention as descending to duty. Current ascent procedure checks incident flags, Medical routing, and debrief requirements before personnel fully reenter habitation.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Station Administration operates habitation, scheduling, and support. Medical provides routine care and referral. Command offices coordinate station activity from the level. Security controls the main checkpoint and access architecture. All operational divisions depend on LRHMSCS because long rotation makes personnel sustainment inseparable from containment readiness.
 
@@ -123,7 +123,7 @@ LRHMSCS doctrine holds that the station's coldest boundary is not the arctic sur
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-02-RU-N-F-5 Personnel Habitation and Support Floor Dossier;
 - ACT-SITE-02-RU-N-F-4 Research and Biological Study Floor Dossier;
@@ -135,7 +135,7 @@ LRHMSCS doctrine holds that the station's coldest boundary is not the arctic sur
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How much operational truth should personnel be allowed to bring into domestic space?
 - Can a checkpoint protect rest if everyone on both sides is trapped in the same station?
@@ -146,7 +146,7 @@ LRHMSCS doctrine holds that the station's coldest boundary is not the arctic sur
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Habitation Chief / Station Administration / Central Archive

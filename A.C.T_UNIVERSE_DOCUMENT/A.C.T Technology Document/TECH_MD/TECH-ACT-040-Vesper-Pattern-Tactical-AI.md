@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - VESPER-PATTERN TACTICAL AI
+### TECHNOLOGY RECORD - VESPER-PATTERN TACTICAL AI
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Tactical Review / Engineering / Recovery / Security / Artifact Storage / Simulation Command  
 **Authority:** Tactical Review Desk, Engineering Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Vesper-Pattern Tactical AI is the fortieth main A.C.T technology expanded into an individual record. The Master Catalog defines it as an isolated combat-logic program mimicking future-operative filtering for coordinating unmanned recovery operations. The visual guide describes an armored black cube with a rotating sensor turret, a green eye lens using restricted pattern recognition, and a wired tactical uplink port for mission-parameter input. HIGENMARU-KORIN containment procedures restrict training with the sword pair to Vesper-Pattern Tactical AI simulations because human wielders suffered fatal stamina collapse during prior testing.
 
 VPT-AI is not trusted because it is smart. It is used because it can be kept alone with the dangerous decisions.
@@ -47,7 +47,7 @@ LET THE MACHINE PLAN THE APPROACH WITHOUT LETTING THE MACHINE CHOOSE THE MISSION
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Vesper-Pattern Tactical AI coordinates unmanned recovery operations, dangerous artifact simulations, route selection, and combat-response modeling where living operators would be harmed by proximity, compulsion, stamina drain, or impossible timing. It reads mission parameters through a wired tactical uplink, models hostile movement through its rotating sensor turret and recognition filter, and outputs controlled instructions for drones, decoys, restraint systems, simulated wielders, or remote recovery frames.
 
@@ -65,7 +65,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND DEPLOYMENT
+## ORIGIN AND DEPLOYMENT
 
 VPT-AI was developed after A.C.T learned that some tactical environments injure the operator before the operation begins. A human planner can be hypnotized by a lure, frightened into predictable behavior, recruited by narrative pressure, drained by an artifact, or tempted to improvise around a beautiful opening. Unmanned platforms help, but unmanned platforms still require command logic. VPT-AI fills that gap without placing a human mind at the center of every hostile pattern.
 
@@ -75,7 +75,7 @@ Current deployment remains isolated by hardware. Wired uplink is required so ope
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard VPT-AI core is an armored black cube mounted on a vibration-damped tactical base. A rotating sensor turret rises from the top face. The front-facing green eye lens houses restricted pattern-recognition optics. The rear panel contains the wired tactical uplink port, physical mission key slot, cooling vents, status lights, and an emergency logic-seal switch. The cube is heavy enough that field teams do not carry it casually; it is usually deployed on a command bench, drone cradle, or sealed simulation rack.
 
@@ -96,7 +96,7 @@ The green lens must remain covered when the system is not in active use. Idle pa
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before operation, Tactical Review defines the mission in plain terms: recover, distract, map, simulate, delay, observe, or withdraw. Engineering confirms isolation. Security confirms no wireless bridges are present. The wired uplink is connected only after the mission key is inserted. Parameters must include abort conditions, prohibited actions, civilian protection limits, subject-care limits, and maximum acceptable equipment loss.
 
@@ -106,7 +106,7 @@ After operation, the cube is sealed. Logs are extracted through the wired port, 
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 VPT-AI cannot understand dignity, consent, superstition, manners, or sovereign authority unless these are translated into explicit mission constraints. It may model a respectful bow as useless movement unless command defines why the gesture matters. It may also fail against anomalies that read machinery as intention, recruit algorithmic prediction, or punish unmanned systems for lacking fear.
 
@@ -114,20 +114,20 @@ Known failure modes include recognition overfit, mission creep, simulation bleed
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## VPT-2018 HIGENMARU Simulation Adoption
+### VPT-2018 HIGENMARU Simulation Adoption
 After human testing with HIGENMARU-KORIN caused total stamina collapse in E-Class wielders, VPT-AI simulation became the approved training substitute. The AI could model timing, approach, and parry-window conditions without giving the sword a living metabolism to drain.
 
-## VPT-2022 Drone-Sacrifice Bias
+### VPT-2022 Drone-Sacrifice Bias
 A recovery simulation repeatedly selected equipment loss as the cleanest path. The outputs were tactically valid but ignored replacement scarcity and evidence preservation. Mission templates now include equipment-value and archive-recovery constraints.
 
-## VPT-2026 Courtesy Constraint Drill
+### VPT-2026 Courtesy Constraint Drill
 A temple-threshold simulation failed when the AI routed a drone directly across a respectful boundary marker. The path was efficient and unacceptable. Sovereign-site operations now require manners and threshold rules as hard constraints.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Tactical Review controls mission templates and after-action analysis. Engineering maintains isolation, turret motion, lens calibration, and wired uplink integrity. Recovery uses the AI for unmanned operation planning. Security uses it for tactical rehearsal. Artifact Storage uses it to model handling of dangerous tools. Simulation Command stores sealed scenario libraries.
 
@@ -135,7 +135,7 @@ Standing reminder: the cube can calculate how to enter a room. It cannot decide 
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 40;
 - ACT Technological Visual Reference Guide, Item 40;
@@ -148,7 +148,7 @@ Standing reminder: the cube can calculate how to enter a room. It cannot decide 
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can future-operative filtering remain safe if the future source pattern changes?
 - How much subject-care doctrine can be translated into hard tactical constraints?
@@ -159,7 +159,7 @@ Standing reminder: the cube can calculate how to enter a room. It cannot decide 
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Tactical Review Desk / Engineering Division / Central Archive  

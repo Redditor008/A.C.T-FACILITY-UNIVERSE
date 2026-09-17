@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - CRYO-SEISMIC STABILIZERS
+### TECHNOLOGY RECORD - CRYO-SEISMIC STABILIZERS
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Engineering / Site Infrastructure / Abyss Floor Operations / Containment / Command  
 **Authority:** Engineering Division, Site Infrastructure Command, and Central Archive
 
-### Archive Note
+#### Archive Note
 Cryo-Seismic Stabilizers are the nineteenth main A.C.T technology expanded into an individual record. The Master Catalog identifies them as sub-crustal tectonic dampeners using liquid nitrogen and RSA intervals to freeze localized reality during world-scale events. The visual guide describes large tripod-mounted industrial canisters venting constant white nitrogen fog, with a screen for Crustal Temperature Index and Tectonic Stress indices, a rotating piston sensor synchronized with tremors, a vapor-release valve for causal heat, an internal redacted thermal-cell, and a wired remote with venting-intensity sliders.
 
 CSS units exist because some containment sites are not threatened only by a subject inside a room. They are threatened by the ground remembering that it should be elsewhere, deeper, older, warmer, or broken. A.C.T uses CSS where physical seismic pressure and reality instability overlap.
@@ -47,7 +47,7 @@ FREEZE THE SHAKING, NOT THE SITE'S ABILITY TO BREATHE.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Cryo-Seismic Stabilizers reduce tectonic and reality-seismic movement by combining extreme cold, controlled venting, and RSA interval timing. The machine does not freeze an entire region in ordinary ice. It creates short, timed windows where the local ground is less able to shift state, transmit stress, or answer a world-scale pressure event. Engineering describes the effect as making the crust hesitate long enough for containment systems to catch up.
 
@@ -64,7 +64,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND CUSTODY
+## ORIGIN AND CUSTODY
 
 CSS research came from the same lesson that produced modern A.C.T infrastructure doctrine: containment is not only a box but the ground under the box. Early Abyss Floor facilities reported tremors that did not match geology. Some occurred before the force that caused them. Some froze sensors while cracking concrete. Engineering began pairing thermal shock, heavy tripods, and RSA timing to interrupt these events before they became site-wide displacement.
 
@@ -74,7 +74,7 @@ RSA interval timing is restricted because a badly timed stabilizer may lock a fa
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard CSS is a tripod-mounted industrial canister roughly the size of a field generator. It vents white nitrogen fog when active. The side screen displays Crustal Temperature Index, Tectonic Stress indices, coolant pressure, RSA interval synchronization, and causal heat load. The base houses a rotating piston sensor that vibrates with tremors and distinguishes ordinary movement from reality-seismic disagreement.
 
@@ -95,7 +95,7 @@ The visible fog is not the containment effect. It is the waste sign of a colder 
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Operators install CSS units on surveyed anchor points, never on visually convenient ground. Engineering verifies floor load, tremor baseline, RSA timing, coolant pressure, and release routes. During activation, the operator raises venting intensity slowly while watching for stress decrease. A sudden perfect calm is treated as suspicious because real ground rarely becomes obedient all at once.
 
@@ -105,7 +105,7 @@ Do not stand in nitrogen fog for inspection. Do not bypass the wired remote with
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 CSS cannot stop all earthquakes, world-scale movements, or foundation failures. It cannot stabilize a site whose RSA grid has collapsed, cannot cool conceptual pressure, and cannot replace structural repair. It may be ineffective against airborne, narrative, temporal, or biological threats unless those threats are coupled to ground motion.
 
@@ -113,20 +113,20 @@ Known failure modes include overcooling, fog backflow, piston desynchronization,
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## CSS-2002 Brittle Floor Event
+### CSS-2002 Brittle Floor Event
 A test array held a sublevel tremor below report threshold for twelve minutes. The floor then cracked in a clean hexagonal pattern around the center tripod. No subject escaped, but two coolant lines sheared. Engineering added the current warning that dampened motion still exists somewhere.
 
-## CSS-2010 Fog Backflow Incident
+### CSS-2010 Fog Backflow Incident
 A blocked vent path pushed nitrogen fog into a maintenance corridor. Personnel interpreted the fog as ordinary waste output and delayed evacuation. Three workers suffered cold exposure. Site Infrastructure now requires independent fog-route checks before every activation.
 
-## CSS-2024 False Quiet Drill
+### CSS-2024 False Quiet Drill
 During a heavy-entity simulation, the Crustal Temperature Index stabilized while the rotating piston continued reporting low tremor memory. The drill was paused. Review confirmed that the ground had stopped moving but had not stopped intending to move. This became the standard training example for false quiet.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Engineering maintains hardware, coolant systems, thermal-cells, and RSA synchronization. Site Infrastructure Command assigns permanent arrays. Abyss Floor Operations requests deep deployment. Containment coordinates CSS support for high-mass subjects. Logistics moves canisters and coolant. Command authorizes world-scale response. Archive preserves piston and temperature logs as site evidence.
 
@@ -134,7 +134,7 @@ Standing reminder: the stabilizer does not defeat the pressure. It asks the pres
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 26;
 - ACT Technological Visual Reference Guide, Item 26;
@@ -145,7 +145,7 @@ Standing reminder: the stabilizer does not defeat the pressure. It asks the pres
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How long can a CSS array suppress world-scale pressure before rebound becomes worse than the initial event?
 - Can repeated freezing teach a site to resist normal structural flex?
@@ -156,7 +156,7 @@ Standing reminder: the stabilizer does not defeat the pressure. It asks the pres
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Engineering Division / Site Infrastructure Command / Central Archive  

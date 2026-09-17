@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## GROUP OF INTEREST REGISTRY - CHOIR OF THE UNFORGOTTEN NAME
+### GROUP OF INTEREST REGISTRY - CHOIR OF THE UNFORGOTTEN NAME
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -67,7 +67,7 @@
 **Distribution:** Intelligence / Civil Covert / Subject Care / Medical / Recovery / Containment / Command
 **Authority:** Intelligence Division, Civil Covert Division, Subject Care Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Choir of the Unforgotten Name is the active cultic filing for an outside memory-preservation and anti-amnestic faith network that restores, preserves, repeats, and publicly reattaches names removed by disaster, containment secrecy, false death, memory alteration, or anomalous identity damage. The Choir is not an A.C.T office, not a witness-rights tribunal, not a harmless memorial society, not a single church, and not a normal activist group. It qualifies as a Group of Interest because it has transnational cells, rites, leaders, ledgers, memorized archives, recruitment practices, repeatable anomalous memory effects, and a direct ability to compromise A.C.T normalcy and aftercare operations.
 
 The relationship class is **NEGATIVE**. This does not mean the Choir lacks compassion. Many members are grieving relatives, survivors, and people harmed by institutional erasure. The classification records the operational relationship with A.C.T: the Choir deliberately undoes amnestic work, preserves restricted testimony, teaches resistance to memory softening, reintroduces sealed names into public life, and can trigger dangerous recall in witnesses whose memories were suppressed for containment reasons. It protects memory as sacred even when the memory itself can injure, spread, or reopen a sealed event.
@@ -76,9 +76,9 @@ Active hymn texts, child singer identities, memorial-chapel locations, and NEMNO
 
 ---
 
-# IDENTITY AND INSTITUTIONAL FUNCTION
+## IDENTITY AND INSTITUTIONAL FUNCTION
 
-## Group Function
+### Group Function
 
 Choir of the Unforgotten Name functions as a religious and mnemonic preservation network. Its repeated activity is the gathering of erased names, partial witness statements, missing-person fragments, altered childhood records, last words, dead nicknames, false death corrections, and memories damaged by amnestic administration. The group turns those fragments into refrains, recitations, call-and-response rites, memorial songs, name books, and family vigils. The Choir believes that a name spoken by enough faithful mouths can resist erasure.
 
@@ -92,7 +92,7 @@ NO NAME DIES WHILE THE CHOIR HAS BREATH.
 
 This is a comfort phrase during funerals and a containment warning during active recall rites.
 
-## Public Presence and Concealment
+### Public Presence and Concealment
 
 The Choir hides inside grief. Its members appear at funerals, hospital vigils, support groups, survivor meetings, remembrance walks, chapel basements, school memorials, missing-person anniversaries, and family gatherings after public-cover disasters. A.C.T field teams may first notice the group when a crowd begins singing a name that was removed from public casualty lists, or when a witness remembers a sealed room after hearing a refrain they insist belonged to their childhood.
 
@@ -100,15 +100,15 @@ Public marks include black song ribbons, folded paper throats, hymn sheets with 
 
 ---
 
-# ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
+## ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
 
-## Leadership Condition
+### Leadership Condition
 
 No single high priest or founder is confirmed. Local cells are led by Cantors, Name Bearers, Vestry Archivists, Refrain Mothers, Silence Breakers, and Bell Throats. These titles describe functions more than rank. A Cantor leads call-and-response. A Name Bearer carries names that cannot safely be written. A Vestry Archivist preserves sheets, recordings, and family testimony. A Refrain Mother teaches a memory sequence until it can survive without paper. A Bell Throat begins recall when a congregation cannot speak.
 
 A.C.T has identified at least eleven active cantors across separate jurisdictions. Their rites share structure but not identical theology, suggesting a durable network rather than one centralized church.
 
-## Internal Structure
+### Internal Structure
 
 A.C.T assessment identifies these functional layers:
 
@@ -124,7 +124,7 @@ A.C.T assessment identifies these functional layers:
 
 This structure makes the Choir a real cultic GOI. It has doctrine, social roles, training, concealment, and repeated anomalous practice.
 
-## Membership and Recruitment
+### Membership and Recruitment
 
 Membership includes grieving relatives, witnesses who remember through amnestics, survivors whose legal names changed after incidents, hospital volunteers, funeral singers, school memorial organizers, former social workers, anti-amnestic activists, and persons who believe A.C.T or other containment powers erased someone they loved. Some join for one vigil and leave. Others become full singers after carrying a name through a successful recall rite.
 
@@ -138,9 +138,9 @@ The Choir is especially dangerous around vulnerable survivors because it offers 
 
 ---
 
-# IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
+## IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
 
-## Stated Belief
+### Stated Belief
 
 The central belief of the Choir is that memory is a duty owed to the living, dead, missing, and altered. Its members teach that erasure without witness is a second death. They do not distinguish neatly between medical amnestic relief, coercive forgetting, public secrecy, or anomalous memory theft. This lack of distinction creates most of the danger.
 
@@ -154,13 +154,13 @@ Grief before clean paper.
 
 The Choir believes that a safe lie is still a wound if it leaves the family unable to mourn correctly. Some members acknowledge that not all truth can be public. The dominant doctrine still demands that every erased name be restored somewhere.
 
-## Assessed Objective
+### Assessed Objective
 
 A.C.T assesses that the Choir seeks to build a living archive of names and memories that containment systems cannot fully erase. It wants families to remember the dead, witnesses to remember harm, altered persons to remember prior selves, and communities to remember disasters even when public explanation changes. It is not trying to destroy the world. It is trying to make forgetting spiritually impossible.
 
 The objective becomes dangerous when the Choir restores memory without knowing why it was suppressed. A recovered memory may contain a cognitohazard, a trigger phrase, a location still under containment, a false identity implanted for protection, or a detail that draws hostile GOIs toward survivors. The Choir accepts these risks more readily than A.C.T can allow.
 
-## Anomalous Capability Assessment
+### Anomalous Capability Assessment
 
 The Choir is assigned **Practitioner** capability because some rites produce repeatable memory effects beyond ordinary song, grief, or therapy. Confirmed or strongly assessed practices include:
 
@@ -175,7 +175,7 @@ The Choir is assigned **Practitioner** capability because some rites produce rep
 
 The Choir is not assessed as Engineering. It uses voices, breath, bells, written names, grief, cadence, and ritual repetition rather than manufactured devices.
 
-## Secrecy and Civilian Exposure
+### Secrecy and Civilian Exposure
 
 The Choir is **Exposure-Active** because its practice deliberately places erased names and memories back into communal circulation. It does not always publish A.C.T files, but it makes people remember what files were meant to contain. A public song can undo months of narrative management if enough witnesses recognize the missing line.
 
@@ -183,13 +183,13 @@ Civilian exposure is most severe at funerals, anniversaries, school memorials, h
 
 ---
 
-# OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
+## OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
 
-## Operational Regions
+### Operational Regions
 
 The Choir operates transnationally through memorial communities, hospitals, school grief circles, chapel basements, family networks, online hymn fragments printed before deletion, migrant survivor groups, missing-person vigils, and post-disaster neighborhoods. Site 03 is the primary review point because memory, testimony, information hazards, and archive instability are central. Site 01 attaches when urban public memorials and media coverage are active. Central Command attaches when a mass-recall event threatens normalcy doctrine.
 
-## Known Assets and Holdings
+### Known Assets and Holdings
 
 Known or assessed assets include:
 
@@ -208,7 +208,7 @@ Known or assessed assets include:
 
 A.C.T has recovered incomplete hymn sheets and inert ribbons. Complete active refrains are treated as hazardous until reviewed.
 
-## Operating Method
+### Operating Method
 
 A typical Choir intervention begins when a family, witness, or community believes the official story has removed someone. A Silence Breaker approaches quietly. The Choir collects the disputed name, nickname, voice recording, photograph, body description, last route, or dream fragment. A Cantor then builds a refrain that can be sung by relatives without needing full anomaly knowledge. If the rite works, witnesses may recover partial memory or a record may change.
 
@@ -225,9 +225,9 @@ A.C.T treats the final instruction as deliberate counter-containment practice.
 
 ---
 
-# HISTORY WITH A.C.T
+## HISTORY WITH A.C.T
 
-## Contact History
+### Contact History
 
 A.C.T first encountered the Choir as memorial irregularities after covered incidents. Names removed from public casualty lists appeared in songs. Families remembered sealed locations after vigils. Witnesses who had received mild memory treatment began describing sensory fragments after hearing specific hymn lines. Early cases were classified as leakage, poor amnestic coverage, or grief rumor.
 
@@ -239,7 +239,7 @@ The Choir later sent A.C.T a black-ribbon card reading:
 You buried the file. You did not bury the child.
 ```
 
-## Current Relationship
+### Current Relationship
 
 The current relationship is **NEGATIVE**. The Choir actively works against A.C.T memory control, normalcy narrative closure, and sealed casualty handling. It is not classified Negative because it loves harm. It is Negative because its practices can undo containment safeguards and expose witnesses to memory injuries.
 
@@ -247,19 +247,19 @@ A.C.T must maintain the distinction between grief and threat. Individual relativ
 
 ---
 
-# A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
+## A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
 
-## Responsible Jurisdiction
+### Responsible Jurisdiction
 
 Primary jurisdiction rests with Intelligence Division, Civil Covert Division, Subject Care Division, and Site 03 review. Medical Division attaches when recall causes seizure, dissociation, panic, identity rupture, or amnestic reversal. Recovery Division attaches when Choir records contain missing-person leads. Legal Liaison attaches when public funerals, school memorials, religious protections, or family rights restrict intervention.
 
-## Posture Implementation
+### Posture Implementation
 
 A.C.T posture is **INFILTRATE / MISDIRECT / CONTAIN**. Infiltration is authorized for identifying active cantors, hymn routes, name books, and planned mass-recall events. Misdirection is authorized when public memorials must be shifted away from hazardous refrain structure without insulting grief. Containment is authorized for active hymn sheets, bells, recordings, or rites that trigger dangerous recall, spread cognitohazardous content, reveal active Site locations, or destabilize treated witnesses.
 
 Subject Care must be present whenever possible. Interrupting a memorial without survivor support can strengthen Choir recruitment.
 
-## Response Limits and Red Lines
+### Response Limits and Red Lines
 
 A.C.T will not permit the Choir to perform active recall rites on minors, medically unstable survivors, amnestic patients under aftercare review, or communities still inside an active containment perimeter. A.C.T will not permit public singing of Site routes, entity triggers, restricted object methods, or sealed victim identities when disclosure endangers living families.
 
@@ -267,9 +267,9 @@ A.C.T will also not erase grief only to defeat the Choir. If a family can be giv
 
 ---
 
-# OPERATIONAL RECORDS
+## OPERATIONAL RECORDS
 
-## Restricted Operational Extract
+### Restricted Operational Extract
 
 ```text
 RECOVERED REFRAIN SHEET: CUN / NINTH REFRAIN WAKE
@@ -308,9 +308,9 @@ The card was left at an A.C.T temporary evidence office. No entry breach recorde
 
 ---
 
-# INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
+## INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
 
-## Confirmed Operational Facts
+### Confirmed Operational Facts
 
 - Choir of the Unforgotten Name is an outside cultic network and not an A.C.T body.
 - The Choir preserves and restores names, testimony, and memory fragments removed or damaged by anomaly events and institutional response.
@@ -318,13 +318,13 @@ The card was left at an A.C.T temporary evidence office. No entry breach recorde
 - Its members include grieving civilians and trained cultic practitioners; the two categories must not be collapsed.
 - The Choir's operational relationship to A.C.T is negative because it deliberately compromises memory control and normalcy closure.
 
-## Active Intelligence Assessment
+### Active Intelligence Assessment
 
 A.C.T assesses the Choir as a specialized NEGATIVE cultic GOI. It is dangerous because it is emotionally credible. A grieving parent is easier to recruit than a soldier. A song can carry where files cannot. A name can become a breach when enough people remember the wrong door.
 
 The Choir should not be written as cartoon evil. Its compassion is real. Its methods are unacceptable because it restores memory without adequate containment review. The strongest A.C.T response is not only force. It is better aftercare, protected memorial options, safer truth handling, and interruption of active harmful rites.
 
-## Persistent Questions
+### Persistent Questions
 
 - Did the Choir begin after an A.C.T amnestic failure, another containment authority's coverup, or an older religious memory tradition?
 - Are active refrains anomalous by wording, melody, number of singers, grief state, or presence of a true name?
@@ -334,19 +334,19 @@ The Choir should not be written as cartoon evil. Its compassion is real. Its met
 - Has the Choir ever intentionally triggered a dangerous memory in order to expose A.C.T?
 - Can A.C.T create protected memorial records that reduce recruitment without increasing public exposure?
 
-## Intelligence Confidence
+### Intelligence Confidence
 
 Moderate. Recovered refrain sheets, repeated phrases, witness effects, and organized memorial activity confirm institutional reality. Confidence is limited by oral transmission, incomplete active texts, protected family settings, and the difficulty of separating ordinary grief from trained ritual. Confidence may rise if A.C.T secures a full active hymn under controlled recording conditions, identifies a transnational cantor route, or confirms the origin of the Ninth Refrain.
 
 ---
 
-# CROSS-REFERENCE STATUS
+## CROSS-REFERENCE STATUS
 
-## Anomaly and Record Relationship
+### Anomaly and Record Relationship
 
 Choir of the Unforgotten Name is an organization and therefore belongs in the GOI archive. Individual hymns, bells, name books, recordings, black ribbons, child choir practices, memory shards, or memorial rooms may require separate anomaly, witness, amnestic, incident, or recovered-document files. The organization record must not replace survivor aftercare or family-notification review.
 
-## Related A.C.T Records
+### Related A.C.T Records
 
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
@@ -357,13 +357,13 @@ Choir of the Unforgotten Name is an organization and therefore belongs in the GO
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md`
 - Restricted amnestic, witness, memory-shard, memorial, missing-person, and post-incident identity case chains held under Central Archive routing.
 
-## Dual Filing
+### Dual Filing
 
 Under review. The Choir is a cultic GOI, but specific refrains, bells, name books, recordings, or memory-shard events may require separate filing. Dual filing is mandatory when a Choir asset produces recall without live singers, resists safe transcription, stores hazardous testimony, causes identity rupture, or restores information sealed under active containment order.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 ```text
 FILE CREATED:            13/09/2026

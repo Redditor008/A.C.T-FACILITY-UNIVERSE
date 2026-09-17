@@ -1,20 +1,20 @@
 # A.C.T FACILITY ARCHIVE FILE
-## AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM
+### AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM
 
 **Archive Status:** Active Working Form  
 **Distribution:** Medical Care Division / Civil Covert Division / Archiver Division / Site Command / Subject Care Division  
 **Authority:** Medical Care Division, Civil Covert Division, and Central Archive  
 
-### Archive Note
+#### Archive Note
 This form governs the review, authorization, administration, and aftercare record for amnestic use. It exists because memory treatment is not a cleanup tool. It is an intervention against a person's continuity, and every intervention leaves an institutional trace even when the person no longer remembers the reason.
 
 The 004-series amnestic lineage demonstrates that A.C.T can transform anomalous material into operational protection. It also demonstrates that protection can become habit. This form is designed to make that habit visible.
 
 ---
 
-# AMNESTIC REVIEW FOUNDATION
+## AMNESTIC REVIEW FOUNDATION
 
-## 1. Use Conditions
+### 1. Use Conditions
 
 Use this form whenever A.C.T considers, approves, denies, administers, withholds, reverses, audits, or follows up on memory alteration.
 
@@ -39,7 +39,7 @@ A denied amnestic request must still be recorded if the request reached Medical 
 
 ---
 
-## 2. Review Header
+### 2. Review Header
 
 ```text
 AMNESTIC REVIEW ID:
@@ -69,7 +69,7 @@ If the person cannot safely be named, use the sealed identifier already establis
 
 ---
 
-## 3. Person Category
+### 3. Person Category
 
 Mark all applicable categories.
 
@@ -97,7 +97,7 @@ Person category affects safeguards. It does not erase personhood. A.C.T may alte
 
 ---
 
-## 4. Request Reason
+### 4. Request Reason
 
 ```text
 PRIMARY REQUEST REASON:
@@ -124,7 +124,7 @@ The request must describe the memory or exposure condition to be treated. "Knows
 
 ---
 
-## 5. Memory Scope Assessment
+### 5. Memory Scope Assessment
 
 ```text
 MEMORY TARGET:
@@ -158,7 +158,7 @@ Some memories are load-bearing. Removing them may break grief processing, locati
 
 ---
 
-## 6. Amnestic Grade and Method
+### 6. Amnestic Grade and Method
 
 ```text
 PROPOSED AMNESTIC GRADE:
@@ -181,7 +181,7 @@ If 004-series material or NEMNOLIA-lineage derivatives are involved, the review 
 
 ---
 
-## 7. Partial Truth Shard Review
+### 7. Partial Truth Shard Review
 
 A **partial truth shard** is a controlled fragment of truth left intact because full erasure would cause worse instability, obsession, grief collapse, pattern-seeking behavior, subject-care failure, or recurring exposure.
 
@@ -203,7 +203,7 @@ A partial truth shard is not mercy by default. It is controlled damage left visi
 
 ---
 
-## 8. Consent, Refusal, and Authority
+### 8. Consent, Refusal, and Authority
 
 ```text
 PERSON CAPABLE OF CONSENT:
@@ -224,7 +224,7 @@ A.C.T may administer amnestics without consent under restricted authority. The f
 
 ---
 
-## 9. Administration Record
+### 9. Administration Record
 
 ```text
 ADMINISTRATION APPROVED:
@@ -255,7 +255,7 @@ False memory insertion requires its own justification. A blank space may be safe
 
 ---
 
-## 10. Post-Amnestic Aftercare
+### 10. Post-Amnestic Aftercare
 
 ```text
 AFTERCARE REQUIRED:
@@ -286,7 +286,7 @@ Aftercare belongs to the person, not to the cover story. A successful public nar
 
 ---
 
-## 11. Personnel Repeated-Use Review
+### 11. Personnel Repeated-Use Review
 
 Complete when the person is A.C.T personnel, contractor, embedded liaison, E-Class, or recurring witness.
 
@@ -309,7 +309,7 @@ A person cannot be made safe for repeated harm by repeatedly removing the memory
 
 ---
 
-## 12. GOI Exposure Attachment
+### 12. GOI Exposure Attachment
 
 Complete when memory treatment is tied to a Group of Interest.
 
@@ -338,7 +338,7 @@ Some GOI words are hooks. Some are evidence. Some are both.
 
 ---
 
-## 13. Archive and Narrative Closure
+### 13. Archive and Narrative Closure
 
 ```text
 TRUE EVENT RECORD UPDATED:
@@ -359,7 +359,7 @@ A.C.T must preserve both the treatment and the reason for treatment. If the arch
 
 ---
 
-## 14. Red Lines
+### 14. Red Lines
 
 A.C.T will not:
 
@@ -375,7 +375,7 @@ A.C.T will not:
 
 ---
 
-## 15. Blank Field Copy
+### 15. Blank Field Copy
 
 ```text
 A.C.T FACILITY ARCHIVE FILE
@@ -527,7 +527,7 @@ CLOSING DATE:
 
 ---
 
-## File Metadata
+### File Metadata
 
 ```text
 FILE CREATED:        12/09/2026

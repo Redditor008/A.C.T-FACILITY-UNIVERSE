@@ -1,5 +1,5 @@
 # A.C.T CENTRAL ARCHIVE
-# IN-WORLD EXPLANATION — ANOMALY LOG CATEGORIES
+## IN-WORLD EXPLANATION — ANOMALY LOG CATEGORIES
 
 Document Authority: Central Archive Administration  
 Applicable Divisions: Archiver Division, Field Containment Division, Research Review, Site Command  
@@ -8,7 +8,7 @@ Status: Active Archive Standard
 
 ---
 
-## 1. Purpose of Anomaly Log Categories
+### 1. Purpose of Anomaly Log Categories
 
 An A.C.T anomaly file is designed to answer the minimum operational questions:
 
@@ -28,7 +28,7 @@ The main anomaly file remains the official containment reference. The log catego
 
 ---
 
-## 2. Why Logs Are Grouped Into Categories
+### 2. Why Logs Are Grouped Into Categories
 
 Early A.C.T archive practice stored every log as an independent document. This created several problems:
 
@@ -50,9 +50,9 @@ This keeps archive structure readable, operationally useful, and harder for reco
 
 ---
 
-## 3. Difference Between Main File and Log Category Document
+### 3. Difference Between Main File and Log Category Document
 
-### Main Anomaly File
+#### Main Anomaly File
 
 The main anomaly file is the active containment document. It should be concise enough to support operational use.
 
@@ -74,7 +74,7 @@ The main file answers:
 
 > What does A.C.T currently believe, and what must personnel do?
 
-### Log Category Document
+#### Log Category Document
 
 A log category document is a supporting archive record. It may be longer, more detailed, and more chronological.
 
@@ -97,7 +97,7 @@ The log category document answers:
 
 ---
 
-## 4. Primary A.C.T Log Categories
+### 4. Primary A.C.T Log Categories
 
 A.C.T currently recognizes twelve standard anomaly log categories.
 
@@ -105,15 +105,15 @@ These categories are not containment classes. They are archive organization type
 
 ---
 
-# CATEGORY I — Recovery & Discovery Dossier
+## CATEGORY I — Recovery & Discovery Dossier
 
-## Function
+### Function
 
 A Recovery & Discovery Dossier records how A.C.T first detected, verified, approached, recovered, transported, or stabilized an anomaly.
 
 It is used to preserve the first chain of custody.
 
-## Common Contents
+### Common Contents
 
 - Discovery Log
 - Recovery Log
@@ -127,7 +127,7 @@ It is used to preserve the first chain of custody.
 - After-Action Report
 - First Stabilization Log
 
-## Used When
+### Used When
 
 - the anomaly was found in public
 - civilian witnesses were involved
@@ -135,7 +135,7 @@ It is used to preserve the first chain of custody.
 - the anomaly was unstable during intake
 - future review may need to know exactly how A.C.T first encountered it
 
-## Archive Use
+### Archive Use
 
 Recovery & Discovery Dossiers are often the first supplementary documents attached to a new anomaly file.
 
@@ -151,15 +151,15 @@ This file would contain the alleyway recovery, low-metabolism condition, first-c
 
 ---
 
-# CATEGORY II — Interview & Testimony Dossier
+## CATEGORY II — Interview & Testimony Dossier
 
-## Function
+### Function
 
 An Interview & Testimony Dossier records statements from sentient anomalies, affected subjects, personnel, civilian witnesses, survivors, or related parties.
 
 It preserves how individuals describe an anomaly from inside the event.
 
-## Common Contents
+### Common Contents
 
 - Interview Log
 - Interview Transcript
@@ -172,7 +172,7 @@ It preserves how individuals describe an anomaly from inside the event.
 - First-Wake Conversation
 - Psychological Review Transcript
 
-## Used When
+### Used When
 
 - the anomaly speaks
 - witness memory changes over time
@@ -180,7 +180,7 @@ It preserves how individuals describe an anomaly from inside the event.
 - the anomaly appears as a familiar figure
 - personnel interpretation affects containment
 
-## Archive Use
+### Archive Use
 
 Interview & Testimony Dossiers are valuable when the truth of the anomaly is not fully visible through sensors.
 
@@ -194,15 +194,15 @@ This file would preserve first-hour survivor accounts before the memory-softenin
 
 ---
 
-# CATEGORY III — Experiment & Testing Dossier
+## CATEGORY III — Experiment & Testing Dossier
 
-## Function
+### Function
 
 An Experiment & Testing Dossier records controlled interaction with an anomaly.
 
 It is used to determine triggers, limits, safe handling rules, exposure thresholds, and containment weaknesses.
 
-## Common Contents
+### Common Contents
 
 - Test Log
 - Experiment Log
@@ -217,7 +217,7 @@ It is used to determine triggers, limits, safe handling rules, exposure threshol
 - Cross-Anomaly Test
 - Failed Test Report
 
-## Used When
+### Used When
 
 - the anomaly has measurable activation conditions
 - personnel need safe exposure limits
@@ -225,7 +225,7 @@ It is used to determine triggers, limits, safe handling rules, exposure threshol
 - the anomaly is being studied for transformation viability
 - A.C.T must know what not to do
 
-## Archive Use
+### Archive Use
 
 Testing Dossiers should be written carefully. Failed tests are often more important than successful ones.
 
@@ -239,15 +239,15 @@ This file records baseline intake, digital revision attempts, erasure tests, cop
 
 ---
 
-# CATEGORY IV — Incident & Breach Dossier
+## CATEGORY IV — Incident & Breach Dossier
 
-## Function
+### Function
 
 An Incident & Breach Dossier records containment failures, unexpected activations, operational mistakes, exposure events, and emergency responses.
 
 It is used to prevent repeat failures.
 
-## Common Contents
+### Common Contents
 
 - Incident Log
 - Incident Report
@@ -262,7 +262,7 @@ It is used to prevent repeat failures.
 - Post-Incident Interview
 - Disciplinary Review
 
-## Used When
+### Used When
 
 - containment fails
 - personnel are exposed
@@ -270,7 +270,7 @@ It is used to prevent repeat failures.
 - procedure is changed because of an event
 - an anomaly enters a dangerous state
 
-## Archive Use
+### Archive Use
 
 Incident & Breach Dossiers must include enough detail for future staff to understand what failed.
 
@@ -286,15 +286,15 @@ This file would record a Stage Two activation, security response, exclusion-zone
 
 ---
 
-# CATEGORY V — Exploration & Survey Dossier
+## CATEGORY V — Exploration & Survey Dossier
 
-## Function
+### Function
 
 An Exploration & Survey Dossier records movement through anomalous spaces, structures, zones, routes, or environments.
 
 It is used when the anomaly is a place, creates a place, changes routes, or affects navigation.
 
-## Common Contents
+### Common Contents
 
 - Exploration Log
 - Survey Log
@@ -309,7 +309,7 @@ It is used when the anomaly is a place, creates a place, changes routes, or affe
 - Lost-Team Transcript
 - Expedition After-Action Report
 
-## Used When
+### Used When
 
 - the anomaly is spatial
 - terrain changes
@@ -317,7 +317,7 @@ It is used when the anomaly is a place, creates a place, changes routes, or affe
 - a field team enters an unknown area
 - drones or personnel survey a location
 
-## Archive Use
+### Archive Use
 
 Exploration Dossiers should preserve uncertainty. If a route contradicts itself, the contradiction should be documented rather than corrected too quickly.
 
@@ -331,15 +331,15 @@ This file would collect route surveys, drone mapping, corridor contradictions, a
 
 ---
 
-# CATEGORY VI — Research & Analysis Dossier
+## CATEGORY VI — Research & Analysis Dossier
 
-## Function
+### Function
 
 A Research & Analysis Dossier records scientific review, classification debate, theory development, and long-term study.
 
 It is used when the anomaly's meaning or mechanics remain uncertain.
 
-## Common Contents
+### Common Contents
 
 - Research Log
 - Analysis Report
@@ -354,7 +354,7 @@ It is used when the anomaly's meaning or mechanics remain uncertain.
 - Archive Contradiction Report
 - Cross-Reference Log
 
-## Used When
+### Used When
 
 - classification is uncertain
 - recovered evidence requires interpretation
@@ -362,7 +362,7 @@ It is used when the anomaly's meaning or mechanics remain uncertain.
 - A.C.T divisions disagree
 - the anomaly connects to larger doctrine
 
-## Archive Use
+### Archive Use
 
 Research Dossiers should distinguish confirmed facts from active theories.
 
@@ -378,15 +378,15 @@ This file would analyze future-origin evidence, cybernetic systems, non-combatan
 
 ---
 
-# CATEGORY VII — Recovered Document & Archive Dossier
+## CATEGORY VII — Recovered Document & Archive Dossier
 
-## Function
+### Function
 
 A Recovered Document & Archive Dossier preserves documents, files, notes, images, recordings, manuals, or data recovered with or because of an anomaly.
 
 It is used when the evidence itself matters.
 
-## Common Contents
+### Common Contents
 
 - Recovered Document
 - Archive Copy
@@ -402,7 +402,7 @@ It is used when the evidence itself matters.
 - File Integrity Review
 - Translation Notes
 
-## Used When
+### Used When
 
 - the anomaly includes a document
 - a recovered file contains important context
@@ -410,7 +410,7 @@ It is used when the evidence itself matters.
 - old records contradict current history
 - the archive object must be separated from interpretation
 
-## Archive Use
+### Archive Use
 
 Recovered Document Dossiers preserve what was found before A.C.T fully interprets it.
 
@@ -433,15 +433,15 @@ This file would contain excerpts from `Vesper_Full_Master_Database.pdf`, includi
 
 ---
 
-# CATEGORY VIII — Behavioral & Observation Dossier
+## CATEGORY VIII — Behavioral & Observation Dossier
 
-## Function
+### Function
 
 A Behavioral & Observation Dossier records repeated behavior, care notes, habits, routines, responses, and long-term monitoring.
 
 It is used for subjects whose containment depends on understanding behavior rather than simply locking them away.
 
-## Common Contents
+### Common Contents
 
 - Observation Log
 - Behavioral Log
@@ -456,7 +456,7 @@ It is used for subjects whose containment depends on understanding behavior rath
 - Welfare Review
 - Long-Term Monitoring Log
 
-## Used When
+### Used When
 
 - the anomaly is alive or behaves like it is alive
 - emotional state affects containment
@@ -464,7 +464,7 @@ It is used for subjects whose containment depends on understanding behavior rath
 - care procedures matter
 - the anomaly learns or changes over time
 
-## Archive Use
+### Archive Use
 
 Behavioral Dossiers are not informal diaries. They are containment tools.
 
@@ -480,15 +480,15 @@ This file would document feeding response, nuisance escalation, staff interactio
 
 ---
 
-# CATEGORY IX — Transformation & Utilization Dossier
+## CATEGORY IX — Transformation & Utilization Dossier
 
-## Function
+### Function
 
 A Transformation & Utilization Dossier records A.C.T attempts to stabilize, neutralize, repurpose, integrate, or reject use of an anomaly.
 
 It is used when the question is not only “how do we contain it?” but “can it become useful or safer?”
 
-## Common Contents
+### Common Contents
 
 - Transformation Log
 - Repurposing Trial
@@ -502,7 +502,7 @@ It is used when the question is not only “how do we contain it?” but “can 
 - Contained-Study Progress Log
 - Prohibited Use Notice
 
-## Used When
+### Used When
 
 - A.C.T wants to use the anomaly
 - the anomaly may become a tool, medicine, asset, or infrastructure component
@@ -510,7 +510,7 @@ It is used when the question is not only “how do we contain it?” but “can 
 - transformation failed
 - use is prohibited but repeatedly proposed
 
-## Archive Use
+### Archive Use
 
 Transformation Dossiers must preserve failed attempts and rejected proposals.
 
@@ -526,15 +526,15 @@ This file would record sap extraction, amnestic compound development, stabilizat
 
 ---
 
-# CATEGORY X — Communication & Internal Correspondence Dossier
+## CATEGORY X — Communication & Internal Correspondence Dossier
 
-## Function
+### Function
 
 A Communication & Internal Correspondence Dossier records internal messages, command decisions, interdepartmental disputes, authorization requests, and administrative reactions.
 
 It is used when bureaucracy is part of the containment story.
 
-## Common Contents
+### Common Contents
 
 - Email Log
 - Internal Memo
@@ -549,7 +549,7 @@ It is used when bureaucracy is part of the containment story.
 - Meeting Transcript
 - Denial / Approval Notice
 
-## Used When
+### Used When
 
 - departments disagree
 - command decisions matter
@@ -557,7 +557,7 @@ It is used when bureaucracy is part of the containment story.
 - ethics review affects containment
 - archive politics hide or reveal important information
 
-## Archive Use
+### Archive Use
 
 Internal Correspondence Dossiers are often restricted because they reveal A.C.T decision-making rather than anomaly behavior alone.
 
@@ -571,15 +571,15 @@ This file would preserve command arguments over whether A.C.T should interfere w
 
 ---
 
-# CATEGORY XI — Audio / Video / Sensor Dossier
+## CATEGORY XI — Audio / Video / Sensor Dossier
 
-## Function
+### Function
 
 An Audio / Video / Sensor Dossier preserves recorded evidence where timing, image, sound, or instrument readings are central.
 
 It is used when the record is more important than a written summary.
 
-## Common Contents
+### Common Contents
 
 - Audio Log
 - Video Log
@@ -594,7 +594,7 @@ It is used when the record is more important than a written summary.
 - Visual Analysis Report
 - Signal Reconstruction
 
-## Used When
+### Used When
 
 - the anomaly is visible only on footage
 - timestamps contradict reality
@@ -602,7 +602,7 @@ It is used when the record is more important than a written summary.
 - sensor readings reveal hidden behavior
 - personnel perception cannot be trusted
 
-## Archive Use
+### Archive Use
 
 Sensor Dossiers should include analyst notes explaining what the recording does and does not prove.
 
@@ -616,13 +616,13 @@ This file would preserve feeding footage, shadow mapping, CCTV timestamps, and v
 
 ---
 
-# CATEGORY XII — Personal & Recovered Journal Dossier
+## CATEGORY XII — Personal & Recovered Journal Dossier
 
-## Function
+### Function
 
 A Personal & Recovered Journal Dossier preserves subjective writing, personal logs, diaries, field notebooks, and anomaly-authored or affected journal entries.
 
-## Common Contents
+### Common Contents
 
 - Personal Log
 - Recovered Journal
@@ -636,7 +636,7 @@ A Personal & Recovered Journal Dossier preserves subjective writing, personal lo
 - Private Audio Note
 - Fragmented Memory Log
 
-## Used When
+### Used When
 
 - memory changes
 - dreams matter
@@ -644,7 +644,7 @@ A Personal & Recovered Journal Dossier preserves subjective writing, personal lo
 - the anomaly writes or causes writing
 - official summaries cannot capture subjective progression
 
-## Archive Use
+### Archive Use
 
 Personal Dossiers are not automatically less reliable than formal reports. In some anomalies, subjective records are the only evidence that survives alteration.
 
@@ -658,7 +658,7 @@ This file would preserve pre-feeding dream records, post-slumber notes, and care
 
 ---
 
-## 5. Category Selection Rule
+### 5. Category Selection Rule
 
 Choose a category based on the main purpose of the supporting document.
 
@@ -736,7 +736,7 @@ Personal & Recovered Journal Dossier
 
 ---
 
-## 6. Dossier Naming Standard
+### 6. Dossier Naming Standard
 
 Dossier filenames should follow this structure:
 
@@ -773,7 +773,7 @@ The category should be short but clear:
 
 ---
 
-## 7. Archive Warning
+### 7. Archive Warning
 
 Supplementary dossiers are not optional clutter.
 

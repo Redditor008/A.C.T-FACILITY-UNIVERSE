@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - SUSPENDED VAULT MOUNTING SYSTEM
+### TECHNOLOGY RECORD - SUSPENDED VAULT MOUNTING SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Containment / Engineering / Security / Deep-Hold Command / Medical / Archive  
 **Authority:** Containment Division, Engineering Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 The Suspended Vault Mounting System is the sixty-first main A.C.T technology expanded into an individual record. Redwood Veil's F-1 floor dossier identifies The Hanging Vault as a deep high-inviolability floor where primary resident vaults are suspended inside structural shafts rather than seated on the floor slab. The dossier states that each vault is anchored from above and below by dampened mountings so seismic transmission, structural vibration, and the surrounding floor fabric do not directly carry into the resident housing.
 
 SVMS is the reason the Hanging Vault has its name. The vaults do not simply sit beneath the site. They hang, held in balance between structure, procedure, and the refusal to let one floor's movement become a resident's opportunity.
@@ -47,7 +47,7 @@ A HANGING VAULT MUST NEVER BE ALLOWED TO SWING LIKE A DOOR.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 The Suspended Vault Mounting System is the shaft, anchor, damper, and service architecture used to suspend primary F-1 resident vaults within individual structural shafts. Its primary function is to isolate each vault from seismic movement, building vibration, floor stress, neighboring vault behavior, and direct transmission through the surrounding concrete or stone. It turns the vault cell into an independent containment problem rather than a room sharing the same slab as everything else.
 
@@ -57,7 +57,7 @@ Approved roles include high-inviolability vault suspension, resident-specific vi
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 F-1 was not always the Hanging Vault. Redwood Veil's deepest level began as general deep storage before the complex was elevated into a regional site and its most difficult holdings were transferred into the buried core. As resident risk increased, ordinary room containment became insufficient. The site needed vaults that did not share failure through a common floor.
 
@@ -65,7 +65,7 @@ The hanging arrangement developed from that need. By suspending primary resident
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard SVMS installation includes a dedicated vault shaft, upper anchor frame, lower tension frame, dampened mountings, structural witness lines, vibration sensors, access isolation points, service-flex routes, and a floor-side inspection gallery. The vault body itself varies by resident. The mounting system must therefore be designed around the resident's restriction set, expected movement, environmental load, observation limits, and closure behavior.
 
@@ -86,7 +86,7 @@ The emergency lowering denial lock exists because not every crisis is solved by 
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before inspection, Containment confirms the resident's restriction set and whether the vault may be approached, viewed, named, or mechanically disturbed. Engineering confirms mount load, damper condition, shaft movement, service-flex tension, and vibration history. Security controls gallery access. Medical prepares cognitive support when the resident has memetic or perceptual components.
 
@@ -96,7 +96,7 @@ After inspection, the shaft log, mount condition, resident-state note, and any s
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 SVMS is a containment support system, not a resident restraint by itself. It cannot prevent a resident from acting through observation, language, memory, heat, gravity, or file influence. It can also become dangerous if staff treat suspension as stability. A vault that hangs well can still fail through a service line, access path, or resident-specific rule.
 
@@ -104,20 +104,20 @@ Known failure modes include damper fatigue, anchor creep, lower-frame tension dr
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## SVMS-Hanging Name Preservation
+### SVMS-Hanging Name Preservation
 The identity of the staff member who first called F-1 The Hanging Vault is not preserved. The term remains because it accurately describes the suspended resident-vault arrangement and the duty psychology of the floor.
 
-## SVMS-Elevation Retrofit Period
+### SVMS-Elevation Retrofit Period
 During Redwood Veil's elevation to regional status, difficult holdings moved into the deep core and F-1 was reinforced around resident-specific vault cells. The period established suspension as the floor's defining architecture rather than a later decorative feature.
 
-## SVMS-Service Route Strain Review
+### SVMS-Service Route Strain Review
 A maintenance review found that a service-flex route can carry stress into a suspended vault if installed with too little slack. Engineering revised inspection doctrine so mount checks and service-route checks are performed together.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Containment defines resident-specific requirements and regimen compatibility. Engineering designs, inspects, and repairs mount systems. Security controls access to shaft galleries and inspection routes. Deep-Hold Command coordinates SVMS behavior during F-1 closure. Medical supports staff assigned to residents with perceptual or memetic risk. Archive preserves inspection history because mount drift is part of resident history.
 
@@ -125,7 +125,7 @@ Standing reminder: the vault hangs so the floor does not speak directly to what 
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-01-US-W-F-1 The Hanging Vault Floor Dossier;
 - TECH-ACT-058 - F-1 Closure System;
@@ -137,7 +137,7 @@ Standing reminder: the vault hangs so the floor does not speak directly to what 
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can a resident learn to influence the shaft through the mounting rhythm?
 - Which vault types should never be lowered even during structural failure?
@@ -148,7 +148,7 @@ Standing reminder: the vault hangs so the floor does not speak directly to what 
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Deep-Hold Command / Engineering Division / Central Archive  

@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - DEEP MONITORING PROCESSING CENTER
+### TECHNOLOGY RECORD - DEEP MONITORING PROCESSING CENTER
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Seismic Analysis / Archive / Research / Containment / Nusantara Deep Relay
 **Authority:** Records and Monitoring Chief, Seismic Analysis Support, and Central Archive
 
-### Archive Note
+#### Archive Note
 Deep Monitoring Processing Center is the seventieth main A.C.T technology expanded into an individual record. The F-2 Deep Monitoring and Restricted Records dossier identifies F-2 as the level where Nusantara's deepest observations are processed, recorded, distributed under sensitivity rules, and sealed where records demand it. The dossier identifies the monitoring processing center as the place where signals from the F-1 sensor nexus are processed, assessed, and distributed under records doctrine.
 
 DMPC exists because listening below the island is not enough. A signal must become a controlled operational fact before it can guide containment.
@@ -47,7 +47,7 @@ NO DEEP WARNING MOVES WITHOUT A RECORD PATH.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 The Deep Monitoring Processing Center is the F-2 operational system that receives deep observations from F-1, verifies their source state, compares them with site and regional baselines, assigns sensitivity routing, and sends approved outputs to containment, research, archive, command, or restricted review. It is the relay's workbench for turning the Deep Listening Vault's signal stream into controlled decisions.
 
@@ -57,7 +57,7 @@ Approved roles include observation processing, event classification, sensor-heal
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Nusantara's deep-earth mandate created a constant stream of readings: ordinary seismic motion, volcanic patterning, marine impacts, sensor noise, resident-related events, and signals that could not immediately be explained. The relay required a dedicated floor to process these readings because ordinary site command channels were not built to handle the volume or sensitivity of deep observation.
 
@@ -65,7 +65,7 @@ F-2 developed as the relay's memory and processing level. The monitoring center 
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A DMPC installation includes analyst desks, event classification boards, signal ingest terminals, sensor-health panels, baseline comparison stations, routing gates, sealed-session recorders, F-1 communication channels, F-3 operational notification links, and Central Archive package interfaces. The room is arranged so that analysts can separate immediate operational alarms from long-pattern review without losing custody of either.
 
@@ -86,7 +86,7 @@ No processed event is considered complete until its routing decision is logged.
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 During live watch, DMPC receives readings from F-1 and confirms that the incoming event has a stable source trail. Analysts compare readings against ordinary geology, facility vibration, marine activity, resident movement, weather, equipment state, and known restricted patterns. Every event is marked with a classification and confidence level before distribution.
 
@@ -96,7 +96,7 @@ Routine processing may be fast. Restricted processing is not allowed to be carel
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 DMPC depends on the quality of incoming data and the discipline of its analysts. It can misclassify ordinary geology as anomalous, downgrade an anomaly as weather, or route a sensitive observation into the wrong file stream. Pressure from urgent command needs can also push staff toward premature certainty.
 
@@ -104,20 +104,20 @@ Known failure modes include event backlog, analyst fatigue, baseline drift, sens
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## DMPC-F-2 Establishment Review
+### DMPC-F-2 Establishment Review
 The F-2 dossier identifies the processing center as the location where signals from the sensor nexus below are processed, assessed, and distributed. DMPC was formalized to make this work a controlled technology rather than an informal analyst practice.
 
-## DMPC-Restriction Escalation Notice
+### DMPC-Restriction Escalation Notice
 A deep-earth event that first resembled ordinary volcanic motion later developed restricted correlation markers. Current procedure requires DMPC to keep provisional classifications attached to the record so later escalation does not lose the original reasoning.
 
-## DMPC-Backlog Drill
+### DMPC-Backlog Drill
 A simulated storm, volcanic pulse, and chamber alarm produced more events than one watch cell could classify within standard time. DMPC now maintains split-lane processing for immediate containment alerts and slower restricted review candidates.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Seismic Analysis operates DMPC as a live processing room. Archive personnel use its packages to preserve controlled records. Research receives approved data for interpretation. Containment receives actionable warnings. Security controls access to the center and its restricted pre-gates. Site Command uses DMPC output to decide whether the relay's watch requires operational posture changes.
 
@@ -125,7 +125,7 @@ DMPC doctrine holds that observation becomes useful only when it is processed wi
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-05-ID-C-F-2 Deep Monitoring and Restricted Records Floor Dossier;
 - ACT-SITE-05-ID-C-F-1 The Deep Listening Vault Floor Dossier;
@@ -136,7 +136,7 @@ DMPC doctrine holds that observation becomes useful only when it is processed wi
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which event types should bypass slow review and reach Containment immediately?
 - Can repeated ordinary tremors become anomalous only as a pattern?
@@ -147,7 +147,7 @@ DMPC doctrine holds that observation becomes useful only when it is processed wi
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15
 **Author Desk:** Seismic Analysis Support / Records and Monitoring Chief / Central Archive

@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - RESTRICTED RECORDS VAULTS
+### TECHNOLOGY RECORD - RESTRICTED RECORDS VAULTS
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Central Archive / Seismic Analysis / Security / Nusantara Deep Relay / Restricted Review Chain
 **Authority:** Central Archive, Restricted Review Chain, and Nusantara Site Command
 
-### Archive Note
+#### Archive Note
 Restricted Records Vaults are the seventy-second main A.C.T technology expanded into an individual record. The F-2 Deep Monitoring and Restricted Records dossier identifies restricted records vaults as holding the partially sealed deep-earth files: records routed under abyss-related review standards, sealed under the review chain, and accessible only under the restrictions the review chain imposes. These records may correlate with the structure beneath the Primary Facility and are not released by ordinary site authority.
 
 RRV exists because some files do not become safer when hidden badly. They become safer when the seal has rules, witnesses, and a memory of who tried to open it.
@@ -47,7 +47,7 @@ A SEALED RECORD STILL HAS TO BREATHE ENOUGH TO BE AUDITED.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Restricted Records Vaults are F-2 archival containment rooms and data-custody systems for partially sealed deep-earth files. They protect records that are too sensitive for ordinary seismic archive circulation but still required for review, comparison, containment action, and institutional memory. The vaults maintain physical security, access authorization, environmental preservation, release gating, seal-state records, and restricted review chain custody.
 
@@ -57,7 +57,7 @@ Approved roles include partially sealed file storage, access attempt logging, co
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 F-2 became responsible for the relay's deepest records as Nusantara's observations began intersecting with abyss-related review standards. Ordinary records storage could preserve data, but it could not decide who was allowed to know that a record existed, who could compare it, when it could be copied, or how it should be sealed after partial review.
 
@@ -65,7 +65,7 @@ RRV developed to answer those questions through infrastructure. The vaults allow
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 An RRV installation includes access-gated vault rooms, seal-state panels, review-chain authorization locks, QNB-aware file capsules, environmental preservation controls, dual-ledger access recorders, comparison-denial terminals, escorted reading stations, and emergency lockout shutters. Physical files, data packages, analyst notes, and correlation markers are kept together unless the review chain authorizes separation.
 
@@ -86,7 +86,7 @@ The partial-seal audit tag records whether a file is closed, partially opened, c
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 A file enters RRV custody after DMPC, ALORS, or the Records and Monitoring Chief identifies restricted review need. Archive personnel verify the file package, source trail, sensitivity marker, access limits, and review-chain authority. The vault records the file's initial seal state before storage.
 
@@ -96,7 +96,7 @@ If unauthorized access is attempted, the vault locks the file family and alerts 
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 RRV controls files, not minds. It cannot remove knowledge already learned by an authorized reader. It cannot decide whether fear of a record is justified. It may also delay useful action if staff over-seal material that Containment needs quickly. The vault is a safeguard against circulation, not an excuse for paralysis.
 
@@ -104,20 +104,20 @@ Known failure modes include false authorization, stale clearance, seal-state mis
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## RRV-Abyss-Related Review Formation
+### RRV-Abyss-Related Review Formation
 The F-2 dossier states that partially sealed deep-earth files are routed under abyss-related review standards and administered beyond normal site governance. RRV was formalized to give that restriction a physical and archival home.
 
-## RRV-Partial Opening Review
+### RRV-Partial Opening Review
 A sealed record once required limited comparison with ordinary seismic files. The comparison was valid, but the file returned to storage without a clear seal-state update. Current RRV procedure requires every partial opening to change or reaffirm the seal tag before closure.
 
-## RRV-Emergency Access Drill
+### RRV-Emergency Access Drill
 A simulated containment warning required rapid opening of a restricted file. Security granted the route, but Archive delayed the audit packet. Current drill standards require emergency access and audit creation to occur in the same action chain.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Central Archive controls vault custody and seal-state audit. The restricted review chain controls authority over opening, copying, downgrading, and transfer. Seismic Analysis provides technical interpretation under approved access. Research receives only approved extracts or escorted review. Security guards entry, response, and unauthorized access incidents. Site Command may request emergency opening but cannot erase the review chain from the record.
 
@@ -125,7 +125,7 @@ RRV doctrine holds that secrecy is only useful when it remains accountable.
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-05-ID-C-F-2 Deep Monitoring and Restricted Records Floor Dossier;
 - ACT-SITE-05-ID-C-F-1 The Deep Listening Vault Floor Dossier;
@@ -136,7 +136,7 @@ RRV doctrine holds that secrecy is only useful when it remains accountable.
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can a partially sealed file influence interpretation simply because analysts know it exists?
 - How often should sealed records be re-reviewed for downgrade without creating circulation risk?
@@ -147,7 +147,7 @@ RRV doctrine holds that secrecy is only useful when it remains accountable.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15
 **Author Desk:** Central Archive / Restricted Review Chain / Nusantara Deep Relay

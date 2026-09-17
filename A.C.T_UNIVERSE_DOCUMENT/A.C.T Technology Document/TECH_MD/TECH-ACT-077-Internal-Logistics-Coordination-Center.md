@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - INTERNAL LOGISTICS COORDINATION CENTER
+### TECHNOLOGY RECORD - INTERNAL LOGISTICS COORDINATION CENTER
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Administration / Logistics / Recovery / Containment / Research / Security / Nusantara Deep Relay
 **Authority:** Relay Administration, Site Director, and Central Archive
 
-### Archive Note
+#### Archive Note
 Internal Logistics Coordination Center is the seventy-seventh main A.C.T technology expanded into an individual record. The F-5 Personnel and Command Level dossier identifies the relay's internal logistics center as the system coordinating movement of material, equipment, and personnel within the built installation and supporting Nusantara's far-flung maritime and monitoring operations.
 
 ILCC exists because a site can lose containment without a breach if the wrong tool, person, sample, or order reaches the wrong floor at the wrong time.
@@ -47,7 +47,7 @@ NOTHING MOVES INSIDE THE RELAY WITHOUT A REASON THAT CAN BE FOUND LATER.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 The Internal Logistics Coordination Center is the F-5 system that schedules, authorizes, tracks, and reconciles movement inside Nusantara Deep Relay. It governs equipment deliveries, personnel routing, sample movement, chamber support supplies, medical support requests, restricted record escorts, port handoff support, and emergency resupply between surface, command, research, holding, monitoring, and vault levels.
 
@@ -57,7 +57,7 @@ Approved roles include personnel movement scheduling, internal material custody,
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Nusantara's island setting forced logistics to become formal. The site supports surface research, command housing, laboratories, maritime holding, restricted records, deep sensor systems, port facilities, vessels, and submersible platforms. Material can arrive from a ship, move through transition, reach F-4 for study, descend to F-3 for holding support, or be sealed through F-2 under review. Casual movement would create confusion and exposure.
 
@@ -65,7 +65,7 @@ F-5 became the natural home for ILCC because it is both personnel center and com
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 An ILCC installation includes movement boards, route authorization consoles, cargo and personnel ledgers, floor readiness feeds, escort request stations, emergency supply maps, port handoff trackers, sample custody drawers, medical support dispatch links, and incident reconstruction files. It is connected to command communications but maintains its own custody record so movement history does not vanish inside orders.
 
@@ -86,7 +86,7 @@ ILCC must know the difference between movement that is convenient and movement t
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Routine movement requests include item or personnel identity, origin, destination, purpose, clearance, escort need, environmental requirement, timing, and return condition. ILCC checks floor status, security posture, and any active incidents before issuing movement authorization. Restricted material, live samples, deep-floor equipment, and sealed records require additional custody confirmation.
 
@@ -96,7 +96,7 @@ After any incident, ILCC reconstructs who and what moved before, during, and aft
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 ILCC depends on honest requests, current floor status, and accurate communication. It can fail if a division moves material informally, if emergency orders bypass ledger entry, if port timing changes without notice, or if a route is physically altered by seismic activity. It can also slow urgent work if staff treat every movement as equal risk.
 
@@ -104,20 +104,20 @@ Known failure modes include duplicate custody, missing return confirmation, wron
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## ILCC-F-5 Formation Review
+### ILCC-F-5 Formation Review
 The F-5 dossier identifies internal logistics as one of the level's core functions. ILCC was formalized because Nusantara's maritime, monitoring, and deep-floor operations required movement control across unlike environments.
 
-## ILCC-Sample Route Notice
+### ILCC-Sample Route Notice
 A marine sample once reached a staging point before the receiving laboratory confirmed environmental readiness. The sample remained sealed, but current rules require destination readiness confirmation before movement begins.
 
-## ILCC-Seismic Preparedness Drill
+### ILCC-Seismic Preparedness Drill
 A tectonic-response drill showed that routine personnel routes could conflict with emergency Security movement. ILCC now maintains priority route tables for seismic, maritime, containment, and medical incident classes.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Administration operates ILCC. Recovery uses it for port and field handoff. Containment uses it for chamber supplies and resident-support transfer. Research uses it for samples and instruments. Security uses it for escorts and movement freezes. Medical uses it for personnel support and exposure response. Command uses ILCC records when reconstructing incidents.
 
@@ -125,7 +125,7 @@ ILCC doctrine holds that logistics is containment when the site is deep, wet, re
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-05-ID-C-F-5 Personnel and Command Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-4 Laboratory and Research Level Floor Dossier;
@@ -136,7 +136,7 @@ ILCC doctrine holds that logistics is containment when the site is deep, wet, re
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which movement categories should stop automatically during F-1 closure?
 - Can informal tool movement create enough custody loss to trigger review?
@@ -147,7 +147,7 @@ ILCC doctrine holds that logistics is containment when the site is deep, wet, re
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15
 **Author Desk:** Relay Administration / Internal Logistics / Central Archive

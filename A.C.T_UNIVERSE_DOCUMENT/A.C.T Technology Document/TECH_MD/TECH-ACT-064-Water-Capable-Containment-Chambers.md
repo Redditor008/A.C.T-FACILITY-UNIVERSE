@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - WATER-CAPABLE CONTAINMENT CHAMBERS
+### TECHNOLOGY RECORD - WATER-CAPABLE CONTAINMENT CHAMBERS
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Containment / Recovery / Research / Medical / Security / Nusantara Deep Relay
 **Authority:** Maritime-Hold Command, Nusantara Site Command, and Central Archive
 
-### Archive Note
+#### Archive Note
 Water-Capable Containment Chambers are the sixty-fourth main A.C.T technology expanded into an individual record. The Nusantara Deep Relay site dossier identifies water-capable containment as a core holding system for maritime anomalies, deep-sea organisms, island-recovered material, and marine-dependent residents. The F-3 Maritime and Island Holding Level dossier states that the floor's defining infrastructure is water-capable containment chambers and pressure-rated environments, developed as the relay's standard response to material shaped by the sea. The Death Angler file identifies AFD-NB-964 as housed in a Blind Box Abyssal Aquarium under water-capable, pressure-rated, continuously monitored conditions.
 
 WCCC exists because some anomalies are not held by removing them from the sea. They are held by rebuilding enough of the sea to keep them stable while A.C.T watches.
@@ -47,7 +47,7 @@ THE WATER IS PART OF THE WALL.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Water-Capable Containment Chambers are aquatic holding environments used for residents whose stability, survival, behavior, or containment depends on water. They provide contained water systems, marine-compatible construction, environmental control, biological monitoring, access discipline, and transfer compatibility with port and vessel-based containment. They are not ordinary tanks. They are containment chambers in which water is treated as structure, atmosphere, evidence, and sometimes part of the resident's behavioral field.
 
@@ -57,7 +57,7 @@ Approved roles include aquatic resident holding, marine-dependent biological sup
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Nusantara Deep Relay was built for anomalies that come from beneath: maritime disturbances, deep-sea organisms, volcanic and tectonic material, island events, and deep-earth signals. Its site doctrine recognizes that the sea is both recovery environment and containment system. When maritime recovery returned material that could not survive ordinary rooms, the relay developed a built holding level capable of keeping water-dependent anomalies without surrendering control to the water around them.
 
@@ -67,7 +67,7 @@ The Death Angler's Abyssal Aquarium is the most visible example, but WCCC doctri
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A WCCC unit contains sealed aquatic volume, marine-compatible wall material, compartmented water circulation, filtered intake and drain loops, resident-specific salinity control, visibility control, indirect sensor mounts, pressure interface ports, feeding locks, and emergency isolation valves. Chambers may be paired with Phase-Shifted Containment Glass, Sub-Abyssal Sonar, Digital Resonance Sensors, Banalist White-Noise systems, or Abyssal Anchor Plating when the resident file demands it.
 
@@ -88,7 +88,7 @@ No WCCC chamber is filled, drained, heated, cleaned, or chemically adjusted with
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before admission, Recovery provides capture context, source water conditions, pressure history, visible injury, known triggers, and transport state. Containment defines chamber assignment and water parameters. Research confirms whether the resident requires observation limits. Medical reviews biological stress and whether environmental transition would harm the subject. Security controls access around the chamber.
 
@@ -98,7 +98,7 @@ After any alarm, staff confirm whether the problem is water failure, resident be
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 WCCC cannot reproduce the entire sea. It can provide a controlled aquatic environment, but not all current, pressure, darkness, prey behavior, mineral content, acoustic depth, or ecological relationship present at recovery. Some residents may remain stable in water while still attacking through sound, light, lure, invisibility, chemical release, or pressure behavior.
 
@@ -106,20 +106,20 @@ Known failure modes include pump stoppage, water chemistry drift, false-clear vi
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## WCCC-Nusantara Standard Formation
+### WCCC-Nusantara Standard Formation
 The F-3 water-capable standard formed after Nusantara recoveries returned material shaped by the sea and unable to remain stable in ordinary holding. Water-capable containment became defining infrastructure for the relay's maritime holding level.
 
-## WCCC-Death Angler Blind Box Integration
+### WCCC-Death Angler Blind Box Integration
 AFD-NB-964 required a Blind Box Abyssal Aquarium with heavy wall reinforcement, indirect monitoring, optical lockdown, and acoustic dampening support. The case remains the primary high-threat example of WCCC combined with resident-specific visual and sound restrictions.
 
-## WCCC-Port Transfer Review
+### WCCC-Port Transfer Review
 A transfer drill between port containment and F-3 chambers found that identical water volume did not mean identical holding conditions. Procedure now requires chemistry, pressure, acoustic, and resident behavior comparison before declaring a transfer environment equivalent.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Containment operates WCCC assignments, chamber maintenance, and resident regimen execution. Recovery coordinates water-sealed arrival from vessels and submersible platforms. Research studies behavior without forcing dry exposure. Medical supports resident welfare and personnel exposure response. Security guards access and breach routes. Seismic Analysis attaches when water-dependent material intersects with deep-earth or volcanic anomaly patterns.
 
@@ -127,7 +127,7 @@ Standing reminder: a maritime resident is not contained because it is wet. It is
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-05-ID-C Nusantara Deep Relay Site Dossier;
 - ACT-SITE-05-ID-C-F-3 Maritime and Island Holding Level Floor Dossier;
@@ -140,7 +140,7 @@ Standing reminder: a maritime resident is not contained because it is wet. It is
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which residents require water for survival and which require it for behavior suppression?
 - Can chamber water become part of an anomaly's body over long containment periods?
@@ -151,7 +151,7 @@ Standing reminder: a maritime resident is not contained because it is wet. It is
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15
 **Author Desk:** Maritime-Hold Command / Nusantara Deep Relay / Central Archive

@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - ABYSSAL ANCHOR PLATING
+### TECHNOLOGY RECORD - ABYSSAL ANCHOR PLATING
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Engineering / Heavy Containment / Abyss Floor / Site Command / Logistics / World-Scale Recovery  
 **Authority:** Engineering Division, Heavy Containment Structural Desk, and Central Archive
 
-### Archive Note
+#### Archive Note
 Abyssal Anchor Plating is the thirty-fourth main A.C.T technology expanded into an individual record. The Master Catalog defines it as tungsten-reinforced Abyssal Masonry used in the construction of Massive Box enclosures for world-scale entities. The visual guide describes interlocking matte-black tiles with hexagonal reinforcement grooves, an internal thermal-sink layer, a cold surface, and a tendency to absorb room sound. Earlier engineering records place Massive Box logic among A.C.T's oldest heavy-containment traditions, while modern Cryo-Seismic Stabilizer and Abyssal Masonry records identify anchor plating as part of the structure required when mass, pressure, and reality-shear become too large for ordinary walls.
 
 AAP is not decoration on a wall. It is the layer that tells a very large thing where the room still is.
@@ -47,7 +47,7 @@ LOCK THE MASS TO THE ROOM BEFORE THE MASS TEACHES THE ROOM TO MOVE.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Abyssal Anchor Plating reinforces high-mass containment structures by tying Abyssal Masonry, floor anchors, thermal sinks, and load-bearing geometry into a single heavy enclosure skin. It is installed where ordinary reinforcement can hold weight but cannot hold anomalous pressure, psychic echo, gravity stress, or world-scale biological shifting. In Massive Box use, the plating does not replace walls. It binds them into an anchored shell.
 
@@ -65,7 +65,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 A.C.T heavy containment began with reinforced iron cages and early Massive Box designs. Those structures solved the visible problem of size, but they did not solve the deeper problem of pressure. Large anomalies do not only push against walls. Some alter gravity around their body, shed heat into the enclosure, drag psychic weather into the floor, or cause structural elements to disagree about distance.
 
@@ -75,7 +75,7 @@ Modern AAP doctrine treats every Massive Box as an ecosystem of structural promi
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard AAP tile is matte black, colder than the surrounding wall, and noticeably quiet under direct touch. The face is crossed by hexagonal reinforcement grooves. The rear surface carries anchoring ribs that bite into prepared Abyssal Masonry. Internal layers include tungsten reinforcement, thermal-sink channels, resonance-spread mesh, sealant locks, and diagnostic points. Installed plating often makes a room feel acoustically smaller because sound is absorbed into the plate grid rather than reflected normally.
 
@@ -96,7 +96,7 @@ The plate is not installed alone. It requires masonry backing, load mapping, sea
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before installation, Engineering maps enclosure mass, movement expectation, floor temperature, subject pressure profile, seismic background, RSA coverage, and emergency breach routes. The plate grid is then designed to move stress away from doors, glass, air systems, patient-service corridors, and observation points. No tile may be placed into a Massive Box without an orientation mark and serial entry.
 
@@ -106,7 +106,7 @@ During operation, AAP is inspected after any subject movement event, cryo-seismi
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 Abyssal Anchor Plating is not an absolute barrier. It cannot stop every blade, will-bearing artifact, teleportation event, conceptual breach, or entity that treats enclosure size as narrative suggestion. It cannot make a Massive Box humane by itself. It can also create dangerous confidence: staff may assume that a quiet room is safe when the quiet only means the plate is absorbing warning signs.
 
@@ -114,20 +114,20 @@ Known failure modes include seam shear, thermal-sink saturation, groove cracking
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## AAP-1998 Seam-Ringing Event
+### AAP-1998 Seam-Ringing Event
 A heavy biological enclosure produced a clear metallic tone from one wall after repeated night movement. Staff initially treated the sound as ordinary expansion. Engineering found three tiles returning stress into the room instead of spreading it. Current doctrine classifies ringing as an immediate inspection trigger.
 
-## AAP-2019 Cryo-Seismic Coupling Review
+### AAP-2019 Cryo-Seismic Coupling Review
 A Cryo-Seismic Stabilizer array reduced floor movement but increased cold stress through an adjacent plating grid. The plate held, but thermal-sink readings lagged. AAP and CSS maintenance schedules are now linked for Massive Box installations.
 
-## AAP-2026 Quiet Wall Dispute
+### AAP-2026 Quiet Wall Dispute
 An operator reported that a plated wall had become too quiet during high-mass subject rest. No visible damage was found. Later seam inspection showed partial acoustic dead-zone formation. Silence survey is now included in monthly heavy-containment review.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Engineering controls design, installation, and repair. Heavy Containment uses AAP for Massive Box shells and world-scale load zones. Abyss Floor Structural Desk approves deep-site anchor tie-ins. Logistics transports plates under mass-chain custody. Site Command approves enclosure redesign. Archive stores plate-grid maps under restricted structural records because the map of an enclosure is also a map of where it can fail.
 
@@ -135,7 +135,7 @@ Standing reminder: a Massive Box is not a big room. It is an argument with somet
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 34;
 - ACT Technological Visual Reference Guide, Item 34;
@@ -147,7 +147,7 @@ Standing reminder: a Massive Box is not a big room. It is an argument with somet
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can AAP absorb enough sound to hide early distress signals from contained subjects?
 - How often should quiet survey override clean thermal readings?
@@ -158,7 +158,7 @@ Standing reminder: a Massive Box is not a big room. It is an argument with somet
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Engineering Division / Heavy Containment Structural Desk / Central Archive  

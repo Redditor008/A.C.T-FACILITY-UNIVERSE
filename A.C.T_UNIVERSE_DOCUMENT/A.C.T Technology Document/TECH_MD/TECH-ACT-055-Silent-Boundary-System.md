@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - SILENT BOUNDARY SYSTEM
+### TECHNOLOGY RECORD - SILENT BOUNDARY SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Civil Covert / Intelligence / Recovery / Medical Care / Archiver Division / Site Command  
 **Authority:** Civil Covert Division, Intelligence Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 The Silent Boundary System is the fifty-fifth main A.C.T technology expanded into an individual record. The Technological Evolution Timeline places the Silent Boundary in 1926 during the Industrial Expansion era, describing it as the first Normalcy protocol shift away from visible vaults and toward integrated architectural concealment. The Normalcy Management and Public Narrative Doctrine defines A.C.T's public face as the ordinary explanation left behind after the impossible is removed and gives Civil Covert authority over public masks, false explanations, shell institutions, civilian narrative insertion, rumor dampening, media liaison, and non-violent institutional influence.
 
 SBS is not a single device. It is the engineered silence around a site, incident, witness, record, and street corner, built so ordinary life can walk past a concealed truth without stopping.
@@ -47,7 +47,7 @@ THE PUBLIC STORY MUST NOT BECOME STRONGER INSIDE A.C.T THAN THE TRUE RECORD.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 The Silent Boundary System is A.C.T's integrated normalcy infrastructure: a combined use of cover architecture, false civic explanation, front organizations, record control, rumor damping, legal masking, medical redirection, and archive contradiction tracking. Its function is to prevent anomalous exposure from becoming public reality without forcing every incident into crude erasure.
 
@@ -57,7 +57,7 @@ The technology is called a system because it joins physical concealment with nar
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 A.C.T's earliest containment structures were visible, heavy, and difficult to explain. By 1926, the Facility understood that a wall could hold an anomaly and still fail if the public could see the wall. The Silent Boundary marked the shift from visible vault logic to integrated architectural concealment. It did not replace containment. It protected containment from becoming a public landmark.
 
@@ -67,7 +67,7 @@ This development created one of A.C.T's most dangerous internal rules: the archi
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 SBS has no universal machine body. Its physical form is the set of offices, records, front companies, keyed access routes, document channels, controlled signage, civilian liaison lines, medical redirection packets, and archive contradiction ledgers assigned to a normalcy operation.
 
@@ -88,7 +88,7 @@ The contradiction ledger is mandatory. It records the real event, the public sto
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before deployment, Recovery secures the physical scene and preserves the first raw truth. Civil Covert selects the public-facing mask. Intelligence evaluates leak probability, hostile GOI interference, witness vulnerability, and whether the cover can survive partial truth exposure. Medical Care prepares explanations that will not deny necessary treatment. Archiver Division opens or updates the contradiction ledger.
 
@@ -98,7 +98,7 @@ After deployment, the narrative is watched for failure. A cover enters review if
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 SBS cannot erase every witness, predict every rumor, or make a harmful lie safe because it is useful. It also cannot be used to hide A.C.T misconduct from internal review. Normalcy doctrine forbids suppressing medical care, erasing families for convenience, selling cover access, destroying functioning cultural containment without review, or rewriting true anomaly files so they match public stories.
 
@@ -106,20 +106,20 @@ Known failure modes include cover overreach, witness convergence, hostile truth 
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## SBS-1926 Visible Vault Transition
+### SBS-1926 Visible Vault Transition
 The original Silent Boundary program was created because visible vaults and heavy access structures attracted attention. Integrated concealment became mandatory for sites that could not survive public curiosity.
 
-## SBS-1982 ARM Coupling Review
+### SBS-1982 ARM Coupling Review
 Site-wide Anti Reality Mesh deployment strengthened normalcy concealment but did not replace public narrative work. Civil Covert doctrine clarified that perception masking cannot explain hospital records, insurance claims, family testimony, or news gaps by itself.
 
-## SBS-2026 Contradiction Ledger Warning
+### SBS-2026 Contradiction Ledger Warning
 Normalcy review reaffirmed that every public story must remain separate from the internal true record. Cover stories may protect the world, but the Facility cannot safely lie to its own operating memory.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Civil Covert controls masks, cover stories, shell institutions, and local influence. Intelligence monitors leaks, hostile documentation, and GOI narrative interference. Recovery controls the first physical scene. Medical Care protects health continuity and amnestic aftercare. Archiver Division preserves the true record, false record, redaction chain, and contradiction ledger. Site Command approves structural normalcy operations when incident scale threatens public reality.
 
@@ -127,7 +127,7 @@ Standing reminder: silence is not emptiness. Silence is the shape of a truth bei
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Evolution Timeline, 1926 Silent Boundary entry;
 - ACT Normalcy Management and Public Narrative Doctrine;
@@ -139,7 +139,7 @@ Standing reminder: silence is not emptiness. Silence is the shape of a truth bei
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which 1926 concealment sites still contain original Silent Boundary architecture?
 - How many cover stories can a region carry before the public begins noticing the pattern of explanations?
@@ -150,7 +150,7 @@ Standing reminder: silence is not emptiness. Silence is the shape of a truth bei
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Civil Covert Division / Intelligence Division / Central Archive  

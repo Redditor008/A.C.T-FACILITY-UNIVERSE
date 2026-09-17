@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## Global Site Registry
+### Global Site Registry
 
 **Archive Status:** Active  
 **Distribution:** Internal / Command / Archive / Recovery / Intelligence  
@@ -7,16 +7,16 @@
 
 ---
 
-## Purpose
+### Purpose
 This file serves as a consolidated registry of major recognized A.C.T **SITE** and **SUB-SITE** installations currently preserved in primary archive reference. It is not an exhaustive list of every relay, blacksite, temporary enclosure, or hidden support point maintained by the Facility, but it records the most relevant known installation bodies for internal strategic awareness.
 
 This registry follows the naming standards established under **ACT-SITE-XX-##-#** and **ACT-SUB-XX-##-#** doctrine.
 
 ---
 
-# Section I — Major SITE Installations
+## Section I — Major SITE Installations
 
-## 1. ACT-SITE-01-US-W
+### 1. ACT-SITE-01-US-W
 **Codename:** Redwood Veil Complex  
 **Site Type:** Regional Site  
 **Location:** Western United States  
@@ -32,7 +32,7 @@ This registry follows the naming standards established under **ACT-SITE-XX-##-#*
 
 ---
 
-## 2. ACT-SITE-02-RU-N
+### 2. ACT-SITE-02-RU-N
 **Codename:** White Grave Station  
 **Site Type:** Regional Site  
 **Location:** Northern Russia  
@@ -48,7 +48,7 @@ This registry follows the naming standards established under **ACT-SITE-XX-##-#*
 
 ---
 
-## 3. ACT-SITE-03-JP-E
+### 3. ACT-SITE-03-JP-E
 **Codename:** Kurokawa Archive Node  
 **Site Type:** Regional Site  
 **Location:** Eastern Japan  
@@ -64,7 +64,7 @@ This registry follows the naming standards established under **ACT-SITE-XX-##-#*
 
 ---
 
-## 4. ACT-SITE-04-BR-C
+### 4. ACT-SITE-04-BR-C
 **Codename:** Verde Null Bio-Reserve  
 **Site Type:** Regional Site  
 **Location:** Central Brazil  
@@ -80,7 +80,7 @@ This registry follows the naming standards established under **ACT-SITE-XX-##-#*
 
 ---
 
-## 5. ACT-SITE-05-ID-C
+### 5. ACT-SITE-05-ID-C
 **Codename:** Nusantara Deep Relay  
 **Site Type:** Regional Site  
 **Location:** Central Indonesia  
@@ -96,9 +96,9 @@ This registry follows the naming standards established under **ACT-SITE-XX-##-#*
 
 ---
 
-# Section II — Recognized SUB-SITE Installations
+## Section II — Recognized SUB-SITE Installations
 
-## 6. ACT-SUB-01-US-W
+### 6. ACT-SUB-01-US-W
 **Codename:** Glass Orchard Relay  
 **Site Type:** Sub-Site  
 **Location:** Western United States  
@@ -114,7 +114,7 @@ This registry follows the naming standards established under **ACT-SITE-XX-##-#*
 
 ---
 
-## 7. ACT-SUB-02-RU-N
+### 7. ACT-SUB-02-RU-N
 **Codename:** Frost Hollow Depot  
 **Site Type:** Sub-Site  
 **Location:** Northern Russia  
@@ -130,7 +130,7 @@ This registry follows the naming standards established under **ACT-SITE-XX-##-#*
 
 ---
 
-## 8. ACT-SUB-03-JP-E
+### 8. ACT-SUB-03-JP-E
 **Codename:** Silent Reed Annex  
 **Site Type:** Sub-Site  
 **Location:** Eastern Japan  
@@ -146,7 +146,7 @@ This registry follows the naming standards established under **ACT-SITE-XX-##-#*
 
 ---
 
-## 9. ACT-SUB-04-BR-C
+### 9. ACT-SUB-04-BR-C
 **Codename:** Hollow Canopy Enclosure  
 **Site Type:** Sub-Site  
 **Location:** Central Brazil  
@@ -162,7 +162,7 @@ This registry follows the naming standards established under **ACT-SITE-XX-##-#*
 
 ---
 
-## 10. ACT-SUB-05-ID-C
+### 10. ACT-SUB-05-ID-C
 **Codename:** Ash Tide Watchpoint  
 **Site Type:** Sub-Site  
 **Location:** Central Indonesia  
@@ -178,13 +178,13 @@ This registry follows the naming standards established under **ACT-SITE-XX-##-#*
 
 ---
 
-## Closing Registry Note
+### Closing Registry Note
 The A.C.T network does not function through one monolithic body alone. It survives through layered installations—major SITES, supporting SUB-SITES, relays, and sealed locations—distributed according to secrecy value, containment need, recovery pressure, geography, and anomaly profile.
 
 A site is not merely where the Facility exists.
 A site is where the impossible has been given an address, a doctrine, and a chain of command.
 
-## Site Dossier Reference
+### Site Dossier Reference
 Individual full dossiers for each recognized SITE and SUB-SITE — preserving the complete operational, historical, architectural, floor-register, personnel, and incident record of every installation — are maintained as separate Site Dossier files under:
 
 - `A.C.T .md Document/Site Dossier/` (authoritative Markdown)
@@ -192,7 +192,7 @@ Individual full dossiers for each recognized SITE and SUB-SITE — preserving th
 
 Each dossier follows the Site Registry File Standard and carries its own Dossier Number in the `SITE-DOSSIER` / `SUB-SITE-DOSSIER` series.
 
-### Floor Dossier Reference
+#### Floor Dossier Reference
 Individual full dossiers for each numbered floor of the primary SITES and SUB-SITES — preserving the complete operational, architectural, systems, security, holdings, personnel, and incident record of every level, from the deepest numbered floor (F-1) to the surface-adjacent floor (F-N) — are maintained as separate Floor Dossier files under:
 
 - `A.C.T .md Document/Site Dossier/Floor Dossier/` (authoritative Markdown)

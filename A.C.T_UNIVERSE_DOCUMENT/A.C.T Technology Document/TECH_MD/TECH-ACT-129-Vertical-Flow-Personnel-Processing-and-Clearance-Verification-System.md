@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - VERTICAL-FLOW PERSONNEL PROCESSING AND CLEARANCE VERIFICATION SYSTEM
+### TECHNOLOGY RECORD - VERTICAL-FLOW PERSONNEL PROCESSING AND CLEARANCE VERIFICATION SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -33,7 +33,7 @@
 **Distribution:** Redwood Veil Complex / Administration / Personnel / Security / Training / Command
 **Authority:** Site Director, Site Administration, Personnel Office, Security Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Vertical-Flow Personnel Processing and Clearance Verification System is the one-hundred-twenty-ninth main A.C.T technology expanded into an individual record. The Redwood Veil F-8 Administration and Personnel dossier identifies F-8 as the administrative heart of the complex, holding site administration, personnel processing, clearance verification, training spaces, command support, staff support, and the Site Director's command suite. It records the floor's vertical-flow design, where personnel entering duty move downward and personnel leaving duty move upward, making the passage between surface and Facility part of the site's psychological architecture.
 
 VFPPCVS exists because personnel movement is not only traffic. At Redwood Veil, the descent into work is processed, verified, trained, watched, and made meaningful before a person reaches the floors that need them.
@@ -48,7 +48,7 @@ NO ONE DESCENDS INTO DUTY UNTIL THE COMPLEX KNOWS WHO THEY ARE, WHERE THEY BELON
 
 ---
 
-# FUNCTION OUTLINE
+## FUNCTION OUTLINE
 
 Vertical-Flow Personnel Processing and Clearance Verification System is Redwood Veil's F-8 administrative and security technology for turning surface arrivals into duty-ready Facility personnel and returning off-duty personnel to the surface with accountability intact. It combines personnel processing, clearance verification, training status checks, command assignment routing, support-function documentation, access-core control, communications links, and vertical-flow circulation.
 
@@ -58,7 +58,7 @@ Approved roles include personnel intake, clearance verification, duty-floor rout
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 As Redwood Veil expanded from a small facility into a regional containment authority, its administrative floor became more than office space. Personnel needed to be processed at scale. Clearances had to remain current. Training had to be confirmed before duty, and the Site Director's command structure needed a physical center close to the surface but above the buried operational floors.
 
@@ -66,7 +66,7 @@ F-8 developed VFPPCVS around the site's vertical-flow doctrine. The floor's circ
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A VFPPCVS installation includes access-core gates, personnel processing desks, clearance verification stations, training-status terminals, assignment routing boards, staff support counters, command communication links, monitored circulation corridors, upward exit checkpoints, and vertical-flow signage embedded into F-8's architecture.
 
@@ -87,7 +87,7 @@ The technology's visible feature is movement: downward for duty, upward for retu
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before descent, VFPPCVS verifies identity, active employment or assignment status, duty floor, clearance level, training currency, Medical restrictions if disclosed by authorized status flag, equipment authorization, command assignment, and whether the person is permitted to enter the operational population. The system routes personnel to training, staff support, command review, or duty descent according to the result.
 
@@ -95,7 +95,7 @@ During ascent, the system confirms duty completion, incident flags, return equip
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 VFPPCVS verifies personnel state, but personnel are not static records. A person may be cleared at descent and compromised before ascent. Training currency can confirm completion without proving judgment. Clearance systems can lag behind emergency assignments. The psychological architecture of descent and ascent can also affect personnel differently: some staff treat descent as focus, while others experience it as pressure.
 
@@ -103,20 +103,20 @@ Known failure modes include stale clearance status, training record mismatch, du
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## VFPPCVS-Descent Verification Standard
+### VFPPCVS-Descent Verification Standard
 A personnel-processing review found that identity confirmation without duty-floor verification left too much risk at the access core. Current descent procedure verifies who the person is and what they are authorized to do that day.
 
-## VFPPCVS-Ascent Accountability Correction
+### VFPPCVS-Ascent Accountability Correction
 Surface-bound movement once received less attention than duty entry. Current procedure treats ascent as a control event, confirming exposure flags, equipment return, debrief needs, and release status before surface transition.
 
-## VFPPCVS-Passage Doctrine Review
+### VFPPCVS-Passage Doctrine Review
 Psychological architecture review found that vertical flow should not become ceremony without function. Current doctrine requires passage design to remain tied to processing, support, and security controls.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Site Administration operates the command and personnel functions. Personnel Office manages intake, assignment, and clearance records. Security enforces access control and incident response. Training confirms duty readiness. Command Support maintains the communication links through which the Site Director governs the complex.
 
@@ -124,7 +124,7 @@ VFPPCVS doctrine holds that personnel are the complex's most controlled resource
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-01-US-W-F-8 Administration and Personnel Floor Dossier;
 - ACT-SITE-01-US-W-F-7 Central Archive and Records Floor Dossier;
@@ -136,7 +136,7 @@ VFPPCVS doctrine holds that personnel are the complex's most controlled resource
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can a person be cleared for a floor but unready for the descent into that floor?
 - How much Medical status may be visible at processing before confidentiality is harmed?
@@ -147,7 +147,7 @@ VFPPCVS doctrine holds that personnel are the complex's most controlled resource
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Site Administration / Personnel Office / Central Archive

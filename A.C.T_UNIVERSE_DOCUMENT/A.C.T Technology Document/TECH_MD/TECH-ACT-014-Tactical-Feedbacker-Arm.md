@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - TACTICAL FEEDBACKER ARM
+### TECHNOLOGY RECORD - TACTICAL FEEDBACKER ARM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Tactical Engineering / Medical / Recovery / Field Command / Training / Security  
 **Authority:** Tactical Engineering Desk, Medical Prosthetics Desk, Field Command, and Central Archive
 
-### Archive Note
+#### Archive Note
 The Tactical Feedbacker Arm is the fourteenth main A.C.T technology expanded into an individual record. The Master Catalog defines it as a cybernetic prosthesis using harmonic vibration to parry kinetic projectiles and energy bursts. The technological timeline records 2018 as the deployment year of the first parrying prosthesis using harmonic vibration to redirect high-energy projectiles. The visual guide describes a blue-tinted steel prosthetic with vibrating harmonic fins along the forearm, a pressure-sensitive disc in the palm, a tactical wrist-screen showing parry-window timing, and a yellow light pulse with a sharp ding after a successful strike. The Dark World Door expedition log records a field use during Expedition Pale-01, when Novak activated a Tactical Feedbacker Arm against a Bones Hound and shattered the entity's front limb-bone through impact vibration.
 
 TFA is not a weaponized replacement limb issued for style. It is a timing prosthesis. It rewards discipline and punishes bravado.
@@ -47,7 +47,7 @@ PARRY THE FORCE, NOT THE MONSTER.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 A Tactical Feedbacker Arm is a bonded cybernetic prosthesis designed to redirect, disrupt, or reflect incoming force through controlled harmonic vibration. The unit reads pressure through the palm disc, tracks timing through the wrist-screen, and releases a tuned counter-vibration through harmonic fins. If the operator meets the correct parry window, the arm can deflect kinetic projectiles, interrupt energy bursts, shatter brittle anomalous limbs, or redirect impact away from the operator's body.
 
@@ -64,7 +64,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND CUSTODY
+## ORIGIN AND CUSTODY
 
 TFA research began from two A.C.T needs: survivable field prosthetics and a way to answer attacks too fast for ordinary shields. Early prototypes were heavy external gauntlets. They protected operators but broke wrists, elbows, and shoulders through feedback transfer. The modern TFA became viable after Medical Prosthetics, Tactical Engineering, and Training Command agreed that the device had to be bonded, not worn casually. It must know the operator's motion limits, nerve response, pressure tolerance, and hesitation pattern.
 
@@ -74,7 +74,7 @@ The arm remains A.C.T property attached to a living operator under medical agree
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard TFA appears as a blue-tinted steel prosthetic arm with reinforced joints and visible harmonic fins along the forearm. The palm contains a pressure-sensitive disc that reads incoming force and operator contact angle. The wrist-screen displays parry-window timing, capacitor readiness, biological stress, and feedback warning. Successful timing produces a sharp ding and a yellow light pulse from the redacted capacitor assembly. The sound is intentionally simple because the operator cannot read long text during impact.
 
@@ -95,7 +95,7 @@ The arm is calibrated to one operator. Unbonded use may produce delayed response
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before deployment, Medical confirms the operator is fit, the socket is stable, and no feedback injury is active. Tactical Engineering checks capacitor charge, fin vibration, pressure disc response, wrist-screen timing, and strain-log capacity. During mission briefing, Field Command identifies which threats are parryable and which must be avoided. The operator repeats those limits aloud.
 
@@ -105,7 +105,7 @@ Do not use TFA to punch containment glass, test staff reflexes, strike restraine
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 TFA cannot parry concepts, commands, infections, gaze effects, toxins, most acids, continuous pressure, omnidirectional blasts, or attacks that arrive without a defined impact. It may also fail against entities that learn rhythm, attacks that split into several weak contacts, and weapons that cut through intent rather than matter. The arm protects the operator only if the rest of the body can survive the transferred stress.
 
@@ -113,20 +113,20 @@ Known failure modes include capacitor misfire, false success ding, fin desynchro
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## TFA-2018 First Deployment Bruising
+### TFA-2018 First Deployment Bruising
 The first field-rated operator successfully redirected a high-energy training projectile but suffered deep shoulder bruising because the feedback sink was under-calibrated. This led to mandatory Medical signoff after every red-window parry.
 
-## TFA-1985 Expedition Pale Retrospective
+### TFA-1985 Expedition Pale Retrospective
 Expedition Pale-01 predates the 2018 standard model but used an early Feedbacker Arm under field conditions. Novak shattered a Bones Hound limb through impact vibration. The hound did not experience deterrent pain and continued pack behavior. The review remains attached to TFA doctrine because it proves interruption is not neutralization.
 
-## TFA-2021 False Ding Incident
+### TFA-2021 False Ding Incident
 A worn wrist-screen speaker produced a success ding during a late parry. The operator survived but took rib fractures from transferred impact. Current models require visual, haptic, and log confirmation after high-force events.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Tactical Engineering maintains hardware, capacitors, fins, and timing software. Medical Prosthetics manages bonding, socket health, nerve response, removal, and injury review. Recovery requests operators for field missions. Field Command writes engagement limits. Training conducts parry-window drills and failure rehearsals. Security uses restricted post-defense variants only where approved.
 
@@ -134,7 +134,7 @@ Standing reminder: a perfect parry is still contact with the thing trying to hur
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 21;
 - ACT Technological Visual Reference Guide, Item 21;
@@ -145,7 +145,7 @@ Standing reminder: a perfect parry is still contact with the thing trying to hur
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can a hostile entity learn an operator's parry timing faster than Training predicts?
 - Should early Expedition Pale use be treated as prototype lineage or separate field improvisation?
@@ -156,7 +156,7 @@ Standing reminder: a perfect parry is still contact with the thing trying to hur
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Tactical Engineering / Medical Prosthetics Desk / Field Command / Central Archive  

@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - COASTAL WATCH COORDINATION CENTER
+### TECHNOLOGY RECORD - COASTAL WATCH COORDINATION CENTER
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Watch Staff / Recovery Support / Security / Nusantara Deep Relay / Ash Tide Watchpoint
 **Authority:** Watch Officer, Watch Chief, Nusantara Site Command, and Central Archive
 
-### Archive Note
+#### Archive Note
 Coastal Watch Coordination Center is the eighty-third main A.C.T technology expanded into an individual record. The Ash Tide Watchpoint dossier defines the sub-site as the relay's coastal eye, responsible for coastal anomaly watch, sea-entry relay, volcanic-event observation support, and hidden emergency intake. The F-2 Operations and Watch Level dossier identifies the watch coordination center as the space where continuous observation of assigned coastal corridors, instrument feeds, and reporting coordination are conducted.
 
 CWCC exists because the coast does not schedule its anomalies. A.C.T must keep watch before the water decides to give something back.
@@ -47,7 +47,7 @@ SEE FIRST, REPORT CLEANLY, STAGE ONLY UNDER AUTHORITY.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 The Coastal Watch Coordination Center is the F-2 watch system that organizes Ash Tide's continuous observation of assigned coastal corridors. It receives instrument feeds, personnel observations, vessel reports, volcanic-signature notices, maritime traffic patterns, wildlife anomalies, and surface boundary concerns, then turns that watch into reports to the parent Nusantara Deep Relay.
 
@@ -57,7 +57,7 @@ Approved roles include coastal anomaly watch, maritime corridor observation, wat
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Ash Tide began as a simple relay watchpoint. Repeated coastal anomaly appearances made rotating observation insufficient, and the site was upgraded to permanent staffing. Permanent staffing required a buried operations floor where the watch could be more than a person looking seaward. F-2 became that floor.
 
@@ -67,7 +67,7 @@ CWCC makes local watch accountable to parent command.
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A CWCC installation includes observation consoles, coastal feed panels, vessel-tracking boards, watch logs, parent-relay reporting terminals, event classification cards, shift boards, escalation indicators, secure communication links, and staging request controls. It is placed below the surface cover level so observation can continue without exposing the concealed watch to visitors or public station traffic.
 
@@ -88,7 +88,7 @@ The center records uncertainty. A report may say unknown without becoming useles
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 During normal operation, watch personnel maintain continuous coverage of assigned coastal corridors. Observations are marked by source, time, location, confidence, environmental condition, and whether the event may involve maritime anomaly activity, volcanic signature, sea-entry traffic, ordinary civilian movement, or cover risk. The Watch Officer decides whether the event remains local, routes to the parent relay, or triggers staging preparation.
 
@@ -96,7 +96,7 @@ If recovery is expected, CWCC coordinates with F-1 intake, F-3 surface cover, po
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 CWCC can coordinate observation, but it cannot see through weather, false calm, faulty instruments, staff fatigue, or anomaly concealment. Coastal corridors are busy and ambiguous. Ordinary boats, wildlife, tide behavior, volcanic haze, storm light, and civilian activity can resemble early anomaly indicators.
 
@@ -104,20 +104,20 @@ Known failure modes include missed watch window, over-reporting, under-reporting
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## CWCC-Permanent Watch Formation
+### CWCC-Permanent Watch Formation
 The F-2 dossier states that permanent watch doctrine developed after repeated coastal anomaly appearances required permanent staffing. CWCC was formalized as the operational seat of that permanent watch.
 
-## CWCC-Reporting Delay Review
+### CWCC-Reporting Delay Review
 A coastal sighting exercise showed that watch staff could continue local observation too long before notifying the parent relay. Current procedure sends early uncertainty markers rather than waiting for final classification.
 
-## CWCC-Staging Authority Drill
+### CWCC-Staging Authority Drill
 A simulated sea-entry event reached recovery staging before parent-relay authorization was attached. The drill established the current rule that staging may prepare, but action requires authority.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Watch staff operate CWCC. Seismic Monitoring contributes volcanic and ground observations. Recovery Support uses reports to prepare sea-entry and intake staging. Security watches boundary implications. Nusantara Site Command receives escalated findings and assigns response authority.
 
@@ -125,7 +125,7 @@ CWCC doctrine holds that the watch is only real when it reaches the command that
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SUB-05-ID-C Ash Tide Watchpoint Sub-Site Dossier;
 - ACT-SUB-05-ID-C-F-2 Operations and Watch Level Floor Dossier;
@@ -137,7 +137,7 @@ CWCC doctrine holds that the watch is only real when it reaches the command that
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which coastal signs deserve immediate parent-relay warning while still unconfirmed?
 - Can an anomaly learn Ash Tide's watch rhythm and appear between shifts?
@@ -148,7 +148,7 @@ CWCC doctrine holds that the watch is only real when it reaches the command that
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15
 **Author Desk:** Watch Officer / Watch Chief / Central Archive

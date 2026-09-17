@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - SYNTHETIC SANGUINE-FUEL
+### TECHNOLOGY RECORD - SYNTHETIC SANGUINE-FUEL
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Medical / Biological Containment / Logistics / Transformation / Site Command  
 **Authority:** Medical Division, Biological Containment Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Synthetic Sanguine-Fuel is the twenty-second main A.C.T technology expanded into an individual record. The Master Catalog defines SSF as a bio-engineered mammalian blood substitute that sustains blood-fuel requirements for mechanical and biological NB-class entities. The technological timeline records 2004 as the year SSF was perfected and standardized for all mechanical subjects requiring mammalian biological input. The visual reference guide describes a deep red viscous liquid stored in industrial-grade blue canisters, fitted with a friction-less magnetic pump, a digital O2-saturation monitor in the dispensing valve, and an internal thermal coil maintaining the canister at 37 degrees C.
 
 SSF exists because A.C.T containment cannot depend on live feeding when a subject's biology demands blood-like fuel. It is not a kindness substitute alone, though it often reduces harm. It is also a normalcy, logistics, and safety technology that keeps dangerous beings from learning that staff, prisoners, witnesses, or civilians are easier to obtain than supply canisters.
@@ -47,7 +47,7 @@ FEED THE NEED WITHOUT TEACHING THE HUNGER WHERE TO LOOK.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Synthetic Sanguine-Fuel provides a controlled mammalian biological input for subjects, devices, mechanical organisms, and NB-class entities that require blood, oxygen-bearing fluid, or blood-adjacent metabolic stimulus. It is designed to imitate enough biological function to sustain containment without providing a full living prey event. Different subjects may require different saturation, viscosity, heat, trace mineral balance, or feeding cadence.
 
@@ -64,7 +64,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND CUSTODY
+## ORIGIN AND CUSTODY
 
 SSF development came from years of containment failures where ordinary stored blood spoiled, provoked hunting behavior, carried disease, or reinforced predatory association. Early substitutes lacked oxygen behavior, heat stability, or the sensory cues needed to keep subjects calm. Medical Division and Biological Containment eventually created a deep red viscous fluid with adjustable oxygen saturation and stable body-temperature delivery.
 
@@ -74,7 +74,7 @@ Formula details remain restricted because hostile groups could use SSF to bait, 
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 SSF is stored in industrial-grade blue canisters. The fluid is deep red, viscous, and warm when correctly maintained. The friction-less magnetic pump prevents ordinary mechanical grinding from denaturing the mixture. The dispensing valve includes a digital O2-saturation monitor, and the handle display shows current temperature. Internal thermal coils maintain 37 degrees C unless a subject file specifies a different range.
 
@@ -95,7 +95,7 @@ Any canister without a readable subject tag is treated as unissued stock and can
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before feeding, staff confirm subject file, mixture band, temperature, oxygen saturation, canister seal, pump response, and disposal plan. Feeding must occur through approved lines, trays, or automated systems. Manual pouring is prohibited unless the subject file explicitly allows it. The staff member records reaction, intake rate, residue, aggression, refusal, and post-feeding behavior.
 
@@ -105,7 +105,7 @@ If the subject refuses SSF after a stable history, staff do not immediately swit
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 SSF cannot satisfy entities that require a named victim, fresh fear, living heartbeat, soul proximity, pain, confession, sacrifice, or criminal history. It may fail if overheated, chilled, contaminated, over-oxygenated, under-oxygenated, or delivered through a line carrying previous subject scent. It can also create dependence if used as a universal calming tool.
 
@@ -113,20 +113,20 @@ Known failure modes include clotting, pump lock, false O2 reading, thermal coil 
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## SSF-2005 Cold Canister Refusal
+### SSF-2005 Cold Canister Refusal
 A canister arrived three degrees below approved range. The subject refused feeding and struck the delivery window until live heat was restored through approved warming. Logistics added temperature-chain confirmation at every transfer point.
 
-## SSF-2012 Scent Backflow
+### SSF-2012 Scent Backflow
 A feeding line retained trace odor from a previous subject. The receiving organism became agitated and attempted to follow the line path after feeding. Backflow locks and disposable subject-coded line tips became mandatory.
 
-## SSF-2020 Overfeeding Calm
+### SSF-2020 Overfeeding Calm
 A containment team increased SSF frequency to keep a mechanical subject docile during repairs. The subject later refused normal cadence and struck only when canisters were visible. Medical classified the incident as hunger training by staff error.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Medical approves formulas, reviews adverse reactions, and determines whether SSF is treatment or feeding. Biological Containment schedules use and tracks behavior. Logistics moves canisters through temperature chain. Engineering services pumps and monitors. Transformation studies controlled cases involving biological decay. Site Command approves emergency substitution during supply interruption.
 
@@ -134,7 +134,7 @@ Standing reminder: if a subject eats blood because it is hungry, SSF may help. I
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 12;
 - ACT Technological Visual Reference Guide, Item 12;
@@ -144,7 +144,7 @@ Standing reminder: if a subject eats blood because it is hungry, SSF may help. I
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which blood-fuel entities can distinguish chemistry from victimhood?
 - Can long-term SSF use reduce predatory behavior or only delay it?
@@ -155,7 +155,7 @@ Standing reminder: if a subject eats blood because it is hungry, SSF may help. I
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Medical Division / Biological Containment Division / Central Archive  

@@ -1,18 +1,18 @@
 # A.C.T FACILITY ARCHIVE FILE
-## Standing Field Units and Cross-Containment Interaction Protocol
+### Standing Field Units and Cross-Containment Interaction Protocol
 
 **Archive Status:** Active  
 **Distribution:** Internal / Recovery / Containment / Tactical / Site Command  
 **Authority:** Field Operating Chief Council, Recovery Division, Containment Division, and Central Archive  
 
-### Archive Note
+#### Archive Note
 This doctrine records the difference between divisions, desks, temporary task groups, and standing field units. It also establishes the basic rule for one of the most dangerous operational shortcuts in A.C.T: letting anomalies, anomaly-derived tools, or anomaly-influenced subjects interact with each other.
 
 ---
 
-# FIELD UNIT AND INTERACTION FOUNDATION
+## FIELD UNIT AND INTERACTION FOUNDATION
 
-## 5.1 Purpose
+### 5.1 Purpose
 
 A.C.T anomaly files already name many response bodies: Recovery Teams, Review Cells, Tactical Desks, Maritime units, Biohazard teams, Chronometric reviewers, and regional support groups. Until this doctrine, those names existed as local record fragments rather than a controlled operating layer.
 
@@ -25,28 +25,28 @@ This file defines:
 
 ---
 
-## 5.2 Division, Desk, Cell, Team, and Unit
+### 5.2 Division, Desk, Cell, Team, and Unit
 
-### Division
+#### Division
 A major institutional body such as Recovery Division, Containment Division, Subject Care Division, Archiver Division, or Civil Covert Division.
 
-### Desk
+#### Desk
 A specialized review or coordination body inside or across divisions. Desks often own doctrine, analysis, approvals, or case families.
 
-### Cell
+#### Cell
 A compact expert group maintained for repeated problem types. Cells are smaller than divisions but more persistent than temporary mission teams.
 
-### Team
+#### Team
 A mission-deployed group assembled for one operation or a short series of related operations.
 
-### Standing Field Unit
+#### Standing Field Unit
 A recurring, registered operational group with name, role, jurisdiction, activation conditions, equipment profile, and review history.
 
 A.C.T records often blur these words. This doctrine does not retcon every older file. It gives future files a cleaner rule.
 
 ---
 
-## 5.3 Standing Field Unit Registry Format
+### 5.3 Standing Field Unit Registry Format
 
 Standing Field Unit designation format:
 
@@ -67,7 +67,7 @@ The public-facing name may remain more natural, such as Recovery Team Alpha-9 or
 
 ---
 
-## 5.4 Required Unit Fields
+### 5.4 Required Unit Fields
 
 Every standing field unit register entry must include:
 
@@ -89,7 +89,7 @@ Every standing field unit register entry must include:
 
 ---
 
-## 5.5 Known Unit and Desk Seeds From Existing Anomaly Records
+### 5.5 Known Unit and Desk Seeds From Existing Anomaly Records
 
 The following names already appear in anomaly records and should be treated as candidates for future full register entries:
 
@@ -111,27 +111,27 @@ This list is a seed list, not a full registry. It does not automatically create 
 
 ---
 
-## 5.6 Activation Authority
+### 5.6 Activation Authority
 
 A standing field unit activates under one of four conditions:
 
-### Scheduled Deployment
+#### Scheduled Deployment
 Known operation, planned recovery, routine transfer, escort, review, or maintenance.
 
-### Incident Response
+#### Incident Response
 Immediate anomaly emergence, breach, witness cluster, public exposure, or casualty event.
 
-### Escalation Call
+#### Escalation Call
 A lower team discovers hazard complexity beyond its assignment.
 
-### Sealed Command
+#### Sealed Command
 O5, Site Director, or Field Operating Chief activates the unit without full explanation due to sensitive information.
 
 Sealed command must be logged after the fact. A blank command chain is not mystery. It is a future disaster.
 
 ---
 
-## 5.7 Field Handoff Rule
+### 5.7 Field Handoff Rule
 
 When a field team transfers custody to another unit, the handoff record must state:
 
@@ -148,7 +148,7 @@ A.C.T has lost containment before because one team carried a fact and another te
 
 ---
 
-## 5.8 Cross-Containment Interaction Definition
+### 5.8 Cross-Containment Interaction Definition
 
 A **Cross-Containment Interaction** occurs when A.C.T intentionally or negligently allows one anomaly, anomaly-derived asset, anomalously altered subject, or active anomaly field to affect another.
 
@@ -164,29 +164,29 @@ Examples include:
 
 ---
 
-## 5.9 Cross-Containment Request Tiers
+### 5.9 Cross-Containment Request Tiers
 
-### CCI-0 — Incidental Avoidance
+#### CCI-0 — Incidental Avoidance
 No interaction intended. Record only if accidental proximity occurs.
 
-### CCI-1 — Passive Comparison
+#### CCI-1 — Passive Comparison
 Files are compared. No physical, cognitive, digital, biological, or memetic contact.
 
-### CCI-2 — Controlled Indirect Contact
+#### CCI-2 — Controlled Indirect Contact
 Outputs are compared under sealed conditions without direct anomaly-to-anomaly contact.
 
-### CCI-3 — Direct Limited Contact
+#### CCI-3 — Direct Limited Contact
 Direct interaction occurs under active containment, time limit, abort signal, and medical/technical monitoring.
 
-### CCI-4 — Hazard Interaction
+#### CCI-4 — Hazard Interaction
 Interaction may amplify, transform, damage, contaminate, or unpredictably stabilize either anomaly.
 
-### CCI-5 — Structural Interaction
+#### CCI-5 — Structural Interaction
 Interaction may affect reality structure, site integrity, identity continuity, time, memory, cosmic boundary, or public normalcy.
 
 ---
 
-## 5.10 Approval Requirements
+### 5.10 Approval Requirements
 
 CCI-0 and CCI-1 may be logged by the responsible division.
 
@@ -202,7 +202,7 @@ No team may create a cross-containment interaction because it is faster than bui
 
 ---
 
-## 5.11 Subject Interaction Safeguard
+### 5.11 Subject Interaction Safeguard
 
 If either anomaly is a sentient subject, the interaction must pass Subject Care review. A.C.T may not use one contained person as therapy, weapon, bait, interpreter, restraint, or emotional regulator for another contained person without clear authority and aftercare.
 
@@ -210,7 +210,7 @@ Friendship, trust, fear, dependence, and curiosity are containment variables. Th
 
 ---
 
-## 5.12 GOI-Derived Systems
+### 5.12 GOI-Derived Systems
 
 GOI-derived tools, archives, software, rituals, medical substances, or weapons must not interface with A.C.T containment hardware unless cleared under CCI rules and GOI evidence review.
 
@@ -218,7 +218,7 @@ This is especially important for groups such as Mysterious Guild, DREAM .INC, An
 
 ---
 
-## 5.13 Failed Interaction Rule
+### 5.13 Failed Interaction Rule
 
 If an interaction produces unexpected benefit, it is still a failed interaction until reviewed. A.C.T must not allow lucky success to become hidden policy.
 
@@ -233,7 +233,7 @@ Failure review must ask:
 
 ---
 
-## 5.14 Red Lines
+### 5.14 Red Lines
 
 A.C.T will not:
 
@@ -247,7 +247,7 @@ A.C.T will not:
 
 ---
 
-## 5.15 Related Records
+### 5.15 Related Records
 
 - `ACT_Divisions_Personnel_and_Operational_Life_Archive.md`
 - `ACT_Anomaly_Log_Categories_In_World_Explanation.md`
@@ -258,7 +258,7 @@ A.C.T will not:
 
 ---
 
-## File Metadata
+### File Metadata
 
 ```text
 FILE CREATED:        12/09/2026

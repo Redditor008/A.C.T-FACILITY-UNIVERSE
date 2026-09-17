@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - SEISMIC PREPAREDNESS SHELTER AND RESPONSE SYSTEM
+### TECHNOLOGY RECORD - SEISMIC PREPAREDNESS SHELTER AND RESPONSE SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Security / Administration / Medical / Command / Engineering / Nusantara Deep Relay
 **Authority:** Security Division, Relay Administration, Site Director, and Central Archive
 
-### Archive Note
+#### Archive Note
 Seismic Preparedness Shelter and Response System is the seventy-eighth main A.C.T technology expanded into an individual record. The F-5 Personnel and Command Level dossier identifies seismic preparedness as part of the floor's security posture and states that personnel-level procedures include response doctrine for large-scale tectonic shifts. It also identifies personnel housing as engineered for an island installation in a seismically active region where the environment itself demands resilience.
 
 SPSRS exists because Nusantara does not treat earthquakes as background weather. The ground is both the site foundation and part of what the relay watches.
@@ -47,7 +47,7 @@ PROTECT THE WATCHERS BEFORE THE WATCH LOSES MEANING.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 The Seismic Preparedness Shelter and Response System is the personnel-protection and emergency response architecture built into Nusantara Deep Relay's F-5 level and connected floors. It combines shelter zones, route control, personnel accountability, emergency supplies, protected communications, medical staging, seismic alert integration, and drill doctrine for tectonic, volcanic, structural, and anomaly-adjacent ground events.
 
@@ -57,7 +57,7 @@ Approved roles include seismic alert response, personnel sheltering, emergency r
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Nusantara Deep Relay operates in a region of genuine tectonic and volcanic activity. This fact is not incidental. It justifies the relay's public cover, shapes its engineering, and complicates its anomaly work. Personnel live on-site, descend to deep floors, support maritime platforms, and work above sensitive monitoring infrastructure. A large tremor can therefore become a personnel emergency, command event, containment concern, and data problem at once.
 
@@ -65,7 +65,7 @@ F-5 became the center of seismic preparedness because it houses personnel, comma
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 SPSRS includes reinforced shelter areas, personnel-accountability panels, seismic alert repeaters, emergency route boards, protected command links, medical staging cabinets, floor-status lights, evacuation lock controls, supply caches, and drill record stations. Shelter locations are distributed so staff do not have to cross sensitive command, logistics, or access chokepoints during immediate ground motion.
 
@@ -86,7 +86,7 @@ Shelter controls are designed to protect personnel without automatically opening
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 When Seismic Analysis or local sensors issue an alert, SPSRS activates floor signals and route instructions according to event severity. Personnel report to assigned shelter zones or remain in place if movement is more dangerous than sheltering. Security confirms access cores. Medical prepares triage stations. Command determines whether the event is ordinary geological, site-structural, maritime-linked, or anomaly candidate.
 
@@ -94,7 +94,7 @@ During severe events, SPSRS may freeze nonessential movement while preserving pr
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 SPSRS cannot prevent earthquakes, volcanic events, or anomalous ground behavior. It can preserve personnel discipline and response structure, but it depends on drills, current rosters, intact routes, and accurate floor status. It may conflict with containment routes if an incident strikes during resident transfer or restricted record movement.
 
@@ -102,20 +102,20 @@ Known failure modes include panic movement, wrong shelter assignment, outdated r
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## SPSRS-F-5 Preparedness Formation
+### SPSRS-F-5 Preparedness Formation
 The F-5 dossier identifies seismic preparedness as part of the personnel level's security posture. SPSRS was formalized to make that preparedness an integrated shelter and response system rather than a written drill only.
 
-## SPSRS-Route Conflict Drill
+### SPSRS-Route Conflict Drill
 A tectonic-response exercise found that routine evacuation routes could intersect with Security movement toward lower floors. Current procedure assigns route priority by incident class before personnel are released from shelter.
 
-## SPSRS-False Ordinary Event Review
+### SPSRS-False Ordinary Event Review
 A ground-motion event first treated as ordinary tectonic activity later showed unusual signal alignment below F-1. Current procedure requires Seismic Analysis review before final all-clear when readings deviate from regional baseline.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Security operates shelter activation and route control. Administration maintains rosters and drill records. Medical stages care and triage. Command decides site posture. Engineering clears structural safety. Seismic Analysis determines whether ground movement remains ordinary or requires restricted review.
 
@@ -123,7 +123,7 @@ SPSRS doctrine holds that personnel safety is not separate from containment. A s
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-05-ID-C-F-5 Personnel and Command Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-6 Surface Research and Transition Level Floor Dossier;
@@ -134,7 +134,7 @@ SPSRS doctrine holds that personnel safety is not separate from containment. A s
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - When should personnel shelter in place instead of moving upward?
 - Can anomalous ground signals exploit ordinary evacuation training?
@@ -145,7 +145,7 @@ SPSRS doctrine holds that personnel safety is not separate from containment. A s
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15
 **Author Desk:** Security Division / Relay Administration / Central Archive

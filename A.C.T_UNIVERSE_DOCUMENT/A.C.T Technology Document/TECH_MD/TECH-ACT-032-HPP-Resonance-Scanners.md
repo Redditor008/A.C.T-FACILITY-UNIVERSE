@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - HPP RESONANCE SCANNERS
+### TECHNOLOGY RECORD - HPP RESONANCE SCANNERS
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Personnel Screening / Medical / Human Resources / Artifact Review / White Grave / Site Command  
 **Authority:** Personnel Screening Desk, Medical Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 HPP Resonance Scanners are the thirty-second main A.C.T technology expanded into an individual record. The Master Catalog identifies them as diagnostic tools used to measure High-Psychic Potential during personnel screening and assignment. The visual guide describes a walk-through gateway with a PR-Score digital counter on the top beam, vertical light-pillars containing restricted sensors, and a visible shift from white to deep violet when a High-Psychic Potential signature is detected. The Soul Pendant record confirms why this matters: AFD-OB-412 glowed for HPP-sensitive individuals before later blood activation anchored Senior Researcher Aris Thorne's consciousness inside the pendant.
 
 HPP-RS does not find chosen people. It finds people the wrong object may notice first.
@@ -47,7 +47,7 @@ MEASURE THE RESONANCE BEFORE THE ARTIFACT DOES.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 An HPP Resonance Scanner measures whether a person carries a high psychic resonance profile significant enough to alter artifact reaction, subject attention, memetic susceptibility, anchor compatibility, or assignment risk. The scanner produces a PR-score, flags resonance bands, and records whether the subject should be barred from certain object rooms, recommended for specialized projects, or placed under observation before exposure to consciousness-reactive artifacts.
 
@@ -64,7 +64,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND DOCTRINE
+## ORIGIN AND DOCTRINE
 
 HPP screening grew out of cases where artifacts reacted differently to people who looked medically ordinary. The Soul Pendant is the cautionary foundation. Before the Thorne Incident, AFD-OB-412 appeared to do little more than emit blue luminescence when held by HPP-sensitive individuals. That harmless-looking glow became meaningful only after fresh blood from an HPP subject triggered consciousness displacement. A.C.T does not treat resonance glow as decoration anymore.
 
@@ -74,7 +74,7 @@ Modern doctrine also follows Thorne's 2026 memorandum on resonance discipline. H
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 The standard HPP-RS is a walk-through gateway. Two vertical light-pillars hold restricted sensor arrays. The top beam carries a PR-Score digital counter visible to the operator but shielded from public display. In standby, the pillars remain white. During active scan, the pillars read body field, pulse stability, neural timing, local static response, and psychic weight. If a High-Psychic Potential signature is detected, the pillars turn deep violet and the counter locks a score band for authorized review.
 
@@ -95,7 +95,7 @@ The scanner must be calibrated against site static conditions. A scanner moved f
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before screening, the subject is informed that the process may restrict assignments. Medical records current injuries, amnestic exposure, sleep deprivation, neurological history, and contact with known resonance hazards. The subject removes conductive jewelry, unapproved implants, and active dampening patches. If Neural Lacing, Soul-Stasis equipment, or other implanted resonance controls are present, operation requires Level 4 review.
 
@@ -105,7 +105,7 @@ After screening, Personnel Screening updates assignment flags. The subject does 
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 HPP-RS cannot define the soul, cannot rank human worth, and cannot identify every anomalous sensitivity. It reads a specific resonance profile used by A.C.T for assignment safety. False lows may occur after amnestic shock, sleep collapse, medical sedation, neural filtering, dampener masking, or site static noise. False highs may occur near active artifacts, narrative bleed, inherited exposure, or recent contact with resonance-heavy subjects.
 
@@ -113,20 +113,20 @@ The greatest misuse risk is administrative myth. Staff sometimes treat high-HPP 
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## HPP-1992 Pendant Retrospective
+### HPP-1992 Pendant Retrospective
 The Soul Pendant's early blue glow was not treated as sufficient cause for severe handling controls. After the Thorne Incident, HPP glow response was reclassified as an activation warning. HPP-RS assignment doctrine now treats luminous preference as a risk signal.
 
-## HPP-2016 Candidate Overuse Review
+### HPP-2016 Candidate Overuse Review
 A small number of high-score staff were repeatedly routed toward artifact studies because they produced clearer readings. Medical reported exhaustion, anxiety, and identity fixation. Current policy limits consecutive HPP-reactive assignments.
 
-## HPP-2026 Self-Mythology Case
+### HPP-2026 Self-Mythology Case
 A junior analyst learned their approximate score through informal discussion and attempted to enter an artifact corridor without assignment approval. The analyst believed the score indicated suitability. It only indicated detectability. Score gossip is now a disciplinary issue.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Personnel Screening operates the scanner gates. Medical interprets biological and neurological context. Human Resources records assignment restrictions without exposing unnecessary score details. Artifact Review uses flags to prevent accidental activation. White Grave uses scanner output for anchor-adjacent cases. Site Command approves overrides. Central Archive stores PR-score history under controlled personnel record rules.
 
@@ -134,7 +134,7 @@ Standing reminder: the scanner does not choose who matters. It warns who may mat
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 19;
 - ACT Technological Visual Reference Guide, Item 19;
@@ -146,7 +146,7 @@ Standing reminder: the scanner does not choose who matters. It warns who may mat
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can PR-score change after repeated anomaly exposure?
 - Does Neural Lacing hide true HPP resonance or only its readable surface?
@@ -157,7 +157,7 @@ Standing reminder: the scanner does not choose who matters. It warns who may mat
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Personnel Screening Desk / Medical Division / Central Archive  

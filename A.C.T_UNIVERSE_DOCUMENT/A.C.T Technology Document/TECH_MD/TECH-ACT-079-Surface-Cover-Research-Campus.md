@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - SURFACE COVER RESEARCH CAMPUS
+### TECHNOLOGY RECORD - SURFACE COVER RESEARCH CAMPUS
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Administration / Research / Security / Cover / Nusantara Deep Relay
 **Authority:** Campus Director, Site Director, and Central Archive
 
-### Archive Note
+#### Archive Note
 Surface Cover Research Campus is the seventy-ninth main A.C.T technology expanded into an individual record. The F-6 Surface Research and Transition Level dossier identifies the surface campus as the legitimate face of Nusantara Deep Relay: research laboratories, monitoring stations, administrative buildings, and port facility surface operations. The dossier states that the cover is built on genuine marine, volcanic, and geological science that can withstand scrutiny because it is real.
 
 SCRC exists because a concealed island installation cannot survive on absence alone. It requires a visible reason to exist, and that reason must be strong enough to be questioned.
@@ -47,7 +47,7 @@ THE COVER HOLDS BECAUSE THE WORK IS REAL.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 The Surface Cover Research Campus is the public-facing research, administration, monitoring, and professional-presence system that gives Nusantara Deep Relay an ordinary identity in the archipelago. It maintains visible laboratories, public scientific activity, field schedules, published research, administrative buildings, professional communications, and campus rhythms that explain the site's staff, equipment, vessels, monitoring stations, and attention to the sea and ground.
 
@@ -57,7 +57,7 @@ Approved roles include public research continuity, professional reputation suppo
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Nusantara's site identity could not be built on false paperwork alone. The relay operates in a region where earthquakes, tsunamis, volcanism, oceanographic change, maritime traffic, and island ecology provide real reasons for a research institute to exist. A.C.T used that truth rather than fighting it. The surface campus became a genuine scientific body with a concealed institutional depth.
 
@@ -65,7 +65,7 @@ F-6 developed as the boundary between the ordinary world and the buried relay. I
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 An SCRC installation includes visible research laboratories, administrative offices, monitoring stations, public communications, campus signage, professional records, staff schedules, civilian-safe traffic paths, storage spaces, visitor-control areas, and controlled connection points to the buried relay. The architecture must appear useful before it appears secure.
 
@@ -86,7 +86,7 @@ The campus is reviewed for believability as often as for secrecy.
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Campus personnel conduct genuine work according to public program schedules. Research output is allowed to exist outside A.C.T when it is safe, ordinary, and useful to the cover. Security monitors visitors, contractors, port contact, professional correspondence, and any attempt to map the campus beyond ordinary need. Cover personnel ensure that visible activity explains visible infrastructure.
 
@@ -94,7 +94,7 @@ If public attention increases, the campus responds with more truth before more d
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 SCRC can make the relay plausible, but it cannot eliminate all scrutiny. Real science invites real collaborators, real publication, real questions, and real expectations. The campus must therefore balance openness with separation. If the public program becomes too thin, cover fails. If it becomes too open, boundaries fail.
 
@@ -102,20 +102,20 @@ Known failure modes include over-scripted research, under-supported public claim
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## SCRC-F-6 Formation Review
+### SCRC-F-6 Formation Review
 The F-6 dossier states that the campus's marine, volcanic, and geological science must be genuine. SCRC was formalized to preserve the difference between a strong cover and a fragile lie.
 
-## SCRC-Public Scrutiny Exercise
+### SCRC-Public Scrutiny Exercise
 A simulated external research audit found that several equipment placements were easier to justify through real seismology than through restricted explanation. Current practice strengthens legitimate documentation before concealment layers are added.
 
-## SCRC-Boundary Exposure Notice
+### SCRC-Boundary Exposure Notice
 A contractor route once approached a concealed transition-adjacent maintenance zone. No exposure occurred, but visitor paths were revised so ordinary campus movement no longer carries people toward buried-relay boundaries.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Administration operates the campus. Research produces visible science. Security controls the boundary. Port Operations supports legitimate maritime presence. Cover personnel maintain public plausibility. Site Command decides when surface exposure requires deeper lockdown.
 
@@ -123,7 +123,7 @@ SCRC doctrine holds that normalcy is strongest when it has real weight behind it
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-05-ID-C-F-6 Surface Research and Transition Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-5 Personnel and Command Level Floor Dossier;
@@ -134,7 +134,7 @@ SCRC doctrine holds that normalcy is strongest when it has real weight behind it
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How much real publication can the campus support before research partners become exposure risks?
 - Which visible instruments best explain deeper monitoring without revealing it?
@@ -145,7 +145,7 @@ SCRC doctrine holds that normalcy is strongest when it has real weight behind it
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15
 **Author Desk:** Campus Director / Relay Administration / Central Archive

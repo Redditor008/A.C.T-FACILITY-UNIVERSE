@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - NATIVE CONTAINMENT FIELD SYSTEM
+### TECHNOLOGY RECORD - NATIVE CONTAINMENT FIELD SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -33,7 +33,7 @@
 **Distribution:** Hollow Canopy Enclosure / Verde Null Bio-Reserve / Environmental Containment / Research Support / Limited Security
 **Authority:** Enclosure Supervisor, Verde Null Site Command, Environmental Containment Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Native Containment Field System is the one-hundredth main A.C.T technology expanded into an individual record. The Hollow Canopy Enclosure dossier defines the sub-site as a concealed perimeter network for non-movable flora anomalies contained in place. It states that repeated relocation failures proved some flora anomalies safer, and only containable, where they grow. The dossier identifies native containment fields as perimeter-defined sectors where flora anomalies are managed in the environment they require.
 
 NCFS exists because for place-bound anomalous flora, the environment is not background. The environment is part of containment.
@@ -48,7 +48,7 @@ CONTAIN THE ROOT BY KEEPING THE WORLD AROUND IT STABLE.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 The Native Containment Field System is the in-place environmental containment technology used by Hollow Canopy Enclosure to manage non-movable flora anomalies inside their native or required growth fields. It combines concealed perimeters, soil-state control, canopy conditions, root-zone preservation, moisture and nutrient regulation, distance observation, resident-specific ecological boundaries, and transport denial doctrine.
 
@@ -58,7 +58,7 @@ Approved roles include place-bound flora containment, native-field preservation,
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Hollow Canopy's doctrine comes from failure. The Verde Null Bio-Reserve attempted to relocate non-movable flora anomalies into interior containment, and the results were degradation, escalation, or death. Those failures established the relocation-failure records that later shaped the enclosure. Moving the resident was not an improvement to containment. For some residents, moving the resident was the breach.
 
@@ -66,7 +66,7 @@ The native containment field developed as the answer. Rather than pull the anoma
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 An NCFS sector includes a resident growth zone, root-protection boundary, soil and moisture monitoring points, concealed perimeter markers, canopy condition controls, minimal-intrusion paths, environmental sampling posts, remote observation fixtures, incursion alarms, and sector condition ledgers. Built structures are secondary and minimized to avoid disturbing the resident field.
 
@@ -87,7 +87,7 @@ The field is treated as equipment because careless ecological change can be as d
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 During routine operation, Environmental Containment staff inspect perimeter integrity, soil condition, canopy state, water flow, resident growth behavior, and any sign of external approach. Research Support performs observation under distance and minimal-intrusion limits. Limited Security enforces concealed boundaries and responds to incursion without damaging the field.
 
@@ -95,7 +95,7 @@ No resident-field alteration may occur without parent-reserve authorization. No 
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 NCFS depends on environmental continuity. Weather, disease, fire, flood, soil contamination, animal movement, human incursion, fungal shift, seasonal stress, or anomaly-driven growth can all change containment conditions. The system also depends on staff patience. In-place containment can appear passive, but passive-looking containment may require constant ecological attention.
 
@@ -103,20 +103,20 @@ Known failure modes include root-shock, field drift, perimeter erosion, canopy l
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## NCFS-Relocation-Failure Formation
+### NCFS-Relocation-Failure Formation
 The Hollow Canopy dossier records repeated failed relocation attempts as the origin of the enclosure's doctrine. NCFS formalizes the lesson that some flora anomalies are contained by preserving location rather than by removing them from it.
 
-## NCFS-Native Field Expansion Review
+### NCFS-Native Field Expansion Review
 Early native fields relied on simple boundaries. Later review added environmental monitoring because the resident's field could drift before visible growth changed.
 
-## NCFS-Transport Denial Enforcement Drill
+### NCFS-Transport Denial Enforcement Drill
 A simulated emergency transfer request tested staff willingness to refuse movement. Current procedure treats transport denial as a containment requirement, not a scheduling obstacle.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Environmental Containment operates the field and resident environment. Research Support studies behavior, growth patterns, and environmental interaction under parent-reserve authority. Limited Security protects the perimeter and responds to incursions. Verde Null Site Command controls resident-field change and transport-denial exceptions.
 
@@ -124,7 +124,7 @@ NCFS doctrine holds that some residents are safer because they are not rescued f
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SUB-04-BR-C Hollow Canopy Enclosure Sub-Site Dossier;
 - ACT-SITE-04-BR-C Verde Null Bio-Reserve Site Dossier;
@@ -135,7 +135,7 @@ NCFS doctrine holds that some residents are safer because they are not rescued f
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which environmental conditions are resident requirements and which are ordinary field noise?
 - Can a place-bound flora anomaly expand its definition of place over time?
@@ -146,7 +146,7 @@ NCFS doctrine holds that some residents are safer because they are not rescued f
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Enclosure Supervisor / Environmental Containment Lead / Central Archive

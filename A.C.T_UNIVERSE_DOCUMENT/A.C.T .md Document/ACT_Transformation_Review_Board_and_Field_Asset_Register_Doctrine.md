@@ -1,18 +1,18 @@
 # A.C.T FACILITY ARCHIVE FILE
-## Transformation Review Board and Field Asset Register Doctrine
+### Transformation Review Board and Field Asset Register Doctrine
 
 **Archive Status:** Active  
 **Distribution:** Internal / Transformation / Research / Command / Archive  
 **Authority:** Transformation Division, Researcher Division, Medical Care Division, and O5 Review  
 
-### Archive Note
+#### Archive Note
 This doctrine creates the formal decision body and register language for A.C.T's most dangerous institutional act: turning anomaly contact into usable systems, materials, procedures, or field assets. It is not permission to transform more anomalies. It is the rule that makes approval, refusal, revocation, cost, and dissent visible.
 
 ---
 
-# TRANSFORMATION GOVERNANCE FOUNDATION
+## TRANSFORMATION GOVERNANCE FOUNDATION
 
-## 4.1 Purpose
+### 4.1 Purpose
 
 A.C.T is named for containment and transformation, but transformation without record is only exploitation with better lighting. The Facility must know not only what it can make from an anomaly, but who approved the making, who objected, what it cost, and what remains wounded afterward.
 
@@ -25,7 +25,7 @@ Together they answer whether an anomaly may become an amnestic, tool, medicine, 
 
 ---
 
-## 4.2 Transformation Review Board
+### 4.2 Transformation Review Board
 
 The Transformation Review Board, or TRB, is the decision body that approves, denies, suspends, or revokes attempts to derive operational use from anomalous properties.
 
@@ -44,7 +44,7 @@ A board without an objection channel is invalid.
 
 ---
 
-## 4.3 Determination IDs
+### 4.3 Determination IDs
 
 Every board ruling receives a **Transformation Determination ID**.
 
@@ -65,32 +65,32 @@ Determinations are not only approvals. Denials and revocations are equally impor
 
 ---
 
-## 4.4 Determination Types
+### 4.4 Determination Types
 
-### APPROVED
+#### APPROVED
 Transformation may proceed under defined limits.
 
-### LIMITED APPROVAL
+#### LIMITED APPROVAL
 Transformation may proceed only for a narrow use, bounded personnel set, or fixed time period.
 
-### DENIED
+#### DENIED
 Transformation is not authorized. Research may continue only if the denial permits it.
 
-### SUSPENDED
+#### SUSPENDED
 Existing authorization is paused because new evidence changed risk.
 
-### REVOKED
+#### REVOKED
 Existing transformed use must stop. Assets are recalled, retired, destroyed, or sealed.
 
-### MEMORIALIZED
+#### MEMORIALIZED
 The transformation cannot be undone, but the Board records it as a cost-bearing event rather than a success.
 
-### PROHIBITED FROM TRANSFORMATION
+#### PROHIBITED FROM TRANSFORMATION
 No future use-proposal may proceed without O5 reopening the record.
 
 ---
 
-## 4.5 Required Determination Fields
+### 4.5 Required Determination Fields
 
 Every TRB determination must include:
 
@@ -115,7 +115,7 @@ If the field "cost" is left blank, the determination is invalid.
 
 ---
 
-## 4.6 Sentience and Survivor Barrier
+### 4.6 Sentience and Survivor Barrier
 
 A sentient subject, sapient entity, human-derived anomaly, survivor, childlike subject, or entity with stable preference cannot be transformed as raw material merely because the transformation would help A.C.T.
 
@@ -131,7 +131,7 @@ If these cannot be answered, the proposal is denied or suspended.
 
 ---
 
-## 4.7 Transformed Field Asset Register
+### 4.7 Transformed Field Asset Register
 
 The Transformed Field Asset Register records usable outputs derived from anomalies. It is not a trophy shelf. It is a custody ledger for things A.C.T made possible.
 
@@ -153,7 +153,7 @@ The register does not imply approval by itself. A field asset must link back to 
 
 ---
 
-## 4.8 Asset Type Codes
+### 4.8 Asset Type Codes
 
 Recommended initial asset type codes:
 
@@ -173,7 +173,7 @@ New codes require Archive approval so the register does not become a private dia
 
 ---
 
-## 4.9 Field Asset Required Fields
+### 4.9 Field Asset Required Fields
 
 Each TFA entry must include:
 
@@ -194,7 +194,7 @@ Each TFA entry must include:
 
 ---
 
-## 4.10 Revocation Triggers
+### 4.10 Revocation Triggers
 
 A transformed asset is revoked when:
 
@@ -209,7 +209,7 @@ A transformed asset is revoked when:
 
 ---
 
-## 4.11 Case-Law Extract Style
+### 4.11 Case-Law Extract Style
 
 The Board must preserve short case-law extracts so later personnel know why a precedent exists.
 
@@ -229,7 +229,7 @@ The purpose is not to flatten anomalies into bureaucracy. The purpose is to stop
 
 ---
 
-## 4.12 Legacy Assets
+### 4.12 Legacy Assets
 
 A.C.T already has legacy transformed systems, most visibly the 004-series amnestic lineage. Older assets may predate this Board. They must be entered into the register with one of these authority tags:
 
@@ -244,7 +244,7 @@ Legacy does not mean clean. It means the cost may be older than the form.
 
 ---
 
-## 4.13 Red Lines
+### 4.13 Red Lines
 
 The Board may not approve:
 
@@ -258,7 +258,7 @@ The Board may not approve:
 
 ---
 
-## 4.14 Related Records
+### 4.14 Related Records
 
 - `ACT_Complete_Designation_and_Class_Reference.md`
 - `ACT_Anomaly_Classification_Manual_Archive.md`
@@ -268,7 +268,7 @@ The Board may not approve:
 
 ---
 
-## File Metadata
+### File Metadata
 
 ```text
 FILE CREATED:        12/09/2026

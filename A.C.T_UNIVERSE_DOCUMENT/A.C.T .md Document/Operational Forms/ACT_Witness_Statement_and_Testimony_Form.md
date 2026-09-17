@@ -1,20 +1,20 @@
 # A.C.T FACILITY ARCHIVE FILE
-## WITNESS STATEMENT AND TESTIMONY FORM
+### WITNESS STATEMENT AND TESTIMONY FORM
 
 **Archive Status:** Active Working Form  
 **Distribution:** Field Operators / Civil Covert / Medical Care / Archiver Division / Intelligence Division  
 **Authority:** Central Archive, Civil Covert Division, and Medical Care Division  
 
-### Archive Note
+#### Archive Note
 This form is used when a civilian, personnel member, contained subject, GOI contact, or other witness provides testimony connected to an anomalous event. The purpose is to preserve what was perceived before A.C.T normalcy work reshapes the public record.
 
 A witness statement is not automatically true. It is not automatically false. It is evidence of contact between a mind and an event that may not have obeyed the same rules for every observer.
 
 ---
 
-# WITNESS STATEMENT FOUNDATION
+## WITNESS STATEMENT FOUNDATION
 
-## 1. Use Conditions
+### 1. Use Conditions
 
 Use this form when testimony may affect:
 
@@ -34,7 +34,7 @@ Do not use this form as a casual interview transcript when no anomalous relevanc
 
 ---
 
-## 2. Witness Category
+### 2. Witness Category
 
 Mark one primary category and any secondary category required.
 
@@ -58,7 +58,7 @@ Witness category does not decide credibility by itself. A frightened civilian ma
 
 ---
 
-## 3. Statement Header
+### 3. Statement Header
 
 ```text
 STATEMENT ID:
@@ -89,7 +89,7 @@ If witness identity is unsafe to preserve, use a sealed identifier and record th
 
 ---
 
-## 4. Pre-Statement Handling Check
+### 4. Pre-Statement Handling Check
 
 Before testimony begins, the interviewer must confirm:
 
@@ -111,7 +111,7 @@ Failure to complete a check does not always stop testimony. It must be recorded 
 
 ---
 
-## 5. Free Statement Section
+### 5. Free Statement Section
 
 The interviewer should begin with a free statement before guided questions.
 
@@ -129,11 +129,11 @@ Do not correct the witness into A.C.T terminology during the first account.
 
 ---
 
-## 6. Guided Question Block
+### 6. Guided Question Block
 
 Use only the questions needed for the case.
 
-### Perception
+#### Perception
 
 ```text
 What did you see?
@@ -145,7 +145,7 @@ What did not change when it should have?
 Did anyone else react differently from you?
 ```
 
-### Time and Sequence
+#### Time and Sequence
 
 ```text
 What happened before the event?
@@ -155,7 +155,7 @@ Did you remember something before it happened?
 Did clocks, phones, cameras, shadows, or reflections disagree?
 ```
 
-### Body and Mind
+#### Body and Mind
 
 ```text
 Did your body feel altered?
@@ -165,7 +165,7 @@ Did you feel ordered to act?
 Did you want something that did not feel like your own want?
 ```
 
-### People and Entities
+#### People and Entities
 
 ```text
 Who was present?
@@ -176,7 +176,7 @@ Did anyone behave like they knew a script?
 Did any person, animal, object, or place seem to notice being watched?
 ```
 
-### Objects and Environment
+#### Objects and Environment
 
 ```text
 What object, doorway, sound, symbol, document, machine, animal, body, weather, road, room, screen, or file seemed central?
@@ -184,7 +184,7 @@ Was anything too clean, too old, too new, too staged, or impossible to damage?
 Did the environment behave as if it had rules?
 ```
 
-### Public Narrative
+#### Public Narrative
 
 ```text
 What explanation did people give before A.C.T arrived?
@@ -193,7 +193,7 @@ What explanation are others repeating now?
 Who benefits if that explanation is accepted?
 ```
 
-### GOI Indicators
+#### GOI Indicators
 
 ```text
 Did you see a name, logo, badge, uniform, chant, ticket, catalogue, contract, ritual phrase, maintenance message, company label, market price, or political slogan?
@@ -203,7 +203,7 @@ Did anyone try to remove evidence before emergency services arrived?
 
 ---
 
-## 7. Reliability and Alteration Assessment
+### 7. Reliability and Alteration Assessment
 
 This section is completed by A.C.T personnel, not the witness.
 
@@ -238,7 +238,7 @@ Low reliability does not mean low value. A distorted statement may reveal the sh
 
 ---
 
-## 8. Immediate Handling Orders
+### 8. Immediate Handling Orders
 
 ```text
 [ ] release under public narrative
@@ -265,7 +265,7 @@ Do not select amnestic treatment only because the testimony is inconvenient.
 
 ---
 
-## 9. Normalcy Narrative Attachment
+### 9. Normalcy Narrative Attachment
 
 Civil Covert must complete this section if the witness will return to public life.
 
@@ -284,7 +284,7 @@ A partial truth shard is a controlled fragment of truth left intact because full
 
 ---
 
-## 10. E-Class / Excommunicated Class Attachment
+### 10. E-Class / Excommunicated Class Attachment
 
 Complete only if the witness is E-Class.
 
@@ -304,7 +304,7 @@ E-Class testimony is not less human because the witness is excommunicated. It ma
 
 ---
 
-## 11. GOI-Affiliated Witness Attachment
+### 11. GOI-Affiliated Witness Attachment
 
 Complete only if a Group of Interest is involved or suspected.
 
@@ -335,7 +335,7 @@ A GOI-affiliated witness may require both witness filing and recovered-document 
 
 ---
 
-## 12. Closing Certification
+### 12. Closing Certification
 
 ```text
 INTERVIEWER CERTIFICATION:
@@ -357,7 +357,7 @@ RELATED FILES UPDATED:
 
 ---
 
-## 13. Red Lines
+### 13. Red Lines
 
 A.C.T will not:
 
@@ -372,7 +372,7 @@ A.C.T will not:
 
 ---
 
-## 14. Blank Field Copy
+### 14. Blank Field Copy
 
 ```text
 A.C.T FACILITY ARCHIVE FILE
@@ -447,7 +447,7 @@ RELATED FILES UPDATED:
 
 ---
 
-## File Metadata
+### File Metadata
 
 ```text
 FILE CREATED:        12/09/2026

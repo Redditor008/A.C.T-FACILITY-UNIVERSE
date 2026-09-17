@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - GALAXY-MOTIVE TEXTILE
+### TECHNOLOGY RECORD - GALAXY-MOTIVE TEXTILE
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Materials Custody / Protective Equipment / Biological Containment / Recovery / Medical / Site Safety  
 **Authority:** Materials Custody, Protective Equipment Desk, and Central Archive
 
-### Archive Note
+#### Archive Note
 Galaxy-Motive Textile is the forty-third main A.C.T technology expanded into an individual record. The Master Catalog defines it as self-luminous radiation-resistant fabric woven from restricted fibers and used in specialized containment apparel. The visual guide describes soft dark purple fabric with shifting stars and a radiation-counter strip in the hem that changes color from violet to black under high gamma exposure. Crystal Butterfly containment procedures require personnel entering the secondary chamber to wear Galaxy-Motive Textiles treated with a hydrophobic coating, paired with full-face Chrono-Stuttered Visors, because the colony's wing dust produces hydration-reactive burns and internal crystallization.
 
 GMT is not a uniform. It is a warning surface that protects the body while telling the room how much punishment the fabric has taken.
@@ -47,7 +47,7 @@ IF THE STARS GO DARK, LEAVE BEFORE THE SUIT BECOMES A RECORD OF YOUR MISTAKE.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Galaxy-Motive Textile is a specialized protective fabric used in radiation-heavy, particulate-heavy, and biologically hazardous environments where ordinary hazmat cloth tears, absorbs, or lies about exposure. It resists gamma exposure, supports hydrophobic treatment, and carries a built-in radiation-counter strip that changes from violet to black when exposure exceeds approved thresholds. The shifting star pattern is not decorative; it helps operators see fabric movement, fold stress, and contamination spread in low light.
 
@@ -65,7 +65,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND DEPLOYMENT
+## ORIGIN AND DEPLOYMENT
 
 GMT entered A.C.T service after conventional protective suits failed in environments where exposure was not evenly visible. Radiation can be invisible. Crystal dust can appear beautiful. Biological particulate can cling to seams and wait for moisture. A.C.T needed apparel that could resist harm, shed water, and report exposure before the wearer became the indicator.
 
@@ -75,7 +75,7 @@ Crystal Butterfly procedures formalized the current use case. Workers in the sec
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 GMT appears as soft, dark purple fabric with shifting star-like points across the weave. The pattern may drift slowly under changing light, but it should not pulse with the wearer's heartbeat. Each garment includes a radiation-counter strip in the hem. Under safe conditions the strip remains violet. Under high gamma exposure the strip darkens toward black. Hydrophobic-treated units bead water aggressively and must be inspected for gaps after laundering, repair, or field use.
 
@@ -96,7 +96,7 @@ Garments are issued by size, hazard class, and treatment state. Untreated GMT is
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before use, Protective Equipment Desk confirms garment integrity, hem strip baseline color, hydrophobic treatment date, seam condition, and assigned hazard. The wearer checks fit while moving, crouching, reaching, and turning. Exposed wrists, loose cuffs, dragging hems, and worn knees are corrected before entry. For Crystal Butterfly work, staff also confirm full-face visor seal and absence of wet tools.
 
@@ -106,7 +106,7 @@ After use, garments are scanned, logged, decontaminated, and inspected. A blacke
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 GMT does not make a wearer immune to radiation, acid, memetics, crushing pressure, direct bite force, or improper procedures. Hydrophobic treatment can degrade. Counter strips can saturate. The star pattern can distract untrained staff or create false beauty in already hazardous rooms. The textile may also retain particulate in seams if maintenance teams treat it like ordinary cloth.
 
@@ -114,20 +114,20 @@ Known failure modes include hem-strip saturation, hydrophobic gap, seam dust ret
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## GMT-2008 Crystal Butterfly Adoption
+### GMT-2008 Crystal Butterfly Adoption
 Crystal Butterfly containment established GMT as approved secondary-chamber apparel after hydrophobic treatment prevented crystalline dust from activating on suit surfaces. The file now requires GMT and full-face Chrono-Stuttered Visors for chamber entry.
 
-## GMT-2015 Hem Strip Saturation
+### GMT-2015 Hem Strip Saturation
 A radiation-counter strip reached black while the wearer continued working because the rest of the garment looked intact. Medical found elevated exposure. Training now states that the strip is not a suggestion; black means leave.
 
-## GMT-2024 Tailoring Breach
+### GMT-2024 Tailoring Breach
 A field team shortened a garment hem for mobility and removed part of the counter strip. The suit passed visual inspection but failed exposure logging. Unauthorized tailoring now triggers equipment quarantine.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Materials Custody controls fabric stock, restricted fibers, repairs, and retired garments. Protective Equipment Desk issues fitted suits and maintains treatment records. Biological Containment uses GMT for dust and particulate hazards. Recovery uses it in low-light contaminated zones. Medical monitors post-exposure symptoms. Site Safety controls decontamination and retirement.
 
@@ -135,7 +135,7 @@ Standing reminder: protective clothing that looks beautiful is still clothing yo
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 43;
 - ACT Technological Visual Reference Guide, Item 43;
@@ -147,7 +147,7 @@ Standing reminder: protective clothing that looks beautiful is still clothing yo
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Do the shifting stars react to contamination or only reveal fabric movement?
 - Can hydrophobic treatment interfere with the radiation-counter strip over long use?
@@ -158,7 +158,7 @@ Standing reminder: protective clothing that looks beautiful is still clothing yo
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Materials Custody / Protective Equipment Desk / Central Archive  

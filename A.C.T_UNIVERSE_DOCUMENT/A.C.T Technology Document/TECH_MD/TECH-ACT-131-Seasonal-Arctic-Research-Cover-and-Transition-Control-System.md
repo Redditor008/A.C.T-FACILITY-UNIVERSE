@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - SEASONAL ARCTIC RESEARCH COVER AND TRANSITION CONTROL SYSTEM
+### TECHNOLOGY RECORD - SEASONAL ARCTIC RESEARCH COVER AND TRANSITION CONTROL SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** White Grave Station / Research Surface Program / Administration / Logistics / Engineering / Security
 **Authority:** Surface Chief, Station Administration, Site Director, and Central Archive
 
-### Archive Note
+#### Archive Note
 Seasonal Arctic Research Cover and Transition Control System is the one-hundred-thirty-first main A.C.T technology expanded into an individual record. The White Grave F-6 Surface Research and Transition Level dossier identifies F-6 as the station's legitimate face: administrative buildings, conventional research laboratories, the power plant, vehicle maintenance, airstrip, and transition architecture connecting the surface to the buried station. It records genuine arctic science, seasonal flights and overland transport, concealed transition control, external communications, boundary monitoring, and doctrine that the arctic environment is an ally.
 
 SARCTCS exists because White Grave cannot hide by absence alone. In the arctic, a large installation with no reason to exist becomes more suspicious than one that works honestly in the open.
@@ -47,7 +47,7 @@ MAKE THE COVER TRUE ENOUGH TO SURVIVE SCRUTINY, AND MAKE THE TRANSITION CONTROLL
 
 ---
 
-# FUNCTION OUTLINE
+## FUNCTION OUTLINE
 
 Seasonal Arctic Research Cover and Transition Control System is White Grave's F-6 surface technology for maintaining a legitimate arctic research station while controlling the movement of personnel and material into the buried containment station below. It combines conventional laboratories, administrative structures, power plant, vehicle maintenance, airstrip, seasonal transport scheduling, concealed transition architecture, external communications, and boundary security.
 
@@ -57,7 +57,7 @@ Approved roles include legitimate research cover, seasonal flight coordination, 
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 White Grave's remoteness solved only part of the concealment problem. The station needed supplies, power, maintenance, aircraft, vehicles, administrators, and researchers, all in a region where unusual activity is hard to ignore precisely because there is so little activity around it. The solution was not an empty cover but a working one.
 
@@ -65,7 +65,7 @@ F-6 developed as the station's legitimate face from the founding period. Its sur
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A SARCTCS installation includes surface administrative buildings, conventional research laboratories, airstrip, aircraft servicing area, vehicle maintenance bay, power plant, weather protection systems, seasonal cargo processing points, concealed vertical transition controls, boundary monitoring stations, external communication panels, and buried-network separation nodes.
 
@@ -86,7 +86,7 @@ The surface system must be credible to outsiders and precise to insiders at the 
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before seasonal movement, SARCTCS verifies transport window, flight or convoy identity, weather condition, personnel roster, shipment manifest, cover-facing purpose, buried-station destination, Security review, and whether the movement can be explained inside legitimate research operations. Conventional science continues regardless of concealed activity; the visible station must not pause in ways that reveal the hidden one.
 
@@ -94,7 +94,7 @@ Arriving personnel and material pass through surface processing before concealed
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 SARCTCS depends on a cover that must actually function. Failed research output, unrealistic logistics, unexplained transport spikes, or visible mismatch between surface population and station activity can weaken concealment. The seasonal boundary protects White Grave but also creates pressure: when transport windows open, personnel may rush movement, accept incomplete screening, or overload transition architecture.
 
@@ -102,20 +102,20 @@ Known failure modes include transport-window compression, cover publication gap,
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## SARCTCS-Genuine Cover Standard
+### SARCTCS-Genuine Cover Standard
 A cover review found that false research would fail under long scrutiny. Current doctrine requires the surface laboratories to conduct legitimate work with records, personnel, and outputs that can survive ordinary inspection.
 
-## SARCTCS-Seasonal Boundary Finding
+### SARCTCS-Seasonal Boundary Finding
 Transport incidents established that arctic access windows are both protection and constraint. Current procedure treats seasonal transport as a security layer rather than a mere scheduling inconvenience.
 
-## SARCTCS-Transition Concealment Review
+### SARCTCS-Transition Concealment Review
 A transition audit found that ordinary maintenance areas could reveal buried movement if route timing became repetitive. Current practice varies movement within credible surface logistics patterns.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Research Division operates the visible scientific program. Station Administration maintains cover identity and surface command. Logistics and Engineering sustain transport, power, and maintenance. Security controls the transition architecture and surface boundary. Command uses SARCTCS to keep the buried station supplied without making supply itself a disclosure.
 
@@ -123,7 +123,7 @@ SARCTCS doctrine holds that a cover is strongest when it is also true, and the a
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-02-RU-N-F-6 Surface Research and Transition Level Floor Dossier;
 - ACT-SITE-02-RU-N-F-5 Personnel Habitation and Support Floor Dossier;
@@ -134,7 +134,7 @@ SARCTCS doctrine holds that a cover is strongest when it is also true, and the a
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How much real science is enough to keep a cover alive through decades of scrutiny?
 - Can a seasonal transport delay become safer than a rushed concealed transition?
@@ -145,7 +145,7 @@ SARCTCS doctrine holds that a cover is strongest when it is also true, and the a
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Surface Chief / Station Administration / Central Archive

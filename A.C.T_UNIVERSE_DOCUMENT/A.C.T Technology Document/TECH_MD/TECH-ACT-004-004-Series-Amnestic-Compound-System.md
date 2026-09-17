@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - 004-SERIES AMNESTIC COMPOUND SYSTEM
+### TECHNOLOGY RECORD - 004-SERIES AMNESTIC COMPOUND SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -34,7 +34,7 @@
 **Distribution:** Medical Care / Civil Covert / Transformation Review / Subject Care / Archive / Site Command / Command  
 **Authority:** Medical Care Division, Civil Covert Division, Transformation Review Board, Memory Review, and Central Archive
 
-### Archive Note
+#### Archive Note
 The 004-Series Amnestic Compound System is the fourth main A.C.T technology expanded into an individual record under A.C.T-owned technology numbering. It is already present in the 004-Series Amnestic Compound Reference, the technological timeline, the master technology index, the visual reference guide, normalcy doctrine, personnel exposure doctrine, operational forms, and multiple anomaly case chains. The 004-series is one of the clearest examples of A.C.T transformation doctrine: a dangerous anomaly, AFD-NB-004 / NEMNOLIA, The Golden Veil, became a controlled memory-suppression system used to preserve secrecy, interrupt exposure, and manage witness continuity.
 
 The 004-series is not ordinary medicine, not a cleanup convenience, not a painless eraser, not a lie-making machine, and not a moral absolution system. It is a graded family of anomaly-derived neurological erasure agents. Every use is an intervention against a person's continuity. Even when medically justified, operationally necessary, or mercifully chosen, it leaves an institutional trace.
@@ -43,9 +43,9 @@ This file expands the existing compound reference into a working technology reco
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
-## Practical Function
+### Practical Function
 
 The 004-series provides controlled memory suppression by applying stabilized derivatives of AFD-NB-004 sap at different concentrations. In practical terms, A.C.T uses it to remove, blur, collapse, or shorten access to selected memory ranges after anomaly exposure. It supports public normalcy, witness sanitation, personnel care, memetic hazard interruption, recovered-document exposure response, GOI information containment, dream or chronology contamination review, and post-breach stabilization.
 
@@ -59,7 +59,7 @@ REMOVE ONLY THE MEMORY YOU CAN ANSWER FOR.
 
 This rule exists because the easiest memory to remove is often not the safest memory to remove. A witness may need enough truth to avoid a dangerous location. A staff member may need a retained briefing packet to understand their own scar. A child may need a partial truth shard because a blank space invites obsession. A victim may need continuity more than silence.
 
-## Operational Role
+### Operational Role
 
 The 004-series appears in five major roles:
 
@@ -73,21 +73,21 @@ The 004-series appears in five major roles:
 
 ---
 
-# ORIGIN AND CUSTODY
+## ORIGIN AND CUSTODY
 
-## Source Anomaly
+### Source Anomaly
 
 AFD-NB-004 secretes glowing translucent golden sap with memory-destructive properties. In raw form, the sap can erase, fracture, or collapse human memory continuity. Through controlled dilution, stabilization, and pharmaceutical refinement, A.C.T categorized derivative classes based on concentration. The refined ingredient is also cataloged as Refined NEMNOLIA Sap, a golden syrup stored in lead-lined vials with molecular-stabilizer caps to prevent evaporation into an airborne memetic hazard.
 
 The 004-series sits between technology, medicine, anomaly derivative, and institutional burden. It is A.C.T technology because A.C.T refines, grades, authorizes, stores, administers, audits, and records it. It is anomaly-derived because its active memory action originates in NEMNOLIA. Both truths must remain visible to authorized staff.
 
-## Development History
+### Development History
 
 The technological timeline records 004-Series Refinement in 1952, with industrial-scale production of stabilized memory-solvent compounds and establishment of the Graded Amnestic Standard. That date marks the transition from dangerous source-sap handling to institutional memory-control infrastructure.
 
 Normalcy doctrine warns that if A.C.T forgets where its amnestics came from, the normalcy system begins lying to itself. This record preserves that warning as a technical control. Provenance is not trivia. Provenance is a safety feature.
 
-## Custody
+### Custody
 
 Primary custody belongs to Medical Care Division and Civil Covert Division. Medical controls grade selection, contraindication screening, dosage, administration, aftercare, repeated-use limits, and adverse event review. Civil Covert controls normalcy purpose, public narrative compatibility, witness sanitation requirements, and large-scale logistics.
 
@@ -95,9 +95,9 @@ Transformation Review controls provenance and derivative-use ethics. Subject Car
 
 ---
 
-# GRADE STRUCTURE AND SYSTEM DESCRIPTION
+## GRADE STRUCTURE AND SYSTEM DESCRIPTION
 
-## Recognized Grades
+### Recognized Grades
 
 The recognized grades are recorded as follows:
 
@@ -114,7 +114,7 @@ The recognized grades are recorded as follows:
 
 Lower concentration usually means a safer intended erasure window. Higher concentration moves the compound from memory suppression toward memory collapse and identity destruction. This is a gradient, not a comfort.
 
-## Known Components and Packaging
+### Known Components and Packaging
 
 Known system components include:
 
@@ -136,15 +136,15 @@ Raw sap, unstable dilution, cracked stabilizer caps, or unexplained golden vapor
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
-## Review Before Administration
+### Review Before Administration
 
 A.C.T uses the Amnestic Administration and Memory-Aftercare Review Form whenever memory alteration is considered, approved, denied, administered, withheld, reversed, audited, or followed up. A denied request must still be recorded if it reached Medical Care, Civil Covert, Site Command, or Central Archive.
 
 The request must identify person category, exposure condition, memory target, estimated range, memory anchors to preserve, memory anchors to remove, memory anchors that must not be touched, replacement story pressure, consent condition, override authority, expected side effects, and aftercare plan. "Knows too much" is not sufficient.
 
-## Authorized Use
+### Authorized Use
 
 Level 4 Medical and Civil Covert review is required for ordinary controlled use. Level 5 review is required for 004-A through 004-D, mass administration, personnel repeated-use concern, minors without consent, E-Class / Excommunicated Class treatment, living anomaly subjects, and any case where amnestic use may hide internal misconduct.
 
@@ -161,15 +161,15 @@ Basic administration states:
 
 004-BLACK requires immediate Archive, Medical, Legal, and Command notification.
 
-## Handling Rules
+### Handling Rules
 
 Do not administer 004-series compounds as punishment, convenience, intimidation, or schedule repair. Do not administer after the person refuses unless override authority is written plainly. Do not use false memory insertion without separate justification. Do not erase a memory anchor required for safety. Do not use amnestics to make personnel available for the same exposure again without Medical Care and Personnel Review approval. Do not use amnestics to hide A.C.T misconduct.
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
-## What 004 Cannot Do
+### What 004 Cannot Do
 
 The 004-series cannot make harm unhappen, cannot guarantee trauma resolution, cannot remove all physical evidence, cannot prevent every dream recurrence, cannot repair identity after excessive grade use, cannot make a false public story ethically true, and cannot replace witness care. It changes access to memory. It does not erase consequence.
 
@@ -183,7 +183,7 @@ The system is weakest against:
 - QNB-preserved records that later contradict the treated person's memory;
 - GOIs that use amnestic gaps as recruitment proof.
 
-## Misuse Risk
+### Misuse Risk
 
 004 misuse can injure the person and the institution. Over-erasure creates hollow continuity, false calm, grief fracture, repeated exposure, and dependence on official lies. Under-erasure can leave unstable recall, memetic hooks, obsession, panic, or public exposure. Incorrect grade selection can cause organ damage, neurological breakdown, blindness, coma, heart decay, or catastrophic identity loss.
 
@@ -195,21 +195,21 @@ A quiet witness is not proof of a healed witness.
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## 004-C FIELD OVERGRADE REVIEW
+### 004-C FIELD OVERGRADE REVIEW
 
 A field team requested 004-C for a civilian who had seen a containment breach. Medical later determined the target memory range was less than forty minutes and that the witness needed a location-avoidance truth shard. The request was denied and replaced with 004-H plus a controlled warning. The witness remained stable. Civil Covert recorded that the original request used fear of exposure to justify excessive grade.
 
 This case is now used to train reviewers that severity of panic is not the same as size of memory range.
 
-## PERSONNEL REPEATED-USE HOLLOWING
+### PERSONNEL REPEATED-USE HOLLOWING
 
 A security operator received multiple short-window amnestics across unrelated incidents. Each administration was individually justified. The combined effect produced emotional misbinding, duty confusion, and inability to explain scars without reading old packets. Personnel Review suspended return to repeated exposure work.
 
 Corrective action required repeated-use history fields and retained briefing packets for post-amnestic selves.
 
-## NEMNOLIA VIAL CAP FAILURE
+### NEMNOLIA VIAL CAP FAILURE
 
 A refined sap vial with a damaged molecular-stabilizer cap produced a thin golden vapor inside a medical lockbox. Two technicians reported losing the same afternoon, but QNB-linked access logs showed only seventeen minutes of unaccounted activity. The contradiction remains unresolved. The lockbox was sealed and transferred to Transformation Review.
 
@@ -217,29 +217,29 @@ This incident is the reason cracked stabilizer caps are treated as airborne meme
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
-## Medical Care Division
+### Medical Care Division
 
 Medical controls grade selection, screening, dosage, administration, adverse-effect response, aftercare, repeated-use review, and refusal escalation. Medical may deny amnestic use even when Civil Covert requests it, if medical or continuity risk exceeds operational benefit.
 
-## Civil Covert Division
+### Civil Covert Division
 
 Civil Covert defines normalcy need, public story compatibility, witness exposure risk, media pressure, and replacement-memory pressure. Civil Covert may not treat amnestics as a substitute for narrative repair.
 
-## Transformation Review and Archive
+### Transformation Review and Archive
 
 Transformation Review preserves NEMNOLIA provenance, derivative safety, raw sap restrictions, and the ethical fact that this technology began as a dangerous anomaly. Archive preserves administration records, denied requests, QNB-linked logs, and post-treatment contradictions.
 
-## Subject Care, Legal, and Site Command
+### Subject Care, Legal, and Site Command
 
 Subject Care attaches for minors, survivors, altered persons, contained subjects, and witnesses whose memory may be part of safety. Legal attaches when consent, refusal, custody, misconduct, or mass public administration is involved. Site Command approves emergency use during breach but must accept after-action review.
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
-## Related A.C.T Records
+### Related A.C.T Records
 
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/NEMNOLIA-004-Series-Amnestic-Archive.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Master_Index_50.md`
@@ -251,7 +251,7 @@ Subject Care attaches for minors, survivors, altered persons, contained subjects
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/TECH-ACT-003-Quantum-Narrative-Buffer-System.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/00_Technology_Record_Template.md`
 
-## Technology Relationship
+### Technology Relationship
 
 The 004-series interacts with, but is distinct from:
 
@@ -266,7 +266,7 @@ Each system requires its own individual technology record. This file covers the 
 
 ---
 
-# OPEN ENGINEERING, MEDICAL, AND ETHICS QUESTIONS
+## OPEN ENGINEERING, MEDICAL, AND ETHICS QUESTIONS
 
 - Can any 004-grade be made safer without hiding the NEMNOLIA provenance that keeps staff cautious?
 - How many repeated short-window administrations equal one severe continuity injury?
@@ -279,7 +279,7 @@ Each system requires its own individual technology record. This file covers the 
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 ```text
 FILE CREATED:            15/09/2026

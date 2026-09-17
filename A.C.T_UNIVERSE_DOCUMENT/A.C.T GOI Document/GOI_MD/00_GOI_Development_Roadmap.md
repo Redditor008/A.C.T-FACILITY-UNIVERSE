@@ -1,5 +1,5 @@
 # A.C.T Group of Interest Expansion Roadmap
-## Twenty original core-GOI concepts, prepared for one-at-a-time development
+### Twenty original core-GOI concepts, prepared for one-at-a-time development
 
 **Status:** Structural planning scaffold only - the twenty listed entries are **not approved GOI names, not approved designations, and not a selection menu**; no scaffold entry becomes canon unless Central Archive explicitly authorizes or rewrites it in a later archive order
 **Prepared:** 06 September 2026
@@ -9,7 +9,7 @@
 
 ---
 
-## 1. What this roadmap does - and does not do
+### 1. What this roadmap does - and does not do
 
 This roadmap preserves a **twenty-slot structural scaffold** that was created during earlier planning. The scaffold demonstrates possible GOI distribution across nature classes, alignment classes, narrative functions, and site jurisdictions. It does **not** mean Central Archive approved the names, designations, or premises chosen for those slots.
 
@@ -25,7 +25,7 @@ This protects the project from the most common expansion problem: a setting gain
 
 ---
 
-## 2. Renewed corpus review and boundary
+### 2. Renewed corpus review and boundary
 
 A renewed internal source review was completed before this roadmap was written. The review indexed all **250 non-binary textual files** in the approved A.C.T. planning corpus and closely re-read the principal doctrine, history, site, story, anomaly-format, log-format, technology, orientation, and GOI-registry material.
 
@@ -47,7 +47,7 @@ A.C.T_UNIVERSE_DOCUMENT/Junior Handbook/ACT_Orientation_Handbook.md
 
 The source-protected `Emergent Reality Anomaly/` folder was inventoried only as an excluded repository subtree. Its 715 material, associated logs, and image are **not** planning input for any candidate below. The same boundary excludes Project Moon/SCP crossover material from the independent-core GOI plan.
 
-### 2.1 Existing registry anchors - reserved, not counted
+#### 2.1 Existing registry anchors - reserved, not counted
 
 The source registry presently names these existing examples/anchors:
 
@@ -59,11 +59,11 @@ They are documented separately as source-anchored, expanded in-world A.C.T archi
 
 ---
 
-## 3. Canon rules that every future GOI must obey
+### 3. Canon rules that every future GOI must obey
 
 The future detailed records must be built around A.C.T.'s actual setting logic.
 
-### 3.1 The group must be more than an enemy label
+#### 3.1 The group must be more than an enemy label
 
 A good GOI needs all four of these dimensions:
 
@@ -72,7 +72,7 @@ A good GOI needs all four of these dimensions:
 3. **A relationship to A.C.T.** - not automatically hostile; it may be a partner, nuisance, rival, trade contact, moral critic, or danger that A.C.T reluctantly needs.
 4. **A consequence** - what changes for people, Structural Reality, secrecy, or a site jurisdiction if the group succeeds.
 
-### 3.2 The classification stack is mandatory
+#### 3.2 The classification stack is mandatory
 
 Each completed record must use the already-established structure:
 
@@ -89,13 +89,13 @@ A.C.T. Posture
 
 Nature codes in this roadmap are deliberately balanced across Government, Corporate, Cultic, Scientific, Civil, Militant, Anomalous, In-Human, Business, and Hybrid forms. The codes use the system already defined in Part Four; no new code system is being invented.
 
-### 3.3 A.C.T. remains the central containment institution
+#### 3.3 A.C.T. remains the central containment institution
 
 None of these groups should casually outclass the Facility, erase the purpose of the five regional Sites, or solve the First Lie. They should create **pressure around the existing system**, not replace it.
 
 The First Lie, ERE, ITHYOS, NEMNOLIA, the founders' self-erasure, and the main story's revelations remain protected core material. A later GOI may encounter their effects only if Central Archive approves a specific, continuity-safe connection. No scaffold slot is assumed to possess that knowledge.
 
-### 3.4 Geography is an operational choice, not decoration
+#### 3.4 Geography is an operational choice, not decoration
 
 A future GOI's site relationship should come from the existing site lattice:
 
@@ -110,7 +110,7 @@ A final dossier will explain why a given site has responsibility. It will not ad
 
 ---
 
-## 4. Coverage plan
+### 4. Coverage plan
 
 The twenty scaffold slots are distributed across all ten existing Nature Classes as a structure example only. This demonstrates balance, but it does not approve the slot names or require those exact groups to be created.
 
@@ -152,11 +152,11 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 
 ---
 
-# 5. The twenty structural GOI scaffold slots
+## 5. The twenty structural GOI scaffold slots
 
 **Important archive control note:** Each entry below is a structural placeholder only. The designation, classification, name, and premise are not approved canon. They may be kept, renamed, rewritten, replaced by a GOI already mentioned in an anomaly file, or discarded when Central Archive directs actual GOI creation.
 
-## 01 - Office of Public Continuity
+### 01 - Office of Public Continuity
 
 - **Provisional designation:** `GOI-GV-N-028`
 - **Class direction:** Government / Neutral / National / Handler / Threat 3 / Leaking / Monitor + Misdirect
@@ -165,7 +165,7 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 - **Likely jurisdiction:** Site 01 with Central legal/archive review.
 - **Key drafting question:** When does protecting ordinary people's practical lives become a demand to control the truth of those lives?
 
-## 02 - Treaty of Closed Harbors
+### 02 - Treaty of Closed Harbors
 
 - **Provisional designation:** `GOI-GV-U-029`
 - **Class direction:** Government / Unknown / Transnational / Handler / Threat 3 / Veiled / Monitor + Infiltrate
@@ -174,7 +174,7 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 - **Likely jurisdiction:** Site 05, with cross-site routing review.
 - **Key drafting question:** Is the treaty hiding anomalies, or hiding a pattern of governmental exploitation beneath them?
 
-## 03 - Morrowline Indemnity
+### 03 - Morrowline Indemnity
 
 - **Provisional designation:** `GOI-CP-B-030`
 - **Class direction:** Corporate / Business / Transnational / Handler / Threat 3 / Exposure-Active / Monitor + Infiltrate
@@ -183,7 +183,7 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 - **Likely jurisdiction:** Site 01, with Site 04 consultation for contaminated properties.
 - **Key drafting question:** Can A.C.T. use the company's cover infrastructure without becoming complicit in dispossession?
 
-## 04 - Nacre Vector Biologics
+### 04 - Nacre Vector Biologics
 
 - **Provisional designation:** `GOI-CP-X-031`
 - **Class direction:** Corporate / Negative / Transnational / Engineering / Threat 4 / Leaking / Dismantle + Appropriate
@@ -192,7 +192,7 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 - **Likely jurisdiction:** Site 04 with Medical and Transformation Division review.
 - **Key drafting question:** What happens when a cure is medically real but its production makes the underlying anomaly worse?
 
-## 05 - The Still Hour Congregation
+### 05 - The Still Hour Congregation
 
 - **Provisional designation:** `GOI-CU-U-032`
 - **Class direction:** Cultic / Unknown / Regional / Practitioner / Threat 2 / Veiled / Monitor
@@ -201,7 +201,7 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 - **Likely jurisdiction:** Site 03 with temporal/reality-theory review.
 - **Key drafting question:** Does the group understand a real pattern, or is its obedience helping to create one?
 
-## 06 - The Lanternless Pilgrims
+### 06 - The Lanternless Pilgrims
 
 - **Provisional designation:** `GOI-CU-N-033`
 - **Class direction:** Cultic / Neutral / Transnational / Practitioner / Threat 2 / Veiled / Cooperated + Monitor
@@ -210,7 +210,7 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 - **Likely jurisdiction:** Site 04 and Site 05, depending on the route.
 - **Key drafting question:** What does ethical cooperation look like when the only effective containment practice belongs to a community A.C.T. does not control?
 
-## 07 - Meridian Survey
+### 07 - Meridian Survey
 
 - **Provisional designation:** `GOI-SC-P-034`
 - **Class direction:** Scientific / Positive / Transnational / Practitioner / Threat 2 / Leaking / Cooperated + Monitor
@@ -219,7 +219,7 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 - **Likely jurisdiction:** Site 05 with Site 02 technical support.
 - **Key drafting question:** How much true information can A.C.T. share before the existence of the pattern becomes a danger itself?
 
-## 08 - The Second Observation Society
+### 08 - The Second Observation Society
 
 - **Provisional designation:** `GOI-SC-U-035`
 - **Class direction:** Scientific / Unknown / National / Practitioner / Threat 3 / Veiled / Infiltrate
@@ -228,7 +228,7 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 - **Likely jurisdiction:** Site 03 / Kurokawa Archive Node.
 - **Key drafting question:** Is the Society preventing information hazards, or manufacturing them to prove its theory?
 
-## 09 - Quiet Harbor Mutual
+### 09 - Quiet Harbor Mutual
 
 - **Provisional designation:** `GOI-CV-P-036`
 - **Class direction:** Civil / Positive / Regional / Exposed / Threat 1 / Leaking / Help + Cooperated
@@ -237,7 +237,7 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 - **Likely jurisdiction:** Site 05.
 - **Key drafting question:** Can a secrecy-driven institution genuinely partner with a community whose first duty is to its own missing people?
 
-## 10 - The Last Address Network
+### 10 - The Last Address Network
 
 - **Provisional designation:** `GOI-CV-N-037`
 - **Class direction:** Civil / Neutral / Transnational / Exposed / Threat 2 / Leaking / Monitor + Misdirect
@@ -246,7 +246,7 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 - **Likely jurisdiction:** Site 01 and Site 03.
 - **Key drafting question:** Can a civilian archive preserve enough truth to save victims without triggering a larger exposure event?
 
-## 11 - The Iron Quiet
+### 11 - The Iron Quiet
 
 - **Provisional designation:** `GOI-ML-X-038`
 - **Class direction:** Militant / Negative / National / Engineering / Threat 4 / Normalcy-Breaching / Dismantle
@@ -255,7 +255,7 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 - **Likely jurisdiction:** Site 01 with Central Military review.
 - **Key drafting question:** How can A.C.T. oppose an organization whose visible goal-preventing panic-looks uncomfortably similar to its own?
 
-## 12 - The Boundary Wardens
+### 12 - The Boundary Wardens
 
 - **Provisional designation:** `GOI-ML-G-039`
 - **Class direction:** Militant / Guild / Local / Handler / Threat 2 / Veiled / Cooperated + Monitor
@@ -264,7 +264,7 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 - **Likely jurisdiction:** Site 02 or Site 04, selected only when the individual dossier establishes the exact location.
 - **Key drafting question:** When does a community's right to protect its own boundary become an unacceptable containment risk?
 
-## 13 - The Unfinished Assembly
+### 13 - The Unfinished Assembly
 
 - **Provisional designation:** `GOI-AN-U-040`
 - **Class direction:** Anomalous / Unknown / Structural / Reality-Active / Threat 4 / Leaking / Contain + Monitor
@@ -273,7 +273,7 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 - **Likely jurisdiction:** Site 03 with Central Archive review.
 - **Key drafting question:** What must A.C.T. preserve when the act of documenting the group changes who the group is?
 
-## 14 - The Chorus of Shared Names
+### 14 - The Chorus of Shared Names
 
 - **Provisional designation:** `GOI-AN-N-041`
 - **Class direction:** Anomalous / Neutral / Regional / Practitioner / Threat 2 / Veiled / Help + Monitor
@@ -282,7 +282,7 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 - **Likely jurisdiction:** Site 04 with Medical and Archiver consultation.
 - **Key drafting question:** Can containment respect personhood when personhood is shared but not erased?
 
-## 15 - The Brine Witnesses
+### 15 - The Brine Witnesses
 
 - **Provisional designation:** `GOI-IH-U-042`
 - **Class direction:** In-Human / Unknown / Regional / Practitioner / Threat 3 / Veiled / Monitor
@@ -291,7 +291,7 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 - **Likely jurisdiction:** Site 05 / Nusantara Deep Relay.
 - **Key drafting question:** How can A.C.T. establish reciprocity with a group whose communication is evidence, not language?
 
-## 16 - Hushfield Court
+### 16 - Hushfield Court
 
 - **Provisional designation:** `GOI-IH-X-043`
 - **Class direction:** In-Human / Negative / Transnational / Reality-Active / Threat 4 / Exposure-Active / Contain + Infiltrate
@@ -300,7 +300,7 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 - **Likely jurisdiction:** Central legal/archive review with Site 03 support.
 - **Key drafting question:** Is the Court exploiting human promises, or exposing the harm already hidden inside them?
 
-## 17 - Pale Freight Compact
+### 17 - Pale Freight Compact
 
 - **Provisional designation:** `GOI-BS-T-044`
 - **Class direction:** Business / Trade / Transnational / Handler / Threat 3 / Leaking / Monitor + Infiltrate
@@ -309,7 +309,7 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 - **Likely jurisdiction:** Site 01 and Site 05.
 - **Key drafting question:** What price does the Compact charge when its routes are the only way to prevent a public disaster?
 
-## 18 - Secondhand Reliquaries
+### 18 - Secondhand Reliquaries
 
 - **Provisional designation:** `GOI-BS-B-045`
 - **Class direction:** Business / Business / Global / Handler / Threat 3 / Exposure-Active / Infiltrate + Dismantle
@@ -318,7 +318,7 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 - **Likely jurisdiction:** Site 01 / Redwood Veil Complex.
 - **Key drafting question:** How does A.C.T. retrieve an object once prestige, private ownership, and public curiosity have become its containment breach?
 
-## 19 - Threshold Census
+### 19 - Threshold Census
 
 - **Provisional designation:** `GOI-HY-U-046`
 - **Class direction:** Hybrid / Unknown / National / Reality-Active / Threat 4 / Leaking / Monitor + Contain
@@ -327,7 +327,7 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 - **Likely jurisdiction:** Site 03 with Site 01 civil-continuity coordination.
 - **Key drafting question:** Is the Census preventing disasters, selecting who is allowed to survive them, or both?
 
-## 20 - Deep-Pressure Accord
+### 20 - Deep-Pressure Accord
 
 - **Provisional designation:** `GOI-HY-X-047`
 - **Class direction:** Hybrid / Negative / Transnational / Engineering / Threat 5 / Normalcy-Breaching / Dismantle + Contain
@@ -338,11 +338,11 @@ The twenty scaffold slots are distributed across all ten existing Nature Classes
 
 ---
 
-# 6. Single-order creation procedure
+## 6. Single-order creation procedure
 
 When Central Archive authorizes a GOI, the next registry order may create **only that one** individual GOI dossier. The authorization may name a scaffold slot, but it may also name a different approved GOI or a GOI already mentioned in an anomaly file.
 
-## 6.1 Suggested Central Archive registry order form
+### 6.1 Suggested Central Archive registry order form
 
 ```text
 Create one GOI dossier for [approved GOI name / anomaly-mentioned group / revised scaffold slot].
@@ -350,7 +350,7 @@ Create one GOI dossier for [approved GOI name / anomaly-mentioned group / revise
 
 A later registry order may rename, reorder, combine, replace, or reject any scaffold slot before creation. A scaffold name is not assumed accepted.
 
-## 6.2 What one registry creation order will contain
+### 6.2 What one registry creation order will contain
 
 For the selected approved GOI only, the work will:
 
@@ -363,13 +363,13 @@ For the selected approved GOI only, the work will:
 
 No other GOI becomes a dossier pair in the same registry order. The next new GOI waits for another Central Archive registry order.
 
-## 6.3 Review before registry integration
+### 6.3 Review before registry integration
 
 A completed individual dossier remains **Archive Review** until Central Archive accepts it. It will not automatically rewrite the older Part Four registry, master book, main story, site registry, or live wiki material. A later, controlled registry-integration pass can update those documents in a controlled way.
 
 ---
 
-# 7. Creation safeguards
+## 7. Creation safeguards
 
 Before writing a single new GOI, confirm all of the following:
 
@@ -388,6 +388,6 @@ Before writing a single new GOI, confirm all of the following:
 
 ---
 
-## Closing planning statement
+### Closing planning statement
 
 This roadmap establishes breadth without rushing canon. The A.C.T. universe can now grow from a small set of external-pressure examples into a layered political, commercial, civil, scientific, anomalous, and in-human world-one carefully authored group at a time.

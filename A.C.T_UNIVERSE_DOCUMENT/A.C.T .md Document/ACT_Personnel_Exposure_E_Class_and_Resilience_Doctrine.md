@@ -1,19 +1,19 @@
 # A.C.T FACILITY ARCHIVE FILE
-## Personnel Exposure, Excommunicated Class, and Resilience Doctrine
+### Personnel Exposure, Excommunicated Class, and Resilience Doctrine
 
 **Archive Status:** Active  
 **Distribution:** Internal / Division Command / Subject Care / Medical Care  
 **Authority:** Administration, Medical Care Division, Subject Care Division, and Personnel Review  
 
-### Archive Note
+#### Archive Note
 This doctrine formalizes the human side of A.C.T operations: Excommunicated Class personnel, exposure rotation, resilience review, aftercare, and the limit between necessary risk and institutional cruelty. It does not replace the Divisions and Personnel archive. It supplies the missing operational rules that keep personnel from becoming invisible equipment.
 
 
 ---
 
-# PERSONNEL CARE FOUNDATION
+## PERSONNEL CARE FOUNDATION
 
-## 2.1 Purpose
+### 2.1 Purpose
 
 A.C.T personnel do not work beside ordinary hazards. They work beside things that can damage memory, identity, sleep, language, chronology, biology, belief, and the body's ability to remain itself. The Facility cannot claim to protect normalcy while treating its own people as disposable insulation between humanity and the anomalous.
 
@@ -27,7 +27,7 @@ This doctrine exists to answer five standing questions:
 
 ---
 
-## 2.2 E-Class Personnel Definition
+### 2.2 E-Class Personnel Definition
 
 **E-Class** means **Excommunicated Class**. The term refers to personnel who have been removed from normal institutional protection, normal civic identity, and normal career standing because A.C.T has judged them condemned, censured, legally erased, operationally isolated, or already lost to a condition that ordinary staff cannot be asked to carry.
 
@@ -35,7 +35,7 @@ E-Class is not the same as ordinary exposed personnel. Many A.C.T workers face a
 
 The category is deliberately ugly. A.C.T doctrine does not allow the word to become clean. If a file says E-Class, the archive must remember that the institution has already crossed a moral line before the test begins.
 
-### E-Class is not authorized for:
+#### E-Class is not authorized for:
 
 - punishment duty;
 - coercive sacrifice;
@@ -47,31 +47,31 @@ The category is deliberately ugly. A.C.T doctrine does not allow the word to bec
 
 ---
 
-## 2.3 Excommunicated Class Use Categories
+### 2.3 Excommunicated Class Use Categories
 
 A.C.T uses contact categories to prevent the old error of calling every excommunicated person the same thing. These are not clearance levels and must not be confused with Level 0 through Level 5 access.
 
-### EC-RESERVE — Brief Exposure Reserve
+#### EC-RESERVE — Brief Exposure Reserve
 Personnel removed from normal status but held in reserve for non-contact support, observation-adjacent presence, controlled object handling, perimeter labor, and low-risk witness interaction. EC-RESERVE does not authorize direct contact with living subjects, memetic vectors, temporal loops, or transformation-active material.
 
-### EC-CONTROLLED — Controlled Contact
+#### EC-CONTROLLED — Controlled Contact
 Excommunicated personnel authorized for short, supervised exposure to a verified anomaly under stable conditions. EC-CONTROLLED is used when standard personnel cannot ethically or operationally be risked, but the test does not yet justify severe-contact authorization.
 
-### EC-REPEATED — Repeated Contact
+#### EC-REPEATED — Repeated Contact
 Excommunicated personnel assigned to recurring interaction with a stable but psychologically, cognitively, or biologically stressful anomaly. EC-REPEATED requires resilience review and rotation scheduling even when the institution would prefer not to admit the subject can still be harmed.
 
-### EC-HAZARD — Hazard Contact
+#### EC-HAZARD — Hazard Contact
 Excommunicated personnel exposed to known active risk: memetic stress, minor biological alteration, spatial disorientation, emotional bleed, or limited temporal interference. EC-HAZARD assignments require signed command authorization and aftercare tracking.
 
-### EC-SEVERE — Severe Contact
+#### EC-SEVERE — Severe Contact
 Excommunicated personnel entering high-harm exposure where injury, memory discontinuity, personality disturbance, or long-term medical consequence is plausible. EC-SEVERE is not approved by local enthusiasm. It requires division command, Medical Care, and site command approval.
 
-### EC-EXISTENTIAL — Existential Contact
+#### EC-EXISTENTIAL — Existential Contact
 Excommunicated personnel exposed to abyssal, catastrophic, identity-erasing, reality-structural, or apocalyptic conditions. EC-EXISTENTIAL is emergency-only and must be reviewed afterward even if the mission succeeds.
 
 ---
 
-## 2.4 Consent, Refusal, and Command Pressure
+### 2.4 Consent, Refusal, and Command Pressure
 
 A.C.T recognizes that consent inside a secret institution is never simple. Clearance, command hierarchy, fear of discipline, loyalty, debt, memory alteration, and lack of civilian alternatives can all distort consent.
 
@@ -88,7 +88,7 @@ A.C.T does not call coerced obedience consent. A.C.T may still proceed under Exc
 
 ---
 
-## 2.5 Exposure Ledger Requirement
+### 2.5 Exposure Ledger Requirement
 
 Every E-Class assignment above EC-CONTROLLED requires an **Exposure Ledger** entry. The entry must include:
 
@@ -109,54 +109,54 @@ Exposure Ledgers are not optional paperwork. They are the only reason a repeated
 
 ---
 
-## 2.6 Personnel Resilience Profile
+### 2.6 Personnel Resilience Profile
 
 A **Personnel Resilience Profile** is a living review record used to match personnel to exposure without reducing them to numbers. It is not a bravery score and must not be used as a promotion shortcut.
 
 The profile records five domains:
 
-### Cognitive Continuity
+#### Cognitive Continuity
 Ability to preserve working memory, personal orientation, language comprehension, and decision-making after anomaly contact.
 
-### Memetic Resistance
+#### Memetic Resistance
 Ability to resist or recover from compulsive messages, symbolic contamination, dream instructions, intrusive doctrine, hostile songs, and dangerous visual patterns.
 
-### Reality-Stability Tolerance
+#### Reality-Stability Tolerance
 Ability to remain functional when local cause, body condition, spatial rules, time order, or object permanence becomes unreliable.
 
-### Emotional Recovery Capacity
+#### Emotional Recovery Capacity
 Ability to process fear, guilt, grief, shame, violent exposure, and subject empathy without collapsing into numbness or cruelty.
 
-### Identity Integrity
+#### Identity Integrity
 Ability to retain self-recognition, personal history, name stability, moral agency, and role separation after exposure.
 
 ---
 
-## 2.7 Resilience States
+### 2.7 Resilience States
 
 A.C.T uses non-numeric states to avoid turning human damage into a scoreboard.
 
-### CLEAR
+#### CLEAR
 No active restriction beyond standard rotation.
 
-### WATCHED
+#### WATCHED
 Minor change observed. Return to duty allowed with monitoring.
 
-### BRUISED
+#### BRUISED
 Personnel remains functional but has taken meaningful psychological, cognitive, or biological stress. Rotation reduction required.
 
-### FRAYED
+#### FRAYED
 Further exposure risks permanent harm. Direct assignment suspended pending review.
 
-### BROKEN LINE
+#### BROKEN LINE
 Continuity of duty is no longer safe. Personnel requires medical, psychological, memetic, or identity stabilization. Command may not override without emergency O5 authorization.
 
-### MEMORIALIZED
+#### MEMORIALIZED
 Personnel is not dead by ordinary definition, but cannot return as the same operational person. This state covers severe transformation, identity loss, temporal non-return, unrecoverable cognitive collapse, or status where a normal retirement/death label lies.
 
 ---
 
-## 2.8 Rotation and Cooldown Rules
+### 2.8 Rotation and Cooldown Rules
 
 E-Class and repeated-exposure personnel must rotate away from active anomaly contact when one of the following occurs, unless O5 seals an emergency exception:
 
@@ -173,7 +173,7 @@ Cooldown is not punishment. It is containment applied to the institution's own a
 
 ---
 
-## 2.9 Amnestic Limits for Personnel
+### 2.9 Amnestic Limits for Personnel
 
 Amnestics may protect personnel. They may also hide injury from the person who suffered it.
 
@@ -190,7 +190,7 @@ No division may use amnestics to make personnel available for the same exposure 
 
 ---
 
-## 2.10 Subject-Care Collision Rule
+### 2.10 Subject-Care Collision Rule
 
 Some subject anomalies require trust, calm, caretaking, or long-term emotional continuity. A handler can become part of containment. A handler can also become trapped by it.
 
@@ -206,7 +206,7 @@ The goal is not to remove care from containment. The goal is to prevent care fro
 
 ---
 
-## 2.11 Retirement, Aftercare, and Civilian Return
+### 2.11 Retirement, Aftercare, and Civilian Return
 
 A.C.T personnel damaged by exposure retain aftercare rights even when their clearance, memory, or employment ends. Aftercare may include medical treatment, memory-stabilized debriefing, controlled civilian cover, family liaison, disability support, sealed truth packets, memorial classification, or protected employment away from anomaly contact.
 
@@ -214,7 +214,7 @@ Civilian return is not a dump site for inconvenient survivors. If A.C.T cannot s
 
 ---
 
-## 2.12 Red Lines
+### 2.12 Red Lines
 
 The following are prohibited under this doctrine:
 
@@ -229,7 +229,7 @@ The following are prohibited under this doctrine:
 
 ---
 
-## 2.13 Related Records
+### 2.13 Related Records
 
 - `ACT_Divisions_Personnel_and_Operational_Life_Archive.md`
 - `ACT_Universe_Part_6_Facility_Divisions_Personnel_Roles_and_Operational_Life.md`
@@ -240,7 +240,7 @@ The following are prohibited under this doctrine:
 
 ---
 
-## File Metadata
+### File Metadata
 
 ```text
 FILE CREATED:        12/09/2026

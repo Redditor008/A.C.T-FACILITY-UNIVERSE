@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - SENSOR NEXUS SIGNAL PROCESSING ARCHITECTURE
+### TECHNOLOGY RECORD - SENSOR NEXUS SIGNAL PROCESSING ARCHITECTURE
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Seismic Analysis / Research / Containment / Central Archive / Nusantara Deep Relay
 **Authority:** Vault Listening Chief, Seismic Analysis Support, and Central Archive
 
-### Archive Note
+#### Archive Note
 Sensor Nexus Signal Processing Architecture is the sixty-eighth main A.C.T technology expanded into an individual record. The F-1 Deep Listening Vault dossier identifies the deepest floor of Nusantara Deep Relay as the sensor nexus where deep-earth monitoring arrays terminate, and where signals from the island's foundation and the deep structure beyond are received, amplified, interpreted, and preserved. The same dossier states that F-1's sensor systems are its defining infrastructure: arrays, signal processing architecture, and recording systems.
 
 SNSPA exists because hearing the deep is not enough. The relay must decide when a vibration is a tremor, when it is a resident, and when it is a message that should not be circulated.
@@ -47,7 +47,7 @@ A SIGNAL IS NOT A MEANING UNTIL THE NEXUS CAN SURVIVE IT.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Sensor Nexus Signal Processing Architecture is the F-1 system that receives readings from deep-earth arrays, maritime monitoring feeds, vault chamber instruments, foundation security pickups, and restricted observation channels, then aligns them into controlled analysis output. It turns distributed listening into reviewed signal history.
 
@@ -57,7 +57,7 @@ The architecture is not trusted to decide alone. It gives analysts disciplined s
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Nusantara Deep Relay's early listening work produced more data than its staff could interpret safely. A tremor might be volcanic. A silence might be sensor loss. A repeated rhythm might be machinery, resident impact, deep-ocean pressure shift, or abyss-linked movement. When every channel reached analysts as separate noise, mistakes followed.
 
@@ -67,7 +67,7 @@ As F-1 became responsible for abyss-linked records, SNSPA gained restricted rout
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 SNSPA is housed in F-1 sensor galleries and termination rooms. It includes signal intake racks, amplification banks, vibration isolation frames, baseline comparison engines, analyst consoles, restricted output gates, local record buffers, array-health monitors, and hardened communication links to command levels and the restricted review chain.
 
@@ -88,7 +88,7 @@ SNSPA does not erase contradictory readings. Contradiction is preserved because 
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 During normal operation, SNSPA receives live readings and presents them to Seismic Analysis personnel under baseline comparison. Analysts classify events as ordinary geology, ordinary maritime activity, site-structure behavior, resident-linked activity, equipment fault, anomaly candidate, or restricted abyss-linked candidate.
 
@@ -98,7 +98,7 @@ If F-1 closure is ordered, SNSPA shifts into local continuity mode. It preserves
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 SNSPA can organize signals, but it cannot remove judgment from listening. The system may over-weight a known baseline, under-weight a new behavior, or present correlated events as more certain than they are. It can be fooled by sensor drift, synchronized machinery, storm pressure, resident impact, acoustic void, or intentional anomaly mimicry.
 
@@ -106,20 +106,20 @@ Known failure modes include false pattern elevation, baseline poisoning, channel
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## SNSPA-Nexus Consolidation Review
+### SNSPA-Nexus Consolidation Review
 The F-1 dossier records the floor as the point where deep-earth arrays meet and where signals are received, amplified, interpreted, and preserved. SNSPA was standardized to make that convergence auditable.
 
-## SNSPA-Restricted Routing Revision
+### SNSPA-Restricted Routing Revision
 A deep-earth record once circulated to a normal research list before abyss-linked review completed. The content was not hostile, but the routing breach created a standing rule: abyss-correlation output is gate-held until reviewed.
 
-## SNSPA-Closure Continuity Drill
+### SNSPA-Closure Continuity Drill
 During an F-1 closure drill, command communication was cut correctly but one analyst console attempted routine upstream synchronization. Closure continuity links were hardened after this event so local preservation takes priority over transmission.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Seismic Analysis uses SNSPA as its daily work architecture. Containment uses processed alerts to prepare vault posture and closure decisions. Research uses approved signal histories for long-term anomaly study. Engineering maintains hardware isolation and uptime. Central Archive receives preserved records and enforces routing categories.
 
@@ -127,7 +127,7 @@ SNSPA doctrine holds that the relay's deepest listening must be disciplined. A.C
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-05-ID-C Nusantara Deep Relay Site Dossier;
 - ACT-SITE-05-ID-C-F-1 The Deep Listening Vault Floor Dossier;
@@ -139,7 +139,7 @@ SNSPA doctrine holds that the relay's deepest listening must be disciplined. A.C
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can the processing architecture recognize a signal designed to be interpreted incorrectly?
 - How much contradiction should be preserved before records become unusable?
@@ -150,7 +150,7 @@ SNSPA doctrine holds that the relay's deepest listening must be disciplined. A.C
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15
 **Author Desk:** Seismic Analysis Support / Vault Listening Chief / Central Archive

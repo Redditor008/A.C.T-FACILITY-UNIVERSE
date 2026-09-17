@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - MEDIA PROPAGATION TRACKING CENTER SYSTEM
+### TECHNOLOGY RECORD - MEDIA PROPAGATION TRACKING CENTER SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Kurokawa Archive Node / Researcher Division / Intelligence / Archive / Security
 **Authority:** Media Propagation Lead, Floor Research Chief, Intelligence Liaison, and Central Archive
 
-### Archive Note
+#### Archive Note
 Media Propagation Tracking Center System is the one-hundred-nineteenth main A.C.T technology expanded into an individual record. The F-4 Research and Analysis Level dossier identifies the media propagation tracking center as the floor system that tracks the spread of anomalous media: documents, images, and recordings whose anomalous character includes transmission or replication. The dossier states that the center informs Kurokawa's media response operations and the Facility's wider secrecy doctrine.
 
 MPTCS exists because some files do not stay files. They move through copies, captions, thumbnails, recordings, quotations, fragments, corrupted versions, and the people who believe they are only sharing ordinary media.
@@ -47,7 +47,7 @@ TRACK THE SPREAD BEFORE THE SPREAD BECOMES THE CONTAINMENT SITE.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Media Propagation Tracking Center System is Kurokawa's F-4 tracking, correlation, and response-support technology for anomalous documents, images, audio, video, scans, recordings, digital captures, and copied text whose danger includes replication or transmission. It follows suspect media across controlled archive systems, recovered devices, field seizures, internal reports, and authorized public-threat watch channels.
 
@@ -57,7 +57,7 @@ Approved roles include replication-chain mapping, derivative identification, ano
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Kurokawa's archive originally treated dangerous media as holdings: items to be received, stored, studied, redacted, or sealed. Propagating media broke that model. A file with copies is not a single holding; it is a moving population. A recording with viewers can become an event chain. A scan can become worse than the object scanned.
 
@@ -65,7 +65,7 @@ F-4's propagation center was created to study that movement. MPTCS formalizes th
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A MPTCS installation includes isolated analysis terminals, air-gapped media comparison racks, derivative hash vaults, controlled preview filters, propagation maps, source-custody connectors, Intelligence liaison channels, public-risk watch boards, secure deletion records, and export locks for response recommendations.
 
@@ -86,7 +86,7 @@ The center is designed so that tracking a copy does not create one more uncontro
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before analysis, MPTCS verifies source custody, media format, suspected propagation behavior, exposure limit, preview method, Intelligence relevance, and whether public-sector watch is authorized. Analysts work through filtered derivative views wherever possible. Each copy, fragment, caption, recompression, transcript, thumbnail, or recording trace is classified as source, derivative, carrier, false derivative, or unknown.
 
@@ -94,7 +94,7 @@ If spread risk is confirmed, the system builds a response package without export
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 MPTCS can track propagation, but it cannot always distinguish anomalous spread from human behavior. People copy strange media without needing compulsion. Platforms transform files automatically. Compression, translation, transcription, and commentary may produce harmless derivatives or dangerous ones. The system must avoid both underreaction and the creation of panic around an ordinary circulation pattern.
 
@@ -102,20 +102,20 @@ Known failure modes include false derivative classification, analyst exposure th
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## MPTCS-Single Holding Failure
+### MPTCS-Single Holding Failure
 A media review found that treating a propagating file as one archived item caused response delay while derivatives multiplied. Current MPTCS doctrine treats each copy chain as a living containment problem.
 
-## MPTCS-Preview Exposure Warning
+### MPTCS-Preview Exposure Warning
 A filtered preview once preserved enough structure to affect an analyst's attention and speech pattern. Current procedure requires preview methods to be reviewed against the specific media family, not treated as universally safe.
 
-## MPTCS-Response Signal Concern
+### MPTCS-Response Signal Concern
 Intelligence review found that aggressive removal can draw attention to anomalous media. Current recommendations include secrecy impact: a response must contain spread without making curiosity a distribution engine.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Researcher Division operates the tracking center and analyzes propagation mechanics. Intelligence uses MPTCS to assess public spread and secrecy risk. Archive Division maintains source and derivative custody. Security enforces terminal isolation and export limits. Medical monitors analysts when media exposure carries cognitive risk.
 
@@ -123,7 +123,7 @@ MPTCS doctrine holds that a copied anomaly is not contained by finding the first
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-03-JP-E-F-4 Research and Analysis Level Floor Dossier;
 - ACT-SITE-03-JP-E-F-5 Redaction and Controlled-Reading Laboratory Floor Dossier;
@@ -135,7 +135,7 @@ MPTCS doctrine holds that a copied anomaly is not contained by finding the first
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - When does a derivative stop being the same anomalous media and become a new object?
 - Can public removal ever be more dangerous than leaving a weak copy unnoticed?
@@ -146,7 +146,7 @@ MPTCS doctrine holds that a copied anomaly is not contained by finding the first
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Media Propagation Lead / Floor Research Chief / Central Archive

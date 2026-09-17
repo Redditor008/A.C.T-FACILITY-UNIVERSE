@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## GROUP OF INTEREST REGISTRY - BUREAU OF UNQUIET BORDERS
+### GROUP OF INTEREST REGISTRY - BUREAU OF UNQUIET BORDERS
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -67,7 +67,7 @@
 **Distribution:** Intelligence / Civil Covert / Recovery / Containment / Legal Liaison / Command
 **Authority:** Intelligence Division, Civil Covert Division, Recovery Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 The Bureau of Unquiet Borders is the active government filing for an outside state and treaty-backed border authority that handles anomalous movement across national lines. The Bureau is not an A.C.T branch, not a foreign copy of A.C.T, not a customs office with unusual rumors, and not a single checkpoint. It qualifies as a Group of Interest because it has offices, field personnel, treaty instruments, custody practices, maps, holding rooms, and a repeated ability to affect A.C.T recovery when persons, objects, animals, vehicles, buildings, files, or legal identities cross borders in ways ordinary law cannot process.
 
 The relationship class is **WORK**. A.C.T can coordinate with the Bureau during cross-border recovery, extradition, route closure, artifact transfer, witness protection, and disputed custody. The Bureau does not answer to A.C.T and may block A.C.T access when foreign law, treaty markings, protected citizenship, refugee status, or border stability is at stake. It is not classed Positive because it is not primarily humanitarian. It is not classed Neutral because repeated operational cooperation exists. It is not classed Negative because its standard function is controlled movement and lawful containment of crossing events, not sabotage of A.C.T operations.
@@ -76,15 +76,15 @@ Specific checkpoint names, treaty signatories, and protected travelers are censo
 
 ---
 
-# IDENTITY AND INSTITUTIONAL FUNCTION
+## IDENTITY AND INSTITUTIONAL FUNCTION
 
-## Group Function
+### Group Function
 
 The Bureau of Unquiet Borders functions as a transnational border-control and custody-transfer institution for abnormal movement. Its repeated activity is the identification, delay, redirection, documentation, and lawful handling of crossings that ordinary passports, customs declarations, shipping manifests, extradition papers, and migration records cannot resolve. The Bureau is most visible when geography and law disagree: a traveler exits one country without entering another, a container arrives before the ship carrying it, a passport names a country that never issued it, a road crosses a line that was removed from maps, or a witness remains legally present in two jurisdictions after a containment event.
 
 A.C.T tracks the Bureau because containment often depends on jurisdiction. An anomaly does not respect political borders, but people, evidence, custody, search warrants, hospitals, shipping ports, air corridors, and public explanations do. When a case crosses a border, the question is not only where the anomaly is. It is who can legally touch it, who must explain it, who owns the witness, who receives the body, who signs the transfer, and which story reaches the family.
 
-## Public Presence and Concealment
+### Public Presence and Concealment
 
 The Bureau hides inside ordinary border systems. Its personnel appear as customs officials, passport clerks, transit police, quarantine inspectors, maritime agents, consular drivers, migration interviewers, railway station staff, port health officers, and diplomatic couriers. Some are ordinary state employees with narrow instructions. Others are informed officers trained to recognize border anomalies without using A.C.T terminology.
 
@@ -92,15 +92,15 @@ Public marks include quiet-line stamps, grey crossing slips, seal wax over passp
 
 ---
 
-# ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
+## ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
 
-## Leadership Condition
+### Leadership Condition
 
 The Bureau's central leadership is unresolved. Recovered papers refer to the Secretariat of Unquiet Lines, a council of unnamed signatories, the Fourth Gate Desk, the Quiet Registrar, Crossing Magistrates, and Quiet-Line Wardens. A.C.T has not confirmed whether these offices belong to one treaty body, several cooperating governments, or a historical border compact now operating through modern agencies.
 
 Field authority is clearer. Crossing Magistrates can decide temporary custody, legal status, and transfer limits at active border events. Quiet-Line Wardens control sealed routes and may deny entry to both A.C.T and local forces if a crossing is unstable. Treaty Clerks preserve documents that ordinary government systems later reject.
 
-## Internal Structure
+### Internal Structure
 
 A.C.T assessment identifies these functional layers:
 
@@ -115,7 +115,7 @@ A.C.T assessment identifies these functional layers:
 
 This structure distinguishes the Bureau from a normal government department. It has roles built around specific anomalous border failures.
 
-## Membership and Recruitment
+### Membership and Recruitment
 
 Membership likely includes civil servants from multiple governments, retired border officers, customs investigators, map archivists, language specialists, migration lawyers, quarantine nurses, train and port officials, and treaty couriers. Some members appear to be seconded from ordinary agencies for limited terms. Others belong permanently to the Bureau and carry credentials that only display correctly under restricted lighting or at designated crossing rooms.
 
@@ -129,9 +129,9 @@ A.C.T has no evidence that the Bureau recruits from A.C.T personnel. It may, how
 
 ---
 
-# IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
+## IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
 
-## Stated Belief
+### Stated Belief
 
 The Bureau's most repeated institutional phrase is:
 
@@ -147,13 +147,13 @@ A border is not merely a line. It is a promise that law can find the traveler on
 
 The Bureau treats borders as fragile civic machinery. It does not worship them, and it does not always defend existing politics. Its concern is continuity: a person should not lose legal existence because a road moved; evidence should not become ownerless because the port room returned to the wrong year; an object should not pass into private hands because no customs system can admit it arrived.
 
-## Assessed Objective
+### Assessed Objective
 
 A.C.T assesses that the Bureau seeks to preserve legal and operational continuity at unstable crossings. It wants cases delayed, named, stamped, witnessed, transferred, quarantined, or returned before they become diplomatic crises or untraceable losses. The Bureau's goal aligns with A.C.T when order prevents exposure and harm. It conflicts with A.C.T when A.C.T wants immediate seizure, secrecy without paperwork, or removal of a witness whose citizenship gives them protection.
 
 The Bureau does not appear to pursue total anomaly control. It is narrower and therefore credible. Its authority begins where movement crosses a boundary and becomes unquiet.
 
-## Anomalous Capability Assessment
+### Anomalous Capability Assessment
 
 The Bureau is assigned **Handler** capability. It does not consistently create anomalous effects, but it handles abnormal documents, crossings, vehicles, cargo, persons, and legal states. Confirmed or strongly assessed capabilities include:
 
@@ -168,7 +168,7 @@ The Bureau is assigned **Handler** capability. It does not consistently create a
 
 The Bureau is not assessed as Engineering. Its tools appear procedural, jurisdictional, documentary, and route-bound rather than manufactured anomaly devices, though some seals and stamps may require separate object review.
 
-## Secrecy and Civilian Exposure
+### Secrecy and Civilian Exposure
 
 The Bureau is **Veiled** because it normally hides anomaly work inside delay, paperwork, quarantine, inspection, and diplomatic inconvenience. Civilians complain about missed trains, long searches, replacement passports, or unexplained interviews. They do not usually learn that a checkpoint room was holding them outside ordinary jurisdiction until a route stopped changing.
 
@@ -176,15 +176,15 @@ Exposure risk increases when families demand answers, when cargo owners sue, whe
 
 ---
 
-# OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
+## OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
 
-## Operational Regions
+### Operational Regions
 
 The Bureau operates in border towns, airports, ports, rail crossings, mountain passes, refugee corridors, quarantine stations, maritime customs rooms, disputed roads, treaty bridges, and dead corridors where maps disagree with movement. It is most often relevant to Site 01 for urban transit and document laundering, Site 05 for ports and maritime crossings, Site 03 for record instability, and Central Command for diplomatic custody decisions.
 
 The assigned Reach Class is **Transnational** because the Bureau's records involve multiple countries and crossing systems. A.C.T has not confirmed a truly global reach or a single commanding state.
 
-## Known Assets and Holdings
+### Known Assets and Holdings
 
 Known or assessed assets include:
 
@@ -202,7 +202,7 @@ Known or assessed assets include:
 
 A.C.T has recovered two inert seal impressions and one incomplete quiet-line stamp pad. Appropriation of active Bureau tools requires legal review because some seals may be recognized by foreign authorities even when A.C.T does not understand them.
 
-## Operating Method
+### Operating Method
 
 A Bureau intervention begins when a crossing produces contradiction. The traveler may have too many entry stamps, none, or a stamp dated after the interview. Cargo may be present without route history. A vehicle may exit a tunnel in a country it never entered. A witness may be claimed by two states or by no state. The Bureau slows the event, assigns temporary status, preserves documents, interviews witnesses, and decides whether movement can continue.
 
@@ -219,15 +219,15 @@ A.C.T may receive the result as a handover packet, sealed delay notice, route de
 
 ---
 
-# HISTORY WITH A.C.T
+## HISTORY WITH A.C.T
 
-## Contact History
+### Contact History
 
 A.C.T's early contact with the Bureau was fragmented. Field teams encountered helpful customs delays, unexplained route closures, missing cargo packets, and witnesses already held in safe rooms before A.C.T arrival. These events were first logged as foreign cooperation through ordinary government channels. Intelligence Division opened a GOI review after multiple countries produced paperwork with the same quiet-line seal and the phrase **HELD BETWEEN QUESTIONS**.
 
 Formal recognition followed the [CENSOR: MOUNTAIN PASS TRANSFER] incident. An anomalous object crossed a border in a truck that had not passed the checkpoint. A.C.T Recovery requested seizure. The Bureau denied seizure for forty minutes, stamped the crate as **NONARRIVAL PENDING**, and demanded that both countries sign temporary custody. During the delay, the crate shed three false ownership manifests and one living insect colony later classified separately. Immediate seizure would have assigned legal ownership to a nonexistent importer.
 
-## Current Relationship
+### Current Relationship
 
 The current relationship is **WORK**. A.C.T and the Bureau exchange limited information during cross-border anomaly movement and may conduct joint custody when no ordinary legal path exists. The Bureau is valuable because it can keep foreign governments, families, ports, and border systems from collapsing into contradictory records after an incident.
 
@@ -235,21 +235,21 @@ The relationship remains limited by law and pride. A.C.T does not control Bureau
 
 ---
 
-# A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
+## A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
 
-## Responsible Jurisdiction
+### Responsible Jurisdiction
 
 Primary jurisdiction rests with Intelligence Division, Civil Covert Division, and Recovery Division. Legal Liaison attaches when extradition, protected citizenship, refugee status, diplomatic immunity, foreign custody, or state responsibility is implicated. Site jurisdiction follows the active route. Central Command retains authority for disputes involving more than one national government or any demand to transfer a subject outside A.C.T custody.
 
 Access and egress records must mark Bureau-controlled transitions clearly. A movement through a quiet-line station is not an ordinary transport event. It may involve legal nonarrival, delayed entry, disputed custody, or a route whose physical position changes during the transfer.
 
-## Posture Implementation
+### Posture Implementation
 
 A.C.T posture is **COOPERATED / MONITOR / MISDIRECT**. Cooperation is authorized for verified border events, safe witness transfer, route stabilization, artifact custody, and cross-border recovery. Monitoring includes quiet-line seals, unusual customs delays, repeated treaty clerks, unexplained nonarrival stamps, sealed holding rooms, and state records corrected without public explanation.
 
 Misdirection is authorized when public border explanations must be separated from anomalous cause. A.C.T may allow the Bureau to cite quarantine, paperwork failure, customs irregularity, weather closure, or diplomatic review when those explanations preserve life and prevent exposure.
 
-## Response Limits and Red Lines
+### Response Limits and Red Lines
 
 A.C.T will not permit the Bureau to permanently remove A.C.T-held anomalies through treaty language alone. A.C.T will not permit foreign detention of witnesses without Subject Care review when the witness is injured, altered, or a minor. A.C.T will not permit the Bureau to return a survivor to a jurisdiction that has already erased the survivor's legal existence.
 
@@ -257,9 +257,9 @@ A.C.T will also not override Bureau delay solely because field command wants a f
 
 ---
 
-# OPERATIONAL RECORDS
+## OPERATIONAL RECORDS
 
-## Restricted Operational Extract
+### Restricted Operational Extract
 
 ```text
 QUIET-LINE HOLD NOTICE: BUB / FOURTH GATE DESK
@@ -296,9 +296,9 @@ The customs tag remains under review because the third manifest dissolved after 
 
 ---
 
-# INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
+## INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
 
-## Confirmed Operational Facts
+### Confirmed Operational Facts
 
 - The Bureau of Unquiet Borders is an outside government or treaty-backed institution, not an A.C.T branch.
 - The Bureau has repeatedly affected cross-border anomaly movement, witness transfer, artifact custody, and route closure.
@@ -306,13 +306,13 @@ The customs tag remains under review because the third manifest dissolved after 
 - The Bureau can cooperate with A.C.T but does not accept A.C.T command authority.
 - Its work can preserve legal identity and custody continuity during anomalous border events.
 
-## Active Intelligence Assessment
+### Active Intelligence Assessment
 
 A.C.T assesses the Bureau as a specialized WORK-relationship government GOI. Its strongest function is legal and physical stabilization at borders. It fills a gap between containment, diplomacy, migration law, customs control, and civilian protection. The Bureau is most dangerous when its treaty authority blocks urgent containment. It is most valuable when it prevents an anomaly case from becoming an untraceable diplomatic disaster.
 
 The Bureau must remain distinct from GAA. GAA is an A.C.T-controlled government bridge. The Bureau of Unquiet Borders is an outside border authority with its own mandate and foreign or treaty obligations. Cooperation with one does not imply control of the other.
 
-## Persistent Questions
+### Persistent Questions
 
 - Which governments signed the original quiet-line instruments, and are all signatories still aware of the Bureau?
 - Does the Secretariat of Unquiet Lines exist as a physical office, a treaty archive, or a rotating legal fiction?
@@ -322,19 +322,19 @@ The Bureau must remain distinct from GAA. GAA is an A.C.T-controlled government 
 - Are some border anomalies caused by Bureau procedures becoming too old, damaged, or contradictory?
 - What happens if A.C.T removes an object marked NONARRIVAL PENDING before the hold expires?
 
-## Intelligence Confidence
+### Intelligence Confidence
 
 Moderate. Repeated field cooperation, matching seals, witness transfers, and custody outcomes confirm institutional reality. Leadership, treaty origin, total signatories, and the mechanism behind quiet-line status remain unresolved. Confidence may rise if A.C.T secures an uncensored treaty instrument, conducts a full joint border transfer, or verifies the identity of a living Crossing Magistrate authorized by more than one government.
 
 ---
 
-# CROSS-REFERENCE STATUS
+## CROSS-REFERENCE STATUS
 
-## Anomaly and Record Relationship
+### Anomaly and Record Relationship
 
 The Bureau of Unquiet Borders is an organization and therefore belongs in the GOI archive. Individual border holes, passports, seals, holding rooms, roads, vehicles, cargo events, or wrong-jurisdiction persons may require separate anomaly, incident, legal, or access-and-egress records. The organization record must not replace custody-transfer documentation.
 
-## Related A.C.T Records
+### Related A.C.T Records
 
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
@@ -344,13 +344,13 @@ The Bureau of Unquiet Borders is an organization and therefore belongs in the GO
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Global_Site_Registry.md`
 - Restricted border-hole, passport, customs, missing-citizen, transit-object, and extradition case chains held under Central Archive routing.
 
-## Dual Filing
+### Dual Filing
 
 Under review. The Bureau is a government GOI, but some of its seals, stamps, holding rooms, roads, passports, or treaty corridors may require separate filing. Dual filing is mandatory when a crossing element remains anomalous after the active transfer, affects citizenship or identity, changes route geography, or admits cargo into A.C.T custody without ordinary entry history.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 ```text
 FILE CREATED:            13/09/2026

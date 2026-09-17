@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - BIOMETRIC RESONANCE DAMPENERS
+### TECHNOLOGY RECORD - BIOMETRIC RESONANCE DAMPENERS
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Field Safety / Medical / Recovery / Biological Containment / Security / Engineering  
 **Authority:** Field Safety Desk, Medical Division, Engineering Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Biometric Resonance Dampeners are the twenty-sixth main A.C.T technology expanded into an individual record. The Master Catalog defines them as wearable patches that mask a human's pulse and emotional rhythm from anomalies possessing heart-signature detection. The visual guide describes a skin-colored adhesive patch worn behind the ear, fitted with a micro-injector node, a Pulse-Sync Chip, and a tiny blinking green LED confirming that the masking field is active.
 
 BRD exists because some anomalies do not search for faces, names, heat, or sound. They search for rhythm. A heartbeat can be a lantern. Panic can be a flare. Grief, anger, fatigue, and adrenaline can become scent trails for entities that hunt living pattern rather than visible body.
@@ -47,7 +47,7 @@ HIDE THE HEARTBEAT WITHOUT LYING TO THE HEART.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Biometric Resonance Dampeners mask the wearer's pulse, micro-muscle rhythm, and emotional resonance from anomaly-sensors that identify prey or personnel by heart-signature. The device does not stop the heart. It overlays and dampens detectable rhythmic features so the person reads as background biological noise, low-interest static, or an approved decoy profile depending on mission settings. The micro-injector supports short-duration biological smoothing. The Pulse-Sync Chip manages the masking field and adjusts to ordinary stress changes.
 
@@ -64,7 +64,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND CUSTODY
+## ORIGIN AND CUSTODY
 
 BRD development followed field reports in which teams hid visually and acoustically but were still found. Some entities reacted before seeing personnel, turning toward pulse elevation or fear rhythm. Medical Division and Field Safety concluded that controlling a person's visible behavior was not enough when the body itself was broadcasting.
 
@@ -74,7 +74,7 @@ Pulse-sync settings are restricted because hostile groups could use them to imit
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard BRD is a skin-colored adhesive patch worn behind the ear. It contains a micro-injector node, Pulse-Sync Chip, conductive gel layer, adhesive seal, and a tiny blinking green LED. The LED confirms active masking but does not prove that the wearer is medically safe. Some variants include dull amber warnings for adhesive failure, pulse overload, or injector depletion.
 
@@ -95,7 +95,7 @@ The patch is disposable after use. Reuse risks bad readings, skin contamination,
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before wear, Medical checks cardiac condition, stimulant use, injury, stress level, and prior reaction. The patch is placed behind the ear on clean skin and activated only after the Pulse-Sync Chip has baseline contact. The wearer waits for stable green blink, then reports any dizziness, numbness, emotional flattening, ear heat, or irregular heartbeat. Field lead records activation time and approved removal time.
 
@@ -105,7 +105,7 @@ Do not wear BRD to hide from A.C.T medical monitors, access systems, disciplinar
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 BRD cannot mask scent, heat, speech, memory, guilt, visual motion, psychic signature, or physical presence. It may fail against entities that hear the real heart directly, entities that hunt emotional meaning rather than rhythm, or anomalies that become interested in the absence of a normal pulse. Long wear may cause headache, dissociation, skipped-beat sensation, false calm, or delayed panic rebound.
 
@@ -113,20 +113,20 @@ Known failure modes include injector depletion, pulse-sync drift, adhesive lift,
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## BRD-2011 False Green Patch
+### BRD-2011 False Green Patch
 A field patch continued blinking green after partial adhesive failure. The wearer was detected by a heart-tracking organism during withdrawal. Engineering added adhesive resistance checks and Medical added touch-confirmation during long missions.
 
-## BRD-2017 Panic Spike Overload
+### BRD-2017 Panic Spike Overload
 A Recovery agent experienced sudden panic while crossing a predator enclosure. The patch dampened the first spike but overloaded on the second. The subject turned toward the agent but did not breach. Training now teaches BRD as support for calm, not replacement for calm.
 
-## BRD-2024 Overwear Rebound
+### BRD-2024 Overwear Rebound
 A guard kept a patch on after mission end to avoid tremor readings during debrief. Removal triggered delayed panic and irregular pulse. Medical classified misuse as concealment of symptoms and required disposal accountability.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Field Safety issues BRD for approved missions. Medical screens users and controls injector load. Recovery wears patches during stealth or predator work. Biological Containment writes subject-specific settings. Engineering maintains chip and adhesive performance. Security uses BRD only under command authorization. Archive stores failure reports with medical restrictions.
 
@@ -134,7 +134,7 @@ Standing reminder: if a tool hides your fear, you still owe the team an honest r
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 31;
 - ACT Technological Visual Reference Guide, Item 31;
@@ -145,7 +145,7 @@ Standing reminder: if a tool hides your fear, you still owe the team an honest r
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which anomalies detect the absence of ordinary fear as a stronger signal than fear itself?
 - Can BRD use interfere with Adrenaline Micro-Surge Detector readings?
@@ -156,7 +156,7 @@ Standing reminder: if a tool hides your fear, you still owe the team an honest r
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Field Safety Desk / Medical Division / Engineering Division / Central Archive  

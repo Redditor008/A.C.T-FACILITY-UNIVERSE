@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - ANOMALOUS INTAKE SCREENING SUITES
+### TECHNOLOGY RECORD - ANOMALOUS INTAKE SCREENING SUITES
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Archiver Division / Kurokawa Archive Node / Intelligence / Research / Security / Redaction / Containment  
 **Authority:** Kurokawa Intake Chief, Archiver Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Anomalous Intake Screening Suites are the fifty-seventh main A.C.T technology expanded into an individual record. The Kurokawa F-6 floor dossier identifies General Records and Anomalous Intake as the node's intake level, where documents and media suspected of anomalous content are received, logged, screened, and triaged. It also describes the screening suites as the places where material is assessed under controlled conditions, where cleared material returns to legitimate archival processing, and where confirmed anomalous material moves downward under controlled protocols.
 
 AISS is the archive's first handshake with a dangerous file. If the handshake is careless, the whole node may already be holding the wrong thing.
@@ -47,7 +47,7 @@ LOG BEFORE SCREENING. SCREEN BEFORE ROUTING. ROUTE ONLY WHAT THE RECORD CAN FOLL
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Anomalous Intake Screening Suites are controlled intake environments used to receive, log, screen, and route documents or media that may contain anomalous content. Their purpose is to make the first containment decision before a dangerous item is allowed deeper into the archive, returned to legitimate processing, or mishandled by staff who believe it is ordinary material.
 
@@ -57,7 +57,7 @@ Approved roles include anomalous-media intake, document logging, first-pass haza
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Kurokawa Archive Node grew into the eastern region's archive authority, receiving documents and media from field operations, seizures, transfers, collection activity, and material that arrived without invitation. As intake volume increased, the node required a dedicated level for the first meeting between archive and object. F-6 developed around reception, logging, screening, and triage.
 
@@ -67,7 +67,7 @@ AISS exists because an archive without intake discipline is not an archive. It i
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 AISS installations sit between reception and routing. A standard suite includes controlled tables, document cradles, isolated media readers, evidence trays, low-exposure viewing panels, intake terminals, route locks, item status lights, and monitoring that records every movement through the process. Environmental systems preserve documents while allowing suite-by-suite regulation for suspect material.
 
@@ -88,7 +88,7 @@ The dual routing architecture is treated as part of the technology. One door sen
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before screening, intake staff create or confirm an item record. The record states origin, carrier, condition, container, initial suspicion, and handling restrictions if known. Security verifies that the item is permitted into the suite. Intelligence flags seized or interdicted material with operational relevance. Research may add specialist questions when the item type demands it.
 
@@ -98,7 +98,7 @@ After screening, cleared material returns to legitimate processing. Suspect or c
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 AISS is a first-pass system. It cannot replace controlled-reading cells, deep research, memetic filters, or containment vaults. It can miss hazards that activate only after prolonged reading, after a specific question, after copying, after destruction, or after a reader forms emotional attachment to the content. It can also be defeated by material that appears ordinary until it reaches a lower floor.
 
@@ -106,20 +106,20 @@ Known failure modes include logging error, false clearance, over-routing, under-
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## AISS-2019 Duplicate Intake Slip
+### AISS-2019 Duplicate Intake Slip
 Two visually identical media envelopes received the same intake slip after a printer jam. One was cleared and one was held for review. Procedure now requires item-specific mark verification before any dual-route decision.
 
-## AISS-2023 Shallow Reading Exposure
+### AISS-2023 Shallow Reading Exposure
 A screener read beyond the approved first-pass threshold while trying to decide whether a diary was anomalous. The item was later routed to controlled reading. F-6 revised training to separate screening from interpretation.
 
-## AISS-2026 Route Lock Delay
+### AISS-2026 Route Lock Delay
 An anomalous-material route lock remained closed after triage, leaving confirmed material in the suite longer than planned. Security added manual override logs and post-delay exposure checks for all staff present.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Archiver Division operates AISS and preserves intake records. The Kurokawa Intake Chief controls triage authority. Intelligence flags items tied to GOI activity, leak risk, or hostile documentation. Research supports specialist screening. Security controls access and route locks. Redaction receives material requiring controlled reading. Containment receives material whose properties exceed archive handling.
 
@@ -127,7 +127,7 @@ Standing reminder: the first decision is not small because it happens at the doo
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-03-JP-E-F-6 General Records and Anomalous Intake Floor Dossier;
 - ACT-SITE-03-JP-E-F-5 Redaction and Controlled-Reading Laboratory Floor Dossier;
@@ -139,7 +139,7 @@ Standing reminder: the first decision is not small because it happens at the doo
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How much reading is safe before screening becomes controlled reading?
 - Can a hostile file exploit the dual-route architecture by appearing cleared until after routing?
@@ -150,7 +150,7 @@ Standing reminder: the first decision is not small because it happens at the doo
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Kurokawa Intake Chief / Archiver Division / Central Archive  

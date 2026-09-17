@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - SEISMIC RECORDS VAULTS
+### TECHNOLOGY RECORD - SEISMIC RECORDS VAULTS
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Archive / Seismic Analysis / Research / Security / Nusantara Deep Relay
 **Authority:** Archive Division, Records and Monitoring Chief, and Central Archive
 
-### Archive Note
+#### Archive Note
 Seismic Records Vaults are the seventy-first main A.C.T technology expanded into an individual record. The F-2 Deep Monitoring and Restricted Records dossier identifies the records vaults as the holding infrastructure for Nusantara's seismic documentation: the continuous record of the relay's deep-earth monitoring, maintained under Archive Division custody. F-2 doctrine names the floor as the relay's memory of the deep.
 
 SRV exists because a seismic record is not only a measurement. At Nusantara, it can be evidence, warning, baseline, cover support, research material, and restricted precursor all at once.
@@ -47,7 +47,7 @@ KEEP THE TREMOR BEFORE YOU NAME IT.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Seismic Records Vaults preserve the continuous and reviewed seismic documentation produced by Nusantara Deep Relay. They store processed observations, baseline histories, ordinary geological records, monitoring-session logs, sensor-health notes, volcanic and tectonic comparisons, and deep-observation packages not yet escalated into restricted abyss-linked custody.
 
@@ -57,7 +57,7 @@ Approved roles include seismic baseline preservation, ordinary-event record cust
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Nusantara's cover and mission both depend on serious seismic and oceanographic work. The relay's legitimate monitoring produces ordinary data, while its anomalous mandate produces records that may become containment-relevant later. Early storage methods could keep individual reports, but they did not preserve enough context: sensor condition, analyst uncertainty, nearby maritime events, local volcanic background, and previous matching signal families.
 
@@ -65,7 +65,7 @@ SRV developed as a dedicated vault standard for this long memory. The vaults kee
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 An SRV installation includes preservation cabinets, sealed data racks, baseline ledgers, sensor-history drawers, access-controlled comparison stations, environmental preservation systems, audit seals, and archive handoff ports. Records are arranged by time, source, sensor field, event class, and later reclassification history. Reclassification never deletes the original filing state.
 
@@ -86,7 +86,7 @@ The vault's practical design keeps ordinary records available without letting st
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 After DMPC processing, ordinary and controlled seismic records are packaged for SRV custody. Archive personnel verify event classification, timestamp, sensor source, processing session, analyst identity, and whether the record has any pending sensitivity marker. Once accepted, the record becomes part of the relay's comparison base.
 
@@ -96,7 +96,7 @@ Vault audits confirm that no record has been silently reclassified, overwritten,
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 SRV preserves records, but it cannot guarantee that the first classification was correct. Ordinary files may later become important. A mundane tremor may become suspicious only after a future pattern appears. Too much trust in historical baseline can cause analysts to ignore new behavior; too little trust can make every tremor look like a hidden message.
 
@@ -104,20 +104,20 @@ Known failure modes include baseline corruption, duplicate records, missing sens
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## SRV-F-2 Custody Formation
+### SRV-F-2 Custody Formation
 The F-2 dossier identifies seismic records vaults as a defining part of the floor's physical plant. SRV was formalized to give those vaults a controlled technology standard rather than treating them as ordinary document storage.
 
-## SRV-Reclassification Review
+### SRV-Reclassification Review
 A previously ordinary tremor file later matched a restricted pattern. The original filing state was preserved, allowing reviewers to see how the event first entered the archive. Current procedure forbids overwriting early classifications during later escalation.
 
-## SRV-Baseline Contamination Notice
+### SRV-Baseline Contamination Notice
 A sensor-maintenance interval was once archived without its full calibration note, making later comparison unreliable. SRV now requires sensor-health linkage for every processed observation accepted into baseline custody.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Archive Division owns vault custody and audit. Seismic Analysis uses SRV for comparison and baseline continuity. Research receives approved record packets. Security controls access to vault corridors and comparison stations. Site Command relies on SRV when determining whether a present event has precedent.
 
@@ -125,7 +125,7 @@ SRV doctrine holds that the relay's memory must remain patient. The deep may tak
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-05-ID-C-F-2 Deep Monitoring and Restricted Records Floor Dossier;
 - TECH-ACT-070 - Deep Monitoring Processing Center;
@@ -136,7 +136,7 @@ SRV doctrine holds that the relay's memory must remain patient. The deep may tak
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How long should ordinary seismic records remain ordinary before pattern review repeats?
 - Can baseline comparison become biased by too many anomaly-confirmed examples?
@@ -147,7 +147,7 @@ SRV doctrine holds that the relay's memory must remain patient. The deep may tak
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15
 **Author Desk:** Archive Division / Records and Monitoring Chief / Central Archive

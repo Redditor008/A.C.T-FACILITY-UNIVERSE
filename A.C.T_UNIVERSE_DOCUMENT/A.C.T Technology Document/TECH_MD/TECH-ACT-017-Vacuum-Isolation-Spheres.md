@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - VACUUM ISOLATION SPHERES
+### TECHNOLOGY RECORD - VACUUM ISOLATION SPHERES
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Containment / Archive / Info-Hazard / Engineering / Site Command  
 **Authority:** Containment Division, Archive Division, Engineering Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Vacuum Isolation Spheres are the seventeenth main A.C.T technology expanded into an individual record. The Master Catalog defines them as zero-atmosphere glass-ceramic chambers used to isolate memetic acoustic signatures and info-hazard frequencies. The technological timeline places their development in the 1740s as hand-blown glass-ceramic vacuum chambers from the Foundational Era. The visual guide describes seamless two-meter spheres made of milky-white opaque ceramic, with exterior acoustic decibel sensors, a mechanical pressure disc, a heavy circular entry hatch, digital keypad, anti-magnetic brass manual override wheel, and a hatch monitor displaying internal atmospheric purity and decibel count.
 
 VIS technology is old because the problem is old. Some hazards do not need teeth, hands, ink, or light. They need air. They need vibration. They need a listening room. Vacuum Isolation Spheres deny them those courtesies.
@@ -47,7 +47,7 @@ IF THE HAZARD RIDES THE AIR, TAKE THE AIR AWAY.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 A Vacuum Isolation Sphere isolates an object, sound source, instrument, recovered fragment, or contained sample inside a sealed chamber with no ordinary atmosphere. Without air, most acoustic transmission fails. Without an easy vibration path, many memetic frequencies, spoken triggers, breath-carried phrases, whispered commands, and resonant info-hazard patterns lose reach. The sphere is not silent because silence is philosophically safe. It is silent because there is no medium for the hazard to use.
 
@@ -64,7 +64,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND CUSTODY
+## ORIGIN AND CUSTODY
 
 The first VIS designs belong to A.C.T's Foundational Era. In the 1740s, early containment staff learned that a glass-ceramic vacuum chamber could hold hazards that ordinary locked boxes could not. Those early spheres were hand-blown, thick-walled, and difficult to trust. Some survived into modern archives as historical units, though most have been retired or rebuilt around modern hatches, sensors, and pressure monitors.
 
@@ -74,7 +74,7 @@ Historical Custody keeps a separate register for pre-modern spheres because olde
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 The standard VIS is a seamless two-meter sphere of milky-white opaque glass-ceramic. The opacity is deliberate. Staff should not assume that an acoustic hazard cannot also have a visual component. Exterior acoustic decibel sensors measure vibration transfer through the shell and mounting cradle. The mechanical pressure disc gives a physical reading of internal vacuum even when the digital monitor fails. The heavy circular hatch includes a digital keypad and a manual override wheel made of anti-magnetic brass alloy.
 
@@ -95,7 +95,7 @@ A clean VIS looks simple. That simplicity is part of its strength. Fewer interna
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before loading, personnel identify the hazard channel: sound, breath, vibration, pressure, speech, recording, instrument action, or unknown acoustic effect. The sphere is inspected for shell cracks, seal residue, decibel sensor health, pressure-disc movement, and hatch response. The object is placed inside only under approved handling rules. The hatch is closed, keypad seal confirmed, and vacuum cycle started until the pressure disc and digital monitor agree.
 
@@ -105,7 +105,7 @@ Manual override is not a convenience feature. The brass wheel exists for power f
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 Vacuum Isolation Spheres are strong against air-carried sound but weak against hazards that transmit through light, direct cognition, magnetic fields, dreams, written symbols, nonlocal resonance, or structural vibration strong enough to bypass the shell. They cannot hold large subjects, pressure-seeking organisms, heat-heavy artifacts, corrosive materials, or entities that turn absence of air into a resource. VIS also cannot prove a sound hazard is dead. It can prove only that ordinary transmission is being denied.
 
@@ -113,20 +113,20 @@ Known failure modes include microcracks, pressure-disc sticking, false decibel c
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## VIS-1748 Bell Jar Rupture
+### VIS-1748 Bell Jar Rupture
 An early glass-ceramic chamber holding a small chime cracked after three days of vacuum isolation. The object was quiet until rupture, then rang once despite no visible striker. Two staff lost the ability to hear spoken names for six weeks. The event remains in training because quiet storage did not equal defeated hazard.
 
-## VIS-1987 Pressure Disc Disagreement
+### VIS-1987 Pressure Disc Disagreement
 A modernized sphere showed digital vacuum stability while the mechanical pressure disc drifted upward. Staff trusted the screen and delayed maintenance. The contained whistle produced a faint tone through the hatch seam. Current procedure requires digital and mechanical agreement before clearance.
 
-## VIS-2018 Opaque Shell Complaint
+### VIS-2018 Opaque Shell Complaint
 A researcher requested a transparent VIS for easier monitoring of a speaking artifact. The request was denied. One week later, the artifact manifested ink-like eyes on its suspension cradle. The denial is now cited as evidence that opacity prevents staff from giving mixed-channel hazards a free audience.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Containment operates active VIS chambers and writes opening orders. Archive stores evidence spheres and recovered sound objects. Info-Hazard Division controls exposure, transcription, and recording rules. Engineering maintains shell integrity, pressure systems, and hatch hardware. Site Command authorizes emergency opening. Historical Custody tracks legacy units and forbids modification without review.
 
@@ -134,7 +134,7 @@ Standing reminder: the safest sound in the archive is not a harmless sound. It i
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 04;
 - ACT Technological Visual Reference Guide, Item 04;
@@ -145,7 +145,7 @@ Standing reminder: the safest sound in the archive is not a harmless sound. It i
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which acoustic hazards can transmit without air after long isolation?
 - Are Foundational Era spheres safer because they are simpler or riskier because their seals are undocumented?
@@ -156,7 +156,7 @@ Standing reminder: the safest sound in the archive is not a harmless sound. It i
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Containment Division / Archive Division / Engineering Division / Central Archive  

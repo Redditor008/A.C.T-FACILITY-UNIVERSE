@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - HARVESTED PALE WOOD
+### TECHNOLOGY RECORD - HARVESTED PALE WOOD
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Materials Custody / Dark World Survey / Engineering / Medical / White Grave / Site Infrastructure  
 **Authority:** Materials Custody, Dark World Survey, Engineering Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Harvested Pale Wood is the forty-first main A.C.T technology expanded into an individual record. The Master Catalog defines it as indestructible timber derived from the Dark World, used for internal structural reinforcement and vulnerable to twenty-four karat gold. The visual guide describes stacks of white barkless timber, microscopic restricted ID tags, a polished-bone feel, and a low-level pearlescent sheen. Dark World Door files identify Pale Wood as the material composing the AFD-PL-932 threshold and the dominant tree growth inside the Dark World. Expedition Pale-01 confirmed that ordinary knives produce no vibration against it, while gold-plated probes pass through it as if through butter.
 
 HPW is not lumber. It is a piece of another world's refusal to break.
@@ -47,7 +47,7 @@ TRACK EVERY PLANK AS IF IT IS STILL PART OF THE DOOR.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Harvested Pale Wood is a restricted structural material recovered from the Dark World and prepared for A.C.T engineering, medical, and containment use. It resists standard physical, thermal, and chemical damage, yet becomes workable when contacted by twenty-four karat gold tools. This selective vulnerability makes it valuable and dangerous. The same property that allows A.C.T to shape it also allows a hostile or careless handler with gold to alter what ordinary force cannot.
 
@@ -65,7 +65,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND HARVEST
+## ORIGIN AND HARVEST
 
 HPW harvest begins at AFD-PL-932, the Dark World Door. The door itself is composed of pale non-terrestrial wood and opens into a dimension of perpetual night, red and blue moon cycles, red grass, Blue Dirt, Red River acid, and Bones Hounds. The dominant flora are Pale Woods: smooth barkless trees twelve to fifteen meters tall with gray stiff leaves and clear ozone-scented sap.
 
@@ -75,7 +75,7 @@ Modern harvesting is rare. A.C.T does not treat the Dark World as a timber yard.
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 Prepared HPW appears as white or bone-pale timber with no bark. The surface feels like polished bone rather than Earth wood. A low-level pearlescent sheen may appear under angled light. Grain patterns are subtle, sometimes visible only after cold condensation or ultraviolet inspection. Each plank receives a microscopic restricted ID tag for location tracking, orientation, harvest point, gold-tool history, dust capture state, and storage assignment.
 
@@ -96,7 +96,7 @@ HPW dust is active custody material. Dust from cutting, drilling, shaping, or sa
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before handling, Materials Custody verifies plank ID, storage history, gold exposure, residue swabs, and intended use. Engineering or Medical must provide a written modification plan before any gold tool approaches the material. Staff confirm that no ordinary moisture, open water, wet cleaning, or unsealed biological sample is present in the work zone.
 
@@ -106,7 +106,7 @@ After modification, all fragments, dust, tools, tags, and waste are reconciled. 
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 HPW is indestructible to standard methods but not safe. Its gold vulnerability is a structural weakness and security risk. It can encourage overbuilding, unauthorized trophy cutting, black-market interest, and careless use in spaces where gold jewelry, gold instruments, or related materials are present. It may also interact with Dark World organisms, Blue Dirt, Red River residue, Pale Wood Scalpels, or ordinary wood contaminated by Pale Wood dust.
 
@@ -114,20 +114,20 @@ Known failure modes include gold-contact overcutting, dust spread, structural me
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## HPW-1985 First Gold Probe Confirmation
+### HPW-1985 First Gold Probe Confirmation
 Expedition Pale-01 confirmed that a tactical knife produced no vibration against living Pale Wood, while a gold-plated probe pierced the trunk easily. This established the gold-vulnerability doctrine and ended all standard-tool harvest proposals.
 
-## HPW-1997 Drill Closure Event
+### HPW-1997 Drill Closure Event
 A gold-tipped drill lost sufficient gold contact while boring a Pale Wood section. The surrounding material closed around the bit. The drill was recovered only after removing the entire section. Gold-wear indicators became mandatory.
 
-## HPW-2011 Dust Custody Leak
+### HPW-2011 Dust Custody Leak
 Pale Wood dust entered an ordinary storage bench after a shroud failure. Three wooden drawers became unusually resistant to cutting. Materials Custody now treats HPW dust as active source residue, not sawdust.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Materials Custody controls plank inventory, dust, tags, and gold-contact records. Dark World Survey authorizes harvest and interprets environmental context. Engineering requests structural stock. Medical receives prepared blanks for Pale Wood Scalpel programs but does not harvest. White Grave controls AFD-PL-932 threshold movement. Site Infrastructure approves any permanent installation.
 
@@ -135,7 +135,7 @@ Standing reminder: if it came from the Dark World, containment did not end when 
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 41;
 - ACT Technological Visual Reference Guide, Item 41;
@@ -148,7 +148,7 @@ Standing reminder: if it came from the Dark World, containment did not end when 
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Does HPW retain a directional relationship to the forest or door after harvest?
 - Can gold-vulnerability be sealed without destroying the reason the material is useful?
@@ -159,7 +159,7 @@ Standing reminder: if it came from the Dark World, containment did not end when 
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Materials Custody / Dark World Survey / Central Archive  

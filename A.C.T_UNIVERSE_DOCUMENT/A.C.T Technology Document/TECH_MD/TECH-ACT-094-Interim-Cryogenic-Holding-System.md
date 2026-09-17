@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - INTERIM CRYOGENIC HOLDING SYSTEM
+### TECHNOLOGY RECORD - INTERIM CRYOGENIC HOLDING SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Frost Hollow Depot / White Grave Station / Medical Quarantine / Security / Limited Containment Support
 **Authority:** F-1 Holding Officer, Sub-Site Chief, White Grave Site Command, and Central Archive
 
-### Archive Note
+#### Archive Note
 Interim Cryogenic Holding System is the ninety-fourth main A.C.T technology expanded into an individual record. The Frost Hollow Depot dossier defines the depot as White Grave Station's quarantine and staging extension: an interim cold-storage and quarantine facility built to absorb seasonal biological pressure. The F-1 floor dossier identifies the deepest level as interim cryogenic holding with intake and staging bay, cryogenic storage units, suppression monitoring stations, transfer preparation area, floor command post, documentation alcove, and F-1 closure procedure.
 
 ICHS exists because Frost Hollow is not the long sleep. It is the waiting room before the sleep.
@@ -47,7 +47,7 @@ SUPPRESS BRIEFLY, WATCH CONSTANTLY, TRANSFER BEFORE COMFORT.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 The Interim Cryogenic Holding System is the F-1 cold-storage and biological suppression technology used by Frost Hollow Depot to hold hazardous organic material during staging before transfer to White Grave Station. It provides controlled low-temperature custody for biological arrivals that require suppression, quarantine continuation, transfer scheduling, or temporary removal from ordinary movement.
 
@@ -57,7 +57,7 @@ Approved roles include interim cryogenic storage, biological suppression support
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Frost Hollow Depot was constructed to solve the seasonal pressure problem recorded in the sub-site dossier. Biological incidents arrive in waves. White Grave cannot receive every incoming case at once without crowding its holding levels, quarantine capacity, and long-term isolation infrastructure. Frost Hollow therefore became the cold buffer: close enough to the transport corridors to receive pressure, but limited enough to remain a sub-site.
 
@@ -65,7 +65,7 @@ The F-1 floor developed as the depot's secure bottom. It holds material only und
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 An ICHS installation includes intake and staging bay, cryogenic storage units, suppression monitoring stations, transfer preparation area, environmental control trunks, documentation alcove, floor command post, emergency power, sealed access controls, and F-1 closure hardware. Storage units are arranged for observation and extraction rather than resident comfort.
 
@@ -86,7 +86,7 @@ The system is considered active even when empty, because seasonal pressure can r
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before holding, staff confirm quarantine status, biological risk, suppression requirements, expected transfer window, White Grave authorization, and whether silent removal authority is attached. Incoming material enters through the intake and staging bay, receives a holding unit assignment, and is placed under monitored cold suppression.
 
@@ -94,7 +94,7 @@ During holding, Medical Quarantine staff read suppression indicators and biologi
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 ICHS cannot replace permanent deep-cold holding, cannot study biological material independently, cannot perform transformation work, and cannot keep permanent residents. It is vulnerable to transfer delays, seasonal overload, biological adaptation to cold, sensor failure, environmental imbalance, and staff fatigue caused by isolation and long-duration cold exposure.
 
@@ -102,20 +102,20 @@ Known failure modes include suppression collapse, thaw-cycle error, overstay, un
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## ICHS-Seasonal Pressure Formation
+### ICHS-Seasonal Pressure Formation
 The Frost Hollow dossier records that the depot was built to reduce over-concentration pressure on White Grave during seasonal biological incidents. ICHS formalizes the cold-storage half of that relief.
 
-## ICHS-Interim Doctrine Review
+### ICHS-Interim Doctrine Review
 A holding exercise showed that days-to-weeks language must be enforced by visible custody clocks and parent-station transfer schedules. Current procedure rejects indefinite temporary status.
 
-## ICHS-Suppression Failure Drill
+### ICHS-Suppression Failure Drill
 A simulated biological adaptation event forced transfer preparation to halt under closure. Current doctrine requires suppression failure to trigger White Grave review before local staff attempt adjustment.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Medical Quarantine operates biological suppression and condition assessment. Security controls access, closure, and movement. Limited Containment Support maintains the cryogenic units. White Grave Site Command owns final disposition and transfer authority.
 
@@ -123,7 +123,7 @@ ICHS doctrine holds that cold delay is useful only while everyone remembers it i
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SUB-02-RU-N Frost Hollow Depot Sub-Site Dossier;
 - ACT-SUB-02-RU-N-F-1 Interim Cryogenic Holding Floor Dossier;
@@ -135,7 +135,7 @@ ICHS doctrine holds that cold delay is useful only while everyone remembers it i
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How many seasonal arrivals can be held before interim doctrine becomes strained?
 - Which biological materials become more dangerous after stable cold exposure?
@@ -146,7 +146,7 @@ ICHS doctrine holds that cold delay is useful only while everyone remembers it i
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** F-1 Holding Officer / Medical Quarantine Lead / Central Archive

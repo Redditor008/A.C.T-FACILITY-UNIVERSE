@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - WITNESS PROCESSING AND SANITATION SUITES
+### TECHNOLOGY RECORD - WITNESS PROCESSING AND SANITATION SUITES
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Glass Orchard Relay / Redwood Veil Complex / Medical / Security / Limited Archive / Recovery Support
 **Authority:** Processing Officer, Medical Lead, Sub-Site Chief, Redwood Veil Site Command, and Central Archive
 
-### Archive Note
+#### Archive Note
 Witness Processing and Sanitation Suites are the eighty-ninth main A.C.T technology expanded into an individual record. The Glass Orchard Relay dossier states that the relay began as a covert witness routing point and continues to function as a witness processing and sanitation center. The F-2 Processing and Staging Level dossier identifies the witness processing suites as a core space where witnesses are received, assessed, interviewed, sanitized where required, and routed without approaching the parent site's deeper installations.
 
 WPSS exists to protect secrecy without treating witnesses as debris. The suite's work is assessment, care, narrative insertion, amnestic administration where required, and safe return or assimilation under authority.
@@ -47,7 +47,7 @@ PROCESS THE WITNESS WITHOUT MAKING THE FACILITY VISIBLE.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Witness Processing and Sanitation Suites are the F-2 controlled environments used to receive civilians, exposed personnel, accidental observers, and other witnesses from field operations inside Glass Orchard Relay. The suites support assessment, interview, medical check, narrative reconstruction, amnestic administration, witness holding, release preparation, and assimilation routing when a witness cannot be safely returned.
 
@@ -57,7 +57,7 @@ Approved roles include witness reception, exposure assessment, medical stabiliza
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Glass Orchard began as a covert witness routing point. That origin remains visible in F-2, where the witness processing suites stand beside intake staging, temporary holding cells, and archive buffering. The relay's early value was simple: bring witnesses somewhere controlled, process them without revealing the larger Facility, and return them to a life that could continue.
 
@@ -65,7 +65,7 @@ As Redwood Veil operations expanded, the witness routing point became a formal s
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A WPSS installation includes reception rooms, medical assessment bays, interview chambers, observation controls, narrative planning stations, amnestic custody cabinets, quiet recovery rooms, release preparation desks, secure witness file terminals, and controlled exits. Suite architecture avoids overt containment aesthetics where possible; fear can corrupt memory and make sanitation harder.
 
@@ -86,7 +86,7 @@ The suite treats ordinary life as an endpoint that must be rebuilt carefully.
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Upon arrival, witnesses receive identity intake, exposure description, immediate medical assessment, and Security review. Staff determine whether the witness saw anomaly, Facility activity, both, or something too unclear for ordinary sanitation. Medical personnel determine whether amnestic use is safe. Archive staff open a temporary witness file and attach field reports.
 
@@ -94,7 +94,7 @@ Processing may produce release, delayed release, continued observation, parent-s
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 WPSS cannot make every witness safe for return. Some exposures are too severe, some memories resist treatment, some witnesses hold evidence outside their own memory, and some events produce social gaps that no narrative can cover. The suites also cannot be used as a substitute for full psychological care when exposure has caused durable harm.
 
@@ -102,20 +102,20 @@ Known failure modes include memory injury, narrative mismatch, witness panic, re
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## WPSS-Witness Routing Origin
+### WPSS-Witness Routing Origin
 The Glass Orchard dossier records the relay's origin as a covert witness routing point. WPSS formalizes that origin into controlled suite practice.
 
-## WPSS-Narrative Mismatch Review
+### WPSS-Narrative Mismatch Review
 A sanitation exercise produced a release narrative that contradicted travel and injury records. Current procedure requires narrative insertion review against medical, field, and ordinary-life evidence before release.
 
-## WPSS-Amnestic Aftercare Audit
+### WPSS-Amnestic Aftercare Audit
 A medical audit confirmed that witness sanitation cannot end at dosage. Current procedure pairs amnestic administration with recovery observation and aftercare review.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Medical leads assessment, amnestic safety, and aftercare. Security controls witness movement and exposure risk. Limited Archive maintains witness files and transfer records. Recovery Support supplies field context. The Processing Officer coordinates suite flow and reports exceptions to the Sub-Site Chief.
 
@@ -123,7 +123,7 @@ WPSS doctrine holds that secrecy is not complete until the witness can survive t
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SUB-01-US-W Glass Orchard Relay Sub-Site Dossier;
 - ACT-SUB-01-US-W-F-2 Processing and Staging Level Floor Dossier;
@@ -135,7 +135,7 @@ WPSS doctrine holds that secrecy is not complete until the witness can survive t
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which witness profiles should bypass local processing and go directly to Redwood Veil?
 - How often does a true account survive better than a false replacement?
@@ -146,7 +146,7 @@ WPSS doctrine holds that secrecy is not complete until the witness can survive t
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Processing Officer / Medical Lead / Central Archive

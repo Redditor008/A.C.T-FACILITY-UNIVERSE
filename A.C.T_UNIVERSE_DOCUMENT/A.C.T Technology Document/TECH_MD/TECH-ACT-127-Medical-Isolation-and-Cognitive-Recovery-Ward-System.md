@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - MEDICAL ISOLATION AND COGNITIVE RECOVERY WARD SYSTEM
+### TECHNOLOGY RECORD - MEDICAL ISOLATION AND COGNITIVE RECOVERY WARD SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Redwood Veil Complex / Medical / Containment / Research / Security / Archive
 **Authority:** Chief Medical Officer, Medical Division, Site Director, and Central Archive
 
-### Archive Note
+#### Archive Note
 Medical Isolation and Cognitive Recovery Ward System is the one-hundred-twenty-seventh main A.C.T technology expanded into an individual record. The Redwood Veil F-6 Medical and Cognitive Care dossier identifies F-6 as the Medical Division's primary ward level, providing trauma care, memetic contamination treatment, cognitive recovery, and artifact-influence evaluation for personnel. It records clinical wards, memetic contamination treatment suites, cognitive recovery center, artifact-influence isolation suites, patient-status confidentiality, exposure-limited treatment, and isolation doctrine protecting both patient and complex.
 
 MICRWS exists because Facility personnel are not separate from containment. When people carry hazards in their bodies, perception, memory, or behavior, care becomes operational infrastructure.
@@ -47,7 +47,7 @@ TREAT THE PATIENT AS PERSONNEL FIRST, AND CONTAIN THE INFLUENCE WITHOUT MAKING C
 
 ---
 
-# FUNCTION OUTLINE
+## FUNCTION OUTLINE
 
 Medical Isolation and Cognitive Recovery Ward System is Redwood Veil's F-6 ward technology for personnel affected by trauma, memetic contamination, cognitive injury, and artifact influence. It combines isolation suites, exposure-limited treatment rooms, clinical monitoring, atmospheric separation, patient-status access controls, medical record confidentiality, and escalation links to Containment and Security when a patient's condition involves active anomalous influence.
 
@@ -57,7 +57,7 @@ Approved roles include trauma care, memetic contamination treatment, cognitive r
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Redwood Veil's early medical capacity began as an infirmary, but ordinary emergency care could not answer what the site's work did to personnel. Recovery teams returned with memory gaps. Containment staff developed exposure patterns. Researchers carried ideas that behaved like symptoms. Security personnel sometimes became unsafe because they had done their duty correctly.
 
@@ -65,7 +65,7 @@ F-6 developed as a full ward level when the complex recognized that personnel ca
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A MICRWS installation includes trauma wards, general medical rooms, memetic treatment suites, cognitive recovery rooms, artifact-influence isolation suites, clinical laboratories, pharmacy support, patient monitoring stations, separated air handling, Medical record terminals, and incident-response links to Containment and Security.
 
@@ -86,7 +86,7 @@ The isolation suite is engineered to protect both directions: the patient from t
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before admission, MICRWS records the triggering event, patient identity, exposure source if known, restriction set, immediate symptoms, duty floor, required clinical isolation level, Medical personnel roster, and whether Containment or Security standby is necessary. Medical authority governs treatment decisions, while resident disposition and division assignment remain outside F-6 authority.
 
@@ -94,7 +94,7 @@ During care, treatment is exposure-limited and clinically documented. Patient st
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 MICRWS depends on trust. If personnel believe medical admission will destroy their standing, they may hide symptoms until the floor receives an incident instead of a patient. Confidentiality can also conflict with operational warning when a patient's condition affects duty safety. Isolation protects the complex, but isolation can worsen cognitive injury if used as punishment rather than care.
 
@@ -102,20 +102,20 @@ Known failure modes include delayed self-reporting, memetic recurrence during tr
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## MICRWS-Patient-First Correction
+### MICRWS-Patient-First Correction
 A review of isolation procedure found that artifact-influence patients could be described more like contained residents than injured personnel. Current doctrine states that the patient remains personnel first unless command formally changes their status.
 
-## MICRWS-Confidentiality Balance Review
+### MICRWS-Confidentiality Balance Review
 Medical records once carried unnecessary duty details in order to explain exposure origin. Current record handling preserves clinical need while limiting restricted operational knowledge.
 
-## MICRWS-Exposure-Limited Treatment Finding
+### MICRWS-Exposure-Limited Treatment Finding
 Memetic treatment drills showed that clinical observation can repeat exposure if staff document the wrong details. Current suites record symptoms and response without reproducing hazardous content.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Medical Division operates MICRWS and controls treatment. Containment advises when patient condition involves active anomalous influence. Research provides exposure characterization when safe and authorized. Security supports isolation integrity without replacing clinical command. Archive preserves Medical records under confidentiality standards.
 
@@ -123,7 +123,7 @@ MICRWS doctrine holds that a facility that cannot care for its people cannot saf
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-01-US-W-F-6 Medical and Cognitive Care Floor Dossier;
 - ACT-SITE-01-US-W-F-5 Research and Analysis Floor Dossier;
@@ -135,7 +135,7 @@ MICRWS doctrine holds that a facility that cannot care for its people cannot saf
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - When does artifact-influence evaluation become containment rather than care?
 - How much duty detail may a patient reveal before treatment violates another restriction set?
@@ -146,7 +146,7 @@ MICRWS doctrine holds that a facility that cannot care for its people cannot saf
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Chief Medical Officer / Medical Division / Central Archive

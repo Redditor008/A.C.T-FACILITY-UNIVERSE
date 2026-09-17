@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - QUARANTINE ASSESSMENT AND MEDICAL STAGING SUITES
+### TECHNOLOGY RECORD - QUARANTINE ASSESSMENT AND MEDICAL STAGING SUITES
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Frost Hollow Depot / White Grave Station / Medical Quarantine / Assessment Laboratory / Security
 **Authority:** Medical Quarantine Lead, Assessment Officer, Sub-Site Chief, White Grave Site Command, and Central Archive
 
-### Archive Note
+#### Archive Note
 Quarantine Assessment and Medical Staging Suites are the ninety-fifth main A.C.T technology expanded into an individual record. The Frost Hollow Depot dossier defines quarantine as the depot's central protocol: every item of incoming biological material is held under assessment until its status is confirmed, containment verified, and transfer authorized. The F-2 floor dossier identifies quarantine chambers, assessment laboratories, and medical staging suites as the operational heart of the depot.
 
 QAMSS exists because nothing biological moves toward White Grave unassessed. The depot's cold is not enough unless the material's status is known.
@@ -47,7 +47,7 @@ QUARANTINE FIRST, VERIFY STATUS, STAGE ONLY WHAT IS UNDERSTOOD ENOUGH TO MOVE.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 The Quarantine Assessment and Medical Staging Suites are the F-2 technology environment where Frost Hollow receives, isolates, studies, suppresses, and prepares biological material before it enters interim cryogenic holding or transfers to White Grave Station. The system combines intake and quarantine bays, quarantine chambers, assessment laboratories, medical staging suites, suppression administration, rolling manifest control, and parent-station escalation lines.
 
@@ -57,7 +57,7 @@ Approved roles include quarantine intake, biological containment verification, s
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Frost Hollow was built to absorb seasonal biological pressure, but cold storage alone could only delay a problem. The parent station needed arrivals assessed before transfer. The depot therefore developed F-2 as its operational heart: a quarantine floor where biological material could be received under controlled conditions, examined without permanent study authority, and staged for the next lawful step.
 
@@ -65,7 +65,7 @@ The Assessment Doctrine recorded in the F-2 dossier shaped QAMSS. The floor veri
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A QAMSS installation includes intake and quarantine bays, sealed quarantine chambers, assessment benches, medical staging rooms, suppression administration cabinets, biological monitors, contamination barriers, parent-station terminals, rolling manifest stations, and Security access controls. The layout allows material to pass from surface receiving into assessment, then downward to F-1 or outward to transfer.
 
@@ -86,7 +86,7 @@ The suites are built to answer enough, not everything. Complete knowledge belong
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Upon arrival, QAMSS staff assign quarantine status, source route, biological condition, suppression requirement, exposure concern, and provisional transfer destination. Material is placed in a quarantine chamber or assessment bay. Medical Quarantine staff monitor stability. Assessment Laboratory staff verify containment needs and biological behavior. Security maintains separation between persons, samples, and routes.
 
@@ -94,7 +94,7 @@ Assessment outcomes include release to F-1 interim cryogenic holding, transfer p
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 QAMSS can verify enough for routing, but it cannot guarantee permanent understanding. Biological material can change after assessment, hide activity under suppression, react to cold over time, contaminate tools, or become more dangerous when moved. The suites also cannot compensate for staff overconfidence during seasonal surges.
 
@@ -102,20 +102,20 @@ Known failure modes include false quarantine release, wrong suppression dose, in
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## QAMSS-Quarantine Floor Formation
+### QAMSS-Quarantine Floor Formation
 The Frost Hollow dossier records quarantine assessment as a modern role of the depot. QAMSS was formalized when seasonal biological transfer waves required a dedicated verification floor before White Grave receipt.
 
-## QAMSS-False Release Drill
+### QAMSS-False Release Drill
 A simulated dormant organism passed initial cold-response checks but failed behavior verification. Current procedure requires containment verification before any material is cleared for F-1 or transfer.
 
-## QAMSS-Suppression Administration Review
+### QAMSS-Suppression Administration Review
 A medical drill showed that changing suppression during assessment can invalidate the transfer state. Current doctrine requires suppression changes to be logged against destination and parent-station instruction.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Medical Quarantine operates intake, suppression, and transfer staging. Assessment Laboratory staff perform verification. Security controls access and separation. Limited Containment Support maintains chambers and barriers. White Grave Site Command receives escalation and issues disposition.
 
@@ -123,7 +123,7 @@ QAMSS doctrine holds that the cold chain begins with a question, not a chamber.
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SUB-02-RU-N Frost Hollow Depot Sub-Site Dossier;
 - ACT-SUB-02-RU-N-F-2 Quarantine and Assessment Level Floor Dossier;
@@ -135,7 +135,7 @@ QAMSS doctrine holds that the cold chain begins with a question, not a chamber.
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which biological signals should override an otherwise stable cold response?
 - Can suppression hide exactly the behavior assessment needs to detect?
@@ -146,7 +146,7 @@ QAMSS doctrine holds that the cold chain begins with a question, not a chamber.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Medical Quarantine Lead / Assessment Officer / Central Archive

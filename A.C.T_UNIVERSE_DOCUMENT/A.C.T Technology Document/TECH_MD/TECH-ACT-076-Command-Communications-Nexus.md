@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - COMMAND COMMUNICATIONS NEXUS
+### TECHNOLOGY RECORD - COMMAND COMMUNICATIONS NEXUS
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Command / Security / Administration / Division Chiefs / Nusantara Deep Relay
 **Authority:** Site Director, Command Support, and Central Archive
 
-### Archive Note
+#### Archive Note
 Command Communications Nexus is the seventy-sixth main A.C.T technology expanded into an individual record. The F-5 Personnel and Command Level dossier identifies F-5 as the relay's Site Director command floor, administrative center, internal logistics center, and command communications nexus. Its communications systems are on protected circuits, and the command floor maintains the links through which the Site Director commands the relay and coordinates with the Facility network beyond.
 
 CCN exists because an island site cannot command by shouting down stairwells. Orders must move through protected channels, keep their authority attached, and survive the island's weather, seismic strain, and classified operational burden.
@@ -47,7 +47,7 @@ AN ORDER WITHOUT A VERIFIED CHANNEL IS ONLY NOISE WITH AUTHORITY CLAIMED.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 The Command Communications Nexus is the protected communications architecture used by Nusantara Deep Relay's F-5 command floor to direct the site, coordinate its divisions, maintain external Facility contact, and route emergency orders during maritime, seismic, containment, personnel, and restricted-record incidents. It links the Site Director, division chiefs, floor command posts, port operations, maritime platforms, monitoring levels, and external A.C.T network contacts through controlled channels.
 
@@ -57,7 +57,7 @@ Approved roles include command broadcast, division coordination, emergency alert
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Nusantara's island setting shaped CCN from the beginning. The relay operates in a volcanic and seismically active region, handles maritime anomalies at sea, maintains sensitive records below ground, and commands personnel who may be divided between vessels, port interfaces, surface cover structures, and deep floors. Ordinary site telephones and radios were not enough.
 
@@ -65,7 +65,7 @@ F-5 became the human and command heart of the relay. Its command floor required 
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A CCN installation includes protected circuit trunks, command consoles, authentication panels, sealed channel selectors, emergency broadcast relays, maritime platform links, floor command routing, external network gates, order receipt recorders, and communications continuity batteries. Command channels are divided by operational need: general site traffic, division command, containment alert, maritime recovery, seismic preparedness, medical support, security lockdown, and restricted review contact.
 
@@ -86,7 +86,7 @@ The order receipt recorder is treated as an archive instrument, not a convenienc
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Routine CCN use begins with channel selection, authority verification, message classification, and recipient confirmation. Command Support records order sequence and receipt. Division chiefs acknowledge orders through their assigned routing panels. External transmissions require sensitivity check before leaving the relay.
 
@@ -96,7 +96,7 @@ No emergency order is considered complete until receipt is logged or failure to 
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 CCN can protect command traffic, but it cannot make bad orders wise. It depends on human authority, accurate event classification, and disciplined channel use. It can be stressed by simultaneous maritime, seismic, and containment incidents. It can also create false confidence if personnel assume a sent order has become an obeyed order.
 
@@ -104,20 +104,20 @@ Known failure modes include channel congestion, false authority, delayed acknowl
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## CCN-F-5 Protected Circuit Formation
+### CCN-F-5 Protected Circuit Formation
 The F-5 dossier records that the command floor's communications systems are on protected circuits. CCN was formalized to make those circuits part of a controlled command technology rather than ordinary infrastructure.
 
-## CCN-Maritime Dropout Review
+### CCN-Maritime Dropout Review
 A platform-contact exercise showed that vessel communication delay could leave F-5 with outdated field state during fast containment decisions. Current procedure requires uncertainty markers on platform reports older than their mission threshold.
 
-## CCN-Closure Command Drill
+### CCN-Closure Command Drill
 An F-1 closure drill confirmed that closure orders require receipt proof at F-2 and F-1 rather than broadcast alone. CCN now links closure command to receipt verification and local archive capture.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Command uses CCN to direct the relay. Security uses it for lockdown and access events. Recovery uses maritime links for vessels and submersible platforms. Containment uses alert channels for F-3, F-1, and transfer incidents. Research and Seismic Analysis use approved routes for urgent findings. Administration maintains routine schedules and personnel notices through lower-sensitivity channels.
 
@@ -125,7 +125,7 @@ CCN doctrine holds that command is a system, not a voice. The site obeys through
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-05-ID-C-F-5 Personnel and Command Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-6 Surface Research and Transition Level Floor Dossier;
@@ -136,7 +136,7 @@ CCN doctrine holds that command is a system, not a voice. The site obeys through
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How much command authority should remain local if external Facility contact is lost?
 - Can maritime signal gaps imitate refusal to acknowledge orders?
@@ -147,7 +147,7 @@ CCN doctrine holds that command is a system, not a voice. The site obeys through
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15
 **Author Desk:** Command Support / Nusantara Site Command / Central Archive

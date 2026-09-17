@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - CLOCKWORK CAUSAL ANCHORS
+### TECHNOLOGY RECORD - CLOCKWORK CAUSAL ANCHORS
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Historical Engineering Archive / Temporal Review Desk / Research / Artifact Storage / Archive  
 **Authority:** Historical Engineering Archive, Temporal Review Desk, and Central Archive
 
-### Archive Note
+#### Archive Note
 Clockwork Causal Anchors are the fifty-third main A.C.T technology expanded into an individual record. The Technological Evolution Timeline places CCA development in the 1810s and describes it as an early attempt to mechanize temporal stabilization using precision brass and iron systems. Later A.C.T technology produced Reality Stabilization Anchors, Causal Anchor Nails, Causal Static Generators, Causal-Reactive Mercury procedures, and other stronger methods, but CCA remains the first recorded mechanical effort to make time and cause obey an engineered rhythm.
 
 CCA is not a working replacement for modern stabilization. It is a brass warning that the Facility tried to build causality before it knew how to listen to it.
@@ -47,7 +47,7 @@ DO NOT WIND AN ANCHOR UNLESS YOU ARE AUTHORIZED TO HEAR WHAT IT THINKS COMES NEX
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Clockwork Causal Anchors were mechanical stabilizers built to impose short-range temporal regularity on rooms, cabinets, documents, and artifacts that displayed small causal irregularities. Their function was not full reality stabilization. They attempted to keep sequence in order: before before after, cause before result, opening before contents, strike before sound, and written record before revision.
 
@@ -57,7 +57,7 @@ Modern use is restricted to study. CCA units are too weak, too local, and too pr
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 The 1810s belonged to the Foundational Era's passive barrier logic, but A.C.T had already learned that not every hazard could be stopped by mass. Some early artifacts did not escape through walls. They escaped through order. A drawer opened before a hand reached it. A bell rang before it was struck. A page recorded an outcome before the test occurred. These incidents forced early engineers to ask whether cause could be braced like a door.
 
@@ -65,7 +65,7 @@ Clockwork Causal Anchors were the first known answer. Brass and iron were select
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 Surviving CCAs resemble heavy clock regulators mounted inside iron anchor frames. Most are cabinet-sized or wall-mounted. Smaller desk units exist but are considered unstable because their light frames transmit vibration too easily. The face usually lacks ordinary hours and instead carries sequence marks, witness ticks, and a final locking notch.
 
@@ -86,7 +86,7 @@ Some units contain handwritten repair marks from before modern Archive designati
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 No live CCA operation is authorized for ordinary containment. Study begins with the unit unwound, pinned, and placed on an isolation bench. Archive confirms chain of custody. Engineering confirms that no gear is under stored tension. Temporal Review verifies that the unit is not synchronized to an active artifact, room, or file.
 
@@ -96,7 +96,7 @@ After any motion, the unit is pinned open and left under observation until the f
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 CCA units cannot hold large spaces, living anomalies, modern temporal hazards, narrative pressure, or deliberate causal attack. They also may create false stability by forcing a local sequence while the larger room remains unstable. A clock can keep time while the world around it is lying.
 
@@ -104,20 +104,20 @@ Known failure modes include skipped tick, repeated tick, reverse escapement, lat
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## CCA-1819 Reverse Tick Incident
+### CCA-1819 Reverse Tick Incident
 A preserved repair note describes an anchor ticking backward for seven beats while its hands remained still. The surrounding room clock lost fourteen seconds. The unit was retired and later used to define reverse escapement risk.
 
-## CCA-1922 Ledger Pre-Entry
+### CCA-1922 Ledger Pre-Entry
 A ledger synchronization clip caused a blank line to show a transfer note before the transfer occurred. The event did not rewrite the ledger after completion. Archive classified the incident as early evidence that causal anchoring could affect records as well as rooms.
 
-## CCA-1965 RSA Replacement Review
+### CCA-1965 RSA Replacement Review
 After the Reality Stabilization Anchor prototype succeeded, CCAs were formally removed from active stabilization plans. Surviving units were preserved for historical study and as a record of the mechanical ancestry of modern causal infrastructure.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Historical Engineering Archive preserves units, diagrams, and repair ledgers. Temporal Review controls all winding proposals and failure studies. Research compares CCA behavior to later causal technologies. Artifact Storage maintains sealed display and storage cabinets. Archive uses the record to show how A.C.T moved from physical barrier logic into sequence control.
 
@@ -125,7 +125,7 @@ Standing reminder: if the clock says the event already happened, check the room 
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Evolution Timeline, 1810s Clockwork Causal Anchors entry;
 - TECH-ACT-001 - Reality Stabilization Anchor System;
@@ -137,7 +137,7 @@ Standing reminder: if the clock says the event already happened, check the room 
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Did any CCA ever stabilize a full room without later sequence debt?
 - Are the oldest brass gear ratios copied from ordinary horology or from anomalous observation?
@@ -148,7 +148,7 @@ Standing reminder: if the clock says the event already happened, check the room 
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Historical Engineering Archive / Temporal Review Desk / Central Archive  

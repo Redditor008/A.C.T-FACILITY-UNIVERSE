@@ -1,16 +1,16 @@
 # A.C.T FACILITY ARCHIVE FILE
-## Historical Origin, First Deployment, and ABYSS Foundation
+### Historical Origin, First Deployment, and ABYSS Foundation
 
 **Archive Status:** Active  
 **Distribution:** Internal / Historical Review  
 **Authority:** Central Archive and O5 Historical Seal  
 
-### Archive Note
+#### Archive Note
 This file is the complete internal archive version of the Facility's origin history, the first descent, the discovery of ITHYOS, and the construction logic of the ABYSS foundation.
 
 ---
 
-## Introduction
+### Introduction
 If Part One defines the A.C.T Facility, Part Two explains its structure, Part Three explains its anomaly doctrine, and Part Four explains the factions around it, then Part Five explains why the Facility had to exist at all.
 
 A.C.T was not born from ambition alone. It was born from discovery, fear, survival, and the realization that the world had always been less stable than humanity believed. Before there was a system, before there was doctrine, before there was a Facility, there were only strange events, forgotten records, impossible sightings, and a handful of people willing to admit that the world was already broken in ways civilization did not understand.
@@ -20,7 +20,7 @@ At the center of that realization stood the first true anomaly humanity could ne
 
 ---
 
-## 5.1 — Before A.C.T
+### 5.1 — Before A.C.T
 The earliest human records of anomalous existence are believed to date back to the **early 15xx**, though older references almost certainly exist in even earlier fragments of history, oral traditions, temple records, and half-preserved myth cycles. Long before the modern age of classification, human beings had already witnessed things that did not belong to natural law.
 
 A.C.T dating note: years written as **15xx** and **16xx** are deliberately approximate. The earliest chronicles predate reliable Facility record-keeping and carry no exact dates of their own, and the Facility does not assign precise years to events its own archives cannot fix. Only internal engineering history — such as the Technology Timeline — is dated exactly.
@@ -42,13 +42,13 @@ But not all humans were willing to ignore it.
 
 Small circles of scholars, explorers, occult chroniclers, proto-scientists, and forbidden historians began preserving accounts of these impossible things. Some attempted to locate them. Some tried to capture them. Some tried to understand them. Among the earliest known of these bodies was a primitive pre-Facility organization later remembered as:
 
-## **Entity Research Exploration / ERE**
+### **Entity Research Exploration / ERE**
 
 ERE would become the earliest known ancestor to what would later transform into the **A.C.T Facility**.
 
 ---
 
-## 5.2 — The First Signs
+### 5.2 — The First Signs
 The hidden world did not reveal itself to humanity all at once. It emerged through contradictions—through moments where folklore, history, and material reality began colliding.
 
 The first signs were not yet recognized as a pattern, but in hindsight they formed the beginning of the modern anomaly age.
@@ -70,7 +70,7 @@ It was present.
 
 ---
 
-## 5.3 — First Deployment
+### 5.3 — First Deployment
 Like many early researchers and entity historians of the time, the future founders of A.C.T first believed that the hidden world could be approached, studied, and eventually controlled in manageable pieces.
 
 One of the earliest and most important of these founder-groups consisted of individuals who had themselves been struck by an anomalous event sometime after the **16xx**, causing them to cease aging normally. Believing this to be a limited Entity event—dangerous, but containable—they pursued it in hopes of discovering a way to understand or remove their own anomalous immortality.
@@ -97,7 +97,7 @@ It contained **Anomalies**.
 
 ---
 
-## 5.4 — ENTITY-000
+### 5.4 — ENTITY-000
 ITHYOS became the **first preserved vault record** because it was the first thing ever encountered by the founders that truly deserved to be recognized as something beyond all prior Entity understanding.
 
 Before ITHYOS, the founders had dealt mostly with small, unintelligent, or semi-comprehensible entities. Even when these were dangerous, they could still be:
@@ -121,7 +121,7 @@ The first raw file preserved for ITHYOS represented a new truth:
 
 And because of this, the first true doctrine was born:
 
-## **Keep it asleep.**
+### **Keep it asleep.**
 
 This was not poetic. It was practical. It was the only condition under which ITHYOS did not shift enough in its slumber to cause catastrophic damage to the world.
 
@@ -130,10 +130,10 @@ Its movement was disaster.
 
 ---
 
-## 5.5 — Founding of A.C.T
+### 5.5 — Founding of A.C.T
 The A.C.T Facility was founded by the original founders—those who would, in the future, become known as the **O5 Council**—after they learned the most important lesson in early anomaly history:
 
-## Not all anomalies can be captured.
+### Not all anomalies can be captured.
 
 Some can only be contained.
 
@@ -164,7 +164,7 @@ From that realization, the first true Facility doctrine was born, and A.C.T bega
 
 ---
 
-## 5.6 — Construction of the ABYSS Floor
+### 5.6 — Construction of the ABYSS Floor
 At first, the **ABYSS Floor** was nothing more than a small underground monitoring room built by the founders to study and observe ITHYOS as safely as they could. It was not yet a grand containment stratum. It was a survival station.
 
 The reason it was built underground was simple: the founders needed the shortest, safest, and most direct possible access to the sleeping entity below.
@@ -186,12 +186,12 @@ In this sense, A.C.T was not built downward from an office.
 
 It was built **upward from a sleeping god**.
 
-## 5.6.1 From ABYSS Core to Site Network
+### 5.6.1 From ABYSS Core to Site Network
 The growth of the original abyssal monitoring point eventually expanded beyond one buried headquarters. As A.C.T matured, its abyss-born doctrine extended into a broader network of SITES and SUB-SITES across multiple regions, allowing containment, recovery, archive preservation, and secrecy operations to be distributed without severing them from the ABYSS foundation below the main Facility.
 
 ---
 
-## 5.7 — The First Doctrine
+### 5.7 — The First Doctrine
 Before all later manuals, classifications, threat levels, and transformation protocols, there was a smaller and harsher doctrine. It was born not from theory, but from proximity to extinction.
 
 The earliest known principles of A.C.T were:
@@ -211,7 +211,7 @@ The world remains stable because some things are never allowed to wake.
 
 ---
 
-## 5.8 — Transition into Modern A.C.T
+### 5.8 — Transition into Modern A.C.T
 As the Facility expanded, the founders—now consolidating into what would become the **O5 Council**—understood that survival required more than fear and secrecy. They needed a working system.
 
 From that need came the foundations of modern A.C.T:
@@ -229,14 +229,14 @@ Over time, A.C.T transformed from an abyss-born hidden group into the world’s 
 
 It became:
 
-## **the number one Anomaly Containment Facility**
+### **the number one Anomaly Containment Facility**
 
 Not because it was born powerful,  
 but because it was born first at the edge of the worst possible discovery—and survived.
 
 ---
 
-# **Closing Summary**
+## **Closing Summary**
 Part Five establishes the true origin of the A.C.T Facility. Before the modern world knew of anomalies, before classification and doctrine existed, humanity had already begun brushing against the impossible through myth, contradiction, and secret history. From those early encounters emerged ERE, the first precursor to A.C.T. From ERE came the first deployment. From that descent came ITHYOS. And from ITHYOS came the realization that some things could never be captured—only contained, hidden, and kept asleep.
 
 The ABYSS Floor was the first foundation.  

@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - MARINE BIOLOGY LABORATORY SUITES
+### TECHNOLOGY RECORD - MARINE BIOLOGY LABORATORY SUITES
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Research / Containment / Medical / Recovery / Nusantara Deep Relay
 **Authority:** Floor Research Chief, Maritime-Hold Command, and Central Archive
 
-### Archive Note
+#### Archive Note
 Marine Biology Laboratory Suites are the seventy-third main A.C.T technology expanded into an individual record. The F-4 Laboratory and Research Level dossier identifies marine biology laboratories as one of the floor's defining systems: controlled aquatic environments where sea-recovered anomalies are characterized and understood. The F-3 dossier confirms that material from water-capable holding is studied above under controlled sample movement, and that research findings flow back to holding regimens.
 
 MBLS exists because maritime containment cannot depend on fear of the specimen alone. A.C.T must learn what the resident needs, what harms it, what excites it, and what the sea taught it to do.
@@ -47,7 +47,7 @@ STUDY THE SEA'S BODY WITHOUT BRINGING THE SEA LOOSE.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Marine Biology Laboratory Suites are controlled research environments for biological material recovered from marine, trench, island, and water-dependent anomaly operations. They allow staff to examine tissue, water, shed matter, behavior traces, feeding residue, acoustic effects on organisms, and limited live specimens without removing containment logic from the research act.
 
@@ -57,7 +57,7 @@ Approved roles include resident-health study, tissue characterization, water-dep
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Nusantara Deep Relay was not built only to catch what came from the water. It was built to understand what the water returned. Early maritime recoveries showed that holding a resident in a chamber did not explain why the chamber worked. Some residents stabilized only under narrow salinity. Some reacted to current or sound. Some left biological material that behaved differently after separation. Some required medical care that ordinary terrestrial models could not guide.
 
@@ -65,7 +65,7 @@ F-4's marine biology laboratories developed as the research answer to F-3's hold
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 An MBLS suite may include sealed aquatic benches, water chemistry cabinets, specimen ports, pressure-compatible sample sleeves, non-optical observation feeds, refrigerated biological lockers, waste neutralization drains, acoustic dampening panels, environmental separation doors, and medical response lockers. Each suite is configured for a study program rather than general access.
 
@@ -86,7 +86,7 @@ No specimen is considered harmless because it is small, dead, shed, diluted, or 
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before study, F-3 or Recovery provides the sample history, source environment, resident file restrictions, chain-of-custody package, and any exposure warning. Research defines the study question. Containment approves handling limits. Medical reviews biological risk. Security confirms access.
 
@@ -96,7 +96,7 @@ After study, findings are routed back to holding doctrine only after the sample 
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 MBLS can study controlled samples, but it cannot fully reproduce a resident's original sea. A tissue response in a suite may not match whole-resident behavior in a chamber, on a platform, or at depth. The laboratory can also create artificial behavior by changing water, sound, light, pressure, or proximity.
 
@@ -104,20 +104,20 @@ Known failure modes include sample escape through drainage, false nonviability, 
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## MBLS-F-4 Standard Formation
+### MBLS-F-4 Standard Formation
 The F-4 dossier identifies marine biology laboratories as a primary research function of the relay. MBLS was formalized so controlled aquatic study would remain linked to containment requirements rather than ordinary academic practice.
 
-## MBLS-F-3 Return Review
+### MBLS-F-3 Return Review
 A sample-handling exercise found that research recommendations could reach F-3 before final chain-of-custody review. Current procedure requires sample ledger closure before holding regimens are revised.
 
-## MBLS-Sonar Void Biological Notice
+### MBLS-Sonar Void Biological Notice
 Sonar Void research showed that some marine biological cases cannot be studied by sight alone. MBLS suites now maintain indirect observation options for specimens connected to optical failure, acoustic absence, or lure behavior.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Research operates the suites and writes findings. Containment defines what may be removed from holding and what must return. Medical oversees biological exposure and subject welfare. Recovery supplies field context. Security controls suite access and response.
 
@@ -125,7 +125,7 @@ MBLS doctrine holds that a maritime resident is never only a body. It is a body 
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-05-ID-C-F-4 Laboratory and Research Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-3 Maritime and Island Holding Level Floor Dossier;
@@ -137,7 +137,7 @@ MBLS doctrine holds that a maritime resident is never only a body. It is a body 
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which maritime tissues remain anomalous after separation from the resident?
 - Can chamber water carry behavioral memory from one resident to another?
@@ -148,7 +148,7 @@ MBLS doctrine holds that a maritime resident is never only a body. It is a body 
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15
 **Author Desk:** Research Division / Floor Research Chief / Central Archive

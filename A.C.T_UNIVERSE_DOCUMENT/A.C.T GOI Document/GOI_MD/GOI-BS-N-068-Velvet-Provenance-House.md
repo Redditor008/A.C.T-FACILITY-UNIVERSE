@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## GROUP OF INTEREST REGISTRY - VELVET PROVENANCE HOUSE
+### GROUP OF INTEREST REGISTRY - VELVET PROVENANCE HOUSE
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -67,7 +67,7 @@
 **Distribution:** Intelligence / Legal / Recovery / Civil Covert / Command
 **Authority:** Intelligence Division, Legal Division, Recovery Division, Civil Covert Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Velvet Provenance House is the active business filing for an outside provenance, authentication, and private-sale institution that services anomalous and anomaly-adjacent objects. The House does not present itself as a marketplace for miracles. Its public face resembles old auction families, restoration consultants, insurance investigators, estate appraisers, and private collection advisers. Its private work concerns origin, custody chain, liability, authenticity, inheritance, concealment, and the controlled return of objects whose histories cannot survive ordinary court, museum, or insurance review.
 
 The relationship class is **NEUTRAL**. Velvet Provenance House does not primarily help survivors, attack A.C.T, expose anomalies, or worship abnormal power. It preserves transaction order. It will certify an object for a harmless widow, an unethical collector, a museum trying to avoid panic, an A.C.T cutout, or a buyer later assessed as dangerous, provided the papers satisfy its rules and the fee or favor is accepted. The House has prevented fraudulent sales and returned unstable objects before harm occurred. It has also enabled ownership transfers that A.C.T would have blocked. Its morality is procedural, not benevolent.
@@ -76,9 +76,9 @@ Buyer books, living heir identities, return clauses, and active sale rooms are c
 
 ---
 
-# IDENTITY AND INSTITUTIONAL FUNCTION
+## IDENTITY AND INSTITUTIONAL FUNCTION
 
-## Group Function
+### Group Function
 
 Velvet Provenance House functions as a trust engine for the hidden object economy. It answers questions that private buyers and secret institutions need answered before an object changes hands: where did it come from, who touched it, who died near it, which story is forged, which seal matters, what curse travels with title, what family still has a claim, and whether possession creates a duty rather than a right.
 
@@ -92,7 +92,7 @@ A THING WITHOUT ORIGIN BELONGS FIRST TO ITS HARM.
 
 House doctrine treats unknown origin as liability. The practical result is mixed. Some clients accept safer handling when harm is documented. Other clients buy harm more confidently because the danger has been named.
 
-## Public Presence and Concealment
+### Public Presence and Concealment
 
 Publicly, Velvet Provenance House appears as a chain of antique appraisers, estate consultants, cultural-property lawyers, rare-book specialists, private museum advisers, and insurance valuation firms. Its offices favor red curtains, low lamps, walnut tables, typed certificates, wax impressions, soft gloves, and ledgers bound in velvet cloth. The style looks theatrical but is consistent enough to operate as identity discipline.
 
@@ -100,15 +100,15 @@ Private contact usually begins through estate disputes, collector introductions,
 
 ---
 
-# ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
+## ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
 
-## Leadership Condition
+### Leadership Condition
 
 No single proprietor has been confirmed. Local offices answer to Provenance Masters, but A.C.T has not confirmed whether those masters form a board, inherit titles from older auction families, or follow instructions from a central archive called the Red Room. The phrase Red Room appears in recovered correspondence, but may refer to an office, a ledger class, a ritual chamber, a legal trust, or a joke among senior notaries.
 
 Leadership names are deliberately old-fashioned: Provenance Master, Receipt Factor, Velvet Notary, Lot Reader, Seal Steward, and Return Counsel. The vocabulary matters because House authority depends on ceremony. Clients obey procedures more readily when those procedures feel older than the client.
 
-## Internal Structure
+### Internal Structure
 
 A.C.T identifies these functional layers:
 
@@ -123,7 +123,7 @@ A.C.T identifies these functional layers:
 
 The House is an institution, not a shop. Its power comes from repeated procedure and from other market actors believing those procedures have consequences.
 
-## Membership and Recruitment
+### Membership and Recruitment
 
 Membership appears professionalized. House agents are recruited from restoration schools, auction houses, estate law, insurance investigation, museum conservation, private security, customs brokerage, rare-book cataloguing, genealogy, and old collector families. Some members are unaware of the anomalous layer and handle only ordinary antiques or disputed art. Others have direct training in abnormal provenance signs.
 
@@ -138,9 +138,9 @@ The note suggests House education treats normal public history as one evidence l
 
 ---
 
-# IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
+## IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
 
-## Stated Belief
+### Stated Belief
 
 Velvet Provenance House believes that ownership without origin is disorder. It does not claim that all dangerous objects should be destroyed, all survivors should be helped, or all secrets should be exposed. It claims that every object carries a chain, and that a chain written clearly can distribute responsibility.
 
@@ -160,13 +160,13 @@ The velvet is not for luxury. It is for blood you have agreed not to spill on th
 
 A.C.T assessment: the phrases are not simple metaphors. Several House procedures use velvet surfaces to stabilize objects during inspection. The mechanism is unconfirmed.
 
-## Assessed Objective
+### Assessed Objective
 
 The House objective is to control trust in rare hidden objects. It prefers documented ownership over chaotic possession. It is willing to cooperate with A.C.T when forged papers, unstable lots, stolen family objects, or reckless buyers threaten market credibility. It resists A.C.T when seizure would erase the chain, destroy a client's confidence, or expose House books.
 
 This objective is neutral because it can reduce harm or enable harm depending on who uses the documentation. The House values order more than mercy.
 
-## Anomalous Capability Assessment
+### Anomalous Capability Assessment
 
 Velvet Provenance House is assigned **Handler** capability. It handles and authenticates anomalous goods but is not confirmed to create them. Possible capabilities include:
 
@@ -179,7 +179,7 @@ Velvet Provenance House is assigned **Handler** capability. It handles and authe
 
 Claims that the House can make a dangerous object safe by writing a better receipt are not supported. It can sometimes make danger legible.
 
-## Secrecy and Civilian Exposure
+### Secrecy and Civilian Exposure
 
 The House is **Veiled** because most of its work is hidden behind legitimate elite markets. Its clients already expect confidentiality: private sales, estate settlements, museum swaps, insurance valuations, inheritance disputes, and cultural-property claims. Public exposure risk rises only when a certified object acts in public or when a Velvet receipt appears in court.
 
@@ -187,13 +187,13 @@ Civilian danger comes from respectability. An object with a Velvet certificate m
 
 ---
 
-# OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
+## OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
 
-## Operational Regions
+### Operational Regions
 
 Velvet Provenance House operates transnationally through private sale routes, old estate centers, museum districts, port cities, bonded warehouses, art fairs, university collections, restoration studios, and collector homes. Confirmed or suspected activity appears in London, Paris, Geneva, Prague, Istanbul, Cairo, Mumbai, Singapore, New York, Buenos Aires, and unnamed freeport storage zones. Region lists are incomplete because House agents often work under legitimate firms.
 
-## Known Assets and Holdings
+### Known Assets and Holdings
 
 Known or assessed assets include:
 
@@ -212,7 +212,7 @@ Known or assessed assets include:
 
 A.C.T has recovered six minor certificates, two forged Velvet-style receipts, one authentic return clause, and one damaged buyer-book page. The complete ledger system remains unrecovered.
 
-## Operating Method
+### Operating Method
 
 A typical House engagement begins when an owner, heir, broker, or institution requests certification. The object is brought to a viewing room or inspected in place. The Receipt Factor builds a custody chain. The Lot Reader tests origin stories against physical marks, witness statements, prior deaths, associated dreams, legal filings, family memory, and older ledgers. The Velvet Notary drafts a receipt that assigns status: clean, burdened, contested, stolen, heir-bound, return-required, unsaleable, or under red hold.
 
@@ -232,9 +232,9 @@ The House sometimes refuses payment after assigning Red Hold. This supports Neut
 
 ---
 
-# HISTORY WITH A.C.T
+## HISTORY WITH A.C.T
 
-## Contact History
+### Contact History
 
 A.C.T first consolidated Velvet Provenance House references during an estate-seizure dispute involving a mirror, three conflicting wills, and a certificate printed on cloth-backed paper. Local authorities believed the dispute concerned stolen art. A.C.T Recovery Division identified the mirror as anomaly-adjacent after two heirs described the same childhood room despite being raised in different countries. The Velvet receipt had labeled the mirror **CONTESTED / HEIR-BOUND / DO NOT HANG ABOVE SLEEPING CHILDREN**.
 
@@ -247,7 +247,7 @@ That is not custody. That is interruption.
 
 Since then, A.C.T contact has occurred through forged-receipt investigations, museum back-channel returns, collector deaths, unlicensed transport, and cases where Velvet papers identify risks before A.C.T instruments do.
 
-## Current Relationship
+### Current Relationship
 
 The current relationship remains **NEUTRAL**. The House will cooperate when its procedural order aligns with containment, restitution, fraud control, or buyer discipline. It will resist when A.C.T tries to seize ledgers, erase ownership history, or use normalcy doctrine to flatten a complicated chain into a false public story. It does not trust A.C.T to preserve provenance. A.C.T does not trust the House to prioritize safety over title.
 
@@ -255,19 +255,19 @@ The House has aided at least four recoveries by confirming forged origin stories
 
 ---
 
-# A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
+## A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
 
-## Responsible Jurisdiction
+### Responsible Jurisdiction
 
 Primary jurisdiction rests with Intelligence Division, Legal Division, Recovery Division, and Civil Covert Division. Site 01 attaches to private-sale networks and city estates. Site 02 attaches to transport, storage, and vehicle seizure. Site 03 attaches if provenance documents display memory alteration. Legal Division must review any operation involving heirs, museums, trust shells, or international cultural-property claims.
 
-## Posture Implementation
+### Posture Implementation
 
 A.C.T posture is **MONITOR / MISDIRECT / COOPERATED / APPROPRIATE**. Monitoring includes auction notices, private-sale rumors, velvet certificate language, barred-client cards, unusual estate appraisals, freeport crates, museum deaccession records, and collector deaths. Misdirection is authorized to divert high-risk lots into controlled buyers, delay open sales, or replace forged papers with safer narratives.
 
 Cooperation is authorized when the House identifies fraudulent certification, confirms theft from living survivors, agrees to return an object, or marks a lot Red Hold for reasons A.C.T can verify. Appropriation is authorized when a lot poses immediate threat, when a House courier moves active anomalous material without safeguards, or when certification would materially increase dangerous circulation.
 
-## Response Limits and Red Lines
+### Response Limits and Red Lines
 
 A.C.T will not recognize House receipts as legal authority over containment. A Velvet certificate does not override anomaly classification, human safety, custody law, or Command order. A.C.T will not permit sale of objects that compel buyers, injure handlers, reproduce through ownership language, or require victims for function.
 
@@ -275,9 +275,9 @@ A.C.T should not destroy provenance records unless they are themselves active ha
 
 ---
 
-# OPERATIONAL RECORDS
+## OPERATIONAL RECORDS
 
-## Restricted Operational Extract
+### Restricted Operational Extract
 
 ```text
 VELVET RECEIPT FRAGMENT: VPH / RED ROOM PROVENANCE
@@ -317,9 +317,9 @@ The barred-client card confirms the House restricts some buyers for safety, repu
 
 ---
 
-# INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
+## INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
 
-## Confirmed Operational Facts
+### Confirmed Operational Facts
 
 - Velvet Provenance House is an outside provenance and private-sale institution, not an A.C.T department.
 - The House authenticates, documents, restricts, and sometimes facilitates transfer of anomalous or anomaly-adjacent objects.
@@ -328,13 +328,13 @@ The barred-client card confirms the House restricts some buyers for safety, repu
 - It has refused some sales and cooperated in some fraud and restitution cases.
 - It maintains buyer books and barred-client records A.C.T has not fully recovered.
 
-## Active Intelligence Assessment
+### Active Intelligence Assessment
 
 A.C.T assesses Velvet Provenance House as a specialized NEUTRAL market GOI. It matters because hidden markets require trust, and the House controls a large portion of that trust through origin papers. Its danger is not open hostility. Its danger is respectable permission. A collector who would hesitate to buy a cursed heirloom from a street broker may buy the same object after a Velvet Notary writes a careful receipt.
 
 The House can also be a useful pressure point. If A.C.T proves a provenance chain is forged, a lot may lose value, access, and legitimacy across multiple collector circles without public exposure. If A.C.T learns to read House status marks accurately, dangerous lots can be intercepted before public incidents.
 
-## Persistent Questions
+### Persistent Questions
 
 - Does the Red Room exist as a physical central archive, or is it a status category?
 - Are velvet inspection cloths anomalous tools, inherited ritual materials, or ordinary stabilizing convention?
@@ -345,19 +345,19 @@ The House can also be a useful pressure point. If A.C.T proves a provenance chai
 - Who pays the House when an object is declared unsaleable?
 - What does the House do with objects whose rightful owners no longer exist?
 
-## Intelligence Confidence
+### Intelligence Confidence
 
 Moderate. Physical receipts, forged receipt comparisons, estate testimony, buyer-card fragments, and repeated House vocabulary confirm institutional reality. Confidence is limited by client secrecy, legitimate legal cover, incomplete ledger access, and uncertainty around whether some House procedures are anomalous or merely disciplined tradecraft. Confidence may rise through controlled purchase attempts, protected legal cooperation, or recovery of a full Velvet ledger section.
 
 ---
 
-# CROSS-REFERENCE STATUS
+## CROSS-REFERENCE STATUS
 
-## Anomaly and Record Relationship
+### Anomaly and Record Relationship
 
 Velvet Provenance House is an organization and therefore belongs in the GOI archive. Individual lots, receipts, seals, ledgers, inspection cloths, buyer cards, return clauses, and disputed estate objects may require separate anomaly, recovered-document, legal, or technology/equipment files. A receipt is not the same as containment, but it may be evidence.
 
-## Related A.C.T Records
+### Related A.C.T Records
 
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
@@ -367,13 +367,13 @@ Velvet Provenance House is an organization and therefore belongs in the GOI arch
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md`
 - Restricted object, estate, auction, restoration, museum, legal, transport, and private-collector case chains held under Central Archive routing.
 
-## Dual Filing
+### Dual Filing
 
 Required when a House receipt, seal, ledger page, velvet cloth, return clause, or lot-status mark demonstrates active anomalous behavior. Required when a certified object changes custody risk, inheritance behavior, memory, physical location, or legal identity after sale. Legal Division must attach before any public filing or court-facing substitution.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 ```text
 FILE CREATED:            14/09/2026

@@ -12,7 +12,7 @@
 
 ---
 
-# 1. Core identity
+## 1. Core identity
 
 HIGENMARU-KŌRIN is not an ordinary sword with an anomalous scabbard.
 
@@ -35,11 +35,11 @@ Neither entity should be written as an inert object. Their awareness does not ne
 
 ---
 
-# 2. Physical structure
+## 2. Physical structure
 
 HIGENMARU-KŌRIN consists of a curved, single-handed sword and its specialized scabbard. The paired artifact measures approximately **90 cm** in length.
 
-## HIGENMARU — the sword
+### HIGENMARU — the sword
 
 HIGENMARU contains:
 
@@ -49,13 +49,13 @@ HIGENMARU contains:
 - a pressure-sensitive biological monitoring disc;
 - a metabolic link to a wielder when drawn and used.
 
-### Crimson edge
+#### Crimson edge
 
 The crimson edge possesses **Absolute Cutting Force**.
 
 It can cut through any known material without conventional resistance, loss of sharpness, or edge degradation. Ordinary hardness and structural durability do not provide reliable protection.
 
-### Onyx edge
+#### Onyx edge
 
 The onyx edge possesses **Selective Causal Breach**.
 
@@ -63,7 +63,7 @@ It can cut a selected target while leaving surrounding or intervening material u
 
 Its established intent-based effective radius is approximately **5 meters**.
 
-## KŌRIN — the scabbard
+### KŌRIN — the scabbard
 
 KŌRIN is not merely a storage sheath. It is the defensive and restraining half of the anomaly.
 
@@ -79,23 +79,23 @@ KŌRIN regulates the state in which HIGENMARU remains at rest. The sword being s
 
 ---
 
-# 3. HIGENMARU’s personality and manner of thought
+## 3. HIGENMARU’s personality and manner of thought
 
 HIGENMARU’s way of thinking is:
 
 > **Dominant / Vicious / Observant**
 
-## Dominant
+### Dominant
 
 HIGENMARU does not behave like a submissive or passive weapon under normal conditions. Its presence pushes outward, tests control, and recognizes hierarchy through strength, authority, and intent.
 
-## Vicious
+### Vicious
 
 HIGENMARU possesses a predatory disposition. Its cutting and metabolic functions are not emotionally neutral in presentation. It is inclined toward decisive, harmful, and overwhelming action when active.
 
 Vicious does not necessarily mean irrational. HIGENMARU can remain controlled when it recognizes a governing authority.
 
-## Observant
+### Observant
 
 HIGENMARU watches.
 
@@ -113,23 +113,23 @@ Its predatory nature is paired with awareness. It does not merely lash out witho
 
 ---
 
-# 4. KŌRIN’s personality and manner of thought
+## 4. KŌRIN’s personality and manner of thought
 
 KŌRIN’s way of thinking is:
 
 > **Defensive / Cautious / Still**
 
-## Defensive
+### Defensive
 
 KŌRIN’s purpose and preference are protective. It contains, covers, restrains, and preserves the controlled state of the paired anomaly.
 
-## Cautious
+### Cautious
 
 KŌRIN does not favor unnecessary activation. It evaluates approach and disruption through restraint rather than predation.
 
 Its caution complements HIGENMARU’s viciousness. Where HIGENMARU presses outward, KŌRIN limits and contains.
 
-## Still
+### Still
 
 Stillness is an active condition for KŌRIN, not a lack of personality.
 
@@ -146,7 +146,7 @@ KŌRIN’s stillness is one of the forces preventing HIGENMARU’s predatory rou
 
 ---
 
-# 5. Dual-entity relationship
+## 5. Dual-entity relationship
 
 HIGENMARU and KŌRIN remain separate in disposition but unified in function.
 
@@ -174,9 +174,9 @@ They are therefore categorized as **two entities within one anomaly**, not one e
 
 ---
 
-# 6. Primary capabilities
+## 6. Primary capabilities
 
-## 6.1 Absolute Cutting Force
+### 6.1 Absolute Cutting Force
 
 HIGENMARU’s crimson edge negates conventional material resistance.
 
@@ -189,7 +189,7 @@ Established effects include:
 
 The ability does not automatically prove that HIGENMARU can sever every abstract, conceptual, spiritual, or cosmological target. Those interactions require separate evidence. Its confirmed description concerns known matter and physical structural integrity.
 
-## 6.2 Selective Causal Breach
+### 6.2 Selective Causal Breach
 
 HIGENMARU’s onyx edge can force a slash against a selected target while leaving surrounding material intact.
 
@@ -202,7 +202,7 @@ This allows it to:
 
 The established intent-based effective radius is approximately **5 meters**.
 
-## 6.3 Metabolic siphoning
+### 6.3 Metabolic siphoning
 
 HIGENMARU draws biological stamina from a wielder to power its higher functions.
 
@@ -225,13 +225,13 @@ Historical E-Class cross-vault testing produced a 100% mortality rate through to
 
 The weapon’s obedience to Kazumi does not automatically remove the metabolic cost for every other possible wielder.
 
-## 6.4 Biological pulse recognition
+### 6.4 Biological pulse recognition
 
 HIGENMARU can perceive and search for biological pulses.
 
 Before relocation, it reached beyond ordinary mechanical containment and affected nearby technicians through unexplained stamina loss. This behavior demonstrated that its hunger and awareness could extend beyond direct physical handling.
 
-## 6.5 Dual Will-bearing awareness
+### 6.5 Dual Will-bearing awareness
 
 HIGENMARU and KŌRIN possess distinct internal awareness patterns.
 
@@ -247,7 +247,7 @@ They can recognize:
 
 ---
 
-# 7. Relationship with Kazumi Mori
+## 7. Relationship with Kazumi Mori
 
 Both HIGENMARU and KŌRIN recognize Kazumi as their governing sovereign presence.
 
@@ -278,7 +278,7 @@ Kazumi does not make them mindless. She gives their existing Wills a governing d
 
 ---
 
-# 8. Current 2026 location and condition
+## 8. Current 2026 location and condition
 
 HIGENMARU-KŌRIN currently resides at **Kazumi Temple**.
 
@@ -297,7 +297,7 @@ The previous Site-01 magnetic locker is now considered **legacy containment**. I
 
 ---
 
-# 9. Interaction with Boundary Exchange
+## 9. Interaction with Boundary Exchange
 
 HIGENMARU-KŌRIN exists within Kazumi’s Boundary Exchange while housed at the Temple.
 
@@ -317,7 +317,7 @@ The boundary’s response is not generated by HIGENMARU or KŌRIN alone. It is K
 
 ---
 
-# 10. Current handling rules
+## 10. Current handling rules
 
 Personnel must follow these rules in 2026:
 
@@ -334,11 +334,11 @@ Personnel must follow these rules in 2026:
 
 ---
 
-# 11. Capability limitations and cautions
+## 11. Capability limitations and cautions
 
 HIGENMARU-KŌRIN is extremely dangerous, but its abilities should not be expanded beyond established evidence without new canon.
 
-## Confirmed
+### Confirmed
 
 - absolute cutting against known matter;
 - selective target cutting through intervening material;
@@ -350,7 +350,7 @@ HIGENMARU-KŌRIN is extremely dangerous, but its abilities should not be expande
 - obedience to Kazumi;
 - stability under Kazumi’s sovereign pressure and Temple conditions.
 
-## Not automatically confirmed
+### Not automatically confirmed
 
 - cutting every abstract concept;
 - cutting all souls, timelines, dimensions, or metaphysical laws without resistance;
@@ -365,11 +365,11 @@ Cross-universe interactions must be determined individually rather than assuming
 
 ---
 
-# 12. Current behavioral summary
+## 12. Current behavioral summary
 
 HIGENMARU-KŌRIN in 2026 should be portrayed as a balanced dual anomaly under Kazumi’s authority.
 
-## HIGENMARU is:
+### HIGENMARU is:
 
 - dominant;
 - vicious;
@@ -380,7 +380,7 @@ HIGENMARU-KŌRIN in 2026 should be portrayed as a balanced dual anomaly under Ka
 - capable of lethal absolute and selective cutting;
 - inclined to search for biological power when not properly governed.
 
-## KŌRIN is:
+### KŌRIN is:
 
 - defensive;
 - cautious;
@@ -390,7 +390,7 @@ HIGENMARU-KŌRIN in 2026 should be portrayed as a balanced dual anomaly under Ka
 - resistant to unnecessary activation;
 - the controlled enclosure in which HIGENMARU rests.
 
-## Together they are:
+### Together they are:
 
 - two entities in one anomaly;
 - complementary rather than identical;
@@ -402,7 +402,7 @@ HIGENMARU-KŌRIN in 2026 should be portrayed as a balanced dual anomaly under Ka
 
 ---
 
-# 13. Quick-copy profile
+## 13. Quick-copy profile
 
 **HIGENMARU-KŌRIN, designated AFD-OB-221, is one anomalous sword-and-scabbard pair containing two distinct entities. HIGENMARU is the sword and possesses a Dominant, Vicious, and Observant way of thinking. KŌRIN is the scabbard and possesses a Defensive, Cautious, and Still way of thinking. They remain separate in disposition but operate as one paired anomaly.**
 

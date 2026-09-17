@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - MAGNETIC TORSION RESTRAINTS
+### TECHNOLOGY RECORD - MAGNETIC TORSION RESTRAINTS
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Containment / Engineering / Object Containment / Tactical Review / Site Command / Security  
 **Authority:** Containment Division, Engineering Division, Tactical Review Desk, and Central Archive
 
-### Archive Note
+#### Archive Note
 Magnetic Torsion Restraints are the thirteenth main A.C.T technology expanded into an individual record. The Master Catalog defines them as superconducting magnetic arrays with capacity above twenty tons, calibrated for inhibition of self-organizing metallic mass. The visual reference guide describes massive wall-mounted brushed surgical-steel rings with liquid-helium circulation vents, gravity-compensation arms, a redacted frequency dial, manual lockdown levers, digital magnetic load gauge, and torso-thick power conduits pulsing with blue LED light. AFD-OB-221 HIGENMARU-KORIN also names MTR as the breach response for an unsheathed blade, with the direct warning not to parry the weapon with standard equipment.
 
 MTR is not a chain, cage, or magnet for convenience. It is a torsion denial system. It prevents a dangerous metallic body, blade, mass, limb, shell, or moving assembly from choosing its preferred angle of harm.
@@ -47,7 +47,7 @@ LOCK THE TURN BEFORE THE EDGE FINDS A LINE.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Magnetic Torsion Restraints use superconducting field arrays to inhibit rotation, self-assembly, bending, unsheathing, reorientation, and force-transfer in dangerous metallic or partly metallic anomalies. The system does not merely pull metal toward a wall. It controls the way mass is allowed to twist. This makes MTR useful against self-organizing metal, anomalous blades, unstable armored bodies, metallic limbs, shifting restraints, and objects that become dangerous only when they obtain the correct angle.
 
@@ -64,7 +64,7 @@ Approved uses include:
 
 ---
 
-# ORIGIN AND CUSTODY
+## ORIGIN AND CUSTODY
 
 MTR development began after ordinary magnetic clamps failed against anomalies that could reorganize their own load path. A.C.T needed restraint that could control torque, angle, and intent-linked motion rather than simple position. Engineering adapted superconducting arrays into ring assemblies and added gravity-compensation arms when early systems tore mounts out of walls during mass-shift events.
 
@@ -74,7 +74,7 @@ Frequency dial data remains Level 4 because the wrong setting may teach a weapon
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A fixed MTR station consists of wall-mounted rings of brushed surgical steel surrounding a target position, locker mouth, specimen cradle, or weapon arc. Liquid-helium circulation vents keep the superconducting array within safe operating range. Gravity-compensation arms adjust pitch when the subject changes mass or load direction. The control console holds manual lockdown levers, the redacted frequency dial, load gauge, field-balance indicators, and an emergency dump cover.
 
@@ -95,7 +95,7 @@ The rings may look overbuilt. That is intentional. A restraint that looks elegan
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before activation, operators confirm subject composition, expected movement, floor load, RSA baseline, and escape arc. MTR is never activated as a surprise around unknown personnel unless breach conditions override injury risk. Once the subject is within the approved zone, the operator engages field balance, waits for the load gauge to settle, then applies torsion lock. Manual levers remain guarded until Site Command releases the rig.
 
@@ -105,7 +105,7 @@ Do not climb inside an inactive ring. Do not store ordinary tools within a restr
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 MTR is weakest against nonmetallic anomalies, metal that changes identity, subjects that transfer motion through nonlocal intent, mass that splits into dust, blades that cut only selected targets, and objects whose danger is conceptual rather than mechanical. It cannot replace containment judgment. A restrained sword may still make someone want to draw it. A locked mass may still radiate heat, sound, memetic instruction, or biological contamination.
 
@@ -113,20 +113,20 @@ Known failure modes include field heating, helium loss, load-gauge lag, mount sh
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## MTR-1990 Self-Organizing Mass Crawl
+### MTR-1990 Self-Organizing Mass Crawl
 An early ring assembly restrained a metallic mass but allowed its surface to crawl millimeter by millimeter along the field boundary. The subject never broke load capacity; it changed the shape of the load. The event led to field-balance monitoring and surface-motion checks.
 
-## MTR-2004 Gravity Arm Kick
+### MTR-2004 Gravity Arm Kick
 A mass-shift event caused a gravity-compensation arm to adjust faster than the wall anchors could absorb. The rig held the subject but cracked the supporting bay. Engineering now requires anchor inspection after every red-zone lock.
 
-## MTR-2017 Blade Arc Drill
+### MTR-2017 Blade Arc Drill
 During a simulated unsheathed HIGENMARU-KORIN response, trainees attempted to target the hilt instead of the blade line. Tactical Review failed the drill and added the standing warning: lock the edge's future, not the hand's present.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Containment operates installed systems and logs every activation. Engineering maintains superconducting arrays, helium circulation, arms, anchors, and load gauges. Object Containment assigns rigs to heavy artifacts. Tactical Review writes weapon-class response rules. Security guards manual controls during lockdown. Site Command approves emergency field changes. Archive stores frequency incidents under restricted access.
 
@@ -134,7 +134,7 @@ Standing reminder: MTR buys control of angle. It does not buy ownership of dange
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 05;
 - ACT Technological Visual Reference Guide, Item 05;
@@ -145,7 +145,7 @@ Standing reminder: MTR buys control of angle. It does not buy ownership of dange
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can a selective causal blade teach itself to cut around a torsion field?
 - How long can a superconducting lock hold during repeated mass-shift events?
@@ -156,7 +156,7 @@ Standing reminder: MTR buys control of angle. It does not buy ownership of dange
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Containment Division / Engineering Division / Tactical Review Desk / Central Archive  

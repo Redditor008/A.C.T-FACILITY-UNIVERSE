@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - RESERVE COMMAND AND OPERATIONS COORDINATION SYSTEM
+### TECHNOLOGY RECORD - RESERVE COMMAND AND OPERATIONS COORDINATION SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -33,7 +33,7 @@
 **Distribution:** Verde Null Bio-Reserve / Command / Security / Environmental Containment / Recovery / Archive
 **Authority:** Site Director, Reserve Operations Command, Security Command Center, and Central Archive
 
-### Archive Note
+#### Archive Note
 Reserve Command and Operations Coordination System is the one-hundred-sixth main A.C.T technology expanded into an individual record. The Verde Null Bio-Reserve site dossier identifies the reserve as a wilderness installation whose work extends across enclosure sectors, concealed perimeters, field operations, and a legitimate research campus. The F-4 floor dossier identifies the Personnel and Operations Level as the Site Director's command floor, division operations offices, security command center, internal logistics center, communications nexus, access core, and buried command heart of the reserve.
 
 RCOCS exists because Verde Null cannot be commanded like a single building. It is a buried command technology for an open-air installation.
@@ -48,7 +48,7 @@ COMMAND THE WILDERNESS AS ONE SYSTEM WITHOUT SHOWING WHERE COMMAND LIVES.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Reserve Command and Operations Coordination System is the command-and-control architecture that lets Verde Null govern a reserve whose operational territory spreads across built levels, legitimate campus structures, concealed field sectors, and wilderness perimeter routes. It combines the Site Director's command floor, division operations offices, security command center, internal logistics coordination, protected communications, access-core awareness, sector status boards, and incident escalation routes.
 
@@ -58,7 +58,7 @@ Approved roles include reserve status tracking, division order routing, field-se
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Verde Null began as scattered field enclosures before becoming a permanent reserve-style site. As the enclosure network grew, command could no longer depend on a small observer post or ordinary administrative office. The site needed a buried command level that could direct work happening in the open without exposing that command to the legitimate surface campus.
 
@@ -66,7 +66,7 @@ F-4 became that buried command. The floor dossier records the level's central fu
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A RCOCS installation includes command rooms, division operations offices, sector-status interfaces, secure communications nodes, protected circuits, security command screens, access-core monitoring, internal logistics scheduling boards, incident clock systems, cross-site relay stations, and archive terminals for operational record capture.
 
@@ -87,7 +87,7 @@ The system is physically buried but operationally wide. Its screens and ledgers 
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 At shift start, command personnel confirm active sectors, campus activity, field-team deployments, laboratory restrictions, Medical readiness, Security patrol pattern, Environmental Containment advisories, and external communication posture. Division operations offices update RCOCS with the state of their assigned work. The command floor reconciles those inputs into a live reserve picture.
 
@@ -95,7 +95,7 @@ When an incident begins, RCOCS assigns an event clock, identifies affected secto
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 RCOCS can coordinate the reserve, but it cannot remove the delay imposed by distance, terrain, weather, animal movement, vegetation growth, or concealed routes. It depends on accurate reporting from field teams and sensors; an enclosure sector that lies about its own condition, a resident that disrupts perimeter awareness, or a public-program event that blocks access can degrade the operational picture.
 
@@ -103,20 +103,20 @@ Known failure modes include sector-status drift, delayed field-team check-in, su
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## RCOCS-Scattered Enclosure Review
+### RCOCS-Scattered Enclosure Review
 Early reserve operations showed that independent field enclosures could produce separate records, separate alarms, and separate decisions during one larger biological event. Current RCOCS doctrine requires sector information to be routed through the buried command floor as one reserve picture.
 
-## RCOCS-Cover Interference Finding
+### RCOCS-Cover Interference Finding
 A surface-campus research event once complicated a concealed sector response because legitimate fieldwork occupied the ordinary route. RCOCS now tracks public-program activity beside containment activity so command can see when cover work becomes an operational obstacle.
 
-## RCOCS-Boundary Authority Drill
+### RCOCS-Boundary Authority Drill
 A concealed perimeter alarm created overlapping Security and Environmental Containment orders during a drill. Current procedure gives temporary joint boundary authority until the event is classified as intrusion, resident movement, environmental instability, or false signal.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Administration maintains the command floor's scheduling and authority records. Security uses RCOCS to direct perimeter and built-installation response. Environmental Containment uses it to track enclosure-sector status and boundary stability. Recovery uses it for wilderness deployment routing. Research and Medical use it to keep command aware of laboratory limits, subject care conditions, and personnel exposure concerns.
 
@@ -124,7 +124,7 @@ RCOCS doctrine holds that the reserve is one operational body, even when its lim
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-04-BR-C Verde Null Bio-Reserve Site Dossier;
 - ACT-SITE-04-BR-C-F-4 Personnel and Operations Level Floor Dossier;
@@ -136,7 +136,7 @@ RCOCS doctrine holds that the reserve is one operational body, even when its lim
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How much sector automation should RCOCS accept before field staff lose practical understanding of the wilderness?
 - Should public-program campus schedules be visible to all command staff or only to cover-cleared duty officers?
@@ -147,7 +147,7 @@ RCOCS doctrine holds that the reserve is one operational body, even when its lim
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Reserve Operations Command / Security Command Center / Central Archive

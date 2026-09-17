@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - GOLD-TIPPED MINING DRILLS
+### TECHNOLOGY RECORD - GOLD-TIPPED MINING DRILLS
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Engineering / Dark World Survey / Materials Custody / Recovery / Site Infrastructure  
 **Authority:** Engineering Division, Dark World Survey Desk, Materials Custody, and Central Archive
 
-### Archive Note
+#### Archive Note
 Gold-Tipped Mining Drills are the twenty-seventh main A.C.T technology expanded into an individual record. The Master Catalog defines them as industrial boring equipment required for modification of Pale Wood structures and Dark World architecture. The visual guide describes heavy industrial drills with 24k gold-plated bits, an acoustic vibration disc for material-density monitoring, a redacted-cooled engine housing, analog pressure gauges, and a digital RPM readout. TECH-ACT-024 already identifies 24k gold as the controlled vulnerability of Pale Wood surgical tools.
 
 GTMD exists because the Dark World gave A.C.T materials that ordinary industry cannot politely modify. Pale Wood resists normal cutting, splitting, sawing, and drilling. Gold changes that relationship. The drill is therefore both tool and warning: it can open what should not open for anything else in the room.
@@ -47,7 +47,7 @@ DRILL ONLY WHERE THE STRUCTURE HAS BEEN GIVEN A REASON TO SURVIVE THE HOLE.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Gold-Tipped Mining Drills bore, shape, sample, anchor, and modify Pale Wood, Dark World architecture, and related high-resistance anomalous materials where ordinary tools fail. The 24k gold-plated bit creates the necessary vulnerability interface. The acoustic vibration disc monitors density response so Engineering can tell whether the drill is cutting material, waking material, or arguing with a structural rule. Pressure gauges and RPM readouts help operators avoid forcing the bit into a state where the surrounding architecture reacts.
 
@@ -64,7 +64,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND CUSTODY
+## ORIGIN AND CUSTODY
 
 GTMD development followed the discovery that 24k gold could cut or modify Pale Wood where harder materials could not. Early teams used gold probes and shears in small-scale operations. Larger infrastructure required a tool that could apply gold contact under controlled pressure without melting, stripping, or embedding contaminated metal into the structure. Engineering adapted heavy drill frames, acoustic density monitoring, cooled engine housings, and strict bit custody into the modern GTMD program.
 
@@ -74,7 +74,7 @@ Modification plans remain Level 5 because Dark World architecture is not passive
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard GTMD is a heavy industrial drill assembly with 24k gold-plated bits. The acoustic vibration disc sits near the bit housing and listens to density response during contact. The cooled engine housing prevents heat from changing gold behavior or provoking the target material. Analog pressure gauges remain present because digital readings can lag during anomalous resistance. The digital RPM display tracks bit speed and flags harmonic risk.
 
@@ -95,7 +95,7 @@ Gold bits are counted before and after work. Missing gold is treated as contamin
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before drilling, Engineering confirms material identity, gold vulnerability, target purpose, surrounding structure, RSA baseline, dust capture, and emergency withdrawal path. The operator takes an acoustic baseline before contact. Pressure rises slowly. If the acoustic disc reports density singing, hollow agreement, childlike knocking, or impossible silence, drilling stops until Dark World Survey reviews.
 
@@ -105,7 +105,7 @@ Do not use GTMD for ordinary rock, convenience holes, trophy extraction, unsched
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 GTMD cannot make Dark World architecture safe to alter. It cannot guarantee that a successful hole is a stable hole, cannot prevent a structure from reacting after the drill is removed, and cannot replace survey approval. Gold plating wears quickly under anomalous resistance. If the bit loses gold contact, the drill may seize, scream, bounce, or embed itself.
 
@@ -113,20 +113,20 @@ Known failure modes include gold wear-through, density misread, acoustic disc sa
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## GTMD-1997 Bit Wear Through
+### GTMD-1997 Bit Wear Through
 A drill used on Pale Wood maintained RPM but lost gold contact at the cutting edge. The bit seized and the surrounding material closed around it. The drill was recovered by cutting the entire section free. Gold-wear indicators became mandatory.
 
-## GTMD-2011 Dust Capture Leak
+### GTMD-2011 Dust Capture Leak
 A dust shroud seal failed during sample preparation. Pale Wood dust entered a storage bench and caused three ordinary wooden drawers to become unusually resistant to cutting. Materials Custody now treats dust as active source residue.
 
-## GTMD-2024 Hollow Agreement Reading
+### GTMD-2024 Hollow Agreement Reading
 During Dark World architecture survey, the acoustic disc reported a hollow tone from a visually solid beam. Drilling was halted. Later NEC route review suggested the beam was also a boundary marker. The non-hole may have prevented a threshold event.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Engineering operates GTMD and approves bore plans. Dark World Survey interprets architecture response. Materials Custody tracks gold, dust, cores, and waste. Recovery requests emergency drilling. Site Infrastructure uses prepared holes for anchors and reinforcement. Medical receives finished Pale Wood blanks through custody chain only.
 
@@ -134,7 +134,7 @@ Standing reminder: if gold makes the material answer, do not assume the answer i
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 32;
 - ACT Technological Visual Reference Guide, Item 32;
@@ -146,7 +146,7 @@ Standing reminder: if gold makes the material answer, do not assume the answer i
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Does Pale Wood become less stable after repeated gold-contact modification?
 - Can acoustic disc readings distinguish structure from sleeping organism?
@@ -157,7 +157,7 @@ Standing reminder: if gold makes the material answer, do not assume the answer i
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Engineering Division / Dark World Survey Desk / Materials Custody / Central Archive  

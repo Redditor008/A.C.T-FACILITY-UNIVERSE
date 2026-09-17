@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - PUBLIC ARCHIVE ABSOLUTE SEPARATION AND IMMEDIATE TRANSFER SYSTEM
+### TECHNOLOGY RECORD - PUBLIC ARCHIVE ABSOLUTE SEPARATION AND IMMEDIATE TRANSFER SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -35,7 +35,7 @@
 **Distribution:** Kurokawa Archive Node / Foundation Administration / Archive / Security / Command
 **Authority:** Foundation Director, Security Boundary Office, Site Director's Command Floor, and Central Archive
 
-### Archive Note
+#### Archive Note
 Public Archive Absolute Separation and Immediate Transfer System is the one-hundred-seventeenth main A.C.T technology expanded into an individual record. The F-8 Surface Archive and Transition Level dossier identifies F-8 as Kurokawa's legitimate foundation complex: reading rooms, preservation laboratories, digitization facilities, administrative spaces, and transition architecture connecting the public archive to the operational archive below. It states the floor's defining principle clearly: nothing anomalous is handled on the public level without immediate transfer below, because the public floor must be genuinely clean.
 
 PAASITS exists because Kurokawa's cover is not only that the public archive looks ordinary. Its cover depends on the public archive actually remaining ordinary.
@@ -50,7 +50,7 @@ KEEP THE PUBLIC FLOOR TRUE BY MOVING THE DANGER BELOW AT ONCE.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Public Archive Absolute Separation and Immediate Transfer System is Kurokawa Archive Node's F-8 surface separation and transfer-control technology. It governs how the legitimate foundation complex remains clean while personnel, confirmed material, suspect documents, and boundary events are moved toward F-7 and the operational archive below. It integrates reading-room discipline, preservation-lab limits, digitization controls, transition-point documentation, boundary Security monitoring, public explanations, and emergency surface sealing.
 
@@ -60,7 +60,7 @@ Approved roles include public-floor anomaly denial, immediate transfer below, su
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Kurokawa's foundation complex needed to be real: real reading rooms, real preservation work, real digitization, and real scholarly contact. That legitimacy created exposure risk. The public floor handles documents constantly, and the difference between a normal damaged record and an anomalous file may not be obvious at the first moment of contact.
 
@@ -68,7 +68,7 @@ The absolute separation doctrine developed from that risk. F-8 would remain clea
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A PAASITS installation includes reading-room interruption controls, preservation-lab refusal stations, digitization halt switches, sealed transfer drawers, concealed descent hatches, surface transition ledgers, public service explanation cards, Security boundary consoles, material custody tags, temporary clean-box carriers, and operational-archive notification links.
 
@@ -89,7 +89,7 @@ The system's best work looks like ordinary foundation procedure: a conservation 
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 When a document, object, recording, image, or digital file on F-8 shows anomalous indicators or cannot be cleared by public-floor standards, personnel stop ordinary handling and invoke PAASITS. Staff do not study the item on the surface. They isolate it in a sealed carrier, document time and location, remove public access, assign a cover reason, and transfer it through the transition architecture to F-7 or the appropriate operational intake route.
 
@@ -97,7 +97,7 @@ If public observers are present, the system prioritizes calm ordinary explanatio
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 PAASITS can move uncertainty below, but it cannot guarantee that the first moment of contact was harmless. A public researcher may have read one line, a digitization sensor may have captured an image, a preservation worker may have touched a surface, or a catalog record may already contain a dangerous title. The system also depends on personnel recognizing that public-floor curiosity is never worth operational contamination.
 
@@ -105,20 +105,20 @@ Known failure modes include delayed transfer, public observer proximity, staff a
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## PAASITS-Public Floor Cleanliness Review
+### PAASITS-Public Floor Cleanliness Review
 A surface archive review found that a cover institution cannot remain credible if its staff behave as though every suspicious item is secretly interesting. Current PAASITS doctrine requires public staff to behave like disciplined archivists first: isolate, document, transfer, and continue ordinary service where safe.
 
-## PAASITS-Digitization Halt Incident
+### PAASITS-Digitization Halt Incident
 A suspect image nearly entered a public digitization workflow before transfer review. Current procedure gives digitization workers explicit halt authority and requires operational review before any uncertain capture is stored or indexed.
 
-## PAASITS-Explanation Mismatch Correction
+### PAASITS-Explanation Mismatch Correction
 A boundary event produced conflicting public explanations from reading-room and preservation staff. Current PAASITS cover language is staged by event type so ordinary explanations remain consistent while the material moves below.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Foundation Administration maintains public explanation, visitor control, and surface continuity. Archive Division performs ordinary preservation work while obeying immediate transfer limits. Security controls transition, observer separation, and public-boundary response. Command decides when the operational archive must seal behind F-8. Administration coordinates records so a clean public floor still leaves a complete operational custody trail.
 
@@ -126,7 +126,7 @@ PAASITS doctrine holds that the surface archive survives because it refuses to b
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-03-JP-E-F-8 Surface Archive and Transition Level Floor Dossier;
 - ACT-SITE-03-JP-E-F-7 Personnel and Administrative Level Floor Dossier;
@@ -138,7 +138,7 @@ PAASITS doctrine holds that the surface archive survives because it refuses to b
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How much anomaly suspicion should public-facing staff be trained to recognize before training itself threatens cover?
 - Can a public researcher be allowed to continue work after witnessing an immediate transfer event?
@@ -149,7 +149,7 @@ PAASITS doctrine holds that the surface archive survives because it refuses to b
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Foundation Director / Security Boundary Office / Central Archive

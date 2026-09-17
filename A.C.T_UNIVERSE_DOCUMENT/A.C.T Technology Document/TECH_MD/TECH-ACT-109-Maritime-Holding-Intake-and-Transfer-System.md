@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - MARITIME HOLDING INTAKE AND TRANSFER SYSTEM
+### TECHNOLOGY RECORD - MARITIME HOLDING INTAKE AND TRANSFER SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Nusantara Deep Relay / Containment / Recovery / Research / Medical / Security
 **Authority:** Maritime-Hold Command, Floor Holding Chief, Recovery Liaison, and Central Archive
 
-### Archive Note
+#### Archive Note
 Maritime Holding Intake and Transfer System is the one-hundred-ninth main A.C.T technology expanded into an individual record. The F-3 Maritime and Island Holding Level dossier identifies the floor as the relay's main holding level for anomalies recovered from regional waters and islands. Its layout includes intake and assessment bays, water-capable containment chambers, pressure-rated environments, climate-controlled holding units, monitoring galleries, handling corridors, and a floor command post. Its transfer procedure routes deep-sensitive material downward, research-approved material upward, and water-capable material to port containment or specialized vessels under maritime doctrine.
 
 MHITS exists because a maritime recovery is not complete when material reaches land. The system turns arrival into holding without letting the sea's conditions vanish during the handoff.
@@ -47,7 +47,7 @@ DO NOT LET RECOVERY END BEFORE CONTAINMENT BEGINS.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Maritime Holding Intake and Transfer System is Nusantara Deep Relay's F-3 intake, assessment, handling, and transfer-control technology for sea-and-island-recovered anomalous material. It governs how recovered material enters the built installation, how its first holding condition is assigned, how movement is documented, and how transfers occur between F-3, the port facility, specialized vessels, F-4 laboratories, and deeper restricted levels.
 
@@ -57,7 +57,7 @@ Approved roles include recovery receipt, intake assessment, chamber assignment, 
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Nusantara's maritime mandate required more than vessels and holding chambers. Early recovery doctrine treated arrival at the relay as the end of the operation, but F-3's development showed that the critical moment often occurred between sea retrieval and stable chamber assignment. Recovered material changed condition during transport, required immediate environmental replication, or proved more dangerous while being moved than while held.
 
@@ -65,7 +65,7 @@ The F-3 floor dossier formalizes intake and transfer as central architecture. MH
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A MHITS installation includes intake and assessment bays, wet-transfer locks, pressure cart interfaces, climate transition lockers, handling corridors, transfer route gates, monitoring links, resident movement ledgers, chain-of-custody terminals, emergency water and atmosphere support, and handoff stations for Research and Medical review.
 
@@ -86,7 +86,7 @@ The system is designed around continuity. Every route is treated as a temporary 
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before a recovery arrives, MHITS receives preliminary information from Recovery: origin environment, depth, island or sea route, container condition, resident behavior, sample risk, escort status, and emergency needs. The Floor Holding Chief assigns an intake bay and provisional holding path. Environmental settings are prepared before material crosses the threshold.
 
@@ -94,7 +94,7 @@ On arrival, personnel confirm the recovery seal, document custody, stabilize env
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 MHITS can preserve transfer continuity, but it cannot make all recovered material predictable. Maritime anomalies may react to the loss of depth, the presence of land, changes in water chemistry, engine vibration, air pressure, light, human proximity, or the mere act of classification. The system depends on accurate recovery notes, functioning environmental equipment, and command willingness to delay research until holding is stable.
 
@@ -102,20 +102,20 @@ Known failure modes include environmental mismatch, pressure-loss shock, intake 
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## MHITS-Arrival Gap Review
+### MHITS-Arrival Gap Review
 A review of maritime intake found that some early records treated recovery completion and holding start as separate events, creating uncertainty during handoff. Current MHITS doctrine keeps one event clock from vessel receipt to chamber acceptance.
 
-## MHITS-Research Pullback Rule
+### MHITS-Research Pullback Rule
 Research demand for fresh material once caused pressure on F-3 staff to move material upward before its holding condition stabilized. Current procedure lets the Floor Holding Chief delay laboratory transfer until containment state is documented.
 
-## MHITS-Port Interface Drill
+### MHITS-Port Interface Drill
 A port transfer drill showed that water-capable material assigned to specialized vessels can become a custody ambiguity between floor, port, and vessel crews. Current MHITS records require signed relay authority at every transfer boundary.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Containment uses MHITS to assign chambers and maintain environmental continuity. Recovery uses it to hand off material without losing field context. Research uses it to request study transfer under sample control. Medical uses it to prepare resident and personnel support during intake. Security uses it to enforce route access, escort rules, and custody accountability.
 
@@ -123,7 +123,7 @@ MHITS doctrine holds that the sea's material remains in containment even while i
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-05-ID-C-F-3 Maritime and Island Holding Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-4 Laboratory and Research Level Floor Dossier;
@@ -135,7 +135,7 @@ MHITS doctrine holds that the sea's material remains in containment even while i
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Should all sea-recovered material pass through pressure-preserving transfer even when depth sensitivity is unconfirmed?
 - How long may Research observe an intake before it becomes an unauthorized study?
@@ -146,7 +146,7 @@ MHITS doctrine holds that the sea's material remains in containment even while i
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Maritime-Hold Command / Floor Holding Chief / Central Archive

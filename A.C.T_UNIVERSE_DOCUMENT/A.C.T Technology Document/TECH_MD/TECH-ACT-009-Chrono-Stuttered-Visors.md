@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - CHRONO-STUTTERED VISORS
+### TECHNOLOGY RECORD - CHRONO-STUTTERED VISORS
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Field Safety / Info-Hazard / Temporal Analysis / Biological Containment / Archive / Medical  
 **Authority:** Field Safety Desk, Info-Hazard Division, Temporal Analysis Desk, and Central Archive
 
-### Archive Note
+#### Archive Note
 Chrono-Stuttered Visors are the ninth main A.C.T technology expanded into an individual record. The Master Catalog defines them as optics with a 0.5-second processing delay that allow safe monitoring of visual-trigger hazards. The visual reference guide describes rugged tactical goggles with an integrated HUD, multi-layered digital lenses, an external focus dial, frame-delay readout, battery life display, hazard threat probability, and shielded batteries that avoid interference from local temporal distortion. Multiple anomaly files already require CSV use: Crystal Butterfly procedures require full-face units to prevent eye contact with chromatic flashes; DONT DENIED handling allows visors to avoid direct imprinting; Stop-Watch files use them to observe the second hand without Causal-Reactive Mercury imprinting; Terra's Pulse Goddess monitoring uses them or Phase-Shifted Containment Glass to filter dangerous viewing.
 
 Chrono-Stuttered Visors do not make a viewer immune. They make vision late, processed, and interruptible. That difference is the whole technology.
@@ -47,7 +47,7 @@ IF THE HAZARD NEEDS YOUR FIRST LOOK, NEVER GIVE IT YOUR FIRST LOOK.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 CSV units protect personnel from visual-trigger, temporal-imprint, chromatic, memetic, and direct-observation hazards by inserting a controlled delay between the outside image and the user's perception. The standard delay is listed as 0.5 seconds, but field supervisors may authorize adjusted timing within approved bands. The visor captures the scene, processes the frame, checks for known hazard probability, and shows the wearer a delayed version rather than direct sight.
 
@@ -64,7 +64,7 @@ Approved uses include:
 
 ---
 
-# ORIGIN AND CUSTODY
+## ORIGIN AND CUSTODY
 
 CSV development followed A.C.T's repeated discovery that many hazards punish immediacy. Some did not harm cameras. Some harmed the first biological observer. Some did not mind being seen after a fraction of a second, after a frame loss, or through enough digital mediation. Early trials used ordinary camera screens, then helmet feeds, then delayed goggles. The modern visor emerged after temporal shielding and info-hazard scoring were combined into one PPE standard.
 
@@ -74,7 +74,7 @@ The visor belongs to the site or kit, not to the operator. Personnel may be assi
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard CSV resembles rugged tactical goggles with multi-layer digital lenses and an integrated HUD. The frame is thicker than normal field eyewear because it contains the processing stack, shielded battery housing, temporal insulation, and fail-shut relay. The external focus dial physically adjusts lens gap and processing depth. The HUD displays delay in milliseconds, battery life, hazard threat probability, filter state, and recording status where recording is permitted.
 
@@ -95,7 +95,7 @@ Full-face biological models seal over respirators and hydrophobic textile hoods.
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before use, personnel confirm the hazard profile and select the approved delay band. A wearer never adjusts the frame delay downward because the image feels inconvenient. Field lead checks that battery, shutter, threat meter, and face seal are functional. When entering the hazard area, personnel avoid lifting the visor for direct confirmation. If the HUD disagrees with another sensor, personnel withdraw and resolve the instrument conflict outside the zone.
 
@@ -105,7 +105,7 @@ Do not record through a CSV unless the file order permits recording. Do not stre
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 Chrono-Stuttered Visors fail against hazards that act on any mediated image, any recognition, any symbolic representation, or any delayed copy. They also fail when the wearer removes the visor, when battery drops below safe level, when local time distortion desynchronizes the processor, or when a hazard punishes being watched late. CSV cannot protect against airborne dust, sound, touch, smell, belief, infection, or emotional compulsion unless other equipment handles those channels.
 
@@ -113,20 +113,20 @@ Operational weaknesses include tunnel vision, delayed reaction, nausea, false co
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## CSV-2008 Chromatic Flare Near Miss
+### CSV-2008 Chromatic Flare Near Miss
 During early Crystal Butterfly containment review, a staff member lifted a visor for direct color confirmation after the threat meter showed low probability. The Queen's flash did not breach containment, but the staff member reported afterimages for six hours and required medical observation. The procedure now states that low probability is not absence, and direct color confirmation is prohibited.
 
-## CSV-2012 Delay Reduction Incident
+### CSV-2012 Delay Reduction Incident
 A Recovery technician reduced delay to make tool handling feel natural while moving an info-hazardous object. The object was not hostile, but the technician retained a permanent unwanted certainty about its surface markings. The DONT DENIED handling note was later reinforced: use tactile-only methods or approved CSV delay, not comfort settings.
 
-## CSV-2020 Vault Battery Drop
+### CSV-2020 Vault Battery Drop
 A temporal vault visor reported adequate battery while its shielded pack was being drained by local distortion. The blackout shutter closed late. No activation occurred, but the Stop-Watch second hand appeared to jump in the operator's memory. Temporal Analysis now keeps vault CSV units on shorter maintenance cycles.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Field Safety issues standard visor kits and trains delay discipline. Info-Hazard Division approves hazard profiles, recording restrictions, and archive feed handling. Temporal Analysis controls vault-rated CSV units. Biological Containment maintains full-face sealed units for organisms and dust-bearing chambers. Medical reviews headaches, delayed image retention, afterimages, nausea, fixation, and suspected imprint. Archive stores visor logs with the related anomaly file when the log is safe enough to preserve.
 
@@ -134,7 +134,7 @@ Personnel reminder: the visor is not there to help you look harder. It is there 
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 09;
 - ACT Technological Visual Reference Guide, Item 09;
@@ -146,7 +146,7 @@ Personnel reminder: the visor is not there to help you look harder. It is there 
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which hazards can learn to attack the delayed image rather than the direct viewer?
 - Is 0.5 seconds ideal, or only the safest general compromise discovered so far?
@@ -158,7 +158,7 @@ Personnel reminder: the visor is not there to help you look harder. It is there 
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Field Safety Desk / Info-Hazard Division / Temporal Analysis Desk / Central Archive  

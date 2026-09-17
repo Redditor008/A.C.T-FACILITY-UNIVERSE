@@ -1,19 +1,19 @@
 # A.C.T FACILITY ARCHIVE FILE
-## Vault Record — ENTITY-000 / ITHYOS
+### Vault Record — ENTITY-000 / ITHYOS
 
 **Archive Status:** Sealed  
 **Distribution:** Absolute Restricted  
 **Authority:** Vault Archive  
 
-### Archive Note
+#### Archive Note
 This file is the complete internal archive version of the first preserved vault document in A.C.T history. It preserves the pre-anomaly-era language, early threat understanding, and original doctrinal significance of ENTITY-000.
 
 ---
 
-# A.C.T Facility Vault Archive
-## First Preserved Document
-## Pre-Anomaly Era Record
-## ENTITY FILE: 000
+## A.C.T Facility Vault Archive
+### First Preserved Document
+### Pre-Anomaly Era Record
+### ENTITY FILE: 000
 
 **Vault Status:** Sealed  
 **Record Status:** Absolute Restricted  
@@ -23,12 +23,12 @@ This file is the complete internal archive version of the first preserved vault 
 
 ---
 
-## ENTITY DESIGNATION
+### ENTITY DESIGNATION
 **ENTITY-000**  
 **Title I:** *The Slumbering Serpent God*  
 **Title II:** *ITHYOS, The World-Sleeper*
 
-## Provisional Name
+### Provisional Name
 **The Sleeping Serpent in the Core**  
 **Recovered Secondary Name:** *ITHYOS*  
 **Unauthorized Interpretive Title:** *The World-Sleeper*
@@ -38,7 +38,7 @@ This record was created before the modern use of the word **Anomaly**. At the ti
 
 ---
 
-## ENTITY DESCRIPTION
+### ENTITY DESCRIPTION
 The ENTITY is an impossibly long serpent-form being estimated at approximately **10 kilometers in length**. It is believed to sleep within the **Earth’s core** in a dormant state. Its full body has never been completely observed, and all current measurements remain partial, inferred, or uncertain.
 
 Despite remaining asleep, the ENTITY exerts passive planetary-scale influence. Small physical movement during its sleep is enough to produce **magnitude 3 earthquakes** across the Earth. These disturbances appear to be involuntary and do not indicate full waking behavior.
@@ -47,12 +47,12 @@ The ENTITY is not to be understood as ordinary life, myth, or animal form. It is
 
 ---
 
-## PRIMARY OBSERVED EFFECTS
+### PRIMARY OBSERVED EFFECTS
 
-### 1. Seismic Disturbance
+#### 1. Seismic Disturbance
 Minor movement while the ENTITY remains asleep is sufficient to trigger measurable global tremors. These tremors are not believed to be intentional.
 
-### 2. Serpentine Submission Response
+#### 2. Serpentine Submission Response
 Any serpent-type organism exposed to the ENTITY’s presence, influence, or aura immediately displays submission behavior.
 
 Observed responses include:
@@ -64,7 +64,7 @@ Observed responses include:
 
 No known serpent-form organism has resisted this effect.
 
-### 3. Human Proximity Vision
+#### 3. Human Proximity Vision
 Any human approaching too close to the ENTITY’s location begins to experience intrusive visions. The most common and consistent report is that the ENTITY is **looking directly at them**, even while all known physical signs confirm that it remains asleep.
 
 Witnesses repeatedly describe:
@@ -75,7 +75,7 @@ Witnesses repeatedly describe:
 
 No confirmed case has shown the ENTITY physically awakening during these visions.
 
-### 4. Mental Collapse
+#### 4. Mental Collapse
 Weak-minded or psychologically unstable individuals frequently suffer immediate mental collapse after exposure to the vision.
 
 Observed outcomes include:
@@ -86,19 +86,19 @@ Observed outcomes include:
 - religious delirium
 - permanent psychological fracture
 
-### 5. The Scribbling Phase
+#### 5. The Scribbling Phase
 Following exposure, subjects often enter a compulsive writing state. During this phase, they repeatedly transcribe unknown words, symbols, or script from an unidentified language that does not correspond to any recognized human linguistic system.
 
 The subject continues this scribbling behavior until physical death or total restraint.
 
-### 6. Terminal Event
+#### 6. Terminal Event
 Approximately **24 hours** after the initial vision, the exposed subject dies of sudden **cardiac arrest**.
 
 This terminal sequence has been recorded as fixed and reliable in all surviving early reports.
 
 ---
 
-## EXPOSURE SEQUENCE
+### EXPOSURE SEQUENCE
 The following progression has been observed repeatedly:
 
 1. **Approach**  
@@ -110,7 +110,7 @@ The following progression has been observed repeatedly:
 
 ---
 
-## INITIAL CONTAINMENT UNDERSTANDING
+### INITIAL CONTAINMENT UNDERSTANDING
 The ENTITY cannot be contained by conventional architecture, ordinary restraint, or force.
 
 At the time of this first record, containment was understood only in the following terms:
@@ -131,7 +131,7 @@ It was determined by first deployment authority that public knowledge of the ENT
 
 ---
 
-## DIRECTIVE
+### DIRECTIVE
 No unapproved descent.  
 No uncontrolled observation.  
 No serpent specimen is to be brought near the lower seal.  
@@ -142,7 +142,7 @@ No action is to be taken that may disturb the ENTITY’s dormant state.
 
 ---
 
-## ARCHIVE WARNING
+### ARCHIVE WARNING
 This ENTITY is not to be approached as animal, god, relic, or myth.
 
 It is not to be worshipped.  
@@ -153,7 +153,7 @@ Its sleep is presently indistinguishable from mercy.
 
 ---
 
-## FINAL NOTE
+### FINAL NOTE
 This record is preserved as the first sealed vault document of the A.C.T Facility. It predates formal anomaly doctrine, modern designation systems, and all later containment classification standards.
 
 At the time of writing, there was only one understood duty:

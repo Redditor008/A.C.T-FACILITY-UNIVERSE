@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## GROUP OF INTEREST REGISTRY - CONTROLLED RECORD FORM
+### GROUP OF INTEREST REGISTRY - CONTROLLED RECORD FORM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -63,153 +63,153 @@
 **Distribution:** [Authorized A.C.T divisions and clearance boundary]
 **Authority:** [Responsible archive and operational authority]
 
-### Archive Note
+#### Archive Note
 [State the filing condition, the limit of current certainty, and whether the record concerns an organization, an anomalous group requiring dual filing, or an unresolved structure. This field establishes scope; it is not a short description.]
 
 ---
 
-# IDENTITY AND INSTITUTIONAL FUNCTION
+## IDENTITY AND INSTITUTIONAL FUNCTION
 
-## Group Function
+### Group Function
 
 [Record what makes the group an organized anomalous actor. Explain the repeated activity, its material effect, and why it matters to containment, Structural Reality, secrecy, or ordinary life.]
 
-## Public Presence and Concealment
+### Public Presence and Concealment
 
 [Record public identities, cover structures, denial mechanisms, or the reason no public identity can be verified.]
 
 ---
 
-# ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
+## ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
 
-## Leadership Condition
+### Leadership Condition
 
 [Identify confirmed leadership, explain why leadership is unknown, or distinguish an office from the people occupying it.]
 
-## Internal Structure
+### Internal Structure
 
 [Describe cells, departments, market layers, hierarchy, networks, rituals, committees, collective behavior, or another material structure. Separate confirmed information from A.C.T assessment.]
 
-## Membership and Recruitment
+### Membership and Recruitment
 
 [Record size, recruitment pattern, access layers, vulnerable participants, or the reason a total census cannot be established.]
 
 ---
 
-# IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
+## IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
 
-## Stated Belief
+### Stated Belief
 
 [Record what the group says it protects, opposes, seeks, sells, studies, worships, hides, changes, or destroys.]
 
-## Assessed Objective
+### Assessed Objective
 
 [Record what A.C.T believes the group is trying to achieve, including uncertainty and material consequence.]
 
-## Anomalous Capability Assessment
+### Anomalous Capability Assessment
 
 [Explain why the assigned capability class fits. Describe how the group handles, studies, trades, creates, contains, weaponizes, avoids, or is affected by anomalies without assigning unproven capacity.]
 
-## Secrecy and Civilian Exposure
+### Secrecy and Civilian Exposure
 
 [Explain how the group preserves, damages, uses, or exploits normalcy. Connect the explanation to the assigned Secrecy Risk.]
 
 ---
 
-# OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
+## OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
 
-## Operational Regions
+### Operational Regions
 
 [Explain the assigned Reach Class through geography, routes, jurisdictional limits, or non-geographic structural reach.]
 
-## Known Assets and Holdings
+### Known Assets and Holdings
 
 [Detail sites, routes, archives, facilities, equipment, personnel, information, financial means, cover institutions, anomalous tools, and logistical capacity. Mark confirmed, assessed, or unresolved conditions.]
 
-## Operating Method
+### Operating Method
 
 [Record how the group turns its purpose into repeated action. Do not include unsafe reproduction detail where containment limits apply.]
 
 ---
 
-# HISTORY WITH A.C.T
+## HISTORY WITH A.C.T
 
-## Contact History
+### Contact History
 
 [Record known first contact, records limitation, prior posture, major break, treaty condition, or recurring pattern that established the relationship. Mark restricted or contested history without inventing a complete origin.]
 
-## Current Relationship
+### Current Relationship
 
 [Explain why the group is not simply ignored, erased, recruited, or destroyed. State the active tension, dependency, shared interest, or source of conflict.]
 
 ---
 
-# A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
+## A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
 
-## Responsible Jurisdiction
+### Responsible Jurisdiction
 
 [Name the primary SITE, SUB-SITE, or Central review body. Explain why the jurisdiction follows established Site doctrine and include cross-site roles where required.]
 
-## Posture Implementation
+### Posture Implementation
 
 [Translate the A.C.T Posture into actual conduct. Explain what monitoring, infiltration, misdirection, containment, dismantling, appropriation, erasure, cooperation, or help requires in this case.]
 
-## Response Limits and Red Lines
+### Response Limits and Red Lines
 
 [State what A.C.T will not permit, what triggers escalation, and what must be protected despite conflict or opportunity.]
 
 ---
 
-# OPERATIONAL RECORDS
+## OPERATIONAL RECORDS
 
-## Restricted Operational Extract
+### Restricted Operational Extract
 
 [Include one or more in-world record extracts that show the group operating, the division response, and the decision boundary. Do not use this section as a short synopsis.]
 
 ---
 
-# INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
+## INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
 
-## Confirmed Operational Facts
+### Confirmed Operational Facts
 
 - [CONFIRMED FACT]
 - [CONFIRMED FACT]
 - [CONFIRMED FACT]
 
-## Active Intelligence Assessment
+### Active Intelligence Assessment
 
 [Provide the current assessed pattern and why it matters. Keep assessment distinct from confirmed fact.]
 
-## Persistent Questions
+### Persistent Questions
 
 - [OPEN QUESTION]
 - [OPEN QUESTION]
 - [OPEN QUESTION]
 
-## Intelligence Confidence
+### Intelligence Confidence
 
 [High / Moderate / Low / Contested, with reasons and the next condition that could change the rating.]
 
 ---
 
-# CROSS-REFERENCE STATUS
+## CROSS-REFERENCE STATUS
 
-## Anomaly and Record Relationship
+### Anomaly and Record Relationship
 
 [Identify approved-core anomaly records or state why a permanent group-wide list is restricted. If the group itself is anomalous, require a distinct AFD file and preserve separation between organizational behavior and anomalous condition.]
 
-## Related A.C.T Records
+### Related A.C.T Records
 
 - [GOI REGISTRY / SITE / DOCTRINE / HISTORY RECORD]
 - [GOI REGISTRY / SITE / DOCTRINE / HISTORY RECORD]
 
-## Dual Filing
+### Dual Filing
 
 [Required / Not required / Under review. Explain the ruling.]
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 ```text
 FILE CREATED:            [DD/MM/YYYY]

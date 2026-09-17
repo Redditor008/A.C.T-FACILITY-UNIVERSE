@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - DOCUMENT PRESERVATION STUDIO COVER SYSTEM
+### TECHNOLOGY RECORD - DOCUMENT PRESERVATION STUDIO COVER SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Silent Reed Annex / Kurokawa Archive Node / Studio Management / Security / Archive / Intelligence
 **Authority:** Studio Manager, Security Boundary Lead, Sub-Site Chief, Kurokawa Archive Command, and Central Archive
 
-### Archive Note
+#### Archive Note
 Document Preservation Studio Cover System is the ninety-ninth main A.C.T technology expanded into an individual record. The Silent Reed Annex dossier identifies the annex's cover as a private document-preservation and restoration studio serving the region's archival and cultural-heritage sector. The F-3 floor dossier identifies restoration workrooms, administrative spaces, restricted work areas, and concealed transition architecture as the surface structures that make the cover durable.
 
 DPSCS exists because Silent Reed is safest when it looks like quiet professional care for fragile documents. The cover works because the studio's work is real.
@@ -47,7 +47,7 @@ RESTORE REAL DOCUMENTS ABOVE THE DOCUMENTS THAT MUST NOT BE SEEN.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 The Document Preservation Studio Cover System is the F-3 cover and boundary technology that presents Silent Reed Annex as a legitimate preservation studio while concealing its buried review and quarantine work. It combines real restoration workrooms, conservation routines, administrative files, restricted client-work areas, quiet public presence, controlled delivery patterns, concealed transition points, and boundary monitoring hidden inside ordinary studio practice.
 
@@ -57,7 +57,7 @@ Approved roles include legitimate restoration work, conservation cover maintenan
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Silent Reed was created after Kurokawa suffered archive spillover pressure. A buffer for dangerous information needed a surface identity that could explain documents without attracting interest. The private preservation studio solved that problem. It could receive old records, hold sensitive client material, maintain controlled environments, restrict access, and operate quietly without appearing strange.
 
@@ -65,7 +65,7 @@ The F-3 dossier records the Quiet Cover Doctrine: the annex's cover was designed
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A DPSCS installation includes restoration workrooms, conservation benches, document drying racks, climate-control cabinets, administrative desks, restricted work areas, client receipt tables, preservation supply storage, concealed transition controls, low-profile surveillance, and sealed movement drawers leading toward F-2. The visible studio must remain professionally credible under close but ordinary scrutiny.
 
@@ -86,7 +86,7 @@ The system is strongest when visitors remember the studio as competent and unrem
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 During routine operation, legitimate studio staff restore documents, maintain conservation environments, receive client materials, file ordinary paperwork, and conduct the professional work of the cover. Administrative staff keep schedules, invoices, client notes, and preservation records consistent with visible activity. Security staff monitor boundaries through ordinary restricted-area procedure.
 
@@ -94,7 +94,7 @@ When buffered material must move through F-3, DPSCS frames the movement as studi
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 DPSCS cannot hide careless document movement, theatrical secrecy, impossible client patterns, excessive restricted-area behavior, or staff who treat the studio as fake. Real preservation work brings real obligations: clients, conservation standards, material records, climate equipment, deliveries, professional reputation, and questions from people who understand documents.
 
@@ -102,20 +102,20 @@ Known failure modes include client curiosity, restoration record mismatch, restr
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## DPSCS-Cover Studio Formation
+### DPSCS-Cover Studio Formation
 The Silent Reed dossier records the private document-preservation and restoration studio as the annex's cover identity. DPSCS was formalized when the annex became a stable Kurokawa buffer installation.
 
-## DPSCS-Restricted Work Area Drill
+### DPSCS-Restricted Work Area Drill
 A boundary exercise showed that restricted areas are plausible only when ordinary studio staff behave as if they protect client material, not secrets. Current response doctrine uses professional conservation language before security language.
 
-## DPSCS-Client Pattern Audit
+### DPSCS-Client Pattern Audit
 An administrative review found that visible studio traffic must remain coherent even when annex traffic is high. Current procedure separates legitimate client rhythm from buried material movement.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Studio staff maintain the visible restoration work. Administration keeps public records and client-facing routine. Security controls boundary and transition exposure. Archive coordinates document movement into the buried annex. Intelligence monitors whether cover traffic reveals abnormal document-flow patterns.
 
@@ -123,7 +123,7 @@ DPSCS doctrine holds that quiet is not absence. Quiet is work done well enough t
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SUB-03-JP-E Silent Reed Annex Sub-Site Dossier;
 - ACT-SUB-03-JP-E-F-3 Surface Cover Level Floor Dossier;
@@ -135,7 +135,7 @@ DPSCS doctrine holds that quiet is not absence. Quiet is work done well enough t
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How many restricted-client explanations can a small studio sustain?
 - Which legitimate documents should never be allowed near annex transition routes?
@@ -146,7 +146,7 @@ DPSCS doctrine holds that quiet is not absence. Quiet is work done well enough t
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Studio Manager / Security Boundary Lead / Central Archive

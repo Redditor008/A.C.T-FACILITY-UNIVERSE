@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - SIGNAL-ISOLATED ANOMALOUS DOCUMENT STORAGE SYSTEM
+### TECHNOLOGY RECORD - SIGNAL-ISOLATED ANOMALOUS DOCUMENT STORAGE SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Kurokawa Archive Node / Archive / Intelligence / Researcher Division / Security
 **Authority:** Floor Holding Archivist, Document-Holding Command, Archive Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Signal-Isolated Anomalous Document Storage System is the one-hundred-twenty-third main A.C.T technology expanded into an individual record. The F-3 Active Anomalous Document Storage dossier identifies F-3 as Kurokawa's main holding level for confirmed anomalous documents and media requiring ongoing monitoring. It records storage rows, document quarantine cells, signal-isolated storage units, monitoring galleries, handling corridors, intake and assessment bays, transfer procedures to F-2 and F-4, and a doctrine that treats anomalous documents as active holdings.
 
 SIADSS exists because some documents do not merely sit in storage. They emit, receive, propagate, answer, call outward, or behave as though the archive around them is another medium.
@@ -47,7 +47,7 @@ STORE THE DOCUMENT AS A RESIDENT, AND CONTAIN THE ROUTE IT TRIES TO USE.
 
 ---
 
-# FUNCTION OUTLINE
+## FUNCTION OUTLINE
 
 Signal-Isolated Anomalous Document Storage System is Kurokawa's F-3 monitored storage technology for anomalous documents and media whose behavior includes transmission, reception, replication, signal response, or uncertain active communication. It combines signal-isolated storage units, general anomalous document rows, quarantine handoff, monitoring galleries, storage access procedure, sample-control routing, and transfer doctrine for material that may need F-2 restricted vaulting or F-4 research study.
 
@@ -57,7 +57,7 @@ Approved roles include active anomalous document storage, signal-emitting media 
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Kurokawa's active document population required a middle holding floor. Not every anomalous file belongs in the Unread Archive. Not every memetic or infohazard case requires Blind Box or Eye Box vaulting. Many confirmed anomalous documents can be held under standard doctrine if their behavior is watched, their environment is controlled, and their routes of transmission are blocked.
 
@@ -65,7 +65,7 @@ F-3 developed as that working floor. SIADSS formalizes the signal-isolated porti
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A SIADSS installation includes signal-isolated storage cabinets, shielded document drawers, media vault racks, monitoring sensors, environmental controls, behavior logging panels, quarantine transfer ports, sample-control pass-throughs, handling corridor gates, and floor command links.
 
@@ -86,7 +86,7 @@ The system treats each storage position as a containment chamber whose resident 
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before assignment, the Floor Holding Archivist verifies intake record, anomalous assessment, signal behavior, format, custody chain, environmental needs, access limits, monitoring method, and escalation thresholds. Material with active or suspected transmission behavior enters signal-isolated storage. Material whose character remains uncertain may remain in quarantine until assessment defines a storage route.
 
@@ -94,7 +94,7 @@ Routine operation consists of monitoring rounds, environmental checks, behavior 
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 SIADSS can isolate many signal routes, but it cannot guarantee that all transmission behavior is known. A document may propagate through human description, clerical metadata, camera noise, damaged file headers, static patterns, inventory labels, or the expectations of personnel assigned to monitor it. Signal isolation can also create false confidence when a holding stops transmitting because it is waiting rather than contained.
 
@@ -102,20 +102,20 @@ Known failure modes include signal leakage, metadata carrier formation, monitori
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## SIADSS-Active Holding Standard
+### SIADSS-Active Holding Standard
 A holding review found that anomalous documents were sometimes described as stored objects even when they behaved like contained residents. Current SIADSS doctrine records active behavior, monitoring cadence, and escalation thresholds as part of the storage assignment.
 
-## SIADSS-Signal Isolation Correction
+### SIADSS-Signal Isolation Correction
 A media item once stopped visible transmission while producing irregular behavior in nearby documentation fields. Current storage checks include metadata, logging surfaces, and adjacent record behavior, not only obvious signal output.
 
-## SIADSS-Transfer Threshold Review
+### SIADSS-Transfer Threshold Review
 A quarantine case remained on F-3 after repeated signs of understanding-linked escalation. Current procedure requires faster F-2 review when a document's danger grows with reading, viewing, or explanation.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Archive Division operates SIADSS storage, monitoring, and custody records. Intelligence reviews transmission significance and wider secrecy risk. Researcher Division requests F-4 sample-control movement when study is authorized. Security enforces access, handling corridors, and transfer locks.
 
@@ -123,7 +123,7 @@ SIADSS doctrine holds that a document in storage may still be reaching for an ex
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-03-JP-E-F-3 Active Anomalous Document Storage Floor Dossier;
 - ACT-SITE-03-JP-E-F-2 Deep Memetic and Infohazard Vaulting Floor Dossier;
@@ -135,7 +135,7 @@ SIADSS doctrine holds that a document in storage may still be reaching for an ex
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can a document that stops transmitting be trusted, or has it learned the storage cadence?
 - How much metadata can be retained before metadata becomes a carrier?
@@ -146,7 +146,7 @@ SIADSS doctrine holds that a document in storage may still be reaching for an ex
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Floor Holding Archivist / Document-Holding Command / Central Archive

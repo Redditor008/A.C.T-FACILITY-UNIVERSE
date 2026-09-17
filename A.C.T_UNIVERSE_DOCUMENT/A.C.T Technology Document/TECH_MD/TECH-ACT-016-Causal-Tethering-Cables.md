@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - CAUSAL TETHERING CABLES
+### TECHNOLOGY RECORD - CAUSAL TETHERING CABLES
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Engineering / Recovery / Containment / Logistics / Site Command  
 **Authority:** Engineering Division, Recovery Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Causal Tethering Cables are the sixteenth main A.C.T technology expanded into an individual record. The Master Catalog defines them as phase-existent high-tensile lines designed to secure artifacts within unstable or stretched spatial environments without material failure. The visual guide describes thick iridescent industrial cables five centimeters in diameter, wrapped in carbon-fiber reinforcement weave, fitted with oversized connectors, redacted phase locks, internal liquid-cooling channels, and digital shunt displays every five meters showing causal tension and ontological drag.
 
 CTC exists because ordinary cables fail in places where distance, direction, weight, and attachment do not agree. A recovered artifact may be physically near and causally far. A doorway may pull a sample toward a place that is not in the room. A crate may be light in the hand and impossible to move because its history remains anchored elsewhere. CTC does not solve those contradictions. It gives Recovery and Engineering a line that can remain a line while the world argues around it.
@@ -47,7 +47,7 @@ NEVER TRUST A ROPE THAT ONLY EXISTS IN ONE KIND OF SPACE.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Causal Tethering Cables secure anomalous objects, field rigs, personnel lifelines, cargo frames, doorway anchors, and sample cages in environments where ordinary tension would snap, slacken, loop into the wrong distance, or attach to a surface that no longer occupies the same causal layer. They are used in stretched corridors, unstable thresholds, spatial recovery zones, heavy anomaly loading, and Dark World survey support where a team must maintain a reliable connection across unreliable geometry.
 
@@ -64,7 +64,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND CUSTODY
+## ORIGIN AND CUSTODY
 
 CTC development followed early A.C.T failures with chain, rope, winch cable, and aircraft-grade tow lines in places where distance behaved improperly. Ordinary materials either broke under causal tension, remained intact while losing connection to the target, or returned from a recovery zone attached to the wrong point of origin. Engineering eventually combined high-tensile alloy, carbon-fiber reinforcement, phase-lock connectors, and liquid-cooling channels into a field line that could carry both physical tension and ontological drag.
 
@@ -74,7 +74,7 @@ The phase-lock geometry remains restricted because a hostile group could use sto
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard CTC line is a five-centimeter iridescent industrial cable with visible carbon-fiber reinforcement weave. The surface shifts color under stress, usually violet, blue, green, or dull silver. Oversized connectors sit at both ends and engage with a heavy bolt sound when the phase lock seats. The internal liquid-cooling channels prevent the alloy from overheating or shattering when causal load rises faster than physical load.
 
@@ -95,7 +95,7 @@ A cable that looks slack may still carry severe ontological drag. A cable that l
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before deployment, the team defines what relationship the cable must preserve: operator to exit, artifact to container, probe to threshold, cargo frame to aircraft rail, or sample cage to anchor point. The connector is locked only after the relationship is named and recorded. The operator confirms shunt display activity every five meters, checks cooling flow, and watches for tension disagreement.
 
@@ -105,7 +105,7 @@ Do not cut an active CTC except under terminal release order. Cutting may free t
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 Causal Tethering Cables cannot make an unsafe route safe, cannot restrain an entity with no stable relationship to local space, and cannot replace full containment. They can be overloaded by contradictory anchors, hostile phase shifts, thermal stress, meaningful knots, nonlocal pressure, or objects that change what they are attached to while attached. A line used in a Dark World threshold may not be safe for ordinary site use afterward.
 
@@ -113,20 +113,20 @@ Known failure modes include cooling loss, shunt blackout, phase-lock partial eng
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## CTC-1996 False Slack Incident
+### CTC-1996 False Slack Incident
 A recovery cable appeared loose while holding a sample crate inside a stretched corridor. The shunt display showed rising ontological drag, but the operator judged by sight and stepped across the line. The cable snapped into a route only visible on the displays and broke the operator's ankle. Field training now begins with the phrase: the eye is not a load gauge.
 
-## CTC-2008 Cooling Channel Steam
+### CTC-2008 Cooling Channel Steam
 A cable used near an active aperture vented coolant as white steam and briefly displayed two contradictory anchor names. The object was recovered, but the line was quarantined. Engineering found that the cable had carried heat from a relationship rather than from friction.
 
-## CTC-2021 Return Bias
+### CTC-2021 Return Bias
 A field spool repeatedly rolled toward a sealed threshold after use despite passing physical inspection. The line had developed memory of its previous anchor. Materials Custody destroyed the spool under observation and added post-use stress memory tags to all high-load cables.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Engineering certifies, repairs, retires, and quarantines CTC equipment. Recovery deploys cables during field operations. Containment uses installed tether points for unstable rooms. Logistics carries sealed drums and records transport conditions. Site Command approves permanent anchor installation. Dark World Survey uses CTC as expedition lifeline support. Archive stores shunt logs with related recovery files when the data is safe to retain.
 
@@ -134,7 +134,7 @@ Standing reminder: if the cable is the only thing that knows where home is, prot
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 03;
 - ACT Technological Visual Reference Guide, Item 03;
@@ -146,7 +146,7 @@ Standing reminder: if the cable is the only thing that knows where home is, prot
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How much ontological drag can a cable carry before it develops permanent memory?
 - Can hostile groups use CTC principles to tether personnel to false exits?
@@ -157,7 +157,7 @@ Standing reminder: if the cable is the only thing that knows where home is, prot
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Engineering Division / Recovery Division / Central Archive  

@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## GROUP OF INTEREST REGISTRY - LAST BELL CONGREGATION
+### GROUP OF INTEREST REGISTRY - LAST BELL CONGREGATION
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -68,7 +68,7 @@
 **Distribution:** Intelligence / Civil Covert / Recovery / Subject Care / Containment / Medical / Command
 **Authority:** Intelligence Division, Civil Covert Division, Recovery Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Last Bell Congregation is the active cultic filing for an outside apocalypse-warning church that prepares civilians for events it believes may end towns, coastlines, families, or the world. The Congregation is not Children of the Deep, not a death cult, not a panic hoax network, not a single bell tower, and not an A.C.T civil-defense program. It qualifies as a Group of Interest because it has clergy, lay cells, shelter logistics, recurring prophecies, bell rites, calendars, route cards, food stores, warning songs, and a repeated ability to affect A.C.T response before and during abnormal disasters.
 
 The relationship class is **POSITIVE**. Last Bell Congregation wants people to survive. It warns, shelters, feeds, reconciles, counts children, and moves frightened families before official systems can publicly admit danger. A.C.T still monitors the group because apocalypse language can create panic, reveal classified event patterns, disrupt cover narratives, and make civilians move toward unapproved shelters or away from controlled evacuation routes. Positive does not mean harmless. It means the primary observed purpose is life-preserving preparation.
@@ -77,9 +77,9 @@ Active end calendars, true-bell tone notations, child shelter rosters, and faile
 
 ---
 
-# IDENTITY AND INSTITUTIONAL FUNCTION
+## IDENTITY AND INSTITUTIONAL FUNCTION
 
-## Group Function
+### Group Function
 
 Last Bell Congregation functions as a religious disaster-preparation and end-warning network. Its repeated activity is the identification of early signs, ringing of coded bells, preparation of shelters, distribution of route cards, stocking of food and water, training of families, preservation of names, and coordination of evacuation before an event becomes publicly explainable. The Congregation believes that endings announce themselves through bells, weather, bird silence, broken clocks, repeated dreams, wrong tides, ash in clean rooms, and voices heard from empty steeples.
 
@@ -93,7 +93,7 @@ THE LAST BELL RINGS SO THERE CAN BE A MORNING AFTER.
 
 This line separates the group from apocalypse worshippers who want collapse. Last Bell does not pray for the end to arrive. It believes the end is always near enough to require mercy, warning, and stores of bread.
 
-## Public Presence and Concealment
+### Public Presence and Concealment
 
 Last Bell hides in plain religious life: churches, chapels, bell towers, roadside shrines, disaster volunteer groups, food banks, storm shelters, coastal warning societies, funeral guilds, and rural prayer meetings. Civilians may see old people checking bells, teenagers stacking canned food, deacons repairing a cellar, or families learning evacuation hymns. None of this automatically looks anomalous.
 
@@ -101,15 +101,15 @@ Public marks include bell cords tied with grey ribbon, printed end calendars wit
 
 ---
 
-# ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
+## ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
 
-## Leadership Condition
+### Leadership Condition
 
 Local cells are led by Bellwardens, Alarm Readers, Shelter Deacons, Calendar Mothers, and Route Brothers or Sisters. These are functional offices rather than proof of one church hierarchy. Bellwardens control warning bells and decide whether a tone is local practice or active alarm. Alarm Readers interpret calendars and early signs. Shelter Deacons manage stores and basement readiness. Calendar Mothers maintain date books, dream logs, and failed-warning corrections.
 
 A.C.T records mention a First Ringer, but no living officeholder has been confirmed. The First Ringer may be a founder, a myth, a rotating role activated during major warnings, or an absent authority invoked to restrain local panic.
 
-## Internal Structure
+### Internal Structure
 
 A.C.T assessment identifies these functional layers:
 
@@ -125,7 +125,7 @@ A.C.T assessment identifies these functional layers:
 
 This structure makes the Congregation a real group rather than a vague doomsday label. It has roles, correction practices, stores, shelters, and repeated operational effect.
 
-## Membership and Recruitment
+### Membership and Recruitment
 
 Membership includes clergy, lay families, disaster volunteers, shelter cooks, rural radio operators, bell ringers, grief counselors, route drivers, coastal observers, farmers, teachers, and survivors of prior abnormal disasters. The Congregation recruits through preparation rather than conversion. People join after a warning saves them, after a public system fails, or after they hear a bell no official tower admits ringing.
 
@@ -139,9 +139,9 @@ A.C.T has no confirmed evidence that Last Bell deliberately creates disasters to
 
 ---
 
-# IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
+## IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
 
-## Stated Belief
+### Stated Belief
 
 Last Bell believes that apocalypse is not only one final cosmic event. An ending can be a town lost to impossible water, a street that fails to return, a school erased from public record, a family swallowed by a repeating house, or a coastline hearing something rise. The Congregation calls these small ends. It prepares for them because a small end is still the whole world to the people inside it.
 
@@ -156,13 +156,13 @@ Let the last bell be warning, not verdict.
 
 The group does not teach that containment is evil by default. It teaches that people should not wait for official permission to survive.
 
-## Assessed Objective
+### Assessed Objective
 
 A.C.T assesses that Last Bell seeks to build a prepared civilian network able to survive abnormal disaster, local apocalypse, and possibly larger end-state events. Its objective is warning, shelter, and continuance. It does not seek control of anomalies. It does not seek to awaken a god, collapse normalcy, or punish unbelievers. It wants people to have food, routes, bells, apologies, and names before the dangerous sky arrives.
 
 This objective aligns with A.C.T when early preparation reduces casualties. It conflicts with A.C.T when public warnings expose restricted patterns, move civilians through unapproved routes, or create panic before field teams can verify hazard.
 
-## Anomalous Capability Assessment
+### Anomalous Capability Assessment
 
 Last Bell Congregation is assigned **Practitioner** capability because some bell rites and calendar practices produce repeatable warning or stabilizing effects beyond ordinary preparedness. Confirmed or strongly assessed practices include:
 
@@ -177,7 +177,7 @@ Last Bell Congregation is assigned **Practitioner** capability because some bell
 
 The Congregation is not assessed as Engineering. Its practice relies on bells, repetition, prophecy handling, trained attention, shelters, and communal readiness rather than manufactured anomaly devices.
 
-## Secrecy and Civilian Exposure
+### Secrecy and Civilian Exposure
 
 Last Bell is **Leaking** because warnings must reach people before disaster. The group may ring bells, distribute calendars, pack shelters, or move families in ways that draw public attention. Even if it avoids anomaly terminology, its actions imply knowledge of threats not admitted by government or A.C.T.
 
@@ -185,13 +185,13 @@ The group rarely publishes direct A.C.T information. Exposure comes from pattern
 
 ---
 
-# OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
+## OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
 
-## Operational Regions
+### Operational Regions
 
 Last Bell operates transnationally through churches, rural bell towers, coastal towns, mountain chapels, disaster shelters, migrant communities, border roads, old schools, and neighborhoods repeatedly affected by unexplained local endings. Site 05 is frequently attached due to coastal, maritime, volcanic, and deep-earth warning patterns. Site 01 attaches when urban shelters and public panic are active. Site 03 attaches when dreams, calendars, messages, or bell sounds carry informational hazard. Site 04 attaches when wilderness routes and isolated refuge communities are involved.
 
-## Known Assets and Holdings
+### Known Assets and Holdings
 
 Known or assessed assets include:
 
@@ -210,7 +210,7 @@ Known or assessed assets include:
 
 A.C.T has recovered several route cards and one inactive bell-ribbon set. Active true-bell notation remains restricted.
 
-## Operating Method
+### Operating Method
 
 A typical Last Bell intervention begins with signs. An Alarm Reader receives dream reports, clock failures, tide notes, animal silence, weather contradictions, or repeated phrases from local members. The Calendar Mother compares signs to prior warnings. If threshold is met, the Bellwarden rings a local warning or silent bell sequence. Shelter Deacons prepare rooms, Route Keepers distribute cards, and lay singers teach the evacuation hymn.
 
@@ -228,9 +228,9 @@ A.C.T treats unapproved prayer routes as an access-and-egress risk, especially w
 
 ---
 
-# HISTORY WITH A.C.T
+## HISTORY WITH A.C.T
 
-## Contact History
+### Contact History
 
 A.C.T first encountered Last Bell as public warning irregularities before covered disasters. Bells rang before official sirens. Chapel shelters filled before evacuation notices. Families moved inland before waters rose without forecast. Early files treated these events as coincidence, rumor, local preparedness, or leakage from municipal contacts.
 
@@ -242,7 +242,7 @@ After the event, an A.C.T field interviewer asked a Bellwarden why the church ha
 Because the sea was already answering the bell.
 ```
 
-## Current Relationship
+### Current Relationship
 
 The current relationship is **POSITIVE**. The Congregation saves civilians and improves local readiness. A.C.T may cooperate with Last Bell during verified warning windows, shelter preparation, and evacuation. The relationship is not Work because no reliable central agreement exists and many cells act independently. It is not Neutral because the group actively intervenes to preserve life. It is not Negative because false alarms and disclosure risk do not define the primary pattern.
 
@@ -250,21 +250,21 @@ A.C.T must not confuse Last Bell with Children of the Deep. Children of the Deep
 
 ---
 
-# A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
+## A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
 
-## Responsible Jurisdiction
+### Responsible Jurisdiction
 
 Primary jurisdiction rests with Intelligence Division, Civil Covert Division, and Recovery Division. Site 05 reviews maritime, seismic, volcanic, and coastal warnings. Site 01 reviews urban shelters and public movement. Site 03 reviews dreams, calendars, bell tones, and informational hazard. Subject Care attaches when families, children, grief, or post-warning panic are active.
 
 Access and egress ledgers must record Last Bell movement separately from A.C.T evacuation. A prayer route can save civilians while still breaking containment accounting.
 
-## Posture Implementation
+### Posture Implementation
 
 A.C.T posture is **MONITOR / HELP / COOPERATED**. Monitoring includes bells, warning dates, route cards, shelter ledgers, false-alarm confession records, child counters, and cells that repeatedly predict A.C.T-covered incidents. Help is authorized when Congregation shelters are threatened by actual disaster, hostile GOIs, public backlash, or unsafe overcrowding. Cooperation is authorized case-by-case when warning signs match independent A.C.T hazard indicators.
 
 A.C.T may not silence a bell solely because the warning is embarrassing. Suppression requires evidence that the bell tone itself is hazardous, the warning is false and panic-inducing, or the route plan will move civilians into greater danger.
 
-## Response Limits and Red Lines
+### Response Limits and Red Lines
 
 A.C.T will not permit Last Bell to provoke mass panic, publish active Site operations, guide civilians into containment zones, perform warning rites on children without safeguards, or use a false apocalypse to control members. A.C.T will not permit shelter leaders to refuse medical evacuation under the claim that all outsiders are part of the ending.
 
@@ -272,9 +272,9 @@ A.C.T will also not dismantle a working shelter network merely because it knows 
 
 ---
 
-# OPERATIONAL RECORDS
+## OPERATIONAL RECORDS
 
-## Restricted Operational Extract
+### Restricted Operational Extract
 
 ```text
 BELLWARDEN NOTICE: LBC / THIRD-RING COAST
@@ -314,9 +314,9 @@ The failed-calendar fragment is retained because it shows the Congregation has i
 
 ---
 
-# INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
+## INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
 
-## Confirmed Operational Facts
+### Confirmed Operational Facts
 
 - Last Bell Congregation is an outside cultic apocalypse-warning network and not an A.C.T body.
 - The Congregation maintains bell roles, shelters, calendars, route cards, food stores, and warning rites.
@@ -324,13 +324,13 @@ The failed-calendar fragment is retained because it shows the Congregation has i
 - The group can reduce civilian casualties while increasing public awareness of hidden danger.
 - The Congregation's objective is survival preparation, not apocalypse creation.
 
-## Active Intelligence Assessment
+### Active Intelligence Assessment
 
 A.C.T assesses Last Bell as a specialized POSITIVE apocalypse-worshiper GOI. The label apocalypse-worshiper must be handled carefully. Last Bell organizes life around the possibility of endings, but its worship is directed toward warning, mercy, shelter, repentance, and survival. It is not a collapse cult.
 
 The group should remain distinct from Children of the Deep and from hostile end groups. Its strongest value is early warning and civilian readiness. Its strongest risk is panic, false alarm, public pattern recognition, and unapproved evacuation through religious routes. The best A.C.T response is measured cooperation where warnings match independent indicators, with containment of hazardous bell tones or reckless public alarms.
 
-## Persistent Questions
+### Persistent Questions
 
 - Was the First Ringer a founder, a survivor of a local apocalypse, an anomalous bell, or a title for whoever first hears an active warning?
 - Do true-bell tones predict danger, detect danger, or participate in causing the warning condition to stabilize?
@@ -341,19 +341,19 @@ The group should remain distinct from Children of the Deep and from hostile end 
 - Why do failed-warning confession rites appear to reduce false alarms in some cells?
 - Are children hearing bells earlier than adults because of exposure, training, or an unresolved anomaly condition?
 
-## Intelligence Confidence
+### Intelligence Confidence
 
 Moderate. Recovered notices, shelter ledgers, confirmed warning events, and consistent roles establish organizational reality. Confidence is limited by independent cells, religious interpretation, false alarms, and unresolved mechanisms behind true-bell events. Confidence may rise if A.C.T completes a controlled shelter audit, records an active true-bell tone safely, or verifies the origin and function of the First Ringer tradition.
 
 ---
 
-# CROSS-REFERENCE STATUS
+## CROSS-REFERENCE STATUS
 
-## Anomaly and Record Relationship
+### Anomaly and Record Relationship
 
 Last Bell Congregation is an organization and therefore belongs in the GOI archive. Individual bells, calendars, shelters, route cards, dreams, warning tones, or end-state incidents may require separate anomaly, incident, access-and-egress, witness, or recovered-document files. The organization record must not replace disaster files or prophecy-effect review.
 
-## Related A.C.T Records
+### Related A.C.T Records
 
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
@@ -365,13 +365,13 @@ Last Bell Congregation is an organization and therefore belongs in the GOI archi
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md`
 - Restricted apocalypse, disaster-warning, bell-tone, shelter, prophecy, evacuation, and mass-panic case chains held under Central Archive routing.
 
-## Dual Filing
+### Dual Filing
 
 Under review. Last Bell is a cultic GOI, but specific bells, calendars, shelters, route cards, dreams, or warning tones may require separate filing. Dual filing is mandatory when a bell rings without human contact, a calendar marks a future incident with verifiable precision, a shelter changes physical capacity, a route card updates itself, or a warning rite produces measurable cognitive or environmental effect.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 ```text
 FILE CREATED:            13/09/2026

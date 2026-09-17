@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - CONCEALED PERIMETER SECTOR NETWORK
+### TECHNOLOGY RECORD - CONCEALED PERIMETER SECTOR NETWORK
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -33,7 +33,7 @@
 **Distribution:** Hollow Canopy Enclosure / Verde Null Bio-Reserve / Limited Security / Environmental Containment / Research Support
 **Authority:** Enclosure Supervisor, Limited Security Lead, Verde Null Site Command, and Central Archive
 
-### Archive Note
+#### Archive Note
 Concealed Perimeter Sector Network is the one-hundred-first main A.C.T technology expanded into an individual record. The Hollow Canopy Enclosure dossier states that the sub-site is not building-dominant; it is a concealed perimeter composed of fixed-enclosure sectors within the Bio-Reserve. Each sector is a perimeter-defined area where monitoring infrastructure is disguised as natural terrain and the boundary between anomalous flora and ordinary forest is deliberately invisible.
 
 CPSN exists because Hollow Canopy must contain without announcing where containment begins.
@@ -48,7 +48,7 @@ MARK THE LINE FOR STAFF, HIDE THE LINE FROM THE WORLD.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 The Concealed Perimeter Sector Network is the boundary-control technology that divides Hollow Canopy Enclosure into fixed sectors while preserving the appearance of continuous protected wilderness. It combines hidden perimeter markers, natural-terrain disguises, incursion detection, staff route discipline, sector identity control, environmental boundary monitoring, and rapid response coordination with Verde Null Bio-Reserve.
 
@@ -58,7 +58,7 @@ Approved roles include sector boundary definition, concealed perimeter maintenan
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Native containment fields solved the relocation problem, but they created a second problem: how to contain a resident whose room is a forest sector. Early boundaries were simple and locally understood. As the enclosure became a formal sub-site, those informal limits were no longer sufficient. Staff needed consistent boundaries, incident reconstruction, and parent-reserve visibility without exposing the sectors to ordinary research traffic.
 
@@ -66,7 +66,7 @@ CPSN developed from this need. It makes the Hollow Canopy perimeter network cohe
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A CPSN installation includes terrain-matched boundary posts, root-safe anchor points, camouflaged observation markers, path misdirection, animal-safe intrusion signals, staff-only route indicators, sector identity ledgers, environmental drift sensors, concealed alarm relays, and emergency response caches. Every component must survive weather, growth, decay, and staff rotation without becoming visible as a constructed perimeter.
 
@@ -87,7 +87,7 @@ The network must be legible to trained personnel without becoming a trail for th
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 During routine operation, Limited Security and Environmental Containment staff inspect boundary integrity, marker concealment, resident growth pressure, external approach signs, and ordinary wildlife disturbance. Research Support receives authorized sector access only through assigned routes. Any boundary drift is recorded against resident condition and environmental change.
 
@@ -95,7 +95,7 @@ If an outsider approaches, CPSN response favors redirection before force wheneve
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 CPSN is vulnerable to the same forces that make it effective: growth, rain, soil movement, animals, seasonal change, and ordinary forest complexity. Concealed markers can be swallowed by vegetation, sensors can become nests, staff routes can become accidental trails, and residents can alter the meaning of a boundary by growing through it.
 
@@ -103,20 +103,20 @@ Known failure modes include boundary drift, marker exposure, incursion, false wi
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## CPSN-Formal Sector Recognition
+### CPSN-Formal Sector Recognition
 The Hollow Canopy dossier records that the enclosure network became a formal sub-site after its native containment fields grew into a coordinated sector network. CPSN formalizes the hidden boundary system supporting that recognition.
 
-## CPSN-Incursion Response Drill
+### CPSN-Incursion Response Drill
 A field exercise showed that an overly clear staff path can guide outsiders toward a sector. Current procedure rotates and naturalizes staff approach routes.
 
-## CPSN-Boundary Drift Review
+### CPSN-Boundary Drift Review
 A resident growth event crossed an old field marker without triggering response because the marker had become obscured. Current doctrine pairs physical boundary checks with resident expansion records.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Limited Security operates patrol, incursion response, and boundary concealment. Environmental Containment monitors resident pressure against sector lines. Research Support uses assigned routes for observation. Verde Null Site Command approves sector redesign and resident perimeter changes.
 
@@ -124,7 +124,7 @@ CPSN doctrine holds that the best perimeter is one the forest appears to have ma
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SUB-04-BR-C Hollow Canopy Enclosure Sub-Site Dossier;
 - ACT-SITE-04-BR-C Verde Null Bio-Reserve Site Dossier;
@@ -134,7 +134,7 @@ CPSN doctrine holds that the best perimeter is one the forest appears to have ma
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can resident growth teach staff more accurate boundaries than original sector maps?
 - How often should concealed markers be moved before movement itself becomes pattern?
@@ -145,7 +145,7 @@ CPSN doctrine holds that the best perimeter is one the forest appears to have ma
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Limited Security Lead / Enclosure Supervisor / Central Archive

@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - RED-RIVER ACID (STABILIZED)
+### TECHNOLOGY RECORD - RED-RIVER ACID (STABILIZED)
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Hazardous Materials / Dark World Survey / Engineering / Materials Custody / Medical / White Grave  
 **Authority:** Hazardous Materials Desk, Dark World Survey, and Central Archive
 
-### Archive Note
+#### Archive Note
 Red-River Acid (Stabilized) is the forty-eighth main A.C.T technology expanded into an individual record. The Master Catalog defines it as corrosive fluid with an approximately twenty percent hydrochloric-acid equivalent, used for specialized etching and neutralization protocols. The visual guide describes bubbling red liquid stored in a reinforced ceramic jug with a Neutralization-Tab Slot for emergency shutdown of reactivity. Dark World Door files identify the Red River as a deep red liquid that bisects the explored region of AFD-PL-932 and corrodes Earth-based organic tissue and materials. Expedition Pale-01 recorded that the river hums at low frequency and that Eel-Crabs crawl from its shallows.
 
 RRA-S is not laboratory acid dyed red. It is a river sample taught to remain in a jug without remembering it was a river.
@@ -47,7 +47,7 @@ DO NOT OPEN THE JUG UNLESS THE ROOM IS READY TO LOSE WHAT THE ACID TOUCHES.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Red-River Acid (Stabilized) is a controlled preparation of corrosive Dark World fluid used for specialized etching, neutralization, residue breakdown, and limited material testing. Its raw source is the Red River inside AFD-PL-932, a deep crimson fluid with acid-like behavior, abnormal molecular weight, low-frequency hum, and destructive effect against Earth-based organic tissue and many standard materials. Stabilization makes the fluid transportable and briefly usable; it does not make it safe.
 
@@ -65,7 +65,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND STABILIZATION
+## ORIGIN AND STABILIZATION
 
 The Red River was first documented during AFD-PL-932 survey work. Expedition Pale-01 found a viscous crimson river emitting a low-frequency hum. Sensors measured acid behavior roughly twenty percent consistent with hydrochloric acid, but the molecular weight did not match ordinary chemistry. Eel-Crabs occupied the shallows, suggesting that the fluid is part of an ecology rather than a dead chemical pool.
 
@@ -75,7 +75,7 @@ RRA-S remains tied to Dark World Survey because the material's behavior may depe
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 RRA-S appears as bubbling red liquid, usually darker than blood and brighter than rust. It may emit a low hum through the container under quiet conditions. Standard storage uses reinforced ceramic jugs with sealed lids, carry frames, temperature strips, corrosion witness plates, and a Neutralization-Tab Slot built into the lid. The tab slot accepts only approved shutdown tabs; improvised bases, powders, water, or neutralizing agents are prohibited.
 
@@ -96,7 +96,7 @@ RRA-S must not be stored in titanium, standard glass, unlined steel, plastic, or
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before use, Hazardous Materials confirms container integrity, tab availability, ventilation, floor protection, and medical standby. Dark World Survey confirms sample batch, source notes, and whether the fluid was taken under red-cycle or blue-cycle conditions if known. Engineering defines the target surface and acceptable loss. White Grave command approves any work near the AFD-PL-932 threshold.
 
@@ -106,7 +106,7 @@ After use, the target area is checked for delayed corrosion, residue smoke, hum 
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 RRA-S is not a universal dissolver. Pale Wood resists Red River contact in expedition observation. Some Dark World organisms tolerate the raw river. Stabilized acid may fail against materials that belong to its source ecology while destroying ordinary safety equipment with ease. It is also dangerous to assume that hydrochloric-acid equivalence predicts behavior. The percentage is a comparison, not an identity.
 
@@ -114,20 +114,20 @@ Known failure modes include container etching, tab misfire, delayed corrosion, h
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## RRA-1985 Titanium Jar Failure
+### RRA-1985 Titanium Jar Failure
 Sample 932-Red corroded a standard titanium jar in under fourteen minutes. Ceramic and gold-lined storage became mandatory after the event. Titanium is no longer accepted as evidence of chemical safety in Dark World acid work.
 
-## RRA-2024 Neutralization Tab Delay
+### RRA-2024 Neutralization Tab Delay
 A stabilized sample continued bubbling after tab insertion for seventeen seconds. The reaction stopped before breach, but operators had already moved toward the jug. Procedure now requires distance until the hum monitor confirms shutdown.
 
-## RRA-2026 Over-Etch Test
+### RRA-2026 Over-Etch Test
 A small etching trial removed the intended residue and part of the substrate beneath it. Engineering now defines acceptable material loss before RRA-S exposure and forbids open-ended cleaning requests.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Hazardous Materials controls storage, handling, tab systems, spill response, and disposal. Dark World Survey tracks source conditions and raw behavior. Engineering requests etching or neutralization under written plans. Materials Custody records sample chain and ceramic container history. Medical prepares exposure response for acid contact and vapor irritation. White Grave controls proximity to AFD-PL-932.
 
@@ -135,7 +135,7 @@ Standing reminder: the Red River is not contained because it is in a jug. It is 
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 49;
 - ACT Technological Visual Reference Guide, Item 49;
@@ -148,7 +148,7 @@ Standing reminder: the Red River is not contained because it is in a jug. It is 
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Does RRA-S retain any relationship to the Red River after extraction?
 - Can source moon cycle alter stabilized acid behavior?
@@ -159,7 +159,7 @@ Standing reminder: the Red River is not contained because it is in a jug. It is 
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Hazardous Materials Desk / Dark World Survey / Central Archive  

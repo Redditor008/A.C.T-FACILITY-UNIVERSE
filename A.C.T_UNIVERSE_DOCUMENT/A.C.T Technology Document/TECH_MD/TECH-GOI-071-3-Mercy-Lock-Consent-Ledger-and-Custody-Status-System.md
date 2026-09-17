@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - MERCY LOCK CONSENT LEDGER AND CUSTODY STATUS SYSTEM
+### TECHNOLOGY RECORD - MERCY LOCK CONSENT LEDGER AND CUSTODY STATUS SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Legal / Medical / Subject Care / Containment / Intelligence / Archive
 **Authority:** Legal Division, Medical Division, Subject Care Division, Intelligence Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Mercy Lock Consent Ledger and Custody Status System is the third registered technology record derived from Mercy Lock Institute. Mercy Lock dossiers identify consent ledgers with voluntary, substitute, disputed, and emergency custody markings, and A.C.T has observed transfer agreements where patient safety requirements overrode faster containment handling. Mercy Lock claims dangerous abnormal conditions do not erase personhood; MLCLCSS is the record system that gives that claim operational weight.
 
 A.C.T acquired partial understanding through cooperative transfers, inspected wards, recovered transfer cards, and legal review. Full ledger construction, identity-resistance methods, and disputed guardianship files remain withheld.
@@ -47,7 +47,7 @@ RECORD WHO MAY SAY YES, WHO IS SAYING NO, AND WHY THE LOCK IS STILL LAWFUL WHEN 
 
 ---
 
-# FUNCTION OUTLINE
+## FUNCTION OUTLINE
 
 Mercy Lock Consent Ledger and Custody Status System is a custody-record technology used to track consent, refusal, substitute decision authority, emergency restraint justification, family risk, advocate objection, and legal standing for anomalous residents whose identities, bodies, names, memories, or public statuses may not remain stable. The ledger prevents restraint plans from becoming unaccountable simply because the patient is difficult to classify.
 
@@ -57,7 +57,7 @@ Approved A.C.T use includes cooperative transfer, legal custody review, patient-
 
 ---
 
-# ORIGIN, CUSTODY, AND OWNERSHIP
+## ORIGIN, CUSTODY, AND OWNERSHIP
 
 Mercy Lock likely developed consent ledgers from medical consent forms, guardianship records, hospice directives, disability advocacy files, and anomaly-specific identity safeguards. A.C.T has not confirmed whether ledger persistence through memory or identity fluctuation is legal discipline, anomalous record behavior, or a combination of both. The Institute's own persistent question asks whether consent ledgers resist NEMNOLIA-series amnestic effects or only ordinary record loss.
 
@@ -65,7 +65,7 @@ A.C.T custody is limited to copies of transfer-relevant fields, inactive forms, 
 
 ---
 
-# PHYSICAL AND SYSTEM DESCRIPTION
+## PHYSICAL AND SYSTEM DESCRIPTION
 
 Observed ledgers appear as bound books, sealed medical files, digital custody forms, consent marker cards, ward-door slots, transfer packets, and advocate-held duplicates. Repeated status categories include voluntary custody, substitute consent, emergency custody, disputed custody, failed plan review, and dual-key approval for high-risk residents.
 
@@ -86,7 +86,7 @@ The ledger is designed to follow the patient across ward, ambulance, A.C.T medic
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before A.C.T accepts a Mercy Lock transfer, MLCLCSS fields must record patient condition, lawful custody basis, who may authorize care, what the patient objects to, what the patient must not be called, whether the bell travels, whether hand restraints are prohibited, and which conditions trigger emergency override. Legal must verify custody authority. Medical must verify clinical necessity. Subject Care must review whether communication or advocacy has been erased.
 
@@ -94,7 +94,7 @@ During joint operation, changes to patient identity, memory, body, risk, or comm
 
 ---
 
-# KNOWN LIMITS AND FAILURE CONDITIONS
+## KNOWN LIMITS AND FAILURE CONDITIONS
 
 MLCLCSS can preserve consent structure, but it cannot solve every moral or legal problem. A ledger may be accurate and still be ignored. A guardian may be lawful and unsafe. A patient may be unable to consent in ordinary speech but still communicate refusal. Emergency custody can become ordinary custody if staff stop reviewing it. A hostile actor could imitate ledger language to make abuse appear merciful.
 
@@ -102,20 +102,20 @@ Known failure modes include outdated identity markers, missing advocate objectio
 
 ---
 
-# FAILURE HISTORY AND RECORDED INCIDENTS
+## FAILURE HISTORY AND RECORDED INCIDENTS
 
-## MLCLCSS-White Lock Transfer Correction
+### MLCLCSS-White Lock Transfer Correction
 A cooperative heat-manifestation transfer succeeded after Mercy Lock ledger fields preserved no handcuffs, no surname, bell retained, open window, and advocate present. A.C.T's initial plan conflicted with those entries and would likely have injured staff and patient.
 
-## MLCLCSS-Grey Lock Name Instability Review
+### MLCLCSS-Grey Lock Name Instability Review
 A.C.T reviewed a report of a Grey Lock installation refusing to open for a doctor who used a patient's old legal name after instruction not to. Whether electronic, anomalous, or staff-controlled, the event confirms that ledger name fields may be containment-relevant.
 
-## MLCLCSS-Red Key Attachment Standard
+### MLCLCSS-Red Key Attachment Standard
 Failed mercy protocols require Red Key attachment so the ledger records not only the restraint plan but why that plan failed. A.C.T Legal requires such attachments before any copied system is used in temporary custody.
 
 ---
 
-# DIVISION USE AND REQUEST RULES
+## DIVISION USE AND REQUEST RULES
 
 Legal Division owns custody interpretation and lawful authority review. Medical owns clinical necessity and patient condition. Subject Care owns advocacy escalation when communication, dependency, or altered status is unstable. Containment may not override ledger restrictions for convenience. Intelligence reviews withheld fields and possible hostile misuse.
 
@@ -123,7 +123,7 @@ MLCLCSS doctrine holds that if a resident's personhood is not recorded, restrain
 
 ---
 
-# CROSS-REFERENCE STATUS
+## CROSS-REFERENCE STATUS
 
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-HY-P-071-Mercy-Lock-Institute.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/TECH-GOI-071-1-Mercy-Lock-Gentle-Lock-System.md`
@@ -132,7 +132,7 @@ MLCLCSS doctrine holds that if a resident's personhood is not recorded, restrain
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Do Mercy Lock consent ledgers resist anomalous memory alteration or only ordinary bureaucratic loss?
 - Does the First Key Table approve disputed custody, or only review it after harm occurs?
@@ -141,13 +141,13 @@ MLCLCSS doctrine holds that if a resident's personhood is not recorded, restrain
 - Which ledger fields are safe to copy into A.C.T files without exposing ward locations?
 - Can hostile GOIs forge a consent ledger convincingly enough to hide private imprisonment?
 
-## Intelligence Confidence
+### Intelligence Confidence
 
 Moderate to High. A.C.T has direct access to transfer-relevant ledger fields and legal review records. Confidence is limited by withheld original ledgers, incomplete knowledge of identity-resistance behavior, and regional legal variation.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 ```text
 FILE CREATED:            16/09/2026

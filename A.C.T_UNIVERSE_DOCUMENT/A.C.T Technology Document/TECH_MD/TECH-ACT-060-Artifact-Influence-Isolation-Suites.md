@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - ARTIFACT-INFLUENCE ISOLATION SUITES
+### TECHNOLOGY RECORD - ARTIFACT-INFLUENCE ISOLATION SUITES
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Medical / Containment / Research / Security / Archive  
 **Authority:** Medical Division, Chief Medical Officer, and Central Archive
 
-### Archive Note
+#### Archive Note
 Artifact-Influence Isolation Suites are the sixtieth main A.C.T technology expanded into an individual record. Redwood Veil's F-6 floor dossier identifies Medical and Cognitive Care as the complex's primary ward level and states that it provides trauma care, memetic contamination treatment, cognitive recovery, and isolation suites for personnel undergoing artifact-influence evaluation. The dossier describes those suites as secure medical environments where personnel suspected of artifact influence are evaluated and treated away from the working population, with clinical observation, exact documentation, and care governed by medical doctrine.
 
 AIIS exists because personnel are part of the containment system, and sometimes the system has to protect itself without abandoning the person inside it.
@@ -47,7 +47,7 @@ ISOLATE THE INFLUENCE WITHOUT TURNING THE PATIENT INTO A RESIDENT.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Artifact-Influence Isolation Suites are secure medical environments used to evaluate and treat A.C.T personnel who may have been affected by anomalous artifacts, memetic contamination, deep-hold exposure, or cognition-altering containment contact. Their function is dual: protect the patient from further exposure and protect the working population from influence that may be spreading through the patient.
 
@@ -57,7 +57,7 @@ Approved roles include artifact-influence evaluation, memetic contamination trea
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 F-6 developed from the complex's recognition that containment work has medical consequences. Redwood Veil personnel handle, guard, study, and keep material that is unsafe by nature. As the complex's holdings expanded to include objects that act on the mind, the Medical Division needed secure clinical spaces for staff who might carry influence without intending harm.
 
@@ -67,7 +67,7 @@ The guiding doctrine is explicit in the F-6 record: the complex's people are par
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard AIIS unit is a secure patient room with medical-grade isolation, atmospheric separation, observation architecture, exposure-limited treatment controls, gated access, clinical monitoring, and a documentation channel that respects confidentiality while preserving operational knowledge. The suite can scale from routine isolation to full ward containment if the patient's condition becomes active or unpredictable.
 
@@ -88,7 +88,7 @@ The suite is built to protect both patient and complex. If either side is forgot
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before admission, Medical receives an exposure report from Containment, Research, Security, Recovery, or Archive. The Chief Medical Officer or delegated clinician determines whether isolation is required. The patient's restriction status, known artifact contact, symptoms, and consent condition are recorded. Security supports entry only to protect care, not to control the clinical decision.
 
@@ -98,7 +98,7 @@ After evaluation, Medical determines whether the patient may return to duty, req
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 AIIS cannot guarantee that an influence remains inside the patient. Some effects spread through speech, diagnosis, written notes, medical instruments, sympathy, memory, or the act of trying to help. The suite also cannot remove moral responsibility from staff: isolation can be clinically necessary and still frightening to the person inside it.
 
@@ -106,20 +106,20 @@ Known failure modes include isolation breach, exposure through notes, false reco
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## AIIS-Early Ward Expansion
+### AIIS-Early Ward Expansion
 F-6 grew from a small infirmary into a full ward level as site operations expanded. Isolation capability became necessary after cognitive and memetic effects joined physical trauma as routine consequences of Redwood Veil work.
 
-## AIIS-Security Boundary Review
+### AIIS-Security Boundary Review
 A clinical event required Security support inside the suite corridor. Medical review clarified that Security enforces safe access but does not command treatment. The patient's care remains under the Chief Medical Officer.
 
-## AIIS-Confidentiality Balance Review
+### AIIS-Confidentiality Balance Review
 Archive and Medical revised record handling after an exposure case required operational knowledge without general disclosure of the patient's condition. Current AIIS records separate care notes, duty-risk notes, and containment-relevant observations.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Medical Division owns admission, care, treatment, and discharge authority. Containment provides exposure history and restriction context. Research helps characterize unusual cognitive effects but does not direct care. Security supports controlled access and breach response. Archive preserves medical records under confidentiality doctrine while maintaining the operational evidence required by the Facility.
 
@@ -127,7 +127,7 @@ Standing reminder: a person can carry an anomaly and still be a patient first.
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-01-US-W-F-6 Medical and Cognitive Care Floor Dossier;
 - ACT-SITE-01-US-W Redwood Veil Complex Site Dossier;
@@ -139,7 +139,7 @@ Standing reminder: a person can carry an anomaly and still be a patient first.
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How long can clinical isolation continue before it becomes containment custody?
 - Can artifact influence hide inside ordinary trauma symptoms?
@@ -150,7 +150,7 @@ Standing reminder: a person can carry an anomaly and still be a patient first.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Medical Division / Redwood Veil F-6 / Central Archive  

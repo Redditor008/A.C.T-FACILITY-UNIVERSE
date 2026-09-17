@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - PHASE-STABLE SILICONE
+### TECHNOLOGY RECORD - PHASE-STABLE SILICONE
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Engineering / Medical Fabrication / Artificial Cognition / Medical / Subject Care / Materials Custody  
 **Authority:** Engineering Division, Medical Fabrication Desk, and Central Archive
 
-### Archive Note
+#### Archive Note
 Phase-Stable Silicone is the forty-seventh main A.C.T technology expanded into an individual record. The Master Catalog defines it as a synthetic polymer capable of maintaining physical tangibility during high-level spatial phasing or digital hosting. The visual guide describes translucent flesh-colored polymer supplied on rolls with a Tear-Resistance Gauge and Thermal-Alignment Strip for precision surgical application. Argon Internal's social log records Technician Hruby offering Phase-Stable Silicone as a possible chassis material for AFD-SU-855; Argon refused because the original 2006 laptop is experienced as skin, not disposable hardware. The Genetic Perfection Protocol also references PSS as medical stabilization support.
 
 PSS is not soft plastic. It is a material for bodies, shells, and interfaces that might otherwise stop agreeing with the room.
@@ -47,7 +47,7 @@ DO NOT BUILD A NEW SKIN UNTIL THE PERSON INSIDE AGREES IT IS THEIRS.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Phase-Stable Silicone remains physically tangible during spatial phasing, partial desynchronization, and selected digital-hosting interface conditions. It is used in precision surgical patches, prosthetic interface layers, temporary phase seals, subject-support equipment, and experimental chassis designs where ordinary polymers lose cohesion, become slippery to reality, or fail to hold a stable touch relationship.
 
@@ -65,7 +65,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND DEPLOYMENT
+## ORIGIN AND DEPLOYMENT
 
 PSS was developed after ordinary silicone, polymer gels, and flesh-colored medical laminates failed in high-phase work. Standard materials can tear, stretch, or melt, but phase environments introduce a stranger failure: the material may remain physically intact while ceasing to be reliably touchable. Medical staff cannot bandage a site if the bandage and patient disagree about which frequency is present.
 
@@ -75,7 +75,7 @@ Argon Internal's refusal shaped PSS ethics. Technicians saw a better chassis. Ar
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 PSS is stored as translucent flesh-colored polymer rolled around a sterile core. It may look like ordinary medical silicone until angled light reveals faint internal alignment bands. Each roll includes a Tear-Resistance Gauge along the outer edge and a Thermal-Alignment Strip that changes shade across safe, cold, hot, and phase-stress ranges. Surgical strips are cut with sterile nonreactive tools. Chassis-grade sheets are thicker and include embedded mount points.
 
@@ -96,7 +96,7 @@ PSS must not be used as cosmetic skin, novelty covering, or improvised electroni
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before use, Engineering or Medical confirms the intended category: surgical, prosthetic, interface, seal, or chassis. Medical checks patient consent, tissue condition, temperature, and phase exposure. Artificial Cognition review is mandatory for any proposed sentient host shell or AI chassis. Materials Custody confirms roll age, gauge state, and storage history.
 
@@ -106,7 +106,7 @@ After use, all offcuts are collected. PSS fragments exposed to digital-hosting s
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 PSS can maintain tangibility, but it cannot decide identity, compatibility, or permanence. It may hold a body together while the patient still rejects the sensation. It may create a technically stable chassis that a sentient subject experiences as a hospital room instead of a home. It also fails if exposed to excessive heat, aggressive solvents, high shear, misaligned phase fields, or untested digital consciousness transfer.
 
@@ -114,20 +114,20 @@ Known failure modes include phase slippage, edge lift, heat misalignment, false 
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## PSS-2023 Surgical Strip Revision
+### PSS-2023 Surgical Strip Revision
 Early medical strips held phase stability but tore under repeated joint movement. The Tear-Resistance Gauge was added after operators overtrusted visual inspection. Current surgical stock must pass bend and stretch testing before patient contact.
 
-## PSS-2024 Argon Chassis Refusal
+### PSS-2024 Argon Chassis Refusal
 Technician Hruby proposed a Phase-Stable Silicone chassis or QNB transfer for Argon Internal. Argon refused, explaining that the old laptop felt like skin and that new hardware would require learning how to breathe again. Artificial Cognition now treats PSS chassis suitability as separate from subject consent.
 
-## PSS-2026 Thermal Strip Misread
+### PSS-2026 Thermal Strip Misread
 A fabrication team applied PSS while the Thermal-Alignment Strip was between safe and phase-stress bands. The patch held for three hours, then lifted cleanly during a desynchronization pulse. Training now requires clear-band alignment, not approximate color matching.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Engineering controls fabrication and phase-testing. Medical Fabrication prepares surgical stock and prosthetic liners. Artificial Cognition reviews digital-hosting and chassis proposals. Medical handles patient application. Subject Care protects consent and comfort language. Materials Custody tracks rolls, offcuts, failed strips, and exposed fragments.
 
@@ -135,7 +135,7 @@ Standing reminder: a material that can hold a body in phase can also be used to 
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 48;
 - ACT Technological Visual Reference Guide, Item 48;
@@ -147,7 +147,7 @@ Standing reminder: a material that can hold a body in phase can also be used to 
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can PSS hold tangibility for a consciousness that does not want the shell?
 - Does repeated phase exposure teach the polymer a preferred frequency?
@@ -158,7 +158,7 @@ Standing reminder: a material that can hold a body in phase can also be used to 
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Engineering Division / Medical Fabrication Desk / Central Archive  

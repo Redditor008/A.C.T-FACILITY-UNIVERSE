@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - REINFORCED IRON CAGING
+### TECHNOLOGY RECORD - REINFORCED IRON CAGING
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Historical Engineering Archive / Heavy Containment / Engineering / Site Safety / Archive  
 **Authority:** Historical Engineering Archive, Heavy Containment, and Central Archive
 
-### Archive Note
+#### Archive Note
 Reinforced Iron Caging is the fifty-fourth main A.C.T technology expanded into an individual record. The Technological Evolution Timeline places RIC in the 1860s and identifies it as the first standardized Massive Box design, using multi-layered iron hulls to contain high-mass biological subjects. Current classification doctrine defines Massive Box structures as industrial-grade enclosures for oversized entities, large-scale hazards, or high-volume enclosures requiring heavy structural containment. Modern A.C.T systems such as Abyssal Anchor Plating and Abyssal Masonry grew from the problem RIC first made visible: a very large anomaly is not held by a larger room alone.
 
 RIC is not honored because cages are humane. It is preserved because A.C.T must remember the difference between containing a body and understanding a resident.
@@ -47,7 +47,7 @@ IF THE CAGE IS THE ONLY PLAN, THE PLAN IS ALREADY TOO SMALL.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Reinforced Iron Caging was a legacy heavy-containment system designed for large biological subjects and high-mass entities before modern Massive Box architecture existed. Its purpose was to create a physical enclosure strong enough to resist impact, weight, climbing, biting, bending, and simple escape attempts. It standardized multi-layered iron hulls, bar spacing, service gaps, external locking frames, and surrounding work clearance.
 
@@ -57,7 +57,7 @@ RIC is retired from new resident assignment. Surviving cages are historical stru
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 The 1860s Foundational Era was still governed by physical containment and passive barrier logic. A.C.T had lead vaults for artifacts, vacuum chambers for signatures, and clockwork attempts at sequence control, but larger biological subjects required a different answer. The old question was simple and brutal: what can hold a creature too large for a room built for people?
 
@@ -67,7 +67,7 @@ The system's limits became clear over time. Large subjects did not only push. Th
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard RIC installation used multi-layered iron hulls, cross-braced bars, riveted plates, external locking beams, heavy hinge trees, service slots, reinforced floor pins, and inspection galleries set outside reach. Some cages included sliding feed drawers, drainage troughs, chain points, and emergency drop shutters. Surviving examples show repeated patching and mismatched ironwork from decades of repair.
 
@@ -88,7 +88,7 @@ No RIC structure is treated as resident-ready without modern review. Iron can pr
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 No new anomaly may be assigned to RIC as a primary containment structure without Level 4 review and a written explanation of why modern Massive Box or Enclosure Box construction is unavailable. Surviving cages must be inspected for corrosion, hinge wear, floor-pin integrity, deformation, and residue before staff enter or lean equipment against them.
 
@@ -98,7 +98,7 @@ Emergency use is limited to short-duration delay, not long-term holding.
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 RIC is physically honest and conceptually narrow. It can resist force until it cannot. It cannot absorb psychic fluctuation, compensate for gravity stress, neutralize heat, provide humane medical access, or correct spatial distortion. It can also worsen containment by encouraging staff to treat a subject as a beast in a cage rather than a resident under an A.C.T file.
 
@@ -106,20 +106,20 @@ Known failure modes include bar bending, rivet shear, hinge seizure, floor-pin p
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## RIC-1874 Bar Memory Event
+### RIC-1874 Bar Memory Event
 A retired cage segment continued to flex outward after removal from its chamber, returning to the shape forced into it by its former resident. The segment was sealed as evidence that heavy containment structures can preserve stress history.
 
-## RIC-1912 Masonry Transition Review
+### RIC-1912 Masonry Transition Review
 The introduction of Abyssal Masonry shifted heavy containment away from iron-only logic. Reviewers concluded that walls needed to dampen pressure, not merely oppose it. RIC remained in old rooms but stopped defining the future standard.
 
-## RIC-2024 Welfare Audit
+### RIC-2024 Welfare Audit
 A modern audit found that one inactive legacy cage was still being used as an intimidation barrier during transfer drills. Site Command ordered removal from training use. The audit clarified that historical containment hardware cannot be used to teach cruelty as discipline.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Historical Engineering Archive preserves drawings, cage fragments, and repair ledgers. Heavy Containment uses RIC records to trace the ancestry of Massive Box design. Engineering studies old stress failures before retrofitting older rooms. Site Safety controls corrosion and sharp-edge hazards. Archive links RIC to the development of containment structure categories so staff understand why Massive Box means more than size.
 
@@ -127,7 +127,7 @@ Standing reminder: iron bars taught A.C.T how strong a wall could be. The reside
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Evolution Timeline, 1860s Reinforced Iron Caging entry;
 - ACT Anomaly Classification Manual Archive, Containment Structure Category;
@@ -139,7 +139,7 @@ Standing reminder: iron bars taught A.C.T how strong a wall could be. The reside
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which high-mass biological subjects shaped the earliest RIC dimensions?
 - Did any surviving cage become anomalous through stress memory or resident contact?
@@ -150,7 +150,7 @@ Standing reminder: iron bars taught A.C.T how strong a wall could be. The reside
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Historical Engineering Archive / Heavy Containment / Central Archive  

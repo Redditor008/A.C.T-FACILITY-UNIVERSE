@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## GROUP OF INTEREST REGISTRY - SAINT-VERA RESTORATION CONCERN
+### GROUP OF INTEREST REGISTRY - SAINT-VERA RESTORATION CONCERN
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -68,7 +68,7 @@
 **Distribution:** Medical / Subject Care / Intelligence / Recovery / Containment / Civil Covert / Command
 **Authority:** Medical Division, Subject Care Division, Intelligence Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Saint-Vera Restoration Concern is the active corporate filing for an outside medical, surgical, prosthetic, and survivor-restoration institution that treats people damaged or altered by anomalous events. The group is not filed as a single black clinic, a charity hospital, a rogue doctor, or an ordinary biotechnology firm. It qualifies as a Group of Interest because its care network recurs across separate jurisdictions, its procedures produce outcomes conventional medicine cannot explain, its patient-protection policies can obstruct A.C.T custody, and its restoration technology directly affects Transformation review, E-Class evaluation, memory aftercare, and public normalcy management.
 
 The relationship class is **POSITIVE**. Saint-Vera Restoration Concern has repeatedly saved patients who would otherwise die, remain disfigured beyond civilian support, lose speech, lose legal identity, remain trapped in partial transformation, or be abandoned as unrecoverable. This file must preserve that positive function. The Concern is not safe, obedient, or transparent. It withholds surgical source records, hides some patients, refuses certain reversals, and treats dignity as a medical requirement even when containment demands faster classification. Those conflicts do not erase the observed protective outcome.
@@ -77,9 +77,9 @@ Patient names, mobile clinic routes, and restoration failures are censored under
 
 ---
 
-# IDENTITY AND INSTITUTIONAL FUNCTION
+## IDENTITY AND INSTITUTIONAL FUNCTION
 
-## Group Function
+### Group Function
 
 Saint-Vera Restoration Concern functions as an outside post-anomaly medical restoration institution. Its repeated activity is the treatment, stabilization, reconstruction, prosthetic support, and long-term aftercare of people whose bodies or senses have been damaged by anomalous contact. The Concern operates in the space between hospital care, subject care, field triage, transformation review, and civilian reintegration.
 
@@ -87,7 +87,7 @@ Known service categories include limb reconstruction after predatory-space incid
 
 A.C.T tracks Saint-Vera because the group answers a question official containment often delays: after survival, what kind of life is still available? A.C.T can classify an injury, isolate a subject, issue amnestics, or open Transformation review. Saint-Vera treats the survivor first and argues about classification later.
 
-## Public Presence and Concealment
+### Public Presence and Concealment
 
 Saint-Vera appears publicly through restoration clinics, charitable surgery funds, mobile prosthetic vans, trauma-recovery wards, discreet rehabilitation houses, religious medical foundations, refugee health partnerships, anonymous hospital grants, and private surgical consultancies. Some front clinics are legally registered and perform ordinary reconstructive work. Others appear only after abnormal mass-casualty events and close before civil licensing bodies can inspect them.
 
@@ -101,15 +101,15 @@ This phrase appears in multiple languages and is the clearest reason Subject Car
 
 ---
 
-# ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
+## ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
 
-## Leadership Condition
+### Leadership Condition
 
 No founder is confirmed. Recovered documents refer to the Vera Board, the Glass Theatre, the Green Thread Directorate, the Office of Gentle Refusal, and a surgical authority called First Restorer. A.C.T has not confirmed whether First Restorer is a living physician, a rotating title, a dead founder preserved as doctrine, a machine-assisted decision office, or a legend used to discipline staff.
 
 Several surgeons have been identified using sealed restoration licenses rather than national medical credentials. At least two were conventional physicians before joining Saint-Vera. One is an altered survivor whose hands were reconstructed after [CENSOR: SITE-TRANSFER INCIDENT]. No confirmed leader has accepted direct A.C.T interview.
 
-## Internal Structure
+### Internal Structure
 
 A.C.T assessment identifies these functional layers:
 
@@ -124,7 +124,7 @@ A.C.T assessment identifies these functional layers:
 
 This structure separates the Concern from a secret hospital. It is a corporate and charitable medical network with doctrine, professional roles, routes, records, funding, and repeated behavior.
 
-## Membership and Recruitment
+### Membership and Recruitment
 
 Membership includes surgeons, nurses, prosthetic makers, trauma counselors, medical drivers, clerks, material handlers, legal advocates, donors, and patient escorts. Some staff appear to be ordinary medical professionals hired into specialized humanitarian work. Others know the anomalous source of the procedures and use vocabulary that does not match conventional medicine.
 
@@ -138,9 +138,9 @@ A.C.T has not confirmed whether Saint-Vera recruits from former A.C.T personnel.
 
 ---
 
-# IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
+## IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
 
-## Stated Belief
+### Stated Belief
 
 The most repeated internal doctrine line reads:
 
@@ -152,13 +152,13 @@ Saint-Vera believes that treatment is not complete when a patient merely remains
 
 The Concern does not deny that altered survivors can be dangerous. Its records include quarantine language, sedation thresholds, locked wards, and transfer protocols. Its objection is to reducing every altered body to a hazard before the survivor is asked what they remember, want, fear, or can still do.
 
-## Assessed Objective
+### Assessed Objective
 
 A.C.T assesses that Saint-Vera seeks to build a parallel care route for anomaly survivors who might otherwise disappear into containment, institutional fear, family rejection, or medical impossibility. Its objective is not open public disclosure. The Concern usually conceals anomalous causation as carefully as A.C.T does. The difference is priority: Saint-Vera conceals to protect the patient; A.C.T conceals to protect normalcy and containment operations.
 
 The Concern also appears to collect restoration knowledge across cases. Each treatment improves its practical capacity. This creates long-term risk. A positive group with a growing archive of altered tissue, post-anomaly bodies, memory-sensitive consent forms, and surgical failure data can become a power even without hostile intent.
 
-## Anomalous Capability Assessment
+### Anomalous Capability Assessment
 
 Saint-Vera is assigned **Engineering** capability because it repeatedly produces restoration outcomes through tools, procedures, and materials not explainable by ordinary medicine. Confirmed or strongly assessed capabilities include:
 
@@ -173,7 +173,7 @@ Saint-Vera is assigned **Engineering** capability because it repeatedly produces
 
 The Concern is not assessed as capable of broad resurrection. Claims that Saint-Vera can restore the dead are treated as rumor unless a case file confirms biological death, identity continuity, and post-procedure condition under A.C.T observation.
 
-## Secrecy and Civilian Exposure
+### Secrecy and Civilian Exposure
 
 Saint-Vera is **Leaking** because its patients return to civilian life changed, repaired, or partially restored. A person with a living prosthetic, impossible scar, replacement voice, or nonstandard organ support can expose anomaly reality through existence alone. The Concern uses cover diagnoses, charity paperwork, and rehabilitation language to reduce exposure, but it will not always erase a survivor's memory to protect normalcy.
 
@@ -181,15 +181,15 @@ This leakage often occurs through compassion. Families want explanations. Surviv
 
 ---
 
-# OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
+## OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
 
-## Operational Regions
+### Operational Regions
 
 Saint-Vera operates through transnational post-incident care routes. Confirmed or strongly assessed appearances include disaster shelters, refugee corridors, pediatric and adult trauma wards, private rehabilitation houses, isolated rural clinics, mobile surgical vans, port clinics, and blackout medical tents near breach-adjacent neighborhoods. The Concern often appears where official hospitals are overwhelmed, where survivors fear detention, or where A.C.T arrival is delayed by jurisdictional conflict.
 
 Site jurisdiction varies by case. Site 04 attaches often when non-natural biology or transformed tissue is involved. Site 03 attaches when speech, identity, memory, or record continuity is affected. Site 01 attaches when urban hospitals, insurance records, and public concealment are active. Central review is required when E-Class, irreversible transformation, or patient disappearance from civic systems appears.
 
-## Known Assets and Holdings
+### Known Assets and Holdings
 
 Known or assessed assets include:
 
@@ -207,7 +207,7 @@ Known or assessed assets include:
 
 A.C.T has recovered small tool kits and incomplete patient cards but no full surgical manual. Medical Division warns that copying Saint-Vera technique from fragments could permanently worsen survivor condition.
 
-## Operating Method
+### Operating Method
 
 A typical Saint-Vera intervention begins after a person survives injury that conventional medicine cannot stabilize or explain. A clinic, ambulance, nurse, patient advocate, or anonymous funding offer appears. The patient is moved, treated in place, or marked for delayed restoration. If A.C.T is present, the Concern may request a monitored-care agreement. If A.C.T is not present, the group may conceal the patient until immediate death risk passes.
 
@@ -225,9 +225,9 @@ These labels are clinically useful and politically provocative. They imply that 
 
 ---
 
-# HISTORY WITH A.C.T
+## HISTORY WITH A.C.T
 
-## Contact History
+### Contact History
 
 A.C.T's consolidated contact history began after Medical Division found repeated restoration signatures in unrelated survivor cases. Patients from separate incidents displayed similar green-thread scar closures, identical consent-card language, and prosthetic components that did not match any registered manufacturer. Early cases were mistaken for isolated black-clinic treatment, family-funded experimental medicine, or post-anomaly spontaneous recovery.
 
@@ -240,7 +240,7 @@ Do not classify before the fever breaks.
 
 Medical Division confirmed that the intervention prevented airway failure. Intelligence Division confirmed that the ambulance route had been altered by unauthorized personnel. Both findings remain true.
 
-## Current Relationship
+### Current Relationship
 
 The current relationship is **POSITIVE**. Saint-Vera saves survivors, reduces suffering, and preserves patient dignity in cases where fear of anomaly status can lead to abandonment or excessive restriction. A.C.T may cooperate with the Concern in limited medical transfer, aftercare, and stabilization cases.
 
@@ -248,21 +248,21 @@ The relationship is not Work because no stable operating agreement exists and th
 
 ---
 
-# A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
+## A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
 
-## Responsible Jurisdiction
+### Responsible Jurisdiction
 
 Primary jurisdiction rests with Medical Division and Subject Care Division, with Intelligence Division monitoring corporate structure, funding, and patient movement. Recovery Division attaches when a Saint-Vera route removes a survivor from an active field scene. Civil Covert Division attaches when hospitals, family records, insurance claims, death certificates, or public disability systems are affected. Transformation Review Board participation is required when procedures stabilize or preserve altered-body states.
 
 E-Class review must use the correct designation: Excommunicated Class. Saint-Vera cases may involve personnel or survivors whose relationship to A.C.T duty, memory, body status, or public identity has become unstable, but no Saint-Vera file may redefine E-Class as exposure classification.
 
-## Posture Implementation
+### Posture Implementation
 
 A.C.T posture is **COOPERATED / MONITOR / HELP / APPROPRIATE**. Cooperation is authorized for patient stabilization, restorative consultation, prosthetic safety review, and aftercare planning when the Concern agrees to verified identity protection. Monitoring includes mobile clinic sightings, surgical labels, patient-card language, donor routes, sealed restoration licenses, and recovered green-thread material. Help is authorized when Saint-Vera treatment is the only known way to keep a survivor alive or communicative.
 
 Appropriation is limited to tools, material samples, or records not required for ongoing patient care. A.C.T may not seize a life-sustaining prosthetic or stabilizer for research convenience.
 
-## Response Limits and Red Lines
+### Response Limits and Red Lines
 
 A.C.T will not permit Saint-Vera to hide contagious transformation, prevent emergency quarantine, falsify consent, experiment without patient understanding, sell restored patients to private backers, or obstruct necessary containment of a survivor who is actively endangering others. A.C.T will not permit patient advocacy to become disappearance.
 
@@ -270,9 +270,9 @@ A.C.T will also not treat every Saint-Vera patient as contraband. If a survivor 
 
 ---
 
-# OPERATIONAL RECORDS
+## OPERATIONAL RECORDS
 
-## Restricted Operational Extract
+### Restricted Operational Extract
 
 ```text
 PATIENT TRANSFER CARD: SVRC / GREEN THREAD ROUTE
@@ -309,9 +309,9 @@ The failure label is retained because it proves that Saint-Vera refuses some pro
 
 ---
 
-# INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
+## INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
 
-## Confirmed Operational Facts
+### Confirmed Operational Facts
 
 - Saint-Vera Restoration Concern is an outside corporate medical network and not an A.C.T medical division.
 - The Concern has repeatedly treated anomaly survivors across separate jurisdictions.
@@ -319,13 +319,13 @@ The failure label is retained because it proves that Saint-Vera refuses some pro
 - The group protects patient dignity and consent but withholds leadership, source materials, route maps, and full failure records.
 - Several Saint-Vera interventions have obstructed A.C.T custody while preventing patient death or severe deterioration.
 
-## Active Intelligence Assessment
+### Active Intelligence Assessment
 
 A.C.T assesses Saint-Vera as a specialized positive corporate GOI. Its strongest value is survivor restoration after anomaly harm. Its strongest danger is independent medical authority over bodies A.C.T may classify as hazardous, transformed, evidence-bearing, or no longer conventionally human.
 
 The Concern should not be reduced to benevolent doctors or illegal surgeons. It is a real outside medical institution with corporate shells, routes, doctrine, technology, patient ledgers, and refusal boards. Its existence forces A.C.T to distinguish containment from care, custody from protection, and restoration from forced normalization.
 
-## Persistent Questions
+### Persistent Questions
 
 - Who or what is First Restorer?
 - What is the source of green-thread stabilizer and glass theatre lighting?
@@ -336,19 +336,19 @@ The Concern should not be reduced to benevolent doctors or illegal surgeons. It 
 - Why do some prosthetics remember movement the patient never learned before the incident?
 - How many Saint-Vera patients later enter Excommunicated Class review?
 
-## Intelligence Confidence
+### Intelligence Confidence
 
 Moderate. Patient outcomes, repeated labels, restoration signatures, and mobile clinic patterns confirm organizational continuity and anomalous medical capability. Leadership, material source, total patient count, and long-term procedure cost remain unresolved. Confidence may rise if A.C.T secures a full cold ledger, conducts a monitored joint surgery, or interviews a verified member of the Green Thread Directorate.
 
 ---
 
-# CROSS-REFERENCE STATUS
+## CROSS-REFERENCE STATUS
 
-## Anomaly and Record Relationship
+### Anomaly and Record Relationship
 
 Saint-Vera Restoration Concern is an organization and therefore belongs in the GOI archive. Individual tools, prosthetics, restored organs, surgical theaters, consent forms, or patient conditions may require separate anomaly, medical, transformation, incident, or E-Class review records. The organization record must not replace patient files. Patient files must not reduce the organization to a single procedure.
 
-## Related A.C.T Records
+### Related A.C.T Records
 
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
@@ -358,13 +358,13 @@ Saint-Vera Restoration Concern is an organization and therefore belongs in the G
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Complete_Designation_and_Class_Reference.md`
 - Restricted restoration, transformation, patient-aftercare, prosthetic-custody, and E-Class review chains held under Central Archive routing.
 
-## Dual Filing
+### Dual Filing
 
 Under review. Saint-Vera is a corporate GOI, but specific medical objects or patient conditions may require dual filing. Dual filing is mandatory for any prosthetic, organ support, surgical tool, consent form, or restoration theater that acts independently, reproduces, alters memory, changes identity continuity, or remains active after separation from Saint-Vera personnel.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 ```text
 FILE CREATED:            13/09/2026

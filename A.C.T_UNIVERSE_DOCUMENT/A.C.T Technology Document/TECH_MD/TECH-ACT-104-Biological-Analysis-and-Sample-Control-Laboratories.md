@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - BIOLOGICAL ANALYSIS AND SAMPLE CONTROL LABORATORIES
+### TECHNOLOGY RECORD - BIOLOGICAL ANALYSIS AND SAMPLE CONTROL LABORATORIES
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Verde Null Bio-Reserve / Research / Medical / Environmental Containment / Archive / Security
 **Authority:** Laboratory and Medical Chief, Research Division Command, Verde Null Site Command, and Central Archive
 
-### Archive Note
+#### Archive Note
 Biological Analysis and Sample Control Laboratories are the one-hundred-fourth main A.C.T technology expanded into an individual record. The Verde Null F-3 dossier identifies the Laboratory and Medical Level as the reserve's scientific and medical heart: biological analysis laboratories, sample processing facilities, containment research suites, medical facilities, data offices, and documentation custody. It states that material drawn from holding floors and enclosure sectors is controlled through documented transfer, controlled handling, and verified return.
 
 BASCL exists because Verde Null's wilderness containment needs built knowledge. A field can hold a resident, but a laboratory must often explain why the field is holding.
@@ -47,7 +47,7 @@ STUDY THE SAMPLE WITHOUT LOSING THE RESIDENT, THE CHAIN, OR THE CONTEXT.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 The Biological Analysis and Sample Control Laboratories are the F-3 controlled study and sample-processing technology used by Verde Null to analyze biological material from interior holding, field enclosures, cultivation vaults, medical cases, and legitimate ecological programs. The system combines regulated laboratory environments, sample transfer controls, containment-compatible benches, observation documentation, data custody, archive liaison, medical crossover review, and verified return or disposal.
 
@@ -57,7 +57,7 @@ Approved roles include biological analysis, sample processing, containment resea
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Verde Null's early remote enclosures taught the reserve that observation alone was insufficient. Staff could see that impossible biology survived in place, but containment decisions required stronger knowledge: what changed in the soil, what the resident secreted, how disease moved, which toxins were ordinary, and which growth pattern signaled breach.
 
@@ -65,7 +65,7 @@ F-3 developed as the built complement to outdoor containment. The laboratories g
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A BASCL installation includes biological analysis labs, sample processing rooms, containment-compatible work surfaces, regulated micro-environments, transfer hatches, specimen lockers, chain-of-custody terminals, data and documentation offices, medical crossover benches, decontamination points, and archive-controlled record links.
 
@@ -86,7 +86,7 @@ The laboratory treats context as part of the sample because biological anomalies
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before sample entry, staff record origin, resident or sector link, collection method, environmental context, medical risk, required containment, research authorization, and return or disposal expectation. The sample enters through controlled transfer and remains linked to its source record. Research staff conduct analysis under suite-specific conditions. Archive liaison preserves data and chain. Medical reviews crossover where personnel exposure or subject care is involved.
 
@@ -94,7 +94,7 @@ When analysis ends, BASCL closes the chain by verified return, authorized dispos
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 BASCL cannot fully reproduce a native field, long-term habitat, or resident ecosystem. A sample can change when removed from place. It can degrade, adapt, bloom, contaminate, mislead, or lose the very relation that made it anomalous. Laboratory findings can also become dangerous when staff treat them as universal instead of source-bound.
 
@@ -102,20 +102,20 @@ Known failure modes include sample drift, cross-contamination, context loss, cha
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## BASCL-Laboratory Level Formation
+### BASCL-Laboratory Level Formation
 The F-3 dossier records that the laboratory level developed because outdoor work alone could not support Verde Null's biological analysis and containment research needs. BASCL formalizes the analysis and sample-processing functions of that floor.
 
-## BASCL-Context Loss Audit
+### BASCL-Context Loss Audit
 A sample review found that correct biological data was nearly unusable because field conditions were poorly attached. Current procedure treats environmental context as mandatory custody metadata.
 
-## BASCL-Cross-Contamination Drill
+### BASCL-Cross-Contamination Drill
 A controlled exercise showed that ordinary biological transfer habits fail around anomalous sap and soil traces. Current procedure expands decontamination and custody checks before medical crossover.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Research operates analysis and processing. Medical handles crossover with patient care and exposure response. Environmental Containment receives findings that affect field or chamber conditions. Archive preserves sample data and custody records. Security controls laboratory access and incident response.
 
@@ -123,7 +123,7 @@ BASCL doctrine holds that a sample is not truly contained until its meaning is c
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-04-BR-C Verde Null Bio-Reserve Site Dossier;
 - ACT-SITE-04-BR-C-F-3 Laboratory and Medical Level Floor Dossier;
@@ -134,7 +134,7 @@ BASCL doctrine holds that a sample is not truly contained until its meaning is c
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which samples lose anomalous meaning when removed from their field?
 - How much environmental context must be preserved before analysis is trusted?
@@ -145,7 +145,7 @@ BASCL doctrine holds that a sample is not truly contained until its meaning is c
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Laboratory and Medical Chief / Research Division / Central Archive

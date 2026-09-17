@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## GROUP OF INTEREST REGISTRY - LULLABY WORKS
+### GROUP OF INTEREST REGISTRY - LULLABY WORKS
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -68,7 +68,7 @@
 **Distribution:** Intelligence / Subject Care / Recovery / Containment / Medical / Civil Covert / Command
 **Authority:** Intelligence Division and Subject Care Division, with Central Archive custody
 
-### Archive Note
+#### Archive Note
 Lullaby Works is the active corporate filing for an outside manufacturer and donation network that produces anomalous child-protection objects disguised as toys, nursery goods, school comfort materials, night-care devices, and playroom supplies. The group is not filed as a single toy maker, a novelty brand, a charity, or a haunted-object series. It qualifies as a Group of Interest because its products recur across separate incidents, its distribution routes cross jurisdictions, its protective effects are consistent enough to save children, and its refusal to submit full manufacturing records prevents A.C.T from treating the network as a simple supplier.
 
 The relationship class is **POSITIVE**. This does not make the group safe. It means the organization's primary observed function is protective: children survive, sleep, speak, remember, or remain hidden from predators that ordinary adults cannot perceive. A.C.T is required to preserve that fact when evaluating seizures. Lullaby Works has caused containment problems, normalcy leakage, product-dependency risks, and classified-memory complications, but the file may not flatten the group into an enemy corporation without evidence.
@@ -77,9 +77,9 @@ Several product names, child identities, and school donation locations are censo
 
 ---
 
-# IDENTITY AND INSTITUTIONAL FUNCTION
+## IDENTITY AND INSTITUTIONAL FUNCTION
 
-## Group Function
+### Group Function
 
 Lullaby Works functions as a child-facing anomalous manufacturing institution. Its repeated activity is the creation, repair, donation, sale, and quiet placement of objects that help minors survive anomalous fear, pursuit, abduction, memory shock, sleep contamination, predatory room events, and post-incident trauma. The objects usually resemble ordinary toys or care products: stuffed animals, nightlights, blankets, music boxes, picture books, toy radios, school pencils, paper masks, play tents, mobiles, and soft dolls.
 
@@ -91,7 +91,7 @@ IF THE CHILD CANNOT SAY WHAT HAPPENED, LET THE TOY LISTEN FIRST.
 
 The group matters because it does work A.C.T cannot publicly perform. A.C.T can contain an entity, close a street, erase a witness, or move a family under cover. Lullaby Works enters the bedroom, school bag, hospital cot, foster-care room, and disaster shelter before official containment language can arrive.
 
-## Public Presence and Concealment
+### Public Presence and Concealment
 
 Lullaby Works does not operate under one stable public brand. Its products appear through small child-care companies, discontinued nursery catalogues, hospital charity drives, local toy shops, anonymous shelter donations, online secondhand listings, school-supply relief crates, and unmarked repair vans. The visible brands are gentle, forgettable, and regionally plausible. Parents remember buying a comfort object, not joining an anomalous supply chain.
 
@@ -99,15 +99,15 @@ Known public-facing marks include a stitched half-moon, a paper lantern with clo
 
 ---
 
-# ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
+## ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
 
-## Leadership Condition
+### Leadership Condition
 
 No single founder has been confirmed. Recovered internal labels use nursery-title signatures instead of personal names, including Cradle Director, Blue Thread Office, First Nap Supervisor, Nightlight Auditor, Soft Teeth Compliance, and Goodnight Returns. A.C.T does not know whether these are departments, ranks, aliases, product lines, or offices occupied by rotating personnel.
 
 The absence of confirmed leadership is not treated as absence of organization. Lullaby Works has maintained consistent product warnings, replacement etiquette, child-safety priorities, and failure-report handling across multiple countries. Its supply chain demonstrates corporate continuity even when its shell companies dissolve.
 
-## Internal Structure
+### Internal Structure
 
 A.C.T assessment identifies the following probable layers:
 
@@ -122,7 +122,7 @@ A.C.T assessment identifies the following probable layers:
 
 This structure separates Lullaby Works from a lone creator. It behaves like a company with departments, production discipline, review processes, customer records, and crisis logistics.
 
-## Membership and Recruitment
+### Membership and Recruitment
 
 Membership likely includes ordinary employees who believe they work for specialized child-care brands, informed staff who understand anomalous design, and field personnel who know enough to avoid direct explanations. Several former hospital volunteers and foster-care contractors have been linked to repeat donation chains but deny knowledge beyond charitable procurement. A.C.T does not currently possess evidence that ordinary retail employees understand the anomalous function of the goods they sell.
 
@@ -134,9 +134,9 @@ WANTED: pattern cutters, night nurses, repair drivers, story editors, and patien
 
 ---
 
-# IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
+## IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
 
-## Stated Belief
+### Stated Belief
 
 The clearest ideological line appears in multiple care inserts:
 
@@ -148,13 +148,13 @@ Lullaby Works appears to believe that adult disbelief is itself a hazard. Its pr
 
 The group does not publicly argue against containment organizations. Its moral position is narrower: when an adult system delays because proof is incomplete, the child still needs protection tonight.
 
-## Assessed Objective
+### Assessed Objective
 
 A.C.T assesses that Lullaby Works seeks to create a distributed layer of child-first protection outside official containment systems. Its objective is not profit alone. Several product lines are donated without traceable payment, and some items appear in families with no ability to purchase them. However, the group does sell through commercial channels, uses warranty structures, and protects brand identity. A.C.T therefore treats it as a corporate GOI with positive alignment, not as a pure charity.
 
 The organization's strongest objective is immediate protection and trauma translation. Many objects do not defeat anomalies. They buy time, wake adults, hide a child, absorb a nightmare, preserve a memory, redirect attention, record a whispered statement, or allow a child to sleep safely long enough for recovery teams to intervene.
 
-## Anomalous Capability Assessment
+### Anomalous Capability Assessment
 
 Lullaby Works is assigned **Engineering** capability because it repeatedly manufactures or modifies anomalous objects with predictable child-protection functions. Confirmed examples include:
 
@@ -169,7 +169,7 @@ Lullaby Works is assigned **Engineering** capability because it repeatedly manuf
 
 A.C.T has not confirmed the manufacturing source. Product disassembly is restricted. Several items fail violently or lose protective value when opened by force.
 
-## Secrecy and Civilian Exposure
+### Secrecy and Civilian Exposure
 
 Lullaby Works is **Leaking** because its products are designed to remain with civilians. The objects may reveal that a child's fear was real, preserve memories A.C.T would normally soften, or leave material evidence after an event has been covered. The group does not broadcast anomalies to the public, but it refuses to erase the child's experience for adult comfort.
 
@@ -177,15 +177,15 @@ Normalcy complications are most severe when families keep items after A.C.T reco
 
 ---
 
-# OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
+## OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
 
-## Operational Regions
+### Operational Regions
 
 Lullaby Works operates across transnational child-care and disaster-relief channels. Confirmed or strongly assessed points of appearance include pediatric wards, foster placement bags, emergency shelters, school counseling offices, refugee-family supply crates, post-breach relocation homes, rural toy shops, and online resale listings that cannot be traced after purchase.
 
 The group favors places where children are least able to control their environment: bedrooms, temporary housing, hospitals, shelters, transport vehicles, dormitories, and classrooms after traumatic events. A.C.T should not assume that absence from adult commercial records means absence from a region.
 
-## Known Assets and Holdings
+### Known Assets and Holdings
 
 Known or assessed assets include:
 
@@ -203,7 +203,7 @@ Known or assessed assets include:
 
 Lullaby Works prefers soft materials, low-threat shapes, and familiar domestic objects. The design logic is tactical: an entity hunting a child may ignore a toy, and an adult may allow a toy to remain where they would reject a visible containment device.
 
-## Operating Method
+### Operating Method
 
 The usual operating method begins after a child has survived, witnessed, or is predicted to face an anomalous event. An item appears through purchase, donation, inheritance, misplaced delivery, school counselor issue, hospital discharge bag, or shelter supply. The object then responds to a narrow condition: fear spike, intruder presence, nightmare repetition, spoken name, room distortion, missing-time return, or child's request for help.
 
@@ -218,9 +218,9 @@ This style makes the products useful during crisis but difficult for A.C.T to cl
 
 ---
 
-# HISTORY WITH A.C.T
+## HISTORY WITH A.C.T
 
-## Contact History
+### Contact History
 
 A.C.T's consolidated contact history began when Subject Care Division found similar care cards in unrelated child-witness aftercare files. The first cards were retained as family comfort material rather than GOI evidence. A later Recovery Division audit discovered that several items had interfered with predatory anomaly access, preserved witness speech, or alerted adults before official detection systems activated.
 
@@ -232,7 +232,7 @@ CHILDREN ACCOUNTED FOR: 17/17. DO NOT TAKE THE LIGHTS YET.
 
 A.C.T recovered three nightlights for examination and left fourteen in place under monitored-care authority. No further child disappearances occurred at that shelter during the active incident window.
 
-## Current Relationship
+### Current Relationship
 
 The current relationship is **POSITIVE**. Lullaby Works has saved or protected children in multiple cases. A.C.T may work with the group when child safety depends on product knowledge, but formal relationship class remains Positive rather than Work because no stable operating agreement, liaison desk, or mutual command protocol exists.
 
@@ -240,21 +240,21 @@ A.C.T does not classify the group as Neutral because its products are consistent
 
 ---
 
-# A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
+## A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
 
-## Responsible Jurisdiction
+### Responsible Jurisdiction
 
 Primary jurisdiction rests with Intelligence Division and Subject Care Division. Recovery Division attaches for product seizure, safe transport, and family-location work. Medical Division attaches when products alter sleep, panic response, injury recovery, voice restoration, sensory processing, or memory continuity. Civil Covert Division attaches when schools, hospitals, social-care agencies, or family courts become involved.
 
 Site jurisdiction follows the active case. Central Archive retains the master product ledger because Lullaby Works material crosses Site boundaries through civilian care networks rather than through ordinary anomaly movement.
 
-## Posture Implementation
+### Posture Implementation
 
 A.C.T posture is **COOPERATED / MONITOR / HELP**. Cooperation is permitted only through verified product-preservation, child-safety, and aftercare channels. Monitoring includes recovered packaging, lot numbers, care cards, warranty messages, donation routes, repair van sightings, shell-company registrations, and product-failure reports. Help is authorized when a Lullaby Works item is actively protecting a child and seizure would increase risk.
 
 Field teams must consult Subject Care before removing any active child-bonded product unless immediate lethal danger is present. A recovered toy may be evidence, but it may also be the child's only functioning boundary against a returning hazard.
 
-## Response Limits and Red Lines
+### Response Limits and Red Lines
 
 A.C.T will not allow Lullaby Works to distribute products that bind children permanently, suppress informed consent from caregivers, alter memory without review, conceal active abuse, or prevent medical treatment. A.C.T will not allow a product to remain in civilian custody if it spreads contamination to siblings, caregivers, schools, or shelters.
 
@@ -262,9 +262,9 @@ A.C.T will also not confiscate a protective item solely to complete an evidence 
 
 ---
 
-# OPERATIONAL RECORDS
+## OPERATIONAL RECORDS
 
-## Restricted Operational Extract
+### Restricted Operational Extract
 
 ```text
 PRODUCT RECOVERY LABEL: LW / NIGHTLIGHT LOT SLEEP-SAFE-7
@@ -300,9 +300,9 @@ The final fragment is preserved because it proves product failure review exists.
 
 ---
 
-# INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
+## INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
 
-## Confirmed Operational Facts
+### Confirmed Operational Facts
 
 - Lullaby Works is an outside corporate network, not an A.C.T program or internal child-care tool supplier.
 - Its products recur across separate jurisdictions under multiple public-facing brands and donation routes.
@@ -310,13 +310,13 @@ The final fragment is preserved because it proves product failure review exists.
 - The group possesses manufacturing or modification knowledge sufficient for repeatable protective anomalous objects.
 - The group withholds manufacturing source data, leadership identities, and full product-failure records.
 
-## Active Intelligence Assessment
+### Active Intelligence Assessment
 
 A.C.T assesses Lullaby Works as a specialized positive corporate GOI built around child-first anomalous protection. Its existence fills a gap A.C.T cannot ignore: some children encounter anomalies before adults, police, schools, hospitals, or containment teams believe them. Lullaby Works acts inside that delay.
 
 The group should not be treated as harmless because its objects can misfire, create dependency, preserve classified memories, and move through civilian channels without registration. It should not be treated as hostile because the repeated evidence shows protection rather than predation. The strongest operating rule for field personnel is restraint: verify, stabilize, consult Subject Care, and do not turn recovery procedure into a second trauma.
 
-## Persistent Questions
+### Persistent Questions
 
 - Who founded Lullaby Works, and was the founder a survivor, parent, clinician, anomaly, or former containment worker?
 - How does the group identify children at risk before public reports or A.C.T detection in some cases?
@@ -326,19 +326,19 @@ The group should not be treated as harmless because its objects can misfire, cre
 - Are some items protecting children from threats created by earlier Lullaby Works products?
 - Why do several lullaby recordings contain voices matching missing adults who have no known relation to the purchasing families?
 
-## Intelligence Confidence
+### Intelligence Confidence
 
 Moderate. Product effects, distribution patterns, and positive child-protection outcomes are well supported across multiple cases. Leadership, manufacturing source, financial structure, and long-term product cost remain unresolved. Confidence may rise if A.C.T secures a complete warranty ledger, interviews informed design staff, or negotiates a controlled recall with verified replacement care for affected children.
 
 ---
 
-# CROSS-REFERENCE STATUS
+## CROSS-REFERENCE STATUS
 
-## Anomaly and Record Relationship
+### Anomaly and Record Relationship
 
 Lullaby Works is an organization and therefore belongs in the GOI archive. Individual products may require separate object files when they produce independent anomalous effects, injure caregivers, continue functioning after separation from a child, or show manufacturing traits beyond known product lines. The GOI record must not replace child-witness files, product-custody sheets, medical aftercare reviews, or family relocation records.
 
-## Related A.C.T Records
+### Related A.C.T Records
 
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
@@ -347,13 +347,13 @@ Lullaby Works is an organization and therefore belongs in the GOI archive. Indiv
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Personnel_Exposure_E_Class_and_Resilience_Doctrine.md`
 - Restricted child-witness, nursery-object, product-custody, and shelter-incident chains held under Central Archive routing.
 
-## Dual Filing
+### Dual Filing
 
 Under review. Lullaby Works is a corporate GOI, but several products may require object-level anomaly filing. Dual filing is mandatory for any product that acts without child proximity, reproduces, permanently alters memory, bonds to more than one household, or resists safe deactivation.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 ```text
 FILE CREATED:            13/09/2026

@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - HIGH-DENSITY LIQUID LEAD
+### TECHNOLOGY RECORD - HIGH-DENSITY LIQUID LEAD
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Engineering / Hazardous Materials / Artifact Storage / Biological Containment / Site Safety  
 **Authority:** Engineering Division, Hazardous Materials Desk, and Central Archive
 
-### Archive Note
+#### Archive Note
 High-Density Liquid Lead is the thirty-ninth main A.C.T technology expanded into an individual record. The Master Catalog defines it as a barrier fluid used to absorb radiation and restricted energy in high-threat artifact shielding. The visual guide describes shimmering grey liquid moving through lead-glass pipes, with each joint fitted with a digital flow-meter and molecular-leak sensor to prevent environmental contamination. Crystal Butterfly procedures require the floor of the exclusion zone to remain coated in HDLL so fallen crystalline dust is trapped before it can contact water and trigger hydration-reactive burns.
 
 HDLL is not a spill. It is a controlled heavy silence poured where ordinary shielding leaves gaps.
@@ -47,7 +47,7 @@ KEEP THE FLUID MOVING ONLY WHERE THE HAZARD HAS ALREADY BEEN INVITED TO STOP.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 High-Density Liquid Lead is a controlled barrier fluid used to absorb radiation, restricted energy, particle contamination, and selected anomalous residue. It is deployed in artifact shielding, sealed pipe loops, floor-trap coatings, high-threat storage joints, and containment chambers where dust or energy must be caught without creating a brittle solid surface. Unlike conventional lead blocks, HDLL can flow into seams, settle into shallow capture fields, and renew a protective surface after disturbance.
 
@@ -65,7 +65,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND DEPLOYMENT
+## ORIGIN AND DEPLOYMENT
 
 A.C.T's early shielding traditions relied on dense lead, stone, iron, and later Abyssal Masonry. Solid barriers worked until hazards learned to move through seams, dust, acoustic vibration, heat, or residue. Engineers needed a material that carried lead's shielding logic while behaving like a fluid trap. HDLL was developed as a high-density suspension that remains pourable under controlled conditions while retaining enough mass to absorb and smother dangerous emissions.
 
@@ -75,7 +75,7 @@ Current deployment is pipe-controlled. Open HDLL use requires Site Safety review
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 HDLL appears as a shimmering grey liquid. It moves slowly, carries unusual weight, and reflects light as if the surface were a dull mirror under pressure. Standard installations use lead-glass pipes so operators can visually confirm movement while remaining shielded from direct contact. Every joint must include a digital flow-meter and molecular-leak sensor. Floor-coating deployments use shallow recessed channels and recovery lips to prevent migration beyond the approved zone.
 
@@ -96,7 +96,7 @@ HDLL must not be improvised into ordinary plumbing. Its weight can rupture syste
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before use, Engineering identifies the target hazard: radiation, restricted energy, particulate dust, residue seep, or mixed barrier need. Site Safety checks ventilation, floor load, spill boundaries, and recovery equipment. Biological Containment confirms whether the fluid will interact with living subjects, shed material, food pathways, or cleaning routines. No open water is introduced near HDLL dust-trap zones unless the contaminant has been cleared.
 
@@ -106,7 +106,7 @@ After operation, HDLL is filtered, sampled, or sealed for disposal according to 
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 HDLL is dangerous by nature. It is toxic, heavy, difficult to clean, and capable of turning a small maintenance error into a site-safety incident. It does not neutralize every energy type, does not dissolve hazards, and does not make contaminated material safe for casual handling. It traps and absorbs; it does not forgive poor containment.
 
@@ -114,20 +114,20 @@ Known failure modes include pipe-joint seepage, flow-meter lag, molecular-leak s
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## HDLL-2008 Dust-Trap Confirmation
+### HDLL-2008 Dust-Trap Confirmation
 Crystal Butterfly containment confirmed that HDLL floor coating could trap fallen crystalline particulates without adding water. The colony's dust remained captured until filtered under controlled conditions. Procedure now forbids ordinary wet cleaning in hydration-reactive chambers.
 
-## HDLL-2017 Pipe Weight Review
+### HDLL-2017 Pipe Weight Review
 A retrofit team routed HDLL through a service line rated for coolant. The pipe did not burst, but joint collars deformed under static load. Lead-glass pipe rating and floor-load confirmation became mandatory for every installation.
 
-## HDLL-2025 False Clean Surface Event
+### HDLL-2025 False Clean Surface Event
 A containment technician described an HDLL coating as visually clear after dust exposure. Molecular sampling found particulate saturation below the reflective surface. Current training states that HDLL can look clean while carrying exactly what it was sent to catch.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Engineering controls pipe design, flow rate, and recovery systems. Hazardous Materials Desk controls storage, spill response, and disposal. Artifact Storage uses HDLL for restricted-energy shielding. Biological Containment uses it for dust traps and residue capture. Site Safety approves open-floor deployment and environmental monitoring. Archive stores flow logs and saturation reports under hazardous-material record rules.
 
@@ -135,7 +135,7 @@ Standing reminder: a barrier fluid that has done its job is contaminated by defi
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 39;
 - ACT Technological Visual Reference Guide, Item 39;
@@ -147,7 +147,7 @@ Standing reminder: a barrier fluid that has done its job is contaminated by defi
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which restricted energy types does HDLL absorb and which does it only delay?
 - Can dust-loaded HDLL become biologically active if exposed to water vapor over time?
@@ -158,7 +158,7 @@ Standing reminder: a barrier fluid that has done its job is contaminated by defi
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Engineering Division / Hazardous Materials Desk / Central Archive  

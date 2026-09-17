@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - LOW-VISIBILITY PROCESSING LOGISTICS SYSTEM
+### TECHNOLOGY RECORD - LOW-VISIBILITY PROCESSING LOGISTICS SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Glass Orchard Relay / Redwood Veil Complex / Security / Campus Administration / Recovery Support / Limited Archive
 **Authority:** Campus Manager, Security Boundary Lead, Sub-Site Chief, Redwood Veil Site Command, and Central Archive
 
-### Archive Note
+#### Archive Note
 Low-Visibility Processing Logistics System is the ninety-third main A.C.T technology expanded into an individual record. The Glass Orchard Relay dossier states that the relay is optimized for low-visibility processing and that its location is chosen for access rather than isolation. The F-3 Surface Cover Level dossier records that deliveries, vehicle movements, and staff arrivals are framed within the campus's legitimate logistics, and that concealed transition architecture is disguised as loading areas, service corridors, and utility spaces.
 
 LVPLS exists because the relay must move people, material, and records without making movement itself remarkable.
@@ -47,7 +47,7 @@ MAKE THE ROUTE TRUE ENOUGH TO BE IGNORED.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 The Low-Visibility Processing Logistics System is Glass Orchard's F-3 traffic-concealment and transition-support system. It schedules, masks, monitors, and explains the movement of witnesses, recovered material, archive packets, staff, supplies, medical equipment, and operational cargo between the surface campus and the buried relay levels.
 
@@ -57,7 +57,7 @@ Approved roles include delivery normalization, staff-flow masking, service-route
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Glass Orchard's agricultural cover solved the problem of why a restricted rural campus existed, but it did not automatically solve the problem of movement. Witnesses arrive. Recovery teams deliver material. Archive packets leave. Medical supplies enter. Holding transfers occur. If those movements follow no ordinary pattern, the cover becomes a map to the relay.
 
@@ -65,7 +65,7 @@ The F-3 dossier's Low-Visibility Doctrine and Concealed Transition Doctrine beca
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 An LVPLS installation includes delivery receiving points, service corridors, utility access rooms, concealed transition controls, staff movement boards, vehicle timing ledgers, agricultural supply manifests, operational cargo covers, archive transfer containers, boundary cameras, and emergency seal indicators. The system connects F-3 to F-2 without letting the public campus appear connected to a buried processing installation.
 
@@ -86,7 +86,7 @@ The system is successful when nothing about movement becomes memorable.
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 During routine operation, Campus Administration maintains legitimate supply, staff, maintenance, and visitor schedules. Security Boundary staff compare ordinary movement with operational needs from F-2 and F-1. Recovery Support and Limited Archive request movement windows when material, witnesses, or records must pass through the surface boundary. The Campus Manager approves cover-compatible timing.
 
@@ -94,7 +94,7 @@ Operational movement must be paired with a plausible campus activity: greenhouse
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 LVPLS cannot make impossible traffic ordinary. Too many late vehicles, too many restricted deliveries, repeated unknown personnel, unexplained waste streams, and inconsistent staff schedules can expose the buried relay. The system also suffers when operational staff treat cover logistics as a nuisance instead of containment support.
 
@@ -102,20 +102,20 @@ Known failure modes include delivery mismatch, repeated vehicle pattern, transit
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## LVPLS-Low-Visibility Formation
+### LVPLS-Low-Visibility Formation
 The Glass Orchard and F-3 dossiers record that the relay's processing is meant to remain invisible inside campus logistics. LVPLS was formalized when concealed movement became too frequent to manage as informal exception.
 
-## LVPLS-Delivery Pattern Review
+### LVPLS-Delivery Pattern Review
 A simulated outside observer identified buried-relay traffic by repeated off-hour deliveries. Current procedure requires operational movement windows to rotate through plausible campus reasons.
 
-## LVPLS-Transition Breach Drill
+### LVPLS-Transition Breach Drill
 A boundary exercise showed that a concealed access point can remain hidden only if the surrounding logistics also make sense. Current doctrine treats corridor use, cargo labels, and staff behavior as part of the transition lock.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Security operates boundary controls and transition review. Campus Administration maintains public-facing schedules and logistics. Recovery Support requests movement for field arrivals and transfers. Limited Archive moves sealed packets through approved windows. Medical coordinates witness or patient movement without exposing care beyond the campus explanation.
 
@@ -123,7 +123,7 @@ LVPLS doctrine holds that a hidden route is not secure unless the ordinary route
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SUB-01-US-W Glass Orchard Relay Sub-Site Dossier;
 - ACT-SUB-01-US-W-F-3 Surface Cover Level Floor Dossier;
@@ -135,7 +135,7 @@ LVPLS doctrine holds that a hidden route is not secure unless the ordinary route
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How many operational movements can hide inside one week of ordinary agricultural logistics?
 - Which cargo types should never pass through surface cover, even under disguise?
@@ -146,7 +146,7 @@ LVPLS doctrine holds that a hidden route is not secure unless the ordinary route
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Campus Manager / Security Boundary Lead / Central Archive

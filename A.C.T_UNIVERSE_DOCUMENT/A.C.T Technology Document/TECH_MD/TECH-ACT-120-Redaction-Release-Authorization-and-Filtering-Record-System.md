@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - REDACTION RELEASE AUTHORIZATION AND FILTERING RECORD SYSTEM
+### TECHNOLOGY RECORD - REDACTION RELEASE AUTHORIZATION AND FILTERING RECORD SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -33,7 +33,7 @@
 **Distribution:** Kurokawa Archive Node / Archive / Intelligence / Researcher / Security / Medical
 **Authority:** Redaction Authority Desk, Archive Division, Floor Command, and Central Archive
 
-### Archive Note
+#### Archive Note
 Redaction Release Authorization and Filtering Record System is the one-hundred-twentieth main A.C.T technology expanded into an individual record. The F-5 Redaction and Controlled-Reading Laboratory dossier identifies F-5 as the floor where documents are made safe to release under Facility redaction doctrine. It records redaction workrooms, controlled-reading cells, memetic filtering infrastructure, redaction records, filtering history, controlled-reading documentation, release authorization, safe-release doctrine, and minimum-release doctrine.
 
 RRAFRS exists because redaction is not deletion. It is the recorded decision that a dangerous document has been altered enough, and only enough, to exist outside deeper containment.
@@ -48,7 +48,7 @@ RELEASE ONLY WHAT CAN SURVIVE BEING READ FOREVER.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Redaction Release Authorization and Filtering Record System is Kurokawa's F-5 technology for documenting, authorizing, and preserving the transformation of hazardous documents into safe-release forms. It tracks source custody, controlled-reading history, memetic filtering actions, redaction decisions, Intelligence concerns, Researcher Division findings, Medical exposure notes, release authority, and final approved copy.
 
@@ -58,7 +58,7 @@ Approved roles include redaction workflow control, minimum-release assessment, f
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Kurokawa's archive could not seal every dangerous document forever. Some knowledge must move: a containment warning, an incident lesson, a safe description, a command brief, or a public-compatible record. Early redaction practice showed that removing text was not enough. A gap can imply what was hidden; a title can carry hazard; a harmless phrase can become dangerous beside the wrong remaining sentence.
 
@@ -66,7 +66,7 @@ F-5 developed as the node's redaction workshop and controlled-reading center. RR
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A RRAFRS installation includes redaction workroom terminals, controlled-reading record feeds, filtering history vaults, release authorization panels, safe-copy comparison tools, source-to-release chain ledgers, Intelligence review fields, Medical exposure notation, recall trigger files, and Archive custody export locks.
 
@@ -87,7 +87,7 @@ The system's output is not merely a cleaner document. Its output is a documented
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before redaction begins, RRAFRS verifies source custody, document restriction set, intended audience, operational need, known hazard type, controlled-reading status, filtering method, and reviewing authority. Redaction staff prepare a working copy under F-5 conditions. Every removal, rewrite, visual filter, formatting change, title alteration, image crop, and note suppression is logged with reason.
 
@@ -95,7 +95,7 @@ Release authorization requires confirmation that the remaining material satisfie
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 RRAFRS can document redaction and release, but it cannot guarantee that a safe copy remains safe in every future context. A document may become dangerous when quoted, translated, reformatted, read aloud, paired with another file, restored from memory, or placed inside a public narrative. Redaction also cannot remove every risk if the danger lies in the fact that something was withheld.
 
@@ -103,20 +103,20 @@ Known failure modes include underredaction, overredaction that hides needed warn
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## RRAFRS-Minimum Release Standard
+### RRAFRS-Minimum Release Standard
 A redaction review found that some early safe copies retained extra context because it was useful to trained staff. Current doctrine requires minimum necessary release, not maximum comfortable understanding.
 
-## RRAFRS-Filtering History Correction
+### RRAFRS-Filtering History Correction
 A release dispute showed that a document could appear safe while no one could reconstruct which filtering step removed the actual hazard. Current RRAFRS records preserve filtering history as part of the release authorization itself.
 
-## RRAFRS-Recall Route Finding
+### RRAFRS-Recall Route Finding
 A released copy later required restriction after a related file changed its meaning. Current procedure gives every approved copy a recall route and treats safe release as maintained status, not a permanent blessing.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Archive Division operates the redaction workflow and preserves release records. Intelligence reviews wider secrecy and public-risk implications. Researcher Division supplies hazard mechanism findings from F-4. Medical records exposure concerns from controlled reading. Security enforces copy custody, release restriction, and recall action.
 
@@ -124,7 +124,7 @@ RRAFRS doctrine holds that redaction is a promise the archive must be able to pr
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-03-JP-E-F-5 Redaction and Controlled-Reading Laboratory Floor Dossier;
 - ACT-SITE-03-JP-E-F-4 Research and Analysis Level Floor Dossier;
@@ -137,7 +137,7 @@ RRAFRS doctrine holds that redaction is a promise the archive must be able to pr
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can a document ever be declared safe forever, or only safe under named conditions?
 - How much warning must remain in a released copy before minimum release becomes under-informative?
@@ -148,7 +148,7 @@ RRAFRS doctrine holds that redaction is a promise the archive must be able to pr
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Redaction Authority Desk / Archive Division / Central Archive

@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - DEEP-EARTH SAMPLE ANALYSIS LABORATORIES
+### TECHNOLOGY RECORD - DEEP-EARTH SAMPLE ANALYSIS LABORATORIES
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Research / Seismic Analysis / Engineering / Containment / Nusantara Deep Relay
 **Authority:** Deep-Earth Analysis Desk, Floor Research Chief, and Central Archive
 
-### Archive Note
+#### Archive Note
 Deep-Earth Sample Analysis Laboratories are the seventy-fourth main A.C.T technology expanded into an individual record. The F-4 Laboratory and Research Level dossier identifies deep-earth sample analysis laboratories as a primary research system for material from Nusantara's geological and volcanic operations: samples from the island's foundation, volcanic material, and deep-earth material characterized under the relay's research doctrine. F-4 also coordinates with F-2 and F-1 when deep-earth interpretation or material falls under restricted review.
 
 DESAL exists because some samples are not objects brought up from below. They are questions chipped out of the world.
@@ -47,7 +47,7 @@ DO NOT CONFUSE A ROCK WITH WHAT IT HAS BEEN TOUCHING.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Deep-Earth Sample Analysis Laboratories are controlled research suites for geological, volcanic, foundation, abyss-adjacent, and deep-origin material recovered or extracted by Nusantara Deep Relay. They allow A.C.T personnel to characterize composition, density, resonance behavior, thermal response, pressure history, contamination risk, and possible correlation with the relay's deep-earth observations.
 
@@ -57,7 +57,7 @@ Approved roles include foundation sample testing, volcanic material analysis, tr
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Nusantara's mandate spans the sea above and the structure below. Maritime recovery often returns biological material, but the relay's geological operations return stone, sediment, ash, heat-altered minerals, bore residue, and pressure-marked samples from the island's foundation. Early review showed that these samples could not be processed like ordinary construction or survey material. Some carried unusual resonance. Some matched signal events. Some were ordinary, but important because they proved a frightening reading was not anomalous.
 
@@ -65,7 +65,7 @@ DESAL developed to give F-4 a dedicated deep-earth study standard. The laborator
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A DESAL suite may include sealed mineral benches, thermal containment plates, resonance readers, pressure-history cabinets, micro-sample drills, dust capture hoods, vibration-isolated scales, geological comparison drawers, restricted sample safes, and archive-linked sample ledgers. Equipment is isolated from ordinary facility vibration because false resonance can distort both research and seismic interpretation.
 
@@ -86,7 +86,7 @@ No sample is ground, heated, hydrated, pressurized, or sonically stimulated with
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before analysis, the sample's recovery point, depth, temperature, pressure condition, collection tool, nearby sensor event, and handling history are entered into the ledger. Research assigns the study track. Seismic Analysis identifies whether comparison against live or historical signal data is authorized. Containment reviews whether the sample is capable of action, emission, transformation, or environmental change.
 
@@ -96,7 +96,7 @@ After analysis, ordinary results enter the seismic and geological comparison bas
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 DESAL can study a sample under controlled conditions, but it cannot restore the full depth environment from which material came. A fragment may not behave as the formation did. A volcanic sample may cool into false harmlessness. A foundation chip may become anomalous only when placed beside related signal records.
 
@@ -104,20 +104,20 @@ Known failure modes include dust contamination, heat-triggered activation, reson
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## DESAL-F-4 Formation
+### DESAL-F-4 Formation
 The F-4 dossier identifies deep-earth sample analysis as one of the relay's central research tracks. DESAL was formalized to separate controlled geological anomaly study from ordinary site engineering.
 
-## DESAL-Resonance Misread Notice
+### DESAL-Resonance Misread Notice
 A foundation sample once appeared to match an abyss-linked vibration family before tool vibration was identified as the source. Current procedure requires equipment isolation confirmation before restricted escalation.
 
-## DESAL-Volcanic Material Review
+### DESAL-Volcanic Material Review
 A volcanic sample cooled into stable form before analysis and was nearly downgraded. Later thermal reactivation showed that inactive temperature state did not equal non-anomalous state. Thermal history is now preserved as part of the sample record.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Research operates DESAL and writes study results. Seismic Analysis compares samples to deep observation patterns. Engineering assists with tools and foundation context. Containment defines handling limits. Archive maintains sample ledgers and routing records.
 
@@ -125,7 +125,7 @@ DESAL doctrine holds that the relay studies the earth without assuming the earth
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-05-ID-C-F-4 Laboratory and Research Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-2 Deep Monitoring and Restricted Records Floor Dossier;
@@ -137,7 +137,7 @@ DESAL doctrine holds that the relay studies the earth without assuming the earth
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can an ordinary sample become restricted because of later signal comparison?
 - How much depth context is lost when a sample is removed from pressure and heat?
@@ -148,7 +148,7 @@ DESAL doctrine holds that the relay studies the earth without assuming the earth
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15
 **Author Desk:** Research Division / Deep-Earth Analysis Desk / Central Archive

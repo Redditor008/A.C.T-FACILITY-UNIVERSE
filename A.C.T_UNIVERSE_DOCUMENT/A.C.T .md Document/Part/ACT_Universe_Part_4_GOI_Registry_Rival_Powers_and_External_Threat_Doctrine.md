@@ -1,8 +1,8 @@
 # A.C.T Universe
-## Part Four
-# GOI Registry, Rival Powers, and External Threat Doctrine
+### Part Four
+## GOI Registry, Rival Powers, and External Threat Doctrine
 
-## Introduction
+### Introduction
 If Part Three defines how A.C.T records anomalies, then Part Four defines how A.C.T records the organizations, factions, networks, and powers that operate around the anomalous world. Not every danger to structural reality is an object, entity, place, or phenomenon. Some dangers are organized. Some are ideological. Some are commercial. Some are state-backed. Some are cultic. Some are useful. Some are allies. Some are worse than anomalies because they intentionally weaponize them.
 
 For this reason, A.C.T maintains a separate archive system for **Groups of Interest**, or **GOIs**.
@@ -11,7 +11,7 @@ A GOI is not necessarily an anomaly itself. It is a structured actor in the anom
 
 ---
 
-## 4.1 — What Qualifies as a GOI
+### 4.1 — What Qualifies as a GOI
 A **GOI / Group of Interest** is any organization, network, movement, institution, market, or collective that knowingly interacts with anomalies in a meaningful, repeatable, or operational way.
 
 A body qualifies as a GOI if it does one or more of the following:
@@ -42,21 +42,21 @@ Not all GOIs are enemies. But all GOIs matter.
 
 ---
 
-## 4.2 — GOI Designation Rules
+### 4.2 — GOI Designation Rules
 A.C.T identifies Groups of Interest under a dedicated registry system:
 
-## **GOI-XX-X-XXX**
+### **GOI-XX-X-XXX**
 
 This structure separates GOI records from anomaly records and ensures that external anomalous actors are archived under their own institutional logic.
 
-### 4.2.1 Designation Segment Meaning
+#### 4.2.1 Designation Segment Meaning
 - the first **XX** is the **Nature Class code**
 - the second **X** is the **Alignment Class marker**
 - the **XXX** is the numerical registry code
 
 This allows A.C.T to understand a GOI’s broad type and relational status at a glance.
 
-### 4.2.2 Recommended Nature Codes
+#### 4.2.2 Recommended Nature Codes
 - **GV** = Government
 - **CP** = Corporate
 - **CU** = Cultic
@@ -68,7 +68,7 @@ This allows A.C.T to understand a GOI’s broad type and relational status at a 
 - **BS** = Business
 - **HY** = Hybrid
 
-### 4.2.3 Recommended Alignment Markers
+#### 4.2.3 Recommended Alignment Markers
 - **N** = Neutral
 - **P** = Positive
 - **X** = Negative
@@ -77,7 +77,7 @@ This allows A.C.T to understand a GOI’s broad type and relational status at a 
 - **B** = Business
 - **G** = Guild
 
-### 4.2.4 Example GOI Designations
+#### 4.2.4 Example GOI Designations
 - `GOI-GV-P-001`
 - `GOI-ML-X-014`
 - `GOI-BS-T-027`
@@ -86,10 +86,10 @@ These identifiers are intended to make GOI records searchable, comparable, and o
 
 ---
 
-## 4.3 — GOI Classification Structure
+### 4.3 — GOI Classification Structure
 Every GOI file should be written using a stable classification stack so that A.C.T can quickly assess what the group is, how far it reaches, what it can do, and how the Facility should respond.
 
-### 4.3.1 Nature Class
+#### 4.3.1 Nature Class
 Nature Class describes what kind of group the GOI is at its core.
 
 - **Government**
@@ -103,7 +103,7 @@ Nature Class describes what kind of group the GOI is at its core.
 - **Business**
 - **Hybrid**
 
-### 4.3.2 Alignment Class
+#### 4.3.2 Alignment Class
 Alignment Class records the GOI’s broad relationship to A.C.T.
 
 - **Neutral**
@@ -114,7 +114,7 @@ Alignment Class records the GOI’s broad relationship to A.C.T.
 - **Business**
 - **Guild**
 
-### 4.3.3 Reach Class
+#### 4.3.3 Reach Class
 Reach Class records how large the GOI’s influence is.
 
 - **CELLULAR**
@@ -125,7 +125,7 @@ Reach Class records how large the GOI’s influence is.
 - **GLOBAL**
 - **STRUCTURAL**
 
-### 4.3.4 Anomalous Capability Class
+#### 4.3.4 Anomalous Capability Class
 This class records how capable the GOI is when dealing with anomalies directly.
 
 - **NULL**
@@ -136,7 +136,7 @@ This class records how capable the GOI is when dealing with anomalies directly.
 - **REALITY-ACTIVE**
 - **STRUCTURAL**
 
-### 4.3.5 Threat Level
+#### 4.3.5 Threat Level
 GOI threat is measured from **0 to 5**.
 
 - **0** = no meaningful threat
@@ -146,7 +146,7 @@ GOI threat is measured from **0 to 5**.
 - **4** = severe threat
 - **5** = critical threat
 
-### 4.3.6 Secrecy Risk
+#### 4.3.6 Secrecy Risk
 This class measures how dangerous the GOI is to the masquerade of normal life.
 
 - **VEILED**
@@ -154,7 +154,7 @@ This class measures how dangerous the GOI is to the masquerade of normal life.
 - **EXPOSURE-ACTIVE**
 - **NORMALCY-BREACHING**
 
-### 4.3.7 A.C.T Posture
+#### 4.3.7 A.C.T Posture
 This records what A.C.T intends to do with the GOI.
 
 - **MONITOR**
@@ -169,7 +169,7 @@ This records what A.C.T intends to do with the GOI.
 
 ---
 
-## 4.4 — GOI Registry File Standard
+### 4.4 — GOI Registry File Standard
 Every GOI file should include the following sections:
 
 - GOI Designation
@@ -193,12 +193,12 @@ Every GOI file should include the following sections:
 
 This keeps GOI records consistent with A.C.T’s broader archive doctrine while preserving their distinct organizational focus.
 
-## 4.4.1 Site Monitoring and Jurisdiction
+### 4.4.1 Site Monitoring and Jurisdiction
 Where relevant, GOI records should note which A.C.T SITE, SUB-SITE, or regional command body maintains primary monitoring, infiltration, or response jurisdiction. External threat handling is therefore tied directly to the Facility's territorial site network rather than treated as abstract intelligence alone.
 
 ---
 
-## 4.5 — A.C.T External Threat Doctrine
+### 4.5 — A.C.T External Threat Doctrine
 A.C.T doctrine does not treat all GOIs equally.
 
 Some are:
@@ -226,7 +226,7 @@ The Facility’s goal is not emotional loyalty. Its goal is structural survival.
 
 ---
 
-## 4.6 — GOI and Anomaly Overlap
+### 4.6 — GOI and Anomaly Overlap
 Not all GOIs are entirely normal organizations.
 
 Some GOIs are:
@@ -250,9 +250,9 @@ A cult may worship an anomaly without being anomalous itself. A collective intel
 
 ---
 
-## 4.7 — Sample GOI Entries
+### 4.7 — Sample GOI Entries
 
-### GOI-GV-P-001
+#### GOI-GV-P-001
 **Common Name:** Government Anti Anomaly  
 **Short Name:** GAA
 
@@ -272,7 +272,7 @@ The GAA is not treated as a direct threat. It is a controlled state partner whos
 
 ---
 
-### GOI-ML-X-014
+#### GOI-ML-X-014
 **Common Name:** Anti-Global Anomaly  
 **Short Name:** A-GA
 
@@ -292,7 +292,7 @@ A-GA is dangerous not because it loves anomalies, but because it refuses all nua
 
 ---
 
-### GOI-BS-T-027
+#### GOI-BS-T-027
 **Common Name:** Anstrall Market
 
 **Nature Class:** Business  
@@ -312,7 +312,7 @@ The **Anstrall Market** is a black-market anomaly trade structure specializing i
 **Role in Doctrine:**  
 The Market is not inherently aligned with the Facility, but it is not always best treated as an enemy. It can be more useful when controlled, tracked, infiltrated, or quietly exploited than when openly destroyed. However, its trade in anomalous materials makes it a constant secrecy hazard and a source of escalation if left unmanaged.
 
-### GOI-CU-X-048
+#### GOI-CU-X-048
 **Common Name:** Children of the Deep  
 **Short Name:** CoTD
 
@@ -335,7 +335,7 @@ CoTD is treated as a severe, patient threat rather than an immediate one. Becaus
 
 ---
 
-### GOI-CP-B-049
+#### GOI-CP-B-049
 **Common Name:** DREAM .INC  
 **Short Name:** DREAM
 
@@ -358,7 +358,7 @@ DREAM .INC is a corrupt commercial mirror of Transformation: it converts an anom
 
 ---
 
-### GOI-ML-X-050
+#### GOI-ML-X-050
 **Common Name:** Liberty Freedoms  
 **Short Name:** L.F.
 
@@ -381,7 +381,7 @@ L.F. is dangerous because it weaponizes the Facility's own records, routes, and 
 
 ---
 
-## Closing Summary
+### Closing Summary
 Part Four defines the hidden political world around the anomalous. Where Part Three explains how A.C.T archives the impossible, Part Four explains how it archives the people, powers, and organizations that seek to control that impossibility. Through GOI designation, classification, posture doctrine, and dual filing logic, A.C.T transforms the chaotic external anomaly world into something operationally readable.
 
 Not every threat is an entity in a box. Some threats have leaders, markets, flags, militias, clients, and beliefs.

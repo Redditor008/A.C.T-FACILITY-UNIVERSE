@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - SOUL-STASIS HARNESS
+### TECHNOLOGY RECORD - SOUL-STASIS HARNESS
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Medical / White Grave / Subject Care / Engineering / Narrative Analysis / Site Command  
 **Authority:** Medical Division, White Grave Stasis Desk, Engineering Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 The Soul-Stasis Harness is the thirtieth main A.C.T technology expanded into an individual record. The Master Catalog defines it as a reinforced chest-cavity apparatus designed to maintain the required proximity lock between a host and a consciousness-anchor. The visual guide describes black leather and silver buckles, an integrated data-link, a reinforced sternum housing holding the Soul Pendant behind thick glass, and a wrist-mounted status tablet connected by shielded fiber-optic cable to display Resonance Stability. The Soul Pendant file requires AFD-OB-412 to remain within two meters of Senior Researcher Aris Thorne's host body and warns that if distance exceeds one hundred meters, Thorne experiences shattering while the body undergoes rapid redacted deterioration.
 
 SSH is not a restraint for an object. It is a life-support treaty between a body, an anchored consciousness, and an artifact that cannot be trusted but cannot be removed.
@@ -47,7 +47,7 @@ KEEP THE ANCHOR CLOSE WITHOUT LETTING THE ANCHOR BECOME THE PATIENT.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 A Soul-Stasis Harness maintains stable proximity and monitored resonance between a biological host body and a consciousness-anchor object. Its known primary use is the Soul Pendant case, where Thorne's displaced consciousness remains inside the pendant while his body persists in a stasis-like regenerative relationship. The harness keeps the pendant aligned with the chest, shielded behind thick glass, physically secured, and continuously monitored through a wrist-mounted tablet.
 
@@ -64,7 +64,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND CUSTODY
+## ORIGIN AND CUSTODY
 
 SSH development followed the 1992 Thorne Incident. Before the event, AFD-OB-412 was treated as a low-threat luminous artifact. After blood activation displaced Thorne's consciousness into the pendant, A.C.T discovered that simple storage rules were medically inadequate. Keeping the pendant near the body mattered, but ordinary cases, carts, and lockers let staff treat proximity as convenience rather than survival.
 
@@ -74,7 +74,7 @@ Custody belongs to Medical Division and the White Grave Stasis Desk. Engineering
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard SSH uses black leather structural straps, silver buckles, and a reinforced metal sternum housing. The Soul Pendant or equivalent anchor rests behind thick glass inside the housing. The housing does not press the object directly into tissue. It holds a fixed and monitored relationship above the chest cavity. A shielded fiber-optic cable connects the housing to a wrist-mounted status tablet showing Resonance Stability, distance confidence, housing seal, glass stress, and alarm state.
 
@@ -95,7 +95,7 @@ The harness is fitted to a specific host body. It is not interchangeable without
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before use, Medical confirms host identity, anchor identity, body condition, pendant distance, stasis pod compatibility, blood-exclusion state, and communication schedule. The harness is inspected for glass integrity, buckle tension, data-link health, and tablet response. The anchor housing is sealed before the harness is placed. Staff verify that no open wounds, blood-drawing tools, or sharp instruments are present in the suite.
 
@@ -105,7 +105,7 @@ If transfer is necessary, CBI, SSH, and anchor-distance checks travel together. 
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 SSH cannot cure soul displacement, cannot make the pendant safe, cannot prevent all regenerative violence, and cannot guarantee that the consciousness experiences proximity as comfort. It controls distance and shielding, not metaphysical justice. It may fail if glass cracks, buckles loosen, data-link lies, fiber cable breaks, host body changes shape, or the anchor alters its own relationship to the body.
 
@@ -113,20 +113,20 @@ Known failure modes include stability drift, housing pressure, tablet lag, buckl
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## SSH-1992 Cart Separation Warning
+### SSH-1992 Cart Separation Warning
 During early relocation planning after the Thorne Incident, staff attempted to move the host body and pendant on separate carts within the same corridor. Distress readings appeared before formal distance limits were crossed. SSH doctrine now treats chain separation as dangerous even when raw distance remains acceptable.
 
-## SSH-2001 Glass Touch Complaint
+### SSH-2001 Glass Touch Complaint
 A technician tapped the housing glass during a status check to test vibration. Thorne reported the sensation during the next acoustic bridge session as a scratch through thought. Tactile testing on live anchor housings is now prohibited.
 
-## SSH-2019 Tablet Lag Event
+### SSH-2019 Tablet Lag Event
 A wrist tablet showed stable resonance while the housing data-link had already reported minor drift. Engineering found a fiber-optic connector delay. Current procedure requires direct housing indicator checks during maintenance, not tablet-only confidence.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Medical maintains patient care and harness fit. White Grave Stasis Desk monitors proximity and Resonance Stability. Engineering services housing, glass, buckles, cable, and tablet systems. Subject Care protects dignity, communication cadence, and non-objectifying treatment. Narrative Analysis manages acoustic bridge contact. Site Command authorizes movement. Archive stores stability logs under restricted patient record handling.
 
@@ -134,7 +134,7 @@ Standing reminder: if the anchor contains a person, every maintenance action has
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 17;
 - ACT Technological Visual Reference Guide, Item 17;
@@ -145,7 +145,7 @@ Standing reminder: if the anchor contains a person, every maintenance action has
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can a Soul-Stasis Harness be adapted to anchors that are not pendants?
 - Does proximity stability reduce suffering or only prevent catastrophic drift?
@@ -156,7 +156,7 @@ Standing reminder: if the anchor contains a person, every maintenance action has
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Medical Division / White Grave Stasis Desk / Engineering Division / Central Archive  

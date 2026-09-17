@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - STATIC-PULSE CRYSTAL
+### TECHNOLOGY RECORD - STATIC-PULSE CRYSTAL
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Engineering / Containment / Materials Custody / Logistics / Command  
 **Authority:** Engineering Division, Materials Custody Desk, and Central Archive
 
-### Archive Note
+#### Archive Note
 Static-Pulse Crystal is the seventh main A.C.T technology expanded into an individual record. The material is listed in the Master Catalog as raw violet shards held in dampening cases and in the visual guide as crystals requiring temperature monitoring for vibration-heat. TECH-ACT-001 already identifies Static-Pulse Crystal as the active material inside Reality Stabilization Anchor cores. This record exists because the crystal is not only a component. It is the material basis of much of A.C.T's modern stabilization culture.
 
 A.C.T does not publish full source maps, extraction routes, cutting instructions, shard yield rates, or discarded-shard ledgers. The known source is the Abyss Floor. That term is operationally correct and deliberately incomplete. Static-Pulse Crystal resonates with Earth-standard reality strongly enough to power RSA units, stabilize portions of transport equipment, and teach instruments what ordinary physical behavior should feel like. It is therefore treated as a material, a power source, a reference standard, and a contamination risk.
@@ -47,7 +47,7 @@ A CRYSTAL THAT HOLDS THE WORLD STILL CAN ALSO TEACH THE WRONG WORLD HOW TO HOLD 
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Static-Pulse Crystal produces a repeating baseline pulse that can be tuned into A.C.T stabilization systems. In RSA pillars, the crystal is cut into four-split cores, pressurized behind a mechanical hatch, and linked to laser-point dynamic sensors and wireless anti-shifting tablets. In smaller tools, fragments may serve as reference pieces or pulse seeds. The material does not create normality by itself. It gives a machine something stable enough to compare against when local reality begins drifting, bending, pretending, duplicating, or contradicting.
 
@@ -62,7 +62,7 @@ A.C.T uses SPC in four main ways:
 
 ---
 
-# ORIGIN AND CUSTODY
+## ORIGIN AND CUSTODY
 
 The earliest modern records describe SPC as an Abyss Floor material recovered after A.C.T personnel noticed that certain violet mineral shards remained physically consistent while nearby equipment reported impossible depth and mass readings. Later testing found that the shards maintained an Earth-standard pulse even after exposure to spatial compression. A.C.T Engineering eventually learned to cut larger pieces into four-split core arrangements for RSA prototypes.
 
@@ -72,7 +72,7 @@ The source problem remains unresolved. A.C.T knows where registered SPC came fro
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 Registered Static-Pulse Crystal appears as raw violet shards with internal pale flashes. Larger pieces may show four natural stress lines that appear useful for RSA cutting, though Engineering does not trust natural lines without instrument confirmation. Active pieces feel cooler than the surrounding room until they are loaded into a system. Once loaded, the crystal produces vibration-heat that must be tracked by digital temperature gauges and dampening cases.
 
@@ -91,7 +91,7 @@ A normal case label gives designation, mass band, thermal band, pulse band, hand
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 SPC is handled as a live material even when inactive. Personnel must inspect case temperature before transport, confirm that the receiving room has a stable RSA baseline, and keep the crystal away from unshielded temporal devices, Causal-Reactive Mercury, high-output CSG cabinets, and undocumented GOI instruments. If the case warms without system load, personnel stop movement and call Materials Custody.
 
@@ -101,7 +101,7 @@ Do not polish active SPC. Do not wash it in ordinary water. Do not place fragmen
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 Static-Pulse Crystal cannot decide which reality should win when the surrounding system provides contradictory instructions. It cannot repair a broken RSA control chain, replace site geometry maintenance, or make an inherently unsafe object safe to move. The material is strongest when the machine around it knows what baseline to request. It is dangerous when staff expect the crystal to improvise.
 
@@ -109,20 +109,20 @@ Failure risks include overheating, pulse splitting, local magnetic sticking, str
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## SPC-1967 Core Song Event
+### SPC-1967 Core Song Event
 During early RSA testing, an uncut shard was mounted without full dampening. The unit stabilized the room for nine minutes and then produced a clear ringing tone through the support frame. Instruments reported normal behavior while every loose screw in the chamber rotated one quarter turn counterclockwise. The test was terminated before structural failure. The event created the standing rule that audible SPC behavior is a warning, never a sign of efficiency.
 
-## SPC-1982 Waste Chip Loss
+### SPC-1982 Waste Chip Loss
 A discarded cutting chip was misfiled as dead mineral waste and later found stuck beneath a storage cart. The cart repeatedly returned to the same floor position after being moved. No breach occurred, but the incident led to waste capsules for dust, powder, corners, and slivers. Materials Custody still audits old workshop drains for forgotten crystal grit.
 
-## SPC-2009 Heat Without Load
+### SPC-2009 Heat Without Load
 A sealed case warmed during transfer between two stable sites. The receiving RSA grid showed no fault. Later review found that the case had passed near a temporary archive carrying regression-resistant ink and QNB components. Whether the crystal reacted to causal memory, archive pressure, or simple shielding overlap remains open.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Engineering controls cutting, testing, core replacement, calibration, quarantine, and retirement. Containment requests issued cores and reports stress behavior. Logistics moves cases but cannot reroute them without Engineering permission. Archive records source numbers, issue history, and failure notes under restricted access. Intelligence tracks hostile interest in violet shards, counterfeit core assemblies, and GOI rumors about "world-stone."
 
@@ -130,7 +130,7 @@ A.C.T personnel are reminded that SPC is not a trophy from the Abyss Floor. It i
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - TECH-ACT-001 - Reality Stabilization Anchor System;
 - TECH-ACT-006 - Facility Converted Aircraft System;
@@ -141,7 +141,7 @@ A.C.T personnel are reminded that SPC is not a trophy from the Abyss Floor. It i
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Does SPC grow naturally, condense under pressure, or form only after reality-stress events?
 - How many safe source sites exist outside the registered Abyss Floor extraction chain?
@@ -153,7 +153,7 @@ A.C.T personnel are reminded that SPC is not a trophy from the Abyss Floor. It i
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Engineering Division / Materials Custody Desk / Central Archive  

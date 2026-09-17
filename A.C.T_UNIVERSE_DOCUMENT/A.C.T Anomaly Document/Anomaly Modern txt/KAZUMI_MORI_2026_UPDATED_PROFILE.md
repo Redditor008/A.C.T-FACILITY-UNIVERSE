@@ -10,7 +10,7 @@
 
 ---
 
-# 1. Age calculation
+## 1. Age calculation
 
 Kazumi was documented as **232 years old in 1934**.
 
@@ -22,7 +22,7 @@ Therefore, Kazumi’s correct age in 2026 is **324**.
 
 ---
 
-# 2. Current appearance and physical identity
+## 2. Current appearance and physical identity
 
 Kazumi remains a female-presenting kitsune-class humanoid with:
 
@@ -38,7 +38,7 @@ No later canon has established additional tails or a replacement physical form. 
 
 ---
 
-# 3. Current personality
+## 3. Current personality
 
 Kazumi is no longer accurately described as introverted. She is also not an extrovert.
 
@@ -84,9 +84,9 @@ She does not like being treated as a deity, pet, animal, specimen, morale asset,
 
 ---
 
-# 4. Communication and manner of speech
+## 4. Communication and manner of speech
 
-## Primary communication
+### Primary communication
 
 Telepathy is now Kazumi’s main and preferred way of speaking.
 
@@ -100,7 +100,7 @@ She no longer depends mainly on ordinary spoken conversation. Her telepathic voi
 - sensed consequence;
 - brief hallucinatory experiences.
 
-## Speech style
+### Speech style
 
 Kazumi’s manner of speaking combines:
 
@@ -112,11 +112,11 @@ The result should remain understandable. She does not fill every sentence with r
 
 She normally speaks with few words. The fewer words she uses, the more deliberate they are.
 
-## Mandatory dialogue formatting
+### Mandatory dialogue formatting
 
 Kazumi’s telepathic and audible dialogue must use visibly different formatting.
 
-### Telepathic speech
+#### Telepathic speech
 
 Telepathy uses **bold italics** around dialogue enclosed by **single quotation marks**:
 
@@ -128,7 +128,7 @@ Required pattern:
 
 Do not use double quotation marks for Kazumi’s telepathy. Do not place telepathy inside square brackets.
 
-### Audible speech
+#### Audible speech
 
 When Kazumi physically speaks aloud, use **bold text** around dialogue enclosed by **double quotation marks**:
 
@@ -142,16 +142,16 @@ This distinction lets the reader recognize immediately whether Kazumi is speakin
 
 ---
 
-# 5. Telekinesis
+## 5. Telekinesis
 
 Kazumi’s telekinesis in 2026 is **five times stronger** than the final age-282 measurements in her behavioral dossier.
 
-## Earlier age-282 measurements
+### Earlier age-282 measurements
 
 - Reliable telekinetic control: **16.7 kg**
 - Short maximum: **18.2 kg for 4 seconds**
 
-## Updated 2026 measurements
+### Updated 2026 measurements
 
 - Reliable telekinetic control: **83.5 kg**
 - Short maximum: **91 kg for 4 seconds**
@@ -162,7 +162,7 @@ Kazumi’s telekinesis should not be presented only as raw lifting strength. Fin
 
 ---
 
-# 6. Advanced telepathy
+## 6. Advanced telepathy
 
 Kazumi’s telepathy has developed from limited emotional impressions into an advanced primary communication system.
 
@@ -188,7 +188,7 @@ The hallucinations are currently defined as **small-scale and short-lived**. The
 
 ---
 
-# 7. Weighted spoken words
+## 7. Weighted spoken words
 
 Although telepathy is her primary language, Kazumi’s audible voice has become more consequential.
 
@@ -219,7 +219,7 @@ This ability should not be treated as unlimited mind control. Its force comes fr
 
 ---
 
-# 8. Domineering sovereign pressure
+## 8. Domineering sovereign pressure
 
 Kazumi continuously possesses a **domineering sovereign pressure**.
 
@@ -245,7 +245,7 @@ Her presence should communicate:
 
 ---
 
-# 9. Supernatural caution
+## 9. Supernatural caution
 
 Kazumi possesses supernatural cautiousness around danger.
 
@@ -262,7 +262,7 @@ This ability does not mean she knows every fact about a person. She reads what t
 
 ---
 
-# 10. Will alignment
+## 10. Will alignment
 
 Objects, structures, and places that remain around Kazumi for a sufficiently long time can develop **Will**.
 
@@ -288,7 +288,7 @@ Kazumi does not simply control her surroundings like puppets. Long proximity cau
 
 ---
 
-# 11. Boundary Exchange
+## 11. Boundary Exchange
 
 Kazumi can create an intention-reading boundary called:
 
@@ -298,13 +298,13 @@ Boundary Exchange is not merely a wall.
 
 It is a question asked of anyone attempting to cross it.
 
-## Governing rule
+### Governing rule
 
 > Bring respect, receive passage.  
 > Bring hunger, receive hunger.  
 > Bring violence, receive the weight of what violence intended to take.
 
-## What it reads
+### What it reads
 
 Boundary Exchange reads:
 
@@ -314,7 +314,7 @@ Boundary Exchange reads:
 
 It does not judge people through simplistic labels such as good and evil.
 
-## What it does
+### What it does
 
 The boundary returns the meaning or consequence of an intruder’s intention.
 
@@ -341,7 +341,7 @@ Respect must be genuine. Polite words do not bypass the boundary when the underl
 
 ---
 
-# 12. Current behavioral summary
+## 12. Current behavioral summary
 
 Kazumi in 2026 should be portrayed as an ancient, controlled, selectively social sovereign presence.
 
@@ -374,7 +374,7 @@ Her authority should be felt before it is explained.
 
 ---
 
-# 13. Quick-copy profile
+## 13. Quick-copy profile
 
 **Kazumi Mori is 324 years old in 2026, based on her recorded age of 232 in 1934. She is a long-lived kitsune-class humanoid with one visible tail, fox ears, fox-like feet, mixed human-vulpine hands, and anomalous longevity. Her current personality is non-extroverted, selectively social, and supernaturally cautious. She is best described as a silent recluse: quiet but not shy, observant, authoritative, and capable of judging dangerous intention before direct eye contact.**
 

@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - REFINED NEMNOLIA SAP
+### TECHNOLOGY RECORD - REFINED NEMNOLIA SAP
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Medical / Transformation / Normalcy / Memory Review / Materials Custody / O5 Oversight  
 **Authority:** Medical Division, Transformation Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Refined NEMNOLIA Sap is the forty-fifth main A.C.T technology expanded into an individual record. The Master Catalog identifies it as the active ingredient in all 004-Series amnestics and describes it as a targeted memory-solvent. The visual guide describes golden syrup stored in lead-lined vials with molecular-stabilizer caps to prevent evaporation into an airborne memetic hazard. The NEMNOLIA archive records that AFD-NB-004 secretes glowing translucent golden sap capable of erasing, fracturing, or collapsing human memory continuity, and that A.C.T refines it into graded 004 compounds from 004-A through 004-H.
 
 RNS is not an amnestic dose by itself. It is the dangerous golden ingredient from which A.C.T builds controlled forgetting.
@@ -47,7 +47,7 @@ DO NOT FORGET THAT THE TOOL BEGAN AS THE BLOOM.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Refined NEMNOLIA Sap is the stabilized active material used to manufacture 004-Series amnestic compounds. It is derived from AFD-NB-004, NEMNOLIA, The Golden Veil, also known as The Forgetting Bloom. In raw form, the sap can destroy memory continuity. In refined form, it can be diluted, stabilized, and graded into operational amnestics with defined erasure windows and failure risks.
 
@@ -65,7 +65,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND REFINEMENT
+## ORIGIN AND REFINEMENT
 
 RNS originates in AFD-NB-004, a flowering organism whose sap became one of the pillars of A.C.T normalcy management. The source anomaly is strategically important because it changed the institution's relationship to secrecy. Before reliable 004 derivatives, memory control was crude, local, and inconsistent. After NEMNOLIA refinement, witness sanitation, restricted recall erasure, and internal memory management became repeatable systems.
 
@@ -75,7 +75,7 @@ Refinement therefore does not cleanse the moral burden. It measures it. Each via
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 RNS appears as golden syrup, luminous under low light, thicker than water-alcohol carrier and capable of clinging to vial glass. It is stored in lead-lined vials. Each vial is sealed with a molecular-stabilizer cap designed to prevent evaporation into airborne memetic hazard. Vials are held inside locked medical-material cases with concentration labels, source batch codes, stabilizer expiration dates, and Memory Review audit tags.
 
@@ -96,7 +96,7 @@ No RNS vial is opened outside a certified amnestic preparation hood.
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before handling, Medical verifies clearance, batch identity, intended grade, aftercare plan, and disposal path. Transformation Division confirms provenance records so the material's anomaly origin remains attached to the work. Memory Review confirms that use is connected to an approved amnestic order, research protocol, or emergency normalcy action.
 
@@ -106,7 +106,7 @@ After handling, all tools, hood surfaces, gloves, notes, and waste are checked f
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 RNS does not know which memories A.C.T wants removed. Targeting comes from grade, carrier, delivery route, medical context, and controlled protocol. Mishandled sap may erase too much, too little, the wrong continuity, or the staff's awareness of the handling error. Evaporation risk makes open-vial time a serious hazard.
 
@@ -114,20 +114,20 @@ Known failure modes include stabilizer cap leak, airborne memetic vapor, residue
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## RNS-1952 Refinement Standardization
+### RNS-1952 Refinement Standardization
 Industrial-scale refinement created the modern graded 004 system. The event is logged as a success and as a warning: A.C.T turned a dangerous anomaly into infrastructure, making every normalcy action dependent on remembering what the infrastructure is made from.
 
-## RNS-004-A Continuity Warning
+### RNS-004-A Continuity Warning
 Full-concentration sap corresponds to 004-A and can produce total mnemonic destruction. Identity continuity survivability is not assumed. O5-level authorization remains mandatory for any high-concentration movement or release.
 
-## RNS-Cap Failure Ledger
+### RNS-Cap Failure Ledger
 The 004 technology archive records NEMNOLIA vial cap failure as a continuing hazard category. Current RNS storage therefore treats cap stability as containment, not packaging.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Medical controls preparation, grade safety, administration pathway, and aftercare. Transformation Division preserves source-anomaly provenance and refinement doctrine. Normalcy uses finished 004 compounds but does not control raw or refined sap. Memory Review audits orders, adverse continuity effects, and post-treatment contradictions. Materials Custody tracks vials, caps, cases, and residue. O5 Oversight controls high-concentration release.
 
@@ -135,7 +135,7 @@ Standing reminder: every successful amnestic is also proof that A.C.T has chosen
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 46;
 - ACT Technological Visual Reference Guide, Item 46;
@@ -148,7 +148,7 @@ Standing reminder: every successful amnestic is also proof that A.C.T has chosen
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can RNS be stabilized without hiding its source identity from staff?
 - Does repeated refinement change the sap's memory-solvent preference over decades?
@@ -159,7 +159,7 @@ Standing reminder: every successful amnestic is also proof that A.C.T has chosen
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Medical Division / Transformation Division / Central Archive  

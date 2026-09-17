@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## GROUP OF INTEREST REGISTRY - AMAZOO CIRCUS
+### GROUP OF INTEREST REGISTRY - AMAZOO CIRCUS
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -64,7 +64,7 @@
 **Distribution:** Subject Care Division, Intelligence Division, Tactical Containment, Regional Command, Medical Care as required
 **Authority:** Intelligence Division and Subject Care Division
 
-### Archive Note
+#### Archive Note
 Amazoo Circus is the GOI filing for the unregistered anomalous humanoid collective targeted during the A.C.T raid known as **Operation BIG TOP** and the follow-up containment frame **Broken Ring**. It is directly tied to AFD-SU-507, the subject currently filed as Circus Monster.
 
 This record must not treat the Circus Monster as the Circus. AFD-SU-507 is a survivor, not the organization that abused her. The Circus is the structure that displayed, commanded, starved, named, caged, and monetized anomalous pain.
@@ -73,15 +73,15 @@ The file intentionally preserves unresolved contradictions. Amazoo Circus surviv
 
 ---
 
-# IDENTITY AND INSTITUTIONAL FUNCTION
+## IDENTITY AND INSTITUTIONAL FUNCTION
 
-## Group Function
+### Group Function
 
 Amazoo Circus functioned as a traveling anomalous performance collective using humanoid and non-human anomalous subjects as attractions. Its known operating pattern involved public spectacle, controlled fear, audience chanting, cages, coercive performance commands, and at least one emotional-siphoning act centered on AFD-SU-507.
 
 The Circus did not merely hide anomalies. It displayed them. It survived because the display was framed as entertainment, costume, abuse dismissed as theater, and monstrous difference packaged as a show. Witnesses were encouraged to become audience before they became rescuers.
 
-## Public Presence and Concealment
+### Public Presence and Concealment
 
 The public name **Amazoo Circus** was erased after A.C.T intervention. The circus appears to have operated through temporary fairground presence, moving routes, paper advertising, word-of-mouth spectacle, and the ambiguity of carnival aesthetics. Paint, curtains, loud music, animal cages, performer masks, and stage lighting allowed real suffering to pass as rehearsed performance.
 
@@ -89,15 +89,15 @@ A.C.T has not confirmed whether Amazoo Circus had a legal registration, forged r
 
 ---
 
-# ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
+## ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
 
-## Leadership Condition
+### Leadership Condition
 
 Known leadership centers on **Grand Master Amazoo**, filed as **POI-0507**. The subject's trigger condition specifically includes memories of Grand Master Amazoo, and the initial A.C.T response notes that Grand Master Amazoo remains uncaptured.
 
 A.C.T has no verified face, age, nationality, species, birth name, voice sample, body recovery, or detention record for POI-0507. Survivor testimony refers to a commanding figure called "he" and "the tyrant," but the file does not confirm whether this is Grand Master Amazoo, a ringmaster proxy, a handler, a mask, a possessed role, or a rotating office.
 
-## Internal Structure
+### Internal Structure
 
 The Circus appears to have included several layers:
 
@@ -113,7 +113,7 @@ The Circus appears to have included several layers:
 
 The Circus may have used the word "act" as both performance role and identity cage. AFD-SU-507's recovered writing repeats "our act," "my act," and the command to sing. This suggests the organization assigned roles that became psychological restraints.
 
-## Membership and Recruitment
+### Membership and Recruitment
 
 No full membership list survived Operation BIG TOP. A.C.T recovered AFD-SU-507 from a reinforced iron cage, but the file references a missing partner, two young lions, a tyrant figure, and an audience that hollered commands. The Circus likely recruited through abduction, purchase, coercion, false adoption, animal trade, anomalous transformation, or rescue-turned-ownership.
 
@@ -121,9 +121,9 @@ The possibility remains that some performers were willing participants, some wer
 
 ---
 
-# IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
+## IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
 
-## Stated Belief
+### Stated Belief
 
 The repeated statement recovered from the cage reads:
 
@@ -134,13 +134,13 @@ Show must go on.
 
 A.C.T treats this as both motto and trauma imprint. It may indicate a circus rule, a Grand Master command phrase, a fatalistic belief, or a memetic anchor used to keep subjects performing after collapse, injury, disappearance, or death.
 
-## Assessed Objective
+### Assessed Objective
 
 A.C.T assesses that Amazoo Circus sought to convert anomalous suffering into performance value. The organization appears to have used AFD-SU-507 as a focal point for an emotional-siphoning performance. Whether the siphoned emotion produced money, nutrition, power, applause, longevity, transformation fuel, or only cruelty remains unresolved.
 
 The Circus may also have operated as a trafficking system for anomalous humanoids. Its traveling format would allow acquisition, transport, display, sale, discard, and disappearance under the cover of seasonal movement.
 
-## Anomalous Capability Assessment
+### Anomalous Capability Assessment
 
 Amazoo Circus is assigned **Handler** capability because confirmed evidence shows it held and exploited at least one anomalous subject. The file also raises the possibility that Grand Master Amazoo or Circus personnel augmented AFD-SU-507's claws, but A.C.T does not yet know whether the Circus could create anomalies independently.
 
@@ -157,7 +157,7 @@ Potential capabilities under investigation:
 
 None are upgraded to confirmed Engineering or Practitioner capability until supporting evidence is recovered.
 
-## Secrecy and Civilian Exposure
+### Secrecy and Civilian Exposure
 
 Amazoo Circus is **Exposure-Active** because it weaponized public attention. It did not rely on invisibility. It relied on people seeing the wrong thing. Civilians saw a circus act, a strange performer, a scary child, a singing monster, a cage prop, a cruel joke, an animal trick, or a bad show. The anomaly was hidden by being too visible to be believed.
 
@@ -165,15 +165,15 @@ The raid caused civilian exposure and fatalities during chaos. A.C.T deployed 00
 
 ---
 
-# OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
+## OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
 
-## Operational Regions
+### Operational Regions
 
 The confirmed discovery location was a traveling fairground in Poland, with exact location redacted. The Circus's full route is unknown. It may have moved across regional borders before detection, or it may have existed only as a short-lived Polish route using imported captives and temporary audiences.
 
 Possible route markers under review include abandoned fairgrounds, livestock roads, seasonal carnivals, closed zoos, itinerant performance troupes, illegal animal transport, and local myths about a circus that arrives after sunset and leaves without tire tracks.
 
-## Known Assets and Holdings
+### Known Assets and Holdings
 
 Confirmed or indicated assets include:
 
@@ -189,7 +189,7 @@ Confirmed or indicated assets include:
 
 A.C.T seized one fairground scene but did not recover a complete headquarters. The public erasure of the Circus did not equal organizational destruction.
 
-## Operating Method
+### Operating Method
 
 Amazoo Circus appears to isolate anomalous beings, rename them as acts, force them into repeated performance, use audience cruelty to deepen compliance, and convert the resulting emotional rupture into spectacle or anomalous yield.
 
@@ -205,15 +205,15 @@ In AFD-SU-507's case, the method included:
 
 ---
 
-# HISTORY WITH A.C.T
+## HISTORY WITH A.C.T
 
-## Contact History
+### Contact History
 
 A.C.T detected the Circus in August 2021 and conducted a targeted raid named **Operation BIG TOP**. The operation targeted Amazoo Circus as an unregistered anomalous humanoid collective. The initial response frame in the Circus Monster file also names **Broken Ring**.
 
 The raid recovered AFD-SU-507, but Grand Master Amazoo escaped. The Circus's public identity was erased. The operation left gaps that remain operationally dangerous: missing performers, missing handlers, missing animals, missing route records, missing ticket records, missing cage inventory, and no confirmed body or capture of POI-0507.
 
-## Current Relationship
+### Current Relationship
 
 A.C.T treats Amazoo Circus as fragmented but not resolved. Subject Care Division prioritizes survivor protection. Intelligence Division prioritizes POI-0507 location, route reconstruction, and missing-act identification. Tactical Containment remains on alert for traveling-performance anomalies using audience participation, cages, command songs, or shame-based stage roles.
 
@@ -221,13 +221,13 @@ A.C.T is not authorized to use AFD-SU-507 as bait for Grand Master Amazoo.
 
 ---
 
-# A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
+## A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
 
-## Responsible Jurisdiction
+### Responsible Jurisdiction
 
 Primary jurisdiction is held by Site-Sub-[REDACTED]-PL-C for survivor stabilization and regional evidence handling. Subject Care Division controls interviews with AFD-SU-507. Intelligence Division controls POI-0507 pursuit. Tactical Containment supports raids on suspected circus-route remnants.
 
-## Posture Implementation
+### Posture Implementation
 
 **Infiltrate** requires locating surviving advertisements, route brokers, animal-transport contacts, former ticket sellers, fairground owners, costume suppliers, cage fabricators, and witnesses whose memory of the Circus resisted amnestic smoothing.
 
@@ -235,7 +235,7 @@ Primary jurisdiction is held by Site-Sub-[REDACTED]-PL-C for survivor stabilizat
 
 **Dismantle** requires the capture of Grand Master Amazoo or proof that the leadership role cannot continue. Public erasure alone is insufficient because the Circus may re-form under a different tent, name, route, or master.
 
-## Response Limits and Red Lines
+### Response Limits and Red Lines
 
 A.C.T will not:
 
@@ -250,9 +250,9 @@ Escalation is required if any traveling fairground advertises a "singing monster
 
 ---
 
-# OPERATIONAL RECORDS
+## OPERATIONAL RECORDS
 
-## Restricted Operational Extract
+### Restricted Operational Extract
 
 ```text
 SOURCE:       AFD-SU-507 primary anomaly file
@@ -288,9 +288,9 @@ A.C.T NOTE:   This phrase is restricted from casual quotation around AFD-SU-507.
 
 ---
 
-# INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
+## INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
 
-## Confirmed Operational Facts
+### Confirmed Operational Facts
 
 - Amazoo Circus was named as an unregistered anomalous humanoid collective in AFD-SU-507's discovery record.
 - A.C.T raided the Circus under Operation BIG TOP and Broken Ring response framing.
@@ -299,11 +299,11 @@ A.C.T NOTE:   This phrase is restricted from casual quotation around AFD-SU-507.
 - The subject's trauma triggers include crowds, command posture, loud noise, and memories of Grand Master Amazoo.
 - Recovered diary material repeatedly references an absent partner, a tyrant figure, two young lions, chanting audiences, forced singing, and abandonment.
 
-## Active Intelligence Assessment
+### Active Intelligence Assessment
 
 A.C.T assesses Amazoo Circus as an exploitation network disguised as performance culture. It likely collected, conditioned, displayed, and controlled anomalous humanoids for emotional extraction, profit, ritual effect, or Grand Master Amazoo's personal ideology. The Circus is not currently assessed as destroyed because its leader escaped and its full performer inventory was never confirmed.
 
-## Persistent Questions
+### Persistent Questions
 
 - Who is Grand Master Amazoo?
 - Is Grand Master Amazoo human, anomalous, transformed, title-bound, or replaced between shows?
@@ -334,15 +334,15 @@ A.C.T assesses Amazoo Circus as an exploitation network disguised as performance
 - Would AFD-SU-507 recognize Amazoo's voice, or only the command posture?
 - Is the Circus trying to reclaim her, silence her, or leave her as bait for A.C.T?
 
-## Intelligence Confidence
+### Intelligence Confidence
 
 High that Amazoo Circus existed and exploited AFD-SU-507. Moderate that it handled multiple anomalous humanoid or animal acts. Low regarding its full reach, origin, membership, exact anomalous capability, and current condition. Confidence cannot be upgraded until POI-0507 is captured, a second survivor gives compatible testimony, or recovered route evidence identifies the missing acts.
 
 ---
 
-# CROSS-REFERENCE STATUS
+## CROSS-REFERENCE STATUS
 
-## Anomaly and Record Relationship
+### Anomaly and Record Relationship
 
 Primary cross-reference chain:
 
@@ -352,7 +352,7 @@ Primary cross-reference chain:
 
 Amazoo Circus is an organization record. AFD-SU-507 remains a subject anomaly record and survivor-care file. Grand Master Amazoo remains POI-0507 unless upgraded to anomaly filing through later evidence.
 
-## Related A.C.T Records
+### Related A.C.T Records
 
 - GOI Record Template and GOI Registry folder doctrine
 - AFD-SU-507 / Circus Monster primary anomaly file
@@ -360,13 +360,13 @@ Amazoo Circus is an organization record. AFD-SU-507 remains a subject anomaly re
 - Operation BIG TOP / Broken Ring operational references
 - Subject Care Division quiet-suite and no-audience restrictions
 
-## Dual Filing
+### Dual Filing
 
 Under review. The Circus as an institution is filed as a GOI. Grand Master Amazoo may require a separate POI or AFD record if anomalous traits are confirmed. Individual survivors and performers require separate anomaly, medical, or missing-person files and must not be reduced to circus property.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 ```text
 FILE CREATED:            12/09/2026

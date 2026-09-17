@@ -1,9 +1,9 @@
 # ACT Facility Full Research Dossier Non-Summarize, Full on Detail
 
-## Title Statement
+### Title Statement
 This volume serves as the integrated master-reference book for the A.C.T universe currently compiled from the provided archive materials.
 
-## Compiler’s Preface
+### Compiler’s Preface
 This document exists for a practical reason as much as a literary one. The A.C.T universe is distributed across many separate files, each carrying part of the whole: overview doctrine, internal structure, classification systems, site records, historical origin, GOI logic, anomaly files, and archive supplements. Left separated, those files function like scattered pages. They can preserve material, but they do not always preserve continuity. A reader must repeatedly jump outward, reattach references, and reconstruct the whole from fragments.
 
 This volume is intended to prevent that problem.
@@ -16,7 +16,7 @@ Where the original archive already explains itself well, the aim is not to flatt
 
 This book is therefore both a compilation and a reconstruction.
 
-## Reader’s Orientation
+### Reader’s Orientation
 A future reader approaching this dossier should understand four things immediately.
 
 First, this is not a public-facing in-universe pamphlet. It is closer to an internal master archive volume or world-bible document. The language therefore preserves doctrinal precision rather than smoothing everything into ordinary civilian explanation.
@@ -29,9 +29,9 @@ Fourth, some sections of this book read more like doctrine, some more like histo
 
 ---
 
-# Table of Contents
+## Table of Contents
 
-## Book I — The Facility and Its Burden
+### Book I — The Facility and Its Burden
 1. The A.C.T Facility in Full View  
 2. The Meaning of the Name  
 3. The Main Goal  
@@ -43,7 +43,7 @@ Fourth, some sections of this book read more like doctrine, some more like histo
 9. Gray Morality and the Ethics of Survival  
 10. The Motto and the Burden It Condenses  
 
-## Book II — Structure, Command, and Buried Daily Life
+### Book II — Structure, Command, and Buried Daily Life
 11. The Internal Structure of the Facility  
 12. The Command Chain  
 13. The Wings of the Facility  
@@ -53,7 +53,7 @@ Fourth, some sections of this book read more like doctrine, some more like histo
 16A. Operational Culture and Division Function in Daily Practice  
 17. E-Class, Discipline, and Psychological Attrition  
 
-## Book III — Reality Doctrine and Anomaly Logic
+### Book III — Reality Doctrine and Anomaly Logic
 18. Anomalies as Breaks in the Law of Reality  
 19. Structural Reality, Void Collapse, and Reality Reset  
 20. Reality Bending as Hidden Nature  
@@ -72,20 +72,20 @@ Fourth, some sections of this book read more like doctrine, some more like histo
 28. Observation Restrictions, Breach States, and Information Suppression  
 28A. The Twelve Anomaly Log Categories  
 
-## Book IV — Sites, Jurisdiction, and the Hidden Global Lattice
+### Book IV — Sites, Jurisdiction, and the Hidden Global Lattice
 29. What a Site Is  
 30. Site Registry Doctrine and Writing Standard  
 31. Jurisdiction and Hidden Territorial Control  
 32. The Global Site Registry  
 33. The Supporting Sub-Sites in Full  
 
-## Book V — External Powers, Rival Structures, and the Organized World Around the Anomalous
+### Book V — External Powers, Rival Structures, and the Organized World Around the Anomalous
 34. What Qualifies as a GOI  
 35. GOI Designation and Classification  
 36. External Threat Doctrine  
 37. Sample GOIs  
 
-## Book VI — The Deep History of A.C.T and the ABYSS Origin
+### Book VI — The Deep History of A.C.T and the ABYSS Origin
 38. Before the Facility Had a Name  
 39. The First Signs  
 40. First Deployment  
@@ -94,12 +94,12 @@ Fourth, some sections of this book read more like doctrine, some more like histo
 43. Construction of the ABYSS Floor  
 44. The First Doctrine and the Birth of Modern A.C.T  
 
-## Book VII — Representative Foundational Anomalies
+### Book VII — Representative Foundational Anomalies
 45. ITHYOS, The World-Sleeper  
 46. NEMNOLIA, The Golden Veil / The Forgetting Bloom  
 46A. The 004-Series Amnestic Compound Reference  
 
-## Book VIII — Final Synthesis and Reference Aid
+### Book VIII — Final Synthesis and Reference Aid
 47. What Makes A.C.T Distinct  
 48. Glossary of Core Terms  
 49. Quick Reference Index  
@@ -107,9 +107,9 @@ Fourth, some sections of this book read more like doctrine, some more like histo
 
 ---
 
-# Book I — The Facility and Its Burden
+## Book I — The Facility and Its Burden
 
-## Chapter 1 — The A.C.T Facility in Full View
+### Chapter 1 — The A.C.T Facility in Full View
 
 The **A.C.T Facility**, short for **Anomaly Containment Transformation**, is a covert scientific organization dedicated to preserving the structural stability of Earth’s reality through the control, study, and transformation of anomalous phenomena. Its purpose is to locate, secure, and contain objects, entities, and events that defy natural law and threaten the world’s normal order, while minimizing civilian exposure and preventing public awareness of the impossible. Beyond containment, A.C.T conducts extensive research into the nature of anomalies, seeking to understand the hidden laws behind them and, where possible, transform them into manageable assets or stable phenomena. Operating from the shadows with the cooperation of only a limited fraction of government authorities, the Facility maintains secrecy as a necessary defense against panic, social collapse, and reality destabilization. Guided by the motto, **“To A.C.T is to maintain the normalcy and the stability of Earth and its populace,”** the organization sees itself as the unseen guardian of a fragile world. Yet despite its protective mission, A.C.T remains fundamentally gray in nature, willing to sacrifice ethics, truth, and even human life if it believes such measures are required to preserve reality and ensure humanity’s survival.
 
@@ -119,23 +119,23 @@ To understand A.C.T properly, one must understand that it does not think in ordi
 
 ---
 
-## Chapter 2 — The Meaning of the Name
+### Chapter 2 — The Meaning of the Name
 
 **A.C.T** stands for **Anomaly Containment Transformation**, the central doctrine and operational foundation of the Facility. The name defines the three pillars of its purpose: to identify anomalous phenomena, to contain them before they can threaten the world, and to transform them through research, control, or adaptation into something that can be understood, stabilized, or made useful. A.C.T is not merely a reactionary organization—it exists to impose order on the impossible.
 
 The name matters because it is not decorative. It is doctrinal structure written into a title.
 
-### Anomaly
+#### Anomaly
 The first word identifies the thing around which the whole institution turns. The world contains phenomena that do not obey accepted natural law. These phenomena are not treated as superstition, rumor, or accidental legend. They are treated as real categories of existence. An anomaly may appear as an object, a living subject, a place, a span of time, a space distortion, a biological hazard, a memetic infection, an informational structure, a cosmic-scale pressure, or an ontological instability that resists stable naming.
 
 In A.C.T doctrine, anomaly does not simply mean “strange.” It means a thing, event, structure, or condition whose existence reveals law-breaking behavior in reality itself.
 
-### Containment
+#### Containment
 The second word identifies the first practical burden. Once an anomaly is known, it must be controlled before it spreads, influences, infects, escapes, distorts, or becomes publicly visible. Containment includes isolation, suppression, route control, procedural handling, specialized architecture, secrecy enforcement, environmental regulation, access restriction, and sometimes continuous human labor.
 
 Containment is therefore not limited to the popular image of putting something into a cell or a box. In A.C.T logic, containment may mean keeping a sleeping entity asleep, keeping a place from being approached, keeping a document from being read incorrectly, keeping a memory-hazard from entering public language, or keeping the world from learning something it cannot survive knowing.
 
-### Transformation
+#### Transformation
 The third word makes A.C.T more dangerous and more distinctive than a purely custodial institution. The Facility does not believe the impossible should only be buried and feared. Through research, experimentation, refinement, and directed intervention, some anomalies may be altered in status. They may become stabilized, neutralized, repurposed, or integrated into controlled systems.
 
 Transformation is where A.C.T’s scientific ambition and gray morality meet most openly. It is the place where the organization stops merely surviving the impossible and begins trying to govern it.
@@ -144,7 +144,7 @@ Taken together, the name declares the complete institutional posture of A.C.T: i
 
 ---
 
-## Chapter 3 — The Main Goal
+### Chapter 3 — The Main Goal
 
 The primary goal of the **A.C.T Facility** is to preserve the structural stability of Earth’s reality. The organization operates under the understanding that reality is not as secure or as natural as humanity believes it to be. Across the world, there exist anomalies—objects, entities, locations, substances, and events—that defy accepted natural law and possess the capacity to distort matter, time, mind, biology, or reality itself. Left unchecked, these anomalies may destabilize civilization, unravel local or global normalcy, and in the worst cases threaten the continuity of existence. A.C.T exists to prevent that outcome at all costs.
 
@@ -156,7 +156,7 @@ The phrase **“at all costs”** is therefore not a piece of dramatic language.
 
 ---
 
-## Chapter 4 — Containment as First Duty
+### Chapter 4 — Containment as First Duty
 
 Containment is the Facility’s first and most immediate responsibility. Once an anomaly is identified, A.C.T prioritizes isolation, suppression, control, and environmental regulation to prevent it from affecting civilian populations or spreading beyond a manageable boundary. The organization treats every anomaly as a potential threat regardless of initial appearance, since even seemingly harmless anomalies may carry hidden risks or cascading consequences. Through containment, A.C.T ensures that public exposure remains minimal, panic is avoided, and anomalous influence does not compromise the safety of humanity or the integrity of reality.
 
@@ -178,7 +178,7 @@ This is why the Facility treats containment as the first defense. Before an anom
 
 ---
 
-## Chapter 5 — Transformation as Long-Term Doctrine
+### Chapter 5 — Transformation as Long-Term Doctrine
 
 The Facility does not believe containment alone is enough. The third pillar of its doctrine—**Transformation**—reflects its long-term objective to move beyond simple imprisonment of anomalies. Through controlled experimentation, analysis, and development, A.C.T seeks to alter the role of anomalies in the world. If a phenomenon can be stabilized, neutralized, repurposed, weaponized, or integrated into controlled systems, then it ceases to be only a threat and becomes a potential asset. Transformation is the process by which the unknown is redefined: from danger into utility, from instability into managed function, and from fear into controlled advantage.
 
@@ -190,7 +190,7 @@ The archive example of NEMNOLIA becoming the basis of amnestic compounds is one 
 
 ---
 
-## Chapter 6 — Research as the Deep Heart of A.C.T
+### Chapter 6 — Research as the Deep Heart of A.C.T
 
 At its core, A.C.T is a scientific organization. Although it employs containment teams, security forces, and covert operatives, these exist in service to its greater purpose: the pursuit of knowledge. The Facility views anomalies not as isolated accidents, but as evidence of deeper truths hidden beneath conventional science. Through observation, experimentation, dissection, simulation, and theoretical analysis, A.C.T attempts to uncover the laws that govern anomalous existence. Each anomaly is both a hazard and a source of knowledge. To understand the anomaly is to understand more about reality itself, and to understand reality is to control it.
 
@@ -202,7 +202,7 @@ Each anomaly is treated as both threat and evidence. Every containment file is a
 
 ---
 
-## Chapter 7 — Secrecy as Structural Necessity
+### Chapter 7 — Secrecy as Structural Necessity
 
 The **A.C.T Facility** operates in secrecy, hidden behind layers of misinformation, compartmentalization, and covert infrastructure. Officially, it does not exist in the public sphere. Unofficially, it is known only to a limited percentage of governments, intelligence branches, and select scientific authorities, many of whom are only partially informed of its true scale or operations. The Facility maintains the illusion of a normal world by suppressing evidence, controlling narratives, eliminating public awareness of anomalous incidents, and restricting knowledge to those deemed necessary. Secrecy is not merely policy—it is a structural necessity. In the eyes of A.C.T, humanity’s ignorance of the anomalous is one of the foundations that keeps civilization intact.
 
@@ -224,7 +224,7 @@ Normal life in the A.C.T universe is not natural innocence. It is maintained ign
 
 ---
 
-## Chapter 8 — The Site Network and Distributed Body of A.C.T
+### Chapter 8 — The Site Network and Distributed Body of A.C.T
 
 A.C.T does not exist only as one buried core installation. In modern doctrine, the Facility operates through a wider network of recognized **SITES** and **SUB-SITES**, each assigned to specific regional, recovery, secrecy, containment, archive, or research functions. Detailed installation logic is preserved through Site Doctrine, Site Registry, and Jurisdiction records.
 
@@ -236,7 +236,7 @@ The network is therefore not an optional extension of A.C.T. It is the practical
 
 ---
 
-## Chapter 9 — Gray Morality and the Ethics of Survival
+### Chapter 9 — Gray Morality and the Ethics of Survival
 
 A.C.T is neither purely benevolent nor openly tyrannical. It is a **gray organization**, one defined by necessity, pragmatism, and morally ambiguous choices. The Facility exists to protect humanity and preserve reality, but it does so through methods that often violate conventional ethics. It may conceal truth, authorize human experimentation, sacrifice lives, weaponize dangerous anomalies, or erase entire incidents from public memory if leadership determines such actions are necessary for the greater good. To A.C.T, morality is secondary to survival. The preservation of reality outweighs individual innocence, public transparency, and idealistic restraint.
 
@@ -248,7 +248,7 @@ This does not mean the institution is portrayed as simply evil. It means it is p
 
 ---
 
-## Chapter 10 — The Motto and the Burden It Condenses
+### Chapter 10 — The Motto and the Burden It Condenses
 
 > **“To A.C.T is to maintain the normalcy and the stability of Earth and its populace.”**
 
@@ -260,9 +260,9 @@ The motto is one of the clearest signals that A.C.T sees itself as burdened rath
 
 ---
 
-# Book II — Structure, Command, and Buried Daily Life
+## Book II — Structure, Command, and Buried Daily Life
 
-## Chapter 11 — The Internal Structure of the Facility
+### Chapter 11 — The Internal Structure of the Facility
 
 If the first book establishes what A.C.T is, the next task is to establish how it functions. The A.C.T Facility is not simply a hidden prison for impossible things; it is an organized, hierarchical, and deeply compartmentalized institution built to detect, suppress, study, and transform disruptions to structural reality. Every division, clearance level, containment class, and doctrine exists for one purpose: to ensure that the fragile balance of Earth and reality itself does not collapse beneath forces that humanity was never meant to fully understand.
 
@@ -272,70 +272,70 @@ The structure is therefore not bureaucratic decoration. It is part of containmen
 
 ---
 
-## Chapter 12 — The Command Chain
+### Chapter 12 — The Command Chain
 
 The A.C.T Facility operates through a rigid vertical command chain in which authority, information access, and responsibility are strictly distributed. This hierarchy is meant to prevent internal collapse, knowledge leaks, and decision paralysis during anomalous crises.
 
-### O5 Council / Overseer Five Council
+#### O5 Council / Overseer Five Council
 At the apex of the organization stands the **O5 Council**, also called the **Overseer Five Council**. These individuals represent the highest decision-making authority within A.C.T. They do not merely oversee day-to-day operations; they determine long-term doctrine, facility direction, classified policies, extreme-response authorization, and the moral boundaries the organization is willing to cross. O5 members possess access to the deepest truths of anomaly theory, structural reality, and classified cosmological knowledge. In practice, they are less administrators and more custodians of the line between reality and collapse.
 
-### Facility Administrator
+#### Facility Administrator
 The **Facility Administrator** functions as the highest executive authority beneath the O5 Council. Where the O5 defines policy and direction, the Administrator ensures that the Facility itself remains functional, obedient, and capable. This role oversees all site-level governance, inter-divisional coordination, resource distribution, long-term internal stability, and disciplinary authority. The Administrator is effectively the living mechanism through which O5 will becomes operational reality.
 
-### High Threat Administrator
+#### High Threat Administrator
 A **High Threat Administrator** is a senior Administrator-track officer appointed to govern responses, research, and transformation decisions involving **Threat Level 7 and above** anomalies — those whose failure could endanger nations, continents, or reality itself. They hold O5-delegated authority within that high-threat mandate, outranking ordinary site governance only on matters that cross their threshold, and they serve as the final institutional checkpoint before the O5 Council in transformation authorization.
 
-### Site Director
+#### Site Director
 A **Site Director** governs a specific A.C.T site, branch, or operational complex. Site Directors are responsible for the practical management of personnel, containment systems, local anomaly programs, emergency responses, and coordination between departments housed within the site. If a branch falls, it is the Site Director who is held responsible.
 
-### Head Transformation
+#### Head Transformation
 The **Head Transformation** is the senior authority of the **Transformation Division** and the Facility's principal arbiter of transformation doctrine. Where High Researchers and Site Directors judge individual anomalies, the Head Transformation judges whether transformation itself is safe, lawful, and sustainable across the wider Facility — approving, revising, or rejecting transformation proposals that exceed site-level authority.
 
-### High Researcher
+#### High Researcher
 A **High Researcher** is among the highest scientific authorities within the Facility. They oversee advanced anomaly study, cross-divisional scientific planning, transformation approval recommendations, and the interpretation of reality-breaking phenomena. Their role bridges science and policy, especially when an anomaly’s behavior affects broader containment logic or structural reality.
 
-### Senior Researcher
+#### Senior Researcher
 A **Senior Researcher** manages active study teams, laboratory direction, experiment oversight, and field interpretation of anomalous evidence. They translate high-level scientific theory into workable procedures. In many cases, Senior Researchers are the individuals who first determine whether an anomaly is merely dangerous, scientifically invaluable, or potentially transformative.
 
-### Field Operating Chief
+#### Field Operating Chief
 A **Field Operating Chief** is the senior commander of field, recovery, and tactical operations within a site or regional command. Where Task Force Commanders lead individual teams and missions, the Field Operating Chief directs the full field apparatus — approving recovery plans, overseeing black-zone deployments, and endorsing field-initiated proposals, including transformation requests, before they pass upward to scientific and site command.
 
-### Task Force Commander
+#### Task Force Commander
 The **Task Force Commander** leads organized response teams assigned to field recovery, containment breach response, hostile anomaly suppression, and blacksite intervention. They operate where research ends and deployment begins. Their authority is tactical and immediate, particularly in live crisis zones.
 
-### Field Operator
+#### Field Operator
 A **Field Operator** serves on the ground in direct contact with anomalous incidents, recoveries, witness suppression, perimeter establishment, and site support. They are often the first true agents of A.C.T to encounter newly emerged anomalies.
 
-### Junior Researcher
+#### Junior Researcher
 A **Junior Researcher** supports laboratory and archive operations under supervision. Their access is limited, but they form the next generation of scientific personnel and are often tasked with data compilation, low-risk testing, analysis support, and anomaly documentation preparation.
 
-### Facility Guard
+#### Facility Guard
 The **Facility Guard** represents the physical security arm of internal operations. Guards enforce access restrictions, secure restricted zones, escort dangerous personnel or materials, and act as the first internal response layer to breaches or civil instability within the site.
 
-### Facility Archiver
+#### Facility Archiver
 A **Facility Archiver** is responsible for the preservation, organization, redaction, and controlled release of anomaly records. Archivers are not simple clerks; they are custodians of dangerous information. In A.C.T doctrine, information itself may be anomalous, infectious, destabilizing, or lethal. Archivers therefore stand between knowledge and disaster.
 
-### Junior Archiver
+#### Junior Archiver
 A **Junior Archiver** is the entry-level role of the **Archiver Division**. Junior Archivers handle low-risk record organization, controlled copying, data entry, supervised redaction preparation, and archive catalog maintenance under the Facility Archivers. Their access is limited by design: they handle the paper, not the poison — until they prove they can survive handling dangerous information.
 
-### Facility Junior Employee
+#### Facility Junior Employee
 The **Facility Junior Employee** occupies a low-level support role involving logistics, administration, inventory, maintenance support, document handling, and non-sensitive internal services. They know enough to function, but never enough to compromise the whole.
 
-### Site Janitor
+#### Site Janitor
 The **Site Janitor** exists at the lowest visible level of internal infrastructure. Despite the apparent mundanity of the role, A.C.T janitorial staff operate in an environment where biological contamination, memetic residue, research waste, and post-incident cleanup may all be dangerous. In some sites, janitorial labor is one of the most quietly hazardous duties in the Facility.
 
-### Recruiter
+#### Recruiter
 The **Recruiter** is positioned at the edge of A.C.T’s human pipeline. Recruiters identify, evaluate, and discreetly acquire individuals useful to the organization, whether as staff, contractors, specialists, or disposable external assets. Their low internal position reflects limited access—not lack of importance. They are responsible for ensuring the Facility’s shadow workforce remains supplied without exposing its existence.
 
 The command chain is therefore not simply a list of roles. It is a structure built to distribute danger, limit truth, assign responsibility, and prevent the organization from collapsing under the weight of what it knows.
 
 ---
 
-## Chapter 13 — The Wings of the Facility
+### Chapter 13 — The Wings of the Facility
 
 Beyond its rank structure, the physical and administrative layout of the A.C.T Facility is organized through a directional wing system. Each wing reflects not only operational convenience, but philosophical purpose. The Facility is structured like a body: force to one side, memory to another, command at the rear, science at the front, and the anomaly itself at the center.
 
-### West Wings
+#### West Wings
 The **West Wings** house the enforcement and hard-response branches of the Facility. This is the side of A.C.T associated with force, security, and direct engagement.
 
 - **Security Division**: Responsible for internal law enforcement, checkpoint control, armed containment support, personnel surveillance, and emergency lockdown implementation.
@@ -345,7 +345,7 @@ The **West Wings** house the enforcement and hard-response branches of the Facil
 
 The West side of the Facility is therefore the side that acts with force when force becomes necessary.
 
-### East Wings
+#### East Wings
 The **East Wings** represent information control, bureaucratic stability, and operational coordination.
 
 - **Archiver Division**: Maintains documents, incident logs, access records, anomaly files, redactions, and restricted knowledge repositories.
@@ -354,7 +354,7 @@ The **East Wings** represent information control, bureaucratic stability, and op
 
 The East side is the memory and information-body of A.C.T. It is where the Facility decides what may be known, what must be hidden, and how knowledge itself can be managed without becoming a threat.
 
-### South Wings
+#### South Wings
 The **South Wings** hold the highest administrative and covert strategic functions of the Facility.
 
 - **O5 Headquarters**: The secure operational seat for the Overseer Five Council’s presence, communications, and restricted directives.
@@ -363,7 +363,7 @@ The **South Wings** hold the highest administrative and covert strategic functio
 
 The South side is the strategic rear body of the institution, where command continuity, funding invisibility, and surface-world manipulation are preserved.
 
-### North Wings
+#### North Wings
 The **North Wings** are the scientific and medical heart of the A.C.T Facility.
 
 - **Researcher Division**: The primary body for anomaly study, theoretical analysis, experimentation, and scientific interpretation.
@@ -373,7 +373,7 @@ The **North Wings** are the scientific and medical heart of the A.C.T Facility.
 
 The North side is where the impossible is studied, translated, tested, and sometimes converted.
 
-### Central
+#### Central
 The **Central** sector is the operational spine of the Facility. Everything else exists around it.
 
 - **Anomaly Containment Elevator**: A vertical transport system used to move anomalous objects, secured entities, research cargo, and emergency response units between containment layers.
@@ -384,42 +384,42 @@ The Central sector is the symbolic and literal core of A.C.T: where the hidden w
 
 ---
 
-## Chapter 14 — Clearance and Survivable Knowledge
+### Chapter 14 — Clearance and Survivable Knowledge
 
 Clearance in A.C.T is not simply a matter of authority—it is a matter of survivable knowledge. Not all truths can be safely known, and not all personnel can be trusted with the same version of reality.
 
-### Non-Access
+#### Non-Access
 **Civilians.** No awareness of A.C.T is permitted. The public is not merely uninformed; it is intentionally protected from knowledge that could destabilize minds, societies, or reality itself.
 
-### Level E — E-Class / Excommunicated Class
+#### Level E — E-Class / Excommunicated Class
 A highly restricted category assigned to condemned, disposable, censured, or operationally isolated individuals. E-Class personnel may be used in dangerous testing, exposure trials, punitive assignments, or sacrificial procedures where standard personnel cannot be risked.
 
-### Level 0
+#### Level 0
 Assigned to **Janitors** and **Recruiters**. These individuals are acknowledged as operationally necessary but receive only the most minimal controlled awareness.
 
-### Level 1
+#### Level 1
 Assigned to **Junior Employees**. They possess limited institutional knowledge and access only to low-risk support areas.
 
-### Level 2
+#### Level 2
 Assigned to **Guards**, **Archivers**, and **Junior Archivers**. These personnel require controlled access to security zones, archived records, and restricted internal workflows.
 
-### Level 3
+#### Level 3
 Assigned to **Field Operators** and **Senior Researchers**. This level allows active engagement with operational anomalies, field response data, and site-level classified incidents.
 
-### Level 4
+#### Level 4
 Assigned to **Field Operating Chiefs**, **Task Force Command**, **Head Transformation**, **High Researchers**, and **Site Directors**. These individuals oversee dangerous operations and possess broad knowledge of live anomaly programs.
 
-### Level 5
+#### Level 5
 Assigned to the **Facility Administrator** and **High Threat Administrators**. This level grants near-total site authority, full administrative oversight, and access to highly restricted truth sets.
 
-### O5 Access Card
+#### O5 Access Card
 Reserved exclusively for **O5 Council members**. This clearance does not simply exceed Level 5; it bypasses ordinary compartmentalization entirely. O5 access permits entry into truths that may be hidden even from Administrators and Site Directors.
 
 The purpose of this structure is not simply to control privilege. It is to control exposure. In A.C.T, to know too much too early can be as dangerous as being physically near the wrong anomaly.
 
 ---
 
-## Chapter 15 — The Facility as a Living System
+### Chapter 15 — The Facility as a Living System
 
 The A.C.T Facility is not merely a headquarters, a laboratory, or a prison. It is a **living operational system** built around the permanent management of anomalies. Every division, floor, and role exists to support one or more of the following functions:
 
@@ -440,7 +440,7 @@ The effect is that A.C.T behaves less like a single office and more like a hidde
 
 ---
 
-## Chapter 16 — Recruitment, Internalization, and Daily Operation
+### Chapter 16 — Recruitment, Internalization, and Daily Operation
 
 A.C.T does not recruit the way normal institutions recruit.
 
@@ -493,7 +493,7 @@ A normal day may include:
 
 In A.C.T, routine is the disguise worn by constant danger.
 
-### Operational Culture
+#### Operational Culture
 
 A.C.T culture is built around several quiet assumptions:
 
@@ -510,7 +510,7 @@ This produces a culture that is cold, professional, deeply suspicious, darkly pr
 
 There are no truly ordinary employees in A.C.T. Only personnel at different distances from the truth.
 
-### Division Function in Daily Practice
+#### Division Function in Daily Practice
 
 Beyond the structural overview of wings and divisions, it is worth understanding what each division actually does in daily operation.
 
@@ -544,7 +544,7 @@ Beyond the structural overview of wings and divisions, it is worth understanding
 
 ---
 
-## Chapter 17 — E-Class, Discipline, and Psychological Attrition
+### Chapter 17 — E-Class, Discipline, and Psychological Attrition
 
 E-Class personnel are used where risk cannot be ethically or operationally assigned to protected staff.
 
@@ -590,9 +590,9 @@ This is why the Facility must constantly rotate, isolate, evaluate, and medicall
 
 ---
 
-# Book III — Reality Doctrine and Anomaly Logic
+## Book III — Reality Doctrine and Anomaly Logic
 
-## Chapter 18 — Anomalies as Breaks in the Law of Reality
+### Chapter 18 — Anomalies as Breaks in the Law of Reality
 
 Anomalies are understood by A.C.T as **breaks in the law of reality**. They are not simply supernatural irregularities, but manifestations of structural weakness in existence itself. According to A.C.T theory, many anomalies emerge when the universe undergoes a **Minor Pause**—a brief and almost immeasurable lapse in the continuity of reality caused when the **Cosmic Timer** completes an iteration.
 
@@ -602,7 +602,7 @@ This shifts the understanding of anomalies away from folklore and toward cosmolo
 
 ---
 
-## Chapter 19 — Structural Reality, Void Collapse, and Reality Reset
+### Chapter 19 — Structural Reality, Void Collapse, and Reality Reset
 
 **Structural Reality** is the balanced phase of existence in which the world remains coherent, habitable, and intelligible. A.C.T doctrine describes it as existing on a scale between two catastrophic extremes:
 
@@ -615,7 +615,7 @@ A.C.T therefore interprets its mission not as ordinary defense, but as the maint
 
 ---
 
-## Chapter 20 — Reality Bending as Hidden Nature
+### Chapter 20 — Reality Bending as Hidden Nature
 
 Reality bending is not considered magic in A.C.T theory. It is the consequence of reality behaving as a form of hidden nature. Nature bends, shifts, mutates, and breaks according to pressure, environment, and law—even when those laws are invisible to mortal perception. Reality can bend because it is not static; it is a living structure of principles, tensions, and cycles.
 
@@ -625,7 +625,7 @@ This framework allows A.C.T to treat anomalies as part of the world’s deeper s
 
 ---
 
-## Chapter 21 — Designation Systems and the Language of the Archive
+### Chapter 21 — Designation Systems and the Language of the Archive
 
 A.C.T uses a structured designation system to identify the fundamental nature of an anomaly before full study is complete. These designations function as the first layer of operational understanding.
 
@@ -633,7 +633,7 @@ When an anomaly is first encountered, it may be labeled under provisional **Unkn
 
 The archive also preserves a deeper historical note: before the formal use of the term anomaly, impossible phenomena were often recorded simply as **ENTITY** files. These pre-doctrinal records were survival documents before they were elegant archival systems. The oldest preserved example is **ENTITY-000**, later modernized into **AFD-CH-000**.
 
-### Recognized Field Type Codes
+#### Recognized Field Type Codes
 - **OB** = Object
 - **SU** = Subject
 - **PL** = Place
@@ -645,30 +645,30 @@ The archive also preserves a deeper historical note: before the formal use of th
 - **NB** = Non-Natural Bio Hazard
 - **?.H** = Shifting Hazard
 
-### Shifting Hazard
+#### Shifting Hazard
 The **?.H** designation is reserved for anomalies that resist stable categorization. These may shift between object and subject, place and space, memetic and cosmic, or otherwise alter their ontological status depending on observation, time, ritual state, or unknown triggers. A shifting hazard is treated with extreme caution because the act of categorization itself may be inaccurate, incomplete, or dangerous.
 
-### Designation Structures
+#### Designation Structures
 A.C.T uses three primary designation structures:
 - `UFD-XX-###`
 - `AFD-XX-###`
 - `ANM-XX-XX-####`
 
-#### UFD — Unknown Field Designation
+##### UFD — Unknown Field Designation
 Assigned during provisional detection and verification when anomalous status is suspected but not yet fully confirmed or stabilized in archive logic.
 
-#### AFD — Anomaly Field Designation
+##### AFD — Anomaly Field Designation
 Assigned once the anomaly has been formally verified and entered into permanent A.C.T archive structure.
 
-#### ANM — Fracture Designation
+##### ANM — Fracture Designation
 Used for anomalies whose documentation must be understood through fracture-state logic. In this format, the first **XX** is the **Fracture Containment Index** code, the second **XX** is the **Fracture Sub-Threat Index** code, and **####** is the numerical registry code. The official code list is given in Chapter 25.
 
 The function of this system is not simply labeling. It is the creation of a language through which the Facility can speak about the impossible without drowning in ambiguity.
 
-### Reserved Significance
+#### Reserved Significance
 Some numbers hold special historical meaning within the designation system. The number **000** is treated as a designation of foundational or origin-level significance and is never assigned casually. It marks the beginning of archive history itself — ENTITY-000 / AFD-CH-000 remains the first and only holder of this number.
 
-### The Operational Doctrine Sequence
+#### The Operational Doctrine Sequence
 The standard response order of the A.C.T Facility is:
 
 **DETECT > VERIFY > CONCEAL > CONTAIN > ASSESS > RESEARCH > TRANSFORM > MAINTAIN**
@@ -686,7 +686,7 @@ Each step reflects the Facility’s worldview:
 
 This doctrine reveals that A.C.T is not reactive alone — it is cyclical. An anomaly is never truly “finished”; it must be continually maintained within the larger order of reality.
 
-### Internal Philosophy
+#### Internal Philosophy
 Beneath the bureaucracy, A.C.T is driven by a harsh internal ideology:
 
 - anomalies are threats first — opportunities second
@@ -699,11 +699,11 @@ These principles justify the Facility’s secrecy, brutality, and utilitarian et
 
 ---
 
-## Chapter 22 — Official File Categories
+### Chapter 22 — Official File Categories
 
 A.C.T recognizes two major official documentation categories for anomaly records.
 
-### The Standard Format
+#### The Standard Format
 The **Standard Format** is the primary anomaly archive structure used for the majority of documented anomalies. It is used for stable, verified, and conventionally recordable cases where the anomaly can be described within a complete archival file.
 
 The Standard Format includes:
@@ -730,7 +730,7 @@ It answers the question:
 
 > **What is this anomaly, how dangerous is it, how is it contained, and what is its place in A.C.T archive logic?**
 
-### The RCT Format
+#### The RCT Format
 The **RCT Format** is a specialized anomaly record focused on three operational axes:
 - **CO** — Containment
 - **RE** — Research
@@ -742,7 +742,7 @@ It answers the question:
 
 > **How are we holding it, what are we learning from it, and can it be changed into something useful without destroying ourselves?**
 
-### Relationship Between the Two
+#### Relationship Between the Two
 These are not competing systems.
 - **Standard Format** = full archival identity
 - **RCT Format** = live operational handling body
@@ -754,7 +754,7 @@ The archive also expects modern anomaly files to include site integration fields
 ---
 
 
-### The Standard Format — Full Field Structure
+#### The Standard Format — Full Field Structure
 
 The Standard Format is the primary anomaly archive structure. Its field-by-field architecture is as follows:
 
@@ -801,11 +801,11 @@ The classification header is the truth at a glance. Personnel should be able to 
 
 ---
 
-### The RCT Format — Full Block Structure
+#### The RCT Format — Full Block Structure
 
 The RCT Format organizes an anomaly file into three operational blocks, each answering a different operational question.
 
-#### CO Block — Containment
+##### CO Block — Containment
 
 **Core Question:** *What does it take to hold this anomaly, and what happens when we fail?*
 
@@ -817,7 +817,7 @@ The RCT Format organizes an anomaly file into three operational blocks, each ans
 
 **Breach Protocol:** BREACH RISK ASSESSMENT (Low, Moderate, High, Extreme, or Inapplicable) • BREACH TRIGGERS (known or suspected conditions; UNKNOWN if not identified) • BREACH RESPONSE (immediate action protocol including re-containment procedure, evacuation triggers, and authorization level required for override) • BREACH CONDITIONS MET (checkbox list) • CONTAINMENT HISTORY (log of all modifications, upgrades, downgrades, and failures with date, reason, and authorizing personnel)
 
-#### RE Block — Research
+##### RE Block — Research
 
 **Core Question:** *What is the anomaly doing to reality, and what does it reveal about the structure beneath?*
 
@@ -835,7 +835,7 @@ The RCT Format organizes an anomaly file into three operational blocks, each ans
 
 **Research Restrictions:** Limitations on what may be tested, how, or by whom. Include ethical constraints, O5 directives, containment-driven limitations, infohazard precautions, or transformation viability boundaries. Write STANDARD PROTOCOL if no special restrictions apply.
 
-#### TR Block — Transformation
+##### TR Block — Transformation
 
 **Core Question:** *Can this threat become an asset — and is the attempt worth the risk?*
 
@@ -851,7 +851,7 @@ The RCT Format organizes an anomaly file into three operational blocks, each ans
 
 ---
 
-### File Saving Convention
+#### File Saving Convention
 
 When an anomaly file is saved for distribution, archive transfer, or direct download, the file name should place the anomaly title first, followed by the designation.
 
@@ -866,7 +866,7 @@ Example: `I-AM-A-Test-AFD-OB-001.md`
 
 ---
 
-### Designation Format Reference
+#### Designation Format Reference
 
 An anomaly receives one of two designation prefixes depending on its verification status:
 
@@ -887,7 +887,7 @@ Example designations:
 | `UFD-?.H-000` | Unverified shifting hazard #000 |
 | `AFD-ME-013` | Verified memetic anomaly #013 |
 
-### Field Type Code Reference
+#### Field Type Code Reference
 
 | Code | Designation | Definition |
 |:---:|---|---|
@@ -904,55 +904,55 @@ Example designations:
 
 ---
 
-## Chapter 23 — Containment Classes
+### Chapter 23 — Containment Classes
 
 A.C.T’s containment classes do not merely describe danger—they describe **the relationship between the anomaly and the act of containment itself**.
 
-### INERT
+#### INERT
 *Will not leave the box, even if it can.*  
 These anomalies remain stable and passive under confinement, posing little active resistance.
 
-### RESIDUAL
+#### RESIDUAL
 *Scratches the walls, nothing more.*  
 The anomaly exerts minor interference but rarely escalates beyond manageable disruption.
 
-### SPORADIC
+#### SPORADIC
 *Rarely breaks out, nothing unpredictable.*  
 Containment failure is uncommon and follows recognizable patterns.
 
-### UNDISCLOSED
+#### UNDISCLOSED
 *Leaves by unknown means, returns by known ones.*  
 A deeply unsettling class in which exit conditions remain unexplained, even if recontainment patterns have been observed.
 
-### ENTROPIC
+#### ENTROPIC
 *Containment decays around it without maintenance.*  
 The anomaly degrades systems, order, or structural consistency simply by existing.
 
-### REACTIVE
+#### REACTIVE
 *Containment fails the moment you look away.*  
 These anomalies require active monitoring and rapid procedural enforcement.
 
-### EXIGENT
+#### EXIGENT
 *Containment is a full-time 24/7 operation.*  
 The anomaly demands constant labor, resources, surveillance, and intervention.
 
-### INVERTED
+#### INVERTED
 *It contains — does not merely need containing.*  
 This class implies that the anomaly itself is acting as a vessel, seal, barrier, or prison for something else.
 
-### UNENCLOSABLE
+#### UNENCLOSABLE
 *Too vast to enclose.*  
 These anomalies cannot be boxed, chambered, or physically bounded in a conventional sense.
 
-### INTANGIBLE
+#### INTANGIBLE
 *Cannot be touched, only witnessed.*  
 Containment depends on perception control, information restriction, ritual procedure, or indirect interaction.
 
-### TIAMAT
+#### TIAMAT
 *Beyond the frame of reference.*  
 The anomaly exceeds conventional containment logic and may operate on scales outside ordinary ontology, space-time, or causal law.
 
-### [BLANK]
+#### [BLANK]
 *Engagement is itself the threat.*  
 The most conceptually dangerous category, reserved for anomalies where observation, contact, naming, pursuit, or study may trigger escalation.
 
@@ -960,7 +960,7 @@ This class system is important because it reflects the Facility’s refusal to t
 
 ---
 
-## Chapter 24 — Threat Level
+### Chapter 24 — Threat Level
 
 Threat Level measures the scale of harm an anomaly may inflict if uncontained, mismanaged, or triggered.
 
@@ -982,18 +982,18 @@ It is therefore not only descriptive. It is operational.
 
 ---
 
-## Chapter 25 — Fracture Index
+### Chapter 25 — Fracture Index
 
 Not every anomaly threatens containment in a straightforward way. Some distort the very logic used to describe, contain, or assess them. For these cases, A.C.T maintains the **Fracture Index**, divided into two categories.
 
-### Fracture Index — Containment
+#### Fracture Index — Containment
 - **QUESTIONED** — *Did we even put it in the box — it's so passive you wonder if containment ever happened*
 - **ABSURD** — *How the hell is it in the box — it shouldn't fit, shouldn't stay, but somehow it does*
 - **MUTATED** — *The box grew legs — containment itself became the anomaly*
 - **UNAUTHORED** — *Who wrote this — the documentation is wrong, the procedure is wrong, something is rewriting the rules*
 - **SCHRÖDINGER** — *It's in the box, but not in the box — simultaneously contained and not contained, and observation determines which*
 
-### Fracture Index — Sub-Threat
+#### Fracture Index — Sub-Threat
 - **HARMLESS** — *Did it even hurt anybody — no damage, no effect, no consequence to anyone*
 - **BENEFICIAL** — *It healed someone — the anomaly actively improves or repairs, not harms*
 - **REVERTED** — *Somehow it reverted back — the damage undoes itself, as if the threat never happened*
@@ -1002,7 +1002,7 @@ Not every anomaly threatens containment in a straightforward way. Some distort t
 
 
 
-### Official Fracture Index Codes
+#### Official Fracture Index Codes
 When a fracture-sensitive designation is written in `ANM-XX-XX-####` form, the two letter segments abbreviate the Fracture Index:
 
 - **QUESTIONED** (`QU`) / **ABSURD** (`AB`) / **MUTATED** (`MU`) / **UNAUTHORED** (`UA`) / **SCHRÖDINGER** (`SC`) — used in the **Fracture Containment Index** segment
@@ -1014,46 +1014,46 @@ The purpose of the Fracture Index is deeply important. It exists so the Facility
 
 ---
 
-## Chapter 26 — Transformation Viability
+### Chapter 26 — Transformation Viability
 
 Transformation is what distinguishes A.C.T from organizations that only imprison the unknown. A.C.T believes that some anomalies, once understood, may be altered in status.
 
-### INVIOLABLE
+#### INVIOLABLE
 *Transformation is not an option.*  
 The anomaly cannot be altered, influenced, or repurposed without catastrophic consequence.
 
-### NEUTRAL
+#### NEUTRAL
 *Transformation is inadvisable.*  
 The anomaly is stable enough in containment, and the risk of experimentation outweighs the benefit.
 
-### CONTAINED-STUDY
+#### CONTAINED-STUDY
 *Not ready for transformation.*  
 Research is active, but no operational transformation is authorized yet.
 
-### STABILIZED
+#### STABILIZED
 *The anomaly has crossed the first threshold.*  
 Its behavior is predictable enough for controlled use beyond strict isolation.
 
-### NEUTRALIZED
+#### NEUTRALIZED
 *Its harmful effect has been suppressed or nullified.*  
 The anomaly no longer poses its original danger, though it may no longer be useful.
 
-### REPURPOSED
+#### REPURPOSED
 *Its function has been redirected.*  
 The anomaly now serves a defined Facility purpose, such as logistics, surveillance, defense, medicine, or energy support.
 
-### INTEGRATED
+#### INTEGRATED
 *The anomaly has become part of A.C.T itself.*  
 At this stage, it is no longer treated as an external object of study, but as a permanent system component embedded within infrastructure, doctrine, or operational capacity.
 
 This scale also reinforces A.C.T’s gray morality: it does not merely survive anomalies; it seeks to use them.
 
-### Transformation Authorization
+#### Transformation Authorization
 Transformation may only proceed through ascending authority:
 
 **Field Operating Chief > High Researcher > Site Director > Head Transformation > if High Threat Administrator > O5**
 
-### Transformation Prohibition Conditions
+#### Transformation Prohibition Conditions
 Transformation is not allowed when the anomaly is marked:
 - **Content** — the anomaly is currently stable and any intervention risks destabilization
 - **Unstable** — the anomaly’s behavior is too volatile for controlled modification
@@ -1061,7 +1061,7 @@ Transformation is not allowed when the anomaly is marked:
 - **Don’t See** — observation alone may trigger escalation
 - **Don’t Fix** — the anomaly’s current state, however undesirable, is preferable to any known alternative
 
-### Required Proof Before Transformation
+#### Required Proof Before Transformation
 The following must be demonstrated before any transformation attempt proceeds:
 - compatibility — the anomaly can interact with the proposed method without catastrophic reaction
 - application — a specific use or stabilization path has been identified
@@ -1069,7 +1069,7 @@ The following must be demonstrated before any transformation attempt proceeds:
 - improved control or Lower Projected Danger — the transformation would make the anomaly safer or more predictable
 - high-need operational justification — the benefit outweighs the risk
 
-### Unstable Asset Conditions
+#### Unstable Asset Conditions
 An anomaly is considered an **unstable asset** if:
 - it has failed transformation before
 - transformation changes its threat level
@@ -1079,16 +1079,16 @@ An anomaly is considered an **unstable asset** if:
 
 An unstable asset is not a failed resource. It is a warning that transformation has not yet produced a safe end state.
 
-### Stabilized vs Repurposed — Key Distinction
+#### Stabilized vs Repurposed — Key Distinction
 - **Stabilized** = the anomaly is safer, more predictable, and in a lower-threat state than before, but has not yet been directed toward Facility use
 - **Repurposed** = the anomaly has been converted into a specific Facility asset with a defined operational role
 
-### Inviolable — The Hard Limit
+#### Inviolable — The Hard Limit
 **Inviolable** indicates that attempting to change the anomaly’s structure or nature may itself trigger catastrophic harm. This is not a temporary assessment. It is a doctrinal wall. Attempting to transform an inviolable anomaly is treated as a potential existential action requiring O5-level override at minimum.
 
 ---
 
-## Chapter 27 — Containment Procedure Writing and Breach Logic
+### Chapter 27 — Containment Procedure Writing and Breach Logic
 
 Every anomaly containment procedure must state:
 - where the anomaly is kept
@@ -1098,33 +1098,33 @@ Every anomaly containment procedure must state:
 - what kind of containment structure is used
 - what happens when containment fails
 
-### Containment Location Behavior Categories
+#### Containment Location Behavior Categories
 Every anomaly is assigned one of the following:
 - **LEFT ALONE**
 - **CAN’T BE LEFT ALONE**
 - **MUST MONITOR**
 - **DON’T MONITOR**
 
-### Containment Condition Categories
+#### Containment Condition Categories
 Every anomaly is categorized as:
 - **Humanoid**
 - **Non-Humanoid**
 - **Object**
 - **Phenomenon**
 
-### Exposure Authorization
+#### Exposure Authorization
 Direct exposure is restricted to:
 - **E-Class Test Subject**
 - **Current Researcher**
 - **Designated Field Personnel**
 
-### Transport Rules
+#### Transport Rules
 Movable anomalies must be transported using **Reality Stabilization Anchor / RSA** support.
 - standard anomalies use RSA transport support
 - oversized anomalies use Facility Converted Aircraft
 - unmovable anomalies receive perimeter, enclosure, and support systems built around themselves
 
-### Containment Structure Categories
+#### Containment Structure Categories
 Recognized structure categories include:
 - **Small Box**
 - **Medium Box**
@@ -1152,7 +1152,7 @@ These categories matter because in A.C.T, containment is not only about difficul
 - **Non-Box** — used when the anomaly cannot be described by ordinary enclosure logic but may still be managed through procedure
 - **Unclose** — used when the anomaly is too vast, too distributed, too abstract, or too structurally broad to enclose meaningfully at all
 
-### Breach Conditions
+#### Breach Conditions
 An anomaly is considered to have breached not only when it physically escapes, but whenever it exceeds the limits imposed on its assigned state.
 
 An anomaly breach may occur when it:
@@ -1165,7 +1165,7 @@ An anomaly breach may occur when it:
 
 This means breaches are not purely spatial events. A sealed anomaly may still be in breach if it destabilizes local reality, infects documentation, corrupts timelines, or alters public knowledge beyond acceptable thresholds.
 
-### Breach Response Priority
+#### Breach Response Priority
 When a breach occurs, Facility priority order is:
 - Maintain World Secrecy
 - Maintain Structural Normalcy
@@ -1175,13 +1175,13 @@ When a breach occurs, Facility priority order is:
 - Deployment of Anti Anomaly Containment / AAC Task Force
 - Evacuation all non-containment operators and employees
 
-### Broken Masquerade Protocol
+#### Broken Masquerade Protocol
 If standard concealment fails, the Facility activates **Broken Masquerade Protocol** to preserve humanity’s survival and broad continuity even when secrecy collapses.
 
-### REGRESSION Protocol
+#### REGRESSION Protocol
 If a **World End Scenario / WES** becomes unavoidable, the Facility may activate **REGRESSION Protocol** in order to preserve or send one surviving warning document into the past so earlier timeframes may learn how the world-ending sequence occurred.
 
-### Termination Rule
+#### Termination Rule
 An anomaly may be granted termination if:
 - it will bring a WES
 - no countermeasure exists
@@ -1192,7 +1192,7 @@ This chapter reveals a core truth about A.C.T: procedure is the language in whic
 
 ---
 
-## Chapter 28 — Observation Restrictions, Breach States, and Information Suppression
+### Chapter 28 — Observation Restrictions, Breach States, and Information Suppression
 
 The Facility recognizes that some anomalies cannot be safely approached under ordinary observational assumptions. For that reason, anomaly files may be assigned direct interaction restrictions, including:
 - no direct eye contact
@@ -1209,7 +1209,7 @@ The Facility recognizes that some anomalies cannot be safely approached under or
 
 These restrictions are not optional notes. In many cases, they are part of containment itself.
 
-### Breach States
+#### Breach States
 Every anomaly file must also include a current breach-state condition. Recognized states include:
 - **Stable**
 - **Content**
@@ -1225,7 +1225,7 @@ Every anomaly file must also include a current breach-state condition. Recognize
 
 These states describe not only whether the anomaly is in its assigned place, but whether containment reality itself remains coherent around it.
 
-### Information Suppression and Redaction Format
+#### Information Suppression and Redaction Format
 Authorized suppression and redaction markers include:
 - `[ BLANK ]`
 - `[ MEMETIC ]`
@@ -1244,7 +1244,7 @@ The archive also preserves supplementary dossier categories for cases too large,
 
 ---
 
-## Chapter 28A — The Twelve Anomaly Log Categories
+### Chapter 28A — The Twelve Anomaly Log Categories
 
 The main anomaly file is designed to answer the minimum operational questions: What is the anomaly? What does it do? How dangerous is it? How is it contained? Who is responsible for it?
 
@@ -1256,7 +1256,7 @@ An Anomaly Log Category Document is a supplementary archive document that groups
 
 The main anomaly file remains the official containment reference. The log category document preserves the evidence, history, dialogue, and procedural development behind that reference.
 
-### Why Logs Are Grouped Into Categories
+#### Why Logs Are Grouped Into Categories
 
 Early A.C.T archive practice stored every log as an independent document. This created several problems:
 
@@ -1276,7 +1276,7 @@ A single **Incident & Breach Dossier** may contain the incident summary, securit
 
 This keeps archive structure readable, operationally useful, and harder for record-sensitive anomalies to fracture.
 
-### The Main File vs the Log Category Document
+#### The Main File vs the Log Category Document
 
 The **main anomaly file** is the active containment document. It should be concise enough to support operational use. It contains designation, titles, field type, classification, threat level, containment procedures, anomalous properties, research summary, transformation notes, breach conditions, and additional notes. It answers: *What does A.C.T currently believe, and what must personnel do?*
 
@@ -1284,7 +1284,7 @@ A **log category document** is a supporting archive record. It may be longer, mo
 
 ---
 
-### CATEGORY I — Recovery & Discovery Dossier
+#### CATEGORY I — Recovery & Discovery Dossier
 
 **Function:** Records how A.C.T first detected, verified, approached, recovered, transported, or stabilized an anomaly. It is used to preserve the first chain of custody.
 
@@ -1305,7 +1305,7 @@ A **log category document** is a supporting archive record. It may be longer, mo
 
 Recovery & Discovery Dossiers are often the first supplementary documents attached to a new anomaly file. They are especially important when the anomaly's original context matters.
 
-### CATEGORY II — Interview & Testimony Dossier
+#### CATEGORY II — Interview & Testimony Dossier
 
 **Function:** Records statements from sentient anomalies, affected subjects, personnel, civilian witnesses, survivors, or related parties. It preserves how individuals describe an anomaly from inside the event.
 
@@ -1325,7 +1325,7 @@ Recovery & Discovery Dossiers are often the first supplementary documents attach
 
 Interview & Testimony Dossiers are valuable when the truth of the anomaly is not fully visible through sensors.
 
-### CATEGORY III — Experiment & Testing Dossier
+#### CATEGORY III — Experiment & Testing Dossier
 
 **Function:** Records controlled interaction with an anomaly. It is used to determine triggers, limits, safe handling rules, exposure thresholds, and containment weaknesses.
 
@@ -1347,7 +1347,7 @@ Interview & Testimony Dossiers are valuable when the truth of the anomaly is not
 
 Testing Dossiers should be written carefully. Failed tests are often more important than successful ones.
 
-### CATEGORY IV — Incident & Breach Dossier
+#### CATEGORY IV — Incident & Breach Dossier
 
 **Function:** Records containment failures, unexpected activations, operational mistakes, exposure events, and emergency responses. It is used to prevent repeat failures.
 
@@ -1369,7 +1369,7 @@ Testing Dossiers should be written carefully. Failed tests are often more import
 
 Incident & Breach Dossiers must include enough detail for future staff to understand what failed. They are not written to assign blame first. They are written to preserve survival knowledge.
 
-### CATEGORY V — Exploration & Survey Dossier
+#### CATEGORY V — Exploration & Survey Dossier
 
 **Function:** Records movement through anomalous spaces, structures, zones, routes, or environments. It is used when the anomaly is a place, creates a place, changes routes, or affects navigation.
 
@@ -1391,7 +1391,7 @@ Incident & Breach Dossiers must include enough detail for future staff to unders
 
 Exploration Dossiers should preserve uncertainty. If a route contradicts itself, the contradiction should be documented rather than corrected too quickly.
 
-### CATEGORY VI — Research & Analysis Dossier
+#### CATEGORY VI — Research & Analysis Dossier
 
 **Function:** Records scientific review, classification debate, theory development, and long-term study. It is used when the anomaly's meaning or mechanics remain uncertain.
 
@@ -1413,7 +1413,7 @@ Exploration Dossiers should preserve uncertainty. If a route contradicts itself,
 
 Research Dossiers should distinguish confirmed facts from active theories. Speculation is allowed, but it must be labeled.
 
-### CATEGORY VII — Recovered Document & Archive Dossier
+#### CATEGORY VII — Recovered Document & Archive Dossier
 
 **Function:** Preserves documents, files, notes, images, recordings, manuals, or data recovered with or because of an anomaly. It is used when the evidence itself matters.
 
@@ -1436,7 +1436,7 @@ Research Dossiers should distinguish confirmed facts from active theories. Specu
 
 Recovered Document Dossiers preserve what was found before A.C.T fully interprets it. When possible, these dossiers should include intake condition, source location, transcription, redactions, suspected alteration, and reliability rating.
 
-### CATEGORY VIII — Behavioral & Observation Dossier
+#### CATEGORY VIII — Behavioral & Observation Dossier
 
 **Function:** Records repeated behavior, care notes, habits, routines, responses, and long-term monitoring. It is used for subjects whose containment depends on understanding behavior rather than simply locking them away.
 
@@ -1458,7 +1458,7 @@ Recovered Document Dossiers preserve what was found before A.C.T fully interpret
 
 Behavioral Dossiers are not informal diaries. They are containment tools. A harmless preference may become a breach-prevention method later.
 
-### CATEGORY IX — Transformation & Utilization Dossier
+#### CATEGORY IX — Transformation & Utilization Dossier
 
 **Function:** Records A.C.T attempts to stabilize, neutralize, repurpose, integrate, or reject use of an anomaly. It is used when the question is not only "how do we contain it?" but "can it become useful or safer?"
 
@@ -1479,7 +1479,7 @@ Behavioral Dossiers are not informal diaries. They are containment tools. A harm
 
 Transformation Dossiers must preserve failed attempts and rejected proposals. A rejected proposal often explains why later personnel must not repeat it.
 
-### CATEGORY X — Communication & Internal Correspondence Dossier
+#### CATEGORY X — Communication & Internal Correspondence Dossier
 
 **Function:** Records internal messages, command decisions, interdepartmental disputes, authorization requests, and administrative reactions. It is used when bureaucracy is part of the containment story.
 
@@ -1501,7 +1501,7 @@ Transformation Dossiers must preserve failed attempts and rejected proposals. A 
 
 Internal Correspondence Dossiers are often restricted because they reveal A.C.T decision-making rather than anomaly behavior alone.
 
-### CATEGORY XI — Audio / Video / Sensor Dossier
+#### CATEGORY XI — Audio / Video / Sensor Dossier
 
 **Function:** Preserves recorded evidence where timing, image, sound, or instrument readings are central. It is used when the record is more important than a written summary.
 
@@ -1523,7 +1523,7 @@ Internal Correspondence Dossiers are often restricted because they reveal A.C.T 
 
 Sensor Dossiers should include analyst notes explaining what the recording does and does not prove.
 
-### CATEGORY XII — Personal & Recovered Journal Dossier
+#### CATEGORY XII — Personal & Recovered Journal Dossier
 
 **Function:** Preserves subjective writing, personal logs, diaries, field notebooks, and anomaly-authored or affected journal entries.
 
@@ -1546,7 +1546,7 @@ Personal Dossiers are not automatically less reliable than formal reports. In so
 
 ---
 
-### Category Selection Rule
+#### Category Selection Rule
 
 Choose a category based on the main purpose of the supporting document:
 
@@ -1563,7 +1563,7 @@ Choose a category based on the main purpose of the supporting document:
 - If it preserves **footage, audio, sensor feeds, or timestamped recordings** → Audio / Video / Sensor Dossier
 - If it preserves **private experience, journals, or personal writing** → Personal & Recovered Journal Dossier
 
-### Dossier Naming Standard
+#### Dossier Naming Standard
 
 Dossier filenames should follow this structure:
 
@@ -1578,7 +1578,7 @@ Examples:
 
 The title should match the anomaly's Title I where possible. The category should be short but clear: Recovery, Testimony, Testing, Incident, Exploration, Research, Archive, Observation, Transformation, Correspondence, Sensor, Personal.
 
-### Archive Warning
+#### Archive Warning
 
 Supplementary dossiers are not optional clutter. For low-risk anomalies, they may serve as training material. For dangerous anomalies, they may be the only reason the next containment team survives.
 
@@ -1586,13 +1586,13 @@ A main file tells personnel what to do. A dossier tells personnel why the instru
 
 ---
 
-# Book IV — Sites, Jurisdiction, and the Hidden Global Lattice
+## Book IV — Sites, Jurisdiction, and the Hidden Global Lattice
 
-## Chapter 29 — What a Site Is
+### Chapter 29 — What a Site Is
 
 This doctrine defines the official A.C.T understanding of **SITE**, **SUB-SITE**, and related installation terminology. A.C.T does not treat every building, bunker, laboratory, or safehouse as equal. Some installations are full institutional bodies. Others are attached support points, hidden relays, or narrow-purpose containment structures.
 
-### Definition of a SITE
+#### Definition of a SITE
 Within A.C.T terminology, a **SITE** is a **major permanent installation** recognized as an official operational body of the Facility.
 
 A SITE is not merely a structure. It is a complete institutional node capable of maintaining one or more essential Facility functions at independent scale, including:
@@ -1611,7 +1611,7 @@ A SITE possesses enough structural, administrative, and operational completeness
 
 > A **SITE** is a full-scale A.C.T installation with permanent authority, infrastructure, and recognized anomaly-management capacity.
 
-### Criteria Required for SITE Recognition
+#### Criteria Required for SITE Recognition
 An installation may only be recognized as an official SITE if it possesses all or most of the following:
 - permanent A.C.T control
 - secure and recognized command structure
@@ -1624,14 +1624,14 @@ An installation may only be recognized as an official SITE if it possesses all o
 
 If a location lacks these features, it may still be useful, but it is not a true SITE under formal doctrine.
 
-### Definition of a SUB-SITE
+#### Definition of a SUB-SITE
 A **SUB-SITE** is a secondary A.C.T installation attached to a larger site, command body, or regional authority structure.
 
 A SUB-SITE is still official and operationally valid, but it does not possess the same degree of institutional completeness or sovereignty as a full SITE. It usually serves a narrower purpose and depends on a higher command body for broader authority, support, or oversight.
 
 > A **SUB-SITE** is a smaller or specialized A.C.T installation operating under a larger SITE or regional command structure.
 
-### Difference Between SITE and SUB-SITE
+#### Difference Between SITE and SUB-SITE
 A SITE is:
 - full-scale
 - command-bearing
@@ -1649,7 +1649,7 @@ A SUB-SITE is:
 
 The distinction is not one of worth, but of scale, sovereignty, and institutional completeness.
 
-### Common Functions of SUB-SITES
+#### Common Functions of SUB-SITES
 A SUB-SITE may exist for one or more of the following reasons:
 - regional anomaly observation
 - temporary anomaly holding
@@ -1664,14 +1664,14 @@ A SUB-SITE may exist for one or more of the following reasons:
 
 A SUB-SITE is therefore not a lesser concept in narrative importance. It is simply a narrower institutional shape.
 
-### Site Categories
+#### Site Categories
 - **Primary Site** — a major central installation with broad authority, heavy divisional presence, and long-term strategic significance
 - **Regional Site** — a major official installation responsible for one large region of a country, continent, or strategic anomaly zone
 - **Sub-Site** — a secondary installation attached to a larger site or regional command structure
 - **Relay Site** — a low-footprint support location used for archive transfer, secure movement, witness routing, or controlled logistical continuity
 - **Black Site** — a highly restricted installation not broadly acknowledged even inside the Facility, usually associated with sealed projects, prohibited research, or politically dangerous operations
 
-### Naming Logic
+#### Naming Logic
 Formal A.C.T site naming follows:
 - `ACT-SITE-XX-##-#`
 - `ACT-SUB-XX-##-#`
@@ -1683,12 +1683,12 @@ Regional area code standard:
 - **E** = East
 - **C** = Central
 
-### Doctrinal Clarification
+#### Doctrinal Clarification
 A SITE is not defined by physical size alone. A large building may still be only a relay or support node if it lacks command authority, containment sovereignty, archival significance, or independent continuity. Likewise, a SUB-SITE may be physically small but operationally critical if it supports abyssal routes, biological cultivation, hidden witness processing, or narrow anomaly containment functions too sensitive to centralize. The doctrine therefore prioritizes institutional role over simple architecture.
 
 ---
 
-## Chapter 30 — Site Registry Doctrine and Writing Standard
+### Chapter 30 — Site Registry Doctrine and Writing Standard
 
 The Site Registry doctrine exists to ensure that every recognized installation—whether SITE, SUB-SITE, relay, or blacksite—can be understood as part of the wider anomaly-management structure of the Facility. A site file is not merely a location note. It is a formal institutional record identifying what the site is, who governs it, what it is for, what kinds of anomalies it handles, and what jurisdictional weight it carries inside the network.
 
@@ -1721,13 +1721,13 @@ If a registry file fails to answer those questions, it is incomplete.
 
 ---
 
-## Chapter 31 — Jurisdiction and Hidden Territorial Control
+### Chapter 31 — Jurisdiction and Hidden Territorial Control
 
 This doctrine defines how A.C.T maps territorial responsibility, anomaly-routing authority, regional containment jurisdiction, and inter-site support boundaries across its global installation network.
 
 A.C.T does not treat geography in a civilian sense. Borders matter only where they affect secrecy, logistics, transport, political risk, anomaly density, or response timing.
 
-### Jurisdiction Doctrine
+#### Jurisdiction Doctrine
 In A.C.T terminology, **jurisdiction** refers to the region, route, population zone, anomaly profile, or support corridor assigned to a specific SITE or SUB-SITE.
 
 Jurisdiction may be determined by:
@@ -1744,7 +1744,7 @@ Jurisdiction may be determined by:
 
 A jurisdiction is therefore not merely “where a site is located.” It is the zone for which that site is operationally accountable.
 
-### Types of Jurisdiction
+#### Types of Jurisdiction
 - **Geographic Jurisdiction** — normal regional responsibility based on country, border, coast, island network, inland zone, or urban corridor
 - **Containment Jurisdiction** — authority to house, transfer, or reject an anomaly based on specialization
 - **Recovery Jurisdiction** — authority to deploy first-response teams to locate, isolate, and retrieve anomalies
@@ -1752,7 +1752,7 @@ A jurisdiction is therefore not merely “where a site is located.” It is the 
 - **Support Jurisdiction** — responsibility to provide overflow, archive relay, medical stabilization, transport, or tactical support
 - **Overlap Jurisdiction** — condition in which more than one site may claim involvement
 
-### Jurisdiction Priority Rule
+#### Jurisdiction Priority Rule
 When multiple sites could claim an event, A.C.T resolves control according to the following order:
 1. **Containment viability** — which site can actually hold the anomaly safely
 2. **Immediate secrecy risk** — which site can conceal the event fastest
@@ -1763,7 +1763,7 @@ When multiple sites could claim an event, A.C.T resolves control according to th
 
 The nearest site is not always the correct site.
 
-### Routing Logic
+#### Routing Logic
 When an anomaly is recovered, the responding unit must determine whether the anomaly should:
 - remain in local field enclosure
 - move to the nearest SUB-SITE
@@ -1783,7 +1783,7 @@ Routing depends on:
 
 Some anomalies belong to the place they are found. These are often routed under **in-place containment doctrine** rather than transport doctrine.
 
-### Strategic Map Principle
+#### Strategic Map Principle
 A.C.T’s internal site map should not be imagined as a clean political chart. It is better understood as a hidden pressure network.
 
 Sites are positioned according to:
@@ -1795,7 +1795,7 @@ Sites are positioned according to:
 
 In this sense, the site map is not a map of territory. It is a map of **risk, pressure, and survivable hidden control**.
 
-### Central Jurisdiction and the Main Facility
+#### Central Jurisdiction and the Main Facility
 All regional site jurisdictions ultimately sit beneath the doctrinal gravity of the main buried Facility and its abyssal inheritance.
 
 Where lower sites manage:
@@ -1814,7 +1814,7 @@ the central body of A.C.T remains the place where:
 
 The central Facility is therefore not always the first responder, but it is the final interpretive authority.
 
-### Map Security Doctrine
+#### Map Security Doctrine
 No complete surface-readable site map is to exist in a single ordinary archive layer.
 
 Reasons include:
@@ -1829,14 +1829,14 @@ Instead, A.C.T maintains site-map knowledge through segmented archive layers, ju
 
 ---
 
-## Chapter 32 — The Global Site Registry
+### Chapter 32 — The Global Site Registry
 
 The A.C.T network does not function through one monolithic body alone. It survives through layered installations—major SITES, supporting SUB-SITES, relays, and sealed locations—distributed according to secrecy value, containment need, recovery pressure, geography, and anomaly profile.
 
 A site is not merely where the Facility exists.
 A site is where the impossible has been given an address, a doctrine, and a chain of command.
 
-### ACT-SITE-01-US-W — Redwood Veil Complex
+#### ACT-SITE-01-US-W — Redwood Veil Complex
 **Codename:** Redwood Veil Complex  
 **Site Type:** Regional Site  
 **Location:** Western United States  
@@ -1852,7 +1852,7 @@ A site is where the impossible has been given an address, a doctrine, and a chai
 
 Redwood Veil Complex exists in one of the most difficult concealment environments in the A.C.T network: the dense, high-mobility, high-population, black-market-sensitive urban zones of the western United States. It is defined by speed. Urban anomaly recovery does not allow slow ritualized response. It requires rapid surface concealment, artifact interception, witness management, and quick intelligence coordination. Its heavy GOI overlap also makes it one of the clearest examples of a site where anomaly containment and external threat management are inseparable.
 
-### ACT-SITE-02-RU-N — White Grave Station
+#### ACT-SITE-02-RU-N — White Grave Station
 **Codename:** White Grave Station  
 **Site Type:** Regional Site  
 **Location:** Northern Russia  
@@ -1868,7 +1868,7 @@ Redwood Veil Complex exists in one of the most difficult concealment environment
 
 White Grave Station demonstrates A.C.T’s use of geography as part of containment itself. Cold is not merely weather there; it is infrastructure. Isolation is not merely remoteness; it is concealment value. The site exists because some anomalies are safer where climate itself functions as suppression.
 
-### ACT-SITE-03-JP-E — Kurokawa Archive Node
+#### ACT-SITE-03-JP-E — Kurokawa Archive Node
 **Codename:** Kurokawa Archive Node  
 **Site Type:** Regional Site  
 **Location:** Eastern Japan  
@@ -1884,7 +1884,7 @@ White Grave Station demonstrates A.C.T’s use of geography as part of containme
 
 Kurokawa Archive Node exists where information density itself becomes a risk field. It is one of the most important examples of A.C.T’s understanding that records, media, signals, and documents can become anomalous vectors. The integration of Archive and Intelligence functions there is not accidental. It is necessary.
 
-### ACT-SITE-04-BR-C — Verde Null Bio-Reserve
+#### ACT-SITE-04-BR-C — Verde Null Bio-Reserve
 **Codename:** Verde Null Bio-Reserve  
 **Site Type:** Regional Site  
 **Location:** Central Brazil  
@@ -1900,7 +1900,7 @@ Kurokawa Archive Node exists where information density itself becomes a risk fie
 
 Verde Null Bio-Reserve illustrates a doctrine A.C.T returns to repeatedly: not every anomaly should be removed from where it is found. Some living systems, fixed flora anomalies, or wilderness-bound biological conditions become more dangerous when displaced. In those cases, the Facility builds containment around the place rather than forcing the place into a box.
 
-### ACT-SITE-05-ID-C — Nusantara Deep Relay
+#### ACT-SITE-05-ID-C — Nusantara Deep Relay
 **Codename:** Nusantara Deep Relay  
 **Site Type:** Regional Site  
 **Location:** Central Indonesia  
@@ -1918,11 +1918,11 @@ Nusantara Deep Relay is one of the most important regional sites in doctrinal te
 
 ---
 
-## Chapter 33 — The Supporting Sub-Sites in Full
+### Chapter 33 — The Supporting Sub-Sites in Full
 
 Supporting sub-sites are not treated by A.C.T as trivial appendages. They exist because major sites cannot safely centralize every task. Overflow processing, witness routing, memetic buffering, cold staging, in-place biological support, coastal watch, and regional intake all require smaller institutional bodies attached to larger command structures.
 
-### ACT-SUB-01-US-W — Glass Orchard Relay
+#### ACT-SUB-01-US-W — Glass Orchard Relay
 **Codename:** Glass Orchard Relay  
 **Site Type:** Sub-Site  
 **Location:** Western United States  
@@ -1938,7 +1938,7 @@ Supporting sub-sites are not treated by A.C.T as trivial appendages. They exist 
 
 Glass Orchard Relay exists to absorb the low-visibility, high-frequency support pressures that would otherwise overburden a full urban-response regional site. Its civilian cover identity allows routine processing to occur beneath a believable surface mask. It is optimized less for sovereignty than for quiet usefulness.
 
-### ACT-SUB-02-RU-N — Frost Hollow Depot
+#### ACT-SUB-02-RU-N — Frost Hollow Depot
 **Codename:** Frost Hollow Depot  
 **Site Type:** Sub-Site  
 **Location:** Northern Russia  
@@ -1954,7 +1954,7 @@ Glass Orchard Relay exists to absorb the low-visibility, high-frequency support 
 
 Frost Hollow Depot exists because the northern containment chain cannot always move directly from field recovery into deep long-term isolation without a staging body. It is a pressure-release organ for arctic recovery logistics.
 
-### ACT-SUB-03-JP-E — Silent Reed Annex
+#### ACT-SUB-03-JP-E — Silent Reed Annex
 **Codename:** Silent Reed Annex  
 **Site Type:** Sub-Site  
 **Location:** Eastern Japan  
@@ -1970,7 +1970,7 @@ Frost Hollow Depot exists because the northern containment chain cannot always m
 
 Silent Reed Annex is a good example of how A.C.T builds intermediate layers between ordinary recordkeeping and the darkest levels of sealed archival burial. It exists because some information hazards are too dangerous for normal handling but too operationally common to justify permanent black burial.
 
-### ACT-SUB-04-BR-C — Hollow Canopy Enclosure
+#### ACT-SUB-04-BR-C — Hollow Canopy Enclosure
 **Codename:** Hollow Canopy Enclosure  
 **Site Type:** Sub-Site  
 **Location:** Central Brazil  
@@ -1986,7 +1986,7 @@ Silent Reed Annex is a good example of how A.C.T builds intermediate layers betw
 
 Hollow Canopy Enclosure demonstrates that some sub-sites are barely building-centered at all. In such cases, containment becomes perimeter, concealment, and ecological support rather than chamber architecture.
 
-### ACT-SUB-05-ID-C — Ash Tide Watchpoint
+#### ACT-SUB-05-ID-C — Ash Tide Watchpoint
 **Codename:** Ash Tide Watchpoint  
 **Site Type:** Sub-Site  
 **Location:** Central Indonesia  
@@ -2004,9 +2004,9 @@ Ash Tide Watchpoint shows how regional tectonic and maritime surveillance can ev
 
 ---
 
-# Book V — External Powers, Rival Structures, and the Organized World Around the Anomalous
+## Book V — External Powers, Rival Structures, and the Organized World Around the Anomalous
 
-## Chapter 34 — What Qualifies as a GOI
+### Chapter 34 — What Qualifies as a GOI
 
 If anomaly doctrine explains how A.C.T records the impossible, GOI doctrine explains how it records the people, institutions, powers, and organized structures that move around that impossible.
 
@@ -2029,7 +2029,7 @@ A GOI may be hostile, cooperative, tolerated, useful, unstable, opportunistic, p
 
 ---
 
-## Chapter 35 — GOI Designation and Classification
+### Chapter 35 — GOI Designation and Classification
 
 A.C.T identifies Groups of Interest under:
 
@@ -2039,7 +2039,7 @@ A.C.T identifies Groups of Interest under:
 - second **X** = Alignment Class marker
 - **XXX** = numerical registry code
 
-### Nature Codes
+#### Nature Codes
 - **GV** = Government
 - **CP** = Corporate
 - **CU** = Cultic
@@ -2051,7 +2051,7 @@ A.C.T identifies Groups of Interest under:
 - **BS** = Business
 - **HY** = Hybrid
 
-### Alignment Markers
+#### Alignment Markers
 - **N** = Neutral
 - **P** = Positive
 - **X** = Negative
@@ -2071,7 +2071,7 @@ Every GOI file should assess:
 - Secrecy Risk
 - A.C.T Posture
 
-#### Reach Class
+##### Reach Class
 - CELLULAR
 - LOCAL
 - REGIONAL
@@ -2080,7 +2080,7 @@ Every GOI file should assess:
 - GLOBAL
 - STRUCTURAL
 
-#### Anomalous Capability Class
+##### Anomalous Capability Class
 - NULL
 - EXPOSED
 - HANDLER
@@ -2089,7 +2089,7 @@ Every GOI file should assess:
 - REALITY-ACTIVE
 - STRUCTURAL
 
-#### Threat Level
+##### Threat Level
 - 0 = no meaningful threat
 - 1 = low threat
 - 2 = moderate threat
@@ -2097,13 +2097,13 @@ Every GOI file should assess:
 - 4 = severe threat
 - 5 = critical threat
 
-#### Secrecy Risk
+##### Secrecy Risk
 - VEILED
 - LEAKING
 - EXPOSURE-ACTIVE
 - NORMALCY-BREACHING
 
-#### A.C.T Posture
+##### A.C.T Posture
 - MONITOR
 - INFILTRATE
 - MISDIRECT
@@ -2115,7 +2115,7 @@ Every GOI file should assess:
 - HELP
 
 
-### GOI Registry File Standard
+#### GOI Registry File Standard
 
 Every GOI file should include the following sections:
 
@@ -2142,7 +2142,7 @@ This keeps GOI records consistent with A.C.T’s broader archive doctrine while 
 
 Where relevant, GOI records should note which A.C.T SITE, SUB-SITE, or regional command body maintains primary monitoring, infiltration, or response jurisdiction. External threat handling is therefore tied directly to the Facility’s territorial site network rather than treated as abstract intelligence alone.
 
-### GOI and Anomaly Overlap — Dual Filing Doctrine
+#### GOI and Anomaly Overlap — Dual Filing Doctrine
 
 Not all GOIs are entirely normal organizations. Some are human organizations using anomalies. Some are partly anomalous groups. Some are entirely anomalous collectives.
 
@@ -2153,7 +2153,7 @@ For this reason, A.C.T separates documentation into two layers:
 
 If the group itself is anomalous, it receives **dual filing**. This prevents A.C.T from confusing what the group is as an organization with what the group is as an anomalous condition. A cult may worship an anomaly without being anomalous itself. A collective intelligence may be both a GOI and an anomaly at once.
 
-### GOI Designation Examples
+#### GOI Designation Examples
 
 | Designation | Meaning |
 |:---:|---|
@@ -2169,7 +2169,7 @@ This classification stack exists for the same reason anomaly classes exist: the 
 
 ---
 
-## Chapter 36 — External Threat Doctrine
+### Chapter 36 — External Threat Doctrine
 
 A.C.T doctrine does not treat all GOIs equally.
 
@@ -2196,34 +2196,34 @@ This prevents the Facility from confusing what a group is politically or structu
 
 ---
 
-## Chapter 37 — Sample GOIs
+### Chapter 37 — Sample GOIs
 
-### Government Anti Anomaly (GAA)
+#### Government Anti Anomaly (GAA)
 The **Government Anti Anomaly**, or **GAA**, is a limited government body aware of anomalous existence and partially cooperative with the A.C.T Facility. Internal estimates suggest that only around **10% of the wider government structure** possesses any meaningful awareness of anomalies at all. The GAA serves as one of the few official bridges between ordinary state power and the hidden anomaly-management world.
 
 The GAA is not treated as a direct threat. It is a controlled state partner whose usefulness lies in legal masking, quiet authorization, classified logistics, and selective political cooperation.
 
-### Anti-Global Anomaly (A-GA)
+#### Anti-Global Anomaly (A-GA)
 The **Anti-Global Anomaly**, or **A-GA**, is a large standalone militia-style organization whose sole ideological objective is the destruction of anomalies. It does not distinguish between harmful, useful, neutral, or beneficial anomalies. To A-GA, all anomalies are violations that must be eradicated.
 
 A-GA is dangerous not because it reveres anomalies, but because it refuses all nuance. Its willingness to destroy beneficial or stabilizing anomalies makes it a threat not only to A.C.T, but to structural reality itself. In multiple models, A-GA is more dangerous than certain hostile anomalies because it may remove the very things keeping larger threats contained.
 
-### Anstrall Market
+#### Anstrall Market
 The **Anstrall Market** is a black-market anomaly trade structure specializing in the movement and sale of anomalous objects to the highest bidder. It is governed by the enigmatic figure known only as **Anstrall** and is considered one of the most commercially useful yet ethically unstable GOIs in A.C.T records.
 
 The Market is not inherently aligned with the Facility, but it is not always best treated as an enemy. It can be more useful when controlled, tracked, infiltrated, or quietly exploited than when openly destroyed. However, its trade in anomalous materials makes it a constant secrecy hazard and a source of escalation if left unmanaged.
 
-### Children of the Deep (CoTD)
+#### Children of the Deep (CoTD)
 The **Children of the Deep**, or **CoTD**, is a cultic congregation network gathered around a single apocalyptic objective: the awakening of a separately sealed deep-sea sleeper whose release is believed to return the world to an older, submerged order. Its congregations operate through ritual preparation, coastal and inland recruitment, and the patient accumulation of the means to reach the sleeper.
 
 CoTD is a severe, patient threat rather than an immediate one. Because its objective is the awakening of a separately contained apocalyptic anomaly, A.C.T posture is infiltration to map the congregations, containment to interrupt ritual and supply activity, and dismantling of awakening preparations that remain interrupted but not ended. The target anomaly is filed separately and kept distinct from the organization record.
 
-### DREAM .INC (DREAM)
+#### DREAM .INC (DREAM)
 **DREAM .INC** is a company that possesses a mysterious anomalous machine capable of extracting a substance called Dream Nectar from at least one Dream-Type Anomaly. The company sells the substance as underground medicine, advertising that a consumer's wish will come true in their dream after use. At least twelve open company buildings are confirmed to be operating.
 
 DREAM .INC is a corrupt commercial mirror of Transformation: it converts an anomalous source into a saleable product before the risks are understood. A.C.T posture is infiltration to map the building network, containment of the product and the extraction apparatus, and appropriation of what can be safely taken into Facility control. The Dream-Type Anomaly and the machine are filed separately under restricted anomaly records.
 
-### Liberty Freedoms (L.F.)
+#### Liberty Freedoms (L.F.)
 **Liberty Freedoms**, or **L.F.**, is a dispersed militant insurgency of assessed defector origin whose stated enemy is A.C.T custody itself. It raids transport and recovery operations, publishes controlled document leaks through shifting mastheads, and transports anomalies that have left containment with it, presenting every act as liberation from institutional capture.
 
 L.F. is dangerous because it weaponizes the Facility's own records, routes, and moral language against containment. It must not be confused with A-GA, which seeks the destruction of anomalies; L.F. claims to preserve them. A.C.T posture is containment of cells and carried subjects, dismantling of defector-recruitment and publication paths, and infiltration of a network whose doctrine outruns its members' knowledge.
@@ -2232,9 +2232,9 @@ These examples reveal the larger point of GOI doctrine: not every threat comes f
 
 ---
 
-# Book VI — The Deep History of A.C.T and the ABYSS Origin
+## Book VI — The Deep History of A.C.T and the ABYSS Origin
 
-## Chapter 38 — Before the Facility Had a Name
+### Chapter 38 — Before the Facility Had a Name
 
 The earliest human records of anomalous existence are believed to date back to the **early 15xx**, though older references almost certainly exist in even earlier fragments of history, oral traditions, temple records, and half-preserved myth cycles. Long before the modern age of classification, human beings had already witnessed things that did not belong to natural law.
 
@@ -2257,13 +2257,13 @@ But not all humans were willing to ignore it.
 
 Small circles of scholars, explorers, occult chroniclers, proto-scientists, and forbidden historians began preserving accounts of these impossible things. Some attempted to locate them. Some tried to capture them. Some tried to understand them. Among the earliest known of these bodies was a primitive pre-Facility organization later remembered as:
 
-## **Entity Research Exploration / ERE**
+### **Entity Research Exploration / ERE**
 
 ERE would become the earliest known ancestor to what would later transform into the **A.C.T Facility**.
 
 ---
 
-## Chapter 39 — The First Signs
+### Chapter 39 — The First Signs
 
 The hidden world did not reveal itself to humanity all at once. It emerged through contradictions—through moments where folklore, history, and material reality began colliding.
 
@@ -2285,7 +2285,7 @@ It was present.
 
 ---
 
-## Chapter 40 — First Deployment
+### Chapter 40 — First Deployment
 
 Like many early researchers and entity historians of the time, the future founders of A.C.T first believed that the hidden world could be approached, studied, and eventually controlled in manageable pieces.
 
@@ -2312,7 +2312,7 @@ It contained **Anomalies**.
 
 ---
 
-## Chapter 41 — ENTITY-000 and the First Doctrine
+### Chapter 41 — ENTITY-000 and the First Doctrine
 
 ITHYOS became the **first preserved vault record** because it was the first thing ever encountered by the founders that truly deserved to be recognized as something beyond all prior Entity understanding.
 
@@ -2332,7 +2332,7 @@ The first raw file preserved for ITHYOS represented a new truth:
 
 And because of this, the first true doctrine was born:
 
-## **Keep it asleep.**
+### **Keep it asleep.**
 
 This was not poetic. It was practical. It was the only condition under which ITHYOS did not shift enough in its slumber to cause catastrophic damage to the world.
 
@@ -2341,11 +2341,11 @@ Its movement was disaster.
 
 ---
 
-## Chapter 42 — The Founding of A.C.T
+### Chapter 42 — The Founding of A.C.T
 
 The A.C.T Facility was founded by the original founders—those who would, in the future, become known as the **O5 Council**—after they learned the most important lesson in early anomaly history:
 
-## Not all anomalies can be captured.
+### Not all anomalies can be captured.
 
 Some can only be contained.
 
@@ -2370,7 +2370,7 @@ From that realization, the first true Facility doctrine was born, and A.C.T bega
 
 ---
 
-## Chapter 43 — Construction of the ABYSS Floor
+### Chapter 43 — Construction of the ABYSS Floor
 
 At first, the **ABYSS Floor** was nothing more than a small underground monitoring room built by the founders to study and observe ITHYOS as safely as they could. It was not yet a grand containment stratum. It was a survival station.
 
@@ -2397,7 +2397,7 @@ The growth of the original abyssal monitoring point eventually expanded beyond o
 
 ---
 
-## Chapter 44 — The First Doctrine and the Birth of Modern A.C.T
+### Chapter 44 — The First Doctrine and the Birth of Modern A.C.T
 
 Before all later manuals, classifications, threat levels, and transformation protocols, there was a smaller and harsher doctrine. It was born not from theory, but from proximity to extinction.
 
@@ -2431,20 +2431,20 @@ Over time, A.C.T transformed from an abyss-born hidden group into the world’s 
 
 ---
 
-# Book VII — Representative Foundational Anomalies
+## Book VII — Representative Foundational Anomalies
 
-## Chapter 45 — ITHYOS, The World-Sleeper
+### Chapter 45 — ITHYOS, The World-Sleeper
 
-### Identity
+#### Identity
 - **ENTITY-000**
 - **AFD-CH-000**
 - **Title I:** The Slumbering Serpent God
 - **Title II:** ITHYOS, The World-Sleeper
 
-### Nature
+#### Nature
 ITHYOS is a planetary-scale serpentiform entity measured up to 10 kilometers in length, with total length believed to be 10 kilometers or more. It is believed to remain dormant within the Earth’s core region. Its full body has never been completely observed, and all measurements remain partial, inferred, or uncertain.
 
-### Primary Effects
+#### Primary Effects
 - minor dormant movement is sufficient to generate measurable earthquakes approximating magnitude 3.0
 - serpent-type organisms exposed to its presence, influence, or aura display submission behavior
 - humans approaching too close experience intrusive visions that the entity is looking directly at them despite physical dormancy
@@ -2452,7 +2452,7 @@ ITHYOS is a planetary-scale serpentiform entity measured up to 10 kilometers in 
 - exposed subjects often enter compulsive scribbling phases, transcribing unknown words, symbols, or script from an unidentified language
 - approximately 24 hours after initial vision exposure, the subject dies of sudden cardiac arrest in many recorded cases
 
-### Exposure Sequence
+#### Exposure Sequence
 The confirmed exposure sequence preserved in legacy and modern documentation is:
 1. approach
 2. vision of the entity watching
@@ -2461,7 +2461,7 @@ The confirmed exposure sequence preserved in legacy and modern documentation is:
 5. psychological breakdown
 6. sudden cardiac death near the 24-hour mark
 
-### Containment Understanding
+#### Containment Understanding
 ITHYOS cannot be contained by conventional architecture, ordinary restraint, or force. Containment is understood as:
 - prevent proximity
 - prevent excavation
@@ -2471,35 +2471,35 @@ ITHYOS cannot be contained by conventional architecture, ordinary restraint, or 
 
 Modern doctrine translates this into the logic of the ABYSS Floor and Final Contact Vault. The anomaly is not contained through ordinary enclosure. Containment is defined as the preservation of dormancy and the restriction of all access, observation, excavation, ritual interference, biological interaction, and wake-state destabilization.
 
-### Classification
+#### Classification
 - **Field Type:** CH — Cosmic Hazard
 - **Containment Class:** TIAMAT
 - **Containment Fracture:** ABSURD
 - **Threat Level:** 10
 - **Transformation Viability:** INVIOLABLE
 
-### Core Principle
+#### Core Principle
 The oldest directive remains the modern directive:
 
 **Keep it asleep.**
 
-### Seismic and Doctrinal Significance
+#### Seismic and Doctrinal Significance
 ITHYOS is not simply the first preserved anomaly. It is the anomaly that forced A.C.T into maturity. It taught the founders that some things cannot be captured, only managed through access-control, sleep-preservation, and doctrinal humility. The ABYSS Floor exists because of it. The oldest vault record exists because of it. Even the relationship between old warning-language and modern classification language is preserved because of it.
 
 ---
 
-## Chapter 46 — NEMNOLIA, The Golden Veil / The Forgetting Bloom
+### Chapter 46 — NEMNOLIA, The Golden Veil / The Forgetting Bloom
 
-### Identity
+#### Identity
 - **UFD-NB-004**
 - **AFD-NB-004**
 - **Title I:** The Forgetting Bloom
 - **Title II:** NEMNOLIA, The Golden Veil
 
-### Nature
+#### Nature
 A giant pale flowering organism approximately 3 meters in height. It resembles an oversized ornamental plant but does not conform to ordinary botanical classification. It possesses pale white-blue semi-translucent petals and golden vein-like structures through the stem, leaf system, and petal roots. During blooming cycles it emits a faint cold golden mist.
 
-### Effects
+#### Effects
 - bloom mist produces mild cognitive disturbance, confusion, recent memory instability, and delayed recall
 - golden sap is the anomaly’s most dangerous property
 - when consumed, introduced into the bloodstream, or improperly inhaled in concentrated form, the sap causes immediate and often irreversible memory erasure
@@ -2507,24 +2507,24 @@ A giant pale flowering organism approximately 3 meters in height. It resembles a
 - overexposure causes severe biological damage in addition to memory loss
 - the organism appears to respond to nearby thought, agitation, and spoken memory
 
-### Historical Importance
+#### Historical Importance
 The discovery team concluded that the organism was too valuable to destroy and too dangerous to leave unmanaged. UFD-NB-004 is believed to be one of the earliest anomalies successfully transformed into a controlled strategic asset. Its later derivatives became the foundation of A.C.T amnestic compounds.
 
-### Modern Classification
+#### Modern Classification
 - **Containment Class:** RESIDUAL
 - **Threat Level:** 3
 - **Transformation Viability:** INTEGRATED
 
-### Containment and Use
+#### Containment and Use
 AFD-NB-004 is cultivated only under sealed biological containment conditions in approved North Wing botanical chambers. Raw sap is dangerously unstable and biologically harmful, but refinement and dilution procedures have produced multiple graded memory-wipe compounds. The anomaly remains one of the most strategically important integrated biological assets under Facility control.
 
 It is one of the pillars of Facility secrecy doctrine. Without it, mass witness sanitation would be significantly less reliable.
 
-### Ethical Relevance
+#### Ethical Relevance
 NEMNOLIA is one of the clearest examples of how A.C.T’s transformation doctrine can succeed while simultaneously deepening its moral ambiguity. A living anomaly that destroys memory becomes one of the institution’s most useful tools for preserving the lie of normalcy.
 
 
-### The 004-Series Amnestic Compound Reference
+#### The 004-Series Amnestic Compound Reference
 
 This section records the officially recognized derivative amnestic compounds refined from the sap of AFD-NB-004. These compounds form the basis of A.C.T memory suppression, witness sanitation, secrecy preservation, and restricted recall erasure protocols.
 
@@ -2532,7 +2532,7 @@ Raw sap is not considered safe for unrestricted use. All 004-series compounds ar
 
 AFD-NB-004 secretes a glowing translucent golden sap with memory-destructive properties. In raw form, it can erase, fracture, or collapse human memory continuity. Through controlled dilution, stabilization, and pharmaceutical refinement, A.C.T has categorized multiple derivative classes based on concentration.
 
-#### 004-A
+##### 004-A
 **Composition:** 100% sap / 0% water-alcohol  
 **Primary Effect:** 100% memory erasure  
 **Failure Risk:** catastrophic identity loss expected  
@@ -2540,7 +2540,7 @@ AFD-NB-004 secretes a glowing translucent golden sap with memory-destructive pro
 
 004-A is effectively total mnemonic destruction. Use is considered extreme and existentially invasive. Survivability of identity continuity is not assumed.
 
-#### 004-B
+##### 004-B
 **Composition:** 80% sap / 20% water-alcohol  
 **Primary Effect:** up to 10 years of memory erasure  
 **Failure Risk:** coma for 5 years if used incorrectly  
@@ -2548,7 +2548,7 @@ AFD-NB-004 secretes a glowing translucent golden sap with memory-destructive pro
 
 004-B is one of the most severe fieldable compounds. It is not approved for ordinary civilian use.
 
-#### 004-C
+##### 004-C
 **Composition:** 70% sap / 30% water-alcohol  
 **Primary Effect:** up to 5 years of memory erasure  
 **Failure Risk:** violent blood vomiting if used incorrectly  
@@ -2556,7 +2556,7 @@ AFD-NB-004 secretes a glowing translucent golden sap with memory-destructive pro
 
 004-C remains highly dangerous and operationally unstable.
 
-#### 004-D
+##### 004-D
 **Composition:** 50% sap / 50% water-alcohol  
 **Primary Effect:** up to 3 years of memory erasure  
 **Failure Risk:** heart decay if used incorrectly  
@@ -2564,7 +2564,7 @@ AFD-NB-004 secretes a glowing translucent golden sap with memory-destructive pro
 
 004-D is considered highly effective but biologically dangerous.
 
-#### 004-E
+##### 004-E
 **Composition:** 30% sap / 70% water-alcohol  
 **Primary Effect:** up to 1 year of memory erasure  
 **Failure Risk:** neurological breakdown if used incorrectly  
@@ -2572,7 +2572,7 @@ AFD-NB-004 secretes a glowing translucent golden sap with memory-destructive pro
 
 004-E is a lower but still severe long-term wipe formulation.
 
-#### 004-F
+##### 004-F
 **Composition:** 10% sap / 90% water-alcohol  
 **Primary Effect:** approximately 1 month of memory erasure  
 **Failure Risk:** liver shrinking if used incorrectly  
@@ -2580,7 +2580,7 @@ AFD-NB-004 secretes a glowing translucent golden sap with memory-destructive pro
 
 004-F is one of the more practical operational grades, though still medically dangerous.
 
-#### 004-G
+##### 004-G
 **Composition:** 5% sap / 95% water-alcohol  
 **Primary Effect:** approximately 1 week of memory erasure  
 **Failure Risk:** sudden blindness for 1 month if used incorrectly  
@@ -2588,7 +2588,7 @@ AFD-NB-004 secretes a glowing translucent golden sap with memory-destructive pro
 
 004-G is used where a short-term but meaningful recall removal window is sufficient.
 
-#### 004-H
+##### 004-H
 **Composition:** 1% sap / 99% water-alcohol  
 **Primary Effect:** approximately 1 day of memory erasure  
 **Failure Risk:** systemic weakness for 10 months if used incorrectly  
@@ -2596,7 +2596,7 @@ AFD-NB-004 secretes a glowing translucent golden sap with memory-destructive pro
 
 004-H is the weakest stable recognized amnestic dilution in current A.C.T use.
 
-#### Internal Doctrine of the 004-Series
+##### Internal Doctrine of the 004-Series
 
 The lower the concentration, the safer the intended erasure window. The higher the concentration, the closer the compound moves from memory suppression into continuity destruction.
 
@@ -2607,7 +2607,7 @@ A.C.T therefore distinguishes between:
 
 The 004-series is not to be treated as ordinary medicine.
 
-#### Medical Warning
+##### Medical Warning
 
 Improper administration may result in:
 - false continuity formation
@@ -2622,9 +2622,9 @@ AFD-NB-004 remains one of the most strategically important integrated anomalies 
 
 ---
 
-# Book VIII — Final Synthesis and Reference Aid
+## Book VIII — Final Synthesis and Reference Aid
 
-## Chapter 47 — What Makes A.C.T Distinct
+### Chapter 47 — What Makes A.C.T Distinct
 
 A.C.T is distinct not because it is secret, or because it contains anomalies, or because it has a buried headquarters. Many settings can include hidden organizations and strange phenomena. What gives A.C.T its own identity is the way its elements lock together.
 
@@ -2644,90 +2644,90 @@ In the end, A.C.T is best understood as a hidden civilization built for the main
 
 ---
 
-## Chapter 48 — Glossary of Core Terms
+### Chapter 48 — Glossary of Core Terms
 
-### A.C.T
+#### A.C.T
 **Anomaly Containment Transformation.** The name of the organization and the threefold doctrine that defines its purpose.
 
-### Anomaly
+#### Anomaly
 Any object, subject, event, place, condition, or structure that breaks accepted natural law and threatens normal reality or reveals hidden instability within it.
 
-### Structural Reality
+#### Structural Reality
 The balanced condition of existence between Void Collapse and Reality Reset.
 
-### Void Collapse
+#### Void Collapse
 The dissolution of reality into nullity, incoherence, or total loss of stable existence.
 
-### Reality Reset
+#### Reality Reset
 The forced overwriting or reformatting of reality, erasing prior continuity.
 
-### Minor Pause
+#### Minor Pause
 A brief lapse in universal continuity associated with the Cosmic Timer completing an iteration, believed by A.C.T to generate fracture opportunities from which anomalies may emerge.
 
-### Cosmic Timer
+#### Cosmic Timer
 A theoretical cosmological cycle mechanism in A.C.T doctrine used to explain hidden continuity stress in the universe.
 
-### Site
+#### Site
 A major permanent installation with enough authority, infrastructure, and institutional completeness to function as a full operational body of A.C.T.
 
-### Sub-Site
+#### Sub-Site
 A smaller or more specialized installation operating under a larger Site or command structure.
 
-### GOI
+#### GOI
 **Group of Interest.** Any organized body that knowingly interacts with anomalies in a meaningful or operational way.
 
-### ABYSS Floor
+#### ABYSS Floor
 The deepest foundational monitoring stratum of the central Facility, built to observe and manage the reachable influence boundary associated with ITHYOS.
 
-### ITHYOS
+#### ITHYOS
 The first preserved foundational anomaly in A.C.T archive history, originally ENTITY-000 and later AFD-CH-000, known as The World-Sleeper.
 
-### Transformation
+#### Transformation
 The doctrine and process by which an anomaly may be stabilized, neutralized, repurposed, or integrated into controlled A.C.T systems.
 
-### E-Class
+#### E-Class
 Disposable, condemned, or otherwise sacrificial personnel assigned to dangerous or ethically unacceptable exposure roles.
 
-### Broken Masquerade Protocol
+#### Broken Masquerade Protocol
 The Facility’s large-scale response condition when standard secrecy preservation fails.
 
-### REGRESSION Protocol
+#### REGRESSION Protocol
 A last-resort protocol intended to preserve or send one warning document into the past if a World End Scenario becomes unavoidable.
 
-### WES
+#### WES
 **World End Scenario.** A catastrophic terminal outcome in which survival or continuity is no longer expected by ordinary means.
 
-### UFD
+#### UFD
 **Unknown Field Designation.** Provisional status assigned during DETECT/VERIFY phase before an anomaly has been confirmed as genuine and operationally logged.
 
-### AFD
+#### AFD
 **Anomaly Field Designation.** Verified status assigned once the anomaly has been validated, documented, and entered into the permanent A.C.T record.
 
-### ANM
+#### ANM
 **Fracture Designation.** Used for anomalies whose documentation must be understood through fracture-state logic. Format: first pair = Fracture Containment Index, second pair = Fracture Sub-Threat Index, final body = registry number.
 
-### 004-Series
+#### 004-Series
 The derivative amnestic compound system refined from AFD-NB-004 (NEMNOLIA), ranging from 004-A (total mnemonic destruction) through 004-H (approximately 1 day of memory erasure). Indispensable to Facility secrecy preservation.
 
-### Log Category Document
+#### Log Category Document
 A supplementary archive document that groups multiple related logs under one category. It does not replace the main anomaly file but supports it by preserving evidence, history, and procedural development.
 
-### Operational Doctrine Sequence
+#### Operational Doctrine Sequence
 DETECT > VERIFY > CONCEAL > CONTAIN > ASSESS > RESEARCH > TRANSFORM > MAINTAIN. The standard response order of the A.C.T Facility.
 
-### Dual Filing
+#### Dual Filing
 The practice of maintaining both a GOI file (organizational archive) and an AFD file (anomalous nature archive) for groups that are themselves anomalous.
 
 ---
 
-## Chapter 49 — Quick Reference Index
+### Chapter 49 — Quick Reference Index
 
-### Core Identity
+#### Core Identity
 - A.C.T = Anomaly Containment Transformation
 - central mission = preserve Structural Reality
 - organizational nature = covert, scientific, gray, secrecy-driven
 
-### Core Doctrines
+#### Core Doctrines
 - Containment
 - Transformation
 - Research
@@ -2735,26 +2735,26 @@ The practice of maintaining both a GOI file (organizational archive) and an AFD 
 - Gray Morality
 - Operational Sequence: DETECT > VERIFY > CONCEAL > CONTAIN > ASSESS > RESEARCH > TRANSFORM > MAINTAIN
 
-### Highest Authorities
+#### Highest Authorities
 - O5 Council
 - Facility Administrator
 - Site Directors
 
-### Main Internal Wings
+#### Main Internal Wings
 - West = force / recovery / containment / military
 - East = archive / intelligence / task coordination
 - South = command / covert development / public masking
 - North = research / transformation / medical continuity
 - Central = anomaly spine / transport / document core
 
-### Key Cosmological Concepts
+#### Key Cosmological Concepts
 - Structural Reality
 - Void Collapse
 - Reality Reset
 - Minor Pause
 - Cosmic Timer
 
-### File Systems
+#### File Systems
 - ENTITY = pre-modern legacy archive logic
 - UFD = Unknown Field Designation
 - AFD = Anomaly Field Designation
@@ -2764,18 +2764,18 @@ The practice of maintaining both a GOI file (organizational archive) and an AFD 
 - 004-Series = amnestic compound reference derived from AFD-NB-004
 - 12 Log Categories = Recovery & Discovery, Interview & Testimony, Experiment & Testing, Incident & Breach, Exploration & Survey, Research & Analysis, Recovered Document, Behavioral & Observation, Transformation & Utilization, Communication & Correspondence, Audio/Video/Sensor, Personal & Recovered Journal
 
-### Major Installation Anchors
+#### Major Installation Anchors
 - ACT-SITE-01-US-W = Redwood Veil Complex
 - ACT-SITE-02-RU-N = White Grave Station
 - ACT-SITE-03-JP-E = Kurokawa Archive Node
 - ACT-SITE-04-BR-C = Verde Null Bio-Reserve
 - ACT-SITE-05-ID-C = Nusantara Deep Relay
 
-### Foundational Anomalies in This Volume
+#### Foundational Anomalies in This Volume
 - ENTITY-000 / AFD-CH-000 = ITHYOS, The World-Sleeper
 - UFD-NB-004 / AFD-NB-004 = NEMNOLIA, The Golden Veil / The Forgetting Bloom
 
-### Core Historical Sequence
+#### Core Historical Sequence
 - myth-era anomaly witness history
 - ERE precursor body
 - first anomalous signs
@@ -2787,7 +2787,7 @@ The practice of maintaining both a GOI file (organizational archive) and an AFD 
 
 ---
 
-## Chapter 50 — Closing Assessment
+### Chapter 50 — Closing Assessment
 
 This dossier now functions as a **complete single-volume canon reference** for the A.C.T universe. It has been compiled from all provided archive materials — overview doctrine, internal structure, reality doctrine, classification systems, file format standards, anomaly log categories, site doctrine, jurisdiction doctrine, global site registry, GOI doctrine and registry, historical origin, ABYSS/ITHYOS origin, NEMNOLIA/Forgetting Bloom, amnestic compound reference, and operational life detail — into one continuous book.
 

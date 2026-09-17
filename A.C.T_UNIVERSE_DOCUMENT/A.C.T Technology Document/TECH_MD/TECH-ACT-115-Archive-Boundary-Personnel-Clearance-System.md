@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - ARCHIVE BOUNDARY PERSONNEL CLEARANCE SYSTEM
+### TECHNOLOGY RECORD - ARCHIVE BOUNDARY PERSONNEL CLEARANCE SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -33,7 +33,7 @@
 **Distribution:** Kurokawa Archive Node / Administration / Security / Archive / Command
 **Authority:** Personnel and Clearance Office, Node Administration, Site Director's Command Floor, and Central Archive
 
-### Archive Note
+#### Archive Note
 Archive Boundary Personnel Clearance System is the one-hundred-fifteenth main A.C.T technology expanded into an individual record. The F-7 Personnel and Administrative Level dossier identifies F-7 as the boundary floor between Kurokawa's legitimate archive and its operational archive: the place where personnel are processed, clearances are verified, training begins, and the distinction between legitimate-archive personnel and operational-archive personnel is administered. The same dossier names that identity distinction as the floor's most important security function.
 
 ABPCS exists because Kurokawa has two populations inside one institution. The system prevents a person who belongs to the public archive from becoming, by accident or convenience, a person of the buried archive.
@@ -48,7 +48,7 @@ DO NOT LET ONE BADGE BELONG TO BOTH ARCHIVES WITHOUT AUTHORITY.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Archive Boundary Personnel Clearance System is Kurokawa Archive Node's F-7 personnel-processing and clearance-control technology for separating, verifying, and maintaining the node's two personnel populations. It governs arrivals from the legitimate foundation complex, access into the operational archive, duty assignment, clearance duration, transition authorization, identity distinction, and denial handling.
 
@@ -58,7 +58,7 @@ Approved roles include personnel arrival processing, identity verification, publ
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Kurokawa's dual identity created a personnel problem before it created an architectural one. Staff could work in the same building, share professional language, and handle documents while belonging to completely different realities. Early administration recognized that simple clearance level was not enough; the node needed a system that understood public archive identity and operational archive identity as different statuses, not different moods of the same job.
 
@@ -66,7 +66,7 @@ F-7 developed as the administrative boundary, placed below the public surface ar
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 An ABPCS installation includes personnel-processing counters, identity verification stations, clearance terminals, access-core credential writers, public-role registries, operational-depth authorization boards, training-readiness flags, denial and removal ledgers, command review terminals, and monitoring tied to F-7 transition architecture.
 
@@ -87,7 +87,7 @@ The system treats a person's permitted identity as a controlled access material.
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before personnel cross from the public archive into operational eligibility, ABPCS verifies identity, employment cover, division sponsorship, prior exposure, training status, document-handling history, security record, and reason for operational-depth access. Personnel are marked as public-only, supervised-transition, operational-cleared, command-cleared, or denied. Each status controls both physical access and what institutional explanations the person may receive.
 
@@ -95,7 +95,7 @@ Clearance remains active only while the role requires it. When a person changes 
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 ABPCS can separate roles and access, but it cannot erase curiosity, professional pride, misplaced trust, or the pressure created when public archive work approaches operational relevance. A preservation scientist may be more useful to the buried archive than their cover can safely allow. An operational worker may become too casual near public staff. The system depends on supervisors respecting separation even when collaboration would be convenient.
 
@@ -103,20 +103,20 @@ Known failure modes include public-role overreach, expired clearance left active
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## ABPCS-Two Population Finding
+### ABPCS-Two Population Finding
 An administrative review found that Kurokawa's staff lists could appear unified while hiding two incompatible access populations. Current ABPCS doctrine records public-archive and operational-archive status as separate personnel identities.
 
-## ABPCS-Escort Boundary Incident
+### ABPCS-Escort Boundary Incident
 A supervised transition once created confusion when a public-role worker followed an operational escort beyond the approved stop point. Current procedure assigns transition limits to both escort and escorted personnel and records the endpoint before movement begins.
 
-## ABPCS-Clearance Expiry Correction
+### ABPCS-Clearance Expiry Correction
 A temporary operational clearance remained active after a public digitization project ended. Current ABPCS procedure triggers expiry review at project closure, duty reassignment, and training-status change.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Administration operates the processing center and personnel records. Security enforces access, escort, and denial decisions. Archive Division uses ABPCS to request personnel access without collapsing public and operational archive roles. Command uses it to approve high-risk boundary movement. Training uses it to mark personnel ready, not merely interested, for deeper archive work.
 
@@ -124,7 +124,7 @@ ABPCS doctrine holds that Kurokawa's first locked door is not made of steel; it 
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-03-JP-E-F-7 Personnel and Administrative Level Floor Dossier;
 - ACT-SITE-03-JP-E-F-8 Surface Archive and Transition Level Floor Dossier;
@@ -135,7 +135,7 @@ ABPCS doctrine holds that Kurokawa's first locked door is not made of steel; it 
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How long can public archive staff work near the boundary before curiosity itself becomes a screening factor?
 - Should operational clearance require loss of certain public-facing duties?
@@ -146,7 +146,7 @@ ABPCS doctrine holds that Kurokawa's first locked door is not made of steel; it 
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Personnel and Clearance Office / Node Administration / Central Archive

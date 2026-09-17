@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - REGRESSION-RESISTANT INK
+### TECHNOLOGY RECORD - REGRESSION-RESISTANT INK
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Archive / O5 Liaison / Info-Hazard / Materials Custody / Site-03  
 **Authority:** Archive Division, Materials Custody Desk, O5 Liaison, and Central Archive
 
-### Archive Note
+#### Archive Note
 Regression-Resistant Ink is the twentieth main A.C.T technology expanded into an individual record. The Master Catalog identifies it as liquid medium infused with redacted particles possessing causal memory and used for O5-level log preservation. The visual guide describes a heavy glass inkwell with a drip-prevention valve, pitch-black liquid with violet sparkle, a pressurized reservoir, biometric thumbprint cap, unusually thick fluid, and resistance to all non-anomalous solvents. AFD-?.H-404 The Refracted One requires all research logs to be written in Regression-Resistant Ink and stored in QNB because the subject rewrites non-shielded physical records whenever its state changes.
 
 RRI is not better ink. It is a small act of refusal against the world deciding that a record was never written.
@@ -47,7 +47,7 @@ WRITE AS IF THE PAGE WILL HAVE TO REMEMBER ALONE.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Regression-Resistant Ink preserves handwritten and printed records through limited causal regression, document self-editing, timeline pressure, and hostile archive correction. The ink carries causal memory in its suspended particles. When a document is pressured to forget, reword, or justify a new state, RRI resists by maintaining a physical and causal claim that the original mark was made.
 
@@ -64,7 +64,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND CUSTODY
+## ORIGIN AND CUSTODY
 
 RRI was developed after A.C.T found that ordinary ink could be perfectly preserved and still say something else after a regression event. Lamination, copying, locked storage, and chemical fixatives protected paper but failed to protect historical priority. Archive Division needed writing that remembered being written even when the file system around it changed.
 
@@ -74,7 +74,7 @@ Formula and particle origin remain Level 5 because counterfeit RRI would be near
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 RRI is stored in heavy glass inkwells with drip-prevention valves. The liquid is pitch black with a violet sparkle under angled archive light. It is thicker than ordinary ink and moves slowly, as if resisting the decision to flow. Each inkwell uses a pressurized reservoir to keep particle distribution stable. The cap is sealed by a biometric thumbprint lock and a custody tag.
 
@@ -95,7 +95,7 @@ The ink should not be decanted into ordinary pens unless the pen is certified. D
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before use, the archivist confirms authority, opens the cap by biometric check, and performs a light test for violet particle response. The writing surface must be approved paper, parchment, label stock, or archive substrate. The writer records date, file, handler, batch, and reason for RRI use. If the record concerns an active shift hazard, a second archivist observes without discussing possible alternate states.
 
@@ -105,7 +105,7 @@ Do not use RRI for drafts, jokes, training signatures, decorative headings, or u
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 Regression-Resistant Ink cannot force a record to be correct, cannot survive all world-level resets, cannot protect the reader from info-hazardous meaning, and cannot preserve digital files. It can be overwhelmed by severe causal rewrite, burned if the page is destroyed, trapped under hostile varnish, or misused to preserve error. It also cannot prevent a document from gaining dangerous importance simply because staff see resistant ink and assume the content is final.
 
@@ -113,20 +113,20 @@ Known failure modes include particle settling, forged batch labels, ink refusal 
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## RRI-2011 Refracted One First Shift
+### RRI-2011 Refracted One First Shift
 Early logs for AFD-?.H-404 were written in ordinary ink. When the subject shifted from perceived creature to object, the pages rewrote themselves to justify the new state. A later RRI test retained both original observation and changed file pressure. This established RRI as required for Refracted One logging.
 
-## RRI-2016 Preserved Speculation
+### RRI-2016 Preserved Speculation
 A researcher wrote an uncertain theory in RRI before review. The theory survived two correction orders and kept reappearing in staff notes as if it were established fact. Archive did not remove the page; it attached a larger RRI correction. The incident created the rule that resistant ink is not for premature authority.
 
-## RRI-2023 Particle Settling Alert
+### RRI-2023 Particle Settling Alert
 An inkwell from long storage passed cap inspection but failed violet response. The bottom layer had become overly dense with causal particles. No record was written. Materials Custody added reservoir agitation checks before every restricted use.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Archive Division writes and stores RRI records. O5 Liaison authorizes council stock. Materials Custody tracks inkwells, batch seals, nibs, and waste. Info-Hazard Division approves dangerous descriptions. Site-03 stores active use protocols. Engineering maintains reservoirs and solvent testing. QNB staff determine which RRI source pages require buffer mirroring.
 
@@ -134,7 +134,7 @@ Standing reminder: RRI is not truth. It is stubbornness given liquid form.
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 28;
 - ACT Technological Visual Reference Guide, Item 28;
@@ -145,7 +145,7 @@ Standing reminder: RRI is not truth. It is stubbornness given liquid form.
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can RRI preserve two contradictory versions without degrading the page?
 - What source produces the causal-memory particles?
@@ -156,7 +156,7 @@ Standing reminder: RRI is not truth. It is stubbornness given liquid form.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Archive Division / Materials Custody Desk / O5 Liaison / Central Archive  

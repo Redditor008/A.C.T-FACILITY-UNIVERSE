@@ -1,11 +1,11 @@
 # A.C.T FACILITY ARCHIVE FILE
-## Complete Designation and Class Reference
+### Complete Designation and Class Reference
 
 **Archive Status:** Active Reference Standard
 **Distribution:** Internal / Archive / Classification Review / Training / All Divisions
 **Authority:** Archive Administration and Classification Review, with Central Archive custody
 
-### Archive Note
+#### Archive Note
 This file is the consolidated meaning reference for every designation, code, marker, and class used on A.C.T records. Until this file was opened, the same code could be read differently by an Archiver, a Field Operator, a Site Director, and a Transformation specialist, because its definition lived in a different supporting file each time. This reference ends that condition.
 
 The file explains, in full, every entry that appears in an anomaly file, a GOI record, or a Site record:
@@ -19,7 +19,7 @@ The file explains, in full, every entry that appears in an anomaly file, a GOI r
 
 Meanings are recorded as the archive understands them. Where a source file lists a code without expanding its meaning, this reference records the standard archival interpretation so that no code is ever left as a bare label. Entries are written one code per section. Codes are explained, never merely listed.
 
-### How Entries Are Read
+#### How Entries Are Read
 Every code entry in this file follows the same shape:
 
 - **The code** and the full words it abbreviates.
@@ -28,7 +28,7 @@ Every code entry in this file follows the same shape:
 - **Reading example** — a real or rule-built designation showing the code in use.
 - **Do not confuse with** — the mistakes that have actually been made in the archive.
 
-### Source Doctrine
+#### Source Doctrine
 This reference consolidates definitions preserved in the following source records, and where those records list a value without expansion, the working interpretation is stated openly in the entry itself:
 
 - ACT_Anomaly_Classification_Manual_Archive (with Part Three)
@@ -40,13 +40,13 @@ This reference consolidates definitions preserved in the following source record
 
 ---
 
-# PART I — ANOMALY FILE DESIGNATIONS AND CLASSES
+## PART I — ANOMALY FILE DESIGNATIONS AND CLASSES
 
 This Part explains the designation and classification system that appears on every modern anomaly file. It is organized in the same order the fields appear on the Standard Format file: designation first, then registry band, field type, fracture logic, containment class, threat level, transformation viability, lifecycle state, clearance, hazard tags, and finally the operational fields (structure class, breach state, restrictions, redaction, and record state).
 
 ---
 
-## I-1 Designation Anatomy — Reading an Anomaly Designation
+### I-1 Designation Anatomy — Reading an Anomaly Designation
 
 An A.C.T anomaly designation is a compressed statement. Read from right to left, it tells the reader three things in order: **which registry entry this is** (the number), **what kind of anomaly it is** (the type code), and **how much of the record is settled** (the record prefix). The designation never describes danger by itself; danger is carried by the Containment Class and Threat Level fields beside it.
 
@@ -67,7 +67,7 @@ In `ANM` form:
 - the second **XX** is the **Fracture Sub-Threat Index** code;
 - the **####** is the numerical registry code, written with four digits because fracture records share the registry with the older numbered series and require room for separate enumeration.
 
-### UFD — Unknown Field Designation
+#### UFD — Unknown Field Designation
 
 **Meaning.** UFD is the provisional label. It records that something is **suspected** of being anomalous but has not yet been fully confirmed or stabilized in archive logic. The file exists because the object, subject, place, or phenomenon cannot be safely ignored; the file is provisional because A.C.T has not yet decided what it is dealing with.
 
@@ -77,7 +77,7 @@ In `ANM` form:
 
 **Do not confuse with.** AFD. UFD is not a lower-value class; it is an earlier stage of the same record. Verification does not "promote" an anomaly, it settles the record. Nor is UFD a field type code: the type code follows the dash.
 
-### AFD — Anomaly Field Designation
+#### AFD — Anomaly Field Designation
 
 **Meaning.** AFD is the permanent label. It records that the anomaly has been **formally verified** and entered into the permanent A.C.T archive structure: detected, confirmed as anomalous, classified, and given a stable file identity.
 
@@ -87,7 +87,7 @@ In `ANM` form:
 
 **Do not confuse with.** UFD (see above), ENTITY numbers (historical series, see below), or ANM. An AFD record describes an anomaly in settled archive terms; an ANM record exists because the anomaly broke those terms.
 
-### ENTITY-### — Historical Vault Designation
+#### ENTITY-### — Historical Vault Designation
 
 **Meaning.** The oldest designation series in the archive, used **before** the formal anomaly system existed. In that era the impossible was recorded in survival documents as `ENTITY` files: no standardized field type, containment class, threat level, or transformation viability was attached. An ENTITY number means the file belongs to the first-vault era of A.C.T archive history.
 
@@ -97,7 +97,7 @@ In `ANM` form:
 
 **Do not confuse with.** Registry numbers. ENTITY numbers do not share the modern ### registry; they are a closed historical series.
 
-### Reserved Registry Numbers — 000 and Foundational Significance
+#### Reserved Registry Numbers — 000 and Foundational Significance
 
 **Meaning.** Some numbers carry structural meaning. The number **000** is treated as a designation of **foundational or origin-level significance** and is never assigned casually. Its use marks the subject as load-bearing in A.C.T history.
 
@@ -105,11 +105,11 @@ In `ANM` form:
 
 **Do not confuse with.** Anomalies whose registry number happens to contain zeros. Ordinary three- and four-digit registry codes are assigned in sequence; only 000 carries the reserved significance.
 
-## I-1A Registry Band Doctrine
+### I-1A Registry Band Doctrine
 
 Registry Band Doctrine defines how A.C.T reads anomaly numbers across historical, provisional, verified, and fracture-state records. It exists because a number is not only an index; in some ranges it also records archive age, intake history, and protected significance.
 
-### ENTITY Historical Band
+#### ENTITY Historical Band
 
 **Range.** `ENTITY-###`, closed historical series.
 
@@ -117,7 +117,7 @@ Registry Band Doctrine defines how A.C.T reads anomaly numbers across historical
 
 **Rule.** No new ENTITY file is opened under ordinary modern doctrine. A modern file may cross-reference an ENTITY record, but it must not overwrite it.
 
-### 000 Foundational Reserve
+#### 000 Foundational Reserve
 
 **Range.** `000` in modern UFD/AFD registry use, and `ENTITY-000` in the historical series.
 
@@ -125,7 +125,7 @@ Registry Band Doctrine defines how A.C.T reads anomaly numbers across historical
 
 **Rule.** Any new use of `000` requires O5-level or equivalent sealed archive authority. ITHYOS is the controlling example.
 
-### LEGACY ACCEPTED Band
+#### LEGACY ACCEPTED Band
 
 **Range.** `001–120` in UFD/AFD-style three-digit anomaly records.
 
@@ -135,7 +135,7 @@ Registry Band Doctrine defines how A.C.T reads anomaly numbers across historical
 
 **Reading example.** `UFD-NB-004` and `AFD-NB-004` describe different archive states of The Forgetting Bloom rather than accidental duplicate numbering.
 
-### Modern Registry Band
+#### Modern Registry Band
 
 **Range.** `121–999` in standard UFD/AFD three-digit anomaly records.
 
@@ -143,7 +143,7 @@ Registry Band Doctrine defines how A.C.T reads anomaly numbers across historical
 
 **Rule.** A modern UFD may become an AFD after verification, but the designation history must preserve the intake path. If the UFD file contains evidence that must remain historically readable, it should be archived rather than erased.
 
-### ANM Fracture-State Band
+#### ANM Fracture-State Band
 
 **Range.** `ANM-XX-XX-0001` through `ANM-XX-XX-9999`, with `XXXX` reserved for unresolved or deliberately obscured numbering.
 
@@ -151,7 +151,7 @@ Registry Band Doctrine defines how A.C.T reads anomaly numbers across historical
 
 **Rule.** ANM is not a stronger AFD. It is a different record logic used when standard archive categories fail, fracture, loop, rewrite, or become unsafe.
 
-### Obscured, Reserved, and Closed Numbers
+#### Obscured, Reserved, and Closed Numbers
 
 **Obscured numbers** may appear as `XXXX`, `[Question]`, or equivalent redacted forms when the number itself is not declassified or cannot be stabilized. **Reserved numbers** are held for structural, story, or archive-governance reasons. **Closed numbers** are numbers retired from new assignment because the previous record remains historically load-bearing.
 
@@ -159,11 +159,11 @@ No registry number should be reused merely because an anomaly is neutralized, lo
 
 ---
 
-## I-2 Field Type Codes
+### I-2 Field Type Codes
 
 The field type code is the first `XX` segment of a UFD or AFD designation. It answers one question: **in what category of existence does this anomaly live?** It is the first layer of operational understanding and is assigned before full study is complete. Modern files sometimes show a second, nuanced type line under the main field (for example a file whose main type is OB but whose behavior carries a ?.H note); the main field remains the filing category.
 
-### OB — Object
+#### OB — Object
 
 **Meaning.** The anomaly is a **thing**: an item, device, artifact, sample, tool, or material object with anomalous properties. Object-type anomalies are the most common filings and are usually, but not always, the most containable.
 
@@ -173,7 +173,7 @@ The field type code is the first `XX` segment of a UFD or AFD designation. It an
 
 **Do not confuse with.** Box Class (I-8), which describes the *structure* used to hold an object; and with Subject, when an object displays sentience or agency strong enough to reclassify it.
 
-### SU — Subject
+#### SU — Subject
 
 **Meaning.** The anomaly is a **living or sentient being**: a creature, entity, person, organism, or presence that acts, reacts, or is treated as an individual. Subject-type records place the anomaly's behavior and welfare at the center of the file.
 
@@ -183,7 +183,7 @@ The field type code is the first `XX` segment of a UFD or AFD designation. It an
 
 **Do not confuse with.** Field type is about the anomaly's category of existence; Containment Class is about its relationship to containment. A subject can be INERT; an object can be REACTIVE.
 
-### PL — Place
+#### PL — Place
 
 **Meaning.** The anomaly is a **location**: a site, building, zone, room, territory, route, or area that is itself anomalous. Place-type anomalies may distort the space they occupy or exist only under certain conditions.
 
@@ -193,7 +193,7 @@ The field type code is the first `XX` segment of a UFD or AFD designation. It an
 
 **Do not confuse with.** SP. Place is a location with a fixed identity; Space anomalies (below) attack spatial logic itself. A place-type file may still require Exploration & Survey dossiers (Part IV, Category V) when teams enter it.
 
-### TI — Time
+#### TI — Time
 
 **Meaning.** The anomaly involves **time**: temporal distortion, loops, resets, acceleration, deceleration, aging effects, or interference with the order of events. Time-type records treat chronology itself as the hazardous medium.
 
@@ -203,7 +203,7 @@ The field type code is the first `XX` segment of a UFD or AFD designation. It an
 
 **Do not confuse with.** The Cosmic Timer doctrine (the hidden cycle behind Minor Pauses) is reality theory, not a field type; TI is assigned to anomalies whose *own* effect is temporal.
 
-### SP — Space
+#### SP — Space
 
 **Meaning.** The anomaly involves **space itself**: impossible interiors, non-Euclidean geometry, folding, wormhole behavior, infinite or contradictory dimensions, or places where distance and direction stop obeying the map.
 
@@ -213,7 +213,7 @@ The field type code is the first `XX` segment of a UFD or AFD designation. It an
 
 **Do not confuse with.** PL. The cleanest distinction in the archive: PL means the place is the anomaly; SP means space is the anomaly. A door that is a wound in space may be filed PL with SP behavior noted, but the main field follows the dominant condition.
 
-### ME — Memetic
+#### ME — Memetic
 
 **Meaning.** The anomaly is a **memetic hazard**: information, image, symbol, pattern, phrase, or idea that is itself dangerous to perceive, remember, or transmit. The threat is carried by the medium of meaning.
 
@@ -223,7 +223,7 @@ The field type code is the first `XX` segment of a UFD or AFD designation. It an
 
 **Do not confuse with.** IH. Both live in information, and the boundary is strict: memetic hazard spreads through *meaning and perception* (see it, copy it, remember it); info hazard is dangerous in *information itself* (below).
 
-### IH — Info Hazard
+#### IH — Info Hazard
 
 **Meaning.** The anomaly is an **information hazard**: a fact, datum, name, location, formula, or piece of knowledge that is dangerous to know regardless of the medium carrying it. The danger is in the content, not in the pattern of perception.
 
@@ -233,7 +233,7 @@ The field type code is the first `XX` segment of a UFD or AFD designation. It an
 
 **Do not confuse with.** ME (see above) and with the redaction markers `[ MEMETIC ]` and `[ INFO-HAZARD ]`, which tell the reader which suppression regime a document sits under — the marker is not the field type.
 
-### CH — Cosmic Hazard
+#### CH — Cosmic Hazard
 
 **Meaning.** The anomaly operates on a **cosmic scale or origin**: it is connected to the structure of reality itself — the Minor Pause, the Cosmic Timer, Structural Reality, Void Collapse, Reality Reset — or it is simply too large, old, or fundamental to be treated as a local phenomenon.
 
@@ -243,7 +243,7 @@ The field type code is the first `XX` segment of a UFD or AFD designation. It an
 
 **Do not confuse with.** Threat Level. CH is an origin/scale category; a cosmic hazard can still be low-threat while contained, and a high threat is not automatically cosmic.
 
-### NB — Non-Natural Bio Hazard
+#### NB — Non-Natural Bio Hazard
 
 **Meaning.** The anomaly is **biological but not natural**: a life form, organism, pathogen, tissue, or biological process that violates natural biology. NB covers creatures that should not exist, biology that should not work, and contagions that do not follow ordinary rules of life.
 
@@ -253,7 +253,7 @@ The field type code is the first `XX` segment of a UFD or AFD designation. It an
 
 **Do not confuse with.** SU. A non-natural bio hazard that is also sentient is still filed NB when its biology is the dominant anomaly; sentience is then handled inside the file and in Behavioral & Observation dossiers (Part IV, Category VIII).
 
-### ?.H — Shifting Hazard
+#### ?.H — Shifting Hazard
 
 **Meaning.** The reserved designation for anomalies that **resist stable categorization**. A shifting hazard may change between object and subject, place and space, memetic and cosmic, or otherwise alter its ontological status depending on observation, time, ritual state, or unknown triggers.
 
@@ -267,9 +267,9 @@ The field type code is the first `XX` segment of a UFD or AFD designation. It an
 
 ---
 
-## I-3 Fracture Designation and the Fracture Index Codes
+### I-3 Fracture Designation and the Fracture Index Codes
 
-### The ANM Format
+#### The ANM Format
 
 **Meaning.** `ANM-XX-XX-####` is the designation used when **standard archive assumptions become structurally insufficient**. Not every anomaly threatens containment in a straightforward way; some distort the very logic used to describe, contain, or assess them. For those cases the record prefix is **ANM** and the two letter segments come from the Fracture Index rather than from the field type list.
 
@@ -279,57 +279,57 @@ The field type code is the first `XX` segment of a UFD or AFD designation. It an
 
 **Do not confuse with.** AFD/UFD. ANM is not a "more dangerous" prefix; it is a *different filing logic*. An AFD record assumes archive terms hold; an ANM record exists because they do not.
 
-### Fracture Index — Containment Codes
+#### Fracture Index — Containment Codes
 The first letter pair of an ANM designation abbreviates the **Fracture Containment Index**, which describes what containment has actually become for this anomaly.
 
-### QU — QUESTIONED
+#### QU — QUESTIONED
 
 **Meaning.** *Did we even put it in the box — it's so passive you wonder if containment ever happened.* The anomaly is so unresponsive that A.C.T cannot confirm its containment is doing anything; the question is whether containment exists or is theater.
 
 **Reading example.** `ANM-QU-AS-0003`.
 
-### AB — ABSURD
+#### AB — ABSURD
 
 **Meaning.** *How the hell is it in the box — it shouldn't fit, shouldn't stay, but somehow it does.* The anomaly violates every expectation about how it is being held, yet remains held; containment works while making no sense.
 
 **Reading example.** Constructed: `ANM-AB-HM-0002`.
 
-### MU — MUTATED
+#### MU — MUTATED
 
 **Meaning.** *The box grew legs — containment itself became the anomaly.* The containment system has changed into something anomalous; the cage is now part of the problem.
 
-### UA — UNAUTHORED
+#### UA — UNAUTHORED
 
 **Meaning.** *Who wrote this — the documentation is wrong, the procedure is wrong, something is rewriting the rules.* The file, procedure, or record chain cannot be trusted; something is altering the documentation of the anomaly.
 
 **Reading example.** `ANM-UA-AS-0001` The Unwritten Return.
 
-### SC — SCHRÖDINGER
+#### SC — SCHRÖDINGER
 
 **Meaning.** *It's in the box, but not in the box — simultaneously contained and not contained, and observation determines which.* The anomaly holds both states at once, and the act of looking fixes one of them.
 
-### Fracture Index — Sub-Threat Codes
+#### Fracture Index — Sub-Threat Codes
 The second letter pair of an ANM designation abbreviates the **Fracture Sub-Threat Index**, which describes what the threat has actually done or failed to do.
 
-### HM — HARMLESS
+#### HM — HARMLESS
 
 **Meaning.** *Did it even hurt anybody — no damage, no effect, no consequence to anyone.* The threat side of the file is empty; nothing has ever been harmed.
 
-### BE — BENEFICIAL
+#### BE — BENEFICIAL
 
 **Meaning.** *It healed someone — the anomaly actively improves or repairs, not harms.* The anomaly's effect is restorative, which fractures every ordinary threat assumption in the file.
 
-### RV — REVERTED
+#### RV — REVERTED
 
 **Meaning.** *Somehow it reverted back — the damage undoes itself, as if the threat never happened.* Harm occurs and then reverses, so the file cannot record a stable consequence.
 
-### AS — ABSENT
+#### AS — ABSENT
 
 **Meaning.** *Where's the threat — the danger exists on paper but nowhere in reality.* The threat is documented but has never appeared; the danger is theoretical, historical, or fictional.
 
 **Reading example.** `ANM-QU-AS-0003` and `ANM-UA-AS-0001`.
 
-### NU — NULLIFIED
+#### NU — NULLIFIED
 
 **Meaning.** *It stopped — whatever it was doing, it ceased entirely on its own.* The anomalous activity ended without A.C.T intervention, leaving a file without an active subject.
 
@@ -338,13 +338,13 @@ The second letter pair of an ANM designation abbreviates the **Fracture Sub-Thre
 
 ---
 
-## I-4 Containment Class
+### I-4 Containment Class
 
 **What the field measures.** A.C.T's containment classes do not merely describe danger — they describe **the relationship between the anomaly and the act of containment itself**. Two anomalies of identical danger may carry different classes because one fights its box and one ignores it. The class tells the reader what containment is *up against*.
 
 The recognized class list appears in full on the Standard Format template: **INERT / RESIDUAL / SPORADIC / UNDISCLOSED / ENTROPIC / REACTIVE / EXIGENT / INVERTED / UNENCLOSABLE / INTANGIBLE / TIAMAT / [BLANK]**. Each class below carries its defining line (the class in one sentence, as the archive says it) followed by its full meaning.
 
-### INERT
+#### INERT
 
 **Defining line.** *Will not leave the box, even if it can.*
 
@@ -354,7 +354,7 @@ The recognized class list appears in full on the Standard Format template: **INE
 
 **Do not confuse with.** Harmless or low threat. An INERT anomaly may still be profoundly dangerous if released or touched; INERT describes its behavior toward its box, not its power.
 
-### RESIDUAL
+#### RESIDUAL
 
 **Defining line.** *Scratches the walls, nothing more.*
 
@@ -362,7 +362,7 @@ The recognized class list appears in full on the Standard Format template: **INE
 
 **Reading example.** `AFD-NB-004` The Forgetting Bloom (Threat 3), whose residual activity stays within manageable bounds under procedure.
 
-### SPORADIC
+#### SPORADIC
 
 **Defining line.** *Rarely breaks out, nothing unpredictable.*
 
@@ -370,7 +370,7 @@ The recognized class list appears in full on the Standard Format template: **INE
 
 **Reading example.** `AFD-SU-012` Grumblesail (Threat 1); `AFD-SU-011` Dream Eater / THEMESY (Threat 1).
 
-### UNDISCLOSED
+#### UNDISCLOSED
 
 **Defining line.** *Leaves by unknown means, returns by known ones.*
 
@@ -380,7 +380,7 @@ The recognized class list appears in full on the Standard Format template: **INE
 
 **Do not confuse with.** Undisclosed *information*. The class name records a known condition (undisclosed means of exit), not a decision to withhold data — though files of this class are often restricted for other reasons.
 
-### ENTROPIC
+#### ENTROPIC
 
 **Defining line.** *Containment decays around it without maintenance.*
 
@@ -390,7 +390,7 @@ The recognized class list appears in full on the Standard Format template: **INE
 
 **Do not confuse with.** Threat Level. An ENTROPIC anomaly may be slow; its danger is that it wins by waiting.
 
-### REACTIVE
+#### REACTIVE
 
 **Defining line.** *Containment fails the moment you look away.*
 
@@ -400,7 +400,7 @@ The recognized class list appears in full on the Standard Format template: **INE
 
 **Do not confuse with.** EXIGENT. REACTIVE fails when you look away; EXIGENT demands full-time operation even while you watch (below).
 
-### EXIGENT
+#### EXIGENT
 
 **Defining line.** *Containment is a full-time 24/7 operation.*
 
@@ -410,7 +410,7 @@ The recognized class list appears in full on the Standard Format template: **INE
 
 **Do not confuse with.** REACTIVE (above). The distinction is workload: REACTIVE needs your eyes; EXIGENT needs your whole operation.
 
-### INVERTED
+#### INVERTED
 
 **Defining line.** *It contains — does not merely need containing.*
 
@@ -420,7 +420,7 @@ The recognized class list appears in full on the Standard Format template: **INE
 
 **Do not confuse with.** INERT. INVERTED is not "passive"; it is *load-bearing*. An INVERTED anomaly may be highly active — as a seal.
 
-### UNENCLOSABLE
+#### UNENCLOSABLE
 
 **Defining line.** *Too vast to enclose.*
 
@@ -430,7 +430,7 @@ The recognized class list appears in full on the Standard Format template: **INE
 
 **Do not confuse with.** Box Class "Unclose" (I-8). The class records the relationship (cannot be enclosed); the structure category records the practical answer (no structure, managed by procedure).
 
-### INTANGIBLE
+#### INTANGIBLE
 
 **Defining line.** *Cannot be touched, only witnessed.*
 
@@ -440,7 +440,7 @@ The recognized class list appears in full on the Standard Format template: **INE
 
 **Do not confuse with.** ME field type. INTANGIBLE is a containment relationship; ME is a category of existence. A memetic anomaly is *usually* intangible, but an intangible anomaly need not be memetic.
 
-### TIAMAT
+#### TIAMAT
 
 **Defining line.** *Beyond the frame of reference.*
 
@@ -450,7 +450,7 @@ The recognized class list appears in full on the Standard Format template: **INE
 
 **Do not confuse with.** Threat 9-10. TIAMAT is not a synonym for "world-ending"; it is the class for anomalies outside the containment frame. Most TIAMAT filings are also extreme threats, but the class and the threat are separate fields.
 
-### [BLANK]
+#### [BLANK]
 
 **Defining line.** *Engagement is itself the threat.*
 
@@ -465,7 +465,7 @@ A file that mixes the two spellings has already corrupted its own classification
 
 ---
 
-## I-5 Threat Level
+### I-5 Threat Level
 
 **What the field measures.** Threat Level measures the scale of harm an anomaly may inflict **if uncontained, mismanaged, or triggered**. It is not a description of current behavior inside containment; it is a statement of what the anomaly is capable of doing to the world.
 
@@ -491,41 +491,41 @@ The recognized scale runs **0 to 10**:
 
 ---
 
-## I-6 Transformation Viability
+### I-6 Transformation Viability
 
 **What the field measures.** Transformation is what distinguishes A.C.T from organizations that only imprison the unknown. A.C.T believes that some anomalies, once understood, may be altered in status. Transformation Viability records **whether this anomaly can be changed — and how far the change may go**.
 
 The recognized values are **INVIOLABLE / NEUTRAL / CONTAINED-STUDY / STABILIZED / NEUTRALIZED / REPURPOSED / INTEGRATED**.
 
-### INVIOLABLE
+#### INVIOLABLE
 
 **Meaning.** *Transformation is not an option.* The anomaly cannot be altered, influenced, or repurposed without catastrophic consequence. The file's transformation line is a standing prohibition, not a deferral.
 
 **Reading example.** `AFD-OB-502` Ball of Knife carries INVIOLABLE: attempting to change it is assessed to trigger the harm that containment exists to prevent.
 
-### NEUTRAL
+#### NEUTRAL
 
 **Meaning.** *Transformation is inadvisable.* The anomaly is stable enough in containment, and the risk of experimentation outweighs the benefit. The file declines transformation for now, on risk grounds rather than absolute grounds.
 
-### CONTAINED-STUDY
+#### CONTAINED-STUDY
 
 **Meaning.** *Not ready for transformation.* Research is active, but no operational transformation is authorized yet. The anomaly is being studied under containment with transformation as a possible future, not a present program.
 
 **Reading example.** The source doctrine's suggested file format block shows the combination: `AFD-OB-042` — REACTIVE / Threat 4 / **CONTAINED-STUDY**.
 
-### STABILIZED
+#### STABILIZED
 
 **Meaning.** *The anomaly has crossed the first threshold.* Its behavior is predictable enough for controlled use beyond strict isolation. STABILIZED is the safer, more predictable, lower-threat state that transformation aims at first.
 
-### NEUTRALIZED
+#### NEUTRALIZED
 
 **Meaning.** *Its harmful effect has been suppressed or nullified.* The anomaly no longer poses its original danger, though it may no longer be useful. NEUTRALIZED records that the threat was removed even at the cost of the anomalous property.
 
-### REPURPOSED
+#### REPURPOSED
 
 **Meaning.** *Its function has been redirected.* The anomaly now serves a defined Facility purpose, such as logistics, surveillance, defense, medicine, or energy support. REPURPOSED is transformation with a mission.
 
-### INTEGRATED
+#### INTEGRATED
 
 **Meaning.** *The anomaly has become part of A.C.T itself.* At this stage it is no longer treated as an external object of study, but as a permanent system component embedded within infrastructure, doctrine, or operational capacity.
 
@@ -533,7 +533,7 @@ The recognized values are **INVIOLABLE / NEUTRAL / CONTAINED-STUDY / STABILIZED 
 
 **Do not confuse with.** Containment Class. Class describes the relationship between the anomaly and the act of containment; viability describes whether and how the anomaly may be *changed*. A REACTIVE anomaly may be INVIOLABLE; an INERT one may be INTEGRATED.
 
-### Supporting Transformation Statuses
+#### Supporting Transformation Statuses
 
 Beyond the seven viability values, transformation doctrine carries four status conditions that appear in files and Transformation & Utilization dossiers:
 
@@ -542,67 +542,67 @@ Beyond the seven viability values, transformation doctrine carries four status c
 - **Unstable Asset** — the anomaly is considered an unstable asset if it has failed transformation before, if transformation changes its threat level, if transformation changes its containment class, if it remains unstable after conversion, or if it carries a heavy ethical burden.
 - **Inviolable** — attempting to change the anomaly's structure or nature may itself trigger catastrophic harm.
 
-### Transformation Authorization and Prohibition
+#### Transformation Authorization and Prohibition
 
 - Transformation may only proceed through ascending authority: **Field Operating Chief > High Researcher > Site Director > Head Transformation > High Threat Administrator > O5**.
 - Transformation is **not allowed** when the anomaly is marked **Content**, **Unstable**, **Don't Touch**, **Don't See**, or **Don't Fix**.
 - Before transformation, the file must demonstrate: **compatibility, application, use, lower projected danger or improved control, and high-need operational justification**.
 
-## I-6A Anomaly Lifecycle State
+### I-6A Anomaly Lifecycle State
 
 **What the field measures.** Lifecycle State records the anomaly's present archive and operational condition. It is not the same as Containment Class and not the same as Transformation Viability. Containment Class asks how containment relates to the anomaly. Transformation Viability asks whether the anomaly can be changed. Lifecycle State asks where the anomaly currently stands in A.C.T custody, knowledge, or loss.
 
 Recognized lifecycle states are **PROVISIONAL / ACTIVE-CONTAINED / ACTIVE-UNCONTAINED / UNDER REVIEW / TRANSFORMATION-CANDIDATE / INTEGRATED / RETIRED / ARCHIVED / NEUTRALIZED / EXPLAINED / LOST / MEMORIALIZED / PROHIBITED-FROM-TRANSFORMATION**.
 
-### PROVISIONAL
+#### PROVISIONAL
 
 **Meaning.** The anomaly is suspected, detected, or partially documented, but verification remains incomplete. Most UFD records begin here.
 
-### ACTIVE-CONTAINED
+#### ACTIVE-CONTAINED
 
 **Meaning.** The anomaly remains active and is presently held, bounded, monitored, or managed by A.C.T procedure.
 
-### ACTIVE-UNCONTAINED
+#### ACTIVE-UNCONTAINED
 
 **Meaning.** The anomaly remains active and is not presently under reliable A.C.T control. This state may apply to mobile subjects, open places, spreading effects, escaped objects, public phenomena, or anomalies whose containment is theoretical only.
 
-### UNDER REVIEW
+#### UNDER REVIEW
 
 **Meaning.** The anomaly's classification, containment procedure, transformation status, or record integrity is under formal review. This state is used when the archive knows that the current file may no longer be safe to trust.
 
-### TRANSFORMATION-CANDIDATE
+#### TRANSFORMATION-CANDIDATE
 
 **Meaning.** The anomaly is being considered for controlled transformation, repurposing, stabilization, neutralization, or integration. No operational transformation is implied unless separately authorized.
 
-### INTEGRATED
+#### INTEGRATED
 
 **Meaning.** The anomaly or a derivative of it has become part of A.C.T infrastructure, procedure, equipment, medicine, archive function, or operational capacity. The source anomaly may still require containment.
 
-### RETIRED
+#### RETIRED
 
 **Meaning.** The anomaly no longer requires active operational handling, but its file remains open as a controlled historical and procedural record.
 
-### ARCHIVED
+#### ARCHIVED
 
 **Meaning.** The active case has closed and the file is preserved for reference, history, training, law, or future reactivation.
 
-### NEUTRALIZED
+#### NEUTRALIZED
 
 **Meaning.** The anomalous effect has ceased, been suppressed, been exhausted, or been rendered nonfunctional. The file remains because the cause, method, or consequence may still matter.
 
-### EXPLAINED
+#### EXPLAINED
 
 **Meaning.** The anomaly was resolved into non-anomalous cause, misclassification, hoax, ordinary science, or a known non-A.C.T phenomenon. The file is retained so the mistake cannot repeat unexamined.
 
-### LOST
+#### LOST
 
 **Meaning.** The anomaly, source, file body, route, or confirming evidence has been lost. LOST does not mean safe; it means A.C.T no longer knows enough to claim control.
 
-### MEMORIALIZED
+#### MEMORIALIZED
 
 **Meaning.** The anomaly record is retained primarily because personnel, civilians, sites, or historical events attached to it require formal remembrance. Memorialized files may still contain hazardous information.
 
-### PROHIBITED-FROM-TRANSFORMATION
+#### PROHIBITED-FROM-TRANSFORMATION
 
 **Meaning.** Transformation is formally forbidden by doctrine, review, ethical determination, or risk. This lifecycle state can coexist with active containment.
 
@@ -610,43 +610,43 @@ Recognized lifecycle states are **PROVISIONAL / ACTIVE-CONTAINED / ACTIVE-UNCONT
 
 ---
 
-## I-7 Clearance Levels
+### I-7 Clearance Levels
 
 **What the field measures.** Clearance in A.C.T is not simply a matter of authority — it is a matter of **survivable knowledge**. Not all truths can be safely known, and not all personnel can be trusted with the same version of reality. The clearance field on an anomaly file states who may lawfully hold the file's knowledge.
 
-### Non-Access
+#### Non-Access
 
 **Meaning.** Civilians. No awareness of A.C.T is permitted. The public is not merely uninformed; it is intentionally protected from knowledge that could destabilize minds, societies, or reality itself.
 
-### Level E — E-Class / Excommunicated Class
+#### Level E — E-Class / Excommunicated Class
 
 **Meaning.** A highly restricted category assigned to condemned, disposable, censured, or operationally isolated individuals. E-Class personnel may be used in dangerous testing, exposure trials, punitive assignments, or sacrificial procedures where standard personnel cannot be risked.
 
-### Level 0
+#### Level 0
 
 **Meaning.** Assigned to Janitors and Recruiters. These individuals are acknowledged as operationally necessary but receive only the most minimal controlled awareness.
 
-### Level 1
+#### Level 1
 
 **Meaning.** Assigned to Junior Employees. They possess limited institutional knowledge and access only to low-risk support areas.
 
-### Level 2
+#### Level 2
 
 **Meaning.** Assigned to Guards, Archivers, and Junior Archivers. These personnel require controlled access to security zones, archived records, and restricted internal workflows.
 
-### Level 3
+#### Level 3
 
 **Meaning.** Assigned to Field Operators and Senior Researchers. This level allows active engagement with operational anomalies, field response data, and site-level classified incidents.
 
-### Level 4
+#### Level 4
 
 **Meaning.** Assigned to Field Operating Chiefs, Task Force Command, Head Transformation, High Researchers, and Site Directors. These individuals oversee dangerous operations and possess broad knowledge of live anomaly programs.
 
-### Level 5
+#### Level 5
 
 **Meaning.** Assigned to the Facility Administrator and High Threat Administrators. This level grants near-total site authority, full administrative oversight, and access to highly restricted truth sets.
 
-### O5 Access Card
+#### O5 Access Card
 
 **Meaning.** Reserved exclusively for O5 Council members. This clearance does not simply exceed Level 5; it bypasses ordinary compartmentalization entirely. O5 access permits entry into truths that may be hidden even from Administrators and Site Directors.
 
@@ -656,53 +656,53 @@ Recognized lifecycle states are **PROVISIONAL / ACTIVE-CONTAINED / ACTIVE-UNCONT
 
 ---
 
-## I-8 Box Class — Containment Structure Category
+### I-8 Box Class — Containment Structure Category
 
 **What the field measures.** Box Class (the Containment Structure Category) answers a different question from Containment Class: **what kind of structure will reality tolerate around this anomaly?** In A.C.T, containment is not only about difficulty — it is also about what kind of enclosure the anomaly and reality permit. Every anomaly file states its structure category so the physical plant, not just the procedure, is on record.
 
 The recognized categories are: **Small Box / Medium Box / Large Box / Massive Box / Enclosure Box / Box-cass / Monitoring Field / Blind Box / Eye Box / Non-Box / Unclose**.
 
-### Small Box
+#### Small Box
 
 **Meaning.** Used for compact anomalous objects, devices, samples, or low-volume materials requiring minimal secure enclosed storage. A Small Box filing means the anomaly fits ordinary vault scale and its containment is dominated by the object's own stability rather than by the room around it.
 
-### Medium Box
+#### Medium Box
 
 **Meaning.** Used for larger objects or manageable contained anomalies needing modest chamber space. Medium Box is the default scale for the majority of object-type holdings that do not fit small storage but do not require a full chamber regime.
 
-### Large Box
+#### Large Box
 
 **Meaning.** Used for significant objects, active subjects, or anomalies requiring broad enclosure room. A Large Box filing usually implies live occupancy: the enclosure must hold not only the anomaly but its movement, caretaker access, and monitoring equipment.
 
-### Massive Box
+#### Massive Box
 
 **Meaning.** Used for oversized entities, large-scale hazards, or high-volume enclosures requiring heavy structural containment. Massive Box structures are industrial-grade enclosures built around the anomaly rather than rooms prepared for it.
 
-### Enclosure Box
+#### Enclosure Box
 
 **Meaning.** Used when the anomaly requires a perimeter or territory-style enclosure rather than a simple chamber. Enclosure Box is the structure answer for place-type and territory-bound anomalies: the "box" is a bounded region with controlled access, not a room with walls.
 
-### Box-cass
+#### Box-cass
 
 **Meaning.** Used when the anomaly is already effectively a box, shell, vessel, or self-contained container-state object. Box-cass filings note that the anomaly arrives with its own containment built in, and the Facility's task is to hold the container rather than to build one.
 
-### Monitoring Field
+#### Monitoring Field
 
 **Meaning.** Used when the anomaly is best controlled through a monitored field, exclusion area, perimeter, or indirect watch-zone instead of a hard chamber. Monitoring Field is the structure answer for anomalies that cannot or must not be walled, and it pairs naturally with UNENCLOSABLE and INTANGIBLE containment classes.
 
-### Blind Box
+#### Blind Box
 
 **Meaning.** Used when direct observation is dangerous and the anomaly must be enclosed under visual-denial or sensory-restricted conditions. Blind Box structures are built so that the anomaly is held *without being seen* — observation denial is part of the physical design.
 
-### Eye Box
+#### Eye Box
 
 **Meaning.** Used when active or continuous observation is itself part of containment and the anomaly must remain visible under controlled conditions. Eye Box is the inverse of Blind Box: the structure exists to keep the anomaly in view because looking is the containment.
 
-### Non-Box
+#### Non-Box
 
 **Meaning.** Used when the anomaly cannot be described by ordinary enclosure logic but may still be managed through procedure. Non-Box is not "no containment"; it is the record that containment will be procedural rather than architectural.
 
-### Unclose
+#### Unclose
 
 **Meaning.** Used when the anomaly is too vast, too distributed, too abstract, or too structurally broad to enclose meaningfully at all. Unclose is the end of the Box Class scale: the file records that no enclosure exists or could exist, and containment is jurisdictional, observational, or doctrinal.
 
@@ -710,11 +710,11 @@ The recognized categories are: **Small Box / Medium Box / Large Box / Massive Bo
 
 ---
 
-## I-9 Containment Location, Condition, Exposure, and Transport Fields
+### I-9 Containment Location, Condition, Exposure, and Transport Fields
 
 Four short fields govern how containment is conducted rather than what it is. Each is explained here because each is a source of abbreviation errors in the archive.
 
-### Containment Location Behavior Category
+#### Containment Location Behavior Category
 
 Every anomaly is assigned one of four location-behavior statements, describing the required relationship between the anomaly and its monitoring:
 
@@ -723,7 +723,7 @@ Every anomaly is assigned one of four location-behavior statements, describing t
 - **MUST MONITOR** — the anomaly requires active observation on a schedule or in real time; monitoring is a containment requirement, not a precaution.
 - **DON'T MONITOR** — monitoring the anomaly is itself dangerous; observation must be withheld or indirect. (DON'T MONITOR pairs with Blind Box structures and with the observation restrictions in I-11.)
 
-### Containment Condition Category
+#### Containment Condition Category
 
 Every anomaly is categorized by the kind of thing containment is dealing with:
 
@@ -732,7 +732,7 @@ Every anomaly is categorized by the kind of thing containment is dealing with:
 - **Object** — the anomaly is a thing (see OB field type, I-2).
 - **Phenomenon** — the anomaly is an event, process, or condition rather than a thing or being; containment addresses the phenomenon's recurrence.
 
-### Exposure Authorization
+#### Exposure Authorization
 
 Direct exposure to an anomaly is restricted to three categories of personnel:
 
@@ -742,7 +742,7 @@ Direct exposure to an anomaly is restricted to three categories of personnel:
 
 Anyone outside these categories is unauthorized for direct exposure regardless of general clearance.
 
-### Transport Rule
+#### Transport Rule
 
 Movable anomalies must be transported using **REALITY STABILIZATION ANCHOR / RSA** support:
 
@@ -752,7 +752,7 @@ Movable anomalies must be transported using **REALITY STABILIZATION ANCHOR / RSA
 
 ---
 
-## I-10 Breach States
+### I-10 Breach States
 
 Every anomaly file includes a current breach-state condition describing not only whether the anomaly is in its assigned place, but **whether containment reality itself remains coherent around it**. The recognized states:
 
@@ -772,7 +772,7 @@ Every anomaly file includes a current breach-state condition describing not only
 
 ---
 
-## I-11 Observation and Handling Restrictions
+### I-11 Observation and Handling Restrictions
 
 Anomalies may carry one or more direct interaction restrictions. These are **part of containment, not optional notes**. The recognized restrictions and their meanings:
 
@@ -790,7 +790,7 @@ Anomalies may carry one or more direct interaction restrictions. These are **par
 
 ---
 
-## I-12 Redaction and Suppression Markers
+### I-12 Redaction and Suppression Markers
 
 Information suppression is part of containment. Authorized markers tell the reader **why a passage is missing and what regime governs it**:
 
@@ -809,7 +809,7 @@ Information suppression is part of containment. Authorized markers tell the read
 
 ---
 
-## I-13 RCT Format and Its Axes
+### I-13 RCT Format and Its Axes
 
 **What the RCT format is.** The RCT Format is a specialized anomaly record focused on three operational axes, written for anomalies under continuing containment strain, live research pressure, and transformation review. It answers the question: **how are we holding it, what are we learning from it, and can it be changed into something useful without destroying ourselves?**
 
@@ -825,7 +825,7 @@ The three axes, which also give the format its name:
 
 ---
 
-## I-14 Record and File State Vocabulary
+### I-14 Record and File State Vocabulary
 
 Anomaly files and their supporting records carry state fields whose vocabulary is consistent across the archive:
 
@@ -835,7 +835,7 @@ Anomaly files and their supporting records carry state fields whose vocabulary i
 - **CURRENT STATUS** (on anomaly and registry files): Active / Dormant / Fragmented / Contained / Sealed / Unknown / Under Expansion / Compromised / Archived — the value states the live condition of the subject (anomaly, site, or organization) at the file's last update.
 - **DESIGNATION HISTORY**: records every designation the subject has carried, in order — for example a file noting it was opened as UFD and verified as AFD, or a GOI record noting a retained registry designation. When a designation changes, the history line is how the archive keeps the subject identifiable across its own name changes.
 
-## I-15 Anomaly Hazard Tag Index
+### I-15 Anomaly Hazard Tag Index
 
 Hazard Tags are controlled search and routing markers attached to an anomaly file. They do not replace Field Type, Containment Class, Threat Level, or Transformation Viability. A tag only names a documented hazard behavior so the archive can find similar risks across different files.
 
@@ -843,55 +843,55 @@ Hazard Tags are controlled search and routing markers attached to an anomaly fil
 
 **Rule of restraint.** A file should carry the smallest useful set of tags. If every danger is tagged, the tags stop helping containment.
 
-### PHYS — Physical Hazard Tags
+#### PHYS — Physical Hazard Tags
 
 Used for direct material harm, kinetic danger, cutting, crushing, impact, weaponization, pressure, heat, cold, radiation-like output, or other body/world damage not better described by a more specific family.
 
 Example tags: `PHYS-IMPACT`, `PHYS-CUTTING`, `PHYS-THERMAL`, `PHYS-PRESSURE`, `PHYS-WEAPONIZED`.
 
-### BIO — Biological Hazard Tags
+#### BIO — Biological Hazard Tags
 
 Used for anomalous life, infection, growth, mutation, parasitism, ecological disruption, bodily transformation, or non-natural biological systems.
 
 Example tags: `BIO-INFECTION`, `BIO-MUTAGENIC`, `BIO-GROWTH`, `BIO-PARASITIC`, `BIO-ECOLOGICAL`.
 
-### COG — Cognitive and Identity Hazard Tags
+#### COG — Cognitive and Identity Hazard Tags
 
 Used for memory alteration, compulsion, perception failure, personality drift, identity replacement, false recognition, dream intrusion, or cognition damage.
 
 Example tags: `COG-MEMORY`, `COG-COMPULSION`, `COG-IDENTITY-DRIFT`, `COG-PERCEPTION`, `COG-DREAM`.
 
-### MEM — Memetic and Information Hazard Tags
+#### MEM — Memetic and Information Hazard Tags
 
 Used when information, symbols, language, sound, images, documents, naming, or knowledge transmission carries the hazard.
 
 Example tags: `MEM-SYMBOL`, `MEM-LANGUAGE`, `MEM-AUDIO`, `MEM-VISUAL`, `INFO-READING-HAZARD`, `INFO-NAMING-HAZARD`.
 
-### TEMP — Temporal Hazard Tags
+#### TEMP — Temporal Hazard Tags
 
 Used for loops, pre-echoes, time loss, acceleration, delay, chronology damage, predictive contamination, or events remembered before they occur.
 
 Example tags: `TEMP-LOOP`, `TEMP-LOSS`, `TEMP-PRE-ECHO`, `TEMP-DELAY`, `TEMP-CHRONOLOGY`.
 
-### SPAT — Spatial Hazard Tags
+#### SPAT — Spatial Hazard Tags
 
 Used for impossible geometry, nonlocal interiors, false distance, extradimensional routing, transit anomalies, unstable thresholds, or space behaving as the active hazard.
 
 Example tags: `SPAT-NONLOCAL`, `SPAT-THRESHOLD`, `SPAT-TRANSIT`, `SPAT-INTERIOR`, `SPAT-DISTANCE`.
 
-### STR — Structural-Reality Hazard Tags
+#### STR — Structural-Reality Hazard Tags
 
 Used when the anomaly affects the rules that allow reality, containment, documentation, causality, classification, or observation to remain stable.
 
 Example tags: `STR-REALITY-FRACTURE`, `STR-CLASSIFICATION-FAILURE`, `STR-CONTAINMENT-LOGIC`, `STR-OBSERVATION`, `STR-ARCHIVE-DRIFT`.
 
-### COS — Cosmic / Abyssal Hazard Tags
+#### COS — Cosmic / Abyssal Hazard Tags
 
 Used for origin-level, abyssal, divine, cosmic, foundational, world-scale, or structure-bearing hazards whose scope exceeds ordinary local anomaly behavior.
 
 Example tags: `COS-ABYSSAL`, `COS-FOUNDATIONAL`, `COS-DIVINE`, `COS-WORLD-SCALE`, `COS-SLEEPING-SYSTEM`.
 
-### SOC — Social / Operational Exposure Tags
+#### SOC — Social / Operational Exposure Tags
 
 Used for hazards that spread through institutions, groups, secrecy failures, recruitment, markets, public narratives, or operational handling rather than only through physical contact.
 
@@ -901,11 +901,11 @@ Example tags: `SOC-RECRUITMENT`, `SOC-MARKET`, `SOC-COVER-RISK`, `SOC-GOI-INTERF
 
 ---
 
-# PART II — GOI DESIGNATION AND CLASSIFICATION STACK
+## PART II — GOI DESIGNATION AND CLASSIFICATION STACK
 
 Groups of Interest are filed under their own registry logic, separate from anomaly records. The GOI designation and its seven classification fields tell the reader, at a glance, what kind of organization the GOI is, how it relates to A.C.T, how large it reaches, what it can do with anomalies, how dangerous it is to A.C.T, how it affects the masquerade, and what A.C.T intends to do about it.
 
-## II-1 GOI Designation Anatomy
+### II-1 GOI Designation Anatomy
 
 The designation structure is **GOI-XX-X-XXX**:
 
@@ -918,41 +918,41 @@ The designation structure is **GOI-XX-X-XXX**:
 
 **Do not confuse with.** Anomaly designations. GOI records use their own numbering and their own code tables; an anomaly designation never begins with GOI and a GOI designation never carries a field type or fracture code.
 
-## II-2 Nature Class Codes
+### II-2 Nature Class Codes
 
 Nature Class describes what kind of group the GOI is at its core. Recognized codes:
 
-### GV — Government
+#### GV — Government
 **Meaning.** The group is a state or governmental body — an agency, ministry, secretariat, or official apparatus — operating within or across national authority.
 
-### CP — Corporate
+#### CP — Corporate
 **Meaning.** The group is a company or commercial enterprise whose structure, profit motive, or corporate form is the operative reality.
 
-### CU — Cultic
+#### CU — Cultic
 **Meaning.** The group is organized around belief, ritual, worship, or doctrinal commitment, whether harmful, useful, or mixed.
 
-### SC — Scientific
+#### SC — Scientific
 **Meaning.** The group is organized around research, knowledge, or method — an epistemic actor rather than a commercial or political one.
 
-### CV — Civil
+#### CV — Civil
 **Meaning.** The group is a civilian or community organization: mutual aid, survivor networks, associations, or ordinary people organized around shared circumstance.
 
-### ML — Militant
+#### ML — Militant
 **Meaning.** The group is armed or force-capable and uses organized violence, coercion, or military-style action as a core method.
 
-### AN — Anomalous
+#### AN — Anomalous
 **Meaning.** The group is itself anomalous — its existence, membership, or operation cannot be explained without anomalous conditions. Anomalous-nature GOIs require dual filing consideration (see II-10).
 
-### IH — In-Human
+#### IH — In-Human
 **Meaning.** The group is non-human in origin, nature, or membership — an intelligent collective, entity, or structure that is not a human organization.
 
-### BS — Business
+#### BS — Business
 **Meaning.** The group is a commercial operation — trade, logistics, or commerce — where the *transactional network* rather than corporate form is the defining feature (distinct from CP in that the group may have no single corporate body).
 
-### HY — Hybrid
+#### HY — Hybrid
 **Meaning.** The group's structure crosses human, technological, and anomalous boundaries — part institution, part system, part anomaly.
 
-## II-3 Alignment Class Markers
+### II-3 Alignment Class Markers
 
 Alignment Class records the GOI's broad relationship to A.C.T. Recognized markers:
 
@@ -966,7 +966,7 @@ Alignment Class records the GOI's broad relationship to A.C.T. Recognized marker
 
 **Reading examples.** `GOI-CU-X-048` Children of the Deep — Cultic, Negative. `GOI-BS-T-027` Anstrall Market — Business, Trade. `GOI-ML-G-039` (roadmap provisional) — Militant, Guild.
 
-## II-4 Registry Numbering and the Live Register
+### II-4 Registry Numbering and the Live Register
 
 The registry number is sequential and unique within the GOI series. Existing live records at the time of this writing:
 
@@ -977,7 +977,7 @@ The registry number is sequential and unique within the GOI series. Existing liv
 - `GOI-CP-B-049` — DREAM .INC / DREAM
 - `GOI-ML-X-050` — Liberty Freedoms / L.F.
 
-## II-5 Reach Class
+### II-5 Reach Class
 
 Reach Class records how large the GOI's influence is. Recognized values:
 
@@ -989,7 +989,7 @@ Reach Class records how large the GOI's influence is. Recognized values:
 - **GLOBAL** — influence is worldwide.
 - **STRUCTURAL** — the group's reach is not geographic but structural: it operates inside systems, doctrine, reality, or infrastructure themselves.
 
-## II-6 Anomalous Capability Class
+### II-6 Anomalous Capability Class
 
 This class records how capable the GOI is when dealing with anomalies directly. Recognized values:
 
@@ -1003,7 +1003,7 @@ This class records how capable the GOI is when dealing with anomalies directly. 
 
 **Reading example.** A-GA is ENGINEERING (builds anti-anomalous tools); Liberty Freedoms is HANDLER (carries and tends what it seizes, using defector knowledge rather than new engineering).
 
-## II-7 GOI Threat Level (0–5)
+### II-7 GOI Threat Level (0–5)
 
 GOI threat is measured from **0 to 5** — a different scale from the anomaly threat ladder (I-5):
 
@@ -1016,7 +1016,7 @@ GOI threat is measured from **0 to 5** — a different scale from the anomaly th
 
 **Do not confuse with.** Anomaly Threat Level (0–10). The GOI scale measures the organization's threat to A.C.T, its operations, and the masquerade; the anomaly scale measures an anomaly's destructive capacity if uncontained.
 
-## II-8 Secrecy Risk
+### II-8 Secrecy Risk
 
 Secrecy Risk measures how dangerous the GOI is to the masquerade of normal life:
 
@@ -1025,7 +1025,7 @@ Secrecy Risk measures how dangerous the GOI is to the masquerade of normal life:
 - **EXPOSURE-ACTIVE** — exposure is a method: the group deliberately produces public evidence of the concealed world.
 - **NORMALCY-BREACHING** — the group's existence or success would break the masquerade at scale.
 
-## II-9 A.C.T Posture
+### II-9 A.C.T Posture
 
 Posture records what A.C.T intends to do with the GOI:
 
@@ -1041,16 +1041,16 @@ Posture records what A.C.T intends to do with the GOI:
 
 Postures are written in combination where multiple actions apply — for example `CONTAIN / DISMANTLE / INFILTRATE` (Liberty Freedoms) or `MONITOR / INFILTRATE` (Anstrall Market) — with the primary action first.
 
-## II-10 Dual Filing for Anomalous-Nature GOIs
+### II-10 Dual Filing for Anomalous-Nature GOIs
 
 A GOI whose nature is AN (Anomalous), or any GOI later shown to be itself an anomalous condition, requires **dual filing**: a GOI record for the organizational behavior and a separate AFD (or ANM) record for the anomalous condition. The two records must remain distinct — organizational responsibility is not dissolved by anomalous origin, and anomalous condition is not reduced to organizational misconduct. Each dossier's Cross-Reference Status section states the ruling: dual filing required, not required, or under review.
 
 
 ---
 
-# PART III — SITE, SUB-SITE, AND FLOOR DESIGNATIONS
+## PART III — SITE, SUB-SITE, AND FLOOR DESIGNATIONS
 
-## III-1 Site Designation Anatomy
+### III-1 Site Designation Anatomy
 
 Permanent A.C.T installations are designated under **ACT-SITE-XX-##-#** (primary sites) or **ACT-SUB-XX-##-#** (sub-sites):
 
@@ -1064,7 +1064,7 @@ Permanent A.C.T installations are designated under **ACT-SITE-XX-##-#** (primary
 
 **Do not confuse with.** Anomaly designations and GOI designations. The `ACT-` prefix is reserved for Facility installations; an anomaly file may *reference* a site (`CONTAINMENT SITE: ACT-SITE-01-US-W`) but the site designation never replaces the anomaly's own UFD/AFD/ANM identity.
 
-## III-2 Regional Area Codes
+### III-2 Regional Area Codes
 
 The final regional code marks broad placement within the country:
 
@@ -1076,7 +1076,7 @@ The final regional code marks broad placement within the country:
 
 **Reading example.** `ACT-SITE-03-JP-E` — Site 03, Japan, East (the Kurokawa Archive Node). `ACT-SITE-02-RU-N` — Site 02, Russia, North (White Grave Station). `ACT-SITE-04-BR-C` — Site 04, Brazil, Central (Verde Null Bio-Reserve).
 
-## III-3 The Registered Site and Sub-Site Network
+### III-3 The Registered Site and Sub-Site Network
 
 The Global Site Registry records ten major recognized installations:
 
@@ -1095,7 +1095,7 @@ The Global Site Registry records ten major recognized installations:
 
 The registry is not exhaustive: relay sites, black sites, temporary enclosures, and hidden support points exist outside the numbered series and are not given registry numbers unless formally recognized.
 
-## III-4 Site Type Classes
+### III-4 Site Type Classes
 
 A site's own file states its type:
 
@@ -1107,7 +1107,7 @@ A site's own file states its type:
 
 **Do not confuse with.** Site Type is about command class; Site Type is not the same field as a site's codename, containment profile, or jurisdiction.
 
-## III-5 Floor Designations (F-1 to F-N)
+### III-5 Floor Designations (F-1 to F-N)
 
 Floors are designated by the **F-series**, with a fixed reading rule: floor designations run **F-1** (deepest) upward to **F-N** at the surface level.
 
@@ -1117,7 +1117,7 @@ Floors are designated by the **F-series**, with a fixed reading rule: floor desi
 
 **Floor reference in canon.** In Part Three's breach response rule, "Closing of F-1 To the Outside" seals the deepest access route; the floor naming note in that doctrine states the F-1-to-F-N rule above. The shorthand `F-xxxx` seen in some draft files is the in-draft form where the precise floor is not declassified.
 
-## III-6 Floor Dossier Series
+### III-6 Floor Dossier Series
 
 Each numbered floor has its own dossier file following the ACT Floor Record Standard. Floor dossier files carry a **Dossier Number** in the **FLOOR-DOSSIER** series and are named with the floor's full designation — for example `ACT-SITE-01-US-W-F-2-The-Deep-Object-and-Memetic-Component-Vaults`.
 
@@ -1127,13 +1127,13 @@ Each numbered floor has its own dossier file following the ACT Floor Record Stan
 
 ---
 
-# PART IV — SUPPORTING RECORD AND LOG CATEGORIES
+## PART IV — SUPPORTING RECORD AND LOG CATEGORIES
 
-## IV-1 What Log Categories Are
+### IV-1 What Log Categories Are
 
 Beyond the main anomaly file, A.C.T maintains categorized supporting dossiers for anomalies that generate too much evidence, transcript material, testing history, or review complexity to live safely in one file. Each category preserves **how A.C.T learned what it learned** without overloading the active containment file. Category dossiers are named by their kind — Recovery, Testimony, Testing, Incident, Exploration, Research, Recovered Document, Behavioral, Transformation, Correspondence, Sensor, or Personal — and attach to an anomaly by its designation.
 
-## CATEGORY I — Recovery & Discovery Dossier
+### CATEGORY I — Recovery & Discovery Dossier
 
 **Function.** Records how A.C.T first detected, verified, approached, recovered, transported, or stabilized an anomaly. Preserves the first chain of custody.
 
@@ -1141,7 +1141,7 @@ Beyond the main anomaly file, A.C.T maintains categorized supporting dossiers fo
 
 **Common contents.** Discovery Log, Recovery Log, Retrieval Log, Initial Contact Log, Field Intake Log, Civilian Exposure Log, Witness Intake Log, Evidence Collection Log, Transport Log, After-Action Report.
 
-## CATEGORY II — Interview & Testimony Dossier
+### CATEGORY II — Interview & Testimony Dossier
 
 **Function.** Records statements from sentient anomalies, affected subjects, personnel, civilian witnesses, survivors, or related parties. Preserves how individuals describe an anomaly from inside the event.
 
@@ -1149,7 +1149,7 @@ Beyond the main anomaly file, A.C.T maintains categorized supporting dossiers fo
 
 **Common contents.** Interview Log, Interview Transcript, Eyewitness Interview, Subject Testimony, Survivor Statement, Personnel Debrief, Civilian Statement, Memetic Screening Note.
 
-## CATEGORY III — Experiment & Testing Dossier
+### CATEGORY III — Experiment & Testing Dossier
 
 **Function.** Records controlled interaction with an anomaly to determine triggers, limits, safe handling rules, exposure thresholds, and containment weaknesses.
 
@@ -1157,7 +1157,7 @@ Beyond the main anomaly file, A.C.T maintains categorized supporting dossiers fo
 
 **Common contents.** Test Log, Experiment Log, Exposure Log, Trigger Test, Material Test, Behavioral Test, Containment Test, Simulation Log, Stress Test, Interaction Trial, Cross-Anomaly Test, Failure Log.
 
-## CATEGORY IV — Incident & Breach Dossier
+### CATEGORY IV — Incident & Breach Dossier
 
 **Function.** Records containment failures, unexpected activations, operational mistakes, exposure events, and emergency responses. Used to prevent repeat failures.
 
@@ -1165,7 +1165,7 @@ Beyond the main anomaly file, A.C.T maintains categorized supporting dossiers fo
 
 **Common contents.** Incident Log, Incident Report, Breach Log, Containment Failure Report, Emergency Response Log, Security Transcript, Audio/Video Transcript, After-Action Report, Exposure Summary, Procedure Change Note.
 
-## CATEGORY V — Exploration & Survey Dossier
+### CATEGORY V — Exploration & Survey Dossier
 
 **Function.** Records movement through anomalous spaces, structures, zones, routes, or environments. Used when the anomaly is a place, creates a place, changes routes, or affects navigation.
 
@@ -1173,7 +1173,7 @@ Beyond the main anomaly file, A.C.T maintains categorized supporting dossiers fo
 
 **Common contents.** Exploration Log, Survey Log, Mapping Log, Drone Log, Field Team Transcript, Route Record, Environmental Reading Log, Spatial Contradiction Log, Landmark Log.
 
-## CATEGORY VI — Research & Analysis Dossier
+### CATEGORY VI — Research & Analysis Dossier
 
 **Function.** Records scientific review, classification debate, theory development, and long-term study. Used when the anomaly's meaning or mechanics remain uncertain.
 
@@ -1181,7 +1181,7 @@ Beyond the main anomaly file, A.C.T maintains categorized supporting dossiers fo
 
 **Common contents.** Research Log, Analysis Report, Classification Review, Theory Log, Laboratory Report, Material Analysis, Biological Review, Memetic Review, Temporal Review, Database Review, Archive Comparison.
 
-## CATEGORY VII — Recovered Document & Archive Dossier
+### CATEGORY VII — Recovered Document & Archive Dossier
 
 **Function.** Preserves documents, files, notes, images, recordings, manuals, or data recovered with or because of an anomaly. Used when the evidence itself matters.
 
@@ -1189,7 +1189,7 @@ Beyond the main anomaly file, A.C.T maintains categorized supporting dossiers fo
 
 **Common contents.** Recovered Document, Archive Copy, Document Transcript, Audio Transcript, Video Transcript, Image Description, Database Extract, Recovered Note, Personal Letter, Manual Fragment.
 
-## CATEGORY VIII — Behavioral & Observation Dossier
+### CATEGORY VIII — Behavioral & Observation Dossier
 
 **Function.** Records repeated behavior, care notes, habits, routines, responses, and long-term monitoring. Used for subjects whose containment depends on understanding behavior rather than simply locking them away.
 
@@ -1197,7 +1197,7 @@ Beyond the main anomaly file, A.C.T maintains categorized supporting dossiers fo
 
 **Common contents.** Observation Log, Behavioral Log, Care Log, Routine Log, Feeding Log, Sleep Log, Social Interaction Log, Preference Record, Stimulus Response Log, Deterioration Note.
 
-## CATEGORY IX — Transformation & Utilization Dossier
+### CATEGORY IX — Transformation & Utilization Dossier
 
 **Function.** Records A.C.T attempts to stabilize, neutralize, repurpose, integrate, or reject use of an anomaly. Used when the question is not only how to contain it but whether it can become useful or safer.
 
@@ -1205,7 +1205,7 @@ Beyond the main anomaly file, A.C.T maintains categorized supporting dossiers fo
 
 **Common contents.** Transformation Log, Repurposing Trial, Stabilization Log, Neutralization Log, Integration Report, Utilization Proposal, Ethical Review, Failure Record, Authorization Chain.
 
-## CATEGORY X — Communication & Internal Correspondence Dossier
+### CATEGORY X — Communication & Internal Correspondence Dossier
 
 **Function.** Records internal messages, command decisions, interdepartmental disputes, authorization requests, and administrative reactions. Used when bureaucracy is part of the containment story.
 
@@ -1213,7 +1213,7 @@ Beyond the main anomaly file, A.C.T maintains categorized supporting dossiers fo
 
 **Common contents.** Email Log, Internal Memo, Command Notice, Clearance Request, Authorization Chain, Ethics Committee Note, Archive Dispute, Site Directive, Denial Record.
 
-## CATEGORY XI — Audio / Video / Sensor Dossier
+### CATEGORY XI — Audio / Video / Sensor Dossier
 
 **Function.** Preserves recorded evidence where timing, image, sound, or instrument readings are central. Used when the record is more important than a written summary.
 
@@ -1221,7 +1221,7 @@ Beyond the main anomaly file, A.C.T maintains categorized supporting dossiers fo
 
 **Common contents.** Audio Log, Video Log, CCTV Transcript, Bodycam Transcript, Drone Feed, Sensor Log, Black Box Log, Radio Transcript, Transmission Record, Timecode Transcript, Visual Analysis Note.
 
-## CATEGORY XII — Personal & Recovered Journal Dossier
+### CATEGORY XII — Personal & Recovered Journal Dossier
 
 **Function.** Preserves subjective writing, personal logs, diaries, field notebooks, and anomaly-authored or affected journal entries.
 
@@ -1233,7 +1233,7 @@ Beyond the main anomaly file, A.C.T maintains categorized supporting dossiers fo
 
 ---
 
-# CLOSING NOTE
+## CLOSING NOTE
 
 This reference exists to end the archive's oldest documentation failure: codes written down as though their meaning were obvious. Every designation, class, category, state, and marker in this file is explained above. Where a source record listed a value without expansion, the working interpretation is recorded here so the archive can be read, taught, and audited without guesswork.
 

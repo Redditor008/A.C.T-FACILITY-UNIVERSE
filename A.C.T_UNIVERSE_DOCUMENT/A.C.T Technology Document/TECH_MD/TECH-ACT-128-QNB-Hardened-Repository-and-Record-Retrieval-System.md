@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - QNB-HARDENED REPOSITORY AND RECORD RETRIEVAL SYSTEM
+### TECHNOLOGY RECORD - QNB-HARDENED REPOSITORY AND RECORD RETRIEVAL SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Redwood Veil Complex / Archive / Containment / Recovery / Medical / Administration
 **Authority:** Floor Archivist, Archive Division, Site Director, and Central Archive
 
-### Archive Note
+#### Archive Note
 QNB-Hardened Repository and Record Retrieval System is the one-hundred-twenty-eighth main A.C.T technology expanded into an individual record. The Redwood Veil F-7 Central Archive and Records dossier identifies F-7 as the complex's document repository for recovery logs, object histories, witness records, cover paperwork, restricted records, and information-borne hazard documents. It records repository halls, accession and processing bays, retrieval rooms, restricted vaults, document quarantine cells, record systems, and QNB-hardened structure resisting external causal rewrites.
 
 QHRRRS exists because the archive is not behind containment. The archive is containment. If the record changes, the complex changes what it remembers, and if the complex forgets incorrectly, every resident becomes less contained.
@@ -47,7 +47,7 @@ PRESERVE THE RECORD, CONTROL THE RETRIEVAL, AND RESIST THE FORCE THAT WANTS THE 
 
 ---
 
-# FUNCTION OUTLINE
+## FUNCTION OUTLINE
 
 QNB-Hardened Repository and Record Retrieval System is Redwood Veil's F-7 archival technology for preserving operational memory under causal, informational, and ordinary institutional pressure. It combines QNB-hardened repository halls, accession logs, retrieval records, restricted vaults, preservation environment, quarantine routing, access gates, reading rooms, and documentary integrity monitoring.
 
@@ -57,7 +57,7 @@ Approved roles include record accession, documentary preservation, causal rewrit
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Redwood Veil learned that containment events produce two things: the resident and the record. Early repository practice could keep paper and data intact against ordinary damage, but anomalous pressure created a different threat. Some forces could change what had been written. Some documents acted on readers. Some records became hazardous because they contained the wrong fact in a readable form.
 
@@ -65,7 +65,7 @@ F-7 developed QHRRRS to treat the repository as an active containment level. QNB
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A QHRRRS installation includes accession bays, processing desks, repository halls, restricted records vaults, document quarantine routing gates, reading and retrieval rooms, environmental controls, QNB-hardened structural layers, integrity monitors, archival power backup, and record-system terminals that preserve the archive's own activity.
 
@@ -86,7 +86,7 @@ The system's defining feature is that its own records are also records. Accessio
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before accession, QHRRRS records source floor, document type, custody chain, hazard indication, clearance status, preservation requirement, and whether quarantine screening is necessary. Material safe for repository storage enters the general or restricted halls. Material that acts on readers, rewrites itself, carries memetic content, or resists stable filing is routed to quarantine rather than admitted to ordinary repository custody.
 
@@ -94,7 +94,7 @@ Retrieval requires identity, clearance, purpose, record designation, reading-roo
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 QHRRRS can resist rewrite and control retrieval, but it cannot guarantee that every record entered the archive truthfully. A preserved falsehood remains preserved. QNB-hardening can defend wording without proving interpretation. Retrieval logs can reveal sensitive patterns. Restricted vaults can create informational hunger among personnel who know only that something exists.
 
@@ -102,20 +102,20 @@ Known failure modes include accession misclassification, quarantine misroute, un
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## QHRRRS-Archive Keeps the Archive Finding
+### QHRRRS-Archive Keeps the Archive Finding
 A review found that retrieval and denial histories required the same preservation attention as resident files. Current QHRRRS doctrine preserves archive activity records as part of the repository's protected estate.
 
-## QHRRRS-Causal Rewrite Alarm Standard
+### QHRRRS-Causal Rewrite Alarm Standard
 External rewrite pressure incidents established that damage may look like ordinary version drift. Current integrity monitoring treats unexplained wording change, access-history contradiction, and missing custody fields as potential containment events.
 
-## QHRRRS-Quarantine Routing Correction
+### QHRRRS-Quarantine Routing Correction
 Some information-borne hazard documents were once delayed in processing because they arrived as paperwork rather than residents. Current accession doctrine routes hazardous documents to quarantine by behavior, not administrative origin.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Archive Division operates QHRRRS and controls record custody. Containment supplies resident histories and receives archive warnings when records show containment drift. Recovery submits field logs and witness records. Medical contributes clinical records under confidentiality boundaries. Administration creates command and personnel documents preserved by F-7.
 
@@ -123,7 +123,7 @@ QHRRRS doctrine holds that a facility's memory is not passive. It must be housed
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-01-US-W-F-7 Central Archive and Records Floor Dossier;
 - ACT-SITE-01-US-W-F-6 Medical and Cognitive Care Floor Dossier;
@@ -135,7 +135,7 @@ QHRRRS doctrine holds that a facility's memory is not passive. It must be housed
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can a record be contained if the first version entered the archive already lied?
 - When does retrieval create a new containment event by making a forgotten fact active again?
@@ -146,7 +146,7 @@ QHRRRS doctrine holds that a facility's memory is not passive. It must be housed
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Floor Archivist / Archive Division / Central Archive

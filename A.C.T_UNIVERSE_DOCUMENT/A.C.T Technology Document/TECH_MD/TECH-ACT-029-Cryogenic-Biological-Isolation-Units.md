@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - CRYOGENIC BIOLOGICAL ISOLATION UNITS
+### TECHNOLOGY RECORD - CRYOGENIC BIOLOGICAL ISOLATION UNITS
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Medical / Biological Containment / Stasis Technology / Logistics / Site Command  
 **Authority:** Medical Division, Stasis Technology Desk, Biological Containment Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Cryogenic Biological Isolation Units are the twenty-ninth main A.C.T technology expanded into an individual record. The Master Catalog defines CBI units as advanced stasis pods using resonant cooling to prevent biological decay without causing ice-crystal tissue damage. The visual guide describes a horizontal stasis coffin made of Abyssal Basalt and glass, with a Cellular-Rhythm Monitor on the headboard, a Manual Hand-Pump for emergency oxygenation, and anti-crystallization-coated glass that leaves the subject visible as if suspended in invisible ice. TECH-ACT-006 names CBI units as cargo that may be loaded into FCA-MED or FCA-LIFT missions. The Soul Pendant file requires Thorne's host body to remain in specialized medical stasis while the pendant stays within required proximity.
 
 CBI is not a freezer. It is a medical pause that must keep biology from decaying without letting ice become another injury.
@@ -47,7 +47,7 @@ KEEP THE BODY WAITING WITHOUT MAKING WAITING THE NEW DISEASE.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Cryogenic Biological Isolation Units preserve living tissue, altered bodies, biological samples, host bodies, and unstable patients by combining cold, resonance control, oxygenation support, and isolation architecture. The unit lowers biological activity enough to slow decay, mutation, infection, or collapse while preventing ordinary ice-crystal formation from tearing tissue apart. Resonant cooling is the critical difference between storage and damage.
 
@@ -64,7 +64,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND CUSTODY
+## ORIGIN AND CUSTODY
 
 CBI development came from repeated failure of ordinary cryogenic storage. A.C.T subjects often brought anomalous metabolism, nonstandard blood, external anchors, transmutation decay, or regeneration loops that did not respond to conventional freezing. Some tissue shattered. Some continued thinking. Some thawed with extra structures. Medical Division and Engineering developed resonant cooling to reduce biological activity without allowing cold to become a blunt instrument.
 
@@ -74,7 +74,7 @@ Consciousness-adjacent cases, including anchor-linked host bodies, require Level
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard CBI unit is a horizontal stasis coffin made of Abyssal Basalt and glass. The basalt provides mass, shielding, and psychic dampening. The glass uses an anti-crystallization coating and remains perfectly clear, allowing continuous visual review without opening the unit. The Cellular-Rhythm Monitor sits near the headboard and tracks rhythm, not only heartbeat. The Manual Hand-Pump provides emergency oxygenation when power or automated flow fails.
 
@@ -95,7 +95,7 @@ The unit should look calm. If it looks dramatic, something has already gone wron
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before use, Medical confirms patient identity, biological status, stasis reason, expected duration, anchor dependencies, thaw plan, aftercare capacity, and transport status. The subject is placed inside under sterile and containment conditions. Cooling begins gradually while the Cellular-Rhythm Monitor establishes baseline. Staff do not close the file because the lid closes.
 
@@ -105,7 +105,7 @@ Do not use CBI as punishment, storage convenience, or delay tactic for unresolve
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 CBI cannot preserve every organism, cannot suspend non-biological effects, cannot guarantee that consciousness is absent, and cannot cure decay, injury, or transformation. It may fail if the subject's biology rejects cold, if the stasis field conflicts with an anchor, if the glass coating breaks, or if the patient continues changing at a rhythm the machine cannot slow.
 
@@ -113,20 +113,20 @@ Known failure modes include frost bloom, rhythm drift, manual pump fatigue, lid 
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## CBI-1993 Rhythm Drift Case
+### CBI-1993 Rhythm Drift Case
 A preserved sample looked stable for six days while its Cellular-Rhythm Monitor showed slow phase drift. Staff delayed review because tissue color remained normal. The sample thawed with unfamiliar connective growth. Medical now treats rhythm disagreement as priority evidence.
 
-## CBI-2008 Hand-Pump Reliance
+### CBI-2008 Hand-Pump Reliance
 A temporary power interruption forced manual oxygenation for a long-duration patient. The hand-pump maintained life support, but the assigned technician developed fatigue and missed a pressure dip. CBI rooms now require two-person emergency pump rotation.
 
-## CBI-1992 Anchor Proximity Warning
+### CBI-1992 Anchor Proximity Warning
 During early Soul Pendant relocation planning, moving the host body and pendant on separate carts caused distress readings before the distance became formally dangerous. CBI procedures now attach anchor-distance checks to all consciousness-linked patients.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Medical operates CBI units and writes stasis plans. Stasis Technology maintains cooling coils, glass coatings, and monitors. Biological Containment approves hazardous sample storage. Logistics moves sealed units. FCA crews coordinate transport locks and power. Site Command authorizes long-term holds. Archive stores stasis logs with patient and anomaly records under medical restriction.
 
@@ -134,7 +134,7 @@ Standing reminder: stasis is not an answer. It is a held breath.
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 16;
 - ACT Technological Visual Reference Guide, Item 16;
@@ -145,7 +145,7 @@ Standing reminder: stasis is not an answer. It is a held breath.
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How long can resonant cooling hold a body without changing what recovery means?
 - Can CBI preserve consciousness accidentally when paired with anchor objects?
@@ -156,7 +156,7 @@ Standing reminder: stasis is not an answer. It is a held breath.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Medical Division / Stasis Technology Desk / Central Archive  

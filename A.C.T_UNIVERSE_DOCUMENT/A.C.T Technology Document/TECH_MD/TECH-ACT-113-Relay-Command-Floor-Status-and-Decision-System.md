@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - RELAY COMMAND FLOOR STATUS AND DECISION SYSTEM
+### TECHNOLOGY RECORD - RELAY COMMAND FLOOR STATUS AND DECISION SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -33,7 +33,7 @@
 **Distribution:** Nusantara Deep Relay / Command / Administration / Security / Recovery / Containment / Research / Medical
 **Authority:** Site Director, Duty Command Officer, Relay Administration, and Central Archive
 
-### Archive Note
+#### Archive Note
 Relay Command Floor Status and Decision System is the one-hundred-thirteenth main A.C.T technology expanded into an individual record. The F-5 Personnel and Command Level dossier identifies the Site Director's command floor as the level's architectural center, adjacent to operations spaces where the relay's status is watched and decisions are made. It also identifies F-5 as the command communications nexus and the level from which the operational floors below are directed.
 
 RCFSD exists because Nusantara's command cannot treat maritime recovery, deep monitoring, personnel sustainment, laboratory restriction, seismic readiness, and holding events as separate worlds. The command floor is where those worlds become one decision.
@@ -48,7 +48,7 @@ SEE THE WHOLE RELAY BEFORE COMMANDING ANY PART OF IT.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Relay Command Floor Status and Decision System is Nusantara Deep Relay's F-5 command-floor technology for combining site status, operational reports, personnel readiness, holding alerts, maritime activity, seismic preparedness, laboratory restrictions, internal logistics, and communications into a controlled decision environment. It provides the Site Director and duty command officers with the structured picture required to direct the relay's work.
 
@@ -58,7 +58,7 @@ Approved roles include live site-status display, command decision routing, duty-
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 The Nusantara Deep Relay became a major site because its work could not be reduced to one function. It watches, recovers, holds, studies, shelters, commands, and conceals. As the site expanded, the Site Director's floor required more than ordinary office space; it required a status architecture capable of presenting the relay as one operational body.
 
@@ -66,7 +66,7 @@ The F-5 floor dossier records that the command floor sits at the level's center 
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A RCFSD installation includes the Site Director's command station, duty command desk, status walls, division report panels, emergency posture board, personnel-readiness overlay, holding-alert channel, seismic-preparedness indicator, maritime operation feed, logistics movement slate, and command record lock.
 
@@ -87,7 +87,7 @@ The system exists beside the people it commands because F-5 doctrine places comm
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 At command turnover, RCFSD reconciles reports from Recovery, Containment, Research, Security, Medical, Seismic Analysis Support, Administration, and Internal Logistics. The duty officer verifies active operations, holding risk, surface cover status, port activity, personnel readiness, seismic posture, and any restricted vault or review-chain issues that require command awareness.
 
@@ -95,7 +95,7 @@ When an event escalates, RCFSD marks the decision path: who holds authority, whi
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 RCFSD can organize command information, but it cannot guarantee command judgment. A clean status wall may still hide bad assumptions, underreported fatigue, delayed vessel reports, misread seismic correlations, or a holding event that has not yet reached alert threshold. The system can also create false confidence if personnel mistake displayed status for full reality.
 
@@ -103,20 +103,20 @@ Known failure modes include stale division report, overcompressed status, author
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## RCFSD-Status Fragment Review
+### RCFSD-Status Fragment Review
 A command review found that separate division updates could remain individually accurate while failing to show a combined site condition. Current RCFSD doctrine requires reports to be reconciled into a whole-relay status picture before command turnover.
 
-## RCFSD-Handoff Clock Correction
+### RCFSD-Handoff Clock Correction
 A duty handoff drill showed that decisions made during turnover could become unclear if authority changed while an event clock was open. Current procedure records duty officer, decision time, and authority transfer inside the command decision ledger.
 
-## RCFSD-Personnel Overlay Finding
+### RCFSD-Personnel Overlay Finding
 A maritime incident review found that command made an operationally correct decision without seeing that the needed personnel group had just left a long shift. Current status display includes personnel-readiness overlay beside operation and holding feeds.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Command uses RCFSD to direct the relay. Administration maintains report flow and decision ledgers. Security uses it to coordinate access restrictions and site posture. Recovery uses it to keep maritime operations visible. Containment uses it to escalate holding concerns. Research and Medical use it to bring study limits, exposure concerns, and care conflicts into the command picture.
 
@@ -124,7 +124,7 @@ RCFSD doctrine holds that a relay is commanded badly when command sees only the 
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-05-ID-C-F-5 Personnel and Command Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-6 Surface Research and Transition Level Floor Dossier;
@@ -136,7 +136,7 @@ RCFSD doctrine holds that a relay is commanded badly when command sees only the 
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How much restricted deep-monitoring information should appear on a command status wall during ordinary operations?
 - Can a duty officer delay action to improve the whole-relay picture, or does delay become command failure?
@@ -147,7 +147,7 @@ RCFSD doctrine holds that a relay is commanded badly when command sees only the 
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Site Director Command Floor / Duty Command Officer / Central Archive

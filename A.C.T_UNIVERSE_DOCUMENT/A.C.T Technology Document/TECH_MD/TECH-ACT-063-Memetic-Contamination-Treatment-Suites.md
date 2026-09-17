@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - MEMETIC CONTAMINATION TREATMENT SUITES
+### TECHNOLOGY RECORD - MEMETIC CONTAMINATION TREATMENT SUITES
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -33,7 +33,7 @@
 **Distribution:** Medical / Cognitive Care / Containment / Research / Archive / Security  
 **Authority:** Medical Division, Cognitive Care, and Central Archive
 
-### Archive Note
+#### Archive Note
 Memetic Contamination Treatment Suites are the sixty-third main A.C.T technology expanded into an individual record. Redwood Veil's F-6 floor dossier identifies Medical and Cognitive Care as the level responsible for trauma care, memetic contamination treatment, cognitive recovery, and artifact-influence evaluation. It describes the memetic treatment suites as controlled environments engineered for work with material that acts on the mind, using exposure-limited treatment protocols and observation architecture that documents treatment without compounding exposure.
 
 MCTS is not a reading cell and not an amnestic chair. It is where A.C.T treats the wound left by meaning after meaning has behaved like a contaminant.
@@ -48,7 +48,7 @@ TREAT THE MEME WITHOUT MAKING TREATMENT INTO A SECOND EXPOSURE.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Memetic Contamination Treatment Suites are clinical environments used to treat personnel exposed to perception-sensitive material, hostile phrases, dangerous symbols, cognitively adhesive documents, artifact influence, or other mind-acting effects. Their function is to provide care while controlling further exposure. The suite must allow clinicians to observe, question, stabilize, and document the patient without repeating the harmful stimulus or spreading it through staff, records, equipment, or later review.
 
@@ -58,7 +58,7 @@ Approved roles include memetic contamination treatment, controlled recall review
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 F-6 developed as Redwood Veil's recognition that anomalous work harms personnel in both body and mind. Its cognitive-care mandate formed when the complex's holdings came to include material that acts on thought, perception, memory, or speech. Ordinary medical rooms could treat burns, fractures, and shock. They could not safely treat a phrase that grows stronger when repeated or a symbol that re-infects through clinical notes.
 
@@ -68,7 +68,7 @@ MCTS therefore carries two duties at once. It must reduce harm to the patient, a
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard MCTS room includes a low-stimulus treatment bay, controlled lighting, acoustic moderation, symbol-free surfaces, filtered note entry, clinical observation panels, patient-status monitors, phrase repetition alarms, sealed waste routes, and a confidential record terminal. The suite is built so that staff can treat cognition without flooding the patient with new patterns.
 
@@ -89,7 +89,7 @@ The note terminal is restricted because careless description can become transmis
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before treatment, Medical receives an exposure report and determines whether the case belongs in MCTS, AIIS, ordinary ward care, or containment escalation. Staff identify known trigger words, images, gestures, sounds, or memories. If the contaminant is unknown, the room is set to minimal-stimulus default and the patient is not asked to reproduce the hazardous content.
 
@@ -99,7 +99,7 @@ After treatment, the patient receives a duty recommendation, follow-up schedule,
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 MCTS cannot guarantee full removal of a memetic effect. Some exposures remain dormant, return under stress, or attach to ordinary words after initial treatment. The suite also cannot cure damage caused by operational culture. Personnel may underreport symptoms if they fear removal from duty, containment suspicion, or stigma.
 
@@ -107,20 +107,20 @@ Known failure modes include re-exposure during interview, unsafe note wording, c
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## MCTS-Cognitive Care Mandate Formation
+### MCTS-Cognitive Care Mandate Formation
 F-6 records state that the cognitive-care mandate developed as Redwood Veil's holdings came to include material that acts on the mind. MCTS grew from that shift, when ordinary clinical care could no longer cover the injuries personnel were bringing back from containment work.
 
-## MCTS-Note Transmission Review
+### MCTS-Note Transmission Review
 A clinician's detailed description of a patient's repeated phrase was later flagged as unsafe for general medical circulation. The suite's record procedure now uses filtered note entry and separates clinical detail from wider duty-risk advisories.
 
-## MCTS-Amnestic Restraint Review
+### MCTS-Amnestic Restraint Review
 A treatment team requested memory erasure as a convenience measure after a mild exposure. Medical review denied the request and reinforced that amnestics are not routine cleanup for staff discomfort or administrative simplicity.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Medical Division and Cognitive Care operate MCTS, own treatment decisions, and protect patient confidentiality. Containment provides exposure context and hazard restrictions. Research helps characterize memetic behavior observed in treatment without directing care. Archive preserves records under confidentiality and operational evidence standards. Security supports access control when a patient is unstable or when contaminated speech may spread beyond the suite.
 
@@ -128,7 +128,7 @@ Standing reminder: a mind can be contaminated without becoming untrustworthy. Ca
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-01-US-W-F-6 Medical and Cognitive Care Floor Dossier;
 - TECH-ACT-060 - Artifact-Influence Isolation Suites;
@@ -140,7 +140,7 @@ Standing reminder: a mind can be contaminated without becoming untrustworthy. Ca
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which memetic injuries can heal without memory alteration?
 - Can treatment notes carry a weaker but still dangerous form of the original contaminant?
@@ -151,7 +151,7 @@ Standing reminder: a mind can be contaminated without becoming untrustworthy. Ca
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Medical Division / Cognitive Care / Central Archive  

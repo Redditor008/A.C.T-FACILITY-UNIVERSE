@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - CLIMATE-CONTROLLED ISLAND HOLDING UNIT SYSTEM
+### TECHNOLOGY RECORD - CLIMATE-CONTROLLED ISLAND HOLDING UNIT SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Nusantara Deep Relay / Containment / Research / Medical / Recovery / Security
 **Authority:** Floor Holding Chief, Environmental Holding Staff, Maritime-Hold Command, and Central Archive
 
-### Archive Note
+#### Archive Note
 Climate-Controlled Island Holding Unit System is the one-hundred-tenth main A.C.T technology expanded into an individual record. The F-3 Maritime and Island Holding Level dossier identifies climate-controlled holding units as the F-3 infrastructure used for island-recovered material requiring terrestrial environments: temperature, humidity, and atmosphere regulated to each resident's requirements under the relay's holding doctrine. The same dossier places those units beside water-capable chambers, pressure-rated environments, monitoring galleries, and handling corridors inside the relay's main holding floor.
 
 CCIHUS exists because Nusantara does not recover only from the deep water. Some material comes from islands, coastlines, volcanic ground, wet forests, caves, reefs at low tide, abandoned structures, and shorelines where the sea and land confuse each other's rules.
@@ -47,7 +47,7 @@ HOLD THE ISLAND CONDITIONS, NOT ONLY THE ISLAND SPECIMEN.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Climate-Controlled Island Holding Unit System is Nusantara Deep Relay's F-3 controlled-environment holding technology for terrestrial, amphibious, coastal, and island-recovered anomalous material that cannot be kept in standard room conditions or fully aquatic containment. It regulates temperature, humidity, atmosphere, light cycle, air movement, water adjacency, substrate condition, and monitoring cadence according to the resident or material under custody.
 
@@ -57,7 +57,7 @@ Approved roles include island-recovered resident holding, terrestrial maritime a
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Nusantara's early holding doctrine divided material too simply: sea material went into water-capable systems, deep material went into pressure-rated environments, and everything else risked being treated as ordinary land recovery. Field experience contradicted that model. Island recoveries often carried environmental dependencies shaped by humidity, soil, wind, brackish water, volcanic heat, or coastal pressure changes.
 
@@ -65,7 +65,7 @@ F-3's climate-controlled holding units developed as a third category. CCIHUS for
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A CCIHUS installation includes sealed climate rooms, humidity banks, atmosphere regulators, temperature zoning, substrate trays, drainage and brackish-water interfaces, filtered air routes, observation panels, biological monitoring feeds, sample pass-throughs, cleaning locks, and transfer doors connecting to F-3 handling corridors.
 
@@ -86,7 +86,7 @@ Each unit is configured as a small artificial island condition rather than a neu
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before assignment, staff identify the recovery environment, observed dependency, risk of desiccation, water requirement, soil or substrate contact, volcanic or coastal factor, atmospheric need, and behavioral response to transition. The Floor Holding Chief approves a climate regimen, then Containment prepares the unit before the material leaves intake or transfer custody.
 
@@ -94,7 +94,7 @@ Daily operation requires environmental rounds, biological monitoring, resident c
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 CCIHUS can reproduce controlled island conditions, but it cannot perfectly reproduce an island. Missing factors may include microbial ecology, geomagnetic pattern, tide rhythm, rainfall chemistry, volcanic tremor, local species interaction, or place-bound relationships that do not survive relocation. The system is especially vulnerable when personnel treat climate numbers as the whole habitat.
 
@@ -102,20 +102,20 @@ Known failure modes include humidity drift, atmosphere imbalance, substrate cont
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## CCIHUS-Third Category Finding
+### CCIHUS-Third Category Finding
 A holding review found that several island recoveries were being assigned by absence: not aquatic enough for water-capable chambers and not dangerous enough for deep restriction. Current CCIHUS doctrine requires positive climate-regimen assignment for island-dependent material.
 
-## CCIHUS-Humidity Drift Incident
+### CCIHUS-Humidity Drift Incident
 A climate unit once remained technically within temperature tolerance while humidity drifted outside the resident's viable range. Current monitoring treats humidity, atmosphere, and substrate condition as primary containment fields rather than comfort settings.
 
-## CCIHUS-Place-Bound Reclassification
+### CCIHUS-Place-Bound Reclassification
 A transferred specimen failed to stabilize despite accurate climate replication. Review concluded that the material depended on native-site relationships rather than removable island climate. Current procedure requires early screening for place-bound behavior before long-term CCIHUS assignment.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Containment operates the units and maintains climate regimens. Recovery provides native-environment data required for assignment. Research studies residents through observation and controlled sample transfer. Medical supports biological care when climate and clinical access conflict. Security controls unit entry and movement through the holding corridors.
 
@@ -123,7 +123,7 @@ CCIHUS doctrine holds that island containment begins by admitting that land reco
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-05-ID-C-F-3 Maritime and Island Holding Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-4 Laboratory and Research Level Floor Dossier;
@@ -135,7 +135,7 @@ CCIHUS doctrine holds that island containment begins by admitting that land reco
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which island recoveries require climate holding before full anomaly classification is complete?
 - How much native-environment detail must Recovery supply before CCIHUS assignment is safe?
@@ -146,7 +146,7 @@ CCIHUS doctrine holds that island containment begins by admitting that land reco
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Environmental Holding Staff / Maritime-Hold Command / Central Archive

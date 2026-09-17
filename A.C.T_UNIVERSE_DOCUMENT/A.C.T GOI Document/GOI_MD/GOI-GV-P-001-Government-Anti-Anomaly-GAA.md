@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## GROUP OF INTEREST REGISTRY - GOVERNMENT ANTI ANOMALY
+### GROUP OF INTEREST REGISTRY - GOVERNMENT ANTI ANOMALY
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -68,16 +68,16 @@
 **Distribution:** Intelligence / Civil Covert / Recovery / Containment / Command Liaison
 **Authority:** Intelligence Division and Central Archive
 
-### Archive Note
+#### Archive Note
 The Government Anti Anomaly is an acknowledged state-facing interface within the concealed anomaly-management environment. It is not a public ministry, a replacement Facility command body, or a government with complete knowledge of A.C.T operations. Its value lies in controlled access to ordinary institutional power without allowing ordinary institutions to see the whole concealed structure.
 
 The word **Positive** in the Alignment Class records an operational relationship with A.C.T. It does not indicate unrestricted trust, common ideology, public legitimacy, or permission to enter Facility doctrine without limitation.
 
 ---
 
-# IDENTITY AND INSTITUTIONAL FUNCTION
+## IDENTITY AND INSTITUTIONAL FUNCTION
 
-## Government Anti Anomaly as a Limited State Body
+### Government Anti Anomaly as a Limited State Body
 
 Government Anti Anomaly, commonly shortened to **GAA**, is a limited government body aware that anomalies are real and that an external containment institution operates beneath the visible systems of law, emergency response, infrastructure, and public administration. The GAA exists at the narrow point where state power can be useful without being allowed to become fully informed.
 
@@ -85,7 +85,7 @@ A.C.T records GAA as a **Handler-capable government interface** rather than as a
 
 The GAA is therefore neither an open ally nor an unaware civilian bureaucracy. It is a constrained working body. Its members are permitted to know enough to keep a necessary door open and are prevented from knowing enough to turn that door into an uncontrolled access point.
 
-## Scope of Governmental Awareness
+### Scope of Governmental Awareness
 
 Internal estimates continue to indicate that roughly **ten percent of the wider government structure** possesses any meaningful awareness of anomalies. This estimate must not be misunderstood as a single ten-percent office, cabinet, agency, or chain of command. Awareness is compartmentalized by duty.
 
@@ -93,7 +93,7 @@ A transportation official may know that a specific sealed transfer is exempt fro
 
 The GAA manages this partial awareness. Its core task is not to spread knowledge; it is to keep knowledge segmented, functional, and deniable. Personnel who demand a complete picture are not considered useful merely because they possess ordinary authority. In GAA practice, a government office becomes operationally valuable when it can perform a needed action while remaining unable to reconstruct the concealed system around that action.
 
-## Public Absence and Cover Discipline
+### Public Absence and Cover Discipline
 
 No stable public identity is assigned to the GAA. It does not maintain a civilian-facing emblem, public address, recruitment page, or unified formal name capable of surviving ordinary records scrutiny. Government-facing materials are routed through pre-existing emergency, security, health, infrastructure, legal, and continuity structures. The apparent origin of an instruction is selected according to what a receiving office expects to see.
 
@@ -104,37 +104,37 @@ Where cover continuity cannot be maintained, the GAA does not decide concealment
 ---
 ---
 
-# ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
+## ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
 
-## Liaison Architecture
+### Liaison Architecture
 
 The GAA is organized through separated liaison functions rather than one permanent, public-facing command center. A.C.T does not recognize any GAA element as having universal access to Facility records. Each liaison cell is restricted to a narrow operational purpose.
 
-### 4.1 Legal Masking Interface
+#### 4.1 Legal Masking Interface
 
 The legal interface converts anomalous response requirements into forms that ordinary institutions can enact without being told the concealed reason. It is responsible for emergency restrictions, protected transfer permissions, sealed procurement exemptions, controlled property access, limited jurisdictional waivers, and review language that prevents routine oversight from exposing a live operation.
 
 This interface is useful only when it remains procedural. A GAA legal officer may establish the conditions under which a road is closed, a building is condemned, or a shipment is redirected. That officer is not entitled to know the full anomaly file merely because the administrative instrument is attached to it.
 
-### 4.2 Classified Logistics Interface
+#### 4.2 Classified Logistics Interface
 
 The logistics interface supports quiet movement of personnel, sealed materials, vehicles, evidence, and non-public equipment. It can create a lawful-looking transfer path where open transport would create civilian attention or reveal an A.C.T site relationship. This function includes controlled aviation routing, records-safe border passage, unlisted storage windows, medical transfer cover, and irregular procurement scheduling.
 
 GAA logistics must never be treated as a substitute for A.C.T containment transport. Where an anomaly requires RSA support, an FCA route, a sealed containment team, or specialized environmental control, the Facility retains operational command. GAA personnel create the surface permissions and mundane route protection around the movement; they do not manage the anomalous load itself.
 
-### 4.3 Civil Continuity Interface
+#### 4.3 Civil Continuity Interface
 
 The civil continuity interface prepares conventional systems to absorb the visible consequences of an event. It may coordinate a plausible road closure, utility interruption, evacuation notice, inspection order, hospital intake category, disaster-recovery notice, or infrastructure repair explanation. Its purpose is to stop an anomalous incident from becoming a lasting contradiction in ordinary life.
 
 This office is tightly constrained. Civil continuity measures must not become an excuse to erase people from their own lives, seize civilian property without operational necessity, or convert a localized event into permanent political control. When a proposed measure threatens to exceed ordinary containment need, A.C.T Civil Covert and Archive review are required.
 
-### 4.4 Restricted Intelligence Interface
+#### 4.4 Restricted Intelligence Interface
 
 The GAA receives selected threat alerts concerning government compromise, hostile use of public authority, suspicious procurement, dangerous jurisdictional inquiries, and unexplained institutional interest in anomaly-adjacent events. It does not receive unrestricted anomaly intelligence. Intelligence Division determines what can be shared without exposing protected Sites, A.C.T personnel, or foundational records.
 
 The restricted intelligence interface is a safeguard against two opposite failures: a government body being used blindly by hostile actors, and the government body acquiring so much knowledge that it becomes a separate uncontrolled anomaly-management institution.
 
-## Authority Boundaries
+### Authority Boundaries
 
 The GAA may provide cooperation in the following areas when A.C.T authorization is active:
 
@@ -162,9 +162,9 @@ Any GAA component attempting to cross these boundaries is to be treated as a com
 ---
 ---
 
-# IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
+## IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
 
-## Controlled State Continuity
+### Controlled State Continuity
 
 GAA does not treat anomalies as public property, private resources, or ordinary state assets. Its operating belief is that government continuity must be preserved without allowing government institutions to become uncontrolled anomaly-management bodies. This is a doctrine of limited participation: the state must be able to close a route, protect a civilian system, and carry an administrative burden, but it must not turn partial access into total ownership of the concealed world.
 
@@ -173,9 +173,9 @@ That belief creates a permanent tension with A.C.T. The Facility requires a capa
 The practice becomes dangerous when state continuity is reinterpreted as state entitlement. Any GAA component that argues an anomaly should be retained, weaponized, publicly administered, or politically owned has moved beyond the purpose recognized by this record. Cooperation exists to maintain the boundary, not to give one institution control over all others.
 ---
 
-# OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
+## OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
 
-## Known Operational Assets
+### Known Operational Assets
 
 The GAA's most significant assets are institutional rather than anomalous. A.C.T recognizes the following controlled capacities:
 
@@ -190,7 +190,7 @@ The GAA's most significant assets are institutional rather than anomalous. A.C.T
 
 These assets are powerful because they are mundane. A sealed A.C.T transport can fail if stopped by an ordinary inspection. A recovery team can expose itself if no one can lawfully explain a perimeter. An intelligence lead can disappear if every government record route is hostile or visible. The GAA supplies the ordinary framework that keeps extraordinary intervention from becoming public evidence.
 
-## Known Holdings and Access Points
+### Known Holdings and Access Points
 
 No fixed public GAA headquarters is treated as a reliable operational asset. The body uses authorized rooms, secured administrative annexes, temporary command spaces, protected records channels, and pre-cleared transfer points that are activated only for specific functions. A location used for legal review is not automatically a logistics site. A site used for continuity coordination is not automatically authorized for evidence handling.
 
@@ -203,7 +203,7 @@ Any physical GAA access point discovered by external actors is to be evaluated f
 3. whether civilian staff possess knowledge that requires protection or restriction;
 4. whether the access point must be abandoned, resealed, or retained under observation.
 
-## Personnel Profile
+### Personnel Profile
 
 GAA personnel are selected for discretion, procedural competence, and an ability to execute narrow authority without pursuing prohibited context. The most reliable liaison personnel are not those who seek to know every hidden fact. They are those who can recognize that a request is real, understand the permitted outcome, and refrain from turning partial access into personal investigation.
 
@@ -214,9 +214,9 @@ This distinction produces recurring friction. A.C.T evaluates a decision accordi
 ---
 ---
 
-# HISTORY WITH A.C.T
+## HISTORY WITH A.C.T
 
-## Restricted Contact History
+### Restricted Contact History
 
 The original contact sequence between A.C.T and the GAA is retained under restricted liaison routing. The absence of a broad historical narrative in ordinary GAA-facing records is intentional. A complete account would identify legacy state channels, older access arrangements, and individuals whose association with the concealed system is safer when it remains unassembled.
 
@@ -225,9 +225,9 @@ What is operationally established is that the relationship was built around nece
 The relationship has endured because it is deliberately narrow. When cooperation succeeds, an ordinary government mechanism appears to solve an ordinary administrative problem while the anomalous cause remains buried. When cooperation fails, the failure is usually not caused by lack of authority. It is caused by one side attempting to obtain more of the other's role than the boundary permits.
 ---
 
-# A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
+## A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
 
-## Cooperation Posture
+### Cooperation Posture
 
 A.C.T posture toward GAA is **COOPERATED**. This does not mean that the Facility reports upward through GAA channels or that GAA personnel are admitted into all operational matters. Cooperation is case-specific and revocable.
 
@@ -242,7 +242,7 @@ The normal sequence is as follows:
 
 The smallest possible disclosure is preferred. A larger briefing is not proof of trust; it is a risk condition that must be justified.
 
-## Jurisdiction and Site Coordination
+### Jurisdiction and Site Coordination
 
 GAA requests are not routed solely by national border. The responsible A.C.T SITE is selected according to containment viability, secrecy urgency, recovery speed, specialization, and active command proximity.
 
@@ -254,7 +254,7 @@ GAA requests are not routed solely by national border. The responsible A.C.T SIT
 
 Central command retains final interpretive authority when a GAA matter touches cross-site classification, foundational archive material, or a dispute between government consequence and containment necessity.
 
-## Compromise Indicators
+### Compromise Indicators
 
 A GAA component is to be flagged for review when it demonstrates any of the following:
 
@@ -269,7 +269,7 @@ A GAA component is to be flagged for review when it demonstrates any of the foll
 
 An indicator is not a conviction. Government systems naturally produce paperwork, overlap, career pressure, and demands for accountability. The purpose of this list is to recognize when ordinary institutional behavior becomes a pathway toward uncontrolled anomaly governance.
 
-## Response to Governmental Overreach
+### Response to Governmental Overreach
 
 When a GAA branch exceeds its mandate, the first response is containment of information and authority rather than immediate confrontation. Intelligence Division identifies the affected individuals, documents the access path, and determines whether the breach arose from personal ambition, hostile manipulation, institutional panic, or a legitimate misunderstanding of task scope.
 
@@ -280,36 +280,36 @@ Direct dismantling of a government-facing interface is authorized only when ordi
 ---
 ---
 
-# OPERATIONAL RECORDS
+## OPERATIONAL RECORDS
 
-## Task-Bounded Authorization Review - Restricted Extract
+### Task-Bounded Authorization Review - Restricted Extract
 
 A GAA legal interface received a request for a broad emergency authorization after a localized anomaly-adjacent interruption affected ordinary infrastructure. Review found that the requested language would have exposed a larger Facility routing pattern than the immediate response required. Civil Covert Division reduced the request to a time-limited access and continuity order, allowing the visible problem to be addressed without creating a reusable government claim over restricted Site movement.
 
 The review remains a standing example of GAA's proper role. A government-facing partner can make a necessary action possible without receiving the full reason for that action. The boundary is maintained by the shape of the authorization, not by an assumption that every participant knows the same truth.
 
-## Classified Logistics Reconciliation - Restricted Extract
+### Classified Logistics Reconciliation - Restricted Extract
 
 A controlled transfer required surface documentation, route protection, and a plausible administrative record while a separate A.C.T containment team retained direct custody of the anomalous load. GAA logistics supplied the ordinary movement layer. Containment Division supplied the handling rules. Neither body was permitted to replace the other.
 
 Post-action review identified no unauthorized material retention, but it noted that repeated reliance on the same liaison path could create a recognizable pattern. Future transfers were distributed across approved channels. The record demonstrates that useful cooperation must be varied enough to remain veiled and limited enough to remain survivable.
 ---
 
-# INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
+## INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
 
-## Operational Value Assessment
+### Operational Value Assessment
 
 GAA remains valuable because A.C.T cannot maintain every aspect of ordinary civil continuity alone. The Facility can deploy containment teams, secure evidence, monitor an impossible structure, and isolate an anomalous subject. It cannot always close a civilian transit line, preserve a legally plausible emergency boundary, move a protected convoy through visible authority systems, or keep an ordinary government response from turning toward the wrong explanation.
 
 The GAA is the controlled bridge that prevents these ordinary systems from colliding blindly with the anomalous world. Its utility is greatest when it performs an essential mundane action and least when it attempts to become a second Facility.
 
-## Persistent Risk Assessment
+### Persistent Risk Assessment
 
 The same systems that make GAA useful make it dangerous if misused. Law can legitimize concealment. Logistics can move a dangerous object. political influence can reshape an investigation. A government body can create permanent consequences from an emergency mechanism intended to last one night.
 
 A.C.T must therefore maintain a relationship of deliberate limitation. GAA should be capable of helping the Facility hold normalcy together, but incapable of independently defining what normalcy must become.
 
-## Unresolved Intelligence Questions
+### Unresolved Intelligence Questions
 
 - Which GAA liaison channels remain dependent on historical arrangements that no current officer fully understands?
 - How many state-facing personnel know the GAA by a function but not by its formal name?
@@ -317,22 +317,22 @@ A.C.T must therefore maintain a relationship of deliberate limitation. GAA shoul
 - Can a hostile GOI obtain GAA authority by impersonation, coercion, or documentary compromise without ever learning the wider Facility structure?
 - At what point does repeated reliance on GAA support create a dependency that weakens A.C.T operational independence?
 
-## Standing Restriction Order
+### Standing Restriction Order
 
 No A.C.T division is to disclose a complete Site map, full anomaly index, O5-level directive, abyssal archive material, or transformation program to GAA personnel on the basis of governmental authority alone. GAA cooperation exists to maintain the boundary between ordinary institutions and anomalous reality. The transfer of total knowledge would destroy the condition that makes the cooperation survivable.
 
 ---
 ---
 
-# CROSS-REFERENCE STATUS
+## CROSS-REFERENCE STATUS
 
-## Anomaly and Record Relationship
+### Anomaly and Record Relationship
 
 No single anomaly is permanently assigned to the GAA record. The GAA is defined by its government-interface function, not by ownership of an anomalous subject, object, location, or phenomenon. Incident-specific links are retained only in restricted case chains because a permanent public-facing list of assisted operations would expose Site routes, government channels, and the very cover mechanisms this body exists to protect.
 
 The group itself is not assessed as anomalous. Dual filing is **not required** under current evidence. If a future review establishes that a GAA component is being altered, controlled, or structurally constituted by an anomalous condition, that condition must receive a separate AFD record. The organizational record remains necessary to distinguish what the body does from what may be affecting it.
 
-## Related A.C.T Records
+### Related A.C.T Records
 
 - GOI Registry and External Threat Doctrine Archive - classification and posture authority;
 - Site Map and Jurisdiction Doctrine - regional response routing;
@@ -341,7 +341,7 @@ The group itself is not assessed as anomalous. Dual filing is **not required** u
 - Anomaly Classification Manual Archive - incident-specific anomaly filing.
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 ```text
 FILE CREATED:            06/09/2026

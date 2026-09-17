@@ -2135,3 +2135,24 @@ Immediate next work after this prompt:
 
 - Commit and push this batch on the active session branch, then explicit-refspec fetch verify.
 - On the next prompt, append a prompt-start Patch Saver update, resolve the branch live, then choose another source-backed GOI technology set. Largest remaining dossiers with no technology set: Government Anti Anomaly (`GOI-GV-P-001`), Ninefold Ark (`GOI-HY-N-074`), Archivists of the Final Dawn (`GOI-CU-W-066`), Lantern Accord (`GOI-HY-W-073`), The Kindly Molt (`GOI-CU-P-061`).
+
+## Document Structure Repair — 2026-09-17
+User report: most documents were structured as if they were an archive file rather than a document.
+
+Verified defect: `208` of `385` Markdown files carried more than one `#` (H1) heading, and `171` of them carried exactly eleven. The pattern was `# A.C.T FACILITY ARCHIVE FILE` as the title, `## TECHNOLOGY RECORD - X` and `### Archive Note` as front matter, and then every real section — FUNCTION SUMMARY, ORIGIN AND CUSTODY, KNOWN LIMITS, FAILURE HISTORY, FILE METADATA — written at `#`, the same level as the document title. Sections were siblings of their own title, so the documents had no hierarchy.
+
+Repair applied to the Markdown edition:
+
+- Demoted every heading after the first H1 by exactly one level, uniformly, so relative nesting is preserved and only the shift changes.
+- Skipped fenced code blocks, so ASCII registry tables and quoted labels inside ```text fences were never treated as headings.
+- Left headings already at H6 in place; none were encountered.
+- Guarded every file with two assertions: marker-stripped text must be byte-identical before and after, and the result must contain exactly one H1.
+
+Result: `208` files restructured, `5278` headings demoted, `git diff --numstat` reporting `5278` added and `5278` removed lines, which confirms a pure heading-marker change with no prose, table, or metadata edit. Markdown files still carrying more than one H1: `0`.
+
+Repair applied to the plain-text edition:
+
+- The `.txt` convention strips heading markers, so `# X` and `## X` both render as the bare line `X`. Demotion is therefore invisible in `499` of the `501` `.txt` files and no regeneration was needed.
+- A repo-wide scan found exactly one plain-text file using Setext-style underline headings, `TECH-GOI-071-1`, where `=` marked top-level sections and `-` marked subsections. Because the Markdown demotion moved those sections down a level, its underline kinds no longer matched. Repaired by rewriting only the underline character from the new Markdown level, keeping underline length, line count, and all non-underline content byte-identical, and asserting both.
+
+Open structural item not yet actioned: because the `.txt` convention removes heading markers, the plain-text edition renders almost every heading as an identical bare line, so structure is invisible there. `TECH-GOI-071-1` shows the corpus already has a working answer for this. Applying underline headings across the plain-text corpus is a convention change rather than a repair and needs an explicit decision before it is applied to roughly `500` files.

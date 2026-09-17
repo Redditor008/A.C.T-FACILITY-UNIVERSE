@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - BLIND BOX AND EYE BOX PERCEPTION-CONTROL VAULT SYSTEM
+### TECHNOLOGY RECORD - BLIND BOX AND EYE BOX PERCEPTION-CONTROL VAULT SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -33,7 +33,7 @@
 **Distribution:** Kurokawa Archive Node / Archive / Intelligence / Security / Medical / Researcher Division
 **Authority:** Floor Vault Chief, Restricted-Vault Command, Site Director, and Central Archive
 
-### Archive Note
+#### Archive Note
 Blind Box and Eye Box Perception-Control Vault System is the one-hundred-twenty-second main A.C.T technology expanded into an individual record. The F-2 Deep Memetic and Infohazard Vaulting dossier identifies F-2 as the level for memetic symbols requiring visual denial, information hazards requiring knowledge restriction, and material that must never be fully read. It records Blind Box units that deny perception, Eye Box units that discipline perception, visual-denial infrastructure, perception-protocol monitoring, holding-specific restriction sets, and Dread EYE containment under Eye Box apparatus.
 
 BBEBPCVS exists because perception is not observation only. On F-2, perception is a containment channel, and the vault must govern whether the mind receives anything at all.
@@ -48,7 +48,7 @@ NO GENERAL ACCESS; ONLY NAMED PERCEPTION UNDER NAMED RESTRICTION.
 
 ---
 
-# FUNCTION OUTLINE
+## FUNCTION OUTLINE
 
 Blind Box and Eye Box Perception-Control Vault System is Kurokawa's F-2 vaulting technology for holdings whose danger travels through sight, hearing, comprehension, recognition, or structured awareness. It provides two primary containment modes: Blind Box units, which deny perception of contents across standard channels, and Eye Box units, which permit strictly disciplined observation through approved apparatus under holding-specific restriction sets.
 
@@ -58,7 +58,7 @@ Approved roles include memetic symbol vaulting, infohazard storage, visual-denia
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Kurokawa's dangerous-information doctrine developed through intermediate cases. Some material could not be stored in ordinary anomalous document rows because sight or understanding changed the reader. Yet some of that material still required controlled observation, not total unreadable preservation. The node needed a vaulting technology between active storage and absolute non-reading.
 
@@ -66,7 +66,7 @@ F-2 became that intermediate level. BBEBPCVS formalizes its central architecture
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A BBEBPCVS installation includes Blind Box vaults, Eye Box observation units, perception-interruption boundaries, visual-denial screens, controlled viewing apparatus, audio and signal dampening, unit-specific access locks, cognitive monitoring ports, restriction-set terminals, and monitoring galleries designed to watch vault condition without exposing content.
 
@@ -87,7 +87,7 @@ The technology's central distinction is simple: Blind Boxes prevent perception; 
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before unit access, BBEBPCVS verifies holding identity, restriction set, permitted perception channel, personnel clearance, Medical exposure status, observation duration, documentation language, and transfer purpose. General floor access is denied by design. Staff may enter only for a specific unit or support function.
 
@@ -95,7 +95,7 @@ Blind Box work is performed without perception of contents unless extraordinary 
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 BBEBPCVS can deny or discipline perception, but it cannot make perception harmless. A symbol may act through partial sight, reflection, description, anticipation, or memory. An infohazard may trigger through the act of knowing why it is restricted. Blind denial can conceal environmental failure, and Eye Box observation can create overconfidence when a prior session appears safe.
 
@@ -103,20 +103,20 @@ Known failure modes include Blind Box boundary degradation, Eye Box apparatus mi
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## BBEBPCVS-Specific Access Standard
+### BBEBPCVS-Specific Access Standard
 An access review found that personnel sometimes described F-2 clearance as if it applied to the floor. Current doctrine states that access is always to a specific unit or support function, never to F-2 generally.
 
-## BBEBPCVS-Eye Box Discipline Review
+### BBEBPCVS-Eye Box Discipline Review
 Eye Box use demonstrated that apparatus can discipline sight but cannot replace judgment. Current observation sessions require Medical-aware exposure tracking and holding-specific session limits.
 
-## BBEBPCVS-Blind Box Maintenance Finding
+### BBEBPCVS-Blind Box Maintenance Finding
 Blind Box maintenance drills showed that technicians could request content knowledge to solve ordinary service questions. Current procedure provides condition-based service instructions and denies content detail unless the restriction set changes.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Archive Division operates the vaulting regimens and preservation work. Intelligence coordinates assessment of memetic and infohazard significance under knowledge restriction. Security enforces specific-unit access and perception-protocol compliance. Medical provides cognitive-care oversight. Researcher Division receives only the observations authorized by the holding's restriction set.
 
@@ -124,7 +124,7 @@ BBEBPCVS doctrine holds that the eye is a door, and F-2 exists to decide whether
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-03-JP-E-F-2 Deep Memetic and Infohazard Vaulting Floor Dossier;
 - ACT-SITE-03-JP-E-F-1 The Unread Archive Floor Dossier;
@@ -136,7 +136,7 @@ BBEBPCVS doctrine holds that the eye is a door, and F-2 exists to decide whether
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can disciplined perception remain safe if the holding learns the discipline?
 - When should a Blind Box item be declared unreadable enough for F-1 instead of F-2?
@@ -147,7 +147,7 @@ BBEBPCVS doctrine holds that the eye is a door, and F-2 exists to decide whether
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Floor Vault Chief / Restricted-Vault Command / Central Archive

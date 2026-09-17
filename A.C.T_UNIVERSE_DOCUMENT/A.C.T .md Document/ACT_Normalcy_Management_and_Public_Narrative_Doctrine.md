@@ -1,18 +1,18 @@
 # A.C.T FACILITY ARCHIVE FILE
-## Normalcy Management and Public Narrative Doctrine
+### Normalcy Management and Public Narrative Doctrine
 
 **Archive Status:** Active  
 **Distribution:** Internal / Civil Covert / Intelligence / Recovery / Site Command  
 **Authority:** Civil Covert Division, Intelligence Division, and Central Archive  
 
-### Archive Note
+#### Archive Note
 This doctrine defines how A.C.T manufactures public explanations after anomalous incidents. It does not celebrate deception. It records the machinery that keeps civilian life from collapsing under truths it has not been allowed to survive.
 
 ---
 
-# NORMALCY MANAGEMENT FOUNDATION
+## NORMALCY MANAGEMENT FOUNDATION
 
-## 3.1 Purpose
+### 3.1 Purpose
 
 A.C.T's public face is not a logo, law, flag, or ministry. Its public face is the ordinary explanation left behind after the impossible is removed.
 
@@ -22,26 +22,26 @@ A.C.T does not preserve normalcy because normal life is naturally true. It prese
 
 ---
 
-## 3.2 Responsible Divisions
+### 3.2 Responsible Divisions
 
-### Civil Covert Division
+#### Civil Covert Division
 Primary authority for public-facing masks, false explanations, shell institutions, civilian narrative insertion, local rumor dampening, media liaison, and non-violent institutional influence.
 
-### Intelligence Division
+#### Intelligence Division
 Tracks leak probability, GOI interference, hostile documentation, online pattern spread, witness vulnerability, and whether a cover story will attract the wrong attention.
 
-### Recovery Division
+#### Recovery Division
 Secures the physical scene, removes anomalous material, isolates witnesses, and preserves the first raw truth before Civil Covert replaces it.
 
-### Medical Care Division
+#### Medical Care Division
 Provides medical-compatible explanations, hospital redirection, exposure diagnosis, and post-amnestic health continuity.
 
-### Archiver Division
+#### Archiver Division
 Maintains the true record, controlled false record, redaction chain, and contradiction log. The archive must remember what the public file is designed to forget.
 
 ---
 
-## 3.3 Narrative Status Field
+### 3.3 Narrative Status Field
 
 Every anomaly file with civilian exposure should keep a **Narrative Status** field or equivalent note. The field records the public explanation currently in force.
 
@@ -66,29 +66,29 @@ The narrative status is not decorative. It tells future personnel what lie civil
 
 ---
 
-## 3.4 Cover Story Strength Bands
+### 3.4 Cover Story Strength Bands
 
-### N-0 — No Mask Required
+#### N-0 — No Mask Required
 The incident remained contained before civilian awareness.
 
-### N-1 — Passive Misread
+#### N-1 — Passive Misread
 Civilians naturally misunderstood the event. A.C.T only preserves the misunderstanding.
 
-### N-2 — Local Cover
+#### N-2 — Local Cover
 A.C.T inserts a local explanation through police, medical, school, workplace, religious, or municipal channels.
 
-### N-3 — Regional Narrative
+#### N-3 — Regional Narrative
 Multiple agencies, news items, social records, and witness clusters require coordination.
 
-### N-4 — National Suppression
+#### N-4 — National Suppression
 State-level cooperation, major media control, large-scale amnestic logistics, and legal restructuring are required.
 
-### N-5 — Structural Normalcy Operation
+#### N-5 — Structural Normalcy Operation
 The event threatens the public's model of reality. A.C.T must manage memory, institutions, archives, language, and future pattern recognition at once.
 
 ---
 
-## 3.5 Front Organizations
+### 3.5 Front Organizations
 
 A.C.T front organizations are civilian-facing masks that perform one or more functions:
 
@@ -105,7 +105,7 @@ A front organization must have a reason to exist outside the anomaly. Fake insti
 
 ---
 
-## 3.6 Witness Handling
+### 3.6 Witness Handling
 
 Witnesses are not obstacles. They are civilians who encountered something A.C.T failed to keep away from them.
 
@@ -126,7 +126,7 @@ A.C.T must not use memory loss as administrative convenience.
 
 ---
 
-## 3.7 Amnestic Logistics
+### 3.7 Amnestic Logistics
 
 Amnestics are a normalcy tool, not a universal eraser. Their use must account for:
 
@@ -143,7 +143,7 @@ The NEMNOLIA 004-series remains the major institutional example of transformatio
 
 ---
 
-## 3.8 Media and Record Control
+### 3.8 Media and Record Control
 
 Civil Covert may influence:
 
@@ -163,7 +163,7 @@ Archiver Division must retain the contradiction ledger: the real event, the publ
 
 ---
 
-## 3.9 Cultural and Folklore Covers
+### 3.9 Cultural and Folklore Covers
 
 A.C.T sometimes allows folklore to persist because folklore can contain truth safely. A village may remember a shrine spirit, a haunted road, a forbidden forest, a ghost light, or a monster rumor without producing mass exposure.
 
@@ -171,7 +171,7 @@ Civil Covert must not automatically erase cultural memory. Some communities have
 
 ---
 
-## 3.10 GOI and Hostile Narrative Interference
+### 3.10 GOI and Hostile Narrative Interference
 
 GOIs can attack A.C.T through story:
 
@@ -187,7 +187,7 @@ A good cover story must survive hostile truth fragments. It must also leave A.C.
 
 ---
 
-## 3.11 Cover-Story Failure States
+### 3.11 Cover-Story Failure States
 
 A normalcy operation enters failure review when:
 
@@ -203,7 +203,7 @@ The last condition is critical. A.C.T may lie to the world. It cannot safely lie
 
 ---
 
-## 3.12 Red Lines
+### 3.12 Red Lines
 
 Civil Covert may not:
 
@@ -217,7 +217,7 @@ Civil Covert may not:
 
 ---
 
-## 3.13 Related Records
+### 3.13 Related Records
 
 - `ACT_Internal_Structure_and_Reality_Doctrine_Archive.md`
 - `ACT_Divisions_Personnel_and_Operational_Life_Archive.md`
@@ -227,7 +227,7 @@ Civil Covert may not:
 
 ---
 
-## File Metadata
+### File Metadata
 
 ```text
 FILE CREATED:        12/09/2026

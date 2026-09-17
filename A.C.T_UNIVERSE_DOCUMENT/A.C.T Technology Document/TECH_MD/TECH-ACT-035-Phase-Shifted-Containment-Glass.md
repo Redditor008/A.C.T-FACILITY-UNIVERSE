@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - PHASE-SHIFTED CONTAINMENT GLASS
+### TECHNOLOGY RECORD - PHASE-SHIFTED CONTAINMENT GLASS
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Engineering / Observation Safety / Subject Care / Biological Containment / Security / Site Command  
 **Authority:** Engineering Division, Observation Safety Desk, and Central Archive
 
-### Archive Note
+#### Archive Note
 Phase-Shifted Containment Glass is the thirty-fifth main A.C.T technology expanded into an individual record. The Master Catalog defines it as a transparent viewing medium that exists between standard and desynchronized frequencies, allowing direct observation of phased subjects. The visual guide describes standard-looking glass with a faint rainbow oil-slick sheen, a polarizing dial, and a digital phase-slider used to adjust visibility and tangibility of desynchronized subjects. Terra's Pulse containment procedures list it beside Chrono-Stuttered Visors as an approved visual filter for monitoring AFD-SU-952 without unsafe direct viewing.
 
 PSCG is not a window. It is a negotiated distance between eye, room, and subject.
@@ -47,7 +47,7 @@ LET THE EYE RECEIVE DATA WITHOUT LETTING THE HAZARD RECEIVE THE EYE.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Phase-Shifted Containment Glass permits controlled observation when ordinary glass is too physically honest. It can show a subject, room, or phased phenomenon while holding part of the viewing relationship out of direct alignment. This allows staff to monitor visual-trigger hazards, partially desynchronized entities, unstable spatial subjects, and biological-compulsion cases where ordinary eye contact or full-frequency viewing would create risk.
 
@@ -65,7 +65,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND DEPLOYMENT
+## ORIGIN AND DEPLOYMENT
 
 A.C.T developed PSCG after repeated failures of ordinary transparent barriers. Standard glass can stop air, fingers, insects, and thrown objects, but it cannot always stop a gaze relationship. It also assumes that both sides of the pane occupy the same physical frequency. Phased subjects and visual hazards make that assumption dangerous.
 
@@ -75,7 +75,7 @@ Current deployment is common in Subject Care suites where dignity requires visib
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A PSCG panel appears almost ordinary from a distance. Close inspection shows a faint rainbow oil-slick sheen, especially along angled light. The pane is mounted inside a reinforced frame containing a polarizing dial, a digital phase-slider, power couplers, and safety locks. The slider adjusts observation phase. The dial adjusts polarization and visual fidelity. Some frames include operator presets for interview, medical check, visual hazard, spatial phase, and emergency opaque mode.
 
@@ -96,7 +96,7 @@ The panel must be mapped to its room. A pane calibrated for one suite may produc
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before observation, staff identify the hazard type: visual trigger, direct gaze, phased contact, biological compulsion, spatial drift, or unknown. Engineering verifies panel calibration. Security confirms that emergency opacity is working. Subject Care confirms whether observation is medically or socially necessary. If Chrono-Stuttered Visors are also required, the visor delay is tested through the panel rather than assumed compatible.
 
@@ -106,7 +106,7 @@ After use, the frame stores alignment state, duration, and any emergency opacity
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 PSCG cannot neutralize all visual hazards. It can reduce, delay, offset, or reshape the viewing relationship, but it cannot promise safety against symbols that operate through any recognition, subjects that react to being known, or hazards that travel through written description after observation. It also cannot replace manners. Subjects aware of being watched may still respond negatively to silent observation.
 
@@ -114,20 +114,20 @@ Known failure modes include phase over-alignment, under-alignment, polarizing di
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## PSCG-2014 Interview Over-Clarity
+### PSCG-2014 Interview Over-Clarity
 An interview pane was tuned to improve lip-reading after audio failure. The subject recognized the observer's eye line and reacted as if direct contact had occurred. PSCG procedure now forbids clarity adjustment as a substitute for audio repair.
 
-## PSCG-2024 Terra Filter Confirmation
+### PSCG-2024 Terra Filter Confirmation
 During Terra's Pulse monitoring, PSCG reduced visual fidelity enough to support safe observation when paired with personnel restriction and Adrenaline Micro-Surge Detector monitoring. The event confirmed that PSCG is a filter layer, not a standalone permission to stare.
 
-## PSCG-2026 Visor Delay Conflict
+### PSCG-2026 Visor Delay Conflict
 A Chrono-Stuttered Visor test through a high-offset PSCG panel produced doubled timing. The observer saw a delayed image of an already phase-delayed image. Current procedure requires combined calibration before pairing PSCG with delayed-vision PPE.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Engineering controls panel fabrication, calibration, phase-slider service, and emergency opacity maintenance. Observation Safety controls hazard presets. Subject Care uses PSCG for dignity-preserving observation and negotiated interviews. Biological Containment uses it for visual-compulsion subjects. Security monitors unauthorized dial changes. Site Command approves installation in high-risk suites.
 
@@ -135,7 +135,7 @@ Standing reminder: if the glass makes the room look ordinary, check whether it i
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 35;
 - ACT Technological Visual Reference Guide, Item 35;
@@ -147,7 +147,7 @@ Standing reminder: if the glass makes the room look ordinary, check whether it i
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can a subject learn the offset rhythm of PSCG and force gaze contact through it?
 - Should all PSCG panels default to opacity after power loss?
@@ -158,7 +158,7 @@ Standing reminder: if the glass makes the room look ordinary, check whether it i
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Engineering Division / Observation Safety Desk / Central Archive  

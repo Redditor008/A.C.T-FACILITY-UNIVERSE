@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - NATURAL COVER RESEARCH STATION SYSTEM
+### TECHNOLOGY RECORD - NATURAL COVER RESEARCH STATION SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Station Management / Security / Administration / Watch Staff / Nusantara Deep Relay / Ash Tide Watchpoint
 **Authority:** Station Manager, Watch Chief, Nusantara Site Command, and Central Archive
 
-### Archive Note
+#### Archive Note
 Natural Cover Research Station System is the eighty-sixth main A.C.T technology expanded into an individual record. The F-3 Surface Cover Level dossier identifies the surface structures of Ash Tide as a legitimate coastal research station: observation decks, monitoring equipment, administrative spaces, and a small dock for legitimate research vessel operations. The dossier states that such stations are ordinary throughout the archipelago and that the cover is strongest because the station's visible work is genuine.
 
 NCRSS is the technology of being ordinary without becoming fake. It lets Ash Tide exist where the region expects a station to exist, doing work that is true while concealing the buried watch below.
@@ -47,7 +47,7 @@ LET THE COVER BE REAL, OR IT WILL NOT HOLD.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 The Natural Cover Research Station System is Ash Tide's F-3 cover architecture: the combined surface facilities, administrative practices, legitimate research routines, staffing disciplines, communications posture, dock activity, visitor handling, and boundary controls that present the watchpoint as an ordinary coastal research station.
 
@@ -57,7 +57,7 @@ Approved roles include public-facing station identity, legitimate observation pr
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Ash Tide's expansion from relay watchpoint to permanently staffed sub-site required a visible reason for personnel, instruments, power, communications, and vessel presence on the coast. The answer chosen was not an exotic front. It was the natural thing for the region: a coastal research station in an archipelago where oceanographic, volcanic, and wildlife monitoring are ordinary.
 
@@ -65,7 +65,7 @@ The system developed around the Natural Cover Doctrine recorded in the F-3 dossi
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 An NCRSS installation includes visible observation decks, instrument housings, administrative rooms, legitimate communications, public station signage, staff work schedules, dock routines, maintenance logs, weather and salt protection, visitor-facing paperwork, and concealed boundary links to the buried levels. Its surface components must be clean enough for genuine professional use and ordinary enough to avoid becoming remarkable.
 
@@ -86,7 +86,7 @@ The system fails if the station becomes theatrical. The best cover has no need t
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 During routine operation, NCRSS maintains visible station work. Staff observe, log, communicate, maintain equipment, receive legitimate supplies, and operate research-vessel access within the cover's normal rhythm. Administrative staff keep the station's paperwork consistent with its visible mission. Security staff protect boundary points without making the station look guarded.
 
@@ -94,7 +94,7 @@ Operational traffic is separated from public-facing station activity. When watch
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 NCRSS cannot hide careless behavior. It cannot make an impossible delivery ordinary, cannot explain repeated emergencies without consequence, cannot survive staff treating the cover as a costume, and cannot protect the buried watch if boundary traffic becomes predictable. A real station also produces real obligations: maintenance, outside questions, weather damage, research expectations, staff fatigue, and record continuity.
 
@@ -102,20 +102,20 @@ Known failure modes include cover fatigue, paperwork mismatch, visitor curiosity
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## NCRSS-Cover Station Formation
+### NCRSS-Cover Station Formation
 The F-3 dossier records that the coastal research station identity was chosen because such stations are ordinary throughout the archipelago. NCRSS was formalized when the watchpoint's permanent staffing required durable surface identity.
 
-## NCRSS-Paperwork Continuity Review
+### NCRSS-Paperwork Continuity Review
 A station administration audit found that legitimate work must remain internally consistent even when the buried watch is quiet. Current doctrine requires routine logs to remain meaningful, not decorative.
 
-## NCRSS-Boundary Incident Drill
+### NCRSS-Boundary Incident Drill
 A simulated visitor approach toward concealed transition infrastructure showed that visible staff behavior matters as much as locks. Current response places station calm before security display unless immediate breach risk exists.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Administration maintains NCRSS paperwork and station rhythm. Legitimate station staff conduct visible observation work. Security manages boundary risk. Watch Coordination uses the surface station's ordinary work without compromising it. The Watch Chief preserves the separation between public station authority and buried operational command.
 
@@ -123,7 +123,7 @@ NCRSS doctrine holds that a true cover must be true enough to stand in daylight.
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SUB-05-ID-C Ash Tide Watchpoint Sub-Site Dossier;
 - ACT-SUB-05-ID-C-F-3 Surface Cover Level Floor Dossier;
@@ -135,7 +135,7 @@ NCRSS doctrine holds that a true cover must be true enough to stand in daylight.
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How much genuine research output is needed before the cover attracts academic attention?
 - Which visitors should be redirected, delayed, or permitted under supervision?
@@ -146,7 +146,7 @@ NCRSS doctrine holds that a true cover must be true enough to stand in daylight.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Station Manager / Watch Chief / Central Archive

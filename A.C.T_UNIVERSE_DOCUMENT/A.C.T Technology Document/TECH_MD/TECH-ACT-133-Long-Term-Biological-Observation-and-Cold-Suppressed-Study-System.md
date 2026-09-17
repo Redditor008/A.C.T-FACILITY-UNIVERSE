@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - LONG-TERM BIOLOGICAL OBSERVATION AND COLD-SUPPRESSED STUDY SYSTEM
+### TECHNOLOGY RECORD - LONG-TERM BIOLOGICAL OBSERVATION AND COLD-SUPPRESSED STUDY SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -33,7 +33,7 @@
 **Distribution:** White Grave Station / Research / Medical / Containment / Security / Archive
 **Authority:** Floor Research Chief, Research Division, Site Director, and Central Archive
 
-### Archive Note
+#### Archive Note
 Long-Term Biological Observation and Cold-Suppressed Study System is the one-hundred-thirty-third main A.C.T technology expanded into an individual record. The White Grave F-4 Research and Biological Study dossier identifies F-4 as the station's primary laboratory level, containing biological study chambers, sample processing, long-term observation suites, and controlled research environments for cold-suppressed anomalies. It records research authorization, sample control, study restriction enforcement, environmental separation, observation streams, and the doctrine that slow behavior is data.
 
 LTBOCSS exists because White Grave studies biological residents on the timescale their containment demands. Some answers appear only after seasons of cold, years of suppression, and patient observation that faster facilities would mistake for inactivity.
@@ -48,7 +48,7 @@ OBSERVE LONG ENOUGH TO LEARN WITHOUT WARMING THE RESIDENT INTO A NEW PROBLEM.
 
 ---
 
-# FUNCTION OUTLINE
+## FUNCTION OUTLINE
 
 Long-Term Biological Observation and Cold-Suppressed Study System is White Grave's F-4 laboratory technology for studying cold-suppressed anomalies under controlled biological, environmental, and documentary conditions. It combines biological study chambers, sample processing laboratories, long-term observation suites, controlled research environments, data offices, Archive mirroring, Medical liaison channels, and Containment-linked sample return procedure.
 
@@ -58,7 +58,7 @@ Approved roles include cold-suppressed anomaly study, biological sample processi
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 White Grave was built around biological material that could not be understood through short contact. Suppression kept residents contained, but suppression alone did not explain what they were, what sustained them, or what might eventually neutralize them. The station needed a research floor able to work without violating the cold conditions that made containment possible.
 
@@ -66,7 +66,7 @@ F-4 developed LTBOCSS from that need. Long-term observation suites became the st
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A LTBOCSS installation includes biological study chambers, cold-capable sample laboratories, long-term observation suites, temperature-controlled research cells, atmospheric regulation, observation channels, sample custody docks, data-processing offices, Archive mirror links, and emergency return routes to holding floors.
 
@@ -87,7 +87,7 @@ The observation suite is treated as active instrumentation even when nothing vis
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before study begins, LTBOCSS verifies resident identity, source holding floor, restriction set, study authorization, sample-control path, environmental requirements, observation duration, Medical watch needs, Containment return route, and data restriction level. Material drawn from F-3 or deeper floors remains the property of its containment assignment throughout the study.
 
@@ -95,7 +95,7 @@ During operation, the system preserves temperature, atmosphere, observation sett
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 LTBOCSS can make long study possible, but it cannot guarantee that observation is neutral. Cold-suppressed anomalies may respond to being watched, sampled, warmed by instruments, or held in a research schedule different from their normal chamber state. Multi-year studies also create personnel rotation problems: the people interpreting late data may not be the people who designed the first conditions.
 
@@ -103,20 +103,20 @@ Known failure modes include cold-condition drift, sample custody mismatch, obser
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## LTBOCSS-Long Observation Standard
+### LTBOCSS-Long Observation Standard
 A research review found that slow residents were being described as inactive when observation periods were too short. Current LTBOCSS doctrine requires study cadence to match resident timescale rather than staff impatience.
 
-## LTBOCSS-Cold Condition Correction
+### LTBOCSS-Cold Condition Correction
 A study chamber incident showed that small temperature changes during sampling could produce behavior absent in holding. Current procedure binds sample processing to cold-condition locks and post-study return verification.
 
-## LTBOCSS-Data Continuity Finding
+### LTBOCSS-Data Continuity Finding
 Personnel rotation once separated observation results from original study assumptions. Current data records preserve condition history, staff changes, and interpretation notes as part of the study environment.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Research Division operates LTBOCSS study programs. Medical advises on biological exposure and personnel health. Containment controls resident custody and receives holding-regimen findings. Security enforces access and restriction compliance. Archive preserves long observation data under the station's knowledge standards.
 
@@ -124,7 +124,7 @@ LTBOCSS doctrine holds that understanding is containment, but at White Grave, un
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-02-RU-N-F-4 Research and Biological Study Floor Dossier;
 - ACT-SITE-02-RU-N-F-3 Standard Deep-Isolation Holding Floor Dossier;
@@ -136,7 +136,7 @@ LTBOCSS doctrine holds that understanding is containment, but at White Grave, un
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How many years of stillness are required before stillness becomes a finding?
 - Can a resident adapt to cold research conditions without visibly changing?
@@ -147,7 +147,7 @@ LTBOCSS doctrine holds that understanding is containment, but at White Grave, un
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Floor Research Chief / Research Division / Central Archive

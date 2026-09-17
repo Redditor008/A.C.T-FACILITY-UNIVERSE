@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - F-1 CLOSURE SYSTEM
+### TECHNOLOGY RECORD - F-1 CLOSURE SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Containment / Security / Engineering / Site Command / Medical / Archive  
 **Authority:** Deep-Hold Command, Site Director, and Central Archive
 
-### Archive Note
+#### Archive Note
 The F-1 Closure System is the fifty-eighth main A.C.T technology expanded into an individual record. Redwood Veil's F-1 floor dossier identifies the Hanging Vault as the deepest numbered floor of the complex and records its defining security procedure as closing F-1 to the outside. That closure cuts the access core, isolates the floor's service connections, and commits the floor to full self-containment until the triggering condition is resolved. The same dossier states that closure is not a last resort but a standing option drilled across the site.
 
 F1-CS is not a panic button. It is the technological shape of a doctrine: if the threat is in the deepest floor, the deepest floor must not be allowed to become a stairway.
@@ -47,7 +47,7 @@ WHEN F-1 CLOSES, THE FLOOR STOPS BELONGING TO THE ROUTES ABOVE IT.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 The F-1 Closure System is the access, service, power, air, communication, and command isolation infrastructure that allows Redwood Veil's Hanging Vault to seal itself from the rest of the complex. Its primary function is to prevent a high-inviolability resident or floor-level incident from using the floor's own connections as a route upward. It is designed around the single access core descending from F-2, the service ring around the vault gallery, independent emergency plant support, compartmented air handling, hardened communication, and command post procedures.
 
@@ -57,7 +57,7 @@ Approved roles include closure drills, live floor isolation, access-core cutover
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 F-1 closure developed from an early containment incident in which Redwood Veil learned that a threat on the deepest floor must never use the floor's infrastructure as an escape path. The details of that incident are not repeated in the floor dossier, but its consequence is visible in the site's operating language: every member of the site knows the phrase F-1 closure.
 
@@ -65,7 +65,7 @@ The Hanging Vault's architecture supports the doctrine. Resident vaults hang in 
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 F1-CS is not a single sealed door. It is a sequence of mechanical, electrical, atmospheric, procedural, and command locks distributed across the floor and its access path. The access core is a checkpoint sequence before normal operation; during closure, it becomes the main severance line. The service ring can be isolated from site-wide routes. The emergency plant carries the floor's full containment and environmental load.
 
@@ -86,7 +86,7 @@ The system is drilled because hesitation is treated as a failure mode.
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before closure, command confirms the trigger condition, resident restriction sets, personnel count, emergency plant readiness, medical risk, and whether F-2 must take supporting isolation action. Security clears the access core if time allows. Containment confirms vault status. Archive opens a closure event record.
 
@@ -96,7 +96,7 @@ After closure, reentry requires confirmation that the triggering condition is re
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 F1-CS cannot make a breached resident harmless. It can only deny route access. It may also trap personnel inside with the event that caused the closure. The system therefore carries a human cost by design. It must not be activated casually, but it must be activated without delay when doctrine requires it.
 
@@ -104,20 +104,20 @@ Known failure modes include delayed authorization, partial service isolation, fa
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## F1-CS-Initial Doctrine Incident
+### F1-CS-Initial Doctrine Incident
 The founding incident of the closure doctrine is preserved in Redwood Veil history files and not repeated in floor records. Its known result is the standing rule that a threat on F-1 must never use the floor's connections as a route upward.
 
-## F1-CS-Drill Hesitation Review
+### F1-CS-Drill Hesitation Review
 A closure drill recorded a delay while two teams tried to confirm whether a service route counted as outside access. Engineering relabeled service isolation points and added route diagrams to the closure board.
 
-## F1-CS-Reentry Overcheck
+### F1-CS-Reentry Overcheck
 A post-drill review found that personnel were prepared to reopen the access core before all atmospheric compartments reported stable. Procedure now requires independent air, power, resident, and personnel checks before reentry.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Containment owns closure doctrine and resident-state confirmation. Security controls the access core and personnel route discipline. Engineering maintains isolation valves, power cutovers, shutters, and emergency plant readiness. Site Command authorizes live activation. Medical prepares for trapped personnel and post-closure care. Archive preserves event records because closure is a site-defining action.
 
@@ -125,7 +125,7 @@ Standing reminder: F-1 closes so the rest of the site remains a site.
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-01-US-W Redwood Veil Complex Site Dossier;
 - ACT-SITE-01-US-W-F-1 The Hanging Vault Floor Dossier;
@@ -137,7 +137,7 @@ Standing reminder: F-1 closes so the rest of the site remains a site.
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which service routes should be permanently removed instead of isolated?
 - Can a resident learn the timing of repeated closure drills?
@@ -148,7 +148,7 @@ Standing reminder: F-1 closes so the rest of the site remains a site.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Deep-Hold Command / Engineering / Central Archive  

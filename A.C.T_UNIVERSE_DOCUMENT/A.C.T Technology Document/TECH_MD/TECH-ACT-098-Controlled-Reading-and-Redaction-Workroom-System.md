@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - CONTROLLED READING AND REDACTION WORKROOM SYSTEM
+### TECHNOLOGY RECORD - CONTROLLED READING AND REDACTION WORKROOM SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Silent Reed Annex / Kurokawa Archive Node / Archive / Intelligence / Cognitive Medical
 **Authority:** Review Officer, Redaction Lead, Sub-Site Chief, Kurokawa Archive Command, and Central Archive
 
-### Archive Note
+#### Archive Note
 Controlled Reading and Redaction Workroom System is the ninety-eighth main A.C.T technology expanded into an individual record. The Silent Reed Annex dossier identifies F-2 as the annex's operational heart: controlled-reading cells, redaction workrooms, and review staging areas where buffered material is assessed. It also states that no solo review shifts are authorized during active memetic contamination cycles.
 
 CRRWS exists because reading is an operation. At Silent Reed, a page is not opened merely because it is present.
@@ -47,7 +47,7 @@ READ UNDER WATCH, REDACT UNDER STANDARD, RELEASE ONLY WHAT CAN SURVIVE BEING SEE
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 The Controlled Reading and Redaction Workroom System is the F-2 review technology that lets Silent Reed Annex examine buffered memetic and infohazard material without turning review into uncontrolled exposure. It combines controlled-reading cells, paired review stations, redaction workrooms, review staging areas, exposure clocks, cognitive aftercare links, Intelligence oversight, and parent-node transfer standards.
 
@@ -57,7 +57,7 @@ Approved roles include paired controlled reading, exposure-limited review, tempo
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Silent Reed was established because Kurokawa's main archive could be overwhelmed by waves of dangerous information. Holding documents in F-1 solved only part of the problem. Some material needed controlled reading, limited interpretation, and redaction preparation before the parent node could absorb it. F-2 became the level where this work could occur without letting ordinary archive habits govern hazardous text.
 
@@ -65,7 +65,7 @@ The no-solo-review rule shaped CRRWS from the beginning. During active contamina
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A CRRWS installation includes controlled-reading cells, redaction desks, shielded copy stands, exposure timers, observer stations, review staging trays, redact-safe ink and covers, parent-node format terminals, cognitive condition check points, and sealed disposal containers. Workrooms are designed to limit sightlines and prevent unplanned replication.
 
@@ -86,7 +86,7 @@ A finished redaction is treated as a containment product, not clerical polish.
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before review, Archive staff confirm source, quarantine status, hazard category, exposure limit, reviewer pairing, medical readiness, and parent-node purpose. The material enters a controlled-reading cell or staging tray. Reviewers read only the assigned portion and record findings in language that does not reproduce the hazard.
 
@@ -94,7 +94,7 @@ Redaction work proceeds under parent-node standards. Intelligence checks whether
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 CRRWS cannot make every document safe. Some information remains hazardous after redaction, some hazards ride formatting rather than content, and some documents change when summarized. The system also cannot protect staff if review discipline becomes casual or if schedule pressure from the parent node overrides exposure limits.
 
@@ -102,20 +102,20 @@ Known failure modes include solo exposure, copied hazard leakage, bad redaction,
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## CRRWS-Review Floor Formation
+### CRRWS-Review Floor Formation
 The Silent Reed dossier records F-2 as the review and redaction level. CRRWS formalizes the floor's controlled-reading cells, redaction workrooms, and review staging areas.
 
-## CRRWS-No-Solo-Review Audit
+### CRRWS-No-Solo-Review Audit
 A contamination-cycle exercise showed that paired review detects reader drift earlier than post-shift screening. Current procedure forbids solo review during active cycles and discourages it for uncertain material.
 
-## CRRWS-Bad Redaction Drill
+### CRRWS-Bad Redaction Drill
 A redaction exercise removed obvious hazardous text but preserved a dangerous layout relation. Current doctrine reviews content, formatting, sequence, and absence before release.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Archive operates reading cells and redaction rooms. Intelligence reviews information gaps and operational meaning. Limited Medical Cognitive Staff monitors exposure effects. Kurokawa Archive Command controls final standards and transfer destination.
 
@@ -123,7 +123,7 @@ CRRWS doctrine holds that reading is never private when the text can read back.
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SUB-03-JP-E Silent Reed Annex Sub-Site Dossier;
 - ACT-SUB-03-JP-E-F-2 Review and Redaction Level Floor Dossier;
@@ -135,7 +135,7 @@ CRRWS doctrine holds that reading is never private when the text can read back.
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which documents become more hazardous when redacted?
 - Can layout, absence, or sequence carry the surviving payload after content removal?
@@ -146,7 +146,7 @@ CRRWS doctrine holds that reading is never private when the text can read back.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Review Officer / Redaction Lead / Central Archive

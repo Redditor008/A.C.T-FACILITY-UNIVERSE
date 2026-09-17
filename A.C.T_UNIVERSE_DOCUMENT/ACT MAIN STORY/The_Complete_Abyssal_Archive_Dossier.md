@@ -1,13 +1,13 @@
 # THE ABYSSAL ARCHIVE DOSSIER
-## A.C.T. ORIGIN RECONSTRUCTION — THE FIRST LIE
-### Complete Narrative Dossier | Compiled from Primary Archive Sources
+### A.C.T. ORIGIN RECONSTRUCTION — THE FIRST LIE
+#### Complete Narrative Dossier | Compiled from Primary Archive Sources
 **Classification:** [INTERNAL USE ONLY — FRAGMENTED TRUTH PROTOCOL]  
 **Subject:** Entity Research Exploration (ERE) / Abyssal Foundation / NEMNOLIA Dependency / Founder Continuity Failure  
 **Compiler Note:** This dossier reconstructs the full chronological record of Archivist Sera Vey’s investigation into the wounded archive. All original chapter texts have been preserved without summarization, redaction, or condensation. Presented as a single continuous narrative for archival integrity.
 
 ---
 
-# Chapter 1 — Correction Order
+## Chapter 1 — Correction Order
 
 The correction slip arrived without ceremony.
 
@@ -276,7 +276,7 @@ She felt like a trespasser inside the memory of something that had been trying, 
 
 ---
 
-# Chapter 2 — Wounds in the Archive
+## Chapter 2 — Wounds in the Archive
 
 Sera did not file the discrepancy report.
 
@@ -578,7 +578,7 @@ The contradiction was whether the truth had ever been safe enough for the Facili
 
 ---
 
-# Chapter 3 — The 004 Irregularity
+## Chapter 3 — The 004 Irregularity
 
 The first time Sera saw the pattern clearly, it was disguised as dosage notation.
 
@@ -900,7 +900,7 @@ It had been teaching its own people how to live inside what was missing.
 
 ---
 
-# Chapter 4 — The Bloom Before the Bloom
+## Chapter 4 — The Bloom Before the Bloom
 
 The next contradiction came with a smell.
 
@@ -1169,7 +1169,7 @@ Then she encrypted it, hid it, and sat awake in the dark while far below the Fac
 
 ---
 
-# Chapter 5 — Entity Research Exploration
+## Chapter 5 — Entity Research Exploration
 
 By the fifth day, Sera stopped thinking of the old records as history.
 
@@ -1432,7 +1432,7 @@ It had been an answer to a call no one remembered receiving.
 
 ---
 
-# Chapter 6 — The Sleeping Foundation
+## Chapter 6 — The Sleeping Foundation
 
 Once Sera accepted that ERE had been guided downward, the shape of the next question became unavoidable.
 
@@ -1682,7 +1682,7 @@ And the institution built to keep it dreaming had taught itself to forget the co
 
 ---
 
-# Chapter 7 — The Founders’ Silence
+## Chapter 7 — The Founders’ Silence
 
 The proof arrived disguised as absence.
 
@@ -1942,7 +1942,7 @@ It was an act.
 
 ---
 
-# Chapter 8 — NEMNOLIA and the Dream-State
+## Chapter 8 — NEMNOLIA and the Dream-State
 
 The proof did not come from the abyss.
 
@@ -2164,7 +2164,7 @@ It was the operating condition of the present.
 
 ---
 
-# Chapter 9 — The First Lie
+## Chapter 9 — The First Lie
 
 By the ninth day, Sera no longer believed in coincidence.
 
@@ -2417,7 +2417,7 @@ The only question left was whether she would do what the founders had done when 
 
 ---
 
-# Chapter 10 — The Cost of Remembering
+## Chapter 10 — The Cost of Remembering
 
 The first symptom was not pain.
 
@@ -2715,7 +2715,7 @@ It was what learning threatened to turn you into.
 
 ---
 
-# Chapter 11 — Fragments, Not Revelation
+## Chapter 11 — Fragments, Not Revelation
 
 The decision did not arrive as courage.
 
@@ -2848,7 +2848,7 @@ A path could still leave choice alive.
 
 Near cycle close, she reviewed the hidden fragments one final time.
 
-### Fragment Set Summary
+#### Fragment Set Summary
 - chronology suppression around NB-004  
 - dream-route pre-knowledge in ERE logs  
 - founder continuity instability  
@@ -2942,7 +2942,7 @@ She had given it a chance.
 
 ---
 
-# Chapter 12 — The Second Self-Erasure
+## Chapter 12 — The Second Self-Erasure
 
 The order reached her before dawn.
 
@@ -3330,7 +3330,7 @@ Then even that softened, and she drifted into a mercy she no longer trusted, ben
 
 ---
 
-# Epilogue — The Archive Still Breathes
+## Epilogue — The Archive Still Breathes
 
 Three years later, the correction order appeared on another desk.
 

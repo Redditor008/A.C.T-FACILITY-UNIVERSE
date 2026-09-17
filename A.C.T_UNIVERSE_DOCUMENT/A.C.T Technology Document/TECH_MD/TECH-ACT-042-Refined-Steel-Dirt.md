@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - REFINED STEEL-DIRT
+### TECHNOLOGY RECORD - REFINED STEEL-DIRT
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Materials Custody / Hazardous Materials / Engineering / Dark World Survey / Biological Containment  
 **Authority:** Materials Custody, Hazardous Materials Desk, Engineering Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Refined Steel-Dirt is the forty-second main A.C.T technology expanded into an individual record. The Master Catalog defines it as a stabilized byproduct of Blue Dirt with the tensile strength of steel and the mass of topsoil. The visual guide describes vivid blue powder stored in pressurized hoppers with a hydration-trigger valve used to spray material for instantaneous steel-grade breach sealing. Dark World Door files identify raw Blue Dirt as vivid blue particulate matter that hardens into high-grade steel within four seconds after contact with water, then emits toxic fumes for more than twelve months. The Blue Dirt reactivity dossier names that event a Steel-Bloom and records the dangerous Blue Haze released afterward.
 
 RSD is not dirt made useful. It is a toxic mistake taught to become a doorstop before it becomes a disaster.
@@ -47,7 +47,7 @@ DO NOT ADD WATER UNTIL EVERYONE HAS AGREED WHERE THE NEW WALL WILL BE.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Refined Steel-Dirt is an A.C.T-controlled derivative of Dark World Blue Dirt prepared for rapid breach sealing, emergency reinforcement, temporary barrier formation, and steel-grade patching. Raw Blue Dirt reacts violently with moisture, hardening into dense non-terrestrial steel while producing long-term toxic Blue Haze. RSD attempts to preserve the useful hardening behavior while reducing uncontrolled bloom, toxic exposure, and permanent site loss.
 
@@ -65,7 +65,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND REFINEMENT
+## ORIGIN AND REFINEMENT
 
 RSD originates from Blue Dirt collected through AFD-PL-932 Dark World operations. In the Dark World, Blue Dirt covers the ground as vivid particulate matter. Water contact causes immediate blue luminescence, rapid heat rise, steel-like solidification within four seconds, and venting of Blue Haze from micro-pores. One test subject's fingers adhered to the block during bloom. Thorne's analysis found the bloomed material carried density comparable to Abyssal Basalt while remaining dramatically lighter.
 
@@ -75,7 +75,7 @@ Current RSD batches are still restricted and not approved for casual constructio
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 RSD appears as vivid blue powder. It is stored in pressurized hoppers designed to prevent humidity intrusion, static clumping, and accidental valve activation. Each hopper includes a hydration-trigger valve, dry-pressure gauge, particulate agitation system, seal monitor, emergency dump lock, and post-bloom toxicity sampler. Deployment nozzles produce a controlled spray pattern so the material forms where the breach plan expects it rather than wherever gravity takes it.
 
@@ -96,7 +96,7 @@ RSD is never stored near open water, wet cleaning lines, humid biological suites
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before deployment, Engineering defines the breach shape, direction of expected pressure, personnel evacuation route, and acceptable permanence. Hazardous Materials confirms humidity, ventilation, respiratory protection, and Blue Haze capture readiness. Site Command verifies that no living subject, patient, cooperative entity, or trapped personnel will be sealed behind the bloom without explicit rescue analysis.
 
@@ -106,7 +106,7 @@ After deployment, the new mass is tested for heat, fume release, tensile strengt
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 RSD can create a wall faster than a team can correct a mistake. It is unsuitable for uncertain rooms, crowded corridors, living tissue contact, patient-care areas, or any breach where trapped people may still be moving. Refinement reduces risk but does not erase Blue Haze danger. The material may still outgas, adhere to skin, incorporate tools, and turn a temporary patch into a long-term contaminated obstacle.
 
@@ -114,20 +114,20 @@ Known failure modes include premature bloom, hopper humidity breach, nozzle clog
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## RSD-2024 Raw Steel-Bloom Baseline
+### RSD-2024 Raw Steel-Bloom Baseline
 The Blue Dirt reactivity trial confirmed four-second hardening, heat spike, finger adhesion, and Blue Haze release. This trial remains the baseline warning for all RSD training: the source material does not wait for hesitation.
 
-## RSD-2025 Hopper Humidity Drill
+### RSD-2025 Hopper Humidity Drill
 A training hopper intentionally exposed to elevated humidity produced partial clumping near the valve. The powder did not bloom, but the spray pattern failed. Hopper humidity alarms are now tested before every field load.
 
-## RSD-2026 Over-Seal Simulation
+### RSD-2026 Over-Seal Simulation
 A breach simulation sealed the visible crack while blocking the only safe retrieval path for a maintenance drone carrying evidence. The scenario led to a new rule: seal plans must preserve recovery routes unless site survival requires immediate closure.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Materials Custody tracks batch origin, hopper assignment, dust loss, and refinement history. Hazardous Materials controls storage, fume response, and Steel-Zone declaration. Engineering designs breach-seal plans. Dark World Survey interprets raw Blue Dirt behavior. Biological Containment may request RSD only when sealing non-living surfaces away from subject bodies. Site Command approves live deployment.
 
@@ -135,7 +135,7 @@ Standing reminder: if the powder touches water, the decision has already been ma
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 42;
 - ACT Technological Visual Reference Guide, Item 42;
@@ -149,7 +149,7 @@ Standing reminder: if the powder touches water, the decision has already been ma
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can Blue Haze be neutralized without weakening the steel-grade bloom?
 - Does refined powder remember the moon cycle under which raw Blue Dirt was collected?
@@ -160,7 +160,7 @@ Standing reminder: if the powder touches water, the decision has already been ma
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Materials Custody / Hazardous Materials Desk / Central Archive  

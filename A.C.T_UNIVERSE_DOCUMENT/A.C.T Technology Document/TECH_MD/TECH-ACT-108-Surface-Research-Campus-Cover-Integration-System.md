@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - SURFACE RESEARCH CAMPUS COVER INTEGRATION SYSTEM
+### TECHNOLOGY RECORD - SURFACE RESEARCH CAMPUS COVER INTEGRATION SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -33,7 +33,7 @@
 **Distribution:** Verde Null Bio-Reserve / Research / Administration / Security / Environmental Containment / Archive
 **Authority:** Campus Director, Surface Cover Administration, Site Director, and Central Archive
 
-### Archive Note
+#### Archive Note
 Surface Research Campus Cover Integration System is the one-hundred-eighth main A.C.T technology expanded into an individual record. The Verde Null Bio-Reserve dossier identifies the site cover as a legitimate ecological research reserve conducting genuine biodiversity, conservation, and climate science. The F-5 Surface Research Campus dossier identifies the campus as the reserve's visible face: research laboratories, ecological monitoring stations, personnel housing, administrative buildings, command center, campus access architecture, public-program communications, and the invisible boundary between legitimate research areas and anomalous enclosure sectors.
 
 SRCCIS exists because Verde Null hides best when its visible work is true. The system does not fake ecology; it integrates real ecology with concealed containment.
@@ -48,7 +48,7 @@ LET THE COVER BE REAL, AND KEEP THE JOIN INVISIBLE.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Surface Research Campus Cover Integration System is the cover-campus architecture that lets Verde Null operate as a genuine ecological research institution while concealing the containment reserve beneath and beyond it. It coordinates public-facing laboratories, field research schedules, ecological monitoring stations, housing, administration, professional communications, concealed access routing, boundary monitoring, Security oversight, and Environmental Containment liaison.
 
@@ -58,7 +58,7 @@ Approved roles include ecological cover maintenance, public-program scheduling, 
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 A reserve the size of Verde Null could not survive as a blank exclusion zone. Protected wilderness explains limited access, but personnel, equipment, power, buildings, and professional travel require a visible institution. F-5 developed as that institution: a campus that performs ecological science in the open and gives the reserve an ordinary reason to exist.
 
@@ -66,7 +66,7 @@ The genuine science doctrine emerged early. A false front collapses when inspect
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A SRCCIS installation includes public-facing research laboratories, ecological monitoring stations, personnel housing, administrative offices, campus communications, access architecture to buried levels, boundary route controls, surface incident posts, cover record systems, legitimate sample storage, field-equipment inventories, and concealed liaison channels to F-4 command.
 
@@ -87,7 +87,7 @@ The system is designed so that a visitor sees a conservation campus and a cleare
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Campus operations begin with legitimate research scheduling: field teams, lab work, monitoring checks, housing rosters, supply receipts, and professional communications are logged as normal campus activity. SRCCIS then compares those visible activities against concealed boundary status, enclosure-sector restrictions, F-4 access needs, Security patrols, and Environmental Containment advisories.
 
@@ -95,7 +95,7 @@ If public science would approach a concealed sector, the system adjusts route, t
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 SRCCIS can integrate cover and containment, but it cannot make all professional curiosity harmless. Real scientists ask questions, publish patterns, notice missing data, and revisit unusual findings. The system must preserve enough truth for legitimacy while keeping anomalous sectors outside the ordinary research frame.
 
@@ -103,20 +103,20 @@ Known failure modes include public-program curiosity drift, published data anoma
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## SRCCIS-Genuine Science Review
+### SRCCIS-Genuine Science Review
 Early cover planning found that a purely fictional research station would require constant narrative maintenance and invite scrutiny. Current SRCCIS doctrine requires the campus's ecological science to remain genuine, useful, and professionally defensible.
 
-## SRCCIS-Boundary Route Correction
+### SRCCIS-Boundary Route Correction
 A field team once scheduled legitimate monitoring near a concealed perimeter during sector maintenance. The current system compares public fieldwork routes against Environmental Containment boundary advisories before assignment is finalized.
 
-## SRCCIS-Communication Discipline Finding
+### SRCCIS-Communication Discipline Finding
 A review found that ordinary professional outreach can reveal more than formal reports when personnel casually explain access limitations. Current procedure routes sensitive access explanations through approved conservation-language phrasing and campus administration.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Research uses SRCCIS to conduct legitimate ecological science without crossing into restricted anomaly work. Administration uses it to maintain campus records, housing, supply explanations, and public-facing schedules. Security uses it to monitor boundary incidents and cover exposure. Environmental Containment uses it to keep concealed sector lines invisible. Command uses it to coordinate F-5's visible activity with F-4's buried operational authority.
 
@@ -124,7 +124,7 @@ SRCCIS doctrine holds that the strongest cover is not a lie; it is a truth with 
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-04-BR-C Verde Null Bio-Reserve Site Dossier;
 - ACT-SITE-04-BR-C-F-5 Surface Research Campus Floor Dossier;
@@ -136,7 +136,7 @@ SRCCIS doctrine holds that the strongest cover is not a lie; it is a truth with 
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How much real ecological data can be published before outside researchers begin mapping restricted absence?
 - Should campus staff with no concealed assignment be told that some restrictions are conservation-only even when they are containment-driven?
@@ -147,7 +147,7 @@ SRCCIS doctrine holds that the strongest cover is not a lie; it is a truth with 
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Surface Cover Administration / Campus Director / Central Archive

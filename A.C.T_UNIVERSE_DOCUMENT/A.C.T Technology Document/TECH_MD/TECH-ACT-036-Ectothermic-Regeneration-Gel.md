@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - ECTOTHERMIC REGENERATION GEL
+### TECHNOLOGY RECORD - ECTOTHERMIC REGENERATION GEL
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Medical / Verde Null / Subject Care / Herpetology Review / Transformation Review  
 **Authority:** Medical Division, Biological Subject Care Desk, and Central Archive
 
-### Archive Note
+#### Archive Note
 Ectothermic Regeneration Gel is the thirty-sixth main A.C.T technology expanded into an individual record. The Master Catalog identifies it as a specialized medical salve used to accelerate healing in NB-class transmutants, with Vivienne Argent and Grumblesail listed as references. The visual guide describes a thick translucent green slime stored in refrigerated tubs, fitted with an automated agitator disc in the lid to prevent anomalous separation, and emitting a strong medicinal mint scent. Vivienne Argent's files establish the care environment ERG was designed to support: transmuted reptilian biology, scale tension, thermal sensitivity, humidity dependence, shed cycles, and the need to treat a subject as a person rather than a specimen.
 
 ERG is not a miracle paste. It is warm-blooded medicine written carefully enough for cold-blooded skin to accept it.
@@ -47,7 +47,7 @@ HEAL THE TISSUE WITHOUT TELLING THE BODY TO BECOME SOMETHING ELSE AGAIN.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Ectothermic Regeneration Gel supports healing in reptilian, hybrid, transmuted, and NB-class biological subjects whose tissue does not respond safely to standard human medicine. It is applied as a salve to scale beds, dermal splits, shed abrasions, thermal-crack injuries, minor tissue tears, and post-scan biopsy sites when subject biology requires moisture, stable temperature, and low-force repair stimulation.
 
@@ -65,7 +65,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 ERG emerged from A.C.T's shift away from treating transmuted subjects as damaged versions of their former anatomy. Early medical teams tried standard burn gel, reptile-care ointments, sterile petroleum layers, humidity tents, and human dermatological creams. Some worked briefly. Others trapped heat, softened scales incorrectly, interfered with scent perception, or made subjects feel coated rather than cared for.
 
@@ -75,7 +75,7 @@ Grumblesail remains a cautionary reference because indestructible tissue can mak
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 ERG is a thick translucent green gel with a medicinal mint scent. It is stored in refrigerated tubs. Each tub lid contains an automated agitator disc that slowly turns the compound to prevent anomalous separation. If the gel separates into clear fluid and opaque green strands, it is not used until Medical clears it. The gel warms under gloved hands but must not be heated aggressively, because uneven warming can create overactive repair streaks.
 
@@ -96,7 +96,7 @@ ERG is logged by tub, subject, anatomical site, temperature, humidity, and appli
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before application, Medical confirms subject identity, tissue type, thermal state, stress level, consent status, and whether the site is shed-related, trauma-related, biopsy-related, or unknown. Subject Care explains the procedure in ordinary language. For Vivienne-class care, staff avoid pity language and avoid calling the gel a cure. The subject is offered a scent check before application when chemosensory ability is relevant.
 
@@ -106,7 +106,7 @@ After application, the site is observed without crowding the subject. Residue is
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 ERG cannot reverse total transmutation, cannot repair all NB-class tissue, cannot heal indestructible bodies that do not register injury, and cannot replace correct habitat conditions. A cold Vivienne does not need more gel first; she needs warmth. A dehydrated shed cycle does not need forced peeling; it needs humidity and patience. ERG can become harmful if staff use it to compensate for poor care environments.
 
@@ -114,20 +114,20 @@ Known failure modes include metabolic over-acceleration, shed-cycle disruption, 
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## ERG-2023 Vivienne Comfort Trial
+### ERG-2023 Vivienne Comfort Trial
 The first controlled Vivienne application reduced shed tightness but produced irritation when staff used clinical language that framed her scales as damaged. Subject Care revised procedure to separate physical treatment from identity judgment. The gel worked better once the room stopped making the patient defend her body.
 
-## ERG-2024 Separation Tub Incident
+### ERG-2024 Separation Tub Incident
 A refrigerated tub sat unused through a power fluctuation. The agitator restarted, but the gel had already separated into uneven repair strands. A test smear warmed at different rates. Separation indicator strips became mandatory after the incident.
 
-## ERG-2025 Grumblesail Negative Utility Review
+### ERG-2025 Grumblesail Negative Utility Review
 ERG was applied to a harmless surface scuff that later proved to be dirt on Grumblesail rather than injury. The subject attempted to lick the mint scent and then sat on the supply case. The review confirmed that ERG has no proven healing utility for AFD-SU-012 and should not be used as enrichment without Subject Care approval.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Medical controls formulation, storage, and application. Verde Null uses ERG for reptilian and hybrid subject support. Herpetology Review advises on scales, shed cycles, humidity, and thermal state. Transformation Review studies quiet transmutation tissue behavior without treating subjects as failed reversions. Subject Care ensures that treatment language respects the person receiving care. Archive stores application logs as medical records, not material harvest notes.
 
@@ -135,7 +135,7 @@ Standing reminder: a salve can heal skin and still wound trust if the hand apply
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 36;
 - ACT Technological Visual Reference Guide, Item 36;
@@ -147,7 +147,7 @@ Standing reminder: a salve can heal skin and still wound trust if the hand apply
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can ERG support non-reptilian NB-class transmutants without misreading their repair rhythm?
 - Does repeated use teach tissue to expect external repair cues?
@@ -158,7 +158,7 @@ Standing reminder: a salve can heal skin and still wound trust if the hand apply
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Medical Division / Biological Subject Care Desk / Central Archive  

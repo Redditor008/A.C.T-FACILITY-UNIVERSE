@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## GROUP OF INTEREST REGISTRY - ARCHIVISTS OF THE FINAL DAWN
+### GROUP OF INTEREST REGISTRY - ARCHIVISTS OF THE FINAL DAWN
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -67,7 +67,7 @@
 **Distribution:** Central Archive / Intelligence / Civil Covert / Recovery / Subject Care / Command
 **Authority:** Central Archive, Intelligence Division, Civil Covert Division, and Site 03 Review
 
-### Archive Note
+#### Archive Note
 Archivists of the Final Dawn is the active cultic filing for an outside apocalypse-preservation order that collects records before, during, and after communities experience endings. The order is not Last Bell Congregation, not Mercy of the Quiet Sun, not Choir of the Unforgotten Name, not Missing 404 Watch Tower, not an A.C.T archive branch, and not a normal historical society. It qualifies as a Group of Interest because it has transnational archivists, mobile vaults, specialized record forms, leadership titles, preservation rites, disaster-entry methods, witness boxes, living oral chains, and a repeated ability to assist or obstruct A.C.T archive control.
 
 The relationship class is **WORK**. A.C.T can work with the Archivists when records vanish, when a town is erased from public systems, when survivor identities fail, when endangered languages or family histories contain recovery clues, or when an incident leaves only civilian fragments behind. The Archivists are not classed Positive because preservation is their first loyalty, not rescue or public welfare. They are not Neutral because practical cooperation with A.C.T is recurrent. They are not Negative because they do not seek collapse, surrender, or exposure for its own sake. They preserve because they believe every dawn after an ending needs proof of the night before.
@@ -76,9 +76,9 @@ Child last-words, sealed town ledgers, active dawn copies, and preservation-hous
 
 ---
 
-# IDENTITY AND INSTITUTIONAL FUNCTION
+## IDENTITY AND INSTITUTIONAL FUNCTION
 
-## Group Function
+### Group Function
 
 Archivists of the Final Dawn functions as an apocalypse-oriented preservation order. Its repeated activity is the collection of names, maps, recipes, songs, languages, family trees, last messages, evacuation lists, school rolls, hospital sheets, photographs, witness fragments, and local records from places or communities that may not survive intact. The group believes that an ending is not complete until the memory of what ended is either preserved or deliberately destroyed. Its members therefore enter danger zones not to stop the end, but to keep people from being erased by it.
 
@@ -92,7 +92,7 @@ THE MORNING AFTER MUST HAVE A MEMORY.
 
 The phrase is not assessed as hazardous by itself. Some complete dawn-copy sequences remain restricted because they can restore suppressed location memory.
 
-## Public Presence and Concealment
+### Public Presence and Concealment
 
 The Archivists hide behind disaster-history projects, oral-history foundations, cultural preservation charities, refugee documentation groups, language-recovery programs, church record copying, school memorial volunteers, local newspaper digitization, museum salvage, funeral card preservation, and private family archive work. Civilians may experience them as patient recorders who ask for old songs, last photographs, recipes, maps, and names after a tragedy.
 
@@ -100,15 +100,15 @@ Public marks include pale-orange file ties, sunrise stamps, black boxes labeled 
 
 ---
 
-# ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
+## ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
 
-## Leadership Condition
+### Leadership Condition
 
 The order is led by Dawn Curators, Ledger Priors, Last-Word Conservators, and regional Shelf Keepers. Records also refer to the First Shelf. A.C.T has not confirmed whether the First Shelf is a person, an archive room, a founding ledger, a council, or an office that exists only when a collection is threatened. References to the First Shelf are censored in several captured files because readers reported remembering buildings that had never existed in their town.
 
 Dawn Curators approve preservation missions. Ledger Priors decide which records may be copied, sealed, returned, or destroyed. Last-Word Conservators handle final messages and family testimony. Shelf Keepers maintain physical stacks, mobile vaults, and oral chains in specific regions.
 
-## Internal Structure
+### Internal Structure
 
 A.C.T assessment identifies these functional layers:
 
@@ -124,7 +124,7 @@ A.C.T assessment identifies these functional layers:
 
 This structure makes the order a real GOI. It is not only people who like archives. It has doctrine, roles, access methods, physical stores, and repeatable effects.
 
-## Membership and Recruitment
+### Membership and Recruitment
 
 Membership includes archivists, librarians, oral historians, linguists, map drawers, school record clerks, funeral aides, refugees, disaster survivors, photographers, museum conservators, religious scribes, and families whose communities were erased from official accounts. Some members are scholars. Some are mourners. Some join because an A.C.T or government cover story left no public place for their dead.
 
@@ -138,9 +138,9 @@ The order does not require members to worship destruction. It requires them to a
 
 ---
 
-# IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
+## IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
 
-## Stated Belief
+### Stated Belief
 
 The Archivists believe that every ending creates a moral duty of preservation. A life without record can be killed twice. A town without map can be stolen by silence. A language without speaker can lose warnings no machine knows how to translate. A witness without safe storage becomes either a leak or a lie. The order calls its work dawn keeping: making sure that something can still be read when the night has passed.
 
@@ -154,13 +154,13 @@ Before the silence, we ask what song must cross morning.
 
 This is why the group sits inside apocalypse-related coverage. Its faith is organized around the possibility that civilization, or a smaller human world, may end. Unlike Mercy of the Quiet Sun, it does not encourage surrender. Unlike Last Bell, it does not primarily warn. It records.
 
-## Assessed Objective
+### Assessed Objective
 
 A.C.T assesses that the Archivists seek to preserve continuity across endings. Their objective is to keep enough record that a survivor, descendant, investigator, or future community can prove what happened and who was there. The order does not seek custody of anomalies as objects. It seeks custody of proof.
 
 This objective supports A.C.T when official records fail. It conflicts with A.C.T when proof itself is dangerous. A dawn copy may preserve an entity's route, a trigger phrase, a sealed Site nickname, an unamnesticized witness account, or the location of a shelter that must stay hidden. The Archivists often accept sealing. They resist destruction.
 
-## Anomalous Capability Assessment
+### Anomalous Capability Assessment
 
 The Archivists are assigned **Handler** capability. They handle anomalous records, living archives, vanishing maps, memory-reactive documents, dead-town ledgers, and final messages with restricted effects. A.C.T has not confirmed that the order creates most of these effects, though some preservation rites may strengthen document survival.
 
@@ -177,7 +177,7 @@ Confirmed or strongly assessed capabilities include:
 
 The order is not assessed as Practitioner at this time. Its rites may matter, but the primary capability is disciplined handling of dangerous records.
 
-## Secrecy and Civilian Exposure
+### Secrecy and Civilian Exposure
 
 The order is **Leaking** because preservation resists erasure. The Archivists do not usually stage public disclosures. They keep records alive in controlled or semi-controlled channels. A box in a church basement, a song taught to one family, a sunrise-stamped map, or a recipe copied before evacuation can later contradict an official account.
 
@@ -185,15 +185,15 @@ This leakage can be humane and dangerous at the same time. A family may deserve 
 
 ---
 
-# OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
+## OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
 
-## Operational Regions
+### Operational Regions
 
 The Archivists operate transnationally through disaster zones, erased towns, refugee routes, old schools, hospitals, churches, civic archives, closed newspapers, port registries, rural map rooms, and post-breach shelters. Site 03 is the primary review point because memory, information, archive stability, and document survival are central. Site 01 attaches when public records, media, courts, and city archives are involved. Site 05 attaches when coastal, maritime, volcanic, or deep-earth disasters threaten whole communities.
 
 The order often appears after a warning but before official cleanup. This makes it difficult for field teams to distinguish disaster volunteers from trained archive personnel.
 
-## Known Assets and Holdings
+### Known Assets and Holdings
 
 Known or assessed assets include:
 
@@ -211,7 +211,7 @@ Known or assessed assets include:
 
 A.C.T has recovered several inactive dawn copies and one sealed witness box. Opening active boxes requires Central Archive and Subject Care review.
 
-## Operating Method
+### Operating Method
 
 A typical Archivist intervention begins when a place, people, or record set is at risk of ending. Members collect mundane detail first: names, meals, street turns, children's drawings, house colors, nicknames, work rosters, boat names, animal counts, and local songs. This method is intentional. Mundane details help prove reality after official or anomalous records fail.
 
@@ -228,9 +228,9 @@ A.C.T treats the final instruction as cooperative if the box is surrendered for 
 
 ---
 
-# HISTORY WITH A.C.T
+## HISTORY WITH A.C.T
 
-## Contact History
+### Contact History
 
 A.C.T first encountered the Archivists as anomalously durable civilian records after covered disasters. Food-bank ledgers preserved names removed from casualty lists. Local maps retained erased streets. Family recordings survived house fires that destroyed all ordinary media. Early cases were treated as archive anomalies, local resistance, or incomplete cleanup.
 
@@ -242,7 +242,7 @@ A note inside the first box read:
 You may seal this. You may not make them never-having-lived.
 ```
 
-## Current Relationship
+### Current Relationship
 
 The current relationship is **WORK**. A.C.T and the Archivists have a practical exchange pattern: the order provides records A.C.T cannot recover alone, and A.C.T provides sealing, hazard review, and sometimes protection for vulnerable archives. The relationship remains limited because the Archivists will hide records they believe A.C.T intends to destroy completely.
 
@@ -250,19 +250,19 @@ A.C.T must keep the order distinct from Choir of the Unforgotten Name. The Choir
 
 ---
 
-# A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
+## A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
 
-## Responsible Jurisdiction
+### Responsible Jurisdiction
 
 Primary jurisdiction rests with Central Archive, Intelligence Division, Civil Covert Division, and Site 03 Review. Recovery Division attaches when archived material identifies missing persons or safe routes. Subject Care attaches when witness boxes contain last words, child records, memory fragments, or family testimony. Legal Liaison attaches when public records, genealogy, property claims, or death certificates are affected.
 
-## Posture Implementation
+### Posture Implementation
 
 A.C.T posture is **COOPERATED / MONITOR / MISDIRECT**. Cooperation is authorized for missing-identity reconstruction, town-loss review, sealed witness-box transfer, language preservation, map comparison, and post-disaster record recovery. Monitoring includes dawn copies, preservation houses, archive vans, orange file ties, witness boxes, final ledgers, and local history projects that appear near anomaly events. Misdirection is authorized when public archival projects must be separated from active containment details without destroying survivor proof.
 
 A.C.T may accept Archivist materials into sealed custody if the record can remain existent. Orders to destroy must be justified by active hazard, not convenience.
 
-## Response Limits and Red Lines
+### Response Limits and Red Lines
 
 A.C.T will not permit the Archivists to circulate active hazard names, Site routes, entity triggers, protected witness identities, or maps to unsafe locations. A.C.T will not permit preservation houses to hide fugitives under archive status or sell records to market GOIs. A.C.T will not allow child last-words to be used as recruitment material.
 
@@ -270,9 +270,9 @@ A.C.T will also not destroy a final civilian record solely because it complicate
 
 ---
 
-# OPERATIONAL RECORDS
+## OPERATIONAL RECORDS
 
-## Restricted Operational Extract
+### Restricted Operational Extract
 
 ```text
 DAWN COURIER MANIFEST: AFDN / FINAL DAWN STACK
@@ -312,9 +312,9 @@ The ledger fragment remains under Site 03 review because the well line produced 
 
 ---
 
-# INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
+## INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
 
-## Confirmed Operational Facts
+### Confirmed Operational Facts
 
 - Archivists of the Final Dawn is an outside cultic preservation order and not an A.C.T archive branch.
 - The order collects and protects records from communities, witnesses, and locations at risk of ending or erasure.
@@ -322,13 +322,13 @@ The ledger fragment remains under Site 03 review because the well line produced 
 - Some preserved materials contain active hazard details and cannot circulate without review.
 - The order's relationship to A.C.T is Work because practical cooperation exists but destruction of records remains unacceptable to the Archivists.
 
-## Active Intelligence Assessment
+### Active Intelligence Assessment
 
 A.C.T assesses the Archivists as a specialized WORK apocalypse-related GOI. Its strongest value is preservation across loss. Its strongest risk is preservation without sufficient containment filtering. The order's documents can restore the human reality of a disaster, but they can also restore a dangerous route, phrase, or memory that A.C.T sealed for cause.
 
 The group should not be written as a library version of the Choir. Its method is controlled archive, not mass song. It should not be written as passive historians. The Archivists move before cleanup, copy under danger, and hide records when necessary. Their faith is not that the end should happen. Their faith is that if the end happens, someone must still be able to read the names.
 
-## Persistent Questions
+### Persistent Questions
 
 - What is the First Shelf: person, room, council, founding ledger, or anomalous archive condition?
 - Can dawn copies preserve records against 004-series amnestic effects, or only against civic deletion and public narrative collapse?
@@ -339,19 +339,19 @@ The group should not be written as a library version of the Choir. Its method is
 - What does the ledger category too late mean?
 - Can hostile market groups purchase or steal dawn copies for leverage over survivor families?
 
-## Intelligence Confidence
+### Intelligence Confidence
 
 Moderate. Recovered dawn copies, courier manifests, repeated marks, useful records, and consistent archive language confirm organizational reality. Confidence is limited by hidden preservation houses, uncertain anomalous durability, and the order's refusal to reveal records it believes A.C.T would destroy. Confidence may rise if A.C.T completes a controlled dawn-box transfer, identifies the First Shelf, or verifies whether active witness boxes can be safely duplicated.
 
 ---
 
-# CROSS-REFERENCE STATUS
+## CROSS-REFERENCE STATUS
 
-## Anomaly and Record Relationship
+### Anomaly and Record Relationship
 
 Archivists of the Final Dawn is an organization and therefore belongs in the GOI archive. Individual dawn copies, witness boxes, living ledgers, map skins, song cylinders, language cards, preservation rooms, or final-record effects may require separate anomaly, incident, witness, archive, or recovered-document files. The organization record must not replace hazard review of specific records.
 
-## Related A.C.T Records
+### Related A.C.T Records
 
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
@@ -363,13 +363,13 @@ Archivists of the Final Dawn is an organization and therefore belongs in the GOI
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md`
 - Restricted apocalypse, archive, witness, missing-person, erased-town, language-loss, and final-record case chains held under Central Archive routing.
 
-## Dual Filing
+### Dual Filing
 
 Under review. The Archivists are a cultic GOI, but specific documents, rooms, boxes, maps, recordings, or language cards may require separate filing. Dual filing is mandatory when an Archivist asset restores memory, preserves a deleted location, changes reader perception, contains active hazard names, or remains legible after controlled destruction of all ordinary copies.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 ```text
 FILE CREATED:            14/09/2026

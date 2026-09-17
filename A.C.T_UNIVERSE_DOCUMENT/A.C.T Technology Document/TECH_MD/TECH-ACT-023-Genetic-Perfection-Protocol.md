@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - GENETIC PERFECTION PROTOCOL
+### TECHNOLOGY RECORD - GENETIC PERFECTION PROTOCOL
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Medical / Transformation Review / Biological Containment / Engineering / Site Command  
 **Authority:** Medical Division, Transformation Review Board, and Central Archive
 
-### Archive Note
+#### Archive Note
 The Genetic Perfection Protocol is the twenty-third main A.C.T technology expanded into an individual record. The Master Catalog defines it as an automated medical bay using targeted viral vectors to mend genetic flaws or transmutation-linked cellular decay. The technological timeline records 2023 as the deployment of automated medical suites designed to mend total DNA-level rewrites in under five minutes. The visual guide describes a large egg-shaped medical pod with a clear glass lid, internal laser-point bio-scanners that map DNA in real time, biological scrubbers cycling pink mist every sixty seconds, and a side display showing Mending Progress and a redacted bloodstream concentration.
 
 GPP is not a beauty machine and not a promise that every transformation can be reversed. The word perfection is historical naming, not ethical permission. The protocol attempts to repair survivable biological corruption toward an approved patient baseline. It must not be used to decide what a person should have been.
@@ -47,7 +47,7 @@ RESTORE THE PATIENT, NOT THE DOCTOR'S IDEA OF THE PATIENT.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 GPP is an automated medical suite for extreme genetic damage, DNA-level rewrite, transmutation-linked decay, unstable cellular substitution, and anomalous biological drift. It scans a patient's current body, compares the result to approved baseline records, and releases controlled corrective agents through a sealed pod atmosphere. The pink mist is not cosmetic vapor. It carries measured biological correction support while internal scrubbers cycle waste, failed vectors, and shed anomalous residue.
 
@@ -64,7 +64,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND CUSTODY
+## ORIGIN AND CUSTODY
 
 GPP emerged from A.C.T's long conflict between survival and identity. Some anomalies do not injure the body; they edit it. Earlier medical practice could keep a patient alive while the patient's cells forgot what species, age, organ pattern, or genome they belonged to. Transformation Review demanded that any automated repair suite carry ethical constraints as strongly as medical ones.
 
@@ -74,7 +74,7 @@ Viral-vector libraries are Level 5 because a hostile or careless repair vector c
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard GPP suite centers on a large egg-shaped pod with a clear glass lid. The lid allows visual medical monitoring while preserving sealed atmosphere. Internal laser-point bio-scanners map DNA and tissue state in real time. Biological scrubbers cycle the pink mist every sixty seconds, removing failed vector residue and keeping concentration within narrow limits. A side screen displays Mending Progress, vital signs, baseline confidence, and redacted bloodstream concentration.
 
@@ -95,7 +95,7 @@ The patient is never alone with the machine as a matter of procedure, even when 
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before use, Medical verifies patient identity, current danger, baseline availability, consent or emergency authority, and aftercare capacity. Transformation Review approves the target: restore baseline, halt decay, stabilize altered state, or preserve for later decision. The patient is placed in the pod, the seal is checked, scanners begin mapping, and the mist cycle starts only after the baseline lock confirms.
 
@@ -105,7 +105,7 @@ Do not use GPP for enhancement, cosmetic correction, convenience, punishment, in
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 GPP cannot restore a missing soul, recover erased memory by itself, reverse every transformation, distinguish identity from biology without records, or guarantee that the pre-anomaly baseline is ethically correct. It may fail when the anomaly defines itself through genetic change, when the patient has multiple lawful baselines, or when repair would kill the adapted survivor.
 
@@ -113,20 +113,20 @@ Known failure modes include overcorrection, baseline mismatch, vector rebellion,
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## GPP-2023 First Five-Minute Rewrite
+### GPP-2023 First Five-Minute Rewrite
 The first full emergency deployment repaired severe DNA-level decay inside the advertised five-minute window. The patient survived, but later described the experience as hearing their body vote without them. Medical added mandatory psychological aftercare to every high-speed correction.
 
-## GPP-2024 Baseline Mismatch Pause
+### GPP-2024 Baseline Mismatch Pause
 A transformed staff member entered the pod with two valid baseline records after prior anomaly exposure. The machine attempted to reconcile both. Medical halted the mist cycle before irreversible correction. Transformation Review now selects one treatment aim before pod activation.
 
-## GPP-2025 Scrubber Pinkout
+### GPP-2025 Scrubber Pinkout
 A scrubber fault caused the mist to become visually dense and conceal the patient for nineteen seconds. No injury occurred. Engineering added visibility thresholds and the rule that a pod that hides the patient has already failed supervision.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Medical operates GPP suites and manages aftercare. Transformation Review approves baselines and irreversible repair aims. Engineering maintains pods and vector systems. Biological Containment supports hazardous patients. Site Command authorizes emergency mass exposure use. Ethics review is attached when patient consent is impaired, disputed, or unavailable.
 
@@ -134,7 +134,7 @@ Standing reminder: repaired tissue is not automatically restored life. Ask the p
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 13;
 - ACT Technological Visual Reference Guide, Item 13;
@@ -145,7 +145,7 @@ Standing reminder: repaired tissue is not automatically restored life. Ask the p
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How many baselines can one patient lawfully possess?
 - Can a transformation become part of the patient rather than damage to be corrected?
@@ -156,7 +156,7 @@ Standing reminder: repaired tissue is not automatically restored life. Ask the p
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Medical Division / Transformation Review Board / Central Archive  

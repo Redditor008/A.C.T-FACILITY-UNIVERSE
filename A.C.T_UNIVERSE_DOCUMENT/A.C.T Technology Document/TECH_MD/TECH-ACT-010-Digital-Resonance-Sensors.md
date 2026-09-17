@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - DIGITAL RESONANCE SENSORS
+### TECHNOLOGY RECORD - DIGITAL RESONANCE SENSORS
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Survey / Recovery / Engineering / Containment / Maritime Observation / Archive  
 **Authority:** Survey Division, Engineering Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Digital Resonance Sensors are the tenth main A.C.T technology expanded into an individual record. The Master Catalog identifies them as high-sensitivity arrays used to hear the unique causal pulse of unclassified artifacts so Field Type may be determined prior to contact. The visual guide describes the field wand as a blue polymer instrument with a miniaturized spectrogram display, an intensity trigger that vibrates the user's arm, a tuning-fork array that hums within two meters of a fracture, and a small speaker that emits mechanical ticking when a causal pulse is detected.
 
 DRS use appears across anomaly work. Death Angler containment uses resonance sensors with deep pressure tanks and acoustic dampeners because the subject may be visually absent while still biologically present. The pre-capture Sunda Trench survey recorded DRS detection of a 10.4-ton biological signature twenty meters in front of a drone while cameras showed only clear water. HIGENMARU-KORIN storage uses DRS monitoring for crimson-frequency vibration. Earlier technology records also distinguish DRS from ARM and QNB: DRS detects a pulse; it does not hide a site or preserve a record.
@@ -47,7 +47,7 @@ MEASURE THE PULSE BEFORE THE HAND TOUCHES THE UNKNOWN.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 A Digital Resonance Sensor detects anomalous causal activity before direct contact. It listens for a pulse, rhythm, tick, hum, pressure-change, vibration, or field distortion that does not belong to ordinary matter. The word digital refers to the processing and display layer. The word resonance refers to the fact that the device is not merely detecting heat, radiation, electricity, or movement. It is listening for how an object argues with local causality.
 
@@ -64,7 +64,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND CUSTODY
+## ORIGIN AND CUSTODY
 
 DRS development came from a repeated A.C.T problem: visual evidence was often late, false, or bait. Some anomalies remained invisible until they attacked. Some looked harmless while emitting dangerous causal pressure. Some had no visible form until a human observer supplied one. Early survey teams used radiation meters, microphones, thermal cameras, sonar, and improvised RSA feedback. The modern DRS consolidated those lessons into a field instrument that treats anomalous presence as a pattern of relationship rather than a simple physical signal.
 
@@ -74,7 +74,7 @@ DRS calibration libraries are restricted because hostile groups could use them t
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 The common field model is a blue polymer wand with a protected handle display. The miniaturized spectrogram display shows pulse shape, strength, rhythm, and comparison warnings. The intensity trigger vibrates the user's arm when resonance crosses a configured threshold. The tuning-fork array at the front hums when within two meters of a fracture or strong causal pulse. A small speaker may tick, click, or pulse when audio output is safer than visual display.
 
@@ -95,7 +95,7 @@ Fixed models use wall mounts, pressure-hardened housings, tank brackets, or lock
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 DRS scanning begins before contact, naming, opening, feeding, or direct observation. The operator takes a baseline reading from the empty environment, scans the target perimeter, then scans the target itself from the approved distance. If the device hums, ticks, vibrates, or reports mismatch, the operator calls out the result in plain field language. Uncertain readings are logged as uncertain. Staff must not force the device to give a clean answer by changing distance, angle, or library until the result looks comfortable.
 
@@ -105,7 +105,7 @@ Do not use DRS as a wand of permission. A low reading does not make an object sa
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 Digital Resonance Sensors may fail against anomalies that mimic environmental rhythm, distribute their pulse through several objects, sleep until contact, attack the sensor channel, or possess no stable causal pulse. Heavy RSA fields, CSG output, sonar return, active QNB equipment, Causal-Reactive Mercury, and hostile jamming may distort readings. Biological anomalies with adaptive imperceptibility may let the sensor detect mass while still hiding form, intention, lure, or attack timing.
 
@@ -113,20 +113,20 @@ Common operator errors include confusing loud resonance with higher threat, trea
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## DRS-1914 Deep Hook Misread
+### DRS-1914 Deep Hook Misread
 Early resonance equipment during maritime pursuit of Death Angler detected a strong biological return but could not separate lure activity from body position. Operators closed distance to resolve the contradiction. Later doctrine states that unresolved sensor disagreement over predator location requires withdrawal or remote observation, not curiosity.
 
-## DRS-2003 Crimson Frequency Lockdown
+### DRS-2003 Crimson Frequency Lockdown
 A HIGENMARU-KORIN storage locker produced a weak crimson-frequency vibration during inventory. The visual inspection showed the weapon properly sheathed. DRS monitoring triggered lockdown anyway. Review found a slight phase-lock drift in the scabbard. The event confirmed that quiet resonance alarms must be treated as real until disproven.
 
-## DRS-2024 Optical Void Confirmation
+### DRS-2024 Optical Void Confirmation
 The Sunda Trench drone survey recorded a 10.4-ton biological signature in apparently empty water. The drone was later lost, but the DRS record proved that the subject's invisibility did not erase its causal mass. Maritime Observation now preserves DRS output even when all other instruments fail.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Survey Division owns first-contact scan doctrine. Recovery carries field units during unknown-object approach. Engineering maintains calibration and repairs damaged tuning arrays. Containment mounts fixed sensors on lockers, tanks, vault doors, and biological enclosures. Maritime Observation uses pressure-rated arrays with sonar packages. Archive preserves resonance output with incident files and flags unexplained changes as classification evidence.
 
@@ -134,7 +134,7 @@ Standing reminder: if the sensor hears something the eyes deny, do not punish th
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 10;
 - ACT Technological Visual Reference Guide, Item 10;
@@ -146,7 +146,7 @@ Standing reminder: if the sensor hears something the eyes deny, do not punish th
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can an anomaly develop a false clean pulse after repeated DRS exposure?
 - How many Field Type suggestions can be trusted before human review becomes mandatory?
@@ -158,7 +158,7 @@ Standing reminder: if the sensor hears something the eyes deny, do not punish th
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Survey Division / Engineering Division / Central Archive  

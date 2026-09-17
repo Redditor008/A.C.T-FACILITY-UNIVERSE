@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - THERMAL-LURE BEACON
+### TECHNOLOGY RECORD - THERMAL-LURE BEACON
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Subject Care / Biological Containment / Recovery / Medical / Site-04 Command  
 **Authority:** Subject Care Division, Biological Containment Division, Engineering Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Thermal-Lure Beacon is the twenty-fifth main A.C.T technology expanded into an individual record. The Master Catalog defines it as tunable infrared projection arrays used for non-hostile relocation of ectothermic subjects. The visual guide describes a floor-standing industrial lamp with a folding Focus Hood, a directional dark orange heat beam, a Digital Heat-Dial, a redacted-grade cooling unit, and a temperature range beginning at 20 degrees C and rising to restricted levels. Multiple subject files already rely on the system. Crystal Butterfly breach procedure uses Thermal-Lure Beacons because the colony prioritizes heat over aggression. Spinosaurus containment uses them to guide the subject into feeding and medical bays while maintaining a 30 degrees C behavioral baseline. Toy Dragon recovery uses them or fatty-fruit lures because the subject is non-hostile and easily guided by preferred stimuli.
 
 TLB is not a weapon. It is a controlled false sun used to move a body without teaching it fear.
@@ -47,7 +47,7 @@ GUIDE THE ANIMAL BEFORE THE ANIMAL NEEDS TO BE FORCED.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Thermal-Lure Beacons create a directional heat target that ectothermic, thermoregulatory, heat-curious, or heat-prioritizing subjects may choose over aggression, escape, feeding, or panic. The beacon projects a controlled infrared lure rather than a visible command. Proper use can move an organism toward a feeding bay, medical bay, return path, resting zone, collection point, or safe enclosure without gunfire, shouting, electric prods, or unnecessary sedation.
 
@@ -64,7 +64,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND CUSTODY
+## ORIGIN AND CUSTODY
 
 TLB development grew out of Subject Care doctrine. A.C.T needed tools between affection and violence. Ordinary heaters were too broad. Floodlights caused visual stress. Food lures taught dangerous bargaining. The modern beacon uses directional thermal output, focus hoods, and calibrated heat-dials so staff can create a temporary heat preference without turning the whole room into bait.
 
@@ -74,7 +74,7 @@ High-output settings are restricted because a lure bright enough to redirect an 
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard TLB is a floor-standing industrial lamp on a weighted base. The folding Focus Hood shapes the beam. The output appears dark orange when visible, though much of its lure value is infrared. A Digital Heat-Dial controls intensity and ramp speed. The base contains a redacted-grade cooling unit that prevents the housing from melting during sustained use. Field models have carry handles and locking legs. Habitat models may be wall or track mounted.
 
@@ -95,7 +95,7 @@ A clean beam is more important than a bright beam. Scatter can create several fa
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before use, staff confirm subject file, safe temperature range, route, destination, room humidity, and competing stimuli. The beacon is placed so the desired movement path is obvious to the subject and safe for staff. Operators raise temperature slowly unless breach procedure authorizes immediate output. The subject is given room to choose the lure. Crowding defeats the point.
 
@@ -105,7 +105,7 @@ Do not aim TLB at personnel, flammable storage, untreated containment glass, sle
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 TLB fails against subjects that are not heat-motivated, subjects in pain, starving predators, mating cycles, territorial defense, cold-resistant entities, heat-feeding hazards, and organisms that interpret warmth as prey. It may also produce accidental conditioning: a subject learns that heat appears before feeding, medicine, or containment closure.
 
@@ -113,20 +113,20 @@ Known failure modes include beam scatter, heat-dial drift, cooling failure, lure
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## TLB-2009 Split Beam Event
+### TLB-2009 Split Beam Event
 A damaged Focus Hood produced two thermal targets inside a habitat. The subject alternated between both until agitation rose. No breach occurred, but the event established mandatory beam-shape checks before use.
 
-## TLB-2024 Spinosaurus Bay Hesitation
+### TLB-2024 Spinosaurus Bay Hesitation
 A medical bay beacon ramped too quickly and created a heat spike above the subject's normal route preference. The Spinosaurus stopped at the threshold and struck the bay wall. Procedures now require slow ramping except during emergency redirection.
 
-## TLB-2025 Toy Dragon Food Association
+### TLB-2025 Toy Dragon Food Association
 Repeated pairing of beacon return with fatty-fruit reward caused the Toy Dragon to sit beside inactive units and refuse enrichment. Subject Care separated heat guidance from food reward in juvenile habitats.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Subject Care operates habitat beacons and trains handlers. Biological Containment approves subject profiles. Recovery uses portable beacons during field movement. Engineering maintains heat and cooling hardware. Medical attaches when thermoregulation affects treatment. Site Command authorizes high-output predator routing.
 
@@ -134,7 +134,7 @@ Standing reminder: a thermal lure is a promise of warmth. Do not make promises t
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 15;
 - ACT Technological Visual Reference Guide, Item 15;
@@ -145,7 +145,7 @@ Standing reminder: a thermal lure is a promise of warmth. Do not make promises t
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Which subjects learn thermal schedules faster than handlers expect?
 - Can a hostile organism fake heat preference to manipulate staff routing?
@@ -156,7 +156,7 @@ Standing reminder: a thermal lure is a promise of warmth. Do not make promises t
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Subject Care Division / Biological Containment Division / Central Archive  

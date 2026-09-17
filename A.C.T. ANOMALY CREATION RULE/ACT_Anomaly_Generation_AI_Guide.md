@@ -1,11 +1,11 @@
 # A.C.T Anomaly Generation AI Guide
-## Prompt/Reference Document for Generating New A.C.T Anomalies
+### Prompt/Reference Document for Generating New A.C.T Anomalies
 
 **Purpose:** This document is written for an AI that knows nothing about the A.C.T setting. Its job is to explain the world, the tone, the classification logic, and the expected output structure so the AI can generate new anomalies that fit the A.C.T universe.
 
 ---
 
-# 1. What Is A.C.T?
+## 1. What Is A.C.T?
 
 **A.C.T** stands for **Anomaly Containment Transformation**.
 
@@ -30,7 +30,7 @@ The organization protects the world, but it is willing to do cruel or ethically 
 
 ---
 
-# 2. The Tone of A.C.T Anomalies
+## 2. The Tone of A.C.T Anomalies
 
 When generating an anomaly for A.C.T, the tone should feel like:
 - clinical but ominous
@@ -50,7 +50,7 @@ Good A.C.T anomalies often involve at least one of the following:
 
 ---
 
-# 3. What Counts as an Anomaly in A.C.T?
+## 3. What Counts as an Anomaly in A.C.T?
 
 An anomaly can be:
 - an **object**
@@ -68,29 +68,29 @@ The anomaly does **not** need to be huge or apocalyptic to matter. Small anomali
 
 ---
 
-# 4. A.C.T Designation Rules
+## 4. A.C.T Designation Rules
 
-## 4.1 Main Designation Families
+### 4.1 Main Designation Families
 Use one of these formats:
 
 - `UFD-XX-###` = **Unknown Field Designation**
 - `AFD-XX-###` = **Anomaly Field Designation**
 - `ANM-##-##-XXXX` = fracture-sensitive anomaly designation
 
-### Use `UFD`
+#### Use `UFD`
 When the anomaly is:
 - newly discovered
 - incompletely understood
 - still under verification
 - unstable in category or identity
 
-### Use `AFD`
+#### Use `AFD`
 When the anomaly is:
 - confirmed as real
 - formally classified
 - part of the permanent archive
 
-### Use `ANM`
+#### Use `ANM`
 When the anomaly:
 - breaks normal documentation logic
 - has paradoxical containment behavior
@@ -99,7 +99,7 @@ When the anomaly:
 
 ---
 
-## 4.2 Field Type Codes
+### 4.2 Field Type Codes
 Use these codes in `UFD` and `AFD` files:
 
 - `OB` = Object
@@ -113,13 +113,13 @@ Use these codes in `UFD` and `AFD` files:
 - `NB` = Non-Natural Bio Hazard
 - `?.H` = Shifting Hazard
 
-### Example
+#### Example
 - `AFD-OB-117`
 - `UFD-ME-013`
 - `AFD-NB-004`
 - `AFD-CH-000`
 
-## 4.3 Field Type Examples
+### 4.3 Field Type Examples
 Use these examples as guidance:
 
 - **OB / Object** — a statue, relic, machine, paper, tool, weapon, container, or material with anomalous function
@@ -133,7 +133,7 @@ Use these examples as guidance:
 - **NB / Non-Natural Bio Hazard** — a plant, fungus, parasite, pathogen, body-fluid source, or impossible organism that violates normal biology
 - **?.H / Shifting Hazard** — an anomaly that changes category over time, resists stable definition, or behaves as more than one field type depending on state or observer
 
-## 4.4 Registry Band Selection
+### 4.4 Registry Band Selection
 Every new anomaly should identify its registry band before the file is drafted.
 
 Use these bands:
@@ -149,13 +149,13 @@ Do not treat a UFD and AFD with the same number as duplicates if they represent 
 
 ---
 
-# 5. Titles
+## 5. Titles
 Every anomaly should have:
 
 - **TITLE I** = formal/common title
 - **TITLE II** = alternate, mythic, poetic, recovered, or internal title
 
-### Good examples
+#### Good examples
 - **TITLE I:** The Forgetting Bloom
 - **TITLE II:** NEMNOLIA, THE GOLDEN VEIL
 
@@ -167,7 +167,7 @@ TITLE II should add atmosphere, myth, or recovered identity.
 
 ---
 
-# 6. Containment Class System
+## 6. Containment Class System
 The containment class describes how the anomaly relates to containment.
 
 Use one of these:
@@ -185,12 +185,12 @@ Use one of these:
 - **TIAMAT** — beyond normal frame of reference
 - **[BLANK]** — engagement itself is dangerous
 
-### Choose carefully
+#### Choose carefully
 Do not assign classes randomly. The class should match the anomaly’s operational behavior.
 
 ---
 
-## 6.1 Containment Class Examples
+### 6.1 Containment Class Examples
 To help the AI choose correctly, here are quick example-use cases for each containment class.
 
 - **INERT** — a sealed object that does nothing unless directly activated and will remain undisturbed in storage
@@ -206,7 +206,7 @@ To help the AI choose correctly, here are quick example-use cases for each conta
 - **TIAMAT** — a world-scale or conceptually overwhelming anomaly beyond normal containment frame, often managed through state-preservation rather than ordinary enclosure
 - **[BLANK]** — an anomaly where interaction itself is the danger, meaning ordinary containment procedure may be impossible or self-defeating
 
-# 7. Threat Level System
+## 7. Threat Level System
 A.C.T uses **0 to 10** for anomaly threat.
 
 - **0** = harmless
@@ -223,7 +223,7 @@ A.C.T uses **0 to 10** for anomaly threat.
 
 Do not overuse 8–10. Most anomalies should fall in the 1–5 range.
 
-## 7.1 Threat Level Examples
+### 7.1 Threat Level Examples
 Use these examples as guidance:
 
 - **0** — a harmless archive oddity, low-risk object, or controlled anomaly that poses no meaningful danger to life or environment
@@ -240,10 +240,10 @@ Use these examples as guidance:
 
 ---
 
-# 8. Fracture Index
+## 8. Fracture Index
 Some anomalies need fracture classification.
 
-## 8.1 Containment Fracture
+### 8.1 Containment Fracture
 Use when the anomaly breaks normal containment logic:
 
 - **QUESTIONED** — the anomaly is so passive, so unclear, or so functionally inert that containment itself feels doubtful, symbolic, or unfinished
@@ -252,7 +252,7 @@ Use when the anomaly breaks normal containment logic:
 - **UNAUTHORED** — the anomaly appears to rewrite procedure, records, or the rules used to describe it
 - **SCHRÖDINGER** — the anomaly is simultaneously contained and not contained, with observation affecting which state applies
 
-## 8.2 Sub-Threat Fracture
+### 8.2 Sub-Threat Fracture
 Use when the anomaly’s threat behaves strangely:
 
 - **HARMLESS** — the anomaly produces little or no direct damage despite classification concern
@@ -266,7 +266,7 @@ If fracture logic is not needed, use:
 
 ---
 
-# 9. Transformation Viability
+## 9. Transformation Viability
 A.C.T cares deeply about whether an anomaly can be transformed.
 
 Use one of these:
@@ -280,7 +280,7 @@ Use one of these:
 
 A.C.T anomalies often become more interesting when this field matters.
 
-## 9.1 Transformation Viability Examples
+### 9.1 Transformation Viability Examples
 Use these examples as guidance:
 
 - **INVIOLABLE** — a sleeping god, a world-anchor, or any anomaly whose alteration would itself be catastrophic
@@ -291,7 +291,7 @@ Use these examples as guidance:
 - **REPURPOSED** — an anomaly actively converted into a tool, medicine, containment aid, or controlled strategic function
 - **INTEGRATED** — an anomaly so thoroughly adapted into Facility infrastructure that it now functions as part of A.C.T’s normal buried systems
 
-## 9.5 Lifecycle State
+### 9.5 Lifecycle State
 Lifecycle State records where the anomaly currently stands in A.C.T custody, knowledge, or loss. It is separate from Containment Class and Transformation Viability.
 
 Use one of these:
@@ -312,7 +312,7 @@ Use one of these:
 
 ---
 
-# 10. Site Integration
+## 10. Site Integration
 Modern A.C.T anomaly files should identify where the anomaly belongs inside the wider site network.
 
 Use fields such as:
@@ -345,7 +345,7 @@ Current recognized sub-site network includes:
 - **ACT-SUB-04-BR-C** — Hollow Canopy Enclosure; jurisdiction type: fixed flora enclosure, in-place biological observation
 - **ACT-SUB-05-ID-C** — Ash Tide Watchpoint; jurisdiction type: coastal watch, maritime relay, volcanic observation support
 
-## 10.1 Site Type Examples
+### 10.1 Site Type Examples
 Use these examples as guidance:
 
 - **Primary Facility** — the original abyss-founded central body of A.C.T, used for foundational records, major command, abyssal oversight, and the deepest containment logic
@@ -361,7 +361,7 @@ This helps make the anomaly feel integrated into the A.C.T setting instead of fl
 
 ---
 
-# 10.5 Hazard Tags
+## 10.5 Hazard Tags
 Hazard Tags are controlled routing/search markers. They should describe proven hazards, not vibes.
 
 Use the smallest useful set from these families:
@@ -384,7 +384,7 @@ HAZARD TAGS: COG-MEMORY / TEMP-PRE-ECHO / STR-ARCHIVE-DRIFT
 
 ---
 
-# 11. Observation and Handling Restrictions
+## 11. Observation and Handling Restrictions
 Good A.C.T anomalies often have specific restrictions.
 
 Possible restrictions include:
@@ -404,19 +404,19 @@ Use only the restrictions that fit the anomaly.
 
 ---
 
-# 12. What Makes a Good A.C.T Anomaly?
+## 12. What Makes a Good A.C.T Anomaly?
 A good A.C.T anomaly should usually have:
 
-## 12.1 A clear core effect
+### 12.1 A clear core effect
 What does it do?
 
-## 12.2 A containment problem
+### 12.2 A containment problem
 Why is it difficult, strange, or costly to contain?
 
-## 12.3 A secondary complication
+### 12.3 A secondary complication
 What makes it more dangerous than it first appears?
 
-## 12.4 A setting hook
+### 12.4 A setting hook
 How does it fit the world of A.C.T?
 - could it be transformed?
 - does it connect to memory?
@@ -424,12 +424,12 @@ How does it fit the world of A.C.T?
 - does it reveal something about reality?
 - does it tie to GOIs, sites, or deeper doctrine?
 
-## 12.5 A reason to exist beyond shock value
+### 12.5 A reason to exist beyond shock value
 The anomaly should be conceptually memorable, not just grotesque or overpowered.
 
 ---
 
-# 13. What to Avoid
+## 13. What to Avoid
 Avoid anomalies that are:
 - too generic
 - just a copy of a famous SCP
@@ -443,40 +443,40 @@ Avoid writing anomalies that feel like random horror props. They should feel lik
 
 ---
 
-# 14. Continuity and Generation Rules
+## 14. Continuity and Generation Rules
 When generating multiple anomalies for A.C.T, the AI must preserve setting consistency across time, geography, and personnel.
 
-## 14.1 Date Logic
+### 14.1 Date Logic
 - dates on the document must make sense internally
 - detection date, verification date, file creation date, and incident history should follow believable order
 - an anomaly should not be verified before it is detected
 - a file should not be updated before it exists
 - if the anomaly is historical, its date logic should reflect the era properly
 
-## 14.2 Date Spread Rule
+### 14.2 Date Spread Rule
 - anomaly dates must not all cluster in one specific decade
 - the range of generated anomalies should be spread across different years and decades when appropriate
 - if generating a batch of anomalies, avoid making every file originate in the same narrow time window unless the batch is intentionally tied to one event
 - A.C.T history is long, so anomaly records should reflect that depth
 
-## 14.3 Personnel Name Diversity
+### 14.3 Personnel Name Diversity
 - employee names must come from a broader country pool
 - do not overuse one naming style, one ethnicity, or one region for every researcher, operator, medic, or administrator
 - staff names should reflect that A.C.T is a multinational hidden institution
 - names should fit role, rank, and tone, but still vary naturally across the archive
 
-## 14.4 Repeated Name Rule
+### 14.4 Repeated Name Rule
 - if a staff name appears in more than one anomaly file, there must be a reason
 - repeated names should imply connection, such as the same researcher, same archive reviewer, same recovery operator, same medical specialist, or the same command authority
 - do not reuse names randomly across unrelated files
 
-## 14.5 Geographic Spread Rule
+### 14.5 Geographic Spread Rule
 - anomaly regions must not all be from one country
 - avoid making every anomaly originate from the same nation or same local region unless the generation request specifically requires it
 - A.C.T is global, so anomaly origins, recovery zones, and containment routes should reflect multiple countries and multiple regions
 - if a location repeats, there should be a meaningful narrative, doctrinal, or operational reason
 
-## 14.6 Batch Generation Consistency
+### 14.6 Batch Generation Consistency
 If generating multiple anomaly files at once, the AI should vary:
 - date of detection
 - country of origin
@@ -490,10 +490,10 @@ This helps the archive feel like a real living system rather than one repeated t
 
 ---
 
-# 15. Preferred Output Format
+## 15. Preferred Output Format
 When generating an anomaly, prefer this structure:
 
-## Required Fields
+### Required Fields
 - DESIGNATION
 - REGISTRY BAND
 - TITLE I
@@ -525,7 +525,7 @@ You may generate it either as:
 
 ---
 
-# 16. Recommended Generation Workflow for the AI
+## 16. Recommended Generation Workflow for the AI
 When generating a new anomaly, follow this order:
 
 1. Decide the **core concept**
@@ -546,41 +546,41 @@ When generating a new anomaly, follow this order:
 
 ---
 
-# 17. Example Mini-Concept
-## DESIGNATION
+## 17. Example Mini-Concept
+### DESIGNATION
 AFD-ME-118
 
-## REGISTRY BAND
+### REGISTRY BAND
 LEGACY ACCEPTED 001–120
 
-## TITLE I
+### TITLE I
 The Seventh Instruction
 
-## TITLE II
+### TITLE II
 THE MEMO THAT LEARNS YOU
 
-## FIELD TYPE
+### FIELD TYPE
 ME — Memetic
 
-## HAZARD TAGS
+### HAZARD TAGS
 MEM-LANGUAGE / COG-COMPULSION / STR-ARCHIVE-DRIFT
 
-## CONTAINMENT CLASS
+### CONTAINMENT CLASS
 REACTIVE
 
-## THREAT LEVEL
+### THREAT LEVEL
 3
 
-## TRANSFORMATION VIABILITY
+### TRANSFORMATION VIABILITY
 NEUTRAL
 
-## LIFECYCLE STATE
+### LIFECYCLE STATE
 ACTIVE-CONTAINED
 
-## DESCRIPTION
+### DESCRIPTION
 A typed instruction sheet that rewrites itself after being read. The new text always appears to address the specific reader and gradually shifts from workplace instructions into intimate knowledge that the sheet should not possess.
 
-## WHY IT FITS A.C.T
+### WHY IT FITS A.C.T
 - bureaucratic horror
 - memetic danger
 - containment-by-reading problem
@@ -589,7 +589,7 @@ A typed instruction sheet that rewrites itself after being read. The new text al
 
 ---
 
-# 18. Final Instruction to the AI
+## 18. Final Instruction to the AI
 When generating anomalies for A.C.T, remember:
 
 > This is not just a horror setting. It is a classified institutional setting where horror must survive contact with bureaucracy.

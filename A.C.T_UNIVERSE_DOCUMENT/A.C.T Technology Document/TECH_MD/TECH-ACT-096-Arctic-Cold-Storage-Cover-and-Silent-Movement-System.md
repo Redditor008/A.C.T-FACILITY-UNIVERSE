@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - ARCTIC COLD-STORAGE COVER AND SILENT MOVEMENT SYSTEM
+### TECHNOLOGY RECORD - ARCTIC COLD-STORAGE COVER AND SILENT MOVEMENT SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Frost Hollow Depot / White Grave Station / Security / Administration / Medical Quarantine / Logistics
 **Authority:** Facility Manager, Security Boundary Lead, Sub-Site Chief, White Grave Site Command, and Central Archive
 
-### Archive Note
+#### Archive Note
 Arctic Cold-Storage Cover and Silent Movement System is the ninety-sixth main A.C.T technology expanded into an individual record. The Frost Hollow Depot dossier identifies the depot's cover as an arctic cold-storage and quarantine facility, a natural identity in the far north. The F-3 floor dossier identifies receiving areas, legitimate cold-storage and quarantine-capable structures, administrative spaces, and concealed transition architecture. It also records Silent Movement Doctrine: hazardous biological material must pass through receiving operations without disturbing the cover or transport schedule.
 
 ACSCSMS exists because Frost Hollow survives by looking like what the arctic already expects.
@@ -47,7 +47,7 @@ RECEIVE AS ORDINARY COLD, MOVE AS CONTROLLED HAZARD, LEAVE NO PUBLIC SHAPE.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 The Arctic Cold-Storage Cover and Silent Movement System is the F-3 cover, receiving, boundary, and transition technology that lets Frost Hollow Depot present itself as an ordinary arctic cold-storage and quarantine-capable support facility while moving hazardous biological material into the buried depot below. It combines receiving operations, cold-storage structures, administrative cover, transport-arrival monitoring, concealed transition points, surface incident response, and silent movement routing.
 
@@ -57,7 +57,7 @@ Approved roles include legitimate receiving operation, cold-storage cover mainte
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Frost Hollow was built to reduce seasonal over-concentration at White Grave Station. That mission demanded a surface facility capable of receiving hazardous organic material without exposing White Grave's transfer corridors or the depot's buried work. The chosen cover was deliberately ordinary: an arctic cold-storage facility with quarantine capability.
 
@@ -65,7 +65,7 @@ The F-3 dossier records that the cover's strength is naturalness. In the far nor
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 An ACSCSMS installation includes arctic receiving bays, legitimate cold-storage rooms, quarantine-capable surface structures, administrative offices, vehicle approaches, loading equipment, concealed transition controls, boundary monitoring, surface communication desks, weather-hardening systems, and emergency seal points. It is designed so that surface traffic and buried-depot traffic cannot be easily distinguished.
 
@@ -86,7 +86,7 @@ The system's best evidence is the absence of a memorable story about the facilit
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 During routine operation, Facility staff run legitimate cold-storage receiving, administration, logistics, and communication work. Security Boundary staff monitor receiving traffic, transport arrivals, concealed transition points, and any visitor or contractor movement near restricted routes. Medical Quarantine and Logistics coordinate hazardous material arrival through approved silent movement windows.
 
@@ -94,7 +94,7 @@ When biological material must pass from surface receiving to the buried depot, A
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 ACSCSMS cannot make every hazardous movement ordinary. Unusual transport frequency, emergency sealing, visible medical quarantine behavior, inconsistent paperwork, repeated off-schedule arrivals, or unexplained disappearance of material can expose the cover. Weather can also damage timing: arctic conditions may delay legitimate traffic and make operational arrivals stand out.
 
@@ -102,20 +102,20 @@ Known failure modes include receiving-pattern exposure, concealed transition cha
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## ACSCSMS-Cover Facility Formation
+### ACSCSMS-Cover Facility Formation
 The Frost Hollow dossier records the arctic cold-storage and quarantine facility as the depot's cover identity. ACSCSMS was formalized when the depot's receiving role became permanent under White Grave command.
 
-## ACSCSMS-Silent Movement Drill
+### ACSCSMS-Silent Movement Drill
 A simulated hazardous arrival moved cleanly below but left a visible receiving anomaly. Current doctrine requires surface receiving records and internal hazard records to be separately correct.
 
-## ACSCSMS-Boundary Incident Review
+### ACSCSMS-Boundary Incident Review
 A transition exercise showed that ordinary loading equipment can expose concealed routing if staff behavior changes around it. Current response doctrine treats calm surface conduct as part of the transition system.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Security controls the boundary and transition points. Administration maintains cover paperwork and receiving records. Medical Quarantine coordinates hazardous material movement. Logistics maintains transport timing and cold-chain plausibility. White Grave Site Command authorizes disposition and disappearance actions when material must be silently removed from the transport chain.
 
@@ -123,7 +123,7 @@ ACSCSMS doctrine holds that Frost Hollow's cover is strongest when the cold rout
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SUB-02-RU-N Frost Hollow Depot Sub-Site Dossier;
 - ACT-SUB-02-RU-N-F-3 Surface Cover and Transition Level Floor Dossier;
@@ -135,7 +135,7 @@ ACSCSMS doctrine holds that Frost Hollow's cover is strongest when the cold rout
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How many hazardous arrivals can be hidden inside legitimate arctic receiving traffic?
 - Which transport delays create cover risk instead of reducing it?
@@ -146,7 +146,7 @@ ACSCSMS doctrine holds that Frost Hollow's cover is strongest when the cold rout
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Facility Manager / Security Boundary Lead / Central Archive

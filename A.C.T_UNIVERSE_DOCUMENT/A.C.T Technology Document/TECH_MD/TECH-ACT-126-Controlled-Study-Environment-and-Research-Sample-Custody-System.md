@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - CONTROLLED STUDY ENVIRONMENT AND RESEARCH SAMPLE-CUSTODY SYSTEM
+### TECHNOLOGY RECORD - CONTROLLED STUDY ENVIRONMENT AND RESEARCH SAMPLE-CUSTODY SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -33,7 +33,7 @@
 **Distribution:** Redwood Veil Complex / Research / Transformation / Containment / Medical / Archive
 **Authority:** Floor Research Chief, Research Division, Site Director, and Central Archive
 
-### Archive Note
+#### Archive Note
 Controlled Study Environment and Research Sample-Custody System is the one-hundred-twenty-sixth main A.C.T technology expanded into an individual record. The Redwood Veil F-5 Research and Analysis dossier identifies F-5 as the complex's laboratory and analysis deck where contained objects are studied under controlled conditions. It records sample and study suites, individually regulated laboratory environments, atmospheric and electromagnetic separation, observation architecture, sample-control doctrine, instrument security, data systems, and the floor doctrine that understanding is containment.
 
 CSERSCS exists because research access is a containment event. A resident object does not stop belonging to its holding assignment because Research needs to understand it.
@@ -48,7 +48,7 @@ CHARACTERIZE BEFORE CONTACT, DOCUMENT DURING CONTACT, RETURN WITH CUSTODY UNBROK
 
 ---
 
-# FUNCTION OUTLINE
+## FUNCTION OUTLINE
 
 Controlled Study Environment and Research Sample-Custody System is Redwood Veil's F-5 technology for moving contained objects into controlled research environments without separating them from their containment assignment. It combines sample and study suites, regulated laboratory conditions, atmospheric separation, electromagnetic control, observation recording, program-specific access gates, custody ledgers, verified return procedure, and Archive-mirrored data preservation.
 
@@ -58,7 +58,7 @@ Approved roles include controlled object study, research sample transfer, enviro
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Redwood Veil doctrine states that understanding is containment, but the site learned early that understanding has to be handled like a hazard. Research staff required access to residents from the holding floors, while Containment required those residents to remain accounted for. The conflict was not philosophical; it was operational. A sample in a laboratory is still a contained resident or a piece of one.
 
@@ -66,7 +66,7 @@ F-5 developed CSERSCS to make research access accountable at every step. The sys
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A CSERSCS installation includes sample suites, study suites, analysis laboratories, controlled atmosphere branches, electromagnetic regulation, observation feeds, custody docks, return verification stations, data-processing offices, Archive mirror links, and incident-response controls tied to Medical and Containment escalation.
 
@@ -87,7 +87,7 @@ The study suite is built so a research condition can be created, measured, ended
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before study, CSERSCS requires a research authorization record, resident or sample identity, source holding assignment, restriction set, study purpose, environmental conditions, personnel roster, Medical watch requirement, instrument list, contact sequence, and return plan. Research does not receive open possession; it receives temporary, documented access for a named program.
 
@@ -95,7 +95,7 @@ During study, monitoring records environmental, instrumental, and observational 
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 CSERSCS can preserve custody, but it cannot make research neutral. The act of measuring may change the resident. Environmental conditions may provoke behavior absent in holding. Observation architecture may record more than the study meant to create. Data preservation can also spread a hazard if a finding contains an anomalous pattern rather than a harmless measurement.
 
@@ -103,20 +103,20 @@ Known failure modes include undocumented side observation, condition leak betwee
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## CSERSCS-Study Is Custody Doctrine
+### CSERSCS-Study Is Custody Doctrine
 A review found that research programs sometimes described transferred material as samples rather than residents under temporary access. Current procedure preserves source holding assignment through the entire study record.
 
-## CSERSCS-Condition Leak Correction
+### CSERSCS-Condition Leak Correction
 A controlled-environment test revealed that atmospheric and electromagnetic settings could affect neighboring work if suite separation was treated as ordinary laboratory isolation. Current CSERSCS operation requires per-study condition boundaries and post-study leakage checks.
 
-## CSERSCS-Archive Mirror Review
+### CSERSCS-Archive Mirror Review
 A data preservation incident showed that research records may contain hazard-bearing patterns. Current Archive mirror handling preserves research data under restriction-set logic rather than assuming measurements are safe because they are secondary.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Research Division operates the study suites and analysis programs. Transformation uses F-5 findings to inform stabilization, neutralization, repurposing, and integration decisions. Containment maintains custody authority over resident objects. Medical watches personnel exposure and study aftereffects. Archive preserves findings and custody records as part of the Facility's knowledge estate.
 
@@ -124,7 +124,7 @@ CSERSCS doctrine holds that the Facility may learn from what it contains, but le
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-01-US-W-F-5 Research and Analysis Floor Dossier;
 - ACT-SITE-01-US-W-F-4 Transformation Staging Floor Dossier;
@@ -136,7 +136,7 @@ CSERSCS doctrine holds that the Facility may learn from what it contains, but le
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can a measurement become a new resident if the data behaves anomalously?
 - How much condition alteration is still study, and when does it become transformation?
@@ -147,7 +147,7 @@ CSERSCS doctrine holds that the Facility may learn from what it contains, but le
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Floor Research Chief / Research Division / Central Archive

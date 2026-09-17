@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## GROUP OF INTEREST REGISTRY - CAIRN & LINTEL
+### GROUP OF INTEREST REGISTRY - CAIRN & LINTEL
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -68,7 +68,7 @@
 **Distribution:** Intelligence / Recovery / Containment / Civil Covert / Engineering / Medical / Command
 **Authority:** Intelligence Division, Recovery Division, Civil Covert Division, and Central Archive
 
-### Archive Note
+#### Archive Note
 Cairn & Lintel is the active corporate filing for an outside infrastructure, shelter, construction, and emergency-access network that builds or maintains structures capable of remaining useful during abnormal disasters. The group is not filed as a single construction company, haunted-building owner, municipal contractor, or architect collective. It qualifies as a Group of Interest because its projects recur across separate jurisdictions, its protected spaces demonstrably alter access and survival outcomes, and its sealed plans affect A.C.T containment boundaries, evacuation ledgers, and civilian custody chains.
 
 The relationship class is **WORK**. Cairn & Lintel has repeatedly cooperated with A.C.T during evacuations, shelter conversions, hospital stabilization, corridor searches, and post-breach repairs. It is not classed Positive because its first loyalty is the integrity of shelter and passage, not A.C.T objectives or universal rescue. It is not classed Neutral because practical cooperation exists. It is not classed Negative because the primary observed outcome is life preservation and structural stabilization, even when the group obstructs A.C.T access.
@@ -77,9 +77,9 @@ Several city contracts, shelter addresses, and inhabited floor plans are censore
 
 ---
 
-# IDENTITY AND INSTITUTIONAL FUNCTION
+## IDENTITY AND INSTITUTIONAL FUNCTION
 
-## Group Function
+### Group Function
 
 Cairn & Lintel functions as a specialized anomalous infrastructure corporation. Its repeated activity is the design, repair, concealment, and emergency activation of structures that keep people alive when ordinary architecture fails. Its work appears in buildings that should have collapsed but did not, basements that opened into usable evacuation corridors during impossible floods, hospitals whose wards stayed reachable after hallway geometry shifted, and schools whose interior shelters remained fixed while surrounding rooms changed order.
 
@@ -87,7 +87,7 @@ The name is operationally accurate. A cairn marks a path, a grave, a warning, or
 
 The group matters to A.C.T because containment depends on boundaries, routes, rooms, floors, locks, corridors, and known exits. When an anomaly damages those assumptions, Cairn & Lintel may already have built a shelter, placed a threshold stone, sealed a service stair, or hidden a marked route through the failure zone.
 
-## Public Presence and Concealment
+### Public Presence and Concealment
 
 Cairn & Lintel appears publicly through construction firms, heritage restoration offices, disaster-hardening consultants, municipal tunnel contractors, charity shelter projects, hospital renovation bids, school safety grants, insurance repair teams, and emergency-door manufacturers. Some contracts are ordinary. Some are fronts. Some may begin ordinary and later receive threshold work after a project foreman identifies local abnormal pressure.
 
@@ -97,15 +97,15 @@ Cairn & Lintel conceals by making its work useful even without explanation. A re
 
 ---
 
-# ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
+## ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
 
-## Leadership Condition
+### Leadership Condition
 
 Cairn & Lintel does not expose a stable executive board. Corporate registrations connect to dissolved restoration firms, emergency-housing trusts, old masonry guilds, temporary development companies, and shell contractors. Project-level orders are signed by offices rather than names: Foreman of Threshold, Lintel Auditor, East Cairn Survey, Warden of Occupied Rooms, Fire Door Ledger, and Stone Returns.
 
 A.C.T has confirmed at least three living project leads using the title Foreman of Threshold, but none held central authority. The current assessment is that leadership is distributed by project, city, and hazard type. A building with active residents may be controlled by a Shelter Warden, while a tunnel or corridor project may answer to Survey or Door Ledger offices.
 
-## Internal Structure
+### Internal Structure
 
 A.C.T identifies several recurring layers:
 
@@ -120,7 +120,7 @@ A.C.T identifies several recurring layers:
 
 This structure establishes the group as a real institution. A single impossible building would not be a GOI. A network able to alter civic architecture and emergency movement across jurisdictions is one.
 
-## Membership and Recruitment
+### Membership and Recruitment
 
 Membership appears to include licensed architects, unlicensed builders, structural engineers, stone masons, locksmiths, surveyors, civil defense planners, former rescue workers, housing advocates, and municipal clerks. Some workers are likely unaware of anomalous purpose. Others know exactly why a stair must not be demolished or why an old lintel must be moved into a new building before tenants arrive.
 
@@ -134,9 +134,9 @@ A.C.T has not verified whether Cairn & Lintel recruits anomaly survivors directl
 
 ---
 
-# IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
+## IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
 
-## Stated Belief
+### Stated Belief
 
 The most common company line appears on builder plates and emergency cards:
 
@@ -152,13 +152,13 @@ A door is a promise. A stair is a duty. A shelter is not shelter until the frigh
 
 Cairn & Lintel treats architecture as a moral contract. If a building invites people inside, the structure owes them egress. If a city sends civilians into a shelter, the shelter owes them continuity. If a hospital accepts patients, the wards must remain reachable when ordinary hallway logic fails.
 
-## Assessed Objective
+### Assessed Objective
 
 A.C.T assesses that Cairn & Lintel seeks to seed survivable architecture into places likely to experience abnormal pressure. Its objective is not broad secrecy and not open disclosure. The group allows civilians to use protected space without knowing why it works. It seems to prefer a world where ordinary people survive anomalies by trusting doors, shelters, and public buildings that were prepared in advance.
 
 This goal aligns with A.C.T during disasters but conflicts with A.C.T custody and perimeter control. Cairn & Lintel may shelter witnesses A.C.T has not cleared, protect transformed persons from immediate seizure, or keep a corridor open after A.C.T orders lockdown. The group measures success by whether people get out or stay safe, not by whether command paperwork closes cleanly.
 
-## Anomalous Capability Assessment
+### Anomalous Capability Assessment
 
 Cairn & Lintel is assigned **Engineering** capability because it repeatedly produces or modifies built environments with predictable abnormal properties. Confirmed or strongly assessed capabilities include:
 
@@ -173,7 +173,7 @@ Cairn & Lintel is assigned **Engineering** capability because it repeatedly prod
 
 The group is not assessed as full Structural capability. It does not appear to rewrite reality at regional scale. Its work is localized, built, maintained, and failure-prone.
 
-## Secrecy and Civilian Exposure
+### Secrecy and Civilian Exposure
 
 Cairn & Lintel is **Leaking** because its work is embedded in civilian infrastructure. A sheltered family may remember a stair that should not exist. A hospital worker may keep a map with an extra wing. A tenant may know that knocking three times on the boiler-room door leads to a safe corridor during storms. These memories are difficult to remove without harming practical safety.
 
@@ -181,15 +181,15 @@ The group rarely advertises anomalous function. It creates normalcy stress by le
 
 ---
 
-# OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
+## OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
 
-## Operational Regions
+### Operational Regions
 
 Cairn & Lintel operates in disaster-prone urban districts, old housing blocks, coastal evacuation zones, hospitals, schools, public shelters, abandoned transit systems, unsafe estates, impossible-space neighborhoods, and breach-adjacent streets. Site 01 is most often involved because of urban recovery and public concealment. Site 03 attaches when records, maps, building databases, and route memory are affected. Site 04 and Site 05 attach when shelter work intersects wilderness pressure, maritime evacuation, volcanic routes, or deep-earth access.
 
 The group is assigned Transnational reach because its contracts, builder marks, and shelter cards appear in multiple countries. A.C.T has not verified a global headquarters.
 
-## Known Assets and Holdings
+### Known Assets and Holdings
 
 Known or assessed assets include:
 
@@ -208,7 +208,7 @@ Known or assessed assets include:
 
 A.C.T has seized several inert construction components but has not recovered a complete design manual. Field disassembly must be approved by Engineering and Recovery review, as removing a threshold element can collapse safe access still used by civilians.
 
-## Operating Method
+### Operating Method
 
 Cairn & Lintel usually enters a district before or after an abnormal structural incident. Before an incident, it may bid on ordinary retrofitting, donate shelter repairs, replace old doors, install stair railings, or restore a public building. After an incident, it may arrive as a repair contractor and quietly stabilize the one corridor that still leads to trapped civilians.
 
@@ -224,9 +224,9 @@ A.C.T may use these instructions in field response, but they are not a substitut
 
 ---
 
-# HISTORY WITH A.C.T
+## HISTORY WITH A.C.T
 
-## Contact History
+### Contact History
 
 A.C.T first consolidated Cairn & Lintel material through unrelated evacuation files. Recovery Division noted that several breach survivors escaped through undocumented stairs, shelter rooms, and service corridors. Civil Covert Division separately flagged municipal invoices from companies that did not exist in current registries. Engineering review connected the two patterns through builder marks and repeated door-language.
 
@@ -241,7 +241,7 @@ Bill us if you must.
 
 A.C.T did not locate the crew that installed the lintel.
 
-## Current Relationship
+### Current Relationship
 
 The current relationship is **WORK**. A.C.T may cooperate with Cairn & Lintel when evacuation routes, shelters, hospitals, schools, or unstable buildings require specialized structural knowledge. The relationship is limited. Cairn & Lintel does not accept A.C.T command authority, does not surrender all maps, and has refused to disclose occupied shelters when it believes disclosure would endanger residents.
 
@@ -249,21 +249,21 @@ A.C.T does not classify the group as Positive because it will protect a structur
 
 ---
 
-# A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
+## A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
 
-## Responsible Jurisdiction
+### Responsible Jurisdiction
 
 Primary jurisdiction rests with Intelligence Division, Recovery Division, Civil Covert Division, and Engineering review under Central Archive custody. Site 01 handles most urban shelter and redevelopment cases. Site 03 reviews map, permit, route-memory, and record-discrepancy hazards. Medical Division attaches when hospitals or patient evacuation routes are involved. Subject Care attaches when sheltered witnesses, children, transformed persons, or displaced families are affected.
 
 Access and egress records must identify whether a route is A.C.T-controlled, municipal, Cairn & Lintel-maintained, or unresolved. A corridor that saved civilians during one incident may not remain safe after the building settles.
 
-## Posture Implementation
+### Posture Implementation
 
 A.C.T posture is **COOPERATED / MONITOR / APPROPRIATE**. Cooperation is authorized for evacuation, temporary shelter use, hospital route stabilization, emergency corridor verification, and civilian-rescue planning. Monitoring includes builder plates, contract names, censored municipal permits, unusual repair schedules, old-work depots, door marks, shelter keys, and floor plans that disagree with civic records.
 
 Appropriation is limited to components or plans no longer protecting civilians. A.C.T may not remove an active lintel, cairn stone, shelter key, or threshold map until Recovery and Civil Covert review confirms that no current residents depend on it.
 
-## Response Limits and Red Lines
+### Response Limits and Red Lines
 
 A.C.T will not permit Cairn & Lintel to create unregistered passages into active containment zones, hide dangerous subjects inside civilian shelters, obstruct medical evacuation, or conceal structural failures that could kill residents. A.C.T will not allow the group to sell protected rooms to private clients while public shelters fail.
 
@@ -271,9 +271,9 @@ A.C.T will also not destroy protected architecture solely because it creates pap
 
 ---
 
-# OPERATIONAL RECORDS
+## OPERATIONAL RECORDS
 
-## Restricted Operational Extract
+### Restricted Operational Extract
 
 ```text
 EMERGENCY ROUTE CARD: C&L / OLD DOOR RELIEF
@@ -310,9 +310,9 @@ The invoice confirms that Cairn & Lintel recognizes witness memory as part of sh
 
 ---
 
-# INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
+## INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
 
-## Confirmed Operational Facts
+### Confirmed Operational Facts
 
 - Cairn & Lintel is an outside corporate infrastructure network and not an A.C.T engineering program.
 - The group has repeatedly produced or maintained structures that assisted evacuation, shelter, or route stability during abnormal incidents.
@@ -320,13 +320,13 @@ The invoice confirms that Cairn & Lintel recognizes witness memory as part of sh
 - The group possesses engineering knowledge sufficient to build localized anomalous structural protections.
 - The group withholds complete plans, leadership identity, and the locations of some occupied shelters.
 
-## Active Intelligence Assessment
+### Active Intelligence Assessment
 
 A.C.T assesses Cairn & Lintel as a specialized WORK-relationship corporate GOI. It is most useful when ordinary architecture becomes unreliable. It is most dangerous when its protected passages cross containment boundaries, conceal witnesses, or prevent A.C.T from closing a site cleanly.
 
 The group should not be expanded into a general construction villain. Its distinct identity is shelter, threshold, egress, and built promises. It is a company that believes buildings owe survival to the people inside them. That belief can save lives and still obstruct A.C.T command.
 
-## Persistent Questions
+### Persistent Questions
 
 - Who controls the central old-work depots, and how many contain materials recovered from prior anomaly sites?
 - Can Cairn & Lintel predict which neighborhoods will require protected architecture, or does it respond to signs already present in the built environment?
@@ -336,19 +336,19 @@ The group should not be expanded into a general construction villain. Its distin
 - Are some municipal officials aware that Cairn & Lintel contracts involve anomalous infrastructure?
 - How many occupied shelters are currently hidden from A.C.T because the group considers disclosure unsafe?
 
-## Intelligence Confidence
+### Intelligence Confidence
 
 Moderate. Recovered structures, field outcomes, repeated marks, and contract traces confirm organizational continuity and anomalous engineering. Leadership, total holdings, full design method, and long-term structural costs remain unresolved. Confidence may rise if A.C.T negotiates access to a complete old-work depot, verifies a living board member, or completes a joint shelter audit without civilian displacement.
 
 ---
 
-# CROSS-REFERENCE STATUS
+## CROSS-REFERENCE STATUS
 
-## Anomaly and Record Relationship
+### Anomaly and Record Relationship
 
 Cairn & Lintel is an organization and therefore belongs in the GOI archive. Individual buildings, corridors, keys, shelter rooms, threshold stones, or living floor plans may require separate anomaly, incident, site, or access-and-egress records. The organization record must not be used as a substitute for structural hazard review.
 
-## Related A.C.T Records
+### Related A.C.T Records
 
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
@@ -358,13 +358,13 @@ Cairn & Lintel is an organization and therefore belongs in the GOI archive. Indi
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md`
 - Restricted building, shelter, tunnel, hospital, school, and evacuation-route case chains held under Central Archive routing.
 
-## Dual Filing
+### Dual Filing
 
 Under review. Cairn & Lintel is a corporate GOI, but its individual constructions may require dual filing when a building, room, corridor, door, stair, key, stone, or floor plan remains anomalous after the incident that revealed it. Dual filing is mandatory for any route that touches an active containment boundary or admits civilians into a space not represented on ordinary maps.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 ```text
 FILE CREATED:            13/09/2026

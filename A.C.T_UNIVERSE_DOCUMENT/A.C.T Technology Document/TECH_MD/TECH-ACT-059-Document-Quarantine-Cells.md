@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - DOCUMENT QUARANTINE CELLS
+### TECHNOLOGY RECORD - DOCUMENT QUARANTINE CELLS
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Archive / Containment / Security / Recovery / Medical / Administration  
 **Authority:** Archive Division, Floor Archivist, and Central Archive
 
-### Archive Note
+#### Archive Note
 Document Quarantine Cells are the fifty-ninth main A.C.T technology expanded into an individual record. Redwood Veil's F-7 floor dossier identifies Central Archive and Records as the complex's document repository and states that it includes document quarantine cells where information-borne hazards are held. The dossier specifies that such cells contain documents that act on readers, rewrite themselves, or carry memetic content, keeping them out of the general repository. It also states that F-7 is QNB-hardened against external causal rewrites in accordance with central archival doctrine.
 
 DQC exists because some documents are not records of residents. Some documents are residents.
@@ -47,7 +47,7 @@ A DOCUMENT IN QUARANTINE IS NOT STORED. IT IS CONTAINED.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Document Quarantine Cells are isolated archive chambers built to contain information-borne hazard documents under observation restrictions, handling restrictions, reading restrictions, and QNB-hardened preservation. Their purpose is to prevent hazardous documents from entering the general repository while preserving them as evidence, operational memory, or future study material.
 
@@ -57,7 +57,7 @@ Approved roles include information-borne hazard isolation, self-editing document
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 Redwood Veil's archive became more than a storage floor as the complex matured. Recovery logs, object histories, witness records, cover paperwork, personnel files, and medical records converged on F-7. As the archive received more material, it encountered documents that could not be treated as passive records. Some acted on readers. Some rewrote themselves. Some carried memetic content. Some attempted to alter the record around them.
 
@@ -65,7 +65,7 @@ Document Quarantine Cells developed to give the Archive Division a way to hold s
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard DQC is an isolated chamber or sealed records cell with controlled shelf mounts, observation-denial panels, handling ports, document cradles, environmental regulation, QNB-hardened record surfaces, and continuous integrity monitoring. Cells are separately gated from restricted records vaults and general repository halls. Each cell maintains its own quarantine documentation so that the archive keeps the archive's records.
 
@@ -86,7 +86,7 @@ Cells are designed for documents that must not reach their readers until procedu
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before admission, Archive staff create a quarantine entry that records origin, carrier, suspected hazard, current format, known readers, and required restrictions. Containment provides material characterization when the document behaves like an active anomaly. Medical adds cognitive warnings where exposure has harmed personnel. Recovery preserves chain of custody.
 
@@ -96,7 +96,7 @@ Release from quarantine requires documented assessment that the file can safely 
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 DQC cannot make a dangerous file safe. It can only hold it under the correct form of isolation. Some documents may act through their container, title, access log, absence, or staff anticipation. Others may become more dangerous when compared too often or when their changes are recorded in too much detail.
 
@@ -104,20 +104,20 @@ Known failure modes include unauthorized reading, improper copying, self-rewrite
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## DQC-Development Trigger
+### DQC-Development Trigger
 F-7 records state that the cells developed from encounters with information-borne hazards: documents that act on readers, rewrite themselves, or carry memetic content. The specific founding incidents remain in Archive Division history files.
 
-## DQC-QNB Hardening Review
+### DQC-QNB Hardening Review
 F-7's QNB-hardened structure was adopted after A.C.T recognized that some anomalous forces can reach into documents and change what they say. DQC cells were brought under the same hardened doctrine so quarantined files would not corrupt neighboring records.
 
-## DQC-Access Violation Pattern
+### DQC-Access Violation Pattern
 Archive incident records identify access violations as one of F-7's dominant archive events. DQC training now treats curiosity as a predictable pressure, not as a rare misconduct category.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Archive Division owns DQC custody, accession, preservation, retrieval denial, and release assessment. Containment supports active information-hazard characterization. Security enforces separate gates and access discipline. Recovery delivers field records and preserves chain. Medical advises on reader risk and clinical confidentiality. Administration coordinates command and authorization records that cannot be exposed through quarantine mistakes.
 
@@ -125,7 +125,7 @@ Standing reminder: if a file is in a cell, the archive has already decided it ca
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-01-US-W-F-7 Central Archive and Records Floor Dossier;
 - TECH-ACT-003 - Quantum Narrative Buffer System;
@@ -137,7 +137,7 @@ Standing reminder: if a file is in a cell, the archive has already decided it ca
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - How long should a quiet information-borne hazard remain under full quarantine?
 - Can a self-rewriting document learn the comparison schedule?
@@ -148,7 +148,7 @@ Standing reminder: if a file is in a cell, the archive has already decided it ca
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Archive Division / Redwood Veil F-7 / Central Archive  

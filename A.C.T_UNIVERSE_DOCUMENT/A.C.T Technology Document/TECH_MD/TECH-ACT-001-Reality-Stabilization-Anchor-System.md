@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - REALITY STABILIZATION ANCHOR SYSTEM
+### TECHNOLOGY RECORD - REALITY STABILIZATION ANCHOR SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -33,7 +33,7 @@
 **Distribution:** Engineering / Containment / Site Command / Recovery / Logistics / Archive / Command  
 **Authority:** Engineering Division, Containment Division, Site Command, and Central Archive
 
-### Archive Note
+#### Archive Note
 The Reality Stabilization Anchor System is the first A.C.T-owned technology to receive an individual expanded technology record in this archive because it is the main A.C.T containment infrastructure already present across the master technology index, technological timeline, visual reference guide, and site dossiers. The RSA is the primary pillar of modern containment. It broadcasts a calibrated causal baseline that holds local space, sequence, object presence, chamber geometry, and procedural reality close enough to Earth-standard conditions for A.C.T facilities to function.
 
 The RSA is not a weapon, not a general shield, not a miracle generator, not a replacement for containment structure, and not the same system as the Anti Reality Mesh. It is the anchor under the room before the room can be called a room. ARM makes sites unremarkable. RSA makes sites remain where, when, and what they are supposed to be.
@@ -42,9 +42,9 @@ This file expands the short master-index entry into a working technical record. 
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
-## Practical Function
+### Practical Function
 
 A Reality Stabilization Anchor maintains a local causal baseline. In practical terms, it reduces the ability of anomalous pressure to warp the area around the Anchor. A calibrated RSA field can make a corridor stay connected to the same floor, make an object chamber keep its dimensions, make a timestamp remain sequential, make monitoring equipment agree with itself, and make staff remember which side of a containment door they entered from.
 
@@ -58,7 +58,7 @@ The primary pillar of containment. It broadcasts a high-frequency causal baselin
 
 That catalog line remains correct but incomplete. RSA is not only used for spatial apertures. It is also a site-wide habit of making reality behave long enough for humans to work.
 
-## Operational Role
+### Operational Role
 
 RSA support appears in four major roles:
 
@@ -71,9 +71,9 @@ The RSA is one reason A.C.T can develop technologies from anomalies without ever
 
 ---
 
-# ORIGIN AND CUSTODY
+## ORIGIN AND CUSTODY
 
-## Development History
+### Development History
 
 The technological timeline records the first successful RSA prototype in 1965, using static-pulse crystal resonance to maintain local space-time coherence. Earlier A.C.T methods relied on dense vaulting, iron cages, clockwork causal anchors, vacuum chambers, and passive barrier logic. Those methods could hold some objects but could not reliably preserve the conditions around increasingly complex anomalies.
 
@@ -81,7 +81,7 @@ The RSA emerged during the Integration Era, when A.C.T required standard stabili
 
 Static-Pulse Crystal became the defining active material. The master catalog identifies it as raw mineral extracted from the Abyss Floor that resonates with Earth-Standard reality and powers all RSA core units. Crystal sourcing, cutting, and long-term stress behavior are Level 5 restricted because hostile groups could use that knowledge to mimic, jam, fracture, or poison stabilization grids.
 
-## Custody
+### Custody
 
 Primary custody belongs to Engineering Division and Containment Division. Engineering controls manufacture, calibration, core servicing, firmware isolation, field geometry, and replacement parts. Containment controls deployment standards, chamber requirements, breach activation, and minimum stabilization thresholds for each class of holding environment.
 
@@ -91,15 +91,15 @@ No GOI owns RSA technology. Multiple GOIs have seen RSA effects. Iron Meridian A
 
 ---
 
-# PHYSICAL AND SYSTEM DESCRIPTION
+## PHYSICAL AND SYSTEM DESCRIPTION
 
-## Standard Pillar Unit
+### Standard Pillar Unit
 
 The visual reference guide describes the standard RSA unit as a 1.5-meter tall hexagonal pillar composed of matte-black non-reflective tungsten alloy. The unit is supported by a heavy-duty tungsten tripod base with adjustable leveling feet. The top carries an adjustable laser point dynamic sensor that sweeps the area with a faint violet beam. A folding detachable connector allows interface with a Wireless Anti-Shifting Tablet for remote monitoring. A heavy mechanical front hatch opens to a pressurized core used for releasing crystallized stress and manually adjusting the four-split crystal core. A side-mounted LCD panel displays real-time waveforms of the **[REDACTED]** synchronization link.
 
 Those details are approved for identification training. They are not sufficient for repair. Field personnel must treat a visible RSA pillar as site-critical infrastructure unless it is explicitly marked as a training shell.
 
-## Core Components
+### Core Components
 
 Known components include:
 
@@ -118,7 +118,7 @@ Known components include:
 
 The four-split crystal core appears to distribute causal load across four quarter segments rather than one continuous crystal. Engineering notes indicate that single-core prototypes suffered catastrophic stress bloom under high distortion. The split design allows controlled disagreement inside the core instead of uncontrolled disagreement in the room.
 
-## Site Grid and Transport Variants
+### Site Grid and Transport Variants
 
 Fixed site units are installed as grids. Redwood Veil maintains continuous RSA support through the buried core, with the densest concentration on F-1 through F-3. White Grave maintains RSA support throughout holding levels, particularly F-1 and F-2 where entropic and unstable residents exert strong pressure on local conditions. Other sites use different densities according to floor function, anomaly type, and structural doctrine.
 
@@ -126,9 +126,9 @@ Transport variants include RSA-equipped sealed containers, RSA-equipped intermod
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
-## Authorized Use
+### Authorized Use
 
 Only Level 4 Engineering or Containment personnel may perform normal RSA calibration. Level 3 staff may read status indicators and report alarms if locally certified. Level 5 authorization is required for core access, synchronization-table adjustment, crystal replacement, field inversion, emergency hard reset, or operation inside active spatial apertures.
 
@@ -140,7 +140,7 @@ Basic deployment rule:
 ANCHOR THE ROOM BEFORE YOU ARGUE WITH WHAT IS INSIDE IT.
 ```
 
-## Monitoring States
+### Monitoring States
 
 A.C.T uses the following working labels. These are technical states, not anomaly classes:
 
@@ -155,15 +155,15 @@ RSA-BLACK: anchor integrity unknown; do not trust map, log order, or door identi
 
 RSA-BLACK is treated as a site movement hazard. Personnel must not assume the nearest exit remains an exit.
 
-## Handling Rules
+### Handling Rules
 
 Do not open the front hatch during drift unless Engineering authorizes stress release. Do not stand inside the violet sweep pattern during calibration unless wearing approved sensor-safe gear. Do not connect an uncertified tablet to the folding connector. Do not move a tripod unit after it has been grid-accepted unless the field has been stepped down. Do not pair RSA hard anchor with unreviewed amnestic dispersal, narrative static, or ARM reset unless Command approves the combined effect.
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
-## What RSA Cannot Do
+### What RSA Cannot Do
 
 RSA cannot contain every anomaly by itself. It cannot make a hostile entity harmless, cannot repair a broken containment procedure, cannot restore a staff member's memory after exposure, cannot guarantee safe passage through every spatial aperture, and cannot stabilize a site whose structural grid has physically failed. It reduces reality-fracture pressure; it does not replace discipline.
 
@@ -177,7 +177,7 @@ RSA is weakest against:
 - hostile tampering with crystal stress, grounding, or synchronization;
 - overconfident staff who keep working after RSA-YELLOW becomes RSA-AMBER.
 
-## Misuse Risk
+### Misuse Risk
 
 Misuse can make an incident worse. Over-anchoring can pin a hazardous state in place. Under-anchoring can let a chamber drift quietly until doors, cameras, and staff disagree. Incorrect stress release can discharge stored causal load into local architecture. A forced hard anchor during a transformation trial can preserve an incomplete state that should have been allowed to collapse safely.
 
@@ -189,21 +189,21 @@ The RSA is not courage. It is permission to begin being careful.
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## RSA-1965-PROTOTYPE STRESS BLOOM
+### RSA-1965-PROTOTYPE STRESS BLOOM
 
 The earliest successful prototype proved the principle and revealed the cost. During a controlled aperture test, the single crystal core accepted too much disagreement at once. The test chamber remained rectangular, but three observer logs recorded different door counts. One technician exited into the correct corridor two minutes before opening the door. The prototype did not explode. It convinced the room that the explosion had already been avoided.
 
 Engineering replaced the single-core architecture with split-core stress distribution after this incident. The full report remains restricted.
 
-## REDWOOD VEIL F-2 AMBER DRIFT
+### REDWOOD VEIL F-2 AMBER DRIFT
 
 A later near miss occurred on Redwood Veil F-2 when an object gallery entered RSA-AMBER without triggering evacuation. The room's dimensions remained stable, but camera timestamps began repeating nine-second intervals. Staff assumed an instrument fault. The affected chamber later showed containment-log duplication and inconsistent inventory tags. Archive Division identified the event because two identical retrieval entries had different handwriting.
 
 Corrective action established the rule that timestamp disagreement counts as geometry risk even when walls remain still.
 
-## TRANSPORT CONTAINER WHITE LOCK EVENT
+### TRANSPORT CONTAINER WHITE LOCK EVENT
 
 An RSA-equipped intermodal container entered RSA-WHITE during overland movement after a contained object began shifting mass through recorded ownership labels. The hard anchor prevented road distortion but locked the container's interior route state. Recovery personnel opened the rear door and saw the loading bay they had departed from, not the road shoulder where the vehicle had stopped. The container was sealed until Site 02 provided a step-down sequence.
 
@@ -211,33 +211,33 @@ No casualties occurred. The event remains training material for transport crews.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
-## Engineering Division
+### Engineering Division
 
 Engineering owns design, manufacture, calibration standards, crystal service, firmware isolation, stress-release procedure, and component retirement. Engineering also maintains the redacted core geometry tables. No other division may improvise crystal replacement.
 
-## Containment Division
+### Containment Division
 
 Containment defines minimum RSA support for chamber classes, aperture work, breach response, spatial residents, entropic residents, and transformation staging. Containment may request emergency hard anchor but must accept Engineering override if the anchor would worsen structural load.
 
-## Site Command
+### Site Command
 
 Site Command authorizes site-level RSA posture during breach, lockdown, evacuation, or F-1 closure. Command must record why any area remains occupied during RSA-RED or RSA-BLACK.
 
-## Recovery and Logistics
+### Recovery and Logistics
 
 Recovery uses temporary field anchors and transport containers. Logistics maintains movement schedules for RSA-equipped containers and Facility Converted Aircraft integration. Transport anchors require return inspection after any drift event.
 
-## Archive and Civil Covert
+### Archive and Civil Covert
 
 Archive Division reviews RSA logs when records, timestamps, map labels, retrieval entries, or object identities disagree. Civil Covert manages public traces if RSA failure causes a building, road, camera feed, or civilian memory chain to misbehave.
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
-## Related A.C.T Records
+### Related A.C.T Records
 
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Master_Index_50.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Evolution_Timeline.md`
@@ -247,7 +247,7 @@ Archive Division reviews RSA logs when records, timestamps, map labels, retrieva
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Site Dossier/ACT-SITE-02-RU-N-White-Grave-Station.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/00_Technology_Record_Template.md`
 
-## Technology Relationship
+### Technology Relationship
 
 The RSA system interacts with, but is distinct from:
 
@@ -262,7 +262,7 @@ Each system requires its own individual technology record. This file covers only
 
 ---
 
-# OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
+## OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
 
 - How long can a split Static-Pulse Crystal core operate after repeated RSA-WHITE events before replacement becomes mandatory?
 - Can hostile actors reproduce partial RSA effects using stolen crystal fragments or Ninefold Ark low-power seal patterns?
@@ -275,7 +275,7 @@ Each system requires its own individual technology record. This file covers only
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 ```text
 FILE CREATED:            14/09/2026

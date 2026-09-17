@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - SANGUINE-CONDUCTIVE ALLOY
+### TECHNOLOGY RECORD - SANGUINE-CONDUCTIVE ALLOY
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Materials Custody / Medical Engineering / Medical / Biological Containment / Data Security / O5 Review  
 **Authority:** Materials Custody, Medical Engineering Desk, and Central Archive
 
-### Archive Note
+#### Archive Note
 Sanguine-Conductive Alloy is the forty-sixth main A.C.T technology expanded into an individual record. The Master Catalog defines it as a blue metallic composite capable of data-transmission via biological blood contact. The visual guide describes a blue metal sheet with a micro-vein network and a Data-Flow Indicator LED that blinks during biological data-transmission. Existing A.C.T medical and material records establish the danger around blood-adjacent technology: blood can activate consciousness anchors, blood-fuel systems require strict identity separation, and biological signal handling can become contamination if treated as ordinary wiring.
 
 SCA is not a cable with dramatic color. It is a metal that lets blood behave like a data port.
@@ -47,7 +47,7 @@ IF BLOOD OPENS THE CIRCUIT, TREAT THE CIRCUIT AS PART OF THE PATIENT.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 Sanguine-Conductive Alloy conducts biological data when exposed to blood or approved blood-analog input. It can carry pulse identity, metabolic rhythm, genetic fragment markers, cellular alarm states, and restricted signal patterns that ordinary electronics cannot read without destroying the sample relationship. It is used only in controlled medical engineering, high-risk biological diagnostics, subject-linked interface studies, and restricted anomalous material tests.
 
@@ -65,7 +65,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND CONTROL DOCTRINE
+## ORIGIN AND CONTROL DOCTRINE
 
 SCA development followed repeated failures of ordinary sensors to preserve biological context. A blood sample on a slide can show chemistry. A pulse monitor can show rhythm. A genetic scanner can show sequence. None of these automatically show how anomalous tissue, memory, hunger, resonance, and identity speak to one another through living fluid. A.C.T needed a material that could conduct biological signal without forcing it into ordinary electrical categories too early.
 
@@ -75,7 +75,7 @@ Custody moved to Materials Custody and Medical Engineering after early proposals
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 SCA appears as blue metal sheet stock, usually stored as plates, narrow bridge strips, or sealed contact pads. The surface contains a visible or semi-visible micro-vein network. Under activation, the network may darken, brighten, or pulse according to sample load. A small Data-Flow Indicator LED blinks during biological transfer. Medical-grade units include sterile edge seals, contact wells, insulated backing, chain-of-custody tags, and removable isolation couplers.
 
@@ -96,7 +96,7 @@ SCA must never be wired into general site networks. Biological data channels rem
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before use, Medical confirms sample identity, consent or containment authority, blood hazard class, anchor exposure history, amnestic exposure history, and whether the subject's blood is known to activate objects. Data Security confirms that the receiving instrument is isolated. Materials Custody verifies plate ID and prior sample history.
 
@@ -106,7 +106,7 @@ After use, residue is swabbed, the plate is sealed, and all readout data is tagg
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 SCA cannot identify the full meaning of a biological signal. It can carry data without knowing whether that data is medical, memetic, spiritual, predatory, or legally personal. It may also conduct unwanted relationships: donor to machine, subject to archive, blood to artifact, or sample to handler. It is not a safe shortcut around Medical ethics.
 
@@ -114,20 +114,20 @@ Known failure modes include cross-sample contamination, LED lag, hidden low-leve
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## SCA-2018 Indicator Addition
+### SCA-2018 Indicator Addition
 A cleaning technician handled a plate that was still carrying residual biological transfer. No injury occurred, but the readout captured stress hormone traces from the technician's skin abrasion. Data-Flow Indicator LEDs became mandatory after this event.
 
-## SCA-2022 Mixed Sample Denial
+### SCA-2022 Mixed Sample Denial
 A proposal to compare multiple NB-class blood samples on one alloy bridge was denied after Medical determined that cross-subject identity bleed could create false compatibility data. Current doctrine requires single-subject plates unless O5 Review approves the exception.
 
-## SCA-2026 Anchor-Proximity Warning
+### SCA-2026 Anchor-Proximity Warning
 A Soul Pendant support review prohibited SCA testing near AFD-OB-412. Blood-contact technologies and consciousness anchors are not colocated unless the purpose is explicitly to test anchor activation, which remains denied under current policy.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Materials Custody controls plates, tags, cleaning, and retirement. Medical Engineering controls interface protocols. Medical interprets biological meaning and aftercare. Biological Containment uses SCA only for approved subject tests. Data Security maintains air gaps and readout isolation. O5 Review controls mixed-sample, anchor-adjacent, or subject-linked transfer escalation.
 
@@ -135,7 +135,7 @@ Standing reminder: if a metal sheet learns a person's blood, do not call the res
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 47;
 - ACT Technological Visual Reference Guide, Item 47;
@@ -147,7 +147,7 @@ Standing reminder: if a metal sheet learns a person's blood, do not call the res
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can SCA conduct memory-bearing blood data after amnestic exposure?
 - Does biological data remain in the micro-vein network after chemical cleaning?
@@ -158,7 +158,7 @@ Standing reminder: if a metal sheet learns a person's blood, do not call the res
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Materials Custody / Medical Engineering Desk / Central Archive  

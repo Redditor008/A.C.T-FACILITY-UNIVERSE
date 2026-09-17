@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - ADRENALINE MICRO-SURGE DETECTORS
+### TECHNOLOGY RECORD - ADRENALINE MICRO-SURGE DETECTORS
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -32,7 +32,7 @@
 **Distribution:** Medical / Biological Containment / Subject Care / Security / Site Command  
 **Authority:** Medical Division, Personnel Safety Desk, and Containment Safety Board
 
-### Archive Note
+#### Archive Note
 Adrenaline Micro-Surge Detectors are the thirty-first main A.C.T technology expanded into an individual record. The Master Catalog identifies them as continuous staff-stress monitors configured to trigger local sedative-vapor release upon panic thresholds. The visual guide describes a sleek silver wristband with a circular gauge, LCD status readout, refillable sedative canister, emergency auto-release pin, and wrist vibration warning. Terra's Pulse containment procedures require staff inside the fifty-meter effect radius to wear these detectors because sudden amatory arousal or existential panic must lock down the suite and release sedative before compulsion becomes action.
 
 AMSD is not a lie detector and not a courage test. It is a panic circuit built for rooms where a single rush of blood can become a breach.
@@ -47,7 +47,7 @@ READ THE SURGE BEFORE THE SURGE BECOMES A HAND ON THE DOOR.
 
 ---
 
-# FUNCTION SUMMARY
+## FUNCTION SUMMARY
 
 An AMSD monitors rapid endocrine and pulse changes in assigned personnel. It is tuned for micro-surges rather than ordinary stress, meaning it watches for sudden biological acceleration associated with fear, compulsion, predator fixation, reproductive fixation, visual-trigger panic, and decision collapse. When a configured threshold is reached, the detector vibrates, reports status to the local suite system, and can trigger sedative-vapor release through approved containment infrastructure.
 
@@ -64,7 +64,7 @@ Approved roles include:
 
 ---
 
-# ORIGIN AND DEPLOYMENT
+## ORIGIN AND DEPLOYMENT
 
 AMSD doctrine matured after repeated biological and memetic containment incidents proved that ordinary observation was too slow. Early A.C.T staff expected visible distress before removing personnel from a suite. This failed in cases where the hazard acted through attraction, loyalty, sudden dread, or the nervous system's preparation for forbidden contact.
 
@@ -74,7 +74,7 @@ Current deployment is mandatory in select Subject Care, Biological Containment, 
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 The standard AMSD appears as a sleek silver wristband. The circular gauge shows surge intensity. The LCD readout displays baseline state, current stress band, suite-link status, sedative canister pressure, and alarm route. The wristband contains a refillable sedative canister for local micro-release where approved, but larger room-vapor deployment is handled by the containment suite rather than the band alone. An emergency auto-release pin allows medical staff to disable the unit's sedative release without disabling monitoring.
 
@@ -94,7 +94,7 @@ AMSD units are fitted to living personnel and must not be placed on mannequins, 
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before entry, Medical records the wearer's current baseline. The wearer confirms medication use, heart condition, known panic disorder, recent amnestic exposure, and assignment role. Security confirms the wristband is linked to the correct suite. The sedation route is tested with inert vapor if the room supports full release. The wearer must acknowledge that removing the detector inside the active radius is treated as a safety violation.
 
@@ -104,7 +104,7 @@ After use, Medical reviews the surge log. A staff member who experiences unexpla
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 AMSD does not detect all compulsion. Some anomalies flatten stress rather than raising it. Some subjects can make a person calm, obedient, or blank. A detector that does not spike is not proof of safety. Biometric Resonance Dampeners may also interfere with interpretation if they mask pulse or emotional rhythm. False positives occur during ordinary panic, pain, heat stress, caffeine overdose, argument, sprinting, or containment alarms.
 
@@ -112,20 +112,20 @@ The sedative system is a safety measure, not a punishment. Overuse can injure pe
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## AMSD-2024 Terra Threshold Revision
+### AMSD-2024 Terra Threshold Revision
 Early Terra suite thresholds treated arousal and panic as separate categories. Affected personnel could fluctuate between both states faster than the console classified them. The profile was merged into a single compulsion-risk surge band.
 
-## AMSD-2025 Dampener Interference Test
+### AMSD-2025 Dampener Interference Test
 A training trial showed that Biometric Resonance Dampeners could reduce readable pulse intensity while the subject still reported fear. AMSD doctrine now requires cross-checking patch use before interpreting a low surge as calm.
 
-## AMSD-2026 Pin Misuse Incident
+### AMSD-2026 Pin Misuse Incident
 A junior handler pulled the emergency auto-release pin because the wristband vibration was distracting. Monitoring continued, but local sedative micro-release was disabled. Current issue training states that the pin is for Medical override, not wearer comfort.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Medical controls calibration and aftercare. Personnel Safety Desk tracks surge profiles. Biological Containment uses AMSD in suites where compulsion, toxin panic, reproductive signaling, or flight response may precede breach. Subject Care uses it to protect both staff and subjects from fear-driven handling. Security responds to alarm routing. Site Command approves room-wide sedative integration.
 
@@ -133,7 +133,7 @@ Standing reminder: a calm voice over a rising gauge is not evidence of control.
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT Technological Master Index 50, Item 18;
 - ACT Technological Visual Reference Guide, Item 18;
@@ -144,7 +144,7 @@ Standing reminder: a calm voice over a rising gauge is not evidence of control.
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can AMSD detect non-adrenal panic states produced by dream or memory hazards?
 - Should suite sedation require two biological indicators instead of one surge threshold?
@@ -155,7 +155,7 @@ Standing reminder: a calm voice over a rising gauge is not evidence of control.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-15  
 **Author Desk:** Medical Division / Personnel Safety Desk / Central Archive  

@@ -1,5 +1,5 @@
 # A.C.T FACILITY ARCHIVE FILE
-## TECHNOLOGY RECORD - FAILURE-TOLERANT ENTROPIC HOLDING AND SELF-REPAIRING ENVIRONMENT SYSTEM
+### TECHNOLOGY RECORD - FAILURE-TOLERANT ENTROPIC HOLDING AND SELF-REPAIRING ENVIRONMENT SYSTEM
 
 ```text
 +----------------------------+-------------------------------------------------------------+
@@ -33,7 +33,7 @@
 **Distribution:** White Grave Station / Containment / Engineering / Security / Medical / Archive
 **Authority:** Floor Holding Chief, Containment Division, Engineering Support, Site Director, and Central Archive
 
-### Archive Note
+#### Archive Note
 Failure-Tolerant Entropic Holding and Self-Repairing Environment System is the one-hundred-thirty-fifth main A.C.T technology expanded into an individual record. The White Grave F-2 Entropic and Unstable Resident Holding dossier identifies F-2 as the station's failure-hostile holding level for anomalies that degrade containment systems, erode structures, unmake holding conditions, and cannot be trusted with ordinary infrastructure. It records redundant containment structures, self-repairing environmental systems, duplicated power feeds, high-frequency monitoring, resident-specific restriction sets, and escalation review toward F-1 Long Sleep.
 
 FTEHSRES exists because some residents do not escape by breaking a wall once. They escape by making the idea of a wall rot every minute.
@@ -48,7 +48,7 @@ ASSUME THE HOLDING WILL BE DAMAGED, DETECT THE DAMAGE EARLY, AND KEEP ANOTHER LA
 
 ---
 
-# FUNCTION OUTLINE
+## FUNCTION OUTLINE
 
 Failure-Tolerant Entropic Holding and Self-Repairing Environment System is White Grave's F-2 restricted holding technology for residents whose anomalous behavior degrades, corrodes, destabilizes, or otherwise unbuilds the systems meant to contain them. It combines hardened individual units, redundant containment structures, duplicated power feeds, self-diagnosing environmental systems, self-adjusting repair response, high-frequency monitoring, engineering galleries, and escalation controls.
 
@@ -58,7 +58,7 @@ Approved roles include entropic resident holding, unstable resident custody, red
 
 ---
 
-# ORIGIN AND DEVELOPMENT
+## ORIGIN AND DEVELOPMENT
 
 White Grave encountered residents that made ordinary maintenance meaningless. Walls aged too quickly. seals degraded between inspections. Environmental systems lost calibration as though time inside the unit was chewing them unevenly. Standard holding failed not because personnel forgot procedure, but because the resident attacked the continuity of procedure through the infrastructure itself.
 
@@ -66,7 +66,7 @@ F-2 developed FTEHSRES as failure-tolerant containment. The floor's doctrine acc
 
 ---
 
-# PHYSICAL OR SYSTEM DESCRIPTION
+## PHYSICAL OR SYSTEM DESCRIPTION
 
 A FTEHSRES installation includes hardened individual units, entropic holding chambers, redundant wall and seal layers, duplicated power branches, independent emergency generation, self-diagnosing environmental loops, standby environmental systems, high-frequency sensor arrays, engineering maintenance galleries, access-core verification stages, and lower-route seals connected to F-1 closure procedure.
 
@@ -87,7 +87,7 @@ The system is judged by whether it can continue holding after visible failure ha
 
 ---
 
-# OPERATING PROCEDURE
+## OPERATING PROCEDURE
 
 Before assignment, FTEHSRES verifies resident identity, entropic behavior, degradation rate, structural attack vector, environmental vulnerability, restriction set, Engineering support requirement, Medical standby condition, monitoring frequency, and escalation threshold. The resident is assigned to an individual unit whose redundancy profile matches the expected form of degradation.
 
@@ -95,7 +95,7 @@ Routine operation consists of high-frequency structural, environmental, and beha
 
 ---
 
-# KNOWN LIMITS
+## KNOWN LIMITS
 
 FTEHSRES can outlast degradation, but it cannot make attrition disappear. A resident may learn the redundancy sequence, degrade monitoring faster than structure, corrupt repair logic, or attack the assumption that layers fail separately. Self-repairing systems can also mask worsening conditions until repair behavior becomes part of the resident's interaction with containment.
 
@@ -103,20 +103,20 @@ Known failure modes include primary layer erosion, secondary layer hidden fatigu
 
 ---
 
-# FAILURE HISTORY
+## FAILURE HISTORY
 
-## FTEHSRES-Redundancy Is Containment Standard
+### FTEHSRES-Redundancy Is Containment Standard
 An infrastructure review found that redundant layers were sometimes treated as safety margins. Current doctrine states that redundancy is the containment method on F-2, not a reserve after containment fails.
 
-## FTEHSRES-Early Detection Correction
+### FTEHSRES-Early Detection Correction
 A degradation incident showed that ordinary monitoring cadence was too slow for entropic residents. Current procedure sets monitoring frequency by degradation rate rather than by floor routine.
 
-## FTEHSRES-Self-Repair Review
+### FTEHSRES-Self-Repair Review
 A self-repairing environmental loop once compensated successfully while hiding the speed of resident-caused damage. Current logs record repair activity as evidence of threat, not proof of stability.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 Containment Division holds residents and administers restrictions. Engineering maintains redundant structures, power feeds, and self-repairing environmental systems. Security controls heavily restricted access and lower-route seals. Medical remains on call where resident influence threatens personnel. Archive preserves degradation histories because the floor's incidents are often slow enough to be mistaken for maintenance data.
 
@@ -124,7 +124,7 @@ FTEHSRES doctrine holds that some containment is a war of attrition, and the flo
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - ACT-SITE-02-RU-N-F-2 Entropic and Unstable Resident Holding Floor Dossier;
 - ACT-SITE-02-RU-N-F-1 The Long Sleep Floor Dossier;
@@ -136,7 +136,7 @@ FTEHSRES doctrine holds that some containment is a war of attrition, and the flo
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - Can a resident degrade redundancy as an idea rather than as a structure?
 - How many successful repairs should count as proof that the resident is worsening?
@@ -147,7 +147,7 @@ FTEHSRES doctrine holds that some containment is a war of attrition, and the flo
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Created:** 2026-09-16
 **Author Desk:** Floor Holding Chief / Restricted-Hold Command / Engineering Support / Central Archive
