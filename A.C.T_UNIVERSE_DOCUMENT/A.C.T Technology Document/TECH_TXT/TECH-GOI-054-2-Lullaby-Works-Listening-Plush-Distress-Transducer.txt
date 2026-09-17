@@ -96,9 +96,9 @@ Known construction findings:
 - no driver, no coil, no membrane, and no power cell have been located that could account for the reported vocal output;
 - the interior of the force-opened unit did not match its external volume, and Engineering records this as a construction discrepancy rather than as concealment.
 
-Packaging and documentation features shared across the Lullaby Works range: a stitched **half-moon** mark, a warranty line promising **three quiet nights**, a **caregiver instruction card** written to be understood by a frightened adult, and instruction text that is short and gentle rather than technical.
+The plush carries the range's stitched **half-moon** mark and the **three quiet nights** warranty line. Its instruction card is the shortest in the recovered set and the only one that gives a procedure for an injured adult rather than for a frightened child, which is what a manufacturer writes when it already knows the product bites.
 
-The mechanism is unresolved. The dossier carries the same open question at GOI level: what material source allows soft toys, paper goods, lamps, and blankets to respond to abnormal threats.
+What separates the plush from the rest of the range is that it acts on a person rather than on a room. A lamp reports. A blanket damps. The plush closes its jaw on whatever is nearest, and the manufacturer's own warranty fragment shows it answering for the result afterwards.
 
 ---
 
@@ -163,7 +163,7 @@ CROSS-REFERENCES
 - Lullaby Works warranty card fragment set [restricted];
 - Subject Care Division caregiver-injury statement file [restricted].
 
-This record is not listed in the ACT Technological Master Index 50 or the ACT Technological Visual Reference Guide. Both catalogue A.C.T-manufactured and A.C.T-controlled assets. This product is GOI-origin, unreproducible by A.C.T, and has never been fully disassembled, so it is catalogued in the GOI technology series.
+The Master Catalog and the Visual Reference Guide both leave this product out for the same reason: there is nothing to draw. The one plush A.C.T opened was destroyed by the opening, so no illustration in the reference set could show anything except an empty shell that no longer works.
 
 ---
 

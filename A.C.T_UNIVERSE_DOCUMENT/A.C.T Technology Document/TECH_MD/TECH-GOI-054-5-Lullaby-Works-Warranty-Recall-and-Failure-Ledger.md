@@ -138,7 +138,7 @@ Intelligence Division owns ledger recovery, contact-channel assessment, recall r
 - Blue card contact transcript [restricted];
 - Intelligence Division unreconciled recall lot register [restricted].
 
-This record is not listed in the ACT Technological Master Index 50 or the ACT Technological Visual Reference Guide. Both catalogue A.C.T-manufactured and A.C.T-controlled assets. This is a GOI-operated documentary system with no A.C.T equivalent, so it is catalogued in the GOI technology series.
+Both reference documents describe hardware. The Master Catalog numbers physical assets and the Visual Reference Guide illustrates them. Neither has a form for a paper system operated by an organisation A.C.T cannot locate, and this entry sits in the GOI series because there was nowhere else to put it.
 
 ---
 

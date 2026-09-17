@@ -2321,6 +2321,30 @@ Remaining after this batch: 55 `TECH-GOI` records still on the old four-section 
 `TECH-GOI-054` Lullaby Works is now complete at house standard (all 5 records).
 The five `TECH-GOI-071` Mercy Lock records already carried the house sections.
 
+Audit result on the A.C.T reference documents, run at the user's request:
+`ACT_Technological_Master_Index_50.md` numbers 50 assets and 49 of them had a `TECH-ACT` record.
+**Item 23, NEURO-MANTID SACRAL-SPURS, had no record at all** - it appeared only in the Master
+Index, the Visual Reference Guide, and their `.txt` twins. `TECH-ACT` numbering is an
+independent sequence and does not track Master Index item numbers, so the gap was invisible by
+position (`TECH-ACT-023` is Genetic Perfection Protocol). It was found by reconciling the item
+list against record content. Written as `TECH-ACT-137` (2022 words) and registered in all three
+indexes as a proper three-line list entry plus a closing summary sentence.
+Cross-reference thinness measured and not yet fixed: of 137 `TECH-ACT` records only 46 cite the
+Master Index, 43 the Visual Reference Guide, 11 the Evolution Timeline.
+
+ANTI-TEMPLATING RULE now standing: no boilerplate paragraph may be reused across records, and
+section sets must be chosen to fit the technology rather than stamped. 11 copied passages were
+rewritten as record-specific prose across the five `TECH-GOI-054` records; repetition at >=8
+words is now `TECH-ACT` 2 sentences in 3+ records and `TECH-GOI` 1. `TECH-ACT-137` uses
+PROVENANCE AND REVERSE-ENGINEERING STATUS, FITMENT AND BIO-FEED INTEGRATION, and DEPLOYMENT
+ENVELOPE instead of the generic ORIGIN AND CUSTODY / OPERATING PROCEDURE pair.
+
+INDEX-EDIT LESSON: inserting a record into `TECH_MD/README.md` or `TECH_TXT/README.txt` must
+follow the last line of the previous record's three-line entry, not the last line in the file
+that mentions the previous code - that line is the closing summary paragraph and substituting
+into it duplicates a whole paragraph. Always anchor on the list-entry line and assert the two
+link lines follow it.
+
 Batch shipped in this prompt: `TECH-GOI-054-2` Listening Plush Distress Transducer (1959 words),
 `TECH-GOI-054-3` Quiet Blanket Panic-Reduction Weave (1850), `TECH-GOI-054-4` Nightmare-Loop
 Music Box Interrupter (1781), `TECH-GOI-054-5` Warranty Recall and Failure Ledger (1815).

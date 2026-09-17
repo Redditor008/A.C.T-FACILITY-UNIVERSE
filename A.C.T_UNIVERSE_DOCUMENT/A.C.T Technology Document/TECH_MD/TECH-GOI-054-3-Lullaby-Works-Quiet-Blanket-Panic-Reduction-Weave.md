@@ -76,11 +76,11 @@ Known construction findings:
 - fibre comparison against commercial children's bedding has not produced a match, and Engineering has not identified the fibre type;
 - the weave does not correspond to any pattern in the Engineering textile reference set.
 
-Packaging and documentation features shared across the range: a stitched **half-moon** mark, a warranty line promising **three quiet nights**, a **caregiver instruction card** written to be understood by a frightened adult, and instruction text that is short and gentle rather than technical.
+The blanket carries the **half-moon** mark and the **three quiet nights** line. It is the only recovered item whose instruction card sets out no handling rule whatsoever, and that absence is informative: the manufacturer told caregivers nothing to do, which is what you write for a product whose function depends on being left exactly where it is.
 
 Laundering behaviour is unknown and is an active risk. A.C.T has not established whether washing degrades, resets, or destroys the weave, and no laundering trial has been authorized because it would consume a unit still in service.
 
-The mechanism is unresolved. The dossier carries the same open question at GOI level: what material source allows soft toys, paper goods, lamps, and blankets to respond to abnormal threats.
+What separates the blanket from the rest of the range is its timescale. Everything else in the Lullaby Works set responds inside a single night. The blanket works across nights, which makes it the only item A.C.T can watch improve a child's condition and the only one that can fail slowly enough for nobody to notice until it has.
 
 ---
 
@@ -147,7 +147,7 @@ Subject Care Division authorizes retention, transfer, and removal, and owns the 
 - ACT_Personnel_Exposure_E_Class_and_Resilience_Doctrine — for the contrast between memory suppression and memory tolerance;
 - Subject Care Division post-incident recovery guidance [restricted].
 
-This record is not listed in the ACT Technological Master Index 50 or the ACT Technological Visual Reference Guide. Both catalogue A.C.T-manufactured and A.C.T-controlled assets. This product is GOI-origin, unreproducible by A.C.T, and has never been destructively sampled, so it is catalogued in the GOI technology series.
+A textile whose fibre Engineering cannot identify cannot be specified in the Visual Reference Guide, and a product with no recovered lot label cannot be numbered in the Master Catalog. The omission follows from what A.C.T failed to recover, not from a filing decision.
 
 ---
 

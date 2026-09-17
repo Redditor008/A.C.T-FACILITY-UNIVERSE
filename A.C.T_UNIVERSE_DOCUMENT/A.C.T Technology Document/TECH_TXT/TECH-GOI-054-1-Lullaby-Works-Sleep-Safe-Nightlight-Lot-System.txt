@@ -108,7 +108,7 @@ Known marking and packaging features:
 
 Inspection results on the three recovered units are consistent and unhelpful. No sensor array, no wiring loom, no identifiable power cell matching the observed output duration, and no thermal signature consistent with sustained illumination have been located. The internal volume does not account for the observed function. Engineering records this as a construction discrepancy rather than as a concealment finding; nothing in the units appears to be hidden, and nothing in them appears to be present.
 
-The mechanism is unresolved. The Lullaby Works dossier carries the same question at GOI level: what material source allows soft toys, paper goods, lamps, and blankets to respond to abnormal threats.
+What separates the nightlight from the rest of the recovered range is that its response can be watched from outside the room. A blanket has to be slept under. A plush has to be held. The nightlight changes in a way an adult standing in a doorway can see, which is why shelter staff were able to build a protocol around it and why it is the only Lullaby Works item with a written procedure attached.
 
 ---
 
@@ -172,7 +172,7 @@ CROSS-REFERENCES
 - Subject Care Division monitored-care authority file for the sealed pediatric shelter [restricted];
 - Lullaby Works recovered instruction slip set [restricted].
 
-This record is not listed in the ACT Technological Master Index 50 or the ACT Technological Visual Reference Guide. Both documents catalogue A.C.T-manufactured and A.C.T-controlled assets. Lullaby Works product is GOI-origin, partially recovered, and not reproducible by A.C.T, so it is catalogued in the GOI technology series instead.
+Neither the ACT Technological Master Index 50 nor the Visual Reference Guide carries this product, and neither should. The Master Catalog numbers assets A.C.T can issue; fourteen of these nightlights sit in a shelter A.C.T does not control. The Visual Reference Guide describes hardware personnel can identify and maintain; A.C.T has never opened one and does not intend to.
 
 ---
 
