@@ -205,7 +205,7 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2085-12-04
 Author Desk: Research Division / Seismic Analysis Support / Maritime Recovery Command / Central
 Archive
 Review Status: Active Sonar Void research infrastructure record; live coordinates, void-family comparisons, and Death

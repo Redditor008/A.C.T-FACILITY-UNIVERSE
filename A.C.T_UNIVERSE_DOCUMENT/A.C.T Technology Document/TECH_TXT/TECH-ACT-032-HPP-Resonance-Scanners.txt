@@ -96,6 +96,50 @@ be morally
 special, heroic, cursed, or safe. They are resonant. The archive records physical result rather
 than myth.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and screening doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| GATE PARAMETER             | VALUE                                                                                 |
++============================+=======================================================================================+
+| Form                       | walk-through scanner gateway                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Sensing                    | paired vertical light-pillars with restricted sensor arrays                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Readout                    | PR-Score digital counter, shielded from public display                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Comparison                 | static-pulse comparison board                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Clinical link              | medical baseline interface                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Output                     | assignment flag module                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Privacy                    | operator privacy shield                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Records                    | scan log buffer                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Detection light            | deep-violet HPP indication                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Standby colour             | white pillars                                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Measured channels          | body field, pulse stability, neural timing, static response, psychic weight           |
++----------------------------+---------------------------------------------------------------------------------------+
+| PR-score band definitions  | held at Level 4                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Scan duration              | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Site static calibration    | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The scanner is not a personality test and not proof of supernatural talent. A
+high score may mean
+sensitivity, danger, suitability, or fragility, and a low score only means the scanner did
+not detect that
+profile on that day.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 The standard HPP-RS is a walk-through gateway. Two vertical light-pillars hold restricted sensor arrays.
 The top beam
@@ -115,7 +159,54 @@ The scanner must be calibrated against site static conditions. A scanner moved f
 Grave to Verde Null without
 recalibration may produce misleading scores.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Gate Controls
+
+- operator privacy shield
+- assignment flag module
+- medical baseline interface
+- site static calibration
+
+Pillar And Counter Readouts
+
+- PR-Score digital counter
+- deep-violet HPP detection light
+- static-pulse comparison
+- scan log buffer entry
+
+Screening And Personnel Limits
+
+- Do not scan a subject wearing conductive jewelry or active dampening patches.
+- Do not route the same high-score staff to consecutive reactive assignments.
+- Do not disclose an approximate score to the subject.
+- Do not read a low score as safety.
+- Weakest after amnestic shock, sleep collapse, or sedation.
+- Weakest near active artifacts or narrative bleed.
+
+Band definitions and calibration figures are restricted or NOT MEASURED.
+
 OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+Assignment screening, Level 3 operation with Level 4 score access.
+
+1. Inform the subject that screening may restrict assignments.
+2. Record injuries, amnestic exposure, sleep loss, and neurological history.
+3. Remove conductive jewelry, unapproved implants, and dampening patches.
+4. Refer implanted resonance controls to Level 4 review.
+5. Walk the subject through the gate once.
+6. Hold at the centre mark in silence until the scan completes.
+7. Flag the assignment outcome without disclosing the score.
+8. File the scan log buffer entry.
+
+Step-down: the pillar returns to white standby and the counter is cleared from public
+view. Emergency: an
+assignment override is a Level 5 act and is logged against the authorizing officer,
+never against the
+subject's score.
+
 Before screening, the subject is informed that the process may restrict assignments. Medical records
 current injuries,
 amnestic exposure, sleep deprivation, neurological history, and contact with known resonance hazards. The subject
@@ -133,6 +224,53 @@ unstable resonance.
 After screening, Personnel Screening updates assignment flags. The subject does not receive full score
 access unless
 cleared, because knowledge of a high score can cause reckless volunteering, fear, or self-mythology.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| After relocation           | site static recalibration                 | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Implanted resonance control| Level 4 review before scanning            | Level 4                                   |
+| present                    |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| PR-score access            | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Assignment override        | Level 5 procedure                         | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Scan log buffer full       | buffer transfer to Archive                | Personnel Screening Desk                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Suspected false low        | rescan after recovery period              | Medical Division                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; the gate is calibrated on relocation rather than on
+a schedule, so
+interval NOT MEASURED. There is no consumable. The 2016 review is why consecutive HPP-reactive
+assignments
+are limited.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Glow treated as harmless   | luminous preference not read as risk      | reclassify; 1992 case                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Same staff always routed to| high score overused                       | limit rotation; 2016                      |
+| artifacts                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Subject quoting their own  | informal disclosure                       | contain it; 2026 case                     |
+| score                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Flat reading after         | false low                                 | rescan after recovery                     |
+| amnestics                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Spike near an active       | environmental resonance                   | move the gate or the artifact             |
+| artifact                   |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Pillars violet with no flag| band boundary case                        | Level 4 review                            |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 HPP-RS cannot define the soul, cannot rank human worth, and cannot identify every anomalous
@@ -188,9 +326,13 @@ high-HPP staff be
 barred from blood-contact artifact work entirely? Can an artifact learn a subject's resonance from
 archived scan data?
 What amount of score disclosure helps safety without creating self-mythology?
+- How are PR-score bands defined, and what assignment follows each band?
+- How far does a site static recalibration hold after a gateway is relocated?
+- What did the 2026 self-mythology case change about score disclosure policy?
+
 
 FILE METADATA
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2091-07-24
 Author Desk: Personnel Screening Desk / Medical Division / Central Archive
 Review Status: Active screening record; sensor composition and PR-score thresholds censored
 Next Review: After any HPP-triggered activation, assignment override, scan contradiction, or score privacy breach

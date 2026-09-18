@@ -209,7 +209,7 @@ facility survive its daily work.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2065-05-14
 - **Author Desk:** Floor Holding Chief / Containment Division / Central Archive
 - **Review Status:** Active standard object chamber technology record; live Box maps, resident
   identities, and transfer thresholds censored

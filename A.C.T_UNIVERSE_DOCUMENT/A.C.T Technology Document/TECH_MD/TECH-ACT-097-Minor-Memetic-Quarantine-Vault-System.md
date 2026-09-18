@@ -194,7 +194,7 @@ not a grave.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2020-12-08
 - **Author Desk:** F-1 Quarantine Officer / Archive Lead / Central Archive
 - **Review Status:** Active minor memetic quarantine record; live vault maps, hazard extracts, and
   transfer schedules censored

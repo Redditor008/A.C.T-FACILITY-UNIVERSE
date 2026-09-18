@@ -219,7 +219,7 @@ loudest alarm.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2094-01-05
 - **Author Desk:** Site Director Command Floor / Duty Command Officer / Central Archive
 - **Review Status:** Active command-floor technology record; live status feeds, duty rosters, authority
   keys, and decision ledgers censored

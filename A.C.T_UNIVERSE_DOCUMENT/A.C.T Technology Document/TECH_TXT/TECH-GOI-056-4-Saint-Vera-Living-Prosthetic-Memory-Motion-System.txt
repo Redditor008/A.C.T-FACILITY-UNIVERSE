@@ -217,9 +217,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-FILE CREATED: [Random Date]/[Random Month]/2XXX
+FILE CREATED: 09/11/2009
 
-FILE LAST UPDATED: [Random Date]/[Random Month]/2XXX
+FILE LAST UPDATED: 09/11/2019
 
 FILE AUTHOR: Medical Division / Transformation Review Liaison
 

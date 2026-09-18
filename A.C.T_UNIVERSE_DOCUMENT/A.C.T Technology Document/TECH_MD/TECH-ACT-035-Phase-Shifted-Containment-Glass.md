@@ -100,6 +100,35 @@ monitored procedure.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and observation doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| PANEL PARAMETER | VALUE |
+|---|---|
+| Medium | multi-layer transparent phase medium |
+| Signature | faint rainbow oil-slick sheen under angled light |
+| Polarization | polarizing dial adjusting visual fidelity |
+| Phase control | digital phase-slider adjusting observation phase |
+| Frame | reinforced containment frame with power couplers and safety locks |
+| Emergency | opacity circuit |
+| Gaze control | gaze-diffusion laminate |
+| Tangibility | tangibility-offset controller |
+| Status | observation-side status strip |
+| Service | maintenance phase lock |
+| Presets | interview, medical check, visual hazard, spatial phase, emergency opaque |
+| Phase offset range | NOT MEASURED |
+| Fidelity reduction scale | NOT MEASURED |
+| Panel calibration record | NOT MEASURED |
+
+The glass is both pane and filter, and it must be mapped to its
+room: a panel calibrated for one suite can
+produce dangerous distortion in another without a phase survey. In some settings it is
+the room's first line
+of mercy.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A PSCG panel appears almost ordinary from a distance. Close inspection shows a faint
@@ -131,7 +160,54 @@ another without phase survey.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Frame Controls
+
+- polarizing dial
+- digital phase-slider
+- emergency opacity circuit
+- maintenance phase lock
+- operator presets
+
+### Observation Readouts
+
+- observation-side status strip
+- current phase and fidelity setting
+- tangibility-offset state
+- gaze-diffusion laminate state
+
+### Observation And Personnel Limits
+
+- Do not begin above low fidelity.
+- Do not spin the polarizing dial for a better look.
+- Do not raise clarity as a substitute for repairing audio.
+- Do not move a panel to another suite without a phase survey.
+- Do not treat the panel as permission to stare.
+- Weakest against symbols that act through any recognition.
+- Weakest against hazards travelling by written description after observation.
+
+Phase range, fidelity scale, and calibration records are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Filtered observation, Level 3 use with Level 4 phase adjustment.
+
+1. Identify the hazard type before approaching the panel.
+2. Have Engineering verify panel calibration for this room.
+3. Have Security confirm the emergency opacity circuit.
+4. Have Subject Care confirm observation is necessary.
+5. Test any visor delay through the panel rather than assuming it.
+6. Begin at low fidelity.
+7. Increase fidelity only as the task requires.
+8. Log the setting used and the observation outcome.
+
+Step-down: the panel returns to its preset and the maintenance phase lock is set
+before staff leave.
+Emergency: the opacity circuit closes the viewing relationship outright, and a desynchronized-subject
+interface override is Level 5.
 
 Before observation, staff identify the hazard type: visual trigger, direct gaze, phased contact, biological
 compulsion, spatial drift, or unknown. Engineering verifies panel calibration. Security confirms that emergency
@@ -153,6 +229,34 @@ reviews
 scratches, sheen uniformity, phase-slider lag, and seal temperature.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before each observation | calibration and opacity check | Level 3, locally certified |
+| Phase adjustment | Level 4 procedure | Level 4 |
+| Panel moved to another suite | full phase survey | Engineering Division |
+| Visor pairing | delay test through the panel | Field Safety Desk |
+| Desynchronized-subject override | Level 5 procedure | Level 5 |
+| Sheen or laminate damage | panel withdrawal | Engineering Division |
+
+No calendar interval is recorded; the panel is calibrated on installation and on relocation,
+so interval NOT
+MEASURED. There is no consumable. The 2014 over-clarity case is why clarity adjustment is
+never accepted in
+place of an audio repair.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Subject reacting to an eye line | clarity raised for lip-reading | forbidden; 2014 case |
+| Safe viewing only with restrictions | filter layer, not permission | pair it; 2024 case |
+| Visor delay wrong through the pane | high-offset conflict | retest; 2026 case |
+| Distortion after a panel swap | no phase survey | withdraw the panel |
+| Opacity circuit not responding | circuit fault | do not observe; repair first |
+| Subject distressed by being watched | manners, not glass | end the session |
 
 ## KNOWN LIMITS
 
@@ -235,11 +339,16 @@ reach you.
   temporally
   delayed?
 
+- What phase offset range does the slider actually cover, and who calibrates it
+  per suite?
+- How is fidelity reduction scaled against a known visual-trigger hazard?
+- What did the 2026 visor delay conflict change about paired PPE procedure?
+
 ---
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2080-04-01
 - **Author Desk:** Engineering Division / Observation Safety Desk / Central Archive
 - **Review Status:** Active observation-safety record; phase medium and desynchronization settings
   censored

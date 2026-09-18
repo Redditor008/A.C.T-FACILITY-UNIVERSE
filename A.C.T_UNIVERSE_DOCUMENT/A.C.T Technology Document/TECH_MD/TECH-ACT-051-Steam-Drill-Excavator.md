@@ -219,7 +219,7 @@ A.C.T.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2078-10-21
 - **Author Desk:** Historical Engineering Archive / Abyss Engineering / Central Archive
 - **Review Status:** Retired historical technology record; reconstruction data and descent-route ledgers
   censored

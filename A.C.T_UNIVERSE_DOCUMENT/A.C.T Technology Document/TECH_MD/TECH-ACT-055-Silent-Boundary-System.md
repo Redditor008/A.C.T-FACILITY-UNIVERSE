@@ -229,7 +229,7 @@ carried carefully.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2065-08-21
 - **Author Desk:** Civil Covert Division / Intelligence Division / Central Archive
 - **Review Status:** Active normalcy infrastructure record; front organization lists and N-5 operation
   procedures censored

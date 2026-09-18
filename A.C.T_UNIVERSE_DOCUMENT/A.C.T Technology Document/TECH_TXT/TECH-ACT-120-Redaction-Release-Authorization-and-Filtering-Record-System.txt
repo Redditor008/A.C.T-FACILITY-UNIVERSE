@@ -198,7 +198,7 @@ or quoted procedure?
 
 FILE METADATA
 
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2045-05-27
 Author Desk: Redaction Authority Desk / Archive Division / Central Archive
 Review Status: Active redaction-release technology record; source texts, release identifiers, objection details, and
 recall routes censored

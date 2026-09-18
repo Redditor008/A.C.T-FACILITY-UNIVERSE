@@ -190,7 +190,7 @@ too effectively? Which quarantined files are too dangerous to transfer even to c
 
 FILE METADATA
 
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2017-09-08
 Author Desk: Archive Division / Redwood Veil F-7 / Central Archive
 Review Status: Active archive containment record; cell maps and resident-document list censored
 Next Review: After any access violation, self-rewrite event, QNB mismatch, unauthorized copy, or quarantine

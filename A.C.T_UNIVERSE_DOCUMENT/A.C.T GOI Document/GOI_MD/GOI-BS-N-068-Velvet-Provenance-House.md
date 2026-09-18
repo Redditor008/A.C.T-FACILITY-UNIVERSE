@@ -537,8 +537,8 @@ substitution.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            16/08/2062
+FILE LAST UPDATED:       16/08/2070
 FILE AUTHOR:             Intelligence Division / Legal / Recovery / Civil Covert Joint Desk
 REVIEWED BY:             Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

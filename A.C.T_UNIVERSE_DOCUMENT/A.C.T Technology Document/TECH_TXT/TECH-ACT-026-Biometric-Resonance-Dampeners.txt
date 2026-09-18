@@ -93,6 +93,52 @@ Pulse-sync settings are restricted because hostile groups could use them to imit
 bypass living
 detectors, or move past anomalies that A.C.T relies on as passive warning systems.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and wear procedure. Values the
+archive does not
+hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| PATCH PARAMETER            | VALUE                                                                                 |
++============================+=======================================================================================+
+| Form                       | skin-colored adhesive patch                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Placement                  | behind the ear, on clean skin                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Smoothing                  | micro-injector node for short-duration biological smoothing                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Controller                 | Pulse-Sync Chip managing the masking field                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Contact                    | conductive gel layer                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Indicator                  | blinking green status LED                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Warnings                   | dull amber for adhesive failure, pulse overload, injector depletion                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Seal                       | adhesive seal                                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Timing                     | short-wear timer                                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Configuration              | subject-profile setting                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Disposal                   | disposal tab; the patch is single-use                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Masking modes              | background noise, low-interest static, approved decoy profile                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Approved wear duration     | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Injector dose              | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Detection reduction        | NOT MEASURED                                                                          |
+| achieved                   |                                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The green LED confirms active masking and does not prove the wearer is medically
+safe. The patch is
+disposable after use, because reuse risks bad readings, skin contamination, and a false green
+confirmation.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 A standard BRD is a skin-colored adhesive patch worn behind the ear. It contains
 a micro-injector node, Pulse-Sync
@@ -109,7 +155,56 @@ disposal tab.
 The patch is disposable after use. Reuse risks bad readings, skin contamination, and false
 green confirmation.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Patch And Wear Controls
+
+- adhesive seal behind the ear
+- subject-profile setting
+- short-wear timer
+- disposal tab
+
+Status Readouts
+
+- blinking green masking LED
+- dull amber adhesive, overload, and depletion warnings
+- Pulse-Sync baseline contact state
+- activation and approved removal time held by the field lead
+
+Wear And Personnel Limits
+
+- Do not activate before the Pulse-Sync Chip has baseline contact.
+- Do not treat a green blink as medical clearance.
+- Do not keep a patch on after mission end to smooth a debrief
+  reading.
+- Do not reuse a patch on a second wearer or a second mission.
+- Do not read masking as a substitute for calm.
+- Weakest against entities that hear the real heart directly.
+- Weakest against hazards that hunt emotional meaning rather than rhythm.
+
+Approved wear duration and injector dose are not recorded. Wear envelope: NOT MEASURED.
+
 OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+Predator-mission wear, Medical check with field lead recording.
+
+1. Confirm cardiac condition, stimulant use, injury, stress level, and prior reaction.
+2. Clean the skin behind the ear.
+3. Place the patch and confirm adhesive seal.
+4. Activate only after the Pulse-Sync Chip reports baseline contact.
+5. Wait for a stable green blink before moving.
+6. Record activation time and approved removal time.
+7. Report dizziness, numbness, flattening, ear heat, or irregular heartbeat.
+8. Remove at the recorded time and use the disposal tab.
+
+Step-down: removal happens at the recorded time and never later to hide a tremor
+reading. Emergency: if a
+subject turns toward the team despite active masking, the mission treats the masking as
+failed and withdraws
+rather than adding distance alone.
+
 Before wear, Medical checks cardiac condition, stimulant use, injury, stress level, and prior reaction.
 The patch is
 placed behind the ear on clean skin and activated only after the Pulse-Sync Chip
@@ -127,6 +222,50 @@ only. The subject may use smell, heat, thought, guilt, or other channels.
 Do not wear BRD to hide from A.C.T medical monitors, access systems, disciplinary review,
 or personnel audits. Do not
 stack patches. Do not exceed wear time because the LED is still green.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED ACTION                           | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Before each wear           | cardiac, stimulant, and skin check        | Medical Division                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Adhesive failure suspected | adhesive resistance check                 | Field Safety Desk                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Injector depletion warning | patch withdrawal and replacement          | Medical Division                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Long mission wear          | touch-confirmation at intervals           | Field lead                                |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Pulse overload warning     | remove and refer to Medical               | Medical Division                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| After each wear            | disposal, never reissue                   | Level 3, locally certified                |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+The patch is the consumable: it is single-use and is destroyed at the disposal
+tab, so a service interval
+does not apply and calendar interval NOT MEASURED. The 2011 false green is why
+adhesive resistance is
+checked rather than assumed.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Green blink with loose     | partial adhesive failure                  | touch-confirm; 2011 case                  |
+| adhesive                   |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Second spike not dampened  | overload after the first spike            | withdraw; 2017 case                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Rebound panic after removal| patch worn past mission end               | report; 2024 case                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Amber adhesive warning     | seal losing contact                       | replace before entry                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Dizziness or ear heat      | injector or gel reaction                  | remove and refer to Medical               |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Wearer feeling unnaturally | emotional flattening                      | end the wear; log the profile             |
+| flat                       |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 BRD cannot mask scent, heat, speech, memory, guilt, visual motion, psychic signature, or physical
@@ -184,9 +323,15 @@ hostile actors use stolen patches to bypass living security checks? Should BRD b
 during interviews because
 it may flatten visible truth cues? How much panic can be masked before the
 heart itself becomes unsafe?
+- What is the approved wear duration before dissociation risk rises, and who sets
+  it per mission?
+- What dose does the micro-injector deliver, and what is its depletion curve?
+- Which predators have been shown to hear the real heart through an active
+  patch?
+
 
 FILE METADATA
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2068-10-15
 Author Desk: Field Safety Desk / Medical Division / Engineering Division / Central Archive
 Review Status: Active restricted record; pulse-sync and micro-injector details censored
 Next Review: After any false green event, panic overload, cardiac reaction, or unauthorized concealment

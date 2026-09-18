@@ -602,8 +602,8 @@ separation from Saint-Vera personnel.
 FILE METADATA
 -------------
 
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            25/02/2078
+FILE LAST UPDATED:       25/02/2079
 FILE AUTHOR:             Medical Division / Subject Care Division / Intelligence Joint Desk
 REVIEWED BY:             Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

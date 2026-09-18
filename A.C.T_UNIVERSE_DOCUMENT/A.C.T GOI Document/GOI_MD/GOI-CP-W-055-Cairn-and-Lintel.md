@@ -565,8 +565,8 @@ space not represented on ordinary maps.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            06/09/2080
+FILE LAST UPDATED:       06/09/2087
 FILE AUTHOR:             Intelligence Division / Recovery Division / Civil Covert Joint Desk
 REVIEWED BY:             Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

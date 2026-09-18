@@ -206,7 +206,7 @@ its origin.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2037-02-06
 - **Author Desk:** Seismic Analysis Support / Records and Monitoring Chief / Central Archive
 - **Review Status:** Active monitoring-processing record; routing thresholds and restricted comparison
   patterns censored

@@ -549,8 +549,8 @@ without ordinary entry history.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            23/08/2087
+FILE LAST UPDATED:       23/08/2090
 FILE AUTHOR:             Intelligence Division / Civil Covert / Recovery Joint Desk
 REVIEWED BY:             Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

@@ -557,8 +557,8 @@ or displaced civilians.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            18/12/2060
+FILE LAST UPDATED:       18/12/2071
 FILE AUTHOR:             Intelligence Division / Recovery / Civil Covert / Logistics Joint Desk
 REVIEWED BY:             Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

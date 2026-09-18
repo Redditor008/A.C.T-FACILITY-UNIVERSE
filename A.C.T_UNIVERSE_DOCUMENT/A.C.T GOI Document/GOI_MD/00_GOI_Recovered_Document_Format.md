@@ -415,8 +415,8 @@ A.C.T will not:
 ### File Metadata
 
 ```text
-FILE CREATED:        [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:   [Random Date]/[Random Month]/2XXX
+FILE CREATED:        09/07/2073
+FILE LAST UPDATED:   09/07/2076
 FILE AUTHOR:         Intelligence Division / Archiver Division
 REVIEWED BY:         External Threat Review / Central Archive
 FILE STATUS:         ACTIVE

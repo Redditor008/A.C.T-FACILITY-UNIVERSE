@@ -208,8 +208,8 @@ technology index.
 
 ## FILE METADATA
 
-- FILE CREATED: [Random Date]/[Random Month]/2XXX
-- FILE LAST UPDATED: [Random Date]/[Random Month]/2XXX
+- FILE CREATED: 01/03/2043
+- FILE LAST UPDATED: 01/03/2046
 - FILE AUTHOR: Subject Care Division / Medical Division Joint Desk
 - REVIEWED BY: Central Archive
 - FILE STATUS: ACTIVE / RESTRICTED

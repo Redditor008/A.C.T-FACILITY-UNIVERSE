@@ -352,7 +352,7 @@ should happen at all.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2028-02-24
 - **Author Desk:** Medical Division / Surgical Materials Custody / Central Archive
 - **Review Status:** Active restricted record; signature-tracking details censored
 - **Next Review:** After any signature drift, gold contamination, breach disarticulation, or

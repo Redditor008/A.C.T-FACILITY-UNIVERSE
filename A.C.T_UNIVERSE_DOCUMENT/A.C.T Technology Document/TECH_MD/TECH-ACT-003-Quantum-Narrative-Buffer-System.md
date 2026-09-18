@@ -530,8 +530,8 @@ Narrative Buffer System.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            13/08/2055
+FILE LAST UPDATED:       13/08/2057
 FILE AUTHOR:             Archive Division / Engineering Division Joint Desk
 REVIEWED BY:             Central Archive / Site Command Technical Board / Memory Review
 FILE STATUS:             ACTIVE / RESTRICTED

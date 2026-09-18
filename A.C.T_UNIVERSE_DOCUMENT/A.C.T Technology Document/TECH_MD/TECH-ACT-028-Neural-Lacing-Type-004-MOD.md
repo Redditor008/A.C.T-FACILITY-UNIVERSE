@@ -101,6 +101,35 @@ what it still allows.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's clinical description and implant doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| IMPLANT PARAMETER | VALUE |
+|---|---|
+| Structure | fine golden neural lattice along approved neural routes |
+| Scan appearance | visible on high-level scans as a distributed lattice |
+| External sign | small scar near the base of the skull |
+| Healing cover | redacted medical patch during early healing or maintenance |
+| Input | micro-receiver resting at a redacted site |
+| Action | routes selected input into an internal signal-sink |
+| Governance | narrow filter list written per patient |
+| Derivation | 004-Series memory-control doctrine |
+| Difference from a dose | prevents memory forming rather than altering it after |
+| Filter list contents | held at Level 5 |
+| Signal-sink capacity | NOT MEASURED |
+| Approved exposure cap | NOT MEASURED |
+| Lattice lifespan | NOT MEASURED |
+| Receiver tuning range | NOT MEASURED |
+
+A dose removes or alters memory after exposure; the lattice tries to stop specific
+dangerous information
+from completing memory formation at all. Broad filters are denied because they can erase
+context, flatten
+personality, or hide institutional misconduct.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 NL-004 appears on high-level scans as a fine golden neural lattice distributed along approved
@@ -131,7 +160,54 @@ prevented them from knowing.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Clinical Controls
+
+- micro-receiver tuning, Level 5
+- filter list authorisation, Level 5
+- maintenance patch access
+- safe analog test signal before real exposure
+
+### Patient And Console Readouts
+
+- lattice visibility on high-level scans
+- receiver response to analog test signals
+- exposure count against the approved cap
+- reported symptoms: headaches, blank spaces between sentences
+
+### Clinical And Personnel Limits
+
+- Do not write a filter around a symbol family when one symbol is
+  the hazard.
+- Do not exceed the approved exposure cap in a shift.
+- Do not accept a missing memory as evidence of no exposure.
+- Do not expand a filter without Level 5 review.
+- Weakest against hazards outside the filter list.
+- Weakest against threats entering through touch, blood, dream, or non-cognitive channels.
+
+Sink capacity, exposure cap, and lattice lifespan are not recorded. Envelope: NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Implant approval and use, Level 4 Medical with Info-Hazard justification.
+
+1. Complete Medical review and Info-Hazard justification.
+2. Complete the Personnel Resilience assessment.
+3. Obtain command authorization.
+4. Write the narrowest filter list that covers the hazard.
+5. Explain in plain language what may fail to stay.
+6. Implant and enter monitored recovery.
+7. Test the micro-receiver with safe analog signals.
+8. Begin field or archive use only after the test passes.
+
+Step-down: exposure counting stops at the cap and the patient is rotated out rather
+than extended.
+Emergency: an unauthorized filter expansion request is refused at the desk and escalated, which
+is the
+standing outcome of the 2024 attempt.
 
 Implant approval requires Medical review, Info-Hazard justification, Personnel Resilience assessment, and command
 authorization. The filter list must be narrow. Broad filters are denied because they can
@@ -152,6 +228,34 @@ use it to create staff who
 cannot remember orders were unlawful. Do not expand a filter list quietly.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before first exposure | analog signal test | Level 4 Medical |
+| Exposure cap reached | rotation and symptom review | Medical Division |
+| Headaches or blank-space reports | sink saturation review | Level 5 |
+| Filter revision | narrowing review | Level 5 |
+| Maintenance patch access | clinical procedure | Level 4 Medical |
+| Permanent memory exclusion | Level 5 procedure | Level 5 |
+
+No calendar interval is recorded; servicing follows exposure counts and symptom reports, so interval
+NOT
+MEASURED. There is no consumable. The 2018 saturation case is why exposure caps are
+mandatory rather than
+advisory.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Benign signage no longer recalled | filter written around a symbol family | narrow it |
+| Headaches and blank spaces | signal-sink saturation | cap exposure; 2018 case |
+| Staff certain they were not exposed | no memory of exposure | verify externally |
+| Expansion requested by a supervisor | scope creep | refuse; 2024 case |
+| Hazard entering by touch or dream | channel outside the filter | add PPE, not filter |
+| Personality flattening reported | overfiltering | Level 5 review or removal |
 
 ## KNOWN LIMITS
 
@@ -231,11 +335,16 @@ absence.
 - Does long-term NL-004 use change how a person trusts their own recall?
 - What removal procedure preserves the patient without releasing retained residue?
 
+- What is the signal-sink capacity, and what happens to routed input when it
+  fills?
+- How is an approved exposure cap calculated for an archive shift?
+- Which memory edges remained missing after the 2014 narrowing, and are they recoverable?
+
 ---
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2031-11-05
 - **Author Desk:** Medical Division / Info-Hazard Division / Central Archive
 - **Review Status:** Active restricted record; filter lists and receiver tuning censored
 - **Next Review:** After any overfilter incident, unauthorized expansion request, signal-sink

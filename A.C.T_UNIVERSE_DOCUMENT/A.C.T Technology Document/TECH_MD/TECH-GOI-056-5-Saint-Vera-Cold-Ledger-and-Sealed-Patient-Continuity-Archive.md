@@ -200,8 +200,8 @@ a single procedure.
 
 ## FILE METADATA
 
-- FILE CREATED: [Random Date]/[Random Month]/2XXX
-- FILE LAST UPDATED: [Random Date]/[Random Month]/2XXX
+- FILE CREATED: 24/04/2054
+- FILE LAST UPDATED: 24/04/2064
 - FILE AUTHOR: Intelligence Division / Subject Care Joint Desk
 - REVIEWED BY: Central Archive
 - FILE STATUS: ACTIVE / RESTRICTED

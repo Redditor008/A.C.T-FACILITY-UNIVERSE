@@ -195,7 +195,7 @@ the hydration trigger to
 control the bloom?
 
 FILE METADATA
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2031-12-09
 Author Desk: Materials Custody / Hazardous Materials Desk / Central Archive
 Review Status: Active refined-material record; outgassing suppression and hopper-valve engineering details censored
 Next Review: After any bloom event, hopper humidity alarm, Blue Haze detection, over-seal incident,

@@ -666,8 +666,8 @@ organizational dossier and any subject file must remain distinct.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            22/05/2074
+FILE LAST UPDATED:       22/05/2086
 FILE AUTHOR:             Intelligence Division, Hostile Networks Desk
 REVIEWED BY:             Central Archive / Security Division / Civil Covert
                           Division / ACT-SITE-03 Document-Warfare Liaison

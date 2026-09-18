@@ -232,7 +232,7 @@ whether A.C.T deserves to enter.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2060-05-12
 - **Author Desk:** Tactical Review Desk / Engineering Division / Central Archive
 - **Review Status:** Active tactical record; recognition filter and future-operative pattern source
   censored

@@ -206,7 +206,7 @@ story given back to them.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2076-02-15
 - **Author Desk:** Processing Officer / Medical Lead / Central Archive
 - **Review Status:** Active witness processing record; live witness identities, dosage tables, release
   narratives, and assimilation referrals censored

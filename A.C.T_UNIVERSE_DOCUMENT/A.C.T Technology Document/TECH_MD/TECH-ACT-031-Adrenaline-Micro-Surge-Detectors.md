@@ -98,6 +98,35 @@ entities, reproductive compulsion subjects, and anomalies that use panic as a ta
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and suite doctrine. Values the
+archive does not
+hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| BAND PARAMETER | VALUE |
+|---|---|
+| Form | sleek silver wristband |
+| Gauge | circular adrenaline gauge showing surge intensity |
+| Display | LCD: baseline state, stress band, suite-link status, canister pressure, alarm route |
+| Sensing | pulse and endocrine response sensors |
+| Local release | refillable sedative canister for micro-release |
+| Room release | handled by the containment suite, not the band |
+| Disable | emergency auto-release pin for sedative release only |
+| Alert | vibration warning motor |
+| Link | suite-link transmitter |
+| Records | post-event stress log buffer |
+| Tuning | micro-surge thresholds, not ordinary stress |
+| Threshold values | NOT MEASURED |
+| Canister dose and refills | NOT MEASURED |
+| Vibration latency | NOT MEASURED |
+
+The detector exists because some anomalies need a breach in judgment rather than in
+walls. An affected
+person may walk normally, speak clearly, and claim procedural control, so the wristband record
+matters more
+than the wearer's own account.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 The standard AMSD appears as a sleek silver wristband. The circular gauge shows surge
@@ -127,7 +156,56 @@ captured civilians without Medical authorization.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Band Controls
+
+- suite-link pairing
+- refillable sedative canister
+- emergency auto-release pin
+- vibration warning motor
+
+### Gauge And LCD Readouts
+
+- circular surge-intensity gauge
+- baseline state and current stress band
+- suite-link status
+- sedative canister pressure
+- alarm route and post-event log buffer
+
+### Suite And Personnel Limits
+
+- Do not fit a band to a mannequin, deceased tissue, decoy, or captured
+  subject.
+- Do not remove the detector inside the active radius.
+- Do not pull the auto-release pin because vibration is distracting.
+- Do not read a low surge as calm when a dampener patch is
+  worn.
+- Weakest against anomalies that flatten stress instead of raising it.
+- Weakest where BRD masking interferes with interpretation.
+
+Threshold values, canister dose, and latency are not recorded. Envelope: NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Containment-suite entry, Level 2 wear with Level 3 calibration.
+
+1. Record the wearer's current baseline.
+2. Confirm medication, heart condition, panic history, and amnestic exposure.
+3. Confirm the assignment role.
+4. Confirm the wristband is linked to the correct suite.
+5. Test the sedation route with inert vapor where the room supports release.
+6. Acknowledge that removal inside the radius is a safety violation.
+7. Watch the band and the external console together.
+8. Pause on vibration before continuing the task.
+
+Step-down: the band comes off outside the active radius and the log buffer is
+filed. Emergency: the
+auto-release pin disables sedative release only, never monitoring, and pulling it for comfort is
+the 2026
+misuse case.
 
 Before entry, Medical records the wearer's current baseline. The wearer confirms medication use, heart
 condition,
@@ -151,6 +229,34 @@ clusters is rotated out
 until a psychological and anomaly-exposure review is complete.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before each entry | baseline, link, and canister check | Medical Division |
+| Threshold calibration | Level 3 procedure | Level 3 |
+| Canister pressure low | refill from approved stock | Medical Division |
+| Suite-link fault | link repair before entry | Engineering Division |
+| Sedative integration | containment-suite procedure | Level 4 |
+| Post-event review | log buffer download | Personnel Safety Desk |
+
+No calendar interval is recorded; servicing follows canister pressure and link state, so interval
+NOT
+MEASURED. Sedative stock is the consumable. The 2024 Terra revision is why arousal and
+panic now share one
+compulsion-risk band.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| State flipping faster than the console | arousal and panic split | merge the band; 2024 |
+| Low surge while fear is reported | BRD patch masking pulse | cross-check; 2025 case |
+| Pin pulled for comfort | vibration treated as noise | safety review; 2026 case |
+| No spike during compulsion | stress flattened by the hazard | do not read as safe |
+| Vibration with no console alarm | suite-link fault | leave the radius and report |
+| Canister pressure falling unused | seal or valve leak | replace before entry |
 
 ## KNOWN LIMITS
 
@@ -229,11 +335,15 @@ Standing reminder: a calm voice over a rising gauge is not evidence of control.
   says
   consent?
 
+- What are the configured surge thresholds, and who sets them per suite?
+- How much sedative does a micro-release deliver, and how many refills are approved?
+- Which hazards have been shown to flatten stress rather than raise it?
+
 ---
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2044-09-11
 - **Author Desk:** Medical Division / Personnel Safety Desk / Central Archive
 - **Review Status:** Active personnel-safety record; sedative mixture details censored
 - **Next Review:** After any suite sedation, compulsion breach, false negative, or dampener-interference

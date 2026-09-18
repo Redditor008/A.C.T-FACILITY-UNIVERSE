@@ -200,7 +200,7 @@ routes?
 
 FILE METADATA
 
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2040-06-13
 Author Desk: Historical Engineering Archive / Abyss Engineering / Central Archive
 Review Status: Retired historical technology record; reconstruction data and descent-route ledgers censored
 Next Review: After any component handling, route-map discovery, deep-access proposal, or First Descent archive

@@ -233,7 +233,7 @@ room is dangerous.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2029-01-07
 - **Author Desk:** Materials Custody / Protective Equipment Desk / Central Archive
 - **Review Status:** Active protective equipment record; restricted fiber composition censored
 - **Next Review:** After any counter-strip blackening, hydrophobic failure, particulate contact,

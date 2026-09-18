@@ -100,6 +100,34 @@ still be part of a speaking system.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and stasis procedure. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| UNIT PARAMETER | VALUE |
+|---|---|
+| Form | horizontal stasis coffin |
+| Body material | Abyssal Basalt for mass, shielding, psychic dampening |
+| Lid | clear glass with anti-crystallization coating |
+| Monitoring | Cellular-Rhythm Monitor at the headboard |
+| Emergency | Manual Hand-Pump for oxygenation |
+| Cooling | resonant cooling coils |
+| Support | emergency oxygenation line |
+| Warning | frost-pattern alarm |
+| Seal | biohazard seal |
+| Transport | cradle locks |
+| Authority | thaw authorization port |
+| Operating temperature band | NOT MEASURED |
+| Approved stasis duration | NOT MEASURED |
+| Rhythm baseline definition | NOT MEASURED |
+| Unit mass | NOT MEASURED |
+
+Resonant cooling is the difference between storage and damage: ordinary ice-crystal formation tears tissue
+apart. The unit should look calm, and if it looks dramatic something has already
+gone wrong.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard CBI unit is a horizontal stasis coffin made of Abyssal Basalt and
@@ -128,7 +156,55 @@ The unit should look calm. If it looks dramatic, something has already gone wron
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Unit And Thaw Controls
+
+- resonant cooling coil control
+- Manual Hand-Pump
+- emergency oxygenation line
+- thaw authorization port
+- transport cradle locks
+
+### Rhythm And Seal Readouts
+
+- Cellular-Rhythm Monitor reading
+- frost-pattern alarm
+- biohazard seal state
+- glass clarity for continuous visual review
+
+### Stasis And Personnel Limits
+
+- Do not close the file because the lid closes.
+- Do not trust tissue colour over a rhythm reading.
+- Do not run the hand-pump single-handed on a long-duration patient.
+- Do not place a unit near an unresolved anchor dependency.
+- Weakest where the biology rejects cold.
+- Weakest where the stasis field conflicts with an anchor.
+- Weakest against a subject changing faster than the machine can slow.
+
+Temperature band, duration, and rhythm baseline are not recorded. Envelope: NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Stasis placement, Medical with Stasis Technology Desk.
+
+1. Confirm patient identity and biological status.
+2. Confirm the stasis reason and expected duration.
+3. Confirm anchor dependencies and the thaw plan.
+4. Confirm aftercare capacity and transport status.
+5. Place the subject under sterile containment conditions.
+6. Begin cooling gradually while the monitor takes a baseline.
+7. Watch rhythm rather than appearance for the whole period.
+8. Log every rhythm disagreement as priority evidence.
+
+Step-down: thaw is an authorized procedure through the port and never a convenience. Emergency:
+a power
+interruption moves the room to two-person hand-pump rotation, because a single technician missed a
+pressure
+dip in the 2008 event.
 
 Before use, Medical confirms patient identity, biological status, stasis reason, expected duration, anchor
 dependencies, thaw plan, aftercare capacity, and transport status. The subject is placed inside under
@@ -149,6 +225,34 @@ decisions. Do not thaw
 without authority. Do not rely on the hand-pump as routine support.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before each placement | seal, glass, and coil check | Medical Division |
+| Rhythm disagreement | priority review before any delay | Medical Division |
+| Frost-pattern alarm | coating and coil inspection | Engineering Division |
+| Power interruption | two-person hand-pump rotation | Stasis Technology Desk |
+| Transport loading | cradle lock and FCA transfer check | Level 4 |
+| Thaw | authorization through the port | Level 4 |
+
+No calendar interval is recorded; servicing follows rhythm evidence and seal state, so interval
+NOT
+MEASURED. Oxygenation supply is the only true consumable. The 1993 drift case is why
+rhythm disagreement
+outranks a normal-looking sample.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Sample stable-looking, rhythm drifting | slow phase drift | review now; 1993 case |
+| Pressure dip during manual pumping | single-technician fatigue | two-person rotation; 2008 |
+| Distress near a moved anchor | anchor proximity conflict | keep host and anchor together |
+| Frost pattern on the glass | coating or coil fault | inspect before continuing |
+| Unfamiliar growth after thaw | change during stasis | refer to Biological Containment |
+| Body preserved, rhythm foreign | external synchronization | halt thaw and review |
 
 ## KNOWN LIMITS
 
@@ -226,11 +330,15 @@ Standing reminder: stasis is not an answer. It is a held breath.
   renew
   it?
 
+- What is the approved stasis duration before rhythm drift becomes likely?
+- What does the anti-crystallization coating fail into, and how is that detected early?
+- Which anchor dependencies have been shown to conflict with a stasis field?
+
 ---
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2028-02-22
 - **Author Desk:** Medical Division / Stasis Technology Desk / Central Archive
 - **Review Status:** Active restricted record; resonant cooling details censored
 - **Next Review:** After any thaw failure, rhythm drift, FCA medical transport incident, or

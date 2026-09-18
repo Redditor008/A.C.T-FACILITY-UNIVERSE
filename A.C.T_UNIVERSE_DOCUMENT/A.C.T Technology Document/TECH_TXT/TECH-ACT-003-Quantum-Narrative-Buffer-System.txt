@@ -614,8 +614,8 @@ evidence of tampering?
 FILE METADATA
 -------------
 
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            14/08/2031
+FILE LAST UPDATED:       14/08/2039
 FILE AUTHOR:             Archive Division / Engineering Division Joint Desk
 REVIEWED BY:             Central Archive / Site Command Technical Board / Memory Review
 FILE STATUS:             ACTIVE / RESTRICTED

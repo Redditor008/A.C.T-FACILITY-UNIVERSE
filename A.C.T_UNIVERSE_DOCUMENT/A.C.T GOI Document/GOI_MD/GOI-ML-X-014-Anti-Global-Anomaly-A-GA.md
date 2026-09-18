@@ -629,8 +629,8 @@ responsibility.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            01/05/2044
+FILE LAST UPDATED:       01/05/2048
 FILE AUTHOR:             Intelligence Division, Hostile Networks Desk
 REVIEWED BY:             Security Division / Containment Division /
                           West Wing Response Command

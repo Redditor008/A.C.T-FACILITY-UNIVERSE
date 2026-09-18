@@ -488,8 +488,8 @@ RELATED FILES UPDATED:
 ### File Metadata
 
 ```text
-FILE CREATED:        [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:   [Random Date]/[Random Month]/2XXX
+FILE CREATED:        16/06/2093
+FILE LAST UPDATED:   16/06/2099
 FILE AUTHOR:         Archiver Division / Civil Covert Division
 REVIEWED BY:         Medical Care Division / Intelligence Division / Subject Care Division
 FILE STATUS:         ACTIVE WORKING FORM

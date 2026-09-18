@@ -196,7 +196,7 @@ threshold.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2040-03-21
 - **Author Desk:** Campus Boundary Desk / Security Division / Central Archive
 - **Review Status:** Active concealed-transition record; live route maps, masks, identity checks, and
   emergency seals censored

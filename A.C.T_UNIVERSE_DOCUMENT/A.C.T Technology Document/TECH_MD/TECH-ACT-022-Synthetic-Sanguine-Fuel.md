@@ -332,7 +332,7 @@ demands a victim, SSF may become a lie it resents.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2090-11-22
 - **Author Desk:** Medical Division / Biological Containment Division / Central Archive
 - **Review Status:** Active restricted record; formula and subject-mix details censored
 - **Next Review:** After any refusal cluster, contaminated line event, supply-chain failure, or

@@ -208,7 +208,7 @@ UAARPV doctrine holds that the deepest archive is successful when it remembers w
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2064-05-21
 - **Author Desk:** Unread Archive Chief / Deep-Archive Command / Central Archive
 - **Review Status:** Active anti-reading preservation technology record; vault map, holding identities,
   restriction reasons, and unreadable register entries censored

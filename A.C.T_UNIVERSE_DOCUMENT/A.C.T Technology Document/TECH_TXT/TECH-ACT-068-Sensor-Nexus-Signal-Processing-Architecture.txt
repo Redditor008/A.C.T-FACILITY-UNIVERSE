@@ -199,7 +199,7 @@ interpretation?
 
 FILE METADATA
 
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2047-07-07
 Author Desk: Seismic Analysis Support / Vault Listening Chief / Central Archive
 Review Status: Active sensor-nexus record; baseline weights, restricted gate rules, and preserved abyss-linked windows
 censored

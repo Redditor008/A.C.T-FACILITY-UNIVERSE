@@ -228,7 +228,7 @@ enough.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2064-12-23
 - **Author Desk:** Historical Engineering Archive / Heavy Containment / Central Archive
 - **Review Status:** Retired heavy-containment technology record; earliest resident list and cage
   location ledgers censored

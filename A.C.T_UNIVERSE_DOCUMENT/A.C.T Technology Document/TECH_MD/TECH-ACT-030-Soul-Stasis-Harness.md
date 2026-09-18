@@ -101,6 +101,35 @@ attaches during acoustic bridge sessions. Site Command approves any movement out
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and proximity doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| HARNESS PARAMETER | VALUE |
+|---|---|
+| Straps | black leather structural straps |
+| Fastening | silver buckle array |
+| Anchor housing | reinforced metal sternum housing |
+| Shield | thick glass anchor shield |
+| Link | integrated data-link |
+| Cable | shielded fiber-optic cable |
+| Display | wrist-mounted status tablet |
+| Primary readout | Resonance Stability |
+| Alarms | blood-contact alarm and distance drift warning |
+| Fitting | fitted to one host body; not interchangeable without refitting review |
+| Approved separation distance | NOT MEASURED |
+| Resonance Stability scale | NOT MEASURED |
+| Glass thickness | NOT MEASURED |
+| Data-link latency limit | NOT MEASURED |
+
+The harness does not return a soul; it prevents preventable drift. The housing holds
+a fixed and monitored
+relationship above the chest cavity rather than pressing the anchor into tissue, and the
+tablet is not
+decorative.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard SSH uses black leather structural straps, silver buckles, and a reinforced metal
@@ -131,7 +160,55 @@ refitting review.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Harness And Housing Controls
+
+- silver buckle array tension
+- sternum housing seal
+- shielded fiber-optic data-link
+- wrist-mounted status tablet
+
+### Resonance Readouts
+
+- Resonance Stability display
+- distance confidence
+- housing seal and glass stress
+- blood-contact alarm
+- distance drift warning
+
+### Proximity And Personnel Limits
+
+- Do not move host and anchor on separate carts in one corridor.
+- Do not tap or test the housing glass on a live anchor.
+- Do not keep blood-drawing tools or sharp instruments in the suite.
+- Do not act on a stable tablet without confirming the data-link.
+- Weakest where the host body changes shape.
+- Weakest where the anchor alters its own relationship to the body.
+- Weakest where the data-link lies.
+
+Separation distance, stability scale, and latency limit are not recorded. NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Harness fitting and monitoring, Medical with the White Grave Stasis Desk.
+
+1. Confirm host identity and anchor identity.
+2. Confirm body condition and pendant distance.
+3. Confirm stasis pod compatibility and blood-exclusion state.
+4. Inspect glass integrity, buckle tension, and data-link health.
+5. Seal the anchor housing before the harness is placed.
+6. Verify no open wounds or sharp instruments in the suite.
+7. Monitor Resonance Stability continuously.
+8. Keep host and anchor on the same transport chain.
+
+Step-down: the harness stays fitted until Medical authorizes removal, and refitting review applies to
+any
+other host. Emergency: on a stability drop staff do not tap the glass, open
+the housing, or move the body;
+they call the Stasis Desk.
 
 Before use, Medical confirms host identity, anchor identity, body condition, pendant distance, stasis pod
 compatibility, blood-exclusion state, and communication schedule. The harness is inspected for glass integrity, buckle
@@ -153,6 +230,34 @@ or aircraft route may
 separate the host body and anchor into different chains of custody.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before each use | glass, buckle, link, and tablet check | Medical Division |
+| Glass stress reading | shield inspection | Engineering Division |
+| Data-link latency suspected | link verification against the tablet | Engineering Division |
+| Host body shape change | refitting review | White Grave Stasis Desk |
+| Blood-contact alarm | suite clear and Medical review | Level 4 |
+| Case override | Level 4 procedure | Level 4 |
+
+No calendar interval is recorded; servicing is continuous monitoring plus inspection on alarm, so
+interval
+NOT MEASURED. There is no consumable. The 2019 tablet lag is why the data-link
+is verified against the
+display rather than trusted.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Distress before distance limits | host and anchor on separate carts | one chain; 1992 |
+| Scratch sensation reported by the host | tactile testing of live glass | prohibited; 2001 |
+| Tablet stable, host not | data-link lag | verify the link; 2019 case |
+| Blood-contact alarm sounding | sharp instrument or wound in suite | clear the suite |
+| Buckle tension drifting | strap fatigue | refit before further use |
+| Glass stress rising | shield fault | do not move the host; inspect |
 
 ## KNOWN LIMITS
 
@@ -231,11 +336,15 @@ Standing reminder: if the anchor contains a person, every maintenance action has
   object
   feel handled?
 
+- What separation distance is approved, and how was the chain-separation rule measured?
+- What does the Resonance Stability scale actually compare against?
+- What latency is acceptable on the fiber-optic link before the tablet is untrustworthy?
+
 ---
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2090-06-01
 - **Author Desk:** Medical Division / White Grave Stasis Desk / Engineering Division / Central Archive
 - **Review Status:** Active case-restricted record; anchor-proximity and acoustic bridge details
   censored

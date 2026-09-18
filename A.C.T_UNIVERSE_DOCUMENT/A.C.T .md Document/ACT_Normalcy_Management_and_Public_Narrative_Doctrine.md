@@ -278,8 +278,8 @@ Civil Covert may not:
 ### File Metadata
 
 ```text
-FILE CREATED:        [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:   [Random Date]/[Random Month]/2XXX
+FILE CREATED:        15/04/2017
+FILE LAST UPDATED:   15/04/2027
 FILE AUTHOR:         Civil Covert Division / Intelligence Division
 REVIEWED BY:         Archiver Division / Site Command
 FILE STATUS:         ACTIVE

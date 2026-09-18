@@ -286,7 +286,7 @@ recover, not from a filing decision.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2038-09-03
 - **Author Desk:** Subject Care Division / Medical Division / Central Archive
 - **Review Status:** Active restricted GOI technology record; manufacturer identity and laundering
   behaviour unresolved

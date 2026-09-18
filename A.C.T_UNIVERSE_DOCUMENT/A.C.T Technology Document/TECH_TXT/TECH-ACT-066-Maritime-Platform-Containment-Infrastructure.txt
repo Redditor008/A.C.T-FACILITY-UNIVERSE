@@ -217,7 +217,7 @@ territory?
 
 FILE METADATA
 
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2085-02-20
 Author Desk: Maritime Recovery Command / Nusantara Deep Relay / Central Archive
 Review Status: Active maritime platform record; vessel classes, port routes, and live platform names
 censored

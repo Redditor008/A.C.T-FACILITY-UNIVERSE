@@ -201,7 +201,7 @@ cold.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2006-09-26
 - **Author Desk:** Floor Research Chief / Research Division / Central Archive
 - **Review Status:** Active long-term biological observation technology record; resident identities,
   sample lines, study rosters, and observation streams censored

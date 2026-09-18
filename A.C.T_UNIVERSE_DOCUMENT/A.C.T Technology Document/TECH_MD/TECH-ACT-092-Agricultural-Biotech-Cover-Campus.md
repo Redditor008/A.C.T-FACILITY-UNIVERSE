@@ -193,7 +193,7 @@ alive.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2065-04-05
 - **Author Desk:** Campus Manager / Sub-Site Chief / Central Archive
 - **Review Status:** Active agricultural cover record; legal identity, vendor lists, crop lines,
   transition links, and delivery exceptions censored

@@ -206,7 +206,7 @@ to recur in later data?
 
 FILE METADATA
 
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2030-05-02
 Author Desk: Floor Research Chief / Seismic Analysis Support Liaison / Central Archive
 Review Status: Active restricted-interpretation technology record; pattern libraries, review-chain keys, refusal
 reasons, and abyss-linked correlations censored

@@ -280,7 +280,7 @@ a device whose only important property is how much of its life is left.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2056-04-18
 - **Author Desk:** Subject Care Division / Medical Division / Central Archive
 - **Review Status:** Active restricted GOI technology record; service life and mechanism unresolved
 - **Next Review:** After any night-count completion, any working unit recovery, or any movement

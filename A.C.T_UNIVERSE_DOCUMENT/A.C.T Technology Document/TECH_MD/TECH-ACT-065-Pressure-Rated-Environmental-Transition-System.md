@@ -229,7 +229,7 @@ not reconstructed after damage occurs.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2071-05-15
 - **Author Desk:** Maritime-Hold Command / Engineering Desk / Central Archive
 - **Review Status:** Active pressure-management record; schematics, equalization formulas, and named
   restricted incidents censored

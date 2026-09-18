@@ -194,7 +194,7 @@ light-sensitive anomalies? How much beauty can PPE carry before operators begin 
 much?
 
 FILE METADATA
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2079-05-20
 Author Desk: Materials Custody / Protective Equipment Desk / Central Archive
 Review Status: Active protective equipment record; restricted fiber composition censored
 Next Review: After any counter-strip blackening, hydrophobic failure, particulate contact, unauthorized tailoring, or

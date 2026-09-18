@@ -236,7 +236,7 @@ the tree became a plank.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2014-07-23
 - **Author Desk:** Materials Custody / Dark World Survey / Central Archive
 - **Review Status:** Active anomalous material record; harvest map and gold-tool vulnerability details
   censored

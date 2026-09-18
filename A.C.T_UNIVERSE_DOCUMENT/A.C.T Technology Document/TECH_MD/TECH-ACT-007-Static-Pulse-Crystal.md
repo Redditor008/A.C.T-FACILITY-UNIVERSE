@@ -382,7 +382,7 @@ containment systems depend.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2080-02-10
 - **Author Desk:** Engineering Division / Materials Custody Desk / Central Archive
 - **Review Status:** Active restricted record; source and cutting details censored
 - **Next Review:** After any RSA-BLACK core quarantine, unregistered violet shard recovery, or

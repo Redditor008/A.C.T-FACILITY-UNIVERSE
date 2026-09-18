@@ -196,7 +196,7 @@ archive?
 
 FILE METADATA
 
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2081-11-17
 Author Desk: Limited Archive Lead / Processing Officer / Central Archive
 Review Status: Active archive relay record; live witness files, custody ledgers, restricted flags, and
 transfer

@@ -785,8 +785,8 @@ removing this organizational dossier.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            26/02/2007
+FILE LAST UPDATED:       26/02/2013
 FILE AUTHOR:             Intelligence Division, Corporate Exploitation Desk
 REVIEWED BY:             Central Archive / Medical Care Division /
                           Containment Division / ACT-SITE-03 Liaison

@@ -212,9 +212,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-FILE CREATED: [Random Date]/[Random Month]/2XXX
+FILE CREATED: 23/02/2073
 
-FILE LAST UPDATED: [Random Date]/[Random Month]/2XXX
+FILE LAST UPDATED: 23/02/2078
 
 FILE AUTHOR: Medical Division / Containment Liaison
 

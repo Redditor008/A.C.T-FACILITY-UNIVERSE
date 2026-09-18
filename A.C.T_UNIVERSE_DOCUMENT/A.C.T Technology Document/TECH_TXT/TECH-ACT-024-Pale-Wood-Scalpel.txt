@@ -345,7 +345,7 @@ non-surgical materials research?
 
 
 FILE METADATA
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2039-01-01
 Author Desk: Medical Division / Surgical Materials Custody / Central Archive
 Review Status: Active restricted record; signature-tracking details censored
 Next Review: After any signature drift, gold contamination, breach disarticulation, or retired-blade study

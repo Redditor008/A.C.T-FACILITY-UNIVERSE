@@ -603,8 +603,8 @@ RSA-WHITE hard anchoring?
 FILE METADATA
 -------------
 
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            01/01/2031
+FILE LAST UPDATED:       01/01/2036
 FILE AUTHOR:             Medical Care Division / Civil Covert Division / Transformation Review Joint Desk
 REVIEWED BY:             Central Archive / Memory Review / Site Command Technical Board
 FILE STATUS:             ACTIVE / RESTRICTED

@@ -523,8 +523,8 @@ System.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            07/03/2086
+FILE LAST UPDATED:       07/03/2089
 FILE AUTHOR:             Logistics Division / Recovery Division / Engineering Division Joint Desk
 REVIEWED BY:             Central Archive / Site Command Technical Board / Civil Covert
 FILE STATUS:             ACTIVE / RESTRICTED

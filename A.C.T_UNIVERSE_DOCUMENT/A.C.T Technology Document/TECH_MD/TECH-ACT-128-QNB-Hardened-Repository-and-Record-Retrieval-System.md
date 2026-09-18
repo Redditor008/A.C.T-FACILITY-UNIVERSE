@@ -206,7 +206,7 @@ from the world that wants the page to have always said something else.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2070-10-11
 - **Author Desk:** Floor Archivist / Archive Division / Central Archive
 - **Review Status:** Active QNB-hardened repository technology record; live repository maps, restricted
   vault contents, quarantine identities, and integrity alarms censored

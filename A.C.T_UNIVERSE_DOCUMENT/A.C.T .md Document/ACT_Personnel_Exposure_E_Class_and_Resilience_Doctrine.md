@@ -340,8 +340,8 @@ The following are prohibited under this doctrine:
 ### File Metadata
 
 ```text
-FILE CREATED:        [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:   [Random Date]/[Random Month]/2XXX
+FILE CREATED:        25/04/2028
+FILE LAST UPDATED:   25/04/2036
 FILE AUTHOR:         Personnel Review / Medical Care Division
 REVIEWED BY:         Subject Care Division / Administration
 FILE STATUS:         ACTIVE

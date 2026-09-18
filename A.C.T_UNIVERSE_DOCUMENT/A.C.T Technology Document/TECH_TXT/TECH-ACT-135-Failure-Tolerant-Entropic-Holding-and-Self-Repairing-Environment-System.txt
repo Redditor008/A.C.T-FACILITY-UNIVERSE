@@ -195,7 +195,7 @@ a deeper answer?
 
 FILE METADATA
 
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2067-04-02
 Author Desk: Floor Holding Chief / Restricted-Hold Command / Engineering Support / Central Archive
 Review Status: Active entropic holding and self-repairing environment technology record; resident identities,
 degradation rates, redundancy maps, and F-1 transfer thresholds censored

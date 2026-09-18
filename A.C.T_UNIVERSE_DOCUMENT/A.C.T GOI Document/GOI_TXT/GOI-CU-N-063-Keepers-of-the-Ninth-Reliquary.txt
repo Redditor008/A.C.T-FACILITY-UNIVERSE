@@ -580,8 +580,8 @@ creates a room condition, requires live offerings, or remains hazardous outside 
 FILE METADATA
 -------------
 
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            03/11/2023
+FILE LAST UPDATED:       03/11/2024
 FILE AUTHOR:             Intelligence Division / Recovery Division / Central Archive Joint Desk
 REVIEWED BY:             Central Archive and Site-specific Object Custody Review
 FILE STATUS:             ACTIVE / RESTRICTED

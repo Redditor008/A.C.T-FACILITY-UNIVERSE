@@ -240,7 +240,7 @@ applying it is careless.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2029-10-09
 - **Author Desk:** Medical Division / Biological Subject Care Desk / Central Archive
 - **Review Status:** Active biological medical record; formulation and metabolic buffer details censored
 - **Next Review:** After any adverse tissue response, gel separation, shed-cycle disruption, or new

@@ -330,7 +330,7 @@ Can thermal lure behavior reveal hidden illness before medical symptoms appear?
 
 
 FILE METADATA
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2031-06-22
 Author Desk: Subject Care Division / Biological Containment Division / Central Archive
 Review Status: Active restricted record; high-output settings censored
 Next Review: After any beam scatter event, predator misroute, habitat overheating, or subject conditioning

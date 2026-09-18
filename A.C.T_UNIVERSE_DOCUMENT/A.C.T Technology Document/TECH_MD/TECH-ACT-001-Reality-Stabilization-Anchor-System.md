@@ -564,8 +564,8 @@ System.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            23/08/2028
+FILE LAST UPDATED:       23/08/2035
 FILE AUTHOR:             Engineering Division / Containment Division Joint Desk
 REVIEWED BY:             Central Archive / Site Command Technical Board
 FILE STATUS:             ACTIVE / RESTRICTED

@@ -203,7 +203,7 @@ passive.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2015-01-25
 - **Author Desk:** Research Division / Deep-Earth Analysis Desk / Central Archive
 - **Review Status:** Active sample-analysis record; live sample maps, comparison keys, and abyss-linked
   sample names censored

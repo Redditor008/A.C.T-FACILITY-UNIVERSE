@@ -548,8 +548,8 @@ incident closes.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            03/02/2009
+FILE LAST UPDATED:       03/02/2012
 FILE AUTHOR:             Civil Covert / Recovery / Medical Joint Desk
 REVIEWED BY:             Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

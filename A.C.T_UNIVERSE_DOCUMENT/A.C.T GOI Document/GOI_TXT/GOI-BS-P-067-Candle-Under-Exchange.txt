@@ -573,8 +573,8 @@ system.
 FILE METADATA
 -------------
 
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            01/04/2031
+FILE LAST UPDATED:       01/04/2032
 FILE AUTHOR:             Intelligence Division / Subject Care / Civil Covert Joint Desk
 REVIEWED BY:             Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

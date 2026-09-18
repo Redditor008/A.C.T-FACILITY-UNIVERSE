@@ -547,8 +547,8 @@ victims.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            18/05/2056
+FILE LAST UPDATED:       18/05/2063
 FILE AUTHOR:             Intelligence Division / Civil Covert / Legal / Memory Review Joint Desk
 REVIEWED BY:             Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

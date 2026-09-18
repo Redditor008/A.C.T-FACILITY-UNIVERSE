@@ -217,7 +217,7 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2087-01-16
 Author Desk: Maritime-Hold Command / Engineering Desk / Central Archive
 Review Status: Active pressure-management record; schematics, equalization formulas, and named restricted incidents
 censored

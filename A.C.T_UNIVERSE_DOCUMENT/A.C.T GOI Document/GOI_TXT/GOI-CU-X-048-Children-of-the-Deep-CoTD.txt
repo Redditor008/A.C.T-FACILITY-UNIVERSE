@@ -885,8 +885,8 @@ may itself be containment.
 FILE METADATA
 -------------
 
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            12/07/2028
+FILE LAST UPDATED:       12/07/2040
 FILE AUTHOR:             Intelligence Division, Cultic Networks Desk
 REVIEWED BY:             Central Archive / Containment Division /
                           ACT-SITE-05 Deep-Sea Liaison

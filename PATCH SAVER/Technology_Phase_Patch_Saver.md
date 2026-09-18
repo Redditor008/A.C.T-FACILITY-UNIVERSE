@@ -3797,3 +3797,49 @@ GOI_TXT 34, widest box line 118, real-dated metadata blocks 0, over-limit lines 
 before and 297 after, git diff --check rc=0.
 
 **Next action.** Resume at TECH-ACT-026 through TECH-ACT-030.
+
+## Prompt Log — 2026-09-18 18:13 UTC
+
+**Correction.** The previous pass wrote the literal placeholder text into every FILE METADATA block.
+That was a misreading: Random means generate the value, not print the instruction. All 378 blocks
+now carry real generated dates and the placeholder appears nowhere in the repository.
+
+**Rules applied, taken from the A.C.T. ANOMALY CREATION RULE folder, section 14.** 14.1 Date Logic:
+dates must make sense internally, so the created date is never later than the last-updated date and
+both sit after the newest year the record itself mentions. 14.2 Date Spread Rule: dates must not
+cluster in one decade, so the created years run across 91 distinct years from the 2000s to the 2090s
+instead of sitting in one window. None of them is the real current date.
+
+**How each date was chosen.** The record body is read for four-digit years, the newest is treated as
+the internal era anchor, and a deterministic hash of the file path supplies the day, month, and
+offset so the result is stable across runs and spread rather than sequential. Each file keeps the
+date format it originally used: 272 files ISO, 106 files day-month-year.
+
+**Local repository recovered again.** The clone had been reset to the pre-session base commit while
+the remote branch still held the finished work. The fifty-three files the local index did not know
+were compared byte for byte against the fetched tip, all matched, and the branch was reset onto it.
+
+**Records 026 to 035.** Each gained a TECHNICAL SPECIFICATION table, an INTERFACE AND OPERATING
+ENVELOPE chapter, a numbered operating sequence with step-down and emergency lines, a SERVICING AND
+CALIBRATION schedule, a FAULT ISOLATION table, and three new OPEN QUESTIONS, in both twins.
+
+**Per-record tailoring.** BRD is a single-use patch counted in disposals. GTMD spends gold and
+counts bits before and after work. NL-004 is governed by a filter list held at Level 5 and an
+exposure cap. CBI treats rhythm evidence as outranking tissue colour. SSH is fitted to one host body
+and is not interchangeable. AMSD shares one compulsion-risk band after the Terra revision. HPP-RS
+calibrates on relocation rather than on a schedule. ABM logs orientation per block. AAP reconciles a
+tile serial list. PSCG must be phase-surveyed before it moves suites.
+
+**Word counts.** 026 1347 to 2114, 027 1409 to 2183, 028 1419 to 2169, 029 1360 to 2065, 030 1433 to
+2158, 031 1406 to 2144, 032 1398 to 2108, 033 1446 to 2160, 034 1474 to 2185, 035 1418 to 2143.
+Every record now carries 14 H2 chapters.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, UTF8_ERR 0, CONFLICT 0,
+multiH1 0, odd-fence 0, md-with-box 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204, GOI_MD 34 =
+GOI_TXT 34, widest box line 118, placeholders left 0, created-after-updated 0, dates matching the
+real current date 0, git diff --check rc=0.
+
+**Remaining ACT technology queue.** 102 TECH-ACT records still carry the old skeleton, running from
+TECH-ACT-036 to TECH-ACT-137.
+
+**Next action.** Resume at TECH-ACT-036 through TECH-ACT-040.

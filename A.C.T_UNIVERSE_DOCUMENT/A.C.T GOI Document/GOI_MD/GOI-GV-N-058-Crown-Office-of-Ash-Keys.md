@@ -557,8 +557,8 @@ or Sites.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            15/12/2037
+FILE LAST UPDATED:       15/12/2038
 FILE AUTHOR:             Intelligence Division / Central Archive / Civil Covert Joint Desk
 REVIEWED BY:             Legal Liaison and Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

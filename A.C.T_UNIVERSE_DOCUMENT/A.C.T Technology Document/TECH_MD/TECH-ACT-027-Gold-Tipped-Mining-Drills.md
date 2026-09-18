@@ -103,6 +103,35 @@ being forest, door, bone, or boundary.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and boring procedure. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| DRILL PARAMETER | VALUE |
+|---|---|
+| Frame | heavy industrial drill assembly |
+| Cutting interface | 24k gold-plated drill bits |
+| Monitoring | acoustic vibration disc near the bit housing |
+| Cooling | cooled engine housing protecting gold behaviour |
+| Analog check | pressure gauges, retained because digital readings lag |
+| Speed | digital RPM readout with harmonic risk flag |
+| Wear | gold-wear indicator |
+| Containment | dust capture shroud |
+| Sampling | core sample sleeve |
+| Safety | emergency reverse lock |
+| Bit diameter range | NOT MEASURED |
+| Gold plating thickness | NOT MEASURED |
+| Cutting rate in Pale Wood | NOT MEASURED |
+| Engine output | NOT MEASURED |
+
+Gold bits are counted before and after work, and missing gold is treated as
+contaminated material rather
+than lost hardware. The analog gauges stay on the frame because a digital reading
+can lag at exactly the
+moment anomalous resistance begins.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard GTMD is a heavy industrial drill assembly with 24k gold-plated bits. The
@@ -131,7 +160,55 @@ material, not lost hardware.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Drill Controls
+
+- digital RPM readout
+- analog pressure gauges
+- emergency reverse lock
+- dust capture shroud and core sample sleeve
+
+### Acoustic And Wear Readouts
+
+- acoustic vibration disc density response
+- gold-wear indicator
+- harmonic risk flag on the RPM display
+- bit count before and after work
+
+### Boring And Personnel Limits
+
+- Do not take an acoustic baseline for granted; take one before contact.
+- Do not continue on density singing, hollow agreement, childlike knocking, or impossible silence.
+- Do not expose the surrounding structure to unreviewed dust.
+- Do not remove material from Pale Wood without understanding its load or boundary
+  function.
+- Do not treat a successful hole as a stable hole.
+- Weakest once the bit loses gold contact.
+- Weakest where Dark World Survey has not approved the target.
+
+Bit range, plating thickness, and cutting rate are not recorded. Envelope: NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Material boring, Level 4 Engineering with Dark World Survey review.
+
+1. Confirm material identity and gold vulnerability.
+2. Confirm target purpose and surrounding structure.
+3. Confirm the RSA baseline and dust capture.
+4. Confirm the emergency withdrawal path.
+5. Take an acoustic baseline before contact.
+6. Raise pressure slowly and watch the disc.
+7. Stop on singing, hollow agreement, knocking, or impossible silence.
+8. Count the gold and log the core sample after work.
+
+Step-down: the bit is withdrawn under the reverse lock rather than pulled free. Emergency:
+a seized bit is
+left in place and the section is cut free, which is what the 1997
+event required after the material closed
+around the cutting edge.
 
 Before drilling, Engineering confirms material identity, gold vulnerability, target purpose, surrounding structure,
 RSA baseline, dust capture, and emergency withdrawal path. The operator takes an acoustic baseline
@@ -152,6 +229,34 @@ dust enter medical spaces without
 Materials Custody clearance.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| TRIGGER | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before and after each job | gold count and bit inspection | Level 4 Engineering |
+| Gold-wear indicator triggered | bit retirement | Engineering Division |
+| Dust shroud seal fault | seal replacement and area survey | Materials Custody |
+| Pale Wood modification plan | structural review before cutting | Level 5 |
+| Dark World architecture work | Survey approval | Level 5 |
+| Recovered core samples | sealed custody transfer | Level 5 |
+
+Gold is the consumable and it is spent by the job, so servicing is
+counted in bits rather than intervals;
+calendar interval NOT MEASURED. The 2011 dust leak is why shroud seals are replaced
+on fault and the bench
+is surveyed afterwards.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| RPM held but the bit seizes | gold wear-through at the edge | cut the section free; 1997 |
+| Ordinary wood resisting a blade | Pale Wood dust contamination | survey the bench; 2011 |
+| Hollow tone from a solid beam | structural rule disagreement | stop; Survey review; 2024 |
+| Density singing under load | material waking | stop and withdraw the bit |
+| Childlike knocking through the disc | architecture responding | stop; do not repeat the pass |
+| Bit embedding itself | loss of gold contact | reverse lock; call Engineering |
 
 ## KNOWN LIMITS
 
@@ -231,11 +336,17 @@ yes.
   wrong
   side?
 
+- How thick is the gold plating, and how many metres of Pale Wood
+  does one bit survive?
+- What does the acoustic disc classify as hollow agreement, and who interprets the
+  tone?
+- How is Pale Wood dust decontaminated once it has settled on ordinary surfaces?
+
 ---
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2069-04-25
 - **Author Desk:** Engineering Division / Dark World Survey Desk / Materials Custody / Central Archive
 - **Review Status:** Active restricted record; gold-bit and architecture plans censored
 - **Next Review:** After any gold wear-through, dust leak, hollow agreement reading, or unauthorized

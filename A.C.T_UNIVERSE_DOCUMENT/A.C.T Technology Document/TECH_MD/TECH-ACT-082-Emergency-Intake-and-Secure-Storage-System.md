@@ -208,7 +208,7 @@ EISSS doctrine holds that the watchpoint receives what it does not own.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2075-11-05
 - **Author Desk:** Watch Chief / Intake Officer / Central Archive
 - **Review Status:** Active emergency intake record; live storage maps, transfer clocks, and intake
   manifests censored

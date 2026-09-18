@@ -225,7 +225,7 @@ becomes.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2053-05-07
 - **Author Desk:** Kurokawa Intake Chief / Archiver Division / Central Archive
 - **Review Status:** Active archive intake technology record; route-lock control maps and screening
   thresholds censored

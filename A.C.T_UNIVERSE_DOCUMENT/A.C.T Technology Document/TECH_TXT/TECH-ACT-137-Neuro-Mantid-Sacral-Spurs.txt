@@ -318,7 +318,7 @@ does it send back?
 
 FILE METADATA
 
-**Created:** [Random Date]/[Random Month]/2XXX
+**Created:** 2044-12-15
 
 **Author Desk:** Field Command / Engineering Division / Medical Division / Central Archive
 

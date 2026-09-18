@@ -612,8 +612,8 @@ mandatory for any accord minute that limits A.C.T command authority.
 FILE METADATA
 -------------
 
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            13/05/2011
+FILE LAST UPDATED:       13/05/2013
 FILE AUTHOR:             Intelligence Division / Containment / Legal / Field Command Joint Desk
 REVIEWED BY:             Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

@@ -306,8 +306,8 @@ The Board may not approve:
 ### File Metadata
 
 ```text
-FILE CREATED:        [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:   [Random Date]/[Random Month]/2XXX
+FILE CREATED:        06/07/2060
+FILE LAST UPDATED:   06/07/2067
 FILE AUTHOR:         Transformation Division / Archiver Division
 REVIEWED BY:         Researcher Division / Medical Care Division / O5 Observer
 FILE STATUS:         ACTIVE

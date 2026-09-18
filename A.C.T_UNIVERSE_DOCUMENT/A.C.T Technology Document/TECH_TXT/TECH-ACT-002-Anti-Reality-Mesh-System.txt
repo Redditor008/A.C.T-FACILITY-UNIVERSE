@@ -620,8 +620,8 @@ exposure has hardened?
 FILE METADATA
 -------------
 
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            18/12/2069
+FILE LAST UPDATED:       18/12/2074
 FILE AUTHOR:             Engineering Division / Civil Covert Division Joint Desk
 REVIEWED BY:             Central Archive / Site Command Technical Board
 FILE STATUS:             ACTIVE / RESTRICTED

@@ -198,7 +198,7 @@ delay.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2034-03-01
 - **Author Desk:** F-1 Holding Officer / Medical Quarantine Lead / Central Archive
 - **Review Status:** Active interim cryogenic record; live unit maps, suppression thresholds, and silent
   removal authorizations censored

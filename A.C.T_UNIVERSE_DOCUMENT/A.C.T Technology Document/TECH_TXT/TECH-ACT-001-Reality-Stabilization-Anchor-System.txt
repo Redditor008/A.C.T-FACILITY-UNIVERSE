@@ -643,8 +643,8 @@ Abyss Floor?
 FILE METADATA
 -------------
 
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            08/09/2092
+FILE LAST UPDATED:       08/09/2099
 FILE AUTHOR:             Engineering Division / Containment Division Joint Desk
 REVIEWED BY:             Central Archive / Site Command Technical Board
 FILE STATUS:             ACTIVE / RESTRICTED

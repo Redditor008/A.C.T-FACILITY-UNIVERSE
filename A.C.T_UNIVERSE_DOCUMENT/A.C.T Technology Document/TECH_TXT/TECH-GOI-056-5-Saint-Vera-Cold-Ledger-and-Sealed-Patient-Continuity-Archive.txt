@@ -215,9 +215,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-FILE CREATED: [Random Date]/[Random Month]/2XXX
+FILE CREATED: 12/04/2011
 
-FILE LAST UPDATED: [Random Date]/[Random Month]/2XXX
+FILE LAST UPDATED: 12/04/2016
 
 FILE AUTHOR: Intelligence Division / Subject Care Joint Desk
 

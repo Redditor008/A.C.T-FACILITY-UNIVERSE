@@ -355,7 +355,7 @@ travel.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2075-06-19
 - **Author Desk:** Containment Division / Archive Division / Engineering Division / Central Archive
 - **Review Status:** Active restricted record; hatch override and atmosphere cycling rules censored
 - **Next Review:** After any pressure-disc disagreement, acoustic leak, manual opening, or legacy-unit

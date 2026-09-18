@@ -224,7 +224,7 @@ are hidden in the forest.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2087-11-27
 - **Author Desk:** Reserve Operations Command / Security Command Center / Central Archive
 - **Review Status:** Active command technology record; live sector maps, communication keys, patrol
   rosters, and incident routing tables censored

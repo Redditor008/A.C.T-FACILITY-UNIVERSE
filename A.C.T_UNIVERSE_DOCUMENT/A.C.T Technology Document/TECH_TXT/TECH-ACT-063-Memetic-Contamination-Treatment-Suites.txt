@@ -199,7 +199,7 @@ with Containment?
 
 FILE METADATA
 
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2083-10-10
 Author Desk: Medical Division / Cognitive Care / Central Archive
 Review Status: Active medical cognitive-care record; treatment thresholds and trigger-handling procedures censored
 Next Review: After any treatment amplification, clinician contamination, false recovery, unsafe note release, or

@@ -217,7 +217,7 @@ but by refusing to return it.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2077-11-22
 - **Author Desk:** Research Division / Seismic Analysis Support / Maritime Recovery Command / Central
   Archive
 - **Review Status:** Active Sonar Void research infrastructure record; live coordinates, void-family

@@ -193,7 +193,7 @@ need it?
 
 FILE METADATA
 
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2084-09-16
 Author Desk: Processing Officer / Medical Lead / Central Archive
 Review Status: Active witness processing record; live witness identities, dosage tables, release narratives, and
 assimilation referrals censored

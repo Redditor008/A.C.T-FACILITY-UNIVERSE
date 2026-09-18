@@ -204,7 +204,7 @@ too dangerous to keep using?
 
 FILE METADATA
 
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2062-08-17
 Author Desk: Security Boundary Command / Campus Director / Central Archive
 Review Status: Active surface-transition technology record; concealed routes, port schedules, seal triggers, and cover
 phrases censored

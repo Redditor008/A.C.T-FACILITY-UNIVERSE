@@ -223,7 +223,7 @@ follows what care proves.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2084-10-16
 - **Author Desk:** Medical Division / Cognitive Care / Central Archive
 - **Review Status:** Active medical cognitive-care record; treatment thresholds and trigger-handling
   procedures censored

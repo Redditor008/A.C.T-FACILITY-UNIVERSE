@@ -182,7 +182,7 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2086-09-14
 Author Desk: Review Officer / Redaction Lead / Central Archive
 Review Status: Active controlled review record; live exposure limits, redaction keys, and hazardous layouts
 censored

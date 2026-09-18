@@ -216,7 +216,7 @@ ordinary shadow.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2064-09-28
 - **Author Desk:** Security Boundary Command / Campus Director / Central Archive
 - **Review Status:** Active surface-transition technology record; concealed routes, port schedules, seal
   triggers, and cover phrases censored

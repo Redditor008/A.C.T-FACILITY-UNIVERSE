@@ -231,7 +231,7 @@ many ways a threat can be light.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2087-09-14
 - **Author Desk:** Historical Engineering Archive / Materials Custody / Central Archive
 - **Review Status:** Legacy-active foundational technology record; founding artifact list censored
 - **Next Review:** After any lead exposure, vault opening, retrofit proposal, seam residue event, or

@@ -193,7 +193,7 @@ of measurement?
 
 FILE METADATA
 
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2085-02-20
 Author Desk: Seismic Analysis Support / Nusantara Deep Relay / Central Archive
 Review Status: Active monitoring record; node maps, bore depths, and abyss-linked correlation keys censored
 Next Review: After any multi-node failure, abyss-linked signal escalation, foundation intrusion alert, F-1 closure

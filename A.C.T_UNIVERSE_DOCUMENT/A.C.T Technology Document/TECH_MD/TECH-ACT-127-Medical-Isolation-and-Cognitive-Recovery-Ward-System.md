@@ -204,7 +204,7 @@ contain anything through them.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2003-08-21
 - **Author Desk:** Chief Medical Officer / Medical Division / Central Archive
 - **Review Status:** Active medical isolation and cognitive-care technology record; patient identities,
   clinical ledgers, and restricted treatment details censored

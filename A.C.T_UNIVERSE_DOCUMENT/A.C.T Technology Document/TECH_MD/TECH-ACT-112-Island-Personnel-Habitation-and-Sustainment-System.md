@@ -207,7 +207,7 @@ fails downward through stone.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2095-10-15
 - **Author Desk:** Relay Administration / Personnel Support Office / Central Archive
 - **Review Status:** Active personnel-sustainment technology record; room assignments, duty-cycle names,
   Medical notes, and population stress markers censored

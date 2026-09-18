@@ -197,7 +197,7 @@ it?
 
 FILE METADATA
 
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2048-03-02
 Author Desk: Floor Holding Chief / Containment Division / Central Archive
 Review Status: Active standard object chamber technology record; live Box maps, resident identities, and
 transfer

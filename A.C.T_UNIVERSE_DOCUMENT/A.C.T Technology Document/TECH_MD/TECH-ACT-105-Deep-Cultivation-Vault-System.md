@@ -200,7 +200,7 @@ DCVS doctrine holds that the deepest garden is still a vault.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2030-05-21
 - **Author Desk:** Deep-Cultivation Command / F-1 Vault Officer / Central Archive
 - **Review Status:** Active deep cultivation record; live chamber maps, resident names, program ledgers,
   and transformation authorities censored

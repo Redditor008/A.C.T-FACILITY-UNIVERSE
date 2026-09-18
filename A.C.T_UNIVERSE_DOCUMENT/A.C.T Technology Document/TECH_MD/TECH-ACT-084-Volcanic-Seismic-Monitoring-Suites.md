@@ -202,7 +202,7 @@ volcano behind it.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2072-07-25
 - **Author Desk:** Seismic Monitoring Staff / Watch Officer / Central Archive
 - **Review Status:** Active volcanic-seismic monitoring record; live sensor positions, withdrawal
   thresholds, and escalation keys censored

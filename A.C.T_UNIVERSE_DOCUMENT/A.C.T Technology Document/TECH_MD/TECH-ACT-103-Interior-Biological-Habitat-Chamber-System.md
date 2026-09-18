@@ -201,7 +201,7 @@ life.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2076-04-14
 - **Author Desk:** F-2 Holding Officer / Environmental Containment Liaison / Central Archive
 - **Review Status:** Active biological habitat record; live chamber maps, resident identities, and
   environmental thresholds censored

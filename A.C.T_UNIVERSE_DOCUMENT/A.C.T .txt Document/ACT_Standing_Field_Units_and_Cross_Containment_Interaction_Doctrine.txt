@@ -303,8 +303,8 @@ A.C.T will not:
 ## File Metadata
 
 text
-FILE CREATED:        [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:   [Random Date]/[Random Month]/2XXX
+FILE CREATED:        09/07/2074
+FILE LAST UPDATED:   09/07/2077
 FILE AUTHOR:         Field Operating Chief Council / Central Archive
 REVIEWED BY:         Recovery Division / Containment Division / Tactical Review Desk
 FILE STATUS:         ACTIVE

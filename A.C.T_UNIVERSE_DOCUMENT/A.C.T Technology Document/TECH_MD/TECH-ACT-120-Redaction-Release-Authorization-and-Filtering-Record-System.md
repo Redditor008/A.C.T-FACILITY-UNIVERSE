@@ -212,7 +212,7 @@ prove later.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2081-01-17
 - **Author Desk:** Redaction Authority Desk / Archive Division / Central Archive
 - **Review Status:** Active redaction-release technology record; source texts, release identifiers,
   objection details, and recall routes censored

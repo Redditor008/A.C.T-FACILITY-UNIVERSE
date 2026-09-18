@@ -206,7 +206,7 @@ cannot keep watching.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2004-03-14
 - **Author Desk:** Security Division / Relay Administration / Central Archive
 - **Review Status:** Active personnel safety record; shelter maps, route priorities, and live roster
   systems censored

@@ -198,8 +198,8 @@ is not one.
 
 ## FILE METADATA
 
-- FILE CREATED: [Random Date]/[Random Month]/2XXX
-- FILE LAST UPDATED: [Random Date]/[Random Month]/2XXX
+- FILE CREATED: 07/06/2056
+- FILE LAST UPDATED: 07/06/2067
 - FILE AUTHOR: Medical Division / Containment Liaison
 - REVIEWED BY: Central Archive
 - FILE STATUS: ACTIVE / RESTRICTED

@@ -504,8 +504,8 @@ Static Generator System.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            14/01/2054
+FILE LAST UPDATED:       14/01/2061
 FILE AUTHOR:             Engineering Division / Containment Division / Archive Division Joint Desk
 REVIEWED BY:             Central Archive / Site Command Technical Board / Medical Care
 FILE STATUS:             ACTIVE / RESTRICTED

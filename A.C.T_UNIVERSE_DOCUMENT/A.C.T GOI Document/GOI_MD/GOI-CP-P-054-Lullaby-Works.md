@@ -550,8 +550,8 @@ more than one household, or resists safe deactivation.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            28/04/2054
+FILE LAST UPDATED:       28/04/2066
 FILE AUTHOR:             Intelligence Division / Subject Care Division Joint Desk
 REVIEWED BY:             Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

@@ -221,7 +221,7 @@ to quietly replace.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2017-07-19
 - **Author Desk:** Archive Division / Engineering Division / Central Archive
 - **Review Status:** Active archival infrastructure record; structural hardening diagrams and
   restoration thresholds censored

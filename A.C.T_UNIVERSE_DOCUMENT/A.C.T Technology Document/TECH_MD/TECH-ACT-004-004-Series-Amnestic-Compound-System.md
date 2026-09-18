@@ -516,8 +516,8 @@ an A.C.T-controlled technology lineage.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            15/08/2032
+FILE LAST UPDATED:       15/08/2039
 FILE AUTHOR:             Medical Care Division / Civil Covert Division / Transformation Review Joint Desk
 REVIEWED BY:             Central Archive / Memory Review / Site Command Technical Board
 FILE STATUS:             ACTIVE / RESTRICTED

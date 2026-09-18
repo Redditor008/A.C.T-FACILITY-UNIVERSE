@@ -560,8 +560,8 @@ Command filing is mandatory when selection decisions intersect A.C.T evacuation 
 ## FILE METADATA
 
 ```text
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            11/08/2087
+FILE LAST UPDATED:       11/08/2088
 FILE AUTHOR:             Intelligence Division / Containment / Recovery / Command Joint Desk
 REVIEWED BY:             Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

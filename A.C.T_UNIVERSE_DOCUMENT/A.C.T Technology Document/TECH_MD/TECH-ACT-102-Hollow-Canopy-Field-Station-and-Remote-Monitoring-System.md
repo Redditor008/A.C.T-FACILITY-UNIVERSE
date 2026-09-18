@@ -194,7 +194,7 @@ the field changes.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2075-09-04
 - **Author Desk:** Environmental Containment Lead / Research Support Lead / Central Archive
 - **Review Status:** Active field station monitoring record; live station maps, sensor placements,
   resident data, and route schedules censored

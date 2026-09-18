@@ -197,7 +197,7 @@ depth rendering should be
 shown to non-specialist command staff?
 
 FILE METADATA
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2051-05-12
 Author Desk: Maritime Observation Desk / Engineering Division / Central Archive
 Review Status: Active field and monitoring record; restricted depth-rendering and false-void algorithms censored
 Next Review: After any blind-predator breach, lost ROV transmission, spike drift event, or false-void

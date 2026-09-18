@@ -597,8 +597,8 @@ without ordinary entry history.
 FILE METADATA
 -------------
 
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            21/05/2095
+FILE LAST UPDATED:       21/05/2099
 FILE AUTHOR:             Intelligence Division / Civil Covert / Recovery Joint Desk
 REVIEWED BY:             Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

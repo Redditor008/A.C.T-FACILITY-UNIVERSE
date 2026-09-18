@@ -599,8 +599,8 @@ public-cover actions.
 FILE METADATA
 -------------
 
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            14/06/2085
+FILE LAST UPDATED:       14/06/2089
 FILE AUTHOR:             Intelligence Division / Containment / Legal / Field Command Joint Desk
 REVIEWED BY:             Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

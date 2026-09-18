@@ -339,7 +339,7 @@ frozen during a reality-seismic event?
 
 
 FILE METADATA
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2076-09-22
 Author Desk: Engineering Division / Site Infrastructure Command / Central Archive
 Review Status: Active restricted record; RSA interval timing censored
 Next Review: After any rebound event, false-quiet reading, coolant injury, or world-scale tremor response

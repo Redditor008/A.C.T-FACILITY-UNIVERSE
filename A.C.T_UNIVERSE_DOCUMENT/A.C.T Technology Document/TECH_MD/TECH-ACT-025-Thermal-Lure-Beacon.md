@@ -332,7 +332,7 @@ the enclosure cannot keep.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2029-11-17
 - **Author Desk:** Subject Care Division / Biological Containment Division / Central Archive
 - **Review Status:** Active restricted record; high-output settings censored
 - **Next Review:** After any beam scatter event, predator misroute, habitat overheating, or subject

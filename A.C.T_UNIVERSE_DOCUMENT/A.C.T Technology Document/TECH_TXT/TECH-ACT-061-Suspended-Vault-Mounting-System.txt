@@ -193,7 +193,7 @@ between vault and floor? Should SVMS inspection teams rotate faster than ordinar
 
 FILE METADATA
 
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2070-06-12
 Author Desk: Deep-Hold Command / Engineering Division / Central Archive
 Review Status: Active deep vault architecture record; resident vault schematics and mount tolerances censored
 Next Review: After any mount drift, shaft resonance, closure conflict, service-flex strain, or F-1

@@ -349,7 +349,7 @@ by years of holding the same command, song, or name?
 
 
 FILE METADATA
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2083-10-06
 Author Desk: Containment Division / Archive Division / Engineering Division / Central Archive
 Review Status: Active restricted record; hatch override and atmosphere cycling rules censored
 Next Review: After any pressure-disc disagreement, acoustic leak, manual opening, or legacy-unit transfer

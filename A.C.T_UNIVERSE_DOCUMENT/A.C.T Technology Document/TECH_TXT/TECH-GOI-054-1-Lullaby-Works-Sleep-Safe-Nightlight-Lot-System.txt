@@ -334,7 +334,7 @@ has left the room permanently?
 
 FILE METADATA
 
-**Created:** [Random Date]/[Random Month]/2XXX
+**Created:** 2039-12-07
 
 **Author Desk:** Subject Care Division / Engineering Division / Central Archive
 

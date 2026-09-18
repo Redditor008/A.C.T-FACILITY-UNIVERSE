@@ -228,7 +228,7 @@ made accountable.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2079-02-22
 - **Author Desk:** Maritime-Hold Command / Nusantara Deep Relay / Central Archive
 - **Review Status:** Active maritime containment record; chamber schematics and resident-specific water
   formulas censored

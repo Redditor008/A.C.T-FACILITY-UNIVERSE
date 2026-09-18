@@ -654,8 +654,8 @@ Related A.C.T Records
 FILE METADATA
 -------------
 
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            23/07/2087
+FILE LAST UPDATED:       23/07/2091
 FILE AUTHOR:             Intelligence Division, Government Interface Desk
 REVIEWED BY:             Civil Covert Division / Central Archive Liaison
 FILE STATUS:             Active

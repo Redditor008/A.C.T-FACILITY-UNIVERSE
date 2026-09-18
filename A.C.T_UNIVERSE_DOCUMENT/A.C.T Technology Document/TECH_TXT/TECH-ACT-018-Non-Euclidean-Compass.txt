@@ -357,7 +357,7 @@ meaningless?
 
 
 FILE METADATA
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2059-10-19
 Author Desk: Survey Division / Dark World Expedition Desk / Engineering Division / Central
 Archive
 Review Status: Active restricted record; Narrative North calibration censored

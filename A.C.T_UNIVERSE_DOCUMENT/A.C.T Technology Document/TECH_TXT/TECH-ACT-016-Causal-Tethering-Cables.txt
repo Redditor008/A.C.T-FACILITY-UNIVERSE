@@ -363,7 +363,7 @@ stress contaminate them?
 
 
 FILE METADATA
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2028-01-09
 Author Desk: Engineering Division / Recovery Division / Central Archive
 Review Status: Active restricted record; phase-lock geometry censored
 Next Review: After any line snap, negative-drag reading, threshold recovery, or post-use cable memory

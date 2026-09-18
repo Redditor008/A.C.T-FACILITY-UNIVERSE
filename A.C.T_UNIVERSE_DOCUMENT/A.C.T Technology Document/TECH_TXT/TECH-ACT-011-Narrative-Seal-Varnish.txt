@@ -373,7 +373,7 @@ faults, or can the document request emphasis through the varnish?
 
 
 FILE METADATA
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2045-09-21
 Author Desk: Archive Division / Info-Hazard Division / Engineering Division / Central Archive
 Review Status: Active restricted record; formula and reapplication rules censored
 Next Review: After any auto-redaction failure, self-writing artifact response, preserved-error incident, or hostile

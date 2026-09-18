@@ -550,8 +550,8 @@ public-cover actions.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            28/12/2043
+FILE LAST UPDATED:       28/12/2050
 FILE AUTHOR:             Intelligence Division / Containment / Legal / Field Command Joint Desk
 REVIEWED BY:             Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

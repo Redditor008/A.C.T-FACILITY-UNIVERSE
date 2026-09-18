@@ -313,7 +313,7 @@ returned ones?
 
 FILE METADATA
 
-**Created:** [Random Date]/[Random Month]/2XXX
+**Created:** 2018-01-05
 
 **Author Desk:** Subject Care Division / Engineering Division / Central Archive
 

@@ -214,7 +214,7 @@ permitted to walk through it.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2090-10-02
 - **Author Desk:** Personnel Processing Office / Security Administration / Central Archive
 - **Review Status:** Active personnel-clearance technology record; individual records, medical flags,
   credential keys, and denial files censored

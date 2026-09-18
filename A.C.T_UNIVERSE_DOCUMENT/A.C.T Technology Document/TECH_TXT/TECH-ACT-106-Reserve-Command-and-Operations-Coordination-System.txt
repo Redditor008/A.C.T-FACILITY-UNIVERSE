@@ -210,7 +210,7 @@ residents?
 
 FILE METADATA
 
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2010-10-13
 Author Desk: Reserve Operations Command / Security Command Center / Central Archive
 Review Status: Active command technology record; live sector maps, communication keys, patrol rosters, and
 incident

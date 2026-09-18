@@ -330,8 +330,8 @@ name and O5 has sealed the reason.
 ## File Metadata
 
 text
-FILE CREATED:        [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:   [Random Date]/[Random Month]/2XXX
+FILE CREATED:        10/02/2075
+FILE LAST UPDATED:   10/02/2081
 FILE AUTHOR:         Personnel Review / Medical Care Division
 REVIEWED BY:         Subject Care Division / Administration
 FILE STATUS:         ACTIVE

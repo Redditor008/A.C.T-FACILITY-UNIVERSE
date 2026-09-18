@@ -570,8 +570,8 @@ after leaving the Molt house.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            11/04/2048
+FILE LAST UPDATED:       11/04/2060
 FILE AUTHOR:             Subject Care / Medical / Intelligence Joint Desk
 REVIEWED BY:             Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

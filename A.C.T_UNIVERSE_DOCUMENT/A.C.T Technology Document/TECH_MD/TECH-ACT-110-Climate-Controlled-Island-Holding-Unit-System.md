@@ -208,7 +208,7 @@ land.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2049-06-04
 - **Author Desk:** Environmental Holding Staff / Maritime-Hold Command / Central Archive
 - **Review Status:** Active climate-holding technology record; live climate recipes, resident
   assignments, and native-site coordinates censored

@@ -102,6 +102,35 @@ a hungry will.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's material description and installation doctrine. Values the
+archive does not hold are marked NOT MEASURED and each is filed under OPEN
+QUESTIONS.
+
+| BLOCK PARAMETER | VALUE |
+|---|---|
+| Appearance | dark grey-black with a rough volcanic texture |
+| Handling feel | colder and heavier than standard concrete |
+| Aggregate | high-density mineral aggregate |
+| Infusion | ITHYOS-residue infusion layer |
+| Core | internal lead-shielded restricted core |
+| Channel | abyssal echo absorption channel |
+| Matrix | cold-binding structural matrix |
+| Joints | joint-lock grooves |
+| Survey | resonance survey marks |
+| Placement | installation orientation code |
+| Surface | surface abrasion layer |
+| Sampling | maintenance sampling plug |
+| Block dimensions | NOT MEASURED |
+| Compression rating | NOT MEASURED |
+| Composition data | held at Level 4 |
+
+The core does not make the block alive; it gives the masonry something to
+argue with. Orientation matters,
+because a block placed backward still works as mass but may return echo through
+the wrong face.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard ABM block is dark grey-black with a rough volcanic texture. It feels
@@ -133,7 +162,54 @@ or Dark World material is involved, gold-tipped drilling or other specialized in
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Installation Controls
+
+- joint-lock grooves
+- installation orientation code
+- anchor sockets
+- maintenance sampling plug
+
+### Survey And Inspection Readouts
+
+- resonance survey marks
+- lead-shield integrity check before placement
+- seismic and psychic pressure survey of the site
+- surface abrasion state
+
+### Structural And Personnel Limits
+
+- Do not cut ABM with ordinary tools.
+- Do not expose the internal core; stop work for shielding review.
+- Do not install fresh ABM near active HPP screening.
+- Do not assume a quiet wall is a sufficient wall.
+- Weakest against entities that cut through causal relationships.
+- Weakest against hazards that siphon biological energy through walls.
+- Weakest against architecture that rewrites itself.
+
+Dimensions, compression rating, and composition are restricted or NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Block installation, Level 3 support with Level 4 composition access.
+
+1. Survey seismic profile and psychic pressure.
+2. Confirm floor drift and existing RSA coverage.
+3. Confirm nearby subject class and maintenance access.
+4. Log each block individually.
+5. Inspect lead-shield integrity before placement.
+6. Seat the block to its orientation code.
+7. Stop work if a core becomes visible.
+8. Record the resonance survey marks after installation.
+
+Step-down: the sampling plug stays sealed until a maintenance sample is authorized. Emergency: an
+exposed
+core halts all work in the bay until shielding review clears it, because residue
+exposure is treated as a
+containment event.
 
 Before installation, Engineering surveys the site for seismic profile, psychic pressure, floor drift, existing
 RSA
@@ -156,6 +232,34 @@ is happening. It is
 silent because pressure is being carried correctly.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before placement | lead-shield and orientation check | Level 3 Engineering |
+| Composition data request | Level 4 procedure | Level 4 |
+| Abyss Floor core placement | Level 5 procedure | Level 5 |
+| Core exposed during work | stop and shielding review | Level 5 |
+| Maintenance sampling | plug access under review | Engineering Division |
+| Block incorporated by a subject | ecology review | Bio-Hazard Division |
+
+No calendar interval is recorded; the material is inspected on installation and on sample
+request, so
+interval NOT MEASURED. There is no consumable. The 2008 Crystal Butterfly case is why
+incorporated ABM is
+treated as part of a containment ecology.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Corridor feels like it is listening | echo return through a wrong face | log it; 1912 case |
+| Directional whisper or pulse matching | echo channel fault | survey the orientation code |
+| Hive surfaces built on ABM | subject recognising durable substrate | ecology review; 2008 |
+| Heat loss in a treated corridor | residue-core anomaly | stop and review at Level 5 |
+| Block cut with ordinary tools | unauthorised modification | quarantine the dust |
+| Seam vibration returning to the room | joint-lock failure | reseal and resurvey |
 
 ## KNOWN LIMITS
 
@@ -238,11 +342,16 @@ Standing reminder: if a wall feels quiet, ask what it is carrying.
 — Can Honey Obsidian reinforcement improve joints without trapping hostile vibration inside them?
 — When should an ABM failure trigger relocation rather than wall replacement?
 
+- What is in the ITHYOS-residue infusion, and why is the core lead-shielded?
+- What compression rating does a modern block hold, and how was it measured?
+- What did the 1912 listening reports become, and are those corridors still in
+  service?
+
 ---
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2031-07-23
 - **Author Desk:** Engineering Division / Abyss Floor Structural Desk / Central Archive
 - **Review Status:** Active structural record; residue composition and core design censored
 - **Next Review:** After any core saturation, resonance leak, structural breach, or Abyss Floor seismic

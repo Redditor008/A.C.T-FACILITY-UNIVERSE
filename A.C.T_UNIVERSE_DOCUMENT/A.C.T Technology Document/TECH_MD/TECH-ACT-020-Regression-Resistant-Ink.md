@@ -342,7 +342,7 @@ Standing reminder: RRI is not truth. It is stubbornness given liquid form.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2052-01-25
 - **Author Desk:** Archive Division / Materials Custody Desk / O5 Liaison / Central Archive
 - **Review Status:** Active restricted record; particle source and formula censored
 - **Next Review:** After any forged-batch recovery, violet smear event, Refracted One state shift, or O5

@@ -236,7 +236,7 @@ the jug is temporary mercy.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2030-03-12
 - **Author Desk:** Hazardous Materials Desk / Dark World Survey / Central Archive
 - **Review Status:** Active anomalous chemical record; stabilizer formulation and neutralization tab
   chemistry censored

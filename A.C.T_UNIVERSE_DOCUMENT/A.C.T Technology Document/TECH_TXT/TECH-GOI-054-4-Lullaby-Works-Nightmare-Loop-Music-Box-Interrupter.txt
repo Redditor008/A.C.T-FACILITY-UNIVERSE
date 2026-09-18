@@ -283,7 +283,7 @@ the charge?
 
 FILE METADATA
 
-**Created:** [Random Date]/[Random Month]/2XXX
+**Created:** 2028-03-18
 
 **Author Desk:** Subject Care Division / Medical Division / Central Archive
 

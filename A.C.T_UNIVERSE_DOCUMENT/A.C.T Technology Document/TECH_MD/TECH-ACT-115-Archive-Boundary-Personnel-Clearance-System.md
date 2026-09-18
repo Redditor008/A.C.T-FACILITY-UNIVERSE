@@ -216,7 +216,7 @@ worker is allowed to be.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2089-04-07
 - **Author Desk:** Personnel and Clearance Office / Node Administration / Central Archive
 - **Review Status:** Active personnel-boundary technology record; individual clearance identities,
   denial reasons, transition endpoints, and override records censored

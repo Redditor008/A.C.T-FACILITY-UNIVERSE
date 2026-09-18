@@ -239,7 +239,7 @@ emptiness is not staring back.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2032-08-02
 - **Author Desk:** Maritime Observation Desk / Engineering Division / Central Archive
 - **Review Status:** Active field and monitoring record; restricted depth-rendering and false-void
   algorithms censored

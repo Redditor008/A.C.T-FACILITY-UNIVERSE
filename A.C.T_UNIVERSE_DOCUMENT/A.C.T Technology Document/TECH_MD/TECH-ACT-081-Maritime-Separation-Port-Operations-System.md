@@ -202,7 +202,7 @@ MSPOS doctrine holds that dual use survives only when both uses are disciplined.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2010-11-11
 - **Author Desk:** Port Operations / Maritime Recovery Command / Central Archive
 - **Review Status:** Active port separation record; vessel identities, berth maps, public partners, and
   offload routes censored

@@ -207,7 +207,7 @@ daylight.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2040-02-16
 - **Author Desk:** Station Manager / Watch Chief / Central Archive
 - **Review Status:** Active surface cover record; station legal identity, visitor lists, transition
   schedules, and boundary controls censored

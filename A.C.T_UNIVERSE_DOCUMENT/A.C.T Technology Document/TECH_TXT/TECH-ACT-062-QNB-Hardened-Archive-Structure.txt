@@ -196,7 +196,7 @@ correct? What happens when the room remembers a file that every authorized reade
 
 FILE METADATA
 
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2039-12-25
 Author Desk: Archive Division / Engineering Division / Central Archive
 Review Status: Active archival infrastructure record; structural hardening diagrams and restoration thresholds
 censored

@@ -301,7 +301,7 @@ ethical position or a technical limit?
 
 FILE METADATA
 
-**Created:** [Random Date]/[Random Month]/2XXX
+**Created:** 2082-07-28
 
 **Author Desk:** Subject Care Division / Medical Division / Central Archive
 

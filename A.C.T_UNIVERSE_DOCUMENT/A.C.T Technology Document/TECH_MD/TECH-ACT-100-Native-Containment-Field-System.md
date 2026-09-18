@@ -199,7 +199,7 @@ the place that contains them.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2009-01-22
 - **Author Desk:** Enclosure Supervisor / Environmental Containment Lead / Central Archive
 - **Review Status:** Active native containment field record; live sector maps, resident names, and
   environmental thresholds censored

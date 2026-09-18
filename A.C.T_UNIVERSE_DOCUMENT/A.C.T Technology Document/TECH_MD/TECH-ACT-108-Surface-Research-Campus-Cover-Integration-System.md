@@ -218,7 +218,7 @@ truth with a locked border.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2019-12-19
 - **Author Desk:** Surface Cover Administration / Campus Director / Central Archive
 - **Review Status:** Active cover-campus technology record; live boundary maps, public-contact lists,
   concealed routes, and cover incident records censored

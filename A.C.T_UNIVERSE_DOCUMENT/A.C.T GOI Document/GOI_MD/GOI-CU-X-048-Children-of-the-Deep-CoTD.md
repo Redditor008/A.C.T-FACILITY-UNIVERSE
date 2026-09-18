@@ -836,8 +836,8 @@ this dossier.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            25/07/2015
+FILE LAST UPDATED:       25/07/2016
 FILE AUTHOR:             Intelligence Division, Cultic Networks Desk
 REVIEWED BY:             Central Archive / Containment Division /
                           ACT-SITE-05 Deep-Sea Liaison

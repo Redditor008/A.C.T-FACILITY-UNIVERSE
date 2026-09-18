@@ -494,8 +494,8 @@ missing-person files and must not be reduced to circus property.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            20/12/2067
+FILE LAST UPDATED:       20/12/2073
 FILE AUTHOR:             Intelligence Division / Subject Care Division Liaison
 REVIEWED BY:             Regional Command / Tactical Containment
 FILE STATUS:             ACTIVE / RESTRICTED / FRAGMENTED

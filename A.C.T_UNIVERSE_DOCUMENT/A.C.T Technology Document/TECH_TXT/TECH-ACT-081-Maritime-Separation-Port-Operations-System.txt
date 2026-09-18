@@ -189,7 +189,7 @@ facility?
 
 FILE METADATA
 
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2005-05-28
 Author Desk: Port Operations / Maritime Recovery Command / Central Archive
 Review Status: Active port separation record; vessel identities, berth maps, public partners, and offload
 routes

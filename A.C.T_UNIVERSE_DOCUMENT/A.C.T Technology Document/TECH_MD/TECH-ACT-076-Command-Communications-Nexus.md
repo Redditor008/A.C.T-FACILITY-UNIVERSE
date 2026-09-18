@@ -211,7 +211,7 @@ through channels that can be verified.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2088-07-20
 - **Author Desk:** Command Support / Nusantara Site Command / Central Archive
 - **Review Status:** Active command communications record; live channels, authentication keys, and
   external network routes censored

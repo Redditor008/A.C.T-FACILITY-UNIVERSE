@@ -214,7 +214,7 @@ but it must know how the signal reached the file.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2042-04-22
 - **Author Desk:** Seismic Analysis Support / Vault Listening Chief / Central Archive
 - **Review Status:** Active sensor-nexus record; baseline weights, restricted gate rules, and preserved
   abyss-linked windows censored

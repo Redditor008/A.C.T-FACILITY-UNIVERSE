@@ -205,7 +205,7 @@ route, not a room.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2058-07-23
 - **Author Desk:** Processing Officer / Recovery Support Lead / Central Archive
 - **Review Status:** Active intake routing record; live route boards, rejection criteria, and
   parent-site escalation contacts censored

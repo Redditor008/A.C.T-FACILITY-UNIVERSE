@@ -97,6 +97,50 @@ The wall promises not to flex. The plate promises not to ring. The anchor
 promises not to drift. If one part lies, the
 whole enclosure starts negotiating with the anomaly.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and installation doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| TILE PARAMETER             | VALUE                                                                                 |
++============================+=======================================================================================+
+| Face                       | interlocking matte-black tile                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Groove field               | hexagonal reinforcement grooves                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Load lattice               | internal tungsten reinforcement                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Backing                    | Abyssal Masonry anchor ribs                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Thermal                    | internal thermal-sink layer                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Acoustic                   | absorption face; rooms read smaller after installation                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Spread                     | resonance-spread mesh                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Seams                      | seam-pressure locks                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Diagnostics                | cold-contact diagnostic strip                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Inspection                 | anchor-load inspection port                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Handling                   | colder than the surrounding wall and quiet under touch                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Tile dimensions            | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Certified load per tile    | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Thermal-sink capacity      | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The plating does not replace walls; it binds them into an anchored shell. Each
+tile shares stress with its
+neighbours through interlocking edges, so a grid that returns stress into the room is
+failing in the one way
+the design was meant to prevent.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 A standard AAP tile is matte black, colder than the surrounding wall, and noticeably
 quiet under direct touch. The
@@ -115,7 +159,54 @@ The plate is not installed alone. It requires masonry backing, load mapping, sea
 and post-installation quiet
 testing.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Installation Controls
+
+- anchor sockets in prepared masonry
+- orientation mark and serial entry per tile
+- seam-pressure locks
+- anchor-load inspection port
+
+Plate Readouts
+
+- cold-contact diagnostic strip
+- seam-pressure state
+- thermal-sink readings
+- acoustic absorption change in the room
+
+Structural And Personnel Limits
+
+- Do not place a tile without an orientation mark and serial entry.
+- Do not route stress toward doors, glass, air systems, or observation points.
+- Do not read a quiet room as a safe room.
+- Do not treat ringing as ordinary thermal expansion.
+- Weakest against conceptual breach and will-bearing artifacts.
+- Weakest against entities treating enclosure size as narrative suggestion.
+
+Tile dimensions, load rating, and sink capacity are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+Enclosure plating, Level 4 Engineering with Heavy Containment Structural Desk.
+
+1. Map enclosure mass and expected movement.
+2. Record floor temperature and subject pressure profile.
+3. Record seismic background and RSA coverage.
+4. Confirm emergency breach routes.
+5. Design the grid to move stress away from doors and glass.
+6. Clean the masonry and check residue-core stability.
+7. Fit anchor sockets and seat tiles in order.
+8. Enter every tile serial and orientation mark.
+
+Step-down: the inspection port is closed and the serial list is filed with the
+enclosure record. Emergency:
+metallic ringing from a wall is an immediate inspection trigger, because three tiles were
+returning stress
+into the room in the 1998 event.
+
 Before installation, Engineering maps enclosure mass, movement expectation, floor temperature, subject pressure
 profile, seismic background, RSA coverage, and emergency breach routes. The plate grid is then
 designed to move stress
@@ -135,6 +226,52 @@ During operation, AAP is inspected after any subject movement event, cryo-seismi
 room-temperature spike, unexplained silence, or audible ringing. Ringing is not acceptable. A plate that
 rings is
 returning pressure instead of carrying it.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| TRIGGER                    | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| After installation         | seam survey and serial reconciliation     | Level 4 Engineering                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Metallic ringing from a    | immediate tile inspection                 | Engineering Division                      |
+| wall                       |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Thermal-sink lag           | sink layer review                         | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CSS array operating nearby | linked maintenance schedule               | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Seam-pressure lock fault   | lock replacement                          | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Breach route change        | grid redesign review                      | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; servicing is triggered by ringing, sink lag, and seam
+state, so interval
+NOT MEASURED. There is no consumable. The 2019 coupling review is why AAP and
+CSS schedules are linked on
+Massive Box installations.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Metallic tone from one wall| tiles returning stress inward             | inspect; 1998 case                        |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Thermal-sink readings      | cold stress from a CSS array              | link schedules; 2019                      |
+| lagging                    |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Room unusually quiet       | plate absorbing warning signs             | verify with instruments                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Seam pressure unequal      | lock or socket fault                      | reseat the tile                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Cold-contact strip reading | sink saturation                           | reduce load and review                    |
+| high                       |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Serial missing from the    | unlogged tile                             | reconcile before use                      |
+| list                       |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 Abyssal Anchor Plating is not an absolute barrier. It cannot stop every blade, will-bearing
@@ -197,9 +334,14 @@ Can
 plate-grid maps be safely shared with repair contractors under amnestic coverage? Should Massive Box
 floors and walls
 use different groove geometries? When does reinforcement become overcontainment instead of safety?
+- What certified load does one tile hold, and how does the grid derate
+  at the seams?
+- What is the thermal-sink capacity, and how is saturation detected early?
+- What was decided in the 2026 quiet wall dispute about trusting acoustic calm?
+
 
 FILE METADATA
-Created: [Random Date]/[Random Month]/2XXX
+Created: 2063-08-16
 Author Desk: Engineering Division / Heavy Containment Structural Desk / Central Archive
 Review Status: Active heavy-containment record; tungsten lattice and anchor-grid details censored
 Next Review: After any Massive Box movement event, seam ringing, thermal-sink saturation, or world-scale

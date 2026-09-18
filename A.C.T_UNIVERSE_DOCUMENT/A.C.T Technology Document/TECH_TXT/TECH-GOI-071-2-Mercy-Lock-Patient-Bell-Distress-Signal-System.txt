@@ -214,8 +214,8 @@ limited by patient-specific tuning, withheld ward schematics, and uncertainty ar
 
 FILE METADATA
 
-FILE CREATED:            [Random Date]/[Random Month]/2XXX
-FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
+FILE CREATED:            08/01/2015
+FILE LAST UPDATED:       08/01/2017
 FILE AUTHOR:             Medical Division / Subject Care / Legal / Intelligence Joint Desk
 REVIEWED BY:             Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

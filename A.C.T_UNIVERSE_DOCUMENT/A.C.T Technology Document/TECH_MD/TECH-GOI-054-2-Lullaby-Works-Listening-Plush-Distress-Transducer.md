@@ -302,7 +302,7 @@ anything except an empty shell that no longer works.
 
 ## FILE METADATA
 
-- **Created:** [Random Date]/[Random Month]/2XXX
+- **Created:** 2028-02-06
 - **Author Desk:** Subject Care Division / Engineering Division / Central Archive
 - **Review Status:** Active restricted GOI technology record; manufacturer identity and lot source
   censored
