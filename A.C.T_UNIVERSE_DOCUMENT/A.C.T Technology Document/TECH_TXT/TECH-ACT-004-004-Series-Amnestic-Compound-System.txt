@@ -166,6 +166,7 @@ or mass exposure.
 ---
 
 TECHNICAL SPECIFICATION
+-----------------------
 
 This is a pharmaceutical lineage rather than equipment, so the specification table records grade
 and provenance
@@ -207,16 +208,20 @@ a defined concentration, and the
 grade selected determines whether the outcome is a blur or an organ injury.
 
 INTERFACE AND OPERATING ENVELOPE
+--------------------------------
 
 Controls
+--------
 
 - the review form is the control surface; there is no equipment interface
 
 Readouts
+--------
 
 - 004-GREEN through 004-BLACK administration states
 
 Envelope And Personnel Limits
+-----------------------------
 
 - "Knows too much" is not sufficient grounds for administration.
 - Never administer as punishment, convenience, intimidation, or schedule repair.
@@ -289,8 +294,10 @@ material.
 ---
 
 OPERATING PROCEDURE
+-------------------
 
 Numbered Operating Sequence
+---------------------------
 
 Administration sequence, Medical Care with Civil Covert.
 
@@ -363,6 +370,7 @@ A.C.T misconduct.
 
 
 SERVICING AND CALIBRATION
+-------------------------
 
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | TRIGGER                    | ACTION                                    | AUTHORITY                                 |
@@ -391,6 +399,7 @@ expiry, and storage
 tracking are all NOT MEASURED in this record.
 
 FAULT ISOLATION
+---------------
 
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |

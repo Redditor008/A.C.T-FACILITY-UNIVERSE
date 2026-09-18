@@ -108,6 +108,35 @@ replacement are medical events, not equipment checkout.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component text and doctrine. Values the archive
+does not hold
+are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| PROSTHESIS PARAMETER | VALUE |
+|---|---|
+| Class | bonded cybernetic prosthesis, operator-bonded |
+| Pressure input | palm disc |
+| Timing display | wrist-screen |
+| Output | harmonic fins releasing a tuned counter-vibration |
+| Stress handling | feedback sink absorbing transferred impact |
+| Energy store | capacitor |
+| Success confirmation | visual, haptic, and log confirmation after high-force events |
+| Effective against | defined impacts: lunges, strikes, projectiles, burst-waves, short contact events |
+| Issue basis | Medical and Timing review passed |
+| Parry window duration | NOT MEASURED |
+| Deflection energy ceiling | NOT MEASURED |
+| Unit mass | NOT MEASURED |
+| Capacitor cycle rating | NOT MEASURED |
+| Feedback sink calibration band | NOT MEASURED |
+
+The arm does not make a person invulnerable. It gives a trained operator a
+very small timing window in which
+incoming force can be answered with the correct harmonic disagreement, and the rest of
+the body still has to
+survive the transferred stress.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard TFA appears as a blue-tinted steel prosthetic arm with reinforced joints and
@@ -138,7 +167,57 @@ into the user's skeleton.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Operator Controls
+
+- palm disc pressure input
+- wrist-screen timing display
+- harmonic fin output
+- capacitor charge state, confirmed before deployment
+
+### Wrist-Screen Readouts
+
+- timing window state
+- parry success confirmation, visual and haptic
+- log entry for high-force events
+- capacitor and fin state
+
+### Physiological And Tactical Envelope
+
+- Do not attempt repeated unnecessary parries; Medical classifies this as a behavioural hazard.
+- Do not treat an interrupted attack as a neutralized one.
+- Do not deploy without current Medical and Timing review.
+- Do not rely on the success ding alone after a high-force event.
+- Weakest against sustained crushing, fluid engulfment, heat, acid, infection, and psychic attack.
+- Weakest against attacks with no defined impact, or that split into several weak
+  contacts.
+- Weakest against entities that learn the operator's rhythm.
+
+Parry window duration, deflection ceiling, and unit mass are not recorded in this file.
+Physiological
+envelope: NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Bonded deployment, operator certified by Medical and Timing review.
+
+1. Confirm Medical and Timing review are current for the operator.
+2. Confirm the bond and fit before issue.
+3. Confirm capacitor charge state.
+4. Confirm the feedback sink calibration against the operator's record.
+5. Confirm palm disc, wrist-screen, and fin synchronization.
+6. Deploy with the timing window acknowledged rather than assumed.
+7. Take Medical signoff after any red-window parry before further use.
+8. File the log entry for every high-force event.
+
+Step-down: the arm is powered down and logged at the end of the operation
+rather than left bonded and live
+in transit. Emergency: a capacitor misfire or fin desynchronization ends the deployment, and the
+operator
+withdraws instead of continuing on the unassisted arm.
 
 Before deployment, Medical confirms the operator is fit, the socket is stable, and no
 feedback injury is active.
@@ -163,6 +242,38 @@ as non-parryable. Do not turn a failed parry into a second attempt unless withdr
 is impossible.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before each deployment | capacitor, palm disc, wrist-screen, and fin check | Tactical Engineering |
+| After every red-window parry | Medical signoff and feedback sink check | Medical with Tactical Engineering |
+| High-force event | log entry and confirmation triple check | Level 3, operator certified |
+| Capacitor cycle limit reached | capacitor replacement | Tactical Engineering |
+| Wrist-screen speaker wear | speaker replacement | Medical Prosthetics Desk |
+| Fin desynchronization | fin assembly service | Tactical Engineering |
+| Repeated unnecessary parry attempts | behavioural review | Medical |
+
+No calendar interval is recorded; servicing is driven by parry events and component cycles,
+so interval NOT
+MEASURED. The consumables are the capacitor, the fin assembly, and the wrist-screen speaker. The
+2018
+bruising event is why the feedback sink is checked after a red-window parry rather
+than at the next
+scheduled visit.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Shoulder bruising after a parry | under-calibrated feedback sink | Medical signoff; 2018 case |
+| Success ding on a late parry | worn wrist-screen speaker | require triple confirmation |
+| Subject continues after a hit | interruption read as a kill | do not close distance |
+| Palm disc going numb | disc or bond fault | withdraw for review |
+| Capacitor misfire | energy store fault | end the deployment |
+| Parries sought with no threat | timing addiction | Medical review; suspend issue |
+| Subject answering the rhythm | enemy rhythm learning | change pattern or withdraw |
 
 ## KNOWN LIMITS
 
@@ -237,6 +348,12 @@ you.
 - How many red-window parries can one operator survive across a career?
 - Is the success ding psychologically necessary, or does it encourage risk-taking?
 - Can paired TFA operators create dangerous harmonic interference?
+
+- What is the measured parry window in milliseconds, and does it vary by
+  operator or by threat class?
+- What is the deflection energy ceiling before transferred stress exceeds operator tolerance?
+- How many capacitor cycles are rated, and what replaces the unit at the
+  end of them?
 
 ---
 

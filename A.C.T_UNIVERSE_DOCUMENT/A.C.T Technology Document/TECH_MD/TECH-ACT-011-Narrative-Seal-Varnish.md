@@ -106,6 +106,37 @@ been allowed to fade.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and application text. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| PRODUCT PARAMETER | VALUE |
+|---|---|
+| Form | pressurized archival spray canister |
+| Nozzle | digital precision nozzle |
+| Application gauge | surface-tension gauge confirming even spread |
+| Display | LCD showing remaining volume and estimated narrative half-life |
+| Liquid | clear, faint smell of ozone and old paper |
+| Finish | matte invisible under standard archive light |
+| Batch control | batch seal |
+| Nozzle maintenance | anti-clog purge cap |
+| Application marks | distance marks on the canister body |
+| Waste handling | contaminated-tip capsule |
+| Verification | post-seal verification strip |
+| Application method | one controlled pass, top edge to bottom edge |
+| Authority | Level 3 for passive documents; Level 4 with an Info-Hazard observer for active or hazardous text |
+| Canister volume | NOT MEASURED |
+| Stated half-life figure | NOT MEASURED |
+| Dry time and coverage per canister | NOT MEASURED |
+
+The varnish is never poured and is brushed only under restoration-lab exception. Uneven application
+leaves
+sealed and unsealed zones on one page, and text responds to that boundary by
+shearing, duplicating, or
+migrating toward the untreated margin.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 The standard NSV canister is a pressurized archival spray unit with a digital precision
@@ -139,7 +170,56 @@ untreated margins.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Canister Controls
+
+- digital precision nozzle
+- anti-clog purge cap, used after each document
+- application distance marks
+- batch seal, checked before use
+
+### Application Readouts
+
+- surface-tension gauge
+- remaining volume on the LCD
+- estimated narrative half-life on the LCD
+- post-seal verification strip
+
+### Archive Environment Limits
+
+- Do not apply to blank pages expected to receive authorized future writing.
+- Do not seal a document before correction review.
+- Do not handle a page until matte finish is confirmed.
+- Do not apply to live self-writing text without Level 4 review and an
+  observer.
+- Weakest against world-level denial, where QNB is the stronger safeguard.
+- Weakest against deliberate rewrite, fire, flood, and theft.
+
+Temperature, humidity, and shelf-life limits for storage are not recorded in this file. Environmental
+envelope: NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Sealing a document, Level 3 for passive text.
+
+1. Classify the document: passive, self-writing, self-erasing, cognitively hazardous, or under revision.
+2. Confirm authority, and add an Info-Hazard observer for active or hazardous text.
+3. Photograph the page if it is safe to do so.
+4. Place the document on a grounded archive surface.
+5. Check the batch seal and purge the nozzle.
+6. Treat from the top edge to the bottom edge in one controlled
+pass.
+7. Wait for matte finish confirmation before touching, turning, or closing.
+8. Apply the post-seal verification strip and log the batch.
+
+Step-down: the canister is purged and capped before it leaves the bench. Emergency: a
+batch that dries
+glossy is quarantined and every document treated from that batch is re-inspected, which is
+what the 2019
+event required.
 
 Before application, the archivist confirms whether the document is passive, self-writing, self-erasing, cognitively
 hazardous, or under active revision. Passive documents may be sealed under Level 3 authority.
@@ -165,6 +245,34 @@ paper, or dries glossy, the
 canister and document are quarantined.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| TRIGGER | REQUIRED ACTION | AUTHORITY |
+|---|---|---|
+| Before each application | batch seal and nozzle purge check | Level 3 Archive |
+| After each application | purge cap and contaminated-tip capsule | Level 3, locally certified |
+| Active or hazardous document | review and observer required | Level 4 with Info-Hazard |
+| Canister exhausted | replacement from an approved batch | Materials Desk |
+| Glossy or uneven dry | quarantine the batch and re-inspect treated documents | Archive Division |
+| Reapplication | order required before a second pass | Level 4 |
+
+NSV is the one technology in this batch that is consumed in use, so
+the schedule is measured in canisters
+rather than in intervals. Calendar interval NOT MEASURED. The half-life figure on the LCD
+is an estimate
+rather than a service date, and Archive does not treat it as one.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Decoration in an unsealed margin | partial sealing | full-edge verification; 2001 |
+| Copies restoring an old error | sealed before correction review | correct by addendum, not scraping |
+| Finish drying glossy | batch fault | quarantine batch; re-inspect |
+| Text migrating to bare edges | uneven application | re-treat the full edge |
+| Half-life falling quickly | estimate drift or bad batch | check the verification strip |
+| Nozzle clogging mid-pass | purge cap skipped | stop; restart from the top edge |
 
 ## KNOWN LIMITS
 
@@ -255,6 +363,13 @@ page that must work harder to betray the file.
   Are glossy-dry incidents always nozzle faults, or can the document request emphasis through
   the
   varnish?
+
+- What is the measured narrative half-life of a correctly applied seal, and how
+  was the LCD estimate
+  derived?
+- Which approved synthetic archive sheets have been tested, and which have been rejected?
+- How much of the 2019 glossy batch was used before the quarantine, and
+  where did it go?
 
 ---
 

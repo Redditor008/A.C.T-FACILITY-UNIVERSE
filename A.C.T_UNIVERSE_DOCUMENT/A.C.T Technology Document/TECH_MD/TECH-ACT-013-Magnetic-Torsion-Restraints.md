@@ -97,6 +97,36 @@ how the lock thinks.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and doctrine text. Values the
+archive does not
+hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| RIG PARAMETER | VALUE |
+|---|---|
+| Station form | fixed wall-mounted rings around a target position, cradle, or weapon arc |
+| Ring material | brushed surgical steel |
+| Field | superconducting magnetic array |
+| Cooling | liquid-helium circulation vents |
+| Load handling | gravity-compensation arms adjusting pitch on mass or load-direction change |
+| Console | lockdown levers, redacted frequency dial, load gauge, dump cover |
+| Instrumentation | digital magnetic load gauge, field-balance indicators, field-collapse alarm |
+| Power | conduits with blue pulse indicators |
+| Structure | load-transfer anchors into the supporting bay |
+| Clearance | Level 3 operation; Level 4 for the dial, blade breach, mobile rig |
+| Certified hold rating | doctrine describes a twenty-ton class lock; certified figure NOT MEASURED |
+| Helium capacity and boil-off | NOT MEASURED |
+| Frequency dial settings | REDACTED |
+| Ring diameter and arc | NOT MEASURED |
+
+The rings may look overbuilt and that is intentional. Capacity is also not the
+whole measure: a twenty-ton
+class lock still fails if the subject turns through a causal seam, transfers stress
+into the mount, or
+convinces the field that the dangerous part is not metal at the moment of
+attack.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A fixed MTR station consists of wall-mounted rings of brushed surgical steel surrounding a
@@ -128,7 +158,58 @@ subject.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Console Controls
+
+- manual lockdown levers, guarded until Site Command releases the rig
+- redacted frequency dial, Level 4 access
+- emergency dump cover
+- field balance engagement before torsion lock
+
+### Load And Field Readouts
+
+- digital magnetic load gauge
+- field-balance indicators
+- field-collapse alarm
+- blue pulse indicators on the power conduits
+
+### Cryogenic And Personnel Envelope
+
+- Do not climb inside an inactive ring.
+- Do not store ordinary tools within a restraint arc.
+- Do not use the rig as a crane, weapon rack, or demonstration magnet.
+- Do not adjust frequency while the subject is learning unless Tactical Review orders
+  it.
+- Do not activate as a surprise around unknown personnel unless breach conditions override
+  injury risk.
+- Weakest against nonmetallic anomalies and metal that changes identity.
+- Weakest against mass that splits into dust, or motion transferred through nonlocal intent.
+
+Helium capacity, boil-off rate, and ambient temperature limits are not recorded in this file.
+Cryogenic
+envelope: NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Fixed-station lock, Level 3 Containment with Site Command authority.
+
+1. Confirm subject composition and expected movement.
+2. Confirm floor load and the RSA baseline for the bay.
+3. Confirm the escape arc and that no personnel are inside the ring.
+4. Bring the subject within the approved zone.
+5. Engage field balance and wait for the load gauge to settle.
+6. Apply torsion lock.
+7. Guard the manual levers until Site Command releases the rig.
+8. Inspect the load-transfer anchors after the lock is released.
+
+Step-down: the field is dumped through the emergency cover rather than ramped down by
+hand where the subject
+is still moving. Emergency: during HIGENMARU-KORIN breach response the restraint target is the blade's
+spatial line rather than the wielder's body, and standard equipment must not attempt a
+parry.
 
 Before activation, operators confirm subject composition, expected movement, floor load, RSA baseline, and escape
 arc.
@@ -151,6 +232,34 @@ unless Tactical Review
 gives the order.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| TRIGGER | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| After every red-zone lock | load-transfer anchor inspection | Engineering Division |
+| Helium level low or boil-off rising | circulation check and replenishment | Level 4 Engineering |
+| Field-balance drift | balance calibration | Engineering Division |
+| Frequency dial access | Level 4 procedure | Level 4 with Tactical Review |
+| Mobile rig authorization | authorization and rig check | Level 4 |
+| Load gauge lag suspected | gauge verification against a known load | Engineering Division |
+
+No calendar interval is recorded; servicing is triggered by lock events and cryogenic state,
+so interval NOT
+MEASURED. Liquid helium is the one true consumable in this record. The 2004 gravity
+arm kick is why anchor
+inspection follows every red-zone lock instead of every scheduled visit.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Surface crawling at the boundary | load shape changing | run surface-motion checks; 1990 |
+| Bay cracked after a mass shift | gravity arm outran the anchors | anchor inspection; 2004 case |
+| Team targeting the hilt | doctrine error in response | fail the drill; lock the edge |
+| Gauge steady, subject moving | false stillness | do not release; verify the edge |
+| Field heating or helium loss | cryogenic circulation fault | reduce load; call Engineering |
+| Lock holding the reverse state | lock inversion | dump the field; clear the bay |
 
 ## KNOWN LIMITS
 
@@ -226,6 +335,12 @@ Standing reminder: MTR buys control of angle. It does not buy ownership of dange
   the
   subject?
 - Are self-organizing metallic masses responding to magnetic pressure or to restraint intent?
+
+- What is the certified hold rating for each ring diameter, and how was
+  the twenty-ton figure derived?
+- What are the liquid-helium capacity and boil-off rate for a fixed station under
+  continuous lock?
+- What does the redacted frequency dial actually control, and who holds the settings?
 
 ---
 

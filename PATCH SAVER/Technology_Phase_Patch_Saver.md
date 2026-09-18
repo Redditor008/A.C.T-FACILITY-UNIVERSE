@@ -3704,3 +3704,44 @@ link
 paths), git diff --check and --cached --check rc=0.
 
 **Next action.** Resume the ACT record upgrade at TECH-ACT-006 through TECH-ACT-010.
+
+## Prompt Log — 2026-09-18 16:17 UTC
+
+**Task.** Double proceed on the TECH-ACT upgrade: retrofit the five missing sections into
+TECH-ACT-006 through TECH-ACT-015, in both TECH_MD and TECH_TXT.
+
+**What each record gained.** A TECHNICAL SPECIFICATION table, an INTERFACE AND OPERATING ENVELOPE
+chapter with named controls, readouts and personnel limits, a numbered operating sequence with
+step-down and emergency lines, a SERVICING AND CALIBRATION schedule, a FAULT ISOLATION table, and
+three new OPEN QUESTIONS.
+
+**Per-record tailoring.** No two specification tables share a row set. FCA records airframe and
+cargo figures. SPC records material bands and packaging because it is a material, not a machine. CAN
+records a thirty-centimeter single-use spike. CSV records its 0.5 second delay. DRS separates the
+two-meter tuning-fork array from the sensor range. NSV is the one consumable technology in the
+batch, so its schedule is measured in canisters. BWB records library freshness. MTR carries liquid
+helium as its only true consumable. TFA records an operator bond. SPBID records a printed receipt
+trail.
+
+**Word counts.** 006 2319 to 3198, 007 1737 to 2662, 008 1765 to 2652, 009 1703 to 2555, 010 1631 to
+2474, 011 1599 to 2421, 012 1581 to 2414, 013 1416 to 2272, 014 1492 to 2316, 015 1596 to 2415.
+Every record now carries 14 H2 chapters.
+
+**Two style defects repaired on the way.** TECH-ACT-001 through 005 had received plain headings in
+their text twins during the first batch while the rest of those files use underlined headings; 45
+underlines restored. Twelve stray em-dash bullets inside the OPEN QUESTIONS chapters of 006, 008,
+009 and 015 are back to hyphens.
+
+**Traps found by guards, not by eye.** Text twins in this repository are not uniform: TECH-ACT-001
+to 006 use underlined headings while 007 to 015 and 197 of the 204 text files use bare capitals, so
+the writer now detects the style per file. Box cells must wrap to one less than the column width or
+a full-width value overflows the frame by a character. Inserting new table rows at full prose length
+breaks the 118 character limit, so every fault row and specification cell in this batch was
+rewritten terse; the touched files gained zero over-limit lines.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, UTF8_ERR 0, CONFLICT 0,
+multiH1 0, odd-fence 0, md-with-box 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204, GOI_MD 34 =
+GOI_TXT 34, widest box line 118, over-limit lines in touched files 5 before and 5 after, git diff
+--check rc=0.
+
+**Next action.** Resume at TECH-ACT-016 through TECH-ACT-020.

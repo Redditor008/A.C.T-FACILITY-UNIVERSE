@@ -147,6 +147,7 @@ with communication, testimony, morale, and emergency clarity.
 ---
 
 TECHNICAL SPECIFICATION
+-----------------------
 
 The boredom-frequency range and output figures have never been published. The unit is described
 as heavier than
@@ -191,8 +192,10 @@ warning and a CSG-to-QNB
 logging link. Neither is optional and neither is adjustable in the field.
 
 INTERFACE AND OPERATING ENVELOPE
+--------------------------------
 
 Controls
+--------
 
 - boredom-frequency digital tuner
 - emergency silence lever
@@ -200,12 +203,14 @@ Controls
 - field tripod mount
 
 Readouts
+--------
 
 - oscillating signal disc behind reinforced glass
 - CSG-GREEN through CSG-BLACK working states
 - Medical pulse and stress monitor attachment for crew exposure
 
 Envelope And Personnel Limits
+-----------------------------
 
 - Do not activate because an incident merely feels dramatic.
 - Do not broadcast over medical alarms, evacuation orders, or subject-care instructions.
@@ -277,8 +282,10 @@ over-broadcasting into civilians.
 ---
 
 OPERATING PROCEDURE
+-------------------
 
 Numbered Operating Sequence
+---------------------------
 
 Deployment, Level 4 Engineering, Containment, Archive, or Civil Covert.
 
@@ -348,6 +355,7 @@ field.
 
 
 SERVICING AND CALIBRATION
+-------------------------
 
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | TRIGGER                    | ACTION                                    | AUTHORITY                                 |
@@ -372,6 +380,7 @@ become a hook if repeated too
 rigidly, and the checklist involved was rewritten with rotating fields.
 
 FAULT ISOLATION
+---------------
 
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |

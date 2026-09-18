@@ -112,6 +112,37 @@ ones, or learn how A.C.T classifies unknown artifacts before contact.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and variant list. Values the
+archive does not
+hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| SENSOR PARAMETER | VALUE |
+|---|---|
+| Field model | blue polymer wand with a protected handle display |
+| Display | miniaturized spectrogram showing pulse shape, strength, rhythm, comparison warnings |
+| Alerting | vibration intensity trigger above a configured threshold |
+| Proximity array | tuning-fork array at the front of the wand |
+| Acoustic proximity | hums within two meters of a fracture or strong causal pulse |
+| Audio output | mechanical tick speaker where sound is safer than display |
+| Classification aid | field-type suggestion band |
+| Calibration | sealed calibration port |
+| Records | scan-memory chip |
+| Safety hardware | glove-safe lock switch and library mismatch warning light |
+| Fixed variants | wall mounts, pressure-hardened housings, tank brackets, locker wiring |
+| Maritime variant | sonar and deep pressure rig connection |
+| Artifact-vault variant | narrow signatures such as crimson-frequency blade vibration |
+| Detection range | NOT MEASURED |
+| Threshold bands | NOT MEASURED |
+| Battery runtime and unit mass | NOT MEASURED |
+
+The two-meter figure belongs to the tuning-fork array, not to the sensor as a
+whole. Staff who read it as
+the sensor's range close distance on targets that are still far away. Digital describes
+the processing and
+display layer; resonance describes what is actually being measured.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 The common field model is a blue polymer wand with a protected handle display.
@@ -144,7 +175,57 @@ vibration.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Wand Controls
+
+- glove-safe lock switch
+- configured vibration intensity trigger threshold
+- sealed calibration port, not field adjustable
+- scan-memory chip for the survey record
+
+### Spectrogram Readouts
+
+- pulse shape, strength, and rhythm
+- comparison warnings against the taken baseline
+- field-type suggestion band
+- library mismatch warning light
+- tuning-fork hum and mechanical tick
+
+### Scan Envelope And Operator Limits
+
+- Do not change distance, angle, or library until the answer looks comfortable.
+- Do not read loud resonance as higher threat.
+- Do not resolve a sensor contradiction by closing distance.
+- Do not treat a familiar pulse as a harmless one.
+- Weakest against anomalies that mimic environmental rhythm or sleep until contact.
+- Weakest where heavy RSA fields, CSG output, sonar return, or active QNB equipment
+  distort the reading.
+
+Detection range, threshold bands, and battery runtime are not recorded in this file. Environmental
+envelope:
+NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Survey before contact, standard field issue.
+
+1. Take a baseline reading from the empty environment.
+2. Scan the target perimeter before scanning the target.
+3. Scan the target itself from the approved distance.
+4. Listen for hum, tick, or vibration and note the field-type suggestion.
+5. Call the result out in plain field language.
+6. Log uncertain readings as uncertain.
+7. Preserve distance where the sensor contradicts visible evidence.
+8. Attach the scan-memory chip record to the survey file.
+
+Step-down: the wand is powered down and the chip is filed before the team
+moves on to handling. Emergency: a
+reading that matches a known weapon frequency triggers lockdown even when visual inspection shows
+the item
+correctly stored, which is what the 2003 case established.
 
 DRS scanning begins before contact, naming, opening, feeding, or direct observation. The operator takes
 a baseline
@@ -171,6 +252,34 @@ not currently register. It does not
 promise motive, intelligence, containment class, or mercy.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before each survey | baseline reading and lock switch check | Level 3, locally certified |
+| Library mismatch warning light | library check before further scanning | Survey Division |
+| Calibration | sealed port procedure, never field adjustable | Engineering Division |
+| Scan-memory chip | download and attach to the survey file | Survey Division |
+| Maritime or pressure housing use | housing and rig check | Maritime Observation |
+| Threshold configuration change | review and record | Level 4 |
+
+No calendar interval is recorded; interval NOT MEASURED. The sealed calibration port makes calibration
+an
+Engineering procedure rather than a field task. The consumable in practice is the scan-memory
+chip, which is
+filed against the survey rather than reused.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Strong return, nothing visible | lure or hidden body position | keep distance; 1914 pattern |
+| Optics empty, sensor shows mass | adaptive imperceptibility | believe it; 2024 case |
+| Crimson vibration in a locker | scabbard phase-lock drift | lockdown until disproven |
+| Hum in an apparently empty room | pulse within two meters | clear the area and survey |
+| Reading unstable near RSA output | field interference | move the scan; do not retune |
+| Library mismatch light on | outdated signature library | stop classifying until checked |
 
 ## KNOWN LIMITS
 
@@ -253,6 +362,13 @@ sensor for being first.
   Should every fixed high-risk locker use DRS even if the contained object has
   never
   vibrated?
+
+- What is the measured detection range of the field wand, as distinct from
+  the two-meter tuning-fork
+  array?
+- Which signature libraries are current, and how is a library declared stale?
+- What did the 2024 Sunda Trench survey record for the 10.4-ton signature after
+  the drone returned?
 
 ---
 

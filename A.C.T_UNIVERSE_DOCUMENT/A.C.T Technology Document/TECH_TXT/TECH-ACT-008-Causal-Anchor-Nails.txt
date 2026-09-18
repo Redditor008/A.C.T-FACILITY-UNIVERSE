@@ -105,6 +105,53 @@ returned to a field kit. They enter extraction review, where Engineering decides
 unit is dead,
 contaminated, partially loaded with site stress, or evidence in an incident file.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and field handling text. Values
+the archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| COMPONENT PARAMETER        | VALUE                                                                                 |
++============================+=======================================================================================+
+| Standard unit              | thirty-centimeter spike                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Body material              | violet-tinted alloy                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Point                      | reinforced for concrete, basalt plate, containment flooring, decking, ground anchors  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Head                       | revolving mechanical disc that clicks into a locked state when fully seated           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Internal core              | heated core preventing temporal and spatial slippage                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Grip                       | bands for insulated gloves                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Indicators                 | depth mark, red extraction warning line, status notch, dead-core strip                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Issue class                | single-use                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Pre-deployment behaviour   | magnetically stuck in the hand because the core is already seeking a surface          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Hold duration window       | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Unit mass                  | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Certified hold load        | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Extraction force required  | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Internal core temperature  | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Multi-nail geometry        | Level 4 review before deployment                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The nail is single-use by design. A nail that has already refused a position
+has spent its argument, and
+driving it into a second surface produces a lock nobody has tested. The dead-core
+discoloration strip exists
+so a spent nail cannot be mistaken for a fresh one inside a field
+case.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 A standard CAN is a thirty-centimeter spike made of violet-tinted alloy. The point is
 reinforced for concrete, basalt
@@ -130,7 +177,57 @@ low intensity. If the pull becomes directional enough to steer the handler, the 
 is returned to its case and
 marked for Engineering review.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Deployment Interface
+
+- grip bands for insulated gloves
+- deployment depth mark on the spike body
+- revolving mechanical disc head, locked state felt through gloves
+- red extraction warning line for post-use handling
+
+Field Readouts
+
+- disc lock state, confirmed by feel and never by sound alone
+- short-window status notch for the remaining lock window
+- dead-core discoloration strip for spent nails
+- handler sensation of pull before deployment
+
+Envelope And Handling Limits
+
+- Do not deploy without naming the relationship the nail is meant to hold.
+- Do not rely on the click; some auditory anomalies imitate it.
+- Do not treat the short window as though it were a long one.
+- Do not return a nail that steered the handler's hand to the case
+  without an Engineering mark.
+- Weakest against surfaces that cannot hold the reinforced point.
+- Weakest against targets that move the room instead of moving the object.
+
+Temperature, humidity, altitude, and surface-compatibility limits are not recorded. Deployment envelope: NOT
+MEASURED.
+
 OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+Field deployment, Level 3 Recovery with lead approval.
+
+1. Name the intended relationship: object to floor, crate to rail, door to
+frame, or similar.
+2. Confirm the contact surface can hold the reinforced point.
+3. Announce the target and wait for Recovery lead approval.
+4. Drive the nail to the deployment depth mark.
+5. Confirm the disc has rotated to locked state by feel.
+6. Record the start of the short window from the status notch.
+7. Complete the next operational step while the window is still open.
+8. Withdraw the team, then extract under Level 4 review.
+
+Step-down: the lock ends with the window, not with the team's convenience. Emergency: where
+the surrounding
+room continues to move while the nail holds, the package is at risk of
+tearing and the team withdraws
+instead of adding nails without Level 4 geometry review.
+
 Before deployment, the team identifies the intended relationship: object to floor, crate to rail,
 door to frame, wall
 fragment to wall, sample rack to carrier, or similar. A nail deployed without a
@@ -154,6 +251,54 @@ approved restraint collar. Do not place a nail through living tissue except unde
 Medical and Command
 authority during an extreme terminal incident. CAN use on living persons remains a separate
 review category.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED ACTION                           | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Before issue               | depth mark, disc, and dead-core strip     | Level 3 Recovery                          |
+|                            | check                                     |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Multi-nail geometry        | layout review before deployment           | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Post-use extraction        | extraction review and surface inspection  | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Nail steered the handler's | return to case and mark for review        | Engineering Division                      |
+| hand                       |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Spent nail disposal        | dead-core confirmation, then disposal     | Level 3, locally certified                |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Surface damage at the      | structural inspection                     | Engineering Division                      |
+| deployment point           |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calibration applies: the unit is single-use and carries no adjustable element, so a
+missing interval is
+not a gap here. The consumable is the nail itself. The only recurring service
+is the post-use extraction
+review that Level 4 performs.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Disc does not lock         | point not seated or soft surface          | do not trust the hold; withdraw           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Click heard, no lock felt  | auditory imitation or bad disc            | treat as unlocked                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Nail pulls the handler's   | core seeking another surface              | case it; mark for Engineering             |
+| hand                       |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Package tearing as room    | stress in the wrong surface               | withdraw; the room is moving              |
+| moves                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Dead-core strip on a new   | spent or degraded core                    | do not deploy; report the batch           |
+| nail                       |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Lock outlasting the notch  | window misread by the team                | do not extend the operation               |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 Causal Anchor Nails are short-duration stabilizers. They cannot hold a full containment breach indefinitely,
@@ -233,6 +378,14 @@ click to trigger early movement? Should living-target CAN doctrine remain prohib
 or does
 field medicine need a controlled variant? Do nails deployed near FCA Magnetic RSA-Rails inherit
 aircraft route stress?
+- What is the measured hold window, and does it vary with surface material
+  or subject mass?
+- What certified load does a single nail hold, and how does that change
+  in an approved multi-nail layout?
+- Which contact surfaces have been tested and rejected, and is that list written
+  down where Recovery can
+  reach it?
+
 
 FILE METADATA
 Created: 2026-09-15

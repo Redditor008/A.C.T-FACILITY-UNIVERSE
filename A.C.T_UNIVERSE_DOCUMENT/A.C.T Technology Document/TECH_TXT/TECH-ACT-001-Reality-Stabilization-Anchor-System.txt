@@ -167,6 +167,7 @@ fallback concepts. No confirmed non-A.C.T actor has reproduced a full RSA unit.
 ---
 
 TECHNICAL SPECIFICATION
+-----------------------
 
 Figures below are restated from the Visual Reference Guide entry and this record's component
 list. Values the archive
@@ -210,8 +211,10 @@ high distortion. The four-quarter design allows controlled disagreement inside t
 disagreement in the room.
 
 INTERFACE AND OPERATING ENVELOPE
+--------------------------------
 
 Controls
+--------
 
 - front mechanical hatch with manual interlock, opening to the pressurized core
 - folding detachable tablet connector
@@ -219,12 +222,14 @@ Controls
 - manual hatch interlock
 
 Readouts
+--------
 
 - violet sweep pattern from the laser point dynamic sensor
 - LCD waveforms of the synchronization link
 - RSA-GREEN through RSA-BLACK working states
 
 Envelope And Personnel Limits
+-----------------------------
 
 - Do not stand inside the violet sweep pattern during calibration without approved sensor-safe
   gear.
@@ -310,8 +315,10 @@ holding unless paired with static site support.
 ---
 
 OPERATING PROCEDURE
+-------------------
 
 Numbered Operating Sequence
+---------------------------
 
 Normal calibration, Level 4 Engineering or Containment.
 
@@ -388,6 +395,7 @@ the combined effect.
 ---
 
 SERVICING AND CALIBRATION
+-------------------------
 
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | TRIGGER                    | ACTION                                    | AUTHORITY                                 |
@@ -415,6 +423,7 @@ No consumable
 is recorded. Crystal replacement is a Level 5 procedure, not a scheduled part change.
 
 FAULT ISOLATION
+---------------
 
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |

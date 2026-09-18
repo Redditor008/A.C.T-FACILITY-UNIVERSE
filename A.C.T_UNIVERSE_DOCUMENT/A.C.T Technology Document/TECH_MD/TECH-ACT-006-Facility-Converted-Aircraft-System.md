@@ -133,6 +133,38 @@ Command controls departure and receiving authority.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from the Master Catalog entry, the technological timeline, the visual
+reference
+guide entry, and this record's own component list. Values the archive does not hold
+are marked NOT MEASURED
+and each is filed under OPEN QUESTIONS.
+
+| AIRFRAME PARAMETER | VALUE |
+|---|---|
+| Airframe | lifting-body cargo plane, heavy-lift class |
+| Lift | VTOL turbofan array; vertical takeoff and landing |
+| Introduction | 1995 heavy VTOL transport platform |
+| Catalog position | Master Catalog of Operational Assets, Item 22 |
+| Cargo stabilization | integrated RSA support preserving cargo state in flight |
+| Cargo handling | Magnetic RSA-Rails controlling cargo mass and position |
+| Mass control | Cargo-Weight Stabilizer |
+| Attention damping | hull-mounted ARM-emitter nodes |
+| Cargo bay volume | NOT MEASURED |
+| Maximum takeoff mass | NOT MEASURED |
+| Range and endurance | NOT MEASURED |
+| Cruise speed and ceiling | NOT MEASURED |
+| Crew complement | NOT MEASURED |
+| RSA-rail certified load | NOT MEASURED |
+
+The airframe is a conversion, not a clean design. Aviation performance and containment performance
+compete
+for the same mass budget, which is why the rail and stabilizer figures are
+the ones this file still cannot
+state. A transport that flies well and holds its cargo badly is not a
+containment asset.
+
 ## PHYSICAL AND SYSTEM DESCRIPTION
 
 ### Standard Aircraft Frame
@@ -188,7 +220,58 @@ Variant names are operational profiles, not confirmed separate aircraft models.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Deck And Cargo Controls
+
+- VTOL lift control for the turbofan array
+- Magnetic RSA-Rail engagement for cargo position
+- Cargo-Weight Stabilizer adjustment
+- ARM-emitter node selection for public attention damping
+- integrated RSA support level for the cargo bay
+
+The deck layout is not itemized in this file. Control positions: NOT MEASURED.
+
+### Crew Readouts
+
+- rail and stabilizer state for the loaded cargo
+- ARM coverage during transit
+- cargo condition against the receiving site's intake requirement
+- route, weather, observation, and paperwork status, all treated as containment variables
+
+### Flight And Cargo Envelope
+
+- Do not lift cargo whose weight has been reduced without a stabilizer review.
+- Do not treat the aircraft as final containment for a hostile entity.
+- Do not assume the aircraft can erase a public radar record by itself.
+- Do not depart for a receiving site that has not confirmed intake readiness.
+- Weakest against anomalies that rewrite destination or route meaning.
+- Weakest against spatial storms along the planned route.
+
+Weather, altitude, temperature, and fuel tolerance limits are not recorded in this file or
+the source
+catalog. Environmental envelope: NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Standard movement, Level 4 Logistics or Recovery.
+
+1. Confirm route masking and cover approval before the aircraft is prepared.
+2. Verify the receiving site's intake readiness in writing.
+3. Confirm cargo mass against the Cargo-Weight Stabilizer band.
+4. Confirm the RSA baseline in the cargo bay before loading.
+5. Engage the Magnetic RSA-Rails and confirm cargo position.
+6. Confirm ARM-emitter coverage before departure.
+7. Fly the approved route and log stabilizer state at intervals.
+8. Confirm rail and stabilizer state again before the bay is opened.
+9. Hand the cargo to the receiving site and close the movement record.
+
+Step-down: rails are released only after the receiving site takes physical custody. Emergency: stabilizer
+drift in flight is treated as a cargo containment event rather than an aviation
+fault, and the aircraft
+diverts to the nearest site able to take the cargo.
 
 ### Authorized Use
 
@@ -235,6 +318,34 @@ Cargo-Weight Stabilizer reports
 manageable mass. Do not allow public aviation control to receive the real manifest.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| FLIGHT OR CARGO EVENT | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before every movement | rail, stabilizer, and ARM node check | Level 4 Logistics |
+| Cargo-Weight Stabilizer adjustment | full calibration procedure | Level 5 |
+| Route masking or cover configuration change | full review procedure | Level 5 |
+| RSA-rail calibration | full procedure | Level 5 |
+| Post-movement cargo bay inspection | rail and stabilizer log review | Level 4 |
+| Crew and cargo status reporting | routine | Level 3, mission certified |
+
+No calendar interval is recorded for airframe servicing in this file; interval NOT MEASURED.
+No consumable
+is listed. The 1995 stabilizer drift event is why stabilizer state is checked before
+departure and checked
+again before the bay is opened.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Cargo mass drifts during climb | Cargo-Weight Stabilizer drift | declare a cargo event and divert |
+| Observation at a ground stop | cover breach at the airfield | hold; Civil Covert responds |
+| Biological cargo state change | transfer freeze at intake | stop the transfer; call Medical |
+| Route meaning has changed | anomaly rewriting the route | do not follow it; hold position |
+| Rails cannot hold the cargo | package beyond rail capacity | return to a ground RSA container |
+| Hostile entity aboard | no internal containment fitted | refuse the flight; not final cover |
 
 ## KNOWN LIMITS
 
@@ -391,13 +502,21 @@ System.
   area?
   Can FCA safely move anomalies that define themselves by route, destination, or ownership
   chain?
-— How many remote airfield nodes are still safe after repeated use?
-— Does biological cargo adapt to FCA climate if transfer takes longer than planned?
+- How many remote airfield nodes are still safe after repeated use?
+- Does biological cargo adapt to FCA climate if transfer takes longer than planned?
   Can QNB flight recorders preserve evidence if the aircraft arrives before it departed
   according
   to public logs?
   Should A.C.T develop smaller FCA profiles, or does downscaling create too many visible
   flights?
+
+- What is the certified maximum takeoff mass, and what is the certified Magnetic
+  RSA-Rail load for each
+  variant?
+- What stabilizer band was exceeded in the FCA-1995 drift event, and what band
+  replaced it?
+- Which cover configuration failed at the Pacific Coast airfield, and what was issued
+  afterwards?
 
 ---
 

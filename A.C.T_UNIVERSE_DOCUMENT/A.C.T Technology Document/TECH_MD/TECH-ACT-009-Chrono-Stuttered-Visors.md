@@ -109,6 +109,38 @@ optical core is logged, patched, inspected, and reclaimed.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list, variant list, and delay text.
+Values the
+archive does not hold are marked NOT MEASURED and each is filed under OPEN
+QUESTIONS.
+
+| VISOR PARAMETER | VALUE |
+|---|---|
+| Form | rugged tactical goggles with multi-layer digital lenses |
+| Standard delay | 0.5 seconds between the outside image and wearer perception |
+| Delay adjustment | field supervisors may authorize timing within approved bands |
+| Optics | multi-layer delayed-display lenses |
+| Adjustment | external focus dial setting lens gap and processing depth |
+| Display | integrated HUD |
+| Power | shielded battery pack |
+| Processing | frame-delay processor with flash-dulling circuit |
+| Threat display | threat probability meter |
+| Sealing | face seal or full-face hood mount |
+| Safety hardware | emergency blackout shutter |
+| Records | post-exposure log chip |
+| Variants | full-face biological, temporal vault, archive station |
+| Approved delay band range | NOT MEASURED |
+| Battery runtime | NOT MEASURED |
+| Unit mass | NOT MEASURED |
+
+The frame is thicker than ordinary field eyewear because it carries the processing stack,
+the shielded
+battery housing, the temporal insulation, and the fail-shut relay. None of that is comfort
+engineering.
+Archive station models are heavier again and are not field wearable.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard CSV resembles rugged tactical goggles with multi-layer digital lenses and an integrated
@@ -142,7 +174,58 @@ wearable.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Wearer Controls
+
+- external focus dial for lens gap and processing depth
+- emergency blackout shutter
+- face seal or full-face hood mount
+- glove-safe issue and stow
+
+### HUD Readouts
+
+- delay in milliseconds
+- battery life
+- hazard threat probability
+- filter state
+- recording status where recording is permitted
+
+### Exposure And Personnel Limits
+
+- Do not reduce the delay because the image feels inconvenient.
+- Do not lift the visor for direct confirmation, including colour confirmation.
+- Do not enter the hazard area with an unconfirmed shutter or face seal.
+- Do not resolve an instrument conflict inside the zone.
+- Weakest against hazards that act on any mediated image or delayed copy.
+- Weakest against hazards that punish being watched late.
+- Weakest where local time distortion desynchronizes the processor.
+
+Approved delay band limits, battery runtime, and unit mass are not recorded in this
+file. Environmental
+envelope: NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Entry to a visual-trigger hazard area, Level 2 issue with Level 3 hazard work.
+
+1. Confirm the hazard profile and select the approved delay band.
+2. Check battery, shutter, threat meter, and face seal.
+3. Fit the seal or hood mount before approaching the area.
+4. Enter at reduced speed; the delay is small but it matters near
+moving equipment.
+5. Read instruments and containment markers through the visor rather than around it.
+6. Withdraw if the HUD disagrees with another sensor.
+7. Download the post-exposure log chip after leaving the zone.
+8. Report any afterimage, nausea, or new certainty to Medical.
+
+Step-down: the visor comes off outside the zone and never inside it. Emergency: the
+blackout shutter closes
+the feed outright, and a wearer who needs it withdraws immediately rather than continuing
+the task from
+memory of the last frame.
 
 Before use, personnel confirm the hazard profile and select the approved delay band. A
 wearer never adjusts the frame
@@ -175,6 +258,34 @@ without Info-Hazard approval. The technology protects personnel; it is not a per
 curiosity.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| TRIGGER | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before each entry | battery, shutter, threat meter, and seal check | Field Safety Desk |
+| After each exposure | log chip download and review | Level 3, locally certified |
+| Delay band change | supervisor authorization and record | Field lead |
+| Temporal vault or causal mercury use | full procedure | Level 4 |
+| Face seal or hood mount wear | replacement | Field Safety Desk |
+| HUD or filter state disagreement | withdraw from issue pending bench check | Engineering Division |
+
+No calendar interval is recorded; servicing is event-triggered by exposure, so interval NOT MEASURED.
+Consumables are face seals, hood mounts, shielded battery packs, and log chips. The 2020
+vault battery drop
+is why battery state is checked at the door instead of at the start
+of shift.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Afterimages after exposure | direct look despite low reading | medical observation; 2008 case |
+| New certainty about markings | delay cut below the band | report to Medical; tactile only |
+| HUD power reading then failure | battery drop inside the zone | withdraw; 2020 case |
+| Wearer fixed on the HUD | HUD fixation | rotate the wearer out; retrain |
+| Nausea or late reactions | pace not adjusted for delay | reduce pace; review the plan |
+| Image repeating a frame | processor time desync | withdraw; report to Temporal |
 
 ## KNOWN LIMITS
 
@@ -257,15 +368,22 @@ receives the exact look it wanted.
 
   Which hazards can learn to attack the delayed image rather than the direct
   viewer?
-— Is 0.5 seconds ideal, or only the safest general compromise discovered so far?
-— Can CSV delay create false memories when used near Causal-Reactive Mercury?
+- Is 0.5 seconds ideal, or only the safest general compromise discovered so far?
+- Can CSV delay create false memories when used near Causal-Reactive Mercury?
   How many times can a visor safely display the same hazardous frame before
   the
   frame becomes an object of study itself?
-— Should full-face biological units include automatic 004 aftercare prompts after visor breach?
-— Can hostile GOIs spoof low hazard probability readings to encourage visor lifting?
+- Should full-face biological units include automatic 004 aftercare prompts after visor breach?
+- Can hostile GOIs spoof low hazard probability readings to encourage visor lifting?
   Are some visual anomalies more aggressive when they realize they are being watched
   late?
+
+- What are the numeric limits of the approved delay bands, and who sets
+  them per hazard class?
+- What is the shielded battery runtime under full processing load, and how does
+  cold affect it?
+- Which hazard classes have been shown to act on the delayed image itself
+  rather than on direct sight?
 
 ---
 

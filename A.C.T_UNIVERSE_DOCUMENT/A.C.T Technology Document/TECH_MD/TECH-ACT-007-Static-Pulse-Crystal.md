@@ -111,6 +111,37 @@ discarded chips, and black-market replicas are treated as direct threats to cont
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's material description, packaging list, and processed-form list.
+Values the archive does not hold are marked NOT MEASURED and each is filed
+under OPEN QUESTIONS.
+
+| MATERIAL PARAMETER | VALUE |
+|---|---|
+| Source | controlled extraction, Abyss floor source |
+| Raw form | violet shards with internal pale flashes |
+| Natural features | four stress lines on larger pieces, useful but never trusted without instruments |
+| Thermal behaviour unloaded | feels cooler than the surrounding room |
+| Thermal behaviour loaded | vibration-heat requiring gauge and dampening tracking |
+| Approved processed forms | uncut source shards, quarter-core segments, calibration chips |
+| Non-operational forms | dead reference chips, fracture quarantine pieces |
+| Primary packaging | red or black dampening case with internal suspension foam |
+| Case instrumentation | digital temperature-gauge lid and vibration-heat alarm strip |
+| Custody hardware | shard orientation marks and dual-seal custody locks |
+| Waste handling | insulated capsules for powder, dust, failed slivers, cracked corners |
+| Label fields | designation, mass band, thermal band, pulse band, handler initials, last contact date |
+| Mass band values | NOT MEASURED |
+| Thermal band limits | NOT MEASURED |
+| Pulse band values | NOT MEASURED |
+| Source depth or tunnel | not carried on the case label |
+
+The label deliberately omits source tunnel, source depth, cutting plan, and compatible RSA geometry.
+That
+omission is a custody control rather than an oversight: a case that leaves Materials
+Custody should not
+carry enough information for someone to rebuild a core from it.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 Registered Static-Pulse Crystal appears as raw violet shards with internal pale flashes. Larger pieces
@@ -145,7 +176,57 @@ It does not list source tunnel, source depth, cutting plan, or compatible RSA ge
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Handling Interface
+
+- dual-seal custody lock on the dampening case
+- shard orientation marks for correct seating
+- insulated surface requirement; fragments must not rest on bare metal
+- waste capsule for dust, powder, slivers, and cracked corners
+
+### Material Readouts
+
+- digital temperature-gauge lid
+- vibration-heat alarm strip
+- case temperature, checked before transport
+- receiving room RSA baseline, confirmed before the case is opened
+
+### Storage And Personnel Limits
+
+- Do not polish active crystal or wash it in ordinary water.
+- Do not hold two unrelated source batches in direct contact.
+- Do not open an issued RSA core out of curiosity.
+- Do not store the crystal near unshielded temporal devices, Causal-Reactive Mercury, or high-output
+  CSG
+  cabinets.
+- Do not use an active shard as proof of clearance or as a
+  teaching aid.
+- Weakest where the surrounding system cannot state which baseline it wants.
+
+Shelf life, safe handling duration, and fragment size limits are not recorded in this
+file. Handling
+envelope: NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Issuing a quarter-core segment into an RSA pillar, Level 4 Engineering with Materials Custody.
+
+1. Inspect case temperature and the alarm strip before movement.
+2. Confirm the receiving room holds a stable RSA baseline.
+3. Confirm the core geometry matches the written cutting plan.
+4. Seat the segment against its orientation marks.
+5. Close and pressurize the core chamber behind the mechanical hatch.
+6. Confirm pulse band agreement with what the pillar is requesting.
+7. Log segment designation, batch, and handler initials.
+
+Step-down: a core is removed to quarantine rather than returned to stock after repeated
+WHITE or BLACK
+states. Emergency: a case that warms without system load stops moving immediately and Materials
+Custody is
+called before anything else is touched.
 
 SPC is handled as a live material even when inactive. Personnel must inspect case
 temperature before transport,
@@ -172,6 +253,36 @@ incident, not as aesthetic
 lighting.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED ACTION | AUTHORITY |
+|---|---|---|
+| Case warms without system load | stop movement and quarantine the case | Materials Custody |
+| Repeated RSA WHITE or BLACK states | remove the core to quarantine | Level 5 Engineering |
+| Crystallized stress release | written authority, room check | Level 5 with Site Command |
+| Cutting, four-split geometry, or shard inventory | full procedure | Level 5 |
+| Dead reference confirmation | pulse verification before teaching-kit use | Materials Custody |
+| Waste capsule sealing and disposal | routine | Level 3, locally certified |
+| Workshop drain and storage audit | scheduled audit | Materials Custody |
+
+No calendar interval is recorded; interval NOT MEASURED. The consumables here are packaging rather
+than
+parts: dampening cases, suspension foam, alarm strips, and insulated waste capsules. The 1982 waste
+chip
+loss is why grit is still audited out of old workshop drains.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Ringing tone through the frame | undamped active shard | terminate the test; 1967 signature |
+| Loose hardware rotating alone | core song through the frame | clear the chamber; report it |
+| Case warms with no system load | uncontrolled pulse activity | stop transport; call Custody |
+| Cart returns to one floor spot | forgotten chip or grit nearby | search, capsule, audit the drain |
+| Core pulsing as four pieces | shard disagreement | quarantine the core at Level 5 |
+| Dashboard calm while room drifts | false calm from a failing core | verify with a second instrument |
+| Crystal sticking to metal | local magnetic response | insulate; report to Custody |
 
 ## KNOWN LIMITS
 
@@ -258,6 +369,14 @@ containment systems depend.
   rest?
 - Can shard disagreement be predicted before a four-split core enters service?
 - Does long-term proximity to SPC affect personnel sense of ordinary space?
+
+- What numeric mass, thermal, and pulse bands does the case label record that
+  this file does not?
+- How many source batches remain compatible with issued RSA geometry, and how is
+  drift between them
+  detected?
+- What quantity of discarded shard material has been unaccounted for since the 1982
+  waste chip loss?
 
 ---
 

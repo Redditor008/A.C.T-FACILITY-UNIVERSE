@@ -156,6 +156,7 @@ confirmed to match full QNB behavior.
 ---
 
 TECHNICAL SPECIFICATION
+-----------------------
 
 Canister material, etching method, and drift equations remain Level 5 and are deliberately not
 restated. Capacity and
@@ -208,8 +209,10 @@ failed in early trials, when the digital environment accepted the rewritten past
 could detect it.
 
 INTERFACE AND OPERATING ENVELOPE
+--------------------------------
 
 Controls
+--------
 
 - manual override cranks for physical data-stream reset during a causal-wipe event
 - emergency dead-power crank path
@@ -218,12 +221,14 @@ Controls
 - paper-to-buffer transcription cradle
 
 Readouts
+--------
 
 - wide front monitor showing scrolling hex-code and Narrative Drift percentages
 - QNB-GREEN through QNB-BLACK working states
 - document identity register entries
 
 Envelope And Personnel Limits
+-----------------------------
 
 - Do not read a hazardous document aloud during buffer ingest.
 - Do not overwrite a QNB-preserved contradiction because the current file looks cleaner.
@@ -298,8 +303,10 @@ than rack hardening and must be reconciled after recovery.
 ---
 
 OPERATING PROCEDURE
+-------------------
 
 Numbered Operating Sequence
+---------------------------
 
 Accession, Level 4 Archive or Engineering.
 
@@ -373,6 +380,7 @@ containment. Do not assume a record is true because it survived.
 ---
 
 SERVICING AND CALIBRATION
+-------------------------
 
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | TRIGGER                    | ACTION                                    | AUTHORITY                                 |
@@ -398,6 +406,7 @@ came out of a failure:
 recovered documents must be compared against QNB title memory before any downgrade.
 
 FAULT ISOLATION
+---------------
 
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |

@@ -100,6 +100,46 @@ shift a person's accepted pulse range.
 Pulse libraries remain Level 5 because they are identity maps of the most sensitive
 people in A.C.T.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's reader description and denial history. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| READER PARAMETER           | VALUE                                                                                 |
++============================+=======================================================================================+
+| Reader input               | palm pad for physical biometric capture                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Marker capture             | ultraviolet spectrograph recording surface and sub-surface markers                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Identity comparison        | Static Pulse checked against the stored continuity band                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Output                     | printed access-log receipt plus an event sent to the attached security archive        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Deployment                 | vault and command corridor entry, senior access points                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Clearance                  | Level 4 senior site; Level 5 Council libraries, re-interface, override                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Denied subject classes     | replicas, puppets, shapeshifters, body thieves, impostors, doubles                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Scan duration              | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Accepted pulse band width  | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Receipt retention period   | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| False-denial rate          | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Profile refresh interval   | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The reader adds a causal identity check at places where a copied body would
+be catastrophic. It does not
+replace guards, passphrases, command authority, or medical review, and no door should rely on
+it alone when
+the situation already smells wrong.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 A standard SPBID unit is a brushed-aluminum wall scanner mounted beside high-security doors, vault
 entries, command
@@ -117,7 +157,59 @@ access log output; and tamper-evident faceplate.
 The unit is intentionally plain. A scanner that draws attention teaches intruders where identity
 matters most.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Reader Controls
+
+- palm pad placement
+- receipt printer
+- local denial and override handling
+- security-archive event transmission
+
+Reader Readouts And Denial Codes
+
+- physical biometric match state
+- Static Pulse continuity band comparison
+- ultraviolet spectrograph result
+- printed access-log receipt
+- denial code recorded against the event
+
+Access And Personnel Envelope
+
+- Do not treat a transformation survivor as an impostor before Medical review.
+- Do not widen an accepted pulse band without review.
+- Do not rely on the reader alone where coercion is possible.
+- Do not discard receipts in senior corridors.
+- Weakest after severe transformation, temporal displacement, resurrection, or heavy amnestic
+  intervention.
+- Weakest against forged pulse fields and stolen profile fragments.
+
+Scan duration, accepted band width, and receipt retention period are not recorded in this
+file. Reader
+envelope: NOT MEASURED.
+
 OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+Senior access verification, Level 4 with Level 5 library authority.
+
+1. Confirm the reader's pulse library is current for the access point.
+2. Confirm the subject's registered profile exists and is not flagged for review.
+3. Have the subject place a hand on the palm pad.
+4. Record surface and sub-surface markers with the spectrograph.
+5. Compare the Static Pulse against the stored continuity band.
+6. On match, print the receipt and transmit the event.
+7. On denial, record the denial code and refer to Medical before any
+retry.
+8. Retain the receipt trail for later QNB or Archive comparison.
+
+Step-down: a denial is resolved by review rather than by repetition, and three failed
+scans do not become a
+pass. Emergency: where physical biometrics match but the causal signature does not, the door
+stays closed
+and Identity Control is called instead of the reader being overridden at the panel.
+
 Authorized users approach the scanner after guard or corridor confirmation. The user places the
 registered hand on the
 palm pad and remains still until the indicator completes. A successful result prints a
@@ -140,6 +232,56 @@ change.
 Receipts are not souvenirs. Every receipt is an access record. Lost receipts from restricted
 doors are reported as
 security material.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Before senior shift start  | pulse library currency check              | Identity Control Desk                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Receipt printer jam or low | paper replacement and printer check       | Level 3, locally certified                |
+| stock                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Ultraviolet spectrograph   | spectrograph check                        | Engineering Division                      |
+| drift                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Profile aging flagged      | profile refresh under review              | Identity Control Desk                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Library contamination      | library audit                             | Level 5                                   |
+| suspected                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| False denial after lawful  | band review with Medical                  | Identity Control with Medical             |
+| alteration                 |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; servicing is triggered by denial events and library state,
+so interval NOT
+MEASURED. The consumables are receipt paper and, at Level 5, pulse library entries. The
+2015 denial event is
+why band widening is a review and not a setting.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Three failed scans,        | band changed by re-interface              | refer to Medical; 2015 case               |
+| biometrics match           |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Receipt for an unremembered| memory discontinuity                      | retain it; compare with QNB               |
+| access                     |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Denied for a pulse too     | nonlocal duplicate                        | hold the subject; 2022 case               |
+| clean                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Reader jamming at a        | receipt printer fault                     | manual log; service the printer           |
+| corridor                   |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Match failing all shift    | spectrograph drift or aging               | stop senior use until checked             |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Match passes, staff uneasy | coercion the reader cannot see            | do not open; call Security                |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 SPBID cannot prove moral loyalty, mental clarity, freedom from coercion, or correct command judgment.
@@ -212,6 +354,13 @@ preserve people too
 perfectly? Can amnestic aftercare alter the accepted range without physical change? What happens when
 two lawful
 versions of the same person reach the same scanner?
+- What is the accepted pulse band width, and how was it set for
+  re-interfaced staff?
+- How long are senior-corridor receipts retained, and who may compare them against QNB
+  records?
+- Which denial code was recorded in the 2022 smooth history alarm, and is
+  it still in use?
+
 
 FILE METADATA
 Created: 2026-09-15

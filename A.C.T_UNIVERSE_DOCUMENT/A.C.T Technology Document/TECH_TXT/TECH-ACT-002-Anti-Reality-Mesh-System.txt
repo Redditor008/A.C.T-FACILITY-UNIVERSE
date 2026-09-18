@@ -164,6 +164,7 @@ deliveries and routes through ARM-treated access points.
 ---
 
 TECHNICAL SPECIFICATION
+-----------------------
 
 Node-level detail below is the identification-training set from the Visual Reference Guide. The aperture
 material,
@@ -207,19 +208,23 @@ a property of node density and
 cover weighting together, and neither is published.
 
 INTERFACE AND OPERATING ENVELOPE
+--------------------------------
 
 Controls
+--------
 
 - ruggedized ARM field tablet
 - green web field-visualization interface
 
 Readouts
+--------
 
 - node-failure red alert display
 - acoustic maintenance warning tone
 - ARM-GREEN through ARM-BLACK working states
 
 Envelope And Personnel Limits
+-----------------------------
 
 - Do not remove a copper node because it looks decorative.
 - Do not paint over node clusters with conductive or reflective coatings without Engineering
@@ -306,8 +311,10 @@ site support.
 ---
 
 OPERATING PROCEDURE
+-------------------
 
 Numbered Operating Sequence
+---------------------------
 
 Standard operation, Level 4 Engineering or Civil Covert.
 
@@ -379,6 +386,7 @@ not let ARM suppress evacuation signals, medical alarms, fire alarms, or contain
 ---
 
 SERVICING AND CALIBRATION
+-------------------------
 
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | TRIGGER                    | ACTION                                    | AUTHORITY                                 |
@@ -408,6 +416,7 @@ and node
 service life are both NOT MEASURED.
 
 FAULT ISOLATION
+---------------
 
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |

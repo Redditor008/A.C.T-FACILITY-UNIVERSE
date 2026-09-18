@@ -103,6 +103,36 @@ identify cover sites, or build counter-broadcasts that ride inside the dullness.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list, library description, and installation text.
+Values the archive does not hold are marked NOT MEASURED and each is filed
+under OPEN QUESTIONS.
+
+| NODE PARAMETER | VALUE |
+|---|---|
+| Node | wall-mounted digital speaker with a Banal-Status Monitor |
+| Monitor fields | output health, entropy, pattern risk, volume band, override state, freshness |
+| Pattern control | Pattern-Randomizer Disc selecting, cutting, overlapping, de-emphasizing fragments |
+| Entropy display | dullness entropy meter |
+| Volume control | volume governor |
+| Source library | manifest fragment library |
+| Alarms | dead-air alarm and phrase repetition warning |
+| Service access | local maintenance jack |
+| Emergency settings | emergency mute and emergency flood |
+| Site topology | chained nodes, ceiling speakers, corridor emitters, Site Command control panels |
+| Cover variants | public-address speakers, ventilation rattle, chime boxes, waiting-room noise |
+| Coverage radius per node | NOT MEASURED |
+| Output level and flood ceiling | NOT MEASURED |
+| Entropy scale definition | NOT MEASURED |
+| Library refresh interval | NOT MEASURED |
+
+The library is built from harmless administrative fragments: manifests, inventory tones, hallway air
+movement, copier hum, unimportant route codes, empty schedule language, synthetic footstep smear, and dull
+weather reports. The randomizer disc exists to stop that material becoming a chant, song,
+command, prayer,
+or recognizable message.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard BWB node is a wall-mounted digital speaker with a Banal-Status Monitor. The
@@ -135,7 +165,60 @@ during breach response.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Node Controls
+
+- local maintenance jack
+- volume governor
+- emergency mute
+- emergency flood, ordered by Site Command
+
+### Banal-Status Monitor Readouts
+
+- output health
+- entropy level on the dullness entropy meter
+- pattern risk
+- volume band
+- local override state
+- library freshness
+
+### Acoustic And Personnel Envelope
+
+- Do not listen for hidden messages in the output.
+- Do not flood above Medical exposure limits unless breach conditions justify harm reduction.
+- Do not leave a silent pocket between two working nodes.
+- Do not ignore a phrase repetition warning because the phrase is dull.
+- Weakest against hazards that feed on bureaucracy, monotony, boredom, or repeated dullness.
+- Weakest once an anomaly has already established a scene.
+
+Coverage radius, output level, and flood ceiling are not recorded in this file. Acoustic
+envelope: NOT
+MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Shift start and zone response, Level 3 Containment or Civil Covert.
+
+1. Confirm the broadcast is already running before narrative pressure arrives.
+2. Check the Banal-Status Monitor at shift start.
+3. Confirm the entropy meter is green.
+4. Verify that no phrase has repeated beyond allowed frequency.
+5. Confirm library freshness before extended operation.
+6. Order zone flood through Site Command where scripting pressure is active.
+7. Isolate the node and freeze the library block if a clear sentence,
+name, song, prayer, joke, threat, or
+repeated number emerges.
+8. Send the output log to Archive where it is safe to do
+so.
+
+Step-down: flood volume returns to the normal band as soon as scripting pressure drops.
+Emergency: a
+contaminated zone is treated as contaminated rather than interpreted in place, and the affected
+library
+block is frozen before anything further is broadcast from it.
 
 BWB should be active before narrative pressure arrives. It is less effective when started
 after an anomaly has already
@@ -160,6 +243,35 @@ Civil Covert work because a boring
 room is easier to overlook than a silent suspicious room.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| At shift start | monitor check, entropy green, repetition check | Level 3, locally certified |
+| Library freshness low | library refresh | Containment Division |
+| Phrase repetition warning | randomizer disc inspection | Engineering Division |
+| Dead-air alarm | speaker chain and coverage check | Engineering Division |
+| Node synchronization drift | chain timing check | Engineering Division |
+| Flood volume setting | order and Medical exposure review | Site Command with Medical |
+
+No calendar interval is recorded; interval NOT MEASURED. The consumable is library material, which
+ages
+rather than runs out, and the monitor's freshness field is the only measure this
+file holds. The 2013
+repetition hook is why the randomizer disc is inspected on warning rather than on
+schedule.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Fragments repeating on a cycle | randomizer disc fault | scrub the zone; 2013 case |
+| Irritability in a covered room | over-boring fatigue | enforce Medical exposure limits |
+| Silent pocket between nodes | speaker chain failure | treat as uncovered; restore it |
+| Volume rising with no order | governor fault or creep | return to band; report it |
+| Clear sentence in the output | library contamination | isolate; freeze the block |
+| Cover audio sounds artificial | tuning fault at a cover site | retune before suspicion spreads |
 
 ## KNOWN LIMITS
 
@@ -247,6 +359,12 @@ broadcast has already done too much.
   larger
   failure surface?
 - Are dead-air pockets more dangerous in containment wings than in public cover sites?
+
+- What is the coverage radius of a single node, and how is a
+  silent pocket detected automatically?
+- How is the dullness entropy scale defined, and what value counts as green?
+- How often is the manifest fragment library refreshed, and who approves a new
+  fragment?
 
 ---
 
