@@ -3938,9 +3938,11 @@ seconds of shutdown confirmation. Abyssal Basalt is classed heavy regardless of 
 DRM Suite is baselined empty before and after every high-risk scan. SBS closes every cover with a
 contradiction ledger entry naming who approved the public story.
 
-**Word counts.** 046 1348 to 2113, 047 1354 to 2103, 048 1424 to 2172, 049 1418 to 2140, 050 1416 to
-2138, 051 1350 to 2065, 052 1381 to 2107, 053 1366 to 2093, 054 1399 to 2129, 055 1403 to 2110.
-Every record now carries 14 H2 chapters and 7 pipe tables.
+**Word counts, measured from the records after the run.** 046 1348 to 2080, 047 1354 to 2068,
+048 1424 to 2140, 049 1418 to 2119, 050 1416 to 2118, 051 1350 to 2085, 052 1381 to 2098,
+053 1366 to 2088, 054 1399 to 2097, 055 1403 to 2100. Every record now carries 14 H2 chapters and
+7 pipe tables. An earlier draft of this entry carried projected counts written before the run
+rather than the measured ones; these are measured.
 
 **One defect caught by a new guard.** Record 052's interface block was written into the batch script
 as a bare list instead of a titled readout group, the same shape of error as the previous batch. The
