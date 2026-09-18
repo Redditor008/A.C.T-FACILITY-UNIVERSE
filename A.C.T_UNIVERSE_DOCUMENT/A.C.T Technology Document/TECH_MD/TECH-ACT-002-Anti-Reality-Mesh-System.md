@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Site Command, Containment, Intelligence, Archive, Logistics, Recovery, and Normalcy Management |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / SITE-CRITICAL |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF OVERLAPPED OR MIS-CALIBRATED |
-| CLEARANCE REQUIRED | tables |
+| CLEARANCE REQUIRED | Level 4 for mesh operation; Level 5 for aperture-node composition, site-wide reset, and<br>civilian-perception tables |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

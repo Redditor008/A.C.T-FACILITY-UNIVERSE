@@ -7,7 +7,7 @@
 | COMMON ABBREVIATIONS | Feedbacker Shield / Item-A01 / Guild Feedbacker Data |
 | ORIGIN | Mysterious Guild |
 | ACQUISITION STATUS | Recovered record data; tactical reconstruction prohibited without higher review |
-| PRIMARY A.C.T INTEREST | study |
+| PRIMARY A.C.T INTEREST | Defensive future-origin equipment, impact-return risk, operative interface dependency, humane<br>containment boundary study |
 | ARCHIVE HANDLING | GUILD ARMORY RESTRICTED / DEFENSIVE SYSTEM REVIEW |
 
 ## Functional Identity

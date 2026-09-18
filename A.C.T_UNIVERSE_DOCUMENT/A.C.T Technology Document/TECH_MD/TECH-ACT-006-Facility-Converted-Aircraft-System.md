@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Engineering, Containment, Site Command, Civil Covert, Medical Care, Field Command, and Intelligence |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / HIGH-PRIORITY TRANSPORT |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF MASS, RSA, OR COVER FAILS |
-| CLEARANCE REQUIRED | world-scale sample movement |
+| CLEARANCE REQUIRED | Level 4 for mission planning; Level 5 for route masking, cargo-weight stabilizer access, RSA-rail<br>calibration, and world-scale sample movement |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

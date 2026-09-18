@@ -13,7 +13,7 @@
 | ATTACHED DIVISIONS | Medical / Containment / Subject Care / Engineering / Legal |
 | OPERATIONAL STATUS | ACTIVE IN GOI WARDS / RESTRICTED A.C.T FIELD REVIEW |
 | RISK STATUS | CONTROLLED / HOSTILE-USE IF MODIFIED |
-| PRIMARY USE | release capability |
+| PRIMARY USE | Patient-specific restraint of harmful manifestations while preserving communication, breath,<br>dignity, and emergency release capability |
 | KNOWN VARIANTS | Blue Lock, White Lock, Green Lock, Grey Lock, Black Lock, and Red Lock failure-review<br>configurations |
 | CLEARANCE REQUIRED | Level 4; Level 5 for living patient tuning, override language, ward maps, and failed<br>lock construction notes |
 

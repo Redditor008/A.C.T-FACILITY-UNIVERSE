@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Research, Security, Port Operations, Cover, Site Command |
 | OPERATIONAL STATUS | ACTIVE / PUBLIC AND SEMI-PUBLIC COVER USE |
 | RISK STATUS | COVER FAILURE / PUBLIC SCRUTINY / BOUNDARY EXPOSURE RISK |
-| CLEARANCE REQUIRED | exposure event |
+| CLEARANCE REQUIRED | Level 2 for ordinary campus support; Level 4 for cover alteration, concealed-transition control, or<br>exposure event |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

@@ -17,7 +17,7 @@
 | KNOWN LEADERSHIP | Executive board unconfirmed; product design office uses rotating nursery-title signatures |
 | KNOWN MEMBERSHIP | Designers, toy engineers, sleep clinicians, child-trauma workers, warehouse staff, route volunteers, and caregivers |
 | PRIMARY ACTIVE REGION | Transnational child-care markets, hospital donation chains, disaster shelters, schools, and private homes |
-| KNOWN ASSETS | warranty ledgers |
+| KNOWN ASSETS | Protective toys, comfort objects, nursery devices, recalled product lots, donor routes, care<br>instructions, and warranty ledgers |
 | KNOWN HOLDINGS | Front workshops, storage rooms, mobile repair vans, pediatric-clinic donation lockers, and unlisted catalogues |
 | IDEOLOGY | Children should not be left defenseless because adults cannot name the thing that harmed<br>them |
 | HISTORY WITH A.C.T | Repeated recovery of protective child-facing anomalous products from post-incident homes and shelters |

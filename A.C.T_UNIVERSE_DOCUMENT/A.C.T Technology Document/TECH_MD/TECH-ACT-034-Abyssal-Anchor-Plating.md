@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Abyss Floor, Site Command, Logistics, World-Scale Recovery |
 | OPERATIONAL STATUS | ACTIVE / HEAVY STRUCTURAL / MASSIVE BOX DEPLOYMENT |
 | RISK STATUS | CONTROLLED / LOAD-ANCHOR AND RESONANCE HAZARD |
-| CLEARANCE REQUIRED | override |
+| CLEARANCE REQUIRED | Level 4 for installation; Level 5 for Massive Box design, tungsten-lattice layout, and anchor-load<br>override |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

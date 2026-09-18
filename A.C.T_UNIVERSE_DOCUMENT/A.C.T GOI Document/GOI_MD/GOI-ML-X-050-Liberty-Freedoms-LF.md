@@ -13,17 +13,17 @@
 | THREAT LEVEL | 4 |
 | SECRECY RISK | EXPOSURE-ACTIVE |
 | A.C.T POSTURE | CONTAIN / DISMANTLE / INFILTRATE |
-| KNOWN LEADERSHIP | unresolved |
-| KNOWN MEMBERSHIP | cells; live census unresolved |
+| KNOWN LEADERSHIP | Assessed rotating council of founding defectors and regional commanders; individual identities<br>compartmented and unresolved |
+| KNOWN MEMBERSHIP | Large decentralized network of former A.C.T personnel, displaced civilians, radical sympathizers,<br>and opportunist cells; live census unresolved |
 | PRIMARY ACTIVE REGION | Transnational; defector-trace and transport-route analysis held in restricted surveillance records |
-| KNOWN ASSETS | infrastructure, and anomalies assessed to travel with cells |
+| KNOWN ASSETS | Defector operational knowledge, seized route and schedule records, adapted A.C.T equipment,<br>publication and leak infrastructure, and anomalies assessed to travel with cells |
 | KNOWN HOLDINGS | Dispersed safehouses, temporary holding routes, publication relays, and changing forward staging |
 | IDEOLOGY | Liberation of anomalies and of concealed knowledge from A.C.T custody, pursued through deliberate public<br>rupture<br>rather than negotiated reform |
-| HISTORY WITH A.C.T | contested |
+| HISTORY WITH A.C.T | Coordinated defection-and-leak pattern opened the current record; a single founding event remains<br>unverified and contested |
 | ANOMALY CROSS-REFERENCE | No permanent group-wide list; case chains and seized-subject files held restricted |
 | CURRENT STATUS | ACTIVE - dispersed insurgency with confirmed defector, publication, and anomaly-carry operations |
 | PRIMARY FILE AUTHORITY | Intelligence Division, Hostile Networks Desk, with Internal Security liaison |
-| SITE JURISDICTION | lanes |
+| SITE JURISDICTION | Central Command with cross-site incident authority; ACT-SITE-01, ACT-SITE-03, and ACT-SITE-05 lead<br>standing response lanes |
 | CLEARANCE REQUIRED | Level 4; Level 5 for defector identity, seized-subject, and leak-source files |
 
 | REGISTRY FIELD | CURRENT VALUE |

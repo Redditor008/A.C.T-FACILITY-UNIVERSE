@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Researcher, Intelligence, Archive, Security, Medical |
 | OPERATIONAL STATUS | ACTIVE / PROPAGATION TRACKING AND RESPONSE SUPPORT |
 | RISK STATUS | REPLICATION ESCAPE / MISROUTED WARNING / DATA CONTAMINATION |
-| CLEARANCE REQUIRED | export |
+| CLEARANCE REQUIRED | Level 4 for propagation tracking; Level 5 for public-media intervention orders or unrestricted<br>pattern export |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

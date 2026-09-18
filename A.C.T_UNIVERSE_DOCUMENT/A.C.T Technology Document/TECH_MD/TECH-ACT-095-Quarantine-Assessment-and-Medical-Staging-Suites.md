@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Medical Quarantine, Assessment Laboratory, Security |
 | OPERATIONAL STATUS | ACTIVE / QUARANTINE ASSESSMENT USE |
 | RISK STATUS | FALSE RELEASE / MISCLASSIFICATION / SUPPRESSION ERROR RISK |
-| CLEARANCE REQUIRED | assessment |
+| CLEARANCE REQUIRED | Level 3 for quarantine work; Level 4 for suppression change, parent-station escalation, or failed<br>assessment |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -85,6 +85,38 @@ those meanings before the wrong destination is chosen.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and assessment doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| ASSESSMENT PARAMETER | VALUE |
+|---|---|
+| Intake | quarantine intake bay |
+| Chamber | sealed biological assessment chamber |
+| Bench | laboratory verification bench |
+| Administration | suppression administration station |
+| Staging | medical staging suite |
+| Manifest | rolling manifest terminal |
+| Barrier | contamination barrier door |
+| Escalation | parent-station escalation panel |
+| Marker | failed-assessment isolation marker |
+| Observation | Security observation control |
+| Outcome classes | released, extended, escalated, failed |
+| Assessment authority | assessment officer within quarantine limits |
+| Chamber count | NOT MEASURED |
+| Median assessment time | NOT MEASURED |
+| False release events | NOT MEASURED |
+
+Assessment and suppression work against each other. Suppression exists to make a subject quiet
+enough to
+hold safely, and the quiet it produces is the same quiet the assessment is
+trying to interpret. The suites
+therefore record suppressed and unsuppressed observations separately, and a release decision may not rest
+on
+suppressed data alone.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A QAMSS installation includes intake and quarantine bays, sealed quarantine chambers, assessment benches, medical
@@ -110,7 +142,55 @@ The suites are built to answer enough, not everything. Complete knowledge belong
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Assessment Controls
+
+- quarantine intake bay
+- sealed biological assessment chamber
+- suppression administration station
+- parent-station escalation panel
+
+### Assessment Readouts
+
+- laboratory verification bench results
+- rolling manifest terminal position
+- failed-assessment isolation markers
+- contamination barrier door state
+
+### Quarantine And Personnel Limits
+
+- Do not release on suppressed observation alone.
+- Do not extend quarantine without recording the reason.
+- Do not treat silence as confirmation of dormancy.
+- Do not open the barrier during an active assessment.
+- Weakest against a seasonal wave exceeding chamber count.
+- Weakest against a subject whose suppression masks its state.
+
+Chamber count, assessment time, and false release rate are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence separates what was observed from what was administered. Where the two are
+recorded together, a
+later reviewer cannot tell whether a quiet subject was quiet or merely suppressed.
+
+1. Receive the subject at the quarantine intake bay.
+2. Record an unsuppressed baseline before any administration.
+3. Seal the assessment chamber and begin observation.
+4. Run verification at the laboratory bench against the baseline.
+5. Administer suppression only where the assessment allows it.
+6. Log suppressed and unsuppressed observations separately.
+7. Assign an outcome and post it to the rolling manifest.
+8. Escalate or mark for isolation, then close the barrier record.
+
+Steps 2 and 6 form the control that prevents the failure this level exists
+to catch. A release justified by
+suppressed data is not a decision about the subject; it is a decision about
+the suppression, and the archive
+cannot audit the difference afterwards.
 
 Upon arrival, QAMSS staff assign quarantine status, source route, biological condition, suppression requirement,
 exposure concern, and provisional transfer destination. Material is placed in a quarantine chamber or
@@ -124,6 +204,32 @@ quarantine, immediate escalation, or parent-authorized silent removal. No outcom
 manifest, medical assessment, suppression state, and parent-station instruction match.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Each case | record the unsuppressed baseline first |
+| Daily | verify barrier door seals and chamber integrity |
+| Weekly | reconcile outcomes against the rolling manifest |
+| Monthly | review suppression thresholds with the medical lead |
+| Seasonally | rehearse a failed-assessment isolation |
+
+Chamber integrity checks are not housekeeping at this level. A chamber that leaks compromises
+the assessment
+as well as the containment, so a failed seal invalidates the observations taken since
+the last verified
+check rather than only those taken after it.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Release followed by activity | Decision rested on suppressed data | Recall, re-quarantine, review the threshold |
+| Baseline missing | Administration preceded observation | Void the assessment and restart from intake |
+| Barrier seal fails | Door fault or contamination event | Isolate the chamber, invalidate observations |
+| Chamber unavailable | Seasonal wave exceeds capacity | Escalate before extending quarantine informally |
+| Outcome contradicts manifest | Manifest not updated at assignment | Correct the manifest, audit recent outcomes |
 
 ## KNOWN LIMITS
 
@@ -187,6 +293,10 @@ QAMSS doctrine holds that the cold chain begins with a question, not a chamber.
 - Should silent removal be treated as assessment outcome or command disposition only?
 - When does repeated quarantine extension become unauthorized holding?
 - How much laboratory detail may Frost Hollow keep without becoming a research site?
+
+- Which signals should override an otherwise stable cold response?
+- How long may quarantine extend before it becomes holding?
+- What unsuppressed observation is safe to attempt at all?
 
 ---
 

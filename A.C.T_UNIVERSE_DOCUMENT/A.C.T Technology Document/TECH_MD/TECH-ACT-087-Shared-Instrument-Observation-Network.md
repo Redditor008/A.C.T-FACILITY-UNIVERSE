@@ -85,6 +85,38 @@ priorities.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's instrument list and separation doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| NETWORK PARAMETER | VALUE |
+|---|---|
+| Ocean monitor | oceanographic monitor housing |
+| Volcanic view | volcanic observation camera |
+| Wildlife point | wildlife observation point |
+| Sightline | deck sightline marker |
+| Public terminal | public station data terminal |
+| Concealed route | concealed F-2 feed route |
+| Filter | report separation filter |
+| Calibration | calibration ledger |
+| Maintenance | maintenance cover schedule |
+| Review point | Security data-bleed review point |
+| Feed split | public copy and watch copy from one housing |
+| Report classes | public summary, watch indicator, suppressed capture |
+| Feed delay | NOT MEASURED |
+| Instrument count | NOT MEASURED |
+| Bleed incidents | NOT MEASURED |
+
+Shared instrumentation is a two-copy system, not a hidden feed. The public copy and
+the watch copy leave the
+same housing at the same moment, and the report separation filter decides which copy
+a given reading may
+enter. Concealment lives in the routing, never in the instrument, because an instrument that
+behaves oddly
+is the first thing a curious visitor examines.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A SION installation includes deck-mounted observation points, instrument housings, sensor mounts, feed division
@@ -112,7 +144,57 @@ The network is trusted only while its two reports remain separable.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Instrument Controls
+
+- oceanographic monitor housing
+- volcanic observation camera
+- wildlife observation point
+- public station data terminal
+
+### Instrument Readouts
+
+- calibration ledger entries
+- report separation filter dispositions
+- concealed F-2 feed route state
+- data-bleed review point findings
+
+### Dual-Use And Personnel Limits
+
+- Do not suppress a public reading without an instrument reason.
+- Do not let maintenance timing follow watch priorities.
+- Do not route a watch copy into the public terminal.
+- Do not treat wildlife absence as a confirmed anomaly indicator.
+- Weakest against researchers comparing publication dates.
+- Weakest against calibration records read in sequence.
+
+Feed delay, instrument count, and bleed history are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence runs once per public day and again after any storm. Every concealment
+decision is written down
+at the moment it is taken, which is the only reason a later review
+can prove the public record was not
+quietly altered.
+
+1. Confirm each housing is powered and recording before the public day opens.
+2. Compare current readings against the calibration ledger baseline.
+3. Release the public copy to the station data terminal unchanged.
+4. Pass the same readings into the report separation filter.
+5. Assign each filtered reading to summary, indicator, or suppression.
+6. Route watch copies along the concealed F-2 feed route.
+7. Record every suppression with its instrument justification.
+8. Close the day by logging calibration drift and bleed checks.
+
+Step 5 carries the whole method. Suppression is not a deletion but a routing
+decision with a stated cause,
+and a suppression without a cause is indistinguishable from tampering when an outside party
+asks about the
+gap.
 
 During routine operation, legitimate station staff use SION for open research work. They record
 coastal, marine,
@@ -131,6 +213,32 @@ not be altered solely to
 favor concealed watch without preserving legitimate station utility.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Daily | verify recording state and public copy release |
+| Weekly | review separation filter dispositions |
+| Monthly | check calibration drift against the ledger |
+| Quarterly | audit feed routes for bleed and misrouting |
+| After storms | inspect housings, mounts, and cabling |
+
+Calibration is public-facing work with a concealed purpose. Ledger entries must remain defensible to
+an
+outside observer, so drift is corrected on the instrument's own schedule rather than on
+the watch schedule,
+even where that delays a reading the watch wanted.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Public terminal shows no data | Release step skipped or terminal down | Restore the release, then trace cause |
+| Watch feed silent | Concealed route fault at the housing | Test the route, keep the public copy running |
+| Calibration entry missing | Drift corrected without a ledger entry | Reconstruct the entry and note the gap |
+| Researcher cites a data gap | Suppression left an obvious hole | Issue the ordinary reading with its limits |
+| Wildlife point goes quiet | Camera fault, weather, or real absence | Log all three, confirm none first |
 
 ## KNOWN LIMITS
 
@@ -200,6 +308,10 @@ SION doctrine holds that shared instruments are strongest when neither duty dest
 - How much feed delay protects the cover without weakening F-2 watch response?
 - Can wildlife absence become a reliable anomaly indicator without becoming superstition?
 - When does shared instrumentation become operational exposure rather than cover strength?
+
+- Which suppression justifications survive outside inspection?
+- How long may calibration be delayed by cover scheduling?
+- Can the public and watch copies diverge without detection?
 
 ---
 

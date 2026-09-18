@@ -15,17 +15,17 @@
 | SECRECY RISK | EXPOSURE-ACTIVE |
 | A.C.T POSTURE | INFILTRATE / MISDIRECT / CONTAIN / DISMANTLE |
 | KNOWN LEADERSHIP | Meridian Governors, Custody Marshals, Iron Magistrates, Zone Commandants, and chartered security boards |
-| KNOWN MEMBERSHIP | and coerced technical personnel |
-| PRIMARY ACTIVE REGION | roads |
-| KNOWN ASSETS | mobile tribunals |
-| KNOWN HOLDINGS | armories |
-| IDEOLOGY | labor until the Authority declares otherwise |
-| HISTORY WITH A.C.T | to claim A.C.T custody authority |
-| ANOMALY CROSS-REFERENCE | emergency-law case chains |
+| KNOWN MEMBERSHIP | Paramilitary containment staff, prison engineers, former soldiers, emergency-law lawyers,<br>contractors, interrogators, and coerced technical personnel |
+| PRIMARY ACTIVE REGION | Disputed quarantine zones, failed state corridors, private detention sites, sealed mines, border<br>camps, and black roads |
+| KNOWN ASSETS | Meridian fences, iron warrants, custody trains, suppression collars, prison towers, survey guns,<br>black ledgers, and mobile tribunals |
+| KNOWN HOLDINGS | Detention corridors, extraction yards, fortified hospitals, forced-work containment sites, tribunal<br>rooms, and armories |
+| IDEOLOGY | Anomalous danger creates permanent emergency jurisdiction; people inside that jurisdiction become<br>assets, hazards, or labor until the Authority declares otherwise |
+| HISTORY WITH A.C.T | Repeated hostile contact through unlawful containment, witness seizure, forced labor, site<br>interference, and attempts to claim A.C.T custody authority |
+| ANOMALY CROSS-REFERENCE | Restricted detention, quarantine, forced labor, hostile containment, prisoner subject, weaponized<br>custody, and emergency-law case chains |
 | CURRENT STATUS | ACTIVE - hostile containment authority under dismantlement |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Containment / Legal / Civil Covert |
 | SITE JURISDICTION | Central Command with Site 01, Site 02, Site 03, and field command attachment |
-| CLEARANCE REQUIRED | A.C.T penetrations |
+| CLEARANCE REQUIRED | Level 4; Level 5 for prisoner lists, suppression devices, charter states, tribunal recordings, and<br>A.C.T penetrations |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

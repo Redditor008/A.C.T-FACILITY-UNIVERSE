@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Recovery, Engineering, Site Command, Archive, Intelligence |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / EXPEDITION-CRITICAL |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF MAP, THREAD, OR NORTH IS SPOOFED |
-| CLEARANCE REQUIRED | and route records |
+| CLEARANCE REQUIRED | Level 3 for supervised survey use; Level 4 for Narrative North calibration, Aether-Filter access,<br>and route records |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

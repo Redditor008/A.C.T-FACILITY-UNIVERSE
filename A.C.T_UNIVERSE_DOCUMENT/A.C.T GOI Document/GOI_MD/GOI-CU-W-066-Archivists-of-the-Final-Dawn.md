@@ -6,7 +6,7 @@
 | GOI DESIGNATION | GOI-CU-W-066 |
 | COMMON NAME | Archivists of the Final Dawn |
 | SHORT NAME | AFDN |
-| KNOWN ALIASES | NAME] |
+| KNOWN ALIASES | Final Dawn Archive; Dawn Archivists; Last Ledger Order; First Morning Scribes; [CENSOR: PRESERVATION<br>HOUSE NAME] |
 | NATURE CLASS | CULTIC |
 | ALIGNMENT CLASS | WORK |
 | REACH CLASS | TRANSNATIONAL |
@@ -17,10 +17,10 @@
 | KNOWN LEADERSHIP | Dawn Curators, Ledger Priors, Last-Word Conservators, and an unverified office called the First Shelf |
 | KNOWN MEMBERSHIP | Archivists, oral historians, disaster scribes, linguists, witness clerks, family recorders, map keepers, and mourners |
 | PRIMARY ACTIVE REGION | Transnational archives, disaster zones, erased towns, refugee routes, post-breach shelters, and dying communities |
-| KNOWN ASSETS | and seals |
+| KNOWN ASSETS | Last ledgers, dawn copies, witness boxes, song cylinders, family-history rolls, language cards, map<br>skins, and seals |
 | KNOWN HOLDINGS | Preservation houses, hidden reading rooms, mobile archives, vault caravans, sealed basements, and post-disaster stacks |
 | IDEOLOGY | If an ending comes, someone must still be able to prove who lived, what<br>was loved, and what was lost |
-| HISTORY WITH A.C.T | lists |
+| HISTORY WITH A.C.T | Repeated limited cooperation over missing identities, lost towns, witness recovery, erased records,<br>and disaster lists |
 | ANOMALY CROSS-REFERENCE | Restricted apocalypse, archive, witness, missing-person, erased-town, language-loss, and final-record case chains |
 | CURRENT STATUS | ACTIVE - working apocalypse-preservation order under review |
 | PRIMARY FILE AUTHORITY | Central Archive / Intelligence Division / Civil Covert |

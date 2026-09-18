@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Security, Administration, Recovery, Containment, Research |
 | OPERATIONAL STATUS | ACTIVE / SITE COMMAND USE |
 | RISK STATUS | COMMAND DELAY / MISROUTED ORDER / COMMUNICATION EXPOSURE |
-| CLEARANCE REQUIRED | channel access |
+| CLEARANCE REQUIRED | Level 4 for live command routing, external network links, emergency broadcast, or sealed operational<br>channel access |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

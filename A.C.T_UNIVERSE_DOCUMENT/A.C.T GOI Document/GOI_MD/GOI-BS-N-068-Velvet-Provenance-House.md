@@ -16,8 +16,8 @@
 | A.C.T POSTURE | MONITOR / MISDIRECT / COOPERATED / APPROPRIATE |
 | KNOWN LEADERSHIP | Provenance Masters, Receipt Factors, Velvet Notaries, Lot Readers, and private-client officers |
 | KNOWN MEMBERSHIP | Appraisers, archivists, auction agents, estate brokers, lawyers, notaries, restorers, transport clerks, and guards |
-| PRIMARY ACTIVE REGION | networks |
-| KNOWN ASSETS | buyer books |
+| PRIMARY ACTIVE REGION | Private sales, estate rooms, museum back channels, antique fairs, bonded warehouses, and sealed<br>collector networks |
+| KNOWN ASSETS | Provenance ledgers, red velvet lots, seal papers, auction rooms, authenticity tests, courier crates,<br>and buyer books |
 | KNOWN HOLDINGS | Registered vaults, private viewing rooms, archive desks, unlisted warehouses, and temporary exhibition rooms |
 | IDEOLOGY | Ownership is safer when origin, chain, and liability are recorded, even when the object<br>should not exist publicly |
 | HISTORY WITH A.C.T | Repeated contact through estate seizures, forged anomaly papers, museum incidents, collector disputes, and returns |

@@ -18,7 +18,7 @@
 | KNOWN MEMBERSHIP | Unknown performers, handlers, audience plants, animal or humanoid acts, and possible escaped anomalous juveniles |
 | PRIMARY ACTIVE REGION | Traveling fairground routes in and around Poland; prior and future routes unresolved |
 | KNOWN ASSETS | Performance cages, anomalous humanoid attractions, audience conditioning, emotional-siphoning performances |
-| KNOWN HOLDINGS | unconfirmed |
+| KNOWN HOLDINGS | Former traveling fairground seized during Operation BIG TOP; additional tents, wagons, cages, and<br>routes unconfirmed |
 | IDEOLOGY | Exploitation disguised as spectacle; pain converted into entertainment, control, and possible anomalous extraction |
 | HISTORY WITH A.C.T | Targeted in Operation BIG TOP / Broken Ring after discovery of AFD-SU-507 and other<br>circus-linked harms |
 | ANOMALY CROSS-REFERENCE | AFD-SU-507; Circus Monster diary dossiers; POI-0507 |

@@ -16,16 +16,16 @@
 | A.C.T POSTURE | INFILTRATE / MISDIRECT / CONTAIN |
 | KNOWN LEADERSHIP | Cantors, Name Bearers, Vestry Archivists, and Refrain Mothers; no single high priest confirmed |
 | KNOWN MEMBERSHIP | Singers, memory keepers, survivor relatives, anti-amnestic initiates, grief archivists, and altered-name custodians |
-| PRIMARY ACTIVE REGION | choirs |
-| KNOWN ASSETS | choirs |
+| PRIMARY ACTIVE REGION | Memorial chapels, family wakes, survivor meetings, old hospitals, dead schools, transit vigils, and<br>hidden choirs |
+| KNOWN ASSETS | Name books, refrain sheets, bell throats, witness hymns, anti-amnestic rites, preserved testimony,<br>and grief choirs |
 | KNOWN HOLDINGS | Unlisted chapels, soundproof vestries, memorial basements, mobile vigil rooms, name vaults, and recording cupboards |
 | IDEOLOGY | A name erased for safety remains a wound; memory must be sung back before<br>the dead, missing, or altered are lost |
-| HISTORY WITH A.C.T | rites |
+| HISTORY WITH A.C.T | Repeated conflict over amnestic reversal, witness memory, public memorials, erased casualty names,<br>and testimony rites |
 | ANOMALY CROSS-REFERENCE | Restricted amnestic, witness, memory-shard, memorial, missing-person, and post-incident identity case chains |
 | CURRENT STATUS | ACTIVE - negative cultic memory-preservation network |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Civil Covert / Subject Care |
 | SITE JURISDICTION | Central Command with Site 03 primary review |
-| CLEARANCE REQUIRED | cases |
+| CLEARANCE REQUIRED | Level 4; Level 5 for active refrain texts, child singers, NEMNOLIA-adjacent fragments, and<br>mass-memory cases |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

@@ -6,7 +6,7 @@
 | GOI DESIGNATION | GOI-BS-W-070 |
 | COMMON NAME | Saint Morrow Passage |
 | SHORT NAME | SMP |
-| KNOWN ALIASES | NAME] |
+| KNOWN ALIASES | Morrow Passage; Saint Morrow Ferry; Tomorrow Gate Office; The White Ticket Desk; [CENSOR:<br>BORDER-ROOM NAME] |
 | NATURE CLASS | BUSINESS |
 | ALIGNMENT CLASS | WORK |
 | REACH CLASS | TRANSNATIONAL |
@@ -15,12 +15,12 @@
 | SECRECY RISK | LEAKING |
 | A.C.T POSTURE | COOPERATED / MONITOR / MISDIRECT / APPROPRIATE |
 | KNOWN LEADERSHIP | Passage Wardens, Ticket Saints, White Clerks, Last-Porter crews, and route auditors |
-| KNOWN MEMBERSHIP | guides |
-| PRIMARY ACTIVE REGION | routes |
+| KNOWN MEMBERSHIP | Drivers, boat crews, border fixers, shelter hosts, route readers, ferry brokers, hospital discharge<br>agents, and hazard guides |
+| PRIMARY ACTIVE REGION | Borders, ferries, bus terminals, dead roads, closed towns, quarantine rings, evacuation corridors,<br>and liminal routes |
 | KNOWN ASSETS | White tickets, crossing ledgers, route bells, safe vans, ferry rooms, border permits, cold maps,<br>and porter keys |
 | KNOWN HOLDINGS | Ticket desks, road houses, unlisted ferry offices, border rooms, sleeper cars, safe garages, and<br>chapel-like depots |
 | IDEOLOGY | Passage is a trade, but nobody should be left on the wrong side of<br>a closing road only because the official route lies |
-| HISTORY WITH A.C.T | object courier interception |
+| HISTORY WITH A.C.T | Repeated work contact through evacuation corridors, witness transfer, quarantine exit, false-border<br>incidents, and object courier interception |
 | ANOMALY CROSS-REFERENCE | Restricted travel, evacuation, border, false road, witness, quarantine, ferry, and route-shift case chains |
 | CURRENT STATUS | ACTIVE - work relationship passage market under monitoring |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Recovery / Civil Covert / Logistics |

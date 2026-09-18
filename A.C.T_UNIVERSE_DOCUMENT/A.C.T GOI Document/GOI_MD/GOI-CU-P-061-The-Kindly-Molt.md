@@ -17,8 +17,8 @@
 | KNOWN LEADERSHIP | House Mothers, Shed Fathers, and Molt Witnesses; no central prophet confirmed |
 | KNOWN MEMBERSHIP | Transformed survivors, caregivers, ritual nurses, altered families, refuge escorts, and sympathetic physicians |
 | PRIMARY ACTIVE REGION | Regional refuge houses, back-room chapels, survivor homes, rural clinics, city shelters, and transformation routes |
-| KNOWN ASSETS | and escorts |
-| KNOWN HOLDINGS | meeting rooms |
+| KNOWN ASSETS | Molt houses, comfort rites, skin ledgers, acceptance vows, safe bedding, body maps, concealment<br>garments, and escorts |
+| KNOWN HOLDINGS | Refuge rooms, hidden chapels, care kitchens, locked baths, garment stores, patient ledgers, and<br>family meeting rooms |
 | IDEOLOGY | A changed body is not proof that the person inside has ended, failed, or<br>become unworthy of care |
 | HISTORY WITH A.C.T | Repeated contact during transformation aftercare, survivor refusal, E-Class review adjacency, and altered-body shelter |
 | ANOMALY CROSS-REFERENCE | Restricted transformation, altered-body, refuge, witness, medical aftercare, and family-continuance case chains |

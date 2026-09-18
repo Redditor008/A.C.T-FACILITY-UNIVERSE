@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Security, Campus Administration, Recovery Support, Archive |
 | OPERATIONAL STATUS | ACTIVE / CONCEALED TRAFFIC SUPPORT |
 | RISK STATUS | PATTERN EXPOSURE / TRANSITION BREACH / DELIVERY MISMATCH |
-| CLEARANCE REQUIRED | sealing |
+| CLEARANCE REQUIRED | Level 3 for boundary logistics; Level 4 for concealed transition scheduling or emergency surface<br>sealing |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -84,6 +84,38 @@ a visible campus rhythm.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and traffic doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| LOGISTICS PARAMETER | VALUE |
+|---|---|
+| Receiving | delivery receiving bay |
+| Corridor | greenhouse service corridor |
+| Cover room | utility access cover room |
+| Transition | concealed transition control |
+| Arrival | staff arrival board |
+| Ledger | vehicle timing ledger |
+| Manifest | agricultural supply manifest |
+| Tag | operational cargo cover tag |
+| Container | archive transfer container |
+| Panel | boundary monitoring panel |
+| Traffic classes | supply, staff, operational cargo, archive transfer |
+| Cover method | movement inside ordinary agricultural traffic |
+| Bay throughput | NOT MEASURED |
+| Weekly operational moves | NOT MEASURED |
+| Transition breaches | NOT MEASURED |
+
+Low visibility here means unremarkable rather than unseen. The system hides operational movement inside
+a
+volume of ordinary agricultural traffic large enough that no single movement is worth watching.
+That makes
+traffic volume a control parameter: reduce the ordinary traffic and the operational movement becomes
+the
+only movement on the road.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 An LVPLS installation includes delivery receiving points, service corridors, utility access rooms, concealed
@@ -109,7 +141,55 @@ The system is successful when nothing about movement becomes memorable.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Logistics Controls
+
+- delivery receiving bay
+- concealed transition control
+- vehicle timing ledger
+- boundary monitoring panel
+
+### Logistics Readouts
+
+- staff arrival board entries
+- agricultural supply manifest positions
+- operational cargo cover tag status
+- archive transfer container custody
+
+### Traffic And Personnel Limits
+
+- Do not schedule a move outside ordinary traffic hours.
+- Do not let arrival times repeat on a weekly pattern.
+- Do not tag cargo without a matching manifest line.
+- Do not seal the surface without a recorded reason.
+- Weakest against a visitor watching across several weeks.
+- Weakest against a quiet week with little ordinary traffic.
+
+Bay throughput, weekly moves, and breach count are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence begins with a traffic check rather than a movement decision. Scheduling against
+a thin week
+produces precisely the visibility the system exists to avoid.
+
+1. Check the week's ordinary traffic volume before scheduling.
+2. Post operational movement against the vehicle timing ledger.
+3. Manifest any cargo that will physically cross the surface.
+4. Tag operational cargo and match it to a manifest line.
+5. Receive or release through the delivery receiving bay.
+6. Move staff through the service corridor on the arrival board.
+7. Route archive containers through the transition control.
+8. Record boundary panel observations and close the ledger.
+
+Step 1 exists so the ledger holds evidence of a check rather than an
+assumption. When a movement is later
+questioned, the useful answer is the traffic volume recorded that week, not a recollection
+that the road was
+busy.
 
 During routine operation, Campus Administration maintains legitimate supply, staff, maintenance, and visitor
 schedules. Security Boundary staff compare ordinary movement with operational needs from F-2 and F-1.
@@ -125,6 +205,32 @@ LVPLS can freeze
 concealed transition and let F-3 handle the visible event as ordinary campus disruption.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Each movement | match the cargo tag to a manifest line |
+| Daily | reconcile the arrival board with the timing ledger |
+| Weekly | review traffic volume against operational moves |
+| Monthly | audit transition entries for untagged cargo |
+| Quarterly | rehearse a surface sealing with a stated reason |
+
+The weekly traffic review is the control that keeps the method working. When ordinary
+volume falls the
+operational share rises, and the system must either reduce concealed movement or increase legitimate
+traffic
+deliberately rather than let the ratio drift.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Visitor notes a vehicle | Move scheduled in a thin traffic week | Reschedule and record the traffic shortfall |
+| Cargo tag unmatched | Tag applied without a manifest line | Hold the cargo, correct the manifest |
+| Arrival pattern visible | Staff arrival times too regular | Vary the arrival windows and note it |
+| Corridor observed | Service corridor in a public sightline | Re-route and adjust the maintenance route |
+| Sealing without a reason | Emergency closure left unexplained | Record an agricultural reason immediately |
 
 ## KNOWN LIMITS
 
@@ -196,6 +302,10 @@ around it also holds.
   reason?
 - How much emergency sealing can the campus explain before outsiders remember it?
 - Should archive transfers use agricultural shipping rhythms or separate service routes?
+
+- What minimum ordinary traffic makes concealment reliable?
+- Which cargo classes should never cross the surface at all?
+- How quickly can a weekly movement pattern be learned?
 
 ---
 

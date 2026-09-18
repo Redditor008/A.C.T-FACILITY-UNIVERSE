@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Environmental Containment, Research Support, Limited Security |
 | OPERATIONAL STATUS | ACTIVE / PLACE-BOUND FLORA CONTAINMENT USE |
 | RISK STATUS | RELOCATION FAILURE / ENVIRONMENTAL DRIFT / ROOT-SHOCK RISK |
-| CLEARANCE REQUIRED | override |
+| CLEARANCE REQUIRED | Level 3 for sector duty; Level 4 for resident-field change, transport-denial review, or<br>parent-reserve override |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

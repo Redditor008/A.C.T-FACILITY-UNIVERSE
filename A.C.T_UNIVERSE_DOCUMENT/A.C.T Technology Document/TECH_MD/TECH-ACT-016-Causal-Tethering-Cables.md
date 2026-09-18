@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Containment, Logistics, Site Command, Dark World Survey |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / HIGH-LOAD FIELD USE |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF OVERLOADED, PHASED, OR CUT |
-| CLEARANCE REQUIRED | recovery rigs |
+| CLEARANCE REQUIRED | Level 3 for supervised field use; Level 4 for phase-lock calibration, stretched-space deployment,<br>and recovery rigs |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

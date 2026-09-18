@@ -4084,3 +4084,64 @@ rc=0.
 TECH-ACT-086 to TECH-ACT-137.
 
 **Next action.** Resume at TECH-ACT-086 through TECH-ACT-090.
+
+## Prompt Log — 2026-09-18 22:21 UTC
+
+**Registry-table data loss found and repaired.** Every two-column registry row in the markdown twins
+was compared against the matching box cell in the plain-text twin. 122 rows across 77 files had been
+reduced to their trailing fragment: a clearance requirement reading only sealing, files, override,
+or assessment instead of the full sentence. The plain-text twin held the complete value in every
+case, so the markdown was rebuilt from it. The largest group was CLEARANCE REQUIRED rows, with
+further losses in PRIMARY A.C.T INTEREST, ACQUISITION STATUS, SITE JURISDICTION, HISTORY WITH A.C.T,
+ORIGIN, and PRIMARY USE.
+
+**The repair is lossless by construction.** Each replacement asserted that the rebuilt cell's word
+sequence equals the twin's word sequence exactly, so nothing was invented and nothing was dropped.
+An independent audit then compared the twins label by label as multisets, which is safe for the 182
+files where a label legitimately repeats, and matched 4600 shared-label rows exactly with zero
+truncated rows remaining. The only unmatched rows were markdown table headers and rows whose labels
+have no box counterpart in the twin. The diff touched exactly 122 lines, one per repaired cell.
+Restored sentences exceed the 118-character line limit by design: truncating them to fit is what
+caused the loss, and forty rows already carried the long form, so the field is now consistent rather
+than mixed.
+
+**Records 086 to 095.** Each gained a TECHNICAL SPECIFICATION table, an INTERFACE AND OPERATING
+ENVELOPE chapter, a numbered operating sequence, a SERVICING AND CALIBRATION schedule, a FAULT
+ISOLATION table, and three new OPEN QUESTIONS, in both twins.
+
+**This block covers the Ash Tide cover layer, the Glass Orchard relay chain, and Frost Hollow.** The
+natural cover station treats research output and visitor records as load-bearing rather than
+decorative. Shared instrumentation is a two-copy system where concealment lives in routing, never in
+the instrument. The short-term vault holds unclassified items against a custody clock, so overstay
+reads as a custody failure rather than a delay. Witness processing requires the lower procedure
+class to be justified before escalation is permitted, and the amnestic cabinet must reconcile
+exactly. The archive buffer's ledger is the only component able to prove a document was never read
+while waiting.
+
+**Glass Orchard and Frost Hollow tailoring.** Intake routing is the only point where a mistake is
+still cheap, so the limit checklist is read before movement. The agricultural campus reconciles
+ledger, climate panel, and deliveries because divergence between them is what an outsider notices.
+Low-visibility logistics treats traffic volume as a control parameter, since reducing ordinary
+traffic makes the operational movement the only movement. Interim cryogenic holding is a claim about
+time rather than temperature. Quarantine assessment records suppressed and unsuppressed observations
+separately, because a release resting on suppressed data is a decision about the suppression.
+
+**Word counts, measured from the records after the run.** 086 1259 to 1998, 087 1248 to 1999, 088
+1184 to 1904, 089 1238 to 1972, 090 1248 to 1968, 091 1250 to 1984, 092 1206 to 1922, 093 1224 to
+1940, 094 1197 to 1910, 095 1177 to 1879. Every record now carries 14 H2 chapters and 6 pipe tables, two of them new: this group entered the upgrade with a single registry block rather than the two the earlier batches carried, so the total is lower even though the same three tables were added.
+
+**Nine fault-table rows exceeded the row width on the first attempt** and the dry run reported them
+before any document was written. They were shortened and re-checked; the second dry run was clean.
+An earlier run of this same pipeline had already committed the repair and a log entry before the
+record upgrade succeeded, so that entry was withdrawn from the log and the commit was rebuilt rather
+than leaving a false word-count claim in the record.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, UTF8_ERR 0, CONFLICT 0,
+multiH1 0, odd-fence 0, md-with-box 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204, GOI_MD 34 =
+GOI_TXT 34, widest box line 118, date-rule violations 0, twin date mismatches 0, git diff --check
+rc=0.
+
+**Remaining ACT technology queue.** 42 TECH-ACT records still carry the old skeleton, running from
+TECH-ACT-096 to TECH-ACT-137.
+
+**Next action.** Resume at TECH-ACT-096 through TECH-ACT-100.

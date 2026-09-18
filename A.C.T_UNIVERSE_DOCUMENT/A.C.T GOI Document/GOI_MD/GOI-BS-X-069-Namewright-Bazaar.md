@@ -20,7 +20,7 @@
 | KNOWN ASSETS | Name ledgers, alias knives, mouth contracts, stolen birth rolls, seal inks, false families, and<br>identity rooms |
 | KNOWN HOLDINGS | Back-room stalls, paper vaults, witness cages, registry mirrors, mobile document vans, and dead-name cupboards |
 | IDEOLOGY | A person is what can be named, bought, cut, sold, hidden, misfiled, reassigned, or<br>spoken by someone with leverage |
-| HISTORY WITH A.C.T | post-incident survivor exploitation |
+| HISTORY WITH A.C.T | Repeated hostile contact through missing identities, false witnesses, stolen children, court-record<br>alteration, and post-incident survivor exploitation |
 | ANOMALY CROSS-REFERENCE | Restricted identity, witness, missing-person, registry, contract, amnestic, court, and survivor-exploitation files |
 | CURRENT STATUS | ACTIVE - hostile identity market under dismantlement order |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Civil Covert / Legal / Recovery |

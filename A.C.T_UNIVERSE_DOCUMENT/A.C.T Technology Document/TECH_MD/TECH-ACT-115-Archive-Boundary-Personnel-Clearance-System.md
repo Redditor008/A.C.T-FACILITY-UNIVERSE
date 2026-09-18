@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Administration, Security, Archive, Command, Training |
 | OPERATIONAL STATUS | ACTIVE / PUBLIC-OPERATIONAL PERSONNEL SEPARATION |
 | RISK STATUS | IDENTITY BLEED / CLEARANCE DRIFT / BOUNDARY FAILURE |
-| CLEARANCE REQUIRED | reversal |
+| CLEARANCE REQUIRED | Level 3 for clearance processing; Level 4 for boundary override, operational-depth assignment, or<br>denial reversal |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

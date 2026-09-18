@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Medical, Biological Containment, Data Security, O5 Review |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / BLOOD-CONTACT CONTROLLED |
 | RISK STATUS | HAZARDOUS / BIOLOGICAL DATA AND CONTAMINATION HAZARD |
-| CLEARANCE REQUIRED | testing |
+| CLEARANCE REQUIRED | Level 4 for handling; Level 5 for live-blood interface, subject-linked data transfer, and<br>alloy-network testing |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

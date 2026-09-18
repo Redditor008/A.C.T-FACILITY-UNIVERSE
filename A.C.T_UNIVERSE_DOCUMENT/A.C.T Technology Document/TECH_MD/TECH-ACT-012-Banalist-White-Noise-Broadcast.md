@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Engineering, Site Command, Archive, Medical, Security |
 | OPERATIONAL STATUS | ACTIVE / SITE-WIDE WHERE INSTALLED / RESTRICTED TUNING |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF OVERLOUD, PATTERNED, OR LEAKING |
-| CLEARANCE REQUIRED | tuning |
+| CLEARANCE REQUIRED | Level 3 for operation; Level 4 for manifest libraries, pattern-randomizer access, and site-wide<br>emergency tuning |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

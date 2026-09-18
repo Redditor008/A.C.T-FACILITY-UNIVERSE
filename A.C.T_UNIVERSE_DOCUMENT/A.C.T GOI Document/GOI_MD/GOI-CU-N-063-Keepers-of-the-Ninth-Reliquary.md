@@ -20,12 +20,12 @@
 | KNOWN ASSETS | Nine-class relic ledgers, lamp rites, offering schedules, reliquary keys, saint-cloth wrappings, and custody vows |
 | KNOWN HOLDINGS | Active reliquary rooms, votive kitchens, sealed carts, bone-lamp cupboards, procession routes, and shrine archives |
 | IDEOLOGY | Some objects are not property, trophies, evidence, or tools; they are obligations that must<br>be tended in the right<br>manner |
-| HISTORY WITH A.C.T | handling |
+| HISTORY WITH A.C.T | Repeated limited cooperation and dispute over relic seizure, shrine custody, museum transfer, and<br>unsafe handling |
 | ANOMALY CROSS-REFERENCE | Restricted relic, shrine, offering, procession, museum, caretaker, and object-custody case chains |
 | CURRENT STATUS | ACTIVE - neutral cultic relic-custody order under monitor |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Recovery Division / Central Archive |
 | SITE JURISDICTION | Central Command with Site 01 and Site-specific object review |
-| CLEARANCE REQUIRED | feeding rites |
+| CLEARANCE REQUIRED | Level 4; Level 5 for active reliquary inventory, child attendants, Ninth Custodian identity, and<br>feeding rites |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

@@ -15,9 +15,9 @@
 | SECRECY RISK | LEAKING |
 | A.C.T POSTURE | MONITOR / HELP / COOPERATED / APPROPRIATE |
 | KNOWN LEADERSHIP | Table Keepers, Candle Clerks, Debt Witnesses, and route moderators; no central proprietor confirmed |
-| KNOWN MEMBERSHIP | guides |
+| KNOWN MEMBERSHIP | Survivors, family brokers, safe-house owners, care runners, barter clerks, field medics, charm<br>handlers, and guides |
 | PRIMARY ACTIVE REGION | Survivor neighborhoods, post-incident shelters, clinics, hostels, forums, back rooms, border routes, and kitchens |
-| KNOWN ASSETS | and routes |
+| KNOWN ASSETS | Aid ledgers, candle tokens, safe-room lists, medicine lots, low-risk charms, doctor names, witness<br>advice, and routes |
 | KNOWN HOLDINGS | Shelter tables, kitchen exchanges, clinic cupboards, survivor hostels, coded boards, and temporary store rooms |
 | IDEOLOGY | Survivors should not have to buy safety from predators or beg institutions that cannot<br>publicly admit their injuries |
 | HISTORY WITH A.C.T | Repeated contact through survivor aid, protective-object movement, witness avoidance, and post-incident barter |
@@ -25,7 +25,7 @@
 | CURRENT STATUS | ACTIVE - positive survivor-aid market under monitored use |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Subject Care / Civil Covert |
 | SITE JURISDICTION | Central Command with Site 01 and route-specific review |
-| CLEARANCE REQUIRED | aid routes |
+| CLEARANCE REQUIRED | Level 4; Level 5 for safe-house lists, child witnesses, medical supplier names, and A.C.T-adjacent<br>aid routes |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

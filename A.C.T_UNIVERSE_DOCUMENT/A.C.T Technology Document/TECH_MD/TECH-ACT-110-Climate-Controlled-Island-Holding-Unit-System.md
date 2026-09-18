@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Containment, Research, Medical, Recovery, Security |
 | OPERATIONAL STATUS | ACTIVE / ISLAND-RECOVERED MATERIAL HOLDING |
 | RISK STATUS | CLIMATE DRIFT / HABITAT MISMATCH / BIOLOGICAL ESCALATION |
-| CLEARANCE REQUIRED | transfer |
+| CLEARANCE REQUIRED | Level 3 for holding duty; Level 4 for climate-regimen alteration, resident movement, or cross-floor<br>transfer |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

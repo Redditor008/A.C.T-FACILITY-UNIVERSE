@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Recovery, Containment, Maritime Observation, Archive |
 | OPERATIONAL STATUS | ACTIVE / STANDARD FIELD ISSUE / RESTRICTED CALIBRATION |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF MISREAD OR SPOOFED |
-| CLEARANCE REQUIRED | files |
+| CLEARANCE REQUIRED | Level 2 for operation; Level 4 for calibration libraries, resonance maps, and hostile-signal<br>comparison files |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

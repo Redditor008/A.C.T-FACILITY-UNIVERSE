@@ -17,10 +17,10 @@
 | KNOWN LEADERSHIP | Unknown; Chief Surgeon Valerius named only as one internal actor in recovered Guild-side material |
 | KNOWN MEMBERSHIP | OMEGA-level operatives, surgeons, archivists, registry clerks, sector handlers, and unknown command authorities |
 | PRIMARY ACTIVE REGION | Unverified sector-based future environment; no present-day headquarters confirmed |
-| KNOWN ASSETS | Files |
+| KNOWN ASSETS | MNT-092 VESPER records, OMEGA-KERN, Argus KSG-16 data, Feedbacker Shield data, Guild leash<br>references, Ghost Files |
 | KNOWN HOLDINGS | VESPERSYS database fragments, GUILD_WIKI archive structure, Guild Registry maintenance references |
 | IDEOLOGY | Tactical purity, operative conversion, record control, sector clearance, and utility before personhood |
-| HISTORY WITH A.C.T | message |
+| HISTORY WITH A.C.T | Known through VESPER evidence, recovered Guild archive PDF, and a separate Guild Registry equipment<br>message |
 | ANOMALY CROSS-REFERENCE | AFD-SU-020; AFD-OB-312 testing dossier; recovered VESPERSYS Guild Database Archive PDF |
 | CURRENT STATUS | UNKNOWN - disconnected signature / possible future actor |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Temporal Evidence Review Desk |

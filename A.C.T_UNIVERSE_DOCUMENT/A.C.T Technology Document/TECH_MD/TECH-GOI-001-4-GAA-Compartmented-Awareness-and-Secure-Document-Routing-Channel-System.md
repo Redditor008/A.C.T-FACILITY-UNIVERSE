@@ -6,7 +6,7 @@
 | TECHNOLOGY NAME | GAA Compartmented Awareness and Secure Document-Routing Channel System |
 | COMMON ABBREVIATIONS | Compartmented Awareness Set / GAA Routing Channels / Ten-Percent Layer |
 | ORIGIN | Government Anti Anomaly |
-| ACQUISITION STATUS | operation |
+| ACQUISITION STATUS | Cooperative liaison capability exercised under bounded task authorization; channel integrity<br>reviewed after each operation |
 | PRIMARY A.C.T INTEREST | Awareness containment, information-hazard prevention, compromise detection, disclosure minimization |
 | ARCHIVE HANDLING | GOVERNMENT-INTERFACE RESTRICTED / LEVEL 3 LIAISON AND LEVEL 4 REVIEW MATERIAL |
 

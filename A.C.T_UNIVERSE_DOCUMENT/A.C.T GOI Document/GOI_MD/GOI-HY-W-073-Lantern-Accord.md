@@ -15,13 +15,13 @@
 | SECRECY RISK | LEAKING |
 | A.C.T POSTURE | COOPERATED / MONITOR / MISDIRECT / APPROPRIATE |
 | KNOWN LEADERSHIP | Signatory Seats, Lantern Marshals, Accord Clerks, Safe-Line arbiters, and crisis delegates |
-| KNOWN MEMBERSHIP | technical custodians, and treaty witnesses |
+| KNOWN MEMBERSHIP | Independent containment houses, municipal response cells, hospital wards, border teams, retired<br>field officers, technical custodians, and treaty witnesses |
 | PRIMARY ACTIVE REGION | Transnational crisis corridors, temporary safe lines, signatory rooms, emergency warehouses, and neutral depots |
-| KNOWN ASSETS | ledgers |
-| KNOWN HOLDINGS | relay vans |
+| KNOWN ASSETS | Lantern beacons, yellow-line warrants, accord seals, neutral keys, safe-line maps, crisis rooms, and<br>ceasefire ledgers |
+| KNOWN HOLDINGS | Signatory depots, neutral handover rooms, beacon towers, mobile accord tents, locked map cabinets,<br>and relay vans |
 | IDEOLOGY | When abnormal danger crosses jurisdictions, rival keepers must hold the line first and argue<br>ownership after lives are<br>no longer burning |
-| HISTORY WITH A.C.T | multi-GOI corridor control |
-| ANOMALY CROSS-REFERENCE | chains |
+| HISTORY WITH A.C.T | Repeated work contact through temporary ceasefires, joint evacuations, handover disputes, breach<br>signaling, and multi-GOI corridor control |
+| ANOMALY CROSS-REFERENCE | Restricted breach, evacuation, multi-agency containment, beacon, neutral corridor, handover, and<br>temporary accord case chains |
 | CURRENT STATUS | ACTIVE - work relationship containment accord under review |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Containment / Legal / Field Command |
 | SITE JURISDICTION | Central Command with Site 01, Site 02, Site 03, and crisis command attachment |

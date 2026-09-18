@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Recovery, Research, Medical, Security, Seismic Analysis |
 | OPERATIONAL STATUS | ACTIVE / WATER-DEPENDENT RESIDENT USE |
 | RISK STATUS | AQUATIC BREACH / ENVIRONMENTAL COLLAPSE RISK |
-| CLEARANCE REQUIRED | or breach use |
+| CLEARANCE REQUIRED | Level 3 for routine chamber support; Level 4 for resident access, transfer, environmental<br>alteration, or breach use |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

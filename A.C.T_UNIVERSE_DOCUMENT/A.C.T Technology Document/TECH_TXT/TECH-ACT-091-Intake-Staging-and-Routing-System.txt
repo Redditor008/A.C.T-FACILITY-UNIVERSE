@@ -93,6 +93,52 @@ limits, and routed under documentation. ISRS is therefore not only a room but a
 control method for refusing improper
 custody.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and routing doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| ROUTING PARAMETER          | VALUE                                                                                 |
++============================+=======================================================================================+
+| Receiving                  | field arrival receiving lane                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Log                        | intake identity and object log                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Checklist                  | relay limit checklist                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Board                      | routing status board                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Assignment                 | temporary holding cell assignment panel                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Vault request              | F-1 vault request terminal                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Transfer                   | direct transfer preparation marker                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Diversion                  | witness processing diversion card                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Archive                    | archive packet attachment tray                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Escalation                 | parent-site escalation line                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Routes                     | local holding, direct transfer, witness route, refusal                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Decision authority         | processing officer within relay limits                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Lane count                 | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Median routing time        | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Misrouting events          | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Routing is the only point in a relay where a mistake is still cheap.
+Once an item is inside a unit or on a
+vehicle the relay has committed resources, staff, and reputation to the earlier judgement. The
+limit
+checklist therefore exists to be read before movement rather than consulted after arrival.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 An ISRS installation includes a receiving lane, intake desk, threat-limit checklist, routing board, transfer
@@ -115,7 +161,55 @@ Known components include:
 
 The system treats uncertainty as a routing condition, not permission to improvise.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Routing Controls
+
+- field arrival receiving lane
+- routing status board
+- F-1 vault request terminal
+- parent-site escalation line
+
+Routing Readouts
+
+- intake identity and object log entries
+- relay limit checklist results
+- temporary holding cell assignments
+- direct transfer preparation markers
+
+Routing And Personnel Limits
+
+- Do not route before the limit checklist is complete.
+- Do not move an item on an undocumented decision.
+- Do not accept a high-threat item the relay cannot hold.
+- Do not divert a witness without the diversion card raised.
+- Weakest against arrivals with incomplete field paperwork.
+- Weakest against simultaneous arrivals at one lane.
+
+Lane count, routing time, and misrouting rate are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+The sequence closes only when the item has physically moved, not when the decision
+was taken. The relay has
+repeatedly found that intentions and movements diverge most often under intake load.
+
+1. Receive the arrival in the lane and log identity and object.
+2. Read the relay limit checklist against the field report.
+3. Post the provisional route on the routing status board.
+4. Raise the diversion card if a witness is present.
+5. Request a vault unit or mark direct transfer preparation.
+6. Attach the archive packet at the attachment tray.
+7. Escalate to the parent site if any limit fails.
+8. Close the routing record once the item has physically moved.
+
+Step 8 is deliberately last. A routing record closed at decision time records an
+intention, and an intention
+cannot be reconciled against a floor position when somebody later asks where the item
+actually went.
 
 On receipt, ISRS staff record source team, arrival time, field condition, provisional threat category,
 required
@@ -131,6 +225,46 @@ must
 refuse local holding and request transfer under maximum procedural restriction. No item or person
 leaves intake
 staging without a route entry.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Each arrival               | complete the checklist before any movement                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Daily                      | reconcile the status board with physical locations                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Weekly                     | compare diversion cards with processing records                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | audit routing records for undocumented moves                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | rehearse a high-threat refusal at the lane                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Board-to-floor reconciliation is the meaningful check here. The board is a claim about where
+things are, and
+the relay's routing errors have almost always been visible on that comparison before they
+became visible
+anywhere else.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Item moved without a record| Board updated after the movement          | Stop the lane, reconstruct the routing    |
+|                            |                                           | record                                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Checklist incomplete at    | Field report missing a limit field        | Return to the lane, escalate if needed    |
+| routing                    |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Vault request refused      | No unit available at F-1                  | Escalate before holding the item locally  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Witness not diverted       | Diversion card not raised                 | Stop processing, notify the medical lead  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Two routes posted at once  | Simultaneous arrivals at one lane         | Split the lane and sequence the decisions |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -192,6 +326,11 @@ OPEN QUESTIONS
 - How much uncertainty is acceptable before temporary holding becomes forbidden?
 - Can repeated direct-transfer events expose the relay's low-visibility logistics?
 - When does a routing error become a containment failure rather than paperwork failure?
+- Which field signs should force escalation before intake finishes?
+- How long may an item wait in the lane before a route is
+  forced?
+- Should every routing error be treated as a containment failure?
+
 
 FILE METADATA
 

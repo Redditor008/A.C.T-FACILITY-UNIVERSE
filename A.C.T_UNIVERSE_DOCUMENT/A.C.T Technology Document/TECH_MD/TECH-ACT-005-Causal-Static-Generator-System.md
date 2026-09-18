@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Archive, Site Command, Civil Covert, Intelligence, Field Command, Recovery, Medical Care, and Kurokawa review |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / FIELD-DEPLOYABLE |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF OVER-BROADCAST OR MIS-TUNED |
-| CLEARANCE REQUIRED | overlap |
+| CLEARANCE REQUIRED | Level 4 for deployment; Level 5 for boredom-frequency tuning, narrative starvation tables, and<br>site-wide overlap |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

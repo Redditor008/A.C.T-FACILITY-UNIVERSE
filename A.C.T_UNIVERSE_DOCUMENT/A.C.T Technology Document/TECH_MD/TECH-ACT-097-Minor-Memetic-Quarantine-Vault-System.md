@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Archive, Intelligence, Limited Medical Cognitive Staff |
 | OPERATIONAL STATUS | ACTIVE / TEMPORARY MEMETIC BUFFER USE |
 | RISK STATUS | SPILLOVER / OVERSTAY / UNSUPERVISED EXPOSURE RISK |
-| CLEARANCE REQUIRED | referral |
+| CLEARANCE REQUIRED | Level 3 for quarantine duty; Level 4 for closure, exposure, parent-node escalation, or black-archive<br>referral |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

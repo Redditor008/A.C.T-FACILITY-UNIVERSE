@@ -6,7 +6,7 @@
 | GOI DESIGNATION | GOI-GV-P-059 |
 | COMMON NAME | Grey Harbor Civil Rescue Directorate |
 | SHORT NAME | GHCRD |
-| KNOWN ALIASES | NAME] |
+| KNOWN ALIASES | Grey Harbor Rescue; Civil Rescue Directorate; Harbor Grey; Directorate Rescue Command; [CENSOR:<br>NATIONAL AGENCY NAME] |
 | NATURE CLASS | GOVERNMENT |
 | ALIGNMENT CLASS | POSITIVE |
 | REACH CLASS | NATIONAL |
@@ -17,10 +17,10 @@
 | KNOWN LEADERSHIP | Director-General concealed under civil-disaster authority; regional rescue chiefs and harbor captains confirmed |
 | KNOWN MEMBERSHIP | Rescue officers, medics, evacuation drivers, shelter coordinators, signal staff, search teams, divers, and clerks |
 | PRIMARY ACTIVE REGION | National disaster zones, coastal evacuations, industrial accidents, breach-adjacent cities, shelters, and hospitals |
-| KNOWN ASSETS | kits |
+| KNOWN ASSETS | Rescue fleets, civil shelters, triage tents, siren towers, evacuation buses, survivor ledgers, and<br>grey-tag kits |
 | KNOWN HOLDINGS | Emergency depots, harbor stations, mobile command posts, disaster warehouses, field hospitals, and protected shelters |
 | IDEOLOGY | Rescue begins before the explanation is safe; civilians are not to be abandoned for<br>secrecy alone |
-| HISTORY WITH A.C.T | response |
+| HISTORY WITH A.C.T | Repeated cooperation and dispute during civilian evacuation, shelter triage, missing-child recovery,<br>and breach response |
 | ANOMALY CROSS-REFERENCE | Restricted disaster, evacuation, shelter, maritime, industrial, hospital, and witness-care case chains |
 | CURRENT STATUS | ACTIVE - positive government rescue authority under monitor |
 | PRIMARY FILE AUTHORITY | Civil Covert Division / Recovery Division / Medical |

@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Info-Hazard, Containment, Site-03 Archive, Materials Desk |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED APPLICATION |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF MISAPPLIED TO LIVE TEXT |
-| CLEARANCE REQUIRED | reapplication orders |
+| CLEARANCE REQUIRED | Level 3 for ordinary archive use; Level 4 for info-hazard documents, self-writing artifacts, and<br>reapplication orders |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

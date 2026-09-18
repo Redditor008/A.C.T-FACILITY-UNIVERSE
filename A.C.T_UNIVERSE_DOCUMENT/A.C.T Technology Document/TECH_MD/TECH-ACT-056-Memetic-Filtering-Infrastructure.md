@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Intelligence, Research, Security, Medical Cognitive Care |
 | OPERATIONAL STATUS | ACTIVE / CONTROLLED-READING CELL INFRASTRUCTURE |
 | RISK STATUS | COGNITIVE EXPOSURE / FILTER FAILURE RISK |
-| CLEARANCE REQUIRED | document release |
+| CLEARANCE REQUIRED | Level 3 for controlled-reading support; Level 4 for filter design, failure review, or restricted<br>document release |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

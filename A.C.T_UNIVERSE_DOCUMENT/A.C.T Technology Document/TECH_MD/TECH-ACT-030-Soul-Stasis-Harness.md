@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Subject Care, Engineering, Narrative Analysis, Site Command |
 | OPERATIONAL STATUS | ACTIVE / CASE-RESTRICTED / CONSCIOUSNESS-ADJACENT |
 | RISK STATUS | HAZARDOUS / CONTROLLED ONLY UNDER PROXIMITY DISCIPLINE |
-| CLEARANCE REQUIRED | override |
+| CLEARANCE REQUIRED | Level 4 for monitoring; Level 5 for anchor adjustment, acoustic bridge integration, and<br>pendant-distance override |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

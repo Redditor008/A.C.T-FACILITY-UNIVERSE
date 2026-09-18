@@ -17,7 +17,7 @@
 | KNOWN LEADERSHIP | Mercy Readers, Noon Nurses, Quiet Cantors, and an unverified figure called the Warm Witness |
 | KNOWN MEMBERSHIP | End-believers, grief nurses, sedation handlers, hospice volunteers, failed-rescue survivors, and quieting families |
 | PRIMARY ACTIVE REGION | Transnational hospice routes, post-disaster shelters, closed clinics, care homes, survivor wards, and retreat sites |
-| KNOWN ASSETS | rites |
+| KNOWN ASSETS | Quiet-sun liturgies, sedation teas, noon-room curtains, surrender cards, lull clocks, mercy ledgers,<br>and sleep rites |
 | KNOWN HOLDINGS | Clinic-chapels, hospice rooms, retreat houses, white vans, sealed medicine cupboards, and quiet-noon wards |
 | IDEOLOGY | If the end cannot be stopped, the final duty is to remove terror, pain,<br>memory panic, and the violence of false hope |
 | HISTORY WITH A.C.T | Repeated conflict over evacuation refusal, mass sedation, survivor disappearance, rescue obstruction, and mercy rites |

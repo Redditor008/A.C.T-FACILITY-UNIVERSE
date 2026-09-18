@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Archive, Intelligence, Researcher, Security, Medical |
 | OPERATIONAL STATUS | ACTIVE / SAFE-RELEASE REDACTION CONTROL |
 | RISK STATUS | OVERRELEASE / UNDERREDACTION / RECORD DRIFT / READER HARM |
-| CLEARANCE REQUIRED | source return |
+| CLEARANCE REQUIRED | Level 4 for release authorization; Level 5 for restricted release reversal, minimum-release<br>override, or source return |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

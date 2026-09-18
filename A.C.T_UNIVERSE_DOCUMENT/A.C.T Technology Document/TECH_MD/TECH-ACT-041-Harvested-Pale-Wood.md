@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Engineering, Medical, White Grave, Site Infrastructure |
 | OPERATIONAL STATUS | ACTIVE / HARVEST-RESTRICTED / GOLD-VULNERABLE |
 | RISK STATUS | HAZARDOUS / DIMENSIONAL MATERIAL AND DUST-CUSTODY HAZARD |
-| CLEARANCE REQUIRED | plans |
+| CLEARANCE REQUIRED | Level 4 for handling; Level 5 for harvest authorization, structural use, and gold-tool modification<br>plans |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

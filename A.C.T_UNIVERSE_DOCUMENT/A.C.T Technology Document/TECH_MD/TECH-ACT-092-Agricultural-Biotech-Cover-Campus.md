@@ -82,6 +82,38 @@ survive being seen.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and cover doctrine. Values the
+archive does not
+hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| CAMPUS PARAMETER | VALUE |
+|---|---|
+| Glasshouse | working glasshouse range |
+| Climate | greenhouse climate-control panel |
+| Laboratory | crop-improvement laboratory |
+| Storage | seed and sample storage room |
+| Restricted area | restricted growing area |
+| Administration | campus administration desk |
+| Ledger | legitimate research ledger |
+| Deliveries | delivery receiving schedule |
+| Route | public-facing maintenance route |
+| Observation | boundary security observation point |
+| Cover classes | public research, restricted cultivation, logistics |
+| Output | legitimate research ledger entries |
+| Glasshouse count | NOT MEASURED |
+| Restricted area share | NOT MEASURED |
+| External contacts | NOT MEASURED |
+
+The campus is a working agricultural site with a concealed growing area, and the
+two must be reconcilable
+from the outside. Climate control is the hard part: a restricted area draws heat,
+water, and nutrients in a
+pattern that appears on the campus panel, so the panel's records are written to
+account for the whole campus
+rather than only its open part.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 An ABCC installation includes greenhouse ranges, laboratory benches, seed and crop storage, growth chambers,
@@ -106,7 +138,55 @@ ordinary explanation.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Campus Controls
+
+- greenhouse climate-control panel
+- seed and sample storage room
+- campus administration desk
+- boundary security observation point
+
+### Campus Readouts
+
+- legitimate research ledger entries
+- delivery receiving schedule position
+- climate load against glasshouse allocation
+- public-facing maintenance route status
+
+### Cover And Personnel Limits
+
+- Do not deny access to a restricted area without a stated reason.
+- Do not let the research ledger fall behind cultivation.
+- Do not ship concealed cargo on the public rhythm alone.
+- Do not let boundary staff wear a learnable pattern.
+- Weakest against inspectors who understand greenhouse loads.
+- Weakest against a crop failure with no ordinary cause.
+
+Glasshouse count, restricted share, and contact rate are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence ends in a reconciliation rather than a lock-up. A campus whose ledger,
+climate panel, and
+delivery schedule tell three different stories is a campus an outsider can read.
+
+1. Open the campus on its published agricultural schedule.
+2. Record climate panel baselines for each glasshouse range.
+3. Log cultivation work in the legitimate research ledger.
+4. Move restricted material through the seed and sample room.
+5. Receive deliveries against the receiving schedule.
+6. Route visitors along the public-facing maintenance route.
+7. Record boundary observations before the shift closes.
+8. Reconcile ledger, panel, and deliveries at day end.
+
+Step 8 is the cover control. The three accounts are produced by different people
+at different times, and it
+is the divergence between them, not any single one of them, that gives an
+outside observer something to
+notice.
 
 During normal operation, cover research staff conduct agricultural work: crop monitoring, genetic study, greenhouse
 maintenance, sample logging, growth-condition adjustment, and laboratory reporting. Administration maintains ordinary
@@ -121,6 +201,31 @@ matter while the buried relay remains
 separated behind transition control.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Daily | log climate baselines and cultivation work |
+| Weekly | reconcile ledger entries against deliveries |
+| Monthly | review restricted load against panel records |
+| Seasonally | rotate crop lines and update the public route |
+| Annually | reconfirm permits, vendors, and legal identity |
+
+Seasonal rotation is not decoration. A campus growing the same lines in the same
+places for years invites
+comparison against regional practice, and rotation keeps the agricultural account ordinary enough to be
+boring.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Panel load exceeds allocation | Restricted area drawing beyond record | Record the load, adjust the allocation |
+| Crop fails without a cause | Environmental load from concealed work | Report the failure and review the source |
+| Visitor denied without reason | Security reflex at the boundary | Supply an agricultural reason and log it |
+| Delivery unmatched | Concealed cargo on a public manifest | Hold the delivery, correct the manifest |
+| Ledger behind cultivation | Research displaced by cover duties | Restore the ledger before widening use |
 
 ## KNOWN LIMITS
 
@@ -188,6 +293,10 @@ alive.
 - Should legitimate research products ever enter public markets?
 - How much buried-relay traffic can be hidden inside agricultural deliveries?
 - When does a real cover become too successful to stay quiet?
+
+- How much external scientific contact strengthens the cover?
+- Which crop failures must be reported to stay credible?
+- Can the restricted area's load stay invisible on the panel?
 
 ---
 

@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Site-05 Command, Recovery, Heavy Containment, Abyss Survey |
 | OPERATIONAL STATUS | ACTIVE / DEEP-DEPLOYMENT / SONAR-ACOUSTIC |
 | RISK STATUS | CONTROLLED / PRESSURE AND FALSE-VOID HAZARD |
-| CLEARANCE REQUIRED | export |
+| CLEARANCE REQUIRED | Level 4 for operation; Level 5 for trench-grid mapping, blind-predator targeting, and sub-abyssal<br>depth export |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

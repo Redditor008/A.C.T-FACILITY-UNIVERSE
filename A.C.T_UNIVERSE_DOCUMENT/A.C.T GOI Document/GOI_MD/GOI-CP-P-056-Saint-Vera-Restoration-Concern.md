@@ -15,10 +15,10 @@
 | SECRECY RISK | LEAKING |
 | A.C.T POSTURE | COOPERATED / MONITOR / HELP / APPROPRIATE |
 | KNOWN LEADERSHIP | Charitable board and surgical directorate unresolved; named physicians use sealed restoration licenses |
-| KNOWN MEMBERSHIP | donors |
+| KNOWN MEMBERSHIP | Surgeons, restoration technicians, trauma nurses, prosthetic makers, record advocates, mobile-clinic<br>drivers, and donors |
 | PRIMARY ACTIVE REGION | Transnational post-incident care routes, blackout clinics, shelters, hospitals, refugee corridors, and private wards |
-| KNOWN ASSETS | sealed patient ledgers |
-| KNOWN HOLDINGS | ledgers |
+| KNOWN ASSETS | Restoration theaters, mobile clinics, memory-sensitive consent forms, living prosthetics, tissue<br>stabilizers, and sealed patient ledgers |
+| KNOWN HOLDINGS | Front clinics, charitable recovery houses, ambulance routes, aftercare hostels, surgical supply<br>caches, and cold ledgers |
 | IDEOLOGY | Survival should include dignity; a changed body is not automatically failed, contaminated, or disposable |
 | HISTORY WITH A.C.T | Repeated discovery through survivors treated after A.C.T or non-A.C.T anomaly incidents |
 | ANOMALY CROSS-REFERENCE | Restricted transformation, injury-restoration, altered-body, amnestic-aftercare, and E-Class review chains |

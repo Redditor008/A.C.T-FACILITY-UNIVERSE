@@ -17,10 +17,10 @@
 | KNOWN LEADERSHIP | Secretariat council unresolved; field authority held by Crossing Magistrates and Quiet-Line Wardens |
 | KNOWN MEMBERSHIP | Border officers, treaty clerks, customs handlers, translators, custody drivers, map auditors, and station medics |
 | PRIMARY ACTIVE REGION | Cross-border anomaly routes, disputed checkpoints, border towns, ports, airports, mountain passes, and dead corridors |
-| KNOWN ASSETS | maps |
+| KNOWN ASSETS | Quiet-line stations, sealed crossing ledgers, treaty seals, custody vehicles, false-neutral holding<br>rooms, and route maps |
 | KNOWN HOLDINGS | Border offices, unlisted customs rooms, transit archives, temporary humane holding cells, and treaty-marked corridors |
 | IDEOLOGY | Borders must remain usable even when geography, identity, law, or citizenship becomes unstable |
-| HISTORY WITH A.C.T | routing |
+| HISTORY WITH A.C.T | Recurring cooperation during cross-border anomaly movement, witness transfer, extradition dispute,<br>and artifact routing |
 | ANOMALY CROSS-REFERENCE | Restricted border-hole, passport, customs, missing-citizen, transit-object, and extradition case chains |
 | CURRENT STATUS | ACTIVE - working foreign and treaty-backed border authority |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Civil Covert / Recovery Division |

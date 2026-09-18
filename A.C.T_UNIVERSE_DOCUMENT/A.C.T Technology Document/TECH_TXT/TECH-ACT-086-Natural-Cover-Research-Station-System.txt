@@ -89,6 +89,52 @@ than an empty restricted
 property, a false business, or an over-secured installation. NCRSS therefore makes normal work part
 of security.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and station doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| STATION PARAMETER          | VALUE                                                                                 |
++============================+=======================================================================================+
+| Deck                       | coastal observation deck                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Instrument housing         | public instrument housing                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Office                     | station administrative office                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Communications             | legitimate communications desk                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Dock                       | small research dock                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Logs                       | maintenance and supply log                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Register                   | visitor handling register                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Rotation                   | staff rotation board                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Watch point                | boundary security watch point                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Transition file            | concealed transition coordination file                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cover output               | published coastal observation summaries                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Visitor classes            | walk-in public, scheduled researchers, contractors, officials                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Genuine research share     | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Visitor throughput         | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Boundary watch coverage    | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+A cover station does not fail loudly. It fails because it produces nothing a
+real station would produce, and
+the visitor who notices is usually a regular. The archive therefore treats research output,
+visitor records,
+and maintenance rhythm as load-bearing components rather than as decoration around the concealed work.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 An NCRSS installation includes visible observation decks, instrument housings, administrative rooms, legitimate
@@ -113,7 +159,54 @@ Known components include:
 The system fails if the station becomes theatrical. The best cover has no need
 to perform being normal.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Station Controls
+
+- visitor handling register
+- staff rotation board
+- public instrument housing access
+- boundary security watch point
+
+Station Readouts
+
+- visitor arrival and departure entries
+- published observation summary age
+- maintenance and supply log continuity
+- concealed transition coordination entries
+
+Cover And Personnel Limits
+
+- Do not enter a visitor who was never actually met.
+- Do not publish a summary no station staff can explain.
+- Do not rotate boundary staff on a visible fixed pattern.
+- Do not close a public area without an ordinary stated reason.
+- Weakest against regular visitors who return across seasons.
+- Weakest against maintenance contractors with long memories.
+
+Research share, throughput, and watch coverage are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+The sequence below runs on ordinary station days. Concealed work enters only where the
+ordinary sequence
+already supplies a reason for somebody to be there.
+
+1. Open the station on the published schedule and record the opening time.
+2. Check deck, instrument housing, and dock against the maintenance log.
+3. Enter every arrival in the visitor handling register before contact.
+4. Answer public enquiries from the published observation summaries.
+5. Route contractor work through the maintenance and supply log.
+6. Compare staff rotation against the board and note any deviation.
+7. Log boundary watch observations before the watch shift ends.
+8. Record transition coordination entries only after the public day closes.
+
+Steps 1 through 6 are what an outside observer can see. Steps 7 and
+8 are what allow the station to answer a
+later question about that particular day without reconstructing it.
 
 During routine operation, NCRSS maintains visible station work. Staff observe, log, communicate, maintain equipment,
 receive legitimate supplies, and operate research-vessel access within the cover's normal rhythm. Administrative staff
@@ -128,6 +221,49 @@ logistics or remains
 unseen. If cover is threatened, the buried component can be sealed behind the surface
 level while F-3 handles the
 visible incident as a station matter.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Each opening               | verify deck, housing, and dock against the log                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Weekly                     | reconcile the visitor register with the rotation board                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | review summary currency and research share                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | rehearse a visitor challenge at the watch point                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Annually                   | reconfirm legal identity, permits, and staffing                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Servicing here is inseparable from cover health. A maintenance log with gaps reads worse
+than a log showing
+ordinary failures, so faults are recorded and closed in the same register a member
+of the public could
+reasonably ask to see.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Visitor asks about a sealed| Boundary visible from public route        | Answer plainly, re-route the sightline    |
+| area                       |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Research output falls      | Real work displaced by cover duties       | Restore output before widening use        |
+| behind                     |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Register shows an unmet    | Entry made after contact, not before      | Correct the entry and retrain the desk    |
+| arrival                    |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Contractor notices a       | Rotation or closure rhythm too regular    | Vary the rhythm and record the change     |
+| pattern                    |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Summary contradicts        | Summary written from assumption           | Withdraw it and reissue citing the reading|
+| instruments                |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -193,6 +329,10 @@ remain ordinary?
 - Should public station communications ever carry concealed timing cues?
 - How long can a real station support hidden work without its staff becoming
 divided?
+- How much published output is needed to keep academic attention satisfied?
+- Which maintenance faults must be recorded publicly in order to look ordinary?
+- Can the station answer a lawful request for its real staffing roster?
+
 
 FILE METADATA
 

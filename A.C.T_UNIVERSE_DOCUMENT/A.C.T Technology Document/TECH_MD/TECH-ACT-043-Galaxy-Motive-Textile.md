@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Biological Containment, Recovery, Medical, Site Safety |
 | OPERATIONAL STATUS | ACTIVE / SPECIALIZED APPAREL / CASE-ISSUED |
 | RISK STATUS | CONTROLLED / RADIATION AND CONTAMINATION INDICATOR HAZARD |
-| CLEARANCE REQUIRED | treatment |
+| CLEARANCE REQUIRED | Level 3 for wear; Level 4 for tailoring, fiber repair, radiation-counter calibration, and<br>hydrophobic treatment |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

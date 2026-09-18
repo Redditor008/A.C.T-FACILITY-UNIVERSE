@@ -15,12 +15,12 @@
 | SECRECY RISK | VEILED |
 | A.C.T POSTURE | MONITOR / MISDIRECT / COOPERATED |
 | KNOWN LEADERSHIP | Lord Clerk of Ash Keys; Keeper-Chancellors; named holders obscured by hereditary and charter restrictions |
-| KNOWN MEMBERSHIP | guards |
-| PRIMARY ACTIVE REGION | sites |
-| KNOWN ASSETS | maps |
+| KNOWN MEMBERSHIP | Charter clerks, vault ushers, oath witnesses, estate stewards, relic notaries, key bearers, and<br>hereditary guards |
+| PRIMARY ACTIVE REGION | Old estates, former royal vaults, charter towns, sealed chapels, inheritance routes, and<br>treaty-marked relic sites |
+| KNOWN ASSETS | Ash keys, burned-lock ledgers, relic charters, oath seals, vault inventories, procession rights, and<br>estate maps |
 | KNOWN HOLDINGS | Crown vaults, closed estate rooms, chapel crypts, archive shelves, inherited lockboxes, and oath-protected roads |
 | IDEOLOGY | Old custody remains custody until the oath, lock, heir, and danger are all lawfully<br>answered |
-| HISTORY WITH A.C.T | sites |
+| HISTORY WITH A.C.T | Recurring dispute and limited cooperation over relic claims, sealed estates, hereditary containment,<br>and old treaty sites |
 | ANOMALY CROSS-REFERENCE | Restricted relic, inheritance, estate, sealed-room, old-law, and historical containment case chains |
 | CURRENT STATUS | ACTIVE - old-state custody office with limited modern reach |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Central Archive / Civil Covert |

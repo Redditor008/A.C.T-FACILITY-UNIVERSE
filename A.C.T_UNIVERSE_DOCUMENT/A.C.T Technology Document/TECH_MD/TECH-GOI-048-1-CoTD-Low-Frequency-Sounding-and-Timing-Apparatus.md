@@ -7,7 +7,7 @@
 | COMMON ABBREVIATIONS | Sounding Apparatus / CoTD Sound Rig / Timing Sheets |
 | ORIGIN | Children of the Deep |
 | ACQUISITION STATUS | Intercepted during sounding material interdiction; equipment and timing sheets held, full procedure not reconstructed |
-| PRIMARY A.C.T INTEREST | assessment |
+| PRIMARY A.C.T INTEREST | Sleep-state interference prevention, acoustic escalation detection, target-contact interdiction,<br>ritual efficacy assessment |
 | ARCHIVE HANDLING | TARGET-ANOMALY MATERIAL SEALED / LEVEL 5 CULTIC NETWORKS RESTRICTED |
 
 ## Functional Identity

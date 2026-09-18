@@ -91,6 +91,53 @@ leave with a survivable
 story, the archive must keep an accountable record, and the parent site must remain
 unseen.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and processing doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| SUITE PARAMETER            | VALUE                                                                                 |
++============================+=======================================================================================+
+| Reception                  | witness reception room                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Assessment                 | medical assessment bay                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Interview                  | interview chamber                                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Observation                | observation control panel                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Narrative                  | narrative insertion desk                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Amnestic custody           | amnestic custody cabinet                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Recovery                   | quiet recovery room                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Release                    | release preparation terminal                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Referral                   | assimilation referral file                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Relay tray                 | witness archive relay tray                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Procedure classes          | record only, narrative insertion, amnestic, referral                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Dosage authority           | medical lead approval per case                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Suite count                | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Median processing time     | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Post-release contradiction | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Processing is a medical act with a secrecy purpose, and this record keeps those
+two facts in that order.
+Every procedure class has a lower-cost alternative available, so the suite must justify moving
+up the list
+rather than down it. The quiet recovery room exists because release immediately after administration
+produces measurably worse outcomes for the witness and worse records for the archive.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 A WPSS installation includes reception rooms, medical assessment bays, interview chambers, observation controls,
@@ -113,7 +160,56 @@ Known components include:
 
 The suite treats ordinary life as an endpoint that must be rebuilt carefully.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Suite Controls
+
+- witness reception room
+- medical assessment bay
+- interview chamber
+- release preparation terminal
+
+Suite Readouts
+
+- observation control panel state
+- amnestic custody cabinet entries
+- assimilation referral file dispositions
+- witness archive relay tray status
+
+Medical And Personnel Limits
+
+- Do not administer before the assessment is complete.
+- Do not record a narrative insertion as a natural memory.
+- Do not release without an observed recovery period.
+- Do not close a case with an unresolved contradiction.
+- Weakest against witnesses under acute distress.
+- Weakest against processing tempo set by outside pressure.
+
+Suite count, processing time, and contradiction rate are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+The sequence is written so that the least invasive option is reached first and
+any escalation must be
+justified in writing before it is permitted, not after.
+
+1. Receive the witness and open a processing record at reception.
+2. Complete the medical assessment before any procedure decision.
+3. Conduct the interview and record the account verbatim.
+4. Select the lowest procedure class that meets the case.
+5. Obtain medical lead approval for any amnestic administration.
+6. Draw from the amnestic custody cabinet against the case record.
+7. Hold in the quiet recovery room and observe before release.
+8. Close the record, file any referral, and relay the archive copy.
+
+Step 4 is the ethical core of the sequence. Escalating the procedure class is
+always faster than explaining
+why a lower class was sufficient, so the record requires the justification to exist
+before the escalation,
+where it can be read by a later reviewer.
 
 Upon arrival, witnesses receive identity intake, exposure description, immediate medical assessment, and Security
 review. Staff determine whether the witness saw anomaly, Facility activity, both, or something too
@@ -128,6 +224,47 @@ amnestics are used, aftercare and memory continuity are reviewed before release.
 witness work is
 invisible because the witness can continue without feeling a missing wall in their own
 life.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Each case                  | verify assessment completeness before procedure                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Daily                      | reconcile the amnestic cabinet with case records                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Weekly                     | review panel coverage and recovery times                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | audit release outcomes for contradiction                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | review referral criteria with the medical lead                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Cabinet reconciliation is the hardest control in the suite. Amnestic stock is consumed per
+case and must
+match the case record exactly, because an unexplained draw means either a procedure without
+approval or a
+procedure without a record, and the two require different corrections.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Witness recalls the        | Narrative insertion incomplete            | Reopen the case, do not re-administer     |
+| facility                   |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Cabinet count short        | Draw not recorded against a case          | Suspend administration, trace recent cases|
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Recovery room unavailable  | Processing tempo exceeds capacity         | Delay release, do not shorten recovery    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Referral criteria unclear  | Case sits between procedure classes       | Hold with the medical lead, log the       |
+|                            |                                           | ambiguity                                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Account contradicts the    | Interview note taken after the fact       | Re-interview and preserve both versions   |
+| record                     |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -190,6 +327,10 @@ OPEN QUESTIONS
 buried relay together?
 - What level of aftercare is owed when the witness never learns why they
 need it?
+- Which procedure class should be presumed when evidence is thin?
+- How long must recovery last before release is considered safe?
+- When does a preserved true account serve better than a replacement?
+
 
 FILE METADATA
 

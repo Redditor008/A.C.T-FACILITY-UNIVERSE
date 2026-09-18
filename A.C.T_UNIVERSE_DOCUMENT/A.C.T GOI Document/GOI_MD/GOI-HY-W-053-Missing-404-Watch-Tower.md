@@ -20,7 +20,7 @@
 | KNOWN ASSETS | Watch towers, signal ledgers, missing-person registers, null-coordinate maps, archived dead links, and rescue bells |
 | KNOWN HOLDINGS | Distributed tower posts, hidden listening rooms, sealed paper archives, relay stations, and route-observation cells |
 | IDEOLOGY | Absence is evidence; missing persons, places, and files must remain watched until found, recovered,<br>or named dead |
-| HISTORY WITH A.C.T | found |
+| HISTORY WITH A.C.T | Repeated cooperative contact during cases where people, sites, coordinates, records, or signals<br>returned not found |
 | ANOMALY CROSS-REFERENCE | Restricted missing-person, vanished-site, dead-link, and inaccessible-location case chains |
 | CURRENT STATUS | ACTIVE - cooperative but independent observation network |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Recovery Division / Central Archive |

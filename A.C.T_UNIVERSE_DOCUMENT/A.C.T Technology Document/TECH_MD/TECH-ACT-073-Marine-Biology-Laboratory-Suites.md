@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Containment, Medical, Recovery, Security |
 | OPERATIONAL STATUS | ACTIVE / MARITIME HOLDING STUDY USE |
 | RISK STATUS | BIOLOGICAL EXPOSURE / SAMPLE ESCAPE / WATER-CONTROL RISK |
-| CLEARANCE REQUIRED | or void cases |
+| CLEARANCE REQUIRED | Level 3 for ordinary suite maintenance; Level 4 for live anomaly samples, resident-derived tissues,<br>or void cases |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

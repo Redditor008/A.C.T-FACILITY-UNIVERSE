@@ -17,8 +17,8 @@
 | KNOWN LEADERSHIP | Continuance Commissioner; tribunal chairs and legal protectors confirmed; full ministerial sponsor unresolved |
 | KNOWN MEMBERSHIP | Lawyers, tribunal clerks, witness advocates, record guards, survivor escorts, medical observers, and sealed archivists |
 | PRIMARY ACTIVE REGION | National courts, hospitals, survivor shelters, family notification offices, detention appeals, and public records |
-| KNOWN ASSETS | emergency custody stays |
-| KNOWN HOLDINGS | archives |
+| KNOWN ASSETS | Continuance writs, protected testimony vaults, injunction channels, survivor ledgers, amnestic<br>challenge forms, and emergency custody stays |
+| KNOWN HOLDINGS | Legal offices, tribunal rooms, witness hostels, sealed transcript stores, hospital liaison desks,<br>and court archives |
 | IDEOLOGY | A witness remains a person after the event and cannot be erased only because<br>truth is operationally inconvenient |
 | HISTORY WITH A.C.T | Repeated legal obstruction, witness extraction, testimony preservation, amnestic challenge, and detention review |
 | ANOMALY CROSS-REFERENCE | Restricted witness, amnestic, survivor-rights, detention, transformed-person, and public accountability chains |

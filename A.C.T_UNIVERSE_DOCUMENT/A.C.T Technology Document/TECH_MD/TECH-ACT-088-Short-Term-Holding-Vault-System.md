@@ -84,6 +84,38 @@ STHVS therefore makes time, transfer destination, and parent authority part of e
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and holding doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| VAULT PARAMETER | VALUE |
+|---|---|
+| Receipt | intake receipt bay |
+| Units | low-threat holding unit row |
+| Monitoring | monitoring gallery |
+| Transfer prep | transfer preparation table |
+| Documentation | documentation alcove |
+| Authorization | parent-site authorization board |
+| Custody | custody clock |
+| Environment | environmental support panel |
+| Closure | F-1 closure control |
+| Rejection | escalation rejection file |
+| Threat classes | low-threat transient items only |
+| Custody limit | parent-site authorization required beyond it |
+| Unit count | NOT MEASURED |
+| Median hold time | NOT MEASURED |
+| Overstay events | NOT MEASURED |
+
+The vault exists to hold, briefly, things that are not yet classified. Its controlling
+parameter is time
+rather than capacity: every unit carries a custody clock so that an unclassified item
+cannot drift into
+permanent local custody through inertia. Overstay is recorded as a custody failure, not as
+an administrative
+delay.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard STHVS installation includes an intake bay, holding unit rows, a monitoring gallery,
@@ -111,7 +143,56 @@ has already begun to drift.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Vault Controls
+
+- intake receipt bay
+- monitoring gallery
+- transfer preparation table
+- F-1 closure control
+
+### Vault Readouts
+
+- custody clock readings per unit
+- parent-site authorization board entries
+- escalation rejection file dispositions
+- environmental support panel state
+
+### Holding And Personnel Limits
+
+- Do not admit a high-threat item to a low-threat unit.
+- Do not extend a hold without parent-site authorization.
+- Do not leave a custody clock running without a named custodian.
+- Do not close F-1 with an unresolved unit.
+- Weakest against quiet nights with thin staffing.
+- Weakest against transfer schedules that slip repeatedly.
+
+Unit count, median hold time, and overstay rate are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence assumes a single arrival. Simultaneous arrivals are sequenced through the receipt bay
+rather
+than admitted together, because the threat-class check cannot be done properly under load.
+
+1. Receive the item at the intake receipt bay and open a custody
+record.
+2. Confirm the threat class against the relay limit checklist.
+3. Assign a unit and start its custody clock immediately.
+4. Record the environmental baseline on the support panel.
+5. Post the hold on the parent-site authorization board.
+6. Monitor from the gallery and log every state change.
+7. Prepare transfer at the table once disposition arrives.
+8. Close the unit, stop the clock, and file the record.
+
+Steps 2 and 3 are the pair that prevents the failure this vault was
+built to avoid: an item entering a unit
+before its threat class is confirmed, or a clock starting late enough that the
+hold looks shorter than it
+actually was.
 
 Before accepting a holding, F-1 staff confirm parent-site authorization, threat category, expected transfer window,
 required environment, handler identity, medical or archive liaison needs, and rejection criteria. Material that
@@ -127,6 +208,32 @@ risk develops, F-1 closure
 seals the level to the outside while command resolves the event.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Each shift | read every custody clock and note exceptions |
+| Daily | test monitoring gallery coverage of all units |
+| Weekly | review environmental support panel logs |
+| Monthly | audit custody records against transfer confirmations |
+| Quarterly | rehearse F-1 closure with occupied units |
+
+Servicing here is mostly reconciliation. A custody record that does not match a transfer
+confirmation means
+an item moved without paperwork, and that mismatch is repaired before the next intake
+rather than waiting
+for an audit to find it.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Clock past its limit | Transfer delayed at the parent site | Escalate and record the authorization request |
+| Unit refuses a state change | Environmental support panel fault | Move the item first, then service the panel |
+| Gallery blind to one unit | Camera or feed fault | Post a physical watch until the feed returns |
+| Threat class disputed | Intake screening incomplete | Hold in the receipt bay, do not admit |
+| Closure blocked by a unit | Unresolved disposition | Reassign or hold closure with a named officer |
 
 ## KNOWN LIMITS
 
@@ -194,6 +301,10 @@ temporary.
 — Should witness-adjacent material ever share F-1 custody with object anomalies?
 — When should F-1 closure trigger automatic Redwood Veil dispatch?
 — How long can a days-to-weeks vault remain trusted during parent-site congestion?
+
+- What custody limit should apply before any classification exists?
+- Which items should never enter a sub-site vault at all?
+- How should an authorised overstay be recorded afterwards?
 
 ---
 

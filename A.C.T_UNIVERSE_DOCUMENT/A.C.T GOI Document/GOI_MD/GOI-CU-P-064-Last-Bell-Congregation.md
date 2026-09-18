@@ -16,8 +16,8 @@
 | A.C.T POSTURE | MONITOR / HELP / COOPERATED |
 | KNOWN LEADERSHIP | Bellwardens, Alarm Readers, Shelter Deacons, Calendar Mothers, and one unverified First Ringer tradition |
 | KNOWN MEMBERSHIP | End-warning clergy, shelter builders, disaster volunteers, signal watchers, families, lay singers, and route keepers |
-| PRIMARY ACTIVE REGION | roads |
-| KNOWN ASSETS | stores |
+| PRIMARY ACTIVE REGION | Transnational disaster-preparation cells, church basements, bell towers, shelter rooms, coastal<br>towns, and border roads |
+| KNOWN ASSETS | Warning bells, end calendars, shelter ledgers, evacuation hymns, dawn alarms, safe-cellars, route<br>cards, and food stores |
 | KNOWN HOLDINGS | Bell towers, chapel shelters, dry stores, mobile parish wagons, hidden radio rooms, and sealed<br>calendar cupboards |
 | IDEOLOGY | The end must be heard early enough that ordinary people can shelter, confess, reconcile,<br>prepare, and live another<br>dawn |
 | HISTORY WITH A.C.T | Repeated contact during predicted breach weather, shelter preparation, public warning rites, and evacuation disputes |

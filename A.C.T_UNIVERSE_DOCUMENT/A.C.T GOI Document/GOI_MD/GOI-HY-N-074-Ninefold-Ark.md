@@ -15,12 +15,12 @@
 | SECRECY RISK | VEILED |
 | A.C.T POSTURE | MONITOR / MISDIRECT / COOPERATED / APPROPRIATE |
 | KNOWN LEADERSHIP | Ark Stewards, Fold Captains, Continuance Trustees, Vessel Curators, and unknown Ninth Hold auditors |
-| KNOWN MEMBERSHIP | trustees, pilots, and preservation guards |
-| PRIMARY ACTIVE REGION | continuity shelters |
+| KNOWN MEMBERSHIP | Continuity planners, containment engineers, seed-bank officers, archivists, vault crews, biosphere<br>technicians, legal trustees, pilots, and preservation guards |
+| PRIMARY ACTIVE REGION | Mobile vaults, sealed ships, mountain stores, island conservatories, orbital claims, desert domes,<br>and hidden continuity shelters |
 | KNOWN ASSETS | Ark holds, fold vaults, species ledgers, memory banks, seed rooms, sample coffers, cold cradles,<br>covenant keys, and<br>evacuation lotteries |
-| KNOWN HOLDINGS | sealed continuity archives |
-| IDEOLOGY | impossible |
-| HISTORY WITH A.C.T | and temporary cooperation during extinction threats |
+| KNOWN HOLDINGS | Nine confirmed or suspected vessel classes, protected vault sites, mobile containment holds,<br>selection offices, and sealed continuity archives |
+| IDEOLOGY | Continuance requires selecting what survives before panic, politics, mercy, or public grief makes<br>selection impossible |
+| HISTORY WITH A.C.T | Repeated tense contact through preservation seizures, evacuation priority disputes, sample custody,<br>ark-space denial, and temporary cooperation during extinction threats |
 | ANOMALY CROSS-REFERENCE | Restricted continuity, extinction, seed-bank, sample, biosphere, evacuation, memory archive, and vault files |
 | CURRENT STATUS | ACTIVE - neutral continuance containment network monitored |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Containment / Recovery / Command |

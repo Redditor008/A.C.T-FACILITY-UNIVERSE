@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Containment, Security, Recovery, Archive, Transformation |
 | OPERATIONAL STATUS | ACTIVE / STANDARD RESIDENT OBJECT HOLDING |
 | RISK STATUS | CHAMBER MISASSIGNMENT / MONITORING LOSS / ROUTING FAILURE |
-| CLEARANCE REQUIRED | review |
+| CLEARANCE REQUIRED | Standard holding authorization; elevated authorization for transfer to F-2 restricted hold or F-4<br>transformation review |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

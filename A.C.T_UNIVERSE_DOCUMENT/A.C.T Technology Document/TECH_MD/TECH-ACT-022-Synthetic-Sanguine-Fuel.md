@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Logistics, Engineering, Transformation, Site Command |
 | OPERATIONAL STATUS | ACTIVE / CONTROLLED STOCK / TEMPERATURE-DEPENDENT |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF CONTAMINATED OR MISFED |
-| CLEARANCE REQUIRED | dependency review |
+| CLEARANCE REQUIRED | Level 3 for issue; Level 4 for formula, pump calibration, subject-specific mixture, and blood-fuel<br>dependency review |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

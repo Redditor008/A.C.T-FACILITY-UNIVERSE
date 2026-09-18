@@ -17,8 +17,8 @@
 | KNOWN LEADERSHIP | Ward Governors, Lock Physicians, Quiet Engineers, Patient Advocates, and custody chaplains |
 | KNOWN MEMBERSHIP | Doctors, nurses, containment engineers, hospice staff, legal guardians, altered-person advocates, and ward guards |
 | PRIMARY ACTIVE REGION | Private clinics, long-term abnormal care wards, hidden hospices, custody houses, and low-violence containment beds |
-| KNOWN ASSETS | clinics |
-| KNOWN HOLDINGS | trust shells |
+| KNOWN ASSETS | Gentle locks, consent ledgers, quiet rooms, soft restraints, ward keys, patient bells, shielded<br>ambulances, and clinics |
+| KNOWN HOLDINGS | Mercy wards, sealed hospices, patient houses, underground care basements, mobile care units, and<br>legal trust shells |
 | IDEOLOGY | Containment is justified only when it prevents harm while preserving the patient, witness, subject,<br>or resident as a<br>person rather than evidence |
 | HISTORY WITH A.C.T | Repeated cooperation through patient transfer, nonviolent entity custody, altered-person care, and ward consultation |
 | ANOMALY CROSS-REFERENCE | Restricted medical, hospice, restraint, altered-person, low-risk custody, legal guardianship, and transfer files |

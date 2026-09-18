@@ -7,7 +7,7 @@
 | COMMON ABBREVIATIONS | Carry System / Corridor Transport / L.F. Temporary Holding |
 | ORIGIN | Liberty Freedoms |
 | ACQUISITION STATUS | Reconstructed from recovered subjects, abandoned transports, corridor interdictions, and returnee interviews |
-| PRIMARY A.C.T INTEREST | recovery triage |
+| PRIMARY A.C.T INTEREST | Carried-subject location and condition assessment, non-specialist handling injury review, corridor<br>interdiction, recovery triage |
 | ARCHIVE HANDLING | SEIZED-SUBJECT FILES RESTRICTED / LEVEL 5 CASE-CHAIN CONTROL |
 
 ## Functional Identity

@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Seismic Monitoring, Recovery Support, Security, Command |
 | OPERATIONAL STATUS | ACTIVE / CONTINUOUS WATCH USE |
 | RISK STATUS | MISSED ARRIVAL / FALSE REPORT / REPORTING DELAY RISK |
-| CLEARANCE REQUIRED | staging command |
+| CLEARANCE REQUIRED | Level 3 for watch-floor duty; Level 4 for anomaly sighting, parent-relay escalation, or recovery<br>staging command |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Biological Containment, Logistics, Site Command, Recovery |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / PATIENT AND SAMPLE SPECIFIC |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF THAW, RHYTHM, OR SEAL FAILS |
-| CLEARANCE REQUIRED | containment |
+| CLEARANCE REQUIRED | Level 4 for patient use, FCA loading, and long-duration stasis; Level 5 for consciousness-adjacent<br>containment |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

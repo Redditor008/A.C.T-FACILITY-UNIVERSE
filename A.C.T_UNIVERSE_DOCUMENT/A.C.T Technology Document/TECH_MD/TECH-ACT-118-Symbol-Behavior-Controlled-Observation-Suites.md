@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Researcher, Archive, Intelligence, Medical, Security |
 | OPERATIONAL STATUS | ACTIVE / CONTROLLED SYMBOL RESEARCH |
 | RISK STATUS | VISUAL EXPOSURE / PROPAGATION ERROR / STUDY OVERREACH |
-| CLEARANCE REQUIRED | review |
+| CLEARANCE REQUIRED | Level 4 for symbol-study duty; Level 5 for Dread EYE restriction-set modification or full-effect<br>review |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

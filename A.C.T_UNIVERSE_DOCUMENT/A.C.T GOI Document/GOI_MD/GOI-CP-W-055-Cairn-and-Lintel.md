@@ -17,8 +17,8 @@
 | KNOWN LEADERSHIP | Board identity restricted; local projects answer to named Foremen of Threshold and Shelter Wardens |
 | KNOWN MEMBERSHIP | Architects, masons, structural engineers, municipal contractors, shelter keepers, route surveyors, and locksmiths |
 | PRIMARY ACTIVE REGION | Disaster-prone cities, breach-adjacent districts, unstable housing blocks, hospitals, schools, tunnels, and shelters |
-| KNOWN ASSETS | sealed floor plans |
-| KNOWN HOLDINGS | stairwells |
+| KNOWN ASSETS | Protected buildings, threshold stones, emergency corridors, impossible rooms, shelter keys,<br>construction records, and sealed floor plans |
+| KNOWN HOLDINGS | Front construction firms, municipal contracts, repair yards, shelter houses, old-work depots, and<br>unregistered stairwells |
 | IDEOLOGY | A door is a promise; shelter must hold even when the map, street, or<br>sky fails |
 | HISTORY WITH A.C.T | Repeated field cooperation during spatial collapse, breach evacuation, unsafe housing, and impossible-access incidents |
 | ANOMALY CROSS-REFERENCE | Restricted building, shelter, tunnel, hospital, school, and evacuation-route case chains |

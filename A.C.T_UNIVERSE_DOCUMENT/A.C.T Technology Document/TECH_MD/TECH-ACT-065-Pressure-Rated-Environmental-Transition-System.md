@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Recovery, Research, Medical, Engineering, Security |
 | OPERATIONAL STATUS | ACTIVE / DEEP-RECOVERY TRANSFER USE |
 | RISK STATUS | PRESSURE SHOCK / HULL FAILURE / RESIDENT STRESS RISK |
-| CLEARANCE REQUIRED | override |
+| CLEARANCE REQUIRED | Level 3 for maintenance; Level 4 for resident transfer, decompression curve changes, or emergency<br>override |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

@@ -88,6 +88,54 @@ written into ICHS through custody clocks, transfer schedules, suppression monito
 Grave
 disposition control. A stable frozen case is still a transient case.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and interim doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| HOLDING PARAMETER          | VALUE                                                                                 |
++============================+=======================================================================================+
+| Staging                    | cold intake staging bay                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Units                      | cryogenic storage unit row                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monitoring                 | suppression monitoring station                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cradle                     | transfer preparation cradle                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Recorder                   | biological state recorder                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Custody                    | custody clock board                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Disposition                | parent-station disposition terminal                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Buffer                     | emergency power and thermal buffer                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Closure                    | F-1 closure control                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Authorization              | silent removal authorization file                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Holding classes            | dormant, suppressed, contested biological                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Interim limit              | parent-station disposition closes custody                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Unit count                 | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Thermal buffer endurance   | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Suppression failures       | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Interim cold holding is a claim about time, not about temperature. The depot can
+keep material cold far
+longer than it is authorised to keep it, and the custody clock board exists
+because arctic transport
+disruption routinely turns a short hold into a season. The thermal buffer protects the
+material; the clock
+protects the doctrine.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 An ICHS installation includes intake and staging bay, cryogenic storage units, suppression monitoring stations,
@@ -112,7 +160,58 @@ Known components include:
 The system is considered active even when empty, because seasonal pressure can return without
 warning.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Holding Controls
+
+- cold intake staging bay
+- suppression monitoring station
+- transfer preparation cradle
+- F-1 closure control
+
+Holding Readouts
+
+- custody clock board readings
+- biological state recorder traces
+- parent-station disposition terminal state
+- emergency power and thermal buffer reserve
+
+Interim And Personnel Limits
+
+- Do not extend a hold without parent-station disposition.
+- Do not read stable cold as confirmed dormancy.
+- Do not leave a unit on buffer without an escalation.
+- Do not close F-1 with an unresolved suppression state.
+- Weakest against a transport season that closes early.
+- Weakest against material tolerating cold better than expected.
+
+Unit count, buffer endurance, and failure rate are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+The sequence records the biological state before cooling. A state recorded only after suppression
+cannot be
+distinguished from the suppression's own effect, and that ambiguity is inherited by the assessment
+level
+above.
+
+1. Receive material at the cold intake staging bay.
+2. Record the biological state baseline before cooling.
+3. Assign a unit and start its custody clock.
+4. Set suppression monitoring thresholds for that class.
+5. Post the hold to the parent-station disposition terminal.
+6. Watch the thermal buffer reserve through the season.
+7. Prepare transfer at the cradle when disposition arrives.
+8. Close the unit, stop the clock, and file the state record.
+
+Step 6 is the one staff are most inclined to treat as background. During
+a closed transport season the
+buffer reserve is the only variable separating an interim hold from an unplanned long-term
+one, and it moves
+slowly enough to be missed shift by shift.
 
 Before holding, staff confirm quarantine status, biological risk, suppression requirements, expected transfer window,
 White Grave authorization, and whether silent removal authority is attached. Incoming material enters through
@@ -125,6 +224,45 @@ access and transfer movement. Limited Containment Support maintains the units an
 suppression fails, the material is escalated to White Grave command. If breach risk appears,
 F-1 closure seals the
 level to the outside while records freeze with the occupied units.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Each shift                 | read every custody clock and buffer reserve                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Daily                      | review suppression traces against thresholds                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Weekly                     | reconcile state records with disposition                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | test emergency power under load                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Before winter              | confirm buffer capacity for the closed season                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Pre-winter confirmation is the servicing item that matters most. A depot entering the closed
+transport
+season with a full unit row and a thin buffer has already converted an
+interim holding into a long-term one,
+whatever the custody clock says.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Clock past its limit       | Transport season closed                   | Escalate for disposition, record the delay|
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Suppression trace ambiguous| Dormancy reads as plain stillness         | Record both, escalate to assessment       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Buffer reserve falling     | Power or insulation fault                 | Consolidate units and escalate immediately|
++----------------------------+-------------------------------------------+-------------------------------------------+
+| State record missing       | Baseline skipped before cooling           | Note the gap, do not infer the baseline   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Closure blocked            | Unresolved suppression state              | Hold closure with a named officer,        |
+|                            |                                           | escalate                                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -184,6 +322,10 @@ OPEN QUESTIONS
 - When does overstay require emergency movement to White Grave?
 - Can suppression monitoring distinguish dormancy from strategic stillness?
 - How long can an interim depot safely remain full during arctic transport disruption?
+- What interim limit applies when transport cannot move at all?
+- Which materials become more hazardous after stable cold?
+- How should dormancy be confirmed without provoking it?
+
 
 FILE METADATA
 

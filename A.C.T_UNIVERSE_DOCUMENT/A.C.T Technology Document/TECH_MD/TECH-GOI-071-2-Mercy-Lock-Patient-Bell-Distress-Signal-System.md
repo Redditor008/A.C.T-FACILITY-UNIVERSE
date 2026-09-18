@@ -12,7 +12,7 @@
 | PRIMARY A.C.T REVIEW | Medical Division / Subject Care / Containment / Legal |
 | OPERATIONAL STATUS | RESTRICTED CONSULTATION USE / PARTIAL TECHNICAL ACCESS |
 | RISK STATUS | SIGNAL NEGLECT / BELL REMOVAL / HOSTILE REPURPOSING |
-| CLEARANCE REQUIRED | files |
+| CLEARANCE REQUIRED | Level 4; Level 5 for patient-linked tuning, living names, ward locations, and failed-bell incident<br>files |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Recovery, Biological Containment, Security, Engineering |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED ISSUE / SHORT-DURATION WEAR |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF OVERWORN OR MASKING FAILS |
-| CLEARANCE REQUIRED | predator missions |
+| CLEARANCE REQUIRED | Level 3 for field use; Level 4 for pulse-sync calibration, micro-injector load, and heart-signature<br>predator missions |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Recovery, Field Command, Medical, Training, Security |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED ISSUE / OPERATOR-BONDED |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF TIMING, FEEDBACK, OR USER FAILS |
-| CLEARANCE REQUIRED | parry authorization |
+| CLEARANCE REQUIRED | Level 3 for bonded operators; Level 4 for capacitor tuning, combat deployment, and anomaly-contact<br>parry authorization |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

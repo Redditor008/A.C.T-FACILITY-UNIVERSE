@@ -8,7 +8,7 @@ CALENDAR SET
 | COMMON ABBREVIATIONS | Sounding Texts / Cult Recordings / Return Calendar |
 | ORIGIN | Children of the Deep |
 | ACQUISITION STATUS | Copied texts and recording extracts recovered and interdicted; materials restricted, no full reconstruction authorized |
-| PRIMARY A.C.T INTEREST | warning |
+| PRIMARY A.C.T INTEREST | Ritual vector analysis, information-hazard containment, leadership continuity tracking,<br>coordinated-action early warning |
 | ARCHIVE HANDLING | CULTIC NETWORKS RESTRICTED / KUROKAWA RECORDING REVIEW REQUIRED |
 
 ## Functional Identity

@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Normalcy, Memory Review, Materials Custody, O5 Oversight |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / 004-SERIES SOURCE MATERIAL |
 | RISK STATUS | HAZARDOUS / MEMORY CONTINUITY AND AIRBORNE MEMETIC HAZARD |
-| CLEARANCE REQUIRED | release |
+| CLEARANCE REQUIRED | Level 4 for storage access; Level 5 for raw-to-refined processing, grade transfer, or<br>high-concentration release |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

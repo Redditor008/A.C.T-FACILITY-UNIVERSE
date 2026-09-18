@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Engineering, Dark World Survey, Biological Containment |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / BREACH-SEALING DEVELOPMENT |
 | RISK STATUS | HAZARDOUS / HYDRATION-TRIGGER AND BLUE HAZE RISK |
-| CLEARANCE REQUIRED | suppression |
+| CLEARANCE REQUIRED | Level 4 for sealed handling; Level 5 for hydration trigger, occupied-facility deployment, and<br>outgassing suppression |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

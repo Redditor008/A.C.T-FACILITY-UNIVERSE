@@ -6,7 +6,7 @@
 | TECHNOLOGY NAME | Children of the Deep Pressure Ritual Equipment and Sealed Container Set |
 | COMMON ABBREVIATIONS | Pressure Set / Sealed Containers / Marine Material Cache |
 | ORIGIN | Children of the Deep |
-| ACQUISITION STATUS | held |
+| ACQUISITION STATUS | Recovered from custody and mouth sites; individual items assessed separately, no complete cult<br>inventory held |
 | PRIMARY A.C.T INTEREST | Technical preparation detection, inland mouth indicator review, procurement interdiction, anomalous material triage |
 | ARCHIVE HANDLING | CULTIC NETWORKS RESTRICTED / ANOMALOUS MATERIAL CUSTODY REVIEW |
 
