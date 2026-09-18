@@ -185,9 +185,9 @@ SION doctrine holds that shared instruments are strongest when neither duty dest
 - ACT-SUB-05-ID-C Ash Tide Watchpoint Sub-Site Dossier;
 - ACT-SUB-05-ID-C-F-3 Surface Cover Level Floor Dossier;
 - ACT-SUB-05-ID-C-F-2 Operations and Watch Level Floor Dossier;
-- TECH-ACT-083 - Coastal Watch Coordination Center;
-- TECH-ACT-084 - Volcanic-Seismic Monitoring Suites;
-- TECH-ACT-086 - Natural Cover Research Station System;
+- TECH-ACT-083 — Coastal Watch Coordination Center;
+- TECH-ACT-084 — Volcanic-Seismic Monitoring Suites;
+- TECH-ACT-086 — Natural Cover Research Station System;
 - Ash Tide instrument calibration ledger [restricted].
 
 ---
@@ -205,9 +205,8 @@ SION doctrine holds that shared instruments are strongest when neither duty dest
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Station Manager / Watch Officer / Central Archive
-**Review Status:** Active shared-instrument record; feed routes, calibration exceptions, and sensitive capture logs
-censored
-**Next Review:** After any data bleed, public report anomaly, calibration dispute, visitor instrument challenge,
-concealed routing failure, or watch-linked capture
+**Created:** 2026-09-16 **Author Desk:** Station Manager / Watch Officer / Central Archive **Review Status:**
+Active
+shared-instrument record; feed routes, calibration exceptions, and sensitive capture logs censored **Next Review:**
+After any data bleed, public report anomaly, calibration dispute, visitor instrument challenge, concealed routing
+failure, or watch-linked capture

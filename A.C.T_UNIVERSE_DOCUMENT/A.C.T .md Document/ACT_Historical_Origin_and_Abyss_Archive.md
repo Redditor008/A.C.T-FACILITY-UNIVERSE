@@ -30,8 +30,8 @@ willing to admit that the world was already broken in ways civilization did not
 understand.
 
 At the center of that realization stood the first true anomaly humanity could never
-capture:
-**ITHYOS, the World-Sleeper**.
+capture: **ITHYOS, the
+World-Sleeper**.
 
 ---
 
@@ -104,12 +104,12 @@ These signs included:
   ghosts and dead presences that no longer remained in rumor, but appeared openly
   to
   the living
-- the first known **Anomalous Earthquake**, whose origin was not natural in the slightest
+— the first known **Anomalous Earthquake**, whose origin was not natural in the slightest
   a mysterious forest from which a person could vanish for years and emerge
   physically
   healthy, but confused and
   temporally displaced
-- contradictory events in recorded history that neither scientists nor historians could fully reconcile
+— contradictory events in recorded history that neither scientists nor historians could fully reconcile
   reports of a living human being who had been alive since before the
   year
   **15xx** and had not meaningfully aged
@@ -209,8 +209,7 @@ This was not poetic. It was practical. It was the only condition under which
 ITHYOS did not shift enough in its
 slumber to cause catastrophic damage to the world.
 
-Its sleep was containment.  
-Its movement was disaster.
+Its sleep was containment. Its movement was disaster.
 
 ---
 
@@ -231,11 +230,11 @@ The name **A.C.T** was not created as decoration. It was created as doctrine:
 - **Containment**
 - **Transformation**
 
-If a thing could not be captured, it might still be contained.  
-If a thing could not be destroyed, it might still be isolated.  
-If a thing could not be ignored, it might still be understood.  
-If a thing could not be left alone, it might still be transformed into
-something less dangerous—or more useful.
+If a thing could not be captured, it might still be contained. If a
+thing could not be destroyed, it might still be
+isolated. If a thing could not be ignored, it might still be understood. If
+a thing could not be left alone, it might
+still be transformed into something less dangerous—or more useful.
 
 The founders also came to understand that not all anomalous things were living entities.
 Some were:
@@ -322,8 +321,9 @@ the institution
 became more scientific, bureaucratic, and systematized, these first ideas remained at the heart of
 A.C.T’s identity.
 
-The world survives because some truths remain buried.  
-The world remains stable because some things are never allowed to wake.
+The world survives because some truths remain buried. The world remains stable because some
+things are never allowed
+to wake.
 
 ---
 
@@ -350,8 +350,8 @@ It became:
 
 ### **the number one Anomaly Containment Facility**
 
-Not because it was born powerful,  
-but because it was born first at the edge of the worst possible discovery—and
+Not because it was born powerful, but because it was born first at the
+edge of the worst possible discovery—and
 survived.
 
 ---
@@ -366,6 +366,6 @@ came the first deployment. From that descent came ITHYOS. And from ITHYOS came t
 realization that some things could
 never be captured—only contained, hidden, and kept asleep.
 
-The ABYSS Floor was the first foundation.  
-The first doctrine was mercy through dormancy.  
-And the Facility that grew above it became A.C.T.
+The ABYSS Floor was the first foundation. The first doctrine was mercy through dormancy.
+And the Facility that grew
+above it became A.C.T.

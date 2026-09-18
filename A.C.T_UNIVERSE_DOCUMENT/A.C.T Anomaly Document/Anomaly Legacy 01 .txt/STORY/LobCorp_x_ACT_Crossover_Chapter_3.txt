@@ -551,44 +551,44 @@ END OF DAYS 11–13
 APPENDIX: Transformed A.C.T. Anomalies
 
 O-01-205 — NEMNOLIA, The Golden Veil
-- Original: AFD-NB-004 — The Forgetting Bloom
-- Risk Level: HE
-- Attack Type: WHITE (3–5) / BLACK (2–3)
-- E-Boxes: 18
-- Qliphoth Counter: 2
-- Work Preferences: Insight (High), Repression (Moderate), Instinct (Low), Attachment (Low)
-- Memento: *"The flower remembers what you want to forget."*
-- Description: A three-meter pale flowering plant with golden veins. Its mist causes confusion
+— Original: AFD-NB-004 — The Forgetting Bloom
+— Risk Level: HE
+— Attack Type: WHITE (3–5) / BLACK (2–3)
+— E-Boxes: 18
+— Qliphoth Counter: 2
+— Work Preferences: Insight (High), Repression (Moderate), Instinct (Low), Attachment (Low)
+— Memento: *"The flower remembers what you want to forget."*
+— Description: A three-meter pale flowering plant with golden veins. Its mist causes confusion
 and delayed recall. Its
 sap erases memory, particularly traumatic memory. The Well has shaped it to feed on
 fear and suffering. Useful for
 treating trauma, but dangerous to identity continuity.
 
 O-04-206 — The Paper Dragon
-- Original: AFD-OB-014 — Paper Dragon
-- Risk Level: HE
-- Attack Type: RED (2–4)
-- E-Boxes: 14
-- Qliphoth Counter: 3
-- Work Preferences: Instinct (High), Attachment (Moderate), Insight (Low), Repression (Low)
-- Memento: *"It was made of paper, but it ate like a dragon. And
+— Original: AFD-OB-014 — Paper Dragon
+— Risk Level: HE
+— Attack Type: RED (2–4)
+— E-Boxes: 14
+— Qliphoth Counter: 3
+— Work Preferences: Instinct (High), Attachment (Moderate), Insight (Low), Repression (Low)
+— Memento: *"It was made of paper, but it ate like a dragon. And
 when it was torn, it forgot who folded it back
 together."*
-- Description: A two-meter paper dragon capable of flight. Eats meat and repairs itself
+— Description: A two-meter paper dragon capable of flight. Eats meat and repairs itself
 with paper. Attracted to
 origami and folded objects. Vulnerable to moisture. Becomes possessive of paper items and handlers.
 Can be used as a
 light courier but is unpredictable.
 
 F-02-207 — The Monstrous Mirage
-- Original: AFD-SU-009 — Monstrous Mirage
-- Risk Level: WAW
-- Attack Type: RED (5–7) / WHITE (4–6)
-- E-Boxes: 24
-- Qliphoth Counter: 1
-- Work Preferences: Repression (High), Insight (Low), Instinct (Very Low), Attachment (Very Low)
-- Memento: *"WAKE IF YOU CAN."*
-- Description: A three-meter phantom demon born from a nightmare. Its roar produces a
+— Original: AFD-SU-009 — Monstrous Mirage
+— Risk Level: WAW
+— Attack Type: RED (5–7) / WHITE (4–6)
+— E-Boxes: 24
+— Qliphoth Counter: 1
+— Work Preferences: Repression (High), Insight (Low), Instinct (Very Low), Attachment (Very Low)
+— Memento: *"WAKE IF YOU CAN."*
+— Description: A three-meter phantom demon born from a nightmare. Its roar produces a
 visible red pressure wave that
 displaces victims into the Blood Phantom Zone — a hostile extradimensional inversion of the
 local facility. Survivors

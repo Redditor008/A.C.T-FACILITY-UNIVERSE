@@ -189,10 +189,10 @@ OATDPS doctrine holds that a trained hesitation is stronger than a brave mistake
 
 - ACT-SITE-03-JP-E-F-7 Personnel and Administrative Level Floor Dossier;
 - ACT-SITE-03-JP-E-F-6 General Records and Anomalous Intake Floor Dossier;
-- TECH-ACT-056 - Memetic Filtering Infrastructure;
-- TECH-ACT-057 - Anomalous Intake Screening Suites;
-- TECH-ACT-059 - Document Quarantine Cells;
-- TECH-ACT-115 - Archive Boundary Personnel Clearance System;
+- TECH-ACT-056 — Memetic Filtering Infrastructure;
+- TECH-ACT-057 — Anomalous Intake Screening Suites;
+- TECH-ACT-059 — Document Quarantine Cells;
+- TECH-ACT-115 — Archive Boundary Personnel Clearance System;
 - Kurokawa training certification ledgers [restricted].
 
 ---
@@ -204,7 +204,7 @@ OATDPS doctrine holds that a trained hesitation is stronger than a brave mistake
   Can ordinary archive excellence predict operational archive readiness, or does it sometimes predict
   the
   opposite?
-- How much doctrine should provisional personnel learn before final clearance is granted?
+— How much doctrine should provisional personnel learn before final clearance is granted?
   Should training records include fear responses when fear may be a useful safety
   behavior?
   When does repeated training make personnel too curious about files they are not
@@ -215,9 +215,7 @@ OATDPS doctrine holds that a trained hesitation is stronger than a brave mistake
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Training Office / Node Administration / Central Archive
-**Review Status:** Active training technology record; live training materials, failed-drill names, instructor notes,
-and staged simulation contents censored
-**Next Review:** After any training contamination, certification error, operational first-duty incident, exposure
-reporting failure, overdisclosure event, or doctrine module revision
+**Created:** 2026-09-16 **Author Desk:** Training Office / Node Administration / Central Archive **Review Status:**
+Active training technology record; live training materials, failed-drill names, instructor notes, and staged
+simulation contents censored **Next Review:** After any training contamination, certification error, operational
+first-duty incident, exposure reporting failure, overdisclosure event, or doctrine module revision

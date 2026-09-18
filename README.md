@@ -87,7 +87,7 @@ default core canon.
   rivals, witnesses, allied institutions, or communities outside A.C.T.; live relationship labels are POSITIVE,
   NEUTRAL,
   NEGATIVE, and WORK.
-- **The story layer is archive-adjacent.** Main story files dramatize the institution's contradictions, especially
+— **The story layer is archive-adjacent.** Main story files dramatize the institution's contradictions, especially
   memory, origin, ABYSS history, and the cost of official truth.
 
 ---
@@ -140,12 +140,12 @@ The repository runs a strong **`.md` / `.txt` twin** discipline:
   **Edits must be mirrored to both twins** so they don't drift (regenerate the
   twin
   from the `.md` and diff).
-- Documented exceptions:
+— Documented exceptions:
   - The **BOOK** is `.md`-only (single authoritative file).
   - `A.C.T .txt Document/` holds two **legacy records that are intentionally `.txt`-only**:
     `The-Infant-State-Scientific-Frustration-Log-LEGACY.txt` and
     `The-Unfiled-Registry-The-Black-Ledger-of-the-Five-LEGACY.txt`.
-  - `GOI_TXT/` copies are deliberately plain-text/ASCII-styled reading copies (documented convention, not drift).
+  — `GOI_TXT/` copies are deliberately plain-text/ASCII-styled reading copies (documented convention, not drift).
   Spelling rules that must stay distinct: **`[ BLANK ]`** (spaced) = redaction marker;
   **`[BLANK]`**
   (unspaced) =
@@ -160,7 +160,7 @@ Per the **2026-09-07 Core Worldbuilding Consistency Review** (`RESEARCH FOLDER/`
 - **Part series** — `Part/ACT_Universe_Part_1_Overview.md` is the **canonical** universe-compilation edition.
   `ACT_Universe_Part_1_Overview_Document.md` is its companion ("Introduction / Closing Note" framing) edition; the
   Archive folder holds the in-universe archive copy. All three number identically.
-- **Archive series** (…`_Archive.md`/`.txt` under `.md Document` / `.txt Document`) are the in-universe institutional
+— **Archive series** (…`_Archive.md`/`.txt` under `.md Document` / `.txt Document`) are the in-universe institutional
   copies of the same doctrine. Do not let them drift from the Part series.
   **BOOK** is the in-universe *history* of A.C.T — a readable synthesis, not the
   doctrine
@@ -175,13 +175,13 @@ Per the **2026-09-07 Core Worldbuilding Consistency Review** (`RESEARCH FOLDER/`
   code families: `AFD` (anomaly), `UFD` (unfiled), `ANM` (anomaly, modern), with type codes such as
   OB / SU / CH / NB /
   ME / IH / PL / SP / TI / ?.H.
-- **GOI designation** is `GOI-XX-X-XXX` (doctrine matches the GOI folder files).
+— **GOI designation** is `GOI-XX-X-XXX` (doctrine matches the GOI folder files).
   **Floor canon**: floor designations run **F-1** (deepest numbered floor) upward to **F-N** at
   surface
   level; below F-1
   only the **ABYSS** access route continues. `F-xxxx` is in-draft shorthand where the precise floor
   is not declassified.
-- **Site designation**: `ACT-SITE-01-US-W` / `ACT-SUB-01-US-W` style (regional codes defined by the Global Site
+— **Site designation**: `ACT-SITE-01-US-W` / `ACT-SUB-01-US-W` style (regional codes defined by the Global Site
   Registry).
 
 ---
@@ -225,4 +225,4 @@ Per the **2026-09-07 Core Worldbuilding Consistency Review** (`RESEARCH FOLDER/`
   the
   containment-class list adopted by
   the 2026-09-07 consistency sweep so the chosen system stays load-bearing.
-- Every completed change should be committed and pushed; keep `.md`/`.txt` twins in lockstep.
+— Every completed change should be committed and pushed; keep `.md`/`.txt` twins in lockstep.

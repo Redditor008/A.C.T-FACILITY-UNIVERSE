@@ -2,7 +2,7 @@ A.C.T FACILITY — AUDIO / VIDEO / SENSOR DOSSIER
 Nyxara-Celestial-Sensor-Dossier-AFD-CH-703
 
 ═══════════════════════════════════════════════════════════════════════
-            A.C.T FACILITY — AUDIO / VIDEO / SENSOR DOSSIER            
+            A.C.T FACILITY — AUDIO / VIDEO / SENSOR DOSSIER
                      Anomaly Containment Transformation
 ═══════════════════════════════════════════════════════════════════════
 
@@ -25,7 +25,7 @@ ARCHIVE STATUS:      Active / Sensor-hold restricted
 DOSSIER STATUS:      Open — sensor chain under continuous record
 
 ═══════════════════════════════════════════════════════════════════════
-                           CATEGORY CONTENTS                           
+                           CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
 This dossier belongs to A.C.T Log Category XI — Audio / Video / Sensor
@@ -50,7 +50,7 @@ protocol, and the tidal-pulse correlation in a form that survives
 reinterpretation.
 
 ═══════════════════════════════════════════════════════════════════════
-    SECTION 001 — LUNAR FAR-SIDE ACOUSTIC ARRAY — SLEEP HUM CAPTURE    
+    SECTION 001 — LUNAR FAR-SIDE ACOUSTIC ARRAY — SLEEP HUM CAPTURE
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-703/SEN-001
@@ -77,7 +77,7 @@ has never stopped. This is the closest approach to confirmation that the
 subject remains asleep.
 
 ═══════════════════════════════════════════════════════════════════════
-     SECTION 002 — ORBITAL RELAY — VISIBILITY-WINDOW PROTOCOL RUN      
+     SECTION 002 — ORBITAL RELAY — VISIBILITY-WINDOW PROTOCOL RUN
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-703/SEN-002
@@ -109,7 +109,7 @@ predicted dates, the standing breach response is to activate Global
 Cloud-Seeding Masking.
 
 ═══════════════════════════════════════════════════════════════════════
- SECTION 003 — SITE-03 SIGNAL BURST — ATMOSPHERIC DISTORTION OVERRIDE  
+ SECTION 003 — SITE-03 SIGNAL BURST — ATMOSPHERIC DISTORTION OVERRIDE
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-703/SEN-003
@@ -132,7 +132,7 @@ handled under Amnestic deployment 004-A. Public light emissions outside the
 suppression frames are narrated as "Lunar Phenomena" or "Camera Artifacts."
 
 ═══════════════════════════════════════════════════════════════════════
-   SECTION 004 — NUSANTARA HYDROPHONE — HYDROLOGICAL PULSE CORRELATE   
+   SECTION 004 — NUSANTARA HYDROPHONE — HYDROLOGICAL PULSE CORRELATE
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-703/SEN-004
@@ -161,7 +161,7 @@ with a
 name.
 
 ═══════════════════════════════════════════════════════════════════════
- SECTION 005 — ANALYST NOTES — WHAT THE RECORD DOES AND DOES NOT SHOW  
+ SECTION 005 — ANALYST NOTES — WHAT THE RECORD DOES AND DOES NOT SHOW
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-703/SEN-005

@@ -205,7 +205,7 @@ honest report of it.
 - ACT Technological Master Index 50, Item 31;
 - ACT Technological Visual Reference Guide, Item 31;
 - Adrenaline Micro-Surge Detectors, Item 18;
-- TECH-ACT-025 - Thermal-Lure Beacon;
+- TECH-ACT-025 — Thermal-Lure Beacon;
 - Biological Containment heart-signature predator files [restricted];
 - Medical field PPE reaction ledger [restricted].
 
@@ -216,18 +216,17 @@ honest report of it.
   Which anomalies detect the absence of ordinary fear as a stronger signal than
   fear
   itself?
-- Can BRD use interfere with Adrenaline Micro-Surge Detector readings?
-- Does repeated emotional smoothing affect long-term stress reporting?
-- Can hostile actors use stolen patches to bypass living security checks?
-- Should BRD be prohibited during interviews because it may flatten visible truth cues?
-- How much panic can be masked before the heart itself becomes unsafe?
+— Can BRD use interfere with Adrenaline Micro-Surge Detector readings?
+— Does repeated emotional smoothing affect long-term stress reporting?
+— Can hostile actors use stolen patches to bypass living security checks?
+— Should BRD be prohibited during interviews because it may flatten visible truth cues?
+— How much panic can be masked before the heart itself becomes unsafe?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Field Safety Desk / Medical Division / Engineering Division / Central Archive  
-**Review Status:** Active restricted record; pulse-sync and micro-injector details censored  
-**Next Review:** After any false green event, panic overload, cardiac reaction, or unauthorized concealment
-incident
+**Created:** 2026-09-15 **Author Desk:** Field Safety Desk / Medical Division / Engineering Division /
+Central Archive
+**Review Status:** Active restricted record; pulse-sync and micro-injector details censored **Next Review:** After any
+false green event, panic overload, cardiac reaction, or unauthorized concealment incident

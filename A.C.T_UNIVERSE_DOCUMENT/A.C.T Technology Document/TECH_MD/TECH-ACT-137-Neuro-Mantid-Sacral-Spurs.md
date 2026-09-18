@@ -127,8 +127,8 @@ Components:
   part
   of the
   system;
-- **Bio-Feed Connector**, seated against the sacral nerve group, the sole control path;
-- **pelvic frame**, adjustable, load-bearing, transfers stroke recoil into the operator's core;
+— **Bio-Feed Connector**, seated against the sacral nerve group, the sole control path;
+— **pelvic frame**, adjustable, load-bearing, transfers stroke recoil into the operator's core;
   **manual disconnect**, present on every fitted unit, which severs the bio-feed but does
   not
   remove the implant.
@@ -154,28 +154,23 @@ is permanent.
 
 Standing rules:
 
-  no operator is fitted on request alone. Fitment requires Field Command authorisation, Medical
-  clearance,
-  and
-  Transformation Review concurrence, because the implant alters the body and therefore falls under the
-  same review as
-  any other permanent modification;
-  a recovered reference connector must be present during calibration. A.C.T has never successfully
-  fitted
-  a unit without
-  one, and no fitment is scheduled without confirming the reference is on site;
-  the operator is told plainly, before consent, that the connector does not come
-  out;
-  no operator is fitted who has not completed the full recoil qualification. The
-  stroke
-  is transmitted through the
-  pelvis and an unqualified operator will injure themselves on their own hardware;
-  fitment is logged in the operator's medical file and in the Materials Custody
-  ledger,
-  because a fitted operator
-  carrying A.C.T hardware through a civilian medical system is a normalcy risk that Civil
-  Covert must be able to answer
-  for.
+no operator is fitted on request alone. Fitment requires Field Command authorisation, Medical clearance,
+and
+Transformation Review concurrence, because the implant alters the body and therefore falls under the
+same review as
+any other permanent modification; a recovered reference connector must be present during calibration. A.C.T
+has never
+successfully fitted a unit without one, and no fitment is scheduled without confirming the
+reference is on site; the
+operator is told plainly, before consent, that the connector does not come out; no
+operator is fitted who has not
+completed the full recoil qualification. The stroke is transmitted through the pelvis and an
+unqualified operator will
+injure themselves on their own hardware; fitment is logged in the operator's medical file
+and in the Materials Custody
+ledger, because a fitted operator carrying A.C.T hardware through a civilian medical system is
+a normalcy risk that
+Civil Covert must be able to answer for.
 
 Removal has never been performed. No procedure exists. An operator who leaves service keeps
 the implant, and Medical
@@ -300,15 +295,15 @@ entry exists for them.
   Are A.C.T's spurs derived from Guild Item-M2, or do both derive from the
   same
   source independently?
-- Why does a copied Bio-Feed Connector require a recovered reference to calibrate?
+— Why does a copied Bio-Feed Connector require a recovered reference to calibrate?
   What does the connector actually read from the sacral nerve group, and what
   does
   it send back?
-- Why do retired spur bodies differ in mass from their issue weight?
-- Can the implant ever be removed, and at what cost to the operator?
-- Does the matte-black finish serve a function, and why does polishing damage it?
-- Does long-term fitment change an operator beyond the recorded recoil injury?
-- Is the Guild aware that A.C.T holds a derivative of their hardware?
+— Why do retired spur bodies differ in mass from their issue weight?
+— Can the implant ever be removed, and at what cost to the operator?
+— Does the matte-black finish serve a function, and why does polishing damage it?
+— Does long-term fitment change an operator beyond the recorded recoil injury?
+— Is the Guild aware that A.C.T holds a derivative of their hardware?
 
 ---
 

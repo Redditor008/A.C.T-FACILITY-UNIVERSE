@@ -197,9 +197,9 @@ associated with force, security, and direct engagement.
   **Recovery Division**: Tasked with locating, securing, retrieving, and transporting anomalies from the field
   before
   public normalcy is compromised.
-- **Containment Division**: Designs, maintains, and enforces the systems, chambers, rituals, technologies, and
+— **Containment Division**: Designs, maintains, and enforces the systems, chambers, rituals, technologies, and
   procedures required to keep anomalies isolated and controlled.
-- **Military Division**: The most openly force-oriented branch, activated when anomalies require extreme suppression,
+— **Military Division**: The most openly force-oriented branch, activated when anomalies require extreme suppression,
   black-zone intervention, or overwhelming tactical response.
 
 ### East Wings
@@ -210,7 +210,7 @@ The **East Wings** represent information control, bureaucratic stability, and op
   **Intelligence Division**: Handles surveillance, internal security monitoring, witness suppression planning,
   external
   observation, infiltration analysis, and information forecasting.
-- **Task Management**: Coordinates personnel assignments, mission logistics, multi-division scheduling, response
+— **Task Management**: Coordinates personnel assignments, mission logistics, multi-division scheduling, response
   prioritization, and internal workflow across the site.
 
 ### South Wings
@@ -219,7 +219,7 @@ The **South Wings** hold the highest administrative and covert strategic functio
   **O5 Headquarters**: The secure operational seat for the Overseer Five Council’s presence, communications,
   and
   restricted directives.
-- **Company Development**: The arm responsible for institutional growth, shell-company networks, black-budget
+— **Company Development**: The arm responsible for institutional growth, shell-company networks, black-budget
   operations, acquisition planning, and the logistical evolution of A.C.T’s influence.
   **Civil Covert Division**: Handles public-facing manipulation from the shadows: cover identities, shell
   institutions,
@@ -233,7 +233,7 @@ The **North Wings** are the scientific and medical heart of the A.C.T Facility.
   **Transformation Division**: The branch dedicated to converting anomalies from unpredictable threats into
   stabilized,
   neutralized, repurposed, or integrated assets.
-- **Anomaly Lab Quarter**: A secured research district where controlled testing, specialized containment experiments,
+— **Anomaly Lab Quarter**: A secured research district where controlled testing, specialized containment experiments,
   and high-risk scientific operations are performed.
   **Medical Care Division**: Treats conventional injuries, anomalous contamination, memetic trauma, biohazard
   exposure,
@@ -249,7 +249,7 @@ it.
   **Surface Anomaly Containment**: A transitional containment layer for newly acquired or temporarily staged
   anomalies
   before permanent classification and relocation.
-- **Anomaly Document Research**: A restricted documentation nexus where recorded anomalous knowledge, case histories,
+— **Anomaly Document Research**: A restricted documentation nexus where recorded anomalous knowledge, case histories,
   and document-borne hazards are studied and preserved.
 
 The Central sector is the symbolic and literal core of A.C.T: where the hidden
@@ -351,10 +351,7 @@ act of categorization itself may be inaccurate, incomplete, or dangerous.
 ### Suggested File Format
 A.C.T anomaly files may be structured in layered format, such as:
 
-**AFD-OB-042**  
-**Containment Class:** REACTIVE  
-**Threat Level:** 4  
-**Transformation Viability:** CONTAINED-STUDY
+**AFD-OB-042** **Containment Class:** REACTIVE **Threat Level:** 4 **Transformation Viability:** CONTAINED-STUDY
 
 This allows personnel to identify the anomaly’s type, danger, containment behavior, and conversion potential
 at a
@@ -366,59 +363,58 @@ and the
 act of containment itself**.
 
 ### **INERT**
-*Will not leave the box, even if it can.*  
-These anomalies remain stable and passive under confinement, posing little active resistance.
+*Will not leave the box, even if it can.* These anomalies remain stable and
+passive under confinement, posing little
+active resistance.
 
 ### **RESIDUAL**
-*Scratches the walls, nothing more.*  
-The anomaly exerts minor interference but rarely escalates beyond manageable disruption.
+*Scratches the walls, nothing more.* The anomaly exerts minor interference but rarely escalates beyond
+manageable
+disruption.
 
 ### **SPORADIC**
-*Rarely breaks out, nothing unpredictable.*  
-Containment failure is uncommon and follows recognizable patterns.
+*Rarely breaks out, nothing unpredictable.* Containment failure is uncommon and follows recognizable patterns.
 
 ### **UNDISCLOSED**
-*Leaves by unknown means, returns by known ones.*  
-A deeply unsettling class in which exit conditions remain unexplained, even if recontainment patterns
-have been
-observed.
+*Leaves by unknown means, returns by known ones.* A deeply unsettling class in which
+exit conditions remain
+unexplained, even if recontainment patterns have been observed.
 
 ### **ENTROPIC**
-*Containment decays around it without maintenance.*  
-The anomaly degrades systems, order, or structural consistency simply by existing.
+*Containment decays around it without maintenance.* The anomaly degrades systems, order, or structural consistency
+simply by existing.
 
 ### **REACTIVE**
-*Containment fails the moment you look away.*  
-These anomalies require active monitoring and rapid procedural enforcement.
+*Containment fails the moment you look away.* These anomalies require active monitoring and rapid
+procedural
+enforcement.
 
 ### **EXIGENT**
-*Containment is a full-time 24/7 operation.*  
-The anomaly demands constant labor, resources, surveillance, and intervention.
+*Containment is a full-time 24/7 operation.* The anomaly demands constant labor, resources, surveillance, and
+intervention.
 
 ### **INVERTED**
-*It contains — does not merely need containing.*  
-This class implies that the anomaly itself is acting as a vessel, seal, barrier,
-or prison for something else.
+*It contains — does not merely need containing.* This class implies that the anomaly
+itself is acting as a vessel,
+seal, barrier, or prison for something else.
 
 ### **UNENCLOSABLE**
-*Too vast to enclose.*  
-These anomalies cannot be boxed, chambered, or physically bounded in a conventional sense.
+*Too vast to enclose.* These anomalies cannot be boxed, chambered, or physically bounded in
+a conventional sense.
 
 ### **INTANGIBLE**
-*Cannot be touched, only witnessed.*  
-Containment depends on perception control, information restriction, ritual procedure, or indirect interaction.
+*Cannot be touched, only witnessed.* Containment depends on perception control, information restriction, ritual
+procedure, or indirect interaction.
 
 ### **TIAMAT**
-*Beyond the frame of reference.*  
-The anomaly exceeds conventional containment logic and may operate on scales outside ordinary ontology,
-space-time, or
-causal law.
+*Beyond the frame of reference.* The anomaly exceeds conventional containment logic and may operate
+on scales outside
+ordinary ontology, space-time, or causal law.
 
 ### **[BLANK]**
-*Engagement is itself the threat.*  
-The most conceptually dangerous category, reserved for anomalies where observation, contact, naming, pursuit, or
-study
-may trigger escalation.
+*Engagement is itself the threat.* The most conceptually dangerous category, reserved for anomalies where
+observation,
+contact, naming, pursuit, or study may trigger escalation.
 
 ## 6. Threat Level
 Threat Level measures the scale of harm an anomaly may inflict if uncontained, mismanaged,
@@ -453,38 +449,37 @@ that some
 anomalies, once understood, may be altered in status.
 
 ### **INVIOLABLE**
-*Transformation is not an option.*  
-The anomaly cannot be altered, influenced, or repurposed without catastrophic consequence.
+*Transformation is not an option.* The anomaly cannot be altered, influenced, or repurposed without
+catastrophic
+consequence.
 
 ### **NEUTRAL**
-*Transformation is inadvisable.*  
-The anomaly is stable enough in containment, and the risk of experimentation outweighs the
-benefit.
+*Transformation is inadvisable.* The anomaly is stable enough in containment, and the risk of
+experimentation
+outweighs the benefit.
 
 ### **CONTAINED-STUDY**
-*Not ready for transformation.*  
-Research is active, but no operational transformation is authorized yet.
+*Not ready for transformation.* Research is active, but no operational transformation is authorized yet.
 
 ### **STABILIZED**
-*The anomaly has crossed the first threshold.*  
-Its behavior is predictable enough for controlled use beyond strict isolation.
+*The anomaly has crossed the first threshold.* Its behavior is predictable enough for controlled
+use beyond strict
+isolation.
 
 ### **NEUTRALIZED**
-*Its harmful effect has been suppressed or nullified.*  
-The anomaly no longer poses its original danger, though it may no longer be
-useful.
+*Its harmful effect has been suppressed or nullified.* The anomaly no longer poses its
+original danger, though it may
+no longer be useful.
 
 ### **REPURPOSED**
-*Its function has been redirected.*  
-The anomaly now serves a defined Facility purpose, such as logistics, surveillance, defense, medicine,
-or energy
-support.
+*Its function has been redirected.* The anomaly now serves a defined Facility purpose, such
+as logistics,
+surveillance, defense, medicine, or energy support.
 
 ### **INTEGRATED**
-*The anomaly has become part of A.C.T itself.*  
-At this stage, it is no longer treated as an external object of study,
-but as a permanent system component embedded
-within infrastructure, doctrine, or operational capacity.
+*The anomaly has become part of A.C.T itself.* At this stage, it is no
+longer treated as an external object of study,
+but as a permanent system component embedded within infrastructure, doctrine, or operational capacity.
 
 This scale also reinforces A.C.T’s gray morality: it does not merely survive anomalies; it
 seeks to use them.
@@ -492,9 +487,8 @@ seeks to use them.
 ## 8. Operational Doctrine
 The standard response order of the A.C.T Facility is:
 
-  **DETECT > VERIFY > CONCEAL > CONTAIN > ASSESS > RESEARCH > TRANSFORM
-  >
-  MAINTAIN**
+**DETECT > VERIFY > CONCEAL > CONTAIN > ASSESS > RESEARCH > TRANSFORM >
+MAINTAIN**
 
 Each step reflects the Facility’s worldview.
 
@@ -506,9 +500,9 @@ Each step reflects the Facility’s worldview.
   **CONCEAL**: Suppress public exposure, remove evidence, isolate witnesses, and stabilize the narrative before
   panic
   can spread.
-- **CONTAIN**: Apply immediate control, restriction, transport, or isolation measures.
-- **ASSESS**: Determine type, threat level, containment class, spread pattern, and interaction risk.
-- **RESEARCH**: Study origin, behavior, cosmological significance, and transformation potential.
+— **CONTAIN**: Apply immediate control, restriction, transport, or isolation measures.
+— **ASSESS**: Determine type, threat level, containment class, spread pattern, and interaction risk.
+— **RESEARCH**: Study origin, behavior, cosmological significance, and transformation potential.
   **TRANSFORM**: Where viable, convert the anomaly into a stable, neutralized, repurposed, or integrated
   state.
   **MAINTAIN**: Preserve long-term stability through surveillance, maintenance, policy revision, and recurring
@@ -557,13 +551,11 @@ local law.
 habitable, and
 intelligible. A.C.T doctrine describes it as existing on a scale between two catastrophic extremes:
 
-  **Void Collapse** — where reality loses coherence and falls into nullity, meaninglessness, or
-  total
-  dissolution.
-  **Reality Reset** — where existence is forcibly overwritten, restarted, or reformatted, erasing continuity
-  as
-  it was
-  known.
+**Void Collapse** — where reality loses coherence and falls into nullity, meaninglessness, or total
+dissolution.
+**Reality Reset** — where existence is forcibly overwritten, restarted, or reformatted, erasing continuity as
+it was
+known.
 
 Human civilization survives only while Structural Reality remains balanced between those two outcomes.
 

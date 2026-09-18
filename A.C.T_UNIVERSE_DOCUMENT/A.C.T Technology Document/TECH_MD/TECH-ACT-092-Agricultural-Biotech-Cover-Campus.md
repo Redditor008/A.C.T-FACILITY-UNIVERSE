@@ -174,8 +174,8 @@ alive.
 - ACT-SUB-01-US-W Glass Orchard Relay Sub-Site Dossier;
 - ACT-SUB-01-US-W-F-3 Surface Cover Level Floor Dossier;
 - ACT-SUB-01-US-W-F-2 Processing and Staging Level Floor Dossier;
-- TECH-ACT-091 - Intake Staging and Routing System;
-- TECH-ACT-055 - Silent Boundary System;
+- TECH-ACT-091 — Intake Staging and Routing System;
+- TECH-ACT-055 — Silent Boundary System;
 - Glass Orchard agricultural research ledgers [restricted].
 
 ---
@@ -193,10 +193,8 @@ alive.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Campus Manager / Sub-Site Chief / Central Archive
-**Review Status:** Active agricultural cover record; legal identity, vendor lists, crop lines, transition links,
-and
-delivery exceptions censored
-**Next Review:** After any cover audit, visitor challenge, crop-record mismatch, delivery anomaly, laboratory
+**Created:** 2026-09-16 **Author Desk:** Campus Manager / Sub-Site Chief / Central Archive **Review Status:**
+Active
+agricultural cover record; legal identity, vendor lists, crop lines, transition links, and delivery exceptions
+censored **Next Review:** After any cover audit, visitor challenge, crop-record mismatch, delivery anomaly, laboratory
 scrutiny, or boundary exposure event

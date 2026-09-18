@@ -190,7 +190,7 @@ OPEN QUESTIONS
 - Can high-frequency monitoring become another system for the resident to erode?
 - Should a stabilizing entropic resident ever be returned to F-3, or is stabilization
 another phase of attrition?
-- Does failure-tolerant containment hold the resident, or only buy enough time to choose
+— Does failure-tolerant containment hold the resident, or only buy enough time to choose
 a deeper answer?
 
 FILE METADATA

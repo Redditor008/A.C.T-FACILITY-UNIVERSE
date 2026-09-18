@@ -63,13 +63,13 @@ canonical registry:
 A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_GOI_Registry_and_External_Threat_Doctrine_Archive.md
 ```
 
-- `GOI-GV-P-001` - Government Anti Anomaly / GAA
+- `GOI-GV-P-001` — Government Anti Anomaly / GAA
   - [Markdown dossier](GOI-GV-P-001-Government-Anti-Anomaly-GAA.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-GV-P-001-Government-Anti-Anomaly-GAA.txt)
-- `GOI-ML-X-014` - Anti-Global Anomaly / A-GA
+- `GOI-ML-X-014` — Anti-Global Anomaly / A-GA
   - [Markdown dossier](GOI-ML-X-014-Anti-Global-Anomaly-A-GA.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-ML-X-014-Anti-Global-Anomaly-A-GA.txt)
-- `GOI-BS-T-027` - Anstrall Market
+- `GOI-BS-T-027` — Anstrall Market
   - [Markdown dossier](GOI-BS-T-027-Anstrall-Market.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-BS-T-027-Anstrall-Market.txt)
 
@@ -83,85 +83,85 @@ The following original dossiers were created under separate registry creation or
 from the
 twenty provisional roadmap candidates.
 
-- `GOI-CU-X-048` - Children of the Deep / CoTD
+- `GOI-CU-X-048` — Children of the Deep / CoTD
   - [Markdown dossier](GOI-CU-X-048-Children-of-the-Deep-CoTD.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-CU-X-048-Children-of-the-Deep-CoTD.txt)
-- `GOI-CP-B-049` - DREAM .INC / DREAM
+- `GOI-CP-B-049` — DREAM .INC / DREAM
   - [Markdown dossier](GOI-CP-B-049-DREAM-INC.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-CP-B-049-DREAM-INC.txt)
-- `GOI-ML-X-050` - Liberty Freedoms / L.F.
+- `GOI-ML-X-050` — Liberty Freedoms / L.F.
   - [Markdown dossier](GOI-ML-X-050-Liberty-Freedoms-LF.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-ML-X-050-Liberty-Freedoms-LF.txt)
-- `GOI-HY-U-051` - Mysterious Guild / The Guild
+- `GOI-HY-U-051` — Mysterious Guild / The Guild
   - [Markdown dossier](GOI-HY-U-051-Mysterious-Guild.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-HY-U-051-Mysterious-Guild.txt)
-- `GOI-HY-X-052` - Amazoo Circus / Amazoo
+- `GOI-HY-X-052` — Amazoo Circus / Amazoo
   - [Markdown dossier](GOI-HY-X-052-Amazoo-Circus.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-HY-X-052-Amazoo-Circus.txt)
-- `GOI-HY-W-053` - Missing 404 Watch Tower / M404-WT
+- `GOI-HY-W-053` — Missing 404 Watch Tower / M404-WT
   - [Markdown dossier](GOI-HY-W-053-Missing-404-Watch-Tower.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-HY-W-053-Missing-404-Watch-Tower.txt)
-- `GOI-CP-P-054` - Lullaby Works / LW
+- `GOI-CP-P-054` — Lullaby Works / LW
   - [Markdown dossier](GOI-CP-P-054-Lullaby-Works.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-CP-P-054-Lullaby-Works.txt)
-- `GOI-CP-W-055` - Cairn & Lintel / C&L
+- `GOI-CP-W-055` — Cairn & Lintel / C&L
   - [Markdown dossier](GOI-CP-W-055-Cairn-and-Lintel.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-CP-W-055-Cairn-and-Lintel.txt)
-- `GOI-CP-P-056` - Saint-Vera Restoration Concern / SVRC
+- `GOI-CP-P-056` — Saint-Vera Restoration Concern / SVRC
   - [Markdown dossier](GOI-CP-P-056-Saint-Vera-Restoration-Concern.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-CP-P-056-Saint-Vera-Restoration-Concern.txt)
-- `GOI-GV-W-057` - Bureau of Unquiet Borders / BUB
+- `GOI-GV-W-057` — Bureau of Unquiet Borders / BUB
   - [Markdown dossier](GOI-GV-W-057-Bureau-of-Unquiet-Borders.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-GV-W-057-Bureau-of-Unquiet-Borders.txt)
-- `GOI-GV-N-058` - Crown Office of Ash Keys / COAK
+- `GOI-GV-N-058` — Crown Office of Ash Keys / COAK
   - [Markdown dossier](GOI-GV-N-058-Crown-Office-of-Ash-Keys.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-GV-N-058-Crown-Office-of-Ash-Keys.txt)
-- `GOI-GV-P-059` - Grey Harbor Civil Rescue Directorate / GHCRD
+- `GOI-GV-P-059` — Grey Harbor Civil Rescue Directorate / GHCRD
   - [Markdown dossier](GOI-GV-P-059-Grey-Harbor-Civil-Rescue-Directorate.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-GV-P-059-Grey-Harbor-Civil-Rescue-Directorate.txt)
-- `GOI-GV-X-060` - Office for Witness Continuance / OWC
+- `GOI-GV-X-060` — Office for Witness Continuance / OWC
   - [Markdown dossier](GOI-GV-X-060-Office-for-Witness-Continuance.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-GV-X-060-Office-for-Witness-Continuance.txt)
-- `GOI-CU-P-061` - The Kindly Molt / TKM
+- `GOI-CU-P-061` — The Kindly Molt / TKM
   - [Markdown dossier](GOI-CU-P-061-The-Kindly-Molt.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-CU-P-061-The-Kindly-Molt.txt)
-- `GOI-CU-X-062` - Choir of the Unforgotten Name / CUN
+- `GOI-CU-X-062` — Choir of the Unforgotten Name / CUN
   - [Markdown dossier](GOI-CU-X-062-Choir-of-the-Unforgotten-Name.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-CU-X-062-Choir-of-the-Unforgotten-Name.txt)
-- `GOI-CU-N-063` - Keepers of the Ninth Reliquary / KNR
+- `GOI-CU-N-063` — Keepers of the Ninth Reliquary / KNR
   - [Markdown dossier](GOI-CU-N-063-Keepers-of-the-Ninth-Reliquary.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-CU-N-063-Keepers-of-the-Ninth-Reliquary.txt)
-- `GOI-CU-P-064` - Last Bell Congregation / LBC
+- `GOI-CU-P-064` — Last Bell Congregation / LBC
   - [Markdown dossier](GOI-CU-P-064-Last-Bell-Congregation.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-CU-P-064-Last-Bell-Congregation.txt)
-- `GOI-CU-X-065` - Mercy of the Quiet Sun / MQS
+- `GOI-CU-X-065` — Mercy of the Quiet Sun / MQS
   - [Markdown dossier](GOI-CU-X-065-Mercy-of-the-Quiet-Sun.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-CU-X-065-Mercy-of-the-Quiet-Sun.txt)
-- `GOI-CU-W-066` - Archivists of the Final Dawn / AFDN
+- `GOI-CU-W-066` — Archivists of the Final Dawn / AFDN
   - [Markdown dossier](GOI-CU-W-066-Archivists-of-the-Final-Dawn.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-CU-W-066-Archivists-of-the-Final-Dawn.txt)
-- `GOI-BS-P-067` - Candle-Under Exchange / CUE
+- `GOI-BS-P-067` — Candle-Under Exchange / CUE
   - [Markdown dossier](GOI-BS-P-067-Candle-Under-Exchange.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-BS-P-067-Candle-Under-Exchange.txt)
-- `GOI-BS-N-068` - Velvet Provenance House / VPH
+- `GOI-BS-N-068` — Velvet Provenance House / VPH
   - [Markdown dossier](GOI-BS-N-068-Velvet-Provenance-House.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-BS-N-068-Velvet-Provenance-House.txt)
-- `GOI-BS-X-069` - Namewright Bazaar / NBZ
+- `GOI-BS-X-069` — Namewright Bazaar / NBZ
   - [Markdown dossier](GOI-BS-X-069-Namewright-Bazaar.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-BS-X-069-Namewright-Bazaar.txt)
-- `GOI-BS-W-070` - Saint Morrow Passage / SMP
+- `GOI-BS-W-070` — Saint Morrow Passage / SMP
   - [Markdown dossier](GOI-BS-W-070-Saint-Morrow-Passage.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-BS-W-070-Saint-Morrow-Passage.txt)
-- `GOI-HY-P-071` - Mercy Lock Institute / MLI
+- `GOI-HY-P-071` — Mercy Lock Institute / MLI
   - [Markdown dossier](GOI-HY-P-071-Mercy-Lock-Institute.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-HY-P-071-Mercy-Lock-Institute.txt)
-- `GOI-HY-X-072` - Iron Meridian Authority / IMA
+- `GOI-HY-X-072` — Iron Meridian Authority / IMA
   - [Markdown dossier](GOI-HY-X-072-Iron-Meridian-Authority.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-HY-X-072-Iron-Meridian-Authority.txt)
-- `GOI-HY-W-073` - Lantern Accord / LTA
+- `GOI-HY-W-073` — Lantern Accord / LTA
   - [Markdown dossier](GOI-HY-W-073-Lantern-Accord.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-HY-W-073-Lantern-Accord.txt)
-- `GOI-HY-N-074` - Ninefold Ark / NFA
+- `GOI-HY-N-074` — Ninefold Ark / NFA
   - [Markdown dossier](GOI-HY-N-074-Ninefold-Ark.md)
   - [Plain-text reading copy](../GOI_TXT/GOI-HY-N-074-Ninefold-Ark.txt)
 
@@ -182,8 +182,8 @@ buildings.
 Liberty Freedoms is a Militant / Negative / Transnational / Handler group assessed at
 Threat Level 4 and classified
 Exposure-Active. It is a dispersed insurgency of assessed defector origin that treats A.C.T custody
-itself -
-containment, Transformation, secrecy, and research alike - as the enemy, raids transport and recovery
+itself —
+containment, Transformation, secrecy, and research alike — as the enemy, raids transport and recovery
 operations,
 publishes controlled document leaks, transports anomalies that have left containment with it, and recruits
 former
@@ -458,16 +458,16 @@ dossier pending later registry-integration work.
 
 ## Planning material - not individual GOI dossiers
 
-- [00_GOI_Development_Roadmap.md](00_GOI_Development_Roadmap.md) - Retained twenty-slot structural scaffold for GOI
+- [00_GOI_Development_Roadmap.md](00_GOI_Development_Roadmap.md) — Retained twenty-slot structural scaffold for GOI
   category planning; listed names/designations are not approved GOIs.
-- [00_GOI_Record_Template.md](00_GOI_Record_Template.md) - Universal controlled in-world archive form for a future
+— [00_GOI_Record_Template.md](00_GOI_Record_Template.md) — Universal controlled in-world archive form for a future
   approved original GOI dossier.
-  [00_GOI_Recovered_Document_Format.md](00_GOI_Recovered_Document_Format.md) - Controlled in-world format for
+  [00_GOI_Recovered_Document_Format.md](00_GOI_Recovered_Document_Format.md) — Controlled in-world format for
   recovered
   or intercepted GOI-origin documents.
-  [Recovered_Document_Records/](Recovered_Document_Records/) - Holding folder for future recovered GOI document
+  [Recovered_Document_Records/](Recovered_Document_Records/) — Holding folder for future recovered GOI document
   records.
-- `README.md` - This folder guide.
+— `README.md` — This folder guide.
 
 The twenty roadmap/scaffold entries remain in the master roadmap only. They do **not** have
 individual GOI files, and
@@ -497,21 +497,16 @@ file, rather than treating the scaffold list as a finished menu.
 
 The controlled production rule for new GOIs remains active:
 
-   Central Archive issues a registry creation order for the GOI or GOIs. A
-   selected
-   GOI may come from an anomaly mention,
-   a new approved name, or a rewritten scaffold slot; scaffold names are not assumed
-   approved.
-   Each selected new GOI receives one detailed Markdown dossier in `GOI_MD/` and one
-   matching
-   plain-text reading copy in
-   `GOI_TXT/`.
-   Each pair is checked for universal format, continuity, classification, originality, tone, and requested
-   revisions.
-   No extra unselected original GOI dossier pair is created from the scaffold list
-   or
-   from scan results without Central
-   Archive approval.
+Central Archive issues a registry creation order for the GOI or GOIs. A selected
+GOI may come from an anomaly mention,
+a new approved name, or a rewritten scaffold slot; scaffold names are not assumed
+approved. Each selected new GOI
+receives one detailed Markdown dossier in `GOI_MD/` and one matching plain-text reading copy in
+`GOI_TXT/`. Each pair
+is checked for universal format, continuity, classification, originality, tone, and requested revisions. No extra
+unselected original GOI dossier pair is created from the scaffold list or from scan
+results without Central Archive
+approval.
 
 Expanding, correcting, or reviewing an existing source-registry dossier does not count as creating a
 new original GOI.
@@ -545,29 +540,20 @@ during that individual creation phase.
 
 Every future original GOI in this folder must remain an original A.C.T. core creation:
 
-  It must use A.C.T.'s existing GOI classification stack: Nature Class, Alignment Class, Reach
-  Class,
-  Anomalous
-  Capability, Threat Level, Secrecy Risk, and A.C.T. Posture.
-  It must serve a distinct role around Structural Reality, secrecy, containment, Transformation, site
-  jurisdiction,
-  or
-  the human cost of those systems.
-  It must not duplicate the core role of GAA, A-GA, Anstrall Market, Children
-  of
-  the Deep, DREAM .INC, or Liberty
-  Freedoms.
-  It must not turn A.C.T. into an SCP derivative, a Project Moon crossover,
-  or
-  a generic clone of another fictional
-  organization.
-  It must not use source material, events, characters, assets, or lore from `A.C.T_UNIVERSE_DOCUMENT/A.C.T
-  Anomaly
-  Document/Emergent Reality Anomaly/`, including all 715 material.
-  It must not alter the First Lie, ERE, ITHYOS, NEMNOLIA, founder self-erasure, or
-  protected
-  main-story revelations
-  without later explicit Central Archive direction.
+It must use A.C.T.'s existing GOI classification stack: Nature Class, Alignment Class, Reach Class,
+Anomalous
+Capability, Threat Level, Secrecy Risk, and A.C.T. Posture. It must serve a distinct role
+around Structural Reality,
+secrecy, containment, Transformation, site jurisdiction, or the human cost of those systems. It must
+not duplicate the
+core role of GAA, A-GA, Anstrall Market, Children of the Deep, DREAM .INC, or
+Liberty Freedoms. It must not turn
+A.C.T. into an SCP derivative, a Project Moon crossover, or a generic clone of
+another fictional organization. It must
+not use source material, events, characters, assets, or lore from `A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly
+Document/Emergent Reality Anomaly/`, including all 715 material. It must not alter the First Lie,
+ERE, ITHYOS,
+NEMNOLIA, founder self-erasure, or protected main-story revelations without later explicit Central Archive direction.
 
 ---
 

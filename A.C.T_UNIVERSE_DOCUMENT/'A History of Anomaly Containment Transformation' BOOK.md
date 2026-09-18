@@ -74,79 +74,79 @@ functions. This volume keeps those functions but gathers them into one continuou
 ## Table of Contents
 
 ### Book I — The Facility and Its Burden
-1. The A.C.T Facility in Full View  
-2. The Meaning of the Name  
-3. The Main Goal  
-4. Containment as First Duty  
-5. Transformation as Long-Term Doctrine  
-6. Research as the Deep Heart of A.C.T  
-7. Secrecy as Structural Necessity  
-8. The Site Network and Distributed Body of A.C.T  
-9. Gray Morality and the Ethics of Survival  
-10. The Motto and the Burden It Condenses  
+1. The A.C.T Facility in Full View
+2. The Meaning of the Name
+3. The Main Goal
+4. Containment as First Duty
+5. Transformation as Long-Term Doctrine
+6. Research as the Deep Heart of A.C.T
+7. Secrecy as Structural Necessity
+8. The Site Network and Distributed Body of A.C.T
+9. Gray Morality and the Ethics of Survival
+10. The Motto and the Burden It Condenses
 
 ### Book II — Structure, Command, and Buried Daily Life
-11. The Internal Structure of the Facility  
-12. The Command Chain  
-13. The Wings of the Facility  
-14. Clearance and Survivable Knowledge  
-15. The Facility as a Living System  
-16. Recruitment, Internalization, and Daily Operation  
-16A. Operational Culture and Division Function in Daily Practice  
-17. E-Class, Discipline, and Psychological Attrition  
+11. The Internal Structure of the Facility
+12. The Command Chain
+13. The Wings of the Facility
+14. Clearance and Survivable Knowledge
+15. The Facility as a Living System
+16. Recruitment, Internalization, and Daily Operation
+16A. Operational Culture and Division Function in Daily Practice
+17. E-Class, Discipline, and Psychological Attrition
 
 ### Book III — Reality Doctrine and Anomaly Logic
-18. Anomalies as Breaks in the Law of Reality  
-19. Structural Reality, Void Collapse, and Reality Reset  
-20. Reality Bending as Hidden Nature  
-21. Designation Systems and the Language of the Archive  
-22. Official File Categories  
-22A. The Standard Format — Full Field Structure  
-22B. The RCT Format — Full Block Structure  
-22C. File Saving Convention and Designation Reference  
-23. Containment Classes  
-24. Threat Level  
-25. Fracture Index  
-26. Transformation Viability  
-26A. Transformation Authorization Protocol in Full  
-27. Containment Procedure Writing and Breach Logic  
-27A. Containment Structure Categories Explained  
-28. Observation Restrictions, Breach States, and Information Suppression  
-28A. The Twelve Anomaly Log Categories  
+18. Anomalies as Breaks in the Law of Reality
+19. Structural Reality, Void Collapse, and Reality Reset
+20. Reality Bending as Hidden Nature
+21. Designation Systems and the Language of the Archive
+22. Official File Categories
+22A. The Standard Format — Full Field Structure
+22B. The RCT Format — Full Block Structure
+22C. File Saving Convention and Designation Reference
+23. Containment Classes
+24. Threat Level
+25. Fracture Index
+26. Transformation Viability
+26A. Transformation Authorization Protocol in Full
+27. Containment Procedure Writing and Breach Logic
+27A. Containment Structure Categories Explained
+28. Observation Restrictions, Breach States, and Information Suppression
+28A. The Twelve Anomaly Log Categories
 
 ### Book IV — Sites, Jurisdiction, and the Hidden Global Lattice
-29. What a Site Is  
-30. Site Registry Doctrine and Writing Standard  
-31. Jurisdiction and Hidden Territorial Control  
-32. The Global Site Registry  
-33. The Supporting Sub-Sites in Full  
+29. What a Site Is
+30. Site Registry Doctrine and Writing Standard
+31. Jurisdiction and Hidden Territorial Control
+32. The Global Site Registry
+33. The Supporting Sub-Sites in Full
 
 ### Book V — External Powers, Rival Structures, and the Organized World Around the
 Anomalous
-34. What Qualifies as a GOI  
-35. GOI Designation and Classification  
-36. External Threat Doctrine  
-37. Sample GOIs  
+34. What Qualifies as a GOI
+35. GOI Designation and Classification
+36. External Threat Doctrine
+37. Sample GOIs
 
 ### Book VI — The Deep History of A.C.T and the ABYSS Origin
-38. Before the Facility Had a Name  
-39. The First Signs  
-40. First Deployment  
-41. ENTITY-000 and the First Doctrine  
-42. The Founding of A.C.T  
-43. Construction of the ABYSS Floor  
-44. The First Doctrine and the Birth of Modern A.C.T  
+38. Before the Facility Had a Name
+39. The First Signs
+40. First Deployment
+41. ENTITY-000 and the First Doctrine
+42. The Founding of A.C.T
+43. Construction of the ABYSS Floor
+44. The First Doctrine and the Birth of Modern A.C.T
 
 ### Book VII — Representative Foundational Anomalies
-45. ITHYOS, The World-Sleeper  
-46. NEMNOLIA, The Golden Veil / The Forgetting Bloom  
-46A. The 004-Series Amnestic Compound Reference  
+45. ITHYOS, The World-Sleeper
+46. NEMNOLIA, The Golden Veil / The Forgetting Bloom
+46A. The 004-Series Amnestic Compound Reference
 
 ### Book VIII — Final Synthesis and Reference Aid
-47. What Makes A.C.T Distinct  
-48. Glossary of Core Terms  
-49. Quick Reference Index  
-50. Closing Assessment  
+47. What Makes A.C.T Distinct
+48. Glossary of Core Terms
+49. Quick Reference Index
+50. Closing Assessment
 
 ---
 
@@ -501,9 +501,8 @@ identity of the setting.
 
 ### Chapter 10 — The Motto and the Burden It Condenses
 
-  **“To A.C.T is to maintain the normalcy and the stability of Earth and
-  its
-  populace.”**
+**“To A.C.T is to maintain the normalcy and the stability of Earth and its
+populace.”**
 
 This motto serves as the guiding philosophy of the Facility and summarizes the burden
 of its existence. Within A.C.T
@@ -730,9 +729,9 @@ associated with force, security, and direct engagement.
   **Recovery Division**: Tasked with locating, securing, retrieving, and transporting anomalies from the field
   before
   public normalcy is compromised.
-- **Containment Division**: Designs, maintains, and enforces the systems, chambers, rituals, technologies, and
+— **Containment Division**: Designs, maintains, and enforces the systems, chambers, rituals, technologies, and
   procedures required to keep anomalies isolated and controlled.
-- **Military Division**: The most openly force-oriented branch, activated when anomalies require extreme suppression,
+— **Military Division**: The most openly force-oriented branch, activated when anomalies require extreme suppression,
   black-zone intervention, or overwhelming tactical response.
 
 The West side of the Facility is therefore the side that acts with force
@@ -746,7 +745,7 @@ The **East Wings** represent information control, bureaucratic stability, and op
   **Intelligence Division**: Handles surveillance, internal security monitoring, witness suppression planning,
   external
   observation, infiltration analysis, and information forecasting.
-- **Task Management**: Coordinates personnel assignments, mission logistics, multi-division scheduling, response
+— **Task Management**: Coordinates personnel assignments, mission logistics, multi-division scheduling, response
   prioritization, and internal workflow across the site.
 
 The East side is the memory and information-body of A.C.T. It is where the
@@ -759,7 +758,7 @@ The **South Wings** hold the highest administrative and covert strategic functio
   **O5 Headquarters**: The secure operational seat for the Overseer Five Council’s presence, communications,
   and
   restricted directives.
-- **Company Development**: The arm responsible for institutional growth, shell-company networks, black-budget
+— **Company Development**: The arm responsible for institutional growth, shell-company networks, black-budget
   operations, acquisition planning, and the logistical evolution of A.C.T’s influence.
   **Civil Covert Division**: Handles public-facing manipulation from the shadows: cover identities, shell
   institutions,
@@ -777,7 +776,7 @@ The **North Wings** are the scientific and medical heart of the A.C.T Facility.
   **Transformation Division**: The branch dedicated to converting anomalies from unpredictable threats into
   stabilized,
   neutralized, repurposed, or integrated assets.
-- **Anomaly Lab Quarter**: A secured research district where controlled testing, specialized containment experiments,
+— **Anomaly Lab Quarter**: A secured research district where controlled testing, specialized containment experiments,
   and high-risk scientific operations are performed.
   **Medical Care Division**: Treats conventional injuries, anomalous contamination, memetic trauma, biohazard
   exposure,
@@ -795,7 +794,7 @@ it.
   **Surface Anomaly Containment**: A transitional containment layer for newly acquired or temporarily staged
   anomalies
   before permanent classification and relocation.
-- **Anomaly Document Research**: A restricted documentation nexus where recorded anomalous knowledge, case histories,
+— **Anomaly Document Research**: A restricted documentation nexus where recorded anomalous knowledge, case histories,
   and document-borne hazards are studied and preserved.
 
 The Central sector is the symbolic and literal core of A.C.T: where the hidden
@@ -936,7 +935,7 @@ Daily life inside A.C.T varies by division, but several constants remain:
   every staff member knows less than they want to know and more than
   they
   should know
-- every shift assumes the impossible may become physical
+— every shift assumes the impossible may become physical
 
 A normal day may include:
 - containment review
@@ -1124,13 +1123,11 @@ stuff.” It is evidence that existence itself is vulnerable to interruption.
 habitable, and
 intelligible. A.C.T doctrine describes it as existing on a scale between two catastrophic extremes:
 
-  **Void Collapse** — where reality loses coherence and falls into nullity, meaninglessness, or
-  total
-  dissolution.
-  **Reality Reset** — where existence is forcibly overwritten, restarted, or reformatted, erasing continuity
-  as
-  it was
-  known.
+**Void Collapse** — where reality loses coherence and falls into nullity, meaninglessness, or total
+dissolution.
+**Reality Reset** — where existence is forcibly overwritten, restarted, or reformatted, erasing continuity as
+it was
+known.
 
 Human civilization survives only while Structural Reality remains balanced between those two outcomes.
 
@@ -1250,9 +1247,9 @@ Each step reflects the Facility’s worldview:
   **CONCEAL**: Suppress public exposure, remove evidence, isolate witnesses, and stabilize the narrative before
   panic
   can spread.
-- **CONTAIN**: Apply immediate control, restriction, transport, or isolation measures.
-- **ASSESS**: Determine type, threat level, containment class, spread pattern, and interaction risk.
-- **RESEARCH**: Study origin, behavior, cosmological significance, and transformation potential.
+— **CONTAIN**: Apply immediate control, restriction, transport, or isolation measures.
+— **ASSESS**: Determine type, threat level, containment class, spread pattern, and interaction risk.
+— **RESEARCH**: Study origin, behavior, cosmological significance, and transformation potential.
   **TRANSFORM**: Where viable, convert the anomaly into a stable, neutralized, repurposed, or integrated
   state.
   **MAINTAIN**: Preserve long-term stability through surveillance, maintenance, policy revision, and recurring
@@ -1313,9 +1310,8 @@ The Standard Format includes:
 
 It answers the question:
 
-  **What is this anomaly, how dangerous is it, how is it contained, and
-  what
-  is its place in A.C.T archive logic?**
+**What is this anomaly, how dangerous is it, how is it contained, and what
+is its place in A.C.T archive logic?**
 
 #### The RCT Format
 The **RCT Format** is a specialized anomaly record focused on three operational axes:
@@ -1329,15 +1325,14 @@ operational body under continuing containment strain, live research pressure, an
 
 It answers the question:
 
-  **How are we holding it, what are we learning from it, and can
-  it
-  be changed into something useful without destroying
-  ourselves?**
+**How are we holding it, what are we learning from it, and can it
+be changed into something useful without destroying
+ourselves?**
 
 #### Relationship Between the Two
 These are not competing systems.
-- **Standard Format** = full archival identity
-- **RCT Format** = live operational handling body
+— **Standard Format** = full archival identity
+— **RCT Format** = live operational handling body
 
 A single anomaly may possess both if its significance justifies dual-record status.
 
@@ -1355,53 +1350,51 @@ location flavor.
 The Standard Format is the primary anomaly archive structure. Its field-by-field architecture is as
 follows:
 
-**Classification Block:**  
-DESIGNATION (UFD or AFD with field type and registry number, plus ANM fracture designation
-if applicable) • TITLES
-(Title I: primary title; Title II: secondary or alternate title) • FIELD TYPE (OB,
-SU, PL, TI, SP, ME, IH, CH, NB, or
-?.H) • CLEARANCE REQUIRED (Non-Access, Level E, Level 0–5, or O5 Access) • CONTAINMENT
-CLASS (INERT through [BLANK]) •
-FRACTURE INDEX — CONTAINMENT (NONE through SCHRÖDINGER) • THREAT LEVEL (0 through 10) •
-FRACTURE INDEX — SUB-THREAT
-(NONE through NULLIFIED) • TRANSFORMATION VIABILITY (INVIOLABLE through INTEGRATED)
+**Classification Block:** DESIGNATION (UFD or AFD with field type and registry number, plus ANM
+fracture designation
+if applicable) • TITLES (Title I: primary title; Title II: secondary or alternate title)
+• FIELD TYPE (OB, SU, PL, TI,
+SP, ME, IH, CH, NB, or ?.H) • CLEARANCE REQUIRED (Non-Access, Level E, Level
+0–5, or O5 Access) • CONTAINMENT CLASS
+(INERT through [BLANK]) • FRACTURE INDEX — CONTAINMENT (NONE through SCHRÖDINGER) • THREAT LEVEL
+(0 through 10) •
+FRACTURE INDEX — SUB-THREAT (NONE through NULLIFIED) • TRANSFORMATION VIABILITY (INVIOLABLE through INTEGRATED)
 
-**Discovery Block:**  
-DATE OF DETECTION • VERIFICATION DATE • LOCATION • DISCOVERY METHOD (Civilian Report, Sensor
-Detection, Intelligence
-Channel, A.C.T Patrol, Anomaly-Triggered Event, Minor Pause Correlation, or Other) • INITIAL RESPONSE OPERATION
-•
-RESPONDING UNIT • RESPONDING FIELD OPERATOR • CIVILIAN EXPOSURE (None, Minimal, Moderate, Severe, or
-Full) • AMNESTIC
-DEPLOYED (Yes/No with class and scope) • NARRATIVE STATUS (Controlled, Partial, Compromised, or Collapsed)
+**Discovery Block:** DATE OF DETECTION • VERIFICATION DATE • LOCATION • DISCOVERY METHOD (Civilian
+Report, Sensor
+Detection, Intelligence Channel, A.C.T Patrol, Anomaly-Triggered Event, Minor Pause Correlation, or Other) • INITIAL
+RESPONSE OPERATION • RESPONDING UNIT • RESPONDING FIELD OPERATOR • CIVILIAN EXPOSURE (None, Minimal,
+Moderate, Severe,
+or Full) • AMNESTIC DEPLOYED (Yes/No with class and scope) • NARRATIVE STATUS (Controlled,
+Partial, Compromised, or
+Collapsed)
 
-**Description Block:**  
-Full narrative description of the anomaly’s appearance, behavior, nature, and observable properties. Written in
-clinical, objective tone. Document what is known. Mark what is not known. Mark what
-is suspected. Do not speculate
-without flagging it as such. For ?.H-designated anomalies: note all observed form shifts, categorization
-failures, and
-any conditions under which the anomaly changed its ontological status.
+**Description Block:** Full narrative description of the anomaly’s appearance, behavior, nature, and observable
+properties. Written in clinical, objective tone. Document what is known. Mark what is not
+known. Mark what is
+suspected. Do not speculate without flagging it as such. For ?.H-designated anomalies: note all
+observed form shifts,
+categorization failures, and any conditions under which the anomaly changed its ontological status.
 
-**Anomalous Properties Block:**  
-PRIMARY EFFECT (core anomalous function or influence on reality, matter, time, mind, biology, or
-structural law) •
-SECONDARY EFFECT (peripheral, conditional, or secondary behaviors; N/A if none) • TRIGGER CONDITION (what
-causes
-activation; SPONTANEOUS if no trigger identified; MINOR PAUSE CORRELATION if linked to Cosmic Timer
-iteration) • RANGE
-/ AREA OF INFLUENCE (Meters, Kilometers, Variable, Unlimited, Non-Spatial, or Unknown) • TEMPORAL BEHAVIOR
-(Constant,
-Intermittent, Cyclic, Event-Triggered, Minor Pause-Synced, or Unknown) • REALITY INTERACTION (None, Local Distortion,
-Regional Distortion, Causal Violation, Structural Weakening, Void Collapse Trajectory, Reality Reset Trajectory, or
-Unknown)
+**Anomalous Properties Block:** PRIMARY EFFECT (core anomalous function or influence on reality, matter, time,
+mind,
+biology, or structural law) • SECONDARY EFFECT (peripheral, conditional, or secondary behaviors; N/A if
+none) •
+TRIGGER CONDITION (what causes activation; SPONTANEOUS if no trigger identified; MINOR PAUSE CORRELATION if
+linked to
+Cosmic Timer iteration) • RANGE / AREA OF INFLUENCE (Meters, Kilometers, Variable, Unlimited, Non-Spatial,
+or Unknown)
+• TEMPORAL BEHAVIOR (Constant, Intermittent, Cyclic, Event-Triggered, Minor Pause-Synced, or Unknown) • REALITY
+INTERACTION (None, Local Distortion, Regional Distortion, Causal Violation, Structural Weakening, Void Collapse
+Trajectory, Reality Reset Trajectory, or Unknown)
 
-**Containment Procedures Block:**  
-Detailed containment protocol specifying physical requirements, environmental conditions, personnel assignments,
-monitoring schedules, maintenance cycles, and emergency procedures. Written with precision — ambiguity in containment
-procedure is a breach waiting to happen. For [BLANK]-class anomalies: do not write containment
-procedures. File should
-contain only the classification header and a single line: “ENGAGEMENT PROHIBITED. NO PROCEDURE AUTHORIZED.”
+**Containment Procedures Block:** Detailed containment protocol specifying physical requirements, environmental
+conditions, personnel assignments, monitoring schedules, maintenance cycles, and emergency procedures. Written with
+precision — ambiguity in containment procedure is a breach waiting to happen. For [BLANK]-class
+anomalies: do not
+write containment procedures. File should contain only the classification header and a single line:
+“ENGAGEMENT
+PROHIBITED. NO PROCEDURE AUTHORIZED.”
 
 Sub-fields: CONTAINMENT SITE • SITE TYPE • JURISDICTIONAL AUTHORITY • CONTAINING DIVISION • REQUIRED
 PERSONNEL •
@@ -1411,56 +1404,50 @@ containment, endangers public normalcy, causes distortion in reality/Earth/time/
 memetic/informational/biological contamination, resists classification and escalates, transforms environment into
 anomalous zone)
 
-**Research Log Summary Block:**  
-LEAD RESEARCHER • CURRENT RESEARCH PHASE (Observation, Experimentation, Analysis, Theoretical Modeling, Transformation
-Trial, Suspended, or N/A) • SUMMARY OF FINDINGS (brief summary referencing full research logs
-by entry number; note
-any Minor Pause events, Structural Reality stress, or Cosmic Timer iteration data)
+**Research Log Summary Block:** LEAD RESEARCHER • CURRENT RESEARCH PHASE (Observation, Experimentation, Analysis,
+Theoretical Modeling, Transformation Trial, Suspended, or N/A) • SUMMARY OF FINDINGS (brief summary referencing
+full
+research logs by entry number; note any Minor Pause events, Structural Reality stress, or
+Cosmic Timer iteration data)
 
-**Transformation Status Block:**  
-CURRENT VIABILITY • TRANSFORMATION ATTEMPT HISTORY (number and result of most recent attempt) •
-TRANSFORMATION NOTES
-(summary of attempts, outcomes, and current trajectory; if STABILIZED or above, document what role
-the anomaly now
-serves; N/A if INVIOLABLE or NEUTRAL)
+**Transformation Status Block:** CURRENT VIABILITY • TRANSFORMATION ATTEMPT HISTORY (number and result of most
+recent
+attempt) • TRANSFORMATION NOTES (summary of attempts, outcomes, and current trajectory; if STABILIZED or
+above,
+document what role the anomaly now serves; N/A if INVIOLABLE or NEUTRAL)
 
-**Incident Log Summary Block:**  
-TOTAL INCIDENTS • LAST INCIDENT DATE • HIGHEST SEVERITY (Minor, Moderate, Major, Critical, or
-Catastrophic) • NOTABLE
-INCIDENTS (brief summaries of significant breach events, containment failures, anomalous behavior shifts, reality
-distortion events, or personnel casualties; note whether each constituted a formal breach and whether
-Structural
-Reality stability was affected)
+**Incident Log Summary Block:** TOTAL INCIDENTS • LAST INCIDENT DATE • HIGHEST SEVERITY (Minor,
+Moderate, Major,
+Critical, or Catastrophic) • NOTABLE INCIDENTS (brief summaries of significant breach events, containment failures,
+anomalous behavior shifts, reality distortion events, or personnel casualties; note whether each constituted a
+formal
+breach and whether Structural Reality stability was affected)
 
-**Personnel Record Block:**  
-ASSIGNED PERSONNEL (currently assigned, name and rank) • PREVIOUSLY ASSIGNED (reassigned, retired, or lost;
-note
-reason) • CASUALTIES (personnel lost due to direct anomaly contact) • AMNESTIC-ADMINISTERED (personnel who
-received
-amnestic treatment following exposure) • E-CLASS ASSIGNED (Yes/No, number and purpose if yes)
+**Personnel Record Block:** ASSIGNED PERSONNEL (currently assigned, name and rank) • PREVIOUSLY ASSIGNED (reassigned,
+retired, or lost; note reason) • CASUALTIES (personnel lost due to direct anomaly contact)
+• AMNESTIC-ADMINISTERED
+(personnel who received amnestic treatment following exposure) • E-CLASS ASSIGNED (Yes/No, number and purpose
+if yes)
 
-**Reality Theory Notes Block:**  
-Reserved for anomalies that demonstrate correlation with Foundational Reality Theory. Complete only if applicable.  
-STRUCTURAL REALITY IMPACT (None, Minor Stress, Moderate Weakening, Severe Destabilization, Void Collapse Trajectory,
-or Reality Reset Trajectory) • MINOR PAUSE CORRELATION (None, Suspected, Confirmed, or Unknown) •
-COSMIC TIMER
-ITERATION LINK • REALITY BENDING OBSERVED (Yes/No with description of what law shifted, what
-pressure caused it, and
-whether the effect is ongoing, cyclic, or resolved) • THEORY NOTES (analysis of how
-this anomaly relates to the
-broader cosmological framework; reference reality theory research logs by number)
+**Reality Theory Notes Block:** Reserved for anomalies that demonstrate correlation with Foundational Reality Theory.
+Complete only if applicable. STRUCTURAL REALITY IMPACT (None, Minor Stress, Moderate Weakening, Severe
+Destabilization, Void Collapse Trajectory, or Reality Reset Trajectory) • MINOR PAUSE CORRELATION (None, Suspected,
+Confirmed, or Unknown) • COSMIC TIMER ITERATION LINK • REALITY BENDING OBSERVED (Yes/No with
+description of what law
+shifted, what pressure caused it, and whether the effect is ongoing, cyclic, or resolved)
+• THEORY NOTES (analysis of
+how this anomaly relates to the broader cosmological framework; reference reality theory research logs
+by number)
 
-**Additional Notes Block:**  
-Any supplementary information that does not fit the above fields. Cross-references to related anomalies,
-pending
-investigations, O5 directives, special authorizations, E-Class deployment orders, Civil Covert Division involvement,
-or shell-company connections.
+**Additional Notes Block:** Any supplementary information that does not fit the above fields. Cross-references
+to
+related anomalies, pending investigations, O5 directives, special authorizations, E-Class deployment orders, Civil
+Covert Division involvement, or shell-company connections.
 
-**File Metadata Block:**  
-FILE CREATED • FILE LAST UPDATED • FILE AUTHOR • REVIEWED BY • FILE
-STATUS (Active, Archived, Sealed, O5-Restricted,
-or Destroyed) • DESIGNATION HISTORY (original UFD code and date of verification to AFD
-status)
+**File Metadata Block:** FILE CREATED • FILE LAST UPDATED • FILE AUTHOR • REVIEWED
+BY • FILE STATUS (Active, Archived,
+Sealed, O5-Restricted, or Destroyed) • DESIGNATION HISTORY (original UFD code and date of verification
+to AFD status)
 
 The classification header is the truth at a glance. Personnel should be able to
 read this block and understand the
@@ -1593,13 +1580,11 @@ Example: `I-AM-A-Test-AFD-OB-001.md`
 
 An anomaly receives one of two designation prefixes depending on its verification status:
 
-  **UFD-XX-###** — Unknown Field Designation. Provisional status. Assigned during DETECT/VERIFY phase before the
-  anomaly
-  has been confirmed as genuine and operationally logged.
-  **AFD-XX-###** — Anomaly Field Designation. Verified status. Assigned once the anomaly has been
-  validated,
-  documented,
-  and entered into the permanent A.C.T record.
+**UFD-XX-###** — Unknown Field Designation. Provisional status. Assigned during DETECT/VERIFY phase before the anomaly
+has been confirmed as genuine and operationally logged. **AFD-XX-###** — Anomaly Field Designation. Verified
+status.
+Assigned once the anomaly has been validated, documented, and entered into the permanent A.C.T
+record.
 
 The three-digit number is assigned sequentially. It does not reflect threat level, containment difficulty,
 or
@@ -1643,59 +1628,58 @@ and the
 act of containment itself**.
 
 #### INERT
-*Will not leave the box, even if it can.*  
-These anomalies remain stable and passive under confinement, posing little active resistance.
+*Will not leave the box, even if it can.* These anomalies remain stable and
+passive under confinement, posing little
+active resistance.
 
 #### RESIDUAL
-*Scratches the walls, nothing more.*  
-The anomaly exerts minor interference but rarely escalates beyond manageable disruption.
+*Scratches the walls, nothing more.* The anomaly exerts minor interference but rarely escalates beyond
+manageable
+disruption.
 
 #### SPORADIC
-*Rarely breaks out, nothing unpredictable.*  
-Containment failure is uncommon and follows recognizable patterns.
+*Rarely breaks out, nothing unpredictable.* Containment failure is uncommon and follows recognizable patterns.
 
 #### UNDISCLOSED
-*Leaves by unknown means, returns by known ones.*  
-A deeply unsettling class in which exit conditions remain unexplained, even if recontainment patterns
-have been
-observed.
+*Leaves by unknown means, returns by known ones.* A deeply unsettling class in which
+exit conditions remain
+unexplained, even if recontainment patterns have been observed.
 
 #### ENTROPIC
-*Containment decays around it without maintenance.*  
-The anomaly degrades systems, order, or structural consistency simply by existing.
+*Containment decays around it without maintenance.* The anomaly degrades systems, order, or structural consistency
+simply by existing.
 
 #### REACTIVE
-*Containment fails the moment you look away.*  
-These anomalies require active monitoring and rapid procedural enforcement.
+*Containment fails the moment you look away.* These anomalies require active monitoring and rapid
+procedural
+enforcement.
 
 #### EXIGENT
-*Containment is a full-time 24/7 operation.*  
-The anomaly demands constant labor, resources, surveillance, and intervention.
+*Containment is a full-time 24/7 operation.* The anomaly demands constant labor, resources, surveillance, and
+intervention.
 
 #### INVERTED
-*It contains — does not merely need containing.*  
-This class implies that the anomaly itself is acting as a vessel, seal, barrier,
-or prison for something else.
+*It contains — does not merely need containing.* This class implies that the anomaly
+itself is acting as a vessel,
+seal, barrier, or prison for something else.
 
 #### UNENCLOSABLE
-*Too vast to enclose.*  
-These anomalies cannot be boxed, chambered, or physically bounded in a conventional sense.
+*Too vast to enclose.* These anomalies cannot be boxed, chambered, or physically bounded in
+a conventional sense.
 
 #### INTANGIBLE
-*Cannot be touched, only witnessed.*  
-Containment depends on perception control, information restriction, ritual procedure, or indirect interaction.
+*Cannot be touched, only witnessed.* Containment depends on perception control, information restriction, ritual
+procedure, or indirect interaction.
 
 #### TIAMAT
-*Beyond the frame of reference.*  
-The anomaly exceeds conventional containment logic and may operate on scales outside ordinary ontology,
-space-time, or
-causal law.
+*Beyond the frame of reference.* The anomaly exceeds conventional containment logic and may operate
+on scales outside
+ordinary ontology, space-time, or causal law.
 
 #### [BLANK]
-*Engagement is itself the threat.*  
-The most conceptually dangerous category, reserved for anomalies where observation, contact, naming, pursuit, or
-study
-may trigger escalation.
+*Engagement is itself the threat.* The most conceptually dangerous category, reserved for anomalies where
+observation,
+contact, naming, pursuit, or study may trigger escalation.
 
 This class system is important because it reflects the Facility’s refusal to treat danger
 and containment as
@@ -1751,7 +1735,7 @@ two categories.
   **ABSURD** — *How the hell is it in the box — it shouldn't
   fit,
   shouldn't stay, but somehow it does*
-- **MUTATED** — *The box grew legs — containment itself became the anomaly*
+— **MUTATED** — *The box grew legs — containment itself became the anomaly*
   **UNAUTHORED** — *Who wrote this — the documentation is wrong, the procedure is
   wrong,
   something is rewriting the
@@ -1762,20 +1746,14 @@ two categories.
   determines which*
 
 #### Fracture Index — Sub-Threat
-  **HARMLESS** — *Did it even hurt anybody — no damage, no effect, no
-  consequence
-  to anyone*
-  **BENEFICIAL** — *It healed someone — the anomaly actively improves or repairs, not
-  harms*
-  **REVERTED** — *Somehow it reverted back — the damage undoes itself, as if
-  the
-  threat never happened*
-  **ABSENT** — *Where's the threat — the danger exists on paper but nowhere
-  in
-  reality*
-  **NULLIFIED** — *It stopped — whatever it was doing, it ceased entirely on
-  its
-  own*
+**HARMLESS** — *Did it even hurt anybody — no damage, no effect, no consequence
+to anyone* **BENEFICIAL** — *It healed
+someone — the anomaly actively improves or repairs, not harms* **REVERTED** — *Somehow it
+reverted back — the damage
+undoes itself, as if the threat never happened* **ABSENT** — *Where's the threat —
+the danger exists on paper but
+nowhere in reality* **NULLIFIED** — *It stopped — whatever it was doing, it ceased
+entirely on its own*
 
 
 
@@ -1784,14 +1762,11 @@ When a fracture-sensitive designation is written in `ANM-XX-XX-####` form, the t
 the
 Fracture Index:
 
-  **QUESTIONED** (`QU`) / **ABSURD** (`AB`) / **MUTATED** (`MU`) / **UNAUTHORED** (`UA`) / **SCHRÖDINGER**
-  (`SC`)
-  — used
-  in the **Fracture Containment Index** segment
-  **HARMLESS** (`HM`) / **BENEFICIAL** (`BE`) / **REVERTED** (`RV`) / **ABSENT** (`AS`) / **NULLIFIED**
-  (`NU`)
-  — used in
-  the **Fracture Sub-Threat Index** segment
+**QUESTIONED** (`QU`) / **ABSURD** (`AB`) / **MUTATED** (`MU`) / **UNAUTHORED** (`UA`) / **SCHRÖDINGER** (`SC`)
+— used
+in the **Fracture Containment Index** segment **HARMLESS** (`HM`) / **BENEFICIAL** (`BE`) / **REVERTED** (`RV`)
+/
+**ABSENT** (`AS`) / **NULLIFIED** (`NU`) — used in the **Fracture Sub-Threat Index** segment
 
 Under this rule, a designation such as `ANM-AB-HM-0002` is read as **ABSURD** containment, **HARMLESS**
 sub-threat,
@@ -1812,38 +1787,37 @@ that some
 anomalies, once understood, may be altered in status.
 
 #### INVIOLABLE
-*Transformation is not an option.*  
-The anomaly cannot be altered, influenced, or repurposed without catastrophic consequence.
+*Transformation is not an option.* The anomaly cannot be altered, influenced, or repurposed without
+catastrophic
+consequence.
 
 #### NEUTRAL
-*Transformation is inadvisable.*  
-The anomaly is stable enough in containment, and the risk of experimentation outweighs the
-benefit.
+*Transformation is inadvisable.* The anomaly is stable enough in containment, and the risk of
+experimentation
+outweighs the benefit.
 
 #### CONTAINED-STUDY
-*Not ready for transformation.*  
-Research is active, but no operational transformation is authorized yet.
+*Not ready for transformation.* Research is active, but no operational transformation is authorized yet.
 
 #### STABILIZED
-*The anomaly has crossed the first threshold.*  
-Its behavior is predictable enough for controlled use beyond strict isolation.
+*The anomaly has crossed the first threshold.* Its behavior is predictable enough for controlled
+use beyond strict
+isolation.
 
 #### NEUTRALIZED
-*Its harmful effect has been suppressed or nullified.*  
-The anomaly no longer poses its original danger, though it may no longer be
-useful.
+*Its harmful effect has been suppressed or nullified.* The anomaly no longer poses its
+original danger, though it may
+no longer be useful.
 
 #### REPURPOSED
-*Its function has been redirected.*  
-The anomaly now serves a defined Facility purpose, such as logistics, surveillance, defense, medicine,
-or energy
-support.
+*Its function has been redirected.* The anomaly now serves a defined Facility purpose, such
+as logistics,
+surveillance, defense, medicine, or energy support.
 
 #### INTEGRATED
-*The anomaly has become part of A.C.T itself.*  
-At this stage, it is no longer treated as an external object of study,
-but as a permanent system component embedded
-within infrastructure, doctrine, or operational capacity.
+*The anomaly has become part of A.C.T itself.* At this stage, it is no
+longer treated as an external object of study,
+but as a permanent system component embedded within infrastructure, doctrine, or operational capacity.
 
 This scale also reinforces A.C.T’s gray morality: it does not merely survive anomalies; it
 seeks to use them.
@@ -1872,7 +1846,7 @@ The following must be demonstrated before any transformation attempt proceeds:
   improved control or Lower Projected Danger — the transformation would make the anomaly
   safer
   or more predictable
-- high-need operational justification — the benefit outweighs the risk
+— high-need operational justification — the benefit outweighs the risk
 
 #### Unstable Asset Conditions
 An anomaly is considered an **unstable asset** if:
@@ -1886,13 +1860,11 @@ An unstable asset is not a failed resource. It is a warning that transformation
 has not yet produced a safe end state.
 
 #### Stabilized vs Repurposed — Key Distinction
-  **Stabilized** = the anomaly is safer, more predictable, and in a lower-threat state
-  than
-  before, but has not yet been
-  directed toward Facility use
-  **Repurposed** = the anomaly has been converted into a specific Facility asset with
-  a
-  defined operational role
+**Stabilized** = the anomaly is safer, more predictable, and in a lower-threat state than
+before, but has not yet been
+directed toward Facility use **Repurposed** = the anomaly has been converted into a specific
+Facility asset with a
+defined operational role
 
 #### Inviolable — The Hard Limit
 **Inviolable** indicates that attempting to change the anomaly’s structure or nature may itself trigger
@@ -1935,9 +1907,9 @@ Direct exposure is restricted to:
 
 #### Transport Rules
 Movable anomalies must be transported using **Reality Stabilization Anchor / RSA** support.
-- standard anomalies use RSA transport support
-- oversized anomalies use Facility Converted Aircraft
-- unmovable anomalies receive perimeter, enclosure, and support systems built around themselves
+— standard anomalies use RSA transport support
+— oversized anomalies use Facility Converted Aircraft
+— unmovable anomalies receive perimeter, enclosure, and support systems built around themselves
 
 #### Containment Structure Categories
 Recognized structure categories include:
@@ -1957,47 +1929,30 @@ These categories matter because in A.C.T, containment is not only about difficul
 also about what kind of
 structure reality will tolerate around the anomaly. Each category carries specific meaning:
 
-  **Small Box** — used for compact anomalous objects, devices, samples, or low-volume materials
-  requiring
-  minimal secure
-  enclosed storage
-  **Medium Box** — used for larger objects or manageable contained anomalies needing modest
-  chamber
-  space
-  **Large Box** — used for significant objects, active subjects, or anomalies requiring broad
-  enclosure
-  room
-  **Massive Box** — used for oversized entities, large-scale hazards, or high-volume enclosures requiring
-  heavy
-  structural containment
-  **Enclosure Box** — used when the anomaly requires a perimeter or territory-style enclosure
-  rather
-  than a simple
-  chamber
-  **Box-cass** — used when the anomaly is already effectively a box, shell, vessel,
-  or
-  self-contained container-state
-  object
-  **Monitoring Field** — used when the anomaly is best controlled through a monitored
-  field,
-  exclusion area, perimeter,
-  or indirect watch-zone instead of a hard chamber
-  **Blind Box** — used when direct observation is dangerous and the anomaly must
-  be
-  enclosed under visual-denial or
-  sensory-restricted conditions
-  **Eye Box** — used when active or continuous observation is itself part of
-  containment
-  and the anomaly must remain
-  visible under controlled conditions
-  **Non-Box** — used when the anomaly cannot be described by ordinary enclosure logic
-  but
-  may still be managed through
-  procedure
-  **Unclose** — used when the anomaly is too vast, too distributed, too abstract,
-  or
-  too structurally broad to enclose
-  meaningfully at all
+**Small Box** — used for compact anomalous objects, devices, samples, or low-volume materials requiring
+minimal secure
+enclosed storage **Medium Box** — used for larger objects or manageable contained anomalies needing
+modest chamber
+space **Large Box** — used for significant objects, active subjects, or anomalies requiring broad
+enclosure room
+**Massive Box** — used for oversized entities, large-scale hazards, or high-volume enclosures requiring heavy
+structural containment **Enclosure Box** — used when the anomaly requires a perimeter or territory-style
+enclosure
+rather than a simple chamber **Box-cass** — used when the anomaly is already effectively
+a box, shell, vessel, or
+self-contained container-state object **Monitoring Field** — used when the anomaly is best controlled through
+a
+monitored field, exclusion area, perimeter, or indirect watch-zone instead of a hard chamber **Blind
+Box** — used when
+direct observation is dangerous and the anomaly must be enclosed under visual-denial or sensory-restricted
+conditions
+**Eye Box** — used when active or continuous observation is itself part of containment
+and the anomaly must remain
+visible under controlled conditions **Non-Box** — used when the anomaly cannot be described by
+ordinary enclosure
+logic but may still be managed through procedure **Unclose** — used when the anomaly
+is too vast, too distributed, too
+abstract, or too structurally broad to enclose meaningfully at all
 
 #### Breach Conditions
 An anomaly is considered to have breached not only when it physically escapes, but
@@ -2095,7 +2050,7 @@ Authorized suppression and redaction markers include:
 - `[MEMETIC FILTER APPLIED]`
 - `[STRUCTURAL DATA OMITTED]`
 - `[ABYSS ACCESS ONLY]`
-- `[ O5 - ONLY ]`
+- `[ O5 — ONLY ]`
 - `[O5-RESTRICTED]`
 - `[ Level 4-5 Lock ]`
 - `[ Specialize Only ]`
@@ -2186,17 +2141,17 @@ and what evidence supports the current file?*
 anomaly. It is used to preserve the first chain of custody.
 
 **Common Contents:**
-- Discovery Log
-- Recovery Log
-- Retrieval Log
-- Initial Contact Log
-- Field Intake Log
-- Civilian Exposure Log
-- Witness Intake Log
-- Evidence Collection Log
-- Transport Log
-- After-Action Report
-- First Stabilization Log
+— Discovery Log
+— Recovery Log
+— Retrieval Log
+— Initial Contact Log
+— Field Intake Log
+— Civilian Exposure Log
+— Witness Intake Log
+— Evidence Collection Log
+— Transport Log
+— After-Action Report
+— First Stabilization Log
 
 **Used When:** the anomaly was found in public; civilian witnesses were involved; the recovery
 operation was complex;
@@ -2213,16 +2168,16 @@ especially important when the anomaly's original context matters.
 or related parties. It preserves how individuals describe an anomaly from inside the event.
 
 **Common Contents:**
-- Interview Log
-- Interview Transcript
-- Eyewitness Interview
-- Subject Testimony
-- Survivor Statement
-- Personnel Debrief
-- Civilian Statement
-- Memory-Recovery Transcript
-- First-Wake Conversation
-- Psychological Review Transcript
+— Interview Log
+— Interview Transcript
+— Eyewitness Interview
+— Subject Testimony
+— Survivor Statement
+— Personnel Debrief
+— Civilian Statement
+— Memory-Recovery Transcript
+— First-Wake Conversation
+— Psychological Review Transcript
 
 **Used When:** the anomaly speaks; witness memory changes over time; subjective experience is important;
 the anomaly
@@ -2238,18 +2193,18 @@ safe handling
 rules, exposure thresholds, and containment weaknesses.
 
 **Common Contents:**
-- Test Log
-- Experiment Log
-- Exposure Log
-- Trigger Test
-- Material Test
-- Behavioral Test
-- Containment Test
-- Simulation Log
-- Stress Test
-- Interaction Trial
-- Cross-Anomaly Test
-- Failed Test Report
+— Test Log
+— Experiment Log
+— Exposure Log
+— Trigger Test
+— Material Test
+— Behavioral Test
+— Containment Test
+— Simulation Log
+— Stress Test
+— Interaction Trial
+— Cross-Anomaly Test
+— Failed Test Report
 
 **Used When:** the anomaly has measurable activation conditions; personnel need safe exposure limits; containment
 theory requires confirmation; the anomaly is being studied for transformation viability; A.C.T must know
@@ -2265,18 +2220,18 @@ ones.
 emergency responses. It is used to prevent repeat failures.
 
 **Common Contents:**
-- Incident Log
-- Incident Report
-- Breach Log
-- Containment Failure Report
-- Emergency Response Log
-- Security Transcript
-- Audio/Video Transcript
-- After-Action Report
-- Exposure Summary
-- Procedure Update Notice
-- Post-Incident Interview
-- Disciplinary Review
+— Incident Log
+— Incident Report
+— Breach Log
+— Containment Failure Report
+— Emergency Response Log
+— Security Transcript
+— Audio/Video Transcript
+— After-Action Report
+— Exposure Summary
+— Procedure Update Notice
+— Post-Incident Interview
+— Disciplinary Review
 
 **Used When:** containment fails; personnel are exposed; the anomaly behaves outside prediction; procedure is
 changed
@@ -2293,18 +2248,18 @@ when
 the anomaly is a place, creates a place, changes routes, or affects navigation.
 
 **Common Contents:**
-- Exploration Log
-- Survey Log
-- Mapping Log
-- Drone Log
-- Field Team Transcript
-- Route Record
-- Environmental Reading Log
-- Spatial Contradiction Log
-- Landmark Record
-- Recovery Route Log
-- Lost-Team Transcript
-- Expedition After-Action Report
+— Exploration Log
+— Survey Log
+— Mapping Log
+— Drone Log
+— Field Team Transcript
+— Route Record
+— Environmental Reading Log
+— Spatial Contradiction Log
+— Landmark Record
+— Recovery Route Log
+— Lost-Team Transcript
+— Expedition After-Action Report
 
 **Used When:** the anomaly is spatial; terrain changes; maps cannot be trusted; a field
 team enters an unknown area;
@@ -2319,18 +2274,18 @@ documented rather than corrected too quickly.
 when the anomaly's meaning or mechanics remain uncertain.
 
 **Common Contents:**
-- Research Log
-- Analysis Report
-- Classification Review
-- Theory Log
-- Laboratory Report
-- Material Analysis
-- Biological Review
-- Memetic Review
-- Temporal Review
-- Database Review
-- Archive Contradiction Report
-- Cross-Reference Log
+— Research Log
+— Analysis Report
+— Classification Review
+— Theory Log
+— Laboratory Report
+— Material Analysis
+— Biological Review
+— Memetic Review
+— Temporal Review
+— Database Review
+— Archive Contradiction Report
+— Cross-Reference Log
 
 **Used When:** classification is uncertain; recovered evidence requires interpretation; the anomaly has multiple
 possible explanations; A.C.T divisions disagree; the anomaly connects to larger doctrine.
@@ -2346,19 +2301,19 @@ of an
 anomaly. It is used when the evidence itself matters.
 
 **Common Contents:**
-- Recovered Document
-- Archive Copy
-- Document Transcript
-- Audio Transcript
-- Video Transcript
-- Image Description
-- Database Extract
-- Recovered Note
-- Personal Letter
-- Manual Fragment
-- System Log
-- File Integrity Review
-- Translation Notes
+— Recovered Document
+— Archive Copy
+— Document Transcript
+— Audio Transcript
+— Video Transcript
+— Image Description
+— Database Extract
+— Recovered Note
+— Personal Letter
+— Manual Fragment
+— System Log
+— File Integrity Review
+— Translation Notes
 
 **Used When:** the anomaly includes a document; a recovered file contains important context; a
 database may be
@@ -2376,18 +2331,18 @@ used
 for subjects whose containment depends on understanding behavior rather than simply locking them away.
 
 **Common Contents:**
-- Observation Log
-- Behavioral Log
-- Care Log
-- Routine Log
-- Feeding Log
-- Sleep Log
-- Social Interaction Log
-- Preference Record
-- Stress Response Log
-- Handler Note
-- Welfare Review
-- Long-Term Monitoring Log
+— Observation Log
+— Behavioral Log
+— Care Log
+— Routine Log
+— Feeding Log
+— Sleep Log
+— Social Interaction Log
+— Preference Record
+— Stress Response Log
+— Handler Note
+— Welfare Review
+— Long-Term Monitoring Log
 
 **Used When:** the anomaly is alive or behaves like it is alive; emotional state
 affects containment; routine reduces
@@ -2405,17 +2360,17 @@ is used when the question is not only "how do we contain it?" but
 "can it become useful or safer?"
 
 **Common Contents:**
-- Transformation Log
-- Repurposing Trial
-- Stabilization Log
-- Neutralization Log
-- Integration Report
-- Utilization Proposal
-- Ethical Review
-- Failed Transformation Report
-- Asset Conversion Review
-- Contained-Study Progress Log
-- Prohibited Use Notice
+— Transformation Log
+— Repurposing Trial
+— Stabilization Log
+— Neutralization Log
+— Integration Report
+— Utilization Proposal
+— Ethical Review
+— Failed Transformation Report
+— Asset Conversion Review
+— Contained-Study Progress Log
+— Prohibited Use Notice
 
 **Used When:** A.C.T wants to use the anomaly; the anomaly may become a tool,
 medicine, asset, or infrastructure
@@ -2431,18 +2386,18 @@ later personnel must not repeat it.
 administrative reactions. It is used when bureaucracy is part of the containment story.
 
 **Common Contents:**
-- Email Log
-- Internal Memo
-- Command Notice
-- Clearance Request
-- Authorization Chain
-- Ethics Committee Note
-- Archive Dispute
-- Site Director Message
-- Researcher Correspondence
-- Interdepartmental Warning
-- Meeting Transcript
-- Denial / Approval Notice
+— Email Log
+— Internal Memo
+— Command Notice
+— Clearance Request
+— Authorization Chain
+— Ethics Committee Note
+— Archive Dispute
+— Site Director Message
+— Researcher Correspondence
+— Interdepartmental Warning
+— Meeting Transcript
+— Denial / Approval Notice
 
 **Used When:** departments disagree; command decisions matter; an action requires authorization; ethics review affects
 containment; archive politics hide or reveal important information.
@@ -2457,18 +2412,18 @@ is used
 when the record is more important than a written summary.
 
 **Common Contents:**
-- Audio Log
-- Video Log
-- CCTV Transcript
-- Bodycam Transcript
-- Drone Feed
-- Sensor Log
-- Black Box Log
-- Radio Transcript
-- Transmission Record
-- Timecode Transcript
-- Visual Analysis Report
-- Signal Reconstruction
+— Audio Log
+— Video Log
+— CCTV Transcript
+— Bodycam Transcript
+— Drone Feed
+— Sensor Log
+— Black Box Log
+— Radio Transcript
+— Transmission Record
+— Timecode Transcript
+— Visual Analysis Report
+— Signal Reconstruction
 
 **Used When:** the anomaly is visible only on footage; timestamps contradict reality; audio contains
 important
@@ -2483,17 +2438,17 @@ prove.
 journal entries.
 
 **Common Contents:**
-- Personal Log
-- Recovered Journal
-- Researcher Diary
-- Field Notebook
-- Subject-Written Entry
-- Dream Journal
-- Confession Note
-- Survivor Diary
-- Automatic Writing Sample
-- Private Audio Note
-- Fragmented Memory Log
+— Personal Log
+— Recovered Journal
+— Researcher Diary
+— Field Notebook
+— Subject-Written Entry
+— Dream Journal
+— Confession Note
+— Survivor Diary
+— Automatic Writing Sample
+— Private Audio Note
+— Fragmented Memory Log
 
 **Used When:** memory changes; dreams matter; personnel experience gradual effects; the anomaly writes or
 causes
@@ -2512,11 +2467,11 @@ Choose a category based on the main purpose of the supporting document:
 - If the document answers **how we found it** → Recovery & Discovery Dossier
   If it answers **what witnesses or the anomaly said** → Interview & Testimony
   Dossier
-- If it answers **what tests proved** → Experiment & Testing Dossier
-- If it answers **what went wrong** → Incident & Breach Dossier
+— If it answers **what tests proved** → Experiment & Testing Dossier
+— If it answers **what went wrong** → Incident & Breach Dossier
   If it answers **what a place or route contains** → Exploration & Survey
   Dossier
-- If it answers **what A.C.T thinks it means** → Research & Analysis Dossier
+— If it answers **what A.C.T thinks it means** → Research & Analysis Dossier
   If it preserves **a recovered file or artifact record** → Recovered Document &
   Archive
   Dossier
@@ -2627,10 +2582,9 @@ completeness or sovereignty as a full SITE. It usually serves a narrower purpose
 depends on a higher command body
 for broader authority, support, or oversight.
 
-  A **SUB-SITE** is a smaller or specialized A.C.T installation operating under a larger
-  SITE
-  or regional command
-  structure.
+A **SUB-SITE** is a smaller or specialized A.C.T installation operating under a larger SITE
+or regional command
+structure.
 
 #### Difference Between SITE and SUB-SITE
 A SITE is:
@@ -2667,24 +2621,18 @@ A SUB-SITE is therefore not a lesser concept in narrative importance. It is simp
 a narrower institutional shape.
 
 #### Site Categories
-  **Primary Site** — a major central installation with broad authority, heavy divisional presence,
-  and
-  long-term
-  strategic significance
-  **Regional Site** — a major official installation responsible for one large region of
-  a
-  country, continent, or
-  strategic anomaly zone
-  **Sub-Site** — a secondary installation attached to a larger site or regional command
-  structure
-  **Relay Site** — a low-footprint support location used for archive transfer, secure movement,
-  witness
-  routing, or
-  controlled logistical continuity
-  **Black Site** — a highly restricted installation not broadly acknowledged even inside the
-  Facility,
-  usually
-  associated with sealed projects, prohibited research, or politically dangerous operations
+**Primary Site** — a major central installation with broad authority, heavy divisional presence, and
+long-term
+strategic significance **Regional Site** — a major official installation responsible for one large region
+of a
+country, continent, or strategic anomaly zone **Sub-Site** — a secondary installation attached to a
+larger site or
+regional command structure **Relay Site** — a low-footprint support location used for archive transfer,
+secure
+movement, witness routing, or controlled logistical continuity **Black Site** — a highly restricted installation
+not
+broadly acknowledged even inside the Facility, usually associated with sealed projects, prohibited research, or
+politically dangerous operations
 
 #### Naming Logic
 Formal A.C.T site naming follows:
@@ -2794,11 +2742,11 @@ accountable.
   specialization
   **Recovery Jurisdiction** — authority to deploy first-response teams to locate, isolate, and retrieve
   anomalies
-- **Secrecy Jurisdiction** — authority to control cover stories, witness suppression, narrative containment, and
+— **Secrecy Jurisdiction** — authority to control cover stories, witness suppression, narrative containment, and
   public-facing resolution
-- **Support Jurisdiction** — responsibility to provide overflow, archive relay, medical stabilization, transport, or
+— **Support Jurisdiction** — responsibility to provide overflow, archive relay, medical stabilization, transport, or
   tactical support
-- **Overlap Jurisdiction** — condition in which more than one site may claim involvement
+— **Overlap Jurisdiction** — condition in which more than one site may claim involvement
 
 #### Jurisdiction Priority Rule
 When multiple sites could claim an event, A.C.T resolves control according to the following
@@ -2897,9 +2845,9 @@ layered installations—major
 SITES, supporting SUB-SITES, relays, and sealed locations—distributed according to secrecy value, containment need,
 recovery pressure, geography, and anomaly profile.
 
-A site is not merely where the Facility exists.
-A site is where the impossible has been given an address, a doctrine, and
-a chain of command.
+A site is not merely where the Facility exists. A site is where the
+impossible has been given an address, a doctrine,
+and a chain of command.
 
 #### ACT-SITE-01-US-W — Redwood Veil Complex
 | FIELD | VALUE |
@@ -2927,25 +2875,17 @@ one of the
 clearest examples of a site where anomaly containment and external threat management are inseparable.
 
 #### ACT-SITE-02-RU-N — White Grave Station
-**Codename:** White Grave Station  
-**Site Type:** Regional Site  
-**Location:** Northern Russia  
-**Command Authority:** Site Director under restricted cold-zone review authority  
-**Primary Function:** Deep cold-environment containment, biological suppression, and long-term isolation of unstable
-anomalies
-**Divisions Present:** Security, Containment, Medical, Research, Limited Military Presence  
-**Containment Profile:** Biological / Cryogenic / Entropic / Deep Isolation  
-**Regional Jurisdiction:** Arctic and northern Eurasian anomaly events, deep freeze transfer corridors, remote black
-containment support
-**Notable Features:** Extreme environmental isolation; highly secure low-population concealment value; capable of
-housing anomalies requiring climate suppression
-**Current Status:** Active  
-**History Notes:** Built around the need to store anomalies too unstable or too logistically
-inconvenient to keep near
-population centers.
-**Security Notes:** Access during deep winter periods is heavily restricted; some transport windows are
-seasonal and
-weather-conditional.
+**Codename:** White Grave Station **Site Type:** Regional Site **Location:** Northern Russia **Command Authority:**
+Site Director under restricted cold-zone review authority **Primary Function:** Deep cold-environment containment,
+biological suppression, and long-term isolation of unstable anomalies **Divisions Present:** Security, Containment,
+Medical, Research, Limited Military Presence **Containment Profile:** Biological / Cryogenic / Entropic / Deep
+Isolation **Regional Jurisdiction:** Arctic and northern Eurasian anomaly events, deep freeze transfer corridors,
+remote black containment support **Notable Features:** Extreme environmental isolation; highly secure low-population
+concealment value; capable of housing anomalies requiring climate suppression **Current Status:** Active **History
+Notes:** Built around the need to store anomalies too unstable or too logistically inconvenient
+to keep near
+population centers. **Security Notes:** Access during deep winter periods is heavily restricted; some transport
+windows are seasonal and weather-conditional.
 
 White Grave Station demonstrates A.C.T’s use of geography as part of containment itself. Cold
 is not merely weather
@@ -2954,23 +2894,15 @@ site exists because some
 anomalies are safer where climate itself functions as suppression.
 
 #### ACT-SITE-03-JP-E — Kurokawa Archive Node
-**Codename:** Kurokawa Archive Node  
-**Site Type:** Regional Site  
-**Location:** Eastern Japan  
-**Command Authority:** Site Director with Archive and Intelligence dual review  
-**Primary Function:** Memetic and informational anomaly handling, archive-redaction testing, and urban data anomaly
-response
-**Divisions Present:** Archiver Division, Intelligence Division, Researcher Division, Medical Cognitive Support,
-Security
-**Containment Profile:** Memetic / Infohazard / Archive-Sensitive / Signal-Borne  
-**Regional Jurisdiction:** Eastern Japanese anomaly events, urban infohazard spread corridors, media-adjacent
-suppression zones
-**Notable Features:** Strong archive-intelligence integration; advanced document containment procedures; media-density
-operational relevance
-**Current Status:** Active  
+**Codename:** Kurokawa Archive Node **Site Type:** Regional Site **Location:** Eastern Japan **Command Authority:**
+Site Director with Archive and Intelligence dual review **Primary Function:** Memetic and informational anomaly
+handling, archive-redaction testing, and urban data anomaly response **Divisions Present:** Archiver Division,
+Intelligence Division, Researcher Division, Medical Cognitive Support, Security **Containment Profile:** Memetic /
+Infohazard / Archive-Sensitive / Signal-Borne **Regional Jurisdiction:** Eastern Japanese anomaly events, urban
+infohazard spread corridors, media-adjacent suppression zones **Notable Features:** Strong archive-intelligence
+integration; advanced document containment procedures; media-density operational relevance **Current Status:** Active
 **History Notes:** Expanded from a specialized records-monitoring site into a major East-region anomaly interpretation
-hub.
-**Security Notes:** Any uncontrolled digital leak is treated as a priority containment breach.  
+hub. **Security Notes:** Any uncontrolled digital leak is treated as a priority containment breach.
 
 Kurokawa Archive Node exists where information density itself becomes a risk field. It is
 one of the most important
@@ -2979,23 +2911,16 @@ The
 integration of Archive and Intelligence functions there is not accidental. It is necessary.
 
 #### ACT-SITE-04-BR-C — Verde Null Bio-Reserve
-**Codename:** Verde Null Bio-Reserve  
-**Site Type:** Regional Site  
-**Location:** Central Brazil  
-**Command Authority:** Site Director under biological containment review  
-**Primary Function:** Remote containment of non-natural biological anomalies and wilderness-bound anomaly observation
-**Divisions Present:** Research, Transformation, Recovery, Medical, Security, Environmental Containment  
-**Containment Profile:** Biological / Forest-Bound / Place-Anomaly / Field Enclosure  
-**Regional Jurisdiction:** Central South American biological anomalies, wild-zone containment, remote cultivation
-programs
-**Notable Features:** High adaptability for non-movable anomaly enclosures; extensive concealed perimeter structures  
-**Current Status:** Active  
-**History Notes:** Developed from remote field enclosures into a permanent reserve-style site due to
-recurring
-non-natural flora and fauna cases.
-**Security Notes:** Some anomalies are managed in-place under perimeter doctrine rather than transported to
-interior
-vaults.
+**Codename:** Verde Null Bio-Reserve **Site Type:** Regional Site **Location:** Central Brazil **Command Authority:**
+Site Director under biological containment review **Primary Function:** Remote containment of non-natural biological
+anomalies and wilderness-bound anomaly observation **Divisions Present:** Research, Transformation, Recovery, Medical,
+Security, Environmental Containment **Containment Profile:** Biological / Forest-Bound / Place-Anomaly / Field
+Enclosure **Regional Jurisdiction:** Central South American biological anomalies, wild-zone containment, remote
+cultivation programs **Notable Features:** High adaptability for non-movable anomaly enclosures; extensive concealed
+perimeter structures **Current Status:** Active **History Notes:** Developed from remote field enclosures into a
+permanent reserve-style site due to recurring non-natural flora and fauna cases. **Security Notes:** Some
+anomalies
+are managed in-place under perimeter doctrine rather than transported to interior vaults.
 
 Verde Null Bio-Reserve illustrates a doctrine A.C.T returns to repeatedly: not every anomaly should
 be removed from
@@ -3006,24 +2931,18 @@ than forcing the
 place into a box.
 
 #### ACT-SITE-05-ID-C — Nusantara Deep Relay
-**Codename:** Nusantara Deep Relay  
-**Site Type:** Regional Site  
-**Location:** Central Indonesia  
-**Command Authority:** Site Director with seismic and maritime anomaly oversight  
-**Primary Function:** Island anomaly monitoring, sea-bound recovery, volcanic and tectonic anomaly response, and
-abyss-linked seismic observation
-**Divisions Present:** Recovery, Containment, Medical, Research, Security, Seismic Analysis Support  
-**Containment Profile:** Maritime / Seismic / Place-Anomaly / Deep-Earth Observation  
-**Regional Jurisdiction:** Indonesian archipelago anomaly events, undersea disturbances, volcanic anomaly signatures,
-tectonic irregularity zones
-**Notable Features:** High-value for anomalies linked to sea routes, fault pressure, or deep-earth movement
-patterns
-**Current Status:** Active  
-**History Notes:** Elevated to major site status after repeated irregularity clusters tied to undersea
-and island
-instability reports.
-**Security Notes:** Some deep-earth records routed through this site remain partially sealed under abyss-related
-review standards.
+**Codename:** Nusantara Deep Relay **Site Type:** Regional Site **Location:** Central Indonesia **Command Authority:**
+Site Director with seismic and maritime anomaly oversight **Primary Function:** Island anomaly monitoring, sea-bound
+recovery, volcanic and tectonic anomaly response, and abyss-linked seismic observation **Divisions Present:**
+Recovery, Containment, Medical, Research, Security, Seismic Analysis Support **Containment Profile:** Maritime /
+Seismic / Place-Anomaly / Deep-Earth Observation **Regional Jurisdiction:** Indonesian archipelago anomaly events,
+undersea disturbances, volcanic anomaly signatures, tectonic irregularity zones **Notable Features:** High-value for
+anomalies linked to sea routes, fault pressure, or deep-earth movement patterns **Current Status:** Active
+**History
+Notes:** Elevated to major site status after repeated irregularity clusters tied to undersea and
+island instability
+reports. **Security Notes:** Some deep-earth records routed through this site remain partially sealed under
+abyss-related review standards.
 
 Nusantara Deep Relay is one of the most important regional sites in doctrinal terms
 because it stands at the
@@ -3043,20 +2962,15 @@ command
 structures.
 
 #### ACT-SUB-01-US-W — Glass Orchard Relay
-**Codename:** Glass Orchard Relay  
-**Site Type:** Sub-Site  
-**Location:** Western United States  
-**Command Authority:** Reports to ACT-SITE-01-US-W  
-**Primary Function:** Temporary holding, archive relay, witness processing, and overflow intake  
-**Divisions Present:** Limited Archive, Security, Medical, Recovery Support  
-**Containment Profile:** Low-Threat Intake / Short-Term Object Storage / Witness Sanitation  
-**Regional Jurisdiction:** Overflow support for Site 01 regional operations  
-**Notable Features:** Cover identity as agricultural biotech station; optimized for low-visibility processing  
-**Current Status:** Active  
-**History Notes:** Originally established as a covert witness routing point before being upgraded into
-sub-site
-classification.
-**Security Notes:** Strictly denied long-term holding authority for high-threat anomalies.  
+**Codename:** Glass Orchard Relay **Site Type:** Sub-Site **Location:** Western United States **Command Authority:**
+Reports to ACT-SITE-01-US-W **Primary Function:** Temporary holding, archive relay, witness processing, and overflow
+intake **Divisions Present:** Limited Archive, Security, Medical, Recovery Support **Containment Profile:** Low-Threat
+Intake / Short-Term Object Storage / Witness Sanitation **Regional Jurisdiction:** Overflow support for Site
+01
+regional operations **Notable Features:** Cover identity as agricultural biotech station; optimized for low-visibility
+processing **Current Status:** Active **History Notes:** Originally established as a covert witness routing point
+before being upgraded into sub-site classification. **Security Notes:** Strictly denied long-term holding authority
+for high-threat anomalies.
 
 Glass Orchard Relay exists to absorb the low-visibility, high-frequency support pressures that would otherwise
 overburden a full urban-response regional site. Its civilian cover identity allows routine processing to
@@ -3064,20 +2978,14 @@ occur beneath
 a believable surface mask. It is optimized less for sovereignty than for quiet usefulness.
 
 #### ACT-SUB-02-RU-N — Frost Hollow Depot
-**Codename:** Frost Hollow Depot  
-**Site Type:** Sub-Site  
-**Location:** Northern Russia  
-**Command Authority:** Reports to ACT-SITE-02-RU-N  
-**Primary Function:** Interim cold storage and quarantine staging  
-**Divisions Present:** Security, Medical Quarantine Staff, Limited Containment Support  
-**Containment Profile:** Cryogenic Overflow / Quarantine / Temporary Biological Suppression  
-**Regional Jurisdiction:** Transfer support for White Grave Station and surrounding arctic recovery corridors  
-**Notable Features:** Designed for rapid frozen relocation and silent disappearance of hazardous organic material  
-**Current Status:** Active  
-**History Notes:** Built to reduce over-concentration pressure on White Grave Station during seasonal biological
-incidents.
-**Security Notes:** Personnel rotation is tightly controlled due to long-duration cold exposure and isolation
-stress.
+**Codename:** Frost Hollow Depot **Site Type:** Sub-Site **Location:** Northern Russia **Command Authority:** Reports
+to ACT-SITE-02-RU-N **Primary Function:** Interim cold storage and quarantine staging **Divisions Present:** Security,
+Medical Quarantine Staff, Limited Containment Support **Containment Profile:** Cryogenic Overflow / Quarantine /
+Temporary Biological Suppression **Regional Jurisdiction:** Transfer support for White Grave Station and surrounding
+arctic recovery corridors **Notable Features:** Designed for rapid frozen relocation and silent disappearance of
+hazardous organic material **Current Status:** Active **History Notes:** Built to reduce over-concentration pressure
+on White Grave Station during seasonal biological incidents. **Security Notes:** Personnel rotation is tightly
+controlled due to long-duration cold exposure and isolation stress.
 
 Frost Hollow Depot exists because the northern containment chain cannot always move directly from
 field recovery into
@@ -3085,19 +2993,16 @@ deep long-term isolation without a staging body. It is a pressure-release organ 
 recovery logistics.
 
 #### ACT-SUB-03-JP-E — Silent Reed Annex
-**Codename:** Silent Reed Annex  
-**Site Type:** Sub-Site  
-**Location:** Eastern Japan  
-**Command Authority:** Reports to ACT-SITE-03-JP-E  
-**Primary Function:** Minor memetic quarantine, controlled infohazard review, and temporary redaction buffering  
-**Divisions Present:** Archive, Intelligence, Limited Medical Cognitive Staff  
-**Containment Profile:** Low-to-Mid Memetic / Infohazard Buffer / Document Quarantine  
-**Regional Jurisdiction:** Overflow support for Kurokawa Archive Node  
-**Notable Features:** Built for cases too dangerous for ordinary records but too minor for
-full black archive burial
-**Current Status:** Active  
-**History Notes:** Created after repeated archive spillover events stressed the main East-region records body.  
-**Security Notes:** No solo review shifts authorized during active memetic contamination cycles.  
+**Codename:** Silent Reed Annex **Site Type:** Sub-Site **Location:** Eastern Japan **Command Authority:** Reports to
+ACT-SITE-03-JP-E **Primary Function:** Minor memetic quarantine, controlled infohazard review, and temporary redaction
+buffering **Divisions Present:** Archive, Intelligence, Limited Medical Cognitive Staff **Containment Profile:**
+Low-to-Mid Memetic / Infohazard Buffer / Document Quarantine **Regional Jurisdiction:** Overflow support for Kurokawa
+Archive Node **Notable Features:** Built for cases too dangerous for ordinary records but too
+minor for full black
+archive burial **Current Status:** Active **History Notes:** Created after repeated archive spillover events stressed
+the main East-region records body. **Security Notes:** No solo review shifts authorized during active
+memetic
+contamination cycles.
 
 Silent Reed Annex is a good example of how A.C.T builds intermediate layers between
 ordinary recordkeeping and the
@@ -3106,39 +3011,30 @@ dangerous for normal
 handling but too operationally common to justify permanent black burial.
 
 #### ACT-SUB-04-BR-C — Hollow Canopy Enclosure
-**Codename:** Hollow Canopy Enclosure  
-**Site Type:** Sub-Site  
-**Location:** Central Brazil  
-**Command Authority:** Reports to ACT-SITE-04-BR-C  
-**Primary Function:** In-place observation and enclosure of non-movable flora anomalies  
-**Divisions Present:** Environmental Containment, Research Support, Limited Security  
-**Containment Profile:** Fixed Biological / Flora / Remote Monitoring Field  
-**Regional Jurisdiction:** Specific reserve sectors under Verde Null Bio-Reserve control  
-**Notable Features:** Exists as a concealed perimeter rather than a conventional building-dominant installation  
-**Current Status:** Active  
-**History Notes:** Recognized as a sub-site after repeated failed relocation attempts proved certain flora
-anomalies
-safer in native containment fields.
-**Security Notes:** Transport denial is built into containment doctrine for several housed anomalies.  
+**Codename:** Hollow Canopy Enclosure **Site Type:** Sub-Site **Location:** Central Brazil **Command Authority:**
+Reports to ACT-SITE-04-BR-C **Primary Function:** In-place observation and enclosure of non-movable flora anomalies
+**Divisions Present:** Environmental Containment, Research Support, Limited Security **Containment Profile:** Fixed
+Biological / Flora / Remote Monitoring Field **Regional Jurisdiction:** Specific reserve sectors under Verde
+Null
+Bio-Reserve control **Notable Features:** Exists as a concealed perimeter rather than a conventional building-dominant
+installation **Current Status:** Active **History Notes:** Recognized as a sub-site after repeated failed relocation
+attempts proved certain flora anomalies safer in native containment fields. **Security Notes:** Transport denial
+is
+built into containment doctrine for several housed anomalies.
 
 Hollow Canopy Enclosure demonstrates that some sub-sites are barely building-centered at all. In such
 cases,
 containment becomes perimeter, concealment, and ecological support rather than chamber architecture.
 
 #### ACT-SUB-05-ID-C — Ash Tide Watchpoint
-**Codename:** Ash Tide Watchpoint  
-**Site Type:** Sub-Site  
-**Location:** Central Indonesia  
-**Command Authority:** Reports to ACT-SITE-05-ID-C  
-**Primary Function:** Coastal anomaly watch, sea-entry relay, and volcanic-event observation support  
-**Divisions Present:** Recovery Support, Security, Seismic Monitoring, Limited Medical Staff  
-**Containment Profile:** Maritime Relay / Volcanic Watch / Coastal Intake  
-**Regional Jurisdiction:** Selected island and near-shore anomaly corridors under Nusantara Deep Relay authority  
-**Notable Features:** Combines maritime observation with hidden emergency intake capability  
-**Current Status:** Active  
-**History Notes:** Elevated from a relay watchpoint after repeated coastal anomaly appearances required permanent
-staffing.
-**Security Notes:** Capable of emergency lockdown and silent withdrawal during large-scale tectonic shifts.  
+**Codename:** Ash Tide Watchpoint **Site Type:** Sub-Site **Location:** Central Indonesia **Command Authority:**
+Reports to ACT-SITE-05-ID-C **Primary Function:** Coastal anomaly watch, sea-entry relay, and volcanic-event
+observation support **Divisions Present:** Recovery Support, Security, Seismic Monitoring, Limited Medical Staff
+**Containment Profile:** Maritime Relay / Volcanic Watch / Coastal Intake **Regional Jurisdiction:** Selected island
+and near-shore anomaly corridors under Nusantara Deep Relay authority **Notable Features:** Combines maritime
+observation with hidden emergency intake capability **Current Status:** Active **History Notes:** Elevated from a
+relay watchpoint after repeated coastal anomaly appearances required permanent staffing. **Security Notes:** Capable
+of emergency lockdown and silent withdrawal during large-scale tectonic shifts.
 
 Ash Tide Watchpoint shows how regional tectonic and maritime surveillance can evolve from a
 modest relay into a
@@ -3548,12 +3444,12 @@ These signs included:
   ghosts and dead presences that no longer remained in rumor, but appeared openly
   to
   the living
-- the first known anomalous earthquake, whose origin was not natural in the slightest
+— the first known anomalous earthquake, whose origin was not natural in the slightest
   a mysterious forest from which a person could vanish for years and emerge
   physically
   healthy, but confused and
   temporally displaced
-- contradictory events in recorded history that neither scientists nor historians could fully reconcile
+— contradictory events in recorded history that neither scientists nor historians could fully reconcile
   reports of a living human being who had been alive since before the
   year
   **15xx** and had not meaningfully aged
@@ -3651,8 +3547,7 @@ This was not poetic. It was practical. It was the only condition under which
 ITHYOS did not shift enough in its
 slumber to cause catastrophic damage to the world.
 
-Its sleep was containment.  
-Its movement was disaster.
+Its sleep was containment. Its movement was disaster.
 
 ---
 
@@ -3760,8 +3655,9 @@ the institution
 became more scientific, bureaucratic, and systematized, these first ideas remained at the heart of
 A.C.T’s identity.
 
-The world survives because some truths remain buried.  
-The world remains stable because some things are never allowed to wake.
+The world survives because some truths remain buried. The world remains stable because some
+things are never allowed
+to wake.
 
 As the Facility expanded, the founders understood that survival required more than fear and
 secrecy. They needed a
@@ -3806,7 +3702,7 @@ been completely observed, and all measurements remain partial, inferred, or unce
   at
   them despite physical
   dormancy
-- weak or unstable minds frequently suffer immediate mental collapse
+— weak or unstable minds frequently suffer immediate mental collapse
   exposed subjects often enter compulsive scribbling phases, transcribing unknown words, symbols, or script
   from
   an
@@ -3884,9 +3780,9 @@ golden mist.
   sap
   causes immediate
   and often irreversible memory erasure
-- subjects may remain conscious while losing recent or long-term memory structure
-- overexposure causes severe biological damage in addition to memory loss
-- the organism appears to respond to nearby thought, agitation, and spoken memory
+— subjects may remain conscious while losing recent or long-term memory structure
+— overexposure causes severe biological damage in addition to memory loss
+— the organism appears to respond to nearby thought, agitation, and spoken memory
 
 #### Historical Importance
 The discovery team concluded that the organism was too valuable to destroy and too
@@ -3938,68 +3834,60 @@ fracture, or collapse human memory continuity. Through controlled dilution, stab
 refinement, A.C.T has categorized multiple derivative classes based on concentration.
 
 ##### 004-A
-**Composition:** 100% sap / 0% water-alcohol  
-**Primary Effect:** 100% memory erasure  
-**Failure Risk:** catastrophic identity loss expected  
-**Authorization:** O5-level only  
+**Composition:** 100% sap / 0% water-alcohol **Primary Effect:** 100% memory erasure **Failure Risk:** catastrophic
+identity loss expected **Authorization:** O5-level only
 
 004-A is effectively total mnemonic destruction. Use is considered extreme and existentially invasive. Survivability
 of identity continuity is not assumed.
 
 ##### 004-B
-**Composition:** 80% sap / 20% water-alcohol  
-**Primary Effect:** up to 10 years of memory erasure  
-**Failure Risk:** coma for 5 years if used incorrectly  
-**Authorization:** Administrator or O5-level review  
+**Composition:** 80% sap / 20% water-alcohol **Primary Effect:** up to 10 years of memory
+erasure **Failure Risk:**
+coma for 5 years if used incorrectly **Authorization:** Administrator or O5-level review
 
 004-B is one of the most severe fieldable compounds. It is not approved for
 ordinary civilian use.
 
 ##### 004-C
-**Composition:** 70% sap / 30% water-alcohol  
-**Primary Effect:** up to 5 years of memory erasure  
-**Failure Risk:** violent blood vomiting if used incorrectly  
-**Authorization:** high-threat secrecy review only  
+**Composition:** 70% sap / 30% water-alcohol **Primary Effect:** up to 5 years of memory
+erasure **Failure Risk:**
+violent blood vomiting if used incorrectly **Authorization:** high-threat secrecy review only
 
 004-C remains highly dangerous and operationally unstable.
 
 ##### 004-D
-**Composition:** 50% sap / 50% water-alcohol  
-**Primary Effect:** up to 3 years of memory erasure  
-**Failure Risk:** heart decay if used incorrectly  
-**Authorization:** severe compromise response only  
+**Composition:** 50% sap / 50% water-alcohol **Primary Effect:** up to 3 years of memory
+erasure **Failure Risk:**
+heart decay if used incorrectly **Authorization:** severe compromise response only
 
 004-D is considered highly effective but biologically dangerous.
 
 ##### 004-E
-**Composition:** 30% sap / 70% water-alcohol  
-**Primary Effect:** up to 1 year of memory erasure  
-**Failure Risk:** neurological breakdown if used incorrectly  
-**Authorization:** restricted internal clearance only  
+**Composition:** 30% sap / 70% water-alcohol **Primary Effect:** up to 1 year of memory
+erasure **Failure Risk:**
+neurological breakdown if used incorrectly **Authorization:** restricted internal clearance only
 
 004-E is a lower but still severe long-term wipe formulation.
 
 ##### 004-F
-**Composition:** 10% sap / 90% water-alcohol  
-**Primary Effect:** approximately 1 month of memory erasure  
-**Failure Risk:** liver shrinking if used incorrectly  
-**Authorization:** controlled witness suppression use  
+**Composition:** 10% sap / 90% water-alcohol **Primary Effect:** approximately 1 month of memory erasure
+**Failure
+Risk:** liver shrinking if used incorrectly **Authorization:** controlled witness suppression use
 
 004-F is one of the more practical operational grades, though still medically dangerous.
 
 ##### 004-G
-**Composition:** 5% sap / 95% water-alcohol  
-**Primary Effect:** approximately 1 week of memory erasure  
-**Failure Risk:** sudden blindness for 1 month if used incorrectly  
-**Authorization:** limited field use  
+**Composition:** 5% sap / 95% water-alcohol **Primary Effect:** approximately 1 week of memory erasure
+**Failure
+Risk:** sudden blindness for 1 month if used incorrectly **Authorization:** limited field use
 
 004-G is used where a short-term but meaningful recall removal window is sufficient.
 
 ##### 004-H
-**Composition:** 1% sap / 99% water-alcohol  
-**Primary Effect:** approximately 1 day of memory erasure  
-**Failure Risk:** systemic weakness for 10 months if used incorrectly  
-**Authorization:** lowest recognized 004 operational grade  
+**Composition:** 1% sap / 99% water-alcohol **Primary Effect:** approximately 1 day of memory erasure
+**Failure
+Risk:** systemic weakness for 10 months if used incorrectly **Authorization:** lowest recognized 004 operational
+grade
 
 004-H is the weakest stable recognized amnestic dilution in current A.C.T use.
 
@@ -4235,7 +4123,7 @@ groups that are themselves anomalous.
   RCT Format = containment / research / transformation live file (CO Block, RE
   Block,
   TR Block)
-- 004-Series = amnestic compound reference derived from AFD-NB-004
+— 004-Series = amnestic compound reference derived from AFD-NB-004
   12 Log Categories = Recovery & Discovery, Interview & Testimony, Experiment & Testing,
   Incident
   & Breach, Exploration
@@ -4294,18 +4182,18 @@ What this book now contains:
 - Complete fracture index (containment and sub-threat)
 - Complete transformation viability scale with authorization protocol, prohibition conditions, required proof, and
   unstable asset conditions
-- Full containment procedure writing standard with all structure categories explained
+— Full containment procedure writing standard with all structure categories explained
   Full breach logic, breach response priority, Broken Masquerade Protocol, REGRESSION Protocol, and termination
   rule
-- Observation restrictions and breach states
-- Information suppression and redaction format
-- Complete twelve-category anomaly log system with selection rules and naming standard
-- Complete site doctrine (SITE, SUB-SITE, categories, naming, criteria)
-- Complete site registry doctrine and writing standard
-- Complete jurisdiction doctrine (types, priority rules, routing logic, map security)
-- Full global site registry (5 major sites with complete registry entries)
-- Full supporting sub-site registry (5 sub-sites with complete entries)
-- Complete GOI doctrine (qualification, designation, classification stack, file standard, dual filing)
+— Observation restrictions and breach states
+— Information suppression and redaction format
+— Complete twelve-category anomaly log system with selection rules and naming standard
+— Complete site doctrine (SITE, SUB-SITE, categories, naming, criteria)
+— Complete site registry doctrine and writing standard
+— Complete jurisdiction doctrine (types, priority rules, routing logic, map security)
+— Full global site registry (5 major sites with complete registry entries)
+— Full supporting sub-site registry (5 sub-sites with complete entries)
+— Complete GOI doctrine (qualification, designation, classification stack, file standard, dual filing)
   Full sample GOIs (GAA, A-GA, Anstrall Market, Children of the Deep, DREAM .INC,
   Liberty
   Freedoms) with complete
@@ -4313,19 +4201,19 @@ What this book now contains:
   Complete historical origin (ERE, first signs, first deployment, ENTITY-000, founding, ABYSS Floor construction,
   first
   doctrine, transition to modern A.C.T)
-- Foundational anomaly case study: ITHYOS, The World-Sleeper (ENTITY-000 / AFD-CH-000)
+— Foundational anomaly case study: ITHYOS, The World-Sleeper (ENTITY-000 / AFD-CH-000)
   Foundational anomaly case study: NEMNOLIA, The Golden Veil / The Forgetting Bloom (UFD-NB-004
   /
   AFD-NB-004)
-- Complete 004-Series Amnestic Compound Reference (004-A through 004-H with composition, effects, failure risks,
+— Complete 004-Series Amnestic Compound Reference (004-A through 004-H with composition, effects, failure risks,
   authorization, and medical warnings)
   Operational doctrine sequence (DETECT > VERIFY > CONCEAL > CONTAIN > ASSESS >
   RESEARCH >
   TRANSFORM > MAINTAIN)
-- Internal philosophy
-- Operational culture and division function in daily practice
-- Complete glossary of core terms
-- Quick reference index
+— Internal philosophy
+— Operational culture and division function in daily practice
+— Complete glossary of core terms
+— Quick reference index
 
 If future archive materials arrive, they can be added as new chapters or sub-sections
 without breaking the existing

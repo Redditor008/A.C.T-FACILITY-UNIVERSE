@@ -180,9 +180,9 @@ OPEN QUESTIONS
 - Can informal tool movement create enough custody loss to trigger review?
 - How should ILCC route personnel when surface transition and deep floors both need
 evacuation priority?
-- Should port handoff delays automatically freeze laboratory scheduling?
-- Can a resident influence logistics by altering what staff believe is urgent?
-- When does a logistics error become a containment breach?
+— Should port handoff delays automatically freeze laboratory scheduling?
+— Can a resident influence logistics by altering what staff believe is urgent?
+— When does a logistics error become a containment breach?
 
 FILE METADATA
 

@@ -32,11 +32,11 @@ irreversible memory erasure.
 ============================================================
 
 Observed Properties
-- The organism does not behave like ordinary flora.
-- It appears to respond to nearby thought, agitation, and spoken memory.
-- Its golden sap directly attacks memory continuity.
-- Subjects may remain conscious while losing recent or long-term memory structure.
-- Overexposure causes severe biological damage in addition to memory loss.
+— The organism does not behave like ordinary flora.
+— It appears to respond to nearby thought, agitation, and spoken memory.
+— Its golden sap directly attacks memory continuity.
+— Subjects may remain conscious while losing recent or long-term memory structure.
+— Overexposure causes severe biological damage in addition to memory loss.
 
 ============================================================
 
@@ -51,12 +51,12 @@ dangerous to leave unmanaged.
 ============================================================
 
 Initial Directive
-- No direct unmasked handling
-- No solo observation during bloom cycle
-- No unfiltered sap contact
-- No civilian knowledge of the organism
-- All extracted sap to be sealed immediately
-- All exposed personnel to undergo recall testing
+— No direct unmasked handling
+— No solo observation during bloom cycle
+— No unfiltered sap contact
+— No civilian knowledge of the organism
+— All extracted sap to be sealed immediately
+— All exposed personnel to undergo recall testing
 
 ============================================================
 

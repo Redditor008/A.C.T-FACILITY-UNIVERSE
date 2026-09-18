@@ -179,7 +179,7 @@ CROSS-REFERENCES
 
 ACT-SITE-01-US-W-F-6 Medical and Cognitive Care Floor Dossier; ACT-SITE-01-US-W Redwood Veil Complex Site Dossier; ACT
 Personnel Exposure, E-Class, and Resilience Doctrine; TECH-ACT-004 - 004-Series Amnestic Compound System; TECH-ACT-028
-- Neural Lacing Type 004-MOD; TECH-ACT-056 - Memetic Filtering Infrastructure; Redwood Veil medical isolation
+— Neural Lacing Type 004-MOD; TECH-ACT-056 - Memetic Filtering Infrastructure; Redwood Veil medical isolation
 ledgers
 restricted.
 

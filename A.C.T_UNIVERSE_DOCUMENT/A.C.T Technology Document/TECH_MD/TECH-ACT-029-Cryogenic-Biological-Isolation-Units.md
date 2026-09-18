@@ -208,8 +208,8 @@ Standing reminder: stasis is not an answer. It is a held breath.
 
 - ACT Technological Master Index 50, Item 16;
 - ACT Technological Visual Reference Guide, Item 16;
-- TECH-ACT-006 - Facility Converted Aircraft System;
-- TECH-ACT-023 - Genetic Perfection Protocol;
+- TECH-ACT-006 — Facility Converted Aircraft System;
+- TECH-ACT-023 — Genetic Perfection Protocol;
 - AFD-OB-412 Soul Pendant containment file;
 - White Grave Station medical stasis procedures [restricted].
 
@@ -230,9 +230,7 @@ Standing reminder: stasis is not an answer. It is a held breath.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Medical Division / Stasis Technology Desk / Central Archive  
-**Review Status:** Active restricted record; resonant cooling details censored  
-**Next Review:** After any thaw failure, rhythm drift, FCA medical transport incident, or anchor-linked
-stasis
-distress
+**Created:** 2026-09-15 **Author Desk:** Medical Division / Stasis Technology Desk / Central Archive **Review
+Status:** Active restricted record; resonant cooling details censored **Next Review:** After any thaw failure,
+rhythm
+drift, FCA medical transport incident, or anchor-linked stasis distress

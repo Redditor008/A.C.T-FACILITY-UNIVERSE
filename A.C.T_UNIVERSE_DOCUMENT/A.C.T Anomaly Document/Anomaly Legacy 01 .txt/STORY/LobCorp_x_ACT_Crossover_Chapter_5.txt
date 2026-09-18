@@ -639,29 +639,29 @@ END OF DAYS 17–19
 APPENDIX: ITHYOS E.G.O. REWARDS
 
 Abyssal Fang (Weapon)
-- Source: ITHYOS — The World-Sleeper
-- Damage: PALE (8–10) / BLACK (5–7)
-- Attack Speed: Slow
-- Special Effect: Inflicts *Slumber* on targets, slowing them and reducing their damage. Bonus
+— Source: ITHYOS — The World-Sleeper
+— Damage: PALE (8–10) / BLACK (5–7)
+— Attack Speed: Slow
+— Special Effect: Inflicts *Slumber* on targets, slowing them and reducing their damage. Bonus
 PALE damage against
 targets already suffering mental status effects.
-- Memento: *"The deep does not hurry. It only arrives."*
+— Memento: *"The deep does not hurry. It only arrives."*
 
 Coils of the Sleeper (Suit)
-- Source: ITHYOS — The World-Sleeper
-- Resistance: RED +0.5, WHITE +0.5, BLACK +0.6, PALE +0.7
-- Special Effect: Immunity to mental compulsion from sleeping/dormant Abnormalities. 30% damage reduction while
+— Source: ITHYOS — The World-Sleeper
+— Resistance: RED +0.5, WHITE +0.5, BLACK +0.6, PALE +0.7
+— Special Effect: Immunity to mental compulsion from sleeping/dormant Abnormalities. 30% damage reduction while
 standing still. 15% movement penalty and occasional trance states.
-- Memento: *"To wear the serpent is to dream its patience."*
+— Memento: *"To wear the serpent is to dream its patience."*
 
 Gifts of the World-Sleeper
-- Gift I — The First Doctrine: Scale pendant. Reduces Qliphoth Counter decay for
+— Gift I — The First Doctrine: Scale pendant. Reduces Qliphoth Counter decay for
 sleeping/dormant Abnormalities by 1
 point per day. *"Keep it asleep."*
-- Gift II — The Abyssal Earplug: Blocks songs/infohazards from Abnormalities. *"Some songs are
+— Gift II — The Abyssal Earplug: Blocks songs/infohazards from Abnormalities. *"Some songs are
 not meant to be
 finished."*
-- Gift III — The Slumbering Coil: Cell-bound ribbon. Deepens an Abnormality's sleep, reducing
+— Gift III — The Slumbering Coil: Cell-bound ribbon. Deepens an Abnormality's sleep, reducing
 breach chance by 20% but
 lowering energy production by 15%. *"Sleep is not absence. Sleep is mercy."*
 

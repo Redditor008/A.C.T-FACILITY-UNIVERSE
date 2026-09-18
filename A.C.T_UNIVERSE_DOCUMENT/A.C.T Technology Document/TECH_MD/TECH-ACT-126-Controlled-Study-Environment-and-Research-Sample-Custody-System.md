@@ -187,9 +187,9 @@ containment.
 - ACT-SITE-01-US-W-F-5 Research and Analysis Floor Dossier;
 - ACT-SITE-01-US-W-F-4 Transformation Staging Floor Dossier;
 - ACT-SITE-01-US-W-F-6 Medical and Cognitive Care Floor Dossier;
-- TECH-ACT-050 - Digital Resonance Mapping Suite;
-- TECH-ACT-124 - Standard Box Holding Chamber System;
-- TECH-ACT-125 - Ascending Authorization Transformation Staging Lock System;
+- TECH-ACT-050 — Digital Resonance Mapping Suite;
+- TECH-ACT-124 — Standard Box Holding Chamber System;
+- TECH-ACT-125 — Ascending Authorization Transformation Staging Lock System;
 - Redwood Veil research authorization and sample-control ledgers [clearance-gated].
 
 ---
@@ -209,9 +209,8 @@ containment.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Floor Research Chief / Research Division / Central Archive
-**Review Status:** Active controlled study and sample-custody technology record; live program rosters, resident sample
-identities, and restricted findings censored
-**Next Review:** After any sample-control breach, condition leak, undocumented study, Archive mirror hazard, Medical
-exposure incident, return verification dispute, or transformation-boundary review
+**Created:** 2026-09-16 **Author Desk:** Floor Research Chief / Research Division / Central Archive **Review
+Status:**
+Active controlled study and sample-custody technology record; live program rosters, resident sample identities, and
+restricted findings censored **Next Review:** After any sample-control breach, condition leak, undocumented study,
+Archive mirror hazard, Medical exposure incident, return verification dispute, or transformation-boundary review

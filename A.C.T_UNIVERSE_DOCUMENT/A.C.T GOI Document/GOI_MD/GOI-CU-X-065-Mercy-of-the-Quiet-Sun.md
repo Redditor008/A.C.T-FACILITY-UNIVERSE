@@ -136,14 +136,14 @@ A.C.T assessment identifies these functional layers:
   mercy readers who decide whether a crisis is classified by the sect as
   avoidable,
   delayable, or gentle-ending;
-- noon nurses who prepare teas, injections, wraps, and room conditions;
-- quiet cantors who lead sedation chants, breathing sequences, and surrender hymns;
-- sleep wardens who prevent frightened members from leaving before the rite ends;
-- curtain keepers who manage light, shadow, mirrors, and window exposure;
-- ledger mourners who record names of persons the sect believes spared from terror;
-- family softeners who convince relatives that rescue may be cruelty;
-- retreat drivers who move recruits to clinic-chapels and closed care homes;
-- after-sun cleaners who remove cups, bedding, identity papers, and failed-warning evidence.
+— noon nurses who prepare teas, injections, wraps, and room conditions;
+— quiet cantors who lead sedation chants, breathing sequences, and surrender hymns;
+— sleep wardens who prevent frightened members from leaving before the rite ends;
+— curtain keepers who manage light, shadow, mirrors, and window exposure;
+— ledger mourners who record names of persons the sect believes spared from terror;
+— family softeners who convince relatives that rescue may be cruelty;
+— retreat drivers who move recruits to clinic-chapels and closed care homes;
+— after-sun cleaners who remove cups, bedding, identity papers, and failed-warning evidence.
 
 This structure distinguishes Mercy of the Quiet Sun from a one-event death cult. It
 has roles, procedure, doctrine,
@@ -451,8 +451,8 @@ resentment toward rescue recovery.
   Mercy of the Quiet Sun is an outside cultic apocalypse-mercy sect and not
   an
   A.C.T body.
-- The sect operates through care, hospice, shelter, and retreat channels.
-- Its rites and substances can reduce panic while undermining evacuation and consent.
+— The sect operates through care, hospice, shelter, and retreat channels.
+— Its rites and substances can reduce panic while undermining evacuation and consent.
   The group has obstructed A.C.T, Grey Harbor, and other rescue efforts during active
   danger.
   The sect's operational relationship to A.C.T is negative because it encourages surrender where
@@ -484,13 +484,13 @@ be merged.
   or
   combined ritual
   conditions?
-- How many clinic-chapels operate under legitimate hospice licenses?
+— How many clinic-chapels operate under legitimate hospice licenses?
   Has the sect ever correctly identified a truly nonrecoverable event before A.C.T confirmed
   it?
-- Do Noon Nurses have medical training, anomalous training, or both?
-- What happens to persons listed in mercy ledgers as fully quieted?
-- Has the sect infiltrated public disaster shelters through ordinary volunteer channels?
-- Can safer palliative care and truthful aftercare reduce recruitment without validating surrender doctrine?
+— Do Noon Nurses have medical training, anomalous training, or both?
+— What happens to persons listed in mercy ledgers as fully quieted?
+— Has the sect infiltrated public disaster shelters through ordinary volunteer channels?
+— Can safer palliative care and truthful aftercare reduce recruitment without validating surrender doctrine?
 
 ### Intelligence Confidence
 
@@ -523,7 +523,7 @@ survivor medical review or criminal responsibility assessment for active operato
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational
   Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md`
+— `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md`
   Restricted apocalypse, sedation, hospice, surrender, post-disaster, amnestic, and survivor-care case chains held
   under
   Central Archive routing.

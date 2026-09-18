@@ -179,9 +179,9 @@ the place that contains them.
 
 - ACT-SUB-04-BR-C Hollow Canopy Enclosure Sub-Site Dossier;
 - ACT-SITE-04-BR-C Verde Null Bio-Reserve Site Dossier;
-- TECH-ACT-036 - Ectothermic Regeneration Gel;
-- TECH-ACT-041 - Harvested Pale Wood;
-- TECH-ACT-055 - Silent Boundary System;
+- TECH-ACT-036 — Ectothermic Regeneration Gel;
+- TECH-ACT-041 — Harvested Pale Wood;
+- TECH-ACT-055 — Silent Boundary System;
 - Hollow Canopy resident sector register [restricted].
 
 ---
@@ -199,9 +199,7 @@ the place that contains them.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Enclosure Supervisor / Environmental Containment Lead / Central Archive
+**Created:** 2026-09-16 **Author Desk:** Enclosure Supervisor / Environmental Containment Lead / Central Archive
 **Review Status:** Active native containment field record; live sector maps, resident names, and environmental
-thresholds censored
-**Next Review:** After any relocation request, field drift, resident condition change, incursion, transport-denial
-dispute, or parent-reserve sector review
+thresholds censored **Next Review:** After any relocation request, field drift, resident condition change, incursion,
+transport-denial dispute, or parent-reserve sector review

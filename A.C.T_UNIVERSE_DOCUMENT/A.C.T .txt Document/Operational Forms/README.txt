@@ -1,9 +1,9 @@
 # A.C.T FACILITY ARCHIVE FILE
 ## OPERATIONAL FORMS HOLDING FOLDER
 
-Archive Status: Active Holding Folder  
-Distribution: Internal / Field / Archive / Civil Covert / Medical Care  
-Authority: Central Archive and Field Operating Chief Council  
+Archive Status: Active Holding Folder
+Distribution: Internal / Field / Archive / Civil Covert / Medical Care
+Authority: Central Archive and Field Operating Chief Council
 
 ### Archive Note
 This folder holds reusable A.C.T working forms. A working form is an in-world document

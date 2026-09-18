@@ -277,7 +277,7 @@ If the group itself is anomalous, it receives **dual filing**.
 This prevents A.C.T from confusing:
 - what the group **is as an organization**
 with
-- what the group **is as an anomalous condition**
+— what the group **is as an anomalous condition**
 
 A cult may worship an anomaly without being anomalous itself. A collective intelligence may
 be both a GOI and an
@@ -288,8 +288,7 @@ anomaly at once.
 ### 4.7 — Sample GOI Entries
 
 #### GOI-GV-P-001
-**Common Name:** Government Anti Anomaly  
-**Short Name:** GAA
+**Common Name:** Government Anti Anomaly **Short Name:** GAA
 
 | FIELD | VALUE |
 |---|---|
@@ -301,181 +300,145 @@ anomaly at once.
 | SECRECY RISK | Veiled |
 | A.C.T POSTURE | Cooperated |
 
-**Summary:**  
-The **Government Anti Anomaly**, or **GAA**, is a limited government body aware of anomalous
-existence and partially
-cooperative with the A.C.T Facility. Internal estimates suggest that only around **10% of the
-wider government
-structure** possesses any meaningful awareness of anomalies at all. The GAA serves as one
-of the few official bridges
-between ordinary state power and the hidden anomaly-management world.
+**Summary:** The **Government Anti Anomaly**, or **GAA**, is a limited government body aware of
+anomalous existence
+and partially cooperative with the A.C.T Facility. Internal estimates suggest that only around **10%
+of the wider
+government structure** possesses any meaningful awareness of anomalies at all. The GAA serves as
+one of the few
+official bridges between ordinary state power and the hidden anomaly-management world.
 
-**Role in Doctrine:**  
-The GAA is not treated as a direct threat. It is a controlled state
-partner whose usefulness lies in legal masking,
-quiet authorization, classified logistics, and selective political cooperation.
+**Role in Doctrine:** The GAA is not treated as a direct threat. It is
+a controlled state partner whose usefulness
+lies in legal masking, quiet authorization, classified logistics, and selective political cooperation.
 
 ---
 
 #### GOI-ML-X-014
-**Common Name:** Anti-Global Anomaly  
-**Short Name:** A-GA
+**Common Name:** Anti-Global Anomaly **Short Name:** A-GA
 
-**Nature Class:** Militant  
-**Alignment Class:** Negative  
-**Reach Class:** Transnational  
-**Anomalous Capability:** Engineering  
-**Threat Level:** 4  
-**Secrecy Risk:** Leaking  
-**A.C.T Posture:** Contain / Dismantle
+**Nature Class:** Militant **Alignment Class:** Negative **Reach Class:** Transnational **Anomalous Capability:**
+Engineering **Threat Level:** 4 **Secrecy Risk:** Leaking **A.C.T Posture:** Contain / Dismantle
 
-**Summary:**  
-The **Anti-Global Anomaly**, or **A-GA**, is a large standalone militia-style organization whose sole ideological
-objective is the destruction of anomalies. It does not distinguish between harmful, useful, neutral,
-or beneficial
-anomalies. To A-GA, all anomalies are violations that must be eradicated.
+**Summary:** The **Anti-Global Anomaly**, or **A-GA**, is a large standalone militia-style organization whose sole
+ideological objective is the destruction of anomalies. It does not distinguish between harmful, useful,
+neutral, or
+beneficial anomalies. To A-GA, all anomalies are violations that must be eradicated.
 
-**Role in Doctrine:**  
-A-GA is dangerous not because it loves anomalies, but because it refuses all nuance.
-Its willingness to destroy
-beneficial or stabilizing anomalies makes it a threat not only to A.C.T, but to
-structural reality itself. In multiple
-models, A-GA is more dangerous than certain hostile anomalies because it may remove the
-very things keeping larger
-threats contained.
+**Role in Doctrine:** A-GA is dangerous not because it loves anomalies, but because it
+refuses all nuance. Its
+willingness to destroy beneficial or stabilizing anomalies makes it a threat not only to
+A.C.T, but to structural
+reality itself. In multiple models, A-GA is more dangerous than certain hostile anomalies because
+it may remove the
+very things keeping larger threats contained.
 
 ---
 
 #### GOI-BS-T-027
 **Common Name:** Anstrall Market
 
-**Nature Class:** Business  
-**Alignment Class:** Trade  
-**Reach Class:** Transnational  
-**Anomalous Capability:** Handler  
-**Threat Level:** 3  
-**Secrecy Risk:** Exposure-Active  
-**A.C.T Posture:** Monitor / Appropriate
+**Nature Class:** Business **Alignment Class:** Trade **Reach Class:** Transnational **Anomalous Capability:** Handler
+**Threat Level:** 3 **Secrecy Risk:** Exposure-Active **A.C.T Posture:** Monitor / Appropriate
 
-**Known Leadership:**  
-A mysterious individual known only as **Anstrall**
+**Known Leadership:** A mysterious individual known only as **Anstrall**
 
-**Summary:**  
-The **Anstrall Market** is a black-market anomaly trade structure specializing in the movement and
-sale of anomalous
-objects to the highest bidder. It is governed by the enigmatic figure known as
-**Anstrall** and is considered one of
-the most commercially useful yet ethically unstable GOIs in A.C.T records.
+**Summary:** The **Anstrall Market** is a black-market anomaly trade structure specializing in the movement
+and sale
+of anomalous objects to the highest bidder. It is governed by the enigmatic figure
+known as **Anstrall** and is
+considered one of the most commercially useful yet ethically unstable GOIs in A.C.T records.
 
-**Role in Doctrine:**  
-The Market is not inherently aligned with the Facility, but it is not always
-best treated as an enemy. It can be more
-useful when controlled, tracked, infiltrated, or quietly exploited than when openly destroyed. However, its
-trade in
-anomalous materials makes it a constant secrecy hazard and a source of escalation if
-left unmanaged.
+**Role in Doctrine:** The Market is not inherently aligned with the Facility, but it
+is not always best treated as an
+enemy. It can be more useful when controlled, tracked, infiltrated, or quietly exploited than
+when openly destroyed.
+However, its trade in anomalous materials makes it a constant secrecy hazard and a
+source of escalation if left
+unmanaged.
 
 #### GOI-CU-X-048
-**Common Name:** Children of the Deep  
-**Short Name:** CoTD
+**Common Name:** Children of the Deep **Short Name:** CoTD
 
-**Nature Class:** Cultic  
-**Alignment Class:** Negative  
-**Reach Class:** Regional  
-**Anomalous Capability:** Practitioner  
-**Threat Level:** 5  
-**Secrecy Risk:** Leaking  
-**A.C.T Posture:** Infiltrate / Contain / Dismantle  
+**Nature Class:** Cultic **Alignment Class:** Negative **Reach Class:** Regional **Anomalous Capability:**
+Practitioner **Threat Level:** 5 **Secrecy Risk:** Leaking **A.C.T Posture:** Infiltrate / Contain / Dismantle
 
-**Known Leadership:** The Sounding Council; individual identities restricted and compartmented
-**Primary Active Region:** Midwestern United States
+**Known Leadership:** The Sounding Council; individual identities restricted and compartmented **Primary Active
+Region:** Midwestern United States
 
-**Summary:**  
-The **Children of the Deep**, or **CoTD**, is a cultic congregation network gathered around
-a single apocalyptic
-objective: the awakening of a separately sealed deep-sea sleeper whose release is believed to
-return the world to an
-older, submerged order. Its congregations operate through ritual preparation, coastal and inland recruitment, and
-the
-patient accumulation of the means to reach the sleeper; the network's own name for
-its work is the Inland Tide.
+**Summary:** The **Children of the Deep**, or **CoTD**, is a cultic congregation network gathered
+around a single
+apocalyptic objective: the awakening of a separately sealed deep-sea sleeper whose release is believed
+to return the
+world to an older, submerged order. Its congregations operate through ritual preparation, coastal and
+inland
+recruitment, and the patient accumulation of the means to reach the sleeper; the network's
+own name for its work is
+the Inland Tide.
 
-**Role in Doctrine:**  
-CoTD is treated as a severe, patient threat rather than an immediate one. Because
-its objective is the awakening of a
-separately contained apocalyptic anomaly, A.C.T posture is infiltration to map the congregations, containment to
-interrupt ritual and supply activity, and dismantling of awakening preparations that remain interrupted but
-not ended.
-The target anomaly is filed separately and kept distinct from the organization record.
+**Role in Doctrine:** CoTD is treated as a severe, patient threat rather than an
+immediate one. Because its objective
+is the awakening of a separately contained apocalyptic anomaly, A.C.T posture is infiltration to
+map the
+congregations, containment to interrupt ritual and supply activity, and dismantling of awakening preparations that
+remain interrupted but not ended. The target anomaly is filed separately and kept distinct
+from the organization
+record.
 
 ---
 
 #### GOI-CP-B-049
-**Common Name:** DREAM .INC  
-**Short Name:** DREAM
+**Common Name:** DREAM .INC **Short Name:** DREAM
 
-**Nature Class:** Corporate  
-**Alignment Class:** Business  
-**Reach Class:** National  
-**Anomalous Capability:** Engineering  
-**Threat Level:** 4  
-**Secrecy Risk:** Exposure-Active  
-**A.C.T Posture:** Infiltrate / Contain / Appropriate  
+**Nature Class:** Corporate **Alignment Class:** Business **Reach Class:** National **Anomalous Capability:**
+Engineering **Threat Level:** 4 **Secrecy Risk:** Exposure-Active **A.C.T Posture:** Infiltrate / Contain /
+Appropriate
 
-**Known Leadership:** Unresolved corporate executive structure; local directors compartmented
-**Primary Active Region:** National distributed corporate footprint
+**Known Leadership:** Unresolved corporate executive structure; local directors compartmented **Primary Active
+Region:** National distributed corporate footprint
 
-**Summary:**  
-**DREAM .INC** is a company that possesses a mysterious anomalous machine capable of extracting
-a substance called
-Dream Nectar from at least one Dream-Type Anomaly. The company sells the substance as
-underground medicine,
-advertising that a consumer's wish will come true in their dream after use. At
-least twelve open company buildings are
-confirmed to be operating.
+**Summary:** **DREAM .INC** is a company that possesses a mysterious anomalous machine capable of
+extracting a
+substance called Dream Nectar from at least one Dream-Type Anomaly. The company sells the
+substance as underground
+medicine, advertising that a consumer's wish will come true in their dream after use.
+At least twelve open company
+buildings are confirmed to be operating.
 
-**Role in Doctrine:**  
-DREAM .INC is a corrupt commercial mirror of Transformation: it converts an anomalous source
-into a saleable product
-before the risks are understood. A.C.T posture is infiltration to map the building network,
-containment of the product
-and the extraction apparatus, and appropriation of what can be safely taken into Facility
-control. The Dream-Type
-Anomaly and the machine are filed separately under restricted anomaly records.
+**Role in Doctrine:** DREAM .INC is a corrupt commercial mirror of Transformation: it converts
+an anomalous source
+into a saleable product before the risks are understood. A.C.T posture is infiltration to
+map the building network,
+containment of the product and the extraction apparatus, and appropriation of what can be
+safely taken into Facility
+control. The Dream-Type Anomaly and the machine are filed separately under restricted anomaly records.
 
 ---
 
 #### GOI-ML-X-050
-**Common Name:** Liberty Freedoms  
-**Short Name:** L.F.
+**Common Name:** Liberty Freedoms **Short Name:** L.F.
 
-**Nature Class:** Militant  
-**Alignment Class:** Negative  
-**Reach Class:** Transnational  
-**Anomalous Capability:** Handler  
-**Threat Level:** 4  
-**Secrecy Risk:** Exposure-Active  
-**A.C.T Posture:** Contain / Dismantle / Infiltrate  
+**Nature Class:** Militant **Alignment Class:** Negative **Reach Class:** Transnational **Anomalous Capability:**
+Handler **Threat Level:** 4 **Secrecy Risk:** Exposure-Active **A.C.T Posture:** Contain / Dismantle / Infiltrate
 
-**Known Leadership:** Assessed rotating council of founding defectors and regional commanders
-**Primary Active Region:** Transnational; defector-trace and route analysis held restricted
+**Known Leadership:** Assessed rotating council of founding defectors and regional commanders **Primary Active
+Region:** Transnational; defector-trace and route analysis held restricted
 
-**Summary:**  
-**Liberty Freedoms**, or **L.F.**, is a dispersed militant insurgency of assessed defector origin whose
-stated enemy
-is A.C.T custody itself. It raids transport and recovery operations, publishes controlled document leaks
-through
-shifting mastheads, and transports anomalies that have left containment with it, presenting every act
-as liberation
-from institutional capture.
+**Summary:** **Liberty Freedoms**, or **L.F.**, is a dispersed militant insurgency of assessed defector origin
+whose
+stated enemy is A.C.T custody itself. It raids transport and recovery operations, publishes controlled
+document leaks
+through shifting mastheads, and transports anomalies that have left containment with it, presenting every
+act as
+liberation from institutional capture.
 
-**Role in Doctrine:**  
-L.F. is dangerous because it weaponizes the Facility's own records, routes, and moral language
-against containment. It
-must not be confused with A-GA, which seeks the destruction of anomalies; L.F. claims
-to preserve them. A.C.T posture
-is containment of cells and carried subjects, dismantling of defector-recruitment and publication paths, and
-infiltration of a network whose doctrine outruns its members' knowledge.
+**Role in Doctrine:** L.F. is dangerous because it weaponizes the Facility's own records, routes,
+and moral language
+against containment. It must not be confused with A-GA, which seeks the destruction of
+anomalies; L.F. claims to
+preserve them. A.C.T posture is containment of cells and carried subjects, dismantling of defector-recruitment
+and
+publication paths, and infiltration of a network whose doctrine outruns its members' knowledge.
 
 ---
 

@@ -253,9 +253,9 @@ through physical entry.
 F-2 maintains standing transfer procedures:
 - material demonstrating interior instability moves downward to F-1 under
   restricted procedure;
-- material assessed as suitable for the open may move to the enclosure
+— material assessed as suitable for the open may move to the enclosure
   network under the reserve's environmental assessment doctrine;
-- material approved for study moves upward to the laboratory level under
+— material approved for study moves upward to the laboratory level under
   documented sample control.
 
 9.4 Incident Response
@@ -282,7 +282,7 @@ field enclosure:
 - non-natural organisms requiring close-controlled study;
 - biological material requiring environmental conditions the wilderness
   cannot provide;
-- residents held in climate-controlled chambers, containment habitats, and
+— residents held in climate-controlled chambers, containment habitats, and
   specialized environments.
 
 10.3 Holding Note

@@ -183,8 +183,8 @@ story given back to them.
 - ACT-SUB-01-US-W-F-2 Processing and Staging Level Floor Dossier;
 - ACT-SUB-01-US-W-F-3 Surface Cover Level Floor Dossier;
 - ACT-SITE-01-US-W Redwood Veil Complex Site Dossier;
-- TECH-ACT-004 - 004-Series Amnestic Compound System;
-- TECH-ACT-057 - Anomalous Intake Screening Suites;
+- TECH-ACT-004 — 004-Series Amnestic Compound System;
+- TECH-ACT-057 — Anomalous Intake Screening Suites;
 - Glass Orchard witness processing files [restricted].
 
 ---
@@ -206,9 +206,8 @@ story given back to them.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Processing Officer / Medical Lead / Central Archive
-**Review Status:** Active witness processing record; live witness identities, dosage tables, release narratives, and
-assimilation referrals censored
-**Next Review:** After any witness harm event, release contradiction, parent-site exposure, amnestic complication,
-assimilation dispute, or archive file failure
+**Created:** 2026-09-16 **Author Desk:** Processing Officer / Medical Lead / Central Archive **Review Status:**
+Active
+witness processing record; live witness identities, dosage tables, release narratives, and assimilation referrals
+censored **Next Review:** After any witness harm event, release contradiction, parent-site exposure, amnestic
+complication, assimilation dispute, or archive file failure

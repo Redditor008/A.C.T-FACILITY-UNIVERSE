@@ -186,9 +186,9 @@ truth with a locked border.
 - ACT-SITE-04-BR-C Verde Null Bio-Reserve Site Dossier;
 - ACT-SITE-04-BR-C-F-5 Surface Research Campus Floor Dossier;
 - ACT-SITE-04-BR-C-F-4 Personnel and Operations Level Floor Dossier;
-- TECH-ACT-101 - Concealed Perimeter Sector Network;
-- TECH-ACT-106 - Reserve Command and Operations Coordination System;
-- TECH-ACT-107 - Personnel Processing and Reserve Clearance System;
+- TECH-ACT-101 — Concealed Perimeter Sector Network;
+- TECH-ACT-106 — Reserve Command and Operations Coordination System;
+- TECH-ACT-107 — Personnel Processing and Reserve Clearance System;
 - Verde Null surface campus cover ledgers [restricted].
 
 ---
@@ -205,7 +205,7 @@ truth with a locked border.
   Can legitimate sample analysis continue safely when anomalous and non-anomalous ecosystems influence the
   same
   watershed?
-- When does cover discipline become scientific distortion?
+— When does cover discipline become scientific distortion?
   Should the campus invite external collaboration to strengthen legitimacy, or does collaboration increase
   boundary
   risk
@@ -218,9 +218,7 @@ truth with a locked border.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Surface Cover Administration / Campus Director / Central Archive
-**Review Status:** Active cover-campus technology record; live boundary maps, public-contact lists, concealed routes,
-and cover incident records censored
-**Next Review:** After any boundary exposure, public-program route error, external researcher pressure, published
-anomaly risk, concealed access sighting, or cover-language dispute
+**Created:** 2026-09-16 **Author Desk:** Surface Cover Administration / Campus Director / Central Archive **Review
+Status:** Active cover-campus technology record; live boundary maps, public-contact lists, concealed routes, and cover
+incident records censored **Next Review:** After any boundary exposure, public-program route error, external
+researcher pressure, published anomaly risk, concealed access sighting, or cover-language dispute

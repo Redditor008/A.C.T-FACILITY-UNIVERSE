@@ -208,8 +208,8 @@ without being touched.
 - ACT-SITE-01-US-W Redwood Veil Complex Site Dossier;
 - ACT-SITE-01-US-W-F-5 Research and Analysis Floor Dossier;
 - ACT Anomaly Log Categories, Audio / Video / Sensor Dossier guidance;
-- TECH-ACT-010 - Digital Resonance Sensors;
-- TECH-ACT-021 - Spectral Vibration Sensors;
+- TECH-ACT-010 — Digital Resonance Sensors;
+- TECH-ACT-021 — Spectral Vibration Sensors;
 - F-5 instrument-security standard [restricted];
 - Redwood Veil intake data mirror [restricted].
 
@@ -229,8 +229,7 @@ without being touched.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Research Division / Redwood Veil F-5 / Central Archive  
-**Review Status:** Active Facility instrument record; chamber schematics and pulse-processing method censored  
-**Next Review:** After any false baseline, pulse match dispute, exposure incident, method revision, or
-suite retrofit
+**Created:** 2026-09-15 **Author Desk:** Research Division / Redwood Veil F-5 / Central Archive **Review
+Status:**
+Active Facility instrument record; chamber schematics and pulse-processing method censored **Next Review:** After any
+false baseline, pulse match dispute, exposure incident, method revision, or suite retrofit

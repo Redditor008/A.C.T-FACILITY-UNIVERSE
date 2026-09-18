@@ -383,7 +383,7 @@ Daily life inside A.C.T varies by division, but several constants remain:
   every staff member knows less than they want to know and more than
   they
   should know
-- every shift assumes the impossible may become physical
+— every shift assumes the impossible may become physical
 
 A normal day may include:
 - containment review

@@ -183,7 +183,7 @@ CROSS-REFERENCES
 ACT Technological Master Index 50, Item 41; ACT Technological Visual Reference Guide, Item 41;
 Dark World Door,
 AFD-PL-932; Dark World Door Expedition Log; Dark World Door Blue Dirt Reactivity Dossier; TECH-ACT-024
-- Pale Wood
+— Pale Wood
 Scalpel; TECH-ACT-027 - Gold-Tipped Mining Drills; TECH-ACT-042 - Refined Steel-Dirt.
 
 OPEN QUESTIONS

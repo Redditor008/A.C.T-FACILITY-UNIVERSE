@@ -193,10 +193,10 @@ in public.
 
 - ACT-SITE-03-JP-E-F-8 Surface Archive and Transition Level Floor Dossier;
 - ACT-SITE-03-JP-E-F-7 Personnel and Administrative Level Floor Dossier;
-- TECH-ACT-057 - Anomalous Intake Screening Suites;
-- TECH-ACT-059 - Document Quarantine Cells;
-- TECH-ACT-115 - Archive Boundary Personnel Clearance System;
-- TECH-ACT-116 - Operational Archive Training and Doctrine Preparation System;
+- TECH-ACT-057 — Anomalous Intake Screening Suites;
+- TECH-ACT-059 — Document Quarantine Cells;
+- TECH-ACT-115 — Archive Boundary Personnel Clearance System;
+- TECH-ACT-116 — Operational Archive Training and Doctrine Preparation System;
 - Kurokawa public-floor transfer ledgers [restricted].
 
 ---
@@ -217,15 +217,13 @@ in public.
   or
   does suspicion permanently remove it from
   public custody?
-- When does calm cover language become dangerous because it slows transfer too much?
+— When does calm cover language become dangerous because it slows transfer too much?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Foundation Director / Security Boundary Office / Central Archive
-**Review Status:** Active surface-separation technology record; transition routes, cover phrases, public witnesses,
-and suspect-item receipts censored
-**Next Review:** After any delayed transfer, digitization halt, public observer exposure, staff preliminary-study
-violation, sealed carrier failure, or surface seal action
+**Created:** 2026-09-16 **Author Desk:** Foundation Director / Security Boundary Office / Central Archive **Review
+Status:** Active surface-separation technology record; transition routes, cover phrases, public witnesses, and
+suspect-item receipts censored **Next Review:** After any delayed transfer, digitization halt, public observer
+exposure, staff preliminary-study violation, sealed carrier failure, or surface seal action

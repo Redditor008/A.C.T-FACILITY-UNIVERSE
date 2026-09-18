@@ -180,8 +180,8 @@ life.
 - ACT-SITE-04-BR-C-F-2 Interior Biological Holding Floor Dossier;
 - ACT-SITE-04-BR-C-F-1 The Deep Cultivation Vault Floor Dossier;
 - ACT-SITE-04-BR-C-F-3 Laboratory and Medical Level Floor Dossier;
-- TECH-ACT-100 - Native Containment Field System;
-- TECH-ACT-102 - Hollow Canopy Field Station and Remote Monitoring System;
+- TECH-ACT-100 — Native Containment Field System;
+- TECH-ACT-102 — Hollow Canopy Field Station and Remote Monitoring System;
 - Verde Null F-2 chamber manifest [restricted].
 
 ---
@@ -192,18 +192,16 @@ life.
   failing?
   Can a chamber become too accurate a habitat and encourage growth beyond containment
   limits?
-- When should a resident move to open enclosure despite interior convenience?
-- How often should chamber baselines be recalibrated against native-field observations?
-- Can cross-contamination occur through environmental controls before physical contact?
-- When does interior holding become unauthorized cultivation?
+— When should a resident move to open enclosure despite interior convenience?
+— How often should chamber baselines be recalibrated against native-field observations?
+— Can cross-contamination occur through environmental controls before physical contact?
+— When does interior holding become unauthorized cultivation?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** F-2 Holding Officer / Environmental Containment Liaison / Central Archive
+**Created:** 2026-09-16 **Author Desk:** F-2 Holding Officer / Environmental Containment Liaison / Central Archive
 **Review Status:** Active biological habitat record; live chamber maps, resident identities, and environmental
-thresholds censored
-**Next Review:** After any habitat mismatch, transfer instability, chamber breach, resident stress event, open-sector
-transfer, or F-1 escalation
+thresholds censored **Next Review:** After any habitat mismatch, transfer instability, chamber breach, resident stress
+event, open-sector transfer, or F-1 escalation

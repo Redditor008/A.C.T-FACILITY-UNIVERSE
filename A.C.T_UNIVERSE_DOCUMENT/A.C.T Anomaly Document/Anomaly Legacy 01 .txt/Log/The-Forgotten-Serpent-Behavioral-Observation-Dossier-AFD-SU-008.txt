@@ -2,7 +2,7 @@ A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
 The-Forgotten-Serpent-Behavioral-Observation-Dossier-AFD-SU-008
 
 ═══════════════════════════════════════════════════════════════════════
-           A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER           
+           A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
                      Anomaly Containment Transformation
 ═══════════════════════════════════════════════════════════════════════
 
@@ -25,7 +25,7 @@ ARCHIVE STATUS:      Active / machinery-cycle restricted
 DOSSIER STATUS:      Open — continuous length and plasma monitoring
 
 ═══════════════════════════════════════════════════════════════════════
-                           CATEGORY CONTENTS                           
+                           CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
 This dossier belongs to A.C.T Log Category VIII — Behavioral & Observation
@@ -52,7 +52,7 @@ will not integrate, and hold its 3 m baseline so its appetite is observed
 rather than indulged.
 
 ═══════════════════════════════════════════════════════════════════════
-             SECTION 001 — ACCUMULATION-CYCLE OBSERVATION              
+             SECTION 001 — ACCUMULATION-CYCLE OBSERVATION
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-SU-008/OBS-001
@@ -81,7 +81,7 @@ OBSERVED CADENCE: Average full cycle under containment lasts 19 to 36 days
 depending on available scrap volume.
 
 ═══════════════════════════════════════════════════════════════════════
-        SECTION 002 — MATERIAL-ACCEPTANCE AND REJECTION MAPPING        
+        SECTION 002 — MATERIAL-ACCEPTANCE AND REJECTION MAPPING
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-SU-008/OBS-002
@@ -96,8 +96,8 @@ ACCEPTED MATERIALS:
    - discarded computers and circuit boards
    - rusted cables, plugs, adapters, chargers, and dead batteries after safe
      discharge
-   - abandoned household electronics and nonfunctional laboratory equipment
-   - analog storage media with no active archive claim
+   — abandoned household electronics and nonfunctional laboratory equipment
+   — analog storage media with no active archive claim
 
 REJECTED OR AVOIDED MATERIALS:
 
@@ -113,7 +113,7 @@ rather than material age alone. In two tests it refused to break down devices
 that still contained unsent messages.
 
 ═══════════════════════════════════════════════════════════════════════
-         SECTION 003 — PLASMA-ORGAN AND BREAKDOWN-STATE RECORD         
+         SECTION 003 — PLASMA-ORGAN AND BREAKDOWN-STATE RECORD
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-SU-008/OBS-003
@@ -141,7 +141,7 @@ incomplete timestamps. Researchers describe the breakdown state as "burning
 the object's last utility out of it."
 
 ═══════════════════════════════════════════════════════════════════════
-     SECTION 004 — BASELINE STABILITY AND SELF-CORRECTION TRACKING     
+     SECTION 004 — BASELINE STABILITY AND SELF-CORRECTION TRACKING
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-SU-008/OBS-004
@@ -163,7 +163,7 @@ integrated five broken ones. In every case, the clock hands were expelled
 during the next breakdown cycle, fused together at 12:00.
 
 ═══════════════════════════════════════════════════════════════════════
-         SECTION 005 — FEEDING DISCIPLINE AND CHAMBER PROTOCOL         
+         SECTION 005 — FEEDING DISCIPLINE AND CHAMBER PROTOCOL
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-SU-008/OBS-005
@@ -185,8 +185,8 @@ CONTAINMENT RULES:
    - Above 8.5 m, nonessential personnel evacuate the wing and dissipation
      rods are armed; at 9.5 m the chamber enters automatic breakdown
      containment mode
-   - No personal discarded devices may be placed in the chamber
-   - No high-voltage suppression unless the subject is in uncontrolled
+   — No personal discarded devices may be placed in the chamber
+   — No high-voltage suppression unless the subject is in uncontrolled
      breach movement — electrical attacks may be read as feeding stimulus
 
 OBSERVATION NOTE: Do not leave broken equipment near the chamber door. The
@@ -194,7 +194,7 @@ subject has repeatedly pressed its head against the lower seal when discarded
 components are stored nearby.
 
 ═══════════════════════════════════════════════════════════════════════
-              SECTION 006 — CLOSING OBSERVATION STATEMENT              
+              SECTION 006 — CLOSING OBSERVATION STATEMENT
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-SU-008/OBS-CLS-001

@@ -190,9 +190,9 @@ OPEN QUESTIONS
 - Can climate-controlled holding hide place-bound dependency long enough to create false confidence?
 - Should volcanic tremor or tide rhythm be treated as climate factors for certain
 residents?
-- When should an island resident transfer to Verde Null rather than remain at
+— When should an island resident transfer to Verde Null rather than remain at
 Nusantara?
-- How much Medical intervention can occur before a unit's climate stability is compromised?
+— How much Medical intervention can occur before a unit's climate stability is compromised?
 
 FILE METADATA
 

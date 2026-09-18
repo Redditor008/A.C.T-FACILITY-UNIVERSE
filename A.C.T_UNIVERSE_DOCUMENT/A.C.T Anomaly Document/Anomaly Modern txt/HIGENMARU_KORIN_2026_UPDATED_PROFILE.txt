@@ -332,11 +332,11 @@ This placement is intentional:
 
 - it treats the pair as a sovereign-aligned guest rather than paperwork in a
 vault;
-- Kazumi’s pressure suppresses uncontrolled predatory behavior;
-- the Temple’s acquired Will supports the state of rest;
-- Boundary Exchange discourages theft and hostile handling;
-- KŌRIN’s preference for stillness is reinforced;
-- HIGENMARU recognizes an apex governing presence and ceases searching indiscriminately for biological pulses.
+— Kazumi’s pressure suppresses uncontrolled predatory behavior;
+— the Temple’s acquired Will supports the state of rest;
+— Boundary Exchange discourages theft and hostile handling;
+— KŌRIN’s preference for stillness is reinforced;
+— HIGENMARU recognizes an apex governing presence and ceases searching indiscriminately for biological pulses.
 
 The previous Site-01 magnetic locker is now considered legacy containment. It became insufficient after
 HIGENMARU

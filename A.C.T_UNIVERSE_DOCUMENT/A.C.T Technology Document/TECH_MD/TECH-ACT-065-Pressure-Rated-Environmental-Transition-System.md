@@ -208,10 +208,10 @@ not reconstructed after damage occurs.
 - ACT-SITE-05-ID-C Nusantara Deep Relay Site Dossier;
 - ACT-SITE-05-ID-C-F-3 Maritime and Island Holding Level Floor Dossier;
 - Death Angler, AFD-NB-964;
-- TECH-ACT-064 - Water-Capable Containment Chambers;
-- TECH-ACT-034 - Abyssal Anchor Plating;
-- TECH-ACT-037 - Sub-Abyssal Sonar;
-- TECH-ACT-010 - Digital Resonance Sensors;
+- TECH-ACT-064 — Water-Capable Containment Chambers;
+- TECH-ACT-034 — Abyssal Anchor Plating;
+- TECH-ACT-037 — Sub-Abyssal Sonar;
+- TECH-ACT-010 — Digital Resonance Sensors;
 - Nusantara pressure-history ledgers [restricted].
 
 ---
@@ -229,10 +229,7 @@ not reconstructed after damage occurs.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15
-**Author Desk:** Maritime-Hold Command / Engineering Desk / Central Archive
-**Review Status:** Active pressure-management record; schematics, equalization formulas, and named restricted
-incidents censored
-**Next Review:** After any pressure-lock failure, deep resident transfer, equalization delay, Death Angler audit,
-or
+**Created:** 2026-09-15 **Author Desk:** Maritime-Hold Command / Engineering Desk / Central Archive **Review Status:**
+Active pressure-management record; schematics, equalization formulas, and named restricted incidents censored **Next
+Review:** After any pressure-lock failure, deep resident transfer, equalization delay, Death Angler audit, or
 pressure-history recorder discrepancy

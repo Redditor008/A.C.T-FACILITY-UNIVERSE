@@ -179,8 +179,8 @@ F-2's plan is organized around monitoring and records functions:
 - the seismic records vaults;
 - the restricted records vaults, holding the partially sealed deep-earth
   files;
-- the review and analysis spaces;
-- the floor command post and support services.
+— the review and analysis spaces;
+— the floor command post and support services.
 
 7.2 The Monitoring Processing Center
 

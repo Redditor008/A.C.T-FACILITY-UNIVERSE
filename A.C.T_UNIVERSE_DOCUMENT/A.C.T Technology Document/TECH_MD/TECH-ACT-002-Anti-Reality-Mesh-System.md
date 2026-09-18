@@ -88,9 +88,9 @@ ARM appears in five major roles:
 
 - fixed site concealment, including surface campuses, service entries, perimeter roads, and exterior facility
   signatures;
-- civilian perception management around A.C.T buildings, false companies, and restricted infrastructure;
-- surveillance dampening against ordinary cameras, map services, delivery systems, and casual drone observation;
-- emergency misdirection during breach response, transport arrival, or surface lockdown;
+— civilian perception management around A.C.T buildings, false companies, and restricted infrastructure;
+— surveillance dampening against ordinary cameras, map services, delivery systems, and casual drone observation;
+— emergency misdirection during breach response, transport arrival, or surface lockdown;
   post-incident normalcy support when an area must remain publicly boring long enough for
   Civil
   Covert to replace the
@@ -406,15 +406,15 @@ Reality Mesh System.
 
   How much long-term ARM exposure changes staff expectations of public attention remains incompletely
   studied.
-- Can hostile GOIs map ARM edges by tracking what civilians do not photograph?
-- Do repeated ARM-WHITE activations create civilian memory scars similar to low-grade amnestic aftereffects?
+— Can hostile GOIs map ARM edges by tracking what civilians do not photograph?
+— Do repeated ARM-WHITE activations create civilian memory scars similar to low-grade amnestic aftereffects?
   Can ARM and RSA overlap cause a location to remain physically stable while
   becoming
   narratively suspicious?
   Are old estate boundary practices embedded in the Siena Alpha lineage still present
   in
   modern node behavior?
-- How many current map-service anomalies are ARM artifacts rather than outside probes?
+— How many current map-service anomalies are ARM artifacts rather than outside probes?
   Can social-media swarm behavior overload a local ARM field faster than Civil Covert
   can
   redirect narrative?

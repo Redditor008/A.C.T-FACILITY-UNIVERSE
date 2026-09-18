@@ -220,8 +220,8 @@ optional.
 
 - ACT Technological Master Index 50, Item 34;
 - ACT Technological Visual Reference Guide, Item 34;
-- TECH-ACT-019 - Cryo-Seismic Stabilizers;
-- TECH-ACT-033 - Abyssal Masonry;
+- TECH-ACT-019 — Cryo-Seismic Stabilizers;
+- TECH-ACT-033 — Abyssal Masonry;
 - Abyssal Basalt, Item 50;
 - Massive Box containment category;
 - World-scale entity enclosure ledgers [restricted].
@@ -241,9 +241,6 @@ optional.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Engineering Division / Heavy Containment Structural Desk / Central Archive  
-**Review Status:** Active heavy-containment record; tungsten lattice and anchor-grid details censored  
-**Next Review:** After any Massive Box movement event, seam ringing, thermal-sink saturation, or world-scale
-enclosure
-redesign
+**Created:** 2026-09-15 **Author Desk:** Engineering Division / Heavy Containment Structural Desk / Central Archive
+**Review Status:** Active heavy-containment record; tungsten lattice and anchor-grid details censored **Next Review:**
+After any Massive Box movement event, seam ringing, thermal-sink saturation, or world-scale enclosure redesign

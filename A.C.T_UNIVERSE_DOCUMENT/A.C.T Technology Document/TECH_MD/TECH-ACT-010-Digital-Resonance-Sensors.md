@@ -236,9 +236,9 @@ sensor for being first.
 - ACT Technological Visual Reference Guide, Item 10;
 - AFD-NB-964 Death Angler file and pre-capture abyss scan dossier;
 - AFD-OB-221 HIGENMARU-KORIN containment file;
-- TECH-ACT-001 - Reality Stabilization Anchor System;
-- TECH-ACT-002 - Anti Reality Mesh System;
-- TECH-ACT-003 - Quantum Narrative Buffer System.
+- TECH-ACT-001 — Reality Stabilization Anchor System;
+- TECH-ACT-002 — Anti Reality Mesh System;
+- TECH-ACT-003 — Quantum Narrative Buffer System.
 
 ---
 
@@ -258,8 +258,6 @@ sensor for being first.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Survey Division / Engineering Division / Central Archive  
-**Review Status:** Active restricted record; calibration libraries censored  
-**Next Review:** After any false-clean scan, hostile spoof, Field Type misclassification, or fixed-locker resonance
-alarm
+**Created:** 2026-09-15 **Author Desk:** Survey Division / Engineering Division / Central Archive **Review Status:**
+Active restricted record; calibration libraries censored **Next Review:** After any false-clean scan, hostile spoof,
+Field Type misclassification, or fixed-locker resonance alarm

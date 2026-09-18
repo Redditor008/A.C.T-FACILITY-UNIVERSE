@@ -141,10 +141,10 @@ STATEMENTS:
    - 12-Febuary-19XX — A tornado that will stack trees will appear.
    - 04-July-200X — Every locked door in the east wing will politely knock
      before opening.
-   - 17-October-19XX — A cafeteria spoon will be declared a hostile witness.
-   - 00-Null-20XX — Someone will remember a meeting that was never scheduled.
-   - 29-February-NotYet — The rain will fall upward inside only one elevator.
-   - [DATE REMOVED] — A moon-shaped bruise will appear on the wrong building.
+   — 17-October-19XX — A cafeteria spoon will be declared a hostile witness.
+   — 00-Null-20XX — Someone will remember a meeting that was never scheduled.
+   — 29-February-NotYet — The rain will fall upward inside only one elevator.
+   — [DATE REMOVED] — A moon-shaped bruise will appear on the wrong building.
 
 ═══════════════════════════════════════════════════════════════════════
                      SELECTED CONFIRMED EVENTS

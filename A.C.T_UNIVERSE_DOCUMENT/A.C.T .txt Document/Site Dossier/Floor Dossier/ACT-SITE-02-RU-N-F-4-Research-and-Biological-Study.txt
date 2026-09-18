@@ -185,12 +185,12 @@ F-4's plan is organized around laboratory suites and observation
 chambers:
 - the biological study chambers, where residents are studied under
   controlled conditions;
-- the sample processing laboratories;
-- the long-term observation suites, where slow behavior is documented over
+— the sample processing laboratories;
+— the long-term observation suites, where slow behavior is documented over
   extended durations;
-- the controlled research environments for cold-suppressed anomalies;
-- the data and documentation offices;
-- the floor command post and support services.
+— the controlled research environments for cold-suppressed anomalies;
+— the data and documentation offices;
+— the floor command post and support services.
 
 7.2 The Biological Study Chambers
 

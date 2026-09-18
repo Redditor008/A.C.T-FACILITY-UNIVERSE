@@ -184,9 +184,9 @@ boundary.
 - ACT-SITE-05-ID-C Nusantara Deep Relay Site Dossier;
 - ACT-SITE-05-ID-C-F-1 The Deep Listening Vault Floor Dossier;
 - ACT-SITE-05-ID-C-F-2 Deep Monitoring and Restricted Records Floor Dossier;
-- TECH-ACT-050 - Digital Resonance Mapping Suite;
-- TECH-ACT-037 - Sub-Abyssal Sonar;
-- TECH-ACT-058 - F-1 Closure System;
+- TECH-ACT-050 — Digital Resonance Mapping Suite;
+- TECH-ACT-037 — Sub-Abyssal Sonar;
+- TECH-ACT-058 — F-1 Closure System;
 - Nusantara abyss-linked signal ledgers [restricted].
 
 ---
@@ -196,20 +196,20 @@ boundary.
   Which deep signals are geological, and which are geological only because the anomaly
   is
   using geology?
-- Can a buried anomaly learn the array rhythm over long observation?
+— Can a buried anomaly learn the array rhythm over long observation?
   How far below F-1 can A.C.T listen before the data becomes interpretation instead
   of
   measurement?
-- Do Sonar Void events and abyss-linked seismic gaps share a common absence pattern?
-- Can a node be influenced without physical damage?
-- Should array silence be treated as lower risk or higher risk?
+— Do Sonar Void events and abyss-linked seismic gaps share a common absence pattern?
+— Can a node be influenced without physical damage?
+— Should array silence be treated as lower risk or higher risk?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15
-**Author Desk:** Seismic Analysis Support / Nusantara Deep Relay / Central Archive
-**Review Status:** Active monitoring record; node maps, bore depths, and abyss-linked correlation keys censored
-**Next Review:** After any multi-node failure, abyss-linked signal escalation, foundation intrusion alert, F-1 closure
-drill, or restricted review discrepancy
+**Created:** 2026-09-15 **Author Desk:** Seismic Analysis Support / Nusantara Deep Relay / Central Archive
+**Review
+Status:** Active monitoring record; node maps, bore depths, and abyss-linked correlation keys censored **Next
+Review:** After any multi-node failure, abyss-linked signal escalation, foundation intrusion alert, F-1 closure drill,
+or restricted review discrepancy

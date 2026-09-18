@@ -143,12 +143,12 @@ A.C.T assessment identifies the following probable layers:
   residue,
   and unknown soft
   composites;
-- child-trauma consultants or clinicians who shape products around real fear responses;
+— child-trauma consultants or clinicians who shape products around real fear responses;
   donation coordinators who place items in hospitals, shelters, schools, and homes after abnormal
   events;
-- warranty clerks who receive child drawings, broken toys, whispered reports, and caregiver letters;
-- recall teams who remove products after failure, misuse, or adult tampering;
-- repair van crews who arrive before public authorities can determine who requested them;
+— warranty clerks who receive child drawings, broken toys, whispered reports, and caregiver letters;
+— recall teams who remove products after failure, misuse, or adult tampering;
+— repair van crews who arrive before public authorities can determine who requested them;
   ethics or safety reviewers whose rules are visible in warnings but whose identities
   remain
   sealed.
@@ -463,10 +463,10 @@ understands misuse and unintended injury. Full failure files remain unrecovered.
   Lullaby Works is an outside corporate network, not an A.C.T program or internal
   child-care
   tool supplier.
-- Its products recur across separate jurisdictions under multiple public-facing brands and donation routes.
-- Several recovered items have protected minors during anomalous events or reduced post-incident harm.
-- The group possesses manufacturing or modification knowledge sufficient for repeatable protective anomalous objects.
-- The group withholds manufacturing source data, leadership identities, and full product-failure records.
+— Its products recur across separate jurisdictions under multiple public-facing brands and donation routes.
+— Several recovered items have protected minors during anomalous events or reduced post-incident harm.
+— The group possesses manufacturing or modification knowledge sufficient for repeatable protective anomalous objects.
+— The group withholds manufacturing source data, leadership identities, and full product-failure records.
 
 ### Active Intelligence Assessment
 
@@ -496,11 +496,11 @@ second trauma.
   What material source allows soft toys, paper goods, lamps, and blankets to respond
   to
   abnormal threats?
-- How many product failures exist in sealed Lullaby Works records?
+— How many product failures exist in sealed Lullaby Works records?
   Does Lullaby Works ever refuse protection to a child, and if so, by
   what
   rule?
-- Are some items protecting children from threats created by earlier Lullaby Works products?
+— Are some items protecting children from threats created by earlier Lullaby Works products?
   Why do several lullaby recordings contain voices matching missing adults who have no
   known
   relation to the purchasing
@@ -534,8 +534,8 @@ files, product-custody sheets, medical aftercare reviews, or family relocation r
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational
   Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Personnel_Exposure_E_Class_and_Resilience_Doctrine.md`
-- Restricted child-witness, nursery-object, product-custody, and shelter-incident chains held under Central Archive
+— `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Personnel_Exposure_E_Class_and_Resilience_Doctrine.md`
+— Restricted child-witness, nursery-object, product-custody, and shelter-incident chains held under Central Archive
   routing.
 
 ### Dual Filing

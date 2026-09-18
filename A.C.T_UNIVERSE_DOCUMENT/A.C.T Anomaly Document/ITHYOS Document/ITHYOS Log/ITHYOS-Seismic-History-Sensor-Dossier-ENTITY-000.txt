@@ -274,8 +274,8 @@ OBSERVED EFFECTS:
    - no damage to First Vault document
    - modern file keeps designation history ENTITY-000 → UFD-CH-000 →
    AFD-CH-000
-   - phrase "preserved dormancy" appears in review notes from this period
-   - no waking indicators detected
+   — phrase "preserved dormancy" appears in review notes from this period
+   — no waking indicators detected
 
 INTERPRETATION:
 Archive conversion coincided with access-boundary fluctuation. No causal claim

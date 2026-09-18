@@ -426,8 +426,8 @@ System.
   Ark
   low-power seal
   patterns?
-- Does prolonged RSA exposure alter staff tolerance for unanchored spaces?
-- Are some anomalies learning to mimic baseline pulse rather than overpower it?
+— Does prolonged RSA exposure alter staff tolerance for unanchored spaces?
+— Are some anomalies learning to mimic baseline pulse rather than overpower it?
   Can RSA calibration hide early warning signs by making a room appear stable
   while
   stress accumulates inside the core?

@@ -87,12 +87,12 @@ Observed operational functions include:
 - **Target Cells:** locate anomaly-linked sites, personnel, transfers, and exposed evidence;
 - **Engineering Cells:** adapt technical equipment, breach tools, destructive devices, surveillance systems, and
   transport modifications for anti-anomalous use;
-- **Acquisition Cells:** obtain materials, stolen records, vehicles, access credentials, and mundane cover resources;
-- **Action Cells:** conduct raids, sabotage, abduction, demolition, or attempted elimination;
-- **Narrative Cells:** recruit through fear, grievance, leaked information, and simplified moral language;
+— **Acquisition Cells:** obtain materials, stolen records, vehicles, access credentials, and mundane cover resources;
+— **Action Cells:** conduct raids, sabotage, abduction, demolition, or attempted elimination;
+— **Narrative Cells:** recruit through fear, grievance, leaked information, and simplified moral language;
   **Transit Support:** move personnel and equipment across jurisdictions while keeping local cells partially
   separated;
-- **Residual Contacts:** former members, sympathetic contractors, frightened witnesses, and opportunists who assist
+— **Residual Contacts:** former members, sympathetic contractors, frightened witnesses, and opportunists who assist
   without being fully initiated.
 
 These labels describe function rather than confirmed internal titles. A-GA regularly changes local terminology
@@ -456,12 +456,12 @@ immediate safety, and control of the active threat.
   **ACT-SITE-02-RU-N / White Grave Station** supports remote pursuit, severe-environment recovery, and investigation
   of
   hidden caches or cold-zone transport routes.
-- **ACT-SITE-03-JP-E / Kurokawa Archive Node** leads document contamination review, digital leak analysis, hostile
+— **ACT-SITE-03-JP-E / Kurokawa Archive Node** leads document contamination review, digital leak analysis, hostile
   narrative tracking, and archive-protection measures.
   **ACT-SITE-04-BR-C / Verde Null Bio-Reserve** receives biological, ecological, and quarantine-sensitive material
   where
   an A-GA intervention may have destabilized a living or environmental condition.
-- **ACT-SITE-05-ID-C / Nusantara Deep Relay** coordinates maritime, seismic, coastal, and deep-transit cases where
+— **ACT-SITE-05-ID-C / Nusantara Deep Relay** coordinates maritime, seismic, coastal, and deep-transit cases where
   hostile destruction could produce regional secondary effects.
 
 These responsibilities do not limit a Site's response to its local region. A-GA is
@@ -483,15 +483,11 @@ without understanding it, or may be unaware that a cell's equipment has affected
 
 Recovered material is to be split into three handling streams:
 
-   **Immediate safety material** - devices, weapons, samples, and triggers requiring Containment and Engineering
-   review;
-   **Intelligence material** - maps, contact routes, procurement records, messages, and target notes requiring
-   controlled
-   archive intake;
-   **Exposure material** - media, symbols, recordings, diagrams, or texts that may propagate hazardous
-   information
-   and
-   require information-quarantine procedure.
+**Immediate safety material** — devices, weapons, samples, and triggers requiring Containment and Engineering review;
+**Intelligence material** — maps, contact routes, procurement records, messages, and target notes requiring controlled
+archive intake; **Exposure material** — media, symbols, recordings, diagrams, or texts that may propagate
+hazardous
+information and require information-quarantine procedure.
 
 No recovered A-GA equipment is to be repurposed by Transformation Division without O5-level exception.
 The group's
@@ -622,12 +618,12 @@ responsibility.
 
 ### Related A.C.T Records
 
-- GOI Registry and External Threat Doctrine Archive - classification and hostile-posture authority;
-- Site Map and Jurisdiction Doctrine - cross-site response assignment;
-- Facility Divisions, Personnel Roles, and Operational Life - Security, Recovery, Containment, Intelligence, and
+- GOI Registry and External Threat Doctrine Archive — classification and hostile-posture authority;
+- Site Map and Jurisdiction Doctrine — cross-site response assignment;
+- Facility Divisions, Personnel Roles, and Operational Life — Security, Recovery, Containment, Intelligence, and
   Military responsibilities;
-- Anomaly Classification Manual Archive - target, object, and breach filing;
-- Anomaly Log Categories In-World Explanation - controlled incident and aftermath documentation.
+— Anomaly Classification Manual Archive — target, object, and breach filing;
+— Anomaly Log Categories In-World Explanation — controlled incident and aftermath documentation.
 ---
 
 ## FILE METADATA

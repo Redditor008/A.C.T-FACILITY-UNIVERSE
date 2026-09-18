@@ -190,9 +190,9 @@ through channels that can be verified.
 
 - ACT-SITE-05-ID-C-F-5 Personnel and Command Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-6 Surface Research and Transition Level Floor Dossier;
-- TECH-ACT-066 - Maritime Platform Containment Infrastructure;
-- TECH-ACT-070 - Deep Monitoring Processing Center;
-- TECH-ACT-058 - F-1 Closure System;
+- TECH-ACT-066 — Maritime Platform Containment Infrastructure;
+- TECH-ACT-070 — Deep Monitoring Processing Center;
+- TECH-ACT-058 — F-1 Closure System;
 - Nusantara command traffic ledgers [restricted].
 
 ---
@@ -211,9 +211,8 @@ through channels that can be verified.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15
-**Author Desk:** Command Support / Nusantara Site Command / Central Archive
-**Review Status:** Active command communications record; live channels, authentication keys, and external network
-routes censored
-**Next Review:** After any misrouted order, command dropout, platform communication failure, F-1 closure command,
-protected circuit fault, or emergency broadcast dispute
+**Created:** 2026-09-15 **Author Desk:** Command Support / Nusantara Site Command / Central Archive **Review
+Status:**
+Active command communications record; live channels, authentication keys, and external network routes censored **Next
+Review:** After any misrouted order, command dropout, platform communication failure, F-1 closure command, protected
+circuit fault, or emergency broadcast dispute

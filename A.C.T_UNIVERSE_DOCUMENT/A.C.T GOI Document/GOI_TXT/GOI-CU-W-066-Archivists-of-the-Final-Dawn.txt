@@ -188,15 +188,15 @@ A.C.T assessment identifies these functional layers:
 - dawn curators who select communities, incidents, or records at risk of ending;
 - ledger priors who classify whether a record is safe, sealed, living, false, or
 too late;
-- last-word conservators who gather final messages and protect them from public misuse;
-- language wardens who preserve endangered words that may describe anomaly conditions no formal
+— last-word conservators who gather final messages and protect them from public misuse;
+— language wardens who preserve endangered words that may describe anomaly conditions no formal
 system names;
-- map keepers who copy roads, rooms, coastlines, wells, and shelters before they vanish
+— map keepers who copy roads, rooms, coastlines, wells, and shelters before they vanish
 or change;
-- witness-box clerks who store small civilian proofs when full testimony is unsafe;
-- fire copyists who make duplicates designed to survive destruction of the original;
-- dawn couriers who move sealed boxes through disaster routes;
-- quiet readers who review records aloud only after containment clearance or mourning rites.
+— witness-box clerks who store small civilian proofs when full testimony is unsafe;
+— fire copyists who make duplicates designed to survive destruction of the original;
+— dawn couriers who move sealed boxes through disaster routes;
+— quiet readers who review records aloud only after containment clearance or mourning rites.
 
 This structure makes the order a real GOI. It is not only people who
 like archives. It has doctrine, roles, access
@@ -518,12 +518,12 @@ Confirmed Operational Facts
 
 - Archivists of the Final Dawn is an outside cultic preservation order and not
 an A.C.T archive branch.
-- The order collects and protects records from communities, witnesses, and locations at risk
+— The order collects and protects records from communities, witnesses, and locations at risk
 of ending or erasure.
-- Its materials have assisted A.C.T in missing-person identification, erased-town reconstruction, and record
+— Its materials have assisted A.C.T in missing-person identification, erased-town reconstruction, and record
 reconciliation.
-- Some preserved materials contain active hazard details and cannot circulate without review.
-- The order's relationship to A.C.T is Work because practical cooperation exists but destruction
+— Some preserved materials contain active hazard details and cannot circulate without review.
+— The order's relationship to A.C.T is Work because practical cooperation exists but destruction
 of records remains
 unacceptable to the Archivists.
 
@@ -551,19 +551,19 @@ Persistent Questions
 
 - What is the First Shelf: person, room, council, founding ledger, or anomalous archive
 condition?
-- Can dawn copies preserve records against 004-series amnestic effects, or only against civic
+— Can dawn copies preserve records against 004-series amnestic effects, or only against civic
 deletion and public
 narrative collapse?
-- How many preservation houses hold A.C.T-restricted material without declared custody?
-- Does opening a witness box change the memory of the reader, the record,
+— How many preservation houses hold A.C.T-restricted material without declared custody?
+— Does opening a witness box change the memory of the reader, the record,
 or both?
-- Has the order ever preserved a complete map of a place A.C.T successfully
+— Has the order ever preserved a complete map of a place A.C.T successfully
 erased from public access?
-- Are any Archivists former members of Choir of the Unforgotten Name, Missing 404
+— Are any Archivists former members of Choir of the Unforgotten Name, Missing 404
 Watch Tower, or public disaster
 agencies?
-- What does the ledger category too late mean?
-- Can hostile market groups purchase or steal dawn copies for leverage over survivor
+— What does the ledger category too late mean?
+— Can hostile market groups purchase or steal dawn copies for leverage over survivor
 families?
 
 Intelligence Confidence

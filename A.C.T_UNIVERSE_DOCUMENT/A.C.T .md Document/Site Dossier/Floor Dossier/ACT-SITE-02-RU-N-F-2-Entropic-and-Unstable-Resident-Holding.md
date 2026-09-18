@@ -17,58 +17,53 @@
 
 ## Archive Note
 
-This file is the complete individual record of **F-2, the Entropic and
-Unstable Resident Holding**, the second-deepest numbered floor of
-**ACT-SITE-02-RU-N, White Grave Station**.
+This file is the complete individual record of **F-2, the Entropic and Unstable Resident
+Holding**, the second-deepest
+numbered floor of **ACT-SITE-02-RU-N, White Grave Station**.
 
-F-2 is the station's most failure-hostile holding level: the floor for
-anomalies that degrade containment systems, that erode the structures built
-to hold them, and that cannot be trusted with ordinary infrastructure. The
-floor exists because some residents do not simply resist containment — they
-unmake it, slowly and continuously, and holding them requires infrastructure
-built to fail less slowly than they fail it.
+F-2 is the station's most failure-hostile holding level: the floor for anomalies that degrade
+containment systems,
+that erode the structures built to hold them, and that cannot be trusted with
+ordinary infrastructure. The floor
+exists because some residents do not simply resist containment — they unmake it, slowly
+and continuously, and holding
+them requires infrastructure built to fail less slowly than they fail it.
 
-This dossier records the floor in full institutional language: what it is,
-what it holds, how it is built, how it is monitored, and how the
-station
-holds residents that work against the very idea of holding.
+This dossier records the floor in full institutional language: what it is, what it
+holds, how it is built, how it is
+monitored, and how the station holds residents that work against the very idea of
+holding.
 
 ---
 
 ## 1. Floor Registry Identity Summary
 
-**Site Designation:** ACT-SITE-02-RU-N
-**Site Codename:** White Grave Station
-**Floor Designation:** F-2
-**Floor Name:** Entropic and Unstable Resident Holding
-**Floor Type:** Failure-Tolerant Restricted Holding Level
-**Vertical Position:** Second-deepest numbered floor of the station
-**Floor Above:** F-3 (Standard Deep-Isolation Holding)
-**Floor Below:** F-1 (The Long Sleep)
-**Containment Character:** ENTROPIC and unstable resident holding under
-maximum failure tolerance
-**Primary Function:** Housing of anomalies that degrade containment systems,
-under redundant containment structures, self-repairing environmental
-systems, and high-frequency monitoring
-**Access Posture:** Heavily restricted
-**Current Status:** Active
+**Site Designation:** ACT-SITE-02-RU-N **Site Codename:** White Grave Station **Floor Designation:** F-2 **Floor
+Name:** Entropic and Unstable Resident Holding **Floor Type:** Failure-Tolerant Restricted Holding Level **Vertical
+Position:** Second-deepest numbered floor of the station **Floor Above:** F-3 (Standard Deep-Isolation Holding)
+**Floor Below:** F-1 (The Long Sleep) **Containment Character:** ENTROPIC and unstable resident holding under
+maximum
+failure tolerance **Primary Function:** Housing of anomalies that degrade containment systems, under redundant
+containment structures, self-repairing environmental systems, and high-frequency monitoring **Access Posture:**
+Heavily restricted **Current Status:** Active
 
 ---
 
 ## 2. Dossier Purpose
 
-Most anomalous material can be held by a good vault: robust walls, sound
-procedures, reliable monitoring. A smaller class of material cannot be held
-that way, because its anomalous character is aimed at the act of holding
-itself. These residents degrade containment — corroding, eroding, decaying,
-or otherwise unmaking the structures built to confine them, on schedules
-that make ordinary maintenance impossible.
+Most anomalous material can be held by a good vault: robust walls, sound procedures,
+reliable monitoring. A smaller
+class of material cannot be held that way, because its anomalous character is aimed
+at the act of holding itself.
+These residents degrade containment — corroding, eroding, decaying, or otherwise unmaking the structures built
+to
+confine them, on schedules that make ordinary maintenance impossible.
 
-White Grave Station is the Facility's destination for such material, and
-F-2 is the floor where the station holds it. The floor's entire design is
-a
-response to one fact: its residents work against their own containment, and
-the floor must therefore be built to fail less slowly than they fail it.
+White Grave Station is the Facility's destination for such material, and F-2 is the
+floor where the station holds it.
+The floor's entire design is a response to one fact: its residents work against
+their own containment, and the floor
+must therefore be built to fail less slowly than they fail it.
 
 ---
 
@@ -76,25 +71,27 @@ the floor must therefore be built to fail less slowly than they fail it.
 
 ### 3.1 Vertical Position
 
-F-2 lies directly beneath the Standard Deep-Isolation Holding level of F-3
-and directly above the Long Sleep of F-1. In the station's holding
-geography, F-2 is the level where containment stops being a matter of
-routine and becomes a matter of continuous, expensive resistance.
+F-2 lies directly beneath the Standard Deep-Isolation Holding level of F-3 and directly above
+the Long Sleep of F-1.
+In the station's holding geography, F-2 is the level where containment stops being a
+matter of routine and becomes a
+matter of continuous, expensive resistance.
 
 ### 3.2 Relationship to F-3
 
-Material held on F-3 that demonstrates entropic properties — that begins to
-degrade its standard containment, or whose instability exceeds the standard
-holding capacity — is transferred down to F-2. The transfer route between
-the two floors is governed by the station's escalation doctrine.
+Material held on F-3 that demonstrates entropic properties — that begins to degrade its
+standard containment, or whose
+instability exceeds the standard holding capacity — is transferred down to F-2. The transfer
+route between the two
+floors is governed by the station's escalation doctrine.
 
 ### 3.3 Relationship to F-1
 
 F-2 is not an antechamber to F-1. The two floors hold different classes of
-material: F-1 holds the station's most unstable and sensitive residents in
-the Long Sleep, while F-2 holds entropic and unstable material that remains
-within the station's active holding system. The boundary between the floors
-is strict.
+material: F-1 holds the station's most
+unstable and sensitive residents in the Long Sleep, while F-2 holds entropic and unstable
+material that remains within
+the station's active holding system. The boundary between the floors is strict.
 
 ---
 
@@ -102,26 +99,26 @@ is strict.
 
 ### 4.1 The Entropic Problem
 
-F-2's character developed from the station's encounters with entropic
-material: anomalies that degrade the systems built to hold them. Early
-experience at White Grave demonstrated that standard holding infrastructure
-was inadequate for such residents — they failed their vaults on schedules
-that no maintenance rotation could match.
+F-2's character developed from the station's encounters with entropic material: anomalies that degrade the
+systems
+built to hold them. Early experience at White Grave demonstrated that standard holding infrastructure
+was inadequate
+for such residents — they failed their vaults on schedules that no maintenance rotation
+could match.
 
 ### 4.2 Development of Failure-Tolerant Infrastructure
 
-The station responded by developing failure-tolerant containment: redundant
-structures that anticipate degradation, self-repairing environmental
-systems that compensate for damage, and high-frequency monitoring that
-detects failure early enough to respond. F-2 became the proving ground for
-this infrastructure.
+The station responded by developing failure-tolerant containment: redundant structures that anticipate degradation,
+self-repairing environmental systems that compensate for damage, and high-frequency monitoring that detects failure
+early enough to respond. F-2 became the proving ground for this infrastructure.
 
 ### 4.3 Modern Configuration
 
-In its modern configuration, F-2 is the station's entropic holding floor:
-the level where the Facility holds material that works against the act of
-holding, under infrastructure built for the specific war of attrition that
-entropic containment requires.
+In its modern configuration, F-2 is the station's entropic holding floor: the level where
+the Facility holds material
+that works against the act of holding, under infrastructure built for the specific war
+of attrition that entropic
+containment requires.
 
 ---
 
@@ -129,24 +126,23 @@ entropic containment requires.
 
 ### 5.1 Floor Command
 
-F-2 operates under the Containment Division's restricted-hold command,
-administered day-to-day by a **Floor Holding Chief** appointed by the Site
-Director.
+F-2 operates under the Containment Division's restricted-hold command, administered day-to-day by a **Floor Holding
+Chief** appointed by the Site Director.
 
 ### 5.2 Authority over Access
 
-Access to F-2 residents is heavily restricted and governed by restriction
-sets established at the time of each resident's assignment to the floor.
-The Holding Chief administers those restrictions; the Site Director or the
+Access to F-2 residents is heavily restricted and governed by restriction sets established at
+the time of each
+resident's assignment to the floor. The Holding Chief administers those restrictions; the Site Director
+or the
 Containment Division command revises them.
 
 ### 5.3 Authority Limits
 
-F-2 holds no authority to release residents to standard holding, to
-transfer residents to F-1, or to transform restricted material. Its
-authority is custodial: to hold entropic and unstable residents under
-failure-tolerant infrastructure for as long as their restriction sets
-require.
+F-2 holds no authority to release residents to standard holding, to transfer residents to
+F-1, or to transform
+restricted material. Its authority is custodial: to hold entropic and unstable residents under failure-tolerant
+infrastructure for as long as their restriction sets require.
 
 ---
 
@@ -154,33 +150,31 @@ require.
 
 ### 6.1 Containment Division
 
-The Containment Division operates F-2's holding regimens: resident
-monitoring, infrastructure maintenance, and the execution of each
-resident's containment procedures.
+The Containment Division operates F-2's holding regimens: resident monitoring, infrastructure maintenance, and the
+execution of each resident's containment procedures.
 
 ### 6.2 Engineering Support
 
-F-2's failure-tolerant infrastructure requires dedicated engineering
-support: structural assessment, self-repairing system maintenance, and the
-continuous work of keeping the floor's containment ahead of its residents'
-degradation.
+F-2's failure-tolerant infrastructure requires dedicated engineering support: structural assessment, self-repairing
+system maintenance, and the continuous work of keeping the floor's containment ahead of its
+residents' degradation.
 
 ### 6.3 Security Division
 
-Security guards the floor's access architecture. Access to F-2 is heavily
-restricted, and the floor's security personnel enforce the resident-specific
-rules that govern entry.
+Security guards the floor's access architecture. Access to F-2 is heavily restricted, and the
+floor's security
+personnel enforce the resident-specific rules that govern entry.
 
 ### 6.4 Medical Division (On-Call)
 
-Medical presence on F-2 is on-call, with personnel rotating from the
-station's medical level under the floor's access restrictions.
+Medical presence on F-2 is on-call, with personnel rotating from the station's medical level
+under the floor's access
+restrictions.
 
 ### 6.5 Archive Liaison
 
-Archive personnel maintain F-2's holding documentation, preserving the
-infrastructure records and resident histories that the floor's maintenance
-doctrine requires.
+Archive personnel maintain F-2's holding documentation, preserving the infrastructure records and resident histories
+that the floor's maintenance doctrine requires.
 
 ---
 
@@ -195,31 +189,32 @@ redundant service infrastructure:
 - the unstable resident chambers;
 - the redundant infrastructure galleries, carrying duplicated power,
   environmental, and monitoring routes;
-- the engineering and maintenance spaces;
-- the floor command post and support services.
+— the engineering and maintenance spaces;
+— the floor command post and support services.
 
 ### 7.2 Redundant Containment Structures
 
-The floor's units are built with redundant containment structures: each
-unit's primary containment is backed by secondary and tertiary structures,
-so that degradation of one layer does not mean failure of the unit. The
-floor's architecture treats structural redundancy as the basic precondition
-of entropic holding.
+The floor's units are built with redundant containment structures: each unit's primary containment is
+backed by
+secondary and tertiary structures, so that degradation of one layer does not mean failure
+of the unit. The floor's
+architecture treats structural redundancy as the basic precondition of entropic holding.
 
 ### 7.3 Self-Repairing Environmental Systems
 
-The floor's environmental systems are engineered to compensate for the
-degradation their residents cause: self-diagnosing, self-adjusting, and
-designed to maintain holding conditions even as components fail. The systems
-are the floor's second containment layer — the layer that responds to
-damage without waiting for human intervention.
+The floor's environmental systems are engineered to compensate for the degradation their residents cause:
+self-diagnosing, self-adjusting, and designed to maintain holding conditions even as components fail. The systems
+are
+the floor's second containment layer — the layer that responds to damage without waiting
+for human intervention.
 
 ### 7.4 Construction Standard
 
-F-2 is built to the station's maximum failure-tolerant standard: materials
-selected for resistance to entropic effects, structures designed for
-redundancy, and infrastructure arranged so that no single failure can
-compromise a unit's containment.
+F-2 is built to the station's maximum failure-tolerant standard: materials selected for resistance to
+entropic
+effects, structures designed for redundancy, and infrastructure arranged so that no single failure can
+compromise a
+unit's containment.
 
 ---
 
@@ -227,29 +222,29 @@ compromise a unit's containment.
 
 ### 8.1 Power
 
-F-2 draws on duplicated power feeds with independent emergency generation.
-Power infrastructure on the floor is compartmented so that a failure
-affecting one unit's supply does not affect its neighbors.
+F-2 draws on duplicated power feeds with independent emergency generation. Power infrastructure on the
+floor is
+compartmented so that a failure affecting one unit's supply does not affect its neighbors.
 
 ### 8.2 Environment
 
-Environmental systems on F-2 are duplicated and self-repairing: each
-unit's environment is maintained by primary and standby systems, with
-automatic compensation for the degradation caused by the floor's residents.
+Environmental systems on F-2 are duplicated and self-repairing: each unit's environment is maintained by
+primary and
+standby systems, with automatic compensation for the degradation caused by the floor's residents.
 
 ### 8.3 Monitoring
 
-Monitoring on F-2 is high-frequency: structural, environmental, and
-behavioral data is collected at rates matched to the floor's residents,
-whose effects on their containment must be detected early to be responded
-to at all. Monitoring feeds the floor command post and the station's
-central watch.
+Monitoring on F-2 is high-frequency: structural, environmental, and behavioral data is collected at rates
+matched to
+the floor's residents, whose effects on their containment must be detected early to be
+responded to at all. Monitoring
+feeds the floor command post and the station's central watch.
 
 ### 8.4 Communication
 
-The floor maintains hardened communication with the station's command
-levels, with the redundancy appropriate to a floor whose systems are under
-continuous assault.
+The floor maintains hardened communication with the station's command levels, with the redundancy appropriate
+to a
+floor whose systems are under continuous assault.
 
 ---
 
@@ -257,31 +252,33 @@ continuous assault.
 
 ### 9.1 Access Control
 
-Access to F-2 is heavily restricted. The floor's access core is controlled
-through multiple verification stages, and entry is granted only for
-specific authorized purposes under the resident-specific rules that govern
+Access to F-2 is heavily restricted. The floor's access core is controlled through multiple
+verification stages, and
+entry is granted only for specific authorized purposes under the resident-specific rules that govern
 the floor.
 
 ### 9.2 Unit Access
 
-Unit access follows each resident's restriction set. Personnel entering the
-floor's units operate under the protocols governing the specific resident,
-under documentation requirements, and with the engineering awareness that
-the unit's structure may be actively degrading around them.
+Unit access follows each resident's restriction set. Personnel entering the floor's units operate under
+the protocols
+governing the specific resident, under documentation requirements, and with the engineering awareness that the
+unit's
+structure may be actively degrading around them.
 
 ### 9.3 Escalation and Transfer Procedures
 
-F-2 maintains standing procedures for the escalation of its residents:
-material whose instability or entropic character exceeds the floor's
-capacity is assessed for transfer to F-1's Long Sleep, under the authority
-of the Site Director. Material whose character stabilizes may be assessed
-for return to standard holding.
+F-2 maintains standing procedures for the escalation of its residents: material whose instability or
+entropic
+character exceeds the floor's capacity is assessed for transfer to F-1's Long Sleep, under
+the authority of the Site
+Director. Material whose character stabilizes may be assessed for return to standard holding.
 
 ### 9.4 Relation to F-1 Closure
 
 F-2's access core connects to the route used for F-1 access, and the floor
-participates in the station's F-1 closure drills. When F-1 is closed, F-2's
-link to the lower access route is sealed with it.
+participates in the station's F-1 closure
+drills. When F-1 is closed, F-2's link to the lower access route is sealed
+with it.
 
 ---
 
@@ -289,24 +286,26 @@ link to the lower access route is sealed with it.
 
 ### 10.1 Filing Doctrine
 
-F-2's resident manifest is preserved in the clearance-gated White Grave
-Annex Register. This dossier does not enumerate the floor's holdings.
+F-2's resident manifest is preserved in the clearance-gated White Grave Annex Register. This dossier
+does not
+enumerate the floor's holdings.
 
 ### 10.2 Holding Character
 
 F-2 holds:
 - anomalies of ENTROPIC disposition that degrade containment systems and
   require failure-tolerant infrastructure;
-- unstable residents whose behavior exceeds standard holding capacity;
-- material transferred down from standard holding upon demonstration of
+— unstable residents whose behavior exceeds standard holding capacity;
+— material transferred down from standard holding upon demonstration of
   entropic or destabilizing properties.
 
 ### 10.3 Holding Note
 
-The station's signature resident is held under the station's authority in
-accordance with its containment and study doctrine. F-2's population is the
-station's entropic and unstable holding class, whose designations are
-preserved in the Annex Register under the floor's restriction-set doctrine.
+The station's signature resident is held under the station's authority in accordance with its
+containment and study
+doctrine. F-2's population is the station's entropic and unstable holding class, whose designations are
+preserved in
+the Annex Register under the floor's restriction-set doctrine.
 
 ---
 
@@ -314,25 +313,27 @@ preserved in the Annex Register under the floor's restriction-set doctrine.
 
 ### 11.1 Rotation and Selection
 
-F-2 personnel are selected from the Containment Division's most experienced
-staff, with engineering support personnel assigned from the station's
-infrastructure corps. Rotation is controlled to preserve continuity of
-resident and infrastructure knowledge.
+F-2 personnel are selected from the Containment Division's most experienced staff, with engineering support
+personnel
+assigned from the station's infrastructure corps. Rotation is controlled to preserve continuity of resident
+and
+infrastructure knowledge.
 
 ### 11.2 Duty Life
 
-Duty on F-2 is a war of attrition conducted quietly: monitoring rounds,
-infrastructure assessment, self-repairing system verification, and the
-documentation of slow degradation. The floor's personnel work with the
-knowledge that their charges are working against them — slowly, but
-continuously.
+Duty on F-2 is a war of attrition conducted quietly: monitoring rounds, infrastructure assessment,
+self-repairing
+system verification, and the documentation of slow degradation. The floor's personnel work with the
+knowledge that
+their charges are working against them — slowly, but continuously.
 
 ### 11.3 Technical Culture
 
-The floor's personnel work under a technical culture that treats
-infrastructure as doctrine: the floor's redundant structures and
-self-repairing systems are its containment, and the personnel who maintain
-them are containment personnel.
+The floor's personnel work under a technical culture that treats infrastructure as doctrine: the
+floor's redundant
+structures and self-repairing systems are its containment, and the personnel who maintain them are
+containment
+personnel.
 
 ---
 
@@ -340,35 +341,36 @@ them are containment personnel.
 
 ### 12.1 Failure-Tolerance Doctrine
 
-F-2 doctrine holds that entropic containment is an attrition problem: the
-floor's residents degrade their containment continuously, and the floor
-must be built to fail less slowly than they fail it. Redundancy is not
-a
-safety margin on F-2 — it is the containment.
+F-2 doctrine holds that entropic containment is an attrition problem: the floor's residents degrade
+their containment
+continuously, and the floor must be built to fail less slowly than they fail
+it. Redundancy is not a safety margin on
+F-2 — it is the containment.
 
 ### 12.2 Early-Detection Doctrine
 
-F-2 doctrine holds that entropic degradation must be detected early to be
-responded to at all. The floor's high-frequency monitoring is a containment
-measure: damage that is caught in time is damage that has not yet become
+F-2 doctrine holds that entropic degradation must be detected early to be responded to
+at all. The floor's
+high-frequency monitoring is a containment measure: damage that is caught in time is damage
+that has not yet become
 failure.
 
 ### 12.3 Escalation Doctrine
 
-F-2 doctrine holds that instability is a standing condition, not a fixed
-one: residents are under continuous assessment, and the floor's duty
-includes recognizing when a resident's character has changed enough to
-require the Long Sleep below or to permit return to standard holding above.
+F-2 doctrine holds that instability is a standing condition, not a fixed one: residents
+are under continuous
+assessment, and the floor's duty includes recognizing when a resident's character has changed enough
+to require the
+Long Sleep below or to permit return to standard holding above.
 
 ---
 
 ## 13. Incident Archive
 
-The floor's incident record is dominated by infrastructure events: unit
-degradation incidents, environmental system failures, and the slow
-accumulation of damage that entropic holding entails. The incidents that
-established the station's failure-tolerant doctrine are preserved in the
-station's history files.
+The floor's incident record is dominated by infrastructure events: unit degradation incidents, environmental system
+failures, and the slow accumulation of damage that entropic holding entails. The incidents that
+established the
+station's failure-tolerant doctrine are preserved in the station's history files.
 
 ---
 
@@ -396,15 +398,14 @@ priorities include:
 
 ## Archive Closing
 
-F-2, the Entropic and Unstable Resident Holding, is where White Grave holds
-material that works against the act of holding: residents that degrade
-containment, erode structure, and unmake the systems built to confine them.
-The floor answers with redundant structures, self-repairing environmental
-systems, and high-frequency monitoring — infrastructure built for the one
-war the Facility cannot win quickly: the war of attrition against
-entropy itself.
+F-2, the Entropic and Unstable Resident Holding, is where White Grave holds material that
+works against the act of
+holding: residents that degrade containment, erode structure, and unmake the systems built to confine
+them. The floor
+answers with redundant structures, self-repairing environmental systems, and high-frequency monitoring —
+infrastructure built for the one war the Facility cannot win quickly: the war of
+attrition against entropy itself.
 
 It is the floor where containment is not a structure but a process —
-a
-continuous, expensive, unglamorous process of failing more slowly than the
-resident fails the floor.
+a continuous, expensive, unglamorous process of
+failing more slowly than the resident fails the floor.

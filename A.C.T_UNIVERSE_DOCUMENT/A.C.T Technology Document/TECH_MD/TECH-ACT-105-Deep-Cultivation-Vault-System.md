@@ -180,8 +180,8 @@ DCVS doctrine holds that the deepest garden is still a vault.
 - ACT-SITE-04-BR-C-F-1 The Deep Cultivation Vault Floor Dossier;
 - ACT-SITE-04-BR-C-F-2 Interior Biological Holding Floor Dossier;
 - ACT-SITE-04-BR-C-F-3 Laboratory and Medical Level Floor Dossier;
-- TECH-ACT-103 - Interior Biological Habitat Chamber System;
-- TECH-ACT-104 - Biological Analysis and Sample Control Laboratories;
+- TECH-ACT-103 — Interior Biological Habitat Chamber System;
+- TECH-ACT-104 — Biological Analysis and Sample Control Laboratories;
 - Verde Null cultivation program files [restricted].
 
 ---
@@ -192,17 +192,15 @@ DCVS doctrine holds that the deepest garden is still a vault.
 - Can a transformation program become a resident before command recognizes the change?
   How much medical care can occur inside F-1 before the subject must move
   upward?
-- Should native-field comparison be mandatory before every cultivation alteration?
-- Can service ring contamination leave the vault while the chambers remain sealed?
-- When does cultivation become creation rather than containment?
+— Should native-field comparison be mandatory before every cultivation alteration?
+— Can service ring contamination leave the vault while the chambers remain sealed?
+— When does cultivation become creation rather than containment?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Deep-Cultivation Command / F-1 Vault Officer / Central Archive
-**Review Status:** Active deep cultivation record; live chamber maps, resident names, program ledgers, and
-transformation authorities censored
-**Next Review:** After any cultivation escalation, F-1 closure, service-ring contamination, unauthorized program
-change, medical conflict, or transformation review dispute
+**Created:** 2026-09-16 **Author Desk:** Deep-Cultivation Command / F-1 Vault Officer / Central Archive **Review
+Status:** Active deep cultivation record; live chamber maps, resident names, program ledgers, and transformation
+authorities censored **Next Review:** After any cultivation escalation, F-1 closure, service-ring contamination,
+unauthorized program change, medical conflict, or transformation review dispute

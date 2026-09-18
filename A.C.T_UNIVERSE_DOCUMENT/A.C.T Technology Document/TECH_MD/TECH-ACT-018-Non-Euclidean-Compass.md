@@ -230,8 +230,8 @@ Standing reminder: the compass points toward meaning. Meaning is not always an a
 
 - ACT Technological Master Index 50, Item 27;
 - ACT Technological Visual Reference Guide, Item 27;
-- TECH-ACT-016 - Causal Tethering Cables;
-- TECH-ACT-001 - Reality Stabilization Anchor System;
+- TECH-ACT-016 — Causal Tethering Cables;
+- TECH-ACT-001 — Reality Stabilization Anchor System;
 - AFD-PL-932 Dark World Door expedition records;
 - Dark World Expedition Desk route ledgers [restricted].
 
@@ -242,8 +242,8 @@ Standing reminder: the compass points toward meaning. Meaning is not always an a
   Does Narrative North exist in every unstable space, or only where a route
   has
   story pressure?
-- Can hostile environments learn to spoof low-density safe routes?
-- Does following the compass increase the density it detects?
+— Can hostile environments learn to spoof low-density safe routes?
+— Does following the compass increase the density it detects?
   What is the difference between a true dead map and a space that
   refuses
   to be important?
@@ -253,16 +253,13 @@ Standing reminder: the compass points toward meaning. Meaning is not always an a
   Should NEC use be banned during certain CSG operations because static may flatten
   the
   wrong pressure?
-- Are some exits safe precisely because the compass considers them meaningless?
+— Are some exits safe precisely because the compass considers them meaningless?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Survey Division / Dark World Expedition Desk / Engineering Division / Central
-Archive
-**Review Status:** Active restricted record; Narrative North calibration censored  
-**Next Review:** After any false north incident, dead-map event, missing-person thread failure, or Dark
-World route
-contradiction
+**Created:** 2026-09-15 **Author Desk:** Survey Division / Dark World Expedition Desk / Engineering Division
+/ Central
+Archive **Review Status:** Active restricted record; Narrative North calibration censored **Next Review:** After any
+false north incident, dead-map event, missing-person thread failure, or Dark World route contradiction

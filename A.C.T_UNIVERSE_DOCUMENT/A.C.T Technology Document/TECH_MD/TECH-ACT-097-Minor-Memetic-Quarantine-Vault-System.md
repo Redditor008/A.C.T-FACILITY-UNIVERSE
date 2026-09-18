@@ -175,8 +175,8 @@ not a grave.
 - ACT-SUB-03-JP-E-F-1 Minor Memetic Quarantine Vault Floor Dossier;
 - ACT-SUB-03-JP-E-F-2 Review and Redaction Level Floor Dossier;
 - ACT-SITE-03-JP-E Kurokawa Archive Node Site Dossier;
-- TECH-ACT-056 - Memetic Filtering Infrastructure;
-- TECH-ACT-059 - Document Quarantine Cells;
+- TECH-ACT-056 — Memetic Filtering Infrastructure;
+- TECH-ACT-059 — Document Quarantine Cells;
 - Silent Reed quarantine manifest [restricted].
 
 ---
@@ -194,10 +194,9 @@ not a grave.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** F-1 Quarantine Officer / Archive Lead / Central Archive
-**Review Status:** Active minor memetic quarantine record; live vault maps, hazard extracts, and transfer
-schedules
-censored
-**Next Review:** After any spillover event, unauthorized exposure, buffer overstay, F-1 closure, black-archive
-referral, or parent-node routing dispute
+**Created:** 2026-09-16 **Author Desk:** F-1 Quarantine Officer / Archive Lead / Central Archive **Review
+Status:**
+Active minor memetic quarantine record; live vault maps, hazard extracts, and transfer schedules censored
+**Next
+Review:** After any spillover event, unauthorized exposure, buffer overstay, F-1 closure, black-archive referral, or
+parent-node routing dispute

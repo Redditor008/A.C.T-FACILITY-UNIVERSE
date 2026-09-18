@@ -208,10 +208,10 @@ many ways a threat can be light.
 ## CROSS-REFERENCES
 
 - ACT Technological Evolution Timeline, 1598 High-Density Lead Vaulting entry;
-- TECH-ACT-039 - High-Density Liquid Lead;
-- TECH-ACT-033 - Abyssal Masonry;
-- TECH-ACT-034 - Abyssal Anchor Plating;
-- TECH-ACT-045 - Refined NEMNOLIA Sap lead-lined vial custody;
+- TECH-ACT-039 — High-Density Liquid Lead;
+- TECH-ACT-033 — Abyssal Masonry;
+- TECH-ACT-034 — Abyssal Anchor Plating;
+- TECH-ACT-045 — Refined NEMNOLIA Sap lead-lined vial custody;
 - Foundational artifact vault ledgers [restricted];
 - Historical lead exposure records [restricted].
 
@@ -225,15 +225,12 @@ many ways a threat can be light.
 - Can old lead preserve anomalous residue better than modern sterile containment?
   Should every inherited HDLV site be opened, or does opening destroy useful historical
   isolation?
-- Did any early artifact learn to use the vault's silence as concealment?
+— Did any early artifact learn to use the vault's silence as concealment?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Historical Engineering Archive / Materials Custody / Central Archive  
-**Review Status:** Legacy-active foundational technology record; founding artifact list censored  
-**Next Review:** After any lead exposure, vault opening, retrofit proposal, seam residue event, or
-founding-ledger
-release
+**Created:** 2026-09-15 **Author Desk:** Historical Engineering Archive / Materials Custody / Central Archive **Review
+Status:** Legacy-active foundational technology record; founding artifact list censored **Next Review:** After any
+lead exposure, vault opening, retrofit proposal, seam residue event, or founding-ledger release

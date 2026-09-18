@@ -8,7 +8,7 @@ Memorandum-SR-T-412-2026-Protocol-for-Causal-Integrity
 
 FROM:                Senior Researcher Aris Thorne, PhD (SR-THORNE-412)
 TO:                  All Research Personnel (Senior, Mid, Junior Levels)
-SUBJECT:             Standardization of Tactile Input, Observational 
+SUBJECT:             Standardization of Tactile Input, Observational
                      Manners, and the Preservation of Chronic Patience.
 DATE:                2026-07-02
 CLEARANCE:           Level 3 or Higher
@@ -138,7 +138,7 @@ result: "Hostile to biological tissue," "Corrosive to linear time," or "Resonant
                  SECTION 004 — THE CHRONOLOGICAL VANTAGE
 ═══════════════════════════════════════════════════════════════════════
 
-To my fellow Senior Researchers: 
+To my fellow Senior Researchers:
 
 We are the only ones who remember what the Facility was before the Site
 Network. You have grown accustomed to the
@@ -239,8 +239,8 @@ White Grave Station (Site-02)
 
 ------------------------------------------------------------------------
 [FOOTNOTE FOR SHARP EYES]:
-If you noticed the ultraviolet pulse in the room's speakers while 
-reading Section 004, report to my office immediately. You are 
+If you noticed the ultraviolet pulse in the room's speakers while
+reading Section 004, report to my office immediately. You are
 hearing the "Causal Drift." We have work to do.
 ------------------------------------------------------------------------
 

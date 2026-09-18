@@ -143,8 +143,8 @@ A.C.T assessment identifies these functional layers:
 - safe-house owners who provide beds without demanding full testimony;
   witness advisers who teach survivors how to speak to hospitals, police, A.C.T, or
   lawyers;
-- route moderators who identify safe transport and warn against predatory markets;
-- bad-buyer boards that list collectors, brokers, cult recruiters, and fake doctors.
+— route moderators who identify safe transport and warn against predatory markets;
+— bad-buyer boards that list collectors, brokers, cult recruiters, and fake doctors.
 
 This structure establishes the Exchange as a real market GOI rather than loose kindness.
 
@@ -438,10 +438,10 @@ anomalous markets.
   The Exchange trades aid, medicine, shelter, advice, routes, and limited protective objects among
   anomaly
   survivors.
-- Its network can protect witnesses and also prevent A.C.T from locating them promptly.
+— Its network can protect witnesses and also prevent A.C.T from locating them promptly.
   The Exchange maintains ethical debt limits and bad-buyer warnings distinct from Anstrall Market
   behavior.
-- Some exchanged items may be anomalous and require separate custody review.
+— Some exchanged items may be anomalous and require separate custody review.
 
 ### Active Intelligence Assessment
 
@@ -463,13 +463,13 @@ that fact belongs in the operational assessment rather than being dismissed as c
   Is there any central table authority, or is Candle-Under only a shared code
   among
   survivor markets?
-- Who decides whether a charm is low-risk enough for exchange?
-- How often do Lullaby Works or Saint-Vera items pass through Candle-Under tables?
-- Has Anstrall Market infiltrated any Candle-Under nodes to identify desperate sellers?
+— Who decides whether a charm is low-risk enough for exchange?
+— How often do Lullaby Works or Saint-Vera items pass through Candle-Under tables?
+— Has Anstrall Market infiltrated any Candle-Under nodes to identify desperate sellers?
   What happens when a survivor cannot repay a debt and the local Debt
   Witness
   is corrupt or absent?
-- Are coded survivor boards protected by ordinary secrecy, anomalous obfuscation, or both?
+— Are coded survivor boards protected by ordinary secrecy, anomalous obfuscation, or both?
   Can A.C.T build formal aid channels that reduce Exchange dependence without forcing witnesses
   underground?
 

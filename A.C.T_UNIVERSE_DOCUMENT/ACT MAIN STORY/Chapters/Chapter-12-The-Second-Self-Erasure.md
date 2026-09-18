@@ -18,8 +18,7 @@ Beneath it, in smaller text:
 
 For a long time Sera only looked at the words.
 
-Not because she did not understand them.
-Because she understood them perfectly.
+Not because she did not understand them. Because she understood them perfectly.
 
 Threshold.
 
@@ -36,8 +35,7 @@ She almost laughed.
 Not out of humor. Out of the bitter clarity of seeing the story become
 doctrine around her in real time.
 
-The founders had crossed this same line once.
-Now the line had reached her.
+The founders had crossed this same line once. Now the line had reached her.
 
 The command window gave her twelve minutes to report to Lower Medical Review.
 
@@ -49,8 +47,7 @@ on a personal terminal. This had not been initiated by a nervous supervisor or
 a local medic worried about fatigue
 markers. It had risen from somewhere higher, colder, and much more certain.
 
-Someone had noticed.
-Or perhaps the system itself had.
+Someone had noticed. Or perhaps the system itself had.
 
 Sera stood, crossed to the washbasin, and stared at her reflection in the narrow
 mirror above it.
@@ -83,53 +80,45 @@ Good.
 
 Then she opened one final page.
 
-Blank.
-Unindexed.
-Local only.
-No archive route.
-No title.
+Blank. Unindexed. Local only. No archive route. No title.
 
 She stared at it for several seconds, fingers unmoving above the keys.
 
-This was the thing the founders had not done.
-Or perhaps the thing they had done and failed to finish.
+This was the thing the founders had not done. Or perhaps the thing they
+had done and failed to finish.
 
-A message.
-Not the truth. Never the truth whole. That was what the fragments were for
-now.
-But a warning. A compass point. Something for whoever came after her—if anyone did.
+A message. Not the truth. Never the truth whole. That was what the fragments
+were for now. But a warning. A compass
+point. Something for whoever came after her—if anyone did.
 
 She began typing.
 
 If you are reading this, then either the fragments held or the lie weakened.
 Do not try to remember all of it at once.
-Do not assemble the route inside a single mind.
-Follow contradiction, not revelation.
-The bloom is tied to the sleep below.
-The founders were not cowards.
-They were already too close.
-If you have reached this far, then you are too close as well.
+Do not assemble the route inside a single mind. Follow contradiction, not revelation. The
+bloom is tied to the sleep
+below. The founders were not cowards. They were already too close. If you have
+reached this far, then you are too
+close as well.
 
 She stopped.
 
-It looked too much like a confession.
-Confessions were for courts, religion, or people who believed honesty could save them.
-This place had taught her better.
+It looked too much like a confession. Confessions were for courts, religion, or people
+who believed honesty could save
+them. This place had taught her better.
 
 She deleted the lines one by one, then rewrote them shorter.
 
 **Do not descend whole.**
 
-That was better.
-Not kinder. Better.
+That was better. Not kinder. Better.
 
 She encrypted the note, embedded it inside a redundant checksum shell attached to an
 irrelevant archive maintenance
 stub, and sent it into a place no one would ever search first because
 it looked too small to matter.
 
-The tiniest surviving wound.
-The last thing she would leave intact.
+The tiniest surviving wound. The last thing she would leave intact.
 
 At minute nine she left her quarters.
 
@@ -155,11 +144,9 @@ that the tendons in his wrists stood
 out.
 
 He looked as though he had not expected to be the one on duty
-for this.
-Perhaps he had not.
+for this. Perhaps he had not.
 
-Sera stopped in front of him.
-Neither spoke for several seconds.
+Sera stopped in front of him. Neither spoke for several seconds.
 
 Finally she said, “How bad?”
 
@@ -200,8 +187,7 @@ into protocol.
 Tavian swallowed. “004-F, if necessary. Review begins at H. If retention markers remain active,
 they escalate.”
 
-One month.
-Then worse.
+One month. Then worse.
 
 Long enough to take the shape of what she had learned and grind it
 into something survivable by removal.
@@ -212,10 +198,10 @@ East stairwell. Dead maintenance rail. Somewhere. Anywhere.
 
 Then reason returned with all its buried cruelty.
 
-Run where?
-To the surface, carrying half-assembled abyssal continuity in her head?
-Into the world the Facility had spent centuries protecting by forgetting?
-Into a reality that might not survive her memory intact if the founders had
+Run where? To the surface, carrying half-assembled abyssal continuity in her head? Into the
+world the Facility had
+spent centuries protecting by forgetting? Into a reality that might not survive her memory
+intact if the founders had
 judged correctly?
 
 No.
@@ -276,10 +262,9 @@ institution with all the same practiced motions. Only the shape inside her would
 different. Smoothed. Reduced.
 Missing its most dangerous architecture.
 
-The founders had survived this way.
-The institution had survived this way.
-Now it was her turn to decide whether survival at that price still counted
-as self.
+The founders had survived this way. The institution had survived this way. Now it
+was her turn to decide whether
+survival at that price still counted as self.
 
 The medic waited.
 
@@ -293,13 +278,10 @@ a narrow reclined chair,
 monitoring lines, two filtered lamps, and a tray of sealed vials glowing faintly gold
 under sterile glass.
 
-NEMNOLIA.
-The bloom reduced to medicine.
-The dream of the abyss made injectable.
+NEMNOLIA. The bloom reduced to medicine. The dream of the abyss made injectable.
 
-She sat.
-The restraints were present but unused.
-That, somehow, was worse than if they had bound her immediately.
+She sat. The restraints were present but unused. That, somehow, was worse than if
+they had bound her immediately.
 
 A technician attached the first baseline sensors in silence. Another checked the cartridge seals.
 The medic from the
@@ -307,27 +289,25 @@ door reviewed the protocol strip with the practiced calm of someone reading weat
 rather than the
 measured dismantling of a person’s continuity.
 
-Tavian entered last.
-He should not have been there, she realized. Not at her side. Not if
-this were merely procedure. But perhaps that was
-his final act of disobedience: to witness what the Facility preferred its own people
-not to witness too humanly.
+Tavian entered last. He should not have been there, she realized. Not at her
+side. Not if this were merely procedure.
+But perhaps that was his final act of disobedience: to witness what the Facility
+preferred its own people not to
+witness too humanly.
 
 Sera stared at the ceiling.
 
 It was an ordinary ceiling. Smooth white paneling. Soft seams. Light without character.
 
-She thought of the twelve fragments.
-The note hidden in the checksum shell.
-The line: **Do not descend whole.**
+She thought of the twelve fragments. The note hidden in the checksum shell. The
+line: **Do not descend whole.**
 
-Then she thought of the founders.
-How they must have sat somewhere beneath the world, or above it, or half
-between themselves, realizing that truth had
-become a vector and ignorance the last seal they could still choose deliberately.
+Then she thought of the founders. How they must have sat somewhere beneath the
+world, or above it, or half between
+themselves, realizing that truth had become a vector and ignorance the last seal they
+could still choose deliberately.
 
-She understood them now.
-She hated that she understood them.
+She understood them now. She hated that she understood them.
 
 The medic approached with the first vial.
 
@@ -335,28 +315,24 @@ The medic approached with the first vial.
 
 Sera laughed once under her breath.
 
-Not because anything was funny.
-Because the absurdity had finally completed itself. The Facility that had been built to
-make itself forget was now
-asking one of its archivists to prove the logic of its own survival by
-becoming part of it.
+Not because anything was funny. Because the absurdity had finally completed itself. The Facility
+that had been built
+to make itself forget was now asking one of its archivists to prove the
+logic of its own survival by becoming part of
+it.
 
 Her laugh died quickly.
 
-The needle entered her arm.
-Cold spread upward at once, not painful, only alien in its clarity.
+The needle entered her arm. Cold spread upward at once, not painful, only alien
+in its clarity.
 
-For a few seconds nothing happened.
-Then the room lost some of its depth.
+For a few seconds nothing happened. Then the room lost some of its depth.
 
-Not blur.
-Not darkness.
-Just a subtle failure of attachment, as if the present moment had loosened by
-a fraction from the chain connecting it
-to everything that came before.
+Not blur. Not darkness. Just a subtle failure of attachment, as if the present
+moment had loosened by a fraction from
+the chain connecting it to everything that came before.
 
-The medic asked baseline questions.
-Name. Division. Date. Shift cycle. Current route authorization.
+The medic asked baseline questions. Name. Division. Date. Shift cycle. Current route authorization.
 
 Sera answered all of them.
 
@@ -366,10 +342,9 @@ Then, without warning, another question arrived from somewhere farther off.
 
 She almost answered.
 
-Not because she chose to.
-Because something in her recognized the pattern of the question before her conscious mind
-did. A route turning. A
-branch narrowing. The old wrong familiarity stirring toward speech.
+Not because she chose to. Because something in her recognized the pattern of the
+question before her conscious mind
+did. A route turning. A branch narrowing. The old wrong familiarity stirring toward speech.
 
 Tavian’s hand struck the side rail so hard the metal cracked like a shot.
 
@@ -390,16 +365,14 @@ the technician.
 
 “Continue.”
 
-The second vial remained on the tray.
-Unopened.
+The second vial remained on the tray. Unopened.
 
 Sera understood, dimly, what had just happened.
 
-Tavian had not saved her.
-Not yet.
+Tavian had not saved her. Not yet.
 
-But he had bought her one more margin of uncertainty.
-One more chance that the lower dose would be judged sufficient.
+But he had bought her one more margin of uncertainty. One more chance that
+the lower dose would be judged sufficient.
 
 Minutes lost shape after that. Questions. Light. Gold-cold drifting through the blood. The strange
 sensation of
@@ -409,14 +382,13 @@ tasted metal. Once she forgot what year it was for three full breaths and
 came back with tears on her face she had not
 felt forming.
 
-At some point someone said, “Retention degrading.”
-At another point someone else answered, “Not enough for escalation.”
+At some point someone said, “Retention degrading.” At another point someone else answered, “Not
+enough for
+escalation.”
 
 Those words became the only prayer left in the room.
 
-Not enough.
-Not enough.
-Not enough.
+Not enough. Not enough. Not enough.
 
 When it was over, Sera no longer trusted her own sense of duration. The
 chamber was dimmer. The first vial tray was
@@ -426,10 +398,10 @@ gone. The second remained unopened.
 
 Tavian was the one who helped her stand.
 
-Her legs worked. The room worked. Language still worked.
-But inside, something had been taken—not the core of her, not the whole shape,
-but some of the dangerous sharpness
-that had connected all the buried pieces too tightly together.
+Her legs worked. The room worked. Language still worked. But inside, something had been
+taken—not the core of her, not
+the whole shape, but some of the dangerous sharpness that had connected all the
+buried pieces too tightly together.
 
 It hurt in a way pain never could.
 
@@ -455,14 +427,13 @@ As they walked, she reached into the pocket of her uniform and found, with
 a wave of relief so sudden it nearly
 dropped her, the folded maintenance slip she had hidden there hours earlier.
 
-Blank to any ordinary eye.
-Meaningless.
+Blank to any ordinary eye. Meaningless.
 
 But inside it, somewhere beyond immediate recall, lived the reminder that she had already
 done what she needed to do.
 
-The truth was no longer hers to hold whole.
-It had been broken, hidden, and given away in parts.
+The truth was no longer hers to hold whole. It had been broken, hidden,
+and given away in parts.
 
 When she finally lay down in her quarters, the route beneath her thoughts was
 dimmer now. Not gone. Never fully gone.
@@ -470,17 +441,15 @@ But dimmer.
 
 She closed her eyes and understood the tragedy in its final shape.
 
-The founders had survived by forgetting.
-She had survived by agreeing to forget.
-And the world above would continue sleeping safely because people like her kept paying
-that cost, one wound at a time.
+The founders had survived by forgetting. She had survived by agreeing to forget. And
+the world above would continue
+sleeping safely because people like her kept paying that cost, one wound at a
+time.
 
 Before sleep took her, one last thought rose through the gold-hazed quiet of her
 mind.
 
-Not the truth.
-Not the route.
-Not the abyss.
+Not the truth. Not the route. Not the abyss.
 
 Only the sentence she had hidden for whoever came next.
 

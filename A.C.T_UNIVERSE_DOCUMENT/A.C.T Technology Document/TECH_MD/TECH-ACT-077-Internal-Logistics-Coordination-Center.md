@@ -177,8 +177,8 @@ and alive with movement.
 - ACT-SITE-05-ID-C-F-5 Personnel and Command Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-4 Laboratory and Research Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-3 Maritime and Island Holding Level Floor Dossier;
-- TECH-ACT-066 - Maritime Platform Containment Infrastructure;
-- TECH-ACT-076 - Command Communications Nexus;
+- TECH-ACT-066 — Maritime Platform Containment Infrastructure;
+- TECH-ACT-076 — Command Communications Nexus;
 - Nusantara movement and custody ledgers [restricted].
 
 ---
@@ -190,16 +190,15 @@ and alive with movement.
   How should ILCC route personnel when surface transition and deep floors both need
   evacuation
   priority?
-- Should port handoff delays automatically freeze laboratory scheduling?
-- Can a resident influence logistics by altering what staff believe is urgent?
-- When does a logistics error become a containment breach?
+— Should port handoff delays automatically freeze laboratory scheduling?
+— Can a resident influence logistics by altering what staff believe is urgent?
+— When does a logistics error become a containment breach?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15
-**Author Desk:** Relay Administration / Internal Logistics / Central Archive
-**Review Status:** Active logistics coordination record; route maps, custody ledgers, and priority tables censored
-**Next Review:** After any misrouted material, missing return confirmation, emergency movement freeze, port delay,
-sample transfer incident, or seismic routing drill
+**Created:** 2026-09-15 **Author Desk:** Relay Administration / Internal Logistics / Central Archive **Review
+Status:** Active logistics coordination record; route maps, custody ledgers, and priority tables censored **Next
+Review:** After any misrouted material, missing return confirmation, emergency movement freeze, port delay, sample
+transfer incident, or seismic routing drill

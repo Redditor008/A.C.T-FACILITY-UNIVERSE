@@ -192,10 +192,10 @@ moving.
 
 - ACT-SITE-05-ID-C-F-3 Maritime and Island Holding Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-4 Laboratory and Research Level Floor Dossier;
-- TECH-ACT-064 - Water-Capable Containment Chambers;
-- TECH-ACT-065 - Pressure-Rated Environmental Transition System;
-- TECH-ACT-066 - Maritime Platform Containment Infrastructure;
-- TECH-ACT-073 - Marine Biology Laboratory Suites;
+- TECH-ACT-064 — Water-Capable Containment Chambers;
+- TECH-ACT-065 — Pressure-Rated Environmental Transition System;
+- TECH-ACT-066 — Maritime Platform Containment Infrastructure;
+- TECH-ACT-073 — Marine Biology Laboratory Suites;
 - Nusantara maritime intake ledgers [restricted].
 
 ---
@@ -204,9 +204,9 @@ moving.
 
 - Should all sea-recovered material pass through pressure-preserving transfer even when depth sensitivity is
   unconfirmed?
-- How long may Research observe an intake before it becomes an unauthorized study?
-- Can vessel containment remain the preferred destination if land-based holding is technically available?
-- Should island-recovered material use the same custody clock as deep-sea material?
+— How long may Research observe an intake before it becomes an unauthorized study?
+— Can vessel containment remain the preferred destination if land-based holding is technically available?
+— Should island-recovered material use the same custody clock as deep-sea material?
   How much Recovery context must remain attached when a resident becomes a long-term
   holding?
   When does a failed transfer count as a recovery incident rather than an
@@ -217,9 +217,7 @@ moving.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Maritime-Hold Command / Floor Holding Chief / Central Archive
-**Review Status:** Active intake-transfer technology record; live transfer maps, vessel interfaces, resident names,
-and route timings censored
-**Next Review:** After any transfer failure, environmental mismatch, custody break, pressure incident, route exposure,
-vessel handoff dispute, or research-transfer override
+**Created:** 2026-09-16 **Author Desk:** Maritime-Hold Command / Floor Holding Chief / Central Archive **Review
+Status:** Active intake-transfer technology record; live transfer maps, vessel interfaces, resident names, and route
+timings censored **Next Review:** After any transfer failure, environmental mismatch, custody break, pressure
+incident, route exposure, vessel handoff dispute, or research-transfer override

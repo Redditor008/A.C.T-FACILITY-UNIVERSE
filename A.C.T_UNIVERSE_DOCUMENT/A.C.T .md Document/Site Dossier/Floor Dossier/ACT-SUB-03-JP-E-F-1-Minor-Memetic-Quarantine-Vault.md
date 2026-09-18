@@ -17,65 +17,58 @@
 
 ## Archive Note
 
-This file is the complete individual record of **F-1, the Minor Memetic
-Quarantine Vault**, the deepest numbered floor of **ACT-SUB-03-JP-E, the
-Silent Reed Annex**.
+This file is the complete individual record of **F-1, the Minor Memetic Quarantine Vault**,
+the deepest numbered floor
+of **ACT-SUB-03-JP-E, the Silent Reed Annex**.
 
-The Silent Reed Annex is the buffer between the Kurokawa Archive Node and
-the overflow: a sub-site where minor memetic material, infohazards, and
-redaction work wait without congesting the parent node. Its deepest level,
-F-1, is where the buffered material that must not be read freely is held
-—
-low-to-mid memetic and infohazard material under visual-denial and
-document-quarantine conditions. Material here is temporary: the annex
-buffers, it does not bury. During a breach response, **closing F-1 to the
-outside** seals the level.
+The Silent Reed Annex is the buffer between the Kurokawa Archive Node and the
+overflow: a sub-site where minor memetic
+material, infohazards, and redaction work wait without congesting the parent node. Its deepest level,
+F-1, is where
+the buffered material that must not be read freely is held — low-to-mid memetic
+and infohazard material under
+visual-denial and document-quarantine conditions. Material here is temporary: the annex buffers, it does not
+bury.
+During a breach response, **closing F-1 to the outside** seals the level.
 
-This dossier records the floor in full institutional language: what it is,
-what it holds, how it is built, how it is guarded, and how a
-vault built
-for temporary quarantine serves the eastern archive's buffer doctrine.
+This dossier records the floor in full institutional language: what it is, what it
+holds, how it is built, how it is
+guarded, and how a vault built for temporary quarantine serves the eastern archive's buffer
+doctrine.
 
 ---
 
 ## 1. Floor Registry Identity Summary
 
-**Site Designation:** ACT-SUB-03-JP-E
-**Site Codename:** Silent Reed Annex
-**Parent Command:** ACT-SITE-03-JP-E — Kurokawa Archive Node
-**Floor Designation:** F-1
-**Floor Name:** Minor Memetic Quarantine Vault
-**Floor Type:** Temporary Memetic and Infohazard Quarantine Level
-**Vertical Position:** Deepest numbered floor of the annex's buried
-component
-**Floors Above:** F-2 (Review and Redaction Level)
-**Floors Below:** None numbered — below F-1 lies only the annex's deep
-utility routing
-**Containment Character:** Low-to-mid memetic and infohazard material under
-visual-denial and document-quarantine conditions
-**Primary Function:** Temporary quarantine of minor memetic and infohazard
-material awaiting review, redaction, or transfer
-**Access Posture:** Restricted; restriction-set-governed access
-**Current Status:** Active
-**Doctrine Note:** Material here is temporary — the annex buffers, it does
-not bury; subject to the annex's "F-1 closure" response — closing F-1 to
-the outside seals the level
+**Site Designation:** ACT-SUB-03-JP-E **Site Codename:** Silent Reed Annex **Parent Command:** ACT-SITE-03-JP-E —
+Kurokawa Archive Node **Floor Designation:** F-1 **Floor Name:** Minor Memetic Quarantine Vault **Floor Type:**
+Temporary Memetic and Infohazard Quarantine Level **Vertical Position:** Deepest numbered floor of the annex's
+buried
+component **Floors Above:** F-2 (Review and Redaction Level) **Floors Below:** None numbered — below
+F-1 lies only the
+annex's deep utility routing **Containment Character:** Low-to-mid memetic and infohazard material under visual-denial
+and document-quarantine conditions **Primary Function:** Temporary quarantine of minor memetic and infohazard material
+awaiting review, redaction, or transfer **Access Posture:** Restricted; restriction-set-governed access **Current
+Status:** Active **Doctrine Note:** Material here is temporary — the annex buffers, it does
+not bury; subject to the
+annex's "F-1 closure" response — closing F-1 to the outside seals the level
 
 ---
 
 ## 2. Dossier Purpose
 
-The Kurokawa Archive Node receives more dangerous information than it can
-process at once — and the overflow must wait somewhere that is neither the
-ordinary archive nor the black archive. The Silent Reed Annex is that
-somewhere; and within the annex, material that must not be read freely
-waits on F-1.
+The Kurokawa Archive Node receives more dangerous information than it can process at once
+— and the overflow must wait
+somewhere that is neither the ordinary archive nor the black archive. The Silent Reed
+Annex is that somewhere; and
+within the annex, material that must not be read freely waits on F-1.
 
-F-1 is the annex's minor memetic quarantine vault: the level where
-low-to-mid memetic and infohazard material is held under visual-denial and
-document-quarantine conditions while it awaits review, redaction, or
-transfer to the parent node. The floor exists for cases too dangerous for
-ordinary records but too minor for full black archive burial — held
+F-1 is the annex's minor memetic quarantine vault: the level where low-to-mid memetic and
+infohazard material is held
+under visual-denial and document-quarantine conditions while it awaits review, redaction, or transfer to the
+parent
+node. The floor exists for cases too dangerous for ordinary records but too minor
+for full black archive burial — held
 temporarily, and never permanently.
 
 ---
@@ -84,23 +77,24 @@ temporarily, and never permanently.
 
 ### 3.1 Vertical Position
 
-F-1 occupies the lowest numbered level of the annex's buried component,
-sitting beneath F-2, the Review and Redaction Level. It is the deepest
-point of a compact document facility whose legitimate face is a
-preservation studio above.
+F-1 occupies the lowest numbered level of the annex's buried component, sitting beneath F-2,
+the Review and Redaction
+Level. It is the deepest point of a compact document facility whose legitimate face
+is a preservation studio above.
 
 ### 3.2 What Lies Below F-1
 
-Below the vault structure lie only the annex's deep utility routing
-corridors. The annex is a buffer, not a deep archive, and its buried
-component is modest — F-1 is the terminal level.
+Below the vault structure lie only the annex's deep utility routing corridors. The annex
+is a buffer, not a deep
+archive, and its buried component is modest — F-1 is the terminal level.
 
 ### 3.3 Relationship to the Surface
 
-Between F-1 and the legitimate document-preservation studio above stand the
-review and redaction level and the cover. The distance is short — the
-annex's purpose is proximity to the parent node's overflow, not depth —
-and the vault's security depends on control rather than on distance.
+Between F-1 and the legitimate document-preservation studio above stand the review and redaction level
+and the cover.
+The distance is short — the annex's purpose is proximity to the parent node's
+overflow, not depth — and the vault's
+security depends on control rather than on distance.
 
 ---
 
@@ -108,24 +102,25 @@ and the vault's security depends on control rather than on distance.
 
 ### 4.1 Development of the Quarantine Vault
 
-F-1's character developed with the annex's creation: built in response to
-repeated archive spillover events that stressed the main East-region
-records body, the annex required a quarantine level where buffered memetic
-material could wait without entering the ordinary archive.
+F-1's character developed with the annex's creation: built in response to repeated archive spillover
+events that
+stressed the main East-region records body, the annex required a quarantine level where buffered
+memetic material
+could wait without entering the ordinary archive.
 
 ### 4.2 The Buffer-Not-Burial Doctrine
 
-The floor's defining principle — that material here is temporary — was
-established as the annex's doctrine matured. The annex buffers, it does
-not bury: nothing on F-1 is permanent, and the floor's entire design
-assumes that its holdings will be reviewed, redacted, or transferred to
-the parent node.
+The floor's defining principle — that material here is temporary — was established as
+the annex's doctrine matured.
+The annex buffers, it does not bury: nothing on F-1 is permanent, and the
+floor's entire design assumes that its
+holdings will be reviewed, redacted, or transferred to the parent node.
 
 ### 4.3 Modern Configuration
 
-In its modern configuration, F-1 is the annex's secure quarantine level:
-low-to-mid memetic and infohazard material held under visual denial and
-document quarantine while it awaits its documented disposition.
+In its modern configuration, F-1 is the annex's secure quarantine level: low-to-mid memetic and
+infohazard material
+held under visual denial and document quarantine while it awaits its documented disposition.
 
 ---
 
@@ -133,24 +128,25 @@ document quarantine while it awaits its documented disposition.
 
 ### 5.1 Floor Command
 
-F-1 operates under the annex's Sub-Site Chief, through the annex's archive
-staff. Day-to-day vault operations are administered by a **Quarantine
-Officer** appointed by the Chief.
+F-1 operates under the annex's Sub-Site Chief, through the annex's archive staff. Day-to-day vault
+operations are
+administered by a **Quarantine Officer** appointed by the Chief.
 
 ### 5.2 Authority over Holdings
 
-The Quarantine Officer administers the floor's quarantine operations:
-holding assignment, monitoring, and handling under the annex's restriction
-sets. Review and redaction scheduling is coordinated with F-2; disposition
-is coordinated with the parent node.
+The Quarantine Officer administers the floor's quarantine operations: holding assignment, monitoring, and handling
+under the annex's restriction sets. Review and redaction scheduling is coordinated with F-2; disposition
+is
+coordinated with the parent node.
 
 ### 5.3 Authority Limits
 
-F-1 holds no authority to release material to ordinary records, no
-authority over material requiring the parent node's deeper archival
-handling, and no authority to conduct review beyond the floor's quarantine
-function. Its role is to hold minor memetic and infohazard material
-temporarily and to move it to its documented disposition.
+F-1 holds no authority to release material to ordinary records, no authority over material
+requiring the parent node's
+deeper archival handling, and no authority to conduct review beyond the floor's quarantine function.
+Its role is to
+hold minor memetic and infohazard material temporarily and to move it to its documented
+disposition.
 
 ---
 
@@ -158,26 +154,27 @@ temporarily and to move it to its documented disposition.
 
 ### 6.1 Archive Staff
 
-The annex's archive staff operate F-1: quarantine administration, holding
-documentation, and the maintenance of the floor's restriction-set
-architecture.
+The annex's archive staff operate F-1: quarantine administration, holding documentation, and the maintenance of
+the
+floor's restriction-set architecture.
 
 ### 6.2 Intelligence Liaison
 
-Intelligence personnel coordinate with F-1 on the assessment of quarantined
-material, informing the triage that routes holdings to review, redaction,
-or transfer.
+Intelligence personnel coordinate with F-1 on the assessment of quarantined material, informing the triage
+that routes
+holdings to review, redaction, or transfer.
 
 ### 6.3 Limited Medical Cognitive Staff
 
-The annex's limited medical cognitive staff support F-1's operations,
-managing the cognitive effects of controlled exposure for personnel whose
-duties touch the floor's material.
+The annex's limited medical cognitive staff support F-1's operations, managing the cognitive effects of
+controlled
+exposure for personnel whose duties touch the floor's material.
 
 ### 6.4 Security Staff
 
-Security personnel guard the floor's access architecture and enforce the
-restriction sets that govern the floor's holdings.
+Security personnel guard the floor's access architecture and enforce the restriction sets that govern
+the floor's
+holdings.
 
 ---
 
@@ -188,33 +185,32 @@ restriction sets that govern the floor's holdings.
 F-1 is organized around **quarantine units** suited to temporary buffering:
 - the intake and logging bay, where buffered material is received and
   registered;
-- the visual-denial quarantine units;
-- the document-quarantine units;
-- the monitoring gallery;
-- the transfer preparation area, where material is prepared for review,
+— the visual-denial quarantine units;
+— the document-quarantine units;
+— the monitoring gallery;
+— the transfer preparation area, where material is prepared for review,
   redaction, or transfer;
-- the floor command post and documentation alcove.
+— the floor command post and documentation alcove.
 
 ### 7.2 The Visual-Denial Units
 
-The floor's visual-denial units hold material whose perception is itself
-the hazard: memetic material held where it cannot be seen, under conditions
-that deny the visual contact its danger requires.
+The floor's visual-denial units hold material whose perception is itself the hazard: memetic material
+held where it
+cannot be seen, under conditions that deny the visual contact its danger requires.
 
 ### 7.3 The Document-Quarantine Units
 
-The floor's document-quarantine units hold material whose danger is in its
-reading: infohazard documents held under conditions that prevent
-uncontrolled access, awaiting the review that will determine their
-disposition.
+The floor's document-quarantine units hold material whose danger is in its reading: infohazard documents
+held under
+conditions that prevent uncontrolled access, awaiting the review that will determine their disposition.
 
 ### 7.4 The Transfer Preparation Area
 
-The floor's transfer preparation area is where quarantined material is
-made ready for its next state: prepared for review on F-2, for redaction,
-or for transfer to the Kurokawa Archive Node. The area is the floor's most
-important space — the point where the annex's buffering purpose is
-fulfilled.
+The floor's transfer preparation area is where quarantined material is made ready for its
+next state: prepared for
+review on F-2, for redaction, or for transfer to the Kurokawa Archive Node. The
+area is the floor's most important
+space — the point where the annex's buffering purpose is fulfilled.
 
 ---
 
@@ -222,26 +218,28 @@ fulfilled.
 
 ### 8.1 Power
 
-F-1 draws on the annex's main supply with emergency backup sufficient for
-the vault's environmental and monitoring load.
+F-1 draws on the annex's main supply with emergency backup sufficient for the vault's
+environmental and monitoring
+load.
 
 ### 8.2 Environment
 
-The floor's environmental systems maintain the preservation conditions
-that document quarantine requires, with individual regulation per unit.
+The floor's environmental systems maintain the preservation conditions that document quarantine requires, with
+individual regulation per unit.
 
 ### 8.3 Monitoring
 
-Every quarantine unit on F-1 is under continuous monitoring: environmental,
-structural, and access. Monitoring feeds the floor command post and the
-annex's watch, and is engineered to observe the holdings without exposing
-observers to their content.
+Every quarantine unit on F-1 is under continuous monitoring: environmental, structural, and access. Monitoring
+feeds
+the floor command post and the annex's watch, and is engineered to observe the
+holdings without exposing observers to
+their content.
 
 ### 8.4 Communication
 
-The floor maintains communication with the annex's levels and with the
-parent node's coordination. Documentation is exact and tied to each
-holding's disposition schedule.
+The floor maintains communication with the annex's levels and with the parent node's coordination.
+Documentation is
+exact and tied to each holding's disposition schedule.
 
 ---
 
@@ -249,31 +247,33 @@ holding's disposition schedule.
 
 ### 9.1 Access Control
 
-Access to F-1 is controlled through the floor's access core, descending
-from F-2. Entry is granted under restriction-set authorization, with the
-floor's holdings governed by the individual restrictions that each
-holding's character requires.
+Access to F-1 is controlled through the floor's access core, descending from F-2. Entry
+is granted under
+restriction-set authorization, with the floor's holdings governed by the individual restrictions that each holding's
+character requires.
 
 ### 9.2 The F-1 Closure Procedure
 
-The floor's defining security procedure is the **F-1 closure**: sealing the
-level to the outside during a breach response. Because the annex's holdings
-are low-to-mid memetic material under temporary quarantine, the closure
-procedure is designed to contain the floor's material within the sealed
-level until the condition that triggered the closure is resolved.
+The floor's defining security procedure is the **F-1 closure**: sealing the level to the
+outside during a breach
+response. Because the annex's holdings are low-to-mid memetic material under temporary quarantine, the closure
+procedure is designed to contain the floor's material within the sealed level until the
+condition that triggered the
+closure is resolved.
 
 ### 9.3 No-Solo-Review Discipline
 
-The annex's review discipline governs any engagement with F-1's material:
-during active memetic contamination cycles, no solo review shifts are
-authorized. All controlled reading occurs under paired or supervised
-conditions, with exposure limits and aftercare requirements enforced.
+The annex's review discipline governs any engagement with F-1's material: during active memetic contamination
+cycles,
+no solo review shifts are authorized. All controlled reading occurs under paired or supervised
+conditions, with
+exposure limits and aftercare requirements enforced.
 
 ### 9.4 Transfer Security
 
-The floor's transfer operations move material to review, redaction, or the
-parent node under documented chain-of-custody, on the schedules the annex's
-buffer doctrine requires.
+The floor's transfer operations move material to review, redaction, or the parent node under
+documented
+chain-of-custody, on the schedules the annex's buffer doctrine requires.
 
 ---
 
@@ -281,10 +281,10 @@ buffer doctrine requires.
 
 ### 10.1 Rolling Manifest
 
-F-1 does not maintain a resident register in the holding sense. Its
-manifest is a rolling record of material in buffer: quarantined documents
-and media awaiting review, redaction, or transfer. The floor's
-documentation follows each holding to its disposition.
+F-1 does not maintain a resident register in the holding sense. Its manifest is
+a rolling record of material in
+buffer: quarantined documents and media awaiting review, redaction, or transfer. The floor's documentation follows
+each holding to its disposition.
 
 ### 10.2 Holding Character
 
@@ -292,15 +292,16 @@ F-1 holds low-to-mid memetic and infohazard material:
 - memetic material requiring visual denial during its buffered period;
 - infohazard documents requiring quarantine until review determines their
   disposition;
-- material buffered from the parent node's archive spillover;
-- redaction-bound material awaiting processing on F-2.
+— material buffered from the parent node's archive spillover;
+— redaction-bound material awaiting processing on F-2.
 
 ### 10.3 Disposition Character
 
-Material on F-1 follows the annex's buffering dispositions: review on F-2,
-redaction, return to the parent node's ordinary processing where cleared,
-or transfer to the Kurokawa Archive Node for deeper archival handling.
-Nothing on the floor is permanent — the annex buffers, it does not bury.
+Material on F-1 follows the annex's buffering dispositions: review on F-2, redaction, return to
+the parent node's
+ordinary processing where cleared, or transfer to the Kurokawa Archive Node for deeper archival
+handling. Nothing on
+the floor is permanent — the annex buffers, it does not bury.
 
 ---
 
@@ -308,23 +309,25 @@ Nothing on the floor is permanent — the annex buffers, it does not bury.
 
 ### 11.1 Rotation
 
-F-1 personnel serve on controlled rotations from the annex's staff, drawn
-from the archive personnel who also serve the annex's review functions.
+F-1 personnel serve on controlled rotations from the annex's staff, drawn from the archive
+personnel who also serve
+the annex's review functions.
 
 ### 11.2 Duty Life
 
-Duty on F-1 is quarantine work: intake, monitoring, documentation, and
-transfer preparation. The floor's rhythm follows the parent node's
-overflow — periods of heavy buffering during archive spillover events,
-followed by consolidation as material moves to review or transfer.
+Duty on F-1 is quarantine work: intake, monitoring, documentation, and transfer preparation. The floor's
+rhythm
+follows the parent node's overflow — periods of heavy buffering during archive spillover events,
+followed by
+consolidation as material moves to review or transfer.
 
 ### 11.3 The Buffer Discipline
 
-The floor's personnel work under the annex's buffer discipline: the
-understanding that everything on the floor is waiting — and that the wait
-is always temporary. Personnel on F-1 learn to hold material that must not
-be read without reading it, and to prepare every holding for the
-disposition that ends its stay.
+The floor's personnel work under the annex's buffer discipline: the understanding that everything on
+the floor is
+waiting — and that the wait is always temporary. Personnel on F-1 learn to
+hold material that must not be read without
+reading it, and to prepare every holding for the disposition that ends its stay.
 
 ---
 
@@ -332,31 +335,31 @@ disposition that ends its stay.
 
 ### 12.1 Buffer Doctrine
 
-F-1 doctrine holds that the annex buffers, it does not bury: the floor's
-quarantine is temporary by design, and its purpose is served when its
-holdings move to review, redaction, or transfer.
+F-1 doctrine holds that the annex buffers, it does not bury: the floor's quarantine
+is temporary by design, and its
+purpose is served when its holdings move to review, redaction, or transfer.
 
 ### 12.2 Restriction Doctrine
 
-F-1 doctrine holds that quarantine is governed by restriction: the floor's
-material is held under visual-denial and document-quarantine conditions,
-and the annex's review discipline governs any engagement with it.
+F-1 doctrine holds that quarantine is governed by restriction: the floor's material is held
+under visual-denial and
+document-quarantine conditions, and the annex's review discipline governs any engagement with it.
 
 ### 12.3 Closure Doctrine
 
-F-1 doctrine holds that the floor must be sealable: the level is designed
-to close during a breach response, and the annex maintains the procedure so
-that closure is executed without hesitation.
+F-1 doctrine holds that the floor must be sealable: the level is designed to
+close during a breach response, and the
+annex maintains the procedure so that closure is executed without hesitation.
 
 ---
 
 ## 13. Incident Archive
 
-The floor's incident record is dominated by quarantine and buffer events:
-quarantine incidents, exposure events, and buffering coordination issues.
-Material that exceeds the annex's capacity moves to the parent node or to
-deeper archival handling, and the floor's history is largely the history of
-successful buffering.
+The floor's incident record is dominated by quarantine and buffer events: quarantine incidents, exposure
+events, and
+buffering coordination issues. Material that exceeds the annex's capacity moves to the parent node
+or to deeper
+archival handling, and the floor's history is largely the history of successful buffering.
 
 ---
 
@@ -383,13 +386,14 @@ priorities include:
 
 ## Archive Closing
 
-F-1, the Minor Memetic Quarantine Vault, is the deepest level of the
-Silent Reed Annex: the floor where low-to-mid memetic and infohazard
-material waits under visual denial and document quarantine — buffered,
-never buried.
+F-1, the Minor Memetic Quarantine Vault, is the deepest level of the Silent Reed
+Annex: the floor where low-to-mid
+memetic and infohazard material waits under visual denial and document quarantine — buffered, never
+buried.
 
 It is a vault that exists to empty: a quarantine floor whose success is
-measured in material moved to review, redaction, or the parent node — never
-in material kept. Everything that waits in F-1's silence is already on its
-way to a documented disposition; the floor is only the quiet place where
-dangerous words pause between arrival and answer.
+measured in material moved to review,
+redaction, or the parent node — never in material kept. Everything that waits in
+F-1's silence is already on its way
+to a documented disposition; the floor is only the quiet place where dangerous words
+pause between arrival and answer.

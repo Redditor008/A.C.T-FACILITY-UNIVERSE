@@ -181,9 +181,9 @@ passive.
 - ACT-SITE-05-ID-C-F-4 Laboratory and Research Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-2 Deep Monitoring and Restricted Records Floor Dossier;
 - ACT-SITE-05-ID-C-F-1 The Deep Listening Vault Floor Dossier;
-- TECH-ACT-067 - Deep-Earth Sensor Arrays;
-- TECH-ACT-070 - Deep Monitoring Processing Center;
-- TECH-ACT-071 - Seismic Records Vaults;
+- TECH-ACT-067 — Deep-Earth Sensor Arrays;
+- TECH-ACT-070 — Deep Monitoring Processing Center;
+- TECH-ACT-071 — Seismic Records Vaults;
 - Nusantara deep-earth sample ledgers [restricted].
 
 ---
@@ -194,18 +194,16 @@ passive.
   How much depth context is lost when a sample is removed from pressure
   and
   heat?
-- Are some volcanic residues better treated as records than materials?
-- Can resonance testing teach a sample to answer?
-- Should abyss-linked sample handling require medical observation of analysts?
-- When does a sample belong in F-1 holding instead of F-4 study?
+— Are some volcanic residues better treated as records than materials?
+— Can resonance testing teach a sample to answer?
+— Should abyss-linked sample handling require medical observation of analysts?
+— When does a sample belong in F-1 holding instead of F-4 study?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15
-**Author Desk:** Research Division / Deep-Earth Analysis Desk / Central Archive
-**Review Status:** Active sample-analysis record; live sample maps, comparison keys, and abyss-linked sample names
-censored
+**Created:** 2026-09-15 **Author Desk:** Research Division / Deep-Earth Analysis Desk / Central Archive **Review
+Status:** Active sample-analysis record; live sample maps, comparison keys, and abyss-linked sample names censored
 **Next Review:** After any sample activation, thermal reactivity event, resonance dispute, restricted correlation,
 tool contamination, or destructive-test loss

@@ -184,9 +184,9 @@ victory is temporary but still necessary.
 - ACT-SITE-02-RU-N-F-2 Entropic and Unstable Resident Holding Floor Dossier;
 - ACT-SITE-02-RU-N-F-1 The Long Sleep Floor Dossier;
 - ACT-SITE-02-RU-N-F-3 Standard Deep-Isolation Holding Floor Dossier;
-- TECH-ACT-019 - Cryo-Seismic Stabilizers;
-- TECH-ACT-029 - Cryogenic Biological Isolation Units;
-- TECH-ACT-134 - Biological Suppression Chamber and Climate-Controlled Deep-Isolation Holding System;
+- TECH-ACT-019 — Cryo-Seismic Stabilizers;
+- TECH-ACT-029 — Cryogenic Biological Isolation Units;
+- TECH-ACT-134 — Biological Suppression Chamber and Climate-Controlled Deep-Isolation Holding System;
 - White Grave entropic holding and degradation ledgers [heavily restricted].
 
 ---
@@ -208,9 +208,9 @@ victory is temporary but still necessary.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Floor Holding Chief / Restricted-Hold Command / Engineering Support / Central Archive
-**Review Status:** Active entropic holding and self-repairing environment technology record; resident identities,
-degradation rates, redundancy maps, and F-1 transfer thresholds censored
-**Next Review:** After any redundancy loss, repair-loop contamination, high-frequency monitoring fault, Engineering
-access incident, F-1 escalation review, or unexpected resident stabilization
+**Created:** 2026-09-16 **Author Desk:** Floor Holding Chief / Restricted-Hold Command / Engineering Support /
+Central
+Archive **Review Status:** Active entropic holding and self-repairing environment technology record; resident
+identities, degradation rates, redundancy maps, and F-1 transfer thresholds censored **Next Review:** After any
+redundancy loss, repair-loop contamination, high-frequency monitoring fault, Engineering access incident, F-1
+escalation review, or unexpected resident stabilization

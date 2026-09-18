@@ -465,13 +465,13 @@ Planning material - not individual GOI dossiers
 
 - 00_GOI_Development_Roadmap.md (00_GOI_Development_Roadmap.md) - Retained twenty-slot structural scaffold for GOI
 category planning; listed names/designations are not approved GOIs.
-- 00_GOI_Record_Template.md (00_GOI_Record_Template.md) - Universal controlled in-world archive form for a future
+— 00_GOI_Record_Template.md (00_GOI_Record_Template.md) - Universal controlled in-world archive form for a future
 approved original GOI dossier.
-- 00_GOI_Recovered_Document_Format.md (00_GOI_Recovered_Document_Format.md) - Controlled in-world format for recovered
+— 00_GOI_Recovered_Document_Format.md (00_GOI_Recovered_Document_Format.md) - Controlled in-world format for recovered
 or intercepted GOI-origin documents.
-- Recovered_Document_Records/ (Recovered_Document_Records/) - Holding folder for future recovered GOI document
+— Recovered_Document_Records/ (Recovered_Document_Records/) - Holding folder for future recovered GOI document
 records.
-- README.md - This folder guide.
+— README.md - This folder guide.
 
 The twenty roadmap/scaffold entries remain in the master roadmap only. They do not have
 individual GOI files, and
@@ -536,19 +536,19 @@ Every future original GOI in this folder must remain an original A.C.T. core cre
 - It must use A.C.T.'s existing GOI classification stack: Nature Class, Alignment Class, Reach
 Class, Anomalous
 Capability, Threat Level, Secrecy Risk, and A.C.T. Posture.
-- It must serve a distinct role around Structural Reality, secrecy, containment, Transformation, site
+— It must serve a distinct role around Structural Reality, secrecy, containment, Transformation, site
 jurisdiction, or
 the human cost of those systems.
-- It must not duplicate the core role of GAA, A-GA, Anstrall Market, Children
+— It must not duplicate the core role of GAA, A-GA, Anstrall Market, Children
 of the Deep, DREAM .INC, or Liberty
 Freedoms.
-- It must not turn A.C.T. into an SCP derivative, a Project Moon crossover,
+— It must not turn A.C.T. into an SCP derivative, a Project Moon crossover,
 or a generic clone of another fictional
 organization.
-- It must not use source material, events, characters, assets, or lore from A.C.T_UNIVERSE_DOCUMENT/A.C.T
+— It must not use source material, events, characters, assets, or lore from A.C.T_UNIVERSE_DOCUMENT/A.C.T
 Anomaly
 Document/Emergent Reality Anomaly/, including all 715 material.
-- It must not alter the First Lie, ERE, ITHYOS, NEMNOLIA, founder self-erasure, or
+— It must not alter the First Lie, ERE, ITHYOS, NEMNOLIA, founder self-erasure, or
 protected main-story revelations
 without later explicit Central Archive direction.
 

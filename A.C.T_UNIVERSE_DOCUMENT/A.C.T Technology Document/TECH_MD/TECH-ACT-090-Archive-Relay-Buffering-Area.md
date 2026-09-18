@@ -184,9 +184,9 @@ ARBA doctrine holds that a relay remembers only long enough to pass memory onwar
 - ACT-SUB-01-US-W-F-2 Processing and Staging Level Floor Dossier;
 - ACT-SUB-01-US-W-F-1 Short-Term Holding Vault Floor Dossier;
 - ACT-SITE-01-US-W Redwood Veil Complex Site Dossier;
-- TECH-ACT-011 - Narrative Seal Varnish;
-- TECH-ACT-057 - Anomalous Intake Screening Suites;
-- TECH-ACT-059 - Document Quarantine Cells;
+- TECH-ACT-011 — Narrative Seal Varnish;
+- TECH-ACT-057 — Anomalous Intake Screening Suites;
+- TECH-ACT-059 — Document Quarantine Cells;
 - Glass Orchard archive relay schedules [restricted].
 
 ---
@@ -195,20 +195,18 @@ ARBA doctrine holds that a relay remembers only long enough to pass memory onwar
 
   Which field packets should bypass Glass Orchard and go directly to the parent
   archive?
-- How long can a witness file remain buffered before release review becomes unsafe?
-- Should every temporary holding manifest create a duplicate archive packet?
-- Can restricted-record flags themselves reveal too much about an event?
-- When should ARBA refuse a document rather than buffer it?
-- How often should parent-archive receipt be audited against relay custody closure?
+— How long can a witness file remain buffered before release review becomes unsafe?
+— Should every temporary holding manifest create a duplicate archive packet?
+— Can restricted-record flags themselves reveal too much about an event?
+— When should ARBA refuse a document rather than buffer it?
+— How often should parent-archive receipt be audited against relay custody closure?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Limited Archive Lead / Processing Officer / Central Archive
-**Review Status:** Active archive relay record; live witness files, custody ledgers, restricted flags, and
-transfer
-schedules censored
-**Next Review:** After any record overstay, custody-chain mismatch, restricted document misroute, witness file
-failure, unauthorized reading, or parent-archive receipt dispute
+**Created:** 2026-09-16 **Author Desk:** Limited Archive Lead / Processing Officer / Central Archive **Review
+Status:** Active archive relay record; live witness files, custody ledgers, restricted flags, and transfer
+schedules
+censored **Next Review:** After any record overstay, custody-chain mismatch, restricted document misroute, witness
+file failure, unauthorized reading, or parent-archive receipt dispute

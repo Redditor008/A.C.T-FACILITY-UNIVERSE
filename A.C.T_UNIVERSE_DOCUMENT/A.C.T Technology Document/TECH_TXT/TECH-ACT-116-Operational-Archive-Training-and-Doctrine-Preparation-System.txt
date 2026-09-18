@@ -193,10 +193,10 @@ OPEN QUESTIONS
 - Should failed controlled-reading drills remove a person from public preservation duties?
 - Can ordinary archive excellence predict operational archive readiness, or does it sometimes predict
 the opposite?
-- How much doctrine should provisional personnel learn before final clearance is granted?
-- Should training records include fear responses when fear may be a useful safety
+— How much doctrine should provisional personnel learn before final clearance is granted?
+— Should training records include fear responses when fear may be a useful safety
 behavior?
-- When does repeated training make personnel too curious about files they are not
+— When does repeated training make personnel too curious about files they are not
 cleared to see?
 
 FILE METADATA

@@ -179,12 +179,12 @@ custody.
 F-5's plan is organized around laboratory suites and analysis decks:
 - the sample and study suites, where material drawn from holding is
   characterized;
-- the analysis laboratories, where properties are measured under controlled
+— the analysis laboratories, where properties are measured under controlled
   conditions;
-- the Digital Resonance Mapping suite, where causal pulses are measured
+— the Digital Resonance Mapping suite, where causal pulses are measured
   before physical contact;
-- the documentation and data-processing offices;
-- the floor command post and support services.
+— the documentation and data-processing offices;
+— the floor command post and support services.
 
 7.2 The Digital Resonance Mapping Suite
 

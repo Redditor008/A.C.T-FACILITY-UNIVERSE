@@ -40,8 +40,8 @@ that can annihilate entire corporations.
   stand
   the **Color Fixers** (e.g.,
   the Red Mist). They work in **Offices** or **Associations**.
-- **Syndicates**: Criminal gangs. The **Five Fingers** are the strongest syndicates, ruling the Backstreets.
-- **Workshops**: Manufacturers of Fixer gear and weapons.
+— **Syndicates**: Criminal gangs. The **Five Fingers** are the strongest syndicates, ruling the Backstreets.
+— **Workshops**: Manufacturers of Fixer gear and weapons.
   **R Corp, T Corp, etc.**: Other Wings that Lobotomy Corp contracted with. T
   Corp
   supplied time-manipulation; R Corp
@@ -104,7 +104,7 @@ The tragedy unfolded in stages:
   **Sephirah**
   — AI directors encased in
   mechanical tombs.
-- They extracted Garion's brain for information and made her the first Sephirah: **Binah**.
+— They extracted Garion's brain for information and made her the first Sephirah: **Binah**.
   Benjamin instigated the **Smoke War** to destroy the previous L Corp and allow
   them
   to become a Wing.
@@ -168,8 +168,8 @@ The core horror of the setting is the **loop**:
   second
   for a human is a hundred
   seconds for her.
-- Only **Angela** and the **Sephirah** remember what happens across loops.
-- The **employees** are reset and remember nothing.
+— Only **Angela** and the **Sephirah** remember what happens across loops.
+— The **employees** are reset and remember nothing.
   **Ayin** has his memories wiped at the start of each loop and becomes
   **X**,
   the new Manager.
@@ -193,12 +193,12 @@ Angela is the **stagehand, director, and warden** of the play. She must:
 
   Force the Sephirah to relive their traumas until they reach **Meltdown** / **Core
   Suppression**.
-- Kill Benjamin over and over, turning him into Hokma each loop.
+— Kill Benjamin over and over, turning him into Hokma each loop.
   Watch employees die and be unable to save them — because saving them
   would
   break the script and reset everything.
-- Watch Ayin/X ignore her and treat her as a tool.
-- Experience all of this at 1/100th normal speed.
+— Watch Ayin/X ignore her and treat her as a tool.
+— Experience all of this at 1/100th normal speed.
 
 By the time the player reaches the final days, Angela is broken, bitter, and
 furious.
@@ -219,14 +219,14 @@ furious.
   of himself.
   In the final days, X/Ayin faces his own fractured psyche: **Abel**, **Abram**, and
   **Adam**.
-- **Abel** represents his lack of resolve / fear of moving forward.
+— **Abel** represents his lack of resolve / fear of moving forward.
   **Abram** represents his regret and desire to atone by staying in the past
   with
   Carmen.
   **Adam** represents his obsession with Carmen and his willingness to do anything for
   her
   vision.
-- Overcoming them reconstitutes Ayin and lets him finish the Seed of Light.
+— Overcoming them reconstitutes Ayin and lets him finish the Seed of Light.
 
 ### 4.2 Angela
 
@@ -236,8 +236,8 @@ furious.
   Initially appears as a polite, helpful assistant. Beneath that, she is **cynical, despairing,
   and
   furious**.
-- She knows the entire script. She has lived it for subjective millennia.
-- She is the only one who truly knows the cost of the plan.
+— She knows the entire script. She has lived it for subjective millennia.
+— She is the only one who truly knows the cost of the plan.
   At the end of the true ending, she rebels — she has suffered
   too
   much to simply be shut down and forgotten. She wants
@@ -281,7 +281,7 @@ over time they remember their pasts and break down.
 - Ayin's best friend and confidant. Co-author of the script.
   Later horrified by what they were doing. Tried to warn Ayin with hidden
   messages.
-- Angela killed him (under the script's orders) and turned him into Hokma.
+— Angela killed him (under the script's orders) and turned him into Hokma.
   He is restored as a human each loop, then killed again. He remembers
   more
   than most.
@@ -307,7 +307,7 @@ over time they remember their pasts and break down.
   but
   narratively a psychological
   breakthrough.
-- B is revealed to be Benjamin. Angela kills him, and he becomes **Hokma**.
+— B is revealed to be Benjamin. Angela kills him, and he becomes **Hokma**.
 
 ### 5.3 Days 46–50: The Architecture Team / Keter
 
@@ -569,7 +569,7 @@ roster is roughly No. 0–106 plus special/tool items.)*
   **Backward Clock** — A tool that can rewind a single day, tying directly
   into
   the loop theme.
-- **Dimensional-Wanderer** — Speaks of other worlds, useful for crossover concepts.
+— **Dimensional-Wanderer** — Speaks of other worlds, useful for crossover concepts.
 
 #### TETH
   **Scorched Girl** — A girl perpetually burning; based on a child who burned
@@ -579,7 +579,7 @@ roster is roughly No. 0–106 plus special/tool items.)*
   **1.76 MHz** — A radio frequency that broadcasts a disturbing voice/memories. Excellent for
   psychological
   horror.
-- **Punishing Bird** — Part of the Black Forest trio; punishes the guilty.
+— **Punishing Bird** — Part of the Black Forest trio; punishes the guilty.
   **Fragment of the Universe** — An alien/eldritch being. Good for "something from outside
   has
   entered the loop."
@@ -592,30 +592,24 @@ roster is roughly No. 0–106 plus special/tool items.)*
   **The Red Shoes** — A pair of shoes that possess the wearer and
   force
   them to dance until they die.
-- **Singing Machine** — A machine that grinds people into "music." Industrial-body horror.
+— **Singing Machine** — A machine that grinds people into "music." Industrial-body horror.
   **Nameless Fetus** — A fetus that cries and demands attention. Neglecting it causes
   disaster.
 
 #### WAW
-  **Big Bird, Judgement Bird, Punishing Bird** — The Black Forest trio. Together they
-  can
-  summon **Apocalypse Bird**.
-  **The Queen of Hatred** — A "magical girl" who falls into hysteria and
-  massacres
-  employees if morale is low.
-  **Little Red Riding Hooded Mercenary** — A Fixer-like Abnormality obsessed with hunting "the
-  Wolf."
-  **Big and Will be Bad Wolf** — The Wolf she hunts. Their rivalry
-  can
-  trigger a facility-wide hunt.
-  **The Dreaming Current** — A wave-like entity that consumes consciousness. Good for "dream/reality
-  bleed."
-  **The Burrowing Heaven** — A parasitic entity that feeds on sight. Breaks containment
-  if
-  observed too long.
-  **The Knight of Despair** — A being of pure grief; can bestow a
-  powerful
-  curse/blessing on an employee.
+**Big Bird, Judgement Bird, Punishing Bird** — The Black Forest trio. Together they can
+summon **Apocalypse Bird**.
+**The Queen of Hatred** — A "magical girl" who falls into hysteria and massacres
+employees if morale is low. **Little
+Red Riding Hooded Mercenary** — A Fixer-like Abnormality obsessed with hunting "the Wolf." **Big
+and Will be Bad
+Wolf** — The Wolf she hunts. Their rivalry can trigger a facility-wide hunt. **The
+Dreaming Current** — A wave-like
+entity that consumes consciousness. Good for "dream/reality bleed." **The Burrowing Heaven** — A parasitic
+entity that
+feeds on sight. Breaks containment if observed too long. **The Knight of Despair** —
+A being of pure grief; can bestow
+a powerful curse/blessing on an employee.
 
 #### ALEPH
   **Nothing There** — A shape-shifting predator that mimics employees and can end a
@@ -626,7 +620,7 @@ roster is roughly No. 0–106 plus special/tool items.)*
   tied
   to the "music
   of suffering."
-- **WhiteNight** — A false messiah that converts employees into apostles. Biblical apocalypse imagery.
+— **WhiteNight** — A false messiah that converts employees into apostles. Biblical apocalypse imagery.
   **Apocalypse Bird** — A fusion of the three Birds. Represents judgement and the
   end
   of days.
@@ -637,7 +631,7 @@ roster is roughly No. 0–106 plus special/tool items.)*
   **Blue Star** — A celestial object that draws people toward it and annihilates
   them.
   Cosmic horror.
-- **CENSORED** — An entity so horrifying its appearance is censored. Represents the unknowable.
+— **CENSORED** — An entity so horrifying its appearance is censored. Represents the unknowable.
 
 ---
 
@@ -666,81 +660,62 @@ loops. Here are the strongest narrative levers from the lore.
 
 ### 8.1 The Nature of the Loop Makes a "Different Loop" Terrifying
 
-  **Angela is the only one who would notice.** Because only she remembers every
-  iteration,
-  she is the natural POV for
-  realizing something is wrong.
-  A change can be **microscopic at first**: an Abnormality's number is different, a
-  Qliphoth
-  counter behaves strangely,
-  a line of dialogue is missing, or the color of a wall is wrong.
-  Because the facility is an **inverted Kabbalistic Tree of Life** that flips at
-  the
-  end, any structural change in the
-  facility is cosmologically significant.
-  Because the Seed of Light is tied to the **collective unconscious of humanity**,
-  an
-  external universe crossing over
-  could appear first in the Well — meaning an Abnormality or Ordeal could be
-  the first sign.
+**Angela is the only one who would notice.** Because only she remembers every iteration,
+she is the natural POV for
+realizing something is wrong. A change can be **microscopic at first**: an Abnormality's number
+is different, a
+Qliphoth counter behaves strangely, a line of dialogue is missing, or the color of
+a wall is wrong. Because the
+facility is an **inverted Kabbalistic Tree of Life** that flips at the end, any
+structural change in the facility is
+cosmologically significant. Because the Seed of Light is tied to the **collective unconscious of
+humanity**, an
+external universe crossing over could appear first in the Well — meaning an Abnormality
+or Ordeal could be the first
+sign.
 
 ### 8.2 Possible Crossover Incursion Points
 
-   **A new Abnormality appears in the facility** — one that does not match
-   any
-   known Subject Number. It cannot be
-   extracted because it is not from the Well of *this* universe.
-   **An existing Abnormality's story changes** — its containment logs describe a different world,
-   or
-   it begins speaking
-   in a language from another canon.
-   **Angela's Script glitches** — a page is missing, or a step produces an
-   impossible
-   outcome. The script is supposed to
-   be deterministic; entropy means an outside force is interfering.
-   **X/Ayin remembers something he shouldn't** — because the new universe is destabilizing the
-   memory-wipe
-   process.
-   **The loop doesn't reset correctly** — after a supposed reset, an object from
-   the
-   previous loop remains. Or an
-   employee remembers.
-   **Ordeals manifest as entities from another setting** — Ordeals are already leaks from
-   the
-   Well; a crossover could
-   appear as a new "color" or class of Ordeal.
-   **Carmen's Bucket shows a different reflection** — the Cogito source reacts to the
-   foreign
-   universe before anyone
-   else.
-   **A Sephirah's trauma is overwritten** — e.g., Gebura suddenly remembers a life that
-   isn't
-   Kali's, suggesting the
-   crossover universe's version of her soul has been pulled in.
+**A new Abnormality appears in the facility** — one that does not match any
+known Subject Number. It cannot be
+extracted because it is not from the Well of *this* universe. **An existing Abnormality's
+story changes** — its
+containment logs describe a different world, or it begins speaking in a language from
+another canon. **Angela's Script
+glitches** — a page is missing, or a step produces an impossible outcome. The
+script is supposed to be deterministic;
+entropy means an outside force is interfering. **X/Ayin remembers something he shouldn't** — because
+the new universe
+is destabilizing the memory-wipe process. **The loop doesn't reset correctly** — after a supposed
+reset, an object
+from the previous loop remains. Or an employee remembers. **Ordeals manifest as entities from
+another setting** —
+Ordeals are already leaks from the Well; a crossover could appear as a new
+"color" or class of Ordeal. **Carmen's
+Bucket shows a different reflection** — the Cogito source reacts to the foreign universe
+before anyone else. **A
+Sephirah's trauma is overwritten** — e.g., Gebura suddenly remembers a life that isn't Kali's,
+suggesting the
+crossover universe's version of her soul has been pulled in.
 
 ### 8.3 Thematic Tension for a Crossover
 
-  **Lobotomy Corp's horror is cycles of exploitation and forgotten trauma.** A crossover should
-  ask:
-  *What happens when
-  the cycle itself is contaminated?*
-  **The facility is a closed system.** An external universe is a violation of
-  the
-  script — and therefore a threat to
-  Angela, but also possibly a **way out** for her.
-  **Abnormalities are ideas made flesh.** A crossover character entering the facility would be
-  interpreted
-  by the Well
-  as a **new concept**, potentially spawning a new Abnormality based on them.
-  **E.G.O. is the power of self-acceptance.** Crossover characters who face their inner selves
-  could
-  manifest E.G.O.
-  weapons, or their existing powers could be re-contextualized as E.G.O.
-  **The incomplete Seed of Light causes Distortion.** Characters from another universe exposed to
-  the
-  Light might not
-  Distort — they might become something else entirely, because their psyche is not from
-  the Well of this world.
+**Lobotomy Corp's horror is cycles of exploitation and forgotten trauma.** A crossover should ask:
+*What happens when
+the cycle itself is contaminated?* **The facility is a closed system.** An external universe
+is a violation of the
+script — and therefore a threat to Angela, but also possibly a **way out**
+for her. **Abnormalities are ideas made
+flesh.** A crossover character entering the facility would be interpreted by the Well as
+a **new concept**,
+potentially spawning a new Abnormality based on them. **E.G.O. is the power of self-acceptance.**
+Crossover characters
+who face their inner selves could manifest E.G.O. weapons, or their existing powers could
+be re-contextualized as
+E.G.O. **The incomplete Seed of Light causes Distortion.** Characters from another universe exposed to
+the Light might
+not Distort — they might become something else entirely, because their psyche is not
+from the Well of this world.
 
 ### 8.4 Natural Story Arcs
 

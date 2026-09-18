@@ -2,7 +2,7 @@ A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
 Nyxara-Research-Analysis-Dossier-AFD-CH-703
 
 ═══════════════════════════════════════════════════════════════════════
-             A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER              
+             A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
                      Anomaly Containment Transformation
 ═══════════════════════════════════════════════════════════════════════
 
@@ -26,7 +26,7 @@ ARCHIVE STATUS:      Active / Cosmic Continuity restricted
 DOSSIER STATUS:      Open / Long-range observation under review
 
 ═══════════════════════════════════════════════════════════════════════
-                           CATEGORY CONTENTS                           
+                           CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
 This dossier belongs to A.C.T Log Category VI — Research & Analysis Dossier.
@@ -55,7 +55,7 @@ hydrology in sleep, why close observation fails to perceive her, and what the
 three annual 100% visibility windows require of the containment network.
 
 ═══════════════════════════════════════════════════════════════════════
-   SECTION 001 — VISIBILITY WINDOW CORRELATION — THE NYXARA CALENDAR   
+   SECTION 001 — VISIBILITY WINDOW CORRELATION — THE NYXARA CALENDAR
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-703/RES-001
@@ -91,7 +91,7 @@ Monitoring is continuous (celestial and tidal) by 4 celestial analysts and 2
 maritime-link operators, with an annual visibility-window calibration cycle.
 
 ═══════════════════════════════════════════════════════════════════════
-      SECTION 002 — TIDAL-LINKAGE AND HYDROLOGICAL ANCHOR REVIEW       
+      SECTION 002 — TIDAL-LINKAGE AND HYDROLOGICAL ANCHOR REVIEW
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-703/RES-002
@@ -118,7 +118,7 @@ models. Any ship or station that records "Hydrological Pulsing" consistent
 with subject movement must have its data intercepted.
 
 ═══════════════════════════════════════════════════════════════════════
-         SECTION 003 — PROXIMITY-INVISIBILITY HYPOTHESIS FILE          
+         SECTION 003 — PROXIMITY-INVISIBILITY HYPOTHESIS FILE
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-703/RES-003
@@ -145,7 +145,7 @@ artifacts that must be scrubbed before public release. No mission profile may
 be altered to test the property, and no attempt to defeat it is authorized.
 
 ═══════════════════════════════════════════════════════════════════════
-        SECTION 004 — ACOUSTIC ANOMALY — THE 1,000 KM SLEEP HUM        
+        SECTION 004 — ACOUSTIC ANOMALY — THE 1,000 KM SLEEP HUM
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-703/RES-004
@@ -165,7 +165,7 @@ a
 direct physiological reading A.C.T possesses of AFD-CH-703.
 
 ═══════════════════════════════════════════════════════════════════════
-     SECTION 005 — AGE, ORIGIN, AND DORMANCY-PROTECTION ASSESSMENT     
+     SECTION 005 — AGE, ORIGIN, AND DORMANCY-PROTECTION ASSESSMENT
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-703/RES-005
@@ -188,7 +188,7 @@ event. No nuclear testing or large-scale kinetic impactors are permitted on
 the lunar surface.
 
 ═══════════════════════════════════════════════════════════════════════
-    SECTION 006 — CONSULTATION RECORD — THE COUNTESS OF HORN (1968)    
+    SECTION 006 — CONSULTATION RECORD — THE COUNTESS OF HORN (1968)
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-703/CON-001
@@ -211,7 +211,7 @@ the clearest statement of the standing prohibition: the subject is not to be
 approached, woken, moved, or altered in any way.
 
 ═══════════════════════════════════════════════════════════════════════
-                SECTION 007 — CLOSING ARCHIVE STATEMENT                
+                SECTION 007 — CLOSING ARCHIVE STATEMENT
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-703/CLS-001

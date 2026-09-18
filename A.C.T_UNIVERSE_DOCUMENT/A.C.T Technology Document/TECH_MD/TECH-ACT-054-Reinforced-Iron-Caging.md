@@ -207,9 +207,9 @@ enough.
 - ACT Technological Evolution Timeline, 1860s Reinforced Iron Caging entry;
 - ACT Anomaly Classification Manual Archive, Containment Structure Category;
 - ACT Complete Designation and Class Reference, Massive Box definition;
-- TECH-ACT-033 - Abyssal Masonry;
-- TECH-ACT-034 - Abyssal Anchor Plating;
-- TECH-ACT-049 - Abyssal Basalt;
+- TECH-ACT-033 — Abyssal Masonry;
+- TECH-ACT-034 — Abyssal Anchor Plating;
+- TECH-ACT-049 — Abyssal Basalt;
 - Heavy Containment legacy cage ledgers [restricted].
 
 ---
@@ -228,9 +228,7 @@ enough.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Historical Engineering Archive / Heavy Containment / Central Archive  
-**Review Status:** Retired heavy-containment technology record; earliest resident list and cage location ledgers
-censored
+**Created:** 2026-09-15 **Author Desk:** Historical Engineering Archive / Heavy Containment / Central Archive **Review
+Status:** Retired heavy-containment technology record; earliest resident list and cage location ledgers censored
 **Next Review:** After any legacy cage inspection, corrosion finding, resident-adjacent use, retrofit proposal, or
 Massive Box ancestry audit

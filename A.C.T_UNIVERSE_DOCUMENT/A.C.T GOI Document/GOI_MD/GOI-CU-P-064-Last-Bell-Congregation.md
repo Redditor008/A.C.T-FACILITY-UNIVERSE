@@ -230,12 +230,12 @@ include:
   end calendars marking dates later linked to abnormal weather, route failure, or mass
   witness
   events;
-- shelter hymns reducing panic during crowded evacuation;
-- counting songs preserving child rosters when shelter numbers fluctuate;
-- dawn alarms waking households before nonstandard intrusions;
-- route cards remaining legible during rain, ash, or memory stress;
-- shared dreams producing consistent hazard imagery across separate cells;
-- failed-warning confession rites reducing future false positives in some local groups.
+— shelter hymns reducing panic during crowded evacuation;
+— counting songs preserving child rosters when shelter numbers fluctuate;
+— dawn alarms waking households before nonstandard intrusions;
+— route cards remaining legible during rain, ash, or memory stress;
+— shared dreams producing consistent hazard imagery across separate cells;
+— failed-warning confession rites reducing future false positives in some local groups.
 
 The Congregation is not assessed as Engineering. Its practice relies on bells, repetition, prophecy
 handling, trained
@@ -476,9 +476,9 @@ not treat every failed warning as proof of conspiracy.
   body.
   The Congregation maintains bell roles, shelters, calendars, route cards, food stores, and warning
   rites.
-- Several Last Bell warnings have preceded confirmed anomaly-adjacent disasters or local end-state events.
-- The group can reduce civilian casualties while increasing public awareness of hidden danger.
-- The Congregation's objective is survival preparation, not apocalypse creation.
+— Several Last Bell warnings have preceded confirmed anomaly-adjacent disasters or local end-state events.
+— The group can reduce civilian casualties while increasing public awareness of hidden danger.
+— The Congregation's objective is survival preparation, not apocalypse creation.
 
 ### Active Intelligence Assessment
 
@@ -505,13 +505,13 @@ indicators, with containment of hazardous bell tones or reckless public alarms.
   Do true-bell tones predict danger, detect danger, or participate in causing the warning
   condition
   to stabilize?
-- Which end calendar entries are prophecy, pattern analysis, inherited memory, or post-event correction?
+— Which end calendar entries are prophecy, pattern analysis, inherited memory, or post-event correction?
   How many shelters are structurally anomalous, and were any built by Cairn &
   Lintel
   or another outside group?
-- Has Last Bell ever prevented a disaster that A.C.T therefore never detected?
-- Can hostile GOIs manipulate Last Bell warnings to move civilians into controlled routes?
-- Why do failed-warning confession rites appear to reduce false alarms in some cells?
+— Has Last Bell ever prevented a disaster that A.C.T therefore never detected?
+— Can hostile GOIs manipulate Last Bell warnings to move civilians into controlled routes?
+— Why do failed-warning confession rites appear to reduce false alarms in some cells?
   Are children hearing bells earlier than adults because of exposure, training, or an
   unresolved
   anomaly condition?

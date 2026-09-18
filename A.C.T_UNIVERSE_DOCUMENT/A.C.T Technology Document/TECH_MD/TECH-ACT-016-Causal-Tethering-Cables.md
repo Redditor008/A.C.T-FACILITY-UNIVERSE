@@ -230,9 +230,9 @@ protect the cable more than the cargo.
 
 - ACT Technological Master Index 50, Item 03;
 - ACT Technological Visual Reference Guide, Item 03;
-- TECH-ACT-001 - Reality Stabilization Anchor System;
-- TECH-ACT-008 - Causal Anchor Nails;
-- TECH-ACT-006 - Facility Converted Aircraft System;
+- TECH-ACT-001 — Reality Stabilization Anchor System;
+- TECH-ACT-008 — Causal Anchor Nails;
+- TECH-ACT-006 — Facility Converted Aircraft System;
 - AFD-PL-932 Dark World Door survey materials;
 - Recovery Division high-load rigging ledger [restricted].
 
@@ -253,8 +253,6 @@ protect the cable more than the cargo.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Engineering Division / Recovery Division / Central Archive  
-**Review Status:** Active restricted record; phase-lock geometry censored  
-**Next Review:** After any line snap, negative-drag reading, threshold recovery, or post-use cable memory
-event
+**Created:** 2026-09-15 **Author Desk:** Engineering Division / Recovery Division / Central Archive **Review Status:**
+Active restricted record; phase-lock geometry censored **Next Review:** After any line snap, negative-drag reading,
+threshold recovery, or post-use cable memory event

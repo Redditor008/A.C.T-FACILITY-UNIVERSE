@@ -1,9 +1,9 @@
 A.C.T CENTRAL ARCHIVE
 IN-WORLD EXPLANATION — ANOMALY LOG CATEGORIES
 
-Document Authority: Central Archive Administration  
-Applicable Divisions: Archiver Division, Field Containment Division, Research Review, Site Command  
-Use Case: Organization of supplementary anomaly documentation  
+Document Authority: Central Archive Administration
+Applicable Divisions: Archiver Division, Field Containment Division, Research Review, Site Command
+Use Case: Organization of supplementary anomaly documentation
 Status: Active Archive Standard
 
 ---

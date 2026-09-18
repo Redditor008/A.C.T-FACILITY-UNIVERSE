@@ -238,10 +238,10 @@ The depot's cover as an arctic cold-storage facility is natural and durable.
 Security procedures emphasize:
 - controlled movement of material between the depot and the transport
   corridor
-- quarantine perimeter enforcement
-- tight personnel rotation control due to long-duration cold exposure and
+— quarantine perimeter enforcement
+— tight personnel rotation control due to long-duration cold exposure and
   isolation stress
-- silent handling of material whose disposition requires discretion
+— silent handling of material whose disposition requires discretion
 
 ---
 
@@ -276,8 +276,8 @@ The depot is Active and operating within its designed capacity. Projected
 development priorities include:
 - continued support for White Grave Station during seasonal biological
   incidents
-- expansion of interim cryogenic capacity
-- refinement of quarantine assessment doctrine
+— expansion of interim cryogenic capacity
+— refinement of quarantine assessment doctrine
 
 The depot's function — to be the waiting room before the long sleep —
 is not

@@ -226,17 +226,15 @@ Standing reminder: repaired tissue is not automatically restored life. Ask the p
 - How many baselines can one patient lawfully possess?
   Can a transformation become part of the patient rather than damage to be
   corrected?
-- Does the pink mist carry any long-term behavioral residue?
-- Can hostile vectors hide inside apparent successful repair?
-- Should five-minute full rewrite remain authorized, or only terminal-emergency use?
-- What counts as cure when the anomaly changed the patient's definition of health?
+— Does the pink mist carry any long-term behavioral residue?
+— Can hostile vectors hide inside apparent successful repair?
+— Should five-minute full rewrite remain authorized, or only terminal-emergency use?
+— What counts as cure when the anomaly changed the patient's definition of health?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Medical Division / Transformation Review Board / Central Archive  
-**Review Status:** Active restricted record; viral-vector libraries censored  
-**Next Review:** After any irreversible repair, baseline dispute, scrubber fault, or patient identity distress
-event
+**Created:** 2026-09-15 **Author Desk:** Medical Division / Transformation Review Board / Central Archive **Review
+Status:** Active restricted record; viral-vector libraries censored **Next Review:** After any irreversible repair,
+baseline dispute, scrubber fault, or patient identity distress event

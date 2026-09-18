@@ -84,7 +84,7 @@ Causal Static appears in five major roles:
 - field suppression during recovery operations where events begin repeating dramatic beats;
   archive quarantine when documents, recordings, or testimony attempt to recruit readers into a
   story;
-- Civil Covert support when public narratives are becoming anomalously self-reinforcing;
+— Civil Covert support when public narratives are becoming anomalously self-reinforcing;
   personnel protection when field teams need dull procedural interruption before panic, prophecy, or
   heroic
   fixation
@@ -365,8 +365,8 @@ The Causal Static Generator System interacts with, but is distinct from:
 - Quantum Narrative Buffer System, which preserves records after or during narrative change;
   Banalist White-Noise Broadcast, a site-wide acoustic system that disrupts narrative scripting through manifest
   noise;
-- Causal Static Earpieces, which provide individual issue protection during narrative-bleed events;
-- Spectral Vibration Sensors, which detect song or script leakage rather than suppress it;
+— Causal Static Earpieces, which provide individual issue protection during narrative-bleed events;
+— Spectral Vibration Sensors, which detect song or script leakage rather than suppress it;
   004-Series Amnestics, which alter memory after exposure rather than disrupt narrative coherence during
   exposure.
 
@@ -382,14 +382,14 @@ Static Generator System.
   Can a hostile GOI counterfeit Causal Static to flatten A.C.T command response during
   a
   breach?
-- Does repeated static use leave recognizable memory texture that witnesses can later identify?
+— Does repeated static use leave recognizable memory texture that witnesses can later identify?
   What failure mode appears when CSG-WHITE overlaps ARM-WHITE and QNB-WHITE during public narrative
   collapse?
   Can Causal Static safely protect children or trauma survivors, or does banality worsen
   dissociation?
   How often does boring filler become memorable enough to create a secondary public
   pattern?
-- Can Causal Static suppress beneficial narratives, including survival rituals, evacuation trust, or stabilizing
+— Can Causal Static suppress beneficial narratives, including survival rituals, evacuation trust, or stabilizing
   testimony?
 
 ---

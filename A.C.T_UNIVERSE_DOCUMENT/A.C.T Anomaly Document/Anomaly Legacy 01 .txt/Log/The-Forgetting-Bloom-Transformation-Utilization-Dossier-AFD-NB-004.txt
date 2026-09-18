@@ -2,7 +2,7 @@ A.C.T FACILITY — TRANSFORMATION & UTILIZATION DOSSIER
 The-Forgetting-Bloom-Transformation-Utilization-Dossier-AFD-NB-004
 
 ═══════════════════════════════════════════════════════════════════════
-         A.C.T FACILITY — TRANSFORMATION & UTILIZATION DOSSIER         
+         A.C.T FACILITY — TRANSFORMATION & UTILIZATION DOSSIER
                      Anomaly Containment Transformation
 ═══════════════════════════════════════════════════════════════════════
 
@@ -26,7 +26,7 @@ ARCHIVE STATUS:      Active / Integrated Asset
 DOSSIER STATUS:      Open — integrated derivative review
 
 ═══════════════════════════════════════════════════════════════════════
-                           CATEGORY CONTENTS                           
+                           CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
 This dossier belongs to A.C.T Log Category IX — Transformation & Utilization
@@ -54,7 +54,7 @@ A.C.T amnestic medicine — the transformation history of the Facility's most
 strategically important integrated biological asset.
 
 ═══════════════════════════════════════════════════════════════════════
-         SECTION 001 — CULTIVATION AND BLOOM-CYCLE OBSERVATION         
+         SECTION 001 — CULTIVATION AND BLOOM-CYCLE OBSERVATION
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-NB-004/TRF-001
@@ -82,12 +82,12 @@ CULTIVATION RULES:
    - Bloom cycles monitored remotely whenever possible
    - Sap extraction only inside negative-pressure harvest chambers with full
      protective equipment and post-handling cognitive assessment
-   - No exposed-skin handling; no raw sap transfer without sealed
+   — No exposed-skin handling; no raw sap transfer without sealed
      containment vials
-   - No unsanctioned derivative testing outside approved facilities
+   — No unsanctioned derivative testing outside approved facilities
 
 ═══════════════════════════════════════════════════════════════════════
-            SECTION 002 — SAP-EXPOSURE AND INCIDENT RECORD             
+            SECTION 002 — SAP-EXPOSURE AND INCIDENT RECORD
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-NB-004/TRF-002
@@ -108,15 +108,15 @@ INCIDENT LOG SUMMARY:
 
    - Total incidents: [ RESTRICTED ]; last incident date: [ RESTRICTED ];
      highest severity: Major
-   - Early exposure subjects lost complete recent autobiographical continuity
-   - Multiple unsafe refinement attempts caused catastrophic biological side
+   — Early exposure subjects lost complete recent autobiographical continuity
+   — Multiple unsafe refinement attempts caused catastrophic biological side
      effects
-   - One archive spill event required immediate witness suppression
-   - Casualties and amnestic administrations: [ RESTRICTED ]
-   - E-Class assigned: Yes — controlled dosage testing history
+   — One archive spill event required immediate witness suppression
+   — Casualties and amnestic administrations: [ RESTRICTED ]
+   — E-Class assigned: Yes — controlled dosage testing history
 
 ═══════════════════════════════════════════════════════════════════════
-  SECTION 003 — DERIVATIVE REFINEMENT — AMNESTIC COMPOUND PRODUCTION   
+  SECTION 003 — DERIVATIVE REFINEMENT — AMNESTIC COMPOUND PRODUCTION
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-NB-004/TRF-003
@@ -137,7 +137,7 @@ derivative use. Without AFD-NB-004, mass witness sanitation would be
 significantly less reliable.
 
 ═══════════════════════════════════════════════════════════════════════
-  SECTION 004 — INTAKE-TYPE CLARIFICATION — UFD-NB-004 AND AFD-NB-004  
+  SECTION 004 — INTAKE-TYPE CLARIFICATION — UFD-NB-004 AND AFD-NB-004
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-NB-004/TRF-004
@@ -169,7 +169,7 @@ is intake history, not error. UFD-NB-004 remains sealed historical intake;
 AFD-NB-004 remains the active record of record.
 
 ═══════════════════════════════════════════════════════════════════════
-            SECTION 005 — MEMORY-AS-STRUCTURE THEORY REVIEW            
+            SECTION 005 — MEMORY-AS-STRUCTURE THEORY REVIEW
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-NB-004/TRF-005
@@ -191,7 +191,7 @@ administration A.C.T has ever performed — not as deletion, but as harvest.
 This remains under restricted theoretical review.
 
 ═══════════════════════════════════════════════════════════════════════
-              SECTION 006 — CLOSING UTILIZATION STATEMENT              
+              SECTION 006 — CLOSING UTILIZATION STATEMENT
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-NB-004/TRF-CLS-001

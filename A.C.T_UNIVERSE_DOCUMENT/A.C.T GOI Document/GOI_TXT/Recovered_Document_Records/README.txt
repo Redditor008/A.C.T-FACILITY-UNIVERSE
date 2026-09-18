@@ -1,9 +1,9 @@
 # A.C.T FACILITY ARCHIVE FILE
 ## RECOVERED GOI DOCUMENT RECORDS - HOLDING FOLDER
 
-Archive Status: Active Holding Folder  
-Distribution: Intelligence Division / Archiver Division / GOI Desk  
-Authority: Central Archive and External Threat Review  
+Archive Status: Active Holding Folder
+Distribution: Intelligence Division / Archiver Division / GOI Desk
+Authority: Central Archive and External Threat Review
 
 ### Archive Note
 This folder is reserved for recovered, intercepted, translated, reconstructed, or quarantined documents connected to

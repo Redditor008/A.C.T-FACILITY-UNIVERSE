@@ -555,55 +555,55 @@ END OF DAYS 7–10
 APPENDIX: Transformed A.C.T. Anomalies
 
 O-06-202 — The Accelerant Hour
-- Original: AFD-TI-008 — CLOCK SAY'S DAWN
-- Risk Level: WAW
-- Attack Type: WHITE (4–6) / PALE (2–3)
-- E-Boxes: 22
-- Qliphoth Counter: 2
-- Work Preferences: Repression (High), Insight (Moderate), Instinct (Low), Attachment (Low)
-- Memento: *"THE CLOCK SAY'S DAWN."*
-- Description: A grandfather clock frozen at 05:59. Direct observation causes the viewer to
+— Original: AFD-TI-008 — CLOCK SAY'S DAWN
+— Risk Level: WAW
+— Attack Type: WHITE (4–6) / PALE (2–3)
+— E-Boxes: 22
+— Qliphoth Counter: 2
+— Work Preferences: Repression (High), Insight (Moderate), Instinct (Low), Attachment (Low)
+— Memento: *"THE CLOCK SAY'S DAWN."*
+— Description: A grandfather clock frozen at 05:59. Direct observation causes the viewer to
 perceive the world as
 moving at 100x speed, suffering accelerated subjective time and psychological aging. Breach causes localized
 temporal
 distortion in the department. Reflections are also hazardous.
 
 O-04-203 — The Thirst Above Hand
-- Original: AFD-OB-006 — Crimson Katana
-- Risk Level: WAW
-- Attack Type: RED (5–7)
-- E-Boxes: 24
-- Qliphoth Counter: 1
-- Work Preferences: Instinct (High), Repression (Moderate), Insight (Low), Attachment (Very Low)
-- Memento: *"It was waiting politely."*
-- Description: A floating katana suspended in mid-air, coated in blood that never dries.
+— Original: AFD-OB-006 — Crimson Katana
+— Risk Level: WAW
+— Attack Type: RED (5–7)
+— E-Boxes: 24
+— Qliphoth Counter: 1
+— Work Preferences: Instinct (High), Repression (Moderate), Insight (Low), Attachment (Very Low)
+— Memento: *"It was waiting politely."*
+— Description: A floating katana suspended in mid-air, coated in blood that never dries.
 Compels nearby employees to
 wield it. Upon contact, the wielder enters a homicidal rampage until collapse or death.
 The blade drains the wielder's
 blood to restore itself.
 
 O-02-204 — The Dream Eater
-- Original: AFD-SU-011 — Dream Eater
-- Risk Level: HE
-- Attack Type: WHITE (3–4)
-- E-Boxes: 16
-- Qliphoth Counter: 4
-- Work Preferences: Attachment (High), Insight (Moderate), Instinct (Low), Repression (Low)
-- Memento: *"That was the best sleep I ever had."*
-- Description: A small aerial whale-like entity that swims through air. Feeds on dreams
+— Original: AFD-SU-011 — Dream Eater
+— Risk Level: HE
+— Attack Type: WHITE (3–4)
+— E-Boxes: 16
+— Qliphoth Counter: 4
+— Work Preferences: Attachment (High), Insight (Moderate), Instinct (Low), Repression (Low)
+— Memento: *"That was the best sleep I ever had."*
+— Description: A small aerial whale-like entity that swims through air. Feeds on dreams
 by inducing a 72-hour deep
 sleep in nearby subjects. Not hostile, but operationally dangerous due to involuntary incapacitation. Restorative
 sleep makes it tempting to staff.
 
 ITHYOS — The Rift / The Vault Beneath
-- Original: ENTITY-000 / AFD-CH-000 — ITHYOS, The World-Sleeper
-- Risk Level: ALEPH / TIAMAT (beyond standard classification)
-- Attack Type: Unknown / Cosmic
-- E-Boxes: —
-- Qliphoth Counter: —
-- Work Preferences: Cannot be worked. Cannot be observed directly. Cannot be transformed.
-- Memento: *"Keep it asleep."*
-- Description: The Slumbering Serpent God. A cosmic entity that the Well could not
+— Original: ENTITY-000 / AFD-CH-000 — ITHYOS, The World-Sleeper
+— Risk Level: ALEPH / TIAMAT (beyond standard classification)
+— Attack Type: Unknown / Cosmic
+— E-Boxes: —
+— Qliphoth Counter: —
+— Work Preferences: Cannot be worked. Cannot be observed directly. Cannot be transformed.
+— Memento: *"Keep it asleep."*
+— Description: The Slumbering Serpent God. A cosmic entity that the Well could not
 transform or translate. Instead,
 the Well created a non-existent Basement Vault beneath Lobotomy Corporation and placed ITHYOS inside
 it. A Rift

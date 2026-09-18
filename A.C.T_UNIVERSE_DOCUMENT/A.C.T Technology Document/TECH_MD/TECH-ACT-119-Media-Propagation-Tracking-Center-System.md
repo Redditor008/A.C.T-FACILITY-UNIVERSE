@@ -179,10 +179,10 @@ understanding the path the copies want to take next.
 
 - ACT-SITE-03-JP-E-F-4 Research and Analysis Level Floor Dossier;
 - ACT-SITE-03-JP-E-F-5 Redaction and Controlled-Reading Laboratory Floor Dossier;
-- TECH-ACT-056 - Memetic Filtering Infrastructure;
-- TECH-ACT-057 - Anomalous Intake Screening Suites;
-- TECH-ACT-118 - Symbol Behavior Controlled Observation Suites;
-- TECH-ACT-120 - Redaction Release Authorization and Filtering Record System;
+- TECH-ACT-056 — Memetic Filtering Infrastructure;
+- TECH-ACT-057 — Anomalous Intake Screening Suites;
+- TECH-ACT-118 — Symbol Behavior Controlled Observation Suites;
+- TECH-ACT-120 — Redaction Release Authorization and Filtering Record System;
 - Kurokawa propagation watch ledgers [restricted].
 
 ---
@@ -192,19 +192,18 @@ understanding the path the copies want to take next.
   When does a derivative stop being the same anomalous media and become a
   new
   object?
-- Can public removal ever be more dangerous than leaving a weak copy unnoticed?
-- Should harmless discussion of dangerous media be tracked as propagation?
-- How many screenshots equal a breach when none of them individually activates?
-- Can a transcript carry the same hazard as the recording it describes?
-- Does tracking a file's path teach the file new paths through the tracker?
+— Can public removal ever be more dangerous than leaving a weak copy unnoticed?
+— Should harmless discussion of dangerous media be tracked as propagation?
+— How many screenshots equal a breach when none of them individually activates?
+— Can a transcript carry the same hazard as the recording it describes?
+— Does tracking a file's path teach the file new paths through the tracker?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Media Propagation Lead / Floor Research Chief / Central Archive
-**Review Status:** Active media-propagation technology record; live public-watch channels, media samples, response
-routes, and copy-chain maps censored
-**Next Review:** After any replication escape, false derivative ruling, analyst exposure, public intervention,
-Intelligence warning delay, or copy-chain map contamination
+**Created:** 2026-09-16 **Author Desk:** Media Propagation Lead / Floor Research Chief / Central Archive
+**Review
+Status:** Active media-propagation technology record; live public-watch channels, media samples, response routes, and
+copy-chain maps censored **Next Review:** After any replication escape, false derivative ruling, analyst exposure,
+public intervention, Intelligence warning delay, or copy-chain map contamination

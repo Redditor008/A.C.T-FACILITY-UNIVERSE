@@ -41,15 +41,11 @@ The preservation sheet inside contained only three surviving fragments of the or
 of the page had been
 eaten by later overstrike and archive correction, but the lines that remained were enough.
 
-**pale tissue sample**  
-**non-decaying gold residue**  
-**subject lost previous day in under seven minutes**
+**pale tissue sample** **non-decaying gold residue** **subject lost previous day in under seven minutes**
 
 Sera read the last line three times.
 
-Not the previous hour.
-Not the previous conversation.
-The previous day.
+Not the previous hour. Not the previous conversation. The previous day.
 
 She turned the page over.
 
@@ -83,8 +79,7 @@ dead maintenance branch beneath Central.
 
 Below mapped access.
 
-Not outside.
-Not recovered from a valley, forest, ruin, or contaminated settlement.
+Not outside. Not recovered from a valley, forest, ruin, or contaminated settlement.
 
 Below.
 
@@ -145,9 +140,7 @@ dissecting a lie.
 Nobody interrupted her until the door at the far end of the archive floor
 opened and the room changed shape.
 
-There was no alarm.
-No announcement.
-No visible panic.
+There was no alarm. No announcement. No visible panic.
 
 But every person in the room noticed.
 
@@ -177,8 +170,7 @@ Her gaze moved once, slowly, and Sera had the strange, immediate certainty that 
 animate in the archive could
 have concealed itself from her if it tried.
 
-It was not vigilance.
-It was worse.
+It was not vigilance. It was worse.
 
 It felt like an anomalous sense of surrounding, as though the very shape of
 occupied space announced itself to her
@@ -202,8 +194,7 @@ already understood everything that mattered before touching the case at all.
 
 On her way back toward the door, she paused.
 
-Not near Sera’s desk.
-Not even directly facing her.
+Not near Sera’s desk. Not even directly facing her.
 
 But near enough that Sera could feel it.
 
@@ -223,8 +214,7 @@ The door closed behind her.
 Only after it sealed did breathing resume around the room in a way that
 felt human again.
 
-Mila sat down first.
-Then everyone else pretended nothing had happened.
+Mila sat down first. Then everyone else pretended nothing had happened.
 
 Sera waited three full minutes before leaving her desk and crossing the room.
 
@@ -302,9 +292,7 @@ Sera stared at the line until the letters blurred.
 
 Dream-state.
 
-Not bloom cycle.
-Not environmental condition.
-Not chamber humidity or harvest interval.
+Not bloom cycle. Not environmental condition. Not chamber humidity or harvest interval.
 
 Dream-state.
 
@@ -335,18 +323,16 @@ She saved the note, closed every open archive window, and sat with her hands
 flat against the desk while the shift
 lamps dimmed toward cycle-end.
 
-The bloom was below.
-The archive had lied about when it found it.
-The woman who could sense hidden presence had noticed the old residue instantly.
-And somewhere, in a record no one at her level was ever meant to
-read, someone had written that the sap’s viability
-depended on dream-state stability.
+The bloom was below. The archive had lied about when it found it. The
+woman who could sense hidden presence had
+noticed the old residue instantly. And somewhere, in a record no one at her
+level was ever meant to read, someone had
+written that the sap’s viability depended on dream-state stability.
 
 The contradiction had become too large to be only archival.
 
-This was not a clerical corruption.
-Not a hidden experiment.
-Not even merely a cover-up.
+This was not a clerical corruption. Not a hidden experiment. Not even merely a
+cover-up.
 
 This was history being forced into a safer shape so the institution built on
 top of it could continue functioning.

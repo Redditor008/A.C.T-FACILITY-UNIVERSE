@@ -209,9 +209,9 @@ result anonymous.
 
 - ACT Technological Master Index 50, Item 47;
 - ACT Technological Visual Reference Guide, Item 47;
-- TECH-ACT-022 - Synthetic Sanguine-Fuel;
-- TECH-ACT-029 - Cryogenic Biological Isolation Units;
-- TECH-ACT-030 - Soul-Stasis Harness;
+- TECH-ACT-022 — Synthetic Sanguine-Fuel;
+- TECH-ACT-029 — Cryogenic Biological Isolation Units;
+- TECH-ACT-030 — Soul-Stasis Harness;
 - AFD-OB-412 Soul Pendant containment file;
 - Medical biological-data privacy ledgers [restricted].
 
@@ -230,8 +230,7 @@ result anonymous.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Materials Custody / Medical Engineering Desk / Central Archive  
-**Review Status:** Active anomalous material record; micro-vein composition and biological decoding methods censored  
-**Next Review:** After any cross-sample contamination, LED anomaly, anchor-adjacent denial appeal, or unauthorized
-data bridge discovery
+**Created:** 2026-09-15 **Author Desk:** Materials Custody / Medical Engineering Desk / Central Archive **Review
+Status:** Active anomalous material record; micro-vein composition and biological decoding methods censored **Next
+Review:** After any cross-sample contamination, LED anomaly, anchor-adjacent denial appeal, or unauthorized data
+bridge discovery

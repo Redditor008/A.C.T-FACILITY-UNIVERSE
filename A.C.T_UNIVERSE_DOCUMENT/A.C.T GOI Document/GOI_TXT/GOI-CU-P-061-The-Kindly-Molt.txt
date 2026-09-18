@@ -187,7 +187,7 @@ A.C.T assessment identifies these functional layers:
 - quiet escorts who move members between clinics, shelters, chapels, and homes;
 - red-bath reviewers who decide when a body condition is too dangerous for refuge
 alone;
-- memory callers who help survivors keep names, pronouns, family ties, and preferred body
+— memory callers who help survivors keep names, pronouns, family ties, and preferred body
 language intact.
 
 This structure distinguishes the Kindly Molt from a vague cult label. It is organized
@@ -525,11 +525,11 @@ Confirmed Operational Facts
 
 - The Kindly Molt is an outside cultic survivor-care network and not an A.C.T
 program.
-- The group maintains refuge houses, care roles, rites, body maps, skin ledgers, and
+— The group maintains refuge houses, care roles, rites, body maps, skin ledgers, and
 altered-family support practices.
-- Several interventions have reduced harm to transformed survivors.
-- The group can delay A.C.T custody, medical review, or containment transfer.
-- No confirmed evidence currently shows the group deliberately inducing transformation for recruitment.
+— Several interventions have reduced harm to transformed survivors.
+— The group can delay A.C.T custody, medical review, or containment transfer.
+— No confirmed evidence currently shows the group deliberately inducing transformation for recruitment.
 
 Active Intelligence Assessment
 ------------------------------
@@ -553,18 +553,18 @@ Persistent Questions
 - Did the Kindly Molt begin as a religious tradition, survivor network, medical refuge,
 or response to one
 catastrophic transformation event?
-- Are House Mothers and Shed Fathers elected, inherited, trained, or chosen by successful
+— Are House Mothers and Shed Fathers elected, inherited, trained, or chosen by successful
 care outcomes?
-- Which rites are psychologically supportive, and which produce measurable anomalous effects?
-- How many Molt houses exist outside current A.C.T awareness?
-- Has the group ever sheltered a person who later caused a breach because
+— Which rites are psychologically supportive, and which produce measurable anomalous effects?
+— How many Molt houses exist outside current A.C.T awareness?
+— Has the group ever sheltered a person who later caused a breach because
 A.C.T was not notified?
-- Do any members maintain contact with Saint-Vera Restoration Concern, Lullaby Works, or Office
+— Do any members maintain contact with Saint-Vera Restoration Concern, Lullaby Works, or Office
 for Witness
 Continuance?
-- What does the group do when a survivor wants reversal but the local
+— What does the group do when a survivor wants reversal but the local
 house believes the new body should remain?
-- Are altered children protected differently from altered adults inside Molt doctrine?
+— Are altered children protected differently from altered adults inside Molt doctrine?
 
 Intelligence Confidence
 -----------------------
@@ -603,7 +603,7 @@ Related A.C.T Records
 - A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md
 - A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational
 Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md
-- Restricted transformation, altered-body, refuge, witness, medical aftercare, and family-continuance case chains held
+— Restricted transformation, altered-body, refuge, witness, medical aftercare, and family-continuance case chains held
 under Central Archive routing.
 
 Dual Filing

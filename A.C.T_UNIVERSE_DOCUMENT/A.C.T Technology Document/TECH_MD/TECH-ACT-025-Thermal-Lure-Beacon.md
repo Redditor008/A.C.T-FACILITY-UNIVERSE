@@ -228,8 +228,6 @@ the enclosure cannot keep.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Subject Care Division / Biological Containment Division / Central Archive  
-**Review Status:** Active restricted record; high-output settings censored  
-**Next Review:** After any beam scatter event, predator misroute, habitat overheating, or subject conditioning
-incident
+**Created:** 2026-09-15 **Author Desk:** Subject Care Division / Biological Containment Division / Central Archive
+**Review Status:** Active restricted record; high-output settings censored **Next Review:** After any beam scatter
+event, predator misroute, habitat overheating, or subject conditioning incident

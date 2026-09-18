@@ -184,9 +184,9 @@ EISSS doctrine holds that the watchpoint receives what it does not own.
 - ACT-SUB-05-ID-C Ash Tide Watchpoint Sub-Site Dossier;
 - ACT-SUB-05-ID-C-F-1 Emergency Intake and Secure Storage Floor Dossier;
 - ACT-SUB-05-ID-C-F-2 Operations and Watch Level Floor Dossier;
-- TECH-ACT-077 - Internal Logistics Coordination Center;
-- TECH-ACT-080 - Concealed Transition Access Architecture;
-- TECH-ACT-064 - Water-Capable Containment Chambers;
+- TECH-ACT-077 — Internal Logistics Coordination Center;
+- TECH-ACT-080 — Concealed Transition Access Architecture;
+- TECH-ACT-064 — Water-Capable Containment Chambers;
 - Ash Tide rolling intake manifest [restricted].
 
 ---
@@ -198,8 +198,8 @@ EISSS doctrine holds that the watchpoint receives what it does not own.
   Can a rolling manifest become a hazard if the intake object alters its
   own
   record?
-- Should personnel intake and material intake ever share the same stabilization window?
-- When does transfer delay convert emergency storage into unauthorized containment?
+— Should personnel intake and material intake ever share the same stabilization window?
+— When does transfer delay convert emergency storage into unauthorized containment?
   How much medical care can occur before the patient must be moved to
   the
   parent relay?
@@ -208,9 +208,9 @@ EISSS doctrine holds that the watchpoint receives what it does not own.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15
-**Author Desk:** Watch Chief / Intake Officer / Central Archive
-**Review Status:** Active emergency intake record; live storage maps, transfer clocks, and intake manifests
-censored
-**Next Review:** After any intake overrun, F-1 closure, transfer delay, surface exposure event, personnel
-stabilization failure, or parent-relay handoff dispute
+**Created:** 2026-09-15 **Author Desk:** Watch Chief / Intake Officer / Central Archive **Review Status:**
+Active
+emergency intake record; live storage maps, transfer clocks, and intake manifests censored **Next Review:**
+After any
+intake overrun, F-1 closure, transfer delay, surface exposure event, personnel stabilization failure, or parent-relay
+handoff dispute

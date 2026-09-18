@@ -194,14 +194,14 @@ OPEN QUESTIONS
 
 - Can an analyst be trusted to forget a correlation that SDIRES later refuses
 to authorize?
-- How many non-restricted findings may combine into a restricted picture?
-- Should refusal records be visible to command when the reason for refusal is
+— How many non-restricted findings may combine into a restricted picture?
+— Should refusal records be visible to command when the reason for refusal is
 itself restricted?
-- Can Sonar Void research remain separate from deep-earth interpretation if the same absence
+— Can Sonar Void research remain separate from deep-earth interpretation if the same absence
 pattern appears in both
 datasets?
-- When does a useful seismic warning justify release before review-chain completion?
-- Does the act of naming a pattern make it easier for the pattern
+— When does a useful seismic warning justify release before review-chain completion?
+— Does the act of naming a pattern make it easier for the pattern
 to recur in later data?
 
 FILE METADATA

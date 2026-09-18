@@ -63,16 +63,15 @@ A.C.T most needs to defeat is silence.
 
 Two response behaviours are confirmed:
 
-  **Vocal relay.** The unit produces an adult-audible distress sound when the child holding
-  it
-  cannot call out. Witness
-  accounts describe the sound as a child's voice rather than a mechanical tone, and
-  describe it carrying further than a
-  normal cry from the same room.
-  **Bite response.** At least one unit bit an adult hand. The warranty fragment
-  treats
-  this as a product failure rather
-  than as intended behaviour, which indicates the manufacturer considers the bite a misfire.
+**Vocal relay.** The unit produces an adult-audible distress sound when the child holding it
+cannot call out. Witness
+accounts describe the sound as a child's voice rather than a mechanical tone, and
+describe it carrying further than a
+normal cry from the same room. **Bite response.** At least one unit bit an
+adult hand. The warranty fragment treats
+this as a product failure rather than as intended behaviour, which indicates the manufacturer
+considers the bite a
+misfire.
 
 The dossier assigns the trigger set for Lullaby Works products generally as fear spike,
 intruder presence, nightmare
@@ -126,24 +125,20 @@ Known external features:
   stitched;
   a **battery plate** in some variants, behind which a tag may be hidden
   instead;
-- no visible speaker grille, no switch, no charging contact, and no manufacturer label;
+— no visible speaker grille, no switch, no charging contact, and no manufacturer label;
   a **mouth or jaw region** capable of closing on a hand with enough
   force
   to injure an adult.
 
 Known construction findings:
 
-  material samples taken from a unit **remain warm when separated from the item
-  body**,
-  which is the strongest physical
-  evidence A.C.T holds that the plush is not inert stuffing;
-  no driver, no coil, no membrane, and no power cell have been located
-  that
-  could account for the reported vocal output;
-  the interior of the force-opened unit did not match its external volume, and
-  Engineering
-  records this as a
-  construction discrepancy rather than as concealment.
+material samples taken from a unit **remain warm when separated from the item body**,
+which is the strongest physical
+evidence A.C.T holds that the plush is not inert stuffing; no driver, no coil,
+no membrane, and no power cell have
+been located that could account for the reported vocal output; the interior of the
+force-opened unit did not match its
+external volume, and Engineering records this as a construction discrepancy rather than as concealment.
 
 The plush carries the range's stitched **half-moon** mark and the **three quiet nights** warranty
 line. Its
@@ -167,23 +162,17 @@ or test a service unit.
 
 Standing rules:
 
-  do not open a service unit at any clearance level; the force-opened unit
-  in
-  A.C.T custody lost protective value, and
-  the dossier warns that some items fail violently;
-  do not place a hand near the mouth region during handling, transport, or
-  inspection;
-  do not attempt to provoke a vocal relay by frightening a child or
-  by
-  restraining one;
-  if a unit sounds without an obvious cause, treat it as a distress
-  report
-  and check the child first, the room second,
-  and the unit last;
-  if a unit has bitten an adult, remove the adult from the room,
-  do
-  not punish the child, and do not return the unit
-  until Subject Care reviews the incident.
+do not open a service unit at any clearance level; the force-opened unit in
+A.C.T custody lost protective value, and
+the dossier warns that some items fail violently; do not place a hand near
+the mouth region during handling,
+transport, or inspection; do not attempt to provoke a vocal relay by frightening a
+child or by restraining one; if a
+unit sounds without an obvious cause, treat it as a distress report and check
+the child first, the room second, and
+the unit last; if a unit has bitten an adult, remove the adult from
+the room, do not punish the child, and do not
+return the unit until Subject Care reviews the incident.
 
 The recovered warranty fragment gives the manufacturer's own procedure and A.C.T follows it: wrap
 the injured
@@ -294,20 +283,20 @@ anything except an empty shell that no longer works.
   What produces the vocal relay, given that no driver, coil, membrane, or cell
   has
   been located?
-- Whose voice is used, and is it the child's own?
+— Whose voice is used, and is it the child's own?
   What distinguishes a legitimate relay from the bite misfire, and does the unit
   track
   who is holding it?
-- Why do separated material samples remain warm, and for how long?
+— Why do separated material samples remain warm, and for how long?
   What is inside the unit, given that the interior does not match the
   external
   volume?
-- Does a plush line lot label exist equivalent to SLEEP-SAFE-7?
-- Can a unit be reactivated after force-opening, or is the loss permanent?
+— Does a plush line lot label exist equivalent to SLEEP-SAFE-7?
+— Can a unit be reactivated after force-opening, or is the loss permanent?
   Does the manufacturer replace bitten units freely, and what does it do with
   returned
   ones?
-- How many units are in civilian homes?
+— How many units are in civilian homes?
 
 ---
 

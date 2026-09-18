@@ -177,10 +177,10 @@ A.C.T assessment identifies these functional layers:
 - vault ushers who open or refuse rooms according to key order;
 - oath witnesses who determine whether a promise, bloodline, estate, or royal seal still
 binds;
-- estate stewards who maintain properties containing sealed rooms or custody architecture;
-- procession guards who move relics only on permitted routes;
-- ash ledger clerks who preserve burned or half-burned inventory books;
-- quiet mourners who attend transfers where a family line ends before the object
+— estate stewards who maintain properties containing sealed rooms or custody architecture;
+— procession guards who move relics only on permitted routes;
+— ash ledger clerks who preserve burned or half-burned inventory books;
+— quiet mourners who attend transfers where a family line ends before the object
 does.
 
 This structure makes the Office more than a noble rumor. It has jobs, procedures,
@@ -266,10 +266,10 @@ Confirmed or strongly assessed capabilities include:
 - preserving partial inventories in burned ledgers readable only during specific custody hearings;
 - recognizing when an heir is being claimed by an object rather than inheriting
 it;
-- moving relics along processional routes without triggering known hazards;
-- sealing museum storage drawers through charter language rather than mechanical locks;
-- delaying property sale until a dangerous room has been witnessed;
-- distinguishing ownership, stewardship, burden, and contamination in ways ordinary law cannot.
+— moving relics along processional routes without triggering known hazards;
+— sealing museum storage drawers through charter language rather than mechanical locks;
+— delaying property sale until a dangerous room has been witnessed;
+— distinguishing ownership, stewardship, burden, and contamination in ways ordinary law cannot.
 
 The Office is not assessed as Practitioner or Engineering without further evidence.
 
@@ -510,11 +510,11 @@ Confirmed Operational Facts
 
 - The Crown Office of Ash Keys is an outside old-state government office and
 not an A.C.T division.
-- The Office maintains custody claims over anomalous relics, rooms, keys, estates, and old
+— The Office maintains custody claims over anomalous relics, rooms, keys, estates, and old
 obligations.
-- Its officers use consistent ash-key, burned-lock, witness, and charter procedures across separate cases.
-- Some Office interventions have prevented breach or harmful inheritance transfer.
-- The Office can also delay A.C.T action and block immediate seizure under old-law
+— Its officers use consistent ash-key, burned-lock, witness, and charter procedures across separate cases.
+— Some Office interventions have prevented breach or harmful inheritance transfer.
+— The Office can also delay A.C.T action and block immediate seizure under old-law
 claims.
 
 Active Intelligence Assessment
@@ -540,16 +540,16 @@ Persistent Questions
 - Does the Lord Clerk of Ash Keys exist as one person, a rotating
 office, or a legal condition activated by custody
 disputes?
-- How many crown vaults remain active, and how many are already empty because
+— How many crown vaults remain active, and how many are already empty because
 the contents inherited new holders?
-- What is the source of ash keys that remain cold after exposure to
+— What is the source of ash keys that remain cold after exposure to
 fire?
-- Can an A.C.T Site legally accept a burden without accepting the attached apology
+— Can an A.C.T Site legally accept a burden without accepting the attached apology
 or restitution condition?
-- Are living heirs protected by the Office, trapped by it, or both?
-- How many public museums hold objects tagged by the Office under names ordinary
+— Are living heirs protected by the Office, trapped by it, or both?
+— How many public museums hold objects tagged by the Office under names ordinary
 curators do not understand?
-- Did any founder-era containment records rely on Crown Office ledgers before being absorbed
+— Did any founder-era containment records rely on Crown Office ledgers before being absorbed
 into A.C.T archives?
 
 Intelligence Confidence

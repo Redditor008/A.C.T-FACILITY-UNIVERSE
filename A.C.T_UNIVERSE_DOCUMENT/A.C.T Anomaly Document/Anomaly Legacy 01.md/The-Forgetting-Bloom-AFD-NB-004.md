@@ -1,10 +1,8 @@
 # A.C.T FACILITY — ANOMALY FILE
 ## The-Forgetting-Bloom-AFD-NB-004
 
-═══════════════════════════════════════════════════════════════════════
-                    A.C.T FACILITY — ANOMALY FILE
-                     Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════ A.C.T FACILITY — ANOMALY FILE Anomaly
+Containment Transformation ═══════════════════════════════════════════════════════════════════════
 
 DESIGNATION:         AFD-NB-004
                      Verified archive designation
@@ -15,8 +13,7 @@ FIELD TYPE:          NB — Non-Natural Bio Hazard
 
 CLEARANCE REQUIRED:  Level 3
 
-═══════════════════════════════════════════════════════════════════════
-                         CLASSIFICATION
+═══════════════════════════════════════════════════════════════════════ CLASSIFICATION
 ═══════════════════════════════════════════════════════════════════════
 
 CONTAINMENT CLASS:   RESIDUAL
@@ -32,8 +29,7 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           INTEGRATED
 
-═══════════════════════════════════════════════════════════════════════
-                          DISCOVERY
+═══════════════════════════════════════════════════════════════════════ DISCOVERY
 ═══════════════════════════════════════════════════════════════════════
 
 DATE OF DETECTION:   [ RESTRICTED ]
@@ -51,27 +47,27 @@ CIVILIAN EXPOSURE:   Moderate
 AMNESTIC DEPLOYED:   No — pre-refinement stage
 NARRATIVE STATUS:    Controlled
 
+═══════════════════════════════════════════════════════════════════════ DESCRIPTION
 ═══════════════════════════════════════════════════════════════════════
-                         DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
 
-AFD-NB-004 is a 3 meter tall giant pale white-blue flowering plant with
-translucent petals and vein-like golden structures running through the stem,
-leaves, and inner petal roots. During blooming cycles, the organism emits a
-faint cold golden mist. It continuously secretes a glowing translucent golden
-sap from fissures along its internal golden vein lattice.
+AFD-NB-004 is a 3 meter tall giant pale white-blue flowering plant with translucent petals
+and vein-like golden
+structures running through the stem, leaves, and inner petal roots. During blooming cycles, the
+organism emits a faint
+cold golden mist. It continuously secretes a glowing translucent golden sap from fissures along
+its internal golden
+vein lattice.
 
-The anomaly does not conform to ordinary botanical behavior. It shows no
-fully reliable dependence on conventional growth patterns and appears to
-respond to nearby thought, agitation, and active memory recall.
+The anomaly does not conform to ordinary botanical behavior. It shows no fully reliable
+dependence on conventional
+growth patterns and appears to respond to nearby thought, agitation, and active memory recall.
 
-Its golden sap possesses severe anomalous memory-erasing properties. In raw
-form or concentrated derivative form, the sap can erase short-term recall,
-long-term autobiographical memory, emotional association, and identity-linked
+Its golden sap possesses severe anomalous memory-erasing properties. In raw form or concentrated derivative
+form, the
+sap can erase short-term recall, long-term autobiographical memory, emotional association, and identity-linked
 continuity depending on concentration, dose, and administration quality.
 
-═══════════════════════════════════════════════════════════════════════
-                     ANOMALOUS PROPERTIES
+═══════════════════════════════════════════════════════════════════════ ANOMALOUS PROPERTIES
 ═══════════════════════════════════════════════════════════════════════
 
 PRIMARY EFFECT:      Direct memory erasure through anomaly-derived sap
@@ -93,15 +89,14 @@ TEMPORAL BEHAVIOR:   Constant / bloom-enhanced
 REALITY INTERACTION: Minor biological-law violation / direct cognitive
                      continuity disruption
 
-═══════════════════════════════════════════════════════════════════════
-                     CONTAINMENT PROCEDURES
+═══════════════════════════════════════════════════════════════════════ CONTAINMENT PROCEDURES
 ═══════════════════════════════════════════════════════════════════════
 
-AFD-NB-004 is to be cultivated only under sealed biological containment
-conditions in approved North Wing botanical chambers. Bloom cycles are to be
-monitored remotely whenever possible. Sap extraction must occur inside
-negative-pressure harvest chambers with full protective equipment and
-post-handling cognitive assessment.
+AFD-NB-004 is to be cultivated only under sealed biological containment conditions in approved North
+Wing botanical
+chambers. Bloom cycles are to be monitored remotely whenever possible. Sap extraction must occur
+inside
+negative-pressure harvest chambers with full protective equipment and post-handling cognitive assessment.
 
 Direct exposure is restricted to:
 - Medical Care Division personnel
@@ -109,10 +104,9 @@ Direct exposure is restricted to:
 - Transformation Division personnel
 - designated archive pharmacology staff
 
-No solo work shift is authorized during active bloom.
-No exposed-skin handling is permitted.
-No raw sap transfer is permitted without sealed containment vials.
-No unsanctioned derivative testing is allowed outside approved facilities.
+No solo work shift is authorized during active bloom. No exposed-skin handling is permitted.
+No raw sap transfer is
+permitted without sealed containment vials. No unsanctioned derivative testing is allowed outside approved facilities.
 
 CONTAINMENT SITE:        Primary Facility / North Wings / Bio-Containment Cultivation Chamber
 SITE TYPE:               Primary Facility / Integrated Cultivation Chamber
@@ -126,33 +120,28 @@ MAINTENANCE CYCLE:       Daily environmental review
 
 BREACH PROTOCOL:         NB-004 Memory Exposure Containment Response
 
-BREACH CONDITIONS —
-THIS ANOMALY IS CONSIDERED
-IN BREACH IF IT:
-   [ ] Breaks formal containment
-   [x] Endangers public normalcy
-   [x] Spreads memetic, informational, or biological contamination
-   [x] Resists classification and escalates beyond predicted behavior
-   [ ] Transforms its environment into an anomalous zone
-   [x] Other: Unauthorized sap release, unsanctioned derivative use,
-              bloom-cycle mist spread outside approved containment
+BREACH CONDITIONS — THIS ANOMALY IS CONSIDERED IN BREACH IF IT: [ ] Breaks
+formal containment [x] Endangers public
+normalcy [x] Spreads memetic, informational, or biological contamination [x] Resists classification and escalates
+beyond predicted behavior [ ] Transforms its environment into an anomalous zone [x] Other:
+Unauthorized sap release,
+unsanctioned derivative use, bloom-cycle mist spread outside approved containment
 
-═══════════════════════════════════════════════════════════════════════
-                     RESEARCH LOG — SUMMARY
+═══════════════════════════════════════════════════════════════════════ RESEARCH LOG — SUMMARY
 ═══════════════════════════════════════════════════════════════════════
 
 LEAD RESEARCHER:         [ RESTRICTED ]
 CURRENT RESEARCH PHASE:  Integrated utility / controlled derivative review
 
-SUMMARY OF FINDINGS:
-AFD-NB-004 is the primary source anomaly used in the production of A.C.T
-amnestic compounds. Raw sap is dangerously unstable and biologically harmful,
-but refinement and dilution procedures have produced multiple graded memory-
-wipe compounds. The anomaly remains one of the most strategically important
-integrated biological assets under Facility control.
+SUMMARY OF FINDINGS: AFD-NB-004 is the primary source anomaly used in the production of
+A.C.T amnestic compounds. Raw
+sap is dangerously unstable and biologically harmful, but refinement and dilution procedures have produced
+multiple
+graded memory- wipe compounds. The anomaly remains one of the most strategically important integrated
+biological
+assets under Facility control.
 
-═══════════════════════════════════════════════════════════════════════
-                     TRANSFORMATION STATUS
+═══════════════════════════════════════════════════════════════════════ TRANSFORMATION STATUS
 ═══════════════════════════════════════════════════════════════════════
 
 CURRENT VIABILITY:       INTEGRATED
@@ -161,13 +150,10 @@ TRANSFORMATION ATTEMPT
 HISTORY:                 Multiple successful refinement stages
                          Result of most recent attempt: Stable derivative use
 
-TRANSFORMATION NOTES:
-AFD-NB-004 is among the earliest biological anomalies fully integrated into
-Facility operational infrastructure. Its derivative compounds form the basis
-of modern A.C.T amnestic medicine.
+TRANSFORMATION NOTES: AFD-NB-004 is among the earliest biological anomalies fully integrated into Facility operational
+infrastructure. Its derivative compounds form the basis of modern A.C.T amnestic medicine.
 
-═══════════════════════════════════════════════════════════════════════
-                     INCIDENT LOG — SUMMARY
+═══════════════════════════════════════════════════════════════════════ INCIDENT LOG — SUMMARY
 ═══════════════════════════════════════════════════════════════════════
 
 TOTAL INCIDENTS:         [ RESTRICTED ]
@@ -178,10 +164,9 @@ NOTABLE INCIDENTS:
 - early exposure subjects lost complete recent autobiographical continuity
 - multiple unsafe refinement attempts caused catastrophic biological side
   effects
-- one archive spill event required immediate witness suppression
+— one archive spill event required immediate witness suppression
 
-═══════════════════════════════════════════════════════════════════════
-                     PERSONNEL RECORD
+═══════════════════════════════════════════════════════════════════════ PERSONNEL RECORD
 ═══════════════════════════════════════════════════════════════════════
 
 ASSIGNED PERSONNEL:      [ RESTRICTED ]
@@ -190,8 +175,7 @@ CASUALTIES:              [ RESTRICTED ]
 AMNESTIC-ADMINISTERED:   [ RESTRICTED ]
 E-CLASS ASSIGNED:        Yes — controlled dosage testing history
 
-═══════════════════════════════════════════════════════════════════════
-                     REALITY THEORY NOTES
+═══════════════════════════════════════════════════════════════════════ REALITY THEORY NOTES
 ═══════════════════════════════════════════════════════════════════════
 
 STRUCTURAL REALITY
@@ -208,20 +192,18 @@ OBSERVED:                Yes — memory appears to be altered as if it were
                          removable biological material rather than only
                          neurological pattern.
 
-THEORY NOTES:
-Some researchers suspect AFD-NB-004 does not merely destroy memory, but
-interacts with memory as a harvestable structure. This remains under
-restricted theoretical review.
+THEORY NOTES: Some researchers suspect AFD-NB-004 does not merely destroy memory, but interacts with
+memory as a
+harvestable structure. This remains under restricted theoretical review.
 
-═══════════════════════════════════════════════════════════════════════
-                     ADDITIONAL NOTES
+═══════════════════════════════════════════════════════════════════════ ADDITIONAL NOTES
 ═══════════════════════════════════════════════════════════════════════
 
-AFD-NB-004 is one of the pillars of Facility secrecy doctrine.
-Without it, mass witness sanitation would be significantly less reliable.
+AFD-NB-004 is one of the pillars of Facility secrecy doctrine. Without it, mass witness
+sanitation would be
+significantly less reliable.
 
-═══════════════════════════════════════════════════════════════════════
-                      FILE METADATA
+═══════════════════════════════════════════════════════════════════════ FILE METADATA
 ═══════════════════════════════════════════════════════════════════════
 
 FILE CREATED:            [ RESTRICTED ]
@@ -232,7 +214,5 @@ FILE STATUS:             Active / Integrated Asset
 
 DESIGNATION HISTORY:     AFD-NB-004
 
-═══════════════════════════════════════════════════════════════════════
-      UNAUTHORIZED ACCESS WILL BE MET WITH IMMEDIATE AMNESTIC
-                          ADMINISTRATION
-═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════ UNAUTHORIZED ACCESS WILL BE MET WITH IMMEDIATE
+AMNESTIC ADMINISTRATION ═══════════════════════════════════════════════════════════════════════

@@ -2,9 +2,9 @@
 ## A Lobotomy Corporation × A.C.T. Facility Crossover
 ### Days 3–6: The Third Option
 
-> **Loop Count:** 10,127  
-> **Facility:** Lobotomy Corporation X-394, District 12  
-> **Motto:** *FACE THE FEAR, BUILD THE FUTURE.*  
+> **Loop Count:** 10,127
+> **Facility:** Lobotomy Corporation X-394, District 12
+> **Motto:** *FACE THE FEAR, BUILD THE FUTURE.*
   **A.C.T. Motto:** *To A.C.T is to maintain the normalcy and the stability of
   Earth
   and its populace.*
@@ -90,11 +90,11 @@ the safe distance is.
 
 X reads the report on his screen.
 
-> **Subject Number:** ACT-X-00  
-> **Risk Level:** ZAYIN  
-> **Attack Type:** —  
-> **E-Boxes:** 10  
-> **Qliphoth Counter:** X  
+> **Subject Number:** ACT-X-00
+> **Risk Level:** ZAYIN
+> **Attack Type:** —
+> **E-Boxes:** 10
+> **Qliphoth Counter:** X
   **Memento:** *"Sometime it's best to left thing alone. Lets it sleep in its
   own
   slumber."*
@@ -134,8 +134,8 @@ a material that is not quite
 paper — something stiffer, more resilient, with a faint chemical smell. The topmost document
 reads:
 
-> **A.C.T FACILITY ARCHIVE FILE**  
-> **Facility Overview**  
+> **A.C.T FACILITY ARCHIVE FILE**
+> **Facility Overview**
 > **A.C.T stands for Anomaly Containment Transformation.**
 
 X reads it twice. The document describes an organization that is, impossibly, a mirror
@@ -147,9 +147,8 @@ rather than **Abnormalities**, but the function is identical.
 
 The last line of the overview is the motto:
 
-  *To A.C.T is to maintain the normalcy and the stability of Earth and
-  its
-  populace.*
+*To A.C.T is to maintain the normalcy and the stability of Earth and its
+populace.*
 
 "Earth," X murmurs. "What is Earth?"
 
@@ -194,9 +193,8 @@ own slumber.
 High above the Nest, in a place that is not a place, an observer
 records a single line:
 
-  **District 12, X-394. Unregistered Singularity fluctuation detected. Origin: unknown. Pattern:
-  document-manifestation.
-  Classification: pending.**
+**District 12, X-394. Unregistered Singularity fluctuation detected. Origin: unknown. Pattern: document-manifestation.
+Classification: pending.**
 
 The observer does not act. The Head does not act until a taboo is
 clearly broken. But the observer notes that the
@@ -235,12 +233,12 @@ anomaly into a form the facility can digest. The result is a Lobotomy Corporatio
 Abnormality that did not exist
 yesterday and should not exist now.
 
-> **Subject Number:** O-09-201  
-> **Name:** *The Locked Draft*  
-> **Original Designation:** AFD-OB-001 — I AM A Test  
-> **Risk Level:** TETH  
-> **Attack Type:** WHITE (2–3)  
-> **E-Boxes:** 12  
+> **Subject Number:** O-09-201
+> **Name:** *The Locked Draft*
+> **Original Designation:** AFD-OB-001 — I AM A Test
+> **Risk Level:** TETH
+> **Attack Type:** WHITE (2–3)
+> **E-Boxes:** 12
 > **Qliphoth Counter:** 2
 
 The Well has transformed a harmless archival test object into something with teeth. The
@@ -260,9 +258,8 @@ Somewhere called Earth.
 
 She sends a message to X's terminal before he wakes:
 
-  **The third option has returned. It is not the same object. It has
-  been
-  translated.**
+**The third option has returned. It is not the same object. It has been
+translated.**
 
 She does not tell him what translated means. She does not tell him that
 the Well, in its hunger, has started reading a
@@ -289,9 +286,8 @@ words:
 
 Below them, in smaller script, the page adds:
 
-  **This is a controlled example of what an official document looks like. Do
-  not
-  edit after completion.**
+**This is a controlled example of what an official document looks like. Do not
+edit after completion.**
 
 X sends an employee to perform **Insight** work. The employee — a clerk named
 Juno — begins writing notes on a
@@ -350,10 +346,9 @@ unable to revise the errors that made you.
 
 He sends a single line to Angela's private channel:
 
-  *"They have a document that cannot be edited. We have a life that
-  cannot
-  be edited. I wonder which of us it will
-  remind of the other first."*
+*"They have a document that cannot be edited. We have a life that cannot
+be edited. I wonder which of us it will
+remind of the other first."*
 
 Angela does not reply.
 
@@ -368,12 +363,12 @@ The third option on Day 5 is a person.
 Not a human. The Well has never made a true human. But it has
 made something close enough to ache.
 
-> **Subject Number:** F-05-201  
-> **Name:** *The Workshop Daughter*  
-> **Original Designation:** AFD-SU-005 — Is Anyone There.... OH...!! Hi...!!  
-> **Risk Level:** HE  
-> **Attack Type:** RED (3–5)  
-> **E-Boxes:** 16  
+> **Subject Number:** F-05-201
+> **Name:** *The Workshop Daughter*
+> **Original Designation:** AFD-SU-005 — Is Anyone There.... OH...!! Hi...!!
+> **Risk Level:** HE
+> **Attack Type:** RED (3–5)
+> **E-Boxes:** 16
 > **Qliphoth Counter:** 3
 
 The image on the selection screen shows a girl sitting in a workshop corner.
@@ -517,12 +512,12 @@ She sits with Sera until the coffee goes cold.
 
 The third option on Day 6 is the most dangerous yet.
 
-> **Subject Number:** T-01-201  
-> **Name:** *The Unfinished Measure*  
-> **Original Designation:** AFD-IH-007 — Bloody Note  
-> **Risk Level:** WAW  
-> **Attack Type:** WHITE (4–6)  
-> **E-Boxes:** 22  
+> **Subject Number:** T-01-201
+> **Name:** *The Unfinished Measure*
+> **Original Designation:** AFD-IH-007 — Bloody Note
+> **Risk Level:** WAW
+> **Attack Type:** WHITE (4–6)
+> **E-Boxes:** 22
 > **Qliphoth Counter:** 1
 
 The original was an infohazard: a musical score written in blood that compelled the
@@ -605,10 +600,9 @@ been that long.
 
 X reads the A.C.T. file entry again:
 
-  *The parchment is dangerous not because it contains a song, but because it
-  makes
-  the viewer believe the song needs
-  them more than they need to live.*
+*The parchment is dangerous not because it contains a song, but because it makes
+the viewer believe the song needs
+them more than they need to live.*
 
 He closes the file. He does not sleep that night.
 
@@ -678,9 +672,8 @@ The observer closes the file. In another part of the City, in a place
 that is not a place, a single question is added
 to a longer list:
 
-  *Is the Well reading a new book, or is a new book reading
-  the
-  Well?*
+*Is the Well reading a new book, or is a new book reading the
+Well?*
 
 No one answers. The Head does not answer questions. It only acts when the
 answer becomes unavoidable.

@@ -136,9 +136,9 @@ A.C.T assessment identifies these functional layers:
 - vault ushers who open or refuse rooms according to key order;
   oath witnesses who determine whether a promise, bloodline, estate, or royal seal still
   binds;
-- estate stewards who maintain properties containing sealed rooms or custody architecture;
-- procession guards who move relics only on permitted routes;
-- ash ledger clerks who preserve burned or half-burned inventory books;
+— estate stewards who maintain properties containing sealed rooms or custody architecture;
+— procession guards who move relics only on permitted routes;
+— ash ledger clerks who preserve burned or half-burned inventory books;
   quiet mourners who attend transfers where a family line ends before the object
   does.
 
@@ -226,10 +226,10 @@ Confirmed or strongly assessed capabilities include:
 - preserving partial inventories in burned ledgers readable only during specific custody hearings;
   recognizing when an heir is being claimed by an object rather than inheriting
   it;
-- moving relics along processional routes without triggering known hazards;
-- sealing museum storage drawers through charter language rather than mechanical locks;
-- delaying property sale until a dangerous room has been witnessed;
-- distinguishing ownership, stewardship, burden, and contamination in ways ordinary law cannot.
+— moving relics along processional routes without triggering known hazards;
+— sealing museum storage drawers through charter language rather than mechanical locks;
+— delaying property sale until a dangerous room has been witnessed;
+— distinguishing ownership, stewardship, burden, and contamination in ways ordinary law cannot.
 
 The Office is not assessed as Practitioner or Engineering without further evidence.
 
@@ -465,8 +465,8 @@ smears.
   an A.C.T division.
   The Office maintains custody claims over anomalous relics, rooms, keys, estates, and old
   obligations.
-- Its officers use consistent ash-key, burned-lock, witness, and charter procedures across separate cases.
-- Some Office interventions have prevented breach or harmful inheritance transfer.
+— Its officers use consistent ash-key, burned-lock, witness, and charter procedures across separate cases.
+— Some Office interventions have prevented breach or harmful inheritance transfer.
   The Office can also delay A.C.T action and block immediate seizure under old-law
   claims.
 
@@ -500,7 +500,7 @@ before A.C.T existed.
   Can an A.C.T Site legally accept a burden without accepting the attached apology
   or
   restitution condition?
-- Are living heirs protected by the Office, trapped by it, or both?
+— Are living heirs protected by the Office, trapped by it, or both?
   How many public museums hold objects tagged by the Office under names ordinary
   curators
   do not understand?

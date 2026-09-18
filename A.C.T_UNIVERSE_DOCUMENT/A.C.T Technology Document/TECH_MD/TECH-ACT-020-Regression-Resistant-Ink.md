@@ -213,8 +213,8 @@ Standing reminder: RRI is not truth. It is stubbornness given liquid form.
 - ACT Technological Master Index 50, Item 28;
 - ACT Technological Visual Reference Guide, Item 28;
 - AFD-?.H-404 The Refracted One containment file;
-- TECH-ACT-003 - Quantum Narrative Buffer System;
-- TECH-ACT-011 - Narrative Seal Varnish;
+- TECH-ACT-003 — Quantum Narrative Buffer System;
+- TECH-ACT-011 — Narrative Seal Varnish;
 - O5-level log preservation ledger [restricted].
 
 ---
@@ -227,14 +227,13 @@ Standing reminder: RRI is not truth. It is stubbornness given liquid form.
 - Should all Refracted One addenda be written in RRI, or only state-change logs?
   Does repeated RRI use make a file harder for authorized archive correction to
   update?
-- Can violet smear be safely read, or is it a partial regression artifact?
+— Can violet smear be safely read, or is it a partial regression artifact?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Archive Division / Materials Custody Desk / O5 Liaison / Central Archive  
-**Review Status:** Active restricted record; particle source and formula censored  
-**Next Review:** After any forged-batch recovery, violet smear event, Refracted One state shift, or
-O5 log discrepancy
+**Created:** 2026-09-15 **Author Desk:** Archive Division / Materials Custody Desk / O5 Liaison /
+Central Archive
+**Review Status:** Active restricted record; particle source and formula censored **Next Review:** After any
+forged-batch recovery, violet smear event, Refracted One state shift, or O5 log discrepancy

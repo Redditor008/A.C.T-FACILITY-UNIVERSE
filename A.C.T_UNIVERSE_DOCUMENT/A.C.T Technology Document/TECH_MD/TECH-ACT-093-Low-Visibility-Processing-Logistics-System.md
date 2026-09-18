@@ -180,9 +180,9 @@ around it also holds.
 - ACT-SUB-01-US-W Glass Orchard Relay Sub-Site Dossier;
 - ACT-SUB-01-US-W-F-3 Surface Cover Level Floor Dossier;
 - ACT-SUB-01-US-W-F-2 Processing and Staging Level Floor Dossier;
-- TECH-ACT-091 - Intake Staging and Routing System;
-- TECH-ACT-092 - Agricultural Biotech Cover Campus;
-- TECH-ACT-055 - Silent Boundary System;
+- TECH-ACT-091 — Intake Staging and Routing System;
+- TECH-ACT-092 — Agricultural Biotech Cover Campus;
+- TECH-ACT-055 — Silent Boundary System;
 - Glass Orchard logistics exception ledger [restricted].
 
 ---
@@ -194,16 +194,15 @@ around it also holds.
 - Can staff arrival patterns reveal the tempo of witness processing below?
   When should a movement be delayed rather than forced into a weak cover
   reason?
-- How much emergency sealing can the campus explain before outsiders remember it?
-- Should archive transfers use agricultural shipping rhythms or separate service routes?
+— How much emergency sealing can the campus explain before outsiders remember it?
+— Should archive transfers use agricultural shipping rhythms or separate service routes?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Campus Manager / Security Boundary Lead / Central Archive
-**Review Status:** Active low-visibility logistics record; live route maps, vehicle timings, cargo covers, and
-transition schedules censored
-**Next Review:** After any delivery mismatch, transition challenge, visitor observation, cargo contradiction, repeated
-vehicle pattern, or surface sealing event
+**Created:** 2026-09-16 **Author Desk:** Campus Manager / Security Boundary Lead / Central Archive **Review
+Status:**
+Active low-visibility logistics record; live route maps, vehicle timings, cargo covers, and transition schedules
+censored **Next Review:** After any delivery mismatch, transition challenge, visitor observation, cargo contradiction,
+repeated vehicle pattern, or surface sealing event

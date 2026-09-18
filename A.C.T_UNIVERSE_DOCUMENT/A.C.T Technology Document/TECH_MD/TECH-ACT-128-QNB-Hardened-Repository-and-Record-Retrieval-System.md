@@ -180,9 +180,9 @@ from the world that wants the page to have always said something else.
 - ACT-SITE-01-US-W-F-7 Central Archive and Records Floor Dossier;
 - ACT-SITE-01-US-W-F-6 Medical and Cognitive Care Floor Dossier;
 - ACT-SITE-01-US-W-F-8 Administration and Personnel Floor Dossier;
-- TECH-ACT-003 - Quantum Narrative Buffer System;
-- TECH-ACT-059 - Document Quarantine Cells;
-- TECH-ACT-062 - QNB-Hardened Archive Structure;
+- TECH-ACT-003 — Quantum Narrative Buffer System;
+- TECH-ACT-059 — Document Quarantine Cells;
+- TECH-ACT-062 — QNB-Hardened Archive Structure;
 - Redwood Veil accession and retrieval ledgers [archive-clearance-gated].
 
 ---
@@ -196,8 +196,8 @@ from the world that wants the page to have always said something else.
   again?
   How much access-history detail may be visible before the log becomes a restricted
   record?
-- Should every denied retrieval be reviewed for curiosity risk?
-- Can QNB-hardening preserve institutional memory too well when command needs forgetting?
+— Should every denied retrieval be reviewed for curiosity risk?
+— Can QNB-hardening preserve institutional memory too well when command needs forgetting?
   If a record changes and no one can prove when, is the archive
   damaged
   or corrected?
@@ -206,9 +206,7 @@ from the world that wants the page to have always said something else.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Floor Archivist / Archive Division / Central Archive
-**Review Status:** Active QNB-hardened repository technology record; live repository maps, restricted vault contents,
-quarantine identities, and integrity alarms censored
-**Next Review:** After any record rewrite event, quarantine misroute, retrieval violation, baseline contamination,
-restricted-vault access dispute, or QNB-hardening fault
+**Created:** 2026-09-16 **Author Desk:** Floor Archivist / Archive Division / Central Archive **Review Status:**
+Active QNB-hardened repository technology record; live repository maps, restricted vault contents, quarantine
+identities, and integrity alarms censored **Next Review:** After any record rewrite event, quarantine misroute,
+retrieval violation, baseline contamination, restricted-vault access dispute, or QNB-hardening fault

@@ -188,9 +188,9 @@ facility survive its daily work.
 - ACT-SITE-01-US-W-F-3 Standard Object Chambers Floor Dossier;
 - ACT-SITE-01-US-W-F-2 Deep Object and Memetic-Component Vaults Floor Dossier;
 - ACT-SITE-01-US-W-F-4 Transformation Staging Floor Dossier;
-- TECH-ACT-052 - High-Density Lead Vaulting;
-- TECH-ACT-054 - Reinforced Iron Caging;
-- TECH-ACT-125 - Ascending Authorization Transformation Staging Lock System;
+- TECH-ACT-052 — High-Density Lead Vaulting;
+- TECH-ACT-054 — Reinforced Iron Caging;
+- TECH-ACT-125 — Ascending Authorization Transformation Staging Lock System;
 - Redwood Veil Annex Register [clearance-gated].
 
 ---
@@ -209,10 +209,7 @@ facility survive its daily work.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Floor Holding Chief / Containment Division / Central Archive
-**Review Status:** Active standard object chamber technology record; live Box maps, resident identities, and
-transfer
-thresholds censored
-**Next Review:** After any chamber misassignment, monitoring interruption, standard-hold breach, F-2 transfer delay,
-F-4 routing dispute, or documentation continuity failure
+**Created:** 2026-09-16 **Author Desk:** Floor Holding Chief / Containment Division / Central Archive **Review
+Status:** Active standard object chamber technology record; live Box maps, resident identities, and transfer
+thresholds censored **Next Review:** After any chamber misassignment, monitoring interruption, standard-hold breach,
+F-2 transfer delay, F-4 routing dispute, or documentation continuity failure

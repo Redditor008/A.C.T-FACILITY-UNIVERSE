@@ -189,9 +189,9 @@ Standing reminder: F-1 closes so the rest of the site remains a site.
 - ACT-SITE-01-US-W Redwood Veil Complex Site Dossier;
 - ACT-SITE-01-US-W-F-1 The Hanging Vault Floor Dossier;
 - ACT-SITE-01-US-W-F-2 Deep Object and Memetic-Component Vaults Floor Dossier;
-- TECH-ACT-001 - Reality Stabilization Anchor System;
-- TECH-ACT-034 - Abyssal Anchor Plating;
-- TECH-ACT-049 - Abyssal Basalt;
+- TECH-ACT-001 — Reality Stabilization Anchor System;
+- TECH-ACT-034 — Abyssal Anchor Plating;
+- TECH-ACT-049 — Abyssal Basalt;
 - Redwood Veil closure drill ledgers [restricted].
 
 ---
@@ -209,9 +209,7 @@ Standing reminder: F-1 closes so the rest of the site remains a site.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Deep-Hold Command / Engineering / Central Archive  
-**Review Status:** Active deep containment infrastructure record; closure maps and trigger thresholds censored  
-**Next Review:** After any live closure, drill hesitation, service-isolation fault, reentry delay, or Hanging
-Vault
-retrofit
+**Created:** 2026-09-15 **Author Desk:** Deep-Hold Command / Engineering / Central Archive **Review Status:** Active
+deep containment infrastructure record; closure maps and trigger thresholds censored **Next Review:** After any
+live
+closure, drill hesitation, service-isolation fault, reentry delay, or Hanging Vault retrofit

@@ -139,13 +139,13 @@ A.C.T identifies several recurring layers:
   spatial stress;
   stone crews who place cairn markers, anchor blocks, wall bones, and sealed corner
   weights;
-- shelter wardens who manage inhabited protected spaces and refuse unsafe entry;
+— shelter wardens who manage inhabited protected spaces and refuse unsafe entry;
   municipal contract handlers who acquire legal access to roads, schools, tunnels, hospitals, and
   housing
   blocks;
   emergency-key offices that issue keys, knock patterns, or route phrases for one incident
   only;
-- blueprint keepers who maintain paper plans that disagree with public records;
+— blueprint keepers who maintain paper plans that disagree with public records;
   old-work depots that store salvaged doors, hinges, lintels, stair railings, and bricks from
   prior
   anomaly sites;
@@ -235,7 +235,7 @@ with predictable abnormal properties. Confirmed or strongly assessed capabilitie
 - wall sections that muffle predatory sound phenomena;
   school safe rooms that disappear from hostile pursuit but remain accessible to listed
   children;
-- tunnel markers that prevent rescue crews from returning to the entrance without evacuees.
+— tunnel markers that prevent rescue crews from returning to the entrance without evacuees.
 
 The group is not assessed as full Structural capability. It does not appear to
 rewrite reality at regional scale. Its
@@ -480,8 +480,8 @@ this view as general policy but allows case-by-case Subject Care review.
   route
   stability
   during abnormal incidents.
-- Its marks, contracts, and route instructions appear across separate jurisdictions.
-- The group possesses engineering knowledge sufficient to build localized anomalous structural protections.
+— Its marks, contracts, and route instructions appear across separate jurisdictions.
+— The group possesses engineering knowledge sufficient to build localized anomalous structural protections.
   The group withholds complete plans, leadership identity, and the locations of some occupied
   shelters.
 
@@ -507,12 +507,12 @@ belief can save lives and still obstruct A.C.T command.
   it
   respond to signs
   already present in the built environment?
-- Why do some lintels taken from demolished buildings retain route memory after relocation?
+— Why do some lintels taken from demolished buildings retain route memory after relocation?
   Has the group ever built a shelter that refused entry to A.C.T personnel
   while
   accepting civilians?
-- What does the phrase **ROOM KEPT** mean in post-incident invoices?
-- Are some municipal officials aware that Cairn & Lintel contracts involve anomalous infrastructure?
+— What does the phrase **ROOM KEPT** mean in post-incident invoices?
+— Are some municipal officials aware that Cairn & Lintel contracts involve anomalous infrastructure?
   How many occupied shelters are currently hidden from A.C.T because the group considers
   disclosure
   unsafe?

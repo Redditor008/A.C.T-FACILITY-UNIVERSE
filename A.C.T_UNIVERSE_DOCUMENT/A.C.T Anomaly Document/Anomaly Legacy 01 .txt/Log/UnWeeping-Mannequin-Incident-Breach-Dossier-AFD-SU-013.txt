@@ -201,7 +201,7 @@ RIVERS:              Wait, it covered its face.
 
 COLEMAN:             Turn off the monitor now.
 
-[Soft-lock corridor alarm.] 
+[Soft-lock corridor alarm.]
 
 TRAINEE 2:           It left the room.
 
@@ -249,7 +249,7 @@ CONFIRMED PURSUIT-STATE FEATURES:
    - subject strikes until subjective satisfaction condition is met
    - subject disengages after target falls, apologizes, or line-of-sight break
      persists long enough
-   - subject does not use tools or aim for lethal areas
+   — subject does not use tools or aim for lethal areas
 
 NON-CONFIRMED FEATURES:
    - verbal apology as reliable stop condition

@@ -29,7 +29,7 @@ TECHNOLOGY RECORD - REALITY STABILIZATION ANCHOR SYSTEM
 |                            | tables, and emergency override                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Restricted Technology Record  
+Archive Status: Active Restricted Technology Record
 Distribution: Engineering / Containment / Site Command / Recovery / Logistics / Archive /
 Command
 Authority: Engineering Division, Containment Division, Site Command, and Central Archive
@@ -105,7 +105,7 @@ RSA support appears in four major roles:
 - transport stabilization inside sealed containers, heavy aircraft, intermodal shipping units, and convoy equipment;
 - breach-response stabilization when a zone is losing geometry, sequence, observation reliability, or containment-room
 identity;
-- research and transformation support when an anomaly is being evaluated for conversion into
+— research and transformation support when an anomaly is being evaluated for conversion into
 system, tool, warning, or
 institutional doctrine.
 
@@ -458,20 +458,20 @@ OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
 - How long can a split Static-Pulse Crystal core operate after repeated RSA-WHITE events
 before replacement becomes
 mandatory?
-- Can hostile actors reproduce partial RSA effects using stolen crystal fragments or Ninefold
+— Can hostile actors reproduce partial RSA effects using stolen crystal fragments or Ninefold
 Ark low-power seal
 patterns?
-- Does prolonged RSA exposure alter staff tolerance for unanchored spaces?
-- Are some anomalies learning to mimic baseline pulse rather than overpower it?
-- Can RSA calibration hide early warning signs by making a room appear stable
+— Does prolonged RSA exposure alter staff tolerance for unanchored spaces?
+— Are some anomalies learning to mimic baseline pulse rather than overpower it?
+— Can RSA calibration hide early warning signs by making a room appear stable
 while stress accumulates inside the
 core?
-- How much RSA support is safe in spaces used by transformed or partially
+— How much RSA support is safe in spaces used by transformed or partially
 anomalous A.C.T personnel?
-- Does coupling RSA, ARM, NEMNOLIA-derived memory control, and Causal Static generation create a
+— Does coupling RSA, ARM, NEMNOLIA-derived memory control, and Causal Static generation create a
 combined failure mode
 not visible in single-system tests?
-- What is the true long-term source limit for Static-Pulse Crystal extracted from the
+— What is the true long-term source limit for Static-Pulse Crystal extracted from the
 Abyss Floor?
 
 ---

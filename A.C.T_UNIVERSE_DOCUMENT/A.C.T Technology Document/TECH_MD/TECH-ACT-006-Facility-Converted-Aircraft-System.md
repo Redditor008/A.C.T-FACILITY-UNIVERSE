@@ -86,7 +86,7 @@ FCA appears in five major roles:
   long-range recovery support when field teams must carry containment equipment into remote or
   unstable
   territory;
-- emergency evacuation of contained material from compromised facilities;
+— emergency evacuation of contained material from compromised facilities;
   covert trans-regional logistics where public aviation records, customs, or road routes would create
   exposure.
 
@@ -391,8 +391,8 @@ System.
   area?
   Can FCA safely move anomalies that define themselves by route, destination, or ownership
   chain?
-- How many remote airfield nodes are still safe after repeated use?
-- Does biological cargo adapt to FCA climate if transfer takes longer than planned?
+— How many remote airfield nodes are still safe after repeated use?
+— Does biological cargo adapt to FCA climate if transfer takes longer than planned?
   Can QNB flight recorders preserve evidence if the aircraft arrives before it departed
   according
   to public logs?

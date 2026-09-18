@@ -426,30 +426,22 @@ or legal custody review.
 
 ## OPEN QUESTIONS
 
-  Did the original gentle lock derive from ordinary clinical design, an anomalous door,
-  an
-  old hospice practice, or an
-  unrecovered Mercy Lock predecessor device?
-  Which components are essential: soft plate, hidden latch, consent marker, buffer strip, bell
-  interface,
-  or staff
-  protocol?
-  Can A.C.T build a noninfringing equivalent without stealing Mercy Lock technology or damaging
-  cooperation?
-  Do patient bells interact with gentle locks through vibration, proximity, name recognition, or
-  a
-  separate ward system?
-  How often do gentle locks fail because patient profiles are not updated after
-  memory,
-  body, or name changes?
-  Has Iron Meridian Authority copied any part of the system into punitive restraint
-  architecture?
-  Can a gentle lock be safe for high-risk hostile entities, or is the
-  system
-  limited to patients and residents with
-  non-malicious or episodic harm?
-  What long-term psychological outcome differences exist between gentle lock rooms and standard hard
-  containment?
+Did the original gentle lock derive from ordinary clinical design, an anomalous door, an
+old hospice practice, or an
+unrecovered Mercy Lock predecessor device? Which components are essential: soft plate, hidden latch, consent
+marker,
+buffer strip, bell interface, or staff protocol? Can A.C.T build a noninfringing equivalent without
+stealing Mercy
+Lock technology or damaging cooperation? Do patient bells interact with gentle locks through vibration,
+proximity,
+name recognition, or a separate ward system? How often do gentle locks fail because
+patient profiles are not updated
+after memory, body, or name changes? Has Iron Meridian Authority copied any part of
+the system into punitive restraint
+architecture? Can a gentle lock be safe for high-risk hostile entities, or is the
+system limited to patients and
+residents with non-malicious or episodic harm? What long-term psychological outcome differences exist between gentle
+lock rooms and standard hard containment?
 
 ### Intelligence Confidence
 

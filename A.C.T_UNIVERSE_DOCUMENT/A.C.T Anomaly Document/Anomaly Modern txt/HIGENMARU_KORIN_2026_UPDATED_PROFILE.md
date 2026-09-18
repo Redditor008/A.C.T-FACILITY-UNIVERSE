@@ -5,13 +5,12 @@
 | A.C.T DESIGNATION | AFD-OB-221 |
 | PRIMARY NAME | HIGENMARU-KŌRIN |
 | HIGENMARU | 緋玄丸 |
-**KŌRIN:** 紅鱗  
-**Known title:** The Dual-Edge Dichotomy / The Crimson and Onyx Blade  
-**Current year:** 2026  
-**Anomaly structure:** **One registered anomaly containing two distinct entities/presences**  
-**Current status:** Kazumi-aligned / dual presence confirmed / residing at Kazumi Temple  
-**Current relationship to Kazumi:** Both entities recognize Kazumi’s sovereign authority and will do what
-she wants
+**KŌRIN:** 紅鱗 **Known title:** The Dual-Edge Dichotomy / The Crimson and Onyx Blade **Current
+year:** 2026 **Anomaly
+structure:** **One registered anomaly containing two distinct entities/presences** **Current status:** Kazumi-aligned
+/ dual presence confirmed / residing at Kazumi Temple **Current relationship to Kazumi:** Both
+entities recognize
+Kazumi’s sovereign authority and will do what she wants
 
 ---
 
@@ -335,11 +334,11 @@ This placement is intentional:
 
   it treats the pair as a sovereign-aligned guest rather than paperwork in a
   vault;
-- Kazumi’s pressure suppresses uncontrolled predatory behavior;
-- the Temple’s acquired Will supports the state of rest;
-- Boundary Exchange discourages theft and hostile handling;
-- KŌRIN’s preference for stillness is reinforced;
-- HIGENMARU recognizes an apex governing presence and ceases searching indiscriminately for biological pulses.
+— Kazumi’s pressure suppresses uncontrolled predatory behavior;
+— the Temple’s acquired Will supports the state of rest;
+— Boundary Exchange discourages theft and hostile handling;
+— KŌRIN’s preference for stillness is reinforced;
+— HIGENMARU recognizes an apex governing presence and ceases searching indiscriminately for biological pulses.
 
 The previous Site-01 magnetic locker is now considered **legacy containment**. It became insufficient after
 HIGENMARU

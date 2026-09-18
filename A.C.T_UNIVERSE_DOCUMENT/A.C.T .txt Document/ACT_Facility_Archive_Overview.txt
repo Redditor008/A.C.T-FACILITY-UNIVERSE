@@ -1,9 +1,9 @@
 A.C.T FACILITY ARCHIVE FILE
 Facility Overview
 
-Archive Status: Active  
-Distribution: Internal  
-Authority: A.C.T Central Archive  
+Archive Status: Active
+Distribution: Internal
+Authority: A.C.T Central Archive
 
 Archive Note
 This file is the complete internal archive version of the Facility overview. It preserves

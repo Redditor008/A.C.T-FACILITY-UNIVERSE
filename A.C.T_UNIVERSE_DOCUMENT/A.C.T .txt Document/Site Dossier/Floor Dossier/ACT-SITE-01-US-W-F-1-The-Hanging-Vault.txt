@@ -217,7 +217,7 @@ The floor's plan comprises:
 - the observation and monitoring gallery, from which the vaults are watched;
 - the service ring, carrying power, environmental, and maintenance routes
   around the vault gallery without crossing it;
-- the floor's command post and secure archive alcove.
+— the floor's command post and secure archive alcove.
 
 ---
 

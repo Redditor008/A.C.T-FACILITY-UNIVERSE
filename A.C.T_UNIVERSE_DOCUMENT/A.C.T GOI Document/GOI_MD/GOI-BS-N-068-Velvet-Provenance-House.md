@@ -136,12 +136,12 @@ A.C.T identifies these functional layers:
   Receipt Factors who reconstruct custody chains and compare signatures, marks, stains, oral claims,
   and
   deaths;
-- Velvet Notaries who witness transfer language and attach liability clauses;
-- Lot Readers who examine objects for responsive history, false origin, and harmful attachment;
-- Seal Stewards who maintain wax, paper, ink, thread, and locked-case standards;
-- Return Counsel who negotiate restitution to families, museums, states, or hidden claimants;
-- Quiet Porters who move lots between viewing rooms, warehouses, and private clients;
-- Red Clerks who update buyer books and mark clients barred from future purchase.
+— Velvet Notaries who witness transfer language and attach liability clauses;
+— Lot Readers who examine objects for responsive history, false origin, and harmful attachment;
+— Seal Stewards who maintain wax, paper, ink, thread, and locked-case standards;
+— Return Counsel who negotiate restitution to families, museums, states, or hidden claimants;
+— Quiet Porters who move lots between viewing rooms, warehouses, and private clients;
+— Red Clerks who update buyer books and mark clients barred from future purchase.
 
 The House is an institution, not a shop. Its power comes from repeated procedure
 and from other market actors
@@ -449,12 +449,12 @@ The barred-client card confirms the House restricts some buyers for safety, repu
 
   Velvet Provenance House is an outside provenance and private-sale institution, not an A.C.T
   department.
-- The House authenticates, documents, restricts, and sometimes facilitates transfer of anomalous or anomaly-adjacent
+— The House authenticates, documents, restricts, and sometimes facilitates transfer of anomalous or anomaly-adjacent
   objects.
-- Its receipts can preserve information useful to containment and recovery.
-- Its certifications can also legitimize private possession of hazardous items.
-- It has refused some sales and cooperated in some fraud and restitution cases.
-- It maintains buyer books and barred-client records A.C.T has not fully recovered.
+— Its receipts can preserve information useful to containment and recovery.
+— Its certifications can also legitimize private possession of hazardous items.
+— It has refused some sales and cooperated in some fraud and restitution cases.
+— It maintains buyer books and barred-client records A.C.T has not fully recovered.
 
 ### Active Intelligence Assessment
 
@@ -477,16 +477,16 @@ marks accurately, dangerous lots can be intercepted before public incidents.
   Does the Red Room exist as a physical central archive, or is it
   a
   status category?
-- Are velvet inspection cloths anomalous tools, inherited ritual materials, or ordinary stabilizing convention?
-- How many House notaries can detect ownership attachments without instruments?
+— Are velvet inspection cloths anomalous tools, inherited ritual materials, or ordinary stabilizing convention?
+— How many House notaries can detect ownership attachments without instruments?
   What buyer-book marks are shared with Anstrall Market, Candle-Under Exchange, or other hidden
   markets?
-- Has the House certified any object currently inside A.C.T custody?
+— Has the House certified any object currently inside A.C.T custody?
   Do return clauses reduce anomalous harm, or do they only describe conditions discovered
   by
   other means?
-- Who pays the House when an object is declared unsaleable?
-- What does the House do with objects whose rightful owners no longer exist?
+— Who pays the House when an object is declared unsaleable?
+— What does the House do with objects whose rightful owners no longer exist?
 
 ### Intelligence Confidence
 

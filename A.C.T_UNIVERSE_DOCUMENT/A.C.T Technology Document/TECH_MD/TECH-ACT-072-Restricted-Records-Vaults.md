@@ -188,9 +188,9 @@ RRV doctrine holds that secrecy is only useful when it remains accountable.
 
 - ACT-SITE-05-ID-C-F-2 Deep Monitoring and Restricted Records Floor Dossier;
 - ACT-SITE-05-ID-C-F-1 The Deep Listening Vault Floor Dossier;
-- TECH-ACT-069 - Abyss-Linked Observation Recording System;
-- TECH-ACT-071 - Seismic Records Vaults;
-- TECH-ACT-003 - Quantum Narrative Buffer System;
+- TECH-ACT-069 — Abyss-Linked Observation Recording System;
+- TECH-ACT-071 — Seismic Records Vaults;
+- TECH-ACT-003 — Quantum Narrative Buffer System;
 - Nusantara partially sealed file register [restricted].
 
 ---
@@ -210,10 +210,9 @@ RRV doctrine holds that secrecy is only useful when it remains accountable.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15
-**Author Desk:** Central Archive / Restricted Review Chain / Nusantara Deep Relay
-**Review Status:** Active restricted-vault record; vault maps, live seal states, file names, and authorization
-keys
+**Created:** 2026-09-15 **Author Desk:** Central Archive / Restricted Review Chain / Nusantara Deep Relay
+**Review
+Status:** Active restricted-vault record; vault maps, live seal states, file names, and authorization keys
 censored
 **Next Review:** After any unauthorized access attempt, partial opening, emergency file release, seal-state mismatch,
 reclassification action, or QNB custody disagreement

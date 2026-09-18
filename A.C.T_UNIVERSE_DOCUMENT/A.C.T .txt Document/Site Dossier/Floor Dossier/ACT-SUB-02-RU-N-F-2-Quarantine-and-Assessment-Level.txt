@@ -184,10 +184,10 @@ controls that assessment requires.
 F-2's plan is organized around the depot's assessment functions:
 - the intake and quarantine bays, where incoming material is received and
   isolated;
-- the quarantine chambers;
-- the assessment laboratories;
-- the medical staging suites;
-- the floor command post and support services.
+— the quarantine chambers;
+— the assessment laboratories;
+— the medical staging suites;
+— the floor command post and support services.
 
 7.2 The Quarantine Chambers
 
@@ -361,8 +361,8 @@ F-2 is Active and operating within its designed capacity. Projected
 priorities include:
 - continued quarantine support for White Grave Station during seasonal
   biological incidents;
-- refinement of assessment laboratory methodology;
-- coordination with the parent station on assessment standards and
+— refinement of assessment laboratory methodology;
+— coordination with the parent station on assessment standards and
   transfer authorization.
 
 ---

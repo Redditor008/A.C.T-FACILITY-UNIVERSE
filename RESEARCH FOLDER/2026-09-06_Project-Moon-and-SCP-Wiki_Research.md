@@ -9,57 +9,54 @@
 | PREPARED FOR | A.C.T.-FACILITY-WIKI |
 | SCOPE | The principal English-language Project Moon game wiki hubs on wiki.gg and Fandom, the ProjectMoon<br>lore hub, the<br>Russian Project Moon wiki.gg portal, and the official English SCP Wiki. |
 
-  **Owner scope update — 06 September 2026:** The public-facing independent A.C.T. core excludes
-  the
-  complete
-  `A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Emergent Reality Anomaly/` folder. Its 715-series records, logs,
-  related material, and assets are retained in the repository but are not to be
-  migrated, featured, linked, or used as
-  core-wiki material. The current visual-asset policy also requires an owner-approved, main-branch asset pool with
-  an
-  80% SVG / maximum 20% explicitly approved non-SVG target; no automatic or AI-generated imagery
-  is to be used. See
-  [`2026-09-06_A.C.T._Wiki_Scope_and_Visual_Asset_Policy.md`](2026-09-06_A.C.T._Wiki_Scope_and_Visual_Asset_Policy.md)
-  for the controlling planning decision.
+**Owner scope update — 06 September 2026:** The public-facing independent A.C.T. core excludes the
+complete
+`A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Emergent Reality Anomaly/` folder. Its 715-series records, logs,
+related material, and assets are retained in the repository but are not to be
+migrated, featured, linked, or used as
+core-wiki material. The current visual-asset policy also requires an owner-approved, main-branch asset pool with
+an
+80% SVG / maximum 20% explicitly approved non-SVG target; no automatic or AI-generated imagery
+is to be used. See
+[`2026-09-06_A.C.T._Wiki_Scope_and_Visual_Asset_Policy.md`](2026-09-06_A.C.T._Wiki_Scope_and_Visual_Asset_Policy.md)
+for the controlling planning decision.
 
-  **Important scope note:** These are living, community-maintained collections containing thousands of pages,
-  continuing
-  updates, translations, and individual author contributions. A finite research pass cannot honestly duplicate or
-  "read
-  all" of their full archives. This dossier therefore reviews **every requested main wiki hub**,
-  its visible information
-  architecture, and the core system/lore pages needed to understand how its documentation works. It
-  intentionally does
-  **not** copy, mirror, or bulk-archive source text, art, audio, or game data. Before any
-  future A.C.T. page uses a
-  specific Project Moon or SCP element, that exact primary page and its rights status
-  should be checked again.
+**Important scope note:** These are living, community-maintained collections containing thousands of pages, continuing
+updates, translations, and individual author contributions. A finite research pass cannot honestly duplicate or
+"read
+all" of their full archives. This dossier therefore reviews **every requested main wiki hub**,
+its visible information
+architecture, and the core system/lore pages needed to understand how its documentation works. It
+intentionally does
+**not** copy, mirror, or bulk-archive source text, art, audio, or game data. Before any
+future A.C.T. page uses a
+specific Project Moon or SCP element, that exact primary page and its rights status
+should be checked again.
 
-  **Research conclusion in one sentence:** A.C.T. can take inspiration from the *design logic*
-  of
-  Project Moon's
-  emotionally meaningful institutional archives and SCP's modular document storytelling, while preserving its own
-  terminology, cosmology, visual identity, and rights-safe source boundary.
+**Research conclusion in one sentence:** A.C.T. can take inspiration from the *design logic* of
+Project Moon's
+emotionally meaningful institutional archives and SCP's modular document storytelling, while preserving its own
+terminology, cosmology, visual identity, and rights-safe source boundary.
 
 ---
 
 ## Table of Contents
 
-1. [Research method and authority model](#1-research-method-and-authority-model)  
-2. [Source map: Project Moon wiki ecosystem](#2-source-map-project-moon-wiki-ecosystem)  
+1. [Research method and authority model](#1-research-method-and-authority-model)
+2. [Source map: Project Moon wiki ecosystem](#2-source-map-project-moon-wiki-ecosystem)
 3. [Project Moon: common setting and documentation grammar](#3-project-moon-common-setting-and-documentation-grammar)
-4. [Lobotomy Corporation research](#4-lobotomy-corporation-research)  
-5. [Library of Ruina research](#5-library-of-ruina-research)  
-6. [Limbus Company research](#6-limbus-company-research)  
-7. [How wiki.gg and Fandom differ in practice](#7-how-wikigg-and-fandom-differ-in-practice)  
-8. [SCP Wiki research](#8-scp-wiki-research)  
-9. [Comparative lessons: Project Moon, SCP, and A.C.T.](#9-comparative-lessons-project-moon-scp-and-act)  
-10. [A.C.T. canon audit and wiki implications](#10-act-canon-audit-and-wiki-implications)  
-11. [Recommended A.C.T. wiki architecture](#11-recommended-act-wiki-architecture)  
-12. [Document-model recommendations](#12-document-model-recommendations)  
-13. [Rights, attribution, and source-boundary plan](#13-rights-attribution-and-source-boundary-plan)  
-14. [Implementation guardrails](#14-implementation-guardrails)  
-15. [Research-backed next steps](#15-research-backed-next-steps)  
+4. [Lobotomy Corporation research](#4-lobotomy-corporation-research)
+5. [Library of Ruina research](#5-library-of-ruina-research)
+6. [Limbus Company research](#6-limbus-company-research)
+7. [How wiki.gg and Fandom differ in practice](#7-how-wikigg-and-fandom-differ-in-practice)
+8. [SCP Wiki research](#8-scp-wiki-research)
+9. [Comparative lessons: Project Moon, SCP, and A.C.T.](#9-comparative-lessons-project-moon-scp-and-act)
+10. [A.C.T. canon audit and wiki implications](#10-act-canon-audit-and-wiki-implications)
+11. [Recommended A.C.T. wiki architecture](#11-recommended-act-wiki-architecture)
+12. [Document-model recommendations](#12-document-model-recommendations)
+13. [Rights, attribution, and source-boundary plan](#13-rights-attribution-and-source-boundary-plan)
+14. [Implementation guardrails](#14-implementation-guardrails)
+15. [Research-backed next steps](#15-research-backed-next-steps)
 16. [Annotated source register](#16-annotated-source-register)
 
 ---
@@ -75,8 +72,8 @@ wiki page as complete authority:
   game/system pages that explain how a setting's records, classifications, entities, archives, locations, and
   personnel
   relate to one another;
-- lore pages that establish the Project Moon setting's institutional and geographic framework;
-- Fandom counterparts in order to identify continuity, legacy material, and update gaps;
+— lore pages that establish the Project Moon setting's institutional and geographic framework;
+— Fandom counterparts in order to identify continuity, legacy material, and update gaps;
   SCP's official hubs for object classes, the optional Anomaly Classification System (ACS), article
   construction,
   facilities, canons, Groups of Interest, image policy, site rules, and licensing;
@@ -336,40 +333,30 @@ distinct operational question.
 
 #### Good applications
 
-  Make containment rooms, procedures, and staff roles reflect the exact anomaly instead of
-  using
-  a generic “secure cell”
-  for everything.
-  Treat maintenance as narrative: a log about calibration, cleanup, meal delivery, archive quarantine,
-  or
-  shift changes
-  can reveal a crisis better than an action scene.
-  Connect an anomaly’s research value to its transformation review, but always make the
-  cost
-  legible.
-  Allow personnel expertise to shape records. A medic, archivist, engineer, field operator, and
-  researcher
-  should not
-  all sound identical.
-  Make a breach a failure of more than a door: information spread, a
-  compromised
-  cover identity, an incorrect file, or
-  an altered map can be a breach too.
+Make containment rooms, procedures, and staff roles reflect the exact anomaly instead of using
+a generic “secure cell”
+for everything. Treat maintenance as narrative: a log about calibration, cleanup, meal delivery, archive
+quarantine,
+or shift changes can reveal a crisis better than an action scene. Connect an
+anomaly’s research value to its
+transformation review, but always make the cost legible. Allow personnel expertise to shape records.
+A medic,
+archivist, engineer, field operator, and researcher should not all sound identical. Make a breach
+a failure of more
+than a door: information spread, a compromised cover identity, an incorrect file, or an
+altered map can be a breach
+too.
 
 #### Avoid
 
-  Copying the source game’s risk names, codes, departments, work types, staff entities, visual
-  UI,
-  or metaphysical
-  explanations.
-  Making every A.C.T. anomaly produce a useful resource. That would flatten the existing
-  distinction
-  between
-  **INVIOLABLE**, **NEUTRAL**, **CONTAINED-STUDY**, **STABILIZED**, **REPURPOSED**, and **INTEGRATED**.
-  Treating staff casualty or psychological injury only as spectacle. The research sources work
-  best
-  when the human
-  effect matters.
+Copying the source game’s risk names, codes, departments, work types, staff entities, visual UI,
+or metaphysical
+explanations. Making every A.C.T. anomaly produce a useful resource. That would flatten the existing
+distinction
+between **INVIOLABLE**, **NEUTRAL**, **CONTAINED-STUDY**, **STABILIZED**, **REPURPOSED**, and **INTEGRATED**. Treating
+staff casualty or psychological injury only as spectacle. The research sources work best when
+the human effect
+matters.
 
 ### 4.5 A.C.T. feature opportunity: the Transformation Ledger
 
@@ -567,7 +554,7 @@ one of these questions:
   Is this a documentary error, an actual parallel reality, a future warning, or
   a
   hostile narrative intrusion?
-- Does the alternate record threaten the integrity of the archive?
+— Does the alternate record threaten the integrity of the archive?
 
 ### 6.4 A.C.T. feature opportunity: Witnessed / Unwitnessed versions
 
@@ -622,8 +609,8 @@ The best elements to combine are:
 
 - **wiki.gg-style task clarity:** “Find an anomaly,” “browse sites,” “read the story,” “understand classifications,”
   “explore timelines.”
-- **Fandom-style hub density:** featured records, major series, character/site spotlights, and themed collections.
-- **A.C.T.-specific archive framing:** clearance, provenance, status, revisions, cross-references, and controlled
+— **Fandom-style hub density:** featured records, major series, character/site spotlights, and themed collections.
+— **A.C.T.-specific archive framing:** clearance, provenance, status, revisions, cross-references, and controlled
   contradictions.
 
 ### 7.3 Do not replicate platform branding or layouts
@@ -674,7 +661,7 @@ original form:
   **Crossover Continuities** — explicitly non-core fan works involving Project Moon, SCP, or other
   source
   properties;
-- **Experimental / Apocryphal Files** — optional alternate or disputed records.
+— **Experimental / Apocryphal Files** — optional alternate or disputed records.
 
 The reader should always know which continuity a page belongs to.
 
@@ -822,9 +809,9 @@ For A.C.T. records:
   state what an object, person, place, signal, or event seems to be under
   ordinary
   conditions;
-- identify what makes it violate structural reality;
-- state observed effects before hypotheses;
-- distinguish verified facts, working theory, and denied/unavailable data;
+— identify what makes it violate structural reality;
+— state observed effects before hypotheses;
+— distinguish verified facts, working theory, and denied/unavailable data;
   save deeper revelation for the addendum or cross-referenced files when it serves the
   story.
 
@@ -922,10 +909,9 @@ The official writing and rules pages emphasize criticism, revisions, attribution
 posting many
 weak pages quickly. The writing model reinforces a valuable A.C.T. production rule:
 
-  A new entry should have a narrative purpose, a distinct anomaly logic, a
-  consequence,
-  correct metadata, and a
-  source/rights review before it is treated as canon.
+A new entry should have a narrative purpose, a distinct anomaly logic, a consequence,
+correct metadata, and a
+source/rights review before it is treated as canon.
 
 This is especially important because the current repository already contains a large number of
 documents. Quality
@@ -961,7 +947,7 @@ core already exists in the repository:
   continuity
   failure,
   NEMNOLIA material, and legacy-to-modern record conflicts;
-- its global site network is a deliberately strategic containment lattice;
+— its global site network is a deliberately strategic containment lattice;
   its doctrine is **Detect → Verify → Conceal → Contain → Assess →
   Research
   → Transform → Maintain**.
@@ -984,20 +970,15 @@ That question should be visible on every anomaly page that reaches the Transform
 
 Future record writers should build entries around one or more of these tensions:
 
-   **Containment versus care** — A sentient or suffering anomaly may be dangerous and
-   deserving
-   of more than cruelty.
-   **Knowledge versus exposure** — Learning enough to protect people can also activate or
-   spread
-   the danger.
-   **Utility versus corruption** — A transformed asset may save lives while making the
-   institution
-   dependent on an
-   unethical practice.
-   **Continuity versus truth** — The archive’s official story may be safer than reality,
-   but
-   a false record can become
-   its own disaster.
+**Containment versus care** — A sentient or suffering anomaly may be dangerous and deserving
+of more than cruelty.
+**Knowledge versus exposure** — Learning enough to protect people can also activate or spread
+the danger. **Utility
+versus corruption** — A transformed asset may save lives while making the institution dependent
+on an unethical
+practice. **Continuity versus truth** — The archive’s official story may be safer than reality,
+but a false record can
+become its own disaster.
 
 These tensions are grounded in the repository’s existing docs and give A.C.T. a coherent
 emotional identity.
@@ -1579,13 +1560,13 @@ This prevents a later wiki migration from losing vital attribution data.
   Treat an anomaly file as a story, not a blank template filled with
   danger
   statistics.
-- Use the existing A.C.T. manual as the primary canon source.
+— Use the existing A.C.T. manual as the primary canon source.
   Do not make every anomaly a world-ending entity, a crossover portal, a reality
   bender,
   or an “object that makes
   objects.”
-- Give each anomaly a distinct operational condition, human consequence, and thematic purpose.
-- Keep ambiguity purposeful: clearly mark what is known, hypothesised, redacted, unreliable, and impossible.
+— Give each anomaly a distinct operational condition, human consequence, and thematic purpose.
+— Keep ambiguity purposeful: clearly mark what is known, hypothesised, redacted, unreliable, and impossible.
   Do not use sensitive topics merely for shock. Include content notes when a
   page
   needs them.
@@ -1605,7 +1586,7 @@ This prevents a later wiki migration from losing vital attribution data.
   Use `UFD` only while a record is genuinely provisional; record the promotion chain
   to
   `AFD` when verified.
-- Mark legacy terminology and historical retcons in a visible chronology note.
+— Mark legacy terminology and historical retcons in a visible chronology note.
 
 ### 14.3 UX guardrails
 
@@ -1626,9 +1607,9 @@ This prevents a later wiki migration from losing vital attribution data.
   No SCP prose/entity/faction reuse in core pages without an attribution and CC BY-SA
   3.0
   plan.
-- Every crossover page must declare its status and source-property relationship near the top.
-- Every external image must have a recorded rights trail.
-- Re-check official Project Moon fanwork terms immediately before public release.
+— Every crossover page must declare its status and source-property relationship near the top.
+— Every external image must have a recorded rights trail.
+— Re-check official Project Moon fanwork terms immediately before public release.
 
 ---
 
@@ -1694,214 +1675,214 @@ on or around **06 September
 
 ### Project Moon: wiki.gg
 
-1. **Lobotomy Corporation Wiki — main hub**  
-   <https://lobotomycorporation.wiki.gg/wiki/Lobotomy_Corporation_Wiki>  
+1. **Lobotomy Corporation Wiki — main hub**
+   <https://lobotomycorporation.wiki.gg/wiki/Lobotomy_Corporation_Wiki>
    Used for the facility-oriented navigation model: Abnormalities, equipment, Ordeals, meltdowns, employees,
    departments,
    missions, characters, and story.
 
-2. **Lobotomy Corporation Wiki — Abnormalities**  
-   <https://lobotomycorporation.wiki.gg/wiki/Abnormalities>  
+2. **Lobotomy Corporation Wiki — Abnormalities**
+   <https://lobotomycorporation.wiki.gg/wiki/Abnormalities>
    Used to understand entity documentation categories, containment/management framing, and the relation between entity
    knowledge, energy, and equipment.
 
-3. **Lobotomy Corporation Wiki — Risk Level**  
-   <https://lobotomycorporation.wiki.gg/wiki/Risk_Level>  
+3. **Lobotomy Corporation Wiki — Risk Level**
+   <https://lobotomycorporation.wiki.gg/wiki/Risk_Level>
    Used for the lesson that a risk label can imply multiple operational consequences rather
    than acting as a cosmetic
    power ranking.
 
-4. **Lobotomy Corporation Wiki — Equipment**  
-   <https://lobotomycorporation.wiki.gg/wiki/Equipment>  
+4. **Lobotomy Corporation Wiki — Equipment**
+   <https://lobotomycorporation.wiki.gg/wiki/Equipment>
    Used for the system-level relationship between discovery, observation, staff suitability, and available tools.
 
-5. **Lobotomy Corporation Wiki — Employees**  
-   <https://lobotomycorporation.wiki.gg/wiki/Employees>  
+5. **Lobotomy Corporation Wiki — Employees**
+   <https://lobotomycorporation.wiki.gg/wiki/Employees>
    Used for the lesson that personnel, roles, health, fear, training, and routine can be
    part of the setting’s
    operational logic.
 
-6. **Library of Ruina Wiki — game page/directory**  
-   <https://libraryofruina.wiki.gg/wiki/Library_of_Ruina>  
+6. **Library of Ruina Wiki — game page/directory**
+   <https://libraryofruina.wiki.gg/wiki/Library_of_Ruina>
    Used for its directory architecture: mechanics, floors, characters, story, books, pages, guests, librarians, and
    contextual cross-links.
 
-7. **Library of Ruina Wiki — The City**  
-   <https://libraryofruina.wiki.gg/wiki/The_City>  
+7. **Library of Ruina Wiki — The City**
+   <https://libraryofruina.wiki.gg/wiki/The_City>
    Used for the general lesson that geography, institutions, social strata, and hazards can be
    interdependent
    worldbuilding systems.
 
-8. **Library of Ruina Wiki — Books**  
-   <https://libraryofruina.wiki.gg/wiki/Books>  
+8. **Library of Ruina Wiki — Books**
+   <https://libraryofruina.wiki.gg/wiki/Books>
    Used for the archive-as-consequence lesson: records can capture history and create future narrative routes.
 
-9. **Library of Ruina Wiki — Invitations**  
-   <https://libraryofruina.wiki.gg/wiki/Invitations>  
+9. **Library of Ruina Wiki — Invitations**
+   <https://libraryofruina.wiki.gg/wiki/Invitations>
    Used only for the abstract lead/encounter/consequence story pattern; no proprietary terms or mechanics should
    be
    copied into core A.C.T.
 
-10. **Library of Ruina Wiki — Reception**  
-    <https://libraryofruina.wiki.gg/wiki/Reception>  
+10. **Library of Ruina Wiki — Reception**
+    <https://libraryofruina.wiki.gg/wiki/Reception>
     Used for the preparation/event/aftermath structure as a general encounter-design reference.
 
-11. **Library of Ruina Wiki — Key Pages**  
-    <https://libraryofruina.wiki.gg/wiki/Key_Pages>  
+11. **Library of Ruina Wiki — Key Pages**
+    <https://libraryofruina.wiki.gg/wiki/Key_Pages>
     Used for the principle that a record or identity-bearing artefact can hold both statistics
     and biographical context;
     no game system is to be copied.
 
-12. **Limbus Company Wiki — main hub**  
-    <https://limbuscompany.wiki.gg/wiki/Limbus_Company_Wiki>  
+12. **Limbus Company Wiki — main hub**
+    <https://limbuscompany.wiki.gg/wiki/Limbus_Company_Wiki>
     Used for current live-wiki navigation, spoiler treatment, update-oriented structure, and cross-wiki links.
 
-13. **Limbus Company Wiki — Project Moon**  
-    <https://limbuscompany.wiki.gg/wiki/Project_Moon>  
+13. **Limbus Company Wiki — Project Moon**
+    <https://limbuscompany.wiki.gg/wiki/Project_Moon>
     Used for the franchise’s basic release/media map and the warning that game, comic, and
     novel sources need separate
     provenance.
 
-14. **Limbus Company Wiki — The City**  
-    <https://limbuscompany.wiki.gg/wiki/The_City>  
+14. **Limbus Company Wiki — The City**
+    <https://limbuscompany.wiki.gg/wiki/The_City>
     Used for the lesson that global order, local zones, culture, technology, and hazards are
     mutually explanatory.
 
-15. **Limbus Company Wiki — Abnormalities**  
-    <https://limbuscompany.wiki.gg/wiki/Abnormalities>  
+15. **Limbus Company Wiki — Abnormalities**
+    <https://limbuscompany.wiki.gg/wiki/Abnormalities>
     Used for comparative research on how a living franchise tracks entity categories across titles.
 
-16. **Limbus Company Wiki — E.G.O.**  
-    <https://limbuscompany.wiki.gg/wiki/E.G.O>  
+16. **Limbus Company Wiki — E.G.O.**
+    <https://limbuscompany.wiki.gg/wiki/E.G.O>
     Used for the broader lesson that personal/organisational equipment can encode a story relationship with
     an anomaly. Do
     not use its terminology in core A.C.T. material.
 
-17. **Limbus Company Wiki — Identities**  
-    <https://limbuscompany.wiki.gg/wiki/Identities>  
+17. **Limbus Company Wiki — Identities**
+    <https://limbuscompany.wiki.gg/wiki/Identities>
     Used for the general rule that alternate-state/alternate-self material needs psychological stakes and source-aware
     explanation.
 
-18. **Limbus Company Wiki — Mirror Worlds**  
-    <https://limbuscompany.wiki.gg/wiki/Mirror_Worlds>  
+18. **Limbus Company Wiki — Mirror Worlds**
+    <https://limbuscompany.wiki.gg/wiki/Mirror_Worlds>
     Used for comparative research on alternate-reality documentation. A.C.T. should rely on its own Minor
     Pause/Exogenous
     Reality logic.
 
-19. **Limbus Company Wiki — Dante’s Notes**  
-    <https://limbuscompany.wiki.gg/wiki/Dante%27s_Notes>  
+19. **Limbus Company Wiki — Dante’s Notes**
+    <https://limbuscompany.wiki.gg/wiki/Dante%27s_Notes>
     Used for the perspective-bound-record lesson.
 
-20. **Project Moon Wiki (Russian wiki.gg portal)**  
-    <https://projectmoon.wiki.gg/ru/>  
+20. **Project Moon Wiki (Russian wiki.gg portal)**
+    <https://projectmoon.wiki.gg/ru/>
     Used to identify a franchise-wide portal and its migration/maintenance context. It is not used
     as an English-only
     primary source.
 
 ### Project Moon: Fandom
 
-21. **Lobotomy Corporation Wiki — Home**  
-    <https://lobotomycorp.fandom.com/wiki/Home>  
+21. **Lobotomy Corporation Wiki — Home**
+    <https://lobotomycorp.fandom.com/wiki/Home>
     Used as a legacy comparison for facility and Abnormality navigation.
 
-22. **Lobotomy Corporation Wiki — Abnormalities**  
-    <https://lobotomycorp.fandom.com/wiki/Abnormalities>  
+22. **Lobotomy Corporation Wiki — Abnormalities**
+    <https://lobotomycorp.fandom.com/wiki/Abnormalities>
     Used as a legacy comparison for long-form list/detail navigation.
 
-23. **Library Of Ruina Wiki — Home**  
-    <https://library-of-ruina.fandom.com/wiki/Library_Of_Ruina_Wiki>  
+23. **Library Of Ruina Wiki — Home**
+    <https://library-of-ruina.fandom.com/wiki/Library_Of_Ruina_Wiki>
     Used as a legacy comparison for quick links, spoiler notices, floors, and game/content hubs.
 
-24. **Limbus Company Wiki — Home**  
-    <https://limbuscompany.fandom.com/wiki/Limbus_Company_Wiki>  
+24. **Limbus Company Wiki — Home**
+    <https://limbuscompany.fandom.com/wiki/Limbus_Company_Wiki>
     Used to identify legacy coverage and the need to verify current update state against
     the wiki.gg version.
 
-25. **ProjectMoon Wiki — Home**  
-    <https://projectmoon.fandom.com/wiki/ProjectMoon_Wiki>  
+25. **ProjectMoon Wiki — Home**
+    <https://projectmoon.fandom.com/wiki/ProjectMoon_Wiki>
     Used to distinguish cross-work lore aggregation from individual game wikis and to identify supplementary
     works
     included in community lore research.
 
-26. **Project Moon Fanon Wiki — Home**  
-    <https://pjm-fanon.fandom.com/wiki/Project_Moon_Fanon_Wiki>  
+26. **Project Moon Fanon Wiki — Home**
+    <https://pjm-fanon.fandom.com/wiki/Project_Moon_Fanon_Wiki>
     Used only to distinguish fanon from official/cross-wiki documentation.
 
 ### Project Moon: official/policy-context lead
 
-27. **Project Moon — Lobotomy Corporation official game page**  
-    <http://www.projectmoon.kr/games/games.php?str_no=1>  
+27. **Project Moon — Lobotomy Corporation official game page**
+    <http://www.projectmoon.kr/games/games.php?str_no=1>
     Used as an official contextual lead for the base game’s facility-management premise. Language availability
     may vary.
 
-28. **Lobotomy Corporation Steam community — Secondary creation guide**  
-    <https://steamcommunity.com/app/568220/discussions/0/2828702373002050715/>  
+28. **Lobotomy Corporation Steam community — Secondary creation guide**
+    <https://steamcommunity.com/app/568220/discussions/0/2828702373002050715/>
     Used as an older, developer-posted fanwork-policy lead. It is not treated as a permanent
     or complete rights grant;
     current official policy must be checked before release.
 
 ### SCP: official English Wiki
 
-29. **SCP Foundation — Main page**  
-    <https://scp-wiki.wikidot.com/>  
+29. **SCP Foundation — Main page**
+    <https://scp-wiki.wikidot.com/>
     Used for ecosystem navigation: series, tales, GoIs, canons, art, international branches, curated lists, tags,
     and
     community discovery.
 
-30. **SCP Foundation — Object Classes**  
-    <https://scp-wiki.wikidot.com/object-classes>  
+30. **SCP Foundation — Object Classes**
+    <https://scp-wiki.wikidot.com/object-classes>
     Used for the essential containment-difficulty-versus-danger distinction, standard/secondary/non-standard classes,
     and
     the Locked Box Test.
 
-31. **SCP Foundation — Anomaly Classification System (ACS) Guide**  
-    <https://scp-wiki.wikidot.com/anomaly-classification-system-guide>  
+31. **SCP Foundation — Anomaly Classification System (ACS) Guide**
+    <https://scp-wiki.wikidot.com/anomaly-classification-system-guide>
     Used for the value of separate access, containment, disruption, risk, and optional secondary axes.
     A.C.T. should not
     copy its labels or UI.
 
-32. **SCP Foundation — How To Write An SCP**  
-    <https://scp-wiki.wikidot.com/how-to-write-an-scp>  
+32. **SCP Foundation — How To Write An SCP**
+    <https://scp-wiki.wikidot.com/how-to-write-an-scp>
     Used for document-as-short-story practice, procedures/description/addenda structure, sensible containment,
     narrative
     purpose, and contributor quality guidance.
 
-33. **SCP Foundation — Foundation Facilities**  
-    <https://scp-wiki.wikidot.com/secure-facilities-locations>  
+33. **SCP Foundation — Foundation Facilities**
+    <https://scp-wiki.wikidot.com/secure-facilities-locations>
     Used for global site registry patterns, facility differentiation, and intentional
     incompleteness/compartmentalisation
     in a site list.
 
-34. **SCP Foundation — Canon Hub**  
-    <https://scp-wiki.wikidot.com/canon-hub>  
+34. **SCP Foundation — Canon Hub**
+    <https://scp-wiki.wikidot.com/canon-hub>
     Used for the multi-canon organisational lesson.
 
-35. **SCP Foundation — Groups of Interest**  
-    <https://scp-wiki.wikidot.com/groups-of-interest>  
+35. **SCP Foundation — Groups of Interest**
+    <https://scp-wiki.wikidot.com/groups-of-interest>
     Used for the external-powers registry lesson.
 
-36. **SCP Foundation — GoI Formats**  
-    <https://scp-wiki.wikidot.com/goi-formats>  
+36. **SCP Foundation — GoI Formats**
+    <https://scp-wiki.wikidot.com/goi-formats>
     Used for the finding that a setting becomes richer when multiple groups get their
     own documentary viewpoints.
 
-37. **SCP Foundation — Tales Hub**  
-    <https://scp-wiki.wikidot.com/foundation-tales>  
+37. **SCP Foundation — Tales Hub**
+    <https://scp-wiki.wikidot.com/foundation-tales>
     Used for genre breadth, tag design, and the lesson that anomaly fiction need not
     be one tonal register.
 
-38. **SCP Foundation — Licensing Guide**  
-    <https://scp-wiki.wikidot.com/licensing-guide>  
+38. **SCP Foundation — Licensing Guide**
+    <https://scp-wiki.wikidot.com/licensing-guide>
     Used for CC BY-SA 3.0 attribution/share-alike requirements, specific-author attribution, and the former SCP-173
     image
     exception.
 
-39. **SCP Foundation — Image Use Policy**  
-    <https://scp-wiki.wikidot.com/image-use-policy>  
+39. **SCP Foundation — Image Use Policy**
+    <https://scp-wiki.wikidot.com/image-use-policy>
     Used for the separate-rights requirement for images and the importance of verifiable licenses.
 
-40. **SCP Foundation — Site Rules**  
-    <https://scp-wiki.wikidot.com/site-rules>  
+40. **SCP Foundation — Site Rules**
+    <https://scp-wiki.wikidot.com/site-rules>
     Used for the anti-plagiarism, image-source, quality, and civil collaboration principles.
 
 ---
@@ -1915,13 +1896,13 @@ responsibly plan the A.C.T.-FACILITY-WIKI. The practical direction is clear:
   preserve **A.C.T.’s own archive, Structural Reality, Cosmic Timer, ITHYOS, Fracture Index, site lattice,
   and
   Transformation doctrine** as the core identity;
-- learn from Project Moon’s emotional institutional systems and SCP’s modular document storytelling;
-- use a clear multi-axis classification interface;
+— learn from Project Moon’s emotional institutional systems and SCP’s modular document storytelling;
+— use a clear multi-axis classification interface;
   let logs, sites, people, and external groups form a connected archive rather than
   isolated
   pages;
-- clearly separate core A.C.T. canon from legacy/variant/crossover content;
-- maintain rigorous source, asset, attribution, and licensing boundaries before public release.
+— clearly separate core A.C.T. canon from legacy/variant/crossover content;
+— maintain rigorous source, asset, attribution, and licensing boundaries before public release.
 
 **Owner decision recorded:** The public-facing wiki is an independent A.C.T. core universe. Any future
 implementation

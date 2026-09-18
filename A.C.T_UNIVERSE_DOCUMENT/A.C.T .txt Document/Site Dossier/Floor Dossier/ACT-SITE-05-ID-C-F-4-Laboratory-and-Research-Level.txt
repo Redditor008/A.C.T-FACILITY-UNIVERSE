@@ -182,8 +182,8 @@ F-4's plan is organized around laboratory suites and analysis centers:
 - the seismic data interpretation center;
 - the controlled research environments for maritime and geological
   anomalies;
-- the data and documentation offices;
-- the floor command post and support services.
+— the data and documentation offices;
+— the floor command post and support services.
 
 7.2 The Marine Biology Laboratories
 
@@ -274,7 +274,7 @@ F-4 studies the relay's holdings and observations, with emphasis on:
 - the composition and behavior of deep-earth and volcanic material;
 - the interpretation of seismic observations, including abyss-linked
   signals;
-- the relationship between deep-ocean anomalies and the deeper structures
+— the relationship between deep-ocean anomalies and the deeper structures
   the relay exists to watch.
 
 10.2 The Sonar Void Program

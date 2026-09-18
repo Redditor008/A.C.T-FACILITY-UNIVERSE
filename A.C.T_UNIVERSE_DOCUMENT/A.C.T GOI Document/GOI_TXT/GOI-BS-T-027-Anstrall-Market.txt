@@ -493,11 +493,11 @@ the Market record, route comparison, and controlled interdiction planning.
 - Site 01 leads market-contact mapping, artifact recovery planning, and urban exchange disruption.
 - Site 02 receives remote, cold-zone, or isolated-route material requiring severe-environment recovery and containment
 support.
-- Site 03 manages digital traces, broker communications, dangerous visual proof, document propagation, and
+— Site 03 manages digital traces, broker communications, dangerous visual proof, document propagation, and
 archive
 isolation.
-- Site 04 receives biological or ecological items requiring bio-reserve handling and environmental containment.
-- Site 05 coordinates maritime, coastal, seismic, and deep-transit routes where an exchange or
+— Site 04 receives biological or ecological items requiring bio-reserve handling and environmental containment.
+— Site 05 coordinates maritime, coastal, seismic, and deep-transit routes where an exchange or
 shipment creates
 regional hazard.
 
@@ -514,14 +514,14 @@ Any approved controlled contact with the Market must comply with the following r
 - no personnel may promise A.C.T protection for a completed illegal sale;
 - no personnel may offer an anomaly, a person, a protected Site detail, or
 a classified record as payment;
-- no personnel may allow a hazardous object to reach a buyer merely to
+— no personnel may allow a hazardous object to reach a buyer merely to
 preserve an intelligence position;
-- no contact may reveal that a broker, handler, or client is under Facility
+— no contact may reveal that a broker, handler, or client is under Facility
 observation unless exposure is
 operationally necessary;
-- no representation may imply that A.C.T recognizes the Market as a legitimate authority
+— no representation may imply that A.C.T recognizes the Market as a legitimate authority
 over anomalous property;
-- all contact-derived materials must enter restricted archive review before being used by another
+— all contact-derived materials must enter restricted archive review before being used by another
 division.
 
 A controlled contact may be terminated immediately if it creates a credible risk of
@@ -647,19 +647,19 @@ Persistent Intelligence Questions
 - Is Anstrall a singular person, a protected succession identity, or a commercial fiction
 maintained by multiple
 actors?
-- Which Market procedures are deliberate leadership policy and which are informal practices copied
+— Which Market procedures are deliberate leadership policy and which are informal practices copied
 by independent
 brokers?
-- What objects have been sold without any surviving A.C.T recovery lead?
-- Which buyers understand enough to become repeat clients rather than isolated purchasers?
-- Are any Market handlers using anomalous tools to protect routes, verify goods, or
+— What objects have been sold without any surviving A.C.T recovery lead?
+— Which buyers understand enough to become repeat clients rather than isolated purchasers?
+— Are any Market handlers using anomalous tools to protect routes, verify goods, or
 enforce transactions?
-- When a broker disappears after a failed sale, is the removal internal discipline,
+— When a broker disappears after a failed sale, is the removal internal discipline,
 external interference, or a
 planned dispersal measure?
-- Can a Market node be retained under observation without allowing a dangerous object
+— Can a Market node be retained under observation without allowing a dangerous object
 to remain in circulation?
-- What point of pressure would disrupt demand rather than merely relocate supply?
+— What point of pressure would disrupt demand rather than merely relocate supply?
 
 Standing Restriction Order
 --------------------------
@@ -708,10 +708,10 @@ Related A.C.T Records
 - GOI Registry and External Threat Doctrine Archive - classification, trade alignment, and Monitor
 / Appropriate
 posture authority;
-- ACT-SITE-01-US-W / Redwood Veil Complex - primary trade-interdiction jurisdiction;
-- Site Map and Jurisdiction Doctrine - transfer routing for regional recovery;
-- Anomaly Classification Manual Archive - object custody and classification requirements;
-- Anomaly Log Categories In-World Explanation - restricted transaction, recovery, and exposure record handling.
+— ACT-SITE-01-US-W / Redwood Veil Complex - primary trade-interdiction jurisdiction;
+— Site Map and Jurisdiction Doctrine - transfer routing for regional recovery;
+— Anomaly Classification Manual Archive - object custody and classification requirements;
+— Anomaly Log Categories In-World Explanation - restricted transaction, recovery, and exposure record handling.
 ==============================================================================
 
 FILE METADATA

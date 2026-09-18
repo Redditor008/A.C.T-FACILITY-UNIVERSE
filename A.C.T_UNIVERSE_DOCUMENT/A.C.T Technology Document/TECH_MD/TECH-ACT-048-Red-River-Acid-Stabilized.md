@@ -214,9 +214,9 @@ the jug is temporary mercy.
 - ACT Technological Visual Reference Guide, Item 49;
 - Dark World Door, AFD-PL-932;
 - Dark World Door Expedition Log;
-- TECH-ACT-041 - Harvested Pale Wood;
-- TECH-ACT-042 - Refined Steel-Dirt;
-- TECH-ACT-027 - Gold-Tipped Mining Drills;
+- TECH-ACT-041 — Harvested Pale Wood;
+- TECH-ACT-042 — Refined Steel-Dirt;
+- TECH-ACT-027 — Gold-Tipped Mining Drills;
 - Hazardous Materials ceramic-jug storage ledgers [restricted].
 
 ---
@@ -236,8 +236,8 @@ the jug is temporary mercy.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Hazardous Materials Desk / Dark World Survey / Central Archive  
-**Review Status:** Active anomalous chemical record; stabilizer formulation and neutralization tab chemistry censored
-**Next Review:** After any container etching, tab delay, over-etch, vapor exposure, or new Dark
-World river sample
+**Created:** 2026-09-15 **Author Desk:** Hazardous Materials Desk / Dark World Survey / Central Archive
+**Review
+Status:** Active anomalous chemical record; stabilizer formulation and neutralization tab chemistry censored **Next
+Review:** After any container etching, tab delay, over-etch, vapor exposure, or new Dark World
+river sample

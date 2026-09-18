@@ -203,9 +203,9 @@ carried carefully.
 
 - ACT Technological Evolution Timeline, 1926 Silent Boundary entry;
 - ACT Normalcy Management and Public Narrative Doctrine;
-- TECH-ACT-002 - Anti Reality Mesh System;
-- TECH-ACT-004 - 004-Series Amnestic Compound System;
-- TECH-ACT-045 - Refined NEMNOLIA Sap;
+- TECH-ACT-002 — Anti Reality Mesh System;
+- TECH-ACT-004 — 004-Series Amnestic Compound System;
+- TECH-ACT-045 — Refined NEMNOLIA Sap;
 - Civil Covert contradiction ledgers [restricted];
 - Structural Normalcy N-5 operation files [restricted].
 
@@ -217,8 +217,8 @@ carried carefully.
   How many cover stories can a region carry before the public begins noticing
   the
   pattern of explanations?
-- Can folklore covers remain stable across generations without becoming worship?
-- What threshold turns a local mask into a structural normalcy operation?
+— Can folklore covers remain stable across generations without becoming worship?
+— What threshold turns a local mask into a structural normalcy operation?
   How often should staff assigned to public records read the true archive to
   prevent
   internal memory drift?
@@ -229,9 +229,7 @@ carried carefully.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Civil Covert Division / Intelligence Division / Central Archive  
-**Review Status:** Active normalcy infrastructure record; front organization lists and N-5 operation procedures
-censored
-**Next Review:** After any cover-story failure, GOI narrative interference, amnestic cluster recognition, folklore
-mutation, or structural normalcy operation
+**Created:** 2026-09-15 **Author Desk:** Civil Covert Division / Intelligence Division / Central Archive **Review
+Status:** Active normalcy infrastructure record; front organization lists and N-5 operation procedures censored **Next
+Review:** After any cover-story failure, GOI narrative interference, amnestic cluster recognition, folklore mutation,
+or structural normalcy operation

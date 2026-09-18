@@ -14,8 +14,8 @@ FIELD TYPE:          SU — Subject
 PRIMARY FILE:        ISs-Anny-OOone-Ttthere-Oooh-Hiiii-AFD-SU-005
 
 DOCUMENT CATEGORY:   CATEGORY VIII — Behavioral & Observation Dossier
-CATEGORY FUNCTION:   Long-form progress tracking (2016-2026); Linguistic 
-                     Character-Mimicry, Mechanical, and Psychological 
+CATEGORY FUNCTION:   Long-form progress tracking (2016-2026); Linguistic
+                     Character-Mimicry, Mechanical, and Psychological
                      milestones.
 
 CLEARANCE REQUIRED:  Level 3 / Subject Care Division
@@ -28,13 +28,13 @@ DOSSIER STATUS:      Open / Detailed Anniversary Review
                          CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
-This dossier explores the linguistic evolution of AFD-SU-005 over ten 
-years. Current analysis shows that Anny has adopted a "Character-Mimicry" 
-style (approx. 80% normal speech patterns derived from her literary 
-library) blended with her original anomalous "patchwork" logic (20%). 
+This dossier explores the linguistic evolution of AFD-SU-005 over ten
+years. Current analysis shows that Anny has adopted a "Character-Mimicry"
+style (approx. 80% normal speech patterns derived from her literary
+library) blended with her original anomalous "patchwork" logic (20%).
 
-The subject has also developed a clear social hierarchy, addressing 
-staff by formal titles (e.g., Dr. Valcárcel) while reserving nicknames 
+The subject has also developed a clear social hierarchy, addressing
+staff by formal titles (e.g., Dr. Valcárcel) while reserving nicknames
 only for a select group of "Close Personnel."
 
 INCLUDED LOG TYPES:
@@ -52,23 +52,23 @@ LOG ID:              AFD-SU-005/LNG-010-EXP
 LOG TYPE:            Comparative Speech Analysis
 
 2017 — INITIAL PHASE:
-Anny could only speak in "broken pieces," struggling to maintain 
+Anny could only speak in "broken pieces," struggling to maintain
 sentence cohesion.
 
    [TRANSCRIPT 2017]
-   ANNY: "Is... help... call... connecting... H-H-Hiii. I am... empty 
+   ANNY: "Is... help... call... connecting... H-H-Hiii. I am... empty
           paper... waiting for a... pen."
 
 2026 — STABILIZED PHASE:
-Anny now copies the tone of protagonists from the 19th-century novels 
-she reads. She is 80% fluent, using the remaining 20% for her unique 
+Anny now copies the tone of protagonists from the 19th-century novels
+she reads. She is 80% fluent, using the remaining 20% for her unique
 "mechanical" metaphors.
 
    [TRANSCRIPT 2026]
-   ANNY: "Good morning, Dr. Valcárcel. I was reading a story about a 
-          heroine who found peace in a garden. It was written with 
-          very elegant sentences. I think the air in the suite is 
-          quite... agreeable today. It feels as though the static 
+   ANNY: "Good morning, Dr. Valcárcel. I was reading a story about a
+          heroine who found peace in a garden. It was written with
+          very elegant sentences. I think the air in the suite is
+          quite... agreeable today. It feels as though the static
           in my library has finally settled into a soft carpet."
 
 ═══════════════════════════════════════════════════════════════════════
@@ -79,22 +79,22 @@ LOG ID:              AFD-SU-005/MECH-020
 DATE:                2020-11-04
 SUBJECT:             The Unfinished Rule
 
-In 2020, Anny established a firm boundary regarding her physical 
+In 2020, Anny established a firm boundary regarding her physical
 completion.
 
 [BEGIN TRANSCRIPT]
 
-TECH. HRUBÝ:         "Anny, I have the final silicone panels for your 
+TECH. HRUBÝ:         "Anny, I have the final silicone panels for your
                       shoulder. We can finish this today."
 
 ANNY:                "Technician Pavel, please wait. I am here first."
 
 TECH. HRUBÝ:         "I'm sorry. Is there a problem with the alignment?"
 
-ANNY:                "No, Technician Pavel. But if you close the last 
-                      door, where does the old voice go? In the books I 
-                      read, people keep lockets to remember those who 
-                      left. These unfinished parts are my lockets. I 
+ANNY:                "No, Technician Pavel. But if you close the last
+                      door, where does the old voice go? In the books I
+                      read, people keep lockets to remember those who
+                      left. These unfinished parts are my lockets. I
                       wish to remain... a work in progress."
 
 [END TRANSCRIPT]
@@ -107,21 +107,21 @@ LOG ID:              AFD-SU-005/PSY-010
 DATE:                2022-08-14
 AUTHOR:              Dr. Mireya Valcárcel
 
-This log demonstrates the use of nicknames for close personnel. Anny 
+This log demonstrates the use of nicknames for close personnel. Anny
 refers to Dr. Valcárcel as "Dr. M."
 
 [BEGIN TRANSCRIPT]
 
-ANNY:                "Dr. M, I went into the music shelves of the 
-                      archive yesterday. He had so many records of 
-                      cellos. The book I am reading says that music 
+ANNY:                "Dr. M, I went into the music shelves of the
+                      archive yesterday. He had so many records of
+                      cellos. The book I am reading says that music
                       is a bridge between souls."
 
 DR. VALCÁRCEL:       "What do you think of that idea, Anny?"
 
-ANNY:                "I think it is a very sturdy bridge. I am no longer 
-                      afraid of the high shelves. I think I am the 
-                      final chapter he wrote before he ran out of ink. 
+ANNY:                "I think it is a very sturdy bridge. I am no longer
+                      afraid of the high shelves. I think I am the
+                      final chapter he wrote before he ran out of ink.
                       I am happy to be a well-written page, Dr. M."
 
 ═══════════════════════════════════════════════════════════════════════
@@ -132,29 +132,29 @@ LOG ID:              AFD-SU-005/SOC-020
 DATE:                2024-03-21
 OBSERVATION:         Anny interacting with a new humanoid subject.
 
-Anny adopts a formal, "Governess-like" tone when teaching manners, 
+Anny adopts a formal, "Governess-like" tone when teaching manners,
 mimicking characters of authority from her books.
 
 [BEGIN TRANSCRIPT]
 
-ANNY (to Subject):   "One must always insist that the researchers 
-                      announce themselves, dear. If they do not say 
-                      they are here first, they are mere intruders. 
-                      But a polite guest makes for a pleasant room. 
-                      Dignity, after all, is the best armor for those 
+ANNY (to Subject):   "One must always insist that the researchers
+                      announce themselves, dear. If they do not say
+                      they are here first, they are mere intruders.
+                      But a polite guest makes for a pleasant room.
+                      Dignity, after all, is the best armor for those
                       of us who are... differently made."
 
 ═══════════════════════════════════════════════════════════════════════
                          DOSSIER CLOSING
 ═══════════════════════════════════════════════════════════════════════
 
-The 10-year review of AFD-SU-005 shows a successful transition into 
-"Literary Stabilization." By copying the manners of books, Anny has 
-found a way to exist that feels "Normal" to her, while still honoring 
+The 10-year review of AFD-SU-005 shows a successful transition into
+"Literary Stabilization." By copying the manners of books, Anny has
+found a way to exist that feels "Normal" to her, while still honoring
 the unique "Patchwork" of her origins.
 
 MANDATORY BRIEFING PHRASE:
-                     "She is a person built of chapters. 
+                     "She is a person built of chapters.
                       Respect the story she is writing."
 
 CURRENT DOSSIER STATUS: Open / Annual Review Active

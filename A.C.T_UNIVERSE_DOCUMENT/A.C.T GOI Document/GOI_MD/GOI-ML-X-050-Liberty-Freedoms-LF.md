@@ -128,16 +128,16 @@ defector origin. Observed operational functions include:
   **Gate Cells:** recruit, protect, and vet former A.C.T personnel, contractors, and their families,
   managing
   the
-  highest-risk asset the network holds - inside knowledge;
+  highest-risk asset the network holds — inside knowledge;
   **Publication Cells:** prepare, release, and maintain controlled leaks, leaflets, and recordings, treating
   information
   as a weapon with its own containment rules;
-- **Corridor Cells:** move personnel, material, and subjects across jurisdictions through changing routes, safehouses,
+— **Corridor Cells:** move personnel, material, and subjects across jurisdictions through changing routes, safehouses,
   and transport seams;
   **Witness Cells:** recruit among civilians harmed by or displaced around contained incidents, converting
   documented
   grievance into first commitment;
-- **Residual Contacts:** sympathetic workers, frightened intermediaries, former members, and opportunists who assist
+— **Residual Contacts:** sympathetic workers, frightened intermediaries, former members, and opportunists who assist
   without full initiation.
 
 These labels describe function, not confirmed internal titles. Seized documents suggest L.F. changes its
@@ -174,9 +174,9 @@ and logistics workers who
 see schedules that do not add up, and radicals who find in L.F. a
 doctrine that promises both action and absolution.
 
-Recruitment is staged. A prospect is first given a true fragment - a real
+Recruitment is staged. A prospect is first given a true fragment — a real
 but carefully chosen piece of concealed
-information - and invited to verify it. The fragment establishes that the concealed world
+information — and invited to verify it. The fragment establishes that the concealed world
 exists and that the Facility
 has hidden it. From that point the recruit is led through increasing commitment: reading,
 witnessing, transport
@@ -193,8 +193,8 @@ a reportable witness.
 
 ### The Custody Doctrine
 
-L.F.'s central claim is that A.C.T's entire institutional form - containment chambers, Transformation doctrine,
-secrecy oaths, amnestics, the classification of beings as files - is a system of
+L.F.'s central claim is that A.C.T's entire institutional form — containment chambers, Transformation doctrine,
+secrecy oaths, amnestics, the classification of beings as files — is a system of
 custody that mistakes its own
 convenience for necessity. In L.F. material, a containment chamber is a cage with documentation;
 Transformation is
@@ -216,7 +216,7 @@ should expect it to contain verifiable truths: anomalies are real, secrecy is re
 is morally severe, and
 some subjects have been held longer than any living staff member can justify. The
 insurgency weaponizes those truths
-without accepting the distinctions - danger, stability, consent, containment necessity - that make responsible
+without accepting the distinctions — danger, stability, consent, containment necessity — that make responsible
 response possible.
 
 ### Assessed Objective
@@ -233,19 +233,14 @@ safe.
 
 Supporting objectives follow from this assessment:
 
-  accumulate anomalies that have left containment with L.F., both as leverage and as
-  living
-  proof of its claim;
-  recruit defectors who can provide routes, schedules, protocols, and the moral language of
-  former
-  insiders;
-  force the Facility into public-response dilemmas where every option - confirm, deny, retrieve,
-  or
-  ignore - feeds the
-  next publication;
-  fragment cross-site confidence by showing that one Site's records cannot be protected from
-  its
-  own former staff.
+accumulate anomalies that have left containment with L.F., both as leverage and as living
+proof of its claim; recruit
+defectors who can provide routes, schedules, protocols, and the moral language of former insiders;
+force the Facility
+into public-response dilemmas where every option — confirm, deny, retrieve, or ignore — feeds
+the next publication;
+fragment cross-site confidence by showing that one Site's records cannot be protected from its
+own former staff.
 
 ### Anomalous Capability Assessment
 
@@ -278,14 +273,14 @@ its own sources, timed to operational moments, and released through channels tha
 Its publications
 are designed to be true enough to survive official denial. A dossier assembled from
 outdated fragments, a route
-manifest stripped of current data, a personnel file redacted beyond identification - each is
+manifest stripped of current data, a personnel file redacted beyond identification — each is
 accurate in what it shows
 and misleading in what it implies.
 
 The same discipline does not apply to civilian exposure caused by raids and carry
 operations. A forced stop on a
 public road, an abandoned transport with Facility markings, a released subject found by ordinary
-responders - these
+responders — these
 create witness chains L.F. cannot fully control. The network accepts this collateral exposure as
 consistent with its
 doctrine. A.C.T must treat every L.F. publication as both intelligence and weapon, and every
@@ -321,15 +316,15 @@ Confirmed and assessed assets include:
 
 - **Defector knowledge:** routes, schedules, formats, procedures, and institutional memory, held by the network's
   highest-trust members;
-- **Publication infrastructure:** masthead identities, relay points, encrypted drop systems, and printing or recording
+— **Publication infrastructure:** masthead identities, relay points, encrypted drop systems, and printing or recording
   capacity;
-- **Adapted equipment:** seized or diverted A.C.T transport fixtures, restraint systems, monitoring tools, and
+— **Adapted equipment:** seized or diverted A.C.T transport fixtures, restraint systems, monitoring tools, and
   protective gear;
   **Carried subjects:** anomalies assessed to travel with L.F. cells, each requiring separate case-chain
   handling
   and
   each representing both an asset and a vulnerability;
-- **Sympathizer network:** drivers, landlords, archivists, and logistics workers providing cover without full
+— **Sympathizer network:** drivers, landlords, archivists, and logistics workers providing cover without full
   initiation.
 
 Holdings are assessed as dispersed and changeable: safehouses near transport junctions, temporary holding sites
@@ -344,25 +339,20 @@ ended by locating a headquarters because it has structured itself not to need on
 
 L.F. operations follow a repeating pattern that distinguishes the network from other hostile GOIs:
 
-  **The Offer:** a raid or interception is preceded by an attempt to reach
-  the
-  subject or its handlers with an offer of
-  release, because the network prefers subjects that leave "willingly" and handlers that defect;
-  **The Take:** if the offer fails or time runs short, the cell seizes
-  the
-  subject or disrupts the operation, accepting
-  the risk of forced removal;
-  **The Publication:** a controlled release follows or precedes the action, timed to shape
-  the
-  official response;
-  **The Corridor:** the subject and personnel move through corridor cells toward a holding
-  or
-  release point, with routes
-  changed on schedule;
-  **The Abandonment:** when pursuit closes, cells abandon subjects with visible care rather than
-  destroy
-  them - a
-  signature that both preserves the network's doctrine and complicates A.C.T recovery.
+**The Offer:** a raid or interception is preceded by an attempt to reach the
+subject or its handlers with an offer of
+release, because the network prefers subjects that leave "willingly" and handlers that defect; **The
+Take:** if the
+offer fails or time runs short, the cell seizes the subject or disrupts the
+operation, accepting the risk of forced
+removal; **The Publication:** a controlled release follows or precedes the action, timed to shape
+the official
+response; **The Corridor:** the subject and personnel move through corridor cells toward a holding
+or release point,
+with routes changed on schedule; **The Abandonment:** when pursuit closes, cells abandon subjects with
+visible care
+rather than destroy them — a signature that both preserves the network's doctrine and
+complicates A.C.T recovery.
 
 ---
 
@@ -382,8 +372,8 @@ founding document to recognize a persistent hostile actor.
 
 The relationship has remained hostile because L.F.'s doctrine offers no durable negotiation ground. The
 network has
-stated preconditions - release of contained anomalies, public acknowledgment of custody, an end to
-secrecy - that
+stated preconditions — release of contained anomalies, public acknowledgment of custody, an end to
+secrecy — that
 A.C.T cannot accept without abandoning the doctrine that preserves Structural Reality. Contact attempts have
 been
 rejected with the group's characteristic formulation: a negotiation with a jailer is not a
@@ -402,7 +392,7 @@ have disrupted market transactions rather than profiting from them. It is not th
 Anti-Anomaly apparatus:
 it rejects all state partnership as the same custody wearing a uniform. These distinctions
 are operational, not
-rhetorical. L.F. treats other hostile networks as rivals in its own narrative - actors
+rhetorical. L.F. treats other hostile networks as rivals in its own narrative — actors
 who claim to oppose the
 Facility but reproduce its relationship to the anomalous world.
 
@@ -467,7 +457,7 @@ civilian protection, and control of the active threat.
   **ACT-SITE-02-RU-N / White Grave Station** supports remote recovery, severe-environment pursuit, and the handling
   of
   carried subjects recovered from cold or isolated conditions.
-- **ACT-SITE-03-JP-E / Kurokawa Archive Node** leads document-warfare defense: leak forensics, defector communications
+— **ACT-SITE-03-JP-E / Kurokawa Archive Node** leads document-warfare defense: leak forensics, defector communications
   analysis, publication pre-release detection, and the protection of records that would be most damaging
   if released.
   **ACT-SITE-04-BR-C / Verde Null Bio-Reserve** receives biological and environmental subjects that L.F. cells
@@ -504,21 +494,15 @@ L.F. material is repurposed by Transformation Division without O5-level exceptio
 
 The following are standing red lines for all L.F. response:
 
-  No contained anomaly is to be released, exchanged, or offered to L.F. to
-  secure
-  cooperation, reduce conflict, or
-  protect an asset;
-  No leaked content is to be publicly confirmed or denied beyond the narrow
-  wording
-  approved by Civil Covert and Site 03
-  liaison;
-  No amnesty or immunity is to be offered that would permit a defector
-  to
-  retain access to containment knowledge;
-  No operation is to treat a carried subject as expendable because it "chose"
-  L.F.;
-  subjects may be coerced, confused,
-  or unable to consent to the network's offer.
+No contained anomaly is to be released, exchanged, or offered to L.F. to secure
+cooperation, reduce conflict, or
+protect an asset; No leaked content is to be publicly confirmed or denied beyond
+the narrow wording approved by Civil
+Covert and Site 03 liaison; No amnesty or immunity is to be offered that
+would permit a defector to retain access to
+containment knowledge; No operation is to treat a carried subject as expendable because it
+"chose" L.F.; subjects may
+be coerced, confused, or unable to consent to the network's offer.
 
 ---
 
@@ -549,9 +533,9 @@ Site 03's document-warfare unit detected assembly of a publication built from ar
 outdated site
 overview, a declassified personnel list, and a transport manifest stripped of current data. The
 assembled document was
-internally consistent and its fragments individually verifiable, but its implication - that the Facility
+internally consistent and its fragments individually verifiable, but its implication — that the Facility
 maintains
-open, unguarded custody of dangerous subjects - was false.
+open, unguarded custody of dangerous subjects — was false.
 
 Interdiction occurred before release. Source analysis traced the fragments to a sequence of lawful
 archive requests,
@@ -592,8 +576,8 @@ armed certainty.
   source;
   map contact between L.F. and other hostile or market actors without assuming shared
   allegiance;
-- locate carried subjects and assess their condition before cells move or abandon them;
-- identify gate-cell recruiters who approach current staff, and the vulnerability profiles they exploit;
+— locate carried subjects and assess their condition before cells move or abandon them;
+— identify gate-cell recruiters who approach current staff, and the vulnerability profiles they exploit;
   distinguish doctrine from knowledge in recovered L.F. material, so that a captured text
   is
   not mistaken for an
@@ -613,7 +597,7 @@ armed certainty.
   coerced
   or deceived by
   staged truth?
-- How many subjects currently travel with L.F. cells, and how many travel willingly?
+— How many subjects currently travel with L.F. cells, and how many travel willingly?
   Has any carried subject influenced or controlled the cell carrying it, and would
   L.F.
   recognize that condition if it
@@ -622,7 +606,7 @@ armed certainty.
   it
   remain dependent on
   seizure and diversion?
-- What event would push L.F. from controlled rupture toward uncontrolled revelation?
+— What event would push L.F. from controlled rupture toward uncontrolled revelation?
 
 ### Intelligence Confidence
 
@@ -670,12 +654,12 @@ organizational dossier and any subject file must remain distinct.
 
 ### Related A.C.T Records
 
-- GOI Registry and External Threat Doctrine Archive - classification and hostile-posture authority;
-- Site Map and Jurisdiction Doctrine - cross-site response assignment and corridor-seam responsibility;
-- Facility Divisions, Personnel Roles, and Operational Life - Security, Recovery, Containment, Intelligence, Military,
+- GOI Registry and External Threat Doctrine Archive — classification and hostile-posture authority;
+- Site Map and Jurisdiction Doctrine — cross-site response assignment and corridor-seam responsibility;
+- Facility Divisions, Personnel Roles, and Operational Life — Security, Recovery, Containment, Intelligence, Military,
   and Civil Covert responsibilities;
-- Anomaly Classification Manual Archive - subject, transport, and breach filing;
-- Anomaly Log Categories In-World Explanation - controlled incident, recovery, and leak documentation.
+— Anomaly Classification Manual Archive — subject, transport, and breach filing;
+— Anomaly Log Categories In-World Explanation — controlled incident, recovery, and leak documentation.
 
 ---
 

@@ -14,19 +14,15 @@
 ---
 
 ## ENTITY DESIGNATION
-**ENTITY-000**  
-**Title I:** *The Slumbering Serpent God*  
-**Title II:** *ITHYOS, The World-Sleeper*
+**ENTITY-000** **Title I:** *The Slumbering Serpent God* **Title II:** *ITHYOS, The World-Sleeper*
 
 ## Provisional Name
-**The Sleeping Serpent in the Core**  
-**Recovered Secondary Name:** *ITHYOS*  
-**Unauthorized Interpretive Title:** *The World-Sleeper*
+**The Sleeping Serpent in the Core** **Recovered Secondary Name:** *ITHYOS* **Unauthorized Interpretive Title:** *The
+World-Sleeper*
 
-**Note:**  
-This record was created before the modern use of the word **Anomaly**. At the
-time of writing, the world was not
-considered ready to witness, name, or understand the ENTITY in formal terms.
+**Note:** This record was created before the modern use of the word **Anomaly**. At
+the time of writing, the world was
+not considered ready to witness, name, or understand the ENTITY in formal terms.
 
 ---
 
@@ -116,11 +112,11 @@ reports.
 ## EXPOSURE SEQUENCE
 The following progression has been observed repeatedly:
 
-1. **Approach**  
-2. **Vision of the ENTITY watching**  
-3. **Mental destabilization**  
-4. **Compulsive scribbling**  
-5. **Psychological breakdown**  
+1. **Approach**
+2. **Vision of the ENTITY watching**
+3. **Mental destabilization**
+4. **Compulsive scribbling**
+5. **Psychological breakdown**
 6. **Sudden cardiac death near the 24-hour mark**
 
 ---
@@ -150,22 +146,21 @@ in:
 ---
 
 ## DIRECTIVE
-No unapproved descent.  
-No uncontrolled observation.  
-No serpent specimen is to be brought near the lower seal.  
-No witness account is to be released outside sealed command channels.  
-No recovered scribbling is to be circulated without review.  
-No attempt is to be made to interpret the written language without authorization.  
-No action is to be taken that may disturb the ENTITY’s dormant state.
+No unapproved descent. No uncontrolled observation. No serpent specimen is to be brought near
+the lower seal. No
+witness account is to be released outside sealed command channels. No recovered scribbling is
+to be circulated without
+review. No attempt is to be made to interpret the written language without authorization.
+No action is to be taken
+that may disturb the ENTITY’s dormant state.
 
 ---
 
 ## ARCHIVE WARNING
 This ENTITY is not to be approached as animal, god, relic, or myth.
 
-It is not to be worshipped.  
-It is not to be studied casually.  
-It is not to be awakened.
+It is not to be worshipped. It is not to be studied casually. It
+is not to be awakened.
 
 Its sleep is presently indistinguishable from mercy.
 

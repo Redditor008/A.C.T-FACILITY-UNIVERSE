@@ -180,11 +180,11 @@ A.C.T assessment identifies these functional layers:
 - prosthetic studios that build living, remembered, or sensation-bearing replacement devices;
 - consent advocates who document what a patient wants before amnestics, sedation, or custody
 transfer;
-- mobile clinic routes that reach shelters, rural hospitals, and post-breach neighborhoods;
-- cold ledger offices that preserve names of patients officially recorded as dead or
+— mobile clinic routes that reach shelters, rural hospitals, and post-breach neighborhoods;
+— cold ledger offices that preserve names of patients officially recorded as dead or
 missing;
-- refusal boards that deny procedures considered exploitative, cosmetic, coercive, or unsafe;
-- donor and material channels that acquire tissue, glass, thread, bone substitute, nerve media,
+— refusal boards that deny procedures considered exploitative, cosmetic, coercive, or unsafe;
+— donor and material channels that acquire tissue, glass, thread, bone substitute, nerve media,
 and unknown
 restoration compounds.
 
@@ -268,12 +268,12 @@ procedures, and materials not explainable by ordinary medicine. Confirmed or str
 - prosthetic limbs that restore sensation using memory-linked nerve media;
 - voice grafts for patients whose original speech was consumed or forbidden by anomalous
 exposure;
-- glass ocular implants that filter hostile visual residues without full blindness;
-- skin-thread stabilization for symbol burns that reopen under spoken triggers;
-- scar locks that prevent transformation spread past a chosen boundary;
-- organ support for patients whose internal anatomy has become partially nonstandard;
-- memory-sensitive consent forms that reveal coercion, sedation gaps, or false agreement;
-- recovery beds that reduce panic without functioning as standard amnestics.
+— glass ocular implants that filter hostile visual residues without full blindness;
+— skin-thread stabilization for symbol burns that reopen under spoken triggers;
+— scar locks that prevent transformation spread past a chosen boundary;
+— organ support for patients whose internal anatomy has become partially nonstandard;
+— memory-sensitive consent forms that reveal coercion, sedation gaps, or false agreement;
+— recovery beds that reduce panic without functioning as standard amnestics.
 
 The Concern is not assessed as capable of broad resurrection. Claims that Saint-Vera can
 restore the dead are treated
@@ -512,12 +512,12 @@ Confirmed Operational Facts
 
 - Saint-Vera Restoration Concern is an outside corporate medical network and not an A.C.T
 medical division.
-- The Concern has repeatedly treated anomaly survivors across separate jurisdictions.
-- Its procedures produce restoration outcomes beyond conventional medical explanation.
-- The group protects patient dignity and consent but withholds leadership, source materials, route
+— The Concern has repeatedly treated anomaly survivors across separate jurisdictions.
+— Its procedures produce restoration outcomes beyond conventional medical explanation.
+— The group protects patient dignity and consent but withholds leadership, source materials, route
 maps, and full
 failure records.
-- Several Saint-Vera interventions have obstructed A.C.T custody while preventing patient death or severe
+— Several Saint-Vera interventions have obstructed A.C.T custody while preventing patient death or severe
 deterioration.
 
 Active Intelligence Assessment
@@ -542,13 +542,13 @@ Persistent Questions
 - What is the source of green-thread stabilizer and glass theatre lighting?
 - How many patients listed in Saint-Vera cold ledgers are officially dead in civic
 systems?
-- Has the Concern ever restored a patient whose identity continuity A.C.T would reject?
-- Does Saint-Vera refuse all coercive body alteration, or only cases that violate its
+— Has the Concern ever restored a patient whose identity continuity A.C.T would reject?
+— Does Saint-Vera refuse all coercive body alteration, or only cases that violate its
 own doctrine?
-- Are any donor channels linked to market GOIs, hostile containment institutions, or transformed-person
+— Are any donor channels linked to market GOIs, hostile containment institutions, or transformed-person
 communities?
-- Why do some prosthetics remember movement the patient never learned before the incident?
-- How many Saint-Vera patients later enter Excommunicated Class review?
+— Why do some prosthetics remember movement the patient never learned before the incident?
+— How many Saint-Vera patients later enter Excommunicated Class review?
 
 Intelligence Confidence
 -----------------------
@@ -583,8 +583,8 @@ Related A.C.T Records
 - A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Personnel_Exposure_E_Class_and_Resilience_Doctrine.md
 - A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational
 Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Complete_Designation_and_Class_Reference.md
-- Restricted restoration, transformation, patient-aftercare, prosthetic-custody, and E-Class review chains held under
+— A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Complete_Designation_and_Class_Reference.md
+— Restricted restoration, transformation, patient-aftercare, prosthetic-custody, and E-Class review chains held under
 Central Archive routing.
 
 Dual Filing

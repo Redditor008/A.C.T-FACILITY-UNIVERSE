@@ -97,7 +97,7 @@ Mesh that doesn't require a power supply."*
 *   Physical Containment: Using "Boxes" (Small, Medium, Massive) to physically isolate an object.
 * Perceptual Containment: Using the ARM (Anti Reality Mesh) to hide our Sites from
 the world.
-* Social Containment: Using "Politeness Protocols" to ensure that sentient subjects feel like guests
+— Social Containment: Using "Politeness Protocols" to ensure that sentient subjects feel like guests
 rather than
 prisoners.
 
@@ -161,28 +161,28 @@ to the Abyss.
 
 III. THE RESEARCHER CADRE (HIGH, SENIOR, JUNIOR)
 Researchers are our eyes.
-*   High Researchers bridge the gap between policy and science.
-* Senior Researchers (like Dr. Aris Thorne) are the frontline masters of the anomaly.
+— High Researchers bridge the gap between policy and science.
+— Senior Researchers (like Dr. Aris Thorne) are the frontline masters of the anomaly.
 They translate raw chaos into
 workable logs.
-* Junior Researchers provide the essential labor of observation and data-mending. You are the
+— Junior Researchers provide the essential labor of observation and data-mending. You are the
 future of the archive;
 do not mistake your low clearance for a lack of importance. Every typo you
 fix prevents a causal error.
 
 IV. TACTICAL & FIELD OPERATIONS
 The limbs of the Facility.
-* Field Operators and Task Force Commanders are the ones who step into the
+— Field Operators and Task Force Commanders are the ones who step into the
 "Fractures" first.
-* Facility Guards protect the internal peace. They are trained to see the "Static"
+— Facility Guards protect the internal peace. They are trained to see the "Static"
 before a breach happens.
 
 V. THE SUPPORT PILLARS (ARCHIVERS, JANITORS, RECRUITERS)
 The cells of the body.
-* Archivers are the most critical support role. In A.C.T., information is a hazardous
+— Archivers are the most critical support role. In A.C.T., information is a hazardous
 material. You are the ones who
 shield the world from the ink.
-* Site Janitors perform the most dangerous "Silent Work," cleaning the residue of the
+— Site Janitors perform the most dangerous "Silent Work," cleaning the residue of the
 impossible so that the next
 shift can walk the halls safely.
 
@@ -300,44 +300,44 @@ The Main A.C.T Reality is stabilized by five primary Regional Sites. Each is tun
 to a specific type of "Pressure."
 
 ACT-SITE-01-US-W: REDWOOD VEIL COMPLEX
-*   Location: Western United States.
-*   Specialization: Urban Artifacts and High-Stress Recovery.
-* Culture: Fast-paced and clinical. Site-01 handles the items that "bleed" into the public
+— Location: Western United States.
+— Specialization: Urban Artifacts and High-Stress Recovery.
+— Culture: Fast-paced and clinical. Site-01 handles the items that "bleed" into the public
 eye first. If a cursed
 coin or a self-writing diary is found in a city, it goes to Redwood
 Veil. It is our primary shield against the
 collapse of public normalcy.
 
 ACT-SITE-02-RU-N: WHITE GRAVE STATION
-*   Location: Northern Russia (Arctic).
-*   Specialization: Biological Isolation and Unwilling Immortals.
-* Culture: Silent, analog, and disciplined. This is the current home of Dr. Aris
+— Location: Northern Russia (Arctic).
+— Specialization: Biological Isolation and Unwilling Immortals.
+— Culture: Silent, analog, and disciplined. This is the current home of Dr. Aris
 Thorne (SR-412). The extreme cold
 is used as a natural suppression layer for anomalies that are too volatile for
 warmer climates. Here, "Patience" is
 the primary law.
 
 ACT-SITE-03-JP-E: KUROKAWA ARCHIVE NODE
-*   Location: Eastern Japan (Tokyo Annex).
-*   Specialization: Memetic, Informational, and Exogenous Records.
-* Culture: Intellectual and highly restricted. Site-03 is the "Brain" of the archive. It
+— Location: Eastern Japan (Tokyo Annex).
+— Specialization: Memetic, Informational, and Exogenous Records.
+— Culture: Intellectual and highly restricted. Site-03 is the "Brain" of the archive. It
 houses the 715-Series
 (Emergent Reality) ghost-files. Personnel here are masters of "Causal Scrubbing"—ensuring that the information within
 a file doesn't become more dangerous than the subject it describes.
 
 ACT-SITE-04-BR-C: VERDE NULL BIO-RESERVE
-*   Location: Central Brazil (Amazon).
-*   Specialization: Non-Natural Biological Organisms and Enclosures.
-* Culture: Adaptive and protective. Site-04 is the home of Vivienne Argent (AFD-SU-827) and
+— Location: Central Brazil (Amazon).
+— Specialization: Non-Natural Biological Organisms and Enclosures.
+— Culture: Adaptive and protective. Site-04 is the home of Vivienne Argent (AFD-SU-827) and
 the Paper Flower
 (AFD-NB-204). It is a "Neutral Good" paradise where we provide a natural home for
 anomalies that are victims of their
 own biology.
 
 ACT-SITE-05-ID-C: NUSANTARA DEEP RELAY
-*   Location: Central Indonesia (Archipelago).
-*   Specialization: Maritime, Tectonic, and Abyssal Watch.
-* Culture: Vigilant and technical. Site-05 monitors the Proto-Thal (AFD-NB-125) and serves as the
+— Location: Central Indonesia (Archipelago).
+— Specialization: Maritime, Tectonic, and Abyssal Watch.
+— Culture: Vigilant and technical. Site-05 monitors the Proto-Thal (AFD-NB-125) and serves as the
 primary relay for
 the Abyss Floor. They are the guardians of the Fault Lines, watching for any
 sign that the "Sleeper" is shifting.
@@ -357,9 +357,9 @@ Pulse." It will lead you back to the center.
 5. JURISDICTION AND ROUTING
 
 When a new anomaly is detected, the Intelligence Division determines its Routing.
-*   If it is a Subject needing care, it moves toward Site-04.
-*   If it is a Hazard needing ice, it moves toward Site-02.
-*   If it is a Signal needing silence, it moves toward Site-03.
+— If it is a Subject needing care, it moves toward Site-04.
+— If it is a Hazard needing ice, it moves toward Site-02.
+— If it is a Signal needing silence, it moves toward Site-03.
 
 We move anomalies across the map not because we are playing with them, but
 to find the place where their "Resonance"
@@ -404,7 +404,7 @@ of emotion. We do not "pity" the anomaly, nor
 do we "hate" it. We treat every subject as a set of variables that
 must be balanced. If we allow our feelings to
 dictate the change, we risk a "Narrative Feedback Loop" that can kill us all.
-* Why it is GOOD: The ultimate objective is the prevention of suffering. We
+— Why it is GOOD: The ultimate objective is the prevention of suffering. We
 transform the Paper Flower (AFD-NB-204)
 from a child's tragedy into a staff blessing. We transform NEMNOLIA (AFD-NB-004) from a
 memory-killer into the very
@@ -422,7 +422,7 @@ care sits somewhere on this scale.
 I. STABILIZATION (CALMING THE STORM)
 The first step is moving a subject from an "Agitated" state to a "Content"
 state.
-* *Example:* We provided Anny (AFD-SU-005) with books. This wasn't just to be "nice."
+— *Example:* We provided Anny (AFD-SU-005) with books. This wasn't just to be "nice."
 By allowing her to mimic
 19th-century literature, we "fixed" her linguistic glitches and stabilized her sense of self. She
 stopped being an
@@ -430,14 +430,14 @@ error and started being a person.
 
 II. REPURPOSING (FINDING A ROLE)
 Once stable, we ask: "Can this anomaly help us maintain the world?"
-* *Example:* The Infinite Water Jug (AFD-OB-492). It was once a religious artifact in
+— *Example:* The Infinite Water Jug (AFD-OB-492). It was once a religious artifact in
 a tomb. Now, it provides
 clean, microplastic-free water for the O5 Council. We didn't change its nature; we changed
 its job.
 
 III. INTEGRATION (BECOMING THE MACHINE)
 The final stage is when the anomaly becomes part of our very existence.
-* *Example:* 004-Series Amnestics. We don't even think of them as anomalies anymore. They
+— *Example:* 004-Series Amnestics. We don't even think of them as anomalies anymore. They
 are "Integrated Assets."
 They are the tools we use to maintain the "First Lie." We have successfully
 "harvested" a reality-break and turned it
@@ -538,9 +538,9 @@ not move in a seamless line, but in massive, recurring cycles.
 When a cycle completes, there is a Minor Pause—a trillionth of a second where
 reality "hesitates" before starting the
 next iteration. It is during these pauses that most anomalies emerge.
-* The Leak: Things from other cycles or "Exogenous Realities" (Reference: 715-Series) slip through
+— The Leak: Things from other cycles or "Exogenous Realities" (Reference: 715-Series) slip through
 the gap.
-* The Error: A law of physics fails to restart correctly, creating a permanent
+— The Error: A law of physics fails to restart correctly, creating a permanent
 "glitch" (e.g., an indestructible
 lizard or an infinite water jug).
 
@@ -569,10 +569,10 @@ II. THE FRACTURE INDEX (HOW IS IT BROKEN?)
 Sometimes, standard classification fails. We use the Fracture Index to describe anomalies that break
 our own
 documentation logic.
-*   ABSURD: The anomaly shouldn't fit in the box, but somehow it does.
-* UNAUTHORED: The anomaly rewrites its own file or changes its name when we
+— ABSURD: The anomaly shouldn't fit in the box, but somehow it does.
+— UNAUTHORED: The anomaly rewrites its own file or changes its name when we
 aren't looking.
-*   SCHRÖDINGER: The anomaly is only "contained" when we are actively watching it.
+— SCHRÖDINGER: The anomaly is only "contained" when we are actively watching it.
 
 5. THE FIRST ANCHOR: ITHYOS (AFD-CH-000)
 

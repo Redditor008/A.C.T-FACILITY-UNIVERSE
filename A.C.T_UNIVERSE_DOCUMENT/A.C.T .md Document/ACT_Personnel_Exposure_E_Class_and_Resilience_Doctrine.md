@@ -136,7 +136,7 @@ For that reason:
   exposure
   result unless a second
   approving authority is present;
-- personnel who cannot remember consenting require immediate review before further use;
+— personnel who cannot remember consenting require immediate review before further use;
   no file may imply that excommunication removes the fact that the subject is
   still
   a person.
@@ -318,7 +318,7 @@ The following are prohibited under this doctrine:
   the
   institutional
   violation;
-- keeping transformed personnel on payroll without identity review;
+— keeping transformed personnel on payroll without identity review;
   calling a person "asset" in medical-care files unless the person is no longer
   legally
   or cognitively addressable by

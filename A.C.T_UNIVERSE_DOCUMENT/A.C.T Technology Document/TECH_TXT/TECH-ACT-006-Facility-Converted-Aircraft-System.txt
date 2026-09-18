@@ -29,7 +29,7 @@ TECHNOLOGY RECORD - FACILITY CONVERTED AIRCRAFT SYSTEM
 |                            | access, RSA-rail calibration, and world-scale sample movement                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Restricted Technology Record  
+Archive Status: Active Restricted Technology Record
 Distribution: Logistics / Recovery / Engineering / Containment / Site Command / Civil Covert
 / Command
 Authority: Logistics Division, Recovery Division, Engineering Division, Containment Division, and Central Archive
@@ -98,10 +98,10 @@ FCA appears in five major roles:
 - oversized anomaly transport where RSA-equipped ground containers cannot maintain mass or geometry;
 - high-priority biological material movement to and from White Grave, Verde Null, and other
 specialized sites;
-- long-range recovery support when field teams must carry containment equipment into remote or
+— long-range recovery support when field teams must carry containment equipment into remote or
 unstable territory;
-- emergency evacuation of contained material from compromised facilities;
-- covert trans-regional logistics where public aviation records, customs, or road routes would create
+— emergency evacuation of contained material from compromised facilities;
+— covert trans-regional logistics where public aviation records, customs, or road routes would create
 exposure.
 
 Core mission rule:
@@ -415,17 +415,17 @@ OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
 
 - How much Cargo-Weight Stabilizer use changes landing consequence rather than true mass remains
 under study.
-- Can hostile GOIs identify FCA routes by tracking impossible weather gaps or boring
+— Can hostile GOIs identify FCA routes by tracking impossible weather gaps or boring
 radar behavior?
-- What happens if ARM skin fails while RSA rails remain active over a
+— What happens if ARM skin fails while RSA rails remain active over a
 populated area?
-- Can FCA safely move anomalies that define themselves by route, destination, or ownership
+— Can FCA safely move anomalies that define themselves by route, destination, or ownership
 chain?
-- How many remote airfield nodes are still safe after repeated use?
-- Does biological cargo adapt to FCA climate if transfer takes longer than planned?
-- Can QNB flight recorders preserve evidence if the aircraft arrives before it departed
+— How many remote airfield nodes are still safe after repeated use?
+— Does biological cargo adapt to FCA climate if transfer takes longer than planned?
+— Can QNB flight recorders preserve evidence if the aircraft arrives before it departed
 according to public logs?
-- Should A.C.T develop smaller FCA profiles, or does downscaling create too many visible
+— Should A.C.T develop smaller FCA profiles, or does downscaling create too many visible
 flights?
 
 ---

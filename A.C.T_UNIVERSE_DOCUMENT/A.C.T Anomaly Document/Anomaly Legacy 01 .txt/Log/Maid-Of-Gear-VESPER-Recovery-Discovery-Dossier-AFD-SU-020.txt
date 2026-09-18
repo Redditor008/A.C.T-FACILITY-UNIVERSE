@@ -340,9 +340,9 @@ WHAT SUCCEEDED:
 WHAT NEARLY FAILED:
    - Initial support personnel prepared standard armed perimeter too close to
      the subject.
-   - Technician Hartono almost scanned the sacral-spur region at close range.
-   - Transport latch noise triggered partial shield flex.
-   - Database file was almost opened on a networked analysis terminal before
+   — Technician Hartono almost scanned the sacral-spur region at close range.
+   — Transport latch noise triggered partial shield flex.
+   — Database file was almost opened on a networked analysis terminal before
      Archive quarantine order arrived.
 
 PRIMARY LESSON:

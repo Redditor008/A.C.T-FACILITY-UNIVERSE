@@ -22,8 +22,7 @@ condition destabilized it. If a source anomaly changed its behavior, someone had
 which environmental constants
 made its derivatives viable or lethal.
 
-A lie could survive in history.
-It had a harder time surviving in production.
+A lie could survive in history. It had a harder time surviving in production.
 
 Sera spent two days building a route into the restricted pharmacology layer without submitting
 a formal request. Not
@@ -61,12 +60,9 @@ a second.
 
 **yield instability follows dream-state irregularity**
 
-She read it again.
-Then again.
+She read it again. Then again.
 
-Not bloom-state.
-Not chamber-state.
-Not hydration variation or thermal imbalance.
+Not bloom-state. Not chamber-state. Not hydration variation or thermal imbalance.
 
 Dream-state irregularity.
 
@@ -102,8 +98,7 @@ corrosive secrecy tool in A.C.T history, depended not just on an anomalous plant
 on the sleep condition of the
 sleeping thing beneath the Earth.
 
-Not metaphorically.
-Operationally.
+Not metaphorically. Operationally.
 
 She opened the transformation logs next.
 
@@ -115,14 +110,10 @@ controlled horror. Early 004-series trials read like a catalog of memory damage 
 the name of refining
 mercy.
 
-004-H — survivable weakness  
-004-G — temporary blindness  
-004-F — liver contraction  
-004-E — neurological collapse  
-004-D — heart decay  
-004-C — violent blood rejection  
-004-B — coma  
-004-A — identity annihilation
+004-H — survivable weakness 004-G — temporary blindness 004-F — liver contraction 004-E —
+neurological collapse 004-D
+— heart decay 004-C — violent blood rejection 004-B — coma 004-A — identity
+annihilation
 
 The chart was bad enough on its own.
 
@@ -133,9 +124,8 @@ stability, contamination control, filtration sequence, sap purity. But some of t
 a secondary
 factor, later removed from summary versions.
 
-**dream-linked source response unstable**  
-**extraction quality decreased during lower tremor event**  
-**sap retained partial luminous coherence only after deep-state normalization**
+**dream-linked source response unstable** **extraction quality decreased during lower tremor event** **sap retained
+partial luminous coherence only after deep-state normalization**
 
 Deep-state normalization.
 
@@ -155,8 +145,8 @@ There it was.
 
 The thing nobody had been willing to preserve plainly.
 
-NEMNOLIA was not just connected to ITHYOS.
-It may have existed because ITHYOS remained asleep.
+NEMNOLIA was not just connected to ITHYOS. It may have existed because ITHYOS remained
+asleep.
 
 The bloom was not a separate tool later discovered and conveniently exploited by the
 Facility. It was part of the same
@@ -176,8 +166,7 @@ It would have looked like quarantine.
 
 The thought sickened her.
 
-Not because it was irrational.
-Because it was rational enough to work.
+Not because it was irrational. Because it was rational enough to work.
 
 She copied the relevant lines into her shadow file, then encrypted them again under
 a pharmacological cross-review
@@ -251,8 +240,8 @@ The words lodged in Sera’s chest.
 
 Consequence.
 
-Not because no one could know.
-Because knowing changed the shape of what had to be done afterward.
+Not because no one could know. Because knowing changed the shape of what had
+to be done afterward.
 
 Mila rested two fingers against the edge of the terminal. “If you follow this
 to the end, you won’t be choosing
@@ -280,10 +269,10 @@ section beneath the sleep-preservation model.
 **NEMNOLIA DREAM-STATE DEPENDENCY**
 
 Under it, she wrote:
-- 004-series viability linked to source-state stability  
-- source-state stability linked to abyssal condition  
-- abyssal condition most likely tied to ITHYOS dormancy  
-- bloom may be emergent expression of dream-state rather than independent flora  
+- 004-series viability linked to source-state stability
+- source-state stability linked to abyssal condition
+- abyssal condition most likely tied to ITHYOS dormancy
+- bloom may be emergent expression of dream-state rather than independent flora
 - amnestic infrastructure is therefore abyss-dependent at origin
 
 Then, after a very long time, she added the sentence she could no longer
@@ -295,11 +284,11 @@ thing it fears most.**
 She sat back and read it until the words stopped resembling thought and started
 resembling a verdict.
 
-Somewhere below every mapped floor, something slept.
-Somewhere above it, the bloom still secreted gold.
-And between them stretched the whole hidden body of A.C.T—archive, doctrine, amnestics, command, secrecy—all
-built on
-a relationship the founders had judged too dangerous to remember whole.
+Somewhere below every mapped floor, something slept. Somewhere above it, the bloom still secreted
+gold. And between
+them stretched the whole hidden body of A.C.T—archive, doctrine, amnestics, command, secrecy—all built on
+a
+relationship the founders had judged too dangerous to remember whole.
 
 Sera shut the file, killed the light, and lay awake in darkness with one
 unbearable understanding settling into

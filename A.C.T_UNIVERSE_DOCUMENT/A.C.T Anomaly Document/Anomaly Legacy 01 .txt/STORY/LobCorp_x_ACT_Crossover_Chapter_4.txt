@@ -498,56 +498,56 @@ END OF DAYS 14–16
 APPENDIX: E.G.O. Equipment Extracted from ACT Anomalies
 
 The Lonely Daughter's Apron
-- Source: F-05-201 — The Workshop Daughter
-- Type: Armor
-- Resistance: RED +0.4, WHITE +0.6, BLACK +0.3, PALE +0.2
-- Special Effect: Generates a protective field when the wearer is separated from allies.
+— Source: F-05-201 — The Workshop Daughter
+— Type: Armor
+— Resistance: RED +0.4, WHITE +0.6, BLACK +0.3, PALE +0.2
+— Special Effect: Generates a protective field when the wearer is separated from allies.
 The field redirects incoming
 damage toward nearby Abnormalities and grows stronger with prolonged isolation.
-- Memento: *"I will be good. I will be useful. Please come back."*
+— Memento: *"I will be good. I will be useful. Please come back."*
 
 The Thirsting Blade
-- Source: O-04-203 — The Thirst Above Hand
-- Type: Weapon
-- Damage: RED (7–9)
-- Attack Speed: Fast
-- Special Effect: Successful strikes drain health from the target and restore it to
+— Source: O-04-203 — The Thirst Above Hand
+— Type: Weapon
+— Damage: RED (7–9)
+— Attack Speed: Fast
+— Special Effect: Successful strikes drain health from the target and restore it to
 the wielder. After prolonged use,
 the wielder cannot sheathe the weapon until it has tasted blood.
-- Memento: *"It was waiting politely."*
+— Memento: *"It was waiting politely."*
 
 The Sleep-Stealer's Baton
-- Source: O-02-204 — The Dream Eater
-- Type: Weapon
-- Damage: WHITE (4–6)
-- Attack Speed: Average
-- Special Effect: Strikes induce deep sleep in targets. Targets already asleep have their
+— Source: O-02-204 — The Dream Eater
+— Type: Weapon
+— Damage: WHITE (4–6)
+— Attack Speed: Average
+— Special Effect: Strikes induce deep sleep in targets. Targets already asleep have their
 dreams consumed, dealing
 additional WHITE damage and leaving them unable to recall the dream.
-- Memento: *"That was the best sleep I ever had."*
+— Memento: *"That was the best sleep I ever had."*
 
 The Memory-Thief's Needle
-- Source: O-01-205 — NEMNOLIA, The Golden Veil
-- Type: Weapon
-- Damage: WHITE (5–7)
-- Attack Speed: Fast
-- Special Effect: Successful strikes cause the target to forget the last few seconds
+— Source: O-01-205 — NEMNOLIA, The Golden Veil
+— Type: Weapon
+— Damage: WHITE (5–7)
+— Attack Speed: Fast
+— Special Effect: Successful strikes cause the target to forget the last few seconds
 of combat. Employees struck by
 the needle also lose one traumatic memory at random. Repeated strikes cause cumulative identity
 erosion.
-- Memento: *"The flower remembers what you want to forget."*
+— Memento: *"The flower remembers what you want to forget."*
 
 ITHYOS — No E.G.O. Extracted
-- Status: Forbidden / Impossible
-- Reason: The Well could not transform ITHYOS. The serpent remains un-translated and uncontained.
+— Status: Forbidden / Impossible
+— Reason: The Well could not transform ITHYOS. The serpent remains un-translated and uncontained.
 Any attempt to
 harvest its dream or confront its self risks waking the entity. Doctrine remains: *Keep
 it asleep.*
 
 The Unfinished Measure — Refused E.G.O.
-- Source: T-01-201 — The Unfinished Measure
-- Status: No extraction possible
-- Reason: The anomaly has no completed self to offer. It is an infinite
+— Source: T-01-201 — The Unfinished Measure
+— Status: No extraction possible
+— Reason: The anomaly has no completed self to offer. It is an infinite
 hunger for endings. Any attempt to extract
 E.G.O. results in compulsion, self-harm, or disappearance. Containment only.
 

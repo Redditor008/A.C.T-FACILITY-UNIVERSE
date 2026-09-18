@@ -479,9 +479,9 @@ automatic loss of personhood.
   The group maintains refuge houses, care roles, rites, body maps, skin ledgers, and
   altered-family
   support practices.
-- Several interventions have reduced harm to transformed survivors.
-- The group can delay A.C.T custody, medical review, or containment transfer.
-- No confirmed evidence currently shows the group deliberately inducing transformation for recruitment.
+— Several interventions have reduced harm to transformed survivors.
+— The group can delay A.C.T custody, medical review, or containment transfer.
+— No confirmed evidence currently shows the group deliberately inducing transformation for recruitment.
 
 ### Active Intelligence Assessment
 
@@ -507,8 +507,8 @@ care.
   Are House Mothers and Shed Fathers elected, inherited, trained, or chosen by successful
   care
   outcomes?
-- Which rites are psychologically supportive, and which produce measurable anomalous effects?
-- How many Molt houses exist outside current A.C.T awareness?
+— Which rites are psychologically supportive, and which produce measurable anomalous effects?
+— How many Molt houses exist outside current A.C.T awareness?
   Has the group ever sheltered a person who later caused a breach because
   A.C.T
   was not notified?
@@ -518,7 +518,7 @@ care.
   What does the group do when a survivor wants reversal but the local
   house
   believes the new body should remain?
-- Are altered children protected differently from altered adults inside Molt doctrine?
+— Are altered children protected differently from altered adults inside Molt doctrine?
 
 ### Intelligence Confidence
 
@@ -553,7 +553,7 @@ determinations.
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational
   Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md`
-- Restricted transformation, altered-body, refuge, witness, medical aftercare, and family-continuance case chains held
+— Restricted transformation, altered-body, refuge, witness, medical aftercare, and family-continuance case chains held
   under Central Archive routing.
 
 ### Dual Filing

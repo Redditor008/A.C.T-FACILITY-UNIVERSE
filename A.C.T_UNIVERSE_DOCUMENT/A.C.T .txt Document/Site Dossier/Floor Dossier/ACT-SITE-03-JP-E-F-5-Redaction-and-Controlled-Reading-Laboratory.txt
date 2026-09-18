@@ -349,7 +349,7 @@ priorities include:
 - continued redaction support for the node's release obligations;
 - maintenance of the controlled-reading cells and memetic filtering
   infrastructure;
-- refinement of the node's redaction doctrine.
+— refinement of the node's redaction doctrine.
 
 ---
 

@@ -226,10 +226,10 @@ strongly assessed capabilities include:
 - custody trains modified for anomalous prisoner transport;
   survey guns that mark boundaries visible to some entities and invisible to most
   civilians;
-- tribunal rooms that pressure witnesses toward Authority classifications;
-- restraint doors that lock according to hazard label rather than physical key alone;
-- black ledgers that preserve prisoner categories after public records are altered;
-- field hospitals that stabilize captives primarily for interrogation, transfer, or labor.
+— tribunal rooms that pressure witnesses toward Authority classifications;
+— restraint doors that lock according to hazard label rather than physical key alone;
+— black ledgers that preserve prisoner categories after public records are altered;
+— field hospitals that stabilize captives primarily for interrogation, transfer, or labor.
 
 The Authority's technology requires later individual technology documents. Suppression collars, survey guns, custody
 trains, black ledgers, and restraint doors are priority candidates once the GOI creation phase
@@ -458,11 +458,11 @@ naming its abuse.
 
   Iron Meridian Authority is an outside hostile containment institution and not an A.C.T
   branch.
-- It claims emergency jurisdiction over anomalous zones and exposed persons.
-- It maintains detention sites, tribunals, transport systems, and suppression devices.
-- It has used altered civilians and survivors as forced labor or classified assets.
-- It has obstructed A.C.T recovery operations and attempted access to A.C.T-adjacent records.
-- Its containment capability is real enough to be operationally dangerous.
+— It claims emergency jurisdiction over anomalous zones and exposed persons.
+— It maintains detention sites, tribunals, transport systems, and suppression devices.
+— It has used altered civilians and survivors as forced labor or classified assets.
+— It has obstructed A.C.T recovery operations and attempted access to A.C.T-adjacent records.
+— Its containment capability is real enough to be operationally dangerous.
 
 ### Active Intelligence Assessment
 
@@ -486,14 +486,14 @@ separate ordinary corruption, human-rights abuse, and anomalous evidence with ca
   Does the Prime Meridian Seat exist, or is it only a symbolic authority
   used
   by local Governors?
-- Which governments, corporations, or emergency ministries have signed actual Meridian charters?
-- How many detention corridors remain unknown to A.C.T?
-- Can suppression collars be removed safely after long-term use?
+— Which governments, corporations, or emergency ministries have signed actual Meridian charters?
+— How many detention corridors remain unknown to A.C.T?
+— Can suppression collars be removed safely after long-term use?
   Are black ledgers anomalous, or are they hardened record systems designed to survive
   normalcy
   alteration?
-- How many A.C.T cover entities have been approached by Meridian charter lawyers?
-- Has Iron Meridian captured or copied technology from Mercy Lock Institute?
+— How many A.C.T cover entities have been approached by Meridian charter lawyers?
+— Has Iron Meridian captured or copied technology from Mercy Lock Institute?
   Do some entities prefer Meridian custody because it concentrates fear, pain, or names
   inside
   a line?

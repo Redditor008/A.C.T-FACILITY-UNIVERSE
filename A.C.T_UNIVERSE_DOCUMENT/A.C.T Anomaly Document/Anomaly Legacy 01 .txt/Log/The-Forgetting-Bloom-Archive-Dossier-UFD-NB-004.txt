@@ -2,7 +2,7 @@ A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER
 The-Forgetting-Bloom-Archive-Dossier-UFD-NB-004
 
 ═══════════════════════════════════════════════════════════════════════
-         A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER         
+         A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER
                      Anomaly Containment Transformation
 ═══════════════════════════════════════════════════════════════════════
 
@@ -28,7 +28,7 @@ ARCHIVE STATUS:      Sealed / restricted distribution
 DOSSIER STATUS:      Closed record — archival oversight
 
 ═══════════════════════════════════════════════════════════════════════
-                           CATEGORY CONTENTS                           
+                           CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
 This dossier belongs to A.C.T Log Category VII — Recovered Document & Archive
@@ -56,7 +56,7 @@ and transition history — so that UFD-NB-004 stands as the distinct early
 intake document it is, separate from the AFD record of the same subject.
 
 ═══════════════════════════════════════════════════════════════════════
-   SECTION 001 — SEALED-RECORD REGISTER — AUTHORITY AND DISTRIBUTION   
+   SECTION 001 — SEALED-RECORD REGISTER — AUTHORITY AND DISTRIBUTION
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              UFD-NB-004/ARC-001
@@ -78,7 +78,7 @@ neither cloned into the AFD file nor replaced by it. Both intake records
 remain on file, separate.
 
 ═══════════════════════════════════════════════════════════════════════
-          SECTION 002 — INITIAL RECORD — INTAKE DOCUMENTATION          
+          SECTION 002 — INITIAL RECORD — INTAKE DOCUMENTATION
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              UFD-NB-004/ARC-002
@@ -107,7 +107,7 @@ improperly inhaled in concentrated form, the sap causes immediate and often
 irreversible memory erasure.
 
 ═══════════════════════════════════════════════════════════════════════
-              SECTION 003 — OBSERVED PROPERTIES REGISTER               
+              SECTION 003 — OBSERVED PROPERTIES REGISTER
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              UFD-NB-004/ARC-003
@@ -123,10 +123,10 @@ OBSERVED PROPERTIES (as recorded in the UFD intake):
    - Its golden sap directly attacks memory continuity
    - Subjects may remain conscious while losing recent or long-term memory
      structure
-   - Overexposure causes severe biological damage in addition to memory loss
+   — Overexposure causes severe biological damage in addition to memory loss
 
 ═══════════════════════════════════════════════════════════════════════
-          SECTION 004 — EARLY CONCLUSION AND INTAKE JUDGMENT           
+          SECTION 004 — EARLY CONCLUSION AND INTAKE JUDGMENT
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              UFD-NB-004/ARC-004
@@ -147,7 +147,7 @@ written in the unfiled record, is the origin of the transformation path later
 completed under the AFD-NB-004 filing.
 
 ═══════════════════════════════════════════════════════════════════════
-       SECTION 005 — INITIAL DIRECTIVE — THE SIX STANDING RULES        
+       SECTION 005 — INITIAL DIRECTIVE — THE SIX STANDING RULES
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              UFD-NB-004/ARC-005
@@ -169,7 +169,7 @@ ARCHIVE NOTE: These six rules are the seed of the cultivation and exposure
 doctrine now standing under AFD-NB-004.
 
 ═══════════════════════════════════════════════════════════════════════
-      SECTION 006 — HISTORICAL NOTE AND CLOSING ARCHIVE STATEMENT      
+      SECTION 006 — HISTORICAL NOTE AND CLOSING ARCHIVE STATEMENT
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              UFD-NB-004/ARC-CLS-001

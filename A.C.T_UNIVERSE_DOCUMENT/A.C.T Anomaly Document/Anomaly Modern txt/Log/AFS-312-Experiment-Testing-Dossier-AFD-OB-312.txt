@@ -2,7 +2,7 @@ A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 AFS-312-Experiment-Testing-Dossier-AFD-OB-312
 
 ═══════════════════════════════════════════════════════════════════════
-             A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER             
+             A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
 ═══════════════════════════════════════════════════════════════════════
 
@@ -21,7 +21,7 @@ ARCHIVE STATUS:      Active / Tactical-discharge restricted
 DOSSIER STATUS:      Open — authorized testing under ballistic-vacuum protocol
 
 ═══════════════════════════════════════════════════════════════════════
-                           CATEGORY CONTENTS                           
+                           CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
 This dossier belongs to A.C.T Log Category IV — Experiment & Testing Dossier.
@@ -48,7 +48,7 @@ charge mechanics, so that authorized breach-suppression use rests on tested
 fact rather than manufacturer legend.
 
 ═══════════════════════════════════════════════════════════════════════
-      SECTION 001 — CHARGE-CYCLE AND SOLAR-ABSORPTION CALIBRATION      
+      SECTION 001 — CHARGE-CYCLE AND SOLAR-ABSORPTION CALIBRATION
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-312/EXP-001
@@ -68,14 +68,14 @@ CALIBRATION RECORD:
    - Recharge behavior: 20-minute cooldown per single charge refill
    - Technicians attribute the cooldown to a safety limitation preventing the
      [ REDACTED ] cooling pipes from melting
-   - Core temperature held stable at 15°C via the Cryo-Seismic Stabilizer
+   — Core temperature held stable at 15°C via the Cryo-Seismic Stabilizer
      (Item 26) loop
-   - The ten (10) Rotating Power-Charge Discs are inspected remotely every 30
+   — The ten (10) Rotating Power-Charge Discs are inspected remotely every 30
      days; spin without a charge-command triggers a Static-Purge of the
      chamber
 
 ═══════════════════════════════════════════════════════════════════════
-       SECTION 002 — DISCHARGE PROTOCOL — 50% WEAK SCATTER SHOT        
+       SECTION 002 — DISCHARGE PROTOCOL — 50% WEAK SCATTER SHOT
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-312/EXP-002
@@ -99,7 +99,7 @@ OBSERVED CHARACTERISTICS:
    - Residual ionization stabilized post-test with the RSA (Item 01)
 
 ═══════════════════════════════════════════════════════════════════════
-      SECTION 003 — DISCHARGE PROTOCOL — 100% FOCUSED CHARGE SHOT      
+      SECTION 003 — DISCHARGE PROTOCOL — 100% FOCUSED CHARGE SHOT
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-312/EXP-003
@@ -125,7 +125,7 @@ RESTRICTIONS:
      Site-01
 
 ═══════════════════════════════════════════════════════════════════════
-           SECTION 004 — DISCHARGE PROTOCOL — 10% MULTI-SHOT           
+           SECTION 004 — DISCHARGE PROTOCOL — 10% MULTI-SHOT
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-312/EXP-004
@@ -148,7 +148,7 @@ OBSERVED CHARACTERISTICS:
    - Recharge requirement unchanged: 20 minutes per full refill
 
 ═══════════════════════════════════════════════════════════════════════
-    SECTION 005 — 2023 CALIBRATION ANOMALY — GUILD REGISTRY MESSAGE    
+    SECTION 005 — 2023 CALIBRATION ANOMALY — GUILD REGISTRY MESSAGE
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-312/EXP-005
@@ -168,13 +168,13 @@ ANALYSIS:
 
    - The display normally reports Charge Percentage, Core Temperature, and
      Causal Alignment only
-   - The hardware carries manufacturing stamps from an unidentified future
+   — The hardware carries manufacturing stamps from an unidentified future
      era and its internal OS operates on [ REDACTED ] logic gates
-   - The message provides a possible causal link to the origin of AFD-SU-020
+   — The message provides a possible causal link to the origin of AFD-SU-020
      (Vesper) and is retained under Tactical Review Desk jurisdiction
 
 ═══════════════════════════════════════════════════════════════════════
-                  SECTION 006 — CLOSING TESTING NOTE                   
+                  SECTION 006 — CLOSING TESTING NOTE
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-312/EXP-CLS-001

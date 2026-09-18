@@ -181,11 +181,11 @@ OPEN QUESTIONS
 
 - When does a derivative stop being the same anomalous media and become a
 new object?
-- Can public removal ever be more dangerous than leaving a weak copy unnoticed?
-- Should harmless discussion of dangerous media be tracked as propagation?
-- How many screenshots equal a breach when none of them individually activates?
-- Can a transcript carry the same hazard as the recording it describes?
-- Does tracking a file's path teach the file new paths through the tracker?
+— Can public removal ever be more dangerous than leaving a weak copy unnoticed?
+— Should harmless discussion of dangerous media be tracked as propagation?
+— How many screenshots equal a breach when none of them individually activates?
+— Can a transcript carry the same hazard as the recording it describes?
+— Does tracking a file's path teach the file new paths through the tracker?
 
 FILE METADATA
 

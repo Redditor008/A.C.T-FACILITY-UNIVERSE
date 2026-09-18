@@ -173,9 +173,9 @@ SCRC doctrine holds that normalcy is strongest when it has real weight behind it
 
 - ACT-SITE-05-ID-C-F-6 Surface Research and Transition Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-5 Personnel and Command Level Floor Dossier;
-- TECH-ACT-055 - Silent Boundary System;
-- TECH-ACT-076 - Command Communications Nexus;
-- TECH-ACT-080 - Concealed Transition Access Architecture;
+- TECH-ACT-055 — Silent Boundary System;
+- TECH-ACT-076 — Command Communications Nexus;
+- TECH-ACT-080 — Concealed Transition Access Architecture;
 - Nusantara public program ledgers [restricted].
 
 ---
@@ -184,20 +184,18 @@ SCRC doctrine holds that normalcy is strongest when it has real weight behind it
 
   How much real publication can the campus support before research partners become exposure
   risks?
-- Which visible instruments best explain deeper monitoring without revealing it?
-- Can legitimate science accidentally discover the concealed work it protects?
-- How should the campus respond when public truth and A.C.T secrecy conflict?
-- Should civilian collaborators ever be quietly steered away from certain research questions?
-- When does cover strengthening become operational distraction?
+— Which visible instruments best explain deeper monitoring without revealing it?
+— Can legitimate science accidentally discover the concealed work it protects?
+— How should the campus respond when public truth and A.C.T secrecy conflict?
+— Should civilian collaborators ever be quietly steered away from certain research questions?
+— When does cover strengthening become operational distraction?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15
-**Author Desk:** Campus Director / Relay Administration / Central Archive
-**Review Status:** Active surface-cover record; live cover identities, public partners, transition-adjacent zones, and
-exposure incident files censored
-**Next Review:** After any public audit, contractor route change, publication dispute, surface exposure event,
-port
-scrutiny incident, or concealed-transition alarm
+**Created:** 2026-09-15 **Author Desk:** Campus Director / Relay Administration / Central Archive **Review Status:**
+Active surface-cover record; live cover identities, public partners, transition-adjacent zones, and exposure incident
+files censored **Next Review:** After any public audit, contractor route change, publication dispute, surface
+exposure
+event, port scrutiny incident, or concealed-transition alarm

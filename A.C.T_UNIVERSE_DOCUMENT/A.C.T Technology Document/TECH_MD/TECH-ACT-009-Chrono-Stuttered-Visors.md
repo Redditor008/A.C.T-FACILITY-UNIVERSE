@@ -79,8 +79,8 @@ Approved uses include:
   temporal vault monitoring where a moving part or liquid state may imprint on
   the
   viewer;
-- training drills for personnel learning delayed observation discipline;
-- archive review of footage that cannot be watched raw.
+— training drills for personnel learning delayed observation discipline;
+— archive review of footage that cannot be watched raw.
 
 ---
 
@@ -257,13 +257,13 @@ receives the exact look it wanted.
 
   Which hazards can learn to attack the delayed image rather than the direct
   viewer?
-- Is 0.5 seconds ideal, or only the safest general compromise discovered so far?
-- Can CSV delay create false memories when used near Causal-Reactive Mercury?
+— Is 0.5 seconds ideal, or only the safest general compromise discovered so far?
+— Can CSV delay create false memories when used near Causal-Reactive Mercury?
   How many times can a visor safely display the same hazardous frame before
   the
   frame becomes an object of study itself?
-- Should full-face biological units include automatic 004 aftercare prompts after visor breach?
-- Can hostile GOIs spoof low hazard probability readings to encourage visor lifting?
+— Should full-face biological units include automatic 004 aftercare prompts after visor breach?
+— Can hostile GOIs spoof low hazard probability readings to encourage visor lifting?
   Are some visual anomalies more aggressive when they realize they are being watched
   late?
 
@@ -271,10 +271,8 @@ receives the exact look it wanted.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Field Safety Desk / Info-Hazard Division / Temporal Analysis Desk / Central
-Archive
-**Review Status:** Active restricted record; delay thresholds and processor logic censored  
-**Next Review:** After any visual imprint, temporal vault visor failure, biological flash incident, or
-feed
-contamination event
+**Created:** 2026-09-15 **Author Desk:** Field Safety Desk / Info-Hazard Division / Temporal Analysis Desk
+/ Central
+Archive **Review Status:** Active restricted record; delay thresholds and processor logic censored **Next Review:**
+After any visual imprint, temporal vault visor failure, biological flash incident, or feed contamination
+event

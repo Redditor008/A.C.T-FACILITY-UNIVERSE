@@ -185,12 +185,12 @@ floor.
 F-3's plan is organized around water-capable holding infrastructure:
 - the intake and assessment bays, where recovered material is received and
   assigned;
-- the water-capable containment chambers;
-- the pressure-rated environments;
-- the climate-controlled holding units;
-- the monitoring galleries;
-- the handling and transport corridors;
-- the floor command post and support services.
+— the water-capable containment chambers;
+— the pressure-rated environments;
+— the climate-controlled holding units;
+— the monitoring galleries;
+— the handling and transport corridors;
+— the floor command post and support services.
 
 7.2 The Water-Capable Containment Chambers
 
@@ -260,9 +260,9 @@ physical entry.
 F-3 maintains standing transfer procedures:
 - material demonstrating deep sensitivity moves downward under restricted
   procedure;
-- material approved for research moves upward to the laboratory level under
+— material approved for research moves upward to the laboratory level under
   documented sample control;
-- water-capable material may be transferred to the port facility's
+— water-capable material may be transferred to the port facility's
   containment or the relay's specialized vessels under the maritime holding
   doctrine.
 

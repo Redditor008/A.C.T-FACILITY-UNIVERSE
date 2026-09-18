@@ -2,7 +2,7 @@ A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
 Ball-of-Knife-Behavioral-Observation-Dossier-AFD-OB-502
 
 ═══════════════════════════════════════════════════════════════════════
-           A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER           
+           A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
                      Anomaly Containment Transformation
 ═══════════════════════════════════════════════════════════════════════
 
@@ -23,7 +23,7 @@ ARCHIVE STATUS:      Active / Combat-anomaly restricted
 DOSSIER STATUS:      Open — continuous observation under magnetic lock
 
 ═══════════════════════════════════════════════════════════════════════
-                           CATEGORY CONTENTS                           
+                           CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
 This dossier belongs to A.C.T Log Category VIII — Behavioral & Observation
@@ -50,7 +50,7 @@ reconfiguration attempts, provocation states, and containment stress are
 recognized the moment they begin.
 
 ═══════════════════════════════════════════════════════════════════════
-         SECTION 001 — MAGNETIC-RESTRAINT AND VIBRATION WATCH          
+         SECTION 001 — MAGNETIC-RESTRAINT AND VIBRATION WATCH
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-502/OBS-001
@@ -69,13 +69,13 @@ VIBRATION WATCH:
    - Vibration levels monitored continuously (gravimetric and acoustic)
    - Rhythmic "Clicking" or "Grinding" above 40 dB indicates an attempt to
      reconfigure the wire-lattice to bypass the magnetic flux
-   - Required watch: 2 magnetic-field technicians, 1 remote operator
-   - Cadence: continuous monitoring / weekly electromagnetic stress-test
+   — Required watch: 2 magnetic-field technicians, 1 remote operator
+   — Cadence: continuous monitoring / weekly electromagnetic stress-test
 
 OBSERVER NOTE: The clicking is not noise. It is the subject thinking in tools.
 
 ═══════════════════════════════════════════════════════════════════════
-        SECTION 002 — AGGRESSION AND LIFE-SEEKING BEHAVIOR LOG         
+        SECTION 002 — AGGRESSION AND LIFE-SEEKING BEHAVIOR LOG
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-502/OBS-002
@@ -88,11 +88,11 @@ BEHAVIORAL BASELINE:
 
    - Detects living organisms with 100% accuracy within its 50 m active
      radius despite possessing no eyes, ears, or nervous tissue
-   - When unrestrained, moves by rolling, lunging, and spinning at high
+   — When unrestrained, moves by rolling, lunging, and spinning at high
      velocity
-   - Targets any biological organism in its vicinity, attempting to slice,
+   — Targets any biological organism in its vicinity, attempting to slice,
      cut, chop, and stab until the target is effectively disarticulated
-   - "Hate" intensifies the closer the subject gets to a living Heart-Signal
+   — "Hate" intensifies the closer the subject gets to a living Heart-Signal
 
 DISCOVERY CONTEXT:
 
@@ -103,7 +103,7 @@ failure. Its behavior has not changed since recovery. It was not learning; it
 was already complete.
 
 ═══════════════════════════════════════════════════════════════════════
-       SECTION 003 — HATE-SIGNAL MONITORING — PSYCHOLOGICAL NOTE       
+       SECTION 003 — HATE-SIGNAL MONITORING — PSYCHOLOGICAL NOTE
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-502/OBS-003
@@ -128,7 +128,7 @@ subject. Observation shifts are capped, and no personnel are assigned to the
 vault long enough to mistake its contempt for a message.
 
 ═══════════════════════════════════════════════════════════════════════
-     SECTION 004 — WIRE-LATTICE ACTIVITY — THE 'QUIT' OBSERVATION      
+     SECTION 004 — WIRE-LATTICE ACTIVITY — THE 'QUIT' OBSERVATION
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-502/OBS-004
@@ -149,7 +149,7 @@ doctrine, it is a command to the Facility to stop existing. The word is
 treated as threat language, not negotiation.
 
 ═══════════════════════════════════════════════════════════════════════
-      SECTION 005 — 2011 BREACH REVIEW — DOOR VIBRATIONAL BYPASS       
+      SECTION 005 — 2011 BREACH REVIEW — DOOR VIBRATIONAL BYPASS
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-502/OBS-005
@@ -170,12 +170,12 @@ CONTAINMENT UPDATES AFTER REVIEW:
 
    - Emergency seal: vault floods with high-density quick-setting polymer on
      power failure to delay burrowing until the field is restored
-   - No biological entry at any activity state
-   - Standard steel doors replaced with magnetic-lock assemblies in the
+   — No biological entry at any activity state
+   — Standard steel doors replaced with magnetic-lock assemblies in the
      containment wing
 
 ═══════════════════════════════════════════════════════════════════════
-              SECTION 006 — CLOSING OBSERVATION STATEMENT              
+              SECTION 006 — CLOSING OBSERVATION STATEMENT
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-502/OBS-CLS-001

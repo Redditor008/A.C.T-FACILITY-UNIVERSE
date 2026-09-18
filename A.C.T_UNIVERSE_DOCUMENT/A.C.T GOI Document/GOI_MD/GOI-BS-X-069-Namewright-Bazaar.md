@@ -481,16 +481,16 @@ supply-chain evidence remains incomplete.
   markets?
   Are Ledger Mothers human title holders, inherited roles, or living ledgers using human
   agents?
-- How many A.C.T cover identities have been tested, priced, or sold?
+— How many A.C.T cover identities have been tested, priced, or sold?
   Can a name be fully restored after being cut from family, school, clinic,
   and
   legal record at once?
-- What does old debt may answer at churches mean in sale warnings?
+— What does old debt may answer at churches mean in sale warnings?
   Do non-human attachments, such as pets, houses, graves, or entities, resist name theft
   more
   strongly than
   institutions?
-- Can NEMNOLIA-series amnestic protocols worsen name instability if used before identity mapping?
+— Can NEMNOLIA-series amnestic protocols worsen name instability if used before identity mapping?
   What happens to future children bound as payment if the original debtor dies
   nameless?
 

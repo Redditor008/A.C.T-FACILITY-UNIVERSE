@@ -186,12 +186,12 @@ floor and between floors.
 F-3's plan is organized around storage rows and quarantine cells:
 - the intake and assessment bays, where confirmed anomalous material is
   received and assigned;
-- the general anomalous document storage rows;
-- the document quarantine cells;
-- the signal-isolated storage units;
-- the monitoring galleries;
-- the handling and transport corridors;
-- the floor command post and support services.
+— the general anomalous document storage rows;
+— the document quarantine cells;
+— the signal-isolated storage units;
+— the monitoring galleries;
+— the handling and transport corridors;
+— the floor command post and support services.
 
 7.2 The Storage Rows
 
@@ -273,9 +273,9 @@ assessment.
 F-3 maintains standing transfer procedures:
 - material demonstrating memetic or infohazard properties moves downward to
   F-2 under restricted-vault procedure;
-- material approved for research moves upward to F-4 under documented
+— material approved for research moves upward to F-4 under documented
   sample control;
-- material cleared of anomalous character returns to the node's general
+— material cleared of anomalous character returns to the node's general
   archival processing.
 
 ---

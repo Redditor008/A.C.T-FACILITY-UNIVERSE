@@ -210,7 +210,7 @@ absence.
 
 - ACT Technological Master Index 50, Item 33;
 - ACT Technological Visual Reference Guide, Item 33;
-- TECH-ACT-004 - 004-Series Amnestic Compound System;
+- TECH-ACT-004 — 004-Series Amnestic Compound System;
 - ACT Personnel Exposure E-Class and Resilience Doctrine;
 - Info-Hazard Division filter-list ledger [restricted];
 - Medical implant aftercare records [restricted].
@@ -228,15 +228,14 @@ absence.
   Can hostile groups design hazards that ride the permitted edges of a known
   filter
   list?
-- Does long-term NL-004 use change how a person trusts their own recall?
-- What removal procedure preserves the patient without releasing retained residue?
+— Does long-term NL-004 use change how a person trusts their own recall?
+— What removal procedure preserves the patient without releasing retained residue?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Medical Division / Info-Hazard Division / Central Archive  
-**Review Status:** Active restricted record; filter lists and receiver tuning censored  
-**Next Review:** After any overfilter incident, unauthorized expansion request, signal-sink saturation, or implant
-removal review
+**Created:** 2026-09-15 **Author Desk:** Medical Division / Info-Hazard Division / Central Archive **Review Status:**
+Active restricted record; filter lists and receiver tuning censored **Next Review:** After any overfilter
+incident,
+unauthorized expansion request, signal-sink saturation, or implant removal review

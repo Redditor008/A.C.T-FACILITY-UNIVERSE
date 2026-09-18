@@ -207,10 +207,10 @@ the room has stopped listening.
 
 - ACT Technological Master Index 50, Item 50;
 - ACT Technological Visual Reference Guide, Item 50;
-- TECH-ACT-029 - Cryogenic Biological Isolation Units;
-- TECH-ACT-033 - Abyssal Masonry;
-- TECH-ACT-034 - Abyssal Anchor Plating;
-- TECH-ACT-042 - Refined Steel-Dirt;
+- TECH-ACT-029 — Cryogenic Biological Isolation Units;
+- TECH-ACT-033 — Abyssal Masonry;
+- TECH-ACT-034 — Abyssal Anchor Plating;
+- TECH-ACT-042 — Refined Steel-Dirt;
 - AFS-312 Anti Force Shock, AFD-OB-312;
 - DONT DENIED, AFD-IH-721;
 - Dark World Door Blue Dirt Reactivity Dossier;
@@ -233,8 +233,7 @@ the room has stopped listening.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Materials Custody / Abyss Engineering / Central Archive  
-**Review Status:** Active anomalous material record; extraction routes and structural code system censored  
-**Next Review:** After any mass-shift alarm, edge glassing, railgun retest, vault retrofit, or new
-Abyss extraction
+**Created:** 2026-09-15 **Author Desk:** Materials Custody / Abyss Engineering / Central Archive **Review Status:**
+Active anomalous material record; extraction routes and structural code system censored **Next Review:** After
+any
+mass-shift alarm, edge glassing, railgun retest, vault retrofit, or new Abyss extraction

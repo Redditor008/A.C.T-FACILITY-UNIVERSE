@@ -125,10 +125,10 @@ standing its expanded role required.
 Today the relay functions as:
 - a temporary holding point for low-threat recovered anomalies awaiting
   transfer to the parent site
-- a witness processing and sanitation center
-- an archive relay node buffering material between field operations and the
+— a witness processing and sanitation center
+— an archive relay node buffering material between field operations and the
   parent site's archive
-- an overflow intake point for the parent site's containment congestion
+— an overflow intake point for the parent site's containment congestion
 
 ---
 

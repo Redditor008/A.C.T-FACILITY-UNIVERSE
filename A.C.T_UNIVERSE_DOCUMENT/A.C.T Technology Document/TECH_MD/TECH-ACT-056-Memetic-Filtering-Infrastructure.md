@@ -207,8 +207,8 @@ A mask can slip.
 - ACT-SITE-03-JP-E-F-5 Redaction and Controlled-Reading Laboratory Floor Dossier;
 - ACT Complete Designation and Class Reference, Redaction and Suppression Markers;
 - ACT Anomaly Classification Manual Archive, Information Suppression and Redaction Format;
-- TECH-ACT-011 - Narrative Seal Varnish;
-- TECH-ACT-020 - Regression-Resistant Ink;
+- TECH-ACT-011 — Narrative Seal Varnish;
+- TECH-ACT-020 — Regression-Resistant Ink;
 - Kurokawa controlled-reading incident ledgers [restricted];
 - Filter-setting schematics [restricted].
 
@@ -221,18 +221,16 @@ A mask can slip.
   How many filtered readings can one person safely perform before accumulated structure matters
   more
   than exposure time?
-- Should filtered copies decay after authorization expires?
-- Can hostile documents learn the filter settings from repeated sessions?
-- Is there a safe way to filter emotional meaning without destroying evidence?
-- Which documents should never be filtered because filtering itself counts as engagement?
+— Should filtered copies decay after authorization expires?
+— Can hostile documents learn the filter settings from repeated sessions?
+— Is there a safe way to filter emotional meaning without destroying evidence?
+— Which documents should never be filtered because filtering itself counts as engagement?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Kurokawa Redaction Chief / Archiver Division / Central Archive  
-**Review Status:** Active archive safety technology record; cell schematics and filter algorithms censored  
-**Next Review:** After any filtering failure, reader exposure event, unauthorized reading attempt, release dispute,
-or
-filter-setting revision
+**Created:** 2026-09-15 **Author Desk:** Kurokawa Redaction Chief / Archiver Division / Central Archive **Review
+Status:** Active archive safety technology record; cell schematics and filter algorithms censored **Next Review:**
+After any filtering failure, reader exposure event, unauthorized reading attempt, release dispute, or filter-setting
+revision

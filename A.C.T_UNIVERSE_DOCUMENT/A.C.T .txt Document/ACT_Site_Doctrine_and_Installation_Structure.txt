@@ -85,19 +85,19 @@ or regional command structure.
 4. Difference Between SITE and SUB-SITE
 
 SITE
-- full-scale
-- command-bearing
-- operationally broad
-- structurally complete
-- often multi-division
-- capable of independent long-term anomaly management
+— full-scale
+— command-bearing
+— operationally broad
+— structurally complete
+— often multi-division
+— capable of independent long-term anomaly management
 
 SUB-SITE
-- narrower in purpose
-- lower in institutional scale
-- usually attached to a parent SITE or command region
-- specialized in one role, one geography, or one anomaly profile
-- limited in sovereignty even when highly important
+— narrower in purpose
+— lower in institutional scale
+— usually attached to a parent SITE or command region
+— specialized in one role, one geography, or one anomaly profile
+— limited in sovereignty even when highly important
 
 The difference is not one of importance alone. It is one of:
 - scale
@@ -175,11 +175,11 @@ Where:
 
 8. Regional Area Code Standard
 The final regional code marks broad site placement.
-- N = North
-- S = South
-- W = West
-- E = East
-- C = Central
+— N = North
+— S = South
+— W = West
+— E = East
+— C = Central
 
 Example:
 - ACT-SITE-01-US-W

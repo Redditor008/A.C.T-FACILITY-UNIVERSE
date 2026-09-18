@@ -181,9 +181,9 @@ years to repeat itself.
 ## CROSS-REFERENCES
 
 - ACT-SITE-05-ID-C-F-2 Deep Monitoring and Restricted Records Floor Dossier;
-- TECH-ACT-070 - Deep Monitoring Processing Center;
-- TECH-ACT-069 - Abyss-Linked Observation Recording System;
-- TECH-ACT-003 - Quantum Narrative Buffer System;
+- TECH-ACT-070 — Deep Monitoring Processing Center;
+- TECH-ACT-069 — Abyss-Linked Observation Recording System;
+- TECH-ACT-003 — Quantum Narrative Buffer System;
 - Nusantara seismic record ledgers [restricted];
 - Nusantara baseline comparison registers [restricted].
 
@@ -202,8 +202,8 @@ years to repeat itself.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15
-**Author Desk:** Archive Division / Records and Monitoring Chief / Central Archive
-**Review Status:** Active records-vault technology; storage maps, baseline sets, and reclassification ledgers censored
-**Next Review:** After any missing record, baseline dispute, sensor-health mismatch, reclassification event,
-environmental vault fault, or unauthorized comparison request
+**Created:** 2026-09-15 **Author Desk:** Archive Division / Records and Monitoring Chief / Central Archive
+**Review
+Status:** Active records-vault technology; storage maps, baseline sets, and reclassification ledgers censored **Next
+Review:** After any missing record, baseline dispute, sensor-health mismatch, reclassification event, environmental
+vault fault, or unauthorized comparison request

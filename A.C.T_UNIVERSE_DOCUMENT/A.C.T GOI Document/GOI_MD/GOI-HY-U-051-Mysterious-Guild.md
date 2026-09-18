@@ -96,16 +96,13 @@ and civilian integrations after disconnection were scrubbed to preserve tactical
 
 A.C.T therefore treats the Guild's concealment as double-layered:
 
-  it may be hidden because it is displaced from another time or structural
-  condition;
-  it may be hidden because its own archive censors the parts that would
-  explain
-  it;
-  it may be hidden because no Guild remains active and only machine-record fragments
-  survive;
-  it may be hidden because the Guild is watching whether A.C.T completes the
-  missing
-  pattern.
+it may be hidden because it is displaced from another time or structural condition;
+it may be hidden because its own
+archive censors the parts that would explain it; it may be hidden because no
+Guild remains active and only
+machine-record fragments survive; it may be hidden because the Guild is watching whether A.C.T
+completes the missing
+pattern.
 
 ---
 
@@ -130,22 +127,22 @@ Guild charter, oath, payroll, command roster, founding declaration, or surrender
 
 The following internal or associated structures are confirmed or strongly indicated by recovered material:
 
-  **Guild Registry** - a maintenance, indexing, and authority layer tied to equipment messages
+  **Guild Registry** — a maintenance, indexing, and authority layer tied to equipment messages
   and
   operative records.
-- **GUILD_WIKI / VESPERSYS** - archive and encyclopedia structure containing tactical and clinical records.
-- **Vanguard Division** - named in VESPER-related material and likely attached to OMEGA-level deployment.
-- **MNT Program** - inferred from MNT-092 designation, OMEGA-platform records, and operative conversion language.
-- **Ghost File system** - record erasure condition after high-grade operations.
-  **OMEGA-KERN / Gamification Protocol control layer** - neural operating framework that converts reality
+— **GUILD_WIKI / VESPERSYS** — archive and encyclopedia structure containing tactical and clinical records.
+— **Vanguard Division** — named in VESPER-related material and likely attached to OMEGA-level deployment.
+— **MNT Program** — inferred from MNT-092 designation, OMEGA-platform records, and operative conversion language.
+— **Ghost File system** — record erasure condition after high-grade operations.
+  **OMEGA-KERN / Gamification Protocol control layer** — neural operating framework that converts reality
   into
   combat
   interface logic.
-  **Sector operation command** - implied by Jobs 1-5, Sector 7 Purge, Sector 4
+  **Sector operation command** — implied by Jobs 1-5, Sector 7 Purge, Sector 4
   Purge,
   Sector 12 Rim collapse, and Node-4
   mission language.
-  **Swarm Integration / Hive node architecture** - named in Job 4 but not
+  **Swarm Integration / Hive node architecture** — named in Job 4 but not
   explained
   in a way A.C.T can safely classify.
 
@@ -407,13 +404,13 @@ A.C.T NOTE:   The term "leash" is treated as a coercive control marker until
   Recovered VESPER material repeatedly names the Guild, Guild Registry, GUILD_WIKI, VESPERSYS, Vanguard Division,
   and
   Ghost File systems.
-- The recovered PDF identifies VESPER as MNT-092-OMEGA and as a Guild vanguard-assassin.
-- A separate future-origin equipment test record displayed a Guild Registry maintenance instruction.
+— The recovered PDF identifies VESPER as MNT-092-OMEGA and as a Guild vanguard-assassin.
+— A separate future-origin equipment test record displayed a Guild Registry maintenance instruction.
   VESPER's conversion record names Lyra, Chief Surgeon Valerius, the Genesis Event, and multiple
   body-integrated
   weapons
   systems.
-- The Guild archive deliberately excludes post-disconnection domestic/civilian material involving Elara Vance and the
+— The Guild archive deliberately excludes post-disconnection domestic/civilian material involving Elara Vance and the
   Comfy Protocol.
 
 ### Active Intelligence Assessment
@@ -440,21 +437,21 @@ cross-linked, and mechanically consistent with other future-origin anomaly trace
   or
   was the collapse part of candidate
   selection?
-- Who or what is Chief Surgeon Valerius?
-- Why was VESPER designated MNT-092? What happened to MNT-001 through MNT-091?
-- Are other OMEGA-level vanguards present in A.C.T baseline?
-- What is the Vanguard Division's relationship to the Guild Registry?
-- What is the Swarm Integration, and why did it require Hive node architecture?
+— Who or what is Chief Surgeon Valerius?
+— Why was VESPER designated MNT-092? What happened to MNT-001 through MNT-091?
+— Are other OMEGA-level vanguards present in A.C.T baseline?
+— What is the Vanguard Division's relationship to the Guild Registry?
+— What is the Swarm Integration, and why did it require Hive node architecture?
   Did the Swarm collective oppose the Guild, support it, infect it, or become
   part
   of its operating system?
-- What happened in the Sector 4 Purge beyond the moment of disconnection?
+— What happened in the Sector 4 Purge beyond the moment of disconnection?
   Why did VESPER's GPS uplink go dark exactly when her Guild data-slate was
   lost?
   Was Elara Vance random civilian contact, planned recovery bait, or an anomaly the
   Guild
   archive refused to include?
-- Why does civilian domestic contact destabilize the Gamification Protocol?
+— Why does civilian domestic contact destabilize the Gamification Protocol?
   Does the Comfy Protocol heal VESPER, hide her, corrupt Guild systems, or threaten
   the
   Guild's definition of control?
@@ -464,12 +461,12 @@ cross-linked, and mechanically consistent with other future-origin anomaly trace
   If the Guild can erase public records into Ghost Files, why did this
   PDF
   survive?
-- If the Guild wanted VESPER back, why has no retrieval action been confirmed?
+— If the Guild wanted VESPER back, why has no retrieval action been confirmed?
   If the Guild did not want VESPER back, why does Guild-linked equipment still
   request
   maintenance contact?
-- Does "CONTACT GUILD REGISTRY" mean contact is possible?
-- Is A.C.T reading a recovered archive, or is the archive reading A.C.T back?
+— Does "CONTACT GUILD REGISTRY" mean contact is possible?
+— Is A.C.T reading a recovered archive, or is the archive reading A.C.T back?
 
 ### Intelligence Confidence
 
@@ -491,7 +488,7 @@ Primary cross-reference chain:
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Anomaly Legacy 01 .txt/Maid-Of-Gear-VESPER-AFD-SU-020.txt`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Anomaly Legacy 01
   .txt/Log/Maid-Of-Gear-VESPER-Recovery-Discovery-Dossier-AFD-SU-020.txt`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Anomaly Modern
+— `A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Anomaly Modern
   txt/Log/AFS-312-Experiment-Testing-Dossier-AFD-OB-312.txt`
 
 The Mysterious Guild is an organization record. VESPER remains an anomaly/subject record. Guild technology

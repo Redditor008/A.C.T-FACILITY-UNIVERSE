@@ -221,7 +221,7 @@ Standing reminder: if a wall feels quiet, ask what it is carrying.
 - Crystal Butterfly, AFD-NB-325;
 - HIGENMARU-KORIN, AFD-OB-221;
 - HIGENMARU-KORIN Relocation Strategic Dossier;
-- TECH-ACT-027 - Gold-Tipped Mining Drills;
+- TECH-ACT-027 — Gold-Tipped Mining Drills;
 - Abyssal Anchor Plating, Item 34.
 
 ---
@@ -231,19 +231,19 @@ Standing reminder: if a wall feels quiet, ask what it is carrying.
   How much ITHYOS-residue can a block carry before it becomes a source instead
   of
   a sink?
-- Can ABM be safely recycled after exposure to living artifacts?
+— Can ABM be safely recycled after exposure to living artifacts?
   Does the listening sensation come from residue behavior, staff expectation, or actual echo
   retention?
-- Should ABM corridors require periodic HPP personnel exclusion?
-- Can Honey Obsidian reinforcement improve joints without trapping hostile vibration inside them?
-- When should an ABM failure trigger relocation rather than wall replacement?
+— Should ABM corridors require periodic HPP personnel exclusion?
+— Can Honey Obsidian reinforcement improve joints without trapping hostile vibration inside them?
+— When should an ABM failure trigger relocation rather than wall replacement?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Engineering Division / Abyss Floor Structural Desk / Central Archive  
-**Review Status:** Active structural record; residue composition and core design censored  
-**Next Review:** After any core saturation, resonance leak, structural breach, or Abyss Floor seismic
-event
+**Created:** 2026-09-15 **Author Desk:** Engineering Division / Abyss Floor Structural Desk / Central Archive
+**Review
+Status:** Active structural record; residue composition and core design censored **Next Review:** After any
+core
+saturation, resonance leak, structural breach, or Abyss Floor seismic event

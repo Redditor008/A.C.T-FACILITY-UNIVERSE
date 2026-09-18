@@ -195,7 +195,7 @@ only the danger they produce.
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/TECH-GOI-071-1-Mercy-Lock-Gentle-Lock-System.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology
   Document/TECH_MD/TECH-GOI-071-2-Mercy-Lock-Patient-Bell-Distress-Signal-System.md`
-- Mercy Lock transfer agreements, consent ledgers, Red Key attachments, and guardianship files [restricted]
+— Mercy Lock transfer agreements, consent ledgers, Red Key attachments, and guardianship files [restricted]
 
 ---
 
@@ -206,11 +206,11 @@ only the danger they produce.
   Does the First Key Table approve disputed custody, or only review it after
   harm
   occurs?
-- Can A.C.T use ledger status markers without importing Mercy Lock legal doctrine wholesale?
-- How often do forbidden names become containment triggers?
+— Can A.C.T use ledger status markers without importing Mercy Lock legal doctrine wholesale?
+— How often do forbidden names become containment triggers?
   Which ledger fields are safe to copy into A.C.T files without exposing ward
   locations?
-- Can hostile GOIs forge a consent ledger convincingly enough to hide private imprisonment?
+— Can hostile GOIs forge a consent ledger convincingly enough to hide private imprisonment?
 
 ### Intelligence Confidence
 

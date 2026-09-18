@@ -11,16 +11,13 @@
 
 ## 1. CORE MISSION & DOCTRINE
 
-**A.C.T** stands for **Anomaly Containment Transformation**.
-    **The Mission:** To maintain the normalcy and the stability of Earth and its
-    populace.
-    **The Mindset:** "Neutral Good." We have a moral obligation to harmonize the anomaly
-    with
-    reality, protecting both the
-    world from the fracture and the subject from the friction of existence.
-    **The First Directive:** Secrecy is containment. Ignorance of the impossible is the foundation
-    of
-    civilization.
+**A.C.T** stands for **Anomaly Containment Transformation**. **The Mission:** To maintain the normalcy and the
+stability of Earth and its populace. **The Mindset:** "Neutral Good." We have a moral
+obligation to harmonize the
+anomaly with reality, protecting both the world from the fracture and the subject from
+the friction of existence.
+**The First Directive:** Secrecy is containment. Ignorance of the impossible is the foundation of
+civilization.
 
 ---
 
@@ -39,7 +36,7 @@ folders:
     audits.
 
 #### **2.3 Emergent Reality File (The 715 Series)**
-*   Reserved exclusively for **Exogenous Record Manifestations**. 
+*   Reserved exclusively for **Exogenous Record Manifestations**.
     **Note:** These are not physical anomalies. They are mundane artifacts (USBs, paper scripts,
     photos)
     that appeared
@@ -61,23 +58,19 @@ folders:
     All items originating from the "Displacement Event" of 2021-2024 are designated under the
     **715**
     numerical registry.
-*   They are categorized as **Information-Only Manifestations** and stored as "Static Artifacts."
+— They are categorized as **Information-Only Manifestations** and stored as "Static Artifacts."
 
 #### **3.3 Path 1 Foundation Fields**
 Every full anomaly file must include the current foundation fields:
 
-    **REGISTRY BAND:** ENTITY Historical / 000 Foundational Reserve / LEGACY ACCEPTED 001-120 /
-    Modern
-    Registry 121-999 /
-    ANM Fracture-State / Reserved / Obscured.
-    **LIFECYCLE STATE:** PROVISIONAL / ACTIVE-CONTAINED / ACTIVE-UNCONTAINED / UNDER REVIEW / TRANSFORMATION-CANDIDATE
-    /
-    INTEGRATED / RETIRED / ARCHIVED / NEUTRALIZED / EXPLAINED / LOST / MEMORIALIZED /
-    PROHIBITED-FROM-TRANSFORMATION.
-    **HAZARD TAGS:** Use only evidenced tags from PHYS / BIO / COG /
-    MEM
-    / INFO / TEMP / SPAT / STR / COS / SOC / OPR
-    families.
+**REGISTRY BAND:** ENTITY Historical / 000 Foundational Reserve / LEGACY ACCEPTED 001-120 / Modern
+Registry 121-999 /
+ANM Fracture-State / Reserved / Obscured. **LIFECYCLE STATE:** PROVISIONAL / ACTIVE-CONTAINED / ACTIVE-UNCONTAINED /
+UNDER REVIEW / TRANSFORMATION-CANDIDATE / INTEGRATED / RETIRED / ARCHIVED / NEUTRALIZED / EXPLAINED
+/ LOST /
+MEMORIALIZED / PROHIBITED-FROM-TRANSFORMATION. **HAZARD TAGS:** Use only evidenced tags from PHYS / BIO /
+COG / MEM /
+INFO / TEMP / SPAT / STR / COS / SOC / OPR families.
 
 These fields are not decoration. Registry Band explains number logic, Lifecycle State explains current
 archive/operational condition, and Hazard Tags explain proven hazard behavior for search and routing.
@@ -132,7 +125,7 @@ Generate all documents as if you are a clerk of the **Main A.C.T Reality**.
 Maintain a tone of **Grounded Clinical
 Realism**.
 
-> **"Manners are the only Anti Reality Mesh that doesn't require a power supply."** 
+> **"Manners are the only Anti Reality Mesh that doesn't require a power supply."**
 
 Respect the designation. Confirm the registry band. Prove the hazard tags. Preserve the lifecycle
 state. Protect the

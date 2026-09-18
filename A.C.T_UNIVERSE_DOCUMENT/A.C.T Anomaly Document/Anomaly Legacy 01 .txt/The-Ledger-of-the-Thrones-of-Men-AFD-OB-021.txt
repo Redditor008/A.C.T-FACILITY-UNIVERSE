@@ -164,9 +164,9 @@ Accepted examples:
    - emperor or imperial claimant personally corrected by the Countess
    - king, queen, grand duke, president, chancellor, or comparable leader who
      stood before AFD-SU-009 and departed with direct testimony
-   - guardian of a collapsed throne archive, only if personally received by
+   — guardian of a collapsed throne archive, only if personally received by
      AFD-SU-009
-   - A.C.T archive officer, only if formally assigned and personally received by
+   — A.C.T archive officer, only if formally assigned and personally received by
      the Countess
 
 Not sufficient by itself:

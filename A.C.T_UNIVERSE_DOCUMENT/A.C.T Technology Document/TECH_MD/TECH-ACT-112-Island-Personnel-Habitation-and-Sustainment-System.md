@@ -182,9 +182,9 @@ fails downward through stone.
 
 - ACT-SITE-05-ID-C-F-5 Personnel and Command Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-6 Surface Research and Transition Level Floor Dossier;
-- TECH-ACT-077 - Internal Logistics Coordination Center;
-- TECH-ACT-078 - Seismic Preparedness Shelter and Response System;
-- TECH-ACT-113 - Relay Command Floor Status and Decision System;
+- TECH-ACT-077 — Internal Logistics Coordination Center;
+- TECH-ACT-078 — Seismic Preparedness Shelter and Response System;
+- TECH-ACT-113 — Relay Command Floor Status and Decision System;
 - Nusantara personnel duty-cycle ledgers [restricted].
 
 ---
@@ -196,9 +196,9 @@ fails downward through stone.
   a reduced staff posture?
   Should island fatigue be treated as a Medical condition, a command metric, or
   both?
-- Can personnel housing remain domestic when it sits beside the command floor?
-- How often should seismic readiness drills interrupt protected rest?
-- Should domestic conflict inside F-5 trigger clearance review for operational floors below?
+— Can personnel housing remain domestic when it sits beside the command floor?
+— How often should seismic readiness drills interrupt protected rest?
+— Should domestic conflict inside F-5 trigger clearance review for operational floors below?
   What is the minimum safe population for the relay when maritime, seismic, and
   holding
   events overlap?
@@ -207,9 +207,7 @@ fails downward through stone.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Relay Administration / Personnel Support Office / Central Archive
-**Review Status:** Active personnel-sustainment technology record; room assignments, duty-cycle names, Medical notes,
-and population stress markers censored
-**Next Review:** After any personnel fatigue event, post-shift accounting failure, seismic shelter use, housing
-conflict, supply disruption, or protected-rest override
+**Created:** 2026-09-16 **Author Desk:** Relay Administration / Personnel Support Office / Central Archive **Review
+Status:** Active personnel-sustainment technology record; room assignments, duty-cycle names, Medical notes, and
+population stress markers censored **Next Review:** After any personnel fatigue event, post-shift accounting failure,
+seismic shelter use, housing conflict, supply disruption, or protected-rest override

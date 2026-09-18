@@ -234,7 +234,7 @@ page that must work harder to betray the file.
 - ACT Technological Visual Reference Guide, Item 08;
 - AFD-OB-142 Book of Hero containment file;
 - AFD-IH-721 DONT DENIED containment and experiment dossier;
-- TECH-ACT-003 - Quantum Narrative Buffer System;
+- TECH-ACT-003 — Quantum Narrative Buffer System;
 - Regression-Resistant Ink, Item 28;
 - Site-03 Kurokawa Archive Node document protection procedures.
 
@@ -260,8 +260,6 @@ page that must work harder to betray the file.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Archive Division / Info-Hazard Division / Engineering Division / Central Archive  
-**Review Status:** Active restricted record; formula and reapplication rules censored  
-**Next Review:** After any auto-redaction failure, self-writing artifact response, preserved-error incident, or
-hostile forged-file recovery
+**Created:** 2026-09-15 **Author Desk:** Archive Division / Info-Hazard Division / Engineering Division / Central
+Archive **Review Status:** Active restricted record; formula and reapplication rules censored **Next Review:** After
+any auto-redaction failure, self-writing artifact response, preserved-error incident, or hostile forged-file recovery

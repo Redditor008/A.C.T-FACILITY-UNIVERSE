@@ -182,9 +182,9 @@ every shift is deciding who may descend.
 - ACT-SITE-01-US-W-F-8 Administration and Personnel Floor Dossier;
 - ACT-SITE-01-US-W-F-7 Central Archive and Records Floor Dossier;
 - ACT-SITE-01-US-W-F-9 Surface Transition Level Floor Dossier;
-- TECH-ACT-015 - Static Pulse Biometric ID;
-- TECH-ACT-115 - Archive Boundary Personnel Clearance System;
-- TECH-ACT-116 - Operational Archive Training and Doctrine Preparation System;
+- TECH-ACT-015 — Static Pulse Biometric ID;
+- TECH-ACT-115 — Archive Boundary Personnel Clearance System;
+- TECH-ACT-116 — Operational Archive Training and Doctrine Preparation System;
 - Redwood Veil personnel processing and clearance ledgers [administration-restricted].
 
 ---
@@ -194,19 +194,17 @@ every shift is deciding who may descend.
   Can a person be cleared for a floor but unready for the descent
   into
   that floor?
-- How much Medical status may be visible at processing before confidentiality is harmed?
-- Should repeated ascent irregularities affect clearance even without a named incident?
-- Can passage architecture become coercive if staff stop feeling able to turn back?
-- When does emergency assignment justify bypassing training currency?
-- Does the complex process personnel, or does it teach personnel to process themselves?
+— How much Medical status may be visible at processing before confidentiality is harmed?
+— Should repeated ascent irregularities affect clearance even without a named incident?
+— Can passage architecture become coercive if staff stop feeling able to turn back?
+— When does emergency assignment justify bypassing training currency?
+— Does the complex process personnel, or does it teach personnel to process themselves?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Site Administration / Personnel Office / Central Archive
-**Review Status:** Active personnel-processing and clearance-verification technology record; live rosters, clearance
-matrices, shift assignments, and incident flags censored
-**Next Review:** After any clearance drift, personnel-processing incident, duty misrouting, ascent accountability
-failure, command-suite communications fault, or training-status dispute
+**Created:** 2026-09-16 **Author Desk:** Site Administration / Personnel Office / Central Archive **Review Status:**
+Active personnel-processing and clearance-verification technology record; live rosters, clearance matrices, shift
+assignments, and incident flags censored **Next Review:** After any clearance drift, personnel-processing incident,
+duty misrouting, ascent accountability failure, command-suite communications fault, or training-status dispute

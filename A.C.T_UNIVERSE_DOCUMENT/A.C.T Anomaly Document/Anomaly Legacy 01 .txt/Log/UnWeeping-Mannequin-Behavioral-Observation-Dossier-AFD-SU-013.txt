@@ -95,13 +95,13 @@ movement.
 OBSERVATIONS:
    - During Interval 1, AFD-SU-013 turned toward Handler Coleman and raised one
      hand in a small wave.
-   - During Interval 2, subject adjusted the left sleeve of its dress, then
+   — During Interval 2, subject adjusted the left sleeve of its dress, then
      looked toward the folded garments placed on the side table.
-   - During Interval 3, subject copied Care Specialist Santos' hand placement
+   — During Interval 3, subject copied Care Specialist Santos' hand placement
      after a 7-second delay.
-   - During Interval 4, subject moved a chair 0.5 m closer to the observation
+   — During Interval 4, subject moved a chair 0.5 m closer to the observation
      window, then stepped back and stood beside it.
-   - During Interval 5, subject pointed toward the chair and then toward the
+   — During Interval 5, subject pointed toward the chair and then toward the
      viewing window.
 
 INTERPRETATION:
@@ -231,9 +231,9 @@ OBSERVATIONS:
    - Sleeveless red dress was moved to the chamber corner and ignored.
    - Damaged dress was held for 34 seconds, then folded carefully and placed on
      the chair instead of worn.
-   - Black formal dress with lace collar produced longest calm display posture.
-   - White blouse and dark skirt were arranged on the table but not worn.
-   - Subject touched its own blank face repeatedly when offered the damaged
+   — Black formal dress with lace collar produced longest calm display posture.
+   — White blouse and dark skirt were arranged on the table but not worn.
+   — Subject touched its own blank face repeatedly when offered the damaged
      dress with torn sleeve.
 
 INTERPRETATION:
@@ -276,8 +276,8 @@ OBSERVATIONS:
    - Chair card: subject moved to chamber chair and placed both hands in lap.
    - Dress card: subject moved to clothing table and touched sleeve of blue
      dress.
-   - Shutter card: subject turned away from window and stood still.
-   - Repeated shutter card after 3 minutes of interaction caused subject to step
+   — Shutter card: subject turned away from window and stood still.
+   — Repeated shutter card after 3 minutes of interaction caused subject to step
      backward and cover face briefly.
 
 RESULT:

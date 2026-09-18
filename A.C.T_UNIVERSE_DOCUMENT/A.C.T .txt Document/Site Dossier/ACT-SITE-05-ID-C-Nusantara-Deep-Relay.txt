@@ -146,9 +146,9 @@ deep-earth and maritime phenomena.
 Today the relay functions as:
 - the Facility's principal instrument for maritime and island-chain anomaly
   response
-- the receiving site for sea-bound recovery operations
-- a center for volcanic and tectonic anomaly study
-- the Facility's primary window on abyss-linked seismic observation — the
+— the receiving site for sea-bound recovery operations
+— a center for volcanic and tectonic anomaly study
+— the Facility's primary window on abyss-linked seismic observation — the
   monitoring of deep-earth movement that may be connected to the buried
   structure beneath the Primary Facility
 
@@ -182,9 +182,9 @@ caution as the abyssal records themselves.
 The relay's jurisdiction overlaps with:
 - ACT-SITE-01-US-W (Redwood Veil Complex) — for Pacific-linked routing
   and trans-Pacific artifact movement;
-- ACT-SITE-03-JP-E (Kurokawa Archive Node) — for signal-borne anomalies
+— ACT-SITE-03-JP-E (Kurokawa Archive Node) — for signal-borne anomalies
   moving through maritime media corridors;
-- ACT-SUB-05-ID-C (Ash Tide Watchpoint) — its principal support sub-site
+— ACT-SUB-05-ID-C (Ash Tide Watchpoint) — its principal support sub-site
   for coastal watch and maritime relay.
 
 ---
@@ -425,9 +425,9 @@ The relay accepts:
 The relay routes material:
 - to Redwood Veil Complex (ACT-SITE-01-US-W) for Pacific-linked routing
   and trans-Pacific movement
-- to Kurokawa Archive Node (ACT-SITE-03-JP-E) for signal-borne material
+— to Kurokawa Archive Node (ACT-SITE-03-JP-E) for signal-borne material
   moving through maritime media corridors
-- to the Primary Facility for deep-earth material held under
+— to the Primary Facility for deep-earth material held under
   abyss-related review and for final doctrinal authority
 
 11.3 Support Relationship — Ash Tide Watchpoint
@@ -563,8 +563,8 @@ development priorities include:
 - expansion of maritime recovery capacity across the archipelago
 - continued deep-earth monitoring integration with abyss-related review
   standards
-- reinforcement of water-capable containment infrastructure
-- deeper integration with the Facility's Pacific routing network
+— reinforcement of water-capable containment infrastructure
+— deeper integration with the Facility's Pacific routing network
 
 The relay's long-term function — to watch the places where the Earth moves
 and the water hides what the Facility must find — is not expected to

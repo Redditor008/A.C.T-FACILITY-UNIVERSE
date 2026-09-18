@@ -686,54 +686,54 @@ END OF DAYS 3–6
 APPENDIX: Transformed A.C.T. Anomalies
 
 ACT-X-00 — The Archive Box
-- Risk Level: ZAYIN (Tool/Special)
-- Subject Number: ACT-X-00
-- Memento: *"Sometime it's best to left thing alone. Lets it sleep in its
+— Risk Level: ZAYIN (Tool/Special)
+— Subject Number: ACT-X-00
+— Memento: *"Sometime it's best to left thing alone. Lets it sleep in its
 own slumber."*
-- Description: A metal box containing A.C.T. Facility documents. It is the seed from
+— Description: A metal box containing A.C.T. Facility documents. It is the seed from
 which the other ACT Anomalies
 grow. It does not produce energy directly. It is the question that precedes the
 answer.
 
 O-09-201 — The Locked Draft
-- Original: AFD-OB-001 — I AM A Test
-- Risk Level: TETH
-- Attack Type: WHITE (2–3)
-- E-Boxes: 12
-- Qliphoth Counter: 2
-- Work Preferences: Insight (High), Repression (Moderate), Instinct (Low), Attachment (Very Low)
-- Memento: *"The first draft is the only draft. Revision is a lie."*
-- Description: A document that locks its contents after first completion. Attempting to edit
+— Original: AFD-OB-001 — I AM A Test
+— Risk Level: TETH
+— Attack Type: WHITE (2–3)
+— E-Boxes: 12
+— Qliphoth Counter: 2
+— Work Preferences: Insight (High), Repression (Moderate), Instinct (Low), Attachment (Very Low)
+— Memento: *"The first draft is the only draft. Revision is a lie."*
+— Description: A document that locks its contents after first completion. Attempting to edit
 or revise it causes WHITE
 damage from the impossibility of changing an established truth. On breach, it expands and
 forces nearby employees to
 repeat their last action indefinitely.
 
 F-05-201 — The Workshop Daughter
-- Original: AFD-SU-005 — Is Anyone There.... OH...!! Hi...!!
-- Risk Level: HE
-- Attack Type: RED (3–5)
-- E-Boxes: 16
-- Qliphoth Counter: 3
-- Work Preferences: Attachment (High), Insight (Moderate), Instinct (Low), Repression (Low)
-- Memento: *"She woke when the maker stopped breathing. Now she waits for anyone
+— Original: AFD-SU-005 — Is Anyone There.... OH...!! Hi...!!
+— Risk Level: HE
+— Attack Type: RED (3–5)
+— E-Boxes: 16
+— Qliphoth Counter: 3
+— Work Preferences: Attachment (High), Insight (Moderate), Instinct (Low), Repression (Low)
+— Memento: *"She woke when the maker stopped breathing. Now she waits for anyone
 to finish what he began."*
-- Description: A humanoid Abnormality resembling a young android girl. Cooperative when given attention
+— Description: A humanoid Abnormality resembling a young android girl. Cooperative when given attention
 and attachment
 work. If neglected or left alone, she breaches and wanders the facility searching for
 her creator, causing
 curiosity-driven casualties.
 
 T-01-201 — The Unfinished Measure
-- Original: AFD-IH-007 — Bloody Note
-- Risk Level: WAW
-- Attack Type: WHITE (4–6)
-- E-Boxes: 22
-- Qliphoth Counter: 1
-- Work Preferences: Repression (High), Insight (Very Low), Instinct (Very Low), Attachment (Very Low)
-- Memento: *"The song is almost done. It only needs a little more of
+— Original: AFD-IH-007 — Bloody Note
+— Risk Level: WAW
+— Attack Type: WHITE (4–6)
+— E-Boxes: 22
+— Qliphoth Counter: 1
+— Work Preferences: Repression (High), Insight (Very Low), Instinct (Very Low), Attachment (Very Low)
+— Memento: *"The song is almost done. It only needs a little more of
 you."*
-- Description: A blood-stained musical score that emits an unfinished melody. Prolonged exposure causes
+— Description: A blood-stained musical score that emits an unfinished melody. Prolonged exposure causes
 a compulsive
 need to complete the piece using one's own blood. The notation extends infinitely with
 each contribution, never

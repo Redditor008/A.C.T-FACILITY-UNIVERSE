@@ -186,12 +186,12 @@ restriction sets that govern the floor's holdings.
 F-1 is organized around quarantine units suited to temporary buffering:
 - the intake and logging bay, where buffered material is received and
   registered;
-- the visual-denial quarantine units;
-- the document-quarantine units;
-- the monitoring gallery;
-- the transfer preparation area, where material is prepared for review,
+— the visual-denial quarantine units;
+— the document-quarantine units;
+— the monitoring gallery;
+— the transfer preparation area, where material is prepared for review,
   redaction, or transfer;
-- the floor command post and documentation alcove.
+— the floor command post and documentation alcove.
 
 7.2 The Visual-Denial Units
 
@@ -290,8 +290,8 @@ F-1 holds low-to-mid memetic and infohazard material:
 - memetic material requiring visual denial during its buffered period;
 - infohazard documents requiring quarantine until review determines their
   disposition;
-- material buffered from the parent node's archive spillover;
-- redaction-bound material awaiting processing on F-2.
+— material buffered from the parent node's archive spillover;
+— redaction-bound material awaiting processing on F-2.
 
 10.3 Disposition Character
 

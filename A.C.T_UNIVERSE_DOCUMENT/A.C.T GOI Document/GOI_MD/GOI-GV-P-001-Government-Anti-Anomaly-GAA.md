@@ -407,7 +407,7 @@ viability, secrecy urgency, recovery speed, specialization, and active command p
   channel,
   or digital
   document chain becomes an information hazard.
-- **ACT-SITE-04-BR-C / Verde Null Bio-Reserve** may request restricted environmental, quarantine, or land-use support
+— **ACT-SITE-04-BR-C / Verde Null Bio-Reserve** may request restricted environmental, quarantine, or land-use support
   where in-place biological containment affects civilian territory.
   **ACT-SITE-05-ID-C / Nusantara Deep Relay** may require maritime, emergency, or coastal administrative cover
   during
@@ -537,23 +537,17 @@ hold normalcy together, but incapable of independently defining what normalcy mu
 
 ### Unresolved Intelligence Questions
 
-  Which GAA liaison channels remain dependent on historical arrangements that no current officer
-  fully
-  understands?
-  How many state-facing personnel know the GAA by a function but not by
-  its
-  formal name?
-  Which existing government continuity procedures were originally built for ordinary disaster management and
-  have
-  since
-  become vulnerable to anomalous misuse?
-  Can a hostile GOI obtain GAA authority by impersonation, coercion, or documentary compromise
-  without
-  ever learning the
-  wider Facility structure?
-  At what point does repeated reliance on GAA support create a dependency that
-  weakens
-  A.C.T operational independence?
+Which GAA liaison channels remain dependent on historical arrangements that no current officer fully
+understands? How
+many state-facing personnel know the GAA by a function but not by its formal
+name? Which existing government
+continuity procedures were originally built for ordinary disaster management and have since become vulnerable
+to
+anomalous misuse? Can a hostile GOI obtain GAA authority by impersonation, coercion, or documentary
+compromise without
+ever learning the wider Facility structure? At what point does repeated reliance on GAA
+support create a dependency
+that weakens A.C.T operational independence?
 
 ### Standing Restriction Order
 
@@ -590,11 +584,11 @@ distinguish what the body does from what may be affecting it.
 
 ### Related A.C.T Records
 
-- GOI Registry and External Threat Doctrine Archive - classification and posture authority;
-- Site Map and Jurisdiction Doctrine - regional response routing;
-- Site Doctrine and Installation Structure - command and access limitations;
-- Internal Structure and Reality Doctrine Archive - division authority and secrecy boundaries;
-- Anomaly Classification Manual Archive - incident-specific anomaly filing.
+- GOI Registry and External Threat Doctrine Archive — classification and posture authority;
+- Site Map and Jurisdiction Doctrine — regional response routing;
+- Site Doctrine and Installation Structure — command and access limitations;
+- Internal Structure and Reality Doctrine Archive — division authority and secrecy boundaries;
+- Anomaly Classification Manual Archive — incident-specific anomaly filing.
 ---
 
 ## FILE METADATA

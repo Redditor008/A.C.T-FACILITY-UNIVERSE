@@ -135,12 +135,12 @@ A.C.T assessment identifies these functional layers:
   corridors;
   treaty clerks who preserve paper agreements, transfer slips, and crossing records when databases
   fail;
-- customs handlers who examine anomalous objects disguised as ordinary cargo;
-- passport listeners who interview travelers whose memories or documents contradict geography;
-- transit medics who stabilize persons affected by wrong-border exposure;
+— customs handlers who examine anomalous objects disguised as ordinary cargo;
+— passport listeners who interview travelers whose memories or documents contradict geography;
+— transit medics who stabilize persons affected by wrong-border exposure;
   route auditors who compare public maps, shipping lanes, flight paths, and old border
   treaties;
-- consular shadows who contact families without revealing the full crossing condition.
+— consular shadows who contact families without revealing the full crossing condition.
 
 This structure distinguishes the Bureau from a normal government department. It has roles built
 around specific
@@ -464,8 +464,8 @@ ink persists.
   across
   separate
   jurisdictions.
-- The Bureau can cooperate with A.C.T but does not accept A.C.T command authority.
-- Its work can preserve legal identity and custody continuity during anomalous border events.
+— The Bureau can cooperate with A.C.T but does not accept A.C.T command authority.
+— Its work can preserve legal identity and custody continuity during anomalous border events.
 
 ### Active Intelligence Assessment
 
@@ -491,7 +491,7 @@ imply control of the other.
   Does the Secretariat of Unquiet Lines exist as a physical office, a treaty
   archive,
   or a rotating legal fiction?
-- How many quiet-line stations are active inside ordinary border facilities?
+— How many quiet-line stations are active inside ordinary border facilities?
   Can Bureau seals create temporary legal status, or do they only preserve status
   that
   would otherwise fail?

@@ -182,9 +182,9 @@ volcano behind it.
 - ACT-SUB-05-ID-C Ash Tide Watchpoint Sub-Site Dossier;
 - ACT-SUB-05-ID-C-F-2 Operations and Watch Level Floor Dossier;
 - ACT-SUB-05-ID-C-F-3 Surface Cover Level Floor Dossier;
-- TECH-ACT-083 - Coastal Watch Coordination Center;
-- TECH-ACT-067 - Deep-Earth Sensor Arrays;
-- TECH-ACT-078 - Seismic Preparedness Shelter and Response System;
+- TECH-ACT-083 — Coastal Watch Coordination Center;
+- TECH-ACT-067 — Deep-Earth Sensor Arrays;
+- TECH-ACT-078 — Seismic Preparedness Shelter and Response System;
 - Ash Tide volcanic watch logs [restricted].
 
 ---
@@ -202,9 +202,8 @@ volcano behind it.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15
-**Author Desk:** Seismic Monitoring Staff / Watch Officer / Central Archive
-**Review Status:** Active volcanic-seismic monitoring record; live sensor positions, withdrawal thresholds, and
-escalation keys censored
+**Created:** 2026-09-15 **Author Desk:** Seismic Monitoring Staff / Watch Officer / Central Archive **Review
+Status:**
+Active volcanic-seismic monitoring record; live sensor positions, withdrawal thresholds, and escalation keys censored
 **Next Review:** After any irregular volcanic signature, silent withdrawal drill, recovery safety conflict,
 parent-relay escalation, ash-event anomaly, or local sensor failure

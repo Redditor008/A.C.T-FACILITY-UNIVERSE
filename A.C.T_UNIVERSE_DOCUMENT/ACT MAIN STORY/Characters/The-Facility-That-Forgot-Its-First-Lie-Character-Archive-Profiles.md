@@ -11,10 +11,8 @@
 ---
 
 ## Profile 001 — Sera Vey
-**Role:** Facility Archiver  
-**Clearance:** Low-to-Mid Restricted Archive Access  
-**Division:** Archiver Division / East Wings  
-**Status:** Active  
+**Role:** Facility Archiver **Clearance:** Low-to-Mid Restricted Archive Access **Division:** Archiver Division / East
+Wings **Status:** Active
 
 ### Function
 Sera Vey serves as the primary narrative protagonist. She is assigned to archival reconciliation
@@ -53,10 +51,8 @@ main narrative uncovers the possibility that A.C.T deliberately erased its own o
 ---
 
 ## Profile 002 — Mila Renn
-**Role:** Senior Archiver  
-**Clearance:** Level 2 Archive Access  
-**Division:** Archiver Division / East Wings  
-**Status:** Active  
+**Role:** Senior Archiver **Clearance:** Level 2 Archive Access **Division:** Archiver Division / East Wings
+**Status:** Active
 
 ### Function
 Mila Renn is an experienced senior archivist who understands that the Facility’s oldest records
@@ -92,10 +88,8 @@ them.
 ---
 
 ## Profile 003 — Tavian Holt
-**Role:** Junior Medical Records Technician  
-**Clearance:** Level 2 Medical Records Access  
-**Division:** Medical Care Division  
-**Status:** Active  
+**Role:** Junior Medical Records Technician **Clearance:** Level 2 Medical Records Access **Division:** Medical Care
+Division **Status:** Active
 
 ### Function
 Tavian Holt works in medical records and acts as the story’s first real bridge
@@ -131,10 +125,8 @@ only on civilians, but internally to preserve some deeper institutional secrecy.
 ---
 
 ## Profile 004 — The O5-Linked Review Authority
-**Role:** Restricted Oversight Figure  
-**Clearance:** O5-Adjacent / Review-Sealed  
-**Division:** South Wing Command / Oversight  
-**Status:** Active  
+**Role:** Restricted Oversight Figure **Clearance:** O5-Adjacent / Review-Sealed **Division:** South Wing Command /
+Oversight **Status:** Active
 
 ### Appearance and Presence
 This figure is a woman of severe bearing, pale without frailty, dressed in quiet
@@ -183,10 +175,8 @@ preserving the first lie may also be trapped inside it.
 ---
 
 ## Profile 005 — The ABYSS Survivor
-**Role:** Former High-Clearance Personnel / Surviving Review Casualty  
-**Clearance:** Revoked / Fragmented / Restricted Observation Only  
-**Division:** Formerly Classified  
-**Status:** Contained / Isolated / Unreliable  
+**Role:** Former High-Clearance Personnel / Surviving Review Casualty **Clearance:** Revoked / Fragmented / Restricted
+Observation Only **Division:** Formerly Classified **Status:** Contained / Isolated / Unreliable
 
 ### Appearance and Condition
 The ABYSS Survivor is not defined by a stable name in active narrative use.

@@ -393,7 +393,7 @@ review when they appear in combination:
   imported salt, marine material, pressure equipment, acoustic equipment, or unusual sealed containers without
   a
   credible local purpose;
-- group movement timed to specific weather, water-level, or lunar conditions;
+— group movement timed to specific weather, water-level, or lunar conditions;
   handwritten or digital maps that replace ordinary place names with depth, tide, mouth,
   or
   shore terminology;
@@ -459,20 +459,15 @@ size of the wider network.
 
 Known or suspected holdings should be categorized before action:
 
-  **Congregation sites** contain people, material, and recruitment activity but may have little target-specific
-  value.
-  **Custody sites** hold records, equipment, maps, or ritual materials and require controlled evidence
-  handling.
-  **Transit sites** support movement between cells and can reveal the broader network if
-  monitored
-  safely.
-  **Mouth sites** are selected for doctrinal or ritual significance and may carry anomalous
-  risk
-  even when no leadership
-  asset is present.
-  **Decoy sites** are deliberately visible locations designed to draw attention away from a
-  live
-  preparation chain.
+**Congregation sites** contain people, material, and recruitment activity but may have little target-specific value.
+**Custody sites** hold records, equipment, maps, or ritual materials and require controlled evidence handling.
+**Transit sites** support movement between cells and can reveal the broader network if monitored
+safely. **Mouth
+sites** are selected for doctrinal or ritual significance and may carry anomalous risk even
+when no leadership asset
+is present. **Decoy sites** are deliberately visible locations designed to draw attention away from
+a live preparation
+chain.
 
 A.C.T response must not assume that the most theatrical location is the most important
 one. CoTD uses spectacle to
@@ -629,7 +624,7 @@ Immediate Level 5 escalation is required when any of the following conditions ar
   an unapproved party attempts travel toward the target anomaly or an associated restricted
   maritime
   zone;
-- acoustic, pressure, seismic, or marine indicators show a credible correlation with cult activity;
+— acoustic, pressure, seismic, or marine indicators show a credible correlation with cult activity;
   the Sounding Council activates a regional gathering under a shared date, signal, or
   return
   language;
@@ -739,9 +734,9 @@ protect a person while preserving the integrity of the wider operation.
 
   CoTD is a cultic organization worshipping a [REDACTED] anomaly sleeping in the deep
   sea.
-- The group is actively attempting to awaken that anomaly.
-- The target anomaly is assessed as apocalyptic if awakened.
-- CoTD's primary active region is the Midwestern United States.
+— The group is actively attempting to awaken that anomaly.
+— The target anomaly is assessed as apocalyptic if awakened.
+— CoTD's primary active region is the Midwestern United States.
   The cult uses distributed local activity, symbolic water geography, and compartmented membership to
   support
   its
@@ -777,7 +772,7 @@ can.
   Which inland mouths have a measurable relationship to the sleeping anomaly, and which
   exist
   only as cult symbolism?
-- How much deep-water data has CoTD already obtained, copied, or sold through intermediaries?
+— How much deep-water data has CoTD already obtained, copied, or sold through intermediaries?
   Are any Dredgers working with an external GOI, commercial handler, or compromised government
   contact?
   Can the cult's repeated sound and pressure practices affect the target directly, or
@@ -824,14 +819,14 @@ this dossier.
 
 ### Related A.C.T Records
 
-- GOI Registry and External Threat Doctrine Archive - classification and posture authority;
-- Site Map and Jurisdiction Doctrine - incident-led cross-site assignment;
-- Facility Divisions, Personnel Roles, and Operational Life - Intelligence, Recovery, Containment, Medical, Civil
+- GOI Registry and External Threat Doctrine Archive — classification and posture authority;
+- Site Map and Jurisdiction Doctrine — incident-led cross-site assignment;
+- Facility Divisions, Personnel Roles, and Operational Life — Intelligence, Recovery, Containment, Medical, Civil
   Covert, and Military responsibilities;
-  Anomaly Classification Manual Archive - separate filing of the sleeping target and recovered
+  Anomaly Classification Manual Archive — separate filing of the sleeping target and recovered
   cult
   material;
-  History of A.C.T, First Deployment, and the ABYSS Origin - doctrine that sleep
+  History of A.C.T, First Deployment, and the ABYSS Origin — doctrine that sleep
   may
   itself be containment.
 

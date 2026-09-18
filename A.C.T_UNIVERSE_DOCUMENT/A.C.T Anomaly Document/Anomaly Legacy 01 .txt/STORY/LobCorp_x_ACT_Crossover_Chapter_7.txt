@@ -493,14 +493,14 @@ END OF DAYS 23–25
 APPENDIX: Transformed A.C.T. Anomalies
 
 O-01-209 — The Diamond Colony
-- Original: AFD-NB-013 — Crystallize Butterfly
-- Risk Level: WAW
-- Attack Type: BLACK (3–5) / WHITE (2–4)
-- E-Boxes: 22
-- Qliphoth Counter: 2
-- Alternate Preferences: OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)
-- Memento: *"A Mercy I Gifts To You."*
-- Description: A colony of crystalline butterfly-like organisms that build diamond-like combs from a
+— Original: AFD-NB-013 — Crystallize Butterfly
+— Risk Level: WAW
+— Attack Type: BLACK (3–5) / WHITE (2–4)
+— E-Boxes: 22
+— Qliphoth Counter: 2
+— Alternate Preferences: OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)
+— Memento: *"A Mercy I Gifts To You."*
+— Description: A colony of crystalline butterfly-like organisms that build diamond-like combs from a
 liquid charcoal
 secretion. Their dust is toxic and can cause crystalloid buildup in lungs. They swarm
 when threatened and build
@@ -508,14 +508,14 @@ memorial structures in the shape of those they observe. Highly responsive to OBS
 INITIATE work.
 
 T-09-210 — The Unwritten Descent
-- Original: AFD-OB-010 — Dramaturgy
-- Risk Level: HE
-- Attack Type: WHITE (4–6)
-- E-Boxes: 16
-- Qliphoth Counter: 2
-- Alternate Preferences: OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)
-- Memento: *"A Mercy I Gifts To You."*
-- Description: A self-performing script that, when observed, manifests a 6-hour theatrical performance in
+— Original: AFD-OB-010 — Dramaturgy
+— Risk Level: HE
+— Attack Type: WHITE (4–6)
+— E-Boxes: 16
+— Qliphoth Counter: 2
+— Alternate Preferences: OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)
+— Memento: *"A Mercy I Gifts To You."*
+— Description: A self-performing script that, when observed, manifests a 6-hour theatrical performance in
 its
 containment cell. The play has no actors but produces shadow-performers, voices, and stage effects.
 The text rewrites
@@ -524,14 +524,14 @@ to occur. It
 draws its themes from the facility's own trauma and the A.C.T. crossover.
 
 F-02-211 — The Obsidian Naga
-- Original: AFD-SU-012 — Jormungandr
-- Risk Level: ALEPH
-- Attack Type: RED (8–10) / BLACK (6–8)
-- E-Boxes: 35
-- Qliphoth Counter: 6 (base 5 + 1 serpent blessing)
-- Alternate Preferences: OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)
-- Memento: *"May My Kind Be Peaceful."*
-- Description: A colossal serpentiform entity composed of volcanic rock, obsidian, and lithic plating.
+— Original: AFD-SU-012 — Jormungandr
+— Risk Level: ALEPH
+— Attack Type: RED (8–10) / BLACK (6–8)
+— E-Boxes: 35
+— Qliphoth Counter: 6 (base 5 + 1 serpent blessing)
+— Alternate Preferences: OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)
+— Memento: *"May My Kind Be Peaceful."*
+— Description: A colossal serpentiform entity composed of volcanic rock, obsidian, and lithic plating.
 It manifests in
 a subterranean cavern beneath the facility, connected to the ITHYOS Rift. It regulates magma
 pressure and tectonic

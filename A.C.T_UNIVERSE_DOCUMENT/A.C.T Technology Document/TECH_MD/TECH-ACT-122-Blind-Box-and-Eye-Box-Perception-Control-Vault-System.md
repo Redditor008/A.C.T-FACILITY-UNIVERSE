@@ -187,9 +187,9 @@ one measured inch.
 - ACT-SITE-03-JP-E-F-2 Deep Memetic and Infohazard Vaulting Floor Dossier;
 - ACT-SITE-03-JP-E-F-1 The Unread Archive Floor Dossier;
 - ACT-SITE-03-JP-E-F-3 Active Anomalous Document Storage Floor Dossier;
-- TECH-ACT-056 - Memetic Filtering Infrastructure;
-- TECH-ACT-118 - Symbol Behavior Controlled Observation Suites;
-- TECH-ACT-121 - Unread Archive Anti-Reading Preservation Vault System;
+- TECH-ACT-056 — Memetic Filtering Infrastructure;
+- TECH-ACT-118 — Symbol Behavior Controlled Observation Suites;
+- TECH-ACT-121 — Unread Archive Anti-Reading Preservation Vault System;
 - AFD-ME-018 Dread EYE restriction-set records [restricted].
 
 ---
@@ -200,21 +200,20 @@ one measured inch.
   When should a Blind Box item be declared unreadable enough for F-1 instead
   of
   F-2?
-- Does denying all perception increase staff curiosity enough to become its own hazard?
+— Does denying all perception increase staff curiosity enough to become its own hazard?
   How much of an Eye Box observation may be described before description becomes
   exposure?
   Can a restriction set safely include a holding name if the name is
   itself
   informative?
-- Should F-2 ever return material upward after it has required visual denial?
+— Should F-2 ever return material upward after it has required visual denial?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Floor Vault Chief / Restricted-Vault Command / Central Archive
-**Review Status:** Active perception-control vault technology record; unit maps, Dread EYE apparatus parameters,
-restriction sets, and observer records censored
-**Next Review:** After any perception breach, Eye Box exposure incident, Blind Box maintenance deviation,
-restriction-set dispute, F-1 transfer review, or Dread EYE protocol change
+**Created:** 2026-09-16 **Author Desk:** Floor Vault Chief / Restricted-Vault Command / Central Archive **Review
+Status:** Active perception-control vault technology record; unit maps, Dread EYE apparatus parameters, restriction
+sets, and observer records censored **Next Review:** After any perception breach, Eye Box exposure
+incident, Blind Box
+maintenance deviation, restriction-set dispute, F-1 transfer review, or Dread EYE protocol change

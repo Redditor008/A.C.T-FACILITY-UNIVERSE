@@ -363,8 +363,8 @@ Site Command approves emergency use during breach but must accept after-action r
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Personnel_Exposure_E_Class_and_Resilience_Doctrine.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational
   Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/TECH-ACT-003-Quantum-Narrative-Buffer-System.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/00_Technology_Record_Template.md`
+— `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/TECH-ACT-003-Quantum-Narrative-Buffer-System.md`
+— `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/00_Technology_Record_Template.md`
 
 ### Technology Relationship
 
@@ -376,7 +376,7 @@ The 004-series interacts with, but is distinct from:
 - Refined NEMNOLIA Sap, the active material lineage used inside the compound system;
   Neural Lacing Type 004-MOD, which provides an internal auto-forget filter rather than administered
   treatment;
-- Banalist White-Noise Broadcast, which disrupts narrative scripting through acoustic systems.
+— Banalist White-Noise Broadcast, which disrupts narrative scripting through acoustic systems.
 
 Each system requires its own individual technology record. This file covers the 004-Series Amnestic
 Compound System as
@@ -389,13 +389,13 @@ an A.C.T-controlled technology lineage.
   Can any 004-grade be made safer without hiding the NEMNOLIA provenance that keeps
   staff
   cautious?
-- How many repeated short-window administrations equal one severe continuity injury?
-- Can partial truth shards be standardized, or must every shard remain case-specific?
+— How many repeated short-window administrations equal one severe continuity injury?
+— Can partial truth shards be standardized, or must every shard remain case-specific?
   Do QNB-preserved contradictions worsen distress in treated personnel who later read their own
   pre-treatment
   records?
-- Can 004 use aggravate Namewright-style identity instability or Missing 404 record absence?
-- What long-term biological cost exists for people exposed only to stabilized low-grade compounds?
+— Can 004 use aggravate Namewright-style identity instability or Missing 404 record absence?
+— What long-term biological cost exists for people exposed only to stabilized low-grade compounds?
   Is full reversal possible after 004-E or higher, or only reconstruction through records
   and
   testimony?

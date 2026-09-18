@@ -149,8 +149,8 @@ Today the reserve functions as:
 - the Facility's principal installation for non-natural biological anomalies
 - the receiving site for biological material requiring wilderness or
   in-place management
-- a center for the study of place-bound anomalies — biological or otherwise
-- the Facility's largest experiment in perimeter doctrine and environmental
+— a center for the study of place-bound anomalies — biological or otherwise
+— the Facility's largest experiment in perimeter doctrine and environmental
   containment
 
 ---
@@ -185,9 +185,9 @@ destroying the environment that makes containment possible.
 The reserve's jurisdiction overlaps with:
 - ACT-SITE-02-RU-N (White Grave Station) — for biological material
   requiring the opposite environmental extreme;
-- ACT-SITE-01-US-W (Redwood Veil Complex) — for biological material
+— ACT-SITE-01-US-W (Redwood Veil Complex) — for biological material
   recovered in urban contexts;
-- ACT-SUB-04-BR-C (Hollow Canopy Enclosure) — its principal support
+— ACT-SUB-04-BR-C (Hollow Canopy Enclosure) — its principal support
   sub-site for fixed flora enclosures.
 
 ---
@@ -203,7 +203,7 @@ Its work is unlike containment work anywhere else in the Facility:
 - ecological monitoring of enclosure sectors
 - containment-through-environment doctrine — designing conditions that make
   anomalies stable in place
-- the maintenance of concealed boundaries between anomalous sectors and the
+— the maintenance of concealed boundaries between anomalous sectors and the
   reserve's legitimate research areas
 
 Environmental Containment personnel are part ranger, part engineer, and part
@@ -370,7 +370,7 @@ Verde Null's holdings are dominated by:
 - wilderness-dependent organisms requiring environmental management
 - biological material transferred from other sites for reserve-style
   containment
-- anomalous organisms under cultivation for transformation study
+— anomalous organisms under cultivation for transformation study
 
 10.3 Signature Resident — AFD-SU-827, "Vivienne Argent"
 
@@ -426,16 +426,16 @@ The reserve accepts:
 - biological anomalies recovered in its regional jurisdiction
 - non-natural flora and fauna requiring wilderness or field-enclosure
   management
-- place-bound anomalies from across the network
-- biological material requiring warm-climate or environmental management
-- subjects approved for the reserve's cultivation and transformation programs
+— place-bound anomalies from across the network
+— biological material requiring warm-climate or environmental management
+— subjects approved for the reserve's cultivation and transformation programs
 
 11.2 What Routes Out
 
 The reserve routes material:
 - to White Grave Station (ACT-SITE-02-RU-N) for biological material
   requiring cold suppression
-- to the Primary Facility for high-clearance biological anomalies and
+— to the Primary Facility for high-clearance biological anomalies and
   final doctrinal authority
 
 Place-bound residents never leave. The reserve's doctrine assumes that what

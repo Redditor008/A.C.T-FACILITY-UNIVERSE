@@ -456,13 +456,13 @@ work preferences:
 - OBSERVE: Watch the Abnormality without direct interaction. Often produces calm, increases Qliphoth Counter,
 and
 reveals hidden information.
-- INITIATE: Make the first physical or symbolic contact. Often produces high energy and
+— INITIATE: Make the first physical or symbolic contact. Often produces high energy and
 establishes trust, but risks
 rejection if the approach is wrong.
-- INTENT: Declare a clear purpose to the Abnormality. The Abnormality evaluates the honesty
+— INTENT: Declare a clear purpose to the Abnormality. The Abnormality evaluates the honesty
 of the intent. Clean
 intent produces stability; selfish or fearful intent may trigger hostility.
-- RESEARCH: Study the Abnormality through measurement, documentation, or analysis. Often produces deep insight
+— RESEARCH: Study the Abnormality through measurement, documentation, or analysis. Often produces deep insight
 and
 predictive data, but may expose the researcher to dangerous knowledge.
 
@@ -481,16 +481,16 @@ Memento: *"May My Kind Be Peaceful."*
 New Native Abnormality
 
 O-02-208 — The Coiled Watcher
-- Risk Level: HE
-- Attack Type: BLACK (3–5)
-- E-Boxes: 16
-- Qliphoth Counter: 3 (+1 serpent blessing)
-- Description: A serpent-like Abnormality that watches employees without eyes. It does not kill;
+— Risk Level: HE
+— Attack Type: BLACK (3–5)
+— E-Boxes: 16
+— Qliphoth Counter: 3 (+1 serpent blessing)
+— Description: A serpent-like Abnormality that watches employees without eyes. It does not kill;
 it coils around a
 single target during breaches, holding them still until suppression arrives. Highly responsive to the
 alternate work
 preferences, particularly INITIATE and INTENT.
-- Memento: *"May My Kind Be Peaceful."*
+— Memento: *"May My Kind Be Peaceful."*
 
 ---
 

@@ -182,9 +182,9 @@ UAARPV doctrine holds that the deepest archive is successful when it remembers w
 
 - ACT-SITE-03-JP-E-F-1 The Unread Archive Floor Dossier;
 - ACT-SITE-03-JP-E-F-2 Deep Memetic and Infohazard Vaulting Floor Dossier;
-- TECH-ACT-058 - F-1 Closure System;
-- TECH-ACT-062 - QNB-Hardened Archive Structure;
-- TECH-ACT-122 - Blind Box and Eye Box Perception-Control Vault System;
+- TECH-ACT-058 — F-1 Closure System;
+- TECH-ACT-062 — QNB-Hardened Archive Structure;
+- TECH-ACT-122 — Blind Box and Eye Box Perception-Control Vault System;
 - Kurokawa Unreadable Register [restricted].
 
 ---
@@ -195,8 +195,8 @@ UAARPV doctrine holds that the deepest archive is successful when it remembers w
   content?
   When does a catalog code reveal too much about the unreadable thing it
   hides?
-- Should personnel be rotated before curiosity appears or only after Medical identifies fixation?
-- Can preservation failure justify direct reading if direct reading is the breach condition?
+— Should personnel be rotated before curiosity appears or only after Medical identifies fixation?
+— Can preservation failure justify direct reading if direct reading is the breach condition?
   How much of an F-1 incident may be written before the incident record
   becomes
   a second hazard?
@@ -208,9 +208,7 @@ UAARPV doctrine holds that the deepest archive is successful when it remembers w
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Unread Archive Chief / Deep-Archive Command / Central Archive
-**Review Status:** Active anti-reading preservation technology record; vault map, holding identities, restriction
-reasons, and unreadable register entries censored
-**Next Review:** After any content-line exposure, preservation failure, unreadable register correction, F-1 closure,
-blind maintenance deviation, or personnel curiosity incident
+**Created:** 2026-09-16 **Author Desk:** Unread Archive Chief / Deep-Archive Command / Central Archive **Review
+Status:** Active anti-reading preservation technology record; vault map, holding identities, restriction reasons, and
+unreadable register entries censored **Next Review:** After any content-line exposure, preservation failure,
+unreadable register correction, F-1 closure, blind maintenance deviation, or personnel curiosity incident

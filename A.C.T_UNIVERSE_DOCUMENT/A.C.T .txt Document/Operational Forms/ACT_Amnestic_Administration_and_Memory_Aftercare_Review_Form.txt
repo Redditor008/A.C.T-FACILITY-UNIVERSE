@@ -1,10 +1,10 @@
 # A.C.T FACILITY ARCHIVE FILE
 ## AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM
 
-Archive Status: Active Working Form  
+Archive Status: Active Working Form
 Distribution: Medical Care Division / Civil Covert Division / Archiver Division / Site Command
 / Subject Care Division
-Authority: Medical Care Division, Civil Covert Division, and Central Archive  
+Authority: Medical Care Division, Civil Covert Division, and Central Archive
 
 ### Archive Note
 This form governs the review, authorization, administration, and aftercare record for amnestic use. It

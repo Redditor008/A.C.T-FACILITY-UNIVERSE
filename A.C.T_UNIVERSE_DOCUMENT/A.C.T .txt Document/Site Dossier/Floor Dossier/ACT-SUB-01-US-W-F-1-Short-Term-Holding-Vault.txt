@@ -187,7 +187,7 @@ staging:
 - the monitoring gallery;
 - the transfer preparation area, where material is prepared for movement
   to the parent site;
-- the floor command post and documentation alcove.
+— the floor command post and documentation alcove.
 
 7.2 The Holding Units
 

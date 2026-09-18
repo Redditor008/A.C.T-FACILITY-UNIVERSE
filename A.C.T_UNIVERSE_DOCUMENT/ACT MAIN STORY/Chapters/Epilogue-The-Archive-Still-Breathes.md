@@ -2,29 +2,25 @@
 
 Three years later, the correction order appeared on another desk.
 
-It was not the same desk.
-The lamps were newer. The archive floor had been reconfigured twice since the lower
-memetic filtration incident that
-no one now spoke about directly. Several of the old shelf codes had been
-retired and reassigned. One of the dead copy
-rooms had finally been cleared, stripped, and converted into secure redaction storage. Lower Stack
-C still existed,
-but access ran through a different corridor and an extra humidity lock no one
+It was not the same desk. The lamps were newer. The archive floor had
+been reconfigured twice since the lower memetic
+filtration incident that no one now spoke about directly. Several of the old shelf
+codes had been retired and
+reassigned. One of the dead copy rooms had finally been cleared, stripped, and converted
+into secure redaction
+storage. Lower Stack C still existed, but access ran through a different corridor and
+an extra humidity lock no one
 bothered to explain.
 
-The Facility moved on.
-That was what it did.
+The Facility moved on. That was what it did.
 
-It did not heal.
-It continued.
+It did not heal. It continued.
 
 The new archiver—young enough to still believe that work assigned cleanly had probably been
 authorized honestly—picked
 up the black folder and read the stamped lines on the surface.
 
-AUTHORIZED FOR REVIEW.
-ARCHIVE RECONCILIATION TASK.
-ENTITY ERA / MODERN DESIGNATION ALIGNMENT.
+AUTHORIZED FOR REVIEW. ARCHIVE RECONCILIATION TASK. ENTITY ERA / MODERN DESIGNATION ALIGNMENT.
 
 No messenger. No escort. No explanation.
 
@@ -63,17 +59,13 @@ survived only because it had been hidden where no one expected meaning to exist.
 
 She opened it.
 
-The text was short.
-Short enough to miss its danger if read too quickly.
+The text was short. Short enough to miss its danger if read too quickly.
 
 **Do not descend whole.**
 
 She frowned.
 
-No designation.
-No author.
-No routing explanation.
-No authority string.
+No designation. No author. No routing explanation. No authority string.
 
 Just the sentence.
 
@@ -93,8 +85,7 @@ handwriting geometry failed to align with the personnel identity assigned to it.
 the migration notes. The
 name had changed during digitization. The archived sign-stroke had not.
 
-A clerical correction, perhaps.
-Or a wound.
+A clerical correction, perhaps. Or a wound.
 
 She did not yet have the language for the difference.
 
@@ -105,8 +96,7 @@ By the end of shift she had three flagged irregularities:
   of
   AFD-NB-004
 
-Nothing enough to report upward dramatically.
-Everything enough to make her keep reading.
+Nothing enough to report upward dramatically. Everything enough to make her keep reading.
 
 When she finally signed out and stood from the desk, the archive lights had
 already shifted toward cycle-dim. She
@@ -129,9 +119,9 @@ A place of quiet shelves, dead paper, filtered dust, sealed systems, old lies, a
 the impossible labor of preserving
 truth by never letting it live in one place for too long.
 
-Far below the mapped floors, ITHYOS remained asleep.
-In cultivated chambers, the bloom still secreted its gold.
-In hidden shells, broken fragments of the first lie remained waiting.
+Far below the mapped floors, ITHYOS remained asleep. In cultivated chambers, the bloom still
+secreted its gold. In
+hidden shells, broken fragments of the first lie remained waiting.
 
 And the Facility, wounded and functional and hungry for its own continuity, kept breathing
 through all of it.

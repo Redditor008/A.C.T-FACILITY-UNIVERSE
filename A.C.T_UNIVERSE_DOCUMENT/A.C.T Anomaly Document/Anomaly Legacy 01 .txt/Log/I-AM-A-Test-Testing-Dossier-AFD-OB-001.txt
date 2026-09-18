@@ -135,7 +135,7 @@ OBSERVATIONS:
    - No physical damage occurred to the paper.
    - The attempted revision did not appear as ghost text, crossed-out text, or
      alternate overlay.
-   - The document preserved the first completed state.
+   — The document preserved the first completed state.
 
 RESULT:
 Confirmed. AFD-OB-001 enters immutable state after first finalized iteration.
@@ -210,9 +210,9 @@ OBSERVATIONS:
    - Attempted edits appeared to apply during active editing.
    - Upon saving, closing, and reopening the file, altered portions reverted to
      the original completed state.
-   - Printed copies produced from the altered file matched the original completed
+   — Printed copies produced from the altered file matched the original completed
      state rather than the attempted revision.
-   - Metadata recorded a save action but no corresponding content change.
+   — Metadata recorded a save action but no corresponding content change.
 
 RESULT:
 Digital revision failed after finalization. Digital copies preserve the original
@@ -247,7 +247,7 @@ OBSERVATIONS:
    - Copy B remained editable after completion.
    - Copy C became resistant to revision only after the copyist declared it a
      formal training derivative.
-   - Copy C's resistance was weaker than the original and ended after the word
+   — Copy C's resistance was weaker than the original and ended after the word
      "derivative" was crossed out on its file label.
 
 RESULT:
@@ -316,7 +316,7 @@ OBSERVATIONS:
    - No panic, confusion, or overreaction recorded.
    - AFD-OB-001 proved useful for explaining that harmless anomalies still
      require classification discipline.
-   - Two trainees attempted to suggest improving the file format. Both were
+   — Two trainees attempted to suggest improving the file format. Both were
      instructed to create derivative practice records instead.
 
 RESULT:

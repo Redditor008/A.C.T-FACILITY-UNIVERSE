@@ -216,9 +216,9 @@ The floor's plan comprises:
 - the sleep vault gallery, where residents are held in their chambers;
 - the monitoring gallery, from which the vaults are watched without
   disturbing the sleep;
-- the service ring, carrying power, environmental, and maintenance routes
+— the service ring, carrying power, environmental, and maintenance routes
   around the vault gallery without crossing it;
-- the floor command post and archive alcove.
+— the floor command post and archive alcove.
 
 ---
 

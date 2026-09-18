@@ -185,10 +185,10 @@ prove later.
 - ACT-SITE-03-JP-E-F-5 Redaction and Controlled-Reading Laboratory Floor Dossier;
 - ACT-SITE-03-JP-E-F-4 Research and Analysis Level Floor Dossier;
 - ACT-SITE-03-JP-E-F-6 General Records and Anomalous Intake Floor Dossier;
-- TECH-ACT-056 - Memetic Filtering Infrastructure;
-- TECH-ACT-057 - Anomalous Intake Screening Suites;
-- TECH-ACT-098 - Controlled Reading and Redaction Workroom System;
-- TECH-ACT-119 - Media Propagation Tracking Center System;
+- TECH-ACT-056 — Memetic Filtering Infrastructure;
+- TECH-ACT-057 — Anomalous Intake Screening Suites;
+- TECH-ACT-098 — Controlled Reading and Redaction Workroom System;
+- TECH-ACT-119 — Media Propagation Tracking Center System;
 - Kurokawa release authorization ledgers [restricted].
 
 ---
@@ -199,8 +199,8 @@ prove later.
   conditions?
   How much warning must remain in a released copy before minimum release becomes
   under-informative?
-- Can overredaction become a hazard by forcing personnel to guess the missing danger?
-- Should every public-compatible version carry a hidden recall marker?
+— Can overredaction become a hazard by forcing personnel to guess the missing danger?
+— Should every public-compatible version carry a hidden recall marker?
   When does a redacted document become a new document rather than a safer
   form
   of the old one?
@@ -212,9 +212,7 @@ prove later.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Redaction Authority Desk / Archive Division / Central Archive
-**Review Status:** Active redaction-release technology record; source texts, release identifiers, objection details,
-and recall routes censored
-**Next Review:** After any unsafe release, recall action, redaction dispute, filtering-history gap, Medical exposure
-note, Intelligence objection, or minimum-release override
+**Created:** 2026-09-16 **Author Desk:** Redaction Authority Desk / Archive Division / Central Archive **Review
+Status:** Active redaction-release technology record; source texts, release identifiers, objection details, and recall
+routes censored **Next Review:** After any unsafe release, recall action, redaction dispute, filtering-history gap,
+Medical exposure note, Intelligence objection, or minimum-release override

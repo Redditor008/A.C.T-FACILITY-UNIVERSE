@@ -2,11 +2,11 @@
 ## A Lobotomy Corporation × A.C.T. Facility Crossover
 ### Days 20–22: The Slumberer's Mercy
 
-> **Loop Count:** 10,127  
-> **Facility:** Lobotomy Corporation X-394, District 12  
-> **Motto:** *FACE THE FEAR, BUILD THE FUTURE.*  
-> **A.C.T. First Doctrine:** *Keep it asleep.*  
-> **ITHYOS Doctrine:** *May My Kind Be Peaceful.*  
+> **Loop Count:** 10,127
+> **Facility:** Lobotomy Corporation X-394, District 12
+> **Motto:** *FACE THE FEAR, BUILD THE FUTURE.*
+> **A.C.T. First Doctrine:** *Keep it asleep.*
+> **ITHYOS Doctrine:** *May My Kind Be Peaceful.*
 
 ---
 
@@ -22,8 +22,8 @@ familiar four work preferences — **Insight, Instinct, Attachment, Repression**
 a new line
 appears in golden text:
 
-> **Alternate Preferences: OBSERVE / INITIATE / INTENT / RESEARCH**  
-> **Values: UNKNOWN**  
+> **Alternate Preferences: OBSERVE / INITIATE / INTENT / RESEARCH**
+> **Values: UNKNOWN**
 > **Memento:** *"A Mercy I Gifts To You."*
 
 Angela freezes. Not literally — her systems are too robust for that — but
@@ -52,17 +52,16 @@ have increased by 1.
 
 She sends a message to X:
 
-  **ITHYOS has changed the rules of the facility. It has granted alternate work
-  preferences
-  to Abnormalities. The ACT
-  Anomalies receive this gift most often. Native Abnormalities receive it rarely. Serpent-type Abnormalities receive
-  an
-  additional Qliphoth Counter. The messages are consistent: "The Slumberer Give to this Pitiful World"
-  for native
-  anomalies, "A Mercy I Gifts To You" for ACT anomalies, and "May My Kind
-  Be Peaceful" for serpent-type. We are no
-  longer operating under the original script. The Well is integrating ITHYOS's mercy into its
-  system.**
+**ITHYOS has changed the rules of the facility. It has granted alternate work preferences
+to Abnormalities. The ACT
+Anomalies receive this gift most often. Native Abnormalities receive it rarely. Serpent-type Abnormalities receive
+an
+additional Qliphoth Counter. The messages are consistent: "The Slumberer Give to this Pitiful World"
+for native
+anomalies, "A Mercy I Gifts To You" for ACT anomalies, and "May My Kind
+Be Peaceful" for serpent-type. We are no
+longer operating under the original script. The Well is integrating ITHYOS's mercy into its
+system.**
 
 X reads the message three times. Then he asks the only question that matters:
 
@@ -150,8 +149,8 @@ Until now.
 
 Yesod finds the new line in its file:
 
-> **Alternate Preferences: OBSERVE / INITIATE / INTENT / RESEARCH**  
-> **Values: UNKNOWN**  
+> **Alternate Preferences: OBSERVE / INITIATE / INTENT / RESEARCH**
+> **Values: UNKNOWN**
 > **Memento:** *"The Slumberer Give to this Pitiful World."*
 
 Yesod does not trust the gift. He does not trust any gift that comes
@@ -202,10 +201,9 @@ exist in the previous loops.
 Yesod reads the notebook. He finds one line that makes him close the file
 and walk away:
 
-  *"The bird asked me, in a way that was not words, whether I
-  believed
-  it was a monster. I wrote that I did not know. It
-  seemed satisfied."*
+*"The bird asked me, in a way that was not words, whether I believed
+it was a monster. I wrote that I did not know. It
+seemed satisfied."*
 
 ---
 
@@ -259,14 +257,14 @@ from any file X recognizes. It is a native Abnormality, but its shape is
 different from anything the Well has produced
 in the previous 10,127 loops.
 
-> **Subject Number:** O-02-208  
-> **Name:** *The Coiled Watcher*  
-> **Risk Level:** HE  
-> **Attack Type:** BLACK (3–5)  
-> **E-Boxes:** 16  
-> **Qliphoth Counter:** 3  
-> **Work Preferences:** Insight (High), Repression (Moderate), Instinct (Low), Attachment (Low)  
-> **Alternate Preferences:** OBSERVE (Unknown), INITIATE (Unknown), INTENT (Unknown), RESEARCH (Unknown)  
+> **Subject Number:** O-02-208
+> **Name:** *The Coiled Watcher*
+> **Risk Level:** HE
+> **Attack Type:** BLACK (3–5)
+> **E-Boxes:** 16
+> **Qliphoth Counter:** 3
+> **Work Preferences:** Insight (High), Repression (Moderate), Instinct (Low), Attachment (Low)
+> **Alternate Preferences:** OBSERVE (Unknown), INITIATE (Unknown), INTENT (Unknown), RESEARCH (Unknown)
 > **Memento:** *"May My Kind Be Peaceful."*
 
 The Coiled Watcher is a serpent-like entity made of dark scales and slow, patient
@@ -317,11 +315,10 @@ for hours afterward.
 
 Malkuth updates the facility's standard work doctrine:
 
-  **For serpent-type Abnormalities with alternate preferences, OBSERVE and RESEARCH are safe, INITIATE and
-  INTENT
-  are
-  highly effective. All serpent-type Abnormalities receive +1 Qliphoth Counter as a baseline blessing from
-  ITHYOS.**
+**For serpent-type Abnormalities with alternate preferences, OBSERVE and RESEARCH are safe, INITIATE and INTENT
+are
+highly effective. All serpent-type Abnormalities receive +1 Qliphoth Counter as a baseline blessing from
+ITHYOS.**
 
 She underlines the last line three times. It is the first time a Sephirah
 has written a doctrine that cites a god.
@@ -353,12 +350,11 @@ Hokma updates the Record Team archive. He writes:
 
 He pauses, then adds:
 
-  *The implications are unclear. The Slumberer has not made the facility safer. It
-  has
-  made it more complex. It has
-  given the Abnormalities choices. In a facility built on the assumption that Abnormalities are
-  predictable, choice is
-  the most dangerous gift of all.*
+*The implications are unclear. The Slumberer has not made the facility safer. It has
+made it more complex. It has
+given the Abnormalities choices. In a facility built on the assumption that Abnormalities are
+predictable, choice is
+the most dangerous gift of all.*
 
 He closes the file. He does not know if the next loop will remember
 these changes. He does not know if the next loop
@@ -380,10 +376,9 @@ like a serpent eating its own tail.
 
 Angela sends a message to X:
 
-  **The rest days are ending. The ACT Anomalies are returning. The third option
-  will
-  appear tomorrow. Prepare the
-  facility.**
+**The rest days are ending. The ACT Anomalies are returning. The third option will
+appear tomorrow. Prepare the
+facility.**
 
 X receives the message in the central command room. He is surrounded by the
 new E.G.O. equipment: the Abyssal Fang,
@@ -425,28 +420,26 @@ a trap."
 
 ### II. The Head — The Sixth Report
 
-  **District 12, X-394. ITHYOS suppression has produced measurable systemic changes in the Well.
-  The
-  alternate work
-  preferences (OBSERVE, INITIATE, INTENT, RESEARCH) are now active across multiple Abnormalities. ACT Anomalies show
-  higher activation rates. Serpent-type Abnormalities demonstrate enhanced stability. The facility is no longer
-  operating under standard Lobotomy Corporation parameters. It is operating under a hybrid doctrine: original
-  protocol +
-  ITHYOS mercy protocol. The Claw team has been ordered to remain at the district
-  perimeter. The Eye observes. The
-  Council debates. The Arbiter has not yet been summoned, but the summons is prepared.**
+**District 12, X-394. ITHYOS suppression has produced measurable systemic changes in the Well. The
+alternate work
+preferences (OBSERVE, INITIATE, INTENT, RESEARCH) are now active across multiple Abnormalities. ACT Anomalies show
+higher activation rates. Serpent-type Abnormalities demonstrate enhanced stability. The facility is no longer
+operating under standard Lobotomy Corporation parameters. It is operating under a hybrid doctrine: original
+protocol +
+ITHYOS mercy protocol. The Claw team has been ordered to remain at the district
+perimeter. The Eye observes. The
+Council debates. The Arbiter has not yet been summoned, but the summons is prepared.**
 
 The observer adds:
 
-  *The question has changed. We are no longer asking whether the facility should
-  be
-  destroyed for hosting ITHYOS. We are
-  asking whether the facility should be destroyed for becoming ITHYOS. If the Well has
-  been permanently altered by the
-  serpent's presence, then the entire City is at risk. The Head does not permit
-  uncontrolled evolution. But the Head
-  also does not act against evolution it does not understand. We are, for the
-  moment, paralyzed by our own caution.*
+*The question has changed. We are no longer asking whether the facility should be
+destroyed for hosting ITHYOS. We are
+asking whether the facility should be destroyed for becoming ITHYOS. If the Well has
+been permanently altered by the
+serpent's presence, then the entire City is at risk. The Head does not permit
+uncontrolled evolution. But the Head
+also does not act against evolution it does not understand. We are, for the
+moment, paralyzed by our own caution.*
 
 The report is sent. The Claw team waits. The City sleeps, unaware that a
 god has rewritten the rules of its
@@ -465,23 +458,20 @@ nightmares.
 After the ITHYOS breach and suppression, all Abnormalities gain a chance to manifest alternate
 work preferences:
 
-  **OBSERVE:** Watch the Abnormality without direct interaction. Often produces calm, increases Qliphoth Counter,
-  and
-  reveals hidden information.
-  **INITIATE:** Make the first physical or symbolic contact. Often produces high energy and
-  establishes
-  trust, but risks
-  rejection if the approach is wrong.
-  **INTENT:** Declare a clear purpose to the Abnormality. The Abnormality evaluates the honesty
-  of
-  the intent. Clean
-  intent produces stability; selfish or fearful intent may trigger hostility.
-  **RESEARCH:** Study the Abnormality through measurement, documentation, or analysis. Often produces deep insight
-  and
-  predictive data, but may expose the researcher to dangerous knowledge.
+**OBSERVE:** Watch the Abnormality without direct interaction. Often produces calm, increases Qliphoth Counter, and
+reveals hidden information. **INITIATE:** Make the first physical or symbolic contact. Often produces high
+energy and
+establishes trust, but risks rejection if the approach is wrong. **INTENT:** Declare a clear
+purpose to the
+Abnormality. The Abnormality evaluates the honesty of the intent. Clean intent produces stability; selfish
+or fearful
+intent may trigger hostility. **RESEARCH:** Study the Abnormality through measurement, documentation, or analysis.
+Often produces deep insight and predictive data, but may expose the researcher to dangerous
+knowledge.
 
-**Memento for native Abnormalities:** *"The Slumberer Give to this Pitiful World."*  
-**Memento for ACT Anomalies:** *"A Mercy I Gifts To You."*
+**Memento for native Abnormalities:** *"The Slumberer Give to this Pitiful World."* **Memento for ACT
+Anomalies:** *"A
+Mercy I Gifts To You."*
 
 ### Serpent-Type Blessing
 
@@ -495,17 +485,17 @@ bonus.
 ### New Native Abnormality
 
 **O-02-208 — The Coiled Watcher**
-- **Risk Level:** HE
-- **Attack Type:** BLACK (3–5)
-- **E-Boxes:** 16
-- **Qliphoth Counter:** 3 (+1 serpent blessing)
+— **Risk Level:** HE
+— **Attack Type:** BLACK (3–5)
+— **E-Boxes:** 16
+— **Qliphoth Counter:** 3 (+1 serpent blessing)
   **Description:** A serpent-like Abnormality that watches employees without eyes. It does not kill;
   it
   coils around a
   single target during breaches, holding them still until suppression arrives. Highly responsive to the
   alternate work
   preferences, particularly INITIATE and INTENT.
-- **Memento:** *"May My Kind Be Peaceful."*
+— **Memento:** *"May My Kind Be Peaceful."*
 
 ---
 

@@ -213,8 +213,8 @@ room is dangerous.
 - ACT Technological Master Index 50, Item 43;
 - ACT Technological Visual Reference Guide, Item 43;
 - Crystal Butterfly, AFD-NB-325;
-- TECH-ACT-009 - Chrono-Stuttered Visors;
-- TECH-ACT-039 - High-Density Liquid Lead;
+- TECH-ACT-009 — Chrono-Stuttered Visors;
+- TECH-ACT-039 — High-Density Liquid Lead;
 - Protective Equipment hydrophobic treatment logs [restricted];
 - Site Safety radiation exposure ledgers [restricted].
 
@@ -233,8 +233,7 @@ room is dangerous.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Materials Custody / Protective Equipment Desk / Central Archive  
-**Review Status:** Active protective equipment record; restricted fiber composition censored  
-**Next Review:** After any counter-strip blackening, hydrophobic failure, particulate contact, unauthorized tailoring,
-or radiation overexposure event
+**Created:** 2026-09-15 **Author Desk:** Materials Custody / Protective Equipment Desk / Central Archive **Review
+Status:** Active protective equipment record; restricted fiber composition censored **Next Review:** After any
+counter-strip blackening, hydrophobic failure, particulate contact, unauthorized tailoring, or radiation overexposure
+event

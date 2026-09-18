@@ -103,16 +103,16 @@ payroll, regulatory history, and public reputation:
 - Redwood Veil Biotechnologies — agricultural and biomedical research
   concern; used for inbound logistics, reagent acquisition, and legitimate
   scientific cover for anomalous biological sampling.
-- Cascade Cold Chain Logistics — refrigerated freight operator; used for
+— Cascade Cold Chain Logistics — refrigerated freight operator; used for
   transport of temperature-sensitive objects and for the quiet movement of
   sealed materials between city nodes.
-- The Halvorsen Medical Foundation — private clinic and research hospital;
+— The Halvorsen Medical Foundation — private clinic and research hospital;
   provides cover for the Medical Division's cognitive and memetic trauma work
   and for the treatment of compromised personnel under civilian pretense.
-- Western State Archive Annex (fictional university program) — document
+— Western State Archive Annex (fictional university program) — document
   preservation facility used to explain archivists, microfilm traffic, and
   restricted document storage.
-- Additional single-occupancy residential and commercial fronts are rotated on
+— Additional single-occupancy residential and commercial fronts are rotated on
   a schedule. No cover identity is allowed to age past usefulness.
 
 3.3 Why the West
@@ -218,9 +218,9 @@ Because the complex sits on the Pacific routing chain, its jurisdiction
 frequently overlaps with:
 - ACT-SITE-03-JP-E (Kurokawa Archive Node) — for artifact export and
   document-borne hazards moving across the Pacific;
-- ACT-SITE-05-ID-C (Nusantara Deep Relay) — for maritime anomaly traffic
+— ACT-SITE-05-ID-C (Nusantara Deep Relay) — for maritime anomaly traffic
   and island-chain routing;
-- ACT-SUB-01-US-W (Glass Orchard Relay) — its principal support sub-site.
+— ACT-SUB-01-US-W (Glass Orchard Relay) — its principal support sub-site.
 
 Where multiple sites could claim an event, the Jurisdiction Priority Rule
 applies: containment viability first, secrecy risk second, recovery speed
@@ -280,7 +280,7 @@ The Intelligence Division at Redwood Veil runs the site's dual surveillance
 posture:
 - outward, against the civilian and GOI world — tracking black-market
   artifact movement, monitoring rival organizations, forecasting exposure risk;
-- inward, over site personnel — because a facility buried inside a city is
+— inward, over site personnel — because a facility buried inside a city is
   uniquely vulnerable to personnel leaking its location.
 
 The site maintains some of the Facility's heaviest coverage of the Anstrall
@@ -320,7 +320,7 @@ research concern. It contains:
 - administrative buildings
 - a central utility plant whose below-grade machinery floors conceal the
   primary elevator bank into the buried core
-- staff parking, delivery docks, and loading bays used for anomalous logistics
+— staff parking, delivery docks, and loading bays used for anomalous logistics
 
 No civilian employee of the campus has ever reached the buried core. Access
 requires layered clearance verification at every transition between legitimate
@@ -331,11 +331,11 @@ and operational space.
 The other cover structures function as satellite access points:
 - Cascade Cold Chain warehouses provide refrigerated artifact staging and
   transport-vehicle cover;
-- the Halvorsen Medical Foundation provides medical cover and a discreet
+— the Halvorsen Medical Foundation provides medical cover and a discreet
   intake route for compromised personnel;
-- the university archive annex provides document-flow cover and a secondary
+— the university archive annex provides document-flow cover and a secondary
   archive relay point;
-- residential fronts provide safe houses for field personnel and witnesses in
+— residential fronts provide safe houses for field personnel and witnesses in
   transition.
 
 7.3 Approaches and Perimeter
@@ -442,7 +442,7 @@ developed:
 - RSA-equipped intermodal containers for overland movement
 - Facility Converted Aircraft access through a remote Pacific-coast airfield
   node for transoceanic artifact routing
-- sealed rail corridors for bulk movement between the complex and Glass Orchard
+— sealed rail corridors for bulk movement between the complex and Glass Orchard
   Relay
 
 ---
@@ -463,12 +463,12 @@ that no single document can reveal it all.
 The complex's holdings are object-dominant but not object-exclusive:
 - object-class anomalies of every containment disposition, from INERT
   curiosities to REACTIVE hazards;
-- subjects of low-to-moderate threat requiring urban-adjacent housing;
-- memetic and informational objects requiring strict visual and document
+— subjects of low-to-moderate threat requiring urban-adjacent housing;
+— memetic and informational objects requiring strict visual and document
   quarantine;
-- trade-sensitive anomalous material recovered through black-market
+— trade-sensitive anomalous material recovered through black-market
   interdiction — the site's specialty;
-- transient holdings awaiting routing to specialized sites elsewhere in the
+— transient holdings awaiting routing to specialized sites elsewhere in the
   network.
 
 10.3 Signature Resident — AFD-OB-801, "Butcher Vanity"
@@ -533,13 +533,13 @@ The complex accepts:
 The complex routes material to:
 - ACT-SITE-03-JP-E (Kurokawa) — for East-Pacific and archival-document
   specialization;
-- ACT-SITE-02-RU-N (White Grave Station) — for cold-sensitive or
+— ACT-SITE-02-RU-N (White Grave Station) — for cold-sensitive or
   biologically unstable material requiring climate suppression;
-- ACT-SITE-04-BR-C (Verde Null Bio-Reserve) — for biological material
+— ACT-SITE-04-BR-C (Verde Null Bio-Reserve) — for biological material
   requiring wilderness or in-place enclosure;
-- ACT-SITE-05-ID-C (Nusantara Deep Relay) — for maritime and island-chain
+— ACT-SITE-05-ID-C (Nusantara Deep Relay) — for maritime and island-chain
   material;
-- the Primary Facility — for abyss-linked material, high-clearance
+— the Primary Facility — for abyss-linked material, high-clearance
   anomalies, and final doctrinal authority.
 
 11.3 Support Relationship — Glass Orchard Relay
@@ -629,9 +629,9 @@ A working day at the complex may include:
 - rehearsing a cover narrative for an imminent recovery
 - transporting a sealed object between city nodes under Cascade Cold Chain
   cover
-- treating a Recovery operator who viewed an object they should not have viewed
-- monitoring the Hanging Vault's visual-denial systems
-- evaluating whether a recovered document belongs in the archive or in
+— treating a Recovery operator who viewed an object they should not have viewed
+— monitoring the Hanging Vault's visual-denial systems
+— evaluating whether a recovered document belongs in the archive or in
   quarantine
 
 Routine at Redwood Veil is the disguise worn by constant danger — the same
@@ -682,7 +682,7 @@ development priorities include:
 - reinforcement of the F-2 memetic-component vaulting under updated doctrine
 - continued rotation and hardening of cover identities against sustained GOI
   observation
-- deeper integration with Kurokawa Archive Node for document-borne hazard
+— deeper integration with Kurokawa Archive Node for document-borne hazard
   routing
 
 The site's long-term function — to be the Facility's face in the densest

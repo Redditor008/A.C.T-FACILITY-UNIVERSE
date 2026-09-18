@@ -190,11 +190,11 @@ F-3's plan is organized around holding unit rows and suppression
 chambers:
 - the intake and assessment bays, where incoming material is received and
   assigned;
-- the biological suppression chambers;
-- the climate-controlled individual holding units;
-- the monitoring galleries;
-- the handling and transport corridors;
-- the floor command post and support services.
+— the biological suppression chambers;
+— the climate-controlled individual holding units;
+— the monitoring galleries;
+— the handling and transport corridors;
+— the floor command post and support services.
 
 7.2 The Biological Suppression Chambers
 
@@ -277,7 +277,7 @@ treated as a containment procedure.
 F-3 maintains standing transfer procedures:
 - material demonstrating entropic or destabilizing properties moves
   downward to F-2 under restricted-hold procedure;
-- material approved for research moves upward to F-4 under documented
+— material approved for research moves upward to F-4 under documented
   sample control.
 Both routes are documented under the station's chain-of-custody standard.
 
@@ -296,7 +296,7 @@ holdings without enumerating them.
 F-3 holds anomalies requiring:
 - cold suppression — material held in suppressed states under the
   station's suppression doctrine;
-- long-term isolation under standard conditions — residents held for
+— long-term isolation under standard conditions — residents held for
   extended periods in climate-controlled units under standard station
   doctrine.
 
@@ -377,8 +377,8 @@ F-3 is Active and operating within its designed capacity. Projected
 priorities include:
 - continued maintenance of the suppression chamber and holding unit
   infrastructure;
-- refinement of suppression administration doctrine;
-- coordination with the Research floor on the study of the floor's
+— refinement of suppression administration doctrine;
+— coordination with the Research floor on the study of the floor's
   residents.
 
 ---

@@ -212,8 +212,8 @@ whether A.C.T deserves to enter.
 - HIGENMARU-KORIN, AFD-OB-221;
 - HIGENMARU-KORIN updated 2026 capability profile;
 - HIGENMARU-KORIN relocation strategic dossier;
-- TECH-ACT-014 - Tactical Feedbacker Arm;
-- TECH-ACT-016 - Causal Tethering Cables;
+- TECH-ACT-014 — Tactical Feedbacker Arm;
+- TECH-ACT-016 — Causal Tethering Cables;
 - Unmanned recovery command ledgers [restricted].
 
 ---
@@ -225,15 +225,13 @@ whether A.C.T deserves to enter.
 - Can an anomaly recruit the AI through repeated simulation rather than network access?
   Should VPT-AI ever be allowed to command a live armed platform without human
   confirmation?
-- Does the green eye lens collect intention from operators standing nearby?
-- When does narrow combat logic become an excuse for human command avoiding responsibility?
+— Does the green eye lens collect intention from operators standing nearby?
+— When does narrow combat logic become an excuse for human command avoiding responsibility?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Tactical Review Desk / Engineering Division / Central Archive  
-**Review Status:** Active tactical record; recognition filter and future-operative pattern source censored  
-**Next Review:** After any mission-scope request, simulation bleed, drone-loss anomaly, or sovereign-site routing
-failure
+**Created:** 2026-09-15 **Author Desk:** Tactical Review Desk / Engineering Division / Central Archive **Review
+Status:** Active tactical record; recognition filter and future-operative pattern source censored **Next Review:**
+After any mission-scope request, simulation bleed, drone-loss anomaly, or sovereign-site routing failure

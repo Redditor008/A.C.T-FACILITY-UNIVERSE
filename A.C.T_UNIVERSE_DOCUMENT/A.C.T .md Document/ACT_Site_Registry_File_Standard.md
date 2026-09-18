@@ -25,20 +25,20 @@ inside the wider A.C.T network.
 ## 1. Required Site Registry Fields
 Every site file must contain the following sections in recognizable order:
 
-1. **Site Designation**  
-2. **Codename**  
-3. **Site Type**  
-4. **Location**  
-5. **Command Authority**  
-6. **Primary Function**  
-7. **Divisions Present**  
-8. **Containment Profile**  
-9. **Regional Jurisdiction**  
-10. **Notable Features**  
-11. **Current Status**  
-12. **History Notes**  
-13. **Security Notes**  
-14. **Cross-Referenced Files**  
+1. **Site Designation**
+2. **Codename**
+3. **Site Type**
+4. **Location**
+5. **Command Authority**
+6. **Primary Function**
+7. **Divisions Present**
+8. **Containment Profile**
+9. **Regional Jurisdiction**
+10. **Notable Features**
+11. **Current Status**
+12. **History Notes**
+13. **Security Notes**
+14. **Cross-Referenced Files**
 
 No official SITE or SUB-SITE is to remain active in Facility doctrine without a
 maintained registry body.
@@ -222,9 +222,8 @@ If a registry file fails to answer those questions, it is incomplete.
 ---
 
 ## 9. Final Site Registry Statement
-  A.C.T Site Registry doctrine exists to ensure that every recognized installation—whether full SITE,
-  SUB-SITE,
-  relay,
-  or blacksite—can be understood as part of the wider anomaly-management structure of the Facility.
-  A site without a
-  registry is a risk to archive continuity, command clarity, containment routing, and doctrinal memory.
+A.C.T Site Registry doctrine exists to ensure that every recognized installation—whether full SITE, SUB-SITE,
+relay,
+or blacksite—can be understood as part of the wider anomaly-management structure of the Facility.
+A site without a
+registry is a risk to archive continuity, command clarity, containment routing, and doctrinal memory.

@@ -220,7 +220,7 @@ applying it is careless.
 - Vivienne Argent, AFD-SU-827;
 - Vivienne Argent interview and behavioral observation dossiers;
 - Annoyingly-Indestructible-Lizard GRUMBLESAIL, AFD-SU-012;
-- TECH-ACT-023 - Genetic Perfection Protocol;
+- TECH-ACT-023 — Genetic Perfection Protocol;
 - Verde Null Bio-Reserve subject-care procedures [restricted].
 
 ---
@@ -240,9 +240,7 @@ applying it is careless.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Medical Division / Biological Subject Care Desk / Central Archive  
-**Review Status:** Active biological medical record; formulation and metabolic buffer details censored  
-**Next Review:** After any adverse tissue response, gel separation, shed-cycle disruption, or new NB-class
-transmutant
-case
+**Created:** 2026-09-15 **Author Desk:** Medical Division / Biological Subject Care Desk / Central Archive
+**Review
+Status:** Active biological medical record; formulation and metabolic buffer details censored **Next Review:** After
+any adverse tissue response, gel separation, shed-cycle disruption, or new NB-class transmutant case

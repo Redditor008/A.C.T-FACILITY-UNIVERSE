@@ -128,11 +128,11 @@ A.C.T assessment divides the organization into several functional layers:
 - dead-address clerks who preserve locations after public systems fail;
   absence cartographers who compare old maps, emergency routes, missing trail records, and impossible
   coordinates;
-- signal keepers who preserve radio, phone, web, and emergency-call traces;
-- field relays who guide recovery crews without always entering the hazard area;
-- witness continuance officers who make sure missing persons remain legally and socially named;
-- archive bell operators who issue alerts when a case enters Missing 404 patterning;
-- locked-ledger custodians who protect sensitive absence records from accidental deletion or deliberate normalcy
+— signal keepers who preserve radio, phone, web, and emergency-call traces;
+— field relays who guide recovery crews without always entering the hazard area;
+— witness continuance officers who make sure missing persons remain legally and socially named;
+— archive bell operators who issue alerts when a case enters Missing 404 patterning;
+— locked-ledger custodians who protect sensitive absence records from accidental deletion or deliberate normalcy
   cleanup.
 
 This structure is why the group qualifies as a GOI rather than a rumor,
@@ -419,23 +419,16 @@ verified death. Request granted with Level 4 restriction.
 
 ### Confirmed Operational Facts
 
-  Missing 404 Watch Tower is an outside organization with repeated structured contact across
-  separate
-  missing-person,
-  dead-address, and vanished-record cases.
-  The group uses the phrase **Not found is not gone** as an operating
-  rule
-  across multiple recovered materials.
-  The group has provided actionable location, signal, or record-preservation assistance in more than
-  one
-  A.C.T recovery
-  case.
-  The group is not an A.C.T internal division and does not accept A.C.T
-  command
-  authority.
-  The group preserves names and records that may otherwise disappear from civic, digital,
-  or
-  internal lookup systems.
+Missing 404 Watch Tower is an outside organization with repeated structured contact across separate
+missing-person,
+dead-address, and vanished-record cases. The group uses the phrase **Not found is not gone**
+as an operating rule
+across multiple recovered materials. The group has provided actionable location, signal, or record-preservation
+assistance in more than one A.C.T recovery case. The group is not an A.C.T
+internal division and does not accept A.C.T
+command authority. The group preserves names and records that may otherwise disappear from civic,
+digital, or internal
+lookup systems.
 
 ### Active Intelligence Assessment
 
@@ -470,7 +463,7 @@ partner for cases where normal search, archive, and map logic fail.
   from
   becoming administratively dead inside
   containment?
-- Are any Tower posts built inside places that are already missing?
+— Are any Tower posts built inside places that are already missing?
   Does the phrase **404** originate from digital error language, an older tower code
   later
   mapped onto digital absence,
@@ -510,7 +503,7 @@ every disappearance it observes.
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational
   Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md`
-- Restricted missing-person, vanished-location, and dead-address case chains held under Central Archive routing.
+— Restricted missing-person, vanished-location, and dead-address case chains held under Central Archive routing.
 
 ### Dual Filing
 

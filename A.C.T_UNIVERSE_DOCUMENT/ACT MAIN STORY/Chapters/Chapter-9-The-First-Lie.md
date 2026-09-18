@@ -2,9 +2,8 @@
 
 By the ninth day, Sera no longer believed in coincidence.
 
-Not inside the Facility.
-Not inside the archive.
-Not in any record that bent the same way too many times and expected
+Not inside the Facility. Not inside the archive. Not in any record that bent
+the same way too many times and expected
 to be called history.
 
 The pieces were finally close enough to touch one another.
@@ -19,8 +18,7 @@ possible. And the founders had not merely hidden what they learned. They had use
 the earliest forms of forgetting
 against themselves.
 
-The truth no longer looked like a question.
-It looked like a structure.
+The truth no longer looked like a question. It looked like a structure.
 
 And if it was a structure, then it had an architect.
 
@@ -44,8 +42,7 @@ the internal
 logic—where emphasis fell, how orders were phrased, where hesitation showed in handwritten correction margins—remained
 too consistent across too many impossible spans.
 
-This was not a line of remembered people.
-It was a continuity machine.
+This was not a line of remembered people. It was a continuity machine.
 
 The O5 had inherited themselves from damaged originals.
 
@@ -89,9 +86,7 @@ identical intent:
 
 **truth retention risk**
 
-Not truth exposure.
-Not public panic.
-Not secrecy compromise.
+Not truth exposure. Not public panic. Not secrecy compromise.
 
 Truth retention.
 
@@ -110,8 +105,7 @@ merely because the truth was politically or socially catastrophic. They had done
 remembering the full
 reality of the abyss was judged unsafe to the rememberer.
 
-Memory was not passive in this story.
-Memory was participation.
+Memory was not passive in this story. Memory was participation.
 
 That made the rest inevitable.
 
@@ -124,8 +118,8 @@ external cover-up could explain:
 To preserve the world, the institution guarding it could not be allowed to remember
 its own origin whole.
 
-The first lie was therefore not a denial of history.
-It was a containment procedure applied to history.
+The first lie was therefore not a denial of history. It was a containment
+procedure applied to history.
 
 Sera wrote the sentence into her shadow file and immediately hated how clear it
 looked.
@@ -158,11 +152,7 @@ The first thing that struck her was how many times the survivor had been
 reclassified without ever leaving the same
 room.
 
-Review casualty.
-Recovered internal.
-Continuity failure subject.
-Restricted witness.
-Living contradiction.
+Review casualty. Recovered internal. Continuity failure subject. Restricted witness. Living contradiction.
 
 The last term had been struck through in black and replaced with more acceptable
 language. But the older version still
@@ -181,8 +171,8 @@ survivor repeatedly insisted on the same impossible structure:
   the thing beneath the Earth was already known in the body before it
   was
   understood in the mind
-- forgetting did not begin after contact
-- forgetting was part of contact
+— forgetting did not begin after contact
+— forgetting was part of contact
 
 Sera read one line, then had to stand up and walk the length of
 the annex before she could return to it.
@@ -205,16 +195,13 @@ And then:
 
 That line shook her more than anything she had read all day.
 
-It was almost beautiful.
-That made it obscene.
+It was almost beautiful. That made it obscene.
 
 The flower is what rises when the sleep holds.
 
-NEMNOLIA as consequence.
-NEMNOLIA as symptom.
-NEMNOLIA as proof that the sleeping state below was not stillness, but active pressure
-leaking upward into biological
-form.
+NEMNOLIA as consequence. NEMNOLIA as symptom. NEMNOLIA as proof that the sleeping state below
+was not stillness, but
+active pressure leaking upward into biological form.
 
 The source of amnestics. The blossom of forgetfulness. The mechanism of mercy.
 
@@ -227,8 +214,7 @@ No wonder they had mutilated their own memory instead of preserving a clean reco
 No wonder the O5 line looked less like inherited authority and more like reconstructed
 survival.
 
-A.C.T was not founded on a secret.
-It was founded on an agreement.
+A.C.T was not founded on a secret. It was founded on an agreement.
 
 An agreement that the truth of the abyss could not be held in full
 by the institution built above it.
@@ -299,12 +285,11 @@ time. She looked at the shadow file, at the survivor lines, at the rewritten
 founder signatures, at the
 pharmacological dependency chain, and felt the story converge at last.
 
-ERE was drawn downward.
-NEMNOLIA came with the abyss.
-The founders erased themselves.
-The O5 inherited a structure built over self-inflicted forgetting.
-And the institution that controlled memory did so because its own memory had become
-part of containment.
+ERE was drawn downward. NEMNOLIA came with the abyss. The founders erased themselves. The
+O5 inherited a structure
+built over self-inflicted forgetting. And the institution that controlled memory did so because its
+own memory had
+become part of containment.
 
 She opened a fresh page and wrote the line she had spent days circling.
 
@@ -323,8 +308,7 @@ The first lie finally had a shape.
 And now that she could see it clearly, Sera understood what the founders must
 have felt when they first chose it.
 
-Not triumph.
-Not power.
+Not triumph. Not power.
 
 Only the terrible relief of realizing that ignorance could be engineered.
 

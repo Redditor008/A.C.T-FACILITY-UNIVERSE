@@ -2,13 +2,13 @@
 ## A Lobotomy Corporation × A.C.T. Facility Crossover
 ### Days 7–10: The Rift Beneath
 
-> **Loop Count:** 10,127  
-> **Facility:** Lobotomy Corporation X-394, District 12  
-> **Motto:** *FACE THE FEAR, BUILD THE FUTURE.*  
+> **Loop Count:** 10,127
+> **Facility:** Lobotomy Corporation X-394, District 12
+> **Motto:** *FACE THE FEAR, BUILD THE FUTURE.*
   **A.C.T. Motto:** *To A.C.T is to maintain the normalcy and the stability of
   Earth
   and its populace.*
-> **A.C.T. First Doctrine:** *Keep it asleep.*  
+> **A.C.T. First Doctrine:** *Keep it asleep.*
 
 ---
 
@@ -24,12 +24,12 @@ and brass, its face stopped at
 has read the A.C.T. file and
 translated it into something that fits Lobotomy Corporation's vocabulary.
 
-> **Subject Number:** O-06-202  
-> **Name:** *The Accelerant Hour*  
-> **Original Designation:** AFD-TI-008 — CLOCK SAY'S DAWN  
-> **Risk Level:** WAW  
-> **Attack Type:** WHITE (4–6) / PALE (2–3)  
-> **E-Boxes:** 22  
+> **Subject Number:** O-06-202
+> **Name:** *The Accelerant Hour*
+> **Original Designation:** AFD-TI-008 — CLOCK SAY'S DAWN
+> **Risk Level:** WAW
+> **Attack Type:** WHITE (4–6) / PALE (2–3)
+> **E-Boxes:** 22
 > **Qliphoth Counter:** 2
 
 Angela reads the original file. The A.C.T. Threat Level is 7. The clock accelerates
@@ -80,9 +80,8 @@ The later pages describe events that have not happened yet. The final page, writ
 in a hand that no longer resembles
 Orson's, says:
 
-  *The loop will not reset this time. The clock saw it. The clock
-  says
-  dawn.*
+*The loop will not reset this time. The clock saw it. The clock says
+dawn.*
 
 Angela closes the file. She does not tell X what the last page says.
 
@@ -130,12 +129,12 @@ Today."
 The third option on Day 8 is a weapon. Gebura knows what to do
 with weapons.
 
-> **Subject Number:** O-04-203  
-> **Name:** *The Thirst Above Hand*  
-> **Original Designation:** AFD-OB-006 — Crimson Katana  
-> **Risk Level:** WAW  
-> **Attack Type:** RED (5–7)  
-> **E-Boxes:** 24  
+> **Subject Number:** O-04-203
+> **Name:** *The Thirst Above Hand*
+> **Original Designation:** AFD-OB-006 — Crimson Katana
+> **Risk Level:** WAW
+> **Attack Type:** RED (5–7)
+> **E-Boxes:** 24
 > **Qliphoth Counter:** 1
 
 The original A.C.T. file describes a floating katana that compels anyone who sees it
@@ -208,12 +207,12 @@ creature.
 He reads the name and does not know whether to be relieved or more
 afraid.
 
-> **Subject Number:** O-02-204  
-> **Name:** *The Dream Eater*  
-> **Original Designation:** AFD-SU-011 — Dream Eater  
-> **Risk Level:** HE  
-> **Attack Type:** WHITE (3–4)  
-> **E-Boxes:** 16  
+> **Subject Number:** O-02-204
+> **Name:** *The Dream Eater*
+> **Original Designation:** AFD-SU-011 — Dream Eater
+> **Risk Level:** HE
+> **Attack Type:** WHITE (3–4)
+> **E-Boxes:** 16
 > **Qliphoth Counter:** 4
 
 The file image shows a small whale swimming through air. It looks gentle. It
@@ -369,30 +368,28 @@ Angela sends a single message to X. It is the first time she has
 ever used the emergency override channel without
 authorization from the script.
 
-  **Do not enter the Rift. Do not open the door. Do not let
-  it
-  wake.**
+**Do not enter the Rift. Do not open the door. Do not let it
+wake.**
 
 X reads the message. Then he reads the file that has materialized on his
 desk. It is an A.C.T. document, old and new
 at the same time:
 
-> **ENTITY-000 / AFD-CH-000**  
-> **Title I:** The Slumbering Serpent God  
-> **Title II:** ITHYOS, The World-Sleeper  
-> **Field Type:** Cosmic Hazard  
-> **Containment Class:** TIAMAT  
-> **Threat Level:** 10  
-> **Transformation Viability:** INVIOLABLE  
+> **ENTITY-000 / AFD-CH-000**
+> **Title I:** The Slumbering Serpent God
+> **Title II:** ITHYOS, The World-Sleeper
+> **Field Type:** Cosmic Hazard
+> **Containment Class:** TIAMAT
+> **Threat Level:** 10
+> **Transformation Viability:** INVIOLABLE
 > **Primary Doctrine:** *Keep it asleep.*
 
 X reads the last line three times. Then he reads the attached historical note:
 
-  *Some could only be studied, observed, avoided, and kept asleep. The first doctrine
-  derived
-  from ENTITY-000 was
-  simple: Keep it asleep. This remains one of the most important pre-modern principles in
-  Facility history.*
+*Some could only be studied, observed, avoided, and kept asleep. The first doctrine derived
+from ENTITY-000 was
+simple: Keep it asleep. This remains one of the most important pre-modern principles in
+Facility history.*
 
 "Angela," X says, "what is behind the door?"
 
@@ -524,28 +521,26 @@ things are only meant to be dreamt of."
 
 ### IV. The Head — The Third Report
 
-  **District 12, X-394. Unregistered Singularity fluctuation escalated. A structural annex has manifested beneath
-  the
-  facility. No excavation record. No architectural permit. No spatial patent. The annex contains a
-  single vault housing
-  a non-classified entity. Tentative designation: ITHYOS. Risk: immeasurable. Taboo status: under review. The Eye
-  sees.
-  The Claw waits. The Arbiter has been informed.**
+**District 12, X-394. Unregistered Singularity fluctuation escalated. A structural annex has manifested beneath the
+facility. No excavation record. No architectural permit. No spatial patent. The annex contains a
+single vault housing
+a non-classified entity. Tentative designation: ITHYOS. Risk: immeasurable. Taboo status: under review. The Eye
+sees.
+The Claw waits. The Arbiter has been informed.**
 
 The observer pauses before filing the report. For the first time in this assignment,
 the observer adds a personal
 note:
 
-  *The entity is not from the Well. The entity is not from the
-  City.
-  The entity is not from any known Wing or GOI. Its
-  presence suggests that the Well has begun importing content from a source beyond our
-  cosmological registry. Recommend
-  immediate escalation to A/B/C Council for doctrinal review.*<br>
-  *The question is no longer whether Lobotomy Corporation has broken a taboo. The
-  question
-  is whether the City has a
-  taboo for receiving a world from outside the world.*
+*The entity is not from the Well. The entity is not from the City.
+The entity is not from any known Wing or GOI. Its
+presence suggests that the Well has begun importing content from a source beyond our
+cosmological registry. Recommend
+immediate escalation to A/B/C Council for doctrinal review.*<br> *The question is no longer whether
+Lobotomy
+Corporation has broken a taboo. The question is whether the City has a taboo
+for receiving a world from outside the
+world.*
 
 The observer sends the report and waits.
 

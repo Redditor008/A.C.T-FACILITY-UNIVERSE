@@ -239,8 +239,8 @@ containment systems depend.
 
 ## CROSS-REFERENCES
 
-- TECH-ACT-001 - Reality Stabilization Anchor System;
-- TECH-ACT-006 - Facility Converted Aircraft System;
+- TECH-ACT-001 — Reality Stabilization Anchor System;
+- TECH-ACT-006 — Facility Converted Aircraft System;
 - ACT Technological Master Index 50, Item 44;
 - ACT Technological Visual Reference Guide, Item 44 and RSA core notes;
 - Abyssal Basalt and Abyss Floor material custody files;
@@ -256,14 +256,14 @@ containment systems depend.
 - Are counterfeit violet crystals harmless frauds or hostile sensor poisons?
   Why do some fragments remain cold until loaded while others produce heat at
   rest?
-- Can shard disagreement be predicted before a four-split core enters service?
-- Does long-term proximity to SPC affect personnel sense of ordinary space?
+— Can shard disagreement be predicted before a four-split core enters service?
+— Does long-term proximity to SPC affect personnel sense of ordinary space?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Engineering Division / Materials Custody Desk / Central Archive  
-**Review Status:** Active restricted record; source and cutting details censored  
-**Next Review:** After any RSA-BLACK core quarantine, unregistered violet shard recovery, or source-chain discrepancy
+**Created:** 2026-09-15 **Author Desk:** Engineering Division / Materials Custody Desk / Central Archive **Review
+Status:** Active restricted record; source and cutting details censored **Next Review:** After any RSA-BLACK
+core
+quarantine, unregistered violet shard recovery, or source-chain discrepancy

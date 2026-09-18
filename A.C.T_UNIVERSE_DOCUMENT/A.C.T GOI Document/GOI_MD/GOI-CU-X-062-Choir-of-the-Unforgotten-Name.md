@@ -455,7 +455,7 @@ The card was left at an A.C.T temporary evidence office. No entry breach recorde
   by
   anomaly events and
   institutional response.
-- Its rites can partially undo amnestic softening or restore sealed incident memory.
+— Its rites can partially undo amnestic softening or restore sealed incident memory.
   Its members include grieving civilians and trained cultic practitioners; the two categories must
   not
   be collapsed.
@@ -487,7 +487,7 @@ aftercare, protected memorial options, safer truth handling, and interruption of
   Are active refrains anomalous by wording, melody, number of singers, grief state, or
   presence
   of a true name?
-- How many Name Bearers carry A.C.T-restricted victim names orally with no written copy?
+— How many Name Bearers carry A.C.T-restricted victim names orally with no written copy?
   Can the Choir restore memories removed by 004-series amnestics, or only memories softened
   by
   later public narratives?
@@ -497,7 +497,7 @@ aftercare, protected memorial options, safer truth handling, and interruption of
   damage language?
   Has the Choir ever intentionally triggered a dangerous memory in order to expose
   A.C.T?
-- Can A.C.T create protected memorial records that reduce recruitment without increasing public exposure?
+— Can A.C.T create protected memorial records that reduce recruitment without increasing public exposure?
 
 ### Intelligence Confidence
 
@@ -530,9 +530,9 @@ aftercare or family-notification review.
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/NEMNOLIA-004-Series-Amnestic-Archive.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational
   Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md`
-- Restricted amnestic, witness, memory-shard, memorial, missing-person, and post-incident identity case chains held
+— `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md`
+— `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md`
+— Restricted amnestic, witness, memory-shard, memorial, missing-person, and post-incident identity case chains held
   under Central Archive routing.
 
 ### Dual Filing

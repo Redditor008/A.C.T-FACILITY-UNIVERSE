@@ -82,10 +82,9 @@ depends on a higher command body
 for broader authority, support, or oversight.
 
 ### Simple Doctrine Statement
-  A **SUB-SITE** is a smaller or specialized A.C.T installation operating under a larger
-  SITE
-  or regional command
-  structure.
+A **SUB-SITE** is a smaller or specialized A.C.T installation operating under a larger SITE
+or regional command
+structure.
 
 ---
 
@@ -263,31 +262,23 @@ Active / Restricted / Under Expansion / Compromised / Sealed / Archived
 
 ## 11. Example SITE Record
 ## ACT-SITE-01-US-W
-**Codename:** Redwood Veil Complex  
-**Site Type:** Regional Site  
-**Location:** Western United States  
-**Command Authority:** Site Director under Facility Administrator review  
-**Primary Function:** Urban anomaly recovery, artifact containment, rapid secrecy response, and GOI suppression  
-**Divisions Present:** Security, Recovery, Containment, Intelligence, Archive, Medical  
-**Containment Profile:** Object anomalies, high-mobility manifestations, trade-sensitive anomalous material  
-**Regional Jurisdiction:** Western U.S. anomalous incidents and Pacific-linked covert routing  
-**Notable Features:** Extremely rapid surface concealment response capability  
-**Current Status:** Active  
+**Codename:** Redwood Veil Complex **Site Type:** Regional Site **Location:** Western United States **Command
+Authority:** Site Director under Facility Administrator review **Primary Function:** Urban anomaly recovery, artifact
+containment, rapid secrecy response, and GOI suppression **Divisions Present:** Security, Recovery, Containment,
+Intelligence, Archive, Medical **Containment Profile:** Object anomalies, high-mobility manifestations,
+trade-sensitive anomalous material **Regional Jurisdiction:** Western U.S. anomalous incidents and Pacific-linked
+covert routing **Notable Features:** Extremely rapid surface concealment response capability **Current Status:**
+Active
 
 ---
 
 ## 12. Example SUB-SITE Record
 ## ACT-SUB-01-US-W
-**Codename:** Glass Orchard Relay  
-**Site Type:** Sub-Site  
-**Location:** Western United States  
-**Command Authority:** Reports to ACT-SITE-01-US-W  
-**Primary Function:** Temporary holding, archive relay, witness processing, and overflow intake  
-**Divisions Present:** Limited Archive, Security, Medical, Recovery support  
-**Containment Profile:** Short-term object storage and low-threat anomaly intake  
-**Regional Jurisdiction:** Overflow support for Site 01 regional operations  
-**Notable Features:** Cover identity as an agricultural biotech station  
-**Current Status:** Active  
+**Codename:** Glass Orchard Relay **Site Type:** Sub-Site **Location:** Western United States **Command Authority:**
+Reports to ACT-SITE-01-US-W **Primary Function:** Temporary holding, archive relay, witness processing, and overflow
+intake **Divisions Present:** Limited Archive, Security, Medical, Recovery support **Containment Profile:** Short-term
+object storage and low-threat anomaly intake **Regional Jurisdiction:** Overflow support for Site 01 regional
+operations **Notable Features:** Cover identity as an agricultural biotech station **Current Status:** Active
 
 ---
 
@@ -312,14 +303,13 @@ The doctrine therefore prioritizes **institutional role** over simple architectu
 ---
 
 ## 14. Final Site Doctrine Statement
-  Within A.C.T operational terminology, a **SITE** refers to a major permanent installation with
-  the
-  authority,
-  infrastructure, and divisional capacity to function as an official anomaly-management body of the Facility.
-  A
-  **SUB-SITE** refers to a secondary or specialized installation operating under a larger site or
-  regional command
-  structure, usually assigned a narrower purpose such as observation, overflow containment, archive relay, regional
-  support, or covert anomaly management. The distinction between SITE and SUB-SITE is not one
-  of worth, but of scale,
-  sovereignty, and institutional completeness.
+Within A.C.T operational terminology, a **SITE** refers to a major permanent installation with the
+authority,
+infrastructure, and divisional capacity to function as an official anomaly-management body of the Facility.
+A
+**SUB-SITE** refers to a secondary or specialized installation operating under a larger site or
+regional command
+structure, usually assigned a narrower purpose such as observation, overflow containment, archive relay, regional
+support, or covert anomaly management. The distinction between SITE and SUB-SITE is not one
+of worth, but of scale,
+sovereignty, and institutional completeness.

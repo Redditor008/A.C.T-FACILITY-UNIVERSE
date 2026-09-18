@@ -4,10 +4,10 @@
 ## A Lobotomy Corporation × A.C.T. Facility Crossover
 ### Days 26–28: The Mercies That Kill
 
-> **Loop Count:** 10,127  
-> **Facility:** Lobotomy Corporation X-394, District 12  
-> **Motto:** *FACE THE FEAR, BUILD THE FUTURE.*  
-> **ITHYOS Doctrine:** *May My Kind Be Peaceful.*  
+> **Loop Count:** 10,127
+> **Facility:** Lobotomy Corporation X-394, District 12
+> **Motto:** *FACE THE FEAR, BUILD THE FUTURE.*
+> **ITHYOS Doctrine:** *May My Kind Be Peaceful.*
 
 ---
 
@@ -17,14 +17,14 @@
 
 The third option on Day 26 arrives with a splash.
 
-> **Subject Number:** O-02-212  
-> **Name:** *The Embrace That Doesn't Know When To Stop*  
-> **Original Designation:** AFD-NB-018 — Slime Love  
-> **Risk Level:** HE  
-> **Attack Type:** WHITE (3–5) / BLACK (2–4)  
-> **E-Boxes:** 16  
-> **Qliphoth Counter:** 2  
-> **Alternate Preferences:** OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)  
+> **Subject Number:** O-02-212
+> **Name:** *The Embrace That Doesn't Know When To Stop*
+> **Original Designation:** AFD-NB-018 — Slime Love
+> **Risk Level:** HE
+> **Attack Type:** WHITE (3–5) / BLACK (2–4)
+> **E-Boxes:** 16
+> **Qliphoth Counter:** 2
+> **Alternate Preferences:** OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)
   **Memento:** *"It only wanted to hold someone. It never learned that love can
   be
   a slow drowning."*
@@ -136,14 +136,14 @@ into the cell.
 
 The third option on Day 27 is a bell.
 
-> **Subject Number:** O-05-213  
-> **Name:** *Dead Ringer*  
-> **Original Designation:** AFD-OB-022 — The Bell That Refuses To Let You Stay Buried  
-> **Risk Level:** WAW  
-> **Attack Type:** WHITE (4–6) / PALE (2–3)  
-> **E-Boxes:** 22  
-> **Qliphoth Counter:** 1  
-> **Alternate Preferences:** OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)  
+> **Subject Number:** O-05-213
+> **Name:** *Dead Ringer*
+> **Original Designation:** AFD-OB-022 — The Bell That Refuses To Let You Stay Buried
+> **Risk Level:** WAW
+> **Attack Type:** WHITE (4–6) / PALE (2–3)
+> **E-Boxes:** 22
+> **Qliphoth Counter:** 1
+> **Alternate Preferences:** OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)
   **Memento:** *"It rang for every death. And every death came back to ask
   why
   we buried them."*
@@ -217,9 +217,8 @@ are held in the adjacent room. They are all
 employees who died in the facility. They all believe they are alive. They all
 ask the same questions:
 
-"Why am I here?"  
-"When can I go back to work?"  
-"Why won't anyone look at me?"
+"Why am I here?" "When can I go back to work?" "Why won't anyone
+look at me?"
 
 The seventh duplicate is different. She is a junior researcher named Mira, who died
 in a containment accident during a
@@ -228,8 +227,8 @@ But when she is left alone,
 she begins to write on the walls with a finger. The words are not
 her own. They are phrases from the A.C.T. file:
 
-> *"The duplicate is unaware of this."*  
-> *"The duplicate does not notice that their breath does not fog glass."*  
+> *"The duplicate is unaware of this."*
+> *"The duplicate does not notice that their breath does not fog glass."*
 > *"The duplicate will not leave."*
 
 Mira's duplicate has reached the 90-day awareness threshold in three hours.
@@ -281,14 +280,14 @@ want the dead to return."**
 
 The third option on Day 28 is a figure.
 
-> **Subject Number:** F-01-214  
-> **Name:** *The Figure That Watches You Not Yet Admit*  
-> **Original Designation:** AFD-SU-024 — Self-Inflicted Achromatic  
-> **Risk Level:** WAW  
-> **Attack Type:** WHITE (5–7) / PALE (3–4)  
-> **E-Boxes:** 24  
-> **Qliphoth Counter:** 1  
-> **Alternate Preferences:** OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)  
+> **Subject Number:** F-01-214
+> **Name:** *The Figure That Watches You Not Yet Admit*
+> **Original Designation:** AFD-SU-024 — Self-Inflicted Achromatic
+> **Risk Level:** WAW
+> **Attack Type:** WHITE (5–7) / PALE (3–4)
+> **E-Boxes:** 24
+> **Qliphoth Counter:** 1
+> **Alternate Preferences:** OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)
   **Memento:** *"The gray waits for the color of confession. When you admit it,
   you
   become the gray."*
@@ -400,30 +399,27 @@ she refused it."
 
 ### III. The Head — The Eighth Report
 
-  **District 12, X-394. The ACT anomaly influx has resumed with three high-impact entities:
-  O-02-212
-  (Slime Love),
-  O-05-213 (Dead Ringer), and F-01-214 (Self-Inflicted Achromatic). Each demonstrates a different mode of
-  psychological
-  predation: absorption through affection, duplication through mortality, and substitution through guilt. The facility
-  is no longer merely managing dangerous entities. It is managing the fundamental human vulnerabilities
-  of love, death,
-  and shame. The Well has adapted these A.C.T. anomalies into a mirror of the
-  facility's own sins. The Eye observes. The
-  Claw waits. The Council has voted to convene the Arbiter.**
+**District 12, X-394. The ACT anomaly influx has resumed with three high-impact entities: O-02-212
+(Slime Love),
+O-05-213 (Dead Ringer), and F-01-214 (Self-Inflicted Achromatic). Each demonstrates a different mode of psychological
+predation: absorption through affection, duplication through mortality, and substitution through guilt. The facility
+is no longer merely managing dangerous entities. It is managing the fundamental human vulnerabilities
+of love, death,
+and shame. The Well has adapted these A.C.T. anomalies into a mirror of the
+facility's own sins. The Eye observes. The
+Claw waits. The Council has voted to convene the Arbiter.**
 
 The observer adds a final note:
 
-  *The A.C.T. Facility contained these anomalies by secrecy, distance, and selective amnesia. Lobotomy
-  Corporation
-  has
-  contained them by making them part of the daily work. The question is no
-  longer whether the facility can survive the
-  anomalies. The question is whether the people inside the facility can survive being forced
-  to confront what the
-  anomalies represent. The Council must decide if a facility that domesticates gods can be
-  permitted to also
-  domesticated grief.*
+*The A.C.T. Facility contained these anomalies by secrecy, distance, and selective amnesia. Lobotomy Corporation
+has
+contained them by making them part of the daily work. The question is no
+longer whether the facility can survive the
+anomalies. The question is whether the people inside the facility can survive being forced
+to confront what the
+anomalies represent. The Council must decide if a facility that domesticates gods can be
+permitted to also
+domesticated grief.*
 
 The Arbiter is summoned. The Head, for the first time since the anomaly began,
 prepares to act.
@@ -446,7 +442,7 @@ prepares to act.
   **Memento:** *"It only wanted to hold someone. It never learned that love can
   be
   a slow drowning."*
-- **ITHYOS Blessing:** *"A Mercy I Gifts To You."*
+— **ITHYOS Blessing:** *"A Mercy I Gifts To You."*
   **Description:** A translucent blue slime humanoid that approaches warm-blooded subjects with open arms.
   Its
   embrace
@@ -466,7 +462,7 @@ prepares to act.
   **Memento:** *"It rang for every death. And every death came back to ask
   why
   we buried them."*
-- **ITHYOS Blessing:** *"A Mercy I Gifts To You."*
+— **ITHYOS Blessing:** *"A Mercy I Gifts To You."*
   **Description:** A bronze bell mounted in a chapel-like cell. It rings autonomously at
   the
   moment of any death within
@@ -486,7 +482,7 @@ prepares to act.
   **Memento:** *"The gray waits for the color of confession. When you admit it,
   you
   become the gray."*
-- **ITHYOS Blessing:** *"A Mercy I Gifts To You."*
+— **ITHYOS Blessing:** *"A Mercy I Gifts To You."*
   **Description:** A grayscale humanoid figure that appears only to individuals who have committed
   an
   unacknowledged

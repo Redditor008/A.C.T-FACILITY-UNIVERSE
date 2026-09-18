@@ -16,16 +16,14 @@ over clarity.
 
 All that remained was mathematics.
 
-How much could be kept?
-How much had to be broken?
-How many pieces could a truth survive as before it stopped being dangerous enough
-to carry and became useless enough
-to die?
+How much could be kept? How much had to be broken? How many pieces
+could a truth survive as before it stopped being
+dangerous enough to carry and became useless enough to die?
 
 The answer was ugly from the beginning.
 
-Not everything could be preserved in one place.
-Not in one file. Not in one mind. Not in one sequence.
+Not everything could be preserved in one place. Not in one file. Not in
+one mind. Not in one sequence.
 
 If the founders were right—if memory of the abyss became active when held whole—then
 a complete reconstruction of the
@@ -47,8 +45,7 @@ references, the 004-Series medical drift, the dependency chain, the survivor tra
 breaks—had to be separated along fault lines that would preserve meaning without preserving total
 shape.
 
-No one part could know enough.
-That was the rule now.
+No one part could know enough. That was the rule now.
 
 She built the first fragment around chronology.
 
@@ -82,13 +79,9 @@ a notation anomaly in
 review-chain records—an unresolved personnel continuity artifact associated with early sealed authority transitions.
 Boring enough to survive. Sharp enough, perhaps, to wound the right future reader.
 
-By mid-shift she had five fragments.
-By second quarter, nine.
-By cycle end, twelve.
+By mid-shift she had five fragments. By second quarter, nine. By cycle end, twelve.
 
-Each one incomplete.
-Each one survivable.
-None of them innocent.
+Each one incomplete. Each one survivable. None of them innocent.
 
 Mila found her at the copyless annex near East Administrative Storage, where Sera was
 checking one of the false shells
@@ -144,16 +137,15 @@ The correction.
 
 The word hit Sera with bitter force.
 
-That was what this had been at the start: a correction order.
-A routine archive repair.
-A simple alignment between old ENTITY files and modern anomaly designations.
+That was what this had been at the start: a correction order. A routine
+archive repair. A simple alignment between old
+ENTITY files and modern anomaly designations.
 
 Now she was sitting in a dead room, dividing the origin truth of the
 Facility into survivable shards because
 remembering it whole might wake something in the people who carried it.
 
-This was still correction.
-Only on a scale the assignment had never admitted.
+This was still correction. Only on a scale the assignment had never admitted.
 
 By the time Mila left, the room felt less like a hiding place and
 more like a surgical theater.
@@ -170,8 +162,7 @@ But to the right person—someone patient enough, suspicious enough, or wounded 
 contradiction instead
 of fearing it—there would still be a path.
 
-Not a route.
-A path.
+Not a route. A path.
 
 That distinction mattered to her now more than she could explain.
 
@@ -179,8 +170,7 @@ Routes implied certainty. Routes implied arrival. Routes implied the terrible ab
 had once mistaken
 for discovery.
 
-A path could still allow refusal.
-A path could still leave choice alive.
+A path could still allow refusal. A path could still leave choice alive.
 
 Near cycle close, she reviewed the hidden fragments one final time.
 
@@ -194,8 +184,7 @@ Near cycle close, she reviewed the hidden fragments one final time.
 - source-state dependency of amnestic viability
 - structural implication that the Facility’s historical truth cannot be held whole safely
 
-Twelve fragments.
-Twelve wounds left open just enough.
+Twelve fragments. Twelve wounds left open just enough.
 
 And still one decision remained.
 
@@ -207,10 +196,9 @@ relation.
 
 That file could not survive.
 
-She knew it before she opened it.
-Knew it as certainly as she knew the lower route was real. Knew it
-with the same bitter clarity that had shaped every
-step since Lower Stack C.
+She knew it before she opened it. Knew it as certainly as she knew
+the lower route was real. Knew it with the same
+bitter clarity that had shaped every step since Lower Stack C.
 
 If the fragments were survivable because they were broken, then the shadow file was
 dangerous because it was whole.
@@ -225,15 +213,11 @@ the world had chosen to stay alive.
 
 Her hands hovered over the keys.
 
-Delete?
-No.
-That was too clean.
-Too final.
-Too obedient to the same logic that had wounded the archive in the first
+Delete? No. That was too clean. Too final. Too obedient to the same logic
+that had wounded the archive in the first
 place.
 
-She did something worse.
-And perhaps better.
+She did something worse. And perhaps better.
 
 She disassembled it.
 
@@ -252,13 +236,12 @@ When it was done, the screen looked empty.
 Sera sat in front of the blankness and felt, for one terrible second, what
 the founders must have felt.
 
-Not peace.
-Never peace.
+Not peace. Never peace.
 
 Only subtraction.
 
-She had not solved the problem.
-She had only prevented herself from becoming the last complete container of it.
+She had not solved the problem. She had only prevented herself from becoming the
+last complete container of it.
 
 When she finally stood, the room tilted just enough to remind her how little
 sleep she had carried through the past
@@ -274,8 +257,7 @@ At her door she stopped, not because someone called her name, but because for
 a brief, impossible instant she felt the
 same thing she had felt on waking after the half-remembered dream.
 
-Not an image.
-Not a thought.
+Not an image. Not a thought.
 
 A directional pull.
 
@@ -288,8 +270,7 @@ with her palms flat against her knees.
 
 The choice was made now.
 
-The truth would survive.
-But not as revelation.
+The truth would survive. But not as revelation.
 
 Only as fragments.
 

@@ -194,11 +194,11 @@ open chamber rows. The floor comprises:
 - the access core, shared with F-1's access route under separate control;
 - the restricted vault gallery, holding REACTIVE, ENTROPIC, and EXIGENT
   objects under individual confinement;
-- the Blind Box wing, whose units deny perception of their contents;
-- the Eye Box wing, whose units govern perception of their contents under
+— the Blind Box wing, whose units deny perception of their contents;
+— the Eye Box wing, whose units govern perception of their contents under
   structured observation;
-- the observation and documentation gallery;
-- the floor command post and support services.
+— the observation and documentation gallery;
+— the floor command post and support services.
 
 7.2 Blind Box Units
 
@@ -297,13 +297,13 @@ Annex Register. This dossier does not enumerate the floor's holdings.
 F-2 holds:
 - object-class anomalies of REACTIVE disposition that require restricted
   observation;
-- object-class anomalies of ENTROPIC disposition requiring the floor's
+— object-class anomalies of ENTROPIC disposition requiring the floor's
   failure-tolerant infrastructure;
-- object-class anomalies of EXIGENT disposition requiring immediate-response
+— object-class anomalies of EXIGENT disposition requiring immediate-response
   confinement;
-- objects with memetic or informational components requiring Blind Box or
+— objects with memetic or informational components requiring Blind Box or
   Eye Box confinement;
-- material transferred down from standard holding upon demonstration of
+— material transferred down from standard holding upon demonstration of
   perception-based properties.
 
 10.3 Holding Note

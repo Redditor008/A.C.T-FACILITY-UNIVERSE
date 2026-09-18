@@ -56,11 +56,9 @@ Dates. Dosages. Rank markers. Recovery windows. Repeated 004 classifications.
 
 004-H. 004-H. 004-F. 004-H.
 
-Not strong enough to erase years.
-Strong enough to remove days.
-Enough to blunt continuity.
-Enough to scrape memory down to a smooth surface and let the mind build
-over it.
+Not strong enough to erase years. Strong enough to remove days. Enough to blunt
+continuity. Enough to scrape memory
+down to a smooth surface and let the mind build over it.
 
 She should have stopped there.
 
@@ -99,9 +97,7 @@ seeing.
 
 Abyss Recovery Review.
 
-Not field incidents.
-Not public exposure.
-Not surface compromise.
+Not field incidents. Not public exposure. Not surface compromise.
 
 Internal review after contact with something below.
 
@@ -117,8 +113,7 @@ review holds, reassignment quiet periods, or sealed archive corrections. Some na
 Others had
 been reduced to initials that no longer matched any current personnel roster.
 
-It was not medical cleanup.
-It was maintenance.
+It was not medical cleanup. It was maintenance.
 
 The Facility was maintaining itself with forgetting.
 
@@ -315,8 +310,7 @@ with something close to alarm.
 
 For the first time since she had known him, Tavian Holt looked genuinely afraid.
 
-Not exposed. Not guilty.
-Afraid.
+Not exposed. Not guilty. Afraid.
 
 “Yes,” he said.
 
@@ -332,23 +326,20 @@ Sera went back to Archive Administration in a silence so complete it felt staged
 
 At her desk, she reopened the shadow notation file and added a new category.
 
-Not contradictions.
-Not route errors.
-Not bloom pre-echoes.
+Not contradictions. Not route errors. Not bloom pre-echoes.
 
 **Internal memory maintenance.**
 
 Once she wrote the phrase, everything around it began to settle into place.
 
-The dead signatures wearing new names.
-The review gaps.
-The impossible chronology.
-The symptom language arriving before the anomaly’s official discovery.
-The small, repeated doses rather than massive erasures.
-The way the archive seemed not shattered, but curated into stable damage.
+The dead signatures wearing new names. The review gaps. The impossible chronology. The symptom
+language arriving
+before the anomaly’s official discovery. The small, repeated doses rather than massive erasures. The
+way the archive
+seemed not shattered, but curated into stable damage.
 
-The Facility had not merely forgotten parts of itself.
-It had been taught how to forget selectively.
+The Facility had not merely forgotten parts of itself. It had been taught how
+to forget selectively.
 
 And if that was true, then the old question—what happened in the abyss?—was no
 longer the most dangerous one.
@@ -370,11 +361,7 @@ careers pretending not to imagine.
 
 She stopped just long enough to watch the level indicators above the shaft.
 
-F2.
-F1.
-G.
-F-1.
-Then the lower sequence, hidden as usual behind restricted opacity.
+F2. F1. G. F-1. Then the lower sequence, hidden as usual behind restricted opacity.
 
 One of the guards near the checkpoint noticed her lingering.
 
@@ -390,11 +377,8 @@ back into the Facility as doctrine.
 
 When she reached her quarters, she reviewed the private notes again.
 
-The archive wound.
-A.R.R.
-Repeated 004 use.
-Memory in the wrong direction.
-The bloom before the bloom.
+The archive wound. A.R.R. Repeated 004 use. Memory in the wrong direction. The bloom
+before the bloom.
 
 Then she opened a fresh page and wrote the sentence she had avoided all
 shift.
@@ -416,8 +400,8 @@ She could no longer tell.
 
 That, more than anything else, was what finally frightened her.
 
-Not the possibility that the records were false.
-Not the possibility that the founders had lied.
+Not the possibility that the records were false. Not the possibility that the founders
+had lied.
 
 But the possibility that the Facility’s greatest success had never been making the world
 forget.

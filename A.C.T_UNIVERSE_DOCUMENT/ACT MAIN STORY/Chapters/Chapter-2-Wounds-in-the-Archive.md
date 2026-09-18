@@ -57,17 +57,15 @@ No, what kept her awake was not fear.
 
 It was pattern.
 
-The route code that appeared before it existed.
-The witness symptoms that predated 004.
-The phrase in the ledger margin: **the bloom was below**.
-The repeated dosages assigned not to civilians or compromised surface witnesses, but to internal
-senior personnel
-attached to abyss recovery.
+The route code that appeared before it existed. The witness symptoms that predated 004.
+The phrase in the ledger
+margin: **the bloom was below**. The repeated dosages assigned not to civilians or compromised
+surface witnesses, but
+to internal senior personnel attached to abyss recovery.
 
 By the time the rest cycle ended, the shape of it had hardened.
 
-The archive was not disordered.
-It was layered.
+The archive was not disordered. It was layered.
 
 And layers meant intent.
 
@@ -103,8 +101,8 @@ surviving lines mentioned “gold discharge beneath the nail line.”
 
 She froze at that one.
 
-Golden residue at the mouth and nail beds.
-The same phrase pattern she had seen in the medical transfer sheet below.
+Golden residue at the mouth and nail beds. The same phrase pattern she had
+seen in the medical transfer sheet below.
 
 Not identical wording. Identical symptom logic.
 
@@ -154,16 +152,13 @@ Sera kept her eyes on the sleeves. “Just badly migrated history.”
 Then, before Sera could answer, she straightened and went back to her own station
 as if nothing had been said at all.
 
-That should have helped.
-It did not.
+That should have helped. It did not.
 
 Sera waited until the floor settled into working rhythm again, then reopened the search.
 This time she stopped looking
 at content and started looking at signatures.
 
-People lied.
-Paper lied.
-But patterns of handwriting lied differently.
+People lied. Paper lied. But patterns of handwriting lied differently.
 
 She pulled up scanned ledger margins, transfer initials, review marks, seal notations. At first
 the result looked like
@@ -177,17 +172,17 @@ twenty-one years apart.
 
 That should not have been possible.
 
-Not because handwriting could not be consistent.
-Because the signer was dead in the interval between them.
+Not because handwriting could not be consistent. Because the signer was dead in the
+interval between them.
 
 She checked the personnel index.
 
 The first signer had officially died in a containment collapse seven years before the
 second note was written.
 
-She checked the later note again.
-It had been reassigned to a different archivist during digitization. A correction of a
-correction. Perfectly mundane.
+She checked the later note again. It had been reassigned to a different archivist
+during digitization. A correction of
+a correction. Perfectly mundane.
 
 Except for the hand.
 
@@ -226,11 +221,9 @@ found exactly the wrong thing.
 
 She closed the prompt without responding.
 
-No escalation.
-Not yet.
+No escalation. Not yet.
 
-Instead she turned toward something safer.
-Construction history.
+Instead she turned toward something safer. Construction history.
 
 If the route codes were false, the walls might still remember better than the
 records.
@@ -259,8 +252,7 @@ Return from where?
 
 A sensation like falling opened in her gut.
 
-Not descent.
-Return.
+Not descent. Return.
 
 Meaning whoever wrote it had expected something—or someone—to come back up.
 
@@ -277,12 +269,11 @@ full of disguised notes,
 cross-tags, and transposed shorthand that only she would know how to read back into
 meaning.
 
-A route that survived only in maintenance residue.
-A symptom profile older than the bloom’s discovery.
-A dead hand wearing new names.
-Repeated 004 usage on senior abyss-linked personnel.
-A phrase no one should have written in a margin:
-**the bloom was below**.
+A route that survived only in maintenance residue. A symptom profile older than the
+bloom’s discovery. A dead hand
+wearing new names. Repeated 004 usage on senior abyss-linked personnel. A phrase no one
+should have written in a
+margin: **the bloom was below**.
 
 This was no longer a question of missing data.
 
@@ -398,9 +389,7 @@ She felt like she was tracking blood through layers of paper.
 At the end of shift, she opened her private pad and wrote a line
 she knew she should not keep.
 
-Not a correction.
-Not a report.
-Not even a question.
+Not a correction. Not a report. Not even a question.
 
 Just a sentence.
 

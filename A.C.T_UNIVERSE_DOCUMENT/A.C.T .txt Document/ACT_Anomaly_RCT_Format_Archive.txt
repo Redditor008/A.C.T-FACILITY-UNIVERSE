@@ -1,9 +1,9 @@
 A.C.T FACILITY ARCHIVE FILE
 RCT Anomaly File Format Reference
 
-Archive Status: Active  
-Distribution: Internal / Operational Use  
-Authority: Classification Administration and Research Command  
+Archive Status: Active
+Distribution: Internal / Operational Use
+Authority: Classification Administration and Research Command
 
 Archive Note
 This file is the complete internal archive version of the official RCT Anomaly File

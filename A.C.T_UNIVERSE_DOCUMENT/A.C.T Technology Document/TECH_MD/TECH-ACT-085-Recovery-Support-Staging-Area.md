@@ -181,9 +181,9 @@ claim of ownership.
 - ACT-SUB-05-ID-C Ash Tide Watchpoint Sub-Site Dossier;
 - ACT-SUB-05-ID-C-F-2 Operations and Watch Level Floor Dossier;
 - ACT-SUB-05-ID-C-F-1 Emergency Intake and Secure Storage Floor Dossier;
-- TECH-ACT-082 - Emergency Intake and Secure Storage System;
-- TECH-ACT-083 - Coastal Watch Coordination Center;
-- TECH-ACT-084 - Volcanic-Seismic Monitoring Suites;
+- TECH-ACT-082 — Emergency Intake and Secure Storage System;
+- TECH-ACT-083 — Coastal Watch Coordination Center;
+- TECH-ACT-084 — Volcanic-Seismic Monitoring Suites;
 - Ash Tide recovery staging logs [restricted].
 
 ---
@@ -201,9 +201,8 @@ claim of ownership.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Recovery Support Lead / Watch Officer / Central Archive
-**Review Status:** Active recovery staging record; live route maps, vessel contacts, equipment manifests, and
-emergency exceptions censored
-**Next Review:** After any premature launch, intake overload, route failure, sea-entry abort, unauthorized recovery
-movement, or parent-relay authority dispute
+**Created:** 2026-09-16 **Author Desk:** Recovery Support Lead / Watch Officer / Central Archive **Review
+Status:**
+Active recovery staging record; live route maps, vessel contacts, equipment manifests, and emergency exceptions
+censored **Next Review:** After any premature launch, intake overload, route failure, sea-entry abort, unauthorized
+recovery movement, or parent-relay authority dispute

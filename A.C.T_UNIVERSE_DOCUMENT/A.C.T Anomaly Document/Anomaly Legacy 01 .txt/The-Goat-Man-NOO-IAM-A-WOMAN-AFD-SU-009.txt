@@ -155,13 +155,13 @@ EVENTS:
    - An interviewer who said "goat man" found all ink in his pen replaced
    by
      black tea.
-   - A clipboard labeled "male caprine humanoid" developed a handwritten note
+   — A clipboard labeled "male caprine humanoid" developed a handwritten note
      reading: "Incorrect, impertinent, and poorly phrased."
-   - A chair moved 2.4 m away from a guard who addressed the subject
+   — A chair moved 2.4 m away from a guard who addressed the subject
    as "sir."
-   - A recording transcript automatically replaced "it" with "she" in 31
+   — A recording transcript automatically replaced "it" with "she" in 31
      separate instances.
-   - A.C.T cafeteria napkins folded themselves into formal dinner shapes during
+   — A.C.T cafeteria napkins folded themselves into formal dinner shapes during
      a containment dispute.
 
 ═══════════════════════════════════════════════════════════════════════

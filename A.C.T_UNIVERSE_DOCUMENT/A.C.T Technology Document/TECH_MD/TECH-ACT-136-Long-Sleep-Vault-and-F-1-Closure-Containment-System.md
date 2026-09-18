@@ -198,10 +198,10 @@ such answer has been scheduled.
 
 - ACT-SITE-02-RU-N-F-1 The Long Sleep Floor Dossier;
 - ACT-SITE-02-RU-N-F-2 Entropic and Unstable Resident Holding Floor Dossier;
-- TECH-ACT-029 - Cryogenic Biological Isolation Units;
-- TECH-ACT-030 - Soul-Stasis Harness;
-- TECH-ACT-058 - F-1 Closure System;
-- TECH-ACT-135 - Failure-Tolerant Entropic Holding and Self-Repairing Environment System;
+- TECH-ACT-029 — Cryogenic Biological Isolation Units;
+- TECH-ACT-030 — Soul-Stasis Harness;
+- TECH-ACT-058 — F-1 Closure System;
+- TECH-ACT-135 — Failure-Tolerant Entropic Holding and Self-Repairing Environment System;
 - AFD-OB-412 Soul Pendant resident file and White Grave Annex Register [clearance-gated].
 
 ---
@@ -211,12 +211,12 @@ such answer has been scheduled.
   How long can a containment state last before it becomes the resident's entire
   known
   identity?
-- Can a sleep-state monitor disturb the sleep by defining what counts as waking?
-- Should closure authority ever consider personnel survival before upward-route denial?
+— Can a sleep-state monitor disturb the sleep by defining what counts as waking?
+— Should closure authority ever consider personnel survival before upward-route denial?
   How much research should be permitted when research may be the first step
   toward
   waking?
-- Can a vault built for indefinite custody still support a future rescue?
+— Can a vault built for indefinite custody still support a future rescue?
   Is the Long Sleep a mercy, a sentence, or the only shape containment
   can
   take for some residents?
@@ -225,11 +225,11 @@ such answer has been scheduled.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Sleep Vault Chief / Containment Division Deep-Hold Command / Central Archive
+**Created:** 2026-09-16 **Author Desk:** Sleep Vault Chief / Containment Division Deep-Hold Command / Central
+Archive
 **Review Status:** Active Long Sleep vault and closure containment technology record; vault map, resident
 register,
-closure triggers, Soul Pendant parameters, and sleep-state logs censored
-**Next Review:** After any sleep-state drift, vault access dispute, environmental envelope fault, F-1 closure
-drill,
-closure activation, Medical-stasis conflict, peripheral intrusion alarm, or resident-specific restriction change
+closure triggers, Soul Pendant parameters, and sleep-state logs censored **Next Review:** After any sleep-state
+drift,
+vault access dispute, environmental envelope fault, F-1 closure drill, closure activation, Medical-stasis conflict,
+peripheral intrusion alarm, or resident-specific restriction change

@@ -184,9 +184,9 @@ daylight.
 - ACT-SUB-05-ID-C Ash Tide Watchpoint Sub-Site Dossier;
 - ACT-SUB-05-ID-C-F-3 Surface Cover Level Floor Dossier;
 - ACT-SUB-05-ID-C-F-2 Operations and Watch Level Floor Dossier;
-- TECH-ACT-083 - Coastal Watch Coordination Center;
-- TECH-ACT-084 - Volcanic-Seismic Monitoring Suites;
-- TECH-ACT-085 - Recovery Support Staging Area;
+- TECH-ACT-083 — Coastal Watch Coordination Center;
+- TECH-ACT-084 — Volcanic-Seismic Monitoring Suites;
+- TECH-ACT-085 — Recovery Support Staging Area;
 - Ash Tide station administration files [restricted].
 
 ---
@@ -199,7 +199,7 @@ daylight.
   When does a research vessel become too useful to the buried watch to
   remain
   ordinary?
-- Should public station communications ever carry concealed timing cues?
+— Should public station communications ever carry concealed timing cues?
   How long can a real station support hidden work without its staff becoming
   divided?
 
@@ -207,9 +207,8 @@ daylight.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Station Manager / Watch Chief / Central Archive
-**Review Status:** Active surface cover record; station legal identity, visitor lists, transition schedules, and
-boundary controls censored
+**Created:** 2026-09-16 **Author Desk:** Station Manager / Watch Chief / Central Archive **Review Status:**
+Active
+surface cover record; station legal identity, visitor lists, transition schedules, and boundary controls censored
 **Next Review:** After any cover incident, visitor breach attempt, paperwork mismatch, vessel-pattern concern,
 boundary exposure, or silent withdrawal event

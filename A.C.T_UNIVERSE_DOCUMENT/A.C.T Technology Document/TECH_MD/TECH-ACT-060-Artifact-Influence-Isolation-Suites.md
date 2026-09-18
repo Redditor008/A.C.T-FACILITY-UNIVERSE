@@ -198,9 +198,9 @@ Standing reminder: a person can carry an anomaly and still be a patient first.
 - ACT-SITE-01-US-W-F-6 Medical and Cognitive Care Floor Dossier;
 - ACT-SITE-01-US-W Redwood Veil Complex Site Dossier;
 - ACT Personnel Exposure, E-Class, and Resilience Doctrine;
-- TECH-ACT-004 - 004-Series Amnestic Compound System;
-- TECH-ACT-028 - Neural Lacing Type 004-MOD;
-- TECH-ACT-056 - Memetic Filtering Infrastructure;
+- TECH-ACT-004 — 004-Series Amnestic Compound System;
+- TECH-ACT-028 — Neural Lacing Type 004-MOD;
+- TECH-ACT-056 — Memetic Filtering Infrastructure;
 - Redwood Veil medical isolation ledgers [restricted].
 
 ---
@@ -220,9 +220,8 @@ Standing reminder: a person can carry an anomaly and still be a patient first.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Medical Division / Redwood Veil F-6 / Central Archive  
-**Review Status:** Active medical containment record; suite layout, escalation thresholds, and patient ledgers
-censored
-**Next Review:** After any isolation breach, false recovery, confidentiality dispute, security-overreach event, or
-active influence escalation
+**Created:** 2026-09-15 **Author Desk:** Medical Division / Redwood Veil F-6 / Central Archive **Review
+Status:**
+Active medical containment record; suite layout, escalation thresholds, and patient ledgers censored **Next Review:**
+After any isolation breach, false recovery, confidentiality dispute, security-overreach event, or active influence
+escalation

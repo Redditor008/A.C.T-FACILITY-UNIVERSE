@@ -199,10 +199,10 @@ follows what care proves.
 ## CROSS-REFERENCES
 
 - ACT-SITE-01-US-W-F-6 Medical and Cognitive Care Floor Dossier;
-- TECH-ACT-060 - Artifact-Influence Isolation Suites;
-- TECH-ACT-056 - Memetic Filtering Infrastructure;
-- TECH-ACT-004 - 004-Series Amnestic Compound System;
-- TECH-ACT-028 - Neural Lacing Type 004-MOD;
+- TECH-ACT-060 — Artifact-Influence Isolation Suites;
+- TECH-ACT-056 — Memetic Filtering Infrastructure;
+- TECH-ACT-004 — 004-Series Amnestic Compound System;
+- TECH-ACT-028 — Neural Lacing Type 004-MOD;
 - ACT Normalcy Management and Public Narrative Doctrine, amnestic logistics;
 - Redwood Veil cognitive-care treatment ledgers [restricted].
 
@@ -213,18 +213,17 @@ follows what care proves.
 - Which memetic injuries can heal without memory alteration?
   Can treatment notes carry a weaker but still dangerous form of the original
   contaminant?
-- How should clinicians distinguish trauma repetition from hostile phrase persistence?
-- When does cognitive treatment require containment escalation?
+— How should clinicians distinguish trauma repetition from hostile phrase persistence?
+— When does cognitive treatment require containment escalation?
   Can repeated low-level exposure create staff who appear functional but no longer think
   independently?
-- Should duty-return decisions be reviewed by Medical alone or jointly with Containment?
+— Should duty-return decisions be reviewed by Medical alone or jointly with Containment?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Medical Division / Cognitive Care / Central Archive  
-**Review Status:** Active medical cognitive-care record; treatment thresholds and trigger-handling procedures censored
-**Next Review:** After any treatment amplification, clinician contamination, false recovery, unsafe note release, or
-amnestic-use dispute
+**Created:** 2026-09-15 **Author Desk:** Medical Division / Cognitive Care / Central Archive **Review Status:**
+Active
+medical cognitive-care record; treatment thresholds and trigger-handling procedures censored **Next Review:** After
+any treatment amplification, clinician contamination, false recovery, unsafe note release, or amnestic-use dispute

@@ -195,11 +195,11 @@ individual holding units served by handling corridors and observation
 routes. The floor comprises:
 - the intake and triage bay, where recovered material arrives and is
   assessed;
-- the Small Box galleries;
-- the Medium Box galleries;
-- the Large Box units;
-- the handling and transport corridors;
-- the floor command post, documentation office, and support services.
+— the Small Box galleries;
+— the Medium Box galleries;
+— the Large Box units;
+— the handling and transport corridors;
+— the floor command post, documentation office, and support services.
 
 7.2 The Box System
 
@@ -276,7 +276,7 @@ through physical entry.
 F-3 maintains standing transfer procedures in both directions:
 - material flagged for transformation review moves upward to F-4 under
   ascending authorization;
-- material demonstrating restricted-hold properties moves downward to F-2
+— material demonstrating restricted-hold properties moves downward to F-2
   under restricted-hold procedure.
 Both routes are documented under the complex's chain-of-custody standard.
 
@@ -303,9 +303,9 @@ holdings without enumerating them.
 F-3 holds object-class anomalies of:
 - INERT disposition — objects that persist without active anomalous
   behavior, held under standard observation;
-- RESIDUAL disposition — objects carrying the trace of an anomalous
+— RESIDUAL disposition — objects carrying the trace of an anomalous
   origin, held under monitoring for residual activity;
-- SPORADIC disposition — objects that act rarely but predictably, held
+— SPORADIC disposition — objects that act rarely but predictably, held
   under schedules matched to their documented behavior.
 
 10.3 Holding Note
@@ -383,7 +383,7 @@ priorities include:
 - continued absorption of the complex's recovery flow;
 - maintenance of the Box system's monitoring and documentation
   infrastructure;
-- coordination with the Transformation and restricted-hold levels on the
+— coordination with the Transformation and restricted-hold levels on the
   movement of material between floors.
 
 ---

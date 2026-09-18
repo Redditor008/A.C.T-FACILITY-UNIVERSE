@@ -185,9 +185,9 @@ route, not a room.
 - ACT-SUB-01-US-W Glass Orchard Relay Sub-Site Dossier;
 - ACT-SUB-01-US-W-F-2 Processing and Staging Level Floor Dossier;
 - ACT-SUB-01-US-W-F-1 Short-Term Holding Vault Floor Dossier;
-- TECH-ACT-088 - Short-Term Holding Vault System;
-- TECH-ACT-089 - Witness Processing and Sanitation Suites;
-- TECH-ACT-090 - Archive Relay Buffering Area;
+- TECH-ACT-088 — Short-Term Holding Vault System;
+- TECH-ACT-089 — Witness Processing and Sanitation Suites;
+- TECH-ACT-090 — Archive Relay Buffering Area;
 - Glass Orchard intake routing boards [restricted].
 
 ---
@@ -205,9 +205,7 @@ route, not a room.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Processing Officer / Recovery Support Lead / Central Archive
-**Review Status:** Active intake routing record; live route boards, rejection criteria, and parent-site escalation
-contacts censored
-**Next Review:** After any misrouting, undocumented movement, high-threat refusal, intake overload, file mismatch, or
-parent-site routing dispute
+**Created:** 2026-09-16 **Author Desk:** Processing Officer / Recovery Support Lead / Central Archive **Review
+Status:** Active intake routing record; live route boards, rejection criteria, and parent-site escalation contacts
+censored **Next Review:** After any misrouting, undocumented movement, high-threat refusal, intake overload, file
+mismatch, or parent-site routing dispute

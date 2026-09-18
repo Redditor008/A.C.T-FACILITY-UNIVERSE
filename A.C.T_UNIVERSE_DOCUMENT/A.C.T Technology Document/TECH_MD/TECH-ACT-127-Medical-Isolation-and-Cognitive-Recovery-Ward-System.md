@@ -183,9 +183,9 @@ contain anything through them.
 - ACT-SITE-01-US-W-F-6 Medical and Cognitive Care Floor Dossier;
 - ACT-SITE-01-US-W-F-5 Research and Analysis Floor Dossier;
 - ACT-SITE-01-US-W-F-7 Central Archive and Records Floor Dossier;
-- TECH-ACT-028 - Neural Lacing Type 004-MOD;
-- TECH-ACT-063 - Memetic Contamination Treatment Suites;
-- TECH-ACT-126 - Controlled Study Environment and Research Sample-Custody System;
+- TECH-ACT-028 — Neural Lacing Type 004-MOD;
+- TECH-ACT-063 — Memetic Contamination Treatment Suites;
+- TECH-ACT-126 — Controlled Study Environment and Research Sample-Custody System;
 - Redwood Veil restricted medical records [confidential].
 
 ---
@@ -195,18 +195,17 @@ contain anything through them.
 - When does artifact-influence evaluation become containment rather than care?
   How much duty detail may a patient reveal before treatment violates another restriction
   set?
-- Should personnel be admitted for curiosity fixation before exposure is confirmed?
-- Can confidentiality protect the patient and still warn command quickly enough?
-- How long may isolation continue before it becomes part of the injury?
-- Does return-to-duty review measure recovery, obedience, or both?
+— Should personnel be admitted for curiosity fixation before exposure is confirmed?
+— Can confidentiality protect the patient and still warn command quickly enough?
+— How long may isolation continue before it becomes part of the injury?
+— Does return-to-duty review measure recovery, obedience, or both?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Chief Medical Officer / Medical Division / Central Archive
-**Review Status:** Active medical isolation and cognitive-care technology record; patient identities, clinical
-ledgers, and restricted treatment details censored
-**Next Review:** After any isolation breach, memetic treatment recurrence, artifact-influence escalation,
-confidentiality dispute, staff exposure, or return-to-duty failure
+**Created:** 2026-09-16 **Author Desk:** Chief Medical Officer / Medical Division / Central Archive **Review
+Status:**
+Active medical isolation and cognitive-care technology record; patient identities, clinical ledgers, and restricted
+treatment details censored **Next Review:** After any isolation breach, memetic treatment recurrence,
+artifact-influence escalation, confidentiality dispute, staff exposure, or return-to-duty failure

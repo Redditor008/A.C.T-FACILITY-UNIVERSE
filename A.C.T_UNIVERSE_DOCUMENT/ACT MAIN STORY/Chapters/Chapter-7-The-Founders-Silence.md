@@ -8,18 +8,17 @@ seals, and redacted command strings. She had expected secrets to look like denia
 she had not expected was how
 often they looked like repetition.
 
-The same signature under different names.
-The same review language across different decades.
-The same gaps in personnel continuity clustered around the same floors, the same support
-routes, the same sealed
-references to recovery from below.
+The same signature under different names. The same review language across different decades. The
+same gaps in
+personnel continuity clustered around the same floors, the same support routes, the same sealed
+references to recovery
+from below.
 
 By the seventh day the pattern had become too deliberate to dismiss as corruption.
 
-She stopped searching for what the founders had written.
-She started searching for what they could no longer have written unless something impossible
-had happened to their
-identity records.
+She stopped searching for what the founders had written. She started searching for what
+they could no longer have
+written unless something impossible had happened to their identity records.
 
 It was Mila who handed her the first real key.
 
@@ -31,9 +30,7 @@ bureaucratic debris.
 
 Sera waited until the aisle cleared before unfolding it.
 
-Three names.
-Two dead.
-One reassigned.
+Three names. Two dead. One reassigned.
 
 Beside them, in Mila’s clipped hand:
 
@@ -51,8 +48,7 @@ chain, had never worked that archive corridor at all.
 
 But Mila was right.
 
-The names were lies.
-The hand beneath them was the same.
+The names were lies. The hand beneath them was the same.
 
 The capital turns matched. The pressure points at the end of the line matched.
 The habit of pressing too hard on the
@@ -60,17 +56,14 @@ lower cross-stroke of certain letters matched. Even fatigue showed itself the sa
 the slight downward drag at
 the ends of repeated notation words.
 
-One person.
-Three identities.
-Separated by a timeline that should have made that impossible.
+One person. Three identities. Separated by a timeline that should have made that impossible.
 
 Sera felt the blood leave her fingertips.
 
 This was no longer merely a wounded archive. This was the archive protecting a
 continuity break.
 
-She pulled the next file.
-Then the next.
+She pulled the next file. Then the next.
 
 By mid-cycle she had seven examples.
 
@@ -83,8 +76,7 @@ as a child.
 
 None of it could survive direct submission through ordinary channels.
 
-Not because it was weak.
-Because it was too strong.
+Not because it was weak. Because it was too strong.
 
 If she put this in front of Archive Review as a formal finding, one
 of two things would happen: they would erase the
@@ -114,8 +106,8 @@ full.
 
 **The founders erased themselves.**
 
-Not metaphorically.
-Not in the ordinary historical sense where institutions smooth out inconvenient people and leave
+Not metaphorically. Not in the ordinary historical sense where institutions smooth out inconvenient people
+and leave
 behind only titles.
 
 Literally.
@@ -192,8 +184,7 @@ minefield where language itself could detonate consequences.
 
 Tavian opened his eyes.
 
-There was the answer.
-Not in the words. In the reaction.
+There was the answer. Not in the words. In the reaction.
 
 A flicker. Small, involuntary, and devastating.
 
@@ -236,9 +227,7 @@ The words landed without sound.
 
 Sera did not breathe for a moment.
 
-Memory as vector.
-Memory as contamination.
-Memory as transport.
+Memory as vector. Memory as contamination. Memory as transport.
 
 Not just the truth of what happened in the abyss, but the possibility that
 holding that truth intact could strengthen
@@ -295,14 +284,13 @@ At her terminal, she opened the shadow file and created another heading.
 **FOUNDER CONTINUITY FAILURE**
 
 Under it she wrote:
-- repeated handwriting patterns under contradictory names  
-- dead personnel signatures persisting beyond official life span  
-- review chains implying reconstructed authority continuity  
-- probable self-directed amnestic use among original founder group  
+- repeated handwriting patterns under contradictory names
+- dead personnel signatures persisting beyond official life span
+- review chains implying reconstructed authority continuity
+- probable self-directed amnestic use among original founder group
 - archive likely repaired around identity loss rather than preserving identity truth
 
-She paused.
-Then added:
+She paused. Then added:
 
 **The O5 may not be a clean line of remembered people. It may be
 a structure grown over self-inflicted forgetting.**
@@ -320,22 +308,21 @@ When she encrypted the file, her hands were steady again.
 
 That frightened her more than the discovery itself.
 
-Because steadiness meant adaptation.
-And adaptation was how people began to survive impossible truths long enough to become
-part of the machinery that hid
-them.
+Because steadiness meant adaptation. And adaptation was how people began to survive impossible truths
+long enough to
+become part of the machinery that hid them.
 
 Before sleep, she stood at the narrow window slit in her quarters. It showed
 nothing except a black reinforced shaft
 wall and the reflected outline of her own face in the glass. Yet tonight
 even that felt untrustworthy.
 
-Somewhere below, the sleeping foundation remained asleep.
-Somewhere in sealed chambers, the bloom still fed the compounds that let the Facility
-shape memory.
-And somewhere in the oldest wounded layers of the archive, the first architects of
-A.C.T had already decided that
-self-amputation was preferable to carrying the abyss upward in thought.
+Somewhere below, the sleeping foundation remained asleep. Somewhere in sealed chambers, the bloom still
+fed the
+compounds that let the Facility shape memory. And somewhere in the oldest wounded layers
+of the archive, the first
+architects of A.C.T had already decided that self-amputation was preferable to carrying the abyss
+upward in thought.
 
 Sera touched the cold glass once, as if testing whether reflection itself could still
 be trusted.

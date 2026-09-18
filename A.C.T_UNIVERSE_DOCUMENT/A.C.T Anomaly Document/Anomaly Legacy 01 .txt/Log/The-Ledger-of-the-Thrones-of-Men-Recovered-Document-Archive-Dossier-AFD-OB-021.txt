@@ -2,7 +2,7 @@ A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER
 The-Ledger-of-the-Thrones-of-Men-Recovered-Document-Archive-Dossier-AFD-OB-021
 
 ═══════════════════════════════════════════════════════════════════════
-         A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER         
+         A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER
                      Anomaly Containment Transformation
 ═══════════════════════════════════════════════════════════════════════
 
@@ -26,7 +26,7 @@ ARCHIVE STATUS:      Transcribed / original sealed
 DOSSIER STATUS:      Closed recovery / open custodial record
 
 ═══════════════════════════════════════════════════════════════════════
-                           CATEGORY CONTENTS                           
+                           CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
 This dossier belongs to A.C.T Log Category VII — Recovered Document & Archive
@@ -55,7 +55,7 @@ To preserve the recovery record, entry register, and custodial doctrine of the
 only surviving sovereign-chain continuity connected to AFD-SU-009.
 
 ═══════════════════════════════════════════════════════════════════════
-    SECTION 001 — RECOVERY RECORD — HORNED LEDGER RETRIEVAL (1976)     
+    SECTION 001 — RECOVERY RECORD — HORNED LEDGER RETRIEVAL (1976)
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-021/ARC-001
@@ -79,7 +79,7 @@ Men,
 Passed Hand to Hand From Sovereign to Sovereign, in Silence."
 
 ═══════════════════════════════════════════════════════════════════════
-  SECTION 002 — SOVEREIGN-CHAIN MECHANISM — THE CHAPTER-DUTY RESPONSE  
+  SECTION 002 — SOVEREIGN-CHAIN MECHANISM — THE CHAPTER-DUTY RESPONSE
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-021/ARC-002
@@ -111,7 +111,7 @@ title, archive duty, bloodline, ledger possession, and secondhand knowledge
 are all insufficient by themselves.
 
 ═══════════════════════════════════════════════════════════════════════
-        SECTION 003 — RECOVERED TEXT REGISTER — ENTRY SUMMARIES        
+        SECTION 003 — RECOVERED TEXT REGISTER — ENTRY SUMMARIES
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-021/ARC-003
@@ -125,14 +125,14 @@ ENTRY REGISTER (abridged):
    - The First King: describes the Old Blood as an ageless horned lineage;
      establishes the command that every sovereign should add truth and pass
      the book onward
-   - Gaius Julius Caesar: "I came to her a warlord. I departed an Emperor."
-   - King Henri of the Franks: describes AFD-SU-009 as a living treasury of
+   — Gaius Julius Caesar: "I came to her a warlord. I departed an Emperor."
+   — King Henri of the Franks: describes AFD-SU-009 as a living treasury of
      remembrance who refuses to write history in a narrow clerkly manner
-   - Grand Duke Alessandro: records an etiquette-correction event matching
+   — Grand Duke Alessandro: records an etiquette-correction event matching
      known AFD-SU-009 anomalous properties
-   - The Last Crowned Hand: describes the decline of royal secrecy and the
+   — The Last Crowned Hand: describes the decline of royal secrecy and the
      decision to hide the book in the estate vault
-   - Unknown Sovereign: states that AFD-SU-009 knows of the book, has always
+   — Unknown Sovereign: states that AFD-SU-009 knows of the book, has always
      known, and permits its quiet existence while pretending not to
      acknowledge it
 
@@ -142,7 +142,7 @@ FINAL LINE:
 UNAWARE OF IT. (She is aware. She pretends not to be.)"
 
 ═══════════════════════════════════════════════════════════════════════
-      SECTION 004 — CORRECTIVE TITLE PRESSURE — MARGINALIA RECORD      
+      SECTION 004 — CORRECTIVE TITLE PRESSURE — MARGINALIA RECORD
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-021/ARC-004
@@ -163,7 +163,7 @@ deliberately misaddress AFD-SU-009 while the book is open; the correction
 effect becomes more active when disrespectful phrasing is written nearby.
 
 ═══════════════════════════════════════════════════════════════════════
-         SECTION 005 — CUSTODIAL DOCTRINE AND NON-INTERFERENCE         
+         SECTION 005 — CUSTODIAL DOCTRINE AND NON-INTERFERENCE
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-021/ARC-005
@@ -185,16 +185,16 @@ CUSTODIAL NOTES:
 
    - Archive officers may add custodial notes only on inserted non-anomalous
      pages marked as A.C.T commentary
-   - The ledger should not be shown to junior staff as proof that the
+   — The ledger should not be shown to junior staff as proof that the
      Countess is "royalty"; it shows rulers treated her as an authority
-   - When AFD-SU-009 was informed that A.C.T had recovered several old estate
+   — When AFD-SU-009 was informed that A.C.T had recovered several old estate
      books, she replied: "How dreadful. Men always become sentimental when
      ink is involved."
-   - Digitization is permitted only through sealed non-networked scans;
+   — Digitization is permitted only through sealed non-networked scans;
      digital copies do not reproduce the chapter-duty effect
 
 ═══════════════════════════════════════════════════════════════════════
-                SECTION 006 — CLOSING ARCHIVE STATEMENT                
+                SECTION 006 — CLOSING ARCHIVE STATEMENT
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-021/ARC-CLS-001

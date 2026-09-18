@@ -2,7 +2,7 @@ A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
 Apocalypses-NOT-Behavioral-Observation-Dossier-AFD-CH-016
 
 ═══════════════════════════════════════════════════════════════════════
-           A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER           
+           A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
                      Anomaly Containment Transformation
 ═══════════════════════════════════════════════════════════════════════
 
@@ -24,7 +24,7 @@ ARCHIVE STATUS:      Active / perception-hazard restricted
 DOSSIER STATUS:      Open — event-based observation maintained
 
 ═══════════════════════════════════════════════════════════════════════
-                           CATEGORY CONTENTS                           
+                           CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
 This dossier belongs to A.C.T Log Category VIII — Behavioral & Observation
@@ -50,7 +50,7 @@ anti-apocalyptic interference patterns without ever mistaking the perception
 of an ending for an actual one.
 
 ═══════════════════════════════════════════════════════════════════════
-        SECTION 001 — MANIFESTATION AND SHAPE-STATE OBSERVATION        
+        SECTION 001 — MANIFESTATION AND SHAPE-STATE OBSERVATION
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-016/OBS-001
@@ -83,7 +83,7 @@ no
 corresponding distance change.
 
 ═══════════════════════════════════════════════════════════════════════
-           SECTION 002 — WORLD-END SCENARIO EXPOSURE PROFILE           
+           SECTION 002 — WORLD-END SCENARIO EXPOSURE PROFILE
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-016/OBS-002
@@ -115,7 +115,7 @@ world. It proves only that the observer's mind translated the entity into a
 world-ending image. This distinction is mandatory in all briefings.
 
 ═══════════════════════════════════════════════════════════════════════
-          SECTION 003 — ANTI-APOCALYPTIC INTERFERENCE RECORD           
+          SECTION 003 — ANTI-APOCALYPTIC INTERFERENCE RECORD
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-016/OBS-003
@@ -148,7 +148,7 @@ not interpret this as kindness; the motive — protection, territory, feeding,
 or competition — is unknown.
 
 ═══════════════════════════════════════════════════════════════════════
-    SECTION 004 — VISUAL-EXPOSURE CONTROL AND FILTERED OBSERVATION     
+    SECTION 004 — VISUAL-EXPOSURE CONTROL AND FILTERED OBSERVATION
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-016/OBS-004
@@ -170,7 +170,7 @@ could not agree which form they were targeting. Heavy containment escalation
 is prohibited unless the entity directly threatens a populated area.
 
 ═══════════════════════════════════════════════════════════════════════
-          SECTION 005 — WES TREATMENT AND CORRECTION PROTOCOL          
+          SECTION 005 — WES TREATMENT AND CORRECTION PROTOCOL
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-016/OBS-005
@@ -190,7 +190,7 @@ Do not call AFD-CH-016 an apocalypse in operational speech, and do not call it
 safe. Both statements are inaccurate in ways that can get personnel killed.
 
 ═══════════════════════════════════════════════════════════════════════
-        SECTION 006 — CROSS-ANOMALY NOTE AND CLOSING STATEMENT         
+        SECTION 006 — CROSS-ANOMALY NOTE AND CLOSING STATEMENT
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-016/OBS-CLS-001

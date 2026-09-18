@@ -203,8 +203,8 @@ becomes.
 - ACT-SITE-03-JP-E-F-6 General Records and Anomalous Intake Floor Dossier;
 - ACT-SITE-03-JP-E-F-5 Redaction and Controlled-Reading Laboratory Floor Dossier;
 - ACT Anomaly Log Categories, Recovered Document and Sensor Dossier guidance;
-- TECH-ACT-050 - Digital Resonance Mapping Suite;
-- TECH-ACT-056 - Memetic Filtering Infrastructure;
+- TECH-ACT-050 — Digital Resonance Mapping Suite;
+- TECH-ACT-056 — Memetic Filtering Infrastructure;
 - Kurokawa intake discrepancy ledgers [restricted];
 - Dual-route lock maintenance records [restricted].
 
@@ -215,18 +215,17 @@ becomes.
 - How much reading is safe before screening becomes controlled reading?
   Can a hostile file exploit the dual-route architecture by appearing cleared until after
   routing?
-- Should every item receive a temporary causal signature before intake record creation?
-- How often should route locks be tested with inert false positives?
+— Should every item receive a temporary causal signature before intake record creation?
+— How often should route locks be tested with inert false positives?
   Can ordinary archive pressure make screeners clear material too quickly during heavy intake
   days?
-- What happens when an item insists on belonging to both streams at once?
+— What happens when an item insists on belonging to both streams at once?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Kurokawa Intake Chief / Archiver Division / Central Archive  
-**Review Status:** Active archive intake technology record; route-lock control maps and screening thresholds censored
-**Next Review:** After any false clearance, route delay, chain-of-custody break, unauthorized deep reading, or
+**Created:** 2026-09-15 **Author Desk:** Kurokawa Intake Chief / Archiver Division / Central Archive **Review
+Status:** Active archive intake technology record; route-lock control maps and screening thresholds censored **Next
+Review:** After any false clearance, route delay, chain-of-custody break, unauthorized deep reading, or
 screening-suite retrofit

@@ -41,10 +41,10 @@ The narrative revolves around the following questions:
 - Did ERE discover **ITHYOS** by accident, or were they drawn to it?
   Is ITHYOS naturally asleep, or was its sleep made into a condition of
   survival?
-- Is **NEMNOLIA / AFD-NB-004** connected to the dream-state of ITHYOS?
-- Did the founders erase their own memories?
-- What was the Facility’s first lie?
-- What happens if A.C.T remembers the truth?
+— Is **NEMNOLIA / AFD-NB-004** connected to the dream-state of ITHYOS?
+— Did the founders erase their own memories?
+— What was the Facility’s first lie?
+— What happens if A.C.T remembers the truth?
 
 ---
 
@@ -77,8 +77,8 @@ their own memories after the first abyssal contact. This self-erasure was not an
 and not merely an act of
 panic. It was a containment decision.
 
-The founders did not only bury a truth.
-They made themselves unable to remember it in full.
+The founders did not only bury a truth. They made themselves unable to remember
+it in full.
 
 ---
 
@@ -161,9 +161,8 @@ In the end, the protagonist chooses the same path the founders once chose:
 - leave behind enough evidence for a future mind to find
 - submit themselves to controlled erasure
 
-They save the world from the full truth,
-but lose the truth,
-and lose themselves with it.
+They save the world from the full truth, but lose the truth, and lose
+themselves with it.
 
 ---
 

@@ -186,9 +186,9 @@ cannot keep watching.
 
 - ACT-SITE-05-ID-C-F-5 Personnel and Command Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-6 Surface Research and Transition Level Floor Dossier;
-- TECH-ACT-076 - Command Communications Nexus;
-- TECH-ACT-077 - Internal Logistics Coordination Center;
-- TECH-ACT-067 - Deep-Earth Sensor Arrays;
+- TECH-ACT-076 — Command Communications Nexus;
+- TECH-ACT-077 — Internal Logistics Coordination Center;
+- TECH-ACT-067 — Deep-Earth Sensor Arrays;
 - Nusantara seismic preparedness ledgers [restricted].
 
 ---
@@ -206,10 +206,9 @@ cannot keep watching.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15
-**Author Desk:** Security Division / Relay Administration / Central Archive
-**Review Status:** Active personnel safety record; shelter maps, route priorities, and live roster systems
-censored
-**Next Review:** After any large tectonic event, shelter drill failure, route conflict, false all-clear,
-command link
-fault, or anomalous ground-motion escalation
+**Created:** 2026-09-15 **Author Desk:** Security Division / Relay Administration / Central Archive **Review Status:**
+Active personnel safety record; shelter maps, route priorities, and live roster systems censored **Next
+Review:**
+After any large tectonic event, shelter drill failure, route conflict, false all-clear, command link
+fault, or
+anomalous ground-motion escalation

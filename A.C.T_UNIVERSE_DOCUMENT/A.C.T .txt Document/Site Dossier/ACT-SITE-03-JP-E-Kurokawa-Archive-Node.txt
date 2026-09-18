@@ -141,9 +141,9 @@ work is hidden in plain sight among legitimate document preservation.
 Today the node functions as:
 - the Facility's principal eastern installation for memetic and informational
   anomaly handling
-- a center for archive-redaction doctrine and testing
-- an urban data-anomaly response hub
-- a major anomaly interpretation center for the East region
+— a center for archive-redaction doctrine and testing
+— an urban data-anomaly response hub
+— a major anomaly interpretation center for the East region
 
 ---
 
@@ -171,9 +171,9 @@ dual review structure ensures that neither mandate dominates unchecked.
 The node's jurisdiction overlaps with:
 - ACT-SITE-01-US-W (Redwood Veil Complex) — for artifact export and
   trans-Pacific routing of document-borne hazards;
-- ACT-SITE-05-ID-C (Nusantara Deep Relay) — for signal-borne anomalies
+— ACT-SITE-05-ID-C (Nusantara Deep Relay) — for signal-borne anomalies
   moving through maritime and island media corridors;
-- ACT-SUB-03-JP-E (Silent Reed Annex) — its principal support sub-site
+— ACT-SUB-03-JP-E (Silent Reed Annex) — its principal support sub-site
   for memetic quarantine and document buffering.
 
 ---
@@ -189,9 +189,9 @@ containers are documents. Their work includes:
 - safe reading protocols and controlled access enforcement
 - redaction design — determining what may be shown, what must be hidden, and
   how to hide it without destroying the record
-- document quarantine management
-- historical preservation of dangerous knowledge in survivable forms
-- QNB-hardened archival storage against causal rewrites
+— document quarantine management
+— historical preservation of dangerous knowledge in survivable forms
+— QNB-hardened archival storage against causal rewrites
 
 Archivists at Kurokawa are trained to read like bomb disposal technicians:
 slowly, at distance where possible, and always with the knowledge that the
@@ -206,7 +206,7 @@ environment. Its work includes:
 - maintaining the node's leak-surveillance posture
 - coordinating with the Facility's central Intelligence Division on
   information-borne threats
-- forecasting which emerging narratives may become anomalous
+— forecasting which emerging narratives may become anomalous
 
 The Intelligence Division is the node's early-warning system: it detects the
 anomalous before it reaches the Archive Division's intake.
@@ -371,8 +371,8 @@ Kurokawa's holdings are dominated by:
 - information hazards — knowledge that harms through understanding
 - document-borne anomalies — dangers that live in specific physical or
   digital carriers
-- signal-borne anomalies — threats transmitted through media and networks
-- archive-sensitive material requiring redaction management
+— signal-borne anomalies — threats transmitted through media and networks
+— archive-sensitive material requiring redaction management
 
 10.3 Signature Resident — AFD-ME-018, "Dread EYE"
 
@@ -441,8 +441,8 @@ The node accepts:
 The node routes material:
 - to Redwood Veil Complex (ACT-SITE-01-US-W) for physical artifact export
   and trans-Pacific movement
-- to White Grave Station (ACT-SITE-02-RU-N) for cold-sensitive material
-- to the Primary Facility for document-borne hazards beyond local
+— to White Grave Station (ACT-SITE-02-RU-N) for cold-sensitive material
+— to the Primary Facility for document-borne hazards beyond local
   containment and for final doctrinal authority
 
 The node is a terminal destination for most informational anomalies: the

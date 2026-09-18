@@ -65,22 +65,16 @@ alarm contact. Its entire reporting surface is the lamp itself.
 Three response states are confirmed by witness record and by inspection of the three
 recovered units:
 
-  **Steady state.** The unit holds a low warm output through the night without
-  flicker
-  or drift. Recovered units show no
-  measurable warm-up period.
-  **Intensification.** Output rises sharply when an unregistered presence enters the room. Witness accounts
-  describe
-  the
-  change as immediate rather than gradual, and describe it occurring before any occupant reports
-  hearing or seeing
-  anything.
-  **Blue shift.** The emitted light changes colour rather than brightness. Recovered instruction material
-  treats
-  the
-  blue state as a signal that something has been seen, and directs caregivers not
-  to question the child about it until
-  morning.
+**Steady state.** The unit holds a low warm output through the night without flicker
+or drift. Recovered units show no
+measurable warm-up period. **Intensification.** Output rises sharply when an unregistered presence enters the room.
+Witness accounts describe the change as immediate rather than gradual, and describe it occurring
+before any occupant
+reports hearing or seeing anything. **Blue shift.** The emitted light changes colour rather than
+brightness. Recovered
+instruction material treats the blue state as a signal that something has been seen,
+and directs caregivers not to
+question the child about it until morning.
 
 A fourth behaviour is auditory. Recovered instruction refers to the shade humming. No recovered
 unit has produced a
@@ -145,7 +139,7 @@ Known external features:
   a **battery plate** at the base or rear, behind which a production tag
   may
   be stitched or adhered;
-- an **instruction slip** stored beneath the battery cover, printed rather than handwritten;
+— an **instruction slip** stored beneath the battery cover, printed rather than handwritten;
   a **shell casing** that remains structurally complete after the active components are removed,
   and
   that A.C.T has
@@ -311,19 +305,19 @@ and does not intend to.
   that
   internal volume does not
   account for the observed function?
-- What powers a unit that shows no identifiable cell matching its observed runtime?
+— What powers a unit that shows no identifiable cell matching its observed runtime?
   What condition distinguishes a steady state from a blue shift, and does the
   device
   distinguish between threat types?
-- What triggers the shade hum, and why has it never occurred under inspection?
+— What triggers the shade hum, and why has it never occurred under inspection?
   What does the device mean by an unregistered presence, and against what register
   is
   registration measured?
   How does a unit enumerate occupants, and where does the count of eighteen
   come
   from?
-- Does lot SLEEP-SAFE-7 differ from earlier or later lots in construction or behaviour?
-- Can a unit be built or repaired by anyone other than Lullaby Works?
+— Does lot SLEEP-SAFE-7 differ from earlier or later lots in construction or behaviour?
+— Can a unit be built or repaired by anyone other than Lullaby Works?
   Does a unit continue to function after the child it was placed for
   has
   left the room permanently?

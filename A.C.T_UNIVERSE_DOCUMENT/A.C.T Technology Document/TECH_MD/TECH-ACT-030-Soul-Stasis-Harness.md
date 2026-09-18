@@ -213,7 +213,7 @@ Standing reminder: if the anchor contains a person, every maintenance action has
 - ACT Technological Visual Reference Guide, Item 17;
 - AFD-OB-412 Soul Pendant containment file;
 - Soul Pendant Thorne Incident Dossier;
-- TECH-ACT-029 - Cryogenic Biological Isolation Units;
+- TECH-ACT-029 — Cryogenic Biological Isolation Units;
 - White Grave Station stasis and patient-proximity procedures [restricted].
 
 ---
@@ -225,8 +225,8 @@ Standing reminder: if the anchor contains a person, every maintenance action has
   How should consent be renewed when the patient's voice exists through the anchor
   being
   contained?
-- Can repeated acoustic bridge contact alter the harness resonance profile?
-- What happens if the host body heals around a changed chest geometry?
+— Can repeated acoustic bridge contact alter the harness resonance profile?
+— What happens if the host body heals around a changed chest geometry?
   Is there a safe way to transfer anchor custody without making the occupied
   object
   feel handled?
@@ -235,9 +235,8 @@ Standing reminder: if the anchor contains a person, every maintenance action has
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Medical Division / White Grave Stasis Desk / Engineering Division / Central
-Archive
-**Review Status:** Active case-restricted record; anchor-proximity and acoustic bridge details censored  
-**Next Review:** After any resonance drift, transfer event, glass stress alarm, or acoustic bridge
-distress report
+**Created:** 2026-09-15 **Author Desk:** Medical Division / White Grave Stasis Desk / Engineering Division
+/ Central
+Archive **Review Status:** Active case-restricted record; anchor-proximity and acoustic bridge details censored **Next
+Review:** After any resonance drift, transfer event, glass stress alarm, or acoustic bridge distress
+report

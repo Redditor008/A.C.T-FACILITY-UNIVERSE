@@ -221,7 +221,7 @@ should happen at all.
 - AFD-SU-902 Hang Snake containment file;
 - Harvested Pale Wood, Item 41;
 - Gold-Tipped Mining Drills, Item 32;
-- TECH-ACT-008 - Causal Anchor Nails;
+- TECH-ACT-008 — Causal Anchor Nails;
 - Medical high-security sampling procedures [restricted].
 
 ---
@@ -233,15 +233,14 @@ should happen at all.
   Should every PWS use be reviewed by Transformation Review when the patient is
   partly
   altered?
-- Can repeated exposure to gold make a blade safer or only weaker?
-- Do Dark World organisms recognize the scalpel as tool, wound, or relative?
-- How many retired blades remain useful for non-surgical materials research?
+— Can repeated exposure to gold make a blade safer or only weaker?
+— Do Dark World organisms recognize the scalpel as tool, wound, or relative?
+— How many retired blades remain useful for non-surgical materials research?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Medical Division / Surgical Materials Custody / Central Archive  
-**Review Status:** Active restricted record; signature-tracking details censored  
-**Next Review:** After any signature drift, gold contamination, breach disarticulation, or retired-blade study
+**Created:** 2026-09-15 **Author Desk:** Medical Division / Surgical Materials Custody / Central Archive **Review
+Status:** Active restricted record; signature-tracking details censored **Next Review:** After any signature drift,
+gold contamination, breach disarticulation, or retired-blade study

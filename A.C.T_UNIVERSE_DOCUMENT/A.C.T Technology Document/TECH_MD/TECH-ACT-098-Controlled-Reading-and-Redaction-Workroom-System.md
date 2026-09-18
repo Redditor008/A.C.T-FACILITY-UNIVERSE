@@ -174,8 +174,8 @@ CRRWS doctrine holds that reading is never private when the text can read back.
 - ACT-SUB-03-JP-E-F-2 Review and Redaction Level Floor Dossier;
 - ACT-SUB-03-JP-E-F-1 Minor Memetic Quarantine Vault Floor Dossier;
 - ACT-SITE-03-JP-E Kurokawa Archive Node Site Dossier;
-- TECH-ACT-056 - Memetic Filtering Infrastructure;
-- TECH-ACT-011 - Narrative Seal Varnish;
+- TECH-ACT-056 — Memetic Filtering Infrastructure;
+- TECH-ACT-011 — Narrative Seal Varnish;
 - Silent Reed redaction staging logs [restricted].
 
 ---
@@ -193,10 +193,10 @@ CRRWS doctrine holds that reading is never private when the text can read back.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Review Officer / Redaction Lead / Central Archive
-**Review Status:** Active controlled review record; live exposure limits, redaction keys, and hazardous layouts
-censored
-**Next Review:** After any solo exposure, contaminated review note, bad redaction, aftercare failure, release
-dispute,
-or parent-node format challenge
+**Created:** 2026-09-16 **Author Desk:** Review Officer / Redaction Lead / Central Archive **Review Status:**
+Active
+controlled review record; live exposure limits, redaction keys, and hazardous layouts censored **Next Review:**
+After
+any solo exposure, contaminated review note, bad redaction, aftercare failure, release dispute, or parent-node
+format
+challenge

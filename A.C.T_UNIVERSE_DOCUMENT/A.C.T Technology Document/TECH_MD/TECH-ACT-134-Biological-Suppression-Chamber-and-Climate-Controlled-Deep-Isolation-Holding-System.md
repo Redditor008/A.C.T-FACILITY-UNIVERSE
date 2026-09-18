@@ -179,9 +179,9 @@ minute.
 - ACT-SITE-02-RU-N-F-3 Standard Deep-Isolation Holding Floor Dossier;
 - ACT-SITE-02-RU-N-F-2 Entropic and Unstable Resident Holding Floor Dossier;
 - ACT-SITE-02-RU-N-F-4 Research and Biological Study Floor Dossier;
-- TECH-ACT-029 - Cryogenic Biological Isolation Units;
-- TECH-ACT-094 - Interim Cryogenic Holding System;
-- TECH-ACT-133 - Long-Term Biological Observation and Cold-Suppressed Study System;
+- TECH-ACT-029 — Cryogenic Biological Isolation Units;
+- TECH-ACT-094 — Interim Cryogenic Holding System;
+- TECH-ACT-133 — Long-Term Biological Observation and Cold-Suppressed Study System;
 - White Grave standard holding and suppression ledgers [station-restricted].
 
 ---
@@ -196,7 +196,7 @@ minute.
   How much Research sampling can occur before a standard resident is no longer
   in
   standard condition?
-- When does cold suppression preserve a hazard instead of containing it?
+— When does cold suppression preserve a hazard instead of containing it?
   Does F-3 prove that White Grave controls its residents, or only that it
   can
   keep them waiting?
@@ -205,9 +205,8 @@ minute.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Floor Holding Chief / Containment Division / Central Archive
-**Review Status:** Active biological suppression and deep-isolation holding technology record; live resident
-identities, chamber maps, suppression profiles, and transfer thresholds censored
-**Next Review:** After any suppression drift, biological rebound, unit misassignment, F-2 escalation, F-4
-sample-control discrepancy, sensor fault, or long-duration documentation gap
+**Created:** 2026-09-16 **Author Desk:** Floor Holding Chief / Containment Division / Central Archive **Review
+Status:** Active biological suppression and deep-isolation holding technology record; live resident identities,
+chamber maps, suppression profiles, and transfer thresholds censored **Next Review:** After any suppression drift,
+biological rebound, unit misassignment, F-2 escalation, F-4 sample-control discrepancy, sensor fault, or long-duration
+documentation gap

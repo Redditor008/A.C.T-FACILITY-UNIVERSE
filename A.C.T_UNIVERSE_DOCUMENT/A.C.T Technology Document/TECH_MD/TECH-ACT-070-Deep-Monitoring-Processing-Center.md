@@ -186,9 +186,9 @@ its origin.
 
 - ACT-SITE-05-ID-C-F-2 Deep Monitoring and Restricted Records Floor Dossier;
 - ACT-SITE-05-ID-C-F-1 The Deep Listening Vault Floor Dossier;
-- TECH-ACT-067 - Deep-Earth Sensor Arrays;
-- TECH-ACT-068 - Sensor Nexus Signal Processing Architecture;
-- TECH-ACT-069 - Abyss-Linked Observation Recording System;
+- TECH-ACT-067 — Deep-Earth Sensor Arrays;
+- TECH-ACT-068 — Sensor Nexus Signal Processing Architecture;
+- TECH-ACT-069 — Abyss-Linked Observation Recording System;
 - Nusantara monitoring-session ledgers [restricted].
 
 ---
@@ -206,8 +206,8 @@ its origin.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15
-**Author Desk:** Seismic Analysis Support / Records and Monitoring Chief / Central Archive
+**Created:** 2026-09-15 **Author Desk:** Seismic Analysis Support / Records and Monitoring Chief / Central
+Archive
 **Review Status:** Active monitoring-processing record; routing thresholds and restricted comparison patterns censored
 **Next Review:** After any misrouted warning, backlog event, restricted escalation dispute, F-1/F-2 communication
 fault, or containment notification delay

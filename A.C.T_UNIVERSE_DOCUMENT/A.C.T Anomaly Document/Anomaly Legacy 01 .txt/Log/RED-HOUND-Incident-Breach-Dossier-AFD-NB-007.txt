@@ -177,7 +177,7 @@ STATUS:              Restricted audio / text transcript only for standard review
 BEGIN TRANSCRIPT:
 
 [Wet movement. Low respiratory vibration. Multiple clicking sounds from claws
-against concrete.] 
+against concrete.]
 
 UNKNOWN / PARTIAL:   o... pen...
 
@@ -195,12 +195,12 @@ beside me." Service hatch alarm begins.]
 
 SOKOLOV VOICE:       This way.
 
-[Red mist alarm. Hatch closes. AFD-NB-007 produces low growl.] 
+[Red mist alarm. Hatch closes. AFD-NB-007 produces low growl.]
 
 SOKOLOV VOICE:       I am still in here.
 
 [Voice drops one octave. Phrase repeats three times, each repetition losing
-phonetic accuracy.] 
+phonetic accuracy.]
 
 UNKNOWN / PARTIAL:   still... here... here... here...
 

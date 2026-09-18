@@ -218,7 +218,7 @@ travel.
 - ACT Technological Master Index 50, Item 04;
 - ACT Technological Visual Reference Guide, Item 04;
 - ACT Technological Evolution Timeline, 1740s entry;
-- TECH-ACT-012 - Banalist White-Noise Broadcast;
+- TECH-ACT-012 — Banalist White-Noise Broadcast;
 - Spectral Vibration Sensors, Item 29;
 - Info-Hazard acoustic exposure procedures [restricted].
 
@@ -230,11 +230,11 @@ travel.
   Are Foundational Era spheres safer because they are simpler or riskier because their
   seals
   are undocumented?
-- Can a VIS accidentally preserve a harmful tone better than normal atmosphere would?
+— Can a VIS accidentally preserve a harmful tone better than normal atmosphere would?
   Should all legacy sound artifacts be moved into modern spheres, or does transfer
   create
   more exposure risk?
-- What decibel reading counts as impossible inside a stable vacuum?
+— What decibel reading counts as impossible inside a stable vacuum?
   Can a sphere become contaminated by years of holding the same command, song,
   or
   name?
@@ -243,7 +243,6 @@ travel.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Containment Division / Archive Division / Engineering Division / Central Archive  
-**Review Status:** Active restricted record; hatch override and atmosphere cycling rules censored  
-**Next Review:** After any pressure-disc disagreement, acoustic leak, manual opening, or legacy-unit transfer
+**Created:** 2026-09-15 **Author Desk:** Containment Division / Archive Division / Engineering Division / Central
+Archive **Review Status:** Active restricted record; hatch override and atmosphere cycling rules censored **Next
+Review:** After any pressure-disc disagreement, acoustic leak, manual opening, or legacy-unit transfer

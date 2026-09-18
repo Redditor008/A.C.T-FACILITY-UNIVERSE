@@ -187,9 +187,9 @@ NOTABLE INCIDENTS:
 - A review team entered a corridor segment behind a sealed maintenance door
   and returned through a lower archive fire exit not connected to their
   starting position.
-- One archive transfer record was rewritten three times within a single day
+— One archive transfer record was rewritten three times within a single day
   after corridor contact, each version preserving a different route history.
-- A guard assigned to a central checkpoint was logged simultaneously in two
+— A guard assigned to a central checkpoint was logged simultaneously in two
   non-overlapping internal positions following one manifestation event.
 
 ═══════════════════════════════════════════════════════════════════════

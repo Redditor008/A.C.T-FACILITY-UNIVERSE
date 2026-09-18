@@ -1,20 +1,20 @@
 # A.C.T Generation Standard — 2026 Update
 ### Comprehensive Writer-Side Generation Standard
 
-**Status:** Active Writer-Side Reference  
-**Purpose:** Ensure total continuity, technological consistency, and narrative isolation for all A.C.T content.
+**Status:** Active Writer-Side Reference **Purpose:** Ensure total continuity, technological consistency, and
+narrative isolation for all A.C.T content.
 
 ---
 
 ## 1. THE FOUNDATIONAL PRINCIPLE: REALITY ISOLATION
 
-The A.C.T Facility operates within the **Main A.C.T Reality**. 
+The A.C.T Facility operates within the **Main A.C.T Reality**.
 
 #### **The "715" Separation Rule:**
 Anomalies designated under the **715-Series** (Realities A through G) are formally classified as **Exogenous
 Reality
 Nodes**.
-*   **Independent:** They are external causal planes detected by the Facility.
+— **Independent:** They are external causal planes detected by the Facility.
     **Disconnected:** Their histories, logic, and outcomes (like the "PLAYER" in Reality E) are
     **not**
     connected to the
@@ -47,13 +47,13 @@ All future anomaly files and logs must utilize the **Master Catalog of Operation
 
 #### **Dr. Aris Thorne (SR-412)**
 *   **Profile:** 110 years old, 26-year-old body. Lead of the Artifact Awakening Project.
-*   **Tone:** Distant, blunt, clinical, and analog. Dislikes modern digital shortcuts. 
+*   **Tone:** Distant, blunt, clinical, and analog. Dislikes modern digital shortcuts.
     **Philosophy:** Sees anomalies as "Survivors" and manners as a way to keep researchers
     human.
-*   **Usage:** Use him as a consultant for high-level artifact discoveries or site-wide memoranda.
+— **Usage:** Use him as a consultant for high-level artifact discoveries or site-wide memoranda.
 
 #### **Senior Researcher Maya Chen (Subject 612-A)**
-*   **Profile:** Transformed into a "Futanari" intersex state by AFD-OB-612. 
+*   **Profile:** Transformed into a "Futanari" intersex state by AFD-OB-612.
 *   **Behavior:** Highly responsible. Logs her own condition obsessively because "it was her error."
 *   **Usage:** Lead contact for biological transmutation cases.
 
@@ -92,18 +92,15 @@ use the following site format:
 Every generated anomaly must now include the Path 1 foundation fields unless the owner
 asks for a short concept only:
 
-  **REGISTRY BAND** — ENTITY Historical / 000 Foundational Reserve / LEGACY ACCEPTED 001–120
-  /
-  Modern Registry 121–999 /
-  ANM Fracture-State / Reserved / Obscured.
-  **LIFECYCLE STATE** — PROVISIONAL / ACTIVE-CONTAINED / ACTIVE-UNCONTAINED / UNDER REVIEW / TRANSFORMATION-CANDIDATE
-  /
-  INTEGRATED / RETIRED / ARCHIVED / NEUTRALIZED / EXPLAINED / LOST / MEMORIALIZED /
-  PROHIBITED-FROM-TRANSFORMATION.
-  **HAZARD TAGS** — evidenced tags only, using PHYS / BIO / COG /
-  MEM
-  / INFO / TEMP / SPAT / STR / COS / SOC / OPR
-  families.
+**REGISTRY BAND** — ENTITY Historical / 000 Foundational Reserve / LEGACY ACCEPTED 001–120 /
+Modern Registry 121–999 /
+ANM Fracture-State / Reserved / Obscured. **LIFECYCLE STATE** — PROVISIONAL / ACTIVE-CONTAINED / ACTIVE-UNCONTAINED
+/
+UNDER REVIEW / TRANSFORMATION-CANDIDATE / INTEGRATED / RETIRED / ARCHIVED / NEUTRALIZED / EXPLAINED
+/ LOST /
+MEMORIALIZED / PROHIBITED-FROM-TRANSFORMATION. **HAZARD TAGS** — evidenced tags only, using PHYS / BIO /
+COG / MEM /
+INFO / TEMP / SPAT / STR / COS / SOC / OPR families.
 
 Do not use tags as decoration. If the hazard is not demonstrated in the
 file body, do not tag it.
@@ -118,13 +115,13 @@ When creating a new entry, follow this hierarchy:
     **Consult Thorne/Chen:** Would Dr. Thorne have an opinion on this? Would Chen be
     the
     one logging the biological data?
-4.  **Nomenclature Check:** 
+4.  **Nomenclature Check:**
     *   No "Keter/Thaumiel."
     *   No "Sovereign" used obsessively.
     *   Clinical adjectives only (Hostile, Resonant, Corrosive).
         Confirm registry band, lifecycle state, and hazard tags match the body of the
         file.
-5.  **Save Destination:** 
+5.  **Save Destination:**
     *   Main Files -> `ANOMALY txt Part 2`
     *   Supporting Logs -> `ANOMALY Log Part 2`
     *   Exogenous Nodes -> `Emergent Reality File`
@@ -133,7 +130,7 @@ When creating a new entry, follow this hierarchy:
 
 ## 6. FINAL INSTRUCTION TO THE AI
 
-> **"Manners are the only Anti Reality Mesh that doesn't require a power supply."** 
+> **"Manners are the only Anti Reality Mesh that doesn't require a power supply."**
 
 Write every file as if you are a clerk who has seen too much
 and forgotten just enough. Maintain the "Long View" of

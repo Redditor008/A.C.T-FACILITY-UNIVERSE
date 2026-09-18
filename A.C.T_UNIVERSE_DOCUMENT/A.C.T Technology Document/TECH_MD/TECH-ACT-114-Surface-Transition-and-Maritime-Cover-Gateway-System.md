@@ -189,10 +189,10 @@ ordinary shadow.
 
 - ACT-SITE-05-ID-C-F-6 Surface Research and Transition Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-5 Personnel and Command Level Floor Dossier;
-- TECH-ACT-079 - Surface Cover Research Campus;
-- TECH-ACT-080 - Concealed Transition Access Architecture;
-- TECH-ACT-081 - Maritime Separation Port Operations System;
-- TECH-ACT-109 - Maritime Holding Intake and Transfer System;
+- TECH-ACT-079 — Surface Cover Research Campus;
+- TECH-ACT-080 — Concealed Transition Access Architecture;
+- TECH-ACT-081 — Maritime Separation Port Operations System;
+- TECH-ACT-109 — Maritime Holding Intake and Transfer System;
 - Nusantara surface transition ledgers [restricted].
 
 ---
@@ -204,8 +204,8 @@ ordinary shadow.
   Should recovered material ever move through F-6 while external collaborators are present on
   the
   island?
-- Can port separation remain credible during high-tempo maritime recovery?
-- What ordinary campus reason best supports a sudden surface seal without creating curiosity?
+— Can port separation remain credible during high-tempo maritime recovery?
+— What ordinary campus reason best supports a sudden surface seal without creating curiosity?
   Should Security prioritize stopping observation or preserving the observer's belief that nothing unusual
   occurred?
   When does a legitimate research schedule become too useful as cover and therefore
@@ -216,9 +216,7 @@ ordinary shadow.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Security Boundary Command / Campus Director / Central Archive
-**Review Status:** Active surface-transition technology record; concealed routes, port schedules, seal triggers, and
-cover phrases censored
-**Next Review:** After any transition exposure, port overlap, concealed route observation, surface seal action,
-public-program conflict, or recovered-material movement under cover pressure
+**Created:** 2026-09-16 **Author Desk:** Security Boundary Command / Campus Director / Central Archive **Review
+Status:** Active surface-transition technology record; concealed routes, port schedules, seal triggers, and cover
+phrases censored **Next Review:** After any transition exposure, port overlap, concealed route observation, surface
+seal action, public-program conflict, or recovered-material movement under cover pressure

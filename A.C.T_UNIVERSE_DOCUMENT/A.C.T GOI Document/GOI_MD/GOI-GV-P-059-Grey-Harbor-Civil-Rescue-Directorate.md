@@ -460,9 +460,9 @@ apartment three blocks away.
   Grey Harbor Civil Rescue Directorate is an outside government rescue authority and not
   an
   A.C.T branch.
-- The Directorate has repeatedly saved civilians during anomaly-adjacent disasters.
-- Its restricted procedures recognize abnormal route, shelter, casualty, and witness conditions.
-- Grey Harbor maintains casualty and survivor records that may contradict A.C.T public-cover narratives.
+— The Directorate has repeatedly saved civilians during anomaly-adjacent disasters.
+— Its restricted procedures recognize abnormal route, shelter, casualty, and witness conditions.
+— Grey Harbor maintains casualty and survivor records that may contradict A.C.T public-cover narratives.
   The Directorate can cooperate with A.C.T while refusing orders it considers unsafe for
   civilians
   in reach.
@@ -490,14 +490,14 @@ wanting control over anomalies.
   Who authorizes Grey Harbor responders to override ordinary road closure and shelter orders
   during
   A.C.T incidents?
-- Why do some siren tones reduce panic while increasing witness memory retention?
+— Why do some siren tones reduce panic while increasing witness memory retention?
   Has Grey Harbor ever hidden a survivor from A.C.T after deciding that containment
   custody
   would be unsafe?
   Do some shelter registrars possess training from another outside GOI such as Cairn
   &
   Lintel or Lullaby Works?
-- How many responder memory-care files contain unreported A.C.T operational failures?
+— How many responder memory-care files contain unreported A.C.T operational failures?
 
 ### Intelligence Confidence
 

@@ -179,8 +179,8 @@ delay.
 - ACT-SUB-02-RU-N-F-1 Interim Cryogenic Holding Floor Dossier;
 - ACT-SUB-02-RU-N-F-2 Quarantine and Assessment Level Floor Dossier;
 - ACT-SITE-02-RU-N White Grave Station Site Dossier;
-- TECH-ACT-029 - Cryogenic Biological Isolation Units;
-- TECH-ACT-088 - Short-Term Holding Vault System;
+- TECH-ACT-029 — Cryogenic Biological Isolation Units;
+- TECH-ACT-088 — Short-Term Holding Vault System;
 - Frost Hollow cold holding manifest [restricted].
 
 ---
@@ -198,10 +198,8 @@ delay.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** F-1 Holding Officer / Medical Quarantine Lead / Central Archive
-**Review Status:** Active interim cryogenic record; live unit maps, suppression thresholds, and silent removal
-authorizations censored
-**Next Review:** After any overstay, suppression failure, F-1 closure, transfer delay, seasonal pressure surge,
-or
-White Grave disposition dispute
+**Created:** 2026-09-16 **Author Desk:** F-1 Holding Officer / Medical Quarantine Lead / Central Archive
+**Review
+Status:** Active interim cryogenic record; live unit maps, suppression thresholds, and silent removal authorizations
+censored **Next Review:** After any overstay, suppression failure, F-1 closure, transfer delay, seasonal pressure
+surge, or White Grave disposition dispute

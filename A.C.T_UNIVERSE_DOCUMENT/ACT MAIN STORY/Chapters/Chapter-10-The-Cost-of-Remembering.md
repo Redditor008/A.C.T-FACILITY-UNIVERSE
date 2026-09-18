@@ -54,8 +54,8 @@ preferable to the alternative.
 
 The alternative was that Tavian had been right.
 
-The truth was not simply dangerous to preserve institutionally.
-It was dangerous to hold in the mind.
+The truth was not simply dangerous to preserve institutionally. It was dangerous to hold
+in the mind.
 
 She lasted forty-two minutes before the second symptom arrived.
 
@@ -106,8 +106,7 @@ a harmless seal-migration ledger, she copied a string of numbers into her notes 
 only afterward understood that
 they matched a maintenance route beneath the abyss branch she had never formally accessed.
 
-Not guessed.
-Matched.
+Not guessed. Matched.
 
 She checked the notation three times, then deleted the line, then restored it from
 buffer because deleting it felt too
@@ -116,9 +115,8 @@ much like fear masquerading as caution.
 By late shift she had enough data to stop lying to herself.
 
 Whatever the founders had judged too dangerous to remember was not dangerous only because
-of what it meant.
-It was dangerous because memory of it behaved differently once assembled past a certain
-threshold.
+of what it meant. It was
+dangerous because memory of it behaved differently once assembled past a certain threshold.
 
 Knowledge wanted movement.
 
@@ -126,9 +124,8 @@ That was the phrase she wrote next.
 
 Then she closed the terminal and went to find Tavian.
 
-He was not in Medical Records.
-Not in the corridor.
-Not in the lower med archive.
+He was not in Medical Records. Not in the corridor. Not in the lower
+med archive.
 
 It was Mila who found her searching.
 
@@ -207,8 +204,7 @@ Mila held her gaze.
 
 The abyss.
 
-Not as a location.
-As a direction.
+Not as a location. As a direction.
 
 Sera slid down onto the dead machine housing and pressed the heels of her
 hands against her eyes. Behind the darkness,
@@ -232,15 +228,14 @@ Sera lowered her hands.
 
 Active architecture.
 
-A route in the mind.
-A route the mind might start walking.
+A route in the mind. A route the mind might start walking.
 
-No wonder the founders had chosen erasure.
-No wonder the archive had been shaped like damaged scar tissue instead of clean
-preserved truth.
+No wonder the founders had chosen erasure. No wonder the archive had been shaped
+like damaged scar tissue instead of
+clean preserved truth.
 
-If memory itself became passage, then forgetting was not retreat.
-It was sealing the door before it finished opening.
+If memory itself became passage, then forgetting was not retreat. It was sealing the
+door before it finished opening.
 
 “Why tell me this now?” Sera asked.
 
@@ -292,9 +287,9 @@ same routines, the same
 checkpoint habits, the same buried clockwork. But Sera could no longer experience any of
 it as neutral.
 
-Every hall was part of a larger agreement.
-Every silence was a seal.
-Every administrative omission might be mercy in procedural clothing.
+Every hall was part of a larger agreement. Every silence was a seal. Every
+administrative omission might be mercy in
+procedural clothing.
 
 Halfway back to her station she stopped without meaning to.
 
@@ -315,9 +310,7 @@ A guard at the checkpoint noticed.
 
 His tone was only mildly sharp, but Sera heard the warning under it.
 
-No lingering.
-No staring downward.
-No letting your thoughts become visibly directional.
+No lingering. No staring downward. No letting your thoughts become visibly directional.
 
 She moved on.
 
@@ -326,8 +319,8 @@ the authentication field.
 
 For the first time since this began, she considered deleting everything.
 
-Not because it was false.
-Because it might be too true to hold safely anymore.
+Not because it was false. Because it might be too true to hold safely
+anymore.
 
 If she destroyed the file, the knowledge would not vanish from her. But it
 might blur at the edges. It might lose
@@ -372,14 +365,13 @@ archive branch. No one part contained the full structure. No one seizure of data
 could preserve the whole route in one
 mind at one time.
 
-It was not enough to solve the problem.
-But it was enough to buy time.
+It was not enough to solve the problem. But it was enough to buy
+time.
 
 When the work was finished, she sat motionless in the glow of the terminal
 and realized what she had done.
 
-She had not chosen full truth.
-She had not chosen full forgetting.
+She had not chosen full truth. She had not chosen full forgetting.
 
 She had chosen fragmentation.
 

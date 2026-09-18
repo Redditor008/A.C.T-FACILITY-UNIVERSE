@@ -178,9 +178,9 @@ cold.
 - ACT-SITE-02-RU-N-F-4 Research and Biological Study Floor Dossier;
 - ACT-SITE-02-RU-N-F-3 Standard Deep-Isolation Holding Floor Dossier;
 - ACT-SITE-02-RU-N-F-5 Personnel Habitation and Support Floor Dossier;
-- TECH-ACT-029 - Cryogenic Biological Isolation Units;
-- TECH-ACT-126 - Controlled Study Environment and Research Sample-Custody System;
-- TECH-ACT-134 - Biological Suppression Chamber and Climate-Controlled Deep-Isolation Holding System;
+- TECH-ACT-029 — Cryogenic Biological Isolation Units;
+- TECH-ACT-126 — Controlled Study Environment and Research Sample-Custody System;
+- TECH-ACT-134 — Biological Suppression Chamber and Climate-Controlled Deep-Isolation Holding System;
 - White Grave long observation and sample-control ledgers [station-restricted].
 
 ---
@@ -201,9 +201,9 @@ cold.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Floor Research Chief / Research Division / Central Archive
-**Review Status:** Active long-term biological observation technology record; resident identities, sample lines, study
-rosters, and observation streams censored
-**Next Review:** After any sample-control breach, cold-condition drift, long-observation anomaly, study restriction
-dispute, Medical exposure incident, Archive mirror fault, or resident activation during research
+**Created:** 2026-09-16 **Author Desk:** Floor Research Chief / Research Division / Central Archive **Review
+Status:**
+Active long-term biological observation technology record; resident identities, sample lines, study rosters, and
+observation streams censored **Next Review:** After any sample-control breach, cold-condition drift, long-observation
+anomaly, study restriction dispute, Medical exposure incident, Archive mirror fault, or resident activation during
+research

@@ -204,10 +204,10 @@ object, crew, platform record, and cover story all arrive intact.
 - ACT-SITE-05-ID-C Nusantara Deep Relay Site Dossier;
 - ACT-SITE-05-ID-C-F-3 Maritime and Island Holding Level Floor Dossier;
 - Death Angler, AFD-NB-964;
-- TECH-ACT-064 - Water-Capable Containment Chambers;
-- TECH-ACT-065 - Pressure-Rated Environmental Transition System;
-- TECH-ACT-037 - Sub-Abyssal Sonar;
-- TECH-ACT-010 - Digital Resonance Sensors;
+- TECH-ACT-064 — Water-Capable Containment Chambers;
+- TECH-ACT-065 — Pressure-Rated Environmental Transition System;
+- TECH-ACT-037 — Sub-Abyssal Sonar;
+- TECH-ACT-010 — Digital Resonance Sensors;
 - Nusantara port containment ledgers [restricted];
 - Maritime Recovery operation records [restricted].
 
@@ -218,9 +218,9 @@ object, crew, platform record, and cover story all arrive intact.
   How long can a vessel remain a containment site before it must be
   reclassified
   as a temporary facility?
-- Which platform classes can survive resident pursuit after sensory denial?
-- Can Sonar Void regions interfere with MPCI ledger transmission as well as detection?
-- Should every maritime platform carry pressure-rated capability, or only deep-response vessels?
+— Which platform classes can survive resident pursuit after sensory denial?
+— Can Sonar Void regions interfere with MPCI ledger transmission as well as detection?
+— Should every maritime platform carry pressure-rated capability, or only deep-response vessels?
   How much cover activity is needed to protect anomaly missions without attracting attention
   through
   excess presence?
@@ -231,10 +231,10 @@ object, crew, platform record, and cover story all arrive intact.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15
-**Author Desk:** Maritime Recovery Command / Nusantara Deep Relay / Central Archive
-**Review Status:** Active maritime platform record; vessel classes, port routes, and live platform names
-censored
-**Next Review:** After any sea-bound breach, platform loss, port handoff delay, vessel-cover compromise, Sonar
-Void
-pursuit event, or Death Angler-related exercise
+**Created:** 2026-09-15 **Author Desk:** Maritime Recovery Command / Nusantara Deep Relay / Central Archive
+**Review
+Status:** Active maritime platform record; vessel classes, port routes, and live platform names censored
+**Next
+Review:** After any sea-bound breach, platform loss, port handoff delay, vessel-cover compromise, Sonar Void
+pursuit
+event, or Death Angler-related exercise

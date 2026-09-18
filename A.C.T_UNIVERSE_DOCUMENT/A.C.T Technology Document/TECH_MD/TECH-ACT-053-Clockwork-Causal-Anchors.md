@@ -197,10 +197,10 @@ you check the clock.
 ## CROSS-REFERENCES
 
 - ACT Technological Evolution Timeline, 1810s Clockwork Causal Anchors entry;
-- TECH-ACT-001 - Reality Stabilization Anchor System;
-- TECH-ACT-005 - Causal Static Generator System;
-- TECH-ACT-008 - Causal Anchor Nails;
-- TECH-ACT-044 - Causal-Reactive Mercury;
+- TECH-ACT-001 — Reality Stabilization Anchor System;
+- TECH-ACT-005 — Causal Static Generator System;
+- TECH-ACT-008 — Causal Anchor Nails;
+- TECH-ACT-044 — Causal-Reactive Mercury;
 - Temporal Review Desk mechanism ledgers [restricted];
 - Foundational Era sequence-failure records [restricted].
 
@@ -211,18 +211,15 @@ you check the clock.
 - Did any CCA ever stabilize a full room without later sequence debt?
   Are the oldest brass gear ratios copied from ordinary horology or from anomalous
   observation?
-- Can a clockwork anchor accidentally teach an artifact a repeatable escape rhythm?
-- Why do some units affect ledgers more strongly than physical objects?
-- Should surviving units remain intact, or should stored tension risks require disassembly?
-- Did CCA doctrine influence the first RSA prototype more than current engineering admits?
+— Can a clockwork anchor accidentally teach an artifact a repeatable escape rhythm?
+— Why do some units affect ledgers more strongly than physical objects?
+— Should surviving units remain intact, or should stored tension risks require disassembly?
+— Did CCA doctrine influence the first RSA prototype more than current engineering admits?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Historical Engineering Archive / Temporal Review Desk / Central Archive  
-**Review Status:** Retired legacy temporal technology record; live winding procedures censored  
-**Next Review:** After any tick event, stored-tension finding, sequence anomaly, restoration request, or RSA
-ancestry
-audit
+**Created:** 2026-09-15 **Author Desk:** Historical Engineering Archive / Temporal Review Desk / Central Archive
+**Review Status:** Retired legacy temporal technology record; live winding procedures censored **Next Review:** After
+any tick event, stored-tension finding, sequence anomaly, restoration request, or RSA ancestry audit

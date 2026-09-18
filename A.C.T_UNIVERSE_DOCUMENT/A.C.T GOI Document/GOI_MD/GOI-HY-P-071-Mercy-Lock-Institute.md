@@ -495,12 +495,12 @@ explained in this dossier because they belong in separate technology or equipmen
   Does the First Key Table exist as a central board, founding ward, legal
   trust,
   or review ritual?
-- Which gentle locks are engineered devices and which are anomaly-derived artifacts?
-- How many residents are hidden from A.C.T because public exposure would endanger them?
-- Has Mercy Lock ever released a patient whose danger later exceeded its assessment?
-- Do consent ledgers resist NEMNOLIA-series amnestic effects or only ordinary record loss?
-- Which hostile GOIs have attempted to buy resident locations?
-- How many former A.C.T contractors work inside the Institute?
+— Which gentle locks are engineered devices and which are anomaly-derived artifacts?
+— How many residents are hidden from A.C.T because public exposure would endanger them?
+— Has Mercy Lock ever released a patient whose danger later exceeded its assessment?
+— Do consent ledgers resist NEMNOLIA-series amnestic effects or only ordinary record loss?
+— Which hostile GOIs have attempted to buy resident locations?
+— How many former A.C.T contractors work inside the Institute?
   Can A.C.T create formal transfer protocols without turning Mercy Lock into an unofficial
   A.C.T
   ward system?

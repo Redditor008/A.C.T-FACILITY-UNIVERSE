@@ -204,14 +204,14 @@ public story it can break.
 
 Status values:
 
-- **CLEAR** - no known information hazard;
-- **SENSITIVE** - operationally restricted but not anomalously hazardous;
-- **COGNITIVE REVIEW** - may affect thought, attention, dream, memory, identity, or compulsion;
-- **MEMETIC RESTRICTED** - may replicate, compel, recruit, or infect through perception or repetition;
-  **TECHNICAL QUARANTINE** - digital or machine-readable components may execute, call outward, rewrite, or
+- **CLEAR** — no known information hazard;
+- **SENSITIVE** — operationally restricted but not anomalously hazardous;
+- **COGNITIVE REVIEW** — may affect thought, attention, dream, memory, identity, or compulsion;
+- **MEMETIC RESTRICTED** — may replicate, compel, recruit, or infect through perception or repetition;
+  **TECHNICAL QUARANTINE** — digital or machine-readable components may execute, call outward, rewrite, or
   sync;
-- **RITUAL QUARANTINE** - reading, recitation, performance, or copying may complete a ritual effect;
-- **SEALED** - no general reproduction authorized.
+— **RITUAL QUARANTINE** — reading, recitation, performance, or copying may complete a ritual effect;
+— **SEALED** — no general reproduction authorized.
 
 ---
 

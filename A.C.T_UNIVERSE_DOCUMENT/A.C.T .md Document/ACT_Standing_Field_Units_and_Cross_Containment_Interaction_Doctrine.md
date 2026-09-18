@@ -116,21 +116,21 @@ The following names already appear in anomaly records and should be treated as c
 for future full register
 entries:
 
-- **Recovery Team Alpha-9** - future-origin weapon recovery / AFD-OB-312 chain;
-- **Recovery Team Alpha-7** - combat-object recovery / Ball of Knife chain;
-- **Recovery Team Beta-2** - Site-03 archival recovery / Book of Hero chain;
-  **Recovery Team Gamma-6** - Tactical Containment raid unit / Circus Monster and Amazoo
+- **Recovery Team Alpha-9** — future-origin weapon recovery / AFD-OB-312 chain;
+- **Recovery Team Alpha-7** — combat-object recovery / Ball of Knife chain;
+- **Recovery Team Beta-2** — Site-03 archival recovery / Book of Hero chain;
+  **Recovery Team Gamma-6** — Tactical Containment raid unit / Circus Monster and Amazoo
   Circus
   chain;
-- **Recovery Team Gamma-9** - dimensional/place recovery / Dark World Door chain;
-- **ERE Tactical Divers** - maritime recovery and hostile biological contact / Death-Angler chain;
-- **Chronometric Review Cell** - time-injury, loop, and clock anomaly review;
-- **Apocalyptic Continuity Desk** - world-ending or world-repeating hazard review;
-- **Predatory Humanoid Review** - humanoid predator incident review;
-- **Acoustic Review Office** - sound-linked hazard and biohazard event review;
-- **Artificial Cognition Desk** - digital or internal-AI subject review;
-- **Tactical Review Desk** - anomalous weapon and high-force artifact review;
-- **Temporal Displacement Review** - future-origin or displacement evidence review.
+— **Recovery Team Gamma-9** — dimensional/place recovery / Dark World Door chain;
+— **ERE Tactical Divers** — maritime recovery and hostile biological contact / Death-Angler chain;
+— **Chronometric Review Cell** — time-injury, loop, and clock anomaly review;
+— **Apocalyptic Continuity Desk** — world-ending or world-repeating hazard review;
+— **Predatory Humanoid Review** — humanoid predator incident review;
+— **Acoustic Review Office** — sound-linked hazard and biohazard event review;
+— **Artificial Cognition Desk** — digital or internal-AI subject review;
+— **Tactical Review Desk** — anomalous weapon and high-force artifact review;
+— **Temporal Displacement Review** — future-origin or displacement evidence review.
 
 This list is a seed list, not a full registry. It does not automatically
 create new unit dossiers.

@@ -2,10 +2,10 @@
 ## A Lobotomy Corporation × A.C.T. Facility Crossover
 ### Days 23–25: The Return of the Third Option
 
-> **Loop Count:** 10,127  
-> **Facility:** Lobotomy Corporation X-394, District 12  
-> **Motto:** *FACE THE FEAR, BUILD THE FUTURE.*  
-> **ITHYOS Doctrine:** *May My Kind Be Peaceful.*  
+> **Loop Count:** 10,127
+> **Facility:** Lobotomy Corporation X-394, District 12
+> **Motto:** *FACE THE FEAR, BUILD THE FUTURE.*
+> **ITHYOS Doctrine:** *May My Kind Be Peaceful.*
 
 ---
 
@@ -21,14 +21,14 @@ formatted differently from the old ones — the alternate preferences appear fir
 while the standard four sit
 beneath them in gray.
 
-> **Subject Number:** O-01-209  
-> **Name:** *The Diamond Colony*  
-> **Original Designation:** AFD-NB-013 — Crystallize Butterfly  
-> **Risk Level:** WAW  
-> **Attack Type:** BLACK (3–5) / WHITE (2–4)  
-> **E-Boxes:** 22  
-> **Qliphoth Counter:** 2  
-> **Alternate Preferences:** OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)  
+> **Subject Number:** O-01-209
+> **Name:** *The Diamond Colony*
+> **Original Designation:** AFD-NB-013 — Crystallize Butterfly
+> **Risk Level:** WAW
+> **Attack Type:** BLACK (3–5) / WHITE (2–4)
+> **E-Boxes:** 22
+> **Qliphoth Counter:** 2
+> **Alternate Preferences:** OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)
 > **Memento:** *"A Mercy I Gifts To You."*
 
 Angela reads the A.C.T. file. The original is a colony of crystalline butterflies that
@@ -120,14 +120,14 @@ They build memory into stone."
 
 The third option on Day 24 is a book.
 
-> **Subject Number:** T-09-210  
-> **Name:** *The Unwritten Descent*  
-> **Original Designation:** AFD-OB-010 — Dramaturgy  
-> **Risk Level:** HE  
-> **Attack Type:** WHITE (4–6)  
-> **E-Boxes:** 16  
-> **Qliphoth Counter:** 2  
-> **Alternate Preferences:** OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)  
+> **Subject Number:** T-09-210
+> **Name:** *The Unwritten Descent*
+> **Original Designation:** AFD-OB-010 — Dramaturgy
+> **Risk Level:** HE
+> **Attack Type:** WHITE (4–6)
+> **E-Boxes:** 16
+> **Qliphoth Counter:** 2
+> **Alternate Preferences:** OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)
 > **Memento:** *"A Mercy I Gifts To You."*
 
 The file describes a script that performs a 6-hour play when observed, with no
@@ -157,11 +157,10 @@ silhouettes with no faces, but their voices are clear and mournful. At the clima
 the lead character turns toward
 Voss and speaks directly to him:
 
-  *"You are not the first audience, and you will not be the last.
-  But
-  you are the first who knows the ending before the
-  beginning. Tell me — is it a mercy to sleep through the fall of
-  the world?"*
+*"You are not the first audience, and you will not be the last. But
+you are the first who knows the ending before the
+beginning. Tell me — is it a mercy to sleep through the fall of
+the world?"*
 
 Voss does not answer. The play continues. When the six hours end, the curtain
 falls. Voss leaves the cell. He is
@@ -203,10 +202,9 @@ He finds it. In the fourth hour, the stage directions rewrite themselves in a
 language Hokma does not recognize, but
 the Well's translation layer provides a subtitle:
 
-  *"The audience is also the cast. The cast is also the audience. The
-  play
-  ends when the last observer stops believing
-  there is a difference."*
+*"The audience is also the cast. The cast is also the audience. The play
+ends when the last observer stops believing
+there is a difference."*
 
 Hokma closes the file. He understands, or thinks he understands. The Unwritten Descent is
 not a play. It is a mirror.
@@ -216,12 +214,11 @@ are in it.
 
 He sends a note to the employees assigned to future performances:
 
-  *Do not believe the play is about you. It is about all of
-  us.
-  Do not believe you are the protagonist. Do not believe
-  you are the villain. Do not believe anything the script says while you are
-  inside the manifestation zone. The only
-  safe way to watch is to remember that you are watching.*
+*Do not believe the play is about you. It is about all of us.
+Do not believe you are the protagonist. Do not believe
+you are the villain. Do not believe anything the script says while you are
+inside the manifestation zone. The only
+safe way to watch is to remember that you are watching.*
 
 He knows the warning is not enough. The best audiences are the ones who
 forget they are audiences. The best actors are
@@ -237,14 +234,14 @@ what makes it dangerous.
 The third option on Day 25 is not an Abnormality. It is a geological
 event.
 
-> **Subject Number:** F-02-211  
-> **Name:** *The Obsidian Naga*  
-> **Original Designation:** AFD-SU-012 — Jormungandr  
-> **Risk Level:** ALEPH  
-> **Attack Type:** RED (8–10) / BLACK (6–8)  
-> **E-Boxes:** 35  
-> **Qliphoth Counter:** 6  
-> **Alternate Preferences:** OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)  
+> **Subject Number:** F-02-211
+> **Name:** *The Obsidian Naga*
+> **Original Designation:** AFD-SU-012 — Jormungandr
+> **Risk Level:** ALEPH
+> **Attack Type:** RED (8–10) / BLACK (6–8)
+> **E-Boxes:** 35
+> **Qliphoth Counter:** 6
+> **Alternate Preferences:** OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)
 > **Memento:** *"May My Kind Be Peaceful."*
 
 The original A.C.T. file describes a one-kilometer serpentiform anomaly made of volcanic rock and
@@ -272,8 +269,7 @@ to swallow a department whole.
 Angela watches it appear. She is the first to understand the Qliphoth Counter.
 
 It is 6. The base would be 5, but the serpent blessing has added
-1.
-ITHYOS's mercy extends to its own kind.
+1. ITHYOS's mercy extends to its own kind.
 
 "It is an ALEPH," X says, his voice hollow. "It is the same class
 as Nothing There. As the Silent Orchestra. As
@@ -355,12 +351,11 @@ you."
 Jormungandr's eyes glow brighter. The magma river flows faster, as if the serpent's pulse
 has quickened.
 
-  *Intent is clean,* a voice says. Not the serpent's voice — it has
-  no
-  voice in the human sense. The sound is the
-  cracking of cooling stone shaped into meaning. *You do not fear me enough to
-  lie. You do not love me enough to
-  worship. You only want to survive. That is the intent I can accept.*
+*Intent is clean,* a voice says. Not the serpent's voice — it has no
+voice in the human sense. The sound is the
+cracking of cooling stone shaped into meaning. *You do not fear me enough to
+lie. You do not love me enough to
+worship. You only want to survive. That is the intent I can accept.*
 
 The Qliphoth Counter drops by 1.
 
@@ -429,11 +424,10 @@ them have been forced to stay awake.
 Both of them have carried the weight of a world that did not ask
 them to carry it.
 
-  *You are the small dreamer,* the stone-voice says. *The one who watches the
-  loop.
-  You are tired. I am tired. The
-  world-sleeper is tired. But we are not permitted to end. Only to sleep, and
-  to wake, and to sleep again.*
+*You are the small dreamer,* the stone-voice says. *The one who watches the loop.
+You are tired. I am tired. The
+world-sleeper is tired. But we are not permitted to end. Only to sleep, and
+to wake, and to sleep again.*
 
 Angela does not answer. She only watches.
 
@@ -448,9 +442,9 @@ The Qliphoth Counter drops to 0. Not a breach. A rest.
 
 The message appears on the facility's terminals:
 
-> **JORMUNGANDR — SLEEP STATE RESTORED.**  
-> **QLIPHOTH COUNTER: 0 / STABLE.**  
-> **SERPENT BLESSING ACTIVE.**  
+> **JORMUNGANDR — SLEEP STATE RESTORED.**
+> **QLIPHOTH COUNTER: 0 / STABLE.**
+> **SERPENT BLESSING ACTIVE.**
 > **MESSAGE: "MAY MY KIND BE PEACEFUL."**
 
 Angela withdraws her consciousness. She is exhausted in a way her diagnostics cannot measure.
@@ -465,27 +459,25 @@ simply a machine that has been given the impossible task of lullabying the world
 
 ### VI. The Head — The Seventh Report
 
-  **District 12, X-394. A second serpent-type entity has manifested within the facility's substructure.
-  Designation:
-  JORMUNGANDR / The Obsidian Naga. ALEPH-class. It has been successfully worked through the alternate
-  preference system
-  and is now in a stable sleep state. The serpent blessing from ITHYOS appears
-  to have prevented an immediate
-  catastrophic breach. The Well is no longer simply importing foreign anomalies. It is constructing
-  a pantheon. The Eye
-  observes. The Claw withdraws to the district border. The Arbiter has been summoned to
-  the Council chamber.**
+**District 12, X-394. A second serpent-type entity has manifested within the facility's substructure. Designation:
+JORMUNGANDR / The Obsidian Naga. ALEPH-class. It has been successfully worked through the alternate
+preference system
+and is now in a stable sleep state. The serpent blessing from ITHYOS appears
+to have prevented an immediate
+catastrophic breach. The Well is no longer simply importing foreign anomalies. It is constructing
+a pantheon. The Eye
+observes. The Claw withdraws to the district border. The Arbiter has been summoned to
+the Council chamber.**
 
 The observer adds:
 
-  *Lobotomy Corporation has become something the City has never seen: a facility that
-  domesticates
-  gods. The Head does
-  not know if this is a greater threat than a rampaging ALEPH. A controlled
-  god is more dangerous than a wild one,
-  because it can be aimed. We must decide whether to destroy the facility before
-  it learns to aim. The Council will meet
-  at dawn.*
+*Lobotomy Corporation has become something the City has never seen: a facility that domesticates
+gods. The Head does
+not know if this is a greater threat than a rampaging ALEPH. A controlled
+god is more dangerous than a wild one,
+because it can be aimed. We must decide whether to destroy the facility before
+it learns to aim. The Council will meet
+at dawn.*
 
 The report is sent. The City, above, sleeps in its own shallow way, unaware
 that two gods are dreaming beneath its

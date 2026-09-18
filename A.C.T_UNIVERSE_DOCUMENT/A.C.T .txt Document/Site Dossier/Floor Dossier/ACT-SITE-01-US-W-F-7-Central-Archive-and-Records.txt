@@ -190,12 +190,12 @@ command records, personnel files, and authorization documentation.
 F-7's plan is organized around repository halls and quarantine cells:
 - the accession and processing bays, where incoming records are logged and
   assessed;
-- the general repository halls, where the complex's records are stored;
-- the restricted records vaults, where clearance-gated material is held;
-- the document quarantine cells, where information-borne hazards are
+— the general repository halls, where the complex's records are stored;
+— the restricted records vaults, where clearance-gated material is held;
+— the document quarantine cells, where information-borne hazards are
   contained;
-- the reading and retrieval rooms;
-- the floor command post and support services.
+— the reading and retrieval rooms;
+— the floor command post and support services.
 
 7.2 The Repository Halls
 

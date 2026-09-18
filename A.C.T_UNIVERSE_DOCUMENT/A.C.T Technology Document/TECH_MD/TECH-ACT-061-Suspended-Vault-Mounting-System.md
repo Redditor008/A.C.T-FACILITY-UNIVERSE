@@ -195,10 +195,10 @@ it holds.
 ## CROSS-REFERENCES
 
 - ACT-SITE-01-US-W-F-1 The Hanging Vault Floor Dossier;
-- TECH-ACT-058 - F-1 Closure System;
-- TECH-ACT-034 - Abyssal Anchor Plating;
-- TECH-ACT-049 - Abyssal Basalt;
-- TECH-ACT-037 - Sub-Abyssal Sonar;
+- TECH-ACT-058 — F-1 Closure System;
+- TECH-ACT-034 — Abyssal Anchor Plating;
+- TECH-ACT-049 — Abyssal Basalt;
+- TECH-ACT-037 — Sub-Abyssal Sonar;
 - Redwood Veil SVMS inspection ledgers [restricted];
 - F-1 resident-specific vault schematics [restricted].
 
@@ -217,8 +217,7 @@ it holds.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Deep-Hold Command / Engineering Division / Central Archive  
-**Review Status:** Active deep vault architecture record; resident vault schematics and mount tolerances censored  
-**Next Review:** After any mount drift, shaft resonance, closure conflict, service-flex strain, or F-1
-vault retrofit
+**Created:** 2026-09-15 **Author Desk:** Deep-Hold Command / Engineering Division / Central Archive **Review Status:**
+Active deep vault architecture record; resident vault schematics and mount tolerances censored **Next Review:**
+After
+any mount drift, shaft resonance, closure conflict, service-flex strain, or F-1 vault retrofit

@@ -147,10 +147,10 @@ A.C.T identifies these functional layers:
   Last-Porter crews who handle late departures, bodies, objects, and people not fully recognized
   by
   the route;
-- Safe-Host operators who shelter passengers before and after crossing;
-- Border Speakers who train clients in phrases acceptable to abnormal checkpoints;
-- Cold Map custodians who preserve routes that cannot be photographed correctly;
-- Fare Judges who decide when emergency passage may be granted without payment.
+— Safe-Host operators who shelter passengers before and after crossing;
+— Border Speakers who train clients in phrases acceptable to abnormal checkpoints;
+— Cold Map custodians who preserve routes that cannot be photographed correctly;
+— Fare Judges who decide when emergency passage may be granted without payment.
 
 The structure gives the Passage institutional durability. Drivers can be arrested. A route office
 can move. Ledgers
@@ -230,10 +230,10 @@ practices that interact with abnormal travel conditions. Confirmed or strongly a
 - maintaining cold maps that remain readable when ordinary maps update incorrectly;
   using route bells to test whether a vehicle still belongs to its departure
   point;
-- negotiating with nonstandard checkpoints through fixed phrases;
-- moving passengers who have partial identity damage, memory gaps, or false papers;
-- suspending routes after injuries, disappearances, or wrong arrivals;
-- concealing safe houses from ordinary pursuit long enough for transit recovery.
+— negotiating with nonstandard checkpoints through fixed phrases;
+— moving passengers who have partial identity damage, memory gaps, or false papers;
+— suspending routes after injuries, disappearances, or wrong arrivals;
+— concealing safe houses from ordinary pursuit long enough for transit recovery.
 
 The Passage does not appear to create most routes. It discovers, prices, stabilizes, and
 exploits them.
@@ -470,10 +470,10 @@ harm.
   The Passage sells and arranges abnormal transit through unstable roads, ferries, borders, and
   evacuation
   routes.
-- It has saved civilians and witnesses during route failures.
-- It has also broken quarantine and moved persons of interest.
-- Its tickets, bells, cold maps, and ledgers may have active anomalous relevance.
-- It maintains route classes and suspension rules across multiple regions.
+— It has saved civilians and witnesses during route failures.
+— It has also broken quarantine and moved persons of interest.
+— Its tickets, bells, cold maps, and ledgers may have active anomalous relevance.
+— It maintains route classes and suspension rules across multiple regions.
 
 ### Active Intelligence Assessment
 
@@ -497,10 +497,10 @@ condition. A.C.T response must therefore be route-specific rather than ideologic
   Do Ticket Saints hold anomalous authority, or do routes respond to ticket language
   regardless
   of speaker?
-- How many cold maps exist, and do they update when route injuries occur?
-- What happens if a passenger refuses to pay after arrival?
-- Are route debts enforceable through geography, social pressure, or both?
-- Has Namewright Bazaar purchased passage using stolen names?
+— How many cold maps exist, and do they update when route injuries occur?
+— What happens if a passenger refuses to pay after arrival?
+— Are route debts enforceable through geography, social pressure, or both?
+— Has Namewright Bazaar purchased passage using stolen names?
   Does Anstrall Market hire Saint Morrow routes for object movement, or only imitate
   its
   tickets?

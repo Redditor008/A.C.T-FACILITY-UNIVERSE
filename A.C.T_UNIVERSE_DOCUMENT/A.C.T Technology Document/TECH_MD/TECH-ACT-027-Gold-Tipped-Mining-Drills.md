@@ -212,9 +212,9 @@ yes.
 
 - ACT Technological Master Index 50, Item 32;
 - ACT Technological Visual Reference Guide, Item 32;
-- TECH-ACT-024 - Pale Wood Scalpel;
+- TECH-ACT-024 — Pale Wood Scalpel;
 - Harvested Pale Wood, Item 41;
-- TECH-ACT-018 - Non-Euclidean Compass;
+- TECH-ACT-018 — Non-Euclidean Compass;
 - AFD-PL-932 Dark World Door expedition records;
 - Materials Custody gold-bit ledger [restricted].
 
@@ -235,10 +235,7 @@ yes.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Engineering Division / Dark World Survey Desk / Materials Custody / Central
-Archive
-**Review Status:** Active restricted record; gold-bit and architecture plans censored  
-**Next Review:** After any gold wear-through, dust leak, hollow agreement reading, or unauthorized Pale
-Wood
-modification
+**Created:** 2026-09-15 **Author Desk:** Engineering Division / Dark World Survey Desk / Materials Custody
+/ Central
+Archive **Review Status:** Active restricted record; gold-bit and architecture plans censored **Next Review:** After
+any gold wear-through, dust leak, hollow agreement reading, or unauthorized Pale Wood modification

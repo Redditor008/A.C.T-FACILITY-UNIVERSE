@@ -2,10 +2,10 @@
 ## A Lobotomy Corporation × A.C.T. Facility Crossover
 ### Days 17–19: The World-Sleeper Breaches
 
-> **Loop Count:** 10,127  
-> **Facility:** Lobotomy Corporation X-394, District 12  
-> **Motto:** *FACE THE FEAR, BUILD THE FUTURE.*  
-> **A.C.T. First Doctrine:** *Keep it asleep.*  
+> **Loop Count:** 10,127
+> **Facility:** Lobotomy Corporation X-394, District 12
+> **Motto:** *FACE THE FEAR, BUILD THE FUTURE.*
+> **A.C.T. First Doctrine:** *Keep it asleep.*
 
 ---
 
@@ -58,12 +58,12 @@ continents that have never existed.
 
 A single message appears on every terminal in the facility:
 
-> **ITHYOS — BREACH EVENT INITIATED.**  
-> **QLIPHOTH COUNTER: 5**  
-> **E-BOXES: 35**  
-> **ALL OTHER ABNORMALITIES: LOCKED.**  
-> **ITHYOS IS THE ONLY WORKABLE ENTITY.**  
-> **WORK PREFERENCES: OBSERVE / INITIATE / INTENT / RESEARCH**  
+> **ITHYOS — BREACH EVENT INITIATED.**
+> **QLIPHOTH COUNTER: 5**
+> **E-BOXES: 35**
+> **ALL OTHER ABNORMALITIES: LOCKED.**
+> **ITHYOS IS THE ONLY WORKABLE ENTITY.**
+> **WORK PREFERENCES: OBSERVE / INITIATE / INTENT / RESEARCH**
 > **PREFERENCE VALUES: UNKNOWN**
 
 Angela reads the message twelve times. Each time, the numbers are the same. The
@@ -76,13 +76,12 @@ By making it the only game in town.
 She sends a message to X. It is the second time she has used
 the emergency override channel.
 
-  **ITHYOS is not rampaging. It is testing us. It has locked the other
-  anomalies
-  so that nothing else can interfere. It
-  wants us to work on it. If we fail, the breach continues. If we
-  succeed, it may return to sleep. I do not know what
-  success means. The work preferences are unknown. We will have to discover them by
-  risking employees.**
+**ITHYOS is not rampaging. It is testing us. It has locked the other anomalies
+so that nothing else can interfere. It
+wants us to work on it. If we fail, the breach continues. If we
+succeed, it may return to sleep. I do not know what
+success means. The work preferences are unknown. We will have to discover them by
+risking employees.**
 
 X receives the message in his quarters. He is already dressed. He has not
 slept.
@@ -287,10 +286,9 @@ here, and I intend for us to survive each other."
 The serpent's breath changes rhythm. It becomes slower, deeper. The coffee in Chesed's cup
 ripples.
 
-  *You intend to survive,* the tectonic voice says. *Not to destroy. Not to
-  worship.
-  Not to flee. You intend to survive.
-  That is a clean intent. It is rare in this place.*
+*You intend to survive,* the tectonic voice says. *Not to destroy. Not to worship.
+Not to flee. You intend to survive.
+That is a clean intent. It is rare in this place.*
 
 "This place is built on survival," Chesed says. "We call it energy production. We
 call it containment. We call it
@@ -363,11 +361,10 @@ not looking."
 
 The serpent's eye focuses on him. The pupil narrows.
 
-  *You ask questions without demanding answers,* the voice says. *That is research. That
-  is
-  the difference between
-  knowledge and conquest. Ask, small one. I will not answer with words. But I
-  will let you look.*
+*You ask questions without demanding answers,* the voice says. *That is research. That is
+the difference between
+knowledge and conquest. Ask, small one. I will not answer with words. But I
+will let you look.*
 
 Hokma looks.
 
@@ -483,9 +480,9 @@ still functional, and that the serpent has thanked her.
 
 The message appears on every terminal:
 
-> **ITHYOS — BREACH SUPPRESSED.**  
-> **QLIPHOTH COUNTER: 0 / SLEEP STATE RESTORED.**  
-> **E.G.O. REWARD GRANTED.**  
+> **ITHYOS — BREACH SUPPRESSED.**
+> **QLIPHOTH COUNTER: 0 / SLEEP STATE RESTORED.**
+> **E.G.O. REWARD GRANTED.**
 > **MESSAGE: "THANK YOU FOR THE SLUMBER."**
 
 ---
@@ -504,9 +501,9 @@ blade is curved like a serpent's fang, and when it strikes, the air around
 it grows heavy, as if gravity itself is
 being pulled downward.
 
-> **E.G.O. Weapon: Abyssal Fang**  
-> **Damage:** PALE (8–10) / BLACK (5–7)  
-> **Attack Speed:** Slow  
+> **E.G.O. Weapon: Abyssal Fang**
+> **Damage:** PALE (8–10) / BLACK (5–7)
+> **Attack Speed:** Slow
   **Special Effect:** Successful strikes inflict a *Slumber* status on the target, causing them
   to
   move slower and deal
@@ -521,8 +518,8 @@ has no eye slits — the
 wearer sees through the scales, as if the world has been filtered through ITHYOS's
 own perception.
 
-> **E.G.O. Suit: Coils of the Sleeper**  
-> **Resistance:** RED +0.5, WHITE +0.5, BLACK +0.6, PALE +0.7  
+> **E.G.O. Suit: Coils of the Sleeper**
+> **Resistance:** RED +0.5, WHITE +0.5, BLACK +0.6, PALE +0.7
   **Special Effect:** The wearer is immune to mental compulsion effects from sleeping or
   dormant
   Abnormalities. Damage
@@ -533,21 +530,21 @@ own perception.
 
 Third are the **gifts**. Three small items, each one a fragment of ITHYOS's gratitude.
 
-> **Gift I — The First Doctrine**  
+> **Gift I — The First Doctrine**
   A small scale worn on a chain. Reduces Qliphoth Counter decay for all
   sleeping
   or dormant Abnormalities by 1 point per
   day.
 > **Memento:** *"Keep it asleep."*
 
-> **Gift II — The Abyssal Earplug**  
+> **Gift II — The Abyssal Earplug**
   A plug of soft, dark material. When worn, the user cannot hear the
   songs
   of infohazard Abnormalities. Useful against
   the Unfinished Measure.
 > **Memento:** *"Some songs are not meant to be finished."*
 
-> **Gift III — The Slumbering Coil**  
+> **Gift III — The Slumbering Coil**
   A ribbon of serpent skin that can be tied around an Abnormality's containment
   cell.
   When active, the cell's occupant
@@ -576,27 +573,25 @@ not have to use it."
 
 ### I. The Head — The Fifth Report
 
-  **District 12, X-394. ITHYOS breach event suppressed. Entity has returned to sleep state.
-  Facility
-  personnel
-  successfully performed four-stage work protocol: OBSERVE, INITIATE, INTENT, RESEARCH. Final suppression achieved
-  through direct appeal by facility AI. Entity awarded E.G.O. rewards to personnel. This is
-  unprecedented. The Well is
-  not merely hosting ITHYOS. It has integrated the entity into its reward system. ITHYOS
-  is now, functionally, a
-  Lobotomy Corporation Abnormality. Taboo status: unclear. The Claw team has been ordered to hold
-  position. The Eye
-  sees. The Claw waits. The Arbiter consults the Council.**
+**District 12, X-394. ITHYOS breach event suppressed. Entity has returned to sleep state. Facility
+personnel
+successfully performed four-stage work protocol: OBSERVE, INITIATE, INTENT, RESEARCH. Final suppression achieved
+through direct appeal by facility AI. Entity awarded E.G.O. rewards to personnel. This is
+unprecedented. The Well is
+not merely hosting ITHYOS. It has integrated the entity into its reward system. ITHYOS
+is now, functionally, a
+Lobotomy Corporation Abnormality. Taboo status: unclear. The Claw team has been ordered to hold
+position. The Eye
+sees. The Claw waits. The Arbiter consults the Council.**
 
 The observer adds one more line:
 
-  *The facility has done what the A.C.T. Facility could not. It has made
-  the
-  serpent part of its economy. Whether this
-  is salvation or the final corruption remains to be seen. But for now, District
-  12 is stable. The loop continues. The
-  world-sleeper sleeps. And Lobotomy Corporation has a new weapon that can put gods to
-  rest.*
+*The facility has done what the A.C.T. Facility could not. It has made the
+serpent part of its economy. Whether this
+is salvation or the final corruption remains to be seen. But for now, District
+12 is stable. The loop continues. The
+world-sleeper sleeps. And Lobotomy Corporation has a new weapon that can put gods to
+rest.*
 
 The Claw team withdraws to the edge of the Nest. They do not leave.
 They only wait for the next question.
@@ -657,28 +652,25 @@ sleep, it understood.
   PALE
   damage against
   targets already suffering mental status effects.
-- **Memento:** *"The deep does not hurry. It only arrives."*
+— **Memento:** *"The deep does not hurry. It only arrives."*
 
 ### Coils of the Sleeper (Suit)
 - **Source:** ITHYOS — The World-Sleeper
 - **Resistance:** RED +0.5, WHITE +0.5, BLACK +0.6, PALE +0.7
 - **Special Effect:** Immunity to mental compulsion from sleeping/dormant Abnormalities. 30% damage reduction while
   standing still. 15% movement penalty and occasional trance states.
-- **Memento:** *"To wear the serpent is to dream its patience."*
+— **Memento:** *"To wear the serpent is to dream its patience."*
 
 ### Gifts of the World-Sleeper
-  **Gift I — The First Doctrine:** Scale pendant. Reduces Qliphoth Counter decay for
-  sleeping/dormant
-  Abnormalities by 1
-  point per day. *"Keep it asleep."*
-  **Gift II — The Abyssal Earplug:** Blocks songs/infohazards from Abnormalities. *"Some songs are
-  not
-  meant to be
-  finished."*
-  **Gift III — The Slumbering Coil:** Cell-bound ribbon. Deepens an Abnormality's sleep, reducing
-  breach
-  chance by 20%
-  but lowering energy production by 15%. *"Sleep is not absence. Sleep is mercy."*
+**Gift I — The First Doctrine:** Scale pendant. Reduces Qliphoth Counter decay for sleeping/dormant
+Abnormalities by 1
+point per day. *"Keep it asleep."* **Gift II — The Abyssal Earplug:** Blocks songs/infohazards
+from Abnormalities.
+*"Some songs are not meant to be finished."* **Gift III — The Slumbering Coil:**
+Cell-bound ribbon. Deepens an
+Abnormality's sleep, reducing breach chance by 20% but lowering energy production by 15%. *"Sleep
+is not absence.
+Sleep is mercy."*
 
 ---
 

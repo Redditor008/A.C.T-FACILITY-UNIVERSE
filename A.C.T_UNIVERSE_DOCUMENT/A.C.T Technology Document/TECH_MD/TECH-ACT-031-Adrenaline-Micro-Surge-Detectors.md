@@ -210,7 +210,7 @@ Standing reminder: a calm voice over a rising gauge is not evidence of control.
 - ACT Technological Master Index 50, Item 18;
 - ACT Technological Visual Reference Guide, Item 18;
 - Terra's Pulse, Goddess of Instinctual Love, AFD-SU-952;
-- TECH-ACT-026 - Biometric Resonance Dampeners;
+- TECH-ACT-026 — Biometric Resonance Dampeners;
 - 004-Series medical aftercare procedures [restricted];
 - Subject Care compulsion-distance training [restricted].
 
@@ -223,8 +223,8 @@ Standing reminder: a calm voice over a rising gauge is not evidence of control.
   How often do staff learn to suppress visible panic while the wristband still
   sees
   it?
-- Can attraction hazards deliberately shape the surge curve to avoid alarm?
-- Should AMSD data be retained as medical record, breach evidence, or both?
+— Can attraction hazards deliberately shape the surge curve to avoid alarm?
+— Should AMSD data be retained as medical record, breach evidence, or both?
   What is the safe protocol when the detector says danger and the subject
   says
   consent?
@@ -233,7 +233,7 @@ Standing reminder: a calm voice over a rising gauge is not evidence of control.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Medical Division / Personnel Safety Desk / Central Archive  
-**Review Status:** Active personnel-safety record; sedative mixture details censored  
-**Next Review:** After any suite sedation, compulsion breach, false negative, or dampener-interference event
+**Created:** 2026-09-15 **Author Desk:** Medical Division / Personnel Safety Desk / Central Archive **Review
+Status:**
+Active personnel-safety record; sedative mixture details censored **Next Review:** After any suite sedation,
+compulsion breach, false negative, or dampener-interference event

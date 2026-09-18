@@ -27,9 +27,7 @@ Too clean.
 Sera sat down, thumbed the edge of the seal-strip, and watched it bloom blue
 under the heat of her skin.
 
-**AUTHORIZED FOR REVIEW**  
-**ARCHIVE RECONCILIATION TASK**  
-**ENTITY ERA / MODERN DESIGNATION ALIGNMENT**
+**AUTHORIZED FOR REVIEW** **ARCHIVE RECONCILIATION TASK** **ENTITY ERA / MODERN DESIGNATION ALIGNMENT**
 
 Below that, in smaller print:
 
@@ -146,10 +144,8 @@ A second pause.
 
 Then a list unfolded in pale gold across the dark terminal glass.
 
-**APPROVED FOR SHIFT DURATION**  
-**LOWER ARCHIVE STACK C**  
-**SEALED INDEX LEDGER 9**  
-**LEGACY DESIGNATION CORRIDOR**  
+**APPROVED FOR SHIFT DURATION** **LOWER ARCHIVE STACK C** **SEALED INDEX LEDGER 9** **LEGACY DESIGNATION
+CORRIDOR**
 **ABYSSAL ASSOCIATION REDACTION SET — PARTIAL**
 
 Partial.
@@ -200,8 +196,7 @@ longer smelled like dirt—only age.
 
 A console near the entrance blinked awake as she approached.
 
-**RECONCILIATION TASK ACTIVE**  
-**CLUSTER: ENTITY-000 / ABYSSAL ASSOCIATION**
+**RECONCILIATION TASK ACTIVE** **CLUSTER: ENTITY-000 / ABYSSAL ASSOCIATION**
 
 She frowned.
 
@@ -305,18 +300,13 @@ out. Dosage fields. Clearance signatures. Observation windows. Standard enough.
 
 Then she saw the repeated code.
 
-**004-H**  
-**004-H**  
-**004-F**  
-**004-H**
+**004-H** **004-H** **004-F** **004-H**
 
 And next to the dosage markers, the same location reference over and over again.
 
 **ABYSS ACCESS RECOVERY**
 
-Not witnesses.
-Not civilians.
-Not contaminated externals.
+Not witnesses. Not civilians. Not contaminated externals.
 
 Internal personnel.
 
@@ -343,9 +333,8 @@ Sera stared at the slip until the letters lost shape.
 For the first time that morning, she felt something colder than archive air crawl
 up her spine.
 
-This was not witness cleanup.
-This was not surface secrecy.
-This was the Facility doing something to itself.
+This was not witness cleanup. This was not surface secrecy. This was the Facility
+doing something to itself.
 
 Somewhere above her, deep in the structure of the buried institution, morning operations continued
 with their usual
@@ -368,8 +357,9 @@ She closed the drawer, slid the packet back into place, and stood alone between
 the shelves, listening to the low
 filtered hum in the walls.
 
-There were rules for what to do when a record failed.
-There were rules for contamination, contradiction, redaction, corruption, and structural inconsistency.
+There were rules for what to do when a record failed. There were rules
+for contamination, contradiction, redaction,
+corruption, and structural inconsistency.
 
 There were no rules for realizing that the oldest lies in the Facility might
 not be mistakes.

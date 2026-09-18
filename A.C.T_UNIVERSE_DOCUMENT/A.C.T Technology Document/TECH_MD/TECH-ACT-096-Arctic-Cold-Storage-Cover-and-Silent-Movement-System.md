@@ -182,8 +182,8 @@ colder than it looks secret.
 - ACT-SUB-02-RU-N-F-3 Surface Cover and Transition Level Floor Dossier;
 - ACT-SUB-02-RU-N-F-2 Quarantine and Assessment Level Floor Dossier;
 - ACT-SITE-02-RU-N White Grave Station Site Dossier;
-- TECH-ACT-094 - Interim Cryogenic Holding System;
-- TECH-ACT-095 - Quarantine Assessment and Medical Staging Suites;
+- TECH-ACT-094 — Interim Cryogenic Holding System;
+- TECH-ACT-095 — Quarantine Assessment and Medical Staging Suites;
 - Frost Hollow silent movement schedule [restricted].
 
 ---
@@ -194,17 +194,15 @@ colder than it looks secret.
 - Which transport delays create cover risk instead of reducing it?
   Can silent removal from the transport chain be noticed by logistics partners over
   time?
-- When should the surface facility close rather than explain an arrival?
-- How much quarantine capability can the cover display before it invites inspection?
-- Should cold-chain paperwork and internal hazard records ever share identifiers?
+— When should the surface facility close rather than explain an arrival?
+— How much quarantine capability can the cover display before it invites inspection?
+— Should cold-chain paperwork and internal hazard records ever share identifiers?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Facility Manager / Security Boundary Lead / Central Archive
-**Review Status:** Active arctic cover logistics record; live transition points, receiving schedules, disappearance
-authorizations, and route maps censored
-**Next Review:** After any receiving anomaly, transition challenge, cover audit, silent movement failure, surface
-sealing event, or transport-chain discrepancy
+**Created:** 2026-09-16 **Author Desk:** Facility Manager / Security Boundary Lead / Central Archive **Review
+Status:** Active arctic cover logistics record; live transition points, receiving schedules, disappearance
+authorizations, and route maps censored **Next Review:** After any receiving anomaly, transition challenge, cover
+audit, silent movement failure, surface sealing event, or transport-chain discrepancy

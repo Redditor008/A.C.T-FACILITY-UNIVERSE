@@ -182,9 +182,9 @@ the weather help guard the door.
 
 - ACT-SITE-02-RU-N-F-6 Surface Research and Transition Level Floor Dossier;
 - ACT-SITE-02-RU-N-F-5 Personnel Habitation and Support Floor Dossier;
-- TECH-ACT-055 - Silent Boundary System;
-- TECH-ACT-096 - Arctic Cold-Storage Cover and Silent Movement System;
-- TECH-ACT-132 - Long-Rotation Habitation and Main Security Checkpoint System;
+- TECH-ACT-055 — Silent Boundary System;
+- TECH-ACT-096 — Arctic Cold-Storage Cover and Silent Movement System;
+- TECH-ACT-132 — Long-Rotation Habitation and Main Security Checkpoint System;
 - White Grave seasonal transport and surface-cover ledgers [station-restricted].
 
 ---
@@ -194,10 +194,10 @@ the weather help guard the door.
   How much real science is enough to keep a cover alive through decades
   of
   scrutiny?
-- Can a seasonal transport delay become safer than a rushed concealed transition?
-- Should cover personnel be rotated before they learn buried movement rhythms?
-- Does reliance on arctic isolation make the station brittle when the weather changes?
-- How many ordinary logistics excuses can be used before they become a pattern?
+— Can a seasonal transport delay become safer than a rushed concealed transition?
+— Should cover personnel be rotated before they learn buried movement rhythms?
+— Does reliance on arctic isolation make the station brittle when the weather changes?
+— How many ordinary logistics excuses can be used before they become a pattern?
   Is the surface program protecting the buried station, or has the buried station
   become
   dependent on the surface
@@ -207,9 +207,8 @@ the weather help guard the door.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Surface Chief / Station Administration / Central Archive
-**Review Status:** Active surface research cover and seasonal transition technology record; airstrip schedules,
-transition routes, buried rosters, and cover-maintenance records censored
-**Next Review:** After any cover incident, transport-window failure, transition penetration attempt, convoy
-irregularity, publication audit, external communication fault, or weather-forced supply deviation
+**Created:** 2026-09-16 **Author Desk:** Surface Chief / Station Administration / Central Archive **Review Status:**
+Active surface research cover and seasonal transition technology record; airstrip schedules, transition routes, buried
+rosters, and cover-maintenance records censored **Next Review:** After any cover incident, transport-window failure,
+transition penetration attempt, convoy irregularity, publication audit, external communication fault, or
+weather-forced supply deviation

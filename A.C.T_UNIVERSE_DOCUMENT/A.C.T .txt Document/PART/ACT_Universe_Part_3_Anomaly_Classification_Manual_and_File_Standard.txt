@@ -126,8 +126,8 @@ ourselves?
 
 3.2.3 Relationship Between Standard and RCT Formats
 These two formats are not competing systems. They are parallel tools.
-- Standard Format = full archival identity
-- RCT Format = live operational handling body
+— Standard Format = full archival identity
+— RCT Format = live operational handling body
 
 A single anomaly may possess both a Standard file and an RCT file if
 its archival and operational importance justify
@@ -203,16 +203,16 @@ number as a simple sequence mark.
 - ENTITY Historical Band — ENTITY-###, closed historical series. Preserved for First Vault and
 pre-standard records.
 No new ordinary ENTITY files are opened.
-- 000 Foundational Reserve — 000 marks origin-level or foundation-level significance. ITHYOS is the
+— 000 Foundational Reserve — 000 marks origin-level or foundation-level significance. ITHYOS is the
 controlling
 example.
-- LEGACY ACCEPTED Band — 001–120 accepts legacy-era anomalies inside modern UFD/AFD handling. A
+— LEGACY ACCEPTED Band — 001–120 accepts legacy-era anomalies inside modern UFD/AFD handling. A
 legacy anomaly may
 preserve both UFD and AFD files when those files record different intake states.
-- Modern Registry Band — 121–999 is the ordinary modern UFD/AFD anomaly range.
-- ANM Fracture-State Band — ANM-XX-XX-0001 through ANM-XX-XX-9999, with XXXX used for unresolved or
+— Modern Registry Band — 121–999 is the ordinary modern UFD/AFD anomaly range.
+— ANM Fracture-State Band — ANM-XX-XX-0001 through ANM-XX-XX-9999, with XXXX used for unresolved or
 obscured numbers.
-- Obscured / Reserved / Closed Numbers — numbers may be hidden, reserved, or
+— Obscured / Reserved / Closed Numbers — numbers may be hidden, reserved, or
 retired when the number itself is
 classified, structurally important, or historically load-bearing.
 
@@ -229,27 +229,27 @@ contain, or assess them. For these cases, A.C.T maintains the Fracture Index, di
 two categories.
 
 3.4.1 Fracture Index — Containment
-- QUESTIONED = Did we even put it in the box — it's so
+— QUESTIONED = Did we even put it in the box — it's so
 passive you wonder if containment ever happened
-- ABSURD = How the hell is it in the box — it shouldn't
+— ABSURD = How the hell is it in the box — it shouldn't
 fit, shouldn't stay, but somehow it does
-- MUTATED = The box grew legs — containment itself became the anomaly
-- UNAUTHORED = Who wrote this — the documentation is wrong, the procedure is
+— MUTATED = The box grew legs — containment itself became the anomaly
+— UNAUTHORED = Who wrote this — the documentation is wrong, the procedure is
 wrong, something is rewriting the rules
-- SCHRÖDINGER = It's in the box, but not in the box — simultaneously
+— SCHRÖDINGER = It's in the box, but not in the box — simultaneously
 contained and not contained, and observation
 determines which
 
 3.4.2 Fracture Index — Sub-Threat
-- HARMLESS = Did it even hurt anybody — no damage, no effect, no
+— HARMLESS = Did it even hurt anybody — no damage, no effect, no
 consequence to anyone
-- BENEFICIAL = It healed someone — the anomaly actively improves or repairs, not
+— BENEFICIAL = It healed someone — the anomaly actively improves or repairs, not
 harms
-- REVERTED = Somehow it reverted back — the damage undoes itself, as if
+— REVERTED = Somehow it reverted back — the damage undoes itself, as if
 the threat never happened
-- ABSENT = Where's the threat — the danger exists on paper but nowhere
+— ABSENT = Where's the threat — the danger exists on paper but nowhere
 in reality
-- NULLIFIED = It stopped — whatever it was doing, it ceased entirely on
+— NULLIFIED = It stopped — whatever it was doing, it ceased entirely on
 its own
 
 
@@ -261,7 +261,7 @@ Fracture Index:
 - QUESTIONED (QU) / ABSURD (AB) / MUTATED (MU) / UNAUTHORED (UA) / SCHRÖDINGER
 (SC) — used in the Fracture Containment
 Index segment
-- HARMLESS (HM) / BENEFICIAL (BE) / REVERTED (RV) / ABSENT (AS) / NULLIFIED
+— HARMLESS (HM) / BENEFICIAL (BE) / REVERTED (RV) / ABSENT (AS) / NULLIFIED
 (NU) — used in the Fracture Sub-Threat
 Index segment
 
@@ -306,9 +306,9 @@ Direct exposure is restricted to:
 
 3.5.4 Transport Rule
 Movable anomalies must be transported using REALITY STABILIZATION ANCHOR / RSA support.
-- standard anomalies use RSA transport support
-- oversized anomalies use Facility Converted Aircraft
-- unmovable anomalies receive a Facility-built perimeter, enclosure, and support system around the anomaly
+— standard anomalies use RSA transport support
+— oversized anomalies use Facility Converted Aircraft
+— unmovable anomalies receive a Facility-built perimeter, enclosure, and support system around the anomaly
 itself
 
 3.5.5 Containment Structure Category
@@ -431,8 +431,8 @@ An anomaly is considered an unstable asset if:
 - it carries heavy ethical burden
 
 3.8.4 Stabilized vs Repurposed
-- Stabilized = safer, more predictable, lower-threat anomaly state
-- Repurposed = anomaly has been turned into a Facility asset
+— Stabilized = safer, more predictable, lower-threat anomaly state
+— Repurposed = anomaly has been turned into a Facility asset
 
 3.8.5 Inviolable
 Inviolable indicates that attempting to change the anomaly’s structure or nature may itself trigger
@@ -454,19 +454,19 @@ Recognized lifecycle states are:
 - INTEGRATED — the anomaly or a derivative has become part of A.C.T infrastructure,
 procedure, equipment, medicine,
 archive function, or operational capacity.
-- RETIRED — no longer active as an operational problem but retained as controlled
+— RETIRED — no longer active as an operational problem but retained as controlled
 historical record.
-- ARCHIVED — active handling has closed and the file is retained for reference,
+— ARCHIVED — active handling has closed and the file is retained for reference,
 training, law, or possible
 reactivation.
-- NEUTRALIZED — the anomalous effect has ceased, been exhausted, or been rendered nonfunctional.
-- EXPLAINED — resolved as non-anomalous cause, misclassification, hoax, ordinary science, or known non-A.C.T
+— NEUTRALIZED — the anomalous effect has ceased, been exhausted, or been rendered nonfunctional.
+— EXPLAINED — resolved as non-anomalous cause, misclassification, hoax, ordinary science, or known non-A.C.T
 phenomenon.
-- LOST — A.C.T no longer possesses the anomaly, route, source, evidence, or file
+— LOST — A.C.T no longer possesses the anomaly, route, source, evidence, or file
 body needed to claim control.
-- MEMORIALIZED — retained primarily for remembrance of attached personnel, civilians, sites, or historical
+— MEMORIALIZED — retained primarily for remembrance of attached personnel, civilians, sites, or historical
 consequences.
-- PROHIBITED-FROM-TRANSFORMATION — transformation is formally forbidden while other containment or archive handling
+— PROHIBITED-FROM-TRANSFORMATION — transformation is formally forbidden while other containment or archive handling
 may continue.
 
 ============================================================
@@ -486,12 +486,12 @@ Recognized tag families are:
 - COG — memory, compulsion, perception, identity, dream, or cognition hazards.
 - MEM / INFO — memetic, language, symbol, audio, visual, reading, naming, or information
 hazards.
-- TEMP — loops, time loss, pre-echoes, delay, chronology damage, or predictive contamination.
-- SPAT — nonlocal space, thresholds, transit, impossible interiors, distance errors, or spatial instability.
-- STR — Structural Reality fracture, classification failure, containment-logic failure, observation instability, or
+— TEMP — loops, time loss, pre-echoes, delay, chronology damage, or predictive contamination.
+— SPAT — nonlocal space, thresholds, transit, impossible interiors, distance errors, or spatial instability.
+— STR — Structural Reality fracture, classification failure, containment-logic failure, observation instability, or
 archive drift.
-- COS — abyssal, divine, world-scale, foundational, cosmic, or origin-level hazards.
-- SOC / OPR — recruitment, markets, cover risk, GOI interference, handler risk, asset
+— COS — abyssal, divine, world-scale, foundational, cosmic, or origin-level hazards.
+— SOC / OPR — recruitment, markets, cover risk, GOI interference, handler risk, asset
 dependency, or institutional
 exposure.
 

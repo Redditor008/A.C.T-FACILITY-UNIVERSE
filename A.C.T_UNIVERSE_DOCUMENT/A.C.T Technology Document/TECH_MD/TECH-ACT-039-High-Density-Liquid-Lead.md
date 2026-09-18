@@ -214,7 +214,7 @@ Standing reminder: a barrier fluid that has done its job is contaminated by defi
 - ACT Technological Master Index 50, Item 39;
 - ACT Technological Visual Reference Guide, Item 39;
 - Crystal Butterfly, AFD-NB-325;
-- TECH-ACT-033 - Abyssal Masonry;
+- TECH-ACT-033 — Abyssal Masonry;
 - Abyssal Anchor Plating, Item 34;
 - Hazardous Materials spill and saturation ledgers [restricted];
 - Artifact shielding energy-absorption tables [restricted].
@@ -236,8 +236,6 @@ Standing reminder: a barrier fluid that has done its job is contaminated by defi
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Engineering Division / Hazardous Materials Desk / Central Archive  
-**Review Status:** Active hazardous-material record; restricted energy absorption profile censored  
-**Next Review:** After any leak alarm, dust saturation, pipe deformation, spill response, or artifact-shielding
-failure
+**Created:** 2026-09-15 **Author Desk:** Engineering Division / Hazardous Materials Desk / Central Archive **Review
+Status:** Active hazardous-material record; restricted energy absorption profile censored **Next Review:** After any
+leak alarm, dust saturation, pipe deformation, spill response, or artifact-shielding failure

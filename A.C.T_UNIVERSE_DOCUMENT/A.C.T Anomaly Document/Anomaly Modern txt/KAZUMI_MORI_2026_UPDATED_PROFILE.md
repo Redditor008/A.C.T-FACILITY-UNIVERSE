@@ -342,8 +342,8 @@ It is a question asked of anyone attempting to cross it.
 
 ### Governing rule
 
-> Bring respect, receive passage.  
-> Bring hunger, receive hunger.  
+> Bring respect, receive passage.
+> Bring hunger, receive hunger.
 > Bring violence, receive the weight of what violence intended to take.
 
 ### What it reads

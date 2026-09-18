@@ -192,9 +192,9 @@ worker is allowed to be.
 
 - ACT-SITE-03-JP-E-F-7 Personnel and Administrative Level Floor Dossier;
 - ACT-SITE-03-JP-E-F-8 Surface Archive and Transition Level Floor Dossier;
-- TECH-ACT-057 - Anomalous Intake Screening Suites;
-- TECH-ACT-116 - Operational Archive Training and Doctrine Preparation System;
-- TECH-ACT-117 - Public Archive Absolute Separation and Immediate Transfer System;
+- TECH-ACT-057 — Anomalous Intake Screening Suites;
+- TECH-ACT-116 — Operational Archive Training and Doctrine Preparation System;
+- TECH-ACT-117 — Public Archive Absolute Separation and Immediate Transfer System;
 - Kurokawa personnel clearance ledgers [restricted].
 
 ---
@@ -204,21 +204,19 @@ worker is allowed to be.
   How long can public archive staff work near the boundary before curiosity itself
   becomes
   a screening factor?
-- Should operational clearance require loss of certain public-facing duties?
-- Can a denied worker remain trusted in the legitimate foundation complex?
+— Should operational clearance require loss of certain public-facing duties?
+— Can a denied worker remain trusted in the legitimate foundation complex?
   How much of a denial reason may be shown without exposing the existence
   of
   the buried archive?
-- Should repeated supervised transitions count as de facto operational assignment?
-- When does preserving cover require refusing the most qualified document specialist available?
+— Should repeated supervised transitions count as de facto operational assignment?
+— When does preserving cover require refusing the most qualified document specialist available?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Personnel and Clearance Office / Node Administration / Central Archive
+**Created:** 2026-09-16 **Author Desk:** Personnel and Clearance Office / Node Administration / Central Archive
 **Review Status:** Active personnel-boundary technology record; individual clearance identities, denial reasons,
-transition endpoints, and override records censored
-**Next Review:** After any clearance drift, public-role overreach, transition incident, escort failure, denial
-reversal, operational slang exposure, or access-core boundary event
+transition endpoints, and override records censored **Next Review:** After any clearance drift, public-role overreach,
+transition incident, escort failure, denial reversal, operational slang exposure, or access-core boundary event

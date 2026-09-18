@@ -215,8 +215,8 @@ reach you.
 - ACT Technological Master Index 50, Item 35;
 - ACT Technological Visual Reference Guide, Item 35;
 - Terra's Pulse, Goddess of Instinctual Love, AFD-SU-952;
-- TECH-ACT-009 - Chrono-Stuttered Visors;
-- TECH-ACT-031 - Adrenaline Micro-Surge Detectors;
+- TECH-ACT-009 — Chrono-Stuttered Visors;
+- TECH-ACT-031 — Adrenaline Micro-Surge Detectors;
 - Observation Safety visual-filter ledger [restricted];
 - Desynchronized subject handling rules [restricted].
 
@@ -227,10 +227,10 @@ reach you.
   Can a subject learn the offset rhythm of PSCG and force gaze contact
   through
   it?
-- Should all PSCG panels default to opacity after power loss?
-- How much visual degradation is humane during long-term Subject Care monitoring?
-- Can phase-shifted glass preserve privacy better than cameras in cooperative suites?
-- Does repeated viewing through PSCG change observer perception outside the suite?
+— Should all PSCG panels default to opacity after power loss?
+— How much visual degradation is humane during long-term Subject Care monitoring?
+— Can phase-shifted glass preserve privacy better than cameras in cooperative suites?
+— Does repeated viewing through PSCG change observer perception outside the suite?
   Can PSCG be safely used for subjects that are not only phased but
   temporally
   delayed?
@@ -239,8 +239,6 @@ reach you.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Engineering Division / Observation Safety Desk / Central Archive  
-**Review Status:** Active observation-safety record; phase medium and desynchronization settings censored  
-**Next Review:** After any visual breach, phase-slider drift, opacity failure, or combined PPE calibration
-conflict
+**Created:** 2026-09-15 **Author Desk:** Engineering Division / Observation Safety Desk / Central Archive **Review
+Status:** Active observation-safety record; phase medium and desynchronization settings censored **Next Review:**
+After any visual breach, phase-slider drift, opacity failure, or combined PPE calibration conflict

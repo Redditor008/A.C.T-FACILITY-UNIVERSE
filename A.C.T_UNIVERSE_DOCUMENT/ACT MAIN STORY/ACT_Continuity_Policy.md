@@ -368,12 +368,12 @@ Only after those checks should a contradiction be preserved as intentional canon
   `SP` is a valid field type code for Space anomalies and should be
   included
   where field type lists are maintained.
-- `[ BLANK ]` with spaces is a redaction marker.
-- `[BLANK]` without spaces is a containment class.
-- Floor designations run from F-1 upward to surface level.
-- The ABYSS is not just another numbered floor.
-- GOI expansion remains gated by Central Archive registry order.
-- Crossover stories are preserved but not default core canon.
+— `[ BLANK ]` with spaces is a redaction marker.
+— `[BLANK]` without spaces is a containment class.
+— Floor designations run from F-1 upward to surface level.
+— The ABYSS is not just another numbered floor.
+— GOI expansion remains gated by Central Archive registry order.
+— Crossover stories are preserved but not default core canon.
   Research files can recommend future doctrine, but canon changes must be implemented in
   canon
   files.

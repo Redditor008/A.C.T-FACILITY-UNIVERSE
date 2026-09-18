@@ -207,8 +207,8 @@ remember.
 - ACT Technological Visual Reference Guide, Item 46;
 - NEMNOLIA 004-Series Amnestic Archive;
 - The Forgetting Bloom Archive Dossier, UFD-NB-004 / AFD-NB-004;
-- TECH-ACT-004 - 004-Series Amnestic Compound System;
-- TECH-ACT-028 - Neural Lacing Type 004-MOD;
+- TECH-ACT-004 — 004-Series Amnestic Compound System;
+- TECH-ACT-028 — Neural Lacing Type 004-MOD;
 - Normalcy Management and Public Narrative Doctrine;
 - Amnestic Administration and Memory Aftercare Review Form.
 
@@ -230,9 +230,7 @@ remember.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Medical Division / Transformation Division / Central Archive  
-**Review Status:** Active anomaly-derived material record; sap processing and stabilizer chemistry censored  
-**Next Review:** After any cap failure, residue event, concentration drift, adverse memory effect, or
-004-Series grade
+**Created:** 2026-09-15 **Author Desk:** Medical Division / Transformation Division / Central Archive **Review
+Status:** Active anomaly-derived material record; sap processing and stabilizer chemistry censored **Next Review:**
+After any cap failure, residue event, concentration drift, adverse memory effect, or 004-Series grade
 revision

@@ -53,26 +53,23 @@ KEEPS RECORDS. FIND THE RECORDS.
 
 The ledger system performs four functions that A.C.T has confirmed from recovered material:
 
-  **Failure intake.** A caregiver reports a fault. The recovered warranty fragment shows the
-  manufacturer
-  acknowledging
-  a specific injury — **We are sorry the bear bit the wrong hand** —
-  instructing that the injured caregiver's statement
-  be wrapped in plain paper, stating **Do not punish the child for teaching it
-  fear**, and approving replacement after
-  review.
-  **Recall issuance.** Recall lists exist and name product lots. A.C.T has recovered lists
-  naming
-  lots it has never
-  encountered in the field, which means the recall system reaches products outside A.C.T visibility.
-  **Failure quarantine.** Failed units are sealed in crates marked **DO NOT RETURN TO
-  CHILD**.
-  The marking confirms that
-  the manufacturer distinguishes a repairable unit from a unit that must never go back
-  into a child's hands.
-  **Evidence retention.** Ledgers store child drawings and caregiver notes. The manufacturer is collecting
-  witness
-  material as a matter of routine, not as an incident response.
+**Failure intake.** A caregiver reports a fault. The recovered warranty fragment shows the manufacturer
+acknowledging
+a specific injury — **We are sorry the bear bit the wrong hand** —
+instructing that the injured caregiver's statement
+be wrapped in plain paper, stating **Do not punish the child for teaching it
+fear**, and approving replacement after
+review. **Recall issuance.** Recall lists exist and name product lots. A.C.T has recovered lists
+naming lots it has
+never encountered in the field, which means the recall system reaches products outside A.C.T
+visibility. **Failure
+quarantine.** Failed units are sealed in crates marked **DO NOT RETURN TO CHILD**. The
+marking confirms that the
+manufacturer distinguishes a repairable unit from a unit that must never go back into
+a child's hands. **Evidence
+retention.** Ledgers store child drawings and caregiver notes. The manufacturer is collecting witness material
+as a
+matter of routine, not as an incident response.
 
 The system does not detect anomalies and does not protect anyone directly. Its effect
 on the range is indirect and
@@ -110,13 +107,13 @@ The system is documentary and logistical rather than mechanical. Its recovered c
   **a blue card** bearing a telephone number, recovered from shelter staff during the
   nightlight
   incident;
-- **warranty ledger pages** storing child drawings and caregiver notes;
-- **recall lists** naming product lots, some unknown to A.C.T;
+— **warranty ledger pages** storing child drawings and caregiver notes;
+— **recall lists** naming product lots, some unknown to A.C.T;
   **product catalogues with missing pages**, where the removed pages are presumed to describe
   items
   A.C.T has not
   recovered;
-- **sealed failure crates** marked **DO NOT RETURN TO CHILD**;
+— **sealed failure crates** marked **DO NOT RETURN TO CHILD**;
   **caregiver instruction cards** written to be understood by a frightened adult, shared across
   the
   whole product range;
@@ -141,26 +138,21 @@ why A.C.T treats it as a recoverable target rather than as a rumour.
 
 Standing rules for ledger material:
 
-  catalogue every fragment on recovery, including envelope, handwriting, and paper stock, before content
-  analysis;
-  do not attempt contact through any recovered number or return address without Command-level
-  exception;
-  do not return a failed unit to a family, and do not place
-  a
-  unit from a failure crate into any A.C.T holding area used
-  for service items;
-  reconcile every recovered recall list against A.C.T lot knowledge and file the gaps,
-  because
-  a lot A.C.T has never
-  seen is a product line A.C.T has never assessed;
-  treat catalogue pages that are missing as evidence of an unassessed product, not
-  as
-  damage;
-  do not disclose ledger material, recall status, or failure history to a family.
-  A
-  parent who learns that a protective
-  item has a failure record may remove it, and removal is the outcome Subject
-  Care most needs to avoid.
+catalogue every fragment on recovery, including envelope, handwriting, and paper stock, before content analysis;
+do
+not attempt contact through any recovered number or return address without Command-level exception; do
+not return a
+failed unit to a family, and do not place a unit from a failure
+crate into any A.C.T holding area used for service
+items; reconcile every recovered recall list against A.C.T lot knowledge and file the gaps,
+because a lot A.C.T has
+never seen is a product line A.C.T has never assessed; treat catalogue pages that
+are missing as evidence of an
+unassessed product, not as damage; do not disclose ledger material, recall status, or failure
+history to a family. A
+parent who learns that a protective item has a failure record may remove it,
+and removal is the outcome Subject Care
+most needs to avoid.
 
 Field personnel who recover a warranty card log it and pass it to Intelligence.
 They do not call the number.
@@ -270,11 +262,11 @@ entry sits in the GOI series because there was nowhere else to put it.
   Is the blue card number a live operator, a recording, or a route
   to
   somewhere else?
-- Why does the ledger store child drawings, and what is done with them?
+— Why does the ledger store child drawings, and what is done with them?
   Does the warranty cover exhaustion, as with the music box, or only physical
   failure?
-- Can A.C.T reach the manufacturer at all without disclosing itself?
-- Are the recall lists issued to protect children, to retrieve product, or both?
+— Can A.C.T reach the manufacturer at all without disclosing itself?
+— Are the recall lists issued to protect children, to retrieve product, or both?
 
 ---
 

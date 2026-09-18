@@ -145,7 +145,7 @@ The Board must ask:
 - Can refusal be meaningful inside containment?
   Will the proposed asset require ongoing pain, fear, memory loss, obedience, or personality
   reduction?
-- Is A.C.T repeating the harm that created the anomaly?
+— Is A.C.T repeating the harm that created the anomaly?
   Is the subject being called an asset because that word hurts less than
   victim?
 
@@ -183,17 +183,17 @@ authorization.
 
 Recommended initial asset type codes:
 
-- **AMN** - amnestic or memory-treatment output;
-- **MED** - medical or stabilization output;
-- **WPN** - weapon or suppression tool;
-- **SEN** - sensor, detector, or warning system;
-- **CON** - containment mechanism;
-- **ARC** - archive or record-control system;
-- **TRA** - transportation or access tool;
-- **COM** - communications tool;
-- **BIO** - biological derivative;
-- **RIT** - ritualized or cultural containment method;
-- **UNK** - unresolved asset class.
+- **AMN** — amnestic or memory-treatment output;
+- **MED** — medical or stabilization output;
+- **WPN** — weapon or suppression tool;
+- **SEN** — sensor, detector, or warning system;
+- **CON** — containment mechanism;
+- **ARC** — archive or record-control system;
+- **TRA** — transportation or access tool;
+- **COM** — communications tool;
+- **BIO** — biological derivative;
+- **RIT** — ritualized or cultural containment method;
+- **UNK** — unresolved asset class.
 
 New codes require Archive approval so the register does not become a private dialect
 for one division.
@@ -287,9 +287,9 @@ The Board may not approve:
 - weaponization of survivor trauma;
   asset production from childlike subjects without O5 emergency seal and Subject Care dissent
   record;
-- field use without maintenance and recall conditions;
-- secrecy arguments that hide internal harm from the archive;
-- repeating an enemy GOI's abuse under A.C.T vocabulary.
+— field use without maintenance and recall conditions;
+— secrecy arguments that hide internal harm from the archive;
+— repeating an enemy GOI's abuse under A.C.T vocabulary.
 
 ---
 

@@ -109,9 +109,8 @@ The Standard Format includes:
 
 The Standard Format answers the question:
 
-  **What is this anomaly, how dangerous is it, how is it contained, and
-  what
-  is its place in A.C.T archive logic?**
+**What is this anomaly, how dangerous is it, how is it contained, and what
+is its place in A.C.T archive logic?**
 
 #### 3.2.2 `ACT_Anomaly_RCT_Format.md`
 The **RCT Format** is a specialized anomaly record focused on three operational axes:
@@ -126,10 +125,9 @@ operational subject under continuing containment strain, live research pressure,
 
 The RCT Format answers the question:
 
-  **How are we holding it, what are we learning from it, and can
-  it
-  be changed into something useful without destroying
-  ourselves?**
+**How are we holding it, what are we learning from it, and can it
+be changed into something useful without destroying
+ourselves?**
 
 #### 3.2.3 Relationship Between Standard and RCT Formats
 These two formats are not competing systems. They are parallel tools.
@@ -216,7 +214,7 @@ number as a simple sequence mark.
   legacy
   anomaly may
   preserve both UFD and AFD files when those files record different intake states.
-- **Modern Registry Band** — `121–999` is the ordinary modern UFD/AFD anomaly range.
+— **Modern Registry Band** — `121–999` is the ordinary modern UFD/AFD anomaly range.
   **ANM Fracture-State Band** — `ANM-XX-XX-0001` through `ANM-XX-XX-9999`, with `XXXX` used for unresolved or
   obscured
   numbers.
@@ -244,7 +242,7 @@ two categories.
   **ABSURD** — *How the hell is it in the box — it shouldn't
   fit,
   shouldn't stay, but somehow it does*
-- **MUTATED** — *The box grew legs — containment itself became the anomaly*
+— **MUTATED** — *The box grew legs — containment itself became the anomaly*
   **UNAUTHORED** — *Who wrote this — the documentation is wrong, the procedure is
   wrong,
   something is rewriting the
@@ -255,20 +253,14 @@ two categories.
   determines which*
 
 #### 3.4.2 Fracture Index — Sub-Threat
-  **HARMLESS** — *Did it even hurt anybody — no damage, no effect, no
-  consequence
-  to anyone*
-  **BENEFICIAL** — *It healed someone — the anomaly actively improves or repairs, not
-  harms*
-  **REVERTED** — *Somehow it reverted back — the damage undoes itself, as if
-  the
-  threat never happened*
-  **ABSENT** — *Where's the threat — the danger exists on paper but nowhere
-  in
-  reality*
-  **NULLIFIED** — *It stopped — whatever it was doing, it ceased entirely on
-  its
-  own*
+**HARMLESS** — *Did it even hurt anybody — no damage, no effect, no consequence
+to anyone* **BENEFICIAL** — *It healed
+someone — the anomaly actively improves or repairs, not harms* **REVERTED** — *Somehow it
+reverted back — the damage
+undoes itself, as if the threat never happened* **ABSENT** — *Where's the threat —
+the danger exists on paper but
+nowhere in reality* **NULLIFIED** — *It stopped — whatever it was doing, it ceased
+entirely on its own*
 
 
 #### Official Fracture Index Codes
@@ -276,14 +268,11 @@ When a fracture-sensitive designation is written in `ANM-XX-XX-####` form, the t
 the
 Fracture Index:
 
-  **QUESTIONED** (`QU`) / **ABSURD** (`AB`) / **MUTATED** (`MU`) / **UNAUTHORED** (`UA`) / **SCHRÖDINGER**
-  (`SC`)
-  — used
-  in the **Fracture Containment Index** segment
-  **HARMLESS** (`HM`) / **BENEFICIAL** (`BE`) / **REVERTED** (`RV`) / **ABSENT** (`AS`) / **NULLIFIED**
-  (`NU`)
-  — used in
-  the **Fracture Sub-Threat Index** segment
+**QUESTIONED** (`QU`) / **ABSURD** (`AB`) / **MUTATED** (`MU`) / **UNAUTHORED** (`UA`) / **SCHRÖDINGER** (`SC`)
+— used
+in the **Fracture Containment Index** segment **HARMLESS** (`HM`) / **BENEFICIAL** (`BE`) / **REVERTED** (`RV`)
+/
+**ABSENT** (`AS`) / **NULLIFIED** (`NU`) — used in the **Fracture Sub-Threat Index** segment
 
 Under this rule, a designation such as `ANM-AB-HM-0002` is read as **ABSURD** containment, **HARMLESS**
 sub-threat,
@@ -335,47 +324,30 @@ Movable anomalies must be transported using **REALITY STABILIZATION ANCHOR / RSA
 #### 3.5.5 Containment Structure Category
 Recognized structure categories include:
 
-  **Small Box** — used for compact anomalous objects, devices, samples, or low-volume materials
-  requiring
-  minimal secure
-  enclosed storage
-  **Medium Box** — used for larger objects or manageable contained anomalies needing modest
-  chamber
-  space
-  **Large Box** — used for significant objects, active subjects, or anomalies requiring broad
-  enclosure
-  room
-  **Massive Box** — used for oversized entities, large-scale hazards, or high-volume enclosures requiring
-  heavy
-  structural containment
-  **Enclosure Box** — used when the anomaly requires a perimeter or territory-style enclosure
-  rather
-  than a simple
-  chamber
-  **Box-cass** — used when the anomaly is already effectively a box, shell, vessel,
-  or
-  self-contained container-state
-  object
-  **Monitoring Field** — used when the anomaly is best controlled through a monitored
-  field,
-  exclusion area, perimeter,
-  or indirect watch-zone instead of a hard chamber
-  **Blind Box** — used when direct observation is dangerous and the anomaly must
-  be
-  enclosed under visual-denial or
-  sensory-restricted conditions
-  **Eye Box** — used when active or continuous observation is itself part of
-  containment
-  and the anomaly must remain
-  visible under controlled conditions
-  **Non-Box** — used when the anomaly cannot be described by ordinary enclosure logic
-  but
-  may still be managed through
-  procedure
-  **Unclose** — used when the anomaly is too vast, too distributed, too abstract,
-  or
-  too structurally broad to enclose
-  meaningfully at all
+**Small Box** — used for compact anomalous objects, devices, samples, or low-volume materials requiring
+minimal secure
+enclosed storage **Medium Box** — used for larger objects or manageable contained anomalies needing
+modest chamber
+space **Large Box** — used for significant objects, active subjects, or anomalies requiring broad
+enclosure room
+**Massive Box** — used for oversized entities, large-scale hazards, or high-volume enclosures requiring heavy
+structural containment **Enclosure Box** — used when the anomaly requires a perimeter or territory-style
+enclosure
+rather than a simple chamber **Box-cass** — used when the anomaly is already effectively
+a box, shell, vessel, or
+self-contained container-state object **Monitoring Field** — used when the anomaly is best controlled through
+a
+monitored field, exclusion area, perimeter, or indirect watch-zone instead of a hard chamber **Blind
+Box** — used when
+direct observation is dangerous and the anomaly must be enclosed under visual-denial or sensory-restricted
+conditions
+**Eye Box** — used when active or continuous observation is itself part of containment
+and the anomaly must remain
+visible under controlled conditions **Non-Box** — used when the anomaly cannot be described by
+ordinary enclosure
+logic but may still be managed through procedure **Unclose** — used when the anomaly
+is too vast, too distributed, too
+abstract, or too structurally broad to enclose meaningfully at all
 
 These categories matter because in A.C.T, containment is not only about difficulty. It is
 also about what kind of
@@ -520,13 +492,13 @@ Recognized lifecycle states are:
   training,
   law, or possible
   reactivation.
-- **NEUTRALIZED** — the anomalous effect has ceased, been exhausted, or been rendered nonfunctional.
-- **EXPLAINED** — resolved as non-anomalous cause, misclassification, hoax, ordinary science, or known non-A.C.T
+— **NEUTRALIZED** — the anomalous effect has ceased, been exhausted, or been rendered nonfunctional.
+— **EXPLAINED** — resolved as non-anomalous cause, misclassification, hoax, ordinary science, or known non-A.C.T
   phenomenon.
   **LOST** — A.C.T no longer possesses the anomaly, route, source, evidence, or file
   body
   needed to claim control.
-- **MEMORIALIZED** — retained primarily for remembrance of attached personnel, civilians, sites, or historical
+— **MEMORIALIZED** — retained primarily for remembrance of attached personnel, civilians, sites, or historical
   consequences.
   **PROHIBITED-FROM-TRANSFORMATION** — transformation is formally forbidden while other containment or archive
   handling
@@ -549,12 +521,12 @@ Recognized tag families are:
 - **COG** — memory, compulsion, perception, identity, dream, or cognition hazards.
   **MEM / INFO** — memetic, language, symbol, audio, visual, reading, naming, or information
   hazards.
-- **TEMP** — loops, time loss, pre-echoes, delay, chronology damage, or predictive contamination.
-- **SPAT** — nonlocal space, thresholds, transit, impossible interiors, distance errors, or spatial instability.
+— **TEMP** — loops, time loss, pre-echoes, delay, chronology damage, or predictive contamination.
+— **SPAT** — nonlocal space, thresholds, transit, impossible interiors, distance errors, or spatial instability.
   **STR** — Structural Reality fracture, classification failure, containment-logic failure, observation instability,
   or
   archive drift.
-- **COS** — abyssal, divine, world-scale, foundational, cosmic, or origin-level hazards.
+— **COS** — abyssal, divine, world-scale, foundational, cosmic, or origin-level hazards.
   **SOC / OPR** — recruitment, markets, cover risk, GOI interference, handler risk, asset
   dependency,
   or institutional
@@ -574,7 +546,7 @@ Authorized suppression and redaction markers include:
 - `[MEMETIC FILTER APPLIED]`
 - `[STRUCTURAL DATA OMITTED]`
 - `[ABYSS ACCESS ONLY]`
-- `[ O5 - ONLY ]`
+- `[ O5 — ONLY ]`
 - `[O5-RESTRICTED]`
 - `[ Level 4-5 Lock ]`
 - `[ Specialize Only ]`

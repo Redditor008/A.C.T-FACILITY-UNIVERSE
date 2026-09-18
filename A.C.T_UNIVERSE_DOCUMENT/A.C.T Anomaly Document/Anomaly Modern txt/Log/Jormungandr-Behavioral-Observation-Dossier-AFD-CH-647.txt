@@ -2,7 +2,7 @@ A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
 Jormungandr-Behavioral-Observation-Dossier-AFD-CH-647
 
 ═══════════════════════════════════════════════════════════════════════
-           A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER           
+           A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
                      Anomaly Containment Transformation
 ═══════════════════════════════════════════════════════════════════════
 
@@ -23,7 +23,7 @@ ARCHIVE STATUS:      Active / Behavioral monitoring under standing review
 DOSSIER STATUS:      Open — observation cadence maintained
 
 ═══════════════════════════════════════════════════════════════════════
-                           CATEGORY CONTENTS                           
+                           CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
 This dossier belongs to A.C.T Log Category VIII — Behavioral & Observation
@@ -48,7 +48,7 @@ To track the subject's behavioral baseline so that deviation — early,
 dangerous, or otherwise — can be recognized the moment it begins.
 
 ═══════════════════════════════════════════════════════════════════════
-        SECTION 001 — FEEDING-CYCLE AND PRESSURE-REGULATION LOG        
+        SECTION 001 — FEEDING-CYCLE AND PRESSURE-REGULATION LOG
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-647/OBS-001
@@ -73,7 +73,7 @@ STANDING OBSERVATION:
    - Movement correlates with volcanic pressure waves
    - Required watch: 2 seismic analysts, 1 heat-resonance linguist,
      1 volcanic systems engineer, 1 remote security officer
-   - Cadence: continuous seismic and thermal monitoring / weekly resonance
+   — Cadence: continuous seismic and thermal monitoring / weekly resonance
      check-in / monthly rim-station inspection / annual exclusion-zone audit
 
 OBSERVER NOTE: If lower-chamber thermal flow is not confirmed, the subject's
@@ -81,7 +81,7 @@ silence is not peace. In this case, quiet may mean the serpent has stopped
 feeding.
 
 ═══════════════════════════════════════════════════════════════════════
-           SECTION 002 — TEMPERAMENT AND COOPERATION REVIEW            
+           SECTION 002 — TEMPERAMENT AND COOPERATION REVIEW
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-647/OBS-002
@@ -101,9 +101,9 @@ REVIEW FINDINGS:
    - No unprovoked aggression observed since detection
    - Cooperation is conditional on feeding stability and absence of
      provocation — it is not consent for exploitation
-   - Not approved for transformation, repurposing, weaponization, thermal
+   — Not approved for transformation, repurposing, weaponization, thermal
      energy harvesting, scale extraction, or serpent-class dominance testing
-   - The subject's dignity is a containment requirement: it responds poorly to
+   — The subject's dignity is a containment requirement: it responds poorly to
      worshipful titles and worse to military asset language
 
 OBSERVER NOTE: The subject is dangerous by scale and environment, not by
@@ -111,7 +111,7 @@ default temperament. Those two facts must be held together. Neither justifies
 treating it as a weapon, and neither justifies treating it as a pet.
 
 ═══════════════════════════════════════════════════════════════════════
-             SECTION 003 — AVERSION AND PROVOCATION WATCH              
+             SECTION 003 — AVERSION AND PROVOCATION WATCH
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-647/OBS-003
@@ -138,7 +138,7 @@ ITHYOS influence exposure would produce submission behavior in AFD-CH-647,
 distress, or a more severe response.
 
 ═══════════════════════════════════════════════════════════════════════
-       SECTION 004 — SILENCE PROTOCOL — WHEN QUIET MEANS TROUBLE       
+       SECTION 004 — SILENCE PROTOCOL — WHEN QUIET MEANS TROUBLE
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-647/OBS-004
@@ -163,7 +163,7 @@ ACTION ON QUIET:
    - Do not introduce emergency feed unless availability is confirmed low
 
 ═══════════════════════════════════════════════════════════════════════
-              SECTION 005 — CLOSING OBSERVATION STATEMENT              
+              SECTION 005 — CLOSING OBSERVATION STATEMENT
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-CH-647/OBS-CLS-001

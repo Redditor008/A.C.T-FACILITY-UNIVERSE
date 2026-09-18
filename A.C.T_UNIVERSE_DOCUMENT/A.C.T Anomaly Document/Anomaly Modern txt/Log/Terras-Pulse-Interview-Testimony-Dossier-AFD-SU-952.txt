@@ -14,7 +14,7 @@ FIELD TYPE:          SU — Subject
 PRIMARY FILE:        Terras-Pulse-Goddess-Terra-AFD-SU-952
 
 DOCUMENT CATEGORY:   CATEGORY II — Interview & Testimony Dossier
-CATEGORY FUNCTION:   Linguistic decryption, historical lineage 
+CATEGORY FUNCTION:   Linguistic decryption, historical lineage
                      correlation, and secondary beneficial-effect logging.
 
 CLEARANCE REQUIRED:  Level 4 / O5-Restricted
@@ -27,9 +27,9 @@ DOSSIER STATUS:      Open / Causal Resonance Analysis Logged
                          CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
-This dossier contains the first successful translation of AFD-SU-952’s 
-vocalizations. Following a 10-month linguistic audit of her "Rhythmic 
-Dialect," the Narrative Hazard Desk has deciphered her primary 
+This dossier contains the first successful translation of AFD-SU-952’s
+vocalizations. Following a 10-month linguistic audit of her "Rhythmic
+Dialect," the Narrative Hazard Desk has deciphered her primary
 declaration and the subsequent "Gratitude Event."
 
 INCLUDED LOG TYPES:
@@ -48,9 +48,9 @@ DATE:                2025-01-01
 INTERVIEWER:         Linguistic Analyst Naoko Shimizu
 SUBJECT:             AFD-SU-952 (Terra)
 
-[CONTEXT: After nearly a year of analyzing her speech, which was 
-originally categorized as pre-Greek [ REDACTED ] dialect, the 
-translation was completed on New Year’s Day. The subject spoke while 
+[CONTEXT: After nearly a year of analyzing her speech, which was
+originally categorized as pre-Greek [ REDACTED ] dialect, the
+translation was completed on New Year’s Day. The subject spoke while
 staring directly at the female staff through the observation pane.]
 
 [TRANSLATION BEGINS]
@@ -80,27 +80,27 @@ staring directly at the female staff through the observation pane.]
 LOG ID:              AFD-SU-952/BEN-2025
 LOG TYPE:            Anomalous Health & Productivity Audit
 
-Following the 2025-01-01 declaration, a global A.C.T biological anomaly 
+Following the 2025-01-01 declaration, a global A.C.T biological anomaly
 was recorded, originating from the "Resonance" of Site-04.
 
-1. MATERNAL STABILITY: 
-   During the 2025-2026 cycle, every A.C.T employee (and verified 
-   spouse) who underwent a pregnancy recorded a 100% success rate. 
-   Fatalities during delivery—both maternal and infant—dropped to zero 
-   across the entire Site Network. 
+1. MATERNAL STABILITY:
+   During the 2025-2026 cycle, every A.C.T employee (and verified
+   spouse) who underwent a pregnancy recorded a 100% success rate.
+   Fatalities during delivery—both maternal and infant—dropped to zero
+   across the entire Site Network.
 
-2. POST-PARTUM OPTIMIZATION: 
-   Individuals who gave birth during this period demonstrated a 
-   sustained 120% increase in cognitive and physical production. 
-   Recovery times were reduced by 40%, and staff reported an 
+2. POST-PARTUM OPTIMIZATION:
+   Individuals who gave birth during this period demonstrated a
+   sustained 120% increase in cognitive and physical production.
+   Recovery times were reduced by 40%, and staff reported an
    unprecedented sense of "Biological Vitality."
 
 RESEARCHER NOTE:
-We have discovered that our recruitment methods over the last century 
-(specifically the focus on "Resilient Lineages") have unknowingly 
-brought the biological descendants of Terra’s original worshippers into 
-the Facility. She is not reacting to us as "Scientists," but as the 
-"Keepers of her Tribe." 
+We have discovered that our recruitment methods over the last century
+(specifically the focus on "Resilient Lineages") have unknowingly
+brought the biological descendants of Terra’s original worshippers into
+the Facility. She is not reacting to us as "Scientists," but as the
+"Keepers of her Tribe."
 
 ═══════════════════════════════════════════════════════════════════════
                  SECTION 003 — ARCHIVIST'S ANALYSIS
@@ -109,14 +109,14 @@ the Facility. She is not reacting to us as "Scientists," but as the
 LOG ID:              AFD-SU-952/THORNE-01
 AUTHOR:              Aris Thorne (SR-412)
 
-"The subject's 'Gratitude' is a form of passive, site-wide mending. 
-She is using her own 'Pulse' to stabilize the biology of those she 
-recognizes as her own. 
+"The subject's 'Gratitude' is a form of passive, site-wide mending.
+She is using her own 'Pulse' to stabilize the biology of those she
+recognizes as her own.
 
-This is the first time since the **Paper Flower** that an anomaly has 
-responded to the Facility with a gift of life rather than a 
-leakage of death. We must protect this bond. If she realizes we are 
-merely a 'Facility' and not her 'Temple,' the gratitude may turn 
+This is the first time since the **Paper Flower** that an anomaly has
+responded to the Facility with a gift of life rather than a
+leakage of death. We must protect this bond. If she realizes we are
+merely a 'Facility' and not her 'Temple,' the gratitude may turn
 to a very different kind of pulse."
 
 ═══════════════════════════════════════════════════════════════════════
@@ -124,9 +124,9 @@ to a very different kind of pulse."
 ═══════════════════════════════════════════════════════════════════════
 
 MANDATORY PERSONNEL NOTICE:
-                     Do not inform the subject of her 
-                     classification status. 
-                     Maintain the 'Temple' protocols 
+                     Do not inform the subject of her
+                     classification status.
+                     Maintain the 'Temple' protocols
                      within Site-04.
 
 CURRENT DOSSIER STATUS: Open / Vitality Wave Monitoring Active

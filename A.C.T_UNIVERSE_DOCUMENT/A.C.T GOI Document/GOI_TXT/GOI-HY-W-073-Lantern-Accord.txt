@@ -184,13 +184,13 @@ A.C.T identifies these functional layers:
 - Signatory Seats who hold recognition within the Accord and speak for member institutions;
 - Lantern Marshals who physically mark safe lines, triage zones, handover rooms, and crossing
 limits;
-- Accord Clerks who write terms, violations, witness signatures, and unresolved custody claims;
-- Safe-Line Arbiters who decide whether seizure, recruitment, sale, or force violates the line;
-- Beacon Keepers who maintain lamps, codes, colored shutters, and relay timing;
-- Neutral Key Holders who open handover rooms and depots usable by hostile or
+— Accord Clerks who write terms, violations, witness signatures, and unresolved custody claims;
+— Safe-Line Arbiters who decide whether seizure, recruitment, sale, or force violates the line;
+— Beacon Keepers who maintain lamps, codes, colored shutters, and relay timing;
+— Neutral Key Holders who open handover rooms and depots usable by hostile or
 rival groups under escort;
-- Corridor Guards who protect civilians and staff without advancing one signatory's claim;
-- Violation Witnesses who preserve evidence when the line is broken.
+— Corridor Guards who protect civilians and staff without advancing one signatory's claim;
+— Violation Witnesses who preserve evidence when the line is broken.
 
 The structure is thin but durable. The Accord does not need a city of
 its own. It needs enough recognized procedure
@@ -520,9 +520,9 @@ Confirmed Operational Facts
 - It establishes temporary safe lines and handover rules during multi-actor abnormal crises.
 - It has cooperated with A.C.T in evacuations, medical transfer, breach deconfliction, and hostile-seizure
 prevention.
-- It has also limited A.C.T unilateral action and protected signatories from immediate custody.
-- Its beacons, seals, keys, warrants, maps, and ledgers may have active anomalous relevance.
-- Iron Meridian Authority has attempted to exploit or enter Accord structures.
+— It has also limited A.C.T unilateral action and protected signatories from immediate custody.
+— Its beacons, seals, keys, warrants, maps, and ledgers may have active anomalous relevance.
+— Iron Meridian Authority has attempted to exploit or enter Accord structures.
 
 Active Intelligence Assessment
 ------------------------------
@@ -548,15 +548,15 @@ Persistent Questions
 
 - Does the First Lantern Table exist as a physical room, founding meeting, or
 activation threshold?
-- Which Signatory Seats are recognized, suspended, disputed, or counterfeit?
-- Are lantern beacons anomalous, or do they combine mundane light discipline with prearranged
+— Which Signatory Seats are recognized, suspended, disputed, or counterfeit?
+— Are lantern beacons anomalous, or do they combine mundane light discipline with prearranged
 code?
-- Why do some hostile actors hesitate before crossing yellow-line warrants?
-- Can violation ledgers resist memory alteration, or are they copied through human redundancy?
-- Has A.C.T ever been marked as a line breaker in records not yet
+— Why do some hostile actors hesitate before crossing yellow-line warrants?
+— Can violation ledgers resist memory alteration, or are they copied through human redundancy?
+— Has A.C.T ever been marked as a line breaker in records not yet
 recovered?
-- How often does the Accord shield offenders after a crisis ends?
-- Can Iron Meridian counterfeit a lantern line convincingly enough to redirect civilians into
+— How often does the Accord shield offenders after a crisis ends?
+— Can Iron Meridian counterfeit a lantern line convincingly enough to redirect civilians into
 custody?
 
 Intelligence Confidence

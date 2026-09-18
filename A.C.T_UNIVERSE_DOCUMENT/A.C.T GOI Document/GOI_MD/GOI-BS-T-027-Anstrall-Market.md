@@ -219,29 +219,21 @@ While no single Market transaction can be assumed to follow a fixed sequence, In
 Division recognizes a
 recurring cycle:
 
-   **Introduction:** a seller, finder, or intermediary signals that an anomalous object may be
-   available.
-   **Claim Control:** a broker narrows the description, withholds verification detail, and manages the
-   risk
-   that the
-   object is fraudulent, unsafe, or already sought by another actor.
-   **Valuation:** the Market estimates commercial worth through rarity, perceived utility, danger, transport
-   difficulty,
-   buyer demand, and secrecy cost.
-   **Access Management:** potential buyers receive partial evidence, indirect observation, or limited proof that
-   protects
-   the item and the seller from premature seizure.
-   **Handling and Transit:** a custodian moves or retains the object under improvised rules
-   until
-   a payment condition is
-   met.
-   **Exchange:** payment, leverage, or another agreed value is transferred while contact between source,
-   broker,
-   handler,
-   and buyer remains fragmented.
-   **Dispersal:** participants separate, records are reduced or rerouted, and the object's next destination
-   becomes
-   harder to reconstruct.
+**Introduction:** a seller, finder, or intermediary signals that an anomalous object may be available.
+**Claim
+Control:** a broker narrows the description, withholds verification detail, and manages the risk that
+the object is
+fraudulent, unsafe, or already sought by another actor. **Valuation:** the Market estimates commercial worth
+through
+rarity, perceived utility, danger, transport difficulty, buyer demand, and secrecy cost. **Access Management:**
+potential buyers receive partial evidence, indirect observation, or limited proof that protects the item
+and the
+seller from premature seizure. **Handling and Transit:** a custodian moves or retains the object
+under improvised
+rules until a payment condition is met. **Exchange:** payment, leverage, or another agreed value
+is transferred while
+contact between source, broker, handler, and buyer remains fragmented. **Dispersal:** participants separate, records
+are reduced or rerouted, and the object's next destination becomes harder to reconstruct.
 
 This cycle is not harmless commerce. Every phase creates a containment failure possibility. A
 seller may mishandle the
@@ -450,7 +442,7 @@ the Market record, route comparison, and controlled interdiction planning.
   Site 03 manages digital traces, broker communications, dangerous visual proof, document propagation, and
   archive
   isolation.
-- Site 04 receives biological or ecological items requiring bio-reserve handling and environmental containment.
+— Site 04 receives biological or ecological items requiring bio-reserve handling and environmental containment.
   Site 05 coordinates maritime, coastal, seismic, and deep-transit routes where an exchange or
   shipment
   creates regional
@@ -601,8 +593,8 @@ material as a government asset.
   by
   independent
   brokers?
-- What objects have been sold without any surviving A.C.T recovery lead?
-- Which buyers understand enough to become repeat clients rather than isolated purchasers?
+— What objects have been sold without any surviving A.C.T recovery lead?
+— Which buyers understand enough to become repeat clients rather than isolated purchasers?
   Are any Market handlers using anomalous tools to protect routes, verify goods, or
   enforce
   transactions?
@@ -613,7 +605,7 @@ material as a government asset.
   Can a Market node be retained under observation without allowing a dangerous object
   to
   remain in circulation?
-- What point of pressure would disrupt demand rather than merely relocate supply?
+— What point of pressure would disrupt demand rather than merely relocate supply?
 
 ### Standing Restriction Order
 
@@ -655,14 +647,14 @@ trade-structure analysis.
 
 ### Related A.C.T Records
 
-  GOI Registry and External Threat Doctrine Archive - classification, trade alignment, and Monitor
+  GOI Registry and External Threat Doctrine Archive — classification, trade alignment, and Monitor
   /
   Appropriate posture
   authority;
-- ACT-SITE-01-US-W / Redwood Veil Complex - primary trade-interdiction jurisdiction;
-- Site Map and Jurisdiction Doctrine - transfer routing for regional recovery;
-- Anomaly Classification Manual Archive - object custody and classification requirements;
-- Anomaly Log Categories In-World Explanation - restricted transaction, recovery, and exposure record handling.
+— ACT-SITE-01-US-W / Redwood Veil Complex — primary trade-interdiction jurisdiction;
+— Site Map and Jurisdiction Doctrine — transfer routing for regional recovery;
+— Anomaly Classification Manual Archive — object custody and classification requirements;
+— Anomaly Log Categories In-World Explanation — restricted transaction, recovery, and exposure record handling.
 ---
 
 ## FILE METADATA

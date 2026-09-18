@@ -173,8 +173,8 @@ QAMSS doctrine holds that the cold chain begins with a question, not a chamber.
 - ACT-SUB-02-RU-N-F-2 Quarantine and Assessment Level Floor Dossier;
 - ACT-SUB-02-RU-N-F-1 Interim Cryogenic Holding Floor Dossier;
 - ACT-SITE-02-RU-N White Grave Station Site Dossier;
-- TECH-ACT-094 - Interim Cryogenic Holding System;
-- TECH-ACT-063 - Memetic Contamination Treatment Suites;
+- TECH-ACT-094 — Interim Cryogenic Holding System;
+- TECH-ACT-063 — Memetic Contamination Treatment Suites;
 - Frost Hollow quarantine assessment manifest [restricted].
 
 ---
@@ -192,9 +192,7 @@ QAMSS doctrine holds that the cold chain begins with a question, not a chamber.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Medical Quarantine Lead / Assessment Officer / Central Archive
-**Review Status:** Active quarantine assessment record; live chamber maps, suppression tables, failed-assessment
-files, and escalation channels censored
-**Next Review:** After any false release, suppression error, lab contamination, failed assessment, transfer dispute,
-or seasonal assessment overload
+**Created:** 2026-09-16 **Author Desk:** Medical Quarantine Lead / Assessment Officer / Central Archive **Review
+Status:** Active quarantine assessment record; live chamber maps, suppression tables, failed-assessment files, and
+escalation channels censored **Next Review:** After any false release, suppression error, lab contamination, failed
+assessment, transfer dispute, or seasonal assessment overload

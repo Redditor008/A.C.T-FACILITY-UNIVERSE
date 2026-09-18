@@ -198,10 +198,10 @@ to quietly replace.
 ## CROSS-REFERENCES
 
 - ACT-SITE-01-US-W-F-7 Central Archive and Records Floor Dossier;
-- TECH-ACT-003 - Quantum Narrative Buffer System;
-- TECH-ACT-059 - Document Quarantine Cells;
-- TECH-ACT-011 - Narrative Seal Varnish;
-- TECH-ACT-020 - Regression-Resistant Ink;
+- TECH-ACT-003 — Quantum Narrative Buffer System;
+- TECH-ACT-059 — Document Quarantine Cells;
+- TECH-ACT-011 — Narrative Seal Varnish;
+- TECH-ACT-020 — Regression-Resistant Ink;
 - F-7 preservation incident ledgers [restricted];
 - QNB structural hardening diagrams [restricted].
 
@@ -215,15 +215,13 @@ to quietly replace.
 - Should witness records and medical records use different continuity thresholds?
   Can a quarantine cell lie about its contents while the QNB record remains
   correct?
-- What happens when the room remembers a file that every authorized reader forgets?
+— What happens when the room remembers a file that every authorized reader forgets?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Archive Division / Engineering Division / Central Archive  
-**Review Status:** Active archival infrastructure record; structural hardening diagrams and restoration thresholds
-censored
-**Next Review:** After any causal mismatch, restoration dispute, overhardening event, quarantine conflict, or F-7
-archive retrofit
+**Created:** 2026-09-15 **Author Desk:** Archive Division / Engineering Division / Central Archive **Review Status:**
+Active archival infrastructure record; structural hardening diagrams and restoration thresholds censored **Next
+Review:** After any causal mismatch, restoration dispute, overhardening event, quarantine conflict, or F-7 archive
+retrofit

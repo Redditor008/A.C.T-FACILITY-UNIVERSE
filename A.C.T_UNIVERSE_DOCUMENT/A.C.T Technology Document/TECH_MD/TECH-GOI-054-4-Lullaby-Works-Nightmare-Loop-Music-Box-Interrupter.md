@@ -57,21 +57,18 @@ stops.
 
 Three properties define the device:
 
-  **Interruption, not suppression.** The loop is broken, not deleted. The child still remembers
-  the
-  dream. Consistent
-  with the rest of the range, nothing about the product suppresses memory.
-  **Finite charge.** The unit exhausts. A.C.T has not established the night count for
-  any
-  recovered part, and the
-  dossier does not state one. That the count is limited is confirmed; the number
-  is not.
-  **Audible output.** The unit plays a lullaby. The dossier records Lullaby Works lullaby
-  recordings
-  in languages not
-  spoken by the purchasing family, and the nightlight instruction directs caregivers to keep the
-  room singing. A.C.T
-  treats the singing as functional rather than decorative.
+**Interruption, not suppression.** The loop is broken, not deleted. The child still remembers the
+dream. Consistent
+with the rest of the range, nothing about the product suppresses memory. **Finite charge.**
+The unit exhausts. A.C.T
+has not established the night count for any recovered part, and the dossier does
+not state one. That the count is
+limited is confirmed; the number is not. **Audible output.** The unit plays a lullaby.
+The dossier records Lullaby
+Works lullaby recordings in languages not spoken by the purchasing family, and the nightlight
+instruction directs
+caregivers to keep the room singing. A.C.T treats the singing as functional rather than
+decorative.
 
 The device does not detect threats, does not relay distress, and does not protect
 a room. It intervenes in a sleep
@@ -109,10 +106,10 @@ Known external features:
   a **winding key or crank**, present on all recovered parts, whose function A.C.T
   has
   not been able to confirm;
-- a **hinged lid** in most variants;
-- a **movement housing** that should contain a cylinder or disc mechanism;
-- a **sewn or adhered label area** under which a production tag may sit;
-- a **battery plate** in some variants, behind which a tag may be hidden.
+— a **hinged lid** in most variants;
+— a **movement housing** that should contain a cylinder or disc mechanism;
+— a **sewn or adhered label area** under which a production tag may sit;
+— a **battery plate** in some variants, behind which a tag may be hidden.
 
 Known construction findings:
 
@@ -123,7 +120,7 @@ Known construction findings:
   no spring, no governor, no comb, and no cylinder have been recovered that
   correspond
   to the audible tune;
-- winding the key produces no resistance and no sound in any recovered part;
+— winding the key produces no resistance and no sound in any recovered part;
   material samples from the range **remain warm when separated from the item body**,
   the
   shared Lullaby Works finding.
@@ -162,7 +159,7 @@ Standing rules:
   family plainly that the item has
   finished, and begin follow-up care, because the end of the unit is not the
   end of the risk;
-- do not test the interruption by inducing a nightmare;
+— do not test the interruption by inducing a nightmare;
   keep the room singing. Recovered instruction treats continued sound as part of the
   protocol,
   and A.C.T follows it
@@ -265,19 +262,19 @@ a device whose only important property is how much of its life is left.
   How many nights does a unit last, and is the count fixed per
   unit
   or per child?
-- What is consumed as the unit exhausts?
-- Is the winding key functional, and does winding it spend charge?
+— What is consumed as the unit exhausts?
+— Is the winding key functional, and does winding it spend charge?
   What produces the tune, given that no mechanism has been found in any
   housing?
-- Does the language of the lullaby matter to the effect?
+— Does the language of the lullaby matter to the effect?
   Can an exhausted unit be restored by the manufacturer, and does the warranty
   cover
   it?
   Does the interruption end the loop permanently or only for the duration of
   the
   charge?
-- Does a music box line lot label exist?
-- What does the manufacturer expect a family to do when the box stops?
+— Does a music box line lot label exist?
+— What does the manufacturer expect a family to do when the box stops?
 
 ---
 

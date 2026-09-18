@@ -185,8 +185,8 @@ permitted to walk through it.
 - ACT-SITE-04-BR-C Verde Null Bio-Reserve Site Dossier;
 - ACT-SITE-04-BR-C-F-4 Personnel and Operations Level Floor Dossier;
 - ACT-SITE-04-BR-C-F-5 Surface Research Campus Floor Dossier;
-- TECH-ACT-106 - Reserve Command and Operations Coordination System;
-- TECH-ACT-108 - Surface Research Campus Cover Integration System;
+- TECH-ACT-106 — Reserve Command and Operations Coordination System;
+- TECH-ACT-108 — Surface Research Campus Cover Integration System;
 - Verde Null personnel clearance ledgers [restricted].
 
 ---
@@ -204,7 +204,7 @@ permitted to walk through it.
   How much Medical detail should be visible to Security when access restriction is
   based
   on stress or exposure?
-- Can public-program researchers be trained into concealed roles without damaging their external professional
+— Can public-program researchers be trained into concealed roles without damaging their external professional
   credibility?
   Should PPRCS deny advancement when a person is valuable in the field but
   deteriorating
@@ -214,9 +214,8 @@ permitted to walk through it.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Personnel Processing Office / Security Administration / Central Archive
+**Created:** 2026-09-16 **Author Desk:** Personnel Processing Office / Security Administration / Central Archive
 **Review Status:** Active personnel-clearance technology record; individual records, medical flags, credential keys,
-and denial files censored
-**Next Review:** After any clearance misuse, boundary access error, unreported exposure, isolation-fatigue removal,
-cover-role failure, or denial override
+and denial files censored **Next Review:** After any clearance misuse, boundary access error, unreported
+exposure,
+isolation-fatigue removal, cover-role failure, or denial override

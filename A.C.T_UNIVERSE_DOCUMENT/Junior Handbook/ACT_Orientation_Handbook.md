@@ -1,10 +1,8 @@
 # A.C.T ORIENTATION HANDBOOK
 ### MASTER VOLUME — CHAPTERS 1-6
 
-═══════════════════════════════════════════════════════════════════════
-                    A.C.T FACILITY — ORIENTATION
-                 Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════ A.C.T FACILITY — ORIENTATION Anomaly
+Containment Transformation ═══════════════════════════════════════════════════════════════════════
 
 | FIELD | VALUE |
 |---|---|
@@ -38,9 +36,8 @@ The **Anomaly Containment Transformation** (A.C.T) Facility is a hidden institut
 that
 window and the world above. Our mission is summarized by our primary directive:
 
-  **"To A.C.T is to maintain the normalcy and the stability of Earth and
-  its
-  populace."**
+**"To A.C.T is to maintain the normalcy and the stability of Earth and its
+populace."**
 
 We are the ones who do the work that must never be seen. We
 are the architects of the silence. We do not seek glory,
@@ -118,11 +115,9 @@ dual duty:
 We are the caretakers of the things that have no home. We provide the
 room for the universe to mend itself.
 
-MANDATORY ORIENTATION PHRASE:
-                     "We build the walls so 
-                      the world can be a home, 
-                      and we build the home so 
-                      the anomaly can be at peace."
+MANDATORY ORIENTATION PHRASE: "We build the walls so the world can be a home,
+and we build the home so the anomaly can
+be at peace."
 
 ---
 
@@ -167,8 +162,8 @@ or anomalous—within it. If a Site falls, the Director is the one who answers
 to the Abyss.
 
 ##### **III. THE RESEARCHER CADRE (HIGH, SENIOR, JUNIOR)**
-Researchers are our eyes. 
-*   **High Researchers** bridge the gap between policy and science. 
+Researchers are our eyes.
+— **High Researchers** bridge the gap between policy and science.
     **Senior Researchers** (like Dr. Aris Thorne) are the frontline masters of the anomaly.
     They
     translate raw chaos into
@@ -180,24 +175,19 @@ Researchers are our eyes.
     fix prevents a causal error.
 
 ##### **IV. TACTICAL & FIELD OPERATIONS**
-The limbs of the Facility. 
-    **Field Operators** and **Task Force Commanders** are the ones who step into the
-    "Fractures"
-    first.
-    **Facility Guards** protect the internal peace. They are trained to see the "Static"
-    before
-    a breach happens.
+The limbs of the Facility. **Field Operators** and **Task Force Commanders** are the ones
+who step into the
+"Fractures" first. **Facility Guards** protect the internal peace. They are trained to see the
+"Static" before a
+breach happens.
 
 ##### **V. THE SUPPORT PILLARS (ARCHIVERS, JANITORS, RECRUITERS)**
-The cells of the body.
-    **Archivers** are the most critical support role. In A.C.T., information is a hazardous
-    material.
-    You are the ones who
-    shield the world from the ink.
-    **Site Janitors** perform the most dangerous "Silent Work," cleaning the residue of the
-    impossible
-    so that the next
-    shift can walk the halls safely.
+The cells of the body. **Archivers** are the most critical support role. In A.C.T.,
+information is a hazardous
+material. You are the ones who shield the world from the ink. **Site Janitors**
+perform the most dangerous "Silent
+Work," cleaning the residue of the impossible so that the next shift can walk
+the halls safely.
 
 #### **3. THE WINGS: DIRECTIONAL DOCTRINE**
 
@@ -206,33 +196,33 @@ wings. Each represents a
 cardinal direction of our purpose.
 
 ##### **THE WEST WINGS: THE SHIELD (FORCE)**
-Contains the **Security, Recovery, Containment, and Military Divisions.** 
-This is where the Facility acts. It is the side of A.C.T. that meets
-the anomaly with steel, magnetic fields, and
-tactical precision. If a subject attempts to breach, the West Wing is the first
-to speak.
+Contains the **Security, Recovery, Containment, and Military Divisions.** This is where the Facility acts.
+It is the
+side of A.C.T. that meets the anomaly with steel, magnetic fields, and tactical precision.
+If a subject attempts to
+breach, the West Wing is the first to speak.
 
 ##### **THE EAST WINGS: THE MEMORY (ARCHIVE)**
-Contains the **Archiver, Intelligence, and Task Management Divisions.**
-This is where the Facility remembers. It is our library of scars. Here, we
-analyze the movements of GOIs, track the
-"Causal Pulse" of the Site Network, and decide what information is safe for the
-world to know.
+Contains the **Archiver, Intelligence, and Task Management Divisions.** This is where the Facility remembers.
+It is
+our library of scars. Here, we analyze the movements of GOIs, track the "Causal
+Pulse" of the Site Network, and decide
+what information is safe for the world to know.
 
 ##### **THE NORTH WINGS: THE MIND (SCIENCE)**
-Contains the **Researcher, Transformation, and Medical Care Divisions.**
-This is where the Facility thinks and heals. It is the center for the
-"Neutral Good" path of Transformation. We study
-the subjects here not as prisoners, but as patients of a broken reality. The
-**Anomaly Lab Quarter** is located here,
-testing the limits of what can be "mended."
+Contains the **Researcher, Transformation, and Medical Care Divisions.** This is where the Facility thinks
+and heals.
+It is the center for the "Neutral Good" path of Transformation. We study the
+subjects here not as prisoners, but as
+patients of a broken reality. The **Anomaly Lab Quarter** is located here, testing the
+limits of what can be "mended."
 
 ##### **THE SOUTH WINGS: THE SHADOW (STRATEGY)**
-Contains the **O5 Headquarters and Civil Covert Division.**
-This is where the Facility hides. This wing manages our funding, our shell companies,
-and the "Normalcy Masks" we wear
-in the civilian world. It ensures that the world never notices the concrete fortress
-in their backyard.
+Contains the **O5 Headquarters and Civil Covert Division.** This is where the Facility hides.
+This wing manages our
+funding, our shell companies, and the "Normalcy Masks" we wear in the civilian world.
+It ensures that the world never
+notices the concrete fortress in their backyard.
 
 #### **4. THE CENTRAL SPINE: THE ABYSSAL AXIS**
 
@@ -262,14 +252,9 @@ early ERE seekers. You do your part, and the structure handles the rest. We
 are a collective anchor. If one Hand
 slips, the other four are there to catch the weight.
 
-MANDATORY ORIENTATION PHRASE:
-                     "I am a Hand of the 
-                      Five, a Cell of the 
-                      Body, and a Witness to 
-                      the Order. I move 
-                      where I am directed, 
-                      so reality moves as 
-                      it should."
+MANDATORY ORIENTATION PHRASE: "I am a Hand of the Five, a Cell of the
+Body, and a Witness to the Order. I move where I
+am directed, so reality moves as it should."
 
 ---
 
@@ -377,20 +362,17 @@ Pulse." It will lead you back to the center.
 #### **5. JURISDICTION AND ROUTING**
 
 When a new anomaly is detected, the Intelligence Division determines its **Routing.**
-*   If it is a **Subject** needing care, it moves toward **Site-04.**
-*   If it is a **Hazard** needing ice, it moves toward **Site-02.**
-*   If it is a **Signal** needing silence, it moves toward **Site-03.**
+— If it is a **Subject** needing care, it moves toward **Site-04.**
+— If it is a **Hazard** needing ice, it moves toward **Site-02.**
+— If it is a **Signal** needing silence, it moves toward **Site-03.**
 
 We move anomalies across the map not because we are playing with them, but
 to find the place where their "Resonance"
 is the quietest. We are seeking the **Harmony of the Lattice.**
 
-MANDATORY ORIENTATION PHRASE:
-                     "The world is a map of 
-                      silence. I am a dot on 
-                      that map. My post is my 
-                      duty, and my duty is 
-                      the world's stability."
+MANDATORY ORIENTATION PHRASE: "The world is a map of silence. I am a dot
+on that map. My post is my duty, and my duty
+is the world's stability."
 
 ---
 
@@ -405,7 +387,7 @@ bandage is not a cure. If the A.C.T. Facility only "contained" anomalies, we wou
 eventually run out of room, out of
 lead, and out of time. We would be a graveyard of waiting disasters.
 
-The third pillar—**Transformation**—is what makes us a civilization rather than a prison. 
+The third pillar—**Transformation**—is what makes us a civilization rather than a prison.
 
 Transformation is the process of bringing an anomaly into **Harmony** with reality. We do
 not seek to destroy the
@@ -419,18 +401,17 @@ In your orientation, you may have heard senior staff use the term "Neutral Good.
 This is the philosophical engine of
 the Transformation Division.
 
-    **Why it is NEUTRAL:** We must remain clinical. We do not transform out
-    of
-    emotion. We do not "pity" the anomaly, nor
-    do we "hate" it. We treat every subject as a set of variables that
-    must be balanced. If we allow our feelings to
-    dictate the change, we risk a "Narrative Feedback Loop" that can kill us all.
-    **Why it is GOOD:** The ultimate objective is the prevention of suffering. We
-    transform
-    the **Paper Flower
-    (AFD-NB-204)** from a child's tragedy into a staff blessing. We transform **NEMNOLIA (AFD-NB-004)** from
-    a
-    memory-killer into the very medicine that prevents global panic.
+**Why it is NEUTRAL:** We must remain clinical. We do not transform out of
+emotion. We do not "pity" the anomaly, nor
+do we "hate" it. We treat every subject as a set of variables that
+must be balanced. If we allow our feelings to
+dictate the change, we risk a "Narrative Feedback Loop" that can kill us all.
+**Why it is GOOD:** The ultimate
+objective is the prevention of suffering. We transform the **Paper Flower (AFD-NB-204)** from a
+child's tragedy into a
+staff blessing. We transform **NEMNOLIA (AFD-NB-004)** from a memory-killer into the very medicine that
+prevents
+global panic.
 
 We are taking the things that meant us harm and forcing them to become
 the things that keep us safe. It is a "Good"
@@ -443,30 +424,26 @@ care sits somewhere on this scale.
 
 ##### **I. STABILIZATION (CALMING THE STORM)**
 The first step is moving a subject from an "Agitated" state to a "Content"
-state.
-    *Example:* We provided **Anny (AFD-SU-005)** with books. This wasn't just to be "nice."
-    By
-    allowing her to mimic
-    19th-century literature, we "fixed" her linguistic glitches and stabilized her sense of self. She
-    stopped being an
-    error and started being a person.
+state. *Example:* We provided **Anny
+(AFD-SU-005)** with books. This wasn't just to be "nice." By allowing her to mimic
+19th-century literature, we "fixed"
+her linguistic glitches and stabilized her sense of self. She stopped being an error
+and started being a person.
 
 ##### **II. REPURPOSING (FINDING A ROLE)**
-Once stable, we ask: "Can this anomaly help us maintain the world?"
-    *Example:* The **Infinite Water Jug (AFD-OB-492)**. It was once a religious artifact in
-    a
-    tomb. Now, it provides
-    clean, microplastic-free water for the O5 Council. We didn't change its nature; we changed
-    its job.
+Once stable, we ask: "Can this anomaly help us maintain the world?" *Example:* The
+**Infinite Water Jug
+(AFD-OB-492)**. It was once a religious artifact in a tomb. Now, it provides clean,
+microplastic-free water for the O5
+Council. We didn't change its nature; we changed its job.
 
 ##### **III. INTEGRATION (BECOMING THE MACHINE)**
-The final stage is when the anomaly becomes part of our very existence.
-    *Example:* **004-Series Amnestics.** We don't even think of them as anomalies anymore. They
-    are
-    "Integrated Assets."
-    They are the tools we use to maintain the "First Lie." We have successfully
-    "harvested" a reality-break and turned it
-    into a pillar of our foundation.
+The final stage is when the anomaly becomes part of our very existence. *Example:*
+**004-Series Amnestics.** We don't
+even think of them as anomalies anymore. They are "Integrated Assets." They are the
+tools we use to maintain the
+"First Lie." We have successfully "harvested" a reality-break and turned it into a pillar
+of our foundation.
 
 #### **4. THE MORAL OBLIGATION: CARE FOR THE SURVIVOR**
 
@@ -509,12 +486,9 @@ world above ignorant of the dark.
     a
     lesson she taught us.
 
-MANDATORY ORIENTATION PHRASE:
-                     "We do not just hold the dark. 
-                      We teach the dark how to 
-                      live in the light, so the 
-                      light never has to see 
-                      the dark."
+MANDATORY ORIENTATION PHRASE: "We do not just hold the dark. We teach the dark
+how to live in the light, so the light
+never has to see the dark."
 
 ---
 
@@ -564,14 +538,11 @@ does not move in a seamless line, but in massive, recurring cycles.
 
 When a cycle completes, there is a **Minor Pause**—a trillionth of a second where
 reality "hesitates" before starting
-the next iteration. It is during these pauses that most anomalies emerge.
-    **The Leak:** Things from other cycles or "Exogenous Realities" (Reference: 715-Series) slip through
-    the
-    gap.
-    **The Error:** A law of physics fails to restart correctly, creating a permanent
-    "glitch"
-    (e.g., an indestructible
-    lizard or an infinite water jug).
+the next iteration. It is during these pauses that most anomalies emerge. **The Leak:**
+Things from other cycles or
+"Exogenous Realities" (Reference: 715-Series) slip through the gap. **The Error:** A law of physics
+fails to restart
+correctly, creating a permanent "glitch" (e.g., an indestructible lizard or an infinite water jug).
 
 As a researcher, you are not just looking at a "monster." You are looking
 at a **Universal Error Code.**
@@ -598,15 +569,15 @@ We categorize anomalies by the law they break:
 Sometimes, standard classification fails. We use the **Fracture Index** to describe anomalies that break
 our own
 documentation logic.
-*   **ABSURD:** The anomaly shouldn't fit in the box, but somehow it does.
+— **ABSURD:** The anomaly shouldn't fit in the box, but somehow it does.
     **UNAUTHORED:** The anomaly rewrites its own file or changes its name when we
     aren't
     looking.
-*   **SCHRÖDINGER:** The anomaly is only "contained" when we are actively watching it.
+— **SCHRÖDINGER:** The anomaly is only "contained" when we are actively watching it.
 
 #### **5. THE FIRST ANCHOR: ITHYOS (AFD-CH-000)**
 
-You must understand that all our "Logic" stems from a single discovery: **The World-Sleeper.** 
+You must understand that all our "Logic" stems from a single discovery: **The World-Sleeper.**
 
 Before ITHYOS, we were just "Seekers" looking for curiosities. ITHYOS taught us the **Doctrine
 of the Abyss.** It
@@ -630,12 +601,8 @@ its foundation from waking up.**
 3.  **Watch the Timer.** The "Minor Pause" is where the danger starts.
 4.  **Respect the Designation.** Precise language is the first layer of containment.
 
-MANDATORY ORIENTATION PHRASE:
-                     "I am a clerk of the 
-                      Fracture. I count the 
-                      pauses so the world 
-                      does not have to 
-                      stop."
+MANDATORY ORIENTATION PHRASE: "I am a clerk of the Fracture. I count the pauses
+so the world does not have to stop."
 
 ---
 **END OF HANDBOOK (VOL 1.0)**

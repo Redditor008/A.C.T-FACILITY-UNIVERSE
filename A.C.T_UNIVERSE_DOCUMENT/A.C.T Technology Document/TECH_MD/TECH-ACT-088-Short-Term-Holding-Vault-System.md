@@ -178,8 +178,8 @@ temporary.
 - ACT-SUB-01-US-W-F-1 Short-Term Holding Vault Floor Dossier;
 - ACT-SUB-01-US-W-F-2 Processing and Staging Level Floor Dossier;
 - ACT-SITE-01-US-W Redwood Veil Complex Site Dossier;
-- TECH-ACT-057 - Anomalous Intake Screening Suites;
-- TECH-ACT-077 - Internal Logistics Coordination Center;
+- TECH-ACT-057 — Anomalous Intake Screening Suites;
+- TECH-ACT-077 — Internal Logistics Coordination Center;
 - Glass Orchard holding manifest [restricted].
 
 ---
@@ -189,20 +189,20 @@ temporary.
   How many transfer delays can occur before parent command must remove material by
   emergency
   route?
-- Which low-threat signs most often precede reclassification?
-- Can a stable holding unit create false confidence in relay authority?
-- Should witness-adjacent material ever share F-1 custody with object anomalies?
-- When should F-1 closure trigger automatic Redwood Veil dispatch?
-- How long can a days-to-weeks vault remain trusted during parent-site congestion?
+— Which low-threat signs most often precede reclassification?
+— Can a stable holding unit create false confidence in relay authority?
+— Should witness-adjacent material ever share F-1 custody with object anomalies?
+— When should F-1 closure trigger automatic Redwood Veil dispatch?
+— How long can a days-to-weeks vault remain trusted during parent-site congestion?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** F-1 Vault Officer / Sub-Site Chief / Central Archive
-**Review Status:** Active provisional holding record; live unit maps, custody clocks, and parent-site transfer
-schedules censored
-**Next Review:** After any overstay, high-threat rejection, transfer delay, F-1 closure, custody drift event,
-or
-parent-site overflow dispute
+**Created:** 2026-09-16 **Author Desk:** F-1 Vault Officer / Sub-Site Chief / Central Archive **Review
+Status:**
+Active provisional holding record; live unit maps, custody clocks, and parent-site transfer schedules censored
+**Next
+Review:** After any overstay, high-threat rejection, transfer delay, F-1 closure, custody drift event, or
+parent-site
+overflow dispute

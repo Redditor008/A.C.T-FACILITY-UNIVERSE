@@ -17,59 +17,57 @@
 
 ## Archive Note
 
-This file is the complete individual record of **F-6, Medical and Cognitive
-Care**, the sixth-deepest numbered floor of **ACT-SITE-01-US-W, Redwood
-Veil Complex**.
+This file is the complete individual record of **F-6, Medical and Cognitive Care**, the
+sixth-deepest numbered floor
+of **ACT-SITE-01-US-W, Redwood Veil Complex**.
 
-F-6 is the Medical Division's primary ward level: the floor where the
-complex treats the people who do its work. The floor provides trauma care,
-memetic contamination treatment, cognitive recovery, and the isolation
-suites used for personnel undergoing artifact-influence evaluation.
+F-6 is the Medical Division's primary ward level: the floor where the complex treats
+the people who do its work. The
+floor provides trauma care, memetic contamination treatment, cognitive recovery, and the isolation suites used
+for
+personnel undergoing artifact-influence evaluation.
 
-Redwood Veil's work is done by people who handle, guard, study, and keep
-material that is not safe to handle, guard, study, or keep. F-6 exists
-because that work has consequences — and because the complex treats those
-consequences as operational matters, not personal ones.
+Redwood Veil's work is done by people who handle, guard, study, and keep material
+that is not safe to handle, guard,
+study, or keep. F-6 exists because that work has consequences — and because the
+complex treats those consequences as
+operational matters, not personal ones.
 
-This dossier records the floor in full institutional language: what it is,
-what it treats, how it is built, how it is run, and how it
-carries the
-human cost of the complex's purpose.
+This dossier records the floor in full institutional language: what it is, what it
+treats, how it is built, how it is
+run, and how it carries the human cost of the complex's purpose.
 
 ---
 
 ## 1. Floor Registry Identity Summary
 
-**Site Designation:** ACT-SITE-01-US-W
-**Site Codename:** Redwood Veil Complex
-**Floor Designation:** F-6
-**Floor Name:** Medical and Cognitive Care
-**Floor Type:** Medical Ward and Cognitive Treatment Level
-**Vertical Position:** Sixth-deepest numbered floor of the complex
-**Floor Above:** F-7 (Central Archive and Records)
-**Floor Below:** F-5 (Research and Analysis)
-**Containment Character:** Medical isolation and cognitive-care suites
-**Primary Function:** Trauma care, memetic contamination treatment, cognitive
-recovery, and artifact-influence evaluation for personnel
-**Access Posture:** Controlled medical access; patient-status governed by
-medical confidentiality doctrine
-**Current Status:** Active
+**Site Designation:** ACT-SITE-01-US-W **Site Codename:** Redwood Veil Complex **Floor Designation:** F-6 **Floor
+Name:** Medical and Cognitive Care **Floor Type:** Medical Ward and Cognitive Treatment Level **Vertical
+Position:**
+Sixth-deepest numbered floor of the complex **Floor Above:** F-7 (Central Archive and Records) **Floor
+Below:** F-5
+(Research and Analysis) **Containment Character:** Medical isolation and cognitive-care suites **Primary Function:**
+Trauma care, memetic contamination treatment, cognitive recovery, and artifact-influence evaluation for personnel
+**Access Posture:** Controlled medical access; patient-status governed by medical confidentiality doctrine **Current
+Status:** Active
 
 ---
 
 ## 2. Dossier Purpose
 
-Redwood Veil's residents are not the only things the complex must contain.
-The personnel who do the site's work carry its hazards in their bodies and
-their minds: exposure to memetic material, contact with artifact-influenced
-objects, and the accumulated weight of handling what should not exist.
+Redwood Veil's residents are not the only things the complex must contain. The personnel
+who do the site's work carry
+its hazards in their bodies and their minds: exposure to memetic material, contact with
+artifact-influenced objects,
+and the accumulated weight of handling what should not exist.
 
-F-6 exists for those personnel. It is the Medical Division's primary ward
-level — the floor where trauma is treated, memetic contamination is
-managed, cognitive recovery is conducted, and personnel suspected of
-artifact influence are evaluated in isolation. The floor is the complex's
-acknowledgment that its people are part of its containment system, and that
-the system fails if they are not cared for.
+F-6 exists for those personnel. It is the Medical Division's primary ward level —
+the floor where trauma is treated,
+memetic contamination is managed, cognitive recovery is conducted, and personnel suspected of artifact influence
+are
+evaluated in isolation. The floor is the complex's acknowledgment that its people are part
+of its containment system,
+and that the system fails if they are not cared for.
 
 ---
 
@@ -78,23 +76,26 @@ the system fails if they are not cared for.
 ### 3.1 Vertical Position
 
 F-6 lies between the Central Archive and Records level of F-7 above and the
-Research and Analysis level of F-5 below. Its position places medical care
-near the complex's operational core — close enough to the working floors to
-serve them, and deep enough to isolate what medical care must isolate.
+Research and Analysis level of F-5 below.
+Its position places medical care near the complex's operational core — close enough to
+the working floors to serve
+them, and deep enough to isolate what medical care must isolate.
 
 ### 3.2 Relationship to the Working Floors
 
-F-6 serves personnel from every floor of the complex: holding, research,
-transformation, security, and archive. Its isolation suites are used for
-personnel whose contact with anomalous material requires separation from
-the working population.
+F-6 serves personnel from every floor of the complex: holding, research, transformation, security, and
+archive. Its
+isolation suites are used for personnel whose contact with anomalous material requires separation from
+the working
+population.
 
 ### 3.3 Relationship to the Deep Floors
 
 Personnel from the deep holding floors — F-1, F-2, and F-3 — are evaluated
-and treated on F-6 under protocols that respect the restriction sets of the
-material they work with. Medical knowledge of a patient's duties does not
-override the patient's need for care.
+and treated on F-6 under protocols that
+respect the restriction sets of the material they work with. Medical knowledge of a
+patient's duties does not override
+the patient's need for care.
 
 ---
 
@@ -102,23 +103,23 @@ override the patient's need for care.
 
 ### 4.1 Development of the Ward Level
 
-F-6's character developed with the complex's recognition that anomalous
-containment work has medical consequences. What began as a small infirmary
-serving the early facility grew into a full ward level as the site's
-operations expanded.
+F-6's character developed with the complex's recognition that anomalous containment work has medical consequences.
+What began as a small infirmary serving the early facility grew into a full
+ward level as the site's operations
+expanded.
 
 ### 4.2 The Cognitive Care Mandate
 
-The floor's cognitive-care mandate — memetic contamination treatment,
-cognitive recovery, artifact-influence evaluation — developed as the
-complex's holdings came to include material that acts on the mind. F-6
-became the floor where the site treats what its residents do to people.
+The floor's cognitive-care mandate — memetic contamination treatment, cognitive recovery, artifact-influence
+evaluation — developed as the complex's holdings came to include material that acts on
+the mind. F-6 became the floor
+where the site treats what its residents do to people.
 
 ### 4.3 Modern Configuration
 
-In its modern configuration, F-6 is the Medical Division's primary ward
-level, combining conventional trauma care with the specialized cognitive
-and memetic treatment the complex's work demands.
+In its modern configuration, F-6 is the Medical Division's primary ward level, combining conventional
+trauma care with
+the specialized cognitive and memetic treatment the complex's work demands.
 
 ---
 
@@ -126,23 +127,23 @@ and memetic treatment the complex's work demands.
 
 ### 5.1 Floor Command
 
-F-6 operates under the Medical Division's command, administered day-to-day
-by a **Chief Medical Officer** appointed by the division and the Site
-Director.
+F-6 operates under the Medical Division's command, administered day-to-day by a **Chief Medical Officer**
+appointed by
+the division and the Site Director.
 
 ### 5.2 Medical Authority
 
-The Chief Medical Officer holds authority over the floor's medical
-operations: treatment decisions, patient admission, isolation determinations,
-and the floor's clinical standards.
+The Chief Medical Officer holds authority over the floor's medical operations: treatment decisions, patient
+admission,
+isolation determinations, and the floor's clinical standards.
 
 ### 5.3 Authority Limits
 
-F-6 holds no authority over resident disposition. Its authority is over
-personnel care. The floor's evaluations of artifact influence inform the
-complex's decisions about personnel assignments and containment exposure,
-but do not substitute for the authority of the divisions that assign
-personnel.
+F-6 holds no authority over resident disposition. Its authority is over personnel care. The
+floor's evaluations of
+artifact influence inform the complex's decisions about personnel assignments and containment exposure, but do
+not
+substitute for the authority of the divisions that assign personnel.
 
 ---
 
@@ -150,32 +151,31 @@ personnel.
 
 ### 6.1 Medical Division
 
-The Medical Division operates F-6: clinical care, trauma treatment, memetic
-contamination management, cognitive recovery programs, and artifact-influence
-evaluation.
+The Medical Division operates F-6: clinical care, trauma treatment, memetic contamination management, cognitive
+recovery programs, and artifact-influence evaluation.
 
 ### 6.2 Containment Division Liaison
 
-Containment personnel coordinate with F-6 on the treatment of personnel
-exposed to contained material, providing the exposure records and material
-characterization that clinical care requires.
+Containment personnel coordinate with F-6 on the treatment of personnel exposed to contained material,
+providing the
+exposure records and material characterization that clinical care requires.
 
 ### 6.3 Research Division Liaison
 
-Research personnel coordinate with F-6 on the characterization of memetic
-and cognitive effects observed in treated personnel — feeding clinical
-findings back into the complex's understanding of its holdings.
+Research personnel coordinate with F-6 on the characterization of memetic and cognitive effects observed
+in treated
+personnel — feeding clinical findings back into the complex's understanding of its holdings.
 
 ### 6.4 Security Division Liaison
 
-Security coordinates with F-6 on the handling of patients whose treatment
-involves anomalous influence, and on the floor's own access security.
+Security coordinates with F-6 on the handling of patients whose treatment involves anomalous influence,
+and on the
+floor's own access security.
 
 ### 6.5 Archive Division Liaison
 
-Archive personnel maintain F-6's medical records under the floor's
-confidentiality doctrine, preserving clinical documentation that informs
-both care and the complex's operational knowledge.
+Archive personnel maintain F-6's medical records under the floor's confidentiality doctrine, preserving clinical
+documentation that informs both care and the complex's operational knowledge.
 
 ---
 
@@ -194,25 +194,25 @@ F-6's plan is organized around **clinical wards and isolation suites**:
 
 ### 7.2 The Isolation Suites
 
-The floor's isolation suites are its most distinctive architecture: secure
-medical environments where personnel suspected of artifact influence are
-evaluated and treated in separation from the working population. The suites
-are designed to protect both the patient and the complex — observation is
-clinical, documentation is exact, and the patient's care is governed by
-medical doctrine.
+The floor's isolation suites are its most distinctive architecture: secure medical environments where personnel
+suspected of artifact influence are evaluated and treated in separation from the working population.
+The suites are
+designed to protect both the patient and the complex — observation is clinical, documentation
+is exact, and the
+patient's care is governed by medical doctrine.
 
 ### 7.3 Memetic Contamination Treatment
 
-The floor's memetic treatment suites are engineered for work with material
-that acts on the mind: controlled environments, exposure-limited treatment
-protocols, and observation architecture that documents treatment without
+The floor's memetic treatment suites are engineered for work with material that acts on
+the mind: controlled
+environments, exposure-limited treatment protocols, and observation architecture that documents treatment without
 compounding exposure.
 
 ### 7.4 Construction Standard
 
-F-6 is built to the complex's medical standard: precise environmental
-control, robust clinical infrastructure, and isolation capability that
-scales from routine care to full ward containment.
+F-6 is built to the complex's medical standard: precise environmental control, robust clinical infrastructure,
+and
+isolation capability that scales from routine care to full ward containment.
 
 ---
 
@@ -220,27 +220,25 @@ scales from routine care to full ward containment.
 
 ### 8.1 Power
 
-F-6 draws on the complex's main supply with full emergency backup for the
-clinical and isolation systems.
+F-6 draws on the complex's main supply with full emergency backup for the clinical
+and isolation systems.
 
 ### 8.2 Environment
 
-The floor's environmental systems support clinical care: individually
-regulated patient environments, atmospheric separation for the isolation
-suites, and air handling that prevents cross-contamination between wards.
+The floor's environmental systems support clinical care: individually regulated patient environments, atmospheric
+separation for the isolation suites, and air handling that prevents cross-contamination between wards.
 
 ### 8.3 Monitoring
 
-Monitoring on F-6 is clinical: patient status, treatment progress, and
-isolation-suite conditions are continuously documented. The floor's
-monitoring architecture respects the medical confidentiality doctrine while
-meeting the complex's operational documentation requirements.
+Monitoring on F-6 is clinical: patient status, treatment progress, and isolation-suite conditions are continuously
+documented. The floor's monitoring architecture respects the medical confidentiality doctrine while meeting the
+complex's operational documentation requirements.
 
 ### 8.4 Medical Records
 
-The floor maintains the complex's medical records under a confidentiality
-standard that protects personnel while preserving the clinical knowledge the
-Facility requires.
+The floor maintains the complex's medical records under a confidentiality standard that protects personnel
+while
+preserving the clinical knowledge the Facility requires.
 
 ---
 
@@ -248,29 +246,30 @@ Facility requires.
 
 ### 9.1 Access Control
 
-Access to F-6 is controlled through the floor's access core, with entry
-under medical authorization. The isolation suites are separately gated to
-the clinical personnel cleared for each patient's care.
+Access to F-6 is controlled through the floor's access core, with entry under medical
+authorization. The isolation
+suites are separately gated to the clinical personnel cleared for each patient's care.
 
 ### 9.2 Isolation Doctrine
 
-The floor's isolation suites are governed by isolation doctrine: personnel
-undergoing artifact-influence evaluation are held in clinical isolation until
-the evaluation determines that they are no longer a risk to themselves or
-the complex — or that they require longer-term care.
+The floor's isolation suites are governed by isolation doctrine: personnel undergoing artifact-influence evaluation
+are held in clinical isolation until the evaluation determines that they are no longer
+a risk to themselves or the
+complex — or that they require longer-term care.
 
 ### 9.3 Patient Handling
 
-Patients whose treatment involves anomalous influence are handled under
-protocols that protect both the patient and the clinical staff: observation
-is documented, treatment is exposure-limited, and the patient's restriction
-status — if any — governs the clinical approach.
+Patients whose treatment involves anomalous influence are handled under protocols that protect both the
+patient and
+the clinical staff: observation is documented, treatment is exposure-limited, and the patient's restriction status
+—
+if any — governs the clinical approach.
 
 ### 9.4 Incident Response
 
-F-6 maintains incident response for clinical events: treatment incidents,
-isolation breaches, and exposure events during care are met with the floor's
-response doctrine, with containment escalation available where a patient's
+F-6 maintains incident response for clinical events: treatment incidents, isolation breaches, and exposure events
+during care are met with the floor's response doctrine, with containment escalation available where
+a patient's
 condition involves active anomalous influence.
 
 ---
@@ -279,9 +278,9 @@ condition involves active anomalous influence.
 
 ### 10.1 Patient Population
 
-F-6's patients are the complex's personnel: security staff, containment
-personnel, researchers, recovery teams, and archive staff who have been
-injured, contaminated, or influenced in the course of the site's work.
+F-6's patients are the complex's personnel: security staff, containment personnel, researchers, recovery teams, and
+archive staff who have been injured, contaminated, or influenced in the course of the
+site's work.
 
 ### 10.2 Treatment Character
 
@@ -293,10 +292,10 @@ The floor treats:
 
 ### 10.3 Evaluation Character
 
-The floor's artifact-influence evaluation serves the complex's operational
-doctrine: personnel who may have been influenced by contained material are
-evaluated in isolation, and the evaluation informs the complex's decisions
-about their duties and their access.
+The floor's artifact-influence evaluation serves the complex's operational doctrine: personnel who may have been
+influenced by contained material are evaluated in isolation, and the evaluation informs the complex's
+decisions about
+their duties and their access.
 
 ---
 
@@ -304,22 +303,24 @@ about their duties and their access.
 
 ### 11.1 Staffing
 
-F-6's personnel are drawn from the Medical Division's clinical staff —
-physicians, nurses, cognitive-care specialists, and memetic-treatment
-personnel — supported by the floor's clinical support staff.
+F-6's personnel are drawn from the Medical Division's clinical staff — physicians, nurses, cognitive-care
+specialists,
+and memetic-treatment personnel — supported by the floor's clinical support staff.
 
 ### 11.2 Duty Life
 
-Duty on F-6 is clinical work: treatment, evaluation, documentation, and the
-quiet, exacting labor of caring for people who do the Facility's hardest
-work. The floor's rhythm is set by the complex's operational tempo.
+Duty on F-6 is clinical work: treatment, evaluation, documentation, and the quiet, exacting labor
+of caring for people
+who do the Facility's hardest work. The floor's rhythm is set by the complex's
+operational tempo.
 
 ### 11.3 The Weight of the Work
 
-The floor's personnel work under the awareness that their patients carry
-the cost of the complex's purpose. The Medical Division maintains its own
-support structures for clinical staff, recognizing that caring for the
-carriers of anomalous weight is itself demanding work.
+The floor's personnel work under the awareness that their patients carry the cost of
+the complex's purpose. The
+Medical Division maintains its own support structures for clinical staff, recognizing that caring for
+the carriers of
+anomalous weight is itself demanding work.
 
 ---
 
@@ -327,32 +328,34 @@ carriers of anomalous weight is itself demanding work.
 
 ### 12.1 Personnel Doctrine
 
-F-6 doctrine holds that the complex's personnel are part of its containment
-system — and that the system fails if its people are not cared for.
-The
-floor treats medical care as an operational requirement, not a convenience.
+F-6 doctrine holds that the complex's personnel are part of its containment system —
+and that the system fails if its
+people are not cared for. The floor treats medical care as an operational requirement,
+not a convenience.
 
 ### 12.2 Isolation Doctrine
 
-F-6 doctrine holds that artifact-influence evaluation requires isolation:
-the patient, the complex, and the clinical process are all protected when
-influence is evaluated in separation from the working population.
+F-6 doctrine holds that artifact-influence evaluation requires isolation: the patient, the complex, and the
+clinical
+process are all protected when influence is evaluated in separation from the working population.
 
 ### 12.3 Confidentiality Doctrine
 
-F-6 doctrine holds that medical confidentiality serves the complex as well
-as the patient: personnel must be able to seek care without fear that their
-treatment will compromise their standing. The floor's records balance
+F-6 doctrine holds that medical confidentiality serves the complex as well as the patient:
+personnel must be able to
+seek care without fear that their treatment will compromise their standing. The floor's records
+balance
 confidentiality with the operational knowledge the Facility requires.
 
 ---
 
 ## 13. Incident Archive
 
-The floor's incident record is dominated by clinical events: treatment
-incidents, isolation-suite events, and exposure incidents during care. The
-floor's history is recorded in the complex's medical archives — the history
-of the site's care for the people who contain the impossible.
+The floor's incident record is dominated by clinical events: treatment incidents, isolation-suite events, and
+exposure
+incidents during care. The floor's history is recorded in the complex's medical archives —
+the history of the site's
+care for the people who contain the impossible.
 
 ---
 
@@ -380,10 +383,12 @@ priorities include:
 
 ## Archive Closing
 
-F-6, Medical and Cognitive Care, is the floor where Redwood Veil treats the
-people who do its work: trauma ward, memetic treatment suites, cognitive
-recovery center, and isolation suites for those who have carried too much
-of what the complex contains.
+F-6, Medical and Cognitive Care, is the floor where Redwood Veil treats the people
+who do its work: trauma ward,
+memetic treatment suites, cognitive recovery center, and isolation suites for those who have carried
+too much of what
+the complex contains.
 
-It is the complex's acknowledgment that containment has a human cost — and
-its commitment to paying that cost with care.
+It is the complex's acknowledgment that containment has a human cost — and its
+commitment to paying that cost with
+care.

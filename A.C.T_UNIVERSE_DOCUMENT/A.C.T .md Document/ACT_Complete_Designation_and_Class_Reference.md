@@ -523,8 +523,7 @@ as "contained" or "a threat" or "an object" would require the file to lie
 about what is happening.
 
 **Reading example.** `ANM-QU-AS-0003` At-the-end-of-the-day — QUESTIONED containment, ABSENT sub-threat, registry
-0003.
-`ANM-UA-AS-0001` The Unwritten Return — UNAUTHORED containment, ABSENT sub-threat. A constructed example from
+0003. `ANM-UA-AS-0001` The Unwritten Return — UNAUTHORED containment, ABSENT sub-threat. A constructed example from
 the source doctrine: `ANM-AB-HM-0002` is read as **ABSURD** containment, **HARMLESS** sub-threat, registry number
 0002.
 
@@ -990,7 +989,7 @@ Transformation & Utilization dossiers:
   the
   viability value
   above only in context: viability is the ceiling, status is the achieved state).
-- **Repurposed** — the anomaly has been turned into a Facility asset.
+— **Repurposed** — the anomaly has been turned into a Facility asset.
   **Unstable Asset** — the anomaly is considered an unstable asset if it has
   failed
   transformation before, if
@@ -1010,7 +1009,7 @@ Transformation & Utilization dossiers:
   Transformation is **not allowed** when the anomaly is marked **Content**, **Unstable**, **Don't Touch**,
   **Don't
   See**, or **Don't Fix**.
-- Before transformation, the file must demonstrate: **compatibility, application, use, lower projected danger or
+— Before transformation, the file must demonstrate: **compatibility, application, use, lower projected danger or
   improved control, and high-need operational justification**.
 
 ### I-6A Anomaly Lifecycle State
@@ -1179,8 +1178,7 @@ Administrators and Site Directors.
 / Level E / Level 0
 / Level 1 / Level 2 / Level 3 / Level 4 / Level
 5 / O5 Access]`. Files carrying `[ Level 4-5 Lock ]` or `[ O5
--
-ONLY
+— ONLY
 ]` markers (I-12) are the practical enforcement of this scale.
 
 **Do not confuse with.** Redaction markers that cite levels. The clearance field is the
@@ -1313,20 +1311,16 @@ Every anomaly is assigned one of four location-behavior statements, describing t
 the
 anomaly and its monitoring:
 
-  **LEFT ALONE** — the anomaly is safer when undisturbed; the correct posture is
-  non-intervention.
-  **CAN'T BE LEFT ALONE** — the anomaly requires continuous presence or attention; leaving
-  it
-  unattended invites
-  failure.
-  **MUST MONITOR** — the anomaly requires active observation on a schedule or in
-  real
-  time; monitoring is a containment
-  requirement, not a precaution.
-  **DON'T MONITOR** — monitoring the anomaly is itself dangerous; observation must be withheld
-  or
-  indirect. (DON'T
-  MONITOR pairs with Blind Box structures and with the observation restrictions in I-11.)
+**LEFT ALONE** — the anomaly is safer when undisturbed; the correct posture is non-intervention.
+**CAN'T BE LEFT
+ALONE** — the anomaly requires continuous presence or attention; leaving it unattended invites failure.
+**MUST
+MONITOR** — the anomaly requires active observation on a schedule or in real time;
+monitoring is a containment
+requirement, not a precaution. **DON'T MONITOR** — monitoring the anomaly is itself dangerous; observation
+must be
+withheld or indirect. (DON'T MONITOR pairs with Blind Box structures and with the observation
+restrictions in I-11.)
 
 #### Containment Condition Category
 
@@ -1336,8 +1330,8 @@ Every anomaly is categorized by the kind of thing containment is dealing with:
   for
   person-shaped behavior,
   communication, and care.
-- **Non-Humanoid** — the anomaly is a living or acting thing without human form.
-- **Object** — the anomaly is a thing (see OB field type, I-2).
+— **Non-Humanoid** — the anomaly is a living or acting thing without human form.
+— **Object** — the anomaly is a thing (see OB field type, I-2).
   **Phenomenon** — the anomaly is an event, process, or condition rather than a
   thing
   or being; containment addresses
@@ -1350,8 +1344,8 @@ Direct exposure to an anomaly is restricted to three categories of personnel:
   **E-Class Test Subject** — personnel assigned to exposure trials under the E-Class clearance
   condition
   (I-7).
-- **Current Researcher** — the researcher or research team currently holding the file.
-- **Designated Field Personnel** — operators formally designated for the anomaly's field handling.
+— **Current Researcher** — the researcher or research team currently holding the file.
+— **Designated Field Personnel** — operators formally designated for the anomaly's field handling.
 
 Anyone outside these categories is unauthorized for direct exposure regardless of general clearance.
 
@@ -1379,18 +1373,18 @@ assigned place, but **whether containment reality itself remains coherent around
   **Content** — the anomaly is settled and non-resistant; the file may record it
   as
   satisfied with its condition.
-- **Contain** — containment is actively holding; the state is nominal but effortful.
+— **Contain** — containment is actively holding; the state is nominal but effortful.
   **Unstable** — containment holds but is degrading or unreliable; the anomaly or its
   environment
   is shifting.
-- **Agitated** — the anomaly is actively distressed or provoked; behavioral escalation is likely.
+— **Agitated** — the anomaly is actively distressed or provoked; behavioral escalation is likely.
   **Leaking** — the anomaly's effect is escaping containment even though the anomaly itself
   remains
   held.
-- **Compromised** — a containment component, procedure, or record has failed or been corrupted.
+— **Compromised** — a containment component, procedure, or record has failed or been corrupted.
   **Breached** — containment has failed and the anomaly is out of its assigned
   place.
-- **Escalating** — the situation is worsening in real time toward or beyond breach.
+— **Escalating** — the situation is worsening in real time toward or beyond breach.
   **Critical** — the anomaly or its environment has reached a point where catastrophic
   failure
   is imminent or underway.
@@ -1411,48 +1405,31 @@ Anomalies may carry one or more direct interaction restrictions. These are **par
 not optional
 notes**. The recognized restrictions and their meanings:
 
-  **no direct eye contact** — visual engagement with the anomaly's eyes (or eye-equivalent)
-  triggers
-  or escalates its
-  effect; handlers must avert or shield sight.
-  **no verbal naming** — speaking the anomaly's name or designation aloud invokes or
-  strengthens
-  it.
-  **no mirrored reflection exposure** — the anomaly must not be seen or allowed
-  to
-  see itself through reflective
-  surfaces.
-  **no digital replication** — the anomaly must not be photographed, filmed, scanned, or
-  otherwise
-  copied by electronic
-  means.
-  **no written duplication** — the anomaly must not be described in writing that
-  can
-  be duplicated outside controlled
-  records.
-  **no solo observation** — the anomaly may only be observed by paired or
-  team
-  personnel; a lone observer is an
-  unacceptable risk.
-  **no biological contact** — personnel must not physically touch the anomaly or its
-  biological
-  products without full
-  barrier procedure.
-  **no serpent-class organism proximity** — serpent-form or serpent-class organisms must not be brought
-  near
-  the anomaly
-  (a restriction class with direct historical weight in the ITHYOS lineage).
-  **no descent below assigned floor without clearance** — the anomaly's holding level is
-  a
-  clearance boundary; deeper
-  access is prohibited without authorization.
-  **no destabilizing** — the anomaly must not be shocked, provoked, altered, or placed
-  under
-  stress conditions.
-  **no weak psychic** — personnel with known psychic susceptibility (or unverified resistance) must
-  not
-  interact with
-  the anomaly.
+**no direct eye contact** — visual engagement with the anomaly's eyes (or eye-equivalent) triggers
+or escalates its
+effect; handlers must avert or shield sight. **no verbal naming** — speaking the anomaly's
+name or designation aloud
+invokes or strengthens it. **no mirrored reflection exposure** — the anomaly must not be
+seen or allowed to see itself
+through reflective surfaces. **no digital replication** — the anomaly must not be photographed, filmed,
+scanned, or
+otherwise copied by electronic means. **no written duplication** — the anomaly must not be
+described in writing that
+can be duplicated outside controlled records. **no solo observation** — the anomaly may only
+be observed by paired or
+team personnel; a lone observer is an unacceptable risk. **no biological contact** — personnel
+must not physically
+touch the anomaly or its biological products without full barrier procedure. **no serpent-class organism
+proximity** —
+serpent-form or serpent-class organisms must not be brought near the anomaly (a restriction class
+with direct
+historical weight in the ITHYOS lineage). **no descent below assigned floor without clearance** —
+the anomaly's
+holding level is a clearance boundary; deeper access is prohibited without authorization. **no destabilizing**
+— the
+anomaly must not be shocked, provoked, altered, or placed under stress conditions. **no weak
+psychic** — personnel
+with known psychic susceptibility (or unverified resistance) must not interact with the anomaly.
 
 ---
 
@@ -1481,8 +1458,8 @@ regime governs it**:
   itself
   a containment
   measure.
-- `[ABYSS ACCESS ONLY]` — the passage is readable only through ABYSS access protocols.
-  `[ O5 - ONLY ]` — the passage is restricted to O5 Council
+— `[ABYSS ACCESS ONLY]` — the passage is readable only through ABYSS access protocols.
+  `[ O5 — ONLY ]` — the passage is restricted to O5 Council
   access.
   `[O5-RESTRICTED]` — the passage falls under O5 restriction authority (same tier as above;
   spelling
@@ -1517,18 +1494,13 @@ destroying ourselves?**
 
 The three axes, which also give the format its name:
 
-  **CO — Containment.** The current holding state: containment summary, specifications, site, history, and
-  the
-  live
-  condition of the box.
-  **RE — Research.** The active learning state: research summary, lead researcher and team,
-  current
-  research phase,
-  anomalous-properties research profile, key log entries, and research restrictions.
-  **TR — Transformation.** The conversion state: transformation summary, target end state, and the
-  current
-  viability
-  position on the INVIOLABLE → INTEGRATED scale.
+**CO — Containment.** The current holding state: containment summary, specifications, site, history, and the
+live
+condition of the box. **RE — Research.** The active learning state: research summary, lead
+researcher and team,
+current research phase, anomalous-properties research profile, key log entries, and research restrictions. **TR —
+Transformation.** The conversion state: transformation summary, target end state, and the current viability position
+on the INVIOLABLE → INTEGRATED scale.
 
 **Relationship to Standard Format.** The two formats are not competing systems; they are parallel
 tools. **Standard
@@ -1552,35 +1524,29 @@ a filing convenience, not a promise that classes escalate in a strict order.
 Anomaly files and their supporting records carry state fields whose vocabulary is consistent across
 the archive:
 
-  **Archive Status** (on the file header): **Active** — the file is in current
-  operational
-  use; **Active Restricted
-  Record** — active but distribution-limited; **Archived** — retired from active use; **Sealed** — closed
-  by authority
-  and not to be opened without higher clearance.
-  **FILE STATUS** (in metadata): **Active / Restricted / Sealed** follow the same meaning
-  as
-  above; other file-status
-  values appear in context (Under Review, Dormant).
-  **RECORD CONDITION**: describes the record's own completeness — **Draft / Operational / Archived**
-  are
-  the standard
-metadata values on controlled forms, with operational meaning: Draft = not yet authoritative, Operational
-=
-  authoritative in current use, Archived = preserved for history.
-  **CURRENT STATUS** (on anomaly and registry files): Active / Dormant / Fragmented /
-  Contained
-  / Sealed / Unknown /
-  Under Expansion / Compromised / Archived — the value states the live condition of
-  the subject (anomaly, site, or
-  organization) at the file's last update.
-  **DESIGNATION HISTORY**: records every designation the subject has carried, in order — for
-  example
-  a file noting it
-  was opened as UFD and verified as AFD, or a GOI record noting a
-  retained registry designation. When a designation
-  changes, the history line is how the archive keeps the subject identifiable across its
-  own name changes.
+**Archive Status** (on the file header): **Active** — the file is in current operational
+use; **Active Restricted
+Record** — active but distribution-limited; **Archived** — retired from active use; **Sealed** — closed
+by authority
+and not to be opened without higher clearance. **FILE STATUS** (in metadata): **Active /
+Restricted / Sealed** follow
+the same meaning as above; other file-status values appear in context (Under Review, Dormant).
+**RECORD CONDITION**:
+describes the record's own completeness — **Draft / Operational / Archived** are the standard
+metadata values on
+controlled forms, with operational meaning: Draft = not yet authoritative, Operational = authoritative in
+current use,
+Archived = preserved for history. **CURRENT STATUS** (on anomaly and registry files): Active /
+Dormant / Fragmented /
+Contained / Sealed / Unknown / Under Expansion / Compromised / Archived — the
+value states the live condition of the
+subject (anomaly, site, or organization) at the file's last update. **DESIGNATION HISTORY**: records every
+designation
+the subject has carried, in order — for example a file noting it was
+opened as UFD and verified as AFD, or a GOI
+record noting a retained registry designation. When a designation changes, the history line is
+how the archive keeps
+the subject identifiable across its own name changes.
 
 ### I-15 Anomaly Hazard Tag Index
 
@@ -1691,8 +1657,8 @@ The designation structure is **GOI-XX-X-XXX**:
 - **GOI** — Group of Interest;
   the first **XX** — the **Nature Class code** (what kind of group it
   is);
-- the second **X** — the **Alignment Class marker** (its broad relationship to A.C.T);
-- the **XXX** — the **numerical registry code**.
+— the second **X** — the **Alignment Class marker** (its broad relationship to A.C.T);
+— the **XXX** — the **numerical registry code**.
 
 **Reading example.** `GOI-ML-X-050` — Militant nature, Negative alignment, registry 050 (Liberty Freedoms).
 `GOI-GV-P-001` — Government nature, Positive alignment, registry 001 (GAA).
@@ -1765,9 +1731,9 @@ Alignment Class records the GOI's broad relationship to A.C.T. Recognized marker
   **N — Neutral** — neither aligned against nor with A.C.T; its purposes simply
   do
   not center on the Facility.
-- **P — Positive** — aligned with A.C.T or actively cooperative in intent.
-- **X — Negative** — hostile or opposed to A.C.T.
-- **U — Unknown** — the relationship cannot yet be assessed.
+— **P — Positive** — aligned with A.C.T or actively cooperative in intent.
+— **X — Negative** — hostile or opposed to A.C.T.
+— **U — Unknown** — the relationship cannot yet be assessed.
   **T — Trade** — the relationship is transactional; the group trades with the
   anomalous
   world or with A.C.T.
@@ -1823,7 +1789,7 @@ values:
   handles
   them — without necessarily
   understanding them.
-- **PRACTITIONER** — the group works with anomalies through practice, ritual, or trained method.
+— **PRACTITIONER** — the group works with anomalies through practice, ritual, or trained method.
   **ENGINEERING** — the group can build, adapt, or deploy technical systems for direct
   interaction
   with anomalies.
@@ -1866,7 +1832,7 @@ Secrecy Risk measures how dangerous the GOI is to the masquerade of normal life:
   **EXPOSURE-ACTIVE** — exposure is a method: the group deliberately produces public evidence of
   the
   concealed world.
-- **NORMALCY-BREACHING** — the group's existence or success would break the masquerade at scale.
+— **NORMALCY-BREACHING** — the group's existence or success would break the masquerade at scale.
 
 ### II-9 A.C.T Posture
 
@@ -1975,7 +1941,7 @@ A site's own file states its type:
   **Relay Site** — a support node used for transfer, archive routing, witness handling,
   or
   covert logistical continuity.
-- **Black Site** — an unacknowledged installation whose existence is itself classified.
+— **Black Site** — an unacknowledged installation whose existence is itself classified.
 
 **Do not confuse with.** Site Type is about command class; Site Type is not
 the same field as a site's codename,

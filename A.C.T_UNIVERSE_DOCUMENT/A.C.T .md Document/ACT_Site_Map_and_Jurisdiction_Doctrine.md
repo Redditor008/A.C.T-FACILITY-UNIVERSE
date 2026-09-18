@@ -114,33 +114,29 @@ sub-sites.
 ## 5. Major Jurisdiction Anchors
 
 ### 5.1 ACT-SITE-01-US-W — Redwood Veil Complex
-**Jurisdiction Type:** Urban, artifact, western continental, high-population concealment  
-**Primary Responsibility:** Western United States anomaly events, Pacific-linked covert routing, artifact recovery,
-black-market interception
-**Support Logic:** Receives overflow from nearby relay and witness-processing sub-sites  
+**Jurisdiction Type:** Urban, artifact, western continental, high-population concealment **Primary Responsibility:**
+Western United States anomaly events, Pacific-linked covert routing, artifact recovery, black-market interception
+**Support Logic:** Receives overflow from nearby relay and witness-processing sub-sites
 
 ### 5.2 ACT-SITE-02-RU-N — White Grave Station
-**Jurisdiction Type:** Arctic, cryogenic, biological isolation, deep freeze containment  
-**Primary Responsibility:** Northern Russia, arctic anomalies, cold-environment suppressive housing, remote black
-containment support
-**Support Logic:** Uses frost quarantine sub-sites for overflow and transfer staging  
+**Jurisdiction Type:** Arctic, cryogenic, biological isolation, deep freeze containment **Primary Responsibility:**
+Northern Russia, arctic anomalies, cold-environment suppressive housing, remote black containment support **Support
+Logic:** Uses frost quarantine sub-sites for overflow and transfer staging
 
 ### 5.3 ACT-SITE-03-JP-E — Kurokawa Archive Node
-**Jurisdiction Type:** Memetic, informational, urban data-density zone  
-**Primary Responsibility:** Eastern Japan, signal-borne anomaly control, memetic quarantine, archive-sensitive
-suppression
-**Support Logic:** Supported by document quarantine and minor infohazard sub-sites  
+**Jurisdiction Type:** Memetic, informational, urban data-density zone **Primary Responsibility:** Eastern Japan,
+signal-borne anomaly control, memetic quarantine, archive-sensitive suppression **Support Logic:** Supported by
+document quarantine and minor infohazard sub-sites
 
 ### 5.4 ACT-SITE-04-BR-C — Verde Null Bio-Reserve
-**Jurisdiction Type:** Biological, wilderness, flora/fauna enclosure, fixed-place monitoring  
-**Primary Responsibility:** Central South American biological anomalies and in-place environmental containment fields
-**Support Logic:** Supported by perimeter-based flora sub-sites and field enclosures  
+**Jurisdiction Type:** Biological, wilderness, flora/fauna enclosure, fixed-place monitoring **Primary
+Responsibility:** Central South American biological anomalies and in-place environmental containment fields **Support
+Logic:** Supported by perimeter-based flora sub-sites and field enclosures
 
 ### 5.5 ACT-SITE-05-ID-C — Nusantara Deep Relay
-**Jurisdiction Type:** Maritime, seismic, volcanic, island anomaly routing  
-**Primary Responsibility:** Indonesian archipelago anomaly response, undersea irregularities, tectonic anomaly events,
-island transfer chains
-**Support Logic:** Supported by coastal watchpoints and near-shore intake relays  
+**Jurisdiction Type:** Maritime, seismic, volcanic, island anomaly routing **Primary Responsibility:** Indonesian
+archipelago anomaly response, undersea irregularities, tectonic anomaly events, island transfer chains **Support
+Logic:** Supported by coastal watchpoints and near-shore intake relays
 
 ---
 
@@ -200,8 +196,9 @@ Sites are positioned according to:
 - where black budgets can safely disappear into infrastructure
 - where buried things beneath reality require observation
 
-In this sense, the site map is not a map of territory.
-It is a map of **risk, pressure, and survivable hidden control**.
+In this sense, the site map is not a map of territory. It is
+a map of **risk, pressure, and survivable hidden
+control**.
 
 ---
 
@@ -263,11 +260,10 @@ Central review for document-borne hazard beyond local containment
 ---
 
 ## 12. Final Map Doctrine Statement
-  A.C.T site-map doctrine exists to assign hidden territorial responsibility to the impossible. The
-  global
-  network of
-  SITES and SUB-SITES is not a simple geographical spread, but a strategic containment lattice
-  built around anomaly
-  pressure, secrecy burden, recovery speed, and survivable control. A jurisdiction is not merely where
-  the Facility
-  stands. It is where the Facility is responsible when reality begins to fail.
+A.C.T site-map doctrine exists to assign hidden territorial responsibility to the impossible. The global
+network of
+SITES and SUB-SITES is not a simple geographical spread, but a strategic containment lattice
+built around anomaly
+pressure, secrecy burden, recovery speed, and survivable control. A jurisdiction is not merely where
+the Facility
+stands. It is where the Facility is responsible when reality begins to fail.

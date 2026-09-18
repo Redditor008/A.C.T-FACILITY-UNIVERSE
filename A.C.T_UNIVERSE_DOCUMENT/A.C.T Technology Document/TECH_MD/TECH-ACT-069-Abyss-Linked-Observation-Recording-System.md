@@ -198,10 +198,10 @@ containment.
 - ACT-SITE-05-ID-C Nusantara Deep Relay Site Dossier;
 - ACT-SITE-05-ID-C-F-1 The Deep Listening Vault Floor Dossier;
 - ACT-SITE-05-ID-C-F-2 Deep Monitoring and Restricted Records Floor Dossier;
-- TECH-ACT-003 - Quantum Narrative Buffer System;
-- TECH-ACT-067 - Deep-Earth Sensor Arrays;
-- TECH-ACT-068 - Sensor Nexus Signal Processing Architecture;
-- TECH-ACT-058 - F-1 Closure System;
+- TECH-ACT-003 — Quantum Narrative Buffer System;
+- TECH-ACT-067 — Deep-Earth Sensor Arrays;
+- TECH-ACT-068 — Sensor Nexus Signal Processing Architecture;
+- TECH-ACT-058 — F-1 Closure System;
 - Nusantara abyss-linked record packages [restricted].
 
 ---
@@ -219,9 +219,8 @@ containment.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15
-**Author Desk:** Central Archive / Restricted Review Chain / Nusantara Deep Relay
-**Review Status:** Active restricted observation record; route gates, access identities, correlation keys, and live
-abyss-linked packages censored
-**Next Review:** After any unauthorized circulation, correlation dispute, F-1 closure event, QNB disagreement,
-analyst-note exposure, or restricted review release
+**Created:** 2026-09-15 **Author Desk:** Central Archive / Restricted Review Chain / Nusantara Deep Relay
+**Review
+Status:** Active restricted observation record; route gates, access identities, correlation keys, and live
+abyss-linked packages censored **Next Review:** After any unauthorized circulation, correlation dispute, F-1 closure
+event, QNB disagreement, analyst-note exposure, or restricted review release

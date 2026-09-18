@@ -1,10 +1,10 @@
 # A.C.T FACILITY ARCHIVE FILE
 ## ACCESS AND EGRESS LEDGER FORM
 
-Archive Status: Active Working Form  
+Archive Status: Active Working Form
 Distribution: Security Division / Recovery Division / Containment Division / Archiver Division / Site
 Command
-Authority: Security Division, Site Command, and Central Archive  
+Authority: Security Division, Site Command, and Central Archive
 
 ### Archive Note
 This form records controlled movement through A.C.T sites, sub-sites, containment zones, field perimeters, anomaly

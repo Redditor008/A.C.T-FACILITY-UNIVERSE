@@ -181,10 +181,10 @@ F-9's plan is organized around boundary and transition functions:
 - the vehicle screening bay, where surface vehicles are inspected;
 - the delivery intake and loading bays, where shipments are received and
   processed;
-- the primary elevator bank, connecting the floor to the levels below;
-- the transition corridors, through which personnel and material move
+— the primary elevator bank, connecting the floor to the levels below;
+— the transition corridors, through which personnel and material move
   between the surface and the buried core;
-- the boundary control post and support services.
+— the boundary control post and support services.
 
 7.2 The Vehicle Screening Bay
 

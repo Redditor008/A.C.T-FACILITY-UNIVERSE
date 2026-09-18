@@ -178,10 +178,10 @@ MSPOS doctrine holds that dual use survives only when both uses are disciplined.
 
 - ACT-SITE-05-ID-C-F-6 Surface Research and Transition Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-3 Maritime and Island Holding Level Floor Dossier;
-- TECH-ACT-066 - Maritime Platform Containment Infrastructure;
-- TECH-ACT-064 - Water-Capable Containment Chambers;
-- TECH-ACT-080 - Concealed Transition Access Architecture;
-- TECH-ACT-079 - Surface Cover Research Campus;
+- TECH-ACT-066 — Maritime Platform Containment Infrastructure;
+- TECH-ACT-064 — Water-Capable Containment Chambers;
+- TECH-ACT-080 — Concealed Transition Access Architecture;
+- TECH-ACT-079 — Surface Cover Research Campus;
 - Nusantara port operation ledgers [restricted].
 
 ---
@@ -192,20 +192,18 @@ MSPOS doctrine holds that dual use survives only when both uses are disciplined.
   Should all submersible support remain inside restricted berths, or can ordinary repair explain
   some
   work?
-- Can a civilian vessel witness a concealed offload without understanding what it saw?
+— Can a civilian vessel witness a concealed offload without understanding what it saw?
   When does port delay justify moving containment to the vessel instead of the
   facility?
-- Should public research schedules ever be altered to cover urgent recovery?
-- How long can a dual-use port remain believable during repeated maritime incidents?
+— Should public research schedules ever be altered to cover urgent recovery?
+— How long can a dual-use port remain believable during repeated maritime incidents?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15
-**Author Desk:** Port Operations / Maritime Recovery Command / Central Archive
-**Review Status:** Active port separation record; vessel identities, berth maps, public partners, and offload
-routes
+**Created:** 2026-09-15 **Author Desk:** Port Operations / Maritime Recovery Command / Central Archive **Review
+Status:** Active port separation record; vessel identities, berth maps, public partners, and offload routes
 censored
 **Next Review:** After any schedule collision, concealed offload, civilian sightline event, water-capable handoff
 failure, vessel damage, or harbor exposure incident

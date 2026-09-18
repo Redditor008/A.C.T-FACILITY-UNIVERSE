@@ -187,9 +187,9 @@ history.
 
 - ACT-SITE-05-ID-C-F-4 Laboratory and Research Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-3 Maritime and Island Holding Level Floor Dossier;
-- TECH-ACT-064 - Water-Capable Containment Chambers;
-- TECH-ACT-065 - Pressure-Rated Environmental Transition System;
-- TECH-ACT-037 - Sub-Abyssal Sonar;
+- TECH-ACT-064 — Water-Capable Containment Chambers;
+- TECH-ACT-065 — Pressure-Rated Environmental Transition System;
+- TECH-ACT-037 — Sub-Abyssal Sonar;
 - Death Angler, AFD-NB-964;
 - Nusantara marine sample ledgers [restricted].
 
@@ -208,9 +208,9 @@ history.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15
-**Author Desk:** Research Division / Floor Research Chief / Central Archive
-**Review Status:** Active laboratory-suite record; live specimen protocols and resident-specific formulas censored
-**Next Review:** After any sample escape, biological exposure, F-3 regimen change, Sonar Void specimen
-finding,
-drainage alarm, or live-resident study event
+**Created:** 2026-09-15 **Author Desk:** Research Division / Floor Research Chief / Central Archive **Review
+Status:**
+Active laboratory-suite record; live specimen protocols and resident-specific formulas censored **Next Review:** After
+any sample escape, biological exposure, F-3 regimen change, Sonar Void specimen finding, drainage alarm,
+or
+live-resident study event

@@ -181,13 +181,13 @@ OPEN QUESTIONS
 
 - Can a record be contained if the first version entered the archive already
 lied?
-- When does retrieval create a new containment event by making a forgotten fact
+— When does retrieval create a new containment event by making a forgotten fact
 active again?
-- How much access-history detail may be visible before the log becomes a restricted
+— How much access-history detail may be visible before the log becomes a restricted
 record?
-- Should every denied retrieval be reviewed for curiosity risk?
-- Can QNB-hardening preserve institutional memory too well when command needs forgetting?
-- If a record changes and no one can prove when, is the archive
+— Should every denied retrieval be reviewed for curiosity risk?
+— Can QNB-hardening preserve institutional memory too well when command needs forgetting?
+— If a record changes and no one can prove when, is the archive
 damaged or corrected?
 
 FILE METADATA

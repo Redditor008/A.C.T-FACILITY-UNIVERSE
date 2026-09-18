@@ -201,12 +201,12 @@ OPEN QUESTIONS
 
 - How long can a containment state last before it becomes the resident's entire
 known identity?
-- Can a sleep-state monitor disturb the sleep by defining what counts as waking?
-- Should closure authority ever consider personnel survival before upward-route denial?
-- How much research should be permitted when research may be the first step
+— Can a sleep-state monitor disturb the sleep by defining what counts as waking?
+— Should closure authority ever consider personnel survival before upward-route denial?
+— How much research should be permitted when research may be the first step
 toward waking?
-- Can a vault built for indefinite custody still support a future rescue?
-- Is the Long Sleep a mercy, a sentence, or the only shape containment
+— Can a vault built for indefinite custody still support a future rescue?
+— Is the Long Sleep a mercy, a sentence, or the only shape containment
 can take for some residents?
 
 FILE METADATA

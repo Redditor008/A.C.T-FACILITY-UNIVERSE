@@ -181,9 +181,9 @@ that can answer it.
 - ACT-SUB-05-ID-C Ash Tide Watchpoint Sub-Site Dossier;
 - ACT-SUB-05-ID-C-F-2 Operations and Watch Level Floor Dossier;
 - ACT-SUB-05-ID-C-F-1 Emergency Intake and Secure Storage Floor Dossier;
-- TECH-ACT-082 - Emergency Intake and Secure Storage System;
-- TECH-ACT-076 - Command Communications Nexus;
-- TECH-ACT-081 - Maritime Separation Port Operations System;
+- TECH-ACT-082 — Emergency Intake and Secure Storage System;
+- TECH-ACT-076 — Command Communications Nexus;
+- TECH-ACT-081 — Maritime Separation Port Operations System;
 - Ash Tide watch logs [restricted].
 
 ---
@@ -201,9 +201,10 @@ that can answer it.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15
-**Author Desk:** Watch Officer / Watch Chief / Central Archive
-**Review Status:** Active coastal watch record; live corridor maps, watch schedules, and escalation thresholds
-censored
-**Next Review:** After any missed arrival, false report, delayed escalation, unauthorized staging action, instrument
-blind spot, or coastal anomaly cluster
+**Created:** 2026-09-15 **Author Desk:** Watch Officer / Watch Chief / Central Archive **Review Status:**
+Active
+coastal watch record; live corridor maps, watch schedules, and escalation thresholds censored **Next Review:**
+After
+any missed arrival, false report, delayed escalation, unauthorized staging action, instrument blind spot, or
+coastal
+anomaly cluster

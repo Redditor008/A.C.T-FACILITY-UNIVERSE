@@ -143,11 +143,11 @@ A.C.T assessment identifies these functional layers:
   offering clerks who prepare food, water, smoke, silence, heat, apology, music, or other
   required
   tending conditions;
-- procession guards who protect movement routes and prevent spectators from touching covered carts;
-- shrine nurses who treat handlers, witnesses, and civilians affected by relic contact;
-- quiet auditors who inspect museums, estates, churches, and private collections for mistended relics;
-- child attendants whose role is restricted and not fully understood by A.C.T;
-- closed-room singers who maintain low-volume rites near objects that react to naming.
+— procession guards who protect movement routes and prevent spectators from touching covered carts;
+— shrine nurses who treat handlers, witnesses, and civilians affected by relic contact;
+— quiet auditors who inspect museums, estates, churches, and private collections for mistended relics;
+— child attendants whose role is restricted and not fully understood by A.C.T;
+— closed-room singers who maintain low-volume rites near objects that react to naming.
 
 This structure makes the Keepers a real GOI rather than an incidental caretaker community.
 
@@ -447,10 +447,10 @@ sequence data.
   Keepers of the Ninth Reliquary is an outside cultic relic-custody order and not
   an
   A.C.T body.
-- The order maintains reliquary rooms, ledgers, offerings, processions, and trained handlers.
-- Several Keeper practices have reduced hazardous relic activity during A.C.T cases.
-- The order withholds complete inventory, active site locations, and the Ninth Custodian's identity.
-- The order can obstruct A.C.T recovery when it believes seizure violates tending conditions.
+— The order maintains reliquary rooms, ledgers, offerings, processions, and trained handlers.
+— Several Keeper practices have reduced hazardous relic activity during A.C.T cases.
+— The order withholds complete inventory, active site locations, and the Ninth Custodian's identity.
+— The order can obstruct A.C.T recovery when it believes seizure violates tending conditions.
 
 ### Active Intelligence Assessment
 
@@ -474,15 +474,15 @@ may appear in the same relic dispute, but they are not the same institution.
   sequence,
   rank, catastrophe, or missing
   archive?
-- Is the Ninth Custodian a person, relic, office, room, or rotating condition?
-- Which offering practices are symbolically useful, and which produce measurable anomalous suppression?
-- How many child attendants exist, and what protections govern their participation?
+— Is the Ninth Custodian a person, relic, office, room, or rotating condition?
+— Which offering practices are symbolically useful, and which produce measurable anomalous suppression?
+— How many child attendants exist, and what protections govern their participation?
   Has the order ever allowed a relic to harm an owner in order
   to
   preserve broader dormancy?
-- Do any Keeper ledgers contain object histories predating A.C.T's earliest custody records?
-- Are market GOIs attempting to infiltrate reliquary sites for inventory intelligence?
-- Can A.C.T reproduce a Keeper tending condition without a trained Keeper present?
+— Do any Keeper ledgers contain object histories predating A.C.T's earliest custody records?
+— Are market GOIs attempting to infiltrate reliquary sites for inventory intelligence?
+— Can A.C.T reproduce a Keeper tending condition without a trained Keeper present?
 
 ### Intelligence Confidence
 

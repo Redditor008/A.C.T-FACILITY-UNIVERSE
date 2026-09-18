@@ -2,7 +2,7 @@ A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 Dread-EYE-Experiment-Testing-Dossier-AFD-ME-018
 
 ═══════════════════════════════════════════════════════════════════════
-             A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER             
+             A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
 ═══════════════════════════════════════════════════════════════════════
 
@@ -23,7 +23,7 @@ ARCHIVE STATUS:      Active / memetic hazard restricted
 DOSSIER STATUS:      Open — segmented-format testing only
 
 ═══════════════════════════════════════════════════════════════════════
-                           CATEGORY CONTENTS                           
+                           CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
 This dossier belongs to A.C.T Log Category IV — Experiment & Testing Dossier.
@@ -51,7 +51,7 @@ which visual degradations weaken it, and improve the recovery protocol that
 follows every accidental exposure.
 
 ═══════════════════════════════════════════════════════════════════════
-              SECTION 001 — EXPOSURE-STAGE MAPPING TRIAL               
+              SECTION 001 — EXPOSURE-STAGE MAPPING TRIAL
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-ME-018/EXP-001
@@ -80,7 +80,7 @@ EXPOSURE STAGES:
      shapes, dream recurrence
 
 ═══════════════════════════════════════════════════════════════════════
-      SECTION 002 — MEDIUM-PERSISTENCE AND FRAGMENTATION TESTING       
+      SECTION 002 — MEDIUM-PERSISTENCE AND FRAGMENTATION TESTING
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-ME-018/EXP-002
@@ -102,11 +102,11 @@ STORAGE DISCIPLINE CONFIRMED:
    - Physical copies: opaque envelopes marked with nonvisual archive codes
    - Digital copies: separated image layers that cannot render the complete
      symbol without Level 3 authorization
-   - Accidental reproductions: covered first, photographed for archive
+   — Accidental reproductions: covered first, photographed for archive
      confirmation, then destroyed or segmented
 
 ═══════════════════════════════════════════════════════════════════════
-                  SECTION 003 — PUPIL-ANCHOR TESTING                   
+                  SECTION 003 — PUPIL-ANCHOR TESTING
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-ME-018/EXP-003
@@ -126,7 +126,7 @@ recognition frame. Containment segmentation therefore prioritizes separating
 the pupil from its frame in every stored instance.
 
 ═══════════════════════════════════════════════════════════════════════
-               SECTION 004 — ORIGIN-TRACE ARCHIVE REVIEW               
+               SECTION 004 — ORIGIN-TRACE ARCHIVE REVIEW
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-ME-018/EXP-004
@@ -147,7 +147,7 @@ anomaly's nature — a symbol that installs itself in peripheral vision and
 documentation margins may also install itself in memory's margins.
 
 ═══════════════════════════════════════════════════════════════════════
-          SECTION 005 — RESPONSE AND RECOVERY PROTOCOL REVIEW          
+          SECTION 005 — RESPONSE AND RECOVERY PROTOCOL REVIEW
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-ME-018/EXP-005
@@ -167,7 +167,7 @@ One affected subject described the exposure as: "It was not looking at me. It
 was looking past me, and then I understood why it was scared."
 
 ═══════════════════════════════════════════════════════════════════════
-     SECTION 006 — DOCUMENTATION-SAFETY INCIDENT AND CLOSING NOTE      
+     SECTION 006 — DOCUMENTATION-SAFETY INCIDENT AND CLOSING NOTE
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-ME-018/EXP-CLS-001

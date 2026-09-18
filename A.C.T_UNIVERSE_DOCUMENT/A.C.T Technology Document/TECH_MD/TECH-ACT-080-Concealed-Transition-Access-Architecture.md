@@ -176,9 +176,9 @@ threshold.
 
 - ACT-SITE-05-ID-C-F-6 Surface Research and Transition Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-5 Personnel and Command Level Floor Dossier;
-- TECH-ACT-079 - Surface Cover Research Campus;
-- TECH-ACT-077 - Internal Logistics Coordination Center;
-- TECH-ACT-015 - Static Pulse Biometric ID;
+- TECH-ACT-079 — Surface Cover Research Campus;
+- TECH-ACT-077 — Internal Logistics Coordination Center;
+- TECH-ACT-015 — Static Pulse Biometric ID;
 - Nusantara transition ledgers [restricted].
 
 ---
@@ -196,9 +196,8 @@ threshold.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15
-**Author Desk:** Campus Boundary Desk / Security Division / Central Archive
-**Review Status:** Active concealed-transition record; live route maps, masks, identity checks, and emergency seals
-censored
-**Next Review:** After any unlogged descent, contractor approach, surface exposure event, emergency seal, cargo-route
+**Created:** 2026-09-15 **Author Desk:** Campus Boundary Desk / Security Division / Central Archive **Review
+Status:**
+Active concealed-transition record; live route maps, masks, identity checks, and emergency seals censored **Next
+Review:** After any unlogged descent, contractor approach, surface exposure event, emergency seal, cargo-route
 mismatch, or F-5 handoff failure

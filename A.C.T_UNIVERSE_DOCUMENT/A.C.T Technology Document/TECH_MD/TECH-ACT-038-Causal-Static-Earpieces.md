@@ -215,10 +215,10 @@ back.
 - ACT Technological Master Index 50, Item 38;
 - ACT Technological Visual Reference Guide, Item 38;
 - The Refracted One, AFD-?.H-404;
-- TECH-ACT-005 - Causal Static Generator System;
-- TECH-ACT-012 - Banalist White-Noise Broadcast;
-- TECH-ACT-020 - Regression-Resistant Ink;
-- TECH-ACT-003 - Quantum Narrative Buffer System;
+- TECH-ACT-005 — Causal Static Generator System;
+- TECH-ACT-012 — Banalist White-Noise Broadcast;
+- TECH-ACT-020 — Regression-Resistant Ink;
+- TECH-ACT-003 — Quantum Narrative Buffer System;
 - Narrative Hazard Desk scripted-state training [restricted].
 
 ---
@@ -238,7 +238,8 @@ back.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Narrative Hazard Desk / Field Containment Division / Central Archive  
-**Review Status:** Active field gear record; logic-anchor tuning and static profiles censored  
-**Next Review:** After any scripted-state breach, consensus shift, battery failure, or field removal incident
+**Created:** 2026-09-15 **Author Desk:** Narrative Hazard Desk / Field Containment Division / Central Archive
+**Review
+Status:** Active field gear record; logic-anchor tuning and static profiles censored **Next Review:** After
+any
+scripted-state breach, consensus shift, battery failure, or field removal incident

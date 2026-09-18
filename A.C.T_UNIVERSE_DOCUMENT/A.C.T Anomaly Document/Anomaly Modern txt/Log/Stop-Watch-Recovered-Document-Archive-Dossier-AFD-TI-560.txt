@@ -2,7 +2,7 @@ A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER
 Stop-Watch-Recovered-Document-Archive-Dossier-AFD-TI-560
 
 ═══════════════════════════════════════════════════════════════════════
-         A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER         
+         A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER
                      Anomaly Containment Transformation
 ═══════════════════════════════════════════════════════════════════════
 
@@ -23,7 +23,7 @@ ARCHIVE STATUS:      Active / O5-restricted
 DOSSIER STATUS:      Open — activation record retained
 
 ═══════════════════════════════════════════════════════════════════════
-                           CATEGORY CONTENTS                           
+                           CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
 This dossier belongs to A.C.T Log Category VII — Recovered Document & Archive
@@ -50,7 +50,7 @@ activation, the recovered engraving, and the testimony of the senior
 researcher authorized to carry it.
 
 ═══════════════════════════════════════════════════════════════════════
-               SECTION 001 — ACCESS AND HANDLING ARCHIVE               
+               SECTION 001 — ACCESS AND HANDLING ARCHIVE
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-TI-560/ARC-001
@@ -63,9 +63,9 @@ ACCESS RECORD:
 
    - Only O5-approved personnel or Senior Researcher Thorne are authorized
      to handle the subject
-   - The watch is never to be wound or depressed outside "Terminal Emergency"
+   — The watch is never to be wound or depressed outside "Terminal Emergency"
      protocols
-   - The vault is equipped with an active RSA (Item 01) set to a
+   — The vault is equipped with an active RSA (Item 01) set to a
    "Misfire
      Frequency," ensuring any unauthorized attempt results in an Unsuccessful
      Activation with a reduced recovery window
@@ -75,11 +75,11 @@ HANDLING DISCIPLINE:
    - The position of the second hand is monitored daily via Chrono-Stuttered
      Visors (Item 09) to avoid accidental imprinting by the Causal-Reactive
      Mercury
-   - Required watch: 1 temporal analyst, 1 high-PR guard
-   - Cadence: daily position check
+   — Required watch: 1 temporal analyst, 1 high-PR guard
+   — Cadence: daily position check
 
 ═══════════════════════════════════════════════════════════════════════
-   SECTION 002 — ACTIVATION RECORD — 1999 SITE-01 BREACH PREVENTION    
+   SECTION 002 — ACTIVATION RECORD — 1999 SITE-01 BREACH PREVENTION
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-TI-560/ARC-002
@@ -102,7 +102,7 @@ CONSEQUENCE RECORD:
      regressing counter-clockwise from the 12-mark back to the 12-mark
 
 ═══════════════════════════════════════════════════════════════════════
-  SECTION 003 — ACTIVATION RECORD — BALL OF KNIFE RECOVERY OPERATION   
+  SECTION 003 — ACTIVATION RECORD — BALL OF KNIFE RECOVERY OPERATION
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-TI-560/ARC-003
@@ -121,7 +121,7 @@ Note: no activation is recorded as trivial. The watch is carried as a terminal
 option, not an instrument of convenience.
 
 ═══════════════════════════════════════════════════════════════════════
-       SECTION 004 — RECOVERED INSCRIPTION — BACK-CASE ENGRAVING       
+       SECTION 004 — RECOVERED INSCRIPTION — BACK-CASE ENGRAVING
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-TI-560/ARC-004
@@ -143,7 +143,7 @@ maker, its victim, or its keeper is not established. The archive retains the
 translation without assigning a story to it.
 
 ═══════════════════════════════════════════════════════════════════════
-          SECTION 005 — OPERATOR TESTIMONY — DR. ARIS THORNE           
+          SECTION 005 — OPERATOR TESTIMONY — DR. ARIS THORNE
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-TI-560/ARC-005
@@ -167,7 +167,7 @@ cost of the watch — and because the warning comes from the one person
 authorized to carry it.
 
 ═══════════════════════════════════════════════════════════════════════
-                  SECTION 006 — ARCHIVE CLOSING NOTE                   
+                  SECTION 006 — ARCHIVE CLOSING NOTE
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-TI-560/ARC-CLS-001

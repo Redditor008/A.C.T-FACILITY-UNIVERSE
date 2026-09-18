@@ -431,16 +431,16 @@ END OF DAYS 26–28
 APPENDIX: Transformed A.C.T. Anomalies
 
 O-02-212 — The Embrace That Doesn't Know When To Stop
-- Original: AFD-NB-018 — Slime Love
-- Risk Level: HE
-- Attack Type: WHITE (3–5) / BLACK (2–4)
-- E-Boxes: 16
-- Qliphoth Counter: 2
-- Alternate Preferences: OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)
-- Memento: *"It only wanted to hold someone. It never learned that love can
+— Original: AFD-NB-018 — Slime Love
+— Risk Level: HE
+— Attack Type: WHITE (3–5) / BLACK (2–4)
+— E-Boxes: 16
+— Qliphoth Counter: 2
+— Alternate Preferences: OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)
+— Memento: *"It only wanted to hold someone. It never learned that love can
 be a slow drowning."*
-- ITHYOS Blessing: *"A Mercy I Gifts To You."*
-- Description: A translucent blue slime humanoid that approaches warm-blooded subjects with open arms.
+— ITHYOS Blessing: *"A Mercy I Gifts To You."*
+— Description: A translucent blue slime humanoid that approaches warm-blooded subjects with open arms.
 Its embrace
 induces euphoria and neurochemical bonding; prolonged contact leads to adhesion and absorption. It is
 not malicious —
@@ -449,16 +449,16 @@ Responsive to INTENT work when the subject
 declares a boundary.
 
 O-05-213 — Dead Ringer
-- Original: AFD-OB-022 — The Bell That Refuses To Let You Stay Buried
-- Risk Level: WAW
-- Attack Type: WHITE (4–6) / PALE (2–3)
-- E-Boxes: 22
-- Qliphoth Counter: 1
-- Alternate Preferences: OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)
-- Memento: *"It rang for every death. And every death came back to ask
+— Original: AFD-OB-022 — The Bell That Refuses To Let You Stay Buried
+— Risk Level: WAW
+— Attack Type: WHITE (4–6) / PALE (2–3)
+— E-Boxes: 22
+— Qliphoth Counter: 1
+— Alternate Preferences: OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)
+— Memento: *"It rang for every death. And every death came back to ask
 why we buried them."*
-- ITHYOS Blessing: *"A Mercy I Gifts To You."*
-- Description: A bronze bell mounted in a chapel-like cell. It rings autonomously at
+— ITHYOS Blessing: *"A Mercy I Gifts To You."*
+— Description: A bronze bell mounted in a chapel-like cell. It rings autonomously at
 the moment of any death within 50
 meters, producing a perfect duplicate of the deceased. The duplicate believes it is alive,
 has no vital functions, and
@@ -467,16 +467,16 @@ Well's translation). Duplicates must be
 returned to the bell cell for suppression once they reach awareness.
 
 F-01-214 — The Figure That Watches You Not Yet Admit
-- Original: AFD-SU-024 — Self-Inflicted Achromatic
-- Risk Level: WAW
-- Attack Type: WHITE (5–7) / PALE (3–4)
-- E-Boxes: 24
-- Qliphoth Counter: 1
-- Alternate Preferences: OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)
-- Memento: *"The gray waits for the color of confession. When you admit it,
+— Original: AFD-SU-024 — Self-Inflicted Achromatic
+— Risk Level: WAW
+— Attack Type: WHITE (5–7) / PALE (3–4)
+— E-Boxes: 24
+— Qliphoth Counter: 1
+— Alternate Preferences: OBSERVE / INITIATE / INTENT / RESEARCH (Unknown)
+— Memento: *"The gray waits for the color of confession. When you admit it,
 you become the gray."*
-- ITHYOS Blessing: *"A Mercy I Gifts To You."*
-- Description: A grayscale humanoid figure that appears only to individuals who have committed
+— ITHYOS Blessing: *"A Mercy I Gifts To You."*
+— Description: A grayscale humanoid figure that appears only to individuals who have committed
 an unacknowledged act.
 It accumulates color as the person approaches acknowledgment, then swaps places with them, making
 the subject the new

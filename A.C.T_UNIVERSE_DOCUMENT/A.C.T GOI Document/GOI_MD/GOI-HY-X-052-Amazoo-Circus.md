@@ -375,9 +375,9 @@ A.C.T NOTE:   This phrase is restricted from casual quotation around AFD-SU-507.
 
   Amazoo Circus was named as an unregistered anomalous humanoid collective in AFD-SU-507's discovery
   record.
-- A.C.T raided the Circus under Operation BIG TOP and Broken Ring response framing.
-- AFD-SU-507 was recovered from a reinforced iron cage.
-- Grand Master Amazoo, POI-0507, remains uncaptured in the primary anomaly file.
+— A.C.T raided the Circus under Operation BIG TOP and Broken Ring response framing.
+— AFD-SU-507 was recovered from a reinforced iron cage.
+— Grand Master Amazoo, POI-0507, remains uncaptured in the primary anomaly file.
   The subject's trauma triggers include crowds, command posture, loud noise, and memories of
   Grand
   Master Amazoo.
@@ -404,7 +404,7 @@ its full performer inventory was never confirmed.
   What does "The Amazing Gift" originally refer to: claws, partner, curse, stage name,
   or
   augmentation?
-- Who was the person AFD-SU-507 says was "not here"?
+— Who was the person AFD-SU-507 says was "not here"?
   Did the missing partner escape, die, transform, betray her, or get sold to
   another
   act?
@@ -415,34 +415,34 @@ its full performer inventory was never confirmed.
   performer,
   a hallucinated authority, or a role
   played by multiple people?
-- What happened to the two young lions?
+— What happened to the two young lions?
   Were the lions ordinary animals, anomalous entities, transformed children, protective performers, or a
   failed
   act?
-- Why did the lions "not obey" and who led them astray?
+— Why did the lions "not obey" and who led them astray?
   Did Operation BIG TOP interrupt the Circus, or did the Circus allow the
   raid
   to discard unwanted evidence?
-- Why was AFD-SU-507 abandoned instead of moved with the others?
-- How many other cages were present before A.C.T arrived?
-- How many performers were missing by the time the raid began?
-- Did the audience know the suffering was real?
-- Were audience members customers, victims, worshippers, batteries, or witnesses under influence?
-- Was the chant spontaneous cruelty or a controlled performance mechanism?
-- What did the emotional siphoning feed?
+— Why was AFD-SU-507 abandoned instead of moved with the others?
+— How many other cages were present before A.C.T arrived?
+— How many performers were missing by the time the raid began?
+— Did the audience know the suffering was real?
+— Were audience members customers, victims, worshippers, batteries, or witnesses under influence?
+— Was the chant spontaneous cruelty or a controlled performance mechanism?
+— What did the emotional siphoning feed?
   Does the phrase "Time is dead and gone" indicate temporal anomaly, show motto,
   depression,
   or a dead timekeeper act?
-- Why does the show have to go on after time is dead?
+— Why does the show have to go on after time is dead?
   Did Amazoo Circus use real circus routes, or did it appear where grief
   and
   spectacle were already waiting?
   What happened to the Circus's money, tickets, animals, wagons, posters, and cages after
   public
   erasure?
-- Are there other Amazoo survivors misfiled as monsters in local folklore?
-- Has Grand Master Amazoo rebuilt under another name?
-- Would AFD-SU-507 recognize Amazoo's voice, or only the command posture?
+— Are there other Amazoo survivors misfiled as monsters in local folklore?
+— Has Grand Master Amazoo rebuilt under another name?
+— Would AFD-SU-507 recognize Amazoo's voice, or only the command posture?
   Is the Circus trying to reclaim her, silence her, or leave her as
   bait
   for A.C.T?
@@ -468,7 +468,7 @@ Primary cross-reference chain:
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Anomaly Modern txt/Circus-Monster-AFD-SU-507.txt`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Anomaly Modern
   txt/Log/Circus-Monster-Recovered-Diary-Dossier-AFD-SU-507.txt`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Anomaly Modern txt/Log/The-Diary-of-a-Circus-Monster.txt`
+— `A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Anomaly Modern txt/Log/The-Diary-of-a-Circus-Monster.txt`
 
 Amazoo Circus is an organization record. AFD-SU-507 remains a subject anomaly record and survivor-care
 file. Grand

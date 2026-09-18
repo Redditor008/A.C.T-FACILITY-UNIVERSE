@@ -15,7 +15,7 @@ FIELD TYPE:          NB — Non-Natural Bio Hazard
 PRIMARY FILE:        Proto-Thal-AFD-NB-125
 
 DOCUMENT CATEGORY:   CATEGORY V — Exploration & Survey Dossier
-CATEGORY FUNCTION:   Biological survey of the shell-based ecosystem; 
+CATEGORY FUNCTION:   Biological survey of the shell-based ecosystem;
                      Mapping of "Stretched" seafloor geometry.
 
 CLEARANCE REQUIRED:  Level 4 / O5-Restricted
@@ -28,10 +28,10 @@ DOSSIER STATUS:      Open / Biological Census Archived
                          CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
-This dossier contains the logs from **Operation Shell-Gazer**, an 
-unmanned ROV (Remotely Operated Vehicle) survey of the "Submerged 
-Island" located atop the shell of AFD-NB-125. The survey utilized 
-**Sub-Abyssal Sonar (Item 37)** and **Abyssal Anchor Plating (Item 34)** 
+This dossier contains the logs from **Operation Shell-Gazer**, an
+unmanned ROV (Remotely Operated Vehicle) survey of the "Submerged
+Island" located atop the shell of AFD-NB-125. The survey utilized
+**Sub-Abyssal Sonar (Item 37)** and **Abyssal Anchor Plating (Item 34)**
 to withstand the pressure.
 
 INCLUDED LOG TYPES:
@@ -49,51 +49,51 @@ LOG ID:              AFD-NB-125/SRV-01
 DATE:                2012-04-12
 ROV:                 *Nusantara-4* (Heavy-Pressure Variant)
 
-[00:00:00] — ROV Launch. Primary descent toward the Sunda Trench 
+[00:00:00] — ROV Launch. Primary descent toward the Sunda Trench
               seafloor.
-[02:45:00] — DEPTH 8,000m: ROV enters the "Stretched Zone." Sonar 
-              readings indicate a sudden expansion of the trench 
-              walls. The 500m wide trench becomes a 50km wide 
-              "Abyssal Valley." 
-[03:12:00] — VISUAL ACQUISITION: The ROV's floodlights illuminate 
-              a mountain-like ridge of calcified calcium-carbonate. 
-              This is the edge of Proto-Thal's shell. 
+[02:45:00] — DEPTH 8,000m: ROV enters the "Stretched Zone." Sonar
+              readings indicate a sudden expansion of the trench
+              walls. The 500m wide trench becomes a 50km wide
+              "Abyssal Valley."
+[03:12:00] — VISUAL ACQUISITION: The ROV's floodlights illuminate
+              a mountain-like ridge of calcified calcium-carbonate.
+              This is the edge of Proto-Thal's shell.
 
-SURVEYOR (Comms):    "The spatial distortion is stabilizing. We're 
-                      seeing 1:1 geometry now, but the GPS coordinates 
-                      claim we are currently inside solid rock. The 
+SURVEYOR (Comms):    "The spatial distortion is stabilizing. We're
+                      seeing 1:1 geometry now, but the GPS coordinates
+                      claim we are currently inside solid rock. The
                       subject is literally pushing the crust aside."
 
 ═══════════════════════════════════════════════════════════════════════
                  SECTION 002 — THE ABYSSAL GARDEN
 ═══════════════════════════════════════════════════════════════════════
 
-[04:30:00] — ROV moves onto the dorsal shell. The surface is covered in 
-              "Proto-Kel"—long, bioluminescent strands of silicon-based 
-              flora. 
+[04:30:00] — ROV moves onto the dorsal shell. The surface is covered in
+              "Proto-Kel"—long, bioluminescent strands of silicon-based
+              flora.
 
 ECO-LOG:
-   - SPECIES 125-FL-01: "Light-Strands." Non-photosynthetic kelp that 
-     consumes the biological heat radiating from the subject's 
-     exoskeleton. 
-   - SPECIES 125-FA-03: "Abyssal Crabs." Miniature versions of 
-     Proto-Thal (approx. 30 cm) that serve as cleaner-parasites, 
+   - SPECIES 125-FL-01: "Light-Strands." Non-photosynthetic kelp that
+     consumes the biological heat radiating from the subject's
+     exoskeleton.
+   — SPECIES 125-FA-03: "Abyssal Crabs." Miniature versions of
+     Proto-Thal (approx. 30 cm) that serve as cleaner-parasites,
      removing dead tissue from the shell-crevices.
 
-ROV OPERATOR:        "I'm seeing a forest of white tentacles. They're 
-                      waving in the subject's breathing-current. It 
+ROV OPERATOR:        "I'm seeing a forest of white tentacles. They're
+                      waving in the subject's breathing-current. It
                       looks like a garden made of bone."
 
 ═══════════════════════════════════════════════════════════════════════
                SECTION 003 — THE CLAW CALCIFICATION
 ═══════════════════════════════════════════════════════════════════════
 
-[08:14:00] — ROV travels toward the front-left quadrant to inspect the 
+[08:14:00] — ROV travels toward the front-left quadrant to inspect the
               3 km "Resting" claw.
 
-SURVEYOR (Comms):    "The left claw is anchored. It’s fused with the 
-                      trench wall via a 400-meter thick layer of 
-                      volcanic sediment. It hasn't moved in decades. 
+SURVEYOR (Comms):    "The left claw is anchored. It’s fused with the
+                      trench wall via a 400-meter thick layer of
+                      volcanic sediment. It hasn't moved in decades.
                       It's effectively a mountain range now."
 
 ═══════════════════════════════════════════════════════════════════════
@@ -103,22 +103,22 @@ SURVEYOR (Comms):    "The left claw is anchored. It’s fused with the
 [10:45:00] — SUBJECT AGITATION: Acoustic sensors record a low-
               frequency resonance (4 Hz).
 
-ROV OPERATOR:        "We're seeing a current shift. The ROV is losing 
-                      stability. Water is being pulled toward the 
+ROV OPERATOR:        "We're seeing a current shift. The ROV is losing
+                      stability. Water is being pulled toward the
                       subject's mouth-parts. It's... it's a whirlpool."
 
-[10:46:00] — THE EVENT: Proto-Thal initiates a filter-feeding suction. 
-              The ROV *Nusantara-4* is pulled into the primary intake 
-              vortex (Velocity: 80 knots). 
+[10:46:00] — THE EVENT: Proto-Thal initiates a filter-feeding suction.
+              The ROV *Nusantara-4* is pulled into the primary intake
+              vortex (Velocity: 80 knots).
 
-[10:46:12] — AUDIO: A massive, grinding vibration is heard. It is the 
-              "Vibration of Disgust" noted in the main file. 
+[10:46:12] — AUDIO: A massive, grinding vibration is heard. It is the
+              "Vibration of Disgust" noted in the main file.
 
-[10:46:16] — EJECTION: The ROV is expelled at high velocity. The 
-              chassis is crushed, and the camera feed is permanently 
-              severed. 
+[10:46:16] — EJECTION: The ROV is expelled at high velocity. The
+              chassis is crushed, and the camera feed is permanently
+              severed.
 
-[NOTE: The ROV remains were recovered 3 km away. It was found coated in 
+[NOTE: The ROV remains were recovered 3 km away. It was found coated in
 a non-anomalous but highly concentrated plankton-paste.]
 
 ═══════════════════════════════════════════════════════════════════════
@@ -126,8 +126,8 @@ a non-anomalous but highly concentrated plankton-paste.]
 ═══════════════════════════════════════════════════════════════════════
 
 MANDATORY PERSONNEL NOTICE:
-                     The island is a body. 
-                     The garden is a stomach. 
+                     The island is a body.
+                     The garden is a stomach.
                      Maintain the silent distance.
 
 CURRENT DOSSIER STATUS: Open / Ecological Audit Ongoing

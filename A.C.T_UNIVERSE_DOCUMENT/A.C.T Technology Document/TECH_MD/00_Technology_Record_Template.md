@@ -22,23 +22,23 @@
 
 ### Required Sections
 
-1. Archive Note - identify the technology and why it needs its own record.
-2. Function Summary - what the technology does in practical terms.
-   Origin and Custody - who built it, who controls it, who may use
+1. Archive Note — identify the technology and why it needs its own record.
+2. Function Summary — what the technology does in practical terms.
+   Origin and Custody — who built it, who controls it, who may use
    it,
    and what ownership gaps remain.
-4. Physical or System Description - known components, materials, interfaces, signals, labels, and variants.
-5. Operating Procedure - authorized deployment and handling without exposing exploitable full schematics.
-   Known Limits - what it cannot do, when it fails, and what staff
+4. Physical or System Description — known components, materials, interfaces, signals, labels, and variants.
+5. Operating Procedure — authorized deployment and handling without exposing exploitable full schematics.
+   Known Limits — what it cannot do, when it fails, and what staff
    must
    not assume.
-   Failure History - at least one concrete failure, near miss, abuse case, or
+   Failure History — at least one concrete failure, near miss, abuse case, or
    unresolved
    incident.
-8. Division Use - how A.C.T divisions request, review, store, transfer, or deny use.
-9. Cross-References - linked GOI, anomaly, operational, medical, personnel, and incident files.
-10. Open Questions - intelligence and engineering gaps that remain active.
-11. File Metadata - creation date, author desk, status, and review condition.
+8. Division Use — how A.C.T divisions request, review, store, transfer, or deny use.
+9. Cross-References — linked GOI, anomaly, operational, medical, personnel, and incident files.
+10. Open Questions — intelligence and engineering gaps that remain active.
+11. File Metadata — creation date, author desk, status, and review condition.
 
 Technology designations use two numbering rules. A.C.T-origin technology uses one sequential number only:
 TECH-ACT-001, TECH-ACT-002, and onward. GOI-linked technology uses the GOI registry number plus a dash-number

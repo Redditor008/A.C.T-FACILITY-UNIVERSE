@@ -451,10 +451,10 @@ standard document-cleaning attempt.
   The Office for Witness Continuance is an outside government legal authority and not
   an
   A.C.T internal review body.
-- The Office repeatedly challenges A.C.T amnestic, detention, witness, and survivor-record procedures.
+— The Office repeatedly challenges A.C.T amnestic, detention, witness, and survivor-record procedures.
   It possesses tribunals, advocates, protected records, and emergency legal instruments with real operational
   effect.
-- Some Office interventions have preserved evidence and protected witnesses from premature erasure.
+— Some Office interventions have preserved evidence and protected witnesses from premature erasure.
   The Office's active relationship to A.C.T remains negative because it directly obstructs containment
   secrecy
   and
@@ -487,11 +487,11 @@ people by preserving truth in the wrong channel at the wrong time.
   Do some continuance writs resist alteration because of legal procedure, anomalous ink, or
   witness
   memory attachment?
-- Has the Office ever knowingly preserved a cognitohazard as testimony?
+— Has the Office ever knowingly preserved a cognitohazard as testimony?
   Are tribunal chairs aware of the full anomaly details, or do they rule
   through
   procedural symptoms only?
-- How many A.C.T public-cover deaths have been reversed by Office action?
+— How many A.C.T public-cover deaths have been reversed by Office action?
 
 ### Intelligence Confidence
 
@@ -526,9 +526,9 @@ witness statements or memory-aftercare review.
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational
   Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Personnel_Exposure_E_Class_and_Resilience_Doctrine.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Complete_Designation_and_Class_Reference.md`
-- Restricted witness, amnestic, survivor-rights, detention, transformed-person, and public accountability chains held
+— `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Personnel_Exposure_E_Class_and_Resilience_Doctrine.md`
+— `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Complete_Designation_and_Class_Reference.md`
+— Restricted witness, amnestic, survivor-rights, detention, transformed-person, and public accountability chains held
   under Central Archive routing.
 
 ### Dual Filing

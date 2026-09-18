@@ -182,11 +182,11 @@ division's exacting standard.
 F-4's plan is organized around evaluation suites and staging chambers:
 - the intake and assessment suites, where objects arrive from the holding
   floors;
-- the evaluation workshops, where transformation outcomes are assessed;
-- the staging chambers, where approved objects are prepared for study;
-- the authorization and review offices;
-- the floor command post and documentation center;
-- the secure transfer route connecting the floor to the holding levels.
+— the evaluation workshops, where transformation outcomes are assessed;
+— the staging chambers, where approved objects are prepared for study;
+— the authorization and review offices;
+— the floor command post and documentation center;
+— the secure transfer route connecting the floor to the holding levels.
 
 7.2 Evaluation Workshops
 
@@ -357,8 +357,8 @@ F-4 is Active and operating within its designed capacity. Projected
 priorities include:
 - continued evaluation of the complex's holding population against the four
   transformation outcomes;
-- refinement of staging and authorization procedures;
-- coordination with Research on the analysis that informs transformation
+— refinement of staging and authorization procedures;
+— coordination with Research on the analysis that informs transformation
   decisions.
 
 ---

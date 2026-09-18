@@ -27,8 +27,8 @@ TECHNOLOGY RECORD TEMPLATE
 | CLEARANCE REQUIRED         |                                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Template Record  
-Distribution: Technology Archive Staff / File Authors  
+Archive Status: Template Record
+Distribution: Technology Archive Staff / File Authors
 Authority: Central Archive and attached technical division
 
 Required Sections

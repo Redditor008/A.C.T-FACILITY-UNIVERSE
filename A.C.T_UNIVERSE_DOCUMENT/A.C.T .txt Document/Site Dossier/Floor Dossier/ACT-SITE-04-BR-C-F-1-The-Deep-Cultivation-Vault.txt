@@ -284,7 +284,7 @@ F-1 holds the reserve's most sensitive biological material:
 - material too unstable for open enclosure;
 - material too valuable to the cultivation doctrine to be exposed to
   wilderness variables;
-- biological holdings whose containment requires built environments under
+— biological holdings whose containment requires built environments under
   maximum security.
 
 10.3 Holding Note

@@ -213,8 +213,8 @@ wrong.
 - Can a bell remain patient-linked after memory, legal name, or body changes?
   What is the maximum safe staff response time before bell neglect becomes containment
   failure?
-- Has Iron Meridian Authority copied patient bells into punitive restraint systems?
-- Can A.C.T build an equivalent without breaking Mercy Lock trust?
+— Has Iron Meridian Authority copied patient bells into punitive restraint systems?
+— Can A.C.T build an equivalent without breaking Mercy Lock trust?
 
 ### Intelligence Confidence
 

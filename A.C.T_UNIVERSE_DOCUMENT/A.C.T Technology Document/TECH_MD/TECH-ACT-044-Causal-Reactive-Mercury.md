@@ -206,9 +206,9 @@ Standing reminder: if the metal moves before you do, your report is already late
 - ACT Technological Visual Reference Guide, Item 45;
 - Stop-Watch, AFD-TI-560;
 - Stop-Watch Recovered Document Archive Dossier;
-- TECH-ACT-001 - Reality Stabilization Anchor System;
-- TECH-ACT-007 - Static-Pulse Crystal;
-- TECH-ACT-009 - Chrono-Stuttered Visors;
+- TECH-ACT-001 — Reality Stabilization Anchor System;
+- TECH-ACT-007 — Static-Pulse Crystal;
+- TECH-ACT-009 — Chrono-Stuttered Visors;
 - Kurokawa chronometric vault ledgers [restricted].
 
 ---
@@ -226,9 +226,6 @@ Standing reminder: if the metal moves before you do, your report is already late
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Temporal Analysis Desk / Materials Custody / Central Archive  
-**Review Status:** Active temporal-material record; sample quantities and stasis-field geometry censored  
-**Next Review:** After any regression event, upward fall pressure, observer imprint symptom, flask transfer,
-or
-Stop-Watch activation
+**Created:** 2026-09-15 **Author Desk:** Temporal Analysis Desk / Materials Custody / Central Archive **Review
+Status:** Active temporal-material record; sample quantities and stasis-field geometry censored **Next Review:** After
+any regression event, upward fall pressure, observer imprint symptom, flask transfer, or Stop-Watch activation

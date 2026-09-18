@@ -11,7 +11,7 @@ TITLE I:             Music Box of Unending Sadness
 PRIMARY FILE:        Music-Box-of-Unending-Sadness-AFD-OB-311
 
 DOCUMENT CATEGORY:   CATEGORY XI — Audio / Video / Sensor Dossier
-CATEGORY FUNCTION:   Vocal track transcription, emotional resonance 
+CATEGORY FUNCTION:   Vocal track transcription, emotional resonance
                      mapping, and listener-response logging.
 
 CLEARANCE REQUIRED:  Level 2
@@ -20,8 +20,8 @@ CLEARANCE REQUIRED:  Level 2
                          CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
-This dossier contains the verified lyrics of the "Bad Apple" lullaby 
-performed by the subject, along with observations of the emotional 
+This dossier contains the verified lyrics of the "Bad Apple" lullaby
+performed by the subject, along with observations of the emotional
 bleed recorded during playback trials.
 
 INCLUDED LOG TYPES:
@@ -87,15 +87,15 @@ LOG ID:              AFD-OB-311/EMO-001
 SUBJECT:             Researcher Elise Moreau (PR Score: 84)
 
 Observation:
-During the 2018 validation trial, Researcher Moreau was exposed to the 
-full 4-minute playback. 
+During the 2018 validation trial, Researcher Moreau was exposed to the
+full 4-minute playback.
 
 REPORT:
-"At 2 minutes, I stopped taking notes. It wasn't just sadness; it was 
-the feeling of being erased. I looked at my own hands and they looked 
-... paper-thin. When she sang about 'fading to black,' the room light 
-didn't change, but my *memory* of color started to go. I couldn't 
-remember what 'blue' looked like until the song stopped. I felt like 
+"At 2 minutes, I stopped taking notes. It wasn't just sadness; it was
+the feeling of being erased. I looked at my own hands and they looked
+... paper-thin. When she sang about 'fading to black,' the room light
+didn't change, but my *memory* of color started to go. I couldn't
+remember what 'blue' looked like until the song stopped. I felt like
 I was part of the girl on the box, just sitting and waiting to
 vanish."
 
@@ -103,9 +103,9 @@ vanish."
                          DOSSIER CLOSING
 ═══════════════════════════════════════════════════════════════════════
 
-AFD-OB-311 is a potent empathic anchor. The "Bad Apple" track is not a 
-harmless melody but a narrative record of identity-erasure. Further 
-testing is required to determine if the singing voice matches any 
+AFD-OB-311 is a potent empathic anchor. The "Bad Apple" track is not a
+harmless melody but a narrative record of identity-erasure. Further
+testing is required to determine if the singing voice matches any
 known missing personnel from the ERE era.
 
 CURRENT DOSSIER STATUS: Open / Ongoing Audio Analysis

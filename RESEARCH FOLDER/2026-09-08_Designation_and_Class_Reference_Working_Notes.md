@@ -17,33 +17,26 @@ will know the meaning of it" — because previous AI passes either left codes
 bare, shortened their explanations, or
 changed the meanings. This working file is the edit-side record of that instruction:
 
-   The canonical reference (md + txt twin) is the authoritative in-universe document. It
-   never
-   says "draft."
-   This file records, for every code in the reference: whether the meaning is
-   **canon
-   text**, a **canon anchor with
-   working expansion**, or a **working meaning drafted because canon lists the code only**.
-   When the owner revises a meaning, edit the canonical entry **and** the matching
-   row
-   here, then append the change log
-   (section 7).
+The canonical reference (md + txt twin) is the authoritative in-universe document. It never
+says "draft." This file
+records, for every code in the reference: whether the meaning is **canon text**, a
+**canon anchor with working
+expansion**, or a **working meaning drafted because canon lists the code only**. When the
+owner revises a meaning,
+edit the canonical entry **and** the matching row here, then append the change log
+(section 7).
 
 ---
 
 ## 2. Status key used below
 
-  **V** — the meaning in the canonical reference is canon text (verbatim or
-  near-verbatim
-  from the source record).
-  **C+W** — canon provides the core meaning/anchor line; the canonical reference adds working
-  expansion,
-  reading
-  examples, or confusion notes written for this reference.
-  **W** — canon lists the code with no definition; the meaning in the
-  canonical
-  reference is the working interpretation
-  drafted for this pass. Reviewable here.
+**V** — the meaning in the canonical reference is canon text (verbatim or near-verbatim
+from the source record).
+**C+W** — canon provides the core meaning/anchor line; the canonical reference adds working expansion,
+reading
+examples, or confusion notes written for this reference. **W** — canon lists the code
+with no definition; the meaning
+in the canonical reference is the working interpretation drafted for this pass. Reviewable here.
 
 ---
 

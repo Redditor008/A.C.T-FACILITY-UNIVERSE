@@ -186,12 +186,12 @@ F-2's plan is organized around individual vault and box units:
 - the access core;
 - the memetic symbol vaults, holding material under visual-denial
   conditions;
-- the infohazard vaults, holding material under knowledge-restriction
+— the infohazard vaults, holding material under knowledge-restriction
   conditions;
-- the Blind Box wing, whose units deny perception of their contents;
-- the Eye Box wing, whose units discipline perception of their contents;
-- the monitoring and documentation gallery;
-- the floor command post and support services.
+— the Blind Box wing, whose units deny perception of their contents;
+— the Eye Box wing, whose units discipline perception of their contents;
+— the monitoring and documentation gallery;
+— the floor command post and support services.
 
 7.2 Blind Box Units
 

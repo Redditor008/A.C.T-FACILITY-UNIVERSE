@@ -179,7 +179,7 @@ F-6's plan is organized around intake processing functions:
 - the triage staging areas;
 - the cleared-material return route, back to legitimate archival
   processing;
-- the anomalous-material transfer route, downward under controlled
+— the anomalous-material transfer route, downward under controlled
   protocols.
 
 7.2 The Reception Bay
@@ -343,8 +343,8 @@ F-6 is Active and operating within its designed capacity. Projected
 priorities include:
 - continued intake support for the node's collection and transfer
   operations;
-- refinement of screening and triage methodology;
-- coordination with the lower floors on the routing of confirmed anomalous
+— refinement of screening and triage methodology;
+— coordination with the lower floors on the routing of confirmed anomalous
   material.
 
 ---

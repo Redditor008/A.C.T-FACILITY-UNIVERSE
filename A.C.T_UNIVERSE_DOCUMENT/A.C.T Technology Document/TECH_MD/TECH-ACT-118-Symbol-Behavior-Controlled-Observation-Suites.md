@@ -179,9 +179,9 @@ learned to blink for the researcher.
 
 - ACT-SITE-03-JP-E-F-4 Research and Analysis Level Floor Dossier;
 - ACT-SITE-03-JP-E-F-5 Redaction and Controlled-Reading Laboratory Floor Dossier;
-- TECH-ACT-056 - Memetic Filtering Infrastructure;
-- TECH-ACT-063 - Memetic Contamination Treatment Suites;
-- TECH-ACT-119 - Media Propagation Tracking Center System;
+- TECH-ACT-056 — Memetic Filtering Infrastructure;
+- TECH-ACT-063 — Memetic Contamination Treatment Suites;
+- TECH-ACT-119 — Media Propagation Tracking Center System;
 - Dread EYE restriction-set records [restricted].
 
 ---
@@ -194,11 +194,11 @@ learned to blink for the researcher.
   Should skilled pattern analysts be barred from partial-symbol work because they complete forms
   too
   quickly?
-- How much derivative imagery is still the original symbol for containment purposes?
+— How much derivative imagery is still the original symbol for containment purposes?
   Can a failed observation become a new symbol behavior if repeated in the
   same
   way?
-- Should Intelligence receive behavior descriptions if those descriptions may carry activation structure?
+— Should Intelligence receive behavior descriptions if those descriptions may carry activation structure?
   When does refusing to look become insufficient because the symbol has learned the
   refusal
   pattern?
@@ -207,9 +207,9 @@ learned to blink for the researcher.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Symbol Behavior Study Lead / Floor Research Chief / Central Archive
-**Review Status:** Active symbol-study technology record; source images, live restriction sets, observer names, and
-Dread EYE session details censored
-**Next Review:** After any visual exposure incident, derivative propagation, Medical termination, symbol migration,
-unauthorized sketch, or Dread EYE-linked study change
+**Created:** 2026-09-16 **Author Desk:** Symbol Behavior Study Lead / Floor Research Chief / Central
+Archive **Review
+Status:** Active symbol-study technology record; source images, live restriction sets, observer names, and Dread
+EYE
+session details censored **Next Review:** After any visual exposure incident, derivative propagation, Medical
+termination, symbol migration, unauthorized sketch, or Dread EYE-linked study change

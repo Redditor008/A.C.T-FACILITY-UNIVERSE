@@ -193,8 +193,8 @@ redundant service infrastructure:
 - the unstable resident chambers;
 - the redundant infrastructure galleries, carrying duplicated power,
   environmental, and monitoring routes;
-- the engineering and maintenance spaces;
-- the floor command post and support services.
+— the engineering and maintenance spaces;
+— the floor command post and support services.
 
 7.2 Redundant Containment Structures
 
@@ -295,8 +295,8 @@ Annex Register. This dossier does not enumerate the floor's holdings.
 F-2 holds:
 - anomalies of ENTROPIC disposition that degrade containment systems and
   require failure-tolerant infrastructure;
-- unstable residents whose behavior exceeds standard holding capacity;
-- material transferred down from standard holding upon demonstration of
+— unstable residents whose behavior exceeds standard holding capacity;
+— material transferred down from standard holding upon demonstration of
   entropic or destabilizing properties.
 
 10.3 Holding Note

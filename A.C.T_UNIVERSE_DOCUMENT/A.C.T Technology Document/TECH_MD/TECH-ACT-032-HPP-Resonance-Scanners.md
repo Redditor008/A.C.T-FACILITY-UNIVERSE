@@ -211,8 +211,8 @@ to the wrong thing.
 - ACT Technological Visual Reference Guide, Item 19;
 - AFD-OB-412 Soul Pendant containment file;
 - Memorandum SR-T-412, Protocol for Causal Integrity;
-- TECH-ACT-028 - Neural Lacing Type 004-MOD;
-- TECH-ACT-030 - Soul-Stasis Harness;
+- TECH-ACT-028 — Neural Lacing Type 004-MOD;
+- TECH-ACT-030 — Soul-Stasis Harness;
 - Personnel Screening PR-score privacy rules [restricted].
 
 ---
@@ -230,7 +230,6 @@ to the wrong thing.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Personnel Screening Desk / Medical Division / Central Archive  
-**Review Status:** Active screening record; sensor composition and PR-score thresholds censored  
-**Next Review:** After any HPP-triggered activation, assignment override, scan contradiction, or score privacy breach
+**Created:** 2026-09-15 **Author Desk:** Personnel Screening Desk / Medical Division / Central Archive **Review
+Status:** Active screening record; sensor composition and PR-score thresholds censored **Next Review:** After any
+HPP-triggered activation, assignment override, scan contradiction, or score privacy breach

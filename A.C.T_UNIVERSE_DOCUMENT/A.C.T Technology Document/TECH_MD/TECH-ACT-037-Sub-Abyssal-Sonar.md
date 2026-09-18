@@ -217,8 +217,8 @@ emptiness is not staring back.
 - Death Angler, AFD-NB-964;
 - Death Angler recovery, behavioral, and pre-capture survey dossiers;
 - Proto-Thal Island Shell Survey, AFD-NB-125;
-- TECH-ACT-010 - Digital Resonance Sensors;
-- TECH-ACT-034 - Abyssal Anchor Plating;
+- TECH-ACT-010 — Digital Resonance Sensors;
+- TECH-ACT-034 — Abyssal Anchor Plating;
 - Site-05 Nusantara Deep Relay blind-monitoring ledgers [restricted].
 
 ---
@@ -227,11 +227,11 @@ emptiness is not staring back.
 
   Can SAS distinguish a true absence from a subject choosing not to return
   echo?
-- Do repeated low-frequency pings teach blind predators the shape of the monitoring grid?
-- Should every Blind Box include passive SAS before active pinging is allowed?
+— Do repeated low-frequency pings teach blind predators the shape of the monitoring grid?
+— Should every Blind Box include passive SAS before active pinging is allowed?
   Can stretched geometry make a wireframe map accurate and misleading at the same
   time?
-- What acoustic signatures indicate that a mapped organism is listening back?
+— What acoustic signatures indicate that a mapped organism is listening back?
   How much of the sub-abyssal depth rendering should be shown to non-specialist command
   staff?
 
@@ -239,9 +239,7 @@ emptiness is not staring back.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Maritime Observation Desk / Engineering Division / Central Archive  
-**Review Status:** Active field and monitoring record; restricted depth-rendering and false-void algorithms censored  
-**Next Review:** After any blind-predator breach, lost ROV transmission, spike drift event, or false-void
-mapping
+**Created:** 2026-09-15 **Author Desk:** Maritime Observation Desk / Engineering Division / Central Archive **Review
+Status:** Active field and monitoring record; restricted depth-rendering and false-void algorithms censored **Next
+Review:** After any blind-predator breach, lost ROV transmission, spike drift event, or false-void mapping
 failure

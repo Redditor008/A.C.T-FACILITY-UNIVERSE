@@ -1,9 +1,9 @@
 A.C.T FACILITY ARCHIVE FILE
 Divisions, Personnel Roles, and Operational Life
 
-Archive Status: Active  
-Distribution: Internal  
-Authority: Administration, Archive, and Division Review  
+Archive Status: Active
+Distribution: Internal
+Authority: Administration, Archive, and Division Review
 
 Archive Note
 This file is the complete internal archive version of the Facility's divisions, personnel systems,
@@ -380,7 +380,7 @@ Daily life inside A.C.T varies by division, but several constants remain:
 - every action is logged somewhere
 - every staff member knows less than they want to know and more than
 they should know
-- every shift assumes the impossible may become physical
+— every shift assumes the impossible may become physical
 
 A normal day may include:
 - containment review

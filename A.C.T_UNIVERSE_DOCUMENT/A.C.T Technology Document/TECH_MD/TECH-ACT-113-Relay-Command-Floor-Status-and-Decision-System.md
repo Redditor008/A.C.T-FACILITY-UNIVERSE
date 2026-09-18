@@ -192,10 +192,10 @@ loudest alarm.
 
 - ACT-SITE-05-ID-C-F-5 Personnel and Command Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-6 Surface Research and Transition Level Floor Dossier;
-- TECH-ACT-076 - Command Communications Nexus;
-- TECH-ACT-077 - Internal Logistics Coordination Center;
-- TECH-ACT-078 - Seismic Preparedness Shelter and Response System;
-- TECH-ACT-112 - Island Personnel Habitation and Sustainment System;
+- TECH-ACT-076 — Command Communications Nexus;
+- TECH-ACT-077 — Internal Logistics Coordination Center;
+- TECH-ACT-078 — Seismic Preparedness Shelter and Response System;
+- TECH-ACT-112 — Island Personnel Habitation and Sustainment System;
 - Nusantara command decision ledgers [restricted].
 
 ---
@@ -208,9 +208,9 @@ loudest alarm.
   Can a duty officer delay action to improve the whole-relay picture, or does
   delay
   become command failure?
-- Should personnel readiness be allowed to override an otherwise correct operational plan?
-- How much surface cover status should influence deep containment decisions?
-- Can too many overlays make the command picture less truthful by becoming unreadable?
+— Should personnel readiness be allowed to override an otherwise correct operational plan?
+— How much surface cover status should influence deep containment decisions?
+— Can too many overlays make the command picture less truthful by becoming unreadable?
   When should command request support from another site before the relay admits loss
   of
   capacity?
@@ -219,9 +219,8 @@ loudest alarm.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Site Director Command Floor / Duty Command Officer / Central Archive
-**Review Status:** Active command-floor technology record; live status feeds, duty rosters, authority keys, and
-decision ledgers censored
-**Next Review:** After any command delay, handoff error, multi-division event, personnel-readiness misread, emergency
-posture conflict, or command record dispute
+**Created:** 2026-09-16 **Author Desk:** Site Director Command Floor / Duty Command Officer / Central
+Archive **Review
+Status:** Active command-floor technology record; live status feeds, duty rosters, authority keys, and decision
+ledgers censored **Next Review:** After any command delay, handoff error, multi-division event, personnel-readiness
+misread, emergency posture conflict, or command record dispute

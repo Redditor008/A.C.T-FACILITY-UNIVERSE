@@ -207,7 +207,7 @@ wait in a smaller room.
 
 - ACT Technological Master Index 50, Item 26;
 - ACT Technological Visual Reference Guide, Item 26;
-- TECH-ACT-001 - Reality Stabilization Anchor System;
+- TECH-ACT-001 — Reality Stabilization Anchor System;
 - Abyssal Anchor Plating, Item 34;
 - Abyssal Basalt, Item 50;
 - Massive Box and Abyss Floor infrastructure ledgers [restricted].
@@ -219,20 +219,20 @@ wait in a smaller room.
   How long can a CSS array suppress world-scale pressure before rebound becomes worse
   than
   the initial event?
-- Can repeated freezing teach a site to resist normal structural flex?
+— Can repeated freezing teach a site to resist normal structural flex?
   Does causal heat come from the ground, the stabilizer, or the argument between
   them?
-- Can hostile groups time a breach to coincide with emergency thaw?
+— Can hostile groups time a breach to coincide with emergency thaw?
   Should CSS units be installed near every Massive Box, or would permanent cold
   create
   new failure patterns?
-- What exactly is being frozen during a reality-seismic event?
+— What exactly is being frozen during a reality-seismic event?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Engineering Division / Site Infrastructure Command / Central Archive  
-**Review Status:** Active restricted record; RSA interval timing censored  
-**Next Review:** After any rebound event, false-quiet reading, coolant injury, or world-scale tremor response
+**Created:** 2026-09-15 **Author Desk:** Engineering Division / Site Infrastructure Command / Central Archive **Review
+Status:** Active restricted record; RSA interval timing censored **Next Review:** After any rebound event,
+false-quiet
+reading, coolant injury, or world-scale tremor response

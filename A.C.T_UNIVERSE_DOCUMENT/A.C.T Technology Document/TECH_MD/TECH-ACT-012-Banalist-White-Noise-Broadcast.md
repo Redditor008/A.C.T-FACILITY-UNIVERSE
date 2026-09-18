@@ -228,9 +228,9 @@ broadcast has already done too much.
 
 - ACT Technological Master Index 50, Item 24;
 - ACT Technological Visual Reference Guide, Item 24;
-- TECH-ACT-002 - Anti Reality Mesh System;
-- TECH-ACT-004 - 004-Series Amnestic Compound System;
-- TECH-ACT-005 - Causal Static Generator System;
+- TECH-ACT-002 — Anti Reality Mesh System;
+- TECH-ACT-004 — 004-Series Amnestic Compound System;
+- TECH-ACT-005 — Causal Static Generator System;
 - ACT Normalcy Management and Public Narrative Doctrine;
 - Civil Covert witness sanitation procedures.
 
@@ -246,14 +246,13 @@ broadcast has already done too much.
   Should CSG and BWB share entropy data, or would linked systems create a
   larger
   failure surface?
-- Are dead-air pockets more dangerous in containment wings than in public cover sites?
+— Are dead-air pockets more dangerous in containment wings than in public cover sites?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Containment Division / Civil Covert Division / Engineering Division / Central Archive  
-**Review Status:** Active restricted record; manifest libraries and tuning rules censored  
-**Next Review:** After any phrase-emergence event, dead-air pocket incident, staff dullness-fatigue report, or hostile
-audio intrusion
+**Created:** 2026-09-15 **Author Desk:** Containment Division / Civil Covert Division / Engineering Division /
+Central
+Archive **Review Status:** Active restricted record; manifest libraries and tuning rules censored **Next Review:**
+After any phrase-emergence event, dead-air pocket incident, staff dullness-fatigue report, or hostile audio intrusion

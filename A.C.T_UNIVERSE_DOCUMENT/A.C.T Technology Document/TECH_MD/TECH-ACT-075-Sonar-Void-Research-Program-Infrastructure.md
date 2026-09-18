@@ -197,9 +197,9 @@ but by refusing to return it.
 - ACT-SITE-05-ID-C-F-4 Laboratory and Research Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-3 Maritime and Island Holding Level Floor Dossier;
 - Death Angler, AFD-NB-964;
-- TECH-ACT-037 - Sub-Abyssal Sonar;
-- TECH-ACT-066 - Maritime Platform Containment Infrastructure;
-- TECH-ACT-068 - Sensor Nexus Signal Processing Architecture;
+- TECH-ACT-037 — Sub-Abyssal Sonar;
+- TECH-ACT-066 — Maritime Platform Containment Infrastructure;
+- TECH-ACT-068 — Sensor Nexus Signal Processing Architecture;
 - Nusantara Sonar Void event archive [restricted].
 
 ---
@@ -217,11 +217,9 @@ but by refusing to return it.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15
-**Author Desk:** Research Division / Seismic Analysis Support / Maritime Recovery Command / Central
-Archive
-**Review Status:** Active Sonar Void research infrastructure record; live coordinates, void-family comparisons, and
-Death Angler pursuit data censored
-**Next Review:** After any Sonar Void encounter, submersible loss, Death Angler containment audit, acoustic
-replay
-exposure, false absence downgrade, or abyss-linked absence correlation
+**Created:** 2026-09-15 **Author Desk:** Research Division / Seismic Analysis Support / Maritime Recovery Command
+/
+Central Archive **Review Status:** Active Sonar Void research infrastructure record; live coordinates, void-family
+comparisons, and Death Angler pursuit data censored **Next Review:** After any Sonar Void encounter,
+submersible loss,
+Death Angler containment audit, acoustic replay exposure, false absence downgrade, or abyss-linked absence correlation

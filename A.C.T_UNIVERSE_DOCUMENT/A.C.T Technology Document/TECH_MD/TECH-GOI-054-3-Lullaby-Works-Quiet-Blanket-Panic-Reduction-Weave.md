@@ -114,16 +114,13 @@ Known external features:
 
 Known construction findings:
 
-  material samples taken from a unit **remain warm when separated from the item
-  body**,
-  the same finding recorded for
-  the plush and the strongest physical evidence that the textile is not inert;
-  fibre comparison against commercial children's bedding has not produced a match, and Engineering
-  has
-  not identified
-  the fibre type;
-  the weave does not correspond to any pattern in the Engineering textile reference
-  set.
+material samples taken from a unit **remain warm when separated from the item body**,
+the same finding recorded for
+the plush and the strongest physical evidence that the textile is not inert; fibre
+comparison against commercial
+children's bedding has not produced a match, and Engineering has not identified the fibre
+type; the weave does not
+correspond to any pattern in the Engineering textile reference set.
 
 The blanket carries the **half-moon** mark and the **three quiet nights** line. It is
 the only recovered item whose
@@ -155,24 +152,16 @@ unit.
 
 Standing rules:
 
-  do not cut a service unit; A.C.T holds samples only, taken from units
-  already
-  out of service;
-  do not wash, dry, or iron a service unit, and do not advise
-  a
-  family to do so until laundering behaviour is
-  established;
-  do not remove a blanket from a child in active recovery without Medical
-  Division
-  concurrence;
-  assess effect over nights rather than immediately, and record night-by-night episode counts rather
-  than
-  a single
-  observation;
-  do not present the blanket to a family as treatment for the event
-  itself.
-  It reduces recurrence of panic. It does not
-  resolve the incident.
+do not cut a service unit; A.C.T holds samples only, taken from units already
+out of service; do not wash, dry, or
+iron a service unit, and do not advise a family to do so until
+laundering behaviour is established; do not remove a
+blanket from a child in active recovery without Medical Division concurrence; assess effect over
+nights rather than
+immediately, and record night-by-night episode counts rather than a single observation; do not present
+the blanket to
+a family as treatment for the event itself. It reduces recurrence of panic. It
+does not resolve the incident.
 
 Where a family asks whether the blanket is safe to keep, Subject Care answers
 directly and does not deflect. The
@@ -265,7 +254,7 @@ products. Civil Covert maintains the cover position for families.
 - TECH-GOI-054-5 — Lullaby Works Warranty Recall and Failure Ledger;
 - ACT_Personnel_Exposure_E_Class_and_Resilience_Doctrine — for the contrast between memory suppression and memory
   tolerance;
-- Subject Care Division post-incident recovery guidance [restricted].
+— Subject Care Division post-incident recovery guidance [restricted].
 
 A textile whose fibre Engineering cannot identify cannot be specified in the Visual Reference
 Guide, and a product
@@ -283,15 +272,15 @@ recover, not from a filing decision.
   What fibre is the blanket made from, and why does it match nothing
   in
   the reference set?
-- Why do separated samples remain warm, and does warmth correlate with remaining function?
-- What happens when the blanket is washed, dried, or ironed?
-- Over how many nights does the effect accumulate, and does it plateau?
-- Does the effect persist if the blanket is moved to a different child?
-- Does a bedding line lot label exist?
+— Why do separated samples remain warm, and does warmth correlate with remaining function?
+— What happens when the blanket is washed, dried, or ironed?
+— Over how many nights does the effect accumulate, and does it plateau?
+— Does the effect persist if the blanket is moved to a different child?
+— Does a bedding line lot label exist?
   Why did the manufacturer choose not to suppress memory, and is that an
   ethical
   position or a technical limit?
-- Does the blanket retain anything of the event it damps?
+— Does the blanket retain anything of the event it damps?
 
 ---
 

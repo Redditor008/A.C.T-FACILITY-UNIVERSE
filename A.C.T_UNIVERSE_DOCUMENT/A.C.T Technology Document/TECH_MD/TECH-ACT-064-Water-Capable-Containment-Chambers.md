@@ -202,10 +202,10 @@ made accountable.
 - ACT-SITE-05-ID-C Nusantara Deep Relay Site Dossier;
 - ACT-SITE-05-ID-C-F-3 Maritime and Island Holding Level Floor Dossier;
 - Death Angler, AFD-NB-964;
-- TECH-ACT-035 - Phase-Shifted Containment Glass;
-- TECH-ACT-037 - Sub-Abyssal Sonar;
-- TECH-ACT-010 - Digital Resonance Sensors;
-- TECH-ACT-034 - Abyssal Anchor Plating;
+- TECH-ACT-035 — Phase-Shifted Containment Glass;
+- TECH-ACT-037 — Sub-Abyssal Sonar;
+- TECH-ACT-010 — Digital Resonance Sensors;
+- TECH-ACT-034 — Abyssal Anchor Plating;
 - Nusantara maritime chamber ledgers [restricted].
 
 ---
@@ -228,9 +228,8 @@ made accountable.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15
-**Author Desk:** Maritime-Hold Command / Nusantara Deep Relay / Central Archive
-**Review Status:** Active maritime containment record; chamber schematics and resident-specific water formulas
-censored
-**Next Review:** After any aquatic breach, chemistry drift, resident transfer, pressure mismatch, port handoff
-incident, or Abyssal Aquarium retrofit
+**Created:** 2026-09-15 **Author Desk:** Maritime-Hold Command / Nusantara Deep Relay / Central Archive **Review
+Status:** Active maritime containment record; chamber schematics and resident-specific water formulas censored **Next
+Review:** After any aquatic breach, chemistry drift, resident transfer, pressure mismatch, port handoff incident,
+or
+Abyssal Aquarium retrofit

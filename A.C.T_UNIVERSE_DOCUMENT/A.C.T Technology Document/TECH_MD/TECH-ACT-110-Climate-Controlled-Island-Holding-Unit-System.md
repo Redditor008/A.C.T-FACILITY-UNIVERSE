@@ -185,10 +185,10 @@ land.
 
 - ACT-SITE-05-ID-C-F-3 Maritime and Island Holding Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-4 Laboratory and Research Level Floor Dossier;
-- TECH-ACT-109 - Maritime Holding Intake and Transfer System;
-- TECH-ACT-064 - Water-Capable Containment Chambers;
-- TECH-ACT-065 - Pressure-Rated Environmental Transition System;
-- TECH-ACT-073 - Marine Biology Laboratory Suites;
+- TECH-ACT-109 — Maritime Holding Intake and Transfer System;
+- TECH-ACT-064 — Water-Capable Containment Chambers;
+- TECH-ACT-065 — Pressure-Rated Environmental Transition System;
+- TECH-ACT-073 — Marine Biology Laboratory Suites;
 - Nusantara island holding regimens [restricted].
 
 ---
@@ -202,15 +202,13 @@ land.
   residents?
   When should an island resident transfer to Verde Null rather than remain at
   Nusantara?
-- How much Medical intervention can occur before a unit's climate stability is compromised?
+— How much Medical intervention can occur before a unit's climate stability is compromised?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Environmental Holding Staff / Maritime-Hold Command / Central Archive
+**Created:** 2026-09-16 **Author Desk:** Environmental Holding Staff / Maritime-Hold Command / Central Archive
 **Review Status:** Active climate-holding technology record; live climate recipes, resident assignments, and
-native-site coordinates censored
-**Next Review:** After any climate drift, place-bound reclassification, island-transfer failure, habitat mismatch,
-unit contamination, or climate-regimen override
+native-site coordinates censored **Next Review:** After any climate drift, place-bound reclassification,
+island-transfer failure, habitat mismatch, unit contamination, or climate-regimen override

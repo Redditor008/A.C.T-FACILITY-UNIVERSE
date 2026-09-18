@@ -177,11 +177,11 @@ biological suppression equipment the floor requires.
 F-1 is organized around interim cryogenic storage infrastructure:
 - the intake and staging bay, where incoming material is received and
   logged;
-- the cryogenic storage units;
-- the suppression monitoring stations;
-- the transfer preparation area, where material is prepared for movement
+— the cryogenic storage units;
+— the suppression monitoring stations;
+— the transfer preparation area, where material is prepared for movement
   to White Grave;
-- the floor command post and documentation alcove.
+— the floor command post and documentation alcove.
 
 7.2 The Cryogenic Storage Units
 
@@ -359,8 +359,8 @@ F-1 is Active and operating within its designed capacity. Projected
 priorities include:
 - continued interim cryogenic support for White Grave Station during
   seasonal biological incidents;
-- maintenance of the cryogenic and suppression infrastructure;
-- coordination with the parent station on transfer scheduling.
+— maintenance of the cryogenic and suppression infrastructure;
+— coordination with the parent station on transfer scheduling.
 
 ---
 

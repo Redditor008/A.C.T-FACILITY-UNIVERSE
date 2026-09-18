@@ -214,9 +214,9 @@ Standing reminder: if the room develops rhythm, assume something is counting peo
 
 - ACT Technological Master Index 50, Item 29;
 - ACT Technological Visual Reference Guide, Item 29;
-- TECH-ACT-005 - Causal Static Generator System;
-- TECH-ACT-012 - Banalist White-Noise Broadcast;
-- TECH-ACT-017 - Vacuum Isolation Spheres;
+- TECH-ACT-005 — Causal Static Generator System;
+- TECH-ACT-012 — Banalist White-Noise Broadcast;
+- TECH-ACT-017 — Vacuum Isolation Spheres;
 - Info-Hazard acoustic and song-based anomaly response files [restricted].
 
 ---
@@ -234,8 +234,6 @@ Standing reminder: if the room develops rhythm, assume something is counting peo
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Archive Division / Info-Hazard Division / Engineering Division / Central Archive  
-**Review Status:** Active restricted record; narrative-tempo calibration censored  
-**Next Review:** After any missed script event, overtuning incident, clicker contamination, or BWB pattern
-warning
+**Created:** 2026-09-15 **Author Desk:** Archive Division / Info-Hazard Division / Engineering Division / Central
+Archive **Review Status:** Active restricted record; narrative-tempo calibration censored **Next Review:** After any
+missed script event, overtuning incident, clicker contamination, or BWB pattern warning

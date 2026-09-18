@@ -210,8 +210,8 @@ Standing reminder: MTR buys control of angle. It does not buy ownership of dange
 - ACT Technological Master Index 50, Item 05;
 - ACT Technological Visual Reference Guide, Item 05;
 - AFD-OB-221 HIGENMARU-KORIN containment file;
-- TECH-ACT-010 - Digital Resonance Sensors;
-- TECH-ACT-001 - Reality Stabilization Anchor System;
+- TECH-ACT-010 — Digital Resonance Sensors;
+- TECH-ACT-001 — Reality Stabilization Anchor System;
 - Object Containment high-tension locker procedures [restricted].
 
 ---
@@ -225,14 +225,13 @@ Standing reminder: MTR buys control of angle. It does not buy ownership of dange
   What is the safest mobile MTR size before transport becomes more dangerous than
   the
   subject?
-- Are self-organizing metallic masses responding to magnetic pressure or to restraint intent?
+— Are self-organizing metallic masses responding to magnetic pressure or to restraint intent?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Containment Division / Engineering Division / Tactical Review Desk / Central Archive  
-**Review Status:** Active restricted record; frequency settings censored  
-**Next Review:** After any MTR-RED lock, helium loss event, weapon-class breach, or mobile rig
-deployment
+**Created:** 2026-09-15 **Author Desk:** Containment Division / Engineering Division / Tactical Review Desk /
+Central
+Archive **Review Status:** Active restricted record; frequency settings censored **Next Review:** After any MTR-RED
+lock, helium loss event, weapon-class breach, or mobile rig deployment

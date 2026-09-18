@@ -2,10 +2,10 @@
 ## A Lobotomy Corporation × A.C.T. Facility Crossover
 ### Days 11–13: The Dream That Was Eaten
 
-> **Loop Count:** 10,127  
-> **Facility:** Lobotomy Corporation X-394, District 12  
-> **Motto:** *FACE THE FEAR, BUILD THE FUTURE.*  
-> **A.C.T. First Doctrine:** *Keep it asleep.*  
+> **Loop Count:** 10,127
+> **Facility:** Lobotomy Corporation X-394, District 12
+> **Motto:** *FACE THE FEAR, BUILD THE FUTURE.*
+> **A.C.T. First Doctrine:** *Keep it asleep.*
 
 ---
 
@@ -24,12 +24,12 @@ their secrecy.
 
 The Well has transformed it into something that fits the facility's logic.
 
-> **Subject Number:** O-01-205  
-> **Name:** *NEMNOLIA, The Golden Veil*  
-> **Original Designation:** AFD-NB-004 — The Forgetting Bloom  
-> **Risk Level:** HE  
-> **Attack Type:** WHITE (3–5) / BLACK (2–3)  
-> **E-Boxes:** 18  
+> **Subject Number:** O-01-205
+> **Name:** *NEMNOLIA, The Golden Veil*
+> **Original Designation:** AFD-NB-004 — The Forgetting Bloom
+> **Risk Level:** HE
+> **Attack Type:** WHITE (3–5) / BLACK (2–3)
+> **E-Boxes:** 18
 > **Qliphoth Counter:** 2
 
 The Lobotomy Corp version is a pale flower with golden veins, rooted in a
@@ -239,16 +239,15 @@ any better than the nightmare, when both leave you empty.
 
 Hokma reviews the incident file the next morning. He adds a note:
 
-  *The Dream Eater and Void Dream are not native to the same ecosystem
-  of
-  anomalies. Void Dream is a product of the
-  Well. The Dream Eater is a translation of an A.C.T. anomaly. Their interaction suggests
-  that the A.C.T. entities are
-  not merely being added to our facility — they are beginning to compete with
-  it. The Dream Eater ate a Well-born dream.
-  That should not be possible. If the translated anomalies can consume native ones, the
-  Well may be producing
-  antibodies, or it may be losing control of its own contents.*
+*The Dream Eater and Void Dream are not native to the same ecosystem of
+anomalies. Void Dream is a product of the
+Well. The Dream Eater is a translation of an A.C.T. anomaly. Their interaction suggests
+that the A.C.T. entities are
+not merely being added to our facility — they are beginning to compete with
+it. The Dream Eater ate a Well-born dream.
+That should not be possible. If the translated anomalies can consume native ones, the
+Well may be producing
+antibodies, or it may be losing control of its own contents.*
 
 He pauses, then adds one more line:
 
@@ -262,12 +261,12 @@ He pauses, then adds one more line:
 
 The third option on Day 12 is almost funny.
 
-> **Subject Number:** O-04-206  
-> **Name:** *The Paper Dragon*  
-> **Original Designation:** AFD-OB-014 — Paper Dragon  
-> **Risk Level:** HE  
-> **Attack Type:** RED (2–4)  
-> **E-Boxes:** 14  
+> **Subject Number:** O-04-206
+> **Name:** *The Paper Dragon*
+> **Original Designation:** AFD-OB-014 — Paper Dragon
+> **Risk Level:** HE
+> **Attack Type:** RED (2–4)
+> **E-Boxes:** 14
 > **Qliphoth Counter:** 3
 
 The file image shows a two-meter dragon made of folded paper, gliding through the
@@ -336,10 +335,9 @@ recognize him.
 
 The dragon's file is updated:
 
-  **Memento:** *"It was made of paper, but it ate like a dragon. And
-  when
-  it was torn, it forgot who folded it back
-  together."*
+**Memento:** *"It was made of paper, but it ate like a dragon. And when
+it was torn, it forgot who folded it back
+together."*
 
 ---
 
@@ -380,12 +378,12 @@ goes.
 
 The third option on Day 13 is a monster.
 
-> **Subject Number:** F-02-207  
-> **Name:** *The Monstrous Mirage*  
-> **Original Designation:** AFD-SU-009 — Monstrous Mirage  
-> **Risk Level:** WAW  
-> **Attack Type:** RED (5–7) / WHITE (4–6)  
-> **E-Boxes:** 24  
+> **Subject Number:** F-02-207
+> **Name:** *The Monstrous Mirage*
+> **Original Designation:** AFD-SU-009 — Monstrous Mirage
+> **Risk Level:** WAW
+> **Attack Type:** RED (5–7) / WHITE (4–6)
+> **E-Boxes:** 24
 > **Qliphoth Counter:** 1
 
 The A.C.T. file describes a three-meter demonic phantom born from a shared nightmare. Its
@@ -488,13 +486,12 @@ and used it.
 
 Angela sends a message to X:
 
-  **ITHYOS is dreaming. Its dreams are affecting the facility's anomalies. The translated ACT
-  Anomalies
-  are resonating
-  with it more strongly than our native ones. The Well did not simply build
-  a vault for the serpent. It built a
-  connection. We are inside the serpent's dream now, and the serpent is beginning to
-  dream of us.**
+**ITHYOS is dreaming. Its dreams are affecting the facility's anomalies. The translated ACT Anomalies
+are resonating
+with it more strongly than our native ones. The Well did not simply build
+a vault for the serpent. It built a
+connection. We are inside the serpent's dream now, and the serpent is beginning to
+dream of us.**
 
 X reads the message. He does not understand all of it. He understands enough.
 
@@ -521,24 +518,22 @@ if the future is being dreamed by something beneath our feet."
 
 ### III. The Head — The Fourth Report
 
-  **District 12, X-394. The ITHYOS entity has entered a low-activity dream state. Its
-  respiration
-  is influencing
-  facility anomaly behavior. Translated anomalies demonstrate higher resonance with the entity than native
-  Abnormalities. Hypothesis: the Well is using the ITHYOS presence as a translation anchor, allowing
-  foreign anomalies
-  to stabilize more completely than would otherwise be possible. This implies the entity is
-  not merely a passenger. It
-  is a bridge.**
+**District 12, X-394. The ITHYOS entity has entered a low-activity dream state. Its respiration
+is influencing
+facility anomaly behavior. Translated anomalies demonstrate higher resonance with the entity than native
+Abnormalities. Hypothesis: the Well is using the ITHYOS presence as a translation anchor, allowing
+foreign anomalies
+to stabilize more completely than would otherwise be possible. This implies the entity is
+not merely a passenger. It
+is a bridge.**
 
 The observer pauses.
 
-  **A bridge between what and what?** the observer writes. **The question is now
-  operational.
-  Recommend immediate
-  deployment of a Claw team to X-394 for direct assessment. The Eye sees. The
-  Claw prepares. The Arbiter waits for the
-  taboo to be named.**
+**A bridge between what and what?** the observer writes. **The question is now operational.
+Recommend immediate
+deployment of a Claw team to X-394 for direct assessment. The Eye sees. The
+Claw prepares. The Arbiter waits for the
+taboo to be named.**
 
 The report is sent.
 

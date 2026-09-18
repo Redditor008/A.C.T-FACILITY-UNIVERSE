@@ -83,9 +83,9 @@ QNB appears in five major roles:
   floor and site structural hardening, especially F-7 Central Archive and Site 03 Kurokawa
   Archive
   Node;
-- field evidence capture through portable or head-mounted buffers used in unstable locations;
-- recovered-document quarantine for texts that rewrite themselves or their readers' memory of them;
-- restoration review after temporal, causal, narrative, or public-record disturbance.
+— field evidence capture through portable or head-mounted buffers used in unstable locations;
+— recovered-document quarantine for texts that rewrite themselves or their readers' memory of them;
+— restoration review after temporal, causal, narrative, or public-record disturbance.
 
 QNB is the reason A.C.T can compare before and after when before has been
 attacked.
@@ -370,9 +370,9 @@ environments and must reconcile all field captures after return.
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Site Dossier/ACT-SITE-03-JP-E-Kurokawa-Archive-Node.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Site Dossier/Floor
   Dossier/ACT-SITE-01-US-W-F-7-Central-Archive-and-Records.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/TECH-ACT-001-Reality-Stabilization-Anchor-System.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/TECH-ACT-002-Anti-Reality-Mesh-System.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/00_Technology_Record_Template.md`
+— `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/TECH-ACT-001-Reality-Stabilization-Anchor-System.md`
+— `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/TECH-ACT-002-Anti-Reality-Mesh-System.md`
+— `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/00_Technology_Record_Template.md`
 
 ### Technology Relationship
 
@@ -396,18 +396,18 @@ Narrative Buffer System.
   Can QNB preserve a record if the decision to write that record is
   erased
   before accession?
-- How many QNB-preserved contradictions represent hostile alteration rather than ordinary human error?
+— How many QNB-preserved contradictions represent hostile alteration rather than ordinary human error?
   Can hostile actors poison a buffer by inserting false records before a known
   reset?
   Do Ninefold Ark memory banks preserve continuity by similar means or by unrelated
   preservation
   doctrine?
-- Can prolonged reliance on QNB make staff distrust living witnesses too quickly?
+— Can prolonged reliance on QNB make staff distrust living witnesses too quickly?
   What combined failure mode appears when QNB restoration, ARM public dulling, RSA hard
   anchor,
   and NEMNOLIA-derived
   amnestic treatment overlap?
-- Are [BLANK] crystal canisters finite in supply, reusable, or slowly accumulating narrative fatigue?
+— Are [BLANK] crystal canisters finite in supply, reusable, or slowly accumulating narrative fatigue?
   What does QNB-BLACK mean if both current history and preserved history contain matching
   evidence
   of tampering?

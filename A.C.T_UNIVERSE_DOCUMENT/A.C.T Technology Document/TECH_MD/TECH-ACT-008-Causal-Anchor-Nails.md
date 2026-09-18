@@ -242,9 +242,9 @@ made to anomalies are expensive.
 
 ## CROSS-REFERENCES
 
-- TECH-ACT-001 - Reality Stabilization Anchor System;
-- TECH-ACT-006 - Facility Converted Aircraft System;
-- TECH-ACT-007 - Static-Pulse Crystal;
+- TECH-ACT-001 — Reality Stabilization Anchor System;
+- TECH-ACT-006 — Facility Converted Aircraft System;
+- TECH-ACT-007 — Static-Pulse Crystal;
 - ACT Technological Master Index 50, Item 30;
 - ACT Technological Visual Reference Guide, Item 30;
 - Recovery Division field kit custody ledger [restricted].
@@ -258,21 +258,19 @@ made to anomalies are expensive.
   Can used nails carry a memory of the anomaly, the deployment surface, or
   the
   operator?
-- Are multi-nail failures mathematical, narrative, or material in origin?
-- What happens when a nail fixes an object whose identity changes mid-transfer?
-- Can hostile groups fake the lock click to trigger early movement?
+— Are multi-nail failures mathematical, narrative, or material in origin?
+— What happens when a nail fixes an object whose identity changes mid-transfer?
+— Can hostile groups fake the lock click to trigger early movement?
   Should living-target CAN doctrine remain prohibited except terminal review, or does field medicine
   need
   a controlled
   variant?
-- Do nails deployed near FCA Magnetic RSA-Rails inherit aircraft route stress?
+— Do nails deployed near FCA Magnetic RSA-Rails inherit aircraft route stress?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Recovery Division / Engineering Division / Central Archive  
-**Review Status:** Active restricted record; deployment geometry censored  
-**Next Review:** After any multi-nail failure, living-target request, FCA loading incident, or post-use return
-event
+**Created:** 2026-09-15 **Author Desk:** Recovery Division / Engineering Division / Central Archive **Review Status:**
+Active restricted record; deployment geometry censored **Next Review:** After any multi-nail failure, living-target
+request, FCA loading incident, or post-use return event

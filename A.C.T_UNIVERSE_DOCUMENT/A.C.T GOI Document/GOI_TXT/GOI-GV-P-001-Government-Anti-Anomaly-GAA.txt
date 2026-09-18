@@ -447,15 +447,15 @@ viability, secrecy urgency, recovery speed, specialization, and active command p
 
 - ACT-SITE-01-US-W / Redwood Veil Complex supports high-population urban continuity issues, artifact-routing cover,
 and black-market-sensitive government interfaces.
-- ACT-SITE-02-RU-N / White Grave Station may require GAA assistance for remote cold-zone transport,
+— ACT-SITE-02-RU-N / White Grave Station may require GAA assistance for remote cold-zone transport,
 quarantine cover,
 or restricted infrastructure actions.
-- ACT-SITE-03-JP-E / Kurokawa Archive Node is consulted when a government records path, media
+— ACT-SITE-03-JP-E / Kurokawa Archive Node is consulted when a government records path, media
 channel, or digital
 document chain becomes an information hazard.
-- ACT-SITE-04-BR-C / Verde Null Bio-Reserve may request restricted environmental, quarantine, or land-use support
+— ACT-SITE-04-BR-C / Verde Null Bio-Reserve may request restricted environmental, quarantine, or land-use support
 where in-place biological containment affects civilian territory.
-- ACT-SITE-05-ID-C / Nusantara Deep Relay may require maritime, emergency, or coastal administrative cover
+— ACT-SITE-05-ID-C / Nusantara Deep Relay may require maritime, emergency, or coastal administrative cover
 during
 sea-bound and seismic incidents.
 
@@ -594,15 +594,15 @@ Unresolved Intelligence Questions
 
 - Which GAA liaison channels remain dependent on historical arrangements that no current officer
 fully understands?
-- How many state-facing personnel know the GAA by a function but not by
+— How many state-facing personnel know the GAA by a function but not by
 its formal name?
-- Which existing government continuity procedures were originally built for ordinary disaster management and
+— Which existing government continuity procedures were originally built for ordinary disaster management and
 have
 since become vulnerable to anomalous misuse?
-- Can a hostile GOI obtain GAA authority by impersonation, coercion, or documentary compromise
+— Can a hostile GOI obtain GAA authority by impersonation, coercion, or documentary compromise
 without ever learning
 the wider Facility structure?
-- At what point does repeated reliance on GAA support create a dependency that
+— At what point does repeated reliance on GAA support create a dependency that
 weakens A.C.T operational independence?
 
 Standing Restriction Order

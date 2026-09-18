@@ -190,9 +190,9 @@ when they leave their own lives and descend to work.
 - ACT-SITE-02-RU-N-F-5 Personnel Habitation and Support Floor Dossier;
 - ACT-SITE-02-RU-N-F-4 Research and Biological Study Floor Dossier;
 - ACT-SITE-02-RU-N-F-6 Surface Research and Transition Level Floor Dossier;
-- TECH-ACT-112 - Island Personnel Habitation and Sustainment System;
-- TECH-ACT-127 - Medical Isolation and Cognitive Recovery Ward System;
-- TECH-ACT-131 - Seasonal Arctic Research Cover and Transition Control System;
+- TECH-ACT-112 — Island Personnel Habitation and Sustainment System;
+- TECH-ACT-127 — Medical Isolation and Cognitive Recovery Ward System;
+- TECH-ACT-131 — Seasonal Arctic Research Cover and Transition Control System;
 - White Grave habitation and checkpoint ledgers [station-restricted].
 
 ---
@@ -203,9 +203,9 @@ when they leave their own lives and descend to work.
   Can a checkpoint protect rest if everyone on both sides is trapped in
   the
   same station?
-- Should recreation be mandatory when morale data shows decline?
-- When does domestic monitoring become another form of duty pressure?
-- Can long-rotation habitation remain humane if seasonal transport fails?
+— Should recreation be mandatory when morale data shows decline?
+— When does domestic monitoring become another form of duty pressure?
+— Can long-rotation habitation remain humane if seasonal transport fails?
   Does the checkpoint separate life from duty, or only remind personnel that separation
   is
   fragile?
@@ -214,10 +214,7 @@ when they leave their own lives and descend to work.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Habitation Chief / Station Administration / Central Archive
-**Review Status:** Active long-rotation habitation and checkpoint technology record; live rosters, quarter
-assignments, Medical flags, and checkpoint logs censored
-**Next Review:** After any checkpoint breach, habitation conflict cluster, seasonal supply strain, missed ascent
-flag,
-routine medical access failure, or long-rotation welfare incident
+**Created:** 2026-09-16 **Author Desk:** Habitation Chief / Station Administration / Central Archive **Review
+Status:** Active long-rotation habitation and checkpoint technology record; live rosters, quarter assignments, Medical
+flags, and checkpoint logs censored **Next Review:** After any checkpoint breach, habitation conflict cluster,
+seasonal supply strain, missed ascent flag, routine medical access failure, or long-rotation welfare incident

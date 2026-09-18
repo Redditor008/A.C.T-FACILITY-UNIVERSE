@@ -179,8 +179,8 @@ that no one interrupts it.
 - ACT-SUB-03-JP-E-F-3 Surface Cover Level Floor Dossier;
 - ACT-SUB-03-JP-E-F-2 Review and Redaction Level Floor Dossier;
 - ACT-SITE-03-JP-E Kurokawa Archive Node Site Dossier;
-- TECH-ACT-097 - Minor Memetic Quarantine Vault System;
-- TECH-ACT-098 - Controlled Reading and Redaction Workroom System;
+- TECH-ACT-097 — Minor Memetic Quarantine Vault System;
+- TECH-ACT-098 — Controlled Reading and Redaction Workroom System;
 - Silent Reed studio cover files [restricted].
 
 ---
@@ -198,9 +198,8 @@ that no one interrupts it.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Studio Manager / Security Boundary Lead / Central Archive
-**Review Status:** Active preservation-studio cover record; live client files, transition points, and hidden movement
-schedules censored
+**Created:** 2026-09-16 **Author Desk:** Studio Manager / Security Boundary Lead / Central Archive **Review
+Status:**
+Active preservation-studio cover record; live client files, transition points, and hidden movement schedules censored
 **Next Review:** After any client challenge, cover audit, transition exposure, restricted-area dispute, visible
 document contamination, or studio paperwork mismatch

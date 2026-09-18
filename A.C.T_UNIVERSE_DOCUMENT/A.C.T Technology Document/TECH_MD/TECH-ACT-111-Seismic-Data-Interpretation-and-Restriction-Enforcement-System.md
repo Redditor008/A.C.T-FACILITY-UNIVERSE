@@ -189,13 +189,13 @@ SDIRES doctrine holds that understanding below the earth is itself a controlled 
 
 - ACT-SITE-05-ID-C-F-4 Laboratory and Research Level Floor Dossier;
 - ACT-SITE-05-ID-C-F-2 Deep Monitoring and Restricted Records Floor Dossier;
-- TECH-ACT-067 - Deep-Earth Sensor Arrays;
-- TECH-ACT-068 - Sensor Nexus Signal Processing Architecture;
-- TECH-ACT-070 - Deep Monitoring Processing Center;
-- TECH-ACT-071 - Seismic Records Vaults;
-- TECH-ACT-072 - Restricted Records Vaults;
-- TECH-ACT-074 - Deep-Earth Sample Analysis Laboratories;
-- TECH-ACT-075 - Sonar Void Research Program Infrastructure;
+- TECH-ACT-067 — Deep-Earth Sensor Arrays;
+- TECH-ACT-068 — Sensor Nexus Signal Processing Architecture;
+- TECH-ACT-070 — Deep Monitoring Processing Center;
+- TECH-ACT-071 — Seismic Records Vaults;
+- TECH-ACT-072 — Restricted Records Vaults;
+- TECH-ACT-074 — Deep-Earth Sample Analysis Laboratories;
+- TECH-ACT-075 — Sonar Void Research Program Infrastructure;
 - Restricted review chain files [clearance-gated].
 
 ---
@@ -205,7 +205,7 @@ SDIRES doctrine holds that understanding below the earth is itself a controlled 
   Can an analyst be trusted to forget a correlation that SDIRES later refuses
   to
   authorize?
-- How many non-restricted findings may combine into a restricted picture?
+— How many non-restricted findings may combine into a restricted picture?
   Should refusal records be visible to command when the reason for refusal is
   itself
   restricted?
@@ -213,7 +213,7 @@ SDIRES doctrine holds that understanding below the earth is itself a controlled 
   pattern
   appears in both
   datasets?
-- When does a useful seismic warning justify release before review-chain completion?
+— When does a useful seismic warning justify release before review-chain completion?
   Does the act of naming a pattern make it easier for the pattern
   to
   recur in later data?
@@ -222,9 +222,8 @@ SDIRES doctrine holds that understanding below the earth is itself a controlled 
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Floor Research Chief / Seismic Analysis Support Liaison / Central Archive
+**Created:** 2026-09-16 **Author Desk:** Floor Research Chief / Seismic Analysis Support Liaison / Central
+Archive
 **Review Status:** Active restricted-interpretation technology record; pattern libraries, review-chain keys, refusal
-reasons, and abyss-linked correlations censored
-**Next Review:** After any unauthorized correlation, review-chain breach, refusal-record loss, report-layer error,
-analyst inference incident, or abyss-related escalation
+reasons, and abyss-linked correlations censored **Next Review:** After any unauthorized correlation, review-chain
+breach, refusal-record loss, report-layer error, analyst inference incident, or abyss-related escalation

@@ -2,7 +2,7 @@ A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 MACHINE-Heart-Experiment-Testing-Dossier-AFD-OB-017
 
 ═══════════════════════════════════════════════════════════════════════
-             A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER             
+             A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
 ═══════════════════════════════════════════════════════════════════════
 
@@ -25,7 +25,7 @@ ARCHIVE STATUS:      Active / machinery-hazard restricted
 DOSSIER STATUS:      Open — delayed-feed observation only
 
 ═══════════════════════════════════════════════════════════════════════
-                           CATEGORY CONTENTS                           
+                           CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
 This dossier belongs to A.C.T Log Category IV — Experiment & Testing Dossier.
@@ -52,7 +52,7 @@ full, so that the difference between guardianship and hunger is never guessed
 from a distance.
 
 ═══════════════════════════════════════════════════════════════════════
-   SECTION 001 — INERT-STATE VERIFICATION AND SLOT-REJECTION TESTING   
+   SECTION 001 — INERT-STATE VERIFICATION AND SLOT-REJECTION TESTING
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-017/EXP-001
@@ -81,7 +81,7 @@ TERMINOLOGY RULE: Do not describe AFD-OB-017 as asleep when inert. Use
 increased sympathy toward the object's incompleteness.
 
 ═══════════════════════════════════════════════════════════════════════
-            SECTION 002 — CHOSEN-SUBJECT COMPULSION RECORDS            
+            SECTION 002 — CHOSEN-SUBJECT COMPULSION RECORDS
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-017/EXP-002
@@ -106,7 +106,7 @@ necessary, and removed from line of sight. The chosen must not be allowed
 within 5 m of the anomaly under any condition.
 
 ═══════════════════════════════════════════════════════════════════════
-       SECTION 003 — HEART-SIGNAL TRANSFER ANALYSIS — STAGE ONE        
+       SECTION 003 — HEART-SIGNAL TRANSFER ANALYSIS — STAGE ONE
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-017/EXP-003
@@ -133,7 +133,7 @@ time
 — a possible short-range discontinuity rather than ordinary mechanical action.
 
 ═══════════════════════════════════════════════════════════════════════
-          SECTION 004 — STAGE TWO GUARDIAN-STATE OBSERVATION           
+          SECTION 004 — STAGE TWO GUARDIAN-STATE OBSERVATION
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-017/EXP-004
@@ -156,13 +156,13 @@ OBSERVED CONSTRAINTS:
    - It does not communicate, negotiate, or retreat
    - It does not distinguish staff, rescuers, observers, or accidental
      entrants
-   - It defends the Heart-Signal, not itself as a whole
-   - The claw chooses; the hammer enforces. The hammer arm is never used for
+   — It defends the Heart-Signal, not itself as a whole
+   — The claw chooses; the hammer enforces. The hammer arm is never used for
      Heart-Signal removal — only Stage Two enforcement
-   - Longest confirmed Stage Two activation: 11 days, 6 hours, 14 minutes
+   — Longest confirmed Stage Two activation: 11 days, 6 hours, 14 minutes
 
 ═══════════════════════════════════════════════════════════════════════
-                  SECTION 005 — INCIDENT REVIEW 017-A                  
+                  SECTION 005 — INCIDENT REVIEW 017-A
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-017/EXP-005
@@ -184,7 +184,7 @@ zone. Remote arms may attempt Heart-Signal separation or slot occlusion after
 the anomaly is pinned by magnetic floor braces and overhead cable restraints.
 
 ═══════════════════════════════════════════════════════════════════════
-                  SECTION 006 — CLOSING TESTING NOTE                   
+                  SECTION 006 — CLOSING TESTING NOTE
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-OB-017/EXP-CLS-001

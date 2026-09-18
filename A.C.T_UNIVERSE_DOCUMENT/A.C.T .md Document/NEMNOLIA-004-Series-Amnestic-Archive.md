@@ -34,10 +34,8 @@ refinement, A.C.T has categorized multiple derivative classes based on concentra
 ---
 
 ## 004-A
-**Composition:** 100% sap / 0% water-alcohol  
-**Primary Effect:** 100% memory erasure  
-**Failure Risk:** catastrophic identity loss expected  
-**Authorization:** O5-level only  
+**Composition:** 100% sap / 0% water-alcohol **Primary Effect:** 100% memory erasure **Failure Risk:** catastrophic
+identity loss expected **Authorization:** O5-level only
 
 004-A is effectively total mnemonic destruction. Use is considered extreme and existentially invasive. Survivability
 of identity continuity is not assumed.
@@ -45,10 +43,9 @@ of identity continuity is not assumed.
 ---
 
 ## 004-B
-**Composition:** 80% sap / 20% water-alcohol  
-**Primary Effect:** up to 10 years of memory erasure  
-**Failure Risk:** coma for 5 years if used incorrectly  
-**Authorization:** Administrator or O5-level review  
+**Composition:** 80% sap / 20% water-alcohol **Primary Effect:** up to 10 years of memory
+erasure **Failure Risk:**
+coma for 5 years if used incorrectly **Authorization:** Administrator or O5-level review
 
 004-B is one of the most severe fieldable compounds. It is not approved for
 ordinary civilian use.
@@ -56,69 +53,64 @@ ordinary civilian use.
 ---
 
 ## 004-C
-**Composition:** 70% sap / 30% water-alcohol  
-**Primary Effect:** up to 5 years of memory erasure  
-**Failure Risk:** violent blood vomiting if used incorrectly  
-**Authorization:** high-threat secrecy review only  
+**Composition:** 70% sap / 30% water-alcohol **Primary Effect:** up to 5 years of memory
+erasure **Failure Risk:**
+violent blood vomiting if used incorrectly **Authorization:** high-threat secrecy review only
 
 004-C remains highly dangerous and operationally unstable.
 
 ---
 
 ## 004-D
-**Composition:** 50% sap / 50% water-alcohol  
-**Primary Effect:** up to 3 years of memory erasure  
-**Failure Risk:** heart decay if used incorrectly  
-**Authorization:** severe compromise response only  
+**Composition:** 50% sap / 50% water-alcohol **Primary Effect:** up to 3 years of memory
+erasure **Failure Risk:**
+heart decay if used incorrectly **Authorization:** severe compromise response only
 
 004-D is considered highly effective but biologically dangerous.
 
 ---
 
 ## 004-E
-**Composition:** 30% sap / 70% water-alcohol  
-**Primary Effect:** up to 1 year of memory erasure  
-**Failure Risk:** neurological breakdown if used incorrectly  
-**Authorization:** restricted internal clearance only  
+**Composition:** 30% sap / 70% water-alcohol **Primary Effect:** up to 1 year of memory
+erasure **Failure Risk:**
+neurological breakdown if used incorrectly **Authorization:** restricted internal clearance only
 
 004-E is a lower but still severe long-term wipe formulation.
 
 ---
 
 ## 004-F
-**Composition:** 10% sap / 90% water-alcohol  
-**Primary Effect:** approximately 1 month of memory erasure  
-**Failure Risk:** liver shrinking if used incorrectly  
-**Authorization:** controlled witness suppression use  
+**Composition:** 10% sap / 90% water-alcohol **Primary Effect:** approximately 1 month of memory erasure
+**Failure
+Risk:** liver shrinking if used incorrectly **Authorization:** controlled witness suppression use
 
 004-F is one of the more practical operational grades, though still medically dangerous.
 
 ---
 
 ## 004-G
-**Composition:** 5% sap / 95% water-alcohol  
-**Primary Effect:** approximately 1 week of memory erasure  
-**Failure Risk:** sudden blindness for 1 month if used incorrectly  
-**Authorization:** limited field use  
+**Composition:** 5% sap / 95% water-alcohol **Primary Effect:** approximately 1 week of memory erasure
+**Failure
+Risk:** sudden blindness for 1 month if used incorrectly **Authorization:** limited field use
 
 004-G is used where a short-term but meaningful recall removal window is sufficient.
 
 ---
 
 ## 004-H
-**Composition:** 1% sap / 99% water-alcohol  
-**Primary Effect:** approximately 1 day of memory erasure  
-**Failure Risk:** systemic weakness for 10 months if used incorrectly  
-**Authorization:** lowest recognized 004 operational grade  
+**Composition:** 1% sap / 99% water-alcohol **Primary Effect:** approximately 1 day of memory erasure
+**Failure
+Risk:** systemic weakness for 10 months if used incorrectly **Authorization:** lowest recognized 004 operational
+grade
 
 004-H is the weakest stable recognized amnestic dilution in current A.C.T use.
 
 ---
 
 ## Internal Doctrine
-The lower the concentration, the safer the intended erasure window.  
-The higher the concentration, the closer the compound moves from memory suppression into continuity
-destruction.
+The lower the concentration, the safer the intended erasure window. The higher the concentration,
+the closer the
+compound moves from memory suppression into continuity destruction.
 
 A.C.T therefore distinguishes between:
 - memory wipe

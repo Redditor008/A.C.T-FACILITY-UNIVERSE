@@ -192,11 +192,11 @@ it can act.
 ## CROSS-REFERENCES
 
 - ACT-SITE-01-US-W-F-7 Central Archive and Records Floor Dossier;
-- TECH-ACT-003 - Quantum Narrative Buffer System;
-- TECH-ACT-011 - Narrative Seal Varnish;
-- TECH-ACT-020 - Regression-Resistant Ink;
-- TECH-ACT-056 - Memetic Filtering Infrastructure;
-- TECH-ACT-057 - Anomalous Intake Screening Suites;
+- TECH-ACT-003 — Quantum Narrative Buffer System;
+- TECH-ACT-011 — Narrative Seal Varnish;
+- TECH-ACT-020 — Regression-Resistant Ink;
+- TECH-ACT-056 — Memetic Filtering Infrastructure;
+- TECH-ACT-057 — Anomalous Intake Screening Suites;
 - Redwood Veil quarantine-cell incident ledgers [restricted].
 
 ---
@@ -214,8 +214,8 @@ it can act.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Archive Division / Redwood Veil F-7 / Central Archive  
-**Review Status:** Active archive containment record; cell maps and resident-document list censored  
-**Next Review:** After any access violation, self-rewrite event, QNB mismatch, unauthorized copy, or quarantine
-release request
+**Created:** 2026-09-15 **Author Desk:** Archive Division / Redwood Veil F-7 / Central Archive **Review
+Status:**
+Active archive containment record; cell maps and resident-document list censored **Next Review:** After any
+access
+violation, self-rewrite event, QNB mismatch, unauthorized copy, or quarantine release request

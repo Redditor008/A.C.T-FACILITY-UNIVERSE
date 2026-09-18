@@ -199,8 +199,8 @@ A.C.T.
 - ACT Technological Evolution Timeline, 1888 Steam-Drill Excavator entry;
 - ACT Historical Origin and Abyss Archive, First Deployment section;
 - ACT Historical Origin and Abyss Archive, Construction of the ABYSS Floor section;
-- TECH-ACT-033 - Abyssal Masonry;
-- TECH-ACT-049 - Abyssal Basalt;
+- TECH-ACT-033 — Abyssal Masonry;
+- TECH-ACT-049 — Abyssal Basalt;
 - First Descent maintenance ledgers [restricted];
 - ABYSS Floor foundation records [restricted].
 
@@ -219,8 +219,6 @@ A.C.T.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Historical Engineering Archive / Abyss Engineering / Central Archive  
-**Review Status:** Retired historical technology record; reconstruction data and descent-route ledgers censored  
-**Next Review:** After any component handling, route-map discovery, deep-access proposal, or First Descent archive
-release
+**Created:** 2026-09-15 **Author Desk:** Historical Engineering Archive / Abyss Engineering / Central Archive **Review
+Status:** Retired historical technology record; reconstruction data and descent-route ledgers censored **Next
+Review:** After any component handling, route-map discovery, deep-access proposal, or First Descent archive release

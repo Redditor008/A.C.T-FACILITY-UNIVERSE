@@ -14,7 +14,7 @@ FIELD TYPE:          SU — Subject
 PRIMARY FILE:        Circus-Monster-AFD-SU-507
 
 DOCUMENT CATEGORY:   CATEGORY XII — Personal & Recovered Journal
-CATEGORY FUNCTION:   Diary preservation, traumatic timeline reconstruction, 
+CATEGORY FUNCTION:   Diary preservation, traumatic timeline reconstruction,
                      and poetic-subjective behavioral analysis.
 
 CLEARANCE REQUIRED:  Level 3 / Subject Care Division
@@ -27,9 +27,9 @@ DOSSIER STATUS:      Open / Fragmentary Records Compiled
                          CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
-This dossier contains the recovered writings and mental-logs of 
-AFD-SU-507. These entries were found inside her "Performance Cage" 
-following the Amazoo Raid, or produced during her early stabilization 
+This dossier contains the recovered writings and mental-logs of
+AFD-SU-507. These entries were found inside her "Performance Cage"
+following the Amazoo Raid, or produced during her early stabilization
 at the Facility.
 
 INCLUDED LOG TYPES:
@@ -51,24 +51,24 @@ DATE:                [ PRE-RECOVERY ]
 
 Time is dead and gone.
 Show must go on.
-It's time for our act. 
+It's time for our act.
 
-They all scream at me. They can not see. 
-This curtain hides me. 
-An amazing gift, so quick and swift... You were amazing. 
-By myself I can't. They start to chant. 
+They all scream at me. They can not see.
+This curtain hides me.
+An amazing gift, so quick and swift... You were amazing.
+By myself I can't. They start to chant.
 Why are you not here?
 
-Grinning at me, I lay on my knees. 
+Grinning at me, I lay on my knees.
 They want to hear me. Why can not 'he' see?
 I want to see you. I need to see you. I have to see
 you.
-What happened to you? 
+What happened to you?
 
-We get up on stage. They jump to enrage. 
+We get up on stage. They jump to enrage.
 Why are you not here? Why is 'he' so near?
 'He' wants me to sing. I just can not bring...
-I say 'he's' not you. 
+I say 'he's' not you.
 What else can I do?
 
 ═══════════════════════════════════════════════════════════════════════
@@ -79,18 +79,18 @@ LOG ID:              AFD-SU-507/JNL-002
 LOG TYPE:            Trauma Reflection
 DATE:                2021-09-02
 
-[Entry produced during a therapy session. Subject refers to herself in 
+[Entry produced during a therapy session. Subject refers to herself in
 the third person, using the labels imposed by the Circus.]
 
-"Singing its silent song of misery. 
+"Singing its silent song of misery.
 A monster lies trapped in its own nightmare.
 He is a tyrant. It lets out a plea... 'Why did she have to
 leave it all
 alone?'
 
-Bound to sing for us. A worthless monster. 
-It never sees us. It despises us. 
-Lying so useless. We start to holler... 'Hey, get up you worthless 
+Bound to sing for us. A worthless monster.
+It never sees us. It despises us.
+Lying so useless. We start to holler... 'Hey, get up you worthless
 Circus Monster!'"
 
 ═══════════════════════════════════════════════════════════════════════
@@ -100,23 +100,23 @@ Circus Monster!'"
 LOG ID:              AFD-SU-507/JNL-003
 LOG TYPE:            Memetic Memory Recovery
 
-[Subject describes the departure of two other entities in the circus 
+[Subject describes the departure of two other entities in the circus
 during a previous performance failure.]
 
-I lay all alone. I should have known you would have left me. 
-'He' smiles at me. I can not see why 'he's' in your place. 
-They can't tell me why you said 'Good bye' right before our act. 
-Those two young lions were always so fun. 
+I lay all alone. I should have known you would have left me.
+'He' smiles at me. I can not see why 'he's' in your place.
+They can't tell me why you said 'Good bye' right before our act.
+Those two young lions were always so fun.
 Why did they leave too?
 
-Roaring at me. I lay on my knees. 
-What is happening? I can hear you sing. 
-They will not obey. They've been lead astray. 
-Will I still see you? I have to see you. 
+Roaring at me. I lay on my knees.
+What is happening? I can hear you sing.
+They will not obey. They've been lead astray.
+Will I still see you? I have to see you.
 
-I panic and flee. They both pounce on me. 
-I fall to the ground. I can't hear a sound. 
-I look up and see you are not with me. 
+I panic and flee. They both pounce on me.
+I fall to the ground. I can't hear a sound.
+I look up and see you are not with me.
 Am I all alone? Where could you have gone?
 
 ═══════════════════════════════════════════════════════════════════════
@@ -126,18 +126,18 @@ Am I all alone? Where could you have gone?
 LOG ID:              AFD-SU-507/JNL-004
 DATE:                2021-12-25
 
-[Final entry in the current dossier. Subject transitions to first-person 
+[Final entry in the current dossier. Subject transitions to first-person
 identity, embracing the "Monster" label as a defense.]
 
-"Singing my silent song of misery. 
-This monster lies trapped in my own nightmare. 
+"Singing my silent song of misery.
+This monster lies trapped in my own nightmare.
 He is a tyrant. I let out a plea... 'Why did you have to
 leave me
 all alone?'
 
-Bound to sing for them. A worthless monster. 
-I never see them. I despise them so. 
-Lying so useless. They start to holler... 
+Bound to sing for them. A worthless monster.
+I never see them. I despise them so.
+Lying so useless. They start to holler...
 'Hey, get up you worthless Circus Monster!'"
 
 ═══════════════════════════════════════════════════════════════════════
@@ -148,8 +148,8 @@ LOG ID:              AFD-SU-507/JNL-005
 LOG TYPE:            Controlled Recall Manuscript
 DATE:                2022-03-14
 
-[Note: This text was produced after the subject achieved baseline 
-stability. She was not experiencing a PTSD episode or anomalous 
+[Note: This text was produced after the subject achieved baseline
+stability. She was not experiencing a PTSD episode or anomalous
 vocal resonance during transcription.]
 
 Time is dead and gone, Show must go on
@@ -217,13 +217,13 @@ Lying so useless. they start to holler
                          DOSSIER CLOSING
 ═══════════════════════════════════════════════════════════════════════
 
-The "Circus Monster" diary provides a harrowing map of a child’s mind 
-broken by anomalous exploitation. The transition from "It" to "I" in the 
-final logs indicates a developing self-awareness, though one still 
-shackled to the labels of her abuse. 
+The "Circus Monster" diary provides a harrowing map of a child’s mind
+broken by anomalous exploitation. The transition from "It" to "I" in the
+final logs indicates a developing self-awareness, though one still
+shackled to the labels of her abuse.
 
 MANDATORY BRIEFING PHRASE FOR HANDLERS:
-                     "She is not the monster they called her. 
+                     "She is not the monster they called her.
                       She is the survivor they left behind."
 
 CURRENT DOSSIER STATUS: Open / Ongoing Psychological Support

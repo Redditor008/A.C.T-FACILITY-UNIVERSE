@@ -179,9 +179,9 @@ never learns to ask about.
 
 - ACT-SITE-01-US-W-F-9 Surface Transition Level Floor Dossier;
 - ACT-SITE-01-US-W-F-8 Administration and Personnel Floor Dossier;
-- TECH-ACT-055 - Silent Boundary System;
-- TECH-ACT-080 - Concealed Transition Access Architecture;
-- TECH-ACT-129 - Vertical-Flow Personnel Processing and Clearance Verification System;
+- TECH-ACT-055 — Silent Boundary System;
+- TECH-ACT-080 — Concealed Transition Access Architecture;
+- TECH-ACT-129 — Vertical-Flow Personnel Processing and Clearance Verification System;
 - Redwood Veil boundary incident and loading intake ledgers [security-restricted].
 
 ---
@@ -191,11 +191,11 @@ never learns to ask about.
   How ordinary can a wall remain after too many personnel are trained never
   to
   notice it?
-- Should loading bay denials be randomized to avoid pattern recognition?
-- Can the wall's unbreached record make staff slow to report small boundary changes?
+— Should loading bay denials be randomized to avoid pattern recognition?
+— Can the wall's unbreached record make staff slow to report small boundary changes?
   How much legitimate campus traffic should be allowed near the Facility side of
   logistics?
-- Does emergency sealing protect the core or reveal that the core exists?
+— Does emergency sealing protect the core or reveal that the core exists?
   When does perfect concealment become dangerous because no one outside Security remembers the
   boundary
   is active?
@@ -204,9 +204,8 @@ never learns to ask about.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Boundary Chief / Security Division / Central Archive
-**Review Status:** Active surface boundary and loading transition technology record; wall geometry, elevator routing,
-sensor maps, and loading schedules censored
-**Next Review:** After any wall proximity incident, screening failure, loading intake violation, elevator access
-conflict, communication boundary fault, or buried-core seal activation
+**Created:** 2026-09-16 **Author Desk:** Boundary Chief / Security Division / Central Archive **Review Status:**
+Active surface boundary and loading transition technology record; wall geometry, elevator routing, sensor maps,
+and
+loading schedules censored **Next Review:** After any wall proximity incident, screening failure, loading intake
+violation, elevator access conflict, communication boundary fault, or buried-core seal activation

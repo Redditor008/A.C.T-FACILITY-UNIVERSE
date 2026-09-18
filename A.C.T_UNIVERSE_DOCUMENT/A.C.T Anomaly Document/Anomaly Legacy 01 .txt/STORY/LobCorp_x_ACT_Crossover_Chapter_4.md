@@ -2,10 +2,10 @@
 ## A Lobotomy Corporation × A.C.T. Facility Crossover
 ### Days 14–16: The Rest Days / E.G.O. Extraction
 
-> **Loop Count:** 10,127  
-> **Facility:** Lobotomy Corporation X-394, District 12  
-> **Motto:** *FACE THE FEAR, BUILD THE FUTURE.*  
-> **A.C.T. First Doctrine:** *Keep it asleep.*  
+> **Loop Count:** 10,127
+> **Facility:** Lobotomy Corporation X-394, District 12
+> **Motto:** *FACE THE FEAR, BUILD THE FUTURE.*
+> **A.C.T. First Doctrine:** *Keep it asleep.*
 
 ---
 
@@ -125,9 +125,9 @@ apron-like garment that can be worn over standard equipment. The fabric is soft 
 warm, and it carries a faint
 mechanical hum.
 
-> **E.G.O. Equipment: The Lonely Daughter's Apron**  
-> **Type:** Armor  
-> **Resistance:** RED +0.4, WHITE +0.6, BLACK +0.3, PALE +0.2  
+> **E.G.O. Equipment: The Lonely Daughter's Apron**
+> **Type:** Armor
+> **Resistance:** RED +0.4, WHITE +0.6, BLACK +0.3, PALE +0.2
   **Special Effect:** When the wearer is separated from allies, the apron generates a
   protective
   field that redirects
@@ -200,10 +200,10 @@ Then, without warning, the E.G.O. extraction completes. The result is a weapon: 
 curved blade the color of
 dried blood, with a hilt wrapped in black cloth that seems to drink light.
 
-> **E.G.O. Equipment: The Thirsting Blade**  
-> **Type:** Weapon  
-> **Damage:** RED (7–9)  
-> **Attack Speed:** Fast  
+> **E.G.O. Equipment: The Thirsting Blade**
+> **Type:** Weapon
+> **Damage:** RED (7–9)
+> **Attack Speed:** Fast
   **Special Effect:** Each successful strike drains a small percentage of the target's health
   and
   restores it to the
@@ -240,10 +240,10 @@ The E.G.O. extraction completes in minutes. The result is a weapon: a pale, clou
 baton with soft, rounded
 edges. It looks like something a child would dream of.
 
-> **E.G.O. Equipment: The Sleep-Stealer's Baton**  
-> **Type:** Weapon  
-> **Damage:** WHITE (4–6)  
-> **Attack Speed:** Average  
+> **E.G.O. Equipment: The Sleep-Stealer's Baton**
+> **Type:** Weapon
+> **Damage:** WHITE (4–6)
+> **Attack Speed:** Average
   **Special Effect:** Strikes induce a deep sleep in the target. Targets already asleep
   have
   their dreams partially
@@ -340,10 +340,10 @@ rising through a stem.
 The result is a weapon: a slender needle-like blade with a golden sheen, light
 enough to be thrown.
 
-> **E.G.O. Equipment: The Memory-Thief's Needle**  
-> **Type:** Weapon  
-> **Damage:** WHITE (5–7)  
-> **Attack Speed:** Fast  
+> **E.G.O. Equipment: The Memory-Thief's Needle**
+> **Type:** Weapon
+> **Damage:** WHITE (5–7)
+> **Attack Speed:** Fast
   **Special Effect:** Successful strikes cause the target to forget the last few seconds
   of
   combat. If the target is an
@@ -426,12 +426,11 @@ closed, still sleeping.
 
 Their leader records a single message:
 
-  **Entity ITHYOS is present. It is non-native to the Well. It is non-native
-  to
-  the City. It is a structural implant
-  from an external cosmological framework. The Well is not containing it. The Well is
-  hosting it. Recommend immediate
-  quarantine of District 12 and severance of the Rift by any means necessary.**
+**Entity ITHYOS is present. It is non-native to the Well. It is non-native to
+the City. It is a structural implant
+from an external cosmological framework. The Well is not containing it. The Well is
+hosting it. Recommend immediate
+quarantine of District 12 and severance of the Rift by any means necessary.**
 
 The message is sent.
 
@@ -469,19 +468,17 @@ without permission.
 Angela sends a message to Hokma, to Binah, to the other Sephirah who remember
 enough to understand:
 
-  **The Head is waiting. It will not act until the taboo is clear.
-  But
-  the taboo is no longer ours to define. The Well
-  has broken a rule by inviting ITHYOS here. We are no longer the only
-  ones outside the script. We are no longer the
-  only ones who know the loop is wrong.**
+**The Head is waiting. It will not act until the taboo is clear. But
+the taboo is no longer ours to define. The Well
+has broken a rule by inviting ITHYOS here. We are no longer the only
+ones outside the script. We are no longer the
+only ones who know the loop is wrong.**
 
 She pauses. Then she adds:
 
-  **Use the rest days. Extract what E.G.O. you can. Prepare the employees. When
-  the
-  Head moves, the script will be the
-  least of our concerns.**
+**Use the rest days. Extract what E.G.O. you can. Prepare the employees. When the
+Head moves, the script will be the
+least of our concerns.**
 
 Angela looks at the selection screen. It shows two options. Normal options. Abnormalities from
 the Well, from the
@@ -512,7 +509,7 @@ Or if it will be a door.
   The
   field redirects
   incoming damage toward nearby Abnormalities and grows stronger with prolonged isolation.
-- **Memento:** *"I will be good. I will be useful. Please come back."*
+— **Memento:** *"I will be good. I will be useful. Please come back."*
 
 ### The Thirsting Blade
 - **Source:** O-04-203 — The Thirst Above Hand
@@ -523,7 +520,7 @@ Or if it will be a door.
   the
   wielder. After prolonged
   use, the wielder cannot sheathe the weapon until it has tasted blood.
-- **Memento:** *"It was waiting politely."*
+— **Memento:** *"It was waiting politely."*
 
 ### The Sleep-Stealer's Baton
 - **Source:** O-02-204 — The Dream Eater
@@ -534,7 +531,7 @@ Or if it will be a door.
   dreams
   consumed, dealing
   additional WHITE damage and leaving them unable to recall the dream.
-- **Memento:** *"That was the best sleep I ever had."*
+— **Memento:** *"That was the best sleep I ever had."*
 
 ### The Memory-Thief's Needle
 - **Source:** O-01-205 — NEMNOLIA, The Golden Veil
@@ -546,7 +543,7 @@ Or if it will be a door.
   combat. Employees struck by
   the needle also lose one traumatic memory at random. Repeated strikes cause cumulative identity
   erosion.
-- **Memento:** *"The flower remembers what you want to forget."*
+— **Memento:** *"The flower remembers what you want to forget."*
 
 ### ITHYOS — No E.G.O. Extracted
 - **Status:** Forbidden / Impossible

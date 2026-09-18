@@ -217,9 +217,9 @@ the tree became a plank.
 - Dark World Door, AFD-PL-932;
 - Dark World Door Expedition Log;
 - Dark World Door Blue Dirt Reactivity Dossier;
-- TECH-ACT-024 - Pale Wood Scalpel;
-- TECH-ACT-027 - Gold-Tipped Mining Drills;
-- TECH-ACT-042 - Refined Steel-Dirt.
+- TECH-ACT-024 — Pale Wood Scalpel;
+- TECH-ACT-027 — Gold-Tipped Mining Drills;
+- TECH-ACT-042 — Refined Steel-Dirt.
 
 ---
 
@@ -236,8 +236,8 @@ the tree became a plank.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Materials Custody / Dark World Survey / Central Archive  
-**Review Status:** Active anomalous material record; harvest map and gold-tool vulnerability details censored  
-**Next Review:** After any harvest, dust leak, gold-tool discrepancy, structural installation, or unexplained HPW
-behavior
+**Created:** 2026-09-15 **Author Desk:** Materials Custody / Dark World Survey / Central Archive **Review
+Status:**
+Active anomalous material record; harvest map and gold-tool vulnerability details censored **Next Review:** After
+any
+harvest, dust leak, gold-tool discrepancy, structural installation, or unexplained HPW behavior

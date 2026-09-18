@@ -41,8 +41,9 @@ A shape beneath the shape.
 
 Sera spent two shifts threading them together.
 
-The lower route maintenance did not behave like maintenance for a chamber.
-It behaved like maintenance for a condition.
+The lower route maintenance did not behave like maintenance for a chamber. It behaved
+like maintenance for a
+condition.
 
 That was the first clue.
 
@@ -55,9 +56,7 @@ response.”
 
 Movement.
 
-Not breach.
-Not attack.
-Not emergence.
+Not breach. Not attack. Not emergence.
 
 Movement.
 
@@ -67,12 +66,9 @@ She pulled the corresponding seismic file and found a familiar pattern: a low-gr
 tremor logged on the same
 date as a deep-route support surge. Magnitude 3 equivalent. Non-natural origin flagged and sealed.
 
-Then another.
-And another.
-And another.
+Then another. And another. And another.
 
-Not isolated earthquakes.
-A body in sleep, shifting enough to move the world.
+Not isolated earthquakes. A body in sleep, shifting enough to move the world.
 
 Sera sat very still in the half-lit maintenance archive while the implication finished assembling
 itself around her.
@@ -183,8 +179,8 @@ She scrolled further down the support file. “This isn’t chamber maintenance.
 
 That answer frightened her more than anything else he had said.
 
-A.C.T was not keeping ITHYOS in a cell.
-A.C.T was preserving a state of the world in which ITHYOS remained asleep.
+A.C.T was not keeping ITHYOS in a cell. A.C.T was preserving a state of
+the world in which ITHYOS remained asleep.
 
 That changed everything.
 
@@ -241,11 +237,11 @@ and wound its own history into survivable shape.
 
 All of it might have grown from the sleep of the thing below.
 
-No wonder the founders had erased themselves.
-If they had understood that clearly—if they had known the institution preserving the world
-would also depend on a
-bloom born of the abyssal dream—then forgetting would not have felt like cowardice.
-It would have felt like the last clean decision available.
+No wonder the founders had erased themselves. If they had understood that clearly—if they
+had known the institution
+preserving the world would also depend on a bloom born of the abyssal dream—then
+forgetting would not have felt like
+cowardice. It would have felt like the last clean decision available.
 
 Tavian pressed a hand to the edge of the console as if steadying himself.
 “There’s something else.”
@@ -267,13 +263,13 @@ Sera felt the word go through her like cold metal.
 
 Return.
 
-Not first arrival.
-Not discovery.
+Not first arrival. Not discovery.
 
 Return.
 
 The branch beneath Central had used the same logic. Keep line clear for return.
-The records were converging again, different systems choosing the same impossible word.
+The records were converging again,
+different systems choosing the same impossible word.
 
 “Returned from what?” she asked.
 
@@ -299,11 +295,11 @@ In her quarters that night, she opened the shadow file and created another headi
 **SLEEP-PRESERVATION MODEL**
 
 Beneath it she wrote:
-- ITHYOS not chamber-contained  
-- support systems preserve dormant state, not physical restraint  
-- global seismic correlation suggests body movement during sleep  
-- abyss maintenance is condition maintenance  
-- NEMNOLIA viability may depend on dream-state stability  
+- ITHYOS not chamber-contained
+- support systems preserve dormant state, not physical restraint
+- global seismic correlation suggests body movement during sleep
+- abyss maintenance is condition maintenance
+- NEMNOLIA viability may depend on dream-state stability
 - founders may have erased themselves because the support truth was unusable in full
 
 She stopped there, then added one more line after a long time of staring
@@ -315,8 +311,7 @@ with it.**
 When she finally closed the file, the room felt smaller than it had the
 night before.
 
-Not because the walls had changed.
-Because she had.
+Not because the walls had changed. Because she had.
 
 Somewhere below every mapped floor, beyond the point where architecture became maintenance and maintenance
 became

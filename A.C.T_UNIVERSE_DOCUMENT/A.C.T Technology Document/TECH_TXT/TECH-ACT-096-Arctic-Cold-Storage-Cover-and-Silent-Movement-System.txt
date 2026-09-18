@@ -186,9 +186,9 @@ OPEN QUESTIONS
 - Which transport delays create cover risk instead of reducing it?
 - Can silent removal from the transport chain be noticed by logistics partners over
 time?
-- When should the surface facility close rather than explain an arrival?
-- How much quarantine capability can the cover display before it invites inspection?
-- Should cold-chain paperwork and internal hazard records ever share identifiers?
+— When should the surface facility close rather than explain an arrival?
+— How much quarantine capability can the cover display before it invites inspection?
+— Should cold-chain paperwork and internal hazard records ever share identifiers?
 
 FILE METADATA
 

@@ -29,7 +29,7 @@ TECHNOLOGY RECORD - ANTI REALITY MESH SYSTEM
 |                            | and civilian-perception tables                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Restricted Technology Record  
+Archive Status: Active Restricted Technology Record
 Distribution: Engineering / Civil Covert / Site Command / Containment / Intelligence / Archive
 / Command
 Authority: Engineering Division, Civil Covert Division, Site Command, Normalcy Management, and Central Archive
@@ -104,10 +104,10 @@ ARM appears in five major roles:
 
 - fixed site concealment, including surface campuses, service entries, perimeter roads, and exterior facility
 signatures;
-- civilian perception management around A.C.T buildings, false companies, and restricted infrastructure;
-- surveillance dampening against ordinary cameras, map services, delivery systems, and casual drone observation;
-- emergency misdirection during breach response, transport arrival, or surface lockdown;
-- post-incident normalcy support when an area must remain publicly boring long enough for
+— civilian perception management around A.C.T buildings, false companies, and restricted infrastructure;
+— surveillance dampening against ordinary cameras, map services, delivery systems, and casual drone observation;
+— emergency misdirection during breach response, transport arrival, or surface lockdown;
+— post-incident normalcy support when an area must remain publicly boring long enough for
 Civil Covert to replace the
 story.
 
@@ -442,16 +442,16 @@ OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
 
 - How much long-term ARM exposure changes staff expectations of public attention remains incompletely
 studied.
-- Can hostile GOIs map ARM edges by tracking what civilians do not photograph?
-- Do repeated ARM-WHITE activations create civilian memory scars similar to low-grade amnestic aftereffects?
-- Can ARM and RSA overlap cause a location to remain physically stable while
+— Can hostile GOIs map ARM edges by tracking what civilians do not photograph?
+— Do repeated ARM-WHITE activations create civilian memory scars similar to low-grade amnestic aftereffects?
+— Can ARM and RSA overlap cause a location to remain physically stable while
 becoming narratively suspicious?
-- Are old estate boundary practices embedded in the Siena Alpha lineage still present
+— Are old estate boundary practices embedded in the Siena Alpha lineage still present
 in modern node behavior?
-- How many current map-service anomalies are ARM artifacts rather than outside probes?
-- Can social-media swarm behavior overload a local ARM field faster than Civil Covert
+— How many current map-service anomalies are ARM artifacts rather than outside probes?
+— Can social-media swarm behavior overload a local ARM field faster than Civil Covert
 can redirect narrative?
-- What happens if ARM attempts to make an already famous site unremarkable after
+— What happens if ARM attempts to make an already famous site unremarkable after
 exposure has hardened?
 
 ---

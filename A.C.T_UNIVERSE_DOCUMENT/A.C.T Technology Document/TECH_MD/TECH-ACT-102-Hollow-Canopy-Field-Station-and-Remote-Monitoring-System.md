@@ -173,9 +173,9 @@ the field changes.
 
 - ACT-SUB-04-BR-C Hollow Canopy Enclosure Sub-Site Dossier;
 - ACT-SITE-04-BR-C Verde Null Bio-Reserve Site Dossier;
-- TECH-ACT-100 - Native Containment Field System;
-- TECH-ACT-101 - Concealed Perimeter Sector Network;
-- TECH-ACT-067 - Deep-Earth Sensor Arrays;
+- TECH-ACT-100 — Native Containment Field System;
+- TECH-ACT-101 — Concealed Perimeter Sector Network;
+- TECH-ACT-067 — Deep-Earth Sensor Arrays;
 - Hollow Canopy observation program files [restricted].
 
 ---
@@ -185,19 +185,18 @@ the field changes.
 - Which resident changes are natural growth and which are responses to being watched?
   How small must a field station be before it no longer changes the
   sector?
-- Can remote monitoring miss the exact ecological relationship that direct observation would reveal?
-- Should some sectors be observed less often to preserve stability?
-- When does a data gap require physical entry despite intrusion risk?
-- Can concealed monitoring infrastructure itself become part of the resident's field?
+— Can remote monitoring miss the exact ecological relationship that direct observation would reveal?
+— Should some sectors be observed less often to preserve stability?
+— When does a data gap require physical entry despite intrusion risk?
+— Can concealed monitoring infrastructure itself become part of the resident's field?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Environmental Containment Lead / Research Support Lead / Central Archive
+**Created:** 2026-09-16 **Author Desk:** Environmental Containment Lead / Research Support Lead / Central Archive
 **Review Status:** Active field station monitoring record; live station maps, sensor placements, resident data,
 and
-route schedules censored
-**Next Review:** After any data gap, sensor visibility event, station discovery, root-zone disturbance, resident
-behavior shift, or parent-reserve research dispute
+route schedules censored **Next Review:** After any data gap, sensor visibility event, station discovery,
+root-zone
+disturbance, resident behavior shift, or parent-reserve research dispute

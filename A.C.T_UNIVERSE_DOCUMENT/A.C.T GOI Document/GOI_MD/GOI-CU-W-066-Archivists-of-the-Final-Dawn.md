@@ -148,17 +148,17 @@ A.C.T assessment identifies these functional layers:
   ledger priors who classify whether a record is safe, sealed, living, false, or
   too
   late;
-- last-word conservators who gather final messages and protect them from public misuse;
+— last-word conservators who gather final messages and protect them from public misuse;
   language wardens who preserve endangered words that may describe anomaly conditions no formal
   system
   names;
   map keepers who copy roads, rooms, coastlines, wells, and shelters before they vanish
   or
   change;
-- witness-box clerks who store small civilian proofs when full testimony is unsafe;
-- fire copyists who make duplicates designed to survive destruction of the original;
-- dawn couriers who move sealed boxes through disaster routes;
-- quiet readers who review records aloud only after containment clearance or mourning rites.
+— witness-box clerks who store small civilian proofs when full testimony is unsafe;
+— fire copyists who make duplicates designed to survive destruction of the original;
+— dawn couriers who move sealed boxes through disaster routes;
+— quiet readers who review records aloud only after containment clearance or mourning rites.
 
 This structure makes the order a real GOI. It is not only people who
 like archives. It has doctrine, roles, access
@@ -477,9 +477,9 @@ transcription.
   The order collects and protects records from communities, witnesses, and locations at risk
   of
   ending or erasure.
-- Its materials have assisted A.C.T in missing-person identification, erased-town reconstruction, and record
+— Its materials have assisted A.C.T in missing-person identification, erased-town reconstruction, and record
   reconciliation.
-- Some preserved materials contain active hazard details and cannot circulate without review.
+— Some preserved materials contain active hazard details and cannot circulate without review.
   The order's relationship to A.C.T is Work because practical cooperation exists but destruction
   of
   records remains
@@ -511,7 +511,7 @@ still be able to read the names.
   deletion
   and public
   narrative collapse?
-- How many preservation houses hold A.C.T-restricted material without declared custody?
+— How many preservation houses hold A.C.T-restricted material without declared custody?
   Does opening a witness box change the memory of the reader, the record,
   or
   both?
@@ -522,7 +522,7 @@ still be able to read the names.
   Watch
   Tower, or public disaster
   agencies?
-- What does the ledger category too late mean?
+— What does the ledger category too late mean?
   Can hostile market groups purchase or steal dawn copies for leverage over survivor
   families?
 

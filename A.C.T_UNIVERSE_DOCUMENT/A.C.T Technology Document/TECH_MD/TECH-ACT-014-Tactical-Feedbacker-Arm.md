@@ -234,16 +234,16 @@ you.
   improvisation?
   Can TFA safely redirect anomalous energy bursts without storing trace behavior in the
   capacitor?
-- How many red-window parries can one operator survive across a career?
-- Is the success ding psychologically necessary, or does it encourage risk-taking?
-- Can paired TFA operators create dangerous harmonic interference?
+— How many red-window parries can one operator survive across a career?
+— Is the success ding psychologically necessary, or does it encourage risk-taking?
+— Can paired TFA operators create dangerous harmonic interference?
 
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Tactical Engineering / Medical Prosthetics Desk / Field Command / Central Archive  
-**Review Status:** Active restricted record; capacitor tuning and parry timing censored  
-**Next Review:** After any false success signal, operator feedback injury, anomaly-contact parry, or bonded-unit
-retirement
+**Created:** 2026-09-15 **Author Desk:** Tactical Engineering / Medical Prosthetics Desk / Field Command /
+Central
+Archive **Review Status:** Active restricted record; capacitor tuning and parry timing censored **Next Review:**
+After
+any false success signal, operator feedback injury, anomaly-contact parry, or bonded-unit retirement

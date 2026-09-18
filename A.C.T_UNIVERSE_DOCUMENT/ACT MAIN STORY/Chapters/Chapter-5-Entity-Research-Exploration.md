@@ -77,13 +77,8 @@ thing might help them survive it.
 
 The entries were dense with uncertainty:
 
-*manifestation,*  
-*presence,*  
-*living phenomenon,*  
-*devotional residue,*  
-*non-aging condition,*  
-*below-sound vibration,*  
-*repeating dream geometry.*
+*manifestation,* *presence,* *living phenomenon,* *devotional residue,* *non-aging condition,* *below-sound
+vibration,* *repeating dream geometry.*
 
 Dream geometry.
 
@@ -107,16 +102,16 @@ The same shape. The same downward line split by curved chambers. The same notati
 at the base in different hands,
 different regions, different decades.
 
-No one labeled it the same way twice.
-But all of them meant the same thing.
+No one labeled it the same way twice. But all of them meant the
+same thing.
 
 **below**
 
 Sera’s pulse climbed as she turned pages.
 
-ERE had not assembled the abyssal expedition because of one anomaly.
-It had assembled the expedition because multiple smaller impossibilities kept bending toward the same
-hidden depth.
+ERE had not assembled the abyssal expedition because of one anomaly. It had assembled
+the expedition because multiple
+smaller impossibilities kept bending toward the same hidden depth.
 
 That alone would have been enough.
 
@@ -133,8 +128,7 @@ the end of each dream waited something different:
 a shaft, a root system, a line of gold beneath white tissue, a pulse
 deep below hearing.
 
-The records did not claim certainty.
-That made them worse.
+The records did not claim certainty. That made them worse.
 
 They merely noted the practical effect: after each dream cycle, the affected personnel were
 able to sketch route
@@ -142,8 +136,7 @@ structures later found to correspond closely with real subterranean formations u
 
 Sera sat back, staring at the lines until the script blurred.
 
-They had not found the route by drilling blind.
-They had followed something.
+They had not found the route by drilling blind. They had followed something.
 
 She pulled the next carton toward her and opened it with shaking fingers. Inside
 were map sheets layered in protective
@@ -161,8 +154,8 @@ One corner note had been underlined so heavily it had torn the paper fibers.
 
 Sera closed her eyes.
 
-That was not metaphor.
-That was operational language trying not to admit what it implied.
+That was not metaphor. That was operational language trying not to admit what it
+implied.
 
 Someone in ERE had realized the expedition was being guided by something that arrived
 first in memory and only later
@@ -176,8 +169,7 @@ She had not heard her approach.
 
 Sera turned the map so Mila could read the note.
 
-Mila did not lean closer.
-She did not need to.
+Mila did not lean closer. She did not need to.
 
 “Dream geometry,” Sera said.
 
@@ -238,14 +230,13 @@ found was not one
 expedition leading to one discovery, but a chain of encounters converging on a single
 inevitability.
 
-A non-aging founder-group thought to be suffering a limited entity event.
-A cluster of contradictory serpent behavior incidents.
-Anomalous tremors beneath regions with no stable fault explanation.
-Recovered tissue notes tied to pale blue-white biological matter.
-Dream logs. Route sketches. Memory instability.
+A non-aging founder-group thought to be suffering a limited entity event. A cluster of
+contradictory serpent behavior
+incidents. Anomalous tremors beneath regions with no stable fault explanation. Recovered tissue notes tied
+to pale
+blue-white biological matter. Dream logs. Route sketches. Memory instability.
 
-The pattern did not point downward by accident.
-It assembled itself.
+The pattern did not point downward by accident. It assembled itself.
 
 Near the bottom of the second ledger she found the line that broke what
 little ordinary certainty remained.
@@ -271,18 +262,17 @@ stability. Of the impossible chronology in which the bloom seemed to exist befor
 official discovery. Of 004
 compounds used over and over on internal personnel tied to abyss recovery.
 
-What if the founders had not simply found the sleeping thing below?
-What if contact had begun before contact?
-What if the descent was not the first moment of influence, but only the
-first moment anyone realized influence had
-already happened?
+What if the founders had not simply found the sleeping thing below? What if
+contact had begun before contact? What if
+the descent was not the first moment of influence, but only the first moment
+anyone realized influence had already
+happened?
 
 By the end of shift she had three pages of shadow notes and one
 terrible sentence forming with increasing clarity
 beneath all of them:
 
-ERE was not investigating the abyss.
-ERE was being assembled by it.
+ERE was not investigating the abyss. ERE was being assembled by it.
 
 She closed the last ledger and sat in the amber quiet long after the
 signal lamps marked end-cycle.
@@ -340,11 +330,11 @@ a new heading beneath the existing chain:
 
 Under it, she wrote:
 
-- multiple precursor anomalies converge toward abyssal route discovery  
-- dream logs function as navigational pre-knowledge  
-- route memory appears before physical route completion  
-- pre-descent tissue records suggest bloom contact before official discovery  
-- descent may not be pure exploration  
+- multiple precursor anomalies converge toward abyssal route discovery
+- dream logs function as navigational pre-knowledge
+- route memory appears before physical route completion
+- pre-descent tissue records suggest bloom contact before official discovery
+- descent may not be pure exploration
 - influence may precede contact
 
 Then, after a long time, she added the line she had been avoiding since

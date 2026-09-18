@@ -2,7 +2,7 @@ A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
 Toy-Dragon-Behavioral-Observation-Dossier-AFD-SU-219
 
 ═══════════════════════════════════════════════════════════════════════
-           A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER           
+           A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
                      Anomaly Containment Transformation
 ═══════════════════════════════════════════════════════════════════════
 
@@ -24,7 +24,7 @@ ARCHIVE STATUS:      Active / Subject-care restricted
 DOSSIER STATUS:      Open — daily welfare checks maintained
 
 ═══════════════════════════════════════════════════════════════════════
-                           CATEGORY CONTENTS                           
+                           CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
 This dossier belongs to A.C.T Log Category VIII — Behavioral & Observation
@@ -52,7 +52,7 @@ enrichment needs — so that its welfare is maintained and "Boredom Breaches"
 are never given a reason to begin.
 
 ═══════════════════════════════════════════════════════════════════════
-               SECTION 001 — HABITAT WELFARE OBSERVATION               
+               SECTION 001 — HABITAT WELFARE OBSERVATION
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-SU-219/OBS-001
@@ -66,9 +66,9 @@ HABITAT SUMMARY:
    - Suite temperature: 24°C base
    - Floor: Refined Steel-Dirt (Item 42) for a durable, non-abrasive surface
      for the subject's claws and tail
-   - Enrichment: large rubber balls and non-anomalous plastic blocks
+   — Enrichment: large rubber balls and non-anomalous plastic blocks
      approved; shiny objects retained as distraction assets
-   - Cadence: daily welfare checks / weekly habitat cleaning
+   — Cadence: daily welfare checks / weekly habitat cleaning
 
 OBSERVER NOTE: The habitat is maintained to the standard of a large juvenile
 animal, because that is what the subject is — a child made of polymer,
@@ -76,7 +76,7 @@ with a
 child's needs and a child's dignity.
 
 ═══════════════════════════════════════════════════════════════════════
-     SECTION 002 — FEEDING BEHAVIOR AND ZERO-WASTE METABOLISM LOG      
+     SECTION 002 — FEEDING BEHAVIOR AND ZERO-WASTE METABOLISM LOG
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-SU-219/OBS-002
@@ -104,7 +104,7 @@ the one the Transformation Division watches closest — a complete, efficient
 conversion of matter into structure.
 
 ═══════════════════════════════════════════════════════════════════════
-         SECTION 003 — SHEDDING CYCLE AND SCALE COLLECTION LOG         
+         SECTION 003 — SHEDDING CYCLE AND SCALE COLLECTION LOG
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-SU-219/OBS-003
@@ -127,7 +127,7 @@ COLLECTION RECORD:
    - Detached scales lose anomalous resilience once separated
 
 ═══════════════════════════════════════════════════════════════════════
-             SECTION 004 — THERMAL MIST RESPIRATION RECORD             
+             SECTION 004 — THERMAL MIST RESPIRATION RECORD
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-SU-219/OBS-004
@@ -148,10 +148,10 @@ ANALYSIS:
    - The purple mist contains trace amounts of [ REDACTED ]
    - The mist carries a faint, pleasant scent often described by staff as
      "new toy smell"
-   - Localized thermal emission only; no environmental hazard recorded
+   — Localized thermal emission only; no environmental hazard recorded
 
 ═══════════════════════════════════════════════════════════════════════
-             SECTION 005 — ENRICHMENT AND READING SESSIONS             
+             SECTION 005 — ENRICHMENT AND READING SESSIONS
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-SU-219/OBS-005
@@ -178,7 +178,7 @@ are logged as enrichment because a child who cannot ask for a story should
 still be read one.
 
 ═══════════════════════════════════════════════════════════════════════
-              SECTION 006 — CLOSING OBSERVATION STATEMENT              
+              SECTION 006 — CLOSING OBSERVATION STATEMENT
 ═══════════════════════════════════════════════════════════════════════
 
 LOG ID:              AFD-SU-219/OBS-CLS-001

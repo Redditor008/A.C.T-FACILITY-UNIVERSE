@@ -188,10 +188,10 @@ but it must know how the signal reached the file.
 
 - ACT-SITE-05-ID-C Nusantara Deep Relay Site Dossier;
 - ACT-SITE-05-ID-C-F-1 The Deep Listening Vault Floor Dossier;
-- TECH-ACT-067 - Deep-Earth Sensor Arrays;
-- TECH-ACT-058 - F-1 Closure System;
-- TECH-ACT-050 - Digital Resonance Mapping Suite;
-- TECH-ACT-003 - Quantum Narrative Buffer System;
+- TECH-ACT-067 — Deep-Earth Sensor Arrays;
+- TECH-ACT-058 — F-1 Closure System;
+- TECH-ACT-050 — Digital Resonance Mapping Suite;
+- TECH-ACT-003 — Quantum Narrative Buffer System;
 - Nusantara restricted signal windows [restricted].
 
 ---
@@ -214,10 +214,9 @@ but it must know how the signal reached the file.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15
-**Author Desk:** Seismic Analysis Support / Vault Listening Chief / Central Archive
-**Review Status:** Active sensor-nexus record; baseline weights, restricted gate rules, and preserved abyss-linked
-windows censored
-**Next Review:** After any false escalation, failed restricted routing, local buffer overload, F-1 closure
-event, or
-abyss-linked correlation dispute
+**Created:** 2026-09-15 **Author Desk:** Seismic Analysis Support / Vault Listening Chief / Central Archive
+**Review
+Status:** Active sensor-nexus record; baseline weights, restricted gate rules, and preserved abyss-linked windows
+censored **Next Review:** After any false escalation, failed restricted routing, local buffer overload, F-1
+closure
+event, or abyss-linked correlation dispute

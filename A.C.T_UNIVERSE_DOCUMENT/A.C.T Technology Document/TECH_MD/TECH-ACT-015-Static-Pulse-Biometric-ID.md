@@ -225,9 +225,9 @@ decisions.
 
 - ACT Technological Master Index 50, Item 25;
 - ACT Technological Visual Reference Guide, Item 25;
-- TECH-ACT-007 - Static-Pulse Crystal;
-- TECH-ACT-003 - Quantum Narrative Buffer System;
-- TECH-ACT-004 - 004-Series Amnestic Compound System;
+- TECH-ACT-007 — Static-Pulse Crystal;
+- TECH-ACT-003 — Quantum Narrative Buffer System;
+- TECH-ACT-004 — 004-Series Amnestic Compound System;
 - Identity Control Desk senior-access receipt ledger [restricted];
 - O5 Council pulse library [Level 5].
 
@@ -241,11 +241,11 @@ decisions.
   leaks?
   Does frequent scanning change how a senior staff member's continuity presents to the
   system?
-- Should SPBID denial automatically trigger QNB snapshot comparison for O5 corridors?
+— Should SPBID denial automatically trigger QNB snapshot comparison for O5 corridors?
   Are very clean pulse histories always suspicious, or can some anomalies preserve people
   too
   perfectly?
-- Can amnestic aftercare alter the accepted range without physical change?
+— Can amnestic aftercare alter the accepted range without physical change?
   What happens when two lawful versions of the same person reach the same
   scanner?
 
@@ -253,8 +253,8 @@ decisions.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15  
-**Author Desk:** Security Division / Identity Control Desk / O5 Liaison / Central Archive  
-**Review Status:** Active restricted record; O5 pulse libraries and override rules censored  
-**Next Review:** After any false acceptance, council denial, lawful transformation mismatch, or pulse-library tamper
-event
+**Created:** 2026-09-15 **Author Desk:** Security Division / Identity Control Desk / O5 Liaison /
+Central Archive
+**Review Status:** Active restricted record; O5 pulse libraries and override rules censored **Next Review:**
+After any
+false acceptance, council denial, lawful transformation mismatch, or pulse-library tamper event

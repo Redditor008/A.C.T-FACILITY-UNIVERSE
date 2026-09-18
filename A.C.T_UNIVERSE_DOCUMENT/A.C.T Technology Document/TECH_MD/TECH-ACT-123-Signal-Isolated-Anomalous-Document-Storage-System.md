@@ -181,9 +181,9 @@ exits are possible before it trusts the shelf.
 - ACT-SITE-03-JP-E-F-3 Active Anomalous Document Storage Floor Dossier;
 - ACT-SITE-03-JP-E-F-2 Deep Memetic and Infohazard Vaulting Floor Dossier;
 - ACT-SITE-03-JP-E-F-4 Research and Analysis Level Floor Dossier;
-- TECH-ACT-057 - Anomalous Intake Screening Suites;
-- TECH-ACT-059 - Document Quarantine Cells;
-- TECH-ACT-119 - Media Propagation Tracking Center System;
+- TECH-ACT-057 — Anomalous Intake Screening Suites;
+- TECH-ACT-059 — Document Quarantine Cells;
+- TECH-ACT-119 — Media Propagation Tracking Center System;
 - Kurokawa active holding ledgers [restricted].
 
 ---
@@ -193,8 +193,8 @@ exits are possible before it trusts the shelf.
   Can a document that stops transmitting be trusted, or has it learned the
   storage
   cadence?
-- How much metadata can be retained before metadata becomes a carrier?
-- Should every signal-isolated holding receive F-4 propagation analysis by default?
+— How much metadata can be retained before metadata becomes a carrier?
+— Should every signal-isolated holding receive F-4 propagation analysis by default?
   When does a storage unit become too active for F-3 and require F-2
   vaulting?
   Can a quarantine cell and a signal-isolated unit disagree about what a document
@@ -206,9 +206,7 @@ exits are possible before it trusts the shelf.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Floor Holding Archivist / Document-Holding Command / Central Archive
-**Review Status:** Active signal-isolated storage technology record; live storage maps, holding identities, signal
-logs, and escalation thresholds censored
-**Next Review:** After any signal leak, metadata carrier incident, quarantine reassignment, F-2 escalation, F-4
-sample-control dispute, storage-row cross-talk, or monitoring anomaly
+**Created:** 2026-09-16 **Author Desk:** Floor Holding Archivist / Document-Holding Command / Central Archive **Review
+Status:** Active signal-isolated storage technology record; live storage maps, holding identities, signal logs, and
+escalation thresholds censored **Next Review:** After any signal leak, metadata carrier incident, quarantine
+reassignment, F-2 escalation, F-4 sample-control dispute, storage-row cross-talk, or monitoring anomaly

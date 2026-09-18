@@ -157,9 +157,9 @@ Today the station functions as:
 - the Facility's primary deep-cold containment installation
 - the receiving site for biologically unstable material from across the
   network
-- the long-term isolation site for anomalies whose containment is measured in
+— the long-term isolation site for anomalies whose containment is measured in
   decades rather than years
-- a remote black-containment support node for material that must not be housed
+— a remote black-containment support node for material that must not be housed
   near any population center
 
 ---
@@ -193,9 +193,9 @@ Facility's formal recognition of that necessity.
 The station's jurisdiction overlaps with:
 - ACT-SITE-04-BR-C (Verde Null Bio-Reserve) — for biological material
   that requires the opposite environmental extreme;
-- ACT-SITE-01-US-W (Redwood Veil Complex) — for cold-sensitive material
+— ACT-SITE-01-US-W (Redwood Veil Complex) — for cold-sensitive material
   recovered in urban contexts;
-- ACT-SUB-02-RU-N (Frost Hollow Depot) — its principal support sub-site
+— ACT-SUB-02-RU-N (Frost Hollow Depot) — its principal support sub-site
   for interim cold storage and quarantine staging.
 
 ---
@@ -225,8 +225,8 @@ engineering body. Its work includes:
 - biological suppression chamber management
 - entropic-resistance infrastructure — because the station houses anomalies
   that decay containment systems simply by existing
-- long-term isolation system monitoring
-- climate system redundancy management
+— long-term isolation system monitoring
+— climate system redundancy management
 
 Containment personnel at White Grave maintain the most failure-tolerant
 systems in the Facility network. At any other site, a system failure means an
@@ -362,8 +362,8 @@ The station makes use of:
 - Massive Box and Enclosure Box configurations for larger biological subjects
 - Monitoring Field configurations for anomalies managed through environmental
   control rather than enclosure
-- Blind Box and Eye Box configurations where observation restrictions apply
-- Non-Box and Unclose configurations for anomalies that cannot be described by
+— Blind Box and Eye Box configurations where observation restrictions apply
+— Non-Box and Unclose configurations for anomalies that cannot be described by
   ordinary enclosure logic
 
 The dominant structural theme is environmental: the station's cold is part of
@@ -398,7 +398,7 @@ White Grave's holdings are dominated by:
 - unstable subjects requiring long-term deep isolation
 - material too dangerous or too environmentally dependent to house near
   population centers
-- material transferred from other sites specifically because it cannot be
+— material transferred from other sites specifically because it cannot be
   held elsewhere
 
 10.3 Signature Resident — AFD-OB-412, "Soul Pendant"
@@ -462,9 +462,9 @@ The station accepts:
 The station routes material:
 - to Verde Null Bio-Reserve (ACT-SITE-04-BR-C) when biological material
   requires warm-climate or wilderness management
-- to the Primary Facility for abyss-linked material or high-clearance
+— to the Primary Facility for abyss-linked material or high-clearance
   anomalies requiring central authority
-- to specialized research destinations only under direct central authorization
+— to specialized research destinations only under direct central authorization
 
 Cold-requiring material rarely leaves White Grave. The station's doctrine
 assumes that what arrives in the far north will remain there.

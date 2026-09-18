@@ -175,8 +175,8 @@ made itself.
 
 - ACT-SUB-04-BR-C Hollow Canopy Enclosure Sub-Site Dossier;
 - ACT-SITE-04-BR-C Verde Null Bio-Reserve Site Dossier;
-- TECH-ACT-100 - Native Containment Field System;
-- TECH-ACT-055 - Silent Boundary System;
+- TECH-ACT-100 — Native Containment Field System;
+- TECH-ACT-055 — Silent Boundary System;
 - Hollow Canopy sector boundary register [restricted].
 
 ---
@@ -194,10 +194,8 @@ made itself.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Limited Security Lead / Enclosure Supervisor / Central Archive
-**Review Status:** Active concealed perimeter record; live sector maps, marker codes, routes, and response
-caches
+**Created:** 2026-09-16 **Author Desk:** Limited Security Lead / Enclosure Supervisor / Central Archive **Review
+Status:** Active concealed perimeter record; live sector maps, marker codes, routes, and response caches
 censored
 **Next Review:** After any incursion, marker exposure, boundary drift, resident expansion, staff route discovery,
 or

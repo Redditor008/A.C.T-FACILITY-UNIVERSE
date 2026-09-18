@@ -181,8 +181,8 @@ contained with it.
 - ACT-SITE-04-BR-C Verde Null Bio-Reserve Site Dossier;
 - ACT-SITE-04-BR-C-F-3 Laboratory and Medical Level Floor Dossier;
 - ACT-SITE-04-BR-C-F-2 Interior Biological Holding Floor Dossier;
-- TECH-ACT-103 - Interior Biological Habitat Chamber System;
-- TECH-ACT-100 - Native Containment Field System;
+- TECH-ACT-103 — Interior Biological Habitat Chamber System;
+- TECH-ACT-100 — Native Containment Field System;
 - Verde Null biological sample ledger [restricted].
 
 ---
@@ -200,9 +200,8 @@ contained with it.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Laboratory and Medical Chief / Research Division / Central Archive
-**Review Status:** Active biological laboratory record; live sample chains, resident identities, analysis protocols,
-and medical crossover files censored
-**Next Review:** After any sample drift, context-loss event, cross-contamination, chain break, disposal dispute, or
-field-condition change based on lab findings
+**Created:** 2026-09-16 **Author Desk:** Laboratory and Medical Chief / Research Division / Central Archive
+**Review
+Status:** Active biological laboratory record; live sample chains, resident identities, analysis protocols, and
+medical crossover files censored **Next Review:** After any sample drift, context-loss event, cross-contamination,
+chain break, disposal dispute, or field-condition change based on lab findings

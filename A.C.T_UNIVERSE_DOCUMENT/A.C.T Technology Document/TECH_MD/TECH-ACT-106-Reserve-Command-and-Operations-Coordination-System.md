@@ -194,9 +194,9 @@ are hidden in the forest.
 - ACT-SITE-04-BR-C Verde Null Bio-Reserve Site Dossier;
 - ACT-SITE-04-BR-C-F-4 Personnel and Operations Level Floor Dossier;
 - ACT-SITE-04-BR-C-F-5 Surface Research Campus Floor Dossier;
-- TECH-ACT-100 - Native Containment Field System;
-- TECH-ACT-101 - Concealed Perimeter Sector Network;
-- TECH-ACT-103 - Interior Biological Habitat Chamber System;
+- TECH-ACT-100 — Native Containment Field System;
+- TECH-ACT-101 — Concealed Perimeter Sector Network;
+- TECH-ACT-103 — Interior Biological Habitat Chamber System;
 - Verde Null enclosure-sector status ledgers [restricted].
 
 ---
@@ -211,7 +211,7 @@ are hidden in the forest.
   duty officers?
   Can a perimeter event be treated as minor if it repeats across unrelated
   sectors?
-- When should command override ecological authority during a fast containment event?
+— When should command override ecological authority during a fast containment event?
   How many simultaneous biological alerts can the buried command floor process before outside
   site
   support is mandatory?
@@ -224,9 +224,7 @@ are hidden in the forest.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16
-**Author Desk:** Reserve Operations Command / Security Command Center / Central Archive
+**Created:** 2026-09-16 **Author Desk:** Reserve Operations Command / Security Command Center / Central Archive
 **Review Status:** Active command technology record; live sector maps, communication keys, patrol rosters, and
-incident routing tables censored
-**Next Review:** After any multi-sector incident, concealed boundary alarm, command-channel failure, logistics route
-loss, cover conflict, or division authority dispute
+incident routing tables censored **Next Review:** After any multi-sector incident, concealed boundary alarm,
+command-channel failure, logistics route loss, cover conflict, or division authority dispute
