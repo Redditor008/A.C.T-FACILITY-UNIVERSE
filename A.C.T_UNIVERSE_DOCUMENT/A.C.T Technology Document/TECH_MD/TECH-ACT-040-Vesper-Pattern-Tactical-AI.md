@@ -99,6 +99,35 @@ parameters entered the cube.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and command doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| CORE PARAMETER | VALUE |
+|---|---|
+| Chassis | armored black cube on a vibration-damped tactical base |
+| Sensing | rotating sensor turret on the top face |
+| Optics | front-facing green recognition eye lens |
+| Board | restricted pattern-recognition board |
+| Input | wired tactical uplink port only |
+| Authority | physical mission key slot |
+| Core | isolated combat-logic core |
+| Output | drone command output bus |
+| Testing | simulation sandbox memory |
+| Safety | emergency logic-seal switch |
+| Deployment | command bench, drone cradle, or sealed simulation rack |
+| Recognition filter contents | held at Level 5 |
+| Model horizon | NOT MEASURED |
+| Concurrent asset count | NOT MEASURED |
+| Uplink latency limit | NOT MEASURED |
+
+The system is intentionally isolated: it is not connected to site intelligence, civilian networks,
+personnel
+files, or open archive records. The green lens stays covered when the core is
+not on an authorised mission.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard VPT-AI core is an armored black cube mounted on a vibration-damped tactical
@@ -129,7 +158,53 @@ Idle pattern collection is prohibited.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Core Controls
+
+- physical mission key slot
+- wired tactical uplink port
+- emergency logic-seal switch
+- simulation sandbox selection
+
+### Core And Console Readouts
+
+- status lights on the rear panel
+- recognition filter state
+- commanded asset list on the output bus
+- abort and constraint compliance state
+
+### Command And Personnel Limits
+
+- Do not connect the uplink before the mission key is inserted.
+- Do not bridge the core to any wireless network.
+- Do not leave the recognition lens uncovered off-mission.
+- Do not assume the core understands dignity, consent, or manners.
+- Weakest against anomalies that read machinery as intention.
+- Weakest against hazards that recruit algorithmic prediction.
+
+Model horizon, asset count, and latency are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Unmanned recovery command, Level 4 simulation with Level 5 live command.
+
+1. Define the mission in plain terms: recover, distract, map, delay, withdraw.
+2. Have Engineering confirm isolation.
+3. Have Security confirm no wireless bridges are present.
+4. Insert the mission key.
+5. Connect the wired uplink.
+6. Load abort conditions and prohibited actions.
+7. Load civilian protection and subject-care limits.
+8. Set maximum acceptable equipment loss.
+
+Step-down: the logic-seal switch is thrown and the sandbox memory is cleared. Emergency: the
+logic seal is a
+physical stop, not a software command, and it is thrown before any diagnosis of
+why the core chose what it
+chose.
 
 Before operation, Tactical Review defines the mission in plain terms: recover, distract, map, simulate,
 delay,
@@ -151,6 +226,33 @@ for scope creep, and archived
 under Tactical Review.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before each mission | isolation and key-slot check | Level 4 Engineering |
+| Simulation use | Level 4 procedure | Level 4 |
+| Live unmanned command | Level 5 procedure | Level 5 |
+| Recognition filter change | Level 5 modification | Level 5 |
+| Lens uncovered off-mission | cover restored and logged | Tactical Review Desk |
+| Post-mission review | output audit against constraints | Tactical Review Desk |
+
+No calendar interval is recorded; the core is verified per mission, so interval NOT
+MEASURED. There is no
+consumable. The 2022 bias review is why mission templates now carry equipment-value and archive-recovery
+constraints.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Equipment loss chosen repeatedly | no scarcity constraint in the template | add it; 2022 case |
+| Respectful gesture modelled as useless | constraint not stated | define it; 2026 drill |
+| Core treating a subject as terrain | subject-care limit missing | abort and reload |
+| Prediction feeding the anomaly | hazard recruiting the model | logic seal; withdraw |
+| Asset acting outside the abort list | constraint parse failure | seal and audit |
+| Lens active with no mission | cover discipline failure | cover and log |
 
 ## KNOWN LIMITS
 
@@ -227,6 +329,10 @@ whether A.C.T deserves to enter.
   confirmation?
 - Does the green eye lens collect intention from operators standing nearby?
 - When does narrow combat logic become an excuse for human command avoiding responsibility?
+
+- How far ahead does the core model, and how is that horizon bounded?
+- How many assets can the output bus command at once without degraded timing?
+- What did the 2026 courtesy constraint drill change about mission templates?
 
 ---
 

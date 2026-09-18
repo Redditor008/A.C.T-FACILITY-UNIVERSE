@@ -98,6 +98,50 @@ from Queen chromatic flashes;
 GMT protects skin and body lines from dust contact and gamma-grade contamination in the
 same operation.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and issue doctrine. Values the
+archive does not
+hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| TEXTILE PARAMETER          | VALUE                                                                                 |
++============================+=======================================================================================+
+| Weave                      | soft dark purple self-luminous fabric                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Fibre                      | restricted radiation-resistant fibres                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Pattern                    | shifting star-motive thread, not decorative                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Indicator                  | radiation-counter hem strip, violet to black                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Treatment                  | hydrophobic layer, beading water aggressively                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Closures                   | sealed cuff and collar bindings                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Seams                      | contamination-visible seam thread                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Low light                  | fold contrast pattern                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Repair                     | repair patch kit                                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Records                    | post-use exposure log tag                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Issue                      | by size, hazard class, and treatment date                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Gamma attenuation          | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Strip saturation threshold | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Treatment service life     | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The star pattern helps operators read fabric movement, fold stress, and contamination spread in
+low light,
+and it should drift with light rather than pulse with the wearer's heartbeat. The
+hem strip is not a
+suggestion: black means leave.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 GMT appears as soft, dark purple fabric with shifting star-like points across the weave.
 The pattern may drift slowly
@@ -118,7 +162,54 @@ Garments are issued by size, hazard class, and treatment state. Untreated GMT is
 accepted as Crystal Butterfly
 PPE.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Garment Controls
+
+- sealed cuff and collar bindings
+- repair patch kit
+- hydrophobic treatment refresh
+- post-use exposure log tag
+
+Wearer Readouts
+
+- hem strip colour, violet to black
+- star pattern drift under changing light
+- local dullness indicating particulate hold
+- seam thread contamination visibility
+
+Wear And Personnel Limits
+
+- Do not enter with exposed wrists, loose cuffs, or dragging hems.
+- Do not continue working after the strip reaches black.
+- Do not shorten or tailor a garment in the field.
+- Do not treat the pattern as decoration or allow it to distract.
+- Weakest once the hydrophobic treatment degrades.
+- Weakest where the counter strip has saturated.
+
+Attenuation, saturation threshold, and treatment life are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+Hazard-area entry, Protective Equipment Desk issue.
+
+1. Confirm garment integrity and seam condition.
+2. Record the hem strip baseline colour.
+3. Record the hydrophobic treatment date.
+4. Confirm the assigned hazard class.
+5. Check fit while moving, crouching, reaching, and turning.
+6. Correct cuffs, hems, and worn knees before entry.
+7. Confirm the full-face visor seal where required.
+8. Watch strip and pattern for the whole exposure.
+
+Step-down: the garment is logged out on its exposure tag and sent for inspection
+rather than hung for reuse.
+Emergency: blackening of the hem strip ends the exposure immediately, which is the standing
+lesson of the
+2015 saturation case.
+
 Before use, Protective Equipment Desk confirms garment integrity, hem strip baseline color, hydrophobic treatment
 date, seam condition, and assigned hazard. The wearer checks fit while moving, crouching, reaching,
 and turning.
@@ -135,6 +226,49 @@ position, and let the containment team remove or seal the outer layer.
 After use, garments are scanned, logged, decontaminated, and inspected. A blackened counter strip retires
 the garment
 unless Materials Custody approves restricted reuse for testing.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Before each issue          | strip baseline and seam check             | Protective Equipment Desk                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| After laundering or repair | hydrophobic gap inspection                | Protective Equipment Desk                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Strip reached black        | garment withdrawal and Medical review     | Medical Division                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Field tailoring found      | garment withdrawal                        | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Particulate held in seams  | controlled cleaning, never wet wipe       | Hazardous Materials Desk                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Exposure tag full          | tag transfer to Medical record            | Protective Equipment Desk                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+The garment is the consumable of its own service life: strips saturate and treatments
+degrade, so calendar
+interval NOT MEASURED. The 2024 tailoring breach is why field shortening withdraws a garment
+outright.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Strip black, wearer still  | strip read as advisory                    | leave now; 2015 case                      |
+| working                    |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Dust activating on the suit| hydrophobic layer degraded                | retreat and re-treat                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Shortened hem in the field | unauthorised tailoring                    | withdraw; 2024 case                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Pattern pulsing with       | weave fault or contamination              | withdraw the garment                      |
+| heartbeat                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Local dullness at a fold   | particulate held in the seam              | controlled cleaning                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Cuff gap while reaching    | fit fault                                 | correct before entry                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 GMT does not make a wearer immune to radiation, acid, memetics, crushing pressure, direct
@@ -192,6 +326,10 @@ Butterfly dust hide inside star-motive weave without visible dulling? Is the sel
 near
 light-sensitive anomalies? How much beauty can PPE carry before operators begin trusting it too
 much?
+- What gamma attenuation does the weave provide, and how was it measured?
+- At what exposure does the hem strip saturate to black?
+- How many treatment refreshes does one garment survive before withdrawal?
+
 
 FILE METADATA
 Created: 2026-07-11

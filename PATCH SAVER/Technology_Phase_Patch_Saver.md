@@ -3886,3 +3886,36 @@ GOI_TXT 34, widest box line 118, git diff --check rc=0.
 TECH-ACT-036 to TECH-ACT-137.
 
 **Next action.** Resume at TECH-ACT-036 through TECH-ACT-040.
+
+## Prompt Log — 2026-09-18 18:52 UTC
+
+**Records 036 to 045.** Each gained a TECHNICAL SPECIFICATION table, an INTERFACE AND OPERATING
+ENVELOPE chapter, a numbered operating sequence with step-down and emergency lines, a SERVICING AND
+CALIBRATION schedule, a FAULT ISOLATION table, and three new OPEN QUESTIONS, in both twins.
+
+**Per-record tailoring.** ERG is logged by tub and subject because shared tubs are prohibited, and
+its separator strip is checked before opening. SAS treats map preservation as outranking platform
+recovery. CSE treats vibration as an order to pause and forbids speculation spoken aloud. HDLL is
+spent by capture and its joints carry a flow-meter and a leak sensor each. VPT-AI takes a physical
+mission key and a logic seal rather than a software stop. HPW weighs gold tools in and out of every
+cut. RSD is one hopper per deployment. GMT withdraws a garment outright when the hem strip reaches
+black. CRM keeps its stasis field energised through transfer. RNS is opened only inside a certified
+preparation hood.
+
+**Word counts.** 036 1495 to 2238, 037 1371 to 2105, 038 1439 to 2167, 039 1413 to 2131, 040 1384 to
+2097, 041 1392 to 2118, 042 1426 to 2113, 043 1362 to 2065, 044 1360 to 2071, 045 1346 to 2029.
+Every record now carries 14 H2 chapters and 7 pipe tables.
+
+**One defect caught before the run.** A malformed interface entry for record 042 was written into
+the batch script as a bare list instead of a titled readout group. The dry run is what surfaced it,
+before any document was touched.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, UTF8_ERR 0, CONFLICT 0,
+multiH1 0, odd-fence 0, md-with-box 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204, GOI_MD 34 =
+GOI_TXT 34, widest box line 118, date-rule violations 0, twin date mismatches 0, git diff --check
+rc=0.
+
+**Remaining ACT technology queue.** 92 TECH-ACT records still carry the old skeleton, running from
+TECH-ACT-046 to TECH-ACT-137.
+
+**Next action.** Resume at TECH-ACT-046 through TECH-ACT-050.

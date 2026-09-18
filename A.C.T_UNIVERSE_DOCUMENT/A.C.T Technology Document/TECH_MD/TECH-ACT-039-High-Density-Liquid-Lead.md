@@ -102,6 +102,35 @@ post-use environmental survey.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and installation doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| BARRIER PARAMETER | VALUE |
+|---|---|
+| Fluid | shimmering grey high-density barrier liquid |
+| Behaviour | moves slowly, carries unusual weight, dull mirror under pressure |
+| Plumbing | lead-glass pipe sections for visual confirmation |
+| Flow | digital flow-meter at every joint |
+| Leak | molecular-leak sensor at every joint |
+| Joint | pressure collar |
+| Recovery | recovery sump and floor recovery lips |
+| Flooring | shallow recessed channels with a coating spreader |
+| Sampling | sealed sampling port |
+| Alarm | contamination alarm strip |
+| Disposal | hazardous waste transfer canister |
+| Density | NOT MEASURED |
+| Absorption capacity per litre | NOT MEASURED |
+| Pipe load rating | NOT MEASURED |
+
+The fluid traps and absorbs; it does not dissolve hazards and it does not
+forgive poor containment. It must
+never be improvised into ordinary plumbing, because its weight can rupture systems designed for
+water, oil,
+or coolant.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 HDLL appears as a shimmering grey liquid. It moves slowly, carries unusual weight, and
@@ -132,7 +161,54 @@ coolant.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Installation Controls
+
+- digital flow-meter per joint
+- joint pressure collar
+- floor-coating spreader and recessed channels
+- recovery sump
+- sealed sampling port
+
+### Flow And Leak Readouts
+
+- flow-meter trace at each joint
+- molecular-leak sensor state
+- contamination alarm strip
+- fluid movement visible through lead-glass sections
+
+### Handling And Personnel Limits
+
+- Do not route the fluid through a line rated for coolant.
+- Do not introduce open water near a dust-trap zone.
+- Do not treat a clean-looking surface as a clean surface.
+- Do not handle contaminated material casually after capture.
+- Weakest where ventilation or floor load has not been confirmed.
+- Weakest against energy types it does not absorb.
+
+Density, absorption capacity, and pipe rating are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Barrier deployment, Level 3 monitored use with Hazardous Materials Desk.
+
+1. Identify the target hazard: radiation, energy, dust, or residue.
+2. Confirm ventilation and floor load.
+3. Confirm spill boundaries and recovery equipment.
+4. Confirm whether living subjects or food pathways are involved.
+5. Verify pipe rating and joint collars.
+6. Charge the loop and watch the flow-meters.
+7. Keep open water away from dust-trap zones.
+8. Sample through the sealed port and log the result.
+
+Step-down: the loop is drained to the sump and the transfer canister is sealed
+for disposal. Emergency: a
+slow flow-meter change is treated as a blockage or a leak until proven otherwise,
+and the joint is isolated
+before inspection.
 
 Before use, Engineering identifies the target hazard: radiation, restricted energy, particulate dust, residue seep,
 or
@@ -155,6 +231,34 @@ Dust-loaded HDLL from
 Crystal Butterfly-class chambers is never returned to general shielding loops.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before charging | pipe rating and floor-load confirmation | Level 4 Engineering |
+| Flow adjustment | Level 4 procedure | Level 4 |
+| Restricted-energy shielding | Level 5 configuration | Level 5 |
+| Molecular-leak alarm | joint isolation and collar inspection | Hazardous Materials Desk |
+| Contamination strip triggered | zone closure and sampling | Level 4 |
+| Spent fluid | transfer canister disposal | Hazardous Materials Desk |
+
+The fluid is the consumable: it is spent by capture and transferred out for
+disposal, so calendar interval
+NOT MEASURED. The 2017 review is why lead-glass rating and floor-load confirmation are mandatory
+for every
+installation.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Joint collars deformed | static load on an underrated line | reroute; 2017 case |
+| Surface looks clean, strip disagrees | residue held under the film | sample; 2025 case |
+| Dust captured without water | working as designed | filter under control; 2008 |
+| Flow slowing at one joint | particulate build-up | isolate and inspect |
+| Fluid migrating past the lip | channel overflow | extend the recovery sump |
+| Leak sensor silent with wet floor | sensor fault | do not charge; test first |
 
 ## KNOWN LIMITS
 
@@ -231,6 +335,11 @@ Standing reminder: a barrier fluid that has done its job is contaminated by defi
   At what saturation point does a barrier fluid become a storage hazard instead
   of
   a shield?
+
+- What is the fluid's density, and what floor load does a charged loop
+  impose?
+- How much restricted energy does one litre absorb before saturation?
+- What did the 2025 false clean surface event change about sampling procedure?
 
 ---
 

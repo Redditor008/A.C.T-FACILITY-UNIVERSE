@@ -103,6 +103,36 @@ meant to play.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and field doctrine. Values the
+archive does not
+hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| EARPIECE PARAMETER | VALUE |
+|---|---|
+| Wearable | paired tactical earbuds |
+| Body unit | rugged transceiver box |
+| Chip | internal Logic-Anchor Chip |
+| Alert | ear-canal vibration motor |
+| Signal | controlled static emitter |
+| Sampling | brainwave drift sampler |
+| Cueing | procedural cue bank |
+| Memory | secure mission baseline memory |
+| Power | battery status light |
+| Records | post-exposure log buffer |
+| Link | insulated cable or short-range secure link, by issue model |
+| Design rule | sturdy and unglamorous; bright elements forbidden |
+| Static profile levels | held at Level 4 |
+| Drift trigger thresholds | NOT MEASURED |
+| Battery endurance | NOT MEASURED |
+
+The kit interrupts the first moment when thought begins arranging itself into the shape
+the anomaly prefers.
+It does not make a person immune to memetics, and a loose earpiece may
+keep playing static while failing to
+sample drift.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard CSE kit contains paired tactical earbuds, a rugged transceiver box, insulated cable
@@ -133,7 +163,53 @@ to deliver vibration warning.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Kit Controls
+
+- mission static profile selection
+- logic-anchor tuning, Level 4
+- procedural cue bank
+- charging cradle and hygiene seals
+
+### Wearer And Console Readouts
+
+- ear-canal vibration as a pause order
+- brainwave drift sampler output
+- battery status light per bud
+- post-exposure log buffer entry
+
+### Field And Personnel Limits
+
+- Do not enter with one bud at low charge.
+- Do not speak speculation aloud inside a narrative-bleed volume.
+- Do not read a quiet earpiece as a safe thought.
+- Do not substitute the kit for a 004-Series response.
+- Weakest against overwhelming acoustic force.
+- Weakest against hazards operating through silence rather than signal.
+
+Drift thresholds and battery endurance are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Narrative-hazard entry, Level 3 issue with Level 4 tuning.
+
+1. Calibrate against the operator's resting thought rhythm.
+2. Record sleep loss, amnestic exposure, panic, and stimulant use.
+3. Note prior contact with narrative hazards.
+4. Set the transceiver to the approved mission static profile.
+5. Confirm both buds are charged and seated.
+6. Repeat the local procedural phrase to verify plain speech.
+7. Treat vibration as an order to pause and simplify thought.
+8. File the post-exposure log buffer entry.
+
+Step-down: the buds return to the cradle and the baseline memory is cleared for
+the next mission. Emergency:
+a battery separation alarm ends the entry, because in the 2022 event static continued
+for six minutes after
+logic-anchor monitoring had stopped.
 
 Before entry, the operator calibrates CSE against their resting thought rhythm. Medical or Narrative
 Hazard staff note
@@ -154,6 +230,34 @@ removed from
 narrative-hazard duty until debrief is complete.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before each entry | fit, charge, and hygiene seal check | Level 3, locally certified |
+| Logic-anchor tuning | Level 4 procedure | Level 4 |
+| Live consensus-hazard deployment | Level 5 override | Level 5 |
+| Battery separation alarm | bud withdrawal and replacement | Narrative Hazard Desk |
+| Drift trigger after exposure | Medical and Narrative Hazard review | Level 4 |
+| Baseline memory reuse | clear before the next mission | Narrative Hazard Desk |
+
+No calendar interval is recorded; the kit is serviced per issue and per exposure,
+so interval NOT MEASURED.
+Batteries and hygiene seals are the consumables. The 2024 quorum event is why profiles
+now trigger earlier
+when speculative nouns cluster.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| File drifting toward religious language | speculation before the vibration resolved | earlier trigger; 2014 |
+| Static without monitoring | one bud at low charge | separation alarm; 2022 |
+| Operator careless while quiet | overconfidence drift | rebrief; 2026 case |
+| Static playing, no drift sample | loose earpiece fit | reseat before entry |
+| Vibration with no hazard present | fatigue or stimulant baseline | recalibrate at rest |
+| Thought arriving pre-arranged | hazard working through silence | withdraw from the volume |
 
 ## KNOWN LIMITS
 
@@ -233,6 +337,10 @@ back.
   What is the safe response when CSE stays quiet but the operator starts
   enjoying
   the role?
+
+- What are the brainwave drift thresholds, and how are they set per operator?
+- How long does one charge hold under an active static profile?
+- Which hazards have been shown to work through silence rather than signal?
 
 ---
 

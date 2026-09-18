@@ -99,6 +99,35 @@ from a transformed anomaly, not as a generic pharmaceutical reagent.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's custody description and handling doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| SAP PARAMETER | VALUE |
+|---|---|
+| Material | refined golden memory-solvent syrup |
+| Appearance | luminous under low light, thicker than water-alcohol carrier |
+| Vial | lead-lined vial body |
+| Cap | molecular-stabilizer cap against evaporation |
+| Label | concentration warning label |
+| Provenance | source bloom batch code |
+| Alarm | evaporation alarm strip |
+| Authority | dilution authorization tag |
+| Custody | Memory Review custody seal |
+| Escalation | high-concentration escalation marker |
+| Records | post-handling aftercare record |
+| Opening rule | only inside a certified amnestic preparation hood |
+| Grade scale | NOT MEASURED |
+| Stabilizer expiry | NOT MEASURED |
+| Open-vial time limit | NOT MEASURED |
+
+The sap does not know which memories A.C.T wants removed; targeting comes from grade,
+carrier, delivery
+route, medical context, and controlled protocol. This file documents material lineage, while the
+administered compound system is documented separately.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 RNS appears as golden syrup, luminous under low light, thicker than water-alcohol carrier and
@@ -125,7 +154,53 @@ No RNS vial is opened outside a certified amnestic preparation hood.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Vial And Hood Controls
+
+- molecular-stabilizer cap
+- dilution authorization tag
+- certified preparation hood
+- Memory Review custody seal
+
+### Custody And Alarm Readouts
+
+- concentration warning label
+- source bloom batch code
+- evaporation alarm strip
+- post-handling aftercare record
+
+### Handling And Personnel Limits
+
+- Do not open a vial outside a certified preparation hood.
+- Do not dilute without the authorization tag.
+- Do not move a high-concentration vial without escalation.
+- Do not assume identity continuity survives full concentration.
+- Weakest where open-vial time runs long.
+- Weakest against airborne memetic release from a failed cap.
+
+Grade scale, stabilizer expiry, and open-vial limit are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Material handling, Medical with Transformation Division.
+
+1. Verify clearance and batch identity.
+2. Confirm the intended grade and aftercare plan.
+3. Confirm the disposal path.
+4. Confirm provenance records attach the anomaly origin.
+5. Confirm an approved amnestic order, protocol, or normalcy action.
+6. Inspect the stabilizer cap before opening.
+7. Keep vials sealed until inside controlled preparation conditions.
+8. Close the aftercare record after handling.
+
+Step-down: the vial is resealed, the custody seal is reapplied, and the aftercare record
+is filed.
+Emergency: a cap failure evacuates the bench to the hood and treats the air
+as hazardous, because
+evaporation is an airborne memetic release.
 
 Before handling, Medical verifies clearance, batch identity, intended grade, aftercare plan, and disposal path.
 Transformation Division confirms provenance records so the material's anomaly origin remains attached to the
@@ -149,6 +224,34 @@ Personnel complete
 memory-continuity self checks after leaving the room.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before handling | cap and batch verification | Medical Division |
+| Dilution | authorization tag procedure | Level 4 |
+| High-concentration movement | escalation procedure | Level 5 |
+| Stabilizer expiry reached | vial withdrawal and disposal | Medical Division |
+| Evaporation alarm strip triggered | hood evacuation and air sampling | Level 5 |
+| After handling | aftercare record closure | Memory Review |
+
+The sap is the consumable: vials are drawn down under custody and stabilizer expiry
+governs withdrawal, so
+calendar interval NOT MEASURED. The cap failure ledger is why the cap is inspected
+before opening rather
+than after.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Airborne haze at the bench | stabilizer cap failure | evacuate to hood; ledger case |
+| Too much erased | grade or route error | Memory Review; aftercare now |
+| Awareness of the error missing | solvent reached the handler | escalate immediately |
+| Syrup clinging to vial glass | concentration higher than labelled | reassay before use |
+| Batch code illegible | provenance break | quarantine the vial |
+| Dilution without a tag | authority breach | halt and review |
 
 ## KNOWN LIMITS
 
@@ -225,6 +328,12 @@ remember.
   part
   of the material
   itself?
+
+- How is the grade scale defined, and what erasure window does each grade
+  carry?
+- How long may a vial stay open inside the hood before the solvent
+  degrades?
+- What does the cap failure ledger record about airborne release distances?
 
 ---
 

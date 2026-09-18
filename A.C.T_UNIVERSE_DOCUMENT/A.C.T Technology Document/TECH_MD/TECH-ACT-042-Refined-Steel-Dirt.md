@@ -104,6 +104,35 @@ Current RSD batches are still restricted and not approved for casual constructio
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and deployment doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| SEALANT PARAMETER | VALUE |
+|---|---|
+| Material | vivid blue refined powder |
+| Storage | pressurized dry hopper |
+| Activation | hydration-trigger valve |
+| Gauge | dry-pressure gauge |
+| Seal | humidity exclusion seal |
+| Feed | particulate agitation rotor |
+| Delivery | spray-pattern nozzle |
+| Toxicity | post-bloom toxicity sampler |
+| Warning | Blue Haze warning strip |
+| Disposal | sealed spent-hopper canister |
+| Source behaviour | raw Blue Dirt hardens in about four seconds with a heat spike |
+| Hardening time refined | NOT MEASURED |
+| Hopper pressure range | NOT MEASURED |
+| Bloom density | NOT MEASURED |
+
+Refinement reduces uncontrolled bloom and toxic exposure; it does not erase them. The material
+can create a
+wall faster than a team can correct a mistake, so it is not used
+in uncertain rooms, crowded corridors, or
+patient-care areas.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 RSD appears as vivid blue powder. It is stored in pressurized hoppers designed to
@@ -132,7 +161,54 @@ unshielded personnel showers.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Hopper And Nozzle Controls
+
+- hydration-trigger valve
+- dry-pressure gauge
+- particulate agitation rotor
+- spray-pattern nozzle
+- emergency dump lock
+
+### Hopper And Bloom Readouts
+
+- dry-pressure gauge reading
+- humidity exclusion seal state
+- Blue Haze warning strip
+- post-bloom toxicity sampler result
+
+### Deployment And Personnel Limits
+
+- Do not arm the hopper before the evacuation route is set.
+- Do not seal a breach where trapped personnel may still be moving.
+- Do not store the hopper near open water or humid suites.
+- Do not enter a bloom area without respiratory protection.
+- Weakest against living tissue contact.
+- Weakest where permanence has not been accepted in advance.
+
+Hardening time, hopper pressure, and bloom density are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Emergency sealing, Engineering with Hazardous Materials Desk.
+
+1. Define the breach shape and expected pressure direction.
+2. Set the personnel evacuation route.
+3. Confirm acceptable permanence with Site Command.
+4. Confirm humidity, ventilation, and respiratory protection.
+5. Confirm Blue Haze capture readiness.
+6. Aim, lock, and arm the hopper dry.
+7. Trigger hydration and hold position clear.
+8. Sample post-bloom toxicity before re-entry.
+
+Step-down: the spent hopper is sealed into its canister and the area is sampled
+before anyone walks on the
+bloom. Emergency: the dump lock closes the valve, and a partially formed bloom is
+treated as toxic rather
+than as a failed seal.
 
 Before deployment, Engineering defines the breach shape, direction of expected pressure, personnel evacuation route,
 and acceptable permanence. Hazardous Materials confirms humidity, ventilation, respiratory protection, and Blue Haze
@@ -152,6 +228,33 @@ edge adhesion. No one drills or
 cuts the bloom without gold-tool and hazardous-material review.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before every field load | hopper humidity alarm test | Hazardous Materials Desk |
+| Valve or seal fault | hopper withdrawal | Engineering Division |
+| Partial clumping found | hopper replacement, not repair | Materials Custody |
+| Post-bloom area | toxicity sampling before re-entry | Level 4 |
+| Spent hopper | sealed canister disposal | Hazardous Materials Desk |
+| Deployment near subjects | rescue analysis first | Site Command |
+
+The powder is the consumable and one hopper is one deployment, so calendar interval
+NOT MEASURED. The 2025
+humidity drill is why the alarm is tested before every field load rather than
+after a spray failure.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Spray pattern failed | clumping near the valve | replace the hopper; 2025 |
+| Visible crack sealed, corridor blocked | over-seal | replan; 2026 simulation |
+| Four-second hardening with heat | raw Blue Dirt behaviour | baseline warning; 2024 |
+| Blue haze in the work area | bloom outgassing | respiratory protection and capture |
+| Powder adhering to skin | hydration on contact | decontaminate; do not wipe |
+| Tool incorporated in the bloom | deployment too close | abandon the tool |
 
 ## KNOWN LIMITS
 
@@ -231,6 +334,10 @@ Standing reminder: if the powder touches water, the decision has already been ma
   Can a living anomaly intentionally drink or absorb the hydration trigger to control
   the
   bloom?
+
+- How fast does the refined powder harden against the raw four-second baseline?
+- What hopper pressure range keeps the powder dry without clumping?
+- How long does Blue Haze persist after a controlled bloom?
 
 ---
 

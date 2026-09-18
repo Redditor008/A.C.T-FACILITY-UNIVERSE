@@ -100,6 +100,34 @@ is rare and requires O5-level review.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's custody description and observation doctrine. Values the
+archive does not hold are marked NOT MEASURED and each is filed under OPEN
+QUESTIONS.
+
+| MEDIUM PARAMETER | VALUE |
+|---|---|
+| Material | silver causal-reactive liquid metal |
+| Calm state | mercury under glass; surface may ripple before nearby movement |
+| Fluctuation | flows against tilt, curls upward, threads toward an event |
+| Container | magnetic-containment flask with reinforced transparent walls |
+| Field | internal field rings and stasis-field generator |
+| Gauge | reverse-flow orientation gauge |
+| Indicator | temporal ripple indicator |
+| Access | sealed sample neck |
+| Viewing | visor-only observation label |
+| Handling | toxic metal handling shield |
+| Records | regression event log tag |
+| Transfer | Kurokawa vault transfer cradle |
+| Sample volume held | NOT MEASURED |
+| Stasis field draw | NOT MEASURED |
+| Reaction onset time | NOT MEASURED |
+
+Ordinary containers hold where the liquid is, not when the liquid believes it is.
+The flask exists to stop
+the medium falling upward, climbing the cap, or occupying a previous fill state.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 CRM appears as silver liquid metal. In calm state it resembles mercury under glass,
@@ -129,7 +157,53 @@ glass.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Flask And Field Controls
+
+- stasis-field generator
+- internal field rings
+- sealed sample neck
+- Kurokawa vault transfer cradle
+
+### Observation Readouts
+
+- reverse-flow orientation gauge
+- temporal ripple indicator
+- surface motion ahead of nearby movement
+- regression event log tag entry
+
+### Observation And Personnel Limits
+
+- Do not observe without delayed-vision PPE or remote instrumentation.
+- Do not describe motion as beautiful, impossible, alive, or waiting.
+- Do not assume the liquid alone produces a temporal effect.
+- Do not remove the medium from an artifact for convenience.
+- Weakest where overlapping RSA, crystal, or archive systems distort readings.
+- Weakest against reverse-causal flow the flask cannot orient.
+
+Sample volume, field draw, and onset time are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Temporal observation, Level 4 with Temporal Analysis Desk.
+
+1. Confirm the sample is sealed.
+2. Confirm the stasis field is active.
+3. Confirm every observer has approved delayed-vision PPE or remote instrumentation.
+4. Identify nearby RSA, crystal, archive, and time-hazard conditions.
+5. Record motion in plain instrument language.
+6. Note ripple onset against nearby movement.
+7. Close the regression event log tag.
+8. Return the flask to its cradle under custody.
+
+Step-down: the stasis field stays energised through transfer and the cradle is signed into
+the vault.
+Emergency: a flask showing reverse flow is isolated rather than re-oriented by hand, because
+recovery
+behaviour is treated as active containment time.
 
 Before observation, Temporal Analysis confirms that the sample is sealed, the stasis field is
 active, and all
@@ -147,6 +221,34 @@ After observation, logs note time, local second variance, stasis-field strength,
 and whether the sample's position matches the previous record.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before observation | seal, field, and PPE check | Level 4 Temporal Analysis |
+| Flask transfer | cradle procedure | Level 5 |
+| Stop-Watch access | Level 5 procedure | Level 5 |
+| Stasis-field configuration | Level 5 procedure | Level 5 |
+| Reverse flow observed | isolation and log review | Level 5 |
+| Regression event | event treated as containment time | Temporal Analysis Desk |
+
+No calendar interval is recorded; the flask is verified per observation and per transfer,
+so interval NOT
+MEASURED. The stasis field is the standing load. The 1999 record is why recovery
+behaviour counts as
+containment rather than aftermath.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Surface rippling before movement | temporal fluctuation nearby | log onset; do not touch |
+| Liquid climbing the cap | field orientation lost | isolate the flask |
+| Threads pointing at an event | reverse-causal flow | Level 5 review |
+| Readings disagreeing across systems | overlapping RSA or archive fields | separate them |
+| Poetic language in the log | observer drift | rewrite in instrument terms |
+| Medium removed from an artifact | possible loop release | halt; Temporal Analysis |
 
 ## KNOWN LIMITS
 
@@ -221,6 +323,11 @@ Standing reminder: if the metal moves before you do, your report is already late
 - What does CRM do during a failed activation inside RSA misfire frequency?
 - Can stasis fields hold CRM indefinitely, or only postpone a reverse spill?
 - Does the liquid remember every container it has not yet occupied?
+
+- What sample volume is held, and what does the stasis field draw to
+  hold it?
+- How soon before an event does the surface begin to ripple?
+- What remains censored from the 1999 seven-day regression, and who holds it?
 
 ---
 

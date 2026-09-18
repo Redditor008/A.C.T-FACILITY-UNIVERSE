@@ -97,6 +97,51 @@ yard. Each plank must justify why the risk
 of crossing the threshold, disturbing local ecology, and importing dimensional material is worth the
 use.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's material description and custody doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| TIMBER PARAMETER           | VALUE                                                                                 |
++============================+=======================================================================================+
+| Body                       | white or bone-pale timber with no bark                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Surface                    | polished-bone tactile feel, not Earth wood                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Optics                     | low-level pearlescent sheen under angled light                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Grain                      | subtle; visible after cold condensation or ultraviolet inspection                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Residue                    | clear ozone-scented sap                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Identity                   | microscopic restricted ID tag per plank                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Marks                      | harvest-orientation mark                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Records                    | gold-tool modification log and dust-capture seal                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Storage                    | dry storage cradle                                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Inspection                 | Dark World residue inspection swab                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Workability                | workable only under twenty-four karat gold contact                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Plank dimensions           | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Harvest yield per          | NOT MEASURED                                                                          |
+| expedition                 |                                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Gold loss per cut          | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The same property that lets A.C.T shape the material lets a careless or hostile
+handler with gold alter what
+ordinary force cannot. Dust is active custody material, not waste, and shared work zones
+are treated as
+contamination events.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 Prepared HPW appears as white or bone-pale timber with no bark. The surface feels
 like polished bone rather than Earth
@@ -114,7 +159,54 @@ HPW dust is active custody material. Dust from cutting, drilling, shaping, or sa
 is sealed and
 tracked.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Custody Controls
+
+- restricted ID tag per plank
+- harvest-orientation mark
+- gold-tool modification log
+- dust-capture seal and dry storage cradle
+
+Inspection Readouts
+
+- residue inspection swab result
+- pearlescent sheen under angled light
+- grain revealed by condensation or ultraviolet inspection
+- gold-tool history against the plank record
+
+Handling And Personnel Limits
+
+- Do not approach the timber with a gold tool before a written plan
+  exists.
+- Do not weigh gold tools only after the cut.
+- Do not allow moisture, open water, or wet cleaning in the work zone.
+- Do not store dust with ordinary waste.
+- Weakest wherever gold jewellery or gold instruments are present.
+- Weakest against unauthorised trophy cutting.
+
+Plank size, yield, and gold loss per cut are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+Material handling, Materials Custody with Dark World Survey.
+
+1. Verify plank ID and storage history.
+2. Verify gold exposure and residue swabs.
+3. Confirm the intended use.
+4. Obtain a written modification plan before any gold tool approaches.
+5. Confirm the work zone is dry and sealed.
+6. Weigh gold tools before and after work.
+7. Seal and log all dust.
+8. Return the plank to its cradle with the log closed.
+
+Step-down: the plank is re-swabbed and the cradle record is closed. Emergency: a seized
+gold bit is not
+pulled free; the section is cut out whole, which is what the 1997 drill
+closure event required.
+
 Before handling, Materials Custody verifies plank ID, storage history, gold exposure, residue swabs, and
 intended use.
 Engineering or Medical must provide a written modification plan before any gold tool approaches
@@ -133,6 +225,52 @@ a bit, or change sheen, work stops.
 After modification, all fragments, dust, tools, tags, and waste are reconciled. A missing shaving
 is a reportable
 incident.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Before handling            | ID, history, and swab verification        | Materials Custody                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Modification plans         | written plan review                       | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Gold-tool work             | weigh-in and weigh-out                    | Level 4 Engineering                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Dust generated             | sealed capture and custody transfer       | Materials Custody                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Residue swab positive      | quarantine and Survey review              | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Unauthorised cut found     | incident review and plank seizure         | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; custody is verified per handling event, so interval NOT
+MEASURED. Gold
+tooling is the consumable and is spent by the cut. The 2011 dust leak
+is why dust moves under custody rather
+than under housekeeping.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| No vibration from a steel  | material resisting standard tools         | gold only; 1985                           |
+| blade                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Material closing around the| gold contact lost mid-bore                | cut the section; 1997                     |
+| bit                        |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Ordinary drawers resisting | dust contamination                        | survey the bench; 2011                    |
+| a blade                    |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Sheen absent under angled  | surface altered or substituted            | Survey review                             |
+| light                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| ID tag missing             | custody break                             | seize the plank                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Sap residue on tools       | unsealed cut                              | swab and log before storage               |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 HPW is indestructible to standard methods but not safe. Its gold vulnerability is a
@@ -195,6 +333,11 @@ Pale Wood sap carry any separate hazard from the timber? Should structural use b
 banned in rooms containing
 gold-lined containers? How much of the Dark World ecology notices when A.C.T removes a
 plank?
+- How much gold is lost per metre of cut, and how is tooling
+  re-plated?
+- What is the harvest yield per expedition, and what limits it?
+- What happens to Pale Wood dust once it has bonded to ordinary surfaces?
+
 
 FILE METADATA
 Created: 2025-11-06

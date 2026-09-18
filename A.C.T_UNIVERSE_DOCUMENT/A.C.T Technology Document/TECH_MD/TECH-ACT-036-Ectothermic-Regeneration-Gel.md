@@ -101,6 +101,36 @@ burned, or convinced to move.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and application doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| GEL PARAMETER | VALUE |
+|---|---|
+| Form | thick translucent green gel |
+| Scent | medicinal mint antiseptic carrier |
+| Storage | refrigerated tub |
+| Agitation | automated agitator disc in the tub lid |
+| Matrix | translucent green repair matrix |
+| Moisture | moisture-retention layer |
+| Buffer | ectothermic metabolic buffer |
+| Fault sign | separation indicator strip |
+| Application | spatula set, spread thinly at low pressure |
+| Operator kit | temperature-safe glove kit |
+| Aftercare | post-application residue swabs |
+| Records | logged by tub, subject, site, temperature, humidity, time |
+| Active compound ratio | NOT MEASURED |
+| Approved open-tub time | NOT MEASURED |
+| Shelf life refrigerated | NOT MEASURED |
+
+The gel does not overwrite anatomy and does not revert a subject; it supports
+controlled healing inside the
+current body plan. Shared tubs are prohibited, and a tub whose gel has separated
+into clear fluid and opaque
+green strands is not used until Medical clears it.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 ERG is a thick translucent green gel with a medicinal mint scent. It is
@@ -131,7 +161,53 @@ prohibited except during declared emergency triage.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Tub And Application Controls
+
+- refrigerated tub with agitator disc
+- application spatula set
+- temperature-safe glove kit
+- separation indicator strip
+
+### Condition And Records Readouts
+
+- gel separation state
+- subject thermal state before application
+- tub, subject, site, temperature, humidity, and time log
+- post-application residue swab result
+
+### Application And Personnel Limits
+
+- Do not heat the gel aggressively; uneven warming creates overactive repair streaks.
+- Do not scrape scale beds or force a shed.
+- Do not share a tub between subjects.
+- Do not use clinical language that frames a patient's body as damaged.
+- Weakest where the subject is cold and needs warmth before gel.
+- Weakest against tissue that does not register injury.
+
+Compound ratio, open-tub time, and shelf life are not recorded. Envelope: NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Topical application, Level 3 Medical with Biological Subject Care Desk.
+
+1. Confirm subject identity, tissue type, and thermal state.
+2. Confirm stress level and consent status.
+3. Classify the site as shed, trauma, biopsy, or unknown.
+4. Explain the procedure in ordinary language.
+5. Offer a scent check where chemosensory ability is relevant.
+6. Check the separation indicator strip before opening.
+7. Spread the gel thinly with low pressure.
+8. Swab residue and close the log entry.
+
+Step-down: the tub returns to refrigeration with its log closed and the site is
+re-checked rather than
+re-covered. Emergency: a separated tub is quarantined and referred to Medical, which is the
+standing outcome
+of the 2024 incident after a power fluctuation.
 
 Before application, Medical confirms subject identity, tissue type, thermal state, stress level, consent status,
 and
@@ -153,6 +229,34 @@ if needed. Medical
 records whether the subject reports comfort, tightness, heat, itch, numbness, or altered scent perception.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before each opening | separation strip check | Level 3, locally certified |
+| Formulation access | Level 4 procedure | Level 4 |
+| Power fluctuation during storage | quarantine and smear test | Medical Division |
+| Transmutation-repair experimentation | Level 5 procedure | Level 5 |
+| Tub past its logged window | withdrawal and disposal | Medical Division |
+| Subject reaction reported | site review and log correction | Subject Care Desk |
+
+The gel is the consumable: tubs are logged per subject and withdrawn rather than
+topped up, so calendar
+interval NOT MEASURED. The 2024 separation case is why the indicator strip is checked
+before opening instead
+of after application.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Clear fluid and green strands | anomalous separation | quarantine; 2024 case |
+| Uneven warming on a test smear | separated repair strands | do not apply |
+| Irritation after application | clinical language framing the body | revise wording |
+| Overactive repair streaks | aggressive heating | warm under gloved hands only |
+| Subject still cold after treatment | habitat, not dosage | warmth before gel |
+| Shed peeling under the gel | forced removal | humidity and patience |
 
 ## KNOWN LIMITS
 
@@ -235,6 +339,12 @@ applying it is careless.
   How much medical usefulness is lost when staff forget that comfort is part
   of
   containment?
+
+- What is the active compound ratio, and how is a batch graded before
+  issue?
+- How long may an opened tub stay in service before withdrawal?
+- What separates inside the gel during a power fluctuation, and can it be
+  restored?
 
 ---
 

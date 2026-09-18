@@ -94,6 +94,51 @@ aircraft, ROV
 deployment, Massive Box inspection, and surveys of terrain that has become larger inside than
 outside.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and survey doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| SONAR PARAMETER            | VALUE                                                                                 |
++============================+=======================================================================================+
+| Console                    | rugged dual-monitor unit                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| First screen               | real-time acoustic return                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Second screen              | three-dimensional wireframe of mass, void, pressure flow                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Deployment                 | two-meter acoustic insertion spikes                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Alignment                  | laser-alignment points                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Insertion                  | pneumatic pistons; ROV or remote cradle in deep water                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cabling                    | pressure-rated cables with insulated connector locks                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Interpretation             | false-void analysis board                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Emitter                    | low-frequency emitter stack                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Buffer                     | acoustic return buffer                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Records                    | blind-monitoring event recorder                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Calibration                | sealed calibration weights                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Operating depth rating     | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Ping interval and range    | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Wireframe resolution       | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The system does not rely on silhouette, colour, or visible behaviour; it listens for
+displacement, echo
+refusal, pressure contours, and acoustic return. Readings must be interpreted by trained technicians,
+because a clean map is not an empty room.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 A standard SAS unit uses a rugged dual-monitor console. One screen displays real-time acoustic
 return. The second
@@ -112,7 +157,54 @@ SAS readings must be interpreted by trained technicians. A clean void can mean e
 space, echo absorption, subject
 permission, or equipment failure.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Console And Deployment Controls
+
+- laser-aligned spike placement
+- pneumatic insertion pistons
+- ping control on the emitter stack
+- sealed calibration weights
+
+Return And Wireframe Readouts
+
+- real-time acoustic return screen
+- three-dimensional wireframe screen
+- pressure contour flow
+- false-void analysis board output
+- acoustic return buffer and event recorder
+
+Survey And Personnel Limits
+
+- Do not ping before the spikes are aligned and seated.
+- Do not read an empty map as an empty volume.
+- Do not treat a point of light as a target during gated-existence operations.
+- Do not run SAS alone when optical state and physical mass disagree.
+- Weakest against echo-eating subjects and deliberate false-void behaviour.
+- Weakest against stretched geometry and living shell ecosystems.
+
+Depth rating, ping interval, and resolution are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+Blind survey, Maritime Observation Desk with Engineering support.
+
+1. Identify the survey target and expected mass.
+2. Identify known visual hazards and the pressure profile.
+3. Confirm whether direct observation is prohibited.
+4. Align and insert the spikes before active pinging.
+5. Ping and compare wireframe return against expectation.
+6. Watch the false-void board during the whole survey.
+7. Cross-check with Digital Resonance Sensors where optics and mass disagree.
+8. Preserve the map even if the platform is lost.
+
+Step-down: spikes are recovered and the event recorder is filed with the survey. Emergency:
+platform loss is
+acceptable if the map escapes, which is the doctrine written after the 2012 Nusantara-4
+survey.
+
 Before deployment, operators identify the survey target, known visual hazards, expected mass, pressure profile,
 and
 whether direct observation is prohibited. Spikes are aligned and inserted before active pinging. In
@@ -132,6 +224,49 @@ widen the blind perimeter.
 After operation, maps are archived with alignment data, spike position, pressure values, and any
 acoustic distortion.
 Lost drones do not invalidate transmitted SAS data.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Before each deployment     | calibration weights and cable check       | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Spike seating in rock or   | prepared socket inspection                | Engineering Division                      |
+| plating                    |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Deep-water placement       | ROV or remote cradle procedure            | Maritime Observation Desk                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| False-void suspicion       | board review before further pinging       | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Event recorder full        | buffer transfer to Archive                | Maritime Observation Desk                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Export of survey data      | Level 5 procedure                         | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; the array is calibrated per deployment, so interval NOT
+MEASURED. Spikes
+and pressure cables are the wear items. The 2012 survey is why map preservation
+outranks platform recovery.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Empty map in occupied water| echo-eating subject                       | keep pinging; 2026 case                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Mass shown with no         | predator listening back                   | restrict lights and sound                 |
+| behaviour                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Wireframe stretched        | geometry under survey stress              | withdraw the platform                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Void appearing then closing| deliberate false-void behaviour           | flag for Level 4                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Return lost mid-ping       | cable or connector fault                  | recover spikes; do not reseat blind       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Clean map after a collapse | pressure event erased the return          | resurvey before entry                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 SAS is not perfect sight. It can be confused by echo-eating subjects, rapid pressure
@@ -195,6 +330,11 @@ time? What acoustic
 signatures indicate that a mapped organism is listening back? How much of the sub-abyssal
 depth rendering should be
 shown to non-specialist command staff?
+- What depth and pressure rating does the spike array carry, and how was
+  it tested?
+- What distinguishes a false void from a genuine cavity on the analysis board?
+- Which subjects have been shown to read the ping and respond to it?
+
 
 FILE METADATA
 Created: 2026-05-19
