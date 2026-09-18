@@ -86,6 +86,37 @@ can enter the depot as part of a normal cold chain.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and receiving doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| COVER PARAMETER | VALUE |
+|---|---|
+| Receiving | arctic receiving bay |
+| Cold storage | legitimate cold-storage chamber |
+| Cover room | quarantine-capable cover room |
+| Office | surface administration office |
+| Board | transport arrival board |
+| Equipment | loading-equipment cover set |
+| Transition | concealed transition control point |
+| Panel | boundary monitoring panel |
+| Schedule | silent movement schedule |
+| Seal | surface incident seal indicator |
+| Traffic classes | supply, personnel, hazardous arrival, archive |
+| Cover method | hazardous flow inside cold-chain traffic |
+| Bay throughput | NOT MEASURED |
+| Weekly silent moves | NOT MEASURED |
+| Cover breaches | NOT MEASURED |
+
+Arctic cover works differently from temperate cover because the traffic is seasonal and everybody
+expects it
+to stop. A receiving bay that goes quiet in winter is normal; a receiving
+bay that stays busy is not. The
+silent movement schedule therefore runs against the transport calendar rather than against operational
+convenience.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 An ACSCSMS installation includes arctic receiving bays, legitimate cold-storage rooms, quarantine-capable surface
@@ -111,7 +142,55 @@ The system's best evidence is the absence of a memorable story about the facilit
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Cover Controls
+
+- arctic receiving bay
+- concealed transition control point
+- silent movement schedule
+- surface incident seal indicator
+
+### Cover Readouts
+
+- transport arrival board entries
+- boundary monitoring panel state
+- loading-equipment cover set position
+- cold-storage chamber occupancy against record
+
+### Receiving And Personnel Limits
+
+- Do not schedule a silent move against a thin arrival week.
+- Do not display quarantine capability beyond what traffic explains.
+- Do not share identifiers between cold-chain and hazard records.
+- Do not seal the surface without a stated weather or safety reason.
+- Weakest against a transport season that opens early.
+- Weakest against receiving crews who work both sides of the bay.
+
+Bay throughput, weekly moves, and breach count are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence begins with the transport calendar. A movement scheduled without reference to it
+is a movement
+that arrives when nothing else does.
+
+1. Read the week's transport arrivals before scheduling movement.
+2. Post any hazardous arrival against the arrival board first.
+3. Receive through the bay using the loading-equipment cover set.
+4. Move cold-chain cargo to the legitimate chamber on its paperwork.
+5. Route hazardous cargo through the concealed transition control point.
+6. Record the move on the silent movement schedule as it happens.
+7. Watch the boundary monitoring panel through the movement.
+8. Close the day by reconciling chamber occupancy with the record.
+
+Step 8 is the control that keeps the two accounts aligned. The chamber holds
+both legitimate and concealed
+stock, and only a daily reconciliation can show which entry on the cold-chain paperwork
+has no cargo behind
+it.
 
 During routine operation, Facility staff run legitimate cold-storage receiving, administration, logistics, and
 communication work. Security Boundary staff monitor receiving traffic, transport arrivals, concealed transition
@@ -128,6 +207,31 @@ as a surface facility
 problem while the buried component is sealed behind transition control.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Each movement | log it on the schedule at the time it occurs |
+| Daily | reconcile chamber occupancy with the arrival board |
+| Weekly | compare traffic volume with scheduled moves |
+| Monthly | inspect the transition point and seal indicator |
+| Before winter | confirm the schedule against the transport season |
+
+Pre-winter confirmation matters more here than anywhere else in the depot. Once transport closes,
+every
+arrival is conspicuous by definition, and a schedule built for a busy season cannot
+be run in a quiet one.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Arrival in a quiet week | Move scheduled against the calendar | Delay it and record the traffic shortfall |
+| Chamber count disagrees | Concealed stock not on any entry | Reconcile before the next receiving day |
+| Quarantine room questioned | Capability visible beyond traffic need | Explain it as cold-chain contingency |
+| Seal without a reason | Emergency closure left unexplained | Record a weather or safety cause |
+| Identifier shared | Cold-chain and hazard records cross-referenced | Separate the identifiers immediately |
 
 ## KNOWN LIMITS
 
@@ -197,6 +301,10 @@ colder than it looks secret.
 - When should the surface facility close rather than explain an arrival?
 - How much quarantine capability can the cover display before it invites inspection?
 - Should cold-chain paperwork and internal hazard records ever share identifiers?
+
+- How should movement be scheduled when the transport season closes?
+- Which arrivals are safer refused than concealed?
+- What makes a quiet receiving bay look abandoned rather than normal?
 
 ---
 

@@ -88,6 +88,54 @@ enclosure and too valuable to the reserve's cultivation doctrine to be exposed t
 conditions. DCVS formalizes
 the vault architecture and procedure that keeps such work command-bound.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and cultivation doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| VAULT PARAMETER            | VALUE                                                                                 |
++============================+=======================================================================================+
+| Chamber                    | cultivation chamber                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Gallery                    | reinforced vault gallery                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Checkpoint                 | access checkpoint sequence                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monitoring                 | observation and monitoring gallery                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Route                      | service ring environmental route                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Alcove                     | secure archive alcove                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Review                     | transformation review terminal                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Liaison                    | medical liaison station                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Closure                    | F-1 closure control                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Ledger                     | resident-program authorization ledger                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Programme classes          | observation, directed growth, transformation                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Alteration authority       | command approval in the ledger                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Chamber count              | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Service ring volume        | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cultivation escalations    | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Cultivation is containment pointed at a future state, which makes it the only technology
+in this reserve
+that can produce a resident rather than hold one. The vault therefore gates alteration
+rather than activity:
+any change to a cultivation programme requires a ledger entry at command level, because
+the change is what
+creates the risk.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 A DCVS installation includes cultivation vault chambers, reinforced chamber walls, access core checkpoints,
@@ -112,7 +160,57 @@ Known components include:
 
 The vault's architecture assumes that a successful cultivation may still become a containment emergency.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Vault Controls
+
+- access checkpoint sequence
+- cultivation chamber
+- transformation review terminal
+- F-1 closure control
+
+Vault Readouts
+
+- resident-program authorization ledger entries
+- observation and monitoring gallery state
+- service ring environmental route readings
+- medical liaison station status
+
+Cultivation And Personnel Limits
+
+- Do not alter a programme without a ledger entry.
+- Do not treat cultivation success as containment success.
+- Do not route service ring waste as ordinary laboratory waste.
+- Do not close F-1 with a programme left running.
+- Weakest against slow escalation across many small changes.
+- Weakest against service ring contamination while chambers hold.
+
+Chamber count, ring volume, and escalations are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+The sequence requires comparison with the native field before alteration. Cultivation decisions made without
+that comparison are decisions about the vault alone, and the enclosure has repeatedly found
+that is where
+escalation begins.
+
+1. Clear the access checkpoint sequence before entry.
+2. Read the resident-program authorization ledger at the door.
+3. Compare current growth with the native-field record.
+4. Record the comparison at the transformation review terminal.
+5. Obtain the ledger entry for any programme alteration.
+6. Run the alteration and monitor from the gallery.
+7. Check the service ring route after every cycle.
+8. Confirm closure state and log the vault as sealed.
+
+Step 7 is the one most likely to be skipped and the one with
+the widest consequences. The chambers can hold
+perfectly while the service ring carries material out of the vault, and a sealed
+chamber is not the same
+thing as a sealed vault.
 
 Before vault access, personnel pass the checkpoint sequence and confirm program authority, resident status,
 environmental requirement, service need, observation purpose, medical standby, and closure readiness. Cultivation
@@ -125,6 +223,47 @@ If cultivation behavior changes, staff do not improvise a program adjustment. De
 the
 event with Transformation, Research, Medical, and Environmental Containment. During breach response, F-1 closure seals
 the vault to the outside and locks the command record to the event clock.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Each entry                 | clear the checkpoint and read the ledger                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Daily                      | monitor chamber state and gallery readings                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Weekly                     | inspect the service ring route and its seals                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | review alterations against the authorization ledger                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | rehearse F-1 closure with programmes suspended                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Monthly review of alterations is the control against drift by accumulation. Each individual change
+is
+authorised and recorded; the escalation appears only when a year of small authorised changes
+is read as a
+single trajectory.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Growth exceeds the         | Alterations piled up without review       | Suspend the programme, review the ledger  |
+| programme                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Service ring contaminated  | Waste routed as ordinary laboratory load  | Seal the ring, treat as a vault breach    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Checkpoint sequence        | Entry made under time pressure            | Void the entry, re-clear from the start   |
+| bypassed                   |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Closure with a programme   | Suspension step skipped                   | Suspend it before closure, log the        |
+| live                       |                                           | omission                                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| No native-field comparison | Comparison step skipped at review         | Record the gap, defer the alteration      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -186,6 +325,10 @@ upward?
 - Should native-field comparison be mandatory before every cultivation alteration?
 - Can service ring contamination leave the vault while the chambers remain sealed?
 - When does cultivation become creation rather than containment?
+- What trajectory of authorised changes counts as escalation?
+- Which cultivation programmes should never have been started?
+- How is service ring containment verified while chambers hold?
+
 
 FILE METADATA
 

@@ -85,6 +85,38 @@ preventing that world from expanding into the rest of the reserve.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and habitat doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| CHAMBER PARAMETER | VALUE |
+|---|---|
+| Bay | intake and assessment bay |
+| Row | climate-controlled chamber row |
+| Module | specialized habitat module |
+| Door | atmospheric separation door |
+| Panel | humidity and light control panel |
+| Tray | substrate and root-zone tray |
+| Gallery | monitoring gallery |
+| Corridor | handling and transport corridor |
+| Lock | medical access lock |
+| Ledger | transfer suitability ledger |
+| Habitat classes | native-matched, adjusted, provisional |
+| Suitability rule | ledger entry required before transfer |
+| Chamber count | NOT MEASURED |
+| Match success | NOT MEASURED |
+| Transfer instability events | NOT MEASURED |
+
+A built habitat is an argument about what a resident needs, and the argument
+can be wrong. The chamber row
+therefore treats habitat match as a measured outcome rather than a design intention: the
+transfer
+suitability ledger records what happened after the last move, and that record governs the
+next one. Interior
+holding is a fallback, never a preference over the native field.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 An IBHCS installation includes climate-controlled chamber rows, habitat modules, specialized environment chambers,
@@ -111,7 +143,55 @@ decorations.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Chamber Controls
+
+- intake and assessment bay
+- humidity and light control panel
+- atmospheric separation door
+- medical access lock
+
+### Chamber Readouts
+
+- transfer suitability ledger entries
+- substrate and root-zone tray condition
+- monitoring gallery observations
+- climate row state per chamber
+
+### Habitat And Personnel Limits
+
+- Do not transfer without a suitability ledger entry.
+- Do not open the separation door during a transfer.
+- Do not adjust climate to suit a schedule.
+- Do not treat a provisional habitat as settled.
+- Weakest against residents whose needs are inferred, not measured.
+- Weakest against chamber rows running near capacity.
+
+Chamber count, match success, and instability rate are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence records the resident's condition before and after every transfer. The comparison, not
+the
+design specification, is what the suitability ledger holds.
+
+1. Assess the resident in the intake bay before any move.
+2. Record baseline condition in the transfer suitability ledger.
+3. Set the chamber climate against the native-field record.
+4. Prepare the substrate and root-zone tray to match.
+5. Move the resident through the handling corridor.
+6. Seal the atmospheric separation door before releasing.
+7. Observe from the gallery and log every state change.
+8. Close the ledger with the post-transfer comparison.
+
+Step 8 is what turns the chamber from a container into a source of
+evidence. Without the post-transfer
+comparison the ledger records intentions, and the next transfer is planned from a habitat
+design that has
+never been tested against this resident.
 
 Before assignment, F-2 staff review biological type, environmental need, enclosure suitability, medical condition,
 research status, transfer destination, and escalation criteria. Material is placed in intake and assessment
@@ -127,6 +207,31 @@ habitat record travels with the
 resident.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Each transfer | record baseline and post-transfer condition |
+| Daily | read climate state across the chamber row |
+| Weekly | inspect trays, doors, and the medical lock |
+| Monthly | review provisional habitats for settlement |
+| Quarterly | rehearse a transfer with the row near capacity |
+
+Monthly review of provisional habitats exists because provisional is comfortable. A habitat recorded as
+provisional for a year is either settled or wrong, and the ledger is the
+only thing that can tell the two
+apart.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Resident declines after a move | Habitat match inferred, not measured | Revert the climate, log the comparison |
+| Separation door left open | Transfer sequence rushed | Seal it, assess both atmospheres |
+| Climate drifts overnight | Panel or supply fault | Move the resident, then service the panel |
+| Tray substrate fails | Substrate not matched to the field record | Replace it and note the source difference |
+| Ledger lacks a comparison | Post-transfer check skipped | Record the omission, do not infer the outcome |
 
 ## KNOWN LIMITS
 
@@ -196,6 +301,10 @@ life.
 — How often should chamber baselines be recalibrated against native-field observations?
 — Can cross-contamination occur through environmental controls before physical contact?
 — When does interior holding become unauthorized cultivation?
+
+- How is habitat match measured rather than assumed?
+- Which residents should never be moved indoors at all?
+- When does a provisional habitat become an admission of failure?
 
 ---
 

@@ -83,6 +83,38 @@ clearings, underground posts, and environmental control infrastructure where imp
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and observation doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| STATION PARAMETER | VALUE |
+|---|---|
+| Station | concealed field station |
+| Soil sensor | remote soil sensor |
+| Feed | moisture and canopy feed |
+| Marker | resident growth marker |
+| Cable | root-safe cable route |
+| Receiver | observation slit or feed receiver |
+| Relay | perimeter relay panel |
+| Shelter | staff rotation shelter |
+| Cache | emergency field cache |
+| Reporting | parent-reserve reporting terminal |
+| Observation classes | continuous feed, scheduled read, physical entry |
+| Intrusion rule | physical entry only on a data gap |
+| Station count | NOT MEASURED |
+| Feed continuity | NOT MEASURED |
+| Data gaps | NOT MEASURED |
+
+Remote monitoring trades resolution for intrusion. A continuous feed can miss the exact relationship
+that a
+person standing in the sector would notice immediately, and the enclosure accepts that loss
+deliberately
+because presence disturbs what is being measured. Physical entry is therefore gated on a
+data gap rather
+than on curiosity.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 An HCFSRMS installation includes camouflaged observation shelters, buried or terrain-matched sensor nodes, root-safe
@@ -108,7 +140,55 @@ The system must produce evidence without creating a footprint larger than the ev
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Station Controls
+
+- concealed field station
+- root-safe cable route
+- perimeter relay panel
+- parent-reserve reporting terminal
+
+### Station Readouts
+
+- remote soil sensor readings
+- moisture and canopy feed continuity
+- resident growth marker position
+- observation slit or feed receiver state
+
+### Observation And Personnel Limits
+
+- Do not enter a sector to close a curiosity gap.
+- Do not run cable across the root-protection boundary.
+- Do not leave a station uncovered after servicing.
+- Do not report a feed gap as a resident change.
+- Weakest against slow faults that mimic gradual change.
+- Weakest against stations a walker finds by accident.
+
+Station count, feed continuity, and gap count are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence keeps observation remote until the data proves it cannot be. Every entry
+into a sector is
+recorded as an entry, with the gap that justified it.
+
+1. Read the moisture and canopy feed from the field station.
+2. Compare soil sensor values against the season baseline.
+3. Check feed continuity across the perimeter relay panel.
+4. Record resident growth markers without entering the sector.
+5. Log any gap with its start time and affected sensors.
+6. Authorise physical entry only where the gap persists.
+7. Service the station and restore its concealment.
+8. Report to the parent reserve and close the round.
+
+Steps 5 and 6 are the pair that keeps the intrusion rule honest. A
+gap logged without a timestamp cannot
+justify an entry later, and an entry justified by an unlogged gap is indistinguishable
+from somebody who
+simply wanted a closer look.
 
 During routine operation, assigned personnel enter by approved low-intrusion routes, check station concealment, verify
 sensor status, review environmental readings, document resident behavior, and transmit approved reports to Verde
@@ -122,6 +202,31 @@ under
 parent-reserve authority.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Daily | confirm feed continuity and log any gap |
+| Weekly | compare soil values with the season baseline |
+| Monthly | inspect stations, slits, and cable routes |
+| Seasonally | test the shelter and the field cache |
+| Annually | review which sectors are observed least |
+
+The annual review of under-observed sectors is intentional. Some sectors are observed less because
+observation destabilises them, and that decision has to be revisited rather than inherited, or
+the enclosure
+ends up with blind spots nobody chose.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Feed goes silent | Station power or relay fault | Log the gap, then authorise entry if it holds |
+| Soil values drift slowly | Sensor fault or real field change | Compare with the neighbouring sector first |
+| Station concealment broken | Servicing left it uncovered | Restore concealment and note the exposure |
+| Cable crossed the root line | Route chosen for convenience | Re-route it and inspect the root zone |
+| Entry without a logged gap | Curiosity treated as necessity | Record the entry and review the decision |
 
 ## KNOWN LIMITS
 
@@ -189,6 +294,10 @@ the field changes.
 - Should some sectors be observed less often to preserve stability?
 - When does a data gap require physical entry despite intrusion risk?
 - Can concealed monitoring infrastructure itself become part of the resident's field?
+
+- What gap duration justifies physical entry?
+- Which relationships can only be seen in person?
+- Can monitoring hardware become part of the resident's field?
 
 ---
 

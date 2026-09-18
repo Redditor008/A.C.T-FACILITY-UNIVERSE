@@ -84,6 +84,38 @@ monitoring, concealed staff access, research observation, perimeter discipline, 
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and field doctrine. Values the
+archive does not
+hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| FIELD PARAMETER | VALUE |
+|---|---|
+| Growth zone | resident growth zone |
+| Root line | root-protection boundary |
+| Soil | soil-state sensor point |
+| Canopy | moisture and canopy condition marker |
+| Post | concealed perimeter post |
+| Path | low-intrusion observation path |
+| Sampling | environmental sampling station |
+| Ledger | resident condition ledger |
+| Alarm | incursion alarm line |
+| Tag | transport-denial field tag |
+| Containment method | the resident's own place held intact |
+| Transport status | denied while the field holds |
+| Sector count | NOT MEASURED |
+| Root-zone extent | NOT MEASURED |
+| Relocation attempts | NOT MEASURED |
+
+This is containment by geography rather than by structure. The resident cannot be moved
+without failure, so
+the field itself is the container and every intervention is judged against whether it
+changes the place the
+resident depends on. That inverts the usual priority: staff intrusion is a containment risk,
+not merely an
+inconvenience.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 An NCFS sector includes a resident growth zone, root-protection boundary, soil and moisture monitoring
@@ -111,7 +143,55 @@ as physical sabotage.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Field Controls
+
+- root-protection boundary
+- concealed perimeter post
+- environmental sampling station
+- transport-denial field tag
+
+### Field Readouts
+
+- soil-state sensor point readings
+- moisture and canopy condition markers
+- resident condition ledger entries
+- incursion alarm line state
+
+### Field And Personnel Limits
+
+- Do not cross the root-protection boundary for convenience.
+- Do not sample inside the growth zone without a stated reason.
+- Do not treat resident stillness as stability.
+- Do not lift transport denial without parent-reserve review.
+- Weakest against gradual environmental drift.
+- Weakest against staff who read the field as ordinary forest.
+
+Sector count, root extent, and relocation attempts are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence is built to be run without entering the growth zone. Observation, sampling,
+and alarm checks
+are all sited outside the root line for that reason.
+
+1. Read the soil and canopy markers from the observation path.
+2. Compare current readings with the resident condition ledger.
+3. Sample at the environmental sampling station, outside the root line.
+4. Record any change against the ledger entry, not in a notebook.
+5. Check the concealed perimeter posts and the alarm line.
+6. Confirm the transport-denial field tag is in force.
+7. Report incursion or drift to the enclosure supervisor.
+8. Close the round with the ledger signed and dated.
+
+Step 4 is the discipline that makes the ledger usable. A condition recorded separately
+from the ledger
+cannot be compared with last season's reading, and gradual drift is only visible as
+a comparison between
+dated entries.
 
 During routine operation, Environmental Containment staff inspect perimeter integrity, soil condition, canopy state,
 water flow, resident growth behavior, and any sign of external approach. Research Support performs
@@ -126,6 +206,32 @@ check the field
 before touching the resident. If the field fails, containment has already entered emergency review.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Each round | read markers and sign the ledger |
+| Weekly | compare soil readings against the season baseline |
+| Monthly | inspect perimeter posts and the alarm line |
+| Seasonally | review resident condition against the field record |
+| Annually | reconfirm the transport-denial determination |
+
+Annual reconfirmation of transport denial is a deliberate friction. The determination is easy to
+leave in
+place by habit, and a denial that has not been reviewed cannot be distinguished
+from one that was decided
+and is still correct.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Soil reading drifts | Ordinary seasonal change or field shift | Record both readings, compare next season |
+| Canopy marker changes | Moisture change or resident response | Sample outside the root line, log the cause |
+| Alarm line triggered | Incursion or animal interference | Respond without entering the growth zone |
+| Transport denial questioned | Field condition under review | Escalate to the parent reserve, do not lift |
+| Ledger entry missing | Change noted in a notebook instead | Transcribe it with the observation date |
 
 ## KNOWN LIMITS
 
@@ -194,6 +300,10 @@ the place that contains them.
 - Should transport denial remain absolute if the field itself is threatened?
 - Can native-field monitoring detect containment failure before visible growth changes?
 - When does a field become the anomaly rather than merely the resident's container?
+
+- How should drift be distinguished from ordinary seasonal change?
+- What intrusion level does the resident actually tolerate?
+- When does the field itself require containment?
 
 ---
 

@@ -86,6 +86,38 @@ post.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and studio doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| STUDIO PARAMETER | VALUE |
+|---|---|
+| Workroom | restoration workroom |
+| Bench | conservation bench |
+| Climate | climate-control cabinet |
+| Restricted | restricted client-work area |
+| Desk | studio administration desk |
+| Store | preservation supply store |
+| Ledger | document receipt ledger |
+| Drawer | concealed transition drawer |
+| Observation | boundary observation point |
+| Response | cover incident response file |
+| Client classes | private, institutional, referred, restricted |
+| Cover output | completed conservation work |
+| Client throughput | NOT MEASURED |
+| Restricted work share | NOT MEASURED |
+| Cover challenges | NOT MEASURED |
+
+A preservation studio is an unusually good cover because its ordinary business already involves
+receiving
+documents, restricting access to them, and refusing to discuss client work. The difficulty is
+scale: a small
+studio can only carry a small number of restricted-work explanations before the pattern of
+refusal becomes
+the noticeable thing.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A DPSCS installation includes restoration workrooms, conservation benches, document drying racks, climate-control
@@ -111,7 +143,55 @@ The system is strongest when visitors remember the studio as competent and unrem
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Studio Controls
+
+- restricted client-work area
+- concealed transition drawer
+- studio administration desk
+- boundary observation point
+
+### Studio Readouts
+
+- document receipt ledger entries
+- climate-control cabinet state
+- cover incident response file entries
+- preservation supply store consumption
+
+### Cover And Personnel Limits
+
+- Do not accept restricted work the studio cannot explain.
+- Do not move annex material through the client route.
+- Do not brief visible staff on reasons they do not need.
+- Do not let refusals cluster in one visible pattern.
+- Weakest against clients who return across years.
+- Weakest against conservation staff from outside A.C.T.
+
+Client throughput, restricted share, and challenges are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence keeps client work and annex work on separate routes even where they
+share a bench. Shared
+routes are how a legitimate document ends up in a transition drawer.
+
+1. Open the studio on its published hours and post the desk.
+2. Receive client documents in the ledger before handling.
+3. Assess each item at the conservation bench.
+4. Move restricted client work to the restricted area.
+5. Route annex material through the concealed transition drawer.
+6. Record climate cabinet readings for stored work.
+7. Log boundary observations before the shift closes.
+8. Reconcile the ledger with finished and stored work.
+
+Step 8 is what allows the studio to answer a client question months later.
+Conservation work runs slowly,
+and a ledger that cannot show where an item has been for a season
+reads as a ledger that has something to
+hide.
 
 During routine operation, legitimate studio staff restore documents, maintain conservation environments, receive
 client materials, file ordinary paperwork, and conduct the professional work of the cover. Administrative
@@ -127,6 +207,32 @@ is threatened, the buried annex
 is sealed behind the surface level while the studio handles the visible incident.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Daily | log receipts and climate cabinet readings |
+| Weekly | reconcile the ledger with stored work |
+| Monthly | review restricted-work explanations for plausibility |
+| Quarterly | rehearse a client challenge at the restricted area |
+| Annually | reconfirm permits, suppliers, and studio identity |
+
+Supply consumption is an underused cover check. A studio that buys solvent and tissue
+in quantity is doing
+work; a studio whose supply orders do not match its finished output is doing
+something else, and a curious
+client can work that out from a delivery.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Client asks about restricted work | Refusal pattern visible | Give the standing client-confidentiality answer |
+| Ledger short of an item | Item moved without a receipt entry | Reconstruct the entry, then trace the item |
+| Climate cabinet out of range | Cabinet fault or overloaded storage | Move the work and record the excursion |
+| Annex material in client route | Routes shared at the bench | Separate the routes and re-brief the desk |
+| Outside specialist notices | Workflow inconsistent with output | Adjust the visible workload to match |
 
 ## KNOWN LIMITS
 
@@ -193,6 +299,10 @@ that no one interrupts it.
 - When does quiet professionalism become suspicious absence?
 - Should visible studio staff know the full reason for restricted movement?
 - Can a memetic document exploit the cover by presenting as ordinary restoration work?
+
+- How much restricted work can a small studio explain?
+- Which client documents should never enter the studio?
+- When does professional quiet read as concealment?
 
 ---
 

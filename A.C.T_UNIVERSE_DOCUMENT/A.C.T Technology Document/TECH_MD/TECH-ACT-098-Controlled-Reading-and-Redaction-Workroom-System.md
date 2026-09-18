@@ -82,6 +82,38 @@ enough to stop reading.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and review doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| WORKROOM PARAMETER | VALUE |
+|---|---|
+| Cell | paired controlled-reading cell |
+| Observer | observer station |
+| Clock | exposure clock |
+| Desk | redaction work desk |
+| Stand | shielded copy stand |
+| Staging | review staging tray |
+| Format | parent-node format terminal |
+| Aftercare | cognitive aftercare alert line |
+| Disposal | contaminated draft disposal container |
+| Lock | redaction release lock |
+| Review modes | paired reading, observer only, remote copy |
+| Release authority | review officer at the release lock |
+| Cell count | NOT MEASURED |
+| Median exposure time | NOT MEASURED |
+| Bad redaction events | NOT MEASURED |
+
+Redaction is not subtraction. Removing content leaves layout, absence, and sequence behind, and for
+some
+documents the surviving shape carries the payload more cleanly than the original text did.
+The workroom
+therefore treats a redacted draft as a new hazardous object requiring its own review,
+not as a cleaned
+version of the old one.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A CRRWS installation includes controlled-reading cells, redaction desks, shielded copy stands, exposure timers,
@@ -107,7 +139,55 @@ A finished redaction is treated as a containment product, not clerical polish.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Workroom Controls
+
+- paired controlled-reading cell
+- redaction work desk
+- shielded copy stand
+- redaction release lock
+
+### Workroom Readouts
+
+- exposure clock readings per reader
+- observer station notes
+- parent-node format terminal state
+- contaminated draft disposal count
+
+### Review And Personnel Limits
+
+- Do not read alone, whatever the clearance or the urgency.
+- Do not release a redacted draft without a second review.
+- Do not keep review notes outside the disposal route.
+- Do not let parent-node urgency shorten an exposure clock.
+- Weakest against documents whose payload is structural.
+- Weakest against long review sessions with one reader.
+
+Cell count, exposure time, and bad redaction rate are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence pairs every reading with an observer and every redaction with a second
+review. Both pairings
+are recorded, because an unrecorded pairing is indistinguishable from solo work afterwards.
+
+1. Assign a reader and an observer before the document is fetched.
+2. Start the exposure clock at the moment reading begins.
+3. Read in the paired cell with the observer station manned.
+4. Draft redactions at the desk using the shielded copy stand.
+5. Stage the draft on the review tray as a separate object.
+6. Review the draft against layout, absence, and sequence.
+7. Dispose of contaminated drafts through the disposal container.
+8. Release through the lock and format for the parent node.
+
+Step 6 is the step most often skipped under pressure and the one that
+catches the failure this level exists
+to prevent. A draft reviewed only for content is a draft whose surviving shape
+has never been looked at by
+anybody.
 
 Before review, Archive staff confirm source, quarantine status, hazard category, exposure limit, reviewer pairing,
 medical readiness, and parent-node purpose. The material enters a controlled-reading cell or staging tray.
@@ -123,6 +203,32 @@ status, hazard
 handling, and transfer destination match.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Each session | log reader, observer, and clock together |
+| Daily | review exposure totals against limits |
+| Weekly | audit drafts released without second review |
+| Monthly | test the aftercare alert line and disposal route |
+| Quarterly | rehearse a contaminated review-note discovery |
+
+Review notes are the least guarded hazardous material on this level. They are written
+by somebody who has
+just read the document, they are kept for convenience, and they are routinely carried
+out of the workroom by
+staff who do not think of them as copies.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Reader worked alone | Pairing not verified at entry | Void the session, restart with an observer |
+| Redacted draft still active | Payload carried by layout or absence | Withdraw it and re-review the structure |
+| Review notes missing | Notes kept outside the disposal route | Treat as uncontrolled copies and trace them |
+| Release without review | Lock bypassed under node urgency | Recall the release, review before reissue |
+| Exposure clock short | Clock started after reading began | Record the gap, extend aftercare |
 
 ## KNOWN LIMITS
 
@@ -188,6 +294,10 @@ CRRWS doctrine holds that reading is never private when the text can read back.
 - Should paired review remain mandatory even outside active contamination cycles?
 - When does redaction buffering become unauthorized interpretation?
 - Can a document exploit parent-node urgency to force premature release?
+
+- Which documents must never be redacted at an annex at all?
+- How should a structural payload be reviewed without reading it?
+- What makes a review note safe enough to keep?
 
 ---
 

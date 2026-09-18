@@ -81,6 +81,38 @@ annex's buffer doctrine: nothing here belongs here forever.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and buffer doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| VAULT PARAMETER | VALUE |
+|---|---|
+| Cabinet | visual-denial storage cabinet |
+| Cell | document quarantine cell |
+| Transfer | covered transfer drawer |
+| Clock | exposure clock board |
+| Manifest | rolling buffer manifest terminal |
+| Lane | low-light handling lane |
+| Aftercare | cognitive aftercare alert line |
+| Routing | parent-node routing terminal |
+| Closure | F-1 closure control |
+| Referral | black-archive referral flag |
+| Hazard classes | minor memetic, mid memetic, suspected major |
+| Buffer limit | parent-node routing closes custody |
+| Cell count | NOT MEASURED |
+| Median buffer time | NOT MEASURED |
+| Spillover events | NOT MEASURED |
+
+A minor memetic vault buffers hazards too small to justify a node transfer and
+too cumulative to ignore. Its
+controlling risk is not the individual document but the sum: many minor hazards stored
+together produce a
+local pressure that no single entry predicts. The manifest is deliberately thin for that
+reason, since a
+detailed manifest of many minor hazards is itself a hazard.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 An MMQVS installation includes visually shielded document cells, covered transfer drawers, low-light handling lanes,
@@ -105,7 +137,55 @@ A quiet document is not assumed safe. Silence can be part of the hazard.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Vault Controls
+
+- visual-denial storage cabinet
+- covered transfer drawer
+- parent-node routing terminal
+- F-1 closure control
+
+### Vault Readouts
+
+- exposure clock board readings
+- rolling buffer manifest entries
+- black-archive referral flag state
+- cognitive aftercare alert line status
+
+### Buffer And Personnel Limits
+
+- Do not read a buffered document outside the handling lane.
+- Do not work a cell alone at any clearance.
+- Do not extend a buffer without parent-node routing.
+- Do not describe contents in the manifest beyond the class.
+- Weakest against long buffers of similar minor hazards.
+- Weakest against staff who treat minor as harmless.
+
+Cell count, buffer time, and spillover rate are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence assumes the reader is never alone and never unlogged. Both conditions are
+checked before the
+cell is opened rather than assumed from clearance.
+
+1. Receive the document and class it against the hazard scale.
+2. Open a buffer entry on the rolling manifest terminal.
+3. Start the exposure clock before the covering is lifted.
+4. Move it through the covered transfer drawer to a cell.
+5. Store it in the visual-denial cabinet face down and closed.
+6. Flag for referral if the class is uncertain or rising.
+7. Route to the parent node when the buffer limit is reached.
+8. Close the entry, stop the clock, and log any aftercare need.
+
+Step 3 comes before the covering is lifted. An exposure clock started afterwards records
+the exposure the
+handler chose to report, which is not the same measurement and cannot be audited
+against the aftercare
+record.
 
 Before intake, Archive staff confirm source, hazard outline, visual risk, handling limits, review status,
 transfer
@@ -122,6 +202,32 @@ and requests
 Kurokawa escalation or black-archive referral.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Each entry | start and stop the exposure clock on the record |
+| Daily | read every clock and note approaching limits |
+| Weekly | review the manifest for accumulated similar classes |
+| Monthly | test the aftercare alert line end to end |
+| Quarterly | rehearse closure with occupied cells |
+
+The weekly review is the control that catches the failure this vault exists to
+prevent. Individual buffers
+look harmless in isolation; the accumulation is only visible when the manifest is read
+as a whole rather
+than entry by entry.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Clock past its limit | Parent-node routing delayed | Escalate and record the routing request |
+| Staff worked a cell alone | Pairing not checked at entry | Void the exposure, restart under observation |
+| Manifest describes contents | Entry written beyond its hazard class | Reduce it to the class, log the exposure |
+| Aftercare line silent | Alert line fault or not tested | Suspend handling until the line is proven |
+| Similar classes pile up | Buffers extended without review | Route the group, not just the oldest entry |
 
 ## KNOWN LIMITS
 
@@ -189,6 +295,10 @@ not a grave.
 - When does buffer overstay become unauthorized containment?
 - Should visual-denial cells be audited by personnel who never read the contents?
 - Can a document learn the rhythm of temporary transfer scheduling?
+
+- What accumulation threshold should force a group transfer?
+- How thin can a manifest be and still support an audit?
+- Which minor hazards should never be buffered locally at all?
 
 ---
 

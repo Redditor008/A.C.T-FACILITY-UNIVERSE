@@ -90,6 +90,54 @@ because the dangerous
 part of a sample is not always its size. Sometimes the danger is losing
 the context that made the sample meaningful.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and custody doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| LABORATORY PARAMETER       | VALUE                                                                                 |
++============================+=======================================================================================+
+| Laboratory                 | regulated biological analysis laboratory                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Bench                      | sample processing bench                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Hatch                      | containment-compatible transfer hatch                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Locker                     | specimen custody locker                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Terminal                   | chain-of-custody terminal                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Context                    | field-origin context file                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Crossover                  | medical crossover review station                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Decontamination            | decontamination point                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Lock                       | archive data lock                                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Ledger                     | verified return or disposal ledger                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Sample classes             | environmental, resident, medical crossover                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Context rule               | field-origin file travels with the sample                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Bench count                | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Median analysis time       | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Chain breaks               | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+A biological sample taken out of its field is a different object from the
+same material in place, and the
+difference is often the whole point of the analysis. The field-origin context file therefore
+travels with
+the sample as a required component: a result produced without it is recorded as
+unanchored and cannot be
+cited against the resident.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 A BASCL installation includes biological analysis labs, sample processing rooms, containment-compatible work surfaces,
@@ -112,7 +160,56 @@ Known components include:
 The laboratory treats context as part of the sample because biological anomalies often make
 location into evidence.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Laboratory Controls
+
+- sample processing bench
+- containment-compatible transfer hatch
+- decontamination point
+- archive data lock
+
+Laboratory Readouts
+
+- chain-of-custody terminal entries
+- field-origin context file status
+- specimen custody locker inventory
+- verified return or disposal ledger state
+
+Sample And Personnel Limits
+
+- Do not process a sample without its context file.
+- Do not move material between benches without a custody entry.
+- Do not dispose of analysed material without a ledger line.
+- Do not let medical crossover samples skip resident doctrine.
+- Weakest against samples whose anomaly is field-dependent.
+- Weakest against disposal treated as the end of custody.
+
+Bench count, analysis time, and chain breaks are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+The sequence treats disposal as a custody event rather than a conclusion. Analysed material
+leaves the
+laboratory under a ledger line, because in this reserve disposal may not be severance.
+
+1. Receive the sample at the transfer hatch and open a custody entry.
+2. Confirm the field-origin context file is attached.
+3. Store it in the specimen custody locker until processing.
+4. Process at the bench without crossing other sample lines.
+5. Record the result against the custody entry, not a notebook.
+6. Route medical crossover material to the review station.
+7. Decontaminate the bench and log the point.
+8. Return or dispose under the verified ledger and lock the data.
+
+Step 8 is where most custody systems stop and this one does not. A
+disposal entry is required because
+material from a place-bound resident may retain a relationship with its source, and the
+ledger is the only
+record of what left and when.
 
 Before sample entry, staff record origin, resident or sector link, collection method, environmental context,
 medical
@@ -128,6 +225,47 @@ containment
 research, or continued custody under command. Findings that affect field or chamber conditions are
 routed to
 Environmental Containment before operational change occurs.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Each sample                | attach the context file and open custody                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Daily                      | reconcile the locker with open custody entries                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Weekly                     | review the disposal ledger for missing lines                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | test the transfer hatch and decontamination point                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | audit results recorded without a context file                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The quarterly audit for unanchored results is the meaningful check. Missing context is invisible
+at the
+bench and obvious only in retrospect, when a result cannot be reconciled with the
+field record it was
+supposed to describe.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Result contradicts the     | Sample analysed without context           | Mark it unanchored and re-sample          |
+| field                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Locker count short         | Sample moved without a custody entry      | Suspend processing, trace every open entry|
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Cross-contamination        | Benches shared across sample lines        | Decontaminate, quarantine both lines      |
+| suspected                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Disposal without a ledger  | Disposal treated as the end of custody    | Reconstruct the line and report it        |
+| line                       |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Crossover sample mishandled| Patient doctrine applied alone            | Apply resident doctrine and re-review     |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -187,6 +325,10 @@ OPEN QUESTIONS
 - Should medical crossover samples be governed by patient doctrine or resident doctrine first?
 - When does a sample become a resident in miniature?
 - Can disposal of analyzed material damage the source field through sympathetic relation?
+- What context must survive for a result to be trusted?
+- Which samples should never leave the reserve?
+- How should disposal be verified where severance is unproven?
+
 
 FILE METADATA
 

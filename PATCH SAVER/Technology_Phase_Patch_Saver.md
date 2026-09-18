@@ -4145,3 +4145,46 @@ rc=0.
 TECH-ACT-096 to TECH-ACT-137.
 
 **Next action.** Resume at TECH-ACT-096 through TECH-ACT-100.
+
+## Prompt Log — 2026-09-18 22:33 UTC
+
+**Records 096 to 105.** Each gained a TECHNICAL SPECIFICATION table, an INTERFACE AND OPERATING
+ENVELOPE chapter, a numbered operating sequence, a SERVICING AND CALIBRATION schedule, a FAULT
+ISOLATION table, and three new OPEN QUESTIONS, in both twins.
+
+**This block closes Frost Hollow, opens the Silent Reed Annex, and covers Hollow Canopy and Verde
+Null.** Arctic cover runs against the transport calendar rather than operational convenience,
+because a receiving bay that stays busy in winter is the conspicuous one. The minor memetic vault
+keeps its manifest thin, since a detailed manifest of many minor hazards is itself a hazard. The
+redaction workroom treats a redacted draft as a new hazardous object, because removing content
+leaves layout, absence, and sequence behind. The preservation studio cover fails on scale rather
+than on plausibility.
+
+**Hollow Canopy and Verde Null tailoring.** Native containment is containment by geography, so staff
+intrusion is itself a containment risk and every monitoring point sits outside the root line. The
+perimeter network separates the marked line from the real boundary, and the drift record is the only
+place the difference is written. Remote monitoring gates physical entry on a logged data gap rather
+than on curiosity. Interior habitat chambers treat habitat match as a measured outcome, with the
+post-transfer comparison governing the next move. The laboratories require the field-origin context
+file to travel with every sample, and record disposal as a custody event because severance from a
+place-bound resident is unproven. Deep cultivation gates alteration rather than activity, since
+cultivation is the one technology in the reserve that can produce a resident instead of holding one.
+
+**Word counts, measured from the records after the run.** 096 1252 to 1973, 097 1133 to 1872, 098
+1142 to 1878, 099 1226 to 1933, 100 1172 to 1879, 101 1151 to 1866, 102 1178 to 1896, 103 1212 to
+1925, 104 1211 to 1936, 105 1224 to 1939. Every record now carries 14 H2 chapters, 8 H3 sections,
+and 6 pipe tables.
+
+**Width guard.** Three fault-table rows exceeded the row budget and were caught by the pre-assembly
+check across two passes, shortened each time, before any document was touched. The dry run then
+confirmed every rendered block, so nothing was written from a row that could have overflowed.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, UTF8_ERR 0, CONFLICT 0,
+multiH1 0, odd-fence 0, md-with-box 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204, GOI_MD 34 =
+GOI_TXT 34, widest box line 118, date-rule violations 0, twin date mismatches 0, truncated registry
+cells 0, git diff --check rc=0.
+
+**Remaining ACT technology queue.** 32 TECH-ACT records still carry the old skeleton, running from
+TECH-ACT-106 to TECH-ACT-137.
+
+**Next action.** Resume at TECH-ACT-106 through TECH-ACT-110.

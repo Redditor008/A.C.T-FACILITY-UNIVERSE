@@ -81,6 +81,38 @@ knowledge.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and perimeter doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| PERIMETER PARAMETER | VALUE |
+|---|---|
+| Post | terrain-matched boundary post |
+| Shadow marker | canopy-shadow marker |
+| Anchor | root-safe anchor point |
+| Route tag | staff-only route tag |
+| Sensor | camouflaged incursion sensor |
+| Ledger | sector identity ledger |
+| Drift record | perimeter drift record |
+| Cache | emergency response cache |
+| Expansion | resident expansion marker |
+| Relay | parent-reserve alert relay |
+| Sector classes | core, buffer, public interface |
+| Concealment method | markers matched to natural terrain |
+| Sector count | NOT MEASURED |
+| Marker relocation rate | NOT MEASURED |
+| Incursion events | NOT MEASURED |
+
+The perimeter is concealed inside a reserve that the public is entitled to walk
+through, so its markers must
+survive being looked at rather than being found. Two constraints govern the design: anchors
+must not damage
+the root zone, and markers must be moved often enough to defeat memorisation without
+the movement itself
+becoming a pattern.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A CPSN installation includes terrain-matched boundary posts, root-safe anchor points, camouflaged observation markers,
@@ -107,7 +139,55 @@ unassigned.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Perimeter Controls
+
+- terrain-matched boundary post
+- root-safe anchor point
+- staff-only route tag
+- parent-reserve alert relay
+
+### Perimeter Readouts
+
+- camouflaged incursion sensor state
+- sector identity ledger entries
+- perimeter drift record entries
+- resident expansion marker positions
+
+### Sector And Personnel Limits
+
+- Do not anchor a post inside the root-protection boundary.
+- Do not relocate markers on a fixed rotation.
+- Do not respond to an incursion in a way that reveals a line.
+- Do not carry sector maps outside the enclosure office.
+- Weakest against regular walkers who learn the terrain.
+- Weakest against research mapping that reconstructs sectors.
+
+Sector count, relocation rate, and incursion count are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence separates the real boundary from the marked one. Patrols work the marked
+line; the drift record
+and expansion markers describe where the actual containment now sits.
+
+1. Collect the sector identity ledger before patrol.
+2. Walk the marked line and check each post and anchor.
+3. Test the camouflaged incursion sensors on the route.
+4. Compare the resident expansion markers with the ledger.
+5. Record any perimeter drift in the drift record.
+6. Confirm the staff-only route tags are intact.
+7. Check the emergency response cache is complete.
+8. Report to the parent-reserve relay and close the ledger.
+
+Steps 4 and 5 exist because the marked line and the real boundary separate
+over time. A patrol that only
+confirms markers are standing has verified the map, not the containment, and the drift
+record is the only
+place the difference is written down.
 
 During routine operation, Limited Security and Environmental Containment staff inspect boundary integrity, marker
 concealment, resident growth pressure, external approach signs, and ordinary wildlife disturbance. Research Support
@@ -122,6 +202,32 @@ If a boundary component becomes
 visible, it is replaced or naturalized before it becomes a point of curiosity.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Each patrol | check posts, anchors, and sensors |
+| Weekly | compare expansion markers with the ledger |
+| Monthly | review the drift record against sector maps |
+| Seasonally | relocate a varied subset of markers |
+| Annually | rehearse an incursion response with civilians present |
+
+Seasonal relocation is deliberately irregular in both timing and quantity. A rotation schedule is
+itself a
+pattern, and a member of the public who notices markers moving every spring has
+learned something the
+network exists to keep unknown.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Walker reports a marker | Post visible against changed terrain | Remove it and re-match the surrounding posts |
+| Sensor triggered by wildlife | Sensor sited on an animal route | Re-site it and record the false trigger |
+| Expansion past a marker | Resident growth beyond the marked line | Move the marker, update the drift record |
+| Route tag missing | Tag removed by a visitor | Replace it and vary the route |
+| Cache incomplete | Equipment drawn without replacement | Restore it before the next patrol |
 
 ## KNOWN LIMITS
 
@@ -189,6 +295,10 @@ made itself.
 - Can ordinary research mapping accidentally reconstruct the sector network?
 - When does boundary drift become resident expansion rather than terrain change?
 - Should some sector lines be left deliberately uncertain to protect the real perimeter?
+
+- How often can markers move before movement becomes the pattern?
+- Which sector lines should stay deliberately uncertain?
+- What incursion response is safe with civilians nearby?
 
 ---
 
