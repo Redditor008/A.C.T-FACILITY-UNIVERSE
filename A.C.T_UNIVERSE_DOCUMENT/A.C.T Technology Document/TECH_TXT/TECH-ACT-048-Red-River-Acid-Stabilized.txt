@@ -192,7 +192,7 @@ Eel-Crabs? How
 long can a neutralization tab hold shutdown before the acid resumes being river material?
 
 FILE METADATA
-Created: 2031-01-04
+Created: 2026-07-02
 Author Desk: Hazardous Materials Desk / Dark World Survey / Central Archive
 Review Status: Active anomalous chemical record; stabilizer formulation and neutralization tab chemistry censored
 Next Review: After any container etching, tab delay, over-etch, vapor exposure, or new Dark

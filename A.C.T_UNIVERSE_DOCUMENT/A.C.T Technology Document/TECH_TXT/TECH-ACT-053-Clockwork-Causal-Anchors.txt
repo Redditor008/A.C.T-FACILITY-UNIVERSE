@@ -201,7 +201,7 @@ than current engineering admits?
 
 FILE METADATA
 
-Created: 2052-10-20
+Created: 1989-10-01
 Author Desk: Historical Engineering Archive / Temporal Review Desk / Central Archive
 Review Status: Retired legacy temporal technology record; live winding procedures censored
 Next Review: After any tick event, stored-tension finding, sequence anomaly, restoration request, or RSA

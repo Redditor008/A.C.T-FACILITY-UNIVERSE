@@ -276,8 +276,8 @@ Civil Covert may not:
 ## File Metadata
 
 text
-FILE CREATED:        23/12/2048
-FILE LAST UPDATED:   23/12/2056
+FILE CREATED:        15/07/1961
+FILE LAST UPDATED:   23/11/1968
 FILE AUTHOR:         Civil Covert Division / Intelligence Division
 REVIEWED BY:         Archiver Division / Site Command
 FILE STATUS:         ACTIVE

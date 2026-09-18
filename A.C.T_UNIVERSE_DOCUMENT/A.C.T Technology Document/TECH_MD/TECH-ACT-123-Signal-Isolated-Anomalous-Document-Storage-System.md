@@ -206,7 +206,7 @@ exits are possible before it trusts the shelf.
 
 ## FILE METADATA
 
-- **Created:** 2028-07-27
+- **Created:** 1944-06-22
 - **Author Desk:** Floor Holding Archivist / Document-Holding Command / Central Archive
 - **Review Status:** Active signal-isolated storage technology record; live storage maps, holding
   identities, signal logs, and escalation thresholds censored

@@ -368,7 +368,7 @@ Standing reminder: the compass points toward meaning. Meaning is not always an a
 
 ## FILE METADATA
 
-- **Created:** 2033-01-23
+- **Created:** 2022-07-24
 - **Author Desk:** Survey Division / Dark World Expedition Desk / Engineering Division / Central Archive
 - **Review Status:** Active restricted record; Narrative North calibration censored
 - **Next Review:** After any false north incident, dead-map event, missing-person thread failure, or

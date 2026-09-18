@@ -344,7 +344,7 @@ absence.
 
 ## FILE METADATA
 
-- **Created:** 2031-11-05
+- **Created:** 2025-12-20
 - **Author Desk:** Medical Division / Info-Hazard Division / Central Archive
 - **Review Status:** Active restricted record; filter lists and receiver tuning censored
 - **Next Review:** After any overfilter incident, unauthorized expansion request, signal-sink

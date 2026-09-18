@@ -366,7 +366,7 @@ decisions.
 
 ## FILE METADATA
 
-- **Created:** 2032-02-19
+- **Created:** 2022-06-21
 - **Author Desk:** Security Division / Identity Control Desk / O5 Liaison / Central Archive
 - **Review Status:** Active restricted record; O5 pulse libraries and override rules censored
 - **Next Review:** After any false acceptance, council denial, lawful transformation mismatch, or

@@ -214,7 +214,7 @@ when they leave their own lives and descend to work.
 
 ## FILE METADATA
 
-- **Created:** 2093-12-26
+- **Created:** 2013-10-13
 - **Author Desk:** Habitation Chief / Station Administration / Central Archive
 - **Review Status:** Active long-rotation habitation and checkpoint technology record; live rosters,
   quarter assignments, Medical flags, and checkpoint logs censored

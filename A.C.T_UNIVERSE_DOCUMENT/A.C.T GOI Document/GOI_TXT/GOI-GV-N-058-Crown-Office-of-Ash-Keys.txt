@@ -605,8 +605,8 @@ or Sites.
 FILE METADATA
 -------------
 
-FILE CREATED:            09/11/2078
-FILE LAST UPDATED:       09/11/2086
+FILE CREATED:            24/05/1939
+FILE LAST UPDATED:       23/07/1941
 FILE AUTHOR:             Intelligence Division / Central Archive / Civil Covert Joint Desk
 REVIEWED BY:             Legal Liaison and Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

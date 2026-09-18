@@ -202,7 +202,7 @@ understanding the path the copies want to take next.
 
 ## FILE METADATA
 
-- **Created:** 2063-07-07
+- **Created:** 1928-02-19
 - **Author Desk:** Media Propagation Lead / Floor Research Chief / Central Archive
 - **Review Status:** Active media-propagation technology record; live public-watch channels, media
   samples, response routes, and copy-chain maps censored

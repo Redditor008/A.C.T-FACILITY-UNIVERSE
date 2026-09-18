@@ -231,7 +231,7 @@ object, crew, platform record, and cover story all arrive intact.
 
 ## FILE METADATA
 
-- **Created:** 2055-06-25
+- **Created:** 1998-07-02
 - **Author Desk:** Maritime Recovery Command / Nusantara Deep Relay / Central Archive
 - **Review Status:** Active maritime platform record; vessel classes, port routes, and live platform
   names censored

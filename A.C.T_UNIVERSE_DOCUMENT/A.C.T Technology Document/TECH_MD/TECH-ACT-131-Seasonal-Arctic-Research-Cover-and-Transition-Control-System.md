@@ -207,7 +207,7 @@ the weather help guard the door.
 
 ## FILE METADATA
 
-- **Created:** 2023-10-06
+- **Created:** 1955-12-24
 - **Author Desk:** Surface Chief / Station Administration / Central Archive
 - **Review Status:** Active surface research cover and seasonal transition technology record; airstrip
   schedules, transition routes, buried rosters, and cover-maintenance records censored

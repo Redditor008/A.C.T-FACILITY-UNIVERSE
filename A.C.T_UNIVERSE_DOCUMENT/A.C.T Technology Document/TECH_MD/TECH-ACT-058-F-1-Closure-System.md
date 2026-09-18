@@ -209,7 +209,7 @@ Standing reminder: F-1 closes so the rest of the site remains a site.
 
 ## FILE METADATA
 
-- **Created:** 2036-09-18
+- **Created:** 1928-11-25
 - **Author Desk:** Deep-Hold Command / Engineering / Central Archive
 - **Review Status:** Active deep containment infrastructure record; closure maps and trigger thresholds
   censored

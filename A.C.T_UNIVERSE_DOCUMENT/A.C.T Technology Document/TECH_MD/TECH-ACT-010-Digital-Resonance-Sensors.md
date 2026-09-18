@@ -374,7 +374,7 @@ sensor for being first.
 
 ## FILE METADATA
 
-- **Created:** 2085-08-24
+- **Created:** 2025-08-24
 - **Author Desk:** Survey Division / Engineering Division / Central Archive
 - **Review Status:** Active restricted record; calibration libraries censored
 - **Next Review:** After any false-clean scan, hostile spoof, Field Type misclassification, or

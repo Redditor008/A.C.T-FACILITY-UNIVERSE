@@ -207,7 +207,7 @@ learned to blink for the researcher.
 
 ## FILE METADATA
 
-- **Created:** 2009-02-17
+- **Created:** 2021-11-23
 - **Author Desk:** Symbol Behavior Study Lead / Floor Research Chief / Central Archive
 - **Review Status:** Active symbol-study technology record; source images, live restriction sets,
   observer names, and Dread EYE session details censored

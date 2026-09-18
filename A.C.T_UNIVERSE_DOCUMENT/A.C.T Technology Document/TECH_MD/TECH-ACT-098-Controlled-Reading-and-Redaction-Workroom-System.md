@@ -193,7 +193,7 @@ CRRWS doctrine holds that reading is never private when the text can read back.
 
 ## FILE METADATA
 
-- **Created:** 2013-10-16
+- **Created:** 1975-06-17
 - **Author Desk:** Review Officer / Redaction Lead / Central Archive
 - **Review Status:** Active controlled review record; live exposure limits, redaction keys, and
   hazardous layouts censored

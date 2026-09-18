@@ -205,7 +205,7 @@ SION doctrine holds that shared instruments are strongest when neither duty dest
 
 ## FILE METADATA
 
-- **Created:** 2033-01-15
+- **Created:** 1994-06-22
 - **Author Desk:** Station Manager / Watch Officer / Central Archive
 - **Review Status:** Active shared-instrument record; feed routes, calibration exceptions, and sensitive
   capture logs censored

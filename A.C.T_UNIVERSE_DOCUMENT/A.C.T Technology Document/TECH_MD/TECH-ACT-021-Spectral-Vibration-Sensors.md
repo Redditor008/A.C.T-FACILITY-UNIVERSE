@@ -343,7 +343,7 @@ Standing reminder: if the room develops rhythm, assume something is counting peo
 
 ## FILE METADATA
 
-- **Created:** 2064-04-09
+- **Created:** 2025-06-26
 - **Author Desk:** Archive Division / Info-Hazard Division / Engineering Division / Central Archive
 - **Review Status:** Active restricted record; narrative-tempo calibration censored
 - **Next Review:** After any missed script event, overtuning incident, clicker contamination, or BWB

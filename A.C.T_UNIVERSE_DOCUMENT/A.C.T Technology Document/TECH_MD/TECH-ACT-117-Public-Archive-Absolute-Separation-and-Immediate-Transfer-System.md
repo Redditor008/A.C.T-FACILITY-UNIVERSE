@@ -223,7 +223,7 @@ in public.
 
 ## FILE METADATA
 
-- **Created:** 2071-04-20
+- **Created:** 1969-03-17
 - **Author Desk:** Foundation Director / Security Boundary Office / Central Archive
 - **Review Status:** Active surface-separation technology record; transition routes, cover phrases,
   public witnesses, and suspect-item receipts censored

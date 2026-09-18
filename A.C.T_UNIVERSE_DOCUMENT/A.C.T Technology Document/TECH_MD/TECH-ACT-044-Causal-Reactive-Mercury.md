@@ -226,7 +226,7 @@ Standing reminder: if the metal moves before you do, your report is already late
 
 ## FILE METADATA
 
-- **Created:** 2024-06-23
+- **Created:** 2021-03-21
 - **Author Desk:** Temporal Analysis Desk / Materials Custody / Central Archive
 - **Review Status:** Active temporal-material record; sample quantities and stasis-field geometry
   censored

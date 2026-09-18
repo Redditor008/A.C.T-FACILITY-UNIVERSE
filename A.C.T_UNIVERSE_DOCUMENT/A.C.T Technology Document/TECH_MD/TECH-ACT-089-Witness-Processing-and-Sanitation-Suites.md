@@ -206,7 +206,7 @@ story given back to them.
 
 ## FILE METADATA
 
-- **Created:** 2076-02-15
+- **Created:** 1950-01-28
 - **Author Desk:** Processing Officer / Medical Lead / Central Archive
 - **Review Status:** Active witness processing record; live witness identities, dosage tables, release
   narratives, and assimilation referrals censored

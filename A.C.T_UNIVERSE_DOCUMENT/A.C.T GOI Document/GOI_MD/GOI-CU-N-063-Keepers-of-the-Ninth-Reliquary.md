@@ -531,8 +531,8 @@ creates a room condition, requires live offerings, or remains hazardous outside 
 ## FILE METADATA
 
 ```text
-FILE CREATED:            10/11/2095
-FILE LAST UPDATED:       10/11/2096
+FILE CREATED:            24/04/1907
+FILE LAST UPDATED:       28/08/1911
 FILE AUTHOR:             Intelligence Division / Recovery Division / Central Archive Joint Desk
 REVIEWED BY:             Central Archive and Site-specific Object Custody Review
 FILE STATUS:             ACTIVE / RESTRICTED

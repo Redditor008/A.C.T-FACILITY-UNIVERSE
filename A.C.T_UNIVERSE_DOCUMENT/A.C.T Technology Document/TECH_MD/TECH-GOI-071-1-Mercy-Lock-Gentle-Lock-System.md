@@ -456,8 +456,8 @@ and useful, but not fully understood.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            19/04/2063
-FILE LAST UPDATED:       19/04/2067
+FILE CREATED:            13/11/1939
+FILE LAST UPDATED:       16/08/1950
 FILE AUTHOR:             Medical Division / Containment / Engineering / Legal Joint Desk
 REVIEWED BY:             Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

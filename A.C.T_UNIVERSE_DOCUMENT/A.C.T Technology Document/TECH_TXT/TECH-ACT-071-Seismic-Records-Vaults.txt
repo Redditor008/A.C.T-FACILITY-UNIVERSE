@@ -190,7 +190,7 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-Created: 2006-01-22
+Created: 1953-08-14
 Author Desk: Archive Division / Records and Monitoring Chief / Central Archive
 Review Status: Active records-vault technology; storage maps, baseline sets, and reclassification ledgers censored
 Next Review: After any missing record, baseline dispute, sensor-health mismatch, reclassification event, environmental

@@ -728,8 +728,8 @@ and Civil Covert responsibilities;
 FILE METADATA
 -------------
 
-FILE CREATED:            03/09/2062
-FILE LAST UPDATED:       03/09/2064
+FILE CREATED:            13/06/1959
+FILE LAST UPDATED:       21/05/1976
 FILE AUTHOR:             Intelligence Division, Hostile Networks Desk
 REVIEWED BY:             Central Archive / Security Division / Civil Covert
                           Division / ACT-SITE-03 Document-Warfare Liaison

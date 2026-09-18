@@ -337,7 +337,7 @@ to the wrong thing.
 
 ## FILE METADATA
 
-- **Created:** 2068-05-06
+- **Created:** 2026-01-15
 - **Author Desk:** Personnel Screening Desk / Medical Division / Central Archive
 - **Review Status:** Active screening record; sensor composition and PR-score thresholds censored
 - **Next Review:** After any HPP-triggered activation, assignment override, scan contradiction, or score

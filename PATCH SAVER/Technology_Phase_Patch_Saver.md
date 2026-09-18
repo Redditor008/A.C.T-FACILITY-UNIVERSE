@@ -3843,3 +3843,46 @@ real current date 0, git diff --check rc=0.
 TECH-ACT-036 to TECH-ACT-137.
 
 **Next action.** Resume at TECH-ACT-036 through TECH-ACT-040.
+
+## Prompt Log — 2026-09-18 18:39 UTC
+
+**Correction to the previous date pass.** The dates generated last pass ran into the 2030s, 2050s
+and 2090s. That broke the setting: the Master Anomaly Generator Guide states an Institutional
+Standard of the 1598 to 2026 Archive Cycle, with Part 1 Legacy covering 1598 to 1888 and Part 2
+covering the current operational era. A record dated 2074 is outside the archive the record belongs
+to.
+
+**What the rules in that folder actually require.** Section 14.1 Date Logic: dates must make sense
+internally, detection before verification before file creation, a file not updated before it exists,
+and historical records reflecting their era properly. Section 14.2 Date Spread Rule: dates must not
+cluster in one decade, the range must spread across years and decades, and a batch must not all
+originate in one narrow window. Both are now applied.
+
+**How each date is now chosen.** The record's own text is read for four-digit years and the newest
+is taken as that record's era anchor, so a file is never created before the events it records. The
+created date is then spread forward from that anchor to the end of the archive cycle, the updated
+date is always later than the created date, and records with no year in their text are spread across
+the institutional era from 1900 to 2026. Day, month and offset come from a hash of the file stem, so
+the markdown and text twins of one record always carry the same date, which the previous pass did
+not guarantee.
+
+**Result.** 378 metadata blocks re-dated across 378 files, 89 distinct created years from 1900 to
+2026, spread across every decade of that range, no block outside the archive cycle, no block updated
+before it was created, no date matching the real current date, and no twin mismatch. Records whose
+text names 2020s events necessarily sit in the 2020s; that is Date Logic overriding Date Spread, not
+a clustering fault.
+
+**Two defects found while checking, not by eye.** A per-line replacement counter reset on every
+line, so a created date and an updated date on separate lines both received the created value and
+the two fields silently agreed. A regex substitution that rescans its own output also loops forever,
+because a written date matches the date pattern it replaced. Both are fixed and both are now
+asserted against.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, UTF8_ERR 0, CONFLICT 0,
+multiH1 0, odd-fence 0, md-with-box 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204, GOI_MD 34 =
+GOI_TXT 34, widest box line 118, git diff --check rc=0.
+
+**Remaining ACT technology queue.** 102 TECH-ACT records still carry the old skeleton, running from
+TECH-ACT-036 to TECH-ACT-137.
+
+**Next action.** Resume at TECH-ACT-036 through TECH-ACT-040.

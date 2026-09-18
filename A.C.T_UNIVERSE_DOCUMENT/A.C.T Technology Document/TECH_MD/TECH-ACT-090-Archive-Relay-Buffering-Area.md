@@ -205,7 +205,7 @@ ARBA doctrine holds that a relay remembers only long enough to pass memory onwar
 
 ## FILE METADATA
 
-- **Created:** 2095-11-14
+- **Created:** 1916-12-18
 - **Author Desk:** Limited Archive Lead / Processing Officer / Central Archive
 - **Review Status:** Active archive relay record; live witness files, custody ledgers, restricted flags,
   and transfer schedules censored

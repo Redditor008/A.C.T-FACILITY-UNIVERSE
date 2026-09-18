@@ -201,7 +201,7 @@ that can answer it.
 
 ## FILE METADATA
 
-- **Created:** 2061-03-05
+- **Created:** 1969-01-07
 - **Author Desk:** Watch Officer / Watch Chief / Central Archive
 - **Review Status:** Active coastal watch record; live corridor maps, watch schedules, and escalation
   thresholds censored

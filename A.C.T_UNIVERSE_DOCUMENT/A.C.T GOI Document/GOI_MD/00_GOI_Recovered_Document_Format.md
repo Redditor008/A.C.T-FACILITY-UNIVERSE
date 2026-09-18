@@ -415,8 +415,8 @@ A.C.T will not:
 ### File Metadata
 
 ```text
-FILE CREATED:        09/07/2073
-FILE LAST UPDATED:   09/07/2076
+FILE CREATED:        15/02/2026
+FILE LAST UPDATED:   23/10/2026
 FILE AUTHOR:         Intelligence Division / Archiver Division
 REVIEWED BY:         External Threat Review / Central Archive
 FILE STATUS:         ACTIVE

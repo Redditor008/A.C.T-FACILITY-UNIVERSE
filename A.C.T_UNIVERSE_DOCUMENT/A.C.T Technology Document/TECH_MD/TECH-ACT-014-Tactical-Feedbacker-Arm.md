@@ -359,7 +359,7 @@ you.
 
 ## FILE METADATA
 
-- **Created:** 2022-11-17
+- **Created:** 2021-08-14
 - **Author Desk:** Tactical Engineering / Medical Prosthetics Desk / Field Command / Central Archive
 - **Review Status:** Active restricted record; capacitor tuning and parry timing censored
 - **Next Review:** After any false success signal, operator feedback injury, anomaly-contact parry, or

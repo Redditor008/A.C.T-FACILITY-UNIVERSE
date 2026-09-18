@@ -212,7 +212,7 @@ one measured inch.
 
 ## FILE METADATA
 
-- **Created:** 2041-03-10
+- **Created:** 1985-10-11
 - **Author Desk:** Floor Vault Chief / Restricted-Vault Command / Central Archive
 - **Review Status:** Active perception-control vault technology record; unit maps, Dread EYE apparatus
   parameters, restriction sets, and observer records censored

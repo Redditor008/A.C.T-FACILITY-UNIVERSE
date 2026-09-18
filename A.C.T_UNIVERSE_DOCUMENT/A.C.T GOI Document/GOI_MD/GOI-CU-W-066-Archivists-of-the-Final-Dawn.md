@@ -577,8 +577,8 @@ destruction of all ordinary copies.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            28/11/2038
-FILE LAST UPDATED:       28/11/2050
+FILE CREATED:            09/03/2019
+FILE LAST UPDATED:       09/05/2026
 FILE AUTHOR:             Central Archive / Intelligence Division / Civil Covert Joint Desk
 REVIEWED BY:             Site 03 Review and Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

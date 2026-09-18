@@ -387,7 +387,7 @@ made to anomalies are expensive.
 
 ## FILE METADATA
 
-- **Created:** 2093-04-14
+- **Created:** 2022-04-14
 - **Author Desk:** Recovery Division / Engineering Division / Central Archive
 - **Review Status:** Active restricted record; deployment geometry censored
 - **Next Review:** After any multi-nail failure, living-target request, FCA loading incident, or

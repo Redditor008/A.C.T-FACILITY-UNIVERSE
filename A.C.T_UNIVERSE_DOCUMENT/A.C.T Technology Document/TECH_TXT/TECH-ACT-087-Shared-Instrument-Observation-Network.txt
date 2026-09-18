@@ -195,7 +195,7 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-Created: 2038-07-01
+Created: 1994-06-22
 Author Desk: Station Manager / Watch Officer / Central Archive
 Review Status: Active shared-instrument record; feed routes, calibration exceptions, and sensitive capture logs
 censored

@@ -351,7 +351,7 @@ Standing reminder: if a wall feels quiet, ask what it is carrying.
 
 ## FILE METADATA
 
-- **Created:** 2031-07-23
+- **Created:** 2025-10-03
 - **Author Desk:** Engineering Division / Abyss Floor Structural Desk / Central Archive
 - **Review Status:** Active structural record; residue composition and core design censored
 - **Next Review:** After any core saturation, resonance leak, structural breach, or Abyss Floor seismic

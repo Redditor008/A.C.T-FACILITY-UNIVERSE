@@ -208,7 +208,7 @@ boundary.
 
 ## FILE METADATA
 
-- **Created:** 2078-07-04
+- **Created:** 1981-09-19
 - **Author Desk:** Seismic Analysis Support / Nusantara Deep Relay / Central Archive
 - **Review Status:** Active monitoring record; node maps, bore depths, and abyss-linked correlation keys
   censored

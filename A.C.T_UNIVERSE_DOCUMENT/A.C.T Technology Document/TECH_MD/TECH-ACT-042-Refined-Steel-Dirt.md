@@ -236,7 +236,7 @@ Standing reminder: if the powder touches water, the decision has already been ma
 
 ## FILE METADATA
 
-- **Created:** 2028-09-12
+- **Created:** 2026-03-20
 - **Author Desk:** Materials Custody / Hazardous Materials Desk / Central Archive
 - **Review Status:** Active refined-material record; outgassing suppression and hopper-valve engineering
   details censored

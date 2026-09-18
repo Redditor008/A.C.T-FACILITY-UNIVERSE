@@ -229,7 +229,7 @@ without being touched.
 
 ## FILE METADATA
 
-- **Created:** 2031-10-21
+- **Created:** 2026-05-23
 - **Author Desk:** Research Division / Redwood Veil F-5 / Central Archive
 - **Review Status:** Active Facility instrument record; chamber schematics and pulse-processing method
   censored

@@ -202,7 +202,7 @@ colder than it looks secret.
 
 ## FILE METADATA
 
-- **Created:** 2073-11-20
+- **Created:** 1907-01-10
 - **Author Desk:** Facility Manager / Security Boundary Lead / Central Archive
 - **Review Status:** Active arctic cover logistics record; live transition points, receiving schedules,
   disappearance authorizations, and route maps censored

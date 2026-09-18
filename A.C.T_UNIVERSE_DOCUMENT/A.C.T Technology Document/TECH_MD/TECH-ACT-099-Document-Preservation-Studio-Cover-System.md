@@ -198,7 +198,7 @@ that no one interrupts it.
 
 ## FILE METADATA
 
-- **Created:** 2029-02-14
+- **Created:** 1965-12-25
 - **Author Desk:** Studio Manager / Security Boundary Lead / Central Archive
 - **Review Status:** Active preservation-studio cover record; live client files, transition points, and
   hidden movement schedules censored

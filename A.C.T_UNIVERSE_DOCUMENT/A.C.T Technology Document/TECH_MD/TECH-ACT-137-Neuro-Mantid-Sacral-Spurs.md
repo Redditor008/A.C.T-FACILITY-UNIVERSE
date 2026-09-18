@@ -309,7 +309,7 @@ entry exists for them.
 
 ## FILE METADATA
 
-- **Created:** 2074-08-17
+- **Created:** 2025-07-15
 - **Author Desk:** Field Command / Engineering Division / Medical Division / Central Archive
 - **Review Status:** Active restricted tactical technology record; provenance and connector derivation
   unresolved

@@ -337,7 +337,7 @@ counts as cure when the anomaly changed the patient's definition of health?
 
 
 FILE METADATA
-Created: 2032-03-25
+Created: 2026-02-17
 Author Desk: Medical Division / Transformation Review Board / Central Archive
 Review Status: Active restricted record; viral-vector libraries censored
 Next Review: After any irreversible repair, baseline dispute, scrubber fault, or patient identity distress

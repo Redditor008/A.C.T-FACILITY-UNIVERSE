@@ -366,7 +366,7 @@ protect the cable more than the cargo.
 
 ## FILE METADATA
 
-- **Created:** 2074-01-21
+- **Created:** 2025-10-18
 - **Author Desk:** Engineering Division / Recovery Division / Central Archive
 - **Review Status:** Active restricted record; phase-lock geometry censored
 - **Next Review:** After any line snap, negative-drag reading, threshold recovery, or post-use cable

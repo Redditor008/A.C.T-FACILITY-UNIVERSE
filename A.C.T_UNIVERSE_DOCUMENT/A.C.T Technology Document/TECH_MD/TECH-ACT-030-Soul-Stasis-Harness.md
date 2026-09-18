@@ -344,7 +344,7 @@ Standing reminder: if the anchor contains a person, every maintenance action has
 
 ## FILE METADATA
 
-- **Created:** 2090-06-01
+- **Created:** 2024-10-10
 - **Author Desk:** Medical Division / White Grave Stasis Desk / Engineering Division / Central Archive
 - **Review Status:** Active case-restricted record; anchor-proximity and acoustic bridge details
   censored

@@ -272,7 +272,7 @@ entry sits in the GOI series because there was nowhere else to put it.
 
 ## FILE METADATA
 
-- **Created:** 2090-01-04
+- **Created:** 2005-07-14
 - **Author Desk:** Intelligence Division / Archive Division / Central Archive
 - **Review Status:** Active restricted GOI technology record; manufacturer identity and ledger location
   unresolved

@@ -220,7 +220,7 @@ you check the clock.
 
 ## FILE METADATA
 
-- **Created:** 2011-07-23
+- **Created:** 1989-10-01
 - **Author Desk:** Historical Engineering Archive / Temporal Review Desk / Central Archive
 - **Review Status:** Retired legacy temporal technology record; live winding procedures censored
 - **Next Review:** After any tick event, stored-tension finding, sequence anomaly, restoration request,

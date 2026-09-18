@@ -347,7 +347,7 @@ Standing reminder: repaired tissue is not automatically restored life. Ask the p
 
 ## FILE METADATA
 
-- **Created:** 2065-06-21
+- **Created:** 2026-02-17
 - **Author Desk:** Medical Division / Transformation Review Board / Central Archive
 - **Review Status:** Active restricted record; viral-vector libraries censored
 - **Next Review:** After any irreversible repair, baseline dispute, scrubber fault, or patient identity

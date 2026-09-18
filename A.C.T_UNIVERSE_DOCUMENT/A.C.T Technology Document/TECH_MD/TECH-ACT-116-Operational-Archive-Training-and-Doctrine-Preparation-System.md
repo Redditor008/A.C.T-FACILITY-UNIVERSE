@@ -215,7 +215,7 @@ OATDPS doctrine holds that a trained hesitation is stronger than a brave mistake
 
 ## FILE METADATA
 
-- **Created:** 2044-12-18
+- **Created:** 1976-04-23
 - **Author Desk:** Training Office / Node Administration / Central Archive
 - **Review Status:** Active training technology record; live training materials, failed-drill names,
   instructor notes, and staged simulation contents censored

@@ -339,7 +339,7 @@ artifact?
 
 
 FILE METADATA
-Created: 2048-06-21
+Created: 2023-09-09
 Author Desk: Archive Division / Materials Custody Desk / O5 Liaison / Central Archive
 Review Status: Active restricted record; particle source and formula censored
 Next Review: After any forged-batch recovery, violet smear event, Refracted One state shift, or

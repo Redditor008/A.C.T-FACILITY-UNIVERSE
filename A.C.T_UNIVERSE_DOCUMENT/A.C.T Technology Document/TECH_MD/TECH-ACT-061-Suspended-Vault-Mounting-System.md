@@ -217,7 +217,7 @@ it holds.
 
 ## FILE METADATA
 
-- **Created:** 2001-09-19
+- **Created:** 1966-07-20
 - **Author Desk:** Deep-Hold Command / Engineering Division / Central Archive
 - **Review Status:** Active deep vault architecture record; resident vault schematics and mount
   tolerances censored

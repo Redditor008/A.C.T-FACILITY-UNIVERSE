@@ -327,7 +327,7 @@ trigger medical quarantine before containment alarm?
 
 
 FILE METADATA
-Created: 2089-10-19
+Created: 2022-06-22
 Author Desk: Medical Division / Biological Containment Division / Central Archive
 Review Status: Active restricted record; formula and subject-mix details censored
 Next Review: After any refusal cluster, contaminated line event, supply-chain failure, or predatory behavior
