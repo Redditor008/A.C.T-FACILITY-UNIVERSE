@@ -4188,3 +4188,64 @@ cells 0, git diff --check rc=0.
 TECH-ACT-106 to TECH-ACT-137.
 
 **Next action.** Resume at TECH-ACT-106 through TECH-ACT-110.
+
+## Prompt Log — 2026-09-18 22:56 UTC
+
+**Local repository recovered again, and the batch tooling had to be rebuilt from scratch.** The
+clone had been reset to the pre-session base commit while the remote branch still held the finished
+work at b69a028. All 925 tracked files were compared byte for byte against the fetched tip: 923
+identical, 0 differing, 2 not present on disk. The branch was reset onto the tip and the tree came
+back clean. The scratch directory holding the batch script does not survive between sessions, so the
+markdown to plain-text conversion tooling was rewritten and then proven against the corpus before it
+was allowed to touch a document: for every record in the previous batch, each generated markdown
+block was converted and compared line for line with the matching block in the plain-text twin.
+
+**That comparison earned its place twice.** The first run failed on all ten records and found a real
+defect: markdown horizontal rules between chapters are not carried into the plain-text twin, and the
+rewritten converter had been passing them through. After correcting it, a second failure appeared on
+the new batch: the inserted operating sequence needs a blank line after it in the plain-text twin,
+which the rewrite had dropped. Both were fixed, the affected records were reverted rather than
+patched over, and the comparison then returned zero mismatches across all twenty records. A
+structural check confirmed the ten new records match the reference record in heading shape, chapter
+order, and blank-line pattern in both formats.
+
+**Records 106 to 115.** Each gained a TECHNICAL SPECIFICATION table, an INTERFACE AND OPERATING
+ENVELOPE chapter, a numbered operating sequence, a SERVICING AND CALIBRATION schedule, a FAULT
+ISOLATION table, and three new OPEN QUESTIONS, in both twins.
+
+**This block finishes Verde Null, returns to Nusantara, and opens Kurokawa.** Reserve command keeps
+two boards because a single picture cannot be displayed at a clearance the whole floor holds, and an
+unchecked field team is treated as unknown rather than absent. Personnel processing separates
+reserve staff from campus staff, since a cover role that needs enclosure credentials is a breach
+waiting for one misplaced badge. The surface campus treats research output as the primary control,
+because a campus publishing nothing invites the questions the boundary exists to avoid.
+
+**Nusantara and Kurokawa tailoring.** Maritime intake treats the transport cradle as part of the
+chain of custody rather than as a way of moving it, since pressure is a custody condition. Island
+holding records the recipe and its source, because a regimen invented at the bench stabilises a
+resident in the wrong environment and reads as success. Seismic interpretation keeps reading and
+interpreting as separate acts with separate authorities and records refusals, since an unrecorded
+refusal is indistinguishable from data never examined. Island sustainment accounts for every person
+twice, on assignment and on return. The relay command floor reconciles before it decides and records
+the picture actually used. The surface gateway separates four traffic classes in time rather than in
+space. Archive boundary clearance requires identity continuity across a role change and an expiry on
+every grant.
+
+**Word counts, measured from the records after the run.** 106 1334 to 2113, 107 1306 to 2043, 108
+1314 to 2049, 109 1311 to 2024, 110 1269 to 2003, 111 1341 to 2064, 112 1260 to 1985, 113 1315 to
+2031, 114 1329 to 2053, 115 1313 to 2025. Every record now carries 14 H2 chapters, 8 H3 sections,
+and 6 pipe tables.
+
+**Width guard.** Two fault-table rows exceeded the row budget and were caught by the pre-assembly
+check before any document was touched. They were shortened and re-checked, and the dry run then
+confirmed every rendered block.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, UTF8_ERR 0, CONFLICT 0,
+multiH1 0, odd-fence 0, md-with-box 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204, GOI_MD 34 =
+GOI_TXT 34, widest box line 118, date-rule violations 0, twin date mismatches 0, truncated registry
+cells 0, git diff --check rc=0.
+
+**Remaining ACT technology queue.** 22 TECH-ACT records still carry the old skeleton, running from
+TECH-ACT-116 to TECH-ACT-137.
+
+**Next action.** Resume at TECH-ACT-116 through TECH-ACT-120.

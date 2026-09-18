@@ -85,6 +85,40 @@ levels below.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and campus doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| CAMPUS PARAMETER | VALUE |
+|---|---|
+| Laboratory | public research laboratory suite |
+| Grid | ecological monitoring station grid |
+| Housing | campus housing registry |
+| Office | administrative cover office |
+| Terminal | professional communications terminal |
+| Schedule | fieldwork schedule board |
+| Gate | concealed access routing gate |
+| Interface | boundary watch interface |
+| Liaison | Environmental Containment liaison point |
+| Ledger | surface cover incident ledger |
+| Programme classes | public study, joint study, restricted liaison |
+| Cover method | genuine ecological research output |
+| Researcher count | NOT MEASURED |
+| Monitoring stations | NOT MEASURED |
+| Cover incidents | NOT MEASURED |
+
+This campus is the reserve's largest cover and its largest exposure at the same
+time, because genuine
+ecological research is exactly the activity that draws outside scientists into the same forest
+the enclosure
+occupies. The system therefore treats research output as the primary control: a campus publishing
+real
+results is uninteresting, and a campus publishing nothing invites the questions the boundary exists
+to
+avoid.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A SRCCIS installation includes public-facing research laboratories, ecological monitoring stations, personnel housing,
@@ -111,7 +145,55 @@ boundary hidden inside the same landscape.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Campus Controls
+
+- concealed access routing gate
+- fieldwork schedule board
+- administrative cover office
+- boundary watch interface
+
+### Campus Readouts
+
+- ecological monitoring station grid state
+- campus housing registry occupancy
+- professional communications terminal traffic
+- surface cover incident ledger entries
+
+### Cover And Personnel Limits
+
+- Do not route a public programme through a restricted sector.
+- Do not let the fieldwork board show a gap it cannot explain.
+- Do not discuss enclosure sectors over the campus terminal.
+- Do not host a researcher whose work overlaps a concealed sector.
+- Weakest against external researchers with long field seasons.
+- Weakest against monitoring data published without review.
+
+Researcher count, station count, and incidents are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence schedules public fieldwork before restricted movement. A fieldwork board filled around
+concealment produces a schedule that an outside observer can read as evasion.
+
+1. Open the campus on its published academic calendar.
+2. Post the week's fieldwork on the schedule board first.
+3. Assign monitoring grid duties to campus researchers.
+4. Route restricted movement through the concealed gate afterwards.
+5. Confirm the boundary watch interface before any descent.
+6. Record housing registry changes for visiting researchers.
+7. Handle external contact through the professional terminal.
+8. Log any cover incident and close the day's ledger.
+
+Step 2 comes before step 4 deliberately. Where restricted movement is scheduled first and
+public fieldwork
+fitted around it, the resulting gaps in the fieldwork board are the most readable
+signal the campus
+produces, and they are readable by exactly the people the campus is meant to
+reassure.
 
 Campus operations begin with legitimate research scheduling: field teams, lab work, monitoring checks, housing
 rosters, supply receipts, and professional communications are logged as normal campus activity. SRCCIS then
@@ -127,6 +209,32 @@ movement through ordinary maintenance, weather delay, research closure, or admin
 are logged immediately and routed to Security and F-4 command.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Daily | post fieldwork and check the grid feed |
+| Weekly | reconcile the housing registry with occupancy |
+| Monthly | review monitoring data before publication |
+| Seasonally | review external researcher overlap with sectors |
+| Annually | reconfirm permits, programmes, and campus identity |
+
+Pre-publication review of monitoring data is not censorship but a containment step. A grid
+station sited
+near a concealed sector will produce readings that describe it, and the review exists
+to decide whether the
+reading is ordinary ecology before somebody outside does.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Researcher near a sector | Fieldwork routed without the liaison | Recall the party and re-route the programme |
+| Grid data describes a sector | Station sited without liaison review | Review before publication, re-site |
+| Fieldwork board has gaps | Restricted movement scheduled first | Refill the board with genuine programmes |
+| Terminal traffic questioned | Enclosure matters discussed openly | Re-brief staff and move the traffic |
+| Housing registry short | Arrival not recorded at the office | Correct the registry and re-brief the desk |
 
 ## KNOWN LIMITS
 
@@ -214,7 +322,10 @@ truth with a locked border.
   anomaly
   sector?
 
----
+---- How much external research strengthens the cover before it endangers it?
+- Which monitoring stations should never be sited near a sector?
+- When should a public programme be refused rather than rerouted?
+
 
 ## FILE METADATA
 

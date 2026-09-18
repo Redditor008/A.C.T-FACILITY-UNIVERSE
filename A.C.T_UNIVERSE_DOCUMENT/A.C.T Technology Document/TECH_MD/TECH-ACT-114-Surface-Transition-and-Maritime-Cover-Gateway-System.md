@@ -87,6 +87,38 @@ its surface without making surface use suspicious.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and gateway doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| GATEWAY PARAMETER | VALUE |
+|---|---|
+| Gate | concealed descent gate |
+| Masking | campus route masking board |
+| Buffer | port-to-campus movement buffer |
+| Locker | recovered-material transition locker |
+| Ledger | personnel descent ledger |
+| Separation | public-program separation schedule |
+| Console | boundary monitoring console |
+| Counter | administrative cover counter |
+| Watch | Security surface watch point |
+| Seal link | buried relay seal command link |
+| Traffic classes | public, campus staff, descent, recovered material |
+| Separation rule | public programmes scheduled before descent |
+| Gate throughput | NOT MEASURED |
+| Weekly descents | NOT MEASURED |
+| Transition exposures | NOT MEASURED |
+
+The gateway carries four kinds of traffic through one surface, and the concealment depends
+on their
+separation in time rather than in space. The separation schedule is therefore the governing
+component:
+public programmes and descents share routes that are ordinary when used in sequence and
+conspicuous when
+used together.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A STMCGS installation includes campus access corridors, disguised descent points, port movement buffers, equipment
@@ -111,7 +143,55 @@ The system makes the path downward look like surface work continuing normally.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Gateway Controls
+
+- concealed descent gate
+- campus route masking board
+- public-program separation schedule
+- buried relay seal command link
+
+### Gateway Readouts
+
+- personnel descent ledger entries
+- port-to-campus movement buffer state
+- boundary monitoring console alerts
+- recovered-material transition locker custody
+
+### Transition And Personnel Limits
+
+- Do not descend while a public programme is on the route.
+- Do not move recovered material across campus open ground.
+- Do not close the surface seal without a recorded reason.
+- Do not let descent times repeat on a weekly pattern.
+- Weakest against port schedules that overlap campus hours.
+- Weakest against a route used too often to stay ordinary.
+
+Gate throughput, weekly descents, and exposures are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence schedules public traffic first and fits descent around it. A schedule built
+the other way
+produces gaps in the public programme that are visible from the campus itself.
+
+1. Read the separation schedule before the surface opens.
+2. Post public programmes on the schedule first.
+3. Mask campus routes on the route masking board.
+4. Confirm the boundary monitoring console is clear.
+5. Log each descent in the personnel descent ledger.
+6. Move recovered material through the transition locker.
+7. Keep port traffic inside the movement buffer.
+8. Confirm the seal link state and close the day's ledger.
+
+Step 7 is the step most often eroded by convenience. The movement buffer exists
+so that port activity and
+campus activity never share a moment, and every minute the buffer is shortened to
+speed a transfer is a
+minute in which two unrelated operations are visibly connected.
 
 Before a transition, STMCGS checks campus schedule, public-program activity, port traffic, Security posture, Recovery
 movement, weather, legitimate visitor presence, and F-5 readiness below. Personnel descent is routed through
@@ -128,6 +208,31 @@ behind the
 level until the campus boundary is controlled.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Daily | post programmes and read the separation schedule |
+| Weekly | review descent times for a repeating pattern |
+| Monthly | test the seal command link end to end |
+| Quarterly | review port overlap against campus hours |
+| Annually | reconfirm routes, permits, and cover counter role |
+
+Weekly review of descent timing is the control against pattern formation. Individual descents are
+unremarkable; a sequence of them at the same hour on the same weekday is
+a schedule that somebody outside
+can write down without ever seeing the gate.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Public party on a descent route | Separation schedule not read | Hold the descent and re-route the party |
+| Material moved across campus | Locker step skipped | Stop the movement and re-stage at the locker |
+| Port traffic on campus ground | Movement buffer shortened | Restore the buffer and log the overlap |
+| Seal link untested | Monthly test not performed | Test it before the next closure |
+| Descent times repeating | Schedule set by habit | Vary the times and note the change |
 
 ## KNOWN LIMITS
 
@@ -212,7 +317,10 @@ ordinary shadow.
   too
   dangerous to keep using?
 
----
+---- What separation interval keeps two traffic classes unrelated?
+- Which recovered material should never cross the surface?
+- How should the gateway operate during a port surge?
+
 
 ## FILE METADATA
 

@@ -89,6 +89,38 @@ hardware.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and decision doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| COMMAND PARAMETER | VALUE |
+|---|---|
+| Station | Site Director decision station |
+| Desk | duty command officer desk |
+| Status wall | whole-relay status wall |
+| Reconciliation | division report reconciliation panel |
+| Overlay | personnel readiness overlay |
+| Recovery feed | maritime recovery activity feed |
+| Alert strip | holding and laboratory alert strip |
+| Preparedness | seismic preparedness board |
+| Movement | internal logistics movement slate |
+| Ledger | command decision ledger |
+| Posture classes | normal, heightened, emergency, sealed |
+| Decision rule | ledger entry at the moment of decision |
+| Feed count | NOT MEASURED |
+| Mean decision latency | NOT MEASURED |
+| Handoff errors | NOT MEASURED |
+
+A command floor's failure mode is not indecision but fragmentation: seven divisions each reporting
+correctly
+and none of the reports agreeing. The reconciliation panel exists so that a decision
+is made from one
+reconciled picture, and the decision ledger records the picture that was actually used rather
+than the
+picture available afterwards.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A RCFSD installation includes the Site Director's command station, duty command desk, status walls,
@@ -115,7 +147,55 @@ population.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Command Controls
+
+- Site Director decision station
+- duty command officer desk
+- division report reconciliation panel
+- command decision ledger
+
+### Command Readouts
+
+- whole-relay status wall state
+- personnel readiness overlay
+- holding and laboratory alert strip
+- internal logistics movement slate
+
+### Decision And Personnel Limits
+
+- Do not decide from an unreconciled division report.
+- Do not change posture without a ledger entry.
+- Do not hand over a watch with an open incident unlogged.
+- Do not overlay readiness data on an ungraded display.
+- Weakest against multi-division events in one watch.
+- Weakest against handoffs made during an active incident.
+
+Feed count, decision latency, and handoff errors are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence reconciles before it decides and records at the moment of decision. A
+ledger written afterwards
+records a reconstruction, which is a different document.
+
+1. Take the watch with the previous ledger read aloud.
+2. Reconcile division reports on the reconciliation panel.
+3. Confirm the personnel readiness overlay is current.
+4. Watch the status wall, alert strip, and recovery feed.
+5. Decide at the Site Director station where required.
+6. Record the decision and the picture used in the ledger.
+7. Route tasking to divisions and confirm receipt.
+8. Hand over with every open incident named in the ledger.
+
+Step 8 is the control that has caught the most errors in this record's
+history. Handoffs made during an
+active incident are where open items disappear, and a handover that names every open
+incident in the ledger
+cannot lose one without the loss being visible.
 
 At command turnover, RCFSD reconciles reports from Recovery, Containment, Research, Security, Medical, Seismic
 Analysis Support, Administration, and Internal Logistics. The duty officer verifies active operations, holding risk,
@@ -131,6 +211,31 @@ as valid until the system records
 authority, time, affected area, and reason.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Each watch | reconcile reports and close the ledger |
+| Daily | test every feed against its source division |
+| Weekly | review decision latency against the ledger |
+| Monthly | exercise a posture change across divisions |
+| Quarterly | reconfirm decision authority per posture class |
+
+Quarterly re-confirmation of authority by posture class matters because emergency authority is broad and
+rarely used. Authority inherited from a previous posture is the mechanism by which a
+command floor acts
+beyond what the current posture permits.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Division reports disagree | Reconciliation skipped at watch start | Reconcile before any decision |
+| Status wall stale | Feed fault not detected | Prove the feed, mark the sector unknown |
+| Decision without a ledger entry | Recorded after the fact | Record the gap and the picture used |
+| Handoff loses an incident | Open items not named | Reopen the item and correct the ledger |
+| Readiness overlay outdated | Overlay not refreshed at handover | Refresh it before the next decision |
 
 ## KNOWN LIMITS
 
@@ -215,7 +320,10 @@ loudest alarm.
   of
   capacity?
 
----
+---- What decision latency is acceptable during a multi-division event?
+- Which feeds must never be displayed together?
+- How should a watch hand over during an active incident?
+
 
 ## FILE METADATA
 

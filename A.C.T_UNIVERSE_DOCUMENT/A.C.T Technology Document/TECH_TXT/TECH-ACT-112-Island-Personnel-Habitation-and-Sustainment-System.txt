@@ -84,6 +84,53 @@ arrangement. The system was built from the recognition that sustaining the relay
 not separate from
 commanding the relay. In an island installation, personnel support is command support.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and sustainment doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| SUSTAINMENT PARAMETER      | VALUE                                                                                 |
++============================+=======================================================================================+
+| Housing                    | personnel housing block                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Rest ledger                | duty-cycle rest ledger                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Assignment                 | quarter assignment terminal                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Supply                     | meal and water supply board                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Domestic                   | domestic environmental control panel                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Medical                    | Medical support call point                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Readiness                  | seismic readiness marker                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Decompression              | post-shift decompression room                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Return log                 | access-core return log                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Register                   | personnel accounting register                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Duty classes               | command, holding, field, campus, support                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Rest rule                  | ledger entry required before reassignment                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Housing capacity           | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Median rest interval       | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Fatigue events             | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+On an isolated relay, housing is operational infrastructure rather than welfare. Fatigue produces the
+errors
+this relay can least afford, and the decompression room exists because a shift ending
+at the access core is
+not the same as a shift ended: the person is still counted as on
+duty until the return log closes them out.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 An IPHSS installation includes personnel quarters, bunk and private-room allocation systems, rest-cycle boards, meal
@@ -107,7 +154,56 @@ Known components include:
 The system treats the living floor as a maintained operational field rather than background
 space.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Sustainment Controls
+
+- quarter assignment terminal
+- meal and water supply board
+- domestic environmental control panel
+- post-shift decompression room
+
+Sustainment Readouts
+
+- duty-cycle rest ledger entries
+- personnel accounting register totals
+- access-core return log state
+- seismic readiness marker position
+
+Duty And Personnel Limits
+
+- Do not reassign a person before the rest ledger entry.
+- Do not close a shift without the access-core return log.
+- Do not borrow staff across floors without a ledger entry.
+- Do not treat a quiet housing block as a rested one.
+- Weakest against long rotations with thin relief.
+- Weakest against command borrowing during an incident.
+
+Housing capacity, rest interval, and fatigue events are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+The sequence accounts for every person twice, once on assignment and once on return.
+A register that records
+only arrivals cannot show who is still below.
+
+1. Assign quarters at the quarter assignment terminal.
+2. Record the duty cycle in the rest ledger.
+3. Confirm supply against the meal and water board.
+4. Check the domestic environmental control panel.
+5. Brief the seismic readiness marker at each shift.
+6. Log the person out through the access-core return log.
+7. Hold the post-shift period in the decompression room.
+8. Close the accounting register at the end of the cycle.
+
+Steps 6 and 7 are the pair that keeps the register honest. A person
+who leaves the access core but skips
+decompression is recorded as rested while still carrying the shift, and the rest ledger
+then authorises a
+reassignment that should have waited.
 
 At each duty cycle, IPHSS reconciles floor population, shift rosters, quarter assignments, Medical restrictions,
 seismic preparedness notes, supply status, and post-shift return logs. Personnel moving from operational floors
@@ -122,6 +218,44 @@ routed to the command
 floor, and duty restoration does not begin until the floor confirms that the relay's
 population is physically
 accounted for and operationally fit.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Each cycle                 | record duty, return, and decompression                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Daily                      | reconcile the register with the return log                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Weekly                     | review rest intervals against the ledger                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | test the medical call point and readiness marker                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Seasonally                 | review housing capacity against rotation length                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The seasonal capacity review is the control that prevents quiet degradation. Rotations lengthen for
+operational reasons one at a time, and the point at which housing can no
+longer deliver the rest the ledger
+promises is visible only when capacity and rotation are compared.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Register short of a person | Return log not closed at the core         | Account for the person before any         |
+|                            |                                           | reassignment                              |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Rest interval skipped      | Reassignment made before the entry        | Withdraw the assignment, log the rest     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Supply board short         | Delivery missed or unrecorded             | Restore supply and record the shortfall   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Decompression room unused  | Staff returning straight to quarters      | Re-brief and hold the next shift          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Readiness marker stale     | Marker not briefed at shift start         | Brief it and record the omission          |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -191,6 +325,9 @@ both?
 - Should domestic conflict inside F-5 trigger clearance review for operational floors below?
 - What is the minimum safe population for the relay when maritime, seismic, and
 holding events overlap?
+- What rest interval should follow a descent shift?
+- How much staff may command borrow during an incident?
+- When does housing capacity limit relay operations?
 
 FILE METADATA
 

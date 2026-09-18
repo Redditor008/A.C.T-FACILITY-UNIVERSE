@@ -89,6 +89,54 @@ clearance technology: a combined record, access, screening, and duty-route syste
 as
 containment infrastructure.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and clearance doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| CLEARANCE PARAMETER        | VALUE                                                                                 |
++============================+=======================================================================================+
+| Arrival                    | arrival processing station                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Verification               | reserve identity verification terminal                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Assignment                 | clearance assignment board                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Credential                 | access-core credential writer                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Ledger                     | personnel duty ledger                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Medical                    | exposure and fatigue flag interface                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Suitability                | Environmental Containment suitability note                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cover roles                | public-campus cover-role ledger                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Approval                   | field-sector assignment approval queue                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Review                     | denial and removal review file                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Populations                | reserve staff, campus staff, visitors                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Credential rule            | written against the duty ledger entry                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Staff count                | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Median processing time     | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Clearance misuses          | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The reserve runs two personnel populations that must not blur: staff who work the
+concealed enclosure and
+staff who work the public campus in genuine roles. The cover-role ledger exists because
+a campus employee
+holding enclosure credentials is a cover breach waiting for a single misplaced badge, and
+a campus role that
+cannot be performed by its holder is a different kind of failure.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 A PPRCS installation includes intake desks, identity verification stations, reserve clearance terminals, access-core
@@ -112,7 +160,56 @@ The system keeps personnel records close to command because staffing failures at
 can become containment
 failures.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Processing Controls
+
+- arrival processing station
+- clearance assignment board
+- access-core credential writer
+- field-sector assignment approval queue
+
+Processing Readouts
+
+- reserve identity verification results
+- personnel duty ledger entries
+- exposure and fatigue flag interface state
+- public-campus cover-role ledger entries
+
+Clearance And Personnel Limits
+
+- Do not write a credential without a duty ledger entry.
+- Do not assign a field sector without the suitability note.
+- Do not let a cover role require enclosure credentials.
+- Do not clear a person carrying an open fatigue flag.
+- Weakest against staff who move between the two populations.
+- Weakest against duty rosters changed at short notice.
+
+Staff count, processing time, and misuse count are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+The sequence verifies identity before clearance and clearance before duty. Reversing that order is
+how a
+person ends up credentialed for a role nobody has approved.
+
+1. Receive the arrival at the processing station.
+2. Verify identity at the reserve verification terminal.
+3. Record the duty in the personnel duty ledger.
+4. Read the medical exposure and fatigue flag interface.
+5. Obtain the containment suitability note for field duty.
+6. Assign clearance on the assignment board.
+7. Write the access-core credential against the ledger entry.
+8. File any denial or removal in the review file.
+
+Steps 4 and 5 are read rather than performed, which is the point. Processing
+has no authority to overrule a
+medical flag or a containment suitability note, and the sequence is written so that
+a clearance cannot be
+issued while either is unread.
 
 Before a person joins the reserve's operational population, PPRCS verifies identity continuity, assignment order,
 division sponsorship, prior biological exposure history, field-duty capacity, medical restrictions, cover requirement,
@@ -125,6 +222,45 @@ campus-visible work into concealed sector work, receives a biological exposure f
 fails
 boundary discipline, or enters repeated duty near sapient or semi-sapient residents. Denial override requires
 command-level review because a staffing need does not cancel reserve risk.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Each arrival               | verify identity before any clearance                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Daily                      | reconcile credentials written with ledger entries                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Weekly                     | review open fatigue and exposure flags                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | audit cover roles against the role ledger                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | rehearse a denial and removal review                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The monthly cover-role audit is the check that keeps the two populations separate. Cover
+roles are written
+by administration and read by campus staff, and drift between the two is visible
+only when the ledger is
+compared with the people actually holding the credentials.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Credential without a duty  | Writer used before the ledger entry       | Revoke it and record the sequence error   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Field duty without a note  | Suitability note not obtained             | Withdraw the assignment, obtain the note  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Fatigue flag ignored       | Flag not read before clearance            | Suspend the clearance, notify medical     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Cover role needs enclosure | Role written with reserve clearance       | Rewrite the role or reassign it           |
+| access                     |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Denial not filed           | Review file left unupdated                | File it and review the earlier decision   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -197,6 +333,9 @@ based on stress or exposure?
 credibility?
 - Should PPRCS deny advancement when a person is valuable in the field but
 deteriorating in isolation?
+- Which duties should never be held by a campus employee?
+- How should a fatigue flag be cleared after a long rotation?
+- What identity continuity is required between the two populations?
 
 FILE METADATA
 

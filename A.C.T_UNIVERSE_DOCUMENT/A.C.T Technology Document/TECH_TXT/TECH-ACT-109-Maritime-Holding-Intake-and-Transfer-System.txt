@@ -87,6 +87,54 @@ the procedure set that connects Recovery, Containment, Security, Medical, and Re
 undocumented
 gap between them.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and transfer doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTAKE PARAMETER           | VALUE                                                                                 |
++============================+=======================================================================================+
+| Bay                        | intake assessment bay                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Lock                       | wet-transfer lock                                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cradle                     | pressure-preserving transport cradle                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Locker                     | climate transition locker                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Gate                       | handling corridor gate                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Console                    | chamber assignment console                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Ledger                     | research transfer ledger                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Authorization              | downward restricted-route panel                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Interface                  | vessel and port transfer interface                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Handoff                    | Medical and Security handoff station                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Routes                     | chamber, vessel, downward restricted, port                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Custody rule               | ledger entry opens before the cradle moves                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Bay throughput             | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Median transfer time       | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Custody breaks             | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Maritime intake handles material whose environment is part of its containment. Pressure and temperature
+are
+not conveniences here but custody conditions, so the transport cradle is treated as part
+of the chain rather
+than as a means of moving the chain. A transfer that arrives intact but
+depressurised is a failed transfer
+even when nothing was lost.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 A MHITS installation includes intake and assessment bays, wet-transfer locks, pressure cart interfaces, climate
@@ -110,7 +158,56 @@ Known components include:
 The system is designed around continuity. Every route is treated as a temporary containment
 chamber.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Intake Controls
+
+- intake assessment bay
+- wet-transfer lock
+- pressure-preserving transport cradle
+- handling corridor gate
+
+Intake Readouts
+
+- chamber assignment console state
+- research transfer ledger entries
+- downward restricted-route authorization panel
+- vessel and port transfer interface status
+
+Transfer And Personnel Limits
+
+- Do not open the wet-transfer lock outside a transfer.
+- Do not move a cradle before the ledger entry exists.
+- Do not route downward without the authorization panel.
+- Do not treat a depressurised arrival as an intact one.
+- Weakest against recoveries whose depth origin is uncertain.
+- Weakest against research interest arriving with the material.
+
+Bay throughput, transfer time, and custody breaks are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+The sequence records the arrival's environmental state before anything is opened. The baseline taken
+at the
+lock is the only evidence of what the recovery survived.
+
+1. Receive the recovery at the intake assessment bay.
+2. Record depth, pressure, and temperature at arrival.
+3. Open the research transfer ledger entry before movement.
+4. Assess against the chamber assignment console.
+5. Move through the wet-transfer lock in the cradle.
+6. Stage in the climate transition locker where required.
+7. Obtain the downward authorization before any descent.
+8. Hand off at the Medical and Security station and close the ledger.
+
+Step 2 is the step most likely to be skipped when a recovery is
+urgent and least recoverable once skipped.
+Every later question about whether the material changed in transit is answered from that
+baseline or not at
+all.
 
 Before a recovery arrives, MHITS receives preliminary information from Recovery: origin environment, depth, island
 or
@@ -128,6 +225,47 @@ transfer to
 specialized vessels if holding doctrine requires a maritime platform. Every movement remains under monitoring
 until
 the next authority signs receipt.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Each intake                | record arrival conditions and open custody                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Daily                      | reconcile open ledger entries with locations                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Weekly                     | test the wet-transfer lock and cradle seals                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | audit downward authorizations against the panel                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | exercise a port interface transfer                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Cradle seal testing is the servicing item that matters. The cradle is the only
+component that holds the
+recovery's environment while it is moving, and a seal fault discovered during a transfer
+is discovered at
+the one moment it cannot be corrected.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Cradle loses pressure      | Seal fault or handling shock              | Complete the transfer, log the excursion  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Ledger entry missing       | Movement began before the entry           | Stop the corridor gate, reconstruct       |
+|                            |                                           | custody                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Descent without            | Panel step skipped under urgency          | Recall the movement, obtain authorization |
+| authorization              |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Arrival conditions         | Baseline skipped at the bay               | Note the gap, do not infer the state      |
+| unrecorded                 |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Port interface delayed     | Vessel schedule conflict                  | Hold in the locker, escalate to command   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -201,6 +339,9 @@ unconfirmed?
 holding?
 - When does a failed transfer count as a recovery incident rather than an
 F-3 holding incident?
+- What custody clock should island-recovered material run on?
+- How long may research observe an intake before it becomes study?
+- Which recoveries should go to a vessel rather than a chamber?
 
 FILE METADATA
 

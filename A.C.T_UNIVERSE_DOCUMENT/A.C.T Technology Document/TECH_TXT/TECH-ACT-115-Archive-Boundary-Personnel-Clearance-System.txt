@@ -91,6 +91,54 @@ into the buried archive
 is a recorded change of authority rather than an unnoticed continuation of ordinary archive
 work.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and boundary doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| BOUNDARY PARAMETER         | VALUE                                                                                 |
++============================+=======================================================================================+
+| Desk                       | personnel arrival desk                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Verification               | identity-continuity verification station                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Role ledger                | public-archive role ledger                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Depth                      | operational-depth clearance terminal                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Gate                       | transition authorization gate                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Expiry                     | clearance expiry board                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Training                   | training-readiness flag                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Appeal                     | denial and appeal file                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Notation                   | boundary incident notation channel                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Review                     | Site Director review terminal                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Populations                | public archive staff, operational staff                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Expiry rule                | clearance lapses without renewal entry                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Staff count                | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Median processing time     | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Boundary incidents         | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+This node keeps two populations that share a building and must never share a
+role: staff who work the public
+archive and staff who work at operational depth. Identity continuity is the governing requirement,
+because a
+person who changes role must be visibly the same person across the change, and
+a clearance that expires
+silently is a boundary that has already failed while appearing intact.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 An ABPCS installation includes personnel-processing counters, identity verification stations, clearance terminals,
@@ -113,7 +161,56 @@ Known components include:
 
 The system treats a person's permitted identity as a controlled access material.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Boundary Controls
+
+- personnel arrival desk
+- operational-depth clearance terminal
+- transition authorization gate
+- Site Director review terminal
+
+Boundary Readouts
+
+- identity-continuity verification results
+- public-archive role ledger entries
+- clearance expiry board position
+- training-readiness flag state
+
+Clearance And Personnel Limits
+
+- Do not assign operational depth without the training flag.
+- Do not let a public role carry operational-depth access.
+- Do not renew a clearance without a review entry.
+- Do not close a boundary incident without a notation.
+- Weakest against staff who hold roles in both populations.
+- Weakest against clearances left to expire unwatched.
+
+Staff count, processing time, and incidents are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+The sequence verifies continuity before clearance and training before depth. A clearance issued to
+a person
+whose role history cannot be followed is a clearance nobody can audit later.
+
+1. Receive the arrival at the personnel arrival desk.
+2. Verify identity continuity at the verification station.
+3. Record the role in the public-archive role ledger.
+4. Check the training-readiness flag before any depth request.
+5. Assign operational depth at the clearance terminal.
+6. Set the expiry on the clearance expiry board.
+7. Authorise transition at the authorization gate.
+8. File any denial or appeal and note any boundary incident.
+
+Step 6 is the step that keeps the boundary honest over time. A clearance
+with no expiry is a permanent
+grant, and permanent grants are how a node ends up with operational-depth access held
+by somebody who no
+longer works at depth.
 
 Before personnel cross from the public archive into operational eligibility, ABPCS verifies identity, employment
 cover, division sponsorship, prior exposure, training status, document-handling history, security record, and reason
@@ -128,6 +225,44 @@ project, shows boundary confusion, receives exposure concern, or attempts to mov
 route,
 ABPCS forces review. Denial is preserved as a record, because a refused descent is
 part of the archive's memory.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Each arrival               | verify continuity before any clearance                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Daily                      | read the clearance expiry board                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Weekly                     | reconcile the role ledger with active access                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | review training flags against depth assignments                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | rehearse a denial, appeal, and incident notation                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The weekly reconciliation of the role ledger against active access is the meaningful check.
+Role changes are
+recorded when they happen; access that survives a role change is only visible when
+the ledger and the gate
+are compared rather than read separately.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Access after a role change | Clearance not revoked at transition       | Revoke it and note the boundary incident  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Depth without training     | Training flag not checked                 | Suspend the depth, schedule training      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Clearance expired silently | Expiry board not read                     | Suspend access and record the renewal     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Continuity unverifiable    | Verification station fault or gap         | Hold processing until identity is proven  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Incident not notated       | Notation channel skipped                  | Record it and review the earlier decision |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -199,6 +334,9 @@ becomes a screening factor?
 of the buried archive?
 - Should repeated supervised transitions count as de facto operational assignment?
 - When does preserving cover require refusing the most qualified document specialist available?
+- What identity continuity is required across a role change?
+- How long should an operational-depth clearance last?
+- Which incidents must reach the Site Director review terminal?
 
 FILE METADATA
 

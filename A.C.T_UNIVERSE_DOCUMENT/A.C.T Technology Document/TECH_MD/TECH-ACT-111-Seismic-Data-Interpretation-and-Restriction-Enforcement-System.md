@@ -86,6 +86,40 @@ structures or the deeper architecture beneath the Primary Facility.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and interpretation doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| INTERPRETATION PARAMETER | VALUE |
+|---|---|
+| Console | seismic interpretation console |
+| Workstation | deep-earth correlation workstation |
+| Library | restricted pattern library |
+| Authority | review-chain authority terminal |
+| Display | access-graded display wall |
+| Gate | data refusal gate |
+| Compiler | controlled report compiler |
+| Export | Archive custody export lock |
+| Liaison | Seismic Analysis Support channel |
+| Ledger | abyss-related escalation ledger |
+| Output classes | ordinary reading, restricted pattern, refusal |
+| Authority rule | correlation requires review-chain entry |
+| Console count | NOT MEASURED |
+| Median review time | NOT MEASURED |
+| Refusal records | NOT MEASURED |
+
+Interpretation is where raw deep-earth data becomes a claim, and a claim is more
+hazardous than the data it
+came from. The system separates the two stages physically: the console reads, the correlation
+workstation
+interprets, and the refusal gate records what an analyst was not permitted to correlate.
+A refusal is kept
+as a record rather than as an absence, because an unrecorded refusal is indistinguishable
+from data that was
+never examined.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A SDIRES installation includes interpretation workstations, sealed data rooms, access-graded display walls,
@@ -111,7 +145,56 @@ forms.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Interpretation Controls
+
+- seismic interpretation console
+- deep-earth correlation workstation
+- data refusal gate
+- controlled report compiler
+
+### Interpretation Readouts
+
+- access-graded display wall state
+- restricted pattern library entries
+- review-chain authority terminal status
+- abyss-related escalation ledger position
+
+### Data And Personnel Limits
+
+- Do not correlate abyss-related patterns without review-chain entry.
+- Do not display restricted patterns on an ungraded wall.
+- Do not export through the Archive lock without custody.
+- Do not let a refusal go unrecorded.
+- Weakest against an analyst working past a review boundary.
+- Weakest against correlation that looks like routine geology.
+
+Console count, review time, and refusal count are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence keeps reading and interpreting as separate acts with separate authorities. Combining them
+is
+how an analyst produces a conclusion nobody authorised anybody to reach.
+
+1. Open the console at the analyst's graded clearance.
+2. Read the raw trace without correlation.
+3. Check the restricted pattern library before interpreting.
+4. Obtain review-chain authority for any abyss-related pattern.
+5. Correlate at the workstation, not at the console.
+6. Record any refusal at the data refusal gate.
+7. Compile the report through the controlled compiler.
+8. Export through the Archive custody lock and close the ledger.
+
+Step 6 is the discipline that makes the review chain auditable. A refusal recorded
+at the gate shows what
+the system declined to examine and why; the same refusal left unrecorded simply looks
+like a gap in
+coverage, which is the one thing a later review cannot distinguish from an unexamined
+hazard.
 
 Before interpretation begins, SDIRES verifies dataset origin, monitoring chain, clearance band, review-chain tags,
 known pattern permissions, and the purpose of analysis. Personnel may compare data only against
@@ -130,6 +213,31 @@ is an authority
 boundary and not a missing record.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Each session | record authority, correlation, and refusals |
+| Daily | confirm display wall grading per console |
+| Weekly | review refusals against the pattern library |
+| Monthly | audit exports against the custody lock |
+| Quarterly | re-confirm review-chain membership |
+
+Quarterly re-confirmation of review-chain membership is deliberate friction. Authority in this system is
+granted per person and per correlation class, and membership inherited from a previous assignment
+is the
+most common way a review boundary is crossed without anybody deciding to cross it.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Correlation without authority | Review-chain step skipped | Void the correlation, obtain authority |
+| Restricted pattern displayed | Wall grading not confirmed | Clear the wall and re-grade the display |
+| Refusal not recorded | Gate bypassed at the console | Record it and review the session |
+| Export without custody | Lock step skipped under deadline | Recall the export, open custody |
+| Report exceeds the reading | Conclusion written at the console | Withdraw it and re-issue from the compiler |
 
 ## KNOWN LIMITS
 
@@ -218,7 +326,10 @@ SDIRES doctrine holds that understanding below the earth is itself a controlled 
   to
   recur in later data?
 
----
+---- Which correlations must never be attempted at relay level?
+- How should a refusal be reviewed without repeating it?
+- What makes a report safe to export under custody?
+
 
 ## FILE METADATA
 

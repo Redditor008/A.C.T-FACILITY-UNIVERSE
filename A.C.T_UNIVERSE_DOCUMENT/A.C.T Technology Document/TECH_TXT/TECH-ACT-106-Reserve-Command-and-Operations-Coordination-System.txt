@@ -92,6 +92,55 @@ functions into one operational system. It developed to prevent the reserve from 
 isolated camps, labs,
 sectors, and patrols.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and command doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| COMMAND PARAMETER          | VALUE                                                                                 |
++============================+=======================================================================================+
+| Console                    | Site Director command station                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Routing                    | division operations routing desk                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Sector board               | enclosure sector status board                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Perimeter feed             | concealed perimeter alert feed                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Security                   | security command center console                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Logistics                  | internal logistics movement board                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Field channel              | field-team check-in channel                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Core monitor               | access core transition monitor                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Escalation                 | incident escalation ledger                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Relay                      | cross-site communication relay                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Scope                      | F-1 to F-5 plus the open enclosure                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Authority                  | Site Director for multi-sector incidents                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Sector count               | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Mean incident response     | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Command-channel failures   | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+A reserve command floor has an unusual problem: most of what it commands is
+outdoors, spread across sectors,
+and partly concealed from the public standing in the same forest. The system therefore
+keeps two boards
+rather than one, a sector status board for what is happening in the field
+and a movement board for what is
+being moved, because a single combined picture cannot be displayed at a clearance the
+whole floor holds.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 A RCOCS installation includes command rooms, division operations offices, sector-status interfaces, secure
@@ -115,7 +164,57 @@ Known components include:
 The system is physically buried but operationally wide. Its screens and ledgers represent kilometers
 of wilderness.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Command Controls
+
+- Site Director command station
+- division operations routing desk
+- security command center console
+- cross-site communication relay
+
+Command Readouts
+
+- enclosure sector status board entries
+- concealed perimeter alert feed state
+- field-team check-in channel age
+- incident escalation ledger position
+
+Command And Personnel Limits
+
+- Do not route a concealed sector alert over an open channel.
+- Do not treat an unchecked field team as a safe field team.
+- Do not combine the movement and sector boards on one display.
+- Do not close a multi-sector incident without a ledger entry.
+- Weakest against incidents spanning sectors and floors at once.
+- Weakest against cover traffic that mimics operational traffic.
+
+Sector count, response time, and channel failures are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+The sequence reconciles the field picture before any decision is routed. A reserve command
+floor that
+decides from an unreconciled board is deciding from the last report rather than from
+the current situation.
+
+1. Read the enclosure sector status board at the start of watch.
+2. Confirm every field team has checked in within its interval.
+3. Reconcile the movement board against the sector picture.
+4. Watch the concealed perimeter alert feed continuously.
+5. Route division tasking through the operations routing desk.
+6. Log any incident in the escalation ledger as it opens.
+7. Monitor the access core for transition against clearance.
+8. Close the watch with the ledger signed and handed over.
+
+Step 2 is the control that has caught most near-failures. A team that has
+not checked in is not an absent
+team; it is an unknown one, and in an enclosure with a concealed perimeter
+the difference decides whether
+the response goes to a sector or to a search.
 
 At shift start, command personnel confirm active sectors, campus activity, field-team deployments, laboratory
 restrictions, Medical readiness, Security patrol pattern, Environmental Containment advisories, and external
@@ -130,6 +229,44 @@ touches the legitimate campus,
 surface cover protection is added to the containment response. If the event touches a
 concealed perimeter,
 Environmental Containment and Security receive joint authority until the boundary is stable.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Each watch                 | reconcile both boards and sign the ledger                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Daily                      | test the field-team check-in channel end to end                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Weekly                     | review the perimeter alert feed for missed triggers                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | exercise a multi-sector incident across floors                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | reconfirm cross-site relay keys and routes                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The monthly multi-sector exercise is the meaningful one. Single-sector incidents are handled competently by
+habit; the failures recorded in this record's history all involved two sectors and a
+floor transition
+happening at the same time.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Field team silent          | Check-in channel fault or team delayed    | Treat as unknown, do not assume safety    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Sector board stale         | Report not reconciled at watch start      | Reconcile before routing any tasking      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Perimeter feed quiet       | Feed fault rather than a quiet perimeter  | Prove the feed before trusting the silence|
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Movement board conflicts   | Logistics tasking not reconciled          | Hold the movement until the boards agree  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Concealed alert on open    | Routing selected by habit                 | Recall it and re-route over the closed    |
+| channel                    |                                           | channel                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -207,6 +344,9 @@ mandatory?
 - Should RCOCS keep resident behavior patterns in command view, or does that create
 unnecessary bias against sapient
 residents?
+- What check-in interval is short enough to be useful outdoors?
+- Which sector alerts must never cross the cross-site relay?
+- How should a floor transition be commanded during a field incident?
 
 FILE METADATA
 

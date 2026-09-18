@@ -86,6 +86,40 @@ standard-object doctrine.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and holding doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| HOLDING PARAMETER | VALUE |
+|---|---|
+| Room | climate-regulated holding room |
+| Control bank | humidity and temperature control bank |
+| Atmosphere | atmospheric composition panel |
+| Water interface | salt-air and brackish-water interface |
+| Tray | substrate containment tray |
+| Light | light-cycle regulator |
+| Feed | biological monitoring feed |
+| Drawer | sample pass-through drawer |
+| Access | Medical care access port |
+| Ledger | climate-regimen ledger |
+| Regimen classes | marine, brackish, terrestrial island |
+| Recipe source | Recovery native-environment report |
+| Room count | NOT MEASURED |
+| Recipe accuracy | NOT MEASURED |
+| Climate drift events | NOT MEASURED |
+
+Island-recovered material is a third category that the relay's marine and terrestrial doctrine did
+not
+originally cover: neither fully aquatic nor fully terrestrial, and often dependent on a tidal
+or brackish
+cycle that a standard chamber cannot reproduce. The climate-regimen ledger therefore records the recipe
+and
+its source, because a regimen built from assumption stabilises the resident in the wrong
+environment and
+reads as success.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A CCIHUS installation includes sealed climate rooms, humidity banks, atmosphere regulators, temperature zoning,
@@ -110,7 +144,57 @@ chamber.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Holding Controls
+
+- humidity and temperature control bank
+- atmospheric composition panel
+- salt-air and brackish-water interface
+- light-cycle regulator
+
+### Holding Readouts
+
+- climate-regimen ledger entries
+- biological monitoring feed state
+- substrate containment tray condition
+- Medical care access port status
+
+### Climate And Personnel Limits
+
+- Do not set a regimen without the Recovery report.
+- Do not adjust climate to fit a handling schedule.
+- Do not read a stable resident as a correctly held one.
+- Do not open the access port without a logged reason.
+- Weakest against residents whose dependency is not yet known.
+- Weakest against medical work that disturbs the atmosphere.
+
+Room count, recipe accuracy, and drift events are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence builds the environment before the resident enters it. A room adjusted after
+occupancy produces
+a resident that has already experienced the wrong conditions, and the ledger cannot describe
+what it never
+recorded.
+
+1. Read the Recovery native-environment report before assignment.
+2. Write the recipe into the climate-regimen ledger.
+3. Set humidity, temperature, and atmosphere to the recipe.
+4. Configure the water interface and light cycle.
+5. Confirm the room has held the recipe before occupancy.
+6. Move the resident in and start the monitoring feed.
+7. Take samples only through the pass-through drawer.
+8. Log every deviation and close the ledger at shift end.
+
+Step 5 is the step that turns a recipe into evidence. A room that
+has held its recipe for a period before
+occupancy proves the control bank works; a room adjusted at the moment of occupancy
+proves only that
+somebody set a dial.
 
 Before assignment, staff identify the recovery environment, observed dependency, risk of desiccation, water
 requirement, soil or substrate contact, volcanic or coastal factor, atmospheric need, and behavioral response
@@ -127,6 +211,32 @@ way that changes risk,
 the regimen is frozen and reviewed before further adjustment.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Each shift | read the regimen ledger and monitoring feed |
+| Daily | check the water interface and tray condition |
+| Weekly | compare recorded climate with the recipe |
+| Monthly | review regimens built without a Recovery report |
+| Quarterly | test the medical access port under load |
+
+The monthly review of unreported regimens is the check that catches silent failure. A
+recipe invented at the
+bench keeps a resident alive and looks correct in every reading, and only the
+comparison with the Recovery
+report shows that the environment was never the resident's own.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Resident stable but altered | Recipe built from assumption | Compare with the Recovery report, correct |
+| Humidity drifts | Control bank or seal fault | Correct it and log the excursion |
+| Water interface fouled | Salt-air cycling not maintained | Clean it and inspect the tray |
+| Atmosphere disturbed | Access port opened without a reason | Restore the recipe and log the opening |
+| Ledger lacks a source | Regimen set without a report | Record the gap and request the report |
 
 ## KNOWN LIMITS
 
@@ -204,7 +314,10 @@ land.
   Nusantara?
 - How much Medical intervention can occur before a unit's climate stability is compromised?
 
----
+---- What native-environment detail must Recovery supply first?
+- Which island residents are actually place-bound?
+- How much medical work can a regimen absorb?
+
 
 ## FILE METADATA
 
