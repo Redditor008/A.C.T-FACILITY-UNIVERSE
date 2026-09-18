@@ -81,6 +81,35 @@ continuity.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and custody doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| VAULT PARAMETER | VALUE |
+|---|---|
+| Purpose | preserve continuous and reviewed seismic documentation |
+| Baselines | seismic baseline cabinet |
+| Observations | processed observation rack |
+| Health | sensor-health ledger shelf |
+| Volcanic | volcanic comparison file lane |
+| Maritime | maritime correlation file lane |
+| Audit | archive audit station |
+| Access | controlled comparison terminal |
+| History | event reclassification tag drawer |
+| Environment | environmental stability monitor |
+| Seal | Records Chief access seal |
+| Arrangement | by time, source, sensor field, event class, reclassification history |
+| Rule | reclassification never deletes the original filing state |
+| Retention span | NOT MEASURED |
+| Cabinet capacity | NOT MEASURED |
+
+The vaults provide continuity across years of listening; without them each tremor would arrive
+without a
+past. The practical design keeps ordinary records available without letting staff treat deep observation
+sets as ordinary files.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 An SRV installation includes preservation cabinets, sealed data racks, baseline ledgers, sensor-history drawers,
@@ -108,7 +137,53 @@ to speculate beyond clearance.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Vault Controls
+
+- Records Chief access seal
+- controlled comparison terminal
+- archive handoff ports
+- environmental preservation system
+
+### Custody Readouts
+
+- reclassification tag drawer against the original filing
+- sensor-health ledger entries
+- environmental stability monitor
+- audit seal state at the audit station
+
+### Custody And Personnel Limits
+
+- Do not overwrite an early classification during later escalation.
+- Do not release a deep observation set as an ordinary comparison.
+- Do not let baseline trust silence a new behaviour.
+- Do not file a record without its processing session and analyst identity.
+- Weakest where the first classification was wrong.
+- Weakest where a mundane tremor only matters after a later pattern appears.
+
+Retention span and cabinet capacity are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Records custody, Level 3 archive with Level 4 for deep sets.
+
+1. Receive the packaged record from processing.
+2. Verify event classification and timestamp.
+3. Verify sensor source and processing session.
+4. Verify analyst identity.
+5. Check for any pending sensitivity marker.
+6. Accept the record into the comparison base.
+7. Release historical comparisons on request through the terminal.
+8. Tag reclassification without deleting the original state.
+
+Step-down: the record joins the comparison base and the audit seal closes. Emergency: a
+record matching a
+restricted pattern later is re-tagged rather than rewritten, so reviewers can still see how
+the event first
+entered the archive.
 
 After DMPC processing, ordinary and controlled seismic records are packaged for SRV custody. Archive
 personnel verify
@@ -126,6 +201,34 @@ Vault audits confirm that no record has been silently reclassified, overwritten,
 its source trail.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Ordinary archive maintenance | Level 3 procedure | Level 3 |
+| Deep observation sets | Level 4 procedure | Level 4 |
+| Sensitivity reclassification | Level 4 procedure | Level 4 |
+| Environmental drift | preservation system service | Engineering Division |
+| Audit seal broken | audit station review | Archive Division |
+| Historical comparison release | controlled terminal only | Records and Monitoring Chief |
+
+No calendar interval is recorded; the vault is audited per access and per environmental
+reading, so interval
+NOT MEASURED. Storage media is the wear item. The reclassification review is why early
+classifications are
+never overwritten.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Ordinary tremor later matching a pattern | first classification incomplete | re-tag, do not rewrite |
+| Original filing state missing | overwrite during escalation | forbidden; restore |
+| Environmental drift in a cabinet | preservation fault | service before access |
+| Deep set released as ordinary | classification breach | recall to Level 4 |
+| Sensor-health ledger gap | node history incomplete | reconcile with the array |
+| Audit seal unbroken but file moved | access breach | investigate at the station |
 
 ## KNOWN LIMITS
 
@@ -197,6 +300,10 @@ years to repeat itself.
 - When does a sequence of ordinary tremors become a restricted record family?
 - Can record absence itself become a signal in the seismic archive?
 - How much historical data should Research see before Archive presence is mandatory?
+
+- What retention span does the vault hold, and what is deliberately discarded?
+- How many years of continuous listening are currently on the comparison base?
+- Which reclassified events remain under review, and where are they tagged?
 
 ---
 

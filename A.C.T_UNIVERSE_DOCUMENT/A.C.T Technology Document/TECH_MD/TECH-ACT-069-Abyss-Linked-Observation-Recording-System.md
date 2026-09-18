@@ -90,6 +90,35 @@ responsible for knowing it.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and custody doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| SYSTEM PARAMETER | VALUE |
+|---|---|
+| Role | part archive, part containment, part chain of custody |
+| Capture | raw signal capture buffer |
+| Mirror | processed reading mirror |
+| Notes | analyst annotation lock |
+| Tagging | abyss-correlation tag module |
+| Routing | restricted route gate |
+| Access | access ledger interface |
+| Storage | QNB-aware preservation capsule |
+| Closure | closure-mode local store |
+| Release | review-chain release seal |
+| Disagreement | contradiction retention field |
+| Survives | temporary severance from upper command during F-1 closure |
+| Package contents | raw and processed readings, sensor health, notes, stamps, identity, flags |
+| Retention period | NOT MEASURED |
+| Capsule capacity | NOT MEASURED |
+
+The system does not decide what the abyss is. It prevents abyss-linked records from
+being treated as
+ordinary seismic files, ordinary curiosities, or harmless environmental data, and it reconciles records
+after communication returns.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 An ALORS installation includes sealed local buffers, raw signal preservation drives, processed-reading mirrors,
@@ -116,7 +145,52 @@ In abyss-linked review, disagreement may be evidence rather than error.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Custody Controls
+
+- restricted route gate
+- review-chain release seal
+- closure-mode local store
+- QNB-aware preservation capsule
+
+### Record Readouts
+
+- seal state of each package
+- access ledger entries
+- abyss-correlation tag state
+- contradiction retention field content
+
+### Custody And Personnel Limits
+
+- Do not release the ordinary research copy before review decides.
+- Do not annotate a sealed package without the annotation lock opening.
+- Do not treat a correlation tag as proof of causation.
+- Do not assume the seal controls what a reader remembers.
+- Weakest during severance from upper command.
+- Weakest where review is slow and containment needs the record now.
+
+Retention period and capsule capacity are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Restricted record custody, Level 4 minimum with review-chain authority.
+
+1. Receive the abyss-linked candidate mark from SNSPA or Seismic Analysis.
+2. Freeze the relevant data window.
+3. Build the sealed record package.
+4. Include raw readings, processed readings, and sensor health.
+5. Include analyst notes, time stamps, and access identity.
+6. Attach correlation flags.
+7. Hold the ordinary research copy until review decides.
+8. Enter closure mode when F-1 isolates.
+
+Step-down: the package stays sealed and the access ledger records every attempt. Emergency: in
+closure mode
+the system blocks nonessential release and keeps a complete local package, because ordinary synchronisation
+once tried to push sealed data upward during isolation.
 
 When SNSPA or Seismic Analysis marks an event as abyss-linked candidate, ALORS freezes the
 relevant data window and
@@ -136,6 +210,34 @@ Deletion is not permitted as a first response. If a record is unsafe to
 view, it is sealed, not erased.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Record capture | Level 4 procedure | Level 4 |
+| Correlation, release, inter-site comparison | higher authorization | Level 5 |
+| Closure mode entry | automatic on F-1 isolation | Containment Division |
+| Reconciliation after closure | package comparison | Central Archive |
+| Annotation lock change | review-chain approval | Restricted Review Chain |
+| Capsule fault | transfer under escort | Central Archive |
+
+No calendar interval is recorded; custody is verified per package and per closure, so
+interval NOT MEASURED.
+Preservation capsules are the wear item. The closure custody drill is why nonessential release
+is blocked
+rather than merely logged.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Sealed data pushed upward | synchronisation during isolation | block; custody drill |
+| Correlation disputed | coincidence versus causation | retain the disagreement |
+| Ordinary copy released early | gate bypass | recall and review |
+| Access attempt unlogged | ledger interface fault | seal the package |
+| Capsule integrity lost | preservation fault | transfer under escort |
+| Reader recalling sealed content | seal controls records, not minds | review the access |
 
 ## KNOWN LIMITS
 
@@ -214,6 +316,10 @@ containment.
 - Should ALORS route Sonar Void records separately from seismic absence records?
 - Can QNB preservation conflict with a restricted order to limit circulation?
 - When does a signal record become a resident record?
+
+- How long is a sealed package retained, and who may shorten that?
+- What capacity does a preservation capsule hold?
+- Which correlation disputes remain open, and where are they recorded?
 
 ---
 

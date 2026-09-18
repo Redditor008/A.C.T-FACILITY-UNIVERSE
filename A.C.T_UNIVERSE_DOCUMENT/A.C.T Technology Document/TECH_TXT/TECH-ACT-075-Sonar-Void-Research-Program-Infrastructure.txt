@@ -92,6 +92,51 @@ the equipment
 and record discipline to ask those questions without sending unfiltered void data into ordinary
 research circulation.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and research doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| PROGRAM PARAMETER          | VALUE                                                                                 |
++============================+=======================================================================================+
+| Nature                     | research architecture, not merely sonar equipment                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Replay                     | acoustic replay chamber                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Comparison                 | sonar-return comparison engine                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Archive                    | void-event archive rack                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Reconstruction             | submersible-loss reconstruction table                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Display                    | indirect display console                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Safety                     | safe-listening filter                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Intake                     | field-platform intake port                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Case link                  | Death Angler comparison cabinet                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Flagging                   | abyss-linked absence flag                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Routing                    | research routing lock                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Also held                  | data quarantine slots, cross-correlation links to Seismic Analysis                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Replay fidelity            | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Void-event count held      | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Filter attenuation         | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Live void data is handled with caution because some absence events are associated with
+predatory behaviour,
+compulsion-adjacent investigation, or equipment failure that can lead crews into unsafe pursuit. The program
+studies absence without proving safety.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 SVRPI includes acoustic replay chambers, sonar-return comparison engines, void-event archive racks, submersible-loss
@@ -117,7 +162,54 @@ Known components include:
 The system preserves failed returns as positive records. A blank return is filed as
 an event, not discarded as noise.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Program Controls
+
+- safe-listening filter
+- research routing lock
+- data quarantine slots
+- field-platform intake port
+
+Analysis Readouts
+
+- sonar-return comparison engine output
+- indirect display console
+- void-event archive entry
+- abyss-linked absence flag state
+
+Research And Personnel Limits
+
+- Do not replay live void audio without the safe-listening filter.
+- Do not treat laboratory replay as the crew's experience.
+- Do not pursue a void as though it were a contact.
+- Do not release a void package before the ordinary causes are excluded.
+- Weakest against a void produced by the act of observation.
+- Weakest against a sensor trap.
+
+Replay fidelity, event count, and attenuation are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+Void-event research, Level 4 for live data and Angler comparison.
+
+1. Receive raw sonar output and instrument state.
+2. Record location, depth, and water conditions.
+3. Record crew notes and pursuit decisions.
+4. Record any visual or acoustic hazard report.
+5. Create the void-event package before reconstruction.
+6. Exclude equipment failure, thermocline, terrain, and obstruction.
+7. Compare against known anomaly cases.
+8. Route under the research lock.
+
+Step-down: the package files to the void-event archive and the routing lock returns to
+held. Emergency: an
+event resembling the Death Angler pattern goes to the comparison cabinet and to containment
+warning
+together, because absence can precede lethal encounter.
 
 Field platforms submit raw sonar output, instrument state, location, depth, water conditions, crew notes,
 pursuit
@@ -134,6 +226,51 @@ remains archived because ordinary failure patterns protect future crews from fal
 
 No team is authorized to pursue a void at sea because the laboratory has
 produced a beautiful explanation.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Live void data handling    | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Death Angler comparison    | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Abyss-linked absence       | Level 4 with restricted escalation        | Level 5                                   |
+| correlation                |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Replay chamber use         | filter check before playback              | Research Division                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Intake port fault          | package hold until restored               | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| False absence confirmed    | package downgraded, not deleted           | Research Division                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; the program is verified per void package, so interval
+NOT MEASURED. There
+is no consumable. The false absence review is why a downgraded package is retained
+rather than deleted,
+since the exclusion is itself evidence.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Void preceding a lethal    | predatory concealment                     | warn containment; Angler case             |
+| encounter                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Package proved ordinary    | equipment or thermocline                  | downgrade, keep it; false absence         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Crew pursuing a gap        | absence read as contact                   | route warning to platforms                |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Replay distressing staff   | filter bypassed                           | stop playback and review                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Intake data incomplete     | platform log gap                          | hold the package                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Absence appearing only when| observation-linked gap                    | flag and correlate                        |
+| watched                    |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -202,6 +339,10 @@ OPEN QUESTIONS
 - Do acoustic voids and deep-earth signal gaps share a common mechanism?
 - Can replaying a void event create cognitive pursuit pressure in analysts?
 - When should a void-event record become an anomaly file?
+- How many void events are held, and how many were downgraded as ordinary?
+- What attenuation does the safe-listening filter apply, and what passes through it?
+- What links, if any, have been confirmed between oceanic absence and seismic gaps?
+
 
 FILE METADATA
 

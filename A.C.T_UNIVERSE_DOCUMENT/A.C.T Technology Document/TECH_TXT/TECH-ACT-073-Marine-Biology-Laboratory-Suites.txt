@@ -91,6 +91,51 @@ findings to Containment as revised environmental regimens. This relationship kee
 curiosity
 subordinate to custody.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and study doctrine. Values the
+archive does not
+hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| SUITE PARAMETER            | VALUE                                                                                 |
++============================+=======================================================================================+
+| Bench                      | sealed aquatic workbench                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Chemistry                  | resident-specific water chemistry loop                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Transfer                   | specimen transfer lock                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Samples                    | pressure-compatible sample sleeve                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Containment                | biological containment hood                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Acoustic                   | acoustic exposure monitor                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Waste                      | sealed drainage and waste capture                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Observation                | non-optical observation feed control                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Medical                    | medical exposure response cabinet                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Records                    | sample return ledger                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Also fitted                | refrigerated biological lockers, environmental separation doors                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Configuration              | per study program rather than general access                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Loop volume                | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Chemistry band held        | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Sample throughput          | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+No specimen is considered harmless because it is small, dead, shed, diluted, or separated
+from its resident.
+The suites are controlled maritime environments, not ordinary wet laboratories, and containment logic stays
+inside the research act.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 An MBLS suite may include sealed aquatic benches, water chemistry cabinets, specimen ports, pressure-compatible
@@ -116,7 +161,54 @@ Known components include:
 No specimen is considered harmless because it is small, dead, shed, diluted, or separated
 from the main resident.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Suite Controls
+
+- specimen transfer lock
+- water chemistry loop control
+- sealed drainage and waste capture
+- observation feed control
+
+Study Readouts
+
+- acoustic exposure monitor
+- sample response observation
+- division contact log
+- sample return ledger entry
+
+Study And Personnel Limits
+
+- Do not treat a small, dead, or shed sample as harmless.
+- Do not revise a holding regimen before the sample ledger closes.
+- Do not change water, sound, light, or pressure without recording it.
+- Do not remove waste before disposal approval.
+- Weakest where suite conditions create behaviour the sea would not.
+- Weakest where a tissue response is read as whole-resident behaviour.
+
+Loop volume, chemistry band, and throughput are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+Marine biological study, Research with Containment approval.
+
+1. Receive sample history and source environment.
+2. Confirm resident file restrictions.
+3. Confirm the chain-of-custody package.
+4. Record any exposure warning.
+5. Define the study question and handling limits.
+6. Review biological risk with Medical.
+7. Maintain water chemistry and log all division contacts.
+8. Keep waste separated until disposal approval.
+
+Step-down: the sample returns along its documented path to F-3 or port containment and
+the ledger closes.
+Emergency: a biological exposure moves staff to the medical response cabinet and the suite
+is sealed,
+because exposure rules are resident-specific rather than generic.
 
 Before study, F-3 or Recovery provides the sample history, source environment, resident file restrictions,
 chain-of-custody package, and any exposure warning. Research defines the study question. Containment approves handling
@@ -132,6 +224,51 @@ returned to containment posture.
 After study, findings are routed back to holding doctrine only after the sample ledger
 and exposure review are
 complete.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Before each study          | loop, hood, and drain check               | Research Division                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Chemistry drift            | loop adjustment                           | Floor Research Chief                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Waste capture full         | neutralisation and disposal               | Containment Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Acoustic exposure alarm    | stop and review the study                 | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Sample return              | ledger closure before regimen change      | Containment Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Exposure incident          | medical response and suite seal           | Medical Division                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; the suite is configured per study program, so interval
+NOT MEASURED.
+Chemistry stock and filter media are the consumables. The F-3 return review is why
+the ledger closes before
+any holding regimen is revised.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Recommendation reaching F-3| ledger not closed                         | close first; return review                |
+| early                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Behaviour appearing only in| changed water, sound, or light            | record and doubt it                       |
+| the suite                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Acoustic exposure rising   | study stimulus too strong                 | stop; Sonar Void notice                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Sample response not        | tissue is not the whole                   | widen the study                           |
+| matching the resident      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Waste held past approval   | disposal delay                            | seal and escalate                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Chemistry loop drifting    | resident-specific band missed             | adjust before stress                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -193,6 +330,10 @@ OPEN QUESTIONS
 - Should lure-linked organisms always be studied through indirect observation?
 - Can marine biology results safely alter feeding schedules for high-threat residents?
 - When does a sample become a resident in its own right?
+- What volume and chemistry band does a resident-specific loop hold?
+- How many samples may one suite process before cross-contamination risk rises?
+- What did the Sonar Void biological notice change about acoustic exposure limits?
+
 
 FILE METADATA
 

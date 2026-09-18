@@ -86,6 +86,36 @@ should stop being ordinary seismic data and become a partially sealed file.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and routing doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| CENTER PARAMETER | VALUE |
+|---|---|
+| Floor | F-2 operational system, downstream of the F-1 nexus |
+| Intake | F-1 observation intake terminal |
+| Verification | sensor-health verification board |
+| Comparison | seismic baseline comparison station |
+| Correlation | volcanic and maritime correlation panel |
+| Decision | event classification console |
+| Gating | restricted routing pre-gate |
+| Warning | containment notification line |
+| Records | archive package interface |
+| Sessions | sealed-session recorder |
+| Authority | Records Chief override station |
+| Rule | no processed event is complete without classification and confidence |
+| Watch staffing | NOT MEASURED |
+| Routing decision time | NOT MEASURED |
+| Baseline coverage | NOT MEASURED |
+
+F-1 is where the deep is heard; the processing center is where the hearing
+becomes institutional action. It
+sits between raw listening and records custody, so its failures can either bury a
+warning or manufacture
+one.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A DMPC installation includes analyst desks, event classification boards, signal ingest terminals, sensor-health
@@ -111,7 +141,52 @@ No processed event is considered complete until its routing decision is logged.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Center Controls
+
+- restricted routing pre-gate
+- containment notification line
+- sealed-session recorder
+- Records Chief override station
+
+### Processing Readouts
+
+- sensor-health verification board
+- baseline comparison station output
+- volcanic and maritime correlation panel
+- event classification with confidence level
+
+### Processing And Personnel Limits
+
+- Do not distribute an event without a classification and confidence level.
+- Do not drop a provisional classification when an event escalates.
+- Do not let urgent command pressure produce premature certainty.
+- Do not route a sensitive observation into an ordinary file stream.
+- Weakest where incoming data quality is poor.
+- Weakest where analysts are fatigued or rushed.
+
+Staffing, decision time, and baseline coverage are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Live processing watch, Level 4 with the Records and Monitoring Chief.
+
+1. Receive readings from F-1.
+2. Confirm the incoming event has a stable source trail.
+3. Compare against geology, facility vibration, and marine activity.
+4. Compare against resident movement, weather, and equipment state.
+5. Mark the classification and confidence level.
+6. Send action-level warnings to Containment and Site Command.
+7. Route approved outputs to research, archive, or restricted review.
+8. Keep provisional classifications attached to the record.
+
+Step-down: the session recorder closes and the archive package interface hands the event to
+records custody.
+Emergency: an event that later develops restricted markers is escalated with its original classification
+still attached, so the first reading is never lost.
 
 During live watch, DMPC receives readings from F-1 and confirms that the incoming event
 has a stable source trail.
@@ -129,6 +204,33 @@ restricted custody and blocks ordinary circulation until the review chain acts.
 Routine processing may be fast. Restricted processing is not allowed to be careless.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Live processing and routing | Level 4 procedure | Level 4 |
+| Sealed observation handling | Level 4 procedure | Level 4 |
+| Sensor-health board fault | verification hold before routing | Engineering Division |
+| Baseline station drift | recalibration | Seismic Analysis Support |
+| Routing error | recall and reclassify | Records and Monitoring Chief |
+| Override use | logged against the station | Records Chief |
+
+No calendar interval is recorded; the center is verified per watch, so interval NOT
+MEASURED. There is no
+consumable. The restriction escalation notice is why provisional classifications stay attached through
+escalation.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Ordinary geology classed anomalous | baseline over-read | reclassify with evidence |
+| Anomaly downgraded as weather | confidence misapplied | escalation review |
+| Sensitive event in an ordinary stream | routing error | recall; pre-gate review |
+| Provisional class lost on escalation | record overwrite | reattach; escalation notice |
+| Source trail unstable | intake fault | hold distribution |
+| Override used without a log | authority breach | review at the station |
 
 ## KNOWN LIMITS
 
@@ -201,6 +303,10 @@ its origin.
 - Can DMPC routing decisions themselves become part of an abyss-linked pattern?
 - Should F-3 maritime incidents always be visible to F-2 processing?
 - When does a monitoring backlog become a containment incident?
+
+- How is a watch staffed, and what handover does it require?
+- What routing decision time is acceptable for an action-level warning?
+- Which baselines does the comparison station hold, and who updates them?
 
 ---
 

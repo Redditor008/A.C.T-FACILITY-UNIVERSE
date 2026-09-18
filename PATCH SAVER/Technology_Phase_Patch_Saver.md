@@ -3997,3 +3997,47 @@ rc=0.
 TECH-ACT-066 to TECH-ACT-137.
 
 **Next action.** Resume at TECH-ACT-066 through TECH-ACT-070.
+
+## Prompt Log — 2026-09-18 21:10 UTC
+
+**Local repository recovered again.** The clone had been reset to the pre-session base commit while
+the remote branch still held the finished work. The fifty-three files the local index did not know
+were compared byte for byte against the fetched tip, all matched, and the branch was reset onto it.
+Record 056 was re-checked afterwards to confirm the earlier batches survived.
+
+**Records 066 to 075.** Each gained a TECHNICAL SPECIFICATION table, an INTERFACE AND OPERATING
+ENVELOPE chapter, a numbered operating sequence with step-down and emergency lines, a SERVICING AND
+CALIBRATION schedule, a FAULT ISOLATION table, and three new OPEN QUESTIONS, in both twins.
+
+**This block is the Nusantara Deep Relay listening chain, and it is written as a chain.** Maritime
+Platform Containment Infrastructure is certified per mission and is field containment rather than
+final containment. Deep-Earth Sensor Arrays are distributed so one bad node cannot invent the deep.
+The Sensor Nexus preserves contradictory readings because contradiction may be the signal. ALORS
+blocks nonessential release during closure and reconciles afterwards. The Deep Monitoring Processing
+Center keeps provisional classifications attached so a later escalation never loses the first
+reading. Seismic Records Vaults re-tag rather than rewrite. Restricted Records Vaults require every
+partial opening to change or reaffirm its seal.
+
+**Per-record tailoring.** Marine Biology Suites close the sample ledger before any holding regimen
+is revised. Deep-Earth Sample Analysis confirms equipment isolation before a restricted escalation.
+Sonar Void Research downgrades a false absence without deleting it, because the exclusion is itself
+evidence.
+
+**Word counts, measured from the records after the run.** 066 1490 to 2213, 067 1243 to 1963, 068
+1276 to 1945, 069 1315 to 1992, 070 1236 to 1922, 071 1195 to 1889, 072 1282 to 1957, 073 1213 to
+1908, 074 1215 to 1901, 075 1310 to 2002. Every record now carries 14 H2 chapters and 7 pipe tables.
+
+**The interface guard caught two more stubs.** Records 067 and 069 each had a bare list left where a
+titled limits group belonged. The dry run failed both before any document was written, and the
+groups were written out properly. This is the third consecutive batch where that assertion has
+earned its place.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, UTF8_ERR 0, CONFLICT 0,
+multiH1 0, odd-fence 0, md-with-box 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204, GOI_MD 34 =
+GOI_TXT 34, widest box line 118, date-rule violations 0, twin date mismatches 0, git diff --check
+rc=0.
+
+**Remaining ACT technology queue.** 62 TECH-ACT records still carry the old skeleton, running from
+TECH-ACT-076 to TECH-ACT-137.
+
+**Next action.** Resume at TECH-ACT-076 through TECH-ACT-080.

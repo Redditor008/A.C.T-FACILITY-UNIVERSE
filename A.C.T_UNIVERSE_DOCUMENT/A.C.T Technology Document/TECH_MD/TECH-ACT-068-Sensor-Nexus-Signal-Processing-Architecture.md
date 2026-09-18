@@ -88,6 +88,35 @@ deeper A.C.T review standards is not allowed to circulate as ordinary seismic da
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and analysis doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| ARCHITECTURE PARAMETER | VALUE |
+|---|---|
+| Location | F-1 sensor galleries and termination rooms |
+| Intake | multi-array intake rack |
+| Amplification | signal amplifier bank on vibration isolation frames |
+| Comparison | geological baseline comparison engine |
+| Maritime | maritime event correlation panel |
+| Chamber | vault chamber monitor bridge |
+| Flagging | anomaly-candidate flagging layer |
+| Review | analyst review console |
+| Gating | restricted output gate |
+| Records | local preservation buffer |
+| Closure | F-1 closure continuity link |
+| Principle | contradiction is preserved because contradiction may be the signal |
+| Baseline set size | NOT MEASURED |
+| Latency to output | NOT MEASURED |
+| Buffer depth | NOT MEASURED |
+
+The architecture performs four linked jobs: accept data from sensors below and around the
+floor, amplify and
+clean readings without deleting anomaly behaviour, compare against baselines, and route confirmed output. It
+does not erase contradictory readings.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 SNSPA is housed in F-1 sensor galleries and termination rooms. It includes signal intake
@@ -114,7 +143,54 @@ signal.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Nexus Controls
+
+- restricted output gate
+- analyst review console
+- signal window freeze
+- F-1 closure continuity link
+
+### Analysis Readouts
+
+- baseline comparison result per channel
+- maritime correlation panel
+- anomaly-candidate flag layer
+- array health monitors
+- preserved raw and processed readings
+
+### Analysis And Personnel Limits
+
+- Do not delete a contradictory reading to tidy a window.
+- Do not release abyss-correlation output before review.
+- Do not read correlation as certainty.
+- Do not over-weight a known baseline against new behaviour.
+- Weakest against sensor drift and synchronised machinery.
+- Weakest against intentional anomaly mimicry.
+
+Baseline size, latency, and buffer depth are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Signal processing, Level 4 with the Vault Listening Chief.
+
+1. Receive live readings from the arrays and feeds.
+2. Present them under baseline comparison.
+3. Classify: geology, maritime, structure, resident, fault, candidate.
+4. Freeze the signal window on escalation.
+5. Preserve raw and processed readings together.
+6. Attach analyst actions to the window.
+7. Hold abyss-correlation output at the gate.
+8. Keep the closure continuity link armed.
+
+Step-down: the window closes into the preservation buffer and the gate returns to held.
+Emergency: during an
+F-1 closure the continuity link keeps the nexus recording locally, which is what the
+closure continuity
+drill proved was necessary.
 
 During normal operation, SNSPA receives live readings and presents them to Seismic Analysis personnel
 under baseline
@@ -134,6 +210,33 @@ history inside the floor until
 communication with upper command or restricted review is restored.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Live processing | Level 4 procedure | Level 4 |
+| Abyss-linked correlation output | restricted review escalation | Level 5 |
+| Array health fault | channel isolation | Engineering Division |
+| Amplifier bank drift | recalibration before further use | Engineering Division |
+| Routing breach | gate review and retraining | Restricted Review Chain |
+| Closure drill | continuity link test | Containment Division |
+
+No calendar interval is recorded; the nexus is verified per watch handover, so interval
+NOT MEASURED. There
+is no consumable. The restricted routing revision is why abyss-correlation output is gate-held until
+reviewed rather than circulated on request.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Record circulated before review | routing breach | gate-hold; routing revision |
+| Continuity lost in a drill | closure link fault | test the link; drill case |
+| Correlated events over-trusted | judgment removed from listening | re-review |
+| New behaviour under-weighted | baseline dominance | analyst override |
+| Amplifier clipping a signal | gain too high | reduce and re-read |
+| Contradiction deleted | doctrine breach | restore from the buffer |
 
 ## KNOWN LIMITS
 
@@ -209,6 +312,10 @@ but it must know how the signal reached the file.
   days?
   Which analyst notes should be treated as part of the signal rather than
   interpretation?
+
+- What baseline set does the comparison engine hold, and who maintains it?
+- What latency exists between intake and gated output?
+- How deep is the local preservation buffer during a closure?
 
 ---
 

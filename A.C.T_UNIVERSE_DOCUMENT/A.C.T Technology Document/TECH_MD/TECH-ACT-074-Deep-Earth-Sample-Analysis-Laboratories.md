@@ -82,6 +82,36 @@ become uncontrolled engineering or alarm response.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and analysis doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| LABORATORY PARAMETER | VALUE |
+|---|---|
+| Bench | sealed mineral workbench |
+| Thermal | thermal response plate |
+| Resonance | resonance comparison reader |
+| History | pressure-history storage cabinet |
+| Sampling | micro-sample drill station |
+| Dust | dust and ash capture hood |
+| Mass | vibration-isolated mass table |
+| Baseline | geological baseline drawer |
+| Restricted | restricted sample safe |
+| Records | sample chain-of-custody ledger |
+| Isolation | equipment isolated from ordinary facility vibration |
+| Rule | no sample is treated as inert by default |
+| Sample mass limit | NOT MEASURED |
+| Thermal range | NOT MEASURED |
+| Resonance resolution | NOT MEASURED |
+
+Geological matter at the relay can be ordinary background, anomalous material, evidence of movement
+below
+the facility, or a carrier. False resonance can distort both research and seismic interpretation,
+which is
+why the equipment is isolated.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A DESAL suite may include sealed mineral benches, thermal containment plates, resonance readers, pressure-history
@@ -107,7 +137,53 @@ purpose.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Laboratory Controls
+
+- micro-sample drill station
+- thermal response plate
+- dust and ash capture hood
+- restricted sample safe
+
+### Analysis Readouts
+
+- resonance comparison reader
+- pressure-history cabinet record
+- vibration-isolated mass table reading
+- chain-of-custody ledger entry
+
+### Analysis And Personnel Limits
+
+- Do not grind, heat, hydrate, pressurize, or sonically stimulate a sample without approval.
+- Do not escalate a restricted correlation before equipment isolation is confirmed.
+- Do not treat a cooled volcanic sample as harmless.
+- Do not place a foundation chip beside signal records without authorization.
+- Weakest where a fragment does not behave as its formation did.
+- Weakest where the sample only reacts near related records.
+
+Mass limit, thermal range, and resolution are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Geological analysis, Level 3 ordinary with Level 4 abyss-linked.
+
+1. Enter recovery point, depth, and temperature into the ledger.
+2. Record pressure condition and collection tool.
+3. Record any nearby sensor event and handling history.
+4. Assign the study track.
+5. Confirm whether signal comparison is authorized.
+6. Review whether the sample can act, emit, or transform.
+7. Confirm equipment isolation before any restricted escalation.
+8. Log every stimulation applied.
+
+Step-down: the sample returns to its cabinet or safe and the ledger closes. Emergency:
+a sample showing
+activation is isolated in the restricted safe and the study stops, because stimulation is
+what turns
+evidence into an event.
 
 Before analysis, the sample's recovery point, depth, temperature, pressure condition, collection tool, nearby sensor
 event, and handling history are entered into the ledger. Research assigns the study track.
@@ -127,6 +203,34 @@ restricted
 routing.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Ordinary geological analysis | Level 3 procedure | Level 3 |
+| Abyss-linked samples | Level 4 or review-chain authority | Level 4 |
+| Equipment isolation check | before restricted escalation | Engineering Division |
+| Capture hood loading | filter change and dust custody | Materials Custody |
+| Mass table drift | recalibration | Engineering Division |
+| Sample activation | restricted safe isolation | Containment Division |
+
+No calendar interval is recorded; the laboratory is verified per study track, so interval
+NOT MEASURED.
+Drill bits and capture filters are the consumables. The resonance misread notice is why
+isolation is
+confirmed before escalation rather than after.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Foundation sample matching a vibration family | tool vibration, not the sample | isolate first; misread notice |
+| Volcanic sample stable after cooling | false harmlessness | keep the history |
+| Chip reacting near signal records | correlation-dependent behaviour | separate and review |
+| Resonance reading unstable | mass table or isolation fault | recalibrate |
+| Dust escaping the hood | capture fault | dust is custody material |
+| Stimulation applied unlogged | ledger breach | stop and record |
 
 ## KNOWN LIMITS
 
@@ -198,6 +302,10 @@ passive.
 - Can resonance testing teach a sample to answer?
 - Should abyss-linked sample handling require medical observation of analysts?
 - When does a sample belong in F-1 holding instead of F-4 study?
+
+- What sample mass limit does the micro-drill station carry?
+- What thermal range can the response plate apply safely?
+- Which samples are held in the restricted safe pending correlation review?
 
 ---
 

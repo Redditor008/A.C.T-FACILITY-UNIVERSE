@@ -87,6 +87,52 @@ becoming available to every analyst who works ordinary seismic data. This matche
 doctrine that some
 observations must be held closest because the knowledge itself has operational weight.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and sealing doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| VAULT PARAMETER            | VALUE                                                                                 |
++============================+=======================================================================================+
+| Room                       | access-gated restricted vault room                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Authority                  | review-chain authorization lock                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Status                     | seal-state indicator panel                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Storage                    | QNB-aware file capsule                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Access                     | dual-ledger access recorder                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Reading                    | escorted reading station                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Comparison                 | comparison-denial terminal                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Environment                | environmental preservation control                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Emergency                  | lockout shutter                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Audit                      | partial-seal audit tag                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Kept together              | files, packages, notes, and correlation markers                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Seal states                | closed, partially open, or downgraded, per the audit tag                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Holding capacity           | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Review turnaround          | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Escorted session length    | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The holdings are not merely confidential; they are structurally sensitive within A.C.T doctrine. The
+vault
+controls files rather than minds, and it is a safeguard against circulation rather than
+an excuse for
+paralysis.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 An RRV installation includes access-gated vault rooms, seal-state panels, review-chain authorization locks, QNB-aware
@@ -111,7 +157,54 @@ The partial-seal audit tag records whether a file is closed, partially opened, c
 or
 downgraded.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Vault Controls
+
+- review-chain authorization lock
+- emergency lockout shutter
+- comparison-denial terminal
+- escorted reading station
+
+Seal And Access Readouts
+
+- seal-state indicator panel
+- dual-ledger access record
+- partial-seal audit tag
+- environmental preservation state
+
+Custody And Personnel Limits
+
+- Do not open a sealed file without purpose-tied authorization.
+- Do not return a partially opened file without updating its seal state.
+- Do not separate notes from their file without review-chain approval.
+- Do not over-seal material Containment needs quickly.
+- Weakest against knowledge an authorized reader already holds.
+- Weakest where delay costs operational time.
+
+Capacity, turnaround, and session length are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+Restricted custody, Level 4 minimum with review-chain authorization.
+
+1. Receive the file after processing, ALORS, or the Records Chief.
+2. Verify the file package and source trail.
+3. Verify the sensitivity marker and access limits.
+4. Verify review-chain authority.
+5. Record the initial seal state before storage.
+6. Tie any opening to a stated purpose.
+7. Read at the escorted station.
+8. Reaffirm or change the seal state on return.
+
+Step-down: the capsule returns to the vault and the audit tag carries the new
+seal state. Emergency: the
+lockout shutter closes the room, and a partial opening that ends without a seal-state
+update is treated as
+an access incident.
 
 A file enters RRV custody after DMPC, ALORS, or the Records and Monitoring Chief
 identifies restricted review need.
@@ -128,6 +221,53 @@ convenience. Copies require custody reason.
 If unauthorized access is attempted, the vault locks the file family and alerts Security,
 Central Archive, and the
 review chain.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Custody and storage        | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Sealed file opening,       | review-chain authorization                | Level 5                                   |
+| copying, transfer          |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Downgrading a file         | review-chain decision                     | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Partial opening            | seal-state update required                | Restricted Review Chain                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Environmental control fault| capsule transfer                          | Central Archive                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Lockout shutter test       | before each escorted session              | Security Division                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; the vault is audited per opening, so interval NOT
+MEASURED. Capsules are
+the wear item. The partial opening review is why every partial opening must change
+or reaffirm the seal
+rather than leave it implied.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| File returned with no seal | partial opening unlogged                  | audit tag; opening review                 |
+| update                     |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Unauthorized access attempt| authorization lock held                   | investigate the ledger                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Notes separated from the   | review-chain breach                       | reunite or justify                        |
+| file                       |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Over-sealing delaying      | containment need ignored                  | expedite the review                       |
+| action                     |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Capsule integrity lost     | preservation fault                        | transfer under escort                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Comparison terminal used   | control bypass                            | lock and review                           |
+| unescorted                 |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -195,6 +335,11 @@ OPEN QUESTIONS
 - Can QNB preservation maintain a seal state during causal drift without exposing content?
 - When should a restricted record be treated as a contained resident rather than
 a file?
+- How many files are held under partial seal, and what review do they
+  await?
+- What is the normal review turnaround for a downgrade request?
+- How long may an escorted reading session run before it must close?
+
 
 FILE METADATA
 

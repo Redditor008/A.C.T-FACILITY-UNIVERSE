@@ -93,6 +93,52 @@ exploration mission, but the loss of one recovery vessel showed that maritime pu
 sufficient containment
 infrastructure can turn the platform itself into prey.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and certification doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| PLATFORM PARAMETER         | VALUE                                                                                 |
++============================+=======================================================================================+
+| Nature                     | interoperable platform network, not one ship class                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Holding                    | vessel-mounted containment cradle                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Depth                      | submersible pressure interface                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Deck                       | sealed deck intake lock                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Transfer                   | water-transfer sleeve, pressure-rated                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Sensing                    | sensor mast and sonar integration bay                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Handling                   | remote handling rig                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Emergency                  | floodable holding bay                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Records                    | containment transport ledger                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Handoff                    | port handoff connector                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cover                      | maritime cover package                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Also fitted                | decoy mounts, chemical isolation tanks, quarantine deck zones                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cradle volume              | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Sea state limit            | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Holding endurance          | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+A platform is certified only when its containment ledger, port interface, and emergency response
+have all
+been proven. This is field containment, not final containment: a ship moves, a deck
+vibrates, weather
+interferes, and civilian vessels approach.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 MPCI installations vary by vessel and mission, but the controlled standard includes modular containment
@@ -118,7 +164,56 @@ A platform is certified only when its containment ledger, port interface, and em
 match the class of
 resident or material it may recover.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Platform Controls
+
+- sealed deck intake lock
+- water-transfer sleeve
+- remote handling rig
+- floodable holding bay
+- port handoff connector
+
+Recovery Readouts
+
+- sensor mast and sonar integration output
+- containment transport ledger entry
+- chamber water chemistry against the intended range
+- covered data link to the site watch
+
+Sea And Personnel Limits
+
+- Do not treat the platform as final containment.
+- Do not hold a marine-dependent object past its planned handoff.
+- Do not pursue a resident that has denied the senses.
+- Do not let crew fatigue stand in for discipline.
+- Weakest where propeller sound, sonar, or engine heat acts as stimulus.
+- Weakest where the sea can hide a breach better than the deck can
+  show one.
+
+Cradle volume, sea state limit, and endurance are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+Maritime recovery, Level 3 platform support with Level 4 transfer.
+
+1. Define the search area and likely resident type.
+2. Record water depth and expected pressure requirement.
+3. Set the cover story and handoff route.
+4. Assign temporary holding limits.
+5. Review hostile, civilian, and maritime law exposure.
+6. Attach Seismic Analysis where abyss-linked signals intersect.
+7. Maintain constant site contact through the recovery.
+8. Close the ledger at the port handoff.
+
+Step-down: the handoff connector is sealed, the ledger closes at the port, and the
+platform returns to cover
+posture. Emergency: sensory denial ends pursuit rather than intensifying it, which is the mandatory
+training
+case left by the Death Angler vessel loss.
 
 Before deployment, Recovery defines the search area, likely resident type, water depth, expected pressure
 requirement,
@@ -139,6 +234,52 @@ indirect systems before crew exposure occurs.
 At handoff, the port facility receives the resident or object through a sealed transfer
 path. The platform record is
 reconciled with the F-3 or port containment ledger before the mission is considered complete.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Platform support           | Level 3 procedure                         | Level 3                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Anomaly transfer or        | Level 4 procedure                         | Level 4                                   |
+| submersible work           |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Hostile maritime response  | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Certification              | ledger, interface, and emergency proof    | Maritime Recovery Command                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Cradle or sleeve fault     | withdraw from transfer duty               | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Extended holding           | chemistry check against the range         | Containment Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; a platform is certified per mission, so interval NOT
+MEASURED. Transfer
+sleeves and chemical stock are the consumables. The port interface review is why extended
+holding requires
+chemistry checks rather than patience.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Resident invisible to      | lure extinguished, sensory denial         | stop pursuit; Angler case                 |
+| visual tracking            |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Chamber water drifting     | handoff delayed by weather                | check chemistry; port review              |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Civilian vessel closing    | cover at risk                             | break off and re-cover                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Deck vibration affecting   | sea state exceeded                        | reduce speed or hold                      |
+| the cradle                 |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Crew fatigue altering      | long watch                                | rotate before transfer                    |
+| discipline                 |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Ledger gap at handoff      | record break                              | reconcile before intake                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -214,6 +355,11 @@ reclassified as a temporary facility?
 through excess presence?
 - Can submersible platforms be safely abandoned if a resident attaches to them as
 territory?
+- What sea state limit does a certified platform carry, and how is it
+  tested?
+- How long can a cradle hold a marine-dependent object before chemistry fails?
+- What does certification require beyond ledger, interface, and emergency proof?
+
 
 FILE METADATA
 

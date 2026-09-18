@@ -84,6 +84,34 @@ it means.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and monitoring doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| ARRAY PARAMETER | VALUE |
+|---|---|
+| Nature | interlocked field of listening points, not one seismograph |
+| Strings | deep sensor strings buried below the deepest built floor |
+| Foundation | foundation-bonded resonance pickups |
+| Bore | deep bore receivers in engineered sleeves |
+| Isolation | vibration isolation collar |
+| Flagging | abyss-linked anomaly flagging circuit |
+| Cabling | hardened shielded cable runs |
+| Buffering | local buffer nodes |
+| Trust | signal-authentication relay |
+| Termination | F-1 termination panel in the Deep Listening Vault |
+| Service | maintenance denial seal |
+| Node count | NOT MEASURED |
+| Depth reached | NOT MEASURED |
+| Detection threshold | NOT MEASURED |
+
+The array is deliberately distributed so a single bad node cannot invent the deep.
+Some nodes are embedded
+in natural stone; others hang in engineered sleeves to keep ordinary facility vibration out
+of the reading.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A DESA installation includes buried sensor strings, foundation-bonded resonance pickups, deep bore receivers, pressure
@@ -110,7 +138,53 @@ invent the deep.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Array Controls
+
+- maintenance denial seal
+- signal-authentication relay
+- local buffer node selection
+- F-1 termination panel routing
+
+### Listening Readouts
+
+- seismic, acoustic, structural, and resonance traces
+- abyss-linked anomaly flag state
+- node health across the field
+- comparison against volcanic, tectonic, maritime, and site baselines
+
+### Listening And Personnel Limits
+
+- Do not enter a service path without Seismic Analysis and Security clearance.
+- Do not escalate before machinery, geology, marine impact, and sensor fault are excluded.
+- Do not let one node speak for the field.
+- Do not treat an authenticated gap as an absent signal.
+- Weakest where ordinary earthquakes resemble anomalous movement.
+- Weakest where anomalous movement disguises itself as geology.
+
+Node count, depth reached, and threshold are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Continuous watch, Level 4 with Seismic Analysis Support.
+
+1. Maintain continuous watch through F-1.
+2. Compare readings against known baselines.
+3. Classify an unusual signal before escalating it.
+4. Rule out local machinery and chamber vibration.
+5. Rule out ordinary geology and marine impact.
+6. Rule out sensor failure.
+7. Flag only what survives those checks as an abyss-linked candidate.
+8. Require Seismic Analysis and Security clearance before entering service paths.
+
+Step-down: the classification is filed with the signal window and the node health report.
+Emergency: an
+unexplained change in a foundation reading is reviewed as possible movement toward the vault,
+because the
+array is both a sensor system and a monitored approach path.
 
 Seismic Analysis personnel maintain continuous watch through F-1. Routine readings are compared against known
 volcanic, tectonic, maritime, and site-structure baselines. When an unusual signal appears, analysts confirm whether
@@ -129,6 +203,34 @@ as possible approach, not simple
 equipment loss.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Live readings or maintenance | Level 4 procedure | Level 4 |
+| Abyss-linked correlation review | Level 4 with restricted escalation | Level 4 |
+| Service path entry | Seismic Analysis and Security clearance | Level 4 |
+| Node health fault | isolate the node, keep the field | Engineering Division |
+| Authentication relay fault | do not trust the field until restored | Engineering Division |
+| Foundation reading change | peripheral security review | Containment Division |
+
+No calendar interval is recorded; the field is watched continuously and serviced per node
+fault, so interval
+NOT MEASURED. There is no consumable. The ordinary geology misread notice is why a
+volcanic tremor is ruled
+out before it is escalated.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Volcanic tremor read as anomaly | ordinary geology misread | compare first; misread notice |
+| Recurring signature at intervals | improperly isolated machinery | isolate the source |
+| One node disagreeing with the field | node fault | isolate; the field decides |
+| Foundation reading shifting | possible movement toward the vault | security review |
+| Authentication relay silent | trust broken | hold escalation |
+| Marine impact mimicking vault stress | transmission through the island | correlate offshore |
 
 ## KNOWN LIMITS
 
@@ -203,6 +305,11 @@ boundary.
 — Do Sonar Void events and abyss-linked seismic gaps share a common absence pattern?
 — Can a node be influenced without physical damage?
 — Should array silence be treated as lower risk or higher risk?
+
+- How many nodes make up the field, and how deep does the deepest
+  string reach?
+- What detection threshold separates ordinary geology from a candidate?
+- Which nodes are embedded in natural stone, and why were those positions chosen?
 
 ---
 
