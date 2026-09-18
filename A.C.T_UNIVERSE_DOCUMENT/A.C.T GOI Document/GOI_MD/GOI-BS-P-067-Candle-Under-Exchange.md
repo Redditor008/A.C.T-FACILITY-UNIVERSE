@@ -143,8 +143,8 @@ A.C.T assessment identifies these functional layers:
 - safe-house owners who provide beds without demanding full testimony;
   witness advisers who teach survivors how to speak to hospitals, police, A.C.T, or
   lawyers;
-— route moderators who identify safe transport and warn against predatory markets;
-— bad-buyer boards that list collectors, brokers, cult recruiters, and fake doctors.
+- route moderators who identify safe transport and warn against predatory markets;
+- bad-buyer boards that list collectors, brokers, cult recruiters, and fake doctors.
 
 This structure establishes the Exchange as a real market GOI rather than loose kindness.
 
@@ -438,10 +438,10 @@ anomalous markets.
   The Exchange trades aid, medicine, shelter, advice, routes, and limited protective objects among
   anomaly
   survivors.
-— Its network can protect witnesses and also prevent A.C.T from locating them promptly.
+- Its network can protect witnesses and also prevent A.C.T from locating them promptly.
   The Exchange maintains ethical debt limits and bad-buyer warnings distinct from Anstrall Market
   behavior.
-— Some exchanged items may be anomalous and require separate custody review.
+- Some exchanged items may be anomalous and require separate custody review.
 
 ### Active Intelligence Assessment
 
@@ -499,14 +499,14 @@ Exchange.
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-BS-T-027-Anstrall-Market.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CP-P-054-Lullaby-Works.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CP-P-056-Saint-Vera-Restoration-Concern.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-GV-X-060-Office-for-Witness-Continuance.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md`
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- GOI-BS-T-027 — Anstrall Market, Group of Interest Registry
+- GOI-CP-P-054 — Lullaby Works, Group of Interest Registry
+- GOI-CP-P-056 — Saint Vera Restoration Concern, Group of Interest Registry
+- GOI-GV-X-060 — Office for Witness Continuance, Group of Interest Registry
+- Normalcy Management and Public Narrative Doctrine, Archive Record
+- WITNESS STATEMENT AND TESTIMONY FORM, Operational Form
 - Restricted survivor-aid, protective charm, safe-house, medicine, witness, and post-breach family case chains held
   under Central Archive routing.
 

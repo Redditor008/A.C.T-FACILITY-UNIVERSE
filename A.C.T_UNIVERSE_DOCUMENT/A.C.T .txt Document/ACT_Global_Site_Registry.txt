@@ -234,8 +234,8 @@ architectural, floor-register, personnel, and incident record of every installat
 Site
 Dossier files under:
 
-- A.C.T .md Document/Site Dossier/ (authoritative Markdown)
-- A.C.T .txt Document/Site Dossier/ (plain-text reading copies)
+- Site Dossier collection, Central Archive (authoritative Markdown)
+- Site Dossier collection, plain-text reading copies (plain-text reading copies)
 
 Each dossier follows the Site Registry File Standard and carries its own Dossier Number
 in the SITE-DOSSIER /
@@ -249,8 +249,8 @@ deepest numbered floor (F-1) to the surface-adjacent floor (F-N) — are maintai
 Floor Dossier files
 under:
 
-- A.C.T .md Document/Site Dossier/Floor Dossier/ (authoritative Markdown)
-- A.C.T .txt Document/Site Dossier/Floor Dossier/ (plain-text reading copies)
+- Floor Dossier collection, Central Archive (authoritative Markdown)
+- Floor Dossier collection, plain-text reading copies (plain-text reading copies)
 
 Each floor dossier follows the ACT Floor Record Standard and carries its own Dossier
 Number in the FLOOR-DOSSIER

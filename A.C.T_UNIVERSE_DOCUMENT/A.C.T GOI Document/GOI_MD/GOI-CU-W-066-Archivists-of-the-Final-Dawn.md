@@ -148,17 +148,17 @@ A.C.T assessment identifies these functional layers:
   ledger priors who classify whether a record is safe, sealed, living, false, or
   too
   late;
-— last-word conservators who gather final messages and protect them from public misuse;
+- last-word conservators who gather final messages and protect them from public misuse;
   language wardens who preserve endangered words that may describe anomaly conditions no formal
   system
   names;
   map keepers who copy roads, rooms, coastlines, wells, and shelters before they vanish
   or
   change;
-— witness-box clerks who store small civilian proofs when full testimony is unsafe;
-— fire copyists who make duplicates designed to survive destruction of the original;
-— dawn couriers who move sealed boxes through disaster routes;
-— quiet readers who review records aloud only after containment clearance or mourning rites.
+- witness-box clerks who store small civilian proofs when full testimony is unsafe;
+- fire copyists who make duplicates designed to survive destruction of the original;
+- dawn couriers who move sealed boxes through disaster routes;
+- quiet readers who review records aloud only after containment clearance or mourning rites.
 
 This structure makes the order a real GOI. It is not only people who
 like archives. It has doctrine, roles, access
@@ -551,14 +551,14 @@ not replace hazard review of specific records.
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-HY-W-053-Missing-404-Watch-Tower.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CU-P-064-Last-Bell-Congregation.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CU-X-065-Mercy-of-the-Quiet-Sun.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CU-X-062-Choir-of-the-Unforgotten-Name.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md`
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- GOI-HY-W-053 — Missing 404 Watch Tower, Group of Interest Registry
+- GOI-CU-P-064 — Last Bell Congregation, Group of Interest Registry
+- GOI-CU-X-065 — Mercy of the Quiet Sun, Group of Interest Registry
+- GOI-CU-X-062 — Choir of the Unforgotten Name, Group of Interest Registry
+- Normalcy Management and Public Narrative Doctrine, Archive Record
+- WITNESS STATEMENT AND TESTIMONY FORM, Operational Form
   Restricted apocalypse, archive, witness, missing-person, erased-town, language-loss, and final-record case chains
   held
   under Central Archive routing.

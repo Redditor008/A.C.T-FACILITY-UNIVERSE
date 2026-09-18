@@ -181,11 +181,11 @@ OPEN QUESTIONS
 - How many restricted arrivals can the port absorb before public patterns change?
 - Should all submersible support remain inside restricted berths, or can ordinary repair explain
 some work?
-— Can a civilian vessel witness a concealed offload without understanding what it saw?
-— When does port delay justify moving containment to the vessel instead of the
+- Can a civilian vessel witness a concealed offload without understanding what it saw?
+- When does port delay justify moving containment to the vessel instead of the
 facility?
-— Should public research schedules ever be altered to cover urgent recovery?
-— How long can a dual-use port remain believable during repeated maritime incidents?
+- Should public research schedules ever be altered to cover urgent recovery?
+- How long can a dual-use port remain believable during repeated maritime incidents?
 
 FILE METADATA
 

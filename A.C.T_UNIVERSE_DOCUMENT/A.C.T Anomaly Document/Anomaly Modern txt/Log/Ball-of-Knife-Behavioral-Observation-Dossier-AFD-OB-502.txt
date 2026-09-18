@@ -69,8 +69,8 @@ VIBRATION WATCH:
    - Vibration levels monitored continuously (gravimetric and acoustic)
    - Rhythmic "Clicking" or "Grinding" above 40 dB indicates an attempt to
      reconfigure the wire-lattice to bypass the magnetic flux
-   — Required watch: 2 magnetic-field technicians, 1 remote operator
-   — Cadence: continuous monitoring / weekly electromagnetic stress-test
+   - Required watch: 2 magnetic-field technicians, 1 remote operator
+   - Cadence: continuous monitoring / weekly electromagnetic stress-test
 
 OBSERVER NOTE: The clicking is not noise. It is the subject thinking in tools.
 
@@ -88,11 +88,11 @@ BEHAVIORAL BASELINE:
 
    - Detects living organisms with 100% accuracy within its 50 m active
      radius despite possessing no eyes, ears, or nervous tissue
-   — When unrestrained, moves by rolling, lunging, and spinning at high
+   - When unrestrained, moves by rolling, lunging, and spinning at high
      velocity
-   — Targets any biological organism in its vicinity, attempting to slice,
+   - Targets any biological organism in its vicinity, attempting to slice,
      cut, chop, and stab until the target is effectively disarticulated
-   — "Hate" intensifies the closer the subject gets to a living Heart-Signal
+   - "Hate" intensifies the closer the subject gets to a living Heart-Signal
 
 DISCOVERY CONTEXT:
 
@@ -170,8 +170,8 @@ CONTAINMENT UPDATES AFTER REVIEW:
 
    - Emergency seal: vault floods with high-density quick-setting polymer on
      power failure to delay burrowing until the field is restored
-   — No biological entry at any activity state
-   — Standard steel doors replaced with magnetic-lock assemblies in the
+   - No biological entry at any activity state
+   - Standard steel doors replaced with magnetic-lock assemblies in the
      containment wing
 
 ═══════════════════════════════════════════════════════════════════════

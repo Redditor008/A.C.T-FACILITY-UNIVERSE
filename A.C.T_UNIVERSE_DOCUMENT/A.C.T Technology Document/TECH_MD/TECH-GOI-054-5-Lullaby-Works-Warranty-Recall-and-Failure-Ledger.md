@@ -107,13 +107,13 @@ The system is documentary and logistical rather than mechanical. Its recovered c
   **a blue card** bearing a telephone number, recovered from shelter staff during the
   nightlight
   incident;
-— **warranty ledger pages** storing child drawings and caregiver notes;
-— **recall lists** naming product lots, some unknown to A.C.T;
+- **warranty ledger pages** storing child drawings and caregiver notes;
+- **recall lists** naming product lots, some unknown to A.C.T;
   **product catalogues with missing pages**, where the removed pages are presumed to describe
   items
   A.C.T has not
   recovered;
-— **sealed failure crates** marked **DO NOT RETURN TO CHILD**;
+- **sealed failure crates** marked **DO NOT RETURN TO CHILD**;
   **caregiver instruction cards** written to be understood by a frightened adult, shared across
   the
   whole product range;
@@ -262,11 +262,11 @@ entry sits in the GOI series because there was nowhere else to put it.
   Is the blue card number a live operator, a recording, or a route
   to
   somewhere else?
-— Why does the ledger store child drawings, and what is done with them?
+- Why does the ledger store child drawings, and what is done with them?
   Does the warranty cover exhaustion, as with the music box, or only physical
   failure?
-— Can A.C.T reach the manufacturer at all without disclosing itself?
-— Are the recall lists issued to protect children, to retrieve product, or both?
+- Can A.C.T reach the manufacturer at all without disclosing itself?
+- Are the recall lists issued to protect children, to retrieve product, or both?
 
 ---
 

@@ -211,10 +211,10 @@ you check the clock.
 - Did any CCA ever stabilize a full room without later sequence debt?
   Are the oldest brass gear ratios copied from ordinary horology or from anomalous
   observation?
-— Can a clockwork anchor accidentally teach an artifact a repeatable escape rhythm?
-— Why do some units affect ledgers more strongly than physical objects?
-— Should surviving units remain intact, or should stored tension risks require disassembly?
-— Did CCA doctrine influence the first RSA prototype more than current engineering admits?
+- Can a clockwork anchor accidentally teach an artifact a repeatable escape rhythm?
+- Why do some units affect ledgers more strongly than physical objects?
+- Should surviving units remain intact, or should stored tension risks require disassembly?
+- Did CCA doctrine influence the first RSA prototype more than current engineering admits?
 
 ---
 

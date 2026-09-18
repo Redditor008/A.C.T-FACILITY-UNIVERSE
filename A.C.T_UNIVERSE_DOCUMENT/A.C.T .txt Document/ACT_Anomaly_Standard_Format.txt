@@ -315,8 +315,8 @@ Recommended title formatting:
 - keep the designation exact
 
 Example:
-- `I-AM-A-Test-AFD-OB-001.md`
-- `I-AM-A-Test-AFD-OB-001.txt`
+- I-AM-A-Test-AFD-OB-001, Archive Record
+- I AM A Test AFD OB 001, Archive Record
 
 ---
 
@@ -378,7 +378,7 @@ An anomaly receives one of two designation prefixes depending on its verificatio
 - UFD-XX-### — Unknown Field Designation. Provisional status. Assigned during DETECT/VERIFY phase before the
 anomaly
 has been confirmed as genuine and operationally logged.
-— AFD-XX-### — Anomaly Field Designation. Verified status. Assigned once the anomaly has been
+- AFD-XX-### — Anomaly Field Designation. Verified status. Assigned once the anomaly has been
 validated, documented,
 and entered into the permanent A.C.T record.
 
@@ -425,5 +425,5 @@ is the truth.*
 EXAMPLE TEST ANOMALY
 
 Reference example anomaly created for format testing:
-- `I-AM-A-Test-AFD-OB-001.md`
-- `I-AM-A-Test-AFD-OB-001.txt`
+- I-AM-A-Test-AFD-OB-001, Archive Record
+- I AM A Test AFD OB 001, Archive Record

@@ -460,16 +460,15 @@ Site Command approves emergency use during breach but must accept after-action r
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/NEMNOLIA-004-Series-Amnestic-Archive.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Master_Index_50.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Evolution_Timeline.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Visual_Reference_Guide.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Personnel_Exposure_E_Class_and_Resilience_Doctrine.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational
-  Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md`
-— `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/TECH-ACT-003-Quantum-Narrative-Buffer-System.md`
-— `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/00_Technology_Record_Template.md`
+- 004-Series Amnestic Compound Reference, Archive Record
+- ACT-MASTER-INDEX-50-SYSTEMS-AND-MATERIALS, Archive Record
+- Internal Engineering Record: 1598 – 2026, Archive Record
+- Comprehensive Visual and Mechanical Specifications for Asset Index 50, Archive Record
+- Normalcy Management and Public Narrative Doctrine, Archive Record
+- Personnel Exposure, Excommunicated Class, and Resilience Doctrine, Archive Record
+- AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM, Operational Form
+- TECH-ACT-003 — Quantum Narrative Buffer System, Technology Record
+- TECHNOLOGY RECORD TEMPLATE, Technology Record
 
 ### Technology Relationship
 
@@ -481,7 +480,7 @@ The 004-series interacts with, but is distinct from:
 - Refined NEMNOLIA Sap, the active material lineage used inside the compound system;
   Neural Lacing Type 004-MOD, which provides an internal auto-forget filter rather than administered
   treatment;
-— Banalist White-Noise Broadcast, which disrupts narrative scripting through acoustic systems.
+- Banalist White-Noise Broadcast, which disrupts narrative scripting through acoustic systems.
 
 Each system requires its own individual technology record. This file covers the 004-Series Amnestic
 Compound System as

@@ -490,14 +490,14 @@ wanting control over anomalies.
   Who authorizes Grey Harbor responders to override ordinary road closure and shelter orders
   during
   A.C.T incidents?
-— Why do some siren tones reduce panic while increasing witness memory retention?
+- Why do some siren tones reduce panic while increasing witness memory retention?
   Has Grey Harbor ever hidden a survivor from A.C.T after deciding that containment
   custody
   would be unsafe?
   Do some shelter registrars possess training from another outside GOI such as Cairn
   &
   Lintel or Lullaby Works?
-— How many responder memory-care files contain unreported A.C.T operational failures?
+- How many responder memory-care files contain unreported A.C.T operational failures?
 
 ### Intelligence Confidence
 
@@ -523,13 +523,13 @@ record must not replace disaster casualty records or survivor care.
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-GV-P-001-Government-Anti-Anomaly-GAA.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Standing_Field_Units_and_Cross_Containment_Interaction_Doctrine.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Access_and_Egress_Ledger_Form.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md`
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- GOI-GV-P-001 — Government Anti Anomaly GAA, Group of Interest Registry
+- Standing Field Units and Cross-Containment Interaction Protocol, Archive Record
+- Normalcy Management and Public Narrative Doctrine, Archive Record
+- ACCESS AND EGRESS LEDGER FORM, Operational Form
+- WITNESS STATEMENT AND TESTIMONY FORM, Operational Form
 - Restricted disaster, evacuation, shelter, maritime, industrial, hospital, and witness-care case chains held under
   Central Archive routing.
 

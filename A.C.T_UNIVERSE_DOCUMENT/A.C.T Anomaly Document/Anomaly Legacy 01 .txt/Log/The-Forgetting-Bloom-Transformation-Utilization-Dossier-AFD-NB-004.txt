@@ -82,9 +82,9 @@ CULTIVATION RULES:
    - Bloom cycles monitored remotely whenever possible
    - Sap extraction only inside negative-pressure harvest chambers with full
      protective equipment and post-handling cognitive assessment
-   — No exposed-skin handling; no raw sap transfer without sealed
+   - No exposed-skin handling; no raw sap transfer without sealed
      containment vials
-   — No unsanctioned derivative testing outside approved facilities
+   - No unsanctioned derivative testing outside approved facilities
 
 ═══════════════════════════════════════════════════════════════════════
             SECTION 002 — SAP-EXPOSURE AND INCIDENT RECORD
@@ -108,12 +108,12 @@ INCIDENT LOG SUMMARY:
 
    - Total incidents: [ RESTRICTED ]; last incident date: [ RESTRICTED ];
      highest severity: Major
-   — Early exposure subjects lost complete recent autobiographical continuity
-   — Multiple unsafe refinement attempts caused catastrophic biological side
+   - Early exposure subjects lost complete recent autobiographical continuity
+   - Multiple unsafe refinement attempts caused catastrophic biological side
      effects
-   — One archive spill event required immediate witness suppression
-   — Casualties and amnestic administrations: [ RESTRICTED ]
-   — E-Class assigned: Yes — controlled dosage testing history
+   - One archive spill event required immediate witness suppression
+   - Casualties and amnestic administrations: [ RESTRICTED ]
+   - E-Class assigned: Yes — controlled dosage testing history
 
 ═══════════════════════════════════════════════════════════════════════
   SECTION 003 — DERIVATIVE REFINEMENT — AMNESTIC COMPOUND PRODUCTION

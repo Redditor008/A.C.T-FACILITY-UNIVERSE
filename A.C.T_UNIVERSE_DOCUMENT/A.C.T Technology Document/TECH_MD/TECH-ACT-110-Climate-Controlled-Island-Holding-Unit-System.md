@@ -202,7 +202,7 @@ land.
   residents?
   When should an island resident transfer to Verde Null rather than remain at
   Nusantara?
-— How much Medical intervention can occur before a unit's climate stability is compromised?
+- How much Medical intervention can occur before a unit's climate stability is compromised?
 
 ---
 

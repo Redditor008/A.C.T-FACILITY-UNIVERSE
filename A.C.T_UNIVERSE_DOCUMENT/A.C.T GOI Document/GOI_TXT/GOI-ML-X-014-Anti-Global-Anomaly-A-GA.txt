@@ -117,12 +117,12 @@ Observed operational functions include:
 - Target Cells: locate anomaly-linked sites, personnel, transfers, and exposed evidence;
 - Engineering Cells: adapt technical equipment, breach tools, destructive devices, surveillance systems, and transport
 modifications for anti-anomalous use;
-— Acquisition Cells: obtain materials, stolen records, vehicles, access credentials, and mundane cover resources;
-— Action Cells: conduct raids, sabotage, abduction, demolition, or attempted elimination;
-— Narrative Cells: recruit through fear, grievance, leaked information, and simplified moral language;
-— Transit Support: move personnel and equipment across jurisdictions while keeping local cells partially
+- Acquisition Cells: obtain materials, stolen records, vehicles, access credentials, and mundane cover resources;
+- Action Cells: conduct raids, sabotage, abduction, demolition, or attempted elimination;
+- Narrative Cells: recruit through fear, grievance, leaked information, and simplified moral language;
+- Transit Support: move personnel and equipment across jurisdictions while keeping local cells partially
 separated;
-— Residual Contacts: former members, sympathetic contractors, frightened witnesses, and opportunists who assist
+- Residual Contacts: former members, sympathetic contractors, frightened witnesses, and opportunists who assist
 without being fully initiated.
 
 These labels describe function rather than confirmed internal titles. A-GA regularly changes local terminology
@@ -501,13 +501,13 @@ Site Responsibilities
 
 - ACT-SITE-01-US-W / Redwood Veil Complex maintains high-density urban interdiction capability, hostile artifact-route
 review, and market-contact intelligence useful for tracing A-GA procurement.
-— ACT-SITE-02-RU-N / White Grave Station supports remote pursuit, severe-environment recovery, and investigation of
+- ACT-SITE-02-RU-N / White Grave Station supports remote pursuit, severe-environment recovery, and investigation of
 hidden caches or cold-zone transport routes.
-— ACT-SITE-03-JP-E / Kurokawa Archive Node leads document contamination review, digital leak analysis, hostile
+- ACT-SITE-03-JP-E / Kurokawa Archive Node leads document contamination review, digital leak analysis, hostile
 narrative tracking, and archive-protection measures.
-— ACT-SITE-04-BR-C / Verde Null Bio-Reserve receives biological, ecological, and quarantine-sensitive material where
+- ACT-SITE-04-BR-C / Verde Null Bio-Reserve receives biological, ecological, and quarantine-sensitive material where
 an A-GA intervention may have destabilized a living or environmental condition.
-— ACT-SITE-05-ID-C / Nusantara Deep Relay coordinates maritime, seismic, coastal, and deep-transit cases where
+- ACT-SITE-05-ID-C / Nusantara Deep Relay coordinates maritime, seismic, coastal, and deep-transit cases where
 hostile
 destruction could produce regional secondary effects.
 
@@ -628,12 +628,12 @@ Unresolved Conditions
 - Which members understand that their destructive tools can worsen the conditions they target?
 - Does the network maintain an internal archive of failed eradication attempts, and if
 so, where is it protected?
-— How often do cells obtain anomaly intelligence from theft versus observation, coercion, commercial
+- How often do cells obtain anomaly intelligence from theft versus observation, coercion, commercial
 purchase, or
 accidental leak?
-— Has any A-GA cell been knowingly redirected by another GOI toward a target
+- Has any A-GA cell been knowingly redirected by another GOI toward a target
 whose removal benefits an outside actor?
-— Can the ideology be contained at its recruitment stage without creating a wider
+- Can the ideology be contained at its recruitment stage without creating a wider
 public confirmation of the hidden
 world?
 
@@ -678,8 +678,8 @@ Related A.C.T Records
 - Site Map and Jurisdiction Doctrine - cross-site response assignment;
 - Facility Divisions, Personnel Roles, and Operational Life - Security, Recovery, Containment, Intelligence, and
 Military responsibilities;
-— Anomaly Classification Manual Archive - target, object, and breach filing;
-— Anomaly Log Categories In-World Explanation - controlled incident and aftermath documentation.
+- Anomaly Classification Manual Archive - target, object, and breach filing;
+- Anomaly Log Categories In-World Explanation - controlled incident and aftermath documentation.
 ==============================================================================
 
 FILE METADATA

@@ -295,15 +295,15 @@ entry exists for them.
   Are A.C.T's spurs derived from Guild Item-M2, or do both derive from the
   same
   source independently?
-— Why does a copied Bio-Feed Connector require a recovered reference to calibrate?
+- Why does a copied Bio-Feed Connector require a recovered reference to calibrate?
   What does the connector actually read from the sacral nerve group, and what
   does
   it send back?
-— Why do retired spur bodies differ in mass from their issue weight?
-— Can the implant ever be removed, and at what cost to the operator?
-— Does the matte-black finish serve a function, and why does polishing damage it?
-— Does long-term fitment change an operator beyond the recorded recoil injury?
-— Is the Guild aware that A.C.T holds a derivative of their hardware?
+- Why do retired spur bodies differ in mass from their issue weight?
+- Can the implant ever be removed, and at what cost to the operator?
+- Does the matte-black finish serve a function, and why does polishing damage it?
+- Does long-term fitment change an operator beyond the recorded recoil injury?
+- Is the Guild aware that A.C.T holds a derivative of their hardware?
 
 ---
 

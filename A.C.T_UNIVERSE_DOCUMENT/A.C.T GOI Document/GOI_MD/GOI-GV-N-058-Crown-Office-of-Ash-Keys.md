@@ -136,9 +136,9 @@ A.C.T assessment identifies these functional layers:
 - vault ushers who open or refuse rooms according to key order;
   oath witnesses who determine whether a promise, bloodline, estate, or royal seal still
   binds;
-— estate stewards who maintain properties containing sealed rooms or custody architecture;
-— procession guards who move relics only on permitted routes;
-— ash ledger clerks who preserve burned or half-burned inventory books;
+- estate stewards who maintain properties containing sealed rooms or custody architecture;
+- procession guards who move relics only on permitted routes;
+- ash ledger clerks who preserve burned or half-burned inventory books;
   quiet mourners who attend transfers where a family line ends before the object
   does.
 
@@ -226,10 +226,10 @@ Confirmed or strongly assessed capabilities include:
 - preserving partial inventories in burned ledgers readable only during specific custody hearings;
   recognizing when an heir is being claimed by an object rather than inheriting
   it;
-— moving relics along processional routes without triggering known hazards;
-— sealing museum storage drawers through charter language rather than mechanical locks;
-— delaying property sale until a dangerous room has been witnessed;
-— distinguishing ownership, stewardship, burden, and contamination in ways ordinary law cannot.
+- moving relics along processional routes without triggering known hazards;
+- sealing museum storage drawers through charter language rather than mechanical locks;
+- delaying property sale until a dangerous room has been witnessed;
+- distinguishing ownership, stewardship, burden, and contamination in ways ordinary law cannot.
 
 The Office is not assessed as Practitioner or Engineering without further evidence.
 
@@ -533,12 +533,12 @@ heir-protection review.
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_GOI_Registry_and_External_Threat_Doctrine_Archive.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Global_Site_Registry.md`
-- `A.C.T_UNIVERSE_DOCUMENT/'A History of Anomaly Containment Transformation' BOOK.md`
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- GOI Registry, Rival Powers, and External Threat Doctrine, Archive Record
+- Normalcy Management and Public Narrative Doctrine, Archive Record
+- Global Site Registry, Archive Record
+- Title Statement, Archive Record
   Restricted relic, inheritance, estate, sealed-room, old-law, and historical containment case chains held under
   Central
   Archive routing.

@@ -82,12 +82,12 @@ recovered units:
 - **Steady state.** The unit holds a low warm output through the night without
 flicker or drift. Recovered units show
 no measurable warm-up period.
-— **Intensification.** Output rises sharply when an unregistered presence enters the room. Witness accounts
+- **Intensification.** Output rises sharply when an unregistered presence enters the room. Witness accounts
 describe
 the change as immediate rather than gradual, and describe it occurring before any occupant
 reports hearing or seeing
 anything.
-— **Blue shift.** The emitted light changes colour rather than brightness. Recovered instruction material
+- **Blue shift.** The emitted light changes colour rather than brightness. Recovered instruction material
 treats the
 blue state as a signal that something has been seen, and directs caregivers not
 to question the child about it until
@@ -150,12 +150,12 @@ Known external features:
 - a screw-secured **moon element** forming the primary light aperture, which recovered instruction explicitly
 forbids
 removing while children are sleeping;
-— a **fabric or paper shade** surrounding the aperture, the only component known to
+- a **fabric or paper shade** surrounding the aperture, the only component known to
 produce sound;
-— a **battery plate** at the base or rear, behind which a production tag
+- a **battery plate** at the base or rear, behind which a production tag
 may be stitched or adhered;
-— an **instruction slip** stored beneath the battery cover, printed rather than handwritten;
-— a **shell casing** that remains structurally complete after the active components are removed,
+- an **instruction slip** stored beneath the battery cover, printed rather than handwritten;
+- a **shell casing** that remains structurally complete after the active components are removed,
 and that A.C.T has
 confirmed retains comforting value to a child even when inert.
 
@@ -317,17 +317,17 @@ OPEN QUESTIONS
 - What component inside the unit performs detection, and where is it located, given
 that internal volume does not
 account for the observed function?
-— What powers a unit that shows no identifiable cell matching its observed runtime?
-— What condition distinguishes a steady state from a blue shift, and does the
+- What powers a unit that shows no identifiable cell matching its observed runtime?
+- What condition distinguishes a steady state from a blue shift, and does the
 device distinguish between threat types?
-— What triggers the shade hum, and why has it never occurred under inspection?
-— What does the device mean by an unregistered presence, and against what register
+- What triggers the shade hum, and why has it never occurred under inspection?
+- What does the device mean by an unregistered presence, and against what register
 is registration measured?
-— How does a unit enumerate occupants, and where does the count of eighteen
+- How does a unit enumerate occupants, and where does the count of eighteen
 come from?
-— Does lot SLEEP-SAFE-7 differ from earlier or later lots in construction or behaviour?
-— Can a unit be built or repaired by anyone other than Lullaby Works?
-— Does a unit continue to function after the child it was placed for
+- Does lot SLEEP-SAFE-7 differ from earlier or later lots in construction or behaviour?
+- Can a unit be built or repaired by anyone other than Lullaby Works?
+- Does a unit continue to function after the child it was placed for
 has left the room permanently?
 
 ---

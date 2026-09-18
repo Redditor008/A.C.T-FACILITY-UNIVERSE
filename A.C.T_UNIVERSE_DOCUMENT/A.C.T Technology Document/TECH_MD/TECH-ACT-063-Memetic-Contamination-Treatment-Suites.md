@@ -213,11 +213,11 @@ follows what care proves.
 - Which memetic injuries can heal without memory alteration?
   Can treatment notes carry a weaker but still dangerous form of the original
   contaminant?
-— How should clinicians distinguish trauma repetition from hostile phrase persistence?
-— When does cognitive treatment require containment escalation?
+- How should clinicians distinguish trauma repetition from hostile phrase persistence?
+- When does cognitive treatment require containment escalation?
   Can repeated low-level exposure create staff who appear functional but no longer think
   independently?
-— Should duty-return decisions be reviewed by Medical alone or jointly with Containment?
+- Should duty-return decisions be reviewed by Medical alone or jointly with Containment?
 
 ---
 

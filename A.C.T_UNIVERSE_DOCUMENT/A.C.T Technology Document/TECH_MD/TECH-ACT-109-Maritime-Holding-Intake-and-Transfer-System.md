@@ -204,9 +204,9 @@ moving.
 
 - Should all sea-recovered material pass through pressure-preserving transfer even when depth sensitivity is
   unconfirmed?
-— How long may Research observe an intake before it becomes an unauthorized study?
-— Can vessel containment remain the preferred destination if land-based holding is technically available?
-— Should island-recovered material use the same custody clock as deep-sea material?
+- How long may Research observe an intake before it becomes an unauthorized study?
+- Can vessel containment remain the preferred destination if land-based holding is technically available?
+- Should island-recovered material use the same custody clock as deep-sea material?
   How much Recovery context must remain attached when a resident becomes a long-term
   holding?
   When does a failed transfer count as a recovery incident rather than an

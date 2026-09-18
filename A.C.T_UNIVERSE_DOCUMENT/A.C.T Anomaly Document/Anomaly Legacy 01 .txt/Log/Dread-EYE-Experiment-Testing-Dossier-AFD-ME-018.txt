@@ -102,7 +102,7 @@ STORAGE DISCIPLINE CONFIRMED:
    - Physical copies: opaque envelopes marked with nonvisual archive codes
    - Digital copies: separated image layers that cannot render the complete
      symbol without Level 3 authorization
-   — Accidental reproductions: covered first, photographed for archive
+   - Accidental reproductions: covered first, photographed for archive
      confirmation, then destroyed or segmented
 
 ═══════════════════════════════════════════════════════════════════════

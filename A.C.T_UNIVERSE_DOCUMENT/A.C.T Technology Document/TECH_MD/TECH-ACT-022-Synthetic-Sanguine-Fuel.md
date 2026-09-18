@@ -217,7 +217,7 @@ demands a victim, SSF may become a lie it resents.
 - Can hostile groups use stolen SSF canisters as bait?
   How many mechanical subjects rely on SSF enough to make it a site
   vulnerability?
-— Should SSF refusal trigger medical quarantine before containment alarm?
+- Should SSF refusal trigger medical quarantine before containment alarm?
 
 ---
 

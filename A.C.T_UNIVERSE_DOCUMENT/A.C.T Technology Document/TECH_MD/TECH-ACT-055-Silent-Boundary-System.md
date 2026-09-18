@@ -217,8 +217,8 @@ carried carefully.
   How many cover stories can a region carry before the public begins noticing
   the
   pattern of explanations?
-— Can folklore covers remain stable across generations without becoming worship?
-— What threshold turns a local mask into a structural normalcy operation?
+- Can folklore covers remain stable across generations without becoming worship?
+- What threshold turns a local mask into a structural normalcy operation?
   How often should staff assigned to public records read the true archive to
   prevent
   internal memory drift?

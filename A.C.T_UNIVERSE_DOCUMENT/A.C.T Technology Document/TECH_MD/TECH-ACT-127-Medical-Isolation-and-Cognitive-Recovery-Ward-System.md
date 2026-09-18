@@ -195,10 +195,10 @@ contain anything through them.
 - When does artifact-influence evaluation become containment rather than care?
   How much duty detail may a patient reveal before treatment violates another restriction
   set?
-— Should personnel be admitted for curiosity fixation before exposure is confirmed?
-— Can confidentiality protect the patient and still warn command quickly enough?
-— How long may isolation continue before it becomes part of the injury?
-— Does return-to-duty review measure recovery, obedience, or both?
+- Should personnel be admitted for curiosity fixation before exposure is confirmed?
+- Can confidentiality protect the patient and still warn command quickly enough?
+- How long may isolation continue before it becomes part of the injury?
+- Does return-to-duty review measure recovery, obedience, or both?
 
 ---
 

@@ -246,7 +246,7 @@ broadcast has already done too much.
   Should CSG and BWB share entropy data, or would linked systems create a
   larger
   failure surface?
-— Are dead-air pockets more dangerous in containment wings than in public cover sites?
+- Are dead-air pockets more dangerous in containment wings than in public cover sites?
 
 ---
 

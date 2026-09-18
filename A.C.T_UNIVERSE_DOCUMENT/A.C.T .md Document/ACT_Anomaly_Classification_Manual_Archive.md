@@ -56,8 +56,8 @@ form,
 **ENTITY_000_ITHYOS**.
 
 Supporting file:
-- `ACT_First_Vault_Document_ENTITY_000_ITHYOS.md`
-- `ACT_First_Vault_Document_ENTITY_000_ITHYOS.txt`
+- First Preserved Document, Archive Record
+- ACT First Vault Document ENTITY 000 ITHYOS, Archive Record
 - `ACT_First_Vault_Document_ENTITY_000_ITHYOS.pdf`
 
 ---
@@ -89,7 +89,7 @@ structural reality preservation.
 ## 3.2 Official A.C.T File Categories
 A.C.T recognizes two primary official documentation categories for anomaly records.
 
-### 3.2.1 `ACT_Anomaly_Standard_Format.md`
+### 3.2.1 FILE SAVING CONVENTION, Archive Record
 The **Standard Format** is the primary anomaly archive structure used for the majority of
 documented anomalies. It is
 used for stable, verified, and conventionally recordable cases where the anomaly can be described
@@ -124,7 +124,7 @@ The Standard Format answers the question:
 **What is this anomaly, how dangerous is it, how is it contained, and what
 is its place in A.C.T archive logic?**
 
-### 3.2.2 `ACT_Anomaly_RCT_Format.md`
+### 3.2.2 Research / Containment / Transformation Focus, Archive Record
 The **RCT Format** is a specialized anomaly record focused on three operational axes:
 
 - **CO** — Containment
@@ -152,8 +152,8 @@ its archival and operational importance justify
 dual-record status.
 
 Official templates preserved with Part Three:
-- `ACT_Anomaly_Standard_Format.md`
-- `ACT_Anomaly_RCT_Format.md`
+- FILE SAVING CONVENTION, Archive Record
+- Research / Containment / Transformation Focus, Archive Record
 
 ### 3.2.4 Site Integration in Anomaly Files
 Modern anomaly records are expected to identify not only what the anomaly is, but
@@ -578,8 +578,8 @@ observation, transformation, correspondence, sensor, and personal record structu
 learned what it learned without overloading the active containment file.
 
 Supporting file:
-- `ACT_Anomaly_Log_Categories_In_World_Explanation.md`
-- `ACT_Anomaly_Log_Categories_In_World_Explanation.txt`
+- IN-WORLD EXPLANATION — ANOMALY LOG CATEGORIES, Archive Record
+- ACT Anomaly Log Categories In World Explanation, Archive Record
 
 ---
 
@@ -592,8 +592,8 @@ anomaly record for:
 - **Title II:** ITHYOS, The World-Sleeper
 
 Supporting file:
-- `ACT_ITHYOS_Modern_Anomaly_File_Standard.md`
-- `ACT_ITHYOS_Modern_Anomaly_File_Standard.txt`
+- AFD-CH-000 — ITHYOS, THE WORLD-SLEEPER, Archive Record
+- ACT ITHYOS Modern Anomaly File Standard, Archive Record
 - `ACT_ITHYOS_Modern_Anomaly_File_Standard.pdf`
 
 This file demonstrates the transition from the early ENTITY archive era into full modern

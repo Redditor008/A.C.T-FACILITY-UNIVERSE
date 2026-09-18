@@ -122,15 +122,15 @@ entries:
   **Recovery Team Gamma-6** — Tactical Containment raid unit / Circus Monster and Amazoo
   Circus
   chain;
-— **Recovery Team Gamma-9** — dimensional/place recovery / Dark World Door chain;
-— **ERE Tactical Divers** — maritime recovery and hostile biological contact / Death-Angler chain;
-— **Chronometric Review Cell** — time-injury, loop, and clock anomaly review;
-— **Apocalyptic Continuity Desk** — world-ending or world-repeating hazard review;
-— **Predatory Humanoid Review** — humanoid predator incident review;
-— **Acoustic Review Office** — sound-linked hazard and biohazard event review;
-— **Artificial Cognition Desk** — digital or internal-AI subject review;
-— **Tactical Review Desk** — anomalous weapon and high-force artifact review;
-— **Temporal Displacement Review** — future-origin or displacement evidence review.
+- **Recovery Team Gamma-9** — dimensional/place recovery / Dark World Door chain;
+- **ERE Tactical Divers** — maritime recovery and hostile biological contact / Death-Angler chain;
+- **Chronometric Review Cell** — time-injury, loop, and clock anomaly review;
+- **Apocalyptic Continuity Desk** — world-ending or world-repeating hazard review;
+- **Predatory Humanoid Review** — humanoid predator incident review;
+- **Acoustic Review Office** — sound-linked hazard and biohazard event review;
+- **Artificial Cognition Desk** — digital or internal-AI subject review;
+- **Tactical Review Desk** — anomalous weapon and high-force artifact review;
+- **Temporal Displacement Review** — future-origin or displacement evidence review.
 
 This list is a seed list, not a full registry. It does not automatically
 create new unit dossiers.
@@ -294,9 +294,9 @@ A.C.T will not:
 
 ### 5.15 Related Records
 
-- `ACT_Divisions_Personnel_and_Operational_Life_Archive.md`
-- `ACT_Anomaly_Log_Categories_In_World_Explanation.md`
-- `ACT_Complete_Designation_and_Class_Reference.md`
+- Divisions, Personnel Roles, and Operational Life, Archive Record
+- IN-WORLD EXPLANATION — ANOMALY LOG CATEGORIES, Archive Record
+- Complete Designation and Class Reference, Archive Record
 - Standing future SFU register entries
 - Transformation Review Board determinations
 - GOI dossiers for recovered outside systems

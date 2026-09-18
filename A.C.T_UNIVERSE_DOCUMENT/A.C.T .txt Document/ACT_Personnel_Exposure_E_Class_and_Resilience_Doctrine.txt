@@ -122,15 +122,15 @@ For that reason:
 - E-Class assignment must be explained in task-specific language when the individual is capable
 of understanding the
 assignment;
-— refusal must be recorded as evidence, even where refusal does not halt the
+- refusal must be recorded as evidence, even where refusal does not halt the
 assignment;
-— refusal by an Excommunicated Class subject may trigger command review, not automatic escalation
+- refusal by an Excommunicated Class subject may trigger command review, not automatic escalation
 to cruelty;
-— high-risk exposure cannot be approved by the same officer who benefits from the
+- high-risk exposure cannot be approved by the same officer who benefits from the
 exposure result unless a second
 approving authority is present;
-— personnel who cannot remember consenting require immediate review before further use;
-— no file may imply that excommunication removes the fact that the subject is
+- personnel who cannot remember consenting require immediate review before further use;
+- no file may imply that excommunication removes the fact that the subject is
 still a person.
 
 A.C.T does not call coerced obedience consent. A.C.T may still proceed under Excommunicated Class
@@ -309,8 +309,8 @@ The following are prohibited under this doctrine:
 - pushing BRUISED E-Class personnel into high-risk duty to meet schedule pressure without recording
 the institutional
 violation;
-— keeping transformed personnel on payroll without identity review;
-— calling a person "asset" in medical-care files unless the person is no longer
+- keeping transformed personnel on payroll without identity review;
+- calling a person "asset" in medical-care files unless the person is no longer
 legally or cognitively addressable by
 name and O5 has sealed the reason.
 

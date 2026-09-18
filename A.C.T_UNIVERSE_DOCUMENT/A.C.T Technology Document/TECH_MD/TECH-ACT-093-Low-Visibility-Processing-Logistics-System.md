@@ -194,8 +194,8 @@ around it also holds.
 - Can staff arrival patterns reveal the tempo of witness processing below?
   When should a movement be delayed rather than forced into a weak cover
   reason?
-— How much emergency sealing can the campus explain before outsiders remember it?
-— Should archive transfers use agricultural shipping rhythms or separate service routes?
+- How much emergency sealing can the campus explain before outsiders remember it?
+- Should archive transfers use agricultural shipping rhythms or separate service routes?
 
 ---
 

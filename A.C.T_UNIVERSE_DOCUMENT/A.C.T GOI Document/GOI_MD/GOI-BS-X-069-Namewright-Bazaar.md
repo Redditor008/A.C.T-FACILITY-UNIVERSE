@@ -522,13 +522,13 @@ used as a substitute for victim restoration files.
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-BS-T-027-Anstrall-Market.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-BS-P-067-Candle-Under-Exchange.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-BS-N-068-Velvet-Provenance-House.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/NEMNOLIA-004-Series-Amnestic-Archive.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md`
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- GOI-BS-T-027 — Anstrall Market, Group of Interest Registry
+- GOI-BS-P-067 — Candle Under Exchange, Group of Interest Registry
+- GOI-BS-N-068 — Velvet Provenance House, Group of Interest Registry
+- 004-Series Amnestic Compound Reference, Archive Record
+- Normalcy Management and Public Narrative Doctrine, Archive Record
 - Restricted identity, witness, missing-person, registry, contract, amnestic, court, and survivor-exploitation files
   held under Central Archive routing.
 

@@ -433,8 +433,8 @@ priorities for the floor include:
 
 - `ACT-SITE-01-US-W — Redwood Veil Complex` Site Dossier (Floor Register)
 - `ACT-SITE-01-US-W — F-2 Deep Object and Memetic-Component Vaults` Floor Dossier
-- `ACT_Global_Site_Registry.md` / `.txt`
-- `ACT_Site_Doctrine_and_Installation_Structure.md` / `.txt`
+- Global Site Registry, Archive Record / `.txt`
+- Site Doctrine, Site Classification, and Installation Structure, Archive Record / `.txt`
 - Redwood Veil Annex Register (clearance-gated)
 - AFD-OB-801 resident file and log dossiers (clearance-gated)
 

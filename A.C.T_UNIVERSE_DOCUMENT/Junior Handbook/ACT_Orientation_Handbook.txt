@@ -97,7 +97,7 @@ Mesh that doesn't require a power supply."*
 *   Physical Containment: Using "Boxes" (Small, Medium, Massive) to physically isolate an object.
 * Perceptual Containment: Using the ARM (Anti Reality Mesh) to hide our Sites from
 the world.
-— Social Containment: Using "Politeness Protocols" to ensure that sentient subjects feel like guests
+- Social Containment: Using "Politeness Protocols" to ensure that sentient subjects feel like guests
 rather than
 prisoners.
 
@@ -404,7 +404,7 @@ of emotion. We do not "pity" the anomaly, nor
 do we "hate" it. We treat every subject as a set of variables that
 must be balanced. If we allow our feelings to
 dictate the change, we risk a "Narrative Feedback Loop" that can kill us all.
-— Why it is GOOD: The ultimate objective is the prevention of suffering. We
+- Why it is GOOD: The ultimate objective is the prevention of suffering. We
 transform the Paper Flower (AFD-NB-204)
 from a child's tragedy into a staff blessing. We transform NEMNOLIA (AFD-NB-004) from a
 memory-killer into the very

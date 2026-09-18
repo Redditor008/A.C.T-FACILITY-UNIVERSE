@@ -333,8 +333,8 @@ Recommended title formatting:
 - keep the designation exact
 
 Example:
-- `I-AM-A-Test-AFD-OB-001.md`
-- `I-AM-A-Test-AFD-OB-001.txt`
+- I-AM-A-Test-AFD-OB-001, Archive Record
+- I AM A Test AFD OB 001, Archive Record
 
 ---
 
@@ -376,5 +376,5 @@ Hazard · `NB` Non-Natural Bio Hazard · `?.H` Shifting Hazard
 ## EXAMPLE TEST ANOMALY
 
 Reference example anomaly created for format testing:
-- `I-AM-A-Test-AFD-OB-001.md`
-- `I-AM-A-Test-AFD-OB-001.txt`
+- I-AM-A-Test-AFD-OB-001, Archive Record
+- I AM A Test AFD OB 001, Archive Record

@@ -98,7 +98,7 @@ VERIFICATION RECORD:
    - Composition: hand-crafted clay, Egyptian potting tradition
    - Anomalous property: internal extradimensional reservoir or
      transmutation process permitting clean, potable water manifestation
-   — Trigger: kinetic tilt / intention to pour
+   - Trigger: kinetic tilt / intention to pour
 
 ═══════════════════════════════════════════════════════════════════════
       SECTION 003 — ORIGIN CORRELATION — GIFT OF THE HIDDEN NILE
@@ -140,13 +140,13 @@ VERIFICATION RECORD:
    - After a full 100 ml pour, the jug enters a Cooldown State of
    1 to 3
      hours and will not produce fluid even if tilted inverted
-   — Partial pours shorten the cooldown proportionally
+   - Partial pours shorten the cooldown proportionally
 
 PARTIAL-CYCLE DATA:
 
    - 50% to 70% pour (50-70 ml): cooldown reduced to 45 minutes to
      2 hours, 15 minutes
-   — Pours under 50%: significantly shorter recovery times, permitting
+   - Pours under 50%: significantly shorter recovery times, permitting
      frequent small-volume use
 
 USE DISCIPLINE: All water removed must be measured and logged to ensure
@@ -173,7 +173,7 @@ APPROVED USES:
    - Emergency hydration for Site-01 administrative staff
    - Maintenance hydration for high-value botanical anomalies (e.g.,
      NEMNOLIA)
-   — The jug "refuses" to pour if the recipient is hostile toward the
+   - The jug "refuses" to pour if the recipient is hostile toward the
      artifact — the water simply will not flow over the rim
 
 ═══════════════════════════════════════════════════════════════════════
@@ -195,7 +195,7 @@ SERVICE RECORD:
 
    - During the "Great Drought" of 1952 in [ REDACTED ], the jug maintained
      the primary NEMNOLIA bloom at Site-04 when the local water lines failed
-   — Its reliability is assessed as its greatest asset — a working artifact
+   - Its reliability is assessed as its greatest asset — a working artifact
      that has out-served every contingency plan written around it
 
 ═══════════════════════════════════════════════════════════════════════

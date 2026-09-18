@@ -524,15 +524,14 @@ aftercare or family-notification review.
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-GV-X-060-Office-for-Witness-Continuance.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/NEMNOLIA-004-Series-Amnestic-Archive.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational
-  Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md`
-— `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md`
-— `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md`
-— Restricted amnestic, witness, memory-shard, memorial, missing-person, and post-incident identity case chains held
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- GOI-GV-X-060 — Office for Witness Continuance, Group of Interest Registry
+- 004-Series Amnestic Compound Reference, Archive Record
+- AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM, Operational Form
+- WITNESS STATEMENT AND TESTIMONY FORM, Operational Form
+- Normalcy Management and Public Narrative Doctrine, Archive Record
+- Restricted amnestic, witness, memory-shard, memorial, missing-person, and post-incident identity case chains held
   under Central Archive routing.
 
 ### Dual Filing

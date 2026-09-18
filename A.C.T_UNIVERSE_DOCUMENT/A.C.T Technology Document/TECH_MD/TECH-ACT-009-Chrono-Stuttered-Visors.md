@@ -79,8 +79,8 @@ Approved uses include:
   temporal vault monitoring where a moving part or liquid state may imprint on
   the
   viewer;
-— training drills for personnel learning delayed observation discipline;
-— archive review of footage that cannot be watched raw.
+- training drills for personnel learning delayed observation discipline;
+- archive review of footage that cannot be watched raw.
 
 ---
 

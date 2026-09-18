@@ -318,7 +318,7 @@ The following are prohibited under this doctrine:
   the
   institutional
   violation;
-— keeping transformed personnel on payroll without identity review;
+- keeping transformed personnel on payroll without identity review;
   calling a person "asset" in medical-care files unless the person is no longer
   legally
   or cognitively addressable by
@@ -328,9 +328,9 @@ The following are prohibited under this doctrine:
 
 ### 2.13 Related Records
 
-- `ACT_Divisions_Personnel_and_Operational_Life_Archive.md`
-- `ACT_Universe_Part_6_Facility_Divisions_Personnel_Roles_and_Operational_Life.md`
-- `NEMNOLIA-004-Series-Amnestic-Archive.md`
+- Divisions, Personnel Roles, and Operational Life, Archive Record
+- Part Six, Archive Record
+- 004-Series Amnestic Compound Reference, Archive Record
 - Subject Care Division anomaly records
 - Medical Care Division exposure logs
 - Future Access and Egress Ledger, if created

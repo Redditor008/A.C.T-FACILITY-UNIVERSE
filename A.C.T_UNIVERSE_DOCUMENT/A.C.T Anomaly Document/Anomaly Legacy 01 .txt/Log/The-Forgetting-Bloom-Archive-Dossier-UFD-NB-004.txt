@@ -123,7 +123,7 @@ OBSERVED PROPERTIES (as recorded in the UFD intake):
    - Its golden sap directly attacks memory continuity
    - Subjects may remain conscious while losing recent or long-term memory
      structure
-   — Overexposure causes severe biological damage in addition to memory loss
+   - Overexposure causes severe biological damage in addition to memory loss
 
 ═══════════════════════════════════════════════════════════════════════
           SECTION 004 — EARLY CONCLUSION AND INTAKE JUDGMENT

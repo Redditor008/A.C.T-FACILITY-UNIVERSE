@@ -11,12 +11,17 @@
 ## Folder split
 
 ```text
-GOI_MD/ <- Authoritative Markdown records, controlled forms, planning material, and recovered-document holding
+Group of Interest Registry collection, Central Archive <- Authoritative Markdown records, controlled forms, planning
+material, and recovered-document holding
 folder
-GOI_TXT/  <- Plain-text reading copies with the same filename base
+Group of Interest Registry collection, plain-text reading copies <- Plain-text reading copies with the
+same filename
+base
 ```
 
-Every individual GOI dossier in `GOI_MD/` has a matching `.txt` reading copy in `GOI_TXT/`.
+Every individual GOI dossier in `Group of Interest Registry collection, Central Archive` has a
+matching `.txt` reading
+copy in `Group of Interest Registry collection, plain-text reading copies`.
 Markdown remains the
 authoritative editable archive source.
 
@@ -47,7 +52,7 @@ Each dossier also uses the same header-field order, archive-control fields, sect
 rule, and
 in-world A.C.T archive voice.
 
-The controlled form is maintained at [00_GOI_Record_Template.md](00_GOI_Record_Template.md). It is the required
+The controlled form is maintained at [CONTROLLED RECORD FORM](00_GOI_Record_Template.md). It is the required
 starting structure for every future original dossier.
 
 ---
@@ -60,18 +65,18 @@ These dossiers document the three Groups of Interest already written as lore in 
 canonical registry:
 
 ```text
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_GOI_Registry_and_External_Threat_Doctrine_Archive.md
+GOI Registry, Rival Powers, and External Threat Doctrine, Archive Record
 ```
 
 - `GOI-GV-P-001` — Government Anti Anomaly / GAA
-  - [Markdown dossier](GOI-GV-P-001-Government-Anti-Anomaly-GAA.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-GV-P-001-Government-Anti-Anomaly-GAA.txt)
+  - [GOI-GV-P-001 — Government Anti Anomaly GAA](GOI-GV-P-001-Government-Anti-Anomaly-GAA.md)
+  - [GOI-GV-P-001 — Government Anti Anomaly GAA](../GOI_TXT/GOI-GV-P-001-Government-Anti-Anomaly-GAA.txt)
 - `GOI-ML-X-014` — Anti-Global Anomaly / A-GA
-  - [Markdown dossier](GOI-ML-X-014-Anti-Global-Anomaly-A-GA.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-ML-X-014-Anti-Global-Anomaly-A-GA.txt)
+  - [GOI-ML-X-014 — Anti Global Anomaly A GA, Group of Interest Registry](GOI-ML-X-014-Anti-Global-Anomaly-A-GA.md)
+  - [GOI-ML-X-014 — Anti Global Anomaly A GA](../GOI_TXT/GOI-ML-X-014-Anti-Global-Anomaly-A-GA.txt)
 - `GOI-BS-T-027` — Anstrall Market
-  - [Markdown dossier](GOI-BS-T-027-Anstrall-Market.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-BS-T-027-Anstrall-Market.txt)
+  - [GOI-BS-T-027 — Anstrall Market, Group of Interest Registry](GOI-BS-T-027-Anstrall-Market.md)
+  - [GOI-BS-T-027 — Anstrall Market, Group of Interest Registry](../GOI_TXT/GOI-BS-T-027-Anstrall-Market.txt)
 
 Their established designations and classification stacks are retained. Their individual records provide detailed
 in-world A.C.T operational treatment: identity, membership, organization, assets, holdings, jurisdiction, history with
@@ -84,86 +89,86 @@ from the
 twenty provisional roadmap candidates.
 
 - `GOI-CU-X-048` — Children of the Deep / CoTD
-  - [Markdown dossier](GOI-CU-X-048-Children-of-the-Deep-CoTD.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-CU-X-048-Children-of-the-Deep-CoTD.txt)
+  - [GOI-CU-X-048 — Children of the Deep CoTD, Group of Interest Registry](GOI-CU-X-048-Children-of-the-Deep-CoTD.md)
+  - [GOI-CU-X-048 — Children of the Deep CoTD](../GOI_TXT/GOI-CU-X-048-Children-of-the-Deep-CoTD.txt)
 - `GOI-CP-B-049` — DREAM .INC / DREAM
-  - [Markdown dossier](GOI-CP-B-049-DREAM-INC.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-CP-B-049-DREAM-INC.txt)
+  - [GOI-CP-B-049 — DREAM INC, Group of Interest Registry](GOI-CP-B-049-DREAM-INC.md)
+  - [GOI-CP-B-049 — DREAM INC, Group of Interest Registry](../GOI_TXT/GOI-CP-B-049-DREAM-INC.txt)
 - `GOI-ML-X-050` — Liberty Freedoms / L.F.
-  - [Markdown dossier](GOI-ML-X-050-Liberty-Freedoms-LF.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-ML-X-050-Liberty-Freedoms-LF.txt)
+  - [GOI-ML-X-050 — Liberty Freedoms LF, Group of Interest Registry](GOI-ML-X-050-Liberty-Freedoms-LF.md)
+  - [GOI-ML-X-050 — Liberty Freedoms LF, Group of Interest Registry](../GOI_TXT/GOI-ML-X-050-Liberty-Freedoms-LF.txt)
 - `GOI-HY-U-051` — Mysterious Guild / The Guild
-  - [Markdown dossier](GOI-HY-U-051-Mysterious-Guild.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-HY-U-051-Mysterious-Guild.txt)
+  - [GOI-HY-U-051 — Mysterious Guild, Group of Interest Registry](GOI-HY-U-051-Mysterious-Guild.md)
+  - [GOI-HY-U-051 — Mysterious Guild, Group of Interest Registry](../GOI_TXT/GOI-HY-U-051-Mysterious-Guild.txt)
 - `GOI-HY-X-052` — Amazoo Circus / Amazoo
-  - [Markdown dossier](GOI-HY-X-052-Amazoo-Circus.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-HY-X-052-Amazoo-Circus.txt)
+  - [GOI-HY-X-052 — Amazoo Circus, Group of Interest Registry](GOI-HY-X-052-Amazoo-Circus.md)
+  - [GOI-HY-X-052 — Amazoo Circus, Group of Interest Registry](../GOI_TXT/GOI-HY-X-052-Amazoo-Circus.txt)
 - `GOI-HY-W-053` — Missing 404 Watch Tower / M404-WT
-  - [Markdown dossier](GOI-HY-W-053-Missing-404-Watch-Tower.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-HY-W-053-Missing-404-Watch-Tower.txt)
+  - [GOI-HY-W-053 — Missing 404 Watch Tower, Group of Interest Registry](GOI-HY-W-053-Missing-404-Watch-Tower.md)
+  - [GOI-HY-W-053 — Missing 404 Watch Tower](../GOI_TXT/GOI-HY-W-053-Missing-404-Watch-Tower.txt)
 - `GOI-CP-P-054` — Lullaby Works / LW
-  - [Markdown dossier](GOI-CP-P-054-Lullaby-Works.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-CP-P-054-Lullaby-Works.txt)
+  - [GOI-CP-P-054 — Lullaby Works, Group of Interest Registry](GOI-CP-P-054-Lullaby-Works.md)
+  - [GOI-CP-P-054 — Lullaby Works, Group of Interest Registry](../GOI_TXT/GOI-CP-P-054-Lullaby-Works.txt)
 - `GOI-CP-W-055` — Cairn & Lintel / C&L
-  - [Markdown dossier](GOI-CP-W-055-Cairn-and-Lintel.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-CP-W-055-Cairn-and-Lintel.txt)
+  - [GOI-CP-W-055 — Cairn and Lintel, Group of Interest Registry](GOI-CP-W-055-Cairn-and-Lintel.md)
+  - [GOI-CP-W-055 — Cairn and Lintel, Group of Interest Registry](../GOI_TXT/GOI-CP-W-055-Cairn-and-Lintel.txt)
 - `GOI-CP-P-056` — Saint-Vera Restoration Concern / SVRC
-  - [Markdown dossier](GOI-CP-P-056-Saint-Vera-Restoration-Concern.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-CP-P-056-Saint-Vera-Restoration-Concern.txt)
+  - [GOI-CP-P-056 — Saint Vera Restoration Concern](GOI-CP-P-056-Saint-Vera-Restoration-Concern.md)
+  - [GOI-CP-P-056 — Saint Vera Restoration Concern](../GOI_TXT/GOI-CP-P-056-Saint-Vera-Restoration-Concern.txt)
 - `GOI-GV-W-057` — Bureau of Unquiet Borders / BUB
-  - [Markdown dossier](GOI-GV-W-057-Bureau-of-Unquiet-Borders.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-GV-W-057-Bureau-of-Unquiet-Borders.txt)
+  - [GOI-GV-W-057 — Bureau of Unquiet Borders, Group of Interest Registry](GOI-GV-W-057-Bureau-of-Unquiet-Borders.md)
+  - [GOI-GV-W-057 — Bureau of Unquiet Borders](../GOI_TXT/GOI-GV-W-057-Bureau-of-Unquiet-Borders.txt)
 - `GOI-GV-N-058` — Crown Office of Ash Keys / COAK
-  - [Markdown dossier](GOI-GV-N-058-Crown-Office-of-Ash-Keys.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-GV-N-058-Crown-Office-of-Ash-Keys.txt)
+  - [GOI-GV-N-058 — Crown Office of Ash Keys, Group of Interest Registry](GOI-GV-N-058-Crown-Office-of-Ash-Keys.md)
+  - [GOI-GV-N-058 — Crown Office of Ash Keys](../GOI_TXT/GOI-GV-N-058-Crown-Office-of-Ash-Keys.txt)
 - `GOI-GV-P-059` — Grey Harbor Civil Rescue Directorate / GHCRD
-  - [Markdown dossier](GOI-GV-P-059-Grey-Harbor-Civil-Rescue-Directorate.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-GV-P-059-Grey-Harbor-Civil-Rescue-Directorate.txt)
+  - [GOI-GV-P-059 — Grey Harbor Civil Rescue Directorate](GOI-GV-P-059-Grey-Harbor-Civil-Rescue-Directorate.md)
+  - GOI-GV-P-059 — Grey Harbor Civil Rescue Directorate
 - `GOI-GV-X-060` — Office for Witness Continuance / OWC
-  - [Markdown dossier](GOI-GV-X-060-Office-for-Witness-Continuance.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-GV-X-060-Office-for-Witness-Continuance.txt)
+  - [GOI-GV-X-060 — Office for Witness Continuance](GOI-GV-X-060-Office-for-Witness-Continuance.md)
+  - [GOI-GV-X-060 — Office for Witness Continuance](../GOI_TXT/GOI-GV-X-060-Office-for-Witness-Continuance.txt)
 - `GOI-CU-P-061` — The Kindly Molt / TKM
-  - [Markdown dossier](GOI-CU-P-061-The-Kindly-Molt.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-CU-P-061-The-Kindly-Molt.txt)
+  - [GOI-CU-P-061 — The Kindly Molt, Group of Interest Registry](GOI-CU-P-061-The-Kindly-Molt.md)
+  - [GOI-CU-P-061 — The Kindly Molt, Group of Interest Registry](../GOI_TXT/GOI-CU-P-061-The-Kindly-Molt.txt)
 - `GOI-CU-X-062` — Choir of the Unforgotten Name / CUN
-  - [Markdown dossier](GOI-CU-X-062-Choir-of-the-Unforgotten-Name.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-CU-X-062-Choir-of-the-Unforgotten-Name.txt)
+  - [GOI-CU-X-062 — Choir of the Unforgotten Name](GOI-CU-X-062-Choir-of-the-Unforgotten-Name.md)
+  - [GOI-CU-X-062 — Choir of the Unforgotten Name](../GOI_TXT/GOI-CU-X-062-Choir-of-the-Unforgotten-Name.txt)
 - `GOI-CU-N-063` — Keepers of the Ninth Reliquary / KNR
-  - [Markdown dossier](GOI-CU-N-063-Keepers-of-the-Ninth-Reliquary.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-CU-N-063-Keepers-of-the-Ninth-Reliquary.txt)
+  - [GOI-CU-N-063 — Keepers of the Ninth Reliquary](GOI-CU-N-063-Keepers-of-the-Ninth-Reliquary.md)
+  - [GOI-CU-N-063 — Keepers of the Ninth Reliquary](../GOI_TXT/GOI-CU-N-063-Keepers-of-the-Ninth-Reliquary.txt)
 - `GOI-CU-P-064` — Last Bell Congregation / LBC
-  - [Markdown dossier](GOI-CU-P-064-Last-Bell-Congregation.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-CU-P-064-Last-Bell-Congregation.txt)
+  - [GOI-CU-P-064 — Last Bell Congregation, Group of Interest Registry](GOI-CU-P-064-Last-Bell-Congregation.md)
+  - [GOI-CU-P-064 — Last Bell Congregation](../GOI_TXT/GOI-CU-P-064-Last-Bell-Congregation.txt)
 - `GOI-CU-X-065` — Mercy of the Quiet Sun / MQS
-  - [Markdown dossier](GOI-CU-X-065-Mercy-of-the-Quiet-Sun.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-CU-X-065-Mercy-of-the-Quiet-Sun.txt)
+  - [GOI-CU-X-065 — Mercy of the Quiet Sun, Group of Interest Registry](GOI-CU-X-065-Mercy-of-the-Quiet-Sun.md)
+  - [GOI-CU-X-065 — Mercy of the Quiet Sun](../GOI_TXT/GOI-CU-X-065-Mercy-of-the-Quiet-Sun.txt)
 - `GOI-CU-W-066` — Archivists of the Final Dawn / AFDN
-  - [Markdown dossier](GOI-CU-W-066-Archivists-of-the-Final-Dawn.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-CU-W-066-Archivists-of-the-Final-Dawn.txt)
+  - [GOI-CU-W-066 — Archivists of the Final Dawn](GOI-CU-W-066-Archivists-of-the-Final-Dawn.md)
+  - [GOI-CU-W-066 — Archivists of the Final Dawn](../GOI_TXT/GOI-CU-W-066-Archivists-of-the-Final-Dawn.txt)
 - `GOI-BS-P-067` — Candle-Under Exchange / CUE
-  - [Markdown dossier](GOI-BS-P-067-Candle-Under-Exchange.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-BS-P-067-Candle-Under-Exchange.txt)
+  - [GOI-BS-P-067 — Candle Under Exchange, Group of Interest Registry](GOI-BS-P-067-Candle-Under-Exchange.md)
+  - [GOI-BS-P-067 — Candle Under Exchange](../GOI_TXT/GOI-BS-P-067-Candle-Under-Exchange.txt)
 - `GOI-BS-N-068` — Velvet Provenance House / VPH
-  - [Markdown dossier](GOI-BS-N-068-Velvet-Provenance-House.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-BS-N-068-Velvet-Provenance-House.txt)
+  - [GOI-BS-N-068 — Velvet Provenance House, Group of Interest Registry](GOI-BS-N-068-Velvet-Provenance-House.md)
+  - [GOI-BS-N-068 — Velvet Provenance House](../GOI_TXT/GOI-BS-N-068-Velvet-Provenance-House.txt)
 - `GOI-BS-X-069` — Namewright Bazaar / NBZ
-  - [Markdown dossier](GOI-BS-X-069-Namewright-Bazaar.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-BS-X-069-Namewright-Bazaar.txt)
+  - [GOI-BS-X-069 — Namewright Bazaar, Group of Interest Registry](GOI-BS-X-069-Namewright-Bazaar.md)
+  - [GOI-BS-X-069 — Namewright Bazaar, Group of Interest Registry](../GOI_TXT/GOI-BS-X-069-Namewright-Bazaar.txt)
 - `GOI-BS-W-070` — Saint Morrow Passage / SMP
-  - [Markdown dossier](GOI-BS-W-070-Saint-Morrow-Passage.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-BS-W-070-Saint-Morrow-Passage.txt)
+  - [GOI-BS-W-070 — Saint Morrow Passage, Group of Interest Registry](GOI-BS-W-070-Saint-Morrow-Passage.md)
+  - [GOI-BS-W-070 — Saint Morrow Passage](../GOI_TXT/GOI-BS-W-070-Saint-Morrow-Passage.txt)
 - `GOI-HY-P-071` — Mercy Lock Institute / MLI
-  - [Markdown dossier](GOI-HY-P-071-Mercy-Lock-Institute.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-HY-P-071-Mercy-Lock-Institute.txt)
+  - [GOI-HY-P-071 — Mercy Lock Institute, Group of Interest Registry](GOI-HY-P-071-Mercy-Lock-Institute.md)
+  - [GOI-HY-P-071 — Mercy Lock Institute](../GOI_TXT/GOI-HY-P-071-Mercy-Lock-Institute.txt)
 - `GOI-HY-X-072` — Iron Meridian Authority / IMA
-  - [Markdown dossier](GOI-HY-X-072-Iron-Meridian-Authority.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-HY-X-072-Iron-Meridian-Authority.txt)
+  - [GOI-HY-X-072 — Iron Meridian Authority, Group of Interest Registry](GOI-HY-X-072-Iron-Meridian-Authority.md)
+  - [GOI-HY-X-072 — Iron Meridian Authority](../GOI_TXT/GOI-HY-X-072-Iron-Meridian-Authority.txt)
 - `GOI-HY-W-073` — Lantern Accord / LTA
-  - [Markdown dossier](GOI-HY-W-073-Lantern-Accord.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-HY-W-073-Lantern-Accord.txt)
+  - [GOI-HY-W-073 — Lantern Accord, Group of Interest Registry](GOI-HY-W-073-Lantern-Accord.md)
+  - [GOI-HY-W-073 — Lantern Accord, Group of Interest Registry](../GOI_TXT/GOI-HY-W-073-Lantern-Accord.txt)
 - `GOI-HY-N-074` — Ninefold Ark / NFA
-  - [Markdown dossier](GOI-HY-N-074-Ninefold-Ark.md)
-  - [Plain-text reading copy](../GOI_TXT/GOI-HY-N-074-Ninefold-Ark.txt)
+  - [GOI-HY-N-074 — Ninefold Ark, Group of Interest Registry](GOI-HY-N-074-Ninefold-Ark.md)
+  - [GOI-HY-N-074 — Ninefold Ark, Group of Interest Registry](../GOI_TXT/GOI-HY-N-074-Ninefold-Ark.txt)
 
 Children of the Deep is a Cultic / Negative / Regional / Practitioner group
 assessed at Threat Level 5. Its primary
@@ -458,16 +463,17 @@ dossier pending later registry-integration work.
 
 ## Planning material - not individual GOI dossiers
 
-- [00_GOI_Development_Roadmap.md](00_GOI_Development_Roadmap.md) — Retained twenty-slot structural scaffold for GOI
+- Twenty original core-GOI concepts, prepared for one-at-a-time development — Retained twenty-slot structural scaffold
+  for GOI
   category planning; listed names/designations are not approved GOIs.
-— [00_GOI_Record_Template.md](00_GOI_Record_Template.md) — Universal controlled in-world archive form for a future
+- [CONTROLLED RECORD FORM](00_GOI_Record_Template.md) — Universal controlled in-world archive form for a future
   approved original GOI dossier.
-  [00_GOI_Recovered_Document_Format.md](00_GOI_Recovered_Document_Format.md) — Controlled in-world format for
+  GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE — Controlled in-world format for
   recovered
   or intercepted GOI-origin documents.
   [Recovered_Document_Records/](Recovered_Document_Records/) — Holding folder for future recovered GOI document
   records.
-— `README.md` — This folder guide.
+- What the A.C.T. Universe Is, Archive Record — This folder guide.
 
 The twenty roadmap/scaffold entries remain in the master roadmap only. They do **not** have
 individual GOI files, and
@@ -501,8 +507,10 @@ Central Archive issues a registry creation order for the GOI or GOIs. A selected
 GOI may come from an anomaly mention,
 a new approved name, or a rewritten scaffold slot; scaffold names are not assumed
 approved. Each selected new GOI
-receives one detailed Markdown dossier in `GOI_MD/` and one matching plain-text reading copy in
-`GOI_TXT/`. Each pair
+receives one detailed Markdown dossier in `Group of Interest Registry collection, Central Archive` and
+one matching
+plain-text reading copy in
+`Group of Interest Registry collection, plain-text reading copies`. Each pair
 is checked for universal format, continuity, classification, originality, tone, and requested revisions. No extra
 unselected original GOI dossier pair is created from the scaffold list or from scan
 results without Central Archive
@@ -519,15 +527,15 @@ When a roadmap item is selected for full creation, its new pair will use
 this pattern:
 
 ```text
-GOI_MD/NN-Common-Name-GOI-XX-A-XXX.md
-GOI_TXT/NN-Common-Name-GOI-XX-A-XXX.txt
+Group of Interest Registry collection, Central ArchiveNN-Common-Name-GOI-XX-A-XXX.md
+Group of Interest Registry collection, plain-text reading copiesNN-Common-Name-GOI-XX-A-XXX.txt
 ```
 
 Example only:
 
 ```text
-GOI_MD/01-Office-of-Public-Continuity-GOI-GV-N-028.md
-GOI_TXT/01-Office-of-Public-Continuity-GOI-GV-N-028.txt
+Group of Interest Registry collection, Central Archive01-Office-of-Public-Continuity-GOI-GV-N-028.md
+Group of Interest Registry collection, plain-text reading copies01-Office-of-Public-Continuity-GOI-GV-N-028.txt
 ```
 
 The filename base and registry designation must match the approved roadmap slot unless Central

@@ -210,8 +210,8 @@ Status values:
 - **MEMETIC RESTRICTED** — may replicate, compel, recruit, or infect through perception or repetition;
   **TECHNICAL QUARANTINE** — digital or machine-readable components may execute, call outward, rewrite, or
   sync;
-— **RITUAL QUARANTINE** — reading, recitation, performance, or copying may complete a ritual effect;
-— **SEALED** — no general reproduction authorized.
+- **RITUAL QUARANTINE** — reading, recitation, performance, or copying may complete a ritual effect;
+- **SEALED** — no general reproduction authorized.
 
 ---
 
@@ -402,12 +402,12 @@ A.C.T will not:
 
 ### 15. Related Records
 
-- `00_GOI_Record_Template.md`
-- `ACT_GOI_Registry_and_External_Threat_Doctrine_Archive.md`
-- `ACT_Anomaly_Log_Categories_In_World_Explanation.md`
-- `ACT_Complete_Designation_and_Class_Reference.md`
-- GOI dossiers in `GOI_MD/`
-- Plain-text reading copies in `GOI_TXT/`
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI Registry, Rival Powers, and External Threat Doctrine, Archive Record
+- IN-WORLD EXPLANATION — ANOMALY LOG CATEGORIES, Archive Record
+- Complete Designation and Class Reference, Archive Record
+- GOI dossiers in `Group of Interest Registry collection, Central Archive`
+- Plain-text reading copies in `Group of Interest Registry collection, plain-text reading copies`
 
 ---
 

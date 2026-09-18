@@ -28,7 +28,8 @@ for those slots.
 
 This Markdown roadmap is retained because deleting the scaffold would lose useful structure. Its
 matching plain-text
-reading copy is kept in GOI_TXT/00_GOI_Development_Roadmap.txt. The same Markdown-plus-TXT pairing will be used for
+reading copy is kept in Group of Interest Registry collection, plain-text reading
+copies00_GOI_Development_Roadmap.txt. The same Markdown-plus-TXT pairing will be used for
 every later approved individual GOI dossier.
 
 A scaffold slot does not become final canon merely because it appears in this
@@ -73,18 +74,18 @@ anomaly-format, log-format, technology, orientation, and GOI-registry material.
 
 The most important source foundations are:
 
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_GOI_Registry_and_External_Threat_Doctrine_Archive.md
+GOI Registry, Rival Powers, and External Threat Doctrine, Archive Record
 A.C.T_UNIVERSE_DOCUMENT/A.C.T .md
 Document/Part/ACT_Universe_Part_4_GOI_Registry_Rival_Powers_and_External_Threat_Doctrine.md
-A.C.T_UNIVERSE_DOCUMENT/'A History of Anomaly Containment Transformation' BOOK.md
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Global_Site_Registry.md
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Site_Map_and_Jurisdiction_Doctrine.md
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Site_Doctrine_and_Installation_Structure.md
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Anomaly_Classification_Manual_Archive.md
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Anomaly_Log_Categories_In_World_Explanation.md
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Internal_Structure_and_Reality_Doctrine_Archive.md
-A.C.T_UNIVERSE_DOCUMENT/ACT MAIN STORY/The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md
-A.C.T_UNIVERSE_DOCUMENT/Junior Handbook/ACT_Orientation_Handbook.md
+Title Statement, Archive Record
+Global Site Registry, Archive Record
+Site Map and Jurisdiction Doctrine, Archive Record
+Site Doctrine, Site Classification, and Installation Structure, Archive Record
+Anomaly Classification Manual and File Standard, Archive Record
+IN-WORLD EXPLANATION — ANOMALY LOG CATEGORIES, Archive Record
+Internal Structure, Classification, and Reality Doctrine, Archive Record
+Full Manuscript, Narrative Record
+MASTER VOLUME — CHAPTERS 1-6, Archive Record
 
 The source-protected Emergent Reality Anomaly/ folder was inventoried only as an excluded repository subtree.
 Its 715
@@ -167,12 +168,12 @@ A future GOI's site relationship should come from the existing site lattice:
 
 - Site 01 / Redwood Veil - urban recovery, artifact routes, public concealment, black-market
 pressure;
-— Site 02 / White Grave - cold isolation, biological suppression, remote containment;
-— Site 03 / Kurokawa Archive Node - memetic, informational, archive-sensitive, and urban signal
+- Site 02 / White Grave - cold isolation, biological suppression, remote containment;
+- Site 03 / Kurokawa Archive Node - memetic, informational, archive-sensitive, and urban signal
 risks;
-— Site 04 / Verde Null - non-natural biology, in-place enclosures, wilderness pressure;
-— Site 05 / Nusantara Deep Relay - maritime, seismic, volcanic, and deep-earth observation;
-— Central / Primary Facility - foundational doctrine, cross-site disputes, and final archive review.
+- Site 04 / Verde Null - non-natural biology, in-place enclosures, wilderness pressure;
+- Site 05 / Nusantara Deep Relay - maritime, seismic, volcanic, and deep-earth observation;
+- Central / Primary Facility - foundational doctrine, cross-site disputes, and final archive review.
 
 A final dossier will explain why a given site has responsibility. It will not
 add new sites casually.
@@ -246,15 +247,15 @@ an anomaly file, or discarded when Central Archive directs actual GOI creation.
 - Provisional designation: GOI-GV-N-028
 - Class direction: Government / Neutral / National / Handler / Threat 3 /
 Leaking / Monitor + Misdirect
-— Core premise: A quiet state continuity office that manages civic aftermaths that cannot
+- Core premise: A quiet state continuity office that manages civic aftermaths that cannot
 be explained cleanly:
 uninhabitable streets, vanished infrastructure, impossible casualty lists, and municipal records that no longer agree.
-— Why it is not GAA: GAA is A.C.T.'s controlled government bridge. The Office
+- Why it is not GAA: GAA is A.C.T.'s controlled government bridge. The Office
 of Public Continuity believes the state
 must retain its own civilian continuity records and refuses to surrender every anomaly-adjacent decision
 to A.C.T.
-— Likely jurisdiction: Site 01 with Central legal/archive review.
-— Key drafting question: When does protecting ordinary people's practical lives become a demand
+- Likely jurisdiction: Site 01 with Central legal/archive review.
+- Key drafting question: When does protecting ordinary people's practical lives become a demand
 to control the truth
 of those lives?
 
@@ -264,14 +265,14 @@ of those lives?
 - Provisional designation: GOI-GV-U-029
 - Class direction: Government / Unknown / Transnational / Handler / Threat 3 /
 Veiled / Monitor + Infiltrate
-— Core premise: A concealed maritime treaty secretariat whose member authorities quietly remove dangerous
+- Core premise: A concealed maritime treaty secretariat whose member authorities quietly remove dangerous
 waters,
 missing vessels, and recurring navigation failures from public shipping records.
-— Distinctive pressure: It treats routes and coastlines as sovereignty problems rather than containment
+- Distinctive pressure: It treats routes and coastlines as sovereignty problems rather than containment
 problems; it
 may close a sea lane even when A.C.T needs it for emergency access.
-— Likely jurisdiction: Site 05, with cross-site routing review.
-— Key drafting question: Is the treaty hiding anomalies, or hiding a pattern of
+- Likely jurisdiction: Site 05, with cross-site routing review.
+- Key drafting question: Is the treaty hiding anomalies, or hiding a pattern of
 governmental exploitation beneath
 them?
 
@@ -281,13 +282,13 @@ them?
 - Provisional designation: GOI-CP-B-030
 - Class direction: Corporate / Business / Transnational / Handler / Threat 3 /
 Exposure-Active / Monitor + Infiltrate
-— Core premise: A disaster-indemnity and redevelopment corporation that identifies "impossible loss" before ordinary
+- Core premise: A disaster-indemnity and redevelopment corporation that identifies "impossible loss" before ordinary
 insurers can understand it, then buys damaged property, claims, and silence at a profit.
-— Distinctive pressure: It does not sell anomalous objects like Anstrall Market. It monetizes
+- Distinctive pressure: It does not sell anomalous objects like Anstrall Market. It monetizes
 the human and geographic
 aftermath of incidents, turning cleanup into ownership.
-— Likely jurisdiction: Site 01, with Site 04 consultation for contaminated properties.
-— Key drafting question: Can A.C.T. use the company's cover infrastructure without becoming complicit
+- Likely jurisdiction: Site 01, with Site 04 consultation for contaminated properties.
+- Key drafting question: Can A.C.T. use the company's cover infrastructure without becoming complicit
 in
 dispossession?
 
@@ -297,16 +298,16 @@ dispossession?
 - Provisional designation: GOI-CP-X-031
 - Class direction: Corporate / Negative / Transnational / Engineering / Threat 4 /
 Leaking / Dismantle + Appropriate
-— Core premise: A private biomedical company that acquires anomalous tissue, environmental samples, and
+- Core premise: A private biomedical company that acquires anomalous tissue, environmental samples, and
 "unexplainable
 recoveries" through front clinics and clinical trials, then races to commercialize results before their
 risks are
 understood.
-— Distinctive pressure: It is a corrupt mirror of Transformation: it seeks conversion into
+- Distinctive pressure: It is a corrupt mirror of Transformation: it seeks conversion into
 saleable medicine, not
 stable coexistence or containment.
-— Likely jurisdiction: Site 04 with Medical and Transformation Division review.
-— Key drafting question: What happens when a cure is medically real but its
+- Likely jurisdiction: Site 04 with Medical and Transformation Division review.
+- Key drafting question: What happens when a cure is medically real but its
 production makes the underlying anomaly
 worse?
 
@@ -316,15 +317,15 @@ worse?
 - Provisional designation: GOI-CU-U-032
 - Class direction: Cultic / Unknown / Regional / Practitioner / Threat 2 /
 Veiled / Monitor
-— Core premise: A small religious movement whose members observe carefully timed periods of
+- Core premise: A small religious movement whose members observe carefully timed periods of
 silence, covered mirrors,
 and suspended work because they believe reality "counts its breaths" and must not be
 interrupted.
-— Distinctive pressure: Their rites may accidentally reduce a local causal instability, leaving A.C.T
+- Distinctive pressure: Their rites may accidentally reduce a local causal instability, leaving A.C.T
 unable to
 dismiss them as merely deluded or hostile.
-— Likely jurisdiction: Site 03 with temporal/reality-theory review.
-— Key drafting question: Does the group understand a real pattern, or is its
+- Likely jurisdiction: Site 03 with temporal/reality-theory review.
+- Key drafting question: Does the group understand a real pattern, or is its
 obedience helping to create one?
 
 06 - The Lanternless Pilgrims
@@ -333,15 +334,15 @@ obedience helping to create one?
 - Provisional designation: GOI-CU-N-033
 - Class direction: Cultic / Neutral / Transnational / Practitioner / Threat 2 /
 Veiled / Cooperated + Monitor
-— Core premise: A dispersed pilgrimage tradition that preserves unwritten routes around dangerous places.
+- Core premise: A dispersed pilgrimage tradition that preserves unwritten routes around dangerous places.
 Its members
 refuse artificial light at certain thresholds and maintain roadside markers whose purpose has been
 lost to outsiders.
-— Distinctive pressure: Some of their customs demonstrably reduce place-anomaly incidents, while their refusal
+- Distinctive pressure: Some of their customs demonstrably reduce place-anomaly incidents, while their refusal
 to
 disclose routes prevents A.C.T. from applying ordinary survey and containment procedure.
-— Likely jurisdiction: Site 04 and Site 05, depending on the route.
-— Key drafting question: What does ethical cooperation look like when the only effective
+- Likely jurisdiction: Site 04 and Site 05, depending on the route.
+- Key drafting question: What does ethical cooperation look like when the only effective
 containment practice belongs
 to a community A.C.T. does not control?
 
@@ -351,14 +352,14 @@ to a community A.C.T. does not control?
 - Provisional designation: GOI-SC-P-034
 - Class direction: Scientific / Positive / Transnational / Practitioner / Threat 2 /
 Leaking / Cooperated + Monitor
-— Core premise: An independent network of geologists, mathematicians, and signal analysts who map
+- Core premise: An independent network of geologists, mathematicians, and signal analysts who map
 unusual pressure
 patterns, impossible fault lines, and repeatable discontinuities without fully knowing what causes them.
-— Distinctive pressure: Their predictions can save lives and help Site 05, but their
+- Distinctive pressure: Their predictions can save lives and help Site 05, but their
 insistence on open peer review
 clashes directly with A.C.T.'s secrecy doctrine.
-— Likely jurisdiction: Site 05 with Site 02 technical support.
-— Key drafting question: How much true information can A.C.T. share before the existence
+- Likely jurisdiction: Site 05 with Site 02 technical support.
+- Key drafting question: How much true information can A.C.T. share before the existence
 of the pattern becomes a
 danger itself?
 
@@ -368,15 +369,15 @@ danger itself?
 - Provisional designation: GOI-SC-U-035
 - Class direction: Scientific / Unknown / National / Practitioner / Threat 3 /
 Veiled / Infiltrate
-— Core premise: A private research society that believes all first observations are contaminated.
+- Core premise: A private research society that believes all first observations are contaminated.
 It only trusts
 replicated witness sets, duplicate instruments, and delayed reports, treating immediate knowledge as a potential
 hazard.
-— Distinctive pressure: Its cautious methods sometimes detect failures in A.C.T.'s record chain, but
+- Distinctive pressure: Its cautious methods sometimes detect failures in A.C.T.'s record chain, but
 its members have
 begun conducting unauthorized observation protocols on civilians.
-— Likely jurisdiction: Site 03 / Kurokawa Archive Node.
-— Key drafting question: Is the Society preventing information hazards, or manufacturing them to
+- Likely jurisdiction: Site 03 / Kurokawa Archive Node.
+- Key drafting question: Is the Society preventing information hazards, or manufacturing them to
 prove its theory?
 
 09 - Quiet Harbor Mutual
@@ -385,14 +386,14 @@ prove its theory?
 - Provisional designation: GOI-CV-P-036
 - Class direction: Civil / Positive / Regional / Exposed / Threat 1 /
 Leaking / Help + Cooperated
-— Core premise: A mutual-aid association of coastal workers, fishers, medics, and families who
+- Core premise: A mutual-aid association of coastal workers, fishers, medics, and families who
 share warnings about
 impossible currents, missing boats, and returned survivors before authorities can erase the evidence.
-— Distinctive pressure: It is not secretly powerful; its importance is trust. A.C.T. can
+- Distinctive pressure: It is not secretly powerful; its importance is trust. A.C.T. can
 gain early warnings only by
 respecting the people who already know their coast has been changed.
-— Likely jurisdiction: Site 05.
-— Key drafting question: Can a secrecy-driven institution genuinely partner with a community whose
+- Likely jurisdiction: Site 05.
+- Key drafting question: Can a secrecy-driven institution genuinely partner with a community whose
 first duty is to
 its own missing people?
 
@@ -402,16 +403,16 @@ its own missing people?
 - Provisional designation: GOI-CV-N-037
 - Class direction: Civil / Neutral / Transnational / Exposed / Threat 2 /
 Leaking / Monitor + Misdirect
-— Core premise: A loose survivor network for people displaced by anomalous sites and
+- Core premise: A loose survivor network for people displaced by anomalous sites and
 impossible routes. Members leave
 letters, local maps, and recovery instructions at addresses that intermittently return people who were
 declared
 missing.
-— Distinctive pressure: The network's compassion creates a resilient public evidence trail that A.C.T.
+- Distinctive pressure: The network's compassion creates a resilient public evidence trail that A.C.T.
 cannot erase
 without harming people who have already lost too much.
-— Likely jurisdiction: Site 01 and Site 03.
-— Key drafting question: Can a civilian archive preserve enough truth to save victims
+- Likely jurisdiction: Site 01 and Site 03.
+- Key drafting question: Can a civilian archive preserve enough truth to save victims
 without triggering a larger
 exposure event?
 
@@ -421,15 +422,15 @@ exposure event?
 - Provisional designation: GOI-ML-X-038
 - Class direction: Militant / Negative / National / Engineering / Threat 4 /
 Normalcy-Breaching / Dismantle
-— Core premise: A contract-driven armed organization that takes control of contaminated districts, seals
+- Core premise: A contract-driven armed organization that takes control of contaminated districts, seals
 them behind
 "public safety" cordons, and uses untested stabilizing equipment to make a problem disappear fast.
-— Why it is not A-GA: A-GA wants all anomalies destroyed. The Iron Quiet
+- Why it is not A-GA: A-GA wants all anomalies destroyed. The Iron Quiet
 wants control, territory, state contracts,
 and proof that its ruthless method works-even if civilians and anomalies are treated as
 disposable material.
-— Likely jurisdiction: Site 01 with Central Military review.
-— Key drafting question: How can A.C.T. oppose an organization whose visible goal-preventing panic-looks
+- Likely jurisdiction: Site 01 with Central Military review.
+- Key drafting question: How can A.C.T. oppose an organization whose visible goal-preventing panic-looks
 uncomfortably
 similar to its own?
 
@@ -439,15 +440,15 @@ similar to its own?
 - Provisional designation: GOI-ML-G-039
 - Class direction: Militant / Guild / Local / Handler / Threat 2 /
 Veiled / Cooperated + Monitor
-— Core premise: A multigenerational local defense guild that guards a fixed dangerous boundary
+- Core premise: A multigenerational local defense guild that guards a fixed dangerous boundary
 using inherited watch
 schedules, practical rules, and a strict prohibition against extraction.
-— Distinctive pressure: The Wardens can hold a place safely but may resist A.C.T.
+- Distinctive pressure: The Wardens can hold a place safely but may resist A.C.T.
 authority, modern tools, and any
 attempt to remove what they consider part of their land's burden.
-— Likely jurisdiction: Site 02 or Site 04, selected only when the individual dossier
+- Likely jurisdiction: Site 02 or Site 04, selected only when the individual dossier
 establishes the exact location.
-— Key drafting question: When does a community's right to protect its own boundary
+- Key drafting question: When does a community's right to protect its own boundary
 become an unacceptable containment
 risk?
 
@@ -457,14 +458,14 @@ risk?
 - Provisional designation: GOI-AN-U-040
 - Class direction: Anomalous / Unknown / Structural / Reality-Active / Threat 4 /
 Leaking / Contain + Monitor
-— Core premise: A self-constituting deliberative body whose membership, minutes, and decisions cannot be
+- Core premise: A self-constituting deliberative body whose membership, minutes, and decisions cannot be
 fully fixed:
 every meeting produces a new but internally consistent version of the group's civic authority.
-— Distinctive pressure: It must be treated through dual filing. Its organizational actions have
+- Distinctive pressure: It must be treated through dual filing. Its organizational actions have
 real consequences, yet
 the group itself may be an anomalous condition rather than a stable institution.
-— Likely jurisdiction: Site 03 with Central Archive review.
-— Key drafting question: What must A.C.T. preserve when the act of documenting the
+- Likely jurisdiction: Site 03 with Central Archive review.
+- Key drafting question: What must A.C.T. preserve when the act of documenting the
 group changes who the group is?
 
 14 - The Chorus of Shared Names
@@ -473,15 +474,15 @@ group changes who the group is?
 - Provisional designation: GOI-AN-N-041
 - Class direction: Anomalous / Neutral / Regional / Practitioner / Threat 2 /
 Veiled / Help + Monitor
-— Core premise: A small community of separate people who share a controlled portion
+- Core premise: A small community of separate people who share a controlled portion
 of memory and sensation through a
 standing vow, allowing them to recognize danger, grief, and injury across distances without becoming
 a single mind.
-— Distinctive pressure: A.C.T. cannot decide whether the Chorus is a vulnerable population, an
+- Distinctive pressure: A.C.T. cannot decide whether the Chorus is a vulnerable population, an
 anomalous collective,
 or both; forced separation may be as harmful as uncontrolled contact.
-— Likely jurisdiction: Site 04 with Medical and Archiver consultation.
-— Key drafting question: Can containment respect personhood when personhood is shared but not
+- Likely jurisdiction: Site 04 with Medical and Archiver consultation.
+- Key drafting question: Can containment respect personhood when personhood is shared but not
 erased?
 
 15 - The Brine Witnesses
@@ -490,14 +491,14 @@ erased?
 - Provisional designation: GOI-IH-U-042
 - Class direction: In-Human / Unknown / Regional / Practitioner / Threat 3 /
 Veiled / Monitor
-— Core premise: An intelligent deep-water collective that leaves patterned shell deposits and low-frequency
+- Core premise: An intelligent deep-water collective that leaves patterned shell deposits and low-frequency
 transmissions before underwater pressure events. It refuses conventional communication, but appears to be warning
 surface communities in its own way.
-— Distinctive pressure: It is not a monster to be captured or a human
+- Distinctive pressure: It is not a monster to be captured or a human
 faction to recruit. Its interests may be
 ecological, territorial, or linked to an unknown nonhuman survival system.
-— Likely jurisdiction: Site 05 / Nusantara Deep Relay.
-— Key drafting question: How can A.C.T. establish reciprocity with a group whose communication
+- Likely jurisdiction: Site 05 / Nusantara Deep Relay.
+- Key drafting question: How can A.C.T. establish reciprocity with a group whose communication
 is evidence, not
 language?
 
@@ -508,14 +509,14 @@ language?
 - Class direction: In-Human / Negative / Transnational / Reality-Active / Threat 4 /
 Exposure-Active / Contain +
 Infiltrate
-— Core premise: A nonhuman legalistic court that appears wherever binding promises are made
+- Core premise: A nonhuman legalistic court that appears wherever binding promises are made
 under extreme pressure. It
 enforces its own interpretation of agreements by turning broken obligations into physical or social
 consequences.
-— Distinctive pressure: It weaponizes ordinary human institutions-contracts, oaths, emergency promises-rather than
+- Distinctive pressure: It weaponizes ordinary human institutions-contracts, oaths, emergency promises-rather than
 attacking from outside them.
-— Likely jurisdiction: Central legal/archive review with Site 03 support.
-— Key drafting question: Is the Court exploiting human promises, or exposing the harm
+- Likely jurisdiction: Central legal/archive review with Site 03 support.
+- Key drafting question: Is the Court exploiting human promises, or exposing the harm
 already hidden inside them?
 
 17 - Pale Freight Compact
@@ -524,14 +525,14 @@ already hidden inside them?
 - Provisional designation: GOI-BS-T-044
 - Class direction: Business / Trade / Transnational / Handler / Threat 3 /
 Leaking / Monitor + Infiltrate
-— Core premise: A clandestine logistics compact that can move sealed cargo through difficult
+- Core premise: A clandestine logistics compact that can move sealed cargo through difficult
 borders and unstable
 routes because it treats every shipment as an obligation with its own containment ritual.
-— Distinctive pressure: Unlike Anstrall Market, it does not principally sell anomalies. It sells
+- Distinctive pressure: Unlike Anstrall Market, it does not principally sell anomalies. It sells
 movement,
 concealment, and contractual reliability-services A.C.T. may sometimes need but cannot safely trust.
-— Likely jurisdiction: Site 01 and Site 05.
-— Key drafting question: What price does the Compact charge when its routes are
+- Likely jurisdiction: Site 01 and Site 05.
+- Key drafting question: What price does the Compact charge when its routes are
 the only way to prevent a public
 disaster?
 
@@ -541,14 +542,14 @@ disaster?
 - Provisional designation: GOI-BS-B-045
 - Class direction: Business / Business / Global / Handler / Threat 3 /
 Exposure-Active / Infiltrate + Dismantle
-— Core premise: A polished network of estate sales, private collections, restoration houses, and
+- Core premise: A polished network of estate sales, private collections, restoration houses, and
 invitation-only
 auctions that strips objects of provenance before selling them as rare cultural property.
-— Distinctive pressure: The network makes anomalous objects socially desirable and widely dispersed. It
+- Distinctive pressure: The network makes anomalous objects socially desirable and widely dispersed. It
 presents
 itself as a legal luxury business rather than an overt black market.
-— Likely jurisdiction: Site 01 / Redwood Veil Complex.
-— Key drafting question: How does A.C.T. retrieve an object once prestige, private ownership,
+- Likely jurisdiction: Site 01 / Redwood Veil Complex.
+- Key drafting question: How does A.C.T. retrieve an object once prestige, private ownership,
 and public curiosity
 have become its containment breach?
 
@@ -558,16 +559,16 @@ have become its containment breach?
 - Provisional designation: GOI-HY-U-046
 - Class direction: Hybrid / Unknown / National / Reality-Active / Threat 4 /
 Leaking / Monitor + Contain
-— Core premise: A planning body built around human statisticians and an anomalous predictive
+- Core premise: A planning body built around human statisticians and an anomalous predictive
 archive that issues
 unusually accurate evacuation, housing, and mortality forecasts. The forecasts become more accurate when obeyed,
 but
 may alter the pressures they claim merely to measure.
-— Distinctive pressure: It turns civic planning into a possible containment system while making
+- Distinctive pressure: It turns civic planning into a possible containment system while making
 consent, prediction,
 and causality inseparable.
-— Likely jurisdiction: Site 03 with Site 01 civil-continuity coordination.
-— Key drafting question: Is the Census preventing disasters, selecting who is allowed to
+- Likely jurisdiction: Site 03 with Site 01 civil-continuity coordination.
+- Key drafting question: Is the Census preventing disasters, selecting who is allowed to
 survive them, or both?
 
 20 - Deep-Pressure Accord
@@ -577,16 +578,16 @@ survive them, or both?
 - Class direction: Hybrid / Negative / Transnational / Engineering / Threat 5 /
 Normalcy-Breaching / Dismantle +
 Contain
-— Core premise: A coalition of extraction firms, private divers, salvage crews, and ritual
+- Core premise: A coalition of extraction firms, private divers, salvage crews, and ritual
 navigators that drills,
 maps, and removes material from deep maritime pressure zones because it believes the seabed
 contains controllable
 infrastructure rather than living risk.
-— Distinctive pressure: Its method destabilizes sites and routes that must remain undisturbed. It
+- Distinctive pressure: Its method destabilizes sites and routes that must remain undisturbed. It
 is a direct
 challenge to the principle that some foundations must be maintained, not exploited.
-— Likely jurisdiction: Site 05 with Central abyssal-restriction review.
-— Key drafting question: What is the difference between resource extraction and waking a
+- Likely jurisdiction: Site 05 with Central abyssal-restriction review.
+- Key drafting question: What is the difference between resource extraction and waking a
 system that has only survived
 because no one touched it?
 
@@ -616,9 +617,11 @@ name is not assumed accepted.
 
 For the selected approved GOI only, the work will:
 
-1. create one dedicated Markdown record in GOI_MD/ using 00_GOI_Record_Template.md, plus a matching .txt
+1. create one dedicated Markdown record in Group of Interest Registry collection, Central Archive
+   using
+   00_GOI_Record_Template.md, plus a matching .txt
 reading copy
-in GOI_TXT/;
+in Group of Interest Registry collection, plain-text reading copies;
 2. turn the short seed into a concrete institutional structure, ideology, assets, history with
 A.C.T., responsible
 site, current posture, and open questions;

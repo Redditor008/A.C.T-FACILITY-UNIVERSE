@@ -384,8 +384,8 @@ priorities include:
 - `ACT-SITE-02-RU-N — White Grave Station` Site Dossier (Floor Register)
 - `ACT-SITE-02-RU-N — F-2 Entropic and Unstable Resident Holding` Floor Dossier
 - `ACT-SITE-02-RU-N — F-4 Research and Biological Study` Floor Dossier
-- `ACT_Global_Site_Registry.md` / `.txt`
-- `ACT_Site_Doctrine_and_Installation_Structure.md` / `.txt`
+- Global Site Registry, Archive Record / `.txt`
+- Site Doctrine, Site Classification, and Installation Structure, Archive Record / `.txt`
 - White Grave Annex Register (clearance-gated)
 
 ---

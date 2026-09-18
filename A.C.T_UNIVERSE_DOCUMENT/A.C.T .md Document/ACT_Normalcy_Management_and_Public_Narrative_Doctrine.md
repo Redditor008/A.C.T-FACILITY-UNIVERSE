@@ -267,9 +267,9 @@ Civil Covert may not:
 
 ### 3.13 Related Records
 
-- `ACT_Internal_Structure_and_Reality_Doctrine_Archive.md`
-- `ACT_Divisions_Personnel_and_Operational_Life_Archive.md`
-- `NEMNOLIA-004-Series-Amnestic-Archive.md`
+- Internal Structure, Classification, and Reality Doctrine, Archive Record
+- Divisions, Personnel Roles, and Operational Life, Archive Record
+- 004-Series Amnestic Compound Reference, Archive Record
 - GOI dossiers involving public exposure or recruitment
 - Anomaly files with Narrative Status fields
 

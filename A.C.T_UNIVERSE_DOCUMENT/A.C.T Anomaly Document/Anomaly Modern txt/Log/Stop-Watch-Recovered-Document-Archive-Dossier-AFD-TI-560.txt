@@ -63,9 +63,9 @@ ACCESS RECORD:
 
    - Only O5-approved personnel or Senior Researcher Thorne are authorized
      to handle the subject
-   — The watch is never to be wound or depressed outside "Terminal Emergency"
+   - The watch is never to be wound or depressed outside "Terminal Emergency"
      protocols
-   — The vault is equipped with an active RSA (Item 01) set to a
+   - The vault is equipped with an active RSA (Item 01) set to a
    "Misfire
      Frequency," ensuring any unauthorized attempt results in an Unsuccessful
      Activation with a reduced recovery window
@@ -75,8 +75,8 @@ HANDLING DISCIPLINE:
    - The position of the second hand is monitored daily via Chrono-Stuttered
      Visors (Item 09) to avoid accidental imprinting by the Causal-Reactive
      Mercury
-   — Required watch: 1 temporal analyst, 1 high-PR guard
-   — Cadence: daily position check
+   - Required watch: 1 temporal analyst, 1 high-PR guard
+   - Cadence: daily position check
 
 ═══════════════════════════════════════════════════════════════════════
    SECTION 002 — ACTIVATION RECORD — 1999 SITE-01 BREACH PREVENTION

@@ -502,13 +502,13 @@ chain to misbehave.
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Master_Index_50.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Evolution_Timeline.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Visual_Reference_Guide.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Complete_Designation_and_Class_Reference.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Site Dossier/ACT-SITE-01-US-W-Redwood-Veil-Complex.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Site Dossier/ACT-SITE-02-RU-N-White-Grave-Station.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/00_Technology_Record_Template.md`
+- ACT-MASTER-INDEX-50-SYSTEMS-AND-MATERIALS, Archive Record
+- Internal Engineering Record: 1598 – 2026, Archive Record
+- Comprehensive Visual and Mechanical Specifications for Asset Index 50, Archive Record
+- Complete Designation and Class Reference, Archive Record
+- ACT-SITE-01-US-W — Redwood Veil Complex, Site Dossier
+- ACT-SITE-02-RU-N — White Grave Station, Site Dossier
+- TECHNOLOGY RECORD TEMPLATE, Technology Record
 
 ### Technology Relationship
 

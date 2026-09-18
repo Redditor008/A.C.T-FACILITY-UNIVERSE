@@ -227,7 +227,7 @@ Standing reminder: RRI is not truth. It is stubbornness given liquid form.
 - Should all Refracted One addenda be written in RRI, or only state-change logs?
   Does repeated RRI use make a file harder for authorized archive correction to
   update?
-— Can violet smear be safely read, or is it a partial regression artifact?
+- Can violet smear be safely read, or is it a partial regression artifact?
 
 ---
 

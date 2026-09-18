@@ -402,15 +402,15 @@ The Midwestern operating environment offers CoTD several practical advantages:
 - wide distances between communities and a large number of plausible gathering locations;
 - river, canal, reservoir, agricultural, and municipal-water systems that provide both symbolic and logistical
 cover;
-— aging industrial and water-management infrastructure with spaces that can be entered, rented, repaired,
+- aging industrial and water-management infrastructure with spaces that can be entered, rented, repaired,
 or monitored
 without immediately appearing anomalous;
-— interstate transport routes that allow people, equipment, and documents to move between cells
+- interstate transport routes that allow people, equipment, and documents to move between cells
 without establishing a
 visible central compound;
-— recurring severe-weather and flood concerns that let the cult frame preparation activity as
+- recurring severe-weather and flood concerns that let the cult frame preparation activity as
 ordinary caution;
-— communities where grief, economic pressure, displacement, isolation, or prior disaster can be exploited
+- communities where grief, economic pressure, displacement, isolation, or prior disaster can be exploited
 as
 recruitment openings.
 
@@ -432,15 +432,15 @@ review when they appear in combination:
 - imported salt, marine material, pressure equipment, acoustic equipment, or unusual sealed containers without
 a
 credible local purpose;
-— group movement timed to specific weather, water-level, or lunar conditions;
-— handwritten or digital maps that replace ordinary place names with depth, tide, mouth,
+- group movement timed to specific weather, water-level, or lunar conditions;
+- handwritten or digital maps that replace ordinary place names with depth, tide, mouth,
 or shore terminology;
-— private meetings involving strict silence, covered faces, prohibited light, or enforced listening periods
+- private meetings involving strict silence, covered faces, prohibited light, or enforced listening periods
 near
 water;
-— recruitment language that frames flood, loss, or drowning as a promise rather than
+- recruitment language that frames flood, loss, or drowning as a promise rather than
 a tragedy;
-— unexplained attempts to obtain marine survey information, shipping records, sonar data, or deep-water
+- unexplained attempts to obtain marine survey information, shipping records, sonar data, or deep-water
 coordinates
 from an inland base.
 
@@ -463,16 +463,16 @@ the following capabilities:
 - local meeting spaces that can be abandoned or reclassified quickly;
 - informal contribution systems that convert ordinary donations into travel, storage, equipment, and communication
 support;
-— maps, copied texts, recordings, and symbolic materials that allow doctrine to move without
+- maps, copied texts, recordings, and symbolic materials that allow doctrine to move without
 a single public archive;
-— members with ordinary professional access to water systems, repair work, transport, construction, education,
+- members with ordinary professional access to water systems, repair work, transport, construction, education,
 health
 support, and regional administration;
-— technical intermediaries capable of acquiring or interpreting deep-water and pressure-related material without
+- technical intermediaries capable of acquiring or interpreting deep-water and pressure-related material without
 openly identifying as cult personnel;
-— protected family, work, and grief networks that make recruitment appear personal rather than
+- protected family, work, and grief networks that make recruitment appear personal rather than
 organizational;
-— a distributed language of inland mouths, shores, and soundings that can hide operational
+- a distributed language of inland mouths, shores, and soundings that can hide operational
 meaning inside apparently
 devotional speech.
 
@@ -496,14 +496,14 @@ Known or suspected holdings should be categorized before action:
 
 - Congregation sites contain people, material, and recruitment activity but may have little target-specific
 value.
-— Custody sites hold records, equipment, maps, or ritual materials and require controlled evidence
+- Custody sites hold records, equipment, maps, or ritual materials and require controlled evidence
 handling.
-— Transit sites support movement between cells and can reveal the broader network if
+- Transit sites support movement between cells and can reveal the broader network if
 monitored safely.
-— Mouth sites are selected for doctrinal or ritual significance and may carry anomalous
+- Mouth sites are selected for doctrinal or ritual significance and may carry anomalous
 risk even when no leadership
 asset is present.
-— Decoy sites are deliberately visible locations designed to draw attention away from a
+- Decoy sites are deliberately visible locations designed to draw attention away from a
 live preparation chain.
 
 A.C.T response must not assume that the most theatrical location is the most important
@@ -671,12 +671,12 @@ Immediate Level 5 escalation is required when any of the following conditions ar
 - multiple inland mouth sites begin synchronized rites alongside technical equipment movement;
 - an unapproved party attempts travel toward the target anomaly or an associated restricted
 maritime zone;
-— acoustic, pressure, seismic, or marine indicators show a credible correlation with cult activity;
-— the Sounding Council activates a regional gathering under a shared date, signal, or
+- acoustic, pressure, seismic, or marine indicators show a credible correlation with cult activity;
+- the Sounding Council activates a regional gathering under a shared date, signal, or
 return language;
-— a member claims direct contact and the claim is supported by a measurable
+- a member claims direct contact and the claim is supported by a measurable
 anomaly-related effect;
-— a cult operation is likely to expose the target or create a public
+- a cult operation is likely to expose the target or create a public
 chain of evidence that cannot be contained
 locally.
 
@@ -786,13 +786,13 @@ Confirmed Operational Facts
 
 - CoTD is a cultic organization worshipping a [REDACTED] anomaly sleeping in the deep
 sea.
-— The group is actively attempting to awaken that anomaly.
-— The target anomaly is assessed as apocalyptic if awakened.
-— CoTD's primary active region is the Midwestern United States.
-— The cult uses distributed local activity, symbolic water geography, and compartmented membership to
+- The group is actively attempting to awaken that anomaly.
+- The target anomaly is assessed as apocalyptic if awakened.
+- CoTD's primary active region is the Midwestern United States.
+- The cult uses distributed local activity, symbolic water geography, and compartmented membership to
 support its
 objective.
-— The group is large enough that not all attached people can be assumed
+- The group is large enough that not all attached people can be assumed
 to hold the same knowledge, responsibility, or
 capability.
 
@@ -820,17 +820,17 @@ Persistent Questions
 - Does the Sounding Council receive genuine target-related information, or does it manufacture signs
 to preserve
 authority?
-— Which inland mouths have a measurable relationship to the sleeping anomaly, and which
+- Which inland mouths have a measurable relationship to the sleeping anomaly, and which
 exist only as cult symbolism?
-— How much deep-water data has CoTD already obtained, copied, or sold through intermediaries?
-— Are any Dredgers working with an external GOI, commercial handler, or compromised government
+- How much deep-water data has CoTD already obtained, copied, or sold through intermediaries?
+- Are any Dredgers working with an external GOI, commercial handler, or compromised government
 contact?
-— Can the cult's repeated sound and pressure practices affect the target directly, or
+- Can the cult's repeated sound and pressure practices affect the target directly, or
 do they primarily condition
 members for a later action?
-— What event, signal, date, or perceived change would cause separate congregations to act
+- What event, signal, date, or perceived change would cause separate congregations to act
 in coordination?
-— How many members can be safely separated from the cult before they become
+- How many members can be safely separated from the cult before they become
 targets of council-linked enforcement or
 self-harm pressure?
 
@@ -874,9 +874,9 @@ Related A.C.T Records
 - Site Map and Jurisdiction Doctrine - incident-led cross-site assignment;
 - Facility Divisions, Personnel Roles, and Operational Life - Intelligence, Recovery, Containment, Medical, Civil
 Covert, and Military responsibilities;
-— Anomaly Classification Manual Archive - separate filing of the sleeping target and recovered
+- Anomaly Classification Manual Archive - separate filing of the sleeping target and recovered
 cult material;
-— History of A.C.T, First Deployment, and the ABYSS Origin - doctrine that sleep
+- History of A.C.T, First Deployment, and the ABYSS Origin - doctrine that sleep
 may itself be containment.
 
 ==============================================================================

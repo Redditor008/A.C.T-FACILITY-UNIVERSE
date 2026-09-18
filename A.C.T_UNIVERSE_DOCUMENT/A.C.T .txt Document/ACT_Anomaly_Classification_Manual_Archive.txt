@@ -54,8 +54,8 @@ form,
 ENTITY_000_ITHYOS.
 
 Supporting file:
-- `ACT_First_Vault_Document_ENTITY_000_ITHYOS.md`
-- `ACT_First_Vault_Document_ENTITY_000_ITHYOS.txt`
+- First Preserved Document, Archive Record
+- ACT First Vault Document ENTITY 000 ITHYOS, Archive Record
 - `ACT_First_Vault_Document_ENTITY_000_ITHYOS.pdf`
 
 ---
@@ -87,7 +87,7 @@ structural reality preservation.
 3.2 Official A.C.T File Categories
 A.C.T recognizes two primary official documentation categories for anomaly records.
 
-3.2.1 `ACT_Anomaly_Standard_Format.md`
+3.2.1 FILE SAVING CONVENTION, Archive Record
 The Standard Format is the primary anomaly archive structure used for the majority of
 documented anomalies. It is used
 for stable, verified, and conventionally recordable cases where the anomaly can be described within
@@ -122,7 +122,7 @@ The Standard Format answers the question:
 What is this anomaly, how dangerous is it, how is it contained, and what
 is its place in A.C.T archive logic?
 
-3.2.2 `ACT_Anomaly_RCT_Format.md`
+3.2.2 Research / Containment / Transformation Focus, Archive Record
 The RCT Format is a specialized anomaly record focused on three operational axes:
 
 - CO — Containment
@@ -150,8 +150,8 @@ its archival and operational importance justify
 dual-record status.
 
 Official templates preserved with Part Three:
-- `ACT_Anomaly_Standard_Format.md`
-- `ACT_Anomaly_RCT_Format.md`
+- FILE SAVING CONVENTION, Archive Record
+- Research / Containment / Transformation Focus, Archive Record
 
 3.2.4 Site Integration in Anomaly Files
 Modern anomaly records are expected to identify not only what the anomaly is, but
@@ -217,16 +217,16 @@ number as a simple sequence mark.
 - ENTITY Historical Band — ENTITY-###, closed historical series. Preserved for First Vault and
 pre-standard records.
 No new ordinary ENTITY files are opened.
-— 000 Foundational Reserve — 000 marks origin-level or foundation-level significance. ITHYOS is the
+- 000 Foundational Reserve — 000 marks origin-level or foundation-level significance. ITHYOS is the
 controlling
 example.
-— LEGACY ACCEPTED Band — 001–120 accepts legacy-era anomalies inside modern UFD/AFD handling. A
+- LEGACY ACCEPTED Band — 001–120 accepts legacy-era anomalies inside modern UFD/AFD handling. A
 legacy anomaly may
 preserve both UFD and AFD files when those files record different intake states.
-— Modern Registry Band — 121–999 is the ordinary modern UFD/AFD anomaly range.
-— ANM Fracture-State Band — ANM-XX-XX-0001 through ANM-XX-XX-9999, with XXXX used for unresolved or
+- Modern Registry Band — 121–999 is the ordinary modern UFD/AFD anomaly range.
+- ANM Fracture-State Band — ANM-XX-XX-0001 through ANM-XX-XX-9999, with XXXX used for unresolved or
 obscured numbers.
-— Obscured / Reserved / Closed Numbers — numbers may be hidden, reserved, or
+- Obscured / Reserved / Closed Numbers — numbers may be hidden, reserved, or
 retired when the number itself is
 classified, structurally important, or historically load-bearing.
 
@@ -275,7 +275,7 @@ Fracture Index:
 - QUESTIONED (`QU`) / ABSURD (`AB`) / MUTATED (`MU`) / UNAUTHORED (`UA`) / SCHRÖDINGER
 (`SC`) — used in the Fracture
 Containment Index segment
-— HARMLESS (`HM`) / BENEFICIAL (`BE`) / REVERTED (`RV`) / ABSENT (`AS`) / NULLIFIED
+- HARMLESS (`HM`) / BENEFICIAL (`BE`) / REVERTED (`RV`) / ABSENT (`AS`) / NULLIFIED
 (`NU`) — used in the Fracture
 Sub-Threat Index segment
 
@@ -332,31 +332,31 @@ Recognized structure categories include:
 - Small Box — used for compact anomalous objects, devices, samples, or low-volume materials
 requiring minimal secure
 enclosed storage
-— Medium Box — used for larger objects or manageable contained anomalies needing modest
+- Medium Box — used for larger objects or manageable contained anomalies needing modest
 chamber space
-— Large Box — used for significant objects, active subjects, or anomalies requiring broad
+- Large Box — used for significant objects, active subjects, or anomalies requiring broad
 enclosure room
-— Massive Box — used for oversized entities, large-scale hazards, or high-volume enclosures requiring
+- Massive Box — used for oversized entities, large-scale hazards, or high-volume enclosures requiring
 heavy structural
 containment
-— Enclosure Box — used when the anomaly requires a perimeter or territory-style enclosure
+- Enclosure Box — used when the anomaly requires a perimeter or territory-style enclosure
 rather than a simple chamber
-— Box-cass — used when the anomaly is already effectively a box, shell, vessel,
+- Box-cass — used when the anomaly is already effectively a box, shell, vessel,
 or self-contained container-state
 object
-— Monitoring Field — used when the anomaly is best controlled through a monitored
+- Monitoring Field — used when the anomaly is best controlled through a monitored
 field, exclusion area, perimeter, or
 indirect watch-zone instead of a hard chamber
-— Blind Box — used when direct observation is dangerous and the anomaly must
+- Blind Box — used when direct observation is dangerous and the anomaly must
 be enclosed under visual-denial or
 sensory-restricted conditions
-— Eye Box — used when active or continuous observation is itself part of
+- Eye Box — used when active or continuous observation is itself part of
 containment and the anomaly must remain
 visible under controlled conditions
-— Non-Box — used when the anomaly cannot be described by ordinary enclosure logic
+- Non-Box — used when the anomaly cannot be described by ordinary enclosure logic
 but may still be managed through
 procedure
-— Unclose — used when the anomaly is too vast, too distributed, too abstract,
+- Unclose — used when the anomaly is too vast, too distributed, too abstract,
 or too structurally broad to enclose
 meaningfully at all
 
@@ -568,8 +568,8 @@ observation, transformation, correspondence, sensor, and personal record structu
 learned what it learned without overloading the active containment file.
 
 Supporting file:
-- `ACT_Anomaly_Log_Categories_In_World_Explanation.md`
-- `ACT_Anomaly_Log_Categories_In_World_Explanation.txt`
+- IN-WORLD EXPLANATION — ANOMALY LOG CATEGORIES, Archive Record
+- ACT Anomaly Log Categories In World Explanation, Archive Record
 
 ---
 
@@ -582,8 +582,8 @@ anomaly record for:
 - Title II: ITHYOS, The World-Sleeper
 
 Supporting file:
-- `ACT_ITHYOS_Modern_Anomaly_File_Standard.md`
-- `ACT_ITHYOS_Modern_Anomaly_File_Standard.txt`
+- AFD-CH-000 — ITHYOS, THE WORLD-SLEEPER, Archive Record
+- ACT ITHYOS Modern Anomaly File Standard, Archive Record
 - `ACT_ITHYOS_Modern_Anomaly_File_Standard.pdf`
 
 This file demonstrates the transition from the early ENTITY archive era into full modern

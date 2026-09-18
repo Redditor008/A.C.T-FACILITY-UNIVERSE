@@ -364,8 +364,8 @@ priorities include:
 
 - `ACT-SITE-04-BR-C — Verde Null Bio-Reserve` Site Dossier (Floor Register)
 - `ACT-SITE-04-BR-C — F-2 Interior Biological Holding` Floor Dossier
-- `ACT_Global_Site_Registry.md` / `.txt`
-- `ACT_Site_Doctrine_and_Installation_Structure.md` / `.txt`
+- Global Site Registry, Archive Record / `.txt`
+- Site Doctrine, Site Classification, and Installation Structure, Archive Record / `.txt`
 - Verde Null Annex Register (clearance-gated)
 - AFD-SU-827 resident file and log dossiers (clearance-gated)
 

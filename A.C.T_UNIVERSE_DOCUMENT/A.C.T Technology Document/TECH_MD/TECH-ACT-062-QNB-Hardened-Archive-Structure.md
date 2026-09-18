@@ -215,7 +215,7 @@ to quietly replace.
 - Should witness records and medical records use different continuity thresholds?
   Can a quarantine cell lie about its contents while the QNB record remains
   correct?
-— What happens when the room remembers a file that every authorized reader forgets?
+- What happens when the room remembers a file that every authorized reader forgets?
 
 ---
 

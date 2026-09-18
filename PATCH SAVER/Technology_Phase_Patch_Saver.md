@@ -3646,3 +3646,61 @@ and --cached --check rc=0. All five txt twins carry all five new sections.
 
 **Next action.** Continue the ACT upgrade in batches of five, `TECH-ACT-006` through
 `TECH-ACT-010`, then the remaining ACT records, then the 58 obsolete TECH-GOI records.
+
+## Prompt Log — 2026-09-18 15:17 UTC
+
+**Request.** Edit and update CROSS-REFERENCES: every document under A.C.T_UNIVERSE_DOCUMENT
+must read as a real in-world document, not as a file in a folder.
+
+**What was wrong.** Cross-references were written as filesystem paths
+(A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Master_Index_50.md), in three
+forms: 786 markdown links, 500 backticked paths, and 228 bare paths across 167 files.
+The
+118-character wrap had also split 19 of them across two physical lines, corrupting the
+path.
+
+**What it is now.** Every reference resolves to the target document and is cited
+the way an
+archive would cite it: designation, em dash, title, record type.
+
+| Was | Now |
+|---|---|
+| `A.C.T_UNIVERSE_DOCUMENT/.../GOI-CP-P-056-Saint-Vera-Restoration-Concern.md` | GOI-CP-P-056 — Saint-Vera Restoration Concern, Group of Interest Registry |
+| `A.C.T .md Document/Site Dossier/ACT-SITE-01-US-W-Redwood-Veil-Complex.md` | ACT-SITE-01-US-W — Redwood Veil Complex, Site Dossier |
+| `A.C.T .md Document/ACT_Technological_Master_Index_50.md` | ACT-MASTER-INDEX-50-SYSTEMS-AND-MATERIALS, Archive Record |
+| `A.C.T .md Document/Site Dossier/` | Site Dossier collection, Central Archive |
+
+Titles are read from the target document's own heading, never guessed from the filename,
+so
+casing such as DREAM INC, CoTD and GAA survives intact.
+
+**Counts.** 557 of 570 distinct paths cited; 13 left alone because they are template
+placeholders such as Title-AFD-XX-###.txt. 409 markdown links kept a working href with
+in-world visible text; 377 were converted to plain citation text where the href would
+have
+pushed the line past 118 characters. 98 directory references renamed. 19 wrapped paths
+rejoined.
+
+**Also repaired.** 2328 list bullets had been turned into em dashes by the earlier
+mid-sentence dash fix; they are restored to hyphens wherever the block opens with a
+real
+bullet.
+
+**Bugs found and fixed while doing this, all caught by guards rather than by
+eye.**
+A blanket backtick-newline rejoin merged consecutive bullet lines together. The bare-path
+matcher stopped at the .md inside the folder name A.C.T .md Document. A link-target
+regex
+that allowed newlines joined a wrapped link. The directory-name replacement rewrote text
+inside link hrefs and destroyed 232 of them. Inventing hrefs from backticked display paths
+produced 642 broken links, because those paths are repository-root relative rather than file
+relative. A per-file line-count guard now fails the run if any substitution changes line
+count other than by a declared path rejoin.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, UTF8_ERR 0,
+CONFLICT 0, multiH1 0, odd-fence 0, md-with-box 0, broken_links 0/286, TECH_MD 204 =
+TECH_TXT 204, GOI_MD 35 = GOI_TXT 35, over-limit lines 11 (the known unbreakable long
+link
+paths), git diff --check and --cached --check rc=0.
+
+**Next action.** Resume the ACT record upgrade at TECH-ACT-006 through TECH-ACT-010.

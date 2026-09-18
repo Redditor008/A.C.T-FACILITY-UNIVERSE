@@ -181,13 +181,13 @@ OPEN QUESTIONS
 
 - Can a symbol's behavior be understood without ever seeing enough of it to
 be harmed?
-— Should skilled pattern analysts be barred from partial-symbol work because they complete forms
+- Should skilled pattern analysts be barred from partial-symbol work because they complete forms
 too quickly?
-— How much derivative imagery is still the original symbol for containment purposes?
-— Can a failed observation become a new symbol behavior if repeated in the
+- How much derivative imagery is still the original symbol for containment purposes?
+- Can a failed observation become a new symbol behavior if repeated in the
 same way?
-— Should Intelligence receive behavior descriptions if those descriptions may carry activation structure?
-— When does refusing to look become insufficient because the symbol has learned the
+- Should Intelligence receive behavior descriptions if those descriptions may carry activation structure?
+- When does refusing to look become insufficient because the symbol has learned the
 refusal pattern?
 
 FILE METADATA

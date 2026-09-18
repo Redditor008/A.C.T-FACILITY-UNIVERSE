@@ -178,11 +178,11 @@ fragment imitation applies directly to this material.
 
 ## CROSS-REFERENCES
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CP-P-056-Saint-Vera-Restoration-Concern.md`
+- GOI-CP-P-056 — Saint Vera Restoration Concern, Group of Interest Registry
 - `TECH-GOI-056-1` — restoration theater where the closure is applied
 - `TECH-GOI-056-3` — consent read that precedes any thread application
 - `TECH-GOI-056-5` — ledger entry created when a closure is refused or fails
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Complete_Designation_and_Class_Reference.md`
+- Complete Designation and Class Reference, Archive Record
 
 Filed under the GOI chain. The master technology index lists A.C.T assets, and this
 is not one.
@@ -193,8 +193,8 @@ is not one.
 - Does the thread hold a physical boundary or a semantic one?
 - What happens at the end of the eighteen-hour window if the burn is
   still spelling?
-— Do the scar locks and the skin-thread stabilizers use the same fiber?
-— Can a fiber sample be tested without destroying the only stock A.C.T holds?
+- Do the scar locks and the skin-thread stabilizers use the same fiber?
+- Can a fiber sample be tested without destroying the only stock A.C.T holds?
 
 ## FILE METADATA
 

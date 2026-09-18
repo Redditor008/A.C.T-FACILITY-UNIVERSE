@@ -191,12 +191,12 @@ required for their care.
 
 CROSS-REFERENCES
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CP-P-056-Saint-Vera-Restoration-Concern.md`
+- GOI-CP-P-056 — Saint Vera Restoration Concern, Group of Interest Registry
 - `TECH-GOI-056-1` — theater that generates the recorded states
 - `TECH-GOI-056-2` — stabilizer use recorded as a ledger field
 - `TECH-GOI-056-3` — refusal labels archived in the sealed failure subdivision
 - `TECH-GOI-056-4` — prosthetic attachment recorded as a ledger field
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Personnel_Exposure_E_Class_and_Resilience_Doctrine.md`
+- Personnel Exposure, Excommunicated Class, and Resilience Doctrine, Archive Record
 
 Filed under the GOI chain. The record must not replace patient files, and patient
 files must not reduce the Concern to
@@ -206,12 +206,12 @@ OPEN QUESTIONS
 
 - How many patients listed in the cold ledgers are officially dead in civic
   systems?
-— What does the word cold denote — storage condition, case status, or something
+- What does the word cold denote — storage condition, case status, or something
   else?
-— Who seals the restoration licences, and what do they certify?
-— Has the Concern ever recorded a restoration that A.C.T would reject on identity
+- Who seals the restoration licences, and what do they certify?
+- Has the Concern ever recorded a restoration that A.C.T would reject on identity
   continuity?
-— How many ledger patients later enter Excommunicated Class review?
+- How many ledger patients later enter Excommunicated Class review?
 
 FILE METADATA
 

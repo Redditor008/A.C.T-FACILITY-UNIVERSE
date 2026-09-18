@@ -544,16 +544,15 @@ determinations.
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CU-X-048-Children-of-the-Deep-CoTD.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CP-P-056-Saint-Vera-Restoration-Concern.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Transformation_Review_Board_and_Field_Asset_Register_Doctrine.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Personnel_Exposure_E_Class_and_Resilience_Doctrine.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational
-  Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md`
-— Restricted transformation, altered-body, refuge, witness, medical aftercare, and family-continuance case chains held
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- GOI-CU-X-048 — Children of the Deep CoTD, Group of Interest Registry
+- GOI-CP-P-056 — Saint Vera Restoration Concern, Group of Interest Registry
+- Transformation Review Board and Field Asset Register Doctrine, Archive Record
+- Personnel Exposure, Excommunicated Class, and Resilience Doctrine, Archive Record
+- WITNESS STATEMENT AND TESTIMONY FORM, Operational Form
+- AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM, Operational Form
+- Restricted transformation, altered-body, refuge, witness, medical aftercare, and family-continuance case chains held
   under Central Archive routing.
 
 ### Dual Filing

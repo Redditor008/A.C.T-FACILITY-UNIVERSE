@@ -169,17 +169,17 @@ Observed gentle lock installations include the following repeated components:
 - a soft-faced interior plate, usually polymer, treated wood, cloth-backed ceramic, or padded metal;
 - a concealed hard latch inside the wall rather than on the visible door
 face;
-— a patient-side contact point that can be pushed, held, tapped, warmed, or spoken
+- a patient-side contact point that can be pushed, held, tapped, warmed, or spoken
 to without opening the door;
-— a staff-side keyway hidden behind a sliding medical label rather than a prison-style
+- a staff-side keyway hidden behind a sliding medical label rather than a prison-style
 keyhole;
-— a manifestation buffer strip along the hinge, threshold, handle, window, or vent, depending
+- a manifestation buffer strip along the hinge, threshold, handle, window, or vent, depending
 on patient risk;
-— a consent marker slot where voluntary, substitute, emergency, and disputed custody states can
+- a consent marker slot where voluntary, substitute, emergency, and disputed custody states can
 be displayed;
-— an emergency release path requiring two staff roles or one staff role plus
+- an emergency release path requiring two staff roles or one staff role plus
 patient-specific safe action;
-— a patient bell interface that can override silence protocols when the resident can
+- a patient bell interface that can override silence protocols when the resident can
 still signal distress.
 
 Not every lock contains every component. Mercy Lock tunes each installation to the resident.
@@ -434,12 +434,12 @@ CROSS-REFERENCE STATUS
 Related A.C.T Records
 ---------------------
 
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/00_Technology_Record_Template.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-HY-P-071-Mercy-Lock-Institute.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-HY-X-072-Iron-Meridian-Authority.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Master_Index_50.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Visual_Reference_Guide.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Standing_Field_Units_and_Cross_Containment_Interaction_Doctrine.md
+- TECHNOLOGY RECORD TEMPLATE, Technology Record
+- GOI-HY-P-071 — Mercy Lock Institute, Group of Interest Registry
+- GOI-HY-X-072 — Iron Meridian Authority, Group of Interest Registry
+- ACT-MASTER-INDEX-50-SYSTEMS-AND-MATERIALS, Archive Record
+- Comprehensive Visual and Mechanical Specifications for Asset Index 50, Archive Record
+- Standing Field Units and Cross-Containment Interaction Protocol, Archive Record
 - Restricted Mercy Lock transfer notes, Red Key incident fragments, patient care files, and
 Site 02 medical-wing
 transfer records held under Central Archive routing.
@@ -463,22 +463,22 @@ OPEN QUESTIONS
 - Did the original gentle lock derive from ordinary clinical design, an anomalous door,
 an old hospice practice, or an
 unrecovered Mercy Lock predecessor device?
-— Which components are essential: soft plate, hidden latch, consent marker, buffer strip, bell
+- Which components are essential: soft plate, hidden latch, consent marker, buffer strip, bell
 interface, or staff
 protocol?
-— Can A.C.T build a noninfringing equivalent without stealing Mercy Lock technology or damaging
+- Can A.C.T build a noninfringing equivalent without stealing Mercy Lock technology or damaging
 cooperation?
-— Do patient bells interact with gentle locks through vibration, proximity, name recognition, or
+- Do patient bells interact with gentle locks through vibration, proximity, name recognition, or
 a separate ward
 system?
-— How often do gentle locks fail because patient profiles are not updated after
+- How often do gentle locks fail because patient profiles are not updated after
 memory, body, or name changes?
-— Has Iron Meridian Authority copied any part of the system into punitive restraint
+- Has Iron Meridian Authority copied any part of the system into punitive restraint
 architecture?
-— Can a gentle lock be safe for high-risk hostile entities, or is the
+- Can a gentle lock be safe for high-risk hostile entities, or is the
 system limited to patients and residents with
 non-malicious or episodic harm?
-— What long-term psychological outcome differences exist between gentle lock rooms and standard hard
+- What long-term psychological outcome differences exist between gentle lock rooms and standard hard
 containment?
 
 Intelligence Confidence

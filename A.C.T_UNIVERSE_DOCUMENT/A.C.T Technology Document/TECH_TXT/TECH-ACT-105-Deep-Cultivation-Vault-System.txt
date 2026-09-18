@@ -183,9 +183,9 @@ OPEN QUESTIONS
 - Can a transformation program become a resident before command recognizes the change?
 - How much medical care can occur inside F-1 before the subject must move
 upward?
-— Should native-field comparison be mandatory before every cultivation alteration?
-— Can service ring contamination leave the vault while the chambers remain sealed?
-— When does cultivation become creation rather than containment?
+- Should native-field comparison be mandatory before every cultivation alteration?
+- Can service ring contamination leave the vault while the chambers remain sealed?
+- When does cultivation become creation rather than containment?
 
 FILE METADATA
 

@@ -225,12 +225,12 @@ required for ongoing patient care.
 
 ## CROSS-REFERENCES
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CP-P-056-Saint-Vera-Restoration-Concern.md`
+- GOI-CP-P-056 — Saint Vera Restoration Concern, Group of Interest Registry
 - `TECH-GOI-056-2` — green-thread tissue stabilizer used inside the theater
 - `TECH-GOI-056-3` — memory-sensitive consent read performed before any procedure
 - `TECH-GOI-056-4` — living prosthetic fitting performed in the same room
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Transformation_Review_Board_and_Field_Asset_Register_Doctrine.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Personnel_Exposure_E_Class_and_Resilience_Doctrine.md`
+- Transformation Review Board and Field Asset Register Doctrine, Archive Record
+- Personnel Exposure, Excommunicated Class, and Resilience Doctrine, Archive Record
 
 This record is filed against the GOI archive chain rather than the A.C.T technological
 master index, because the
@@ -240,11 +240,11 @@ Concern is an outside institution and A.C.T neither builds nor licenses its thea
 
 - What wavelength does the glass theatre lamp filter, and does the effect survive
   removal from the room?
-— Does the recovery bed act on the patient, the room, or the consent
+- Does the recovery bed act on the patient, the room, or the consent
   state?
-— Why is drainage routing treated as part of the working environment?
-— Who issues sealed restoration licenses, and what do they certify?
-— Has any A.C.T site ever replicated a theater layout with a confirmed outcome?
+- Why is drainage routing treated as part of the working environment?
+- Who issues sealed restoration licenses, and what do they certify?
+- Has any A.C.T site ever replicated a theater layout with a confirmed outcome?
 
 ## FILE METADATA
 

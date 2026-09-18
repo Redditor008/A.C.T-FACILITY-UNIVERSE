@@ -136,12 +136,12 @@ A.C.T identifies these functional layers:
   Receipt Factors who reconstruct custody chains and compare signatures, marks, stains, oral claims,
   and
   deaths;
-— Velvet Notaries who witness transfer language and attach liability clauses;
-— Lot Readers who examine objects for responsive history, false origin, and harmful attachment;
-— Seal Stewards who maintain wax, paper, ink, thread, and locked-case standards;
-— Return Counsel who negotiate restitution to families, museums, states, or hidden claimants;
-— Quiet Porters who move lots between viewing rooms, warehouses, and private clients;
-— Red Clerks who update buyer books and mark clients barred from future purchase.
+- Velvet Notaries who witness transfer language and attach liability clauses;
+- Lot Readers who examine objects for responsive history, false origin, and harmful attachment;
+- Seal Stewards who maintain wax, paper, ink, thread, and locked-case standards;
+- Return Counsel who negotiate restitution to families, museums, states, or hidden claimants;
+- Quiet Porters who move lots between viewing rooms, warehouses, and private clients;
+- Red Clerks who update buyer books and mark clients barred from future purchase.
 
 The House is an institution, not a shop. Its power comes from repeated procedure
 and from other market actors
@@ -514,12 +514,12 @@ evidence.
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-BS-T-027-Anstrall-Market.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-BS-P-067-Candle-Under-Exchange.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CP-W-055-Cairn-and-Lintel.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md`
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- GOI-BS-T-027 — Anstrall Market, Group of Interest Registry
+- GOI-BS-P-067 — Candle Under Exchange, Group of Interest Registry
+- GOI-CP-W-055 — Cairn and Lintel, Group of Interest Registry
+- Normalcy Management and Public Narrative Doctrine, Archive Record
 - Restricted object, estate, auction, restoration, museum, legal, transport, and private-collector case chains held
   under Central Archive routing.
 

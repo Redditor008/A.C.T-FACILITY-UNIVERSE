@@ -442,7 +442,7 @@ the Market record, route comparison, and controlled interdiction planning.
   Site 03 manages digital traces, broker communications, dangerous visual proof, document propagation, and
   archive
   isolation.
-— Site 04 receives biological or ecological items requiring bio-reserve handling and environmental containment.
+- Site 04 receives biological or ecological items requiring bio-reserve handling and environmental containment.
   Site 05 coordinates maritime, coastal, seismic, and deep-transit routes where an exchange or
   shipment
   creates regional

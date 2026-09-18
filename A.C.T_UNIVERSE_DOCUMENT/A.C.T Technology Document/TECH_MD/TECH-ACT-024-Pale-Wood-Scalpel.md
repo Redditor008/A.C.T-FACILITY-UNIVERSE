@@ -233,9 +233,9 @@ should happen at all.
   Should every PWS use be reviewed by Transformation Review when the patient is
   partly
   altered?
-— Can repeated exposure to gold make a blade safer or only weaker?
-— Do Dark World organisms recognize the scalpel as tool, wound, or relative?
-— How many retired blades remain useful for non-surgical materials research?
+- Can repeated exposure to gold make a blade safer or only weaker?
+- Do Dark World organisms recognize the scalpel as tool, wound, or relative?
+- How many retired blades remain useful for non-surgical materials research?
 
 ---
 

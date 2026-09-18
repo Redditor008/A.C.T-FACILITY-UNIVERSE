@@ -73,7 +73,7 @@ STANDING OBSERVATION:
    - Movement correlates with volcanic pressure waves
    - Required watch: 2 seismic analysts, 1 heat-resonance linguist,
      1 volcanic systems engineer, 1 remote security officer
-   — Cadence: continuous seismic and thermal monitoring / weekly resonance
+   - Cadence: continuous seismic and thermal monitoring / weekly resonance
      check-in / monthly rim-station inspection / annual exclusion-zone audit
 
 OBSERVER NOTE: If lower-chamber thermal flow is not confirmed, the subject's
@@ -101,9 +101,9 @@ REVIEW FINDINGS:
    - No unprovoked aggression observed since detection
    - Cooperation is conditional on feeding stability and absence of
      provocation — it is not consent for exploitation
-   — Not approved for transformation, repurposing, weaponization, thermal
+   - Not approved for transformation, repurposing, weaponization, thermal
      energy harvesting, scale extraction, or serpent-class dominance testing
-   — The subject's dignity is a containment requirement: it responds poorly to
+   - The subject's dignity is a containment requirement: it responds poorly to
      worshipful titles and worse to military asset language
 
 OBSERVER NOTE: The subject is dangerous by scale and environment, not by

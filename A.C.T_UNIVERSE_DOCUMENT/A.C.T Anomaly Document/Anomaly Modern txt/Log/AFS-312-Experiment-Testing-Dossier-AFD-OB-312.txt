@@ -68,9 +68,9 @@ CALIBRATION RECORD:
    - Recharge behavior: 20-minute cooldown per single charge refill
    - Technicians attribute the cooldown to a safety limitation preventing the
      [ REDACTED ] cooling pipes from melting
-   — Core temperature held stable at 15°C via the Cryo-Seismic Stabilizer
+   - Core temperature held stable at 15°C via the Cryo-Seismic Stabilizer
      (Item 26) loop
-   — The ten (10) Rotating Power-Charge Discs are inspected remotely every 30
+   - The ten (10) Rotating Power-Charge Discs are inspected remotely every 30
      days; spin without a charge-command triggers a Static-Purge of the
      chamber
 
@@ -168,9 +168,9 @@ ANALYSIS:
 
    - The display normally reports Charge Percentage, Core Temperature, and
      Causal Alignment only
-   — The hardware carries manufacturing stamps from an unidentified future
+   - The hardware carries manufacturing stamps from an unidentified future
      era and its internal OS operates on [ REDACTED ] logic gates
-   — The message provides a possible causal link to the origin of AFD-SU-020
+   - The message provides a possible causal link to the origin of AFD-SU-020
      (Vesper) and is retained under Tactical Review Desk jurisdiction
 
 ═══════════════════════════════════════════════════════════════════════

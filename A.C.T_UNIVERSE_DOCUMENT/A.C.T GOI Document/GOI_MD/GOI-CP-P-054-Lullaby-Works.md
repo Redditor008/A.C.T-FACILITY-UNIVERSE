@@ -143,12 +143,12 @@ A.C.T assessment identifies the following probable layers:
   residue,
   and unknown soft
   composites;
-— child-trauma consultants or clinicians who shape products around real fear responses;
+- child-trauma consultants or clinicians who shape products around real fear responses;
   donation coordinators who place items in hospitals, shelters, schools, and homes after abnormal
   events;
-— warranty clerks who receive child drawings, broken toys, whispered reports, and caregiver letters;
-— recall teams who remove products after failure, misuse, or adult tampering;
-— repair van crews who arrive before public authorities can determine who requested them;
+- warranty clerks who receive child drawings, broken toys, whispered reports, and caregiver letters;
+- recall teams who remove products after failure, misuse, or adult tampering;
+- repair van crews who arrive before public authorities can determine who requested them;
   ethics or safety reviewers whose rules are visible in warnings but whose identities
   remain
   sealed.
@@ -529,13 +529,12 @@ files, product-custody sheets, medical aftercare reviews, or family relocation r
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational
-  Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md`
-— `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Personnel_Exposure_E_Class_and_Resilience_Doctrine.md`
-— Restricted child-witness, nursery-object, product-custody, and shelter-incident chains held under Central Archive
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- WITNESS STATEMENT AND TESTIMONY FORM, Operational Form
+- AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM, Operational Form
+- Personnel Exposure, Excommunicated Class, and Resilience Doctrine, Archive Record
+- Restricted child-witness, nursery-object, product-custody, and shelter-incident chains held under Central Archive
   routing.
 
 ### Dual Filing

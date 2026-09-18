@@ -144,14 +144,14 @@ A.C.T identifies these functional layers:
 - Signatory Seats who hold recognition within the Accord and speak for member institutions;
   Lantern Marshals who physically mark safe lines, triage zones, handover rooms, and crossing
   limits;
-— Accord Clerks who write terms, violations, witness signatures, and unresolved custody claims;
-— Safe-Line Arbiters who decide whether seizure, recruitment, sale, or force violates the line;
-— Beacon Keepers who maintain lamps, codes, colored shutters, and relay timing;
+- Accord Clerks who write terms, violations, witness signatures, and unresolved custody claims;
+- Safe-Line Arbiters who decide whether seizure, recruitment, sale, or force violates the line;
+- Beacon Keepers who maintain lamps, codes, colored shutters, and relay timing;
   Neutral Key Holders who open handover rooms and depots usable by hostile or
   rival
   groups under escort;
-— Corridor Guards who protect civilians and staff without advancing one signatory's claim;
-— Violation Witnesses who preserve evidence when the line is broken.
+- Corridor Guards who protect civilians and staff without advancing one signatory's claim;
+- Violation Witnesses who preserve evidence when the line is broken.
 
 The structure is thin but durable. The Accord does not need a city of
 its own. It needs enough recognized procedure
@@ -476,9 +476,9 @@ groups learn to counterfeit it better than we can read it.
 - It establishes temporary safe lines and handover rules during multi-actor abnormal crises.
   It has cooperated with A.C.T in evacuations, medical transfer, breach deconfliction, and hostile-seizure
   prevention.
-— It has also limited A.C.T unilateral action and protected signatories from immediate custody.
-— Its beacons, seals, keys, warrants, maps, and ledgers may have active anomalous relevance.
-— Iron Meridian Authority has attempted to exploit or enter Accord structures.
+- It has also limited A.C.T unilateral action and protected signatories from immediate custody.
+- Its beacons, seals, keys, warrants, maps, and ledgers may have active anomalous relevance.
+- Iron Meridian Authority has attempted to exploit or enter Accord structures.
 
 ### Active Intelligence Assessment
 
@@ -537,14 +537,14 @@ dossier must not replace incident-specific command review.
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-HY-P-071-Mercy-Lock-Institute.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-HY-X-072-Iron-Meridian-Authority.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-BS-W-070-Saint-Morrow-Passage.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-GV-P-059-Grey-Harbor-Civil-Rescue-Directorate.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Standing_Field_Units_and_Cross_Containment_Interaction_Doctrine.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Access_and_Egress_Ledger_Form.md`
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- GOI-HY-P-071 — Mercy Lock Institute, Group of Interest Registry
+- GOI-HY-X-072 — Iron Meridian Authority, Group of Interest Registry
+- GOI-BS-W-070 — Saint Morrow Passage, Group of Interest Registry
+- GOI-GV-P-059 — Grey Harbor Civil Rescue Directorate, Group of Interest Registry
+- Standing Field Units and Cross-Containment Interaction Protocol, Archive Record
+- ACCESS AND EGRESS LEDGER FORM, Operational Form
 - Restricted breach, evacuation, multi-agency containment, beacon, neutral corridor, handover, and temporary accord
   files held under Central Archive routing.
 

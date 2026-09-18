@@ -182,11 +182,11 @@ evidence inventory unless an immediate containment hazard exists.
 
 ## CROSS-REFERENCES
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CP-P-056-Saint-Vera-Restoration-Concern.md`
+- GOI-CP-P-056 — Saint Vera Restoration Concern, Group of Interest Registry
 - `TECH-GOI-056-1` — theater where fitting is performed
 - `TECH-GOI-056-2` — thread interfaces reported at prosthetic attachment sites
 - `TECH-GOI-056-3` — consent read that gates every fitting
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Transformation_Review_Board_and_Field_Asset_Register_Doctrine.md`
+- Transformation Review Board and Field Asset Register Doctrine, Archive Record
 
 Filed under the GOI chain, with mandatory dual filing wherever an implant meets the
 independence criteria above.
@@ -195,10 +195,10 @@ independence criteria above.
 
 - What is the memory-linked nerve media made of, and can it be sampled
   without harming the patient?
-— Are the ocular implant glass and the theatre lamp glass the same material?
-— Where is unlearned motion stored?
-— Does a mold retain the missing limb, and for how long?
-— Has any implant ever acted after separation from its patient?
+- Are the ocular implant glass and the theatre lamp glass the same material?
+- Where is unlearned motion stored?
+- Does a mold retain the missing limb, and for how long?
+- Has any implant ever acted after separation from its patient?
 
 ## FILE METADATA
 

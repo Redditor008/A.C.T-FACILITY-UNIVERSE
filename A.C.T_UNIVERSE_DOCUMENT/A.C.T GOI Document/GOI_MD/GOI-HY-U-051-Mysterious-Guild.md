@@ -485,11 +485,9 @@ filtered through VESPERSYS.
 Primary cross-reference chain:
 
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Anomaly Modern txt/VESPER .S.Y.S. GUILD DATABASE ARCHIVE.pdf`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Anomaly Legacy 01 .txt/Maid-Of-Gear-VESPER-AFD-SU-020.txt`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Anomaly Legacy 01
-  .txt/Log/Maid-Of-Gear-VESPER-Recovery-Discovery-Dossier-AFD-SU-020.txt`
-— `A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Anomaly Modern
-  txt/Log/AFS-312-Experiment-Testing-Dossier-AFD-OB-312.txt`
+- Maid Of Gear VESPER AFD SU 020, Archive Record
+- Maid Of Gear VESPER Recovery Discovery Dossier AFD SU 020, Archive Record
+- AFS 312 Experiment Testing Dossier AFD OB 312, Archive Record
 
 The Mysterious Guild is an organization record. VESPER remains an anomaly/subject record. Guild technology
 may require

@@ -254,7 +254,7 @@ products. Civil Covert maintains the cover position for families.
 - TECH-GOI-054-5 — Lullaby Works Warranty Recall and Failure Ledger;
 - ACT_Personnel_Exposure_E_Class_and_Resilience_Doctrine — for the contrast between memory suppression and memory
   tolerance;
-— Subject Care Division post-incident recovery guidance [restricted].
+- Subject Care Division post-incident recovery guidance [restricted].
 
 A textile whose fibre Engineering cannot identify cannot be specified in the Visual Reference
 Guide, and a product

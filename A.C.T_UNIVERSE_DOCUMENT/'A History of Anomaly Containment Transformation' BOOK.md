@@ -729,9 +729,9 @@ associated with force, security, and direct engagement.
   **Recovery Division**: Tasked with locating, securing, retrieving, and transporting anomalies from the field
   before
   public normalcy is compromised.
-— **Containment Division**: Designs, maintains, and enforces the systems, chambers, rituals, technologies, and
+- **Containment Division**: Designs, maintains, and enforces the systems, chambers, rituals, technologies, and
   procedures required to keep anomalies isolated and controlled.
-— **Military Division**: The most openly force-oriented branch, activated when anomalies require extreme suppression,
+- **Military Division**: The most openly force-oriented branch, activated when anomalies require extreme suppression,
   black-zone intervention, or overwhelming tactical response.
 
 The West side of the Facility is therefore the side that acts with force
@@ -745,7 +745,7 @@ The **East Wings** represent information control, bureaucratic stability, and op
   **Intelligence Division**: Handles surveillance, internal security monitoring, witness suppression planning,
   external
   observation, infiltration analysis, and information forecasting.
-— **Task Management**: Coordinates personnel assignments, mission logistics, multi-division scheduling, response
+- **Task Management**: Coordinates personnel assignments, mission logistics, multi-division scheduling, response
   prioritization, and internal workflow across the site.
 
 The East side is the memory and information-body of A.C.T. It is where the
@@ -776,7 +776,7 @@ The **North Wings** are the scientific and medical heart of the A.C.T Facility.
   **Transformation Division**: The branch dedicated to converting anomalies from unpredictable threats into
   stabilized,
   neutralized, repurposed, or integrated assets.
-— **Anomaly Lab Quarter**: A secured research district where controlled testing, specialized containment experiments,
+- **Anomaly Lab Quarter**: A secured research district where controlled testing, specialized containment experiments,
   and high-risk scientific operations are performed.
   **Medical Care Division**: Treats conventional injuries, anomalous contamination, memetic trauma, biohazard
   exposure,
@@ -1572,7 +1572,7 @@ Approved structures:
 Recommended title formatting: replace spaces with hyphens, preserve readable title order, keep the designation
 exact.
 
-Example: `I-AM-A-Test-AFD-OB-001.md`
+Example: I-AM-A-Test-AFD-OB-001, Archive Record
 
 ---
 
@@ -2467,11 +2467,11 @@ Choose a category based on the main purpose of the supporting document:
 - If the document answers **how we found it** → Recovery & Discovery Dossier
   If it answers **what witnesses or the anomaly said** → Interview & Testimony
   Dossier
-— If it answers **what tests proved** → Experiment & Testing Dossier
-— If it answers **what went wrong** → Incident & Breach Dossier
+- If it answers **what tests proved** → Experiment & Testing Dossier
+- If it answers **what went wrong** → Incident & Breach Dossier
   If it answers **what a place or route contains** → Exploration & Survey
   Dossier
-— If it answers **what A.C.T thinks it means** → Research & Analysis Dossier
+- If it answers **what A.C.T thinks it means** → Research & Analysis Dossier
   If it preserves **a recovered file or artifact record** → Recovered Document &
   Archive
   Dossier
@@ -2497,7 +2497,7 @@ Dossier filenames should follow this structure:
 `Title-Category-Dossier-DESIGNATION.txt`
 
 Examples:
-- `I-AM-A-Test-Testing-Dossier-AFD-OB-001.txt`
+- I AM A Test Testing Dossier AFD OB 001, Archive Record
 - `Maid-Of-Gear-VESPER-Recovery-Dossier-AFD-SU-020.txt`
 - `Helping-Hand-Testimony-Dossier-AFD-SU-019.txt`
 - `MACHINE-Heart-Incident-Dossier-AFD-OB-017.txt`

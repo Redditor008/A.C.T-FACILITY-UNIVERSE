@@ -187,13 +187,13 @@ OPEN QUESTIONS
 
 - Can a document ever be declared safe forever, or only safe under named
 conditions?
-— How much warning must remain in a released copy before minimum release becomes
+- How much warning must remain in a released copy before minimum release becomes
 under-informative?
-— Can overredaction become a hazard by forcing personnel to guess the missing danger?
-— Should every public-compatible version carry a hidden recall marker?
-— When does a redacted document become a new document rather than a safer
+- Can overredaction become a hazard by forcing personnel to guess the missing danger?
+- Should every public-compatible version carry a hidden recall marker?
+- When does a redacted document become a new document rather than a safer
 form of the old one?
-— Can a recall succeed if the released copy has already entered memory, training,
+- Can a recall succeed if the released copy has already entered memory, training,
 or quoted procedure?
 
 FILE METADATA

@@ -180,12 +180,12 @@ with force, security, and direct engagement.
 
 - Security Division: Responsible for internal law enforcement, checkpoint control, armed containment support,
 personnel surveillance, and emergency lockdown implementation.
-— Recovery Division: Tasked with locating, securing, retrieving, and transporting anomalies from the field
+- Recovery Division: Tasked with locating, securing, retrieving, and transporting anomalies from the field
 before
 public normalcy is compromised.
-— Containment Division: Designs, maintains, and enforces the systems, chambers, rituals, technologies, and procedures
+- Containment Division: Designs, maintains, and enforces the systems, chambers, rituals, technologies, and procedures
 required to keep anomalies isolated and controlled.
-— Military Division: The most openly force-oriented branch, activated when anomalies require extreme suppression,
+- Military Division: The most openly force-oriented branch, activated when anomalies require extreme suppression,
 black-zone intervention, or overwhelming tactical response.
 
 East Wings
@@ -193,9 +193,9 @@ The East Wings represent information control, bureaucratic stability, and operat
 
 - Archiver Division: Maintains documents, incident logs, access records, anomaly files, redactions, and restricted
 knowledge repositories.
-— Intelligence Division: Handles surveillance, internal security monitoring, witness suppression planning, external
+- Intelligence Division: Handles surveillance, internal security monitoring, witness suppression planning, external
 observation, infiltration analysis, and information forecasting.
-— Task Management: Coordinates personnel assignments, mission logistics, multi-division scheduling, response
+- Task Management: Coordinates personnel assignments, mission logistics, multi-division scheduling, response
 prioritization, and internal workflow across the site.
 
 South Wings
@@ -204,9 +204,9 @@ The South Wings hold the highest administrative and covert strategic functions o
 - O5 Headquarters: The secure operational seat for the Overseer Five Council’s presence, communications,
 and
 restricted directives.
-— Company Development: The arm responsible for institutional growth, shell-company networks, black-budget operations,
+- Company Development: The arm responsible for institutional growth, shell-company networks, black-budget operations,
 acquisition planning, and the logistical evolution of A.C.T’s influence.
-— Civil Covert Division: Handles public-facing manipulation from the shadows: cover identities, shell institutions,
+- Civil Covert Division: Handles public-facing manipulation from the shadows: cover identities, shell institutions,
 legal masking, quiet interference, narrative control, and infiltration of civilian structures.
 
 North Wings
@@ -214,12 +214,12 @@ The North Wings are the scientific and medical heart of the A.C.T Facility.
 
 - Researcher Division: The primary body for anomaly study, theoretical analysis, experimentation, and scientific
 interpretation.
-— Transformation Division: The branch dedicated to converting anomalies from unpredictable threats into stabilized,
+- Transformation Division: The branch dedicated to converting anomalies from unpredictable threats into stabilized,
 neutralized, repurposed, or integrated assets.
-— Anomaly Lab Quarter: A secured research district where controlled testing, specialized containment experiments,
+- Anomaly Lab Quarter: A secured research district where controlled testing, specialized containment experiments,
 and
 high-risk scientific operations are performed.
-— Medical Care Division: Treats conventional injuries, anomalous contamination, memetic trauma, biohazard exposure,
+- Medical Care Division: Treats conventional injuries, anomalous contamination, memetic trauma, biohazard exposure,
 neurological destabilization, and personnel compromised by contact with impossible phenomena.
 
 Central
@@ -229,10 +229,10 @@ it.
 - Anomaly Containment Elevator: A vertical transport system used to move anomalous objects, secured
 entities, research
 cargo, and emergency response units between containment layers.
-— Surface Anomaly Containment: A transitional containment layer for newly acquired or temporarily staged
+- Surface Anomaly Containment: A transitional containment layer for newly acquired or temporarily staged
 anomalies
 before permanent classification and relocation.
-— Anomaly Document Research: A restricted documentation nexus where recorded anomalous knowledge, case histories,
+- Anomaly Document Research: A restricted documentation nexus where recorded anomalous knowledge, case histories,
 and
 document-borne hazards are studied and preserved.
 
@@ -419,11 +419,11 @@ or triggered.
 - 6 = *regional threat — devastation spans across multiple cities or a province*
 - 7 = *national threat — an entire country is at risk of collapse
 or destruction*
-— 8 = *continental threat — the scale swallows whole regions and crosses borders
+- 8 = *continental threat — the scale swallows whole regions and crosses borders
 effortlessly*
-— 9 = *global threat — the entire planet and everything on it is
+- 9 = *global threat — the entire planet and everything on it is
 at stake*
-— 10 = *existential threat — reality, existence, and the very framework that holds
+- 10 = *existential threat — reality, existence, and the very framework that holds
 it together — undone*
 
 Threat Level is not simply a warning scale. In A.C.T procedure, it dictates the
@@ -481,18 +481,18 @@ Each step reflects the Facility’s worldview.
 
 - DETECT: Locate the anomaly, trace its effects, and identify emergent signs of law-breaking
 behavior.
-— VERIFY: Confirm anomalous status and distinguish true anomaly from hoax, malfunction, folklore, or
+- VERIFY: Confirm anomalous status and distinguish true anomaly from hoax, malfunction, folklore, or
 hostile
 misinformation.
-— CONCEAL: Suppress public exposure, remove evidence, isolate witnesses, and stabilize the narrative before
+- CONCEAL: Suppress public exposure, remove evidence, isolate witnesses, and stabilize the narrative before
 panic can
 spread.
-— CONTAIN: Apply immediate control, restriction, transport, or isolation measures.
-— ASSESS: Determine type, threat level, containment class, spread pattern, and interaction risk.
-— RESEARCH: Study origin, behavior, cosmological significance, and transformation potential.
-— TRANSFORM: Where viable, convert the anomaly into a stable, neutralized, repurposed, or integrated
+- CONTAIN: Apply immediate control, restriction, transport, or isolation measures.
+- ASSESS: Determine type, threat level, containment class, spread pattern, and interaction risk.
+- RESEARCH: Study origin, behavior, cosmological significance, and transformation potential.
+- TRANSFORM: Where viable, convert the anomaly into a stable, neutralized, repurposed, or integrated
 state.
-— MAINTAIN: Preserve long-term stability through surveillance, maintenance, policy revision, and recurring doctrinal
+- MAINTAIN: Preserve long-term stability through surveillance, maintenance, policy revision, and recurring doctrinal
 review.
 
 This doctrine reveals that A.C.T is not reactive alone—it is cyclical. An anomaly is
@@ -539,7 +539,7 @@ intelligible. A.C.T doctrine describes it as existing on a scale between two cat
 
 - Void Collapse — where reality loses coherence and falls into nullity, meaninglessness, or
 total dissolution.
-— Reality Reset — where existence is forcibly overwritten, restarted, or reformatted, erasing continuity
+- Reality Reset — where existence is forcibly overwritten, restarted, or reformatted, erasing continuity
 as it was
 known.
 

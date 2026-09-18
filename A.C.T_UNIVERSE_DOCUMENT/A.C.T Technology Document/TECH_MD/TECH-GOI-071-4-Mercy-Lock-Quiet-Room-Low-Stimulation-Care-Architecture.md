@@ -191,10 +191,9 @@ reacting to harm.
 
 ## CROSS-REFERENCE STATUS
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-HY-P-071-Mercy-Lock-Institute.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/TECH-GOI-071-1-Mercy-Lock-Gentle-Lock-System.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology
-  Document/TECH_MD/TECH-GOI-071-2-Mercy-Lock-Patient-Bell-Distress-Signal-System.md`
+- GOI-HY-P-071 — Mercy Lock Institute, Group of Interest Registry
+- TECH-GOI-071-1 — Mercy Lock Gentle Lock System, Technology Record
+- TECH-GOI-071-2 — Mercy Lock Patient Bell Distress Signal System, Technology Record
   Mercy Lock ward inspection notes, quiet-room plans, transfer records, and Red Key files
   [restricted]
 

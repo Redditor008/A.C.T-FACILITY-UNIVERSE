@@ -108,16 +108,16 @@ reputation:
 - **Redwood Veil Biotechnologies** — agricultural and biomedical research
   concern; used for inbound logistics, reagent acquisition, and legitimate
   scientific cover for anomalous biological sampling.
-— **Cascade Cold Chain Logistics** — refrigerated freight operator; used for
+- **Cascade Cold Chain Logistics** — refrigerated freight operator; used for
   transport of temperature-sensitive objects and for the quiet movement of
   sealed materials between city nodes.
-— **The Halvorsen Medical Foundation** — private clinic and research hospital;
+- **The Halvorsen Medical Foundation** — private clinic and research hospital;
   provides cover for the Medical Division's cognitive and memetic trauma work
   and for the treatment of compromised personnel under civilian pretense.
-— **Western State Archive Annex (fictional university program)** — document
+- **Western State Archive Annex (fictional university program)** — document
   preservation facility used to explain archivists, microfilm traffic, and
   restricted document storage.
-— Additional single-occupancy residential and commercial fronts are rotated on
+- Additional single-occupancy residential and commercial fronts are rotated on
   a schedule. No cover identity is allowed to age past usefulness.
 
 ### 3.3 Why the West
@@ -733,13 +733,13 @@ places — is not expected to change.
 
 ## 17. Cross-Referenced Files
 
-- `ACT_Global_Site_Registry.md` / `.txt`
-- `ACT_Site_Doctrine_and_Installation_Structure.md` / `.txt`
-- `ACT_Site_Map_and_Jurisdiction_Doctrine.md` / `.txt`
-- `ACT_Site_Registry_File_Standard.md` / `.txt`
+- Global Site Registry, Archive Record / `.txt`
+- Site Doctrine, Site Classification, and Installation Structure, Archive Record / `.txt`
+- Site Map and Jurisdiction Doctrine, Archive Record / `.txt`
+- Site Registry File Standard, Archive Record / `.txt`
 - `ACT_SITE-01-US-W` Annex Register (clearance-gated)
 - `ACT-SUB-01-US-W — Glass Orchard Relay` Site Dossier
-- Resident file: `Butcher-Vanity-AFD-OB-801.txt` (and log dossiers)
+- Resident file: Butcher Vanity AFD OB 801, Archive Record (and log dossiers)
 - Resident manifest records (clearance-gated)
 
 ---

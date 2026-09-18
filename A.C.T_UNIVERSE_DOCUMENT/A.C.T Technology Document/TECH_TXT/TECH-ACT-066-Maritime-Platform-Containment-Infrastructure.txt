@@ -207,12 +207,12 @@ OPEN QUESTIONS
 
 - How long can a vessel remain a containment site before it must be
 reclassified as a temporary facility?
-— Which platform classes can survive resident pursuit after sensory denial?
-— Can Sonar Void regions interfere with MPCI ledger transmission as well as detection?
-— Should every maritime platform carry pressure-rated capability, or only deep-response vessels?
-— How much cover activity is needed to protect anomaly missions without attracting attention
+- Which platform classes can survive resident pursuit after sensory denial?
+- Can Sonar Void regions interfere with MPCI ledger transmission as well as detection?
+- Should every maritime platform carry pressure-rated capability, or only deep-response vessels?
+- How much cover activity is needed to protect anomaly missions without attracting attention
 through excess presence?
-— Can submersible platforms be safely abandoned if a resident attaches to them as
+- Can submersible platforms be safely abandoned if a resident attaches to them as
 territory?
 
 FILE METADATA

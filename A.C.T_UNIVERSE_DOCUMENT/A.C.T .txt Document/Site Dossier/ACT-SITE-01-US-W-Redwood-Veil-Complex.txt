@@ -103,16 +103,16 @@ payroll, regulatory history, and public reputation:
 - Redwood Veil Biotechnologies — agricultural and biomedical research
   concern; used for inbound logistics, reagent acquisition, and legitimate
   scientific cover for anomalous biological sampling.
-— Cascade Cold Chain Logistics — refrigerated freight operator; used for
+- Cascade Cold Chain Logistics — refrigerated freight operator; used for
   transport of temperature-sensitive objects and for the quiet movement of
   sealed materials between city nodes.
-— The Halvorsen Medical Foundation — private clinic and research hospital;
+- The Halvorsen Medical Foundation — private clinic and research hospital;
   provides cover for the Medical Division's cognitive and memetic trauma work
   and for the treatment of compromised personnel under civilian pretense.
-— Western State Archive Annex (fictional university program) — document
+- Western State Archive Annex (fictional university program) — document
   preservation facility used to explain archivists, microfilm traffic, and
   restricted document storage.
-— Additional single-occupancy residential and commercial fronts are rotated on
+- Additional single-occupancy residential and commercial fronts are rotated on
   a schedule. No cover identity is allowed to age past usefulness.
 
 3.3 Why the West

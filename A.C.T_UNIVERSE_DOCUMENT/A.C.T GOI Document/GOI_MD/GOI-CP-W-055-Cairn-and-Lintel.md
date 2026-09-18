@@ -235,7 +235,7 @@ with predictable abnormal properties. Confirmed or strongly assessed capabilitie
 - wall sections that muffle predatory sound phenomena;
   school safe rooms that disappear from hostile pursuit but remain accessible to listed
   children;
-— tunnel markers that prevent rescue crews from returning to the entrance without evacuees.
+- tunnel markers that prevent rescue crews from returning to the entrance without evacuees.
 
 The group is not assessed as full Structural capability. It does not appear to
 rewrite reality at regional scale. Its
@@ -540,12 +540,12 @@ hazard review.
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Access_and_Egress_Ledger_Form.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Site_Map_and_Jurisdiction_Doctrine.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Site_Doctrine_and_Installation_Structure.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md`
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- ACCESS AND EGRESS LEDGER FORM, Operational Form
+- Site Map and Jurisdiction Doctrine, Archive Record
+- Site Doctrine, Site Classification, and Installation Structure, Archive Record
+- Normalcy Management and Public Narrative Doctrine, Archive Record
   Restricted building, shelter, tunnel, hospital, school, and evacuation-route case chains held under Central
   Archive
   routing.

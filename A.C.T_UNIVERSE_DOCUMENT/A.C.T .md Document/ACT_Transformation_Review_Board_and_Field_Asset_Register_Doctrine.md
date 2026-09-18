@@ -145,7 +145,7 @@ The Board must ask:
 - Can refusal be meaningful inside containment?
   Will the proposed asset require ongoing pain, fear, memory loss, obedience, or personality
   reduction?
-— Is A.C.T repeating the harm that created the anomaly?
+- Is A.C.T repeating the harm that created the anomaly?
   Is the subject being called an asset because that word hurts less than
   victim?
 
@@ -287,17 +287,17 @@ The Board may not approve:
 - weaponization of survivor trauma;
   asset production from childlike subjects without O5 emergency seal and Subject Care dissent
   record;
-— field use without maintenance and recall conditions;
-— secrecy arguments that hide internal harm from the archive;
-— repeating an enemy GOI's abuse under A.C.T vocabulary.
+- field use without maintenance and recall conditions;
+- secrecy arguments that hide internal harm from the archive;
+- repeating an enemy GOI's abuse under A.C.T vocabulary.
 
 ---
 
 ### 4.14 Related Records
 
-- `ACT_Complete_Designation_and_Class_Reference.md`
-- `ACT_Anomaly_Classification_Manual_Archive.md`
-- `NEMNOLIA-004-Series-Amnestic-Archive.md`
+- Complete Designation and Class Reference, Archive Record
+- Anomaly Classification Manual and File Standard, Archive Record
+- 004-Series Amnestic Compound Reference, Archive Record
 - Transformation utilization dossiers
 - Future formal TFA register entries
 

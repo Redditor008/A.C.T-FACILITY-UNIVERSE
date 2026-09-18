@@ -204,7 +204,7 @@ OATDPS doctrine holds that a trained hesitation is stronger than a brave mistake
   Can ordinary archive excellence predict operational archive readiness, or does it sometimes predict
   the
   opposite?
-— How much doctrine should provisional personnel learn before final clearance is granted?
+- How much doctrine should provisional personnel learn before final clearance is granted?
   Should training records include fear responses when fear may be a useful safety
   behavior?
   When does repeated training make personnel too curious about files they are not

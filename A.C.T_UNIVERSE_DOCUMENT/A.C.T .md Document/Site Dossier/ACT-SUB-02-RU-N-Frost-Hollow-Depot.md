@@ -293,8 +293,8 @@ is not expected to change.
 
 ## 14. Cross-Referenced Files
 
-- `ACT_Global_Site_Registry.md` / `.txt`
-- `ACT_Site_Doctrine_and_Installation_Structure.md` / `.txt`
+- Global Site Registry, Archive Record / `.txt`
+- Site Doctrine, Site Classification, and Installation Structure, Archive Record / `.txt`
 - `ACT-SITE-02-RU-N — White Grave Station` Site Dossier
 - Parent command: `ACT-SITE-02-RU-N` Annex Register (clearance-gated)
 

@@ -256,8 +256,8 @@ containment systems depend.
 - Are counterfeit violet crystals harmless frauds or hostile sensor poisons?
   Why do some fragments remain cold until loaded while others produce heat at
   rest?
-— Can shard disagreement be predicted before a four-split core enters service?
-— Does long-term proximity to SPC affect personnel sense of ordinary space?
+- Can shard disagreement be predicted before a four-split core enters service?
+- Does long-term proximity to SPC affect personnel sense of ordinary space?
 
 ---
 

@@ -47,8 +47,8 @@ Every Markdown form in this folder requires a plain-text mirror in the matching 
 folder:
 
 ```text
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .txt Document/Operational Forms/
+Operational Forms collection, Central Archive
+Operational Forms collection, plain-text reading copies
 ```
 
 The Markdown form is the editable authority copy. The text form is the plain
@@ -77,8 +77,8 @@ location, normally one of:
 
 ```text
 A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/[CASE FAMILY]/Log/
-A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/Recovered_Document_Records/
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Site Dossier/[SITE]/
+Group of Interest Registry collection, Central ArchiveRecovered_Document_Records/
+Site Dossier collection, Central Archive[SITE]/
 ```
 
 The original blank form must remain reusable.

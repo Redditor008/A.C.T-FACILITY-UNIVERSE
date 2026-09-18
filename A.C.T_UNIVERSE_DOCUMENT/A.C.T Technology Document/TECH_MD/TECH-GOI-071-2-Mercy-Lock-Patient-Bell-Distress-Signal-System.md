@@ -198,8 +198,8 @@ wrong.
 
 ## CROSS-REFERENCE STATUS
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-HY-P-071-Mercy-Lock-Institute.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/TECH-GOI-071-1-Mercy-Lock-Gentle-Lock-System.md`
+- GOI-HY-P-071 — Mercy Lock Institute, Group of Interest Registry
+- TECH-GOI-071-1 — Mercy Lock Gentle Lock System, Technology Record
   Mercy Lock transfer cards, Red Key fragments, patient care files, and Site 02
   medical-wing
   transfer notes [restricted]
@@ -213,8 +213,8 @@ wrong.
 - Can a bell remain patient-linked after memory, legal name, or body changes?
   What is the maximum safe staff response time before bell neglect becomes containment
   failure?
-— Has Iron Meridian Authority copied patient bells into punitive restraint systems?
-— Can A.C.T build an equivalent without breaking Mercy Lock trust?
+- Has Iron Meridian Authority copied patient bells into punitive restraint systems?
+- Can A.C.T build an equivalent without breaking Mercy Lock trust?
 
 ### Intelligence Confidence
 

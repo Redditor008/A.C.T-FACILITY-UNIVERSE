@@ -182,13 +182,13 @@ OPEN QUESTIONS
 
 - Can a document that stops transmitting be trusted, or has it learned the
 storage cadence?
-— How much metadata can be retained before metadata becomes a carrier?
-— Should every signal-isolated holding receive F-4 propagation analysis by default?
-— When does a storage unit become too active for F-3 and require F-2
+- How much metadata can be retained before metadata becomes a carrier?
+- Should every signal-isolated holding receive F-4 propagation analysis by default?
+- When does a storage unit become too active for F-3 and require F-2
 vaulting?
-— Can a quarantine cell and a signal-isolated unit disagree about what a document
+- Can a quarantine cell and a signal-isolated unit disagree about what a document
 is?
-— How many quiet days make an anomalous document stable, if quiet can be
+- How many quiet days make an anomalous document stable, if quiet can be
 behavior?
 
 FILE METADATA

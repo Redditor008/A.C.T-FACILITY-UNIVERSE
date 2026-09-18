@@ -66,9 +66,9 @@ HABITAT SUMMARY:
    - Suite temperature: 24°C base
    - Floor: Refined Steel-Dirt (Item 42) for a durable, non-abrasive surface
      for the subject's claws and tail
-   — Enrichment: large rubber balls and non-anomalous plastic blocks
+   - Enrichment: large rubber balls and non-anomalous plastic blocks
      approved; shiny objects retained as distraction assets
-   — Cadence: daily welfare checks / weekly habitat cleaning
+   - Cadence: daily welfare checks / weekly habitat cleaning
 
 OBSERVER NOTE: The habitat is maintained to the standard of a large juvenile
 animal, because that is what the subject is — a child made of polymer,
@@ -148,7 +148,7 @@ ANALYSIS:
    - The purple mist contains trace amounts of [ REDACTED ]
    - The mist carries a faint, pleasant scent often described by staff as
      "new toy smell"
-   — Localized thermal emission only; no environmental hazard recorded
+   - Localized thermal emission only; no environmental hazard recorded
 
 ═══════════════════════════════════════════════════════════════════════
              SECTION 005 — ENRICHMENT AND READING SESSIONS

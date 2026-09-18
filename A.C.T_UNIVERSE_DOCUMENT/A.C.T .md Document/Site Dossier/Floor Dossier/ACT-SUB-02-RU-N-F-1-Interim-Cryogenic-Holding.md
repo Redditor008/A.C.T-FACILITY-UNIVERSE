@@ -375,8 +375,8 @@ priorities include:
 - `ACT-SUB-02-RU-N — Frost Hollow Depot` Sub-Site Dossier
 - `ACT-SUB-02-RU-N — F-2 Quarantine and Assessment Level` Floor Dossier
 - `ACT-SITE-02-RU-N — White Grave Station` Site Dossier
-- `ACT_Global_Site_Registry.md` / `.txt`
-- `ACT_Site_Doctrine_and_Installation_Structure.md` / `.txt`
+- Global Site Registry, Archive Record / `.txt`
+- Site Doctrine, Site Classification, and Installation Structure, Archive Record / `.txt`
 - Parent command Annex Register (clearance-gated)
 
 ---

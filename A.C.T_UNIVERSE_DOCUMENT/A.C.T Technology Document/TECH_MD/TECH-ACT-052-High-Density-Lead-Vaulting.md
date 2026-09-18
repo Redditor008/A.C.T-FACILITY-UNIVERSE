@@ -225,7 +225,7 @@ many ways a threat can be light.
 - Can old lead preserve anomalous residue better than modern sterile containment?
   Should every inherited HDLV site be opened, or does opening destroy useful historical
   isolation?
-— Did any early artifact learn to use the vault's silence as concealment?
+- Did any early artifact learn to use the vault's silence as concealment?
 
 ---
 

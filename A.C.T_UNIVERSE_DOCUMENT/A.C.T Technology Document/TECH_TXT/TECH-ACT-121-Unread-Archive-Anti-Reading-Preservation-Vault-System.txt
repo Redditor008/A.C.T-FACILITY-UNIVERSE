@@ -183,13 +183,13 @@ OPEN QUESTIONS
 
 - Can a holding remain preserved forever if no one may confirm its full
 content?
-— When does a catalog code reveal too much about the unreadable thing it
+- When does a catalog code reveal too much about the unreadable thing it
 hides?
-— Should personnel be rotated before curiosity appears or only after Medical identifies fixation?
-— Can preservation failure justify direct reading if direct reading is the breach condition?
-— How much of an F-1 incident may be written before the incident record
+- Should personnel be rotated before curiosity appears or only after Medical identifies fixation?
+- Can preservation failure justify direct reading if direct reading is the breach condition?
+- How much of an F-1 incident may be written before the incident record
 becomes a second hazard?
-— Does the archive protect the world by not knowing, or does it only
+- Does the archive protect the world by not knowing, or does it only
 postpone the day someone must know?
 
 FILE METADATA

@@ -746,11 +746,11 @@ Confirmed Operational Facts
 - The company possesses a mysterious anomalous machine that extracts Dream Nectar from at
 least one [REDACTED]
 Dream-Type Anomaly.
-— DREAM .INC sells Dream Nectar as underground medicine.
-— The product is sold with the claim that a consumer's wish will come
+- DREAM .INC sells Dream Nectar as underground medicine.
+- The product is sold with the claim that a consumer's wish will come
 true in their dream.
-— At least twelve open buildings are confirmed as company facilities.
-— The full executive structure, source location, machine origin, and total distribution footprint remain
+- At least twelve open buildings are confirmed as company facilities.
+- The full executive structure, source location, machine origin, and total distribution footprint remain
 unresolved.
 
 Active Intelligence Assessment
@@ -788,18 +788,18 @@ Persistent Questions
 - Does the extraction apparatus create the dream effect, capture it from the source,
 or connect consumers to a shared
 dream condition?
-— Is the source anomaly aware of, harmed by, or altered through repeated extraction?
-— Who controls the machine, and are corporate executives aware that it is anomalous?
-— Which of the twelve confirmed buildings handles source-adjacent work, machine maintenance, product custody,
+- Is the source anomaly aware of, harmed by, or altered through repeated extraction?
+- Who controls the machine, and are corporate executives aware that it is anomalous?
+- Which of the twelve confirmed buildings handles source-adjacent work, machine maintenance, product custody,
 consumer
 screening, or ordinary cover activity?
-— Are Dream Nectar wishes collected from consumers only for marketing, or do they
+- Are Dream Nectar wishes collected from consumers only for marketing, or do they
 affect extraction output and
 source-anomaly behavior?
-— Do repeated users develop a dependency on dream fulfillment, false memory, altered desire,
+- Do repeated users develop a dependency on dream fulfillment, false memory, altered desire,
 or a waking effect not
 yet reported to A.C.T?
-— What event would force the company to abandon open buildings and move its
+- What event would force the company to abandon open buildings and move its
 machine or source into a more dangerous
 hidden condition?
 
@@ -841,10 +841,10 @@ Related A.C.T Records
 - Site Map and Jurisdiction Doctrine - cross-site assignment and corporate-route response.
 - Facility Divisions, Personnel Roles, and Operational Life - Intelligence, Medical, Recovery, Containment, Civil
 Covert, and Security responsibilities.
-— Anomaly Classification Manual Archive - separate filing of the Dream-Type Anomaly, extraction apparatus,
+- Anomaly Classification Manual Archive - separate filing of the Dream-Type Anomaly, extraction apparatus,
 and Dream
 Nectar material.
-— Anomaly Log Categories In-World Explanation - controlled recovery, medical, incident, and exposure documentation.
+- Anomaly Log Categories In-World Explanation - controlled recovery, medical, incident, and exposure documentation.
 
 ==============================================================================
 

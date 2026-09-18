@@ -226,10 +226,10 @@ strongly assessed capabilities include:
 - custody trains modified for anomalous prisoner transport;
   survey guns that mark boundaries visible to some entities and invisible to most
   civilians;
-— tribunal rooms that pressure witnesses toward Authority classifications;
-— restraint doors that lock according to hazard label rather than physical key alone;
-— black ledgers that preserve prisoner categories after public records are altered;
-— field hospitals that stabilize captives primarily for interrogation, transfer, or labor.
+- tribunal rooms that pressure witnesses toward Authority classifications;
+- restraint doors that lock according to hazard label rather than physical key alone;
+- black ledgers that preserve prisoner categories after public records are altered;
+- field hospitals that stabilize captives primarily for interrogation, transfer, or labor.
 
 The Authority's technology requires later individual technology documents. Suppression collars, survey guns, custody
 trains, black ledgers, and restraint doors are priority candidates once the GOI creation phase
@@ -523,13 +523,13 @@ or recovered-document files. This GOI dossier must not replace captive recovery 
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-HY-P-071-Mercy-Lock-Institute.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-GV-X-060-Office-for-Witness-Continuance.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-BS-X-069-Namewright-Bazaar.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Complete_Designation_and_Class_Reference.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Standing_Field_Units_and_Cross_Containment_Interaction_Doctrine.md`
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- GOI-HY-P-071 — Mercy Lock Institute, Group of Interest Registry
+- GOI-GV-X-060 — Office for Witness Continuance, Group of Interest Registry
+- GOI-BS-X-069 — Namewright Bazaar, Group of Interest Registry
+- Complete Designation and Class Reference, Archive Record
+- Standing Field Units and Cross-Containment Interaction Protocol, Archive Record
 - Restricted detention, quarantine, forced labor, hostile containment, prisoner subject, emergency-law, and device
   recovery files held under Central Archive routing.
 

@@ -376,8 +376,8 @@ priorities include:
 - `ACT-SITE-05-ID-C — Nusantara Deep Relay` Site Dossier (Floor Register)
 - `ACT-SITE-05-ID-C — F-3 Maritime and Island Holding Level` Floor Dossier
 - `ACT-SITE-05-ID-C — F-5 Personnel and Command Level` Floor Dossier
-- `ACT_Global_Site_Registry.md` / `.txt`
-- `ACT_Site_Doctrine_and_Installation_Structure.md` / `.txt`
+- Global Site Registry, Archive Record / `.txt`
+- Site Doctrine, Site Classification, and Installation Structure, Archive Record / `.txt`
 - Nusantara Annex Register (clearance-gated)
 - Restricted review chain files (abyss-related; clearance-gated beyond site governance)
 

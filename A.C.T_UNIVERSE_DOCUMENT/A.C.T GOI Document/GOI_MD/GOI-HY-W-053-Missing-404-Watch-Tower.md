@@ -128,11 +128,11 @@ A.C.T assessment divides the organization into several functional layers:
 - dead-address clerks who preserve locations after public systems fail;
   absence cartographers who compare old maps, emergency routes, missing trail records, and impossible
   coordinates;
-— signal keepers who preserve radio, phone, web, and emergency-call traces;
-— field relays who guide recovery crews without always entering the hazard area;
-— witness continuance officers who make sure missing persons remain legally and socially named;
-— archive bell operators who issue alerts when a case enters Missing 404 patterning;
-— locked-ledger custodians who protect sensitive absence records from accidental deletion or deliberate normalcy
+- signal keepers who preserve radio, phone, web, and emergency-call traces;
+- field relays who guide recovery crews without always entering the hazard area;
+- witness continuance officers who make sure missing persons remain legally and socially named;
+- archive bell operators who issue alerts when a case enters Missing 404 patterning;
+- locked-ledger custodians who protect sensitive absence records from accidental deletion or deliberate normalcy
   cleanup.
 
 This structure is why the group qualifies as a GOI rather than a rumor,
@@ -497,13 +497,12 @@ every disappearance it observes.
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Access_and_Egress_Ledger_Form.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational
-  Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md`
-— Restricted missing-person, vanished-location, and dead-address case chains held under Central Archive routing.
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- ACCESS AND EGRESS LEDGER FORM, Operational Form
+- WITNESS STATEMENT AND TESTIMONY FORM, Operational Form
+- AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM, Operational Form
+- Restricted missing-person, vanished-location, and dead-address case chains held under Central Archive routing.
 
 ### Dual Filing
 

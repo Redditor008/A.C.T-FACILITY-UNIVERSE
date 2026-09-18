@@ -228,8 +228,8 @@ absence.
   Can hostile groups design hazards that ride the permitted edges of a known
   filter
   list?
-— Does long-term NL-004 use change how a person trusts their own recall?
-— What removal procedure preserves the patient without releasing retained residue?
+- Does long-term NL-004 use change how a person trusts their own recall?
+- What removal procedure preserves the patient without releasing retained residue?
 
 ---
 

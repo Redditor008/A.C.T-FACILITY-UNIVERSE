@@ -96,8 +96,8 @@ ACCEPTED MATERIALS:
    - discarded computers and circuit boards
    - rusted cables, plugs, adapters, chargers, and dead batteries after safe
      discharge
-   — abandoned household electronics and nonfunctional laboratory equipment
-   — analog storage media with no active archive claim
+   - abandoned household electronics and nonfunctional laboratory equipment
+   - analog storage media with no active archive claim
 
 REJECTED OR AVOIDED MATERIALS:
 
@@ -185,8 +185,8 @@ CONTAINMENT RULES:
    - Above 8.5 m, nonessential personnel evacuate the wing and dissipation
      rods are armed; at 9.5 m the chamber enters automatic breakdown
      containment mode
-   — No personal discarded devices may be placed in the chamber
-   — No high-voltage suppression unless the subject is in uncontrolled
+   - No personal discarded devices may be placed in the chamber
+   - No high-voltage suppression unless the subject is in uncontrolled
      breach movement — electrical attacks may be read as feeding stimulus
 
 OBSERVATION NOTE: Do not leave broken equipment near the chamber door. The

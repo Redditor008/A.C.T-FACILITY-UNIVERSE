@@ -225,7 +225,7 @@ Standing reminder: MTR buys control of angle. It does not buy ownership of dange
   What is the safest mobile MTR size before transport becomes more dangerous than
   the
   subject?
-— Are self-organizing metallic masses responding to magnetic pressure or to restraint intent?
+- Are self-organizing metallic masses responding to magnetic pressure or to restraint intent?
 
 ---
 

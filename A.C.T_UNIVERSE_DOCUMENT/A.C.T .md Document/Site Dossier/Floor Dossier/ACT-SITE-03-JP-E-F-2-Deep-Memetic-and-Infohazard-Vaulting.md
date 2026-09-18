@@ -396,8 +396,8 @@ priorities include:
 - `ACT-SITE-03-JP-E — Kurokawa Archive Node` Site Dossier (Floor Register)
 - `ACT-SITE-03-JP-E — F-1 The Unread Archive` Floor Dossier
 - `ACT-SITE-03-JP-E — F-3 Active Anomalous Document Storage` Floor Dossier
-- `ACT_Global_Site_Registry.md` / `.txt`
-- `ACT_Site_Doctrine_and_Installation_Structure.md` / `.txt`
+- Global Site Registry, Archive Record / `.txt`
+- Site Doctrine, Site Classification, and Installation Structure, Archive Record / `.txt`
 - Kurokawa Annex Register (clearance-gated)
 - AFD-ME-018 resident file and log dossiers (clearance-gated)
 

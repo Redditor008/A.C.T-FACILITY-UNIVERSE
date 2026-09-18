@@ -66,8 +66,8 @@ identified several recurring parts:
   gentle lock transfer plates mounted near the rear doors, side hatch, or patient
   bay
   threshold;
-— consent-card sleeves visible from the patient cot;
-— low-stimulation lighting and acoustic baffling drawn from Mercy Lock quiet rooms;
+- consent-card sleeves visible from the patient cot;
+- low-stimulation lighting and acoustic baffling drawn from Mercy Lock quiet rooms;
   dual-staff key points requiring both a medical custodian and transfer nurse to convert
   the
   bay from care mode to hard
@@ -156,10 +156,10 @@ Known or suspected failure modes include:
   public police ordering the rear doors opened before a transfer nurse can set
   the
   gentle plate;
-— A.C.T intake teams using surname confirmation despite a no-surname transfer note;
-— ambulance bay conversion into hard seal without patient advocate review;
-— hostile GOI mimicry of Mercy Lock vehicle markings to lure residents or families;
-— insurance or hospital administrators demanding paperwork that exposes ward names.
+- A.C.T intake teams using surname confirmation despite a no-surname transfer note;
+- ambulance bay conversion into hard seal without patient advocate review;
+- hostile GOI mimicry of Mercy Lock vehicle markings to lure residents or families;
+- insurance or hospital administrators demanding paperwork that exposes ward names.
 
 A.C.T has one near-miss on record where a receiving team attempted to move a
 resident from the ambulance cot to a

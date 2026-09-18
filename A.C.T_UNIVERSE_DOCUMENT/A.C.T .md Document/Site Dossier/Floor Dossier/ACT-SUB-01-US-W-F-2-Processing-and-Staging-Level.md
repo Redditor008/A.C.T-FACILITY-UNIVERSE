@@ -380,8 +380,8 @@ priorities include:
 - `ACT-SUB-01-US-W — F-1 Short-Term Holding Vault` Floor Dossier
 - `ACT-SUB-01-US-W — F-3 Surface Cover Level` Floor Dossier
 - `ACT-SITE-01-US-W — Redwood Veil Complex` Site Dossier
-- `ACT_Global_Site_Registry.md` / `.txt`
-- `ACT_Site_Doctrine_and_Installation_Structure.md` / `.txt`
+- Global Site Registry, Archive Record / `.txt`
+- Site Doctrine, Site Classification, and Installation Structure, Archive Record / `.txt`
 - Parent command Annex Register (clearance-gated)
 
 ---

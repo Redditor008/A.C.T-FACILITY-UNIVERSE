@@ -92,12 +92,12 @@ These signs included:
   ghosts and dead presences that no longer remained in rumor, but appeared openly
   to
   the living
-— the first known **Anomalous Earthquake**, whose origin was not natural in the slightest
+- the first known **Anomalous Earthquake**, whose origin was not natural in the slightest
   a mysterious forest from which a person could vanish for years and emerge
   physically
   healthy, but confused and
   temporally displaced
-— contradictory events in recorded history that neither scientists nor historians could fully reconcile
+- contradictory events in recorded history that neither scientists nor historians could fully reconcile
   reports of a living human being who had been alive since before the
   year
   **15xx** and had not meaningfully aged

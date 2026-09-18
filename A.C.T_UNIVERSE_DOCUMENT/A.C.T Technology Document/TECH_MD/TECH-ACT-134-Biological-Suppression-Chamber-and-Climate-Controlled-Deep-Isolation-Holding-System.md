@@ -196,7 +196,7 @@ minute.
   How much Research sampling can occur before a standard resident is no longer
   in
   standard condition?
-— When does cold suppression preserve a hazard instead of containing it?
+- When does cold suppression preserve a hazard instead of containing it?
   Does F-3 prove that White Grave controls its residents, or only that it
   can
   keep them waiting?

@@ -3,58 +3,58 @@
 
 
 ### Continuity Policy
-- `ACT_Continuity_Policy.md`
-- `ACT_Continuity_Policy.txt`
+- Canon, Story Layer, Archive Layer, and Non-Core Material, Narrative Record
+- Canon, Story Layer, Archive Layer, and Non-Core Material, Narrative Record
 
 ### Complete Files
-- `The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md`
-- `The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.txt`
-- `The_Complete_Abyssal_Archive_Dossier.md`
-- `The_Complete_Abyssal_Archive_Dossier.txt`
+- Full Manuscript, Narrative Record
+- Full Manuscript, Narrative Record
+- A.C.T. ORIGIN RECONSTRUCTION — THE FIRST LIE, Narrative Record
+- A.C.T. ORIGIN RECONSTRUCTION — THE FIRST LIE, Narrative Record
 
 ### Archives
-- `Archives/The-Facility-That-Forgot-Its-First-Lie-Archive.md`
-- `Archives/The-Facility-That-Forgot-Its-First-Lie-Archive.txt`
+- Primary Narrative Archive, Narrative Record
+- Primary Narrative Archive, Narrative Record
 
 ### Narrative
-- `Narrative/The-Facility-That-Forgot-Its-First-Lie-Narrative.md`
-- `Narrative/The-Facility-That-Forgot-Its-First-Lie-Narrative.txt`
+- The Facility That Forgot Its First Lie, Narrative Record
+- The Facility That Forgot Its First Lie, Narrative Record
 
 ### Outlines
-- `Outlines/The-Facility-That-Forgot-Its-First-Lie-Chapter-Outline.md`
-- `Outlines/The-Facility-That-Forgot-Its-First-Lie-Chapter-Outline.txt`
+- Chapter-by-Chapter Outline, Narrative Record
+- Chapter-by-Chapter Outline, Narrative Record
 
 ### Characters
-- `Characters/The-Facility-That-Forgot-Its-First-Lie-Character-Archive-Profiles.md`
-- `Characters/The-Facility-That-Forgot-Its-First-Lie-Character-Archive-Profiles.txt`
+- Main Story Character Archive Profiles, Narrative Record
+- Main Story Character Archive Profiles, Narrative Record
 
 ### Chapters
-- `Chapters/Chapter-1-Correction-Order.md`
-- `Chapters/Chapter-1-Correction-Order.txt`
-- `Chapters/Chapter-2-Wounds-in-the-Archive.md`
-- `Chapters/Chapter-2-Wounds-in-the-Archive.txt`
-- `Chapters/Chapter-3-The-004-Irregularity.md`
-- `Chapters/Chapter-3-The-004-Irregularity.txt`
-- `Chapters/Chapter-4-The-Bloom-Before-the-Bloom.md`
-- `Chapters/Chapter-4-The-Bloom-Before-the-Bloom.txt`
-- `Chapters/Chapter-5-Entity-Research-Exploration.md`
-- `Chapters/Chapter-5-Entity-Research-Exploration.txt`
-- `Chapters/Chapter-6-The-Sleeping-Foundation.md`
-- `Chapters/Chapter-6-The-Sleeping-Foundation.txt`
-- `Chapters/Chapter-7-The-Founders-Silence.md`
-- `Chapters/Chapter-7-The-Founders-Silence.txt`
-- `Chapters/Chapter-8-NEMNOLIA-and-the-Dream-State.md`
-- `Chapters/Chapter-8-NEMNOLIA-and-the-Dream-State.txt`
-- `Chapters/Chapter-9-The-First-Lie.md`
-- `Chapters/Chapter-9-The-First-Lie.txt`
-- `Chapters/Chapter-10-The-Cost-of-Remembering.md`
-- `Chapters/Chapter-10-The-Cost-of-Remembering.txt`
-- `Chapters/Chapter-11-Fragments-Not-Revelation.md`
-- `Chapters/Chapter-11-Fragments-Not-Revelation.txt`
-- `Chapters/Chapter-12-The-Second-Self-Erasure.md`
-- `Chapters/Chapter-12-The-Second-Self-Erasure.txt`
-- `Chapters/Epilogue-The-Archive-Still-Breathes.md`
-- `Chapters/Epilogue-The-Archive-Still-Breathes.txt`
+- Chapter 1 — Correction Order, Narrative Record
+- Chapter 1 — Correction Order, Narrative Record
+- Chapter 2 — Wounds in the Archive, Narrative Record
+- Chapter 2 — Wounds in the Archive, Narrative Record
+- Chapter 3 — The 004 Irregularity, Narrative Record
+- Chapter 3 — The 004 Irregularity, Narrative Record
+- Chapter 4 — The Bloom Before the Bloom, Narrative Record
+- Chapter 4 — The Bloom Before the Bloom, Narrative Record
+- Chapter 5 — Entity Research Exploration, Narrative Record
+- Chapter 5 — Entity Research Exploration, Narrative Record
+- Chapter 6 — The Sleeping Foundation, Narrative Record
+- Chapter 6 — The Sleeping Foundation, Narrative Record
+- Chapter 7 — The Founders’ Silence, Narrative Record
+- Chapter 7 — The Founders’ Silence, Narrative Record
+- Chapter 8 — NEMNOLIA and the Dream-State, Narrative Record
+- Chapter 8 — NEMNOLIA and the Dream-State, Narrative Record
+- Chapter 9 — The First Lie, Narrative Record
+- Chapter 9 — The First Lie, Narrative Record
+- Chapter 10 — The Cost of Remembering, Narrative Record
+- Chapter 10 — The Cost of Remembering, Narrative Record
+- Fragment Set Summary, Narrative Record
+- Fragment Set Summary, Narrative Record
+- Chapter 12 — The Second Self-Erasure, Narrative Record
+- Chapter 12 — The Second Self-Erasure, Narrative Record
+- Epilogue — The Archive Still Breathes, Narrative Record
+- Epilogue — The Archive Still Breathes, Narrative Record
 
 ### Archive Use Note
 

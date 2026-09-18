@@ -325,16 +325,16 @@ Known or assessed assets include:
 
 - ark holds divided by living, seed, memory, tool, medical, animal, culture, containment, and
 unknown categories;
-— fold vaults with inconsistent external dimensions;
-— species ledgers and denied-species registers;
-— cold cradles for viable tissue, seed, eggs, blood, spores, and unknown samples;
-— memory banks holding language, maps, witness warnings, recipes, law fragments, and disaster causes;
-— covenant keys requiring multiple roles to open;
-— sealed vessels registered under ordinary maritime or research foundations;
-— evacuation lottery offices and sealed competence interviews;
-— quiet convoys of refrigerated trucks;
-— sample coffers with nine-line seals;
-— continuity legal trusts that survive owner death, state collapse, or record alteration.
+- fold vaults with inconsistent external dimensions;
+- species ledgers and denied-species registers;
+- cold cradles for viable tissue, seed, eggs, blood, spores, and unknown samples;
+- memory banks holding language, maps, witness warnings, recipes, law fragments, and disaster causes;
+- covenant keys requiring multiple roles to open;
+- sealed vessels registered under ordinary maritime or research foundations;
+- evacuation lottery offices and sealed competence interviews;
+- quiet convoys of refrigerated trucks;
+- sample coffers with nine-line seals;
+- continuity legal trusts that survive owner death, state collapse, or record alteration.
 
 A.C.T has inspected one seed annex under cooperation, seized one sample coffer after custody
 dispute, and photographed
@@ -543,14 +543,14 @@ Persistent Questions
 - What is the Ninth Hold: category, room, vessel, council, anomaly, or censored failure?
 - Do fold vaults physically enlarge space, alter inventory memory, or use undisclosed mundane
 architecture?
-— How many Ark vessels are real, and how many are decoys meant to
+- How many Ark vessels are real, and how many are decoys meant to
 draw raiders away?
-— Has the Ark copied A.C.T containment restart protocols from current facilities?
-— Do selection ledgers change after a future outcome becomes more or less likely?
-— How many people have been denied boarding while their songs, languages, or genetic
+- Has the Ark copied A.C.T containment restart protocols from current facilities?
+- Do selection ledgers change after a future outcome becomes more or less likely?
+- How many people have been denied boarding while their songs, languages, or genetic
 material were accepted?
-— Would the Ark sabotage an evacuation if panic boarding threatened a critical vessel?
-— Can A.C.T create ethical continuity protocols strong enough to negotiate with or replace
+- Would the Ark sabotage an evacuation if panic boarding threatened a critical vessel?
+- Can A.C.T create ethical continuity protocols strong enough to negotiate with or replace
 Ark decisions during mass
 failure?
 
@@ -581,14 +581,14 @@ files. This GOI dossier must not replace vessel-specific or sample-specific cust
 Related A.C.T Records
 ---------------------
 
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-HY-P-071-Mercy-Lock-Institute.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-HY-X-072-Iron-Meridian-Authority.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-HY-W-073-Lantern-Accord.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CU-W-066-Archivists-of-the-Final-Dawn.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Complete_Designation_and_Class_Reference.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Standing_Field_Units_and_Cross_Containment_Interaction_Doctrine.md
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- GOI-HY-P-071 — Mercy Lock Institute, Group of Interest Registry
+- GOI-HY-X-072 — Iron Meridian Authority, Group of Interest Registry
+- GOI-HY-W-073 — Lantern Accord, Group of Interest Registry
+- GOI-CU-W-066 — Archivists of the Final Dawn, Group of Interest Registry
+- Complete Designation and Class Reference, Archive Record
+- Standing Field Units and Cross-Containment Interaction Protocol, Archive Record
 - Restricted continuity, extinction, seed-bank, sample, biosphere, evacuation, memory archive, and vault files held
 under Central Archive routing.
 

@@ -88,9 +88,9 @@ ARM appears in five major roles:
 
 - fixed site concealment, including surface campuses, service entries, perimeter roads, and exterior facility
   signatures;
-— civilian perception management around A.C.T buildings, false companies, and restricted infrastructure;
-— surveillance dampening against ordinary cameras, map services, delivery systems, and casual drone observation;
-— emergency misdirection during breach response, transport arrival, or surface lockdown;
+- civilian perception management around A.C.T buildings, false companies, and restricted infrastructure;
+- surveillance dampening against ordinary cameras, map services, delivery systems, and casual drone observation;
+- emergency misdirection during breach response, transport arrival, or surface lockdown;
   post-incident normalcy support when an area must remain publicly boring long enough for
   Civil
   Covert to replace the
@@ -486,14 +486,14 @@ noticed. Logistics coordinates deliveries, transport routes, and mobile ARM use.
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Master_Index_50.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Evolution_Timeline.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Visual_Reference_Guide.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Site Dossier/ACT-SITE-01-US-W-Redwood-Veil-Complex.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Site Dossier/ACT-SITE-02-RU-N-White-Grave-Station.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/TECH-ACT-001-Reality-Stabilization-Anchor-System.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/00_Technology_Record_Template.md`
+- ACT-MASTER-INDEX-50-SYSTEMS-AND-MATERIALS, Archive Record
+- Internal Engineering Record: 1598 – 2026, Archive Record
+- Comprehensive Visual and Mechanical Specifications for Asset Index 50, Archive Record
+- Normalcy Management and Public Narrative Doctrine, Archive Record
+- ACT-SITE-01-US-W — Redwood Veil Complex, Site Dossier
+- ACT-SITE-02-RU-N — White Grave Station, Site Dossier
+- TECH-ACT-001 — Reality Stabilization Anchor System, Technology Record
+- TECHNOLOGY RECORD TEMPLATE, Technology Record
 
 ### Technology Relationship
 

@@ -197,9 +197,9 @@ associated with force, security, and direct engagement.
   **Recovery Division**: Tasked with locating, securing, retrieving, and transporting anomalies from the field
   before
   public normalcy is compromised.
-— **Containment Division**: Designs, maintains, and enforces the systems, chambers, rituals, technologies, and
+- **Containment Division**: Designs, maintains, and enforces the systems, chambers, rituals, technologies, and
   procedures required to keep anomalies isolated and controlled.
-— **Military Division**: The most openly force-oriented branch, activated when anomalies require extreme suppression,
+- **Military Division**: The most openly force-oriented branch, activated when anomalies require extreme suppression,
   black-zone intervention, or overwhelming tactical response.
 
 ### East Wings
@@ -210,7 +210,7 @@ The **East Wings** represent information control, bureaucratic stability, and op
   **Intelligence Division**: Handles surveillance, internal security monitoring, witness suppression planning,
   external
   observation, infiltration analysis, and information forecasting.
-— **Task Management**: Coordinates personnel assignments, mission logistics, multi-division scheduling, response
+- **Task Management**: Coordinates personnel assignments, mission logistics, multi-division scheduling, response
   prioritization, and internal workflow across the site.
 
 ### South Wings
@@ -233,7 +233,7 @@ The **North Wings** are the scientific and medical heart of the A.C.T Facility.
   **Transformation Division**: The branch dedicated to converting anomalies from unpredictable threats into
   stabilized,
   neutralized, repurposed, or integrated assets.
-— **Anomaly Lab Quarter**: A secured research district where controlled testing, specialized containment experiments,
+- **Anomaly Lab Quarter**: A secured research district where controlled testing, specialized containment experiments,
   and high-risk scientific operations are performed.
   **Medical Care Division**: Treats conventional injuries, anomalous contamination, memetic trauma, biohazard
   exposure,

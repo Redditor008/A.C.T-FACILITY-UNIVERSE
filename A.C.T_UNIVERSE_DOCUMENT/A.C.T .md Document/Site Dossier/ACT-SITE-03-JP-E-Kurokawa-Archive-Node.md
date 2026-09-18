@@ -629,13 +629,13 @@ not expected to change.
 
 ## 17. Cross-Referenced Files
 
-- `ACT_Global_Site_Registry.md` / `.txt`
-- `ACT_Site_Doctrine_and_Installation_Structure.md` / `.txt`
-- `ACT_Site_Map_and_Jurisdiction_Doctrine.md` / `.txt`
-- `ACT_Site_Registry_File_Standard.md` / `.txt`
+- Global Site Registry, Archive Record / `.txt`
+- Site Doctrine, Site Classification, and Installation Structure, Archive Record / `.txt`
+- Site Map and Jurisdiction Doctrine, Archive Record / `.txt`
+- Site Registry File Standard, Archive Record / `.txt`
 - `ACT-SITE-03-JP-E` Annex Register (clearance-gated)
 - `ACT-SUB-03-JP-E — Silent Reed Annex` Site Dossier
-- Resident file: `Dread-EYE-AFD-ME-018.txt`
+- Resident file: Dread EYE AFD ME 018, Archive Record
 - Resident manifest records (clearance-gated)
 
 ---

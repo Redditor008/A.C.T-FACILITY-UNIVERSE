@@ -143,11 +143,11 @@ A.C.T assessment identifies these functional layers:
   offering clerks who prepare food, water, smoke, silence, heat, apology, music, or other
   required
   tending conditions;
-— procession guards who protect movement routes and prevent spectators from touching covered carts;
-— shrine nurses who treat handlers, witnesses, and civilians affected by relic contact;
-— quiet auditors who inspect museums, estates, churches, and private collections for mistended relics;
-— child attendants whose role is restricted and not fully understood by A.C.T;
-— closed-room singers who maintain low-volume rites near objects that react to naming.
+- procession guards who protect movement routes and prevent spectators from touching covered carts;
+- shrine nurses who treat handlers, witnesses, and civilians affected by relic contact;
+- quiet auditors who inspect museums, estates, churches, and private collections for mistended relics;
+- child attendants whose role is restricted and not fully understood by A.C.T;
+- closed-room singers who maintain low-volume rites near objects that react to naming.
 
 This structure makes the Keepers a real GOI rather than an incidental caretaker community.
 
@@ -509,11 +509,11 @@ specific object classification.
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CU-P-061-The-Kindly-Molt.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-GV-N-058-Crown-Office-of-Ash-Keys.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md`
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- GOI-CU-P-061 — The Kindly Molt, Group of Interest Registry
+- GOI-GV-N-058 — Crown Office of Ash Keys, Group of Interest Registry
+- Normalcy Management and Public Narrative Doctrine, Archive Record
   Restricted relic, shrine, offering, procession, museum, caretaker, and object-custody case chains held under
   Central
   Archive routing.

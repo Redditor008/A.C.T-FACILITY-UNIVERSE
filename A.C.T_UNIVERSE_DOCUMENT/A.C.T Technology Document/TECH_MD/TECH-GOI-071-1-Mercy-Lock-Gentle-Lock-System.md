@@ -401,12 +401,12 @@ used without consent review may become unlawful detention even if it is technica
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/00_Technology_Record_Template.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-HY-P-071-Mercy-Lock-Institute.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-HY-X-072-Iron-Meridian-Authority.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Master_Index_50.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Visual_Reference_Guide.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Standing_Field_Units_and_Cross_Containment_Interaction_Doctrine.md`
+- TECHNOLOGY RECORD TEMPLATE, Technology Record
+- GOI-HY-P-071 — Mercy Lock Institute, Group of Interest Registry
+- GOI-HY-X-072 — Iron Meridian Authority, Group of Interest Registry
+- ACT-MASTER-INDEX-50-SYSTEMS-AND-MATERIALS, Archive Record
+- Comprehensive Visual and Mechanical Specifications for Asset Index 50, Archive Record
+- Standing Field Units and Cross-Containment Interaction Protocol, Archive Record
   Restricted Mercy Lock transfer notes, Red Key incident fragments, patient care files, and
   Site
   02 medical-wing

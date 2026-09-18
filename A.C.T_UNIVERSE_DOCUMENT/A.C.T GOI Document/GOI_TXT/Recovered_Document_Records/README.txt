@@ -8,8 +8,8 @@ Authority: Central Archive and External Threat Review
 ### Archive Note
 This folder is reserved for recovered, intercepted, translated, reconstructed, or quarantined documents connected to
 Groups of Interest. It is not the home for full GOI dossiers. Full GOI
-assessment records remain in the parent GOI_MD/
-and GOI_TXT/ folders.
+assessment records remain in the parent Group of Interest Registry collection, Central Archive
+and Group of Interest Registry collection, plain-text reading copies folders.
 
 A recovered document may carry a GOI voice directly. A dossier may not pretend
 that voice is A.C.T's conclusion. This

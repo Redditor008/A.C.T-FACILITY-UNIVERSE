@@ -29,13 +29,13 @@ unstable phenomena.
 *   **1598:** **High-Density Lead Vaulting.** Identification of
     shielding properties in refined lead. Used to secure the
     foundational artifacts.
-— **1740s:** **Vacuum Isolation Spheres.** Development of
+- **1740s:** **Vacuum Isolation Spheres.** Development of
     hand-blown glass-ceramic vacuum chambers to isolate acoustic and
     memetic signatures.
-— **1810s:** **Clockwork Causal Anchors.** Early attempts to
+- **1810s:** **Clockwork Causal Anchors.** Early attempts to
     mechanize temporal stabilization using precision brass and iron
     systems.
-— **1860s:** **Reinforced Iron Caging.** The first standardized
+- **1860s:** **Reinforced Iron Caging.** The first standardized
     "Massive Box" designs, utilizing multi-layered iron hulls to
     contain high-mass biological subjects.
 
@@ -50,12 +50,12 @@ structural engineering and secrecy maintenance.
 
 *   **1888:** **The Steam-Drill Excavator.** Custom sub-crustal boring
     equipment capable of sustained thermal and pressure resistance.
-— **1912:** **Abyssal Masonry.** Introduction of a concrete composite
+- **1912:** **Abyssal Masonry.** Introduction of a concrete composite
     designed to dampen seismic fluctuations within the Primary Facility.
-— **1926:** **The Silent Boundary.** Implementation of the first
+- **1926:** **The Silent Boundary.** Implementation of the first
     "Normalcy" protocols, shifting away from visible vaults toward
     integrated architectural concealment.
-— **1940:** **ARM Prototype (Alpha).** The first functional
+- **1940:** **ARM Prototype (Alpha).** The first functional
     Anti Reality Mesh was deployed. It used light-refraction
     interference to mask the Siena Estate — the ancestral seat of the Old Blood
     anomaly later filed as **AFD-SU-009**, Her
@@ -75,16 +75,16 @@ deployment of proprietary amnestics.
 *   **1952:** **004-Series Refinement.** Industrial-scale production of
     stabilized memory-solvent compounds. Establishment of the
     Graded Amnestic Standard.
-— **1965:** **RSA (Reality Stabilization Anchor) Prototype.** The
+- **1965:** **RSA (Reality Stabilization Anchor) Prototype.** The
     first successful deployment of static-pulse crystal resonance to
     maintain local space-time coherence.
-— **1982:** **Site-Wide ARM Deployment.** Transition of the
+- **1982:** **Site-Wide ARM Deployment.** Transition of the
     entire Site Network into "Unremarkable" status via advanced
     perceptual cloaking.
-— **1992:** **Quantum Narrative Buffer (QNB).** Deployment of
+- **1992:** **Quantum Narrative Buffer (QNB).** Deployment of
     causal-resistant data etching to protect the Archive from
     external rewrites and temporal resets.
-— **1995:** **FCA (Facility Converted Aircraft).** Heavy VTOL transport
+- **1995:** **FCA (Facility Converted Aircraft).** Heavy VTOL transport
     vessels utilizing RSA technology to move world-scale samples
     through sub-orbital routes.
 
@@ -99,16 +99,16 @@ optimization.
 *   **2004:** **SSF (Synthetic Sanguine-Fuel).** Perfection of the
     blood-fuel substitute, standardized for all mechanical subjects
     requiring mammalian biological input.
-— **2011:** **Causal Static Generators.** Introduction of
+- **2011:** **Causal Static Generators.** Introduction of
     high-entropy data broadcasters used to starve narrative-based
     singularities of their plot weight.
-— **2018:** **Tactical Feedbacker Arm.** Deployment of the first
+- **2018:** **Tactical Feedbacker Arm.** Deployment of the first
     parrying prosthesis using harmonic vibration to redirect
     high-energy projectiles.
-— **2023:** **Genetic Perfection Protocol.** Automated medical
+- **2023:** **Genetic Perfection Protocol.** Automated medical
     suites designed to mend total DNA-level rewrites in under
     five minutes.
-— **2026:** **Digital Resonance Mapping.** Current standard for
+- **2026:** **Digital Resonance Mapping.** Current standard for
     detecting the unique causal pulse of an object prior to
     physical contact.
 

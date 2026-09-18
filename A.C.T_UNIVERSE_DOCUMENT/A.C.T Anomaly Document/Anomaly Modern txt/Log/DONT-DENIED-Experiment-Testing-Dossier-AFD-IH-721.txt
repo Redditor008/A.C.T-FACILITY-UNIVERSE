@@ -139,7 +139,7 @@ OPERATIONAL CONSEQUENCE:
    - Unfiltered observation restricted to authorized personnel only
    - Movement performed by tactile-only methods or with Chrono-Stuttered
      Visors (Item 09) to avoid direct imprinting
-   — Any visual breach is debriefed so the "Undeniable Truth" does not
+   - Any visual breach is debriefed so the "Undeniable Truth" does not
      interfere with unrelated A.C.T secrecy protocols
 
 ═══════════════════════════════════════════════════════════════════════

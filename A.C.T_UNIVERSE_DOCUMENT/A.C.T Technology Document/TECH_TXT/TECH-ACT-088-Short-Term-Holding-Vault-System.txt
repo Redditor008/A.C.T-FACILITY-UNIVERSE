@@ -180,11 +180,11 @@ OPEN QUESTIONS
 
 - How many transfer delays can occur before parent command must remove material by
 emergency route?
-— Which low-threat signs most often precede reclassification?
-— Can a stable holding unit create false confidence in relay authority?
-— Should witness-adjacent material ever share F-1 custody with object anomalies?
-— When should F-1 closure trigger automatic Redwood Veil dispatch?
-— How long can a days-to-weeks vault remain trusted during parent-site congestion?
+- Which low-threat signs most often precede reclassification?
+- Can a stable holding unit create false confidence in relay authority?
+- Should witness-adjacent material ever share F-1 custody with object anomalies?
+- When should F-1 closure trigger automatic Redwood Veil dispatch?
+- How long can a days-to-weeks vault remain trusted during parent-site congestion?
 
 FILE METADATA
 

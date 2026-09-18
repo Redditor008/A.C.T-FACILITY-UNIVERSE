@@ -225,8 +225,8 @@ Standing reminder: if the anchor contains a person, every maintenance action has
   How should consent be renewed when the patient's voice exists through the anchor
   being
   contained?
-— Can repeated acoustic bridge contact alter the harness resonance profile?
-— What happens if the host body heals around a changed chest geometry?
+- Can repeated acoustic bridge contact alter the harness resonance profile?
+- What happens if the host body heals around a changed chest geometry?
   Is there a safe way to transfer anchor custody without making the occupied
   object
   feel handled?

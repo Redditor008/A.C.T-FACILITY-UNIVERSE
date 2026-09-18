@@ -225,8 +225,8 @@ whether A.C.T deserves to enter.
 - Can an anomaly recruit the AI through repeated simulation rather than network access?
   Should VPT-AI ever be allowed to command a live armed platform without human
   confirmation?
-— Does the green eye lens collect intention from operators standing nearby?
-— When does narrow combat logic become an excuse for human command avoiding responsibility?
+- Does the green eye lens collect intention from operators standing nearby?
+- When does narrow combat logic become an excuse for human command avoiding responsibility?
 
 ---
 

@@ -393,7 +393,7 @@ review when they appear in combination:
   imported salt, marine material, pressure equipment, acoustic equipment, or unusual sealed containers without
   a
   credible local purpose;
-— group movement timed to specific weather, water-level, or lunar conditions;
+- group movement timed to specific weather, water-level, or lunar conditions;
   handwritten or digital maps that replace ordinary place names with depth, tide, mouth,
   or
   shore terminology;
@@ -624,7 +624,7 @@ Immediate Level 5 escalation is required when any of the following conditions ar
   an unapproved party attempts travel toward the target anomaly or an associated restricted
   maritime
   zone;
-— acoustic, pressure, seismic, or marine indicators show a credible correlation with cult activity;
+- acoustic, pressure, seismic, or marine indicators show a credible correlation with cult activity;
   the Sounding Council activates a regional gathering under a shared date, signal, or
   return
   language;

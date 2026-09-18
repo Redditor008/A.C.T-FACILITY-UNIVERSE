@@ -68,11 +68,11 @@ THRESHOLD RECORD:
    - 1 to 15 seconds: no reliable anomalous effect
    - 16 to 24 seconds: mild missing-time sensation, audio gaps, delayed
      pulse rhythm, incorrect shadow position
-   — 25 to 40 seconds: movement visibly discontinuous; short-term memory
+   - 25 to 40 seconds: movement visibly discontinuous; short-term memory
      develops sequence errors
-   — 41 to 60 seconds: possible partial temporal absence; observers report
+   - 41 to 60 seconds: possible partial temporal absence; observers report
      the subject occupying two adjacent moments at once
-   — Over 60 seconds: risk of permanent continuity injury — memory holes,
+   - Over 60 seconds: risk of permanent continuity injury — memory holes,
      arrhythmic organ timing, inability to perceive event order
 
 PERSONNEL RULE: No personnel may stand inside the marked influence zone for

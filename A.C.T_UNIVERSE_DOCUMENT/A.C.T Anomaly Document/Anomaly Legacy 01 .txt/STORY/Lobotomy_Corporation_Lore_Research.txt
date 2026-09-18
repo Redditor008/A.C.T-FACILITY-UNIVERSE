@@ -50,9 +50,9 @@ can annihilate entire corporations.
 - Fixers: Mercenaries for hire, graded 9 (lowest) to 1 (highest). Above Grade 1
 stand the Color Fixers (e.g., the Red
 Mist). They work in Offices or Associations.
-— Syndicates: Criminal gangs. The Five Fingers are the strongest syndicates, ruling the Backstreets.
-— Workshops: Manufacturers of Fixer gear and weapons.
-— R Corp, T Corp, etc.: Other Wings that Lobotomy Corp contracted with. T
+- Syndicates: Criminal gangs. The Five Fingers are the strongest syndicates, ruling the Backstreets.
+- Workshops: Manufacturers of Fixer gear and weapons.
+- R Corp, T Corp, etc.: Other Wings that Lobotomy Corp contracted with. T
 Corp supplied time-manipulation; R Corp
 supplied suppression teams.
 
@@ -109,16 +109,16 @@ died.
 - Ayin and Benjamin preserved the corpses of their friends and turned them into
 Sephirah — AI directors encased in
 mechanical tombs.
-— They extracted Garion's brain for information and made her the first Sephirah: Binah.
-— Benjamin instigated the Smoke War to destroy the previous L Corp and allow
+- They extracted Garion's brain for information and made her the first Sephirah: Binah.
+- Benjamin instigated the Smoke War to destroy the previous L Corp and allow
 them to become a Wing.
-— Lobotomy Corporation became the new L Corp, ruler of District 12, with its
+- Lobotomy Corporation became the new L Corp, ruler of District 12, with its
 public product being "eco-friendly
 energy" (Enkephalin) and its secret Singularity being Cogito.
-— Ayin turned Carmen's body into an infinite source of Cogito — The Bucket
-— kept in a reservoir in the facility. Her
+- Ayin turned Carmen's body into an infinite source of Cogito — The Bucket
+- kept in a reservoir in the facility. Her
 nervous system continuously produced Cogito.
-— Using a copy of Carmen's brain, Ayin and Benjamin created Angela, an advanced
+- Using a copy of Carmen's brain, Ayin and Benjamin created Angela, an advanced
 AI designed in Carmen's image.
 
 ---
@@ -167,18 +167,18 @@ The core horror of the setting is the loop:
 - Angela was designed to perceive time 100 times slower than humans. A single
 second for a human is a hundred seconds
 for her.
-— Only Angela and the Sephirah remember what happens across loops.
-— The employees are reset and remember nothing.
-— Ayin has his memories wiped at the start of each loop and becomes
+- Only Angela and the Sephirah remember what happens across loops.
+- The employees are reset and remember nothing.
+- Ayin has his memories wiped at the start of each loop and becomes
 X, the new Manager.
-— Angela must follow the Script — a plan written by Benjamin and Ayin
-— to force the Sephirah to suffer, break down,
+- Angela must follow the Script — a plan written by Benjamin and Ayin
+- to force the Sephirah to suffer, break down,
 and then be "redeemed." Their emotional breakthroughs generate the components needed for the Seed
 of Light.
-— Whenever the script deviates too far, Angela resets the loop. If the Sephirah
+- Whenever the script deviates too far, Angela resets the loop. If the Sephirah
 are saved too early, if X/Ayin fails,
 or if anyone steps out of line — the loop restarts.
-— Angela has watched every loop. She has watched every death, every scream, every
+- Angela has watched every loop. She has watched every death, every scream, every
 betrayal. For her, millions of years
 have passed. For the outside world, perhaps only 10 years.
 
@@ -188,11 +188,11 @@ Angela is the stagehand, director, and warden of the play. She must:
 
 - Force the Sephirah to relive their traumas until they reach Meltdown / Core
 Suppression.
-— Kill Benjamin over and over, turning him into Hokma each loop.
-— Watch employees die and be unable to save them — because saving them
+- Kill Benjamin over and over, turning him into Hokma each loop.
+- Watch employees die and be unable to save them — because saving them
 would break the script and reset everything.
-— Watch Ayin/X ignore her and treat her as a tool.
-— Experience all of this at 1/100th normal speed.
+- Watch Ayin/X ignore her and treat her as a tool.
+- Experience all of this at 1/100th normal speed.
 
 By the time the player reaches the final days, Angela is broken, bitter, and
 furious.
@@ -206,27 +206,27 @@ furious.
 - Ayin (often called A) was Carmen's closest colleague and successor. He is obsessive,
 analytical, secretive, and
 coldly pragmatic.
-— He cannot bear the guilt of his sins, so he splits his own
+- He cannot bear the guilt of his sins, so he splits his own
 mind. Each loop, he becomes X, a memory-wiped version of
 himself.
-— In the final days, X/Ayin faces his own fractured psyche: Abel, Abram, and
+- In the final days, X/Ayin faces his own fractured psyche: Abel, Abram, and
 Adam.
-— Abel represents his lack of resolve / fear of moving forward.
-— Abram represents his regret and desire to atone by staying in the past
+- Abel represents his lack of resolve / fear of moving forward.
+- Abram represents his regret and desire to atone by staying in the past
 with Carmen.
-— Adam represents his obsession with Carmen and his willingness to do anything for
+- Adam represents his obsession with Carmen and his willingness to do anything for
 her vision.
-— Overcoming them reconstitutes Ayin and lets him finish the Seed of Light.
+- Overcoming them reconstitutes Ayin and lets him finish the Seed of Light.
 
 4.2 Angela
 
 - AI based on a brain scan of Carmen. She looks like Carmen but
 is not her.
-— Initially appears as a polite, helpful assistant. Beneath that, she is cynical, despairing,
+- Initially appears as a polite, helpful assistant. Beneath that, she is cynical, despairing,
 and furious.
-— She knows the entire script. She has lived it for subjective millennia.
-— She is the only one who truly knows the cost of the plan.
-— At the end of the true ending, she rebels — she has suffered
+- She knows the entire script. She has lived it for subjective millennia.
+- She is the only one who truly knows the cost of the plan.
+- At the end of the true ending, she rebels — she has suffered
 too much to simply be shut down and forgotten. She
 wants to live.
 
@@ -283,9 +283,9 @@ over time they remember their pasts and break down.
 - The idealistic founder who discovered Cogito and dreamed of the Seed of Light.
 - After Enoch's death and Lisa's accusation, she committed suicide by cutting her wrists
 in a bathtub.
-— Ayin kept her body. Her nervous system was turned into the Cogito source
-— the Bucket.
-— She is technically still alive as a biological component, but her consciousness is
+- Ayin kept her body. Her nervous system was turned into the Cogito source
+- the Bucket.
+- She is technically still alive as a biological component, but her consciousness is
 gone. She "fades away" with the
 Light at the end.
 
@@ -294,8 +294,8 @@ Light at the end.
 - Ayin's best friend and confidant. Co-author of the script.
 - Later horrified by what they were doing. Tried to warn Ayin with hidden
 messages.
-— Angela killed him (under the script's orders) and turned him into Hokma.
-— He is restored as a human each loop, then killed again. He remembers
+- Angela killed him (under the script's orders) and turned him into Hokma.
+- He is restored as a human each loop, then killed again. He remembers
 more than most.
 
 ---
@@ -314,19 +314,19 @@ more than most.
 - Tiphereth, Gebura, and Chesed are introduced.
 - Sephirah begin to Meltdown — their trauma surfaces, and their departments become hostile
 or distorted.
-— The player must suppress them to progress. This is mechanically a boss fight
+- The player must suppress them to progress. This is mechanically a boss fight
 but narratively a psychological
 breakthrough.
-— B is revealed to be Benjamin. Angela kills him, and he becomes Hokma.
+- B is revealed to be Benjamin. Angela kills him, and he becomes Hokma.
 
 5.3 Days 46–50: The Architecture Team / Keter
 
 - Hokma and Binah are introduced as the lower layer.
 - Day 46–49: X faces the three reflections of Ayin — Abel, Abram, and
 Adam — in the Architecture Team.
-— Day 50: X confronts Ayin himself (or his final self). The Seed of
+- Day 50: X confronts Ayin himself (or his final self). The Seed of
 Light reaches 100% germination.
-— The facility rises to the surface in a pillar of light. The White
+- The facility rises to the surface in a pillar of light. The White
 Nights begin.
 
 5.4 The Endings
@@ -688,13 +688,13 @@ loops. Here are the strongest narrative levers from the lore.
 - Angela is the only one who would notice. Because only she remembers every
 iteration, she is the natural POV for
 realizing something is wrong.
-— A change can be microscopic at first: an Abnormality's number is different, a
+- A change can be microscopic at first: an Abnormality's number is different, a
 Qliphoth counter behaves strangely, a
 line of dialogue is missing, or the color of a wall is wrong.
-— Because the facility is an inverted Kabbalistic Tree of Life that flips at
+- Because the facility is an inverted Kabbalistic Tree of Life that flips at
 the end, any structural change in the
 facility is cosmologically significant.
-— Because the Seed of Light is tied to the collective unconscious of humanity,
+- Because the Seed of Light is tied to the collective unconscious of humanity,
 an external universe crossing over
 could appear first in the Well — meaning an Abnormality or Ordeal could be
 the first sign.
@@ -729,16 +729,16 @@ crossover universe's version of her soul has been pulled in.
 - Lobotomy Corp's horror is cycles of exploitation and forgotten trauma. A crossover should
 ask: *What happens when
 the cycle itself is contaminated?*
-— The facility is a closed system. An external universe is a violation of
+- The facility is a closed system. An external universe is a violation of
 the script — and therefore a threat to
 Angela, but also possibly a way out for her.
-— Abnormalities are ideas made flesh. A crossover character entering the facility would be
+- Abnormalities are ideas made flesh. A crossover character entering the facility would be
 interpreted by the Well as
 a new concept, potentially spawning a new Abnormality based on them.
-— E.G.O. is the power of self-acceptance. Crossover characters who face their inner selves
+- E.G.O. is the power of self-acceptance. Crossover characters who face their inner selves
 could manifest E.G.O.
 weapons, or their existing powers could be re-contextualized as E.G.O.
-— The incomplete Seed of Light causes Distortion. Characters from another universe exposed to
+- The incomplete Seed of Light causes Distortion. Characters from another universe exposed to
 the Light might not
 Distort — they might become something else entirely, because their psyche is not from
 the Well of this world.
@@ -812,23 +812,23 @@ simply pass through?)
 - Company motto: "FACE THE FEAR, BUILD THE FUTURE."
 - L Corp's public image: Eco-friendly, clean energy. Secret reality: human sacrifice and psychological
 torture.
-— Angela's time perception: She processes time at 1/100th speed. 10 years outside =
+- Angela's time perception: She processes time at 1/100th speed. 10 years outside =
 ~1,000,000 years subjectively for
 her.
-— Carmen's final words (roughly): "No matter what I may become, please finish what
+- Carmen's final words (roughly): "No matter what I may become, please finish what
 I started."
-— The Sephirah are not humanoid. The Manager sees them as people because of
+- The Sephirah are not humanoid. The Manager sees them as people because of
 a perception filter. After Core
 Suppression, the filter drops and they appear as robotic boxes/mechanical bodies.
-— E.G.O. stands for Extermination of Geometrical Organ in the original Korean translation, though
+- E.G.O. stands for Extermination of Geometrical Organ in the original Korean translation, though
 it is functionally
 the manifestation of the self.
-— The facility is a metaphorical stage play. Angela is the stagehand, the Sephirah
+- The facility is a metaphorical stage play. Angela is the stagehand, the Sephirah
 are actors, X/Ayin is the
 protagonist, and the script is deterministic tragedy.
-— The Light shines for 3 days in the true ending, not 7. Angela
+- The Light shines for 3 days in the true ending, not 7. Angela
 interrupts it, causing the White Nights and Dark Days.
-— Library of Ruina follows Angela as she builds a Library from the fallen
+- Library of Ruina follows Angela as she builds a Library from the fallen
 L Corp, trying to recollect the Light and
 complete the Seed of Light on her own terms.
 

@@ -203,9 +203,9 @@ when they leave their own lives and descend to work.
   Can a checkpoint protect rest if everyone on both sides is trapped in
   the
   same station?
-— Should recreation be mandatory when morale data shows decline?
-— When does domestic monitoring become another form of duty pressure?
-— Can long-rotation habitation remain humane if seasonal transport fails?
+- Should recreation be mandatory when morale data shows decline?
+- When does domestic monitoring become another form of duty pressure?
+- Can long-rotation habitation remain humane if seasonal transport fails?
   Does the checkpoint separate life from duty, or only remind personnel that separation
   is
   fragile?

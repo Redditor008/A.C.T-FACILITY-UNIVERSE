@@ -264,10 +264,10 @@ strongly assessed capabilities include:
 - custody trains modified for anomalous prisoner transport;
 - survey guns that mark boundaries visible to some entities and invisible to most
 civilians;
-— tribunal rooms that pressure witnesses toward Authority classifications;
-— restraint doors that lock according to hazard label rather than physical key alone;
-— black ledgers that preserve prisoner categories after public records are altered;
-— field hospitals that stabilize captives primarily for interrogation, transfer, or labor.
+- tribunal rooms that pressure witnesses toward Authority classifications;
+- restraint doors that lock according to hazard label rather than physical key alone;
+- black ledgers that preserve prisoner categories after public records are altered;
+- field hospitals that stabilize captives primarily for interrogation, transfer, or labor.
 
 The Authority's technology requires later individual technology documents. Suppression collars, survey guns, custody
 trains, black ledgers, and restraint doors are priority candidates once the GOI creation phase
@@ -503,11 +503,11 @@ Confirmed Operational Facts
 
 - Iron Meridian Authority is an outside hostile containment institution and not an A.C.T
 branch.
-— It claims emergency jurisdiction over anomalous zones and exposed persons.
-— It maintains detention sites, tribunals, transport systems, and suppression devices.
-— It has used altered civilians and survivors as forced labor or classified assets.
-— It has obstructed A.C.T recovery operations and attempted access to A.C.T-adjacent records.
-— Its containment capability is real enough to be operationally dangerous.
+- It claims emergency jurisdiction over anomalous zones and exposed persons.
+- It maintains detention sites, tribunals, transport systems, and suppression devices.
+- It has used altered civilians and survivors as forced labor or classified assets.
+- It has obstructed A.C.T recovery operations and attempted access to A.C.T-adjacent records.
+- Its containment capability is real enough to be operationally dangerous.
 
 Active Intelligence Assessment
 ------------------------------
@@ -532,14 +532,14 @@ Persistent Questions
 
 - Does the Prime Meridian Seat exist, or is it only a symbolic authority
 used by local Governors?
-— Which governments, corporations, or emergency ministries have signed actual Meridian charters?
-— How many detention corridors remain unknown to A.C.T?
-— Can suppression collars be removed safely after long-term use?
-— Are black ledgers anomalous, or are they hardened record systems designed to survive
+- Which governments, corporations, or emergency ministries have signed actual Meridian charters?
+- How many detention corridors remain unknown to A.C.T?
+- Can suppression collars be removed safely after long-term use?
+- Are black ledgers anomalous, or are they hardened record systems designed to survive
 normalcy alteration?
-— How many A.C.T cover entities have been approached by Meridian charter lawyers?
-— Has Iron Meridian captured or copied technology from Mercy Lock Institute?
-— Do some entities prefer Meridian custody because it concentrates fear, pain, or names
+- How many A.C.T cover entities have been approached by Meridian charter lawyers?
+- Has Iron Meridian captured or copied technology from Mercy Lock Institute?
+- Do some entities prefer Meridian custody because it concentrates fear, pain, or names
 inside a line?
 
 Intelligence Confidence
@@ -571,13 +571,13 @@ or recovered-document files. This GOI dossier must not replace captive recovery 
 Related A.C.T Records
 ---------------------
 
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-HY-P-071-Mercy-Lock-Institute.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-GV-X-060-Office-for-Witness-Continuance.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-BS-X-069-Namewright-Bazaar.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Complete_Designation_and_Class_Reference.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Standing_Field_Units_and_Cross_Containment_Interaction_Doctrine.md
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- GOI-HY-P-071 — Mercy Lock Institute, Group of Interest Registry
+- GOI-GV-X-060 — Office for Witness Continuance, Group of Interest Registry
+- GOI-BS-X-069 — Namewright Bazaar, Group of Interest Registry
+- Complete Designation and Class Reference, Archive Record
+- Standing Field Units and Cross-Containment Interaction Protocol, Archive Record
 - Restricted detention, quarantine, forced labor, hostile containment, prisoner subject, emergency-law, and device
 recovery files held under Central Archive routing.
 

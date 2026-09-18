@@ -198,8 +198,8 @@ EISSS doctrine holds that the watchpoint receives what it does not own.
   Can a rolling manifest become a hazard if the intake object alters its
   own
   record?
-— Should personnel intake and material intake ever share the same stabilization window?
-— When does transfer delay convert emergency storage into unauthorized containment?
+- Should personnel intake and material intake ever share the same stabilization window?
+- When does transfer delay convert emergency storage into unauthorized containment?
   How much medical care can occur before the patient must be moved to
   the
   parent relay?

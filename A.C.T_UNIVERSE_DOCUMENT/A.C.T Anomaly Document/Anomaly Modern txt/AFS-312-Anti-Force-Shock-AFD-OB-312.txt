@@ -92,11 +92,11 @@ The AFS-312 features three distinct firing profiles:
 *   50% WEAK SCATTER SHOT: A wide-angle discharge used for area denial.
     It scorches all surfaces within a 15m cone but has a shorter
     effective range of 50m.
-— 100% FOCUSED CHARGE SHOT: The weapon’s primary lethality mode.
+- 100% FOCUSED CHARGE SHOT: The weapon’s primary lethality mode.
     Requires a **5-minute sustained charge**. The resulting bolt can
     pierce a 5cm hole through solid **Abyssal Basalt (Item 50)** at
     ranges up to 550m.
-— 10% MULTI-SHOT: A rapid-fire suppression mode. It fires ten (10)
+- 10% MULTI-SHOT: A rapid-fire suppression mode. It fires ten (10)
     low-intensity bolts with a 5-second mechanical delay between
     each discharge.
 

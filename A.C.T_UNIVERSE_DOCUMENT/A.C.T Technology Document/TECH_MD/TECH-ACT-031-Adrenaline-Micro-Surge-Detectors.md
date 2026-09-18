@@ -223,8 +223,8 @@ Standing reminder: a calm voice over a rising gauge is not evidence of control.
   How often do staff learn to suppress visible panic while the wristband still
   sees
   it?
-— Can attraction hazards deliberately shape the surge curve to avoid alarm?
-— Should AMSD data be retained as medical record, breach evidence, or both?
+- Can attraction hazards deliberately shape the surge curve to avoid alarm?
+- Should AMSD data be retained as medical record, breach evidence, or both?
   What is the safe protocol when the detector says danger and the subject
   says
   consent?

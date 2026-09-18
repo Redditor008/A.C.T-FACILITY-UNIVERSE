@@ -203,16 +203,16 @@ number as a simple sequence mark.
 - ENTITY Historical Band — ENTITY-###, closed historical series. Preserved for First Vault and
 pre-standard records.
 No new ordinary ENTITY files are opened.
-— 000 Foundational Reserve — 000 marks origin-level or foundation-level significance. ITHYOS is the
+- 000 Foundational Reserve — 000 marks origin-level or foundation-level significance. ITHYOS is the
 controlling
 example.
-— LEGACY ACCEPTED Band — 001–120 accepts legacy-era anomalies inside modern UFD/AFD handling. A
+- LEGACY ACCEPTED Band — 001–120 accepts legacy-era anomalies inside modern UFD/AFD handling. A
 legacy anomaly may
 preserve both UFD and AFD files when those files record different intake states.
-— Modern Registry Band — 121–999 is the ordinary modern UFD/AFD anomaly range.
-— ANM Fracture-State Band — ANM-XX-XX-0001 through ANM-XX-XX-9999, with XXXX used for unresolved or
+- Modern Registry Band — 121–999 is the ordinary modern UFD/AFD anomaly range.
+- ANM Fracture-State Band — ANM-XX-XX-0001 through ANM-XX-XX-9999, with XXXX used for unresolved or
 obscured numbers.
-— Obscured / Reserved / Closed Numbers — numbers may be hidden, reserved, or
+- Obscured / Reserved / Closed Numbers — numbers may be hidden, reserved, or
 retired when the number itself is
 classified, structurally important, or historically load-bearing.
 
@@ -261,7 +261,7 @@ Fracture Index:
 - QUESTIONED (QU) / ABSURD (AB) / MUTATED (MU) / UNAUTHORED (UA) / SCHRÖDINGER
 (SC) — used in the Fracture Containment
 Index segment
-— HARMLESS (HM) / BENEFICIAL (BE) / REVERTED (RV) / ABSENT (AS) / NULLIFIED
+- HARMLESS (HM) / BENEFICIAL (BE) / REVERTED (RV) / ABSENT (AS) / NULLIFIED
 (NU) — used in the Fracture Sub-Threat
 Index segment
 

@@ -1657,8 +1657,8 @@ The designation structure is **GOI-XX-X-XXX**:
 - **GOI** — Group of Interest;
   the first **XX** — the **Nature Class code** (what kind of group it
   is);
-— the second **X** — the **Alignment Class marker** (its broad relationship to A.C.T);
-— the **XXX** — the **numerical registry code**.
+- the second **X** — the **Alignment Class marker** (its broad relationship to A.C.T);
+- the **XXX** — the **numerical registry code**.
 
 **Reading example.** `GOI-ML-X-050` — Militant nature, Negative alignment, registry 050 (Liberty Freedoms).
 `GOI-GV-P-001` — Government nature, Positive alignment, registry 001 (GAA).
@@ -1832,7 +1832,7 @@ Secrecy Risk measures how dangerous the GOI is to the masquerade of normal life:
   **EXPOSURE-ACTIVE** — exposure is a method: the group deliberately produces public evidence of
   the
   concealed world.
-— **NORMALCY-BREACHING** — the group's existence or success would break the masquerade at scale.
+- **NORMALCY-BREACHING** — the group's existence or success would break the masquerade at scale.
 
 ### II-9 A.C.T Posture
 

@@ -680,11 +680,11 @@ change.
   least
   one [REDACTED]
   Dream-Type Anomaly.
-— DREAM .INC sells Dream Nectar as underground medicine.
+- DREAM .INC sells Dream Nectar as underground medicine.
   The product is sold with the claim that a consumer's wish will come
   true
   in their dream.
-— At least twelve open buildings are confirmed as company facilities.
+- At least twelve open buildings are confirmed as company facilities.
   The full executive structure, source location, machine origin, and total distribution footprint remain
   unresolved.
 
@@ -722,8 +722,8 @@ infiltration.
   or
   connect consumers to a shared
   dream condition?
-— Is the source anomaly aware of, harmed by, or altered through repeated extraction?
-— Who controls the machine, and are corporate executives aware that it is anomalous?
+- Is the source anomaly aware of, harmed by, or altered through repeated extraction?
+- Who controls the machine, and are corporate executives aware that it is anomalous?
   Which of the twelve confirmed buildings handles source-adjacent work, machine maintenance, product custody,
   consumer
   screening, or ordinary cover activity?
@@ -778,7 +778,7 @@ removing this organizational dossier.
   and
   Dream
   Nectar material.
-— Anomaly Log Categories In-World Explanation — controlled recovery, medical, incident, and exposure documentation.
+- Anomaly Log Categories In-World Explanation — controlled recovery, medical, incident, and exposure documentation.
 
 ---
 

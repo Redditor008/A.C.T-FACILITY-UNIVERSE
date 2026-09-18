@@ -159,7 +159,7 @@ Standing rules:
   family plainly that the item has
   finished, and begin follow-up care, because the end of the unit is not the
   end of the risk;
-— do not test the interruption by inducing a nightmare;
+- do not test the interruption by inducing a nightmare;
   keep the room singing. Recovered instruction treats continued sound as part of the
   protocol,
   and A.C.T follows it

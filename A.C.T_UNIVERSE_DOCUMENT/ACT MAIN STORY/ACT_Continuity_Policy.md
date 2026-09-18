@@ -120,10 +120,10 @@ Site and floor dossiers define the physical and administrative geography of A.C.
 Primary locations:
 
 ```text
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Site Dossier/
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .txt Document/Site Dossier/
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Site Dossier/Floor Dossier/
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .txt Document/Site Dossier/Floor Dossier/
+Site Dossier collection, Central Archive
+Site Dossier collection, plain-text reading copies
+Floor Dossier collection, Central Archive
+Floor Dossier collection, plain-text reading copies
 ```
 
 Site and floor canon governs local purpose, command role, containment profile, jurisdiction, and internal
@@ -139,8 +139,8 @@ GOI canon includes the official A.C.T. records for Groups of Interest.
 Primary locations:
 
 ```text
-A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/
-A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_TXT/
+Group of Interest Registry collection, Central Archive
+Group of Interest Registry collection, plain-text reading copies
 ```
 
 A GOI dossier is canon as A.C.T.'s institutional assessment of that group. It is
@@ -195,7 +195,7 @@ The in-universe history book is a readable synthesis, not the highest doctrine a
 Primary file:
 
 ```text
-A.C.T_UNIVERSE_DOCUMENT/'A History of Anomaly Containment Transformation' BOOK.md
+Title Statement, Archive Record
 ```
 
 The book may explain history in a more continuous voice than the archive does.
@@ -263,7 +263,8 @@ This rule especially protects the independent A.C.T. core from accidental depend
 When editing or adding files, use this practical authority order:
 
 1. Current archive directive.
-2. Root `README.md` repository rules and current branch/session requirements.
+2. Root What the A.C.T. Universe Is, Archive Record repository rules and current branch/session
+   requirements.
 3. Core Doctrine Canon.
 4. Complete Designation and Class Reference.
 5. Part series and archive copies.
@@ -297,7 +298,9 @@ Twin families include, but are not limited to:
 
 ```text
 A.C.T .md Document/ ↔ A.C.T .txt Document/
-GOI_MD/ ↔ GOI_TXT/
+Group of Interest Registry collection, Central Archive ↔ Group of Interest Registry collection, plain-text
+reading
+copies
 ITHYOS .md/ ↔ ITHYOS .txt/
 Site Dossier Markdown ↔ Site Dossier text
 Floor Dossier Markdown ↔ Floor Dossier text

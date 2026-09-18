@@ -74,9 +74,9 @@ TRACKING DISCIPLINE:
 
    - Complete darkness is prohibited except in authorized inactivity trials;
      it renders the subject untrackable, not absent
-   — High uniform illumination weakens its outline and slows its movement
-   — All chamber shadows are mapped before maintenance
-   — Unmapped silhouettes outside the chamber trigger floodlights, feed
+   - High uniform illumination weakens its outline and slows its movement
+   - All chamber shadows are mapped before maintenance
+   - Unmapped silhouettes outside the chamber trigger floodlights, feed
      removal, and corridor sealing until Intangible Hazard Review confirms
      recovery
 
@@ -180,9 +180,9 @@ NARRATIVE AND RECOVERY NOTES:
 
    - Public narrative: electrical malfunction, animal stress event, and
      inventory clerical error
-   — AFD-SU-010 is not a projected image. Turning off a single light source
+   - AFD-SU-010 is not a projected image. Turning off a single light source
      removes visibility, not the subject
-   — Aquarium staff reported hearing water splashes in a dry loading bay; one
+   - Aquarium staff reported hearing water splashes in a dry loading bay; one
      staff member stated, "It was swimming in the place where light forgot to
      be floor."
 

@@ -171,8 +171,8 @@ survivor repeatedly insisted on the same impossible structure:
   the thing beneath the Earth was already known in the body before it
   was
   understood in the mind
-— forgetting did not begin after contact
-— forgetting was part of contact
+- forgetting did not begin after contact
+- forgetting was part of contact
 
 Sera read one line, then had to stand up and walk the length of
 the annex before she could return to it.

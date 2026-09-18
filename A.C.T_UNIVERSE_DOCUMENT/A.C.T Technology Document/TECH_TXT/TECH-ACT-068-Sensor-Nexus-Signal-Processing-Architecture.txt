@@ -192,9 +192,9 @@ OPEN QUESTIONS
 - Can abyss-linked output contaminate baselines simply by being used as comparison data?
 - Should maritime Sonar Void data pass through SNSPA or remain in a separate
 sonar chain?
-— Can a closed F-1 preserve enough record context if upper command remains unreachable
+- Can a closed F-1 preserve enough record context if upper command remains unreachable
 for days?
-— Which analyst notes should be treated as part of the signal rather than
+- Which analyst notes should be treated as part of the signal rather than
 interpretation?
 
 FILE METADATA

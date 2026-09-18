@@ -207,9 +207,9 @@ OPEN QUESTIONS
 - How much source-water chemistry must be preserved during transfer?
 - Can a resident use pump rhythm, current, or acoustic reflection as a route
 to influence staff?
-— When should a maritime anomaly remain in vessel containment instead of being moved
+- When should a maritime anomaly remain in vessel containment instead of being moved
 to F-3?
-— Can WCCC systems safely hold residents whose source environment is both oceanic and
+- Can WCCC systems safely hold residents whose source environment is both oceanic and
 abyss-linked?
 
 FILE METADATA

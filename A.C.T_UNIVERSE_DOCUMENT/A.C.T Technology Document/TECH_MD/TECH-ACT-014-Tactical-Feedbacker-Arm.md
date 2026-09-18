@@ -234,9 +234,9 @@ you.
   improvisation?
   Can TFA safely redirect anomalous energy bursts without storing trace behavior in the
   capacitor?
-— How many red-window parries can one operator survive across a career?
-— Is the success ding psychologically necessary, or does it encourage risk-taking?
-— Can paired TFA operators create dangerous harmonic interference?
+- How many red-window parries can one operator survive across a career?
+- Is the success ding psychologically necessary, or does it encourage risk-taking?
+- Can paired TFA operators create dangerous harmonic interference?
 
 ---
 

@@ -156,10 +156,10 @@ OBSERVED CONSTRAINTS:
    - It does not communicate, negotiate, or retreat
    - It does not distinguish staff, rescuers, observers, or accidental
      entrants
-   — It defends the Heart-Signal, not itself as a whole
-   — The claw chooses; the hammer enforces. The hammer arm is never used for
+   - It defends the Heart-Signal, not itself as a whole
+   - The claw chooses; the hammer enforces. The hammer arm is never used for
      Heart-Signal removal — only Stage Two enforcement
-   — Longest confirmed Stage Two activation: 11 days, 6 hours, 14 minutes
+   - Longest confirmed Stage Two activation: 11 days, 6 hours, 14 minutes
 
 ═══════════════════════════════════════════════════════════════════════
                   SECTION 005 — INCIDENT REVIEW 017-A

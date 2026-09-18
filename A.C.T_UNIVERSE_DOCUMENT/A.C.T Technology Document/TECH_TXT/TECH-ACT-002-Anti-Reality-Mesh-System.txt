@@ -104,10 +104,10 @@ ARM appears in five major roles:
 
 - fixed site concealment, including surface campuses, service entries, perimeter roads, and exterior facility
 signatures;
-— civilian perception management around A.C.T buildings, false companies, and restricted infrastructure;
-— surveillance dampening against ordinary cameras, map services, delivery systems, and casual drone observation;
-— emergency misdirection during breach response, transport arrival, or surface lockdown;
-— post-incident normalcy support when an area must remain publicly boring long enough for
+- civilian perception management around A.C.T buildings, false companies, and restricted infrastructure;
+- surveillance dampening against ordinary cameras, map services, delivery systems, and casual drone observation;
+- emergency misdirection during breach response, transport arrival, or surface lockdown;
+- post-incident normalcy support when an area must remain publicly boring long enough for
 Civil Covert to replace the
 story.
 
@@ -563,14 +563,14 @@ CROSS-REFERENCES
 Related A.C.T Records
 ---------------------
 
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Master_Index_50.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Evolution_Timeline.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Visual_Reference_Guide.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Site Dossier/ACT-SITE-01-US-W-Redwood-Veil-Complex.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Site Dossier/ACT-SITE-02-RU-N-White-Grave-Station.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/TECH-ACT-001-Reality-Stabilization-Anchor-System.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/00_Technology_Record_Template.md
+- ACT-MASTER-INDEX-50-SYSTEMS-AND-MATERIALS, Archive Record
+- Internal Engineering Record: 1598 – 2026, Archive Record
+- Comprehensive Visual and Mechanical Specifications for Asset Index 50, Archive Record
+- Normalcy Management and Public Narrative Doctrine, Archive Record
+- ACT-SITE-01-US-W — Redwood Veil Complex, Site Dossier
+- ACT-SITE-02-RU-N — White Grave Station, Site Dossier
+- TECH-ACT-001 — Reality Stabilization Anchor System, Technology Record
+- TECHNOLOGY RECORD TEMPLATE, Technology Record
 
 Technology Relationship
 -----------------------
@@ -594,16 +594,16 @@ OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
 
 - How much long-term ARM exposure changes staff expectations of public attention remains incompletely
 studied.
-— Can hostile GOIs map ARM edges by tracking what civilians do not photograph?
-— Do repeated ARM-WHITE activations create civilian memory scars similar to low-grade amnestic aftereffects?
-— Can ARM and RSA overlap cause a location to remain physically stable while
+- Can hostile GOIs map ARM edges by tracking what civilians do not photograph?
+- Do repeated ARM-WHITE activations create civilian memory scars similar to low-grade amnestic aftereffects?
+- Can ARM and RSA overlap cause a location to remain physically stable while
 becoming narratively suspicious?
-— Are old estate boundary practices embedded in the Siena Alpha lineage still present
+- Are old estate boundary practices embedded in the Siena Alpha lineage still present
 in modern node behavior?
-— How many current map-service anomalies are ARM artifacts rather than outside probes?
-— Can social-media swarm behavior overload a local ARM field faster than Civil Covert
+- How many current map-service anomalies are ARM artifacts rather than outside probes?
+- Can social-media swarm behavior overload a local ARM field faster than Civil Covert
 can redirect narrative?
-— What happens if ARM attempts to make an already famous site unremarkable after
+- What happens if ARM attempts to make an already famous site unremarkable after
 exposure has hardened?
 
 ---

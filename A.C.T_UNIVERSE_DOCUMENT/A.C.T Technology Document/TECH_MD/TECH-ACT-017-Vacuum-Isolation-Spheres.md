@@ -230,11 +230,11 @@ travel.
   Are Foundational Era spheres safer because they are simpler or riskier because their
   seals
   are undocumented?
-— Can a VIS accidentally preserve a harmful tone better than normal atmosphere would?
+- Can a VIS accidentally preserve a harmful tone better than normal atmosphere would?
   Should all legacy sound artifacts be moved into modern spheres, or does transfer
   create
   more exposure risk?
-— What decibel reading counts as impossible inside a stable vacuum?
+- What decibel reading counts as impossible inside a stable vacuum?
   Can a sphere become contaminated by years of holding the same command, song,
   or
   name?

@@ -135,12 +135,12 @@ A.C.T assessment identifies these functional layers:
   corridors;
   treaty clerks who preserve paper agreements, transfer slips, and crossing records when databases
   fail;
-— customs handlers who examine anomalous objects disguised as ordinary cargo;
-— passport listeners who interview travelers whose memories or documents contradict geography;
-— transit medics who stabilize persons affected by wrong-border exposure;
+- customs handlers who examine anomalous objects disguised as ordinary cargo;
+- passport listeners who interview travelers whose memories or documents contradict geography;
+- transit medics who stabilize persons affected by wrong-border exposure;
   route auditors who compare public maps, shipping lanes, flight paths, and old border
   treaties;
-— consular shadows who contact families without revealing the full crossing condition.
+- consular shadows who contact families without revealing the full crossing condition.
 
 This structure distinguishes the Bureau from a normal government department. It has roles built
 around specific
@@ -525,12 +525,12 @@ documentation.
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-GV-P-001-Government-Anti-Anomaly-GAA.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Access_and_Egress_Ledger_Form.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Global_Site_Registry.md`
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- GOI-GV-P-001 — Government Anti Anomaly GAA, Group of Interest Registry
+- ACCESS AND EGRESS LEDGER FORM, Operational Form
+- Normalcy Management and Public Narrative Doctrine, Archive Record
+- Global Site Registry, Archive Record
 - Restricted border-hole, passport, customs, missing-citizen, transit-object, and extradition case chains held under
   Central Archive routing.
 

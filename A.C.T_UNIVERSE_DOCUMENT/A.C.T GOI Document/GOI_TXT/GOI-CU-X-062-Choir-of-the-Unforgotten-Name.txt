@@ -498,13 +498,13 @@ Confirmed Operational Facts
 
 - Choir of the Unforgotten Name is an outside cultic network and not an
 A.C.T body.
-— The Choir preserves and restores names, testimony, and memory fragments removed or damaged
+- The Choir preserves and restores names, testimony, and memory fragments removed or damaged
 by anomaly events and
 institutional response.
-— Its rites can partially undo amnestic softening or restore sealed incident memory.
-— Its members include grieving civilians and trained cultic practitioners; the two categories must
+- Its rites can partially undo amnestic softening or restore sealed incident memory.
+- Its members include grieving civilians and trained cultic practitioners; the two categories must
 not be collapsed.
-— The Choir's operational relationship to A.C.T is negative because it deliberately compromises memory
+- The Choir's operational relationship to A.C.T is negative because it deliberately compromises memory
 control and
 normalcy closure.
 
@@ -529,18 +529,18 @@ Persistent Questions
 - Did the Choir begin after an A.C.T amnestic failure, another containment authority's coverup,
 or an older religious
 memory tradition?
-— Are active refrains anomalous by wording, melody, number of singers, grief state, or
+- Are active refrains anomalous by wording, melody, number of singers, grief state, or
 presence of a true name?
-— How many Name Bearers carry A.C.T-restricted victim names orally with no written copy?
-— Can the Choir restore memories removed by 004-series amnestics, or only memories softened
+- How many Name Bearers carry A.C.T-restricted victim names orally with no written copy?
+- Can the Choir restore memories removed by 004-series amnestics, or only memories softened
 by later public
 narratives?
-— Are NEMNOLIA-adjacent fragments genuinely present in Choir material, or is the similarity caused
+- Are NEMNOLIA-adjacent fragments genuinely present in Choir material, or is the similarity caused
 by common memory
 damage language?
-— Has the Choir ever intentionally triggered a dangerous memory in order to expose
+- Has the Choir ever intentionally triggered a dangerous memory in order to expose
 A.C.T?
-— Can A.C.T create protected memorial records that reduce recruitment without increasing public exposure?
+- Can A.C.T create protected memorial records that reduce recruitment without increasing public exposure?
 
 Intelligence Confidence
 -----------------------
@@ -571,15 +571,15 @@ aftercare or family-notification review.
 Related A.C.T Records
 ---------------------
 
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-GV-X-060-Office-for-Witness-Continuance.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/NEMNOLIA-004-Series-Amnestic-Archive.md
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- GOI-GV-X-060 — Office for Witness Continuance, Group of Interest Registry
+- 004-Series Amnestic Compound Reference, Archive Record
 - A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational
 Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md
-— A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md
-— A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md
-— Restricted amnestic, witness, memory-shard, memorial, missing-person, and post-incident identity case chains held
+- WITNESS STATEMENT AND TESTIMONY FORM, Operational Form
+- Normalcy Management and Public Narrative Doctrine, Archive Record
+- Restricted amnestic, witness, memory-shard, memorial, missing-person, and post-incident identity case chains held
 under Central Archive routing.
 
 Dual Filing

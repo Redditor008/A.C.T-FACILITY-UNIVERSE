@@ -370,8 +370,8 @@ priorities include:
 - `ACT-SUB-05-ID-C — Ash Tide Watchpoint` Sub-Site Dossier
 - `ACT-SUB-05-ID-C — F-2 Operations and Watch Level` Floor Dossier
 - `ACT-SITE-05-ID-C — Nusantara Deep Relay` Site Dossier
-- `ACT_Global_Site_Registry.md` / `.txt`
-- `ACT_Site_Doctrine_and_Installation_Structure.md` / `.txt`
+- Global Site Registry, Archive Record / `.txt`
+- Site Doctrine, Site Classification, and Installation Structure, Archive Record / `.txt`
 - Parent command Annex Register (clearance-gated)
 
 ---

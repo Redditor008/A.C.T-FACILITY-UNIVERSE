@@ -41,10 +41,10 @@ The narrative revolves around the following questions:
 - Did ERE discover **ITHYOS** by accident, or were they drawn to it?
   Is ITHYOS naturally asleep, or was its sleep made into a condition of
   survival?
-— Is **NEMNOLIA / AFD-NB-004** connected to the dream-state of ITHYOS?
-— Did the founders erase their own memories?
-— What was the Facility’s first lie?
-— What happens if A.C.T remembers the truth?
+- Is **NEMNOLIA / AFD-NB-004** connected to the dream-state of ITHYOS?
+- Did the founders erase their own memories?
+- What was the Facility’s first lie?
+- What happens if A.C.T remembers the truth?
 
 ---
 

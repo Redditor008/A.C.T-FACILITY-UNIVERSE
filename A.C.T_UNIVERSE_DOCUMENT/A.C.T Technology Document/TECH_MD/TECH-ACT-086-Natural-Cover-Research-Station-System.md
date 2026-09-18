@@ -199,7 +199,7 @@ daylight.
   When does a research vessel become too useful to the buried watch to
   remain
   ordinary?
-— Should public station communications ever carry concealed timing cues?
+- Should public station communications ever carry concealed timing cues?
   How long can a real station support hidden work without its staff becoming
   divided?
 

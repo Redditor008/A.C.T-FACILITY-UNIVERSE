@@ -192,11 +192,11 @@ MSPOS doctrine holds that dual use survives only when both uses are disciplined.
   Should all submersible support remain inside restricted berths, or can ordinary repair explain
   some
   work?
-— Can a civilian vessel witness a concealed offload without understanding what it saw?
+- Can a civilian vessel witness a concealed offload without understanding what it saw?
   When does port delay justify moving containment to the vessel instead of the
   facility?
-— Should public research schedules ever be altered to cover urgent recovery?
-— How long can a dual-use port remain believable during repeated maritime incidents?
+- Should public research schedules ever be altered to cover urgent recovery?
+- How long can a dual-use port remain believable during repeated maritime incidents?
 
 ---
 

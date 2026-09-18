@@ -487,11 +487,11 @@ people by preserving truth in the wrong channel at the wrong time.
   Do some continuance writs resist alteration because of legal procedure, anomalous ink, or
   witness
   memory attachment?
-— Has the Office ever knowingly preserved a cognitohazard as testimony?
+- Has the Office ever knowingly preserved a cognitohazard as testimony?
   Are tribunal chairs aware of the full anomaly details, or do they rule
   through
   procedural symptoms only?
-— How many A.C.T public-cover deaths have been reversed by Office action?
+- How many A.C.T public-cover deaths have been reversed by Office action?
 
 ### Intelligence Confidence
 
@@ -520,15 +520,14 @@ witness statements or memory-aftercare review.
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational
-  Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md`
-— `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Personnel_Exposure_E_Class_and_Resilience_Doctrine.md`
-— `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Complete_Designation_and_Class_Reference.md`
-— Restricted witness, amnestic, survivor-rights, detention, transformed-person, and public accountability chains held
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- Normalcy Management and Public Narrative Doctrine, Archive Record
+- WITNESS STATEMENT AND TESTIMONY FORM, Operational Form
+- AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM, Operational Form
+- Personnel Exposure, Excommunicated Class, and Resilience Doctrine, Archive Record
+- Complete Designation and Class Reference, Archive Record
+- Restricted witness, amnestic, survivor-rights, detention, transformed-person, and public accountability chains held
   under Central Archive routing.
 
 ### Dual Filing

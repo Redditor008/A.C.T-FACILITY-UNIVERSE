@@ -281,7 +281,7 @@ over time they remember their pasts and break down.
 - Ayin's best friend and confidant. Co-author of the script.
   Later horrified by what they were doing. Tried to warn Ayin with hidden
   messages.
-— Angela killed him (under the script's orders) and turned him into Hokma.
+- Angela killed him (under the script's orders) and turned him into Hokma.
   He is restored as a human each loop, then killed again. He remembers
   more
   than most.
@@ -307,14 +307,14 @@ over time they remember their pasts and break down.
   but
   narratively a psychological
   breakthrough.
-— B is revealed to be Benjamin. Angela kills him, and he becomes **Hokma**.
+- B is revealed to be Benjamin. Angela kills him, and he becomes **Hokma**.
 
 ### 5.3 Days 46–50: The Architecture Team / Keter
 
 - **Hokma** and **Binah** are introduced as the lower layer.
   Day 46–49: X faces the **three reflections of Ayin** — Abel, Abram, and
   Adam
-  — in the Architecture Team.
+  - in the Architecture Team.
   Day 50: X confronts **Ayin himself** (or his final self). The Seed of
   Light
   reaches 100% germination.

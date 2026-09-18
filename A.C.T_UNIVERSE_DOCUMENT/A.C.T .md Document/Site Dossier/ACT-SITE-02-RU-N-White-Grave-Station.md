@@ -643,13 +643,13 @@ it cannot safely keep near the world
 
 ## 17. Cross-Referenced Files
 
-- `ACT_Global_Site_Registry.md` / `.txt`
-- `ACT_Site_Doctrine_and_Installation_Structure.md` / `.txt`
-- `ACT_Site_Map_and_Jurisdiction_Doctrine.md` / `.txt`
-- `ACT_Site_Registry_File_Standard.md` / `.txt`
+- Global Site Registry, Archive Record / `.txt`
+- Site Doctrine, Site Classification, and Installation Structure, Archive Record / `.txt`
+- Site Map and Jurisdiction Doctrine, Archive Record / `.txt`
+- Site Registry File Standard, Archive Record / `.txt`
 - `ACT-SITE-02-RU-N` Annex Register (clearance-gated)
 - `ACT-SUB-02-RU-N — Frost Hollow Depot` Site Dossier
-- Resident file: `Soul-Pendant-AFD-OB-412.txt` (and log dossiers)
+- Resident file: Soul Pendant AFD OB 412, Archive Record (and log dossiers)
 - Resident manifest records (clearance-gated)
 
 ---

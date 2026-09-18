@@ -269,12 +269,12 @@ include:
 - bells ringing before their ropes are pulled during verified incident approach;
 - end calendars marking dates later linked to abnormal weather, route failure, or mass
 witness events;
-— shelter hymns reducing panic during crowded evacuation;
-— counting songs preserving child rosters when shelter numbers fluctuate;
-— dawn alarms waking households before nonstandard intrusions;
-— route cards remaining legible during rain, ash, or memory stress;
-— shared dreams producing consistent hazard imagery across separate cells;
-— failed-warning confession rites reducing future false positives in some local groups.
+- shelter hymns reducing panic during crowded evacuation;
+- counting songs preserving child rosters when shelter numbers fluctuate;
+- dawn alarms waking households before nonstandard intrusions;
+- route cards remaining legible during rain, ash, or memory stress;
+- shared dreams producing consistent hazard imagery across separate cells;
+- failed-warning confession rites reducing future false positives in some local groups.
 
 The Congregation is not assessed as Engineering. Its practice relies on bells, repetition, prophecy
 handling, trained
@@ -518,11 +518,11 @@ Confirmed Operational Facts
 
 - Last Bell Congregation is an outside cultic apocalypse-warning network and not an A.C.T
 body.
-— The Congregation maintains bell roles, shelters, calendars, route cards, food stores, and warning
+- The Congregation maintains bell roles, shelters, calendars, route cards, food stores, and warning
 rites.
-— Several Last Bell warnings have preceded confirmed anomaly-adjacent disasters or local end-state events.
-— The group can reduce civilian casualties while increasing public awareness of hidden danger.
-— The Congregation's objective is survival preparation, not apocalypse creation.
+- Several Last Bell warnings have preceded confirmed anomaly-adjacent disasters or local end-state events.
+- The group can reduce civilian casualties while increasing public awareness of hidden danger.
+- The Congregation's objective is survival preparation, not apocalypse creation.
 
 Active Intelligence Assessment
 ------------------------------
@@ -547,15 +547,15 @@ Persistent Questions
 - Was the First Ringer a founder, a survivor of a local apocalypse, an
 anomalous bell, or a title for whoever first
 hears an active warning?
-— Do true-bell tones predict danger, detect danger, or participate in causing the warning
+- Do true-bell tones predict danger, detect danger, or participate in causing the warning
 condition to stabilize?
-— Which end calendar entries are prophecy, pattern analysis, inherited memory, or post-event correction?
-— How many shelters are structurally anomalous, and were any built by Cairn &
+- Which end calendar entries are prophecy, pattern analysis, inherited memory, or post-event correction?
+- How many shelters are structurally anomalous, and were any built by Cairn &
 Lintel or another outside group?
-— Has Last Bell ever prevented a disaster that A.C.T therefore never detected?
-— Can hostile GOIs manipulate Last Bell warnings to move civilians into controlled routes?
-— Why do failed-warning confession rites appear to reduce false alarms in some cells?
-— Are children hearing bells earlier than adults because of exposure, training, or an
+- Has Last Bell ever prevented a disaster that A.C.T therefore never detected?
+- Can hostile GOIs manipulate Last Bell warnings to move civilians into controlled routes?
+- Why do failed-warning confession rites appear to reduce false alarms in some cells?
+- Are children hearing bells earlier than adults because of exposure, training, or an
 unresolved anomaly condition?
 
 Intelligence Confidence
@@ -584,14 +584,14 @@ prophecy-effect review.
 Related A.C.T Records
 ---------------------
 
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CU-X-048-Children-of-the-Deep-CoTD.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CU-X-062-Choir-of-the-Unforgotten-Name.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CU-N-063-Keepers-of-the-Ninth-Reliquary.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Access_and_Egress_Ledger_Form.md
-- A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- GOI-CU-X-048 — Children of the Deep CoTD, Group of Interest Registry
+- GOI-CU-X-062 — Choir of the Unforgotten Name, Group of Interest Registry
+- GOI-CU-N-063 — Keepers of the Ninth Reliquary, Group of Interest Registry
+- Normalcy Management and Public Narrative Doctrine, Archive Record
+- ACCESS AND EGRESS LEDGER FORM, Operational Form
+- WITNESS STATEMENT AND TESTIMONY FORM, Operational Form
 - Restricted apocalypse, disaster-warning, bell-tone, shelter, prophecy, evacuation, and mass-panic case chains held
 under Central Archive routing.
 

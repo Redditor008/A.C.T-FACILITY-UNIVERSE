@@ -230,12 +230,12 @@ include:
   end calendars marking dates later linked to abnormal weather, route failure, or mass
   witness
   events;
-— shelter hymns reducing panic during crowded evacuation;
-— counting songs preserving child rosters when shelter numbers fluctuate;
-— dawn alarms waking households before nonstandard intrusions;
-— route cards remaining legible during rain, ash, or memory stress;
-— shared dreams producing consistent hazard imagery across separate cells;
-— failed-warning confession rites reducing future false positives in some local groups.
+- shelter hymns reducing panic during crowded evacuation;
+- counting songs preserving child rosters when shelter numbers fluctuate;
+- dawn alarms waking households before nonstandard intrusions;
+- route cards remaining legible during rain, ash, or memory stress;
+- shared dreams producing consistent hazard imagery across separate cells;
+- failed-warning confession rites reducing future false positives in some local groups.
 
 The Congregation is not assessed as Engineering. Its practice relies on bells, repetition, prophecy
 handling, trained
@@ -538,14 +538,14 @@ prophecy-effect review.
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CU-X-048-Children-of-the-Deep-CoTD.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CU-X-062-Choir-of-the-Unforgotten-Name.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CU-N-063-Keepers-of-the-Ninth-Reliquary.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Normalcy_Management_and_Public_Narrative_Doctrine.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Access_and_Egress_Ledger_Form.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/ACT_Witness_Statement_and_Testimony_Form.md`
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- GOI-CU-X-048 — Children of the Deep CoTD, Group of Interest Registry
+- GOI-CU-X-062 — Choir of the Unforgotten Name, Group of Interest Registry
+- GOI-CU-N-063 — Keepers of the Ninth Reliquary, Group of Interest Registry
+- Normalcy Management and Public Narrative Doctrine, Archive Record
+- ACCESS AND EGRESS LEDGER FORM, Operational Form
+- WITNESS STATEMENT AND TESTIMONY FORM, Operational Form
 - Restricted apocalypse, disaster-warning, bell-tone, shelter, prophecy, evacuation, and mass-panic case chains held
   under Central Archive routing.
 

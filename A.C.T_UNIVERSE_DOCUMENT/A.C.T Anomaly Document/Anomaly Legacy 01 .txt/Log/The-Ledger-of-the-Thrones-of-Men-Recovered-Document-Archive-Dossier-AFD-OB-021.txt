@@ -125,14 +125,14 @@ ENTRY REGISTER (abridged):
    - The First King: describes the Old Blood as an ageless horned lineage;
      establishes the command that every sovereign should add truth and pass
      the book onward
-   — Gaius Julius Caesar: "I came to her a warlord. I departed an Emperor."
-   — King Henri of the Franks: describes AFD-SU-009 as a living treasury of
+   - Gaius Julius Caesar: "I came to her a warlord. I departed an Emperor."
+   - King Henri of the Franks: describes AFD-SU-009 as a living treasury of
      remembrance who refuses to write history in a narrow clerkly manner
-   — Grand Duke Alessandro: records an etiquette-correction event matching
+   - Grand Duke Alessandro: records an etiquette-correction event matching
      known AFD-SU-009 anomalous properties
-   — The Last Crowned Hand: describes the decline of royal secrecy and the
+   - The Last Crowned Hand: describes the decline of royal secrecy and the
      decision to hide the book in the estate vault
-   — Unknown Sovereign: states that AFD-SU-009 knows of the book, has always
+   - Unknown Sovereign: states that AFD-SU-009 knows of the book, has always
      known, and permits its quiet existence while pretending not to
      acknowledge it
 
@@ -185,12 +185,12 @@ CUSTODIAL NOTES:
 
    - Archive officers may add custodial notes only on inserted non-anomalous
      pages marked as A.C.T commentary
-   — The ledger should not be shown to junior staff as proof that the
+   - The ledger should not be shown to junior staff as proof that the
      Countess is "royalty"; it shows rulers treated her as an authority
-   — When AFD-SU-009 was informed that A.C.T had recovered several old estate
+   - When AFD-SU-009 was informed that A.C.T had recovered several old estate
      books, she replied: "How dreadful. Men always become sentimental when
      ink is involved."
-   — Digitization is permitted only through sealed non-networked scans;
+   - Digitization is permitted only through sealed non-networked scans;
      digital copies do not reproduce the chapter-duty effect
 
 ═══════════════════════════════════════════════════════════════════════

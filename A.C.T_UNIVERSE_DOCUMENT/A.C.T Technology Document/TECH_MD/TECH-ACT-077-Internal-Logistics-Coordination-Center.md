@@ -190,9 +190,9 @@ and alive with movement.
   How should ILCC route personnel when surface transition and deep floors both need
   evacuation
   priority?
-— Should port handoff delays automatically freeze laboratory scheduling?
-— Can a resident influence logistics by altering what staff believe is urgent?
-— When does a logistics error become a containment breach?
+- Should port handoff delays automatically freeze laboratory scheduling?
+- Can a resident influence logistics by altering what staff believe is urgent?
+- When does a logistics error become a containment breach?
 
 ---
 

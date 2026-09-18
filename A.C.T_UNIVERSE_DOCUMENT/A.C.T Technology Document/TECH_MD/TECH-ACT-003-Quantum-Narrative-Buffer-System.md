@@ -474,15 +474,14 @@ environments and must reconcile all field captures after return.
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Master_Index_50.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Evolution_Timeline.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Visual_Reference_Guide.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Site Dossier/ACT-SITE-03-JP-E-Kurokawa-Archive-Node.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Site Dossier/Floor
-  Dossier/ACT-SITE-01-US-W-F-7-Central-Archive-and-Records.md`
-— `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/TECH-ACT-001-Reality-Stabilization-Anchor-System.md`
-— `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/TECH-ACT-002-Anti-Reality-Mesh-System.md`
-— `A.C.T_UNIVERSE_DOCUMENT/A.C.T Technology Document/TECH_MD/00_Technology_Record_Template.md`
+- ACT-MASTER-INDEX-50-SYSTEMS-AND-MATERIALS, Archive Record
+- Internal Engineering Record: 1598 – 2026, Archive Record
+- Comprehensive Visual and Mechanical Specifications for Asset Index 50, Archive Record
+- ACT-SITE-03-JP-E — Kurokawa Archive Node, Site Dossier
+- ACT-SITE-01-US-W — F 7 Central Archive and Records, Floor Dossier
+- TECH-ACT-001 — Reality Stabilization Anchor System, Technology Record
+- TECH-ACT-002 — Anti Reality Mesh System, Technology Record
+- TECHNOLOGY RECORD TEMPLATE, Technology Record
 
 ### Technology Relationship
 

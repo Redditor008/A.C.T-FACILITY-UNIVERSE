@@ -225,9 +225,9 @@ Standing reminder: if the powder touches water, the decision has already been ma
 - Can Blue Haze be neutralized without weakening the steel-grade bloom?
   Does refined powder remember the moon cycle under which raw Blue Dirt was
   collected?
-— Can RSD be made reversible without using gold tools or Red River acid?
-— How much humidity exposure creates unsafe partial bloom inside a hopper?
-— Should RSD ever be deployed in occupied facilities, or only in already-lost zones?
+- Can RSD be made reversible without using gold tools or Red River acid?
+- How much humidity exposure creates unsafe partial bloom inside a hopper?
+- Should RSD ever be deployed in occupied facilities, or only in already-lost zones?
   Can a living anomaly intentionally drink or absorb the hydration trigger to control
   the
   bloom?

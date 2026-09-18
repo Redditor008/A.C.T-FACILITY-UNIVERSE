@@ -388,8 +388,8 @@ priorities include:
 - `ACT-SITE-05-ID-C — Nusantara Deep Relay` Site Dossier (Floor Register)
 - `ACT-SITE-05-ID-C — F-2 Deep Monitoring and Restricted Records` Floor Dossier
 - `ACT-SITE-05-ID-C — F-4 Laboratory and Research Level` Floor Dossier
-- `ACT_Global_Site_Registry.md` / `.txt`
-- `ACT_Site_Doctrine_and_Installation_Structure.md` / `.txt`
+- Global Site Registry, Archive Record / `.txt`
+- Site Doctrine, Site Classification, and Installation Structure, Archive Record / `.txt`
 - Nusantara Annex Register (clearance-gated)
 - AFD-NB-964 resident file and log dossiers (clearance-gated)
 

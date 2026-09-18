@@ -193,13 +193,13 @@ OPEN QUESTIONS
 
 - How many concealed transitions can occur in one day before campus movement becomes
 patterned?
-— Should recovered material ever move through F-6 while external collaborators are present on
+- Should recovered material ever move through F-6 while external collaborators are present on
 the island?
-— Can port separation remain credible during high-tempo maritime recovery?
-— What ordinary campus reason best supports a sudden surface seal without creating curiosity?
-— Should Security prioritize stopping observation or preserving the observer's belief that nothing unusual
+- Can port separation remain credible during high-tempo maritime recovery?
+- What ordinary campus reason best supports a sudden surface seal without creating curiosity?
+- Should Security prioritize stopping observation or preserving the observer's belief that nothing unusual
 occurred?
-— When does a legitimate research schedule become too useful as cover and therefore
+- When does a legitimate research schedule become too useful as cover and therefore
 too dangerous to keep using?
 
 FILE METADATA

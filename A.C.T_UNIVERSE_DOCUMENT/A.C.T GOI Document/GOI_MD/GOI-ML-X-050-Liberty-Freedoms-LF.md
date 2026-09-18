@@ -316,15 +316,15 @@ Confirmed and assessed assets include:
 
 - **Defector knowledge:** routes, schedules, formats, procedures, and institutional memory, held by the network's
   highest-trust members;
-— **Publication infrastructure:** masthead identities, relay points, encrypted drop systems, and printing or recording
+- **Publication infrastructure:** masthead identities, relay points, encrypted drop systems, and printing or recording
   capacity;
-— **Adapted equipment:** seized or diverted A.C.T transport fixtures, restraint systems, monitoring tools, and
+- **Adapted equipment:** seized or diverted A.C.T transport fixtures, restraint systems, monitoring tools, and
   protective gear;
   **Carried subjects:** anomalies assessed to travel with L.F. cells, each requiring separate case-chain
   handling
   and
   each representing both an asset and a vulnerability;
-— **Sympathizer network:** drivers, landlords, archivists, and logistics workers providing cover without full
+- **Sympathizer network:** drivers, landlords, archivists, and logistics workers providing cover without full
   initiation.
 
 Holdings are assessed as dispersed and changeable: safehouses near transport junctions, temporary holding sites
@@ -457,7 +457,7 @@ civilian protection, and control of the active threat.
   **ACT-SITE-02-RU-N / White Grave Station** supports remote recovery, severe-environment pursuit, and the handling
   of
   carried subjects recovered from cold or isolated conditions.
-— **ACT-SITE-03-JP-E / Kurokawa Archive Node** leads document-warfare defense: leak forensics, defector communications
+- **ACT-SITE-03-JP-E / Kurokawa Archive Node** leads document-warfare defense: leak forensics, defector communications
   analysis, publication pre-release detection, and the protection of records that would be most damaging
   if released.
   **ACT-SITE-04-BR-C / Verde Null Bio-Reserve** receives biological and environmental subjects that L.F. cells
@@ -658,8 +658,8 @@ organizational dossier and any subject file must remain distinct.
 - Site Map and Jurisdiction Doctrine — cross-site response assignment and corridor-seam responsibility;
 - Facility Divisions, Personnel Roles, and Operational Life — Security, Recovery, Containment, Intelligence, Military,
   and Civil Covert responsibilities;
-— Anomaly Classification Manual Archive — subject, transport, and breach filing;
-— Anomaly Log Categories In-World Explanation — controlled incident, recovery, and leak documentation.
+- Anomaly Classification Manual Archive — subject, transport, and breach filing;
+- Anomaly Log Categories In-World Explanation — controlled incident, recovery, and leak documentation.
 
 ---
 

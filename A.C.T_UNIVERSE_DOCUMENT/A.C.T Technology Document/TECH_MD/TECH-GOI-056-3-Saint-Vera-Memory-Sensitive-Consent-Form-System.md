@@ -185,12 +185,11 @@ is preserved as evidence.
 
 ## CROSS-REFERENCES
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CP-P-056-Saint-Vera-Restoration-Concern.md`
+- GOI-CP-P-056 — Saint Vera Restoration Concern, Group of Interest Registry
 - `TECH-GOI-056-1` — theater where the consent read takes place
 - `TECH-GOI-056-4` — prosthetic fitting gated by the consent read
 - `TECH-GOI-056-5` — failure labels archived in the sealed continuity record
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational
-  Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md`
+- AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM, Operational Form
 
 Filed under the GOI chain. A.C.T lists no equivalent authorization instrument in its own
 technology index.
@@ -199,12 +198,12 @@ technology index.
 
 - Is the form a material, a printed instrument, or a procedure performed on
   ordinary paper?
-— What channels does it compare when detecting contradiction?
-— Does it ever fail to detect coercion, and how would A.C.T learn that
+- What channels does it compare when detecting contradiction?
+- Does it ever fail to detect coercion, and how would A.C.T learn that
   it had?
-— Who sits on the refusal board, and is it the same body as
+- Who sits on the refusal board, and is it the same body as
   the Green Thread Directorate?
-— Would the system read an A.C.T custody form the same way it reads
+- Would the system read an A.C.T custody form the same way it reads
   a Saint-Vera consent card?
 
 ## FILE METADATA

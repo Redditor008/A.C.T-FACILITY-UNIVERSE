@@ -530,13 +530,13 @@ substitute for resident-specific files.
 
 ### Related A.C.T Records
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Record_Template.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/00_GOI_Recovered_Document_Format.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-GV-P-059-Grey-Harbor-Civil-Rescue-Directorate.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-BS-P-067-Candle-Under-Exchange.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CU-X-065-Mercy-of-the-Quiet-Sun.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Complete_Designation_and_Class_Reference.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Standing_Field_Units_and_Cross_Containment_Interaction_Doctrine.md`
+- CONTROLLED RECORD FORM, Group of Interest Registry
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
+- GOI-GV-P-059 — Grey Harbor Civil Rescue Directorate, Group of Interest Registry
+- GOI-BS-P-067 — Candle Under Exchange, Group of Interest Registry
+- GOI-CU-X-065 — Mercy of the Quiet Sun, Group of Interest Registry
+- Complete Designation and Class Reference, Archive Record
+- Standing Field Units and Cross-Containment Interaction Protocol, Archive Record
   Restricted medical, hospice, restraint, altered-person, low-risk custody, legal guardianship, and transfer files
   held
   under Central Archive routing.

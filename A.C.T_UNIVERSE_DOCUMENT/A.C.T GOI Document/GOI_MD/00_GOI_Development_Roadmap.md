@@ -22,7 +22,9 @@ slots.
 
 This Markdown roadmap is retained because deleting the scaffold would lose useful structure. Its
 matching plain-text
-reading copy is kept in `GOI_TXT/00_GOI_Development_Roadmap.txt`. The same Markdown-plus-TXT pairing will be used for
+reading copy is kept in 00 GOI Development Roadmap, Group of Interest Registry. The
+same Markdown-plus-TXT pairing
+will be used for
 every later approved individual GOI dossier.
 
 A scaffold slot does **not** become final canon merely because it appears in this
@@ -67,18 +69,18 @@ site, story, anomaly-format, log-format, technology, orientation, and GOI-regist
 The most important source foundations are:
 
 ```text
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_GOI_Registry_and_External_Threat_Doctrine_Archive.md
+GOI Registry, Rival Powers, and External Threat Doctrine, Archive Record
 A.C.T_UNIVERSE_DOCUMENT/A.C.T .md
 Document/Part/ACT_Universe_Part_4_GOI_Registry_Rival_Powers_and_External_Threat_Doctrine.md
-A.C.T_UNIVERSE_DOCUMENT/'A History of Anomaly Containment Transformation' BOOK.md
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Global_Site_Registry.md
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Site_Map_and_Jurisdiction_Doctrine.md
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Site_Doctrine_and_Installation_Structure.md
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Anomaly_Classification_Manual_Archive.md
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Anomaly_Log_Categories_In_World_Explanation.md
-A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Internal_Structure_and_Reality_Doctrine_Archive.md
-A.C.T_UNIVERSE_DOCUMENT/ACT MAIN STORY/The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md
-A.C.T_UNIVERSE_DOCUMENT/Junior Handbook/ACT_Orientation_Handbook.md
+Title Statement, Archive Record
+Global Site Registry, Archive Record
+Site Map and Jurisdiction Doctrine, Archive Record
+Site Doctrine, Site Classification, and Installation Structure, Archive Record
+Anomaly Classification Manual and File Standard, Archive Record
+IN-WORLD EXPLANATION — ANOMALY LOG CATEGORIES, Archive Record
+Internal Structure, Classification, and Reality Doctrine, Archive Record
+Full Manuscript, Narrative Record
+MASTER VOLUME — CHAPTERS 1-6, Archive Record
 ```
 
 The source-protected `Emergent Reality Anomaly/` folder was inventoried only as an excluded repository subtree.
@@ -217,7 +219,7 @@ creation.
   state must retain its own civilian continuity records and refuses to surrender every anomaly-adjacent
   decision to
   A.C.T.
-— **Likely jurisdiction:** Site 01 with Central legal/archive review.
+- **Likely jurisdiction:** Site 01 with Central legal/archive review.
   **Key drafting question:** When does protecting ordinary people's practical lives become a demand
   to
   control the truth
@@ -236,7 +238,7 @@ creation.
   problems;
   it
   may close a sea lane even when A.C.T needs it for emergency access.
-— **Likely jurisdiction:** Site 05, with cross-site routing review.
+- **Likely jurisdiction:** Site 05, with cross-site routing review.
   **Key drafting question:** Is the treaty hiding anomalies, or hiding a pattern of
   governmental
   exploitation beneath
@@ -256,7 +258,7 @@ creation.
   the
   human and
   geographic aftermath of incidents, turning cleanup into ownership.
-— **Likely jurisdiction:** Site 01, with Site 04 consultation for contaminated properties.
+- **Likely jurisdiction:** Site 01, with Site 04 consultation for contaminated properties.
   **Key drafting question:** Can A.C.T. use the company's cover infrastructure without becoming complicit
   in
   dispossession?
@@ -267,7 +269,7 @@ creation.
   **Class direction:** Corporate / Negative / Transnational / Engineering / Threat 4 /
   Leaking
   / Dismantle + Appropriate
-— **Core premise:** A private biomedical company that acquires anomalous tissue, environmental samples, and
+- **Core premise:** A private biomedical company that acquires anomalous tissue, environmental samples, and
   "unexplainable recoveries" through front clinics and clinical trials, then races to commercialize results before
   their
   risks are understood.
@@ -275,7 +277,7 @@ creation.
   saleable
   medicine, not
   stable coexistence or containment.
-— **Likely jurisdiction:** Site 04 with Medical and Transformation Division review.
+- **Likely jurisdiction:** Site 04 with Medical and Transformation Division review.
   **Key drafting question:** What happens when a cure is medically real but its
   production
   makes the underlying anomaly
@@ -296,7 +298,7 @@ creation.
   unable
   to
   dismiss them as merely deluded or hostile.
-— **Likely jurisdiction:** Site 03 with temporal/reality-theory review.
+- **Likely jurisdiction:** Site 03 with temporal/reality-theory review.
   **Key drafting question:** Does the group understand a real pattern, or is its
   obedience
   helping to create one?
@@ -315,7 +317,7 @@ creation.
   **Distinctive pressure:** Some of their customs demonstrably reduce place-anomaly incidents, while their refusal
   to
   disclose routes prevents A.C.T. from applying ordinary survey and containment procedure.
-— **Likely jurisdiction:** Site 04 and Site 05, depending on the route.
+- **Likely jurisdiction:** Site 04 and Site 05, depending on the route.
   **Key drafting question:** What does ethical cooperation look like when the only effective
   containment
   practice
@@ -335,7 +337,7 @@ creation.
   insistence
   on open peer review
   clashes directly with A.C.T.'s secrecy doctrine.
-— **Likely jurisdiction:** Site 05 with Site 02 technical support.
+- **Likely jurisdiction:** Site 05 with Site 02 technical support.
   **Key drafting question:** How much true information can A.C.T. share before the existence
   of
   the pattern becomes a
@@ -356,7 +358,7 @@ creation.
   its
   members
   have begun conducting unauthorized observation protocols on civilians.
-— **Likely jurisdiction:** Site 03 / Kurokawa Archive Node.
+- **Likely jurisdiction:** Site 03 / Kurokawa Archive Node.
   **Key drafting question:** Is the Society preventing information hazards, or manufacturing them to
   prove
   its theory?
@@ -375,7 +377,7 @@ creation.
   gain
   early warnings only by
   respecting the people who already know their coast has been changed.
-— **Likely jurisdiction:** Site 05.
+- **Likely jurisdiction:** Site 05.
   **Key drafting question:** Can a secrecy-driven institution genuinely partner with a community whose
   first
   duty is to
@@ -397,7 +399,7 @@ creation.
   cannot
   erase
   without harming people who have already lost too much.
-— **Likely jurisdiction:** Site 01 and Site 03.
+- **Likely jurisdiction:** Site 01 and Site 03.
   **Key drafting question:** Can a civilian archive preserve enough truth to save victims
   without
   triggering a larger
@@ -418,8 +420,8 @@ creation.
   control, territory, state contracts,
   and proof that its ruthless method works-even if civilians and anomalies are treated as
   disposable material.
-— **Likely jurisdiction:** Site 01 with Central Military review.
-— **Key drafting question:** How can A.C.T. oppose an organization whose visible goal-preventing panic-looks
+- **Likely jurisdiction:** Site 01 with Central Military review.
+- **Key drafting question:** How can A.C.T. oppose an organization whose visible goal-preventing panic-looks
   uncomfortably similar to its own?
 
 ### 12 - The Boundary Wardens
@@ -458,7 +460,7 @@ creation.
   real
   consequences,
   yet the group itself may be an anomalous condition rather than a stable institution.
-— **Likely jurisdiction:** Site 03 with Central Archive review.
+- **Likely jurisdiction:** Site 03 with Central Archive review.
   **Key drafting question:** What must A.C.T. preserve when the act of documenting the
   group
   changes who the group is?
@@ -478,7 +480,7 @@ creation.
   anomalous
   collective,
   or both; forced separation may be as harmful as uncontrolled contact.
-— **Likely jurisdiction:** Site 04 with Medical and Archiver consultation.
+- **Likely jurisdiction:** Site 04 with Medical and Archiver consultation.
   **Key drafting question:** Can containment respect personhood when personhood is shared but not
   erased?
 
@@ -488,14 +490,14 @@ creation.
   **Class direction:** In-Human / Unknown / Regional / Practitioner / Threat 3 /
   Veiled
   / Monitor
-— **Core premise:** An intelligent deep-water collective that leaves patterned shell deposits and low-frequency
+- **Core premise:** An intelligent deep-water collective that leaves patterned shell deposits and low-frequency
   transmissions before underwater pressure events. It refuses conventional communication, but appears to be warning
   surface communities in its own way.
   **Distinctive pressure:** It is not a monster to be captured or a human
   faction
   to recruit. Its interests may be
   ecological, territorial, or linked to an unknown nonhuman survival system.
-— **Likely jurisdiction:** Site 05 / Nusantara Deep Relay.
+- **Likely jurisdiction:** Site 05 / Nusantara Deep Relay.
   **Key drafting question:** How can A.C.T. establish reciprocity with a group whose communication
   is
   evidence, not
@@ -513,9 +515,9 @@ creation.
   extreme pressure.
   It enforces its own interpretation of agreements by turning broken obligations into physical or
   social consequences.
-— **Distinctive pressure:** It weaponizes ordinary human institutions-contracts, oaths, emergency promises-rather than
+- **Distinctive pressure:** It weaponizes ordinary human institutions-contracts, oaths, emergency promises-rather than
   attacking from outside them.
-— **Likely jurisdiction:** Central legal/archive review with Site 03 support.
+- **Likely jurisdiction:** Central legal/archive review with Site 03 support.
   **Key drafting question:** Is the Court exploiting human promises, or exposing the harm
   already
   hidden inside them?
@@ -533,7 +535,7 @@ creation.
   **Distinctive pressure:** Unlike Anstrall Market, it does not principally sell anomalies. It sells
   movement,
   concealment, and contractual reliability-services A.C.T. may sometimes need but cannot safely trust.
-— **Likely jurisdiction:** Site 01 and Site 05.
+- **Likely jurisdiction:** Site 01 and Site 05.
   **Key drafting question:** What price does the Compact charge when its routes are
   the
   only way to prevent a public
@@ -551,7 +553,7 @@ creation.
   **Distinctive pressure:** The network makes anomalous objects socially desirable and widely dispersed. It
   presents
   itself as a legal luxury business rather than an overt black market.
-— **Likely jurisdiction:** Site 01 / Redwood Veil Complex.
+- **Likely jurisdiction:** Site 01 / Redwood Veil Complex.
   **Key drafting question:** How does A.C.T. retrieve an object once prestige, private ownership,
   and
   public curiosity
@@ -573,7 +575,7 @@ creation.
   consent,
   prediction,
   and causality inseparable.
-— **Likely jurisdiction:** Site 03 with Site 01 civil-continuity coordination.
+- **Likely jurisdiction:** Site 03 with Site 01 civil-continuity coordination.
   **Key drafting question:** Is the Census preventing disasters, selecting who is allowed to
   survive
   them, or both?
@@ -595,7 +597,7 @@ creation.
   is
   a direct
   challenge to the principle that some foundations must be maintained, not exploited.
-— **Likely jurisdiction:** Site 05 with Central abyssal-restriction review.
+- **Likely jurisdiction:** Site 05 with Central abyssal-restriction review.
   **Key drafting question:** What is the difference between resource extraction and waking a
   system
   that has only
@@ -626,9 +628,11 @@ name is not assumed accepted.
 
 For the selected approved GOI only, the work will:
 
-   create one dedicated Markdown record in `GOI_MD/` using `00_GOI_Record_Template.md`, plus a matching `.txt`
+   create one dedicated Markdown record in `Group of Interest Registry collection, Central Archive` using
+   CONTROLLED
+   RECORD FORM, Group of Interest Registry, plus a matching `.txt`
    reading
-   copy in `GOI_TXT/`;
+   copy in `Group of Interest Registry collection, plain-text reading copies`;
    turn the short seed into a concrete institutional structure, ideology, assets, history with
    A.C.T.,
    responsible site,
