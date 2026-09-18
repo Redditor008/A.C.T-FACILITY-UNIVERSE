@@ -130,6 +130,63 @@ with communication, testimony, morale, and emergency clarity.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+The boredom-frequency range and output figures have never been published. The unit is described
+as heavier than
+ordinary portable equipment without a mass being recorded.
+
+| PARAMETER | VALUE |
+|---|---|
+| Form factor | heavy signal broadcaster resembling a modern server unit |
+| Radiating element | oscillating signal disc behind reinforced glass |
+| Tuning | digital tuner calibrating the Boredom Frequency |
+| Thermal | retractable cooling chimney venting ionized air at high intensity |
+| Cooling | multiple internal fans, constant high-volume whirring |
+| Output | direction-limited speaker and data-broadcast array |
+| Source | entropy seed cartridge |
+| Archive path | archive-line injection port |
+| Mount | field tripod |
+| Shutdown | emergency silence lever |
+| Crew monitoring | Medical pulse and stress monitor attachment |
+| Output power | NOT MEASURED |
+| Effective radius | NOT MEASURED |
+| Boredom Frequency range | NOT MEASURED |
+| Unit mass | NOT MEASURED |
+
+Two fitted links define how this unit sits beside other systems: a CSG-to-ARM separation
+warning and a CSG-to-QNB
+logging link. Neither is optional and neither is adjustable in the field.
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Controls
+
+- boredom-frequency digital tuner
+- emergency silence lever
+- archive-line injection port
+- field tripod mount
+
+### Readouts
+
+- oscillating signal disc behind reinforced glass
+- CSG-GREEN through CSG-BLACK working states
+- Medical pulse and stress monitor attachment for crew exposure
+
+### Envelope And Personnel Limits
+
+- Do not activate because an incident merely feels dramatic.
+- Do not broadcast over medical alarms, evacuation orders, or subject-care instructions.
+- Do not combine with amnestic treatment without Memory Review approval.
+- Do not assume staff are safe because they are annoyed rather than afraid.
+- Irritation can be the first sign that attention is being pulled into the
+  static field.
+
+The acoustic signature is a recognition feature and an operational limitation at the same
+time: constant high-volume
+fan whir, plus ionized-air venting at high intensity. This unit cannot be run silently.
+
+
 ## PHYSICAL AND SYSTEM DESCRIPTION
 
 ### Standard Broadcast Unit
@@ -185,6 +242,26 @@ over-broadcasting into civilians.
 
 ## OPERATING PROCEDURE
 
+### Numbered Operating Sequence
+
+Deployment, Level 4 Engineering, Containment, Archive, or Civil Covert.
+
+1. Identify the narrative behavior being interrupted: prophecy loop, hero fixation, doom sequence, song
+   recruitment,
+   audience formation, role assignment, repeating dialogue, symbolic escalation, or document scripting.
+2. Do not tune until the target pattern is identified.
+3. Confirm the deployment context is approved at Level 4.
+4. Escalate to Level 5 for site-wide broadcast, public media injection, high-intensity starvation, use
+   around minors,
+   or use in medical wards.
+5. Set the boredom-frequency tuner.
+6. Fit the Medical pulse and stress monitor for crew exposure.
+7. Monitor for CSG-YELLOW irritation rising.
+8. Stop on CSG-AMBER: the static may be creating secondary meaning.
+
+Emergency: pull the emergency silence lever. On CSG-BLACK, shut down if possible and distrust
+all repeated phrases.
+
 ### Authorized Use
 
 Level 4 Engineering, Containment, Archive, or Civil Covert personnel may deploy Causal Static in
@@ -230,6 +307,33 @@ Irritation can be the first sign that attention is being pulled into the static
 field.
 
 ---
+
+
+## SERVICING AND CALIBRATION
+
+| TRIGGER | ACTION | AUTHORITY |
+|---|---|---|
+| Tuning drift or CSG-AMBER | recalibration review | Level 4 |
+| Site-wide broadcast or high-intensity starvation | authorization required | Level 5 |
+| Combined deployment with ARM-WHITE, RSA-WHITE, QNB restoration, or 004-series | authorization required | Level 5 |
+| Entropy seed cartridge | no replacement interval recorded | NOT MEASURED |
+| Cooling chimney and fan service | no interval recorded | NOT MEASURED |
+
+One standing rule came out of the first starvation test: procedural banality can itself
+become a hook if repeated too
+rigidly, and the checklist involved was rewritten with rotating fields.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Target pattern weakened while personnel irritation rises | CSG-YELLOW | reduce intensity; monitor crew |
+| Pattern distortion unstable | CSG-AMBER, static creating secondary meaning | stop and retune |
+| High-intensity suppression running | CSG-RED | restrict speech, recording, and civilian access |
+| Anomaly uses the static as drumbeat, prophecy, chant, countdown, or proof of persecution | CSG-BLACK | shut down if possible; distrust all repeated phrases |
+| Generated filler phrases spreading publicly | Kurokawa secondary chant | replace filler with ordinary advertising clutter and false platform moderation |
+| A checklist becomes compulsively important to observers | procedural banality hook | rotate fields; Medical removal of affected observers |
+
 
 ## KNOWN LIMITS
 
@@ -394,6 +498,9 @@ Static Generator System.
 
 ---
 
+- Output power, effective radius, boredom-frequency range, and unit mass have never been recorded.
+- No entropy seed cartridge life or replacement interval exists.
+- No measured threshold separates useful suppression from CSG-AMBER secondary meaning.
 ## FILE METADATA
 
 ```text

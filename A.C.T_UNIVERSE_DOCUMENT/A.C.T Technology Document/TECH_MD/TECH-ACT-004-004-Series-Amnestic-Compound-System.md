@@ -143,6 +143,62 @@ or mass exposure.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+This is a pharmaceutical lineage rather than equipment, so the specification table records grade
+and provenance
+instead of physical dimensions. Refinement and concentration tables are Level 5 and are not
+restated.
+
+| PARAMETER | VALUE |
+|---|---|
+| Lineage | stabilized derivatives of AFD-NB-004 sap |
+| Classification | anomaly-derived neurological erasure agents |
+| Raw material | AFD-NB-004 sap; not safe for unrestricted use |
+| Working states | 004-GREEN through 004-BLACK |
+| Restricted grades | 004-A, 004-B, 004-C, 004-D at Level 5 |
+| Named field grade | 004-H, administered with a controlled warning truth shard |
+| Review instrument | Amnestic Administration and Memory-Aftercare Review Form |
+| Concentration table | Level 5 restricted |
+| Refinement table | Level 5 restricted |
+| Shelf life | NOT MEASURED |
+| Dose by person category | NOT MEASURED |
+| Storage condition | NOT MEASURED |
+| Batch tracking | NOT MEASURED |
+
+Raw sap is not the product. Every administered compound is a stabilized derivative at
+a defined concentration, and the
+grade selected determines whether the outcome is a blur or an organ injury.
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Controls
+
+- the review form is the control surface; there is no equipment interface
+
+### Readouts
+
+- 004-GREEN through 004-BLACK administration states
+
+### Envelope And Personnel Limits
+
+- "Knows too much" is not sufficient grounds for administration.
+- Never administer as punishment, convenience, intimidation, or schedule repair.
+- Never administer after refusal unless override authority is written plainly.
+- No false memory insertion without separate justification.
+- Never erase a memory anchor required for safety.
+- No use that makes personnel available for the same exposure again without Medical
+  Care and Personnel Review
+  approval.
+- No use that hides A.C.T misconduct.
+
+The review form must identify person category, exposure condition, memory target, estimated range, anchors
+to
+preserve, anchors to remove, anchors that must not be touched, replacement story pressure, consent
+condition, override
+authority, expected side effects, and aftercare plan.
+
+
 ## GRADE STRUCTURE AND SYSTEM DESCRIPTION
 
 ### Recognized Grades
@@ -197,6 +253,26 @@ material.
 
 ## OPERATING PROCEDURE
 
+### Numbered Operating Sequence
+
+Administration sequence, Medical Care with Civil Covert.
+
+1. Open the Amnestic Administration and Memory-Aftercare Review Form before any decision is taken.
+2. Identify person category and exposure condition.
+3. Define the memory target and estimated range.
+4. List anchors to preserve, anchors to remove, and anchors that must not be
+   touched.
+5. Assess replacement story pressure and consent condition.
+6. Record override authority and expected side effects.
+7. Write the aftercare plan.
+8. Obtain Level 4 Medical and Civil Covert review, or Level 5 where a
+   restricted condition applies.
+9. Assign the administration state.
+10. Deliver the retained packet where 004-WHITE applies.
+
+A denied request must still be recorded if it reached Medical Care, Civil Covert,
+Site Command, or Central Archive.
+
 ### Review Before Administration
 
 A.C.T uses the Amnestic Administration and Memory-Aftercare Review Form whenever memory alteration is considered,
@@ -245,6 +321,35 @@ not use amnestics to hide
 A.C.T misconduct.
 
 ---
+
+
+## SERVICING AND CALIBRATION
+
+| TRIGGER | ACTION | AUTHORITY |
+|---|---|---|
+| Repeated short-window administrations to one person | repeated-use review | Personnel Review |
+| 004-A through 004-D or mass administration | restricted review | Level 5 |
+| Minors without consent, or Excommunicated Class treatment | restricted review | Level 5 |
+| Living anomaly subjects | restricted review | Level 5 |
+| Use that may hide internal misconduct | restricted review | Level 5 |
+| 004-BLACK state | immediate notification | Archive, Medical, Legal, Command |
+
+No calibration applies to a compound. The recurring control is repeated-use review. Stock, batch,
+expiry, and storage
+tracking are all NOT MEASURED in this record.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Memory scope uncertain | 004-YELLOW | truth shard or delay |
+| Medical or identity risk elevated | 004-AMBER | secondary review |
+| High-grade or emergency use | 004-RED | Command and Medical authority |
+| Aftercare reconstruction active | 004-WHITE | post-treatment self must receive the retained packet |
+| Misuse, unauthorized administration, or continuity collapse suspected | 004-BLACK | immediate Archive, Medical, Legal, and Command notification |
+| Requested grade far exceeds the memory range | over-grade risk | 004-C Field Overgrade corrective: severity of panic is not the size of the memory<br>range |
+| Emotional misbinding, duty confusion, inability to explain scars without old packets | cumulative repeated use | Personnel Review; suspend return to repeated exposure work |
+
 
 ## KNOWN LIMITS
 
@@ -405,6 +510,10 @@ an A.C.T-controlled technology lineage.
 
 ---
 
+- No shelf life, storage condition, or dose-by-category table is recorded outside Level 5.
+- No batch or stock tracking exists in this record, so supply cannot be
+  audited from it.
+- No measured relationship exists between grade and reversibility.
 ## FILE METADATA
 
 ```text

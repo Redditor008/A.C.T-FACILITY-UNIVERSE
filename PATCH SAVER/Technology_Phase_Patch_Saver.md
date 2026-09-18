@@ -3526,3 +3526,123 @@ merged `.txt` titles 0, `git diff --check` and `--cached --check` rc=0.
 052, 053,
 055 — plus mixed `TECH-GOI-071`. Continue one set per batch, largest dossier first (048
 Children of the Deep 5440 words, 049 DREAM .INC 5339 words).
+
+## Prompt Log — 2026-09-18 14:38 UTC
+
+**Request.** Begin upgrading the A.C.T technology records to the target skeleton from the
+18/09/2026 structure research note.
+
+**Batch delivered — `TECH-ACT-001` through `TECH-ACT-005`.** Each record gained the four
+missing chapters plus a numbered sequence, inserted at the correct anchors without altering
+existing prose:
+
+- `TECHNICAL SPECIFICATION` — before the physical description
+- `INTERFACE AND OPERATING ENVELOPE` — before the operating procedure
+- `Numbered Operating Sequence` — as the opening sub-section of OPERATING PROCEDURE
+- `SERVICING AND CALIBRATION` — before KNOWN LIMITS
+- `FAULT ISOLATION` — Symptom / Probable Cause / Required Action, before KNOWN LIMITS
+- three new OPEN QUESTIONS entries per record, one per NOT MEASURED group
+
+| Record | Words before | Words after | H2 | H3 | Tables | Numbered steps | Score before | Score after |
+|---|---|---|---|---|---|---|---|---|
+| `TECH-ACT-001` RSA | 2613 | 3459 | 14 | 27 | 5 | 10 | 80.0 | 128.0 |
+| `TECH-ACT-002` ARM | 2524 | 3291 | 14 | 26 | 5 | 10 | 79.5 | 127.5 |
+| `TECH-ACT-003` QNB | 2424 | 3195 | 14 | 26 | 5 | 9 | 77.5 | 124.5 |
+| `TECH-ACT-004` 004-series | 2433 | 3189 | 14 | 26 | 5 | 10 | 78.5 | 126.5 |
+| `TECH-ACT-005` CSG | 2316 | 3064 | 14 | 26 | 5 | 8 | 79.5 | 123.5 |
+
+The previous internal gold standard was `TECH-ACT-006` at 82.0. All five now exceed it.
+
+**Sourcing discipline.** Every value in the new tables is restated from the record's own
+physical description, its component list, its monitoring states, its handling rules, or its
+failure history. Nothing is estimated to fill a cell. Figures the archive does not
+hold are
+entered as `NOT MEASURED` and each one is filed as a new OPEN QUESTIONS
+entry — unit mass,
+power draw, field radius, grid spacing, node counts, canister capacity, boredom-frequency
+range, shelf life, batch tracking, and every servicing interval. Fault isolation rows are
+drawn from the existing GREEN/AMBER/RED/WHITE/BLACK state blocks and from the named incidents
+(RSA-1965 stress bloom, Redwood Veil F-2 amber drift, Siena Estate alpha bleed, Redwood Veil
+delivery contradiction, QNB recovered-title case, 004-C field overgrade, personnel
+repeated-use hollowing, CSG-2011 first starvation test, Kurokawa secondary chant).
+
+**Per-record variation, not stamping.** `TECH-ACT-004` is a pharmaceutical lineage, so its
+specification table records grade and provenance rather than dimensions, its control surface
+is the review form rather than a panel, and its servicing chapter states plainly
+that no
+calibration applies to a compound. `TECH-ACT-003` is deliberately physical, with manual cranks
+and sealed canisters, because purely digital restoration failed in early trials. `TECH-ACT-005`
+carries an acoustic-signature limitation the others do not. No two specification tables share
+a row set.
+
+**Anchors.** `TECH-ACT-004` names its physical chapter `GRADE STRUCTURE AND SYSTEM
+DESCRIPTION` rather than the house default, so the anchor list had to be widened.
+All five
+records assert exactly one match per anchor before insertion.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, UTF8_ERR 0,
+CONFLICT 0, multiH1 0, odd-fence 0, md-with-box 0, broken_links 0/475, TECH_MD 204 = TECH_TXT
+204, GOI_MD 35 = GOI_TXT 35, widest `.txt` box line 118, over-limit lines 11
+(the known
+unbreakable link paths), `git diff --check` and `--cached --check` rc=0. All five `.txt` twins
+carry all five new sections.
+
+**Next action.** Continue the ACT upgrade in batches of five: `TECH-ACT-006` through
+`TECH-ACT-010`. Then the remaining 127 ACT records, then the 58 obsolete `TECH-GOI` records.
+
+## Prompt Log — 2026-09-18 14:38 UTC
+
+**Request.** Begin upgrading the A.C.T technology records to the target skeleton from the
+18/09/2026 structure research note.
+
+**Batch delivered — `TECH-ACT-001` through `TECH-ACT-005`.** Each record gained the four
+missing chapters plus a numbered sequence, inserted at the correct anchors without altering
+existing prose: TECHNICAL SPECIFICATION before the physical description; INTERFACE AND
+OPERATING ENVELOPE before the operating procedure; Numbered Operating Sequence as the opening
+sub-section of OPERATING PROCEDURE; SERVICING AND CALIBRATION and FAULT ISOLATION before KNOWN
+LIMITS; three new OPEN QUESTIONS entries per record covering the NOT MEASURED groups.
+
+| Record | Words | H2 | H3 | Tables | Steps | Score before | Score after |
+|---|---|---|---|---|---|---|---|
+| `TECH-ACT-001` RSA | 2613 to 3459 | 14 | 27 | 5 | 10 | 80.0 | 128.0 |
+| `TECH-ACT-002` ARM | 2524 to 3291 | 14 | 26 | 5 | 10 | 79.5 | 127.5 |
+| `TECH-ACT-003` QNB | 2424 to 3195 | 14 | 26 | 5 | 9 | 77.5 | 124.5 |
+| `TECH-ACT-004` 004-series | 2433 to 3189 | 14 | 26 | 5 | 10 | 78.5 | 126.5 |
+| `TECH-ACT-005` CSG | 2316 to 3064 | 14 | 26 | 5 | 8 | 79.5 | 123.5 |
+
+The previous internal gold standard was `TECH-ACT-006` at 82.0. All five now exceed it.
+
+**Sourcing discipline.** Every value in the new tables is restated from the record's own
+physical description, component list, monitoring states, handling rules, or failure history.
+Nothing is estimated to fill a cell. Figures the archive does not hold are
+entered as
+NOT MEASURED and each is filed as a new open question: unit mass, power
+draw, field radius,
+grid spacing, node counts, canister capacity, boredom-frequency range, shelf life, batch
+tracking, and every servicing interval. Fault isolation rows come from the existing
+GREEN/AMBER/RED/WHITE/BLACK state blocks and the named incidents — RSA-1965 stress bloom,
+Redwood Veil F-2 amber drift, Siena Estate alpha bleed, Redwood Veil delivery contradiction,
+the QNB recovered-title case, 004-C field overgrade, personnel repeated-use hollowing,
+CSG-2011 first starvation test, and the Kurokawa secondary chant.
+
+**Per-record variation, not stamping.** `TECH-ACT-004` is a pharmaceutical lineage, so its
+specification table records grade and provenance rather than dimensions, its control surface
+is the review form rather than a panel, and its servicing chapter states plainly
+that no
+calibration applies to a compound. `TECH-ACT-003` is deliberately physical because purely
+digital restoration failed in early trials. `TECH-ACT-005` carries an acoustic-signature
+limitation the others do not. No two specification tables share a row set.
+
+**Anchor note.** `TECH-ACT-004` names its physical chapter GRADE STRUCTURE AND SYSTEM
+DESCRIPTION rather than the house default, so the anchor list had to be widened.
+Every
+insertion asserts exactly one match per anchor before writing.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, UTF8_ERR 0,
+CONFLICT 0, multiH1 0, odd-fence 0, md-with-box 0, broken_links 0/475, TECH_MD 204 = TECH_TXT
+204, GOI_MD 35 = GOI_TXT 35, widest txt box line 118, over-limit lines 11,
+git diff --check
+and --cached --check rc=0. All five txt twins carry all five new sections.
+
+**Next action.** Continue the ACT upgrade in batches of five, `TECH-ACT-006` through
+`TECH-ACT-010`, then the remaining ACT records, then the 58 obsolete TECH-GOI records.

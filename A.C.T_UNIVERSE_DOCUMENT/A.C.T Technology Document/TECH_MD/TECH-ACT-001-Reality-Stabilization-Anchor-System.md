@@ -148,6 +148,67 @@ fallback concepts. No confirmed non-A.C.T actor has reproduced a full RSA unit.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from the Visual Reference Guide entry and this record's component
+list. Values the archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| PARAMETER | VALUE |
+|---|---|
+| Form factor | hexagonal pillar, 1.5 m tall |
+| Body material | matte-black non-reflective tungsten alloy |
+| Base | heavy-duty tungsten tripod with adjustable leveling feet |
+| Sweep sensor | adjustable laser point dynamic sensor, faint violet beam |
+| Core | four-split Static-Pulse Crystal, quarter-segment load distribution |
+| Core chamber | pressurized stress-release behind the front mechanical hatch |
+| Status display | side-mounted LCD, real-time waveforms of the [REDACTED] synchronization link |
+| Remote interface | folding detachable connector to a Wireless Anti-Shifting Tablet |
+| Grounding | braid tied into site structural mass |
+| Deployment forms | fixed site grid, transport, field breach-response |
+| Unit mass | NOT MEASURED |
+| Power draw | NOT MEASURED |
+| Field radius per unit | NOT MEASURED |
+| Grid spacing standard | NOT MEASURED |
+
+The split core is a consequence, not a preference. Single-core prototypes suffered catastrophic stress
+bloom under
+high distortion. The four-quarter design allows controlled disagreement inside the core instead of uncontrolled
+disagreement in the room.
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Controls
+
+- front mechanical hatch with manual interlock, opening to the pressurized core
+- folding detachable tablet connector
+- side LCD waveform display
+- manual hatch interlock
+
+### Readouts
+
+- violet sweep pattern from the laser point dynamic sensor
+- LCD waveforms of the synchronization link
+- RSA-GREEN through RSA-BLACK working states
+
+### Envelope And Personnel Limits
+
+- Do not stand inside the violet sweep pattern during calibration without approved sensor-safe
+  gear.
+- Do not move a tripod unit after grid acceptance unless the field has
+  been stepped down.
+- Do not connect an uncertified tablet to the folding connector.
+- Weakest against effects that are not spatial, causal, or structural.
+- Weakest against intelligent anomalies that learn the anchor rhythm.
+- Weakest against entropic conditions degrading support systems faster than the anchor can correct.
+- Weakest against narrative-class pressure that treats stabilization as part of the story.
+- Weakest against memory hazards that alter operator interpretation rather than room geometry.
+
+Temperature, humidity, altitude, and power tolerance limits are not recorded anywhere in this file
+or the source
+catalog. Environmental envelope: NOT MEASURED.
+
+
 ## PHYSICAL AND SYSTEM DESCRIPTION
 
 ### Standard Pillar Unit
@@ -213,6 +274,28 @@ holding unless paired with static site support.
 
 ## OPERATING PROCEDURE
 
+### Numbered Operating Sequence
+
+Normal calibration, Level 4 Engineering or Containment.
+
+1. Confirm site baseline before touching any control.
+2. Verify floor map agreement.
+3. Verify field pulse.
+4. Check crystal stress.
+5. Confirm geometry lock.
+6. Verify local time sequence.
+7. Confirm ARM separation.
+8. Confirm containment-door identity.
+9. Calibrate to the local threat rather than to maximum.
+10. Log the resulting RSA state.
+
+Step-down: the field must be stepped down before a grid-accepted tripod unit is moved.
+Emergency: RSA-WHITE hard
+anchor locks the field for breach response, and Command approval is required before it
+is paired with unreviewed
+amnestic dispersal, narrative static, or ARM reset.
+
+
 ### Authorized Use
 
 Only Level 4 Engineering or Containment personnel may perform normal RSA calibration. Level 3
@@ -266,6 +349,34 @@ reset unless Command approves
 the combined effect.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| TRIGGER | ACTION | AUTHORITY |
+|---|---|---|
+| RSA-YELLOW drift detected | calibration review | Level 4 Engineering or Containment |
+| Core access or synchronization-table adjustment | full procedure | Level 5 |
+| Crystal replacement | full procedure | Level 5 |
+| Field inversion or emergency hard reset | full procedure | Level 5 |
+| Operation inside active spatial apertures | full procedure | Level 5 |
+| Status reading and alarm reporting | routine | Level 3, locally certified |
+
+No calendar interval is recorded. Calibration is event-triggered by drift state; interval NOT MEASURED.
+No consumable
+is recorded. Crystal replacement is a Level 5 procedure, not a scheduled part change.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Drift detected while instruments still agree | RSA-YELLOW | calibration review at Level 4 |
+| Instruments, chamber dimensions, or time sequence disagree locally | RSA-AMBER | restrict trust in local readings; review; do not assume an instrument fault |
+| Camera timestamps repeating at fixed intervals | RSA-AMBER drift misread as an instrument fault | treat as drift; the Redwood Veil F-2 case began exactly this way |
+| Active reality-fracture pressure | RSA-RED | restrict movement and notify Containment |
+| Observer logs record different door counts | core overload or stress bloom | escalate to Engineering; this is the 1965 prototype signature |
+| Anchor integrity unknown | RSA-BLACK | treat as a site movement hazard; do not trust map, log order, or door<br>identity |
+| Hazardous state pinned in place | over-anchoring | reduce stabilization; review whether controlled drift was required |
+
 
 ## KNOWN LIMITS
 
@@ -444,6 +555,12 @@ System.
 
 ---
 
+- No unit mass, power draw, field radius, or grid spacing standard has ever
+  been recorded for the standard pillar.
+- No environmental envelope - temperature, humidity, altitude, power tolerance - is on file.
+- No calibration interval exists; calibration is purely drift-triggered, and nobody has assessed whether
+  that is
+  sufficient.
 ## FILE METADATA
 
 ```text

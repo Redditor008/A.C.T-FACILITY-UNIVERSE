@@ -145,6 +145,66 @@ deliveries and routes through ARM-treated access points.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Node-level detail below is the identification-training set from the Visual Reference Guide. The aperture
+material,
+field weighting, civilian-perception tables, and lattice handshake remain Level 5 and are not restated
+here.
+
+| PARAMETER | VALUE |
+|---|---|
+| Form factor | coin-sized flat copper node |
+| Mounting | embedded into walls, floors, or ceilings |
+| Active element | microscopic [BLANK] Aperture, pulses dull orange when active |
+| Interconnect | sub-surface data lattice |
+| Monitoring | ruggedized tablet; field visualized as a glowing green geometric web |
+| Failure indication | grid point turns high-contrast red with an acoustic alert |
+| Power | local power taps with isolated backup cells |
+| Data tables | cover-story weighting table; public-camera interpretation table |
+| Node count per site | NOT MEASURED |
+| Node spacing standard | NOT MEASURED |
+| Node power draw | NOT MEASURED |
+| Aperture material | Level 5 restricted |
+| Field weighting | Level 5 restricted |
+| Lattice handshake | Level 5 restricted |
+
+ARM has no single emitter and therefore no single output figure. Its performance is
+a property of node density and
+cover weighting together, and neither is published.
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Controls
+
+- ruggedized ARM field tablet
+- green web field-visualization interface
+
+### Readouts
+
+- node-failure red alert display
+- acoustic maintenance warning tone
+- ARM-GREEN through ARM-BLACK working states
+
+### Envelope And Personnel Limits
+
+- Do not remove a copper node because it looks decorative.
+- Do not paint over node clusters with conductive or reflective coatings without Engineering
+  approval.
+- Do not place public signage that contradicts ARM cover weighting.
+- Calibrate to the cover, not to the operator's fear level; over-masking creates absence
+  and absence attracts
+  attention.
+- Weakest against observers already primed to look for A.C.T infrastructure.
+- Weakest against repeated civilian contact with the same contradiction.
+- Weakest against hostile GOIs using nonstandard attention, ritual sight, or anomaly-assisted mapping.
+- Weakest against social-media swarm behavior that makes boredom statistically unstable.
+
+ARM must never suppress evacuation signals, medical alarms, fire alarms, or containment warnings. That
+restriction
+outranks every concealment objective.
+
+
 ## PHYSICAL AND SYSTEM DESCRIPTION
 
 ### Mesh Nodes
@@ -210,6 +270,27 @@ site support.
 
 ## OPERATING PROCEDURE
 
+### Numbered Operating Sequence
+
+Standard operation, Level 4 Engineering or Civil Covert.
+
+1. Confirm the cover story before energizing or recalibrating.
+2. Verify site identity.
+3. Verify expected civilian traffic.
+4. Verify node continuity.
+5. Verify public camera behavior.
+6. Verify access-route discipline.
+7. Verify signage compatibility.
+8. Review delivery logs.
+9. Confirm RSA separation.
+10. Calibrate to the cover and log the resulting ARM state.
+
+Emergency: ARM-WHITE emergency dulling is authorized during breach or evacuation. It must not be
+used to hide a breach
+from internal staff, and it must never suppress an evacuation, medical, fire, or containment
+alarm.
+
+
 ### Authorized Use
 
 Only Level 4 Engineering or Civil Covert personnel may calibrate an ARM field. Level
@@ -259,6 +340,34 @@ ARM overlap for convenience. Do
 not let ARM suppress evacuation signals, medical alarms, fire alarms, or containment warnings.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| TRIGGER | ACTION | AUTHORITY |
+|---|---|---|
+| Grid point red with acoustic tone | node failure investigation | Level 4 Engineering or Civil Covert |
+| Aperture-node replacement | full procedure | Level 5 |
+| Site-wide reset | full procedure | Level 5 |
+| Civilian-perception table editing | full procedure | Level 5 |
+| Emergency dulling across public agencies | full procedure | Level 5 |
+| ARM/RSA interlock change | full procedure | Level 5 |
+| Node alert reporting, cover maintenance, access-route discipline | routine | Level 3, locally certified |
+
+Maintenance is alert-driven rather than scheduled; no inspection interval is recorded. Backup cell life
+and node
+service life are both NOT MEASURED.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Inspection, rumor, or camera pattern forming | ARM-YELLOW attention drift | local inspection |
+| Delivery, map, staff, or public record mismatch | ARM-AMBER cover contradiction | Civil Covert review; the Redwood Veil case began as a courier database update |
+| Active public attention | ARM-RED | Civil Covert and Site Command attach immediately |
+| Grid point red with acoustic alert | node failure | investigate; Level 5 for aperture replacement |
+| Observers describe a blank place or notice the absence of noticing | over-masking / attention inversion | Siena Estate corrective: preserve ordinary impressions rather than suppress impression entirely |
+| Mesh unreliable | ARM-BLACK | do not trust civilian disinterest or access concealment; treat staff as exposed |
+
 
 ## KNOWN LIMITS
 
@@ -424,6 +533,11 @@ Reality Mesh System.
 
 ---
 
+- Node count, spacing standard, and per-node power draw have never been recorded for
+  any site.
+- Backup cell and node service life are unknown, so no replacement interval can
+  be set.
+- No measured relationship exists between node density and masking effectiveness.
 ## FILE METADATA
 
 ```text

@@ -138,6 +138,67 @@ confirmed to match full QNB behavior.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Canister material, etching method, and drift equations remain Level 5 and are deliberately not
+restated. Capacity and
+power figures have never been recorded.
+
+| PARAMETER | VALUE |
+|---|---|
+| Form factor | rack-mounted server hub |
+| Storage medium | pressurized crystal canisters in place of conventional drives |
+| Write method | [REDACTED]-Etching Laser, sub-atomic level |
+| Reset path | manual override cranks for physical data-stream reset |
+| Display | wide front monitor, scrolling hex-code and Narrative Drift percentages |
+| Frame | rack isolation frame |
+| Timing | archive sequence clock |
+| Integrity | causal checksum board |
+| Restoration | sealed restoration bus |
+| Identity | document identity register |
+| Ingest | read-only quarantine slot; witness-media ingest port; paper-to-buffer transcription cradle |
+| Uplink | hardline link to Central Archive validation |
+| Dead-power path | emergency dead-power crank path |
+| Canister material | Level 5 restricted |
+| Etching method | Level 5 restricted |
+| Drift equations | Level 5 restricted |
+| Canister capacity | NOT MEASURED |
+| Rack power draw | NOT MEASURED |
+
+The architecture is deliberately physical. Manual cranks and sealed canisters exist because purely digital
+restoration
+failed in early trials, when the digital environment accepted the rewritten past before staff
+could detect it.
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Controls
+
+- manual override cranks for physical data-stream reset during a causal-wipe event
+- emergency dead-power crank path
+- read-only quarantine slot
+- witness-media ingest port
+- paper-to-buffer transcription cradle
+
+### Readouts
+
+- wide front monitor showing scrolling hex-code and Narrative Drift percentages
+- QNB-GREEN through QNB-BLACK working states
+- document identity register entries
+
+### Envelope And Personnel Limits
+
+- Do not read a hazardous document aloud during buffer ingest.
+- Do not overwrite a QNB-preserved contradiction because the current file looks cleaner.
+- Do not restore to an earlier version without checking whether it contained hostile
+  content.
+- Field buffers are weaker than rack hardening and must be reconciled after recovery.
+- Do not assume a record is true because it survived.
+
+QNB is not a substitute for witness care, amnestic review, or anomaly containment, and
+must not be used as one.
+
+
 ## PHYSICAL AND SYSTEM DESCRIPTION
 
 ### Standard Rack Unit
@@ -197,6 +258,27 @@ than rack hardening and must be reconciled after recovery.
 
 ## OPERATING PROCEDURE
 
+### Numbered Operating Sequence
+
+Accession, Level 4 Archive or Engineering.
+
+1. Verify document identity.
+2. Verify custody chain.
+3. Verify version count.
+4. Verify reader restrictions.
+5. Verify active hazard tags.
+6. Record the drift baseline.
+7. Verify division authority.
+8. Etch into the assigned canister sequence.
+9. Confirm content and metadata are logged separately, so a content change and a
+   custody change register as different
+   failures.
+
+Manual crank reset during an active causal wipe is Level 5. Accepting a QNB-preserved
+version over current public
+reality is also Level 5.
+
+
 ### Authorized Use
 
 Level 4 Archive or Engineering personnel may buffer standard restricted records, ingest evidence, read
@@ -248,6 +330,34 @@ amnestic review, or anomaly
 containment. Do not assume a record is true because it survived.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| TRIGGER | ACTION | AUTHORITY |
+|---|---|---|
+| Drift outside ordinary edit history | QNB-YELLOW review | Level 4 Archive or Engineering |
+| Canister review | requested at drift | Level 4 |
+| Canister replacement | full procedure | Level 5 |
+| Restoration override | full procedure | Level 5 |
+| Manual crank reset during an active causal wipe | full procedure | Level 5 |
+| Recovered document offered for downgrade | compare against QNB title memory first | Level 4 Archive |
+
+No inspection or replacement interval is recorded. The one standing rule that does exist
+came out of a failure:
+recovered documents must be compared against QNB title memory before any downgrade.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Metadata, checksum, or memory report disagrees | QNB-YELLOW minor contradiction | review before any edit |
+| Current and buffered record diverge | QNB-AMBER active narrative drift | freeze routine edits; Archive review |
+| Hostile or hazardous rewrite pressure | QNB-RED | freeze edits and notify Archive Command |
+| File clean in ordinary storage but drifts when etched | recovered document carrying prior titles | quarantine; compare against QNB title memory before downgrade |
+| Restoration review active | QNB-WHITE | preserved version may supersede current; Level 5 acceptance |
+| Buffer integrity unknown | QNB-BLACK | dual review of both files; the preservation system may itself be part of the<br>contradiction |
+| Field headset buffering lags | field variant limitation | reconcile against rack hardening after recovery |
+
 
 ## KNOWN LIMITS
 
@@ -414,6 +524,10 @@ Narrative Buffer System.
 
 ---
 
+- Canister capacity and rack power draw have never been recorded.
+- No canister service life or replacement interval exists, despite canisters being a consumable
+  in practice.
+- No measured drift threshold separates ordinary edit history from QNB-YELLOW.
 ## FILE METADATA
 
 ```text
