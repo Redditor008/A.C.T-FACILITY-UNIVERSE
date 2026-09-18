@@ -3958,3 +3958,42 @@ rc=0.
 TECH-ACT-056 to TECH-ACT-137.
 
 **Next action.** Resume at TECH-ACT-056 through TECH-ACT-060.
+
+## Prompt Log — 2026-09-18 19:26 UTC
+
+**Records 056 to 065.** Each gained a TECHNICAL SPECIFICATION table, an INTERFACE AND OPERATING
+ENVELOPE chapter, a numbered operating sequence with step-down and emergency lines, a SERVICING AND
+CALIBRATION schedule, a FAULT ISOLATION table, and three new OPEN QUESTIONS, in both twins.
+
+**This block is installed infrastructure rather than hand-held equipment, and it is written that
+way.** Memetic Filtering Infrastructure binds reader, document, filter setting, and exposure limit
+into one recorded event. Intake Screening Suites are defined by their dual routing architecture. The
+F-1 Closure System is a sequence of locks rather than one door, is drilled because hesitation is a
+failure mode, and carries a human cost by design. Document Quarantine Cells treat reading as an
+access event and copying as a possible reproduction event. The Suspended Vault Mounting System
+carries a lowering denial lock because lowering is a decision rather than a reflex.
+
+**Per-record tailoring.** AIIS keeps the clinical decision with the Chief Medical Officer while
+Security enforces access only. QHAS checks identity and access state separately after a mismatch
+case. MCTS restricts the note terminal because careless description becomes transmission.
+Water-Capable Chambers pair with phase glass and sonar when the resident file demands it. PRETS
+preserves a pressure history across transfer rather than merely resisting pressure.
+
+**Word counts, measured from the records after the run.** 056 1366 to 2079, 057 1384 to 2068, 058
+1314 to 2046, 059 1295 to 1997, 060 1327 to 2000, 061 1338 to 2035, 062 1356 to 2055, 063 1356 to
+2043, 064 1391 to 2084, 065 1391 to 2093. Every record now carries 14 H2 chapters and 7 pipe tables.
+
+**The interface guard caught three defects this batch.** Records 057, 061, and 064 each had a stub
+entry left in the interface list where a titled readout group should have been. The assertion added
+last batch failed all three on the dry run, before any document was touched, and the groups were
+written out properly. That is the guard doing exactly the job it was added for.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, UTF8_ERR 0, CONFLICT 0,
+multiH1 0, odd-fence 0, md-with-box 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204, GOI_MD 34 =
+GOI_TXT 34, widest box line 118, date-rule violations 0, twin date mismatches 0, git diff --check
+rc=0.
+
+**Remaining ACT technology queue.** 72 TECH-ACT records still carry the old skeleton, running from
+TECH-ACT-066 to TECH-ACT-137.
+
+**Next action.** Resume at TECH-ACT-066 through TECH-ACT-070.

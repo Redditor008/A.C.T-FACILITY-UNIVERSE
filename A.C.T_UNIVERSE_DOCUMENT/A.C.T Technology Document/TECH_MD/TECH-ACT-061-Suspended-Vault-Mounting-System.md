@@ -92,6 +92,34 @@ assumed.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and inspection doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| MOUNT PARAMETER | VALUE |
+|---|---|
+| Structure | dedicated resident vault shaft |
+| Upper | upper anchor frame |
+| Lower | lower tension frame |
+| Isolation | dampened mounting cluster and vibration isolation pad |
+| Witness | structural witness line |
+| Sensing | shaft pressure sensor and vibration history |
+| Service | service-flex route |
+| Access | floor-side inspection gallery port |
+| Safety | emergency lowering denial lock |
+| Design basis | resident restriction set, expected movement, load, closure behaviour |
+| Purpose | isolate the vault from seismic, building, floor, and neighbour transmission |
+| Mount load rating | NOT MEASURED |
+| Damper travel | NOT MEASURED |
+| Shaft depth | NOT MEASURED |
+
+The system does not make a resident safe; it prevents the building from helping
+the resident by accident.
+The lowering denial lock exists because not every crisis is solved by putting the
+vault down.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard SVMS installation includes a dedicated vault shaft, upper anchor frame, lower tension
@@ -119,7 +147,53 @@ the vault on the floor.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Mount Controls
+
+- upper anchor frame adjustment
+- lower tension frame adjustment
+- dampened mounting cluster
+- emergency lowering denial lock
+
+### Shaft And Mount Readouts
+
+- structural witness line position
+- shaft pressure sensor reading
+- vibration history against the resident file
+- service-flex tension
+
+### Inspection And Personnel Limits
+
+- Do not approach, view, or name the vault beyond its restriction set.
+- Do not lower the vault as a reflex.
+- Do not work alone unless the resident file allows it.
+- Do not read suspension as stability.
+- Weakest against residents acting through observation, language, or memory.
+- Weakest where a service line or access path bypasses the mount.
+
+Mount load, damper travel, and shaft depth are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Vault inspection, Level 4 with Containment and Engineering.
+
+1. Confirm the resident restriction set.
+2. Confirm whether the vault may be approached, viewed, or named.
+3. Confirm whether it may be mechanically disturbed.
+4. Check mount load, damper condition, and shaft movement.
+5. Check service-flex tension and vibration history.
+6. Control gallery access through Security.
+7. Prepare cognitive support where the resident is memetic.
+8. Work in pairs unless the resident file says otherwise.
+
+Step-down: the gallery port is closed and the vibration history is filed against the
+shaft. Emergency: a
+witness line showing movement stops work and the lowering denial lock stays set, because
+lowering is a
+decision rather than a reflex.
 
 Before inspection, Containment confirms the resident's restriction set and whether the vault may be
 approached,
@@ -139,6 +213,34 @@ entered into
 the F-1 archive record.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Inspection | Level 4 procedure | Level 4 |
+| Mount replacement | Level 5 procedure | Level 5 |
+| Vault lowering | Level 5 procedure | Level 5 |
+| Resident transfer | Level 5 procedure | Level 5 |
+| Shaft redesign | Level 5 procedure | Level 5 |
+| Witness line displacement | halt and re-survey | Engineering Division |
+
+No calendar interval is recorded; the mount is inspected against vibration history rather than
+a calendar,
+so interval NOT MEASURED. Damper pads are the wear item. The elevation retrofit period
+is why suspension is
+treated as the floor's defining architecture rather than a later addition.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Witness line displaced | shaft or floor movement | halt and re-survey |
+| Vibration history rising | building or plant transmission | trace the source |
+| Service-flex tension drifting | route stress | re-tension under Level 5 |
+| Lowering proposed in a crisis | reflex rather than decision | denial lock holds |
+| Suspension read as stability | doctrine error | rebrief the team |
+| Shaft pressure sensor silent | sensor fault | do not work blind |
 
 ## KNOWN LIMITS
 
@@ -212,6 +314,11 @@ it holds.
 - Does suspension reduce psychic pressure or only structural transmission?
 - Can service-flex routes become hidden bridges between vault and floor?
 - Should SVMS inspection teams rotate faster than ordinary F-1 personnel?
+
+- What load rating does a mounting cluster carry, and what is the damper
+  travel?
+- How deep are the vault shafts, and what limits that depth?
+- Which resident files permit mechanical disturbance during inspection?
 
 ---
 

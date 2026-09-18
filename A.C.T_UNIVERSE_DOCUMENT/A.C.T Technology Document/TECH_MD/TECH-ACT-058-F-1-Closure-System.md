@@ -89,6 +89,36 @@ one action: separate the terminal floor from everything above it.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and closure doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| CLOSURE PARAMETER | VALUE |
+|---|---|
+| Nature | a sequence of locks, not a single sealed door |
+| Severance | access-core severance gate on the core from F-2 |
+| Interlock | resident-specific authorization interlock |
+| Services | service-ring isolation valves |
+| Power | independent emergency plant carrying the full floor load |
+| Air | compartmented air handling shutters |
+| Command | hardened command link |
+| Status | closure status board with route diagrams |
+| Sensing | vault-gallery pressure sensors |
+| Return | reentry authorization lock |
+| Records | post-closure evidence ledger |
+| Authority | Level 4 drill; Level 5 or Site Director seal for live closure |
+| Closure time | NOT MEASURED |
+| Emergency plant endurance | NOT MEASURED |
+| Personnel capacity held | NOT MEASURED |
+
+The system does not defeat the resident; it denies the resident the site. It
+carries a human cost by design
+because it may trap personnel inside with the event that caused the closure, and
+hesitation is treated as a
+failure mode.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 F1-CS is not a single sealed door. It is a sequence of mechanical, electrical,
@@ -116,7 +146,55 @@ The system is drilled because hesitation is treated as a failure mode.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Closure Controls
+
+- access-core severance gate
+- resident-specific authorization interlock
+- service-ring isolation valves
+- compartmented air handling shutters
+- reentry authorization lock
+
+### Floor And Command Readouts
+
+- closure status board
+- route diagrams for service isolation points
+- vault-gallery pressure sensors
+- hardened command link state
+- post-closure evidence ledger entry
+
+### Closure And Personnel Limits
+
+- Do not activate casually.
+- Do not delay when doctrine requires activation.
+- Do not debate whether a service route counts as outside access during a
+  drill.
+- Do not re-enter without the authorization lock releasing.
+- Weakest against a resident already past the severance line.
+- Weakest where the personnel count inside was not confirmed.
+
+Closure time, plant endurance, and capacity are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Floor closure, Level 4 drill authority with Level 5 or Site Director live seal.
+
+1. Confirm the trigger condition.
+2. Confirm resident restriction sets.
+3. Confirm the personnel count on the floor.
+4. Confirm emergency plant readiness.
+5. Confirm medical risk and F-2 supporting isolation.
+6. Clear the access core if time allows.
+7. Cut the core, isolate services, enter self-containment.
+8. Open the closure event record and keep the ledger.
+
+Step-down: the floor holds under the emergency plant until the reentry authorization lock releases.
+Emergency: closure is immediate when doctrine requires it, and the hesitation recorded in a
+drill is why
+service isolation points were relabelled and route diagrams were added to the board.
 
 Before closure, command confirms the trigger condition, resident restriction sets, personnel count, emergency plant
 readiness, medical risk, and whether F-2 must take supporting isolation action. Security clears the
@@ -136,6 +214,34 @@ floor are medically and
 cognitively fit for extraction or debrief.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Closure drill | Level 4 procedure | Level 4 |
+| Live closure activation | Level 5 or Site Director seal | Level 5 |
+| Service isolation point review | labelling and diagram check | Engineering Division |
+| Emergency plant readiness | load test before drill | Engineering Division |
+| Reentry authorization | lock release procedure | Deep-Hold Command |
+| Post-closure review | evidence ledger reconciliation | Containment Division |
+
+No calendar interval is recorded; the system is drilled rather than serviced on a
+schedule, so interval NOT
+MEASURED. There is no consumable. The reentry overcheck review is why personnel are held
+against the
+authorization lock rather than against elapsed time.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Delay while teams debate a route | unclear service isolation labels | relabel; drill review |
+| Personnel re-entering early | reentry overcheck | hold to the lock; review |
+| Pressure sensor disagreement | gallery sensing fault | verify before reentry |
+| Command link degraded | hardened link fault | use procedural fallback |
+| Plant load below expectation | readiness overstated | load test before drill |
+| Personnel count unconfirmed | trigger reached too fast | close anyway; log the gap |
 
 ## KNOWN LIMITS
 
@@ -204,6 +310,10 @@ Standing reminder: F-1 closes so the rest of the site remains a site.
 - Should F-2 maintain automatic secondary closure when F-1 seals?
 - What medical threshold justifies delaying closure for personnel extraction?
 - Can closure doctrine be adapted safely for smaller sub-sites without copying F-1 assumptions?
+
+- How long does full closure take from trigger to severance?
+- How long can the emergency plant carry the floor's containment and environmental load?
+- How many personnel can the floor hold safely during a live closure?
 
 ---
 

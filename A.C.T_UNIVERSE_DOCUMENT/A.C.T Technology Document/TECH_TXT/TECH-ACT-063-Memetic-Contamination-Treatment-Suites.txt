@@ -93,6 +93,49 @@ MCTS therefore carries two duties at once. It must reduce harm to the patient,
 and it must keep the patient's injury
 from becoming the next breach.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and treatment doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| SUITE PARAMETER            | VALUE                                                                                 |
++============================+=======================================================================================+
+| Bay                        | low-stimulus treatment bay                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Surfaces                   | symbol-free wall and floor surface                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Light                      | controlled lighting array                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Acoustic                   | acoustic moderation field                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Notes                      | filtered clinical note terminal                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Alarm                      | phrase repetition alarm                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monitoring                 | patient cognitive-status monitor                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Interview                  | exposure-limited interview guide                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Disposal                   | sealed waste and note disposal path                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Duty                       | post-treatment duty review file                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Default                    | minimal-stimulus setting when the contaminant is unknown                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Treatment course length    | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Stimulus floor             | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Recovery success measure   | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The note terminal is restricted because careless description can become transmission. The suite exists
+so
+clinicians can observe, question, stabilise, and document without repeating the harmful stimulus or
+spreading it through staff, records, or equipment.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard MCTS room includes a low-stimulus treatment bay, controlled lighting, acoustic moderation, symbol-free
@@ -107,7 +150,55 @@ exposure-limited interview guide; sealed waste and note disposal path; and post-
 
 The note terminal is restricted because careless description can become transmission.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Suite Controls
+
+- controlled lighting array
+- acoustic moderation field
+- minimal-stimulus default
+- sealed waste and note disposal path
+
+Clinical Readouts
+
+- patient cognitive-status monitor
+- phrase repetition alarm
+- filtered note terminal entries
+- exposure-limited interview guide progress
+
+Treatment And Personnel Limits
+
+- Do not ask the patient to reproduce the hazardous content.
+- Do not describe a repeated phrase in detail in general circulation.
+- Do not read symptom underreporting as recovery.
+- Do not treat the suite as the only option: route to AIIS or
+  ward care where correct.
+- Weakest against dormant effects returning under stress.
+- Weakest against effects that attach to ordinary words after treatment.
+
+Course length, stimulus floor, and success measure are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+Memetic treatment, Medical authorization with Cognitive Care.
+
+1. Receive the exposure report.
+2. Decide between MCTS, AIIS, ward care, or containment escalation.
+3. Identify known trigger words, images, gestures, sounds, or memories.
+4. Set minimal-stimulus default when the contaminant is unknown.
+5. Monitor speech, memory continuity, and emotional state.
+6. Watch for compulsive repetition.
+7. Enter notes through the filtered terminal only.
+8. Open the post-treatment duty review file.
+
+Step-down: the bay returns to minimal stimulus, waste and notes leave through the sealed
+path, and duty
+review follows treatment rather than replacing it. Emergency: a phrase repetition alarm pauses the
+interview
+and the guide is reset, because repeating the stimulus is how treatment becomes transmission.
 
 Before treatment, Medical receives an exposure report and determines whether the case belongs in
 MCTS, AIIS, ordinary
@@ -128,6 +219,52 @@ medically justified.
 After treatment, the patient receives a duty recommendation, follow-up schedule, and exposure warning. Clinical
 notes
 are filtered for safe circulation and preserved under confidentiality doctrine.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Routine treatment          | Level 3 procedure                         | Level 3                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Hostile memetic exposure   | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Containment-linked         | Level 4 review                            | Level 4                                   |
+| cognitive effect           |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Before each admission      | surface, light, and alarm check           | Cognitive Care                            |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Note transmission concern  | filtered entry review                     | Medical Division                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Duty return                | post-treatment review                     | Chief Medical Officer                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; the bay is reset per admission, so interval NOT
+MEASURED. Disposal stock
+is the consumable. The note transmission review is why clinical detail is separated from
+wider medical
+circulation.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Detailed phrase description| unfiltered clinical note                  | filter entry; review                      |
+| circulated                 |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Patient repeating a phrase | stimulus re-exposure                      | pause; reset the guide                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Symptom underreporting     | fear of duty removal or stigma            | ask differently                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Effect returning under     | dormant exposure                          | reopen the review file                    |
+| stress                     |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Effect attached to an      | post-treatment attachment                 | re-treat and log                          |
+| ordinary word              |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Symbol visible on a surface| surface contamination                     | seal the bay                              |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -196,6 +333,10 @@ does cognitive treatment require containment escalation? Can repeated low-level 
 functional but no longer think independently? Should duty-return decisions be reviewed by Medical alone
 or jointly
 with Containment?
+- What is the approved treatment course length, and what ends a course?
+- What stimulus floor does the bay hold at its minimal setting?
+- How is recovery measured when the effect can stay dormant?
+
 
 FILE METADATA
 

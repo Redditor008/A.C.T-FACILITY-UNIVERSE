@@ -98,6 +98,52 @@ taken after uncontrolled decompression may describe staff-caused damage rather t
 The Death Angler's modern holding environment, with pressure-rated deep holding and structural-vibration audits,
 remains a reference case for high-threat pressure management.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and transfer doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| SYSTEM PARAMETER           | VALUE                                                                                 |
++============================+=======================================================================================+
+| Lock                       | pressure-rated transfer lock                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Control                    | depth-state controller                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Equalization               | controlled equalization valve set                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Medium                     | water medium exchange manifold                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Structure                  | structural strain sensors                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Acoustic                   | acoustic stress monitors                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Ports                      | sample and feeding port isolation sleeves                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Reserve                    | emergency compression reserve                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Records                    | pressure-history recorder                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Authority                  | interlock keyed to the resident file                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Interfaces                 | transport vessels, submersibles, F-3 chambers, limited research bays                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Curves                     | resident-specific decompression curves                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Rated pressure range       | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Equalization rate          | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Transfer time              | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The system does not simply resist external pressure; it preserves a pressure history across
+transfer. A
+deep-sea resident can be captured at depth, moved through a submersible cradle, received through
+a port
+interface, and placed into holding without losing that history.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 A PRETS installation may include reinforced transfer locks, pressure equalization columns, water-compatible seals,
@@ -122,7 +168,55 @@ The pressure-history recorder is treated as part of the containment record. If p
 cannot be proven,
 the resident is considered behaviorally unverified until reviewed.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Transfer Controls
+
+- pressure-rated transfer lock
+- depth-state controller
+- controlled equalization valve set
+- water medium exchange manifold
+- emergency compression reserve
+
+Transfer Readouts
+
+- pressure-history recorder
+- structural strain sensors
+- acoustic stress monitors
+- interlock state against the resident file
+
+Transfer And Personnel Limits
+
+- Do not change pressure faster than the resident's curve allows.
+- Do not transfer without a recorded capture depth.
+- Do not assume a surface facility reproduces the deep ocean.
+- Do not treat pressure stability as behavioural stability.
+- Weakest against residents that use pressure change deliberately.
+- Weakest where darkness, minerals, or ecology are part of the anomaly.
+
+Rated range, equalization rate, and transfer time are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+Pressure transition, Containment with Maritime-Hold Command.
+
+1. Submit capture depth and pressure stability.
+2. Record transport vessel limits and source-water state.
+3. Record observed injury and any reaction during ascent.
+4. Assign the target chamber.
+5. Verify lock integrity and equalization valves.
+6. Confirm the resident can tolerate the proposed transition.
+7. Declare whether pressure variation is part of the anomaly's behaviour.
+8. Record the pressure history across the whole transfer.
+
+Step-down: the history recorder is filed with the resident file and the interlock returns
+to its keyed
+state. Emergency: the compression reserve holds the volume while the equalization set is closed,
+and a
+resident that reacts to the change is treated as acting, not merely stressed.
 
 Before transfer, Recovery submits capture depth, pressure stability, transport vessel limits, source-water state,
 observed injury, and any resident reaction during ascent. Containment assigns the target chamber. Engineering
@@ -142,6 +236,53 @@ between source lock, transfer lock, and destination chamber is confirmed by two 
 Emergency override can freeze a transfer at its current pressure state. Full venting is
 forbidden unless the resident
 file states that pressure release is safer than continuation.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Before each transfer       | lock and valve verification               | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Route override             | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Resident-specific curve    | curve review before transfer              | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Strain sensor alarm        | halt and inspect the lock                 | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Acoustic stress detected   | slow or reverse the transition            | Maritime-Hold Command                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| History recorder gap       | reconstruct before admission              | Containment Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; the system is verified per transfer, so interval NOT
+MEASURED. Seals and
+isolation sleeves are the wear items. The formation review is why deep-origin material no
+longer moves
+through ordinary wet rooms.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Resident harmed on ascent  | curve exceeded                            | slow the transition                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Strain reading rising in   | structural load                           | halt and inspect                          |
+| the lock                   |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Acoustic stress during     | pressure shock                            | reverse and hold                          |
+| equalization               |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| History recorder showing a | recorder fault                            | reconstruct before admission              |
+| gap                        |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Interlock refusing the     | keyed mismatch                            | verify the file                           |
+| resident file              |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Resident reacting to the   | pressure used deliberately                | containment review                        |
+| change                     |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -214,6 +355,11 @@ OPEN QUESTIONS
 - Are some Sonar Void events pressure phenomena rather than acoustic absence?
 - Can long-term artificial pressure produce adaptation different from source-depth adaptation?
 - Should port vessels maintain PRETS-compatible pressure state even before anomaly classification is complete?
+- What pressure range is the transfer lock rated for, and how was it
+  tested?
+- What equalization rate do the standard decompression curves allow?
+- How long does a full deep-to-holding transfer take, including verification?
+
 
 FILE METADATA
 

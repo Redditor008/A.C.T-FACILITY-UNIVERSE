@@ -93,6 +93,35 @@ immediately injure the next mind that touches it.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and reading doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| CELL PARAMETER | VALUE |
+|---|---|
+| Environment | controlled-reading cell or redaction workroom |
+| Display | isolated display surfaces with filtered lighting |
+| Filter | memetic filter projector or screen layer |
+| Reveal | timed page-reveal shutter |
+| Contrast | symbol contrast limiter |
+| Acoustic | acoustic muting field and dampening |
+| Reader | reader biometric and exposure monitoring |
+| Escalation | cognitive-care alarm line |
+| Custody | document cradle lock |
+| Output | filtered copy output tray |
+| Authority | release authorization terminal |
+| Exit | seals preventing unfinished exposure leaving the cell |
+| Exposure limit scale | NOT MEASURED |
+| Filter suppression depth | NOT MEASURED |
+| Session duration cap | NOT MEASURED |
+
+The most important component is the protocol binding reader, document, filter setting, and exposure
+limit
+into one recorded event. Research and Intelligence may add questions but do not control
+the filter settings.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 MFI is installed into controlled-reading cells and redaction workrooms. A standard cell includes isolated
@@ -121,7 +150,53 @@ recorded event.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Cell Controls
+
+- timed page-reveal shutter
+- symbol contrast limiter
+- document cradle lock
+- release authorization terminal
+
+### Reader And Session Readouts
+
+- reader exposure monitor
+- biometric trace during reading
+- cognitive-care alarm line
+- session record binding reader, document, and filter setting
+
+### Reading And Personnel Limits
+
+- Do not release a filtered copy without its exposure-limit note.
+- Do not read beyond the segment the protocol reveals.
+- Do not carry an unfinished exposure into the corridor.
+- Do not let a requester set the filter.
+- Weakest against hazards that are structural, temporal, or identity-based.
+- Weakest against documents that treat filtering as attention.
+
+Exposure scale, suppression depth, and session cap are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Controlled reading, Redaction Chief or delegated authority.
+
+1. Define the reading purpose.
+2. Verify the source document and restriction marker.
+3. Confirm the intended output.
+4. Add research or intelligence questions without touching filter settings.
+5. Have Medical Cognitive Care check reader status.
+6. Set the exposure limit.
+7. Reveal the document in controlled segments.
+8. Bind reader, document, filter, and limit into one record.
+
+Step-down: the cradle lock is released, the filtered copy leaves through the output tray
+with its limit note
+attached, and the session record closes. Emergency: a cognitive-care alarm ends the session at
+the current
+segment and the reader leaves under care, not under questioning.
 
 Before reading, the Redaction Chief or delegated authority defines the reading purpose. Archive staff
 verify the
@@ -147,6 +222,34 @@ for general release
 until the release authorization chain is complete.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before each session | filter, shutter, and alarm line check | Level 3 Archive |
+| Document release | Level 4 procedure | Level 4 |
+| Filter setting change | Redaction Chief authority | Level 4 |
+| Negative-space or geometry review | page-geometry assessment | Level 4 |
+| Filtered copy issued | limit note and reread warning attached | Archiver Division |
+| Reader alarm raised | session halt and cognitive care | Medical Cognitive Care |
+
+No calendar interval is recorded; the cell is verified per session, so interval NOT
+MEASURED. Filtered
+copies are the consumable output. The 2018 leak is why filters assess negative space
+and page geometry
+rather than visible glyphs alone.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Repeated drawing behaviour after reading | spacing pattern survived the filter | assess geometry; 2018 |
+| Identical headaches in two readers | excerpt released without its limit note | attach limits; 2022 |
+| Reading beyond authorization | unauthorised session | halt and review; 2026 |
+| Alarm line silent during stress | line fault | do not begin reading |
+| Filter reducing contrast to nothing | over-suppression | re-set with the Chief |
+| Document reacting to the filter | hazard reads filtering as attention | close the cell |
 
 ## KNOWN LIMITS
 
@@ -225,6 +328,11 @@ A mask can slip.
 — Can hostile documents learn the filter settings from repeated sessions?
 — Is there a safe way to filter emotional meaning without destroying evidence?
 — Which documents should never be filtered because filtering itself counts as engagement?
+
+- How is an exposure limit calculated for a reader, and who may raise
+  it?
+- What suppression depth does the contrast limiter achieve on a hostile symbol?
+- What did the 2026 unauthorized reading event change about terminal authority?
 
 ---
 

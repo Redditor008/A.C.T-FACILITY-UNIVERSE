@@ -90,6 +90,52 @@ some documents under
 resident discipline. Their contents are accessed by restriction set, not by curiosity or ordinary
 clearance alone.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and custody doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| CELL PARAMETER             | VALUE                                                                                 |
++============================+=======================================================================================+
+| Chamber                    | isolated document chamber or sealed records cell                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Surface                    | QNB-hardened inner record surface                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Observation                | observation-denial shutter                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Handling                   | restricted handling port                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Support                    | document cradle lock and controlled shelf mounts                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Environment                | environmental regulator                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Status                     | quarantine status plate                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Access                     | access authorization reader                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Integrity                  | self-rewrite comparison ledger                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Retrieval                  | retrieval denial seal                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Gating                     | separate from restricted vaults and repository halls                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Records                    | each cell keeps its own quarantine documentation                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Environmental band         | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Comparison interval        | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cell capacity              | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+A quarantine cell is a small containment unit whose resident happens to be a
+document. It treats reading as
+an access event, copying as a possible reproduction event, and preservation as evidence rather
+than
+convenience.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard DQC is an isolated chamber or sealed records cell with controlled shelf
@@ -106,7 +152,55 @@ reader; self-rewrite comparison ledger; and retrieval denial seal.
 Cells are designed for documents that must not reach their readers until procedure allows
 it.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Cell Controls
+
+- observation-denial shutter
+- restricted handling port
+- document cradle lock
+- retrieval denial seal
+- access authorization reader
+
+Custody And Integrity Readouts
+
+- quarantine status plate
+- self-rewrite comparison ledger
+- environmental regulator state
+- access log against authorized readers
+
+Custody And Personnel Limits
+
+- Do not open a cell without Level 4 authority.
+- Do not compare a document so often that the comparison becomes the hazard.
+- Do not record its changes in more detail than the ledger requires.
+- Do not treat the container as inert because the document is quiet.
+- Weakest against documents acting through title, access log, or absence.
+- Weakest against staff anticipation.
+
+Environmental band, comparison interval, and capacity are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+Quarantine admission and custody, Level 3 support with Level 4 opening.
+
+1. Create the quarantine entry.
+2. Record origin, carrier, and suspected hazard.
+3. Record current format and known readers.
+4. Record required restrictions.
+5. Obtain material characterization where the document behaves actively.
+6. Add cognitive warnings where exposure has harmed personnel.
+7. Preserve chain of custody from Recovery.
+8. Seal the cell and start integrity monitoring.
+
+Step-down: the cell stays sealed under monitoring and the quarantine documentation is updated rather
+than
+replaced. Emergency: a comparison ledger showing self-rewrite escalates the cell to QNB-hardened review,
+because a file that retains identity while its access condition changes is a different
+problem.
 
 Before admission, Archive staff create a quarantine entry that records origin, carrier, suspected hazard,
 current
@@ -125,6 +219,56 @@ sealed procedure to an approved reading or redaction environment.
 Release from quarantine requires documented assessment that the file can safely enter another custody
 state. No
 document is released because it has been quiet for a long time.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Custody support            | Level 3 procedure                         | Level 3                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Cell opening or reading    | Level 4 procedure                         | Level 4                                   |
+| preparation                |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Relocation                 | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Quarantine release         | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Environmental drift        | regulator service                         | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Comparison ledger          | identity and access checked separately    | Archive Division                          |
+| discrepancy                |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; the cell is monitored continuously and opened on authority,
+so interval
+NOT MEASURED. There is no consumable. The hardening review is why quarantined files sit
+under the same QNB
+doctrine as the repository.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| File intact, no safe reader| identity held, access condition changed   | check both separately                     |
+| listed                     |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Document acting through its| hazard not in the text                    | reclassify the cell                       |
+| container                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Access log entry           | reader authorization fault                | seal and review                           |
+| unauthorised               |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Comparison showing         | active document                           | QNB review                                |
+| self-rewrite               |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Environmental drift in a   | regulator fault                           | service before opening                    |
+| sealed cell                |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Staff anticipating the     | anticipation as exposure                  | rotate the reader                         |
+| content                    |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -187,6 +331,10 @@ themselves? When
 does preservation become feeding behavior for a hostile record? Can QNB-hardening trap an unsafe
 version of a document
 too effectively? Which quarantined files are too dangerous to transfer even to controlled-reading cells?
+- What environmental band does a cell hold, and what happens outside it?
+- How often may a document be compared before the comparison becomes a hazard?
+- How many cells are separate from the restricted vaults, and who maps them?
+
 
 FILE METADATA
 

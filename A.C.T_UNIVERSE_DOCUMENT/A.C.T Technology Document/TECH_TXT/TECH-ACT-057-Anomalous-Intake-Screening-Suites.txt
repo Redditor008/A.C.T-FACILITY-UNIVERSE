@@ -94,6 +94,50 @@ under Archive custody.
 AISS exists because an archive without intake discipline is not an archive. It is
 a breach waiting for a label.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and triage doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| SUITE PARAMETER            | VALUE                                                                                 |
++============================+=======================================================================================+
+| Position                   | between reception and routing                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Entry                      | reception transfer hatch                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Record                     | intake logging terminal                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Surface                    | controlled screening table                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Support                    | document cradle                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Media                      | isolated media reader                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Viewing                    | low-exposure viewing panel                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Signal                     | triage status light                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Routing                    | cleared-material and anomalous-material route locks                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Custody                    | chain-of-custody printer                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Environment                | suite-by-suite regulation for suspect material                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| First-pass threshold       | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Screening throughput       | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Exposure panel rating      | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The dual routing architecture is part of the technology: one door sends cleared material
+upward or outward,
+the other sends anomalous material deeper. A screening suite is not a room full
+of desks, and screening is
+not interpretation.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 AISS installations sit between reception and routing. A standard suite includes controlled tables, document
@@ -111,7 +155,54 @@ The dual routing architecture is treated as part of the technology. One door sen
 cleared material upward or outward.
 The other sends anomalous material downward under controlled protocol.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Suite Controls
+
+- reception transfer hatch
+- cleared-material route lock
+- anomalous-material route lock
+- chain-of-custody printer
+
+Triage Readouts
+
+- triage status light
+- item record: origin, carrier, condition, container, suspicion
+- low-exposure viewing panel output
+- chain-of-custody print against the item mark
+
+Triage And Personnel Limits
+
+- Do not route before the item-specific mark is verified.
+- Do not read past the approved first-pass threshold.
+- Do not route an item on memory of its status light.
+- Do not treat screening as interpretation.
+- Weakest against hazards that activate only after prolonged reading.
+- Weakest against material that only reacts to a specific question.
+
+First-pass threshold, throughput, and panel rating are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+Intake triage, Level 2 support with Level 3 screening.
+
+1. Create or confirm the item record.
+2. Record origin, carrier, condition, and container.
+3. Record initial suspicion and known handling restrictions.
+4. Have Security verify the item is permitted into the suite.
+5. Flag seized or interdicted material with operational relevance.
+6. Examine under controlled conditions.
+7. Verify the item-specific mark before any dual-route decision.
+8. Route through one lock only and print custody.
+
+Step-down: the suite is cleared, the status light resets, and the custody print is
+filed with the item
+record. Emergency: a route lock that will not close holds the item in the
+suite under watch, which is the
+standing response to the 2026 delay.
 
 Before screening, intake staff create or confirm an item record. The record states origin,
 carrier, condition,
@@ -133,6 +224,50 @@ After screening, cleared material returns to legitimate processing. Suspect or c
 downward to F-5 for redaction and controlled reading, to active holding where monitoring is
 required, or to deeper
 confinement if ordinary document handling is unsafe. The item record follows every movement.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Routine intake support     | Level 2 procedure                         | Level 2                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Screening                  | Level 3 procedure                         | Level 3                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Anomalous-media triage     | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Route override             | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Route lock fault           | hold item and repair before routing       | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Custody printer jam        | reprint and re-verify item marks          | Archiver Division                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; the suite is checked per intake shift, so interval
+NOT MEASURED. Custody
+stock is the consumable. The 2019 duplicate slip is why item-specific mark verification precedes
+any
+dual-route decision.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Two envelopes on one slip  | printer jam, identical items              | verify marks; 2019                        |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Screener reading too deeply| screening treated as interpretation       | retrain; 2023                             |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Route lock slow to close   | lock mechanism fault                      | hold the item; 2026                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Hazard appearing after     | first-pass system limit                   | route to controlled reading               |
+| copying                    |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Item looks ordinary, record| trust the record                          | hold for Level 4                          |
+| disagrees                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Status light stuck         | signal fault                              | do not route on memory                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -199,6 +334,10 @@ Can ordinary archive
 pressure make screeners clear material too quickly during heavy intake days? What happens when
 an item insists on
 belonging to both streams at once?
+- What is the approved first-pass reading threshold, and how is it enforced?
+- What throughput does one suite hold before triage quality falls?
+- What did the 2026 route lock delay change about holding procedure?
+
 
 FILE METADATA
 

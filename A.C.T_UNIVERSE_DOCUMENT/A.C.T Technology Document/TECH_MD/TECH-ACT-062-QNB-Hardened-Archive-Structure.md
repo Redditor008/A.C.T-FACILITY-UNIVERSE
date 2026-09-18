@@ -94,6 +94,34 @@ system, not just as a shelf.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and continuity doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| STRUCTURE PARAMETER | VALUE |
+|---|---|
+| Surface | QNB-linked repository hall surface |
+| Accession | hardened accession log |
+| Retrieval | retrieval sequence register |
+| Authorization | access authorization continuity lock |
+| Quarantine | quarantine-cell comparison plate |
+| Position | document-position witness mark |
+| Checksum | causal checksum relay |
+| State | preservation state recorder |
+| Alert | contradiction alert terminal |
+| Restoration | restoration review seal |
+| Principle | a changed document must convince the room, not only the reader |
+| Hardening coverage | NOT MEASURED |
+| Checksum comparison rate | NOT MEASURED |
+| Record depth preserved | NOT MEASURED |
+
+A normal backup can preserve text while the room around it accepts the new
+history. The system preserves the
+continuity relationship between file, shelf, room, access log, retrieval record, and personnel
+authorization, and it does not prove an original was true.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A QHAS installation includes QNB-linked repository surfaces, hardened retrieval routes, access-core record locks,
@@ -120,7 +148,54 @@ not only the page.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Archive Controls
+
+- access authorization continuity lock
+- restoration review seal
+- document-position witness marks
+- hardened retrieval routes
+
+### Continuity Readouts
+
+- causal checksum relay output
+- preservation state recorder
+- contradiction alert terminal
+- quarantine-cell comparison plate
+- retrieval sequence register against the accession log
+
+### Archive And Personnel Limits
+
+- Do not overwrite comparison logs while checking them.
+- Do not harden low-risk public records to the same depth.
+- Do not read identity intact as access safe.
+- Do not interrupt continuity work without notifying Site Command.
+- Weakest where too much hardening blocks correction of an old mistake.
+- Weakest against forces that change the room rather than the file.
+
+Coverage, comparison rate, and record depth are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Continuity maintenance, Level 4 audit with Level 5 redesign.
+
+1. Verify active record state and retrieval schedule.
+2. Check quarantine status and any causal dispute.
+3. Verify power and QNB link integrity.
+4. Verify environmental recorders and structural witness marks.
+5. Check comparison logs without overwriting them.
+6. Notify Site Command before continuity-interrupting work.
+7. Record access, location, and state continuously.
+8. Reconcile any contradiction alert before closing.
+
+Step-down: the register and accession log are reconciled and the restoration seal is left
+set. Emergency: a
+contradiction alert holds the affected shelf under the review seal until Archive decides whether
+the file,
+the room, or the record is the thing that moved.
 
 Before maintenance, Archive verifies active record state, retrieval schedule, quarantine status, and whether any
 document is under causal dispute. Engineering verifies power, QNB link integrity, environmental recorders, and
@@ -140,6 +215,34 @@ QNB
 record identity, room state, and witness memory before declaring a version active.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Maintenance or audit | Level 4 procedure | Level 4 |
+| Hardening redesign | Level 5 procedure | Level 5 |
+| Restoration authority | Level 5 procedure | Level 5 |
+| Causal conflict review | Level 5 procedure | Level 5 |
+| Comparison log check | read without overwrite | Digital Systems |
+| Continuity interruption planned | Site Command notification | Site Command |
+
+No calendar interval is recorded; the structure is audited per maintenance window, so interval
+NOT MEASURED.
+There is no consumable. The quarantine mismatch case is why identity and access state
+are checked separately
+rather than as one result.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| File intact, no safe reader | identity held, access condition changed | check separately; mismatch case |
+| Contradiction alert on one shelf | record and room disagree | seal and review |
+| Position witness mark moved | document relocated without a log | reconcile the register |
+| Checksum relay silent | relay fault | do not trust the comparison |
+| Old error impossible to correct | over-hardening | Level 5 restoration review |
+| Comparison log overwritten | audit method fault | read-only access |
 
 ## KNOWN LIMITS
 
@@ -216,6 +319,10 @@ to quietly replace.
   Can a quarantine cell lie about its contents while the QNB record remains
   correct?
 - What happens when the room remembers a file that every authorized reader forgets?
+
+- What proportion of the archive is hardened, and what is deliberately left unhardened?
+- How often does the checksum relay compare, and what depth does it reach?
+- Which records are held under an open causal dispute at present?
 
 ---
 

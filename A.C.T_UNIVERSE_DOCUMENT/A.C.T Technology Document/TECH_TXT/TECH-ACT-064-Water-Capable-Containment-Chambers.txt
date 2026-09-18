@@ -97,6 +97,49 @@ only how a subject dies.
 The Death Angler's Abyssal Aquarium is the most visible example, but WCCC doctrine applies
 beyond one resident.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and holding doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| CHAMBER PARAMETER          | VALUE                                                                                 |
++============================+=======================================================================================+
+| Body                       | sealed aquatic chamber                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Lining                     | marine-compatible inner lining                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Chemistry                  | salinity and chemistry control loop                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Flow                       | compartmented intake and drain valves                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monitoring                 | indirect monitoring mount                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Interface                  | pressure interface port                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Service                    | feeding and sample lock                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Safety                     | emergency water isolation gate                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Waste                      | biological waste filter                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Command                    | chamber-status command panel                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Pairing                    | phase glass, sonar, resonance sensors, white noise, anchor plating as required        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Volume                     | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Salinity band held         | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Circulation rate           | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Water is treated as structure, atmosphere, evidence, and sometimes part of the resident's behavioural
+field.
+The chamber cannot reproduce the entire sea: current, pressure, darkness, prey behaviour, mineral content,
+and ecological relationship may all be absent.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 A WCCC unit contains sealed aquatic volume, marine-compatible wall material, compartmented water circulation, filtered
@@ -122,7 +165,54 @@ Known components include:
 
 No WCCC chamber is filled, drained, heated, cleaned, or chemically adjusted without resident-specific authorization.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Chamber Controls
+
+- salinity and chemistry control loop
+- compartmented intake and drain valves
+- feeding and sample lock
+- emergency water isolation gate
+
+Holding Readouts
+
+- chamber-status command panel
+- indirect monitoring mount output
+- pressure interface port reading
+- biological waste filter state
+
+Holding And Personnel Limits
+
+- Do not assume a resident stable in water is a safe resident.
+- Do not feed or sample outside the lock.
+- Do not admit without testing the isolation gate.
+- Do not treat the chamber as a reproduction of the sea.
+- Weakest against residents acting through sound, light, lure, or chemistry.
+- Weakest where ecological relationship is part of the containment.
+
+Volume, salinity band, and circulation rate are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+Aquatic admission, Containment with Maritime-Hold Command.
+
+1. Receive capture context and source water conditions.
+2. Record pressure history and visible injury.
+3. Record known triggers and transport state.
+4. Assign the chamber and set water parameters.
+5. Confirm whether the resident requires observation limits.
+6. Review biological stress and transition risk.
+7. Control access around the chamber.
+8. Monitor water state continuously after admission.
+
+Step-down: parameters are logged against the resident file and the sample lock is re-secured.
+Emergency: the
+water isolation gate closes the volume, and a resident stable in water may still
+act through sound, light,
+lure, or chemistry, so isolation is not the end of the assessment.
 
 Before admission, Recovery provides capture context, source water conditions, pressure history, visible injury, known
 triggers, and transport state. Containment defines chamber assignment and water parameters. Research confirms whether
@@ -140,6 +230,51 @@ After any alarm, staff confirm whether the problem is water failure, resident be
 failure, pressure
 mismatch, or outside intrusion. The chamber is not treated as safe because the water
 looks clear.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Before admission           | lining, valve, and filter check           | Containment Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Salinity or chemistry drift| loop adjustment                           | Maritime-Hold Command                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Waste filter loading       | filter change                             | Containment Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Observation limits required| pair with phase glass or sonar            | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Emergency gate test        | before each admission                     | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Resident transfer          | pressure-rated transition                 | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; the chamber is serviced per admission and per chemistry
+reading, so
+interval NOT MEASURED. Filter media is the consumable. The Death Angler case is why
+optical lockdown and
+acoustic dampening are paired with the chamber rather than added later.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Resident unstable in       | sea-shaped biology                        | water-capable standard; Nusantara         |
+| ordinary holding           |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Attack through sound or    | stability in water is not safety          | add lockdown; Angler case                 |
+| light                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Salinity drifting          | control loop fault                        | adjust before stress appears              |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Waste filter loaded        | biological load exceeded                  | change the media                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Isolation gate slow        | gate mechanism fault                      | test before admission                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Chamber status panel       | sensor fault                              | verify by indirect mount                  |
+| disagreeing                |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -211,6 +346,10 @@ to influence staff?
 to F-3?
 - Can WCCC systems safely hold residents whose source environment is both oceanic and
 abyss-linked?
+- What volume and circulation rate does a standard chamber hold?
+- What salinity band can the loop maintain across a long hold?
+- Which residents require paired optical lockdown, and who decides?
+
 
 FILE METADATA
 
