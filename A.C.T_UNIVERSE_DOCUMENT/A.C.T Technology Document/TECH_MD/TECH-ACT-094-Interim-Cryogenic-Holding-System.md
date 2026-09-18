@@ -198,8 +198,9 @@ delay.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** F-1 Holding Officer / Medical Quarantine Lead / Central Archive
-**Review
-Status:** Active interim cryogenic record; live unit maps, suppression thresholds, and silent removal authorizations
-censored **Next Review:** After any overstay, suppression failure, F-1 closure, transfer delay, seasonal pressure
-surge, or White Grave disposition dispute
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** F-1 Holding Officer / Medical Quarantine Lead / Central Archive
+- **Review Status:** Active interim cryogenic record; live unit maps, suppression thresholds, and silent
+  removal authorizations censored
+- **Next Review:** After any overstay, suppression failure, F-1 closure, transfer delay, seasonal
+  pressure surge, or White Grave disposition dispute

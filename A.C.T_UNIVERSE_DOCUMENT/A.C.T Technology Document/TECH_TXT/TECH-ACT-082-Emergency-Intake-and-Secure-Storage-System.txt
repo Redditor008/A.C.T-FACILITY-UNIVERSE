@@ -195,7 +195,7 @@ the parent relay?
 
 FILE METADATA
 
-Created: 2026-09-15
+Created: [Random Date]/[Random Month]/2XXX
 Author Desk: Watch Chief / Intake Officer / Central Archive
 Review Status: Active emergency intake record; live storage maps, transfer clocks, and intake manifests
 censored

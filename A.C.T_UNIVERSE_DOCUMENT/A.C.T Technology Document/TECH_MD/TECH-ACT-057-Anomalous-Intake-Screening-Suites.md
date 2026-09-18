@@ -225,7 +225,9 @@ becomes.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Kurokawa Intake Chief / Archiver Division / Central Archive **Review
-Status:** Active archive intake technology record; route-lock control maps and screening thresholds censored **Next
-Review:** After any false clearance, route delay, chain-of-custody break, unauthorized deep reading, or
-screening-suite retrofit
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Kurokawa Intake Chief / Archiver Division / Central Archive
+- **Review Status:** Active archive intake technology record; route-lock control maps and screening
+  thresholds censored
+- **Next Review:** After any false clearance, route delay, chain-of-custody break, unauthorized deep
+  reading, or screening-suite retrofit

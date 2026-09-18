@@ -219,6 +219,9 @@ A.C.T.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Historical Engineering Archive / Abyss Engineering / Central Archive **Review
-Status:** Retired historical technology record; reconstruction data and descent-route ledgers censored **Next
-Review:** After any component handling, route-map discovery, deep-access proposal, or First Descent archive release
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Historical Engineering Archive / Abyss Engineering / Central Archive
+- **Review Status:** Retired historical technology record; reconstruction data and descent-route ledgers
+  censored
+- **Next Review:** After any component handling, route-map discovery, deep-access proposal, or First
+  Descent archive release

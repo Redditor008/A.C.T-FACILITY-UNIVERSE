@@ -564,8 +564,8 @@ warning rite produces measurable cognitive or environmental effect.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            13/09/2026
-FILE LAST UPDATED:       13/09/2026
+FILE CREATED:            [Random Date]/[Random Month]/2XXX
+FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
 FILE AUTHOR:             Intelligence Division / Civil Covert / Recovery Joint Desk
 REVIEWED BY:             Site 05 Review and Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

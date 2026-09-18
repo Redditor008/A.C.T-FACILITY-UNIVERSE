@@ -563,8 +563,8 @@ CLOSING DATE:
 ### File Metadata
 
 ```text
-FILE CREATED:        12/09/2026
-FILE LAST UPDATED:   12/09/2026
+FILE CREATED:        [Random Date]/[Random Month]/2XXX
+FILE LAST UPDATED:   [Random Date]/[Random Month]/2XXX
 FILE AUTHOR:         Medical Care Division / Civil Covert Division
 REVIEWED BY:         Archiver Division / Subject Care Division / Site Command
 FILE STATUS:         ACTIVE WORKING FORM

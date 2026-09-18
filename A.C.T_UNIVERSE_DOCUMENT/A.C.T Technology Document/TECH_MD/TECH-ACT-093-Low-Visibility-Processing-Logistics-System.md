@@ -201,8 +201,9 @@ around it also holds.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Campus Manager / Security Boundary Lead / Central Archive **Review
-Status:**
-Active low-visibility logistics record; live route maps, vehicle timings, cargo covers, and transition schedules
-censored **Next Review:** After any delivery mismatch, transition challenge, visitor observation, cargo contradiction,
-repeated vehicle pattern, or surface sealing event
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Campus Manager / Security Boundary Lead / Central Archive
+- **Review Status:** Active low-visibility logistics record; live route maps, vehicle timings, cargo
+  covers, and transition schedules censored
+- **Next Review:** After any delivery mismatch, transition challenge, visitor observation, cargo
+  contradiction, repeated vehicle pattern, or surface sealing event

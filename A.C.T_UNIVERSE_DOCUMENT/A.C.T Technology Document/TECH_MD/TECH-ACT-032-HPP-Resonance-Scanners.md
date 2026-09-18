@@ -230,6 +230,8 @@ to the wrong thing.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Personnel Screening Desk / Medical Division / Central Archive **Review
-Status:** Active screening record; sensor composition and PR-score thresholds censored **Next Review:** After any
-HPP-triggered activation, assignment override, scan contradiction, or score privacy breach
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Personnel Screening Desk / Medical Division / Central Archive
+- **Review Status:** Active screening record; sensor composition and PR-score thresholds censored
+- **Next Review:** After any HPP-triggered activation, assignment override, scan contradiction, or score
+  privacy breach

@@ -210,9 +210,9 @@ RRV doctrine holds that secrecy is only useful when it remains accountable.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Central Archive / Restricted Review Chain / Nusantara Deep Relay
-**Review
-Status:** Active restricted-vault record; vault maps, live seal states, file names, and authorization keys
-censored
-**Next Review:** After any unauthorized access attempt, partial opening, emergency file release, seal-state mismatch,
-reclassification action, or QNB custody disagreement
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Central Archive / Restricted Review Chain / Nusantara Deep Relay
+- **Review Status:** Active restricted-vault record; vault maps, live seal states, file names, and
+  authorization keys censored
+- **Next Review:** After any unauthorized access attempt, partial opening, emergency file release,
+  seal-state mismatch, reclassification action, or QNB custody disagreement

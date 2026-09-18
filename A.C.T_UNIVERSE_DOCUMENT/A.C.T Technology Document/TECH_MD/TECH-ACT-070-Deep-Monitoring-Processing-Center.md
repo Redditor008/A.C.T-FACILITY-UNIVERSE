@@ -206,8 +206,9 @@ its origin.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Seismic Analysis Support / Records and Monitoring Chief / Central
-Archive
-**Review Status:** Active monitoring-processing record; routing thresholds and restricted comparison patterns censored
-**Next Review:** After any misrouted warning, backlog event, restricted escalation dispute, F-1/F-2 communication
-fault, or containment notification delay
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Seismic Analysis Support / Records and Monitoring Chief / Central Archive
+- **Review Status:** Active monitoring-processing record; routing thresholds and restricted comparison
+  patterns censored
+- **Next Review:** After any misrouted warning, backlog event, restricted escalation dispute, F-1/F-2
+  communication fault, or containment notification delay

@@ -205,7 +205,9 @@ route, not a room.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Processing Officer / Recovery Support Lead / Central Archive **Review
-Status:** Active intake routing record; live route boards, rejection criteria, and parent-site escalation contacts
-censored **Next Review:** After any misrouting, undocumented movement, high-threat refusal, intake overload, file
-mismatch, or parent-site routing dispute
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Processing Officer / Recovery Support Lead / Central Archive
+- **Review Status:** Active intake routing record; live route boards, rejection criteria, and
+  parent-site escalation contacts censored
+- **Next Review:** After any misrouting, undocumented movement, high-threat refusal, intake overload,
+  file mismatch, or parent-site routing dispute

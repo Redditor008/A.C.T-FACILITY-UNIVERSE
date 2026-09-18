@@ -182,7 +182,7 @@ risks?
 
 FILE METADATA
 
-Created: 2026-09-15
+Created: [Random Date]/[Random Month]/2XXX
 Author Desk: Campus Director / Relay Administration / Central Archive
 Review Status: Active surface-cover record; live cover identities, public partners, transition-adjacent zones, and
 exposure incident files censored

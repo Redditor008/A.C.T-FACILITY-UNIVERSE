@@ -193,10 +193,9 @@ CRRWS doctrine holds that reading is never private when the text can read back.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Review Officer / Redaction Lead / Central Archive **Review Status:**
-Active
-controlled review record; live exposure limits, redaction keys, and hazardous layouts censored **Next Review:**
-After
-any solo exposure, contaminated review note, bad redaction, aftercare failure, release dispute, or parent-node
-format
-challenge
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Review Officer / Redaction Lead / Central Archive
+- **Review Status:** Active controlled review record; live exposure limits, redaction keys, and
+  hazardous layouts censored
+- **Next Review:** After any solo exposure, contaminated review note, bad redaction, aftercare failure,
+  release dispute, or parent-node format challenge

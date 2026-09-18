@@ -200,14 +200,9 @@ a single procedure.
 
 ## FILE METADATA
 
-FILE CREATED: 18/09/2026
-
-FILE LAST UPDATED: 18/09/2026
-
-FILE AUTHOR: Intelligence Division / Subject Care Joint Desk
-
-REVIEWED BY: Central Archive
-
-FILE STATUS: ACTIVE / RESTRICTED
-
-RECORD CONDITION: OPERATIONAL
+- FILE CREATED: [Random Date]/[Random Month]/2XXX
+- FILE LAST UPDATED: [Random Date]/[Random Month]/2XXX
+- FILE AUTHOR: Intelligence Division / Subject Care Joint Desk
+- REVIEWED BY: Central Archive
+- FILE STATUS: ACTIVE / RESTRICTED
+- RECORD CONDITION: OPERATIONAL

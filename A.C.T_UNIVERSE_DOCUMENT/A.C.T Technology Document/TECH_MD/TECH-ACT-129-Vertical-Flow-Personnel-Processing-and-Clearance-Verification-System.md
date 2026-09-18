@@ -204,7 +204,9 @@ every shift is deciding who may descend.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Site Administration / Personnel Office / Central Archive **Review Status:**
-Active personnel-processing and clearance-verification technology record; live rosters, clearance matrices, shift
-assignments, and incident flags censored **Next Review:** After any clearance drift, personnel-processing incident,
-duty misrouting, ascent accountability failure, command-suite communications fault, or training-status dispute
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Site Administration / Personnel Office / Central Archive
+- **Review Status:** Active personnel-processing and clearance-verification technology record; live
+  rosters, clearance matrices, shift assignments, and incident flags censored
+- **Next Review:** After any clearance drift, personnel-processing incident, duty misrouting, ascent
+  accountability failure, command-suite communications fault, or training-status dispute

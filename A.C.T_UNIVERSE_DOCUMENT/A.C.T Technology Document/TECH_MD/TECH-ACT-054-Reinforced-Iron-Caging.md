@@ -228,7 +228,9 @@ enough.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Historical Engineering Archive / Heavy Containment / Central Archive **Review
-Status:** Retired heavy-containment technology record; earliest resident list and cage location ledgers censored
-**Next Review:** After any legacy cage inspection, corrosion finding, resident-adjacent use, retrofit proposal, or
-Massive Box ancestry audit
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Historical Engineering Archive / Heavy Containment / Central Archive
+- **Review Status:** Retired heavy-containment technology record; earliest resident list and cage
+  location ledgers censored
+- **Next Review:** After any legacy cage inspection, corrosion finding, resident-adjacent use, retrofit
+  proposal, or Massive Box ancestry audit

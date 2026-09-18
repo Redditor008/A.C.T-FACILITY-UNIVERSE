@@ -220,8 +220,9 @@ Standing reminder: a person can carry an anomaly and still be a patient first.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Medical Division / Redwood Veil F-6 / Central Archive **Review
-Status:**
-Active medical containment record; suite layout, escalation thresholds, and patient ledgers censored **Next Review:**
-After any isolation breach, false recovery, confidentiality dispute, security-overreach event, or active influence
-escalation
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Medical Division / Redwood Veil F-6 / Central Archive
+- **Review Status:** Active medical containment record; suite layout, escalation thresholds, and patient
+  ledgers censored
+- **Next Review:** After any isolation breach, false recovery, confidentiality dispute,
+  security-overreach event, or active influence escalation

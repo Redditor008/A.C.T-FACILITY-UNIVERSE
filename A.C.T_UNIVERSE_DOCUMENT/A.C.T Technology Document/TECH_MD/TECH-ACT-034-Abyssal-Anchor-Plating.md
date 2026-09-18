@@ -241,6 +241,8 @@ optional.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Engineering Division / Heavy Containment Structural Desk / Central Archive
-**Review Status:** Active heavy-containment record; tungsten lattice and anchor-grid details censored **Next Review:**
-After any Massive Box movement event, seam ringing, thermal-sink saturation, or world-scale enclosure redesign
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Engineering Division / Heavy Containment Structural Desk / Central Archive
+- **Review Status:** Active heavy-containment record; tungsten lattice and anchor-grid details censored
+- **Next Review:** After any Massive Box movement event, seam ringing, thermal-sink saturation, or
+  world-scale enclosure redesign

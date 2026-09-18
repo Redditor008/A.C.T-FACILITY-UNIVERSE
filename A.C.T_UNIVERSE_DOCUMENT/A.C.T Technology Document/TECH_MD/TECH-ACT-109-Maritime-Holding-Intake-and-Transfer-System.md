@@ -217,7 +217,9 @@ moving.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Maritime-Hold Command / Floor Holding Chief / Central Archive **Review
-Status:** Active intake-transfer technology record; live transfer maps, vessel interfaces, resident names, and route
-timings censored **Next Review:** After any transfer failure, environmental mismatch, custody break, pressure
-incident, route exposure, vessel handoff dispute, or research-transfer override
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Maritime-Hold Command / Floor Holding Chief / Central Archive
+- **Review Status:** Active intake-transfer technology record; live transfer maps, vessel interfaces,
+  resident names, and route timings censored
+- **Next Review:** After any transfer failure, environmental mismatch, custody break, pressure incident,
+  route exposure, vessel handoff dispute, or research-transfer override

@@ -200,7 +200,7 @@ when staff forget that
 comfort is part of containment?
 
 FILE METADATA
-Created: 2026-09-15
+Created: [Random Date]/[Random Month]/2XXX
 Author Desk: Medical Division / Biological Subject Care Desk / Central Archive
 Review Status: Active biological medical record; formulation and metabolic buffer details censored
 Next Review: After any adverse tissue response, gel separation, shed-cycle disruption, or new NB-class

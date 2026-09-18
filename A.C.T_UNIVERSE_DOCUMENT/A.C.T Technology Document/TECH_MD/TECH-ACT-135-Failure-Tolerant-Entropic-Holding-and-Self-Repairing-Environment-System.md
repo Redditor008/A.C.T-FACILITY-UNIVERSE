@@ -208,9 +208,9 @@ victory is temporary but still necessary.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Floor Holding Chief / Restricted-Hold Command / Engineering Support /
-Central
-Archive **Review Status:** Active entropic holding and self-repairing environment technology record; resident
-identities, degradation rates, redundancy maps, and F-1 transfer thresholds censored **Next Review:** After any
-redundancy loss, repair-loop contamination, high-frequency monitoring fault, Engineering access incident, F-1
-escalation review, or unexpected resident stabilization
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Floor Holding Chief / Restricted-Hold Command / Engineering Support / Central Archive
+- **Review Status:** Active entropic holding and self-repairing environment technology record; resident
+  identities, degradation rates, redundancy maps, and F-1 transfer thresholds censored
+- **Next Review:** After any redundancy loss, repair-loop contamination, high-frequency monitoring
+  fault, Engineering access incident, F-1 escalation review, or unexpected resident stabilization

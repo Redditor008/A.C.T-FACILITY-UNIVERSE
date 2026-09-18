@@ -192,7 +192,9 @@ QAMSS doctrine holds that the cold chain begins with a question, not a chamber.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Medical Quarantine Lead / Assessment Officer / Central Archive **Review
-Status:** Active quarantine assessment record; live chamber maps, suppression tables, failed-assessment files, and
-escalation channels censored **Next Review:** After any false release, suppression error, lab contamination, failed
-assessment, transfer dispute, or seasonal assessment overload
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Medical Quarantine Lead / Assessment Officer / Central Archive
+- **Review Status:** Active quarantine assessment record; live chamber maps, suppression tables,
+  failed-assessment files, and escalation channels censored
+- **Next Review:** After any false release, suppression error, lab contamination, failed assessment,
+  transfer dispute, or seasonal assessment overload

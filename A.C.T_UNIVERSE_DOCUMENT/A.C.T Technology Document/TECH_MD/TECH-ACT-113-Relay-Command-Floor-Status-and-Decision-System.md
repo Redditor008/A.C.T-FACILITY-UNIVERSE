@@ -219,8 +219,9 @@ loudest alarm.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Site Director Command Floor / Duty Command Officer / Central
-Archive **Review
-Status:** Active command-floor technology record; live status feeds, duty rosters, authority keys, and decision
-ledgers censored **Next Review:** After any command delay, handoff error, multi-division event, personnel-readiness
-misread, emergency posture conflict, or command record dispute
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Site Director Command Floor / Duty Command Officer / Central Archive
+- **Review Status:** Active command-floor technology record; live status feeds, duty rosters, authority
+  keys, and decision ledgers censored
+- **Next Review:** After any command delay, handoff error, multi-division event, personnel-readiness
+  misread, emergency posture conflict, or command record dispute

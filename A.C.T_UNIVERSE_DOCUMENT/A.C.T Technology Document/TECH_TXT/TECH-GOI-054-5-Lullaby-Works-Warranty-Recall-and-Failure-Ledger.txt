@@ -283,7 +283,7 @@ failure?
 
 FILE METADATA
 
-**Created:** 2026-09-18
+**Created:** [Random Date]/[Random Month]/2XXX
 
 **Author Desk:** Intelligence Division / Archive Division / Central Archive
 

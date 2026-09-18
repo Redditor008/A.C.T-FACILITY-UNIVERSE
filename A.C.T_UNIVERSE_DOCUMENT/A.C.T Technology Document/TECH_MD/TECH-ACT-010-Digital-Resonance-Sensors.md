@@ -374,6 +374,8 @@ sensor for being first.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Survey Division / Engineering Division / Central Archive **Review Status:**
-Active restricted record; calibration libraries censored **Next Review:** After any false-clean scan, hostile spoof,
-Field Type misclassification, or fixed-locker resonance alarm
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Survey Division / Engineering Division / Central Archive
+- **Review Status:** Active restricted record; calibration libraries censored
+- **Next Review:** After any false-clean scan, hostile spoof, Field Type misclassification, or
+  fixed-locker resonance alarm

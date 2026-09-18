@@ -230,7 +230,8 @@ Standing reminder: stasis is not an answer. It is a held breath.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Medical Division / Stasis Technology Desk / Central Archive **Review
-Status:** Active restricted record; resonant cooling details censored **Next Review:** After any thaw failure,
-rhythm
-drift, FCA medical transport incident, or anchor-linked stasis distress
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Medical Division / Stasis Technology Desk / Central Archive
+- **Review Status:** Active restricted record; resonant cooling details censored
+- **Next Review:** After any thaw failure, rhythm drift, FCA medical transport incident, or
+  anchor-linked stasis distress

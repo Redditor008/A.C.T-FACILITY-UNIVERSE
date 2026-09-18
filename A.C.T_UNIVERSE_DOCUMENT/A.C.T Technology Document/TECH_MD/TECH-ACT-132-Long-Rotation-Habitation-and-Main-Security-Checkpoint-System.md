@@ -214,7 +214,9 @@ when they leave their own lives and descend to work.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Habitation Chief / Station Administration / Central Archive **Review
-Status:** Active long-rotation habitation and checkpoint technology record; live rosters, quarter assignments, Medical
-flags, and checkpoint logs censored **Next Review:** After any checkpoint breach, habitation conflict cluster,
-seasonal supply strain, missed ascent flag, routine medical access failure, or long-rotation welfare incident
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Habitation Chief / Station Administration / Central Archive
+- **Review Status:** Active long-rotation habitation and checkpoint technology record; live rosters,
+  quarter assignments, Medical flags, and checkpoint logs censored
+- **Next Review:** After any checkpoint breach, habitation conflict cluster, seasonal supply strain,
+  missed ascent flag, routine medical access failure, or long-rotation welfare incident

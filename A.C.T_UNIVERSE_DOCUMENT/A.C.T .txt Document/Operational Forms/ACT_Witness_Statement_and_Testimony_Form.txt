@@ -487,10 +487,9 @@ RELATED FILES UPDATED:
 ## File Metadata
 
 text
-FILE CREATED:        12/09/2026
-FILE LAST UPDATED:   12/09/2026
+FILE CREATED:        [Random Date]/[Random Month]/2XXX
+FILE LAST UPDATED:   [Random Date]/[Random Month]/2XXX
 FILE AUTHOR:         Archiver Division / Civil Covert Division
 REVIEWED BY:         Medical Care Division / Intelligence Division / Subject Care Division
 FILE STATUS:         ACTIVE WORKING FORM
 DOCTRINE STATUS:     ACTIVE
-

@@ -198,8 +198,9 @@ that no one interrupts it.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Studio Manager / Security Boundary Lead / Central Archive **Review
-Status:**
-Active preservation-studio cover record; live client files, transition points, and hidden movement schedules censored
-**Next Review:** After any client challenge, cover audit, transition exposure, restricted-area dispute, visible
-document contamination, or studio paperwork mismatch
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Studio Manager / Security Boundary Lead / Central Archive
+- **Review Status:** Active preservation-studio cover record; live client files, transition points, and
+  hidden movement schedules censored
+- **Next Review:** After any client challenge, cover audit, transition exposure, restricted-area
+  dispute, visible document contamination, or studio paperwork mismatch

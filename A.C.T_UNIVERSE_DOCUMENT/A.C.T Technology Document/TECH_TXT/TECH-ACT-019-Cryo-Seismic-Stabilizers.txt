@@ -94,6 +94,51 @@ RSA interval timing is restricted because a badly timed stabilizer may lock a fa
 a floor, or a containment wall at
 the exact moment it should flex.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and array doctrine. Values the
+archive does not
+hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| UNIT PARAMETER             | VALUE                                                                                 |
++============================+=======================================================================================+
+| Form                       | tripod-mounted industrial canister, field-generator size                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Coolant                    | liquid nitrogen reservoir                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Sensing                    | rotating piston sensor separating tremor from seismic disagreement                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Display                    | Crustal Temperature Index, Tectonic Stress indices, coolant pressure                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Synchronization            | RSA interval synchronization port                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Control                    | wired remote with calibration sliders                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Venting                    | vapor-release valve, white nitrogen fog when active                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Core                       | internal redacted thermal-cell                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Safety                     | emergency thaw command                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Load measure               | causal heat load                                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cooling output             | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Effective radius per unit  | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Nitrogen capacity and      | NOT MEASURED                                                                          |
+| boil-off                   |                                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Thermal-cell specification | REDACTED                                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The visible fog is not the containment effect; it is the waste sign of
+a colder argument happening below the
+floor. Engineering describes the intended result as making the crust hesitate long enough for
+containment
+systems to catch up.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 A standard CSS is a tripod-mounted industrial canister roughly the size of a field
 generator. It vents white nitrogen
@@ -110,7 +155,56 @@ wired remote with calibration sliders; RSA interval synchronization port; and em
 The visible fog is not the containment effect. It is the waste sign of
 a colder argument happening below the floor.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Remote And Valve Controls
+
+- wired remote with calibration sliders
+- vapor-release valve
+- emergency thaw command
+- RSA interval synchronization port
+
+Index And Load Readouts
+
+- Crustal Temperature Index
+- Tectonic Stress indices
+- coolant pressure
+- causal heat load
+- rotating piston tremor reading
+
+Cryogenic And Site Limits
+
+- Do not install on visually convenient ground; use surveyed anchor points.
+- Do not stand in nitrogen fog for inspection.
+- Do not bypass the wired remote with improvised controls.
+- Do not preserve a damaged structure for appearance when evacuation is safer.
+- Do not stack three units around one target without Engineering review.
+- Weakest where the RSA grid has already collapsed.
+- Weakest against airborne, narrative, temporal, or biological threats.
+
+Cooling output, effective radius, and boil-off are not recorded. Envelope: NOT MEASURED.
+
 OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+Array activation, Level 4 Engineering with Site Infrastructure.
+
+1. Install on surveyed anchor points.
+2. Verify floor load and the tremor baseline.
+3. Confirm RSA timing and coolant pressure.
+4. Confirm release routes and fog paths.
+5. Raise venting intensity slowly.
+6. Watch for stress decrease rather than for perfect calm.
+7. Reduce intensity if causal heat rises while crustal temperature falls.
+8. Request RSA support before extending the window.
+
+Step-down: intensity is lowered in stages so suppressed stress returns where it can be
+measured. Emergency:
+the thaw command is used where a floor is going brittle, and delayed rebound
+afterwards is expected rather
+than treated as a new event.
+
 Operators install CSS units on surveyed anchor points, never on visually convenient ground. Engineering
 verifies floor
 load, tremor baseline, RSA timing, coolant pressure, and release routes. During activation, the operator
@@ -130,6 +224,53 @@ with improvised controls. Do not use CSS
 to preserve a damaged structure for appearance when evacuation is safer. Do not stack
 three units around an unknown
 anomaly because the word stabilizer sounds comforting.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| TRIGGER                    | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Before each activation     | anchor, load, and fog-route check         | Level 4 Engineering                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Nitrogen level low         | reservoir replenishment                   | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Piston desynchronization   | sensor calibration                        | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| RSA interval conflict      | timing review                             | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Sub-crustal deployment     | full procedure                            | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Coolant line damage        | line replacement and bay inspection       | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; interval NOT MEASURED. Liquid nitrogen is the consumable and
+it is spent
+per activation. The 2002 brittle floor is why coolant lines are inspected after a
+long dampening window
+rather than at the next scheduled visit.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Floor cracking in a clean  | motion displaced into the slab            | inspect; 2002 case                        |
+| pattern                    |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Fog filling a corridor     | blocked vent path                         | evacuate; 2010 case                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Index calm, piston still   | false quiet                               | pause; 2024 drill lesson                  |
+| moving                     |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Causal heat rising as crust| overcooling                               | reduce intensity; call RSA support        |
+| cools                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Stress returning after     | delayed rebound                           | hold the area and monitor                 |
+| shutdown                   |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Two units fighting one     | array interval conflict                   | retime the array                          |
+| fault                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 CSS cannot stop all earthquakes, world-scale movements, or foundation failures. It cannot stabilize a
@@ -191,9 +332,14 @@ with emergency thaw? Should CSS
 units be installed near every Massive Box, or would permanent cold create new failure
 patterns? What exactly is being
 frozen during a reality-seismic event?
+- What is the effective radius of one unit, and how does it change
+  with depth?
+- What does the redacted thermal-cell contain, and who maintains it?
+- How long can suppressed stress stay delayed before rebound becomes the larger event?
+
 
 FILE METADATA
-Created: 2026-09-15
+Created: [Random Date]/[Random Month]/2XXX
 Author Desk: Engineering Division / Site Infrastructure Command / Central Archive
 Review Status: Active restricted record; RSA interval timing censored
 Next Review: After any rebound event, false-quiet reading, coolant injury, or world-scale tremor response

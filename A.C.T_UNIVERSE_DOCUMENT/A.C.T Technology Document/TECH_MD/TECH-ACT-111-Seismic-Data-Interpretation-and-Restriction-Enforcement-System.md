@@ -222,8 +222,9 @@ SDIRES doctrine holds that understanding below the earth is itself a controlled 
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Floor Research Chief / Seismic Analysis Support Liaison / Central
-Archive
-**Review Status:** Active restricted-interpretation technology record; pattern libraries, review-chain keys, refusal
-reasons, and abyss-linked correlations censored **Next Review:** After any unauthorized correlation, review-chain
-breach, refusal-record loss, report-layer error, analyst inference incident, or abyss-related escalation
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Floor Research Chief / Seismic Analysis Support Liaison / Central Archive
+- **Review Status:** Active restricted-interpretation technology record; pattern libraries, review-chain
+  keys, refusal reasons, and abyss-linked correlations censored
+- **Next Review:** After any unauthorized correlation, review-chain breach, refusal-record loss,
+  report-layer error, analyst inference incident, or abyss-related escalation

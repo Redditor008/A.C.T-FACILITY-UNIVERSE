@@ -205,8 +205,9 @@ minute.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Floor Holding Chief / Containment Division / Central Archive **Review
-Status:** Active biological suppression and deep-isolation holding technology record; live resident identities,
-chamber maps, suppression profiles, and transfer thresholds censored **Next Review:** After any suppression drift,
-biological rebound, unit misassignment, F-2 escalation, F-4 sample-control discrepancy, sensor fault, or long-duration
-documentation gap
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Floor Holding Chief / Containment Division / Central Archive
+- **Review Status:** Active biological suppression and deep-isolation holding technology record; live
+  resident identities, chamber maps, suppression profiles, and transfer thresholds censored
+- **Next Review:** After any suppression drift, biological rebound, unit misassignment, F-2 escalation,
+  F-4 sample-control discrepancy, sensor fault, or long-duration documentation gap

@@ -302,11 +302,9 @@ anything except an empty shell that no longer works.
 
 ## FILE METADATA
 
-**Created:** 2026-09-18
-
-**Author Desk:** Subject Care Division / Engineering Division / Central Archive
-
-**Review Status:** Active restricted GOI technology record; manufacturer identity and lot source censored
-
-**Next Review:** After any new unit recovery, any further bite incident, or any confirmed
-vocal relay observation
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Subject Care Division / Engineering Division / Central Archive
+- **Review Status:** Active restricted GOI technology record; manufacturer identity and lot source
+  censored
+- **Next Review:** After any new unit recovery, any further bite incident, or any confirmed vocal relay
+  observation

@@ -194,8 +194,9 @@ SCRC doctrine holds that normalcy is strongest when it has real weight behind it
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Campus Director / Relay Administration / Central Archive **Review Status:**
-Active surface-cover record; live cover identities, public partners, transition-adjacent zones, and exposure incident
-files censored **Next Review:** After any public audit, contractor route change, publication dispute, surface
-exposure
-event, port scrutiny incident, or concealed-transition alarm
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Campus Director / Relay Administration / Central Archive
+- **Review Status:** Active surface-cover record; live cover identities, public partners,
+  transition-adjacent zones, and exposure incident files censored
+- **Next Review:** After any public audit, contractor route change, publication dispute, surface
+  exposure event, port scrutiny incident, or concealed-transition alarm

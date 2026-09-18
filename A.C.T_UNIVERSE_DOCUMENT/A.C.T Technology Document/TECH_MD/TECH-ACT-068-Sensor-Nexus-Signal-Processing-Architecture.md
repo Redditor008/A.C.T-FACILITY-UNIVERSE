@@ -214,9 +214,9 @@ but it must know how the signal reached the file.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Seismic Analysis Support / Vault Listening Chief / Central Archive
-**Review
-Status:** Active sensor-nexus record; baseline weights, restricted gate rules, and preserved abyss-linked windows
-censored **Next Review:** After any false escalation, failed restricted routing, local buffer overload, F-1
-closure
-event, or abyss-linked correlation dispute
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Seismic Analysis Support / Vault Listening Chief / Central Archive
+- **Review Status:** Active sensor-nexus record; baseline weights, restricted gate rules, and preserved
+  abyss-linked windows censored
+- **Next Review:** After any false escalation, failed restricted routing, local buffer overload, F-1
+  closure event, or abyss-linked correlation dispute

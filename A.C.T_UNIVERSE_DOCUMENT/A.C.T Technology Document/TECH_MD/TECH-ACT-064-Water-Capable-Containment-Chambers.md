@@ -228,8 +228,9 @@ made accountable.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Maritime-Hold Command / Nusantara Deep Relay / Central Archive **Review
-Status:** Active maritime containment record; chamber schematics and resident-specific water formulas censored **Next
-Review:** After any aquatic breach, chemistry drift, resident transfer, pressure mismatch, port handoff incident,
-or
-Abyssal Aquarium retrofit
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Maritime-Hold Command / Nusantara Deep Relay / Central Archive
+- **Review Status:** Active maritime containment record; chamber schematics and resident-specific water
+  formulas censored
+- **Next Review:** After any aquatic breach, chemistry drift, resident transfer, pressure mismatch, port
+  handoff incident, or Abyssal Aquarium retrofit

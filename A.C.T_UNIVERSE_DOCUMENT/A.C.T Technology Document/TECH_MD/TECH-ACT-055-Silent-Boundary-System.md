@@ -229,7 +229,9 @@ carried carefully.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Civil Covert Division / Intelligence Division / Central Archive **Review
-Status:** Active normalcy infrastructure record; front organization lists and N-5 operation procedures censored **Next
-Review:** After any cover-story failure, GOI narrative interference, amnestic cluster recognition, folklore mutation,
-or structural normalcy operation
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Civil Covert Division / Intelligence Division / Central Archive
+- **Review Status:** Active normalcy infrastructure record; front organization lists and N-5 operation
+  procedures censored
+- **Next Review:** After any cover-story failure, GOI narrative interference, amnestic cluster
+  recognition, folklore mutation, or structural normalcy operation

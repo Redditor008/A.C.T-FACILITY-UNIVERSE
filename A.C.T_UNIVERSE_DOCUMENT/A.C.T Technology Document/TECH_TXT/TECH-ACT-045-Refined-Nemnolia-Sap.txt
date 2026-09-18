@@ -187,7 +187,7 @@ is collateral
 forgetting part of the material itself?
 
 FILE METADATA
-Created: 2026-09-15
+Created: [Random Date]/[Random Month]/2XXX
 Author Desk: Medical Division / Transformation Division / Central Archive
 Review Status: Active anomaly-derived material record; sap processing and stabilizer chemistry censored
 Next Review: After any cap failure, residue event, concentration drift, adverse memory effect, or

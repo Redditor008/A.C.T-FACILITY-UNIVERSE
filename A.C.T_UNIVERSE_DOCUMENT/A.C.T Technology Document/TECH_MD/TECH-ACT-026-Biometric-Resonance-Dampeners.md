@@ -226,7 +226,8 @@ honest report of it.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Field Safety Desk / Medical Division / Engineering Division /
-Central Archive
-**Review Status:** Active restricted record; pulse-sync and micro-injector details censored **Next Review:** After any
-false green event, panic overload, cardiac reaction, or unauthorized concealment incident
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Field Safety Desk / Medical Division / Engineering Division / Central Archive
+- **Review Status:** Active restricted record; pulse-sync and micro-injector details censored
+- **Next Review:** After any false green event, panic overload, cardiac reaction, or unauthorized
+  concealment incident

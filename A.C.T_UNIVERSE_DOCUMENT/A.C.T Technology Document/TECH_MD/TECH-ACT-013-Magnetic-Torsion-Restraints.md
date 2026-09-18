@@ -346,7 +346,8 @@ Standing reminder: MTR buys control of angle. It does not buy ownership of dange
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Containment Division / Engineering Division / Tactical Review Desk /
-Central
-Archive **Review Status:** Active restricted record; frequency settings censored **Next Review:** After any MTR-RED
-lock, helium loss event, weapon-class breach, or mobile rig deployment
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Containment Division / Engineering Division / Tactical Review Desk / Central Archive
+- **Review Status:** Active restricted record; frequency settings censored
+- **Next Review:** After any MTR-RED lock, helium loss event, weapon-class breach, or mobile rig
+  deployment

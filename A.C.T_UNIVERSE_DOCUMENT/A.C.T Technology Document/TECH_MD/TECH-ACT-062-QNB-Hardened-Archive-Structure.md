@@ -221,7 +221,9 @@ to quietly replace.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Archive Division / Engineering Division / Central Archive **Review Status:**
-Active archival infrastructure record; structural hardening diagrams and restoration thresholds censored **Next
-Review:** After any causal mismatch, restoration dispute, overhardening event, quarantine conflict, or F-7 archive
-retrofit
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Archive Division / Engineering Division / Central Archive
+- **Review Status:** Active archival infrastructure record; structural hardening diagrams and
+  restoration thresholds censored
+- **Next Review:** After any causal mismatch, restoration dispute, overhardening event, quarantine
+  conflict, or F-7 archive retrofit

@@ -97,6 +97,35 @@ A forged record that resists correction can outlive the truth it imitates.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and archive practice. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| INK PARAMETER | VALUE |
+|---|---|
+| Container | heavy glass inkwell with drip-prevention valve |
+| Appearance | pitch black with violet sparkle under angled light |
+| Viscosity | thicker than ordinary ink, slow to flow |
+| Reservoir | pressurized, holding particle distribution stable |
+| Closure | biometric thumbprint cap with custody tag |
+| Active component | suspended causal-memory particles |
+| Verification | batch light-test strip for violet response |
+| Warning | particle-settling warning band |
+| Waste | used-nib quarantine cup |
+| Handling record | solvent exposure tag |
+| Restricted stock | sealed Council-level log stock where applicable |
+| Particle source | not recorded in this file |
+| Shelf life | NOT MEASURED |
+| Drying time | NOT MEASURED |
+| Regression resistance limit | NOT MEASURED |
+
+The ink is the mark itself. QNB preserves data across larger causal events and
+NSV protects page surface, so
+RRI is never a substitute for either; it is the layer that insists the
+original mark was made.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 RRI is stored in heavy glass inkwells with drip-prevention valves. The liquid is pitch
@@ -126,7 +155,54 @@ hazardous anomaly records.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Inkwell Controls
+
+- biometric thumbprint cap
+- drip-prevention valve
+- pressurized reservoir
+- certified pen or disposable nib only
+
+### Material Readouts
+
+- violet response on the batch light-test strip
+- particle-settling warning band
+- custody tag and batch record
+- solvent exposure tag
+
+### Archive And Personnel Limits
+
+- Do not decant into an uncertified pen.
+- Do not use RRI for drafts, jokes, training signatures, or decorative headings.
+- Do not write a speculation in RRI unless the file requires speculation preserved.
+- Do not shorten drying time with heat.
+- Do not seal with varnish before review confirms the wording.
+- Weakest against severe causal rewrite and page destruction.
+- Weakest where resistant ink makes staff assume the content is final.
+
+Shelf life, drying time, and resistance limits are not recorded. Envelope: NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Writing a resistant record, Level 4 Archive.
+
+1. Confirm authority and the reason RRI is required.
+2. Open the cap by biometric check.
+3. Perform the light test for violet particle response.
+4. Confirm the writing surface is approved stock.
+5. Record date, file, handler, batch, and reason for use.
+6. Add a second archivist as observer for active shift hazards.
+7. Allow the text to dry fully without heat.
+8. Quarantine the nib and log the batch before sealing.
+
+Step-down: varnish sealing and QNB mirroring are separate later decisions and never part of
+the writing
+pass. Emergency: an inkwell failing the light test is quarantined even when the cap
+inspection passes, which
+is what the 2023 settling alert established.
 
 Before use, the archivist confirms authority, opens the cap by biometric check, and performs
 a light test for violet
@@ -149,6 +225,34 @@ defend bad wording with
 the same patience it gives truth.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED ACTION | AUTHORITY |
+|---|---|---|
+| Before each use | cap, light test, and settling band check | Level 4 Archive |
+| Particle settling suspected | quarantine the inkwell | Materials Custody |
+| Batch label unreadable | treat as unissued stock | Materials Custody |
+| Nib disposal | quarantine cup, then disposal | Level 3, locally certified |
+| Solvent exposure | tag and review the well | Materials Custody |
+| Restricted log stock | sealed stock procedure | Level 5 |
+
+RRI is consumed in use, so the schedule is counted in inkwells rather than
+in intervals; calendar interval
+NOT MEASURED. The consumables are the ink, certified nibs, and custody tags. The 2023
+alert is why the light
+test runs even on a well that passes cap inspection.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Page rewriting to a new state | record written in ordinary ink | re-log in RRI; 2011 case |
+| Old theory returning as fact | speculation sealed too early | attach a larger correction |
+| No violet response on the strip | particle settling in storage | quarantine; 2023 case |
+| Ink refusing the paper | contaminated or unapproved stock | change substrate, not ink |
+| Forged batch label | stock diversion | refer to Materials Custody |
+| Staff treating ink as proof | resistance read as final authority | correct the file |
 
 ## KNOWN LIMITS
 
@@ -229,11 +333,17 @@ Standing reminder: RRI is not truth. It is stubbornness given liquid form.
   update?
 - Can violet smear be safely read, or is it a partial regression artifact?
 
+- What is the particle source, and why is it withheld from this record?
+- How much causal regression has a correctly written RRI line actually survived?
+- What is the shelf life of a sealed well, and how is settling
+  predicted?
+
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Archive Division / Materials Custody Desk / O5 Liaison /
-Central Archive
-**Review Status:** Active restricted record; particle source and formula censored **Next Review:** After any
-forged-batch recovery, violet smear event, Refracted One state shift, or O5 log discrepancy
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Archive Division / Materials Custody Desk / O5 Liaison / Central Archive
+- **Review Status:** Active restricted record; particle source and formula censored
+- **Next Review:** After any forged-batch recovery, violet smear event, Refracted One state shift, or O5
+  log discrepancy

@@ -99,6 +99,52 @@ Viral-vector libraries are Level 5 because a hostile or careless repair vector c
 a patient into a more
 convenient shape and call the result health.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and clinical procedure. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| SUITE PARAMETER            | VALUE                                                                                 |
++============================+=======================================================================================+
+| Pod                        | large egg-shaped sealed medical pod                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Lid                        | clear reinforced glass for visual monitoring                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Scanning                   | laser-point bio-scanners mapping DNA and tissue in real time                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Atmosphere                 | pink mist delivery cycle                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Scrubbing                  | biological scrubber array cycling every sixty seconds                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Display                    | Mending Progress, vital signs, baseline confidence                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Concentration              | bloodstream concentration monitor, value redacted                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Safety lock                | baseline comparison lock                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Emergency                  | purge system                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Authority                  | patient consent and authority port                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Advertised repair window   | five minutes for a full emergency rewrite                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Mist concentration band    | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Scrubber capacity          | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Vector library contents    | not recorded at this clearance                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Pod atmosphere composition | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The pink mist is not cosmetic vapour; it carries measured correction support while the
+scrubbers remove
+failed vectors and shed residue. The five-minute figure is an advertised capability rather than
+a promise,
+because fast correction raises risk when the machine misreads anomaly influence.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 A standard GPP suite centers on a large egg-shaped pod with a clear glass
 lid. The lid allows visual medical
@@ -117,7 +163,56 @@ baseline comparison lock; emergency purge system; and patient consent and author
 The patient is never alone with the machine as a matter of procedure, even
 when sedated.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Pod And Purge Controls
+
+- pod seal check
+- baseline comparison lock
+- emergency purge system
+- patient consent and authority port
+
+Mending And Confidence Readouts
+
+- Mending Progress
+- vital signs
+- baseline confidence
+- bloodstream concentration, value redacted
+- scrubber cycle state
+
+Clinical And Personnel Limits
+
+- Do not activate before Transformation Review selects one treatment aim.
+- Do not use GPP for enhancement or cosmetic correction.
+- Do not leave a patient alone with the machine, even sedated.
+- Do not continue if the mist darkens beyond approved range.
+- Weakest where the anomaly defines itself through genetic change.
+- Weakest where a patient holds multiple lawful baselines.
+- Weakest where repair would kill the adapted survivor.
+
+Mist band, scrubber capacity, and pod atmosphere are not recorded. Envelope: NOT MEASURED.
+
 OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+Emergency genetic repair, Level 4 Medical with Transformation Review.
+
+1. Verify patient identity and current danger.
+2. Confirm a baseline record is available.
+3. Confirm consent or emergency authority.
+4. Confirm aftercare capacity before activation.
+5. Have Transformation Review select a single treatment aim.
+6. Place the patient, check the seal, and start mapping.
+7. Start the mist cycle only after the baseline lock confirms.
+8. Halt if baseline confidence drops or the scrubbers fail.
+
+Step-down: the purge system clears the pod before the lid is opened. Emergency: irreversible
+correction and
+rapid full-body rewrite response are Level 5, and the 2024 halt is the standing
+example of stopping before
+the machine reconciles two baselines itself.
+
 Before use, Medical verifies patient identity, current danger, baseline availability, consent or emergency authority,
 and aftercare capacity. Transformation Review approves the target: restore baseline, halt decay, stabilize altered
 state, or preserve for later decision. The patient is placed in the pod, the
@@ -134,6 +229,51 @@ patterns.
 
 Do not use GPP for enhancement, cosmetic correction, convenience, punishment, interrogation recovery, or unauthorized
 transformation reversal. A living altered patient remains a person, not a damaged file.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Before each use            | seal, scanner, and purge check            | Level 4 Medical                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Scrubber cycle fault       | array service before further use          | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Mist concentration drift   | concentration recalibration               | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Glass-lid stress           | lid inspection and replacement            | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Vector library access      | Level 5 procedure                         | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| High-speed correction      | psychological aftercare                   | Medical Division                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; servicing follows use and scrubber state, so interval NOT
+MEASURED. The
+consumables are corrective vectors and scrubber media, both held at Level 5. The 2023
+rewrite is why
+aftercare is mandatory after a fast correction.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Patient reporting the body | high-speed full rewrite                   | aftercare; 2023 case                      |
+| voting                     |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Machine weighing two       | no single treatment aim                   | halt the mist; 2024 case                  |
+| baselines                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Mist concealing the patient| scrubber saturation                       | visibility rule; 2025 case                |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Baseline confidence falling| mismatch or vector rebellion              | halt before it sets                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Mist darker than approved  | concentration drift                       | purge and recalibrate                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Patient distressed by own  | identity distress after repair            | stop and refer to Ethics                  |
+| body                       |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 GPP cannot restore a missing soul, recover erased memory by itself, reverse every transformation,
@@ -189,9 +329,15 @@ damage to be corrected? Does the pink mist carry any long-term behavioral residu
 hostile vectors hide inside
 apparent successful repair? Should five-minute full rewrite remain authorized, or only terminal-emergency use? What
 counts as cure when the anomaly changed the patient's definition of health?
+- What is the approved mist concentration band, and who measures it during a
+  cycle?
+- What is held in the viral-vector library, and why is it kept at
+  Level 5?
+- How does Medical choose between two lawful baselines before activation?
+
 
 FILE METADATA
-Created: 2026-09-15
+Created: [Random Date]/[Random Month]/2XXX
 Author Desk: Medical Division / Transformation Review Board / Central Archive
 Review Status: Active restricted record; viral-vector libraries censored
 Next Review: After any irreversible repair, baseline dispute, scrubber fault, or patient identity distress

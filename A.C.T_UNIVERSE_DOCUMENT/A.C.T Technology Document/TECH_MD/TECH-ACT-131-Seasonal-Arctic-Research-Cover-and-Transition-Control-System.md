@@ -207,8 +207,10 @@ the weather help guard the door.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Surface Chief / Station Administration / Central Archive **Review Status:**
-Active surface research cover and seasonal transition technology record; airstrip schedules, transition routes, buried
-rosters, and cover-maintenance records censored **Next Review:** After any cover incident, transport-window failure,
-transition penetration attempt, convoy irregularity, publication audit, external communication fault, or
-weather-forced supply deviation
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Surface Chief / Station Administration / Central Archive
+- **Review Status:** Active surface research cover and seasonal transition technology record; airstrip
+  schedules, transition routes, buried rosters, and cover-maintenance records censored
+- **Next Review:** After any cover incident, transport-window failure, transition penetration attempt,
+  convoy irregularity, publication audit, external communication fault, or weather-forced supply
+  deviation

@@ -219,8 +219,8 @@ limited by regional variation, withheld ward maps, and patient-specific environm
 ## FILE METADATA
 
 ```text
-FILE CREATED:            16/09/2026
-FILE LAST UPDATED:       16/09/2026
+FILE CREATED:            [Random Date]/[Random Month]/2XXX
+FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
 FILE AUTHOR:             Medical Division / Subject Care / Engineering / Legal Joint Desk
 REVIEWED BY:             Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

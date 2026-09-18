@@ -202,8 +202,9 @@ understanding the path the copies want to take next.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Media Propagation Lead / Floor Research Chief / Central Archive
-**Review
-Status:** Active media-propagation technology record; live public-watch channels, media samples, response routes, and
-copy-chain maps censored **Next Review:** After any replication escape, false derivative ruling, analyst exposure,
-public intervention, Intelligence warning delay, or copy-chain map contamination
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Media Propagation Lead / Floor Research Chief / Central Archive
+- **Review Status:** Active media-propagation technology record; live public-watch channels, media
+  samples, response routes, and copy-chain maps censored
+- **Next Review:** After any replication escape, false derivative ruling, analyst exposure, public
+  intervention, Intelligence warning delay, or copy-chain map contamination

@@ -193,8 +193,9 @@ alive.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Campus Manager / Sub-Site Chief / Central Archive **Review Status:**
-Active
-agricultural cover record; legal identity, vendor lists, crop lines, transition links, and delivery exceptions
-censored **Next Review:** After any cover audit, visitor challenge, crop-record mismatch, delivery anomaly, laboratory
-scrutiny, or boundary exposure event
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Campus Manager / Sub-Site Chief / Central Archive
+- **Review Status:** Active agricultural cover record; legal identity, vendor lists, crop lines,
+  transition links, and delivery exceptions censored
+- **Next Review:** After any cover audit, visitor challenge, crop-record mismatch, delivery anomaly,
+  laboratory scrutiny, or boundary exposure event

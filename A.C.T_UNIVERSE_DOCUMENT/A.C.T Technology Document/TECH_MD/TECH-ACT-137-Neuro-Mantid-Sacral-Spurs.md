@@ -309,11 +309,9 @@ entry exists for them.
 
 ## FILE METADATA
 
-**Created:** 2026-09-18
-
-**Author Desk:** Field Command / Engineering Division / Medical Division / Central Archive
-
-**Review Status:** Active restricted tactical technology record; provenance and connector derivation unresolved
-
-**Next Review:** After any Guild Item-M2 recovery, any connector manufacturing breakthrough, or any mass-drift
-explanation
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Field Command / Engineering Division / Medical Division / Central Archive
+- **Review Status:** Active restricted tactical technology record; provenance and connector derivation
+  unresolved
+- **Next Review:** After any Guild Item-M2 recovery, any connector manufacturing breakthrough, or any
+  mass-drift explanation

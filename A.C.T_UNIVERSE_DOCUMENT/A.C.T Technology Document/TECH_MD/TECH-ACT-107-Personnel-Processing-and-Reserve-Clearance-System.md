@@ -214,8 +214,9 @@ permitted to walk through it.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Personnel Processing Office / Security Administration / Central Archive
-**Review Status:** Active personnel-clearance technology record; individual records, medical flags, credential keys,
-and denial files censored **Next Review:** After any clearance misuse, boundary access error, unreported
-exposure,
-isolation-fatigue removal, cover-role failure, or denial override
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Personnel Processing Office / Security Administration / Central Archive
+- **Review Status:** Active personnel-clearance technology record; individual records, medical flags,
+  credential keys, and denial files censored
+- **Next Review:** After any clearance misuse, boundary access error, unreported exposure,
+  isolation-fatigue removal, cover-role failure, or denial override

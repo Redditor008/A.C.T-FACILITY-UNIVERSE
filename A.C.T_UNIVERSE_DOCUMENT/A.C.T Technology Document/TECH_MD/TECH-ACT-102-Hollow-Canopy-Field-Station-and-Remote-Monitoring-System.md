@@ -194,9 +194,9 @@ the field changes.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Environmental Containment Lead / Research Support Lead / Central Archive
-**Review Status:** Active field station monitoring record; live station maps, sensor placements, resident data,
-and
-route schedules censored **Next Review:** After any data gap, sensor visibility event, station discovery,
-root-zone
-disturbance, resident behavior shift, or parent-reserve research dispute
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Environmental Containment Lead / Research Support Lead / Central Archive
+- **Review Status:** Active field station monitoring record; live station maps, sensor placements,
+  resident data, and route schedules censored
+- **Next Review:** After any data gap, sensor visibility event, station discovery, root-zone
+  disturbance, resident behavior shift, or parent-reserve research dispute

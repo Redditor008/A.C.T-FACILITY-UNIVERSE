@@ -594,8 +594,8 @@ distinguish what the body does from what may be affecting it.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            06/09/2026
-FILE LAST UPDATED:       06/09/2026
+FILE CREATED:            [Random Date]/[Random Month]/2XXX
+FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
 FILE AUTHOR:             Intelligence Division, Government Interface Desk
 REVIEWED BY:             Civil Covert Division / Central Archive Liaison
 FILE STATUS:             Active

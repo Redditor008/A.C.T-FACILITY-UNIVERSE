@@ -229,7 +229,9 @@ not reconstructed after damage occurs.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Maritime-Hold Command / Engineering Desk / Central Archive **Review Status:**
-Active pressure-management record; schematics, equalization formulas, and named restricted incidents censored **Next
-Review:** After any pressure-lock failure, deep resident transfer, equalization delay, Death Angler audit, or
-pressure-history recorder discrepancy
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Maritime-Hold Command / Engineering Desk / Central Archive
+- **Review Status:** Active pressure-management record; schematics, equalization formulas, and named
+  restricted incidents censored
+- **Next Review:** After any pressure-lock failure, deep resident transfer, equalization delay, Death
+  Angler audit, or pressure-history recorder discrepancy

@@ -235,8 +235,9 @@ Standing reminder: if the anchor contains a person, every maintenance action has
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Medical Division / White Grave Stasis Desk / Engineering Division
-/ Central
-Archive **Review Status:** Active case-restricted record; anchor-proximity and acoustic bridge details censored **Next
-Review:** After any resonance drift, transfer event, glass stress alarm, or acoustic bridge distress
-report
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Medical Division / White Grave Stasis Desk / Engineering Division / Central Archive
+- **Review Status:** Active case-restricted record; anchor-proximity and acoustic bridge details
+  censored
+- **Next Review:** After any resonance drift, transfer event, glass stress alarm, or acoustic bridge
+  distress report

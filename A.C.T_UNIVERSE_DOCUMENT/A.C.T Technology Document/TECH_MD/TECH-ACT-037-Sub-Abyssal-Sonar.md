@@ -239,7 +239,9 @@ emptiness is not staring back.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Maritime Observation Desk / Engineering Division / Central Archive **Review
-Status:** Active field and monitoring record; restricted depth-rendering and false-void algorithms censored **Next
-Review:** After any blind-predator breach, lost ROV transmission, spike drift event, or false-void mapping
-failure
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Maritime Observation Desk / Engineering Division / Central Archive
+- **Review Status:** Active field and monitoring record; restricted depth-rendering and false-void
+  algorithms censored
+- **Next Review:** After any blind-predator breach, lost ROV transmission, spike drift event, or
+  false-void mapping failure

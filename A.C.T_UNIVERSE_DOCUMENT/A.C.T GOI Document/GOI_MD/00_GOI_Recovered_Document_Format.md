@@ -358,6 +358,7 @@ FOLLOW-UP ORDERS:
 [Record actions without resolving unproven conditions.]
 
 FILE METADATA:
+
 FILE CREATED:
 FILE LAST UPDATED:
 FILE AUTHOR:
@@ -414,8 +415,8 @@ A.C.T will not:
 ### File Metadata
 
 ```text
-FILE CREATED:        12/09/2026
-FILE LAST UPDATED:   12/09/2026
+FILE CREATED:        [Random Date]/[Random Month]/2XXX
+FILE LAST UPDATED:   [Random Date]/[Random Month]/2XXX
 FILE AUTHOR:         Intelligence Division / Archiver Division
 REVIEWED BY:         External Threat Review / Central Archive
 FILE STATUS:         ACTIVE

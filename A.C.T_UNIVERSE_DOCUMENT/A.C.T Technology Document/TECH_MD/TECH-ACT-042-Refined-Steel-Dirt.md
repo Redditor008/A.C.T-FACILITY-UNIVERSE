@@ -236,7 +236,9 @@ Standing reminder: if the powder touches water, the decision has already been ma
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Materials Custody / Hazardous Materials Desk / Central Archive **Review
-Status:** Active refined-material record; outgassing suppression and hopper-valve engineering details censored **Next
-Review:** After any bloom event, hopper humidity alarm, Blue Haze detection, over-seal incident, or
-field deployment
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Materials Custody / Hazardous Materials Desk / Central Archive
+- **Review Status:** Active refined-material record; outgassing suppression and hopper-valve engineering
+  details censored
+- **Next Review:** After any bloom event, hopper humidity alarm, Blue Haze detection, over-seal
+  incident, or field deployment

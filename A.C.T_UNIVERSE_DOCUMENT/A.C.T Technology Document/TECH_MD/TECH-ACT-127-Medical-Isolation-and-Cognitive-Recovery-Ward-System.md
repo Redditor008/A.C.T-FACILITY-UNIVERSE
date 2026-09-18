@@ -204,8 +204,9 @@ contain anything through them.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Chief Medical Officer / Medical Division / Central Archive **Review
-Status:**
-Active medical isolation and cognitive-care technology record; patient identities, clinical ledgers, and restricted
-treatment details censored **Next Review:** After any isolation breach, memetic treatment recurrence,
-artifact-influence escalation, confidentiality dispute, staff exposure, or return-to-duty failure
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Chief Medical Officer / Medical Division / Central Archive
+- **Review Status:** Active medical isolation and cognitive-care technology record; patient identities,
+  clinical ledgers, and restricted treatment details censored
+- **Next Review:** After any isolation breach, memetic treatment recurrence, artifact-influence
+  escalation, confidentiality dispute, staff exposure, or return-to-duty failure

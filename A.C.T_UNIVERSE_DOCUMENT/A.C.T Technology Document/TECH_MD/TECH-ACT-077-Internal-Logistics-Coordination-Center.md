@@ -198,7 +198,9 @@ and alive with movement.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Relay Administration / Internal Logistics / Central Archive **Review
-Status:** Active logistics coordination record; route maps, custody ledgers, and priority tables censored **Next
-Review:** After any misrouted material, missing return confirmation, emergency movement freeze, port delay, sample
-transfer incident, or seismic routing drill
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Relay Administration / Internal Logistics / Central Archive
+- **Review Status:** Active logistics coordination record; route maps, custody ledgers, and priority
+  tables censored
+- **Next Review:** After any misrouted material, missing return confirmation, emergency movement freeze,
+  port delay, sample transfer incident, or seismic routing drill

@@ -3745,3 +3745,55 @@ GOI_TXT 34, widest box line 118, over-limit lines in touched files 5 before and 
 --check rc=0.
 
 **Next action.** Resume at TECH-ACT-016 through TECH-ACT-020.
+
+## Prompt Log — 2026-09-18 17:26 UTC
+
+**Task.** Two items. First, every FILE METADATA block had to stop carrying real-world dates. Second,
+continue the double proceed on the TECH-ACT upgrade at records 016 through 025.
+
+**Repository state recovered first.** The local clone had been reset to the pre-session base commit
+while the working tree still held the finished work. The remote branch tip was fetched, all
+fifty-three files that the local index did not know were compared byte for byte against it, and the
+branch was reset onto the fetched tip. Nothing was lost and no history was rewritten.
+
+**Dates.** Every date inside a FILE METADATA block now reads the placeholder [Random Date]/[Random
+Month]/2XXX. 378 files changed: 136 markdown blocks rebuilt as a bold label list, 5 all-caps
+markdown blocks rebuilt the same way, 48 fenced metadata blocks re-dated in place, and 189 text
+twins re-dated. Residual real dates inside metadata blocks: zero.
+
+**Why the metadata blocks were rebuilt rather than re-dated.** The placeholder is 23 characters
+longer than the date it replaces, and 130 markdown lines would have passed 118 characters. A pipe
+table could not absorb the length either, because a line break inside a cell does not shorten the
+source line. The run-on paragraph was therefore broken into one bullet per field, which also answers
+the standing complaint that metadata rendered as a single paragraph.
+
+**Records 016 to 025.** Each gained a TECHNICAL SPECIFICATION table, an INTERFACE AND OPERATING
+ENVELOPE chapter, a numbered operating sequence with step-down and emergency lines, a SERVICING AND
+CALIBRATION schedule, a FAULT ISOLATION table, and three new OPEN QUESTIONS, in both TECH_MD and
+TECH_TXT.
+
+**Per-record tailoring.** CTC is specified as a phase-existent line whose shunt displays sit every
+five meters. VIS records a two-meter opaque glass-ceramic sphere and its mechanical pressure disc.
+NEC records a probability map rather than a bearing. CSS carries liquid nitrogen per activation. RRI
+is a consumable ink counted in inkwells. SVS records a needle that can move during silence. SSF
+holds 37 degrees C against a subject-mixture tag. GPP records a five-minute window that is
+advertised rather than promised. PWS records a blade that never dulls and must therefore be counted.
+TLB records a beam whose cleanliness matters more than its brightness.
+
+**Word counts.** 016 1584 to 2397, 017 1525 to 2289, 018 1585 to 2330, 019 1420 to 2149, 020 1423 to
+2197, 021 1436 to 2174, 022 1326 to 2049, 023 1401 to 2157, 024 1480 to 2251, 025 1354 to 2069.
+Every record now carries 14 H2 chapters.
+
+**Traps found by guards, not by eye.** A label splitter that disallowed newlines swallowed a
+metadata label that the source paragraph had wrapped in half, so whitespace is normalised before
+splitting now. An all-caps section detector treated a line such as FILE CREATED: as a heading and
+cut the section short. An all-caps label matcher read the value ACTIVE / RESTRICTED as the start of
+a new label, so those five files are parsed against a fixed label list. Every pass now collects all
+results in memory and writes nothing unless the failure list is empty.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, UTF8_ERR 0, CONFLICT 0,
+multiH1 0, odd-fence 0, md-with-box 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204, GOI_MD 34 =
+GOI_TXT 34, widest box line 118, real-dated metadata blocks 0, over-limit lines in touched files 297
+before and 297 after, git diff --check rc=0.
+
+**Next action.** Resume at TECH-ACT-026 through TECH-ACT-030.

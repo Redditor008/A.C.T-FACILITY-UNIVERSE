@@ -216,7 +216,9 @@ worker is allowed to be.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Personnel and Clearance Office / Node Administration / Central Archive
-**Review Status:** Active personnel-boundary technology record; individual clearance identities, denial reasons,
-transition endpoints, and override records censored **Next Review:** After any clearance drift, public-role overreach,
-transition incident, escort failure, denial reversal, operational slang exposure, or access-core boundary event
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Personnel and Clearance Office / Node Administration / Central Archive
+- **Review Status:** Active personnel-boundary technology record; individual clearance identities,
+  denial reasons, transition endpoints, and override records censored
+- **Next Review:** After any clearance drift, public-role overreach, transition incident, escort
+  failure, denial reversal, operational slang exposure, or access-core boundary event

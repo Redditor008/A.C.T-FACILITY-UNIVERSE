@@ -223,7 +223,9 @@ in public.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Foundation Director / Security Boundary Office / Central Archive **Review
-Status:** Active surface-separation technology record; transition routes, cover phrases, public witnesses, and
-suspect-item receipts censored **Next Review:** After any delayed transfer, digitization halt, public observer
-exposure, staff preliminary-study violation, sealed carrier failure, or surface seal action
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Foundation Director / Security Boundary Office / Central Archive
+- **Review Status:** Active surface-separation technology record; transition routes, cover phrases,
+  public witnesses, and suspect-item receipts censored
+- **Next Review:** After any delayed transfer, digitization halt, public observer exposure, staff
+  preliminary-study violation, sealed carrier failure, or surface seal action

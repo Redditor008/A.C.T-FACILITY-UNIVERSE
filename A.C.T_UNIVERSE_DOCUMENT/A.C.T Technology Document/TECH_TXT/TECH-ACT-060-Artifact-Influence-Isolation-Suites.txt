@@ -197,7 +197,7 @@ understanding of the artifact that caused it?
 
 FILE METADATA
 
-Created: 2026-09-15
+Created: [Random Date]/[Random Month]/2XXX
 Author Desk: Medical Division / Redwood Veil F-6 / Central Archive
 Review Status: Active medical containment record; suite layout, escalation thresholds, and patient ledgers censored
 Next Review: After any isolation breach, false recovery, confidentiality dispute, security-overreach event, or active

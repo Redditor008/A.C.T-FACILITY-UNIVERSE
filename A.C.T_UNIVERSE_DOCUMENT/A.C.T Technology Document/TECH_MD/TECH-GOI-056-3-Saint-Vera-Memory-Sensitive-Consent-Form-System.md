@@ -208,14 +208,9 @@ technology index.
 
 ## FILE METADATA
 
-FILE CREATED: 18/09/2026
-
-FILE LAST UPDATED: 18/09/2026
-
-FILE AUTHOR: Subject Care Division / Medical Division Joint Desk
-
-REVIEWED BY: Central Archive
-
-FILE STATUS: ACTIVE / RESTRICTED
-
-RECORD CONDITION: OPERATIONAL
+- FILE CREATED: [Random Date]/[Random Month]/2XXX
+- FILE LAST UPDATED: [Random Date]/[Random Month]/2XXX
+- FILE AUTHOR: Subject Care Division / Medical Division Joint Desk
+- REVIEWED BY: Central Archive
+- FILE STATUS: ACTIVE / RESTRICTED
+- RECORD CONDITION: OPERATIONAL

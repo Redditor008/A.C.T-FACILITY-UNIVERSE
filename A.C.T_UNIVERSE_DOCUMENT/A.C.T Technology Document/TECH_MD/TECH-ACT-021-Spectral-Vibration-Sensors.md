@@ -104,6 +104,34 @@ thresholds.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and monitoring doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| SENSOR PARAMETER | VALUE |
+|---|---|
+| Form | wall-mounted sensor housing, matte gray or off-white |
+| Adjustment | sensitivity calibrator dial |
+| Primary indicator | bone-white narrative-tempo needle behind a glass pane |
+| Warning | amber digital script-manifestation light |
+| Local alert | internal low metallic clicker |
+| Pickup | vibration pickup plate |
+| Comparison | acoustic-leak comparison chip |
+| Records | event log spool |
+| Output | CSG alert output line |
+| Pairing | remote logs, room microphones, CSG panels, BWB monitors |
+| Frequency range | NOT MEASURED |
+| Needle baseline definition | NOT MEASURED |
+| Amber threshold | NOT MEASURED |
+| Power draw | NOT MEASURED |
+
+The needle can move during silence because the signal is not always audible yet,
+and the amber light marks
+script-manifestation risk rather than confirmed breach. The clicker is deliberately audible: a silent alarm
+preserves calm, but a small click teaches personnel to stop talking and listen.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard SVS is a wall-mounted box with a sensitivity calibrator dial, a bone-white
@@ -133,7 +161,53 @@ personnel to stop talking and listen.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Sensor Controls
+
+- sensitivity calibrator dial
+- amber light test
+- event log spool
+- CSG alert output line
+
+### Needle And Light Readouts
+
+- bone-white narrative-tempo needle
+- amber script-manifestation light
+- low metallic clicker
+- acoustic-leak comparison against local baseline
+
+### Monitoring And Personnel Limits
+
+- Do not reduce sensitivity because the clicking is annoying.
+- Do not tap along with the sensor or hum to test whether it
+  answers.
+- Do not speak a suspected rhythm aloud.
+- Do not record a leaking song into an unsecured device.
+- Withdraw attention if personnel begin predicting the next click.
+- Weakest against hazards that avoid sound or use visual rhythm.
+- Weakest against hazards that imitate random noise deliberately.
+
+Frequency range and amber threshold are not recorded. Monitoring envelope: NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Zone monitoring, Level 3 with Info-Hazard notification.
+
+1. Confirm the needle rests within local baseline at shift start.
+2. Test the amber light.
+3. Leave sensitivity at the calibrated setting.
+4. Reduce speech if the needle moves without an obvious source.
+5. Check BWB status where a broadcast zone is fitted.
+6. Notify Info-Hazard on unexplained regular movement.
+7. Enter script-risk response when the amber light flashes.
+8. Begin CSG review and file the event log spool.
+
+Step-down: sensitivity returns to the calibrated setting after any test and never to a
+quieter one.
+Emergency: an amber flash starts script-risk response even when nothing audible has happened yet.
 
 SVS units run continuously in assigned zones. At shift start, personnel confirm that the
 needle rests within local
@@ -156,6 +230,34 @@ boring. SVS watches for boredom becoming
 pattern. CSG may suppress narrative escalation after SVS indicates that a stage is forming.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| At shift start | baseline and amber light test | Level 3, locally certified |
+| Narrative-tempo calibration | Level 4 procedure | Level 4 |
+| Needle fatigue suspected | movement check against baseline | Engineering Division |
+| Amber light failure | lamp and driver replacement | Engineering Division |
+| Clicker contamination | cleaning and log review | Info-Hazard Division |
+| Event log spool full | spool change and archive | Archive Division |
+
+No calendar interval is recorded; servicing is triggered by baseline drift and lamp state,
+so interval NOT
+MEASURED. The consumables are the log spool and the amber lamp. The 2015 corridor
+is why annoyance is never
+accepted as calibration evidence.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Low clicking for several days | script leakage read as machinery | check files; 2009 case |
+| No amber on a real compulsion | sensitivity reduced by staff | restore calibration |
+| Micro-pauses in a dull broadcast | BWB pattern forming | act early; 2021 case |
+| Needle stuck at baseline | needle fatigue | bench check before trusting it |
+| Staff predicting the clicks | rhythm sympathy | rotate staff out of the zone |
+| Clicker sounding alone | clicker contamination | clean and re-baseline |
 
 ## KNOWN LIMITS
 
@@ -230,10 +332,19 @@ Standing reminder: if the room develops rhythm, assume something is counting peo
 - Should SVS data be mirrored into QNB after every amber warning?
 - Can repeated clicking become its own hazard in high-sensitivity archive wings?
 
+- What frequency range does the pickup plate actually cover, and what falls outside
+  it?
+- How is the amber threshold set, and has it ever been published to
+  zone staff?
+- What did the three files gain in the 2009 event, and were the
+  line matches explained?
+
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Archive Division / Info-Hazard Division / Engineering Division / Central
-Archive **Review Status:** Active restricted record; narrative-tempo calibration censored **Next Review:** After any
-missed script event, overtuning incident, clicker contamination, or BWB pattern warning
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Archive Division / Info-Hazard Division / Engineering Division / Central Archive
+- **Review Status:** Active restricted record; narrative-tempo calibration censored
+- **Next Review:** After any missed script event, overtuning incident, clicker contamination, or BWB
+  pattern warning

@@ -200,7 +200,7 @@ deteriorating in isolation?
 
 FILE METADATA
 
-Created: 2026-09-16
+Created: [Random Date]/[Random Month]/2XXX
 Author Desk: Personnel Processing Office / Security Administration / Central Archive
 Review Status: Active personnel-clearance technology record; individual records, medical flags, credential keys, and
 denial files censored

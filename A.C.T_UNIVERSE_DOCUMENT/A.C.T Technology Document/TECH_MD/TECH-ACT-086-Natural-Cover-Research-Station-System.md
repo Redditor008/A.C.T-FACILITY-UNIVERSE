@@ -207,8 +207,9 @@ daylight.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Station Manager / Watch Chief / Central Archive **Review Status:**
-Active
-surface cover record; station legal identity, visitor lists, transition schedules, and boundary controls censored
-**Next Review:** After any cover incident, visitor breach attempt, paperwork mismatch, vessel-pattern concern,
-boundary exposure, or silent withdrawal event
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Station Manager / Watch Chief / Central Archive
+- **Review Status:** Active surface cover record; station legal identity, visitor lists, transition
+  schedules, and boundary controls censored
+- **Next Review:** After any cover incident, visitor breach attempt, paperwork mismatch, vessel-pattern
+  concern, boundary exposure, or silent withdrawal event

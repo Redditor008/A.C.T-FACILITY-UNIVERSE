@@ -232,6 +232,9 @@ whether A.C.T deserves to enter.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Tactical Review Desk / Engineering Division / Central Archive **Review
-Status:** Active tactical record; recognition filter and future-operative pattern source censored **Next Review:**
-After any mission-scope request, simulation bleed, drone-loss anomaly, or sovereign-site routing failure
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Tactical Review Desk / Engineering Division / Central Archive
+- **Review Status:** Active tactical record; recognition filter and future-operative pattern source
+  censored
+- **Next Review:** After any mission-scope request, simulation bleed, drone-loss anomaly, or
+  sovereign-site routing failure

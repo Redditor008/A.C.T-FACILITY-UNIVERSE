@@ -231,10 +231,9 @@ object, crew, platform record, and cover story all arrive intact.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Maritime Recovery Command / Nusantara Deep Relay / Central Archive
-**Review
-Status:** Active maritime platform record; vessel classes, port routes, and live platform names censored
-**Next
-Review:** After any sea-bound breach, platform loss, port handoff delay, vessel-cover compromise, Sonar Void
-pursuit
-event, or Death Angler-related exercise
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Maritime Recovery Command / Nusantara Deep Relay / Central Archive
+- **Review Status:** Active maritime platform record; vessel classes, port routes, and live platform
+  names censored
+- **Next Review:** After any sea-bound breach, platform loss, port handoff delay, vessel-cover
+  compromise, Sonar Void pursuit event, or Death Angler-related exercise

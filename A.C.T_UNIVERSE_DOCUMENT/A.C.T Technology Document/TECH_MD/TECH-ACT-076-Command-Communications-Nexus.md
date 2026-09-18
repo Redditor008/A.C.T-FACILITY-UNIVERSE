@@ -211,8 +211,9 @@ through channels that can be verified.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Command Support / Nusantara Site Command / Central Archive **Review
-Status:**
-Active command communications record; live channels, authentication keys, and external network routes censored **Next
-Review:** After any misrouted order, command dropout, platform communication failure, F-1 closure command, protected
-circuit fault, or emergency broadcast dispute
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Command Support / Nusantara Site Command / Central Archive
+- **Review Status:** Active command communications record; live channels, authentication keys, and
+  external network routes censored
+- **Next Review:** After any misrouted order, command dropout, platform communication failure, F-1
+  closure command, protected circuit fault, or emergency broadcast dispute

@@ -272,11 +272,9 @@ entry sits in the GOI series because there was nowhere else to put it.
 
 ## FILE METADATA
 
-**Created:** 2026-09-18
-
-**Author Desk:** Intelligence Division / Archive Division / Central Archive
-
-**Review Status:** Active restricted GOI technology record; manufacturer identity and ledger location unresolved
-
-**Next Review:** After any new fragment recovery, any recall lot reconciliation, or any authorized
-contact attempt
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Intelligence Division / Archive Division / Central Archive
+- **Review Status:** Active restricted GOI technology record; manufacturer identity and ledger location
+  unresolved
+- **Next Review:** After any new fragment recovery, any recall lot reconciliation, or any authorized
+  contact attempt

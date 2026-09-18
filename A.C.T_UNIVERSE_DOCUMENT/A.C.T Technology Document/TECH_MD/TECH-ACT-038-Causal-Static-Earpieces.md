@@ -238,8 +238,8 @@ back.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Narrative Hazard Desk / Field Containment Division / Central Archive
-**Review
-Status:** Active field gear record; logic-anchor tuning and static profiles censored **Next Review:** After
-any
-scripted-state breach, consensus shift, battery failure, or field removal incident
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Narrative Hazard Desk / Field Containment Division / Central Archive
+- **Review Status:** Active field gear record; logic-anchor tuning and static profiles censored
+- **Next Review:** After any scripted-state breach, consensus shift, battery failure, or field removal
+  incident

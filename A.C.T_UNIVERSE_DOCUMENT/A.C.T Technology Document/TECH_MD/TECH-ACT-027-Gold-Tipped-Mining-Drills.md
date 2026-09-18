@@ -235,7 +235,8 @@ yes.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Engineering Division / Dark World Survey Desk / Materials Custody
-/ Central
-Archive **Review Status:** Active restricted record; gold-bit and architecture plans censored **Next Review:** After
-any gold wear-through, dust leak, hollow agreement reading, or unauthorized Pale Wood modification
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Engineering Division / Dark World Survey Desk / Materials Custody / Central Archive
+- **Review Status:** Active restricted record; gold-bit and architecture plans censored
+- **Next Review:** After any gold wear-through, dust leak, hollow agreement reading, or unauthorized
+  Pale Wood modification

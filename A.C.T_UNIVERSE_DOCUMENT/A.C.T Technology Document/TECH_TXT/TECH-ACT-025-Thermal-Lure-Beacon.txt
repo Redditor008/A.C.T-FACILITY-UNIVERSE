@@ -97,6 +97,48 @@ High-output settings are restricted because a lure bright enough to redirect an 
 may also cook a room,
 trigger mating behavior, or attract the wrong organism.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and handling procedure. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| BEACON PARAMETER           | VALUE                                                                                 |
++============================+=======================================================================================+
+| Form                       | floor-standing industrial lamp on a weighted base                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Beam shaping               | folding Focus Hood                                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Output                     | dark orange when visible, mostly infrared                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Control                    | Digital Heat-Dial for intensity and ramp speed                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cooling                    | redacted-grade cooling unit in the base                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Safety                     | ramp-speed limiter and emergency shutter                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Sensing                    | thermal spill sensor                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Configuration              | subject-profile setting tag                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Records                    | post-use heat log                                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Field fittings             | carry handles and locking legs                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Habitat fittings           | wall or track mounted variants                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Maximum output             | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Beam angle and throw       | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cooling unit specification | REDACTED                                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+
+A clean beam matters more than a bright one, because scatter creates several false
+targets and confuses the
+subject. The beacon offers a better option; it does not issue a command.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 A standard TLB is a floor-standing industrial lamp on a weighted base. The folding
 Focus Hood shapes the beam. The
@@ -114,7 +156,52 @@ post-use heat log.
 A clean beam is more important than a bright beam. Scatter can create several
 false targets and confuse the subject.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Dial And Hood Controls
+
+- Digital Heat-Dial
+- folding Focus Hood
+- ramp-speed limiter
+- emergency shutter
+
+Thermal Readouts
+
+- thermal spill sensor
+- subject-profile setting tag
+- post-use heat log
+- cooling unit state
+
+Habitat And Personnel Limits
+
+- Do not aim the beacon at staff routes or enclosure glass.
+- Do not ramp quickly unless breach procedure authorizes it.
+- Do not crowd the subject; it must be able to choose the lure.
+- Do not pair heat guidance with food reward in juvenile habitats.
+- Weakest against subjects that are not heat-motivated or are in pain.
+- Weakest against heat-feeding hazards and organisms reading warmth as prey.
+
+Maximum output, beam angle, and throw are not recorded. Envelope: NOT MEASURED.
+
 OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+Non-hostile relocation, Level 2 habitat or Level 3 recovery.
+
+1. Confirm the subject file and safe temperature range.
+2. Confirm the route, destination, and room humidity.
+3. Identify competing stimuli before switching on.
+4. Place the beacon so the path is obvious and staff-safe.
+5. Check the beam shape before output rises.
+6. Raise temperature slowly on the ramp limiter.
+7. Give the subject room to choose the lure.
+8. File the post-use heat log.
+
+Step-down: output is lowered before the beacon is moved and it is never carried
+hot. Emergency: the shutter
+closes output immediately where thermal spill reaches a staff route or the habitat baseline.
+
 Before use, staff confirm subject file, safe temperature range, route, destination, room humidity, and
 competing
 stimuli. The beacon is placed so the desired movement path is obvious to the
@@ -134,6 +221,53 @@ guide.
 Do not aim TLB at personnel, flammable storage, untreated containment glass, sleeping subjects without
 file approval,
 or other beacons without route planning. Do not use heat to tease a subject.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Before each use            | beam shape, hood, and shutter check       | Level 2, locally certified                |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Focus Hood damage          | hood replacement before use               | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Heat-dial drift            | dial calibration                          | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Cooling unit fault         | unit service before further output        | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| High-output settings       | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Predator routing           | Level 4 authorization                     | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; servicing follows use and cooling state, so interval NOT
+MEASURED. There
+is no consumable, but the post-use heat log is retained per subject. The 2009
+split beam is why beam shape
+is checked before output rather than after.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Two thermal targets in one | damaged Focus Hood                        | stop and replace; 2009 case               |
+| bay                        |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Subject halting at a       | ramp too fast for the route               | slow ramping; 2024 case                   |
+| threshold                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Subject sitting by cold    | heat paired with food reward              | separate cues; 2025 case                  |
+| units                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Beam scattering across a   | hood misalignment                         | reshape before continuing                 |
+| wall                       |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Housing running hot        | cooling unit failing                      | shutter and service                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Spill reaching a staff     | placement error                           | shutter and reposition                    |
+| route                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 TLB fails against subjects that are not heat-motivated, subjects in pain, starving predators, mating
@@ -189,9 +323,14 @@ can output rise before
 non-hostile relocation becomes coercive harm? Should TLB logs be attached to every feeding record
 for large predators?
 Can thermal lure behavior reveal hidden illness before medical symptoms appear?
+- What is the maximum output, and at what distance does the lure stop
+  being directional?
+- What does the redacted-grade cooling unit contain, and who services it?
+- How is overconditioning detected before a subject waits beside cold units?
+
 
 FILE METADATA
-Created: 2026-09-15
+Created: [Random Date]/[Random Month]/2XXX
 Author Desk: Subject Care Division / Biological Containment Division / Central Archive
 Review Status: Active restricted record; high-output settings censored
 Next Review: After any beam scatter event, predator misroute, habitat overheating, or subject conditioning

@@ -206,7 +206,9 @@ exits are possible before it trusts the shelf.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Floor Holding Archivist / Document-Holding Command / Central Archive **Review
-Status:** Active signal-isolated storage technology record; live storage maps, holding identities, signal logs, and
-escalation thresholds censored **Next Review:** After any signal leak, metadata carrier incident, quarantine
-reassignment, F-2 escalation, F-4 sample-control dispute, storage-row cross-talk, or monitoring anomaly
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Floor Holding Archivist / Document-Holding Command / Central Archive
+- **Review Status:** Active signal-isolated storage technology record; live storage maps, holding
+  identities, signal logs, and escalation thresholds censored
+- **Next Review:** After any signal leak, metadata carrier incident, quarantine reassignment, F-2
+  escalation, F-4 sample-control dispute, storage-row cross-talk, or monitoring anomaly

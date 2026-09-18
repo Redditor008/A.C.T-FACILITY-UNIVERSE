@@ -387,6 +387,8 @@ made to anomalies are expensive.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Recovery Division / Engineering Division / Central Archive **Review Status:**
-Active restricted record; deployment geometry censored **Next Review:** After any multi-nail failure, living-target
-request, FCA loading incident, or post-use return event
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Recovery Division / Engineering Division / Central Archive
+- **Review Status:** Active restricted record; deployment geometry censored
+- **Next Review:** After any multi-nail failure, living-target request, FCA loading incident, or
+  post-use return event

@@ -196,8 +196,9 @@ threshold.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Campus Boundary Desk / Security Division / Central Archive **Review
-Status:**
-Active concealed-transition record; live route maps, masks, identity checks, and emergency seals censored **Next
-Review:** After any unlogged descent, contractor approach, surface exposure event, emergency seal, cargo-route
-mismatch, or F-5 handoff failure
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Campus Boundary Desk / Security Division / Central Archive
+- **Review Status:** Active concealed-transition record; live route maps, masks, identity checks, and
+  emergency seals censored
+- **Next Review:** After any unlogged descent, contractor approach, surface exposure event, emergency
+  seal, cargo-route mismatch, or F-5 handoff failure

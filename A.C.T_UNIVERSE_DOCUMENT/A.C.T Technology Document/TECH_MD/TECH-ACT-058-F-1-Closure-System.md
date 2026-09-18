@@ -209,7 +209,9 @@ Standing reminder: F-1 closes so the rest of the site remains a site.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Deep-Hold Command / Engineering / Central Archive **Review Status:** Active
-deep containment infrastructure record; closure maps and trigger thresholds censored **Next Review:** After any
-live
-closure, drill hesitation, service-isolation fault, reentry delay, or Hanging Vault retrofit
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Deep-Hold Command / Engineering / Central Archive
+- **Review Status:** Active deep containment infrastructure record; closure maps and trigger thresholds
+  censored
+- **Next Review:** After any live closure, drill hesitation, service-isolation fault, reentry delay, or
+  Hanging Vault retrofit

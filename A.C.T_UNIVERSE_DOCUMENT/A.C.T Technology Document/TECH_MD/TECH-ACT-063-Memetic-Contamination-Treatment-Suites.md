@@ -223,7 +223,9 @@ follows what care proves.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Medical Division / Cognitive Care / Central Archive **Review Status:**
-Active
-medical cognitive-care record; treatment thresholds and trigger-handling procedures censored **Next Review:** After
-any treatment amplification, clinician contamination, false recovery, unsafe note release, or amnestic-use dispute
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Medical Division / Cognitive Care / Central Archive
+- **Review Status:** Active medical cognitive-care record; treatment thresholds and trigger-handling
+  procedures censored
+- **Next Review:** After any treatment amplification, clinician contamination, false recovery, unsafe
+  note release, or amnestic-use dispute

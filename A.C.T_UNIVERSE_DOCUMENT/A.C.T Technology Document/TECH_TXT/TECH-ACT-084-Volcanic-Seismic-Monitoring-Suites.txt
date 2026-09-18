@@ -191,7 +191,7 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-Created: 2026-09-15
+Created: [Random Date]/[Random Month]/2XXX
 Author Desk: Seismic Monitoring Staff / Watch Officer / Central Archive
 Review Status: Active volcanic-seismic monitoring record; live sensor positions, withdrawal thresholds, and escalation
 keys censored

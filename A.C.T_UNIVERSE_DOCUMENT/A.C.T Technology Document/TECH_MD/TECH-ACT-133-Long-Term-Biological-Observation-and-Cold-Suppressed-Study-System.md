@@ -201,9 +201,10 @@ cold.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Floor Research Chief / Research Division / Central Archive **Review
-Status:**
-Active long-term biological observation technology record; resident identities, sample lines, study rosters, and
-observation streams censored **Next Review:** After any sample-control breach, cold-condition drift, long-observation
-anomaly, study restriction dispute, Medical exposure incident, Archive mirror fault, or resident activation during
-research
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Floor Research Chief / Research Division / Central Archive
+- **Review Status:** Active long-term biological observation technology record; resident identities,
+  sample lines, study rosters, and observation streams censored
+- **Next Review:** After any sample-control breach, cold-condition drift, long-observation anomaly,
+  study restriction dispute, Medical exposure incident, Archive mirror fault, or resident activation
+  during research

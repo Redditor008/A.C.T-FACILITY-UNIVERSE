@@ -207,7 +207,9 @@ fails downward through stone.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Relay Administration / Personnel Support Office / Central Archive **Review
-Status:** Active personnel-sustainment technology record; room assignments, duty-cycle names, Medical notes, and
-population stress markers censored **Next Review:** After any personnel fatigue event, post-shift accounting failure,
-seismic shelter use, housing conflict, supply disruption, or protected-rest override
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Relay Administration / Personnel Support Office / Central Archive
+- **Review Status:** Active personnel-sustainment technology record; room assignments, duty-cycle names,
+  Medical notes, and population stress markers censored
+- **Next Review:** After any personnel fatigue event, post-shift accounting failure, seismic shelter
+  use, housing conflict, supply disruption, or protected-rest override

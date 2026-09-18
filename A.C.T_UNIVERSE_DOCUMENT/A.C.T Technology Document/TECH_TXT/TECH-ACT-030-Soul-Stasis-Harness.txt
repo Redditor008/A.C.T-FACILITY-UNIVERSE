@@ -196,7 +196,7 @@ anchor custody without making the occupied
 object feel handled?
 
 FILE METADATA
-Created: 2026-09-15
+Created: [Random Date]/[Random Month]/2XXX
 Author Desk: Medical Division / White Grave Stasis Desk / Engineering Division / Central
 Archive
 Review Status: Active case-restricted record; anchor-proximity and acoustic bridge details censored

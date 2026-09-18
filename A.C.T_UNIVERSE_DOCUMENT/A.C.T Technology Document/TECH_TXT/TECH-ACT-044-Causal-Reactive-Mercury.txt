@@ -185,7 +185,7 @@ postpone a reverse spill? Does the liquid remember every container it has not ye
 occupied?
 
 FILE METADATA
-Created: 2026-09-15
+Created: [Random Date]/[Random Month]/2XXX
 Author Desk: Temporal Analysis Desk / Materials Custody / Central Archive
 Review Status: Active temporal-material record; sample quantities and stasis-field geometry censored
 Next Review: After any regression event, upward fall pressure, observer imprint symptom, flask transfer,

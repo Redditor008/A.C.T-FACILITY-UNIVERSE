@@ -201,8 +201,9 @@ claim of ownership.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Recovery Support Lead / Watch Officer / Central Archive **Review
-Status:**
-Active recovery staging record; live route maps, vessel contacts, equipment manifests, and emergency exceptions
-censored **Next Review:** After any premature launch, intake overload, route failure, sea-entry abort, unauthorized
-recovery movement, or parent-relay authority dispute
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Recovery Support Lead / Watch Officer / Central Archive
+- **Review Status:** Active recovery staging record; live route maps, vessel contacts, equipment
+  manifests, and emergency exceptions censored
+- **Next Review:** After any premature launch, intake overload, route failure, sea-entry abort,
+  unauthorized recovery movement, or parent-relay authority dispute

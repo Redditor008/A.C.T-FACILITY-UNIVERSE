@@ -212,7 +212,9 @@ prove later.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Redaction Authority Desk / Archive Division / Central Archive **Review
-Status:** Active redaction-release technology record; source texts, release identifiers, objection details, and recall
-routes censored **Next Review:** After any unsafe release, recall action, redaction dispute, filtering-history gap,
-Medical exposure note, Intelligence objection, or minimum-release override
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Redaction Authority Desk / Archive Division / Central Archive
+- **Review Status:** Active redaction-release technology record; source texts, release identifiers,
+  objection details, and recall routes censored
+- **Next Review:** After any unsafe release, recall action, redaction dispute, filtering-history gap,
+  Medical exposure note, Intelligence objection, or minimum-release override

@@ -525,8 +525,8 @@ ARCHIVE RECEIPT:
 ### File Metadata
 
 ```text
-FILE CREATED:        12/09/2026
-FILE LAST UPDATED:   12/09/2026
+FILE CREATED:        [Random Date]/[Random Month]/2XXX
+FILE LAST UPDATED:   [Random Date]/[Random Month]/2XXX
 FILE AUTHOR:         Security Division / Archiver Division
 REVIEWED BY:         Site Command / Recovery Division / Containment Division
 FILE STATUS:         ACTIVE WORKING FORM

@@ -202,8 +202,9 @@ years to repeat itself.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Archive Division / Records and Monitoring Chief / Central Archive
-**Review
-Status:** Active records-vault technology; storage maps, baseline sets, and reclassification ledgers censored **Next
-Review:** After any missing record, baseline dispute, sensor-health mismatch, reclassification event, environmental
-vault fault, or unauthorized comparison request
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Archive Division / Records and Monitoring Chief / Central Archive
+- **Review Status:** Active records-vault technology; storage maps, baseline sets, and reclassification
+  ledgers censored
+- **Next Review:** After any missing record, baseline dispute, sensor-health mismatch, reclassification
+  event, environmental vault fault, or unauthorized comparison request

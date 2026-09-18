@@ -97,6 +97,52 @@ Dark World source chains remain restricted because untracked Pale Wood can becom
 or weapon
 material with very different consequences.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and surgical procedure. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| TOOL PARAMETER             | VALUE                                                                                 |
++============================+=======================================================================================+
+| Form                       | heavy surgical knife                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Blade                      | shard of white bark-less Pale Wood, bone-like finish                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Finish                     | faint pearlescent sheen                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Edge behaviour             | does not dull in ordinary use                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Material paradox           | damage resistant, vulnerable to 24k gold                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Guidance                   | laser-tracking rail in the spine                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Alignment                  | subject signature alignment system                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Handle                     | heavy surgical steel with vibration-dampening padding                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Emergency                  | gold-lined sheath                                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Support kit                | sterile restraint tray                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Records                    | cut-path log chip                                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Inspection                 | post-use fiber inspection strip                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Blade length and mass      | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Tracking rail range        | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Source material quantity   | not recorded at this clearance                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+
+A tool that never dulls must be counted more carefully than one that does.
+The gold-lined sheath is an
+emergency stop rather than storage, and the 2014 nick is why contact with it
+during cleaning retires a blade
+from surgery.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 A standard PWS resembles a heavy surgical knife. The blade is a razor-sharp shard
 of white bark-less wood with a
@@ -114,7 +160,55 @@ restraint tray; cut-path log chip; and post-use fiber inspection strip.
 The blade does not dull in ordinary use. A tool that never dulls must
 be counted more carefully than one that does.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Operator Controls
+
+- laser-tracking rail
+- subject signature alignment
+- vibration-dampened handle grip
+- gold-lined emergency sheath
+
+Cut-Path Readouts
+
+- projected approved cut path
+- signature alignment confirmation
+- cut-path log chip
+- post-use fiber inspection strip
+
+Surgical And Personnel Limits
+
+- Do not begin until the laser rail confirms the approved path.
+- Do not use PWS for routine surgery where ordinary instruments work.
+- Do not cut a rope analog before restraints have pinned it.
+- Do not let the blade touch the gold sheath outside an emergency.
+- Weakest where the subject signature is wrong or changes mid-cut.
+- Weakest where Pale Wood reacts to related Dark World material.
+- Weakest against subjects that read a cut as kinship or invitation.
+
+Blade dimensions and rail range are not recorded. Surgical envelope: NOT MEASURED.
+
 OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+Anomalous sampling, Level 3 Medical with Biological Containment.
+
+1. Confirm authority and the subject or patient file.
+2. Confirm the cut purpose and sedation status.
+3. Confirm containment posture and gold tool availability.
+4. Calibrate signature tracking to the current subject.
+5. Wait for the laser rail to confirm the approved path.
+6. Make the cut decisively and log it as disarticulation.
+7. Run the post-use fiber inspection strip.
+8. File the cut-path log chip with the sample record.
+
+Step-down: the blade is inspected and counted back into custody before the tray is
+cleared. Emergency:
+during a rope-analog breach the target must already be pinned by Causal Anchor Nails
+or equivalent
+restraints, because an unpinned cut whips.
+
 Before use, Medical confirms authority, patient or subject file, cut purpose, sedation status, containment
 posture,
 gold emergency tool availability, and signature-tracking calibration. The operator does not begin until the
@@ -136,6 +230,51 @@ furniture, or staff. Do not allow the blade to touch 24k gold except for
 machining, emergency neutralization, or
 approved sheath contact. Do not treat a clean cut as proof that the target
 is nonliving.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Before each use            | edge, rail, and signature check           | Level 3 Medical                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Tracking calibration       | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Gold contact suspected     | edge inspection and retirement            | Surgical Materials Custody                |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Fiber residue on the edge  | inspection strip review                   | Surgical Materials Custody                |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Dark World source material | Level 4 custody procedure                 | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Blade count reconciliation | custody audit after every use             | Surgical Materials Custody                |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; the blade does not dull, so servicing is inspection
+rather than sharpening
+and interval NOT MEASURED. The consumables are inspection strips and log chips. The 2014
+nick is why custody
+added a post-use strip to every return.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Rail following an old path | signature drift mid-procedure             | stop; 1999 case                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Shallow edge defect after  | contact with the gold sheath              | retire it; 2014 case                      |
+| cleaning                   |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Cut line whipping at the   | target not pinned first                   | pin first; 2022 drill                     |
+| operator                   |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Mixed tissue in one sample | identity change during the cut            | re-scan before sampling                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Blade reacting to nearby   | related Dark World substance              | clear the field and stop                  |
+| material                   |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Blade unaccounted for      | counting failure                          | full custody audit before reissue         |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 PWS cannot identify what should be cut, cannot prevent pain or trauma, cannot neutralize
@@ -198,9 +337,15 @@ blade safer or only weaker? Do Dark
 World organisms recognize the scalpel as tool, wound, or relative? How many retired blades
 remain useful for
 non-surgical materials research?
+- How much Pale Wood source material exists, and where is it held?
+- What exactly does 24k gold do to the edge, and is the damage
+  reversible?
+- Which subjects have read a Pale Wood cut as kinship rather than as
+  injury?
+
 
 FILE METADATA
-Created: 2026-09-15
+Created: [Random Date]/[Random Month]/2XXX
 Author Desk: Medical Division / Surgical Materials Custody / Central Archive
 Review Status: Active restricted record; signature-tracking details censored
 Next Review: After any signature drift, gold contamination, breach disarticulation, or retired-blade study

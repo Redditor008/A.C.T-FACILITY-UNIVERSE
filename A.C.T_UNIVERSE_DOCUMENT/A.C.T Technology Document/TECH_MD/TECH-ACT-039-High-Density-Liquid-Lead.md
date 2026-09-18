@@ -236,6 +236,8 @@ Standing reminder: a barrier fluid that has done its job is contaminated by defi
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Engineering Division / Hazardous Materials Desk / Central Archive **Review
-Status:** Active hazardous-material record; restricted energy absorption profile censored **Next Review:** After any
-leak alarm, dust saturation, pipe deformation, spill response, or artifact-shielding failure
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Engineering Division / Hazardous Materials Desk / Central Archive
+- **Review Status:** Active hazardous-material record; restricted energy absorption profile censored
+- **Next Review:** After any leak alarm, dust saturation, pipe deformation, spill response, or
+  artifact-shielding failure

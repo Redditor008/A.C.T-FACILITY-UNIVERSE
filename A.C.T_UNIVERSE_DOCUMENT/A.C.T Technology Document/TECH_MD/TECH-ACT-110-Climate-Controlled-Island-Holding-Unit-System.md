@@ -208,7 +208,9 @@ land.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Environmental Holding Staff / Maritime-Hold Command / Central Archive
-**Review Status:** Active climate-holding technology record; live climate recipes, resident assignments, and
-native-site coordinates censored **Next Review:** After any climate drift, place-bound reclassification,
-island-transfer failure, habitat mismatch, unit contamination, or climate-regimen override
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Environmental Holding Staff / Maritime-Hold Command / Central Archive
+- **Review Status:** Active climate-holding technology record; live climate recipes, resident
+  assignments, and native-site coordinates censored
+- **Next Review:** After any climate drift, place-bound reclassification, island-transfer failure,
+  habitat mismatch, unit contamination, or climate-regimen override

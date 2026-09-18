@@ -95,6 +95,49 @@ Formula details remain restricted because hostile groups could use SSF to bait, 
 weaponize blood-fuel
 dependent entities.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and feeding procedure. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| FUEL PARAMETER             | VALUE                                                                                 |
++============================+=======================================================================================+
+| Container                  | industrial-grade blue canister                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Fluid                      | deep red, viscous, warm when correctly maintained                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Pump                       | friction-less magnetic pump                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monitoring                 | digital O2-saturation monitor on the valve                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Display                    | temperature readout on the handle                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Thermal control            | internal thermal coil                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Standard temperature       | 37 degrees C unless the subject file says otherwise                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Identification             | subject-mixture tag                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Delivery                   | sterile line connector with backflow lock                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Waste                      | disposal seal for rejected fuel                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Mixture bands              | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Viscosity range            | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Shelf life and storage band| NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Trace mineral formula      | not recorded in this file                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Any canister without a readable subject tag is unissued stock and cannot be fed
+to a contained subject. The
+fuel imitates enough biological function to sustain containment without providing a full living prey
+event.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 SSF is stored in industrial-grade blue canisters. The fluid is deep red, viscous, and
 warm when correctly maintained.
@@ -110,7 +153,55 @@ backflow lock; and disposal seal for rejected fuel.
 Any canister without a readable subject tag is treated as unissued stock and cannot
 be fed to a contained subject.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Canister And Line Controls
+
+- dispensing valve
+- sterile line connector
+- backflow lock
+- disposal seal for rejected fuel
+
+Mixture And Temperature Readouts
+
+- digital O2-saturation monitor
+- handle temperature display
+- subject-mixture tag
+- thermal coil state
+
+Feeding And Personnel Limits
+
+- Do not pour manually unless the subject file explicitly allows it.
+- Do not offer fuel as a reward unless the file defines feeding as
+  therapy.
+- Do not switch to live feed immediately after a refusal.
+- Do not use a line that carried a previous subject.
+- Weakest against subjects requiring a named victim, fear, or a living heartbeat.
+- Weakest against organisms that read identity in blood.
+
+Mixture bands, viscosity range, and shelf life are not recorded. Envelope: NOT MEASURED.
+
 OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+Contained feeding, Medical authority with Biological Containment.
+
+1. Confirm the subject file and mixture band.
+2. Confirm temperature and oxygen saturation.
+3. Confirm canister seal and pump response.
+4. Confirm the disposal plan before feeding starts.
+5. Deliver through an approved line, tray, or automated system.
+6. Record intake rate, residue, refusal, and aggression.
+7. Observe post-feeding behaviour before leaving the enclosure.
+8. Seal and dispose of rejected fuel.
+
+Step-down: the line is discarded or subject-coded before the next feeding and never reused.
+Emergency: a
+refusal after a stable history goes to Medical for contamination and mixture review rather
+than to live
+feed.
+
 Before feeding, staff confirm subject file, mixture band, temperature, oxygen saturation, canister seal, pump
 response, and disposal plan. Feeding must occur through approved lines, trays, or automated systems.
 Manual pouring is
@@ -126,6 +217,51 @@ through threat displays.
 If the subject refuses SSF after a stable history, staff do not immediately switch
 to live feed. Medical reviews
 contamination, formula drift, subject illness, seasonal change, and possible manipulation.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Before each feeding        | seal, pump, temperature, and O2 check     | Level 3, locally certified                |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Temperature out of band    | warming or rejection, then review         | Medical Division                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Thermal coil drift         | coil calibration                          | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| False O2 reading suspected | monitor verification                      | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Microbial bloom suspected  | batch quarantine                          | Biological Containment                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Dependency review          | feeding cadence review                    | Medical Division                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; the fuel is consumed per feeding, so the schedule
+is counted in canisters.
+Storage band NOT MEASURED. The 2005 refusal is why temperature is confirmed at every
+transfer point and not
+only at issue.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Subject refuses, strikes   | canister below temperature                | warm it; 2005 case                        |
+| the glass                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Subject following the line | scent backflow in the line                | dispose of the line                       |
+| path                       |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Calm bought by extra       | overfeeding as control                    | cadence review; 2020 case                 |
+| feedings                   |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Fluid clotting in the valve| pump lock or thermal drift                | reject the canister                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| O2 steady but implausible  | false O2 reading                          | verify before feeding                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Canister tag unreadable    | unissued stock                            | do not feed; return it                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 SSF cannot satisfy entities that require a named victim, fresh fear, living heartbeat, soul
@@ -183,9 +319,15 @@ use stolen SSF
 canisters as bait? How many mechanical subjects rely on SSF enough to make it
 a site vulnerability? Should SSF refusal
 trigger medical quarantine before containment alarm?
+- What mixture bands exist, and how is a band assigned to a subject
+  class?
+- What is the shelf life of a sealed canister, and what does early
+  microbial bloom look like?
+- Which subject classes require identity in blood rather than biological chemistry?
+
 
 FILE METADATA
-Created: 2026-09-15
+Created: [Random Date]/[Random Month]/2XXX
 Author Desk: Medical Division / Biological Containment Division / Central Archive
 Review Status: Active restricted record; formula and subject-mix details censored
 Next Review: After any refusal cluster, contaminated line event, supply-chain failure, or predatory behavior

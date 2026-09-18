@@ -286,11 +286,9 @@ recover, not from a filing decision.
 
 ## FILE METADATA
 
-**Created:** 2026-09-18
-
-**Author Desk:** Subject Care Division / Medical Division / Central Archive
-
-**Review Status:** Active restricted GOI technology record; manufacturer identity and laundering behaviour unresolved
-
-**Next Review:** After any laundering observation, any new unit recovery, or any fibre identification
-result
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Subject Care Division / Medical Division / Central Archive
+- **Review Status:** Active restricted GOI technology record; manufacturer identity and laundering
+  behaviour unresolved
+- **Next Review:** After any laundering observation, any new unit recovery, or any fibre identification
+  result

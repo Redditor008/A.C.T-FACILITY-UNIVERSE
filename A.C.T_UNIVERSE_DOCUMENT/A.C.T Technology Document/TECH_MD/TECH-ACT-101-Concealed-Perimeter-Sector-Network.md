@@ -194,9 +194,9 @@ made itself.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Limited Security Lead / Enclosure Supervisor / Central Archive **Review
-Status:** Active concealed perimeter record; live sector maps, marker codes, routes, and response caches
-censored
-**Next Review:** After any incursion, marker exposure, boundary drift, resident expansion, staff route discovery,
-or
-parent-reserve sector redesign
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Limited Security Lead / Enclosure Supervisor / Central Archive
+- **Review Status:** Active concealed perimeter record; live sector maps, marker codes, routes, and
+  response caches censored
+- **Next Review:** After any incursion, marker exposure, boundary drift, resident expansion, staff route
+  discovery, or parent-reserve sector redesign

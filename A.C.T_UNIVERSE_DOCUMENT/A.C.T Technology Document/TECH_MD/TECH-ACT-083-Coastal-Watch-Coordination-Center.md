@@ -201,10 +201,9 @@ that can answer it.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Watch Officer / Watch Chief / Central Archive **Review Status:**
-Active
-coastal watch record; live corridor maps, watch schedules, and escalation thresholds censored **Next Review:**
-After
-any missed arrival, false report, delayed escalation, unauthorized staging action, instrument blind spot, or
-coastal
-anomaly cluster
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Watch Officer / Watch Chief / Central Archive
+- **Review Status:** Active coastal watch record; live corridor maps, watch schedules, and escalation
+  thresholds censored
+- **Next Review:** After any missed arrival, false report, delayed escalation, unauthorized staging
+  action, instrument blind spot, or coastal anomaly cluster

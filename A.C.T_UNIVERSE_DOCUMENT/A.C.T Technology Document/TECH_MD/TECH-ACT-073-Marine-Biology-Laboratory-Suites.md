@@ -208,9 +208,9 @@ history.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Research Division / Floor Research Chief / Central Archive **Review
-Status:**
-Active laboratory-suite record; live specimen protocols and resident-specific formulas censored **Next Review:** After
-any sample escape, biological exposure, F-3 regimen change, Sonar Void specimen finding, drainage alarm,
-or
-live-resident study event
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Research Division / Floor Research Chief / Central Archive
+- **Review Status:** Active laboratory-suite record; live specimen protocols and resident-specific
+  formulas censored
+- **Next Review:** After any sample escape, biological exposure, F-3 regimen change, Sonar Void specimen
+  finding, drainage alarm, or live-resident study event

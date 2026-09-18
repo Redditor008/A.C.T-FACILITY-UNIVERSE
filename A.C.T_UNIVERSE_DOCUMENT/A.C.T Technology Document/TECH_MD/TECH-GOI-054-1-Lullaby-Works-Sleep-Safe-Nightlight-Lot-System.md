@@ -326,12 +326,9 @@ and does not intend to.
 
 ## FILE METADATA
 
-**Created:** 2026-09-18
-
-**Author Desk:** Subject Care Division / Engineering Division / Central Archive
-
-**Review Status:** Active restricted GOI technology record; manufacturer identity and lot source censored
-
-**Next Review:** After any new unit recovery, any confirmed intensification or blue-shift observation, or
-any Lullaby
-Works contact event
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Subject Care Division / Engineering Division / Central Archive
+- **Review Status:** Active restricted GOI technology record; manufacturer identity and lot source
+  censored
+- **Next Review:** After any new unit recovery, any confirmed intensification or blue-shift observation,
+  or any Lullaby Works contact event

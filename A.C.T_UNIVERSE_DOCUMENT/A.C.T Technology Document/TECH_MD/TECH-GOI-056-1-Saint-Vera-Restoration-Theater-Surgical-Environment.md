@@ -248,14 +248,9 @@ Concern is an outside institution and A.C.T neither builds nor licenses its thea
 
 ## FILE METADATA
 
-FILE CREATED: 18/09/2026
-
-FILE LAST UPDATED: 18/09/2026
-
-FILE AUTHOR: Medical Division / Subject Care Joint Desk
-
-REVIEWED BY: Central Archive
-
-FILE STATUS: ACTIVE / RESTRICTED
-
-RECORD CONDITION: OPERATIONAL
+- FILE CREATED: [Random Date]/[Random Month]/2XXX
+- FILE LAST UPDATED: [Random Date]/[Random Month]/2XXX
+- FILE AUTHOR: Medical Division / Subject Care Joint Desk
+- REVIEWED BY: Central Archive
+- FILE STATUS: ACTIVE / RESTRICTED
+- RECORD CONDITION: OPERATIONAL

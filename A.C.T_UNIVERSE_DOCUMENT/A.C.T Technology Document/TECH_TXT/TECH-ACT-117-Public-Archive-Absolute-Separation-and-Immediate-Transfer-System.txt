@@ -209,7 +209,7 @@ from public custody?
 
 FILE METADATA
 
-Created: 2026-09-16
+Created: [Random Date]/[Random Month]/2XXX
 Author Desk: Foundation Director / Security Boundary Office / Central Archive
 Review Status: Active surface-separation technology record; transition routes, cover phrases, public witnesses, and
 suspect-item receipts censored

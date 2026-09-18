@@ -190,7 +190,7 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-Created: 2026-09-16
+Created: [Random Date]/[Random Month]/2XXX
 Author Desk: Laboratory and Medical Chief / Research Division / Central Archive
 Review Status: Active biological laboratory record; live sample chains, resident identities, analysis protocols, and
 medical crossover files censored

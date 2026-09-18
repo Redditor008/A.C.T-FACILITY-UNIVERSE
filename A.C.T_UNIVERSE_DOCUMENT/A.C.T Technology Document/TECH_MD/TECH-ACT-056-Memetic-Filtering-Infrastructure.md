@@ -230,7 +230,9 @@ A mask can slip.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Kurokawa Redaction Chief / Archiver Division / Central Archive **Review
-Status:** Active archive safety technology record; cell schematics and filter algorithms censored **Next Review:**
-After any filtering failure, reader exposure event, unauthorized reading attempt, release dispute, or filter-setting
-revision
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Kurokawa Redaction Chief / Archiver Division / Central Archive
+- **Review Status:** Active archive safety technology record; cell schematics and filter algorithms
+  censored
+- **Next Review:** After any filtering failure, reader exposure event, unauthorized reading attempt,
+  release dispute, or filter-setting revision

@@ -235,7 +235,8 @@ absence.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Medical Division / Info-Hazard Division / Central Archive **Review Status:**
-Active restricted record; filter lists and receiver tuning censored **Next Review:** After any overfilter
-incident,
-unauthorized expansion request, signal-sink saturation, or implant removal review
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Medical Division / Info-Hazard Division / Central Archive
+- **Review Status:** Active restricted record; filter lists and receiver tuning censored
+- **Next Review:** After any overfilter incident, unauthorized expansion request, signal-sink
+  saturation, or implant removal review

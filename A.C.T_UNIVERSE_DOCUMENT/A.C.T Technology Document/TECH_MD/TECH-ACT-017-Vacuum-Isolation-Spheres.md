@@ -100,6 +100,36 @@ maker marks, or undocumented seals not present in current models.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and legacy history. Values the
+archive does not
+hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| SPHERE PARAMETER | VALUE |
+|---|---|
+| Shell | seamless two-meter sphere |
+| Material | milky-white opaque glass-ceramic |
+| Opacity | deliberate; a sound hazard may also be visual |
+| External sensing | acoustic decibel sensors on shell and cradle |
+| Mechanical check | pressure disc readable without power |
+| Hatch | heavy circular hatch with digital keypad |
+| Override | anti-magnetic brass override wheel |
+| Internal monitor | atmospheric purity monitor |
+| Display | decibel count display |
+| Sealing | shell vibration gasket |
+| Interior fitting | evidence cradle or suspension rack |
+| Lineage | foundational era design, modernized |
+| Vacuum level achieved | NOT MEASURED |
+| Shell thickness | NOT MEASURED |
+| Pump-down time | NOT MEASURED |
+
+Fewer internal surfaces means fewer places for resonance to hide, which is why the
+interior stays plain. The
+2018 request for a transparent shell was refused for the same reason the glass-ceramic
+is opaque in the
+first place.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 The standard VIS is a seamless two-meter sphere of milky-white opaque glass-ceramic. The opacity
@@ -131,7 +161,54 @@ resonance to hide.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Hatch And Seal Controls
+
+- digital keypad
+- anti-magnetic brass override wheel, Level 4
+- vacuum cycle start
+- evidence cradle or suspension rack fitting
+
+### Pressure And Acoustic Readouts
+
+- mechanical pressure disc
+- decibel count display
+- external acoustic decibel sensors
+- internal atmospheric purity monitor
+
+### Handling And Personnel Limits
+
+- Do not open a sphere because the object inside has gone quiet.
+- Do not tap the shell to see whether a subject responds.
+- Do not play internal audio back into the room.
+- Do not clear a unit until digital and mechanical readings agree.
+- Weakest against hazards carried by light, symbols, dreams, or direct cognition.
+- Weakest against structural vibration strong enough to bypass the shell.
+- Weakest against entities that turn absence of air into a resource.
+
+Vacuum level, pump-down time, and shell thickness are not recorded. Envelope: NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Loading and isolation, Level 3 Containment.
+
+1. Identify the hazard channel: sound, breath, vibration, speech, recording, or unknown.
+2. Inspect the shell for cracks and seal residue.
+3. Check decibel sensor health and pressure-disc movement.
+4. Confirm hatch response before loading.
+5. Place the object under approved handling rules.
+6. Close the hatch and confirm the keypad seal.
+7. Run the vacuum cycle until pressure disc and digital monitor agree.
+8. Log the baseline decibel count for the sealed unit.
+
+Step-down: atmosphere cycling is a Level 4 procedure and is never used to shorten
+a review. Emergency:
+decibel activity while vacuum is stable is logged as shell transmission or a non-atmospheric
+signal, and the
+unit is not opened.
 
 Before loading, personnel identify the hazard channel: sound, breath, vibration, pressure, speech, recording,
 instrument action, or unknown acoustic effect. The sphere is inspected for shell cracks, seal
@@ -156,6 +233,34 @@ extraction. Any manual opening after active hazard storage requires aftercare re
 and the room.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before each loading | shell, seal, sensor, and disc check | Level 3 Containment |
+| Digital and mechanical disagreement | maintenance before further use | Engineering Division |
+| Hatch override | Level 4 procedure | Level 4 |
+| Legacy unit handling | restricted handling review | Level 4 |
+| Atmosphere cycling | internal cycling procedure | Level 4 |
+| Acoustic evidence release | Archive review | Archive Division |
+
+No calendar interval is recorded; interval NOT MEASURED. There is no consumable, because the
+sphere is
+sealed hardware. The 1987 disagreement is why clearance requires the mechanical disc and the
+digital monitor
+to agree.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Object rings after quiet storage | hazard survived isolation | do not open; 1748 lesson |
+| Disc drifting, screen steady | seal or sensor disagreement | hold clearance; 1987 case |
+| Faint tone at the hatch seam | seal path leakage | reseat and retest before use |
+| Decibel activity under vacuum | shell or non-atmospheric signal | log it; keep it sealed |
+| Staff losing word recognition | exposure after a rupture | medical review; retire the unit |
+| Request for a clear shell | convenience over hazard control | refuse; opacity is deliberate |
 
 ## KNOWN LIMITS
 
@@ -239,10 +344,19 @@ travel.
   or
   name?
 
+- What vacuum level does a modernized sphere reach, and how long does pump-down
+  take?
+- What shell thickness survives the 1748 failure mode, and was the ceramic changed
+  after it?
+- How are the six-week name-hearing losses from the 1748 rupture held in Medical
+  history?
+
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Containment Division / Archive Division / Engineering Division / Central
-Archive **Review Status:** Active restricted record; hatch override and atmosphere cycling rules censored **Next
-Review:** After any pressure-disc disagreement, acoustic leak, manual opening, or legacy-unit transfer
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Containment Division / Archive Division / Engineering Division / Central Archive
+- **Review Status:** Active restricted record; hatch override and atmosphere cycling rules censored
+- **Next Review:** After any pressure-disc disagreement, acoustic leak, manual opening, or legacy-unit
+  transfer

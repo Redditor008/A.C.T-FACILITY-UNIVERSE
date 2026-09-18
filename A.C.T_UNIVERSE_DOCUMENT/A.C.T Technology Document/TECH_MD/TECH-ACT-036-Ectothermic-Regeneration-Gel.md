@@ -240,7 +240,8 @@ applying it is careless.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Medical Division / Biological Subject Care Desk / Central Archive
-**Review
-Status:** Active biological medical record; formulation and metabolic buffer details censored **Next Review:** After
-any adverse tissue response, gel separation, shed-cycle disruption, or new NB-class transmutant case
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Medical Division / Biological Subject Care Desk / Central Archive
+- **Review Status:** Active biological medical record; formulation and metabolic buffer details censored
+- **Next Review:** After any adverse tissue response, gel separation, shed-cycle disruption, or new
+  NB-class transmutant case

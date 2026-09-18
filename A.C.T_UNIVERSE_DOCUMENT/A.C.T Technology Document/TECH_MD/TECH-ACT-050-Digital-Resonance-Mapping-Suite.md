@@ -229,7 +229,9 @@ without being touched.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Research Division / Redwood Veil F-5 / Central Archive **Review
-Status:**
-Active Facility instrument record; chamber schematics and pulse-processing method censored **Next Review:** After any
-false baseline, pulse match dispute, exposure incident, method revision, or suite retrofit
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Research Division / Redwood Veil F-5 / Central Archive
+- **Review Status:** Active Facility instrument record; chamber schematics and pulse-processing method
+  censored
+- **Next Review:** After any false baseline, pulse match dispute, exposure incident, method revision, or
+  suite retrofit

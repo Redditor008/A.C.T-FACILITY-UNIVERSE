@@ -194,9 +194,9 @@ not a grave.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** F-1 Quarantine Officer / Archive Lead / Central Archive **Review
-Status:**
-Active minor memetic quarantine record; live vault maps, hazard extracts, and transfer schedules censored
-**Next
-Review:** After any spillover event, unauthorized exposure, buffer overstay, F-1 closure, black-archive referral, or
-parent-node routing dispute
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** F-1 Quarantine Officer / Archive Lead / Central Archive
+- **Review Status:** Active minor memetic quarantine record; live vault maps, hazard extracts, and
+  transfer schedules censored
+- **Next Review:** After any spillover event, unauthorized exposure, buffer overstay, F-1 closure,
+  black-archive referral, or parent-node routing dispute

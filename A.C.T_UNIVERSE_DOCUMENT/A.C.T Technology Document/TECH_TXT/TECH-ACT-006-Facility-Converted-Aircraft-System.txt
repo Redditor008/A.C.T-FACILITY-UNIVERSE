@@ -597,8 +597,8 @@ flights?
 FILE METADATA
 -------------
 
-FILE CREATED:            15/09/2026
-FILE LAST UPDATED:       15/09/2026
+FILE CREATED:            [Random Date]/[Random Month]/2XXX
+FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
 FILE AUTHOR:             Logistics Division / Recovery Division / Engineering Division Joint Desk
 REVIEWED BY:             Central Archive / Site Command Technical Board / Civil Covert
 FILE STATUS:             ACTIVE / RESTRICTED

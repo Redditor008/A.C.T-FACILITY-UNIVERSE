@@ -217,9 +217,10 @@ but by refusing to return it.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Research Division / Seismic Analysis Support / Maritime Recovery Command
-/
-Central Archive **Review Status:** Active Sonar Void research infrastructure record; live coordinates, void-family
-comparisons, and Death Angler pursuit data censored **Next Review:** After any Sonar Void encounter,
-submersible loss,
-Death Angler containment audit, acoustic replay exposure, false absence downgrade, or abyss-linked absence correlation
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Research Division / Seismic Analysis Support / Maritime Recovery Command / Central
+  Archive
+- **Review Status:** Active Sonar Void research infrastructure record; live coordinates, void-family
+  comparisons, and Death Angler pursuit data censored
+- **Next Review:** After any Sonar Void encounter, submersible loss, Death Angler containment audit,
+  acoustic replay exposure, false absence downgrade, or abyss-linked absence correlation

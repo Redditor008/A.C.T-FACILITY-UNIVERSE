@@ -233,7 +233,8 @@ Standing reminder: a calm voice over a rising gauge is not evidence of control.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Medical Division / Personnel Safety Desk / Central Archive **Review
-Status:**
-Active personnel-safety record; sedative mixture details censored **Next Review:** After any suite sedation,
-compulsion breach, false negative, or dampener-interference event
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Medical Division / Personnel Safety Desk / Central Archive
+- **Review Status:** Active personnel-safety record; sedative mixture details censored
+- **Next Review:** After any suite sedation, compulsion breach, false negative, or dampener-interference
+  event

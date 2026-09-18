@@ -107,6 +107,34 @@ could build false routes that feel official to the instrument.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and survey doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| COMPASS PARAMETER | VALUE |
+|---|---|
+| Form | rugged handheld unit, reinforced corners, sealed buttons |
+| Display | circular screen rendering three-dimensional probability maps |
+| Map reading | peaks for high route pressure, valleys for low |
+| Moving bands | temporal fog, repeating corridors, story convergence |
+| Sensing | gyro-stabilized sensor array |
+| Thread lock | retractable focus lens and thread-lock slot |
+| Filter | flip-open Aether-Filter for localized temporal fog |
+| Overlay | Narrative Density overlay |
+| Warnings | route-stress indicator and dead-map alarm |
+| Return aid | return-path marker |
+| Battery runtime | NOT MEASURED |
+| Density scale definition | NOT MEASURED |
+| Thread-lock range | NOT MEASURED |
+| Unit mass | NOT MEASURED |
+
+The device does not ask where north is. It asks which direction the local
+event structure wants movement to
+become meaningful, which is why a strong reading is treated as significance rather than
+as safety.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard NEC resembles a rugged handheld GPS unit with reinforced corners, sealed buttons,
@@ -139,7 +167,55 @@ is broken.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Operator Controls
+
+- sealed buttons
+- retractable focus lens for thread lock
+- Aether-Filter flap
+- return-path marker
+
+### Probability Map Readouts
+
+- three-dimensional topographic pressure map
+- Narrative Density overlay
+- route-stress indicator
+- moving bands for fog and convergence
+- dead-map alarm
+
+### Survey And Personnel Limits
+
+- Do not follow the strongest reading automatically.
+- Do not let more than the assigned operator read filtered output.
+- Do not lock a thread on an unverified tag or name.
+- Do not treat a dense route as a safe one.
+- Weakest in places with no stable probability gradient.
+- Weakest in rooms that punish measurement or near hostile narrative engines.
+- Weakest during strong CSG output.
+
+Battery runtime and density scale limits are not recorded. Survey envelope: NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Expedition survey entry, Survey Division lead.
+
+1. Take a baseline reading at the safe threshold.
+2. Mark the return path before crossing.
+3. Confirm ordinary map, RSA reading, and CTC lifeline status.
+4. Confirm the pressure map agrees with the field plan.
+5. Call out density increases and route inversions as they appear.
+6. Open the Aether-Filter only for the assigned operator.
+7. Verify any thread-lock target against an authorized link.
+8. Withdraw on a dead-map alarm rather than navigating by memory.
+
+Step-down: the filter closes and the thread lock releases before the team leaves the
+area. Emergency: a
+dead-map condition ends navigation, and the team returns on the marked path and the
+CTC lifeline rather than
+on the compass.
 
 Before entering an unstable area, the survey lead takes a baseline reading at the
 safe threshold and marks the return
@@ -165,6 +241,33 @@ important event, something is following them, or the mission has already passed 
 decision point.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before each survey | baseline reading and alarm test | Level 3 Survey |
+| Thread-lock calibration | Level 4 procedure | Level 4 |
+| Dead-map freeze | sensor array check | Engineering Division |
+| Filtered output exposure | viewing limit and log review | Info-Hazard Division |
+| Route record filing | attach the survey log | Survey Division |
+| Return-path marker drift | recalibrate before reissue | Engineering Division |
+
+No calendar interval is recorded; interval NOT MEASURED. No consumable is listed. The 2005
+filter overuse is
+why viewing time on filtered output is limited and logged rather than shared freely
+across a team.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Compass pointing to one turn | loop centre read as an exit | use escape mode; 1993 case |
+| Two operators recall different paths | shared filtered exposure | treat both as partial |
+| Thread lock on a lost-item tag | unverified target link | release the lock; 2016 case |
+| Display frozen with no alarm | dead-map freeze | withdraw on the marked path |
+| Map moving while held still | route pressure changing | read as data, not as a fault |
+| Density high on every route | contradictory team objectives | reduce objectives first |
 
 ## KNOWN LIMITS
 
@@ -255,11 +358,18 @@ Standing reminder: the compass points toward meaning. Meaning is not always an a
   wrong pressure?
 — Are some exits safe precisely because the compass considers them meaningless?
 
+- How is Narrative Density scaled, and what value has ever predicted an actual
+  trap?
+- What is the maximum safe viewing time on filtered output before witness agreement
+  degrades?
+- Which target links qualify a thread lock, and who authorizes a new one?
+
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Survey Division / Dark World Expedition Desk / Engineering Division
-/ Central
-Archive **Review Status:** Active restricted record; Narrative North calibration censored **Next Review:** After any
-false north incident, dead-map event, missing-person thread failure, or Dark World route contradiction
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Survey Division / Dark World Expedition Desk / Engineering Division / Central Archive
+- **Review Status:** Active restricted record; Narrative North calibration censored
+- **Next Review:** After any false north incident, dead-map event, missing-person thread failure, or
+  Dark World route contradiction

@@ -216,7 +216,9 @@ ordinary shadow.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Security Boundary Command / Campus Director / Central Archive **Review
-Status:** Active surface-transition technology record; concealed routes, port schedules, seal triggers, and cover
-phrases censored **Next Review:** After any transition exposure, port overlap, concealed route observation, surface
-seal action, public-program conflict, or recovered-material movement under cover pressure
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Security Boundary Command / Campus Director / Central Archive
+- **Review Status:** Active surface-transition technology record; concealed routes, port schedules, seal
+  triggers, and cover phrases censored
+- **Next Review:** After any transition exposure, port overlap, concealed route observation, surface
+  seal action, public-program conflict, or recovered-material movement under cover pressure

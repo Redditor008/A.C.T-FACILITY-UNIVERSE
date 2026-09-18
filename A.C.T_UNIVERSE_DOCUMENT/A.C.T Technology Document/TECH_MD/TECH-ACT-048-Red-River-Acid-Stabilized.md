@@ -236,8 +236,9 @@ the jug is temporary mercy.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Hazardous Materials Desk / Dark World Survey / Central Archive
-**Review
-Status:** Active anomalous chemical record; stabilizer formulation and neutralization tab chemistry censored **Next
-Review:** After any container etching, tab delay, over-etch, vapor exposure, or new Dark World
-river sample
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Hazardous Materials Desk / Dark World Survey / Central Archive
+- **Review Status:** Active anomalous chemical record; stabilizer formulation and neutralization tab
+  chemistry censored
+- **Next Review:** After any container etching, tab delay, over-etch, vapor exposure, or new Dark World
+  river sample

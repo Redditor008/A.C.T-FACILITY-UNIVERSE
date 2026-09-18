@@ -206,9 +206,9 @@ cannot keep watching.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Security Division / Relay Administration / Central Archive **Review Status:**
-Active personnel safety record; shelter maps, route priorities, and live roster systems censored **Next
-Review:**
-After any large tectonic event, shelter drill failure, route conflict, false all-clear, command link
-fault, or
-anomalous ground-motion escalation
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Security Division / Relay Administration / Central Archive
+- **Review Status:** Active personnel safety record; shelter maps, route priorities, and live roster
+  systems censored
+- **Next Review:** After any large tectonic event, shelter drill failure, route conflict, false
+  all-clear, command link fault, or anomalous ground-motion escalation

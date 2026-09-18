@@ -233,7 +233,9 @@ the room has stopped listening.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Materials Custody / Abyss Engineering / Central Archive **Review Status:**
-Active anomalous material record; extraction routes and structural code system censored **Next Review:** After
-any
-mass-shift alarm, edge glassing, railgun retest, vault retrofit, or new Abyss extraction
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Materials Custody / Abyss Engineering / Central Archive
+- **Review Status:** Active anomalous material record; extraction routes and structural code system
+  censored
+- **Next Review:** After any mass-shift alarm, edge glassing, railgun retest, vault retrofit, or new
+  Abyss extraction

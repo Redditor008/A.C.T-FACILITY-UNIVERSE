@@ -199,10 +199,9 @@ temporary.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** F-1 Vault Officer / Sub-Site Chief / Central Archive **Review
-Status:**
-Active provisional holding record; live unit maps, custody clocks, and parent-site transfer schedules censored
-**Next
-Review:** After any overstay, high-threat rejection, transfer delay, F-1 closure, custody drift event, or
-parent-site
-overflow dispute
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** F-1 Vault Officer / Sub-Site Chief / Central Archive
+- **Review Status:** Active provisional holding record; live unit maps, custody clocks, and parent-site
+  transfer schedules censored
+- **Next Review:** After any overstay, high-threat rejection, transfer delay, F-1 closure, custody drift
+  event, or parent-site overflow dispute

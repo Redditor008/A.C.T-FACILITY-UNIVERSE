@@ -513,8 +513,8 @@ the GOI record.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            12/09/2026
-FILE LAST UPDATED:       12/09/2026
+FILE CREATED:            [Random Date]/[Random Month]/2XXX
+FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
 FILE AUTHOR:             Intelligence Division / Temporal Evidence Review Desk
 REVIEWED BY:             Tactical Review Desk / Subject Care Division Liaison
 FILE STATUS:             ACTIVE / RESTRICTED / UNRESOLVED

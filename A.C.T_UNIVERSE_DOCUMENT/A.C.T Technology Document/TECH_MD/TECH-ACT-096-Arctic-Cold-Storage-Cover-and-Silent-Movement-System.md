@@ -202,7 +202,9 @@ colder than it looks secret.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Facility Manager / Security Boundary Lead / Central Archive **Review
-Status:** Active arctic cover logistics record; live transition points, receiving schedules, disappearance
-authorizations, and route maps censored **Next Review:** After any receiving anomaly, transition challenge, cover
-audit, silent movement failure, surface sealing event, or transport-chain discrepancy
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Facility Manager / Security Boundary Lead / Central Archive
+- **Review Status:** Active arctic cover logistics record; live transition points, receiving schedules,
+  disappearance authorizations, and route maps censored
+- **Next Review:** After any receiving anomaly, transition challenge, cover audit, silent movement
+  failure, surface sealing event, or transport-chain discrepancy

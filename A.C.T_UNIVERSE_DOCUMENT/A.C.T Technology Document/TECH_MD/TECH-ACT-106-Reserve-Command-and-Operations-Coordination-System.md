@@ -224,7 +224,9 @@ are hidden in the forest.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Reserve Operations Command / Security Command Center / Central Archive
-**Review Status:** Active command technology record; live sector maps, communication keys, patrol rosters, and
-incident routing tables censored **Next Review:** After any multi-sector incident, concealed boundary alarm,
-command-channel failure, logistics route loss, cover conflict, or division authority dispute
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Reserve Operations Command / Security Command Center / Central Archive
+- **Review Status:** Active command technology record; live sector maps, communication keys, patrol
+  rosters, and incident routing tables censored
+- **Next Review:** After any multi-sector incident, concealed boundary alarm, command-channel failure,
+  logistics route loss, cover conflict, or division authority dispute

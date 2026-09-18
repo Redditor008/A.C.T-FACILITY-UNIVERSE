@@ -109,6 +109,36 @@ contraband through site boundaries or pull A.C.T equipment out of alignment.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and field handling text. Values
+the archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| CABLE PARAMETER | VALUE |
+|---|---|
+| Line body | five-centimeter iridescent industrial cable |
+| Reinforcement | visible carbon-fiber weave |
+| Stress indication | surface shifts violet, blue, green, or dull silver |
+| Ends | oversized phase-lock connectors, heavy bolt sound when seated |
+| Cooling | internal liquid-cooling channels |
+| Instrumentation | digital shunt displays every five meters |
+| Readouts | causal tension and ontological drag |
+| Warning | heat warning band |
+| Release | emergency release collar |
+| Records | post-use stress memory tag |
+| Working principle | phase-existent partial hold across the assigned relationship |
+| Rated physical load | NOT MEASURED |
+| Ontological drag scale | NOT MEASURED |
+| Maximum deployed length | NOT MEASURED |
+| Coolant type and volume | NOT MEASURED |
+
+Appearance is not a load gauge. A line that looks slack may carry severe
+ontological drag, and a line that
+looks taut may be physically tense but causally safe, which is why the shunt
+displays are spaced along the
+run instead of sitting only at the ends.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard CTC line is a five-centimeter iridescent industrial cable with visible carbon-fiber reinforcement
@@ -139,7 +169,56 @@ appearance.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Connector And Release Controls
+
+- oversized phase-lock connectors at both ends
+- emergency release collar
+- cooling flow check before the relationship is locked
+- post-use stress memory tag for the quarantine record
+
+### Shunt Display Readouts
+
+- causal tension
+- ontological drag
+- heat warning band
+- surface colour shift under stress
+
+### Deployment And Personnel Limits
+
+- Do not lock a connector before the relationship is named and recorded.
+- Do not stand inside loops or cross two active cables without Engineering approval.
+- Do not judge load by sight; the eye is not a load gauge.
+- Do not reuse a Dark World threshold line for ordinary site work without
+  review.
+- Withdraw if the cable sings, flickers white, sweats coolant, or reports negative drag.
+- Weakest against contradictory anchors and hostile phase shifts.
+- Weakest against objects that change what they are attached to while attached.
+
+Temperature, humidity, and deployed length limits are not recorded in this file. Deployment envelope:
+NOT
+MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Field tethering, Recovery with Engineering approval.
+
+1. Name the relationship the cable must preserve.
+2. Record the relationship before the connector is locked.
+3. Confirm shunt display activity along the whole run.
+4. Confirm cooling flow before load is applied.
+5. Lock the phase-lock connectors and confirm the seat.
+6. Watch for disagreement between physical tension and ontological drag.
+7. Pause and stabilise with RSA or Causal Anchor Nails if drag rises
+alone.
+8. Release through the collar and tag the line for post-use review.
+
+Step-down: the collar is released before the connectors are separated, never the reverse. Emergency:
+singing, white flicker, coolant sweat, or negative drag ends the deployment and the team
+withdraws.
 
 Before deployment, the team defines what relationship the cable must preserve: operator to exit,
 artifact to
@@ -164,6 +243,34 @@ the object, the line, the anchor, or
 the wrong part of the room.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED ACTION | AUTHORITY |
+|---|---|---|
+| Before each deployment | shunt, cooling, and connector check | Level 3 Recovery |
+| Coolant loss or steam venting | quarantine the line | Engineering Division |
+| Contradictory anchor names displayed | quarantine and log the relationship | Level 4 |
+| Post-use stress memory present | materials review before reissue | Engineering Division |
+| Dark World threshold use | line review before ordinary site use | Level 4 |
+| Cut or damaged line | disposal, never repair | Engineering Division |
+
+No calendar interval is recorded; servicing is triggered by load events and coolant state,
+so interval NOT
+MEASURED. Coolant is the consumable. The 2021 return bias is why a spool that
+keeps rolling toward a sealed
+threshold is quarantined rather than reinspected.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Line looks slack, drag rising | false slack | read the shunt; never cross the line |
+| White steam from the jacket | coolant carrying relationship heat | quarantine; 2008 case |
+| Two anchor names displayed | contradictory anchors | stop load and re-name the tie |
+| Spool rolls toward one threshold | cable memory of a past anchor | quarantine; 2021 case |
+| Drag negative or inverted | ontological drag inversion | withdraw and stabilise with RSA |
+| Shunt display dark | shunt blackout | treat as unreadable and release it |
 
 ## KNOWN LIMITS
 
@@ -249,10 +356,18 @@ protect the cable more than the cargo.
   stress
   contaminate them?
 
+- What is the rated physical load, and how is it derated when ontological
+  drag is present?
+- What coolant does the jacket carry, and how is relationship heat told apart
+  from friction heat?
+- How is cable memory detected before a line is reissued to another site?
+
 ---
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Engineering Division / Recovery Division / Central Archive **Review Status:**
-Active restricted record; phase-lock geometry censored **Next Review:** After any line snap, negative-drag reading,
-threshold recovery, or post-use cable memory event
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Engineering Division / Recovery Division / Central Archive
+- **Review Status:** Active restricted record; phase-lock geometry censored
+- **Next Review:** After any line snap, negative-drag reading, threshold recovery, or post-use cable
+  memory event

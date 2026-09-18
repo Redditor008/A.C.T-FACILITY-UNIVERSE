@@ -201,7 +201,9 @@ life.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** F-2 Holding Officer / Environmental Containment Liaison / Central Archive
-**Review Status:** Active biological habitat record; live chamber maps, resident identities, and environmental
-thresholds censored **Next Review:** After any habitat mismatch, transfer instability, chamber breach, resident stress
-event, open-sector transfer, or F-1 escalation
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** F-2 Holding Officer / Environmental Containment Liaison / Central Archive
+- **Review Status:** Active biological habitat record; live chamber maps, resident identities, and
+  environmental thresholds censored
+- **Next Review:** After any habitat mismatch, transfer instability, chamber breach, resident stress
+  event, open-sector transfer, or F-1 escalation

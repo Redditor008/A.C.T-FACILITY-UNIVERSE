@@ -597,8 +597,8 @@ more than one household, or resists safe deactivation.
 FILE METADATA
 -------------
 
-FILE CREATED:            13/09/2026
-FILE LAST UPDATED:       13/09/2026
+FILE CREATED:            [Random Date]/[Random Month]/2XXX
+FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
 FILE AUTHOR:             Intelligence Division / Subject Care Division Joint Desk
 REVIEWED BY:             Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED

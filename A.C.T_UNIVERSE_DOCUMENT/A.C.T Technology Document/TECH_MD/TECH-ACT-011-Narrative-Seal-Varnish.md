@@ -375,6 +375,8 @@ page that must work harder to betray the file.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Archive Division / Info-Hazard Division / Engineering Division / Central
-Archive **Review Status:** Active restricted record; formula and reapplication rules censored **Next Review:** After
-any auto-redaction failure, self-writing artifact response, preserved-error incident, or hostile forged-file recovery
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Archive Division / Info-Hazard Division / Engineering Division / Central Archive
+- **Review Status:** Active restricted record; formula and reapplication rules censored
+- **Next Review:** After any auto-redaction failure, self-writing artifact response, preserved-error
+  incident, or hostile forged-file recovery

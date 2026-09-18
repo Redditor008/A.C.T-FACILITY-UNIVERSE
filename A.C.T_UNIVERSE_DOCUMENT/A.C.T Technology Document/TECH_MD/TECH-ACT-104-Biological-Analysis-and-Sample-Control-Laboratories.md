@@ -200,8 +200,9 @@ contained with it.
 
 ## FILE METADATA
 
-**Created:** 2026-09-16 **Author Desk:** Laboratory and Medical Chief / Research Division / Central Archive
-**Review
-Status:** Active biological laboratory record; live sample chains, resident identities, analysis protocols, and
-medical crossover files censored **Next Review:** After any sample drift, context-loss event, cross-contamination,
-chain break, disposal dispute, or field-condition change based on lab findings
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Laboratory and Medical Chief / Research Division / Central Archive
+- **Review Status:** Active biological laboratory record; live sample chains, resident identities,
+  analysis protocols, and medical crossover files censored
+- **Next Review:** After any sample drift, context-loss event, cross-contamination, chain break,
+  disposal dispute, or field-condition change based on lab findings

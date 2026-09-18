@@ -208,8 +208,9 @@ boundary.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Seismic Analysis Support / Nusantara Deep Relay / Central Archive
-**Review
-Status:** Active monitoring record; node maps, bore depths, and abyss-linked correlation keys censored **Next
-Review:** After any multi-node failure, abyss-linked signal escalation, foundation intrusion alert, F-1 closure drill,
-or restricted review discrepancy
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Seismic Analysis Support / Nusantara Deep Relay / Central Archive
+- **Review Status:** Active monitoring record; node maps, bore depths, and abyss-linked correlation keys
+  censored
+- **Next Review:** After any multi-node failure, abyss-linked signal escalation, foundation intrusion
+  alert, F-1 closure drill, or restricted review discrepancy

@@ -188,7 +188,7 @@ rhythm rather than growth? What counts as consent for long-duration stasis when 
 cannot wake to renew it?
 
 FILE METADATA
-Created: 2026-09-15
+Created: [Random Date]/[Random Month]/2XXX
 Author Desk: Medical Division / Stasis Technology Desk / Central Archive
 Review Status: Active restricted record; resonant cooling details censored
 Next Review: After any thaw failure, rhythm drift, FCA medical transport incident, or anchor-linked

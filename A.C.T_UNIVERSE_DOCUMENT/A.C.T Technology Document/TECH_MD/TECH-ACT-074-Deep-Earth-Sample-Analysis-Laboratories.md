@@ -203,7 +203,9 @@ passive.
 
 ## FILE METADATA
 
-**Created:** 2026-09-15 **Author Desk:** Research Division / Deep-Earth Analysis Desk / Central Archive **Review
-Status:** Active sample-analysis record; live sample maps, comparison keys, and abyss-linked sample names censored
-**Next Review:** After any sample activation, thermal reactivity event, resonance dispute, restricted correlation,
-tool contamination, or destructive-test loss
+- **Created:** [Random Date]/[Random Month]/2XXX
+- **Author Desk:** Research Division / Deep-Earth Analysis Desk / Central Archive
+- **Review Status:** Active sample-analysis record; live sample maps, comparison keys, and abyss-linked
+  sample names censored
+- **Next Review:** After any sample activation, thermal reactivity event, resonance dispute, restricted
+  correlation, tool contamination, or destructive-test loss

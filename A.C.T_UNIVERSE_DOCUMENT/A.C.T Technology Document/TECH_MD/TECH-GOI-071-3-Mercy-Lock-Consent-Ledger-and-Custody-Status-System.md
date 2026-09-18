@@ -223,8 +223,8 @@ variation.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            16/09/2026
-FILE LAST UPDATED:       16/09/2026
+FILE CREATED:            [Random Date]/[Random Month]/2XXX
+FILE LAST UPDATED:       [Random Date]/[Random Month]/2XXX
 FILE AUTHOR:             Legal Division / Medical / Subject Care / Intelligence Joint Desk
 REVIEWED BY:             Central Archive
 FILE STATUS:             ACTIVE / RESTRICTED
