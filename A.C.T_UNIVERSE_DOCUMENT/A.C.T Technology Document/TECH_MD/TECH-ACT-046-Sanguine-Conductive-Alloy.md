@@ -102,6 +102,35 @@ authorizes mixed-sample study.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and testing doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| ALLOY PARAMETER | VALUE |
+|---|---|
+| Stock | blue conductive alloy sheet |
+| Forms | plates, narrow bridge strips, sealed contact pads |
+| Structure | visible or semi-visible micro-vein network |
+| Activation sign | network darkens, brightens, or pulses by sample load |
+| Indicator | Data-Flow Indicator LED blinking during transfer |
+| Contact | sterile blood-contact well |
+| Backing | insulated backing layer |
+| Custody | sample identity tag and chain-of-custody tags |
+| Isolation | removable isolation coupler |
+| Aftercare | post-use residue swab port and biohazard seal strip |
+| Output | non-networked readout connector |
+| Carried signals | pulse identity, metabolic rhythm, genetic fragments, alarm states |
+| Conductivity range | NOT MEASURED |
+| Sample volume per well | NOT MEASURED |
+| Plate reuse limit | NOT MEASURED |
+
+Blood is not a neutral input in A.C.T files. The alloy must never be
+wired into general site networks;
+biological data channels stay air-gapped unless a clearance states otherwise, and plates are single-subject
+by default.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 SCA appears as blue metal sheet stock, usually stored as plates, narrow bridge strips,
@@ -131,7 +160,53 @@ protocol explicitly states otherwise.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Plate And Well Controls
+
+- sterile blood-contact well
+- removable isolation coupler
+- biohazard seal strip
+- non-networked readout connector
+
+### Transfer And Custody Readouts
+
+- Data-Flow Indicator LED
+- micro-vein network response under load
+- sample identity tag against plate ID
+- post-use residue swab result
+
+### Testing And Personnel Limits
+
+- Do not apply sample anywhere except the designated well.
+- Do not watch the colour of the blood; watch the LED.
+- Do not place two subjects on one bridge without exception authority.
+- Do not wire the readout into a site network.
+- Weakest where the subject's blood is known to activate objects.
+- Weakest against signals whose meaning the alloy cannot classify.
+
+Conductivity, well volume, and reuse limit are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Biological data transfer, Medical with Materials Custody verification.
+
+1. Confirm sample identity and consent or containment authority.
+2. Confirm blood hazard class.
+3. Confirm anchor and amnestic exposure history.
+4. Confirm whether the subject's blood activates objects.
+5. Have Data Security confirm the instrument is isolated.
+6. Verify plate ID and prior sample history.
+7. Apply sample to the contact well and watch the LED.
+8. Swab the residue port and close the custody tag.
+
+Step-down: the coupler is removed, the plate is sealed, and the readout is filed
+against the sample tag.
+Emergency: an LED still blinking after the sample is withdrawn means the plate is
+carrying residual transfer
+and is quarantined, which is the 2018 lesson.
 
 Before use, Medical confirms sample identity, consent or containment authority, blood hazard class, anchor
 exposure
@@ -153,6 +228,34 @@ tagged as biological data rather than
 ordinary telemetry.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before each use | plate ID and seal check | Materials Custody |
+| Sterile edge seal compromised | plate withdrawal | Medical Engineering Desk |
+| LED active with no sample | residual transfer | quarantine; 2018 case |
+| Multi-subject proposal | exception review | Level 5 |
+| Readout connector fault | isolation and repair | Engineering Division |
+| Post-use residue | swab and disposal | Level 4 |
+
+Plates are the consumable: a plate carries one subject and is then sealed or
+withdrawn, so calendar interval
+NOT MEASURED. The indicator LED is mandatory hardware rather than a convenience, which is
+what the 2018
+handling event established.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| LED blinking after withdrawal | residual biological transfer | quarantine; 2018 case |
+| Cross-subject data on one bridge | identity bleed | single-subject only; 2022 |
+| Reading near an anchor object | anchor proximity influence | separate; 2026 case |
+| Network darkening with no sample | plate contamination | withdraw the plate |
+| Stress traces from the handler | skin abrasion at the plate | glove and re-swab |
+| Signal with no medical meaning | carrier, not interpreter | refer to Medical |
 
 ## KNOWN LIMITS
 
@@ -225,6 +328,10 @@ result anonymous.
 - Should SCA plates be destroyed after one high-risk use instead of cleaned?
 - Can hostile actors use SCA to impersonate pulse identity or medical continuity?
 - At what point does data transmission become blood-contact containment?
+
+- What conductivity range does the micro-vein network hold before saturation?
+- How much sample does one contact well accept, and what happens beyond it?
+- Can a plate be re-sterilised for a second subject, or is withdrawal absolute?
 
 ---
 

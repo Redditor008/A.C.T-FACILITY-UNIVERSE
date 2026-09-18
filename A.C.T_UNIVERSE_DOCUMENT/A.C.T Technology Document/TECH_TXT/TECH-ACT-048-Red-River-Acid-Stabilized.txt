@@ -96,6 +96,51 @@ RRA-S remains tied to Dark World Survey because the material's behavior may depe
 source cycle, river location,
 moon state, and time since extraction.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's custody description and etching doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| ACID PARAMETER             | VALUE                                                                                 |
++============================+=======================================================================================+
+| Fluid                      | stabilized bubbling red acid                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Colour                     | darker than blood, brighter than rust                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Signature                  | low-frequency hum through the container in quiet conditions                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Container                  | reinforced ceramic jug with sealed lid                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Shutdown                   | Neutralization-Tab Slot built into the lid                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Transport                  | carry frame with shock collar                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monitoring                 | temperature strip, corrosion witness plate, hum monitor                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Pouring                    | sample-pour restrictor                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Spill                      | spill-shadow marker dye                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Waste                      | post-use ceramic waste canister                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Source                     | Red River inside AFD-PL-932                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Prohibited containers      | titanium, standard glass, unlined steel, plastic                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Molecular weight           | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Etch rate per surface      | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Stabilized shelf life      | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Stabilization makes the fluid transportable and briefly usable; it does not make it safe.
+The tab slot
+accepts only approved shutdown tabs, and improvised bases, powders, water, or neutralising agents are
+prohibited outright.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 RRA-S appears as bubbling red liquid, usually darker than blood and brighter than rust.
 It may emit a low hum through
@@ -112,7 +157,54 @@ restrictor; spill-shadow marker dye; and post-use ceramic waste canister.
 RRA-S must not be stored in titanium, standard glass, unlined steel, plastic, or ordinary
 chemical cabinets.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Container And Shutdown Controls
+
+- sealed ceramic lid
+- Neutralization-Tab Slot
+- sample-pour restrictor
+- carry-frame shock collar
+
+Container Readouts
+
+- temperature strip
+- corrosion witness plate
+- low-frequency hum monitor
+- spill-shadow marker dye spread
+
+Handling And Personnel Limits
+
+- Do not open the jug outside a restricted chemical bay.
+- Do not approach after tab insertion until the hum monitor confirms shutdown.
+- Do not improvise a neutralising agent.
+- Do not assume hydrochloric equivalence predicts behaviour.
+- Weakest against materials belonging to the source ecology.
+- Weakest where ventilation or medical standby is absent.
+
+Molecular weight, etch rate, and shelf life are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+Controlled etching, Level 5 with Hazardous Materials Desk.
+
+1. Confirm container integrity and tab availability.
+2. Confirm ventilation, floor protection, and medical standby.
+3. Confirm sample batch and source notes.
+4. Record whether the fluid was taken under red or blue cycle.
+5. Define the target surface and acceptable loss.
+6. Measure pour volume before opening.
+7. Open only inside the restricted bay.
+8. Hold distance after tab insertion until the hum stops.
+
+Step-down: residue goes to the ceramic waste canister and the witness plate is logged.
+Emergency: distance
+is held for the full shutdown confirmation, because in the 2024 event the sample
+kept bubbling for seventeen
+seconds after the tab was inserted.
+
 Before use, Hazardous Materials confirms container integrity, tab availability, ventilation, floor protection, and
 medical standby. Dark World Survey confirms sample batch, source notes, and whether the fluid
 was taken under
@@ -131,6 +223,51 @@ if reactivity escalates.
 After use, the target area is checked for delayed corrosion, residue smoke, hum persistence,
 and chemical shadow. Used
 ceramic tools are retired unless cleared.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Before each use            | container, tab, and witness plate check   | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Etching or sample exposure | Level 5 procedure                         | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Dark World export          | Level 5 procedure                         | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Hum continuing after tab   | hold distance and re-monitor              | Hazardous Materials Desk                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Witness plate corroded     | container withdrawal                      | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Work near the source       | White Grave command approval              | Level 5                                   |
+| threshold                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+The fluid is the consumable and one jug is one campaign, so calendar interval
+NOT MEASURED. Approved
+shutdown tabs are the second consumable. The 1985 titanium failure is why ceramic and
+gold-lined storage is
+mandatory and titanium proves nothing.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Container corroded in      | titanium used as proof of safety          | ceramic only; 1985                        |
+| minutes                    |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Bubbling after tab         | delayed shutdown reaction                 | hold distance; 2024                       |
+| insertion                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Etch deeper than intended  | surface logic mismatch                    | stop; 2026 test                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Hum absent in a full jug   | monitor fault or dead sample              | do not pour; test                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Dye shadow spreading       | spill beyond the tray                     | evacuate the bay                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| No effect on the target    | material from the source ecology          | change the method                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 RRA-S is not a universal dissolver. Pale Wood resists Red River contact in expedition
@@ -190,6 +327,10 @@ reverse bloomed Steel-Dirt
 without releasing Blue Haze? Does the low-frequency hum carry biological or navigational meaning for
 Eel-Crabs? How
 long can a neutralization tab hold shutdown before the acid resumes being river material?
+- What is the fluid's molecular weight, and why is it abnormal?
+- How fast does a stabilized sample etch each approved surface class?
+- What differs between red-cycle and blue-cycle collection, and does it change behaviour?
+
 
 FILE METADATA
 Created: 2026-07-02

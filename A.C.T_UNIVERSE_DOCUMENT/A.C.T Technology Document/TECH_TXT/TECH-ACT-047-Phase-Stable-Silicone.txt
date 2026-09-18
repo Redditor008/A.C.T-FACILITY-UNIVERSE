@@ -90,6 +90,50 @@ Argon Internal's refusal shaped PSS ethics. Technicians saw a better chassis. Ar
 forced move out of a body it
 had rewritten into identity. The PSS program now distinguishes technical suitability from personhood consent.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's material description and fabrication doctrine. Values the
+archive does not hold are marked NOT MEASURED and each is filed under OPEN
+QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| POLYMER PARAMETER          | VALUE                                                                                 |
++============================+=======================================================================================+
+| Body                       | translucent flesh-colored polymer                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Storage                    | rolled around a sterile core                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Internal                   | phase-stability threading, faint bands under angled light                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Edge gauge                 | Tear-Resistance Gauge along the outer edge                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Thermal                    | Thermal-Alignment Strip across safe, cold, hot, phase-stress ranges                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Surgical                   | precision surgical backing and medical cut grid                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Bonding                    | phase-bonding primer                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Warning                    | desynchronization stress indicator                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Chassis                    | thicker sheets with embedded mount points                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Custody                    | fabrication custody tag                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cutting                    | sterile nonreactive tools only                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Tear rating                | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Phase offset tolerance     | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Roll shelf life            | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+A patch on a surgical site is not the same proposal as a body
+for a sentient subject, and the two carry
+different ethical controls. The material is deliberately flexible but never casual: it is not
+cosmetic skin,
+novelty covering, or improvised insulation.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 PSS is stored as translucent flesh-colored polymer rolled around a sterile core. It may
 look like ordinary medical
@@ -107,7 +151,54 @@ stress indicator; medical cut grid; and fabrication custody tag.
 
 PSS must not be used as cosmetic skin, novelty covering, or improvised electronics insulation.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Fabrication Controls
+
+- medical cut grid
+- phase-bonding primer
+- sterile nonreactive cutting tools
+- embedded mount points on chassis stock
+
+Material Readouts
+
+- Tear-Resistance Gauge reading
+- Thermal-Alignment Strip shade
+- desynchronization stress indicator
+- internal banding under angled light
+
+Use And Personnel Limits
+
+- Do not bond under pressure before the alignment strip is read.
+- Do not continue when the strip shows phase stress.
+- Do not propose a sentient host shell without Artificial Cognition review.
+- Do not treat visual inspection as a substitute for bend and stretch testing.
+- Weakest against excessive heat and aggressive solvents.
+- Weakest under high shear.
+
+Tear rating, phase tolerance, and shelf life are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+Fabrication and application, Level 3 stock with Level 4 surgical use.
+
+1. Confirm the category: surgical, prosthetic, interface, seal, or chassis.
+2. Check patient consent, tissue condition, and temperature.
+3. Record phase exposure history.
+4. Route any sentient host shell to Artificial Cognition review.
+5. Confirm roll age, gauge state, and storage history.
+6. Align the Thermal-Alignment Strip before pressure bonding.
+7. Stop work if the strip shows phase stress.
+8. Record the fabrication custody tag entry.
+
+Step-down: unused stock returns to its sterile core and the tag is closed. Emergency:
+a strip reading phase
+stress halts bonding until Engineering re-surveys, because a technically stable chassis is not the
+same
+thing as an acceptable one.
+
 Before use, Engineering or Medical confirms the intended category: surgical, prosthetic, interface, seal, or
 chassis.
 Medical checks patient consent, tissue condition, temperature, and phase exposure. Artificial Cognition review is
@@ -126,6 +217,52 @@ signal fields before a conscious subject is involved.
 After use, all offcuts are collected. PSS fragments exposed to digital-hosting signals are archived
 or destroyed under
 Data Security review.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Before surgical use        | bend and stretch testing                  | Level 4 Medical                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Fabrication stock issue    | roll age and gauge check                  | Level 3, locally certified                |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Digital-hosting chassis    | Level 5 procedure                         | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| High-phase exposure        | Level 5 procedure                         | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Gauge showing tear risk    | roll withdrawal                           | Medical Fabrication Desk                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Sentient host proposal     | Artificial Cognition review               | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+Stock is the consumable and is issued by roll rather than serviced on a
+schedule, so calendar interval NOT
+MEASURED. The 2023 revision is why bend and stretch testing precedes patient contact instead
+of following
+visual inspection.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Strip tearing at a joint   | repeated movement exceeded rating         | retest stock; 2023                        |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Strip showing phase stress | desynchronization beyond tolerance        | stop bonding                              |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Subject rejects the        | identity, not adhesion                    | Medical review                            |
+| sensation                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Chassis refused by the     | suitability is separate from stability    | 2024 case                                 |
+| subject                    |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Polymer slipping under     | aggressive cleaning agent                 | change the agent                          |
+| solvent                    |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Bands invisible under      | stock aged or substituted                 | withdraw the roll                         |
+| angled light               |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 PSS can maintain tangibility, but it cannot decide identity, compatibility, or permanence. It may
@@ -187,6 +324,10 @@ thermal alignment be automated without hiding operator responsibility? What happ
 on tissue that is
 already partly digital? How much flesh-coloring is medical comfort and how much is design
 dishonesty?
+- What tear rating does surgical stock hold, and how was bend testing standardised?
+- What phase offset can the threading tolerate before the strip reads stress?
+- What did the 2024 chassis refusal change about Artificial Cognition review?
+
 
 FILE METADATA
 Created: 2026-02-27

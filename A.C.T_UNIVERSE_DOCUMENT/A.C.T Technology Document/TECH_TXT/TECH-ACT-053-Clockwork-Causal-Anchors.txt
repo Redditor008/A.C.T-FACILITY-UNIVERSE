@@ -92,6 +92,51 @@ historically decisive. It taught the Facility to
 view causality as something a machine could interact with, even if the first machines
 could not master it.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and study doctrine. The anchors
+are legacy
+hardware, so live-operation values are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| ANCHOR PARAMETER           | VALUE                                                                                 |
++============================+=======================================================================================+
+| Form                       | heavy clock regulator inside an iron anchor frame                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Sizes                      | cabinet-sized or wall-mounted; desk units classed unstable                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Gearing                    | brass gear train                                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Frame                      | iron anchor frame                                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Regulation                 | weighted escapement                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Face                       | sequence marks, witness ticks, final locking notch; no ordinary hours                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Winding                    | manual winding key                                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Latch                      | cause-to-effect latch                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Isolation                  | vibration damping feet                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Muting                     | bell mute lever                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Records                    | ledger synchronization clip                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Safety                     | red stop pin                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Range held                 | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Tick tolerance             | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Winding turns per test     | set per test order                                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The intended effect was sequence, not full reality stabilization: before before after, cause before
+result,
+opening before contents. Handwritten repair marks from before modern designation rules are preserved as
+evidence and are not polished away.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 Surviving CCAs resemble heavy clock regulators mounted inside iron anchor frames. Most are cabinet-sized
@@ -112,7 +157,55 @@ Some units contain handwritten repair marks from before modern Archive designati
 are preserved as
 evidence and are not to be polished away.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Study Bench Controls
+
+- red stop pin
+- manual winding key, used only under a test order
+- bell mute lever
+- vibration damping feet
+
+Mechanism Readouts
+
+- sequence-marked face position
+- witness tick count
+- final locking notch engagement
+- stored tension check on every gear
+
+Study And Personnel Limits
+
+- Do not study a unit that is wound or under stored tension.
+- Do not wind beyond the turns listed in the test order.
+- Do not place a light desk unit on a shared bench.
+- Do not polish away historical repair marks.
+- Weakest against large spaces, living anomalies, and modern temporal hazards.
+- Weakest where local sequence hides a larger instability.
+
+Range and tick tolerance are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+Legacy study, Level 3 review with Level 5 winding.
+
+1. Confirm the unit is unwound and pinned.
+2. Place it on an isolation bench.
+3. Confirm chain of custody with Archive.
+4. Confirm no gear is under stored tension.
+5. Verify the unit is not synchronized to an active artifact, room, or
+file.
+6. Wind only to the turns listed in the test order.
+7. Record the exact click count and face position.
+8. Pin the unit again before it leaves the bench.
+
+Step-down: the anchor is pinned, muted, and returned to custody with its click count
+logged. Emergency: a
+reverse tick stops the test immediately and the unit is retired, which is how
+the 1819 incident came to
+define reverse escapement risk.
 
 No live CCA operation is authorized for ordinary containment. Study begins with the unit
 unwound, pinned, and placed
@@ -132,6 +225,52 @@ interaction.
 
 After any motion, the unit is pinned open and left under observation until the
 final tick has been accounted for.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Archive review             | Level 3 procedure                         | Level 3                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Mechanism access           | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Winding or live testing    | Level 5 procedure                         | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Reconstruction proposal    | Level 5 review                            | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Stored tension found       | pin and isolate before handling           | Temporal Review Desk                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Historical repair marks    | preserve, never clean                     | Archiver Division                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+The anchors are retired, so no operational service interval exists and interval is not
+applicable rather
+than NOT MEASURED. Conservation is limited to pinning, muting, and isolation. The 1965 replacement
+review is
+why RSA doctrine superseded mechanical anchoring instead of extending it.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Ticking backward, hands    | reverse escapement                        | retire the unit; 1819                     |
+| still                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Blank ledger line          | record affected by anchoring              | classify; 1922                            |
+| pre-filled                 |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Skipped or repeated tick   | escapement wear                           | pin and withdraw                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Room clock losing seconds  | local sequence forced                     | stop the test                             |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Vibration through a desk   | light frame transmitting                  | isolation bench only                      |
+| frame                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| False stability in an      | local order only                          | widen the survey                          |
+| unstable room              |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -198,6 +337,10 @@ surviving units remain
 intact, or should stored tension risks require disassembly? Did CCA doctrine influence the first
 RSA prototype more
 than current engineering admits?
+- What range of space could a cabinet unit actually hold in sequence?
+- How many winding turns produce a measurable effect, and who sets that figure?
+- Which surviving units are still synchronised to a room, artifact, or file?
+
 
 FILE METADATA
 

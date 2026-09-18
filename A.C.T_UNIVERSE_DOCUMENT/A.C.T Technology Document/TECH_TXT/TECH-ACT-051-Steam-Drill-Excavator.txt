@@ -89,6 +89,54 @@ holding dangerous things in prepared rooms. It allowed the founders to move towa
 buried truth and forced them to
 build the first underground logic that later became the ABYSS Floor.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's preserved-component list and archive doctrine. The platform
+is
+retired, so values that would belong to a live machine are marked NOT MEASURED
+and filed under OPEN
+QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| PRESERVED PARAMETER        | VALUE                                                                                 |
++============================+=======================================================================================+
+| Status                     | retired; no active drilling procedure is authorized                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Era role                   | deep-earth boring platform of the First Descent                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Frame                      | heavy steam-driven boring frame                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Hull                       | reinforced pressure hull                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Thermal                    | layered heat shielding                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Feed                       | mechanical feed assemblies                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Services                   | water and pressure management lines                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cutting                    | mineral clearing teeth                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Instruments                | analog depth-state gauges                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Preserved pieces           | drill head fragment, feed gear, shield plate, line coupling, tooth                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Controls                   | manual brake lever and operator signal bell                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Records                    | descent map plate and sealed maintenance ledger                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Bore diameter              | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Descent rate               | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Maximum depth reached      | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The system used industrial power logic because the era had no modern RSA support,
+no ARM network, no digital
+monitoring, and no safe narrative buffer. The surviving pieces are treated as historical evidence
+and
+engineering warnings, not as museum decorations.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 No complete active SDE unit remains in service. Preserved components and archive diagrams describe
@@ -107,7 +155,54 @@ signal bell; and sealed maintenance ledger.
 The surviving pieces are treated as historical evidence and engineering warnings, not as museum
 decorations.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Archive Handling Controls
+
+- component inspection bench
+- contamination screening
+- Materials Custody supervision for component access
+- sealed maintenance ledger custody
+
+Preservation Readouts
+
+- pressure memory screening result
+- heat residue screening result
+- abyssal particulate screening result
+- ledger and map plate condition
+
+Study And Personnel Limits
+
+- Do not treat any preserved part as inert before screening.
+- Do not polish, clean, or restore a component without custody approval.
+- Do not read the First Descent's success as evidence of safety.
+- Do not propose reconstruction below Level 5 review.
+- Weakest as a modern reference: no causal mapping, no collapse prediction.
+- Weakest as a safety model: no neurological exposure monitoring.
+
+Bore diameter, descent rate, and depth are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+Archive handling of a retired platform, Level 3 study with Level 4 component access.
+
+1. Inspect the component before any handling.
+2. Screen for contamination.
+3. Verify no pressure memory remains active.
+4. Verify no heat residue remains active.
+5. Verify no abyssal particulate remains active.
+6. Confirm Materials Custody supervision.
+7. Record the piece against the descent map plate.
+8. Return the ledger to sealed custody.
+
+Step-down: the component returns to its cradle and the screening record is filed with
+the ledger. Emergency:
+a positive pressure or heat screening seals the piece as active evidence and stops
+all handling until Abyss
+Engineering reviews it.
 
 SDE is retired. No active drilling procedure is authorized. Archive handling begins with component
 inspection,
@@ -124,6 +219,55 @@ not assemble working drive
 chains, reproduce bore-head metallurgy, or use the design for unauthorized sub-crustal access. Any field
 proposal
 citing SDE must state why modern safer equipment cannot perform the task.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Archive study              | Level 3 procedure                         | Level 3                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Component access           | Level 4 procedure under custody           | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Reconstruction proposal    | Level 5 review                            | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Positive contamination     | seal as active evidence                   | Materials Custody                         |
+| screening                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Corrosion or fracture found| stabilisation, not restoration            | Historical Engineering Archive            |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Ledger access              | supervised reading                        | Archiver Division                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+The platform is retired, so no operational service interval exists and interval is not
+applicable rather
+than NOT MEASURED. Preservation work is conservation only: repair marks and discoloration are evidence.
+The
+1888 bell silence is why single-channel descent communication is treated as a warning rather
+than a period
+detail.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Signal bell silent for     | single-channel descent communication      | doctrine warning; 1888                    |
+| hours                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Shield plating discoloured | thermal zone outside tolerance            | route review; 1888                        |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Pressure memory on a       | stored stress in the metal                | seal and screen                           |
+| fragment                   |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Abyssal particulate on a   | source contact residue                    | containment screening                     |
+| tooth                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Component proposed for     | modern confidence in an old route         | Level 5 only                              |
+| rebuild                    |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Ledger page fragile        | age and sealing residue                   | supervised reading                        |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -197,6 +341,11 @@ success encourage the
 founders to misread descent as control? Are any unregistered SDE components still embedded in
 sealed lower access
 routes?
+- What bore diameter and descent rate did the platform actually achieve?
+- How deep did the First Descent reach, and what does the descent map
+  plate omit?
+- Which preserved components still carry measurable pressure or heat memory?
+
 
 FILE METADATA
 

@@ -97,6 +97,37 @@ is designed to forget.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and normalcy doctrine. The system
+has no
+machine body, so values that would belong to hardware are marked NOT MEASURED and
+filed under OPEN
+QUESTIONS.
+
+| SYSTEM PARAMETER | VALUE |
+|---|---|
+| Form | integrated normalcy infrastructure, no universal machine body |
+| Cover | cover-identity file and front-organization shell packet |
+| Status | narrative status field |
+| Witnesses | witness handling plan |
+| Medical | medical-compatible explanation packet |
+| Civil | police or municipal contact path |
+| Media | media quieting instruction |
+| Chemical | amnestic logistics request |
+| Audit | contradiction ledger, mandatory |
+| Control | internal truth lock |
+| Cover forms | research campus, maritime office, logistics firm, heritage board, health service |
+| Ledger retention | NOT MEASURED |
+| Cover survival rate | NOT MEASURED |
+| Regional coordination load | NOT MEASURED |
+
+The contradiction ledger is mandatory: it records the real event, the public story, who
+approved the public
+story, and what future harm the cover may cause. The system prevents exposure from
+becoming public reality
+without forcing every incident into crude erasure.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 SBS has no universal machine body. Its physical form is the set of offices,
@@ -123,7 +154,54 @@ what future harm the cover may cause.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Operation Controls
+
+- cover-identity file selection
+- front-organization shell packet
+- witness handling plan
+- amnestic logistics request
+- internal truth lock
+
+### Operation Readouts
+
+- narrative status field
+- leak probability assessment
+- contradiction ledger entry
+- medical-compatible explanation status
+
+### Doctrine And Personnel Limits
+
+- Do not suppress medical care to protect a cover.
+- Do not erase families for convenience.
+- Do not sell cover access.
+- Do not use the system to hide A.C.T misconduct from internal review.
+- Do not destroy functioning cultural containment without review.
+- Weakest where partial truth exposure is likely.
+- Weakest against hostile GOI interference.
+
+Retention, survival rate, and coordination load are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Normalcy operation, Level 3 local cover with Level 4 regional coordination.
+
+1. Secure the physical scene and preserve the first raw truth.
+2. Select the public-facing mask.
+3. Evaluate leak probability and hostile GOI interference.
+4. Assess witness vulnerability.
+5. Test whether the cover survives partial truth exposure.
+6. Prepare explanations that do not deny necessary treatment.
+7. Open or update the contradiction ledger.
+8. Record who approved the public story.
+
+Step-down: the ledger is closed with the harm assessment attached and the internal truth
+lock is set.
+Emergency: a cover failing under partial exposure escalates to regional coordination rather than deepening
+the original story.
 
 Before deployment, Recovery secures the physical scene and preserves the first raw truth. Civil
 Covert selects the
@@ -146,6 +224,35 @@ cover becomes
 worship or panic, or personnel begin believing the public story over the archive record.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Local cover operation | Level 3 procedure | Level 3 |
+| Regional narrative coordination | Level 4 procedure | Level 4 |
+| Structural operation | Level 5 procedure | Level 5 |
+| Contradiction ledger | open or update per incident | Archiver Division |
+| Witness vulnerability found | handling plan revision | Medical Care |
+| Misconduct allegation | internal review, never suppression | Internal Review |
+
+No calendar interval is recorded; the system is reviewed per incident and per ledger
+entry, so interval NOT
+MEASURED. Cover identities and shell packets are the consumables and are retired when burned.
+The 1982
+review is why perception masking is never treated as an explanation for records, claims,
+or testimony.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Visible vault attracting attention | heavy access structures | conceal; 1926 origin |
+| Records unexplained by masking | perception is not paperwork | narrative work; 1982 |
+| Ledger entry missing | approval not recorded | halt the cover; 2026 warning |
+| Cover failing under partial truth | story too narrow | regional escalation |
+| Medical care blocked by the story | doctrine breach | override immediately |
+| Hostile GOI amplifying the event | interference | Intelligence review |
 
 ## KNOWN LIMITS
 
@@ -224,6 +331,10 @@ carried carefully.
   internal memory drift?
   Can a hostile GOI weaponize an accurate smaller truth against a necessary larger
   mask?
+
+- How long is a contradiction ledger entry retained, and who may read it?
+- What proportion of covers survive partial truth exposure?
+- What did the 2026 ledger warning change about approval recording?
 
 ---
 

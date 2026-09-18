@@ -97,6 +97,49 @@ produced psychic effect, altered gravity, carried disease, provoked caretakers, 
 ways that
 worsened containment. RIC became the ancestor of the Massive Box, not its final form.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and legacy-review doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| CAGE PARAMETER             | VALUE                                                                                 |
++============================+=======================================================================================+
+| Hull                       | layered iron hull                                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Bars                       | cross-braced containment bars                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Skin                       | riveted outer plate                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Locking                    | external locking beam                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Hinges                     | heavy hinge tree                                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Anchoring                  | floor pin socket                                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Service                    | feed drawer and service slot                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Observation                | inspection gallery rail set outside reach                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Emergency                  | drop shutter                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Evidence                   | repair plate ledger mark                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Condition                  | surviving examples show repeated patching and mismatched ironwork                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Bar spacing standard       | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Rated load                 | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Floor pin depth            | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+No RIC structure is treated as resident-ready without modern review, because iron can preserve
+old force
+while hiding old fatigue. The system did not solve modern containment; it created the
+vocabulary for it.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard RIC installation used multi-layered iron hulls, cross-braced bars, riveted plates, external locking
@@ -117,7 +160,56 @@ No RIC structure is treated as resident-ready without modern review. Iron can pr
 force while hiding old
 fatigue.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Inspection Controls
+
+- inspection gallery rail
+- feed drawer and service slot
+- emergency drop shutter
+- external locking beam
+
+Structure Readouts
+
+- corrosion and hinge wear survey
+- floor-pin integrity check
+- deformation measurement against original profile
+- residue sampling result
+- repair plate ledger marks
+
+Review And Personnel Limits
+
+- Do not assign a new anomaly without Level 4 review and a written
+  explanation.
+- Do not lean equipment against a surviving cage.
+- Do not enter before corrosion and pin inspection.
+- Do not treat a resident as a beast because the structure implies it.
+- Weakest against psychic fluctuation and gravity stress.
+- Weakest where spatial distortion is present.
+
+Bar spacing, rated load, and pin depth are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+Legacy cage review, Level 3 archive with Level 4 resident-adjacent work.
+
+1. Confirm no modern Massive Box or Enclosure Box option exists.
+2. Write the explanation required for a Level 4 exception.
+3. Inspect for corrosion and hinge wear.
+4. Check floor-pin integrity.
+5. Measure deformation against the original profile.
+6. Sample residue before staff approach.
+7. Treat a cage inside an active chamber as a structure with memory.
+8. Record the repair plate ledger marks.
+
+Step-down: the cage is re-locked and the inspection is filed against the chamber record.
+Emergency: a
+segment still flexing toward its old shape is sealed as evidence rather than reused,
+which is the standing
+reading of the 1874 bar memory event.
 
 No new anomaly may be assigned to RIC as a primary containment structure without
 Level 4 review and a written
@@ -136,6 +228,51 @@ old iron surfaces
 do not carry biological contamination, flakes, sharp edges, or pressure damage.
 
 Emergency use is limited to short-duration delay, not long-term holding.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Archive review             | Level 3 procedure                         | Level 3                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Surviving cage access or   | Level 4 procedure                         | Level 4                                   |
+| retrofit                   |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Resident-adjacent          | Level 4 with welfare review               | Level 4                                   |
+| inspection                 |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| New assignment proposal    | written exception and review              | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Corrosion or pin fault     | withdraw from resident use                | Heavy Containment                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Welfare concern raised     | modern housing review                     | Subject Care Division                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+The cages are legacy structures, so no operational service interval exists and interval is
+not applicable
+rather than NOT MEASURED. Inspection happens on access. The 2024 welfare audit is why
+review is structural
+and humane at the same time rather than structural only.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Segment flexing after      | preserved stress history                  | seal as evidence; 1874                    |
+| removal                    |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Iron-only logic questioned | walls must dampen, not oppose             | transition; 1912                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Resident welfare concerns  | cage framing the subject                  | modern housing; 2024                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Hinge tree worn            | decades of repair                         | withdraw from use                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Floor pin loose            | socket fatigue                            | structural review                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Deformation beyond profile | historic force still stored               | measure and retire                        |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -204,6 +341,11 @@ Can RIC fragments safely remain inside active chambers as historical remnants? W
 delay become
 unauthorized containment? How much of A.C.T resident-welfare doctrine was written in reaction to cages
 like these?
+- What bar spacing and rated load did the standard cage carry?
+- How many surviving cages remain inside active chambers?
+- What did the 2024 welfare audit require for residents still housed in legacy
+  iron?
+
 
 FILE METADATA
 

@@ -97,6 +97,35 @@ resonance mapping, and active stabilization.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and legacy-vault doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| VAULT PARAMETER | VALUE |
+|---|---|
+| Shielding | refined lead panels |
+| Support | layered stone or brick vault backing |
+| Closure | mechanical hinge and bar lock |
+| Sealing | seam wax or pitch residue |
+| Identity | early artifact tag plate, possibly predating modern rules |
+| Records | hand ledger pocket |
+| Later additions | contamination warning label, retrofit sensor clip |
+| Access | inspection hatch plug |
+| Evidence | lift chain scars |
+| Optional | lead-lined glass, iron outer straps, waxed pockets |
+| Modern service | limited; only where legacy artifacts remain seated |
+| Lead thickness | NOT MEASURED |
+| Attenuation provided | NOT MEASURED |
+| Seam residue composition | NOT MEASURED |
+
+No surviving unit is assumed safe because of age. Old lead can crack, creep,
+powder, or conceal
+contamination inside seams, and a scan returning nothing through lead is not proof that
+the compartment is
+empty.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard inherited HDLV installation consists of refined lead panels, layered masonry backing, thick
@@ -126,7 +155,53 @@ inside seams.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Vault Access Controls
+
+- mechanical hinge and bar lock
+- inspection hatch plug
+- written opening authorization
+- retrofit sensor clip where fitted
+
+### Vault Condition Readouts
+
+- seam wax or pitch condition
+- lead panel cracking, creep, or powdering
+- lift chain scar history
+- contamination warning label state
+
+### Vault And Personnel Limits
+
+- Do not drill, cut, scrape, polish, heat, or chemically clean the lead.
+- Do not assume an empty reading through lead means an empty vault.
+- Do not treat seam residue as ordinary dust.
+- Do not load a legacy vault beyond its original rating.
+- Weakest against reality drift and narrative rewrite.
+- Weakest where lead dust or creep has begun.
+
+Thickness, attenuation, and residue composition are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Legacy vault work, Level 2 access with Level 4 opening.
+
+1. Classify the vault as active storage, retired housing, or sealed evidence.
+2. Check lead exposure, dust risk, and ventilation.
+3. Confirm floor load.
+4. Confirm whether opening disturbs a founding record chain.
+5. Confirm whether the lead is load-bearing or only a shield layer.
+6. Obtain written opening authorization.
+7. Open without cutting, scraping, or heating.
+8. Log the tag plate and ledger pocket contents.
+
+Step-down: the hatch plug is reseated and the authorization is filed with the record
+chain. Emergency: seam
+residue is bagged as both toxic material and possible anomalous evidence, which is the
+standing reading of
+the 1680 weep record.
 
 Before work near HDLV, Materials Custody verifies whether the vault is active storage, retired
 housing, or sealed
@@ -149,6 +224,34 @@ legacy vaults is evidence
 until Site Safety and Archive both release it.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Inherited vault access | Level 2 procedure | Level 2 |
+| Opening, cutting, melting, refitting | Level 4 procedure | Level 4 |
+| Seam residue found | dual classification and sampling | Materials Custody |
+| Lead dust or powder | ventilation and exposure review | Site Safety |
+| Deformation under load | structural review before further use | Engineering Division |
+| Founding record chain at risk | Archive review before opening | Archiver Division |
+
+The vault is passive and is inspected on access rather than on a schedule,
+so calendar interval NOT
+MEASURED. There is no consumable. The 1952 misread is why a null reading through
+lead is recorded as
+inconclusive rather than clear.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Grey residue along a lower seam | seal weep, origin unidentified | dual class; 1680 |
+| Locker assumed empty | shielding blocked the scan | inconclusive; 1952 |
+| Comparison with liquid lead | modern barrier behaviour differs | review; 2004 |
+| Panel cracking or creeping | age and load | structural review |
+| Tag plate unreadable | pre-modern designation | Archive reconstruction |
+| Hinge or bar seized | corrosion | Level 4 work only |
 
 ## KNOWN LIMITS
 
@@ -226,6 +329,11 @@ many ways a threat can be light.
   Should every inherited HDLV site be opened, or does opening destroy useful historical
   isolation?
 - Did any early artifact learn to use the vault's silence as concealment?
+
+- What lead thickness does a standard inherited panel carry, and what does it
+  attenuate?
+- What is the composition of seam residue, and how often is it anomalous?
+- How many inherited vaults still hold artifacts the ledger never identified?
 
 ---
 

@@ -90,6 +90,36 @@ already participating in reality before staff disturb it.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and intake doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| SUITE PARAMETER | VALUE |
+|---|---|
+| Scale | room-scale instrument environment, not a handheld device |
+| Chamber | non-contact causal pulse chamber |
+| Support | regulated sample cradle |
+| Isolation | environmental isolation shell |
+| Observation | observation-denial shutters |
+| Quiet | electromagnetic quieting grid |
+| Power | isolated supply with precision regulation |
+| Records | data mirror to Archive custody |
+| Analysis | pulse comparison terminal |
+| Output | intake advisory console |
+| Access | operator authorization lock |
+| Audit | post-scan discrepancy ledger |
+| Pulse resolution | NOT MEASURED |
+| Baseline noise floor | NOT MEASURED |
+| Scan duration range | NOT MEASURED |
+
+The suite's most important component is not a sensor head; it is the isolation
+of the measurement
+environment from the artifact's effects. False noise can become a false identity reading, which
+is why power
+is regulated rather than merely stable.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 The DRM Suite is a room-scale instrument environment rather than a handheld device. The
@@ -118,7 +148,54 @@ artifact's effects.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Suite Controls
+
+- operator authorization lock
+- observation-denial shutters
+- electromagnetic quieting grid
+- regulated sample cradle
+
+### Chamber And Console Readouts
+
+- causal pulse trace
+- baseline room behaviour before and after
+- pulse comparison terminal match
+- intake advisory console output
+- post-scan discrepancy ledger entry
+
+### Measurement And Personnel Limits
+
+- Do not treat a stable pulse as proof that handling is safe.
+- Do not skip the empty-chamber baseline.
+- Do not study the object beyond the approved transfer method.
+- Do not file readings as informal notes instead of evidence.
+- Weakest against anomalies that imitate background reality.
+- Weakest against hazards acting only through human witnesses.
+
+Resolution, noise floor, and scan duration are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Intake scan, Level 3 routine with Level 4 for high-risk intake.
+
+1. Confirm transfer authorization and restriction set.
+2. Confirm test purpose and chamber conditions.
+3. Confirm allowed observation modes.
+4. Open the Archive record shell before the scan.
+5. Review operator and standby exposure risk.
+6. Establish baseline room behaviour.
+7. Place the object without direct study.
+8. Close the discrepancy ledger after comparison.
+
+Step-down: the object leaves by the same approved transfer method and the chamber is
+re-baselined empty.
+Emergency: a pulse appearing on an inert control cradle voids the scan, which is
+the standing outcome of the
+2026 baseline echo event.
 
 Before a scan, Containment confirms the object's transfer authorization and restriction set. Research confirms
 test
@@ -144,6 +221,34 @@ what staff believed it
 meant.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before and after each high-risk scan | empty-chamber baseline check | Level 3 Research |
+| High-risk intake or signature dispute | Level 4 procedure | Level 4 |
+| Method change | Level 4 review | Level 4 |
+| Quiet grid fault | chamber shutdown and repair | Engineering Division |
+| Discrepancy ledger entry | Archive reconciliation | Archiver Division |
+| Power regulation drift | supply service before further scans | Engineering Division |
+
+No calendar interval is recorded; the chamber is baselined per scan rather than per
+period, so interval NOT
+MEASURED. There is no consumable. The 2026 drift correction is why matches are reconciled
+against the ledger
+instead of accepted on similarity.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Pulse on an empty cradle | chamber retained environmental residue | re-baseline; 2026 |
+| Stable pulse read as handling safety | advisory overreach | distinguish; 2026 |
+| Profile matching an older record | archive drift | reconcile; 2026 correction |
+| No pulse from a present object | pulse hidden or imitated | do not clear for handling |
+| Identity changing under observation | observation-sensitive subject | shutter and review |
+| Reading punished by the subject | measurement-hostile anomaly | abort the scan |
 
 ## KNOWN LIMITS
 
@@ -224,6 +329,10 @@ without being touched.
 - What is the upper limit of non-contact measurement before observation becomes contact?
   Can DRM detect a missing pulse where reality insists an object should be
   present?
+
+- What pulse resolution does the chamber achieve, and what is its noise floor?
+- How long may a scan run before the baseline itself drifts?
+- Which classes are excluded from scanning entirely, and who maintains that list?
 
 ---
 

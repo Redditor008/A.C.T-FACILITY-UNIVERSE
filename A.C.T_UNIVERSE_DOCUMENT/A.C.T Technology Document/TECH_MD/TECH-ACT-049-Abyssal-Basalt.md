@@ -97,6 +97,36 @@ at its surface.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's custody description and handling doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| STONE PARAMETER | VALUE |
+|---|---|
+| Material | dense black Abyss-derived rock |
+| Forms | blocks, slabs, plates, coffin hull segments, shield panels |
+| Storage | digital gravimetric scale, never ordinary shelving |
+| Marking | mass-shift tolerance range on every inventoried piece |
+| Cross-check | floor vibration log comparison |
+| Preparation | edge mapping before containment installation |
+| Identity | structural tracking code with omitted sections |
+| Records | localized compression log and spatial strain tag |
+| Lifting | lift-rated pallet cradle only |
+| Witness | edge-fracture witness line |
+| Alarm | mass-shift alarm |
+| Placement | installation orientation mark |
+| Evidence | retired-chip evidence vial |
+| Density | NOT MEASURED |
+| Compression tolerance | NOT MEASURED |
+
+No piece is carried by hand, even when it looks small. The material absorbs
+part of the argument between a
+chamber and the force trying to occupy it, and it is not interchangeable with
+Abyssal Masonry or Abyssal
+Anchor Plating.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 Standard custody units are black rocks, slabs, plates, blocks, coffin hull segments, or shield
@@ -124,7 +154,53 @@ carried by hand, even when visually small.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Custody And Lift Controls
+
+- lift-rated pallet cradle
+- digital gravimetric scale
+- installation orientation mark
+- retired-chip evidence vial
+
+### Mass And Strain Readouts
+
+- mass-shift alarm against tolerance range
+- localized compression log
+- spatial strain tag
+- edge-fracture witness line
+
+### Handling And Personnel Limits
+
+- Do not carry any piece by hand.
+- Do not store a piece on ordinary shelving.
+- Do not tilt suddenly during movement.
+- Do not substitute masonry or anchor plating for basalt.
+- Weakest against focused anomalous charge weapons.
+- Weakest where observation itself may alter the reading.
+
+Density and compression tolerance are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Custody movement, Level 4 handling with Heavy Transport.
+
+1. Confirm mass, tracking code, and scale calibration.
+2. Confirm route strength and destination rating.
+3. Confirm the role: shielding, ballast, coffin body, or standard.
+4. Confirm lift path, floor load, and set-down points.
+5. Confirm whether observation could alter the reading.
+6. Keep the stone level and slow during movement.
+7. Set the orientation mark at installation.
+8. Log the compression reading after placement.
+
+Step-down: the piece is re-weighed on its scale and the tolerance range is re-checked.
+Emergency: a
+mass-shift alarm stops the lift and the piece is set down at the nearest
+rated point, because apparent size
+has never been a safe guide to weight.
 
 Before handling, Materials Custody confirms mass, tracking code, scale calibration, route strength, and destination
 rating. Engineering confirms whether the piece is being used as shielding, ballast, coffin body,
@@ -146,6 +222,34 @@ a moving wall
 if its mass stops agreeing with its position.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Before movement | scale calibration and route check | Level 4 Materials Custody |
+| Extraction or shaping | Level 5 procedure | Level 5 |
+| Heavy-entity shielding use | Level 5 procedure | Level 5 |
+| Mass-shift alarm | halt, re-weigh, review tolerance | Materials Custody |
+| Edge-fracture line broken | quarantine and chip vial | Abyss Engineering |
+| Pallet or cradle deformation | cradle replacement | Heavy Transport |
+
+No calendar interval is recorded; the stone is weighed per movement and per installation,
+so interval NOT
+MEASURED. There is no consumable. The 1995 pallet event is why every piece is
+classed heavy regardless of
+apparent size.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Pallet bending under a small block | apparent size misread as mass | heavy class; 1995 |
+| Five-centimetre penetration | focused charge at range | not absolute; 2021 benchmark |
+| Density disagreement in a composite | material substitution | verify; 2024 review |
+| Mass-shift alarm with no movement | compression change | re-weigh before lifting |
+| Witness line cracked | stored strain released | quarantine the piece |
+| Reading changing under observation | observer effect | remote instrumentation |
 
 ## KNOWN LIMITS
 
@@ -228,6 +332,10 @@ the room has stopped listening.
   Are omitted structural tracking codes purely logistical, or do the complete codes have
   operational
   effect?
+
+- What is the stone's density, and how does it compare with Abyssal Masonry?
+- What compression tolerance does a shield panel hold before the strain tag trips?
+- Which omitted sections of the tracking code remain restricted, and why?
 
 ---
 
