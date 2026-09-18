@@ -29,7 +29,8 @@ research activity is the station's cover, the ordinary arctic science that
 gives the buried containment station its reason to exist.
 
 This dossier records the floor in full institutional language: what it is,
-how it conceals, how it is built, and how it stands as the surface boundary
+how it conceals, how it is built, and how it stands as the surface
+boundary
 of one of the Facility's most isolated installations.
 
 ---

@@ -12,24 +12,70 @@
 
 ## Functional Identity
 
-The DREAM .INC Dream Nectar Sealed Batch System is the product-handling and dose-presentation technology used to convert extracted Dream Nectar into a saleable underground medicine. The GOI dossier confirms a recovered sealed product batch obtained after a private referral chain was disrupted. Packaging used wellness language and did not identify the source anomaly, extraction machine, or corporate executive structure. This file covers the vials, residue, labels, inserts, batch scarcity logic, storage uncertainty, and handoff condition that let DREAM .INC place anomalous dream material into consumer circulation.
+The DREAM .INC Dream Nectar Sealed Batch System is the product-handling and dose-presentation technology
+used to
+convert extracted Dream Nectar into a saleable underground medicine. The GOI dossier confirms a
+recovered sealed
+product batch obtained after a private referral chain was disrupted. Packaging used wellness language
+and did not
+identify the source anomaly, extraction machine, or corporate executive structure. This file covers the
+vials,
+residue, labels, inserts, batch scarcity logic, storage uncertainty, and handoff condition that let DREAM
+.INC place
+anomalous dream material into consumer circulation.
 
-Dream Nectar is sold with the claim that a consumer's wish will come true in their dream. A.C.T evidence supports a narrower but serious result: some users report unusually vivid, continuous, emotionally forceful, wish-directed dreams with persistent recall. The batch system matters because the substance is not only a chemical sample. It is a delivery arrangement for dream alteration, private dependency, and personal data collection.
+Dream Nectar is sold with the claim that a consumer's wish will come true
+in their dream. A.C.T evidence supports a
+narrower but serious result: some users report unusually vivid, continuous, emotionally forceful, wish-directed dreams
+with persistent recall. The batch system matters because the substance is not only a
+chemical sample. It is a delivery
+arrangement for dream alteration, private dependency, and personal data collection.
 
 ## Product Features
 
-A.C.T has not confirmed stable dosage, shelf life, batch standard, or safe storage condition. Each recovered vial, residue smear, cap, label, packet, or consumer sample must therefore be handled as potentially active anomalous material. DREAM .INC appears to use scarcity as both safety method and sales device. Scarcity can hide degraded batches, imply value, test demand, identify returning consumers, and explain inconsistent effects without revealing whether the source anomaly or apparatus has changed condition.
+A.C.T has not confirmed stable dosage, shelf life, batch standard, or safe storage condition.
+Each recovered vial,
+residue smear, cap, label, packet, or consumer sample must therefore be handled as potentially
+active anomalous
+material. DREAM .INC appears to use scarcity as both safety method and sales device.
+Scarcity can hide degraded
+batches, imply value, test demand, identify returning consumers, and explain inconsistent effects without revealing
+whether the source anomaly or apparatus has changed condition.
 
-The recovered packaging avoided explicit anomalous terminology. This is part of the technology's function. A customer can treat the dose as discreet wellness material, a sleep aid, a private consultation outcome, or a rare medicine instead of evidence of source exploitation. The batch system therefore protects the company by separating consumer belief from machine reality.
+The recovered packaging avoided explicit anomalous terminology. This is part of the technology's function.
+A customer
+can treat the dose as discreet wellness material, a sleep aid, a private consultation
+outcome, or a rare medicine
+instead of evidence of source exploitation. The batch system therefore protects the company by
+separating consumer
+belief from machine reality.
 
 ## A.C.T Storage and Use Limits
 
-Recovered Dream Nectar must not be stored as ordinary pharmaceutical evidence. It requires anomaly-material logging, sleep-isolated containment, Medical and Containment review, and controlled access by personnel cleared for consumer privacy material. No A.C.T employee may ingest Dream Nectar for research, cover maintenance, informant recruitment, emotional relief, or personal curiosity outside a specific approved containment study.
+Recovered Dream Nectar must not be stored as ordinary pharmaceutical evidence. It requires anomaly-material
+logging,
+sleep-isolated containment, Medical and Containment review, and controlled access by personnel cleared for consumer
+privacy material. No A.C.T employee may ingest Dream Nectar for research, cover maintenance, informant
+recruitment,
+emotional relief, or personal curiosity outside a specific approved containment study.
 
-The batch must not be used to calm a consumer or prove DREAM .INC's claim. The product's apparent benefit is inseparable from unknown extraction cost and possible dependency. Recovered doses are evidence, hazard, and medical subject matter at the same time.
+The batch must not be used to calm a consumer or prove DREAM .INC's
+claim. The product's apparent benefit is
+inseparable from unknown extraction cost and possible dependency. Recovered doses are evidence, hazard, and
+medical
+subject matter at the same time.
 
 ## Failure and Open Questions
 
-Known risks include persistent dream recall, sleep disruption, desire fixation, false memory, consumer shame, repeated-purchase pressure, and unclear waking aftereffects. The batch may carry triggering language through inserts or expectation rather than chemistry alone. A.C.T must preserve packaging and consumer-facing text because the words around the vial may be part of the dose technology.
+Known risks include persistent dream recall, sleep disruption, desire fixation, false memory, consumer shame,
+repeated-purchase pressure, and unclear waking aftereffects. The batch may carry triggering language through inserts
+or expectation rather than chemistry alone. A.C.T must preserve packaging and consumer-facing text because
+the words
+around the vial may be part of the dose technology.
 
-Unresolved questions include whether different batches carry different wish categories, whether refused wishes indicate source instability, whether expired Nectar changes dreams, and whether dilution produces weaker effects or new ones. Archive confidence is High for recovered batch existence, Moderate for product effect, and Low for manufacturing standard.
+Unresolved questions include whether different batches carry different wish categories, whether refused wishes
+indicate source instability, whether expired Nectar changes dreams, and whether dilution produces weaker effects
+or
+new ones. Archive confidence is High for recovered batch existence, Moderate for product effect,
+and Low for
+manufacturing standard.

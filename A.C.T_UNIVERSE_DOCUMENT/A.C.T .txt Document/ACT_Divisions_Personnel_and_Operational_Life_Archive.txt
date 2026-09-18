@@ -6,19 +6,35 @@ Distribution: Internal
 Authority: Administration, Archive, and Division Review  
 
 Archive Note
-This file is the complete internal archive version of the Facility's divisions, personnel systems, operational culture, daily labor structure, and hidden institutional life.
+This file is the complete internal archive version of the Facility's divisions, personnel systems,
+operational
+culture, daily labor structure, and hidden institutional life.
 
 ---
 
 Introduction
-If Part Two defined the internal structure of A.C.T at the level of hierarchy and doctrine, then Part Six defines the Facility at the level of function, labor, discipline, and lived operation. A.C.T is not sustained by doctrine alone. It is sustained by thousands of daily actions carried out by researchers, guards, field operators, archivists, janitors, administrators, medics, containment engineers, and personnel whose work is rarely heroic, often secret, and constantly dangerous.
+If Part Two defined the internal structure of A.C.T at the level of hierarchy
+and doctrine, then Part Six defines the
+Facility at the level of function, labor, discipline, and lived operation. A.C.T is not
+sustained by doctrine alone.
+It is sustained by thousands of daily actions carried out by researchers, guards, field
+operators, archivists,
+janitors, administrators, medics, containment engineers, and personnel whose work is rarely heroic, often secret,
+and
+constantly dangerous.
 
-To understand A.C.T fully, one must understand not only its command structure, but the routines, burdens, duties, and human systems that allow it to keep the impossible buried.
+To understand A.C.T fully, one must understand not only its command structure, but the
+routines, burdens, duties, and
+human systems that allow it to keep the impossible buried.
 
 ---
 
 6.1 — The Facility as a Living System
-The A.C.T Facility is not merely a headquarters, a laboratory, or a prison. It is a living operational system built around the permanent management of anomalies. Every division, floor, and role exists to support one or more of the following functions:
+The A.C.T Facility is not merely a headquarters, a laboratory, or a prison. It
+is a living operational system built
+around the permanent management of anomalies. Every division, floor, and role exists to support
+one or more of the
+following functions:
 
 - detect the anomalous
 - secure the anomalous
@@ -29,15 +45,25 @@ The A.C.T Facility is not merely a headquarters, a laboratory, or a prison. It i
 - preserve structural normalcy
 - maintain internal continuity when the impossible pushes back
 
-The Facility is therefore not organized like a normal institution. It is closer to a buried state, a scientific fortress, and a secret civilization beneath civilization.
+The Facility is therefore not organized like a normal institution. It is closer to
+a buried state, a scientific
+fortress, and a secret civilization beneath civilization.
 
 6.1.1 Site Network and Distributed Operation
-The labor structure described in this file does not exist only inside one central body. A.C.T functions through a distributed network of major SITES, SUB-SITES, relays, and sealed installations, each carrying different burdens of containment, secrecy, archive continuity, and recovery. Divisions therefore operate both locally and across jurisdictional site boundaries. Detailed installation doctrine is preserved separately in the dedicated Site Doctrine, Site Registry, and Jurisdiction records.
+The labor structure described in this file does not exist only inside one central
+body. A.C.T functions through a
+distributed network of major SITES, SUB-SITES, relays, and sealed installations, each carrying different burdens
+of
+containment, secrecy, archive continuity, and recovery. Divisions therefore operate both locally and across
+jurisdictional site boundaries. Detailed installation doctrine is preserved separately in the dedicated Site Doctrine,
+Site Registry, and Jurisdiction records.
 
 ---
 
 6.2 — Division Function by Wing
-While Part Two defined the broad structure of the wings, Part Six explains what those divisions actually do as daily institutions.
+While Part Two defined the broad structure of the wings, Part Six explains what
+those divisions actually do as daily
+institutions.
 
 West Wings — Force, Capture, and Hard Containment
 The West Wings serve as the Facility’s enforcement and tactical pressure side.
@@ -51,7 +77,9 @@ Responsible for:
 - first-line breach response
 - lockdown implementation
 
-Security personnel are not normal guards. They are trained for environments where the threat may be physical, memetic, temporal, or informational.
+Security personnel are not normal guards. They are trained for environments where the threat
+may be physical, memetic,
+temporal, or informational.
 
 Recovery Division
 Responsible for:
@@ -73,7 +101,8 @@ Responsible for:
 - anomaly holding review
 - response integration with research and security
 
-If Research learns what an anomaly is, Containment decides how it survives being near humanity.
+If Research learns what an anomaly is, Containment decides how it survives being near
+humanity.
 
 Military Division
 Responsible for:
@@ -84,7 +113,9 @@ Responsible for:
 - anti-GOI armed intervention
 - existential emergency deployment
 
-The Military Division is not used casually. Its activation usually means containment logic has entered failure pressure.
+The Military Division is not used casually. Its activation usually means containment logic has
+entered failure
+pressure.
 
 ---
 
@@ -100,7 +131,8 @@ Responsible for:
 - historical preservation
 - dangerous information quarantine
 
-In A.C.T, archiving is a containment function. Some records are as dangerous as the anomalies they describe.
+In A.C.T, archiving is a containment function. Some records are as dangerous as the
+anomalies they describe.
 
 Intelligence Division
 Responsible for:
@@ -137,7 +169,8 @@ Responsible for:
 - abyssal access authority
 - existential doctrine review
 
-This is not a normal executive wing. It is the highest buried logic of the Facility.
+This is not a normal executive wing. It is the highest buried logic of
+the Facility.
 
 Company Development
 Responsible for:
@@ -175,7 +208,8 @@ Responsible for:
 - pattern recognition
 - controlled observation
 
-This division does not simply ask what anomalies do. It asks what they imply about reality itself.
+This division does not simply ask what anomalies do. It asks what they imply
+about reality itself.
 
 Transformation Division
 Responsible for:
@@ -185,7 +219,8 @@ Responsible for:
 - controlled utility assessment
 - anomaly-to-asset development
 
-This is the most controversial division in the Facility. It is where morality thins under strategic need.
+This is the most controversial division in the Facility. It is where morality thins
+under strategic need.
 
 Anomaly Lab Quarter
 Responsible for:
@@ -206,7 +241,8 @@ Responsible for:
 - abyssal isolation medicine
 - post-contact stabilization
 
-Medical staff in A.C.T are often dealing with injuries that medicine was never meant to classify.
+Medical staff in A.C.T are often dealing with injuries that medicine was never meant
+to classify.
 
 ---
 
@@ -222,36 +258,51 @@ It exists to connect:
 - emergency lockdown
 - abyssal routing
 
-The Anomaly Containment Elevator — called the Main Containment Elevator in operational shorthand — is not just transportation. It is the vertical artery of the entire underground complex.
+The Anomaly Containment Elevator — called the Main Containment Elevator in operational shorthand —
+is not just
+transportation. It is the vertical artery of the entire underground complex.
 
 ---
 
 6.3 — Personnel Roles in Daily Practice
-Part Two defined the rank order. Part Six explains how those roles feel in operation.
+Part Two defined the rank order. Part Six explains how those roles feel in
+operation.
 
 O5 Council
-Rarely seen, deeply insulated, and almost mythic to lower personnel. Most staff know the O5 more as an authority pattern than as individuals.
+Rarely seen, deeply insulated, and almost mythic to lower personnel. Most staff know the
+O5 more as an authority
+pattern than as individuals.
 
 Facility Administrator
-The practical sovereign of a site. Responsible for balancing doctrine, discipline, output, secrecy, and survival.
+The practical sovereign of a site. Responsible for balancing doctrine, discipline, output, secrecy, and
+survival.
 
 High Threat Administrator
-The authority that appears when an anomaly, program, or transformation decision crosses into Threat Level 7+ territory. Within that narrow mandate they outrank ordinary site governance and answer directly to the O5.
+The authority that appears when an anomaly, program, or transformation decision crosses into Threat
+Level 7+
+territory. Within that narrow mandate they outrank ordinary site governance and answer directly to
+the O5.
 
 Site Director
-The operational ruler of a specific branch or site zone. Where the Administrator governs broadly, the Site Director governs directly.
+The operational ruler of a specific branch or site zone. Where the Administrator governs
+broadly, the Site Director
+governs directly.
 
 Head Transformation
-The senior voice of the Transformation Division. Approves or rejects transformation proposals beyond site-level authority and arbitrates what may — and may not — be changed.
+The senior voice of the Transformation Division. Approves or rejects transformation proposals beyond site-level
+authority and arbitrates what may — and may not — be changed.
 
 High Researcher
-The senior scientific mind trusted not only to study anomalies, but to help decide what reality they are looking at.
+The senior scientific mind trusted not only to study anomalies, but to help decide
+what reality they are looking at.
 
 Senior Researcher
 The daily engine of scientific work. Senior Researchers convert unknowns into experimental procedure.
 
 Field Operating Chief
-Commands the full field and recovery apparatus of a site: above individual Task Force Commanders, below the Site Director.
+Commands the full field and recovery apparatus of a site: above individual Task Force
+Commanders, below the Site
+Director.
 
 Task Force Commander
 The point where anomaly doctrine turns into field action.
@@ -269,13 +320,17 @@ Facility Archiver
 Preserves knowledge without letting knowledge become a leak.
 
 Junior Archiver
-The entry-level hand of the Archiver Division — cataloging, controlled copying, and supervised redaction preparation. They touch the paper, not the poison.
+The entry-level hand of the Archiver Division — cataloging, controlled copying, and supervised redaction
+preparation.
+They touch the paper, not the poison.
 
 Facility Junior Employee
 Keeps the invisible logistics alive.
 
 Site Janitor
-One of the least respected and most quietly necessary roles in the Facility. They clean the residue of impossible things.
+One of the least respected and most quietly necessary roles in the Facility. They
+clean the residue of impossible
+things.
 
 Recruiter
 Finds the next generation of staff, assets, specialists, and expendables.
@@ -323,7 +378,8 @@ Daily life inside A.C.T varies by division, but several constants remain:
 - every person lives under compartmentalized truth
 - every floor has access restrictions
 - every action is logged somewhere
-- every staff member knows less than they want to know and more than they should know
+- every staff member knows less than they want to know and more than
+they should know
 - every shift assumes the impossible may become physical
 
 A normal day may include:
@@ -341,7 +397,8 @@ In A.C.T, routine is the disguise worn by constant danger.
 ---
 
 6.6 — E-Class and Disposable Exposure
-E-Class personnel are used where risk cannot be ethically or operationally assigned to protected staff.
+E-Class personnel are used where risk cannot be ethically or operationally assigned to protected
+staff.
 
 Their uses include:
 - exposure testing
@@ -353,7 +410,9 @@ Their uses include:
 
 In doctrine, E-Class use is justified as necessity.
 
-In truth, E-Class represents the gray heart of A.C.T’s morality: the belief that some lives can be spent if reality itself is the alternative cost.
+In truth, E-Class represents the gray heart of A.C.T’s morality: the belief that some
+lives can be spent if reality
+itself is the alternative cost.
 
 ---
 
@@ -393,7 +452,8 @@ Even when they survive, they may suffer:
 
 Personnel do not merely risk death. They risk becoming incompatible with ordinary humanity.
 
-This is why the Facility must constantly rotate, isolate, evaluate, and medically stabilize its own staff.
+This is why the Facility must constantly rotate, isolate, evaluate, and medically stabilize its
+own staff.
 
 ---
 
@@ -416,9 +476,17 @@ This produces a culture that is:
 - darkly practical
 - and permanently shaped by hidden dread
 
-There are no truly ordinary employees in A.C.T. Only personnel at different distances from the truth.
+There are no truly ordinary employees in A.C.T. Only personnel at different distances from
+the truth.
 
 ---
 
 6.10 — Closing Summary
-Part Six defines A.C.T not just as a doctrine or structure, but as a functioning buried civilization of secrecy, containment, study, and compromise. The Facility survives because its divisions function together, its personnel accept unbearable routines, and its culture turns fear into procedure. In the end, A.C.T is held together not only by steel, doctrine, and classification—but by the continuous labor of people who spend their lives making sure the world above never learns how close it lives to the impossible.
+Part Six defines A.C.T not just as a doctrine or structure, but as a
+functioning buried civilization of secrecy,
+containment, study, and compromise. The Facility survives because its divisions function together, its personnel
+accept unbearable routines, and its culture turns fear into procedure. In the end, A.C.T
+is held together not only by
+steel, doctrine, and classification—but by the continuous labor of people who spend their lives
+making sure the world
+above never learns how close it lives to the impossible.

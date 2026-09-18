@@ -174,7 +174,8 @@ STATUS:              Standing
 
 Observation exists to protect a baseline: a serpent that eats, a mountain that
 stays a mountain, and a world that never has to learn the difference. Every
-log in this dossier is a record of that baseline holding. The day a log stops
+log in this dossier is a record of that baseline holding. The day a
+log stops
 matching the baseline is the day this file becomes an alarm.
 
 END OF FILE

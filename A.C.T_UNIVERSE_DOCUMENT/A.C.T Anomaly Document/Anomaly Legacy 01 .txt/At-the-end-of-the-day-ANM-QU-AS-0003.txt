@@ -67,7 +67,8 @@ style change between observation cycles. These alterations occur without visible
 movement of the pages or replacement of the object.
 
 The object's primary anomalous feature is the appearance of a red circular mark
-around one date on one calendar page. The circle is not printed, drawn in ink,
+around one date on one calendar page. The circle is not printed, drawn in
+ink,
 painted, burned, carved, projected, or digitally added. Microscopic inspection
 shows no pigment on the paper. The circled region is simply recognized as
 circled by all observers and by most imaging systems.
@@ -201,11 +202,13 @@ containment of the anomalous effect, but it prevents unauthorized handling and
 page alteration.
 
 Personnel assigned to ANM-QU-AS-0003 must not ask the object what will happen
-today, tomorrow, at the end of the month, or at the end of the year. Spoken
+today, tomorrow, at the end of the month, or at the end of the
+year. Spoken
 questions concerning future dates are prohibited within the chamber.
 
 The calendar is to be photographed once per day using a non-networked camera.
-If a red circle is present, the image is to be sealed and reviewed by Temporal
+If a red circle is present, the image is to be sealed and reviewed
+by Temporal
 Event Review, Archiver Division, and the relevant containment site command.
 Personnel must not attempt to erase, cover, cut out, redraw, reinterpret, or
 correct the circled date.
@@ -216,7 +219,8 @@ models simultaneously:
    1. Predictive Model — the event will occur whether or not the calendar is
       observed.
    2. Emergent Model — observation or documentation increases event stability.
-   3. XX Model — the event has no stable cause and may rewrite itself around
+   3. XX Model — the event has no stable cause and may rewrite itself
+   around
       the calendar after the fact.
 
 No single response plan is adequate. Each circled statement is to receive a
@@ -278,7 +282,8 @@ not be a stable category.
 
 Attempts to determine whether the calendar causes or predicts events have failed.
 Destroying marked duplicate photographs has no effect. Covering a circled date
-causes the red circle to appear on the reverse side of the page. Removing the
+causes the red circle to appear on the reverse side of the page. Removing
+the
 page causes the same month to reappear behind it. Refusing to read the statement
 does not prevent later confirmation, but may reduce the precision of the event
 manifestation.
@@ -320,8 +325,10 @@ Do not laugh at active event statements during briefing. The calendar's events
 are often ridiculous. They are still operational events.
 
 NOTE 002:
-The phrase "At the end of the day" appears in the lower margin of every calendar
-form the object has taken. It is printed in a different typeface each time. No
+The phrase "At the end of the day" appears in the lower margin of
+every calendar
+form the object has taken. It is printed in a different typeface each time.
+No
 manufacturer has claimed this design element.
 
 NOTE 003:

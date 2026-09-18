@@ -29,7 +29,8 @@ watching the volcanoes that mark the region's restless geology, and
 coordinating the operations that the watch produces.
 
 This dossier records the floor in full institutional language: what it is,
-what it watches, how it is built, how it is run, and how the watchpoint's
+what it watches, how it is built, how it is run, and how the
+watchpoint's
 watch is concentrated on a single buried level above the water it observes.
 
 ---
@@ -379,5 +380,6 @@ watch reveals.
 
 It is the floor of the unbroken watch: personnel watching the water and
 the earth without interruption, reporting without delay, and standing ready
-— on a restless coast where the tide brings ash and anomaly alike, and the
+— on a restless coast where the tide brings ash and anomaly alike, and
+the
 watch never sleeps.

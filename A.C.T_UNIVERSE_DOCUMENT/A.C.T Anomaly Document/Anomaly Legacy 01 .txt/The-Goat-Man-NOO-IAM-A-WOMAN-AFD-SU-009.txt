@@ -152,11 +152,13 @@ PROTOCOL:
 
 OBSERVED CORRECTION
 EVENTS:
-   - An interviewer who said "goat man" found all ink in his pen replaced by
+   - An interviewer who said "goat man" found all ink in his pen replaced
+   by
      black tea.
    - A clipboard labeled "male caprine humanoid" developed a handwritten note
      reading: "Incorrect, impertinent, and poorly phrased."
-   - A chair moved 2.4 m away from a guard who addressed the subject as "sir."
+   - A chair moved 2.4 m away from a guard who addressed the subject
+   as "sir."
    - A recording transcript automatically replaced "it" with "she" in 31
      separate instances.
    - A.C.T cafeteria napkins folded themselves into formal dinner shapes during
@@ -279,7 +281,8 @@ believe this is an acceptable compromise should not be assigned to SU-009.
 NOTE 002:
 During Incident 009-B, a junior guard repeatedly called AFD-SU-009 "goat man"
 after direct correction. The guard's boots filled with warm milk, his chair
-turned to face the wall, and his incident report altered its own header to read:
+turned to face the wall, and his incident report altered its own header to
+read:
 "A Fool's Account of His Poor Manners." The guard was unharmed.
 
 NOTE 003:

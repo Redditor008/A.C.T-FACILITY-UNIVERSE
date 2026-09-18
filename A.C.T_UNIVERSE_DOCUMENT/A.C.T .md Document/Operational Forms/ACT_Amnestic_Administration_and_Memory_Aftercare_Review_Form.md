@@ -4,13 +4,19 @@
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Working Form |
-| DISTRIBUTION | Medical Care Division / Civil Covert Division / Archiver Division / Site Command / Subject Care Division |
+| DISTRIBUTION | Medical Care Division / Civil Covert Division / Archiver Division / Site Command /<br>Subject Care Division |
 | AUTHORITY | Medical Care Division, Civil Covert Division, and Central Archive |
 
 #### Archive Note
-This form governs the review, authorization, administration, and aftercare record for amnestic use. It exists because memory treatment is not a cleanup tool. It is an intervention against a person's continuity, and every intervention leaves an institutional trace even when the person no longer remembers the reason.
+This form governs the review, authorization, administration, and aftercare record for amnestic use. It
+exists because
+memory treatment is not a cleanup tool. It is an intervention against a person's
+continuity, and every intervention
+leaves an institutional trace even when the person no longer remembers the reason.
 
-The 004-series amnestic lineage demonstrates that A.C.T can transform anomalous material into operational protection. It also demonstrates that protection can become habit. This form is designed to make that habit visible.
+The 004-series amnestic lineage demonstrates that A.C.T can transform anomalous material into operational protection.
+It also demonstrates that protection can become habit. This form is designed to make
+that habit visible.
 
 ---
 
@@ -18,7 +24,9 @@ The 004-series amnestic lineage demonstrates that A.C.T can transform anomalous 
 
 ### 1. Use Conditions
 
-Use this form whenever A.C.T considers, approves, denies, administers, withholds, reverses, audits, or follows up on memory alteration.
+Use this form whenever A.C.T considers, approves, denies, administers, withholds, reverses, audits, or follows
+up on
+memory alteration.
 
 Required use cases include:
 
@@ -37,7 +45,9 @@ Required use cases include:
 - partial truth shard planning;
 - refusal or denial of amnestic use.
 
-A denied amnestic request must still be recorded if the request reached Medical Care, Civil Covert, Site Command, or Central Archive.
+A denied amnestic request must still be recorded if the request reached Medical Care,
+Civil Covert, Site Command, or
+Central Archive.
 
 ---
 
@@ -67,7 +77,9 @@ RELATED ACCESS / EGRESS LEDGER ID:
 RELATED EXPOSURE LEDGER ID:
 ```
 
-If the person cannot safely be named, use the sealed identifier already established in the witness, personnel, subject-care, or custody record.
+If the person cannot safely be named, use the sealed identifier already established in
+the witness, personnel,
+subject-care, or custody record.
 
 ---
 
@@ -95,7 +107,9 @@ Mark all applicable categories.
 [ ] OTHER: ______________________________
 ```
 
-Person category affects safeguards. It does not erase personhood. A.C.T may alter memory under authority, but it may not pretend the altered person has become only a record problem.
+Person category affects safeguards. It does not erase personhood. A.C.T may alter memory under
+authority, but it may
+not pretend the altered person has become only a record problem.
 
 ---
 
@@ -122,7 +136,8 @@ PRIMARY REQUEST REASON:
 DETAILED REASON:
 ```
 
-The request must describe the memory or exposure condition to be treated. "Knows too much" is not sufficient.
+The request must describe the memory or exposure condition to be treated. "Knows too
+much" is not sufficient.
 
 ---
 
@@ -156,7 +171,8 @@ RISK IF MEMORY REMAINS:
 RISK IF MEMORY IS REMOVED:
 ```
 
-Some memories are load-bearing. Removing them may break grief processing, location avoidance, family continuity, subject trust, or the person's ability to explain their own scars.
+Some memories are load-bearing. Removing them may break grief processing, location avoidance, family continuity,
+subject trust, or the person's ability to explain their own scars.
 
 ---
 
@@ -179,13 +195,17 @@ NEMNOLIA-LINEAGE MATERIAL INVOLVED:
 TRANSFORMATION-DERIVED MATERIAL INVOLVED:
 ```
 
-If 004-series material or NEMNOLIA-lineage derivatives are involved, the review must acknowledge transformation provenance. A.C.T cannot safely use transformed memory tools while forgetting the anomaly that made them possible.
+If 004-series material or NEMNOLIA-lineage derivatives are involved, the review must acknowledge transformation
+provenance. A.C.T cannot safely use transformed memory tools while forgetting the anomaly that made
+them possible.
 
 ---
 
 ### 7. Partial Truth Shard Review
 
-A **partial truth shard** is a controlled fragment of truth left intact because full erasure would cause worse instability, obsession, grief collapse, pattern-seeking behavior, subject-care failure, or recurring exposure.
+A **partial truth shard** is a controlled fragment of truth left intact because full
+erasure would cause worse
+instability, obsession, grief collapse, pattern-seeking behavior, subject-care failure, or recurring exposure.
 
 ```text
 PARTIAL TRUTH SHARD REQUIRED:
@@ -201,7 +221,9 @@ HOW SHARD MUST BE PHRASED:
 FOLLOW-UP IF SHARD DESTABILIZES PERSON:
 ```
 
-A partial truth shard is not mercy by default. It is controlled damage left visible because invisible damage would spread.
+A partial truth shard is not mercy by default. It is controlled damage left
+visible because invisible damage would
+spread.
 
 ---
 
@@ -222,7 +244,9 @@ E-CLASS SAFEGUARD PRESENT:
 GOI-RISK REVIEW PRESENT:
 ```
 
-A.C.T may administer amnestics without consent under restricted authority. The form must record that authority plainly. Memory removed under command is not consent retroactively created.
+A.C.T may administer amnestics without consent under restricted authority. The form must record that
+authority
+plainly. Memory removed under command is not consent retroactively created.
 
 ---
 
@@ -253,7 +277,9 @@ NO FALSE MEMORY INSERTION USED:
 REASON:
 ```
 
-False memory insertion requires its own justification. A blank space may be safer than a lie. A lie may be safer than a blank space. Neither is clean.
+False memory insertion requires its own justification. A blank space may be safer than
+a lie. A lie may be safer than
+a blank space. Neither is clean.
 
 ---
 
@@ -284,7 +310,9 @@ RECONTACT PERMITTED:
 RECONTACT PROHIBITED:
 ```
 
-Aftercare belongs to the person, not to the cover story. A successful public narrative does not prove the treated person is stable.
+Aftercare belongs to the person, not to the cover story. A successful public narrative
+does not prove the treated
+person is stable.
 
 ---
 
@@ -307,7 +335,8 @@ EXPOSURE LEDGER UPDATED:
 PERSONNEL RESILIENCE PROFILE UPDATED:
 ```
 
-A person cannot be made safe for repeated harm by repeatedly removing the memory of harm.
+A person cannot be made safe for repeated harm by repeatedly removing the memory
+of harm.
 
 ---
 
@@ -357,7 +386,9 @@ ARCHIVE LOCATION:
 NEXT REVIEW DATE:
 ```
 
-A.C.T must preserve both the treatment and the reason for treatment. If the archive forgets why a memory was removed, the institution inherits the same wound it created in the person.
+A.C.T must preserve both the treatment and the reason for treatment. If the archive
+forgets why a memory was removed,
+the institution inherits the same wound it created in the person.
 
 ---
 

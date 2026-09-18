@@ -58,7 +58,19 @@
 
 ### Archive Use Note
 
-This index is the routing file for the completed main-story package. It does not replace the manuscripts, chapter files, archive dossier, continuity policy, or character records. Its function is to keep the story materials findable from one controlled location so later archive work can reference the correct layer without treating outline notes, continuity rules, chapter prose, and compiled manuscripts as the same kind of record. When new main-story-adjacent material is added, it should be placed into the proper folder first, then listed here only after the file has a stable title and a matching reading copy where required. The continuity policy remains the controlling document for Core Canon, Archive Canon, Story Layer, Research Layer, Docs Layer, and Crossover / Non-Core boundaries.
+This index is the routing file for the completed main-story package. It does not
+replace the manuscripts, chapter
+files, archive dossier, continuity policy, or character records. Its function is to keep the
+story materials findable
+from one controlled location so later archive work can reference the correct layer without
+treating outline notes,
+continuity rules, chapter prose, and compiled manuscripts as the same kind of record. When
+new main-story-adjacent
+material is added, it should be placed into the proper folder first, then listed
+here only after the file has a stable
+title and a matching reading copy where required. The continuity policy remains the controlling
+document for Core
+Canon, Archive Canon, Story Layer, Research Layer, Docs Layer, and Crossover / Non-Core boundaries.
 
 ### Current Progress
 The main story is complete. It currently has:
@@ -70,4 +82,7 @@ The main story is complete. It currently has:
 - Epilogue prose, with .txt twin
 - a full continuous manuscript edition
 - a complete abyssal archive compilation dossier
-- an active continuity policy defining Core Canon, Archive Canon, Story Layer, Research Layer, Docs Layer, and Crossover / Non-Core material
+  an active continuity policy defining Core Canon, Archive Canon, Story Layer, Research Layer,
+  Docs
+  Layer, and Crossover
+  / Non-Core material

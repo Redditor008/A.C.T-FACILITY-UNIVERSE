@@ -169,7 +169,8 @@ harm.
 
 Psychological Review: Researchers with a high PR score report hearing 
 the subject's hate as a background hum. One senior researcher noted: 
-"It doesn't hate us for what we are; it hates us for the fact that we 
+"It doesn't hate us for what we are; it hates us for the fact
+that we
 can be warm. It finds the concept of blood circulation to be a 
 personal offense."
 

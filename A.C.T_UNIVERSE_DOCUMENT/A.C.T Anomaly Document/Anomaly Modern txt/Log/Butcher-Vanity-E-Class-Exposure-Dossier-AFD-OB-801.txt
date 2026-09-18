@@ -85,7 +85,8 @@ To map the auditory output of the "Strong Mind" threshold.
 
 LOGGED DATA:
 - T+5 min: Subject reports a "hissing radiator" sound. 
-- T+12 min: Subject identifies a voice. "It wants me to use it. It says 
+- T+12 min: Subject identifies a voice. "It wants me to use it. It
+says
             I'm holding it wrong."
 - T+30 min: Subject reports the first "Meat Count." The voice began 
             listing the weight of the subject's own internal organs in 
@@ -109,7 +110,8 @@ AUTHOR:              Aris Thorne (SR-412)
 strong, but the air in the room was 'Thick.' 
 
 The Butcher Vanity isn't just a cleaver. It’s an appetite that has 
-found a way to speak. The fact that the wood turns to meat is the most 
+found a way to speak. The fact that the wood turns to meat is
+the most
 disturbing part. It suggests that the anomaly doesn't see 'Matter'—it 
 only sees potential cuts of steak. 
 

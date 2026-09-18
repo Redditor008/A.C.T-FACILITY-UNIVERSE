@@ -24,11 +24,13 @@ White Grave Station is the Facility's deep-cold instrument. It exists where
 population is absent, where winter is a security system, and where anomalies
 too unstable, too biologically dangerous, or too logistically inconvenient for
 population-adjacent housing can be buried, frozen, and watched for decades.
-Its name — White Grave — is not decorative. The station is a place where things
+Its name — White Grave — is not decorative. The station is a place
+where things
 are put to sleep that the Facility does not expect to wake.
 
 This dossier records the station in full institutional language: what it is,
-why it stands where it stands, how it is governed, what it holds, how its cold
+why it stands where it stands, how it is governed, what it holds, how
+its cold
 is maintained, and what its isolation costs the people who serve there.
 
 Resident holdings are not enumerated in full. The station's complete manifest
@@ -44,14 +46,21 @@ station's signature resident and leaves the rest to those registers.
 **Site Type:** Regional Site
 **Location:** Northern Russia (exact coordinates withheld; deep-winter access is seasonal and weather-conditional)
 **Command Authority:** Site Director under restricted cold-zone review authority
-**Primary Function:** Deep cold-environment containment, biological suppression, and long-term isolation of unstable anomalies
+**Primary Function:** Deep cold-environment containment, biological suppression, and long-term isolation of unstable
+anomalies
 **Divisions Present:** Security, Containment, Medical, Research, Limited Military Presence
 **Containment Profile:** Biological / Cryogenic / Entropic / Deep Isolation
-**Regional Jurisdiction:** Arctic and northern Eurasian anomaly events, deep freeze transfer corridors, remote black containment support
-**Notable Features:** Extreme environmental isolation; highly secure low-population concealment value; capable of housing anomalies requiring climate suppression
+**Regional Jurisdiction:** Arctic and northern Eurasian anomaly events, deep freeze transfer corridors, remote black
+containment support
+**Notable Features:** Extreme environmental isolation; highly secure low-population concealment value; capable of
+housing anomalies requiring climate suppression
 **Current Status:** Active
-**History Notes:** Built around the need to store anomalies too unstable or too logistically inconvenient to keep near population centers.
-**Security Notes:** Access during deep winter periods is heavily restricted; some transport windows are seasonal and weather-conditional.
+**History Notes:** Built around the need to store anomalies too unstable or too logistically
+inconvenient to keep near
+population centers.
+**Security Notes:** Access during deep winter periods is heavily restricted; some transport windows are
+seasonal and
+weather-conditional.
 
 ---
 
@@ -531,7 +540,8 @@ concentrates on:
 ### 13.3 Personnel Secrecy Burden
 
 Unlike urban-site personnel, White Grave staff do not maintain civilian cover
-lives in the region — there is no civilian life to maintain. Their burden is
+lives in the region — there is no civilian life to maintain. Their burden
+is
 different: prolonged isolation, seasonal confinement, and the psychological
 weight of living above levels that must never open.
 
@@ -544,7 +554,8 @@ weight of living above levels that must never open.
 White Grave personnel are selected for a specific psychological profile:
 self-sufficiency, tolerance for isolation, and the ability to maintain
 professional judgment over long periods without external contact. The station
-is not a punishment assignment — it is a station for people who function best
+is not a punishment assignment — it is a station for people who function
+best
 when the world is far away and the work is clear.
 
 ### 14.2 Daily Operational Life
@@ -631,5 +642,6 @@ the Facility keeps the anomalies it cannot keep anywhere near the world.
 
 It is named a grave because that is its function.
 The cold is the mercy. The isolation is the method.
-And the work is measured not in years but in the continued silence of what is
+And the work is measured not in years but in the continued silence of
+what is
 buried there.

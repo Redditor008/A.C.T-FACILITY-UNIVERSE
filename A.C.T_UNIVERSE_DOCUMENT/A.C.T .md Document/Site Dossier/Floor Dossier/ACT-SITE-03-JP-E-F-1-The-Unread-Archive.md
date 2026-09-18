@@ -28,7 +28,8 @@ breach — the node's breach doctrine treats uncontrolled reading as an
 escape, and F-1 is the level built around that principle.
 
 This dossier records the floor in full institutional language: what it is,
-what it holds, how it is built, how it is guarded, and why the node's
+what it holds, how it is built, how it is guarded, and why the
+node's
 deepest archive is defined by the act it forbids.
 
 ---
@@ -57,7 +58,8 @@ reading as an escape
 
 ## 2. Dossier Purpose
 
-Most archives exist to be read. The Unread Archive exists to be not read —
+Most archives exist to be read. The Unread Archive exists to be not read
+—
 and the distinction is the whole of its purpose. Kurokawa Archive Node
 preserves anomalous documents, memetic symbols, and information hazards
 under a doctrine built on one recognition: for some material, knowledge is
@@ -270,7 +272,8 @@ self-containment until the condition that triggered the closure is
 resolved.
 
 The node's breach doctrine treats uncontrolled reading as an escape: a
-breach on F-1 is not a door opened but a text read, and the closure
+breach on F-1 is not a door opened but a text read, and the
+closure
 procedure is designed to contain both kinds of breach. During a closure,
 the floor's personnel and its holdings share the sealed volume — and the
 doctrine accepts that cost without reservation.
@@ -352,7 +355,8 @@ without comprehending them, and maintaining them without knowing them.
 
 ### 12.3 Closure Doctrine
 
-F-1 doctrine holds that a breach is not a door opened but a text read: the
+F-1 doctrine holds that a breach is not a door opened but a text
+read: the
 floor's closure procedure is designed to contain uncontrolled reading as a
 breach event, sealing the archive against the escape that knowledge itself
 represents.
@@ -397,6 +401,7 @@ the reason the node's breach doctrine treats reading as an escape: an
 archive of material that must never be read, viewed, or fully understood —
 only preserved under maximum containment.
 
-It is an archive defined by the act it forbids: a vault where the Facility
+It is an archive defined by the act it forbids: a vault where the
+Facility
 keeps knowledge too dangerous to know, guarded by personnel trained to
 preserve what they must never understand.

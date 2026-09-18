@@ -28,7 +28,8 @@ cells with memetic filtering applied — the spaces where dangerous documents
 are read safely, or not read at all.
 
 This dossier records the floor in full institutional language: what it is,
-what it does, how it is built, how it is run, and how the node makes
+what it does, how it is built, how it is run, and how the
+node makes
 documents safe to exist in the world.
 
 ---
@@ -57,7 +58,8 @@ documents for restricted release under the Facility's redaction doctrine
 
 Not every anomalous document must be buried. Some contain knowledge the
 Facility must release — to its own personnel, to partner institutions, or
-to the world in filtered form — and the art of releasing such documents is
+to the world in filtered form — and the art of releasing such documents
+is
 redaction: the discipline of removing, filtering, and reformatting content
 so that what remains is safe to read.
 

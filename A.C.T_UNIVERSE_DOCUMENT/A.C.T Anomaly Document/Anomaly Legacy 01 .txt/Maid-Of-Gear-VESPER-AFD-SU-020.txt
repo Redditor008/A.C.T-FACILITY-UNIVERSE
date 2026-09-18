@@ -339,7 +339,8 @@ records, she answered: "Then I crossed too early."
 
 NOTE 003:
 The recovered database describes Vesper as a vanguard-assassin. This should not
-be treated as current intent. A role from a future registry is not the same as
+be treated as current intent. A role from a future registry is not the
+same as
 an active command state.
 
 NOTE 004:

@@ -22,7 +22,8 @@ of the A.C.T Facility network.
 
 Verde Null is the Facility's wilderness instrument. It exists where the
 anomalous is biological, where containment must coexist with living systems,
-and where some anomalies cannot be moved at all — because they belong to the
+and where some anomalies cannot be moved at all — because they belong to
+the
 place they were found. The Bio-Reserve is part containment site, part
 field-enclosure network, and part unnatural wilderness maintained by people
 who have learned that some impossible things grow better where they are.
@@ -48,11 +49,16 @@ reserve's signature resident and leaves the rest to those registers.
 **Primary Function:** Remote containment of non-natural biological anomalies and wilderness-bound anomaly observation
 **Divisions Present:** Research, Transformation, Recovery, Medical, Security, Environmental Containment
 **Containment Profile:** Biological / Forest-Bound / Place-Anomaly / Field Enclosure
-**Regional Jurisdiction:** Central South American biological anomalies, wild-zone containment, remote cultivation programs
+**Regional Jurisdiction:** Central South American biological anomalies, wild-zone containment, remote cultivation
+programs
 **Notable Features:** High adaptability for non-movable anomaly enclosures; extensive concealed perimeter structures
 **Current Status:** Active
-**History Notes:** Developed from remote field enclosures into a permanent reserve-style site due to recurring non-natural flora and fauna cases.
-**Security Notes:** Some anomalies are managed in-place under perimeter doctrine rather than transported to interior vaults.
+**History Notes:** Developed from remote field enclosures into a permanent reserve-style site due to
+recurring
+non-natural flora and fauna cases.
+**Security Notes:** Some anomalies are managed in-place under perimeter doctrine rather than transported to
+interior
+vaults.
 
 ---
 
@@ -599,6 +605,7 @@ managed in place, where the environment performs containment work, and where
 the Facility has learned that some anomalies cannot be boxed — only grown,
 watched, and kept where they belong.
 
-It is called a reserve because that is what it is: land set aside, in this
+It is called a reserve because that is what it is: land set aside,
+in this
 case not for the preservation of ordinary life but for the containment of
 life that should not exist — kept alive, kept hidden, and kept green.

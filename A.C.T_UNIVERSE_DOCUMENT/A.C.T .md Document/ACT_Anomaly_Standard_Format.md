@@ -17,12 +17,14 @@ REGISTRY BAND:       [ENTITY Historical / 000 Foundational Reserve /
 TITLE I:             [Primary Title / N/A]
 TITLE II:            [Secondary Title / Alternate Title / N/A]
 
-FIELD TYPE:          [OB / SU / PL / TI / SP / ME / IH / CH / NB / ?.H]
+FIELD TYPE: [OB / SU / PL / TI / SP / ME /
+IH / CH / NB / ?.H]
 HAZARD TAGS:         [PHYS-____ / BIO-____ / COG-____ / MEM-____ /
                       INFO-____ / TEMP-____ / SPAT-____ / STR-____ /
                       COS-____ / SOC-____ / OPR-____ / N/A]
 
-CLEARANCE REQUIRED:  [Non-Access / Level E / Level 0 / Level 1 / Level 2
+CLEARANCE REQUIRED: [Non-Access / Level E / Level 0 / Level 1 / Level
+2
                       / Level 3 / Level 4 / Level 5 / O5 Access]
 
 ═══════════════════════════════════════════════════════════════════════
@@ -37,7 +39,8 @@ FRACTURE INDEX —
 CONTAINMENT:         [NONE / QUESTIONED / ABSURD / MUTATED /
                       UNAUTHORED / SCHRÖDINGER]
 
-THREAT LEVEL:        [0 / 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9 / 10]
+THREAT LEVEL: [0 / 1 / 2 / 3 / 4 / 5 /
+6 / 7 / 8 / 9 / 10]
 
 FRACTURE INDEX —
 SUB-THREAT:          [NONE / HARMLESS / BENEFICIAL / REVERTED /
@@ -293,7 +296,9 @@ DESIGNATION HISTORY:     [UFD-XX-### → AFD-XX-###]
 
 ## FILE SAVING CONVENTION
 
-When an anomaly file is saved for distribution, archive transfer, or direct download, the file name should place the anomaly title first, followed by the designation.
+When an anomaly file is saved for distribution, archive transfer, or direct download, the
+file name should place the
+anomaly title first, followed by the designation.
 
 Approved structure:
 
@@ -324,11 +329,11 @@ Example:
 | PL | Place | Anomalous place — locations, structures, or geographic areas with inherent anomalous properties |
 | TI | Time | Anomalous time — temporal distortions, loops, anomalies, or events that violate linear causality |
 | SP | Space | Anomalous space — spatial distortions, dimensional breaches, or areas where geometry no longer applies |
-| ME | Memetic | Memetic anomaly — information patterns, ideas, or cognitive triggers that produce anomalous effects when perceived |
-| IH | Info Hazard | Information hazard — knowledge that is itself dangerous; the act of understanding it causes harm |
+| ME | Memetic | perceived |
+| IH | Info Hazard | Information hazard — knowledge that is itself dangerous; the act of understanding it causes<br>harm |
 | CH | Cosmic Hazard | Cosmic hazard — phenomena originating from or connected to forces beyond terrestrial reality |
 | NB | Non-Natural Bio Hazard | Non-natural biological hazard — anomalous organisms, pathogens, or biological agents that defy natural biology |
-| ?.H | Shifting Hazard | Shifting hazard — the anomaly's designation cannot be pinned; its type, behavior, or classification changes unpredictably |
+| ?.H | Shifting Hazard | unpredictably |
 
 ---
 
@@ -336,10 +341,17 @@ Example:
 
 An anomaly receives one of two designation prefixes depending on its verification status:
 
-- **UFD-XX-###** — Unknown Field Designation. Provisional status. Assigned during DETECT/VERIFY phase before the anomaly has been confirmed as genuine and operationally logged.
-- **AFD-XX-###** — Anomaly Field Designation. Verified status. Assigned once the anomaly has been validated, documented, and entered into the permanent A.C.T record.
+  **UFD-XX-###** — Unknown Field Designation. Provisional status. Assigned during DETECT/VERIFY phase before the
+  anomaly
+  has been confirmed as genuine and operationally logged.
+  **AFD-XX-###** — Anomaly Field Designation. Verified status. Assigned once the anomaly has been
+  validated,
+  documented,
+  and entered into the permanent A.C.T record.
 
-The three-digit number is assigned sequentially. It does not reflect threat level, containment difficulty, or transformation viability. It is a filing number — nothing more.
+The three-digit number is assigned sequentially. It does not reflect threat level, containment difficulty,
+or
+transformation viability. It is a filing number — nothing more.
 
 ### Example Designations
 
@@ -370,7 +382,11 @@ TRANSFORMATION:      CONTAINED-STUDY
 LIFECYCLE STATE:     ACTIVE-CONTAINED
 ```
 
-> *Personnel should be able to read this block and understand the anomaly's type, danger, containment behavior, and conversion potential at a glance. Everything else in this file is detail. This block is the truth.*
+  *Personnel should be able to read this block and understand the anomaly's type,
+  danger,
+  containment behavior, and
+  conversion potential at a glance. Everything else in this file is detail. This block
+  is the truth.*
 
 ---
 

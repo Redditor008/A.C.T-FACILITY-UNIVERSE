@@ -12,22 +12,62 @@
 
 ## Functional Identity
 
-The Amazoo Circus Emotional-Siphoning Performance Frame is the suspected technology or ritualized method by which Amazoo Circus converted fear, shame, pity, applause, command obedience, and forced singing into an anomalous yield. The GOI dossier lists emotional-siphoning performances as a known asset and identifies possible transformation of shame, attention, applause, or pity into usable force. It also states that AFD-SU-507 was centered in at least one emotional-siphoning act.
+The Amazoo Circus Emotional-Siphoning Performance Frame is the suspected technology or ritualized method by
+which
+Amazoo Circus converted fear, shame, pity, applause, command obedience, and forced singing into an
+anomalous yield.
+The GOI dossier lists emotional-siphoning performances as a known asset and identifies possible transformation
+of
+shame, attention, applause, or pity into usable force. It also states that AFD-SU-507 was
+centered in at least one
+emotional-siphoning act.
 
-A.C.T does not yet know whether the frame was mechanical, psychic, memetic, ritual, biological, or purely social until paired with a specific anomalous performer. This uncertainty does not make the technology speculative enough to ignore. The operating pattern was repeated and harmful: isolate a subject, name them as an act, expose them to an audience, apply commands, force performance, and harvest the resulting emotional rupture for spectacle or effect.
+A.C.T does not yet know whether the frame was mechanical, psychic, memetic, ritual, biological,
+or purely social until
+paired with a specific anomalous performer. This uncertainty does not make the technology speculative
+enough to
+ignore. The operating pattern was repeated and harmful: isolate a subject, name them as
+an act, expose them to an
+audience, apply commands, force performance, and harvest the resulting emotional rupture for spectacle or
+effect.
 
 ## Known Process
 
-The frame appears to require a performer under coercion, a prepared ring, audience focus, command language, and a repeated act identity. The subject's distress may have been the productive state. Unlike ordinary entertainment, the performance did not end when the performer suffered. The suffering was the proof of the show.
+The frame appears to require a performer under coercion, a prepared ring, audience focus,
+command language, and a
+repeated act identity. The subject's distress may have been the productive state. Unlike ordinary
+entertainment, the
+performance did not end when the performer suffered. The suffering was the proof of
+the show.
 
-Recovered Amazoo phrases are restricted because they may be part of the frame. The instruction to continue the show after time is dead may be stage motto, depression artifact, temporal clue, or performance anchor. The degradation phrase directed at Circus Monster is evidence of verbal harm and must not be used casually.
+Recovered Amazoo phrases are restricted because they may be part of the frame. The
+instruction to continue the show
+after time is dead may be stage motto, depression artifact, temporal clue, or performance
+anchor. The degradation
+phrase directed at Circus Monster is evidence of verbal harm and must not be
+used casually.
 
 ## A.C.T Handling Rules
 
-No A.C.T analyst may attempt to measure emotional output by placing a survivor, recording, or recovered prop before a reacting audience. No acoustic, psychic, or memetic test may force singing, stage posture, applause, heckling, or command repetition. If emotional residue is suspected on a cage, curtain, ticket, costume, spotlight, collar, or diary fragment, Containment must store it away from crowds, entertainment media, and staff recreation areas.
+No A.C.T analyst may attempt to measure emotional output by placing a survivor, recording,
+or recovered prop before a
+reacting audience. No acoustic, psychic, or memetic test may force singing, stage posture, applause,
+heckling, or
+command repetition. If emotional residue is suspected on a cage, curtain, ticket, costume, spotlight,
+collar, or diary
+fragment, Containment must store it away from crowds, entertainment media, and staff recreation areas.
 
-Field teams encountering a rebuilt performance must interrupt audience participation first. Removing the audience may reduce the frame even before the performer is physically recovered.
+Field teams encountering a rebuilt performance must interrupt audience participation first. Removing the audience
+may
+reduce the frame even before the performer is physically recovered.
 
 ## Failure and Open Questions
 
-The main failure is turning documentation into another show. Too much dramatic reconstruction can recreate the attention economy Amazoo used. Open questions include what the siphoned emotion fed, whether Grand Master Amazoo consumed it, whether the crowd was altered by giving it, and whether missing performers were discarded after their emotional yield changed. Archive confidence is Moderate for the frame's existence and Low for its mechanism.
+The main failure is turning documentation into another show. Too much dramatic reconstruction can
+recreate the
+attention economy Amazoo used. Open questions include what the siphoned emotion fed, whether Grand
+Master Amazoo
+consumed it, whether the crowd was altered by giving it, and whether missing performers
+were discarded after their
+emotional yield changed. Archive confidence is Moderate for the frame's existence and Low for
+its mechanism.

@@ -12,16 +12,50 @@
 
 ## Functional Identity
 
-The Anti-Global Anomaly Low-Visibility Field Workshop and Mundane-Component Procurement System is the production and supply layer that lets a dispersed militia build anti-anomalous hardware without owning a factory, a laboratory, or a visible supply chain. The dossier's engineering capability assessment explicitly lists low-visibility field workshops and adapted protective gear intended for unverified anomaly contact, and its holdings assessment records decentralized caches, temporary workshops, and changing transit support. A.C.T files this as acquired GOI technology because the system is what allows a disrupted cell to be replaced rather than merely removed.
+The Anti-Global Anomaly Low-Visibility Field Workshop and Mundane-Component Procurement System is the production and
+supply layer that lets a dispersed militia build anti-anomalous hardware without owning a factory,
+a laboratory, or a
+visible supply chain. The dossier's engineering capability assessment explicitly lists low-visibility field workshops
+and adapted protective gear intended for unverified anomaly contact, and its holdings assessment records
+decentralized
+caches, temporary workshops, and changing transit support. A.C.T files this as acquired GOI technology
+because the
+system is what allows a disrupted cell to be replaced rather than merely removed.
 
 ## Known Structure and Use
 
-Acquisition Cells obtain materials, stolen records, vehicles, access credentials, and mundane cover resources, while Engineering Cells adapt technical equipment, breach tools, destructive devices, surveillance systems, and transport modifications for anti-anomalous use. Workshops are temporary and mobile, and the components they consume are individually ordinary. In one restricted engineering route interdiction, otherwise unrelated technical purchases converged around a containment-interference profile, and the recovered equipment had been assembled from individually mundane components, several of which had no anomalous function until combined under A-GA instruction. Protective gear is adapted for contact the builders have not verified, so the workshop also produces the network's exposure risk.
+Acquisition Cells obtain materials, stolen records, vehicles, access credentials, and mundane cover resources, while
+Engineering Cells adapt technical equipment, breach tools, destructive devices, surveillance systems, and transport
+modifications for anti-anomalous use. Workshops are temporary and mobile, and the components they consume
+are
+individually ordinary. In one restricted engineering route interdiction, otherwise unrelated technical purchases
+converged around a containment-interference profile, and the recovered equipment had been assembled from individually
+mundane components, several of which had no anomalous function until combined under A-GA instruction.
+Protective gear
+is adapted for contact the builders have not verified, so the workshop also produces
+the network's exposure risk.
 
 ## A.C.T Handling Rules
 
-Procurement analysis must examine pattern and intended use rather than wait for a visibly anomalous device to appear. A suspected support route may be traced before interdiction only where the target anomaly is already in a stable condition and the delay offers a credible opportunity to identify additional procurement contacts. Detained personnel are not assumed free of anomalous contamination merely because they identify as anti-anomalous, and Medical Care Division conducts physical, cognitive, memetic, and environmental screening before standard interrogation begins, since a member may be unaware that a cell's equipment has affected them.
+Procurement analysis must examine pattern and intended use rather than wait for a visibly
+anomalous device to appear.
+A suspected support route may be traced before interdiction only where the target anomaly
+is already in a stable
+condition and the delay offers a credible opportunity to identify additional procurement contacts. Detained
+personnel
+are not assumed free of anomalous contamination merely because they identify as anti-anomalous, and
+Medical Care
+Division conducts physical, cognitive, memetic, and environmental screening before standard interrogation begins,
+since a member may be unaware that a cell's equipment has affected them.
 
 ## Failure and Open Questions
 
-The system fails when a supply route serves only one cell and dies with it, when a workshop is located before assembly completes, or when adapted protective gear fails during unverified contact. Identifying technical supply routes that serve more than one cell, and locating engineering mentors or repositories capable of distributing dangerous technical knowledge, are standing intelligence priorities. Whether a cell has been knowingly redirected by another GOI toward a target whose removal benefits an outside actor remains unresolved.
+The system fails when a supply route serves only one cell and dies with
+it, when a workshop is located before assembly
+completes, or when adapted protective gear fails during unverified contact. Identifying technical supply routes
+that
+serve more than one cell, and locating engineering mentors or repositories capable of distributing
+dangerous technical
+knowledge, are standing intelligence priorities. Whether a cell has been knowingly redirected by another
+GOI toward a
+target whose removal benefits an outside actor remains unresolved.

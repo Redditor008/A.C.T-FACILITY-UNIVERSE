@@ -12,24 +12,74 @@
 
 ## Functional Identity
 
-The DREAM .INC Wish Intake and Confidential Report System is the corporate data-and-consultation process that gathers, protects, weaponizes, and studies consumer wishes before and after Dream Nectar use. The GOI dossier identifies customer screening, appointment, payment, confidential-report systems, consumer dream reports, and sensitive personal data as core assets. It also warns that a wish report can reveal grief, fear, dependency, financial pressure, relationship conflict, trauma, medical need, and the reason a person may agree to a second transaction.
+The DREAM .INC Wish Intake and Confidential Report System is the corporate data-and-consultation process
+that gathers,
+protects, weaponizes, and studies consumer wishes before and after Dream Nectar use. The GOI
+dossier identifies
+customer screening, appointment, payment, confidential-report systems, consumer dream reports, and sensitive personal
+data as core assets. It also warns that a wish report can reveal grief,
+fear, dependency, financial pressure,
+relationship conflict, trauma, medical need, and the reason a person may agree to a
+second transaction.
 
-This is treated as technology because it is a repeatable information system supporting anomalous product function. The system may be mundane software, trained consultation practice, controlled language, or an interface between consumer data and the extraction apparatus. A.C.T has not determined whether consumer wishes guide the product, feed the machine, alter the source anomaly, or merely help DREAM .INC claim successful dream fulfillment. Until that question is answered, intake records are handled as possible technical components rather than ordinary customer files.
+This is treated as technology because it is a repeatable information system supporting anomalous
+product function. The
+system may be mundane software, trained consultation practice, controlled language, or an interface between
+consumer
+data and the extraction apparatus. A.C.T has not determined whether consumer wishes guide the
+product, feed the
+machine, alter the source anomaly, or merely help DREAM .INC claim successful dream fulfillment.
+Until that question
+is answered, intake records are handled as possible technical components rather than ordinary customer
+files.
 
 ## Operating Method
 
-A prospective customer may enter through a normal building, speak with a private consultant, complete an apparently confidential discussion, receive a suggested product route, and be warned not to discuss the experience with ordinary medical staff. The same conversation that appears to offer care may collect the exact details needed to shape a later dream. If the dream feels personally accurate, the consumer may credit the Nectar instead of noticing how much of the wish was already disclosed.
+A prospective customer may enter through a normal building, speak with a private consultant,
+complete an apparently
+confidential discussion, receive a suggested product route, and be warned not to discuss the
+experience with ordinary
+medical staff. The same conversation that appears to offer care may collect the exact
+details needed to shape a later
+dream. If the dream feels personally accurate, the consumer may credit the Nectar instead
+of noticing how much of the
+wish was already disclosed.
 
-The confidential report after use is equally dangerous. DREAM .INC can sort which dreams felt successful, which consumers became dependent, which wishes should be avoided, and which batch conditions produced unusual aftereffects. Internal communication ordering staff to reclassify client reports during a quiet machine condition proves that report categories can change when machine state changes.
+The confidential report after use is equally dangerous. DREAM .INC can sort which dreams
+felt successful, which
+consumers became dependent, which wishes should be avoided, and which batch conditions produced unusual
+aftereffects.
+Internal communication ordering staff to reclassify client reports during a quiet machine condition proves
+that report
+categories can change when machine state changes.
 
 ## A.C.T Handling Rules
 
-A.C.T must not compel exposed consumers to recount wish-directed dreams in front of unnecessary personnel. Dream reports are medical, psychological, intelligence, and privacy-sensitive material. Collection must be narrow, protected, and justified by containment need. Analysts must separate consumer vulnerability from corporate culpability. A desperate customer is not automatically GOI staff.
+A.C.T must not compel exposed consumers to recount wish-directed dreams in front of unnecessary
+personnel. Dream
+reports are medical, psychological, intelligence, and privacy-sensitive material. Collection must be narrow,
+protected, and justified by containment need. Analysts must separate consumer vulnerability from corporate
+culpability. A desperate customer is not automatically GOI staff.
 
-Recovered databases, paper forms, call notes, appointment recordings, and report summaries must be quarantined from ordinary case-management systems. Some words, wish phrasings, or repeated dream descriptions may act as product triggers or dependency reinforcement. Site 03 review is required before broad text analysis.
+Recovered databases, paper forms, call notes, appointment recordings, and report summaries must be quarantined
+from
+ordinary case-management systems. Some words, wish phrasings, or repeated dream descriptions may act as
+product
+triggers or dependency reinforcement. Site 03 review is required before broad text analysis.
 
 ## Failure and Open Questions
 
-The main failure mode is secondary exploitation by A.C.T or another actor. A stolen wish database can target people at their weakest point even if no Nectar remains. It can identify who wants a dead person back, who wants pain removed, who wants revenge, who wants a child healed, or who no longer trusts waking life.
+The main failure mode is secondary exploitation by A.C.T or another actor. A stolen
+wish database can target people at
+their weakest point even if no Nectar remains. It can identify who wants a
+dead person back, who wants pain removed,
+who wants revenge, who wants a child healed, or who no longer trusts waking
+life.
 
-Open questions include whether wish intake changes extraction output, whether DREAM .INC predicts which consumers will return, whether refusal categories protect the machine or source, and whether consumer reports can contaminate other readers with desire for the product. Archive confidence is High that the system exists, Moderate that it shapes product success, and Low regarding any direct machine interface.
+Open questions include whether wish intake changes extraction output, whether DREAM .INC predicts which
+consumers will
+return, whether refusal categories protect the machine or source, and whether consumer reports can
+contaminate other
+readers with desire for the product. Archive confidence is High that the system exists,
+Moderate that it shapes
+product success, and Low regarding any direct machine interface.

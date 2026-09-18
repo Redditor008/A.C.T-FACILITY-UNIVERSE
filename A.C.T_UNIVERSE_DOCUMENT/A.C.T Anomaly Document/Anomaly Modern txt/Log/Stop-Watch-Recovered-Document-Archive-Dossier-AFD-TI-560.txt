@@ -65,7 +65,8 @@ ACCESS RECORD:
      to handle the subject
    - The watch is never to be wound or depressed outside "Terminal Emergency"
      protocols
-   - The vault is equipped with an active RSA (Item 01) set to a "Misfire
+   - The vault is equipped with an active RSA (Item 01) set to a
+   "Misfire
      Frequency," ensuring any unauthorized attempt results in an Unsuccessful
      Activation with a reduced recovery window
 
@@ -154,7 +155,8 @@ STATUS:              Retained in full
 TESTIMONY TEXT (retained verbatim):
 
 "I carried this watch during the recovery of the Ball of Knife. Stopping sixty
-seconds of time sounds like a miracle, but when you are the only thing moving
+seconds of time sounds like a miracle, but when you are the only thing
+moving
 in a world of statues, the silence is deafening. It doesn't feel like power.
 It feels like a very fast loneliness. Use it only when the alternative is
 extinction."
@@ -176,9 +178,11 @@ STATUS:              Standing
 
 The watch's archive is deliberately thin: sixty seconds of absolute stasis
 leaves no witness except the user, and the user's account is the only record
-A.C.T permits itself. In the event of a "Gilded Silence" — an active time stop
+A.C.T permits itself. In the event of a "Gilded Silence" — an active time
+stop
 — all personnel are to remain at their posts; the event resolves automatically
-after 60 seconds. The archive's duty is to make sure the watch is never needed
+after 60 seconds. The archive's duty is to make sure the watch is never
+needed
 often enough to fill these pages.
 
 END OF FILE

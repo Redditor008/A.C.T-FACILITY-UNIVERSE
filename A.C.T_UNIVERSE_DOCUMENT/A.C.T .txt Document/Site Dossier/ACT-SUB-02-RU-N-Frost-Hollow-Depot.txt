@@ -26,7 +26,8 @@ at the parent station. Where White Grave is the long sleep, Frost Hollow is
 the waiting room before the sleep.
 
 This dossier records the depot in full institutional language: what it is,
-what it does, why it exists as a sub-site, how it is governed, and how it
+what it does, why it exists as a sub-site, how it is governed, and
+how it
 supports the parent station.
 
 ---
@@ -44,8 +45,10 @@ Containment Profile: Cryogenic Overflow / Quarantine / Temporary Biological Supp
 Regional Jurisdiction: Transfer support for White Grave Station and surrounding arctic recovery corridors
 Notable Features: Designed for rapid frozen relocation and silent disappearance of hazardous organic material
 Current Status: Active
-History Notes: Built to reduce over-concentration pressure on White Grave Station during seasonal biological incidents.
-Security Notes: Personnel rotation is tightly controlled due to long-duration cold exposure and isolation stress.
+History Notes: Built to reduce over-concentration pressure on White Grave Station during seasonal biological
+incidents.
+Security Notes: Personnel rotation is tightly controlled due to long-duration cold exposure and isolation
+stress.
 
 ---
 
@@ -276,7 +279,8 @@ development priorities include:
 - expansion of interim cryogenic capacity
 - refinement of quarantine assessment doctrine
 
-The depot's function — to be the waiting room before the long sleep — is not
+The depot's function — to be the waiting room before the long sleep —
+is not
 expected to change.
 
 ---
@@ -297,5 +301,6 @@ ground: a quarantine facility in the far north where incoming material is
 held, assessed, suppressed, and prepared for the long sleep at White Grave —
 or silently removed from the chain when the sleep is not the answer.
 
-It is called a depot because that is its nature: a place of holding, not of
+It is called a depot because that is its nature: a place of holding,
+not of
 residence. What arrives here is never home. It is only on its way.

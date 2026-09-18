@@ -6,17 +6,24 @@
 | ARCHIVE STATUS | Active |
 | DISTRIBUTION | Internal / Repository Guidance |
 | AUTHORITY | Central Archive Administration / Narrative Continuity Review |
-| PURPOSE | Define how A.C.T. files should be read when doctrine, archive copies, anomaly records, story material, research notes, and crossover material exist in the same repository. |
+| PURPOSE | Define how A.C.T. files should be read when doctrine, archive copies, anomaly records, story<br>material, research notes,<br>and crossover material exist in the same repository. |
 
 ---
 
 ## 1. Purpose of This Policy
 
-The A.C.T. Facility Universe is built as an archive. It contains official doctrine, anomaly records, site dossiers, field logs, story manuscripts, in-universe history, planning research, wiki preparation notes, and crossover material. Those materials do not all hold the same canon weight.
+The A.C.T. Facility Universe is built as an archive. It contains official doctrine, anomaly
+records, site dossiers,
+field logs, story manuscripts, in-universe history, planning research, wiki preparation notes, and crossover material.
+Those materials do not all hold the same canon weight.
 
-This policy exists so future readers and editors do not accidentally treat every file as the same kind of truth.
+This policy exists so future readers and editors do not accidentally treat every file
+as the same kind of truth.
 
-A.C.T. canon is allowed to contain contradiction, redaction, memory damage, archive drift, and institutional misdirection. That is part of the universe. However, there must still be a clear rule for which files govern the setting when a practical editing decision has to be made.
+A.C.T. canon is allowed to contain contradiction, redaction, memory damage, archive drift, and institutional
+misdirection. That is part of the universe. However, there must still be a clear
+rule for which files govern the
+setting when a practical editing decision has to be made.
 
 ---
 
@@ -24,7 +31,8 @@ A.C.T. canon is allowed to contain contradiction, redaction, memory damage, arch
 
 ### 2.1 Core Doctrine Canon
 
-Core Doctrine Canon is the highest practical authority for how A.C.T. works as an institution.
+Core Doctrine Canon is the highest practical authority for how A.C.T. works as an
+institution.
 
 This includes the main doctrine files under:
 
@@ -47,7 +55,9 @@ Core Doctrine Canon governs:
 - Structural Reality doctrine;
 - technology and institutional reference material.
 
-When a future file needs a rule, class, designation, clearance structure, or official A.C.T. term, Core Doctrine Canon is the first place to check.
+When a future file needs a rule, class, designation, clearance structure, or official A.C.T.
+term, Core Doctrine Canon
+is the first place to check.
 
 ### 2.2 Part Series Canon
 
@@ -60,17 +70,29 @@ A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Part/
 A.C.T_UNIVERSE_DOCUMENT/A.C.T .txt Document/PART/
 ```
 
-The Part series explains the universe in numbered doctrine form. It should stay aligned with the root doctrine files and archive copies. If a Part file and a root doctrine file drift, the drift should be reviewed rather than silently ignored.
+The Part series explains the universe in numbered doctrine form. It should stay aligned
+with the root doctrine files
+and archive copies. If a Part file and a root doctrine file drift, the
+drift should be reviewed rather than silently
+ignored.
 
 ### 2.3 Archive Copy Canon
 
-Archive copies are in-universe institutional copies of doctrine. They are canon as archive artifacts and should normally match the doctrine they mirror.
+Archive copies are in-universe institutional copies of doctrine. They are canon as archive artifacts
+and should
+normally match the doctrine they mirror.
 
-Archive copies may be useful for story tone because A.C.T. is a setting where record-keeping itself matters. However, unplanned drift between an archive copy and its source should be treated as a maintenance issue unless Central Archive explicitly declares the drift intentional.
+Archive copies may be useful for story tone because A.C.T. is a setting where
+record-keeping itself matters. However,
+unplanned drift between an archive copy and its source should be treated as a
+maintenance issue unless Central Archive
+explicitly declares the drift intentional.
 
 ### 2.4 Anomaly Record Canon
 
-Anomaly Record Canon includes the actual anomaly files, log dossiers, ITHYOS records, legacy files, modern files, UFD records, AFD records, ANM records, and related observation material.
+Anomaly Record Canon includes the actual anomaly files, log dossiers, ITHYOS records, legacy files,
+modern files, UFD
+records, AFD records, ANM records, and related observation material.
 
 Primary locations include:
 
@@ -81,9 +103,15 @@ A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Anomaly Modern txt/
 A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/ITHYOS Document/
 ```
 
-Anomaly records are canon to the file they describe, but they may contain limited knowledge, old terminology, provisional classifications, wrong assumptions, or pre-standard phrasing. A legacy anomaly file does not automatically override later doctrine. A later doctrine file does not erase the historical value of a legacy anomaly file.
+Anomaly records are canon to the file they describe, but they may contain limited
+knowledge, old terminology,
+provisional classifications, wrong assumptions, or pre-standard phrasing. A legacy anomaly file does not automatically
+override later doctrine. A later doctrine file does not erase the historical value of
+a legacy anomaly file.
 
-Where an anomaly has multiple intake stages, such as UFD and AFD records, those records should be treated as distinct archive states unless canon says one supersedes the other.
+Where an anomaly has multiple intake stages, such as UFD and AFD records, those
+records should be treated as distinct
+archive states unless canon says one supersedes the other.
 
 ### 2.5 Site and Floor Canon
 
@@ -98,7 +126,11 @@ A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Site Dossier/Floor Dossier/
 A.C.T_UNIVERSE_DOCUMENT/A.C.T .txt Document/Site Dossier/Floor Dossier/
 ```
 
-Site and floor canon governs local purpose, command role, containment profile, jurisdiction, and internal geography. Floor designations run from F-1 upward to surface level. Below F-1 only the ABYSS route continues unless later doctrine explicitly says otherwise.
+Site and floor canon governs local purpose, command role, containment profile, jurisdiction, and internal
+geography.
+Floor designations run from F-1 upward to surface level. Below F-1 only the ABYSS
+route continues unless later
+doctrine explicitly says otherwise.
 
 ### 2.6 GOI Canon
 
@@ -111,13 +143,21 @@ A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/
 A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_TXT/
 ```
 
-A GOI dossier is canon as A.C.T.'s institutional assessment of that group. It is not necessarily the group's own self-understanding. Future recovered documents written from a GOI voice should be clearly marked as recovered, intercepted, translated, reconstructed, or otherwise separated from the A.C.T. assessment voice.
+A GOI dossier is canon as A.C.T.'s institutional assessment of that group. It is
+not necessarily the group's own
+self-understanding. Future recovered documents written from a GOI voice should be clearly marked as
+recovered,
+intercepted, translated, reconstructed, or otherwise separated from the A.C.T. assessment voice.
 
-GOI expansion remains gated: one new original GOI per Central Archive registry order unless Central Archive changes that rule.
+GOI expansion remains gated: one new original GOI per Central Archive registry order unless
+Central Archive changes
+that rule.
 
 ### 2.7 Main Story / Tale Layer
 
-The Main Story and tale materials dramatize the A.C.T. universe. They are canon to the narrative layer and may reveal emotional, personal, or contradictory truths that doctrine files hide.
+The Main Story and tale materials dramatize the A.C.T. universe. They are canon to
+the narrative layer and may reveal
+emotional, personal, or contradictory truths that doctrine files hide.
 
 Primary location:
 
@@ -125,9 +165,13 @@ Primary location:
 A.C.T_UNIVERSE_DOCUMENT/ACT MAIN STORY/
 ```
 
-Story files may use scenes, dialogue, character perspective, uncertainty, and restricted knowledge. They should respect core doctrine unless the story is deliberately showing that a record, person, or institution is wrong.
+Story files may use scenes, dialogue, character perspective, uncertainty, and restricted knowledge. They should
+respect core doctrine unless the story is deliberately showing that a record, person, or
+institution is wrong.
 
-If a story chapter and its `.txt` twin drift, the drift should be fixed unless an alternate-version rule is explicitly declared.
+If a story chapter and its `.txt` twin drift, the drift should be fixed
+unless an alternate-version rule is explicitly
+declared.
 
 ### 2.8 Junior Handbook Layer
 
@@ -139,7 +183,10 @@ Primary location:
 A.C.T_UNIVERSE_DOCUMENT/Junior Handbook/
 ```
 
-The handbook is deliberately simplified. It should not be forced to include every mid-level, senior-level, or O5-level doctrine detail. If the handbook omits something, that omission is not a contradiction by itself.
+The handbook is deliberately simplified. It should not be forced to include every mid-level,
+senior-level, or O5-level
+doctrine detail. If the handbook omits something, that omission is not a contradiction by
+itself.
 
 ### 2.9 Book Layer
 
@@ -151,11 +198,15 @@ Primary file:
 A.C.T_UNIVERSE_DOCUMENT/'A History of Anomaly Containment Transformation' BOOK.md
 ```
 
-The book may explain history in a more continuous voice than the archive does. It should be treated as a major interpretive source, but not as the first authority for file format, classification grammar, or operational doctrine.
+The book may explain history in a more continuous voice than the archive does.
+It should be treated as a major
+interpretive source, but not as the first authority for file format, classification grammar, or
+operational doctrine.
 
 ### 2.10 Research / Planning Layer
 
-Research files document planning, comparisons, maintenance audits, provenance notes, and future development recommendations.
+Research files document planning, comparisons, maintenance audits, provenance notes, and future development
+recommendations.
 
 Primary location:
 
@@ -163,7 +214,11 @@ Primary location:
 RESEARCH FOLDER/
 ```
 
-Research files are not canon by default. They may recommend canon additions, document archive decisions, or preserve research context. A recommendation in the research folder becomes active canon only when it is implemented into the appropriate canon document or explicitly approved as binding guidance.
+Research files are not canon by default. They may recommend canon additions, document archive
+decisions, or preserve
+research context. A recommendation in the research folder becomes active canon only when it
+is implemented into the
+appropriate canon document or explicitly approved as binding guidance.
 
 ### 2.11 Wiki / Public Presentation Layer
 
@@ -175,13 +230,17 @@ Primary location:
 docs/
 ```
 
-A docs page should present or adapt canon; it should not silently rewrite source canon. When in doubt, docs pages should link back to the source files that govern them.
+A docs page should present or adapt canon; it should not silently rewrite source
+canon. When in doubt, docs pages
+should link back to the source files that govern them.
 
 The current `docs/` scaffold may remain minimal until wiki implementation is authorized.
 
 ### 2.12 Crossover / Non-Core Material
 
-Crossover material is not Core A.C.T. Canon unless Central Archive explicitly declares a specific element to be imported into core continuity.
+Crossover material is not Core A.C.T. Canon unless Central Archive explicitly declares a specific
+element to be
+imported into core continuity.
 
 Known crossover/example location:
 
@@ -189,7 +248,11 @@ Known crossover/example location:
 A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Anomaly Legacy 01 .txt/STORY/
 ```
 
-Crossover stories may be preserved in the repository as creative work, experiments, alternate material, or non-core tales. They must not be used as automatic evidence for core A.C.T. doctrine, technology, organizations, cosmology, or visual identity.
+Crossover stories may be preserved in the repository as creative work, experiments, alternate material,
+or non-core
+tales. They must not be used as automatic evidence for core A.C.T. doctrine, technology,
+organizations, cosmology, or
+visual identity.
 
 This rule especially protects the independent A.C.T. core from accidental dependence on external properties.
 
@@ -214,7 +277,8 @@ When editing or adding files, use this practical authority order:
 13. Docs layer for public presentation.
 14. Crossover/non-core material only when explicitly working in that layer.
 
-If two canon files disagree, do not silently flatten the contradiction. Determine whether the disagreement is:
+If two canon files disagree, do not silently flatten the contradiction. Determine whether the
+disagreement is:
 
 - intentional archive drift;
 - old terminology preserved in a legacy file;
@@ -241,22 +305,29 @@ ACT MAIN STORY .md ↔ .txt pairs
 Junior Handbook .md ↔ .txt pair
 ```
 
-A `.txt` twin should normally be a plain-text reading copy of the Markdown source, not a shorter edition, unless the file explicitly states that it is an alternate version.
+A `.txt` twin should normally be a plain-text reading copy of the Markdown source,
+not a shorter edition, unless the
+file explicitly states that it is an alternate version.
 
 Known exceptions remain:
 
 - the BOOK is Markdown-only;
 - research reports are Markdown-only unless the Central Archive requests otherwise;
 - some legacy records are intentionally text-only;
-- public `docs/` pages do not automatically require text twins unless a docs policy later establishes that rule.
+  public `docs/` pages do not automatically require text twins unless a docs policy
+  later
+  establishes that rule.
 
 ---
 
 ## 5. Crossover Protection Rule
 
-A.C.T. may contain crossover stories, research references, and comparison notes. Those materials are useful, but they must stay visibly separated from the independent core.
+A.C.T. may contain crossover stories, research references, and comparison notes. Those materials are useful,
+but they
+must stay visibly separated from the independent core.
 
-Do not copy external-property terminology, organizations, visual symbols, mechanics, cosmology, or named systems into core A.C.T. files unless Central Archive explicitly authorizes a crossover or non-core document.
+Do not copy external-property terminology, organizations, visual symbols, mechanics, cosmology, or named systems into
+core A.C.T. files unless Central Archive explicitly authorizes a crossover or non-core document.
 
 When writing core A.C.T. material, use A.C.T.'s own vocabulary:
 
@@ -274,7 +345,9 @@ When writing core A.C.T. material, use A.C.T.'s own vocabulary:
 
 ## 6. Drift and Contradiction Handling
 
-A.C.T. is allowed to have archive damage as fiction. The repository is not allowed to have accidental drift as maintenance.
+A.C.T. is allowed to have archive damage as fiction. The repository is not allowed
+to have accidental drift as
+maintenance.
 
 Before treating a mismatch as lore, check:
 
@@ -292,14 +365,18 @@ Only after those checks should a contradiction be preserved as intentional canon
 
 ## 7. Active Continuity Notes
 
-- `SP` is a valid field type code for Space anomalies and should be included where field type lists are maintained.
+  `SP` is a valid field type code for Space anomalies and should be
+  included
+  where field type lists are maintained.
 - `[ BLANK ]` with spaces is a redaction marker.
 - `[BLANK]` without spaces is a containment class.
 - Floor designations run from F-1 upward to surface level.
 - The ABYSS is not just another numbered floor.
 - GOI expansion remains gated by Central Archive registry order.
 - Crossover stories are preserved but not default core canon.
-- Research files can recommend future doctrine, but canon changes must be implemented in canon files.
+  Research files can recommend future doctrine, but canon changes must be implemented in
+  canon
+  files.
 
 ---
 
@@ -307,4 +384,6 @@ Only after those checks should a contradiction be preserved as intentional canon
 
 When uncertain, preserve A.C.T.'s independent core first.
 
-The archive may be wounded, contradictory, redacted, or afraid of itself. The repository should still make clear which wound is story and which wound is maintenance.
+The archive may be wounded, contradictory, redacted, or afraid of itself. The repository should
+still make clear which
+wound is story and which wound is maintenance.

@@ -158,7 +158,8 @@ Diagnosis: **Chronic Causal Displacement Syndrome.**
 LOG ID:              AFD-SP-890/THORNE-NOTE
 AUTHOR:              Aris Thorne (SR-412)
 
-"I was at the spur when they pulled 04 out. The man looked at me as if I 
+"I was at the spur when they pulled 04 out. The man looked at
+me as if I
 were a ghost. In his mind, I had abandoned him for two years. To 
 me, he had been gone for a single winter.
 
@@ -171,8 +172,10 @@ We didn't leave him. He just took the long way home. And the fact
 that the train brought him back to the same spur—at the exact 
 one-year mark—suggests that the Infinity Train is a closed circuit. 
 
-It is a loop that we are only seeing the outside of. Next time, we 
-send a clock made of Abyssal Basalt. I want to see if the Void can 
+It is a loop that we are only seeing the outside of. Next time,
+we
+send a clock made of Abyssal Basalt. I want to see if the Void
+can
 melt the time off that."
 
 ═══════════════════════════════════════════════════════════════════════

@@ -41,13 +41,17 @@ Codename: Kurokawa Archive Node
 Site Type: Regional Site
 Location: Eastern Japan (exact coordinates withheld; urban-embedded installation)
 Command Authority: Site Director with Archive and Intelligence dual review
-Primary Function: Memetic and informational anomaly handling, archive-redaction testing, and urban data anomaly response
+Primary Function: Memetic and informational anomaly handling, archive-redaction testing, and urban data anomaly
+response
 Divisions Present: Archiver Division, Intelligence Division, Researcher Division, Medical Cognitive Support, Security
 Containment Profile: Memetic / Infohazard / Archive-Sensitive / Signal-Borne
-Regional Jurisdiction: Eastern Japanese anomaly events, urban infohazard spread corridors, media-adjacent suppression zones
-Notable Features: Strong archive-intelligence integration; advanced document containment procedures; media-density operational relevance
+Regional Jurisdiction: Eastern Japanese anomaly events, urban infohazard spread corridors, media-adjacent suppression
+zones
+Notable Features: Strong archive-intelligence integration; advanced document containment procedures; media-density
+operational relevance
 Current Status: Active
-History Notes: Expanded from a specialized records-monitoring site into a major East-region anomaly interpretation hub.
+History Notes: Expanded from a specialized records-monitoring site into a major East-region anomaly interpretation
+hub.
 Security Notes: Any uncontrolled digital leak is treated as a priority containment breach.
 
 ---
@@ -465,7 +469,8 @@ field deployment — and the same requirement for debriefing.
 12.2 Redaction Doctrine
 
 Kurokawa is the Facility's principal laboratory for redaction doctrine: the
-art of determining what may be shown, what must be hidden, and how to hide it
+art of determining what may be shown, what must be hidden, and how to
+hide it
 without destroying the record. Redaction is treated as a containment action —
 a document that has been properly redacted is a document that has been made
 safe to exist.

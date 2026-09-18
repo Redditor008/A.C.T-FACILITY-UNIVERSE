@@ -8,9 +8,15 @@
 | AUTHORITY | Central Archive, Civil Covert Division, and Medical Care Division |
 
 #### Archive Note
-This form is used when a civilian, personnel member, contained subject, GOI contact, or other witness provides testimony connected to an anomalous event. The purpose is to preserve what was perceived before A.C.T normalcy work reshapes the public record.
+This form is used when a civilian, personnel member, contained subject, GOI contact, or
+other witness provides
+testimony connected to an anomalous event. The purpose is to preserve what was perceived
+before A.C.T normalcy work
+reshapes the public record.
 
-A witness statement is not automatically true. It is not automatically false. It is evidence of contact between a mind and an event that may not have obeyed the same rules for every observer.
+A witness statement is not automatically true. It is not automatically false. It is
+evidence of contact between a mind
+and an event that may not have obeyed the same rules for every observer.
 
 ---
 
@@ -32,7 +38,11 @@ Use this form when testimony may affect:
 - cross-containment interaction review;
 - transformation approval or denial.
 
-Do not use this form as a casual interview transcript when no anomalous relevance exists. Do not replace therapy notes, medical diagnosis, interrogation logs, or subject-care records with this form unless the witness statement itself is the required evidence.
+Do not use this form as a casual interview transcript when no anomalous relevance
+exists. Do not replace therapy
+notes, medical diagnosis, interrogation logs, or subject-care records with this form unless the witness
+statement
+itself is the required evidence.
 
 ---
 
@@ -56,7 +66,11 @@ Mark one primary category and any secondary category required.
 [ ] OTHER: ______________________________
 ```
 
-Witness category does not decide credibility by itself. A frightened civilian may be more accurate than a trained researcher exposed to a memetic field. A hostile witness may tell the truth for the wrong reason. An E-Class witness remains a person even when the institution has excommunicated them from ordinary protection.
+Witness category does not decide credibility by itself. A frightened civilian may be more
+accurate than a trained
+researcher exposed to a memetic field. A hostile witness may tell the truth for
+the wrong reason. An E-Class witness
+remains a person even when the institution has excommunicated them from ordinary protection.
 
 ---
 
@@ -87,7 +101,8 @@ NORMALCY NARRATIVE STATUS:
 ARCHIVE ROUTING:
 ```
 
-If witness identity is unsafe to preserve, use a sealed identifier and record the sealing authority.
+If witness identity is unsafe to preserve, use a sealed identifier and record the
+sealing authority.
 
 ---
 
@@ -99,17 +114,20 @@ Before testimony begins, the interviewer must confirm:
 [ ] witness is medically stable enough to speak
 [ ] witness understands they are giving a statement, if capable
 [ ] witness has not been coached by unauthorized personnel
-[ ] witness has not been exposed to the public cover story in a way that invalidates raw perception
+[ ] witness has not been exposed to the public cover story in a
+way that invalidates raw perception
 [ ] witness has been screened for immediate memetic or cognitive hazard
 [ ] recording equipment has been checked for anomaly-reactive behavior
 [ ] interpreter or cultural liaison is present if needed
 [ ] child/dependent safeguard is present if needed
 [ ] Subject Care safeguard is present if the witness is a contained subject
 [ ] E-Class safeguard is present if the witness is Excommunicated Class
-[ ] GOI-risk observer is present if the witness may be affiliated with a GOI
+[ ] GOI-risk observer is present if the witness may be affiliated with a
+GOI
 ```
 
-Failure to complete a check does not always stop testimony. It must be recorded before testimony is trusted.
+Failure to complete a check does not always stop testimony. It must be recorded
+before testimony is trusted.
 
 ---
 
@@ -119,12 +137,17 @@ The interviewer should begin with a free statement before guided questions.
 
 ```text
 OPENING INSTRUCTION USED:
-"Tell me what happened in the order you remember it. Do not fix the order for me. If something happened twice, happened before itself, sounded wrong, looked staged, or feels impossible to place, say that directly."
+"Tell me what happened in the order you remember it. Do not fix the
+order for me. If something happened twice,
+happened before itself, sounded wrong, looked staged, or feels impossible to place, say that
+directly."
 ```
 
 ```text
 FREE STATEMENT:
-[Write or attach the witness's account here. Preserve uncertain wording, pauses, repeated phrases, drawings, gestures, emotional breaks, and refusal to answer where relevant.]
+[Write or attach the witness's account here. Preserve uncertain wording, pauses, repeated phrases, drawings,
+gestures,
+emotional breaks, and refusal to answer where relevant.]
 ```
 
 Do not correct the witness into A.C.T terminology during the first account.
@@ -181,7 +204,9 @@ Did any person, animal, object, or place seem to notice being watched?
 #### Objects and Environment
 
 ```text
-What object, doorway, sound, symbol, document, machine, animal, body, weather, road, room, screen, or file seemed central?
+What object, doorway, sound, symbol, document, machine, animal, body, weather, road, room, screen, or
+file seemed
+central?
 Was anything too clean, too old, too new, too staged, or impossible to damage?
 Did the environment behave as if it had rules?
 ```
@@ -198,7 +223,9 @@ Who benefits if that explanation is accepted?
 #### GOI Indicators
 
 ```text
-Did you see a name, logo, badge, uniform, chant, ticket, catalogue, contract, ritual phrase, maintenance message, company label, market price, or political slogan?
+Did you see a name, logo, badge, uniform, chant, ticket, catalogue, contract, ritual phrase,
+maintenance message,
+company label, market price, or political slogan?
 Did anyone claim ownership, rescue, authority, payment, faith, liberation, or eradication?
 Did anyone try to remove evidence before emergency services arrived?
 ```
@@ -236,7 +263,8 @@ ALTERATION INDICATORS:
 [ ] other: ______________________________
 ```
 
-Low reliability does not mean low value. A distorted statement may reveal the shape of the distortion.
+Low reliability does not mean low value. A distorted statement may reveal the shape
+of the distortion.
 
 ---
 
@@ -282,7 +310,9 @@ FOLLOW-UP DATE:
 FOLLOW-UP AUTHORITY:
 ```
 
-A partial truth shard is a controlled fragment of truth left intact because full erasure would cause worse instability, obsession, grief collapse, or pattern-seeking behavior.
+A partial truth shard is a controlled fragment of truth left intact because full
+erasure would cause worse
+instability, obsession, grief collapse, or pattern-seeking behavior.
 
 ---
 
@@ -302,7 +332,9 @@ RETURN TO DUTY ALLOWED:
 RETURN TO DUTY AUTHORITY:
 ```
 
-E-Class testimony is not less human because the witness is excommunicated. It may be more institutionally dangerous because the witness has seen what protected staff were spared.
+E-Class testimony is not less human because the witness is excommunicated. It may be
+more institutionally dangerous
+because the witness has seen what protected staff were spared.
 
 ---
 
@@ -333,7 +365,9 @@ GOI OFFERS MADE:
 GOI RECOVERED DOCUMENT RECORD REQUIRED:
 ```
 
-A GOI-affiliated witness may require both witness filing and recovered-document filing if they carry written, spoken, digital, ritual, or commercial material from the group.
+A GOI-affiliated witness may require both witness filing and recovered-document filing if they carry
+written, spoken,
+digital, ritual, or commercial material from the group.
 
 ---
 
@@ -341,7 +375,9 @@ A GOI-affiliated witness may require both witness filing and recovered-document 
 
 ```text
 INTERVIEWER CERTIFICATION:
-I certify that this statement preserves the witness account, observed condition, and A.C.T handling decisions as accurately as current containment conditions allow.
+I certify that this statement preserves the witness account, observed condition, and A.C.T handling
+decisions as
+accurately as current containment conditions allow.
 
 INTERVIEWER NAME / IDENTIFIER:
 DIVISION:

@@ -5,25 +5,45 @@
 | DATED | 08 September 2026 |
 | TYPE | Working / provenance record — companion to the canonical reference |
 | COMPANION TO | `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Complete_Designation_and_Class_Reference.md` and its `.txt` twin |
-| OWNER INSTRUCTION HONORED | the canonical reference carries no draft wording. All provenance, working-status, drafting decisions, and open questions live here, so a future meaning change can be made by editing **both** this file and the canonical reference together. |
+| OWNER INSTRUCTION HONORED | together. |
 
 ---
 
 ## 1. Why this file exists
 
-The owner's standing instruction, in their words: every designation/class must carry an explanation — "like everyone will know the meaning of it" — because previous AI passes either left codes bare, shortened their explanations, or changed the meanings. This working file is the edit-side record of that instruction:
+The owner's standing instruction, in their words: every designation/class must carry an explanation —
+"like everyone
+will know the meaning of it" — because previous AI passes either left codes
+bare, shortened their explanations, or
+changed the meanings. This working file is the edit-side record of that instruction:
 
-1. The canonical reference (md + txt twin) is the authoritative in-universe document. It never says "draft."
-2. This file records, for every code in the reference: whether the meaning is **canon text**, a **canon anchor with working expansion**, or a **working meaning drafted because canon lists the code only**.
-3. When the owner revises a meaning, edit the canonical entry **and** the matching row here, then append the change log (section 7).
+   The canonical reference (md + txt twin) is the authoritative in-universe document. It
+   never
+   says "draft."
+   This file records, for every code in the reference: whether the meaning is
+   **canon
+   text**, a **canon anchor with
+   working expansion**, or a **working meaning drafted because canon lists the code only**.
+   When the owner revises a meaning, edit the canonical entry **and** the matching
+   row
+   here, then append the change log
+   (section 7).
 
 ---
 
 ## 2. Status key used below
 
-- **V** — the meaning in the canonical reference is canon text (verbatim or near-verbatim from the source record).
-- **C+W** — canon provides the core meaning/anchor line; the canonical reference adds working expansion, reading examples, or confusion notes written for this reference.
-- **W** — canon lists the code with no definition; the meaning in the canonical reference is the working interpretation drafted for this pass. Reviewable here.
+  **V** — the meaning in the canonical reference is canon text (verbatim or
+  near-verbatim
+  from the source record).
+  **C+W** — canon provides the core meaning/anchor line; the canonical reference adds working
+  expansion,
+  reading
+  examples, or confusion notes written for this reference.
+  **W** — canon lists the code with no definition; the meaning in the
+  canonical
+  reference is the working interpretation
+  drafted for this pass. Reviewable here.
 
 ---
 
@@ -52,7 +72,7 @@ The owner's standing instruction, in their words: every designation/class must c
 | IH — Info Hazard | C+W | same | Name canon; expansion drafted; ME/IH boundary added. |
 | CH — Cosmic Hazard | C+W | same | Name canon; expansion drafted; CH vs Threat note added. |
 | NB — Non-Natural Bio Hazard | C+W | same | Name canon; expansion drafted; NB/SU note added. |
-| ?.H — Shifting Hazard | V | Part Two §4 (Shifting Hazard paragraph) | Canon paragraph preserved; reserved-status note added. Open item: no open file uses ?.H as primary segment — keep reserved? Owner ruling welcome. |
+| ?.H — Shifting Hazard | V | Part Two §4 (Shifting Hazard paragraph) | reserved? Owner ruling welcome. |
 
 ### I-3 ANM and fracture codes
 
@@ -65,7 +85,15 @@ The owner's standing instruction, in their words: every designation/class must c
 
 ### I-4 Containment classes
 
-All twelve classes: **V** for the defining line and meaning (Part Two §5, "Containment Class"), with reading examples and confusion notes added from the open register. Distribution of open files using each class (scanned 2026-09-08, top-level Modern/Legacy anomaly folders only): REACTIVE 28, INERT 9, UNDISCLOSED 7, SPORADIC 5, TIAMAT 2, INTANGIBLE 3, EXIGENT 3, RESIDUAL 2, UNENCLOSABLE 2, ENTROPIC 0, INVERTED 0, [BLANK] 0 (only the unfilled template file carries [BLANK]).
+All twelve classes: **V** for the defining line and meaning (Part Two §5, "Containment
+Class"), with reading examples
+and confusion notes added from the open register. Distribution of open files using each
+class (scanned 2026-09-08,
+top-level Modern/Legacy anomaly folders only): REACTIVE 28, INERT 9, UNDISCLOSED 7, SPORADIC 5, TIAMAT
+2, INTANGIBLE
+3, EXIGENT 3, RESIDUAL 2, UNENCLOSABLE 2, ENTROPIC 0, INVERTED 0, [BLANK] 0 (only
+the unfilled template file carries
+[BLANK]).
 
 | Class | Status | Open item |
 |---|---|---|
@@ -73,14 +101,14 @@ All twelve classes: **V** for the defining line and meaning (Part Two §5, "Cont
 | RESIDUAL | V | None. |
 | SPORADIC | V | None. |
 | UNDISCLOSED | V | None. |
-| ENTROPIC | V | No open file currently carries it in the scanned register; referenced in SITE-01/SITE-02 doctrine. Not an error — note only. |
+| ENTROPIC | V | No open file currently carries it in the scanned register; referenced in SITE-01/SITE-02 doctrine.<br>Not an error — note<br>only. |
 | REACTIVE | V | None (most common open class). |
 | EXIGENT | V | None. |
-| INVERTED | V | No open file currently carries it; class is load-bearing in principle (the anomaly is a vessel/seal). Owner may want a dedicated example file later. |
+| INVERTED | V | No open file currently carries it; class is load-bearing in principle (the anomaly is<br>a vessel/seal). Owner may want a<br>dedicated example file later. |
 | UNENCLOSABLE | V | None. |
 | INTANGIBLE | V | None. |
 | TIAMAT | V | None. |
-| [BLANK] | V | Spelling rule ([BLANK] class vs [ BLANK ] redaction) stated in reference and must stay fixed. |
+| [BLANK] | V | Spelling rule ([BLANK] class vs [ BLANK ] redaction) stated in reference and must<br>stay fixed. |
 
 ### I-5 Threat Level (0–10)
 
@@ -109,9 +137,10 @@ All twelve classes: **V** for the defining line and meaning (Part Two §5, "Cont
 | Value | Status | Provenance |
 |---|---|---|
 | Small Box … Unclose (11 categories) | V (glosses) | Manual §3.5.5 (canon one-line definitions quoted in full). |
-| Expansions and reading notes | C+W | Drafted per entry; structure-vs-class confusion note added (the single most-misread pair in draft files, per owner's Box Class example). |
+| Expansions and reading notes | C+W | Box Class example). |
 
-Open item: the category is listed in some files as "Box-cass"; that spelling is canon (Manual §3.5.5). No change made.
+Open item: the category is listed in some files as "Box-cass"; that spelling is
+canon (Manual §3.5.5). No change made.
 
 ### I-9 Location, condition, exposure, transport fields
 
@@ -126,19 +155,19 @@ Open item: the category is listed in some files as "Box-cass"; that spelling is 
 
 | Value | Status | Provenance |
 |---|---|---|
-| Stable … Structural Failure State (11) | W | Names canon (Manual §3.7); the per-state meaning lines are **working interpretations drafted for this pass** — review items. Transformation link from Manual §3.8.1. |
+| Stable … Structural Failure State (11) | W | items. Transformation link from Manual §3.8.1. |
 
 ### I-11 Observation and handling restrictions
 
 | Value | Status | Provenance |
 |---|---|---|
-| 14 restriction lines | W (meaning lines) | List canon (Manual §3.6); per-line meanings drafted. "no serpent-class organism proximity" note tied to ITHYOS lineage is working context, not canon text. |
+| 14 restriction lines | W (meaning lines) | is working context, not canon text. |
 
 ### I-12 Redaction and suppression markers
 
 | Marker | Status | Provenance |
 |---|---|---|
-| [ BLANK ] / [ MEMETIC ] / [ INFO-HAZARD ] / [MEMETIC FILTER APPLIED] / [STRUCTURAL DATA OMITTED] / [ABYSS ACCESS ONLY] / [ O5 - ONLY ] / [O5-RESTRICTED] / [ Level 4-5 Lock ] / [ Specialize Only ] | C+W | List canon (Manual §3.9); per-marker meanings drafted. |
+| [ BLANK ] / [ MEMETIC ] / [ INFO-HAZARD ] / [MEMETIC FILTER<br>APPLIED] / [STRUCTURAL DATA OMITTED] / [ABYSS ACCESS ONLY]<br>/ [ O5 - ONLY ] / [O5-RESTRICTED] / [ Level 4-5 Lock ]<br>/ [ Specialize Only ] | C+W | List canon (Manual §3.9); per-marker meanings drafted. |
 | [BLANK] vs [ BLANK ] rule | V | Spelling rule from the 2026-09-07 consistency sweep; stated as fixed. |
 
 ### I-13 RCT axes
@@ -153,7 +182,7 @@ Open item: the category is listed in some files as "Box-cass"; that spelling is 
 
 | Item | Status | Provenance |
 |---|---|---|
-| Archive Status / FILE STATUS / RECORD CONDITION / CURRENT STATUS / DESIGNATION HISTORY values | C+W | Value vocabulary gathered from controlled forms and live files; meaning lines drafted. |
+| Archive Status / FILE STATUS / RECORD CONDITION / CURRENT STATUS / DESIGNATION HISTORY<br>values | C+W | Value vocabulary gathered from controlled forms and live files; meaning lines drafted. |
 
 ---
 
@@ -195,7 +224,10 @@ Open item: the category is listed in some files as "Box-cass"; that spelling is 
 | Common-contents lists | V | Same source, listed per category. |
 | Reliability note (Category XII) | V | Same source. |
 
-No log category is given a code letter in canon; categories are cited by Roman numeral + name only. If the owner later wants short codes (for example LOG-I style naming), that would be a new convention — not assumed here.
+No log category is given a code letter in canon; categories are cited by
+Roman numeral + name only. If the owner later
+wants short codes (for example LOG-I style naming), that would be a new convention
+— not assumed here.
 
 ---
 
@@ -209,16 +241,51 @@ No log category is given a code letter in canon; categories are cited by Roman n
 
 ## 8. Open items and inconsistencies observed (owner rulings welcome)
 
-1. **ANM-BL-BL-XXXX placeholder.** The demonstration file `[BLANK]-ANM-BL-BL-XXXX.txt` uses `BL` in both ANM segments. `BL` is **not** an official Fracture Index code (official: QU/AB/MU/UA/SC and HM/BE/RV/AS/NU). Reading adopted: the file is an intentionally unfilled template — `BL` = blank/placeholder, not a code. If any *real* file ever uses `BL`, it should be corrected to an official code or the Fracture table extended by owner decision.
-2. **?.H primary usage.** No open file carries ?.H as its primary field-type segment; it appears as reserved template value and as a secondary annotation (e.g., Ball of Knife). Keep reserved, or begin assigning? Awaiting owner choice.
-3. **ENTROPIC and INVERTED have no open example file** (scan date above). Classes are canonical. Optional future work: a dedicated example file per class.
-4. **Two threat scales.** Anomaly Threat Level 0–10; GOI Threat Level 0–5. Files must state which scale is in use. Reference restates both; no file content changed.
-5. **[BLANK] spelling discipline.** Class = unspaced `[BLANK]`; redaction = spaced `[ BLANK ]`. Audits should flag mixed spellings (the reference entry is the enforcement text).
-6. **Registry continuity.** GOI live register ends at 050 (Liberty Freedoms). The next owner-directed GOI should take 051 unless the owner overrides. Roadmap §6 still governs: one new GOI per owner prompt.
-7. **Box Class vs Containment Class confusion** — the owner's cited failure example. Reference states both fields and their difference; no draft files corrected in this pass (audit would be a separate owner-approved sweep).
-8. **RCT range shorthand** (INERT → [BLANK], 0 → 10, INVIOLABLE → INTEGRATED) is a span notation on the template, not evidence that classes form a strict linear ladder. Working interpretation, recorded in I-13.
-9. **?H vs ?.H** — canon writes the shifting-hazard code as `?.H` in all official tables. The reference keeps `?.H`. Any draft file using `?H` or `.H` variants is non-standard (none found in this pass).
-10. **Numbers with leading structure.** UFD/AFD registry is three digits, ANM four digits, GOI three digits, sites two digits. Files that overflow or truncate these widths should be flagged in review.
+1. **ANM-BL-BL-XXXX placeholder.** The demonstration file `[BLANK]-ANM-BL-BL-XXXX.txt` uses `BL` in both ANM segments.
+   `BL` is **not** an official Fracture Index code (official: QU/AB/MU/UA/SC and HM/BE/RV/AS/NU). Reading adopted:
+   the
+   file is an intentionally unfilled template — `BL` = blank/placeholder, not a code. If
+   any *real* file ever uses `BL`,
+   it should be corrected to an official code or the Fracture table extended by
+   owner decision.
+   **?.H primary usage.** No open file carries ?.H as its primary field-type segment;
+   it
+   appears as reserved template
+   value and as a secondary annotation (e.g., Ball of Knife). Keep reserved, or begin
+   assigning? Awaiting owner choice.
+   **ENTROPIC and INVERTED have no open example file** (scan date above). Classes are
+   canonical.
+   Optional future work: a
+   dedicated example file per class.
+   **Two threat scales.** Anomaly Threat Level 0–10; GOI Threat Level 0–5. Files must
+   state
+   which scale is in use.
+   Reference restates both; no file content changed.
+   **[BLANK] spelling discipline.** Class = unspaced `[BLANK]`; redaction = spaced `[ BLANK ]`.
+   Audits
+   should flag mixed
+   spellings (the reference entry is the enforcement text).
+   **Registry continuity.** GOI live register ends at 050 (Liberty Freedoms). The next owner-directed
+   GOI
+   should take 051
+   unless the owner overrides. Roadmap §6 still governs: one new GOI per owner prompt.
+   **Box Class vs Containment Class confusion** — the owner's cited failure example. Reference
+   states
+   both fields and
+   their difference; no draft files corrected in this pass (audit would be a separate
+   owner-approved sweep).
+   **RCT range shorthand** (INERT → [BLANK], 0 → 10, INVIOLABLE → INTEGRATED) is
+   a
+   span notation on the template, not
+   evidence that classes form a strict linear ladder. Working interpretation, recorded in I-13.
+   **?H vs ?.H** — canon writes the shifting-hazard code as `?.H` in all
+   official
+   tables. The reference keeps `?.H`. Any
+   draft file using `?H` or `.H` variants is non-standard (none found in this pass).
+    **Numbers with leading structure.** UFD/AFD registry is three digits, ANM four digits, GOI
+    three
+    digits, sites two
+    digits. Files that overflow or truncate these widths should be flagged in review.
 
 ---
 
@@ -232,4 +299,6 @@ When a meaning changes:
 4. Append a row to the change log (section 7).
 5. Commit and push.
 
-This keeps the canonical reference authoritative and this file truthful, so the two can never silently disagree about what a code means.
+This keeps the canonical reference authoritative and this file truthful, so the two can
+never silently disagree about
+what a code means.

@@ -56,7 +56,8 @@ NARRATIVE STATUS:    Controlled as carbon monoxide exposure and equipment fault
 ═══════════════════════════════════════════════════════════════════════
 
 AFD-CH-002 is a medium-sized object measuring approximately 84 cm in height,
-51 cm in width, and 46 cm in depth. It resembles a dark, smooth meteorite
+51 cm in width, and 46 cm in depth. It resembles a dark, smooth
+meteorite
 fragment suspended inside a naturally formed cage of pale metallic ribs. The
 object has a mass of 112 kg despite displacing insufficient volume for any
 known terrestrial mineral composition.

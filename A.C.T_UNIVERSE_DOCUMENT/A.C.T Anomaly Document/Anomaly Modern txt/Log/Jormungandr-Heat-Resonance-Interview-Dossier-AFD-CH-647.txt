@@ -210,11 +210,13 @@ LOCATION:            Cosmic Hazard Review / Heat-Resonance Desk
 AUTHOR:              Heat-Resonance Desk
 STATUS:              Standing
 
-The subject speaks. That is the whole basis of this dossier, and it must not
+The subject speaks. That is the whole basis of this dossier, and it must
+not
 be lost in the translation of its meaning: AFD-CH-647 is a person-shaped
 exception to every rule A.C.T has about entities that live inside volcanoes.
 Its testimony is preserved so that the next linguist, the next shift, and the
-next century ask the same question the same way — and hear the same answer
+next century ask the same question the same way — and hear the same
+answer
 without having to wake the mountain to get it.
 
 END OF FILE

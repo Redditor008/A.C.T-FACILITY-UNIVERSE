@@ -29,7 +29,8 @@ kept. The suite measures an artifact's causal pulse before physical contact,
 in accordance with current (2026) intake standards.
 
 This dossier records the floor in full institutional language: what it is,
-what it does, how it is built, how it is run, and how the knowledge it
+what it does, how it is built, how it is run, and how the
+knowledge it
 produces flows through the entire complex.
 
 ---

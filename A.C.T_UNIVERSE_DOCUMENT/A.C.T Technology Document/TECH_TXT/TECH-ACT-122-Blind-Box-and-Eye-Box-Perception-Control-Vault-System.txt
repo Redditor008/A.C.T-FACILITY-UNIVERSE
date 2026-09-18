@@ -1,41 +1,50 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - BLIND BOX AND EYE BOX PERCEPTION-CONTROL VAULT SYSTEM
 
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-122                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Blind Box and Eye Box Perception-Control Vault System       |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | BBEBPCVS                                                    |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | PERCEPTION CONTROL / MEMETIC VAULT / INFOHAZARD HOLDING     |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | KUROKAWA ARCHIVE NODE F-2 DEEP MEMETIC AND INFOHAZARD       |
-|                            | VAULTING                                                    |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Floor Vault Chief / Restricted-Vault Command                |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Archive, Intelligence, Security, Medical, Researcher        |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / RESTRICTED PERCEPTION-CONTROL VAULTING             |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | PERCEPTION BREACH / RESTRICTION-SET VIOLATION / EYE         |
-|                            | EXPOSURE                                                    |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 4 for unit maintenance; Level 5 for Eye Box           |
-|                            | observation, restriction-set alteration, or F-1 transfer    |
-+----------------------------+-------------------------------------------------------------+
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-122                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| TECHNOLOGY NAME            | Blind Box and Eye Box Perception-Control Vault System                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| SHORT NAME                 | BBEBPCVS                                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | PERCEPTION CONTROL / MEMETIC VAULT / INFOHAZARD HOLDING                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| ORIGIN                     | KUROKAWA ARCHIVE NODE F-2 DEEP MEMETIC AND INFOHAZARD VAULTING                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Floor Vault Chief / Restricted-Vault Command                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Archive, Intelligence, Security, Medical, Researcher                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / RESTRICTED PERCEPTION-CONTROL VAULTING                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| RISK STATUS                | PERCEPTION BREACH / RESTRICTION-SET VIOLATION / EYE EXPOSURE                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for unit maintenance; Level 5 for Eye Box observation, restriction-set        |
+|                            | alteration, or F-1 transfer                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Status: Active Kurokawa Restricted-Vault Technology Record
-Distribution: Kurokawa Archive Node / Archive / Intelligence / Security / Medical / Researcher Division
+Distribution: Kurokawa Archive Node / Archive / Intelligence / Security / Medical / Researcher
+Division
 Authority: Floor Vault Chief, Restricted-Vault Command, Site Director, and Central Archive
 
 Archive Note
-Blind Box and Eye Box Perception-Control Vault System is the one-hundred-twenty-second main A.C.T technology expanded into an individual record. The F-2 Deep Memetic and Infohazard Vaulting dossier identifies F-2 as the level for memetic symbols requiring visual denial, information hazards requiring knowledge restriction, and material that must never be fully read. It records Blind Box units that deny perception, Eye Box units that discipline perception, visual-denial infrastructure, perception-protocol monitoring, holding-specific restriction sets, and Dread EYE containment under Eye Box apparatus.
+Blind Box and Eye Box Perception-Control Vault System is the one-hundred-twenty-second main A.C.T technology
+expanded
+into an individual record. The F-2 Deep Memetic and Infohazard Vaulting dossier identifies F-2
+as the level for
+memetic symbols requiring visual denial, information hazards requiring knowledge restriction, and material that must
+never be fully read. It records Blind Box units that deny perception, Eye Box
+units that discipline perception,
+visual-denial infrastructure, perception-protocol monitoring, holding-specific restriction sets, and Dread EYE
+containment under Eye Box apparatus.
 
-BBEBPCVS exists because perception is not observation only. On F-2, perception is a containment channel, and the vault must govern whether the mind receives anything at all.
+BBEBPCVS exists because perception is not observation only. On F-2, perception is a containment
+channel, and the vault
+must govern whether the mind receives anything at all.
 
 Controlled label: BBEBPCVS DENY-OR-DISCIPLINE SIGHT.
 
@@ -45,21 +54,49 @@ NO GENERAL ACCESS; ONLY NAMED PERCEPTION UNDER NAMED RESTRICTION.
 
 FUNCTION OUTLINE
 
-Blind Box and Eye Box Perception-Control Vault System is Kurokawa's F-2 vaulting technology for holdings whose danger travels through sight, hearing, comprehension, recognition, or structured awareness. It provides two primary containment modes: Blind Box units, which deny perception of contents across standard channels, and Eye Box units, which permit strictly disciplined observation through approved apparatus under holding-specific restriction sets.
+Blind Box and Eye Box Perception-Control Vault System is Kurokawa's F-2 vaulting technology for
+holdings whose danger
+travels through sight, hearing, comprehension, recognition, or structured awareness. It provides two primary
+containment modes: Blind Box units, which deny perception of contents across standard channels, and
+Eye Box units,
+which permit strictly disciplined observation through approved apparatus under holding-specific restriction sets.
 
-BBEBPCVS is not a display case. It is the architecture that decides whether a holding may be perceived, how it may be perceived, by whom, for how long, through what device, and under which cognitive-care conditions. The system supports material that is too dangerous for active storage but not always assigned to the absolute non-reading condition of F-1.
+BBEBPCVS is not a display case. It is the architecture that decides whether a
+holding may be perceived, how it may be
+perceived, by whom, for how long, through what device, and under which cognitive-care conditions.
+The system supports
+material that is too dangerous for active storage but not always assigned to the
+absolute non-reading condition of
+F-1.
 
-Approved roles include memetic symbol vaulting, infohazard storage, visual-denial containment, Eye Box observation, Blind Box preservation, Dread EYE support custody, cognitive-care linked access, restriction-set enforcement, specific-unit access control, and transfer assessment when a holding must move upward to readable storage or downward to the Unread Archive.
+Approved roles include memetic symbol vaulting, infohazard storage, visual-denial containment, Eye Box observation,
+Blind Box preservation, Dread EYE support custody, cognitive-care linked access, restriction-set enforcement,
+specific-unit access control, and transfer assessment when a holding must move upward to readable
+storage or downward
+to the Unread Archive.
 
 ORIGIN AND DEVELOPMENT
 
-Kurokawa's dangerous-information doctrine developed through intermediate cases. Some material could not be stored in ordinary anomalous document rows because sight or understanding changed the reader. Yet some of that material still required controlled observation, not total unreadable preservation. The node needed a vaulting technology between active storage and absolute non-reading.
+Kurokawa's dangerous-information doctrine developed through intermediate cases. Some material could not be stored in
+ordinary anomalous document rows because sight or understanding changed the reader. Yet some of
+that material still
+required controlled observation, not total unreadable preservation. The node needed a vaulting technology between
+active storage and absolute non-reading.
 
-F-2 became that intermediate level. BBEBPCVS formalizes its central architecture: Blind Boxes for denial, Eye Boxes for disciplined perception, and individual restriction sets that prevent access from becoming generalized. The system developed around the principle that no one enters F-2 to browse a floor. Personnel enter for one holding, one purpose, and one named perception protocol.
+F-2 became that intermediate level. BBEBPCVS formalizes its central architecture: Blind Boxes for denial,
+Eye Boxes
+for disciplined perception, and individual restriction sets that prevent access from becoming generalized. The
+system
+developed around the principle that no one enters F-2 to browse a floor. Personnel
+enter for one holding, one purpose,
+and one named perception protocol.
 
 PHYSICAL OR SYSTEM DESCRIPTION
 
-A BBEBPCVS installation includes Blind Box vaults, Eye Box observation units, perception-interruption boundaries, visual-denial screens, controlled viewing apparatus, audio and signal dampening, unit-specific access locks, cognitive monitoring ports, restriction-set terminals, and monitoring galleries designed to watch vault condition without exposing content.
+A BBEBPCVS installation includes Blind Box vaults, Eye Box observation units, perception-interruption boundaries,
+visual-denial screens, controlled viewing apparatus, audio and signal dampening, unit-specific access locks, cognitive
+monitoring ports, restriction-set terminals, and monitoring galleries designed to watch vault condition without
+exposing content.
 
 Known components include:
 
@@ -78,32 +115,65 @@ The technology's central distinction is simple: Blind Boxes prevent perception; 
 
 OPERATING PROCEDURE
 
-Before unit access, BBEBPCVS verifies holding identity, restriction set, permitted perception channel, personnel clearance, Medical exposure status, observation duration, documentation language, and transfer purpose. General floor access is denied by design. Staff may enter only for a specific unit or support function.
+Before unit access, BBEBPCVS verifies holding identity, restriction set, permitted perception channel, personnel
+clearance, Medical exposure status, observation duration, documentation language, and transfer purpose. General floor
+access is denied by design. Staff may enter only for a specific unit or
+support function.
 
-Blind Box work is performed without perception of contents unless extraordinary authority changes the mode. Eye Box observation is conducted through approved apparatus, under timed exposure, with cognitive-care oversight where required. Every reference to holding names, natures, or effects is governed by the same restriction logic as direct observation. If a holding exceeds F-2 capacity, transfer to F-1 is reviewed; if its danger diminishes, return to F-3 readable storage may be assessed.
+Blind Box work is performed without perception of contents unless extraordinary authority changes the
+mode. Eye Box
+observation is conducted through approved apparatus, under timed exposure, with cognitive-care oversight where
+required. Every reference to holding names, natures, or effects is governed by the same
+restriction logic as direct
+observation. If a holding exceeds F-2 capacity, transfer to F-1 is reviewed; if its
+danger diminishes, return to F-3
+readable storage may be assessed.
 
 KNOWN LIMITS
 
-BBEBPCVS can deny or discipline perception, but it cannot make perception harmless. A symbol may act through partial sight, reflection, description, anticipation, or memory. An infohazard may trigger through the act of knowing why it is restricted. Blind denial can conceal environmental failure, and Eye Box observation can create overconfidence when a prior session appears safe.
+BBEBPCVS can deny or discipline perception, but it cannot make perception harmless. A symbol
+may act through partial
+sight, reflection, description, anticipation, or memory. An infohazard may trigger through the act of
+knowing why it
+is restricted. Blind denial can conceal environmental failure, and Eye Box observation can create
+overconfidence when
+a prior session appears safe.
 
-Known failure modes include Blind Box boundary degradation, Eye Box apparatus misalignment, restriction-set ambiguity, exposure timer failure, observer fixation, forbidden reference in documentation, cognitive-care delay, general-access pressure, Dread EYE protocol drift, and failure to transfer a holding downward when its risk has exceeded F-2 authority.
+Known failure modes include Blind Box boundary degradation, Eye Box apparatus misalignment, restriction-set ambiguity,
+exposure timer failure, observer fixation, forbidden reference in documentation, cognitive-care delay, general-access
+pressure, Dread EYE protocol drift, and failure to transfer a holding downward when its
+risk has exceeded F-2
+authority.
 
 FAILURE HISTORY
 
 BBEBPCVS-Specific Access Standard
-An access review found that personnel sometimes described F-2 clearance as if it applied to the floor. Current doctrine states that access is always to a specific unit or support function, never to F-2 generally.
+An access review found that personnel sometimes described F-2 clearance as if it applied
+to the floor. Current
+doctrine states that access is always to a specific unit or support function, never
+to F-2 generally.
 
 BBEBPCVS-Eye Box Discipline Review
-Eye Box use demonstrated that apparatus can discipline sight but cannot replace judgment. Current observation sessions require Medical-aware exposure tracking and holding-specific session limits.
+Eye Box use demonstrated that apparatus can discipline sight but cannot replace judgment. Current
+observation sessions
+require Medical-aware exposure tracking and holding-specific session limits.
 
 BBEBPCVS-Blind Box Maintenance Finding
-Blind Box maintenance drills showed that technicians could request content knowledge to solve ordinary service questions. Current procedure provides condition-based service instructions and denies content detail unless the restriction set changes.
+Blind Box maintenance drills showed that technicians could request content knowledge to solve ordinary
+service
+questions. Current procedure provides condition-based service instructions and denies content detail unless the
+restriction set changes.
 
 DIVISION USE
 
-Archive Division operates the vaulting regimens and preservation work. Intelligence coordinates assessment of memetic and infohazard significance under knowledge restriction. Security enforces specific-unit access and perception-protocol compliance. Medical provides cognitive-care oversight. Researcher Division receives only the observations authorized by the holding's restriction set.
+Archive Division operates the vaulting regimens and preservation work. Intelligence coordinates assessment of memetic
+and infohazard significance under knowledge restriction. Security enforces specific-unit access and
+perception-protocol compliance. Medical provides cognitive-care oversight. Researcher Division receives only the
+observations authorized by the holding's restriction set.
 
-BBEBPCVS doctrine holds that the eye is a door, and F-2 exists to decide whether that door is bricked shut or opened one measured inch.
+BBEBPCVS doctrine holds that the eye is a door, and F-2 exists to decide
+whether that door is bricked shut or opened
+one measured inch.
 
 CROSS-REFERENCES
 
@@ -118,15 +188,21 @@ CROSS-REFERENCES
 OPEN QUESTIONS
 
 - Can disciplined perception remain safe if the holding learns the discipline?
-- When should a Blind Box item be declared unreadable enough for F-1 instead of F-2?
+- When should a Blind Box item be declared unreadable enough for F-1 instead
+of F-2?
 - Does denying all perception increase staff curiosity enough to become its own hazard?
-- How much of an Eye Box observation may be described before description becomes exposure?
-- Can a restriction set safely include a holding name if the name is itself informative?
+- How much of an Eye Box observation may be described before description becomes
+exposure?
+- Can a restriction set safely include a holding name if the name is
+itself informative?
 - Should F-2 ever return material upward after it has required visual denial?
 
 FILE METADATA
 
 Created: 2026-09-16
 Author Desk: Floor Vault Chief / Restricted-Vault Command / Central Archive
-Review Status: Active perception-control vault technology record; unit maps, Dread EYE apparatus parameters, restriction sets, and observer records censored
-Next Review: After any perception breach, Eye Box exposure incident, Blind Box maintenance deviation, restriction-set dispute, F-1 transfer review, or Dread EYE protocol change
+Review Status: Active perception-control vault technology record; unit maps, Dread EYE apparatus parameters,
+restriction sets, and observer records censored
+Next Review: After any perception breach, Eye Box exposure incident, Blind Box maintenance deviation,
+restriction-set
+dispute, F-1 transfer review, or Dread EYE protocol change

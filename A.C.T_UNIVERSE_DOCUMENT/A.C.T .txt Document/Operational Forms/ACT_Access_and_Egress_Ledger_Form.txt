@@ -2,13 +2,23 @@
 ## ACCESS AND EGRESS LEDGER FORM
 
 Archive Status: Active Working Form  
-Distribution: Security Division / Recovery Division / Containment Division / Archiver Division / Site Command  
+Distribution: Security Division / Recovery Division / Containment Division / Archiver Division / Site
+Command
 Authority: Security Division, Site Command, and Central Archive  
 
 ### Archive Note
-This form records controlled movement through A.C.T sites, sub-sites, containment zones, field perimeters, anomaly influence areas, temporary recovery scenes, and sealed archive routes. It exists because containment often fails at the threshold rather than inside the chamber.
+This form records controlled movement through A.C.T sites, sub-sites, containment zones, field perimeters, anomaly
+influence areas, temporary recovery scenes, and sealed archive routes. It exists because containment often
+fails at
+the threshold rather than inside the chamber.
 
-An access event is not only a door opening. It is a decision that a person, object, subject, record, tool, vehicle, animal, anomaly-derived asset, or unknown condition may cross from one operational state into another. An egress event is not only departure. It is the moment A.C.T decides what may leave with the moving party: memory, residue, contamination, pursuit, obligation, evidence, or silence.
+An access event is not only a door opening. It is a decision that
+a person, object, subject, record, tool, vehicle,
+animal, anomaly-derived asset, or unknown condition may cross from one operational state into another.
+An egress event
+is not only departure. It is the moment A.C.T decides what may leave with
+the moving party: memory, residue,
+contamination, pursuit, obligation, evidence, or silence.
 
 ---
 
@@ -33,7 +43,9 @@ Use this ledger when movement involves any of the following:
 - transformed field asset issue, return, or retirement;
 - emergency evacuation from anomalous influence.
 
-Do not use this ledger for ordinary staff movement through non-restricted areas unless the movement becomes relevant to an incident, breach, exposure review, or audit.
+Do not use this ledger for ordinary staff movement through non-restricted areas unless the
+movement becomes relevant
+to an incident, breach, exposure review, or audit.
 
 ---
 
@@ -67,7 +79,9 @@ RELATED CASE DESIGNATION:
 RELATED FORM / DOSSIER:
 
 
-A ledger may cover one movement event or a bounded operation. It must not become a permanent substitute for site access control logs.
+A ledger may cover one movement event or a bounded operation. It must not
+become a permanent substitute for site
+access control logs.
 
 ---
 
@@ -98,7 +112,9 @@ text
 [ ] OTHER: ______________________________
 
 
-If an individual is both witness and subject, or personnel and affected party, mark both. The ledger tracks risk conditions, not social comfort.
+If an individual is both witness and subject, or personnel and affected party, mark
+both. The ledger tracks risk
+conditions, not social comfort.
 
 ---
 
@@ -132,7 +148,9 @@ LAST MAINTENANCE CHECK:
 KNOWN ANOMALY INTERFERENCE:
 
 
-An anomalous threshold includes any doorway, road, train car, mirror, forest line, tent flap, elevator, stairwell, pool, screen, document margin, or other boundary where crossing may change rules.
+An anomalous threshold includes any doorway, road, train car, mirror, forest line, tent flap,
+elevator, stairwell,
+pool, screen, document margin, or other boundary where crossing may change rules.
 
 ---
 
@@ -159,7 +177,9 @@ EXPOSURE LEDGER REQUIRED:
 CHAIN OF CUSTODY RECORD REQUIRED:
 
 
-No entry should be approved solely because the person has high clearance. Clearance permits knowledge. It does not make a body safe to move through a hazardous threshold.
+No entry should be approved solely because the person has high clearance. Clearance permits
+knowledge. It does not
+make a body safe to move through a hazardous threshold.
 
 ---
 
@@ -191,7 +211,9 @@ ISOLATION REQUIRED:
 RETURN TO DUTY / RELEASE STATUS:
 
 
-The exit record is not complete until A.C.T knows what left. A person may leave carrying a memory that is more dangerous than the object they returned.
+The exit record is not complete until A.C.T knows what left. A person may
+leave carrying a memory that is more
+dangerous than the object they returned.
 
 ---
 
@@ -216,7 +238,9 @@ CHAIN OF CUSTODY BROKEN:
 REASON IF BROKEN:
 
 
-A.C.T has lost containment before because one team transferred an object while keeping the warning inside a separate file. A custody transfer must carry enough truth to keep the receiving authority alive.
+A.C.T has lost containment before because one team transferred an object while keeping the
+warning inside a separate
+file. A custody transfer must carry enough truth to keep the receiving authority alive.
 
 ---
 
@@ -239,13 +263,17 @@ RETURN ROUTE:
 AUTHORIZED REPEAT MOVEMENT:
 
 
-E-Class movement must not be made invisible because the person is already excommunicated. The ledger must show where they were taken, why they were taken there, and whether they returned.
+E-Class movement must not be made invisible because the person is already excommunicated. The
+ledger must show where
+they were taken, why they were taken there, and whether they returned.
 
 ---
 
 ## 9. Subject Care Movement Attachment
 
-Complete when a contained subject or humanoid anomaly is moved for care, interview, relocation, recreation, ritual continuity, cultural continuity, medical care, or containment revision.
+Complete when a contained subject or humanoid anomaly is moved for care, interview, relocation,
+recreation, ritual
+continuity, cultural continuity, medical care, or containment revision.
 
 text
 SUBJECT DESIGNATION:
@@ -263,13 +291,16 @@ SUBJECT DISTRESS SIGNS:
 SUBJECT STABILIZATION PHRASE:
 
 
-A subject moved like cargo will often behave like cargo that learned fear. Subject movement is containment, care, and moral evidence at the same time.
+A subject moved like cargo will often behave like cargo that learned fear. Subject
+movement is containment, care, and
+moral evidence at the same time.
 
 ---
 
 ## 10. GOI Evidence Movement Attachment
 
-Complete when a movement event involves GOI material, GOI-linked individuals, recovered documents, outside technology, ritual items, commercial records, or hostile propaganda.
+Complete when a movement event involves GOI material, GOI-linked individuals, recovered documents, outside technology,
+ritual items, commercial records, or hostile propaganda.
 
 text
 SUSPECTED / CONFIRMED GOI:
@@ -287,7 +318,10 @@ WITNESS STATEMENT REQUIRED:
 GOI RECOVERED DOCUMENT RECORD REQUIRED:
 
 
-GOI material may move even when no person moves. A price list, chant sheet, company vial, Guild maintenance instruction, circus ticket, or leaked A.C.T file can cross a threshold and change the operation around it.
+GOI material may move even when no person moves. A price list, chant sheet,
+company vial, Guild maintenance
+instruction, circus ticket, or leaked A.C.T file can cross a threshold and change the
+operation around it.
 
 ---
 
@@ -310,13 +344,16 @@ ROUTE INTERRUPTION:
 ARRIVAL CONFIRMATION:
 
 
-Transport is a moving containment chamber. If the route is public, it is also a moving normalcy operation.
+Transport is a moving containment chamber. If the route is public, it is also
+a moving normalcy operation.
 
 ---
 
 ## 12. Emergency Egress Block
 
-Use when personnel, subjects, civilians, or materials leave under breach, fire, flood, structural failure, hostile action, anomalous spread, or command evacuation.
+Use when personnel, subjects, civilians, or materials leave under breach, fire, flood, structural failure,
+hostile
+action, anomalous spread, or command evacuation.
 
 text
 EMERGENCY TYPE:
@@ -338,7 +375,9 @@ PUBLIC EXPOSURE RISK:
 POST-EGRESS RALLY POINT:
 
 
-Emergency egress does not end when bodies reach the rally point. It ends when the archive can say what failed, what escaped, what was left behind, and what followed.
+Emergency egress does not end when bodies reach the rally point. It ends when
+the archive can say what failed, what
+escaped, what was left behind, and what followed.
 
 ---
 
@@ -361,7 +400,9 @@ ALL BREACH CONDITIONS ESCALATED:
 ALL UNRESOLVED SIGNATURES SEALED FOR REVIEW:
 
 
-A ledger that balances too perfectly after a chaotic anomaly event should be reviewed for falsification, memory smoothing, time correction, or a threshold that edited the record.
+A ledger that balances too perfectly after a chaotic anomaly event should be reviewed
+for falsification, memory
+smoothing, time correction, or a threshold that edited the record.
 
 ---
 

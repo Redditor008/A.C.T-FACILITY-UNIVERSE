@@ -14,7 +14,8 @@ REGISTRY BAND:       [LEGACY ACCEPTED 001-120 / Modern Registry 121-999 /
                       000 Foundational Reserve / Reserved / Obscured]
 TITLE I:             [Primary Title / N/A]
 TITLE II:            [Secondary Title / Alternate Title / N/A]
-FIELD TYPE:          [OB / SU / PL / TI / SP / ME / IH / CH / NB / ?.H]
+FIELD TYPE: [OB / SU / PL / TI / SP / ME /
+IH / CH / NB / ?.H]
 HAZARD TAGS:         [PHYS-____ / BIO-____ / COG-____ / MEM-____ /
                       INFO-____ / TEMP-____ / SPAT-____ / STR-____ /
                       COS-____ / SOC-____ / OPR-____ / N/A]
@@ -313,7 +314,9 @@ DESIGNATION HISTORY:     [UFD-XX-### → AFD-XX-### — DD/MM/YYYY]
 
 ## FILE SAVING CONVENTION
 
-When an anomaly file is saved for distribution, archive transfer, or direct download, the file name should place the anomaly title first, followed by the designation.
+When an anomaly file is saved for distribution, archive transfer, or direct download, the
+file name should place the
+anomaly title first, followed by the designation.
 
 Approved structure:
 
@@ -337,7 +340,11 @@ Example:
 
 ## SITE INTEGRATION NOTE
 
-RCT-format anomaly records should include the installation body responsible for the anomaly. Where applicable, list the exact site designation, the site type, and the jurisdictional authority overseeing containment. This keeps live Containment / Research / Transformation review aligned with wider A.C.T site doctrine.
+RCT-format anomaly records should include the installation body responsible for the anomaly. Where applicable,
+list
+the exact site designation, the site type, and the jurisdictional authority overseeing containment. This
+keeps live
+Containment / Research / Transformation review aligned with wider A.C.T site doctrine.
 
 ---
 
@@ -346,7 +353,7 @@ RCT-format anomaly records should include the installation body responsible for 
 | Block | Focus | Core Question |
 |:---:|---|---|
 | **CO** — Containment | How do we keep it in? | *What does it take to hold this anomaly, and what happens when we fail?* |
-| **RE** — Research | What is it? What does it mean? | *What is the anomaly doing to reality, and what does it reveal about the structure beneath?* |
+| **RE** — Research | What is it? What does it mean? | structure beneath?* |
 | **TR** — Transformation | Can we make it useful? | *Can this threat become an asset — and is the attempt worth the risk?* |
 
 ## DESIGNATION FORMAT
@@ -360,7 +367,9 @@ Format: `[UFD/AFD]-[TYPE]-[###]`
 
 ## TYPE CODES
 
-`OB` Object · `SU` Subject · `PL` Place · `TI` Time · `SP` Space · `ME` Memetic · `IH` Info Hazard · `CH` Cosmic Hazard · `NB` Non-Natural Bio Hazard · `?.H` Shifting Hazard
+`OB` Object · `SU` Subject · `PL` Place · `TI` Time · `SP` Space
+· `ME` Memetic · `IH` Info Hazard · `CH` Cosmic
+Hazard · `NB` Non-Natural Bio Hazard · `?.H` Shifting Hazard
 
 ---
 

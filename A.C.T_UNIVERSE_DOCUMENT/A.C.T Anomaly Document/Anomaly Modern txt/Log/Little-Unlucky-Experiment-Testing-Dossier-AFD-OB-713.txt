@@ -61,7 +61,8 @@ ROLL RESULT | WHISPERED WORD | SUBJECTIVE EMOTIONAL TONE
 6           | "Better?"      | Desperate Hope
 
 RESEARCHER NOTE:
-The die appears to be rooting for itself. When it rolls a 6, the whisper 
+The die appears to be rooting for itself. When it rolls a 6, the
+whisper
 "Better?" indicates it perceives this as a relative success compared to 
 a 1. 
 
@@ -77,9 +78,11 @@ During the 1,000-roll endurance test, I was tasked with being the
 primary roller. By roll 400, I began to experience a heavy sense of 
 unearned melancholy. 
 
-Even though I have no stake in the outcome of the dice, every time a 1 
+Even though I have no stake in the outcome of the dice, every time
+a 1
 appeared, I felt a physical pang of disappointment in my chest. By the 
-end of the session, I found myself patting the die and telling it "it was 
+end of the session, I found myself patting the die and telling it "it
+was
 okay." 
 
 The die responded by rolling another 1 and whispering "Liar." 

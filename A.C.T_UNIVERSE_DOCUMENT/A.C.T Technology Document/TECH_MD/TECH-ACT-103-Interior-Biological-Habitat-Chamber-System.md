@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Research, Environmental Containment, Medical, Security |
 | OPERATIONAL STATUS | ACTIVE / INTERIOR BIOLOGICAL HOLDING USE |
 | RISK STATUS | HABITAT MISMATCH / TRANSFER INSTABILITY / ENVIRONMENT RISK |
-| CLEARANCE REQUIRED | Level 3 for chamber duty; Level 4 for habitat redesign, downward escalation, open-sector transfer, or resident move |
+| CLEARANCE REQUIRED | or resident move |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -21,9 +21,18 @@
 | AUTHORITY | F-2 Holding Officer, Environmental Containment Liaison, Verde Null Site Command, and Central Archive |
 
 #### Archive Note
-Interior Biological Habitat Chamber System is the one-hundred-third main A.C.T technology expanded into an individual record. The Verde Null Bio-Reserve F-2 dossier identifies Interior Biological Holding as the reserve's built containment floor for non-natural organisms requiring close-controlled study, biological material requiring environmental conditions the wilderness cannot provide, and residents held in climate-controlled chambers, containment habitats, and specialized environment chambers.
+Interior Biological Habitat Chamber System is the one-hundred-third main A.C.T technology expanded into an
+individual
+record. The Verde Null Bio-Reserve F-2 dossier identifies Interior Biological Holding as the reserve's
+built
+containment floor for non-natural organisms requiring close-controlled study, biological material requiring
+environmental conditions the wilderness cannot provide, and residents held in climate-controlled chambers, containment
+habitats, and specialized environment chambers.
 
-IBHCS exists because not every biological anomaly belongs in open wilderness, and not every biological anomaly can survive a simple room. Some residents require an interior habitat built as carefully as a forest sector.
+IBHCS exists because not every biological anomaly belongs in open wilderness, and not every
+biological anomaly can
+survive a simple room. Some residents require an interior habitat built as carefully as
+a forest sector.
 
 Controlled label: **IBHCS BUILT-HABITAT BALANCE**.
 
@@ -37,25 +46,52 @@ BUILD THE ROOM AS AN ENVIRONMENT, NOT A BOX.
 
 ## FUNCTION SUMMARY
 
-The Interior Biological Habitat Chamber System is Verde Null's F-2 built-environment holding technology for biological anomalies that require controlled interior conditions rather than open field enclosure. It combines intake and assessment bays, climate-controlled chamber rows, containment habitats, specialized environment chambers, monitoring galleries, handling corridors, transfer controls, and floor command documentation.
+The Interior Biological Habitat Chamber System is Verde Null's F-2 built-environment holding technology for
+biological
+anomalies that require controlled interior conditions rather than open field enclosure. It combines intake
+and
+assessment bays, climate-controlled chamber rows, containment habitats, specialized environment chambers, monitoring
+galleries, handling corridors, transfer controls, and floor command documentation.
 
-IBHCS is the reserve's answer to biological material that cannot be trusted to ordinary wilderness conditions but also cannot be reduced to object storage. A chamber may need humidity, light, substrate, chemical balance, air separation, medical access, root space, nesting behavior, water state, or controlled social absence. The system sorts residents between F-1 deep cultivation, F-2 interior holding, F-3 laboratory study, and the enclosure network.
+IBHCS is the reserve's answer to biological material that cannot be trusted to ordinary
+wilderness conditions but also
+cannot be reduced to object storage. A chamber may need humidity, light, substrate, chemical
+balance, air separation,
+medical access, root space, nesting behavior, water state, or controlled social absence. The system
+sorts residents
+between F-1 deep cultivation, F-2 interior holding, F-3 laboratory study, and the enclosure network.
 
-Approved roles include close-controlled biological holding, specialized habitat construction, climate-regulated custody, interior observation, medical liaison access, transfer sorting, open-sector suitability review, and escalation to the Deep Cultivation Vault.
+Approved roles include close-controlled biological holding, specialized habitat construction, climate-regulated
+custody, interior observation, medical liaison access, transfer sorting, open-sector suitability review, and
+escalation to the Deep Cultivation Vault.
 
 ---
 
 ## ORIGIN AND DEVELOPMENT
 
-Verde Null began as remote field enclosures, but field doctrine did not solve every biological case. Some organisms required built controls. Others needed study before release to an enclosure. Some were too fragile, too contagious, too valuable, or too unstable for outdoor sectors. The F-2 floor developed as the reserve's interior biological holding level, positioned between laboratory care above and deeper cultivation below.
+Verde Null began as remote field enclosures, but field doctrine did not solve every
+biological case. Some organisms
+required built controls. Others needed study before release to an enclosure. Some were too
+fragile, too contagious,
+too valuable, or too unstable for outdoor sectors. The F-2 floor developed as the
+reserve's interior biological
+holding level, positioned between laboratory care above and deeper cultivation below.
 
-The Habitat Chamber Standard recorded in the F-2 dossier shaped IBHCS. Biological containment is not only restraint. It is environmental authorship. The chamber must provide enough of a world to keep the resident stable while preventing that world from expanding into the rest of the reserve.
+The Habitat Chamber Standard recorded in the F-2 dossier shaped IBHCS. Biological containment is
+not only restraint.
+It is environmental authorship. The chamber must provide enough of a world to keep
+the resident stable while
+preventing that world from expanding into the rest of the reserve.
 
 ---
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-An IBHCS installation includes climate-controlled chamber rows, habitat modules, specialized environment chambers, intake and assessment bays, monitoring galleries, controlled service corridors, atmospheric separation doors, substrate trays, water and humidity systems, biological waste controls, and transfer locks to F-1, F-3, or enclosure dispatch.
+An IBHCS installation includes climate-controlled chamber rows, habitat modules, specialized environment chambers,
+intake and assessment bays, monitoring galleries, controlled service corridors, atmospheric separation doors,
+substrate trays, water and humidity systems, biological waste controls, and transfer locks to F-1,
+F-3, or enclosure
+dispatch.
 
 Known components include:
 
@@ -70,44 +106,71 @@ Known components include:
 - medical access lock;
 - transfer suitability ledger.
 
-Each chamber is a local environment with a lock, not a locked room with decorations.
+Each chamber is a local environment with a lock, not a locked room with
+decorations.
 
 ---
 
 ## OPERATING PROCEDURE
 
-Before assignment, F-2 staff review biological type, environmental need, enclosure suitability, medical condition, research status, transfer destination, and escalation criteria. Material is placed in intake and assessment before entering a chamber. Environmental Containment verifies habitat conditions. Medical reviews living residents whose condition requires care. Research records behavior and study needs.
+Before assignment, F-2 staff review biological type, environmental need, enclosure suitability, medical condition,
+research status, transfer destination, and escalation criteria. Material is placed in intake and assessment
+before
+entering a chamber. Environmental Containment verifies habitat conditions. Medical reviews living residents whose
+condition requires care. Research records behavior and study needs.
 
-Transfer procedures sort material by stability: interior instability moves downward to F-1 under increased restriction; material suitable for open conditions moves to the enclosure network; material approved for study moves upward to F-3 under sample and subject control. No transfer is valid unless the habitat record travels with the resident.
+Transfer procedures sort material by stability: interior instability moves downward to F-1 under increased
+restriction; material suitable for open conditions moves to the enclosure network; material approved for
+study moves
+upward to F-3 under sample and subject control. No transfer is valid unless the
+habitat record travels with the
+resident.
 
 ---
 
 ## KNOWN LIMITS
 
-IBHCS cannot replace native fields for place-bound flora, cannot replace F-1 for high-security cultivation, and cannot replace F-3 for laboratory analysis or medical treatment. It is vulnerable to habitat mismatch, chamber overconfidence, hidden reproductive cycles, environmental drift, cross-contamination, staff misreading comfort as stability, and residents adapting to the chamber faster than containment adapts to them.
+IBHCS cannot replace native fields for place-bound flora, cannot replace F-1 for high-security cultivation,
+and cannot
+replace F-3 for laboratory analysis or medical treatment. It is vulnerable to habitat mismatch,
+chamber
+overconfidence, hidden reproductive cycles, environmental drift, cross-contamination, staff misreading comfort as
+stability, and residents adapting to the chamber faster than containment adapts to them.
 
-Known failure modes include climate failure, substrate mismatch, transfer shock, containment-habitat breach, medical access conflict, monitoring blind spot, chamber contamination, resident stress behavior, and incorrect sorting between interior holding and open enclosure.
+Known failure modes include climate failure, substrate mismatch, transfer shock, containment-habitat breach, medical
+access conflict, monitoring blind spot, chamber contamination, resident stress behavior, and incorrect sorting between
+interior holding and open enclosure.
 
 ---
 
 ## FAILURE HISTORY
 
 ### IBHCS-Interior Capacity Formation
-The Verde Null F-2 dossier records interior biological holding as the reserve's built containment floor. IBHCS formalizes the climate-controlled chamber rows, containment habitats, specialized environment chambers, and handling corridors described there.
+The Verde Null F-2 dossier records interior biological holding as the reserve's built containment
+floor. IBHCS
+formalizes the climate-controlled chamber rows, containment habitats, specialized environment chambers, and handling
+corridors described there.
 
 ### IBHCS-Habitat Mismatch Review
-A chamber-readiness exercise showed that correct temperature alone can still produce resident stress when substrate, light, and air exchange are wrong. Current review treats habitat as a whole system.
+A chamber-readiness exercise showed that correct temperature alone can still produce resident stress when
+substrate,
+light, and air exchange are wrong. Current review treats habitat as a whole system.
 
 ### IBHCS-Sorting Doctrine Drill
-A transfer drill sent material toward open enclosure before F-2 verified field suitability. Current procedure requires environmental and medical sign-off before any resident leaves interior holding.
+A transfer drill sent material toward open enclosure before F-2 verified field suitability. Current
+procedure requires
+environmental and medical sign-off before any resident leaves interior holding.
 
 ---
 
 ## DIVISION USE
 
-Research operates study observation. Environmental Containment defines chamber environments and enclosure suitability. Medical supports living residents and personnel exposure response. Security controls habitat access, transfer corridors, and incident response. Verde Null Site Command approves major resident movement.
+Research operates study observation. Environmental Containment defines chamber environments and enclosure suitability.
+Medical supports living residents and personnel exposure response. Security controls habitat access, transfer
+corridors, and incident response. Verde Null Site Command approves major resident movement.
 
-IBHCS doctrine holds that built containment for life must still respect that it is life.
+IBHCS doctrine holds that built containment for life must still respect that it is
+life.
 
 ---
 
@@ -125,8 +188,10 @@ IBHCS doctrine holds that built containment for life must still respect that it 
 
 ## OPEN QUESTIONS
 
-- Which residents are stabilized by built habitat and which are merely delayed from failing?
-- Can a chamber become too accurate a habitat and encourage growth beyond containment limits?
+  Which residents are stabilized by built habitat and which are merely delayed from
+  failing?
+  Can a chamber become too accurate a habitat and encourage growth beyond containment
+  limits?
 - When should a resident move to open enclosure despite interior convenience?
 - How often should chamber baselines be recalibrated against native-field observations?
 - Can cross-contamination occur through environmental controls before physical contact?
@@ -138,5 +203,7 @@ IBHCS doctrine holds that built containment for life must still respect that it 
 
 **Created:** 2026-09-16
 **Author Desk:** F-2 Holding Officer / Environmental Containment Liaison / Central Archive
-**Review Status:** Active biological habitat record; live chamber maps, resident identities, and environmental thresholds censored
-**Next Review:** After any habitat mismatch, transfer instability, chamber breach, resident stress event, open-sector transfer, or F-1 escalation
+**Review Status:** Active biological habitat record; live chamber maps, resident identities, and environmental
+thresholds censored
+**Next Review:** After any habitat mismatch, transfer instability, chamber breach, resident stress event, open-sector
+transfer, or F-1 escalation

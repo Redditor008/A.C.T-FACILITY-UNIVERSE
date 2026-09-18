@@ -28,7 +28,8 @@ meet, and the secure holding space for the relay's most sensitive deep-earth
 and maritime material.
 
 This dossier records the floor in full institutional language: what it is,
-what it holds, how it is built, how it listens, and how the relay's deepest
+what it holds, how it is built, how it listens, and how the relay's
+deepest
 commitment is measured not in walls but in signals from below.
 
 ---
@@ -65,7 +66,8 @@ relay's deep-earth sensor arrays meet, where their signals are received and
 interpreted, and where the material connected to the deep structure of the
 world is held under the relay's most secure conditions.
 
-F-1 is that point. It is the relay's sensor nexus — the floor where the
+F-1 is that point. It is the relay's sensor nexus — the floor where
+the
 island's deep monitoring infrastructure terminates and the Facility's
 deepest listening occurs — and the secure vault for the deep-earth and
 maritime material too sensitive for the relay's upper levels. The floor is
@@ -332,7 +334,8 @@ is attentive, exact, and undisturbed by the weight of the question.
 12.1 Listening Doctrine
 
 F-1 doctrine holds that the relay's deepest duty is observation: the floor
-is built to listen to the earth, and its sensor nexus is the physical point
+is built to listen to the earth, and its sensor nexus is the physical
+point
 of the Facility's deepest watch on the structure of the world.
 
 12.2 Abyss-Linked Doctrine

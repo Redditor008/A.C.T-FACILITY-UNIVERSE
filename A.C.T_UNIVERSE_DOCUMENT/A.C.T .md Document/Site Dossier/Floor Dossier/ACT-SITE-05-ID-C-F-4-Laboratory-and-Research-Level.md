@@ -29,7 +29,8 @@ scientific heart of an installation whose mandate spans the sea and the
 structure beneath the earth.
 
 This dossier records the floor in full institutional language: what it is,
-what it studies, how it is built, how it is run, and how the relay's
+what it studies, how it is built, how it is run, and how the
+relay's
 research serves its watch on what comes from below.
 
 ---
@@ -382,6 +383,7 @@ Nusantara Deep Relay: marine biology laboratories, deep-earth sample
 analysis, seismic data interpretation, and the controlled environments
 where maritime and geological anomalies are studied.
 
-It is the floor where the relay understands its dual watch — the sea above
+It is the floor where the relay understands its dual watch — the sea
+above
 and the structure below — and where the Facility's deepest questions about
 what comes from beneath are studied with the patience their answers demand.

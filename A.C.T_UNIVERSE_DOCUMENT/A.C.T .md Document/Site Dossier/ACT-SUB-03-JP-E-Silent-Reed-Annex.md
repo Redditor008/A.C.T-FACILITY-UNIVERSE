@@ -29,7 +29,8 @@ information must have somewhere to wait that is neither the ordinary archive
 nor the black archive.
 
 This dossier records the annex in full institutional language: what it is,
-what it does, why it exists as a sub-site, how it is governed, and how it
+what it does, why it exists as a sub-site, how it is governed, and
+how it
 supports the parent node.
 
 ---
@@ -45,7 +46,8 @@ supports the parent node.
 **Divisions Present:** Archive, Intelligence, Limited Medical Cognitive Staff
 **Containment Profile:** Low-to-Mid Memetic / Infohazard Buffer / Document Quarantine
 **Regional Jurisdiction:** Overflow support for Kurokawa Archive Node
-**Notable Features:** Built for cases too dangerous for ordinary records but too minor for full black archive burial
+**Notable Features:** Built for cases too dangerous for ordinary records but too minor for
+full black archive burial
 **Current Status:** Active
 **History Notes:** Created after repeated archive spillover events stressed the main East-region records body.
 **Security Notes:** No solo review shifts authorized during active memetic contamination cycles.

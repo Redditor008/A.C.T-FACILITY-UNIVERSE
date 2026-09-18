@@ -29,7 +29,8 @@ whose entire purpose is the long, cold containment of what must not
 thrive.
 
 This dossier records the floor in full institutional language: what it is,
-what it holds, how it is built, how it is run, and how standard holding at
+what it holds, how it is built, how it is run, and how standard
+holding at
 White Grave is different from standard holding anywhere else.
 
 ---
@@ -403,6 +404,7 @@ suppression or long-term isolation are kept in biological suppression
 chambers and climate-controlled individual units, under the standard
 doctrines that define the station's mission.
 
-It is the floor where the station does most of its containing — the quiet,
+It is the floor where the station does most of its containing — the
+quiet,
 patient, long work that gives White Grave its purpose, and the level whose
 standard doctrine every deeper floor exists to exceed.

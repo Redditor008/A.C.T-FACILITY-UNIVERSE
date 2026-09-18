@@ -25,7 +25,8 @@ jurisdictional, and human record of one site alone.
 
 This file is written in the same internal archive language as every other
 Facility record: direct, institutional, and without decoration. It records what
-the site is, why it exists, how it is governed, what it holds, how it fails, and
+the site is, why it exists, how it is governed, what it holds, how
+it fails, and
 what it costs the people who keep it running.
 
 Readers are reminded that a site dossier is not a complete manifest. Resident
@@ -41,15 +42,19 @@ resident and leaves the rest to clearance-gated annex registers.
 **Site Designation:** ACT-SITE-01-US-W
 **Codename:** Redwood Veil Complex
 **Site Type:** Regional Site
-**Location:** Western United States (exact coordinates withheld; surface identity layered under multiple false civilian infrastructure overlays)
+**Location:** Western United States (exact coordinates withheld; surface identity layered under multiple false
+civilian infrastructure overlays)
 **Command Authority:** Site Director under Facility Administrator review
 **Primary Function:** Urban anomaly recovery, artifact containment, rapid secrecy response, and GOI suppression
 **Divisions Present:** Security, Recovery, Containment, Intelligence, Archive, Medical
 **Containment Profile:** Object-Focused / Mixed Mobility / Urban Recovery
 **Regional Jurisdiction:** Western United States anomaly incidents and Pacific-linked covert routing
-**Notable Features:** High-speed urban concealment response network; strong black-market interdiction capability; heavy GOI surveillance overlap
+**Notable Features:** High-speed urban concealment response network; strong black-market interdiction capability;
+heavy GOI surveillance overlap
 **Current Status:** Active
-**History Notes:** Expanded from a smaller relay network into a full regional command site after sustained urban anomaly density increase.
+**History Notes:** Expanded from a smaller relay network into a full regional command site
+after sustained urban
+anomaly density increase.
 **Security Notes:** Maintains multiple false civilian infrastructure overlays and layered city-entry cover identities.
 
 ---
@@ -66,8 +71,10 @@ installation experiences at the same intensity.
 
 This dossier exists so that command, recovery, intelligence, and containment
 personnel can understand the site they are being routed through before they
-ever set foot inside it. A site is not a building. It is a doctrine made
-physical — and the Redwood Veil Complex is the doctrine of the **city as a
+ever set foot inside it. A site is not a building. It is a
+doctrine made
+physical — and the Redwood Veil Complex is the doctrine of the **city as
+a
 containment environment**.
 
 ---
@@ -130,7 +137,8 @@ asked to move one across an ocean.
 
 ### 4.1 Origins as a Relay Network
 
-The complex began not as a site but as a chain of discreet urban **relay
+The complex began not as a site but as a chain of discreet urban
+**relay
 points** established in the mid-twentieth century. These relays were never
 intended to hold anomalies long-term. They were witness-processing stations,
 secrecy-response nodes, and artifact-handoff points placed along the Pacific
@@ -138,7 +146,8 @@ corridor where the Facility's earliest western operations needed to disappear
 evidence quickly.
 
 Relay personnel were few. They were chosen for judgment rather than rank: the
-kind of people who could make a crowd forget what it had seen, or move a boxed
+kind of people who could make a crowd forget what it had seen, or
+move a boxed
 artifact through a city without anyone asking what was inside it.
 
 ### 4.2 The Unremarkable Transition (1982)
@@ -333,7 +342,8 @@ The other cover structures function as satellite access points:
 
 ### 7.3 Approaches and Perimeter
 
-The perimeter of the buried core is not a fence. It is a graduated sequence of
+The perimeter of the buried core is not a fence. It is a graduated
+sequence of
 legitimacy: public space, semi-private corporate space, restricted corporate
 space, sealed operational space, and finally the core itself. Every transition
 is monitored. Every transition is reversible — the site can shed a compromised
@@ -361,7 +371,8 @@ has never been breached.
 Site administration, personnel processing, clearance verification, training
 spaces, the Site Director's office, and staff support facilities. The floor is
 designed so that personnel entering duty move downward and personnel leaving
-duty move upward — the pattern of descent into work is part of the site's
+duty move upward — the pattern of descent into work is part of the
+site's
 psychological architecture.
 
 ### F-7 — Central Archive and Records
@@ -493,7 +504,8 @@ exposure program and its visual/auditory containment regimen are documented in
 the Redwood Veil Annex Register and in the file's individual log dossiers.
 
 The complex has never attempted to transform AFD-OB-801. The doctrine
-surrounding it is simple: **it is not to be used, and it is not to be
+surrounding it is simple: **it is not to be used, and it is not
+to be
 understood quickly.**
 
 ### 10.4 Additional Holdings (Referenced Only)

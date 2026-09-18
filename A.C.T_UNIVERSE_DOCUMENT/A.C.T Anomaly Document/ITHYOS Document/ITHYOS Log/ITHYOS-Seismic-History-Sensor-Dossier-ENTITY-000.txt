@@ -32,7 +32,8 @@ ORDERING METHOD:     Reverse chronological, newest to oldest
                          CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
-This dossier belongs to A.C.T Log Category XI — Audio / Video / Sensor Dossier.
+This dossier belongs to A.C.T Log Category XI — Audio / Video / Sensor
+Dossier.
 It preserves selected historical seismic records associated with ENTITY-000 /
 AFD-CH-000 from 2020 back through 1950.
 
@@ -59,7 +60,9 @@ records selected events interpreted under that doctrine.
 
 ITHYOS is a planetary-scale serpentiform cosmic hazard measured up to
 10 kilometers in length, with total length believed to be 10 kilometers or more,
-and is believed to remain dormant within the Earth core region. Its full body has never been completely observed. All measurements remain
+and is believed to remain dormant within the Earth core region. Its full body
+has never been completely observed. All
+measurements remain
 partial, inferred, or uncertain.
 
 From 1950 to 2020, A.C.T seismic records repeatedly show low-to-moderate global

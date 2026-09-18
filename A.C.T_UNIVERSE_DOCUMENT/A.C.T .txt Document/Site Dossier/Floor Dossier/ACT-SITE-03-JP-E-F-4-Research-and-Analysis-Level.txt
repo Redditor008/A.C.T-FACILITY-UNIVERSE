@@ -27,7 +27,8 @@ exposure restrictions — the research heart of an archive whose doctrine
 requires understanding what it holds without being harmed by it.
 
 This dossier records the floor in full institutional language: what it is,
-what it studies, how it is built, how it is run, and how the node's
+what it studies, how it is built, how it is run, and how the
+node's
 research discipline balances knowledge against the danger of knowing.
 
 ---
@@ -135,7 +136,8 @@ authorized at the appropriate level.
 5.3 Authority Limits
 
 F-4 holds no authority over holding disposition. Its role is analytical:
-the floor may study, analyze, and track — it may not decide what happens to
+the floor may study, analyze, and track — it may not decide what happens
+to
 the material it studies, and it may not exceed the exposure restrictions
 that govern its work.
 
@@ -382,7 +384,8 @@ laboratories, symbol behavior studies, media propagation tracking, and the
 controlled environments where anomalous information is studied under
 exposure restrictions.
 
-It is the floor where the node balances its two truths: that knowledge is a
+It is the floor where the node balances its two truths: that knowledge is
+a
 containment tool, and that some knowledge is itself the danger. The balance
 is the floor's discipline — and the discipline is what makes the study of
 dangerous information possible.

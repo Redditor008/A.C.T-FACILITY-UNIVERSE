@@ -323,7 +323,8 @@ those who conduct it.
 
 F-6 doctrine holds that concealment is built on genuine activity: the
 campus's marine, volcanic, and geological science must withstand scrutiny
-because it is real. The relay's cover is not a lie maintained by secrecy —
+because it is real. The relay's cover is not a lie maintained by secrecy
+—
 it is a truth maintained by discipline.
 
 ### 12.2 Natural-Cover Doctrine

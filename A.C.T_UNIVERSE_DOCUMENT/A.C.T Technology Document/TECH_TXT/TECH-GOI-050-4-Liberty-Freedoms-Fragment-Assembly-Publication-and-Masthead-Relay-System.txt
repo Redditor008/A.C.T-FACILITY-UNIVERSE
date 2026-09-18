@@ -1,38 +1,74 @@
 TECH-GOI-050-4 - LIBERTY FREEDOMS FRAGMENT-ASSEMBLY PUBLICATION AND MASTHEAD RELAY SYSTEM
 
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-050-4                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Liberty Freedoms Fragment-Assembly Publication and Masthead |
-|                            | Relay System                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Open Hand / Publication Relay / Fragment Assembly           |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Liberty Freedoms                                            |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Seized pre-release assemblies, masthead material, and relay |
-|                            | traces; publication infrastructure only partly mapped       |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Leak forensics, pre-release detection, lawful-access abuse  |
-|                            | analysis, exposure containment                              |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | LEAK-SOURCE RESTRICTED / SITE 03 DOCUMENT-WARFARE CONTROL   |
-+----------------------------+-------------------------------------------------------------+
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-050-4                                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| TECHNOLOGY NAME            | Liberty Freedoms Fragment-Assembly Publication and Masthead Relay System              |
++----------------------------+---------------------------------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | Open Hand / Publication Relay / Fragment Assembly                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| ORIGIN                     | Liberty Freedoms                                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| ACQUISITION STATUS         | Seized pre-release assemblies, masthead material, and relay traces; publication       |
+|                            | infrastructure only partly mapped                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Leak forensics, pre-release detection, lawful-access abuse analysis, exposure         |
+|                            | containment                                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| ARCHIVE HANDLING           | LEAK-SOURCE RESTRICTED / SITE 03 DOCUMENT-WARFARE CONTROL                             |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Functional Identity
 
-The Liberty Freedoms Fragment-Assembly Publication and Masthead Relay System is the information weapon the network uses to convert lawful archival fragments into a disclosure that survives official denial. The dossier records Publication Cells preparing, releasing, and maintaining controlled leaks, leaflets, and recordings while treating information as a weapon with its own containment rules, and describes leaks prepared with the care of an archive: documents verified, redacted to protect the network's own sources, timed to operational moments, and released through channels that resist takedown. A.C.T files this as acquired GOI technology because the system attacks records rather than facilities.
+The Liberty Freedoms Fragment-Assembly Publication and Masthead Relay System is the information weapon the
+network
+uses to convert lawful archival fragments into a disclosure that survives official denial. The
+dossier records
+Publication Cells preparing, releasing, and maintaining controlled leaks, leaflets, and recordings while treating
+information as a weapon with its own containment rules, and describes leaks prepared with
+the care of an archive:
+documents verified, redacted to protect the network's own sources, timed to operational moments, and
+released through
+channels that resist takedown. A.C.T files this as acquired GOI technology because the system
+attacks records rather
+than facilities.
 
 Known Structure and Use
 
-Material circulates under shifting mastheads, most commonly the Open Hand, and appears where affected communities already gather: survivor support spaces, transport-worker networks, medical leave forums, and the edges of settlements displaced by contained incidents. The masthead changes because the network treats a stable public name as a target. Its most effective method requires no theft at all. In one restricted extract, Site 03 detected assembly of a publication built from an outdated site overview, a declassified personnel list, and a transport manifest stripped of current data; the assembled document was internally consistent and its fragments individually verifiable, while its implication was false. Source analysis traced the fragments to a sequence of lawful archive requests.
+Material circulates under shifting mastheads, most commonly the Open Hand, and appears where affected
+communities
+already gather: survivor support spaces, transport-worker networks, medical leave forums, and the edges of
+settlements
+displaced by contained incidents. The masthead changes because the network treats a stable public
+name as a target.
+Its most effective method requires no theft at all. In one restricted extract, Site
+03 detected assembly of a
+publication built from an outdated site overview, a declassified personnel list, and a transport
+manifest stripped of
+current data; the assembled document was internally consistent and its fragments individually verifiable, while
+its
+implication was false. Source analysis traced the fragments to a sequence of lawful archive
+requests.
 
 A.C.T Handling Rules
 
-Every L.F. publication is treated as both intelligence and weapon, and every L.F. incident is treated as a potential leak event regardless of whether material was published. ACT-SITE-03-JP-E Kurokawa Archive Node leads leak forensics, defector communications analysis, publication pre-release detection, and protection of the records most damaging if released. No leaked content is to be publicly confirmed or denied beyond the narrow wording approved by Civil Covert and Site 03 liaison, because denial is the response the network's doctrine predicts.
+Every L.F. publication is treated as both intelligence and weapon, and every L.F. incident
+is treated as a potential
+leak event regardless of whether material was published. ACT-SITE-03-JP-E Kurokawa Archive Node leads leak
+forensics,
+defector communications analysis, publication pre-release detection, and protection of the records most damaging if
+released. No leaked content is to be publicly confirmed or denied beyond the narrow
+wording approved by Civil Covert
+and Site 03 liaison, because denial is the response the network's doctrine predicts.
 
 Failure and Open Questions
 
-The system fails when a fragment set cannot be made internally consistent, when a relay is traced, or when timing loses its operational value. Which publications are assembled from lawful access and which indicate an active insider source remains a standing intelligence priority, and the boundary between the two determines whether the response is archive discipline or a live insider investigation.
+The system fails when a fragment set cannot be made internally consistent, when a
+relay is traced, or when timing
+loses its operational value. Which publications are assembled from lawful access and which indicate
+an active insider
+source remains a standing intelligence priority, and the boundary between the two determines whether
+the response is
+archive discipline or a live insider investigation.

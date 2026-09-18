@@ -84,13 +84,15 @@ following the event.
 LOG ID:              AFD-SU-902/LOG-01
 AUTHOR:              Agent [ REDACTED ]
 
-"It’s not just a snake. It’s a tool that realized it could do its job 
+"It’s not just a snake. It’s a tool that realized it could do its
+job
 without a hangman. 
 
 When we tried to snare it, the rope turned into steel. Our nets 
 couldn't hold the tension. We only managed to box it after we 
 lowered the temperature in the infirmary. The fibers froze, and it 
-became just a piece of old rope again. But even then, I could feel it 
+became just a piece of old rope again. But even then, I could feel
+it
 vibrating in the crate. It was waiting for someone to get close 
 enough to the knot."
 

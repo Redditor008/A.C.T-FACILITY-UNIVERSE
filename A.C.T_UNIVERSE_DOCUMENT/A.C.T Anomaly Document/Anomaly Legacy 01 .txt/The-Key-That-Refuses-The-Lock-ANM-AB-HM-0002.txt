@@ -58,7 +58,8 @@ NARRATIVE STATUS:    Controlled as clerical evidence-handling error
 ═══════════════════════════════════════════════════════════════════════
 
 ANM-AB-HM-0002 is a tarnished iron key measuring 7.2 cm in length. The object
-has a simple circular bow, a narrow shaft, and a single square tooth. No lock
+has a simple circular bow, a narrow shaft, and a single square tooth. No
+lock
 matching the key's profile has been identified. Metallurgical dating places the
 iron between the 12th and 15th centuries, but tool marks on the surface resemble
 modern machine filing.
@@ -130,7 +131,8 @@ ANM-AB-HM-0002 is not to be stored inside a locked container. Previous attempts
 at sealed storage produced unnecessary audit contradictions and increased
 archive correction workload.
 
-The object is to be kept on an open ceramic tray inside Observation Drawer 4 of
+The object is to be kept on an open ceramic tray inside Observation Drawer
+4 of
 the Primary Facility's minor fracture-object archive. The drawer is not to be
 locked. The room containing the drawer may be locked, but personnel must not
 insert ANM-AB-HM-0002 into that room's lock after the room has been opened.

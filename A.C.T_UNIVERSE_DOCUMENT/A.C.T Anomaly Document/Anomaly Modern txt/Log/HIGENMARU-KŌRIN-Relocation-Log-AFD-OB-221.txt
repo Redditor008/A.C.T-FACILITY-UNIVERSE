@@ -115,7 +115,8 @@ stand. The 'Pulse' stabilized within seconds. We are no longer fighting
 the blade; we are letting a higher-order silence manage it for us. 
 
 This is the 'Neutral Good' path in practice. We have moved a lethal 
-hazard from a place where it was an 'Enemy' to a place where it is 
+hazard from a place where it was an 'Enemy' to a place where it
+is
 merely a 'Guest.' Maintain the silence. Do not send anyone to that 
 Temple who doesn't know how to bow."
 

@@ -95,7 +95,8 @@ Initial scan showed:
    - intermittent encrypted broadcast fragments using unknown registry format
    - repeated identifier fragment: MNT-092-OMEGA
 
-At 03:29, an automated street camera near the site captured a single frame of a
+At 03:29, an automated street camera near the site captured a single frame of
+a
 female-presenting figure in maid attire lying partially beneath a loading awning.
 The image was corrupted from the shoulders down by angular compression artifacts
 not matching camera failure.

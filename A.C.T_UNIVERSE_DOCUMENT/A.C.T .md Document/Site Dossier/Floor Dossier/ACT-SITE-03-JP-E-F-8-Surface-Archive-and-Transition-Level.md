@@ -25,7 +25,8 @@ F-8 is the legitimate foundation complex: reading rooms, preservation labs,
 digitization facilities, and administrative spaces. Public and semi-public
 document work occurs on this level — genuine preservation science in the
 open — and nothing anomalous is handled here without immediate transfer
-below. The floor is the node's public face, and the work it does in the
+below. The floor is the node's public face, and the work it does in
+the
 open is real.
 
 This dossier records the floor in full institutional language: what it is,

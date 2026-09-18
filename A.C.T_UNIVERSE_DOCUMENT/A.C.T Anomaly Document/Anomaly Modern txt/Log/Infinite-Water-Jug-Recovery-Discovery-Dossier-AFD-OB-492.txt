@@ -113,7 +113,8 @@ STATUS:              Origin profile on file
 CORRELATION SUMMARY:
 
 The jug's profile matches depictions found in several high-clearance Egyptian
-murals. In these depictions the jug is carried by a servant of the Pharaoh and
+murals. In these depictions the jug is carried by a servant of the Pharaoh
+and
 described as a "Gift of the Hidden Nile" or a "Sovereign's Mercy."
 
 INTERPRETATION:
@@ -136,7 +137,8 @@ STATUS:              Mechanics confirmed
 VERIFICATION RECORD:
 
    - Maximum output: 100 ml of water per single active sequence
-   - After a full 100 ml pour, the jug enters a Cooldown State of 1 to 3
+   - After a full 100 ml pour, the jug enters a Cooldown State of
+   1 to 3
      hours and will not produce fluid even if tilted inverted
    - Partial pours shorten the cooldown proportionally
 
@@ -206,11 +208,14 @@ LOCATION:            Minor Artifact Desk
 AUTHOR:              Object Containment Division
 STATUS:              Standing
 
-The jug was recovered as a curiosity and is kept as a utility. A century of
+The jug was recovered as a curiosity and is kept as a utility. A
+century of
 Facility service has not made it less mysterious: it still draws clean water
-from nowhere, and it still refuses to pour for anyone who means it harm. Some
+from nowhere, and it still refuses to pour for anyone who means it harm.
+Some
 anomalies are contained because they are dangerous. This one is kept because
-it is kind, and because a working "Gift of the Hidden Nile" should be allowed
+it is kind, and because a working "Gift of the Hidden Nile" should be
+allowed
 to keep working.
 
 END OF FILE

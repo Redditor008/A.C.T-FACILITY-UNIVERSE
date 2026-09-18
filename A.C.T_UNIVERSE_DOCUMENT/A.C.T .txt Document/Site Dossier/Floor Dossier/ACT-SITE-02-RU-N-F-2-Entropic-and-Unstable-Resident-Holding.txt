@@ -27,7 +27,8 @@ unmake it, slowly and continuously, and holding them requires infrastructure
 built to fail less slowly than they fail it.
 
 This dossier records the floor in full institutional language: what it is,
-what it holds, how it is built, how it is monitored, and how the station
+what it holds, how it is built, how it is monitored, and how the
+station
 holds residents that work against the very idea of holding.
 
 ---
@@ -62,7 +63,8 @@ or otherwise unmaking the structures built to confine them, on schedules
 that make ordinary maintenance impossible.
 
 White Grave Station is the Facility's destination for such material, and
-F-2 is the floor where the station holds it. The floor's entire design is a
+F-2 is the floor where the station holds it. The floor's entire design is
+a
 response to one fact: its residents work against their own containment, and
 the floor must therefore be built to fail less slowly than they fail it.
 
@@ -338,7 +340,8 @@ them are containment personnel.
 
 F-2 doctrine holds that entropic containment is an attrition problem: the
 floor's residents degrade their containment continuously, and the floor
-must be built to fail less slowly than they fail it. Redundancy is not a
+must be built to fail less slowly than they fail it. Redundancy is not
+a
 safety margin on F-2 — it is the containment.
 
 12.2 Early-Detection Doctrine
@@ -399,6 +402,7 @@ systems, and high-frequency monitoring — infrastructure built for the one
 war the Facility cannot win quickly: the war of attrition against
 entropy itself.
 
-It is the floor where containment is not a structure but a process — a
+It is the floor where containment is not a structure but a process —
+a
 continuous, expensive, unglamorous process of failing more slowly than the
 resident fails the floor.

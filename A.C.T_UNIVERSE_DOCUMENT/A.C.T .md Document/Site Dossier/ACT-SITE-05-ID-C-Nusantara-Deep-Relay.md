@@ -45,14 +45,20 @@ signature resident and leaves the rest to those registers.
 **Site Type:** Regional Site
 **Location:** Central Indonesia (exact coordinates withheld; island-embedded installation with maritime extension)
 **Command Authority:** Site Director with seismic and maritime anomaly oversight
-**Primary Function:** Island anomaly monitoring, sea-bound recovery, volcanic and tectonic anomaly response, and abyss-linked seismic observation
+**Primary Function:** Island anomaly monitoring, sea-bound recovery, volcanic and tectonic anomaly response, and
+abyss-linked seismic observation
 **Divisions Present:** Recovery, Containment, Medical, Research, Security, Seismic Analysis Support
 **Containment Profile:** Maritime / Seismic / Place-Anomaly / Deep-Earth Observation
-**Regional Jurisdiction:** Indonesian archipelago anomaly events, undersea disturbances, volcanic anomaly signatures, tectonic irregularity zones
-**Notable Features:** High-value for anomalies linked to sea routes, fault pressure, or deep-earth movement patterns
+**Regional Jurisdiction:** Indonesian archipelago anomaly events, undersea disturbances, volcanic anomaly signatures,
+tectonic irregularity zones
+**Notable Features:** High-value for anomalies linked to sea routes, fault pressure, or deep-earth movement
+patterns
 **Current Status:** Active
-**History Notes:** Elevated to major site status after repeated irregularity clusters tied to undersea and island instability reports.
-**Security Notes:** Some deep-earth records routed through this site remain partially sealed under abyss-related review standards.
+**History Notes:** Elevated to major site status after repeated irregularity clusters tied to undersea
+and island
+instability reports.
+**Security Notes:** Some deep-earth records routed through this site remain partially sealed under abyss-related
+review standards.
 
 ---
 
@@ -562,7 +568,8 @@ development priorities include:
 - deeper integration with the Facility's Pacific routing network
 
 The relay's long-term function — to watch the places where the Earth moves
-and the water hides what the Facility must find — is not expected to change.
+and the water hides what the Facility must find — is not expected to
+change.
 
 ---
 

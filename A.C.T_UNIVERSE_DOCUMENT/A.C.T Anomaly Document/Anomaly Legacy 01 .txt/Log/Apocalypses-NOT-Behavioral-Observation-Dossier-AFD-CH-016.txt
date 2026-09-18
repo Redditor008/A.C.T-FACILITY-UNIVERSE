@@ -78,7 +78,8 @@ CONFIRMED SHAPE STATES:
       the ground behind it moved"
 
 OBSERVER NOTE: The question mark in the fourth form name is part of the
-official label. Measurements during that form range from 18 cm to 15 m with no
+official label. Measurements during that form range from 18 cm to 15 m with
+no
 corresponding distance change.
 
 ═══════════════════════════════════════════════════════════════════════
@@ -99,7 +100,8 @@ exposure, recent major breach survival, or existing belief that an apocalypse
 is imminent. Effects include sudden perception of world-ending imagery,
 conviction that AFD-CH-016 is apocalyptic, auditory hallucination of
 collapsing cities or enormous reptilian breathing, inability to distinguish
-present location from a ruined future, and — in severe cases — refusal to look
+present location from a ruined future, and — in severe cases — refusal to
+look
 away for fear that looking away ends the world.
 
 WES DURATION:

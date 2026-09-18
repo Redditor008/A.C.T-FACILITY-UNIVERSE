@@ -152,7 +152,8 @@ STANDARD VISUAL SCHEMA:
                          ╲ │ ╱
                           ╲│╱
 
-The visible mark is usually between 4 cm and 40 cm wide, depending on the size
+The visible mark is usually between 4 cm and 40 cm wide, depending on
+the size
 and metaphysical density of the anomaly being marked. On very large anomalies,
 the mark may appear as a repeating pattern distributed across multiple body
 regions, containment seals, documents, or symbolic anchors.

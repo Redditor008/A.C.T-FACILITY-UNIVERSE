@@ -31,7 +31,8 @@ DOSSIER STATUS:      Open — two-person timing confirmation
 This dossier belongs to A.C.T Log Category IV — Experiment & Testing Dossier.
 AFD-CH-002 is a medium-sized object resembling a dark, smooth meteorite
 fragment suspended inside a cage of pale metallic ribs, measuring
-approximately 84 cm by 51 cm by 46 cm with a mass of 112 kg. After sixteen
+approximately 84 cm by 51 cm by 46 cm with a mass of 112
+kg. After sixteen
 continuous seconds of exposure within its influence zone, local time begins to
 dilute: events still occur, but portions of their continuity fail to arrive.
 
@@ -179,7 +180,8 @@ Testing keeps one number holy: sixteen. Before it, the stone is a curious
 object with impossible mass. After it, time stops arriving whole. The
 sixteen-second delay is believed to be either a calibration threshold or a
 safety interval remaining from the object's original function — A.C.T treats
-it as both, and keeps every experiment on the safe side of the boundary it was
+it as both, and keeps every experiment on the safe side of the boundary
+it was
 kind enough to leave.
 
 END OF FILE

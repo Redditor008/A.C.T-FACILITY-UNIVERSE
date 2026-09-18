@@ -24,12 +24,14 @@ the Glass Orchard Relay**.
 F-2 is the relay's operational heart. Most of the Glass Orchard Relay's
 work occurs on this level: witness processing suites, intake staging,
 temporary holding cells for low-threat anomalies, and the archive relay
-buffering area. It is the level where the relay does what it exists to do —
+buffering area. It is the level where the relay does what it exists to
+do —
 process the witnesses, stage the recoveries, and buffer the records that
 keep the parent site from being overwhelmed.
 
 This dossier records the floor in full institutional language: what it is,
-what it does, how it is built, how it is run, and how the relay's daily
+what it does, how it is built, how it is run, and how the
+relay's daily
 purpose is concentrated on a single buried level.
 
 ---
@@ -387,7 +389,8 @@ Glass Orchard Relay: the buried level where witnesses are processed,
 recoveries are staged, low-threat material is held in temporary cells, and
 archive records are buffered for the parent site.
 
-It is the floor where the relay does its daily work — the quiet, exact
+It is the floor where the relay does its daily work — the quiet,
+exact
 labor of absorbing the western apparatus's overflow and moving it on,
 conducted beneath a cover campus of greenhouses where the world above sees
 only agricultural research.

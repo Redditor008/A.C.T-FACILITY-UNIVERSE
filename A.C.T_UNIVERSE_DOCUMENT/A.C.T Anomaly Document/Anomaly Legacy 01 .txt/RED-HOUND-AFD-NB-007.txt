@@ -76,7 +76,8 @@ neck, elbows, and ribs. These spikes are made of a cartilage-bone composite
 wrapped in living muscle fibers and tear free from surrounding objects when the
 organism forces itself through narrow spaces.
 
-The forelimbs end in massive claws, each between 31 and 46 cm in length. The
+The forelimbs end in massive claws, each between 31 and 46 cm in length.
+The
 claws are black-red, serrated along the inner edge, and coated in an oily film
 that resists ordinary sterilization. Contact with these claws produces a minor
 amnestic effect in living targets. Victims scratched by AFD-NB-007 frequently
@@ -289,8 +290,10 @@ any team member. It appeared as automatic transcription beneath 11 seconds of
 red-mist static.
 
 NOTE 004:
-If a familiar voice is heard from the arena after feeding, personnel are to log
-the event as acoustic bait. They are not to answer. They are especially not to
+If a familiar voice is heard from the arena after feeding, personnel are to
+log
+the event as acoustic bait. They are not to answer. They are especially not
+to
 apologize.
 
 END OF FILE

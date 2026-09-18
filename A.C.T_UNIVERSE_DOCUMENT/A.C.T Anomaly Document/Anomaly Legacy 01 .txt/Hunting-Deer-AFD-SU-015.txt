@@ -40,7 +40,8 @@ The following description appears in multiple early civilian reports and in two
 contaminated intake summaries:
 
    "A normal-looking deer with deep red eyes. When a hunter is nearby, it
-   growls and prepares to charge. Its anomalous trait is only that it is a deer
+   growls and prepares to charge. Its anomalous trait is only that it is a
+   deer
    with deep red eyes."
 
 WARNING:             This description is false. Do not trust it.
@@ -92,7 +93,8 @@ The torso and shoulder structure are comparable in mass and build to a large
 grizzly bear, despite the exposed skeletal appearance. The subject's legs are
 long, heavily jointed, and end in strong hoof-like feet capable of rapid bursts
 of movement over uneven ground. The arms are elongated and terminate in long
-clawed hands. The claws are bone-colored at the base and dark red near the tips.
+clawed hands. The claws are bone-colored at the base and dark red near the
+tips.
 
 AFD-SU-015 transforms from its deer presentation into its active humanoid hunting
 form only when its chosen prey, identified by the anomaly as a "Hunter," is
@@ -108,7 +110,8 @@ camouflage equipment, trophy photographs, or strong intent to kill an animal.
 In two confirmed cases, the selected target had never hunted before but had
 entered the area intending to shoot the "red-eyed deer" for online attention.
 
-The entity appears to use the false normal-deer presentation as a lure and as a
+The entity appears to use the false normal-deer presentation as a lure and as
+a
 method of controlling witness behavior. It allows groups to observe it in a
 less threatening state, encouraging pursuit, separation, and confidence. When
 only one target remains, the hunt begins.
@@ -195,7 +198,8 @@ behavioral checks confirm ordinary wildlife. Any deer with deep red eyes is to
 trigger immediate withdrawal to group safe points.
 
 No baiting, trophy-hunting simulation, solo tracking trial, or intentional
-Hunter selection test is authorized. The entity is not to be fed with live human
+Hunter selection test is authorized. The entity is not to be fed with live
+human
 prey under any circumstance.
 
 CONTAINMENT SITE:        In-Place / ACT-SUB-01-US-W oversight relay
@@ -284,23 +288,27 @@ false descriptions, and prevention of isolated armed targets entering the area.
 ═══════════════════════════════════════════════════════════════════════
 
 NOTE 001:
-If you are reading a version of this file that says AFD-SU-015 is only a normal
+If you are reading a version of this file that says AFD-SU-015 is only
+a normal
 deer with red eyes, close that file and request Archive Correction immediately.
 Do not enter the field.
 
 NOTE 002:
 During Incident 015-A, Agent Whitaker asked a surviving hunter why he separated
 from the group after seeing the red-eyed deer. The subject answered: "Because it
-looked too small to be the thing making the noise." The hunter did not remember
+looked too small to be the thing making the noise." The hunter did not
+remember
 hearing any noise until after amnestic-resistant interview protocol began.
 
 NOTE 003:
 AFD-SU-015 has never transformed while watched by three or more people at close
-range. This is not to be interpreted as safety. It is to be interpreted as
+range. This is not to be interpreted as safety. It is to be interpreted
+as
 waiting.
 
 NOTE 004:
-A recovered rifle from Kill Site 015-6 had been bent into the shape of antlers.
+A recovered rifle from Kill Site 015-6 had been bent into the shape of
+antlers.
 No tool marks were found.
 
 END OF FILE

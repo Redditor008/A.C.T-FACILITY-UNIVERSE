@@ -28,7 +28,8 @@ can be stabilized, neutralized, repurposed, or integrated — and where
 objects approved for transformation study pass under ascending authorization.
 
 This dossier records the floor in full institutional language: what it is,
-what it does, how it is built, how it is authorized, and how it sits between
+what it does, how it is built, how it is authorized, and how it
+sits between
 the holding system that keeps objects and the doctrine that decides what
 objects may become.
 

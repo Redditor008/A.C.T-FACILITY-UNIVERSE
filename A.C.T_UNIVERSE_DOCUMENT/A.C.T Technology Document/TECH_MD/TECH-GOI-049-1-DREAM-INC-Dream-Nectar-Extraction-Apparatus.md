@@ -12,24 +12,77 @@
 
 ## Functional Identity
 
-The DREAM .INC Dream Nectar Extraction Apparatus is the machine identified in the DREAM .INC GOI dossier as capable of extracting Dream Nectar from at least one redacted Dream-Type Anomaly. A.C.T uses this designation for the machine family or machine instance because the company has built a national corporate product chain around its output. The name is an A.C.T filing term, not a confirmed company label. Recovered correspondence refers only to a quiet machine condition, appointment delays, wish restrictions, and correction activity, which means company personnel may know the device by compartment-specific phrases rather than a stable title.
+The DREAM .INC Dream Nectar Extraction Apparatus is the machine identified in the DREAM
+.INC GOI dossier as capable of
+extracting Dream Nectar from at least one redacted Dream-Type Anomaly. A.C.T uses this designation
+for the machine
+family or machine instance because the company has built a national corporate product chain
+around its output. The
+name is an A.C.T filing term, not a confirmed company label. Recovered correspondence refers
+only to a quiet machine
+condition, appointment delays, wish restrictions, and correction activity, which means company personnel may know
+the
+device by compartment-specific phrases rather than a stable title.
 
-This apparatus is not ordinary laboratory equipment. Its construction, origin, power requirements, internal process, and safe operating limits remain unresolved. DREAM .INC may only understand enough to keep output moving. That uncertainty is why A.C.T treats seizure as an appropriation matter rather than a simple raid objective. A machine tied to a living or unstable source may regulate pressure, pain, sleep, memory, or dream production while also exploiting the source. Abrupt removal could harm the source anomaly, contaminate stored Nectar, or push consumers into altered dream states already connected to distributed batches.
+This apparatus is not ordinary laboratory equipment. Its construction, origin, power requirements, internal process,
+and safe operating limits remain unresolved. DREAM .INC may only understand enough to keep
+output moving. That
+uncertainty is why A.C.T treats seizure as an appropriation matter rather than a simple
+raid objective. A machine tied
+to a living or unstable source may regulate pressure, pain, sleep, memory, or dream
+production while also exploiting
+the source. Abrupt removal could harm the source anomaly, contaminate stored Nectar, or push
+consumers into altered
+dream states already connected to distributed batches.
 
 ## Known Components and Indicators
 
-No full schematic is in A.C.T custody. Current knowledge comes from restricted source intelligence, product recovery, building-pattern analysis, and internal communication describing interruption. The apparatus is assessed to require a source interface, output collection pathway, preparation or stabilization stage, maintenance condition monitoring, and some method by which accepted or rejected wish categories affect distribution decisions. A.C.T has not confirmed whether wish recognition occurs inside the machine, inside the product, through consumer screening, through the source anomaly, or through a combined system.
+No full schematic is in A.C.T custody. Current knowledge comes from restricted source intelligence,
+product recovery,
+building-pattern analysis, and internal communication describing interruption. The apparatus is assessed to require a
+source interface, output collection pathway, preparation or stabilization stage, maintenance condition monitoring, and
+some method by which accepted or rejected wish categories affect distribution decisions. A.C.T has
+not confirmed
+whether wish recognition occurs inside the machine, inside the product, through consumer screening, through
+the source
+anomaly, or through a combined system.
 
-The strongest external indicator is business behavior. Sudden appointment restrictions, scarcity claims, refusal to accept certain wishes, reclassification of client reports, and urgent collection of consumer dream testimony may signal apparatus instability. These signs do not locate the machine, but they give Intelligence and Containment a way to watch a machine-state change without touching the source.
+The strongest external indicator is business behavior. Sudden appointment restrictions, scarcity claims, refusal to
+accept certain wishes, reclassification of client reports, and urgent collection of consumer dream testimony
+may
+signal apparatus instability. These signs do not locate the machine, but they give Intelligence
+and Containment a way
+to watch a machine-state change without touching the source.
 
 ## A.C.T Handling Rules
 
-No A.C.T personnel may operate the apparatus for research, empathy, cover maintenance, consumer calming, or product testing without joint Intelligence, Containment, Medical, and O5-level approval. If the device is recovered, first action is isolation, source-status confirmation, output interruption, and protection of any attached anomaly. A.C.T must not repeat DREAM .INC's assumption that the source exists as a corporate resource.
+No A.C.T personnel may operate the apparatus for research, empathy, cover maintenance, consumer calming,
+or product
+testing without joint Intelligence, Containment, Medical, and O5-level approval. If the device is recovered,
+first
+action is isolation, source-status confirmation, output interruption, and protection of any attached anomaly. A.C.T
+must not repeat DREAM .INC's assumption that the source exists as a corporate resource.
 
-Any interface component, tube, reservoir, intake plate, dream-monitoring console, product container, or maintenance log recovered near the apparatus must be treated as active anomalous material. Staff sleep quarters, psychiatric wards, and memory-treatment spaces must remain outside the immediate storage corridor until Medical clears dream contamination risk.
+Any interface component, tube, reservoir, intake plate, dream-monitoring console, product container, or maintenance
+log recovered near the apparatus must be treated as active anomalous material. Staff sleep
+quarters, psychiatric
+wards, and memory-treatment spaces must remain outside the immediate storage corridor until Medical clears
+dream
+contamination risk.
 
 ## Failure and Open Questions
 
-Primary risk is not only extraction. It is misunderstanding the relationship between machine, source, wish, dream, and consumer data. Does the apparatus extract a substance, a dream condition, a symbolic permission, or a portion of the source's subjective state? Does it merely collect what the source produces, or does it force production by feeding wishes back into the anomaly? Can it be safely stopped, or must output be reduced in stages?
+Primary risk is not only extraction. It is misunderstanding the relationship between machine, source,
+wish, dream, and
+consumer data. Does the apparatus extract a substance, a dream condition, a symbolic permission,
+or a portion of the
+source's subjective state? Does it merely collect what the source produces, or does it
+force production by feeding
+wishes back into the anomaly? Can it be safely stopped, or must output be
+reduced in stages?
 
-Archive confidence is Moderate for existence and function, Low for construction. A.C.T knows enough to justify appropriation and containment planning. It does not know enough to reproduce, operate, or dismantle the machine without source-specific review.
+Archive confidence is Moderate for existence and function, Low for construction. A.C.T knows enough
+to justify
+appropriation and containment planning. It does not know enough to reproduce, operate, or dismantle
+the machine
+without source-specific review.

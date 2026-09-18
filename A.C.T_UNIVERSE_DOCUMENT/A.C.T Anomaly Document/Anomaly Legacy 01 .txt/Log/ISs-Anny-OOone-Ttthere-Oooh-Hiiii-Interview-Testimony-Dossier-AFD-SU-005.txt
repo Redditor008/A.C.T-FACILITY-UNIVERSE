@@ -138,7 +138,8 @@ AFD-SU-005:          I woke up and the room was already finished being sad.
 
 DR. VALCÁRCEL:       Were you afraid?
 
-AFD-SU-005:          I asked if anyone was there. I did not know if I was the
+AFD-SU-005: I asked if anyone was there. I did not know if I was
+the
                      answer.
 
 DR. VALCÁRCEL:       Is that why you said, "Is anyone there?"
@@ -152,7 +153,8 @@ AFD-SU-005:          Some words are clean. Some words are too big. Some words
                      open doors inside me and then I am not old enough to walk
                      in.
 
-DR. VALCÁRCEL:       Can you give me an example of a word that is too big?
+DR. VALCÁRCEL: Can you give me an example of a word that is too
+big?
 
 AFD-SU-005:          Inheritance.
 
@@ -171,7 +173,8 @@ AFD-SU-005:          Person is a warm word.
 
 DR. VALCÁRCEL:       Is it a good word?
 
-AFD-SU-005:          I think yes. It is too big also, but it has a chair in it.
+AFD-SU-005: I think yes. It is too big also, but it has a chair
+in it.
                      Maybe I can sit there later.
 
 DR. VALCÁRCEL:       That is allowed.

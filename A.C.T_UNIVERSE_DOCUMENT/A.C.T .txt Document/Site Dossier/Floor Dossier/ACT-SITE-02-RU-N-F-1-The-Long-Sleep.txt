@@ -22,11 +22,13 @@ White Grave Station exists to hold what cannot be allowed to wake. Its
 deepest level, F-1, is where the station's most unstable and most sensitive
 residents are kept under maximum reinforcement — a long-term isolation vault
 so central to the station's identity that the entire installation is named
-for it. The Long Sleep is not a metaphor. It is a containment state, a
+for it. The Long Sleep is not a metaphor. It is a containment state,
+a
 floor, and the station's reason for being.
 
 This dossier records the floor in full institutional language: what it is,
-what it holds, how it is built, how it is guarded, and why the station's
+what it holds, how it is built, how it is guarded, and why the
+station's
 name is the floor's name.
 
 ---
@@ -170,7 +172,8 @@ to F-1 is conducted under the floor's access restrictions.
 
 Research presence on F-1 is strictly limited: the residents of the Long
 Sleep are held to be studied only within the limits of their restriction
-sets — and many are not to be studied at all. The floor's research liaison
+sets — and many are not to be studied at all. The floor's research
+liaison
 exists to enforce those limits, not to exceed them.
 
 6.5 Archive Liaison
@@ -361,7 +364,8 @@ of the sleep they maintain.
 The floor's personnel are supported by the station's medical and cognitive
 care programs. Deep-hold duty at White Grave carries a specific weight —
 the knowledge that the residents below are not waiting to wake, but are
-being held in a sleep that may never end — and the station treats that
+being held in a sleep that may never end — and the station treats
+that
 weight as an operational matter.
 
 ---
@@ -383,7 +387,8 @@ from every route that leads upward.
 
 12.3 Closure Doctrine
 
-F-1 closure is not a last resort; it is a standing option. The floor is
+F-1 closure is not a last resort; it is a standing option. The floor
+is
 designed to be sealed and to function sealed, and the station drills the
 procedure so that closure, when it comes, is executed without hesitation.
 

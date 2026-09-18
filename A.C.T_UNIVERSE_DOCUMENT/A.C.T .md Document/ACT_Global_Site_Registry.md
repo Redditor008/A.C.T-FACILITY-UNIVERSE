@@ -10,7 +10,13 @@
 ---
 
 ### Purpose
-This file serves as a consolidated registry of major recognized A.C.T **SITE** and **SUB-SITE** installations currently preserved in primary archive reference. It is not an exhaustive list of every relay, blacksite, temporary enclosure, or hidden support point maintained by the Facility, but it records the most relevant known installation bodies for internal strategic awareness.
+This file serves as a consolidated registry of major recognized A.C.T **SITE** and **SUB-SITE**
+installations
+currently preserved in primary archive reference. It is not an exhaustive list of every
+relay, blacksite, temporary
+enclosure, or hidden support point maintained by the Facility, but it records the most
+relevant known installation
+bodies for internal strategic awareness.
 
 This registry follows the naming standards established under **ACT-SITE-XX-##-#** and **ACT-SUB-XX-##-#** doctrine.
 
@@ -27,10 +33,13 @@ This registry follows the naming standards established under **ACT-SITE-XX-##-#*
 **Divisions Present:** Security, Recovery, Containment, Intelligence, Archive, Medical  
 **Containment Profile:** Object-Focused / Mixed Mobility / Urban Recovery  
 **Regional Jurisdiction:** Western United States anomaly incidents and Pacific-linked covert routing  
-**Notable Features:** High-speed urban concealment response network; strong black-market interdiction capability; heavy GOI surveillance overlap  
+**Notable Features:** High-speed urban concealment response network; strong black-market interdiction capability;
+heavy GOI surveillance overlap
 **Current Status:** Active  
-**History Notes:** Expanded from a smaller relay network into a full regional command site after sustained urban anomaly density increase.  
-**Security Notes:** Maintains multiple false civilian infrastructure overlays and layered city-entry cover identities.  
+**History Notes:** Expanded from a smaller relay network into a full regional command site
+after sustained urban
+anomaly density increase.
+**Security Notes:** Maintains multiple false civilian infrastructure overlays and layered city-entry cover identities.
 
 ---
 
@@ -39,14 +48,21 @@ This registry follows the naming standards established under **ACT-SITE-XX-##-#*
 **Site Type:** Regional Site  
 **Location:** Northern Russia  
 **Command Authority:** Site Director under restricted cold-zone review authority  
-**Primary Function:** Deep cold-environment containment, biological suppression, and long-term isolation of unstable anomalies  
+**Primary Function:** Deep cold-environment containment, biological suppression, and long-term isolation of unstable
+anomalies
 **Divisions Present:** Security, Containment, Medical, Research, Limited Military Presence  
 **Containment Profile:** Biological / Cryogenic / Entropic / Deep Isolation  
-**Regional Jurisdiction:** Arctic and northern Eurasian anomaly events, deep freeze transfer corridors, remote black containment support  
-**Notable Features:** Extreme environmental isolation; highly secure low-population concealment value; capable of housing anomalies requiring climate suppression  
+**Regional Jurisdiction:** Arctic and northern Eurasian anomaly events, deep freeze transfer corridors, remote black
+containment support
+**Notable Features:** Extreme environmental isolation; highly secure low-population concealment value; capable of
+housing anomalies requiring climate suppression
 **Current Status:** Active  
-**History Notes:** Built around the need to store anomalies too unstable or too logistically inconvenient to keep near population centers.  
-**Security Notes:** Access during deep winter periods is heavily restricted; some transport windows are seasonal and weather-conditional.  
+**History Notes:** Built around the need to store anomalies too unstable or too logistically
+inconvenient to keep near
+population centers.
+**Security Notes:** Access during deep winter periods is heavily restricted; some transport windows are
+seasonal and
+weather-conditional.
 
 ---
 
@@ -55,13 +71,18 @@ This registry follows the naming standards established under **ACT-SITE-XX-##-#*
 **Site Type:** Regional Site  
 **Location:** Eastern Japan  
 **Command Authority:** Site Director with Archive and Intelligence dual review  
-**Primary Function:** Memetic and informational anomaly handling, archive-redaction testing, and urban data anomaly response  
-**Divisions Present:** Archiver Division, Intelligence Division, Researcher Division, Medical Cognitive Support, Security  
+**Primary Function:** Memetic and informational anomaly handling, archive-redaction testing, and urban data anomaly
+response
+**Divisions Present:** Archiver Division, Intelligence Division, Researcher Division, Medical Cognitive Support,
+Security
 **Containment Profile:** Memetic / Infohazard / Archive-Sensitive / Signal-Borne  
-**Regional Jurisdiction:** Eastern Japanese anomaly events, urban infohazard spread corridors, media-adjacent suppression zones  
-**Notable Features:** Strong archive-intelligence integration; advanced document containment procedures; media-density operational relevance  
+**Regional Jurisdiction:** Eastern Japanese anomaly events, urban infohazard spread corridors, media-adjacent
+suppression zones
+**Notable Features:** Strong archive-intelligence integration; advanced document containment procedures; media-density
+operational relevance
 **Current Status:** Active  
-**History Notes:** Expanded from a specialized records-monitoring site into a major East-region anomaly interpretation hub.  
+**History Notes:** Expanded from a specialized records-monitoring site into a major East-region anomaly interpretation
+hub.
 **Security Notes:** Any uncontrolled digital leak is treated as a priority containment breach.  
 
 ---
@@ -71,14 +92,19 @@ This registry follows the naming standards established under **ACT-SITE-XX-##-#*
 **Site Type:** Regional Site  
 **Location:** Central Brazil  
 **Command Authority:** Site Director under biological containment review  
-**Primary Function:** Remote containment of non-natural biological anomalies and wilderness-bound anomaly observation  
+**Primary Function:** Remote containment of non-natural biological anomalies and wilderness-bound anomaly observation
 **Divisions Present:** Research, Transformation, Recovery, Medical, Security, Environmental Containment  
 **Containment Profile:** Biological / Forest-Bound / Place-Anomaly / Field Enclosure  
-**Regional Jurisdiction:** Central South American biological anomalies, wild-zone containment, remote cultivation programs  
+**Regional Jurisdiction:** Central South American biological anomalies, wild-zone containment, remote cultivation
+programs
 **Notable Features:** High adaptability for non-movable anomaly enclosures; extensive concealed perimeter structures  
 **Current Status:** Active  
-**History Notes:** Developed from remote field enclosures into a permanent reserve-style site due to recurring non-natural flora and fauna cases.  
-**Security Notes:** Some anomalies are managed in-place under perimeter doctrine rather than transported to interior vaults.  
+**History Notes:** Developed from remote field enclosures into a permanent reserve-style site due to
+recurring
+non-natural flora and fauna cases.
+**Security Notes:** Some anomalies are managed in-place under perimeter doctrine rather than transported to
+interior
+vaults.
 
 ---
 
@@ -87,14 +113,20 @@ This registry follows the naming standards established under **ACT-SITE-XX-##-#*
 **Site Type:** Regional Site  
 **Location:** Central Indonesia  
 **Command Authority:** Site Director with seismic and maritime anomaly oversight  
-**Primary Function:** Island anomaly monitoring, sea-bound recovery, volcanic and tectonic anomaly response, and abyss-linked seismic observation  
+**Primary Function:** Island anomaly monitoring, sea-bound recovery, volcanic and tectonic anomaly response, and
+abyss-linked seismic observation
 **Divisions Present:** Recovery, Containment, Medical, Research, Security, Seismic Analysis Support  
 **Containment Profile:** Maritime / Seismic / Place-Anomaly / Deep-Earth Observation  
-**Regional Jurisdiction:** Indonesian archipelago anomaly events, undersea disturbances, volcanic anomaly signatures, tectonic irregularity zones  
-**Notable Features:** High-value for anomalies linked to sea routes, fault pressure, or deep-earth movement patterns  
+**Regional Jurisdiction:** Indonesian archipelago anomaly events, undersea disturbances, volcanic anomaly signatures,
+tectonic irregularity zones
+**Notable Features:** High-value for anomalies linked to sea routes, fault pressure, or deep-earth movement
+patterns
 **Current Status:** Active  
-**History Notes:** Elevated to major site status after repeated irregularity clusters tied to undersea and island instability reports.  
-**Security Notes:** Some deep-earth records routed through this site remain partially sealed under abyss-related review standards.  
+**History Notes:** Elevated to major site status after repeated irregularity clusters tied to undersea
+and island
+instability reports.
+**Security Notes:** Some deep-earth records routed through this site remain partially sealed under abyss-related
+review standards.
 
 ---
 
@@ -111,7 +143,9 @@ This registry follows the naming standards established under **ACT-SITE-XX-##-#*
 **Regional Jurisdiction:** Overflow support for Site 01 regional operations  
 **Notable Features:** Cover identity as agricultural biotech station; optimized for low-visibility processing  
 **Current Status:** Active  
-**History Notes:** Originally established as a covert witness routing point before being upgraded into sub-site classification.  
+**History Notes:** Originally established as a covert witness routing point before being upgraded into
+sub-site
+classification.
 **Security Notes:** Strictly denied long-term holding authority for high-threat anomalies.  
 
 ---
@@ -127,8 +161,10 @@ This registry follows the naming standards established under **ACT-SITE-XX-##-#*
 **Regional Jurisdiction:** Transfer support for White Grave Station and surrounding arctic recovery corridors  
 **Notable Features:** Designed for rapid frozen relocation and silent disappearance of hazardous organic material  
 **Current Status:** Active  
-**History Notes:** Built to reduce over-concentration pressure on White Grave Station during seasonal biological incidents.  
-**Security Notes:** Personnel rotation is tightly controlled due to long-duration cold exposure and isolation stress.  
+**History Notes:** Built to reduce over-concentration pressure on White Grave Station during seasonal biological
+incidents.
+**Security Notes:** Personnel rotation is tightly controlled due to long-duration cold exposure and isolation
+stress.
 
 ---
 
@@ -141,7 +177,8 @@ This registry follows the naming standards established under **ACT-SITE-XX-##-#*
 **Divisions Present:** Archive, Intelligence, Limited Medical Cognitive Staff  
 **Containment Profile:** Low-to-Mid Memetic / Infohazard Buffer / Document Quarantine  
 **Regional Jurisdiction:** Overflow support for Kurokawa Archive Node  
-**Notable Features:** Built for cases too dangerous for ordinary records but too minor for full black archive burial  
+**Notable Features:** Built for cases too dangerous for ordinary records but too minor for
+full black archive burial
 **Current Status:** Active  
 **History Notes:** Created after repeated archive spillover events stressed the main East-region records body.  
 **Security Notes:** No solo review shifts authorized during active memetic contamination cycles.  
@@ -159,7 +196,9 @@ This registry follows the naming standards established under **ACT-SITE-XX-##-#*
 **Regional Jurisdiction:** Specific reserve sectors under Verde Null Bio-Reserve control  
 **Notable Features:** Exists as a concealed perimeter rather than a conventional building-dominant installation  
 **Current Status:** Active  
-**History Notes:** Recognized as a sub-site after repeated failed relocation attempts proved certain flora anomalies safer in native containment fields.  
+**History Notes:** Recognized as a sub-site after repeated failed relocation attempts proved certain flora
+anomalies
+safer in native containment fields.
 **Security Notes:** Transport denial is built into containment doctrine for several housed anomalies.  
 
 ---
@@ -175,29 +214,54 @@ This registry follows the naming standards established under **ACT-SITE-XX-##-#*
 **Regional Jurisdiction:** Selected island and near-shore anomaly corridors under Nusantara Deep Relay authority  
 **Notable Features:** Combines maritime observation with hidden emergency intake capability  
 **Current Status:** Active  
-**History Notes:** Elevated from a relay watchpoint after repeated coastal anomaly appearances required permanent staffing.  
+**History Notes:** Elevated from a relay watchpoint after repeated coastal anomaly appearances required permanent
+staffing.
 **Security Notes:** Capable of emergency lockdown and silent withdrawal during large-scale tectonic shifts.  
 
 ---
 
 ### Closing Registry Note
-The A.C.T network does not function through one monolithic body alone. It survives through layered installations—major SITES, supporting SUB-SITES, relays, and sealed locations—distributed according to secrecy value, containment need, recovery pressure, geography, and anomaly profile.
+The A.C.T network does not function through one monolithic body alone. It survives through
+layered installations—major
+SITES, supporting SUB-SITES, relays, and sealed locations—distributed according to secrecy value, containment need,
+recovery pressure, geography, and anomaly profile.
 
 A site is not merely where the Facility exists.
-A site is where the impossible has been given an address, a doctrine, and a chain of command.
+A site is where the impossible has been given an address, a doctrine, and
+a chain of command.
 
 ### Site Dossier Reference
-Individual full dossiers for each recognized SITE and SUB-SITE — preserving the complete operational, historical, architectural, floor-register, personnel, and incident record of every installation — are maintained as separate Site Dossier files under:
+Individual full dossiers for each recognized SITE and SUB-SITE — preserving the complete operational,
+historical,
+architectural, floor-register, personnel, and incident record of every installation — are maintained as separate
+Site
+Dossier files under:
 
 - `A.C.T .md Document/Site Dossier/` (authoritative Markdown)
 - `A.C.T .txt Document/Site Dossier/` (plain-text reading copies)
 
-Each dossier follows the Site Registry File Standard and carries its own Dossier Number in the `SITE-DOSSIER` / `SUB-SITE-DOSSIER` series.
+Each dossier follows the Site Registry File Standard and carries its own Dossier Number
+in the `SITE-DOSSIER` /
+`SUB-SITE-DOSSIER` series.
 
 #### Floor Dossier Reference
-Individual full dossiers for each numbered floor of the primary SITES and SUB-SITES — preserving the complete operational, architectural, systems, security, holdings, personnel, and incident record of every level, from the deepest numbered floor (F-1) to the surface-adjacent floor (F-N) — are maintained as separate Floor Dossier files under:
+Individual full dossiers for each numbered floor of the primary SITES and SUB-SITES —
+preserving the complete
+operational, architectural, systems, security, holdings, personnel, and incident record of every level, from the
+deepest numbered floor (F-1) to the surface-adjacent floor (F-N) — are maintained as separate
+Floor Dossier files
+under:
 
 - `A.C.T .md Document/Site Dossier/Floor Dossier/` (authoritative Markdown)
 - `A.C.T .txt Document/Site Dossier/Floor Dossier/` (plain-text reading copies)
 
-Each floor dossier follows the ACT Floor Record Standard and carries its own Dossier Number in the `FLOOR-DOSSIER` series. Floor dossiers are written for all five primary SITES and for the four SUB-SITES with numbered buried components (Glass Orchard Relay, Frost Hollow Depot, Silent Reed Annex, and Ash Tide Watchpoint). **ACT-SUB-04-BR-C, the Hollow Canopy Enclosure**, is a concealed-perimeter installation rather than a building-dominant facility: it carries no numbered floor register, and its operational architecture is documented through its concealed perimeter sectors and field stations rather than floor dossiers.
+Each floor dossier follows the ACT Floor Record Standard and carries its own Dossier
+Number in the `FLOOR-DOSSIER`
+series. Floor dossiers are written for all five primary SITES and for the four
+SUB-SITES with numbered buried
+components (Glass Orchard Relay, Frost Hollow Depot, Silent Reed Annex, and Ash Tide Watchpoint).
+**ACT-SUB-04-BR-C,
+the Hollow Canopy Enclosure**, is a concealed-perimeter installation rather than a building-dominant facility: it
+carries no numbered floor register, and its operational architecture is documented through its concealed
+perimeter
+sectors and field stations rather than floor dossiers.

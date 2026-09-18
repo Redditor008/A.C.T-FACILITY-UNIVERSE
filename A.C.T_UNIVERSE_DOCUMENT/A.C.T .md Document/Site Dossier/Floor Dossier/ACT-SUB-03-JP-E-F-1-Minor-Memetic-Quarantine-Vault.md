@@ -24,14 +24,16 @@ Silent Reed Annex**.
 The Silent Reed Annex is the buffer between the Kurokawa Archive Node and
 the overflow: a sub-site where minor memetic material, infohazards, and
 redaction work wait without congesting the parent node. Its deepest level,
-F-1, is where the buffered material that must not be read freely is held —
+F-1, is where the buffered material that must not be read freely is held
+—
 low-to-mid memetic and infohazard material under visual-denial and
 document-quarantine conditions. Material here is temporary: the annex
 buffers, it does not bury. During a breach response, **closing F-1 to the
 outside** seals the level.
 
 This dossier records the floor in full institutional language: what it is,
-what it holds, how it is built, how it is guarded, and how a vault built
+what it holds, how it is built, how it is guarded, and how a
+vault built
 for temporary quarantine serves the eastern archive's buffer doctrine.
 
 ---

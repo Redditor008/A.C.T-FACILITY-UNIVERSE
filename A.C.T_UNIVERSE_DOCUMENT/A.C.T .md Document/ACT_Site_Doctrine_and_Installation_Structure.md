@@ -10,16 +10,26 @@
 ---
 
 ## Purpose
-This file defines the official A.C.T understanding of **SITE**, **SUB-SITE**, and related installation terminology. It exists to standardize how Facility locations are named, classified, described, and administratively recognized across all A.C.T operations.
+This file defines the official A.C.T understanding of **SITE**, **SUB-SITE**, and related installation terminology.
+It
+exists to standardize how Facility locations are named, classified, described, and administratively recognized across
+all A.C.T operations.
 
-A.C.T does not treat every building, bunker, laboratory, or safehouse as equal. Some installations are full institutional bodies. Others are attached support points, hidden relays, or narrow-purpose containment structures. Site doctrine exists so that personnel can distinguish between them clearly.
+A.C.T does not treat every building, bunker, laboratory, or safehouse as equal. Some installations
+are full
+institutional bodies. Others are attached support points, hidden relays, or narrow-purpose containment structures.
+Site doctrine exists so that personnel can distinguish between them clearly.
 
 ---
 
 ## 1. Definition of a SITE
-Within A.C.T terminology, a **SITE** is a **major permanent installation** recognized as an official operational body of the Facility.
+Within A.C.T terminology, a **SITE** is a **major permanent installation** recognized as an official
+operational body
+of the Facility.
 
-A SITE is not merely a structure. It is a complete institutional node capable of maintaining one or more essential Facility functions at independent scale, including:
+A SITE is not merely a structure. It is a complete institutional node capable
+of maintaining one or more essential
+Facility functions at independent scale, including:
 
 - anomaly containment
 - anomaly research
@@ -32,15 +42,19 @@ A SITE is not merely a structure. It is a complete institutional node capable of
 - intelligence review
 - command continuity
 
-A SITE possesses enough structural, administrative, and operational completeness to be treated as a true body of A.C.T rather than a temporary extension of one.
+A SITE possesses enough structural, administrative, and operational completeness to be treated as a
+true body of A.C.T
+rather than a temporary extension of one.
 
 ### Simple Doctrine Statement
-> A **SITE** is a full-scale A.C.T installation with permanent authority, infrastructure, and recognized anomaly-management capacity.
+> A **SITE** is a full-scale A.C.T installation with permanent authority, infrastructure, and recognized
+  anomaly-management capacity.
 
 ---
 
 ## 2. Criteria Required for SITE Recognition
-An installation may only be recognized as an official **SITE** if it possesses all or most of the following:
+An installation may only be recognized as an official **SITE** if it possesses all
+or most of the following:
 
 - permanent A.C.T control
 - secure and recognized command structure
@@ -51,17 +65,27 @@ An installation may only be recognized as an official **SITE** if it possesses a
 - regulated personnel access structure
 - operational role in the wider anomaly-management network
 
-If a location lacks these features, it may still be useful, but it is not a true SITE under formal doctrine.
+If a location lacks these features, it may still be useful, but it is
+not a true SITE under formal doctrine.
 
 ---
 
 ## 3. Definition of a SUB-SITE
-A **SUB-SITE** is a secondary A.C.T installation attached to a larger site, command body, or regional authority structure.
+A **SUB-SITE** is a secondary A.C.T installation attached to a larger site, command body,
+or regional authority
+structure.
 
-A SUB-SITE is still official and operationally valid, but it does not possess the same degree of institutional completeness or sovereignty as a full SITE. It usually serves a narrower purpose and depends on a higher command body for broader authority, support, or oversight.
+A SUB-SITE is still official and operationally valid, but it does not possess the
+same degree of institutional
+completeness or sovereignty as a full SITE. It usually serves a narrower purpose and
+depends on a higher command body
+for broader authority, support, or oversight.
 
 ### Simple Doctrine Statement
-> A **SUB-SITE** is a smaller or specialized A.C.T installation operating under a larger SITE or regional command structure.
+  A **SUB-SITE** is a smaller or specialized A.C.T installation operating under a larger
+  SITE
+  or regional command
+  structure.
 
 ---
 
@@ -106,7 +130,8 @@ A SUB-SITE may exist for one or more of the following reasons:
 - hidden specialty research
 - anomaly-specific infrastructure support
 
-A SUB-SITE is therefore not a lesser concept in narrative importance. It is simply a **narrower institutional shape**.
+A SUB-SITE is therefore not a lesser concept in narrative importance. It is simply
+a **narrower institutional shape**.
 
 ---
 
@@ -117,16 +142,21 @@ A.C.T recognizes multiple installation classes.
 A major central installation with broad authority, heavy divisional presence, and long-term strategic significance.
 
 ### 6.2 Regional Site
-A major official installation responsible for one large region of a country, continent, or strategic anomaly zone.
+A major official installation responsible for one large region of a country, continent, or
+strategic anomaly zone.
 
 ### 6.3 Sub-Site
 A secondary installation attached to a larger site or regional command structure.
 
 ### 6.4 Relay Site
-A low-footprint support location used for archive transfer, secure movement, witness routing, or controlled logistical continuity.
+A low-footprint support location used for archive transfer, secure movement, witness routing, or controlled
+logistical
+continuity.
 
 ### 6.5 Black Site
-A highly restricted installation not broadly acknowledged even inside the Facility. Usually associated with sealed projects, prohibited research, or politically dangerous operations.
+A highly restricted installation not broadly acknowledged even inside the Facility. Usually associated with
+sealed
+projects, prohibited research, or politically dangerous operations.
 
 ---
 
@@ -264,7 +294,8 @@ Active / Restricted / Under Expansion / Compromised / Sealed / Archived
 ## 13. Doctrinal Clarification
 A SITE is not defined by physical size alone.
 
-A large building may still be only a relay or support node if it lacks:
+A large building may still be only a relay or support node if it
+lacks:
 - command authority
 - containment sovereignty
 - archival significance
@@ -281,4 +312,14 @@ The doctrine therefore prioritizes **institutional role** over simple architectu
 ---
 
 ## 14. Final Site Doctrine Statement
-> Within A.C.T operational terminology, a **SITE** refers to a major permanent installation with the authority, infrastructure, and divisional capacity to function as an official anomaly-management body of the Facility. A **SUB-SITE** refers to a secondary or specialized installation operating under a larger site or regional command structure, usually assigned a narrower purpose such as observation, overflow containment, archive relay, regional support, or covert anomaly management. The distinction between SITE and SUB-SITE is not one of worth, but of scale, sovereignty, and institutional completeness.
+  Within A.C.T operational terminology, a **SITE** refers to a major permanent installation with
+  the
+  authority,
+  infrastructure, and divisional capacity to function as an official anomaly-management body of the Facility.
+  A
+  **SUB-SITE** refers to a secondary or specialized installation operating under a larger site or
+  regional command
+  structure, usually assigned a narrower purpose such as observation, overflow containment, archive relay, regional
+  support, or covert anomaly management. The distinction between SITE and SUB-SITE is not one
+  of worth, but of scale,
+  sovereignty, and institutional completeness.

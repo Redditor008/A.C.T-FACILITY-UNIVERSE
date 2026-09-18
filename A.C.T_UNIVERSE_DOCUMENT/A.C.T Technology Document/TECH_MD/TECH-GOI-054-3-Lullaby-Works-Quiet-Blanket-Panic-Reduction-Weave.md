@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Containment, Archive, Intelligence, Civil Covert, Site Command |
 | OPERATIONAL STATUS | PARTIALLY RECOVERED / UNITS REMAIN IN CIVILIAN HOMES |
 | RISK STATUS | PROTECTIVE IN SERVICE / HAZARDOUS IF FORCE-OPENED OR LAUNDERED INCORRECTLY |
-| CLEARANCE REQUIRED | Level 3 for instruction handling; Level 4 for weave and sample inspection; Level 5 for cutting, laundering trials, or lot tracing |
+| CLEARANCE REQUIRED | Level 3 for instruction handling; Level 4 for weave and sample inspection; Level 5<br>for cutting, laundering trials, or<br>lot tracing |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -21,47 +21,89 @@
 | AUTHORITY | Subject Care Division, Medical Division, and Central Archive |
 
 #### Archive Note
-The Quiet Blanket is the third Lullaby Works product expanded into an individual technology record. It is catalogued because it is the only item in the recovered range whose stated function is a partial effect, and because that partiality is the entire design.
+The Quiet Blanket is the third Lullaby Works product expanded into an individual technology
+record. It is catalogued
+because it is the only item in the recovered range whose stated function is
+a partial effect, and because that
+partiality is the entire design.
 
-The Lullaby Works dossier records blankets that **reduce recurring post-incident panic without full memory suppression**. That single clause distinguishes the product from A.C.T amnestic practice, and it is the reason this record exists. A.C.T routinely removes memory to end panic. Lullaby Works deliberately does not.
+The Lullaby Works dossier records blankets that **reduce recurring post-incident panic without full memory
+suppression**. That single clause distinguishes the product from A.C.T amnestic practice, and it is
+the reason this
+record exists. A.C.T routinely removes memory to end panic. Lullaby Works deliberately does not.
 
-No complete unit has been recovered for destructive study. Cut samples exist; a full blanket has never been opened, and the dossier warns that several Lullaby Works items fail violently or lose protective value when opened by force.
+No complete unit has been recovered for destructive study. Cut samples exist; a full
+blanket has never been opened,
+and the dossier warns that several Lullaby Works items fail violently or lose protective
+value when opened by force.
 
 Controlled label: **LULLABY WORKS CHILD-CARE DISCLOSURE LIMIT**.
 
 Core handling rule:
 
 ```text
-IT DOES NOT MAKE THE CHILD FORGET. IT MAKES THE REMEMBERING BEARABLE. THAT IS NOT THE SAME TOOL.
+IT DOES NOT MAKE THE CHILD FORGET. IT MAKES THE REMEMBERING BEARABLE. THAT IS
+NOT THE SAME TOOL.
 ```
 
 ---
 
 ## FUNCTION SUMMARY
 
-The Quiet Blanket dampens recurring post-incident panic in a child who has survived or witnessed an anomalous event. It does not sedate, does not suppress memory, and does not prevent the child from describing what happened.
+The Quiet Blanket dampens recurring post-incident panic in a child who has survived or
+witnessed an anomalous event.
+It does not sedate, does not suppress memory, and does not prevent the child
+from describing what happened.
 
-Confirmed behaviour is reduction in recurrence, not prevention. Witness and caregiver reports describe fewer night episodes over successive nights rather than an immediate effect on the first night. The dossier's phrasing — reduce recurring panic — indicates a cumulative rather than an instantaneous function, and A.C.T treats it that way: the blanket is assessed over nights, not minutes.
+Confirmed behaviour is reduction in recurrence, not prevention. Witness and caregiver reports describe fewer
+night
+episodes over successive nights rather than an immediate effect on the first night. The
+dossier's phrasing — reduce
+recurring panic — indicates a cumulative rather than an instantaneous function, and A.C.T treats
+it that way: the
+blanket is assessed over nights, not minutes.
 
-The boundary of the effect is explicit in the source. Memory is **not** suppressed. A child under a Quiet Blanket still remembers the event and can still recount it. Subject Care Division records this as the product's most important property, because it preserves witness value while reducing harm, which no A.C.T amnestic does.
+The boundary of the effect is explicit in the source. Memory is **not** suppressed.
+A child under a Quiet Blanket
+still remembers the event and can still recount it. Subject Care Division records this
+as the product's most important
+property, because it preserves witness value while reducing harm, which no A.C.T amnestic does.
 
-The blanket does not detect anything, does not relay anything, and does not deter anything. It is a damping surface, not a sensor.
+The blanket does not detect anything, does not relay anything, and does not deter
+anything. It is a damping surface,
+not a sensor.
 
 ---
 
 ## ORIGIN AND CUSTODY
 
-Manufactured by Lullaby Works. No lot label has been recovered for the bedding line. The dossier records the same distribution routes as the rest of the range: purchase, donation, inheritance, misplaced delivery, school counsellor issue, hospital discharge bag, or shelter supply.
+Manufactured by Lullaby Works. No lot label has been recovered for the bedding line.
+The dossier records the same
+distribution routes as the rest of the range: purchase, donation, inheritance, misplaced delivery, school
+counsellor
+issue, hospital discharge bag, or shelter supply.
 
-Custody is joint between Subject Care Division and Medical Division, because the product's function overlaps with post-incident psychiatric care. Engineering Division holds cut samples only. No blanket in a child's possession may be removed without Subject Care authorization, and Medical Division must be consulted before any blanket is withdrawn from a child in active recovery.
+Custody is joint between Subject Care Division and Medical Division, because the product's function
+overlaps with
+post-incident psychiatric care. Engineering Division holds cut samples only. No blanket in a child's
+possession may be
+removed without Subject Care authorization, and Medical Division must be consulted before any blanket
+is withdrawn
+from a child in active recovery.
 
-A.C.T holds no complete unit. The decision not to seek one deliberately was made after the Listening Plush force-opening loss, recorded in TECH-GOI-054-2.
+A.C.T holds no complete unit. The decision not to seek one deliberately was made
+after the Listening Plush
+force-opening loss, recorded in TECH-GOI-054-2.
 
 ---
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-The unit presents as an ordinary child's blanket of domestic size and weight. Nothing about the exterior indicates function, consistent with the Lullaby Works design preference for soft materials, low-threat shapes, and familiar domestic objects.
+The unit presents as an ordinary child's blanket of domestic size and weight. Nothing
+about the exterior indicates
+function, consistent with the Lullaby Works design preference for soft materials, low-threat shapes, and
+familiar
+domestic objects.
 
 Known external features:
 
@@ -72,68 +114,145 @@ Known external features:
 
 Known construction findings:
 
-- material samples taken from a unit **remain warm when separated from the item body**, the same finding recorded for the plush and the strongest physical evidence that the textile is not inert;
-- fibre comparison against commercial children's bedding has not produced a match, and Engineering has not identified the fibre type;
-- the weave does not correspond to any pattern in the Engineering textile reference set.
+  material samples taken from a unit **remain warm when separated from the item
+  body**,
+  the same finding recorded for
+  the plush and the strongest physical evidence that the textile is not inert;
+  fibre comparison against commercial children's bedding has not produced a match, and Engineering
+  has
+  not identified
+  the fibre type;
+  the weave does not correspond to any pattern in the Engineering textile reference
+  set.
 
-The blanket carries the **half-moon** mark and the **three quiet nights** line. It is the only recovered item whose instruction card sets out no handling rule whatsoever, and that absence is informative: the manufacturer told caregivers nothing to do, which is what you write for a product whose function depends on being left exactly where it is.
+The blanket carries the **half-moon** mark and the **three quiet nights** line. It is
+the only recovered item whose
+instruction card sets out no handling rule whatsoever, and that absence is informative: the
+manufacturer told
+caregivers nothing to do, which is what you write for a product whose function
+depends on being left exactly where it
+is.
 
-Laundering behaviour is unknown and is an active risk. A.C.T has not established whether washing degrades, resets, or destroys the weave, and no laundering trial has been authorized because it would consume a unit still in service.
+Laundering behaviour is unknown and is an active risk. A.C.T has not established whether
+washing degrades, resets, or
+destroys the weave, and no laundering trial has been authorized because it would consume
+a unit still in service.
 
-What separates the blanket from the rest of the range is its timescale. Everything else in the Lullaby Works set responds inside a single night. The blanket works across nights, which makes it the only item A.C.T can watch improve a child's condition and the only one that can fail slowly enough for nobody to notice until it has.
+What separates the blanket from the rest of the range is its timescale. Everything
+else in the Lullaby Works set
+responds inside a single night. The blanket works across nights, which makes it the
+only item A.C.T can watch improve
+a child's condition and the only one that can fail slowly enough for nobody
+to notice until it has.
 
 ---
 
 ## OPERATING PROCEDURE
 
-Blankets in a child's possession stay there. Field personnel do not confiscate, cut, weigh, wash, or test a service unit.
+Blankets in a child's possession stay there. Field personnel do not confiscate, cut, weigh,
+wash, or test a service
+unit.
 
 Standing rules:
 
-- do not cut a service unit; A.C.T holds samples only, taken from units already out of service;
-- do not wash, dry, or iron a service unit, and do not advise a family to do so until laundering behaviour is established;
-- do not remove a blanket from a child in active recovery without Medical Division concurrence;
-- assess effect over nights rather than immediately, and record night-by-night episode counts rather than a single observation;
-- do not present the blanket to a family as treatment for the event itself. It reduces recurrence of panic. It does not resolve the incident.
+  do not cut a service unit; A.C.T holds samples only, taken from units
+  already
+  out of service;
+  do not wash, dry, or iron a service unit, and do not advise
+  a
+  family to do so until laundering behaviour is
+  established;
+  do not remove a blanket from a child in active recovery without Medical
+  Division
+  concurrence;
+  assess effect over nights rather than immediately, and record night-by-night episode counts rather
+  than
+  a single
+  observation;
+  do not present the blanket to a family as treatment for the event
+  itself.
+  It reduces recurrence of panic. It does not
+  resolve the incident.
 
-Where a family asks whether the blanket is safe to keep, Subject Care answers directly and does not deflect. The product is protective in every case A.C.T has observed, and refusal to say so damages trust without improving safety.
+Where a family asks whether the blanket is safe to keep, Subject Care answers
+directly and does not deflect. The
+product is protective in every case A.C.T has observed, and refusal to say so
+damages trust without improving safety.
 
-Sample inspection proceeds fibre, weave, hem, tag, plate, warmth at rest. Warmth is recorded, not investigated in the field.
+Sample inspection proceeds fibre, weave, hem, tag, plate, warmth at rest. Warmth is recorded,
+not investigated in the
+field.
 
 ---
 
 ## KNOWN LIMITS
 
-The blanket does not stop a panic episode in progress. It reduces how often episodes return.
+The blanket does not stop a panic episode in progress. It reduces how often
+episodes return.
 
-It does not suppress memory, and must never be recorded as having done so. Any A.C.T file describing a Quiet Blanket as amnestic is incorrect.
+It does not suppress memory, and must never be recorded as having done so.
+Any A.C.T file describing a Quiet Blanket
+as amnestic is incorrect.
 
-It does not work on an adult, and A.C.T holds no observation of an adult effect.
+It does not work on an adult, and A.C.T holds no observation of an
+adult effect.
 
 It cannot be tested, cannot be repaired, and cannot be replaced by A.C.T.
 
-Laundering behaviour is the largest unresolved operational risk. A family that washes the blanket may destroy the only protective item the child has, and A.C.T currently has no guidance to give them. This is recorded as an open safety gap rather than as a theoretical concern.
+Laundering behaviour is the largest unresolved operational risk. A family that washes the blanket
+may destroy the only
+protective item the child has, and A.C.T currently has no guidance to give them.
+This is recorded as an open safety
+gap rather than as a theoretical concern.
 
-The product does not replace care. Subject Care Division warns against allowing a blanket to become the reason a child is not referred for follow-up.
+The product does not replace care. Subject Care Division warns against allowing a blanket
+to become the reason a child
+is not referred for follow-up.
 
 ---
 
 ## FAILURE HISTORY
 
 ### NO COMPLETE UNIT RECOVERED
-A.C.T holds no complete Quiet Blanket. Every attempt to obtain one for study was declined after the Listening Plush force-opening loss, in which a unit lost protective value when opened and could not be reactivated. The absence of a specimen is recorded here as a deliberate policy outcome rather than as a gap in recovery effort, so that future staff do not read it as an oversight and attempt destructive sampling on a service unit.
+A.C.T holds no complete Quiet Blanket. Every attempt to obtain one for study was
+declined after the Listening Plush
+force-opening loss, in which a unit lost protective value when opened and could not
+be reactivated. The absence of a
+specimen is recorded here as a deliberate policy outcome rather than as a gap
+in recovery effort, so that future staff
+do not read it as an oversight and attempt destructive sampling on a service
+unit.
 
 ### UNIDENTIFIED FIBRE — SAMPLE SERIES
-Fibre comparison across all held samples failed to match any commercial children's bedding fibre in the Engineering reference set, and no fibre type has been identified. The series was closed as inconclusive. No escalation route exists that does not require consuming a sample still needed for warmth observation.
+Fibre comparison across all held samples failed to match any commercial children's bedding fibre
+in the Engineering
+reference set, and no fibre type has been identified. The series was closed as
+inconclusive. No escalation route
+exists that does not require consuming a sample still needed for warmth observation.
 
 ### LAUNDERING GUIDANCE GAP — OPEN
-A caregiver asked whether the blanket could be washed. A.C.T had no answer and recorded none. No trial has been authorized. The gap remains open and is carried in OPEN QUESTIONS. It is logged here so that the absence of guidance is visible rather than assumed.
+A caregiver asked whether the blanket could be washed. A.C.T had no answer and
+recorded none. No trial has been
+authorized. The gap remains open and is carried in OPEN QUESTIONS. It is logged
+here so that the absence of guidance
+is visible rather than assumed.
 
 ---
 
 ## DIVISION USE
 
-Subject Care Division authorizes retention, transfer, and removal, and owns the family conversation. Medical Division advises on post-incident recovery, sets the night-by-night assessment window, and must concur before withdrawal from a child in active care. Engineering Division inspects samples, records weave and fibre findings, and holds the warmth observation. Containment Division treats the blanket as a care asset, not a containment asset, and does not handle it during an incident. Archive holds inspection records and sample provenance under restricted access. Intelligence tracks the half-moon stitch, the three-quiet-nights line, and any appearance of the weave in unrelated textile products. Civil Covert maintains the cover position for families.
+Subject Care Division authorizes retention, transfer, and removal, and owns the family conversation. Medical
+Division
+advises on post-incident recovery, sets the night-by-night assessment window, and must concur before withdrawal
+from a
+child in active care. Engineering Division inspects samples, records weave and fibre findings, and
+holds the warmth
+observation. Containment Division treats the blanket as a care asset, not a containment asset,
+and does not handle it
+during an incident. Archive holds inspection records and sample provenance under restricted access. Intelligence
+tracks the half-moon stitch, the three-quiet-nights line, and any appearance of the weave in
+unrelated textile
+products. Civil Covert maintains the cover position for families.
 
 ---
 
@@ -144,23 +263,34 @@ Subject Care Division authorizes retention, transfer, and removal, and owns the 
 - TECH-GOI-054-2 — Lullaby Works Listening Plush Distress Transducer;
 - TECH-GOI-054-4 — Lullaby Works Nightmare-Loop Music Box Interrupter;
 - TECH-GOI-054-5 — Lullaby Works Warranty Recall and Failure Ledger;
-- ACT_Personnel_Exposure_E_Class_and_Resilience_Doctrine — for the contrast between memory suppression and memory tolerance;
+- ACT_Personnel_Exposure_E_Class_and_Resilience_Doctrine — for the contrast between memory suppression and memory
+  tolerance;
 - Subject Care Division post-incident recovery guidance [restricted].
 
-A textile whose fibre Engineering cannot identify cannot be specified in the Visual Reference Guide, and a product with no recovered lot label cannot be numbered in the Master Catalog. The omission follows from what A.C.T failed to recover, not from a filing decision.
+A textile whose fibre Engineering cannot identify cannot be specified in the Visual Reference
+Guide, and a product
+with no recovered lot label cannot be numbered in the Master Catalog. The omission
+follows from what A.C.T failed to
+recover, not from a filing decision.
 
 ---
 
 ## OPEN QUESTIONS
 
-- What in the weave produces the damping effect, and is the pattern itself functional or only its carrier?
-- What fibre is the blanket made from, and why does it match nothing in the reference set?
+  What in the weave produces the damping effect, and is the pattern itself
+  functional
+  or only its carrier?
+  What fibre is the blanket made from, and why does it match nothing
+  in
+  the reference set?
 - Why do separated samples remain warm, and does warmth correlate with remaining function?
 - What happens when the blanket is washed, dried, or ironed?
 - Over how many nights does the effect accumulate, and does it plateau?
 - Does the effect persist if the blanket is moved to a different child?
 - Does a bedding line lot label exist?
-- Why did the manufacturer choose not to suppress memory, and is that an ethical position or a technical limit?
+  Why did the manufacturer choose not to suppress memory, and is that an
+  ethical
+  position or a technical limit?
 - Does the blanket retain anything of the event it damps?
 
 ---
@@ -173,4 +303,5 @@ A textile whose fibre Engineering cannot identify cannot be specified in the Vis
 
 **Review Status:** Active restricted GOI technology record; manufacturer identity and laundering behaviour unresolved
 
-**Next Review:** After any laundering observation, any new unit recovery, or any fibre identification result
+**Next Review:** After any laundering observation, any new unit recovery, or any fibre identification
+result

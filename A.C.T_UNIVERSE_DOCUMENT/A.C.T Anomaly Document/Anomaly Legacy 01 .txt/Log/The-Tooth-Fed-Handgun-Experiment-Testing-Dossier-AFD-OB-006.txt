@@ -163,7 +163,8 @@ FINDINGS:
    - Immature rounds remain soft for 11 to 38 seconds after discharge.
 
 CONCLUSION:
-The ammunition is not loaded into the object. It is grown by the object. The
+The ammunition is not loaded into the object. It is grown by the object.
+The
 rounds should be classified as temporary biological projectiles with ballistic
 function rather than ordinary ammunition.
 

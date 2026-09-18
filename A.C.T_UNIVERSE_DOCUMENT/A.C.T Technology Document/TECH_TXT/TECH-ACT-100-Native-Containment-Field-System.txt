@@ -1,40 +1,50 @@
 A.C.T FACILITY ARCHIVE FILE
 TECHNOLOGY RECORD - NATIVE CONTAINMENT FIELD SYSTEM
 
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-ACT-100                                                |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Native Containment Field System                             |
-+----------------------------+-------------------------------------------------------------+
-| SHORT NAME                 | NCFS                                                        |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY FAMILY          | IN-PLACE CONTAINMENT / FLORA MANAGEMENT / ENVIRONMENTAL    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | HOLLOW CANOPY ENCLOSURE NATIVE CONTAINMENT FIELDS          |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY CONTROLLER         | Enclosure Supervisor / Environmental Containment Lead       |
-+----------------------------+-------------------------------------------------------------+
-| ATTACHED DIVISIONS         | Environmental Containment, Research Support, Limited        |
-|                            | Security                                                    |
-+----------------------------+-------------------------------------------------------------+
-| OPERATIONAL STATUS         | ACTIVE / PLACE-BOUND FLORA CONTAINMENT USE                  |
-+----------------------------+-------------------------------------------------------------+
-| RISK STATUS                | RELOCATION FAILURE / ENVIRONMENTAL DRIFT / ROOT-SHOCK RISK |
-+----------------------------+-------------------------------------------------------------+
-| CLEARANCE REQUIRED         | Level 3 for sector duty; Level 4 for resident-field change, |
-|                            | transport-denial review, or parent-reserve override         |
-+----------------------------+-------------------------------------------------------------+
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| TECHNOLOGY DESIGNATION     | TECH-ACT-100                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| TECHNOLOGY NAME            | Native Containment Field System                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| SHORT NAME                 | NCFS                                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | IN-PLACE CONTAINMENT / FLORA MANAGEMENT / ENVIRONMENTAL                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| ORIGIN                     | HOLLOW CANOPY ENCLOSURE NATIVE CONTAINMENT FIELDS                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Enclosure Supervisor / Environmental Containment Lead                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Environmental Containment, Research Support, Limited Security                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / PLACE-BOUND FLORA CONTAINMENT USE                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| RISK STATUS                | RELOCATION FAILURE / ENVIRONMENTAL DRIFT / ROOT-SHOCK RISK                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for sector duty; Level 4 for resident-field change, transport-denial review,  |
+|                            | or parent-reserve override                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Status: Active In-Place Flora Containment Technology Record
-Distribution: Hollow Canopy Enclosure / Verde Null Bio-Reserve / Environmental Containment / Research Support / Limited Security
+Distribution: Hollow Canopy Enclosure / Verde Null Bio-Reserve / Environmental Containment / Research Support
+/
+Limited Security
 Authority: Enclosure Supervisor, Verde Null Site Command, Environmental Containment Division, and Central Archive
 
 Archive Note
-Native Containment Field System is the one-hundredth main A.C.T technology expanded into an individual record. The Hollow Canopy Enclosure dossier defines the sub-site as a concealed perimeter network for non-movable flora anomalies contained in place. It states that repeated relocation failures proved some flora anomalies safer, and only containable, where they grow. The dossier identifies native containment fields as perimeter-defined sectors where flora anomalies are managed in the environment they require.
+Native Containment Field System is the one-hundredth main A.C.T technology expanded into an individual
+record. The
+Hollow Canopy Enclosure dossier defines the sub-site as a concealed perimeter network for non-movable
+flora anomalies
+contained in place. It states that repeated relocation failures proved some flora anomalies safer,
+and only
+containable, where they grow. The dossier identifies native containment fields as perimeter-defined sectors where
+flora anomalies are managed in the environment they require.
 
-NCFS exists because for place-bound anomalous flora, the environment is not background. The environment is part of containment.
+NCFS exists because for place-bound anomalous flora, the environment is not background. The environment
+is part of
+containment.
 
 Controlled label: NCFS DO-NOT-UPROOT FIELD.
 
@@ -44,21 +54,48 @@ CONTAIN THE ROOT BY KEEPING THE WORLD AROUND IT STABLE.
 
 FUNCTION SUMMARY
 
-The Native Containment Field System is the in-place environmental containment technology used by Hollow Canopy Enclosure to manage non-movable flora anomalies inside their native or required growth fields. It combines concealed perimeters, soil-state control, canopy conditions, root-zone preservation, moisture and nutrient regulation, distance observation, resident-specific ecological boundaries, and transport denial doctrine.
+The Native Containment Field System is the in-place environmental containment technology used by Hollow
+Canopy
+Enclosure to manage non-movable flora anomalies inside their native or required growth fields. It
+combines concealed
+perimeters, soil-state control, canopy conditions, root-zone preservation, moisture and nutrient regulation, distance
+observation, resident-specific ecological boundaries, and transport denial doctrine.
 
-NCFS is not a cage placed around a plant. It is the controlled maintenance of the living field that makes containment possible. Some flora residents degrade, escalate, die, bloom destructively, or become uncontainable when moved into built chambers. The field therefore becomes the containment unit: soil, shade, fungi, water, insects, air movement, distance, and boundary discipline operating together.
+NCFS is not a cage placed around a plant. It is the controlled maintenance
+of the living field that makes containment
+possible. Some flora residents degrade, escalate, die, bloom destructively, or become uncontainable when moved
+into
+built chambers. The field therefore becomes the containment unit: soil, shade, fungi, water, insects,
+air movement,
+distance, and boundary discipline operating together.
 
-Approved roles include place-bound flora containment, native-field preservation, resident environmental management, relocation-failure prevention, transport denial support, ecological condition monitoring, low-intrusion research access, and parent-reserve sector reporting.
+Approved roles include place-bound flora containment, native-field preservation, resident environmental management,
+relocation-failure prevention, transport denial support, ecological condition monitoring, low-intrusion research
+access, and parent-reserve sector reporting.
 
 ORIGIN AND DEVELOPMENT
 
-Hollow Canopy's doctrine comes from failure. The Verde Null Bio-Reserve attempted to relocate non-movable flora anomalies into interior containment, and the results were degradation, escalation, or death. Those failures established the relocation-failure records that later shaped the enclosure. Moving the resident was not an improvement to containment. For some residents, moving the resident was the breach.
+Hollow Canopy's doctrine comes from failure. The Verde Null Bio-Reserve attempted to relocate non-movable
+flora
+anomalies into interior containment, and the results were degradation, escalation, or death. Those failures
+established the relocation-failure records that later shaped the enclosure. Moving the resident was not
+an improvement
+to containment. For some residents, moving the resident was the breach.
 
-The native containment field developed as the answer. Rather than pull the anomaly into a room, A.C.T defined the area around it as the room. The earliest fields were simple perimeters. Modern NCFS sectors integrate environmental monitoring, concealed staff access, research observation, perimeter discipline, and parent-reserve authority.
+The native containment field developed as the answer. Rather than pull the anomaly into
+a room, A.C.T defined the area
+around it as the room. The earliest fields were simple perimeters. Modern NCFS sectors
+integrate environmental
+monitoring, concealed staff access, research observation, perimeter discipline, and parent-reserve authority.
 
 PHYSICAL OR SYSTEM DESCRIPTION
 
-An NCFS sector includes a resident growth zone, root-protection boundary, soil and moisture monitoring points, concealed perimeter markers, canopy condition controls, minimal-intrusion paths, environmental sampling posts, remote observation fixtures, incursion alarms, and sector condition ledgers. Built structures are secondary and minimized to avoid disturbing the resident field.
+An NCFS sector includes a resident growth zone, root-protection boundary, soil and moisture monitoring
+points,
+concealed perimeter markers, canopy condition controls, minimal-intrusion paths, environmental sampling posts, remote
+observation fixtures, incursion alarms, and sector condition ledgers. Built structures are secondary and minimized
+to
+avoid disturbing the resident field.
 
 Known components include:
 
@@ -73,36 +110,64 @@ Known components include:
 - incursion alarm line;
 - transport-denial field tag.
 
-The field is treated as equipment because careless ecological change can be as damaging as physical sabotage.
+The field is treated as equipment because careless ecological change can be as damaging
+as physical sabotage.
 
 OPERATING PROCEDURE
 
-During routine operation, Environmental Containment staff inspect perimeter integrity, soil condition, canopy state, water flow, resident growth behavior, and any sign of external approach. Research Support performs observation under distance and minimal-intrusion limits. Limited Security enforces concealed boundaries and responds to incursion without damaging the field.
+During routine operation, Environmental Containment staff inspect perimeter integrity, soil condition, canopy state,
+water flow, resident growth behavior, and any sign of external approach. Research Support performs
+observation under
+distance and minimal-intrusion limits. Limited Security enforces concealed boundaries and responds to incursion
+without damaging the field.
 
-No resident-field alteration may occur without parent-reserve authorization. No resident under transport denial may be moved as a convenience, experiment, or emergency shortcut. If resident condition changes, staff first check the field before touching the resident. If the field fails, containment has already entered emergency review.
+No resident-field alteration may occur without parent-reserve authorization. No resident under transport denial may
+be
+moved as a convenience, experiment, or emergency shortcut. If resident condition changes, staff first
+check the field
+before touching the resident. If the field fails, containment has already entered emergency review.
 
 KNOWN LIMITS
 
-NCFS depends on environmental continuity. Weather, disease, fire, flood, soil contamination, animal movement, human incursion, fungal shift, seasonal stress, or anomaly-driven growth can all change containment conditions. The system also depends on staff patience. In-place containment can appear passive, but passive-looking containment may require constant ecological attention.
+NCFS depends on environmental continuity. Weather, disease, fire, flood, soil contamination, animal movement, human
+incursion, fungal shift, seasonal stress, or anomaly-driven growth can all change containment conditions. The
+system
+also depends on staff patience. In-place containment can appear passive, but passive-looking containment may
+require
+constant ecological attention.
 
-Known failure modes include root-shock, field drift, perimeter erosion, canopy loss, water change, invasive species introduction, unauthorized sampling, resident misread, research intrusion, and command pressure to relocate material that doctrine says must remain in place.
+Known failure modes include root-shock, field drift, perimeter erosion, canopy loss, water change, invasive
+species
+introduction, unauthorized sampling, resident misread, research intrusion, and command pressure to relocate material
+that doctrine says must remain in place.
 
 FAILURE HISTORY
 
 NCFS-Relocation-Failure Formation
-The Hollow Canopy dossier records repeated failed relocation attempts as the origin of the enclosure's doctrine. NCFS formalizes the lesson that some flora anomalies are contained by preserving location rather than by removing them from it.
+The Hollow Canopy dossier records repeated failed relocation attempts as the origin of the
+enclosure's doctrine. NCFS
+formalizes the lesson that some flora anomalies are contained by preserving location rather than
+by removing them from
+it.
 
 NCFS-Native Field Expansion Review
-Early native fields relied on simple boundaries. Later review added environmental monitoring because the resident's field could drift before visible growth changed.
+Early native fields relied on simple boundaries. Later review added environmental monitoring because the
+resident's
+field could drift before visible growth changed.
 
 NCFS-Transport Denial Enforcement Drill
-A simulated emergency transfer request tested staff willingness to refuse movement. Current procedure treats transport denial as a containment requirement, not a scheduling obstacle.
+A simulated emergency transfer request tested staff willingness to refuse movement. Current procedure treats
+transport
+denial as a containment requirement, not a scheduling obstacle.
 
 DIVISION USE
 
-Environmental Containment operates the field and resident environment. Research Support studies behavior, growth patterns, and environmental interaction under parent-reserve authority. Limited Security protects the perimeter and responds to incursions. Verde Null Site Command controls resident-field change and transport-denial exceptions.
+Environmental Containment operates the field and resident environment. Research Support studies behavior, growth
+patterns, and environmental interaction under parent-reserve authority. Limited Security protects the perimeter and
+responds to incursions. Verde Null Site Command controls resident-field change and transport-denial exceptions.
 
-NCFS doctrine holds that some residents are safer because they are not rescued from the place that contains them.
+NCFS doctrine holds that some residents are safer because they are not rescued from
+the place that contains them.
 
 CROSS-REFERENCES
 
@@ -126,5 +191,8 @@ FILE METADATA
 
 Created: 2026-09-16
 Author Desk: Enclosure Supervisor / Environmental Containment Lead / Central Archive
-Review Status: Active native containment field record; live sector maps, resident names, and environmental thresholds censored
-Next Review: After any relocation request, field drift, resident condition change, incursion, transport-denial dispute, or parent-reserve sector review
+Review Status: Active native containment field record; live sector maps, resident names, and environmental
+thresholds
+censored
+Next Review: After any relocation request, field drift, resident condition change, incursion, transport-denial
+dispute, or parent-reserve sector review

@@ -29,7 +29,8 @@ under continuous monitoring, in the rows of Small, Medium, and Large Boxes
 that give the floor its operational character.
 
 This dossier records the floor in full institutional language: what it is,
-what it holds, how it is built, how it is run, and how it absorbs the
+what it holds, how it is built, how it is run, and how it
+absorbs the
 constant flow of recovered material that gives Redwood Veil its reason to
 exist.
 
@@ -59,7 +60,8 @@ doctrine
 ## 2. Dossier Purpose
 
 Every recovery operation that Redwood Veil conducts returns with something.
-Most of what returns is not a signature hazard and not a deep secret — it is
+Most of what returns is not a signature hazard and not a deep secret
+— it is
 an object that should not exist, behaving according to rules that are
 understood well enough to hold it safely under ordinary conditions.
 
@@ -203,7 +205,8 @@ routes. The floor comprises:
 
 ### 7.2 The Box System
 
-Holding units on F-3 are graduated by size — Small, Medium, and Large — and
+Holding units on F-3 are graduated by size — Small, Medium, and Large —
+and
 each Box is an independent containment unit with its own monitoring
 connection, environmental control, and documentation identity. The Box
 system allows the floor to hold a large and varied population under a
@@ -405,6 +408,7 @@ largest holding level in the complex, where the recovered majority of the
 site's object population lives in graduated Boxes under continuous
 monitoring and exact documentation.
 
-It is the floor where the complex does most of its containing — not the
+It is the floor where the complex does most of its containing — not
+the
 deepest, not the most restricted, but the level that gives the whole site
 its daily purpose and its reason to call itself a holding facility at all.

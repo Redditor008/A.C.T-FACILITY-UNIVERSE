@@ -112,7 +112,8 @@ TEST SUMMARY:
 
 The weapon's primary lethality mode requires a sustained 5-minute charge
 before release. The resulting bolt pierces a 5 cm hole through solid Abyssal
-Basalt (Item 50) at ranges up to 550 m. The 5-minute charge time is analyzed
+Basalt (Item 50) at ranges up to 550 m. The 5-minute charge time is
+analyzed
 as a mathematical necessity for stabilizing the bolt's trajectory.
 
 RESTRICTIONS:

@@ -6,9 +6,15 @@ Distribution: Internal / Field / Archive / Civil Covert / Medical Care
 Authority: Central Archive and Field Operating Chief Council  
 
 ### Archive Note
-This folder holds reusable A.C.T working forms. A working form is an in-world document that personnel can copy, complete, attach to an anomaly record, or route through the archive. It is not a report about repository maintenance and it is not a planning note.
+This folder holds reusable A.C.T working forms. A working form is an in-world document
+that personnel can copy,
+complete, attach to an anomaly record, or route through the archive. It is not
+a report about repository maintenance
+and it is not a planning note.
 
-The forms in this folder exist to make operations repeatable without flattening the human or anomalous details that make each case dangerous.
+The forms in this folder exist to make operations repeatable without flattening the human
+or anomalous details that
+make each case dangerous.
 
 ---
 
@@ -27,20 +33,24 @@ Use this folder for blank or semi-blank operational forms connected to:
 - cross-containment request routing;
 - transformation review attachments.
 
-Full doctrine remains in the parent document folder. Filled case records belong with the relevant anomaly, GOI, site, or operational dossier.
+Full doctrine remains in the parent document folder. Filled case records belong with the
+relevant anomaly, GOI, site,
+or operational dossier.
 
 ---
 
 ## Twin Rule
 
-Every Markdown form in this folder requires a plain-text mirror in the matching text folder:
+Every Markdown form in this folder requires a plain-text mirror in the matching text
+folder:
 
 text
 A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Operational Forms/
 A.C.T_UNIVERSE_DOCUMENT/A.C.T .txt Document/Operational Forms/
 
 
-The Markdown form is the editable authority copy. The text form is the plain reading and field-copy version.
+The Markdown form is the editable authority copy. The text form is the plain
+reading and field-copy version.
 
 ---
 
@@ -59,7 +69,9 @@ ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.txt
 
 ## Storage Rule
 
-Do not store completed witness records in this folder. Completed forms should be copied into the relevant case location, normally one of:
+Do not store completed witness records in this folder. Completed forms should be copied
+into the relevant case
+location, normally one of:
 
 text
 A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/[CASE FAMILY]/Log/

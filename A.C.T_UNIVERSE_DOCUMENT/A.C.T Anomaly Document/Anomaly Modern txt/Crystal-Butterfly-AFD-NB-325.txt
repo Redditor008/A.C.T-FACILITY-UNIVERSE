@@ -72,7 +72,8 @@ PHYSICAL CHARACTERISTICS:
    functions as the primary intelligence and reproductive source 
    for the colony.
 
-3. THE HIVE: A 2m x 4m structure in the shape of a half-dome merged 
+3. THE HIVE: A 2m x 4m structure in the shape of a half-dome
+merged
    with a half-cube. The exterior is composed of **Refined Steel-Dirt 
    (Item 42)** and **Abyssal Masonry (Item 20)**, over which the 
    colony has layered a thick coating of "Harden Obsidian." 

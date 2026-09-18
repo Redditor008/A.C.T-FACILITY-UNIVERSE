@@ -91,7 +91,8 @@ The panel was scheduled to deploy after activation but before terminal notation.
 
 At 59 seconds, the subject entered activation state and reported that the clock
 was moving. Exterior instruments recorded no movement of AFD-TI-003's hands.
-At 64 seconds, a plain notepad and pencil manifested on the table in front of
+At 64 seconds, a plain notepad and pencil manifested on the table in front
+of
 the subject. At 72 seconds, the subject began writing.
 
 At 76 seconds, the blackout panel deployed, fully blocking direct visual contact
@@ -298,7 +299,8 @@ UPDATED PROCEDURES:
    3. Any accidental exposure reaching 40 seconds triggers immediate blackout.
    4. Any exposure reaching 50 seconds triggers emergency shutter activation
       without awaiting command approval.
-   5. If a subject reports that the clock is moving, personnel are to treat the
+   5. If a subject reports that the clock is moving, personnel are to treat
+   the
       notation sequence as active or imminent.
    6. Once notepad manifestation occurs, personnel must not attempt physical
       interruption by entering the chamber.

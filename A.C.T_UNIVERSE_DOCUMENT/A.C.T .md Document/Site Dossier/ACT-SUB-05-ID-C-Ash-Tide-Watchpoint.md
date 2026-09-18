@@ -28,7 +28,8 @@ authority. It watches the water where the land meets the sea, and it watches
 the volcanoes that mark the region's restless geology.
 
 This dossier records the watchpoint in full institutional language: what it
-is, what it does, why it exists as a sub-site, how it is governed, and how it
+is, what it does, why it exists as a sub-site, how it is governed,
+and how it
 supports the parent relay.
 
 ---
@@ -46,7 +47,8 @@ supports the parent relay.
 **Regional Jurisdiction:** Selected island and near-shore anomaly corridors under Nusantara Deep Relay authority
 **Notable Features:** Combines maritime observation with hidden emergency intake capability
 **Current Status:** Active
-**History Notes:** Elevated from a relay watchpoint after repeated coastal anomaly appearances required permanent staffing.
+**History Notes:** Elevated from a relay watchpoint after repeated coastal anomaly appearances required permanent
+staffing.
 **Security Notes:** Capable of emergency lockdown and silent withdrawal during large-scale tectonic shifts.
 
 ---
@@ -55,7 +57,8 @@ supports the parent relay.
 
 The Nusantara Deep Relay's jurisdiction is an archipelago: thousands of
 islands, endless coastline, and a maritime environment where anomalies
-appear at the water's edge as often as in the deep. The parent relay cannot
+appear at the water's edge as often as in the deep. The parent relay
+cannot
 watch every coast from its island core — it needs distributed eyes where the
 water meets the land.
 
@@ -301,6 +304,7 @@ Deep Relay: a small station where the water meets the land, watching the
 corridors where anomalies arrive, relaying what it sees, and standing ready
 to receive — or to withdraw silently when the ground itself demands it.
 
-It is called Ash Tide because that is its nature: the meeting of volcanic ash
+It is called Ash Tide because that is its nature: the meeting of volcanic
+ash
 and ocean tide, a place where the restless earth and the restless sea come
 together — and where the Facility keeps watch over both.

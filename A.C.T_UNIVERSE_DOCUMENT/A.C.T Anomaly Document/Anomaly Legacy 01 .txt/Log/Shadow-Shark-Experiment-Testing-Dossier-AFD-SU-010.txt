@@ -47,7 +47,8 @@ INCLUDED LOG TYPES:
    - Closing Testing Note
 
 CATEGORY PURPOSE:
-To map what the shadow will eat, what it can eat, and what it has learned, so
+To map what the shadow will eat, what it can eat, and what it
+has learned, so
 that its only physical function is exercised in a direction A.C.T controls.
 
 ═══════════════════════════════════════════════════════════════════════
@@ -64,7 +65,8 @@ OBSERVATION SUMMARY:
 
 The subject is visible only as a moving shadow cast across surfaces, airborne
 dust, smoke, fog, reflective haze, or the bodies of observers. It casts no
-shadow of its own — it is the shadow — and appears darker than ordinary
+shadow of its own — it is the shadow — and appears darker than
+ordinary
 absence of light. Its dorsal fin remains visible even when the rest of the
 outline fragments.
 
@@ -128,7 +130,8 @@ projection management.
 
 TEST 010-C RECORD:
 
-A feed block was held 5 cm above the mouth silhouette by a robotic arm. The
+A feed block was held 5 cm above the mouth silhouette by a robotic
+arm. The
 shadow rose off the floor, crossed the arm's shadow, and covered the feed
 block from below. The feed vanished. The robotic arm was not damaged except
 for loss of paint on the portion shadowed by the mouth.
@@ -197,7 +200,8 @@ Testing confirms a predator reduced to the condition of a shadow while its
 appetite remains physically functional. No biological residue has ever been
 recovered, and no method exists to retrieve or confirm the final disposition
 of consumed matter. Until the destination of swallowed material is understood,
-the shadow is fed on a schedule, kept in light, and never asked where the food
+the shadow is fed on a schedule, kept in light, and never asked where
+the food
 goes.
 
 END OF FILE

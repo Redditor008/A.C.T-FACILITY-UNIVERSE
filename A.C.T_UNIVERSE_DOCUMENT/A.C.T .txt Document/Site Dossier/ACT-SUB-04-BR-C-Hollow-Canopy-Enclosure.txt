@@ -27,7 +27,8 @@ failed relocation attempts — that some anomalies are safer, and only
 containable, where they grow.
 
 This dossier records the enclosure in full institutional language: what it
-is, what it contains, why it exists as a sub-site, how it is governed, and
+is, what it contains, why it exists as a sub-site, how it is governed,
+and
 how it supports the parent reserve.
 
 ---
@@ -45,7 +46,9 @@ Containment Profile: Fixed Biological / Flora / Remote Monitoring Field
 Regional Jurisdiction: Specific reserve sectors under Verde Null Bio-Reserve control
 Notable Features: Exists as a concealed perimeter rather than a conventional building-dominant installation
 Current Status: Active
-History Notes: Recognized as a sub-site after repeated failed relocation attempts proved certain flora anomalies safer in native containment fields.
+History Notes: Recognized as a sub-site after repeated failed relocation attempts proved certain flora
+anomalies safer
+in native containment fields.
 Security Notes: Transport denial is built into containment doctrine for several housed anomalies.
 
 ---
@@ -298,4 +301,5 @@ the wilderness where impossible flora grows in its native soil, observed,
 maintained, and contained in place.
 
 It is called hollow because that is its nature: beneath an ordinary canopy,
-hidden spaces hold what must not be seen — and what must never be uprooted.
+hidden spaces hold what must not be seen — and what must never be
+uprooted.

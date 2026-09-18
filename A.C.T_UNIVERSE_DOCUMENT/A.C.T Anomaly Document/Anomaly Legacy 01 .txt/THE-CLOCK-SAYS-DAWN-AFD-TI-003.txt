@@ -57,7 +57,8 @@ NARRATIVE STATUS:    Controlled as hereditary cardiac failure and auction
 ═══════════════════════════════════════════════════════════════════════
 
 AFD-TI-003 is an antique grandfather clock measuring 211 cm in height, 49 cm
-in width, and 31 cm in depth. Its exterior is dark walnut with brass fittings,
+in width, and 31 cm in depth. Its exterior is dark walnut with brass
+fittings,
 a cracked glass clock-face cover, and a pendulum chamber containing no pendulum.
 No manufacturer's mark has been found. Carbon dating of sampled wood places the
 case between 1870 and 1890, while the clock face and internal mechanism return
@@ -66,7 +67,8 @@ contradictory dates ranging from 1912 to 1964.
 The clock's hour and minute hands are permanently fixed at 05:59. The hands do
 not move under mechanical force, electrical stimulation, vibration, disassembly,
 or direct manipulation. Attempts to remove the hands have failed; tools either
-slip from the clock face or are later found placed neatly on the floor behind
+slip from the clock face or are later found placed neatly on the floor
+behind
 the subject who attempted removal.
 
 Despite the apparent stillness of the hands, subjects who stare directly at the

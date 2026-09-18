@@ -249,7 +249,8 @@ binds to warm moisture and respiratory surfaces but loses active effect after
 chemical binder saturation. No long-term biological contamination confirmed.
 
 OPERATIONAL FINDING:
-The mist does not need to overpower a full team to create containment danger. It
+The mist does not need to overpower a full team to create containment danger.
+It
 only needs to break the first responder's ability to reject the voice.
 
 ═══════════════════════════════════════════════════════════════════════

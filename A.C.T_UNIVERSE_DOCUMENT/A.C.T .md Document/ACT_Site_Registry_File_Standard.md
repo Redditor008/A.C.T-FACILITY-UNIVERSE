@@ -10,9 +10,15 @@
 ---
 
 ## Purpose
-This file defines the official standard by which all A.C.T **SITE** and **SUB-SITE** records are to be written, stored, reviewed, and cross-referenced.
+This file defines the official standard by which all A.C.T **SITE** and **SUB-SITE** records
+are to be written,
+stored, reviewed, and cross-referenced.
 
-A site registry file is not merely a location note. It is the formal institutional record that identifies what a site is, who governs it, what it is for, what kinds of anomalies it handles, and what jurisdictional weight it carries inside the wider A.C.T network.
+A site registry file is not merely a location note. It is the formal
+institutional record that identifies what a site
+is, who governs it, what it is for, what kinds of anomalies it handles,
+and what jurisdictional weight it carries
+inside the wider A.C.T network.
 
 ---
 
@@ -34,7 +40,8 @@ Every site file must contain the following sections in recognizable order:
 13. **Security Notes**  
 14. **Cross-Referenced Files**  
 
-No official SITE or SUB-SITE is to remain active in Facility doctrine without a maintained registry body.
+No official SITE or SUB-SITE is to remain active in Facility doctrine without a
+maintained registry body.
 
 ---
 
@@ -120,12 +127,14 @@ A smaller or more specialized installation attached to a parent SITE or regional
 A support node used for transfer, archive routing, witness handling, or covert logistical continuity.
 
 ### Black Site
-A sealed or highly restricted installation associated with morally dangerous, politically dangerous, or deeply classified operations.
+A sealed or highly restricted installation associated with morally dangerous, politically dangerous, or deeply
+classified operations.
 
 ---
 
 ## 5. Containment Profile Standard
-The containment profile of a site should identify what kinds of anomalies the site is designed to manage most often.
+The containment profile of a site should identify what kinds of anomalies the site
+is designed to manage most often.
 
 Recognized common profiles include:
 - **Object-Focused**
@@ -144,7 +153,8 @@ A site may carry more than one profile if necessary.
 ---
 
 ## 6. Security Note Requirements
-Security Notes must be included whenever a site possesses one or more of the following:
+Security Notes must be included whenever a site possesses one or more of the
+following:
 - sealed floors
 - false surface identity
 - hidden elevator routes
@@ -155,7 +165,8 @@ Security Notes must be included whenever a site possesses one or more of the fol
 - prohibited civilian awareness risk
 - unusual self-contained anomaly support systems
 
-Security Notes are not optional when concealment or doctrinal risk is part of the site’s function.
+Security Notes are not optional when concealment or doctrinal risk is part of the
+site’s function.
 
 ---
 
@@ -211,4 +222,9 @@ If a registry file fails to answer those questions, it is incomplete.
 ---
 
 ## 9. Final Site Registry Statement
-> A.C.T Site Registry doctrine exists to ensure that every recognized installation—whether full SITE, SUB-SITE, relay, or blacksite—can be understood as part of the wider anomaly-management structure of the Facility. A site without a registry is a risk to archive continuity, command clarity, containment routing, and doctrinal memory.
+  A.C.T Site Registry doctrine exists to ensure that every recognized installation—whether full SITE,
+  SUB-SITE,
+  relay,
+  or blacksite—can be understood as part of the wider anomaly-management structure of the Facility.
+  A site without a
+  registry is a risk to archive continuity, command clarity, containment routing, and doctrinal memory.

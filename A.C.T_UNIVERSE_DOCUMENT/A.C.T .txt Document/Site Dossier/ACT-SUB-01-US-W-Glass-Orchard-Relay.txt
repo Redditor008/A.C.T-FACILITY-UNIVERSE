@@ -27,7 +27,8 @@ hand, the witness door, and the quiet staging yard of the western United
 States apparatus.
 
 This dossier records the relay in full institutional language: what it is,
-what it does, why it exists as a sub-site rather than a site, how it is
+what it does, why it exists as a sub-site rather than a site, how
+it is
 governed, and how it supports the parent command.
 
 ---
@@ -45,7 +46,9 @@ Containment Profile: Low-Threat Intake / Short-Term Object Storage / Witness San
 Regional Jurisdiction: Overflow support for Site 01 regional operations
 Notable Features: Cover identity as agricultural biotech station; optimized for low-visibility processing
 Current Status: Active
-History Notes: Originally established as a covert witness routing point before being upgraded into sub-site classification.
+History Notes: Originally established as a covert witness routing point before being upgraded into
+sub-site
+classification.
 Security Notes: Strictly denied long-term holding authority for high-threat anomalies.
 
 ---
@@ -96,7 +99,8 @@ are deliberately limited:
 - no standing mandate beyond support for the parent command
 
 These limits are not weaknesses. They are the relay's design — a sub-site's
-value lies in being narrow enough to be trusted with the flow that a full
+value lies in being narrow enough to be trusted with the flow that a
+full
 site cannot absorb.
 
 ---

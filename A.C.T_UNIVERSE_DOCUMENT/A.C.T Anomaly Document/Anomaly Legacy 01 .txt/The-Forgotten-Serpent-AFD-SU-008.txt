@@ -160,7 +160,8 @@ containment chamber must remain free of unauthorized electronic waste, loose
 cabling, broken sensors, discarded tools, and obsolete equipment except during
 scheduled feeding cycles.
 
-The subject is to be maintained at or near its 3 m baseline length whenever
+The subject is to be maintained at or near its 3 m baseline length
+whenever
 possible. Controlled feeding may be performed every 14 days using low-risk
 obsolete electronics cleared by Archive Review and Engineering Safety. No
 memory-bearing device may be provided until all recoverable data has been

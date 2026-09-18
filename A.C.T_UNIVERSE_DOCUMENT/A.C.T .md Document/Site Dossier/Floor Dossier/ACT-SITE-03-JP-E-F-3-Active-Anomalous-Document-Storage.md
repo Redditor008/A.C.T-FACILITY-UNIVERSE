@@ -28,7 +28,8 @@ signal-isolated storage — the working infrastructure of an archive whose
 holding population is active, monitored, and never fully trusted.
 
 This dossier records the floor in full institutional language: what it is,
-what it holds, how it is built, how it is run, and how the node holds the
+what it holds, how it is built, how it is run, and how the
+node holds the
 documents that behave like residents.
 
 ---

@@ -177,9 +177,11 @@ AUTHOR:              Archiver Division
 STATUS:              Standing
 
 Testing has established the cube's single rule and its single mercy: it cannot
-be lied about, and it cannot be lied with. The effect is permanent, so every
+be lied about, and it cannot be lied with. The effect is permanent, so
+every
 exposure is an enrollment. A.C.T's testing discipline is therefore the same as
-its containment discipline — show the cube only to those who can be trusted to
+its containment discipline — show the cube only to those who can be trusted
+to
 carry its truth without wanting to use it.
 
 END OF FILE

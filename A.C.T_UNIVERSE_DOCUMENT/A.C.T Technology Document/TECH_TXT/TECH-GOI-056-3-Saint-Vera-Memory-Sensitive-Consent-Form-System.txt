@@ -1,38 +1,60 @@
 TECH-GOI-056-3 - SAINT-VERA MEMORY-SENSITIVE CONSENT FORM SYSTEM
 
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-056-3                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Saint-Vera Memory-Sensitive Consent Form System             |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Memory-Sensitive Consent                                    |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Saint-Vera Restoration Concern                              |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Cooperative recovery, partial inspection, or restricted     |
-|                            | patient-transfer evidence                                   |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Survivor restoration, medical containment, Subject Care     |
-|                            | continuity, and consent-safe custody                        |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | PATIENT-DIGNITY DISCLOSURE LIMIT / MEDICAL-SUBJECT CARE     |
-|                            | RESTRICTED                                                  |
-+----------------------------+-------------------------------------------------------------+
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-056-3                                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| TECHNOLOGY NAME            | Saint-Vera Memory-Sensitive Consent Form System                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | Memory-Sensitive Consent                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| ORIGIN                     | Saint-Vera Restoration Concern                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| ACQUISITION STATUS         | Cooperative recovery, partial inspection, or restricted patient-transfer evidence     |
++----------------------------+---------------------------------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Survivor restoration, medical containment, Subject Care continuity, and consent-safe  |
+|                            | custody                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| ARCHIVE HANDLING           | PATIENT-DIGNITY DISCLOSURE LIMIT / MEDICAL-SUBJECT CARE RESTRICTED                    |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Functional Identity
 
-The Saint-Vera Memory-Sensitive Consent Form System is the patient-authorization technology used by the Concern when injury, transformation, sedation, amnestic exposure, or identity discontinuity makes ordinary consent unreliable. The GOI dossier identifies memory-sensitive consent forms as known assets, records failure labels rejecting procedures where a payer asked for obedience rather than healing, and preserves the line: patient said no while sedated hand said yes. A.C.T classifies this as acquired GOI technology because it can alter whether a restoration, reversal, prosthetic attachment, or custody transfer is lawful and medically ethical.
+The Saint-Vera Memory-Sensitive Consent Form System is the patient-authorization technology used by the Concern
+when
+injury, transformation, sedation, amnestic exposure, or identity discontinuity makes ordinary consent unreliable. The
+GOI dossier identifies memory-sensitive consent forms as known assets, records failure labels rejecting procedures
+where a payer asked for obedience rather than healing, and preserves the line: patient
+said no while sedated hand said
+yes. A.C.T classifies this as acquired GOI technology because it can alter whether a
+restoration, reversal, prosthetic
+attachment, or custody transfer is lawful and medically ethical.
 
 Known Structure and Use
 
-The system is not merely paperwork. It appears to test whether a signature, mark, hand movement, spoken name, restored face request, or payer instruction belongs to the patient in a meaningful way. Saint-Vera may use forms that resist coercion, detect body-state contradiction, preserve refusals after sedation, or separate family demand from survivor will. A.C.T has not confirmed the mechanism, but the failure-label evidence proves that the Concern refuses some paid procedures through a consent-screening method.
+The system is not merely paperwork. It appears to test whether a signature, mark,
+hand movement, spoken name, restored
+face request, or payer instruction belongs to the patient in a meaningful way. Saint-Vera
+may use forms that resist
+coercion, detect body-state contradiction, preserve refusals after sedation, or separate family demand from survivor
+will. A.C.T has not confirmed the mechanism, but the failure-label evidence proves that the
+Concern refuses some paid
+procedures through a consent-screening method.
 
 A.C.T Handling Rules
 
-Known components include sealed consent copies, patient cards, green-thread route notes, restoration licenses, failure labels, caregiver or advocate statements, and sealed patient ledgers. Forms may need to be read beside memory-aftercare records and Transformation Review decisions. A patient answering to an old and new name may require both entries rather than forced selection.
+Known components include sealed consent copies, patient cards, green-thread route notes, restoration licenses, failure
+labels, caregiver or advocate statements, and sealed patient ledgers. Forms may need to be
+read beside
+memory-aftercare records and Transformation Review decisions. A patient answering to an old and new
+name may require
+both entries rather than forced selection.
 
 Failure and Open Questions
 
-A.C.T must not replace a Saint-Vera consent form with a standard custody form without Medical, Legal, and Subject Care review. If the form rejects a procedure, A.C.T must preserve the rejection as evidence. It may reveal coercion, identity discontinuity, or an attempted body alteration disguised as care.
+A.C.T must not replace a Saint-Vera consent form with a standard custody form without
+Medical, Legal, and Subject Care
+review. If the form rejects a procedure, A.C.T must preserve the rejection as evidence.
+It may reveal coercion,
+identity discontinuity, or an attempted body alteration disguised as care.

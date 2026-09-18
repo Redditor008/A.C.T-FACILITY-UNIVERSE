@@ -1,39 +1,74 @@
 TECH-GOI-027-4 - ANSTRALL MARKET CONCEALED PAYMENT AND FALSE PROVENANCE CHAIN SYSTEM
 
-+----------------------------+-------------------------------------------------------------+
-| REGISTRY FIELD             | CURRENT VALUE                                               |
-+============================+=============================================================+
-| TECHNOLOGY DESIGNATION     | TECH-GOI-027-4                                              |
-+----------------------------+-------------------------------------------------------------+
-| TECHNOLOGY NAME            | Anstrall Market Concealed Payment and False Provenance      |
-|                            | Chain System                                                |
-+----------------------------+-------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Concealed Payment / Provenance Chain / Market Exchange Set  |
-+----------------------------+-------------------------------------------------------------+
-| ORIGIN                     | Anstrall Market                                             |
-+----------------------------+-------------------------------------------------------------+
-| ACQUISITION STATUS         | Partial exchange records and provenance documents recovered |
-|                            | during interdiction; no complete chain reconstructed        |
-+----------------------------+-------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Transaction interdiction, buyer-network reconstruction,     |
-|                            | financial-trail analysis, dispersal tracking                |
-+----------------------------+-------------------------------------------------------------+
-| ARCHIVE HANDLING           | TRADE-INTERDICTION RESTRICTED / ACTIVE-ROUTE DISCLOSURE     |
-|                            | LIMIT                                                       |
-+----------------------------+-------------------------------------------------------------+
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-027-4                                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| TECHNOLOGY NAME            | Anstrall Market Concealed Payment and False Provenance Chain System                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| COMMON ABBREVIATIONS       | Concealed Payment / Provenance Chain / Market Exchange Set                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| ORIGIN                     | Anstrall Market                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| ACQUISITION STATUS         | Partial exchange records and provenance documents recovered during interdiction; no   |
+|                            | complete chain reconstructed                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| PRIMARY A.C.T INTEREST     | Transaction interdiction, buyer-network reconstruction, financial-trail analysis,     |
+|                            | dispersal tracking                                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| ARCHIVE HANDLING           | TRADE-INTERDICTION RESTRICTED / ACTIVE-ROUTE DISCLOSURE LIMIT                         |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Functional Identity
 
-The Anstrall Market Concealed Payment and False Provenance Chain System is the settlement and ownership technology that allows an anomalous object to change hands without leaving a traceable record of who sold it, who carried it, or who received it. The dossier lists concealed payment and exchange mechanisms and false or incomplete provenance chains among the Market's known assets, and records the transaction cycle phases of Exchange and Dispersal: value is transferred while contact between source, broker, handler, and buyer remains fragmented, after which participants separate, records are reduced or rerouted, and the object's next destination becomes harder to reconstruct.
+The Anstrall Market Concealed Payment and False Provenance Chain System is the settlement and
+ownership technology
+that allows an anomalous object to change hands without leaving a traceable record of
+who sold it, who carried it, or
+who received it. The dossier lists concealed payment and exchange mechanisms and false or
+incomplete provenance chains
+among the Market's known assets, and records the transaction cycle phases of Exchange and
+Dispersal: value is
+transferred while contact between source, broker, handler, and buyer remains fragmented, after which participants
+separate, records are reduced or rerouted, and the object's next destination becomes harder to
+reconstruct.
 
 Known Structure and Use
 
-Settlement is deliberately fragmented. Recovered exchange material shows staged payment steps, value delivered through intermediaries, and consideration offered as access, secrecy, protected logistics, technical assistance, political cover, another object, or a promise that cannot be enforced through normal law. Provenance documents are constructed to look ordinary: shipping paperwork, ownership records, business-front invoices, and holding agreements that describe an unremarkable item. Because the Market relies on temporary storage and altered manifests, a single recovered document usually identifies one link and not the chain. No single permanent Market holding is confirmed as the complete center of operations, so the chain is designed to survive the loss of any node.
+Settlement is deliberately fragmented. Recovered exchange material shows staged payment steps, value delivered through
+intermediaries, and consideration offered as access, secrecy, protected logistics, technical assistance, political
+cover, another object, or a promise that cannot be enforced through normal law. Provenance
+documents are constructed
+to look ordinary: shipping paperwork, ownership records, business-front invoices, and holding agreements that describe
+an unremarkable item. Because the Market relies on temporary storage and altered manifests, a
+single recovered
+document usually identifies one link and not the chain. No single permanent Market holding
+is confirmed as the
+complete center of operations, so the chain is designed to survive the loss of
+any node.
 
 A.C.T Handling Rules
 
-Recovered exchange and provenance material is filed under Commercial Intelligence and Route Intelligence and must not be circulated outside restricted archive review before another division uses it. Civil Covert Division prepares a surface explanation where civilian systems were drawn into the exchange. Government Anti Anomaly interfaces may assist with legal masking, transport verification, and controlled access restrictions during major recovery actions, but they are not authorized to negotiate Market terms or retain appropriated material as a government asset. Under no condition may personnel offer an anomaly, a person, a protected Site detail, or a classified record as payment.
+Recovered exchange and provenance material is filed under Commercial Intelligence and Route Intelligence and
+must not
+be circulated outside restricted archive review before another division uses it. Civil Covert Division
+prepares a
+surface explanation where civilian systems were drawn into the exchange. Government Anti Anomaly interfaces
+may assist
+with legal masking, transport verification, and controlled access restrictions during major recovery actions, but
+they
+are not authorized to negotiate Market terms or retain appropriated material as a government
+asset. Under no condition
+may personnel offer an anomaly, a person, a protected Site detail, or a classified
+record as payment.
 
 Failure and Open Questions
 
-The system fails when a payment step requires a live meeting, when a provenance document must survive legal scrutiny, or when a buyer refuses to pay before delivery. A.C.T has not reconstructed a complete provenance chain from source seller to final holder. Which payment mechanisms are Market-wide practice and which belong to individual brokers remains unresolved.
+The system fails when a payment step requires a live meeting, when a provenance
+document must survive legal scrutiny,
+or when a buyer refuses to pay before delivery. A.C.T has not reconstructed a
+complete provenance chain from source
+seller to final holder. Which payment mechanisms are Market-wide practice and which belong to
+individual brokers
+remains unresolved.

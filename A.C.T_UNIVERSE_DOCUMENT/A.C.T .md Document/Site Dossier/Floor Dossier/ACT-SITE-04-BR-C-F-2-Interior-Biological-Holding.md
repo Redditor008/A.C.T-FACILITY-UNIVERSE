@@ -28,7 +28,8 @@ specialized environments where non-natural organisms are studied under close
 control. F-2 is the reserve's interior holding level for that population.
 
 This dossier records the floor in full institutional language: what it is,
-what it holds, how it is built, how it is run, and how the reserve's
+what it holds, how it is built, how it is run, and how the
+reserve's
 built interior complements its open exterior.
 
 ---

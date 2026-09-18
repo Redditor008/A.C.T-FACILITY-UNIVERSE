@@ -279,7 +279,8 @@ remove visibility but does not remove the subject. Personnel who cannot see it
 should assume it remains present until tracking confirms otherwise.
 
 NOTE 002:
-During Test 010-C, a feed block was held 5 cm above the mouth silhouette by a
+During Test 010-C, a feed block was held 5 cm above the mouth silhouette
+by a
 robotic arm. The shadow rose off the floor, crossed the arm's shadow, and
 covered the feed block from below. The feed vanished. The robotic arm was not
 damaged except for loss of paint on the portion shadowed by the mouth.

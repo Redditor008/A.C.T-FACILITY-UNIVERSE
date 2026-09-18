@@ -279,7 +279,8 @@ reserve operating beneath and beyond it.
 ### 10.2 Research Function
 
 F-5 is also a genuine research campus: the ecological science conducted
-here is real, publishable, and valuable in its own right — as well as being
+here is real, publishable, and valuable in its own right — as well as
+being
 the reserve's most effective cover.
 
 ### 10.3 Holding Character

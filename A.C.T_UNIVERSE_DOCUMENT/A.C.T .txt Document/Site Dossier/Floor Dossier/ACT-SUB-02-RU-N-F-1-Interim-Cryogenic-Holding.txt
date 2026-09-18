@@ -23,12 +23,14 @@ The Frost Hollow Depot exists to absorb the seasonal pressure that would
 otherwise over-concentrate biological material at White Grave Station. Its
 deepest level, F-1, is where that absorption is stored: interim cryogenic
 storage for material awaiting transfer to the parent station. Holding here
-is measured in days to weeks — the depot is not a long-term home — and
+is measured in days to weeks — the depot is not a long-term home
+— and
 during a breach response, closing F-1 to the outside seals the level
 entirely.
 
 This dossier records the floor in full institutional language: what it is,
-what it holds, how it is built, how it is guarded, and how the depot's
+what it holds, how it is built, how it is guarded, and how the
+depot's
 deepest cold serves an installation whose entire purpose is the staging of
 material for the long sleep at White Grave.
 
@@ -185,7 +187,8 @@ F-1 is organized around interim cryogenic storage infrastructure:
 
 The floor's storage units hold incoming biological material in interim
 cold: units engineered to maintain material in a stable, suppressed state
-for the days to weeks of the staging period. The units are simpler than the
+for the days to weeks of the staging period. The units are simpler than
+the
 parent station's long-term vaults — the depot does not need permanent
 capacity because it does not keep anything long enough to require it.
 
@@ -379,7 +382,8 @@ Hollow Depot: the floor where incoming biological material is held in
 interim cold, suppressed and stable, for the days to weeks it waits for
 transfer to White Grave Station.
 
-It is a cold floor built for waiting — a staging level whose success is
+It is a cold floor built for waiting — a staging level whose success
+is
 measured in material delivered to the long sleep, never in material kept.
 Everything that sleeps briefly in F-1's cold is already on its way to the
 deeper cold of White Grave.

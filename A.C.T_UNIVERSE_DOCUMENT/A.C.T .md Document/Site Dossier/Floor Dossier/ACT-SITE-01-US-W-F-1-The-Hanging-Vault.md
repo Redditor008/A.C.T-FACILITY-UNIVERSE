@@ -20,7 +20,8 @@
 This file is the complete individual record of **F-1, The Hanging Vault**, the
 deepest numbered floor of **ACT-SITE-01-US-W, Redwood Veil Complex**.
 
-Within the Facility's floor doctrine, F-1 is not a rank — it is an address.
+Within the Facility's floor doctrine, F-1 is not a rank — it is an
+address.
 It is the floor where the complex places what it cannot place anywhere else:
 the high-inviolability residents whose containment is the site's recurring
 test. The floor's colloquial name, **The Hanging Vault**, is older than the
@@ -28,7 +29,8 @@ current administration, and no record survives of the staff member who first
 used it.
 
 This dossier records the floor in full institutional language: what it is,
-what it holds, how it is built, how it is guarded, and why its closure
+what it holds, how it is built, how it is guarded, and why its
+closure
 procedure has become a drill that every member of the site knows by reflex.
 
 ---
@@ -59,7 +61,8 @@ individual restriction set
 The Hanging Vault exists for one reason: the complex owns objects that must
 never be allowed to fail containment, and every containment level has a cost.
 The deeper a resident is placed, the more structure, procedure, and distance
-stand between it and the surface — and the more expensive it becomes to keep
+stand between it and the surface — and the more expensive it becomes to
+keep
 it there.
 
 F-1 is where that cost is accepted without question. The floor is designed
@@ -100,7 +103,8 @@ infrastructure and the full attention of the site before it could reach air.
 ### 4.1 Origin of the Vault
 
 The Hanging Vault was excavated as part of the complex's original buried
-core, but it was not always the floor it is today. In the complex's early
+core, but it was not always the floor it is today. In the complex's
+early
 decades, F-1 served as general deep storage — a catchall for material the
 site had not yet learned to classify.
 
@@ -373,7 +377,8 @@ maintains its residents; it does not presume to finish them.
 
 ### 12.3 Closure Doctrine
 
-F-1 closure is not a last resort; it is a standing option. The floor is
+F-1 closure is not a last resort; it is a standing option. The floor
+is
 designed to be sealed and to function sealed, and the site drills the
 procedure so that closure, when it comes, is executed without hesitation.
 
@@ -414,7 +419,8 @@ priorities for the floor include:
 
 ## Archive Closing
 
-F-1, The Hanging Vault, is the deepest address in Redwood Veil — a floor of
+F-1, The Hanging Vault, is the deepest address in Redwood Veil — a floor
+of
 suspended vaults beneath the entire weight of the complex, built to hold
 what the site cannot risk, cannot transform, and cannot release. Its
 residents hang in their shafts; its doctrine hangs over every drill.

@@ -5,22 +5,29 @@
 |---|---|
 | STATUS | Active Internal Reference |
 | AUTHORITY | Archiver Division / O5 Council |
-| PURPOSE | Standardize the generation of Anomaly Files, Dossiers, and Tales while maintaining the sovereignty of the Main A.C.T Reality. |
+| PURPOSE | Standardize the generation of Anomaly Files, Dossiers, and Tales while maintaining the sovereignty of<br>the Main A.C.T<br>Reality. |
 
 ---
 
 ## 1. CORE MISSION & DOCTRINE
 
 **A.C.T** stands for **Anomaly Containment Transformation**.
-*   **The Mission:** To maintain the normalcy and the stability of Earth and its populace.
-*   **The Mindset:** "Neutral Good." We have a moral obligation to harmonize the anomaly with reality, protecting both the world from the fracture and the subject from the friction of existence.
-*   **The First Directive:** Secrecy is containment. Ignorance of the impossible is the foundation of civilization.
+    **The Mission:** To maintain the normalcy and the stability of Earth and its
+    populace.
+    **The Mindset:** "Neutral Good." We have a moral obligation to harmonize the anomaly
+    with
+    reality, protecting both the
+    world from the fracture and the subject from the friction of existence.
+    **The First Directive:** Secrecy is containment. Ignorance of the impossible is the foundation
+    of
+    civilization.
 
 ---
 
 ## 2. ARCHIVAL STRUCTURE & DIRECTORIES
 
-To maintain chronological and causal integrity, all documentation must be saved in the following folders:
+To maintain chronological and causal integrity, all documentation must be saved in the following
+folders:
 
 #### **2.1 ANOMALY txt (Main Files)**
 *   **Part 1:** Legacy (1598–1888), Foundational (ITHYOS/NEMNOLIA), and Early Modern entries.
@@ -28,12 +35,18 @@ To maintain chronological and causal integrity, all documentation must be saved 
 
 #### **2.2 ANOMALY Log (Dossiers & Logs)**
 *   **Part 1:** Supporting records for Part 1 anomalies.
-*   **Part 2:** Supporting records for Part 2 anomalies, including personnel reflections and research audits.
+    **Part 2:** Supporting records for Part 2 anomalies, including personnel reflections and research
+    audits.
 
 #### **2.3 Emergent Reality File (The 715 Series)**
 *   Reserved exclusively for **Exogenous Record Manifestations**. 
-*   **Note:** These are not physical anomalies. They are mundane artifacts (USBs, paper scripts, photos) that appeared without a source and describe other worlds.
-*   **Scrubbing Rule:** In-universe files must NEVER contain "Reality X" labels. Use only standard AFD numbers.
+    **Note:** These are not physical anomalies. They are mundane artifacts (USBs, paper scripts,
+    photos)
+    that appeared
+    without a source and describe other worlds.
+    **Scrubbing Rule:** In-universe files must NEVER contain "Reality X" labels. Use only standard
+    AFD
+    numbers.
 
 ---
 
@@ -41,20 +54,33 @@ To maintain chronological and causal integrity, all documentation must be saved 
 
 #### **3.1 Anomaly Naming**
 *   **Main File:** `Title-Designation.txt` (e.g., `Spinosaurus-AFD-SU-937.txt`)
-*   **Dossier/Log:** `Title-Category-Dossier-Designation.txt` (e.g., `Death-Angler-Behavioral-Observation-Dossier-AFD-NB-964.txt`)
+*   **Dossier/Log:** `Title-Category-Dossier-Designation.txt` (e.g.,
+    `Death-Angler-Behavioral-Observation-Dossier-AFD-NB-964.txt`)
 
 #### **3.2 The 715-Series Rule**
-*   All items originating from the "Displacement Event" of 2021-2024 are designated under the **715** numerical registry. 
+    All items originating from the "Displacement Event" of 2021-2024 are designated under the
+    **715**
+    numerical registry.
 *   They are categorized as **Information-Only Manifestations** and stored as "Static Artifacts."
 
 #### **3.3 Path 1 Foundation Fields**
 Every full anomaly file must include the current foundation fields:
 
-*   **REGISTRY BAND:** ENTITY Historical / 000 Foundational Reserve / LEGACY ACCEPTED 001-120 / Modern Registry 121-999 / ANM Fracture-State / Reserved / Obscured.
-*   **LIFECYCLE STATE:** PROVISIONAL / ACTIVE-CONTAINED / ACTIVE-UNCONTAINED / UNDER REVIEW / TRANSFORMATION-CANDIDATE / INTEGRATED / RETIRED / ARCHIVED / NEUTRALIZED / EXPLAINED / LOST / MEMORIALIZED / PROHIBITED-FROM-TRANSFORMATION.
-*   **HAZARD TAGS:** Use only evidenced tags from PHYS / BIO / COG / MEM / INFO / TEMP / SPAT / STR / COS / SOC / OPR families.
+    **REGISTRY BAND:** ENTITY Historical / 000 Foundational Reserve / LEGACY ACCEPTED 001-120 /
+    Modern
+    Registry 121-999 /
+    ANM Fracture-State / Reserved / Obscured.
+    **LIFECYCLE STATE:** PROVISIONAL / ACTIVE-CONTAINED / ACTIVE-UNCONTAINED / UNDER REVIEW / TRANSFORMATION-CANDIDATE
+    /
+    INTEGRATED / RETIRED / ARCHIVED / NEUTRALIZED / EXPLAINED / LOST / MEMORIALIZED /
+    PROHIBITED-FROM-TRANSFORMATION.
+    **HAZARD TAGS:** Use only evidenced tags from PHYS / BIO / COG /
+    MEM
+    / INFO / TEMP / SPAT / STR / COS / SOC / OPR
+    families.
 
-These fields are not decoration. Registry Band explains number logic, Lifecycle State explains current archive/operational condition, and Hazard Tags explain proven hazard behavior for search and routing.
+These fields are not decoration. Registry Band explains number logic, Lifecycle State explains current
+archive/operational condition, and Hazard Tags explain proven hazard behavior for search and routing.
 
 ---
 
@@ -74,7 +100,8 @@ All documentation must utilize the **Master Catalog of Operational Assets (Index
 #### **Dr. Aris Thorne (SR-412)**
 *   **Background:** 110 years old, 26-year-old body. Lead of Artifact Awakening.
 *   **Tone:** Distant, blunt, and clinical. Prefers analog/paper over digital shortcuts.
-*   **Perspective:** Sees anomalies as "Survivors" and manners as a tool to keep researchers human.
+    **Perspective:** Sees anomalies as "Survivors" and manners as a tool to keep researchers
+    human.
 
 #### **Senior Researcher Maya Chen (Subject 612-A)**
 *   **Background:** Biologically transmuted into a functional intersex state by AFD-OB-612.
@@ -88,7 +115,9 @@ All documentation must utilize the **Master Catalog of Operational Assets (Index
 
 ## 6. HISTORICAL TIMELINE SPREAD
 
-Detection and verification dates must be spread logically across the organization’s history to avoid "Data Clustering."
+Detection and verification dates must be spread logically across the organization’s history to avoid
+"Data
+Clustering."
 
 *   **1890s – 1920s:** ERE Era (Search for the Cure).
 *   **1930s – 1960s:** Early ACT Expansion (Site Network establishment).
@@ -99,11 +128,15 @@ Detection and verification dates must be spread logically across the organizatio
 
 ## 7. FINAL WRITING DIRECTIVE
 
-Generate all documents as if you are a clerk of the **Main A.C.T Reality**. Maintain a tone of **Grounded Clinical Realism**. 
+Generate all documents as if you are a clerk of the **Main A.C.T Reality**.
+Maintain a tone of **Grounded Clinical
+Realism**.
 
 > **"Manners are the only Anti Reality Mesh that doesn't require a power supply."** 
 
-Respect the designation. Confirm the registry band. Prove the hazard tags. Preserve the lifecycle state. Protect the survivor. Stabilize the world.
+Respect the designation. Confirm the registry band. Prove the hazard tags. Preserve the lifecycle
+state. Protect the
+survivor. Stabilize the world.
 
 ---
 **END OF GENERATOR STANDARD**

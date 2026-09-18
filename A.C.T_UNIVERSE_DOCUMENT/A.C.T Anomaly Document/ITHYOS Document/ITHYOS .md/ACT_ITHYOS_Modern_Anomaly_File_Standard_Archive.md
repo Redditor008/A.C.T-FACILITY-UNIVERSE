@@ -8,7 +8,9 @@
 | AUTHORITY | Classification Archive |
 
 ### Archive Note
-This file is the complete internal archive version of the modern standardized anomaly record for ITHYOS. It preserves the current doctrinal status, classification logic, and containment framing of AFD-CH-000 in full.
+This file is the complete internal archive version of the modern standardized anomaly record
+for ITHYOS. It preserves
+the current doctrinal status, classification logic, and containment framing of AFD-CH-000 in full.
 
 ---
 

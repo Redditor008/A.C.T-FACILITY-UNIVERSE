@@ -323,7 +323,8 @@ research is genuine, and so is the discipline of those who conduct it.
 
 F-3 doctrine holds that concealment is built on genuine activity: the
 campus's agricultural research must withstand scrutiny because it is real.
-The relay's cover is not a lie maintained by secrecy — it is a truth
+The relay's cover is not a lie maintained by secrecy — it is a
+truth
 maintained by discipline.
 
 ### 12.2 Low-Visibility Doctrine

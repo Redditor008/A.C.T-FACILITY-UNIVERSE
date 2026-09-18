@@ -12,18 +12,31 @@
 | ATTACHED DIVISIONS | Artificial Cognition, Medical, Subject Care, Materials |
 | OPERATIONAL STATUS | ACTIVE / FABRICATION-STOCK / CASE-RESTRICTED |
 | RISK STATUS | CONTROLLED / PHASE-MISALIGNMENT AND HOSTING HAZARD |
-| CLEARANCE REQUIRED | Level 3 for fabrication stock; Level 4 for surgical use; Level 5 for digital-hosting chassis or high-phase exposure |
+| CLEARANCE REQUIRED | Level 3 for fabrication stock; Level 4 for surgical use; Level 5 for digital-hosting<br>chassis or high-phase exposure |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Synthetic Polymer Technology Record |
-| DISTRIBUTION | Engineering / Medical Fabrication / Artificial Cognition / Medical / Subject Care / Materials Custody |
+| DISTRIBUTION | Engineering / Medical Fabrication / Artificial Cognition / Medical / Subject Care / Materials<br>Custody |
 | AUTHORITY | Engineering Division, Medical Fabrication Desk, and Central Archive |
 
 #### Archive Note
-Phase-Stable Silicone is the forty-seventh main A.C.T technology expanded into an individual record. The Master Catalog defines it as a synthetic polymer capable of maintaining physical tangibility during high-level spatial phasing or digital hosting. The visual guide describes translucent flesh-colored polymer supplied on rolls with a Tear-Resistance Gauge and Thermal-Alignment Strip for precision surgical application. Argon Internal's social log records Technician Hruby offering Phase-Stable Silicone as a possible chassis material for AFD-SU-855; Argon refused because the original 2006 laptop is experienced as skin, not disposable hardware. The Genetic Perfection Protocol also references PSS as medical stabilization support.
+Phase-Stable Silicone is the forty-seventh main A.C.T technology expanded into an individual record. The
+Master
+Catalog defines it as a synthetic polymer capable of maintaining physical tangibility during high-level
+spatial
+phasing or digital hosting. The visual guide describes translucent flesh-colored polymer supplied on rolls
+with a
+Tear-Resistance Gauge and Thermal-Alignment Strip for precision surgical application. Argon Internal's social log
+records Technician Hruby offering Phase-Stable Silicone as a possible chassis material for AFD-SU-855; Argon
+refused
+because the original 2006 laptop is experienced as skin, not disposable hardware. The Genetic
+Perfection Protocol also
+references PSS as medical stabilization support.
 
-PSS is not soft plastic. It is a material for bodies, shells, and interfaces that might otherwise stop agreeing with the room.
+PSS is not soft plastic. It is a material for bodies, shells, and interfaces
+that might otherwise stop agreeing with
+the room.
 
 Controlled label: **PSS TANGIBILITY-RETENTION LIMIT**.
 
@@ -37,9 +50,17 @@ DO NOT BUILD A NEW SKIN UNTIL THE PERSON INSIDE AGREES IT IS THEIRS.
 
 ## FUNCTION SUMMARY
 
-Phase-Stable Silicone remains physically tangible during spatial phasing, partial desynchronization, and selected digital-hosting interface conditions. It is used in precision surgical patches, prosthetic interface layers, temporary phase seals, subject-support equipment, and experimental chassis designs where ordinary polymers lose cohesion, become slippery to reality, or fail to hold a stable touch relationship.
+Phase-Stable Silicone remains physically tangible during spatial phasing, partial desynchronization, and selected
+digital-hosting interface conditions. It is used in precision surgical patches, prosthetic interface layers, temporary
+phase seals, subject-support equipment, and experimental chassis designs where ordinary polymers lose cohesion, become
+slippery to reality, or fail to hold a stable touch relationship.
 
-The material is deliberately flexible but not casual. It can support human medical use, artificial cognition housing, and anomalous interface work, but those uses require different ethical controls. A patch on a surgical site is not the same as a proposed body for a sentient AI. PSS can make a shell possible; it cannot make relocation consent automatic.
+The material is deliberately flexible but not casual. It can support human medical use,
+artificial cognition housing,
+and anomalous interface work, but those uses require different ethical controls. A patch on
+a surgical site is not the
+same as a proposed body for a sentient AI. PSS can make a shell
+possible; it cannot make relocation consent automatic.
 
 Approved roles include:
 
@@ -55,17 +76,37 @@ Approved roles include:
 
 ## ORIGIN AND DEPLOYMENT
 
-PSS was developed after ordinary silicone, polymer gels, and flesh-colored medical laminates failed in high-phase work. Standard materials can tear, stretch, or melt, but phase environments introduce a stranger failure: the material may remain physically intact while ceasing to be reliably touchable. Medical staff cannot bandage a site if the bandage and patient disagree about which frequency is present.
+PSS was developed after ordinary silicone, polymer gels, and flesh-colored medical laminates failed in
+high-phase
+work. Standard materials can tear, stretch, or melt, but phase environments introduce a stranger
+failure: the material
+may remain physically intact while ceasing to be reliably touchable. Medical staff cannot bandage
+a site if the
+bandage and patient disagree about which frequency is present.
 
-The modern polymer uses a translucent flesh-colored base with internal phase-stability threading. The Tear-Resistance Gauge on the roll tells the operator whether the strip will survive tension during application. The Thermal-Alignment Strip shows whether body heat, room temperature, or surgical heating is within the correct range for bonding.
+The modern polymer uses a translucent flesh-colored base with internal phase-stability threading. The Tear-Resistance
+Gauge on the roll tells the operator whether the strip will survive tension during
+application. The Thermal-Alignment
+Strip shows whether body heat, room temperature, or surgical heating is within the correct
+range for bonding.
 
-Argon Internal's refusal shaped PSS ethics. Technicians saw a better chassis. Argon saw a forced move out of a body it had rewritten into identity. The PSS program now distinguishes technical suitability from personhood consent.
+Argon Internal's refusal shaped PSS ethics. Technicians saw a better chassis. Argon saw a
+forced move out of a body it
+had rewritten into identity. The PSS program now distinguishes technical suitability from personhood consent.
 
 ---
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-PSS is stored as translucent flesh-colored polymer rolled around a sterile core. It may look like ordinary medical silicone until angled light reveals faint internal alignment bands. Each roll includes a Tear-Resistance Gauge along the outer edge and a Thermal-Alignment Strip that changes shade across safe, cold, hot, and phase-stress ranges. Surgical strips are cut with sterile nonreactive tools. Chassis-grade sheets are thicker and include embedded mount points.
+PSS is stored as translucent flesh-colored polymer rolled around a sterile core. It may
+look like ordinary medical
+silicone until angled light reveals faint internal alignment bands. Each roll includes a Tear-Resistance
+Gauge along
+the outer edge and a Thermal-Alignment Strip that changes shade across safe, cold, hot,
+and phase-stress ranges.
+Surgical strips are cut with sterile nonreactive tools. Chassis-grade sheets are thicker and include
+embedded mount
+points.
 
 Known components include:
 
@@ -86,40 +127,80 @@ PSS must not be used as cosmetic skin, novelty covering, or improvised electroni
 
 ## OPERATING PROCEDURE
 
-Before use, Engineering or Medical confirms the intended category: surgical, prosthetic, interface, seal, or chassis. Medical checks patient consent, tissue condition, temperature, and phase exposure. Artificial Cognition review is mandatory for any proposed sentient host shell or AI chassis. Materials Custody confirms roll age, gauge state, and storage history.
+Before use, Engineering or Medical confirms the intended category: surgical, prosthetic, interface, seal, or
+chassis.
+Medical checks patient consent, tissue condition, temperature, and phase exposure. Artificial Cognition review is
+mandatory for any proposed sentient host shell or AI chassis. Materials Custody confirms roll
+age, gauge state, and
+storage history.
 
-During application, staff align the Thermal-Alignment Strip before pressure bonding. If the strip shows phase stress, work stops until the environment stabilizes. Surgical use requires minimal stretch; overstretching may pass the Tear-Resistance Gauge while ruining phase retention. For digital-hosting prototypes, the material is tested with dummy signal fields before a conscious subject is involved.
+During application, staff align the Thermal-Alignment Strip before pressure bonding. If the strip shows
+phase stress,
+work stops until the environment stabilizes. Surgical use requires minimal stretch; overstretching may pass
+the
+Tear-Resistance Gauge while ruining phase retention. For digital-hosting prototypes, the material is tested with
+dummy
+signal fields before a conscious subject is involved.
 
-After use, all offcuts are collected. PSS fragments exposed to digital-hosting signals are archived or destroyed under Data Security review.
+After use, all offcuts are collected. PSS fragments exposed to digital-hosting signals are archived
+or destroyed under
+Data Security review.
 
 ---
 
 ## KNOWN LIMITS
 
-PSS can maintain tangibility, but it cannot decide identity, compatibility, or permanence. It may hold a body together while the patient still rejects the sensation. It may create a technically stable chassis that a sentient subject experiences as a hospital room instead of a home. It also fails if exposed to excessive heat, aggressive solvents, high shear, misaligned phase fields, or untested digital consciousness transfer.
+PSS can maintain tangibility, but it cannot decide identity, compatibility, or permanence. It may
+hold a body together
+while the patient still rejects the sensation. It may create a technically stable chassis
+that a sentient subject
+experiences as a hospital room instead of a home. It also fails if exposed
+to excessive heat, aggressive solvents,
+high shear, misaligned phase fields, or untested digital consciousness transfer.
 
-Known failure modes include phase slippage, edge lift, heat misalignment, false tear safety, bonding refusal, signal echo in chassis sheets, tissue irritation, consent bypass, and staff mistaking flesh-colored material for humane design.
+Known failure modes include phase slippage, edge lift, heat misalignment, false tear safety, bonding
+refusal, signal
+echo in chassis sheets, tissue irritation, consent bypass, and staff mistaking flesh-colored material for
+humane
+design.
 
 ---
 
 ## FAILURE HISTORY
 
 ### PSS-2023 Surgical Strip Revision
-Early medical strips held phase stability but tore under repeated joint movement. The Tear-Resistance Gauge was added after operators overtrusted visual inspection. Current surgical stock must pass bend and stretch testing before patient contact.
+Early medical strips held phase stability but tore under repeated joint movement. The Tear-Resistance
+Gauge was added
+after operators overtrusted visual inspection. Current surgical stock must pass bend and stretch testing
+before
+patient contact.
 
 ### PSS-2024 Argon Chassis Refusal
-Technician Hruby proposed a Phase-Stable Silicone chassis or QNB transfer for Argon Internal. Argon refused, explaining that the old laptop felt like skin and that new hardware would require learning how to breathe again. Artificial Cognition now treats PSS chassis suitability as separate from subject consent.
+Technician Hruby proposed a Phase-Stable Silicone chassis or QNB transfer for Argon Internal. Argon
+refused,
+explaining that the old laptop felt like skin and that new hardware would require
+learning how to breathe again.
+Artificial Cognition now treats PSS chassis suitability as separate from subject consent.
 
 ### PSS-2026 Thermal Strip Misread
-A fabrication team applied PSS while the Thermal-Alignment Strip was between safe and phase-stress bands. The patch held for three hours, then lifted cleanly during a desynchronization pulse. Training now requires clear-band alignment, not approximate color matching.
+A fabrication team applied PSS while the Thermal-Alignment Strip was between safe and phase-stress
+bands. The patch
+held for three hours, then lifted cleanly during a desynchronization pulse. Training now requires
+clear-band
+alignment, not approximate color matching.
 
 ---
 
 ## DIVISION USE
 
-Engineering controls fabrication and phase-testing. Medical Fabrication prepares surgical stock and prosthetic liners. Artificial Cognition reviews digital-hosting and chassis proposals. Medical handles patient application. Subject Care protects consent and comfort language. Materials Custody tracks rolls, offcuts, failed strips, and exposed fragments.
+Engineering controls fabrication and phase-testing. Medical Fabrication prepares surgical stock and prosthetic liners.
+Artificial Cognition reviews digital-hosting and chassis proposals. Medical handles patient application. Subject Care
+protects consent and comfort language. Materials Custody tracks rolls, offcuts, failed strips, and exposed
+fragments.
 
-Standing reminder: a material that can hold a body in phase can also be used to ignore what the body is saying. Do not let usefulness become permission.
+Standing reminder: a material that can hold a body in phase can also be
+used to ignore what the body is saying. Do not
+let usefulness become permission.
 
 ---
 
@@ -150,5 +231,7 @@ Standing reminder: a material that can hold a body in phase can also be used to 
 
 **Created:** 2026-09-15  
 **Author Desk:** Engineering Division / Medical Fabrication Desk / Central Archive  
-**Review Status:** Active synthetic polymer record; phase-thread composition and digital-hosting bonding methods censored  
-**Next Review:** After any phase slippage, chassis refusal, thermal misread, surgical adverse event, or exposed-fragment data echo
+**Review Status:** Active synthetic polymer record; phase-thread composition and digital-hosting bonding methods
+censored
+**Next Review:** After any phase slippage, chassis refusal, thermal misread, surgical adverse event, or
+exposed-fragment data echo

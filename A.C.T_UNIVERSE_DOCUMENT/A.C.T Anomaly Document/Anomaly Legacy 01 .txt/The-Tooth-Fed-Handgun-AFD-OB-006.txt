@@ -87,7 +87,8 @@ show biting deformation at impact, as if the tooth attempted to close around
 material while traveling.
 
 The most operationally dangerous property of AFD-OB-006 is its ability to aim
-for its handler. When held in a firing grip, the object may subtly redirect the
+for its handler. When held in a firing grip, the object may subtly redirect
+the
 holder's wrist, adjust barrel angle using internal muscle contraction, and
 select a target independent of the handler's conscious intention. Skilled
 shooters report the object "pulling toward" persons or objects before the
@@ -271,7 +272,8 @@ analysis indicates the sound is not mechanical cycling. It is produced by small
 teeth striking each other inside the magazine well.
 
 NOTE 004:
-One technician described the object as "a dog that was taught to be a murder
+One technician described the object as "a dog that was taught to be a
+murder
 weapon and forgot there were other tricks." The description is informal but has
 been retained in training material because it accurately reduces overconfidence
 among new handlers.

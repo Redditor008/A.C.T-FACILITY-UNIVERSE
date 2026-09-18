@@ -27,7 +27,8 @@ moves to White Grave Station unassessed, and nothing enters the transport
 chain that cannot be accounted for.
 
 This dossier records the floor in full institutional language: what it is,
-what it does, how it is built, how it is run, and how the depot's quarantine
+what it does, how it is built, how it is run, and how the
+depot's quarantine
 discipline protects the parent station and the transport chain alike.
 
 ---

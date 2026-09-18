@@ -12,16 +12,48 @@
 
 ## Functional Identity
 
-The Anti-Global Anomaly Containment Interference and Chamber Breach Equipment Set is the forced-entry and containment-disruption hardware the network builds to reach an anomaly it intends to destroy. A-GA is classified ENGINEERING because it is capable of developing, adapting, acquiring, and deploying technical systems for direct interaction with anomalies and containment environments, and its assessed engineering activity explicitly includes forced-entry and chamber-breach equipment and containment-interference devices. A.C.T files this as acquired GOI technology because the set is designed against Facility containment specifically, not against ordinary security.
+The Anti-Global Anomaly Containment Interference and Chamber Breach Equipment Set is the forced-entry and
+containment-disruption hardware the network builds to reach an anomaly it intends to destroy. A-GA
+is classified
+ENGINEERING because it is capable of developing, adapting, acquiring, and deploying technical systems for
+direct
+interaction with anomalies and containment environments, and its assessed engineering activity explicitly includes
+forced-entry and chamber-breach equipment and containment-interference devices. A.C.T files this as acquired GOI
+technology because the set is designed against Facility containment specifically, not against ordinary security.
 
 ## Known Structure and Use
 
-Recovered sets combine cutting, prying, thermal, hydraulic, and electromechanical components with purpose-built interference elements aimed at stabilization, monitoring, or sealing subsystems rather than at personnel. In one restricted engineering route interdiction, recovered equipment had been assembled from individually mundane components, and several components had no anomalous function until combined under A-GA instruction. The set therefore cannot be assessed component by component. Its function emerges from the assembly sequence, which is why procurement analysis must examine pattern and intended use rather than wait for a visibly anomalous device to appear.
+Recovered sets combine cutting, prying, thermal, hydraulic, and electromechanical components with purpose-built
+interference elements aimed at stabilization, monitoring, or sealing subsystems rather than at personnel. In
+one
+restricted engineering route interdiction, recovered equipment had been assembled from individually mundane
+components, and several components had no anomalous function until combined under A-GA instruction. The
+set therefore
+cannot be assessed component by component. Its function emerges from the assembly sequence, which
+is why procurement
+analysis must examine pattern and intended use rather than wait for a visibly anomalous
+device to appear.
 
 ## A.C.T Handling Rules
 
-Any recovered A-GA device must be considered unsafe for demonstration, reverse use, or storage near an active containment environment until Research and Containment jointly clear it. A device meant to eliminate an anomaly may carry latent exposure, trigger, informational, or structural risks that its builders did not understand. Recovered material is split into immediate safety material requiring Containment and Engineering review, intelligence material requiring controlled archive intake, and exposure material requiring information quarantine. No recovered A-GA equipment is to be repurposed by Transformation Division without Command-level exception.
+Any recovered A-GA device must be considered unsafe for demonstration, reverse use, or storage
+near an active
+containment environment until Research and Containment jointly clear it. A device meant to eliminate
+an anomaly may
+carry latent exposure, trigger, informational, or structural risks that its builders did not understand.
+Recovered
+material is split into immediate safety material requiring Containment and Engineering review, intelligence material
+requiring controlled archive intake, and exposure material requiring information quarantine. No recovered A-GA
+equipment is to be repurposed by Transformation Division without Command-level exception.
 
 ## Failure and Open Questions
 
-The set's defining failure mode is that it succeeds in the wrong way. Incomplete understanding is a defining danger: an A-GA device may be designed to destroy an anomaly but instead rupture its containment state, spread its effect, interrupt a stabilizing condition, or convert a local anomaly into a wider breach. Which members understand that their destructive tools can worsen the conditions they target remains unresolved, as does the level of coordination between dispersed engineering cells.
+The set's defining failure mode is that it succeeds in the wrong way. Incomplete
+understanding is a defining danger:
+an A-GA device may be designed to destroy an anomaly but instead rupture its
+containment state, spread its effect,
+interrupt a stabilizing condition, or convert a local anomaly into a wider breach. Which
+members understand that their
+destructive tools can worsen the conditions they target remains unresolved, as does the level
+of coordination between
+dispersed engineering cells.

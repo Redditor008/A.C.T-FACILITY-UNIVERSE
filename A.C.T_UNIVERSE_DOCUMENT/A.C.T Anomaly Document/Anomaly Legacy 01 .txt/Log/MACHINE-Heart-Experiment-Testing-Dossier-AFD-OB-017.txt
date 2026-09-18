@@ -117,7 +117,8 @@ STATUS:              Transfer mechanics under review
 
 ANALYSIS SUMMARY:
 
-Upon entry into the 1 m activation zone, the claw hand activates and rips the
+Upon entry into the 1 m activation zone, the claw hand activates and rips
+the
 chosen subject's Heart-Signal from the surrounding aura field, sealing the
 red-gold imprint inside the torso slot. The chosen immediately enters a deep
 but stable rest-state, awakening after 24 to 96 hours under controlled care
@@ -127,7 +128,8 @@ for several days.
 FOOTAGE FINDING: The removal action is too fast for normal machinery of the
 machine's mass. The right claw moves before any detectable power-up sequence.
 In several frames from Incident 017-B, the chosen subject's Heart-Signal
-appears in both the subject's aura field and the machine core at the same time
+appears in both the subject's aura field and the machine core at the same
+time
 — a possible short-range discontinuity rather than ordinary mechanical action.
 
 ═══════════════════════════════════════════════════════════════════════

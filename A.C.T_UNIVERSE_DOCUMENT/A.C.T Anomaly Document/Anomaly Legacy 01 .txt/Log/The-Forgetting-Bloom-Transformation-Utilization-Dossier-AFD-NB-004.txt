@@ -151,7 +151,8 @@ INTENT STATEMENT:
 UFD-NB-004 and AFD-NB-004 are two different intake records concerning the same
 subject. They are not clones, copies, or synchronized twins of one another.
 This dossier is the AFD intake record. Content held in the UFD record is
-preserved in that record and in its own Log dossier; it is not restated here.
+preserved in that record and in its own Log dossier; it is not restated
+here.
 
 INTAKE DISTINCTION:
 

@@ -123,12 +123,14 @@ If a sentient heart signature enters the 3 m radius, AFD-OB-017 will act until
 the signature is no longer present inside the zone. Its usual response is to
 push, throw, block, pin, strike, or force the intruder away from the chosen
 Heart-Signal. The anomaly's strength is sufficient to cause severe blunt impact
-trauma, so Stage Two is treated as a lethal hazard even though its focus appears
+trauma, so Stage Two is treated as a lethal hazard even though its focus
+appears
 to be guardian behavior rather than predation.
 
 The Heart-Signal inside the slot is treated as the anomaly's protected center.
 AFD-OB-017 will position its frame, claw, and hammer to prevent access to the
-slot. It does not appear to defend itself as a whole. It defends the chosen
+slot. It does not appear to defend itself as a whole. It defends the
+chosen
 Heart-Signal.
 
 Stage Two continues until the inserted Heart-Signal fades, is separated from the

@@ -32,7 +32,8 @@ because that work has consequences — and because the complex treats those
 consequences as operational matters, not personal ones.
 
 This dossier records the floor in full institutional language: what it is,
-what it treats, how it is built, how it is run, and how it carries the
+what it treats, how it is built, how it is run, and how it
+carries the
 human cost of the complex's purpose.
 
 ---
@@ -327,7 +328,8 @@ carriers of anomalous weight is itself demanding work.
 ### 12.1 Personnel Doctrine
 
 F-6 doctrine holds that the complex's personnel are part of its containment
-system — and that the system fails if its people are not cared for. The
+system — and that the system fails if its people are not cared for.
+The
 floor treats medical care as an operational requirement, not a convenience.
 
 ### 12.2 Isolation Doctrine

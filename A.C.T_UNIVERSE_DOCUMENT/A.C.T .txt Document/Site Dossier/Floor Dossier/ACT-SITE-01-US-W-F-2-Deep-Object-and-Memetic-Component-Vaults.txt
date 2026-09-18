@@ -27,7 +27,8 @@ objects whose memetic or informational components demand that they be kept
 blind or kept behind eyes that see according to rules.
 
 This dossier records the floor in full institutional language: what it is,
-what it holds, how it is built, how it is guarded, and how it stands between
+what it holds, how it is built, how it is guarded, and how it
+stands between
 the bulk of the complex's holdings and the silence of F-1.
 
 ---
@@ -59,7 +60,8 @@ Redwood Veil's holding doctrine distinguishes between material that can be
 kept under standard observation and material that changes the observer. Most
 of the complex's holdings belong in the former category, and they occupy the
 standard chambers of F-3. A smaller class belongs in the latter: objects
-whose danger is not in what they do when left alone, but in what they do to
+whose danger is not in what they do when left alone, but in what
+they do to
 the people who perceive, handle, or understand them.
 
 F-2 exists for that class. It is the deep holding level where access itself
@@ -342,7 +344,8 @@ and evaluation schedules are enforced as containment parameters.
 12.1 Perception Doctrine
 
 F-2 doctrine holds that perception is a containment channel. The floor
-treats the eye and the mind as routes into and out of confinement, and its
+treats the eye and the mind as routes into and out of confinement, and
+its
 architecture, procedures, and records are built to govern those routes.
 
 12.2 Restricted-Access Doctrine
@@ -402,5 +405,6 @@ discipline, and the floor's personnel carry their own perception as part of
 their equipment.
 
 It stands between the ordinary chambers above and the Hanging Vault below —
-not as a passage, but as a holding in its own right, for the material that
+not as a passage, but as a holding in its own right, for the
+material that
 changed the site's understanding of what a lock is for.

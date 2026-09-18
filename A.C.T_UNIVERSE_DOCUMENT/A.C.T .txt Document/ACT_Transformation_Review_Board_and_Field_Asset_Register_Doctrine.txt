@@ -6,7 +6,12 @@ Distribution: Internal / Transformation / Research / Command / Archive
 Authority: Transformation Division, Researcher Division, Medical Care Division, and O5 Review  
 
 ### Archive Note
-This doctrine creates the formal decision body and register language for A.C.T's most dangerous institutional act: turning anomaly contact into usable systems, materials, procedures, or field assets. It is not permission to transform more anomalies. It is the rule that makes approval, refusal, revocation, cost, and dissent visible.
+This doctrine creates the formal decision body and register language for A.C.T's most dangerous
+institutional act:
+turning anomaly contact into usable systems, materials, procedures, or field assets. It is not
+permission to transform
+more anomalies. It is the rule that makes approval, refusal, revocation, cost, and dissent
+visible.
 
 ---
 
@@ -14,20 +19,28 @@ This doctrine creates the formal decision body and register language for A.C.T's
 
 ## 4.1 Purpose
 
-A.C.T is named for containment and transformation, but transformation without record is only exploitation with better lighting. The Facility must know not only what it can make from an anomaly, but who approved the making, who objected, what it cost, and what remains wounded afterward.
+A.C.T is named for containment and transformation, but transformation without record is only exploitation
+with better
+lighting. The Facility must know not only what it can make from an anomaly,
+but who approved the making, who objected,
+what it cost, and what remains wounded afterward.
 
 This doctrine establishes two linked systems:
 
 1. the Transformation Review Board;
 2. the Transformed Field Asset Register.
 
-Together they answer whether an anomaly may become an amnestic, tool, medicine, weapon, warning system, site mechanism, containment aid, archive process, or forbidden study.
+Together they answer whether an anomaly may become an amnestic, tool, medicine, weapon, warning
+system, site
+mechanism, containment aid, archive process, or forbidden study.
 
 ---
 
 ## 4.2 Transformation Review Board
 
-The Transformation Review Board, or TRB, is the decision body that approves, denies, suspends, or revokes attempts to derive operational use from anomalous properties.
+The Transformation Review Board, or TRB, is the decision body that approves, denies, suspends,
+or revokes attempts to
+derive operational use from anomalous properties.
 
 Minimum board presence:
 
@@ -61,7 +74,9 @@ TRB-2026-CORE-001
 TRB-2026-S03-004
 
 
-Determinations are not only approvals. Denials and revocations are equally important because they show where A.C.T refused to become worse for efficiency.
+Determinations are not only approvals. Denials and revocations are equally important because they show
+where A.C.T
+refused to become worse for efficiency.
 
 ---
 
@@ -71,7 +86,8 @@ Determinations are not only approvals. Denials and revocations are equally impor
 Transformation may proceed under defined limits.
 
 ### LIMITED APPROVAL
-Transformation may proceed only for a narrow use, bounded personnel set, or fixed time period.
+Transformation may proceed only for a narrow use, bounded personnel set, or fixed time
+period.
 
 ### DENIED
 Transformation is not authorized. Research may continue only if the denial permits it.
@@ -83,7 +99,8 @@ Existing authorization is paused because new evidence changed risk.
 Existing transformed use must stop. Assets are recalled, retired, destroyed, or sealed.
 
 ### MEMORIALIZED
-The transformation cannot be undone, but the Board records it as a cost-bearing event rather than a success.
+The transformation cannot be undone, but the Board records it as a cost-bearing event
+rather than a success.
 
 ### PROHIBITED FROM TRANSFORMATION
 No future use-proposal may proceed without O5 reopening the record.
@@ -117,15 +134,18 @@ If the field "cost" is left blank, the determination is invalid.
 
 ## 4.6 Sentience and Survivor Barrier
 
-A sentient subject, sapient entity, human-derived anomaly, survivor, childlike subject, or entity with stable preference cannot be transformed as raw material merely because the transformation would help A.C.T.
+A sentient subject, sapient entity, human-derived anomaly, survivor, childlike subject, or entity with stable
+preference cannot be transformed as raw material merely because the transformation would help A.C.T.
 
 The Board must ask:
 
 - Does the subject understand the proposed use?
 - Can refusal be meaningful inside containment?
-- Will the proposed asset require ongoing pain, fear, memory loss, obedience, or personality reduction?
+- Will the proposed asset require ongoing pain, fear, memory loss, obedience, or personality
+reduction?
 - Is A.C.T repeating the harm that created the anomaly?
-- Is the subject being called an asset because that word hurts less than victim?
+- Is the subject being called an asset because that word hurts less than
+victim?
 
 If these cannot be answered, the proposal is denied or suspended.
 
@@ -133,7 +153,9 @@ If these cannot be answered, the proposal is denied or suspended.
 
 ## 4.7 Transformed Field Asset Register
 
-The Transformed Field Asset Register records usable outputs derived from anomalies. It is not a trophy shelf. It is a custody ledger for things A.C.T made possible.
+The Transformed Field Asset Register records usable outputs derived from anomalies. It is not
+a trophy shelf. It is a
+custody ledger for things A.C.T made possible.
 
 Asset designation format:
 
@@ -149,7 +171,9 @@ TFA-AFD-OB-312-WPN-001
 TFA-AFD-PL-932-GATE-001
 
 
-The register does not imply approval by itself. A field asset must link back to a TRB determination or a sealed legacy authorization.
+The register does not imply approval by itself. A field asset must link back
+to a TRB determination or a sealed legacy
+authorization.
 
 ---
 
@@ -169,7 +193,8 @@ Recommended initial asset type codes:
 - RIT - ritualized or cultural containment method;
 - UNK - unresolved asset class.
 
-New codes require Archive approval so the register does not become a private dialect for one division.
+New codes require Archive approval so the register does not become a private dialect
+for one division.
 
 ---
 
@@ -211,7 +236,8 @@ A transformed asset is revoked when:
 
 ## 4.11 Case-Law Extract Style
 
-The Board must preserve short case-law extracts so later personnel know why a precedent exists.
+The Board must preserve short case-law extracts so later personnel know why a precedent
+exists.
 
 Example structure:
 
@@ -225,13 +251,18 @@ COST NOTE:          Utility accepted only because source harm was not increased.
 REVOCATION TRIGGER: Any dependency on live distress response.
 
 
-The purpose is not to flatten anomalies into bureaucracy. The purpose is to stop the bureaucracy from forgetting the moral shape of its choices.
+The purpose is not to flatten anomalies into bureaucracy. The purpose is to stop
+the bureaucracy from forgetting the
+moral shape of its choices.
 
 ---
 
 ## 4.12 Legacy Assets
 
-A.C.T already has legacy transformed systems, most visibly the 004-series amnestic lineage. Older assets may predate this Board. They must be entered into the register with one of these authority tags:
+A.C.T already has legacy transformed systems, most visibly the 004-series amnestic lineage. Older assets
+may predate
+this Board. They must be entered into the register with one of these authority
+tags:
 
 - PRE-TRB AUTHORIZED;
 - O5 LEGACY SEALED;
@@ -240,7 +271,8 @@ A.C.T already has legacy transformed systems, most visibly the 004-series amnest
 - RETIRED BEFORE REVIEW;
 - PROHIBITED RETROACTIVE USE.
 
-Legacy does not mean clean. It means the cost may be older than the form.
+Legacy does not mean clean. It means the cost may be older than the
+form.
 
 ---
 
@@ -251,7 +283,8 @@ The Board may not approve:
 - transformation that requires sentient agony as fuel;
 - transformation that permanently erases a subject's personhood for convenience;
 - weaponization of survivor trauma;
-- asset production from childlike subjects without O5 emergency seal and Subject Care dissent record;
+- asset production from childlike subjects without O5 emergency seal and Subject Care dissent
+record;
 - field use without maintenance and recall conditions;
 - secrecy arguments that hide internal harm from the archive;
 - repeating an enemy GOI's abuse under A.C.T vocabulary.

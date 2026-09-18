@@ -29,7 +29,8 @@ architectures through which the node holds material whose danger grows with
 understanding.
 
 This dossier records the floor in full institutional language: what it is,
-what it holds, how it is built, how it is guarded, and how the node
+what it holds, how it is built, how it is guarded, and how the
+node
 contains the material that turns knowledge against the knower.
 
 ---
@@ -334,7 +335,8 @@ controlled to preserve continuity of holding knowledge.
 Duty on F-2 is governed by restriction sets: rounds, monitoring, vault
 maintenance, and documentation. Personnel work under the awareness that
 their own perception is part of the containment system — that on this
-floor, what a person sees and how they see it is a matter of procedure.
+floor, what a person sees and how they see it is a matter of
+procedure.
 
 ### 11.3 Cognitive Care
 
@@ -349,7 +351,8 @@ limits and evaluation schedules are enforced as containment parameters.
 ### 12.1 Perception Doctrine
 
 F-2 doctrine holds that perception is a containment channel: the floor
-treats the eye and the mind as routes into and out of confinement, and its
+treats the eye and the mind as routes into and out of confinement, and
+its
 architecture, procedures, and records are built to govern those routes.
 
 ### 12.2 Visual-Denial Doctrine

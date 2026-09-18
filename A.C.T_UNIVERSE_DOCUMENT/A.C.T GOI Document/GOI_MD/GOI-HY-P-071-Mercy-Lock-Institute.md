@@ -17,28 +17,49 @@
 | KNOWN LEADERSHIP | Ward Governors, Lock Physicians, Quiet Engineers, Patient Advocates, and custody chaplains |
 | KNOWN MEMBERSHIP | Doctors, nurses, containment engineers, hospice staff, legal guardians, altered-person advocates, and ward guards |
 | PRIMARY ACTIVE REGION | Private clinics, long-term abnormal care wards, hidden hospices, custody houses, and low-violence containment beds |
-| KNOWN ASSETS | Gentle locks, consent ledgers, quiet rooms, soft restraints, ward keys, patient bells, shielded ambulances, and clinics |
-| KNOWN HOLDINGS | Mercy wards, sealed hospices, patient houses, underground care basements, mobile care units, and legal trust shells |
-| IDEOLOGY | Containment is justified only when it prevents harm while preserving the patient, witness, subject, or resident as a person rather than evidence |
+| KNOWN ASSETS | clinics |
+| KNOWN HOLDINGS | trust shells |
+| IDEOLOGY | Containment is justified only when it prevents harm while preserving the patient, witness, subject,<br>or resident as a<br>person rather than evidence |
 | HISTORY WITH A.C.T | Repeated cooperation through patient transfer, nonviolent entity custody, altered-person care, and ward consultation |
 | ANOMALY CROSS-REFERENCE | Restricted medical, hospice, restraint, altered-person, low-risk custody, legal guardianship, and transfer files |
 | CURRENT STATUS | ACTIVE - positive allied containment institution monitored |
 | PRIMARY FILE AUTHORITY | Medical Division / Containment / Subject Care / Legal |
 | SITE JURISDICTION | Central Command with Site 01, Site 02, and medical review |
-| CLEARANCE REQUIRED | Level 4; Level 5 for patient names, ward locations, living anomalies, custody failures, and A.C.T transfer agreements |
+| CLEARANCE REQUIRED | Level 4; Level 5 for patient names, ward locations, living anomalies, custody failures, and<br>A.C.T transfer agreements |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Restricted Record |
 | DISTRIBUTION | Medical / Containment / Subject Care / Legal / Intelligence / Command |
-| AUTHORITY | Medical Division, Containment Division, Subject Care Division, Legal Division, Intelligence Division, and Central Archive |
+| AUTHORITY | Archive |
 
 #### Archive Note
-Mercy Lock Institute is the active hybrid filing for an outside allied containment and abnormal-care institution that houses, treats, restrains, studies, protects, and legally advocates for low-violence anomalous persons, altered civilians, nonhuman dependents, and dangerous patients who cannot safely live in public but should not be treated as disposable hazards. The Institute is not an A.C.T branch, not a normal hospital, not a prison company, not a religious mercy sect, and not Mercy of the Quiet Sun. Its use of the word mercy refers to restraint with care, not quiet surrender to extinction.
+Mercy Lock Institute is the active hybrid filing for an outside allied containment and
+abnormal-care institution that
+houses, treats, restrains, studies, protects, and legally advocates for low-violence anomalous persons, altered
+civilians, nonhuman dependents, and dangerous patients who cannot safely live in public but should
+not be treated as
+disposable hazards. The Institute is not an A.C.T branch, not a normal hospital, not
+a prison company, not a religious
+mercy sect, and not Mercy of the Quiet Sun. Its use of the word
+mercy refers to restraint with care, not quiet
+surrender to extinction.
 
-The relationship class is **POSITIVE**. Mercy Lock Institute repeatedly reduces harm, preserves lives, accepts difficult patients, prevents abusive custody, reports predatory buyers, and cooperates with A.C.T transfers when trust and legal safeguards exist. A.C.T still monitors the Institute because it possesses independent containment capacity, withholds patient locations, negotiates as if anomalous residents have enforceable rights, and sometimes refuses A.C.T custody orders. Positive does not mean obedient.
+The relationship class is **POSITIVE**. Mercy Lock Institute repeatedly reduces harm, preserves lives, accepts
+difficult patients, prevents abusive custody, reports predatory buyers, and cooperates with A.C.T transfers when
+trust
+and legal safeguards exist. A.C.T still monitors the Institute because it possesses independent containment
+capacity,
+withholds patient locations, negotiates as if anomalous residents have enforceable rights, and sometimes refuses
+A.C.T
+custody orders. Positive does not mean obedient.
 
-Patient identities, ward sites, living anomaly names, restraint designs, transfer agreements, and failed lock incidents are censored under **MERCY LOCK DISCLOSURE LIMIT**. Redactions protect patients from hostile GOIs, prevent public discovery of hidden care wards, and limit misuse of restraint methods that could be converted into private prisons.
+Patient identities, ward sites, living anomaly names, restraint designs, transfer agreements, and failed lock
+incidents are censored under **MERCY LOCK DISCLOSURE LIMIT**. Redactions protect patients from hostile GOIs,
+prevent
+public discovery of hidden care wards, and limit misuse of restraint methods that could
+be converted into private
+prisons.
 
 ---
 
@@ -46,9 +67,26 @@ Patient identities, ward sites, living anomaly names, restraint designs, transfe
 
 ### Group Function
 
-Mercy Lock Institute functions as a non-A.C.T containment hospital and legal-care network. Its central work is custody without abandonment. It accepts cases that ordinary hospitals cannot explain and that state prisons, families, markets, or hostile groups would mishandle: people who involuntarily injure rooms while sleeping, children whose shadows open doors, elderly entities that feed only on remembered songs, transformed workers who cannot pass public medical review, harmless but contagious grief phenomena, and subjects whose bodies or names make ordinary guardianship impossible.
+Mercy Lock Institute functions as a non-A.C.T containment hospital and legal-care network. Its central
+work is custody
+without abandonment. It accepts cases that ordinary hospitals cannot explain and that state prisons,
+families,
+markets, or hostile groups would mishandle: people who involuntarily injure rooms while sleeping, children
+whose
+shadows open doors, elderly entities that feed only on remembered songs, transformed workers who
+cannot pass public
+medical review, harmless but contagious grief phenomena, and subjects whose bodies or names make
+ordinary guardianship
+impossible.
 
-A.C.T tracks the Institute because it proves containment can exist outside A.C.T command and still be organized, ethical, technically competent, and consequential. It also creates jurisdictional tension. A.C.T cannot ignore a group capable of holding anomalous residents in stable wards for years. A.C.T also cannot treat every independent care ward as hostile when Mercy Lock residents may be alive only because the Institute intervened before official forces did.
+A.C.T tracks the Institute because it proves containment can exist outside A.C.T command and
+still be organized,
+ethical, technically competent, and consequential. It also creates jurisdictional tension. A.C.T cannot ignore a
+group
+capable of holding anomalous residents in stable wards for years. A.C.T also cannot treat
+every independent care ward
+as hostile when Mercy Lock residents may be alive only because the Institute intervened
+before official forces did.
 
 The Institute's core rule is:
 
@@ -56,13 +94,24 @@ The Institute's core rule is:
 LOCK THE HARM. DO NOT LOCK AWAY THE PERSON.
 ```
 
-This rule appears on patient advocate forms, ward training cards, and transfer agreements. It is the difference between Mercy Lock and ordinary containment contractors.
+This rule appears on patient advocate forms, ward training cards, and transfer agreements. It
+is the difference
+between Mercy Lock and ordinary containment contractors.
 
 ### Public Presence and Concealment
 
-Publicly, Mercy Lock appears as private rehabilitation clinics, hospice charities, neurological care trusts, secure psychiatric units, disability-rights legal firms, rare-disease hospices, sheltered housing programs, and mobile palliative-care teams. Most employees know only the public layer. Ward-level staff understand that some patients require containment architecture, nonstandard consent, and danger language not available in ordinary medicine.
+Publicly, Mercy Lock appears as private rehabilitation clinics, hospice charities, neurological care trusts, secure
+psychiatric units, disability-rights legal firms, rare-disease hospices, sheltered housing programs, and mobile
+palliative-care teams. Most employees know only the public layer. Ward-level staff understand that some
+patients
+require containment architecture, nonstandard consent, and danger language not available in ordinary medicine.
 
-Known external marks include blue key pins, patient bells wrapped in white cloth, referral cards stamped **DO NOT HANDCUFF BEFORE CALLING**, and clinic doors with lock plates engraved on the inside rather than outside. A.C.T has confirmed that most marks are mundane identity discipline. Some patient bells may be active anomaly-handling tools.
+Known external marks include blue key pins, patient bells wrapped in white cloth, referral
+cards stamped **DO NOT
+HANDCUFF BEFORE CALLING**, and clinic doors with lock plates engraved on the inside rather
+than outside. A.C.T has
+confirmed that most marks are mundane identity discipline. Some patient bells may be active
+anomaly-handling tools.
 
 ---
 
@@ -70,9 +119,19 @@ Known external marks include blue key pins, patient bells wrapped in white cloth
 
 ### Leadership Condition
 
-Mercy Lock is governed through Ward Governors and Lock Physicians. A Ward Governor controls a site, budget, legal cover, and patient acceptance. A Lock Physician controls restraint plans, medical protocols, discharge limits, and transfer review. Patient Advocates can delay transfers if they believe a resident is being reduced to evidence or weapon value. Quiet Engineers maintain rooms, locks, soft barriers, bells, and movement paths.
+Mercy Lock is governed through Ward Governors and Lock Physicians. A Ward Governor controls
+a site, budget, legal
+cover, and patient acceptance. A Lock Physician controls restraint plans, medical protocols, discharge limits,
+and
+transfer review. Patient Advocates can delay transfers if they believe a resident is being
+reduced to evidence or
+weapon value. Quiet Engineers maintain rooms, locks, soft barriers, bells, and movement paths.
 
-No global director has been confirmed. Correspondence references a **First Key Table**, but A.C.T has not determined whether this is a board, a founding ward, a legal trust, or a rotating ethical review body. The uncertainty is operationally important because local cooperation does not guarantee network-wide compliance.
+No global director has been confirmed. Correspondence references a **First Key Table**, but A.C.T
+has not determined
+whether this is a board, a founding ward, a legal trust, or a rotating
+ethical review body. The uncertainty is
+operationally important because local cooperation does not guarantee network-wide compliance.
 
 ### Internal Structure
 
@@ -88,13 +147,24 @@ A.C.T identifies these functional layers:
 - Consent Clerks who record voluntary, substitute, emergency, and disputed custody conditions;
 - Red Key Reviewers who investigate restraint injury, disappearance, suicide, or failed mercy protocols.
 
-The structure makes the Institute durable. It is not a one-clinic exception. It is a system of care, law, restraint, and hidden logistics.
+The structure makes the Institute durable. It is not a one-clinic exception. It is
+a system of care, law, restraint,
+and hidden logistics.
 
 ### Membership and Recruitment
 
-Membership includes physicians, nurses, paramedics, psychologists, occupational therapists, hospice workers, disability advocates, containment engineers, locksmiths, structural technicians, social workers, legal guardians, former A.C.T contractors, altered-person relatives, and survivors of abusive containment. Some are recruited after witnessing a public system fail a patient. Some are recruited through medical schools and rare-disease networks. Some arrive after Candle-Under Exchange or Grey Harbor Civil Rescue Directorate refers a survivor who cannot be safely housed elsewhere.
+Membership includes physicians, nurses, paramedics, psychologists, occupational therapists, hospice workers,
+disability advocates, containment engineers, locksmiths, structural technicians, social workers, legal guardians,
+former A.C.T contractors, altered-person relatives, and survivors of abusive containment. Some are recruited after
+witnessing a public system fail a patient. Some are recruited through medical schools and
+rare-disease networks. Some
+arrive after Candle-Under Exchange or Grey Harbor Civil Rescue Directorate refers a survivor who
+cannot be safely
+housed elsewhere.
 
-Mercy Lock does not recruit with promises of power. It recruits through duty and outrage. A training sheet recovered from a closed ward states:
+Mercy Lock does not recruit with promises of power. It recruits through duty and
+outrage. A training sheet recovered
+from a closed ward states:
 
 ```text
 If your first instinct is to prove the lock works, leave.
@@ -109,7 +179,13 @@ A.C.T Medical Division considers the sheet consistent with positive alignment.
 
 ### Stated Belief
 
-Mercy Lock believes dangerous abnormal conditions do not cancel personhood. It accepts that restraint may be necessary. It rejects cruelty disguised as safety. Its doctrine treats containment as a medical, legal, ethical, and architectural burden rather than a victory. The patient may be human, formerly human, partially human, nonhuman, or administratively impossible. The duty remains care before convenience.
+Mercy Lock believes dangerous abnormal conditions do not cancel personhood. It accepts that restraint
+may be
+necessary. It rejects cruelty disguised as safety. Its doctrine treats containment as a medical,
+legal, ethical, and
+architectural burden rather than a victory. The patient may be human, formerly human, partially
+human, nonhuman, or
+administratively impossible. The duty remains care before convenience.
 
 Common ward phrases include:
 
@@ -129,13 +205,26 @@ The Institute is not anti-containment. It is anti-abandonment.
 
 ### Assessed Objective
 
-A.C.T assesses that Mercy Lock seeks to build and preserve an independent network of humane containment beds. Its objective is to reduce suffering, prevent abuse, hold dangerous conditions safely, and maintain legal standing for residents whose status would otherwise be erased by emergency custody. It does not seek to expose anomalies publicly, seize A.C.T facilities, or free every contained subject. It seeks the right to say no when a containment order would harm a patient beyond necessity.
+A.C.T assesses that Mercy Lock seeks to build and preserve an independent network of
+humane containment beds. Its
+objective is to reduce suffering, prevent abuse, hold dangerous conditions safely, and maintain legal
+standing for
+residents whose status would otherwise be erased by emergency custody. It does not seek
+to expose anomalies publicly,
+seize A.C.T facilities, or free every contained subject. It seeks the right to say
+no when a containment order would
+harm a patient beyond necessity.
 
-The objective aligns with A.C.T Medical, Subject Care, and some Containment ethics. It conflicts with A.C.T Command when urgent containment, secrecy, or evidence recovery requires speed and Mercy Lock demands advocacy review.
+The objective aligns with A.C.T Medical, Subject Care, and some Containment ethics. It conflicts
+with A.C.T Command
+when urgent containment, secrecy, or evidence recovery requires speed and Mercy Lock demands advocacy
+review.
 
 ### Anomalous Capability Assessment
 
-Mercy Lock is assigned **Containment** capability. It has demonstrated repeat capacity to restrain, house, treat, and stabilize anomalous persons and conditions. Confirmed or strongly assessed capabilities include:
+Mercy Lock is assigned **Containment** capability. It has demonstrated repeat capacity to restrain, house,
+treat, and
+stabilize anomalous persons and conditions. Confirmed or strongly assessed capabilities include:
 
 - soft-room designs that reduce panic escalation in altered persons;
 - gentle locks that resist specific patient-triggered opening effects without causing restraint trauma;
@@ -146,13 +235,23 @@ Mercy Lock is assigned **Containment** capability. It has demonstrated repeat ca
 - family-contact protocols that prevent dangerous visits without severing all recognition;
 - transfer plans allowing A.C.T custody without treating residents as seized objects.
 
-The Institute's technology is uneven. Some wards are excellent. Some are improvised. Several failures show that humane intent does not guarantee safe containment.
+The Institute's technology is uneven. Some wards are excellent. Some are improvised. Several failures
+show that humane
+intent does not guarantee safe containment.
 
 ### Secrecy and Civilian Exposure
 
-Mercy Lock is **Veiled** because it hides behind legitimate medical and legal structures. Its patients often already have cover diagnoses, sealed guardianship files, private-care funding, or rare-disease classifications. Public exposure risk rises when a patient escapes, a family protests custody, an insurer asks the wrong question, or A.C.T transfer vehicles appear near a Mercy ward.
+Mercy Lock is **Veiled** because it hides behind legitimate medical and legal structures. Its
+patients often already
+have cover diagnoses, sealed guardianship files, private-care funding, or rare-disease classifications. Public
+exposure risk rises when a patient escapes, a family protests custody, an insurer asks
+the wrong question, or A.C.T
+transfer vehicles appear near a Mercy ward.
 
-The Institute's secrecy is not only self-protection. If ward addresses leak, hostile markets, cults, collectors, and frightened relatives may target residents. A.C.T must treat some secrecy as patient safety, not simple obstruction.
+The Institute's secrecy is not only self-protection. If ward addresses leak, hostile markets, cults,
+collectors, and
+frightened relatives may target residents. A.C.T must treat some secrecy as patient safety, not
+simple obstruction.
 
 ---
 
@@ -160,7 +259,13 @@ The Institute's secrecy is not only self-protection. If ward addresses leak, hos
 
 ### Operational Regions
 
-Mercy Lock operates transnationally through private clinics, hospice trusts, sealed care houses, hospital basements, disability-law offices, mobile medical units, religious care charities, and unlisted rehabilitation farms. Confirmed or suspected activity appears in the United Kingdom, Ireland, France, Germany, Canada, Japan, India, Brazil, South Africa, and several maritime transfer points. Regional variation is high because public medical law shapes local cover.
+Mercy Lock operates transnationally through private clinics, hospice trusts, sealed care houses, hospital basements,
+disability-law offices, mobile medical units, religious care charities, and unlisted rehabilitation farms. Confirmed
+or suspected activity appears in the United Kingdom, Ireland, France, Germany, Canada, Japan, India,
+Brazil, South
+Africa, and several maritime transfer points. Regional variation is high because public medical law
+shapes local
+cover.
 
 ### Known Assets and Holdings
 
@@ -177,11 +282,21 @@ Known or assessed assets include:
 - end-of-life rooms where nonhuman or transformed residents can be witnessed;
 - Red Key incident files documenting restraint injury and failed ward ethics.
 
-A.C.T has inspected three wards under agreement, entered two during emergency transfer, and raided one after a containment failure. Full network holdings remain undisclosed.
+A.C.T has inspected three wards under agreement, entered two during emergency transfer, and raided
+one after a
+containment failure. Full network holdings remain undisclosed.
 
 ### Operating Method
 
-A typical Mercy Lock intake begins with referral, danger description, patient condition, consent status, family risk, public cover, and containment need. A Lock Physician drafts a restraint plan. A Patient Advocate records objections, preferences, communication methods, and what the resident must never be called. Quiet Engineers prepare a room. Soft Guards rehearse entry without weapons visible unless risk requires otherwise. Consent Clerks record who may authorize treatment if the patient becomes unreachable by ordinary speech.
+A typical Mercy Lock intake begins with referral, danger description, patient condition, consent status,
+family risk,
+public cover, and containment need. A Lock Physician drafts a restraint plan. A Patient
+Advocate records objections,
+preferences, communication methods, and what the resident must never be called. Quiet Engineers prepare
+a room. Soft
+Guards rehearse entry without weapons visible unless risk requires otherwise. Consent Clerks record who
+may authorize
+treatment if the patient becomes unreachable by ordinary speech.
 
 Recovered intake categories include:
 
@@ -194,7 +309,9 @@ BLACK LOCK: resident can kill or spread harm without intent; dual-key review req
 RED LOCK: current plan failed; ward closed until Red Key review.
 ```
 
-A.C.T may use these categories for field communication only after local confirmation. Mercy Lock color categories are not A.C.T containment classes.
+A.C.T may use these categories for field communication only after local confirmation. Mercy Lock
+color categories are
+not A.C.T containment classes.
 
 ---
 
@@ -202,9 +319,21 @@ A.C.T may use these categories for field communication only after local confirma
 
 ### Contact History
 
-A.C.T first consolidated Mercy Lock references through a failed public psychiatric transfer. A patient classified by local authorities as violent and delusional had been held in a private clinic after repeatedly burning door handles without touching them. When police attempted removal, the patient's panic escalated and six officers sustained heat injuries. A Mercy Lock nurse produced a referral card reading **DO NOT HANDCUFF BEFORE CALLING** and requested A.C.T contact through an old disaster medical channel.
+A.C.T first consolidated Mercy Lock references through a failed public psychiatric transfer. A patient
+classified by
+local authorities as violent and delusional had been held in a private clinic after
+repeatedly burning door handles
+without touching them. When police attempted removal, the patient's panic escalated and six officers
+sustained heat
+injuries. A Mercy Lock nurse produced a referral card reading **DO NOT HANDCUFF BEFORE
+CALLING** and requested A.C.T
+contact through an old disaster medical channel.
 
-A.C.T Containment initially treated the clinic as illegal custody. Medical Division found that the patient had been alive, fed, medicated, visited, and protected for months in a room with fewer injuries than any public holding option available. The case produced the first provisional transfer agreement.
+A.C.T Containment initially treated the clinic as illegal custody. Medical Division found that the
+patient had been
+alive, fed, medicated, visited, and protected for months in a room with fewer injuries
+than any public holding option
+available. The case produced the first provisional transfer agreement.
 
 Recovered card:
 
@@ -218,13 +347,25 @@ CALL BEFORE FORCE: [CENSOR: ORIGINAL CLINIC NAME]
 Lock the harm. Do not lock away the person.
 ```
 
-Since then, A.C.T and Mercy Lock have cooperated in patient transfer, altered-child housing, nonviolent entity custody, end-of-life witnessing, escaped-resident recovery, and ward engineering consultation. Cooperation remains case-specific.
+Since then, A.C.T and Mercy Lock have cooperated in patient transfer, altered-child housing, nonviolent
+entity
+custody, end-of-life witnessing, escaped-resident recovery, and ward engineering consultation. Cooperation remains
+case-specific.
 
 ### Current Relationship
 
-The current relationship is **POSITIVE**. Mercy Lock saves lives and reduces suffering. It has reported predatory buyers, refused offers from hostile GOIs, and protected residents from family members seeking to sell, expose, punish, or exploit them. It has also challenged A.C.T custody decisions and hidden ward locations during disputes.
+The current relationship is **POSITIVE**. Mercy Lock saves lives and reduces suffering. It has
+reported predatory
+buyers, refused offers from hostile GOIs, and protected residents from family members seeking to
+sell, expose, punish,
+or exploit them. It has also challenged A.C.T custody decisions and hidden ward locations
+during disputes.
 
-A.C.T does not classify refusal as hostility when the refusal is grounded in patient safety. A.C.T does classify refusal as obstruction when Mercy Lock conceals active contagion, prevents emergency containment, or fails to report escape risk.
+A.C.T does not classify refusal as hostility when the refusal is grounded in patient
+safety. A.C.T does classify
+refusal as obstruction when Mercy Lock conceals active contagion, prevents emergency containment, or fails
+to report
+escape risk.
 
 ---
 
@@ -232,19 +373,44 @@ A.C.T does not classify refusal as hostility when the refusal is grounded in pat
 
 ### Responsible Jurisdiction
 
-Primary jurisdiction rests with Medical Division, Containment Division, Subject Care Division, Legal Division, and Intelligence Division. Recovery attaches during transfer, escape, or hostile GOI approach. Civil Covert attaches when public cover, clinic licensing, guardianship, or family court action is involved. Site 02 attaches when ward engineering or vehicle transfer is relevant. Site 03 attaches when patient identity, memory, or communication is unstable.
+Primary jurisdiction rests with Medical Division, Containment Division, Subject Care Division, Legal Division, and
+Intelligence Division. Recovery attaches during transfer, escape, or hostile GOI approach. Civil Covert attaches
+when
+public cover, clinic licensing, guardianship, or family court action is involved. Site 02 attaches
+when ward
+engineering or vehicle transfer is relevant. Site 03 attaches when patient identity, memory, or
+communication is
+unstable.
 
 ### Posture Implementation
 
-A.C.T posture is **COOPERATED / HELP / MONITOR / APPROPRIATE**. Cooperation is authorized for patient transfer, humane restraint consultation, nonviolent containment design, family-risk review, and emergency ward support. Help is authorized when Mercy Lock wards face hostile GOI attack, public police misunderstanding, dangerous family intervention, medical supply interruption, or infrastructure failure.
+A.C.T posture is **COOPERATED / HELP / MONITOR / APPROPRIATE**. Cooperation is authorized for
+patient transfer, humane
+restraint consultation, nonviolent containment design, family-risk review, and emergency ward support. Help is
+authorized when Mercy Lock wards face hostile GOI attack, public police misunderstanding, dangerous family
+intervention, medical supply interruption, or infrastructure failure.
 
-Monitoring includes ward locations, referral channels, patient categories, lock designs, ambulance movement, legal trust shells, Red Key incidents, and known disagreements with A.C.T custody. Appropriation is limited to active hazards, failed lock devices, dangerous records, or patients whose condition exceeds Mercy Lock capacity. Appropriation must include Medical and Legal review unless immediate mass harm is present.
+Monitoring includes ward locations, referral channels, patient categories, lock designs, ambulance movement, legal
+trust shells, Red Key incidents, and known disagreements with A.C.T custody. Appropriation is limited
+to active
+hazards, failed lock devices, dangerous records, or patients whose condition exceeds Mercy Lock capacity.
+Appropriation must include Medical and Legal review unless immediate mass harm is present.
 
 ### Response Limits and Red Lines
 
-A.C.T personnel must not treat Mercy Lock residents as objects by default. Do not remove patient bells without understanding function. Do not transfer a resident by force solely because an A.C.T file is incomplete. Do not publish ward addresses through public cover systems. Do not assume that a Mercy Lock advocate is lying because they resist Command pace.
+A.C.T personnel must not treat Mercy Lock residents as objects by default. Do not
+remove patient bells without
+understanding function. Do not transfer a resident by force solely because an A.C.T file
+is incomplete. Do not publish
+ward addresses through public cover systems. Do not assume that a Mercy Lock advocate
+is lying because they resist
+Command pace.
 
-A.C.T will not permit the Institute to conceal active mass-risk patients, conduct treatment experiments without consent review, use restraint as punishment, sell resident information, accept hostile funding, or refuse emergency containment for reasons of reputation. Positive classification depends on care remaining real.
+A.C.T will not permit the Institute to conceal active mass-risk patients, conduct treatment experiments
+without
+consent review, use restraint as punishment, sell resident information, accept hostile funding, or refuse
+emergency
+containment for reasons of reputation. Positive classification depends on care remaining real.
 
 ---
 
@@ -267,12 +433,18 @@ Institute requirement: no visible firearm, no handcuffs, advocate present, bell 
 Lock the harm. Do not lock away the person.
 ```
 
-The transfer succeeded after Containment removed visible weapons and Medical allowed the bell to travel inside a shielded pouch. Heat output remained below injury threshold. The patient later provided usable testimony regarding the first manifestation event.
+The transfer succeeded after Containment removed visible weapons and Medical allowed the bell to
+travel inside a
+shielded pouch. Heat output remained below injury threshold. The patient later provided usable testimony
+regarding the
+first manifestation event.
 
 ```text
 SUBJECT CARE ADDENDUM
 
-The Institute was correct about restraints. The first A.C.T plan would likely have injured staff and patient. Record this as operational learning, not embarrassment.
+The Institute was correct about restraints. The first A.C.T plan would likely have injured
+staff and patient. Record
+this as operational learning, not embarrassment.
 ```
 
 ```text
@@ -285,7 +457,9 @@ Quiet Engineer suspended.
 Ward reopened after lock face replaced with soft plate.
 ```
 
-The fragment confirms that Mercy Lock investigates its own failures and that its humane standards are enforced imperfectly but materially.
+The fragment confirms that Mercy Lock investigates its own failures and that its humane
+standards are enforced
+imperfectly but materially.
 
 ---
 
@@ -302,24 +476,44 @@ The fragment confirms that Mercy Lock investigates its own failures and that its
 
 ### Active Intelligence Assessment
 
-A.C.T assesses Mercy Lock Institute as a specialized POSITIVE allied containment GOI. Its recurring pressure is ethical and institutional. It forces A.C.T to distinguish between containment as control and containment as care. When the Institute is right, A.C.T gains safer transfers, calmer patients, better testimony, and fewer civilian injuries. When the Institute is wrong, hidden wards can become unreported hazard centers.
+A.C.T assesses Mercy Lock Institute as a specialized POSITIVE allied containment GOI. Its recurring
+pressure is
+ethical and institutional. It forces A.C.T to distinguish between containment as control and containment
+as care. When
+the Institute is right, A.C.T gains safer transfers, calmer patients, better testimony, and fewer
+civilian injuries.
+When the Institute is wrong, hidden wards can become unreported hazard centers.
 
-Mercy Lock is also a future technology-document source. Gentle locks, patient bells, consent ledgers, and quiet-room architecture require individual extended records after the GOI creation phase. These instruments are not fully explained in this dossier because they belong in separate technology or equipment files.
+Mercy Lock is also a future technology-document source. Gentle locks, patient bells, consent ledgers,
+and quiet-room
+architecture require individual extended records after the GOI creation phase. These instruments are not
+fully
+explained in this dossier because they belong in separate technology or equipment files.
 
 ### Persistent Questions
 
-- Does the First Key Table exist as a central board, founding ward, legal trust, or review ritual?
+  Does the First Key Table exist as a central board, founding ward, legal
+  trust,
+  or review ritual?
 - Which gentle locks are engineered devices and which are anomaly-derived artifacts?
 - How many residents are hidden from A.C.T because public exposure would endanger them?
 - Has Mercy Lock ever released a patient whose danger later exceeded its assessment?
 - Do consent ledgers resist NEMNOLIA-series amnestic effects or only ordinary record loss?
 - Which hostile GOIs have attempted to buy resident locations?
 - How many former A.C.T contractors work inside the Institute?
-- Can A.C.T create formal transfer protocols without turning Mercy Lock into an unofficial A.C.T ward system?
+  Can A.C.T create formal transfer protocols without turning Mercy Lock into an unofficial
+  A.C.T
+  ward system?
 
 ### Intelligence Confidence
 
-Moderate to High. A.C.T has inspected wards, witnessed transfers, recovered cards, interviewed staff, and reviewed Red Key incident fragments. Confidence is limited by withheld patient lists, regional legal variation, uncertainty around the First Key Table, and incomplete technical analysis of Institute locks and bells. Confidence may rise through a formal joint transfer framework and controlled technology review.
+Moderate to High. A.C.T has inspected wards, witnessed transfers, recovered cards, interviewed staff, and
+reviewed Red
+Key incident fragments. Confidence is limited by withheld patient lists, regional legal variation, uncertainty
+around
+the First Key Table, and incomplete technical analysis of Institute locks and bells. Confidence
+may rise through a
+formal joint transfer framework and controlled technology review.
 
 ---
 
@@ -327,7 +521,12 @@ Moderate to High. A.C.T has inspected wards, witnessed transfers, recovered card
 
 ### Anomaly and Record Relationship
 
-Mercy Lock Institute is an organization and therefore belongs in the GOI archive. Individual gentle locks, patient bells, quiet rooms, consent ledgers, shielded ambulances, ward keys, soft restraints, and Red Key incident files may require separate technology, anomaly, medical, legal, or recovered-document records. This GOI dossier must not substitute for resident-specific files.
+Mercy Lock Institute is an organization and therefore belongs in the GOI archive. Individual
+gentle locks, patient
+bells, quiet rooms, consent ledgers, shielded ambulances, ward keys, soft restraints, and Red Key
+incident files may
+require separate technology, anomaly, medical, legal, or recovered-document records. This GOI dossier must not
+substitute for resident-specific files.
 
 ### Related A.C.T Records
 
@@ -338,11 +537,17 @@ Mercy Lock Institute is an organization and therefore belongs in the GOI archive
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD/GOI-CU-X-065-Mercy-of-the-Quiet-Sun.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Complete_Designation_and_Class_Reference.md`
 - `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Standing_Field_Units_and_Cross_Containment_Interaction_Doctrine.md`
-- Restricted medical, hospice, restraint, altered-person, low-risk custody, legal guardianship, and transfer files held under Central Archive routing.
+  Restricted medical, hospice, restraint, altered-person, low-risk custody, legal guardianship, and transfer files
+  held
+  under Central Archive routing.
 
 ### Dual Filing
 
-Mandatory when Institute devices, rooms, ledgers, bells, restraints, or ambulances demonstrate active anomalous behavior. Mandatory for any living resident whose condition qualifies for anomaly, subject-care, medical, witness, or legal filing. Technology documents should be created for recurring Institute tools during the dedicated technology-document phase.
+Mandatory when Institute devices, rooms, ledgers, bells, restraints, or ambulances demonstrate active anomalous
+behavior. Mandatory for any living resident whose condition qualifies for anomaly, subject-care, medical, witness,
+or
+legal filing. Technology documents should be created for recurring Institute tools during the dedicated
+technology-document phase.
 
 ---
 

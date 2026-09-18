@@ -27,7 +27,8 @@ protocols. The floor is where the node first meets everything it will ever
 hold.
 
 This dossier records the floor in full institutional language: what it is,
-what it does, how it is built, how it is run, and how the node's entire
+what it does, how it is built, how it is run, and how the
+node's entire
 holding system begins at the intake desk.
 
 ---

@@ -23,12 +23,14 @@ Complex**.
 
 F-9 is the uppermost operational level of the buried core: vehicle
 screening, delivery intake, loading bay processing, and the primary elevator
-bank connecting the campus to the levels below. It is the only level of the
+bank connecting the campus to the levels below. It is the only level of
+the
 complex where legitimate civilian activity and Facility activity share
 physical space — separated by an unmarked wall that has never been breached.
 
 This dossier records the floor in full institutional language: what it is,
-how it conceals, how it is built, and how it stands as the boundary between
+how it conceals, how it is built, and how it stands as the boundary
+between
 the ordinary world and the buried complex that operates beneath it.
 
 ---
@@ -330,7 +332,8 @@ containment functions.
 F-9 doctrine holds that protection must be invisible: the floor's screening
 architecture, monitoring, and security presence are designed to be
 indistinguishable from ordinary campus operations. The unmarked wall is the
-doctrine's symbol — secure because it gives no sign of being a wall at all.
+doctrine's symbol — secure because it gives no sign of being a wall at
+all.
 
 ### 12.3 Transition Doctrine
 
@@ -381,5 +384,6 @@ ordinary world and the Facility share physical space — separated by an
 unmarked wall that has never been breached.
 
 It is the complex's first containment line and its quietest one: a wall
-that gives no sign of being a wall, and a floor that guards the impossible
+that gives no sign of being a wall, and a floor that guards the
+impossible
 by looking exactly like an ordinary loading level in an ordinary place.

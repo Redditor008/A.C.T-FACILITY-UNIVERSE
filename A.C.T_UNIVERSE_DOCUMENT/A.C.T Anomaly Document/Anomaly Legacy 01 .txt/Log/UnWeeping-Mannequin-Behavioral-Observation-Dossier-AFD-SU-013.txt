@@ -268,7 +268,8 @@ each with a simple symbol:
    - dress symbol = clothing
    - shutter symbol = end observation
 
-Cards were shown one at a time for no more than 45 seconds. Subject responses
+Cards were shown one at a time for no more than 45 seconds. Subject
+responses
 were recorded.
 
 OBSERVATIONS:

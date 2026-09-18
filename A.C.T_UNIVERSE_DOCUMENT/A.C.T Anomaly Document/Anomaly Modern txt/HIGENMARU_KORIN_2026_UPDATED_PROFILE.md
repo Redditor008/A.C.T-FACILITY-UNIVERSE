@@ -10,7 +10,8 @@
 **Current year:** 2026  
 **Anomaly structure:** **One registered anomaly containing two distinct entities/presences**  
 **Current status:** Kazumi-aligned / dual presence confirmed / residing at Kazumi Temple  
-**Current relationship to Kazumi:** Both entities recognize Kazumi’s sovereign authority and will do what she wants
+**Current relationship to Kazumi:** Both entities recognize Kazumi’s sovereign authority and will do what
+she wants
 
 ---
 
@@ -23,7 +24,9 @@ It is a single registered anomaly composed of two distinct internal entities:
 1. **HIGENMARU** — the sword and active predatory presence.
 2. **KŌRIN** — the scabbard and defensive restraining presence.
 
-The two entities remain connected as one anomaly, but they possess different patterns of thought, behavior, and response.
+The two entities remain connected as one anomaly, but they possess different patterns of
+thought, behavior, and
+response.
 
 Their relationship is a dichotomy:
 
@@ -33,13 +36,18 @@ Their relationship is a dichotomy:
 - observation and caution;
 - cutting force and controlled rest.
 
-Neither entity should be written as an inert object. Their awareness does not necessarily operate like ordinary human consciousness, but each has a recognizable Will, disposition, and way of responding to its surroundings.
+Neither entity should be written as an inert object. Their awareness does not necessarily
+operate like ordinary human
+consciousness, but each has a recognizable Will, disposition, and way of responding to its
+surroundings.
 
 ---
 
 ## 2. Physical structure
 
-HIGENMARU-KŌRIN consists of a curved, single-handed sword and its specialized scabbard. The paired artifact measures approximately **90 cm** in length.
+HIGENMARU-KŌRIN consists of a curved, single-handed sword and its specialized scabbard. The paired artifact
+measures
+approximately **90 cm** in length.
 
 ### HIGENMARU — the sword
 
@@ -55,19 +63,24 @@ HIGENMARU contains:
 
 The crimson edge possesses **Absolute Cutting Force**.
 
-It can cut through any known material without conventional resistance, loss of sharpness, or edge degradation. Ordinary hardness and structural durability do not provide reliable protection.
+It can cut through any known material without conventional resistance, loss of sharpness, or
+edge degradation.
+Ordinary hardness and structural durability do not provide reliable protection.
 
 #### Onyx edge
 
 The onyx edge possesses **Selective Causal Breach**.
 
-It can cut a selected target while leaving surrounding or intervening material unaffected. The strike follows the wielder’s intended target rather than ordinary material contact alone.
+It can cut a selected target while leaving surrounding or intervening material unaffected. The
+strike follows the
+wielder’s intended target rather than ordinary material contact alone.
 
 Its established intent-based effective radius is approximately **5 meters**.
 
 ### KŌRIN — the scabbard
 
-KŌRIN is not merely a storage sheath. It is the defensive and restraining half of the anomaly.
+KŌRIN is not merely a storage sheath. It is the defensive and restraining half
+of the anomaly.
 
 Its structure includes:
 
@@ -77,7 +90,9 @@ Its structure includes:
 - a containment relationship with HIGENMARU;
 - a natural preference for stillness, caution, and controlled enclosure.
 
-KŌRIN regulates the state in which HIGENMARU remains at rest. The sword being sheathed is not only a physical condition; it is a relationship between two entities.
+KŌRIN regulates the state in which HIGENMARU remains at rest. The sword being sheathed
+is not only a physical
+condition; it is a relationship between two entities.
 
 ---
 
@@ -89,13 +104,19 @@ HIGENMARU’s way of thinking is:
 
 ### Dominant
 
-HIGENMARU does not behave like a submissive or passive weapon under normal conditions. Its presence pushes outward, tests control, and recognizes hierarchy through strength, authority, and intent.
+HIGENMARU does not behave like a submissive or passive weapon under normal conditions. Its
+presence pushes outward,
+tests control, and recognizes hierarchy through strength, authority, and intent.
 
 ### Vicious
 
-HIGENMARU possesses a predatory disposition. Its cutting and metabolic functions are not emotionally neutral in presentation. It is inclined toward decisive, harmful, and overwhelming action when active.
+HIGENMARU possesses a predatory disposition. Its cutting and metabolic functions are not emotionally neutral
+in
+presentation. It is inclined toward decisive, harmful, and overwhelming action when active.
 
-Vicious does not necessarily mean irrational. HIGENMARU can remain controlled when it recognizes a governing authority.
+Vicious does not necessarily mean irrational. HIGENMARU can remain controlled when it recognizes a
+governing
+authority.
 
 ### Observant
 
@@ -111,7 +132,8 @@ It recognizes:
 - intention directed toward itself;
 - Kazumi’s governing presence.
 
-Its predatory nature is paired with awareness. It does not merely lash out without perceiving its environment.
+Its predatory nature is paired with awareness. It does not merely lash out without
+perceiving its environment.
 
 ---
 
@@ -123,11 +145,15 @@ KŌRIN’s way of thinking is:
 
 ### Defensive
 
-KŌRIN’s purpose and preference are protective. It contains, covers, restrains, and preserves the controlled state of the paired anomaly.
+KŌRIN’s purpose and preference are protective. It contains, covers, restrains, and preserves the controlled
+state of
+the paired anomaly.
 
 ### Cautious
 
-KŌRIN does not favor unnecessary activation. It evaluates approach and disruption through restraint rather than predation.
+KŌRIN does not favor unnecessary activation. It evaluates approach and disruption through restraint rather
+than
+predation.
 
 Its caution complements HIGENMARU’s viciousness. Where HIGENMARU presses outward, KŌRIN limits and contains.
 
@@ -144,7 +170,9 @@ KŌRIN prefers:
 - the absence of unnecessary drawing;
 - the quiet authority of Kazumi’s Temple.
 
-KŌRIN’s stillness is one of the forces preventing HIGENMARU’s predatory routine from becoming continuous uncontrolled activity.
+KŌRIN’s stillness is one of the forces preventing HIGENMARU’s predatory routine from becoming continuous
+uncontrolled
+activity.
 
 ---
 
@@ -170,9 +198,13 @@ KŌRIN provides:
 
 Neither side erases the other.
 
-KŌRIN does not make HIGENMARU harmless. HIGENMARU does not make KŌRIN passive. Their paired condition creates a balance between an apex cutting entity and the presence capable of keeping that entity at rest.
+KŌRIN does not make HIGENMARU harmless. HIGENMARU does not make KŌRIN passive. Their paired
+condition creates a
+balance between an apex cutting entity and the presence capable of keeping that entity
+at rest.
 
-They are therefore categorized as **two entities within one anomaly**, not one entity pretending to possess two moods.
+They are therefore categorized as **two entities within one anomaly**, not one entity pretending
+to possess two moods.
 
 ---
 
@@ -189,11 +221,15 @@ Established effects include:
 - retaining its edge without degradation;
 - producing lethal melee damage with minimal material resistance.
 
-The ability does not automatically prove that HIGENMARU can sever every abstract, conceptual, spiritual, or cosmological target. Those interactions require separate evidence. Its confirmed description concerns known matter and physical structural integrity.
+The ability does not automatically prove that HIGENMARU can sever every abstract, conceptual, spiritual,
+or
+cosmological target. Those interactions require separate evidence. Its confirmed description concerns known matter and
+physical structural integrity.
 
 ### 6.2 Selective Causal Breach
 
-HIGENMARU’s onyx edge can force a slash against a selected target while leaving surrounding material intact.
+HIGENMARU’s onyx edge can force a slash against a selected target while leaving surrounding
+material intact.
 
 This allows it to:
 
@@ -225,13 +261,17 @@ For an ordinary non-anomalous human, use beyond approximately **30 seconds** can
 
 Historical E-Class cross-vault testing produced a 100% mortality rate through total stamina collapse.
 
-The weapon’s obedience to Kazumi does not automatically remove the metabolic cost for every other possible wielder.
+The weapon’s obedience to Kazumi does not automatically remove the metabolic cost for every
+other possible wielder.
 
 ### 6.4 Biological pulse recognition
 
 HIGENMARU can perceive and search for biological pulses.
 
-Before relocation, it reached beyond ordinary mechanical containment and affected nearby technicians through unexplained stamina loss. This behavior demonstrated that its hunger and awareness could extend beyond direct physical handling.
+Before relocation, it reached beyond ordinary mechanical containment and affected nearby technicians through
+unexplained stamina loss. This behavior demonstrated that its hunger and awareness could extend beyond
+direct physical
+handling.
 
 ### 6.5 Dual Will-bearing awareness
 
@@ -257,7 +297,9 @@ Their rule is straightforward:
 
 > **HIGENMARU and KŌRIN will do what Kazumi wants.**
 
-This obedience is not described as ordinary ownership, mechanical programming, or trained compliance. It is **sovereign recognition**.
+This obedience is not described as ordinary ownership, mechanical programming, or trained compliance. It
+is
+**sovereign recognition**.
 
 Kazumi’s presence produces a condition historically described as:
 
@@ -269,7 +311,10 @@ Under Passive Respect:
 - KŌRIN remains stable and still;
 - both entities accept placement within the Temple;
 - both respond to Kazumi’s intent;
-- hostile third-party attempts to draw, net, steal, or relocate them can be rejected through Kazumi’s authority and Boundary Exchange.
+  hostile third-party attempts to draw, net, steal, or relocate them can be rejected
+  through
+  Kazumi’s authority and
+  Boundary Exchange.
 
 Their obedience does not remove their personalities.
 
@@ -288,14 +333,17 @@ The pair rests on a traditional black-lacquer sword stand positioned within Kazu
 
 This placement is intentional:
 
-- it treats the pair as a sovereign-aligned guest rather than paperwork in a vault;
+  it treats the pair as a sovereign-aligned guest rather than paperwork in a
+  vault;
 - Kazumi’s pressure suppresses uncontrolled predatory behavior;
 - the Temple’s acquired Will supports the state of rest;
 - Boundary Exchange discourages theft and hostile handling;
 - KŌRIN’s preference for stillness is reinforced;
 - HIGENMARU recognizes an apex governing presence and ceases searching indiscriminately for biological pulses.
 
-The previous Site-01 magnetic locker is now considered **legacy containment**. It became insufficient after HIGENMARU began reaching through the vault’s Abyssal Masonry and draining nearby personnel.
+The previous Site-01 magnetic locker is now considered **legacy containment**. It became insufficient after
+HIGENMARU
+began reaching through the vault’s Abyssal Masonry and draining nearby personnel.
 
 ---
 
@@ -311,11 +359,15 @@ An entrant bringing:
 - greed may receive the consequence of greed;
 - desire to possess may be forced to experience possession from the opposite side;
 - violence may receive the weight of what that violence intended to take;
-- theft may cause loss of access, location memory, or control of the attempted tool.
+  theft may cause loss of access, location memory, or control of the attempted
+  tool.
 
-A known example involved a net thrown toward HIGENMARU-KŌRIN. Kazumi’s physically spoken command—**"NO."**—caused the net to come apart before reaching the pair.
+A known example involved a net thrown toward HIGENMARU-KŌRIN. Kazumi’s physically spoken command—**"NO."**—caused the
+net to come apart before reaching the pair.
 
-The boundary’s response is not generated by HIGENMARU or KŌRIN alone. It is Kazumi’s governing boundary, supported by the Temple’s aligned Will and recognized by the two entities.
+The boundary’s response is not generated by HIGENMARU or KŌRIN alone. It is Kazumi’s
+governing boundary, supported by
+the Temple’s aligned Will and recognized by the two entities.
 
 ---
 
@@ -327,7 +379,9 @@ Personnel must follow these rules in 2026:
 2. Recognize HIGENMARU and KŌRIN as separate entities within one anomaly.
 3. Do not draw HIGENMARU without Kazumi’s explicit permission.
 4. Do not remove KŌRIN from its established placement without Kazumi’s permission.
-5. Do not attempt to net, restrain, steal, relocate, test, or sample either entity through force.
+   Do not attempt to net, restrain, steal, relocate, test, or sample either entity
+   through
+   force.
 6. Do not assume an administrative clearance level overrides Kazumi’s Temple threshold.
 7. Do not introduce hostile mechanical containment into Boundary Exchange.
 8. Address the pair with awareness that both can recognize intention.
@@ -338,7 +392,9 @@ Personnel must follow these rules in 2026:
 
 ## 11. Capability limitations and cautions
 
-HIGENMARU-KŌRIN is extremely dangerous, but its abilities should not be expanded beyond established evidence without new canon.
+HIGENMARU-KŌRIN is extremely dangerous, but its abilities should not be expanded beyond established evidence
+without
+new canon.
 
 ### Confirmed
 
@@ -363,7 +419,8 @@ HIGENMARU-KŌRIN is extremely dangerous, but its abilities should not be expande
 - identical personalities between sword and scabbard;
 - immunity to every possible foreign power system.
 
-Cross-universe interactions must be determined individually rather than assuming that “absolute cutting” answers every metaphysical question.
+Cross-universe interactions must be determined individually rather than assuming that “absolute cutting” answers every
+metaphysical question.
 
 ---
 
@@ -406,12 +463,36 @@ HIGENMARU-KŌRIN in 2026 should be portrayed as a balanced dual anomaly under Ka
 
 ## 13. Quick-copy profile
 
-**HIGENMARU-KŌRIN, designated AFD-OB-221, is one anomalous sword-and-scabbard pair containing two distinct entities. HIGENMARU is the sword and possesses a Dominant, Vicious, and Observant way of thinking. KŌRIN is the scabbard and possesses a Defensive, Cautious, and Still way of thinking. They remain separate in disposition but operate as one paired anomaly.**
+**HIGENMARU-KŌRIN, designated AFD-OB-221, is one anomalous sword-and-scabbard pair containing two distinct entities.
+HIGENMARU is the sword and possesses a Dominant, Vicious, and Observant way of thinking.
+KŌRIN is the scabbard and
+possesses a Defensive, Cautious, and Still way of thinking. They remain separate in disposition
+but operate as one
+paired anomaly.**
 
-**HIGENMARU’s crimson edge possesses Absolute Cutting Force against known matter, while its matte-black onyx edge can perform Selective Causal Breach, cutting an intended target through intervening material without damaging the obstruction. Its established selective-slash radius is approximately five meters. Using the weapon creates a metabolic link that drains biological stamina; ordinary humans risk collapse, permanent depletion, or death after extended use.**
+**HIGENMARU’s crimson edge possesses Absolute Cutting Force against known matter, while its matte-black onyx
+edge can
+perform Selective Causal Breach, cutting an intended target through intervening material without damaging the
+obstruction. Its established selective-slash radius is approximately five meters. Using the weapon creates a
+metabolic
+link that drains biological stamina; ordinary humans risk collapse, permanent depletion, or death after
+extended
+use.**
 
-**KŌRIN is not an inert sheath. It is the defensive and restraining presence that contains HIGENMARU’s active predatory state. KŌRIN prefers controlled placement, respectful handling, caution, and stillness.**
+**KŌRIN is not an inert sheath. It is the defensive and restraining presence that
+contains HIGENMARU’s active
+predatory state. KŌRIN prefers controlled placement, respectful handling, caution, and stillness.**
 
-**Both HIGENMARU and KŌRIN recognize Kazumi Mori’s sovereign authority and will do what she wants. Their obedience is a form of sovereign recognition rather than ordinary ownership or programming. HIGENMARU remains dominant and vicious while aligned with her; KŌRIN remains defensive and still. Kazumi’s presence places both into Passive Respect, stopping uncontrolled siphoning and allowing them to remain stable within her Temple.**
+**Both HIGENMARU and KŌRIN recognize Kazumi Mori’s sovereign authority and will do what she
+wants. Their obedience is
+a form of sovereign recognition rather than ordinary ownership or programming. HIGENMARU remains dominant
+and vicious
+while aligned with her; KŌRIN remains defensive and still. Kazumi’s presence places both into
+Passive Respect,
+stopping uncontrolled siphoning and allowing them to remain stable within her Temple.**
 
-**In 2026, HIGENMARU-KŌRIN rests on a black-lacquer stand at Kazumi Temple inside Boundary Exchange. The old Site-01 magnetic-vault containment is obsolete. No one may draw, move, restrain, test, steal, or otherwise handle either entity without Kazumi’s explicit permission.**
+**In 2026, HIGENMARU-KŌRIN rests on a black-lacquer stand at Kazumi Temple inside Boundary Exchange.
+The old Site-01
+magnetic-vault containment is obsolete. No one may draw, move, restrain, test, steal, or otherwise
+handle either
+entity without Kazumi’s explicit permission.**

@@ -12,18 +12,28 @@
 | ATTACHED DIVISIONS | Watch Coordination, Security, Recovery Support, Research |
 | OPERATIONAL STATUS | ACTIVE / COASTAL VOLCANIC WATCH USE |
 | RISK STATUS | FALSE GEOLOGIC READ / SILENT WITHDRAWAL DELAY RISK |
-| CLEARANCE REQUIRED | Level 3 for routine monitoring; Level 4 for irregular volcanic signature, withdrawal alert, or relay escalation |
+| CLEARANCE REQUIRED | Level 3 for routine monitoring; Level 4 for irregular volcanic signature, withdrawal alert, or<br>relay escalation |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Volcanic-Seismic Monitoring Technology Record |
-| DISTRIBUTION | Seismic Monitoring / Watch Staff / Security / Nusantara Deep Relay / Ash Tide Watchpoint |
+| DISTRIBUTION | Seismic Monitoring / Watch Staff / Security / Nusantara Deep Relay / Ash Tide<br>Watchpoint |
 | AUTHORITY | Watch Officer, Seismic Monitoring Staff, Nusantara Site Command, and Central Archive |
 
 #### Archive Note
-Volcanic-Seismic Monitoring Suites are the eighty-fourth main A.C.T technology expanded into an individual record. The Ash Tide Watchpoint dossier identifies volcanic-event observation support as one of the sub-site's core purposes and states that the watchpoint watches the volcanoes marking the region's restless geology. The F-2 Operations and Watch Level dossier identifies seismic monitoring suites as the spaces that track volcanic and seismic activity and report irregular activity to the parent relay.
+Volcanic-Seismic Monitoring Suites are the eighty-fourth main A.C.T technology expanded into an individual record.
+The
+Ash Tide Watchpoint dossier identifies volcanic-event observation support as one of the sub-site's core
+purposes and
+states that the watchpoint watches the volcanoes marking the region's restless geology. The F-2
+Operations and Watch
+Level dossier identifies seismic monitoring suites as the spaces that track volcanic and seismic
+activity and report
+irregular activity to the parent relay.
 
-VSMS exists because Ash Tide watches a coast where the sea and the volcano are never separate for long. A tremor, ash shift, tide anomaly, or volcanic signature can change the meaning of a maritime sighting.
+VSMS exists because Ash Tide watches a coast where the sea and the volcano
+are never separate for long. A tremor, ash
+shift, tide anomaly, or volcanic signature can change the meaning of a maritime sighting.
 
 Controlled label: **VSMS ASH-TIDE GEOLOGIC WATCH**.
 
@@ -37,19 +47,41 @@ WATCH THE GROUND THAT WATCHES THE WATER.
 
 ## FUNCTION SUMMARY
 
-Volcanic-Seismic Monitoring Suites are Ash Tide's F-2 instrumentation and analyst environments for observing local volcanic activity, coastal ground motion, seismic irregularity, ash events, and tectonic shifts that may affect watchpoint operations or correlate with maritime anomaly activity. The suites support the watchpoint's permanent coastal watch and its silent withdrawal doctrine.
+Volcanic-Seismic Monitoring Suites are Ash Tide's F-2 instrumentation and analyst environments for observing local
+volcanic activity, coastal ground motion, seismic irregularity, ash events, and tectonic shifts that may
+affect
+watchpoint operations or correlate with maritime anomaly activity. The suites support the watchpoint's permanent
+coastal watch and its silent withdrawal doctrine.
 
-VSMS is smaller than Nusantara's deep-earth monitoring architecture. It does not replace F-1 sensor arrays or F-2 restricted records at the parent relay. Its role is local and urgent: maintain a coastal geologic watch close enough to the shoreline to warn Ash Tide, brief the parent relay, support recovery staging, and decide when the watchpoint must lock down or withdraw quietly.
+VSMS is smaller than Nusantara's deep-earth monitoring architecture. It does not replace F-1 sensor
+arrays or F-2
+restricted records at the parent relay. Its role is local and urgent: maintain a
+coastal geologic watch close enough
+to the shoreline to warn Ash Tide, brief the parent relay, support recovery staging,
+and decide when the watchpoint
+must lock down or withdraw quietly.
 
-Approved roles include volcanic signature monitoring, local seismic watch, ash-event tracking, coastal ground-state reporting, silent withdrawal warning, recovery condition briefing, and parent-relay escalation.
+Approved roles include volcanic signature monitoring, local seismic watch, ash-event tracking, coastal ground-state
+reporting, silent withdrawal warning, recovery condition briefing, and parent-relay escalation.
 
 ---
 
 ## ORIGIN AND DEVELOPMENT
 
-Ash Tide was established in a region where coastal anomaly corridors overlap with real volcanic and tectonic activity. The site's name records that overlap: ash and tide, restless ground and restless water. A watchpoint that ignored geology would misunderstand the coast it watched, and a watchpoint that treated every tremor as anomaly would exhaust its parent relay.
+Ash Tide was established in a region where coastal anomaly corridors overlap with real
+volcanic and tectonic activity.
+The site's name records that overlap: ash and tide, restless ground and restless water.
+A watchpoint that ignored
+geology would misunderstand the coast it watched, and a watchpoint that treated every tremor
+as anomaly would exhaust
+its parent relay.
 
-The monitoring suites developed as the geological half of the watchpoint's operational heart. They give staff a way to distinguish ordinary regional activity from irregular signatures, to warn Recovery when sea-entry staging is unsafe, and to support silent withdrawal when large-scale tectonic shifts threaten the station or its cover.
+The monitoring suites developed as the geological half of the watchpoint's operational heart. They
+give staff a way to
+distinguish ordinary regional activity from irregular signatures, to warn Recovery when sea-entry staging is
+unsafe,
+and to support silent withdrawal when large-scale tectonic shifts threaten the station or its
+cover.
 
 VSMS makes local geology part of watch discipline rather than background noise.
 
@@ -57,7 +89,11 @@ VSMS makes local geology part of watch discipline rather than background noise.
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-A VSMS installation includes seismic sensors, volcanic observation feeds, ash-density logs, tremor comparison panels, tide-state correlation boards, local ground-motion alarms, parent-relay reporting terminals, weather and visibility inputs, withdrawal readiness indicators, and protected instrument power. The suites are positioned on F-2 so sensitive operational interpretation remains below the public surface station.
+A VSMS installation includes seismic sensors, volcanic observation feeds, ash-density logs, tremor comparison panels,
+tide-state correlation boards, local ground-motion alarms, parent-relay reporting terminals, weather and visibility
+inputs, withdrawal readiness indicators, and protected instrument power. The suites are positioned on F-2
+so sensitive
+operational interpretation remains below the public surface station.
 
 Known components include:
 
@@ -72,44 +108,72 @@ Known components include:
 - parent-relay escalation terminal;
 - instrument backup power link.
 
-The suites track ordinary geology carefully because ordinary geology is the baseline that lets anomaly stand out.
+The suites track ordinary geology carefully because ordinary geology is the baseline that lets
+anomaly stand out.
 
 ---
 
 ## OPERATING PROCEDURE
 
-During normal watch, seismic monitoring staff record volcanic signature, tremor state, ash condition, local ground movement, tide interaction, and weather factors. Readings are compared with regional baseline and with watch reports from the coastal coordination center. If activity remains ordinary, it is reported as context. If activity becomes irregular, VSMS escalates to the Watch Officer and parent relay.
+During normal watch, seismic monitoring staff record volcanic signature, tremor state, ash condition, local
+ground
+movement, tide interaction, and weather factors. Readings are compared with regional baseline and with
+watch reports
+from the coastal coordination center. If activity remains ordinary, it is reported as context.
+If activity becomes
+irregular, VSMS escalates to the Watch Officer and parent relay.
 
-When recovery staging is active, VSMS provides a ground-and-volcano safety state before personnel, vessels, or recovered material move. During large-scale tectonic shifts, the suites support silent withdrawal by identifying whether the watchpoint should lock down, evacuate quietly, freeze intake, or request immediate relay assistance.
+When recovery staging is active, VSMS provides a ground-and-volcano safety state before personnel, vessels,
+or
+recovered material move. During large-scale tectonic shifts, the suites support silent withdrawal by identifying
+whether the watchpoint should lock down, evacuate quietly, freeze intake, or request immediate relay
+assistance.
 
 ---
 
 ## KNOWN LIMITS
 
-VSMS can monitor local geology, but it cannot command the region's movement. It may face sensor noise from storms, surf impact, vessel traffic, ash accumulation, equipment corrosion, or ordinary volcanic unrest. It may also encounter anomalous patterns that imitate natural unrest well enough to delay escalation.
+VSMS can monitor local geology, but it cannot command the region's movement. It may
+face sensor noise from storms,
+surf impact, vessel traffic, ash accumulation, equipment corrosion, or ordinary volcanic unrest. It may
+also encounter
+anomalous patterns that imitate natural unrest well enough to delay escalation.
 
-Known failure modes include false ordinary classification, false anomaly escalation, sensor corrosion, ash-blocked visibility, tide correlation error, delayed withdrawal warning, recovery staging during unstable ground, and parent-relay report lag. The watchpoint's survival depends on admitting uncertainty early.
+Known failure modes include false ordinary classification, false anomaly escalation, sensor corrosion, ash-blocked
+visibility, tide correlation error, delayed withdrawal warning, recovery staging during unstable ground, and
+parent-relay report lag. The watchpoint's survival depends on admitting uncertainty early.
 
 ---
 
 ## FAILURE HISTORY
 
 ### VSMS-Permanent Watch Formation
-The Ash Tide dossier states that repeated coastal anomaly appearances required permanent staffing and volcanic-event observation support. VSMS was formalized to sustain the geological half of that permanent watch.
+The Ash Tide dossier states that repeated coastal anomaly appearances required permanent staffing and
+volcanic-event
+observation support. VSMS was formalized to sustain the geological half of that permanent watch.
 
 ### VSMS-Silent Withdrawal Drill
-A simulated tectonic shift showed that surface cover preservation and personnel safety can conflict if withdrawal orders arrive late. Current procedure ties VSMS irregularity alerts directly to silent withdrawal readiness.
+A simulated tectonic shift showed that surface cover preservation and personnel safety can conflict
+if withdrawal
+orders arrive late. Current procedure ties VSMS irregularity alerts directly to silent withdrawal readiness.
 
 ### VSMS-Recovery Safety Review
-A sea-entry staging exercise continued under minor tremor conditions that later exceeded safe thresholds. Recovery staging now requires a current VSMS safety state before launch or intake coordination.
+A sea-entry staging exercise continued under minor tremor conditions that later exceeded safe thresholds.
+Recovery
+staging now requires a current VSMS safety state before launch or intake coordination.
 
 ---
 
 ## DIVISION USE
 
-Seismic Monitoring operates VSMS and writes local geologic reports. Watch Coordination compares volcanic and coastal observations. Recovery Support uses the suites for launch and intake safety. Security uses irregularity warnings for lockdown and withdrawal. Research receives approved long-pattern data through the parent relay.
+Seismic Monitoring operates VSMS and writes local geologic reports. Watch Coordination compares volcanic and
+coastal
+observations. Recovery Support uses the suites for launch and intake safety. Security uses irregularity
+warnings for
+lockdown and withdrawal. Research receives approved long-pattern data through the parent relay.
 
-VSMS doctrine holds that Ash Tide cannot watch the sea without listening to the volcano behind it.
+VSMS doctrine holds that Ash Tide cannot watch the sea without listening to the
+volcano behind it.
 
 ---
 
@@ -140,5 +204,7 @@ VSMS doctrine holds that Ash Tide cannot watch the sea without listening to the 
 
 **Created:** 2026-09-15
 **Author Desk:** Seismic Monitoring Staff / Watch Officer / Central Archive
-**Review Status:** Active volcanic-seismic monitoring record; live sensor positions, withdrawal thresholds, and escalation keys censored
-**Next Review:** After any irregular volcanic signature, silent withdrawal drill, recovery safety conflict, parent-relay escalation, ash-event anomaly, or local sensor failure
+**Review Status:** Active volcanic-seismic monitoring record; live sensor positions, withdrawal thresholds, and
+escalation keys censored
+**Next Review:** After any irregular volcanic signature, silent withdrawal drill, recovery safety conflict,
+parent-relay escalation, ash-event anomaly, or local sensor failure

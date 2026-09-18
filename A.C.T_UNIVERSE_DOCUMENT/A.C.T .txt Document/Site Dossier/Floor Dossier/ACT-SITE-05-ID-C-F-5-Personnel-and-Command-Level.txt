@@ -78,7 +78,8 @@ operational depths.
 3.2 Relationship to F-6
 
 Personnel arriving at the relay descend from the surface transition through
-F-5 on their way to their duty floors, and ascend through F-5 on their way
+F-5 on their way to their duty floors, and ascend through F-5 on their
+way
 back to the surface. The personnel level is the relay's domestic gateway.
 
 3.3 Relationship to the Operational Floors

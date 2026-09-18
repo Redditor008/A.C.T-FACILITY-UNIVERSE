@@ -202,7 +202,8 @@ facilities**:
 The floor's circulation is designed so that personnel entering duty move
 downward and personnel leaving duty move upward. The pattern is part of the
 complex's psychological architecture: the descent into work is a passage
-into the Facility's purpose, and the ascent out of duty is a return to the
+into the Facility's purpose, and the ascent out of duty is a return to
+the
 surface world. The floor's designers treated both passages as meaningful.
 
 ### 7.3 The Command Suite
@@ -385,7 +386,8 @@ F-8, Administration and Personnel, is the command floor of Redwood Veil:
 the administrative heart of the buried core, where the Site Director
 commands, personnel are processed and cleared, and the complex's people are
 trained and supported. Its vertical-flow design makes descent into duty a
-passage into the work of containment — and ascent out of duty a return to
+passage into the work of containment — and ascent out of duty a return
+to
 the surface world.
 
 It is the floor where the complex is governed, and where the people who

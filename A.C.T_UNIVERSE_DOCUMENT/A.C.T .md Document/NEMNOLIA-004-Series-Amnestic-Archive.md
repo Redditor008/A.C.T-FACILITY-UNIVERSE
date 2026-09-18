@@ -13,14 +13,23 @@
 ---
 
 ## Purpose
-This archive records the officially recognized derivative amnestic compounds refined from the sap of **AFD-NB-004**. These compounds form the basis of A.C.T memory suppression, witness sanitation, secrecy preservation, and restricted recall erasure protocols.
+This archive records the officially recognized derivative amnestic compounds refined from the sap of
+**AFD-NB-004**.
+These compounds form the basis of A.C.T memory suppression, witness sanitation, secrecy preservation, and
+restricted
+recall erasure protocols.
 
-Raw sap is not considered safe for unrestricted use. All 004-series compounds are classified as anomaly-derived neurological erasure agents.
+Raw sap is not considered safe for unrestricted use. All 004-series compounds are classified
+as anomaly-derived
+neurological erasure agents.
 
 ---
 
 ## Source Material
-AFD-NB-004 secretes a glowing translucent golden sap with memory-destructive properties. In raw form, it can erase, fracture, or collapse human memory continuity. Through controlled dilution, stabilization, and pharmaceutical refinement, A.C.T has categorized multiple derivative classes based on concentration.
+AFD-NB-004 secretes a glowing translucent golden sap with memory-destructive properties. In raw form, it
+can erase,
+fracture, or collapse human memory continuity. Through controlled dilution, stabilization, and pharmaceutical
+refinement, A.C.T has categorized multiple derivative classes based on concentration.
 
 ---
 
@@ -30,7 +39,8 @@ AFD-NB-004 secretes a glowing translucent golden sap with memory-destructive pro
 **Failure Risk:** catastrophic identity loss expected  
 **Authorization:** O5-level only  
 
-004-A is effectively total mnemonic destruction. Use is considered extreme and existentially invasive. Survivability of identity continuity is not assumed.
+004-A is effectively total mnemonic destruction. Use is considered extreme and existentially invasive. Survivability
+of identity continuity is not assumed.
 
 ---
 
@@ -40,7 +50,8 @@ AFD-NB-004 secretes a glowing translucent golden sap with memory-destructive pro
 **Failure Risk:** coma for 5 years if used incorrectly  
 **Authorization:** Administrator or O5-level review  
 
-004-B is one of the most severe fieldable compounds. It is not approved for ordinary civilian use.
+004-B is one of the most severe fieldable compounds. It is not approved for
+ordinary civilian use.
 
 ---
 
@@ -106,7 +117,8 @@ AFD-NB-004 secretes a glowing translucent golden sap with memory-destructive pro
 
 ## Internal Doctrine
 The lower the concentration, the safer the intended erasure window.  
-The higher the concentration, the closer the compound moves from memory suppression into continuity destruction.
+The higher the concentration, the closer the compound moves from memory suppression into continuity
+destruction.
 
 A.C.T therefore distinguishes between:
 - memory wipe
@@ -130,4 +142,9 @@ Improper administration may result in:
 ---
 
 ## Closing Note
-AFD-NB-004 remains one of the most strategically important integrated anomalies in Facility history. The 004-series compounds are indispensable to secrecy preservation, but their use represents one of the clearest examples of A.C.T’s gray morality: the Facility preserves the world by rewriting what the world is allowed to remember.
+AFD-NB-004 remains one of the most strategically important integrated anomalies in Facility history. The
+004-series
+compounds are indispensable to secrecy preservation, but their use represents one of the clearest
+examples of A.C.T’s
+gray morality: the Facility preserves the world by rewriting what the world is allowed
+to remember.
