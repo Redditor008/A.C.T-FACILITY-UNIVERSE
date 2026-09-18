@@ -87,6 +87,36 @@ CWCC makes local watch accountable to parent command.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and watch doctrine. Values the
+archive does not
+hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| CENTER PARAMETER | VALUE |
+|---|---|
+| Feeds | coastal observation feed panel |
+| Coverage | assigned-corridor map |
+| Rota | watch shift board |
+| Traffic | vessel movement ledger |
+| Decision | event classification console |
+| Reporting | parent-relay reporting terminal |
+| Response | recovery staging request control |
+| Surface | surface boundary alert line |
+| Audit | incident reconstruction drawer |
+| Authority | Watch Officer override station |
+| Placement | below the surface cover level so the watch stays concealed |
+| Rule | the center records uncertainty rather than hiding it |
+| Corridor count | NOT MEASURED |
+| Report latency | NOT MEASURED |
+| Watch rotation length | NOT MEASURED |
+
+The center is the operational discipline that stops a small coastal sub-site from missing
+the moment when
+ordinary coastline becomes an anomaly route. A report may state that the observer is
+unsure, and that
+uncertainty is part of the record.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A CWCC installation includes observation consoles, coastal feed panels, vessel-tracking boards, watch logs,
@@ -112,7 +142,53 @@ The center records uncertainty. A report may say unknown without becoming useles
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Watch Controls
+
+- watch shift board
+- recovery staging request control
+- surface boundary alert line
+- Watch Officer override station
+
+### Watch Readouts
+
+- coastal observation feed panel
+- vessel movement ledger
+- event classification with confidence
+- parent-relay reporting terminal state
+
+### Watch And Personnel Limits
+
+- Do not wait for final classification before sending an uncertainty marker.
+- Do not continue local observation past the reporting threshold.
+- Do not record certainty the observer does not hold.
+- Do not let fatigue stand in for coverage.
+- Weakest against weather, false calm, and faulty instruments.
+- Weakest where civilian traffic resembles an early indicator.
+
+Corridor count, latency, and rotation are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Coastal watch, Watch Officer with Watch Chief.
+
+1. Maintain continuous coverage of assigned corridors.
+2. Mark each observation by source, time, and location.
+3. Mark confidence and environmental condition.
+4. Note whether maritime anomaly activity is possible.
+5. Note volcanic signature, sea-entry traffic, or civilian movement.
+6. Note any cover risk.
+7. Send early uncertainty markers rather than waiting.
+8. Let the Watch Officer decide local, relay, or staging.
+
+Step-down: the shift board closes and the watch log files to the reconstruction drawer.
+Emergency: an
+uncertainty marker goes to the parent relay immediately, because a reporting delay review found
+staff could
+observe locally for too long before notifying.
 
 During normal operation, watch personnel maintain continuous coverage of assigned coastal corridors. Observations are
 marked by source, time, location, confidence, environmental condition, and whether the event may involve
@@ -130,6 +206,32 @@ a safety issue because the parent relay cannot act on what Ash Tide failed
 to send.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Routine watch | Level 3 procedure | Level 3 |
+| Staging command | Level 4 procedure | Level 4 |
+| Relay escalation | Level 4 procedure | Level 4 |
+| Feed panel fault | manual observation until restored | Watch Chief |
+| Instrument disagreement | cross-check before classification | Seismic Monitoring Staff |
+| Shift handover | log reconciliation | Watch Officer |
+
+No calendar interval is recorded; the watch is reconciled per shift, so interval NOT
+MEASURED. There is no
+consumable. The reporting delay review is why uncertainty travels early rather than after classification.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Local observation held too long | waiting for certainty | send the marker; delay review |
+| Civilian boat read as anomaly | corridor ambiguity | record confidence, not conclusion |
+| Instrument fault missed | feed panel drift | cross-check manually |
+| Staff fatigue on watch | rotation too long | shorten the shift |
+| Staging requested without authority | escalation skipped | hold and review; drill |
+| Vessel ledger gap | tracking lapse | reconstruct from the drawer |
 
 ## KNOWN LIMITS
 
@@ -196,6 +298,10 @@ that can answer it.
 - Should volcanic and coastal watches remain separate until correlation is required?
 - Can too many false reports train the parent relay to ignore Ash Tide?
 - When does a watch report become a recovery order?
+
+- How many coastal corridors are assigned, and how are they divided per shift?
+- What report latency is acceptable for an uncertainty marker?
+- How long is a watch rotation before fatigue degrades coverage?
 
 ---
 

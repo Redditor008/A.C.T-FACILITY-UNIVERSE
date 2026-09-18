@@ -91,6 +91,35 @@ sensor and records systems: if F-1 listens and F-2 remembers, F-5 commands.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and command doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| NEXUS PARAMETER | VALUE |
+|---|---|
+| Console | Site Director command console |
+| Routing | division chief routing panel |
+| Circuitry | protected circuit trunk |
+| Broadcast | emergency broadcast relay |
+| Selection | sealed channel selector |
+| Field | maritime platform link |
+| Floors | floor command post bridge |
+| External | external Facility network gate |
+| Proof | order receipt recorder |
+| Power | continuity power cabinet |
+| Channels | site traffic, division command, containment alert, maritime recovery, seismic |
+| Also | medical support, security lockdown, restricted review contact |
+| Channel count | NOT MEASURED |
+| Order latency | NOT MEASURED |
+| Continuity endurance | NOT MEASURED |
+
+The nexus does not merely transmit messages; it preserves command identity, channel sensitivity, order
+sequence, and receipt. A sent order is not the same thing as an obeyed
+order, and the receipt recorder is
+what keeps the difference visible.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A CCN installation includes protected circuit trunks, command consoles, authentication panels, sealed channel
@@ -116,7 +145,52 @@ The order receipt recorder is treated as an archive instrument, not a convenienc
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Command Controls
+
+- sealed channel selector
+- emergency broadcast relay
+- external Facility network gate
+- priority routing switch
+
+### Command Readouts
+
+- order receipt recorder entries
+- division chief acknowledgements
+- platform report age against its mission threshold
+- continuity power state
+
+### Command And Personnel Limits
+
+- Do not transmit externally before the sensitivity check.
+- Do not treat a sent order as an executed order.
+- Do not accept a platform report past its threshold without an uncertainty marker.
+- Do not mix restricted review traffic into general site channels.
+- Weakest when maritime, seismic, and containment incidents run together.
+- Weakest against accurate classification failure upstream.
+
+Channel count, latency, and endurance are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Command traffic, Site Director with Command Support.
+
+1. Select the channel for the operational need.
+2. Verify authority on the authentication panel.
+3. Classify the message.
+4. Confirm the recipient.
+5. Record order sequence and receipt.
+6. Collect division chief acknowledgements.
+7. Run the sensitivity check before any external transmission.
+8. Switch to priority routing during an emergency.
+
+Step-down: the order receipt recorder closes the sequence and the channel returns to general
+traffic.
+Emergency: priority routing carries containment, seismic, and maritime alerts first, and any platform report
+older than its threshold carries an uncertainty marker rather than being repeated as current.
 
 Routine CCN use begins with channel selection, authority verification, message classification, and recipient
 confirmation. Command Support records order sequence and receipt. Division chiefs acknowledge orders through their
@@ -133,6 +207,34 @@ No emergency order is considered complete until receipt is logged or failure to 
 is escalated.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Channel access | Level 3 procedure | Level 3 |
+| Restricted review contact | Level 4 procedure | Level 4 |
+| Continuity battery test | before each watch | Command Support |
+| Circuit trunk fault | trunk isolation and reroute | Engineering Division |
+| External gate use | sensitivity check recorded | Site Director |
+| Receipt recorder gap | sequence reconstruction | Command Support |
+
+No calendar interval is recorded; the nexus is verified per watch, so interval NOT
+MEASURED. There is no
+consumable beyond continuity power. The maritime dropout review is why platform report age is
+tracked rather
+than assumed.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Field state outdated at F-5 | vessel communication delay | uncertainty marker; dropout review |
+| Order sent but not obeyed | receipt not confirmed | chase the acknowledgement |
+| Channels saturated | simultaneous incidents | priority routing |
+| External message left unchecked | sensitivity step skipped | recall and review |
+| Continuity power low | cabinet fault | test before the watch |
+| Restricted traffic on a general channel | selector error | re-seal the channel |
 
 ## KNOWN LIMITS
 
@@ -206,6 +308,10 @@ through channels that can be verified.
 - Can a false order be more dangerous if it uses correct emergency vocabulary?
   When should a communications failure become a site incident rather than a technical
   fault?
+
+- How many channels does the sealed selector carry, and who may add one?
+- What order latency is acceptable between F-5 and a maritime platform?
+- How long does continuity power hold the nexus through a closure?
 
 ---
 

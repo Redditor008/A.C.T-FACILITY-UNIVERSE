@@ -87,6 +87,36 @@ VSMS makes local geology part of watch discipline rather than background noise.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and monitoring doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| SUITE PARAMETER | VALUE |
+|---|---|
+| Seismic | local seismic feed panel |
+| Volcanic | volcanic signature display |
+| Ash | ash-density and visibility log |
+| Comparison | tremor comparison station |
+| Tide | tide-state correlation board |
+| Alarm | ground-motion alarm |
+| Safety | recovery safety indicator |
+| Withdrawal | silent withdrawal readiness panel |
+| Escalation | parent-relay escalation terminal |
+| Power | instrument backup power link |
+| Scale | smaller than the parent relay's deep-earth architecture; local and urgent |
+| Position | F-2, below the public surface station |
+| Sensor count | NOT MEASURED |
+| Detection threshold | NOT MEASURED |
+| Backup endurance | NOT MEASURED |
+
+The suites do not replace the parent relay's sensor arrays or restricted records. Their
+role is local and
+urgent: maintain a coastal geological picture accurate enough to decide whether the watchpoint stays,
+works,
+or withdraws silently.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A VSMS installation includes seismic sensors, volcanic observation feeds, ash-density logs, tremor comparison panels,
@@ -113,7 +143,52 @@ anomaly stand out.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Suite Controls
+
+- parent-relay escalation terminal
+- silent withdrawal readiness panel
+- ground-motion alarm
+- instrument backup power link
+
+### Geological Readouts
+
+- volcanic signature display
+- tremor comparison against regional baseline
+- ash-density and visibility log
+- tide-state correlation board
+
+### Monitoring And Personnel Limits
+
+- Do not delay escalation while an anomalous pattern imitates natural unrest.
+- Do not report ordinary geology as though it were confirmed anomaly.
+- Do not leave withdrawal readiness untied to an irregularity alert.
+- Do not read a quiet instrument as a quiet coast.
+- Weakest against storm noise, surf impact, and vessel traffic.
+- Weakest where ash accumulation or corrosion shifts the reading.
+
+Sensor count, threshold, and backup endurance are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Geological watch, Level 3 routine with Level 4 irregular signature.
+
+1. Record volcanic signature and tremor state.
+2. Record ash condition and local ground movement.
+3. Record tide interaction and weather factors.
+4. Compare against regional baseline.
+5. Compare against coastal watch reports.
+6. Report ordinary activity as context.
+7. Escalate irregular activity to the Watch Officer and parent relay.
+8. Tie any irregularity alert to withdrawal readiness.
+
+Step-down: the reading files as context and the readiness panel returns to standby. Emergency:
+an
+irregularity alert feeds silent withdrawal readiness directly, because cover preservation and personnel
+safety conflict when withdrawal orders arrive late.
 
 During normal watch, seismic monitoring staff record volcanic signature, tremor state, ash condition, local
 ground
@@ -130,6 +205,34 @@ whether the watchpoint should lock down, evacuate quietly, freeze intake, or req
 assistance.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Routine monitoring | Level 3 procedure | Level 3 |
+| Irregular signature or withdrawal alert | Level 4 procedure | Level 4 |
+| Relay escalation | Level 4 procedure | Level 4 |
+| Sensor noise review | storm, surf, or vessel source check | Seismic Monitoring Staff |
+| Ash accumulation | instrument cleaning | Watch Chief |
+| Backup power test | before each watch | Engineering Division |
+
+No calendar interval is recorded; the suites are checked per watch, so interval NOT
+MEASURED. There is no
+consumable beyond backup power. The recovery safety review is why withdrawal readiness is tied
+to the alert
+rather than to a later decision.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Alert arriving late | withdrawal order delayed | tie readiness to the alert; drill |
+| Anomalous pattern imitating unrest | deliberate mimicry | escalate rather than wait |
+| Sensor noise from surf or vessels | environmental source | identify before escalating |
+| Ash accumulating on instruments | reading drift | clean and recalibrate |
+| Tide correlation missed | board not read | cross-check with the watch |
+| Backup power untested | readiness gap | test before the watch |
 
 ## KNOWN LIMITS
 
@@ -197,6 +300,11 @@ volcano behind it.
 - Should silent withdrawal override emergency intake if both are triggered together?
 - Can ash-density changes mask coastal anomaly sightings?
 - When does local volcanic observation become deep-earth restricted review?
+
+- How many sensors make up the local array, and what threshold do they
+  use?
+- How long does instrument backup power endure?
+- What distinguishes ordinary volcanic unrest from an anomalous imitation?
 
 ---
 

@@ -4041,3 +4041,46 @@ rc=0.
 TECH-ACT-076 to TECH-ACT-137.
 
 **Next action.** Resume at TECH-ACT-076 through TECH-ACT-080.
+
+## Prompt Log — 2026-09-18 21:54 UTC
+
+**Local repository recovered again.** The clone had been reset to the pre-session base commit while
+the remote branch still held the finished work at 998026f. The fifty-three files the local index did
+not know were compared byte for byte against the fetched tip, all matched, and the branch was reset
+onto it. Record 075 was re-checked afterwards to confirm the earlier batches survived.
+
+**Records 076 to 085.** Each gained a TECHNICAL SPECIFICATION table, an INTERFACE AND OPERATING
+ENVELOPE chapter, a numbered operating sequence with step-down and emergency lines, a SERVICING AND
+CALIBRATION schedule, a FAULT ISOLATION table, and three new OPEN QUESTIONS, in both twins.
+
+**This block is the Nusantara F-5 and F-6 command and cover layer, then the Ash Tide watchpoint.**
+The Command Communications Nexus records order receipt because a sent order is not an obeyed order.
+Internal Logistics confirms destination readiness before movement begins. Seismic Preparedness
+assigns route priority by incident class before releasing personnel from shelter. The Surface Cover
+Campus strengthens legitimate documentation before adding concealment. Concealed Transition holds
+that the best transition point is not invisible but uninteresting. Maritime Separation hides a
+restricted berth behind legitimate activity rather than emptiness.
+
+**Ash Tide tailoring.** Emergency Intake sets a transfer clock and a destination before storage is
+accepted, because stable conditions tempt staff to extend local holding. Coastal Watch sends early
+uncertainty markers rather than waiting for final classification. Volcanic-Seismic Monitoring ties
+irregularity alerts directly to silent withdrawal readiness. Recovery Support Staging keeps
+preparation status and launch status separate, because a staged team is not a launched team.
+
+**Word counts, measured from the records after the run.** 076 1273 to 1953, 077 1200 to 1882, 078
+1227 to 1911, 079 1176 to 1887, 080 1181 to 1888, 081 1234 to 1916, 082 1254 to 1941, 083 1206 to
+1885, 084 1229 to 1914, 085 1222 to 1916. Every record now carries 14 H2 chapters and 7 pipe tables.
+
+**The interface guard caught two more stubs.** Records 080 and 084 each had a bare list left where a
+titled group belonged. The dry run failed both before any document was written. That makes four
+consecutive batches where the assertion has prevented a defect reaching a file.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, UTF8_ERR 0, CONFLICT 0,
+multiH1 0, odd-fence 0, md-with-box 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204, GOI_MD 34 =
+GOI_TXT 34, widest box line 118, date-rule violations 0, twin date mismatches 0, git diff --check
+rc=0.
+
+**Remaining ACT technology queue.** 52 TECH-ACT records still carry the old skeleton, running from
+TECH-ACT-086 to TECH-ACT-137.
+
+**Next action.** Resume at TECH-ACT-086 through TECH-ACT-090.

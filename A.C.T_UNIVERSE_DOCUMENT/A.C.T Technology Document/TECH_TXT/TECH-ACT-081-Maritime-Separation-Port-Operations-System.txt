@@ -86,6 +86,51 @@ real schedules and real cargo. Concealed recovery has controlled timing, restric
 and route
 integration with F-6 and F-5 systems.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and separation doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| PORT PARAMETER             | VALUE                                                                                 |
++============================+=======================================================================================+
+| Public                     | public research vessel berth                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Restricted                 | restricted service berth                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Lanes                      | scientific cargo lane                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Concealed                  | concealed offload point                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Scheduling                 | vessel schedule mask                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Interface                  | water-capable holding interface                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Depth                      | submersible support bay                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Sightlines                 | port sightline control                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Samples                    | sample intake room                                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Records                    | harbor incident ledger                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Emergency                  | harbor barriers                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Principle                  | the restricted berth is hidden by legitimate activity, not by emptiness               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Berth capacity             | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Offload rate               | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Sightline coverage         | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The system does not pretend the port is inactive; the port is active because
+a real island research
+institute needs vessels, fuel, maintenance, and crews. Concealed work is inserted only after Security,
+Recovery, Logistics, and Cover agree the port can absorb it.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 An MSPOS installation includes public piers, restricted service berths, scientific cargo lanes, concealed offload
@@ -110,7 +155,54 @@ Known components include:
 The restricted berth is not hidden by emptiness. It is hidden by having a
 reason to be busy.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Port Controls
+
+- vessel schedule mask
+- concealed offload point
+- port sightline control
+- emergency harbor barriers
+
+Port Readouts
+
+- berth occupancy against the public schedule
+- water-capable interface readiness
+- sample intake room state
+- harbor incident ledger entries
+
+Port And Personnel Limits
+
+- Do not offload before the receiving interface is confirmed.
+- Do not share one support crew across visible and concealed work.
+- Do not hide the restricted berth by leaving it empty.
+- Do not assume a harbor can be made private in every direction.
+- Weakest against weather, civilian boats, and port labor.
+- Weakest against a concealed vessel arriving damaged, late, or followed.
+
+Berth capacity, offload rate, and coverage are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+Port separation, Level 3 surface support with Level 4 concealed handoff.
+
+1. Run public operations on the campus research schedule.
+2. Confirm Security, Recovery, Logistics, and Cover agreement.
+3. Insert the concealed movement into the schedule mask.
+4. Assign separate personnel identities where possible.
+5. Confirm the receiving interface before offload.
+6. Control sightlines during the movement.
+7. Move samples through the intake room.
+8. Close the harbor incident ledger entry.
+
+Step-down: the berth returns to its public identity and the ledger closes. Emergency: harbor
+barriers close
+the water approach, and a concealed arrival that cannot be received is held offshore
+rather than brought
+alongside.
 
 Public port operations follow the campus research schedule: vessel departure, sample return, equipment service,
 fuel,
@@ -124,6 +216,54 @@ timing, sightline control, cargo masking, and rapid transition into F-6 or port 
 cover and containment
 conflict, containment safety takes priority, but the exposure event is treated as an incident
 rather than ignored.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Surface port support       | Level 3 procedure                         | Level 3                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Concealed handoff or       | Level 4 procedure                         | Level 4                                   |
+| anomaly offload            |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Vessel retasking           | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Schedule collision         | separate crew identities                  | Port Operations                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Water-capable interface    | before each offload                       | Containment Division                      |
+| check                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Sightline fault            | movement hold                             | Security Division                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; the port is verified per movement, so interval NOT
+MEASURED. Fuel and
+transfer sleeves are the consumables. The schedule collision review is why visible and concealed
+operations
+carry separate personnel identities.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Two vessels needing one    | schedule collision                        | separate identities; review               |
+| crew                       |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Water-capable handoff      | interface not confirmed                   | hold offshore; handoff drill              |
+| unready                    |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Civilian boat inside the   | sightline gap                             | divert and delay                          |
+| lane                       |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Concealed vessel followed  | exposure risk                             | break off the approach                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Customs interest raised    | paperwork mismatch                        | ordinary documentation first              |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Berth left conspicuously   | cover weakened by absence                 | schedule legitimate use                   |
+| empty                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -186,6 +326,11 @@ some work?
 facility?
 - Should public research schedules ever be altered to cover urgent recovery?
 - How long can a dual-use port remain believable during repeated maritime incidents?
+- What berth capacity does the port hold, and how is it shared with
+  the campus?
+- What offload rate can the concealed point sustain?
+- How much of the harbor do the sightline controls actually cover?
+
 
 FILE METADATA
 

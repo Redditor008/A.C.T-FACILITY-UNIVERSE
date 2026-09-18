@@ -85,6 +85,52 @@ explains vessels and maritime logistics. The stronger the campus becomes as a re
 the less often outsiders
 need to invent questions about what lies below it.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and cover doctrine. Values the
+archive does not
+hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| CAMPUS PARAMETER           | VALUE                                                                                 |
++============================+=======================================================================================+
+| Laboratories               | public research laboratory block                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monitoring                 | seismology and volcanology monitoring station                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Fieldwork                  | marine fieldwork preparation room                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Administration             | campus administration office                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Output                     | legitimate records and publication desk                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Circulation                | visitor-facing circulation route                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Identity                   | staff identity support file                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Storage                    | civilian-safe equipment store                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Comms                      | cover communications channel                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Boundary                   | concealed boundary checkpoint                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Review                     | believability reviewed as often as secrecy                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Principle                  | the architecture must appear useful before it appears secure                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Publication rate           | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Visitor throughput         | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cover audit interval       | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The campus is not a painted sign over a hidden bunker; it is an
+active institute whose legitimate work
+protects the concealed work beneath it. If the public program becomes too thin the
+cover fails, and if it
+becomes too open the boundaries fail.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 An SCRC installation includes visible research laboratories, administrative offices, monitoring stations, public
@@ -108,7 +154,54 @@ Known components include:
 
 The campus is reviewed for believability as often as for secrecy.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Campus Controls
+
+- visitor-facing circulation route
+- concealed boundary checkpoint
+- cover communications channel
+- civilian-safe equipment store
+
+Cover Readouts
+
+- publication and records output
+- staff identity support file currency
+- visitor, contractor, and port contact log
+- attempts to map the campus beyond ordinary need
+
+Cover And Personnel Limits
+
+- Do not add a concealment layer before the legitimate justification exists.
+- Do not let the public program thin out to protect secrecy.
+- Do not publish anything that is not safe, ordinary, and useful.
+- Do not treat real collaborators as a cover failure.
+- Weakest against a real external research audit.
+- Weakest where visible activity fails to explain visible infrastructure.
+
+Publication rate, throughput, and audit interval are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+Campus operation, Campus Director with Relay Administration.
+
+1. Conduct genuine work on the public program schedule.
+2. Release research output where it is safe, ordinary, and useful.
+3. Monitor visitors, contractors, and port contact.
+4. Monitor professional correspondence.
+5. Watch for attempts to map the campus beyond ordinary need.
+6. Confirm visible activity explains visible infrastructure.
+7. Strengthen legitimate documentation before adding concealment.
+8. Escalate if public attention increases.
+
+Step-down: the cover communications channel logs the period and the boundary checkpoint returns to
+routine.
+Emergency: rising public attention is met with stronger legitimate documentation first, because a simulated
+external audit found equipment placements easier to justify through real seismology than through restricted
+explanation.
 
 Campus personnel conduct genuine work according to public program schedules. Research output is allowed
 to exist
@@ -122,6 +215,49 @@ If public attention increases, the campus responds with more truth before more d
 possible: valid
 research briefings, ordinary fieldwork explanations, and documented environmental interest. Concealed operations are
 not discussed, but visible science remains consistent enough that silence does not become suspicious.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Cover operation            | Level 3 procedure                         | Level 3                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Exposure event             | Level 4 response                          | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Believability review       | scheduled campus audit                    | Campus Director                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Publication release        | safety and usefulness check               | Relay Administration                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Contractor route review    | visitor routing correction                | Security Division                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Boundary checkpoint change | mask plausibility review                  | Campus Boundary Desk                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; the campus is reviewed for believability on its own
+audit cycle, so
+interval NOT MEASURED. Publications and identity files are the maintained stock. The boundary exposure
+notice is why contractor routes are reviewed against transition adjacency.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Equipment hard to justify  | concealment added first                   | document legitimately; audit              |
+| publicly                   |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Public program thinning    | secrecy crowding out science              | restore real output                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Contractor near a boundary | route misassigned                         | correct routing; contractor notice        |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Visitor mapping the campus | interest beyond ordinary need             | Security review                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Publication raising        | real science invites them                 | answer, do not suppress                   |
+| questions                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Staff identity file stale  | support lapse                             | refresh before contact                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -179,6 +315,10 @@ risks?
 - How should the campus respond when public truth and A.C.T secrecy conflict?
 - Should civilian collaborators ever be quietly steered away from certain research questions?
 - When does cover strengthening become operational distraction?
+- What publication rate keeps the cover credible without inviting scrutiny?
+- How many visitors may the circulation route absorb in a week?
+- How often is the campus audited for believability, and by whom?
+
 
 FILE METADATA
 

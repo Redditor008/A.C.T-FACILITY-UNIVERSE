@@ -84,6 +84,36 @@ while still obeying parent-relay command.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and staging doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| STAGING PARAMETER | VALUE |
+|---|---|
+| Briefing | recovery briefing board |
+| Route | route and tide status panel |
+| Vessels | vessel coordination terminal |
+| Gear | sea-entry equipment cage |
+| Handoff | intake handoff tray |
+| Kits | emergency kit bench |
+| Security | Security alert control |
+| People | personnel muster strip |
+| Authority | recovery clock and authorization marker |
+| After | post-action reconstruction drawer |
+| Also | decontamination pre-check station, protective gear racks |
+| Design | looks calm when it is working; panic in staging becomes panic at sea |
+| Team size | NOT MEASURED |
+| Kit readiness cycle | NOT MEASURED |
+| Launch notice time | NOT MEASURED |
+
+The area is staging technology rather than a storage room: a controlled physical and
+procedural arrangement
+that keeps readiness from becoming disorder. A staged team is not a launched team,
+and a prepared intake is
+not a completed transfer.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard RSSA installation includes briefing boards, equipment cages, route-status panels, vessel contact terminals,
@@ -110,7 +140,53 @@ staging becomes panic at the shoreline.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Staging Controls
+
+- Security alert control
+- recovery clock and authorization marker
+- vessel coordination terminal
+- intake handoff tray
+
+### Staging Readouts
+
+- route and tide status panel
+- personnel muster strip
+- equipment cage readiness state
+- post-action reconstruction drawer
+
+### Staging And Personnel Limits
+
+- Do not confuse preparation status with launch status.
+- Do not launch without parent-relay authority or a reviewed emergency exception.
+- Do not stage more packages than intake can receive.
+- Do not let a muster happen before authorization reaches the floor.
+- Weakest where watch reports are unclear.
+- Weakest where readiness is read as permission.
+
+Team size, kit cycle, and launch notice are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Recovery staging, Level 3 duty with Level 4 active launch.
+
+1. Maintain kit readiness and route familiarity.
+2. Maintain vessel contact status and intake coordination.
+3. Let the Watch Officer mark observation, preparation, or active recovery.
+4. Run gear, route, and personnel checks in preparation status.
+5. Obtain parent-relay authority before active recovery.
+6. Muster on the personnel strip only after authorization.
+7. Run the decontamination pre-check before launch.
+8. Close the recovery clock at handoff.
+
+Step-down: kits return to the cage, the reconstruction drawer takes the post-action record, and
+the muster
+strip clears. Emergency: an emergency exception launch is reviewed later by Nusantara Site Command,
+and
+preparation status never becomes launch status by itself.
 
 During standby, RSSA maintains kit readiness, route familiarity, vessel contact status, and intake coordination.
 When
@@ -129,6 +205,34 @@ failed, and
 whether F-1 accepted custody.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Staging duty | Level 3 procedure | Level 3 |
+| Active recovery launch | Level 4 procedure | Level 4 |
+| Emergency intake handoff | Level 4 procedure | Level 4 |
+| Parent-relay override | Level 4 procedure | Level 4 |
+| Kit readiness check | during standby | Recovery Support Lead |
+| Intake overload risk | staging limit before handoff | Watch Officer |
+
+No calendar interval is recorded; readiness is maintained during standby and verified per event,
+so interval
+NOT MEASURED. Field kits and protective gear are the consumables. The premature launch drill
+is why
+preparation and launch are separate statuses.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Team mustered before authorization | readiness read as permission | separate statuses; launch drill |
+| Multiple packages staged at once | intake capacity exceeded | limit staging; overload review |
+| Unclear watch report staged | ambiguity carried forward | clarify before preparation |
+| Tide status stale | panel not updated | re-check before launch |
+| Vessel contact lost | coordination gap | hold the muster |
+| Decontamination pre-check skipped | procedure lapse | return to the bench |
 
 ## KNOWN LIMITS
 
@@ -196,6 +300,10 @@ claim of ownership.
 - Should F-1 intake capacity always overrule recovery urgency?
 - How should RSSA handle civilians already near a probable recovery route?
 - When does route preparation become an exposed operational footprint?
+
+- What team size does the staging area support at once?
+- How often are kits cycled, and what ends a kit's service?
+- What launch notice time exists between authorization and departure?
 
 ---
 

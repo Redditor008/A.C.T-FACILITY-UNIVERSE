@@ -86,6 +86,35 @@ the watchpoint's doctrine that emergency intake is temporary by design.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and readiness doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| INTAKE PARAMETER | VALUE |
+|---|---|
+| Bay | hidden intake bay |
+| Storage | time-sensitive secure storage unit |
+| Personnel | reception and stabilization space |
+| Preparation | transfer preparation bench |
+| Condition | intake condition recorder |
+| Records | rolling manifest terminal |
+| Contact | parent-relay communication panel |
+| Seal | emergency closure seal |
+| Environment | temporary environmental control |
+| Observation | Security observation port |
+| Scale | compact, built around readiness rather than occupancy |
+| Rule | not long-term containment; a controlled pause between coast and relay |
+| Storage capacity | NOT MEASURED |
+| Transfer clock limit | NOT MEASURED |
+| Environmental band | NOT MEASURED |
+
+The system is measured by readiness, not occupancy: an empty intake bay is a
+working state. Every intake
+carries a transfer clock and a parent-relay destination before storage is accepted, because stable
+conditions tempt staff to extend local holding.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 An EISSS installation includes concealed receiving doors, stretcher and cargo intake tracks, sealed storage
@@ -113,7 +142,53 @@ an active containment asset.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Intake Controls
+
+- concealed receiving doors
+- emergency closure seal
+- temporary environmental control
+- transfer preparation bench
+
+### Intake Readouts
+
+- rolling manifest terminal
+- intake condition recorder
+- transfer clock against the destination
+- parent-relay communication panel state
+
+### Intake And Personnel Limits
+
+- Do not accept storage before the transfer clock and destination are set.
+- Do not extend local holding because conditions are stable.
+- Do not treat the bay as long-term containment.
+- Do not promise hospital or cognitive care the floor cannot give.
+- Weakest against unknown material that is not made safe by securing it.
+- Weakest where transfer is delayed by weather or authority.
+
+Capacity, clock limit, and environmental band are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Emergency intake, Level 3 readiness with Level 4 live intake.
+
+1. Confirm arrival type and source route.
+2. Confirm risk class and transfer destination.
+3. Confirm parent-relay authorization.
+4. Have Recovery Support prepare the bay.
+5. Have Security secure the access core and surface boundary.
+6. Have Medical prepare if living arrivals are expected.
+7. Record entry time, condition, and source for every item.
+8. Set the transfer clock before storage is accepted.
+
+Step-down: the manifest follows the intake to transfer and the bay returns to ready.
+Emergency: the closure
+seal isolates the floor, and a package whose clock expires is escalated to the
+parent relay rather than
+re-shelved locally.
 
 Before intake, F-2 or the Watch Chief confirms arrival type, source route, risk class,
 transfer destination, and
@@ -133,6 +208,34 @@ move. The manifest travels with
 the intake package.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Readiness support | Level 3 procedure | Level 3 |
+| Live intake | Level 4 procedure | Level 4 |
+| Secure storage override | Level 4 procedure | Level 4 |
+| F-1 closure authority | Level 4 procedure | Level 4 |
+| Environmental control check | before each intake | Watch Chief |
+| Transfer clock expired | escalate to the parent relay | Intake Officer |
+
+No calendar interval is recorded; readiness is verified per watch, so interval NOT MEASURED.
+Transfer crates
+and stabilization stock are the consumables. The temporary doctrine review is why the clock
+is set before
+storage rather than after.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Local holding extended | stable conditions tempting staff | clock first; doctrine review |
+| Intake without a destination | manifest incomplete | hold and set the clock |
+| Closure drill revealed a gap | seal integration fault | retest; closure drill |
+| Living arrival beyond local care | capability limit | stabilise and transfer |
+| Environmental drift in storage | control fault | move the package |
+| Manifest terminal offline | record break | manual manifest until restored |
 
 ## KNOWN LIMITS
 
@@ -203,6 +306,10 @@ EISSS doctrine holds that the watchpoint receives what it does not own.
   How much medical care can occur before the patient must be moved to
   the
   parent relay?
+
+- What is the approved transfer clock limit before escalation?
+- How much storage does the compact bay actually hold?
+- What environmental band can the temporary control maintain?
 
 ---
 

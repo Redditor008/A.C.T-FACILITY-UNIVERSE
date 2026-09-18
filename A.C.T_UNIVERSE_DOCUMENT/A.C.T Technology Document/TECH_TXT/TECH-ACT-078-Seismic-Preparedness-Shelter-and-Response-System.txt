@@ -88,6 +88,51 @@ evacuation were rejected because deep floors, sealed records, water-capable cham
 can
 make immediate upward movement unsafe or unauthorized.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and response doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| SHELTER PARAMETER          | VALUE                                                                                 |
++============================+=======================================================================================+
+| Shelter                    | reinforced personnel shelter bay                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Alerting                   | seismic alert repeater                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Accountability             | floor accountability panel                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Command                    | protected command link                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Routing                    | emergency route board                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Freeze                     | evacuation freeze control                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Medical                    | medical staging cabinet                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Supplies                   | supply cache                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| After                      | post-event status terminal                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Doctrine                   | drill compliance ledger                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Placement                  | distributed so staff avoid command, logistics, and access chokepoints                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Rule                       | shelter controls do not automatically open paths to restricted floors                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Shelter capacity           | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Supply endurance           | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Alert latency              | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+This is not a simple earthquake alarm; it is a site survival system for
+a facility whose ordinary
+environment and anomalous mandate both involve movement below the ground. Shelter controls protect personnel
+without opening restricted floors.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 SPSRS includes reinforced shelter areas, personnel-accountability panels, seismic alert repeaters, emergency route
@@ -111,7 +156,52 @@ Known components include:
 
 Shelter controls are designed to protect personnel without automatically opening paths to restricted floors.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Response Controls
+
+- evacuation freeze control
+- emergency route board
+- shelter bay assignment
+- protected command link
+
+Response Readouts
+
+- floor accountability panel
+- floor-status lights
+- seismic alert repeater state
+- drill compliance ledger entry
+
+Response And Personnel Limits
+
+- Do not release personnel from shelter before route priority is assigned.
+- Do not cross a containment route during resident transfer.
+- Do not treat a drill as optional.
+- Do not read an intact route as a safe route without floor status.
+- Weakest against simultaneous containment and tectonic incidents.
+- Weakest where rosters are out of date.
+
+Capacity, endurance, and latency are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+Seismic response, Level 2 drill participation with Level 4 response control.
+
+1. Receive the alert from Seismic Analysis or local sensors.
+2. Activate floor signals by event severity.
+3. Issue route instructions.
+4. Send personnel to assigned shelter zones.
+5. Hold in place where movement is more dangerous than sheltering.
+6. Have Security confirm access cores.
+7. Have Medical prepare triage stations.
+8. Have Command classify the event before releasing anyone.
+
+Step-down: accountability closes at the post-event status terminal and the drill ledger is updated.
+Emergency: route priority is assigned by incident class before personnel leave shelter, because evacuation
+routes have intersected Security movement toward lower floors in exercise.
 
 When Seismic Analysis or local sensors issue an alert, SPSRS activates floor signals and
 route instructions according
@@ -127,6 +217,53 @@ rosters,
 access logs, and movement records. No all-clear is issued until Engineering, Security, and Seismic
 Analysis each clear
 their part of the event.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Drill participation        | Level 2 procedure                         | Level 2                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Response control or shelter| Level 4 procedure                         | Level 4                                   |
+| override                   |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Route reprioritizing       | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Supply cache check         | before each drill                         | Relay Administration                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Accountability panel fault | manual roster before the drill            | Security Division                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Route conflict found       | priority reassignment                     | Security Division                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; the system is exercised by drill rather than serviced
+on a schedule, so
+interval NOT MEASURED. Supply cache stock is the consumable. The false ordinary event review
+is why
+classification precedes release rather than following it.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Evacuation crossing        | route conflict                            | assign priority; route drill              |
+| Security movement          |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Ordinary event read as     | classification reversed                   | review; false ordinary case               |
+| anomalous                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Accountability count wrong | roster out of date                        | manual count before release               |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Shelter cache depleted     | supply lapse                              | restock before the drill                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Freeze control not         | control fault                             | manual release under Level 4              |
+| releasing                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Containment transfer during| competing routes                          | hold both and reassign                    |
+| the event                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -191,6 +328,10 @@ OPEN QUESTIONS
 - Should F-5 housing receive different drills than command staff?
 - Can repeated false alerts degrade personnel obedience during real events?
 - When does a seismic personnel incident become a restricted deep-monitoring incident?
+- How many personnel can the distributed shelter bays hold at once?
+- How long do the supply caches endure under a full-floor shelter?
+- What alert latency exists between sensor trigger and floor signal?
+
 
 FILE METADATA
 

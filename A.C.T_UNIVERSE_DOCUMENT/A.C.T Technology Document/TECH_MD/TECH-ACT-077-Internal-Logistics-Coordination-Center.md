@@ -79,6 +79,36 @@ expanded, the logistics center became a controlled technology rather than cleric
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and movement doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| CENTER PARAMETER | VALUE |
+|---|---|
+| Role | movement intelligence of the site, not a warehouse |
+| Display | site movement board |
+| Readiness | floor readiness console |
+| People | personnel route ledger |
+| Material | material custody ledger |
+| Escorts | restricted escort scheduler |
+| Port | port handoff tracker |
+| Emergency | emergency supply map |
+| Samples | sample custody drawer |
+| Medical | medical support dispatch link |
+| Audit | incident movement reconstruction file |
+| Separation | own custody record, apart from command orders |
+| Authorization fields | identity, origin, destination, purpose, clearance, escort, timing |
+| Route capacity | NOT MEASURED |
+| Escort pool size | NOT MEASURED |
+
+The center must know the difference between movement that is convenient and movement that
+is permitted. It
+stays connected to command communications but keeps its own custody record, so movement history
+never
+vanishes inside an order.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 An ILCC installation includes movement boards, route authorization consoles, cargo and personnel ledgers, floor
@@ -105,7 +135,53 @@ permitted.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Movement Controls
+
+- route authorization console
+- restricted escort scheduler
+- medical support dispatch link
+- emergency supply map release
+
+### Logistics Readouts
+
+- floor readiness console state
+- movement board against active incidents
+- port handoff tracker timing
+- material and personnel ledger entries
+
+### Movement And Personnel Limits
+
+- Do not move a sample before destination readiness is confirmed.
+- Do not let an emergency order skip ledger entry.
+- Do not treat every movement as requiring the same scrutiny.
+- Do not assume a route survives seismic activity unaltered.
+- Weakest where a division moves material informally.
+- Weakest where port timing changes without notice.
+
+Route capacity and escort pool are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Movement authorization, Level 3 routine with Level 4 restricted transfer.
+
+1. Record item or personnel identity, origin, and destination.
+2. Record purpose and clearance.
+3. Record escort need and environmental requirement.
+4. Record timing and return condition.
+5. Check floor status, security posture, and active incidents.
+6. Confirm destination readiness before movement begins.
+7. Issue the movement authorization.
+8. Reconcile the ledger on completion.
+
+Step-down: the ledger closes and the movement board returns to routine. Emergency: the center
+shifts to
+route-priority mode, and a movement already under way is completed to the nearest safe
+floor rather than
+redirected mid-corridor.
 
 Routine movement requests include item or personnel identity, origin, destination, purpose, clearance, escort need,
 environmental requirement, timing, and return condition. ILCC checks floor status, security posture, and any
@@ -122,6 +198,34 @@ After any incident, ILCC reconstructs who and what moved before, during, and aft
 event.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| CONDITION | REQUIRED SERVICE | AUTHORITY |
+|---|---|---|
+| Routine logistics | Level 3 procedure | Level 3 |
+| Restricted transfer or resident support | Level 4 procedure | Level 4 |
+| Deep-floor movement | Level 4 procedure | Level 4 |
+| Floor readiness feed fault | hold authorization until restored | Relay Administration |
+| Route altered by seismic activity | re-survey before reuse | Security Division |
+| Incident reconstruction request | file release | Relay Administration |
+
+No calendar interval is recorded; the center reconciles per movement, so interval NOT MEASURED.
+There is no
+consumable. The sample route notice is why destination readiness is confirmed before movement begins
+rather
+than on arrival.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Sample arrived before the lab was ready | readiness not confirmed | confirm first; route notice |
+| Material moved informally | ledger bypass | reconcile and retrain |
+| Emergency order with no ledger entry | urgency overriding custody | backfill and review |
+| Port timing changed silently | tracker not updated | notify and re-slot |
+| Route blocked after a tremor | physical alteration | re-survey the corridor |
+| Escort unavailable | pool exhausted | delay rather than move unescorted |
 
 ## KNOWN LIMITS
 
@@ -193,6 +297,10 @@ and alive with movement.
 - Should port handoff delays automatically freeze laboratory scheduling?
 - Can a resident influence logistics by altering what staff believe is urgent?
 - When does a logistics error become a containment breach?
+
+- What route capacity does the site hold between surface and vault levels?
+- How large is the escort pool, and how is it prioritised?
+- What did the seismic preparedness drill change about route re-survey timing?
 
 ---
 

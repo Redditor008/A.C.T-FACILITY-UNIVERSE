@@ -87,6 +87,52 @@ only if its visible purpose
 makes sense and its concealed purpose is logged. The route must be ordinary to
 the surface and exact to A.C.T.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and boundary doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| TRANSITION PARAMETER       | VALUE                                                                                 |
++============================+=======================================================================================+
+| Mask                       | ordinary-facing access mask                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Authorization              | concealed authorization panel                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Records                    | transition ledger terminal                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cargo                      | cargo screening lock                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Identity                   | personnel identity checkpoint                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Diversion                  | visitor diversion route                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Alarm                      | boundary alarm circuit                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Lift                       | dual-purpose service lift                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Emergency                  | emergency surface seal                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Handoff                    | F-5 handoff confirmation point                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Design rule                | the best transition point is not invisible; it is uninteresting                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Restriction                | route maps restricted, because a transition map is an exposure map                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Transition count           | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Descent time               | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Seal closing time          | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The architecture protects two truths at once: the surface campus must stay believable as
+a legitimate
+institute, and the buried relay must stay accessible enough to function. Surveillance is disguised
+as campus
+safety monitoring rather than removed.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 A CTAA installation includes disguised doors, dual-purpose service lifts, biometric or static-pulse checks where
@@ -109,7 +155,54 @@ Known components include:
 
 Route maps are restricted because a transition map is also an exposure map.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Transition Controls
+
+- concealed authorization panel
+- cargo screening lock
+- dual-purpose service lift
+- emergency surface seal
+
+Boundary Readouts
+
+- transition ledger terminal entries
+- boundary alarm circuit state
+- cargo screening lock result
+- F-5 handoff confirmation
+
+Boundary And Personnel Limits
+
+- Do not move while public traffic is present at the mask.
+- Do not leave a route map where it can be read.
+- Do not let repeated staff movement build a visible pattern.
+- Do not push a surface entry downward when F-5 cannot receive it.
+- Weakest against nervous security posture and mismatched paperwork.
+- Weakest against poorly justified restricted spaces.
+
+Transition count, descent time, and seal time are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+Concealed transition, Level 3 assigned operation with Level 4 route alteration.
+
+1. Record authorization, purpose, and timing.
+2. Assign the route and confirm the destination.
+3. Screen cargo for custody and environmental requirement.
+4. Decide whether material goes to F-5, F-4, F-3, F-2, or special handling.
+5. Delay or reroute when public traffic is present.
+6. Confirm the F-5 handoff point.
+7. Log the transition in the ledger terminal.
+8. Confirm the mask reads as ordinary after use.
+
+Step-down: the ledger closes and the lift returns to service duty. Emergency: the surface
+seal closes the
+transition outright, and a clean surface entry that F-5 cannot receive is held at
+the boundary rather than
+pushed downward.
 
 Routine transition begins with authorization, purpose, timing, route assignment, and destination confirmation.
 Personnel entering the buried relay are received by F-5 administrative boundary systems. Material entering
@@ -122,6 +215,52 @@ If public traffic is present, CTAA delays or reroutes transition rather than exp
 If recovered material
 cannot safely wait, Security and Logistics coordinate a cover-compatible movement. During surface exposure threats,
 CTAA seals buried routes and leaves the campus with only its ordinary face visible.
+
+SERVICING AND CALIBRATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
++============================+===========================================+===========================================+
+| Assigned transition        | Level 3 procedure                         | Level 3                                   |
+| operation                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Route alteration           | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Emergency seal             | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Exposure response          | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Mask plausibility review   | after any contractor contact              | Campus Boundary Desk                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Alarm circuit test         | before each restricted movement           | Security Division                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+No calendar interval is recorded; the boundary is reviewed per movement and after any
+contractor contact, so
+interval NOT MEASURED. There is no consumable. The contractor route notice is why masks
+are reviewed for
+ordinary plausibility rather than only for function.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Contractor near a          | valid work order, wrong route             | divert and review; route notice           |
+| transition zone            |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Descent needed while public| timing conflict                           | delay or reroute; drill                   |
+| traffic present            |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Repeated staff movement    | pattern exposure                          | vary the schedule                         |
+| noticed                    |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Paperwork mismatched       | documentation lapse                       | correct before movement                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Alarm circuit silent       | circuit fault                             | do not move until tested                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| F-5 unable to receive      | handoff broken                            | hold at the boundary                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -181,6 +320,10 @@ OPEN QUESTIONS
 - How long can emergency surface sealing hold if F-5 still needs personnel movement?
 - Can a concealed transition remain safe after one contractor notices it once?
 - When does ordinary-looking access become too ordinary to guard properly?
+- How many transition points exist, and how are they rotated?
+- How long does a descent take from surface mask to F-5 handoff?
+- How fast does the emergency surface seal close, and who may trigger it?
+
 
 FILE METADATA
 
