@@ -85,6 +85,39 @@ and why the final version was judged safe enough to leave the cell.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and release doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| RELEASE PARAMETER | VALUE |
+|---|---|
+| Terminal | redaction decision terminal |
+| Custody | source custody ledger |
+| History | controlled-reading history feed |
+| Filter log | memetic filtering action log |
+| Checklist | minimum-release checklist |
+| Comparison | safe-copy comparison pane |
+| Panel | release authorization panel |
+| Objection | Intelligence objection field |
+| Exposure | Medical exposure note channel |
+| Rollback | recall and rollback trigger file |
+| Release classes | full, minimum, withheld, recalled |
+| Release rule | minimum that satisfies the request |
+| Release count | NOT MEASURED |
+| Median decision time | NOT MEASURED |
+| Recall actions | NOT MEASURED |
+
+Release is the point at which the archive's judgement is tested by somebody outside
+it, so the governing
+standard is minimum release: the least material that answers the request. Underredaction harms a
+reader and
+overrelease harms the archive, but only one of those can be undone, which is
+why the recall and rollback
+file is treated as part of the decision rather than as a consequence of
+it.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A RRAFRS installation includes redaction workroom terminals, controlled-reading record feeds, filtering history
@@ -110,7 +143,55 @@ allowed to exist.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Release Controls
+
+- redaction decision terminal
+- release authorization panel
+- recall and rollback trigger file
+- safe-copy comparison pane
+
+### Release Readouts
+
+- source custody ledger entries
+- controlled-reading history feed
+- memetic filtering action log
+- Intelligence objection field state
+
+### Release And Personnel Limits
+
+- Do not release more than the request requires.
+- Do not authorize without the minimum-release checklist.
+- Do not close a decision with an open objection.
+- Do not treat a recall as an admission to be avoided.
+- Weakest against requests framed as urgent.
+- Weakest against material whose hazard is layout rather than text.
+
+Release count, decision time, and recalls are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence decides the minimum before it drafts the copy. Working the other way
+produces a redaction
+shaped by what was convenient to remove rather than by what had to be.
+
+1. Open the source record in the custody ledger.
+2. Read the controlled-reading history and the filtering log.
+3. Complete the minimum-release checklist.
+4. Draft the redaction at the decision terminal.
+5. Compare the safe copy in the comparison pane.
+6. Record any Intelligence objection in the field.
+7. Authorize at the panel, or withhold.
+8. File the rollback trigger before the copy leaves.
+
+Step 8 is filed before release rather than after, which is the whole point
+of having it. A rollback prepared
+in advance can be executed while the decision is still being questioned; one prepared
+afterwards is written
+by somebody defending the release they made.
 
 Before redaction begins, RRAFRS verifies source custody, document restriction set, intended audience, operational
 need, known hazard type, controlled-reading status, filtering method, and reviewing authority. Redaction staff prepare
@@ -128,6 +209,32 @@ the exact filtering decision that
 failed.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Each release | complete the checklist and file the trigger |
+| Daily | review open objections and pending decisions |
+| Weekly | audit releases against the minimum standard |
+| Monthly | test the rollback route end to end |
+| Quarterly | review the filtering log for missing actions |
+
+The weekly audit against the minimum standard is the meaningful check. Overrelease is invisible
+at the
+decision terminal because every individual release looks defensible; it is visible only when a
+month of
+releases is compared with the requests that prompted them.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Reader harmed after release | Underredaction at the draft stage | Recall, treat, review the checklist |
+| More released than asked | Redaction shaped by convenience | Recall and re-draft to the minimum |
+| Objection left open | Decision closed early | Suspend the release, record the objection |
+| Rollback not filed | Trigger prepared after release | File it and review the decision |
+| Filtering log incomplete | Action taken but not logged | Reconstruct the log before the next release |
 
 ## KNOWN LIMITS
 
@@ -208,7 +315,10 @@ prove later.
   or
   quoted procedure?
 
----
+---- What makes a release genuinely minimum rather than merely short?
+- How should an objection be resolved without stalling the request?
+- When must a release be recalled on precaution alone?
+
 
 ## FILE METADATA
 

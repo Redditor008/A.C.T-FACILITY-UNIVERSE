@@ -84,6 +84,38 @@ present and unknown at the same time.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and vault doctrine. Values the
+archive does not
+hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| VAULT PARAMETER | VALUE |
+|---|---|
+| Vault | unreadable preservation vault |
+| Sensors | blind condition sensor cluster |
+| Marker | content-obscuring custody marker |
+| Frame | non-view retrieval frame |
+| Envelope | compartmented environmental envelope |
+| Route | sealed service route |
+| Gate | access-core authorization gate |
+| Display | monitoring gallery condition display |
+| Closure | F-1 closure interface |
+| Register | unreadable register record terminal |
+| Holding classes | unreadable by hazard, by restriction, by policy |
+| Access rule | reading is recorded as a breach |
+| Vault count | NOT MEASURED |
+| Retrieval frequency | NOT MEASURED |
+| Preservation failures | NOT MEASURED |
+
+This vault preserves material that must never be read, which makes it the only
+archive in the node whose
+success is measured by absence of knowledge. Every component is therefore blind by design:
+sensors report
+condition without reporting content, the custody marker obscures rather than describes, and the retrieval
+frame moves an item without presenting it. Reading is not a privilege here but
+a recorded breach.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A UAARPV installation includes isolated preservation vaults, sealed content trays, blind retrieval frames,
@@ -109,7 +141,55 @@ learning what waits inside it.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Vault Controls
+
+- access-core authorization gate
+- non-view retrieval frame
+- sealed service route
+- F-1 closure interface
+
+### Vault Readouts
+
+- blind condition sensor cluster output
+- monitoring gallery condition display
+- unreadable register record terminal entries
+- compartmented environmental envelope state
+
+### Access And Personnel Limits
+
+- Do not attempt to read a held item under any pretext.
+- Do not describe content in the register entry.
+- Do not service the envelope without the sealed route.
+- Do not close F-1 with a retrieval in progress.
+- Weakest against preservation work that requires inspection.
+- Weakest against curiosity sustained over long tenure.
+
+Vault count, retrieval rate, and failures are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence performs preservation without inspection. Condition is inferred from blind sensors and from
+the
+envelope's own readings, and where those disagree the item is escalated rather than examined.
+
+1. Clear the access-core authorization gate before entry.
+2. Read the blind condition sensor cluster.
+3. Confirm the environmental envelope is within range.
+4. Locate the item by marker, not by inspection.
+5. Move it in the non-view retrieval frame where required.
+6. Service through the sealed route only.
+7. Record condition in the unreadable register terminal.
+8. Confirm the F-1 closure interface state before leaving.
+
+Steps 4 and 5 are the pair that keeps the vault unread. An item
+located by inspection has already been
+looked at, and a retrieval frame bypassed for convenience presents the item to the
+person moving it, which
+is the one event this floor exists to prevent.
 
 Before any vault work, UAARPV verifies the holding's restriction set, service purpose, access authority,
 paired
@@ -127,6 +207,32 @@ content beyond
 authority, the event is treated as an F-1 breach condition.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Each entry | clear the gate and read blind sensors |
+| Daily | confirm envelope ranges across the vault |
+| Weekly | inspect the sealed service route |
+| Monthly | audit register entries for content language |
+| Quarterly | exercise closure with a retrieval suspended |
+
+The monthly audit of register language is unusual but necessary. A register entry that
+describes what an
+item says is itself a copy of it, and a vault whose records can
+be read has failed in the same way as a
+vault whose doors can be opened.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Item examined in place | Location sought by inspection | Report the breach and review the holder |
+| Register describes content | Entry written from knowledge | Strike the language and log the exposure |
+| Envelope out of range | Environmental fault in a compartment | Escalate without opening the item |
+| Service outside the route | Sealed route bypassed | Suspend servicing, inspect the route |
+| Closure with retrieval live | Closure step taken early | Complete the retrieval before closure |
 
 ## KNOWN LIMITS
 
@@ -204,7 +310,10 @@ UAARPV doctrine holds that the deepest archive is successful when it remembers w
   postpone
   the day someone must know?
 
----
+---- How is preservation verified without inspection at all?
+- What register language is safe to write down?
+- When must an unreadable item be destroyed rather than held?
+
 
 ## FILE METADATA
 

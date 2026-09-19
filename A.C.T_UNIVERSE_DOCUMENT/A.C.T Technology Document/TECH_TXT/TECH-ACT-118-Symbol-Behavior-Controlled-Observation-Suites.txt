@@ -84,6 +84,54 @@ method: more active than sealed storage, stricter than ordinary study, and conne
 monitoring so the act
 of analysis remains a tracked exposure event.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and observation doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| OBSERVATION PARAMETER      | VALUE                                                                                 |
++============================+=======================================================================================+
+| Cell                       | controlled-observation cell                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Shutters                   | visual-denial shutter bank                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Display                    | delayed display monitor                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Frame                      | partial-symbol isolation frame                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Reflection                 | reflection suppression panel                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Clock                      | exposure clock and reader timer                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Care                       | cognitive-care monitoring port                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Notes                      | symbol behavior note terminal                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Drawer                     | custody pass-through drawer                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Blind close                | emergency blind-close control                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Viewing classes            | denied, delayed, partial, disciplined                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Restriction rule           | set recorded before the shutter opens                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cell count                 | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Median exposure time       | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Exposure incidents         | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+In this suite the act of looking is the hazard, which inverts the usual
+design of a research room. Nothing
+here exists to show the analyst more; the shutter bank, the delayed monitor, and
+the isolation frame all
+exist to show less. The partial frame carries its own warning, because a mind
+shown part of a symbol tends
+to complete it, and the completed form is the one that was being withheld.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 A SBCOS installation includes partitioned observation cells, visual-denial shutters, delayed display screens,
@@ -105,7 +153,57 @@ Known components include:
 
 The suite's architecture is designed around the assumption that vision is a contact surface.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Observation Controls
+
+- visual-denial shutter bank
+- delayed display monitor
+- partial-symbol isolation frame
+- emergency blind-close control
+
+Observation Readouts
+
+- exposure clock and reader timer
+- cognitive-care monitoring port state
+- symbol behavior note terminal entries
+- reflection suppression panel status
+
+Viewing And Personnel Limits
+
+- Do not open a shutter before the restriction set is recorded.
+- Do not exceed the reader timer to finish an observation.
+- Do not assume a partial symbol is a safe symbol.
+- Do not work the cell without the care port live.
+- Weakest against long observation sessions.
+- Weakest against analysts who believe they are unaffected.
+
+Cell count, exposure time, and incidents are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+The sequence sets the restriction before it permits the view. A restriction written after
+an observation
+records what the analyst chose to allow themselves, which is not a restriction at
+all.
+
+1. Record the restriction set at the authorization terminal.
+2. Confirm the reflection suppression panel is active.
+3. Start the exposure clock before the shutter opens.
+4. Open the shutter bank to the permitted aperture only.
+5. Observe through the delayed display where the set requires.
+6. Note behaviour at the symbol behavior terminal.
+7. Close the shutters at the timer, not at convenience.
+8. Log exposure and any care-port alert before leaving.
+
+Step 7 is the discipline the whole suite rests on. Every other control limits
+what can be seen; only the
+timer limits how long it is seen for, and an observation extended past the
+timer is the most common way an
+analyst who was fine at the start stops being fine.
 
 Before study begins, the Symbol Behavior Study Lead confirms the symbol's restriction set, source
 custody, permitted
@@ -121,6 +219,44 @@ dread response,
 or fixation changes. After study, all notes, captures, derivatives, and failed observations enter Archive
 custody
 under the same caution as source material.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Each session               | record the restriction set and the clock                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Daily                      | test the shutter bank and blind-close control                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Weekly                     | check the reflection panel and care port                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | review exposure totals per analyst                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | re-confirm restriction sets against doctrine                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Monthly review of exposure totals per analyst exists because tolerance is assumed rather than
+measured. An
+analyst who volunteers for every session accumulates exposure that no single session would have
+permitted,
+and only the total shows it.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Shutter opened early       | Restriction set not yet recorded          | Blind-close, log the exposure, restart    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Timer overrun              | Observation extended to finish            | Close the cell and refer to care          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Partial symbol completed   | Isolation frame aperture too wide         | Narrow the frame and review the notes     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Reflection observed        | Suppression panel inactive                | Blind-close and inspect the panel         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Care port silent           | Port not confirmed at session start       | Stop the session until the port is live   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -189,6 +325,9 @@ same way?
 - Should Intelligence receive behavior descriptions if those descriptions may carry activation structure?
 - When does refusing to look become insufficient because the symbol has learned the
 refusal pattern?
+- What aperture is narrow enough to prevent completion?
+- How should delayed display be calibrated per symbol class?
+- When must an analyst be withdrawn from study entirely?
 
 FILE METADATA
 

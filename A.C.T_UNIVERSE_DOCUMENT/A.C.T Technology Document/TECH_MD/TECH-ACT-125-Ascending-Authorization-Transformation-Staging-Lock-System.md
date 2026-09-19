@@ -83,6 +83,37 @@ locked, recorded, and difficult to cross casually.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and staging doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| STAGING PARAMETER | VALUE |
+|---|---|
+| Threshold | evaluation workshop threshold |
+| Chamber | staging lock chamber |
+| Mount | preparation-state holding mount |
+| Terminal | ascending authorization terminal |
+| Register | proposed-outcome register |
+| Attachment | Research finding attachment port |
+| Receipt | Containment custody receipt gate |
+| Seal | Security override denial seal |
+| Display | floor command approval display |
+| Return | transformation refusal return route |
+| Authority classes | reversible, experimental, irreversible |
+| Lock rule | chamber sealed until authority is recorded |
+| Chamber count | NOT MEASURED |
+| Median staging time | NOT MEASURED |
+| Lock violations | NOT MEASURED |
+
+Transformation is the one operation on this floor that cannot be undone, so the
+system gates it with
+friction rather than with judgement. Authority ascends with consequence, evaluation is kept physically
+separate from preparation, and a refused proposal has its own return route because a
+resident that has been
+prepared and then refused has still been changed by the preparation.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A AATSL installation includes evaluation suites, preparation chambers, staging locks, authorization terminals,
@@ -108,7 +139,56 @@ to become until authority resolves the boundary.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Staging Controls
+
+- staging lock chamber
+- ascending authorization terminal
+- Security override denial seal
+- transformation refusal return route
+
+### Staging Readouts
+
+- proposed-outcome register entries
+- floor command approval display
+- Research finding attachment port state
+- Containment custody receipt gate status
+
+### Staging And Personnel Limits
+
+- Do not open the staging lock before authority is recorded.
+- Do not prepare a resident in the evaluation workshop.
+- Do not treat a reversible case as precedent for an irreversible one.
+- Do not close a refusal without using the return route.
+- Weakest against accumulated low-consequence approvals.
+- Weakest against urgency argued from the resident's condition.
+
+Chamber count, staging time, and violations are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence evaluates and prepares in separate places. A resident assessed in the room
+where it will be
+prepared has already begun to be prepared, and the separation is what allows a
+refusal to mean something.
+
+1. Assess the proposal at the evaluation workshop threshold.
+2. Record the proposed outcome in the register.
+3. Attach the Research finding at the attachment port.
+4. Determine the authority class for the consequence.
+5. Obtain authorization at the ascending terminal.
+6. Move the resident to the preparation-state mount.
+7. Open the staging lock only against the recorded authority.
+8. Return by the refusal route, or receipt through the custody gate.
+
+Step 8 names both outcomes for a reason. A refusal is not a cancellation
+but a movement with its own route
+and its own record, because the resident returns to standard holding having been mounted,
+measured, and
+considered, and standard holding needs to know that.
 
 Before staging, AATSL requires the proposed transformation outcome, research basis, containment history, resident
 restriction set, reversibility estimate, hazard projection, personnel roster, command authority, and return route.
@@ -125,6 +205,32 @@ fails to cover an
 emerging hazard, the lock holds or returns the object rather than advancing it.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Each proposal | record the outcome and the authority class |
+| Daily | confirm the staging lock is sealed |
+| Weekly | review the refusal return route |
+| Monthly | audit approvals against consequence class |
+| Quarterly | exercise the Security override denial seal |
+
+The monthly audit of approvals against consequence class is the control against drift. Each
+reversible
+approval is correctly granted at a low level; the escalation appears only when a
+series of them is read
+together as a programme nobody authorised.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Lock opened early | Authority not yet recorded | Seal it, log the violation, restart |
+| Resident prepared in evaluation | Rooms used interchangeably | Return it and re-brief the separation |
+| Refusal not returned | Return route not used | Route it and record the condition |
+| Authority class understated | Consequence judged as reversible | Suspend the operation, re-class it |
+| Receipt gate bypassed | Custody not taken at the gate | Take custody and reconstruct the record |
 
 ## KNOWN LIMITS
 
@@ -199,7 +305,10 @@ heavier than the desire to act.
 - Should repeated low-consequence transformations be treated as one higher-consequence program?
 - Does ascending authorization slow necessary action, or is that slowness the protection?
 
----
+---- What makes a transformation genuinely reversible?
+- Should repeated low-consequence approvals be reviewed as one?
+- How should a refused resident be documented afterwards?
+
 
 ## FILE METADATA
 

@@ -88,6 +88,38 @@ officer, or administrator into someone who can descend with the correct reflexes
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and training doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| TRAINING PARAMETER | VALUE |
+|---|---|
+| Instruction | doctrine instruction room |
+| Mock station | mock controlled-reading station |
+| Drill table | document quarantine drill table |
+| Rehearsal | redaction rehearsal desk |
+| Simulation | anomalous intake simulation tray |
+| Briefing | boundary identity briefing room |
+| Seal practice | emergency seal practice panel |
+| Reporting | exposure reporting terminal |
+| Observation | instructor observation station |
+| Ledger | training certification ledger |
+| Course classes | doctrine, drill, simulation, certification |
+| Material rule | no live hazard in a training room |
+| Course count | NOT MEASURED |
+| Median course length | NOT MEASURED |
+| Certification failures | NOT MEASURED |
+
+Training is the one activity in this node that deliberately reproduces hazardous conditions for
+people who
+are not yet cleared to meet them. The governing rule is therefore that no
+live hazard enters a training
+room: simulations are built from described behaviour rather than from source material, because a
+rehearsal
+that exposes a trainee has produced the exact failure the training exists to prevent.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 An OATDPS installation includes doctrine classrooms, mock controlled-reading rooms, document-handling drill tables,
@@ -113,7 +145,56 @@ before real files punish them.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Training Controls
+
+- doctrine instruction room
+- mock controlled-reading station
+- document quarantine drill table
+- emergency seal practice panel
+
+### Training Readouts
+
+- training certification ledger entries
+- instructor observation station notes
+- exposure reporting terminal records
+- anomalous intake simulation tray state
+
+### Training And Personnel Limits
+
+- Do not bring source material into a training room.
+- Do not run a drill without an instructor observing.
+- Do not certify a person who failed a reading drill.
+- Do not leave a simulation tray set up after a course.
+- Weakest against simulations made realistic for effect.
+- Weakest against instructors teaching from memory.
+
+Course count, course length, and failure rate are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence separates instruction from drill and drill from certification. A trainee who has
+been told the
+doctrine has not been shown to hold it, and the ledger records only what
+was observed.
+
+1. Confirm the room holds no source material before the course.
+2. Deliver doctrine instruction and record attendance.
+3. Run the controlled-reading drill under observation.
+4. Run the quarantine and redaction drills in turn.
+5. Run the intake simulation from the tray.
+6. Brief boundary identity and seal procedure.
+7. Record any exposure at the reporting terminal.
+8. Enter the certification result in the ledger.
+
+Step 1 is the control that makes the rest safe. Every other step assumes
+the room is clean, and a single
+source document left on a rehearsal desk converts a training course into an uncontrolled
+exposure for people
+who have not been cleared to survive it.
 
 Personnel enter OATDPS after preliminary clearance review and before operational-depth assignment. Training begins
 with boundary doctrine: the difference between public foundation work and buried archive work. Personnel
@@ -129,6 +210,31 @@ but it blocks
 deeper archive assignment until reviewed.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Each course | confirm the room is clear and log attendance |
+| Weekly | inspect simulation trays and drill tables |
+| Monthly | review failed drills against the ledger |
+| Quarterly | re-validate course material against doctrine |
+| Annually | re-certify instructors at the observation station |
+
+Quarterly re-validation of course material matters because doctrine changes and teaching material does not.
+A trainee certified against last year's procedure arrives on the floor confident and wrong,
+which is worse
+than arriving untrained.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Trainee exposed in a drill | Source material in the room | Stop the course, report the exposure |
+| Certified after a failed drill | Result not read before entry | Suspend the certification, retrain |
+| Drill run unobserved | Instructor absent from the station | Void the drill and repeat it observed |
+| Simulation left set up | Tray not cleared after the course | Clear it and log the oversight |
+| Material out of date | Course not re-validated | Withdraw the course, re-validate |
 
 ## KNOWN LIMITS
 
@@ -211,7 +317,10 @@ OATDPS doctrine holds that a trained hesitation is stronger than a brave mistake
   cleared
   to see?
 
----
+---- How realistic may a simulation become before it is a hazard?
+- Which failures should bar public preservation duties?
+- What doctrine may provisional personnel learn early?
+
 
 ## FILE METADATA
 

@@ -4249,3 +4249,62 @@ cells 0, git diff --check rc=0.
 TECH-ACT-116 to TECH-ACT-137.
 
 **Next action.** Resume at TECH-ACT-116 through TECH-ACT-120.
+
+## Prompt Log — 2026-09-19 06:13 UTC
+
+**Local repository recovered again, and the conversion tooling rebuilt and re-proven.** The clone
+had been reset to the pre-session base commit while the remote branch still held the finished work
+at f1fba42. All 925 tracked files were compared byte for byte against the fetched tip: 923
+identical, 0 differing, 2 not present on disk. The branch was reset onto the tip, the tree came back
+clean, and record 115 was re-checked to confirm the previous batch survived. The scratch directory
+holding the batch script does not survive between sessions, so the markdown to plain-text converter
+was rewritten and then proven against the corpus before use: for every record in the previous batch,
+each generated markdown block was converted and compared line for line with the matching block in
+the plain-text twin, returning zero mismatches. That check caught two real defects in the last
+rewrite, so it now runs before any batch rather than after.
+
+**Records 116 to 125.** Each gained a TECHNICAL SPECIFICATION table, an INTERFACE AND OPERATING
+ENVELOPE chapter, a numbered operating sequence, a SERVICING AND CALIBRATION schedule, a FAULT
+ISOLATION table, and three new OPEN QUESTIONS, in both twins.
+
+**This block works down the Kurokawa Archive Node and returns to Redwood Veil.** Training reproduces
+hazardous conditions for people not yet cleared to meet them, so no live material enters a training
+room. Public archive separation is absolute rather than graded: a suspect item is moved first and
+assessed below, and the reading room closes while that happens. The symbol suites exist to show less
+rather than more, and the partial frame carries its own warning because a mind shown part of a
+symbol tends to complete it. Propagation tracking keeps custody and analysis connected, since a
+derivative ruled without the source record is a guess recorded as a ruling. Redaction release works
+to a minimum standard and files the rollback before the copy leaves.
+
+**Deep archive and Redwood Veil tailoring.** The unread vault preserves material that must never be
+read, so its sensors report condition without content and a register entry that describes an item is
+itself a copy of it. The perception vault holds two answers to one problem: the Blind Box denies
+perception entirely, the Eye Box permits disciplined viewing under a recorded protocol, and moving
+an item between them is an escalation. Signal-isolated storage treats isolation as a physical
+property of the drawer verified before it closes. Standard holding gives each Box an independent
+monitoring connection, because a loss affecting one chamber is maintenance while one affecting a row
+is containment. Transformation staging gates with friction rather than judgement and keeps a refusal
+return route, because a resident that has been prepared and then refused has still been changed.
+
+**Word counts, measured from the records after the run.** 116 1277 to 1999, 117 1389 to 2121, 118
+1244 to 1980, 119 1266 to 1974, 120 1305 to 2026, 121 1292 to 2017, 122 1318 to 2059, 123 1279 to
+1985, 124 1305 to 2060, 125 1253 to 1970. Every record now carries 14 H2 chapters, 8 H3 sections,
+and 6 pipe tables.
+
+**Two guards earned their place.** The row-width check passed before assembly and the dry run
+confirmed every rendered block. The structural comparison against the reference record then flagged
+four of the new records, which turned out to be a fault in the comparison rather than in the
+records: those four open with a FUNCTION OUTLINE chapter where the reference opens with FUNCTION
+SUMMARY, a pre-existing difference in the source documents. The comparison was corrected to treat
+the two as the same slot, the records were reverted and re-run rather than patched, and the check
+then passed for all ten.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, UTF8_ERR 0, CONFLICT 0,
+multiH1 0, odd-fence 0, md-with-box 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204, GOI_MD 34 =
+GOI_TXT 34, widest box line 118, date-rule violations 0, twin date mismatches 0, truncated registry
+cells 0, git diff --check rc=0.
+
+**Remaining ACT technology queue.** 12 TECH-ACT records still carry the old skeleton, running from
+TECH-ACT-126 to TECH-ACT-137.
+
+**Next action.** Resume at TECH-ACT-126 through TECH-ACT-130.

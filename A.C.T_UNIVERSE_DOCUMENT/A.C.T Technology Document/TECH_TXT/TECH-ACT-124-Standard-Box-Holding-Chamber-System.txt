@@ -91,6 +91,55 @@ working heart of
 Redwood Veil because SBHCS made ordinary anomalous custody scalable without pretending the residents were
 harmless.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and holding doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| CHAMBER PARAMETER          | VALUE                                                                                 |
++============================+=======================================================================================+
+| Small unit                 | Small Box resident unit                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Medium unit                | Medium Box resident unit                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Large unit                 | Large Box resident unit                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monitoring                 | independent Box monitoring connection                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Service                    | adjustable environmental service branch                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Observation                | chamber observation pane or sensor route                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Threshold                  | controlled handling threshold                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Identity                   | resident documentation identity tag                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Routing lock               | F-2 restricted-hold routing lock                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Gate                       | F-4 ascending-authorization routing gate                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Box classes                | Small, Medium, Large                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Entry rule                 | observation without entry by default                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Chamber count              | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Median hold time           | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monitoring losses          | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Standard holding is the floor's default and therefore its largest surface. Each Box carries
+an independent
+monitoring connection rather than a shared bus, because a monitoring loss that affects one
+chamber is a
+maintenance problem while one that affects a row is a containment problem, and the
+two cannot be told apart
+if they share a circuit. The default is observation without entry: an entry is
+an event, not a routine.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 A SBHCS installation includes chamber-row galleries, Small Box units, Medium Box units, Large Box
@@ -115,7 +164,56 @@ The standard Box is defined less by its walls than by its record. If
 the chamber cannot be identified, monitored,
 documented, and routed, it is not a Box under SBHCS doctrine.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Chamber Controls
+
+- Small, Medium, and Large Box resident units
+- adjustable environmental service branch
+- controlled handling threshold
+- F-2 restricted-hold routing lock
+
+Chamber Readouts
+
+- independent Box monitoring connections
+- chamber observation pane or sensor route
+- resident documentation identity tags
+- F-4 ascending-authorization routing gate state
+
+Holding And Personnel Limits
+
+- Do not enter a chamber where observation suffices.
+- Do not reassign a Box class without a recorded reason.
+- Do not cross the handling threshold without authorization.
+- Do not treat a quiet resident as a stable one.
+- Weakest against long holds with infrequent review.
+- Weakest against rows where several residents quiet at once.
+
+Chamber count, hold time, and monitoring losses are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+The sequence observes before it acts and records identity before it moves anything. A
+resident moved against
+the wrong tag is a resident whose history no longer describes it.
+
+1. Read the monitoring connection for every Box on the row.
+2. Confirm each resident documentation identity tag.
+3. Observe through the pane or sensor route.
+4. Adjust the environmental service branch where required.
+5. Request authorization before crossing the handling threshold.
+6. Record any entry as an event, with its reason.
+7. Route through the F-2 lock or the F-4 gate where directed.
+8. Close the round with the row status confirmed.
+
+Step 1 covers the whole row rather than the chamber being worked on. A
+resident that quiets while attention
+is on its neighbour is the failure this floor has actually recorded, and a
+round that reads only the chamber
+in front of the operator cannot see it happen.
 
 Before assignment, the Floor Holding Chief or delegated containment staff confirm object classification, size,
 activity cadence, environmental requirement, handling rule, observation method, documentation identity, Recovery
@@ -130,6 +228,44 @@ is required.
 If the resident shows transformation potential, the F-4 route is opened only under ascending
 authorization. If it
 demonstrates REACTIVE, ENTROPIC, EXIGENT, memetic, or informational character, F-2 restricted-hold transfer begins.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Each round                 | read every monitoring connection on the row                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Daily                      | confirm identity tags against the register                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Weekly                     | inspect service branches and panes                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | review long holds for reassessment                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | test monitoring independence per Box                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Quarterly testing of monitoring independence is the check that justifies the wiring. An independent
+connection that has silently become shared behaves exactly like a shared one until the
+day a single fault
+takes the row down, and by then the distinction has already been lost.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Monitoring lost on a row   | Shared circuit rather than independent    | Post a physical watch, test independence  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Resident moved without a   | Identity not confirmed first              | Stop the move, reconcile the register     |
+| tag                        |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Entry without authorization| Threshold crossed by habit                | Record the event and review the practice  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Quiet treated as stable    | Long hold without reassessment            | Reassess and record the interval          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Routing without the lock   | F-2 step bypassed                         | Recall the movement and route properly    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -194,6 +330,9 @@ OPEN QUESTIONS
 - Should transformation-potential review happen before or after long-term standard stability?
 - Does a standard Box teach personnel to respect ordinary containment or to underestimate
 it?
+- What interval should trigger reassessment of a long hold?
+- Should Box class follow size, reach, or service burden?
+- When does a quiet row become a floor-level concern?
 
 FILE METADATA
 

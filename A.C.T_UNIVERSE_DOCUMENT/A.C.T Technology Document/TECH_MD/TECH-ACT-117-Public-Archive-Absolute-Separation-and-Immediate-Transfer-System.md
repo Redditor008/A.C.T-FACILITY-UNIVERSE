@@ -88,6 +88,38 @@ the public floor its rules.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and separation doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
+| SEPARATION PARAMETER | VALUE |
+|---|---|
+| Trigger | public-floor suspect item trigger |
+| Closure | reading-room closure script |
+| Transfer | preservation-lab transfer drawer |
+| Halt | digitization halt control |
+| Carrier | sealed clean-box carrier |
+| Ledger | transition custody ledger |
+| Descent | concealed descent point |
+| Console | boundary Security console |
+| Explanation | public explanation card set |
+| Receipt | operational archive receipt channel |
+| Separation rule | suspect item leaves the public floor at once |
+| Authority | Foundation Director for a floor seal |
+| Public throughput | NOT MEASURED |
+| Median transfer time | NOT MEASURED |
+| Cover incidents | NOT MEASURED |
+
+The public floor is the one place in this node where an uncontrolled reading
+can reach somebody the archive
+has no authority over. Separation is therefore absolute rather than graded: a suspect item
+is not assessed
+in place, not quarantined in place, and not examined in front of a reader.
+It is moved first and assessed
+below, and the reading room closes while that happens.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A PAASITS installation includes reading-room interruption controls, preservation-lab refusal stations, digitization
@@ -114,7 +146,55 @@ closure, or a staff-only transfer.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Separation Controls
+
+- public-floor suspect item trigger
+- reading-room closure script
+- digitization halt control
+- concealed descent point
+
+### Separation Readouts
+
+- transition custody ledger entries
+- boundary Security console state
+- operational archive receipt channel status
+- sealed clean-box carrier custody
+
+### Public And Personnel Limits
+
+- Do not assess a suspect item on the public floor.
+- Do not digitize an item once the halt is raised.
+- Do not improvise an explanation outside the card set.
+- Do not delay a transfer to finish a reader interaction.
+- Weakest against a busy reading room at closure.
+- Weakest against staff who explain rather than transfer.
+
+Public throughput, transfer time, and incidents are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence moves the item before it explains anything. Every step that could be
+read as investigation is
+deliberately placed after the transfer, not before it.
+
+1. Raise the suspect item trigger at the point of discovery.
+2. Read the closure script and close the reading room.
+3. Halt digitization for the affected batch.
+4. Place the item in the sealed clean-box carrier.
+5. Open the transition custody ledger entry.
+6. Move the item through the concealed descent point.
+7. Hand off through the operational archive receipt channel.
+8. Answer the public from the explanation card set.
+
+Step 8 comes last for a reason that is easy to lose under pressure.
+A member of the public who is answered
+before the item is moved becomes a witness to the move, and the explanation
+cards only work when there is
+nothing left in the room to explain.
 
 When a document, object, recording, image, or digital file on F-8 shows anomalous indicators
 or cannot be cleared by
@@ -134,6 +214,32 @@ seal the
 operational archive behind F-8 and preserve the legitimate floor's clean identity.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Each shift | confirm the trigger and console are live |
+| Daily | reconcile the custody ledger with receipts |
+| Weekly | review the explanation card set for drift |
+| Monthly | exercise a reading-room closure in session |
+| Quarterly | rehearse a transfer during peak public hours |
+
+The monthly in-session closure is the exercise that matters. A closure rehearsed in an
+empty room proves the
+script reads correctly; a closure run while the room is full proves the staff
+can carry it out while being
+watched.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Item assessed in public | Trigger not raised at discovery | Move it now and log the delay |
+| Digitization continued | Halt control not reached | Stop the batch, quarantine the copies |
+| Explanation improvised | Card set not used | Correct the record and re-brief staff |
+| Transfer delayed | Reader interaction finished first | Transfer first, log the reason given |
+| Ledger entry missing | Custody not opened at the carrier | Reconstruct the entry before receipt |
 
 ## KNOWN LIMITS
 
@@ -219,7 +325,10 @@ in public.
   public custody?
 — When does calm cover language become dangerous because it slows transfer too much?
 
----
+---- What may staff say to a reader during a closure?
+- Which items must never be carried across the public floor?
+- How long may a reading room stay closed before it draws attention?
+
 
 ## FILE METADATA
 

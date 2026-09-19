@@ -91,6 +91,56 @@ developed around the principle that no one enters F-2 to browse a floor. Personn
 enter for one holding, one purpose,
 and one named perception protocol.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and perception doctrine. Values the
+archive
+does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| PERCEPTION PARAMETER       | VALUE                                                                                 |
++============================+=======================================================================================+
+| Blind unit                 | Blind Box perception-denial unit                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Eye unit                   | Eye Box disciplined-viewing unit                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Field                      | visual-denial shutter and baffle field                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Terminal                   | restriction-set authorization terminal                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Gate                       | unit-specific access gate                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Care                       | cognitive-care monitoring port                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Recorder                   | perception-protocol recorder                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Apparatus                  | Dread EYE observation interface                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Review lock                | F-1 transfer review lock                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Reassessment               | readable-storage reassessment file                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Unit classes               | denied, disciplined, reassessed                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Protocol rule              | recorded before the unit is opened                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Unit count                 | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Median viewing time        | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Perception breaches        | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+This floor holds two answers to the same problem. The Blind Box denies perception
+entirely and is used where
+no viewing protocol can be made safe. The Eye Box permits disciplined viewing under
+a recorded protocol and
+is used where observation is necessary and can be bounded. The choice between them
+is a restriction-set
+decision, and moving an item from Blind to Eye is an escalation that requires
+the same authority as opening
+it.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 A BBEBPCVS installation includes Blind Box vaults, Eye Box observation units, perception-interruption boundaries,
@@ -113,7 +163,57 @@ Known components include:
 
 The technology's central distinction is simple: Blind Boxes prevent perception; Eye Boxes ration it.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Perception Controls
+
+- Blind Box perception-denial unit
+- Eye Box disciplined-viewing unit
+- restriction-set authorization terminal
+- unit-specific access gate
+
+Perception Readouts
+
+- perception-protocol recorder entries
+- cognitive-care monitoring port state
+- visual-denial shutter and baffle field status
+- F-1 transfer review lock position
+
+Viewing And Personnel Limits
+
+- Do not open a unit before the protocol is recorded.
+- Do not move an item from Blind to Eye without authority.
+- Do not view outside the recorded discipline.
+- Do not service a Blind Box by looking inside it.
+- Weakest against staff who find denial provocative.
+- Weakest against long tenure on a single unit.
+
+Unit count, viewing time, and breaches are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+The sequence records the protocol before the unit opens and the care state before
+the person leaves. Both
+records are what allow a later review to tell discipline from exposure.
+
+1. Confirm the restriction set at the authorization terminal.
+2. Clear the unit-specific access gate.
+3. Record the perception protocol before opening.
+4. Open the shutter and baffle field to the permitted state.
+5. Observe only within the recorded discipline.
+6. Monitor the cognitive-care port throughout.
+7. Close the unit and stop the recorder.
+8. Log the session and any care alert before leaving.
+
+Step 8 is what makes the protocol auditable rather than aspirational. A discipline that
+is not recorded at
+the time cannot be distinguished afterwards from a viewing that simply felt controlled, and
+this floor has
+repeatedly found that the difference matters most to the person who cannot remember it
+clearly.
 
 Before unit access, BBEBPCVS verifies holding identity, restriction set, permitted perception channel, personnel
 clearance, Medical exposure status, observation duration, documentation language, and transfer purpose. General floor
@@ -128,6 +228,44 @@ restriction logic as direct
 observation. If a holding exceeds F-2 capacity, transfer to F-1 is reviewed; if its
 danger diminishes, return to F-3
 readable storage may be assessed.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Each session               | record the protocol and the care state                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Daily                      | test the shutter and baffle field                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Weekly                     | inspect Blind Box seals without opening                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | review viewing totals per person                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | reassess readable-storage candidates                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Weekly Blind Box inspection without opening is a deliberate constraint. A seal check that
+requires looking
+inside converts the safest unit on the floor into the Eye Box, and the
+inspection method is therefore part
+of the restriction rather than an exception to it.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Unit opened early          | Protocol not yet recorded                 | Close it, log the breach, restart         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Item moved Blind to Eye    | Escalation without authority              | Return it and record the attempt          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Viewing outside discipline | Protocol not followed                     | End the session and refer to care         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Blind Box inspected openly | Seal check done by looking                | Report the exposure, re-brief the method  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Care port silent           | Port not live at session start            | Stop the session until the port is proven |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -196,6 +334,9 @@ exposure?
 - Can a restriction set safely include a holding name if the name is
 itself informative?
 - Should F-2 ever return material upward after it has required visual denial?
+- What makes a viewing protocol safe rather than merely recorded?
+- Should denial ever be relaxed after long stability?
+- How is a Blind Box seal verified without opening it?
 
 FILE METADATA
 

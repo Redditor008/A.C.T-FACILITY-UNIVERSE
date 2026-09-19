@@ -87,6 +87,54 @@ node a way to hold transmitting or receiving documents without either overclassi
 F-2 or underestimating
 them as ordinary records.
 
+TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and holding doctrine. Values the
+archive does
+not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| STORAGE PARAMETER          | VALUE                                                                                 |
++============================+=======================================================================================+
+| Unit                       | signal-isolated storage unit                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Drawer                     | shielded document drawer                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Rack                       | anomalous media rack                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Sensor                     | behavior monitoring sensor                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Liner                      | transmission dampening liner                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Port                       | quarantine transfer port                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Pass-through               | F-4 sample-control pass-through                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Lock                       | F-2 escalation route lock                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Ledger                     | storage access ledger                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Display                    | floor holding status display                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Holding classes            | transmitting, latent, carrier-suspect                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Isolation rule             | liner verified before the drawer closes                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Unit count                 | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Median holding time        | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Signal escapes             | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Documents on this floor are held because they emit. The hazard is not what
+a document says but what it does
+while it is stored, so isolation is a physical property of the drawer rather
+than a procedural rule. The
+dampening liner is verified before the drawer closes because a transmitting document inside an
+unverified
+drawer is a transmitting document inside the floor.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 A SIADSS installation includes signal-isolated storage cabinets, shielded document drawers, media vault racks,
@@ -110,7 +158,56 @@ The system treats each storage position as a containment chamber whose resident 
 be a document, recording,
 file, image, or piece of media.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Storage Controls
+
+- signal-isolated storage unit
+- shielded document drawer
+- quarantine transfer port
+- F-2 escalation route lock
+
+Storage Readouts
+
+- behavior monitoring sensor output
+- transmission dampening liner state
+- storage access ledger entries
+- floor holding status display
+
+Holding And Personnel Limits
+
+- Do not close a drawer before the liner is verified.
+- Do not store a carrier-suspect item unshielded.
+- Do not move an item without a ledger entry.
+- Do not treat a quiet sensor as an inert document.
+- Weakest against items whose emission is intermittent.
+- Weakest against media whose carrier is not the page.
+
+Unit count, holding time, and escapes are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+The sequence verifies isolation before containment and records access at the moment it occurs.
+A ledger
+written afterwards records who remembers being there.
+
+1. Classify the item as transmitting, latent, or carrier-suspect.
+2. Verify the transmission dampening liner.
+3. Place the item in the shielded document drawer.
+4. Close the drawer and confirm isolation on the sensor.
+5. Open the storage access ledger entry.
+6. Monitor the behavior sensor through the holding period.
+7. Route samples through the F-4 pass-through where required.
+8. Escalate through the F-2 route lock when thresholds are met.
+
+Step 4 is the confirmation that makes step 2 meaningful. A liner verified before
+closing is a claim; a
+sensor reading taken after closing is evidence, and the difference is what the floor
+relies on when it
+decides whether the rest of the storage is safe.
 
 Before assignment, the Floor Holding Archivist verifies intake record, anomalous assessment, signal behavior, format,
 custody chain, environmental needs, access limits, monitoring method, and escalation thresholds. Material with active
@@ -123,6 +220,44 @@ F-2. If approved
 for study, it moves up to F-4 under documented sample control. If cleared of
 anomalous character, it may return to
 general archival processing only after review.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Each placement             | verify the liner and open the ledger                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Daily                      | read the behavior sensors across the floor                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Weekly                     | inspect liners and drawer seals                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | audit ledger entries against movements                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | re-test the quarantine transfer port                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Weekly liner inspection is the servicing item that matters. Isolation degrades silently and the
+sensor will
+not report a fault in a liner that was never effective, so the check
+has to be physical and scheduled rather
+than inferred from readings.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Sensor reads emission      | Liner fault or unshielded item            | Isolate the drawer, re-verify the liner   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Drawer closed unverified   | Liner step skipped                        | Reopen under protocol and verify          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Ledger entry missing       | Movement made without a record            | Stop movement, reconstruct the ledger     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Quiet item reclassified    | Intermittent emission not logged          | Extend monitoring, do not downgrade       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Escalation delayed         | Threshold not compared with the lock      | Escalate now and record the delay         |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -190,6 +325,9 @@ vaulting?
 is?
 - How many quiet days make an anomalous document stable, if quiet can be
 behavior?
+- What emission level requires F-2 escalation rather than monitoring?
+- Which media carry a signal without being the source?
+- How long may a latent item be held before reassessment?
 
 FILE METADATA
 
