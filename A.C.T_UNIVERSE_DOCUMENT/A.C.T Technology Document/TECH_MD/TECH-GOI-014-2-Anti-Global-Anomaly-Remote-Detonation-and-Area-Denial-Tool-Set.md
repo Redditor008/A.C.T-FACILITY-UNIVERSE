@@ -1,65 +1,292 @@
-# TECH-GOI-014-2 - ANTI-GLOBAL ANOMALY REMOTE DETONATION AND AREA-DENIAL TOOL SET
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - ANTI-GLOBAL ANOMALY REMOTE DETONATION AND AREA-DENIAL TOOL SET
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | TECHNOLOGY DESIGNATION | TECH-GOI-014-2 |
 | TECHNOLOGY NAME | Anti-Global Anomaly Remote Detonation and Area-Denial Tool Set |
-| COMMON ABBREVIATIONS | Denial Set / Remote Trigger Kit / A-GA Demolition Gear |
-| ORIGIN | Anti-Global Anomaly |
-| ACQUISITION STATUS | Recovered from interdicted cells and failed demolition sites; trigger chains often incomplete at recovery |
-| PRIMARY A.C.T INTEREST | Device clearance, trigger-chain reconstruction, structural harm assessment, civilian evacuation planning |
-| ARCHIVE HANDLING | STRATEGIC INTERDICTION RESTRICTED / LEVEL 5 EXPLOSIVE AND TRIGGER REVIEW |
+| SHORT NAME | AGRDS |
+| TECHNOLOGY FAMILY | ACQUIRED HOSTILE / DEMOLITION HARDWARE / AREA-DENIAL THREAT |
+| ORIGIN | ANTI-GLOBAL ANOMALY (GOI-ML-X-014) / ACTION CELLS |
+| PRIMARY CONTROLLER | Containment Division / Engineering Division joint clearance authority |
+| ATTACHED DIVISIONS | Containment, Engineering, Security, Recovery, Medical, Intelligence, Archive |
+| OPERATIONAL STATUS | ACQUIRED HOSTILE / TRIGGER CHAINS OFTEN INCOMPLETE AT RECOVERY |
+| RISK STATUS | STRUCTURAL INCIDENT / DORMANT-CONDITION RELEASE / EVIDENCE LEAK |
+| CLEARANCE REQUIRED | Level 4 for material review; Level 5 for explosive and trigger review |
 
-## Functional Identity
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Hostile GOI Technology Record |
+| DISTRIBUTION | Containment / Engineering / Security / Recovery / Medical / Intelligence |
+| AUTHORITY | Containment Division, Engineering Division, and Central Archive |
 
-The Anti-Global Anomaly Remote Detonation and Area-Denial Tool Set is the destructive and access-blocking
-hardware
-Action Cells use to eliminate a target or to prevent A.C.T from reaching it
-in time. The dossier's engineering
-capability assessment explicitly lists remote detonation or area-denial tools and improvised environmental disruption
-systems among A-GA's assessed activities. A.C.T files this as acquired GOI technology because the
-set is the network's
-primary means of converting eradication doctrine into a structural incident.
+#### Archive Note
+The Denial Set is the destructive and access-blocking hardware Action Cells use to eliminate
+a target or to prevent A.C.T from reaching it in time. The dossier's engineering
+capability assessment explicitly lists remote detonation and area-denial tools and improvised environmental disruption
+systems among A-GA's assessed activities.
 
-## Known Structure and Use
+The set is catalogued because it is the network's primary means of converting eradication
+doctrine into a structural incident. Doctrine becomes an event through this hardware, and the
+event is what A.C.T has to contain afterwards.
+
+Deployment follows the network's targeting logic, which does not restrict itself to hostile phenomena.
+It includes containment chambers perceived as prisons, stabilization systems mistaken for the protection of
+an enemy, and Facility transport or recovery routes. A-GA may choose a low-threat object
+precisely because it is poorly guarded, easy to publicize, or important to a larger
+containment arrangement the cell does not understand.
+
+Controlled label: **A-GA FAILED-DEMOLITION LEAK-EVENT CLASSIFICATION**.
+
+Core handling rule:
+
+```text
+A FAILED DEMOLITION IS A LEAK EVENT BEFORE IT IS A SCENE, AND EVACUATION
+COMES BEFORE EXAMINATION.
+```
+
+---
+
+## FUNCTION SUMMARY
 
 The set pairs initiation hardware with environmental disruption components intended to make a location
-unusable:
-flooding, atmospherics, thermal loading, structural weakening, or suppression of a stabilizing condition. Deployment
-follows the network's targeting logic, which does not restrict itself to hostile phenomena and
-includes containment
-chambers perceived as prisons, stabilization systems mistaken for protection of an enemy, and Facility
-transport or
-recovery routes. A-GA may choose a low-threat object precisely because it is poorly guarded,
-easy to publicize, or
-important to a larger containment arrangement the cell does not understand. First-response doctrine assumes
-a detected
-cell may already have placed a device or initiated a trigger.
+unusable: flooding, atmospherics, thermal loading, structural weakening, or suppression of a stabilizing condition.
+Denial and destruction are the same tool used at different scales.
 
-## A.C.T Handling Rules
+The last of those five is the one that makes this a containment record
+rather than an explosives record. Suppressing a stabilizing condition does not damage a location;
+it releases whatever the condition was holding, and the damage that follows belongs to
+the anomaly rather than to the device.
+
+First-response doctrine assumes a detected cell may already have placed a device or initiated
+a trigger. Detection is not treated as prevention, because by the time a cell
+is visible its preparation is usually complete.
+
+---
+
+## ORIGIN AND CUSTODY
+
+Devices are recovered from interdicted cells and failed demolition sites, with trigger chains often
+incomplete at recovery. An incomplete chain is not a safe chain; it is a
+chain whose missing part is unknown.
 
 Recovered devices enter the immediate safety stream and are cleared by Containment and Engineering
-jointly before
-movement, storage, or analysis. Trigger chains are reconstructed for intelligence value only after the
-device is
-inert, and no component is retained near an active containment environment. A failed demolition
-is treated as a leak
-event as well as a scene, since it can leave physical evidence that no
-conventional explanation absorbs cleanly.
-Civilian evacuation precedes device examination, and no staff member is to confront a cell
-by arguing that the target
-anomaly is useful.
+jointly before movement, storage, or analysis. No component is retained near an active containment
+environment.
 
-## Failure and Open Questions
+Trigger chains are reconstructed for intelligence value only after the device is inert. The
+order is not procedural caution; reconstruction requires handling, and handling an uncleared device next
+to a containment environment is how a recovery becomes an incident.
 
-The set fails where the builders misjudged the target's response, where a disruption removed
-a condition that was
-holding a worse process dormant, or where the device detonated without achieving elimination and
-left the anomaly
-destabilized. A-GA accepts none of these possibilities unless they can be used to justify
-a later elimination, which
-makes its actions a structural risk: it can destroy the wrong thing with complete
-conviction and leave A.C.T to
-contain what follows. Whether the network keeps an internal archive of failed eradication attempts,
-and where such an
-archive would be protected, is unresolved.
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+Known component classes include:
+
+- remote initiation hardware;
+- trigger chain components;
+- flooding and atmospherics components;
+- thermal loading components;
+- structural weakening components;
+- stabilization-suppression components;
+- placement and concealment material;
+- timing and delay elements;
+- abandoned-position residue;
+- failed-detonation scene evidence.
+
+Stabilization-suppression components are the class that cannot be triaged by an explosives specialist alone.
+They are assessed against the target's containment profile, which is why clearance is joint
+rather than sequential.
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Figures are restated from the GOI-ML-X-014 dossier and from interdiction and scene records. Values
+the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+| DENIAL-SET PARAMETER | VALUE |
+|---|---|
+| Disruption modes | five |
+| Target classes | chambers, stabilizers, routes |
+| Low-threat targeting | expected, not exceptional |
+| Clearance rule | joint, before movement or analysis |
+| Reconstruction rule | intelligence value, inert only |
+| Scene rule | leak event as well as a scene |
+| Evacuation rule | civilians before examination |
+| Devices recovered | NOT MEASURED |
+| Chains complete at recovery | NOT MEASURED |
+| Conditions released | NOT MEASURED |
+
+The unmeasured figure with the most consequence is conditions released. A demolition that suppressed
+a stabilizing condition produces a second event whose cause is not visible at the
+scene, and the archive cannot count what it did not connect.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Clearance Controls
+
+- immediate safety stream intake
+- joint Containment and Engineering clearance
+- civilian evacuation authority
+- trigger chain isolation
+
+### Clearance Readouts
+
+- trigger chain reconstruction
+- target containment profile comparison
+- structural harm assessment
+- scene leak-evidence record
+
+### Clearance Limits And Weaknesses
+
+- Do not move a device before joint clearance.
+- Do not reconstruct a trigger chain on a live device.
+- Do not retain any component near an active containment.
+- Do not examine a device before civilians are clear.
+- Weakest against targets chosen for poor guarding rather than threat.
+- Weakest against disruption that releases a dormant condition.
+
+Device counts, chain completeness, and release counts are NOT MEASURED.
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence puts people before hardware and inertness before understanding. Nothing later in it
+is worth doing if either of those is skipped.
+
+1. Assume a detected cell has already placed or initiated.
+2. Evacuate civilians before any device examination.
+3. Isolate the trigger chain and render the device inert.
+4. Clear jointly with Containment and Engineering.
+5. Compare the disruption mode against the target's profile.
+6. Reconstruct the chain for intelligence once inert.
+7. Treat the scene as a leak event as well as a scene.
+8. Record any condition the disruption may have released.
+
+Step 8 is the step that separates this record from an ordinary explosives procedure.
+A demolition that suppressed a stabilizing condition has started something that will not appear
+in the blast record, and the only way to catch it is to ask
+at the scene rather than to discover it a week later.
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per recovery | evacuate, isolate, then clear jointly |
+| Per scene | record the leak-evidence assessment |
+| Quarterly | review disruption modes against target profiles |
+| Annually | review evacuation assumptions with Security |
+| After any event | reassess whether a condition was released |
+
+The annual evacuation review is paired with the first-response assumption. If doctrine assumes a
+device is already placed, then the evacuation plan is the primary control and is
+maintained as one rather than as a contingency.
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Device live | chain not isolated | evacuate, isolate |
+| Chain incomplete | part unrecovered | treat as live |
+| Second event | stabilizer suppressed | contain, reassess |
+| Scene unexplained | evidence absorbed poorly | Civil Covert |
+| Component retained | storage near hold | relocate, review |
+
+---
+
+## KNOWN LIMITS
+
+The set cannot be argued with. No staff member is to confront a cell
+by arguing that the target anomaly is useful, because the network's premise is that
+anomalous existence is itself the offense and a usefulness argument confirms the premise rather
+than countering it.
+
+It also cannot be predicted from threat level. A-GA may select a low-threat object
+because it is poorly guarded, easy to publicize, or important to a larger arrangement
+the cell does not understand, so guarding proportional to threat does not produce protection
+proportional to risk.
+
+---
+
+## FAILURE HISTORY
+
+### MISJUDGED TARGET RESPONSE — STANDING PATTERN
+
+The set fails where the builders misjudged the target's response. A-GA's engineering competence is
+real and its model of what an anomaly does when attacked is not, and
+the difference between those two is where most of the damage originates.
+
+### DISRUPTION RELEASING A DORMANT PROCESS — STANDING PATTERN
+
+The set fails where a disruption removed a condition that was holding a worse
+process dormant. The device performs exactly as designed and the outcome is worse than
+success would have been, which is why the scene record asks what was released
+rather than only what was destroyed.
+
+### DETONATION WITHOUT ELIMINATION — STRUCTURAL RISK FINDING
+
+A-GA accepts none of these possibilities unless they can be used to justify a
+later elimination, which makes its actions a structural risk: it can destroy the wrong
+thing with complete conviction and leave A.C.T to contain what follows. Whether the network
+keeps an internal archive of failed eradication attempts, and where such an archive would
+be protected, is unresolved.
+
+---
+
+## DIVISION USE
+
+Containment and Engineering clear devices jointly and hold the disruption-mode record. Security runs evacuation
+and scene control. Recovery handles post-event material. Medical screens personnel and civilians exposed at
+a scene. Intelligence reconstructs chains and tracks cell targeting logic. Archive holds the scene
+record and the leak assessment.
+
+---
+
+## CROSS-REFERENCES
+
+- GOI-ML-X-014 — Anti-Global Anomaly, Group of Interest Registry;
+- TECH-GOI-014-1 — A-GA Containment Interference and Chamber Breach Equipment Set;
+- TECH-GOI-014-3 — A-GA Modified Surveillance, Tracking, and Transport Interception Set;
+- TECH-GOI-014-4 — A-GA Data Extraction, Document Copying, and Leak Production Set;
+- TECH-GOI-014-5 — A-GA Low-Visibility Field Workshop and Procurement System;
+- TECH-GOI-001-3 — GAA Civil Continuity Cover Mechanism Set;
+- Failed demolition scene record series [restricted].
+
+Neither the Master Catalog nor the Visual Reference Guide carries this set. The Catalog
+numbers assets A.C.T issues and this hardware is never issued. The Visual Reference Guide
+describes equipment personnel maintain; these devices are rendered inert, reconstructed for intelligence, and
+destroyed.
+
+---
+
+## OPEN QUESTIONS
+
+- Does the network keep an internal archive of failed eradication attempts, and where would
+  it be protected?
+- How is a released dormant condition distinguished from an event that was already due?
+- Can guarding be made proportional to publicity value rather than to threat level?
+- What is the correct response to a cell that treats a failure as justification?
+- How incomplete can a trigger chain be and still be assumed live?
+- Which stabilization conditions are visible enough to be targeted by someone who does not
+  understand them?
+
+---
+
+## FILE METADATA
+
+- **Created:** 2016-08-25
+- **Author Desk:** Containment Division / Engineering Division / Central Archive
+- **Review Status:** Active restricted hostile GOI technology record; scene locations and cell identities censored
+- **Next Review:** After any detonation, any released condition, or any confirmed change in targeting
+  logic

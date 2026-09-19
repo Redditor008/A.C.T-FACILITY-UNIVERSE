@@ -1,59 +1,296 @@
-# TECH-GOI-014-1 - ANTI-GLOBAL ANOMALY CONTAINMENT INTERFERENCE AND CHAMBER BREACH EQUIPMENT SET
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - ANTI-GLOBAL ANOMALY CONTAINMENT INTERFERENCE AND CHAMBER BREACH EQUIPMENT SET
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | TECHNOLOGY DESIGNATION | TECH-GOI-014-1 |
 | TECHNOLOGY NAME | Anti-Global Anomaly Containment Interference and Chamber Breach Equipment Set |
-| COMMON ABBREVIATIONS | Breach Set / Containment Interference Kit / A-GA Entry Gear |
-| ORIGIN | Anti-Global Anomaly |
-| ACQUISITION STATUS | Recovered from cell workshops, interdicted routes, and post-incident scenes; no complete cell inventory held |
-| PRIMARY A.C.T INTEREST | Chamber integrity assessment, breach-tool failure analysis, procurement pattern detection, secondary-risk triage |
-| ARCHIVE HANDLING | STRATEGIC INTERDICTION RESTRICTED / LEVEL 5 ENGINEERING AND CONTAINMENT JOINT REVIEW |
+| SHORT NAME | AGBES |
+| TECHNOLOGY FAMILY | ACQUIRED HOSTILE / FORCED-ENTRY HARDWARE / CONTAINMENT-INTEGRITY THREAT |
+| ORIGIN | ANTI-GLOBAL ANOMALY (GOI-ML-X-014) / ENGINEERING CELLS |
+| PRIMARY CONTROLLER | Containment Division / Engineering Division joint review authority |
+| ATTACHED DIVISIONS | Containment, Engineering, Research, Intelligence, Security, Archive |
+| OPERATIONAL STATUS | ACQUIRED HOSTILE / RECOVERED FROM CELL WORKSHOPS AND INTERDICTED ROUTES |
+| RISK STATUS | CHAMBER BREACH / LATENT DEVICE RISK / SECONDARY EXPOSURE ON HANDLING |
+| CLEARANCE REQUIRED | Level 4 for material review; Level 5 for strategic interdiction files |
 
-## Functional Identity
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Hostile GOI Technology Record |
+| DISTRIBUTION | Containment / Engineering / Research / Intelligence / Security |
+| AUTHORITY | Containment Division, Engineering Division, and Central Archive |
 
-The Anti-Global Anomaly Containment Interference and Chamber Breach Equipment Set is the forced-entry and
-containment-disruption hardware the network builds to reach an anomaly it intends to destroy. A-GA
-is classified
-ENGINEERING because it is capable of developing, adapting, acquiring, and deploying technical systems for
-direct
-interaction with anomalies and containment environments, and its assessed engineering activity explicitly includes
-forced-entry and chamber-breach equipment and containment-interference devices. A.C.T files this as acquired GOI
-technology because the set is designed against Facility containment specifically, not against ordinary security.
-
-## Known Structure and Use
+#### Archive Note
+The Breach Set is catalogued because it is designed against Facility containment specifically rather
+than against ordinary security. A-GA is classified ENGINEERING because it develops, adapts, acquires, and
+deploys technical systems for direct interaction with anomalies and containment environments, and its assessed
+activity explicitly includes forced-entry and chamber-breach equipment and containment-interference devices.
 
 Recovered sets combine cutting, prying, thermal, hydraulic, and electromechanical components with purpose-built
-interference elements aimed at stabilization, monitoring, or sealing subsystems rather than at personnel. In
-one
-restricted engineering route interdiction, recovered equipment had been assembled from individually mundane
+interference elements aimed at stabilization, monitoring, or sealing subsystems rather than at personnel. The
+targeting is precise about what it attacks and indifferent about what follows.
+
+The set cannot be assessed component by component. In one restricted engineering route interdiction,
+recovered equipment had been assembled from individually mundane components, and several of those components
+had no anomalous function until combined under A-GA instruction. Its function emerges from the
+assembly sequence, which is why procurement analysis must examine pattern and intended use rather
+than wait for a visibly anomalous device to appear.
+
+Controlled label: **A-GA BREACH-HARDWARE REVERSE-USE PROHIBITION**.
+
+Core handling rule:
+
+```text
+A TOOL BUILT TO KILL AN ANOMALY IS NOT A TOOL THAT UNDERSTANDS IT.
+NOTHING RECOVERED IS DEMONSTRATED.
+```
+
+---
+
+## FUNCTION SUMMARY
+
+The set is the forced-entry and containment-disruption hardware the network builds to reach an
+anomaly it intends to destroy. Its interference elements are aimed at the subsystems that
+keep a chamber stable: stabilization, monitoring, and sealing. Personnel are not the target, which
+is why a recovered set tells an engineer more about a chamber's weaknesses than
+about the cell that built it.
+
+That is the uncomfortable value of the material. A breach set is a design
+review of Facility containment written by an adversary who has no reason to be
+polite about it, and it is read as such before it is read as
+evidence.
+
+The defining failure mode is that the set succeeds in the wrong way. A
+device meant to eliminate an anomaly may instead rupture its containment state, spread its
+effect, interrupt a stabilizing condition, or convert a local anomaly into a wider breach.
+Its builders frequently do not understand which of those outcomes they have produced.
+
+---
+
+## ORIGIN AND CUSTODY
+
+A-GA is recorded at Threat Level 4, Nature Class MILITANT, Alignment NEGATIVE, Reach TRANSNATIONAL,
+Secrecy Risk LEAKING, and A.C.T posture CONTAIN / DISMANTLE. No universally verified central leader
+or command body exists, and the absence of a public leader is not evidence
+of absent coordination.
+
+Material is recovered from cell workshops, interdicted routes, and post-incident scenes. No complete cell
+inventory is held, and none is expected: the network's holdings are decentralized caches, temporary
+workshops, and changing transit support.
+
+Recovered material is split three ways on intake: immediate safety material requiring Containment and
+Engineering review, intelligence material requiring controlled archive intake, and exposure material requiring
+information quarantine. The split is made before analysis, because the three streams have different
+handling rules and a device can belong to more than one.
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+Known component classes include:
+
+- cutting components;
+- prying and mechanical breaching components;
+- thermal loading components;
+- hydraulic components;
+- electromechanical drive components;
+- stabilization-subsystem interference elements;
+- monitoring-subsystem interference elements;
+- sealing-subsystem interference elements;
+- assembly sequence instructions;
+- adapted protective gear.
+
+The assembly instructions are the component that matters and the one most often missing
+at recovery. A set recovered without them is a box of hardware whose function
+can only be inferred, and inferring it by trial is exactly what the handling
+rules forbid.
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Figures are restated from the GOI-ML-X-014 dossier and from interdiction recovery records. Values the
+archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+| BREACH-SET PARAMETER | VALUE |
+|---|---|
+| Component classes | five mundane, three purpose-built |
+| Interference target | stabilization, monitoring, sealing |
+| Personnel targeting | not the design objective |
+| Assessment rule | assembly sequence, not components |
+| Demonstration | prohibited until jointly cleared |
+| Repurposing | prohibited without Command exception |
+| Storage rule | never near an active containment |
+| Sets recovered | NOT MEASURED |
+| Complete assemblies | NOT MEASURED |
+| Subsystems breached | NOT MEASURED |
+
+The counts that matter are not held because they cannot be. A cell inventory
+would require knowing the cells, and the live cell census is itself unresolved. What
+the archive can hold is the interference profile, which is reusable across recoveries because
+Facility chambers are more standardized than A-GA workshops are.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Assessment Controls
+
+- Containment and Engineering joint clearance
+- immediate safety stream intake
+- information quarantine routing
+- chamber integrity comparison
+
+### Assessment Readouts
+
+- interference profile record
+- assembly sequence reconstruction
+- procurement pattern entry
+- secondary-risk triage note
+
+### Handling Limits And Weaknesses
+
+- Do not demonstrate a recovered device.
+- Do not reverse-use a recovered device against any anomaly.
+- Do not store recovered material near an active containment.
+- Do not assess a set component by component.
+- Weakest against devices whose builders misjudged the target.
+- Weakest against sets recovered without assembly instructions.
+
+Set counts, complete assemblies, and breached subsystems are NOT MEASURED.
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence clears the device before it is understood and understands it before it
+is moved. Both orders are deliberate; reversing either puts an unverified device next to
+something it was built to open.
+
+1. Treat the recovery as unsafe until jointly cleared.
+2. Sort into safety, intelligence, and exposure streams.
+3. Clear the device with Containment and Engineering present.
+4. Compare the interference profile against chamber subsystems.
+5. Reconstruct the assembly sequence for intelligence value.
+6. Record procurement pattern rather than component list.
+7. Store clear of any active containment environment.
+8. Report any subsystem weakness the set implies.
+
+Step 8 is the reason the record exists. A breach set that opened a
+monitoring subsystem cheaply has described a weakness that every chamber of that type shares,
+and the finding is worth more than the device. Sets are read as design
+reviews for exactly this reason.
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per recovery | sort into the three intake streams before analysis |
+| Per clearance | record the interference profile |
+| Quarterly | compare profiles across recoveries |
+| Annually | review chamber subsystems against known profiles |
+| On breach | reassess every chamber of the breached type |
+
+The annual comparison is the maintenance that matters. A single set describes one cell's
+guess; a series of sets describes what is actually weak, and the second is
+the only one that can be acted on before an attack rather than after.
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Device live | trigger chain intact | clear jointly, isolate |
+| Latent exposure | builders misjudged | quarantine, Medical |
+| Profile unknown | instructions missing | infer, do not test |
+| Chamber weakness | subsystem exposed | reassess type |
+| Repurpose request | utility assumed | refuse, Command |
+
+---
+
+## KNOWN LIMITS
+
+The material cannot be tested. Demonstration and reverse use are prohibited until Containment and
+Research jointly clear a device, and no recovered A-GA equipment is repurposed by Transformation
+Division without a Command-level exception, because a device built to destroy an anomaly may
+carry latent exposure, trigger, informational, or structural risks its builders did not understand.
+
+It also cannot be inventoried. The network builds in temporary workshops from ordinary parts,
+so a recovered set is a sample rather than a stock count, and no
+recovery reduces the network's capacity to build another.
+
+---
+
+## FAILURE HISTORY
+
+### ENGINEERING ROUTE INTERDICTION — MUNDANE COMPONENT CONVERGENCE
+
+In one restricted engineering route interdiction, recovered equipment had been assembled from individually mundane
 components, and several components had no anomalous function until combined under A-GA instruction. The
-set therefore
-cannot be assessed component by component. Its function emerges from the assembly sequence, which
-is why procurement
-analysis must examine pattern and intended use rather than wait for a visibly anomalous
-device to appear.
+interdiction is the origin of the rule that assessment follows the assembly sequence rather
+than the parts list.
 
-## A.C.T Handling Rules
+### DEVICE SUCCEEDING IN THE WRONG WAY — STANDING PATTERN
 
-Any recovered A-GA device must be considered unsafe for demonstration, reverse use, or storage
-near an active
-containment environment until Research and Containment jointly clear it. A device meant to eliminate
-an anomaly may
-carry latent exposure, trigger, informational, or structural risks that its builders did not understand.
-Recovered
-material is split into immediate safety material requiring Containment and Engineering review, intelligence material
-requiring controlled archive intake, and exposure material requiring information quarantine. No recovered A-GA
-equipment is to be repurposed by Transformation Division without Command-level exception.
+Incomplete understanding is the defining danger. An A-GA device may be designed to destroy
+an anomaly but instead rupture its containment state, spread its effect, interrupt a stabilizing
+condition, or convert a local anomaly into a wider breach. Every one of those
+outcomes reads as success to the cell that caused it.
 
-## Failure and Open Questions
+### COORDINATION BETWEEN DISPERSED CELLS — UNRESOLVED
 
-The set's defining failure mode is that it succeeds in the wrong way. Incomplete
-understanding is a defining danger:
-an A-GA device may be designed to destroy an anomaly but instead rupture its
-containment state, spread its effect,
-interrupt a stabilizing condition, or convert a local anomaly into a wider breach. Which
-members understand that their
-destructive tools can worsen the conditions they target remains unresolved, as does the level
-of coordination between
-dispersed engineering cells.
+The level of coordination between dispersed engineering cells remains unresolved, as does which members
+understand that their destructive tools can worsen the conditions they target. Review records that
+the second question is not rhetorical: a cell that believed its tool would finish
+the anomaly would not stop after the containment failed.
+
+---
+
+## DIVISION USE
+
+Containment and Engineering clear every device jointly and hold the interference profile. Research assesses
+latent risk before any handling beyond clearance. Intelligence reads procurement pattern and cell coordination.
+Security holds recovered material. Archive intakes the intelligence stream and quarantines the exposure stream.
+
+---
+
+## CROSS-REFERENCES
+
+- GOI-ML-X-014 — Anti-Global Anomaly, Group of Interest Registry;
+- TECH-GOI-014-2 — A-GA Remote Detonation and Area-Denial Tool Set;
+- TECH-GOI-014-3 — A-GA Modified Surveillance, Tracking, and Transport Interception Set;
+- TECH-GOI-014-4 — A-GA Data Extraction, Document Copying, and Leak Production Set;
+- TECH-GOI-014-5 — A-GA Low-Visibility Field Workshop and Procurement System;
+- TECH-GOI-001-5 — GAA Function-Separated Access Point and Authority Boundary Architecture;
+- Engineering route interdiction restricted extract [Level 5].
+
+Neither the Master Catalog nor the Visual Reference Guide carries this set, and neither
+will. The Catalog numbers assets A.C.T issues; this hardware is recovered, prohibited from reverse
+use, and never issued. The Visual Reference Guide describes equipment personnel maintain; nothing here
+is maintained, only cleared and stored.
+
+---
+
+## OPEN QUESTIONS
+
+- Which members understand that their tools can worsen the conditions they target?
+- What is the level of coordination between dispersed engineering cells?
+- Can a set be assessed safely without ever being assembled?
+- Which Facility chamber types share the weaknesses a single set exposes?
+- Does a device that ruptured a containment state remain dangerous afterwards?
+- How is a procurement profile distinguished from ordinary technical purchasing in time to matter?
+
+---
+
+## FILE METADATA
+
+- **Created:** 2016-04-11
+- **Author Desk:** Containment Division / Engineering Division / Central Archive
+- **Review Status:** Active restricted hostile GOI technology record; cell identities and workshop locations censored
+- **Next Review:** After any chamber breach, any new interference profile, or any confirmed engineering-cell
+  coordination

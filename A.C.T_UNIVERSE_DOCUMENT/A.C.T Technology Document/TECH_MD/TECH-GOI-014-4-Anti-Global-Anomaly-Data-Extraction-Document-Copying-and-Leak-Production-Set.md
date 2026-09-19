@@ -1,62 +1,287 @@
-# TECH-GOI-014-4 - ANTI-GLOBAL ANOMALY DATA EXTRACTION, DOCUMENT COPYING, AND LEAK PRODUCTION SET
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - ANTI-GLOBAL ANOMALY DATA EXTRACTION, DOCUMENT COPYING, AND LEAK PRODUCTION SET
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | TECHNOLOGY DESIGNATION | TECH-GOI-014-4 |
 | TECHNOLOGY NAME | Anti-Global Anomaly Data Extraction, Document Copying, and Leak Production Set |
-| COMMON ABBREVIATIONS | Copy Set / Leak Kit / Narrative Material Chain |
-| ORIGIN | Anti-Global Anomaly |
-| ACQUISITION STATUS | Recovered media, copy chains, and extraction tools from cells and detainees; distribution endpoints<br>partly mapped |
-| PRIMARY A.C.T INTEREST | Document contamination review, copy-chain interruption, recruitment-pathway analysis, exposure containment |
-| ARCHIVE HANDLING | LEAK-SOURCE RESTRICTED / SITE 03 DOCUMENT CONTAMINATION REVIEW |
+| SHORT NAME | AGLPS |
+| TECHNOLOGY FAMILY | ACQUIRED HOSTILE / INFORMATION HARDWARE / NARRATIVE-OPERATION THREAT |
+| ORIGIN | ANTI-GLOBAL ANOMALY (GOI-ML-X-014) / NARRATIVE CELLS |
+| PRIMARY CONTROLLER | Archive Division / Civil Covert Division joint review authority |
+| ATTACHED DIVISIONS | Archive, Civil Covert, Intelligence, Security, Medical, Command Liaison |
+| OPERATIONAL STATUS | ACQUIRED HOSTILE / DISTRIBUTION ENDPOINTS PARTLY MAPPED |
+| RISK STATUS | COPY-CHAIN PROPAGATION / RECRUITMENT EXPOSURE / INFORMATION HAZARD |
+| CLEARANCE REQUIRED | Level 4 for material review; Level 5 for leak-source files |
 
-## Functional Identity
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Hostile GOI Technology Record |
+| DISTRIBUTION | Archive / Civil Covert / Intelligence / Security / Command Liaison |
+| AUTHORITY | Archive Division, Civil Covert Division, and Central Archive |
 
-The Anti-Global Anomaly Data Extraction, Document Copying, and Leak Production Set is the information
-hardware and
-method the network uses to turn seized Facility material into recruitment fuel. The dossier's
-engineering capability
-assessment explicitly lists data extraction and document-copying tools, and its secrecy analysis records that
-a stolen
-image produces a copy chain and that some cells treat leaks as recruitment material
-while others treat them as
-unavoidable collateral. A.C.T files this as acquired GOI technology because the set attacks the
-information boundary
-rather than a chamber.
+#### Archive Note
+The Leak Set is the information hardware and method the network uses to turn
+seized Facility material into recruitment fuel. The dossier's engineering capability assessment explicitly lists data
+extraction and document-copying tools, and its secrecy analysis records that a stolen image produces
+a copy chain and that some cells treat leaks as recruitment material while others
+treat them as unavoidable collateral.
 
-## Known Structure and Use
+It is catalogued because the set attacks the information boundary rather than a chamber.
+A-GA is classified at Secrecy Risk LEAKING, and this set is the mechanism behind
+that classification.
+
+The doctrine depends on fragments of truth. Anomalies are real, institutions do conceal them,
+and some Facility choices are morally severe. A-GA uses these fragments to erase every
+distinction that responsible response requires, which is why the countermeasure is not denial.
+
+Controlled label: **A-GA COPY-CHAIN AND LEAK-SOURCE LIMIT**.
+
+Core handling rule:
+
+```text
+A COPY CHAIN IS NOT BROKEN BY DELETING A COPY, AND A DENIAL FEEDS
+THE STORY IT ANSWERS.
+```
+
+---
+
+## FUNCTION SUMMARY
 
 Narrative Cells recruit through fear, grievance, leaked information, and simplified moral language, and the
-material
-they use is produced by this set: copied documents, extracted records, photographed files, seized
-images, and prepared
-public-leak packages held until a politically useful moment. The doctrine depends on fragments of
-truth. Anomalies are
-real, institutions do conceal them, and some Facility choices are morally severe; A-GA uses
-these fragments to erase
-every distinction that responsible response requires. A member may recruit by revealing a partial
-truth, and a
-captured cell's seized records or photographs and its public-leak preparation are both standing review
-items after any
-capture.
+material they use is produced by this set: copied documents, extracted records, photographed files,
+seized images, and prepared public-leak packages held until a politically useful moment.
 
-## A.C.T Handling Rules
+The held package is the component that distinguishes this from ordinary theft. Material released
+when it is stolen is a security failure; material released six months later, into
+a debate it was chosen to enter, is an operation.
+
+A member may recruit by revealing a partial truth, and a captured cell's seized
+records and its public-leak preparation are both standing review items after any capture. The
+preparation is reviewed even when nothing was released, because the intent is the intelligence.
+
+---
+
+## ORIGIN AND CUSTODY
+
+Recovered media, copy chains, and extraction tools come from cells and detainees, with distribution
+endpoints partly mapped. Partly mapped is the expected state; a copy chain that has
+been forwarded cannot be enumerated by counting the copies held.
 
 Recovered media, symbols, recordings, diagrams, and texts that may propagate hazardous information enter the
-exposure
-stream under information-quarantine procedure. ACT-SITE-03-JP-E Kurokawa Archive Node leads document contamination
-review, digital leak analysis, hostile narrative tracking, and archive-protection measures. Civil Covert response must
-not assume that deleting one recording or suppressing one witness account ends the danger,
-and countermeasures must
-restore a normal explanation without feeding the network's narrative of secret institutional control. Leak
-assessment
-runs in parallel with device clearance, not after it.
+exposure stream under information-quarantine procedure rather than the general evidence stream.
 
-## Failure and Open Questions
+ACT-SITE-03-JP-E Kurokawa Archive Node leads document contamination review, digital leak analysis, hostile narrative
+tracking, and archive-protection measures. The assignment is to the archive rather than to security
+because the material is documentary before it is anything else.
 
-The set fails when extracted material is too heavily redacted to be persuasive, when
-a copy chain is traced to its
-endpoint, or when a prepared leak loses its political timing. Which leak patterns are
-accidental and which are
-deliberately prepared for recruitment remains a standing intelligence priority, because the two require different
-responses: one is an archive-discipline problem and the other is an active narrative operation.
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+Known component classes include:
+
+- data extraction tools;
+- document-copying hardware;
+- photographic seizure material;
+- copied document sets;
+- extracted record sets;
+- prepared public-leak packages;
+- recruitment narrative material;
+- distribution endpoint records;
+- copy chain residue;
+- information-quarantine intake record.
+
+The prepared package is the artifact that makes timing visible. A package assembled with
+headings, captions, and a release condition is not a stolen document; it is a
+publication in waiting, and it is reviewed as one.
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Figures are restated from the GOI-ML-X-014 dossier and from Kurokawa contamination review records. Values
+the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+| LEAK-SET PARAMETER | VALUE |
+|---|---|
+| Product classes | five |
+| Doctrine basis | fragments of truth |
+| Release rule | held until politically useful |
+| Intake stream | exposure, under information quarantine |
+| Review lead | ACT-SITE-03-JP-E Kurokawa Archive Node |
+| Assessment rule | parallel with device clearance |
+| Countermeasure rule | restore a normal explanation |
+| Packages recovered | NOT MEASURED |
+| Chains mapped | NOT MEASURED |
+| Endpoints identified | NOT MEASURED |
+
+Endpoints cannot be counted and the count would not settle anything. A chain whose
+endpoint is unknown has to be assumed open, and a chain whose endpoint is
+known still has copies that were forwarded before it was reached.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Quarantine Controls
+
+- exposure stream intake
+- information-quarantine procedure
+- Kurokawa contamination review
+- copy chain interruption
+
+### Quarantine Readouts
+
+- copy chain map
+- distribution endpoint record
+- hostile narrative tracking log
+- recruitment-pathway analysis
+
+### Quarantine Limits And Weaknesses
+
+- Do not assume deleting one recording ends the danger.
+- Do not suppress a witness account as a countermeasure.
+- Do not issue a denial that confirms concealment.
+- Do not sequence leak assessment after device clearance.
+- Weakest against material that is true and persuasive.
+- Weakest against a package released after its preparation is forgotten.
+
+Package counts, chain maps, and endpoint counts are NOT MEASURED.
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence runs leak assessment in parallel with device clearance rather than after it.
+A capture produces hardware and documents at the same moment, and the documents travel
+further than the hardware does.
+
+1. Route recoverable media to the exposure stream at intake.
+2. Open information quarantine before any review begins.
+3. Map the copy chain as far as the material allows.
+4. Identify distribution endpoints and record the gaps.
+5. Assess recruitment pathway and narrative use.
+6. Restore a normal explanation without issuing a denial.
+7. Refer archive-discipline findings to Central Archive.
+8. Review any prepared package even if it was never released.
+
+Step 6 is the step that Civil Covert is most often asked to shortcut.
+A denial confirms that something was concealed, which is the premise the network is
+recruiting on, so the countermeasure restores an ordinary explanation rather than contradicting the claim.
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per capture | route media to the exposure stream at intake |
+| Per chain | record the map and its gaps |
+| Quarterly | review narrative tracking against recruitment |
+| Annually | review archive discipline against known leak patterns |
+| After any leak | reassess which patterns were prepared |
+
+The annual review separates two problems that look identical from outside. An accidental leak
+is an archive-discipline failure and is fixed by handling rules; a prepared leak is
+an active narrative operation and is fixed by countermeasure. The responses do not substitute
+for each other.
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Copies circulating | chain not interrupted | map, quarantine |
+| Material persuasive | content is true | explain, do not deny |
+| Endpoint unknown | chain forwarded on | assume open |
+| Package held | timing awaited | review intent |
+| Witness suppressed | countermeasure used | restore, review |
+
+---
+
+## KNOWN LIMITS
+
+The set cannot be countered by removal. Civil Covert response must not assume that
+deleting one recording or suppressing one witness account ends the danger, because a copy
+chain is defined by the copies that already moved and removing the source does
+not recall them.
+
+It also cannot be countered by contradiction where the fragment is true. Anomalies are
+real and institutions do conceal them, so a response that disputes the fragment loses
+the argument and confirms the narrative that institutions lie about concealment.
+
+---
+
+## FAILURE HISTORY
+
+### OVER-REDACTED MATERIAL FAILING TO PERSUADE — STANDING PATTERN
+
+The set fails when extracted material is too heavily redacted to be persuasive. This
+is the one failure mode that favours A.C.T, and it is produced by redaction
+discipline rather than by any countermeasure, which is why redaction is treated as a
+leak control and not only as a classification formality.
+
+### COPY CHAIN TRACED TO ENDPOINT — STANDING PATTERN
+
+The set fails when a copy chain is traced to its endpoint or when
+a prepared leak loses its political timing. Both are partial failures: the material remains
+in circulation and the timing can be recovered at the next useful moment.
+
+### ACCIDENTAL VERSUS PREPARED LEAKS — STANDING INTELLIGENCE PRIORITY
+
+Which leak patterns are accidental and which are deliberately prepared for recruitment remains a
+standing intelligence priority, because the two require different responses: one is an archive-discipline problem
+and the other is an active narrative operation. Treating a prepared leak as carelessness
+leaves an operation unanswered.
+
+---
+
+## DIVISION USE
+
+Archive Division leads contamination review and holds the copy chain map through ACT-SITE-03-JP-E Kurokawa
+Archive Node. Civil Covert Division designs the restoring explanation and refuses denials. Intelligence tracks
+narrative use and recruitment pathways. Security handles seizures and detainees. Medical screens for
+information-hazard exposure. Command Liaison approves any public statement.
+
+---
+
+## CROSS-REFERENCES
+
+- GOI-ML-X-014 — Anti-Global Anomaly, Group of Interest Registry;
+- TECH-GOI-014-1 — A-GA Containment Interference and Chamber Breach Equipment Set;
+- TECH-GOI-014-2 — A-GA Remote Detonation and Area-Denial Tool Set;
+- TECH-GOI-014-3 — A-GA Modified Surveillance, Tracking, and Transport Interception Set;
+- TECH-GOI-014-5 — A-GA Low-Visibility Field Workshop and Procurement System;
+- TECH-ACT-120 — Redaction Release Authorization and Filtering Record System;
+- ACT-SITE-03-JP-E — Kurokawa Archive Node, Site Record.
+
+Neither the Master Catalog nor the Visual Reference Guide carries this set. The Catalog
+numbers assets A.C.T issues and this is recovered hostile material under information quarantine. The
+Visual Reference Guide describes hardware personnel maintain; the operative component here is a document,
+not a device.
+
+---
+
+## OPEN QUESTIONS
+
+- Which leak patterns are accidental and which are prepared for recruitment?
+- Can a copy chain ever be closed, or only outlasted?
+- What restoring explanation works where the fragment is entirely true?
+- Does reviewing a prepared package that was never released create a new copy of
+  it?
+- How is recruitment measured when the recruit is persuaded by a partial truth?
+- Which redaction decisions have already decided which leaks will persuade?
+
+---
+
+## FILE METADATA
+
+- **Created:** 2017-06-30
+- **Author Desk:** Archive Division / Civil Covert Division / Central Archive
+- **Review Status:** Active restricted hostile GOI technology record; leak sources and endpoints censored
+- **Next Review:** After any public leak, any captured package, or any confirmed change in
+  recruitment narrative

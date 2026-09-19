@@ -4458,3 +4458,56 @@ records each: 014, 027, 048, 049, 050, 051, 052, 053, 055. Separately, the full 
 yet carry the retrofit chapters are GOI sets 054, 056, 071.
 
 **Next action.** Rebuild the TECH-GOI-014 set, Anti-Global Anomaly.
+
+## Prompt Log — 2026-09-19 16:55 UTC
+
+**TECH-GOI-014, Anti-Global Anomaly, rebuilt.** The five records move from four-chapter summaries of
+roughly 480 words each to full dossiers of 1834 to 1950 words across 14 chapters, on the same house
+shape as the set completed last turn. Every fact in the old records survives: the interference
+targeting of stabilization, monitoring, and sealing subsystems; the five environmental disruption
+modes; the false target review; the Kurokawa document contamination lead; and the stability
+condition on tracing a supply route before interdiction.
+
+**The set is written as acquired hostile technology rather than as cooperative capability, and the
+framing changes with it.** The registry marks each record as an Active Restricted Hostile GOI
+Technology Record, the clearance ladder is Level 4 with Level 5 for interdiction files, and the
+handling rules are prohibitions rather than courtesies. Nothing recovered is demonstrated, nothing
+is reverse-used, and no component is stored near an active containment environment.
+
+**Each record carries its own argument.** The breach set cannot be assessed component by component
+because its function emerges from the assembly sequence, and its value to A.C.T is uncomfortable: a
+breach set is a design review of Facility containment written by an adversary with no reason to be
+polite. The denial set is classified as a leak event before it is a scene, and its worst outcome is
+a device that performs exactly as designed and releases a condition that was holding something worse
+dormant.
+
+**The watch set turns on misdirection and the leak set on fragments of truth.** An advertised target
+is a claim rather than a location, so redirection adds effort rather than transferring it, and the
+advertised object stays guarded while interdiction moves. On the information side, a copy chain is
+not broken by deleting a copy and a denial confirms the concealment it answers, which is why the
+countermeasure restores an ordinary explanation instead of contradicting the claim.
+
+**The workshop record explains why interdiction does not reduce the network.** Every component is
+individually ordinary, so no purchase is reportable and no supplier is a witness; dismantling a
+workshop removes a location rather than a capability, because the capability is knowing what to buy
+and how to combine it. The record states plainly that the regeneration interval is the measurement
+it most needs and cannot make.
+
+**Verification.** Each record was checked for chapter count and order, a single H1, one archive
+note, exactly eight H3 sections including one Numbered Operating Sequence with eight steps, every
+markdown heading present as a bare line in the plain-text twin, every table value present in the
+twin once box wrapping is flattened, box rules exactly 118 wide, and a single trailing newline. Two
+faults in the checker itself were corrected before the pass was accepted: it miscounted H3 sections
+by omitting the record-title line, and it failed to find table values that the box had wrapped
+across two lines.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, CONFLICT 0, multiH1 0,
+odd-fence 0, md-with-box 0, glued separator lines 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204,
+GOI_MD 34 = GOI_TXT 34, widest box line 118, date-rule violations 0, twin date mismatches 0,
+truncated registry cells 0 across 5763 shared-label rows, git diff --check rc=0.
+
+**Remaining GOI technology backlog.** Eight stub sets remain on the old four-chapter shape, five
+records each: 027, 048, 049, 050, 051, 052, 053, 055. Separately, the full dossiers that do not yet
+carry the retrofit chapters are GOI sets 054, 056, 071.
+
+**Next action.** Rebuild the TECH-GOI-027 set, Anstrall Market.
