@@ -4568,3 +4568,62 @@ records each: 048, 049, 050, 051, 052, 053, 055. Separately, the full dossiers t
 the retrofit chapters are GOI sets 054, 056, 071.
 
 **Next action.** Rebuild the TECH-GOI-048 set, Children of the Deep.
+
+## Prompt Log — 2026-09-19 19:29 UTC
+
+**TECH-GOI-048, Children of the Deep, rebuilt.** The five records move from four-chapter summaries
+of 458 to 490 words each to full dossiers of 2040 to 2124 words across 14 chapters, on the house
+shape used for GOI-001, GOI-014, and GOI-027. Every fact in the old records survives: the sounding
+material interdiction, the inland mouth review, the departure support assessment, the Sounding
+Council continuity mechanism, the four congregation layers, the five holding-site classes, and the
+Nusantara Deep Relay, Kurokawa Archive Node, and Redwood Veil Complex routing.
+
+**The set is written as cultic preparation technology, and the red line holds throughout.** The
+sealed deep-sea target is never named in any of the ten files; a scripted screen ran every record in
+both formats against a list of likely entity names and returned nothing. Every reference reads as
+the sealed deep-sea target or the sealed entity, matching the GOI dossier's own redaction.
+
+**Each record carries its own argument, and no two share a thesis.** The sounding record holds that
+the rig is not the threat because the schedule is: hardware can be rebought, but timing sheets
+convert an improvised emitter into a repeatable practice that separate cells can run without
+contact, and a schedule implies the calendar filed at 048-4. The map record holds that convergence
+between unconnected authors is the signal rather than accuracy, since not every listed site had
+anomalous value.
+
+**The pressure record turns on the legality of every component.** No single purchase is reportable,
+and members with ordinary professional access source and shelter the items in the course of work
+that looks entirely normal, so the set only becomes visible at the location where the components
+accumulate. The text and calendar record turns on omissions being load-bearing: on either reading of
+why steps are missing, a recovered text is not a procedure, and coordination without message
+exchange leaves nothing to intercept.
+
+**The procurement record explains why interdiction cannot sit on the transaction.** Every purchase
+matches some legitimate requester, no supplier is a witness, and the commercial cover that moves the
+equipment is genuine and unaware. The record also holds the departure support finding against the
+intelligence interest: a safe exit path interrupts recruitment more effectively than confrontation,
+and trading one for a procurement trace spends something durable on something replaceable.
+
+**Verification.** Each record was checked for chapter count and order, a single H1, one archive
+note, exactly eight H3 sections including one Numbered Operating Sequence with eight steps, fourteen
+chapter separators, exactly five tables matched by five plain-text boxes, a single fenced handling
+rule, no markdown artefacts carried into the plain-text twin, every heading present as a bare line
+in the twin, every table cell value present in the twin once box wrapping is flattened, box rules
+exactly 118 wide, the red-line screen, and a single trailing newline.
+
+**One real defect was found and fixed, and it was in the document rather than the tooling.** The
+first record's specification table used the header SOUNDING-APPARATUS PARAMETER, which is 28
+characters against a 26-character plain-text box field, so the header wrapped onto a second box line
+and the interleaved second column made the value unreadable. The header was shortened to SOUNDING
+PARAMETER, and the builder now raises before writing if any table header would wrap in its box. A
+regression sweep over all four rebuilt sets confirmed no other header wraps.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, CONFLICT 0, multiH1 0,
+odd-fence 0, md-with-box 0, glued separator lines 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204,
+GOI_MD 34 = GOI_TXT 34, widest box line 118, date-rule violations 0, twin date mismatches 0,
+truncated registry cells 0 across 5992 shared-label rows, git diff --check rc=0.
+
+**Remaining GOI technology backlog.** Six stub sets remain on the old four-chapter shape, five
+records each: 049, 050, 051, 052, 053, 055. Separately, the full dossiers that do not yet carry the
+retrofit chapters are GOI sets 054, 056, 071.
+
+**Next action.** Rebuild the TECH-GOI-049 set, DREAM INC.

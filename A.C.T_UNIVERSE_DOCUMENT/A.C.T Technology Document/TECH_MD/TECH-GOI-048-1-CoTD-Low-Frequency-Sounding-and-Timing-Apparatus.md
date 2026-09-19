@@ -1,62 +1,310 @@
-# TECH-GOI-048-1 - CHILDREN OF THE DEEP LOW-FREQUENCY SOUNDING AND TIMING APPARATUS
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - CHILDREN OF THE DEEP LOW-FREQUENCY SOUNDING AND TIMING APPARATUS
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | TECHNOLOGY DESIGNATION | TECH-GOI-048-1 |
 | TECHNOLOGY NAME | Children of the Deep Low-Frequency Sounding and Timing Apparatus |
-| COMMON ABBREVIATIONS | Sounding Apparatus / CoTD Sound Rig / Timing Sheets |
-| ORIGIN | Children of the Deep |
-| ACQUISITION STATUS | Intercepted during sounding material interdiction; equipment and timing sheets held, full procedure not reconstructed |
-| PRIMARY A.C.T INTEREST | Sleep-state interference prevention, acoustic escalation detection, target-contact interdiction,<br>ritual efficacy assessment |
-| ARCHIVE HANDLING | TARGET-ANOMALY MATERIAL SEALED / LEVEL 5 CULTIC NETWORKS RESTRICTED |
+| SHORT NAME | LFSTA |
+| TECHNOLOGY FAMILY | ACQUIRED CULTIC / ACOUSTIC APPARATUS / SLEEP-STATE INTERFERENCE RISK |
+| ORIGIN | CHILDREN OF THE DEEP (GOI-CU-X-048) / SOUNDER AND DREDGER LAYERS |
+| PRIMARY CONTROLLER | Intelligence Division / Cultic Networks Desk |
+| ATTACHED DIVISIONS | Intelligence, Containment, Recovery, Security, Archive, Command |
+| OPERATIONAL STATUS | ACQUIRED / TARGET-ANOMALY MATERIAL SEALED, PROCEDURE NOT RECONSTRUCTED |
+| RISK STATUS | SLEEP-STATE INTERFERENCE / ESCALATION PATH / REPLICATION HAZARD |
+| CLEARANCE REQUIRED | Level 4 for cultic review; Level 5 for target-anomaly material |
 
-## Functional Identity
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Target-Anomaly Technology Record |
+| DISTRIBUTION | Intelligence / Containment / Recovery / Security / Command |
+| AUTHORITY | Intelligence Division, Cultic Networks Desk, with Central Archive custody |
 
-The Children of the Deep Low-Frequency Sounding and Timing Apparatus is the acoustic equipment
-set the cult uses for
-what its own material calls low-frequency sound work. Recovery personnel intercepted a transfer of
-sound-capable
-equipment, handwritten timing sheets, and copied devotional text moving through a non-cult commercial cover.
-A.C.T
-files this as acquired GOI technology because the apparatus is the clearest material bridge
-between devotional
-practice and a measurable attempt to influence the sleep condition of the sealed deep-sea
-target.
+#### Archive Note
+The apparatus is catalogued because it is the clearest material bridge between devotional practice
+and a measurable attempt to influence the sleep condition of the sealed deep-sea target.
+Recovery personnel intercepted a transfer of sound-capable equipment, handwritten timing sheets, and copied
+devotional text moving through a non-cult commercial cover. CoTD is classified PRACTITIONER because its
+members perform organized rites intended to influence, locate, interpret, or weaken that sleep condition.
 
-## Known Structure and Use
+The equipment did not by itself establish an awakening attempt. What created a credible
+escalation path was the combination of sound-capable hardware, timing language on the handwritten sheets,
+and a separate cult request for deep-water data. The timing sheets are the significant
+component and are treated in this record as part of the apparatus rather than
+as paperwork about it.
 
-The intercepted set was incomplete and the equipment did not by itself establish an
-awakening attempt. What created a
-credible escalation path was the combination of sound-capable hardware, timing language on the handwritten
-sheets, and
-a separate cult request for deep-water data. Documented cult practice includes low-frequency sound work
-conducted
-alongside synchronized vigils and symbolic pressure rituals, with group movement timed to specific weather,
-water-level, or lunar conditions. The timing sheets are therefore as significant as the hardware:
-they convert an
-improvised acoustic setup into a scheduled, repeatable practice that separate cells could run without
-direct contact.
+The set is incomplete, and the incompleteness is assessed as deliberate rather than accidental.
+Containment review of the copied material found repeated omissions rather than a complete procedure,
+and no full reconstruction has been authorized. A recovered rig cannot be assumed to
+represent the cult's best equipment, and a rig that appears inert cannot be assumed
+harmless.
 
-## A.C.T Handling Rules
+Controlled label: **COTD SOUNDING-APPARATUS OPERATIONAL PROHIBITION**.
 
-The apparatus is restricted at Level 5 and must never be operated against the
-target, reproduced for research credit,
-or demonstrated for interrogation leverage. Containment review of the copied material found repeated omissions
-rather
-than a complete procedure, and no full reconstruction has been authorized. Acoustic, pressure, seismic,
-or marine
-indicators showing credible correlation with cult activity require immediate Level 5 escalation, at which
-preservation
-of the target sleep-state overrides evidence collection, negotiation, and infiltration value. ACT-SITE-05-ID-C
-Nusantara Deep Relay holds the deep-sea technical liaison role for any acoustic assessment.
+Core handling rule:
 
-## Failure and Open Questions
+```text
+THE RIG IS NOT THE THREAT. THE SCHEDULE IS.
+NO RECOVERED APPARATUS IS OPERATED, RECONSTRUCTED, OR DEMONSTRATED.
+```
 
-The set may be doctrinal rather than effective, or partially effective in ways A.C.T
-has not measured. The dossier
-records as unresolved whether repeated sound and pressure practices affect the target directly or
-primarily condition
-members for a later action. Because the cult deliberately separates ritual knowledge across members,
-a recovered rig
-cannot be assumed to represent the cult's best equipment, and a rig that appears
-inert cannot be assumed harmless.
+---
+
+## FUNCTION SUMMARY
+
+The apparatus produces low-frequency sound at scheduled times. Its hardware is unremarkable and its
+significance is not acoustic. What the timing sheets add is repeatability: an improvised emitter
+is a curiosity, while an emitter run to a schedule by separate cells who
+never speak to one another is a coordinated practice, and coordination is what turns
+ritual into an operational event.
+
+That is why the sheets outrank the hardware in every reading of this record.
+Hardware can be rebought. A schedule implies a calendar, a calendar implies doctrine, and
+doctrine implies the compartmented text and synchronized calendar set filed at TECH-GOI-048-4. Recover the
+rig and you hold one emitter; recover the schedule and you hold the cult's
+clock.
+
+The defining ambiguity is efficacy. The set may be doctrinal rather than effective, or
+partially effective in ways A.C.T has not measured. That ambiguity is not a reason
+to relax: where a sleeping anomaly has an apocalyptic wake-state, containment must be maintained
+even when the people attempting to break it call their act devotion.
+
+---
+
+## ORIGIN AND CUSTODY
+
+The Children of the Deep are recorded at Threat Level 5, Nature Class CULTIC,
+Alignment NEGATIVE, Reach REGIONAL, Anomalous Capability PRACTITIONER, and Secrecy Risk LEAKING, under A.C.T
+posture INFILTRATE / CONTAIN / DISMANTLE. Known leadership is recorded as the Sounding Council;
+individual identities are restricted and continuity is unverified, and the most visible speaker at
+a gathering should not be assumed to be a council member.
+
+Material was acquired during sounding material interdiction, moving through a non-cult commercial cover.
+Equipment and timing sheets are held; the full procedure is not reconstructed and no
+reconstruction has been authorized. The interception demonstrated that CoTD does not rely only on
+visible gatherings and can use ordinary transport and service relationships to keep preparation equipment
+moving.
+
+Custody is sealed at Level 5. The Cultic Networks Desk holds the record, Central
+Archive holds custody, and Central Command holds site jurisdiction with ACT-SITE-05 deep-sea liaison. Midwest
+response is incident-led, and acoustic assessment is routed through ACT-SITE-05-ID-C / Nusantara Deep Relay.
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+The apparatus has an emitting layer and a scheduling layer. Known components are:
+
+- low-frequency sound-capable emitter;
+- power and drive components;
+- acoustic coupling and mounting hardware;
+- handwritten timing sheets;
+- timing language and date markers;
+- water-level and weather condition references;
+- lunar condition references;
+- copied devotional text accompanying the set;
+- transport packaging under commercial cover;
+- omitted procedure steps.
+
+The omitted procedure steps are a component rather than an absence. Containment review found
+repeated omissions, which may indicate that ritual knowledge is deliberately separated across members, or
+that the documents are designed to make a reader supply missing steps through prior
+indoctrination. On either reading the gap is part of the design and is not
+a defect to be repaired by inference.
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Figures are restated from the GOI-CU-X-048 dossier and from interdiction records. Values the archive
+does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+| SOUNDING PARAMETER | VALUE |
+|---|---|
+| Sound class | low-frequency, band not published |
+| Emitter condition | intercepted, incomplete |
+| Timing medium | handwritten sheets |
+| Timing references | weather, water level, lunar |
+| Coordination mode | schedule, not message |
+| Commercial cover | non-cult transport confirmed |
+| Procedure completeness | repeated omissions present |
+| Effect on target | NOT MEASURED |
+| Rigs intercepted | NOT MEASURED |
+| Cells synchronized | NOT MEASURED |
+
+The effect row is the one the cult would fill in and A.C.T cannot.
+Whether repeated sound and pressure practices affect the target directly or primarily condition members
+for a later action is unresolved, and this record refuses to guess in either
+direction.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Sounding Assessment Controls
+
+- Level 5 target-anomaly sealing on recovery
+- Cultic Networks Desk intake
+- acoustic and marine indicator monitoring
+- Nusantara Deep Relay technical liaison
+
+### Sounding Readouts
+
+- escalation path assessment
+- timing-sheet transcription under seal
+- schedule convergence check
+- marine indicator correlation note
+
+### Handling Limits And Weaknesses
+
+- Do not operate a recovered apparatus against the target.
+- Do not reconstruct the omitted procedure steps.
+- Do not demonstrate the set for interrogation leverage.
+- Do not treat an apparently inert rig as harmless.
+- Weakest against rigs recovered without their timing sheets.
+- Weakest where acoustic correlation is ambiguous.
+
+Effect on target, rig counts, and synchronized cell counts are NOT MEASURED.
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence separates the emitter from the schedule before either is analysed. Read together
+they describe an attempt; read apart they describe a piece of hardware and a
+document, and only the separated reading lets Containment act on one without escalating on
+the other.
+
+1. Seal the material at Level 5 on recovery.
+2. Separate hardware from timing documentation.
+3. Transcribe timing sheets under seal, never aloud.
+4. Check the schedule against other interdicted cells.
+5. Query marine and acoustic indicators for correlation.
+6. Escalate at Level 5 where correlation is credible.
+7. Route acoustic assessment through Nusantara Deep Relay.
+8. Report the convergence, not the equipment.
+
+Step 8 is the discipline. Equipment is replaceable; a convergence of recruitment, equipment movement,
+target-specific data, and synchronized practice is the indicator that requires immediate multi-division
+response, and it is the only finding worth escalating on.
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per interdiction | seal at Level 5 before analysis |
+| Per intake | separate hardware from timing sheets |
+| Quarterly | compare schedules across interdicted cells |
+| Annually | review acoustic indicators against cult activity |
+| On correlation | Level 5 escalation, sleep-state priority |
+
+The annual review is the maintenance that matters. A single schedule describes one cell's
+calendar; a series of schedules describes when the cult intends to act, and the
+second is the only reading that allows interdiction before the date rather than after
+it.
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Rig found live | schedule still running | halt, seal, escalate |
+| Sheet undated | copying loss | Intelligence, compare |
+| Correlation seen | sound work near water | Level 5, Containment |
+| Reconstruction asked | research interest | refuse, Command |
+| Rig appears inert | efficacy unproven | retain sealed |
+
+---
+
+## KNOWN LIMITS
+
+The apparatus cannot be tested. It must never be operated against the target, reproduced
+for research credit, or demonstrated for interrogation leverage, and personnel may not replicate
+target-directed rites for curiosity, research credit, coercive interrogation, or theatrical deception. A
+ritual that appears ineffective may still contribute to an unknown condition, create a harmful
+information pathway, or convince a larger group that its doctrine has been validated.
+
+It also cannot be ranked. Because the cult deliberately separates ritual knowledge across members,
+a recovered rig cannot be assumed to represent the cult's best equipment. Interception yields
+a sample of what one cell was moving, and the cult's habit of exaggerating
+its reach means claimed capability is not evidence, although a false claim may still
+point to a real contact, a stolen data source, or an intended acquisition effort.
+
+---
+
+## FAILURE HISTORY
+
+### SOUNDING MATERIAL INTERDICTION — COMMERCIAL COVER
+
+Recovery personnel intercepted a transfer of sound-capable equipment, handwritten timing sheets, and copied
+devotional text moving through a non-cult commercial cover. The equipment did not by itself
+establish an awakening attempt; the combination of material, timing language, and a separate request
+for deep-water data created a credible escalation path. The operation is the origin of
+the rule that this record treats the schedule as part of the apparatus.
+
+### OMISSION AS DESIGN — UNRESOLVED
+
+Containment review found that the copied material included repeated omissions rather than a complete
+procedure. Whether that indicates deliberate separation of ritual knowledge across members or a document
+designed to make a reader supply missing steps through prior indoctrination is unresolved, and
+the materials remain restricted with no full reconstruction authorized.
+
+### DOCTRINAL VERSUS EFFECTIVE — UNRESOLVED
+
+Whether repeated sound and pressure practices affect the target directly or primarily condition members
+for a later action is unresolved. Both readings require the same handling, which is
+why the record does not resolve them: an apparatus that does nothing to the
+target still schedules the people who intend to.
+
+---
+
+## DIVISION USE
+
+Intelligence Division and the Cultic Networks Desk hold the record and read schedule convergence.
+Containment Division holds the sealed material and owns escalation on correlation. Recovery Division secured
+the interdiction. Security holds hardware under Level 5 seal. Archive intakes the transcription and
+refuses reproduction requests. Command authorises any operation touching target-anomaly material and holds the
+sleep-state override.
+
+---
+
+## CROSS-REFERENCES
+
+- - GOI-CU-X-048 — Children of the Deep, Group of Interest Registry;
+- - TECH-GOI-048-2 — CoTD Inland Mouth Overlay Map Set, Technology Record;
+- - TECH-GOI-048-3 — CoTD Pressure Ritual Equipment and Sealed Container Set, Technology Record;
+- - TECH-GOI-048-4 — CoTD Compartmented Text, Recording, and Calendar Set, Technology Record;
+- - TECH-GOI-048-5 — CoTD Concealed Contribution and Procurement System, Technology Record;
+- - ACT-SITE-05-ID-C / Nusantara Deep Relay, Deep-Sea Technical Liaison, Site Record;
+- - Sounding material interdiction restricted extract [Level 5].
+
+The Visual Reference Guide does not carry this apparatus and will not. It describes
+equipment personnel are trained to maintain, and nothing here is maintained: a recovered rig
+is sealed, unread, and never powered.
+
+---
+
+## OPEN QUESTIONS
+
+- Do repeated sound practices affect the target, or only the members performing them?
+- What do the omitted procedure steps contain?
+- How many cells run the same schedule without contact?
+- Which commercial carriers have moved cult equipment unknowingly?
+- Does an apparently inert rig become active under conditions not yet observed?
+- What acoustic band does the apparatus actually produce?
+
+---
+
+## FILE METADATA
+
+- **Created:** 2009-05-14
+- **Author Desk:** Intelligence Division / Cultic Networks Desk / Central Archive
+- **Review Status:** Active restricted target-anomaly technology record; target identity and cell identities
+  sealed
+- **Next Review:** After any acoustic correlation, any further rig interdiction, or any change in
+  deep-sea indicator readings

@@ -1,4 +1,5 @@
-TECH-GOI-048-3 - CHILDREN OF THE DEEP PRESSURE RITUAL EQUIPMENT AND SEALED CONTAINER SET
+A.C.T FACILITY ARCHIVE FILE
+TECHNOLOGY RECORD - CHILDREN OF THE DEEP PRESSURE RITUAL EQUIPMENT AND SEALED CONTAINER SET
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -7,65 +8,326 @@ TECH-GOI-048-3 - CHILDREN OF THE DEEP PRESSURE RITUAL EQUIPMENT AND SEALED CONTA
 +----------------------------+---------------------------------------------------------------------------------------+
 | TECHNOLOGY NAME            | Children of the Deep Pressure Ritual Equipment and Sealed Container Set               |
 +----------------------------+---------------------------------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Pressure Set / Sealed Containers / Marine Material Cache                              |
+| SHORT NAME                 | PRECS                                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ORIGIN                     | Children of the Deep                                                                  |
+| TECHNOLOGY FAMILY          | ACQUIRED CULTIC / PRESSURE APPARATUS / ANOMALOUS MATERIAL TRIAGE                      |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ACQUISITION STATUS         | Recovered from custody and mouth sites; individual items assessed separately, no      |
-|                            | complete cult inventory held                                                          |
+| ORIGIN                     | CHILDREN OF THE DEEP (GOI-CU-X-048) / DREDGER AND SHOREKEEPER LAYERS                  |
 +----------------------------+---------------------------------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Technical preparation detection, inland mouth indicator review, procurement           |
-|                            | interdiction, anomalous material triage                                               |
+| PRIMARY CONTROLLER         | Containment Division / Intelligence Division joint review authority                   |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ARCHIVE HANDLING           | CULTIC NETWORKS RESTRICTED / ANOMALOUS MATERIAL CUSTODY REVIEW                        |
+| ATTACHED DIVISIONS         | Containment, Intelligence, Recovery, Civil Covert, Archive, Command                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACQUIRED / ITEMS ASSESSED SEPARATELY, NO COMPLETE CULT INVENTORY HELD                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| RISK STATUS                | TECHNICAL PREPARATION / ANOMALOUS MATERIAL CUSTODY / CIVILIAN COVER RISK              |
++----------------------------+---------------------------------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for cultic review; Level 5 for anomalous material custody                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Functional Identity
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Cultic-Networks Technology Record                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Containment / Intelligence / Recovery / Civil Covert / Command                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Containment Division, Intelligence Division, and Central Archive                      |
++----------------------------+---------------------------------------------------------------------------------------+
 
-The Children of the Deep Pressure Ritual Equipment and Sealed Container Set is the
-material collection the cult
-assembles to support what its doctrine treats as pressure continuity with the Deep. The
-dossier records symbolic
-pressure rituals among documented cult practices, lists pressure-related tools among the technical preparation
-category, and names imported salt, marine material, pressure equipment, acoustic equipment, and unusual sealed
-containers without a credible local purpose as inland mouth review indicators. A.C.T files this
-as acquired GOI
-technology because these items are the physical evidence that separates devotional gathering from technical
-preparation.
-
-Known Structure and Use
+Archive Note
+The set is catalogued because it is the physical evidence that separates devotional gathering
+from technical preparation. The dossier records symbolic pressure rituals among documented cult practices,
+lists pressure-related tools among the technical preparation category, and names imported salt, marine
+material, pressure equipment, acoustic equipment, and unusual sealed containers without a credible local
+purpose as inland mouth review indicators.
 
 The set is deliberately ordinary in appearance. Members with ordinary professional access to water
-systems, repair
-work, transport, construction, and regional administration can source or shelter pressure vessels, pumps, gauges,
-salts, sediment samples, and sealed drums without presenting themselves as cult personnel. Technical intermediaries
-acquire or interpret deep-water and pressure-related material without openly identifying with the group. Individually,
-each item has a lawful civilian use. In combination at a repeatedly accessed water-control,
-drainage, or submerged
-industrial location, the same items become a preparation indicator.
+systems, repair work, transport, construction, and regional administration can source or shelter pressure
+vessels, pumps, gauges, salts, sediment samples, and sealed drums without presenting themselves as cult
+personnel, and technical intermediaries acquire or interpret deep-water and pressure-related material without
+openly identifying with the group.
 
-A.C.T Handling Rules
+Individually each item has a lawful civilian use. In combination, at a repeatedly accessed
+water-control, drainage, or submerged industrial location, the same items become a preparation indicator. The
+technology here is not the hardware; it is the legality of every component and
+the ordinary professional access that lets the components accumulate in one place.
 
-Items are assessed through both cultic and infrastructure risk criteria before classification. Any item
-showing
-possible anomalous behavior is separated into anomalous material custody and may require a separate
-AFD record linked
-to the GOI dossier; dual filing is not required for the cult as a
-whole, but individual contaminated or altered
-material is a separate question. Items may not be assembled, pressurized, or operated as
-a set for research purposes.
-Where an ordinary water hazard exists at a mouth site, it is addressed as
-an ordinary hazard, so that containment of
-cult activity does not itself read as evidence of sacred conspiracy.
+Controlled label: **COTD PRESSURE-SET ASSEMBLY PROHIBITION**.
 
-Failure and Open Questions
+Core handling rule:
 
-A.C.T has not confirmed that any pressure apparatus in cult hands has produced a
-measurable effect on the target. The
-group is known to exaggerate its reach to create fear and obedience, so claimed
-capability is not evidence, though a
-false claim may still point to a real contact, stolen data source, or intended
-acquisition effort. Whether sealed
-containers recovered from mouth sites held ritual material, marine samples, or ordinary contents remains
-unresolved
-case by case.
+EVERY ITEM IS LAWFUL ALONE.
+THE SET IS NEVER ASSEMBLED, PRESSURIZED, OR OPERATED FOR RESEARCH.
+
+
+FUNCTION SUMMARY
+
+The set supports what cult doctrine treats as pressure continuity with the Deep. Its
+components are pressure vessels, pumps, gauges, imported salt, marine material, sediment samples, and sealed
+containers, and none of them is unusual in a repair workshop, a water-treatment yard,
+or a construction store.
+
+That ordinariness is the design. A procurement request for a pressure gauge is not
+reportable; a procurement request for a pressure gauge from a member who also holds
+keys to a drainage facility is still not reportable. The set only becomes visible
+when the accumulation itself is examined, which requires someone to be looking at the
+location rather than at the purchases.
+
+The consequence for A.C.T is that assessment must run on two criteria at once.
+Cultic criteria identify intent; infrastructure criteria identify what the same items can actually do
+at that location. A site assessed only through doctrine is over-read, and a site
+assessed only through infrastructure is missed entirely.
+
+
+ORIGIN AND CUSTODY
+
+The Children of the Deep are recorded at Threat Level 5, Nature Class CULTIC,
+Alignment NEGATIVE, Reach REGIONAL, Anomalous Capability PRACTITIONER, and Secrecy Risk LEAKING, under A.C.T
+posture INFILTRATE / CONTAIN / DISMANTLE. Known leadership is recorded as the Sounding Council;
+individual identities are restricted and continuity is unverified, and the most visible speaker at
+a gathering should not be assumed to be a council member.
+
+Items are recovered from custody sites and mouth sites and are assessed individually. No
+complete cult inventory is held, and none is expected: no single CoTD headquarters has
+been confirmed, and the cult prefers a distributed arrangement of temporary meeting rooms, rented
+homes, flood-adjacent retreats, storage areas, repair workshops, and travel staging points.
+
+Containment Division and Intelligence Division review jointly. Any item showing possible anomalous behaviour
+is separated into anomalous material custody at Level 5 and may require a separate
+anomaly record linked to the GOI dossier. Central Archive holds the designation record.
+
+
+PHYSICAL OR SYSTEM DESCRIPTION
+
+The set has a pressure layer, a material layer, and a container layer. Known
+components are:
+
+- pressure vessels and chambers;
+- pumps and compression hardware;
+- gauges and pressure instrumentation;
+- imported salt and brine;
+- marine material of unverified origin;
+- sediment and water samples;
+- unusual sealed containers;
+- sealed drums without credible local purpose;
+- acoustic equipment stored alongside;
+- sourcing records through ordinary trades.
+
+Sealed drums without a credible local purpose are the component that most often justifies
+a review and least often justifies an escalation. Whether a recovered container held ritual
+material, marine samples, or ordinary contents is unresolved case by case, and opening one
+to find out is not an assessment method this record authorises.
+
+
+TECHNICAL SPECIFICATION
+
+Figures are restated from the GOI-CU-X-048 dossier and from custody-site recoveries. Values the archive
+does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| PRESSURE-SET PARAMETER     | VALUE                                                                                 |
++============================+=======================================================================================+
+| Component legality         | every item lawful alone                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Sourcing route             | ordinary trades and professional access                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Indicator condition        | combination at a water-control site                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Assessment criteria        | cultic and infrastructure, both                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Anomalous separation       | Level 5 custody on suspicion                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Dual filing                | not required for the cult as a whole                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Assembly for research      | prohibited                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Effect on target           | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Items recovered            | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Container contents         | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+
+The indicator condition row is the operational rule compressed. No single component triggers review;
+combination at a repeatedly accessed water-control, drainage, or submerged industrial location does, and the
+location is what the review is actually about.
+
+
+INTERFACE AND OPERATING ENVELOPE
+
+Custody Assessment Controls
+
+- Containment and Intelligence joint review
+- dual cultic and infrastructure criteria
+- Level 5 anomalous material separation
+- civilian hazard separation
+
+Custody Readouts
+
+- component combination record
+- sourcing route reconstruction
+- infrastructure exposure note
+- anomalous material triage list
+
+Handling Limits And Weaknesses
+
+- Do not assemble, pressurize, or operate the set for research.
+- Do not open a sealed container to establish its contents.
+- Do not treat ordinary professional access as evidence of membership.
+- Do not let cult containment read as confirmation of cult doctrine.
+- Weakest against items sourced entirely through legitimate trade.
+- Weakest where the local water hazard is genuine and unrelated.
+
+Effect on the target, item counts, and container contents are NOT MEASURED.
+
+
+OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+The sequence assesses the location before it assesses the objects. Items recovered without their
+location context are lawful hardware; the same items inventoried against a repeatedly accessed drainage
+facility are a preparation indicator, and the difference is not in the objects.
+
+1. Inventory items without assembling them.
+2. Record the recovery location and access pattern.
+3. Apply cultic and infrastructure criteria together.
+4. Reconstruct the sourcing route through ordinary trades.
+5. Separate any item showing possible anomalous behaviour.
+6. Seal separated material at Level 5 for custody review.
+7. Treat any genuine water hazard as an ordinary hazard.
+8. Report the combination, not the components.
+
+Step 7 protects the operation as much as the public. Where an ordinary water
+hazard exists at a mouth site it is addressed as an ordinary hazard, so
+that containment of cult activity does not itself read as evidence of a sacred
+conspiracy the cult can point to.
+
+
+SERVICING AND CALIBRATION
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Per recovery               | inventory without assembling                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Per intake                 | record location and access pattern                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | compare component sets across custody sites                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Annually                   | review combination indicators against interdiction outcomes                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| On anomalous suspicion     | Level 5 separation and custody review                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+
+
+The annual review is the maintenance that matters. A single component set describes one
+cell's shopping; a series of sets describes what the cult has decided it needs,
+and the second is the only reading that predicts the next acquisition before it
+happens.
+
+
+FAULT ISOLATION
+
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Item flagged alone         | single component read                     | require combination                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Container unknown          | sealed, no manifest                       | non-destructive survey                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Anomalous behaviour        | material altered                          | Level 5, separate                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Hazard reported            | ordinary water risk                       | civil route, contain                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Assembly requested         | research interest                         | refuse, Command                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+
+
+KNOWN LIMITS
+
+The set cannot be demonstrated. Items may not be assembled, pressurized, or operated as
+a set for research purposes, and personnel may not replicate target-directed rites for curiosity,
+research credit, coercive interrogation, or theatrical deception. A ritual that appears ineffective may still
+contribute to an unknown condition or convince a larger group that its doctrine has
+been validated.
+
+It also cannot be counted as capability. A.C.T has not confirmed that any pressure
+apparatus in cult hands has produced a measurable effect on the target, and the
+group is known to exaggerate its reach to create fear and obedience. Claimed capability
+is not evidence, though a false claim may still point to a real contact,
+a stolen data source, or an intended acquisition effort.
+
+
+FAILURE HISTORY
+
+LAWFUL ITEMS IN COMBINATION — STANDING PATTERN
+
+The recurring pattern is that no individual purchase is reportable. Members with ordinary professional
+access to water systems, repair work, transport, construction, and regional administration source and shelter
+the components in the course of work that looks entirely normal, and the set
+only becomes visible at the location where the components accumulate.
+
+ORDINARY HAZARD AT A MOUTH SITE — CIVIL SEPARATION
+
+Where an ordinary water hazard exists at a mouth site it is addressed as
+an ordinary hazard. The separation is deliberate: a public response that treats every report
+as delusion will miss real preparation, and a public response that confirms the anomaly
+will give CoTD the proof it wants. Civil Covert measures must keep the two
+apart.
+
+CONTAINER CONTENTS — UNRESOLVED CASE BY CASE
+
+Whether sealed containers recovered from mouth sites held ritual material, marine samples, or ordinary
+contents remains unresolved case by case. The unresolved state is the reason the handling
+rule forbids opening a container to establish its contents: the answer is not worth
+the exposure if the guess was wrong.
+
+
+DIVISION USE
+
+Containment Division owns joint review and anomalous material triage. Intelligence Division reads sourcing
+routes and combination indicators. Recovery Division secures custody and mouth sites. Civil Covert Division
+separates genuine local water hazards from cult doctrine. Archive intakes the record and seals
+separated material. Command authorises any escalation touching anomalous material custody.
+
+
+CROSS-REFERENCES
+
+- - GOI-CU-X-048 — Children of the Deep, Group of Interest Registry;
+- - TECH-GOI-048-1 — CoTD Low-Frequency Sounding and Timing Apparatus, Technology Record;
+- - TECH-GOI-048-2 — CoTD Inland Mouth Overlay Map Set, Technology Record;
+- - TECH-GOI-048-4 — CoTD Compartmented Text, Recording, and Calendar Set, Technology Record;
+- - TECH-GOI-048-5 — CoTD Concealed Contribution and Procurement System, Technology Record;
+- - Anomaly Classification Manual Archive, Classification and Custody Record;
+- - Inland mouth review restricted extract [Level 5].
+
+The Classification Manual is cited because separated material may need its own record. Dual
+filing is not required for the cult as a whole, but individual contaminated or
+altered material is a separate question and is handled as one.
+
+
+OPEN QUESTIONS
+
+- Has any pressure apparatus in cult hands produced a measurable effect?
+- What do the sealed containers recovered from mouth sites contain?
+- Which trades are being used to source components without awareness?
+- Does the imported salt serve a ritual or a physical purpose?
+- Which custody sites hold components for more than one cell?
+- At what combination threshold does a lawful set become a preparation indicator?
+
+
+FILE METADATA
+
+- **Created:** 2018-03-07
+- **Author Desk:** Containment Division / Cultic Networks Desk / Central Archive
+- **Review Status:** Active restricted cultic-networks technology record; custody site addresses and separated
+material sealed
+- **Next Review:** After any custody-site recovery, any anomalous material separation, or any confirmed pressure
+apparatus effect

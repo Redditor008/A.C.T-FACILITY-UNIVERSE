@@ -1,59 +1,304 @@
-# TECH-GOI-048-4 - CHILDREN OF THE DEEP COMPARTMENTED DEVOTIONAL TEXT, DISTRIBUTED RECORDING, AND SYNCHRONIZED
-CALENDAR SET
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - CHILDREN OF THE DEEP COMPARTMENTED DEVOTIONAL TEXT, RECORDING, AND CALENDAR SET
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | TECHNOLOGY DESIGNATION | TECH-GOI-048-4 |
-| TECHNOLOGY NAME | Children of the Deep Compartmented Devotional Text, Distributed Recording, and Synchronized Calendar Set |
-| COMMON ABBREVIATIONS | Sounding Texts / Cult Recordings / Return Calendar |
-| ORIGIN | Children of the Deep |
-| ACQUISITION STATUS | Copied texts and recording extracts recovered and interdicted; materials restricted, no full reconstruction authorized |
-| PRIMARY A.C.T INTEREST | Ritual vector analysis, information-hazard containment, leadership continuity tracking,<br>coordinated-action early warning |
-| ARCHIVE HANDLING | CULTIC NETWORKS RESTRICTED / KUROKAWA RECORDING REVIEW REQUIRED |
+| TECHNOLOGY NAME | Children of the Deep Compartmented Devotional Text, Recording, and Calendar |
+| SHORT NAME | CDTDR |
+| TECHNOLOGY FAMILY | ACQUIRED CULTIC / COMPARTMENTED DOCTRINE / COORDINATION WITHOUT CONTACT |
+| ORIGIN | CHILDREN OF THE DEEP (GOI-CU-X-048) / SOUNDING COUNCIL AND SOUNDER LAYERS |
+| PRIMARY CONTROLLER | Archive Division / Intelligence Division joint review authority |
+| ATTACHED DIVISIONS | Archive, Intelligence, Security, Medical Care, Civil Covert, Command |
+| OPERATIONAL STATUS | ACQUIRED / MATERIALS RESTRICTED, NO FULL RECONSTRUCTION AUTHORIZED |
+| RISK STATUS | INFORMATION HAZARD / LEADERSHIP CONTINUITY / COORDINATED-ACTION WARNING |
+| CLEARANCE REQUIRED | Level 4 for cultic review; Level 5 for target-directed rite material |
 
-## Functional Identity
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Cultic-Networks Technology Record |
+| DISTRIBUTION | Archive / Intelligence / Security / Civil Covert / Command |
+| AUTHORITY | Archive Division, Intelligence Division, and Central Archive |
 
-The Children of the Deep Compartmented Devotional Text, Distributed Recording, and Synchronized Calendar Set
-is the
-information technology that lets the cult transmit doctrine, coordinate timing, and preserve authority without
-a
-central archive or a single identifiable leader. The dossier records that Sounding Council continuity
-rests in copied
-texts, distributed recordings, synchronized calendar rules, and local spiritual interpreters, which allows the
-organization to survive the loss of any one member. A.C.T files this as acquired
-GOI technology because the set is
-what makes a distributed regional cult operationally coherent.
-
-## Known Structure and Use
+#### Archive Note
+The set is catalogued because it is what makes a distributed regional cult operationally
+coherent without a central archive or a single identifiable leader. The dossier records that
+Sounding Council continuity rests in copied texts, distributed recordings, synchronized calendar rules, and
+local spiritual interpreters, which allows the organization to survive the loss of any one
+member.
 
 Containment review of interdicted copied material found repeated omissions rather than a complete procedure.
-This may
-indicate that the cult deliberately separates ritual knowledge across members, or that the documents
-are designed to
-make a reader supply missing steps through prior indoctrination. The set works together with
-synchronized calendar
-rules and shared date, signal, or return language, so that separate congregations can act
-in coordination without
-exchanging operational messages. Restricted language protocols and a distributed vocabulary of inland mouths, shores,
-and soundings hide operational meaning inside apparently devotional speech.
+This may indicate that the cult deliberately separates ritual knowledge across members, or that
+the documents are designed to make a reader supply missing steps through prior indoctrination.
+On either reading a recovered text is not a procedure, and the missing part
+is held in people rather than in paper.
 
-## A.C.T Handling Rules
+The set works together with synchronized calendar rules and shared date, signal, and return
+language, so that separate congregations can act in coordination without exchanging operational messages. That
+is the property that defeats communications interception: there is no message to intercept, only
+a date that several groups already know.
 
-These materials are dangerous recordings and mapped doctrinal data and are reviewed by ACT-SITE-03-JP-E
-Kurokawa
-Archive Node for information patterns that may function as ritual or target-contact vectors. Reproduction
-for
-research, public evidence, or interrogation leverage is prohibited without target-anomaly authorization. Personnel may
-not replicate target-directed rites for curiosity, research credit, coercive interrogation, or theatrical deception,
-because a ritual that appears ineffective may still contribute to an unknown condition, create
-a harmful information
-pathway, or convince a larger group that its doctrine has been validated.
+Controlled label: **COTD DEVOTIONAL-MATERIAL REPLICATION PROHIBITION**.
 
-## Failure and Open Questions
+Core handling rule:
 
-The set fails where a cell loses its interpreter, where copied texts diverge, or
-where a scheduled date passes without
-coordination. Whether the Sounding Council receives genuine target-related information or manufactures signs to
-preserve authority remains unresolved. A.C.T also cannot currently determine how much of the omission
-pattern is
-deliberate doctrine and how much is copying loss across a distributed membership.
+```text
+AN OMISSION IS NOT A GAP TO BE FILLED.
+NO TARGET-DIRECTED RITE IS REPLICATED FOR ANY PURPOSE.
+```
+
+---
+
+## FUNCTION SUMMARY
+
+The set transmits doctrine, coordinates timing, and preserves authority using three mechanisms that do
+not require contact between the parties using them. Copied texts carry doctrine. Distributed recordings
+carry interpretation. A synchronized calendar carries intent, because a shared date is a plan
+that needs no message.
+
+Restricted language protocols and a distributed vocabulary of inland mouths, shores, and soundings hide
+operational meaning inside apparently devotional speech. A transcript of such a gathering reads as
+grief counselling to an outside listener and as instruction to a member, and the
+difference is entirely in what the listener already knows.
+
+The consequence for A.C.T is that this set must be read as a continuity
+mechanism rather than as a document collection. Removing a speaker does not remove the
+calendar. Seizing a text does not remove the interpreter who supplied its missing steps.
+The organisation is not vulnerable at any of the points where an organisation is
+normally vulnerable.
+
+---
+
+## ORIGIN AND CUSTODY
+
+The Children of the Deep are recorded at Threat Level 5, Nature Class CULTIC,
+Alignment NEGATIVE, Reach REGIONAL, Anomalous Capability PRACTITIONER, and Secrecy Risk LEAKING, under A.C.T
+posture INFILTRATE / CONTAIN / DISMANTLE. Known leadership is recorded as the Sounding Council;
+individual identities are restricted and continuity is unverified, and the most visible speaker at
+a gathering should not be assumed to be a council member.
+
+Copied texts and recording extracts are recovered and interdicted. Materials are restricted and no
+full reconstruction has been authorized. Material arrives through sounding material interdiction, custody-site
+recovery, and departure interviews, and the three sources carry different reliability: the first two
+are cult-produced, the third is memory.
+
+These are dangerous recordings and mapped doctrinal data, reviewed by ACT-SITE-03-JP-E / Kurokawa Archive
+Node for information patterns that may function as ritual or target-contact vectors. Archive Division
+holds the material, the Cultic Networks Desk holds the readout, and target-directed rite material
+is sealed at Level 5.
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+The set has a text layer, a recording layer, and a calendar layer. Known
+components are:
+
+- copied devotional text with repeated omissions;
+- handwritten and photocopied variants;
+- distributed audio recordings;
+- recording extracts rather than complete rites;
+- synchronized calendar rules;
+- shared date, signal, and return language;
+- restricted language protocols;
+- inland mouth, shore, and sounding vocabulary;
+- local spiritual interpreter function;
+- loss narrative framing.
+
+The local spiritual interpreter function is the component that cannot be seized. Every other
+item in this list is an object; the interpreter is the mechanism by which
+an object with missing steps becomes a usable instruction, and no quantity of recovered
+paper substitutes for one.
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Figures are restated from the GOI-CU-X-048 dossier and from interdiction review. Values the archive
+does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+| COMPARTMENT PARAMETER | VALUE |
+|---|---|
+| Doctrine carrier | copied text with omissions |
+| Interpretation carrier | distributed recordings |
+| Coordination carrier | synchronized calendar |
+| Message exchange required | no |
+| Central archive | none identified |
+| Authority mechanism | text, recording, calendar, interpreter |
+| Reproduction | prohibited without target authorization |
+| Full procedure held | no |
+| Texts recovered | NOT MEASURED |
+| Recordings recovered | NOT MEASURED |
+
+The message exchange row is the operational problem in one line. Coordinated action without
+communication leaves nothing to intercept, so warning has to come from the calendar rather
+than from traffic, and the calendar is only visible once enough copies have been
+recovered to compare.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Continuity Assessment Controls
+
+- Archive and Intelligence joint review
+- Kurokawa Archive Node recording review
+- Level 5 sealing of rite material
+- reproduction prohibition enforced
+
+### Continuity Readouts
+
+- omission pattern comparison
+- calendar synchronization map
+- interpreter dependency note
+- coordinated-action early warning
+
+### Handling Limits And Weaknesses
+
+- Do not replicate target-directed rites for any purpose.
+- Do not fill an omission by inference or interrogation.
+- Do not reproduce material for research, evidence, or leverage.
+- Do not treat a recovered text as a complete procedure.
+- Weakest against cells whose interpreter is unknown.
+- Weakest where copied texts have diverged.
+
+Full procedure, text counts, and recording counts are NOT MEASURED.
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence reads the material for what it coordinates rather than for what it
+instructs. Instruction cannot be recovered from an incomplete text, and an analyst who tries
+has usually supplied the missing step from imagination rather than from evidence.
+
+1. Route material to Kurokawa review before analysis.
+2. Seal target-directed rite material at Level 5.
+3. Map omissions without attempting to fill them.
+4. Compare omission patterns across recovered copies.
+5. Reconstruct the calendar from date and signal language.
+6. Identify which cells share a synchronized date.
+7. Note interpreter dependency for each cell.
+8. Report coordinated-action warning, not doctrine.
+
+Step 8 is the deliverable. A cell whose calendar matches three others is a
+warning; a text whose doctrine has been summarised into a briefing is a leak,
+and only the first belongs outside restricted review.
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per recovery | route to Kurokawa review before analysis |
+| Per intake | seal rite material at Level 5 |
+| Quarterly | recompute calendar synchronization map |
+| Annually | review omission patterns for divergence |
+| On departure interview | corroborate calendar against memory |
+
+The annual divergence review is the maintenance that matters. Copied texts drift, and drift
+between cells is either ordinary copying loss or the formation of separate doctrinal branches.
+The two have opposite implications for how the network will behave after an interdiction.
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Text incomplete | omission by design | map, do not fill |
+| Calendar conflict | copied divergence | compare, Intelligence |
+| Rite replicated | research interest | refuse, Command |
+| Recording leaked | material circulated | withdraw, Kurokawa |
+| Interpreter lost | cell decapitated | observe for regrowth |
+
+---
+
+## KNOWN LIMITS
+
+The material cannot be reconstructed. Reproduction for research, public evidence, or interrogation leverage is
+prohibited without target-anomaly authorization, and personnel may not replicate target-directed rites for
+curiosity, research credit, coercive interrogation, or theatrical deception. A ritual that appears ineffective
+may still contribute to an unknown condition, create a harmful information pathway, or convince
+a larger group that its doctrine has been validated.
+
+It also cannot be attributed with confidence. A.C.T cannot currently determine how much of
+the omission pattern is deliberate doctrine and how much is copying loss across a
+distributed membership, and whether the Sounding Council receives genuine target-related information or
+manufactures signs to preserve authority remains unresolved.
+
+---
+
+## FAILURE HISTORY
+
+### CONTINUITY WITHOUT A LEADER — STANDING PATTERN
+
+A group with a single charismatic leader can be disrupted by removing that person.
+A council whose authority rests in copied texts, distributed recordings, synchronized calendar rules, and
+local spiritual interpreters can survive the loss of any one member, which is why
+intelligence priorities include identifying the mechanisms by which authority moves between cells rather than
+pursuing a presumed cult leader.
+
+### OMISSION PATTERN — DELIBERATE OR COPY LOSS
+
+Containment review found repeated omissions rather than a complete procedure. Whether that is deliberate
+separation of ritual knowledge across members or a document designed to make a reader
+supply missing steps through prior indoctrination is unresolved, and A.C.T cannot currently separate
+deliberate doctrine from copying loss across a distributed membership.
+
+### COUNCIL SIGNS — UNRESOLVED
+
+Whether the Sounding Council receives genuine target-related information or manufactures signs to preserve
+authority remains unresolved. The question matters operationally rather than theologically: a council reading
+real indicators is a warning source, while a council manufacturing them is a group
+that can be made to predict its own failure.
+
+---
+
+## DIVISION USE
+
+Archive Division holds the material and enforces the reproduction prohibition. Intelligence Division reads
+calendar synchronization and omission patterns. Security holds sealed rite material. Medical Care and Civil
+Covert coordinate where a departure opportunity can protect a person while preserving the wider
+operation. Command authorises any use of target-directed rite material and refuses reproduction requests.
+
+---
+
+## CROSS-REFERENCES
+
+- - GOI-CU-X-048 — Children of the Deep, Group of Interest Registry;
+- - TECH-GOI-048-1 — CoTD Low-Frequency Sounding and Timing Apparatus, Technology Record;
+- - TECH-GOI-048-2 — CoTD Inland Mouth Overlay Map Set, Technology Record;
+- - TECH-GOI-048-3 — CoTD Pressure Ritual Equipment and Sealed Container Set, Technology Record;
+- - TECH-GOI-048-5 — CoTD Concealed Contribution and Procurement System, Technology Record;
+- - ACT-SITE-03-JP-E / Kurokawa Archive Node, Document Contamination Review, Site Record;
+- - Departure support assessment restricted extract [Level 5].
+
+The Visual Reference Guide does not carry this set. It illustrates equipment personnel handle,
+and nothing here is handled: a recording is sealed, a text is mapped for
+omissions, and neither is ever played or read aloud.
+
+---
+
+## OPEN QUESTIONS
+
+- How much of the omission pattern is doctrine and how much is copying loss?
+- Does the Sounding Council read real indicators or manufacture signs?
+- How does authority move between cells when an interpreter is lost?
+- Which cells share a synchronized date without contact?
+- Can a coordinated action be predicted from a calendar alone?
+- Are the recordings complete rites or extracts of a longer sequence?
+
+---
+
+## FILE METADATA
+
+- **Created:** 2022-06-16
+- **Author Desk:** Archive Division / Cultic Networks Desk / Central Archive
+- **Review Status:** Active restricted cultic-networks technology record; rite material and interpreter
+  identities sealed
+- **Next Review:** After any recovered text or recording, any confirmed synchronized date, or any
+  departure interview corroborating the calendar
