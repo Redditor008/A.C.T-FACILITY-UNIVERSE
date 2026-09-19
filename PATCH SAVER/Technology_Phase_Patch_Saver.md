@@ -4672,7 +4672,8 @@ only headers.
 **The new sweep then caught a defect already shipped two sets ago.** TECH-GOI-014-2 carried the row
 label Chains complete at recovery at 27 characters, wrapping the same way in its plain-text twin.
 Both twins were corrected to Chains completed with the box row collapsed from two lines back to one,
-and a regression sweep across 948 table rows in all five rebuilt sets now returns zero first-column
+and a regression sweep over every
+table row in all five rebuilt sets now returns zero first-column
 wraps. The earlier sets passed their own checks because those checks tested header rows and value
 presence in the markdown, not first-column fit in the box.
 
