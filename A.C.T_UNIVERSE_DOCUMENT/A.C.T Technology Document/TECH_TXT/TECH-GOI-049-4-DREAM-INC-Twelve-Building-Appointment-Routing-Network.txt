@@ -1,4 +1,5 @@
-TECH-GOI-049-4 - DREAM .INC TWELVE-BUILDING APPOINTMENT ROUTING NETWORK
+A.C.T FACILITY ARCHIVE FILE
+TECHNOLOGY RECORD - DREAM .INC TWELVE-BUILDING APPOINTMENT ROUTING NETWORK
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -7,88 +8,326 @@ TECH-GOI-049-4 - DREAM .INC TWELVE-BUILDING APPOINTMENT ROUTING NETWORK
 +----------------------------+---------------------------------------------------------------------------------------+
 | TECHNOLOGY NAME            | DREAM .INC Twelve-Building Appointment Routing Network                                |
 +----------------------------+---------------------------------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | DTBARN / Appointment Routing Network / Open Building Cover System                     |
+| SHORT NAME                 | DTBARN                                                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ORIGIN                     | DREAM .INC                                                                            |
+| TECHNOLOGY FAMILY          | ACQUIRED CORPORATE / DISTRIBUTED COVER ARCHITECTURE / ROUTE DENIABILITY               |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ACQUISITION STATUS         | Surveyed and infiltrated in part; location index restricted                           |
+| ORIGIN                     | DREAM .INC (GOI-CP-B-049) / PUBLIC AND CUSTODY BUILDING LAYERS                        |
 +----------------------------+---------------------------------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Corporate route mapping, product interdiction, building-function identification,      |
-|                            | covert containment planning                                                           |
+| PRIMARY CONTROLLER         | Intelligence Division / Civil Covert Division joint review authority                  |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ARCHIVE HANDLING           | DREAM .INC LOCATION RESTRICTED / CIVIL COVERT CONTROL                                 |
+| ATTACHED DIVISIONS         | Intelligence, Civil Covert, Recovery, Security, Medical Care, Command                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| OPERATIONAL STATUS         | SURVEYED AND PARTLY INFILTRATED / LOCATION INDEX RESTRICTED                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| RISK STATUS                | CONSUMER EXPOSURE ON ACTION / DECOY RISK / WARNING RISK ON PUBLIC CLOSURE             |
++----------------------------+---------------------------------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for corporate review; Level 5 for location index material                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Functional Identity
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Corporate-Exploitation Technology Record                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Intelligence / Recovery / Containment / Medical Care / Civil Covert / Command         |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Intelligence Division, Corporate Exploitation Desk, with Central Archive custody      |
++----------------------------+---------------------------------------------------------------------------------------+
 
-The DREAM .INC Twelve-Building Appointment Routing Network is the distributed corporate infrastructure that lets
-the
-company hide anomalous product movement inside ordinary open premises. The GOI dossier confirms at
-least twelve active
-company buildings. They are not abandoned shells. They receive deliveries, employ staff, maintain normal
-business
-hours, use appointment systems, and present lawful reasons for public entry. The shared link
-identified by A.C.T was
-not a single sign or executive name, but overlap in appointment routing, client confidentiality
-language, unusual
-after-hours delivery windows, product-adjacent payment handling, and employee movement between otherwise unrelated
-functions.
+Archive Note
+The network is catalogued as a routing architecture rather than a property list. A.C.T
+has confirmed at least twelve open buildings with direct or indirect links to DREAM
+.INC, and the number is a lower bound rather than a claim that the
+network ends at twelve. Each confirmed building is active enough to maintain an ordinary
+corporate appearance: they receive deliveries, employ staff, keep normal business hours, use appointment
+systems, and present lawful reasons for public entry.
 
-This file treats the network as an acquired technology system because A.C.T has not
-only mapped buildings; it has
-identified a repeatable routing architecture that protects source, machine, product, data, and customers by
-separating
-them across ordinary corporate surfaces. DREAM .INC's openness is the shield. A closed black
-site can be raided. A
-clean lobby with privacy paperwork and a plausible service can delay investigation long enough
-for product routes to
-move.
+The shared link was not a common sign, leaseholder, or public executive. It was
+an overlap in appointment routing, client confidentiality language, unusual after-hours delivery windows,
+product-adjacent payment handling, and employee movement between otherwise unrelated corporate functions. The
+network is therefore identified by behaviour, and behaviour is what has to be monitored.
 
-Operating Method
+Openness is the shield. A closed black site can be raided; a clean lobby
+with privacy paperwork and a plausible service can delay investigation long enough for product
+routes to move. The company has made the twelve-building condition strategically useful, converting
+distribution into plausible administration.
 
-The network divides knowledge. Public-facing staff may believe they work for wellness, recovery, consultancy,
-property, or sleep-support services. Couriers may move packages without knowing the source. Consultants may
-collect
-wishes without seeing the extraction apparatus. Technical personnel may maintain a restricted process without
-seeing
-consumers. Building managers may only protect local confidentiality rules. This compartmentation means a single
-arrest
-or search rarely exposes the whole system.
+Controlled label: **DREAM .INC BUILDING-ADDRESS PUBLICATION PROHIBITION**.
 
-Routing also creates deniability. If one building draws inquiry, it can be described as
-a local office. If two are
-connected, the company can claim normal expansion. If a product route is exposed, a
-service can pause at one site
-while other buildings remain open. The network converts distribution into administration.
+Core handling rule:
 
-A.C.T Handling Rules
+A PUBLISHED ADDRESS WARNS THE COMPANY AND ADVERTISES THE PRODUCT.
+NO CONFIRMED SITE IS DISCLOSED.
 
-Civil Covert and Intelligence must control any building action. Public closure of every known
-location may warn DREAM
-.INC before the source anomaly and extraction apparatus are located. Passive observation is also
-unacceptable if
-batches continue to reach consumers. A.C.T response must therefore map appointment systems, leases, supply
-routes,
-payment structures, staff roles, referral paths, data stores, and after-hours movement before deciding which
-node to
-contain first.
 
-Address lists remain restricted. Publishing even one confirmed site can create panic, attract desperate
-consumers, or
-reveal which buildings A.C.T has already identified. Building evidence must be cross-filed with product-batch
-custody,
-consumer-data control, and apparatus indicators.
+FUNCTION SUMMARY
 
-Failure and Open Questions
+The network separates source, machine, product, data, and customers across ordinary corporate surfaces so
+that no single employee can identify more than one of them. Public-facing staff may
+believe they work for a wellness, recovery, consultancy, property, or sleep-support service. Couriers move
+packages without knowing the source. Consultants collect wishes without seeing the apparatus. Technical
+personnel maintain a restricted process without seeing consumers.
 
-Known failure modes include misidentifying ordinary employees as source-layer operators, exposing consumers through a
-visible raid, closing a decoy building while the machine moves, or letting a public
-legal dispute become free
-advertising for Dream Nectar. A.C.T also risks overvaluing the number twelve. The confirmed buildings
-are a lower
-bound, not the complete footprint.
+That compartmentation produces deniability at three scales. If one building draws inquiry, it is
+described as a local office. If two are connected, the company claims normal expansion.
+If a product route is exposed, the relevant building stops offering a service while
+the wider brand remains open elsewhere. Each response is true, which is what makes
+it unusable as evidence.
 
-Unresolved questions include which buildings handle source-adjacent work, machine maintenance, product custody,
-consumer screening, data storage, courier staging, or ordinary cover activity. Archive confidence is High
-for the
-twelve-building minimum and Moderate for routing function. Specific node purpose remains incomplete.
+The consequence for A.C.T is that the network cannot be closed from the outside.
+Public closure of every known location may warn the company before the source anomaly
+and apparatus are located, and passive observation is equally unacceptable while batches continue to
+reach consumers. The response has to be sequenced rather than simultaneous.
+
+
+ORIGIN AND CUSTODY
+
+DREAM .INC is recorded at Threat Level 4, Nature Class CORPORATE, Alignment BUSINESS, Reach
+NATIONAL, Anomalous Capability ENGINEERING, and Secrecy Risk EXPOSURE-ACTIVE, under A.C.T posture INFILTRATE /
+CONTAIN / APPROPRIATE. Leadership is recorded as unresolved: local directors, product representatives, and
+legal contacts use non-overlapping identities and no public-facing personnel has supplied a reliable path
+to whoever controls the source and the machine.
+
+The twelve-building minimum was established by a coordinated review of publicly open company locations.
+The survey did not authorize immediate closure, because several locations hosted ordinary employees and
+clients who could not be assumed to know the product system. Intelligence Division maintained
+observation while Civil Covert prepared non-anomalous explanations for any later intervention.
+
+The location index is held by Intelligence Division and restricted at Level 5. Civil
+Covert Division and Intelligence jointly control any building action, and building evidence is cross-filed
+with product-batch custody, consumer-data control, and apparatus indicators rather than held as a site
+list.
+
+
+PHYSICAL OR SYSTEM DESCRIPTION
+
+The network is a routing architecture. Its known components are:
+
+- shared appointment routing pattern;
+- common client confidentiality language;
+- unusual after-hours delivery windows;
+- product-adjacent payment handling;
+- employee movement between unrelated functions;
+- customer-entry sites;
+- administrative and consultation sites;
+- suspected custody and data-handling sites;
+- courier staging points;
+- suspected decoy locations.
+
+Employee movement between otherwise unrelated corporate functions is the component that made the survey
+possible, and it is the one the company can most easily stop. Once staff
+rotation is recognised as an indicator, the network can be re-partitioned without closing a
+single building, which is why the index has to be refreshed rather than filed.
+
+
+TECHNICAL SPECIFICATION
+
+Figures are restated from the GOI-CP-B-049 dossier and from the open building survey. Values
+the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| ROUTING PARAMETER          | VALUE                                                                                 |
++============================+=======================================================================================+
+| Confirmed buildings        | at least twelve, lower bound                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Identification basis       | behavioural overlap, not signage                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Public status              | open, staffed, ordinary hours                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Deniability scales         | single site, linked pair, exposed route                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Address disclosure         | prohibited                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Closure sequencing         | Civil Covert and Intelligence joint                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Node function map          | incomplete                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Support locations          | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Source-building identity   | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Decoy count                | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+
+The confirmed buildings row is written as a lower bound on purpose. Overvaluing the
+number twelve is itself a failure mode: the count establishes a minimum on reach
+and a reason for continued infiltration, not a map.
+
+
+INTERFACE AND OPERATING ENVELOPE
+
+Network Assessment Controls
+
+- Civil Covert and Intelligence joint control
+- location index restricted at Level 5
+- building function classification before action
+- consumer exposure assessment before closure
+
+Network Readouts
+
+- appointment routing map
+- after-hours delivery pattern
+- staff movement record
+- node function classification
+
+Handling Limits And Weaknesses
+
+- Do not publish or leak any confirmed address.
+- Do not close every known location at once.
+- Do not treat ordinary employees as source-layer operators.
+- Do not let a public legal dispute become product advertising.
+- Weakest against buildings whose function has not been classified.
+- Weakest where the visible network is itself a decoy.
+
+Support locations, source building, and decoy count are NOT MEASURED.
+
+
+OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+The sequence maps before it acts and acts on one node at a time.
+Both rules come from the survey finding that the company's openness is an operational
+shield: an action that looks like a raid teaches the network how to be
+watched, and a network that has learned that stops rotating staff in observable ways.
+
+1. Classify each node's function before any action.
+2. Map appointment systems, leases, and payment structures.
+3. Record after-hours delivery windows per building.
+4. Trace staff movement between corporate functions.
+5. Cross-file with batch custody and apparatus indicators.
+6. Identify the node whose containment yields most route data.
+7. Prepare a non-anomalous surface explanation in advance.
+8. Report route architecture, not an address list.
+
+Step 6 is the discipline. Containing the most theatrical building satisfies the investigation and
+teaches the company nothing it did not know; containing the node that connects custody
+to handoff is the one that reduces product reaching consumers.
+
+
+SERVICING AND CALIBRATION
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Per new link               | classify node function before filing                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Per intake                 | restrict location material at Level 5                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | refresh the behavioural overlap index                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Annually                   | re-test whether twelve is still the lower bound                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Before action              | consumer exposure assessment                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+
+The quarterly refresh is the maintenance that matters. The index is behavioural, and behaviour
+changes faster than leases; an index maintained annually describes a network that no longer
+exists.
+
+
+FAULT ISOLATION
+
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Address leaked             | publication or breach                     | contain, Civil Covert                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Raid urged                 | theatrical site                           | refuse, sequence                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Staff misread              | ordinary employee                         | downgrade, observe                        |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Decoy closed               | visible node chosen                       | reassess, Intelligence                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Dispute public             | legal exposure                            | Civil Covert, contain                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+
+
+KNOWN LIMITS
+
+The network cannot be disclosed. Address lists remain restricted because publishing even one confirmed
+site can create panic, attract desperate consumers, reveal which buildings A.C.T has already identified,
+and potentially reveal where the source anomaly is not located. The prohibition protects consumers
+and the investigation in the same measure.
+
+It also cannot be mapped from the visible set. The company may maintain unconfirmed
+offices, courier nodes, data stores, product preparation rooms, or source sites outside the visible
+corporate network. Known failure modes include misidentifying ordinary employees as source-layer operators,
+exposing consumers through a visible raid, closing a decoy building while the machine moves,
+and letting a public legal dispute become free advertising for the product.
+
+
+FAILURE HISTORY
+
+OPEN BUILDING SURVEY — BEHAVIOURAL OVERLAP
+
+A coordinated review established twelve buildings with direct or indirect links to DREAM .INC.
+The shared link was not a common sign, leaseholder, or public executive but an
+overlap in appointment routing, client confidentiality language, unusual after-hours delivery windows,
+product-adjacent payment handling, and employee movement between otherwise unrelated functions. The review is
+the origin of the behavioural index.
+
+PUBLIC CLOSURE AS WARNING — STANDING RISK
+
+Public closure of every known location may warn DREAM .INC before the source anomaly
+and extraction apparatus are located. The risk is standing rather than incident-specific, which is
+why the response is sequenced and why passive observation is not treated as the
+safe default while batches still reach consumers.
+
+BUILDING FUNCTION MAP — INCOMPLETE
+
+Which buildings handle source-adjacent work, machine maintenance, product custody, consumer screening, data
+storage, courier staging, or ordinary cover activity remains incomplete. Archive confidence is High for
+the twelve-building minimum and Moderate for routing function; specific node purpose is the gap.
+
+
+DIVISION USE
+
+Intelligence Division holds the location index and reads behavioural overlap. Civil Covert Division prepares
+surface explanations and controls consumer exposure. Recovery Division executes containment on a sequenced
+node. Security holds index material. Medical Care assesses consumer risk where a building is
+closed while clients are present. Command authorises any building action and holds the disclosure
+prohibition.
+
+
+CROSS-REFERENCES
+
+- - GOI-CP-B-049 — DREAM .INC, Group of Interest Registry;
+- - TECH-GOI-049-1 — DREAM .INC Dream Nectar Extraction Apparatus, Technology Record;
+- - TECH-GOI-049-2 — DREAM .INC Dream Nectar Sealed Batch System, Technology Record;
+- - TECH-GOI-049-3 — DREAM .INC Wish Intake and Confidential Report System, Technology Record;
+- - TECH-GOI-049-5 — DREAM .INC Quiet Machine Condition Indicator System, Technology Record;
+- - TECH-GOI-001-3 — GAA Civil Continuity Cover Mechanism Set, Technology Record;
+- - Open building survey restricted extract [Level 5].
+
+The GAA cover mechanism set is cited as the mirror case. Both hide an
+operation inside ordinary civil infrastructure, but that set is issued by an authority answerable
+for what it conceals, while this network conceals a product chain from the people
+standing in its lobby.
+
+
+OPEN QUESTIONS
+
+- Which buildings handle source-adjacent work or machine maintenance?
+- How many support locations exist beyond the confirmed twelve?
+- Which confirmed buildings are decoys?
+- What event would force the company to abandon open buildings entirely?
+- Can a node be contained without warning the rest of the network?
+- Do the buildings share a leaseholder pattern A.C.T has not yet read?
+
+
+FILE METADATA
+
+- **Created:** 2021-10-05
+- **Author Desk:** Intelligence Division / Civil Covert Division / Central Archive
+- **Review Status:** Active restricted corporate-exploitation technology record; all building addresses and the
+location index sealed
+- **Next Review:** After any newly linked building, any node closure, or any confirmed change
+in the twelve-building minimum

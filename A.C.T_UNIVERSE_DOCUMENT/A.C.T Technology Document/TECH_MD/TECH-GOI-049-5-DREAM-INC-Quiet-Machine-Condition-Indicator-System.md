@@ -1,81 +1,303 @@
-# TECH-GOI-049-5 - DREAM .INC QUIET MACHINE CONDITION INDICATOR SYSTEM
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - DREAM .INC QUIET MACHINE CONDITION INDICATOR SYSTEM
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | TECHNOLOGY DESIGNATION | TECH-GOI-049-5 |
 | TECHNOLOGY NAME | DREAM .INC Quiet Machine Condition Indicator System |
-| COMMON ABBREVIATIONS | DQMCIS / Quiet Machine Indicator / Maintenance Condition Signal |
-| ORIGIN | DREAM .INC |
-| ACQUISITION STATUS | Internal communication recovered; indicator model under Intelligence review |
-| PRIMARY A.C.T INTEREST | Apparatus-state warning, product scarcity interpretation, source anomaly risk detection, intervention timing |
-| ARCHIVE HANDLING | DREAM .INC MACHINE-STATE RESTRICTED / INTELLIGENCE-CONTAINMENT JOINT REVIEW |
+| SHORT NAME | DQMCIS |
+| TECHNOLOGY FAMILY | ACQUIRED CORPORATE / MACHINE-STATE SIGNAL / BEHAVIOURAL INDICATOR MODEL |
+| ORIGIN | DREAM .INC (GOI-CP-B-049) / CROSS-LAYER INTERNAL COMMUNICATION |
+| PRIMARY CONTROLLER | Intelligence Division / Containment Division joint review authority |
+| ATTACHED DIVISIONS | Intelligence, Containment, Recovery, Archive, Security, Command |
+| OPERATIONAL STATUS | NOT HELD / ONE INTERNAL COMMUNICATION RECOVERED, MODEL UNDER REVIEW |
+| RISK STATUS | SOURCE DISTRESS WARNING / FALSE CONFIDENCE / MARKETING DECEPTION RISK |
+| CLEARANCE REQUIRED | Level 4 for corporate review; Level 5 for machine-state material |
 
-## Functional Identity
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Corporate-Exploitation Technology Record |
+| DISTRIBUTION | Intelligence / Recovery / Containment / Medical Care / Civil Covert / Command |
+| AUTHORITY | Intelligence Division, Corporate Exploitation Desk, with Central Archive custody |
 
-The DREAM .INC Quiet Machine Condition Indicator System is A.C.T's designation for the business-facing
-warning pattern
-that appears when the Dream Nectar Extraction Apparatus enters an abnormal or restricted maintenance
-state. The GOI
-dossier records an internal company communication referencing an interruption described only as a quiet
-machine
-condition. The message directed selected staff to delay appointments, reclassify client reports, and avoid
-accepting
-certain wishes until an unspecified correction had been completed. No public building announced a
-closure.
+#### Archive Note
+The system is catalogued because it is the only readable output of a machine
+A.C.T cannot see. An internal company communication referenced an interruption described only as a
+quiet machine condition. The message directed selected staff to delay appointments, reclassify client reports,
+and avoid accepting certain wishes until an unspecified correction had been completed. No public
+building announced a closure.
 
-This system may not be a single device. It may be a maintenance protocol,
-alert phrase, internal category, staff
-instruction packet, dashboard warning, or human rumor designed to communicate machine instability without revealing
-the apparatus location. A.C.T classifies it as a technology record because it translates anomalous-machine
-condition
-into corporate behavior. If properly understood, it can warn A.C.T that the source anomaly,
-extraction apparatus,
-product output, or consumer dream effect is changing before a visible incident occurs.
+This may not be a single device. It may be a maintenance protocol, an
+alert phrase, an internal category, a staff instruction packet, a dashboard warning, or a
+human rumour designed to communicate machine instability without revealing the apparatus location. A.C.T
+classifies it as a technology record because it translates anomalous-machine condition into corporate
+behaviour, and corporate behaviour is observable from outside.
 
-## Observable Indicators
+Understood properly, the system is an early warning. It can indicate that the source
+anomaly, the extraction apparatus, product output, or consumer dream effect is changing before a
+visible incident occurs. Understood carelessly, it produces false confidence, because the same phrase covers
+routine maintenance, emergency source distress, product contamination, and deliberate deception.
 
-Known indicators include delayed appointments, altered product claims, batch scarcity, sudden refusal of certain
-wish
-categories, urgent collection of dream reports, and reclassification of consumer testimony. The refusal of
-certain
-wishes is especially important. It implies that not all desires are equal to the
-machine during a quiet condition.
-Some wishes may produce unstable output, harm the source, expose the company's limits, or
-call attention from
-something inside the dream process.
+Controlled label: **DREAM .INC QUIET-CONDITION PHRASE PRESERVATION RULE**.
 
-The system also reveals compartmentation. Selected staff were told how to alter business behavior,
-but the
-communication did not reveal the apparatus location. This means DREAM .INC can protect machine
-secrecy while still
-coordinating multiple open buildings. A.C.T should assume that employees who enforce quiet-condition restrictions may
-not know why the restrictions exist.
+Core handling rule:
 
-## A.C.T Handling Rules
+```text
+DO NOT REWRITE A QUIET-CONDITION MESSAGE INTO ORDINARY MAINTENANCE LANGUAGE.
+THE PHRASING IS THE SIGNAL.
+```
 
-When quiet-machine indicators appear, A.C.T must not rush directly to public closure unless active
-harm is underway.
-The indicator may mark the best opportunity to locate source-adjacent personnel, maintenance couriers, replacement
-parts, data reclassification orders, or emergency executive communication. Intelligence should correlate appointment
-changes, batch movement, consumer complaint language, after-hours deliveries, and building-to-building staff travel.
+---
 
-Recovered messages using quiet-condition language must be preserved in original form. Rewriting them into
-ordinary
-maintenance summaries may destroy phrasing that identifies machine state. Site 03 should review whether
-the phrase
-itself carries dream, memory, or wish-trigger effects before mass analyst distribution.
+## FUNCTION SUMMARY
 
-## Failure and Open Questions
+The system signals machine state through business conduct rather than through instrumentation. Delayed
+appointments, altered product claims, batch scarcity, sudden refusal of certain wish categories, urgent
+collection of dream reports, and reclassification of consumer testimony are all readable without entering
+a building, and all of them are things a company does to its customers
+rather than to its equipment.
 
-The strongest risk is false confidence. A quiet machine condition may indicate routine maintenance,
-emergency source
-distress, product contamination, or deliberate deception. DREAM .INC could also create false scarcity to
-increase
-demand. A.C.T must distinguish a marketing shortage from a source failure before acting.
+The refusal of certain wishes is the indicator that matters most. It implies that
+not all desires are equal to the machine during a quiet condition, and that
+some wishes produce unstable output, harm the source, expose the company's limits, or attract
+attention from somewhere inside the dream process. A maintenance protocol that screens input by
+content is not maintaining hardware.
 
-Open questions include who can declare a quiet machine condition, how corrections are performed,
-why certain wishes
-become unacceptable, whether consumer reports reveal machine recovery, and whether the source anomaly becomes
-more
-aware during interruption. Archive confidence is High that at least one quiet-condition communication occurred,
-Moderate that it reflects apparatus state, and Low regarding the underlying technical cause.
+The system also demonstrates compartmentation under stress. Selected staff were told how to alter
+business behaviour, but the communication did not reveal the apparatus location, so employees who
+enforce quiet-condition restrictions may not know why they exist. The company can protect machine
+secrecy while still coordinating multiple open buildings.
+
+---
+
+## ORIGIN AND CUSTODY
+
+DREAM .INC is recorded at Threat Level 4, Nature Class CORPORATE, Alignment BUSINESS, Reach
+NATIONAL, Anomalous Capability ENGINEERING, and Secrecy Risk EXPOSURE-ACTIVE, under A.C.T posture INFILTRATE /
+CONTAIN / APPROPRIATE. Leadership is recorded as unresolved: local directors, product representatives, and
+legal contacts use non-overlapping identities and no public-facing personnel has supplied a reliable path
+to whoever controls the source and the machine.
+
+One internal company communication has been recovered. The indicator model built on it is
+under Intelligence review, and no second communication has been confirmed. The evidence base is
+therefore a single message and the business behaviour observed around the period it describes.
+
+Intelligence Division and Containment Division review jointly, and machine-state material is restricted at
+Level 5. Recovered messages are preserved in original form; ACT-SITE-03 review is required to
+establish whether the phrase itself carries dream, memory, or wish-trigger effects before any mass
+analyst distribution.
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+The system may be procedural, textual, or instrumental. Known components are:
+
+- quiet machine condition phrase;
+- appointment delay instruction;
+- client report reclassification order;
+- wish category refusal list;
+- correction or calibration reference;
+- selected-staff distribution;
+- batch scarcity signal;
+- urgent dream report collection;
+- altered product claim language;
+- unresolved declaration authority.
+
+Unresolved declaration authority is the component that determines whether the signal is reliable at
+all. If anyone in the company can declare a quiet condition, the phrase carries
+little information; if only one layer can, its appearance is a specific event. A.C.T
+cannot currently distinguish the two.
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Figures are restated from the GOI-CP-B-049 dossier and from the recovered communication. Values the
+archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+| INDICATOR PARAMETER | VALUE |
+|---|---|
+| Signal medium | internal communication and business conduct |
+| Device status | may not be a device at all |
+| Appointment effect | delays directed |
+| Report effect | reclassification ordered |
+| Wish effect | certain categories refused |
+| Closure announced | no |
+| Apparatus location | not revealed |
+| Communications recovered | one confirmed |
+| Declaration authority | NOT MEASURED |
+| Underlying cause | NOT MEASURED |
+
+The device status row is the reason this record is written conditionally throughout. An
+indicator system that is only a phrase behaves differently under interdiction from one backed
+by instrumentation, and A.C.T cannot yet tell which it is dealing with.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Indicator Assessment Controls
+
+- Intelligence and Containment joint review
+- Level 5 restriction on machine-state material
+- Site 03 trigger-effect review before distribution
+- original-form message preservation
+
+### Indicator Readouts
+
+- business behaviour correlation set
+- wish refusal category record
+- batch movement comparison
+- after-hours delivery and staff travel note
+
+### Handling Limits And Weaknesses
+
+- Do not rewrite quiet-condition language into ordinary maintenance terms.
+- Do not move to public closure on an indicator alone.
+- Do not distribute message text before Site 03 review.
+- Do not treat scarcity as evidence of source failure.
+- Weakest against a single recovered communication.
+- Weakest where marketing scarcity mimics the pattern.
+
+Declaration authority and underlying cause are NOT MEASURED.
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence treats an indicator as an opportunity rather than as an alarm. A
+quiet condition is the moment when the company has to move maintenance personnel, replacement
+parts, and emergency communication, which is when a machine that has never been located
+becomes briefly traceable.
+
+1. Preserve the message in original form.
+2. Route the phrase to Site 03 trigger review.
+3. Correlate appointment changes across buildings.
+4. Compare batch movement against scarcity claims.
+5. Record refused wish categories verbatim.
+6. Watch for maintenance couriers and replacement parts.
+7. Trace after-hours deliveries and staff travel.
+8. Report machine-state change, not the phrase.
+
+Step 6 is the discipline. The indicator is worth more as a locator than
+as a warning, because A.C.T already knows the machine is unstable; what it does
+not know is where the machine is, and a quiet condition is the only
+time the company has to send someone there.
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per message | preserve original form, restrict at Level 5 |
+| Per intake | route phrase to Site 03 review |
+| Quarterly | compare indicators across buildings |
+| Annually | re-test the model against observed behaviour |
+| On refusal order | record wish categories verbatim |
+
+The annual re-test is the maintenance that matters. The model rests on one recovered
+communication, and an indicator model that is never re-tested against new behaviour eventually describes
+the message it was built from rather than the company.
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Scarcity only | marketing shortage | observe, do not escalate |
+| Refusal plus delay | possible source distress | Level 5, correlate |
+| Message rewritten | summary circulated | recover original |
+| Phrase distributed | trigger risk | withdraw, Site 03 |
+| Closure urged | alarm reading | refuse, sequence |
+
+---
+
+## KNOWN LIMITS
+
+The signal cannot be trusted on its own. A quiet machine condition may indicate
+routine maintenance, emergency source distress, product contamination, or deliberate deception, and DREAM .INC
+could create false scarcity to increase demand. A.C.T must distinguish a marketing shortage from
+a source failure before acting, and the distinction cannot be made from the phrase
+alone.
+
+It also cannot be paraphrased. Recovered messages using quiet-condition language must be preserved in
+original form, because rewriting them into ordinary maintenance summaries may destroy phrasing that identifies
+machine state. Whether the phrase itself carries dream, memory, or wish-trigger effects is unresolved
+and is why distribution is gated behind Site 03 review.
+
+---
+
+## FAILURE HISTORY
+
+### QUIET MACHINE CONDITION — ORIGINAL COMMUNICATION
+
+An internal company communication referenced an interruption described only as a quiet machine condition,
+directing selected staff to delay appointments, reclassify client reports, and avoid accepting certain wishes
+until an unspecified correction had been completed. No public building announced a closure. The
+message established that machine condition can alter consumer-facing business behaviour.
+
+### MARKETING SCARCITY VERSUS SOURCE FAILURE — UNRESOLVED
+
+The strongest risk is false confidence. Scarcity, delay, and altered claims are all commercial
+tools the company uses routinely, so the same observable pattern can be produced deliberately.
+A.C.T cannot currently separate a manufactured shortage from a failing source without corroborating movement
+data.
+
+### DECLARATION AUTHORITY — UNRESOLVED
+
+Who can declare a quiet machine condition, how corrections are performed, and why certain
+wishes become unacceptable are all unresolved. Archive confidence is High that at least one
+quiet-condition communication occurred, Moderate that it reflects apparatus state, and Low regarding the
+underlying technical cause.
+
+---
+
+## DIVISION USE
+
+Intelligence Division holds the record and correlates business behaviour across buildings. Containment
+Division reads the indicator as source-risk warning and holds escalation. Recovery Division tracks maintenance
+couriers and replacement parts during a quiet period. Archive preserves original messages and refuses
+paraphrase. Security holds Level 5 material. Command decides whether an indicator justifies action.
+
+---
+
+## CROSS-REFERENCES
+
+- - GOI-CP-B-049 — DREAM .INC, Group of Interest Registry;
+- - TECH-GOI-049-1 — DREAM .INC Dream Nectar Extraction Apparatus, Technology Record;
+- - TECH-GOI-049-2 — DREAM .INC Dream Nectar Sealed Batch System, Technology Record;
+- - TECH-GOI-049-3 — DREAM .INC Wish Intake and Confidential Report System, Technology Record;
+- - TECH-GOI-049-4 — DREAM .INC Twelve-Building Appointment Routing Network, Technology Record;
+- - TECH-GOI-001-4 — GAA Compartmented Awareness and Document-Routing Channel, Technology Record;
+- - ACT-SITE-03-JP-E / Kurokawa Archive Node, Document Contamination Review, Site Record;
+
+The compartmented awareness system is cited because both let an organisation act on information
+its members cannot explain. That set is designed to protect a Facility operation; this
+one protects a machine from the people who keep it running.
+
+---
+
+## OPEN QUESTIONS
+
+- Who can declare a quiet machine condition?
+- How are corrections performed, and by whom?
+- Why do certain wishes become unacceptable during a quiet condition?
+- Do consumer reports reveal machine recovery before appointments resume?
+- Does the source anomaly become more aware during an interruption?
+- Can the phrase itself act as a dream or wish trigger?
+
+---
+
+## FILE METADATA
+
+- **Created:** 2025-06-11
+- **Author Desk:** Intelligence Division / Containment Division / Central Archive
+- **Review Status:** Active restricted corporate-exploitation technology record; original messages preserved and
+  machine location sealed
+- **Next Review:** After any further quiet-condition communication, any confirmed declaration authority, or any
+  correlated source-anomaly change

@@ -4627,3 +4627,62 @@ records each: 049, 050, 051, 052, 053, 055. Separately, the full dossiers that d
 retrofit chapters are GOI sets 054, 056, 071.
 
 **Next action.** Rebuild the TECH-GOI-049 set, DREAM INC.
+
+## Prompt Log — 2026-09-19 20:46 UTC
+
+**TECH-GOI-049, DREAM .INC, rebuilt.** The five records move from four-chapter summaries of 590 to
+654 words each to full dossiers of 2015 to 2155 words across 14 chapters, on the house shape used
+for GOI-001, GOI-014, GOI-027, and GOI-048. Every fact in the old records survives: the quiet
+machine condition communication, the batch recovery and its wellness insert, the twelve-building
+survey and its behavioural overlap, the wish intake and confidential report pairing, the consumption
+prohibition, and the three red lines.
+
+**The redaction held and was screened rather than assumed.** The source anomaly is written
+throughout as the [REDACTED] Dream-Type Anomaly or the source anomaly, and a scripted screen ran all
+ten files against a list of likely entity names and returned nothing. The old stub's O5-level
+approval wording was also restated as a Command-level approval at Level 5, matching the clearance
+language used across the rebuilt sets; no O5 reference remains in the new files.
+
+**Each record carries its own argument, and no two share a thesis.** The apparatus record holds that
+the machine may not be a tap: if it regulates the source while drawing from it, then it is part of
+the containment condition, and removing it would end a state rather than restore one. The batch
+record holds that scarcity does double duty as safety measure and sales device, so it cannot be read
+as evidence of either, and that the insert telling users to avoid clinicians is part of the dose
+technology.
+
+**The intake record is as much about Facility conduct as about the company's.** The consultation
+that appears to offer care collects the details that make the later dream feel personally accurate,
+and the primary failure mode is secondary exploitation by A.C.T or another actor rather than
+corporate misuse, which is why the handling rules make Facility access narrower than the company's.
+An annual access audit is specified for exactly that reason.
+
+**The building record holds that openness is the shield, and the indicator record holds that the
+phrase is the signal.** A clean lobby with privacy paperwork delays investigation long enough for
+routes to move, so the response must be sequenced rather than simultaneous. And a quiet condition is
+worth more as a locator than as a warning, because A.C.T already knows the machine is unstable and a
+quiet period is the only time the company has to send someone to it.
+
+**Two real defects were found and fixed, and both were in documents rather than in the tooling.**
+The fifth new record used the row label Apparatus location revealed, 27 characters against a
+26-character plain-text box field, so the label wrapped onto a second box line and the interleaved
+value column made the row unreadable in the twin; it was shortened to Apparatus location with the
+value not revealed. The builder now raises before writing if any first-column cell would wrap, not
+only headers.
+
+**The new sweep then caught a defect already shipped two sets ago.** TECH-GOI-014-2 carried the row
+label Chains complete at recovery at 27 characters, wrapping the same way in its plain-text twin.
+Both twins were corrected to Chains completed with the box row collapsed from two lines back to one,
+and a regression sweep across 948 table rows in all five rebuilt sets now returns zero first-column
+wraps. The earlier sets passed their own checks because those checks tested header rows and value
+presence in the markdown, not first-column fit in the box.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, CONFLICT 0, multiH1 0,
+odd-fence 0, md-with-box 0, glued separator lines 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204,
+GOI_MD 34 = GOI_TXT 34, widest box line 118, date-rule violations 0, twin date mismatches 0,
+truncated registry cells 0 across 6113 shared-label rows, git diff --check rc=0.
+
+**Remaining GOI technology backlog.** Five stub sets remain on the old four-chapter shape, five
+records each: 050, 051, 052, 053, 055. Separately, the full dossiers that do not yet carry the
+retrofit chapters are GOI sets 054, 056, 071.
+
+**Next action.** Rebuild the TECH-GOI-050 set, Liberty Freedoms.

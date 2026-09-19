@@ -1,85 +1,307 @@
-# TECH-GOI-049-3 - DREAM .INC WISH INTAKE AND CONFIDENTIAL REPORT SYSTEM
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - DREAM .INC WISH INTAKE AND CONFIDENTIAL REPORT SYSTEM
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | TECHNOLOGY DESIGNATION | TECH-GOI-049-3 |
 | TECHNOLOGY NAME | DREAM .INC Wish Intake and Confidential Report System |
-| COMMON ABBREVIATIONS | DWICRS / Wish Intake / Confidential Dream Report System |
-| ORIGIN | DREAM .INC |
-| ACQUISITION STATUS | Infiltration target; partial consumer-report intelligence and handling rules in A.C.T custody |
-| PRIMARY A.C.T INTEREST | Consumer protection, dream-trigger control, data exploitation prevention, wish-pattern intelligence |
-| ARCHIVE HANDLING | DREAM .INC CONSUMER DATA RESTRICTED / MEDICAL-PRIVACY CONTROL |
+| SHORT NAME | DWICRS |
+| TECHNOLOGY FAMILY | ACQUIRED CORPORATE / CONSUMER DATA SYSTEM / POSSIBLE MACHINE INTERFACE |
+| ORIGIN | DREAM .INC (GOI-CP-B-049) / RESTRICTED CONSULTATION LAYER |
+| PRIMARY CONTROLLER | Intelligence Division / Corporate Exploitation Desk |
+| ATTACHED DIVISIONS | Intelligence, Medical Care, Civil Covert, Security, Archive, Command |
+| OPERATIONAL STATUS | NOT HELD / INFILTRATION TARGET, PARTIAL REPORT INTELLIGENCE IN CUSTODY |
+| RISK STATUS | CONSUMER VULNERABILITY / SECONDARY EXPLOITATION / TRIGGER-PHRASE HAZARD |
+| CLEARANCE REQUIRED | Level 4 for corporate review; Level 5 for consumer wish data |
 
-## Functional Identity
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Corporate-Exploitation Technology Record |
+| DISTRIBUTION | Intelligence / Recovery / Containment / Medical Care / Civil Covert / Command |
+| AUTHORITY | Intelligence Division, Corporate Exploitation Desk, with Central Archive custody |
 
-The DREAM .INC Wish Intake and Confidential Report System is the corporate data-and-consultation process
-that gathers,
-protects, weaponizes, and studies consumer wishes before and after Dream Nectar use. The GOI
-dossier identifies
-customer screening, appointment, payment, confidential-report systems, consumer dream reports, and sensitive personal
-data as core assets. It also warns that a wish report can reveal grief,
-fear, dependency, financial pressure,
-relationship conflict, trauma, medical need, and the reason a person may agree to a
-second transaction.
-
-This is treated as technology because it is a repeatable information system supporting anomalous
-product function. The
-system may be mundane software, trained consultation practice, controlled language, or an interface between
-consumer
-data and the extraction apparatus. A.C.T has not determined whether consumer wishes guide the
-product, feed the
+#### Archive Note
+The system is catalogued because it may be a technical component rather than a
+records process. A.C.T has not determined whether consumer wishes guide the product, feed the
 machine, alter the source anomaly, or merely help DREAM .INC claim successful dream fulfillment.
-Until that question
-is answered, intake records are handled as possible technical components rather than ordinary customer
-files.
+Until that question is answered, intake records are handled as possible technical components rather
+than ordinary customer files.
 
-## Operating Method
+The consultation is where the ambiguity is produced. A prospective customer enters through a
+normal building, speaks with a private consultant, completes an apparently confidential discussion, receives a
+suggested product route, and is warned not to discuss the experience with ordinary medical
+staff. The same conversation that appears to offer care collects the exact details needed
+to make a later dream feel personally accurate.
 
-A prospective customer may enter through a normal building, speak with a private consultant,
-complete an apparently
-confidential discussion, receive a suggested product route, and be warned not to discuss the
-experience with ordinary
-medical staff. The same conversation that appears to offer care may collect the exact
-details needed to shape a later
-dream. If the dream feels personally accurate, the consumer may credit the Nectar instead
-of noticing how much of the
-wish was already disclosed.
+If the dream then feels accurate, the consumer credits the substance rather than noticing
+how much of the wish was already disclosed. That inversion is the system's product:
+not the dream, but the consumer's inability to attribute it correctly, which is what
+makes a second purchase feel like their own idea.
 
-The confidential report after use is equally dangerous. DREAM .INC can sort which dreams
-felt successful, which
-consumers became dependent, which wishes should be avoided, and which batch conditions produced unusual
-aftereffects.
-Internal communication ordering staff to reclassify client reports during a quiet machine condition proves
-that report
-categories can change when machine state changes.
+Controlled label: **DREAM .INC WISH-DATA COLLECTION LIMIT**.
 
-## A.C.T Handling Rules
+Core handling rule:
 
-A.C.T must not compel exposed consumers to recount wish-directed dreams in front of unnecessary
-personnel. Dream
-reports are medical, psychological, intelligence, and privacy-sensitive material. Collection must be narrow,
-protected, and justified by containment need. Analysts must separate consumer vulnerability from corporate
-culpability. A desperate customer is not automatically GOI staff.
+```text
+A WISH REPORT IS MEDICAL, PSYCHOLOGICAL, AND PRIVACY MATERIAL.
+COLLECT WHAT CONTAINMENT REQUIRES AND NOTHING MORE.
+```
 
-Recovered databases, paper forms, call notes, appointment recordings, and report summaries must be quarantined
-from
-ordinary case-management systems. Some words, wish phrasings, or repeated dream descriptions may act as
-product
-triggers or dependency reinforcement. Site 03 review is required before broad text analysis.
+---
 
-## Failure and Open Questions
+## FUNCTION SUMMARY
+
+The system gathers, protects, and studies consumer wishes on both sides of the transaction.
+Intake collects the wish before use; the confidential report collects the dream after it.
+Between them the company holds a paired record of what a person wanted and
+what they experienced, which is more information about a stranger than most institutions ever
+lawfully obtain.
+
+The post-use report is the more dangerous half. It lets the company sort which
+dreams felt successful, which consumers became dependent, which wishes should be avoided, and which
+batch conditions produced unusual aftereffects. Internal communication ordering staff to reclassify client
+reports during a quiet machine condition demonstrates that report categories move when machine state
+moves.
+
+The consequence for A.C.T is that this record is as much about Facility conduct
+as about the company's. The primary failure mode is not corporate misuse but secondary
+exploitation by A.C.T or another actor, and the handling rules are written to make
+the Facility's own access narrower than the company's.
+
+---
+
+## ORIGIN AND CUSTODY
+
+DREAM .INC is recorded at Threat Level 4, Nature Class CORPORATE, Alignment BUSINESS, Reach
+NATIONAL, Anomalous Capability ENGINEERING, and Secrecy Risk EXPOSURE-ACTIVE, under A.C.T posture INFILTRATE /
+CONTAIN / APPROPRIATE. Leadership is recorded as unresolved: local directors, product representatives, and
+legal contacts use non-overlapping identities and no public-facing personnel has supplied a reliable path
+to whoever controls the source and the machine.
+
+No database is held. Partial consumer-report intelligence and handling rules are in custody, obtained
+through infiltration and protected interviews. Material arrives as recovered databases, paper forms, call
+notes, appointment recordings, and report summaries, and all of it is quarantined from ordinary
+case-management systems on intake.
+
+The Corporate Exploitation Desk holds the record, Medical Care Division holds the clinical reading,
+and consumer wish data is restricted at Level 5. ACT-SITE-03 review is required before
+any broad text analysis, because some wish phrasings or repeated dream descriptions may act
+as product triggers or dependency reinforcement.
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+The system may be mundane software, trained consultation practice, controlled language, or an interface
+between consumer data and the extraction apparatus. Known components are:
+
+- appointment and screening process;
+- private consultation script;
+- confidentiality pressure language;
+- wish intake form or recording;
+- payment routing record;
+- post-use confidential report;
+- dream description transcript;
+- report classification categories;
+- reclassification orders;
+- returning-consumer identification.
+
+Reclassification orders are the component that links this record to the machine. A records
+system does not normally change its categories because a device is being serviced; this
+one does, which is the strongest available evidence that the intake system and the
+apparatus are not independent.
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Figures are restated from the GOI-CP-B-049 dossier and from protected consumer interviews. Values the
+archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+| INTAKE PARAMETER | VALUE |
+|---|---|
+| Collection point | consultation before use |
+| Report point | confidential report after use |
+| Paired record | wish and outcome together |
+| Machine interface | not established |
+| Report categories | reclassified during quiet condition |
+| Trigger-phrase risk | assessed, Site 03 review required |
+| A.C.T collection limit | containment need only |
+| Databases held | NOT MEASURED |
+| Consumer count | NOT MEASURED |
+| Prediction accuracy | NOT MEASURED |
+
+The machine interface row is the record's central unknown and the reason its handling
+class is stricter than an ordinary customer file would justify. If wishes feed the
+process, then an intake transcript is not documentation of the anomaly but part of
+its input.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Intake Assessment Controls
+
+- Level 5 restriction on all wish data
+- quarantine from case-management systems
+- Site 03 review before text analysis
+- Medical Care privacy clearance
+
+### Intake Readouts
+
+- wish-pattern inventory without content
+- refusal category record
+- dependency indicator list
+- report reclassification note
+
+### Handling Limits And Weaknesses
+
+- Do not compel an exposed person to recount a dream before unnecessary staff.
+- Do not circulate wish content outside Level 5.
+- Do not analyse intake text before Site 03 review.
+- Do not treat a desperate customer as GOI staff.
+- Weakest against records whose trigger potential is unknown.
+- Weakest where a consumer refuses further contact.
+
+Database count, consumer count, and prediction accuracy are NOT MEASURED.
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence narrows Facility access before it analyses anything. That order is the whole
+point of the record: the company's advantage is holding paired wish and outcome data,
+and an investigation that copies the same structure has reproduced the harm it was
+sent to stop.
+
+1. Restrict all recovered wish data at Level 5 on intake.
+2. Quarantine it from ordinary case-management systems.
+3. Route text to Site 03 review before any broad analysis.
+4. Record wish patterns without recording wish content.
+5. Note refusal categories and reclassification orders.
+6. Separate consumer vulnerability from corporate culpability.
+7. Limit any consumer interview to containment need.
+8. Report pattern and risk, never a wish.
+
+Step 8 is the discipline. A wish pattern tells Intelligence where the company is
+vulnerable; a wish tells it what a grieving person asked for, and the second
+belongs in no report at any clearance.
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per recovery | restrict and quarantine before analysis |
+| Per intake | route text to Site 03 review |
+| Quarterly | review wish patterns for company targeting shifts |
+| Annually | audit Facility access against collection limit |
+| On consumer interview | Medical Care present, privacy control |
+
+The annual access audit is the maintenance that matters. A collection limit that is
+never audited becomes a collection habit, and the Facility ends up holding the paired
+record it wrote this record to prevent.
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Wish quoted in report | content circulated | strike, restrict |
+| Analyst affected | trigger phrasing | withdraw, Medical |
+| Consumer re-contacted | interview exceeded | stop, Command |
+| Record in case file | quarantine bypassed | extract, Security |
+| Category changed | quiet condition | correlate, Intelligence |
+
+---
+
+## KNOWN LIMITS
+
+The system cannot be compelled. A.C.T may not compel an exposed person to recount
+a wish-directed dream in front of unnecessary personnel. Dream reports are medical, psychological,
+intelligence, and privacy-sensitive material, and collection must be limited to what is necessary for
+containment. Analysts must separate consumer vulnerability from corporate culpability, because a desperate
+customer is not automatically GOI staff.
+
+It also cannot be read safely in bulk. Recovered databases, paper forms, call notes,
+appointment recordings, and report summaries must be quarantined from ordinary case-management systems, and
+some words, wish phrasings, or repeated dream descriptions may act as product triggers or
+dependency reinforcement. Whether consumer reports can contaminate other readers with desire for the product
+is unresolved.
+
+---
+
+## FAILURE HISTORY
+
+### SECONDARY EXPLOITATION — WISH DATABASE AS TARGETING
 
 The main failure mode is secondary exploitation by A.C.T or another actor. A stolen
-wish database can target people at
-their weakest point even if no Nectar remains. It can identify who wants a
-dead person back, who wants pain removed,
-who wants revenge, who wants a child healed, or who no longer trusts waking
-life.
+wish database can target people at their weakest point even if no Nectar remains:
+it identifies who wants a dead person back, who wants pain removed, who wants
+revenge, who wants a child healed, or who no longer trusts waking life. The
+company needs no product to use that list, and neither does anyone else.
 
-Open questions include whether wish intake changes extraction output, whether DREAM .INC predicts which
-consumers will
-return, whether refusal categories protect the machine or source, and whether consumer reports can
-contaminate other
-readers with desire for the product. Archive confidence is High that the system exists,
-Moderate that it shapes
-product success, and Low regarding any direct machine interface.
+### RECLASSIFIED REPORTS DURING QUIET CONDITION
+
+Internal communication ordering staff to reclassify client reports during a quiet machine condition proves
+that report categories change when machine state changes. The finding is the strongest link
+between this record and the extraction apparatus, and it is also the reason report
+categories cannot be treated as stable descriptors of consumer experience.
+
+### MACHINE INTERFACE — UNRESOLVED
+
+A.C.T has not determined whether consumer wishes guide the product, feed the machine, alter
+the source anomaly, or merely help the company claim success. Archive confidence is High
+that the system exists, Moderate that it shapes product success, and Low regarding any
+direct machine interface.
+
+---
+
+## DIVISION USE
+
+Intelligence Division holds the record and reads wish patterns without content. Medical Care Division
+holds the clinical reading and attends any consumer interview. Civil Covert Division manages consumer
+exposure where a person has been identified. Security holds quarantined material. Archive intakes the
+record and routes text to Site 03 review. Command audits Facility access against the
+collection limit.
+
+---
+
+## CROSS-REFERENCES
+
+- - GOI-CP-B-049 — DREAM .INC, Group of Interest Registry;
+- - TECH-GOI-049-1 — DREAM .INC Dream Nectar Extraction Apparatus, Technology Record;
+- - TECH-GOI-049-2 — DREAM .INC Dream Nectar Sealed Batch System, Technology Record;
+- - TECH-GOI-049-4 — DREAM .INC Twelve-Building Appointment Routing Network, Technology Record;
+- - TECH-GOI-049-5 — DREAM .INC Quiet Machine Condition Indicator System, Technology Record;
+- - TECH-GOI-056-3 — Saint Vera Memory-Sensitive Consent Form System, Technology Record;
+- - ACT-SITE-03-JP-E / Kurokawa Archive Node, Document Contamination Review, Site Record;
+
+The Saint Vera consent system is cited as the standard this record measures against.
+That system exists to make a vulnerable person's agreement legible to them; this one
+exists to make it legible only to the company.
+
+---
+
+## OPEN QUESTIONS
+
+- Does wish intake change extraction output or source-anomaly behaviour?
+- Can the company predict which consumers will return?
+- Do refusal categories protect the machine, the source, or the brand?
+- Can a consumer report contaminate another reader with desire for the product?
+- Are wishes collected for marketing, for the machine, or for both?
+- What is the narrowest interview that still serves containment?
+
+---
+
+## FILE METADATA
+
+- **Created:** 2019-01-22
+- **Author Desk:** Intelligence Division / Corporate Exploitation Desk / Central Archive
+- **Review Status:** Active restricted corporate-exploitation technology record; all wish content and consumer
+  identities sealed
+- **Next Review:** After any database recovery, any reclassification order, or any confirmed machine interface

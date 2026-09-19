@@ -116,7 +116,7 @@ the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS
 | Scene rule | leak event as well as a scene |
 | Evacuation rule | civilians before examination |
 | Devices recovered | NOT MEASURED |
-| Chains complete at recovery | NOT MEASURED |
+| Chains completed | NOT MEASURED |
 | Conditions released | NOT MEASURED |
 
 The unmeasured figure with the most consequence is conditions released. A demolition that suppressed
