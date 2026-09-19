@@ -314,18 +314,9 @@ demands a victim, SSF may become a lie it resents.
 
 ## OPEN QUESTIONS
 
-- Which blood-fuel entities can distinguish chemistry from victimhood?
-- Can long-term SSF use reduce predatory behavior or only delay it?
-- Does subject-specific mixture drift create behavioral addiction?
-- Can hostile groups use stolen SSF canisters as bait?
-  How many mechanical subjects rely on SSF enough to make it a site
-  vulnerability?
-- Should SSF refusal trigger medical quarantine before containment alarm?
-
-- What mixture bands exist, and how is a band assigned to a subject
-  class?
-- What is the shelf life of a sealed canister, and what does early
-  microbial bloom look like?
+- What mixture bands exist, and how is a band assigned to a subject class?
+- What is the shelf life of a sealed canister, and what does early microbial
+  bloom look like?
 - Which subject classes require identity in blood rather than biological chemistry?
 
 ---

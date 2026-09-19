@@ -306,21 +306,18 @@ one measured inch.
 ## OPEN QUESTIONS
 
 - Can disciplined perception remain safe if the holding learns the discipline?
-  When should a Blind Box item be declared unreadable enough for F-1 instead
-  of
+- When should a Blind Box item be declared unreadable enough for F-1 instead of
   F-2?
 - Does denying all perception increase staff curiosity enough to become its own hazard?
-  How much of an Eye Box observation may be described before description becomes
-  exposure?
-  Can a restriction set safely include a holding name if the name is
-  itself
+- How much of an Eye Box observation may be described before description becomes exposure?
+- Can a restriction set safely include a holding name if the name is itself
   informative?
 - Should F-2 ever return material upward after it has required visual denial?
-
----- What makes a viewing protocol safe rather than merely recorded?
+- What makes a viewing protocol safe rather than merely recorded?
 - Should denial ever be relaxed after long stability?
 - How is a Blind Box seal verified without opening it?
 
+---
 
 ## FILE METADATA
 

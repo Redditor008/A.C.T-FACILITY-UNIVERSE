@@ -298,11 +298,9 @@ around it also holds.
 - How many operational movements can hide inside one week of ordinary agricultural logistics?
 - Which cargo types should never pass through surface cover, even under disguise?
 - Can staff arrival patterns reveal the tempo of witness processing below?
-  When should a movement be delayed rather than forced into a weak cover
-  reason?
+- When should a movement be delayed rather than forced into a weak cover reason?
 - How much emergency sealing can the campus explain before outsiders remember it?
 - Should archive transfers use agricultural shipping rhythms or separate service routes?
-
 - What minimum ordinary traffic makes concealment reliable?
 - Which cargo classes should never cross the surface at all?
 - How quickly can a weekly movement pattern be learned?

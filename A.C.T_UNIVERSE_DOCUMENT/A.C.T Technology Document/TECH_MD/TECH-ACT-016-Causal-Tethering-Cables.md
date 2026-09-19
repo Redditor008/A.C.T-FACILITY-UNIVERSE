@@ -347,19 +347,10 @@ protect the cable more than the cargo.
 
 ## OPEN QUESTIONS
 
-- How much ontological drag can a cable carry before it develops permanent memory?
-- Can hostile groups use CTC principles to tether personnel to false exits?
-- Do meaningful knots create local rules, or do they merely indicate operator stress?
-- Can CTC be safely sterilized after Dark World threshold use?
-- Are negative drag readings evidence of future pull, source pressure, or display failure?
-  Should every FCA heavy cargo bay carry CTC emergency drums, or would route
-  stress
-  contaminate them?
-
-- What is the rated physical load, and how is it derated when ontological
-  drag is present?
-- What coolant does the jacket carry, and how is relationship heat told apart
-  from friction heat?
+- What is the rated physical load, and how is it derated when ontological drag
+  is present?
+- What coolant does the jacket carry, and how is relationship heat told apart from
+  friction heat?
 - How is cable memory detected before a line is reissued to another site?
 
 ---

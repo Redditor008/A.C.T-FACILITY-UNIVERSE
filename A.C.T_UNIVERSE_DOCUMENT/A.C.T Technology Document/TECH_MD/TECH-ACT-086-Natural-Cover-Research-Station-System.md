@@ -298,13 +298,10 @@ daylight.
 - How much genuine research output is needed before the cover attracts academic attention?
 - Which visitors should be redirected, delayed, or permitted under supervision?
 - Can ordinary maintenance contractors notice the same boundary pattern over time?
-  When does a research vessel become too useful to the buried watch to
-  remain
+- When does a research vessel become too useful to the buried watch to remain
   ordinary?
 - Should public station communications ever carry concealed timing cues?
-  How long can a real station support hidden work without its staff becoming
-  divided?
-
+- How long can a real station support hidden work without its staff becoming divided?
 - How much published output is needed to keep academic attention satisfied?
 - Which maintenance faults must be recorded publicly in order to look ordinary?
 - Can the station answer a lawful request for its real staffing roster?

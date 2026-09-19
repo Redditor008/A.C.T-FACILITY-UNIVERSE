@@ -317,15 +317,8 @@ Standing reminder: if the metal moves before you do, your report is already late
 
 ## OPEN QUESTIONS
 
-- Does CRM react to temporal fluctuation, create it, or both?
-- Can a sample be observed without becoming part of the sample's event history?
-- Is Stop-Watch activation possible without its original gold casing and engraving?
-- What does CRM do during a failed activation inside RSA misfire frequency?
-- Can stasis fields hold CRM indefinitely, or only postpone a reverse spill?
-- Does the liquid remember every container it has not yet occupied?
-
-- What sample volume is held, and what does the stasis field draw to
-  hold it?
+- What sample volume is held, and what does the stasis field draw to hold
+  it?
 - How soon before an event does the surface begin to ripple?
 - What remains censored from the 1999 seven-day regression, and who holds it?
 

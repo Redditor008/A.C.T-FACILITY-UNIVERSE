@@ -306,12 +306,9 @@ RRV doctrine holds that secrecy is only useful when it remains accountable.
 - Can a record family become more dangerous when separated into safer-looking pieces?
 - Should emergency openings automatically trigger medical or cognitive aftercare for readers?
 - Can QNB preservation maintain a seal state during causal drift without exposing content?
-  When should a restricted record be treated as a contained resident rather than
-  a
+- When should a restricted record be treated as a contained resident rather than a
   file?
-
-- How many files are held under partial seal, and what review do they
-  await?
+- How many files are held under partial seal, and what review do they await?
 - What is the normal review turnaround for a downgrade request?
 - How long may an escorted reading session run before it must close?
 

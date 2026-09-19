@@ -366,24 +366,12 @@ receives the exact look it wanted.
 
 ## OPEN QUESTIONS
 
-  Which hazards can learn to attack the delayed image rather than the direct
-  viewer?
-- Is 0.5 seconds ideal, or only the safest general compromise discovered so far?
-- Can CSV delay create false memories when used near Causal-Reactive Mercury?
-  How many times can a visor safely display the same hazardous frame before
-  the
-  frame becomes an object of study itself?
-- Should full-face biological units include automatic 004 aftercare prompts after visor breach?
-- Can hostile GOIs spoof low hazard probability readings to encourage visor lifting?
-  Are some visual anomalies more aggressive when they realize they are being watched
-  late?
-
-- What are the numeric limits of the approved delay bands, and who sets
-  them per hazard class?
-- What is the shielded battery runtime under full processing load, and how does
-  cold affect it?
-- Which hazard classes have been shown to act on the delayed image itself
-  rather than on direct sight?
+- What are the numeric limits of the approved delay bands, and who sets them
+  per hazard class?
+- What is the shielded battery runtime under full processing load, and how does cold
+  affect it?
+- Which hazard classes have been shown to act on the delayed image itself rather
+  than on direct sight?
 
 ---
 

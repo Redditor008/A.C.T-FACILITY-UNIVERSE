@@ -307,20 +307,17 @@ OATDPS doctrine holds that a trained hesitation is stronger than a brave mistake
 
 - How realistic may training simulations become before they create avoidable exposure risk?
 - Should failed controlled-reading drills remove a person from public preservation duties?
-  Can ordinary archive excellence predict operational archive readiness, or does it sometimes predict
-  the
+- Can ordinary archive excellence predict operational archive readiness, or does it sometimes predict the
   opposite?
 - How much doctrine should provisional personnel learn before final clearance is granted?
-  Should training records include fear responses when fear may be a useful safety
-  behavior?
-  When does repeated training make personnel too curious about files they are not
-  cleared
+- Should training records include fear responses when fear may be a useful safety behavior?
+- When does repeated training make personnel too curious about files they are not cleared
   to see?
-
----- How realistic may a simulation become before it is a hazard?
+- How realistic may a simulation become before it is a hazard?
 - Which failures should bar public preservation duties?
 - What doctrine may provisional personnel learn early?
 
+---
 
 ## FILE METADATA
 

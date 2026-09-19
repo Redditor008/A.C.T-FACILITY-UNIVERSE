@@ -292,17 +292,14 @@ MSPOS doctrine holds that dual use survives only when both uses are disciplined.
 ## OPEN QUESTIONS
 
 - How many restricted arrivals can the port absorb before public patterns change?
-  Should all submersible support remain inside restricted berths, or can ordinary repair explain
-  some
+- Should all submersible support remain inside restricted berths, or can ordinary repair explain some
   work?
 - Can a civilian vessel witness a concealed offload without understanding what it saw?
-  When does port delay justify moving containment to the vessel instead of the
-  facility?
+- When does port delay justify moving containment to the vessel instead of the facility?
 - Should public research schedules ever be altered to cover urgent recovery?
 - How long can a dual-use port remain believable during repeated maritime incidents?
-
-- What berth capacity does the port hold, and how is it shared with
-  the campus?
+- What berth capacity does the port hold, and how is it shared with the
+  campus?
 - What offload rate can the concealed point sustain?
 - How much of the harbor do the sightline controls actually cover?
 

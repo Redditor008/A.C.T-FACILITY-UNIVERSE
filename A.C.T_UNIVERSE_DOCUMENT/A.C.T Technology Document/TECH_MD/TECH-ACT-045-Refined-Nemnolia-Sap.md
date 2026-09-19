@@ -319,20 +319,8 @@ remember.
 
 ## OPEN QUESTIONS
 
-- Can RNS be stabilized without hiding its source identity from staff?
-- Does repeated refinement change the sap's memory-solvent preference over decades?
-- Can airborne residue erase handling errors before they are reported?
-- Should high-concentration RNS be stored only with QNB-backed custody logs?
-- What amount of provenance detail protects ethics without increasing theft risk?
-  Can NEMNOLIA-derived memory solvent ever be made fully targeted, or is collateral forgetting
-  part
-  of the material
-  itself?
-
-- How is the grade scale defined, and what erasure window does each grade
-  carry?
-- How long may a vial stay open inside the hood before the solvent
-  degrades?
+- How is the grade scale defined, and what erasure window does each grade carry?
+- How long may a vial stay open inside the hood before the solvent degrades?
 - What does the cap failure ledger record about airborne release distances?
 
 ---

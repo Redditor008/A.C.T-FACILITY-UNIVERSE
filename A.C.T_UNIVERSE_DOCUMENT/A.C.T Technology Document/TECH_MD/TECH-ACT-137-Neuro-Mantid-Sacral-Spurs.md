@@ -110,6 +110,36 @@ usable, and cannot verify a new interface against anything except an existing on
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures are restated from the Master Catalog entry, the visual reference, and the Guild
+provenance note. Values A.C.T has not measured are marked NOT MEASURED and filed under
+OPEN QUESTIONS.
+
+| SPUR PARAMETER | VALUE |
+|---|---|
+| Material | matte-black carbon-tungsten |
+| Actuation | high-speed pneumatic piston |
+| Interface | Bio-Feed Connector to sacral nerves |
+| Fitment | permanent surgical implant |
+| Function one | vertical anchoring into a surface |
+| Function two | high-velocity piercing stroke |
+| Recoil path | transmitted through the pelvis |
+| Issue clearance | Level 4 for issue and inspection |
+| Fit clearance | Level 5 for fitment and bio-feed work |
+| Provenance | future-displaced material |
+| Guild relation | Item-M2 Neuro-Mantid Sacral-Scythes |
+| Removal rule | the spurs do not come off |
+| Operators fitted | NOT MEASURED |
+| Anchor depth | NOT MEASURED |
+| Stroke velocity | NOT MEASURED |
+
+The reverse-engineering is complete enough to build the spurs and not complete enough to
+explain them, and the record is written to that limit. Anchoring and piercing are
+the same stroke read two ways, so the system cannot be issued as one
+and not the other; it is loud, it damages the surface it enters, and
+it has never been issued as a stealth asset.
+
 ## PHYSICAL AND SYSTEM DESCRIPTION
 
 Matte-black carbon-tungsten spurs, paired, mounted to a pelvic frame that sits against the sacrum.
@@ -180,6 +210,26 @@ Division maintains follow-up for every former fitted operator it can still reach
 
 ## DEPLOYMENT ENVELOPE
 
+### Numbered Operating Sequence
+
+Fitment and deployment are one sequence because the hardware cannot be separated from the
+operator once fitted. The calibration step is the one that cannot be delegated.
+
+1. Confirm Level 5 authority before any fitment.
+2. Calibrate the Bio-Feed Connector against a recovered reference.
+3. Fit the spurs and record the operator's issue weight.
+4. Run the nerve-interface check before first actuation.
+5. Brief both functions: anchoring and piercing.
+6. Anchor downward and confirm hold before applying load.
+7. Record recoil, anchor damage, and any injury.
+8. Return the operator for Level 4 inspection.
+
+Step 2 cannot be skipped or approximated. A copied Bio-Feed Connector cannot be calibrated
+from its own drawing because the drawing does not explain the interface, so without
+a recovered reference the fitment is a guess taken against an operator's spine. The
+open discrepancy in this record, retired spur bodies differing in mass from their issue
+weight, is the kind of thing an unexplained interface leaves behind.
+
 Approved: unstable geometry traversal, breach egress on collapsing structure, anchoring during spatial shear events,
 vertical ascent where no handhold exists, and close defensive action when an operator is
 already committed.
@@ -194,6 +244,31 @@ and they must be withdrawn. An operator
 moving continuously across open ground gains nothing from them and loses time.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per issue | confirm Level 4 authority and record the operator |
+| Per fitment | calibrate against a recovered reference |
+| Monthly | inspect the pneumatic piston and spur body |
+| Quarterly | review nerve-interface injury reports |
+| Annually | re-weigh retired spur bodies against issue weight |
+
+Inspection sits at Level 4 and fitment at Level 5 for a reason. An
+inspection can be performed by anyone cleared to handle the hardware, while calibration touches
+the operator's nervous system and cannot be delegated to a lower clearance or to
+a schedule.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Spur will not fire | pneumatic feed blocked | ground operator, inspect |
+| Weak anchor | surface too brittle | reposition, re-anchor |
+| Nerve feedback | connector mis-seated | stop use, Medical review |
+| Mass discrepancy | body differs from issue | quarantine, weigh, report |
+| Finish abraded | body polished | stop refinishing, log |
 
 ## KNOWN LIMITS
 
@@ -292,18 +367,19 @@ entry exists for them.
 ## OPEN QUESTIONS
 
 - What is the displaced source, and when does it come from?
-  Are A.C.T's spurs derived from Guild Item-M2, or do both derive from the
-  same
+- Are A.C.T's spurs derived from Guild Item-M2, or do both derive from the same
   source independently?
 - Why does a copied Bio-Feed Connector require a recovered reference to calibrate?
-  What does the connector actually read from the sacral nerve group, and what
-  does
+- What does the connector actually read from the sacral nerve group, and what does
   it send back?
 - Why do retired spur bodies differ in mass from their issue weight?
 - Can the implant ever be removed, and at what cost to the operator?
 - Does the matte-black finish serve a function, and why does polishing damage it?
 - Does long-term fitment change an operator beyond the recorded recoil injury?
 - Is the Guild aware that A.C.T holds a derivative of their hardware?
+- Does the pneumatic stroke vary between fitted operators, and by how much?
+- Can a spur body be re-fitted to a second operator, or is it matched?
+- What inspection finds a connector seated well enough to work and badly enough to injure?
 
 ---
 

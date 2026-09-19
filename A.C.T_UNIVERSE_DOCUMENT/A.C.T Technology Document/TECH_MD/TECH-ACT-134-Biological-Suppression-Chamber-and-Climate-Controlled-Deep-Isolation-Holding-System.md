@@ -296,21 +296,18 @@ minute.
 
 - How slowly can a resident adapt before adaptation becomes invisible to routine review?
 - Should suppression profiles expire automatically even when no alarm has sounded?
-  Can a climate-controlled unit become a false Long Sleep if a resident is
-  held
+- Can a climate-controlled unit become a false Long Sleep if a resident is held
   too quietly for too long?
-  How much Research sampling can occur before a standard resident is no longer
-  in
+- How much Research sampling can occur before a standard resident is no longer in
   standard condition?
 - When does cold suppression preserve a hazard instead of containing it?
-  Does F-3 prove that White Grave controls its residents, or only that it
-  can
+- Does F-3 prove that White Grave controls its residents, or only that it can
   keep them waiting?
-
----- Who renews a suppression profile when the floor is short-staffed?
+- Who renews a suppression profile when the floor is short-staffed?
 - Is a climate-controlled unit a habitat or an instrument?
 - Can a custody record outlive the resident it describes?
 
+---
 
 ## FILE METADATA
 

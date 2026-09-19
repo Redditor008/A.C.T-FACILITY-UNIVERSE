@@ -296,16 +296,14 @@ cold.
 - Can a resident adapt to cold research conditions without visibly changing?
 - Should study duration be limited by personnel memory or by resident biology?
 - When does controlled study become a second form of containment?
-  How much interpretation may be added to long data before interpretation becomes the
-  hazard?
-  Does White Grave understand its residents better because it waits, or because it
-  has
+- How much interpretation may be added to long data before interpretation becomes the hazard?
+- Does White Grave understand its residents better because it waits, or because it has
   no choice but to wait?
-
----- Can cold suppression make a resident's change undetectable by design?
+- Can cold suppression make a resident's change undetectable by design?
 - Should an observation stream be preserved after the resident is gone?
 - Does a year of stillness justify another year of study?
 
+---
 
 ## FILE METADATA
 

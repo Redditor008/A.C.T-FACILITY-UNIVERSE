@@ -307,14 +307,13 @@ containment.
 - Should every research record inherit the full restriction set of the resident studied?
 - Can repeated temporary access become functional possession by Research?
 - How long may a sample remain on F-5 before return verification loses meaning?
-  Does understanding contain the object, or does it create another object for the
-  archive
+- Does understanding contain the object, or does it create another object for the archive
   to hold?
-
----- Does an observation that alters conditions still count as passive study?
+- Does an observation that alters conditions still count as passive study?
 - Who owns a sample that is never returned because the program closed?
 - Can the Archive mirror hold data that the resident later rewrites?
 
+---
 
 ## FILE METADATA
 

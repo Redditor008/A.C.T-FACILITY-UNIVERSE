@@ -322,14 +322,6 @@ whether A.C.T deserves to enter.
 
 ## OPEN QUESTIONS
 
-- Can future-operative filtering remain safe if the future source pattern changes?
-- How much subject-care doctrine can be translated into hard tactical constraints?
-- Can an anomaly recruit the AI through repeated simulation rather than network access?
-  Should VPT-AI ever be allowed to command a live armed platform without human
-  confirmation?
-- Does the green eye lens collect intention from operators standing nearby?
-- When does narrow combat logic become an excuse for human command avoiding responsibility?
-
 - How far ahead does the core model, and how is that horizon bounded?
 - How many assets can the output bus command at once without degraded timing?
 - What did the 2026 courtesy constraint drill change about mission templates?

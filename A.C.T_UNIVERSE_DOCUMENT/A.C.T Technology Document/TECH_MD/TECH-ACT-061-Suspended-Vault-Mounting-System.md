@@ -308,15 +308,7 @@ it holds.
 
 ## OPEN QUESTIONS
 
-- Can a resident learn to influence the shaft through the mounting rhythm?
-- Which vault types should never be lowered even during structural failure?
-- How much mount drift is normal under long-term high-inviolability load?
-- Does suspension reduce psychic pressure or only structural transmission?
-- Can service-flex routes become hidden bridges between vault and floor?
-- Should SVMS inspection teams rotate faster than ordinary F-1 personnel?
-
-- What load rating does a mounting cluster carry, and what is the damper
-  travel?
+- What load rating does a mounting cluster carry, and what is the damper travel?
 - How deep are the vault shafts, and what limits that depth?
 - Which resident files permit mechanical disturbance during inspection?
 

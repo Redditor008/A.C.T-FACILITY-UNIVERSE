@@ -322,16 +322,7 @@ many ways a threat can be light.
 
 ## OPEN QUESTIONS
 
-- Which foundational artifacts were first secured in lead vaults?
-- Did early operators understand the difference between shielding and containment?
-- How many legacy HDLV compartments remain unregistered under modern designation rules?
-- Can old lead preserve anomalous residue better than modern sterile containment?
-  Should every inherited HDLV site be opened, or does opening destroy useful historical
-  isolation?
-- Did any early artifact learn to use the vault's silence as concealment?
-
-- What lead thickness does a standard inherited panel carry, and what does it
-  attenuate?
+- What lead thickness does a standard inherited panel carry, and what does it attenuate?
 - What is the composition of seam residue, and how often is it anomalous?
 - How many inherited vaults still hold artifacts the ledger never identified?
 

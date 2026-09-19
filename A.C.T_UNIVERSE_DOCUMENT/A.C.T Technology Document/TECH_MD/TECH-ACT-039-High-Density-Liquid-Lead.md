@@ -327,17 +327,7 @@ Standing reminder: a barrier fluid that has done its job is contaminated by defi
 
 ## OPEN QUESTIONS
 
-- Which restricted energy types does HDLL absorb and which does it only delay?
-- Can dust-loaded HDLL become biologically active if exposed to water vapor over time?
-- How long can floor-coated HDLL remain in place before viscosity changes containment behavior?
-- Should HDLL use near Abyssal Masonry require joint quarantine afterward?
-- Can molecular-leak sensors distinguish fluid escape from vapor-phase contamination?
-  At what saturation point does a barrier fluid become a storage hazard instead
-  of
-  a shield?
-
-- What is the fluid's density, and what floor load does a charged loop
-  impose?
+- What is the fluid's density, and what floor load does a charged loop impose?
 - How much restricted energy does one litre absorb before saturation?
 - What did the 2025 false clean surface event change about sampling procedure?
 

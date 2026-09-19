@@ -321,15 +321,6 @@ Standing reminder: stasis is not an answer. It is a held breath.
 
 ## OPEN QUESTIONS
 
-- How long can resonant cooling hold a body without changing what recovery means?
-- Can CBI preserve consciousness accidentally when paired with anchor objects?
-- Does anti-crystallization glass fail gradually or all at once?
-- Should every FCA-MED flight carry a backup CBI hand-pump operator?
-- Can certain transmutations continue beneath stasis as rhythm rather than growth?
-  What counts as consent for long-duration stasis when the patient cannot wake to
-  renew
-  it?
-
 - What is the approved stasis duration before rhythm drift becomes likely?
 - What does the anti-crystallization coating fail into, and how is that detected early?
 - Which anchor dependencies have been shown to conflict with a stasis field?

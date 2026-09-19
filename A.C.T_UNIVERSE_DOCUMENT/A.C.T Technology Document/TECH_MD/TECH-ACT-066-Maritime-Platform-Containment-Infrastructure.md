@@ -321,20 +321,15 @@ object, crew, platform record, and cover story all arrive intact.
 
 ## OPEN QUESTIONS
 
-  How long can a vessel remain a containment site before it must be
-  reclassified
+- How long can a vessel remain a containment site before it must be reclassified
   as a temporary facility?
-— Which platform classes can survive resident pursuit after sensory denial?
-— Can Sonar Void regions interfere with MPCI ledger transmission as well as detection?
-— Should every maritime platform carry pressure-rated capability, or only deep-response vessels?
-  How much cover activity is needed to protect anomaly missions without attracting attention
-  through
+- Which platform classes can survive resident pursuit after sensory denial?
+- Can Sonar Void regions interfere with MPCI ledger transmission as well as detection?
+- Should every maritime platform carry pressure-rated capability, or only deep-response vessels?
+- How much cover activity is needed to protect anomaly missions without attracting attention through
   excess presence?
-  Can submersible platforms be safely abandoned if a resident attaches to them as
-  territory?
-
-- What sea state limit does a certified platform carry, and how is it
-  tested?
+- Can submersible platforms be safely abandoned if a resident attaches to them as territory?
+- What sea state limit does a certified platform carry, and how is it tested?
 - How long can a cradle hold a marine-dependent object before chemistry fails?
 - What does certification require beyond ledger, interface, and emergency proof?
 

@@ -331,20 +331,9 @@ applying it is careless.
 
 ## OPEN QUESTIONS
 
-- Can ERG support non-reptilian NB-class transmutants without misreading their repair rhythm?
-- Does repeated use teach tissue to expect external repair cues?
-- Should subjects with enhanced scent perception approve every new carrier batch?
-- Can ERG help cold-shock recovery, or does warmth alone account for improvement?
-- Is Grumblesail immune to ERG, uninterested in it, or merely impossible to evaluate?
-  How much medical usefulness is lost when staff forget that comfort is part
-  of
-  containment?
-
-- What is the active compound ratio, and how is a batch graded before
-  issue?
+- What is the active compound ratio, and how is a batch graded before issue?
 - How long may an opened tub stay in service before withdrawal?
-- What separates inside the gel during a power fluctuation, and can it be
-  restored?
+- What separates inside the gel during a power fluctuation, and can it be restored?
 
 ---
 

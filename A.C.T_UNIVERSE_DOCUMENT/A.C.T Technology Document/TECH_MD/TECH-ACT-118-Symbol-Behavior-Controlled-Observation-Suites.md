@@ -295,25 +295,21 @@ learned to blink for the researcher.
 
 ## OPEN QUESTIONS
 
-  Can a symbol's behavior be understood without ever seeing enough of it to
-  be
+- Can a symbol's behavior be understood without ever seeing enough of it to be
   harmed?
-  Should skilled pattern analysts be barred from partial-symbol work because they complete forms
-  too
+- Should skilled pattern analysts be barred from partial-symbol work because they complete forms too
   quickly?
-— How much derivative imagery is still the original symbol for containment purposes?
-  Can a failed observation become a new symbol behavior if repeated in the
-  same
+- How much derivative imagery is still the original symbol for containment purposes?
+- Can a failed observation become a new symbol behavior if repeated in the same
   way?
-— Should Intelligence receive behavior descriptions if those descriptions may carry activation structure?
-  When does refusing to look become insufficient because the symbol has learned the
-  refusal
+- Should Intelligence receive behavior descriptions if those descriptions may carry activation structure?
+- When does refusing to look become insufficient because the symbol has learned the refusal
   pattern?
-
----- What aperture is narrow enough to prevent completion?
+- What aperture is narrow enough to prevent completion?
 - How should delayed display be calibrated per symbol class?
 - When must an analyst be withdrawn from study entirely?
 
+---
 
 ## FILE METADATA
 

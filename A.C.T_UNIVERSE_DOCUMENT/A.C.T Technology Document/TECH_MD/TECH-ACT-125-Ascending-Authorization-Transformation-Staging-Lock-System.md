@@ -304,11 +304,11 @@ heavier than the desire to act.
 - Can a refused transformation leave the resident changed by being considered?
 - Should repeated low-consequence transformations be treated as one higher-consequence program?
 - Does ascending authorization slow necessary action, or is that slowness the protection?
-
----- What makes a transformation genuinely reversible?
+- What makes a transformation genuinely reversible?
 - Should repeated low-consequence approvals be reviewed as one?
 - How should a refused resident be documented afterwards?
 
+---
 
 ## FILE METADATA
 

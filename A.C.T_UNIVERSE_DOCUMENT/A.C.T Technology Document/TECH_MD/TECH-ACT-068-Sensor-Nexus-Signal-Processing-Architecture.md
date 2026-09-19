@@ -304,15 +304,11 @@ but it must know how the signal reached the file.
 - Can the processing architecture recognize a signal designed to be interpreted incorrectly?
 - How much contradiction should be preserved before records become unusable?
 - Can abyss-linked output contaminate baselines simply by being used as comparison data?
-  Should maritime Sonar Void data pass through SNSPA or remain in a separate
-  sonar
+- Should maritime Sonar Void data pass through SNSPA or remain in a separate sonar
   chain?
-  Can a closed F-1 preserve enough record context if upper command remains unreachable
-  for
+- Can a closed F-1 preserve enough record context if upper command remains unreachable for
   days?
-  Which analyst notes should be treated as part of the signal rather than
-  interpretation?
-
+- Which analyst notes should be treated as part of the signal rather than interpretation?
 - What baseline set does the comparison engine hold, and who maintains it?
 - What latency exists between intake and gated output?
 - How deep is the local preservation buffer during a closure?

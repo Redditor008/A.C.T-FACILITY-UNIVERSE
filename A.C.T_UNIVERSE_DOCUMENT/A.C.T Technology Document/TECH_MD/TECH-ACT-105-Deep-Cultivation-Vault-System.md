@@ -297,12 +297,10 @@ DCVS doctrine holds that the deepest garden is still a vault.
 
 - Which cultivation successes should be treated as containment warnings?
 - Can a transformation program become a resident before command recognizes the change?
-  How much medical care can occur inside F-1 before the subject must move
-  upward?
+- How much medical care can occur inside F-1 before the subject must move upward?
 - Should native-field comparison be mandatory before every cultivation alteration?
 - Can service ring contamination leave the vault while the chambers remain sealed?
 - When does cultivation become creation rather than containment?
-
 - What trajectory of authorised changes counts as escalation?
 - Which cultivation programmes should never have been started?
 - How is service ring containment verified while chambers hold?

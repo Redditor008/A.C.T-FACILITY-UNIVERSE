@@ -333,20 +333,9 @@ should happen at all.
 
 ## OPEN QUESTIONS
 
-- Does Pale Wood retain any environmental memory after being shaped into a blade?
-- Can the laser-tracking rail prevent cutting errors when the subject changes identity mid-incision?
-  Should every PWS use be reviewed by Transformation Review when the patient is
-  partly
-  altered?
-- Can repeated exposure to gold make a blade safer or only weaker?
-- Do Dark World organisms recognize the scalpel as tool, wound, or relative?
-- How many retired blades remain useful for non-surgical materials research?
-
 - How much Pale Wood source material exists, and where is it held?
-- What exactly does 24k gold do to the edge, and is the damage
-  reversible?
-- Which subjects have read a Pale Wood cut as kinship rather than as
-  injury?
+- What exactly does 24k gold do to the edge, and is the damage reversible?
+- Which subjects have read a Pale Wood cut as kinship rather than as injury?
 
 ---
 

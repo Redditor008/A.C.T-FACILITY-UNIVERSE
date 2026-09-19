@@ -341,26 +341,11 @@ decisions.
 
 ## OPEN QUESTIONS
 
-  How much lawful transformation can occur before a person's Static Pulse must be
-  re-baselined?
-  Can hostile groups construct a forged pulse from stolen receipts and partial profile
-  leaks?
-  Does frequent scanning change how a senior staff member's continuity presents to the
-  system?
-- Should SPBID denial automatically trigger QNB snapshot comparison for O5 corridors?
-  Are very clean pulse histories always suspicious, or can some anomalies preserve people
-  too
-  perfectly?
-- Can amnestic aftercare alter the accepted range without physical change?
-  What happens when two lawful versions of the same person reach the same
-  scanner?
-
-- What is the accepted pulse band width, and how was it set for
-  re-interfaced staff?
-- How long are senior-corridor receipts retained, and who may compare them against QNB
-  records?
-- Which denial code was recorded in the 2022 smooth history alarm, and is
-  it still in use?
+- What is the accepted pulse band width, and how was it set for re-interfaced
+  staff?
+- How long are senior-corridor receipts retained, and who may compare them against QNB records?
+- Which denial code was recorded in the 2022 smooth history alarm, and is it
+  still in use?
 
 ---
 

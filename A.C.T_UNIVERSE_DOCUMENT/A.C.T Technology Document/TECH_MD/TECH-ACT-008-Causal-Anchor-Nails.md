@@ -361,27 +361,12 @@ made to anomalies are expensive.
 
 ## OPEN QUESTIONS
 
-  What is the maximum safe active window before a nail begins storing site
-  stress?
-  Can used nails carry a memory of the anomaly, the deployment surface, or
-  the
-  operator?
-- Are multi-nail failures mathematical, narrative, or material in origin?
-- What happens when a nail fixes an object whose identity changes mid-transfer?
-- Can hostile groups fake the lock click to trigger early movement?
-  Should living-target CAN doctrine remain prohibited except terminal review, or does field medicine
-  need
-  a controlled
-  variant?
-- Do nails deployed near FCA Magnetic RSA-Rails inherit aircraft route stress?
-
-- What is the measured hold window, and does it vary with surface material
-  or subject mass?
-- What certified load does a single nail hold, and how does that change
-  in an approved multi-nail layout?
-- Which contact surfaces have been tested and rejected, and is that list written
-  down where Recovery can
-  reach it?
+- What is the measured hold window, and does it vary with surface material or
+  subject mass?
+- What certified load does a single nail hold, and how does that change in
+  an approved multi-nail layout?
+- Which contact surfaces have been tested and rejected, and is that list written down
+  where Recovery can reach it?
 
 ---
 

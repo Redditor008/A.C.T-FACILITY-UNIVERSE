@@ -285,14 +285,12 @@ SCRC doctrine holds that normalcy is strongest when it has real weight behind it
 
 ## OPEN QUESTIONS
 
-  How much real publication can the campus support before research partners become exposure
-  risks?
-— Which visible instruments best explain deeper monitoring without revealing it?
-— Can legitimate science accidentally discover the concealed work it protects?
-— How should the campus respond when public truth and A.C.T secrecy conflict?
-— Should civilian collaborators ever be quietly steered away from certain research questions?
-— When does cover strengthening become operational distraction?
-
+- How much real publication can the campus support before research partners become exposure risks?
+- Which visible instruments best explain deeper monitoring without revealing it?
+- Can legitimate science accidentally discover the concealed work it protects?
+- How should the campus respond when public truth and A.C.T secrecy conflict?
+- Should civilian collaborators ever be quietly steered away from certain research questions?
+- When does cover strengthening become operational distraction?
 - What publication rate keeps the cover credible without inviting scrutiny?
 - How many visitors may the circulation route absorb in a week?
 - How often is the campus audited for believability, and by whom?

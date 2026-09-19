@@ -353,22 +353,11 @@ sensor for being first.
 
 ## OPEN QUESTIONS
 
-- Can an anomaly develop a false clean pulse after repeated DRS exposure?
-- How many Field Type suggestions can be trusted before human review becomes mandatory?
-- Are some library mismatches caused by undiscovered Field Types rather than sensor error?
-- Can hostile groups spoof dead signatures to lure Recovery teams into contact?
-- Does DRS ticking attract any auditory or rhythm-sensitive anomalies?
-- Can deep-sea resonance readings be separated from abyssal pressure behavior with full confidence?
-  Should every fixed high-risk locker use DRS even if the contained object has
-  never
-  vibrated?
-
-- What is the measured detection range of the field wand, as distinct from
-  the two-meter tuning-fork
-  array?
+- What is the measured detection range of the field wand, as distinct from the
+  two-meter tuning-fork array?
 - Which signature libraries are current, and how is a library declared stale?
-- What did the 2024 Sunda Trench survey record for the 10.4-ton signature after
-  the drone returned?
+- What did the 2024 Sunda Trench survey record for the 10.4-ton signature after the
+  drone returned?
 
 ---
 

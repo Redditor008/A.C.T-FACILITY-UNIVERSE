@@ -322,14 +322,6 @@ without being touched.
 
 ## OPEN QUESTIONS
 
-- Can a causal pulse be deliberately forged by a hostile object?
-- How many pulse similarities are required before two artifacts are treated as related?
-- Does repeated mapping change the way an object presents itself to later scans?
-- Can DRM safely profile living subjects without treating them as objects?
-- What is the upper limit of non-contact measurement before observation becomes contact?
-  Can DRM detect a missing pulse where reality insists an object should be
-  present?
-
 - What pulse resolution does the chamber achieve, and what is its noise floor?
 - How long may a scan run before the baseline itself drifts?
 - Which classes are excluded from scanning entirely, and who maintains that list?

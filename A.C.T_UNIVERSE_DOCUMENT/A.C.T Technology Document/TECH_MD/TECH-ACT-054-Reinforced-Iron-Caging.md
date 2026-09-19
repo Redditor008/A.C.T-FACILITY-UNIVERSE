@@ -320,18 +320,9 @@ enough.
 
 ## OPEN QUESTIONS
 
-- Which high-mass biological subjects shaped the earliest RIC dimensions?
-- Did any surviving cage become anomalous through stress memory or resident contact?
-- How many modern Massive Box rules began as repairs to failed iron cages?
-- Can RIC fragments safely remain inside active chambers as historical remnants?
-- When does emergency delay become unauthorized containment?
-  How much of A.C.T resident-welfare doctrine was written in reaction to cages like
-  these?
-
 - What bar spacing and rated load did the standard cage carry?
 - How many surviving cages remain inside active chambers?
-- What did the 2024 welfare audit require for residents still housed in legacy
-  iron?
+- What did the 2024 welfare audit require for residents still housed in legacy iron?
 
 ---
 

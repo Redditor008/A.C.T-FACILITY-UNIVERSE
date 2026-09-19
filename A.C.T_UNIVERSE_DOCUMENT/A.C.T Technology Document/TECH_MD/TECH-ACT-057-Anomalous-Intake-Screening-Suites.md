@@ -315,15 +315,6 @@ becomes.
 
 ## OPEN QUESTIONS
 
-- How much reading is safe before screening becomes controlled reading?
-  Can a hostile file exploit the dual-route architecture by appearing cleared until after
-  routing?
-- Should every item receive a temporary causal signature before intake record creation?
-- How often should route locks be tested with inert false positives?
-  Can ordinary archive pressure make screeners clear material too quickly during heavy intake
-  days?
-- What happens when an item insists on belonging to both streams at once?
-
 - What is the approved first-pass reading threshold, and how is it enforced?
 - What throughput does one suite hold before triage quality falls?
 - What did the 2026 route lock delay change about holding procedure?

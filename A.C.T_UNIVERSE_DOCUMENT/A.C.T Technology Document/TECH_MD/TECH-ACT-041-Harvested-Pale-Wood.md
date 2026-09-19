@@ -328,15 +328,7 @@ the tree became a plank.
 
 ## OPEN QUESTIONS
 
-- Does HPW retain a directional relationship to the forest or door after harvest?
-- Can gold-vulnerability be sealed without destroying the reason the material is useful?
-- What happens if HPW dust enters living Earth trees?
-- Does clear Pale Wood sap carry any separate hazard from the timber?
-- Should structural use be banned in rooms containing gold-lined containers?
-- How much of the Dark World ecology notices when A.C.T removes a plank?
-
-- How much gold is lost per metre of cut, and how is tooling
-  re-plated?
+- How much gold is lost per metre of cut, and how is tooling re-plated?
 - What is the harvest yield per expedition, and what limits it?
 - What happens to Pale Wood dust once it has bonded to ordinary surfaces?
 

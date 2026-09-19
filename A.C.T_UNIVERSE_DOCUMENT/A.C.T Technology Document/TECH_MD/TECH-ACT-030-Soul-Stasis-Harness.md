@@ -325,17 +325,6 @@ Standing reminder: if the anchor contains a person, every maintenance action has
 
 ## OPEN QUESTIONS
 
-- Can a Soul-Stasis Harness be adapted to anchors that are not pendants?
-- Does proximity stability reduce suffering or only prevent catastrophic drift?
-  How should consent be renewed when the patient's voice exists through the anchor
-  being
-  contained?
-- Can repeated acoustic bridge contact alter the harness resonance profile?
-- What happens if the host body heals around a changed chest geometry?
-  Is there a safe way to transfer anchor custody without making the occupied
-  object
-  feel handled?
-
 - What separation distance is approved, and how was the chain-separation rule measured?
 - What does the Resonance Stability scale actually compare against?
 - What latency is acceptable on the fiber-optic link before the tablet is untrustworthy?

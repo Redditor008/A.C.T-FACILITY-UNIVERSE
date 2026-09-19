@@ -340,20 +340,11 @@ you.
 
 ## OPEN QUESTIONS
 
-- Can a hostile entity learn an operator's parry timing faster than Training predicts?
-  Should early Expedition Pale use be treated as prototype lineage or separate field
-  improvisation?
-  Can TFA safely redirect anomalous energy bursts without storing trace behavior in the
-  capacitor?
-- How many red-window parries can one operator survive across a career?
-- Is the success ding psychologically necessary, or does it encourage risk-taking?
-- Can paired TFA operators create dangerous harmonic interference?
-
-- What is the measured parry window in milliseconds, and does it vary by
-  operator or by threat class?
+- What is the measured parry window in milliseconds, and does it vary by operator
+  or by threat class?
 - What is the deflection energy ceiling before transferred stress exceeds operator tolerance?
-- How many capacitor cycles are rated, and what replaces the unit at the
-  end of them?
+- How many capacitor cycles are rated, and what replaces the unit at the end
+  of them?
 
 ---
 

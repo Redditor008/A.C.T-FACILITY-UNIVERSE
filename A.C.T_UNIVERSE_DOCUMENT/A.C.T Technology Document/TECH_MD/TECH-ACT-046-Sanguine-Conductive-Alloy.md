@@ -322,13 +322,6 @@ result anonymous.
 
 ## OPEN QUESTIONS
 
-- Can SCA conduct memory-bearing blood data after amnestic exposure?
-- Does biological data remain in the micro-vein network after chemical cleaning?
-- Can a subject recognize their own signal after it crosses alloy?
-- Should SCA plates be destroyed after one high-risk use instead of cleaned?
-- Can hostile actors use SCA to impersonate pulse identity or medical continuity?
-- At what point does data transmission become blood-contact containment?
-
 - What conductivity range does the micro-vein network hold before saturation?
 - How much sample does one contact well accept, and what happens beyond it?
 - Can a plate be re-sterilised for a second subject, or is withdrawal absolute?

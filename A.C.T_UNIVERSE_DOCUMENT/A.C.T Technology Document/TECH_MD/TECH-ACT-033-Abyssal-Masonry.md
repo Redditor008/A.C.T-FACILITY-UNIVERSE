@@ -332,20 +332,9 @@ Standing reminder: if a wall feels quiet, ask what it is carrying.
 
 ## OPEN QUESTIONS
 
-  How much ITHYOS-residue can a block carry before it becomes a source instead
-  of
-  a sink?
-— Can ABM be safely recycled after exposure to living artifacts?
-  Does the listening sensation come from residue behavior, staff expectation, or actual echo
-  retention?
-— Should ABM corridors require periodic HPP personnel exclusion?
-— Can Honey Obsidian reinforcement improve joints without trapping hostile vibration inside them?
-— When should an ABM failure trigger relocation rather than wall replacement?
-
 - What is in the ITHYOS-residue infusion, and why is the core lead-shielded?
 - What compression rating does a modern block hold, and how was it measured?
-- What did the 1912 listening reports become, and are those corridors still in
-  service?
+- What did the 1912 listening reports become, and are those corridors still in service?
 
 ---
 

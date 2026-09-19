@@ -329,15 +329,6 @@ back.
 
 ## OPEN QUESTIONS
 
-- Can a narrative hazard learn to keep operator brainwaves procedural while changing content?
-- Should CSE units include spoken cueing, or would voice cues become recruitable material?
-- How much irritation is useful before operators begin removing the device?
-- Can CSE protect a team whose shared silence has already become consensus?
-- Should recovered-document readers wear CSE even outside active anomaly chambers?
-  What is the safe response when CSE stays quiet but the operator starts
-  enjoying
-  the role?
-
 - What are the brainwave drift thresholds, and how are they set per operator?
 - How long does one charge hold under an active static profile?
 - Which hazards have been shown to work through silence rather than signal?

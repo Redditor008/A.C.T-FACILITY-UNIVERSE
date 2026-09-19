@@ -298,15 +298,12 @@ EISSS doctrine holds that the watchpoint receives what it does not own.
 
 - How long can Ash Tide safely hold material when weather blocks transfer?
 - Which arrivals require immediate F-1 closure on receipt?
-  Can a rolling manifest become a hazard if the intake object alters its
-  own
+- Can a rolling manifest become a hazard if the intake object alters its own
   record?
 - Should personnel intake and material intake ever share the same stabilization window?
 - When does transfer delay convert emergency storage into unauthorized containment?
-  How much medical care can occur before the patient must be moved to
-  the
+- How much medical care can occur before the patient must be moved to the
   parent relay?
-
 - What is the approved transfer clock limit before escalation?
 - How much storage does the compact bay actually hold?
 - What environmental band can the temporary control maintain?

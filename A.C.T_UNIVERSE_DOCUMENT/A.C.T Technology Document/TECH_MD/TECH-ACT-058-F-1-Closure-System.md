@@ -304,13 +304,6 @@ Standing reminder: F-1 closes so the rest of the site remains a site.
 
 ## OPEN QUESTIONS
 
-- Which service routes should be permanently removed instead of isolated?
-- Can a resident learn the timing of repeated closure drills?
-- How long can F-1 remain self-contained under full resident load?
-- Should F-2 maintain automatic secondary closure when F-1 seals?
-- What medical threshold justifies delaying closure for personnel extraction?
-- Can closure doctrine be adapted safely for smaller sub-sites without copying F-1 assumptions?
-
 - How long does full closure take from trigger to severance?
 - How long can the emergency plant carry the floor's containment and environmental load?
 - How many personnel can the floor hold safely during a live closure?

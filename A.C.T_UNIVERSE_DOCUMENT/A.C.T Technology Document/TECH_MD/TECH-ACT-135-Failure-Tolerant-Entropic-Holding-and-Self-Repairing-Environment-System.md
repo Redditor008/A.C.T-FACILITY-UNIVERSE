@@ -304,17 +304,15 @@ victory is temporary but still necessary.
 - How many successful repairs should count as proof that the resident is worsening?
 - When does F-2 become more expensive than Long Sleep transfer?
 - Can high-frequency monitoring become another system for the resident to erode?
-  Should a stabilizing entropic resident ever be returned to F-3, or is stabilization
-  another
+- Should a stabilizing entropic resident ever be returned to F-3, or is stabilization another
   phase of attrition?
-  Does failure-tolerant containment hold the resident, or only buy enough time to choose
-  a
+- Does failure-tolerant containment hold the resident, or only buy enough time to choose a
   deeper answer?
-
----- Should a self-repairing loop be slowed to make degradation visible?
+- Should a self-repairing loop be slowed to make degradation visible?
 - Does redundancy invite complacency in the maintenance gallery?
 - Who decides F-2 costs more than the hazard it holds?
 
+---
 
 ## FILE METADATA
 

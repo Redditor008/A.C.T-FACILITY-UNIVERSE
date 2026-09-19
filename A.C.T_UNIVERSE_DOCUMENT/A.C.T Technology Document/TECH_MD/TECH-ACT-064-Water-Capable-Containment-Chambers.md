@@ -317,15 +317,11 @@ made accountable.
 - Which residents require water for survival and which require it for behavior suppression?
 - Can chamber water become part of an anomaly's body over long containment periods?
 - How much source-water chemistry must be preserved during transfer?
-  Can a resident use pump rhythm, current, or acoustic reflection as a route
-  to
+- Can a resident use pump rhythm, current, or acoustic reflection as a route to
   influence staff?
-  When should a maritime anomaly remain in vessel containment instead of being moved
-  to
+- When should a maritime anomaly remain in vessel containment instead of being moved to
   F-3?
-  Can WCCC systems safely hold residents whose source environment is both oceanic and
-  abyss-linked?
-
+- Can WCCC systems safely hold residents whose source environment is both oceanic and abyss-linked?
 - What volume and circulation rate does a standard chamber hold?
 - What salinity band can the loop maintain across a long hold?
 - Which residents require paired optical lockdown, and who decides?

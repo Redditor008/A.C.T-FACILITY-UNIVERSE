@@ -94,6 +94,35 @@ than personnel, programs, or assumptions.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures are restated from this record's vault component list and F-1 deep-hold doctrine. Values
+the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+| VAULT PARAMETER | VALUE |
+|---|---|
+| Sleep vault | individual sleep vault |
+| Envelope | resident environmental envelope |
+| Monitoring | sleep-state monitoring suite |
+| Reinforcement | deep-cold reinforcement shell |
+| Plant | duplicated environmental plant |
+| Power | independent emergency power plant |
+| Access | access-core checkpoint sequence |
+| Gallery | vault gallery isolation gate |
+| Service ring | service-ring separation route |
+| Closure | F-1 closure severance barrier |
+| Custody rule | one vault, one resident, one route |
+| Release rule | Site Director or above to interrupt sleep |
+| Vault count | NOT MEASURED |
+| Median sleep duration | NOT MEASURED |
+| Closures executed | NOT MEASURED |
+
+F-1 is a containment state expressed as architecture rather than a holding floor with
+deeper walls. The doctrine refuses to treat release as the expected outcome, so the
+vault is built to keep holding with nobody on the floor: deep-cold reinforcement, a
+duplicated environmental plant, and an emergency power source that shares nothing with the station
+above.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A LSVF1CCS installation includes a single access core descending from F-2, resident-specific checkpoint sequence,
@@ -120,7 +149,54 @@ no resident of the Long Sleep is allowed to borrow another resident's failure.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Vault Controls
+
+- individual sleep vault
+- deep-cold reinforcement shell
+- access-core checkpoint sequence
+- F-1 closure severance barrier
+
+### Vault Readouts
+
+- sleep-state monitoring suite trace
+- resident environmental envelope state
+- duplicated environmental plant status
+- vault gallery isolation gate log
+
+### Vault Limits And Weaknesses
+
+- Do not enter a vault as a single person.
+- Do not interrupt a sleep state below Site Director authority.
+- Do not route service traffic through the gallery gate.
+- Do not run the floor on one environmental plant.
+- Weakest against the assumption that release will eventually come.
+- Weakest against deep-utility intrusion from below the floor.
+
+Vault count, sleep-duration median, and closures are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence is ordered so that nothing about the floor depends on a person
+being present afterwards. Entry is the exception, and it is bracketed by checks that
+can be read back.
+
+1. Confirm the resident environmental envelope is loaded.
+2. Verify both branches of the duplicated environmental plant.
+3. Confirm the emergency power plant is independent.
+4. Sequence the access-core checkpoints before entry.
+5. Enter the vault only as paired personnel.
+6. Read the sleep-state suite and record the state.
+7. Withdraw and re-isolate the vault gallery gate.
+8. Re-verify the service ring and leave the closure barrier armed.
+
+Step 5 is not a courtesy. A single person inside a sleep vault is
+the one configuration in which a disturbed resident has a witness who cannot be
+corroborated, and the floor cannot recover a record from someone who does not come
+back out.
 
 Before resident assignment, LSVF1CCS verifies resident identity, instability profile, sensitivity profile, sleep
 requirement, environmental envelope, structural reinforcement need, access restriction set, Medical support condition,
@@ -137,6 +213,31 @@ and residents to
 sealed self-containment until command resolves the trigger.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per entry | sequence the access-core checkpoints |
+| Weekly | read the sleep-state suite for every vault |
+| Monthly | test both branches of the environmental plant |
+| Quarterly | exercise the vault gallery isolation gate |
+| Annually | drill the F-1 closure severance barrier |
+
+Servicing is scheduled so that no vault is opened for maintenance alone; where a
+vault must be entered, the entry counts as the periodic check. The closure drill
+is annual because a barrier that has never been exercised is a plan rather
+than a system.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Sleep disturbed | envelope drift | freeze state, notify |
+| Checkpoint skipped | access sequence fault | halt entry, review |
+| Plant loss | one branch down | confirm backup, load |
+| Gallery open | isolation gate fault | seal, isolate, log |
+| Utility intrusion | route below the floor | trace, escalate, seal |
 
 ## KNOWN LIMITS
 
@@ -208,18 +309,18 @@ such answer has been scheduled.
 
 ## OPEN QUESTIONS
 
-  How long can a containment state last before it becomes the resident's entire
-  known
+- How long can a containment state last before it becomes the resident's entire known
   identity?
-— Can a sleep-state monitor disturb the sleep by defining what counts as waking?
-— Should closure authority ever consider personnel survival before upward-route denial?
-  How much research should be permitted when research may be the first step
-  toward
+- Can a sleep-state monitor disturb the sleep by defining what counts as waking?
+- Should closure authority ever consider personnel survival before upward-route denial?
+- How much research should be permitted when research may be the first step toward
   waking?
-— Can a vault built for indefinite custody still support a future rescue?
-  Is the Long Sleep a mercy, a sentence, or the only shape containment
-  can
+- Can a vault built for indefinite custody still support a future rescue?
+- Is the Long Sleep a mercy, a sentence, or the only shape containment can
   take for some residents?
+- How long may a sleep state be held before doctrine requires a review?
+- Does a vault that is never entered still count as custody?
+- What does closure cost the station, and who authorizes paying it?
 
 ---
 

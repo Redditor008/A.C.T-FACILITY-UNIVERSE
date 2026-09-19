@@ -296,19 +296,18 @@ understanding the path the copies want to take next.
 
 ## OPEN QUESTIONS
 
-  When does a derivative stop being the same anomalous media and become a
-  new
+- When does a derivative stop being the same anomalous media and become a new
   object?
-— Can public removal ever be more dangerous than leaving a weak copy unnoticed?
-— Should harmless discussion of dangerous media be tracked as propagation?
-— How many screenshots equal a breach when none of them individually activates?
-— Can a transcript carry the same hazard as the recording it describes?
-— Does tracking a file's path teach the file new paths through the tracker?
-
----- What ruling time is acceptable during an active spread?
+- Can public removal ever be more dangerous than leaving a weak copy unnoticed?
+- Should harmless discussion of dangerous media be tracked as propagation?
+- How many screenshots equal a breach when none of them individually activates?
+- Can a transcript carry the same hazard as the recording it describes?
+- Does tracking a file's path teach the file new paths through the tracker?
+- What ruling time is acceptable during an active spread?
 - Which derivatives must never be previewed at all?
 - How should an uncertain ruling be revised later?
 
+---
 
 ## FILE METADATA
 

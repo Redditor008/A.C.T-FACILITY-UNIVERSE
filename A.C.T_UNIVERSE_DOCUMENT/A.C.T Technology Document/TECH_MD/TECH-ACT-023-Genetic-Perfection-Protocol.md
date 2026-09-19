@@ -329,18 +329,9 @@ Standing reminder: repaired tissue is not automatically restored life. Ask the p
 
 ## OPEN QUESTIONS
 
-- How many baselines can one patient lawfully possess?
-  Can a transformation become part of the patient rather than damage to be
-  corrected?
-- Does the pink mist carry any long-term behavioral residue?
-- Can hostile vectors hide inside apparent successful repair?
-- Should five-minute full rewrite remain authorized, or only terminal-emergency use?
-- What counts as cure when the anomaly changed the patient's definition of health?
-
-- What is the approved mist concentration band, and who measures it during a
-  cycle?
-- What is held in the viral-vector library, and why is it kept at
-  Level 5?
+- What is the approved mist concentration band, and who measures it during a cycle?
+- What is held in the viral-vector library, and why is it kept at Level
+  5?
 - How does Medical choose between two lawful baselines before activation?
 
 ---

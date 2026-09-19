@@ -333,15 +333,8 @@ optional.
 
 ## OPEN QUESTIONS
 
-- Can AAP absorb enough sound to hide early distress signals from contained subjects?
-- How often should quiet survey override clean thermal readings?
-- Does tungsten reinforcement change how Abyssal Masonry handles psychic pressure?
-- Can plate-grid maps be safely shared with repair contractors under amnestic coverage?
-- Should Massive Box floors and walls use different groove geometries?
-- When does reinforcement become overcontainment instead of safety?
-
-- What certified load does one tile hold, and how does the grid derate
-  at the seams?
+- What certified load does one tile hold, and how does the grid derate at
+  the seams?
 - What is the thermal-sink capacity, and how is saturation detected early?
 - What was decided in the 2026 quiet wall dispute about trusting acoustic calm?
 

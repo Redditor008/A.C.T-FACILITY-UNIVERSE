@@ -303,29 +303,22 @@ truth with a locked border.
 
 ## OPEN QUESTIONS
 
-  How much real ecological data can be published before outside researchers begin mapping
-  restricted
+- How much real ecological data can be published before outside researchers begin mapping restricted
   absence?
-  Should campus staff with no concealed assignment be told that some restrictions are
-  conservation-only
-  even when they
-  are containment-driven?
-  Can legitimate sample analysis continue safely when anomalous and non-anomalous ecosystems influence the
-  same
+- Should campus staff with no concealed assignment be told that some restrictions are conservation-only
+  even when they are containment-driven?
+- Can legitimate sample analysis continue safely when anomalous and non-anomalous ecosystems influence the same
   watershed?
-— When does cover discipline become scientific distortion?
-  Should the campus invite external collaboration to strengthen legitimacy, or does collaboration increase
-  boundary
-  risk
-  too sharply?
-  How should SRCCIS respond when a truthful ecological finding points toward a concealed
-  anomaly
+- When does cover discipline become scientific distortion?
+- Should the campus invite external collaboration to strengthen legitimacy, or does collaboration increase boundary
+  risk too sharply?
+- How should SRCCIS respond when a truthful ecological finding points toward a concealed anomaly
   sector?
-
----- How much external research strengthens the cover before it endangers it?
+- How much external research strengthens the cover before it endangers it?
 - Which monitoring stations should never be sited near a sector?
 - When should a public programme be refused rather than rerouted?
 
+---
 
 ## FILE METADATA
 

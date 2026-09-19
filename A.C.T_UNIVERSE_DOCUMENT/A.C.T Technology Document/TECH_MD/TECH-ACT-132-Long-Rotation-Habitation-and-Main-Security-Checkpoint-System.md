@@ -308,20 +308,18 @@ when they leave their own lives and descend to work.
 ## OPEN QUESTIONS
 
 - How much operational truth should personnel be allowed to bring into domestic space?
-  Can a checkpoint protect rest if everyone on both sides is trapped in
-  the
+- Can a checkpoint protect rest if everyone on both sides is trapped in the
   same station?
 - Should recreation be mandatory when morale data shows decline?
 - When does domestic monitoring become another form of duty pressure?
 - Can long-rotation habitation remain humane if seasonal transport fails?
-  Does the checkpoint separate life from duty, or only remind personnel that separation
-  is
+- Does the checkpoint separate life from duty, or only remind personnel that separation is
   fragile?
-
----- Should a rotation end early on morale data alone?
+- Should a rotation end early on morale data alone?
 - Who holds authority over the deck during a containment event?
 - Does domestic environmental control belong to Support or Security?
 
+---
 
 ## FILE METADATA
 

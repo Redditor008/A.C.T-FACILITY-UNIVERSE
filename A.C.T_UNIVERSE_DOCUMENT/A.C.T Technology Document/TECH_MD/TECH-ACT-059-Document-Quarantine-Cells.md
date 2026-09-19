@@ -308,13 +308,6 @@ it can act.
 
 ## OPEN QUESTIONS
 
-- How long should a quiet information-borne hazard remain under full quarantine?
-- Can a self-rewriting document learn the comparison schedule?
-- Should access logs for certain files be quarantined separately from the files themselves?
-- When does preservation become feeding behavior for a hostile record?
-- Can QNB-hardening trap an unsafe version of a document too effectively?
-- Which quarantined files are too dangerous to transfer even to controlled-reading cells?
-
 - What environmental band does a cell hold, and what happens outside it?
 - How often may a document be compared before the comparison becomes a hazard?
 - How many cells are separate from the restricted vaults, and who maps them?

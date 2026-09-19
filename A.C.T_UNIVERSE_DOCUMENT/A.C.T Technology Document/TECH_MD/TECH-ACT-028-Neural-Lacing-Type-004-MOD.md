@@ -323,20 +323,7 @@ absence.
 
 ## OPEN QUESTIONS
 
-- How narrow can a filter be before it becomes unreliable?
-- Can signal-sink residue accumulate into dreams, habits, or unexplained fear?
-  Should implanted personnel be barred from certain testimony because absence of memory is
-  part
-  of the device's
-  function?
-  Can hostile groups design hazards that ride the permitted edges of a known
-  filter
-  list?
-- Does long-term NL-004 use change how a person trusts their own recall?
-- What removal procedure preserves the patient without releasing retained residue?
-
-- What is the signal-sink capacity, and what happens to routed input when it
-  fills?
+- What is the signal-sink capacity, and what happens to routed input when it fills?
 - How is an approved exposure cap calculated for an archive shift?
 - Which memory edges remained missing after the 2014 narrowing, and are they recoverable?
 

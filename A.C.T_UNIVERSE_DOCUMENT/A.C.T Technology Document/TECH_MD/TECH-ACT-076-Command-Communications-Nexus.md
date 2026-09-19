@@ -306,9 +306,7 @@ through channels that can be verified.
 - Should restricted review traffic have priority over containment alarms when both occur together?
 - How long can F-5 command effectively during large-scale seismic damage?
 - Can a false order be more dangerous if it uses correct emergency vocabulary?
-  When should a communications failure become a site incident rather than a technical
-  fault?
-
+- When should a communications failure become a site incident rather than a technical fault?
 - How many channels does the sealed selector carry, and who may add one?
 - What order latency is acceptable between F-5 and a maritime platform?
 - How long does continuity power hold the nexus through a closure?

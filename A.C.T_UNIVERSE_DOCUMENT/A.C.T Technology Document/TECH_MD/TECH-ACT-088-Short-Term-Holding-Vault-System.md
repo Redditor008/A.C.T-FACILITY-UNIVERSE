@@ -293,15 +293,13 @@ temporary.
 
 ## OPEN QUESTIONS
 
-  How many transfer delays can occur before parent command must remove material by
-  emergency
+- How many transfer delays can occur before parent command must remove material by emergency
   route?
-— Which low-threat signs most often precede reclassification?
-— Can a stable holding unit create false confidence in relay authority?
-— Should witness-adjacent material ever share F-1 custody with object anomalies?
-— When should F-1 closure trigger automatic Redwood Veil dispatch?
-— How long can a days-to-weeks vault remain trusted during parent-site congestion?
-
+- Which low-threat signs most often precede reclassification?
+- Can a stable holding unit create false confidence in relay authority?
+- Should witness-adjacent material ever share F-1 custody with object anomalies?
+- When should F-1 closure trigger automatic Redwood Veil dispatch?
+- How long can a days-to-weeks vault remain trusted during parent-site congestion?
 - What custody limit should apply before any classification exists?
 - Which items should never enter a sub-site vault at all?
 - How should an authorised overstay be recorded afterwards?

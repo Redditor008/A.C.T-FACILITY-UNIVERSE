@@ -327,19 +327,10 @@ Standing reminder: MTR buys control of angle. It does not buy ownership of dange
 
 ## OPEN QUESTIONS
 
-- Can a selective causal blade teach itself to cut around a torsion field?
-- How long can a superconducting lock hold during repeated mass-shift events?
-- Does MTR work on living metallic tissue without unacceptable injury?
-- Can hostile groups infer frequency settings from blue conduit pulse rhythm?
-  What is the safest mobile MTR size before transport becomes more dangerous than
-  the
-  subject?
-- Are self-organizing metallic masses responding to magnetic pressure or to restraint intent?
-
-- What is the certified hold rating for each ring diameter, and how was
-  the twenty-ton figure derived?
-- What are the liquid-helium capacity and boil-off rate for a fixed station under
-  continuous lock?
+- What is the certified hold rating for each ring diameter, and how was the
+  twenty-ton figure derived?
+- What are the liquid-helium capacity and boil-off rate for a fixed station under continuous
+  lock?
 - What does the redacted frequency dial actually control, and who holds the settings?
 
 ---

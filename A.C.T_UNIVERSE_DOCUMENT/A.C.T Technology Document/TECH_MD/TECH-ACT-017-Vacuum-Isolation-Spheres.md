@@ -331,25 +331,10 @@ travel.
 
 ## OPEN QUESTIONS
 
-- Which acoustic hazards can transmit without air after long isolation?
-  Are Foundational Era spheres safer because they are simpler or riskier because their
-  seals
-  are undocumented?
-- Can a VIS accidentally preserve a harmful tone better than normal atmosphere would?
-  Should all legacy sound artifacts be moved into modern spheres, or does transfer
-  create
-  more exposure risk?
-- What decibel reading counts as impossible inside a stable vacuum?
-  Can a sphere become contaminated by years of holding the same command, song,
-  or
-  name?
-
-- What vacuum level does a modernized sphere reach, and how long does pump-down
-  take?
-- What shell thickness survives the 1748 failure mode, and was the ceramic changed
-  after it?
-- How are the six-week name-hearing losses from the 1748 rupture held in Medical
-  history?
+- What vacuum level does a modernized sphere reach, and how long does pump-down take?
+- What shell thickness survives the 1748 failure mode, and was the ceramic changed after
+  it?
+- How are the six-week name-hearing losses from the 1748 rupture held in Medical history?
 
 ---
 

@@ -308,16 +308,14 @@ land.
 - Which island recoveries require climate holding before full anomaly classification is complete?
 - How much native-environment detail must Recovery supply before CCIHUS assignment is safe?
 - Can climate-controlled holding hide place-bound dependency long enough to create false confidence?
-  Should volcanic tremor or tide rhythm be treated as climate factors for certain
-  residents?
-  When should an island resident transfer to Verde Null rather than remain at
-  Nusantara?
+- Should volcanic tremor or tide rhythm be treated as climate factors for certain residents?
+- When should an island resident transfer to Verde Null rather than remain at Nusantara?
 - How much Medical intervention can occur before a unit's climate stability is compromised?
-
----- What native-environment detail must Recovery supply first?
+- What native-environment detail must Recovery supply first?
 - Which island residents are actually place-bound?
 - How much medical work can a regimen absorb?
 
+---
 
 ## FILE METADATA
 

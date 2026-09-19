@@ -296,22 +296,18 @@ exits are possible before it trusts the shelf.
 
 ## OPEN QUESTIONS
 
-  Can a document that stops transmitting be trusted, or has it learned the
-  storage
+- Can a document that stops transmitting be trusted, or has it learned the storage
   cadence?
-— How much metadata can be retained before metadata becomes a carrier?
-— Should every signal-isolated holding receive F-4 propagation analysis by default?
-  When does a storage unit become too active for F-3 and require F-2
-  vaulting?
-  Can a quarantine cell and a signal-isolated unit disagree about what a document
-  is?
-  How many quiet days make an anomalous document stable, if quiet can be
-  behavior?
-
----- What emission level requires F-2 escalation rather than monitoring?
+- How much metadata can be retained before metadata becomes a carrier?
+- Should every signal-isolated holding receive F-4 propagation analysis by default?
+- When does a storage unit become too active for F-3 and require F-2 vaulting?
+- Can a quarantine cell and a signal-isolated unit disagree about what a document is?
+- How many quiet days make an anomalous document stable, if quiet can be behavior?
+- What emission level requires F-2 escalation rather than monitoring?
 - Which media carry a signal without being the source?
 - How long may a latent item be held before reassessment?
 
+---
 
 ## FILE METADATA
 

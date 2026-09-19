@@ -316,15 +316,8 @@ the enclosure cannot keep.
 
 ## OPEN QUESTIONS
 
-- Which subjects learn thermal schedules faster than handlers expect?
-- Can a hostile organism fake heat preference to manipulate staff routing?
-- Does repeated beacon use reduce fear or create dependency?
-- How high can output rise before non-hostile relocation becomes coercive harm?
-- Should TLB logs be attached to every feeding record for large predators?
-- Can thermal lure behavior reveal hidden illness before medical symptoms appear?
-
-- What is the maximum output, and at what distance does the lure stop
-  being directional?
+- What is the maximum output, and at what distance does the lure stop being
+  directional?
 - What does the redacted-grade cooling unit contain, and who services it?
 - How is overconditioning detected before a subject waits beside cold units?
 

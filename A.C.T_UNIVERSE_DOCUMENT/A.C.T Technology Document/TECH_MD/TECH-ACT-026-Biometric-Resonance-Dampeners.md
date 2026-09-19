@@ -318,20 +318,10 @@ honest report of it.
 
 ## OPEN QUESTIONS
 
-  Which anomalies detect the absence of ordinary fear as a stronger signal than
-  fear
-  itself?
-— Can BRD use interfere with Adrenaline Micro-Surge Detector readings?
-— Does repeated emotional smoothing affect long-term stress reporting?
-— Can hostile actors use stolen patches to bypass living security checks?
-— Should BRD be prohibited during interviews because it may flatten visible truth cues?
-— How much panic can be masked before the heart itself becomes unsafe?
-
-- What is the approved wear duration before dissociation risk rises, and who sets
-  it per mission?
+- What is the approved wear duration before dissociation risk rises, and who sets it
+  per mission?
 - What dose does the micro-injector deliver, and what is its depletion curve?
-- Which predators have been shown to hear the real heart through an active
-  patch?
+- Which predators have been shown to hear the real heart through an active patch?
 
 ---
 

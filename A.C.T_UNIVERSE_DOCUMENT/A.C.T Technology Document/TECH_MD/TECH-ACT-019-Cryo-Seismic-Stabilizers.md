@@ -321,20 +321,8 @@ wait in a smaller room.
 
 ## OPEN QUESTIONS
 
-  How long can a CSS array suppress world-scale pressure before rebound becomes worse
-  than
-  the initial event?
-— Can repeated freezing teach a site to resist normal structural flex?
-  Does causal heat come from the ground, the stabilizer, or the argument between
-  them?
-— Can hostile groups time a breach to coincide with emergency thaw?
-  Should CSS units be installed near every Massive Box, or would permanent cold
-  create
-  new failure patterns?
-— What exactly is being frozen during a reality-seismic event?
-
-- What is the effective radius of one unit, and how does it change
-  with depth?
+- What is the effective radius of one unit, and how does it change with
+  depth?
 - What does the redacted thermal-cell contain, and who maintains it?
 - How long can suppressed stress stay delayed before rebound becomes the larger event?
 

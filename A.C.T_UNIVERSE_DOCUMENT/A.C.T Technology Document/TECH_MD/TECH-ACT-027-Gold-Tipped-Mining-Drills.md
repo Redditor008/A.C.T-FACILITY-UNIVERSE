@@ -327,19 +327,9 @@ yes.
 
 ## OPEN QUESTIONS
 
-- Does Pale Wood become less stable after repeated gold-contact modification?
-- Can acoustic disc readings distinguish structure from sleeping organism?
-- How much gold dust is enough to contaminate an ordinary workshop?
-- Should all GTMD sites be checked with Non-Euclidean Compass before drilling?
-- Are hollow agreement readings warnings, permissions, or traps?
-  Can hostile groups use gold-tipped tools to open Dark World boundaries from the
-  wrong
-  side?
-
-- How thick is the gold plating, and how many metres of Pale Wood
-  does one bit survive?
-- What does the acoustic disc classify as hollow agreement, and who interprets the
-  tone?
+- How thick is the gold plating, and how many metres of Pale Wood does
+  one bit survive?
+- What does the acoustic disc classify as hollow agreement, and who interprets the tone?
 - How is Pale Wood dust decontaminated once it has settled on ordinary surfaces?
 
 ---

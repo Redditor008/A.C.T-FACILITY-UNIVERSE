@@ -299,27 +299,22 @@ permitted to walk through it.
 
 ## OPEN QUESTIONS
 
-  How often should reserve-duty suitability be retested for personnel who remain in the
-  wilderness
+- How often should reserve-duty suitability be retested for personnel who remain in the wilderness
   for extended cycles?
-  Can strong ecological skill compensate for weak cover discipline, or must cover failure
-  always
+- Can strong ecological skill compensate for weak cover discipline, or must cover failure always
   remove campus access?
-  Should sapient-resident care bonds create automatic personnel review, or only when procedure is
-  affected?
-  How much Medical detail should be visible to Security when access restriction is
-  based
+- Should sapient-resident care bonds create automatic personnel review, or only when procedure is affected?
+- How much Medical detail should be visible to Security when access restriction is based
   on stress or exposure?
-— Can public-program researchers be trained into concealed roles without damaging their external professional
+- Can public-program researchers be trained into concealed roles without damaging their external professional
   credibility?
-  Should PPRCS deny advancement when a person is valuable in the field but
-  deteriorating
+- Should PPRCS deny advancement when a person is valuable in the field but deteriorating
   in isolation?
-
----- Which duties should never be held by a campus employee?
+- Which duties should never be held by a campus employee?
 - How should a fatigue flag be cleared after a long rotation?
 - What identity continuity is required between the two populations?
 
+---
 
 ## FILE METADATA
 

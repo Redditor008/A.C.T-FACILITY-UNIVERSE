@@ -300,13 +300,10 @@ story given back to them.
 - How often does a true account survive better than a false replacement?
 - Can repeated regional witness narratives create detectable patterning?
 - When does sanitation become medical harm rather than secrecy protection?
-  How should the relay handle witnesses who saw the cover campus and the
-  buried
+- How should the relay handle witnesses who saw the cover campus and the buried
   relay together?
-  What level of aftercare is owed when the witness never learns why they
-  need
+- What level of aftercare is owed when the witness never learns why they need
   it?
-
 - Which procedure class should be presumed when evidence is thin?
 - How long must recovery last before release is considered safe?
 - When does a preserved true account serve better than a replacement?

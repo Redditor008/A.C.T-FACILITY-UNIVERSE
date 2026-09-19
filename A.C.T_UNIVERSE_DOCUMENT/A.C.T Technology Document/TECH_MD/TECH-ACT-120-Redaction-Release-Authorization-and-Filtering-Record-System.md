@@ -302,23 +302,19 @@ prove later.
 
 ## OPEN QUESTIONS
 
-  Can a document ever be declared safe forever, or only safe under named
-  conditions?
-  How much warning must remain in a released copy before minimum release becomes
-  under-informative?
-— Can overredaction become a hazard by forcing personnel to guess the missing danger?
-— Should every public-compatible version carry a hidden recall marker?
-  When does a redacted document become a new document rather than a safer
-  form
+- Can a document ever be declared safe forever, or only safe under named conditions?
+- How much warning must remain in a released copy before minimum release becomes under-informative?
+- Can overredaction become a hazard by forcing personnel to guess the missing danger?
+- Should every public-compatible version carry a hidden recall marker?
+- When does a redacted document become a new document rather than a safer form
   of the old one?
-  Can a recall succeed if the released copy has already entered memory, training,
-  or
+- Can a recall succeed if the released copy has already entered memory, training, or
   quoted procedure?
-
----- What makes a release genuinely minimum rather than merely short?
+- What makes a release genuinely minimum rather than merely short?
 - How should an objection be resolved without stalling the request?
 - When must a release be recalled on precaution alone?
 
+---
 
 ## FILE METADATA
 

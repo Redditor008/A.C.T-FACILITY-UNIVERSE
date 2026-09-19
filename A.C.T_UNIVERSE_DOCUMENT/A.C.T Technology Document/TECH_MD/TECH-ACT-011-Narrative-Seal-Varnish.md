@@ -350,26 +350,11 @@ page that must work harder to betray the file.
 
 ## OPEN QUESTIONS
 
-- Can NSV preserve a document too strongly for later lawful correction?
-- Does repeated reapplication make a page resistant to authorized addenda?
-- Why do some self-writing documents tolerate varnish while others avoid treated margins?
-- Can hostile groups use stolen NSV to stabilize forged records inside A.C.T workflows?
-  Does the estimated narrative half-life measure the varnish, the document, or the pressure
-  around
-  it?
-  Should every QNB source page receive NSV before mirroring, or does that risk
-  preserving
-  contaminated wording?
-  Are glossy-dry incidents always nozzle faults, or can the document request emphasis through
-  the
-  varnish?
-
-- What is the measured narrative half-life of a correctly applied seal, and how
-  was the LCD estimate
-  derived?
+- What is the measured narrative half-life of a correctly applied seal, and how was
+  the LCD estimate derived?
 - Which approved synthetic archive sheets have been tested, and which have been rejected?
-- How much of the 2019 glossy batch was used before the quarantine, and
-  where did it go?
+- How much of the 2019 glossy batch was used before the quarantine, and where
+  did it go?
 
 ---
 

@@ -327,18 +327,8 @@ emptiness is not staring back.
 
 ## OPEN QUESTIONS
 
-  Can SAS distinguish a true absence from a subject choosing not to return
-  echo?
-— Do repeated low-frequency pings teach blind predators the shape of the monitoring grid?
-— Should every Blind Box include passive SAS before active pinging is allowed?
-  Can stretched geometry make a wireframe map accurate and misleading at the same
-  time?
-— What acoustic signatures indicate that a mapped organism is listening back?
-  How much of the sub-abyssal depth rendering should be shown to non-specialist command
-  staff?
-
-- What depth and pressure rating does the spike array carry, and how was
-  it tested?
+- What depth and pressure rating does the spike array carry, and how was it
+  tested?
 - What distinguishes a false void from a genuine cavity on the analysis board?
 - Which subjects have been shown to read the ping and respond to it?
 

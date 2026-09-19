@@ -361,22 +361,12 @@ containment systems depend.
 
 ## OPEN QUESTIONS
 
-- Does SPC grow naturally, condense under pressure, or form only after reality-stress events?
-- How many safe source sites exist outside the registered Abyss Floor extraction chain?
-- Can repeated RSA-WHITE events permanently teach a core the wrong baseline?
-- Are counterfeit violet crystals harmless frauds or hostile sensor poisons?
-  Why do some fragments remain cold until loaded while others produce heat at
-  rest?
-- Can shard disagreement be predicted before a four-split core enters service?
-- Does long-term proximity to SPC affect personnel sense of ordinary space?
-
-- What numeric mass, thermal, and pulse bands does the case label record that
-  this file does not?
-- How many source batches remain compatible with issued RSA geometry, and how is
-  drift between them
-  detected?
-- What quantity of discarded shard material has been unaccounted for since the 1982
-  waste chip loss?
+- What numeric mass, thermal, and pulse bands does the case label record that this
+  file does not?
+- How many source batches remain compatible with issued RSA geometry, and how is drift
+  between them detected?
+- What quantity of discarded shard material has been unaccounted for since the 1982 waste
+  chip loss?
 
 ---
 

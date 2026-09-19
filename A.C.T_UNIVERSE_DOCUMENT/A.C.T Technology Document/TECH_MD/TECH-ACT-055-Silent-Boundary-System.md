@@ -320,18 +320,6 @@ carried carefully.
 
 ## OPEN QUESTIONS
 
-- Which 1926 concealment sites still contain original Silent Boundary architecture?
-  How many cover stories can a region carry before the public begins noticing
-  the
-  pattern of explanations?
-- Can folklore covers remain stable across generations without becoming worship?
-- What threshold turns a local mask into a structural normalcy operation?
-  How often should staff assigned to public records read the true archive to
-  prevent
-  internal memory drift?
-  Can a hostile GOI weaponize an accurate smaller truth against a necessary larger
-  mask?
-
 - How long is a contradiction ledger entry retained, and who may read it?
 - What proportion of covers survive partial truth exposure?
 - What did the 2026 ledger warning change about approval recording?

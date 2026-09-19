@@ -307,23 +307,20 @@ loudest alarm.
 
 ## OPEN QUESTIONS
 
-  How much restricted deep-monitoring information should appear on a command status wall during
-  ordinary
+- How much restricted deep-monitoring information should appear on a command status wall during ordinary
   operations?
-  Can a duty officer delay action to improve the whole-relay picture, or does
-  delay
+- Can a duty officer delay action to improve the whole-relay picture, or does delay
   become command failure?
-— Should personnel readiness be allowed to override an otherwise correct operational plan?
-— How much surface cover status should influence deep containment decisions?
-— Can too many overlays make the command picture less truthful by becoming unreadable?
-  When should command request support from another site before the relay admits loss
-  of
+- Should personnel readiness be allowed to override an otherwise correct operational plan?
+- How much surface cover status should influence deep containment decisions?
+- Can too many overlays make the command picture less truthful by becoming unreadable?
+- When should command request support from another site before the relay admits loss of
   capacity?
-
----- What decision latency is acceptable during a multi-division event?
+- What decision latency is acceptable during a multi-division event?
 - Which feeds must never be displayed together?
 - How should a watch hand over during an active incident?
 
+---
 
 ## FILE METADATA
 

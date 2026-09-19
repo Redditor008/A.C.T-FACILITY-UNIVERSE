@@ -307,21 +307,19 @@ worker is allowed to be.
 
 ## OPEN QUESTIONS
 
-  How long can public archive staff work near the boundary before curiosity itself
-  becomes
+- How long can public archive staff work near the boundary before curiosity itself becomes
   a screening factor?
-— Should operational clearance require loss of certain public-facing duties?
-— Can a denied worker remain trusted in the legitimate foundation complex?
-  How much of a denial reason may be shown without exposing the existence
-  of
+- Should operational clearance require loss of certain public-facing duties?
+- Can a denied worker remain trusted in the legitimate foundation complex?
+- How much of a denial reason may be shown without exposing the existence of
   the buried archive?
-— Should repeated supervised transitions count as de facto operational assignment?
-— When does preserving cover require refusing the most qualified document specialist available?
-
----- What identity continuity is required across a role change?
+- Should repeated supervised transitions count as de facto operational assignment?
+- When does preserving cover require refusing the most qualified document specialist available?
+- What identity continuity is required across a role change?
 - How long should an operational-depth clearance last?
 - Which incidents must reach the Site Director review terminal?
 
+---
 
 ## FILE METADATA
 

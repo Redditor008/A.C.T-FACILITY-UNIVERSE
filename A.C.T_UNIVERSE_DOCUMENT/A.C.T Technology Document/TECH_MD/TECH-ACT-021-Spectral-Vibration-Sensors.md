@@ -325,19 +325,11 @@ Standing reminder: if the room develops rhythm, assume something is counting peo
 
 ## OPEN QUESTIONS
 
-- Can some narrative scripts leak without any acoustic component?
-- How many false amber events are acceptable before personnel begin ignoring the sensor?
-- Can hostile anomalies learn to produce anti-rhythm below detection threshold?
-- Does the sensor detect the script, the room's response, or staff expectation?
-- Should SVS data be mirrored into QNB after every amber warning?
-- Can repeated clicking become its own hazard in high-sensitivity archive wings?
-
-- What frequency range does the pickup plate actually cover, and what falls outside
-  it?
-- How is the amber threshold set, and has it ever been published to
-  zone staff?
-- What did the three files gain in the 2009 event, and were the
-  line matches explained?
+- What frequency range does the pickup plate actually cover, and what falls outside it?
+- How is the amber threshold set, and has it ever been published to zone
+  staff?
+- What did the three files gain in the 2009 event, and were the line
+  matches explained?
 
 ---
 

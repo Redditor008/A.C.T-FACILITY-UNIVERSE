@@ -324,15 +324,6 @@ the room has stopped listening.
 
 ## OPEN QUESTIONS
 
-- Does every piece of Abyssal Basalt carry the same Stretched-space compression history?
-- Can mass-shift readings predict structural failure before visible cracking?
-- Why do some non-basalt anomalies reproduce Abyssal Basalt density without carrying its weight?
-- Does long-term installation near sleeping or buried entities alter basalt behavior?
-- Can Abyssal Basalt be safely cut without releasing stored spatial strain?
-  Are omitted structural tracking codes purely logistical, or do the complete codes have
-  operational
-  effect?
-
 - What is the stone's density, and how does it compare with Abyssal Masonry?
 - What compression tolerance does a shield panel hold before the strain tag trips?
 - Which omitted sections of the tracking code remain restricted, and why?

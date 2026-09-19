@@ -316,16 +316,9 @@ A.C.T.
 
 ## OPEN QUESTIONS
 
-- How much of the original SDE metallurgy came from known terrestrial sources?
-- Did deep pressure alter the drill components before ITHYOS was found?
-- Were all route maps preserved, or were some destroyed after ABYSS doctrine formed?
-- Can modern excavation safety learn from SDE without repeating its assumptions?
-- Did the machine's success encourage the founders to misread descent as control?
-- Are any unregistered SDE components still embedded in sealed lower access routes?
-
 - What bore diameter and descent rate did the platform actually achieve?
-- How deep did the First Descent reach, and what does the descent map
-  plate omit?
+- How deep did the First Descent reach, and what does the descent map plate
+  omit?
 - Which preserved components still carry measurable pressure or heat memory?
 
 ---

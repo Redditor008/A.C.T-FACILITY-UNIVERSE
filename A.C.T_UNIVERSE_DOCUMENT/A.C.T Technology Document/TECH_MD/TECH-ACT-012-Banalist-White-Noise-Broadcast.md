@@ -350,21 +350,10 @@ broadcast has already done too much.
 
 ## OPEN QUESTIONS
 
-- Which anomalies feed on dullness instead of being disrupted by it?
-- Can long-term BWB exposure make staff less responsive to real emergency announcements?
-- How often should manifest libraries be retired before patterns become exploitable?
-- Can hostile GOIs hide code inside apparently boring administrative fragments?
-- Does BWB reduce narrative pressure equally across languages and cultures?
-  Should CSG and BWB share entropy data, or would linked systems create a
-  larger
-  failure surface?
-- Are dead-air pockets more dangerous in containment wings than in public cover sites?
-
-- What is the coverage radius of a single node, and how is a
-  silent pocket detected automatically?
+- What is the coverage radius of a single node, and how is a silent
+  pocket detected automatically?
 - How is the dullness entropy scale defined, and what value counts as green?
-- How often is the manifest fragment library refreshed, and who approves a new
-  fragment?
+- How often is the manifest fragment library refreshed, and who approves a new fragment?
 
 ---
 

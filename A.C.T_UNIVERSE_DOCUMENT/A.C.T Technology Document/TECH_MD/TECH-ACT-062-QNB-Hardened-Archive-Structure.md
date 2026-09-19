@@ -312,14 +312,6 @@ to quietly replace.
 
 ## OPEN QUESTIONS
 
-- Can a hostile rewrite attack the room state before it attacks the file?
-- How much hardening is safe for records that require routine amendment?
-- Can QHAS preserve a harmful falsehood too effectively?
-- Should witness records and medical records use different continuity thresholds?
-  Can a quarantine cell lie about its contents while the QNB record remains
-  correct?
-- What happens when the room remembers a file that every authorized reader forgets?
-
 - What proportion of the archive is hardened, and what is deliberately left unhardened?
 - How often does the checksum relay compare, and what depth does it reach?
 - Which records are held under an open causal dispute at present?

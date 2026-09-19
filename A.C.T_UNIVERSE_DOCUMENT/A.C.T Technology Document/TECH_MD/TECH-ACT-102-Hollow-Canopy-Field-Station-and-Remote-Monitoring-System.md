@@ -288,13 +288,11 @@ the field changes.
 ## OPEN QUESTIONS
 
 - Which resident changes are natural growth and which are responses to being watched?
-  How small must a field station be before it no longer changes the
-  sector?
+- How small must a field station be before it no longer changes the sector?
 - Can remote monitoring miss the exact ecological relationship that direct observation would reveal?
 - Should some sectors be observed less often to preserve stability?
 - When does a data gap require physical entry despite intrusion risk?
 - Can concealed monitoring infrastructure itself become part of the resident's field?
-
 - What gap duration justifies physical entry?
 - Which relationships can only be seen in person?
 - Can monitoring hardware become part of the resident's field?

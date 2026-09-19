@@ -295,22 +295,19 @@ fails downward through stone.
 
 ## OPEN QUESTIONS
 
-  How long may command shorten rest cycles before the watch becomes less reliable
-  than
+- How long may command shorten rest cycles before the watch becomes less reliable than
   a reduced staff posture?
-  Should island fatigue be treated as a Medical condition, a command metric, or
-  both?
-— Can personnel housing remain domestic when it sits beside the command floor?
-— How often should seismic readiness drills interrupt protected rest?
-— Should domestic conflict inside F-5 trigger clearance review for operational floors below?
-  What is the minimum safe population for the relay when maritime, seismic, and
-  holding
+- Should island fatigue be treated as a Medical condition, a command metric, or both?
+- Can personnel housing remain domestic when it sits beside the command floor?
+- How often should seismic readiness drills interrupt protected rest?
+- Should domestic conflict inside F-5 trigger clearance review for operational floors below?
+- What is the minimum safe population for the relay when maritime, seismic, and holding
   events overlap?
-
----- What rest interval should follow a descent shift?
+- What rest interval should follow a descent shift?
 - How much staff may command borrow during an incident?
 - When does housing capacity limit relay operations?
 
+---
 
 ## FILE METADATA
 

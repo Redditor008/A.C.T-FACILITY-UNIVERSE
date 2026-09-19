@@ -308,13 +308,12 @@ facility survive its daily work.
 - How many documentation discrepancies justify moving a resident out of standard holding?
 - Can a chamber row develop floor-level behavior from residents that remain individually standard?
 - Should transformation-potential review happen before or after long-term standard stability?
-  Does a standard Box teach personnel to respect ordinary containment or to underestimate
-  it?
-
----- What interval should trigger reassessment of a long hold?
+- Does a standard Box teach personnel to respect ordinary containment or to underestimate it?
+- What interval should trigger reassessment of a long hold?
 - Should Box class follow size, reach, or service burden?
 - When does a quiet row become a floor-level concern?
 
+---
 
 ## FILE METADATA
 

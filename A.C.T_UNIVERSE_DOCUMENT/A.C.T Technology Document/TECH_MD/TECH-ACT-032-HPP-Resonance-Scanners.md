@@ -322,13 +322,6 @@ to the wrong thing.
 
 ## OPEN QUESTIONS
 
-- Can PR-score change after repeated anomaly exposure?
-- Does Neural Lacing hide true HPP resonance or only its readable surface?
-- Are inherited HPP patterns stable across families or produced by encounter history?
-- Should high-HPP staff be barred from blood-contact artifact work entirely?
-- Can an artifact learn a subject's resonance from archived scan data?
-- What amount of score disclosure helps safety without creating self-mythology?
-
 - How are PR-score bands defined, and what assignment follows each band?
 - How far does a site static recalibration hold after a gateway is relocated?
 - What did the 2026 self-mythology case change about score disclosure policy?

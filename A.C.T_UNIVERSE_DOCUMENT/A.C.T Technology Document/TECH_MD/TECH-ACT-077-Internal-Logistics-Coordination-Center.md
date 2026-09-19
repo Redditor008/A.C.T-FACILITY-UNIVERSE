@@ -291,13 +291,11 @@ and alive with movement.
 
 - Which movement categories should stop automatically during F-1 closure?
 - Can informal tool movement create enough custody loss to trigger review?
-  How should ILCC route personnel when surface transition and deep floors both need
-  evacuation
+- How should ILCC route personnel when surface transition and deep floors both need evacuation
   priority?
 - Should port handoff delays automatically freeze laboratory scheduling?
 - Can a resident influence logistics by altering what staff believe is urgent?
 - When does a logistics error become a containment breach?
-
 - What route capacity does the site hold between surface and vault levels?
 - How large is the escort pool, and how is it prioritised?
 - What did the seismic preparedness drill change about route re-survey timing?

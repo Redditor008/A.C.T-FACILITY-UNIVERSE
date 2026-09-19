@@ -324,13 +324,6 @@ room is dangerous.
 
 ## OPEN QUESTIONS
 
-- Do the shifting stars react to contamination or only reveal fabric movement?
-- Can hydrophobic treatment interfere with the radiation-counter strip over long use?
-- Should blackened strips trigger automatic suit lockout tags?
-- Can Crystal Butterfly dust hide inside star-motive weave without visible dulling?
-- Is the self-luminous fiber safe near light-sensitive anomalies?
-- How much beauty can PPE carry before operators begin trusting it too much?
-
 - What gamma attenuation does the weave provide, and how was it measured?
 - At what exposure does the hem strip saturate to black?
 - How many treatment refreshes does one garment survive before withdrawal?

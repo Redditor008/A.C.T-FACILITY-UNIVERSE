@@ -296,22 +296,19 @@ never learns to ask about.
 
 ## OPEN QUESTIONS
 
-  How ordinary can a wall remain after too many personnel are trained never
-  to
+- How ordinary can a wall remain after too many personnel are trained never to
   notice it?
-— Should loading bay denials be randomized to avoid pattern recognition?
-— Can the wall's unbreached record make staff slow to report small boundary changes?
-  How much legitimate campus traffic should be allowed near the Facility side of
-  logistics?
-— Does emergency sealing protect the core or reveal that the core exists?
-  When does perfect concealment become dangerous because no one outside Security remembers the
-  boundary
+- Should loading bay denials be randomized to avoid pattern recognition?
+- Can the wall's unbreached record make staff slow to report small boundary changes?
+- How much legitimate campus traffic should be allowed near the Facility side of logistics?
+- Does emergency sealing protect the core or reveal that the core exists?
+- When does perfect concealment become dangerous because no one outside Security remembers the boundary
   is active?
-
----- How is an unmarked wall repaired without marking it?
+- How is an unmarked wall repaired without marking it?
 - Does screening everything that enters teach outsiders what to ask?
 - Who decides the wall is breached before the sensor confirms it?
 
+---
 
 ## FILE METADATA
 

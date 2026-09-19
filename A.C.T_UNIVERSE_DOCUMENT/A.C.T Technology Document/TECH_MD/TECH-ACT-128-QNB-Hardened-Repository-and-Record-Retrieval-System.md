@@ -294,23 +294,19 @@ from the world that wants the page to have always said something else.
 
 ## OPEN QUESTIONS
 
-  Can a record be contained if the first version entered the archive already
-  lied?
-  When does retrieval create a new containment event by making a forgotten fact
-  active
+- Can a record be contained if the first version entered the archive already lied?
+- When does retrieval create a new containment event by making a forgotten fact active
   again?
-  How much access-history detail may be visible before the log becomes a restricted
-  record?
-— Should every denied retrieval be reviewed for curiosity risk?
-— Can QNB-hardening preserve institutional memory too well when command needs forgetting?
-  If a record changes and no one can prove when, is the archive
-  damaged
+- How much access-history detail may be visible before the log becomes a restricted record?
+- Should every denied retrieval be reviewed for curiosity risk?
+- Can QNB-hardening preserve institutional memory too well when command needs forgetting?
+- If a record changes and no one can prove when, is the archive damaged
   or corrected?
-
----- Can a write-once record preserve a fact that later becomes false?
+- Can a write-once record preserve a fact that later becomes false?
 - Does hardening the repository make the retrieval path the weak point?
 - Who authorizes correction when the only lawful edit is an addition?
 
+---
 
 ## FILE METADATA
 

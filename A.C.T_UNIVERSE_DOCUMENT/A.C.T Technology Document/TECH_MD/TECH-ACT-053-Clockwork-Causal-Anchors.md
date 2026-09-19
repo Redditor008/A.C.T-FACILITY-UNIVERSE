@@ -312,14 +312,6 @@ you check the clock.
 
 ## OPEN QUESTIONS
 
-- Did any CCA ever stabilize a full room without later sequence debt?
-  Are the oldest brass gear ratios copied from ordinary horology or from anomalous
-  observation?
-- Can a clockwork anchor accidentally teach an artifact a repeatable escape rhythm?
-- Why do some units affect ledgers more strongly than physical objects?
-- Should surviving units remain intact, or should stored tension risks require disassembly?
-- Did CCA doctrine influence the first RSA prototype more than current engineering admits?
-
 - What range of space could a cabinet unit actually hold in sequence?
 - How many winding turns produce a measurable effect, and who sets that figure?
 - Which surviving units are still synchronised to a room, artifact, or file?

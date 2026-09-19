@@ -295,19 +295,16 @@ boundary.
 
 ## OPEN QUESTIONS
 
-  Which deep signals are geological, and which are geological only because the anomaly
-  is
+- Which deep signals are geological, and which are geological only because the anomaly is
   using geology?
-— Can a buried anomaly learn the array rhythm over long observation?
-  How far below F-1 can A.C.T listen before the data becomes interpretation instead
-  of
+- Can a buried anomaly learn the array rhythm over long observation?
+- How far below F-1 can A.C.T listen before the data becomes interpretation instead of
   measurement?
-— Do Sonar Void events and abyss-linked seismic gaps share a common absence pattern?
-— Can a node be influenced without physical damage?
-— Should array silence be treated as lower risk or higher risk?
-
-- How many nodes make up the field, and how deep does the deepest
-  string reach?
+- Do Sonar Void events and abyss-linked seismic gaps share a common absence pattern?
+- Can a node be influenced without physical damage?
+- Should array silence be treated as lower risk or higher risk?
+- How many nodes make up the field, and how deep does the deepest string
+  reach?
 - What detection threshold separates ordinary geology from a candidate?
 - Which nodes are embedded in natural stone, and why were those positions chosen?
 

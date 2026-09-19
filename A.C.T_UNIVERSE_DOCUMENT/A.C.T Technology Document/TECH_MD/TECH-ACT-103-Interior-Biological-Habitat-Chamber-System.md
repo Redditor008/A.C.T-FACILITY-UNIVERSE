@@ -293,15 +293,12 @@ life.
 
 ## OPEN QUESTIONS
 
-  Which residents are stabilized by built habitat and which are merely delayed from
-  failing?
-  Can a chamber become too accurate a habitat and encourage growth beyond containment
-  limits?
-— When should a resident move to open enclosure despite interior convenience?
-— How often should chamber baselines be recalibrated against native-field observations?
-— Can cross-contamination occur through environmental controls before physical contact?
-— When does interior holding become unauthorized cultivation?
-
+- Which residents are stabilized by built habitat and which are merely delayed from failing?
+- Can a chamber become too accurate a habitat and encourage growth beyond containment limits?
+- When should a resident move to open enclosure despite interior convenience?
+- How often should chamber baselines be recalibrated against native-field observations?
+- Can cross-contamination occur through environmental controls before physical contact?
+- When does interior holding become unauthorized cultivation?
 - How is habitat match measured rather than assumed?
 - Which residents should never be moved indoors at all?
 - When does a provisional habitat become an admission of failure?

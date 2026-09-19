@@ -326,15 +326,6 @@ the jug is temporary mercy.
 
 ## OPEN QUESTIONS
 
-- Does RRA-S retain any relationship to the Red River after extraction?
-- Can source moon cycle alter stabilized acid behavior?
-- Why does Pale Wood resist contact that destroys Earth materials?
-- Can RRA-S safely reverse bloomed Steel-Dirt without releasing Blue Haze?
-- Does the low-frequency hum carry biological or navigational meaning for Eel-Crabs?
-  How long can a neutralization tab hold shutdown before the acid resumes being
-  river
-  material?
-
 - What is the fluid's molecular weight, and why is it abnormal?
 - How fast does a stabilized sample etch each approved surface class?
 - What differs between red-cycle and blue-cycle collection, and does it change behaviour?

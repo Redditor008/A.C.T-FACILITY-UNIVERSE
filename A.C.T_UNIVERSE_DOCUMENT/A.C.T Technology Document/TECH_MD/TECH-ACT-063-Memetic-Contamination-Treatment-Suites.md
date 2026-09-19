@@ -313,15 +313,6 @@ follows what care proves.
 
 ## OPEN QUESTIONS
 
-- Which memetic injuries can heal without memory alteration?
-  Can treatment notes carry a weaker but still dangerous form of the original
-  contaminant?
-- How should clinicians distinguish trauma repetition from hostile phrase persistence?
-- When does cognitive treatment require containment escalation?
-  Can repeated low-level exposure create staff who appear functional but no longer think
-  independently?
-- Should duty-return decisions be reviewed by Medical alone or jointly with Containment?
-
 - What is the approved treatment course length, and what ends a course?
 - What stimulus floor does the bay hold at its minimal setting?
 - How is recovery measured when the effect can stay dormant?

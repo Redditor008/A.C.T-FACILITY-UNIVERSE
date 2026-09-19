@@ -300,22 +300,19 @@ the weather help guard the door.
 
 ## OPEN QUESTIONS
 
-  How much real science is enough to keep a cover alive through decades
-  of
+- How much real science is enough to keep a cover alive through decades of
   scrutiny?
-— Can a seasonal transport delay become safer than a rushed concealed transition?
-— Should cover personnel be rotated before they learn buried movement rhythms?
-— Does reliance on arctic isolation make the station brittle when the weather changes?
-— How many ordinary logistics excuses can be used before they become a pattern?
-  Is the surface program protecting the buried station, or has the buried station
-  become
-  dependent on the surface
-  program's truth?
-
----- Can genuine research and genuine cover be told apart from outside?
+- Can a seasonal transport delay become safer than a rushed concealed transition?
+- Should cover personnel be rotated before they learn buried movement rhythms?
+- Does reliance on arctic isolation make the station brittle when the weather changes?
+- How many ordinary logistics excuses can be used before they become a pattern?
+- Is the surface program protecting the buried station, or has the buried station become
+  dependent on the surface program's truth?
+- Can genuine research and genuine cover be told apart from outside?
 - What becomes of the cover when a season is cancelled?
 - Is a visiting scientist a boundary problem or a guest?
 
+---
 
 ## FILE METADATA
 

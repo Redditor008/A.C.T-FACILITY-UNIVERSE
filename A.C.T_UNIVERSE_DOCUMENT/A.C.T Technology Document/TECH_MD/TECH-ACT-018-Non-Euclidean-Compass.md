@@ -342,26 +342,8 @@ Standing reminder: the compass points toward meaning. Meaning is not always an a
 
 ## OPEN QUESTIONS
 
-  Does Narrative North exist in every unstable space, or only where a route
-  has
-  story pressure?
-— Can hostile environments learn to spoof low-density safe routes?
-— Does following the compass increase the density it detects?
-  What is the difference between a true dead map and a space that
-  refuses
-  to be important?
-  Can thread-lock find a person who no longer has the same name, body,
-  or
-  timeline?
-  Should NEC use be banned during certain CSG operations because static may flatten
-  the
-  wrong pressure?
-— Are some exits safe precisely because the compass considers them meaningless?
-
-- How is Narrative Density scaled, and what value has ever predicted an actual
-  trap?
-- What is the maximum safe viewing time on filtered output before witness agreement
-  degrades?
+- How is Narrative Density scaled, and what value has ever predicted an actual trap?
+- What is the maximum safe viewing time on filtered output before witness agreement degrades?
 - Which target links qualify a thread lock, and who authorizes a new one?
 
 ---

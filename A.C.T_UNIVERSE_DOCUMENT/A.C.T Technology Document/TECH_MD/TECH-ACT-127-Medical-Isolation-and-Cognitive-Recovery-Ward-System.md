@@ -296,17 +296,16 @@ contain anything through them.
 ## OPEN QUESTIONS
 
 - When does artifact-influence evaluation become containment rather than care?
-  How much duty detail may a patient reveal before treatment violates another restriction
-  set?
+- How much duty detail may a patient reveal before treatment violates another restriction set?
 - Should personnel be admitted for curiosity fixation before exposure is confirmed?
 - Can confidentiality protect the patient and still warn command quickly enough?
 - How long may isolation continue before it becomes part of the injury?
 - Does return-to-duty review measure recovery, obedience, or both?
-
----- Should a ward hold a patient who is also a resident?
+- Should a ward hold a patient who is also a resident?
 - Does the exposure-limited channel under-report by design?
 - Who reviews a return-to-duty decision that later proved wrong?
 
+---
 
 ## FILE METADATA
 

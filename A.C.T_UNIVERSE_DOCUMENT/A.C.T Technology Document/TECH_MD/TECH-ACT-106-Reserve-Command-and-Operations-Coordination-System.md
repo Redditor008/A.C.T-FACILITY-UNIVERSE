@@ -310,27 +310,21 @@ are hidden in the forest.
 
 ## OPEN QUESTIONS
 
-  How much sector automation should RCOCS accept before field staff lose practical understanding
-  of
+- How much sector automation should RCOCS accept before field staff lose practical understanding of
   the wilderness?
-  Should public-program campus schedules be visible to all command staff or only to
-  cover-cleared
+- Should public-program campus schedules be visible to all command staff or only to cover-cleared
   duty officers?
-  Can a perimeter event be treated as minor if it repeats across unrelated
-  sectors?
-— When should command override ecological authority during a fast containment event?
-  How many simultaneous biological alerts can the buried command floor process before outside
-  site
+- Can a perimeter event be treated as minor if it repeats across unrelated sectors?
+- When should command override ecological authority during a fast containment event?
+- How many simultaneous biological alerts can the buried command floor process before outside site
   support is mandatory?
-  Should RCOCS keep resident behavior patterns in command view, or does that create
-  unnecessary
-  bias against sapient
-  residents?
-
----- What check-in interval is short enough to be useful outdoors?
+- Should RCOCS keep resident behavior patterns in command view, or does that create unnecessary
+  bias against sapient residents?
+- What check-in interval is short enough to be useful outdoors?
 - Which sector alerts must never cross the cross-site relay?
 - How should a floor transition be commanded during a field incident?
 
+---
 
 ## FILE METADATA
 

@@ -309,26 +309,20 @@ in public.
 
 ## OPEN QUESTIONS
 
-  How much anomaly suspicion should public-facing staff be trained to recognize before training
-  itself
+- How much anomaly suspicion should public-facing staff be trained to recognize before training itself
   threatens cover?
-  Can a public researcher be allowed to continue work after witnessing an immediate
-  transfer
+- Can a public researcher be allowed to continue work after witnessing an immediate transfer
   event?
-  Should every digitization halt trigger operational review even when later analysis proves ordinary
-  damage?
-  How many temporary closures can the public foundation sustain before scholars notice a
-  pattern?
-  Can an item be declared safe for return to F-8 after operational review,
-  or
-  does suspicion permanently remove it from
-  public custody?
-— When does calm cover language become dangerous because it slows transfer too much?
-
----- What may staff say to a reader during a closure?
+- Should every digitization halt trigger operational review even when later analysis proves ordinary damage?
+- How many temporary closures can the public foundation sustain before scholars notice a pattern?
+- Can an item be declared safe for return to F-8 after operational review, or
+  does suspicion permanently remove it from public custody?
+- When does calm cover language become dangerous because it slows transfer too much?
+- What may staff say to a reader during a closure?
 - Which items must never be carried across the public floor?
 - How long may a reading room stay closed before it draws attention?
 
+---
 
 ## FILE METADATA
 

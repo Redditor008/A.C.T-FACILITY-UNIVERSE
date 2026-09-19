@@ -328,19 +328,8 @@ reach you.
 
 ## OPEN QUESTIONS
 
-  Can a subject learn the offset rhythm of PSCG and force gaze contact
-  through
-  it?
-— Should all PSCG panels default to opacity after power loss?
-— How much visual degradation is humane during long-term Subject Care monitoring?
-— Can phase-shifted glass preserve privacy better than cameras in cooperative suites?
-— Does repeated viewing through PSCG change observer perception outside the suite?
-  Can PSCG be safely used for subjects that are not only phased but
-  temporally
-  delayed?
-
-- What phase offset range does the slider actually cover, and who calibrates it
-  per suite?
+- What phase offset range does the slider actually cover, and who calibrates it per
+  suite?
 - How is fidelity reduction scaled against a known visual-trigger hazard?
 - What did the 2026 visor delay conflict change about paired PPE procedure?
 

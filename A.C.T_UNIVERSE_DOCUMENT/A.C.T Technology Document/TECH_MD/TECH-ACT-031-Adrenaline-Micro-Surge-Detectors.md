@@ -324,17 +324,6 @@ Standing reminder: a calm voice over a rising gauge is not evidence of control.
 
 ## OPEN QUESTIONS
 
-- Can AMSD detect non-adrenal panic states produced by dream or memory hazards?
-- Should suite sedation require two biological indicators instead of one surge threshold?
-  How often do staff learn to suppress visible panic while the wristband still
-  sees
-  it?
-- Can attraction hazards deliberately shape the surge curve to avoid alarm?
-- Should AMSD data be retained as medical record, breach evidence, or both?
-  What is the safe protocol when the detector says danger and the subject
-  says
-  consent?
-
 - What are the configured surge thresholds, and who sets them per suite?
 - How much sedative does a micro-release deliver, and how many refills are approved?
 - Which hazards have been shown to flatten stress rather than raise it?

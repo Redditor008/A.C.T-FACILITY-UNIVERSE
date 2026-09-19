@@ -304,23 +304,19 @@ ordinary shadow.
 
 ## OPEN QUESTIONS
 
-  How many concealed transitions can occur in one day before campus movement becomes
-  patterned?
-  Should recovered material ever move through F-6 while external collaborators are present on
-  the
+- How many concealed transitions can occur in one day before campus movement becomes patterned?
+- Should recovered material ever move through F-6 while external collaborators are present on the
   island?
-— Can port separation remain credible during high-tempo maritime recovery?
-— What ordinary campus reason best supports a sudden surface seal without creating curiosity?
-  Should Security prioritize stopping observation or preserving the observer's belief that nothing unusual
-  occurred?
-  When does a legitimate research schedule become too useful as cover and therefore
-  too
+- Can port separation remain credible during high-tempo maritime recovery?
+- What ordinary campus reason best supports a sudden surface seal without creating curiosity?
+- Should Security prioritize stopping observation or preserving the observer's belief that nothing unusual occurred?
+- When does a legitimate research schedule become too useful as cover and therefore too
   dangerous to keep using?
-
----- What separation interval keeps two traffic classes unrelated?
+- What separation interval keeps two traffic classes unrelated?
 - Which recovered material should never cross the surface?
 - How should the gateway operate during a port surge?
 
+---
 
 ## FILE METADATA
 

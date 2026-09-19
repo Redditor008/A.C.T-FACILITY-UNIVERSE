@@ -299,14 +299,12 @@ ARBA doctrine holds that a relay remembers only long enough to pass memory onwar
 
 ## OPEN QUESTIONS
 
-  Which field packets should bypass Glass Orchard and go directly to the parent
-  archive?
-— How long can a witness file remain buffered before release review becomes unsafe?
-— Should every temporary holding manifest create a duplicate archive packet?
-— Can restricted-record flags themselves reveal too much about an event?
-— When should ARBA refuse a document rather than buffer it?
-— How often should parent-archive receipt be audited against relay custody closure?
-
+- Which field packets should bypass Glass Orchard and go directly to the parent archive?
+- How long can a witness file remain buffered before release review becomes unsafe?
+- Should every temporary holding manifest create a duplicate archive packet?
+- Can restricted-record flags themselves reveal too much about an event?
+- When should ARBA refuse a document rather than buffer it?
+- How often should parent-archive receipt be audited against relay custody closure?
 - What buffer limit should trigger escalation rather than waiting?
 - Which records must never be buffered at a sub-site?
 - How should a custody break be recorded after the fact?

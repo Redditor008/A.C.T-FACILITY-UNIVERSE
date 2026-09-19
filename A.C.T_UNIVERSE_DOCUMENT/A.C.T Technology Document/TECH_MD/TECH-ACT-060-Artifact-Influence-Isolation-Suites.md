@@ -311,15 +311,6 @@ Standing reminder: a person can carry an anomaly and still be a patient first.
 
 ## OPEN QUESTIONS
 
-- How long can clinical isolation continue before it becomes containment custody?
-- Can artifact influence hide inside ordinary trauma symptoms?
-- Which findings should be shared with Containment without violating medical trust?
-- Can repeated AIIS admission harm a staff member's willingness to report exposure?
-- Should suites include patient-controlled safe signals during suspected compulsion events?
-  How often does a successful treatment change the Facility's understanding of the artifact
-  that
-  caused it?
-
 - What is the approved isolation duration before review becomes mandatory?
 - What atmospheric exchange rate does the separation system hold?
 - What did the confidentiality balance review change about record sharing with Archive?

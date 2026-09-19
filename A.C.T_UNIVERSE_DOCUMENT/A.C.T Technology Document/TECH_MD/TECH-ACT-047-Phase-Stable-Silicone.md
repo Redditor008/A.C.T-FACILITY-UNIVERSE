@@ -321,13 +321,6 @@ let usefulness become permission.
 
 ## OPEN QUESTIONS
 
-- Can PSS hold tangibility for a consciousness that does not want the shell?
-- Does repeated phase exposure teach the polymer a preferred frequency?
-- Should all chassis-grade PSS require Subject Care review before fabrication begins?
-- Can thermal alignment be automated without hiding operator responsibility?
-- What happens when PSS is used on tissue that is already partly digital?
-- How much flesh-coloring is medical comfort and how much is design dishonesty?
-
 - What tear rating does surgical stock hold, and how was bend testing standardised?
 - What phase offset can the threading tolerate before the strip reads stress?
 - What did the 2024 chassis refusal change about Artificial Cognition review?

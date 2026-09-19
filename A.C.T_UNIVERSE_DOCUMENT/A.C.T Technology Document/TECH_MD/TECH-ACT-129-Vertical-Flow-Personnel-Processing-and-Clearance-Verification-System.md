@@ -299,19 +299,18 @@ every shift is deciding who may descend.
 
 ## OPEN QUESTIONS
 
-  Can a person be cleared for a floor but unready for the descent
-  into
+- Can a person be cleared for a floor but unready for the descent into
   that floor?
-— How much Medical status may be visible at processing before confidentiality is harmed?
-— Should repeated ascent irregularities affect clearance even without a named incident?
-— Can passage architecture become coercive if staff stop feeling able to turn back?
-— When does emergency assignment justify bypassing training currency?
-— Does the complex process personnel, or does it teach personnel to process themselves?
-
----- Does vertical flow discipline personnel, or only record them?
+- How much Medical status may be visible at processing before confidentiality is harmed?
+- Should repeated ascent irregularities affect clearance even without a named incident?
+- Can passage architecture become coercive if staff stop feeling able to turn back?
+- When does emergency assignment justify bypassing training currency?
+- Does the complex process personnel, or does it teach personnel to process themselves?
+- Does vertical flow discipline personnel, or only record them?
 - Should ascent accountability delay a person with a medical complaint?
 - Can a clearance check stay meaningful across long rotations?
 
+---
 
 ## FILE METADATA
 

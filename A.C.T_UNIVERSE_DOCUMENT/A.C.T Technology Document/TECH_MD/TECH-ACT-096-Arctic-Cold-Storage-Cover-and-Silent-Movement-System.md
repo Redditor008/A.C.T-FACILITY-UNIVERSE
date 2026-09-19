@@ -296,12 +296,10 @@ colder than it looks secret.
 
 - How many hazardous arrivals can be hidden inside legitimate arctic receiving traffic?
 - Which transport delays create cover risk instead of reducing it?
-  Can silent removal from the transport chain be noticed by logistics partners over
-  time?
+- Can silent removal from the transport chain be noticed by logistics partners over time?
 - When should the surface facility close rather than explain an arrival?
 - How much quarantine capability can the cover display before it invites inspection?
 - Should cold-chain paperwork and internal hazard records ever share identifiers?
-
 - How should movement be scheduled when the transport season closes?
 - Which arrivals are safer refused than concealed?
 - What makes a quiet receiving bay look abandoned rather than normal?

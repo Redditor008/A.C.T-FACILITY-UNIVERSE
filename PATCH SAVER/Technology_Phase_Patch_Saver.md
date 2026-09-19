@@ -4359,3 +4359,54 @@ cells 0, git diff --check rc=0.
 TECH-ACT-136 to TECH-ACT-137.
 
 **Next action.** Resume at TECH-ACT-136 and TECH-ACT-137 to close the ACT set.
+
+## Prompt Log — 2026-09-19 11:41 UTC
+
+**The ACT technology set is now complete. All 137 TECH-ACT records carry the five retrofit
+sections.** TECH-ACT-136 grew from 1444 to 2147 words and TECH-ACT-137 from 2015 to 2635, both
+reaching 14 H2 chapters and 6 pipe tables. No TECH-ACT record is left on the old skeleton.
+
+**A defect this workspace introduced was found and corrected.** Reviewing the last three batches
+showed that each of TECH-ACT-106 through 135 had one malformed line in its OPEN QUESTIONS chapter:
+the section separator had merged with the first appended bullet, producing a line beginning with
+four hyphens. Git history places the line's arrival precisely, absent at 258a6d6 and present at
+1fb9df0, so it came from the batch tool rather than from an older pass. All 30 lines are gone.
+
+**A much older and much larger damage was found underneath it.** 105 of the 137 TECH-ACT markdown
+records had OPEN QUESTIONS chapters whose bullet markers had been stripped by an earlier wrap pass,
+some replaced with em dashes. In markdown those questions rendered as one run-on paragraph, while
+the plain-text twins still held the correct list. The twins are authoritative, so 109 differing
+markdown lists were rebuilt from them, each question restored as a proper bullet and wrapped at 14
+words and 118 characters. Six records have no OPEN QUESTIONS chapter at all and were left untouched.
+Parity between the two formats is now asserted question by question for all 137 records.
+
+**TECH-ACT-136, the Long Sleep.** F-1 is a containment state expressed as architecture rather than a
+holding floor with deeper walls. The doctrine refuses to treat release as the expected outcome, so
+the vault keeps holding with nobody on the floor: deep-cold reinforcement, a duplicated
+environmental plant, and emergency power that shares nothing with the station above. Entry is the
+exception, and it is paired, because a single person inside a sleep vault is the one configuration
+in which a disturbed resident has a witness who cannot be corroborated.
+
+**TECH-ACT-137, the Neuro-Mantid Sacral-Spurs.** The set closes on the one asset that is both a
+weapon and a permanent implant, and whose provenance is not A.C.T's. The reverse-engineering is
+complete enough to build the spurs and not complete enough to explain them, so the record is written
+to that limit rather than past it. Anchoring and piercing are the same stroke read two ways, which
+is why the system cannot be issued as one and not the other. Calibration sits at Level 5 because it
+is taken against an operator's spine, and the open discrepancy in the record, retired spur bodies
+differing in mass from their issue weight, is what an unexplained interface leaves behind.
+
+**Verification.** Every inserted block was converted from markdown to the plain-text house format
+and then searched for verbatim in the twin; all blocks were found. Every OPEN QUESTIONS list was
+compared between the two formats question by question across all 137 records. A corpus-wide scan for
+the glued separator signature now returns zero.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, CONFLICT 0, multiH1 0,
+odd-fence 0, md-with-box 0, glued separator lines 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204,
+GOI_MD 34 = GOI_TXT 34, widest box line 118, date-rule violations 0, twin date mismatches 0,
+truncated registry cells 0 across 5524 shared-label rows, git diff --check rc=0.
+
+**Remaining ACT technology queue.** None. The 137-record set is closed.
+
+**Next action.** Turn to the GOI technology backlog: the 10 obsolete TECH-GOI sets (001, 014, 027,
+048 to 053, 055, 071) and the GOIs that still have no technology set at all (057 to 070, 072 to
+074).

@@ -310,26 +310,21 @@ SDIRES doctrine holds that understanding below the earth is itself a controlled 
 
 ## OPEN QUESTIONS
 
-  Can an analyst be trusted to forget a correlation that SDIRES later refuses
-  to
+- Can an analyst be trusted to forget a correlation that SDIRES later refuses to
   authorize?
-— How many non-restricted findings may combine into a restricted picture?
-  Should refusal records be visible to command when the reason for refusal is
-  itself
+- How many non-restricted findings may combine into a restricted picture?
+- Should refusal records be visible to command when the reason for refusal is itself
   restricted?
-  Can Sonar Void research remain separate from deep-earth interpretation if the same absence
-  pattern
-  appears in both
-  datasets?
-— When does a useful seismic warning justify release before review-chain completion?
-  Does the act of naming a pattern make it easier for the pattern
-  to
+- Can Sonar Void research remain separate from deep-earth interpretation if the same absence pattern
+  appears in both datasets?
+- When does a useful seismic warning justify release before review-chain completion?
+- Does the act of naming a pattern make it easier for the pattern to
   recur in later data?
-
----- Which correlations must never be attempted at relay level?
+- Which correlations must never be attempted at relay level?
 - How should a refusal be reviewed without repeating it?
 - What makes a report safe to export under custody?
 
+---
 
 ## FILE METADATA
 

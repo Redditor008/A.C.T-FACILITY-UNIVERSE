@@ -295,14 +295,12 @@ passive.
 ## OPEN QUESTIONS
 
 - Can an ordinary sample become restricted because of later signal comparison?
-  How much depth context is lost when a sample is removed from pressure
-  and
+- How much depth context is lost when a sample is removed from pressure and
   heat?
 - Are some volcanic residues better treated as records than materials?
 - Can resonance testing teach a sample to answer?
 - Should abyss-linked sample handling require medical observation of analysts?
 - When does a sample belong in F-1 holding instead of F-4 study?
-
 - What sample mass limit does the micro-drill station carry?
 - What thermal range can the response plate apply safely?
 - Which samples are held in the restricted safe pending correlation review?

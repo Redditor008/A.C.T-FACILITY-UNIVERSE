@@ -319,18 +319,7 @@ A mask can slip.
 
 ## OPEN QUESTIONS
 
-  Can a memetic filter become part of the message it is trying to
-  suppress?
-  How many filtered readings can one person safely perform before accumulated structure matters
-  more
-  than exposure time?
-— Should filtered copies decay after authorization expires?
-— Can hostile documents learn the filter settings from repeated sessions?
-— Is there a safe way to filter emotional meaning without destroying evidence?
-— Which documents should never be filtered because filtering itself counts as engagement?
-
-- How is an exposure limit calculated for a reader, and who may raise
-  it?
+- How is an exposure limit calculated for a reader, and who may raise it?
 - What suppression depth does the contrast limiter achieve on a hostile symbol?
 - What did the 2026 unauthorized reading event change about terminal authority?
 

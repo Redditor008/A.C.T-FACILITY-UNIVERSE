@@ -297,23 +297,19 @@ UAARPV doctrine holds that the deepest archive is successful when it remembers w
 
 ## OPEN QUESTIONS
 
-  Can a holding remain preserved forever if no one may confirm its full
-  content?
-  When does a catalog code reveal too much about the unreadable thing it
-  hides?
-— Should personnel be rotated before curiosity appears or only after Medical identifies fixation?
-— Can preservation failure justify direct reading if direct reading is the breach condition?
-  How much of an F-1 incident may be written before the incident record
-  becomes
+- Can a holding remain preserved forever if no one may confirm its full content?
+- When does a catalog code reveal too much about the unreadable thing it hides?
+- Should personnel be rotated before curiosity appears or only after Medical identifies fixation?
+- Can preservation failure justify direct reading if direct reading is the breach condition?
+- How much of an F-1 incident may be written before the incident record becomes
   a second hazard?
-  Does the archive protect the world by not knowing, or does it only
-  postpone
+- Does the archive protect the world by not knowing, or does it only postpone
   the day someone must know?
-
----- How is preservation verified without inspection at all?
+- How is preservation verified without inspection at all?
 - What register language is safe to write down?
 - When must an unreadable item be destroyed rather than held?
 
+---
 
 ## FILE METADATA
 

@@ -325,18 +325,9 @@ Standing reminder: RRI is not truth. It is stubbornness given liquid form.
 
 ## OPEN QUESTIONS
 
-- Can RRI preserve two contradictory versions without degrading the page?
-- What source produces the causal-memory particles?
-- Can hostile groups forge RRI that resists correction but not falsehood?
-- Should all Refracted One addenda be written in RRI, or only state-change logs?
-  Does repeated RRI use make a file harder for authorized archive correction to
-  update?
-- Can violet smear be safely read, or is it a partial regression artifact?
-
 - What is the particle source, and why is it withheld from this record?
 - How much causal regression has a correctly written RRI line actually survived?
-- What is the shelf life of a sealed well, and how is settling
-  predicted?
+- What is the shelf life of a sealed well, and how is settling predicted?
 
 ---
 
