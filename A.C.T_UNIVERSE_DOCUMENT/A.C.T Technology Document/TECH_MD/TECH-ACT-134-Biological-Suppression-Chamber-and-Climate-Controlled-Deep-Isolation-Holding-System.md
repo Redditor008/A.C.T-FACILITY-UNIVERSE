@@ -85,6 +85,38 @@ language for cold containment.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Values are restated from this record's holding component list and White Grave F-3 containment
+doctrine.
+Anything not held is marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+| HOLDING PARAMETER | VALUE |
+|---|---|
+| Chamber | biological suppression chamber |
+| Unit | climate-controlled holding unit |
+| Profile | resident environmental profile terminal |
+| Schedule | suppression schedule controller |
+| Activity | biological activity monitor |
+| Handling | handling corridor threshold |
+| Gallery | monitoring gallery display |
+| F-4 route | F-4 sample-control transfer lock |
+| F-2 route | F-2 restricted-hold escalation gate |
+| Custody | long-duration custody record |
+| Suppression rule | cold slows a resident; it does not stop one |
+| Profile rule | an expired profile is an assumption, not a setting |
+| Unit count | NOT MEASURED |
+| Median hold duration | NOT MEASURED |
+| Profile expirations | NOT MEASURED |
+
+Suppression counts as containment only while the environmental profile behind it is current. The
+floor holds
+biological residents under conditions derived from a recorded profile, and the profile expires whether
+or
+not anything has gone wrong, so the schedule controller and the profile terminal are
+treated as containment
+hardware rather than as laboratory convenience.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A BSCCDIHS installation includes intake and assessment bays, biological suppression chambers, climate-controlled
@@ -111,7 +143,55 @@ resident remains assigned.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Holding Controls
+
+- biological suppression chamber
+- suppression schedule controller
+- resident environmental profile terminal
+- handling corridor threshold
+
+### Holding Readouts
+
+- biological activity monitor trace
+- monitoring gallery display state
+- long-duration custody record entries
+- F-4 sample-control transfer lock status
+
+### Holding Limits And Weaknesses
+
+- Do not seal a unit before its profile is loaded.
+- Do not assign a unit without a recorded assignment.
+- Do not let a suppression profile lapse without renewal.
+- Do not handle a resident outside the corridor threshold.
+- Weakest against slow adaptation below the monitor's resolution.
+- Weakest against profiles renewed on schedule but never re-derived.
+
+Unit count, hold median, and expirations are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Profile, schedule, seal, and assignment run in that order. A unit that is sealed
+first and described
+afterwards is holding a resident under conditions nobody can justify at review.
+
+1. Load the resident environmental profile at the terminal.
+2. Set the suppression schedule before the unit is sealed.
+3. Verify the biological activity monitor is reading.
+4. Assign the unit and record the assignment.
+5. Pass any handling through the corridor threshold.
+6. Watch the gallery display across every occupied unit.
+7. Route samples to F-4 through the transfer lock.
+8. Escalate to F-2 if suppression drifts beyond limit.
+
+Steps 1 and 2 are paired deliberately. A schedule set before the profile is
+loaded suppresses a resident
+nobody has described, and if that resident later adapts, the floor has no baseline
+against which to say so,
+which turns a holding decision into an unrecoverable assumption.
 
 Before assignment, BSCCDIHS verifies resident identity, intake source, cold-suppression requirement, isolation
 duration, biological activity baseline, environmental profile, handling limits, Medical risk, Research interest, and
@@ -126,6 +206,32 @@ whose instability or
 entropic character exceeds standard capacity move down to F-2 under escalation doctrine.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per assignment | load the profile before the unit seals |
+| Weekly | check the biological activity monitor |
+| Monthly | renew any suppression profile nearing expiry |
+| Quarterly | exercise the F-2 escalation gate |
+| Annually | audit the long-duration custody records |
+
+Profile renewal is scheduled ahead of expiry rather than at it, because the renewal
+work is re-derivation
+and not a signature, and a floor that renews on the expiry date is
+renewing on the day it has least time to
+do the work properly.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Suppression drift | profile expired | renew profile, review |
+| Activity silent | monitor not reading | check sensor, inspect |
+| Unit misassigned | no profile record | assign, record, hold |
+| Transfer blocked | F-4 lock closed | hold sample, request |
+| Escalation needed | drift beyond limit | route to F-2, log |
 
 ## KNOWN LIMITS
 
@@ -201,7 +307,10 @@ minute.
   can
   keep them waiting?
 
----
+---- Who renews a suppression profile when the floor is short-staffed?
+- Is a climate-controlled unit a habitat or an instrument?
+- Can a custody record outlive the resident it describes?
+
 
 ## FILE METADATA
 

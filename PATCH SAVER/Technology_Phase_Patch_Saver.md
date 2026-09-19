@@ -4308,3 +4308,54 @@ cells 0, git diff --check rc=0.
 TECH-ACT-126 to TECH-ACT-137.
 
 **Next action.** Resume at TECH-ACT-126 through TECH-ACT-130.
+
+## Prompt Log — 2026-09-19 06:23 UTC
+
+**Local repository verified against the remote before any edit.** The clone matched the branch tip
+and the tree was clean, so no recovery was needed this turn. The markdown to plain-text converter
+was still proven before use: every record in the previous batch had each generated block converted
+and compared line for line against the matching block in its plain-text twin, returning zero
+mismatches.
+
+**Records 126 to 135.** Each gained a TECHNICAL SPECIFICATION table, an INTERFACE AND OPERATING
+ENVELOPE chapter, a numbered operating sequence, a SERVICING AND CALIBRATION schedule, a FAULT
+ISOLATION table, and three new OPEN QUESTIONS, in both twins.
+
+**Redwood Veil closes out.** The F-5 study floor treats research access as a containment event, so
+custody stays with the floor and the object never leaves its holding assignment; a measurement is
+itself contact, which is why conditions are set before the clock starts. The F-6 ward admits on
+confirmed exposure rather than suspicion and sets the confidentiality lock before observation rather
+than after, because confidentiality restored later is a correction and not a protection. The F-7
+repository is write-once, since an amendment made in place cannot afterwards be told from a rewrite.
+The F-8 gateway verifies five things in order on the way down and verifies that nothing leaves on
+the way up, the second check being the one shortened at shift end. The F-9 wall holds because it
+stays ordinary, and its two network separators carry no traffic at all, which is why they are
+load-bearing.
+
+**White Grave opens out.** Seasonal cover publishes genuine research because cover staged for one
+inspection collapses at the second. Habitation separates domestic space from duty space and keeps
+its access monitor at the checkpoint rather than in the corridor. Cold-suppressed study produces the
+absence of change as its finding, so the observation stream must run unattended or it measures the
+observers' schedule. Suppression holding treats an expired environmental profile as an assumption
+rather than a setting. Entropic holding counts repairs rather than failures, because a
+self-repairing loop conceals exactly the trend the floor needs to see.
+
+**Word counts, measured from the records after the run.** 126 1282 to 2010, 127 1249 to 1921, 128
+1277 to 1977, 129 1318 to 2026, 130 1278 to 1978, 131 1309 to 2027, 132 1323 to 2029, 133 1254 to
+1953, 134 1294 to 1988, 135 1278 to 1970. Every record now carries 14 H2 chapters, 8 H3 sections,
+and 6 pipe tables.
+
+**Guards.** The row-width check passed before assembly and the dry run confirmed every rendered
+block. The structural comparison against the reference record passed for all ten on the first pass,
+using the chapter slot comparison corrected last turn to treat FUNCTION OUTLINE and FUNCTION SUMMARY
+as the same slot.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, UTF8_ERR 0, CONFLICT 0,
+multiH1 0, odd-fence 0, md-with-box 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204, GOI_MD 34 =
+GOI_TXT 34, widest box line 118, date-rule violations 0, twin date mismatches 0, truncated registry
+cells 0, git diff --check rc=0.
+
+**Remaining ACT technology queue.** 2 TECH-ACT records still carry the old skeleton, running from
+TECH-ACT-136 to TECH-ACT-137.
+
+**Next action.** Resume at TECH-ACT-136 and TECH-ACT-137 to close the ACT set.

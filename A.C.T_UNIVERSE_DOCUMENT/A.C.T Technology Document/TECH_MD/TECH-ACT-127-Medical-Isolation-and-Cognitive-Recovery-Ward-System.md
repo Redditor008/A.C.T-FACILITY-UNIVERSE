@@ -87,6 +87,38 @@ hazards.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures are taken from this record's ward component list and F-6 clinical doctrine. Values
+the archive does
+not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+| WARD PARAMETER | VALUE |
+|---|---|
+| Isolation suite | artifact-influence isolation suite |
+| Memetic care | memetic contamination treatment room |
+| Recovery | cognitive recovery suite |
+| Observation | exposure-limited observation channel |
+| Access | patient-status access gate |
+| Monitoring | clinical monitoring panel |
+| Atmosphere | atmospheric separation branch |
+| Confidentiality | Medical confidentiality record lock |
+| Escalation | Containment escalation alarm |
+| Duty review | return-to-duty assessment station |
+| Admission rule | isolation by exposure, not by suspicion |
+| Treatment rule | memetic work happens in one room only |
+| Bed count | NOT MEASURED |
+| Median isolation stay | NOT MEASURED |
+| Return-to-duty refusals | NOT MEASURED |
+
+The ward treats the person and not the artifact, and that distinction is load-bearing.
+A patient under
+artifact influence is a containment problem wearing a patient's face, so isolation is decided
+by confirmed
+exposure and raised through the escalation alarm rather than being assumed at admission. The
+exposure-limited channel exists to let clinicians observe without adding to the exposure they are
+treating.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A MICRWS installation includes trauma wards, general medical rooms, memetic treatment suites, cognitive recovery
@@ -112,7 +144,54 @@ whatever may be acting through the patient.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Ward Controls
+
+- artifact-influence isolation suite
+- atmospheric separation branch
+- patient-status access gate
+- Containment escalation alarm
+
+### Clinical Readouts
+
+- clinical monitoring panel trace
+- exposure-limited observation channel feed
+- Medical confidentiality record lock state
+- return-to-duty assessment station file
+
+### Care Limits And Weaknesses
+
+- Do not admit on suspicion when exposure is unconfirmed.
+- Do not begin observation before the record lock is set.
+- Do not treat memetic contamination outside the treatment room.
+- Do not discharge without a return-to-duty assessment.
+- Weakest against isolation extended past clinical need.
+- Weakest against command requesting status mid-treatment.
+
+Bed count, median stay, and refusal rate are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Admission, isolation, treatment, recovery, and review are separate stages with separate records. The
+confidentiality lock is set before observation begins, not after it.
+
+1. Confirm the admission basis is exposure, not suspicion.
+2. Place the patient in isolation and separate the atmosphere.
+3. Set the confidentiality record lock before any observation.
+4. Start clinical monitoring and the exposure-limited channel.
+5. Treat memetic contamination in the treatment room only.
+6. Move the patient to the recovery suite when isolation ends.
+7. Raise the escalation alarm if artifact influence is confirmed.
+8. Complete the return-to-duty assessment before discharge.
+
+Step 3 is placed ahead of step 4 deliberately. A ward that observes first
+and protects the record afterwards
+has already put the patient's condition into a channel that Containment and Command both
+read, and
+confidentiality restored later is a correction rather than a protection.
 
 Before admission, MICRWS records the triggering event, patient identity, exposure source if known, restriction
 set,
@@ -128,6 +207,30 @@ while initiating containment escalation. Release from isolation requires both me
 review.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per admission | confirm the confidentiality lock is set |
+| Weekly | test the atmospheric separation branch |
+| Monthly | review isolation stays against recovery data |
+| Quarterly | exercise the escalation alarm with Containment |
+| Annually | re-validate the return-to-duty criteria |
+
+Monthly review compares how long patients stay against how long recovery takes, because the
+failure this
+ward is most exposed to is isolation that outlives its clinical justification.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Patient agitated | artifact influence active | isolate, alarm, notify |
+| Record exposed | lock set after admission | contain, review, correct |
+| Ward pressure low | separation branch fault | seal, vent, verify |
+| No duty decision | assessment skipped | hold discharge, assess |
+| Observation blank | channel not opened | restart feed, annotate |
 
 ## KNOWN LIMITS
 
@@ -200,7 +303,10 @@ contain anything through them.
 - How long may isolation continue before it becomes part of the injury?
 - Does return-to-duty review measure recovery, obedience, or both?
 
----
+---- Should a ward hold a patient who is also a resident?
+- Does the exposure-limited channel under-report by design?
+- Who reviews a return-to-duty decision that later proved wrong?
+
 
 ## FILE METADATA
 

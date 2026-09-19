@@ -87,6 +87,53 @@ architecture: rooms and data streams designed for years, not hours. The system r
 Grave's belief that time
 itself is an instrument when the subject changes slowly enough.
 
+TECHNICAL SPECIFICATION
+
+Figures are restated from this record's study component list and White Grave F-4 research
+doctrine. Values
+the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| STUDY PARAMETER            | VALUE                                                                                 |
++============================+=======================================================================================+
+| Chamber                    | cold-suppressed biological study chamber                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Observation                | long-term observation suite                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Processing                 | sample processing laboratory                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Restriction set            | resident restriction-set terminal                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Condition lock             | environmental condition lock                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Recorder                   | observation stream recorder                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Custody                    | sample custody dock                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Medical                    | Medical exposure watch channel                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Return                     | Containment return verification gate                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Mirror                     | Archive research mirror node                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Duration rule              | observation is measured in years, not shifts                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Stillness rule             | no change is recorded as a finding                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Chamber count              | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Longest study              | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Condition-lock drifts      | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+This is the only floor where the primary output is the absence of change,
+which inverts the usual research
+expectation. Cold suppression slows a biological resident enough for observation across years, and the
+condition lock exists to guarantee that the environment is constant so that stillness can
+be attributed to
+the resident rather than to the chamber drifting.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 A LTBOCSS installation includes biological study chambers, cold-capable sample laboratories, long-term observation
@@ -109,7 +156,56 @@ Known components include:
 The observation suite is treated as active instrumentation even when nothing visible happens for
 months.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Study Controls
+
+- cold-suppressed biological study chamber
+- environmental condition lock
+- resident restriction-set terminal
+- Containment return verification gate
+
+Study Readouts
+
+- observation stream recorder output
+- sample custody dock entries
+- sample processing laboratory results
+- Archive research mirror node confirmations
+
+Study Limits And Weaknesses
+
+- Do not admit a sample before the condition lock is set.
+- Do not process subsamples outside the laboratory.
+- Do not handle a sample without the Medical channel open.
+- Do not extend a study without a recorded justification.
+- Weakest against stillness read as permanent rather than slow.
+- Weakest against studies observed only when staff are present.
+
+Chamber count, longest study, and drift count are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+The sequence runs across years rather than across a shift, so each step has
+to hold without attention. The
+recorder carries the observation; personnel carry the decisions.
+
+1. Set the resident restriction set before the chamber opens.
+2. Lock the environmental condition and record the baseline.
+3. Admit the sample at the custody dock.
+4. Start the observation stream and leave it running.
+5. Process subsamples only in the processing laboratory.
+6. Watch the Medical channel during every handling.
+7. Return the sample and verify it at the return gate.
+8. Mirror the record and log any condition-lock drift.
+
+Step 4 is the one that determines whether the study means anything. An observation
+stream that runs only
+while someone is present measures the schedule of the people watching it, and a
+multi-year record with gaps
+aligned to shift patterns is not evidence of stillness at all.
 
 Before study begins, LTBOCSS verifies resident identity, source holding floor, restriction set, study authorization,
 sample-control path, environmental requirements, observation duration, Medical watch needs, Containment return route,
@@ -123,6 +219,44 @@ behavioral change,
 not only immediate reaction. If a resident becomes more active, destabilizes, or shows restriction-set
 conflict, the
 study halts and the material returns to containment or escalates under station doctrine.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Per study                  | confirm the condition lock before contact                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Weekly                     | verify the observation stream is recording                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | review condition-lock drift records                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | test the Medical exposure watch channel                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Annually                   | re-mirror study data to the Archive node                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Drift review is monthly even though studies run for years, because a lock that
+has drifted for a season has
+already invalidated the interval it drifted through, and the correction is cheaper the sooner
+the affected
+period is identified.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Stream gap                 | recorder offline                          | restart, annotate gap                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Lock drift                 | condition set loose                       | relock, compare, log                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Sample lost                | dock handoff missed                       | halt study, verify                        |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Exposure watch             | handling without care                     | stop, Medical, report                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Mirror stale               | Archive node offline                      | hold data, alert                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -184,6 +318,9 @@ OPEN QUESTIONS
 hazard?
 - Does White Grave understand its residents better because it waits, or because it
 has no choice but to wait?
+- Can cold suppression make a resident's change undetectable by design?
+- Should an observation stream be preserved after the resident is gone?
+- Does a year of stillness justify another year of study?
 
 FILE METADATA
 

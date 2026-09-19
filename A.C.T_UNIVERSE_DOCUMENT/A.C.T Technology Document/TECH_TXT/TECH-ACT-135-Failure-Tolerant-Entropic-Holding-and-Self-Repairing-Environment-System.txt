@@ -89,6 +89,55 @@ Redundancy became containment, self-repair became environment, and early detecti
 could
 remain damage instead of becoming breach.
 
+TECHNICAL SPECIFICATION
+
+Figures are restated from this record's holding component list and White Grave F-2 restricted-hold
+doctrine.
+Values the archive does not hold are marked NOT MEASURED and filed under OPEN
+QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| HOLDING PARAMETER          | VALUE                                                                                 |
++============================+=======================================================================================+
+| Unit                       | entropic holding unit                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Chamber                    | unstable resident chamber                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Layer one                  | primary containment layer                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Layer two                  | secondary containment layer                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Layer three                | tertiary containment layer                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Repair loop                | self-repairing environmental loop                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Power                      | duplicated power feed                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Sensor                     | high-frequency degradation sensor                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Maintenance                | engineering maintenance gallery                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Escalation                 | F-1 Long Sleep escalation review lock                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Redundancy rule            | no single failure may end the hold                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Layer count                | three                                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Repair events              | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Sensor sample rate         | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Escalations raised         | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+This unit is built for a resident that degrades its surroundings, which means repair
+is expected rather than
+exceptional. That inverts the usual meaning of a well-functioning system: a self-repairing loop that
+keeps
+succeeding is concealing exactly the trend the floor needs to see, so the repair
+count is treated as the
+primary measurement and failure as the late one.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 A FTEHSRES installation includes hardened individual units, entropic holding chambers, redundant wall and seal
@@ -113,7 +162,56 @@ Known components include:
 The system is judged by whether it can continue holding after visible failure has
 already begun.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Holding Controls
+
+- entropic holding unit
+- primary, secondary, tertiary containment layers
+- duplicated power feed
+- F-1 Long Sleep escalation review lock
+
+Holding Readouts
+
+- high-frequency degradation sensor trace
+- self-repairing environmental loop repair log
+- engineering maintenance gallery work orders
+- unstable resident chamber state
+
+Holding Limits And Weaknesses
+
+- Do not treat a successful repair as a clean result.
+- Do not service the unit from outside the gallery.
+- Do not run on one power feed without a recorded reason.
+- Do not close the review lock while repairs accelerate.
+- Weakest against degradation that targets redundancy itself.
+- Weakest against monitoring treated as the resident's own surface.
+
+Repair events, sample rate, and escalations are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+The sequence verifies redundancy before it verifies condition, because a hold whose redundancy has
+quietly
+halved is already failing whatever the chamber readout says.
+
+1. Confirm all three containment layers are intact.
+2. Verify the duplicated power feed on both branches.
+3. Start the high-frequency degradation sensor.
+4. Let the self-repairing loop run and log every repair.
+5. Count repairs per interval, not only failures.
+6. Service the unit from the maintenance gallery.
+7. Raise the escalation review lock if repairs accelerate.
+8. Prepare the F-1 Long Sleep transfer when review opens.
+
+Step 5 is the measurement the whole floor depends on. A unit that alarms
+only on failure reads a slowly
+degrading resident as healthy for as long as the loop keeps up, and by
+the time failure appears the repair
+rate has already shown the answer for months.
 
 Before assignment, FTEHSRES verifies resident identity, entropic behavior, degradation rate, structural attack vector,
 environmental vulnerability, restriction set, Engineering support requirement, Medical standby condition, monitoring
@@ -128,6 +226,44 @@ with awareness that
 the chamber may be actively degrading during entry. If degradation exceeds F-2 capacity, F-1
 Long Sleep assessment
 begins under Site Director authority.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Per interval               | count repairs alongside failures                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Weekly                     | test both branches of the power feed                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | inspect all three containment layers                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | exercise the escalation review lock                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Annually                   | review the F-1 Long Sleep transfer plan                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Servicing is performed from the gallery so that maintenance does not require opening the
+hold. The transfer
+plan is reviewed annually even when nothing has escalated, because the decision to move
+a resident to Long
+Sleep takes longer than the degradation that would justify it.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Layer breached             | entropic degradation                      | fall back, escalate                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Power loss                 | one feed failed                           | confirm backup, load                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Repairs rising             | resident worsening                        | open review lock                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Sensor quiet               | high-frequency fault                      | repair, cross-check                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Loop stalled               | self-repair blocked                       | manual repair, log                        |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -192,6 +328,9 @@ OPEN QUESTIONS
 another phase of attrition?
 - Does failure-tolerant containment hold the resident, or only buy enough time to choose
 a deeper answer?
+- Should a self-repairing loop be slowed to make degradation visible?
+- Does redundancy invite complacency in the maintenance gallery?
+- Who decides F-2 costs more than the hazard it holds?
 
 FILE METADATA
 

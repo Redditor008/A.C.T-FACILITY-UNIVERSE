@@ -88,6 +88,39 @@ afterthought.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Values are restated from this record's habitation component list and White Grave support doctrine.
+Anything
+not held is marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+| HABITATION PARAMETER | VALUE |
+|---|---|
+| Quarters | long-rotation living quarter |
+| Corridor | shared habitation corridor |
+| Mess | mess and food-service block |
+| Recreation | recreation support room |
+| Clinic | routine medical clinic |
+| Command | internal command office node |
+| Environment | domestic environmental control branch |
+| Monitoring | personnel-access monitor |
+| Checkpoint | main security checkpoint gate |
+| Ledger | duty descent and ascent ledger |
+| Separation rule | domestic space is not a briefing room |
+| Support rule | routine complaints go to the clinic first |
+| Rotation length | NOT MEASURED |
+| Quarter count | NOT MEASURED |
+| Checkpoint refusals | NOT MEASURED |
+
+Habitation failure at White Grave is treated as a containment problem rather than a
+comfort problem, because
+an exhausted operator makes containment errors and a rotation that collapses takes the checkpoint
+with it.
+The floor keeps domestic space separate from duty space on purpose: the checkpoint gate
+and the descent
+ledger sit at the boundary, and the monitor is placed there rather than in
+the corridor.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A LRHMSCS installation includes private and shared quarters, mess hall, food storage and preparation
@@ -114,7 +147,57 @@ work that habitat sustains.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Habitation Controls
+
+- main security checkpoint gate
+- domestic environmental control branch
+- personnel-access monitor
+- internal command office node
+
+### Habitation Readouts
+
+- duty descent and ascent ledger entries
+- routine medical clinic referral record
+- recreation support room usage
+- personnel-access monitor status
+
+### Habitation Limits And Weaknesses
+
+- Do not brief operational matters in domestic space.
+- Do not route a routine complaint past the clinic to command.
+- Do not extend a rotation without a recorded decision.
+- Do not place monitoring inside the living corridor.
+- Weakest against seasonal transport failure.
+- Weakest against morale decline that no alarm reports.
+
+Rotation length, quarter count, and refusals are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Issuing a quarter, briefing support, and routing duty are separate stages. Duty movement crosses
+the
+checkpoint in both directions and is recorded in both, which is what keeps the
+deck accountable without
+making it a workplace.
+
+1. Issue the quarter and record the rotation length.
+2. Brief domestic services: mess, clinic, recreation.
+3. Route all duty movement through the checkpoint gate.
+4. Log every descent and ascent in the duty ledger.
+5. Monitor access at the checkpoint, not in the corridor.
+6. Refer routine complaints to the clinic rather than command.
+7. Escalate any habitation failure to support command.
+8. Review morale data at the close of each rotation.
+
+Step 5 is the decision the floor has already had to make once. Domestic
+monitoring introduced to protect
+morale is experienced as an additional duty pressure, and a habitation deck whose occupants
+believe they are
+watched off-shift stops being a place anyone recovers in.
 
 Before duty descent, LRHMSCS verifies personnel identity, duty assignment, operational-floor authorization, Medical
 limitation if flagged for checkpoint use, equipment status, and command schedule. Personnel pass through
@@ -133,6 +216,31 @@ level the
 population inhabits.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per rotation | issue the quarter and record its length |
+| Weekly | test the checkpoint gate and duty ledger |
+| Monthly | review clinic referrals and morale data |
+| Quarterly | service the domestic environmental branch |
+| Annually | review separation doctrine with command |
+
+Environmental servicing is scheduled against the arctic season rather than the calendar, because the
+domestic branch carries the load that decides whether the deck is habitable through a
+transport gap, and a
+failure in it is a habitation failure within hours.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Checkpoint held | clearance not confirmed | hold person, verify |
+| Ledger gap | ascent not recorded | close entry, review |
+| Quarter failure | environmental fault | relocate, repair, log |
+| Clinic backlog | referral sent to command | route to clinic first |
+| Monitor disputed | access read as watch | relocate, brief staff |
 
 ## KNOWN LIMITS
 
@@ -210,7 +318,10 @@ when they leave their own lives and descend to work.
   is
   fragile?
 
----
+---- Should a rotation end early on morale data alone?
+- Who holds authority over the deck during a containment event?
+- Does domestic environmental control belong to Support or Security?
+
 
 ## FILE METADATA
 

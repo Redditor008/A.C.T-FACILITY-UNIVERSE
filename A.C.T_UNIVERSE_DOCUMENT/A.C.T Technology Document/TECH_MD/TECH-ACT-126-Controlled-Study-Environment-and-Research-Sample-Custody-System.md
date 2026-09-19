@@ -85,6 +85,38 @@ possession under another division's containment authority.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Values below are restated from this record's component list and F-5 study doctrine. Anything
+the archive
+does not hold is marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+| STUDY PARAMETER | VALUE |
+|---|---|
+| Study suite | program-gated study suite |
+| Sample dock | sample custody dock |
+| Atmosphere | controlled atmosphere regulator |
+| Electromagnetic | electromagnetic condition panel |
+| Observation | observation recording line |
+| Access | restriction-set access terminal |
+| Return | verified return station |
+| Data mirror | Archive mirror data link |
+| Medical | Medical exposure alert channel |
+| Escalation | Containment escalation gate |
+| Custody rule | the object never leaves its holding assignment |
+| Program gate | one authorization per study program |
+| Suite count | NOT MEASURED |
+| Median study length | NOT MEASURED |
+| Unreturned samples | NOT MEASURED |
+
+Research access at Redwood Veil is treated as a containment event rather than an
+exception to one, which is
+why custody is held by F-5 for the length of a study and not
+transferred to it. The suite regulates
+atmosphere and electromagnetic condition before contact because a measurement is itself contact: the study
+changes what it studies, and the record has to say so while the change
+is still observable.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A CSERSCS installation includes sample suites, study suites, analysis laboratories, controlled atmosphere branches,
@@ -110,7 +142,56 @@ neighboring work.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Study Controls
+
+- program-gated study suite
+- controlled atmosphere regulator
+- electromagnetic condition panel
+- restriction-set access terminal
+
+### Custody Readouts
+
+- sample custody dock state
+- verified return station log
+- observation recording line output
+- Archive mirror data link confirmations
+
+### Study Limits And Weaknesses
+
+- Do not open a study without a program authorization.
+- Do not set conditions after contact has begun.
+- Do not keep a sample on F-5 past its return window.
+- Do not record data with the recording line unarmed.
+- Weakest against programs extended one shift at a time.
+- Weakest against measurements taken for convenience.
+
+Suite count, median study length, and unreturned samples are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence is ordered so that custody is verified before conditions are set, and
+conditions before
+contact. Each stage produces a record that the next stage depends on.
+
+1. Confirm the study program authorization is active.
+2. Verify the resident restriction set at the access terminal.
+3. Receive the sample at the custody dock and note its condition.
+4. Set atmosphere and electromagnetic conditions before contact.
+5. Arm the observation line and start the study clock.
+6. Stop and record any condition change when it appears.
+7. Return the sample and verify it at the return station.
+8. Mirror the data and close the program entry.
+
+Step 4 is the one that gets skipped when a program is running late.
+Conditions set after contact cannot be
+separated from the contact itself, so the resulting data cannot be attributed to the
+resident or to the
+room, and the study has to be repeated with the object re-handled a second
+time.
 
 Before study, CSERSCS requires a research authorization record, resident or sample identity, source holding
 assignment, restriction set, study purpose, environmental conditions, personnel roster, Medical watch requirement,
@@ -128,6 +209,31 @@ behavior
 requires F-3 reassignment, F-4 transformation review, or F-2 restricted-hold escalation.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per study | verify the restriction set at the access terminal |
+| Weekly | calibrate the atmosphere regulator |
+| Monthly | audit the custody dock against the return station |
+| Quarterly | test the Medical alert and the escalation gate |
+| Annually | re-mirror stored data and confirm the Archive link |
+
+Servicing is scheduled against study activity rather than against the calendar alone, because a
+regulator
+that is calibrated between programs drifts most during the idle periods when nobody is
+watching the readout.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Sample not returned | study clock still running | stop, verify, escalate |
+| Condition drift | atmosphere set too late | halt contact, reset, log |
+| Data missing | recording line not armed | re-arm, restate, annotate |
+| Access refused | restriction set mismatch | return sample, re-file |
+| Mirror out of sync | Archive link down | hold data, alert Archive |
 
 ## KNOWN LIMITS
 
@@ -205,7 +311,10 @@ containment.
   archive
   to hold?
 
----
+---- Does an observation that alters conditions still count as passive study?
+- Who owns a sample that is never returned because the program closed?
+- Can the Archive mirror hold data that the resident later rewrites?
+
 
 ## FILE METADATA
 

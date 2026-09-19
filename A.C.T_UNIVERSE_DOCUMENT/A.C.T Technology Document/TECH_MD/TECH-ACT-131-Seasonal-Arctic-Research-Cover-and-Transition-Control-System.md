@@ -86,6 +86,39 @@ SARCTCS formalizes the relationship between real surface science and concealed s
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures are restated from this record's cover component list and White Grave surface doctrine.
+Values the
+archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+| COVER PARAMETER | VALUE |
+|---|---|
+| Laboratory | conventional arctic research laboratory |
+| Administration | surface administration block |
+| Airstrip | seasonal airstrip operations post |
+| Convoy | vehicle maintenance and convoy bay |
+| Power | surface power plant link |
+| Transition | concealed transition control point |
+| Windows | transport-window scheduling board |
+| External | external science communication channel |
+| Secure link | buried-station secure network separator |
+| Boundary | arctic boundary monitoring station |
+| Cover rule | the cover must be a real research station |
+| Window rule | restricted movement uses a scheduled window |
+| Season length | NOT MEASURED |
+| Windows per season | NOT MEASURED |
+| Cover incidents | NOT MEASURED |
+
+Cover that is staged collapses under inspection, because a station performing for an audience
+carries the
+strain of performing. The laboratory therefore does genuine arctic research and publishes it through
+the
+external channel, which gives the site a real reason to exist, a real reason
+for seasonal traffic, and a
+real reason for scientists to visit without anyone having to explain the buried station
+beneath it.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A SARCTCS installation includes surface administrative buildings, conventional research laboratories, airstrip,
@@ -111,7 +144,57 @@ same time.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Cover Controls
+
+- conventional arctic research laboratory
+- seasonal airstrip operations post
+- concealed transition control point
+- transport-window scheduling board
+
+### Cover Readouts
+
+- external science communication channel traffic
+- buried-station secure network separator state
+- arctic boundary monitoring station log
+- vehicle maintenance and convoy bay status
+
+### Cover Limits And Weaknesses
+
+- Do not stage research to satisfy an inspection.
+- Do not move restricted material outside a scheduled window.
+- Do not carry buried-station traffic on the external channel.
+- Do not close a window with cargo still on the surface.
+- Weakest against a season cancelled by weather.
+- Weakest against visiting scientists who ask good questions.
+
+Season length, window count, and incidents are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The season opens with the research program and closes with the transport audit. Restricted
+movement sits
+inside the ordinary traffic rather than beside it, which is the whole point of
+scheduling windows in
+advance.
+
+1. Publish the season's real research program before opening.
+2. Open the laboratory to visiting scientists.
+3. Schedule the season's transport windows on the board.
+4. Receive a flight at the airstrip operations post.
+5. Convoy the cargo to the maintenance and convoy bay.
+6. Move restricted material through the concealed point.
+7. Keep the external and secure channels apart.
+8. Monitor the boundary and close the window on schedule.
+
+Step 1 is not administrative tidiness. Cover built to satisfy one inspection collapses at
+the second,
+because the burden of improvising a plausible reason for the station is what eventually
+gives a cover site
+away; a laboratory with published results has no burden to carry.
 
 Before seasonal movement, SARCTCS verifies transport window, flight or convoy identity, weather condition, personnel
 roster, shipment manifest, cover-facing purpose, buried-station destination, Security review, and whether the movement
@@ -126,6 +209,32 @@ real research
 activity, and ordinary arctic logistics before any extraordinary explanation.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per window | confirm the transport board is current |
+| Weekly | service the convoy and maintenance bay |
+| Monthly | review the external science channel |
+| Quarterly | test the secure network separator |
+| Per season | close the window and audit the cover |
+
+Maintenance is deliberately visible. A station whose vehicles are never serviced and whose laboratory
+is
+never inspected by its own staff reads as unoccupied to anyone watching from the
+ice, so servicing doubles
+as part of the cover.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Cover questioned | program looks staged | publish real results |
+| Window missed | weather closed airstrip | reschedule, hold cargo |
+| Convoy delay | maintenance bay full | stage cargo, re-time |
+| Channels crossed | external line misused | cut line, review logs |
+| Boundary alert | approach to station seen | monitor, brief, hold |
 
 ## KNOWN LIMITS
 
@@ -203,7 +312,10 @@ the weather help guard the door.
   dependent on the surface
   program's truth?
 
----
+---- Can genuine research and genuine cover be told apart from outside?
+- What becomes of the cover when a season is cancelled?
+- Is a visiting scientist a boundary problem or a guest?
+
 
 ## FILE METADATA
 

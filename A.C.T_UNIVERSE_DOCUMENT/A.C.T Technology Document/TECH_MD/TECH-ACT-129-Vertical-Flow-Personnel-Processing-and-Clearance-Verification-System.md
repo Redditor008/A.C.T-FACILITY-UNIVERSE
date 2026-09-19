@@ -90,6 +90,39 @@ as an unaccounted consequence.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Figures are restated from this record's gateway component list and F-8 personnel doctrine. Values
+the
+archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+| GATEWAY PARAMETER | VALUE |
+|---|---|
+| Access core | complex access-core gate |
+| Identity | personnel identity verification station |
+| Clearance | duty-floor clearance terminal |
+| Training | training completion check line |
+| Routing | command assignment routing board |
+| Descent | descent corridor gate |
+| Ascent | ascent accountability checkpoint |
+| Support | staff support handoff desk |
+| Command | command-suite communication relay |
+| Flags | personnel incident flag ledger |
+| Flow rule | personnel descend into duty and ascend out of it |
+| Verification rule | identity, duty, clearance, training, assignment |
+| Shift volume | NOT MEASURED |
+| Median processing time | NOT MEASURED |
+| Clearance refusals | NOT MEASURED |
+
+The gateway exists because personnel movement at Redwood Veil is not traffic. The floor
+is built as a
+vertical flow in which descent marks entry into Facility duty and ascent marks exit
+from it, which makes the
+passage between surface life and contained work a processed transition rather than a corridor.
+Verification
+covers five things in order, and a person who fails one of them does
+not descend.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A VFPPCVS installation includes access-core gates, personnel processing desks, clearance verification stations,
@@ -115,7 +148,56 @@ passage changes the personnel record.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Gateway Controls
+
+- complex access-core gate
+- descent corridor gate
+- ascent accountability checkpoint
+- command assignment routing board
+
+### Processing Readouts
+
+- personnel identity verification station result
+- duty-floor clearance terminal status
+- training completion check line record
+- personnel incident flag ledger entries
+
+### Passage Limits And Weaknesses
+
+- Do not release a descent with a training check outstanding.
+- Do not close an ascent before accountability is signed.
+- Do not route an assignment that command has not posted.
+- Do not hand a person to the surface with an open flag.
+- Weakest against end-of-shift pressure to clear the gate.
+- Weakest against clearance carried over across rotations.
+
+Shift volume, processing median, and refusals are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Descent and ascent are mirrored but not symmetrical. Descent verifies permission to enter duty;
+ascent
+verifies that nothing leaves with the person, which is the slower and less popular
+of the two checks.
+
+1. Verify identity at the personnel verification station.
+2. Confirm duty-floor clearance at the clearance terminal.
+3. Check training completion before any restricted floor.
+4. Post the command assignment on the routing board.
+5. Release the person through the descent corridor gate.
+6. Hold the ascent until accountability is checked and signed.
+7. Complete the staff support handoff before surface return.
+8. Flag any incident in the personnel flag ledger.
+
+Step 6 is the check that gets shortened when a shift ends late. Ascent
+accountability exists because a
+person who leaves the complex carrying an unreported exposure or an unlogged document has
+taken a
+containment problem through the boundary, and the surface has no way to detect it.
 
 Before descent, VFPPCVS verifies identity, active employment or assignment status, duty floor, clearance level,
 training currency, Medical restrictions if disclosed by authorized status flag, equipment authorization, command
@@ -129,6 +211,32 @@ upward through support functions before surface transition. Command-suite commun
 Director can coordinate operational decisions without disconnecting F-8 from the wider Facility network.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per shift | confirm clearance and training checks ran |
+| Weekly | audit the ascent ledger for unsigned entries |
+| Monthly | review clearance refusals and open flags |
+| Quarterly | test the command-suite communication relay |
+| Annually | re-validate descent gate criteria |
+
+The weekly ascent audit is the floor's earliest warning that verification is being treated
+as formality.
+Unsigned ascent entries cluster at shift boundaries and at rotation changes, which is where
+clearance drift
+starts.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Clearance drift | training check skipped | stop descent, re-verify |
+| Ascent unchecked | ledger entry not signed | hold at gate, complete |
+| Identity mismatch | verification error | deny, review, correct |
+| Routing blank | assignment not posted | route via command desk |
+| Flag unfiled | incident not recorded | file flag, brief shift |
 
 ## KNOWN LIMITS
 
@@ -200,7 +308,10 @@ every shift is deciding who may descend.
 — When does emergency assignment justify bypassing training currency?
 — Does the complex process personnel, or does it teach personnel to process themselves?
 
----
+---- Does vertical flow discipline personnel, or only record them?
+- Should ascent accountability delay a person with a medical complaint?
+- Can a clearance check stay meaningful across long rotations?
+
 
 ## FILE METADATA
 

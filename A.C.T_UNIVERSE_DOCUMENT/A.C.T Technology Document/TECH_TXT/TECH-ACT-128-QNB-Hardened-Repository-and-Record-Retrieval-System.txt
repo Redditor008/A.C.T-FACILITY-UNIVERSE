@@ -86,6 +86,54 @@ answer to
 dangerous access. The result is an archive built to remember without yielding its memory
 to every hand that asks.
 
+TECHNICAL SPECIFICATION
+
+Values are restated from this record's repository component list and F-7 archival doctrine. Anything
+not
+held is marked NOT MEASURED and filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| REPOSITORY PARAMETER       | VALUE                                                                                 |
++============================+=======================================================================================+
+| Repository                 | QNB-hardened repository bay                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Accession                  | accession and processing station                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Retrieval                  | retrieval authorization terminal                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Restricted                 | restricted records vault                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Reading room               | reading-room access lock                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Integrity                  | record integrity monitor                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Preservation               | preservation environment branch                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarantine                 | quarantine routing gate                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Ledger                     | archive activity ledger                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Alarm                      | causal rewrite alarm channel                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Integrity rule             | a record may be read but never amended in place                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Correction rule            | correction is made by adding a record                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Bay count                  | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Median retrieval time      | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Rewrite resistance         | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The floor doctrine is that the archive is not behind containment but part of
+it, and the design follows:
+retrieval is made easy enough to be used and alteration is made structurally difficult.
+Write-once storage
+means a corrected record and a rewritten record look identical afterwards, which is why
+the integrity
+monitor watches for alteration rather than for loss.
+
 PHYSICAL OR SYSTEM DESCRIPTION
 
 A QHRRRS installation includes accession bays, processing desks, repository halls, restricted records vaults, document
@@ -109,7 +157,55 @@ The system's defining feature is that its own records are also records. Accessio
 denial, quarantine, and
 preservation actions are preserved under the same logic they enforce.
 
+INTERFACE AND OPERATING ENVELOPE
+
+Repository Controls
+
+- QNB-hardened repository bay
+- preservation environment branch
+- quarantine routing gate
+- reading-room access lock
+
+Retrieval Readouts
+
+- accession and processing station entries
+- retrieval authorization terminal decisions
+- record integrity monitor trace
+- archive activity ledger history
+
+Archive Limits And Weaknesses
+
+- Do not amend a record in place to correct it.
+- Do not shelve an information-borne hazard in a general bay.
+- Do not issue a record without a retrieval authorization.
+- Do not silence the integrity monitor during a review.
+- Weakest against corrections made informally in the margin.
+- Weakest against retrieval authorized by seniority alone.
+
+Bay count, retrieval median, and rewrite resistance are NOT MEASURED.
+
 OPERATING PROCEDURE
+
+
+Numbered Operating Sequence
+
+Accession, preservation, and retrieval are handled as three separate authorizations. A record that reaches
+the reading room has passed all three, and the ledger shows which.
+
+1. Verify the accession batch against the recovery record.
+2. Process and shelve the record in the hardened bay, write-once.
+3. Route any information-borne hazard to the quarantine gate.
+4. Raise a retrieval authorization for the requested record.
+5. Issue the record to the reading room under the access lock.
+6. Watch the integrity monitor for a rewrite signature.
+7. Log the return and re-seal the bay.
+8. Close the ledger entry and file any objection raised.
+
+Step 2 is write-once for a reason that is easy to lose under workload.
+An amendment made in place cannot be
+distinguished from a rewrite once it has been made, so the only correction the
+floor permits is a second
+record that supersedes the first and says why.
 
 Before accession, QHRRRS records source floor, document type, custody chain, hazard indication, clearance status,
 preservation requirement, and whether quarantine screening is necessary. Material safe for repository storage enters
@@ -122,6 +218,44 @@ or reproduction rule. Every retrieval is logged. Every denied retrieval is logge
 compares
 current record state against preserved baselines and flags unexplained drift, causal rewrite pressure, unauthorized
 edits, missing pages, or access-history contradictions.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Per accession              | confirm the write-once record is sealed                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Weekly                     | review integrity monitor alarms                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | audit retrieval authorizations                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | test the quarantine routing gate                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Annually                   | verify the preservation environment and bay seals                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Preservation is treated as active work rather than as storage. The environment branch is
+serviced on the
+same cycle as the seals, since a bay that holds air it cannot control
+is a preservation failure that will
+not announce itself for years.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Record altered             | in-place amendment                        | restore, alarm, review                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Integrity alarm            | causal rewrite signature                  | seal bay, notify floor                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Retrieval refused          | authorization missing                     | deny, log, re-file                        |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Hazard misrouted           | quarantine gate bypassed                  | recall, quarantine, log                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Reading room open          | access lock released                      | close room, audit file                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
 
@@ -189,6 +323,9 @@ record?
 - Can QNB-hardening preserve institutional memory too well when command needs forgetting?
 - If a record changes and no one can prove when, is the archive
 damaged or corrected?
+- Can a write-once record preserve a fact that later becomes false?
+- Does hardening the repository make the retrieval path the weak point?
+- Who authorizes correction when the only lawful edit is an addition?
 
 FILE METADATA
 

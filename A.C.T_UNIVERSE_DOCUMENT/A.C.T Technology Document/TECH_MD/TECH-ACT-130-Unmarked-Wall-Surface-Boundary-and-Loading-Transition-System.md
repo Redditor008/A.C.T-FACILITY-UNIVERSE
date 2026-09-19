@@ -85,6 +85,39 @@ formalizes the engineering and procedure that keep that ordinariness functional.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Values are restated from this record's boundary component list and F-9 concealment doctrine. Anything
+not
+held is marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+| BOUNDARY PARAMETER | VALUE |
+|---|---|
+| Wall | unmarked wall structural section |
+| Sensors | concealed boundary sensor route |
+| Screening | vehicle screening bay |
+| Intake | delivery intake dock |
+| Custody | loading bay custody station |
+| Elevator | primary elevator transition gate |
+| Campus link | campus-network communication separator |
+| Core link | buried-core communication separator |
+| Control | boundary control post |
+| Seal | emergency core-seal actuator |
+| Concealment rule | the wall must remain ordinary campus construction |
+| Screening rule | everything that enters is screened |
+| Wall breaches | none recorded |
+| Screening volume | NOT MEASURED |
+| Median screening time | NOT MEASURED |
+
+The first containment door at Redwood Veil does not look like a door, and
+its security depends on staying
+that way. The system has to receive legitimate campus traffic, separate Facility traffic, inspect
+vehicles,
+process shipments, and route material downward without any of it reading as unusual from
+the campus side, so
+concealment is a functional requirement of the screening hardware rather than a finish applied
+over it.
+
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A UWSBLTS installation includes vehicle screening lanes, delivery intake docks, loading bays, cargo inspection
@@ -109,7 +142,56 @@ Facility authority.
 
 ---
 
+## INTERFACE AND OPERATING ENVELOPE
+
+### Boundary Controls
+
+- vehicle screening bay
+- delivery intake dock
+- primary elevator transition gate
+- emergency core-seal actuator
+
+### Boundary Readouts
+
+- concealed boundary sensor route status
+- loading bay custody station records
+- boundary control post log
+- campus and core separator health
+
+### Boundary Limits And Weaknesses
+
+- Do not open the wall for an unscreened vehicle.
+- Do not move material without a loading-bay custody entry.
+- Do not bridge the campus and core networks.
+- Do not mark, paint, or sign the wall section.
+- Weakest against convoy pressure to shorten screening.
+- Weakest against outside attention drawn by repair work.
+
+Screening volume and screening median are NOT MEASURED.
+
 ## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Traffic moves through one route in one direction under one chain of custody. Screening
+happens before the
+wall opens, not after, and custody is established at the dock rather than at
+the elevator.
+
+1. Screen the vehicle in the bay before the wall opens.
+2. Process the delivery at the intake dock.
+3. Establish loading-bay custody for every item received.
+4. Route material through the primary elevator gate.
+5. Keep the campus and core channels separated throughout.
+6. Monitor the concealed sensor route continuously.
+7. Escalate to the boundary control post on any anomaly.
+8. Actuate the core seal if the wall is threatened.
+
+Step 5 holds nothing and carries traffic, which is why it is the step
+most often treated as optional. A
+screening bay that shares a network with campus information technology has described the Facility
+to anyone
+with a maintenance console, and the separators are load-bearing for exactly that reason.
 
 Before any transition movement, UWSBLTS verifies vehicle identity, delivery manifest, personnel authorization, cargo
 status, Recovery or Logistics custody, elevator destination, communication channel, and whether the movement belongs
@@ -126,6 +208,32 @@ may seal the buried
 core behind the transition level.
 
 ---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per convoy | confirm every vehicle was screened |
+| Weekly | walk the concealed sensor route |
+| Monthly | audit loading-bay custody records |
+| Quarterly | test both communication separators |
+| Annually | exercise the emergency core-seal actuator |
+
+Boundary servicing is scheduled to look like ordinary campus maintenance. The sensor route is
+walked on a
+cycle that matches grounds inspection so that the people performing it are not themselves
+an anomaly on the
+campus side of the wall.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Sensor silent | concealed route damaged | man post, repair |
+| Screening skipped | bay rushed for a convoy | hold traffic, re-screen |
+| Custody gap | loading handoff lost | seal bay, audit chain |
+| Network bridged | separator misconfigured | split, isolate, test |
+| Wall inspected | outside attention | hold normal, notify |
 
 ## KNOWN LIMITS
 
@@ -200,7 +308,10 @@ never learns to ask about.
   boundary
   is active?
 
----
+---- How is an unmarked wall repaired without marking it?
+- Does screening everything that enters teach outsiders what to ask?
+- Who decides the wall is breached before the sensor confirms it?
+
 
 ## FILE METADATA
 
