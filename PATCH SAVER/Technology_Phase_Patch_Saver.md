@@ -4511,3 +4511,60 @@ records each: 027, 048, 049, 050, 051, 052, 053, 055. Separately, the full dossi
 carry the retrofit chapters are GOI sets 054, 056, 071.
 
 **Next action.** Rebuild the TECH-GOI-027 set, Anstrall Market.
+
+## Prompt Log — 2026-09-19 18:49 UTC
+
+**TECH-GOI-027, Anstrall Market, rebuilt.** The five records move from four-chapter summaries of 481
+to 518 words each to full dossiers of 2051 to 2213 words across 14 chapters, on the house shape used
+for GOI-001 and GOI-014. Every fact in the old records survives: the Claim Control, Valuation,
+Access Management, Exchange, and Dispersal phases; the uneven HANDLER capability; the eight
+non-currency consideration forms; the catalogue containment review; and the controlled exchange
+observation extract.
+
+**The set is written as commercial technology rather than as hostile hardware, and the framing
+changes with it.** Nothing here is issued and nothing is adopted. Each registry reads as an acquired
+trade-structure record observed and not adopted, the clearance ladder is Level 4 with Level 5 for
+controlled market operations, and the handling rules are prohibitions on treating observed behaviour
+as protocol. The 027-5 record sits under exposure handling rather than intelligence, because proof
+material keeps working after the transaction that produced it has been interdicted.
+
+**Each record carries its own argument, and no two share a thesis.** Claim control is a disclosure
+budget: what a broker withholds describes what is fragile, so the withheld half of a claim is the
+informative half. The ledger prices demand rather than understanding, and its price drivers run
+opposite to containment risk, because transport difficulty and secrecy cost both raise the figure,
+which means a Market price read as a risk rating is inverted. The valuation table is the set's one
+three-column table, pairing each factor's market direction with the reading Containment requires.
+
+**Handler rules are survivorship evidence and nothing more.** Every prohibition exists because
+breaking it once already cost somebody something, and the mechanism is discarded in transmission, so
+a rule set written for the wrong object is indistinguishable from a correct one until it fails.
+Settlement is fragmentation by design: one document identifies one link, and a chain built to
+survive the loss of any node is not reconstructed from the nodes that survive it.
+
+**Proof material is the one Market asset that outlives interdiction.** A demonstration releases what
+a transaction can still withdraw, a recording has no custody requirement and no expiry, and a
+catalogue presents possibility in bulk. A limited test convinces a buyer an object is controllable
+when it has merely not failed yet, which is why the operating sequence quarantines the material
+before it reads it.
+
+**Verification.** Each record was checked for chapter count and order, a single H1, one archive
+note, exactly eight H3 sections including one Numbered Operating Sequence with eight steps, fourteen
+chapter separators, exactly five tables matched by five plain-text boxes, a single fenced handling
+rule, no markdown artefacts carried into the plain-text twin, every heading present as a bare line
+in the twin, every table cell value present in the twin once box wrapping is flattened, box rules
+exactly 118 wide, and a single trailing newline. Four faults were caught and fixed before the pass
+was accepted: two in the builder, where the markdown table emitter was handed a header-plus-rows
+tuple it could not unpack and the table counter miscounted body tables, and two in the checker,
+which expected thirteen separators where fourteen are correct and counted fence lines by list
+membership instead of by string.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, CONFLICT 0, multiH1 0,
+odd-fence 0, md-with-box 0, glued separator lines 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204,
+GOI_MD 34 = GOI_TXT 34, widest box line 118, date-rule violations 0, twin date mismatches 0,
+truncated registry cells 0 across 5872 shared-label rows, git diff --check rc=0.
+
+**Remaining GOI technology backlog.** Seven stub sets remain on the old four-chapter shape, five
+records each: 048, 049, 050, 051, 052, 053, 055. Separately, the full dossiers that do not yet carry
+the retrofit chapters are GOI sets 054, 056, 071.
+
+**Next action.** Rebuild the TECH-GOI-048 set, Children of the Deep.

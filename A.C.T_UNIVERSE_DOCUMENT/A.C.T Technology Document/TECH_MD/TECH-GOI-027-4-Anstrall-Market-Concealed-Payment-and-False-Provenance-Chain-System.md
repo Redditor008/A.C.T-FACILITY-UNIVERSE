@@ -1,64 +1,309 @@
-# TECH-GOI-027-4 - ANSTRALL MARKET CONCEALED PAYMENT AND FALSE PROVENANCE CHAIN SYSTEM
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - ANSTRALL MARKET CONCEALED PAYMENT AND FALSE PROVENANCE CHAIN SYSTEM
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | TECHNOLOGY DESIGNATION | TECH-GOI-027-4 |
 | TECHNOLOGY NAME | Anstrall Market Concealed Payment and False Provenance Chain System |
-| COMMON ABBREVIATIONS | Concealed Payment / Provenance Chain / Market Exchange Set |
-| ORIGIN | Anstrall Market |
-| ACQUISITION STATUS | Partial exchange records and provenance documents recovered during interdiction; no complete chain reconstructed |
-| PRIMARY A.C.T INTEREST | Transaction interdiction, buyer-network reconstruction, financial-trail analysis, dispersal tracking |
-| ARCHIVE HANDLING | TRADE-INTERDICTION RESTRICTED / ACTIVE-ROUTE DISCLOSURE LIMIT |
+| SHORT NAME | CPFCS |
+| TECHNOLOGY FAMILY | ACQUIRED TRADE STRUCTURE / SETTLEMENT FRAGMENTATION / PROVENANCE FORGERY |
+| ORIGIN | ANSTRALL MARKET (GOI-BS-T-027) / EXCHANGE AND TRANSIT INTERMEDIARY LAYER |
+| PRIMARY CONTROLLER | Intelligence Division / Trade Interdiction Desk |
+| ATTACHED DIVISIONS | Intelligence, Recovery, Civil Covert, Archive, Security, Command |
+| OPERATIONAL STATUS | ACQUIRED / PARTIAL RECORDS HELD, NO COMPLETE CHAIN RECONSTRUCTED |
+| RISK STATUS | EXPOSURE-ACTIVE / DISPERSAL RISK / CIVILIAN SYSTEM CONTAMINATION RISK |
+| CLEARANCE REQUIRED | Level 4 for exchange review; Level 5 for controlled market operations |
 
-## Functional Identity
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Trade-Interdiction Technology Record |
+| DISTRIBUTION | Intelligence / Recovery / Civil Covert / Archive / Command |
+| AUTHORITY | Intelligence Division, Trade Interdiction Desk, and Central Archive |
 
-The Anstrall Market Concealed Payment and False Provenance Chain System is the settlement and
-ownership technology
-that allows an anomalous object to change hands without leaving a traceable record of
-who sold it, who carried it, or
-who received it. The dossier lists concealed payment and exchange mechanisms and false or
-incomplete provenance chains
-among the Market's known assets, and records the transaction cycle phases of Exchange and
-Dispersal: value is
-transferred while contact between source, broker, handler, and buyer remains fragmented, after which participants
-separate, records are reduced or rerouted, and the object's next destination becomes harder to
+#### Archive Note
+The settlement and ownership layer lets an anomalous object change hands without leaving a
+traceable record of who sold it, who carried it, or who received it. The
+dossier lists concealed payment and exchange mechanisms and false or incomplete provenance chains among
+the Market's known assets, and records the cycle phases of Exchange and Dispersal: value
+transfers while contact between source, broker, handler, and buyer remains fragmented, after which
+participants separate, records are reduced or rerouted, and the next destination becomes harder to
 reconstruct.
 
-## Known Structure and Use
+The design property worth recording is that the chain is built to survive the
+loss of any node. No single permanent Market holding is confirmed as the complete
+centre of operations, and the paperwork has the same shape as the holdings: each
+document identifies one link, and the links are arranged so that removing several does
+not reveal the rest.
 
-Settlement is deliberately fragmented. Recovered exchange material shows staged payment steps, value delivered through
-intermediaries, and consideration offered as access, secrecy, protected logistics, technical assistance, political
-cover, another object, or a promise that cannot be enforced through normal law. Provenance
-documents are constructed
-to look ordinary: shipping paperwork, ownership records, business-front invoices, and holding agreements that describe
-an unremarkable item. Because the Market relies on temporary storage and altered manifests, a
-single recovered
-document usually identifies one link and not the chain. No single permanent Market holding
-is confirmed as the
-complete center of operations, so the chain is designed to survive the loss of
-any node.
+That is why this material is unreconstructable rather than merely hidden. A recovered document
+is not a fragment of a chain waiting to be completed; it is a
+link that was engineered to be sufficient on its own and useless in combination,
+and interdiction that treats it otherwise will keep closing transactions without ever closing the
+route.
 
-## A.C.T Handling Rules
+Controlled label: **ANSTRALL MARKET PROVENANCE-CHAIN COMPLETENESS PROHIBITION**.
 
-Recovered exchange and provenance material is filed under Commercial Intelligence and Route Intelligence and
-must not
-be circulated outside restricted archive review before another division uses it. Civil Covert Division
-prepares a
-surface explanation where civilian systems were drawn into the exchange. Government Anti Anomaly interfaces
-may assist
-with legal masking, transport verification, and controlled access restrictions during major recovery actions, but
-they
-are not authorized to negotiate Market terms or retain appropriated material as a government
-asset. Under no condition
-may personnel offer an anomaly, a person, a protected Site detail, or a classified
-record as payment.
+Core handling rule:
 
-## Failure and Open Questions
+```text
+ONE DOCUMENT IDENTIFIES ONE LINK.
+A CHAIN BUILT TO SURVIVE THE LOSS OF ANY NODE
+IS NOT RECONSTRUCTED FROM THE NODES THAT SURVIVE IT.
+```
 
-The system fails when a payment step requires a live meeting, when a provenance
-document must survive legal scrutiny,
-or when a buyer refuses to pay before delivery. A.C.T has not reconstructed a
-complete provenance chain from source
-seller to final holder. Which payment mechanisms are Market-wide practice and which belong to
-individual brokers
-remains unresolved.
+---
+
+## FUNCTION SUMMARY
+
+The system settles a sale in pieces and papers an object as something unremarkable.
+Payment is staged through intermediaries, value may be delivered in forms that leave no
+financial record at all, and the ownership paperwork is deliberately ordinary: shipping documents, ownership
+records, business-front invoices, and holding agreements that describe an item no inspector would stop.
+
+The ordinariness is the technology. A forged provenance that looks unusual is caught; a
+provenance that looks boring is filed. Because the Market relies on temporary storage and
+altered manifests, the paperwork never has to describe the object accurately. It only has
+to describe something plausible often enough to be true.
+
+The consequence for interdiction is asymmetric. Every recovered document is genuine paperwork for a
+transaction that happened, which makes it reliable evidence about one link and worthless as
+evidence about the chain. A.C.T can prove a sale occurred and still be unable
+to name either party to it.
+
+---
+
+## ORIGIN AND CUSTODY
+
+The Anstrall Market is recorded at Threat Level 3, Nature Class BUSINESS, Alignment TRADE,
+Reach TRANSNATIONAL, Anomalous Capability HANDLER, and Secrecy Risk EXPOSURE-ACTIVE, under A.C.T posture
+MONITOR / APPROPRIATE. Its leadership is known only as Anstrall, and whether that name
+denotes one person, a protected succession identity, or a commercial fiction maintained by several
+actors is unresolved; unresolved identity is not evidence that the Market itself is anomalous.
+
+Partial exchange records and provenance documents are recovered during interdiction. No complete chain has
+been reconstructed from source seller to final holder, and the structure explains why: the
+Market's assets are mutable, and a route, identity, or holding point may be abandoned
+after a single transaction, so a chain that existed last month may have no
+surviving node this month.
+
+Material is filed under Commercial Intelligence and Route Intelligence and must not leave restricted
+archive review before another division uses it. Central Archive holds the designation and ACT-SITE-01-US-W
+/ Redwood Veil Complex holds primary file jurisdiction, with route-specific Site transfer where a
+settlement crosses into another Site's region.
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+The system has a settlement layer and a documentation layer. Known components are:
+
+- staged payment steps;
+- intermediary value delivery;
+- non-currency consideration terms;
+- access or secrecy as consideration;
+- protected logistics as consideration;
+- technical assistance as consideration;
+- political cover as consideration;
+- another object as consideration;
+- shipping paperwork and altered manifests;
+- business-front invoices and holding agreements.
+
+Consideration given as a promise that cannot be enforced through normal law is the
+component that defeats financial analysis outright. It leaves no ledger entry, no transfer, and
+no dispute, because a term nobody can enforce is a term nobody needs to
+record.
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Figures are restated from the GOI-BS-T-027 dossier and from interdiction recovery records. Values the
+archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+| SETTLEMENT PARAMETER | VALUE |
+|---|---|
+| Payment structure | staged through intermediaries |
+| Currency required | no |
+| Consideration forms | eight recorded, non-currency common |
+| Provenance style | deliberately ordinary paperwork |
+| Document yield | one link per document |
+| Node survival design | chain survives loss of any node |
+| Permanent centre | none confirmed |
+| Chains reconstructed | NOT MEASURED |
+| Settlements interdicted | NOT MEASURED |
+| Counterparties named | NOT MEASURED |
+
+The document yield row is the operational limit stated plainly. Interdiction that expects a
+second link from the first will not get one, and the expectation is what
+turns a successful recovery into a wasted intelligence window.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Chain Assessment Controls
+
+- Trade Interdiction Desk intake
+- restricted archive review before division use
+- civilian contamination screening
+- controlled market operation at Level 5
+
+### Chain Readouts
+
+- payment stage map
+- consideration type record
+- provenance document inventory
+- link isolation assessment
+
+### Handling Limits And Weaknesses
+
+- Do not expect one document to yield a second link.
+- Do not circulate exchange material before restricted review.
+- Do not treat a mundane intermediary as a Market participant.
+- Do not offer an anomaly, a person, a Site detail, or a record as
+  payment.
+- Weakest against consideration given as an unenforceable promise.
+- Weakest where the settlement required a live meeting.
+
+Reconstructed chains, interdicted settlements, and named counterparties are NOT MEASURED.
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence preserves the intelligence value of a settlement only inside the window where
+containment is already secured. The order is fixed by doctrine: recovery first, intelligence second,
+and never the reverse, because a sale allowed to continue for the sake of
+a larger investigation has already failed the first duty.
+
+1. Preserve containment of any object in the settlement.
+2. Capture route, broker, and payment data inside the safe window.
+3. File material under Commercial and Route Intelligence.
+4. Inventory documents without assuming a second link.
+5. Record consideration type, not just consideration value.
+6. Screen for civilian systems drawn into the exchange.
+7. Prepare a surface explanation where civilians were involved.
+8. Report which link is isolated and which remain unknown.
+
+Step 8 keeps the record honest. An interdiction report that implies a route was
+closed when one link was removed invites the next operation to be planned against
+a route that no longer exists in that shape.
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per interdiction | capture settlement data in the safe window |
+| Per intake | record consideration type before value |
+| Quarterly | compare document styles across recoveries |
+| Annually | test link isolation assumptions against outcomes |
+| On civilian exposure | Civil Covert surface explanation review |
+
+The annual test is the maintenance that matters. Link isolation is an assumption about
+the Market's structure, and only repeated interdiction outcomes can show whether it still holds
+or whether the Market has begun chaining its paperwork together.
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Chain expected | one document generalised | isolate, Intelligence |
+| Civilian firm named | business front used | Civil Covert, cover |
+| Payment untraceable | non-currency term | log, Route Intelligence |
+| Paperwork plausible | ordinary item described | verify object, Recovery |
+| Contact live | meeting required | suspend, Command |
+
+---
+
+## KNOWN LIMITS
+
+The system fails where fragmentation cannot be maintained: when a payment step requires a
+live meeting, when a provenance document must survive legal scrutiny, or when a buyer
+refuses to pay before delivery. Those are the only windows interdiction reliably gets, and
+they are short.
+
+It cannot be completed by accumulation. A.C.T has not reconstructed a complete provenance chain
+from source seller to final holder, and which payment mechanisms are Market-wide practice and
+which belong to individual brokers remains unresolved. Appropriating the material is not the same
+as understanding it, and the Facility's ability to take an object from a trade
+structure is not permission to become part of that structure.
+
+---
+
+## FAILURE HISTORY
+
+### SINGLE-LINK RECOVERY — STANDING PATTERN
+
+Every interdiction to date has yielded one link. The pattern is not a record
+of failure so much as a description of the target: a chain designed so
+that no node holds the others cannot be walked from a node, and expecting
+otherwise has repeatedly cost the Facility the intelligence window it did have.
+
+### CIVILIAN SYSTEM DRAWN IN — SURFACE EXPLANATION
+
+Because the Market relies on temporary storage and altered manifests, ordinary shipping firms, storage
+operators, and business assets are drawn into routes without awareness of the cargo. Where
+that happens, Civil Covert Division prepares a surface explanation, and the intermediaries are handled
+as unaware civilian participants rather than as Market members.
+
+### COMPLETE PROVENANCE CHAIN — NOT RECONSTRUCTED
+
+No complete chain from source seller to final holder has been reconstructed. The standing
+question is not which link is missing but whether a complete chain exists at
+all, since a settlement can be arranged so that no single participant ever learns
+enough to describe it.
+
+---
+
+## DIVISION USE
+
+Intelligence Division holds the record and reads link isolation. Recovery Division secures any object
+in the settlement first. Civil Covert Division prepares surface explanations where civilian systems were
+drawn in. Security holds appropriated material. Archive files the material under Commercial and Route
+Intelligence. Command authorises any controlled market operation and reviews Government Anti Anomaly
+interfaces, which may assist with legal masking and transport verification but are not authorised
+to negotiate Market terms or retain appropriated material.
+
+---
+
+## CROSS-REFERENCES
+
+- - GOI-BS-T-027 — Anstrall Market, Group of Interest Registry;
+- - TECH-GOI-027-1 — Anstrall Market Broker Claim-Control and Description System, Technology Record;
+- - TECH-GOI-027-2 — Anstrall Market Valuation and Demand-Price Ledger, Technology Record;
+- - TECH-GOI-027-3 — Anstrall Market Handler Custody Rule and Packaging Set, Technology Record;
+- - TECH-GOI-027-5 — Anstrall Market Staged Demonstration and Recorded Proof Set, Technology Record;
+- - TECH-GOI-001-1 — GAA Legal Masking and Task-Bounded Authorization Instrument Set, Technology Record;
+- - ACT-SITE-01-US-W / Redwood Veil Complex, Trade-Interdiction Jurisdiction, Site Record;
+
+The GAA masking set is cited for the same reason in both directions: it
+shows what a legitimate authority does with the same problem, and the contrast is
+what keeps this record from being read as a manual.
+
+---
+
+## OPEN QUESTIONS
+
+- Which payment mechanisms are Market-wide and which are individual broker practice?
+- Does a complete provenance chain exist anywhere in the Market?
+- Can consideration given as a promise be interdicted at all?
+- Which business fronts are aware of the cargo they carry?
+- What does a settlement with no financial record leave behind?
+- Has any recovered document ever been reused across two transactions?
+
+---
+
+## FILE METADATA
+
+- **Created:** 2017-06-02
+- **Author Desk:** Intelligence Division / Trade Interdiction Desk / Central Archive
+- **Review Status:** Active restricted trade-interdiction technology record; settlement counterparties and live
+  routes censored
+- **Next Review:** After any interdicted settlement, any civilian system exposure, or any second link
+  recovered from one document

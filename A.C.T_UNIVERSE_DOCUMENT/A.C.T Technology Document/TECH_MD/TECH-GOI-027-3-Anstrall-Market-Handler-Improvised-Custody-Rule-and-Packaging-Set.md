@@ -1,68 +1,307 @@
-# TECH-GOI-027-3 - ANSTRALL MARKET HANDLER IMPROVISED CUSTODY RULE AND PACKAGING SET
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - ANSTRALL MARKET HANDLER IMPROVISED CUSTODY RULE AND PACKAGING SET
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | TECHNOLOGY DESIGNATION | TECH-GOI-027-3 |
 | TECHNOLOGY NAME | Anstrall Market Handler Improvised Custody Rule and Packaging Set |
-| COMMON ABBREVIATIONS | Handler Rules / Market Packaging / Custody Set |
-| ORIGIN | Anstrall Market |
-| ACQUISITION STATUS | Recovered through intercepted shipments and handler interviews; packaging components partially held |
-| PRIMARY A.C.T INTEREST | Transport containment, improvised-rule analysis, transit-route interdiction, handler-safety assessment |
-| ARCHIVE HANDLING | TRADE-INTERDICTION RESTRICTED / HANDLER-IDENTITY DISCLOSURE LIMIT |
+| SHORT NAME | HICPS |
+| TECHNOLOGY FAMILY | ACQUIRED TRADE STRUCTURE / IMPROVISED CUSTODY / TRANSIT PACKAGING |
+| ORIGIN | ANSTRALL MARKET (GOI-BS-T-027) / HANDLER AND CUSTODIAN LAYER |
+| PRIMARY CONTROLLER | Containment Division / Intelligence Division joint review authority |
+| ATTACHED DIVISIONS | Containment, Recovery, Intelligence, Medical Care, Archive, Security |
+| OPERATIONAL STATUS | ACQUIRED / PACKAGING PARTIALLY HELD, RULE ORIGIN UNRESOLVED |
+| RISK STATUS | INCOMPLETE CUSTODY RISK / UNKNOWN TRANSPORT CONDITION / HANDLER EXPOSURE |
+| CLEARANCE REQUIRED | Level 4 for custody-rule review; Level 5 for handler-identity material |
 
-## Functional Identity
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Trade-Interdiction Technology Record |
+| DISTRIBUTION | Containment / Recovery / Intelligence / Medical Care / Command |
+| AUTHORITY | Containment Division, Intelligence Division, and Central Archive |
 
-The Anstrall Market Handler Improvised Custody Rule and Packaging Set is the transport, storage,
-inspection, and
-packaging capability that lets the Market move an anomalous object far enough to complete
-a sale. The Market's
-Anomalous Capability class is HANDLER, and the dossier states that this capability is uneven:
-the Market can manage
-objects that fit its commercial model, and it is not proven capable of safely
-containing every anomaly it encounters.
-A.C.T files the set as acquired GOI technology because handler rules are frequently the
-only containment information
-available when an object is intercepted mid-route.
-
-## Known Structure and Use
+#### Archive Note
+The Market's Anomalous Capability class is HANDLER, and this record catalogues what that capability
+actually consists of: the transport, storage, inspection, and packaging practice that moves an anomalous
+object far enough to complete a sale. The dossier is explicit that the capability
+is uneven. The Market can manage objects that fit its commercial model and is
+not proven capable of safely containing every anomaly it encounters.
 
 The set is a body of practical, repeatable rules learned through trade rather than
-through analysis. Recovered handler
-instructions include directions not to open a particular container, not to expose an item
-to a specific material, not
-to allow a buyer to touch an object before payment, and not to keep
-a package in one location beyond a defined period.
-Such rules may be effective without being understood. Packaging components range from ordinary insulated
-cases and
-sealed drums to custom mounts whose purpose is undocumented. Transit practice relies on temporary
-storage, altered
-manifests, indirect transport, staged handoffs, false ownership chains, and location changes designed to prevent
-a
-single interception from revealing the whole route. A temporary holding point is not necessarily
-a Market stronghold;
-it may be an ordinary-looking room, cargo unit, vehicle, storage facility, or business asset
-with no awareness of the
-object's nature.
+through analysis. Recovered handler instructions include directions not to open a particular container, not
+to expose an item to a specific material, not to allow a buyer to
+touch an object before payment, and not to keep a package in one location
+beyond a defined period. Such rules may be effective without being understood by anyone
+still applying them.
 
-## A.C.T Handling Rules
+A.C.T files the set because handler rules are frequently the only containment information available
+when an object is intercepted mid-route, and because a rule that worked is easily
+mistaken for a rule that is known. Every rule in a recovered set is
+survivorship evidence: it exists because breaking it once already cost somebody something.
 
-Handler rules must be recorded as observed behavior, not adopted as containment protocol. Where
-a rule is confirmed
-effective, Containment Division may note the correlation and design its own procedure; where it
-is unconfirmed, the
-rule is preserved as intelligence only. Interdicted packaging enters Containment assessment for required transport
-condition before Recovery moves the object. Mundane intermediaries drawn into a route are handled
-as unaware civilian
-participants, not as Market members.
+Controlled label: **ANSTRALL MARKET HANDLER-RULE ADOPTION PROHIBITION**.
 
-## Failure and Open Questions
+Core handling rule:
 
-Handler capability fails when a rule set was written for a different object, when
-a package exceeds its defined
-holding period, or when a buyer insists on handling before payment. A handler may
-discover too late that a temporary
-storage rule was incomplete. A.C.T does not know how many handler rules are trade-learned
-observation, how many were
+```text
+A RULE THAT WORKED IS NOT A RULE THAT IS UNDERSTOOD.
+OBSERVED BEHAVIOUR IS EVIDENCE. IT IS NEVER PROTOCOL.
+```
+
+---
+
+## FUNCTION SUMMARY
+
+The set bridges the gap between an object nobody can safely hold and a
+buyer who will not pay until it moves. Its methods are empirical rather than
+derived: a container is not opened because opening it once ended a shipment, a
+material is avoided because contact with it once ended a handler, and a holding
+period is defined because exceeding it once ended a route.
+
+None of those reasons survives in the instruction. What is handed to the next
+handler is the prohibition without its cause, which is why the rules can be
+effective and useless at the same time. They encode an outcome and discard the
+mechanism that produced it.
+
+That is the property Containment must never lose sight of. A handler rule recovered
+mid-route may be the only information available about an object's transport condition, and it
+is simultaneously the least reliable information available, because it was written for whatever the
+last handler survived and nothing else.
+
+---
+
+## ORIGIN AND CUSTODY
+
+The Anstrall Market is recorded at Threat Level 3, Nature Class BUSINESS, Alignment TRADE,
+Reach TRANSNATIONAL, Anomalous Capability HANDLER, and Secrecy Risk EXPOSURE-ACTIVE, under A.C.T posture
+MONITOR / APPROPRIATE. Its leadership is known only as Anstrall, and whether that name
+denotes one person, a protected succession identity, or a commercial fiction maintained by several
+actors is unresolved; unresolved identity is not evidence that the Market itself is anomalous.
+
+Material is recovered through intercepted shipments and handler interviews. Packaging components are partially
+held; the rule set behind them is rarely recovered whole, because it is passed
+as instruction rather than written as documentation. The origin of any given rule is
+unresolved: it may be trade-learned observation, a seller's warning, or a copy of another
+broker's practice.
+
+Interdicted packaging enters Containment assessment for required transport condition before Recovery moves the
+object. Handler identity material is held at Level 5. Central Archive holds the designation
+and ACT-SITE-01-US-W / Redwood Veil Complex holds primary file jurisdiction, with route-specific Site transfer
+where the intercept falls outside the Site's region.
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+The set has a rule layer and a material layer. Known components are:
+
+- sealed-container prohibition rules;
+- material-contact avoidance rules;
+- pre-payment no-contact rules;
+- defined holding period rules;
+- ordinary insulated cases;
+- sealed drums;
+- custom mounts with undocumented purpose;
+- altered manifests;
+- staged handoff instructions;
+- false ownership chain paperwork.
+
+Custom mounts are the component that most often misleads a recovery team. A mount
+built for a purpose nobody documented looks identical to a mount built for a
+purpose nobody thought to write down, and the difference is whether the object inside
+is being held steady or being held apart from something.
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Figures are restated from the GOI-BS-T-027 dossier and from intercept recovery records. Values the
+archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+| CUSTODY-RULE PARAMETER | VALUE |
+|---|---|
+| Rule basis | trade observation, not analysis |
+| Mechanism recorded | no, prohibition only |
+| Capability class | HANDLER, uneven by object type |
+| Objects manageable | those fitting the commercial model |
+| Transport method | temporary storage, staged handoff |
+| Holding point type | often unaware civilian asset |
+| Packaging held | partial |
+| Rule origin | NOT MEASURED |
+| Rules recovered | NOT MEASURED |
+| Handler identities | NOT MEASURED |
+
+The second row is the reason this record exists as a caution rather than
+a reference. A rule set that records prohibitions without mechanisms cannot be extended to
+a new object, and extending it anyway is the specific error the handling rules
+forbid.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Custody Assessment Controls
+
+- Containment and Intelligence joint clearance
+- transport condition assessed before movement
+- handler identity restricted at Level 5
+- civilian intermediary screening
+
+### Custody Readouts
+
+- rule inventory without mechanism
+- packaging component list
+- holding period reconstruction
+- route fragmentation map
+
+### Handling Limits And Weaknesses
+
+- Do not adopt a handler rule as Facility containment protocol.
+- Do not assume a rule was written for the object recovered with it.
+- Do not treat a mundane intermediary as a Market member.
+- Do not move an object before its transport condition is assessed.
+- Weakest against rule sets recovered without their packaging.
+- Weakest where the holding period was already exceeded.
+
+Rule origin, rule counts, and handler identities are NOT MEASURED.
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence assumes the rule set belongs to a different object until proven otherwise.
+That assumption costs time and prevents the only failure mode that kills people: an
+object moved under a prohibition written for something else, by a handler who believes
+the prohibition is specific to it.
+
+1. Treat the intercept as unknown transport condition.
+2. Assess packaging with Containment before any movement.
+3. Inventory every rule without inferring its mechanism.
+4. Record the holding period and whether it was exceeded.
+5. Map route fragmentation rather than the endpoint.
+6. Screen intermediaries as unaware civilian participants.
+7. File rules as observed behaviour, never as protocol.
+8. Report any rule that Containment cannot explain.
+
+Step 8 is the reason the record is maintained. An unexplained rule that a
+handler obeyed for years is a description of a hazard nobody has met yet,
+and it belongs with Containment rather than in an intercept file.
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per intercept | assess transport condition before movement |
+| Per intake | inventory rules without inferring mechanism |
+| Quarterly | compare packaging across intercepts |
+| Annually | review unexplained rules against containment findings |
+| On handler exposure | Medical Care evaluation, restriction review |
+
+The annual review is the maintenance that matters. A single rule set describes one
+handler's survival; a series of sets describes what the Market has repeatedly learned the
+hard way, and the second is the only reading Containment can act on.
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Rule contradicts itself | copied between brokers | quarantine, Intelligence |
+| Object unstable | wrong object's rule set | halt, Containment |
+| Holding period passed | storage rule incomplete | isolate, reassess |
+| Handler symptomatic | handling condition unknown | Medical, quarantine |
+| Intermediary panicked | partial disclosure made | Civil Covert, cover |
+
+---
+
+## KNOWN LIMITS
+
+The set cannot be adopted. Handler rules must be recorded as observed behaviour, and
+where a rule is confirmed effective Containment may note the correlation and design its
+own procedure; where it is unconfirmed, the rule is preserved as intelligence only. Nothing
+recovered from a Market handler becomes Facility protocol by having worked once.
+
+It also cannot be generalised. Handler capability fails when a rule set was written
+for a different object, when a package exceeds its defined holding period, or when
+a buyer insists on handling before payment. A handler may discover too late that
+a temporary storage rule was incomplete, and by then the object is in a
+room that was chosen for its rent rather than its walls.
+
+---
+
+## FAILURE HISTORY
+
+### RULE SET FOR THE WRONG OBJECT — STANDING PATTERN
+
+The recurring failure is provenance, not incompetence. Handler rules travel with the instruction rather
+than with the object, so a rule learned on one item is applied to
+the next, and the two are indistinguishable from the paperwork. A rule set that
+is correct for the wrong object produces confident, careful, fatal handling.
+
+### HOLDING PERIOD EXCEEDED — TEMPORARY STORAGE
+
+A temporary holding point is not necessarily a Market stronghold. It may be an
+ordinary-looking room, cargo unit, vehicle, storage facility, or business asset with no awareness of
+the object's nature. The Market benefits when mundane participants can be used without receiving
+enough knowledge to identify the larger operation, and the defined holding period is the
+only thing standing between that arrangement and an indefinite one.
+
+### RULE ORIGIN — UNRESOLVED
+
+A.C.T does not know how many handler rules are trade-learned observation, how many were
 supplied by a seller, and how many were copied from another broker's practice. The
-origin of the ruleset is
-unresolved.
+origin is unresolved, and origin is what would tell Containment whether a rule describes
+an object, a person, or a habit.
+
+---
+
+## DIVISION USE
+
+Containment Division assesses transport condition and holds the rule inventory. Recovery Division moves the
+object only after that assessment. Intelligence Division reads route fragmentation and handler practice.
+Medical Care Division evaluates exposed personnel where handling conditions were unknown or compromised. Civil
+Covert Division covers unaware intermediaries drawn into a route. Security holds interdicted packaging.
+Archive files the rule set as observed behaviour.
+
+---
+
+## CROSS-REFERENCES
+
+- - GOI-BS-T-027 — Anstrall Market, Group of Interest Registry;
+- - TECH-GOI-027-1 — Anstrall Market Broker Claim-Control and Description System, Technology Record;
+- - TECH-GOI-027-2 — Anstrall Market Valuation and Demand-Price Ledger, Technology Record;
+- - TECH-GOI-027-4 — Anstrall Market Concealed Payment and Provenance Chain, Technology Record;
+- - TECH-GOI-027-5 — Anstrall Market Staged Demonstration and Recorded Proof Set, Technology Record;
+- - TECH-GOI-001-2 — GAA Classified Logistics and Surface Documentation Layer, Technology Record;
+- - ACT-SITE-01-US-W / Redwood Veil Complex, Trade-Interdiction Jurisdiction, Site Record;
+
+The GAA logistics layer is cited as a contrast in method, not as a
+comparable capability. It documents what it moves; this set moves what it cannot document,
+and the difference is why one is issued and the other is only recovered.
+
+---
+
+## OPEN QUESTIONS
+
+- Are any Market handlers using anomalous tools to protect routes or verify goods?
+- How many handler rules are observation, seller warning, or copied practice?
+- What mechanism stands behind each recovered prohibition?
+- Which holding points are civilian assets with no awareness of the cargo?
+- Can a rule set be matched to the object it was written for?
+- What does an unexplained rule that held for years actually prevent?
+
+---
+
+## FILE METADATA
+
+- **Created:** 2011-08-15
+- **Author Desk:** Containment Division / Intelligence Division / Central Archive
+- **Review Status:** Active restricted trade-interdiction technology record; handler identities and holding
+  locations censored
+- **Next Review:** After any intercepted shipment, any handler exposure, or any rule Containment cannot
+  explain

@@ -1,66 +1,304 @@
-# TECH-GOI-027-5 - ANSTRALL MARKET STAGED DEMONSTRATION AND RECORDED PROOF EXPOSURE SET
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - ANSTRALL MARKET STAGED DEMONSTRATION AND RECORDED PROOF EXPOSURE SET
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | TECHNOLOGY DESIGNATION | TECH-GOI-027-5 |
 | TECHNOLOGY NAME | Anstrall Market Staged Demonstration and Recorded Proof Exposure Set |
-| COMMON ABBREVIATIONS | Market Proof / Demonstration Set / Market Catalogue |
-| ORIGIN | Anstrall Market |
-| ACQUISITION STATUS | Recovered catalogue and proof material under exposure handling; demonstration apparatus not held |
-| PRIMARY A.C.T INTEREST | Information-hazard containment, exposure control, buyer-recruitment tracking, acquisition-prompt analysis |
-| ARCHIVE HANDLING | EXPOSURE-ACTIVE RESTRICTED / CATALOGUE CONTAINMENT REQUIRED |
+| SHORT NAME | SDRPS |
+| TECHNOLOGY FAMILY | ACQUIRED TRADE STRUCTURE / VERIFICATION PRACTICE / INFORMATION HAZARD |
+| ORIGIN | ANSTRALL MARKET (GOI-BS-T-027) / ACCESS MANAGEMENT AND PROOF LAYER |
+| PRIMARY CONTROLLER | Archive Division / Intelligence Division joint exposure authority |
+| ATTACHED DIVISIONS | Archive, Intelligence, Containment, Recovery, Security, Command |
+| OPERATIONAL STATUS | ACQUIRED / CATALOGUE AND PROOF HELD UNDER EXPOSURE HANDLING |
+| RISK STATUS | EXPOSURE-ACTIVE / INFORMATION HAZARD / ACQUISITION-PROMPT AND RECRUITMENT RISK |
+| CLEARANCE REQUIRED | Level 4 for exposure review; Level 5 for controlled market operations |
 
-## Functional Identity
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Exposure-Handling Technology Record |
+| DISTRIBUTION | Archive / Intelligence / Containment / Recovery / Command |
+| AUTHORITY | Archive Division, Intelligence Division, and Central Archive |
 
-The Anstrall Market Staged Demonstration and Recorded Proof Exposure Set is the verification technology
-the Market
-uses to convince a buyer that an anomalous object exists and works, without surrendering
-the object or the seller. The
-dossier records the Access Management phase as partial evidence, indirect observation, or limited proof
-that protects
-the item and the seller from premature seizure. In one restricted operational extract, a
-broker-linked contact
-arranged indirect proof of an anomalous object's availability through partial documentation rather than a
-live
-showing. A.C.T files this as acquired GOI technology because Market proof material is itself
-a containment problem
-independent of the object it advertises.
+#### Archive Note
+The verification layer is what convinces a buyer that an anomalous object exists and
+works without surrendering the object or the seller. The dossier records the Access Management
+phase as partial evidence, indirect observation, or limited proof that protects the item and
+the seller from premature seizure. In one restricted operational extract, a broker-linked contact arranged
+indirect proof of an object's availability through partial documentation rather than a live showing.
 
-## Known Structure and Use
+A.C.T files this as acquired GOI technology because the proof material is itself a
+containment problem independent of the object it advertises. A catalogue that circulates survives the
+loss of every object in it. A recording survives the loss of the demonstration.
+Proof is the one Market asset that keeps working after the transaction it was
+made for has been interdicted.
 
-The set has three recorded forms. A staged demonstration presents a limited test or
-an object-linked effect rather
-than the object itself. Recorded proof circulates images, descriptions, or captured effects as portable
-evidence. A
-Market catalogue presents many objects at once in ordinary collector language. A recovered Market
-catalogue described
-objects whose effects had been minimized, exaggerated, or deliberately obscured, and Archive review found
-that several
-entries could function as recruitment or acquisition prompts even without naming their sellers. Buyer-screening
-and
-invitation practices form the outer layer, deciding who is shown proof at all.
+That asymmetry is the reason this record sits under exposure handling rather than under
+intelligence. Market documentation is not harmless because it is commercial: a price, a false
+provenance, or a partial claim can be enough to make an object desirable to
+an unqualified buyer, and containment of market information is part of containment of market
+objects.
 
-## A.C.T Handling Rules
+Controlled label: **ANSTRALL MARKET PROOF-MATERIAL EXPOSURE CLASSIFICATION**.
 
-Market proof material is exposure material and is not an intelligence list. It must
-be assigned to exposure handling
-rather than circulated, because a price, a false provenance, or a partial claim can
-be enough to make an object
-desirable to an unqualified buyer. Containment of market information is part of containment of
-market objects. Field
-personnel are not authorized to allow a sale to continue solely to learn whether
-a claimed effect is real if
-containment risk becomes immediate. No personnel may promise A.C.T protection for a completed illegal
-sale.
+Core handling rule:
 
-## Failure and Open Questions
+```text
+PROOF IS NOT EVIDENCE UNTIL IT IS CONTAINED.
+A DEMONSTRATION RELEASES WHAT A TRANSACTION CAN STILL WITHDRAW.
+```
 
-Each procedure risks propagation. Recorded proof can become an information hazard. A staged demonstration
-can release
-a condition that cannot be repackaged. A limited test can convince a buyer that
-an object is controllable when it has
-merely not failed yet. A.C.T does not know how many catalogues remain in circulation,
-which buyers received proof
-material that has not been recovered, or whether any demonstration apparatus is itself anomalous.
-These conditions
-remain open.
+---
+
+## FUNCTION SUMMARY
+
+The set has three recorded forms and one outer layer. A staged demonstration presents
+a limited test or an object-linked effect rather than the object itself. Recorded proof
+circulates images, descriptions, or captured effects as portable evidence. A catalogue presents many objects
+at once in ordinary collector language. Buyer screening decides who is shown proof at
+all.
+
+Each form trades a different risk. A demonstration risks release, because a condition produced
+for a buyer cannot be repackaged afterwards. Recorded proof risks propagation, because a recording
+has no custody requirement and no expiry. A catalogue risks recruitment, because it presents
+possibility in bulk to anyone who obtains it.
+
+The critical asymmetry is that proof succeeds by being unconvincing to the wrong people
+and convincing to the right ones, and the set has no mechanism for telling
+them apart. Screening narrows the audience; it does not control the copy.
+
+---
+
+## ORIGIN AND CUSTODY
+
+The Anstrall Market is recorded at Threat Level 3, Nature Class BUSINESS, Alignment TRADE,
+Reach TRANSNATIONAL, Anomalous Capability HANDLER, and Secrecy Risk EXPOSURE-ACTIVE, under A.C.T posture
+MONITOR / APPROPRIATE. Its leadership is known only as Anstrall, and whether that name
+denotes one person, a protected succession identity, or a commercial fiction maintained by several
+actors is unresolved; unresolved identity is not evidence that the Market itself is anomalous.
+
+Recovered catalogue and proof material is held under exposure handling. Demonstration apparatus is not
+held, and whether any such apparatus is itself anomalous is unresolved. Proof material arrives
+with transaction records and is separated from them on intake, because the two have
+incompatible handling rules: one is read, the other is contained.
+
+Custody is joint. Archive Division holds the material under exposure quarantine, Intelligence Division holds
+the readout, and Central Archive holds the designation. ACT-SITE-01-US-W / Redwood Veil Complex holds
+primary file jurisdiction, with document-propagation and dangerous-visual-proof matters routed to the Site
+responsible for digital traces and archive isolation.
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+The set is a verification practice rather than a device. Its known components are:
+
+- staged limited test;
+- object-linked effect presented in place of the object;
+- indirect observation arrangement;
+- recorded image or captured-effect material;
+- written effect description;
+- multi-object catalogue in collector language;
+- minimized, exaggerated, or obscured effect entries;
+- buyer-screening criteria;
+- invitation practice;
+- proof-withdrawal condition.
+
+Proof-withdrawal condition is the component that distinguishes a controlled demonstration from an uncontrolled
+one, and it is the component most often missing. Without it there is no
+point at which the seller can stop having shown the effect, which is why
+a demonstration is irreversible while a transaction is not.
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Figures are restated from the GOI-BS-T-027 dossier and from catalogue containment review. Values the
+archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+| PROOF-FORM PARAMETER | VALUE |
+|---|---|
+| Staged demonstration | limited test or linked effect |
+| Recorded proof | portable, no custody requirement |
+| Catalogue | many objects, collector language |
+| Screening layer | narrows audience, not copies |
+| Effect accuracy | minimized, exaggerated, or obscured |
+| Release risk | demonstration only |
+| Propagation risk | recorded proof and catalogue |
+| Recruitment risk | catalogue entries |
+| Catalogues in circulation | NOT MEASURED |
+| Apparatus status | NOT MEASURED |
+
+The three risk rows are not alternatives. A single catalogue entry can propagate and
+recruit at once, and a demonstration recording does all three, which is why the
+handling class is exposure rather than intelligence.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Proof Assessment Controls
+
+- Archive and Intelligence joint exposure authority
+- exposure quarantine before any readout
+- acquisition-prompt screening
+- no circulation as an intelligence list
+
+### Proof Readouts
+
+- form classification record
+- effect accuracy assessment
+- audience and screening reconstruction
+- recruitment prompt inventory
+
+### Handling Limits And Weaknesses
+
+- Do not circulate proof material as an intelligence list.
+- Do not allow a sale to continue solely to test a claimed effect.
+- Do not promise A.C.T protection for a completed illegal sale.
+- Do not reproduce catalogue wording in any external contact.
+- Weakest against proof material never recovered.
+- Weakest where demonstration apparatus may itself be anomalous.
+
+Catalogue circulation count, unrecovered proof, and apparatus status are NOT MEASURED.
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence contains the proof before it reads it. That order is unusual for
+archive material and deliberate here: a catalogue entry read aloud in a briefing has
+already done the work the entry was written to do, and containment after that
+point is cleanup rather than containment.
+
+1. Classify the material as exposure before any readout.
+2. Quarantine catalogue and recorded proof on intake.
+3. Assess each entry for acquisition-prompt function.
+4. Record effect accuracy without repeating effect claims.
+5. Reconstruct who was screened to receive the proof.
+6. Inventory recruitment prompts separately from objects.
+7. Route demonstration material to Containment for release risk.
+8. Report circulation estimate, not content, to Intelligence.
+
+Step 8 is the discipline. Intelligence needs to know that a catalogue exists and
+roughly how far it has travelled; it does not need the entries, and giving
+them to it converts a containment problem into a second exposure.
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per recovery | quarantine before any readout |
+| Per intake | assess entries for acquisition-prompt function |
+| Quarterly | compare catalogue styles across recoveries |
+| Annually | review circulation estimates against interdiction outcomes |
+| On demonstration report | Containment release-risk assessment |
+
+The annual review is the maintenance that matters. A circulation estimate that is never
+tested against interdiction outcomes quietly becomes an assumption, and every exposure decision built on
+it inherits the error.
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Entry circulating | read as intelligence list | withdraw, quarantine |
+| Effect reproduced | demonstration released | Containment, Medical |
+| Buyer recruited | prompt entry obtained | track, Intelligence |
+| Apparatus held | status unknown | isolate, assess |
+| Wording reused | briefing quoted entry | retract, Archive |
+
+---
+
+## KNOWN LIMITS
+
+The material cannot be used as an intelligence list. Recovered proof must be assigned
+to exposure handling rather than circulated, and field personnel are not authorised to allow
+a sale to continue solely to learn whether a claimed effect is real if
+containment risk becomes immediate. Reading a catalogue for its objects is reading it for
+the reason it was written.
+
+It also cannot be counted. A.C.T does not know how many catalogues remain in
+circulation, which buyers received proof material that has not been recovered, or whether any
+demonstration apparatus is itself anomalous. Each procedure risks propagation, and a limited test can
+convince a buyer that an object is controllable when it has merely not failed
+yet.
+
+---
+
+## FAILURE HISTORY
+
+### CATALOGUE CONTAINMENT REVIEW — ACQUISITION PROMPTS
+
+A recovered Market catalogue used ordinary collector language to describe objects whose effects had
+been minimized, exaggerated, or deliberately obscured. Archive review found that several entries could
+function as recruitment or acquisition prompts even without naming their sellers, and the catalogue
+was assigned to exposure handling rather than circulated as a conventional intelligence list. That
+decision is the origin of this record's handling class.
+
+### DEMONSTRATION AS IRREVERSIBLE RELEASE — STANDING PATTERN
+
+A staged demonstration can release a condition that cannot be repackaged. The pattern recurs
+because the release is the point of the exercise: the buyer asked to see
+the effect, and the effect is not a performance that stops when the audience
+leaves. Every demonstration therefore converts a tradeable object into an uncontainable event.
+
+### CIRCULATION COUNT — NOT HELD
+
+No circulation count is held for recovered catalogues or proof material, and none can
+be derived from recovery, because a catalogue recovered from one buyer says nothing about
+the copies held by the buyers who were not interdicted.
+
+---
+
+## DIVISION USE
+
+Archive Division holds the material under exposure quarantine and owns the acquisition prompt inventory.
+Intelligence Division reads circulation and screening reconstruction without receiving entries. Containment
+Division assesses release risk for any demonstration material. Recovery Division acts on object identification
+only where an entry names an item. Security holds apparatus. Command authorises any controlled
+market operation involving proof material.
+
+---
+
+## CROSS-REFERENCES
+
+- - GOI-BS-T-027 — Anstrall Market, Group of Interest Registry;
+- - TECH-GOI-027-1 — Anstrall Market Broker Claim-Control and Description System, Technology Record;
+- - TECH-GOI-027-2 — Anstrall Market Valuation and Demand-Price Ledger, Technology Record;
+- - TECH-GOI-027-3 — Anstrall Market Handler Custody Rule and Packaging Set, Technology Record;
+- - TECH-GOI-027-4 — Anstrall Market Concealed Payment and Provenance Chain, Technology Record;
+- - TECH-GOI-001-4 — GAA Compartmented Awareness and Document-Routing Channel, Technology Record;
+- - ACT-SITE-01-US-W / Redwood Veil Complex, Trade-Interdiction Jurisdiction, Site Record;
+
+The compartmented awareness system is cited as the counter-method. It narrows what each holder
+can know; this set widens what any holder can want, and the two are
+the reason exposure handling exists as a separate class.
+
+---
+
+## OPEN QUESTIONS
+
+- How many Market catalogues remain in circulation?
+- Which buyers hold proof material that was never recovered?
+- Is any demonstration apparatus itself anomalous?
+- Can a demonstration be withdrawn once its effect has occurred?
+- Which catalogue entries function as recruitment prompts?
+- Does screening reduce copies, or only the first audience?
+
+---
+
+## FILE METADATA
+
+- **Created:** 2023-01-30
+- **Author Desk:** Archive Division / Intelligence Division / Central Archive
+- **Review Status:** Active restricted exposure-handling technology record; catalogue entries and proof content
+  quarantined
+- **Next Review:** After any recovered catalogue, any demonstration report, or any confirmed unrecovered proof
+  recipient
