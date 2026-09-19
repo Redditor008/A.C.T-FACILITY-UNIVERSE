@@ -1,63 +1,293 @@
-# TECH-GOI-001-4 - GAA COMPARTMENTED AWARENESS AND SECURE DOCUMENT-ROUTING CHANNEL SYSTEM
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - GAA COMPARTMENTED AWARENESS AND SECURE DOCUMENT-ROUTING CHANNEL SYSTEM
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | TECHNOLOGY DESIGNATION | TECH-GOI-001-4 |
 | TECHNOLOGY NAME | GAA Compartmented Awareness and Secure Document-Routing Channel System |
-| COMMON ABBREVIATIONS | Compartmented Awareness Set / GAA Routing Channels / Ten-Percent Layer |
-| ORIGIN | Government Anti Anomaly |
-| ACQUISITION STATUS | Cooperative liaison capability exercised under bounded task authorization; channel integrity<br>reviewed after each operation |
-| PRIMARY A.C.T INTEREST | Awareness containment, information-hazard prevention, compromise detection, disclosure minimization |
-| ARCHIVE HANDLING | GOVERNMENT-INTERFACE RESTRICTED / LEVEL 3 LIAISON AND LEVEL 4 REVIEW MATERIAL |
+| SHORT NAME | CADRC |
+| TECHNOLOGY FAMILY | GOI-DERIVED / INFORMATION ARCHITECTURE / AWARENESS SEGMENTATION |
+| ORIGIN | GOVERNMENT ANTI ANOMALY (GOI-GV-P-001) / AWARENESS INTERFACE |
+| PRIMARY CONTROLLER | Intelligence Division liaison authority |
+| ATTACHED DIVISIONS | Intelligence, Civil Covert, Archive, Command Liaison |
+| OPERATIONAL STATUS | ACTIVE / CHANNEL INTEGRITY REVIEWED AFTER EACH OPERATION |
+| RISK STATUS | AWARENESS ASSEMBLY / CHANNEL IMPERSONATION / LIAISON PATTERN RECONSTRUCTION |
+| CLEARANCE REQUIRED | Level 3 for liaison material; Level 4 for review and negotiation records |
 
-## Functional Identity
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted GOI Technology Record |
+| DISTRIBUTION | Intelligence / Civil Covert / Archive / Command Liaison |
+| AUTHORITY | Intelligence Division and Central Archive |
 
-The GAA Compartmented Awareness and Secure Document-Routing Channel System is the information architecture that
-keeps
-state knowledge of the anomalous world segmented, functional, and deniable. Internal estimates recorded in
-the dossier
-indicate that roughly ten percent of the wider government structure possesses any meaningful awareness
-of anomalies,
+#### Archive Note
+The Compartmented Awareness System is catalogued because its core task is not to spread
+knowledge but to prevent its assembly. Internal estimates recorded in the dossier indicate that
+roughly ten percent of the wider government structure possesses any meaningful awareness of anomalies,
 and the dossier is explicit that this is not a single ten-percent office, cabinet,
-agency, or chain of command. A.C.T
-files this as a GOI-linked technology because the system's core task is not to
-spread knowledge but to prevent its
-assembly.
-
-## Known Structure and Use
+agency, or chain of command.
 
 Awareness is compartmentalized by duty. A transportation official may know that a specific sealed
-transfer is exempt
-from ordinary customs procedure without knowing what it contains. A legal authority may approve
-an emergency closure
-order without knowing whether it protects the public from a biological event, a spatial
-breach, or an information
-hazard. A regional executive may receive a narrow briefing on civilian continuity requirements without
-knowing that
-A.C.T exists as a global system. The supporting assets are secure document-routing channels and
-regulated contact
-points for Facility liaison staff. Personnel who demand a complete picture are not considered
-useful merely because
-they possess ordinary authority.
+transfer is exempt from ordinary customs procedure without knowing what it contains. A legal
+authority may approve an emergency closure order without knowing whether it protects the public
+from a biological event, a spatial breach, or an information hazard.
 
-## A.C.T Handling Rules
+The supporting assets are secure document-routing channels and regulated contact points for Facility liaison
+staff. Personnel who demand a complete picture are not considered useful merely because they
+possess ordinary authority, and in GAA practice an office becomes valuable when it can
+perform a needed action while remaining unable to reconstruct the concealed system around it.
+
+Controlled label: **GAA AWARENESS-COMPARTMENT DISCLOSURE LIMIT**.
+
+Core handling rule:
+
+```text
+SHARE WHAT AN OFFICE NEEDS TO ACT, NEVER ENOUGH FOR IT TO ASSEMBLE THE
+SYSTEM.
+```
+
+---
+
+## FUNCTION SUMMARY
+
+The system keeps state knowledge of the anomalous world segmented, functional, and deniable. Each
+compartment is sized to one duty, and no compartment holds enough to infer the
+shape of the others.
+
+This is an architecture rather than a policy. A policy against disclosure can be
+argued with and overridden by rank; an architecture in which no office holds the
+missing piece cannot be, because the person asking does not have the authority that
+would be needed and does not know who does.
 
 The restricted intelligence interface receives selected threat alerts concerning government compromise, hostile use of
 public authority, suspicious procurement, dangerous jurisdictional inquiries, and unexplained institutional interest
-in anomaly-adjacent events, and it does not receive unrestricted anomaly intelligence. Intelligence Division
-determines what can be shared without exposing protected Sites, A.C.T personnel, or foundational records.
-The
-interface is a safeguard against two opposite failures: a government body being used blindly
-by hostile actors, and a
-government body acquiring so much knowledge that it becomes a separate uncontrolled anomaly-management institution.
-Creation of a parallel internal anomaly registry is a standing compromise indicator.
+in anomaly-adjacent events. It does not receive unrestricted anomaly intelligence.
 
-## Failure and Open Questions
+---
 
-The system fails when partial access becomes personal investigation, when a routing channel is
-compromised by
-impersonation or documentary forgery, or when a liaison path is reused often enough to
-be reconstructed. How many
-state-facing personnel know the GAA by a function but not by its formal name
-remains unresolved, as does whether a
-hostile GOI could obtain GAA authority without ever learning the wider Facility structure.
+## ORIGIN AND CUSTODY
+
+The system is exercised under bounded task authorization with channel integrity reviewed after each
+operation. Intelligence Division determines what can be shared without exposing protected Sites, A.C.T personnel,
+or foundational records.
+
+The interface is a safeguard against two opposite failures: a government body being used
+blindly by hostile actors, and a government body acquiring so much knowledge that it
+becomes a separate uncontrolled anomaly-management institution. Both are recorded as compromise conditions rather than
+as policy disagreements.
+
+Creation of a parallel internal anomaly registry is a standing compromise indicator. A registry
+is the one artifact that would let a compartmented structure be reassembled from the
+inside, which is why its appearance is treated as an event rather than as
+administration.
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+Known components include:
+
+- duty-sized awareness compartments;
+- secure document-routing channels;
+- regulated liaison contact points;
+- selected threat alert feed;
+- channel integrity review record;
+- compromise indicator register;
+- parallel registry watch;
+- disclosure minimization log;
+- impersonation detection check;
+- liaison reuse tracker.
+
+The disclosure minimization log and the reuse tracker measure the two ways the architecture
+degrades: by giving one compartment slightly more than it needs, and by using one
+channel often enough to be reconstructed.
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Figures are restated from the GOI-GV-P-001 dossier and from Intelligence liaison review records. Values
+the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+| AWARENESS PARAMETER | VALUE |
+|---|---|
+| Estimated awareness | roughly ten percent of government structure |
+| Structure | compartmentalized by duty, not by office |
+| Alert classes | five, selected only |
+| Unrestricted feed | not authorized |
+| Channel review | after each operation |
+| Registry rule | parallel registry is a compromise indicator |
+| Compartments mapped | NOT MEASURED |
+| Channels in service | NOT MEASURED |
+| Integrity failures | NOT MEASURED |
+| Median channel reuse | NOT MEASURED |
+
+The ten-percent estimate is an internal figure and must not be read as a
+headcount or as a single body. It is included because it is the only
+quantitative statement the dossier makes about the system, and because treating it as an
+organization would be exactly the error the architecture prevents.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Awareness Controls
+
+- duty-sized compartment assignment
+- secure document-routing channel selection
+- regulated liaison contact point
+- selected threat alert release
+
+### Awareness Readouts
+
+- channel integrity review record
+- compromise indicator register
+- disclosure minimization log
+- liaison reuse tracker
+
+### Awareness Limits And Weaknesses
+
+- Do not release unrestricted anomaly intelligence to any compartment.
+- Do not brief an office beyond the action it is being asked to perform.
+- Do not reuse a channel without recording the reuse.
+- Do not treat ordinary authority as a claim to a complete picture.
+- Weakest against partial access turning into personal investigation.
+- Weakest against a channel compromised by documentary forgery.
+
+Compartment counts, channel counts, and reuse medians are NOT MEASURED.
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence sizes the disclosure to the action being requested. Anything beyond that action
+is not a courtesy; it is a piece of a picture that somebody is
+now able to complete.
+
+1. Identify the single action the office is being asked to perform.
+2. Determine the minimum disclosure that makes the action possible.
+3. Check the compromise indicator register before release.
+4. Select a routing channel and record its use.
+5. Release the selected alert or request only.
+6. Review channel integrity after the operation closes.
+7. Record any demand for a complete picture as an indicator.
+8. Log the disclosure and its minimization decision.
+
+Step 7 is the step that determines whether the architecture holds. A demand for
+the whole picture is not misconduct and is often made in good faith, but
+it is the moment at which a compartment stops being a compartment, and recording
+it is what allows the pattern to be seen across offices that never meet.
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per operation | review channel integrity afterwards |
+| Per release | record the minimization decision |
+| Monthly | review liaison reuse counts |
+| Quarterly | review the compromise indicator register |
+| Annually | test whether any compartment can infer its neighbours |
+
+The annual inference test is the only check that measures the architecture rather than
+its traffic. A compartment that can guess what the next compartment knows has already
+been oversized, and no per-operation review will show it.
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Office investigating | partial access widened | restrict, Intelligence |
+| Channel forged | impersonation attempt | close channel, alert |
+| Pattern forming | channel reused | rotate, record |
+| Registry appearing | parallel structure | compromise escalation |
+| Full file demanded | authority claimed | refuse, log indicator |
+
+---
+
+## KNOWN LIMITS
+
+The system cannot make a compartment useful and ignorant at the same time in
+every case. Some actions require an office to understand enough to improvise when the
+plan changes, and every such case is a deliberate widening that must be recorded
+as one.
+
+It cannot prevent assembly across systems. Two compartments in different ministries, each correctly sized,
+may still meet in an ordinary committee, and the architecture has no reach into
+ordinary committees.
+
+---
+
+## FAILURE HISTORY
+
+### PARTIAL ACCESS BECOMING PERSONAL INVESTIGATION — STANDING PATTERN
+
+The system fails when partial access becomes personal investigation. An official who knows that
+an exemption exists and is not told why is in the position of every
+other official who has ever been given an unexplained instruction, and some of them
+ask.
+
+### ROUTING CHANNEL COMPROMISED BY FORGERY — STANDING PATTERN
+
+The system fails when a routing channel is compromised by impersonation or documentary forgery.
+The channel's security depends on the receiving office trusting the form of the document,
+and a form that can be copied can be used by anyone who copies
+it.
+
+### LIAISON PATH RECONSTRUCTED FROM REUSE — REVIEW FINDING
+
+Review records the case of a liaison path reused often enough to be reconstructed.
+No single use disclosed anything. The reconstruction came from the sequence, which is why
+reuse is tracked as a count rather than judged per operation.
+
+---
+
+## DIVISION USE
+
+Intelligence Division determines every release and receives the selected threat alerts. Civil Covert reviews
+any disclosure that reaches a civilian-facing office. Command Liaison maintains the regulated contact points.
+Archive holds the minimization log and the compromise register and releases neither.
+
+---
+
+## CROSS-REFERENCES
+
+- GOI-GV-P-001 — Government Anti Anomaly, Group of Interest Registry;
+- TECH-GOI-001-1 — GAA Legal Masking and Task-Bounded Authorization Instrument Set;
+- TECH-GOI-001-2 — GAA Classified Logistics and Surface Documentation Layer;
+- TECH-GOI-001-3 — GAA Civil Continuity Cover Mechanism Set;
+- TECH-GOI-001-5 — GAA Function-Separated Access Point and Authority Boundary Architecture;
+- Intelligence Division government-compromise alert channel [restricted];
+- Disclosure minimization log [restricted].
+
+Neither the Master Catalog nor the Visual Reference Guide carries this system. The Catalog
+numbers assets A.C.T can issue and this system issues only disclosure decisions. The Visual
+Reference Guide describes identifiable hardware; the routing channels are procedural and deliberately leave nothing
+to identify.
+
+---
+
+## OPEN QUESTIONS
+
+- How many state-facing personnel know the GAA by a function but not by its
+  formal name?
+- Could a hostile GOI obtain GAA authority without ever learning the wider Facility structure?
+- Can a compartment be sized so that improvisation remains possible without inference?
+- What detects assembly across ministries that never share a channel?
+- Does recording every demand for a complete picture create its own reconstructable record?
+- Who audits the minimization log without becoming a compartment that knows too much?
+
+---
+
+## FILE METADATA
+
+- **Created:** 2014-05-22
+- **Author Desk:** Intelligence Division / Central Archive
+- **Review Status:** Active restricted GOI technology record; compartment map censored
+- **Next Review:** After any confirmed forgery, any parallel-registry indicator, or any compartment inferred to
+  know its neighbours

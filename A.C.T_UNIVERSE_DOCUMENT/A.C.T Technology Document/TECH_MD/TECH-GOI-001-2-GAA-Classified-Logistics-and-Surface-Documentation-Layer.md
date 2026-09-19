@@ -1,62 +1,285 @@
-# TECH-GOI-001-2 - GAA CLASSIFIED LOGISTICS AND SURFACE DOCUMENTATION LAYER
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - GAA CLASSIFIED LOGISTICS AND SURFACE DOCUMENTATION LAYER
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | TECHNOLOGY DESIGNATION | TECH-GOI-001-2 |
 | TECHNOLOGY NAME | GAA Classified Logistics and Surface Documentation Layer |
-| COMMON ABBREVIATIONS | GAA Logistics Layer / Surface Documentation Set / Protected Route Cover |
-| ORIGIN | Government Anti Anomaly |
-| ACQUISITION STATUS | Cooperative liaison capability exercised under bounded task authorization; routes varied<br>deliberately between operations |
-| PRIMARY A.C.T INTEREST | Transport route protection, records-safe movement, cover plausibility, dependency-risk monitoring |
-| ARCHIVE HANDLING | GOVERNMENT-INTERFACE RESTRICTED / ACTIVE-ROUTE DISCLOSURE LIMIT |
+| SHORT NAME | GLSDL |
+| TECHNOLOGY FAMILY | GOI-DERIVED / TRANSPORT COVER LAYER / ROUTE PATTERN CONTROL |
+| ORIGIN | GOVERNMENT ANTI ANOMALY (GOI-GV-P-001) / LOGISTICS INTERFACE |
+| PRIMARY CONTROLLER | Recovery Division / Intelligence Division joint liaison authority |
+| ATTACHED DIVISIONS | Recovery, Containment, Logistics, Intelligence, Civil Covert, Archive |
+| OPERATIONAL STATUS | ACTIVE / ROUTES VARIED DELIBERATELY BETWEEN OPERATIONS |
+| RISK STATUS | ROUTE PATTERN EXPOSURE / DOCUMENT PERSISTENCE / CHANNEL DEPENDENCY |
+| CLEARANCE REQUIRED | Level 3 for liaison material; Level 4 for route and negotiation records |
 
-## Functional Identity
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted GOI Technology Record |
+| DISTRIBUTION | Recovery / Containment / Logistics / Intelligence / Civil Covert |
+| AUTHORITY | Recovery Division, Intelligence Division, and Central Archive |
 
-The GAA Classified Logistics and Surface Documentation Layer is the movement technology that gives
-an A.C.T transfer a
-lawful-looking path through ordinary authority systems. The dossier assigns the logistics interface support for
-quiet
-movement of personnel, sealed materials, vehicles, evidence, and non-public equipment, including controlled aviation
-routing, records-safe border passage, unlisted storage windows, medical transfer cover, and irregular procurement
-scheduling. A.C.T files this as a GOI-linked technology because a sealed Facility transport can
-fail if stopped by an
-ordinary inspection, and the layer exists to prevent that.
+#### Archive Note
+The Logistics Layer is catalogued because a sealed Facility transport can fail without anything
+anomalous happening to it. A convoy stopped at an ordinary checkpoint, a crate held
+for routine inspection, or a vehicle questioned at a border produces a public record
+and a witness, and neither is contained by any Facility asset aboard.
 
-## Known Structure and Use
+The dossier assigns the logistics interface support for quiet movement of personnel, sealed materials,
+vehicles, evidence, and non-public equipment, including controlled aviation routing, records-safe border passage,
+unlisted storage windows, medical transfer cover, and irregular procurement scheduling. Those are the technical
+basis of this file.
 
-The layer supplies the surface permission and the mundane route protection around a movement;
-it does not manage the
-anomalous load. Where an anomaly requires reality-stabilization support, a protected route, a sealed containment
-team,
-or specialized environmental control, the Facility retains operational command. In one restricted classified logistics
-reconciliation, a controlled transfer required surface documentation, route protection, and a plausible administrative
-record while a separate A.C.T containment team retained direct custody of the load. Post-action
-review found no
-unauthorized retention but noted that repeated reliance on the same liaison path could create
-a recognizable pattern,
-and future transfers were distributed across approved channels.
+The layer supplies surface permission and mundane route protection around a movement. It does
+not manage the anomalous load. Where an anomaly requires reality-stabilization support, a protected route,
+a sealed containment team, or specialized environmental control, the Facility retains operational command and
+the layer remains a covering document.
 
-## A.C.T Handling Rules
+Controlled label: **GAA ACTIVE-ROUTE DISCLOSURE LIMIT**.
 
-GAA logistics must never be treated as a substitute for A.C.T containment transport, and
-neither body is permitted to
-replace the other. Routes are rotated so that cooperation remains veiled, and reuse of
-a single channel is tracked as
-a dependency risk. Government-backed transport and procurement cover is authorized only for the bounded
-task. Any
-unapproved retention of evidence, samples, equipment, or incident footage is a compromise indicator, and
-any attempt
-to retain an anomalous item, sample, or subject as a government asset requires Recovery
-and Containment to reclaim it
-under an appropriate surface explanation.
+Core handling rule:
 
-## Failure and Open Questions
+```text
+THE LAYER PROTECTS THE ROUTE, NEVER THE LOAD. CUSTODY DOES NOT TRANSFER WITH PAPERWORK.
+```
 
-The layer fails when a route pattern becomes recognizable, when documentation outlasts the operation
-it justified, or
-when a receiving office asks why an exemption exists. At what point repeated reliance
-on GAA support creates a
-dependency that weakens A.C.T operational independence is an open intelligence question, and the dossier
-records that
-useful cooperation must be varied enough to remain veiled and limited enough to remain
-survivable.
+---
+
+## FUNCTION SUMMARY
+
+The layer gives an A.C.T transfer a lawful-looking path through ordinary authority systems. Its
+product is not movement but permission: an aviation routing that no desk questions, a
+border passage whose paperwork is complete, a storage window that does not appear on
+a public schedule.
+
+Because the product is permission, the failure mode is administrative rather than physical. The
+load arrives or it does not, and the layer has no bearing on that.
+What the layer determines is whether the journey leaves a trace that can be
+followed afterwards.
+
+Route variation is a designed property rather than good practice. Reuse of a single
+channel is tracked as a dependency risk, because a pattern that repeats becomes recognizable
+to anyone keeping records, and government systems keep records.
+
+---
+
+## ORIGIN AND CUSTODY
+
+The layer is exercised under bounded task authorization with routes varied deliberately between operations.
+It sits within the same separated liaison architecture as the other GAA interfaces, and
+no logistics cell is recognized as holding universal Facility access.
+
+Custody of any load remains with A.C.T throughout. The layer may supply documentation, routing,
+and cover scheduling; it may not take possession. Any unapproved retention of evidence, samples,
+equipment, or incident footage is a compromise indicator.
+
+Where a government body attempts to retain an anomalous item, sample, or subject as
+a state asset, Recovery and Containment reclaim it under an appropriate surface explanation. The
+reclamation is performed by Facility personnel for exactly this reason.
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+Known components include:
+
+- controlled aviation routing;
+- records-safe border passage documentation;
+- unlisted storage window scheduling;
+- medical transfer cover set;
+- irregular procurement scheduling;
+- route rotation register;
+- channel dependency tracker;
+- load custody receipt;
+- surface explanation file;
+- post-action reconciliation record.
+
+The rotation register and the dependency tracker are the two components that describe the
+layer rather than any single movement. A layer with no register is a set
+of favours, and favours accumulate.
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Figures are restated from the GOI-GV-P-001 dossier and from post-action reconciliation records. Values the
+archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+| LOGISTICS PARAMETER | VALUE |
+|---|---|
+| Cover classes | aviation, border, storage, medical, procurement |
+| Custody rule | load custody never transfers |
+| Route rule | varied deliberately between operations |
+| Channel reuse | tracked as dependency risk |
+| Retention rule | any retention is a compromise indicator |
+| Command rule | Facility retains operational command |
+| Transfers covered | NOT MEASURED |
+| Channels in rotation | NOT MEASURED |
+| Median route reuse | NOT MEASURED |
+| Retention incidents | NOT MEASURED |
+
+Route reuse is the measurement that matters and the one the archive does not
+hold. A layer whose reuse interval is unmeasured cannot show whether it is being
+varied or merely believed to be.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Layer Controls
+
+- controlled aviation routing
+- records-safe border passage set
+- unlisted storage window schedule
+- medical transfer cover set
+
+### Layer Readouts
+
+- route rotation register
+- channel dependency tracker
+- load custody receipt
+- post-action reconciliation record
+
+### Layer Limits And Weaknesses
+
+- Do not treat the layer as a substitute for containment transport.
+- Do not hand custody of a load to a government escort.
+- Do not reuse a channel without recording the reuse.
+- Do not let documentation outlast the operation it justified.
+- Weakest against receiving offices that ask why an exemption exists.
+- Weakest against a route repeated often enough to be charted.
+
+Transfer counts, channel counts, and reuse medians are NOT MEASURED.
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence separates the covering document from the load at every step, so that
+a failure in the layer cannot become a failure of custody.
+
+1. Define the movement and its containment requirement first.
+2. Select a cover class matching what a receiving office expects.
+3. Check the rotation register before naming a channel.
+4. Issue documentation for the bounded task only.
+5. Move the load under A.C.T custody throughout.
+6. Record any retention attempt as a compromise indicator.
+7. Reconcile the movement against its documentation afterwards.
+8. Close or expire every document issued for the transfer.
+
+Step 3 precedes step 4 for a reason that is easy to lose when
+a transfer is urgent. A channel selected because it is available rather than because
+it is unpatterned produces documentation that is correct and a route that is not,
+and the second is the one that gets noticed.
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per transfer | check the rotation register before naming a channel |
+| Per operation | reconcile documentation against the movement |
+| Monthly | review channel reuse counts |
+| Quarterly | expire documentation left open by closed operations |
+| Annually | assess whether dependence on the layer has grown |
+
+The annual assessment is the honest one. Cooperation that is varied enough to remain
+veiled and limited enough to remain survivable can still grow into dependence without any
+single transfer looking excessive.
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Convoy questioned | documentation incomplete | supply cover, brief |
+| Route recognized | channel reused | rotate, record risk |
+| Item retained | custody not asserted | Recovery reclaim |
+| Paper persists | expiry not confirmed | expire, notify |
+| Exemption queried | cover class mismatched | re-select, re-issue |
+
+---
+
+## KNOWN LIMITS
+
+The layer cannot conceal a movement whose physical footprint exceeds ordinary logistics. A convoy
+requiring environmental control, armed escort, or road closure is visible regardless of paperwork, and
+the layer's value falls toward zero as the load's requirements rise.
+
+It cannot operate where no ordinary authority exists to grant the permission. In jurisdictions
+without a cooperative interface, the Facility moves without cover or does not move.
+
+---
+
+## FAILURE HISTORY
+
+### CLASSIFIED LOGISTICS RECONCILIATION — NO RETENTION, PATTERN NOTED
+
+In one restricted reconciliation, a controlled transfer required surface documentation, route protection, and a
+plausible administrative record while a separate A.C.T containment team retained direct custody of the
+load. Post-action review found no unauthorized retention.
+
+### REPEATED LIAISON PATH — DISTRIBUTION ORDERED
+
+The same review noted that repeated reliance on a single liaison path could create
+a recognizable pattern, and future transfers were distributed across approved channels. The finding is
+recorded because nothing had gone wrong yet; the correction was made against a pattern
+rather than an incident.
+
+### DOCUMENTATION OUTLASTING THE OPERATION — STANDING PATTERN
+
+The layer fails when a route pattern becomes recognizable and when documentation outlasts the
+operation that justified it. Both are quiet failures. A document that remains valid after
+its purpose ends is still a document, and someone may act on it.
+
+---
+
+## DIVISION USE
+
+Recovery Division asserts and holds load custody. Containment specifies the movement requirement. Logistics selects
+and rotates channels. Intelligence reviews dependency risk and receives retention alerts. Civil Covert reviews
+any surface explanation that reaches a civilian office. Archive holds the reconciliation record.
+
+---
+
+## CROSS-REFERENCES
+
+- GOI-GV-P-001 — Government Anti Anomaly, Group of Interest Registry;
+- TECH-GOI-001-1 — GAA Legal Masking and Task-Bounded Authorization Instrument Set;
+- TECH-GOI-001-3 — GAA Civil Continuity Cover Mechanism Set;
+- TECH-GOI-001-4 — GAA Compartmented Awareness and Secure Document-Routing Channel System;
+- TECH-GOI-001-5 — GAA Function-Separated Access Point and Authority Boundary Architecture;
+- Recovery Division load custody receipt series [restricted];
+- Logistics channel rotation register [restricted].
+
+Neither the Master Catalog nor the Visual Reference Guide carries this layer. The Catalog
+numbers assets A.C.T issues; the layer issues nothing. The Visual Reference Guide describes identifiable
+hardware; the layer's components are documents.
+
+---
+
+## OPEN QUESTIONS
+
+- At what point does repeated reliance on GAA support create a dependency that weakens
+  A.C.T operational independence?
+- How much route variation is enough to prevent pattern reconstruction?
+- Can a receiving office be given a complete explanation without being given the reason?
+- Who expires a document when the operation that justified it is itself sealed?
+- Does a reconciliation that always finds nothing indicate good control or weak checks?
+- What does the layer do when no ordinary authority is willing to grant the
+  permission?
+
+---
+
+## FILE METADATA
+
+- **Created:** 2012-07-03
+- **Author Desk:** Recovery Division / Intelligence Division / Central Archive
+- **Review Status:** Active restricted GOI technology record; active route identities censored
+- **Next Review:** After any retention incident, any confirmed route recognition, or any change in
+  channel availability

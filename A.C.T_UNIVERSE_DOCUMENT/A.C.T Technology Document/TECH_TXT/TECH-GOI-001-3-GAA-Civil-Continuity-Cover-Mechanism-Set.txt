@@ -1,4 +1,5 @@
-TECH-GOI-001-3 - GAA CIVIL CONTINUITY COVER MECHANISM SET
+A.C.T FACILITY ARCHIVE FILE
+TECHNOLOGY RECORD - GAA CIVIL CONTINUITY COVER MECHANISM SET
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -7,68 +8,307 @@ TECH-GOI-001-3 - GAA CIVIL CONTINUITY COVER MECHANISM SET
 +----------------------------+---------------------------------------------------------------------------------------+
 | TECHNOLOGY NAME            | GAA Civil Continuity Cover Mechanism Set                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Continuity Cover Set / Civil Explanation Layer / GAA Aftermath Cover                  |
+| SHORT NAME                 | GCCMS                                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ORIGIN                     | Government Anti Anomaly                                                               |
+| TECHNOLOGY FAMILY          | GOI-DERIVED / CIVIL EXPLANATION LAYER / AFTERMATH ABSORPTION                          |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ACQUISITION STATUS         | Cooperative liaison capability exercised under bounded task authorization; measures   |
-|                            | reviewed against containment need                                                     |
+| ORIGIN                     | GOVERNMENT ANTI ANOMALY (GOI-GV-P-001) / CIVIL CONTINUITY INTERFACE                   |
 +----------------------------+---------------------------------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Public normalcy preservation, aftermath explanation control, witness-chain            |
-|                            | prevention, proportionality review                                                    |
+| PRIMARY CONTROLLER         | Civil Covert Division / Intelligence Division joint liaison authority                 |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ARCHIVE HANDLING           | GOVERNMENT-INTERFACE RESTRICTED / CIVIL COVERT AND ARCHIVE REVIEW REQUIRED            |
+| ATTACHED DIVISIONS         | Civil Covert, Intelligence, Recovery, Medical, Archive, Site Command                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| OPERATIONAL STATUS         | ACTIVE / MEASURES REVIEWED AGAINST CONTAINMENT NEED                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| RISK STATUS                | PERMANENT CONSEQUENCE FROM TEMPORARY MEASURE / EXPLANATION FAILURE                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for liaison material; Level 4 for continuity measure review                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Functional Identity
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted GOI Technology Record                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Civil Covert / Intelligence / Recovery / Medical / Site Command                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Civil Covert Division, Intelligence Division, and Central Archive                     |
++----------------------------+---------------------------------------------------------------------------------------+
 
-The GAA Civil Continuity Cover Mechanism Set is the explanatory technology that prepares conventional
-systems to
-absorb the visible consequences of an anomalous event. The dossier assigns the civil continuity
-interface coordination
-of a plausible road closure, utility interruption, evacuation notice, inspection order, hospital intake category,
-disaster-recovery notice, or infrastructure repair explanation, with the stated purpose of stopping an anomalous
-incident from becoming a lasting contradiction in ordinary life. A.C.T files this as a
-GOI-linked technology because
-the Facility cannot always keep an ordinary government response from turning toward the wrong
-explanation.
+Archive Note
+The Civil Continuity Cover Set is catalogued because the Facility cannot always keep an
+ordinary government response from turning toward the wrong explanation. An anomalous event leaves physical
+consequences, and those consequences are handled by responders, inspectors, hospitals, and records offices that
+will produce an account whether or not one is supplied to them.
 
-Known Structure and Use
+The dossier assigns the civil continuity interface coordination of a plausible road closure, utility
+interruption, evacuation notice, inspection order, hospital intake category, disaster-recovery notice, or
+infrastructure repair explanation. The stated purpose is to stop an anomalous incident from becoming
+a lasting contradiction in ordinary life.
+
+The mechanisms are deliberately mundane and are selected according to what a receiving office
+expects to see. That is why the set draws on pre-existing emergency, security, health,
+infrastructure, legal, and continuity structures rather than on a distinct anomaly office, and why
+no stable public identity, emblem, address, or unified formal name is assigned to the
+body that operates it.
+
+Controlled label: **GAA CIVIL-CONTINUITY PROPORTIONALITY LIMIT**.
+
+Core handling rule:
+
+GIVE THE EVENT AN ORDINARY SHAPE BEFORE THE WITNESSES GIVE IT ONE, AND NOTHING
+LARGER.
+
+
+FUNCTION SUMMARY
 
 The set works by giving an event an ordinary administrative shape before witnesses, responders,
-or records supply one.
-A recovery team can expose itself if no one can lawfully explain a perimeter,
-and an intelligence lead can disappear
-if every government record route is hostile or visible. The mechanisms are deliberately mundane
-and are selected
-according to what a receiving office expects to see, which is why the set
-draws on pre-existing emergency, security,
-health, infrastructure, legal, and continuity structures rather than on a distinct anomaly office. No
-stable public
-identity, emblem, address, or unified formal name is assigned to the body that operates
-it.
+or records supply one. A recovery team can expose itself if nobody can lawfully
+explain a perimeter. An intelligence lead can disappear if every government record route is
+hostile or visible.
 
-A.C.T Handling Rules
+The set is therefore preventive rather than corrective. Once an explanation exists in a
+public record it cannot be withdrawn without drawing attention to the withdrawal, so the
+only usable moment is before the first responder writes a report.
 
-This office is tightly constrained. Civil continuity measures must not become an excuse to
-erase people from their own
-lives, seize civilian property without operational necessity, or convert a localized event into permanent
-political
-control. When a proposed measure threatens to exceed ordinary containment need, A.C.T Civil Covert
-and Archive review
-are required. Where cover continuity cannot be maintained, the GAA does not decide concealment
-policy alone; it
-submits the exposure condition to A.C.T Intelligence, Civil Covert, and the responsible Site command
-body. The GAA may
-supply the legal or administrative mechanism, but it does not own the reality being
-concealed.
+Proportionality is the governing constraint. A measure sized to the visible consequence is absorbed
+by ordinary life. A measure sized to the actual event is not, because the
+actual event is larger than anything the receiving office can file.
 
-Failure and Open Questions
 
-The set fails when an explanation cannot absorb the physical evidence, when a closure
-persists past the event that
-justified it, or when a continuity measure produces a second crisis while the government
-body defends itself. A
-government body can create permanent consequences from an emergency mechanism intended to last one
-night, and A.C.T
-treats that asymmetry as the set's central hazard rather than as an occasional abuse.
+ORIGIN AND CUSTODY
+
+The set is exercised under bounded task authorization, with each measure reviewed against containment
+need before issue. Civil Covert Division and Archive review are required whenever a proposed
+measure threatens to exceed ordinary containment need.
+
+Where cover continuity cannot be maintained, the GAA does not decide concealment policy alone.
+It submits the exposure condition to A.C.T Intelligence, Civil Covert, and the responsible Site
+command body. The GAA may supply the legal or administrative mechanism. It does not
+own the reality being concealed.
+
+The constraint is stated in the handling record and enforced at review: civil continuity
+measures must not become an excuse to erase people from their own lives, seize
+civilian property without operational necessity, or convert a localized event into permanent political control.
+
+
+PHYSICAL OR SYSTEM DESCRIPTION
+
+Known components include:
+
+- road closure coordination;
+- utility interruption explanation;
+- evacuation notice mechanism;
+- inspection order instrument;
+- hospital intake category cover;
+- disaster-recovery notice set;
+- infrastructure repair explanation;
+- proportionality review record;
+- exposure submission channel;
+- aftermath absorption ledger.
+
+The proportionality review record and the exposure submission channel are the components that carry
+the constraint. Without them the set is indistinguishable from an ordinary emergency authority with
+unusual reach.
+
+
+TECHNICAL SPECIFICATION
+
+Figures are restated from the GOI-GV-P-001 dossier and from Civil Covert proportionality reviews. Values
+the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| CONTINUITY PARAMETER       | VALUE                                                                                 |
++============================+=======================================================================================+
+| Mechanism classes          | seven                                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Selection rule             | what a receiving office expects                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Sizing rule                | match visible consequence, not actual event                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Review trigger             | measure exceeds containment need                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Reviewing bodies           | Civil Covert and Archive                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Policy rule                | GAA supplies mechanism, not concealment policy                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Measures issued            | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Median measure life        | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Proportionality reductions | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Exposure submissions       | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Median measure life is the unmeasured figure that carries the most risk. An emergency
+mechanism intended to last one night produces permanent consequences if nobody confirms that it
+ended.
+
+
+INTERFACE AND OPERATING ENVELOPE
+
+Continuity Controls
+
+- road closure coordination
+- utility interruption explanation
+- evacuation notice mechanism
+- hospital intake category cover
+
+Continuity Readouts
+
+- proportionality review record
+- exposure submission channel log
+- aftermath absorption ledger
+- disaster-recovery notice status
+
+Continuity Limits And Weaknesses
+
+- Do not size a measure to the actual event.
+- Do not erase a person from their own records to close a gap.
+- Do not seize civilian property without operational necessity.
+- Do not let a localized measure become a standing control.
+- Weakest against physical evidence an explanation cannot absorb.
+- Weakest against measures that outlive the night they were written for.
+
+Measure counts, median life, and reduction counts are NOT MEASURED.
+
+
+OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+The sequence places the sizing decision before the mechanism choice, because a correctly sized
+measure can be delivered through several mechanisms while an oversized one cannot be rescued
+by any of them.
+
+1. Establish what a bystander can actually observe.
+2. Size the measure to that observation and no larger.
+3. Select the mechanism a receiving office expects.
+4. Submit for Civil Covert and Archive proportionality review.
+5. Issue before the first responder files a report.
+6. Record the measure in the aftermath absorption ledger.
+7. Submit any exposure condition rather than deciding it locally.
+8. Confirm the measure has ended and record the ending.
+
+Step 8 is the asymmetry the whole record turns on. A government body can
+create permanent consequences from an emergency mechanism intended to last one night, and the
+only control against that is a confirmation that the mechanism stopped.
+
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Per measure                | size against observable consequence before issue                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Per event                  | confirm the measure has ended                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | review the aftermath absorption ledger                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | review proportionality reductions                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Annually                   | re-read the constraint against current practice                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The annual re-reading is required because the constraint is stated in negative terms. A
+review that asks only whether measures were issued cannot detect a measure that was
+correctly issued and then quietly kept.
+
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Explanation rejected       | evidence not absorbable                   | revise, brief responders                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Closure persists           | ending not confirmed                      | end measure, record                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Second crisis              | measure oversized                         | reduce, Civil Covert                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Property seized            | necessity not shown                       | return, review                            |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Policy disputed            | GAA deciding alone                        | submit exposure condition                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+
+KNOWN LIMITS
+
+The set cannot absorb physical evidence that no ordinary category explains. A structure altered
+in a way no inspector can classify, or a casualty pattern no hospital intake
+form accommodates, produces a contradiction regardless of the notice issued around it.
+
+It cannot reverse a measure already in force. Once an evacuation is filed, a
+building is condemned, or a road is closed on a public record, the entry
+remains, and the only available correction is a second ordinary explanation layered over the
+first.
+
+
+FAILURE HISTORY
+
+EXPLANATION UNABLE TO ABSORB EVIDENCE — STANDING PATTERN
+
+The set fails when an explanation cannot absorb the physical evidence it was written
+around. Review treats this as the most common failure, because the sizing decision is
+made early, under time pressure, and on the basis of what is visible at
+that moment rather than what will be visible by morning.
+
+CLOSURE PERSISTING PAST ITS EVENT — STANDING PATTERN
+
+The set fails when a closure persists past the event that justified it. Nothing
+in an ordinary administrative system removes a restriction automatically, so a closure with no
+recorded ending simply continues, and continues to be explained by an event that no
+longer exists.
+
+CONTINUITY MEASURE PRODUCING A SECOND CRISIS — REVIEW FINDING
+
+Review records the case of a continuity measure producing a second crisis while the
+government body defends itself. A.C.T treats that asymmetry as the set's central hazard rather
+than as an occasional abuse: the mechanism is durable, the event is not, and
+the mechanism always outlives the reason for it.
+
+
+DIVISION USE
+
+Civil Covert Division sizes and reviews every measure and holds the proportionality record. Intelligence
+Division receives exposure submissions and coordinates with Site command. Recovery reports what is physically
+observable at the scene. Medical supplies intake-category requirements. Archive holds the aftermath absorption ledger.
+
+
+CROSS-REFERENCES
+
+- GOI-GV-P-001 — Government Anti Anomaly, Group of Interest Registry;
+- TECH-GOI-001-1 — GAA Legal Masking and Task-Bounded Authorization Instrument Set;
+- TECH-GOI-001-2 — GAA Classified Logistics and Surface Documentation Layer;
+- TECH-GOI-001-4 — GAA Compartmented Awareness and Secure Document-Routing Channel System;
+- TECH-GOI-001-5 — GAA Function-Separated Access Point and Authority Boundary Architecture;
+- Civil Covert proportionality review record [restricted];
+- Aftermath absorption ledger [restricted].
+
+Neither the Master Catalog nor the Visual Reference Guide carries this set. The Catalog
+numbers issuable assets and this set issues nothing a Facility officer can carry. The
+Visual Reference Guide describes hardware, and the components here are notices, orders, and intake
+categories.
+
+
+OPEN QUESTIONS
+
+- Who confirms that a continuity measure has ended when the event it covered is
+sealed?
+- Can an explanation be written small enough to be believed and large enough to
+absorb the evidence?
+- Does a second explanatory layer weaken the first or draw attention to it?
+- What obligation survives toward people whose records were altered around them?
+- Can proportionality be judged before the physical consequence is fully visible?
+- Does a ledger that shows no reductions indicate good sizing or absent review?
+
+
+FILE METADATA
+
+- **Created:** 2013-11-08
+- **Author Desk:** Civil Covert Division / Intelligence Division / Central Archive
+- **Review Status:** Active restricted GOI technology record; measure identities censored
+- **Next Review:** After any measure persisting past its event, any failed explanation, or any
+proportionality dispute
