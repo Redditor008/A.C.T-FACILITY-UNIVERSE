@@ -4845,3 +4845,93 @@ still hold glued separator lines in their markdown OPEN QUESTIONS blocks.
 Next action.
 
 Rebuild the TECH-GOI-052 set.
+
+## Prompt Log — 2026-09-20 13:57 UTC
+
+TECH-GOI-052, Amazoo Circus, rebuilt.
+
+The five records move from four-chapter summaries of 490 to 537 words each to full dossiers of 2174
+to 2286 words across 14 chapters, on the house shape used for GOI-001, GOI-014, GOI-027, GOI-048,
+GOI-049, GOI-050, and GOI-051. Every fact in the old records survives: the reinforced iron cage
+recovered during Operation BIG TOP, the audience-conditioning environment, the emotional-siphoning
+act centred on AFD-SU-507, the act-naming and command-phrase system, the fairground route, the
+escalation phrases, and the red lines against audience simulations, forced singing, and using the
+subject as bait.
+
+The set is written around one finding: the Circus's technology is what it made people conclude.
+
+GOI-HY-X-052 was EXPOSURE-ACTIVE, so none of this material hid anything. It relied on civilians
+seeing the wrong thing, which means the operative mechanism in four of the five records is
+interpretation rather than force. Records are bounded by what the scene and the testimony support,
+unheld values are marked NOT MEASURED, and the dossier's refusal to simplify the record is carried
+through rather than tidied away.
+
+Each record carries its own argument, and no two share a thesis.
+
+The cage record holds that the cage's real output is not custody but interpretation, that a
+component which held a named performer carries the naming with it, and that an unresolved
+fabrication source means interdicting one cage says nothing about the availability of the next. The
+environment record holds that the crowd is a component rather than a bystander, so removing an
+audience dismantles more of the system than removing a cage does, and that a mundane component list
+is not evidence of a mundane system.
+
+The remaining three records argue their own cases.
+
+The siphon record holds that the frame's productive state is distress, so the performance did not
+end when the performer suffered, and that the measurement and the harm are the same act, which is
+why the yield stays NOT MEASURED by design while the audience stays the cheapest interruption point
+in the set. The naming record holds that a name is a restraint when a cage, a crowd, hunger, and
+abandonment reinforce it, and that the Facility's own failure mode is preserving the abuser's name
+more faithfully than the survivor's chosen one, because the abuser's name is the one that appears in
+evidence.
+
+The route record treats mobility as containment infrastructure.
+
+A fixed prison can be mapped once; a moving circus turns cages, wagons, tents, tickets, animal
+papers, and audience rumour into custody that changes shape every season. Public erasure is filed as
+an information action rather than as dismantlement, the seized fairground is a node rather than a
+headquarters, and every statement about the organisation's size is a floor rather than an estimate.
+The concealment question stays open because memory distortion and carnival ambiguity predict the
+same witness pattern, so testimony cannot select between them.
+
+The local builder and checker were re-authored from scratch this turn.
+
+The working directory had been reset again to the base commit, so nothing in the scratch folder
+survived. The tree was recovered by byte-comparing FETCH_HEAD and resetting to it, and the builder
+was rewritten carrying both fixes from the previous set: the plain-text box wrapper flushing its
+final line, and the 118-character guard running per physical line rather than per paragraph.
+
+The census walker was carried over in its corrected form.
+
+An empty first column on a box continuation line means column two wrapped, which is harmless; the
+signature of a first-column wrap is a continuation line carrying text in column one. Run over the
+eight rebuilt sets the census returns 200 tables and 1518 rows, being 200 header rows and 1318 body
+rows, with 0 first-column wraps.
+
+Verification.
+
+Each record was checked for chapter count and order, a single H1, one archive note, exactly eight H3
+sections including one Numbered Operating Sequence with eight steps, fourteen chapter separators,
+exactly five tables matched by five plain-text boxes, a single fenced handling rule, no markdown
+artefacts carried into the twin, every heading present as a bare line in the twin, every table cell
+present in the twin once box columns are rejoined, box rules exactly 118 wide, no O5 reference,
+correct cross-reference designations, generated dates inside the 1598 to 2026 archive cycle and
+identical in both twins, and a single trailing newline.
+
+Validation.
+
+DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, CONFLICT 0, multiH1 0, odd-fence 0, md-
+with-box 0, glued separator lines 0, placeholders 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204,
+GOI_MD 34 = GOI_TXT 34, widest box line 118, date-rule violations 0, twin date mismatches 0,
+truncated registry cells 0 across 7495 shared-label rows, gated records 177 with 0 missing sections,
+git diff --check rc=0.
+
+Remaining GOI technology backlog.
+
+Two stub sets remain on the old four-chapter shape, five records each: 053 and 055. Separately, the
+full dossiers that do not yet carry the retrofit chapters are GOI sets 054, 056, and 071, which
+still hold glued separator lines in their markdown OPEN QUESTIONS blocks.
+
+Next action.
+
+Rebuild the TECH-GOI-053 set.

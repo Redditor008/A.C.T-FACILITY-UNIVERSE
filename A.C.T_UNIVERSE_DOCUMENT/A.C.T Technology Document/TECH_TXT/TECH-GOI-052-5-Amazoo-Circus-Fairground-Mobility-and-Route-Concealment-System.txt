@@ -1,4 +1,5 @@
-TECH-GOI-052-5 - AMAZOO CIRCUS FAIRGROUND MOBILITY AND ROUTE CONCEALMENT SYSTEM
+A.C.T FACILITY ARCHIVE FILE
+TECHNOLOGY RECORD - AMAZOO CIRCUS FAIRGROUND MOBILITY AND ROUTE CONCEALMENT SYSTEM
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -7,71 +8,345 @@ TECH-GOI-052-5 - AMAZOO CIRCUS FAIRGROUND MOBILITY AND ROUTE CONCEALMENT SYSTEM
 +----------------------------+---------------------------------------------------------------------------------------+
 | TECHNOLOGY NAME            | Amazoo Circus Fairground Mobility and Route Concealment System                        |
 +----------------------------+---------------------------------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | FMRC / Traveling Route System / Amazoo Route Cover                                    |
+| SHORT NAME                 | AZFMR                                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ORIGIN                     | Amazoo Circus                                                                         |
+| TECHNOLOGY FAMILY          | ACQUIRED HOSTILE / MOBILE CUSTODY INFRASTRUCTURE / ROUTE CONCEALMENT                  |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ACQUISITION STATUS         | Operation BIG TOP route reconstruction and seized fairground evidence                 |
+| ORIGIN                     | AMAZOO CIRCUS (GOI-HY-X-052) / TRAVELING FAIRGROUND ROUTES, POLAND                    |
 +----------------------------+---------------------------------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | POI-0507 pursuit, missing performer tracing, cage inventory recovery, rebuilt-circus  |
-|                            | detection                                                                             |
+| PRIMARY CONTROLLER         | Intelligence Division with Regional Command                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ARCHIVE HANDLING           | AMAZOO ROUTE RESTRICTED / INTELLIGENCE AND REGIONAL COMMAND                           |
+| ATTACHED DIVISIONS         | Intelligence, Regional Command, Tactical Containment, Subject Care, Logistics,        |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| OPERATIONAL STATUS         | ONE FAIRGROUND SEIZED / NO HEADQUARTERS RECOVERED, ROUTE OPEN                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| RISK STATUS                | ERASURE READ AS DISMANTLEMENT / MISSING ACTS / POI-0507 AT LARGE                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for route material; Level 4 for POI-0507 pursuit                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Functional Identity
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Route-Reconstruction Technology Record                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Intelligence / Regional Command / Tactical Containment / Subject Care / Archive       |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Intelligence Division and Regional Command, Subject Care consultation                 |
++----------------------------+---------------------------------------------------------------------------------------+
 
-The Amazoo Circus Fairground Mobility and Route Concealment System is the traveling infrastructure that
-allowed Amazoo
-Circus to acquire, move, display, sell, discard, and disappear anomalous performers under seasonal performance
-cover.
-The GOI dossier identifies traveling fairground routes in and around Poland, possible livestock roads,
-seasonal
-carnivals, closed zoos, itinerant troupes, illegal animal transport, and myths about a circus that
-arrives after
-sunset and leaves without tire tracks. It also warns that public erasure did not
-equal organizational destruction.
+Archive Note
+This record covers the travelling infrastructure that let Amazoo Circus acquire, move, display, sell,
+discard, and lose anomalous performers under seasonal performance cover. The dossier identifies travelling
+fairground routes in and around Poland, possible livestock roads, seasonal carnivals, closed zoos, itinerant
+troupes, illegal animal transport, and local myths about a circus that arrives after sunset
+and leaves without tyre tracks. A.C.T seized one fairground scene during Operation BIG TOP
+and did not recover a headquarters.
 
-A.C.T files this as technology because mobility was not incidental. The route was part
-of the containment and
-trafficking method. A fixed prison can be mapped. A moving circus can turn cages,
-wagons, tents, tickets, animal
-papers, storage crates, and audience rumors into a shifting custody system.
+Mobility is filed as containment infrastructure rather than as logistics. A fixed prison can
+be mapped once and watched; a moving circus turns cages, wagons, tents, tickets, animal
+papers, storage crates, and audience rumour into a custody system that changes shape every
+season. The route is therefore not how the Circus travelled. It is how the
+Circus held people, and that difference is what makes the missing performers hard to
+find.
 
-Known Components
+It also produces the record's central warning. Public erasure is not dismantlement. A burned
+tent, an abandoned cage, or a dead animal does not prove that Grand Master
+Amazoo is gone, and the seized fairground may have been a working node, a
+discard site, or an endpoint prepared to absorb a raid. The concealment method is
+unresolved as well: collective memory distortion and the ordinary ambiguity of carnival movement produce
+the same witness pattern, so the pattern cannot select between them.
 
-Confirmed or indicated components include fairground mobility infrastructure, tents, wagons, cages, posters, ticket
-records, animal collars, curtain stock, route brokers, animal-transport contacts, fairground owners, costume
-suppliers, cage fabricators, and public-facing show material. Some parts are ordinary. Their arrangement is
-not. The
-system let Amazoo enter communities as entertainment, leave before scrutiny settled, and make missing
-performers look
-like seasonal labor, escaped animals, runaway children, or folklore.
+Controlled label: **AMAZOO ERASURE-IS-NOT-DISMANTLEMENT RULE**.
+
+Core handling rule:
+
+PUBLIC ERASURE IS AN INFORMATION ACTION, NOT PROOF OF DESTRUCTION.
+NO SEIZED FAIRGROUND IS FILED AS HEADQUARTERS WITHOUT SEPARATE EVIDENCE.
+
+
+FUNCTION SUMMARY
+
+The system let the Circus enter a community as entertainment and leave before scrutiny
+settled. Tents, wagons, cages, posters, tickets, animal papers, and crates are individually ordinary, and
+their arrangement is not: it allows acquisition, transport, display, sale, discard, and disappearance to
+happen inside one seasonal movement that no single authority is responsible for watching.
+
+A.C.T files that as technology because it is the part of the Circus that
+worked. The performance environment needed a crowd, the siphon frame needed a performer, and
+the naming system needed both to be in the same place on the same
+night. Only the route put them there repeatedly, and only the route could remove
+them before anyone counted.
+
+The record's practical output is a standing refusal to close. The route is treated
+as open until a node count exists, the seized fairground is filed as a
+node rather than as a headquarters, and every statement about the size of the
+organisation is a floor rather than an estimate.
+
+
+
+ORIGIN AND CUSTODY
+
+Material comes from Operation BIG TOP route reconstruction and the seized fairground scene. The
+confirmed discovery location was a travelling fairground in Poland with the exact position redacted,
+and the full route is unknown: the Circus may have crossed regional borders before
+detection, or it may have existed only as a short-lived Polish route using imported
+captives and temporary audiences.
+
+Custody sits with the Intelligence Division and Regional Command under Site-Sub-[REDACTED]-PL-C, with Tactical
+Containment supporting raids on suspected route remnants and Subject Care consulted on anything that
+would put a survivor near Amazoo geography. Pursuit of POI-0507 is held at Level
+4.
+
+AFD-SU-507 is not used as bait for route reconstruction. Survivor memory may inform which
+questions are safe to ask a witness, but pursuit cannot depend on returning the
+subject to the geography she was recovered from.
+
+
+
+PHYSICAL OR SYSTEM DESCRIPTION
+
+The system is described by what it required to keep moving:
+
+- fairground leases and seasonal sites;
+- tents, wagons, and storage crates;
+- transportable cages and animal collars;
+- posters, tickets, and paper advertising;
+- route brokers and fairground fixers;
+- animal-transport contacts;
+- costume and cage fabricator supply;
+- fuel and livestock road usage;
+- audience rumour as route cover;
+- memory distortion, unresolved.
+
+Most of that list is ordinary commerce, which is the point. The system is
+the arrangement that lets a missing performer look like seasonal labour, an escaped animal,
+a runaway child, or a piece of local folklore, and every one of those
+readings is available from paperwork that is legal on its face.
+
+
+
+TECHNICAL SPECIFICATION
+
+Values are restated from the GOI-HY-X-052 dossier and the Operation BIG TOP scene record.
+Nothing here is derived from survivor coercion, and no route was traced by exposing
+a survivor to it.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| ROUTE PARAMETER            | VALUE                                                                                 |
++============================+=======================================================================================+
+| Scenes seized              | one fairground, August 2021                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Headquarters recovered     | none                                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Route span                 | regional, Poland and unresolved                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Nodes identified           | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Missing performers         | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cage inventory             | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Animal records             | two young lions, unresolved                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Ticket and money trail     | not recovered                                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Memory distortion          | unresolved, may be ambiguity                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| POI-0507 status            | uncaptured                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The four NOT MEASURED rows are the record's honest accounting of what the raid
+did not recover. They are held open deliberately, because the alternative is to convert
+an absence of evidence into an assumption of smallness, and that assumption is what
+would let a rebuilt Circus be missed a second time.
+
+
+
+INTERFACE AND OPERATING ENVELOPE
+
+Route Evidence Controls
+
+- cross-file with missing-person and animal-transport records
+- poster, ticket, and lease fragments retained
+- amnestic-resistant witness statements prioritised
+- no survivor used as bait for reconstruction
+
+Route Readouts
+
+- node candidates identified per season
+- supply traces per component class
+- missing-act identifications
+- rebuilt-attraction indicators in the field
+
+Handling Limits And Weaknesses
+
+- Do not file a seized fairground as headquarters on its own.
+- Do not use AFD-SU-507 as bait for route reconstruction.
+- Do not read public erasure as evidence of destruction.
+- Do not classify escaped performers as hostile by default.
+- Weakest where witness agreement on the show is read as agreement on fact.
+- Weakest where a route is assumed to end at the seized node.
+
+Node counts, missing-act identifications, and inventory values are NOT MEASURED and are tracked per
+season.
+
+
+
+OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+The sequence applies at any Amazoo-linked scene and in the weeks that follow it,
+when the paperwork is still obtainable. It records the site as one point on
+a route rather than as the route, which is the distinction the whole record
+turns on.
+
+1. Record the site as a node, not as a headquarters.
+2. Photograph and retain posters, tickets, and lease paper.
+3. Cross-file the date and location against missing-person records.
+4. Cross-file against animal-transport and livestock movement logs.
+5. Identify witnesses whose memory resisted amnestic smoothing.
+6. Log supply traces for cages, costumes, and fuel.
+7. Refer survivor memory questions to Subject Care.
+8. Report the route as open until a node count exists.
+
+Step 8 is the discipline. A route report that closes on the seized fairground
+tells the next team to stop looking, and the most dangerous residue of Operation
+BIG TOP is the assumption that the scene A.C.T reached was the scene that
+mattered.
+
+
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Per scene                  | retain paper, log the node                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Per season                 | cross-file against missing-person records                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | review rebuilt-attraction indicators                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | reconcile supply traces across nodes                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Annually                   | re-check the erasure-is-not-dismantlement notice                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The annual notice check guards against institutional drift rather than against evidence. A closed
+file reads as a finished case to everyone who was not present when it
+was opened, and the erasure is visible, complete, and dated, which is exactly what
+a closure decision looks for.
+
+
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Headquarters assumed       | scene salience                            | downgrade to node                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Witness conflict           | distortion or ambiguity                   | log both, do not resolve                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Performer missing          | route custody                             | cross-file, Regional                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Bait proposed              | pursuit pressure                          | refuse, Subject Care                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Route closed               | erasure read as end                       | reopen, Intelligence                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+
+
+KNOWN LIMITS
 
 A.C.T does not know whether route concealment involved actual collective memory distortion or only
-the ambiguity of
-carnival movement. Both remain possible. Witnesses may remember the show while disagreeing on its
-name, date, road, or
-whether it was legal.
+the ambiguity of carnival movement, and the dossier keeps both open. That is a
+real analytical limit rather than an open curiosity: witnesses who agree about the show
+while disagreeing about its name, date, road, and legality are what both explanations predict,
+so testimony cannot select between them and no amount of further interviewing will.
 
-A.C.T Handling Rules
+The record also cannot bound the organisation. No membership list, cage inventory, ticket ledger,
+or route record survived, and the seized fairground may have been a node, a
+discard site, or an endpoint. Every statement about the Circus's size in this record
+is therefore a floor rather than an estimate, and the file says so instead
+of presenting a range it cannot support.
 
-Route evidence must be cross-filed with missing-person records, animal transport logs, fairground leases, poster
-fragments, fuel purchases, cage fabrication orders, and amnestic-resistant witness statements. Intelligence must not
-assume the seized fairground was headquarters. It may have been one node, a discard
-site, or a route endpoint prepared
-to absorb Operation BIG TOP.
 
-A.C.T must not use AFD-SU-507 as bait for route reconstruction. Survivor memory may inform
-safe questions, but pursuit
-of POI-0507 cannot depend on forcing the subject back into Amazoo geography.
 
-Failure and Open Questions
+FAILURE HISTORY
 
-The main failure is mistaking public erasure for dismantling. A burned tent, abandoned cage,
-or dead animal does not
-prove Grand Master Amazoo is gone. Open questions include how many cages existed before
-the raid, where missing
-performers went, what happened to ticket money and animal records, and whether Amazoo has
-rebuilt under another name.
-Archive confidence is High for traveling-route operation and Moderate for concealment method.
+OPERATION BIG TOP — ONE SCENE SEIZED, LEADERSHIP ESCAPED
+
+The raid recovered AFD-SU-507 from a reinforced cage, publicly erased the Circus, and did
+not capture Grand Master Amazoo. It left the gaps this record is built around:
+missing performers, missing handlers, missing animals, missing route records, missing ticket records, and no
+cage inventory. The scene is confirmed; the organisation behind it is not accounted for.
+
+ERASURE READ AS CLOSURE — STANDING CONDITION
+
+No file has been closed on erasure alone. The condition is filed because erasure
+is the most visible thing the Circus left behind and the least informative about
+whether it persists. The dossier states the rule directly: a burned tent, an abandoned
+cage, or a dead animal is not proof that POI-0507 is gone.
+
+CONCEALMENT MECHANISM — UNRESOLVED
+
+Whether concealment used memory distortion or only carnival ambiguity is unresolved, and with it
+the dossier's related question of whether the Circus used real routes at all or
+simply appeared where grief and spectacle were already waiting. Both readings are consistent with
+every witness statement A.C.T holds.
+
+
+
+DIVISION USE
+
+The Intelligence Division holds route reconstruction, node identification, and the pursuit of POI-0507 at
+Level 4. Regional Command holds the site and the cross-filing with regional missing-person and
+animal-transport records. Tactical Containment supports raids on suspected route remnants.
+
+Subject Care Division is consulted before any survivor-facing question and holds the veto on
+using the subject for reconstruction. Logistics traces supply classes rather than individual items. Archive
+files node records with the scene material and keeps the route marked open. Command
+authorises escalation and holds no closure authority over this record.
+
+
+
+CROSS-REFERENCES
+
+- GOI-HY-X-052 — Amazoo Circus, Group of Interest Registry;
+- TECH-GOI-052-1 — Amazoo Circus Reinforced Iron Performance Cage System, Technology Record;
+- TECH-GOI-052-2 — Amazoo Circus Audience Conditioning Performance Environment, Technology Record;
+- TECH-GOI-052-3 — Amazoo Circus Emotional-Siphoning Performance Frame, Technology Record;
+- TECH-GOI-052-4 — Amazoo Circus Trauma-Command and Act-Naming System, Technology Record;
+- TECH-GOI-049-4 — DREAM .INC Twelve-Building Appointment Routing Network, Technology Record;
+- AFD-SU-507 — Circus Monster, Archive Record.
+
+The appointment routing network is cited as the nearest structural comparison: both use distributed
+physical sites to make one organisation hard to locate, and both survive the loss
+of any single address. The difference is intent. That network distributes access for customers;
+this route distributes custody so that nobody is held in one place long enough
+to be missed.
+
+
+
+OPEN QUESTIONS
+
+- How many cages and performers existed before the raid?
+- Where did the missing performers go?
+- What happened to the ticket money, animals, wagons, and posters?
+- Did the Circus use real routes, or appear where spectacle was waiting?
+- Is concealment memory distortion or only carnival ambiguity?
+- Has the Circus rebuilt under another name, tent, or master?
+
+
+
+FILE METADATA
+
+- **Created:** 2026-01-22
+- **Author Desk:** Intelligence Division / Regional Command / Central Archive
+- **Review Status:** Active restricted route-reconstruction technology record; POI-0507 pursuit sealed at Level
+4
+- **Next Review:** After any node identification, any rebuilt-attraction indicator, or any missing-act recovery

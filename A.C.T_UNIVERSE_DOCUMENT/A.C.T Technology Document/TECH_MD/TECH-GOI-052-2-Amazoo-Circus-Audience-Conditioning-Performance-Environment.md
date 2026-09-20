@@ -1,70 +1,326 @@
-# TECH-GOI-052-2 - AMAZOO CIRCUS AUDIENCE CONDITIONING PERFORMANCE ENVIRONMENT
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - AMAZOO CIRCUS AUDIENCE CONDITIONING PERFORMANCE ENVIRONMENT
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | TECHNOLOGY DESIGNATION | TECH-GOI-052-2 |
 | TECHNOLOGY NAME | Amazoo Circus Audience Conditioning Performance Environment |
-| COMMON ABBREVIATIONS | ACPE / Audience Ring / Chant Environment |
-| ORIGIN | Amazoo Circus |
-| ACQUISITION STATUS | Scene reconstruction, witness testimony, and recovered performance fragments |
-| PRIMARY A.C.T INTEREST | Exposure control, crowd-harm prevention, survivor trigger mapping, hostile show detection |
-| ARCHIVE HANDLING | AMAZOO PERFORMANCE RESTRICTED / NO-AUDIENCE TESTING |
+| SHORT NAME | AZACE |
+| TECHNOLOGY FAMILY | ACQUIRED HOSTILE / ARRANGED PERFORMANCE ENVIRONMENT / CROWD AS COMPONENT |
+| ORIGIN | AMAZOO CIRCUS (GOI-HY-X-052) / TRAVELING FAIRGROUND ROUTES |
+| PRIMARY CONTROLLER | Tactical Containment with Intelligence Division |
+| ATTACHED DIVISIONS | Tactical Containment, Intelligence, Subject Care, Info-Hazard, Medical Care, Archive |
+| OPERATIONAL STATUS | METHOD CONFIRMED / COMPONENTS MUNDANE, NOT RECOVERED AS A SET |
+| RISK STATUS | WITNESS CONTAGION / RETRAUMATISATION / RECONSTRUCTION APPEAL |
+| CLEARANCE REQUIRED | Level 3 for scene material; Level 4 for survivor-linked review |
 
-## Functional Identity
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Performance-Environment Technology Record |
+| DISTRIBUTION | Tactical Containment / Intelligence / Subject Care / Info-Hazard / Archive |
+| AUTHORITY | Tactical Containment and Intelligence Division, Subject Care joint review |
 
-The Amazoo Circus Audience Conditioning Performance Environment is the stage, light, sound, crowd, curtain,
-and cue
-arrangement used to make civilians participate in anomalous abuse while believing they were watching
-entertainment.
-The Amazoo dossier identifies audience conditioning, stage-lighting and audience-control environment, crowds and
-chanting as stressors, and audience abuse becoming part of the act. A.C.T files the
-environment as technology because
-it is a repeatable control system, even if much of it used mundane equipment.
+#### Archive Note
+This record covers the stage, light, sound, curtain, cue, and crowd arrangement that let
+Amazoo Circus make civilians take part in anomalous abuse while believing they were watching
+entertainment. The dossier names audience conditioning, the stage-lighting and audience-control environment,
+crowds and chanting as stressors, and audience abuse becoming part of the act. A.C.T
+files the arrangement as technology even though most of its parts are ordinary equipment.
 
-The environment's core function was permission. It taught the audience what reaction to give
-and taught the captive
-performer what role they were trapped inside. Laughter, hollering commands, applause, silence, spotlighting, music,
-and the ring boundary could all become control inputs. The system hid harm by
-making cruelty look like audience
-participation.
+The environment's product is permission. It taught a crowd which reaction to give and
+taught a captive performer which role they were trapped inside, and it did both
+with curtains, spotlights, music, tickets, and a ring boundary. The crowd is therefore a
+component of the system rather than a bystander to it, and that finding decides
+the response: removing an audience dismantles more of this technology than removing a cage
+does.
 
-## Known Components
+It also explains the secrecy class. Amazoo was EXPOSURE-ACTIVE because it did not rely
+on invisibility; it relied on people seeing the wrong thing. The anomaly was hidden
+by being too visible to be believed, and the raid itself caused civilian exposure
+and fatalities before 004-D Grade amnestics and public erasure were applied. Every reconstruction A.C.T
+performs carries the same property, which is why no-audience testing is a standing condition
+in this file.
 
-Confirmed or indicated components include performance curtains, stage lighting, loud music, ticketed viewing, planted
-chant leaders, handler posture, cage placement, act naming, animal presence, and verbal degradation. The
-recovered
-diary phrases show that repeated language mattered. A phrase such as Time is dead
-and gone. Show must go on. may have
-been motto, command imprint, trauma echo, or anomalous performance anchor. A.C.T does not reproduce
-such phrases
-around AFD-SU-507.
+Controlled label: **AMAZOO NO-AUDIENCE RECONSTRUCTION RULE**.
 
-The environment may also have supported emotional siphoning. A crowd focused on fear, pity,
-shame, or excitement can
-create a controlled emotional field around a captive subject. A.C.T has not confirmed what
-that field fed, but the
-dossier keeps emotional-siphoning performance and audience mood harvesting under active investigation.
+Core handling rule:
 
-## A.C.T Handling Rules
+```text
+THE CROWD IS A COMPONENT OF THIS SYSTEM, NOT A WITNESS TO IT.
+NO AMAZOO PERFORMANCE IS RECONSTRUCTED WITH AN AUDIENCE, REAL OR SIMULATED.
+```
 
-A.C.T must not stage audience simulations for interrogation or testing on AFD-SU-507. Any recovered
-spotlight,
-speaker, curtain, seating plan, ticket booth item, calliope, ring prop, or chant sheet must
-be handled as possible
-trauma-anchor evidence. Civilian witnesses must be interviewed without recreating the show atmosphere.
+---
 
-Training material for field teams may describe indicators, but it must not dramatize Amazoo's
-performance structure
-for morale, entertainment, or scare instruction. The system becomes dangerous when personnel enjoy the
-reconstruction.
+## FUNCTION SUMMARY
 
-## Failure and Open Questions
+The environment made cruelty legible as participation. Laughter, hollered commands, applause, silence,
+spotlighting, music, and the ring boundary were all control inputs, and each one told
+two audiences something different: the ticket holders learned that what they were seeing was
+a show, and the performer learned that nothing they did would be read as
+distress.
 
-Failure modes include witness contagion, survivor retraumatization, accidental chant reproduction, and public
-fascination that functions as free advertisement for a rebuilt circus. Open questions include whether
-planted audience
-members directed the crowd, whether the crowd itself powered an anomalous effect, and whether
-ordinary spectators
-became victims, customers, batteries, or accomplices. Archive confidence is High for audience conditioning as
-a method
-and Low for the exact anomalous mechanism.
+Almost none of it was anomalous equipment. Curtains, lamps, a calliope, a ticket booth,
+and a seated crowd are ordinary, and A.C.T files the arrangement anyway because arrangement
+is what makes a system repeatable, and repeatability is what separates a method from
+an incident. The Circus could rebuild this environment in a new town in a
+season, using parts bought locally.
+
+The record's operational value is detection. The dossier lists the language that marks a
+rebuilt attraction, and those phrases are treated as escalation indicators rather than as advertising
+copy, because in this system the advertisement is a working part of the mechanism.
+
+
+---
+
+## ORIGIN AND CUSTODY
+
+The environment is known through scene reconstruction, witness testimony, and recovered performance fragments.
+Testimony is partial by construction: 004-D Grade amnestics were applied after the raid, and
+the dossier directs Intelligence to find witnesses whose memory of the Circus resisted smoothing.
+A.C.T therefore holds a method it can describe and a witness set it cannot
+fully trust.
+
+Custody sits with Tactical Containment and the Intelligence Division under Site-Sub-[REDACTED]-PL-C with
+Regional Command support. Subject Care Division controls anything survivor-facing, including whether a
+fragment may be shown, and Info-Hazard Division reviews training material for dramatisation.
+
+No component set is held. A recovered spotlight, speaker, curtain, seating plan, ticket booth
+item, calliope, ring prop, or chant sheet is handled as possible trauma-anchor evidence and
+stored away from crowds, entertainment media, and staff recreation areas.
+
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+The system is described as an arrangement rather than as a device list:
+
+- performance curtains and ring boundary;
+- stage lighting and spotlight cues;
+- loud music and calliope;
+- ticketed viewing and seating plan;
+- planted chant leaders, indicated;
+- handler and ringmaster command posture;
+- cage placement inside the ring;
+- act naming on placards and announcements;
+- animal presence as normalising cover;
+- verbal degradation carried by the crowd.
+
+Two entries in that list are not equipment. The planted chant leader is a
+person recruited for a cue, and the crowd is the only component the Circus
+could acquire on site, for free, every night. That is the structural reason the
+environment survived the loss of any tent: the expensive parts are replaceable and the
+working part is whoever bought a ticket.
+
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Values are restated from the GOI-HY-X-052 dossier and the post-raid scene record. Nothing is
+measured by staging a performance, and no such staging is authorised.
+
+| ENVIRONMENT PARAMETER | VALUE |
+|---|---|
+| Method status | confirmed by scene and testimony |
+| Components recovered | fragments only, not as a set |
+| Crowd role | component, not bystander |
+| Chant leadership | planted, indicated |
+| Emotional field measured | none, measurement prohibited |
+| Amnestic applied | 004-D Grade, post-raid |
+| Witness memory state | smoothed, partial |
+| Reconstruction authorised | none with an audience |
+| Yield of the field | NOT MEASURED |
+| Escalation phrases logged | NOT MEASURED |
+
+The measurement prohibition is the reason two rows stay empty. Any instrument reading of
+the field would require an audience reacting to a captive performer, which is the
+harm the record exists to prevent, so the yield will remain NOT MEASURED by
+design rather than through neglect.
+
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Scene Handling Controls
+
+- no crowd, real or simulated, at any reconstruction
+- fragments bagged as trauma-anchor evidence
+- witness interviews held away from show atmosphere
+- Subject Care consulted before survivor-facing use
+
+### Environment Readouts
+
+- fragment inventory per scene
+- escalation-phrase occurrences in the field
+- witness memory state recorded per interview
+- reconstruction requests and their disposition
+
+### Handling Limits And Weaknesses
+
+- Do not stage audience simulations for interrogation or testing.
+- Do not reproduce recovered chant language outside sealed analysis.
+- Do not dramatise the performance structure in field training.
+- Do not read a mundane component list as a mundane system.
+- Weakest where a reconstruction is enjoyable to the staff running it.
+- Weakest where public fascination acts as free advertising.
+
+Yield, phrase counts, and reconstruction requests are NOT MEASURED in this record and are
+tracked per scene.
+
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence applies when a travelling attraction shows the escalation indicators, and it removes
+the audience before it touches the performer, because the audience is the component that
+makes the rest of the system work.
+
+1. Log the advertised language verbatim as an escalation indicator.
+2. Establish whether a crowd is present and how it is being cued.
+3. Interrupt audience participation before approaching the ring.
+4. Identify planted chant leaders without accusing spectators.
+5. Secure the performer without ordering any demonstration.
+6. Bag curtains, lights, cues, and chant material as evidence.
+7. Interview witnesses away from the show atmosphere.
+8. Report the control arrangement, not the equipment list.
+
+Step 8 is the discipline. An equipment list describes a circus; a description of
+who cued whom, from where, and with what language describes a control system, and
+only the second gives the next team anything to look for.
+
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per scene | bag fragments, log phrases |
+| Per interview | record memory state first |
+| Monthly | review escalation-phrase indicators |
+| Quarterly | audit training material for dramatisation |
+| Annually | joint review with Subject Care |
+
+The quarterly audit is the calibration with a real audit surface. The failure this
+record anticipates is not negligence; it is a training exercise that ran well because
+everyone found it compelling, which is the same property the Circus exploited in a
+paying audience.
+
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Crowd cued | chant leaders present | interrupt participation |
+| Phrase advertised | rebuilt attraction | escalate, Intelligence |
+| Witnesses agree | show memory intact | interview, no atmosphere |
+| Simulation proposed | interrogation pressure | refuse, Subject Care |
+| Training dramatised | reconstruction appeal | withdraw, Info-Hazard |
+
+
+---
+
+## KNOWN LIMITS
+
+A.C.T cannot measure the field and will not attempt to. Any measurement requires an
+audience reacting to a captive performer, and that is the harm rather than the
+observation. The yield row stays NOT MEASURED, and the dossier's question about what the
+siphoned emotion fed remains open for that reason rather than for lack of interest.
+
+The record also cannot separate the ordinary from the anomalous, because the dossier keeps
+audience mood harvesting under active investigation while confirming that most components are mundane. An
+environment built from ordinary parts cannot be cleared by clearing the parts, so the
+arrangement stays filed as a system even when every object in it could be
+bought at a market.
+
+
+---
+
+## FAILURE HISTORY
+
+### OPERATION BIG TOP — CIVILIAN EXPOSURE DURING RAID
+
+The raid caused civilian exposure and fatalities during the chaos, after which A.C.T deployed
+004-D Grade amnestics and publicly erased Amazoo Circus. The event is filed here because
+the environment does not stop working when the raid starts: the crowd is still
+a component during the interruption, and it is still being cued by whatever is
+left on the ring.
+
+### RECONSTRUCTION APPEAL — STANDING CONDITION
+
+No unauthorised reconstruction is filed. The condition exists because the system is theatrical and
+the staff best able to analyse it are the staff most likely to enjoy
+rebuilding it. The failure arrives as enthusiasm rather than as negligence, which is why
+the audit runs against training material rather than against incident reports.
+
+### CHANT LEADERSHIP — UNRESOLVED
+
+Whether planted members directed the crowd, or the crowd generated the chant and the
+Circus merely used it, is unresolved. The two answers imply different detection methods: a
+planted leader can be found in a ticket record, while a self-organising crowd can
+only be recognised from the shape of the room.
+
+
+---
+
+## DIVISION USE
+
+Tactical Containment holds the method record and runs field interruption, where its first task
+is always to break audience participation before securing a performer. The Intelligence Division tracks
+escalation phrases and rebuild indicators. Subject Care Division controls survivor-facing use of any fragment
+and reviews every interview design.
+
+Info-Hazard Division audits training material for dramatisation and holds the standing objection to any
+exercise that would stage the show. Medical Care supports witness and survivor interviews. Archive
+files fragments with the scene record and the phrase log. Regional Command supports the
+site and holds no separate authority over the method.
+
+
+---
+
+## CROSS-REFERENCES
+
+- GOI-HY-X-052 — Amazoo Circus, Group of Interest Registry;
+- TECH-GOI-052-1 — Amazoo Circus Reinforced Iron Performance Cage System, Technology Record;
+- TECH-GOI-052-3 — Amazoo Circus Emotional-Siphoning Performance Frame, Technology Record;
+- TECH-GOI-052-4 — Amazoo Circus Trauma-Command and Act-Naming System, Technology Record;
+- TECH-GOI-052-5 — Amazoo Circus Fairground Mobility and Route Concealment, Technology Record;
+- TECH-GOI-027-1 — Anstrall Market Broker Claim Control and Description System, Technology Record;
+- AFD-SU-507 — Circus Monster, Archive Record.
+
+The broker claim record is cited because both systems operate on what an observer
+is permitted to conclude rather than on what is in front of them, and
+both fail the same way: the arrangement survives the loss of every object in
+it. The difference is that a broker sells a claim, while this environment recruits
+the buyer into producing it.
+
+
+---
+
+## OPEN QUESTIONS
+
+- Did planted audience members direct the crowd, or only steer it?
+- Did the crowd itself power an anomalous effect?
+- Were spectators customers, victims, worshippers, batteries, or witnesses?
+- Was the chant spontaneous cruelty or a controlled mechanism?
+- Which witnesses retained memory after amnestic smoothing?
+- Can the environment operate without a ring, tent, or ticket booth?
+
+
+---
+
+## FILE METADATA
+
+- **Created:** 2022-06-02
+- **Author Desk:** Tactical Containment / Intelligence Division / Subject Care Division
+- **Review Status:** Active restricted performance-environment technology record; survivor-linked review sealed
+  at Level 4
+- **Next Review:** After any travelling-attraction escalation, any new fragment, or any reconstruction request

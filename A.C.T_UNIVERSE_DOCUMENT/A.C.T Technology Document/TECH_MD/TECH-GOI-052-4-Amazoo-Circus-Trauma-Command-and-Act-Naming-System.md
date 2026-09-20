@@ -1,69 +1,328 @@
-# TECH-GOI-052-4 - AMAZOO CIRCUS TRAUMA-COMMAND AND ACT-NAMING SYSTEM
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - AMAZOO CIRCUS TRAUMA-COMMAND AND ACT-NAMING SYSTEM
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | TECHNOLOGY DESIGNATION | TECH-GOI-052-4 |
 | TECHNOLOGY NAME | Amazoo Circus Trauma-Command and Act-Naming System |
-| COMMON ABBREVIATIONS | TCANS / Act Naming / Command Phrase System |
-| ORIGIN | Amazoo Circus |
-| ACQUISITION STATUS | Survivor-linked evidence and restricted diary phrase analysis |
-| PRIMARY A.C.T INTEREST | Survivor protection, trigger suppression, hostile command detection, testimony-safe interviewing |
-| ARCHIVE HANDLING | AMAZOO COMMAND LANGUAGE RESTRICTED / SUBJECT CARE CONTROL |
+| SHORT NAME | AZTCN |
+| TECHNOLOGY FAMILY | ACQUIRED HOSTILE / COMMAND LANGUAGE AND IDENTITY CONTROL / NO HARDWARE |
+| ORIGIN | AMAZOO CIRCUS (GOI-HY-X-052) / RINGMASTER AND HANDLER AUTHORITY |
+| PRIMARY CONTROLLER | Subject Care Division with Intelligence Division |
+| ATTACHED DIVISIONS | Subject Care, Intelligence, Medical Care, Tactical Containment, Info-Hazard, Archive |
+| OPERATIONAL STATUS | HARMFUL USE CONFIRMED / ANOMALOUS AMPLIFICATION UNRESOLVED |
+| RISK STATUS | NAME PRESERVATION / TRIGGER REPRODUCTION / LORE DRIFT |
+| CLEARANCE REQUIRED | Level 3 for phrase analysis; Level 4 for survivor interviews |
 
-## Functional Identity
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Command-Language Technology Record |
+| DISTRIBUTION | Subject Care / Intelligence / Medical Care / Tactical Containment / Archive |
+| AUTHORITY | Subject Care Division and Intelligence Division, joint control |
 
-The Amazoo Circus Trauma-Command and Act-Naming System is the verbal, social, and possibly anomalous
-control method
-used to reduce captive performers into roles. The Amazoo dossier states that the Circus
-may have used the word act as
-both performance role and identity cage. AFD-SU-507's recovered writing repeats our act, my act,
-and the command to
-sing. The dossier also records the imposed name Circus Monster and restricts command phrases
-used against the subject.
+#### Archive Note
+This record covers the verbal and social control method by which Amazoo Circus reduced
+captive performers to roles. The dossier records that the Circus may have used the
+word act as both performance role and identity cage, that recovered writing repeats our
+act, my act, and the command to sing, that the imposed name Circus Monster
+stands in the discovery record, and that phrases used against the subject are restricted
+from casual quotation.
 
-This technology does not require advanced machinery to be dangerous. A repeated name can
-become a restraint when
-reinforced by cage, audience, hunger, music, threat, and abandonment. The performer learns that refusal
-changes
-nothing except punishment. The crowd learns the assigned name before the person beneath it.
-The handler gains control
-by making the role more publicly real than the survivor's own identity.
+None of it requires machinery. A name becomes a restraint when it is reinforced
+by a cage, an audience, hunger, music, threat, and abandonment, and the performer learns
+that refusal changes nothing except the punishment. The crowd learns the assigned name before
+it learns the person underneath, so the naming system's output is a public fact
+that outweighs a private one.
 
-## Known Components
+That produces the failure A.C.T has to police in itself. The abuser's name is
+the one that appears in evidence, on placards, in scene photographs, and in witness
+statements, so an archive working faithfully will preserve the imposed name more completely than
+the survivor's own. This record treats that drift as a technical defect rather than
+as insensitivity, because a file that cannot produce the survivor's chosen name has been
+captured by the system it is documenting.
 
-Known components include act titles, ringmaster commands, crowd repetition, stage announcements, diary phrases,
-degradation language, forced singing cues, command posture, and possibly costume or placard labels. A.C.T
-treats these
-as technical components because they may trigger trauma responses or anomalous behavior when repeated
-in the correct
-context.
+Controlled label: **AMAZOO COMMAND-LANGUAGE SEALING RULE**.
 
-The command to sing is especially restricted. A.C.T will not force AFD-SU-507 to sing
-for acoustic testing. Even a
-harmless test request can reproduce Amazoo's command structure if delivered by authority in a
-contained room.
+Core handling rule:
 
-## A.C.T Handling Rules
+```text
+RESTRICTED PHRASES ARE WORKING RESTRAINTS, NOT COLOUR IN A FILE.
+THE SURVIVOR'S CHOSEN NAME OUTRANKS THE NAME THE CIRCUS ASSIGNED.
+```
 
-Subject Care controls all survivor-facing use of Amazoo language. Analysts may quote restricted phrases
-only in sealed
-documentation, never in casual conversation, training dramatization, or field jokes. Interviewers must use chosen
-names and avoid role labels unless the survivor initiates the term for testimony purposes.
+---
 
-If a field team encounters a traveling attraction using phrases such as singing monster,
-amazing gift, silent song,
-dead time show, worthless monster, or show must go on, the language must be
-logged as an escalation indicator. The
-performer must not be ordered to demonstrate the act.
+## FUNCTION SUMMARY
 
-## Failure and Open Questions
+The system assigned an act, repeated it until the performer used it about themselves,
+and then let the audience enforce it. Recovered diary material shows the result from
+the inside: our act, my act, the command to sing, and a motto about
+the show going on after time is dead. Whether those repetitions were imprint, survival
+shorthand, or both is not settled, and the handling rule does not wait on
+the answer.
 
-Failure occurs when A.C.T preserves the abuser's name more strongly than the survivor's name.
-Another failure occurs
-when personnel treat command phrases as colorful lore instead of working restraints. Open questions
-include whether
-act names carried direct anomalous force, whether Grand Master Amazoo could command through planted
-audience members,
-and whether other survivors remain trapped under assigned act identities. Archive confidence is High
-for harmful
-command use and Moderate for anomalous amplification.
+The technical claim in this record is narrow. Language under these conditions functions as
+restraint, and it does so with the same reliability as a lock, because the
+performer cannot leave the role any more than they could leave the cage, and
+because the crowd supplies the enforcement the handler is not always present to apply.
+
+The operational consequence is that A.C.T holds a working restraint it did not build
+and cannot safely store. Restricted phrases are sealed into documentation and never quoted in
+briefing, training, or field speech, and every survivor-facing record is written in the name
+the survivor chose.
+
+
+---
+
+## ORIGIN AND CUSTODY
+
+The system is evidenced by survivor-linked material and by restricted diary phrase analysis. No
+membership list survived Operation BIG TOP, so the full set of assigned act names
+is unknown, and the dossier warns that escaped child performers must not be classified
+as hostile without individual evidence.
+
+Custody sits with Subject Care Division and the Intelligence Division under Site-Sub-[REDACTED]-PL-C with
+Regional Command support. Subject Care controls all survivor-facing use of Amazoo language and holds
+the interview protocol. Intelligence holds the escalation-phrase indicators used in the field.
+
+Restricted phrases may be quoted only in sealed documentation, never in casual conversation, training
+dramatisation, or field speech. The command to sing is restricted absolutely, and AFD-SU-507 will
+not be asked to sing for acoustic or any other testing.
+
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+The system has no hardware. Its components are described as the dossier records them:
+
+- act titles assigned to performers;
+- ringmaster and handler command phrases;
+- crowd repetition of the assigned name;
+- stage announcements and billing lines;
+- degradation language carried by the audience;
+- forced singing cues;
+- command posture delivered without words;
+- costume, placard, and painted labels;
+- diary phrases retained as imprint evidence;
+- anomalous amplification, unresolved.
+
+The last entry is the one A.C.T cannot settle. Whether act names carried direct
+anomalous force or worked only through repetition and reinforcement is unresolved, and the dossier
+holds both open. The handling rule does not depend on the answer, because a
+restraint works on the person it holds whether or not it also works on
+anything else.
+
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Values are restated from the GOI-HY-X-052 dossier and the restricted phrase record. Nothing is
+tested by delivery, and no phrase is spoken to a survivor to observe a
+response.
+
+| NAMING PARAMETER | VALUE |
+|---|---|
+| Harmful use | confirmed in recovered evidence |
+| Phrases restricted | six advertised, two quoted |
+| Command delivery | authority, posture, crowd |
+| Naming mechanism | repetition and reinforcement |
+| Anomalous force | unresolved |
+| Chosen names held | per survivor, Subject Care |
+| Imposed names in file | retained as evidence only |
+| Trigger categories | crowds, commands, loud noise |
+| Interview protocol | chosen names, no role labels |
+| Survivors under naming | NOT MEASURED |
+
+Interview protocol is the operative row. Every other value describes what the Circus did;
+this one describes what A.C.T does in the room where the harm is still
+running, and it is the only row a clerk can violate by accident.
+
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Language Controls
+
+- restricted phrases sealed in documentation only
+- chosen names used in every survivor-facing record
+- no role labels unless the survivor initiates them
+- no quotation in training, jokes, or field speech
+
+### Naming Readouts
+
+- restricted-phrase occurrences in A.C.T writing
+- chosen-name coverage across survivor files
+- escalation phrases logged in the field
+- interview protocol adherence per session
+
+### Handling Limits And Weaknesses
+
+- Do not quote a restricted phrase in casual or training use.
+- Do not order any demonstration of an act from a performer.
+- Do not use role labels in interview or in file headers.
+- Do not treat command phrases as colourful local lore.
+- Weakest where evidence makes the imposed name the easy one.
+- Weakest where a phrase is quoted to prove a point.
+
+Phrase counts and chosen-name coverage are tracked by Subject Care and are NOT MEASURED
+in this record.
+
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence covers a field encounter and the first interview that follows it. It
+is ordered so that no A.C.T action can be read by the performer as
+a performance cue, which is the easiest way for the Facility to reproduce the
+system it is closing down.
+
+1. Record the advertised and spoken language verbatim, sealed.
+2. Log any escalation phrase as an indicator immediately.
+3. Address the performer by a chosen name, never a role.
+4. Give no command that could be read as a performance cue.
+5. Do not ask the performer to demonstrate anything.
+6. Refer the performer to Subject Care before any interview.
+7. Use the chosen name in every downstream record.
+8. Report the control method, not the name it assigned.
+
+Step 7 is the one that quietly undoes the system. Every file that carries
+the imposed name forward extends the naming by one more institution, and the correction
+costs nothing but has to be made at the first record rather than at
+the fiftieth.
+
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per encounter | seal phrases, log indicators |
+| Per interview | confirm the chosen name first |
+| Monthly | scan A.C.T writing for restricted phrases |
+| Quarterly | audit file headers for role labels |
+| Annually | review chosen-name coverage with Subject Care |
+
+The header audit is the maintenance with teeth. A role label in a file
+header is read by every later clerk before any paragraph is, and it is
+the only part of this system that A.C.T can install by accident while believing
+it is being accurate.
+
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Phrase quoted | lore drift | remove, retrain |
+| Role label filed | header habit | correct, Subject Care |
+| Demo requested | test pressure | refuse, Subject Care |
+| Performer ordered | command reflex | intervene, Medical |
+| Chosen name absent | intake lapse | obtain, Subject Care |
+
+
+---
+
+## KNOWN LIMITS
+
+A.C.T cannot determine whether the naming carried anomalous force, and the dossier declines to
+upgrade the Circus on this evidence. The record therefore describes a restraint whose mechanism
+is uncertain and whose effect on the person holding it is not, and it
+does not need the mechanism settled in order to prohibit the language.
+
+The record also cannot produce a complete inventory. No membership list survived Operation BIG
+TOP, missing performers were never counted, and the dossier requires that escaped child performers
+not be classified as hostile without individual evidence. Some of those performers may still
+be answering to an act name, and A.C.T has no method for finding them
+that does not begin with a missing-person file.
+
+
+---
+
+## FAILURE HISTORY
+
+### RECOVERED DIARY EVIDENCE — IMPOSED NAME AND COMMAND CONFIRMED
+
+Recovered diary material repeats our act, my act, the command to sing, the motto
+about time being dead and the show going on, and a degradation phrase shouted
+at the subject. The imposed name stands in the discovery record and in the
+primary anomaly file. This is the confirmed instance in the record and the basis
+for the sealing rule.
+
+### LORE DRIFT — STANDING CONDITION
+
+No phrase has been withdrawn from A.C.T writing. The condition is filed because restricted
+language is memorable, quotable, and useful in a briefing, and those are precisely the
+three properties that carry a working restraint into casual speech. The audit runs against
+A.C.T documents rather than against staff, because the drift is a property of the
+material.
+
+### ANOMALOUS AMPLIFICATION — UNRESOLVED
+
+Whether act names carried direct anomalous force, whether Grand Master Amazoo could command through
+planted audience members, and whether other survivors remain trapped under assigned act identities are
+all unresolved. The dossier holds the questions open deliberately and this record does not
+close them by assumption.
+
+
+---
+
+## DIVISION USE
+
+Subject Care Division controls all survivor-facing language, holds the interview protocol, and owns the
+chosen-name register. The Intelligence Division holds the escalation-phrase indicators and reads field
+encounters against rebuild patterns. Medical Care intervenes where a command reflex has been reproduced
+in a room.
+
+Tactical Containment applies the field sequence and gives no performance cues during recovery. Info-Hazard
+Division audits training material and briefing language. Archive files the imposed names as evidence
+while Subject Care files the chosen names as identity, and the two are kept
+in separate sections so that neither is mistaken for the other.
+
+
+---
+
+## CROSS-REFERENCES
+
+- GOI-HY-X-052 — Amazoo Circus, Group of Interest Registry;
+- TECH-GOI-052-1 — Amazoo Circus Reinforced Iron Performance Cage System, Technology Record;
+- TECH-GOI-052-2 — Amazoo Circus Audience Conditioning Performance Environment, Technology Record;
+- TECH-GOI-052-3 — Amazoo Circus Emotional-Siphoning Performance Frame, Technology Record;
+- TECH-GOI-052-5 — Amazoo Circus Fairground Mobility and Route Concealment, Technology Record;
+- TECH-GOI-051-1 — Mysterious Guild OMEGA-KERN Protocol Control Layer, Technology Record;
+- AFD-SU-507 — Circus Monster, Archive Record.
+
+The control-layer record is cited because both systems replace what a person is with
+what they are for, and both survive the loss of their hardware. The difference
+is scale. OMEGA-KERN substitutes categories inside a nervous system; this system substitutes a name
+inside a crowd and needs no implant at all.
+
+
+---
+
+## OPEN QUESTIONS
+
+- Did act names carry direct anomalous force?
+- Could Grand Master Amazoo command through planted audience members?
+- Are other survivors still answering to assigned act identities?
+- Which phrases are triggers and which are only associated?
+- Did the naming survive the amnestic applied to witnesses?
+- What name does each survivor choose, and is it recorded anywhere?
+
+
+---
+
+## FILE METADATA
+
+- **Created:** 2024-08-05
+- **Author Desk:** Subject Care Division / Intelligence Division / Central Archive
+- **Review Status:** Active restricted command-language technology record; survivor interviews sealed at Level 4
+- **Next Review:** After any encounter using escalation phrases, any new survivor intake, or any
+  phrase-leak finding
