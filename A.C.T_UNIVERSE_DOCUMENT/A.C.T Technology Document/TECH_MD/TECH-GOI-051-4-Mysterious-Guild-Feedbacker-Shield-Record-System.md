@@ -1,75 +1,331 @@
-# TECH-GOI-051-4 - MYSTERIOUS GUILD FEEDBACKER SHIELD RECORD SYSTEM
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - MYSTERIOUS GUILD FEEDBACKER SHIELD RECORD SYSTEM
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | TECHNOLOGY DESIGNATION | TECH-GOI-051-4 |
 | TECHNOLOGY NAME | Mysterious Guild Feedbacker Shield Record System |
-| COMMON ABBREVIATIONS | Feedbacker Shield / Item-A01 / Guild Feedbacker Data |
-| ORIGIN | Mysterious Guild |
-| ACQUISITION STATUS | Recovered record data; tactical reconstruction prohibited without higher review |
-| PRIMARY A.C.T INTEREST | Defensive future-origin equipment, impact-return risk, operative interface dependency, humane<br>containment boundary study |
-| ARCHIVE HANDLING | GUILD ARMORY RESTRICTED / DEFENSIVE SYSTEM REVIEW |
+| SHORT NAME | GFSRS |
+| TECHNOLOGY FAMILY | ACQUIRED FUTURE-ORIGIN / DEFENSIVE ARMORY RECORD / RETURN-PATH SYSTEM |
+| ORIGIN | MYSTERIOUS GUILD (GOI-HY-U-051) / GUILD ARMORY, ITEM-A01 |
+| PRIMARY CONTROLLER | Tactical Review Desk with Subject Care Division |
+| ATTACHED DIVISIONS | Tactical Review, Engineering, Subject Care, Medical Care, Security, Archive |
+| OPERATIONAL STATUS | RECORD DATA ONLY / NO COMPLETE UNIT CONFIRMED IN CUSTODY |
+| RISK STATUS | IMPACT RETURN / OPERATOR CONDITIONING / BORROWING PRESSURE |
+| CLEARANCE REQUIRED | Level 4 for armory data; Level 5 for reconstruction proposals |
 
-## Functional Identity
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Future-Origin Defensive-System Record |
+| DISTRIBUTION | Tactical Review / Engineering / Subject Care / Medical Care / Security |
+| AUTHORITY | Tactical Review Desk and Central Archive, Subject Care joint review |
 
-The Mysterious Guild Feedbacker Shield Record System covers the defensive armory technology identified in
-the Guild
-dossier as Item-A01 Feedbacker Shield. The file is limited to recovered record data and
-A.C.T risk interpretation. It
-does not claim that A.C.T has a complete shield in storage, nor does it
-authorize building one. The word Feedbacker is
-treated as a functional warning: the system may return, store, redirect, translate, or score
-incoming force rather
-than merely block it.
+#### Archive Note
+This record covers the defensive armory item named in recovered Guild material as Item-A01
+Feedbacker Shield. A.C.T does not hold a confirmed complete unit, does not authorise construction
+of one, and files the item because the recovered data places it inside the
+same platform as the OMEGA-KERN layer, the Argus weapon, sacral-scythe mobility hardware, and the
+registry maintenance logic.
 
-A.C.T interest is high because defensive equipment can be more tempting than weapons. A
-shield appears safer to
-borrow, easier to justify, and useful for containment staff. The Guild context makes that
-assumption dangerous. A
-defensive system built for an OMEGA-level vanguard may depend on OMEGA-KERN, target categories, body-integrated
-reflexes, or Guild maintenance contact. Removed from that context, it may injure the user,
-misread allies as
-attackers, or convert defensive posture into a combat job.
+The name is read as a functional warning rather than a brand. A shield
+that blocks force is a barrier. A shield that returns, stores, redirects, translates, or
+scores incoming force is a system with a destination for the energy it receives,
+and the two destinations that matter are a bystander and the operator's own nervous
+system. The second is why this record treats a defensive item as a restraint
+problem: a shield that rewards a successful parry with score-like feedback teaches a body
+to respond before a person decides.
 
-## Known Behavior
+Defensive equipment is the most borrowable thing in the Guild armory, and that is
+the operative risk. A shield appears safer to take, easier to justify to a
+containment team, and useful in situations where a weapon would not be. Removed from
+the interface that defined its categories, it may misread allies as attackers, depend on
+reflexes the user does not have, or convert a defensive posture into a combat
+job.
 
-The source dossier places Feedbacker Shield data beside Argus KSG-16 records, OMEGA-KERN, sacral-scythe mobility,
-Bifocal Perception Suite, and Guild Registry logic. This cluster suggests the shield was part
-of an integrated
-platform rather than a standalone riot tool. It may have fed impact data back
-into the Gamification Protocol, rewarded
-successful parries, or shaped VESPER's movement decisions through score-like feedback.
+Controlled label: **FEEDBACKER RETURN-PATH PROHIBITION**.
 
-No safe energy profile has been confirmed. A.C.T does not know whether the shield
-handles bullets, blades, blunt
-trauma, heat, anomalous force, emotional attack, or software intrusion. It also does not know
-whether the Feedbacker
-label refers to physical force or neural feedback delivered to the operative.
+Core handling rule:
 
-## A.C.T Handling Rules
+```text
+NO FEEDBACKER-DERIVED CONCEPT ENTERS A.C.T FIELD GEAR WITHOUT JOINT RULING.
+A SHIELD THAT RETURNS FORCE OR SCORE IS A RESTRAINT SYSTEM AND IS FILED AS ONE.
+```
 
-No A.C.T containment team may deploy Feedbacker-derived concepts in field shields, training gear, or
-tactical armor
-until Engineering, Subject Care, and Tactical Review produce a joint safety ruling. Any recovered
-display, manual,
-simulation, or data-slate entry using Item-A01 language must be isolated from live systems.
+---
 
-Testing must not involve VESPER unless Subject Care determines that avoidance creates greater harm.
-Familiar defensive
-equipment may trigger combat-interface restoration even if no weapon is present. Staff must not
-ask VESPER to
-demonstrate Guild shield technique for training convenience.
+## FUNCTION SUMMARY
 
-## Failure and Open Questions
+Item-A01 appears in the recovered armory set as the defensive counterpart to Item-W01. The
+dossier places the two beside each other, which is the only structural fact A.C.T
+holds about the shield and a significant one: a shield issued to the same
+operative, under the same interface, and maintained by the same registry is not an
+independent riot tool.
 
-Failure modes include force rebound into bystanders, user nerve overload, automatic counterstrike, registry contact
-request, and psychological re-entry into Guild operating posture. A shield that teaches the body
-to respond before the
-person chooses is still a restraint system.
+The record's interest is in what happens to force that arrives at the shield.
+Blocking is the behaviour A.C.T would expect from a defensive item and is not
+the behaviour the name describes. Returning, storing, redirecting, translating, and scoring are all consistent
+with the label, and A.C.T holds no measurement that selects between them.
 
-Open questions include whether Item-A01 was physical, projected, biological, software-mediated, or formed through
-another device. A.C.T also lacks any answer to why Feedbacker Shield records survived if
-the Guild erased public
-records into Ghost Files. Archive confidence is Moderate for named record existence and Low
-for operational
-parameters.
+Because the answer is unknown, the containment posture is a prohibition on derivation. No
+field shield, training gear, or tactical armour in A.C.T service adopts a Feedbacker-derived concept
+until Engineering, Subject Care, and the Tactical Review Desk produce a joint ruling, and
+no such ruling exists.
+
+
+---
+
+## ORIGIN AND CUSTODY
+
+The item is known from recovered record data only. There is no confirmed complete
+unit in A.C.T custody, no fragment is described in the recovered material with enough
+specificity to identify one, and this file does not create a holding where none
+is confirmed. If a physical item is ever recovered, custody is filed under a
+separate object record and this file becomes the reference for what the recovered data
+implies.
+
+Tactical Review holds the record with Subject Care Division, under ACT-SITE-01-US-W, because the two
+desks answer different halves of the question: what the item would do to force,
+and what it would do to the person holding it. Engineering reviews any recovered
+display, manual, or data-slate entry in isolation. Archive holds the designation record.
+
+Reconstruction is prohibited without higher review, and no A.C.T staff member may attempt to
+reproduce the mechanism from the description in this file.
+
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+The described arrangement is a record-level structure. A.C.T lists what the recovered material supports
+and marks the rest:
+
+- Item-A01 designation, Guild armory numbering;
+- form unresolved, physical, projected, or biological;
+- impact-handling behaviour, name implies return;
+- return destination, unresolved;
+- operator feedback channel, indicated by the label;
+- target-category dependency on OMEGA-KERN, inferred;
+- ally identification method, none recovered;
+- energy profile, not measured;
+- registry maintenance dependency, indicated;
+- integration with the wider platform, unresolved.
+
+The operator feedback channel is the row that changes the classification. If Feedbacker refers
+to force returned into the world, the item is a defensive system with a
+collateral hazard. If it refers to feedback delivered to the operator, the item is
+a conditioning device that happens to stop things, and it belongs in the same
+category as the restraint language the Facility is prohibited from using around the subject.
+
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Values are restated from the Guild armory references in GOI-HY-U-051. No value derives from
+activation, impact testing, or reconstruction, and none may.
+
+| SHIELD PARAMETER | VALUE |
+|---|---|
+| Item designation | Item-A01, Feedbacker Shield |
+| Form | unresolved |
+| Blocks force | unconfirmed |
+| Returns force | implied by name, unmeasured |
+| Return destination | unresolved |
+| Operator feedback | indicated, not characterised |
+| Threat classes handled | none confirmed |
+| Ally discrimination | none recovered |
+| Complete units held | none confirmed |
+| Safe energy profile | NOT MEASURED |
+
+Threat classes handled is the row most likely to be guessed and the one
+A.C.T refuses to guess. Whether the shield addresses bullets, blades, blunt trauma, heat, anomalous
+force, or software intrusion determines whether it is useful to a containment team at
+all, and a wrong answer here produces equipment that fails in the direction of
+the person holding it.
+
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Reconstruction Controls
+
+- no construction from the recovered description
+- no field-gear derivation without joint ruling
+- isolated review of any recovered entry
+- Subject Care consultation before any test design
+
+### System Readouts
+
+- recovered reference inventory per source
+- derivation audit across A.C.T protective equipment
+- isolation state of reviewed material
+- joint-ruling status, currently absent
+
+### Handling Limits And Weaknesses
+
+- Do not deploy Feedbacker-derived concepts in field equipment.
+- Do not ask any subject to demonstrate Guild shield technique.
+- Do not test the concept on a person to characterise return.
+- Do not treat defensive appearance as evidence of safety.
+- Weakest where protective gear is procured under time pressure.
+- Weakest where ally discrimination is assumed to exist.
+
+Energy profiles, return destinations, and ally-discrimination behaviour are NOT MEASURED, and the joint ruling
+that would permit derivation does not exist.
+
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence covers the case that is most likely, which is not the recovery
+of a shield but the arrival of a description, diagram, or data-slate entry that
+an A.C.T team finds useful. It moves the material into isolation before anyone evaluates
+its protective value, because the evaluation is the moment borrowing begins.
+
+1. Log the recovered entry against its source fragment.
+2. Isolate it from every live and design network.
+3. Record what the entry claims without testing the claim.
+4. Flag the entry as derivation-prohibited.
+5. Notify Subject Care where the entry names the subject.
+6. Screen current A.C.T protective equipment for resemblance.
+7. Refer any reconstruction proposal to joint review.
+8. Report the borrowing risk, not the protective value.
+
+Step 6 is the one with a real audit surface. The failure this record
+anticipates is not a shield appearing in storage; it is a design decision made
+six months later by a team that read a description and no longer remembers
+where it came from.
+
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per recovered entry | isolate, log, flag |
+| Per procurement review | screen for derived concepts |
+| Monthly | re-check the derivation prohibition notice |
+| Quarterly | reconcile entry inventory against sources |
+| Annually | joint review, Engineering and Subject Care |
+
+The procurement screen is deliberately placed in servicing rather than in handling, because the
+risk has a long lead time and no single moment at which it is
+obviously occurring.
+
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Entry recovered | armory data arrival | isolate, flag |
+| Derived concept found | borrowing drift | withdraw, Engineering |
+| Demo requested | training interest | refuse, Subject Care |
+| Rebuild proposed | capability pressure | refuse, Command |
+| Ally misread assumed | no discrimination data | treat as unsafe |
+
+
+---
+
+## KNOWN LIMITS
+
+The record cannot characterise the item and will not try. Every method that would
+produce a measurement involves either building the thing or putting a person in front
+of it, and both are prohibited. A.C.T accepts an incomplete technical record here rather
+than produce a complete one at a cost the dossier already identifies as unacceptable.
+
+The record also cannot answer why the shield survived. Ghost File practice is described
+in recovered material as erasing public records after high-grade operations, and an armory item
+retained in the same archive that erased civilian domestic material is a contradiction A.C.T
+does not resolve by choosing a side. The contradiction is filed under OPEN QUESTIONS
+and is treated as evidence that erasure is selective rather than total.
+
+
+---
+
+## FAILURE HISTORY
+
+### PROTECTIVE-CATEGORY MISREAD — STANDING CONDITION
+
+No misread event has occurred, because no unit is held. The condition is filed
+because the shield's category set is inferred to come from the same interface layer
+that defines targets for the Argus platform, and an interface built to clear nodes
+has no evident reason to distinguish a colleague from an obstacle. A defensive item
+that cannot tell the difference is not defensive.
+
+### BORROWING PRESSURE — STANDING CONDITION
+
+No Feedbacker-derived equipment has been identified in A.C.T service. The condition is filed because
+protective equipment is procured under pressure and justified by threat, and a described shield
+that appears to solve a containment problem is the kind of source a team
+reaches for without recording that it did. The audit is therefore run against equipment,
+not against requests.
+
+### PLATFORM INTEGRATION — UNRESOLVED
+
+Whether Item-A01 was a physical plate, a projected barrier, a biological adaptation, a software-mediated
+state, or an effect formed through another device in the platform is unresolved. The
+dossier keeps the question open, and the answer determines whether the item could ever
+be separated from the operative it was issued to.
+
+
+---
+
+## DIVISION USE
+
+The Tactical Review Desk holds the record and the derivation prohibition. Engineering runs the
+procurement and design screen, which is the only part of this record with a
+recurring task against real equipment. Subject Care holds the veto on any subject-facing demonstration
+and reviews every test proposal involving a person.
+
+Medical Care advises on the operator-conditioning reading, since a feedback channel into the nervous
+system is a medical question as much as a tactical one. Security holds any
+recovered entry in isolation. Archive keeps the designation record and its contradiction with Ghost
+File practice paired, so that neither is read without the other. Command authorises nothing
+that is currently prohibited.
+
+
+---
+
+## CROSS-REFERENCES
+
+- GOI-HY-U-051 — Mysterious Guild, Group of Interest Registry;
+- TECH-GOI-051-1 — Mysterious Guild OMEGA-KERN Protocol Control Layer, Technology Record;
+- TECH-GOI-051-2 — Mysterious Guild Registry Maintenance Contact System, Technology Record;
+- TECH-GOI-051-3 — Mysterious Guild Argus KSG-16 Smart-Shotgun Data, Technology Record;
+- TECH-GOI-051-5 — Mysterious Guild Ghost File Record Erasure System, Technology Record;
+- AFD-SU-020 — Maid Of Gear VESPER, Archive Record;
+- AFD-OB-312 — AFS 312 Experiment Testing Dossier, Archive Record.
+
+The erasure record is cited because the shield's survival contradicts it, and the control-layer
+record is cited because the shield's category set appears to be borrowed from there.
+A defensive item whose definitions live in another system is not independently assessable.
+
+
+---
+
+## OPEN QUESTIONS
+
+- Was Item-A01 physical, projected, biological, or software-mediated?
+- Does Feedbacker describe returned force or feedback into the operator?
+- Which threat classes did it handle, and which did it ignore?
+- Did it depend on OMEGA-KERN categories to identify an attacker?
+- Why did its records survive an archive that erased civilian material?
+- Could the shield be separated from the operative it was issued to?
+
+
+---
+
+## FILE METADATA
+
+- **Created:** 2023-10-03
+- **Author Desk:** Tactical Review Desk / Subject Care Division / Central Archive
+- **Review Status:** Active restricted future-origin defensive-system record; reconstruction proposals sealed at
+  Level 5
+- **Next Review:** After any recovered armory entry, any derived-concept finding, or any joint-ruling request

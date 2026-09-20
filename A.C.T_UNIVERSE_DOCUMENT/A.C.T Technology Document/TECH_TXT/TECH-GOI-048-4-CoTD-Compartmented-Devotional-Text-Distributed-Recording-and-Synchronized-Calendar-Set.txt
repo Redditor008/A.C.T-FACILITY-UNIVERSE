@@ -299,13 +299,13 @@ operation. Command authorises any use of target-directed rite material and refus
 
 CROSS-REFERENCES
 
-- - GOI-CU-X-048 — Children of the Deep, Group of Interest Registry;
-- - TECH-GOI-048-1 — CoTD Low-Frequency Sounding and Timing Apparatus, Technology Record;
-- - TECH-GOI-048-2 — CoTD Inland Mouth Overlay Map Set, Technology Record;
-- - TECH-GOI-048-3 — CoTD Pressure Ritual Equipment and Sealed Container Set, Technology Record;
-- - TECH-GOI-048-5 — CoTD Concealed Contribution and Procurement System, Technology Record;
-- - ACT-SITE-03-JP-E / Kurokawa Archive Node, Document Contamination Review, Site Record;
-- - Departure support assessment restricted extract [Level 5].
+- GOI-CU-X-048 — Children of the Deep, Group of Interest Registry;
+- TECH-GOI-048-1 — CoTD Low-Frequency Sounding and Timing Apparatus, Technology Record;
+- TECH-GOI-048-2 — CoTD Inland Mouth Overlay Map Set, Technology Record;
+- TECH-GOI-048-3 — CoTD Pressure Ritual Equipment and Sealed Container Set, Technology Record;
+- TECH-GOI-048-5 — CoTD Concealed Contribution and Procurement System, Technology Record;
+- ACT-SITE-03-JP-E / Kurokawa Archive Node, Document Contamination Review, Site Record;
+- Departure support assessment restricted extract [Level 5].
 
 The Visual Reference Guide does not carry this set. It illustrates equipment personnel handle,
 and nothing here is handled: a recording is sealed, a text is mapped for

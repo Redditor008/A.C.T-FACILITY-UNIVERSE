@@ -273,13 +273,13 @@ exception and the source-harm prohibition.
 
 ## CROSS-REFERENCES
 
-- - GOI-CP-B-049 — DREAM .INC, Group of Interest Registry;
-- - TECH-GOI-049-2 — DREAM .INC Dream Nectar Sealed Batch System, Technology Record;
-- - TECH-GOI-049-3 — DREAM .INC Wish Intake and Confidential Report System, Technology Record;
-- - TECH-GOI-049-4 — DREAM .INC Twelve-Building Appointment Routing Network, Technology Record;
-- - TECH-GOI-049-5 — DREAM .INC Quiet Machine Condition Indicator System, Technology Record;
-- - Anomaly Classification Manual Archive, Classification and Custody Record;
-- - Apparatus maintenance indicator restricted extract [Level 5].
+- GOI-CP-B-049 — DREAM .INC, Group of Interest Registry;
+- TECH-GOI-049-2 — DREAM .INC Dream Nectar Sealed Batch System, Technology Record;
+- TECH-GOI-049-3 — DREAM .INC Wish Intake and Confidential Report System, Technology Record;
+- TECH-GOI-049-4 — DREAM .INC Twelve-Building Appointment Routing Network, Technology Record;
+- TECH-GOI-049-5 — DREAM .INC Quiet Machine Condition Indicator System, Technology Record;
+- Anomaly Classification Manual Archive, Classification and Custody Record;
+- Apparatus maintenance indicator restricted extract [Level 5].
 
 The Master Index does not carry this record. It numbers technology A.C.T issues and
 maintains, and this machine is neither issued nor maintained: it is an unheld object

@@ -270,13 +270,13 @@ departure opportunities. Command authorises any approach to the cult and holds t
 
 ## CROSS-REFERENCES
 
-- - GOI-CU-X-048 — Children of the Deep, Group of Interest Registry;
-- - TECH-GOI-048-1 — CoTD Low-Frequency Sounding and Timing Apparatus, Technology Record;
-- - TECH-GOI-048-2 — CoTD Inland Mouth Overlay Map Set, Technology Record;
-- - TECH-GOI-048-3 — CoTD Pressure Ritual Equipment and Sealed Container Set, Technology Record;
-- - TECH-GOI-048-4 — CoTD Compartmented Text, Recording, and Calendar Set, Technology Record;
-- - TECH-GOI-027-4 — Anstrall Market Concealed Payment and Provenance Chain, Technology Record;
-- - ACT-SITE-01-US-W / Redwood Veil Complex, Trade-Interdiction Jurisdiction, Site Record;
+- GOI-CU-X-048 — Children of the Deep, Group of Interest Registry;
+- TECH-GOI-048-1 — CoTD Low-Frequency Sounding and Timing Apparatus, Technology Record;
+- TECH-GOI-048-2 — CoTD Inland Mouth Overlay Map Set, Technology Record;
+- TECH-GOI-048-3 — CoTD Pressure Ritual Equipment and Sealed Container Set, Technology Record;
+- TECH-GOI-048-4 — CoTD Compartmented Text, Recording, and Calendar Set, Technology Record;
+- TECH-GOI-027-4 — Anstrall Market Concealed Payment and Provenance Chain, Technology Record;
+- ACT-SITE-01-US-W / Redwood Veil Complex, Trade-Interdiction Jurisdiction, Site Record;
 
 The Anstrall Market record is cited as a contrast in motive rather than method.
 Both chains hide behind genuine commerce and both defeat trace-back at the same point;

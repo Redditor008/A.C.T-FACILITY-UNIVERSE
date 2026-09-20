@@ -273,13 +273,13 @@ collection limit.
 
 ## CROSS-REFERENCES
 
-- - GOI-CP-B-049 — DREAM .INC, Group of Interest Registry;
-- - TECH-GOI-049-1 — DREAM .INC Dream Nectar Extraction Apparatus, Technology Record;
-- - TECH-GOI-049-2 — DREAM .INC Dream Nectar Sealed Batch System, Technology Record;
-- - TECH-GOI-049-4 — DREAM .INC Twelve-Building Appointment Routing Network, Technology Record;
-- - TECH-GOI-049-5 — DREAM .INC Quiet Machine Condition Indicator System, Technology Record;
-- - TECH-GOI-056-3 — Saint Vera Memory-Sensitive Consent Form System, Technology Record;
-- - ACT-SITE-03-JP-E / Kurokawa Archive Node, Document Contamination Review, Site Record;
+- GOI-CP-B-049 — DREAM .INC, Group of Interest Registry;
+- TECH-GOI-049-1 — DREAM .INC Dream Nectar Extraction Apparatus, Technology Record;
+- TECH-GOI-049-2 — DREAM .INC Dream Nectar Sealed Batch System, Technology Record;
+- TECH-GOI-049-4 — DREAM .INC Twelve-Building Appointment Routing Network, Technology Record;
+- TECH-GOI-049-5 — DREAM .INC Quiet Machine Condition Indicator System, Technology Record;
+- TECH-GOI-056-3 — Saint Vera Memory-Sensitive Consent Form System, Technology Record;
+- ACT-SITE-03-JP-E / Kurokawa Archive Node, Document Contamination Review, Site Record;
 
 The Saint Vera consent system is cited as the standard this record measures against.
 That system exists to make a vulnerable person's agreement legible to them; this one

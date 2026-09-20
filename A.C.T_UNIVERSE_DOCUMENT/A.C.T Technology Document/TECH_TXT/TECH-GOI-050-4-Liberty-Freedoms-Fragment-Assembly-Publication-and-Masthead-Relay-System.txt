@@ -297,13 +297,13 @@ leak events. Command adjudicates any response that goes beyond approved wording.
 
 CROSS-REFERENCES
 
-- - GOI-ML-X-050 — Liberty Freedoms, Group of Interest Registry;
-- - TECH-GOI-050-1 — L.F. Adapted Facility Transport Fixture and Restraint Set, Technology Record;
-- - TECH-GOI-050-2 — L.F. Facility-Format Identification and Route Knowledge Set, Technology Record;
-- - TECH-GOI-050-3 — L.F. Carried-Subject Transport and Temporary Care System, Technology Record;
-- - TECH-GOI-050-5 — L.F. Staged-Truth Recruitment and Compartmentation System, Technology Record;
-- - TECH-GOI-014-4 — A-GA Data Extraction, Document Copying, and Leak Production Set, Technology Record;
-- - Pre-release publication seizure restricted extract [Level 5].
+- GOI-ML-X-050 — Liberty Freedoms, Group of Interest Registry;
+- TECH-GOI-050-1 — L.F. Adapted Facility Transport Fixture and Restraint Set, Technology Record;
+- TECH-GOI-050-2 — L.F. Facility-Format Identification and Route Knowledge Set, Technology Record;
+- TECH-GOI-050-3 — L.F. Carried-Subject Transport and Temporary Care System, Technology Record;
+- TECH-GOI-050-5 — L.F. Staged-Truth Recruitment and Compartmentation System, Technology Record;
+- TECH-GOI-014-4 — A-GA Data Extraction, Document Copying, and Leak Production Set, Technology Record;
+- Pre-release publication seizure restricted extract [Level 5].
 
 The A-GA leak set is cited as the contrast in intent. Both produce exposure,
 but that set leaks to destroy confidence in containment itself, while this one leaks

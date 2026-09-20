@@ -277,13 +277,13 @@ authorised.
 
 ## CROSS-REFERENCES
 
-- - GOI-CP-B-049 — DREAM .INC, Group of Interest Registry;
-- - TECH-GOI-049-1 — DREAM .INC Dream Nectar Extraction Apparatus, Technology Record;
-- - TECH-GOI-049-3 — DREAM .INC Wish Intake and Confidential Report System, Technology Record;
-- - TECH-GOI-049-4 — DREAM .INC Twelve-Building Appointment Routing Network, Technology Record;
-- - TECH-GOI-049-5 — DREAM .INC Quiet Machine Condition Indicator System, Technology Record;
-- - TECH-GOI-054-5 — Lullaby Works Warranty, Recall, and Failure Ledger, Technology Record;
-- - Dream Nectar batch recovery restricted extract [Level 5].
+- GOI-CP-B-049 — DREAM .INC, Group of Interest Registry;
+- TECH-GOI-049-1 — DREAM .INC Dream Nectar Extraction Apparatus, Technology Record;
+- TECH-GOI-049-3 — DREAM .INC Wish Intake and Confidential Report System, Technology Record;
+- TECH-GOI-049-4 — DREAM .INC Twelve-Building Appointment Routing Network, Technology Record;
+- TECH-GOI-049-5 — DREAM .INC Quiet Machine Condition Indicator System, Technology Record;
+- TECH-GOI-054-5 — Lullaby Works Warranty, Recall, and Failure Ledger, Technology Record;
+- Dream Nectar batch recovery restricted extract [Level 5].
 
 The Lullaby Works ledger is cited as the contrast this record lacks. That company
 tracked its own failures and recalled against them; DREAM .INC has no standard to

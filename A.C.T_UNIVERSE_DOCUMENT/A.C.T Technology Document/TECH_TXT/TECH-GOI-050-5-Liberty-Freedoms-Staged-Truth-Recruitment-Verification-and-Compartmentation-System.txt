@@ -297,13 +297,13 @@ and any Transformation Division exception.
 
 CROSS-REFERENCES
 
-- - GOI-ML-X-050 — Liberty Freedoms, Group of Interest Registry;
-- - TECH-GOI-050-1 — L.F. Adapted Facility Transport Fixture and Restraint Set, Technology Record;
-- - TECH-GOI-050-2 — L.F. Facility-Format Identification and Route Knowledge Set, Technology Record;
-- - TECH-GOI-050-3 — L.F. Carried-Subject Transport and Temporary Care System, Technology Record;
-- - TECH-GOI-050-4 — L.F. Fragment-Assembly Publication and Masthead Relay, Technology Record;
-- - TECH-GOI-001-4 — GAA Compartmented Awareness and Document-Routing Channel, Technology Record;
-- - Transport interception and subject recovery restricted extract [Level 5].
+- GOI-ML-X-050 — Liberty Freedoms, Group of Interest Registry;
+- TECH-GOI-050-1 — L.F. Adapted Facility Transport Fixture and Restraint Set, Technology Record;
+- TECH-GOI-050-2 — L.F. Facility-Format Identification and Route Knowledge Set, Technology Record;
+- TECH-GOI-050-3 — L.F. Carried-Subject Transport and Temporary Care System, Technology Record;
+- TECH-GOI-050-4 — L.F. Fragment-Assembly Publication and Masthead Relay, Technology Record;
+- TECH-GOI-001-4 — GAA Compartmented Awareness and Document-Routing Channel, Technology Record;
+- Transport interception and subject recovery restricted extract [Level 5].
 
 The compartmented awareness system is cited because both keep members unable to describe the
 whole. That set limits knowledge so an operation survives exposure; this one limits knowledge

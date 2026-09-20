@@ -4750,3 +4750,98 @@ records each: 051, 052, 053, 055. Separately, the full dossiers that do not yet 
 chapters are GOI sets 054, 056, 071.
 
 **Next action.** Rebuild the TECH-GOI-051 set, Mysterious Guild.
+
+## Prompt Log — 2026-09-20 10:45 UTC
+
+TECH-GOI-051, Mysterious Guild, rebuilt.
+
+The five records move from four-chapter summaries of 534 to 598 words each to full dossiers of 2183
+to 2606 words across 14 chapters, on the house shape used for GOI-001, GOI-014, GOI-027, GOI-048,
+GOI-049, and GOI-050. Every fact in the old records survives: OMEGA-KERN v4.2 and the Gamification
+Protocol, the Guild Registry maintenance instruction from AFD-OB-312, Item-W01 and Item-A01, the
+Ghost File condition, the air-gap and no-contact rules, and the prohibition on using the protocol as
+a containment convenience.
+
+The set is written as record evidence rather than hardware, and that is what the source allows.
+
+GOI-HY-U-051 is a displaced and internally contradictory archive signature, so no record here claims
+a measurement. Each one separates what recovered material confirms from what it implies, marks
+unheld values NOT MEASURED, and files the gap under OPEN QUESTIONS. The dossier's own caution is
+carried through: recovered claims are not treated as true merely because several technical details
+match contained evidence.
+
+Each record carries its own argument, and no two share a thesis.
+
+The control-layer record holds that OMEGA-KERN is a display grammar before it is software, so it
+substitutes interface categories for perceptual ones and can be partly re-instantiated by any desk
+that reports in its vocabulary; vocabulary discipline is therefore filed as a technical control
+alongside isolation. The registry record holds that MAINTENANCE OVERDUE is a deferred instruction
+whose timer survived its environment, so the hazard is not that the Guild answers but that a
+competent engineer supplies the missing path, and that maintenance in Guild language is an unbounded
+action.
+
+The remaining three records argue their own cases.
+
+The Argus record holds that the weapon's protected categories are not in the weapon, because a
+gamified interface defines surrender, bystander, hostage, and medical staff, so the platform cannot
+be certified safe or unsafe and no targeting model may be imported. The Feedbacker record reads the
+name as a functional warning: a shield that returns or scores force has a destination for the energy
+it receives, and feedback delivered to the operator makes a defensive item a conditioning device,
+which is why borrowing pressure is the audited risk.
+
+The Ghost File record is the only one whose target is an institution.
+
+Erasure removes the basis for inference rather than withholding information, so the counter is
+heterogeneous redundancy plus a filing rule that a missing public record is contested evidence and
+never a property of the person. The contradiction that the recovered archive survived its own
+erasure practice is filed as the finding, because selectivity is the only thing the evidence
+supports.
+
+Two defects were found in already-shipped files and repaired in both twins.
+
+Cross-reference bullets in the 027, 048, 049, and 050 sets carried a doubled dash, rendering as '- -
+GOI-ML-X-050 ...' in 282 lines across 40 files. The lists were passed to the renderer already
+prefixed. All 282 lines were normalised and the pattern now returns 0 occurrences repository-wide.
+Sets 001 and 014 were unaffected.
+
+The dry run caught a builder fault before any file was written.
+
+The plain-text box wrapper never flushed its final line, so every box body row rendered empty. It
+surfaced as the twin check reporting all registry cells missing from the twin, was fixed, and the
+real run followed. The same guard now runs an exact cell-by-cell comparison against parsed box
+columns rather than a flattened whole-file search, which is what makes a fault of this kind visible.
+
+The census walker was wrong again, in the opposite direction this time.
+
+An empty first column on a box continuation line means column two wrapped, which is harmless; the
+signature of a first-column wrap is a continuation line carrying text in column one. Corrected and
+re-run, the census over the seven rebuilt sets returns 175 tables and 1328 rows, being 175 header
+rows and 1153 body rows, with 0 first-column wraps.
+
+Verification.
+
+Each record was checked for chapter count and order, a single H1, one archive note, exactly eight H3
+sections including one Numbered Operating Sequence with eight steps, fourteen chapter separators,
+exactly five tables matched by five plain-text boxes, a single fenced handling rule, no markdown
+artefacts carried into the twin, every heading present as a bare line in the twin, every table cell
+present in the twin once box columns are rejoined, box rules exactly 118 wide, no O5 reference,
+correct cross-reference designations, generated dates inside the 1598 to 2026 archive cycle and
+identical in both twins, and a single trailing newline.
+
+Validation.
+
+DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, CONFLICT 0, multiH1 0, odd-fence 0, md-
+with-box 0, glued separator lines 0, placeholders 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204,
+GOI_MD 34 = GOI_TXT 34, widest box line 118, date-rule violations 0, twin date mismatches 0,
+truncated registry cells 0 across 7350 shared-label rows, gated records 172 with 0 missing sections,
+git diff --check rc=0.
+
+Remaining GOI technology backlog.
+
+Three stub sets remain on the old four-chapter shape, five records each: 052, 053, 055. Separately,
+the full dossiers that do not yet carry the retrofit chapters are GOI sets 054, 056, and 071, which
+still hold glued separator lines in their markdown OPEN QUESTIONS blocks.
+
+Next action.
+
+Rebuild the TECH-GOI-052 set.

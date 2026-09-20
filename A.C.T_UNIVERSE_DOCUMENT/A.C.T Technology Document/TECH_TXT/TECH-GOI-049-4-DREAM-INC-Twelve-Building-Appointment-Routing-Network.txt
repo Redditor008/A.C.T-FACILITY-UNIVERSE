@@ -299,13 +299,13 @@ prohibition.
 
 CROSS-REFERENCES
 
-- - GOI-CP-B-049 — DREAM .INC, Group of Interest Registry;
-- - TECH-GOI-049-1 — DREAM .INC Dream Nectar Extraction Apparatus, Technology Record;
-- - TECH-GOI-049-2 — DREAM .INC Dream Nectar Sealed Batch System, Technology Record;
-- - TECH-GOI-049-3 — DREAM .INC Wish Intake and Confidential Report System, Technology Record;
-- - TECH-GOI-049-5 — DREAM .INC Quiet Machine Condition Indicator System, Technology Record;
-- - TECH-GOI-001-3 — GAA Civil Continuity Cover Mechanism Set, Technology Record;
-- - Open building survey restricted extract [Level 5].
+- GOI-CP-B-049 — DREAM .INC, Group of Interest Registry;
+- TECH-GOI-049-1 — DREAM .INC Dream Nectar Extraction Apparatus, Technology Record;
+- TECH-GOI-049-2 — DREAM .INC Dream Nectar Sealed Batch System, Technology Record;
+- TECH-GOI-049-3 — DREAM .INC Wish Intake and Confidential Report System, Technology Record;
+- TECH-GOI-049-5 — DREAM .INC Quiet Machine Condition Indicator System, Technology Record;
+- TECH-GOI-001-3 — GAA Civil Continuity Cover Mechanism Set, Technology Record;
+- Open building survey restricted extract [Level 5].
 
 The GAA cover mechanism set is cited as the mirror case. Both hide an
 operation inside ordinary civil infrastructure, but that set is issued by an authority answerable

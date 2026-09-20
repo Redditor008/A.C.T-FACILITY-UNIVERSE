@@ -272,13 +272,13 @@ to Kurokawa review. Command authorises any site approach.
 
 ## CROSS-REFERENCES
 
-- - GOI-CU-X-048 — Children of the Deep, Group of Interest Registry;
-- - TECH-GOI-048-1 — CoTD Low-Frequency Sounding and Timing Apparatus, Technology Record;
-- - TECH-GOI-048-3 — CoTD Pressure Ritual Equipment and Sealed Container Set, Technology Record;
-- - TECH-GOI-048-4 — CoTD Compartmented Text, Recording, and Calendar Set, Technology Record;
-- - TECH-GOI-048-5 — CoTD Concealed Contribution and Procurement System, Technology Record;
-- - ACT-SITE-03-JP-E / Kurokawa Archive Node, Document Contamination Review, Site Record;
-- - Inland mouth review restricted extract [Level 5].
+- GOI-CU-X-048 — Children of the Deep, Group of Interest Registry;
+- TECH-GOI-048-1 — CoTD Low-Frequency Sounding and Timing Apparatus, Technology Record;
+- TECH-GOI-048-3 — CoTD Pressure Ritual Equipment and Sealed Container Set, Technology Record;
+- TECH-GOI-048-4 — CoTD Compartmented Text, Recording, and Calendar Set, Technology Record;
+- TECH-GOI-048-5 — CoTD Concealed Contribution and Procurement System, Technology Record;
+- ACT-SITE-03-JP-E / Kurokawa Archive Node, Document Contamination Review, Site Record;
+- Inland mouth review restricted extract [Level 5].
 
 The Master Index does not carry this set. It numbers technology A.C.T issues and
 maintains, and a ritual map is neither: it is a belief artefact read for

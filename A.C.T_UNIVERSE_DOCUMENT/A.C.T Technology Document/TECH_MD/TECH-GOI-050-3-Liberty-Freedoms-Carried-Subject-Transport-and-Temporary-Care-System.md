@@ -264,13 +264,13 @@ covers civilian witnesses at abandonment sites. Command holds the disposability 
 
 ## CROSS-REFERENCES
 
-- - GOI-ML-X-050 — Liberty Freedoms, Group of Interest Registry;
-- - TECH-GOI-050-1 — L.F. Adapted Facility Transport Fixture and Restraint Set, Technology Record;
-- - TECH-GOI-050-2 — L.F. Facility-Format Identification and Route Knowledge Set, Technology Record;
-- - TECH-GOI-050-4 — L.F. Fragment-Assembly Publication and Masthead Relay, Technology Record;
-- - TECH-GOI-050-5 — L.F. Staged-Truth Recruitment and Compartmentation System, Technology Record;
-- - TECH-GOI-071-5 — Mercy Lock Shielded Ambulance Transfer System, Technology Record;
-- - ACT-SITE-04-BR-C / Verde Null Bio-Reserve, Bio-Reserve Handling, Site Record;
+- GOI-ML-X-050 — Liberty Freedoms, Group of Interest Registry;
+- TECH-GOI-050-1 — L.F. Adapted Facility Transport Fixture and Restraint Set, Technology Record;
+- TECH-GOI-050-2 — L.F. Facility-Format Identification and Route Knowledge Set, Technology Record;
+- TECH-GOI-050-4 — L.F. Fragment-Assembly Publication and Masthead Relay, Technology Record;
+- TECH-GOI-050-5 — L.F. Staged-Truth Recruitment and Compartmentation System, Technology Record;
+- TECH-GOI-071-5 — Mercy Lock Shielded Ambulance Transfer System, Technology Record;
+- ACT-SITE-04-BR-C / Verde Null Bio-Reserve, Bio-Reserve Handling, Site Record;
 
 The Mercy Lock transfer system is cited as the standard this record measures against.
 That system moves a patient under clinical authority with consent established before departure; this

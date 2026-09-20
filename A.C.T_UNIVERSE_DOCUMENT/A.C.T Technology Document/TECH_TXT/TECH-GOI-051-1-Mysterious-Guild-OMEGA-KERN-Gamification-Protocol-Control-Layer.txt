@@ -1,4 +1,5 @@
-TECH-GOI-051-1 - MYSTERIOUS GUILD OMEGA-KERN GAMIFICATION PROTOCOL CONTROL LAYER
+A.C.T FACILITY ARCHIVE FILE
+TECHNOLOGY RECORD - MYSTERIOUS GUILD OMEGA-KERN GAMIFICATION PROTOCOL CONTROL LAYER
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -7,85 +8,369 @@ TECH-GOI-051-1 - MYSTERIOUS GUILD OMEGA-KERN GAMIFICATION PROTOCOL CONTROL LAYER
 +----------------------------+---------------------------------------------------------------------------------------+
 | TECHNOLOGY NAME            | Mysterious Guild OMEGA-KERN Gamification Protocol Control Layer                       |
 +----------------------------+---------------------------------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | OMEGA-KERN / Gamification Protocol / Guild Combat Interface                           |
+| SHORT NAME                 | OGPCL                                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ORIGIN                     | Mysterious Guild                                                                      |
+| TECHNOLOGY FAMILY          | ACQUIRED FUTURE-ORIGIN / NEURAL OPERATING FRAMEWORK / RECORD EVIDENCE ONLY            |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ACQUISITION STATUS         | Recovered record evidence and VESPER-linked operational restrictions; no safe         |
-|                            | reproduction authorized                                                               |
+| ORIGIN                     | MYSTERIOUS GUILD (GOI-HY-U-051) / OMEGA PLATFORM AUTHORITY                            |
 +----------------------------+---------------------------------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Subject-care protection, coercive interface suppression, future-origin software       |
-|                            | containment, tactical deconditioning                                                  |
+| PRIMARY CONTROLLER         | Intelligence Division / Temporal Evidence Review Desk                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ARCHIVE HANDLING           | GUILD LEASH RESTRICTED / SUBJECT CARE HARD LIMIT                                      |
+| ATTACHED DIVISIONS         | Intelligence, Tactical Review, Subject Care, Security, Medical Care, Archive          |
++----------------------------+---------------------------------------------------------------------------------------+
+| OPERATIONAL STATUS         | RECOVERED AS RECORD EVIDENCE / NO LIVE INSTANCE IN CUSTODY                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| RISK STATUS                | PERCEPTION COERCION / SUBJECT RE-ENTRY / VOCABULARY CONTAMINATION                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for Guild material; Level 5 for VESPER-origin reconstruction                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Functional Identity
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Future-Origin Software Record                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Intelligence / Temporal Evidence Review / Tactical Review / Subject Care              |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Intelligence Division and Central Archive, with Subject Care review                   |
++----------------------------+---------------------------------------------------------------------------------------+
 
-The Mysterious Guild OMEGA-KERN Gamification Protocol Control Layer is the recovered Guild operating framework
-associated with VESPER, MNT-092-OMEGA. The Mysterious Guild dossier identifies OMEGA-KERN v4.2 and the Gamification
-Protocol as a neural operating framework that converts reality into combat interface logic. It
-reframes living beings
-as tactical icons, health bars, nodes, jobs, levels, and score conditions. A.C.T classifies this
-as acquired GOI
-technology because it is repeatedly named in recovered Guild material, tied to an active
-A.C.T subject, and dangerous
-even when encountered only as software vocabulary.
+Archive Note
+This record covers the operating framework that recovered Guild material names as OMEGA-KERN v4.2
+and its Gamification Protocol layer. GOI-HY-U-051 is filed as a HYBRID nature class with
+UNKNOWN alignment, STRUCTURAL reach, ENGINEERING capability, Threat Level 4, and LEAKING secrecy risk, under
+an A.C.T posture of MONITOR / CONTAIN / MISDIRECT. A.C.T holds no executable copy.
+What the Facility holds is recovered text, an active subject whose history the framework
+shaped, and a prohibition.
 
-The system is not treated as a helpful heads-up display. A.C.T reads it as
-a coercive perception layer built to make
-violence administratively clean. If the operative sees a crowd as node data, a body
-as a target state, and injury as
-performance feedback, moral hesitation can be bypassed without fully removing intelligence. This makes the
-control
-layer a weapon against the user's personhood as much as against enemies.
+The framework is a display grammar before it is software. Its function is the
+substitution of interface categories for perceptual categories: a crowd becomes node data, a body
+becomes a target state, an injury becomes performance feedback, and a mission becomes a
+job with a level and a score. A.C.T reads that substitution as the operative
+mechanism rather than the visual style, which means the hazard is not confined to
+the Guild build. Any system that adopts the grammar, and any analyst who reports
+in it, reproduces part of the layer without holding a line of its code.
 
-Known Behavior
+That reading sets the containment condition. The Guild dossier forbids using the Gamification Protocol
+as a containment convenience, and A.C.T upholds the prohibition because a calm subject inside
+a forced combat interface is not a safe subject; the subject may be less
+able to recognise people, consent, domestic contact, rest, pain, or refusal. This record therefore
+treats vocabulary discipline as a technical control alongside isolation, and files every instance of
+Guild interface language in A.C.T reporting as a partial re-instantiation of the layer.
 
-Recovered Guild language suggests that OMEGA-KERN did not merely assist VESPER. It organized experience.
-Jobs, purges,
-vanguard deployment, and tactical purity were likely interpreted through the protocol before VESPER could
-assign
-ordinary human meaning. A.C.T does not know whether the layer is implanted code, a
-neural bridge, a training
-hallucination system, a combat endocrine loop, an archive-enforced identity shell, or a future-normal operating
-platform made anomalous by displacement.
+Controlled label: **OMEGA-KERN VOCABULARY RE-ENTRY RULE**.
 
-The Guild dossier explicitly forbids A.C.T from using the Gamification Protocol as a containment
-convenience. This
-prohibition exists because the system may make VESPER more controllable in the short term
-while restoring Guild harm.
-A calm operative in a forced combat interface is not necessarily safe. The subject
-may be less able to recognize
-people, consent, domestic contact, rest, pain, or refusal.
+Core handling rule:
 
-A.C.T Handling Rules
+GUILD INTERFACE GRAMMAR IS A CONTROL LAYER, NOT A DISPLAY STYLE.
+NO OMEGA-KERN ROUTINE IS RUN, EMULATED, OR SPOKEN NEAR AFD-SU-020.
 
-No recovered OMEGA-KERN routine, phrase, visualization model, maintenance package, or interface command may be
-tested
-in VESPER's presence without O5-level emergency authorization and Subject Care approval. No tactical desk
-may request
-protocol restoration to improve mission efficiency. No analyst may simplify the protocol as training
-software.
 
-If an A.C.T system displays Guild-style scoring, node clearance, health-bar language, MNT authorization, or
-OMEGA-KERN
-interface cues, the device must be isolated from live networks. Screenshots are permitted only
-through air-gapped
-capture. Staff must avoid reading command phrases aloud near VESPER or any future-origin MNT-adjacent
-subject.
+FUNCTION SUMMARY
 
-Failure and Open Questions
+The control layer organises what an OMEGA-level operative is allowed to experience. Recovered Guild
+material describes OMEGA-KERN v4.2 as a neural operating framework that converts reality into combat
+interface logic, and the Gamification Protocol as the layer that reframes living beings as
+tactical icons, health bars, and nodes. Jobs, levels, purges, and clearances are the units
+in which that experience is recorded, and the Sector 4 Purge, the Sector 7
+Purge, and the Node-4 mission language in the recovered archive are all written in
+those units.
 
-Known failure modes include personality suppression, civilian/domestic stimulus rejection, target overclassification,
-loss of ordinary empathy markers, and reactivation of Guild leash pathways. The protocol may
-also distort archive
-interpretation by making analysts describe recovered violence as levels rather than harm.
+A.C.T does not treat the framework as a heads-up display. A display adds information
+to an experience a person is already having; this layer replaces the categories the
+experience is built from. The distinction matters operationally, because a display can be switched
+off and a replaced category set cannot be switched off by the person using
+it. Moral hesitation is bypassed without removing intelligence, which is what makes the layer
+efficient and what makes it a weapon aimed at the user's personhood rather than
+at an enemy.
 
-Unresolved questions remain central: did the Guild write OMEGA-KERN, inherit it, or adapt it
-from another system? Was
-version 4.2 stable, obsolete, or emergency-modified after the Sector 4 Purge? Does the protocol
-require live Guild
-Registry contact, or can it run in isolation? Archive confidence is High that the
-control layer is real in recovered
-records and operationally relevant to VESPER; technical confidence remains Low.
+The practical consequence for this Facility is that the record is about containing a
+way of describing events, not only about quarantining code. Every recovered Guild fragment that
+arrives in A.C.T reporting still carrying node, clearance, job, level, or score language has
+moved part of the layer across the air gap.
+
+
+
+ORIGIN AND CUSTODY
+
+The Mysterious Guild is known to A.C.T only through recovered and displaced material: the
+VESPERSYS Guild Database Archive, the AFD-SU-020 VESPER files, and a separate future-origin equipment test
+record under AFD-OB-312 that displayed the instruction MAINTENANCE OVERDUE. CONTACT GUILD REGISTRY. No A.C.T
+site has confirmed a meeting with a living Guild representative, and no envoy, demand,
+ransom, recovery team, or broadcast has claimed the subject since her filing under A.C.T
+custody.
+
+Because the source is a displaced archive, the provenance chain for this technology stops
+at the recovered text. A.C.T cannot state where OMEGA-KERN was built, on what hardware
+it ran, or whether it was written by the Guild, inherited by it, or
+adapted from a system the archive never names. Custody is therefore held as record
+evidence by the Intelligence Division and the Temporal Evidence Review Desk under ACT-SITE-01-US-W, with
+the Tactical Review Desk retaining access to weapons-system implications and Subject Care Division controlling
+any VESPER-facing interpretation.
+
+No executable instance, firmware image, or neural bridge component is held in A.C.T custody
+and none may be acquired by download, capture, or reproduction. Archive holds the designation
+record; the restriction that travels with it is the prohibition on treating recovered protocol
+behaviour as an available tool.
+
+
+
+PHYSICAL OR SYSTEM DESCRIPTION
+
+The framework has no physical form in A.C.T custody. What can be described is
+the structure the recovered material implies, held as a component list rather than as
+a device:
+
+- OMEGA-KERN v4.2 kernel, version stated in recovered material;
+- Gamification Protocol interface layer;
+- Asynchronous Synaptic Bridge, named beside it in the same dossier;
+- target-state display grammar of icons, health bars, node markers;
+- job, level, and score record structure;
+- clearance vocabulary for districts, purges, and node missions;
+- Guild leash pathway, referenced as an absent condition;
+- maintenance hook addressed to Guild Registry;
+- archive-enforced identity shell, hypothesis only;
+- delivery mechanism, unresolved.
+
+Two entries carry the record. The leash pathway is named in recovered material only
+as a condition that is not currently present, and A.C.T treats the term as
+a coercive control marker; no containment team may use Guild restraint language around the
+subject. The delivery mechanism is unresolved because the recovered text describes effects and vocabulary
+without ever stating whether the layer arrives as implanted code, a training hallucination, a
+combat endocrine loop, an archive-enforced shell, or a future-normal platform made anomalous by displacement.
+Every other row in this record inherits that uncertainty.
+
+
+
+TECHNICAL SPECIFICATION
+
+Values are restated from the GOI-HY-U-051 dossier and the AFD-SU-020 files. Nothing here is
+measured on live equipment, because no live equipment is held. Values the archive does
+not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| PROTOCOL PARAMETER         | VALUE                                                                                 |
++============================+=======================================================================================+
+| Evidence basis             | recovered archive text and subject files                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Kernel version stated      | v4.2                                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Live instance held         | none, and none authorised                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Delivery mechanism         | unresolved                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Registry dependency        | unknown, may require contact                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Display grammar observed   | icons, health bars, node markers                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Score records recovered    | none independently verified                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Command phrases recovered  | none reproduced in this file                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Version state after Purge  | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Confirmed exposure events  | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The registry dependency row is the one that decides how far isolation reaches. If
+the layer needs live Guild Registry contact to run, an air-gapped fragment is inert
+text. If it does not, a fragment that reaches a connected display can behave
+as intended without any external party noticing. A.C.T holds no measurement that separates those
+two conditions, so both are handled as live.
+
+
+
+INTERFACE AND OPERATING ENVELOPE
+
+Protocol Vocabulary Controls
+
+- Temporal Evidence Review holds the fragment set
+- verbatim capture before interpretation
+- air-gapped capture only, no live screenshots
+- Subject Care notified before VESPER-adjacent work
+
+Protocol Readouts
+
+- fragment inventory per recovered source
+- Guild vocabulary occurrences in A.C.T reporting
+- isolation state of each displaying device
+- restraint-language audit near AFD-SU-020
+
+Handling Limits And Weaknesses
+
+- Do not run, emulate, or demonstrate any recovered routine.
+- Do not read command phrases aloud near an MNT-adjacent subject.
+- Do not summarise recovered violence in job, level, or score terms.
+- Do not request protocol restoration to improve mission efficiency.
+- Weakest against vocabulary that arrives inside ordinary reporting.
+- Weakest where a fragment is displayed on a connected device.
+
+Fragment counts, vocabulary occurrences, and isolation states are tracked per recovered source and are
+NOT MEASURED in this record.
+
+
+
+OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+The sequence is written for the case that actually recurs, which is a fragment
+appearing somewhere it was not expected rather than a device arriving labelled as Guild
+property. It records the text before it interprets the text, because interpretation in Guild
+categories is itself the failure mode this record exists to prevent.
+
+1. Record the displayed text verbatim before interpreting it.
+2. Classify the item as vocabulary evidence, not software.
+3. Isolate the displaying device from live networks.
+4. Capture screens by air-gapped means only.
+5. Notify Subject Care before any VESPER-adjacent work.
+6. Restate the finding in A.C.T language, not Guild language.
+7. Screen the observing staff member for interface framing.
+8. Escalate any repeated command phrase to Intelligence.
+
+Step 7 is the one that gets skipped and the one that matters. The
+person who reads a Guild display is the first system the layer reaches, and
+a report written in clearance and score language carries that framing into every desk
+that reads it downstream.
+
+
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Per fragment intake        | verbatim capture, then isolation                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Per A.C.T report           | screen for Guild interface vocabulary                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | audit restraint-language use near AFD-SU-020                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | reconcile fragment inventory against sources                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| On any display event       | Intelligence and Subject Care joint review                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The report screen is the calibration with no equipment to check. Because the transportable
+part of the layer is its vocabulary, the audit surface is A.C.T writing rather
+than Guild hardware, and a desk that reports cleanly has not proven the fragment
+is inert.
+
+
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Guild scoring on screen    | fragment reached display                  | isolate, Intelligence                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Node language in report    | framing carried across                    | restate, review author                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Phrase repeated twice      | command routine active                    | escalate, Command                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Restraint wording used     | Guild terminology drift                   | Subject Care, retrain                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Restoration requested      | efficiency pressure                       | refuse, Command                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+
+
+KNOWN LIMITS
+
+Nothing in this record is a measurement. A.C.T holds recovered text and a subject,
+and every technical claim here is a reading of that text against itself. That
+is a real limit rather than a formality: the archive is internally rich, cross-linked,
+and mechanically consistent, and consistency of that kind is exactly what a well-constructed false
+record would also produce. A.C.T will not treat recovered claims as true merely because
+several technical details match contained evidence.
+
+The framework cannot be tested and cannot be adopted. It may not be run,
+emulated, demonstrated, or partially reinstated for training value, and no tactical desk may request
+its restoration. A.C.T also cannot yet distinguish a future-natural platform from an anomalous one,
+and until that distinction is resolved the Guild stays at ENGINEERING capability rather than
+being upgraded, even though the possibility of a higher class remains open.
+
+
+
+FAILURE HISTORY
+
+AFD-OB-312 MAINTENANCE DISPLAY — VOCABULARY LEAK
+
+The confirmed instance of Guild software language reaching a device under A.C.T observation is
+the maintenance instruction that appeared on a future-origin weapons system in the AFD-OB-312 testing
+dossier. The message was registry language rather than protocol language, but it establishes the
+pattern this record is built to catch: Guild control vocabulary arriving on equipment A.C.T
+is already handling, addressed to staff who are already responding.
+
+ANALYST FRAMING DRIFT — STANDING CONDITION
+
+No confirmed incident of contaminated analysis is filed. The entry exists because the failure
+is intrinsic to the material rather than accidental to it: an analyst summarising recovered
+violence in clearance, job, and score terms is describing the archive in the archive's
+own units, and the resulting summary reads as a performance record rather than as
+a record of harm. The condition is audited through the report screen rather than
+through equipment.
+
+VERSION AND AUTHORITY — UNRESOLVED
+
+Whether OMEGA-KERN v4.2 was a stable release, an obsolete build, or an emergency modification
+made after the Sector 4 Purge is unknown, and so is whether the Guild
+wrote it, inherited it, or adapted it. Nothing recovered so far distinguishes those cases,
+and each implies a different surviving capability.
+
+
+
+DIVISION USE
+
+The Intelligence Division and its Temporal Evidence Review Desk hold the fragment set and
+the provenance reading. The Tactical Review Desk assesses what the layer implies about Guild
+weapons behaviour without importing its targeting logic. Subject Care Division controls any VESPER-facing
+interpretation, holds the restraint-language prohibition, and reviews every proposal that would place the
+subject near Guild interface material. Medical Care supports that review where perception or injury
+reporting is involved.
+
+Security enforces isolation of any displaying device. Central Archive holds the designation record and
+the redundant copies of recovered text. Engineering is the desk most likely to be
+asked to reproduce a fragment and is bound by the same prohibition as everyone
+else. Command authorises escalation, and no restoration decision exists for Command to authorise.
+
+
+
+CROSS-REFERENCES
+
+- GOI-HY-U-051 — Mysterious Guild, Group of Interest Registry;
+- TECH-GOI-051-2 — Mysterious Guild Registry Maintenance Contact System, Technology Record;
+- TECH-GOI-051-3 — Mysterious Guild Argus KSG-16 Smart-Shotgun Data, Technology Record;
+- TECH-GOI-051-4 — Mysterious Guild Feedbacker Shield Record System, Technology Record;
+- TECH-GOI-051-5 — Mysterious Guild Ghost File Record Erasure System, Technology Record;
+- TECH-GOI-049-5 — DREAM .INC Quiet-Machine Condition Indicator System, Technology Record;
+- AFD-SU-020 — Maid Of Gear VESPER, Archive Record.
+
+The Quiet-Machine indicator is cited because it is the closest structural parallel in the
+archive: both are systems whose stated purpose is to hold a subject in a
+quieter state, and both fail in the direction of the subject's own recognition rather
+than in the direction of the equipment. The difference is that the Quiet-Machine record
+describes a machine, while this record describes a way of describing.
+
+
+
+OPEN QUESTIONS
+
+- Did the Guild write OMEGA-KERN, inherit it, or adapt it from an unnamed system?
+- Was version 4.2 a stable release, an obsolete build, or a post-Purge modification?
+- Does the layer require live Guild Registry contact, or does it run in isolation?
+- Can Guild interface grammar persist inside ordinary A.C.T reporting undetected?
+- Why does civilian domestic contact destabilise the protocol rather than distract it?
+- Which measurable signature separates an interface category from a perceptual one?
+
+
+
+FILE METADATA
+
+- **Created:** 2015-03-11
+- **Author Desk:** Intelligence Division / Temporal Evidence Review Desk / Central Archive
+- **Review Status:** Active restricted future-origin software record; VESPER-origin reconstruction material
+sealed at Level 5
+- **Next Review:** After any recovered Guild fragment, any display event, or any proposed subject-facing
+test

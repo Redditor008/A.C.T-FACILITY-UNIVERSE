@@ -1,4 +1,5 @@
-TECH-GOI-051-2 - MYSTERIOUS GUILD REGISTRY MAINTENANCE CONTACT SYSTEM
+A.C.T FACILITY ARCHIVE FILE
+TECHNOLOGY RECORD - MYSTERIOUS GUILD REGISTRY MAINTENANCE CONTACT SYSTEM
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -7,87 +8,344 @@ TECH-GOI-051-2 - MYSTERIOUS GUILD REGISTRY MAINTENANCE CONTACT SYSTEM
 +----------------------------+---------------------------------------------------------------------------------------+
 | TECHNOLOGY NAME            | Mysterious Guild Registry Maintenance Contact System                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Guild Registry / Maintenance Contact Logic / Registry Signal                          |
+| SHORT NAME                 | GRMCS                                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ORIGIN                     | Mysterious Guild                                                                      |
+| TECHNOLOGY FAMILY          | ACQUIRED FUTURE-ORIGIN / DEFERRED MAINTENANCE COMMAND / CONTACT VECTOR                |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ACQUISITION STATUS         | Recovered equipment message and archive references; no live contact authorized        |
+| ORIGIN                     | MYSTERIOUS GUILD (GOI-HY-U-051) / GUILD REGISTRY LAYER                                |
 +----------------------------+---------------------------------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Future-origin device isolation, contact prevention, maintenance-command analysis,     |
-|                            | registry signal tracing                                                               |
+| PRIMARY CONTROLLER         | Intelligence Division / Temporal Evidence Review Desk                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ARCHIVE HANDLING           | GUILD REGISTRY CONTACT RESTRICTED / AIR-GAP REQUIRED                                  |
+| ATTACHED DIVISIONS         | Intelligence, Engineering, Tactical Review, Security, Subject Care, Archive           |
++----------------------------+---------------------------------------------------------------------------------------+
+| OPERATIONAL STATUS         | RECOVERED AS MESSAGE EVIDENCE / NO CONTACT PATH CONFIRMED                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| RISK STATUS                | ACCIDENTAL CONTACT / FALSE OWNERSHIP CLAIM / UNBOUNDED ACTION                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for Guild material; Level 5 for registry signal-path work                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Functional Identity
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Future-Origin Contact-Vector Record                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Intelligence / Engineering / Tactical Review / Security / Subject Care                |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Intelligence Division and Central Archive, Engineering liaison for devices            |
++----------------------------+---------------------------------------------------------------------------------------+
 
-The Mysterious Guild Registry Maintenance Contact System is the maintenance, indexing, and authority layer
-inferred
-from recovered Guild records and from a future-origin weapons system that displayed the instruction:
-MAINTENANCE
-OVERDUE. CONTACT GUILD REGISTRY. A.C.T treats this as acquired GOI technology because the message
-appeared outside the
-main Guild PDF context and because it implies that Guild-linked equipment may still attempt
-to reference a maintenance
-authority after displacement into A.C.T custody.
+Archive Note
+This record covers the maintenance, indexing, and authority layer that recovered Guild material calls
+Guild Registry. A.C.T holds one confirmed instance of it behaving: a future-origin weapons system
+under the AFD-OB-312 testing dossier displayed the instruction MAINTENANCE OVERDUE. CONTACT GUILD REGISTRY.
+The message appeared outside the main Guild archive context, which is why it is
+filed as its own technology rather than as a line inside the dossier.
 
-The system may be a real external registry, a dead automated service, an obsolete
-maintenance routine, a software
-authentication layer, or a trap that tries to establish contact through anyone who reads
-or follows its instruction.
-The Mysterious Guild dossier keeps these possibilities open. A.C.T does not know whether Guild
-Registry is identical
-to the Guild, a department inside it, a surviving machine service, or an archive
-function that outlived its command
-structure.
+The technical object is a deferred instruction. A maintenance state is computed locally against
+elapsed time, and it survives the environment that created it; the device kept counting
+after displacement into A.C.T custody and kept asking for a party that may no
+longer exist. The hazard is therefore not that the Guild answers. It is that
+a competent engineer, treating the message as ordinary equipment behaviour, supplies the missing environment
+and gives the registry the first path it has seen in baseline reality.
 
-Known Behavior
+The second hazard is the meaning of the word maintenance. In Guild vocabulary it
+is undefined, and the dossier places registry functions beside leash operators, data-slate custodians, and
+record authorities. Answering a maintenance request may therefore authorise behaviour restoration, memory
+overwrite, loyalty verification, body adjustment, or record erasure. A.C.T treats the instruction as an
+unbounded action and forbids every form of response, including emulation.
 
-The confirmed behavior is narrow but serious. A device connected to AFD-OB-312 displayed a
-maintenance instruction
-using Guild Registry language. The Guild dossier also identifies registry functions, maintenance logic, data-slate
-custodians, leash operators, and record authorities. These references make the registry more than a
-name. It appears
-to decide when equipment is overdue, when an operative or weapon requires service, and
-possibly who is allowed to
-interpret Guild property.
+Controlled label: **GUILD REGISTRY CONTACT-STATE PROHIBITION**.
 
-A.C.T has no confirmed handshake, address, frequency, network route, or response from the registry.
-That absence does
-not make the system safe. A future-origin device may store delayed contact instructions internally.
-It may also use
-A.C.T observation, power, local network signals, or spoken maintenance language as a substitute for
-its lost
-environment.
+Core handling rule:
 
-A.C.T Handling Rules
+NO A.C.T DEVICE ANSWERS, EMULATES, OR QUERIES A GUILD REGISTRY REQUEST.
+MAINTENANCE IN GUILD LANGUAGE IS AN UNBOUNDED ACTION UNTIL PROVEN OTHERWISE.
 
-No A.C.T device may answer, emulate, dial, broadcast, or query a Guild Registry contact
-request on a live system.
-Equipment displaying registry language must be powered down if safe, photographed through isolated capture,
-and
-transferred to an air-gapped analysis bay. Any repeated message outside the original AFD-OB-312 context
-is an
-escalation event.
 
-Analysts must not assume that maintenance means repair. In Guild language, maintenance may include
-behavioral leash
-restoration, memory overwrite, ammunition replenishment, loyalty verification, body adjustment, or record erasure.
-Subject Care must be notified if registry wording appears near VESPER-linked material.
+FUNCTION SUMMARY
 
-Failure and Open Questions
+The registry layer decides when Guild property is overdue for service and who may
+interpret it. Recovered material names registry clerks, registry maintainers, data-slate custodians, leash
+operators, and record authorities, which implies an administrative body with functions rather than a
+title alone, and the equipment message implies that this body is addressable from the
+device.
 
-The worst failure mode is accidental contact. A helpful engineer could connect a device
-to a diagnostic network and
-give the registry the first path it has seen in baseline reality. Another failure
-is false ownership: Guild Registry
-labels may pressure personnel to treat VESPER or future-origin equipment as property to be
-returned.
+What A.C.T holds is the request side of that relationship and none of the
+response side. No handshake, address, frequency, network route, or reply has been confirmed. That
+absence does not make the system safe, because a deferred instruction does not need
+a reachable registry to be dangerous; it needs a reader willing to act on
+it.
 
-Open questions include whether the registry still exists, whether it can locate displaced assets,
-whether overdue
-maintenance is dangerous because the equipment fails or because the Guild notices, and whether
-contact language is
-merely diagnostic or actively anomalous. Archive confidence is High for the recovered instruction and
-Moderate for a
-broader registry maintenance system. Confidence is Low regarding live reachability.
+The record therefore covers three things: the message as evidence, the maintenance state as
+a locally computed condition, and the contact prohibition as the control that keeps a
+helpful engineer from completing the circuit.
+
+
+
+ORIGIN AND CUSTODY
+
+The instruction surfaced during AFD-OB-312 testing of future-origin equipment and is the only confirmed
+display of registry language on hardware in A.C.T-observed handling. The wider registry layer is
+known from the Guild archive, which names it as a maintenance and authority layer
+tied to equipment messages and operative records. Nothing ties the two together except shared
+vocabulary, and A.C.T records that as the strongest link available rather than as a
+confirmed identity.
+
+Custody sits with the Intelligence Division and the Temporal Evidence Review Desk under ACT-SITE-01-US-W.
+Engineering holds the device that displayed the message and holds it disconnected. Central Archive
+keeps the display record, the photograph taken through isolated capture, and the surrounding test
+log, because the sequence in which the message appeared is more informative than the
+text alone.
+
+No live contact is authorised and no contact attempt has been made. If a
+path is ever confirmed, it becomes a Level 5 signal-path question and stops being
+an engineering one.
+
+
+
+PHYSICAL OR SYSTEM DESCRIPTION
+
+No registry hardware is held. The described structure is assembled from the equipment message
+and from the roles the recovered archive names:
+
+- maintenance-state timer, computed on the device;
+- overdue threshold, value unknown;
+- contact instruction, plain text on a diagnostic display;
+- address or route, none recovered;
+- handshake or authentication layer, unresolved;
+- registry clerk and maintainer roles, named in archive;
+- data-slate custodian role, named in archive;
+- leash operator role, named in archive;
+- record authority function, implied by Ghost File practice;
+- response format, unresolved.
+
+The timer is the component A.C.T can reason about and the address is the
+component it cannot. A device that computes overdue locally will keep producing the instruction
+indefinitely, on any power source, with no external party involved, which means the message
+will recur and will recur looking like a fault that engineering is expected to
+clear.
+
+
+
+TECHNICAL SPECIFICATION
+
+Values are restated from the AFD-OB-312 test log and the GOI-HY-U-051 dossier. Nothing is
+measured against a live registry, and unheld values are marked NOT MEASURED.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY PARAMETER         | VALUE                                                                                 |
++============================+=======================================================================================+
+| Confirmed instances        | one, the AFD-OB-312 display                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Message text               | MAINTENANCE OVERDUE. CONTACT GUILD REGISTRY.                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Transport medium           | local diagnostic display                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Address or route           | none recovered                                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Response confirmed         | none                                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Overdue threshold          | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Repeat interval            | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Authentication required    | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Registry identity          | unresolved                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Live reachability          | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Registry identity is the row the rest of the record turns on. Whether Guild
+Registry is the Guild, a department inside it, an automated maintenance service that outlived
+its command structure, or an archive function is unknown, and the four cases differ
+in whether contact is even possible and in what contact would reach.
+
+
+
+INTERFACE AND OPERATING ENVELOPE
+
+Device Isolation Controls
+
+- power down where safe before handling
+- isolated capture of the display
+- transfer to an air-gapped analysis bay
+- no diagnostic network attachment
+
+Message Readouts
+
+- verbatim message text and timestamp
+- device state at the time of display
+- prior and subsequent messages on the device
+- proximity to VESPER-linked material
+
+Handling Limits And Weaknesses
+
+- Do not answer, emulate, dial, broadcast, or query the request.
+- Do not attach the device to a diagnostic or service network.
+- Do not read maintenance aloud as though it meant repair.
+- Do not treat registry labels as custody or ownership claims.
+- Weakest against a device left powered on a connected bench.
+- Weakest where a maintenance state is read as an ordinary fault.
+
+Repeat intervals, thresholds, and authentication requirements are NOT MEASURED, and no contact attempt may
+be made in order to measure them.
+
+
+
+OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+The sequence assumes the message appears on equipment A.C.T already handles, which is how
+the one confirmed instance arose. It separates the device from the network before anyone
+reads the text aloud, because the instruction is addressed to a reader.
+
+1. Photograph the display through isolated capture.
+2. Record the message text verbatim with its timestamp.
+3. Power the device down where that is safe to do.
+4. Disconnect it from every network and service port.
+5. Move it to an air-gapped analysis bay.
+6. Log the event against the AFD-OB-312 comparison set.
+7. Notify Subject Care if VESPER-linked material is nearby.
+8. Escalate any repeat outside that context to Intelligence.
+
+Step 6 is what turns a single odd message into intelligence. One display is
+an artefact; the same instruction appearing on a second device, a second class of
+equipment, or a second site is a pattern with a direction in it, and
+only the comparison produces that.
+
+
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Per display event          | verbatim capture, then isolation                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Per device intake          | confirm the device is powered down                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | sweep the air-gapped bay for repeats                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | compare against the AFD-OB-312 record                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Annually                   | audit bench and network attachment practice                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The annual audit targets the habit rather than the device. Accidental contact requires a
+connected bench and an engineer treating a Guild message as a work order, and
+both of those are ordinary conditions inside a working facility.
+
+
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Message displayed          | deferred timer fired                      | isolate, do not answer                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Message repeated           | threshold re-armed                        | escalate, Intelligence                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Device on a network        | bench practice lapse                      | disconnect, Engineering                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Ownership asserted         | registry label read                       | refuse, Legal, Command                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Repair proposed            | maintenance misread                       | refuse, Subject Care                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+
+
+KNOWN LIMITS
+
+A.C.T cannot study the registry by using it. Every measurement that would settle whether
+the layer is reachable requires the contact this record forbids, so the reachability row
+stays NOT MEASURED by design rather than through neglect. The Facility accepts that gap;
+a false negative on reachability is recoverable and a successful contact may not be.
+
+The record also cannot establish what maintenance would have done. Recovered material places the
+registry beside leash operators, record authorities, and erasure practice, which is enough to make
+the term unbounded and not enough to specify any single action. Staff are therefore
+instructed that maintenance in Guild language is not a synonym for repair, and that
+the safe response to it is no response.
+
+
+
+FAILURE HISTORY
+
+AFD-OB-312 INSTRUCTION — CONFIRMED DISPLAY
+
+A device connected to the AFD-OB-312 testing dossier displayed MAINTENANCE OVERDUE. CONTACT GUILD REGISTRY.
+The display is the confirmed behaviour in this record and the reason the layer
+is filed separately from the Guild dossier. It is not known whether the device
+was calling a real external registry, repeating an obsolete maintenance routine, or attempting to
+establish contact through A.C.T observation, and all three readings remain open.
+
+DIAGNOSTIC BRIDGING — STANDING CONDITION
+
+No accidental contact has occurred. The condition is filed because the failure path is
+short and runs through good practice: a device with a live maintenance state, a
+diagnostic network intended to help it, and an engineer who reasonably concludes that a
+maintenance message should be answered. Nothing in that sequence looks like an error at
+the moment it happens.
+
+REGISTRY IDENTITY — UNRESOLVED
+
+Whether Guild Registry is the Guild itself, a department within it, a machine service
+that survived a command failure, or an archive function is unresolved, and the dossier
+keeps the question open deliberately. The distinction changes what a reply would reach and
+whether a reply could reach anything at all.
+
+
+
+DIVISION USE
+
+The Intelligence Division holds the message record and the escalation gate, and the Temporal
+Evidence Review Desk reads it against other displaced-equipment evidence. Engineering holds the device
+disconnected and owns bench practice. Security enforces the air gap. The Tactical Review Desk
+assesses what a maintenance dependency implies for Guild weapons readiness.
+
+Subject Care Division is notified whenever registry wording appears near VESPER-linked material, because the
+same vocabulary layer produces restraint language. Legal Division handles any external party that asserts
+registry-based ownership, and the A.C.T position is that such labels are not custody claims.
+Central Archive holds the copies and Command authorises escalation.
+
+
+
+CROSS-REFERENCES
+
+- GOI-HY-U-051 — Mysterious Guild, Group of Interest Registry;
+- TECH-GOI-051-1 — Mysterious Guild OMEGA-KERN Protocol Control Layer, Technology Record;
+- TECH-GOI-051-3 — Mysterious Guild Argus KSG-16 Smart-Shotgun Data, Technology Record;
+- TECH-GOI-051-4 — Mysterious Guild Feedbacker Shield Record System, Technology Record;
+- TECH-GOI-051-5 — Mysterious Guild Ghost File Record Erasure System, Technology Record;
+- AFD-OB-312 — AFS 312 Experiment Testing Dossier, Archive Record;
+- AFD-SU-020 — Maid Of Gear VESPER, Archive Record.
+
+The testing dossier is cited as the source of the only confirmed display, and
+the VESPER file is cited because the registry vocabulary and the restraint vocabulary come
+from the same archive and must be policed together.
+
+
+
+OPEN QUESTIONS
+
+- Does the registry still exist, and in what form?
+- Can it locate assets displaced into A.C.T baseline?
+- Is overdue maintenance dangerous because equipment fails or because the Guild notices?
+- What action would a completed maintenance request have authorised?
+- Why did the message appear outside the recovered archive context?
+- Would a reply be detectable by A.C.T after the fact?
+
+
+
+FILE METADATA
+
+- **Created:** 2018-07-26
+- **Author Desk:** Intelligence Division / Engineering Liaison / Central Archive
+- **Review Status:** Active restricted future-origin contact-vector record; registry signal-path work sealed at
+Level 5
+- **Next Review:** After any repeat display, any new future-origin device intake, or any external
+ownership claim

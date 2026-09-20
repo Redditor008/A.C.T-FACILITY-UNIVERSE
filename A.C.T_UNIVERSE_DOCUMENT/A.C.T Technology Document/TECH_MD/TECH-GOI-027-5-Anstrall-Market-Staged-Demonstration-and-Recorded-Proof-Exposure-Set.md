@@ -269,13 +269,13 @@ market operation involving proof material.
 
 ## CROSS-REFERENCES
 
-- - GOI-BS-T-027 — Anstrall Market, Group of Interest Registry;
-- - TECH-GOI-027-1 — Anstrall Market Broker Claim-Control and Description System, Technology Record;
-- - TECH-GOI-027-2 — Anstrall Market Valuation and Demand-Price Ledger, Technology Record;
-- - TECH-GOI-027-3 — Anstrall Market Handler Custody Rule and Packaging Set, Technology Record;
-- - TECH-GOI-027-4 — Anstrall Market Concealed Payment and Provenance Chain, Technology Record;
-- - TECH-GOI-001-4 — GAA Compartmented Awareness and Document-Routing Channel, Technology Record;
-- - ACT-SITE-01-US-W / Redwood Veil Complex, Trade-Interdiction Jurisdiction, Site Record;
+- GOI-BS-T-027 — Anstrall Market, Group of Interest Registry;
+- TECH-GOI-027-1 — Anstrall Market Broker Claim-Control and Description System, Technology Record;
+- TECH-GOI-027-2 — Anstrall Market Valuation and Demand-Price Ledger, Technology Record;
+- TECH-GOI-027-3 — Anstrall Market Handler Custody Rule and Packaging Set, Technology Record;
+- TECH-GOI-027-4 — Anstrall Market Concealed Payment and Provenance Chain, Technology Record;
+- TECH-GOI-001-4 — GAA Compartmented Awareness and Document-Routing Channel, Technology Record;
+- ACT-SITE-01-US-W / Redwood Veil Complex, Trade-Interdiction Jurisdiction, Site Record;
 
 The compartmented awareness system is cited as the counter-method. It narrows what each holder
 can know; this set widens what any holder can want, and the two are

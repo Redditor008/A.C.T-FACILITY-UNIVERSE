@@ -296,13 +296,13 @@ to say that reuse is not currently authorised.
 
 CROSS-REFERENCES
 
-- - GOI-ML-X-050 — Liberty Freedoms, Group of Interest Registry;
-- - TECH-GOI-050-2 — L.F. Facility-Format Identification and Route Knowledge Set, Technology Record;
-- - TECH-GOI-050-3 — L.F. Carried-Subject Transport and Temporary Care System, Technology Record;
-- - TECH-GOI-050-4 — L.F. Fragment-Assembly Publication and Masthead Relay, Technology Record;
-- - TECH-GOI-050-5 — L.F. Staged-Truth Recruitment and Compartmentation System, Technology Record;
-- - TECH-GOI-027-3 — Anstrall Market Handler Custody Rule and Packaging Set, Technology Record;
-- - Transport interception and subject recovery restricted extract [Level 5].
+- GOI-ML-X-050 — Liberty Freedoms, Group of Interest Registry;
+- TECH-GOI-050-2 — L.F. Facility-Format Identification and Route Knowledge Set, Technology Record;
+- TECH-GOI-050-3 — L.F. Carried-Subject Transport and Temporary Care System, Technology Record;
+- TECH-GOI-050-4 — L.F. Fragment-Assembly Publication and Masthead Relay, Technology Record;
+- TECH-GOI-050-5 — L.F. Staged-Truth Recruitment and Compartmentation System, Technology Record;
+- TECH-GOI-027-3 — Anstrall Market Handler Custody Rule and Packaging Set, Technology Record;
+- Transport interception and subject recovery restricted extract [Level 5].
 
 The Market handler set is cited because both borrow procedure without understanding it, and
 both fail the same way. The difference is that a Market handler is paid

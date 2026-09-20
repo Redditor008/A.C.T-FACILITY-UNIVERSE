@@ -1,74 +1,326 @@
-# TECH-GOI-051-3 - MYSTERIOUS GUILD ARGUS KSG-16 SMART-SHOTGUN DATA
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - MYSTERIOUS GUILD ARGUS KSG-16 SMART-SHOTGUN DATA
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | TECHNOLOGY DESIGNATION | TECH-GOI-051-3 |
 | TECHNOLOGY NAME | Mysterious Guild Argus KSG-16 Smart-Shotgun Data |
-| COMMON ABBREVIATIONS | Argus KSG-16 / Item-W01 / Smart-Shotgun Data |
-| ORIGIN | Mysterious Guild |
-| ACQUISITION STATUS | Recovered record data and AFD-OB-312 testing correlation; physical custody unresolved by this file |
-| PRIMARY A.C.T INTEREST | Future-origin weapon safety, registry message correlation, smart-targeting analysis, tactical containment limits |
-| ARCHIVE HANDLING | GUILD ARMORY RESTRICTED / WEAPON DATA AIR-GAP |
+| SHORT NAME | AKSSD |
+| TECHNOLOGY FAMILY | ACQUIRED FUTURE-ORIGIN / INTERFACE-DEPENDENT WEAPON DATA / ARMORY RECORD |
+| ORIGIN | MYSTERIOUS GUILD (GOI-HY-U-051) / GUILD ARMORY, ITEM-W01 |
+| PRIMARY CONTROLLER | Tactical Review Desk with Intelligence Division |
+| ATTACHED DIVISIONS | Tactical Review, Intelligence, Engineering, Security, Subject Care, Archive |
+| OPERATIONAL STATUS | DATA LAYER ONLY / PHYSICAL CUSTODY HELD UNDER AFD-OB FILING |
+| RISK STATUS | CONTACT VECTOR / DOCTRINE IMPORT / UNDEFINED SAFE CATEGORIES |
+| CLEARANCE REQUIRED | Level 4 for armory data; Level 5 for subject-exposure proposals |
 
-## Functional Identity
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Future-Origin Weapon-Data Record |
+| DISTRIBUTION | Tactical Review / Intelligence / Engineering / Security / Subject Care |
+| AUTHORITY | Tactical Review Desk and Central Archive, Intelligence liaison |
 
-The Mysterious Guild Argus KSG-16 Smart-Shotgun Data record covers the Guild weapon system identified
-in the
-Mysterious Guild dossier as Item-W01 Argus KSG-16 and linked to recovered future-origin weapon testing
-material. A.C.T
-has not treated the Argus name as a normal firearm model. The recovered context
-ties it to Guild armory records,
-maintenance warnings, vanguard deployment, and the broader pattern of converting combat into managed interface
-behavior.
+#### Archive Note
+This record covers the data layer of the Guild weapon filed in recovered material
+as Item-W01 Argus KSG-16 and linked to future-origin weapons testing under AFD-OB-312. Where a
+physical assembly is held, that holding is filed under the AFD-OB object record and
+controls immediate containment; this file governs the naming, the maintenance behaviour, the probable
+targeting arrangement, and the risk the data carries into A.C.T systems.
 
-This technology record concerns the data layer A.C.T can study: naming, maintenance instruction, probable
-smart-targeting behavior, registry dependency, and risk to personnel. It does not authorize reproduction of
-ammunition, firmware, targeting routines, or any physical shotgun assembly. If a physical weapon is
-present in a
-separate AFD-OB file, that file controls immediate containment.
+The governing technical problem is where the weapon's rules live. A smart weapon normally
+carries its target categories with it. This one appears to draw them from OMEGA-KERN,
+which means the protected-category set may not be in the weapon at all: surrender,
+bystander, hostage, family member, and medical staff are categories a gamified interface defines, and
+an interface that is not present cannot define them. A.C.T therefore cannot assess this
+weapon as safe or unsafe, because the thing that would make it safe is
+not part of it.
 
-## Known Behavior
+The second problem is that the weapon is a confirmed contact vector. The AFD-OB-312
+message proves that at least one future-origin weapon system could display Guild Registry instructions,
+so a disconnected diagnostic screen on this platform may carry an unsafe command that
+becomes unsafe only when a person responds to it as ordinary maintenance. The name
+Argus implies many-eyed watching, and A.C.T does not assume the label describes the mechanism.
 
-The Argus KSG-16 appears in a Guild technology environment that also includes OMEGA-KERN, Feedbacker
-Shield data,
-Bifocal Perception Suite records, sacral-scythe mobility systems, data-slates, and Guild Registry maintenance logic.
-The name Argus implies multi-point watching, but A.C.T does not assume the label describes
-the mechanism. The
-smart-shotgun may identify targets, authorize firing states, track ammunition, communicate with OMEGA-KERN, or require
-registry maintenance before safe operation.
+Controlled label: **ARGUS SAFE-CATEGORY ABSENCE RULE**.
 
-The recovered maintenance message from AFD-OB-312 proves that at least one future-origin weapon system
-could display
-Guild Registry instructions. A.C.T therefore treats Argus data as a possible contact vector. Even
-a disconnected
-diagnostic screen may carry unsafe commands if personnel respond to it as ordinary maintenance.
+Core handling rule:
 
-## A.C.T Handling Rules
+```text
+NO ARGUS TARGETING MODEL ENTERS A.C.T RANGE, DRONE, TURRET, OR SIMULATOR SOFTWARE.
+A WEAPON CARRYING NO PROTECTED-CATEGORY SET IS NOT ASSESSED AS SAFE BY ABSENCE.
+```
 
-Argus data must remain air-gapped from tactical training systems. No targeting model is to
-be imported into A.C.T
-range software, drone control, facility turret logic, or personnel simulator environments. No user may
-attempt to
-satisfy a Guild maintenance state by loading ammunition, cycling a weapon, connecting a diagnostic
-cable, or
-presenting VESPER as an authorized operator.
+---
 
-Any reference to Item-W01 must be cross-checked against AFD-OB-312 and VESPER files. Tactical Review
-may study failure
-warnings, power isolation, material composition, and safe transport. Subject Care must review any testing
-proposal
-that would expose VESPER to the weapon, its name, its sounds, or its maintenance
-display.
+## FUNCTION SUMMARY
 
-## Failure and Open Questions
+Item-W01 Argus KSG-16 sits inside a Guild armory environment that also holds the Feedbacker
+Shield, sacral-scythe mobility hardware, the Bifocal Perception Suite, data-slates, and the registry
+maintenance layer. Recovered material treats these as one platform rather than as separate tools,
+and the weapon's behaviour is read here on that assumption.
 
-Primary risks include accidental discharge, false target recognition, registry contact, operator coercion, and A.C.T
-adoption of Guild smart-weapon doctrine. A weapon designed for a gamified operative may not
-understand surrender,
-bystanders, hostages, family members, or medical staff as protected categories.
+What A.C.T can study is the record: the designation, the maintenance instruction the platform
+produced, the targeting arrangement the archive implies, and the way the weapon depends on
+software it does not carry. What A.C.T cannot do is reason about safe operation,
+because the categories that would make an operation safe are defined outside the weapon.
 
-Open questions include whether the Argus KSG-16 is a shotgun, a launcher, a sensor
-platform shaped like a shotgun, or
-an interface-dependent weapon that becomes meaningful only when held by a Guild operative. Archive
-confidence is
-Moderate for record existence and Low for safe technical understanding.
+The record's practical output is a prohibition rather than a capability. No targeting model,
+firing-state logic, or ammunition specification from this platform is imported into any A.C.T system,
+and no A.C.T doctrine is derived from Guild smart-weapon behaviour.
+
+
+---
+
+## ORIGIN AND CUSTODY
+
+The designation and the armory context come from the recovered Guild archive; the maintenance
+display comes from AFD-OB-312 testing. Physical custody of any assembly is unresolved by this
+file and is handled under the corresponding object filing, which is deliberate: separating the
+data record from the hardware keeps a weapons question from being answered by an
+archivist and an archive question from being answered by a range officer.
+
+Tactical Review holds the data with the Intelligence Division, under ACT-SITE-01-US-W. Engineering may study
+material composition, power isolation, and safe transport. Archive holds the designation record and the
+display record together, since the maintenance message is the single strongest link between this
+platform and the registry layer.
+
+No reproduction of ammunition, firmware, or assembly is authorised, and no A.C.T operator is
+certified on the platform. VESPER is not an authorised operator and must not be
+presented as one under any testing proposal.
+
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+The described arrangement is assembled from armory records and from the maintenance display. A.C.T
+records structure, not specification:
+
+- Item-W01 designation, Guild armory numbering;
+- class unresolved, shotgun, launcher, or sensor platform;
+- smart-targeting layer, mechanism unconfirmed;
+- target categories sourced from OMEGA-KERN, inferred;
+- firing-state authorisation logic, unresolved;
+- ammunition type and count, not recovered;
+- maintenance-state display, confirmed on one device;
+- registry dependency, indicated by that display;
+- operator identity binding, unresolved;
+- power isolation method, under Engineering review.
+
+The class row is not pedantry. If the platform is a shotgun, its hazards
+are ballistic. If it is a sensor platform shaped like a shotgun, its hazard
+is that it looks like a weapon to everyone who must decide how to
+handle it. A.C.T holds no measurement that separates those cases and files the ambiguity
+rather than resolving it by assumption.
+
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Values are restated from the Guild armory references in GOI-HY-U-051 and from the AFD-OB-312
+test log. No parameter here comes from firing, disassembly, or interface testing.
+
+| WEAPON PARAMETER | VALUE |
+|---|---|
+| Item designation | Item-W01, Argus KSG-16 |
+| Platform class | unresolved |
+| Targeting source | OMEGA-KERN, inferred |
+| Protected categories | not carried by the weapon |
+| Safe-category set | absent from recovered data |
+| Registry dependency | indicated by maintenance display |
+| Ammunition data | none recovered |
+| Firing events observed | none in A.C.T custody |
+| Certified A.C.T operators | none |
+| Physical custody | held under AFD-OB filing |
+
+The protected-category rows are the whole record. A weapon assessed without them would be
+assessed on muzzle behaviour alone, and a platform whose engagement rules are supplied by
+an interface it is not carrying cannot be certified on that basis by any
+authority.
+
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Data Handling Controls
+
+- air-gapped storage, no tactical network
+- no import into range or simulator software
+- Engineering review for power isolation
+- Subject Care review before any subject exposure
+
+### Platform Readouts
+
+- maintenance-state display log
+- registry message occurrences on the platform
+- custody state of any held assembly
+- doctrine-import audit across A.C.T software
+
+### Handling Limits And Weaknesses
+
+- Do not load, cycle, or discharge the platform to clear a state.
+- Do not connect a diagnostic cable to satisfy maintenance.
+- Do not import targeting logic into A.C.T training systems.
+- Do not present any subject as an authorised operator.
+- Weakest where a display looks like an ordinary service prompt.
+- Weakest where the platform is handled as a conventional firearm.
+
+Ammunition data, firing behaviour, and interface timing are NOT MEASURED and remain so while
+the safe-category question is open.
+
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence covers a maintenance display appearing on this platform, which is the one
+confirmed behaviour and the most likely way an unsupervised contact could start. It treats
+the display as a hazard before it treats it as information.
+
+1. Treat the platform as unsafe and unload by procedure only.
+2. Photograph the display through isolated capture.
+3. Record the message text and the platform state.
+4. Isolate power and every data port.
+5. Move the assembly to secure storage under AFD-OB custody.
+6. Log the display against the registry comparison set.
+7. Refer any subject-exposure proposal to Subject Care.
+8. Report the contact risk, not the weapon condition.
+
+Step 8 is the discipline this record exists to enforce. A report describing a
+malfunctioning firearm sends the next reader toward repair, and repair on this platform is
+the action that answers a Guild maintenance request.
+
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per display event | capture, isolate, log |
+| Per handling | confirm no data port is connected |
+| Monthly | audit custody state of held assemblies |
+| Quarterly | re-check the doctrine-import screen |
+| Annually | joint review with Tactical and Intelligence |
+
+The doctrine-import screen is the maintenance task with the widest reach, because the damage
+this platform can do to A.C.T is not ballistic. It is the adoption of
+an engagement logic that has no protected categories in it.
+
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Maintenance displayed | deferred registry timer | isolate, do not clear |
+| Targeting inferred | OMEGA-KERN dependency | treat as unsafe |
+| Import proposed | capability interest | refuse, Command |
+| Discharge requested | test pressure | refuse, Tactical Review |
+| Operator proposed | subject exposure risk | refuse, Subject Care |
+
+
+---
+
+## KNOWN LIMITS
+
+The platform cannot be certified. Certification requires knowing what it will not shoot at,
+and that information is not in the weapon. A.C.T will not resolve this by
+test firing, because a test that discovers a missing protected category discovers it on
+a person or on a range that was assumed to be excluded from the
+category set.
+
+The record also cannot establish whether the Argus label describes the mechanism. Multi-point watching
+is an inference from a name, and the dossier's own caution applies: labels in
+this archive have survived the things they described. Until a physical assembly can be
+examined under Engineering control, the platform is described at the level the evidence supports
+and no further.
+
+
+---
+
+## FAILURE HISTORY
+
+### MAINTENANCE DISPLAY ON A WEAPON SYSTEM — CONFIRMED
+
+Under AFD-OB-312 testing a future-origin weapon system displayed a Guild Registry maintenance instruction.
+Whether the device was the Argus platform itself is not established by this record,
+but the display proves that weapon-class hardware in A.C.T-observed handling can carry registry language,
+and that is the condition this file is written against.
+
+### DOCTRINE IMPORT — STANDING CONDITION
+
+No A.C.T software is known to contain Guild targeting logic. The condition is filed
+because the temptation runs in the opposite direction from the usual one: smart-weapon data
+is attractive to range and simulator staff precisely because it appears to solve a
+targeting problem, and the missing protected categories are not visible in the data that
+makes it attractive.
+
+### PLATFORM CLASS — UNRESOLVED
+
+Whether Item-W01 is a shotgun, a launcher, a sensor platform, or an interface-dependent assembly
+that becomes meaningful only in a Guild operative's hands is unresolved. Each reading implies
+a different handling regime and a different answer to the question of whether the
+object can ever be safe in A.C.T custody.
+
+
+---
+
+## DIVISION USE
+
+The Tactical Review Desk holds the data record and the certification refusal, which is
+a permanent entry rather than a pending one. Intelligence reads the maintenance display against
+the registry comparison set. Engineering studies material composition, power isolation, and safe transport
+without attempting interface work.
+
+Security holds any physical assembly under the AFD-OB filing. Subject Care reviews any proposal
+that would expose VESPER to the platform, its name, its sounds, or its maintenance
+display, and holds the authority to stop one. Archive keeps the designation and display
+records paired. Command authorises nothing here that is currently prohibited.
+
+
+---
+
+## CROSS-REFERENCES
+
+- GOI-HY-U-051 — Mysterious Guild, Group of Interest Registry;
+- TECH-GOI-051-1 — Mysterious Guild OMEGA-KERN Protocol Control Layer, Technology Record;
+- TECH-GOI-051-2 — Mysterious Guild Registry Maintenance Contact System, Technology Record;
+- TECH-GOI-051-4 — Mysterious Guild Feedbacker Shield Record System, Technology Record;
+- TECH-GOI-051-5 — Mysterious Guild Ghost File Record Erasure System, Technology Record;
+- AFD-OB-312 — AFS 312 Experiment Testing Dossier, Archive Record;
+- AFD-SU-020 — Maid Of Gear VESPER, Archive Record.
+
+The control-layer record is cited because this platform's safety depends on software described there,
+and the registry record is cited because weapon-class hardware is the confirmed carrier of
+its message. Read together, the three describe a weapon whose rules are held somewhere
+else.
+
+
+---
+
+## OPEN QUESTIONS
+
+- Is Item-W01 a shotgun, a launcher, or a sensor platform?
+- Where are its protected categories defined, and by whom?
+- Can the platform operate at all without OMEGA-KERN present?
+- Does it track ammunition and report state to the registry?
+- Is a maintenance request required before safe operation?
+- Is the Argus name descriptive of the mechanism or only of the label?
+
+
+---
+
+## FILE METADATA
+
+- **Created:** 2021-01-14
+- **Author Desk:** Tactical Review Desk / Intelligence Division / Central Archive
+- **Review Status:** Active restricted future-origin weapon-data record; subject-exposure proposals sealed at
+  Level 5
+- **Next Review:** After any new armory fragment, any repeat display, or any custody change
+  to a held assembly

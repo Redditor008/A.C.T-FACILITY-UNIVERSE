@@ -305,13 +305,13 @@ sleep-state override.
 
 CROSS-REFERENCES
 
-- - GOI-CU-X-048 — Children of the Deep, Group of Interest Registry;
-- - TECH-GOI-048-2 — CoTD Inland Mouth Overlay Map Set, Technology Record;
-- - TECH-GOI-048-3 — CoTD Pressure Ritual Equipment and Sealed Container Set, Technology Record;
-- - TECH-GOI-048-4 — CoTD Compartmented Text, Recording, and Calendar Set, Technology Record;
-- - TECH-GOI-048-5 — CoTD Concealed Contribution and Procurement System, Technology Record;
-- - ACT-SITE-05-ID-C / Nusantara Deep Relay, Deep-Sea Technical Liaison, Site Record;
-- - Sounding material interdiction restricted extract [Level 5].
+- GOI-CU-X-048 — Children of the Deep, Group of Interest Registry;
+- TECH-GOI-048-2 — CoTD Inland Mouth Overlay Map Set, Technology Record;
+- TECH-GOI-048-3 — CoTD Pressure Ritual Equipment and Sealed Container Set, Technology Record;
+- TECH-GOI-048-4 — CoTD Compartmented Text, Recording, and Calendar Set, Technology Record;
+- TECH-GOI-048-5 — CoTD Concealed Contribution and Procurement System, Technology Record;
+- ACT-SITE-05-ID-C / Nusantara Deep Relay, Deep-Sea Technical Liaison, Site Record;
+- Sounding material interdiction restricted extract [Level 5].
 
 The Visual Reference Guide does not carry this apparatus and will not. It describes
 equipment personnel are trained to maintain, and nothing here is maintained: a recovered rig

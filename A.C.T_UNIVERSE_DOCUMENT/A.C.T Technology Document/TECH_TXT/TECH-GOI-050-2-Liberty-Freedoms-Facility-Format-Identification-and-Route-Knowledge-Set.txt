@@ -295,13 +295,13 @@ designation record. Command approves any defector arrangement and holds the amne
 
 CROSS-REFERENCES
 
-- - GOI-ML-X-050 — Liberty Freedoms, Group of Interest Registry;
-- - TECH-GOI-050-1 — L.F. Adapted Facility Transport Fixture and Restraint Set, Technology Record;
-- - TECH-GOI-050-3 — L.F. Carried-Subject Transport and Temporary Care System, Technology Record;
-- - TECH-GOI-050-4 — L.F. Fragment-Assembly Publication and Masthead Relay, Technology Record;
-- - TECH-GOI-050-5 — L.F. Staged-Truth Recruitment and Compartmentation System, Technology Record;
-- - TECH-GOI-001-2 — GAA Classified Logistics and Surface Documentation Layer, Technology Record;
-- - Transport interception and subject recovery restricted extract [Level 5].
+- GOI-ML-X-050 — Liberty Freedoms, Group of Interest Registry;
+- TECH-GOI-050-1 — L.F. Adapted Facility Transport Fixture and Restraint Set, Technology Record;
+- TECH-GOI-050-3 — L.F. Carried-Subject Transport and Temporary Care System, Technology Record;
+- TECH-GOI-050-4 — L.F. Fragment-Assembly Publication and Masthead Relay, Technology Record;
+- TECH-GOI-050-5 — L.F. Staged-Truth Recruitment and Compartmentation System, Technology Record;
+- TECH-GOI-001-2 — GAA Classified Logistics and Surface Documentation Layer, Technology Record;
+- Transport interception and subject recovery restricted extract [Level 5].
 
 The GAA documentation layer is cited as the legitimate form of the same technique.
 Both make an operation legible to the people who need to move through it

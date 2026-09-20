@@ -298,13 +298,13 @@ paraphrase. Security holds Level 5 material. Command decides whether an indicato
 
 CROSS-REFERENCES
 
-- - GOI-CP-B-049 — DREAM .INC, Group of Interest Registry;
-- - TECH-GOI-049-1 — DREAM .INC Dream Nectar Extraction Apparatus, Technology Record;
-- - TECH-GOI-049-2 — DREAM .INC Dream Nectar Sealed Batch System, Technology Record;
-- - TECH-GOI-049-3 — DREAM .INC Wish Intake and Confidential Report System, Technology Record;
-- - TECH-GOI-049-4 — DREAM .INC Twelve-Building Appointment Routing Network, Technology Record;
-- - TECH-GOI-001-4 — GAA Compartmented Awareness and Document-Routing Channel, Technology Record;
-- - ACT-SITE-03-JP-E / Kurokawa Archive Node, Document Contamination Review, Site Record;
+- GOI-CP-B-049 — DREAM .INC, Group of Interest Registry;
+- TECH-GOI-049-1 — DREAM .INC Dream Nectar Extraction Apparatus, Technology Record;
+- TECH-GOI-049-2 — DREAM .INC Dream Nectar Sealed Batch System, Technology Record;
+- TECH-GOI-049-3 — DREAM .INC Wish Intake and Confidential Report System, Technology Record;
+- TECH-GOI-049-4 — DREAM .INC Twelve-Building Appointment Routing Network, Technology Record;
+- TECH-GOI-001-4 — GAA Compartmented Awareness and Document-Routing Channel, Technology Record;
+- ACT-SITE-03-JP-E / Kurokawa Archive Node, Document Contamination Review, Site Record;
 
 The compartmented awareness system is cited because both let an organisation act on information
 its members cannot explain. That set is designed to protect a Facility operation; this

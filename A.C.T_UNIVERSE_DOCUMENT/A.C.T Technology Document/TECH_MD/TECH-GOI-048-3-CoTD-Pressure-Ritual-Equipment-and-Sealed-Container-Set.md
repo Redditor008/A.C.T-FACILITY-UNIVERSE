@@ -270,13 +270,13 @@ separated material. Command authorises any escalation touching anomalous materia
 
 ## CROSS-REFERENCES
 
-- - GOI-CU-X-048 — Children of the Deep, Group of Interest Registry;
-- - TECH-GOI-048-1 — CoTD Low-Frequency Sounding and Timing Apparatus, Technology Record;
-- - TECH-GOI-048-2 — CoTD Inland Mouth Overlay Map Set, Technology Record;
-- - TECH-GOI-048-4 — CoTD Compartmented Text, Recording, and Calendar Set, Technology Record;
-- - TECH-GOI-048-5 — CoTD Concealed Contribution and Procurement System, Technology Record;
-- - Anomaly Classification Manual Archive, Classification and Custody Record;
-- - Inland mouth review restricted extract [Level 5].
+- GOI-CU-X-048 — Children of the Deep, Group of Interest Registry;
+- TECH-GOI-048-1 — CoTD Low-Frequency Sounding and Timing Apparatus, Technology Record;
+- TECH-GOI-048-2 — CoTD Inland Mouth Overlay Map Set, Technology Record;
+- TECH-GOI-048-4 — CoTD Compartmented Text, Recording, and Calendar Set, Technology Record;
+- TECH-GOI-048-5 — CoTD Concealed Contribution and Procurement System, Technology Record;
+- Anomaly Classification Manual Archive, Classification and Custody Record;
+- Inland mouth review restricted extract [Level 5].
 
 The Classification Manual is cited because separated material may need its own record. Dual
 filing is not required for the cult as a whole, but individual contaminated or

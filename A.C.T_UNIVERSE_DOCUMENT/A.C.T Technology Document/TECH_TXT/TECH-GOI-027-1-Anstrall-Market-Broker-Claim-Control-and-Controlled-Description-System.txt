@@ -311,14 +311,14 @@ controlled market operation.
 
 CROSS-REFERENCES
 
-- - GOI-BS-T-027 — Anstrall Market, Group of Interest Registry;
-- - TECH-GOI-027-2 — Anstrall Market Valuation and Demand-Price Ledger, Technology Record;
-- - TECH-GOI-027-3 — Anstrall Market Handler Custody Rule and Packaging Set, Technology Record;
-- - TECH-GOI-027-4 — Anstrall Market Concealed Payment and Provenance Chain, Technology Record;
-- - TECH-GOI-027-5 — Anstrall Market Staged Demonstration and Recorded Proof Set, Technology Record;
-- - TECH-GOI-001-4 — GAA Compartmented Awareness and Document-Routing Channel, Technology Record;
-- - ACT-SITE-01-US-W / Redwood Veil Complex, Trade-Interdiction Jurisdiction, Site Record;
-- - Catalogue containment review restricted extract [Level 5].
+- GOI-BS-T-027 — Anstrall Market, Group of Interest Registry;
+- TECH-GOI-027-2 — Anstrall Market Valuation and Demand-Price Ledger, Technology Record;
+- TECH-GOI-027-3 — Anstrall Market Handler Custody Rule and Packaging Set, Technology Record;
+- TECH-GOI-027-4 — Anstrall Market Concealed Payment and Provenance Chain, Technology Record;
+- TECH-GOI-027-5 — Anstrall Market Staged Demonstration and Recorded Proof Set, Technology Record;
+- TECH-GOI-001-4 — GAA Compartmented Awareness and Document-Routing Channel, Technology Record;
+- ACT-SITE-01-US-W / Redwood Veil Complex, Trade-Interdiction Jurisdiction, Site Record;
+- Catalogue containment review restricted extract [Level 5].
 
 The Master Index does not carry this record and will not. It numbers technology
 A.C.T issues, and nothing here is issued: a broker description is recovered, restricted, and

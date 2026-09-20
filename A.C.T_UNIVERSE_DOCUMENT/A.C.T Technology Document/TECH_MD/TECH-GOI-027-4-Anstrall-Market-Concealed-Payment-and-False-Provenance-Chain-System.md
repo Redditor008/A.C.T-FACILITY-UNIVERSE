@@ -274,13 +274,13 @@ to negotiate Market terms or retain appropriated material.
 
 ## CROSS-REFERENCES
 
-- - GOI-BS-T-027 — Anstrall Market, Group of Interest Registry;
-- - TECH-GOI-027-1 — Anstrall Market Broker Claim-Control and Description System, Technology Record;
-- - TECH-GOI-027-2 — Anstrall Market Valuation and Demand-Price Ledger, Technology Record;
-- - TECH-GOI-027-3 — Anstrall Market Handler Custody Rule and Packaging Set, Technology Record;
-- - TECH-GOI-027-5 — Anstrall Market Staged Demonstration and Recorded Proof Set, Technology Record;
-- - TECH-GOI-001-1 — GAA Legal Masking and Task-Bounded Authorization Instrument Set, Technology Record;
-- - ACT-SITE-01-US-W / Redwood Veil Complex, Trade-Interdiction Jurisdiction, Site Record;
+- GOI-BS-T-027 — Anstrall Market, Group of Interest Registry;
+- TECH-GOI-027-1 — Anstrall Market Broker Claim-Control and Description System, Technology Record;
+- TECH-GOI-027-2 — Anstrall Market Valuation and Demand-Price Ledger, Technology Record;
+- TECH-GOI-027-3 — Anstrall Market Handler Custody Rule and Packaging Set, Technology Record;
+- TECH-GOI-027-5 — Anstrall Market Staged Demonstration and Recorded Proof Set, Technology Record;
+- TECH-GOI-001-1 — GAA Legal Masking and Task-Bounded Authorization Instrument Set, Technology Record;
+- ACT-SITE-01-US-W / Redwood Veil Complex, Trade-Interdiction Jurisdiction, Site Record;
 
 The GAA masking set is cited for the same reason in both directions: it
 shows what a legitimate authority does with the same problem, and the contrast is
