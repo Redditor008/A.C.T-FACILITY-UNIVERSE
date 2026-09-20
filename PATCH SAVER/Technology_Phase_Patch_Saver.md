@@ -4736,8 +4736,9 @@ chapter separators, exactly five tables matched by five plain-text boxes, a sing
 rule, no markdown artefacts carried into the twin, every heading present as a bare line in the twin,
 every table cell value present in the twin once box wrapping is flattened, box rules exactly 118
 wide, no O5 reference, correct cross-reference designations, and a single trailing newline. A
-first-column wrap census over all 150 tables and 150 rows in the six rebuilt sets returned 0
-problems.
+first-column wrap census over all 150 tables and 1138 rows in the six
+rebuilt sets returned 0 problems. An earlier form of that census counted only the 150 header
+rows and missed the 988 body rows, and was corrected before these figures were recorded.
 
 **Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, CONFLICT 0, multiH1 0,
 odd-fence 0, md-with-box 0, glued separator lines 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204,
