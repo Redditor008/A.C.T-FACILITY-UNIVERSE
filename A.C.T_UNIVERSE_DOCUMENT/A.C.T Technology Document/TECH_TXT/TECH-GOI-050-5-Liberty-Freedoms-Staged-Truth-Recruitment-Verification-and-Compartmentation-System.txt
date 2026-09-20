@@ -1,75 +1,330 @@
-TECH-GOI-050-5 - LIBERTY FREEDOMS STAGED-TRUTH RECRUITMENT VERIFICATION AND COMPARTMENTATION SYSTEM
+A.C.T FACILITY ARCHIVE FILE
+TECHNOLOGY RECORD - LIBERTY FREEDOMS STAGED-TRUTH RECRUITMENT VERIFICATION AND COMPARTMENTATION SYSTEM
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
 +============================+=======================================================================================+
 | TECHNOLOGY DESIGNATION     | TECH-GOI-050-5                                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
-| TECHNOLOGY NAME            | Liberty Freedoms Staged-Truth Recruitment Verification and Compartmentation System    |
+| TECHNOLOGY NAME            | Liberty Freedoms Staged-Truth Recruitment and Compartmentation System                 |
 +----------------------------+---------------------------------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Staged Truth / True Fragment / Gate Screening                                         |
+| SHORT NAME                 | STRCS                                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ORIGIN                     | Liberty Freedoms                                                                      |
+| TECHNOLOGY FAMILY          | ACQUIRED HOSTILE / PERSONNEL CONVERSION / VERIFIABLE-FRAGMENT METHOD                  |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ACQUISITION STATUS         | Reconstructed from returnee and captured-defector interviews; no captured recruitment |
-|                            | manual held                                                                           |
+| ORIGIN                     | LIBERTY FREEDOMS (GOI-ML-X-050) / GATE AND WITNESS CELLS                              |
 +----------------------------+---------------------------------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Insider-approach detection, vulnerability-profile analysis, defector credibility      |
-|                            | assessment, witness-chain control                                                     |
+| PRIMARY CONTROLLER         | Intelligence Division / Internal Security liaison                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ARCHIVE HANDLING           | DEFECTOR-IDENTITY RESTRICTED / GATE-CELL SOURCE CONTROL                               |
+| ATTACHED DIVISIONS         | Intelligence, Security, Medical Care, Civil Covert, Archive, Command                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| OPERATIONAL STATUS         | NOT HELD / RECONSTRUCTED FROM RETURNEE AND CAPTURED-DEFECTOR INTERVIEWS               |
++----------------------------+---------------------------------------------------------------------------------------+
+| RISK STATUS                | INSIDER APPROACH / WITNESS-CHAIN CONTROL / DOCTRINE AND KNOWLEDGE MIXING              |
++----------------------------+---------------------------------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for hostile-network review; Level 5 for defector identity                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Functional Identity
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Hostile-Network Technology Record                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Intelligence / Security / Recovery / Containment / Medical Care / Command             |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Intelligence Division, Hostile Networks Desk, with Central Archive custody            |
++----------------------------+---------------------------------------------------------------------------------------+
 
-The Liberty Freedoms Staged-Truth Recruitment Verification and Compartmentation System is the personnel technology
-that converts a true grievance into armed commitment while keeping most members ignorant of
-the whole operation. The
-dossier records Gate Cells as the function that recruits, protects, and vets former A.C.T
-personnel, contractors, and
-their families, managing the highest-risk asset the network holds, which is inside knowledge. A.C.T
-files this as
-acquired GOI technology because the method is a designed system with repeatable stages, not
-spontaneous
-radicalization.
-
-Known Structure and Use
+Archive Note
+The system is catalogued because it is a designed process with repeatable stages rather
+than spontaneous radicalization. Gate cells recruit, protect, and vet former A.C.T personnel, contractors, and
+their families, managing what the dossier calls the highest-risk asset the network holds, which
+is inside knowledge.
 
 Recruitment is staged. A prospect is first given a true fragment, a real but
-carefully chosen piece of concealed
-information, and invited to verify it. The fragment establishes that the concealed world exists
-and that the Facility
-has hidden it. From that point the recruit is led through increasing commitment: reading,
-witnessing, transport
-assistance, and only later, for most, knowledge of armed activity. The method is effective
-because every step is
-voluntary and every early claim is verifiable. Compartmentation completes it. Cells are separated by
-design, captured
-records may use older terminology to mislead analysis about a cell's current role, and
-personnel who hesitate at the
-threshold of violence are assessed to be moved into support or publication roles rather
-than released, because a
-released recruit is a reportable witness.
+carefully chosen piece of concealed information, and invited to verify it. The fragment establishes
+that the concealed world exists and that the Facility has hidden it. From that
+point the recruit is led through increasing commitment: reading, witnessing, transport assistance, and only
+later, for most, knowledge of armed activity.
 
-A.C.T Handling Rules
+The method is effective because every step is voluntary and every early claim is
+verifiable. The prospect's own scepticism is the recruitment instrument: the network invites verification
+precisely because verification succeeds, and a person who has confirmed one concealment has already
+accepted the premise the doctrine needs.
 
-Every returnee receives full physical, cognitive, memetic, and environmental screening before interview. A returned
-defector may be a committed convert, a coerced intermediary, a remorseful witness, a source
-of disinformation, or a
-person who believed a true fragment and never saw the raid it enabled, and
-none of those conditions may be assumed
-from the account alone. Interviews must separate genuine operational knowledge from doctrine. Recovered material
-is
-divided into immediate safety, intelligence, and exposure streams, and no L.F. material is repurposed
-by
-Transformation Division without Command-level exception.
+Controlled label: **L.F. RETURNEE ASSUMPTION PROHIBITION**.
 
-Failure and Open Questions
+Core handling rule:
 
-The system fails when a fragment cannot be verified, when a recruit reports the
-approach, or when compartmentation
-leaves a cell unable to act on information it holds. Identifying gate-cell recruiters who
-approach current staff and
-the vulnerability profiles they exploit is a standing intelligence priority. Whether a founding council
-exists, or
-whether coherence is maintained entirely by shared doctrine and defector culture, remains unresolved.
+A RETURNEE'S ACCOUNT MIXES KNOWLEDGE AND DOCTRINE.
+NO COMMITMENT, COERCION, OR IGNORANCE IS ASSUMED FROM IT.
+
+
+FUNCTION SUMMARY
+
+The system converts a true grievance into armed commitment while keeping most members ignorant
+of the whole operation. Its raw material is real: former personnel alienated by discipline
+or by incidents they were ordered to conceal, civilians displaced by containment activity, families
+told a relative does not exist, and logistics workers who notice schedules that do
+not add up.
+
+Compartmentation completes the design. Cells are separated by purpose, captured records may use older
+terminology to mislead analysis about a cell's current role, and personnel who hesitate at
+the threshold of violence are assessed to be moved into support or publication roles
+rather than released, because a released recruit is a reportable witness.
+
+The consequence for A.C.T is that the counter cannot be denial. A false denial
+confirms the fragment and hands the recruiter a second verifiable claim, so the only
+workable response is a narrow true statement that removes the fragment's isolation without confirming
+the implication built on it.
+
+
+ORIGIN AND CUSTODY
+
+Liberty Freedoms is recorded at Threat Level 4, Nature Class MILITANT, Alignment NEGATIVE, Reach
+TRANSNATIONAL, Anomalous Capability HANDLER, and Secrecy Risk EXPOSURE-ACTIVE, under A.C.T posture CONTAIN /
+DISMANTLE / INFILTRATE. Leadership is assessed as a small rotating council of founding defectors
+and regional commanders, but the assessment rests on patterns rather than confirmed identities, and
+pursuit of presumed leadership must not replace protection of live targets.
+
+The system is reconstructed from returnee and captured-defector interviews. No captured recruitment manual is
+held, and none may exist: the method is transmitted as practice between gate cells,
+and seized documents suggest the network changes its own terminology deliberately.
+
+Defector identity material is restricted at Level 5 and held by the Hostile Networks
+Desk with Internal Security liaison. Central Archive holds the designation record, and gate-cell source
+material is kept separate from operational intelligence so that a compromised file cannot expose
+a screening process.
+
+
+PHYSICAL OR SYSTEM DESCRIPTION
+
+The system has a conversion layer and a retention layer. Known components are:
+
+- true fragment selected for verifiability;
+- invitation to verify;
+- grievance identification;
+- staged reading material;
+- witnessing opportunity;
+- transport assistance tasking;
+- delayed knowledge of armed activity;
+- role reassignment for hesitant recruits;
+- cell terminology rotation;
+- no-release retention practice.
+
+Role reassignment for hesitant recruits is the component that makes returnees unreliable witnesses. A
+member moved to a support or publication role has committed voluntarily at every stage
+they can describe and knows nothing about the stage they were kept away from.
+
+
+TECHNICAL SPECIFICATION
+
+Figures are restated from the GOI-ML-X-050 dossier and from returnee interviews. Values the archive
+does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| RECRUITMENT PARAMETER      | VALUE                                                                                 |
++============================+=======================================================================================+
+| First contact              | true fragment, verifiable                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Verification invited       | yes                                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Commitment model           | staged and voluntary                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Violence knowledge         | delayed for most                                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Hesitant recruits          | reassigned, not released                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Terminology                | rotated deliberately                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Manual held                | no                                                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Recruiters identified      | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Vulnerability profiles     | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Approaches to staff        | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+
+The verification invited row is the mechanism in one line. A method that asked
+for belief could be countered with evidence; a method that asks for checking cannot,
+because the check succeeds.
+
+
+INTERFACE AND OPERATING ENVELOPE
+
+Recruitment Assessment Controls
+
+- Hostile Networks Desk with Internal Security
+- Level 5 restriction on defector identity
+- full screening before any interview
+- gate-cell source separation
+
+Recruitment Readouts
+
+- approach pattern inventory
+- vulnerability profile record
+- fragment source classification
+- doctrine versus knowledge separation
+
+Handling Limits And Weaknesses
+
+- Do not assume commitment, coercion, or ignorance from an account.
+- Do not answer a true fragment with a false denial.
+- Do not offer amnesty that preserves access to containment knowledge.
+- Do not interview before physical, cognitive, memetic, and environmental screening.
+- Weakest against returnees reassigned before reaching armed activity.
+- Weakest where the fragment is entirely accurate.
+
+Recruiter counts, vulnerability profiles, and approach totals are NOT MEASURED.
+
+
+OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+The sequence screens before it interviews and separates before it records. Both orders protect
+the same thing: an account taken before screening may carry a memetic or doctrinal
+load into the Facility's own records, and an account recorded without separation cannot later
+be told apart from the network's own framing of itself.
+
+1. Screen physically, cognitively, memetically, and environmentally.
+2. Interview only after screening clears.
+3. Separate operational knowledge from doctrine line by line.
+4. Classify each claim as knowledge, belief, or doctrine.
+5. Identify the true fragment the account began from.
+6. Trace how that fragment became available.
+7. Prepare a narrow true statement rather than a denial.
+8. Report the approach pattern, not the recruit.
+
+Step 6 is the step that closes something. A fragment is only useful to
+a recruiter while it is unavailable to everyone else, and tracing how it became
+available removes the material the next recruitment will start from.
+
+
+SERVICING AND CALIBRATION
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Per returnee               | full screening before interview                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Per interview              | separate knowledge from doctrine                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | compare approach patterns across cases                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Annually                   | review vulnerability profiles against staffing                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| On approach report         | Internal Security, Level 5                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+
+
+The annual review is the maintenance that matters. Gate cells recruit against vulnerability, and
+vulnerability shifts with discipline cases, incident exposure, and staff turnover, so last year's profile
+describes a population that no longer exists.
+
+
+FAULT ISOLATION
+
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Account consistent         | doctrine mixed in                         | separate, re-interview                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Fragment verified          | true concealment                          | narrow truth, Civil Covert                |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Returnee knows little      | reassigned role                           | do not assume ignorance                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Approach reported          | gate-cell contact                         | Level 5, Internal Security                |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Amnesty offered            | cooperation sought                        | refuse, Command                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+
+
+KNOWN LIMITS
+
+The system cannot be read from an account. Every returnee receives full physical, cognitive,
+memetic, and environmental screening before interview, because a returned defector may be a committed
+convert, a coerced intermediary, a remorseful witness, a source of disinformation, or a person
+who believed a true fragment and never saw the raid it enabled. None of
+those conditions may be assumed from the account alone.
+
+It also cannot be countered by denial. Interviews must separate genuine operational knowledge from
+the network's doctrine, because the two are mixed even in the member's own account,
+and no amnesty or immunity may be offered that would permit a defector to
+retain access to containment knowledge. Recovered material is divided into immediate safety, intelligence, and
+exposure streams, and no L.F. material is repurposed by Transformation Division without Command-level
+exception.
+
+
+FAILURE HISTORY
+
+STAGED TRUTH AS CONVERSION ENGINE — STANDING PATTERN
+
+The method works because the first claim is true. Every step is voluntary and
+every early claim is verifiable, so a prospect who checks and confirms has already
+accepted the premise, and each later step feels like a smaller commitment than the
+one before it. The pattern recurs wherever real concealment exists to draw from.
+
+NO-RELEASE RETENTION — WITNESS CONTROL
+
+Personnel who hesitate at the threshold of violence are assessed to be moved into
+support or publication roles rather than released, because a released recruit is a reportable
+witness. The practice is why returnee accounts skew toward members who never reached armed
+activity and therefore cannot describe it.
+
+FOUNDING COUNCIL — UNRESOLVED
+
+Whether a founding council exists, or whether the network's coherence is maintained entirely by
+shared doctrine and defector culture, remains unresolved. L.F. can regenerate its command layer from
+defector knowledge and shared doctrine, so a single arrest will not end a network
+that treats its ideology as a system of custody it has already escaped.
+
+
+DIVISION USE
+
+Intelligence Division and the Hostile Networks Desk hold the record and read approach patterns.
+Internal Security investigates approaches to current staff and holds gate-cell source material. Medical Care
+performs screening and attends interviews. Civil Covert Division drafts the narrow true statements that
+replace denial. Archive intakes recovered material into three streams. Command holds the amnesty prohibition
+and any Transformation Division exception.
+
+
+CROSS-REFERENCES
+
+- - GOI-ML-X-050 — Liberty Freedoms, Group of Interest Registry;
+- - TECH-GOI-050-1 — L.F. Adapted Facility Transport Fixture and Restraint Set, Technology Record;
+- - TECH-GOI-050-2 — L.F. Facility-Format Identification and Route Knowledge Set, Technology Record;
+- - TECH-GOI-050-3 — L.F. Carried-Subject Transport and Temporary Care System, Technology Record;
+- - TECH-GOI-050-4 — L.F. Fragment-Assembly Publication and Masthead Relay, Technology Record;
+- - TECH-GOI-001-4 — GAA Compartmented Awareness and Document-Routing Channel, Technology Record;
+- - Transport interception and subject recovery restricted extract [Level 5].
+
+The compartmented awareness system is cited because both keep members unable to describe the
+whole. That set limits knowledge so an operation survives exposure; this one limits knowledge
+so a member cannot leave and testify.
+
+
+OPEN QUESTIONS
+
+- Which gate-cell recruiters approach current staff?
+- Which vulnerability profiles are being exploited, and do they shift with staffing?
+- How are true fragments selected, and by whom?
+- Can a returnee account be separated from doctrine at all?
+- Does a founding council exist, or only shared doctrine?
+- How many hesitant recruits are retained in support roles?
+
+
+FILE METADATA
+
+- **Created:** 2024-12-02
+- **Author Desk:** Intelligence Division / Hostile Networks Desk / Central Archive
+- **Review Status:** Active restricted hostile-network technology record; defector identities and gate-cell
+sources sealed
+- **Next Review:** After any returnee interview, any reported approach to current staff, or any
+confirmed gate-cell identification

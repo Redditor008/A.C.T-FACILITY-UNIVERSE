@@ -1,4 +1,5 @@
-TECH-GOI-050-4 - LIBERTY FREEDOMS FRAGMENT-ASSEMBLY PUBLICATION AND MASTHEAD RELAY SYSTEM
+A.C.T FACILITY ARCHIVE FILE
+TECHNOLOGY RECORD - LIBERTY FREEDOMS FRAGMENT-ASSEMBLY PUBLICATION AND MASTHEAD RELAY SYSTEM
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -7,68 +8,324 @@ TECH-GOI-050-4 - LIBERTY FREEDOMS FRAGMENT-ASSEMBLY PUBLICATION AND MASTHEAD REL
 +----------------------------+---------------------------------------------------------------------------------------+
 | TECHNOLOGY NAME            | Liberty Freedoms Fragment-Assembly Publication and Masthead Relay System              |
 +----------------------------+---------------------------------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Open Hand / Publication Relay / Fragment Assembly                                     |
+| SHORT NAME                 | FAPRS                                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ORIGIN                     | Liberty Freedoms                                                                      |
+| TECHNOLOGY FAMILY          | ACQUIRED HOSTILE / INFORMATION WEAPON / LAWFUL-ACCESS FRAGMENT ASSEMBLY               |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ACQUISITION STATUS         | Seized pre-release assemblies, masthead material, and relay traces; publication       |
-|                            | infrastructure only partly mapped                                                     |
+| ORIGIN                     | LIBERTY FREEDOMS (GOI-ML-X-050) / PUBLICATION AND WITNESS CELLS                       |
 +----------------------------+---------------------------------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Leak forensics, pre-release detection, lawful-access abuse analysis, exposure         |
-|                            | containment                                                                           |
+| PRIMARY CONTROLLER         | Archive Division / Civil Covert Division joint exposure authority                     |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ARCHIVE HANDLING           | LEAK-SOURCE RESTRICTED / SITE 03 DOCUMENT-WARFARE CONTROL                             |
+| ATTACHED DIVISIONS         | Archive, Civil Covert, Intelligence, Security, Recovery, Command                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| OPERATIONAL STATUS         | PARTLY HELD / PRE-RELEASE ASSEMBLIES SEIZED, INFRASTRUCTURE PARTLY MAPPED             |
++----------------------------+---------------------------------------------------------------------------------------+
+| RISK STATUS                | EXPOSURE-ACTIVE / DENIAL TRAP / LAWFUL-ACCESS ABUSE / WITNESS-CHAIN RISK              |
++----------------------------+---------------------------------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for hostile-network review; Level 5 for leak-source files                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Functional Identity
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Leak-Forensics Technology Record                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Intelligence / Security / Recovery / Containment / Medical Care / Command             |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Intelligence Division, Hostile Networks Desk, with Central Archive custody            |
++----------------------------+---------------------------------------------------------------------------------------+
 
-The Liberty Freedoms Fragment-Assembly Publication and Masthead Relay System is the information weapon the
-network
-uses to convert lawful archival fragments into a disclosure that survives official denial. The
-dossier records
-Publication Cells preparing, releasing, and maintaining controlled leaks, leaflets, and recordings while treating
-information as a weapon with its own containment rules, and describes leaks prepared with
-the care of an archive:
-documents verified, redacted to protect the network's own sources, timed to operational moments, and
-released through
-channels that resist takedown. A.C.T files this as acquired GOI technology because the system
-attacks records rather
-than facilities.
+Archive Note
+The system is catalogued because it attacks records rather than facilities. Publication cells prepare,
+release, and maintain controlled leaks, leaflets, and recordings, treating information as a weapon with
+its own containment rules. Leaks are prepared with the care of an archive: documents
+are verified, redacted to protect the network's own sources, timed to operational moments, and
+released through channels that resist takedown.
 
-Known Structure and Use
-
-Material circulates under shifting mastheads, most commonly the Open Hand, and appears where affected
-communities
-already gather: survivor support spaces, transport-worker networks, medical leave forums, and the edges of
-settlements
-displaced by contained incidents. The masthead changes because the network treats a stable public
-name as a target.
 Its most effective method requires no theft at all. In one restricted extract, Site
-03 detected assembly of a
-publication built from an outdated site overview, a declassified personnel list, and a transport
-manifest stripped of
-current data; the assembled document was internally consistent and its fragments individually verifiable, while
-its
+03 detected assembly of a publication built from an outdated site overview, a declassified
+personnel list, and a transport manifest stripped of current data. The assembled document was
+internally consistent and its fragments individually verifiable, while its implication was false. Source
+analysis traced the fragments to a sequence of lawful archive requests.
+
+That case sets the handling class for this record. A publication assembled without a
+single theft cannot be answered by tightening security, because nothing was taken. It can
+only be answered by archive discipline and by a denial narrow enough not to
+become the doctrine's proof, which is why the response is coordinated between Archive and
+Civil Covert rather than led by either.
+
+Controlled label: **L.F. PUBLICATION DENIAL LIMIT**.
+
+Core handling rule:
+
+NO LEAKED CONTENT IS CONFIRMED OR DENIED BEYOND APPROVED WORDING.
+A FALSE DENIAL IS THE DOCTRINE'S PROOF.
+
+
+FUNCTION SUMMARY
+
+The system converts lawful archival fragments into a disclosure that survives official denial. Each
+fragment is accurate in what it shows and the assembly is misleading in what
+it implies, so a rebuttal that disputes a fragment concedes the assembly and a
+rebuttal that disputes the assembly is accused of hiding the fragments.
+
+That is the trap the network builds, and it is deliberate. L.F. seeks a
+controlled public rupture and forces the Facility into response dilemmas where every option confirms,
+denies, retrieves, or ignores in a way that feeds the next publication. The system's
+output is not the document; it is the shape of the official answer.
+
+The consequence for A.C.T is that every publication is read twice. Once as intelligence,
+to establish what the network holds and how it obtained it. Once as a
+weapon, to establish what response it was built to provoke. Only the second reading
+tells Civil Covert what wording is safe.
+
+
+ORIGIN AND CUSTODY
+
+Liberty Freedoms is recorded at Threat Level 4, Nature Class MILITANT, Alignment NEGATIVE, Reach
+TRANSNATIONAL, Anomalous Capability HANDLER, and Secrecy Risk EXPOSURE-ACTIVE, under A.C.T posture CONTAIN /
+DISMANTLE / INFILTRATE. Leadership is assessed as a small rotating council of founding defectors
+and regional commanders, but the assessment rests on patterns rather than confirmed identities, and
+pursuit of presumed leadership must not replace protection of live targets.
+
+Seized pre-release assemblies, masthead material, and relay traces are held; the publication infrastructure is
+only partly mapped. Material circulates under shifting mastheads, most commonly the Open Hand, and
+appears where affected communities already gather: survivor support spaces, transport-worker networks, medical
+leave forums, and the edges of settlements displaced by contained incidents.
+
+ACT-SITE-03-JP-E / Kurokawa Archive Node leads leak forensics, defector communications analysis, publication
+pre-release detection, and protection of the records most damaging if released. Leak-source files are
+restricted at Level 5, and Central Archive holds the designation record.
+
+
+PHYSICAL OR SYSTEM DESCRIPTION
+
+The system has an assembly layer and a distribution layer. Known components are:
+
+- lawful archive request sequences;
+- outdated but verifiable fragments;
+- declassified personnel lists;
+- transport manifests stripped of current data;
+- internal consistency checking;
+- source-protective redaction;
+- operational timing;
+- shifting masthead identities;
+- relay points across jurisdictions;
+- encrypted drop systems.
+
+Internal consistency checking is the component that makes the assembly hard to rebut. The
+network verifies its own fragments before release, so a fact-check finds nothing false and
+the reader is left with an implication that no individual document supports.
+
+
+TECHNICAL SPECIFICATION
+
+Figures are restated from the GOI-ML-X-050 dossier and from Site 03 leak forensics. Values
+the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| PUBLICATION PARAMETER      | VALUE                                                                                 |
++============================+=======================================================================================+
+| Fragment source            | lawful archive requests                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Theft required             | no                                                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Fragment accuracy          | individually verifiable                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Assembly implication       | may be false                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Masthead behaviour         | shifts; Open Hand most common                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Timing                     | set to operational moments                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Official response          | constrained by approved wording                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Assemblies seized          | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Relay points mapped        | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Insider-source cases       | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+
+The insider-source row is the standing intelligence question. Which publications are assembled from lawful
+access and which indicate an active insider source determines whether the response is archive
+discipline or a live insider investigation, and the two responses must not be confused.
+
+
+INTERFACE AND OPERATING ENVELOPE
+
+Publication Assessment Controls
+
+- Kurokawa Archive Node leak forensics
+- Civil Covert wording approval before any response
+- Level 5 restriction on leak-source files
+- pre-release detection tasking
+
+Publication Readouts
+
+- fragment source classification
+- lawful-access versus insider determination
+- assembly implication assessment
+- response-wording recommendation
+
+Handling Limits And Weaknesses
+
+- Do not confirm or deny leaked content beyond approved wording.
+- Do not treat a lawful-access assembly as a security breach.
+- Do not treat an insider-sourced assembly as archive discipline.
+- Do not circulate a seized assembly as an intelligence summary.
+- Weakest against assemblies whose fragments are all declassified.
+- Weakest where the masthead has already shifted.
+
+Seizure counts, relay mapping, and insider cases are NOT MEASURED.
+
+
+OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+The sequence classifies the source before it drafts the response. The two are usually
+done in the opposite order under public pressure, and the result is a denial
+written before anyone has established whether the document was stolen, which is the error
+the network is counting on.
+
+1. Seize or preserve the assembly before release where possible.
+2. Trace every fragment to its access route.
+3. Classify the case as lawful-access or insider-sourced.
+4. Assess what the assembly implies rather than what it states.
+5. Draft response wording with Civil Covert and Site 03.
+6. Protect the records the assembly shows are most damaging.
+7. Treat any L.F. incident as a potential leak event.
+8. Report source classification, not the document's content.
+
+Step 7 is the discipline the doctrine forces. Raids and carry operations create witness
+chains the network cannot fully control, so an incident with no publication attached is
+still an exposure event and is handled as one.
+
+
+SERVICING AND CALIBRATION
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Per assembly               | trace fragments before drafting response                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Per incident               | treat as potential leak event                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | compare masthead and relay movement                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Annually                   | review archive request patterns for assembly                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| On insider indication      | Internal Security, Level 5                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+
+
+The annual request-pattern review is the maintenance that matters. An assembly built from lawful
+access leaves its trace in the archive's own request log, and that log is
+the only place the network's most effective method can be seen before release.
+
+
+FAULT ISOLATION
+
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Fragments all lawful       | archive assembly                          | discipline, not security                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Fragment current           | insider source                            | Level 5, Internal Security                |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Denial drafted early       | public pressure                           | hold, Civil Covert                        |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Masthead shifted           | relay protection                          | trace, Kurokawa                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Assembly circulated        | read as intelligence                      | withdraw, restrict                        |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+
+
+KNOWN LIMITS
+
+The material cannot be answered by rebuttal. No leaked content is to be publicly
+confirmed or denied beyond the narrow wording approved by Civil Covert and Site 03
+liaison, because denial is the response the network's doctrine predicts and a false denial
+is the proof it claims to want. Every L.F. publication is treated as both
+intelligence and weapon.
+
+It also cannot be fully pre-empted. The network prepares leaks with archival care and
+releases them through channels that resist takedown, and its most effective leaks are those
+it never has to steal. Pre-release detection depends on recognising an assembly in progress,
+and an assembly made entirely of declassified material looks like ordinary research until it
+is finished.
+
+
+FAILURE HISTORY
+
+PRE-RELEASE PUBLICATION SEIZURE — LAWFUL ASSEMBLY
+
+Site 03's document-warfare unit detected assembly of a publication built from archived fragments: an
+outdated site overview, a declassified personnel list, and a transport manifest stripped of current
+data. The assembled document was internally consistent and its fragments individually verifiable, but its
 implication was false. Source analysis traced the fragments to a sequence of lawful archive
-requests.
+requests, and interdiction occurred before release.
 
-A.C.T Handling Rules
+DENIAL AS PREDICTED RESPONSE — STANDING PATTERN
 
-Every L.F. publication is treated as both intelligence and weapon, and every L.F. incident
-is treated as a potential
-leak event regardless of whether material was published. ACT-SITE-03-JP-E Kurokawa Archive Node leads leak
-forensics,
-defector communications analysis, publication pre-release detection, and protection of the records most damaging if
-released. No leaked content is to be publicly confirmed or denied beyond the narrow
-wording approved by Civil Covert
-and Site 03 liaison, because denial is the response the network's doctrine predicts.
+The network's doctrine predicts that the Facility will deny, and its publications are built
+so that denial is the most available answer. The pattern recurs because a narrow
+true statement is harder to produce under pressure than a broad false one, and
+the wording approval rule exists to close exactly that gap.
 
-Failure and Open Questions
+LAWFUL ACCESS VERSUS INSIDER SOURCE — UNRESOLVED
 
-The system fails when a fragment set cannot be made internally consistent, when a
-relay is traced, or when timing
-loses its operational value. Which publications are assembled from lawful access and which indicate
-an active insider
-source remains a standing intelligence priority, and the boundary between the two determines whether
-the response is
-archive discipline or a live insider investigation.
+Which publications are assembled from lawful access and which indicate an active insider source
+remains a standing intelligence priority. The boundary determines whether the response is archive discipline
+or a live insider investigation, and misreading it in either direction costs the Facility
+either a source or a discipline.
+
+
+DIVISION USE
+
+Archive Division holds seized assemblies and traces fragments through request logs. Civil Covert Division
+approves all public wording and holds the denial limit. Intelligence Division reads publication timing
+against operational events. Security holds leak-source files. Recovery Division reports incidents as potential
+leak events. Command adjudicates any response that goes beyond approved wording.
+
+
+CROSS-REFERENCES
+
+- - GOI-ML-X-050 — Liberty Freedoms, Group of Interest Registry;
+- - TECH-GOI-050-1 — L.F. Adapted Facility Transport Fixture and Restraint Set, Technology Record;
+- - TECH-GOI-050-2 — L.F. Facility-Format Identification and Route Knowledge Set, Technology Record;
+- - TECH-GOI-050-3 — L.F. Carried-Subject Transport and Temporary Care System, Technology Record;
+- - TECH-GOI-050-5 — L.F. Staged-Truth Recruitment and Compartmentation System, Technology Record;
+- - TECH-GOI-014-4 — A-GA Data Extraction, Document Copying, and Leak Production Set, Technology Record;
+- - Pre-release publication seizure restricted extract [Level 5].
+
+The A-GA leak set is cited as the contrast in intent. Both produce exposure,
+but that set leaks to destroy confidence in containment itself, while this one leaks
+to make a specific institutional claim that the Facility can only rebut by being
+visibly truthful.
+
+
+OPEN QUESTIONS
+
+- Which publications indicate an active insider source?
+- Can an assembly of declassified fragments be detected before release?
+- How many relay points remain unmapped?
+- Why does the masthead shift, and what does a new name signal?
+- Which archive request patterns predict an assembly?
+- What wording survives contact with a verifiable true fragment?
+
+
+FILE METADATA
+
+- **Created:** 2022-05-09
+- **Author Desk:** Archive Division / Civil Covert Division / Central Archive
+- **Review Status:** Active restricted leak-forensics technology record; leak sources and approved response
+wording sealed
+- **Next Review:** After any seized assembly, any insider indication, or any confirmed masthead or
+relay change

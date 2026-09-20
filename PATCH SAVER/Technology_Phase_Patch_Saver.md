@@ -4687,3 +4687,65 @@ records each: 050, 051, 052, 053, 055. Separately, the full dossiers that do not
 retrofit chapters are GOI sets 054, 056, 071.
 
 **Next action.** Rebuild the TECH-GOI-050 set, Liberty Freedoms.
+
+## Prompt Log — 2026-09-20 08:32 UTC
+
+**TECH-GOI-050, Liberty Freedoms, rebuilt.** The five records move from four-chapter summaries of
+472 to 493 words each to full dossiers of 1996 to 2076 words across 14 chapters, on the house shape
+used for GOI-001, GOI-014, GOI-027, GOI-048, and GOI-049. Every fact in the old records survives:
+the transport interception and defector-test finding, the pre-release publication seizure and its
+lawful archive traces, the carry-cell and corridor-cell functions, the staged-true-fragment
+recruitment method, the abandonment signature, the Verde Null Bio-Reserve routing, and all four
+standing red lines.
+
+**The set is written as Facility technology inverted, and that changes what each record is about.**
+L.F. is built from defectors, so nothing here was invented by the network: the fixtures are Facility
+stock, the procedures are Facility procedure remembered imperfectly, and the fragments published
+against the Facility are Facility documents. The dossier's finding that modification is shallow
+carries every record, because form without condition knowledge is more dangerous than crude
+improvisation.
+
+**Each record carries its own argument, and no two share a thesis.** The fixture record holds that a
+recovered fixture is evidence of a diversion channel before it is equipment, and that unused
+fixtures are intent evidence rather than loss. The knowledge record holds that this is the only L.F.
+capability that cannot be seized, only aged out, so the counter is rotation rather than
+interdiction, and the defector-test finding means the network measures the decay of its own inside
+knowledge.
+
+**The carry record puts harm assessment before classification.** Every recovered subject is assessed
+for harm from non-specialist handling before its own anomalous condition is evaluated, because an
+unassessed injury will otherwise be recorded as a property of the subject. The publication record
+holds that the most effective leaks are the ones the network never has to steal, so the response is
+archive discipline rather than tighter security, and that a false denial is the doctrine's proof.
+
+**The recruitment record holds that the method works because it is true.** The first fragment is
+verifiable, so the prospect's own scepticism is the recruitment instrument, and a false denial hands
+the recruiter a second verifiable claim. Compartmentation completes it: hesitant recruits are
+reassigned rather than released because a released recruit is a reportable witness, which is why
+returnee accounts skew toward members who never reached armed activity.
+
+**Three defects were caught before any file was written.** The fourth record's specification
+paragraph cited the wrong GOI dossier, and two first-column labels exceeded the 26-character
+plain-text box field and would have wrapped: Approaches to current staff became Approaches to staff,
+and Subjects travelling willingly became Willing travel count. All three were corrected in the
+builder and the dry run passed clean before the real run.
+
+**Verification.** Each record was checked for chapter count and order, a single H1, one archive
+note, exactly eight H3 sections including one Numbered Operating Sequence with eight steps, fourteen
+chapter separators, exactly five tables matched by five plain-text boxes, a single fenced handling
+rule, no markdown artefacts carried into the twin, every heading present as a bare line in the twin,
+every table cell value present in the twin once box wrapping is flattened, box rules exactly 118
+wide, no O5 reference, correct cross-reference designations, and a single trailing newline. A
+first-column wrap census over all 150 tables and 150 rows in the six rebuilt sets returned 0
+problems.
+
+**Validation.** DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, CONFLICT 0, multiH1 0,
+odd-fence 0, md-with-box 0, glued separator lines 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204,
+GOI_MD 34 = GOI_TXT 34, widest box line 118, date-rule violations 0, twin date mismatches 0,
+truncated registry cells 0 across 6233 shared-label rows, git diff --check rc=0.
+
+**Remaining GOI technology backlog.** Four stub sets remain on the old four-chapter shape, five
+records each: 051, 052, 053, 055. Separately, the full dossiers that do not yet carry the retrofit
+chapters are GOI sets 054, 056, 071.
+
+**Next action.** Rebuild the TECH-GOI-051 set, Mysterious Guild.
