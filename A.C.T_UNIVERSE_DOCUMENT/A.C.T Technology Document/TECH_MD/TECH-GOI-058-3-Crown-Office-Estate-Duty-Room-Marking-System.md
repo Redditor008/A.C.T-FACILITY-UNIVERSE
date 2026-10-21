@@ -1,0 +1,275 @@
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - CROWN OFFICE ESTATE DUTY-ROOM MARKING SYSTEM
+
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-058-3 |
+| TECHNOLOGY NAME | Crown Office Estate Duty-Room Marking System |
+| SHORT NAME | EDRUC |
+| TECHNOLOGY FAMILY | ACQUIRED BY OBSERVATION / ESTATE CARTOGRAPHY TECHNOLOGY / DUTY CLASSIFICATION SYSTEM |
+| ORIGIN | CROWN OFFICE OF ASH KEYS (GOI-GV-N-058) / ESTATE SURVEY DESK AND WITNESS CHAIR OFFICE |
+| PRIMARY CONTROLLER | Civil Covert review with Legal Liaison |
+| ATTACHED DIVISIONS | Civil Covert, Legal, Intelligence, Recovery, Containment, Central Archive |
+| OPERATIONAL STATUS | MARKINGS OBSERVED IN SITU / NO ESTATE MAP IN A.C.T CUSTODY |
+| RISK STATUS | SALE UNDER DUTY / BUYER OPENING / FALSE TITLE CLAIM |
+| CLEARANCE REQUIRED | Level 4 for map observation; Level 5 for any duty-room entry |
+
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted GOI-Acquired Cartography Technology Record |
+| DISTRIBUTION | Civil Covert, Legal, Intelligence, Recovery, Containment, Command |
+| AUTHORITY | Civil Covert review and Legal Liaison, Central Archive custody |
+
+#### Archive Note
+
+This record covers the estate cartography by which the Crown Office of Ash Keys marks rooms as duty rather than
+as property. The dossier names estate maps with rooms marked as duty rather than property, the Office's capacity to
+open rooms absent from ordinary estate plans, and a recorded case in which a nursery room was described in the
+notice as not listed as property. A.C.T holds no estate map.
+
+The technical distinction the marking makes is between owning a room and being obliged by it. Ordinary property law
+has no category for a space that cannot be sold, cannot be entered by a buyer, and cannot be declared
+empty while it is producing sound. The Office's map supplies that category, and the marking is what allows the Office
+to delay a property sale until a dangerous room has been witnessed.
+
+The operational consequence for A.C.T is that an estate plan is not a reliable inventory of a building. A room
+may be absent from every plan A.C.T can obtain and still be present, bound, and audible. The operating sequence
+therefore treats absence from a plan as a question rather than as a negative finding, and the recorded case is
+filed as the reason A.C.T delayed forced entry rather than clearing the floor.
+
+Controlled label: **DUTY-ROOM MARKING RULE**.
+
+Core handling rule:
+
+```text
+A ROOM MARKED AS DUTY IS NOT PROPERTY. ABSENCE FROM THE PLAN IS A LEGAL STATUS.
+DO NOT CALL THE ROOM EMPTY WHILE IT SINGS. DO NOT OPEN IT FOR BUYERS.
+```
+
+---
+
+## FUNCTION SUMMARY
+
+The duty-room marking records that a space within an estate carries an obligation that survives ownership. It prevents
+the room from being treated as saleable property, prevents a buyer from opening it, and preserves the obligation
+across inheritance, sale, bankruptcy, and fire.
+
+- classifies a room as duty rather than property;
+- supports delay of a property sale until the room has been witnessed;
+- keeps the room out of ordinary estate plans without denying its existence;
+- distinguishes stewardship and burden from ownership and contamination;
+- gives a witness chair proceeding something specific to attach to.
+
+A.C.T classifies spaces by containment status, not by obligation. An A.C.T site plan will show a room as sealed; it
+cannot show a room as owed. That gap is why A.C.T depends on the Office's marking during estate cases and
+cannot generate an equivalent from its own records.
+
+---
+
+## ORIGIN AND CUSTODY
+
+| FIELD | VALUE |
+|---|---|
+| Maps held | None |
+| Markings observed | In situ, during estate cases |
+| Notation format | NOT MEASURED |
+| Survey authority | Crown Office estate survey desk |
+| Plan availability | Rooms may be absent from all civilian plans |
+| Witness proceeding | Witness chair; refusal recorded by Office |
+
+The operative row is the plan-availability row. Because a duty room may be absent from every plan A.C.T can obtain,
+a search based on documentation cannot confirm that a building contains no bound room. Only the Office's marking, or
+audible activity, establishes presence.
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+| COMPONENT | DESCRIPTION |
+|---|---|
+| Estate map | Marks rooms as duty; notation not recorded |
+| Duty room | May be absent from ordinary estate plans |
+| Witness chair | Used during inheritance refusal proceedings |
+| Sale delay notice | Office instrument deferring property sale |
+| Title claim | May be false; three recorded in one case |
+| Audible activity | Recorded from the nursery room before refusal |
+
+The witness chair is the component that converts the marking into an outcome. A duty marking alone delays a sale;
+the refusal recorded from the chair is what discharges the burden. The dossier records one surviving heir refusing a
+room under Office witness and not inheriting its contents.
+
+---
+
+## TECHNICAL SPECIFICATION
+
+| PARAMETER | RECORDED VALUE |
+|---|---|
+| Classification | Duty, not property |
+| Plan presence | May be absent from all civilian plans |
+| Sale effect | Delays sale until the room is witnessed |
+| Buyer access | Prohibited by Office notice |
+| Empty declaration | Prohibited while the room sings |
+| Discharge route | Heir refusal recorded from the witness chair |
+| Survives | Inheritance, sale, bankruptcy, fire, demolition |
+| Notation format | NOT MEASURED |
+| A.C.T equivalent | None - A.C.T plans record containment, not duty |
+| Marked estates known | Unknown |
+
+The governing row is the classification row. Everything the marking does follows from placing a room outside the
+category of property. Once a room is not property, it cannot be sold, entered by a buyer, or inventoried as
+an asset, and the only available discharge is a witnessed refusal.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Estate Reading Controls
+
+- record the Office marking exactly as it appears, without translating it;
+- do not treat absence from a civilian plan as evidence of absence;
+- record audible activity with time and duration, not as a single note;
+- record title claimants separately, marking any the Office calls false;
+- do not open a duty room for a buyer, surveyor, or renovator.
+
+### Estate Readouts
+
+- marking text, transcribed verbatim;
+- plan comparison, recording which plans omit the room;
+- audible activity log, with the interval ending at refusal;
+- heir and claimant list, with the Office's assessment of each;
+- sale delay notice, with the condition that ends the delay.
+
+### Handling Limits And Weaknesses
+
+- no forced entry before a refusal is recorded;
+- no photography of contents before the heir refuses;
+- no declaration that a duty room is empty while it is audible;
+- no reliance on civilian plans for search or evacuation routing;
+- no acceptance of a title claim the Office marks false.
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Applies when A.C.T attends an estate containing a duty-marked room.
+
+```text
+1. Obtain the Office notice and record the room as the notice names it.
+2. Record which civilian plans omit the room, by plan name and date.
+3. Transcribe the duty marking verbatim; do not translate it.
+4. Log audible activity with start time and duration.
+5. Block buyer, surveyor, and renovator access to the room.
+6. Wait for the witness chair proceeding and the recorded refusal.
+7. Log the interval between refusal and cessation of activity.
+8. Install temporary containment without naming a claimant.
+```
+
+---
+
+## SERVICING AND CALIBRATION
+
+| TASK | INTERVAL AND CONDITION |
+|---|---|
+| Plan comparison log | On every estate case, recording omissions |
+| Audible activity audit | After every attendance |
+| Claimant list review | Before any transfer or sale proceeds |
+| Refusal record check | After any witness chair proceeding |
+| Containment review | After any temporary installation |
+| Legal review refresh | Before any A.C.T claim on the estate |
+
+The plan comparison log is the row that keeps the absence visible. Each entry records that a room present in
+the building appears in no civilian plan A.C.T could obtain. Without that recurring negative, later teams will assume
+the floor has been fully surveyed.
+
+---
+
+## FAULT ISOLATION
+
+| OBSERVED FAULT | ASSESSED CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Room absent from plans | Duty classification | Treat as present; verify in place |
+| Buyer requests entry | Sale pressure | Refuse; cite the notice |
+| Room declared empty | Audible activity ignored | Reverse the declaration |
+| Title claim conflicts | False claimant condition | Record; do not accept |
+| Entry before refusal | A.C.T handling breach | A.C.T becomes witness and claimant |
+| Activity ceases early | Refusal recorded | Log interval; then contain |
+
+The fifth row carries the sharpest consequence in this record. The Office notice states that if A.C.T enters before
+refusal, A.C.T becomes witness and claimant, and a claimant must feed the lock a name. Entering early is not a
+procedural shortcut; it is a change in A.C.T's legal position.
+
+---
+
+## KNOWN LIMITS
+
+- A.C.T holds no estate map and no marking specimen.
+- The notation format has never been recorded.
+- A.C.T cannot detect a duty room from its own records.
+- Whether a duty survives demolition of the building is unconfirmed.
+- The number of marked estates is unknown.
+- All marking knowledge comes from Office notices, not from survey.
+
+---
+
+## FAILURE HISTORY
+
+### PLAN ABSENCE — STANDING CONDITION
+
+In the recorded case the nursery room was described as not listed as property, and A.C.T could not locate it
+in any plan it held. This is filed as the normal condition of a duty room rather than as a
+survey failure, and the plan comparison log exists to keep it visible.
+
+### FALSE TITLE CLAIMANTS — RECORDED ANOMALY
+
+Three false title claimants appeared in property records during the recorded case and disappeared from those records
+afterwards while remaining physically alive. A.C.T has no explanation. The event is logged as a reason to record
+claimants separately rather than to consolidate them.
+
+### EARLY ENTRY — PROHIBITION OF RECORD
+
+A.C.T delayed forced entry in the recorded case, and the delay is the reason the outcome was a witnessed refusal
+rather than a claim. The prohibition stands because the consequence of entering early is a change in A.C.T's legal
+position, not a breach of etiquette.
+
+---
+
+## DIVISION USE
+
+- Civil Covert: keeps duty rooms and refusals out of public explanation.
+- Legal Liaison: reads markings and assesses any A.C.T claim.
+- Intelligence: tracks marked estates and false claimant patterns.
+- Recovery: installs containment after a recorded refusal.
+- Containment: treats a duty room as an obligation, not a sealed space.
+- Central Archive: keeps plan comparison logs and refusal records.
+
+---
+
+## CROSS-REFERENCES
+
+- GOI-GV-N-058 — Crown Office of Ash Keys, Group of Interest Registry.
+- TECH-GOI-058-1 — Crown Office Ash Key And Cold-Residue Lock Set, Technology Record.
+- TECH-GOI-058-5 — Crown Office Processional Route And Vault Usher Protocol, Technology Record.
+- Title Statement, Archive Record.
+- Global Site Registry, Archive Record.
+- Restricted estate and sealed-room case chains held under Central Archive routing.
+
+---
+
+## OPEN QUESTIONS
+
+- What notation does the Office use to mark a room as duty?
+- Does a duty survive demolition of the building that contained the room?
+- How do false title claimants enter and leave property records?
+- Can A.C.T detect a duty room without an Office notice?
+- How many estates carry duty markings that no current owner knows of?
+
+---
+
+## FILE METADATA
+
+- **Created:** 1943-11-27
+- **Author Desk:** Intelligence review / Legal Liaison / Central Archive
+- **Review Status:** Active restricted GOI-acquired cartography record; duty-room entry held at Level 5
+- **Next Review:** After any estate case, any refusal proceeding, or any map recovery

@@ -5424,3 +5424,63 @@ collected, 0 two-space lines, 0 em-dash bullets, metadata dates 1982 to 1990 ins
 **Next action.** Sets 058 to 070 and 072 to 074 still have no technology set (16 dossiers); 209 two-space
 orphan lines remain across sets 054, 056 and 071; 206 em-dash bullets remain in technology records;
 `docs/index.html` is still 0 bytes.
+## Prompt Log — 2026-10-21 17:46 UTC
+
+### Batch 37 - new technology set 058, Crown Office of Ash Keys
+
+Branch resolved at runtime with `git rev-parse --abbrev-ref HEAD`; no branch name is hardcoded in the
+saver or the tooling.
+
+**Action taken.** Built a complete five-record technology set for `GOI-GV-N-058`, Crown Office of Ash
+Keys, in both formats, reusing the batch 36 builder after re-pointing it at the new record set. Each
+record carries the full house shape: 14 level-two chapters in house order, 8 level-three sections and
+one level-four archive note matching the 055-1 reference, a 10-row registry table, a 3-row archive
+table, a controlled label, a two-line core handling rule, 7 tables rendered as 7 boxes at exactly 118
+characters, an eight-step numbered operating sequence, and a dated metadata block.
+
+| DESIGNATION | RECORD | SHORT | WORDS | CREATED |
+| --- | --- | --- | --- | --- |
+| `TECH-GOI-058-1` | Crown Office Ash Key And Cold-Residue Lock Set | CAKCL | 2049 | 1940-08-12 |
+| `TECH-GOI-058-2` | Crown Office Burned-Lock Ledger And Candlelight Inventory System | BLLCI | 1955 | 1941-06-03 |
+| `TECH-GOI-058-3` | Crown Office Estate Duty-Room Marking System | EDRUC | 2021 | 1943-11-27 |
+| `TECH-GOI-058-4` | Crown Office Oath Seal And Charter Language Sealing System | OSCSC | 1991 | 1946-04-15 |
+| `TECH-GOI-058-5` | Crown Office Processional Route And Vault Usher Protocol | PRVUT | 2042 | 1949-09-08 |
+
+Set totals: 5 records, 10 files, 10058 words, 35 tables, 35 boxes, 40 operating steps.
+
+**Source discipline.** Every technical claim is drawn from the dossier's named assets, instructions, and
+the recorded case: ash keys that remain cold or leave black residue on active locks, both recovered items
+losing measurable abnormality after removal from the door they served, the burned-lock ledger fragment
+legible only under low candlelight while digital scans return blank ash smears, estate maps marking rooms
+as duty rather than property, the nursery room not listed as property, three false title claimants who
+left property records while remaining alive, oath seals impressed with crown, chapel, or family marks,
+museum drawers sealed by charter language rather than hardware, procession rights, vault ushers who open
+only the correct door, black-ribbon tags, witness chairs, and quiet mourners. Unmeasured properties are
+written as `NOT MEASURED` and the dossier's own persistent questions carry into each record's open
+questions.
+
+**Two governing hazards recorded rather than resolved.** First, the Office notice states that a claimant
+must feed the lock a name, and Central Archive assessed the phrase as a possible identity-transfer
+mechanism; every record touching an opening prohibits volunteering names, call signs, badge numbers, or
+family identifiers. Second, the instruction that accepting custody means accepting the apology attached
+to custody is unresolved by Legal Liaison, so no site may accept a charter-sealed object without a
+written determination. Neither is treated as settled, and neither is softened into a general caution.
+
+**Builder defects.** None this batch. The 057 builder was reused unmodified apart from its record set; a
+pre-run scan of every table cell against the 26-character first column and the 41-character body columns
+returned 0 violations, and the dry run reported 14 chapters, 7 tables, 7 boxes and 8 steps for all five
+records before any file was written. The two-space indentation fault that batch 36 caught is already
+fixed in the shared renderer.
+
+**Validation.** DOCUMENT_COUNT 927 to 937; `TECH_MD` 209 to 214 == `TECH_TXT` 214; multiH1 0;
+BELOW_200 0; EMPTY 0; bad-EOF 0; odd-fence 0; md-with-box 0; glued 0; date-violations 0 against the
+1598-2026 archive cycle; widest box line 118; `git diff --check` clean. Per record: house chapter order
+exact, 14 H2, 8 H3 and 1 H4 matching the 055-1 reference, 8 numbered steps, tables == boxes at 7,
+0 missing twin cells after wrapped columns are rejoined and header rows collected, 0 two-space lines,
+0 em-dash bullets, metadata dates 1940 to 1949 spanning the dossier's own 1939-1941 window.
+
+**Counters.** GOI dossiers with a technology set 15 of 30; `TECH-GOI` records 75; `TECH-ACT` 137 of 137.
+
+**Next action.** Sets 059 to 070 and 072 to 074 still have no technology set (15 dossiers); 209 two-space
+orphan lines remain across sets 054, 056 and 071; 206 em-dash bullets remain in technology records;
+`docs/index.html` is still 0 bytes.
