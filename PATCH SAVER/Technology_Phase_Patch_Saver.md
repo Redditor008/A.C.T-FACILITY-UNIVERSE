@@ -5184,3 +5184,84 @@ to 074.
 Next action.
 
 Retrofit the five sections into the GOI set 056 Saint Vera records.
+
+## Prompt Log — 2026-10-21 16:21 UTC
+
+TECH-GOI-056, Saint-Vera Restoration Concern, retrofitted. Five records, five sections each.
+
+The five records carried dossiers of 1357 to 1740 words with 10 or 11 chapters and 2 tables, and
+were missing all five retrofit sections. Each now carries TECHNICAL SPECIFICATION, INTERFACE AND
+OPERATING ENVELOPE with three H3 groups, a Numbered Operating Sequence of eight steps inside
+OPERATING PROCEDURE, SERVICING AND CALIBRATION, and FAULT ISOLATION, with the matching plain-text
+box added to every twin. Set total 7225 to 10761 words, an increase of 3536.
+
+These records use blank-line chapter separation rather than horizontal rules.
+
+Unlike the sets rebuilt earlier, set 056 separates chapters with a blank line only. The inserter
+detects the convention per file and matches it, so no rule lines were introduced into a document
+that does not use them. The restoration theater record also keeps its own chapter on temperature,
+drainage, and recovery beds, which is why it carries 15 chapters where the other four carry 14.
+
+Specification content is drawn from each record's own limits rather than from a shared pattern.
+
+The theater record turns on the fact that an environment cannot be seized intact, and its lamp-
+colour row is a prohibition rather than a gap, because field teams described the light as unusual
+without agreeing on a hue. The green-thread record turns on a single confirmed case, so eighteen
+hours is cited as a figure from one patient and never as a service life.
+
+The remaining three records are organised around what A.C.T cannot do.
+
+The consent record's last row states that A.C.T has no equivalent instrument, because standard
+practice records a signature and a witness and does not test whether the signature contradicts
+speech. The prosthetic record turns on custody being barred where an implant sustains life or
+function, which means A.C.T will never hold a specimen to test against. The ledger record turns on
+the dual-name rule, under which neither answer is proof of death.
+
+Two cell-width faults were caught by a budget assertion before the build.
+
+Two fault-table first columns ran to 31 and 27 characters against the 26-character limit and were
+shortened. A first column that wraps is the one defect that breaks the plain-text twin, so the
+assertion runs over every specification, servicing, and fault row before any file is written.
+
+Two twin validators written for this run were wrong, and the second was caught before it was
+believed.
+
+The first collected box cells without rejoining columns that wrap across two box lines and reported
+324 missing cells, all of them long values in registry tables this change did not touch. The
+replacement rejoined columns but collected only body rows, never header rows, and reported exactly
+11 missing cells per record, which is the number of header cells across five tables. A corrected
+parser that collects both headers and rejoined rows returns zero missing cells across all five
+records.
+
+The record files were pushed before the log entry was written.
+
+The validation script exited non-zero on the faulty 11-cell result, which stopped the log write, but
+the shell chain that followed still staged, committed, and pushed the ten record files as 1d44bff.
+The log entry was therefore written afterwards and pushed separately. No file content was affected;
+the sequence is recorded here because it is a process failure rather than a clean run.
+
+Verification.
+
+Each record was checked for the presence and relative order of the thirteen house chapters, one
+Numbered Operating Sequence with steps one to eight, five tables matched by five plain-text boxes, a
+single H1, no markdown artefacts in the twin, every heading present bare in the twin, every table
+cell present in the twin once box columns are rejoined and header rows counted, box rules exactly
+118 wide, and a single trailing newline.
+
+Validation.
+
+DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, multiH1 0, odd-fence 0, md-with-box 0,
+glued separator lines 0, date-rule violations 0, TECH_MD 204 = TECH_TXT 204, widest box line 118,
+git diff --check rc=0.
+
+Remaining backlog.
+
+Five records still lack the retrofit sections, being the GOI set 071 Mercy Lock records. GOI
+technology records carrying all five sections now stand at 60 of 65. The two-space orphan bullet
+defect measures 130 lines in set 054, 11 in set 056, and 57 in set 071, and remains scheduled rather
+than repaired. Seven em-dash bullets remain in sets 056 and 071.
+
+Next action.
+
+Retrofit the five sections into the GOI set 071 Mercy Lock records, then clear the orphan bullet
+defect.
