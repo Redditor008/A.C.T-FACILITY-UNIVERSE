@@ -59,7 +59,9 @@ The SCP object classes are effectively absent from in-world documents. The one i
 
 These are crossover fiction using named characters and concepts from a commercial game series — Sephirah, Abnormality, Singularity, E.G.O, Ayin — appearing 381 and 204 times respectively. They are not A.C.T worldbuilding and no in-world document cites them.
 
-**Not touched.** `git log --diff-filter=A` shows all 18 were added in commit `a17dfd0` on 2026-09-17 by `Redditor008`, before this work began. They are pre-existing authored content, not automation output, and deleting someone's fiction is not a cleanup an assistant should make unilaterally. The list is here so the decision can be made with the file names in hand.
+**Flagged, not touched, and then removed by the owner.** `git log --diff-filter=A` showed all 18 were added in commit `a17dfd0` on 2026-09-17 by `Redditor008`, before this work began, so they were listed here rather than deleted — authored fiction is not an assistant's call to make. The owner then removed the whole directory in commit `d093b98` on 2026-10-22, deleting 11,170 lines. The `STORY` directory no longer exists in the tree.
+
+Residual third-party proper nouns across the corpus after that deletion: **70**, all inside the comparative research memos (`Project-Moon-and-SCP-Wiki_Research.md` 43, `Cross-Wiki_Worldbuilding_Gap_Research.md` 17, `Wiki_Style_Research` 3) and two `TECH-GOI-058-1` twins. Those memos are the record of what was compared and why, and the two technology twins use one term in a passing simile, so nothing further was removed.
 
 The same applies to `RESEARCH FOLDER/2026-09-06_Project-Moon-and-SCP-Wiki_Research.md` (11,096 words) and `RESEARCH FOLDER/2026-09-11_A.C.T._Cross-Wiki_Worldbuilding_Gap_Research.md` (9,404 words). Both are legitimate comparative research and both contain the bulk of the borrowed-class-name hits in section 3.2.
 
@@ -126,7 +128,7 @@ Net effect of the second pass: **141 files changed, 1344 lines added, 512 remove
 | Box rules not exactly 118 characters | 0 | 0 |
 | Widest box line in the repository | 118 | 118 |
 | Lines over 118 in `.txt` | 6, all in `TECH_TXT/README.txt` | 6, same file, unchanged |
-| DOCUMENT_COUNT | 968 | 969 (this memo added) |
+| DOCUMENT_COUNT | 968 | 969, then 951 after the owner deleted the 18 crossover files |
 | `TECH_MD` / `TECH_TXT` file counts | 229 / 229 | 229 / 229 |
 | multiH1 / odd-fence / bad-EOF / md-with-box | 0 / 0 / 0 / 0 | 0 / 0 / 0 / 0 |
 | `git diff --check` | clean | clean |
@@ -137,12 +139,16 @@ Most-repeated sentence in the corpus after the pass, for comparison: 20 files. B
 
 - **`O5` across 139 files.** Canon decision, not formatting. Scale recorded in section 3.2.
 - **`amnestics` 638 and `memetic` 707.** Shared genre vocabulary; rewriting exceeds the problem.
-- **18 crossover files, ~78,000 words.** Pre-existing authored content by another author at `a17dfd0`. Flagged, not deleted.
 - **3 redundant overview pairs.** Editorial call on which copy is canonical.
 - **Patch Saver at 45,997 words and TECH README at 10,021 words.** Both should be split; neither was restructured here.
 - **`docs/index.html` is 0 bytes.** Still empty.
 - **Section-level uniformity across the technology records.** Removing one repeated sentence does not undo the fact that 229 records share one 14-section skeleton in the same order. That is a house shape decision, not a defect, and changing it is an editorial call.
 - **The `^  \S` orphan-line metric reads 6629 across 453 files, and that number is not a defect count.** It matches ordinary indented prose. The true orphan count inside technology records is 209. The figure is recorded so it is not mistaken for a finding.
+
+## 6.1 Resolved after this review was written
+
+- **18 crossover files, ~78,000 words** — removed by the owner at `d093b98`. See section 3.3.
+- **137 `.txt` twins with archive status as plain lines** — rendered as boxes, see section 4.
 
 ## 7. Rule adopted going forward
 
