@@ -5021,3 +5021,97 @@ separator lines in their markdown OPEN QUESTIONS blocks. No ACT records remain.
 Next action.
 
 Rebuild the TECH-GOI-055 set, the last stub set.
+
+## Prompt Log — 2026-10-21 14:54 UTC
+
+TECH-GOI-055, Cairn & Lintel, rebuilt. No stub set remains.
+
+The five records move from four-chapter summaries of 468 to 501 words each to full dossiers of 2307
+to 2374 words across 14 chapters, on the house shape used for GOI-001, GOI-014, GOI-027, GOI-048,
+GOI-049, GOI-050, GOI-051, GOI-052, and GOI-053. Every fact in the old records survives: the four
+short vertical cuts, paired stones, brass C-L plates, the forty-six-minute stair that delivered
+seventy-two residents into a closed laundry yard, the eleven-minute school corridor behind Door 2B,
+the green key that became ordinary brass, the liaison drawing, and the invoice clause leaving the
+memory of the stair with witnesses.
+
+Each record carries its own argument, and the five do not share a thesis.
+
+The marking record holds that a mark is not the work it points at, so a four-cut stone is a route
+question requiring verification and never confirmation of a safe path, because the same mark may
+denote an exit, a warning, a grave, or a door that works under one failure condition only.
+
+The corridor record organises itself around the interval rather than the geometry.
+
+Forty-six minutes and eleven minutes are windows, not corridor lengths, so no route may be written
+into an evacuation plan as an expected resource and no delivered corridor is forced open. A closed
+route is not a broken one: the dossier records three reasons a passage may shut, and two of the
+three are reasons to leave it shut.
+
+The key record turns on the fact that the credential expires.
+
+A token that reverts to ordinary brass after closure is evidence about a route rather than a means
+of reopening it, so the closure condition must be recorded at recovery and the key bagged with its
+route card and door number rather than apart from them. The carrier question is handled without
+resolving it: whether the smallest-child instruction is functional or protective, both readings
+produce the same rule, which is that an active key is not taken from a civilian.
+
+The plan record treats the disagreement between drawing sets as the evidence.
+
+A living floor plan may describe a building as it behaves under pressure rather than as it was
+permitted, so the gap between the two carries information neither carries alone, and merging an
+extract into a cleaned composite destroys exactly that gap. The liaison line, do not make a map
+children can get lost inside, is preserved as technical doctrine rather than filed as evasion.
+
+The lintel record is written around preservation rather than construction.
+
+The assembly held an obligation rather than a load: the stair delivered residents to a destination
+its own civic record did not contain, for a measured interval, before closing. The aftercare clause
+treating witness memory as part of the exit's condition is filed as a divergence A.C.T permits case
+by case through Subject Care without adopting as policy.
+
+Two defects found in the authored records were corrected before the build.
+
+A non-English word had been left inside the lintel record's function summary and was replaced with
+the intended English phrase, and a truncated word in the marking record's fault table was restored.
+A third fault-table first column ran to 29 characters against the 26-character budget and was
+rewritten, since a wrapping first column is the one defect that breaks the plain-text twin.
+
+The census walker now covers ten sets.
+
+Run over the rebuilt GOI sets the census returns 250 tables and 1898 rows, being 250 header rows and
+1648 body rows, with 0 first-column wraps. A continuation line with an empty first column means the
+second column wrapped, which is harmless; a wrapping first column appears as text in the first
+column of a continuation line, and none is present.
+
+Verification.
+
+Each record was checked for chapter count and order, a single H1, one archive note, exactly eight H3
+sections including one Numbered Operating Sequence with eight steps, fourteen chapter separators,
+exactly five tables matched by five plain-text boxes, a single fenced handling rule, no markdown
+artefacts in the twin, every heading present as a bare line in the twin, every table cell present in
+the twin once box columns are rejoined, box rules exactly 118 wide, no O5 reference, valid cross-
+reference designations, generated dates inside the 1598 to 2026 archive cycle and identical in both
+twins, and a single trailing newline.
+
+Validation.
+
+DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, CONFLICT 0, multiH1 0, odd-fence 0, md-
+with-box 0, glued separator lines 0, placeholders 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204,
+GOI_MD 34 = GOI_TXT 34, widest box line 118, date-rule violations 0, twin date mismatches 0,
+truncated registry cells 0 across 7785 shared-label rows, gated records 187 with 0 missing sections,
+git diff --check rc=0, problems 0.
+
+Remaining technology backlog.
+
+No stub set remains: 055 was the last set written on the four-chapter summary shape, and every
+rebuilt set now carries the full fourteen-chapter house form. The remaining gap is measured rather
+than assumed. Fifteen records across GOI sets 054, 056, and 071 are full dossiers of 1335 to 2809
+words but carry 9 to 11 chapters and 1 to 2 tables, and each is missing all five retrofit sections,
+being 75 of 75 possible. They hold no glued separator lines, which an earlier note in this log
+claimed they did; a re-measurement of all fifteen returns 0. All fifteen have plain-text twins.
+Separately, GOI records numbered 057 to 070 and 072 to 074 have no technology set at all.
+
+Next action.
+
+Retrofit the five missing sections into the fifteen records in GOI sets 054, 056, and 071, starting
+with 054 Lullaby Works.

@@ -1,71 +1,335 @@
-# TECH-GOI-055-3 - CAIRN & LINTEL SHELTER KEY ACTIVATION SYSTEM
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - CAIRN & LINTEL SHELTER KEY ACTIVATION SYSTEM
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | TECHNOLOGY DESIGNATION | TECH-GOI-055-3 |
 | TECHNOLOGY NAME | Cairn & Lintel Shelter Key Activation System |
-| COMMON ABBREVIATIONS | Shelter Key / Green Key / C&L Key |
-| ORIGIN | Cairn & Lintel |
-| ACQUISITION STATUS | Recovered inactive key evidence, route-card instruction, and cooperative shelter review |
-| PRIMARY A.C.T INTEREST | Emergency door activation, child-safe evacuation, access control, post-incident component custody |
-| ARCHIVE HANDLING | OCCUPIED-SHELTER DISCLOSURE LIMIT / RECOVERY-SUBJECT CARE REVIEW |
+| SHORT NAME | C&LSKA |
+| TECHNOLOGY FAMILY | ACQUIRED BY COOPERATION / AUTHORIZATION TOKEN TECHNOLOGY / SHELTER DOOR KEY |
+| ORIGIN | CAIRN & LINTEL (GOI-CP-W-055) / EMERGENCY-KEY OFFICES |
+| PRIMARY CONTROLLER | Recovery Division with Subject Care Division |
+| ATTACHED DIVISIONS | Recovery, Subject Care, Engineering, Civil Covert, Medical, Command |
+| OPERATIONAL STATUS | ONE KEY VERIFIED INERT AFTER CLOSURE / SYSTEM PARTIAL |
+| RISK STATUS | CARRIER REMOVAL / DUPLICATE CUTTING / TACTICAL BYPASS |
+| CLEARANCE REQUIRED | Level 4 for key evidence; Level 5 for inhabited shelter interiors |
 
-## Functional Identity
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Cooperative-Authorization Technology Record |
+| DISTRIBUTION | Recovery / Subject Care / Engineering / Civil Covert / Medical / Command |
+| AUTHORITY | Recovery Division and Subject Care Division, Central Archive custody |
 
-The Cairn & Lintel Shelter Key Activation System is the key-and-door technology used to
-open or guide protected exits
-during abnormal building events. The GOI dossier identifies shelter keys as known assets and
-preserves a school route
-card instructing evacuees to have the smallest child carry the green key if the
-hallway repeats the trophy case. The
-same incident ended with Door 2B opening into a service corridor absent from the
-school plan; the green key became
-ordinary brass after closure. A.C.T files the system as acquired GOI technology because key
-custody can determine
-whether a shelter route activates safely.
+#### Archive Note
+This record covers the key-and-door technology used to open or guide protected exits during
+abnormal building events. The dossier identifies shelter keys as known assets, records a school
+route card instructing evacuees to have the smallest child carry the green key if
+the hallway repeated the trophy case, and confirms that the same key became ordinary
+brass after the corridor closed. A.C.T holds one verified inert key and cooperative shelter
+review; the wider system is partial.
 
-The key is not only a lock tool. It appears to be an authorization
-token, route focus, fear-bearing object, and
-possibly a civilian-priority control. The route card's line, the key will be afraid, suggests
-the object either
-carries a response state or that C&L writes instructions in terms frightened children can
-follow.
+The defining measurement is that the token expires. A key that opens a route
+absent from the school plan and then reverts to ordinary brass is not a
+lock tool with a strange history; it is an authorisation that was valid for
+one interval and is not valid now. That has an immediate forensic consequence, because
+the evidential value of a recovered key depends on the closure condition being recorded
+at the moment of recovery rather than inferred afterwards.
 
-## Known Structure and Use
+The second consequence concerns the carrier rather than the metal. The instruction to give
+the key to the smallest child, and the route card's statement that the key
+will be afraid, are either functional conditions or language written so that frightened children
+can follow them, and the dossier does not choose. Either way the handling rule
+is the same: an active shelter key is not taken from a civilian carrier,
+and where a child holds it, Subject Care controls communication.
 
-Known shelter keys may be brass, painted green, tagged through charity shelter kits, hidden
-behind clocks, assigned to
-children, or paired with door labels that shift during incidents. A.C.T has recovered at
-least one key after it became
-ordinary. Whether inactive keys retain forensic value is under Engineering review.
+Controlled label: **C&L SHELTER KEY CUSTODY RULE**.
 
-The system may require the right carrier. The instruction to use the smallest child
-may indicate height, innocence,
-witness priority, anomaly targeting logic, or social control designed to make adults protect the
-child carrying the
-exit.
+Core handling rule:
 
-## A.C.T Handling Rules
+```text
+AN ACTIVE SHELTER KEY IS NOT TAKEN FROM A CIVILIAN CARRIER.
+A RECOVERED KEY IS LOGGED WITH ROUTE CARD, DOOR, TIME, AND CLOSURE STATE.
+```
 
-A.C.T personnel must not take an active shelter key away from civilians during evacuation
-unless the key is causing
-immediate harm. If a child holds the key, Subject Care controls communication. Staff must
-not mock, test, or replace
-the carrier without cause.
+---
 
-Recovered inactive keys must be bagged with route card, door number, time of activation,
-carrier identity
-restrictions, and closure condition. Do not cut duplicate keys from an anomalous original without
-Engineering
-approval.
+## FUNCTION SUMMARY
 
-## Failure and Open Questions
+The system exists because a protected exit is useless if the people who need
+it cannot open it, and because an exit that anyone can open is not
+protected. The key resolves both problems at once by being issued for one incident
+and then rendered ordinary, which leaves no standing credential behind for anyone to find.
 
-Failure modes include assigning the key to the wrong person, treating an ordinary-looking key
-as trash after closure,
-copying a key that opens into nowhere, or using a key to bypass civilian
-shelter boundaries for tactical convenience.
-Open questions include why some keys become ordinary, whether fear is a functional state,
-and whether a key can refuse
-an operator. Archive confidence is High for one documented school key and Moderate for
-a broader system.
+The verified instance is complete enough to carry the record. During a localised room-order
+event a route card directed evacuees to Door 2B and instructed that the smallest
+child carry the green key if the hallway repeated the trophy case. The corridor
+opened, remained accessible for eleven minutes, closed after the final evacuee crossed, and the
+key became ordinary brass. Subject Care retained the child's statement under Level 4 protection.
+
+What A.C.T does not have is a mechanism. The key may be an authorisation
+token, a route focus, an object that carries a response state, or an ordinary
+piece of brass that Cairn & Lintel describes in terms a frightened child can
+act on. The record therefore specifies custody, logging, and prohibited actions, and files the
+mechanism as open rather than offering a preferred explanation.
+
+
+---
+
+## ORIGIN AND CUSTODY
+
+Keys reach A.C.T as recovered inactive evidence and as route-card instructions rather than as
+issued stock. Emergency-key offices issue keys, knock patterns, or route phrases for one incident
+only, so no standing inventory exists to recover, and the dossier records that at
+least one key was recovered after it had become ordinary.
+
+Custody sits with Recovery Division and Subject Care Division under Central Archive oversight, with
+Engineering attached for the question of whether an inert key retains forensic value and
+Civil Covert attached where a carrier is a protected civilian. Medical attaches where a
+key governs a hospital route.
+
+Whether an inert key retains forensic value is under Engineering review and is recorded
+as unresolved here. A.C.T does not cut duplicates from an anomalous original without Engineering
+approval, because a duplicate of a token that has expired may open nothing, or
+may open somewhere that is no longer safe.
+
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+Known elements are described from recovered evidence and route material:
+
+- brass keys, sometimes painted green;
+- tagged through charity shelter kits;
+- hidden behind clocks and similar fixtures;
+- assigned to children during evacuation;
+- paired with door labels that shift during incidents;
+- issued for one incident and then rendered ordinary;
+- knock patterns and route phrases as alternatives;
+- at least one key recovered after becoming ordinary;
+- carrier requirement, unresolved;
+- whether fear is a functional state, unresolved.
+
+The last two rows are the ones a field team will be tempted to
+decide on its own. Whether the smallest-child instruction reflects height, innocence, witness priority,
+anomaly targeting logic, or social control that makes adults protect the carrier is unresolved,
+and no A.C.T procedure assigns a key on the basis of a guess about
+which of those it is.
+
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Values are restated from the GOI-CP-W-055 dossier and from the one verified school key.
+Nothing is measured by cutting a duplicate or by assigning a key to an
+A.C.T carrier for testing.
+
+| KEY PARAMETER | VALUE |
+|---|---|
+| Verified instances | one, school shelter corridor |
+| Material after closure | ordinary brass |
+| Issued life | one incident only |
+| Carrier instruction | smallest child, per route card |
+| Alternative credentials | knock pattern, route phrase |
+| Duplicate cutting | prohibited without approval |
+| Removal from civilian | prohibited unless harming |
+| Forensic value when inert | under review, unresolved |
+| Refusal of an operator | unresolved |
+| Keys held by A.C.T | NOT MEASURED |
+
+Issued life is the row that governs the other nine. Because the credential expires
+with the interval, a key recovered after closure is evidence about a route rather
+than a means of reopening one, and any procedure that treats it as a
+means of reopening is written on a false premise.
+
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Key Custody Controls
+
+- no removal of an active key from a civilian
+- Subject Care controls communication with a child carrier
+- no duplicate cut without Engineering approval
+- no key used to bypass a civilian shelter boundary
+
+### Key Readouts
+
+- key inventory and recovery state per incident
+- route card, door number, and activation time
+- closure condition at recovery
+- carrier identity restrictions
+
+### Handling Limits And Weaknesses
+
+- Do not take an active key from a civilian carrier.
+- Do not mock, test, or replace a carrier without cause.
+- Do not discard an ordinary-looking key after closure.
+- Do not use a key to bypass a shelter boundary tactically.
+- Weakest where an inert key is treated as trash.
+- Weakest where the carrier rule is read as folklore.
+
+Key counts, carrier assignments, and activation timings beyond the verified instance are NOT MEASURED
+and are tracked per incident by Recovery Division.
+
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence applies when a shelter key is encountered during an evacuation or recovered
+afterwards. It protects the carrier before the object and records the closure condition before
+the key can be mistaken for scrap.
+
+1. Identify the key and the carrier holding it.
+2. Leave an active key with its civilian carrier.
+3. Refer communication to Subject Care if a child holds it.
+4. Record the route card, door number, and activation time.
+5. Record the closure condition at the moment of recovery.
+6. Bag the key with its documentation, not separately.
+7. Refer any duplicate request to Engineering.
+8. Report custody and closure state, not the key's appearance.
+
+Step 6 is the small step that preserves the evidence. A key bagged apart
+from its route card, door number, and closure condition becomes an unexplained piece of
+brass within a week, and the only record that it once opened a corridor
+absent from the school plan is a sentence in a field note nobody will
+connect to it.
+
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per key | bag with card, door, time, closure state |
+| Per incident | log carrier assignment and restrictions |
+| Monthly | review inert keys awaiting forensic ruling |
+| Quarterly | audit custody logs for carrier removals |
+| Annually | review the duplicate-cutting rule with Engineering |
+
+The monthly review exists because the forensic question is unanswered. An inert key held
+pending a ruling is not the same as an inert key filed as scrap,
+and the difference is invisible in the storage record unless the pending state is
+written down.
+
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Key becomes brass | closure completed | log the condition |
+| Key taken from child | tactical convenience | restore, Subject Care |
+| Door label changed | route-card condition | follow card, not sign |
+| Duplicate requested | access pressure | refer, Engineering |
+| Key opens nothing | expired credential | log, do not force |
+
+
+---
+
+## KNOWN LIMITS
+
+One key is verified and the system beyond it is described from route-card language
+and cooperative review rather than from inspection. A.C.T cannot state how keys are issued,
+what makes one expire, or whether a key can refuse an operator. Archive confidence
+is recorded as High for the documented school key and Moderate for a broader
+system, and neither is raised here.
+
+The record also cannot determine whether the smallest-child instruction is a functional condition or
+protective language written for frightened evacuees. Both readings produce the same handling rule, which
+is why the procedure does not require the question to be settled before it
+can be followed.
+
+
+---
+
+## FAILURE HISTORY
+
+### SCHOOL SHELTER KEY — VERIFIED INERT AFTER CLOSURE
+
+During the room-order event at the censored municipal school shelter the green key was
+carried by the smallest child, the corridor behind Door 2B remained accessible for eleven
+minutes, and the key became ordinary brass after the corridor closed with the final
+evacuee. A.C.T recovered the key and retained the child's statement under Level 4 protection.
+This is the confirmed instance in the record.
+
+### CARRIER REMOVAL — STANDING CONDITION
+
+No active key has been taken from a civilian carrier. The condition is filed
+because the request arrives as an operational necessity rather than as a breach: an
+armed team holding a brass key feels more secure than a child holding one,
+and the feeling is not evidence about which of them the route will open
+for.
+
+### OPERATOR REFUSAL — UNRESOLVED
+
+Whether a shelter key can refuse an operator, and whether the recorded fear is
+a functional state or a description, are unresolved. The dossier preserves the route-card line
+without comment, and A.C.T has not designed a test that would not require assigning
+a key to a carrier during a live evacuation, which the custody rule prohibits.
+
+
+---
+
+## DIVISION USE
+
+Recovery Division holds the custody log, the closure-condition record, and the refusal to remove
+an active key from a civilian. Subject Care Division controls communication with a child
+carrier, holds the retained statement, and reviews any procedure that would reassign a credential.
+Engineering rules on forensic value and on any duplicate request.
+
+Civil Covert handles disclosure where a carrier is a protected civilian and manages any
+local authority question arising from a shelter kit. Medical attaches where a key governs
+a hospital route or a patient evacuation door. Central Archive holds the bagged evidence
+with its documentation. Command authorises escalation and holds no authority to order carrier removal
+over Subject Care review.
+
+
+---
+
+## CROSS-REFERENCES
+
+- GOI-CP-W-055 — Cairn & Lintel, Group of Interest Registry;
+- TECH-GOI-055-1 — Cairn & Lintel Threshold Stone Marking System, Technology Record;
+- TECH-GOI-055-2 — Cairn & Lintel Emergency Corridor Stabilization Array, Technology Record;
+- TECH-GOI-055-4 — Cairn & Lintel Sealed Living Floor Plan Archive, Technology Record;
+- TECH-GOI-055-5 — Cairn & Lintel Promised Exit Lintel Assembly, Technology Record;
+- TECH-GOI-053-3 — Missing 404 Watch Tower Rescue Bell Continuance Register, Technology Record;
+- Emergency route card recovered behind a gymnasium clock, Recovered Document [Level 4].
+
+The bell register is cited because both records concern a credential held on behalf
+of civilians rather than on behalf of the institution. A bell entry keeps a
+name alive against systems that stop returning it; a shelter key keeps an exit
+available to the people who need it. Both are issued, both expire or are
+closed by an authority A.C.T does not control, and in both cases the handling
+rule protects the civilian holder rather than the object.
+
+
+---
+
+## OPEN QUESTIONS
+
+- Why do some keys become ordinary after closure?
+- Is recorded fear a functional state of the key?
+- Can a key refuse an operator, and on what basis?
+- Does an inert key retain forensic value?
+- What determines the correct carrier for a given door?
+- Are knock patterns and route phrases issued by the same offices?
+
+
+---
+
+## FILE METADATA
+
+- **Created:** 1978-07-24
+- **Author Desk:** Recovery Division / Subject Care Division / Central Archive
+- **Review Status:** Active restricted cooperative-authorization technology record; inhabited shelter interiors
+  held at Level 5
+- **Next Review:** After any new recovery, any carrier-removal report, or any Engineering forensic ruling

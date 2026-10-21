@@ -1,67 +1,332 @@
-# TECH-GOI-055-1 - CAIRN & LINTEL THRESHOLD STONE MARKING SYSTEM
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - CAIRN & LINTEL THRESHOLD STONE MARKING SYSTEM
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | TECHNOLOGY DESIGNATION | TECH-GOI-055-1 |
 | TECHNOLOGY NAME | Cairn & Lintel Threshold Stone Marking System |
-| COMMON ABBREVIATIONS | Threshold Stone / C&L Stone / Four-Cut Marker |
-| ORIGIN | Cairn & Lintel |
-| ACQUISITION STATUS | Cooperative inspection, post-incident component custody, and restricted site-mark observation |
-| PRIMARY A.C.T INTEREST | Route stability, evacuation identification, protected-entry verification, hostile misuse prevention |
-| ARCHIVE HANDLING | OCCUPIED-SHELTER DISCLOSURE LIMIT / ENGINEERING-RECOVERY REVIEW |
+| SHORT NAME | C&LTHS |
+| TECHNOLOGY FAMILY | ACQUIRED BY COOPERATION / THRESHOLD MARKING TECHNOLOGY / STONE GRAMMAR |
+| ORIGIN | CAIRN & LINTEL (GOI-CP-W-055) / STONE CREWS AND THRESHOLD ARCHITECTS |
+| PRIMARY CONTROLLER | Engineering review with Recovery Division |
+| ATTACHED DIVISIONS | Engineering, Recovery, Civil Covert, Containment, Intelligence, Central Archive, Command |
+| OPERATIONAL STATUS | MARKS OBSERVED IN SITU / COMPONENTS INERT IN CUSTODY |
+| RISK STATUS | FALSE-DOOR IMITATION / PAINT-OVER / PREMATURE TRUST |
+| CLEARANCE REQUIRED | Level 4 for marks; Level 5 for inhabited shelter interiors |
 
-## Functional Identity
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Cooperative-Marking Technology Record |
+| DISTRIBUTION | Engineering / Recovery / Civil Covert / Containment / Intelligence / Command |
+| AUTHORITY | Engineering review and Recovery Division, Central Archive custody |
 
-The Cairn & Lintel Threshold Stone Marking System is the recurring marker technology used
-by Cairn & Lintel to
-identify, stabilize, or remember openings that may remain useful during abnormal structural failure. The
-GOI dossier
-identifies threshold stones, paired stones beside service doors, lintels with four short vertical cuts,
-door marks,
-and old-work materials as known assets. A.C.T files the system as acquired GOI technology
-because Recovery teams have
-repeatedly depended on C&L marks during evacuation, corridor search, and post-breach building review.
+#### Archive Note
+This record covers the recurring marker technology by which Cairn & Lintel identifies openings
+meant to remain useful when ordinary architecture fails. The dossier names threshold stones, paired
+stones beside service doors, lintels carrying four short vertical cuts, brass hinges stamped C-L,
+builder's plates dated before the building was constructed, and old-work materials held in depots.
+Access is cooperative inspection, post-incident component custody, and restricted site-mark observation; no
+design manual has been recovered.
 
-A threshold stone is not only a sign. It is a promise marker, structural
-cue, and memory anchor. In C&L doctrine, a
-door must remain a door when the map, street, or sky fails. The stone
-appears to tell trained workers which opening
-has been prepared to carry that obligation.
+The system's technical problem is that a mark is not the work it points
+at. A.C.T cannot tell from the stone whether it stabilises a route itself or
+merely indicates where concealed lintel work, a sealed plan, or a shelter key already
+exists, and the dossier leaves both possibilities open. The handling consequence is therefore a
+reading rule rather than a capability claim: a four-cut stone is filed as a
+route question requiring verification, never as confirmation of a safe path, because the same
+mark may denote an exit, a warning, a grave, or a door that functions
+only under one failure condition.
 
-## Known Structure and Use
+The second hazard is imitation and erasure. Marks are cheap to copy and cheap
+to destroy, and painting over the four cuts appears in a recovered invoice fragment
+as an explicit prohibition, which tells A.C.T that loss of the mark is a
+real failure mode rather than a theoretical one. No active stone is removed or
+altered until Recovery and Civil Covert confirm that no resident, patient, student, shelter occupant,
+or evacuee depends on the route it identifies.
 
-Observed stones range from ordinary masonry blocks to worn cairn fragments set into door
-frames, stair landings,
-basements, hospital service entrances, school shelters, and tunnel mouths. Four short vertical cuts are
-the most
-reliable visible mark. Some stones predate the building they are set into according to
-civic paperwork, which may
-indicate forged dating, salvage use, or retained route memory.
+Controlled label: **C&L THRESHOLD STONE MARK RULE**.
 
-A.C.T has not confirmed whether the stone stabilizes the route directly or merely marks
-where hidden lintel work,
-sealed plans, and shelter keys already exist. Both possibilities remain active.
+Core handling rule:
 
-## A.C.T Handling Rules
+```text
+A FOUR-CUT STONE IS A ROUTE QUESTION TO BE VERIFIED, NOT A SAFE PATH.
+NO ACTIVE STONE IS REMOVED OR PAINTED BEFORE CIVIL DEPENDENCY REVIEW.
+```
 
-A.C.T may not remove an active threshold stone until Recovery and Civil Covert confirm
-that no residents, patients,
-students, shelter occupants, or evacuees depend on the route. If removal is authorized, the
-stone must be photographed
-in place, rubbed on paper, mapped against old and current floor plans, and stored
-away from active containment
-boundaries.
+---
 
-Field teams should treat a four-cut stone as a route question, not an automatic
-safe path. It may identify an exit, a
-warning, a grave, or a door that works only under specific failure conditions.
+## FUNCTION SUMMARY
 
-## Failure and Open Questions
+The marking system exists so that a trained worker can recognise, under emergency conditions
+and without explanation, which opening in a failing building has been prepared to carry
+an obligation. The mark is legible at a glance, survives repainting poorly by design,
+and reads as old craftsmanship to a civilian tenant, which is how it stays
+in place for decades.
 
-Failure modes include removing a needed marker, painting over cuts, copying marks onto unprepared
-doors, or trusting a
-hostile imitation. Open questions include whether relocated stones retain route memory, who cuts them,
-and why some
-marked thresholds refuse A.C.T personnel while admitting civilians. Archive confidence is High for recurrent
-use and
-Moderate for stabilizing function.
+What the mark asserts is the part A.C.T cannot yet test. It may denote
+an opening that has been physically prepared, or it may denote an opening for
+which the preparation exists elsewhere in the building: a reinforced lintel, a sealed plan,
+a key in a shelter kit. Both readings are consistent with every recovered instance,
+and the record therefore treats the mark as an index entry rather than as
+a mechanism.
+
+That distinction carries the whole handling doctrine. If a stone were the mechanism, removing
+it would close a route and A.C.T could measure the loss. Because it may
+only be a reference, removing it can leave a live route unmarked, which is
+worse than either state: the passage still works and nobody knows where it is.
+
+
+---
+
+## ORIGIN AND CUSTODY
+
+Stones and marked components reach A.C.T through post-incident inspection and component custody rather than
+through seizure. Appropriation is limited to components and plans no longer protecting civilians, and
+any field disassembly requires Engineering and Recovery review, since removing a threshold element can
+collapse safe access still in civilian use.
+
+Custody sits with Engineering review and Recovery Division under Central Archive oversight, with Civil
+Covert attached for occupancy confirmation and Containment attached where a mark sits on or
+near an active containment boundary. Intelligence tracks builder marks, contract names, and old-work depots.
+
+Some stones predate the building they are set into according to civic paperwork. The
+dossier offers three explanations without choosing between them: forged dating, salvage reuse, or retained
+route memory. A.C.T files all three and treats the discrepancy as evidence rather than
+as a paperwork error to be corrected.
+
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+Observed forms and marks are described from in-situ observation and recovered components:
+
+- ordinary masonry blocks set into door frames;
+- worn cairn fragments in stair landings;
+- four short vertical cuts, the most reliable visible mark;
+- paired stones beside a service door;
+- brass hinges stamped C-L;
+- builder's plate dated before construction;
+- placement at basements, hospital service entrances, school shelters, and tunnel mouths;
+- salvaged doors, hinges, bricks, railings, and threshold weights in old-work yards;
+- whether the stone stabilises or only marks, unresolved;
+- who cuts the marks, unresolved.
+
+The last two rows bound the record. A.C.T holds the grammar of the mark
+and no confirmed account of its function, and it does not know who applies
+it. Both gaps are filed rather than closed by inference, because a field team
+reading this record will use it to decide whether to descend.
+
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Values are restated from the GOI-CP-W-055 dossier and from recovered components. Nothing is measured
+by relocating a stone or by stripping a mark from a prepared door.
+
+| MARK PARAMETER | VALUE |
+|---|---|
+| Primary visible mark | four short vertical cuts |
+| Secondary marks | paired stones, brass C-L hinge |
+| Plate anomaly | dated before construction |
+| Known placements | frame, landing, basement, tunnel |
+| Setting locations | hospital, school, shelter, stair |
+| Stabilising function | unresolved, marking or both |
+| Relocated memory | unresolved, dossier-listed |
+| Removal while occupied | prohibited |
+| Paint-over of cuts | prohibited by invoice fragment |
+| Marked stones held | NOT MEASURED |
+
+Stabilising function is the row that determines how much weight a field team may
+put on a mark, and it is deliberately left unresolved rather than averaged toward
+usefulness. A stone that may only be a reference must be verified before anyone
+descends past it, and the record is written so that a reader in a
+hurry gets that instruction first.
+
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Mark Reading Controls
+
+- mark recorded in place before any contact
+- photograph and paper rubbing taken together
+- mapped against old and current floor plans
+- no removal without dependency confirmation
+
+### Mark Readouts
+
+- mark type, placement, and condition per site
+- civic-plan dating discrepancy per stone
+- dependency status, occupied or inert
+- imitation and paint-over reports
+
+### Handling Limits And Weaknesses
+
+- Do not read a four-cut stone as confirmation of a safe path.
+- Do not copy a mark onto a door that has not been prepared.
+- Do not paint over or repair away the four cuts.
+- Do not store a recovered stone near a containment boundary.
+- Weakest where a hostile imitation is read as a real mark.
+- Weakest where a removed mark leaves a live route unmarked.
+
+Mark counts, placements, and dependency statuses are NOT MEASURED in this record and are
+tracked per site by Engineering review.
+
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence applies when a field team encounters a threshold mark in a building
+under abnormal structural stress. It documents before it acts and verifies before it descends,
+because both steps become impossible once a route is entered or a surface is
+altered.
+
+1. Record the mark type, placement, and condition.
+2. Photograph in place and take a paper rubbing.
+3. Map the opening against old and current plans.
+4. Check for a paired stone or C-L stamped hinge.
+5. Verify the route independently before entry.
+6. Log the mark as C&L-maintained or unresolved.
+7. Refer any removal request to Recovery and Civil Covert.
+8. Store recovered components away from active boundaries.
+
+Step 5 is the discipline that keeps the mark honest. Verification is independent of
+the mark by design: a team that descends because four cuts are present has
+not tested the route, it has tested its own willingness to trust a symbol,
+and the dossier supplies no basis for that trust.
+
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per mark | photograph, rub, map, log condition |
+| Per site | compare civic dating against placement |
+| Monthly | review marks on occupied buildings |
+| Quarterly | audit reports of imitation and paint-over |
+| Annually | review removal policy with Recovery and Civil Covert |
+
+The quarterly audit exists because imitation and paint-over both produce the same field symptom
+as a genuine mark that has failed, and the three cannot be separated after
+the fact from a photograph taken during an evacuation.
+
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Mark on unprepared door | copy or imitation | verify, do not enter |
+| Cuts painted over | routine maintenance | log, Civil Covert |
+| Stone predates building | salvage or forged dating | map, Engineering |
+| Mark refuses A.C.T staff | access condition | log, Subject Care |
+| Mark removed in error | premature clearance | restore, Recovery |
+
+
+---
+
+## KNOWN LIMITS
+
+A.C.T holds the mark grammar and no confirmed mechanism. This record therefore describes how
+a mark is read and handled rather than what a stone does, and the
+Facility cannot state whether a stone stabilises a route, marks one, or does neither
+in a given building. Archive confidence is recorded as High for recurrent use and
+Moderate for stabilising function, and neither figure is raised here.
+
+The record also cannot explain the dating discrepancy or the reported refusal of some
+marked thresholds to admit A.C.T personnel while admitting civilians. Both are filed as open
+questions. Neither is treated as a reason to distrust a mark, because in every
+recovered instance the mark identified something real.
+
+
+---
+
+## FAILURE HISTORY
+
+### PAINT-OVER — PROHIBITION OF RECORD
+
+A recovered invoice fragment carries the line do not paint over the four cuts.
+A.C.T files this as a confirmed failure mode on the strength of the prohibition
+itself: the instruction exists because the loss has happened or was expected. No A.C.T-painted
+mark is on record, and the quarterly audit runs to keep that true.
+
+### PREMATURE TRUST — STANDING CONDITION
+
+No team has descended on the authority of a mark alone. The condition is
+filed because the failure produces no artefact: a team that trusts a stone and
+arrives safely records a success, and the same team that arrives in a hazard
+records an incident with no explanation attached to the mark. The reading rule exists
+to make the distinction visible in advance.
+
+### HOSTILE IMITATION — UNRESOLVED
+
+Whether any hostile actor has copied the four-cut mark onto an unprepared door is
+unresolved. The mark is simple enough to imitate with a chisel, and no verified
+instance of a false door has been recovered. The possibility is filed rather than
+dismissed because the cost of being wrong falls on the team that descends.
+
+
+---
+
+## DIVISION USE
+
+Engineering review holds the mark grammar, the dating-discrepancy comparison, and the authority over any
+disassembly. Recovery Division holds the dependency confirmation that must precede removal and the decision
+to log a mark as C&L-maintained or unresolved. Civil Covert confirms occupancy and handles
+any disclosure to local authorities.
+
+Containment secures any boundary a marked opening crosses without collapsing civilian egress. Intelligence
+tracks builder plates, contract names, censored permits, and old-work depots. Subject Care attaches where
+a marked threshold refuses A.C.T staff while admitting civilians. Central Archive holds rubbings, photographs,
+and plan comparisons. Command authorises removal, which in practice requires a dependency finding first.
+
+
+---
+
+## CROSS-REFERENCES
+
+- GOI-CP-W-055 — Cairn & Lintel, Group of Interest Registry;
+- TECH-GOI-055-2 — Cairn & Lintel Emergency Corridor Stabilization Array, Technology Record;
+- TECH-GOI-055-3 — Cairn & Lintel Shelter Key Activation System, Technology Record;
+- TECH-GOI-055-4 — Cairn & Lintel Sealed Living Floor Plan Archive, Technology Record;
+- TECH-GOI-055-5 — Cairn & Lintel Promised Exit Lintel Assembly, Technology Record;
+- TECH-GOI-053-2 — Missing 404 Watch Tower Null-Coordinate Map Set, Technology Record;
+- Emergency route card recovered behind a gymnasium clock, Recovered Document [Level 4].
+
+The null-coordinate sheet is cited because both records concern a mark that refuses to
+promise a position. Each records refusal or obligation rather than a location, and each
+is read by a team that wants a coordinate. Both records answer the same
+way: the mark tells you where to look, and looking is a separate decision
+with its own hazards.
+
+
+---
+
+## OPEN QUESTIONS
+
+- Do relocated threshold stones retain route memory?
+- Who cuts the marks, and under what authority?
+- Why do some marked thresholds refuse A.C.T personnel?
+- Has a hostile actor copied the four-cut mark onto a false door?
+- Does a stone stabilise a route or only reference preparation elsewhere?
+- How many marked thresholds are set in occupied buildings?
+
+
+---
+
+## FILE METADATA
+
+- **Created:** 1954-11-02
+- **Author Desk:** Engineering review / Recovery Division / Central Archive
+- **Review Status:** Active restricted cooperative-marking technology record; inhabited shelter interiors held
+  at Level 5
+- **Next Review:** After any new mark, any paint-over report, or any removal request

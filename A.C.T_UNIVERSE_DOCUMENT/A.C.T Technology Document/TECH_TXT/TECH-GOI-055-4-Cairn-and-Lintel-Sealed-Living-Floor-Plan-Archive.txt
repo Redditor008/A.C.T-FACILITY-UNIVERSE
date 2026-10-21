@@ -1,4 +1,5 @@
-TECH-GOI-055-4 - CAIRN & LINTEL SEALED LIVING FLOOR PLAN ARCHIVE
+A.C.T FACILITY ARCHIVE FILE
+TECHNOLOGY RECORD - CAIRN & LINTEL SEALED LIVING FLOOR PLAN ARCHIVE
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -7,69 +8,345 @@ TECH-GOI-055-4 - CAIRN & LINTEL SEALED LIVING FLOOR PLAN ARCHIVE
 +----------------------------+---------------------------------------------------------------------------------------+
 | TECHNOLOGY NAME            | Cairn & Lintel Sealed Living Floor Plan Archive                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Living Floor Plan / Sealed Plan / C&L Plan Archive                                    |
+| SHORT NAME                 | C&LSFP                                                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ORIGIN                     | Cairn & Lintel                                                                        |
+| TECHNOLOGY FAMILY          | ACQUIRED BY COOPERATION / PLAN DISCREPANCY TECHNOLOGY / LIVING FLOOR PLAN             |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ACQUISITION STATUS         | Restricted copied extracts, withheld full plans, and post-incident comparison access  |
+| ORIGIN                     | CAIRN & LINTEL (GOI-CP-W-055) / BLUEPRINT KEEPERS                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Map-discrepancy control, containment-boundary protection, evacuation planning,        |
-|                            | occupied shelter privacy                                                              |
+| PRIMARY CONTROLLER         | Central Archive with Intelligence Division                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ARCHIVE HANDLING           | OCCUPIED-SHELTER DISCLOSURE LIMIT / LEVEL 5 FOR INHABITED INTERIORS                   |
+| ATTACHED DIVISIONS         | Central Archive, Intelligence, Recovery, Civil Covert, Containment, Engineering,      |
+|                            | Command                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| OPERATIONAL STATUS         | EXTRACTS COPIED / FULL PLANS WITHHELD BY DESIGN                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| RISK STATUS                | OVERMAPPING / SHELTER EXPOSURE / PLAN MERGING                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for extracts; Level 5 for living plans and inhabited interiors                |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Functional Identity
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Cooperative-Plan Technology Record                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Central Archive / Intelligence / Recovery / Civil Covert / Containment                |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Central Archive and Intelligence Division, joint review                               |
++----------------------------+---------------------------------------------------------------------------------------+
 
-The Cairn & Lintel Sealed Living Floor Plan Archive is the plan, map, and
-drawing system used to document structures
-whose safe routes do not match civic records. The GOI dossier identifies sealed floor
-plans, living-floor plans, floor
-plans that disagree with civic records, emergency stair maps with one extra landing, and
-paper drawings supplied after
-route closure. A.C.T files this as acquired GOI technology because these plans affect containment
-boundaries,
-evacuation ledgers, and whether A.C.T can safely enter or leave a building under abnormal
-stress.
+Archive Note
+This record covers the plan, map, and drawing system used to document structures whose
+safe routes do not match civic records. The dossier identifies sealed floor plans, living
+floor plans, plans that disagree with civic records, emergency stair maps carrying one extra
+landing, and paper drawings supplied after a route closed. Access is restricted copied extracts
+and post-incident comparison; full plans are withheld, and inhabited interiors sit at Level 5.
 
-A living floor plan is not just an architect's drawing. It may represent a
-building as it behaves under pressure
-rather than as it was permitted, insured, or sold. C&L sometimes withholds these plans
-because occupied shelters could
-become targets if mapped too clearly.
+The operative principle is that the disagreement is the evidence. A living floor plan
+may represent a building as it behaves under pressure rather than as it was
+permitted, insured, or sold, so the gap between the two drawings carries information that
+neither drawing carries alone. Merging an extract into a cleaned composite destroys exactly that
+gap, which is why the storage rule requires the two sets to sit beside
+each other rather than be reconciled.
 
-Known Structure and Use
+The second principle comes from a liaison rather than from a drawing. Asked for
+a corridor plan after the school evacuation, the liaison supplied a paper sketch showing
+only the gymnasium, two doors, and the handwritten line do not make a map
+children can get lost inside. A.C.T preserves that line as technical doctrine rather than
+as evasion: a complete map teaches civilians to search for routes that are safe
+only during one interval, and a shelter address published in clear becomes a target
+list.
 
-Known plan extracts may omit useful information by design. After the school shelter incident,
-a C&L liaison provided a
-paper drawing showing only the gymnasium, two doors, and the warning: Do not make
-a map children can get lost inside.
-That line is preserved as technical doctrine. A complete map can endanger civilians if
-it teaches them to search for
-routes that are only safe during one interval.
+Controlled label: **C&L LIVING FLOOR PLAN DOCTRINE**.
 
-Plans may use old-work symbols, four-cut marks, key references, room-kept notation, witness-memory notes, and
-route
-status fields. They may also show rooms that exist only when shelter is owed.
+Core handling rule:
 
-A.C.T Handling Rules
+A C&L PLAN EXTRACT IS STORED BESIDE THE CIVIC PLAN, NEVER MERGED INTO IT.
+NO OCCUPIED SHELTER PLAN IS PUBLISHED OR UPLOADED INTO FACILITY NAVIGATION.
 
-A.C.T must store C&L plan extracts beside ordinary plans without merging them into a
-single cleaned diagram. The
-disagreement is evidence. Access and egress ledgers must identify whether a route is C&L-maintained,
-municipal,
-A.C.T-controlled, or unresolved.
 
-No active occupied shelter plan may be published, widely duplicated, or uploaded into ordinary
-facility navigation
-systems. Civil Covert and Recovery must approve any disclosure to local authorities.
+FUNCTION SUMMARY
 
-Failure and Open Questions
+The archive exists because a plan that disagrees with the building is not automatically
+wrong. Civic records describe what was permitted and insured; a living plan describes what
+remained reachable when hallway geometry shifted or room order drifted. During the residential tower
+incident no municipal plan showed the stair connecting to the laundry yard it reached,
+and the stair was the part that worked.
 
-Failure modes include overmapping, underrecording, exposing shelters, or letting a civic plan erase a
-life-saving
-route. A.C.T also risks treating C&L secrecy as obstruction when it may be resident
-protection. Open questions include
-whether living plans update, whether some are drawn after the event they predict, and
-what ROOM KEPT means in invoice
-fragments. Archive confidence is High for plan conflict and Moderate for living-map behavior.
+That makes the discrepancy the useful object. Where the two drawings agree, either may
+be used. Where they differ, the difference identifies a route, a room, or a
+landing that exists in one record and not the other, and that is precisely
+the material a containment boundary or an evacuation ledger needs to account for. The
+archive's job is to keep the difference visible.
+
+The record therefore treats withholding as a design feature rather than as obstruction. Some
+extracts omit information deliberately, and the dossier records that Cairn & Lintel withholds plans
+because occupied shelters could become targets if mapped too clearly. A.C.T does not classify
+that as obstruction, and the handling rule is written so that a reader cannot
+mistake an incomplete extract for an incomplete investigation.
+
+
+
+ORIGIN AND CUSTODY
+
+Plan material reaches A.C.T as restricted copied extracts, withheld full plans, and post-incident comparison
+access. The liaison drawing supplied after the school evacuation is the clearest example of
+what is offered: two doors, a gymnasium, and a warning, which is a complete
+answer to the question of where to send children and no answer at all
+to the question of what the corridor was.
+
+Custody sits with Central Archive and the Intelligence Division under joint review, with Recovery
+attached for evacuation planning, Civil Covert attached for any disclosure to local authorities, Containment
+attached where a plan crosses an active boundary, and Engineering attached for structural reading.
+
+Several city contracts, shelter addresses, and inhabited floor plans are censored under the occupied-shelter
+disclosure limit. Disclosure could turn protected spaces into target lists for hostile groups of
+interest or draw civilian trespass into incomplete threshold work, and that assessment governs this
+record's storage and publication rules.
+
+
+
+PHYSICAL OR SYSTEM DESCRIPTION
+
+Known plan features are described from copied extracts and post-incident comparison:
+
+- emergency stair maps with one extra landing;
+- rooms shown that are absent from municipal copies;
+- old-work symbols and four-cut marks;
+- key references and route status fields;
+- ROOM KEPT notation carried from invoice practice;
+- witness-memory notes recorded beside routes;
+- paper drawings supplied after a route closed;
+- deliberate omission of shelter addresses;
+- whether living plans update, unresolved;
+- whether some are drawn after the event, unresolved.
+
+The last two rows are the ones that decide whether a living plan can
+be relied on prospectively. If a plan updates as a building behaves, it is
+an instrument; if some are drawn after the event they describe, they are testimony.
+A.C.T holds extracts consistent with both and does not choose.
+
+
+
+TECHNICAL SPECIFICATION
+
+Values are restated from the GOI-CP-W-055 dossier and from copied extracts. Nothing is tested
+by publishing an extract or by reconciling two plan sets into one.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| PLAN PARAMETER             | VALUE                                                                                 |
++============================+=======================================================================================+
+| Archive status             | extracts copied, plans withheld                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Plan relationship          | disagrees with civic records                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Storage rule               | beside, never merged                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Known notations            | old-work, four-cut, ROOM KEPT                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Status fields              | route status, witness memory                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Censored content           | shelter addresses, city contracts                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Publication                | prohibited while occupied                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Navigation upload          | prohibited                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Disclosure authority       | Civil Covert and Recovery                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Plans held by A.C.T        | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Storage rule is the row this record exists to enforce. Every other value describes
+the material; this one constrains what A.C.T does with it, and it is the
+row most often violated in good faith by a reader who believes a single
+reconciled diagram is more useful than two conflicting ones.
+
+
+
+INTERFACE AND OPERATING ENVELOPE
+
+Plan Intake Controls
+
+- extract stored beside the civic plan, not merged
+- censored fields preserved as censored, not filled
+- route status and witness notes copied verbatim
+- no occupied shelter plan into facility navigation
+
+Plan Readouts
+
+- discrepancy list per building
+- route ownership state per entry
+- censored-field inventory per extract
+- disclosure requests and their disposition
+
+Handling Limits And Weaknesses
+
+- Do not merge a C&L extract into a cleaned composite plan.
+- Do not publish or widely duplicate an occupied shelter plan.
+- Do not upload an extract into facility navigation systems.
+- Do not fill a censored field from another source.
+- Weakest where a civic plan erases a life-saving route.
+- Weakest where withholding is read as obstruction.
+
+Plan counts, discrepancy entries, and censored-field inventories are NOT MEASURED in this record and
+are tracked per building by Central Archive.
+
+
+
+OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+The sequence applies when a Cairn & Lintel plan extract enters A.C.T custody or
+is compared against civic records after an incident. It preserves the gap before it
+interprets the gap, because interpretation is recoverable and a merged drawing is not.
+
+1. Store the extract beside the civic plan.
+2. List every discrepancy without resolving it.
+3. Preserve censored fields as censored.
+4. Copy route status and witness notes verbatim.
+5. Log each route as C&L-maintained, municipal, or unresolved.
+6. Refer any disclosure request to Civil Covert and Recovery.
+7. Refuse navigation upload while a shelter is occupied.
+8. Report the discrepancy list, not a reconciled diagram.
+
+Step 8 is the discipline. A reconciled diagram is more comfortable to brief from
+and contains less information, because the reconciliation is an editorial act performed by someone
+who had to decide which drawing was right, and that decision is exactly what
+the two records together would have left open.
+
+
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Per extract                | store beside, list discrepancies                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Per building               | refresh comparison after any incident                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | review censored-field inventory                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | audit composites for merged extracts                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Annually                   | review the disclosure rule with Civil Covert                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The quarterly audit exists because merging happens inside composite drawings rather than in decisions.
+Nobody files a request to merge a plan; someone tidies a site diagram, and
+the discrepancy disappears from the working record while both source files remain untouched.
+
+
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Extract merged             | composite tidying                         | re-split, Archive                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Shelter address filled     | disclosure lapse                          | re-censor, Civil Covert                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Civic plan omits route     | living-plan discrepancy                   | log, do not erase                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Extract incomplete         | deliberate omission                       | note, do not pursue                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Plan in navigation         | upload lapse                              | remove, Containment                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+
+
+KNOWN LIMITS
+
+A.C.T holds extracts rather than the archive. This record describes a storage doctrine and
+a set of prohibitions rather than a collection, and the Facility cannot state how
+many plans exist, how they are indexed, or whether the withheld material would resolve
+any open question here. Confidence is recorded as High for plan conflict and Moderate
+for living-map behaviour, and neither is raised.
+
+The record also cannot say what ROOM KEPT means in post-incident invoice fragments, where
+it appears as a unit of currency charged once per incident. The phrase is
+preserved verbatim in extracts and in this record rather than glossed, because a plausible
+reading would be cited downstream as a definition.
+
+
+
+FAILURE HISTORY
+
+SCHOOL LIAISON DRAWING — DOCTRINE OF RECORD
+
+After the school shelter evacuation a Cairn & Lintel liaison was asked for the
+corridor plan and provided a paper drawing showing only the gymnasium, two doors, and
+a handwritten line reading do not make a map children can get lost inside.
+A.C.T preserves the line as technical doctrine. The drawing is the confirmed instance in
+which withholding was explained rather than asserted.
+
+PLAN MERGING — STANDING CONDITION
+
+No merged composite has been identified. The condition is filed because the failure leaves
+no trace in either source file: the extract and the civic plan both remain
+correct in storage while the working diagram used for briefing contains a reconciled version
+of both. The audit runs against composites for that reason.
+
+CIVIC ERASURE — UNRESOLVED
+
+Whether a civic plan has ever erased a route that subsequently saved civilians is
+unresolved. The residential stair reached a yard no municipal plan connected it to, which
+establishes that the civic record was wrong, but not that the correction was harmful.
+The question is filed because the two cases require opposite handling.
+
+
+
+DIVISION USE
+
+Central Archive holds the extracts, the discrepancy lists, and the storage rule, and rules
+on any request to reconcile two plan sets. The Intelligence Division reads discrepancies against
+other buildings and tracks contract names, censored permits, and repeated builder marks. Recovery Division
+uses the discrepancy list for evacuation planning without merging it into a site diagram.
+
+Civil Covert approves any disclosure to local authorities and re-censors any field filled in
+error. Containment removes any extract found in facility navigation and secures a boundary a
+route crosses. Engineering reads structural content and advises on settlement. Command authorises escalation
+and holds no authority to order publication of an occupied shelter plan.
+
+
+
+CROSS-REFERENCES
+
+- GOI-CP-W-055 — Cairn & Lintel, Group of Interest Registry;
+- TECH-GOI-055-1 — Cairn & Lintel Threshold Stone Marking System, Technology Record;
+- TECH-GOI-055-2 — Cairn & Lintel Emergency Corridor Stabilization Array, Technology Record;
+- TECH-GOI-055-3 — Cairn & Lintel Shelter Key Activation System, Technology Record;
+- TECH-GOI-055-5 — Cairn & Lintel Promised Exit Lintel Assembly, Technology Record;
+- TECH-GOI-053-5 — Missing 404 Watch Tower Analog Photograph and Dead-Link Vault, Technology Record;
+- Emergency route card recovered behind a gymnasium clock, Recovered Document [Level 4].
+
+The dead-link vault is cited because both records concern paper evidence kept against systems
+that revise their own history, and both are read by people deciding what a
+document proves. The difference is direction of error. A dead link proves something stopped
+existing; a plan discrepancy proves that two records of the same building were never
+the same, and the second is the harder finding to keep visible.
+
+
+
+OPEN QUESTIONS
+
+- Do living floor plans update as a building behaves?
+- Are some plans drawn after the event they describe?
+- What does ROOM KEPT mean in invoice fragments?
+- How many occupied shelters are hidden from A.C.T?
+- Has a civic plan ever erased a route that saved civilians?
+- Can A.C.T audit a shelter without displacing its residents?
+
+
+
+FILE METADATA
+
+- **Created:** 1989-02-08
+- **Author Desk:** Central Archive / Intelligence Division / Civil Covert
+- **Review Status:** Active restricted cooperative-plan technology record; living plans and inhabited interiors
+held at Level 5
+- **Next Review:** After any new extract, any disclosure request, or any merged-composite finding
