@@ -1,0 +1,317 @@
+A.C.T FACILITY ARCHIVE FILE
+TECHNOLOGY RECORD - OFFICE ALTERED-PERSON LEDGER AND DEATH-RECORD REVERSAL SYSTEM
+
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-060-4                                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| TECHNOLOGY NAME            | Office Altered-Person Ledger And Death-Record Reversal System                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| SHORT NAME                 | APSLD                                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | ACQUIRED BY OBSERVATION / CIVIL STATUS TECHNOLOGY / IDENTITY CONTINUITY SYSTEM        |
++----------------------------+---------------------------------------------------------------------------------------+
+| ORIGIN                     | OFFICE FOR WITNESS CONTINUANCE (GOI-GV-X-060) / STATUS LEDGER DESK AND NOTIFICATION   |
+|                            | OFFICE                                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Legal Liaison with Civil Covert review                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Legal, Civil Covert, Intelligence, Medical Care, Containment, Central Archive         |
++----------------------------+---------------------------------------------------------------------------------------+
+| OPERATIONAL STATUS         | LEDGER PRACTICE OBSERVED / NO LEDGER VOLUME HELD                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| RISK STATUS                | FALSE DEATH RECORD / RELABELLING / FAMILY NOTIFICATION COVER                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for ledger practice; Level 5 for any death-record challenge                   |
++----------------------------+---------------------------------------------------------------------------------------+
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted GOI-Acquired Status Technology Record                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Legal, Civil Covert, Intelligence, Medical Care, Containment, Command                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Legal Liaison and Civil Covert review, Central Archive custody                        |
++----------------------------+---------------------------------------------------------------------------------------+
+
+ARCHIVE NOTE
+
+This record covers the altered-person status ledger and the death-record reversal practice by which the Office for
+Witness Continuance keeps a person on the record after an event that would otherwise remove them. The dossier names
+altered-person status ledgers, witness ledgers for people officially dead, missing, or relabelled, the Office's
+challenges to false death records, its forcing of family-notification review before complete disappearance cover, and
+the instruction not to certify death because containment cannot explain survival.
+
+The technical problem is that containment produces statuses faster than law can review them. A person transformed,
+relocated, or silenced is easier to file as dead than to explain, and the dossier asks directly how many A.C.T
+public-cover deaths have been reversed by Office action. A.C.T has not counted them and does not claim a number.
+
+The governing distinction is between a changed body and an unchanged name. The Office's instruction that a changed
+body must not erase an unchanged name is what makes the ledger a status instrument rather than a medical one:
+it records that the person is the same person, and it does so before any label is applied. The ledger
+entry comes first and the classification second, which is the reverse of how a containment file is normally built.
+
+Controlled label: ALTERED-PERSON LEDGER RULE.
+
+Core handling rule:
+
+DO NOT CERTIFY DEATH BECAUSE CONTAINMENT CANNOT EXPLAIN SURVIVAL.
+A CHANGED BODY DOES NOT ERASE AN UNCHANGED NAME. LEDGER FIRST, LABEL SECOND.
+
+
+FUNCTION SUMMARY
+
+The ledger records a person whose civil status has been altered by an event, and holds that record against a
+death certificate, a missing-person closure, or a relabelling that would otherwise end it. It supports a challenge, a
+detention review, and a family notification that does not require a total disappearance narrative.
+
+- keeps a person on record when officially dead, missing, or relabelled;
+- supports a challenge to a false death record;
+- forces family-notification review before complete disappearance cover;
+- records that a changed body has not changed the name;
+- distinguishes witness hazard from witness personhood.
+
+A.C.T maintains status through containment classification, which is assigned by the incident and can outlive the
+person's civil existence. The ledger does the opposite: it holds civil existence against the classification, and it is
+the reason some A.C.T covers have been reversed.
+
+
+ORIGIN AND CUSTODY
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| FIELD                      | VALUE                                                                                 |
++============================+=======================================================================================+
+| Ledgers held               | None                                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Master witness ledger      | Not recovered                                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Reversals counted          | Not counted by A.C.T                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Notification packets       | Office-issued; format not held                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Detention reviews          | Demanded by the Office                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Ledger format              | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The operative row is the reversals-counted row. A.C.T does not know how many of its own public-cover deaths have been
+reversed, and the record says so rather than estimating. An estimate here would enter the archive as a fact about
+A.C.T's own conduct.
+
+
+PHYSICAL OR SYSTEM DESCRIPTION
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| COMPONENT                  | DESCRIPTION                                                                           |
++============================+=======================================================================================+
+| Status ledger              | Holds altered-person entries; format not held                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Death record challenge     | Contests a false death certificate                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Detention review demand    | Forces review for transformed persons                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Notification packet        | Issued before disappearance cover completes                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Name continuity entry      | Records the unchanged name                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Hazard distinction         | Separates hazard from personhood                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The name continuity entry is the structural core. It asserts that the person named is the person recorded,
+independently of physical state, and it is entered before any classification. A.C.T has no equivalent field in its own
+status records.
+
+
+TECHNICAL SPECIFICATION
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| PARAMETER                  | RECORDED VALUE                                                                        |
++============================+=======================================================================================+
+| Entry basis                | Civil status altered by an event                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Entry order                | Ledger first, classification second                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Name continuity            | Recorded against a changed body                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Death certification        | Refused where survival is unexplained                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Notification effect        | Review forced before cover completes                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Reversal record            | Confirmed as Office practice; count unknown                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Hazard separation          | Hazard and personhood recorded separately                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Ledger format              | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| A.C.T equivalent           | Containment classification, incident-assigned                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Ledgers in Office use      | Unknown                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The governing row is the entry-order row. Entering the ledger before the classification is what allows a person to
+remain a person while a hazard question is still open. Reversing the order produces a hazard record with a person
+attached, which is the condition the Office exists to contest.
+
+
+INTERFACE AND OPERATING ENVELOPE
+
+Status Handling Controls
+
+- record the person's name before any classification is applied;
+- do not certify death where survival cannot be explained;
+- record a changed body and an unchanged name as separate facts;
+- route any death-record challenge to Legal Liaison;
+- hold family notification until notification review is complete.
+
+Status Readouts
+
+- ledger entry, as the Office states it, including relabelling;
+- death record status, recorded as certified, contested, or reversed;
+- name continuity, recorded against the current physical state;
+- notification status, recorded as deferred, reviewed, or complete;
+- hazard and personhood, recorded as two separate entries.
+
+Handling Limits And Weaknesses
+
+- no death certification on the basis that survival is unexplained;
+- no relabelling of a person before the ledger entry exists;
+- no complete disappearance cover before notification review;
+- no merging of hazard and personhood into one field;
+- no estimate of the reversal count entered into an A.C.T record.
+
+
+OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+Applies when A.C.T handles a person whose civil status an event has altered.
+
+1. Record the person's name before applying any classification.
+2. Record the physical state and the name as two separate facts.
+3. Do not certify death where survival cannot be explained.
+4. Record any Office ledger entry exactly as the Office states it.
+5. Route any death-record challenge to Legal Liaison in writing.
+6. Hold family notification until notification review is complete.
+7. Record hazard and personhood as two separate entries.
+8. File the status with the ledger entry visible, not summarised.
+
+
+SERVICING AND CALIBRATION
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| TASK                       | INTERVAL AND CONDITION                                                                |
++============================+=======================================================================================+
+| Name-first entry audit     | On every altered-status case                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Death record register      | Annual, certified against contested                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Notification review log    | Before any disappearance cover                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Relabelling check          | Before any label is applied                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Hazard separation review   | Annual, against status records                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Reversal query log         | On any query, recorded without estimate                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The reversal query log is the row that keeps an unknown number unknown. Each query is recorded with the answer
+that A.C.T has not counted. Entering an estimate would create a figure about A.C.T's own covers that nobody has
+verified.
+
+
+FAULT ISOLATION
+
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| OBSERVED FAULT             | ASSESSED CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Death certified early      | Survival unexplained                      | Reverse; notify Legal Liaison             |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Person relabelled first    | Classification reflex                     | Enter ledger; then label                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Cover before review        | Narrative pressure                        | Hold cover; complete review               |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Hazard and person merged   | Single-field filing                       | Split into two entries                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Reversal count estimated   | A.C.T handling breach                     | Remove; record as not counted             |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Ledger entry summarised    | A.C.T handling breach                     | Restore the entry verbatim                |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+The first row is the fault the Office's instruction exists to prevent. Certifying death because survival cannot be
+explained turns an unexplained condition into a closed record, and closing it is what makes the person unreachable
+afterwards.
+
+
+KNOWN LIMITS
+
+- A.C.T holds no ledger volume and no master witness ledger.
+- The ledger format has not been measured.
+- A.C.T has not counted how many of its covers have been reversed.
+- Whether all altered-person cases are ledgered is unknown.
+- A.C.T has no name-continuity field in its own status records.
+- The number of ledgers in Office use is unknown.
+
+
+FAILURE HISTORY
+
+FALSE DEATH RECORDS — CHALLENGED
+
+The Office challenges false death records and forces family-notification review before complete disappearance cover.
+A.C.T records the practice without counting its own reversals, because an unverified count would enter the archive as
+a statement about A.C.T conduct.
+
+RELABELLING — PROHIBITION OF RECORD
+
+A changed body must not erase an unchanged name. A.C.T adopts the prohibition on relabelling before a ledger entry
+exists, because a label applied first becomes the record that later review has to argue against.
+
+HAZARD VERSUS PERSONHOOD — UNMERGED
+
+The Office distinguishes witness hazard from witness personhood in tribunal language. A.C.T records the two
+separately, and does not merge them into a single field, because a merged field cannot express a person who is
+hazardous and continues.
+
+
+DIVISION USE
+
+- Legal Liaison: answers death-record challenges and detention reviews.
+- Civil Covert: holds disappearance cover until notification review ends.
+- Intelligence: tracks relabelling and status alteration patterns.
+- Medical Care: records physical state without altering the name.
+- Containment: treats a ledger entry as an open person question.
+- Central Archive: files ledger entries verbatim alongside status records.
+
+
+CROSS-REFERENCES
+
+- GOI-GV-X-060 — Office for Witness Continuance, Group of Interest Registry.
+- TECH-GOI-060-3 — Office Amnestic Challenge Form And Consent Observer System, Technology Record.
+- TECH-GOI-060-1 — Office Continuance Writ And Emergency Custody Stay System, Technology Record.
+- Title Statement, Archive Record.
+- Normalcy Management and Public Narrative Doctrine, Archive Record.
+- Restricted disappearance and status case chains held under Central Archive routing.
+
+
+OPEN QUESTIONS
+
+- How many A.C.T public-cover deaths have been reversed by Office action?
+- Are all altered-person cases ledgered, or only contested ones?
+- Can A.C.T add a name-continuity field to its own status records?
+- Has the Office ever preserved a person A.C.T assessed as unrecoverable?
+- What incident caused the creation of the Office, and was A.C.T involved?
+
+
+FILE METADATA
+
+Created: 1988-03-22
+Author Desk: Legal Liaison review / Intelligence Division / Central Archive
+Review Status: Active restricted GOI-acquired status record; death-record challenges held at Level 5
+Next Review: After any altered-status case, any death challenge, or any notification review

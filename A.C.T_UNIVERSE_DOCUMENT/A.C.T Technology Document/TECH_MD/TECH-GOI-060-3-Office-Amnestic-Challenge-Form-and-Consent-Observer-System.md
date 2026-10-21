@@ -1,0 +1,273 @@
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - OFFICE AMNESTIC CHALLENGE FORM AND CONSENT OBSERVER SYSTEM
+
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-060-3 |
+| TECHNOLOGY NAME | Office Amnestic Challenge Form And Consent Observer System |
+| SHORT NAME | ACFMC |
+| TECHNOLOGY FAMILY | ACQUIRED BY OBSERVATION / MEDICAL CONSENT TECHNOLOGY / MEMORY ACTION REVIEW SYSTEM |
+| ORIGIN | OFFICE FOR WITNESS CONTINUANCE (GOI-GV-X-060) / CONSENT OBSERVER CORPS |
+| PRIMARY CONTROLLER | Medical Care Division with Legal Liaison review |
+| ATTACHED DIVISIONS | Medical Care, Legal, Intelligence, Civil Covert, Containment, Central Archive |
+| OPERATIONAL STATUS | FORM COPIES HELD / OBSERVER PRACTICE OBSERVED |
+| RISK STATUS | SILENCE AS CONSENT / CONSENT-MEMORY GAP / UNOBSERVED ACTION |
+| CLEARANCE REQUIRED | Level 4 for form use; Level 5 for any contested memory action |
+
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted GOI-Acquired Consent Technology Record |
+| DISTRIBUTION | Medical Care, Legal, Intelligence, Civil Covert, Containment, Command |
+| AUTHORITY | Medical Care Division and Legal Liaison review, Central Archive custody |
+
+#### Archive Note
+
+This record covers the amnestic challenge form and the medical consent observer by which the Office for Witness
+Continuance reviews memory action before it happens. The dossier names amnestic challenge forms, medical consent
+observers, the Office's capacity to detect gaps between medical consent and memory state, and a continuance writ
+requiring a medical observer before memory action. A.C.T holds copies of the forms.
+
+The technical problem is that a signature is not evidence of consent where memory is the subject. A witness may
+sign something they cannot remember reading, and the Office's instruction is direct: do not let the witness sign what
+they cannot remember reading, and do not call silence consent. The gap the observer exists to detect is between the
+moment of signing and the memory state at that moment, which no form can record by itself.
+
+The recorded case shows what the review found. Medical review after the stay identified a secondary memory shard
+containing the name and partial location of a missing civilian, later confirmed independently, and the witness
+received partial memory-aftercare instead of full erasure. A.C.T records this as the reason the observer requirement
+is treated as substantive rather than procedural: the observation changed the action, not merely the paperwork.
+
+Controlled label: **AMNESTIC CONSENT OBSERVER RULE**.
+
+Core handling rule:
+
+```text
+SILENCE IS NOT CONSENT. CONSENT MUST MATCH MEMORY STATE AT THE MOMENT OF SIGNING.
+NO MEMORY ACTION PROCEEDS WITHOUT A MEDICAL OBSERVER PRESENT.
+```
+
+---
+
+## FUNCTION SUMMARY
+
+The system reviews whether a proposed memory action has valid consent at the moment it is proposed. A challenge form
+contests an amnestic administration; a consent observer attends the signing and records the witness's memory state
+alongside it.
+
+- detects gaps between medical consent and memory state;
+- blocks non-emergency amnestic administration pending review;
+- requires an observer present before any memory action;
+- records silence as silence rather than as agreement;
+- supports partial aftercare in place of full erasure.
+
+A.C.T administers amnestics under its own consent practice, which records a signature. The Office's system records a
+memory state at the time of the signature, which is a different measurement and one A.C.T does not currently take.
+
+---
+
+## ORIGIN AND CUSTODY
+
+| FIELD | VALUE |
+|---|---|
+| Items held | Copies of amnestic challenge forms |
+| Observers supplied | By the Office; A.C.T may supply on request |
+| Recorded finding | Secondary memory shard identified |
+| Outcome recorded | Partial aftercare instead of full erasure |
+| Consent-gap method | NOT MEASURED |
+| Emergency exception | Not defined in the dossier |
+
+The operative row is the recorded-finding row. The review produced evidence that changed the action taken, which is
+why A.C.T files the observer as a substantive control. A control that only ever produced paperwork would not have
+altered the outcome for the witness or recovered the missing civilian's name.
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+| COMPONENT | DESCRIPTION |
+|---|---|
+| Challenge form | Contests a scheduled amnestic administration |
+| Consent observer | Attends signing; records memory state |
+| Memory state entry | Recorded at the moment of signing |
+| Silence entry | Recorded as silence, not as agreement |
+| Medical review | Precedes any memory action |
+| Aftercare option | Partial, in place of full erasure |
+
+The memory state entry is the component that makes the form more than a document. Without a contemporaneous record of
+what the witness could recall while signing, a challenge has nothing to compare the signature against and defaults to
+arguing about the witness's character.
+
+---
+
+## TECHNICAL SPECIFICATION
+
+| PARAMETER | RECORDED VALUE |
+|---|---|
+| Consent basis | Memory state at the moment of signing |
+| Silence handling | Recorded as silence; never as consent |
+| Observer requirement | Present before any memory action |
+| Gap detection | Confirmed; method NOT MEASURED |
+| Emergency exception | Not defined in the dossier |
+| Outcome effect | Changed action in the recorded case |
+| Aftercare route | Partial, in place of full erasure |
+| A.C.T practice | Signature recorded; memory state not recorded |
+| Forms in Office use | Unknown |
+| Observers in Office use | Unknown |
+
+The governing row is the consent-basis row. Consent measured against a signature and consent measured against a memory
+state are different instruments, and only the second can detect a witness signing something they cannot remember
+reading.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Consent Review Controls
+
+- record the witness's memory state at the moment of signing;
+- record silence as silence; never enter it as agreement;
+- confirm an observer is present before any memory action;
+- record any challenge form served, with its stated basis;
+- offer partial aftercare as an alternative to full erasure.
+
+### Consent Readouts
+
+- memory state entry, as recorded by the observer;
+- signature time, compared against the memory state entry;
+- silence entries, kept distinct from agreement entries;
+- challenge form basis, quoted rather than paraphrased;
+- medical review finding, including any secondary shard.
+
+### Handling Limits And Weaknesses
+
+- no memory action without an observer present;
+- no entry of silence as consent, under any time pressure;
+- no signing by a witness who cannot recall reading the document;
+- no full erasure where partial aftercare has been offered;
+- no bypass of a served challenge form on operational urgency.
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Applies when A.C.T proposes a memory action on a witness connected to a continuance matter.
+
+```text
+1. Confirm whether a challenge form has been served; if so, read its basis.
+2. Obtain a medical observer before scheduling any memory action.
+3. Record the witness's memory state at the moment of any signing.
+4. Record silence as silence; do not convert it into agreement.
+5. Do not proceed where the witness cannot recall reading the document.
+6. Record the medical review finding in full, including secondary content.
+7. Offer partial aftercare before proposing full erasure.
+8. File consent, memory state, and observer attendance together.
+```
+
+---
+
+## SERVICING AND CALIBRATION
+
+| TASK | INTERVAL AND CONDITION |
+|---|---|
+| Observer attendance log | Before every memory action |
+| Memory state entry audit | On every signing recorded |
+| Silence entry review | Annual, against consent records |
+| Challenge form register | On every form served |
+| Aftercare option log | Before any full erasure proposed |
+| Consent practice review | Annual, against Office method |
+
+The consent practice review is the row that keeps the gap visible. A.C.T records signatures and does not record memory
+state, so each year the review restates that difference rather than allowing an A.C.T signature to be described as
+equivalent to an Office-reviewed consent.
+
+---
+
+## FAULT ISOLATION
+
+| OBSERVED FAULT | ASSESSED CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Silence entered as consent | Time pressure | Correct entry; report breach |
+| No observer present | Scheduling failure | Halt the memory action |
+| Signature without recall | Consent-memory gap | Void signing; re-review |
+| Challenge form bypassed | Operational urgency | Halt; report to Legal Liaison |
+| Full erasure after offer | A.C.T handling breach | Report; review aftercare |
+| Memory state unrecorded | Practice gap | Record before proceeding |
+
+The first row is the fault the Office's instruction names directly. Entering silence as consent is a single keystroke
+under time pressure and it converts an unconsented action into a documented one, which is harder to reverse than the
+action itself.
+
+---
+
+## KNOWN LIMITS
+
+- A.C.T holds form copies and does not supply observers as standard.
+- The method of gap detection has not been measured.
+- No emergency exception is defined in the dossier.
+- A.C.T does not record memory state at signing.
+- Whether every memory action is reviewable is unknown.
+- The number of observers in Office service is unknown.
+
+---
+
+## FAILURE HISTORY
+
+### SECONDARY MEMORY SHARD — RECORDED FINDING
+
+Medical review under the stay identified a secondary memory shard containing the name and partial location of a
+missing civilian, later confirmed through independent records. A.C.T files this as the reason the observer requirement
+is substantive: the review changed the action and produced recovery evidence.
+
+### SILENCE AS CONSENT — STANDING PROHIBITION
+
+The Office's instruction not to call silence consent is adopted as a standing prohibition. A.C.T records it because
+silence is the most common entry available under time pressure and the least defensible one afterwards.
+
+### CONSENT-MEMORY GAP — UNRESOLVED IN A.C.T PRACTICE
+
+A.C.T records a signature and does not record the memory state at the moment of signing. This is filed as
+a gap in A.C.T practice, not as an Office limitation, and it is the reason every consent connected to a
+continuance matter is filed with its review status stated.
+
+---
+
+## DIVISION USE
+
+- Medical Care: supplies observers and records memory state.
+- Legal Liaison: reads challenge forms and answers justification demands.
+- Intelligence: tracks consent gaps across cases.
+- Civil Covert: keeps contested memory actions out of public explanation.
+- Containment: treats a served challenge as a hold on the action.
+- Central Archive: files consent, memory state, and attendance together.
+
+---
+
+## CROSS-REFERENCES
+
+- GOI-GV-X-060 — Office for Witness Continuance, Group of Interest Registry.
+- TECH-GOI-060-1 — Office Continuance Writ And Emergency Custody Stay System, Technology Record.
+- TECH-GOI-060-4 — Office Altered-Person Ledger And Death-Record Reversal System, Technology Record.
+- AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM, Operational Form.
+- WITNESS STATEMENT AND TESTIMONY FORM, Operational Form.
+- Restricted memory-aftercare case chains held under Central Archive routing.
+
+---
+
+## OPEN QUESTIONS
+
+- How does the Office detect a gap between consent and memory state?
+- Is there an emergency exception, and who determines that it applies?
+- Has the Office ever preserved a cognitohazard knowingly as testimony?
+- Can A.C.T record memory state at signing within its own practice?
+- How many memory actions has Office review changed rather than delayed?
+
+---
+
+## FILE METADATA
+
+- **Created:** 1986-09-03
+- **Author Desk:** Legal Liaison review / Intelligence Division / Central Archive
+- **Review Status:** Active restricted GOI-acquired consent record; contested actions held at Level 5
+- **Next Review:** After any memory action, any challenge served, or any consent practice review

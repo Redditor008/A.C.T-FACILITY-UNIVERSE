@@ -5550,3 +5550,64 @@ so it is no longer re-authored inline each batch and cannot drift between sets.
 **Next action.** Sets 060 to 070 and 072 to 074 still have no technology set (14 dossiers); 209 two-space
 orphan lines remain across sets 054, 056 and 071; 206 em-dash bullets remain in technology records;
 `docs/index.html` is still 0 bytes.
+## Prompt Log — 2026-10-21 18:23 UTC
+
+### Batch 39 - new technology set 060, Office for Witness Continuance
+
+Branch resolved at runtime with `git rev-parse --abbrev-ref HEAD`; no branch name is hardcoded in the
+saver or the tooling.
+
+**Action taken.** Built a complete five-record technology set for `GOI-GV-X-060`, Office for Witness
+Continuance, in both formats, reusing the shared builder and the standalone per-set validator. Each record
+carries the full house shape: 14 level-two chapters in house order, 8 level-three sections and one
+level-four archive note matching the 055-1 reference, a 10-row registry table, a 3-row archive table, a
+controlled label, a two-line core handling rule, 7 tables rendered as 7 boxes at exactly 118 characters,
+an eight-step numbered operating sequence, and a dated metadata block.
+
+| DESIGNATION | RECORD | SHORT | WORDS | CREATED |
+| --- | --- | --- | --- | --- |
+| `TECH-GOI-060-1` | Office Continuance Writ And Emergency Custody Stay System | CWECS | 1953 | 1983-05-17 |
+| `TECH-GOI-060-2` | Office Protected Testimony Vault And First-Recording System | PTVFR | 1942 | 1985-01-29 |
+| `TECH-GOI-060-3` | Office Amnestic Challenge Form And Consent Observer System | ACFMC | 1932 | 1986-09-03 |
+| `TECH-GOI-060-4` | Office Altered-Person Ledger And Death-Record Reversal System | APSLD | 1906 | 1988-03-22 |
+| `TECH-GOI-060-5` | Office Red-Stamp Hearing Card And Resistant-Ink System | RSHCW | 1945 | 1990-07-14 |
+
+Set totals: 5 records, 10 files, 9678 words, 35 tables, 35 boxes, 40 operating steps. Every record sits
+inside the 1800-2600 word target band established by the individual technology record structure research.
+
+**Source discipline.** Every technical claim comes from the dossier's named assets, instructions, and the
+recorded continuance hearing: continuance writs and emergency custody stays, the twelve-hour emergency stay
+granted against a request for full amnestic administration, the finding that A.C.T may secure the room but
+may not erase it, protected testimony vaults holding original statements and first recordings, protection
+of recordings from ordinary legal destruction schedules, amnestic challenge forms, medical consent
+observers, the instruction not to call silence consent, altered-person status ledgers for people officially
+dead, missing, or relabelled, the instruction not to certify death because containment cannot explain
+survival, red-stamped cards reading DO NOT REDUCE TO HAZARD BEFORE HEARING, and the witness card fragment
+whose ink remained visible after a standard document-cleaning attempt. Unmeasured properties are written
+as `NOT MEASURED` and the dossier's own persistent questions carry into each record's open questions.
+
+**Deliberate refusals to resolve.** Three questions the dossier offers candidates for are left open on
+purpose, each with a stated reason rather than a shrug. The resistant ink has three candidate causes -
+legal procedure, anomalous ink, or witness memory attachment - and no test route, because the only
+available test is the cleaning attempt that already produced the recorded result. The reversal count is
+left uncounted because an estimate would enter the archive as an unverified fact about A.C.T's own covers.
+And version differences in testimony are recorded without resolution, because closing the entry by choosing
+a version would destroy the only evidence that testimony changed.
+
+**Builder defects.** One table cell exceeded the 26-character first column and was shortened before any
+file was written: `Observers in Office service` at 27 became `Observers in Office use` at 23. The pre-run
+cell scan returned 0 violations after the fix and the build assertion raised nothing, so both checks were
+clear before the real run. No other defect occurred this batch.
+
+**Validation.** DOCUMENT_COUNT 947 to 957; `TECH_MD` 219 to 224 == `TECH_TXT` 224; multiH1 0;
+BELOW_200 0; EMPTY 0; bad-EOF 0; odd-fence 0; md-with-box 0; glued 0; date-violations 0 against the
+1598-2026 archive cycle; widest box line 118; `git diff --check` clean. Per record: house chapter order
+exact, 14 H2, 8 H3 and 1 H4 matching the 055-1 reference, 8 numbered steps, tables == boxes at 7,
+0 missing twin cells after wrapped columns are rejoined and header rows collected, 0 two-space lines,
+0 em-dash bullets, metadata dates 1983 to 1990 spanning the dossier's own 1982-1987 window.
+
+**Counters.** GOI dossiers with a technology set 17 of 30; `TECH-GOI` records 85; `TECH-ACT` 137 of 137.
+
+**Next action.** Sets 061 to 070 and 072 to 074 still have no technology set (13 dossiers); 209 two-space
+orphan lines remain across sets 054, 056 and 071; 206 em-dash bullets remain in technology records;
+`docs/index.html` is still 0 bytes.
