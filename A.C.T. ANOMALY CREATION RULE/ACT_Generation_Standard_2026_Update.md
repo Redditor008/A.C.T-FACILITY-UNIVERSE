@@ -149,3 +149,22 @@ states set by that authority, and `O5 Access`, `O5 Liaison`, `O5 Oversight`, and
 `O5 Headquarters` name functions and places belonging to it. Where a record needs the
 clearance level alone rather than the authority, `Level 5` is the correct form and both
 readings are valid in their own place.
+
+## Canonical Term: Amnestics
+
+`amnestics` is A.C.T canon and stays. In A.C.T usage it names the class of memory-intervention
+compounds the Facility issues, and it is not a borrowed term to be replaced. The house forms are
+`amnestics` for the compound class, `amnestic` as the adjective, `amnestic-grade` for a stated
+strength, and `amnestic protocol` for an authorised administration sequence. Where a record needs
+precision it names the series rather than the class, for example the `004-Series`. The term appears
+638 times across the corpus and is not to be rewritten, replaced, or flagged as foreign vocabulary.
+
+## Canonical Term: Memetic
+
+`memetic` is A.C.T canon and stays. In A.C.T usage it names the hazard class carried by information
+that acts on a person through being perceived, and it is the term the Facility's own divisions use.
+The house forms are `memetic hazard`, `memetic exposure`, `memetic contamination`, `memetic
+quarantine`, and `memetic filtering`. The term appears 707 times across the corpus and is not to be
+rewritten, replaced, or flagged as foreign vocabulary. Where a record must distinguish a hazard that
+acts through perception from one that acts through contact, `memetic` is the correct word and
+`infohazard` is the narrower one.

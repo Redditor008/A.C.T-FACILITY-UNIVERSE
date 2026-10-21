@@ -138,7 +138,7 @@ Most-repeated sentence in the corpus after the pass, for comparison: 20 files. B
 ## 6. Not resolved, with reasons
 
 - **`O5` across 139 files — RESOLVED as canon.** The owner confirmed `O5` stands for Overseer Five and is A.C.T's own governing authority. Nothing is rewritten. The reading is recorded in `ACT_Generation_Standard_2026_Update.md` under Canonical Term: O5 so it is not flagged again.
-- **`amnestics` 638 and `memetic` 707.** Shared genre vocabulary; rewriting exceeds the problem.
+- **`amnestics` 638 and `memetic` 707 — RESOLVED as canon.** The owner ruled both stay. Their house forms are now defined in `ACT_Generation_Standard_2026_Update.md` under Canonical Term: Amnestics and Canonical Term: Memetic, alongside the O5 ruling, so no future pass flags them.
 - **Redundant overview documents — RESOLVED.** Measuring the whole folder showed six archive records duplicating the six-part A.C.T Universe series at 0.863 to 0.975 line similarity, with Part One present a third time. Each archive record now carries a Series Position section, the Part folders are removed, and the five citations to them were rewritten.
 - **Patch Saver and TECH README — RESOLVED.** A compact ledger of all 43 entries was written to `PATCH SAVER/Technology_Phase_Patch_Ledger_Compact.md` (2,128 words) and the full log left intact. `TECH_MD/README.md` went from 10,021 to 5,818 words and `TECH_TXT/README.txt` from 10,056 to 5,853, with the Current Status text moved to `PATCH SAVER/Technology_Phase_Current_Status.md` and `.txt`.
 - **`docs/index.html` is 0 bytes.** Left alone at the owner's instruction; the document folder work is not finished yet.

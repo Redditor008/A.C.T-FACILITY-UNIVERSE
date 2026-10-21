@@ -5686,7 +5686,7 @@ exact, 14 H2, 8 H3 and 1 H4 matching the 055-1 reference, 8 numbered steps, tabl
 **Counters.** GOI dossiers with a technology set 18 of 30; `TECH-GOI` records 90; `TECH-ACT` 137 of 137.
 Dossiers still warranting a technology set: 073, 074, 069, 070, plus 068 to be decided.
 
-**Next action.** Build `GOI-HY-W-073` Lantern Accord, then `GOI-HY-N-074` Ninefold Ark, then `GOI-CU-X-069`
+**Next action.** Build `GOI-HY-W-073` Lantern Accord, then `GOI-HY-N-074` Ninefold Ark, then `GOI-BS-X-069`
 Namewright Bazaar and `GOI-BS-W-070` Saint Morrow Passage. Do not build sets for 061 to 067; those
 dossiers route their assets to anomaly, medical, witness, and archive records instead.
 
@@ -5827,3 +5827,49 @@ mode of sets 057 to 060.
 `memetic` 707 remain. Section-level uniformity across the 229 technology records is unchanged.
 
 **Next action.** Build `GOI-HY-W-073` Lantern Accord, then 074, 069, 070, then 068 at two records.
+
+## Prompt Log — 2026-10-21 20:17 UTC
+
+### Batch 44 - GOI-068 built at two records; amnestics and memetic canonised; ledger titled; cross-references audited
+
+Branch resolved at runtime with `git rev-parse --abbrev-ref HEAD`; no branch name is hardcoded.
+
+**Set 068 built at two records, not five.** Only the two assets A.C.T physically holds received a
+record: the receipt, seal, and return-clause instrument set, and the buyer-book page and barred-client
+mark system. The velvet inspection cloth, the provenance ledger system, and the shielded viewing room
+are carried as open questions instead, because A.C.T holds none of them and the dossier leaves the
+cloth unresolved as to whether it is a tool at all. Set total 4,628 words across two records and four
+files, with 2 `NOT MEASURED` cells in the whole set.
+
+**amnestics and memetic canonised.** The owner ruled both stay. Their house forms are now defined in
+`ACT_Generation_Standard_2026_Update.md` under Canonical Term: Amnestics and Canonical Term: Memetic,
+alongside the O5 ruling from batch 43. Nothing was rewritten; 638 and 707 occurrences stand.
+
+**Compact ledger titled.** All 43 rows now carry a title. Where an entry had a heading of its own that
+heading is used; where it did not, the title is the entry's own opening sentence shortened, and no
+wording was invented.
+
+**Cross-references audited.** 30 GOI designations resolve to real dossiers. 42 mentions are the
+roadmap build queue, each labelled provisional in `00_GOI_Development_Roadmap`. Two further mentions
+sit inside a fenced code block in the GOI README marked Example only, showing the naming pattern
+rather than citing a document. `TECH-ACT-000` and `TECH-GOI-000-0` are template placeholders in
+`00_Technology_Record_Template`. Four genuinely wrong designations were found, all of them written by
+this session into its own memos and log, and corrected: `GOI-BS-X-068` to `GOI-BS-N-068`,
+`GOI-CU-P-062` to `GOI-CU-X-062`, `GOI-CU-P-065` to `GOI-CU-X-065`, and `GOI-CU-X-069` to
+`GOI-BS-X-069`.
+
+**Builder defects found and fixed before writing.** Twenty-nine table cells breached the 26-character
+first column and two breached the 41-character body column. Fourteen bullets exceeded the 118-character
+line limit, which the renderer guards but does not wrap. The first build also failed on the table item
+shape and on the metadata shape; the renderer now accepts a table as either a two-tuple or a
+three-tuple. Two Next Review dates were written as 2027, outside the 1598 to 2026 archive cycle, and
+were moved to 2026.
+
+**Verification.** Per record: 14 H2 in house order, 8 H3, 1 H4, 8 numbered steps, tables equal to boxes
+at 10, 0 lines over 118, 1 H1, metadata dates 2014 and 2015 created with 2026 review. Repository:
+DOCUMENT_COUNT 945; `TECH_MD`/`TECH_TXT` 231/231; `.md` tables differing from `.txt` boxes 0; multiH1
+0; bad-EOF 0; odd-fence 0; md-with-box 0; widest box line 118; date violations 0; residual automation
+stamp 0; `git diff --check` clean.
+
+**Next action.** Build `GOI-HY-W-073` Lantern Accord, then 074 Ninefold Ark, 069 Namewright Bazaar,
+070 Saint Morrow Passage. Sets 061 to 067 remain excluded.

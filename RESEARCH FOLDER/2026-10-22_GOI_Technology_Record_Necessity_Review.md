@@ -65,15 +65,15 @@ engineering to specify.
 | `GOI-HY-W-073` Lantern Accord | Containment | MANDATORY | yes | no | none |
 | `GOI-HY-N-074` Ninefold Ark | Containment | MANDATORY | yes | no | none |
 | `GOI-HY-P-071` Mercy Lock Institute | Containment | MANDATORY | yes | no | built |
-| `GOI-CU-X-069` Namewright Bazaar | Practitioner | MANDATORY | no | yes | none |
+| `GOI-BS-X-069` Namewright Bazaar | Practitioner | MANDATORY | no | yes | none |
 | `GOI-BS-W-070` Saint Morrow Passage | Handler | MANDATORY | no | no | none |
-| `GOI-BS-X-068` Velvet Provenance House | Handler | required when | no | no | none |
+| `GOI-BS-N-068` Velvet Provenance House | Handler | required when | no | no | none |
 | `GOI-BS-P-067` Candle Under Exchange | Handler | under review | no | yes | none |
 | `GOI-CU-W-066` Archivists of the Final Dawn | Handler | under review | no | no | none |
-| `GOI-CU-P-065` Mercy of the Quiet Sun | Practitioner | under review | no | yes | none |
+| `GOI-CU-X-065` Mercy of the Quiet Sun | Practitioner | under review | no | yes | none |
 | `GOI-CU-P-064` Last Bell Congregation | Practitioner | under review | no | yes | none |
 | `GOI-CU-N-063` Keepers of the Ninth Reliquary | Practitioner | under review | no | yes | none |
-| `GOI-CU-P-062` Choir of the Unforgotten Name | Practitioner | under review | no | yes | none |
+| `GOI-CU-X-062` Choir of the Unforgotten Name | Practitioner | under review | no | yes | none |
 | `GOI-CU-P-061` The Kindly Molt | Practitioner | under review | no | yes | none |
 | `GOI-CP-P-056` Saint Vera Restoration Concern | Engineering | under review | no | no | built |
 | `GOI-CP-W-055` Cairn and Lintel | Engineering | under review | no | no | built |
@@ -158,7 +158,7 @@ that warrant a technology set, seven that warrant a different record type, and o
 2. `GOI-HY-W-073` Lantern Accord — Containment, MANDATORY, explicit demand, A.C.T holds one
    broken lantern beacon, three expired seals, and yellow-line material.
 3. `GOI-HY-N-074` Ninefold Ark — Containment, MANDATORY, explicit demand.
-4. `GOI-CU-X-069` Namewright Bazaar — MANDATORY, A.C.T holds partial ledgers, two alias knives,
+4. `GOI-BS-X-069` Namewright Bazaar — MANDATORY, A.C.T holds partial ledgers, two alias knives,
    and three counterfeit court stamps.
 5. `GOI-BS-W-070` Saint Morrow Passage — MANDATORY, A.C.T holds white tickets, one route bell,
    and two cold-map fragments.
@@ -167,7 +167,7 @@ that warrant a technology set, seven that warrant a different record type, and o
 medical, witness, transformation, and archive records instead. That is a separate record type in
 a separate folder, and it is the filing route each dossier names.
 
-**Borderline.** `GOI-BS-X-068` Velvet Provenance House has conditional dual filing and A.C.T holds
+**Borderline.** `GOI-BS-N-068` Velvet Provenance House has conditional dual filing and A.C.T holds
 only training notes. Decide after `070`.
 
 **Review, do not rebuild.** Sets `057` through `060` stay as written unless Command rules

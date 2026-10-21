@@ -1,0 +1,367 @@
+A.C.T FACILITY ARCHIVE FILE
+TECHNOLOGY RECORD - VELVET PROVENANCE HOUSE RECEIPT, SEAL, AND RETURN-CLAUSE INSTRUMENT SET
+
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-068-1                                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| TECHNOLOGY NAME            | Velvet Provenance House Receipt, Seal, and Return-Clause Instrument Set               |
++----------------------------+---------------------------------------------------------------------------------------+
+| SHORT NAME                 | VPRSC                                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | GOI-ACQUIRED / DOCUMENT INSTRUMENT / CUSTODY BEHAVIOUR                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| ORIGIN                     | GOI-BS-N-068 Velvet Provenance House                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Legal Division / Containment Division                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Archive, Intelligence, Recovery, Command                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| OPERATIONAL STATUS         | HELD FOR STUDY / NOT FIELD ISSUED                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| RISK STATUS                | HAZARDOUS / CUSTODY SELECTIVE / DO NOT HANG ABOVE SLEEPING CHILDREN                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for handling; Level 5 for clause interpretation                               |
++----------------------------+---------------------------------------------------------------------------------------+
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active GOI-Acquired Technology Record                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Legal / Containment / Archive / Intelligence / Command                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Legal Division and Containment Division, restricted holding                           |
++----------------------------+---------------------------------------------------------------------------------------+
+
+ARCHIVE NOTE
+
+A.C.T holds six minor Velvet certificates, two forged Velvet-style receipts, one authentic return clause, and one
+damaged buyer-book page. This record covers the first three groups. The buyer-book page is recorded separately at
+TECH-GOI-068-2 because its mark system behaves differently and is read by different desks.
+
+The dossier is explicit that the House does not make objects safe by writing better receipts, and that its real
+function is to make danger legible. This record is written to that finding. Nothing here treats a Velvet receipt as
+a protective device, because the dossier says the claim is unsupported.
+
+What makes the recovered fragment a technology record rather than a paperwork item is that it behaves. Handwriting
+analysis indicates two writers. Ink dating produced three dates for one signature. The fragment carries a handling
+instruction and states which parties the object accepts custody from and which it rejects. A document that selects its
+own custodian is a device, and it is handled here as one.
+
+Controlled label: VELVET RECEIPT / SEALED ORIGIN / RETURN CLAUSE.
+
+Core handling rule:
+
+A VELVET RECEIPT DESCRIBES A DANGER. IT DOES NOT REMOVE ONE.
+TREAT EVERY RECOVERED CLAUSE AS ACTIVE UNTIL LEGAL DIVISION RULES OTHERWISE.
+
+
+FUNCTION SUMMARY
+
+The instrument set answers one question before an object changes hands: where did it come from, and who still has
+a claim on it. The House writes the answer onto paper, seals it, and attaches a return clause. Buyers treat
+the sealed answer as confidence. The dossier records the internal rule the House repeats most often: a thing without
+origin belongs first to its harm.
+
+A.C.T holds no complete instrument and does not field any part of this set. The record exists so that a
+recovered receipt can be recognised, handled, and interpreted without a reader having to guess which part of it is
+load-bearing.
+
+- What it does: fixes an origin story in a form other hidden markets accept.
+- What it does not do: reduce the hazard of the object it describes.
+- What A.C.T uses it for: recognition, forgery comparison, and custody-risk reading.
+
+
+ORIGIN AND CUSTODY
+
+The fragment at the centre of this record was recovered from a solicitor file after the mirror incident. It is
+headed VPH / RED ROOM PROVENANCE, with the lot number and the client censored, and it carries the status line
+CONTESTED / HEIR-BOUND / BURDENED.
+
+Two of the six certificates entered custody through routine recovered-document intake. The two forged Velvet-style
+receipts were submitted to an A.C.T assessment as genuine and were identified during comparison. The authentic return
+clause was separated from its parent certificate during that comparison and is held apart from it.
+
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| HELD ITEM                  | COUNT                                     | CUSTODY CONDITION                         |
++============================+===========================================+===========================================+
+| Minor certificates         | 6                                         | Held flat, unsealed, no clause attached   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Forged receipts            | 2                                         | Held as comparison standards              |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Authentic return clause    | 1                                         | Held apart from its parent certificate    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Receipt fragment, Red Room | 1                                         | Held sealed; do not open at night         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Velvet inspection cloth    | 0                                         | Not held; carried as open question        |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Provenance ledger volume   | 0                                         | Not held; dossier states unrecovered      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+Legal Division must attach before any public filing or court-facing substitution involving these items. That condition
+comes from the dossier's own dual-filing rule and is treated here as a hard gate.
+
+
+PHYSICAL OR SYSTEM DESCRIPTION
+
+The instrument set is paper, wax, and language. The certificate is a single sheet carrying lot identity, a witness
+chain, and a status line. The seal is wax impressed with a code the dossier describes as responsive. The return
+clause is a short block of text naming the conditions under which the object may be given back and to
+whom.
+
+- Paper: heavyweight, sized for handling, no watermark identified by A.C.T.
+- Ink: two distinct hands present on the recovered fragment.
+- Seal: wax, code impression, described in the dossier as responsive.
+- Return clause: block text, always the closing element of the instrument.
+- Handling note: printed on the fragment, not handwritten.
+
+The fragment records known harms as sleep reconstruction, childhood-room duplication, and face misremembering. Those
+harms belong to the object the receipt describes, not to the paper. The paper carries the description of them, which
+is why the handling note exists.
+
+
+TECHNICAL SPECIFICATION
+
+Figures are taken from the recovered fragment and the six certificates. The House's own ledger system is unrecovered,
+so no comparison baseline exists.
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| PARAMETER                  | VALUE                                                                                 |
++============================+=======================================================================================+
+| Certificate sheet size     | approx. 210 x 297 mm, single sheet                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Witness chain entries      | 4 named, 2 redacted                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Distinct hands on fragment | 2                                                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Ink dates, one signature   | 3                                                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Seal code length           | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Return clause word count   | 31 words                                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Paper fibre composition    | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Certificates with a clause | 1 of 6                                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Forged receipts identified | 2 of 2 submitted                                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Objects made safe          | 0 confirmed                                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Three dates for one signature is the most consequential figure in this table. It means the fragment was either written
+across three occasions or its ink does not date linearly. Neither reading is settled, and both are filed under OPEN
+QUESTIONS.
+
+
+INTERFACE AND OPERATING ENVELOPE
+
+The instrument interfaces with people, not machines. A reader interfaces with it by reading the status line, checking
+the witness chain against what is known, and deciding whether the return clause applies. There is no operating
+envelope in an engineering sense; the envelope is legal.
+
+Certificate Reading Controls
+
+The controls below govern how the item is read. They are applied before any interpretation is recorded.
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERFACE POINT            | WHAT THE READER MUST DECIDE                                                           |
++============================+=======================================================================================+
+| Status line                | Is the object contested, heir-bound, or burdened?                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Witness chain              | Does the chain survive the transfer being proposed?                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Custody Acceptance Readouts
+
+The readouts below are what a reader takes away. Each one is a question the record answers.
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERFACE POINT            | WHAT THE READER MUST DECIDE                                                           |
++============================+=======================================================================================+
+| Seal code                  | Does the code match a known House pattern?                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Return clause              | Is a return possible, and to whom?                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Handling Limits And Weaknesses
+
+The limits below are the conditions under which reading stops. They are not advisories.
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERFACE POINT            | WHAT THE READER MUST DECIDE                                                           |
++============================+=======================================================================================+
+| Handling note              | Where may this be stored and where may it not?                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The fragment states custody acceptance directly. The object accepts custody from a named heir, an adopted heir, an
+appointed keeper, or the room of first promise. It rejects custody from a thief, an insurer, a museum without return
+language, and a purchaser acting through a false widow. A.C.T treats that list as a hazard statement about the object,
+not as a claim about the paper.
+
+
+OPERATING PROCEDURE
+
+Procedure for a recovered Velvet receipt, seal, or clause. Each step is performed in order and none is skipped.
+
+Numbered Operating Sequence
+
+1. Photograph the item in place before it is moved, front and reverse, at even light.
+2. Record where it was found and who held it last, in that order, before handling.
+3. Handle with dry gloves. Do not fold, do not clip, do not staple, do not annotate.
+4. Store flat in a neutral sleeve, sealed, away from sleeping quarters and child areas.
+
+5. Transcribe the status line and the return clause verbatim into the intake record.
+6. Compare the seal code and hand against the two forged standards already held.
+7. Route to Legal Division before any public filing or court-facing substitution.
+8. File the custody acceptance and rejection list against the object, not the paper.
+
+HANDLING NOTE, VERBATIM FROM THE RECOVERED FRAGMENT:
+DO NOT HANG ABOVE SLEEPING CHILDREN.
+A.C.T EXTENDS THIS TO: DO NOT STORE IN ANY SLEEPING OR CHILD AREA.
+
+Step 6 exists because A.C.T already holds two forgeries. A new receipt that matches them in hand or seal code
+is more likely forged than genuine, and that comparison costs nothing to perform at intake.
+
+
+SERVICING AND CALIBRATION
+
+There is no servicing cycle for paper. What this section carries instead is the condition review schedule and the
+comparison standard maintenance.
+
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| ACTIVITY                   | INTERVAL                                  | OWNER                                     |
++============================+===========================================+===========================================+
+| Condition check, certs     | Every 90 days                             | Archive                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Return clause re-read      | Every 180 days                            | Legal Division                            |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Forgery re-comparison      | On every new intake                       | Intelligence                              |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Seal code pattern review   | On every new intake                       | Intelligence                              |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Ink re-dating attempt      | NOT SCHEDULED                             | Legal Division                            |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Storage location audit     | Every 90 days                             | Containment                               |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+Ink re-dating is unscheduled deliberately. The first attempt returned three dates for one signature, and repeating it
+without a settled method would add a fourth number to a set that is already unexplained.
+
+
+FAULT ISOLATION
+
+Symptoms are read against the recovered fragment and the two forgeries. Each row names what a handler sees and what
+to do about it.
+
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Seal code unmatched        | Forgery or unrecorded House notary        | Compare to both standards; quarantine     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Two hands on one item      | Two writers, or later alteration          | Raking-light photo; route to Legal        |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Return clause absent       | Clause removed, or never attached         | Treat as burdened; no return assumed      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Status line says CONTESTED | Ownership unresolved at issue             | No transfer; Legal attach required        |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Stored near sleeping area  | Handling note not applied                 | Relocate immediately; log the breach      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Ink dates disagree         | Method unset or paper treated             | Do not re-date; file under OPEN QUESTIONS |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+The last row is the one most likely to be mishandled. A handler who resolves a disagreement by running the
+test again has not resolved anything and has added noise.
+
+
+KNOWN LIMITS
+
+- A.C.T holds no complete instrument, so no certificate-to-seal-to-clause sequence has been seen end to end.
+- The seal code system is not decoded. Length and pattern are unmeasured.
+- Whether the House can detect forged origin papers without instruments is unconfirmed.
+- The dossier states that a better receipt does not make an object safe. No test here assumes otherwise.
+- The velvet inspection cloth is not held, and the dossier leaves its status as a tool unresolved.
+- The provenance ledger system is unrecovered, so no baseline exists for any story the House has written.
+
+
+FAILURE HISTORY
+
+Two failures are recorded, both of them intake failures rather than instrument failures.
+
+INTAKE MISS — CONFIRMED
+
+Two forged Velvet-style receipts entered an A.C.T assessment as genuine and were not caught at intake. Both were
+identified only during later comparison, and the comparison step now written into the operating procedure exists
+because of that miss.
+
+UNLOGGED SEPARATION — CONFIRMED
+
+The authentic return clause was separated from its parent certificate during that comparison and the separation was
+not logged at the time. The clause is now held apart deliberately, but the original pairing is unrecoverable from
+A.C.T records.
+
+OPERATED FAILURE — NONE RECORDED
+
+No failure of the instrument itself is recorded, because no instrument has ever been operated. Everything A.C.T knows
+about behaviour comes from the recovered fragment and from testimony about the objects it describes.
+
+
+DIVISION USE
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| DIVISION                   | USE                                                                                   |
++============================+=======================================================================================+
+| Legal Division             | Attaches before any public filing or court-facing substitution                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Containment                | Applies the custody acceptance and rejection list to the object                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Archive                    | Holds the certificates flat and unsealed; runs condition checks                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Intelligence               | Maintains the two forgery standards; reads seal codes                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Recovery                   | Applies the intake procedure at the point of recovery                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Command                    | Authorises any release or substitution                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Legal Division is named first because the dossier makes its attachment a precondition rather than a courtesy. A
+recovery that reaches a court without Legal attached has already failed the record's own rule.
+
+
+CROSS-REFERENCES
+
+- GOI-BS-N-068 — Velvet Provenance House, Group of Interest Registry.
+- TECH-GOI-068-2 — Velvet Buyer-Book Page and Barred-Client Mark System, Technology Record.
+- TECH-GOI-027-1 — Anstrall Market Broker Claim Control System, Technology Record, for buyer-mark behaviour.
+- GOI-BS-P-067 — Candle-Under Exchange, Group of Interest Registry, for dealing-mode comparison.
+
+
+OPEN QUESTIONS
+
+- Which of the three ink dates is correct: three writing occasions, or a treatment applied to the paper?
+- Who is the second writer on the fragment, and did that person work for the House?
+- Is the Red Room a physical central archive or a status category? The dossier leaves it unresolved.
+- Are velvet inspection cloths tools, ritual materials, or ordinary convention? A.C.T holds none to test.
+- Do return clauses reduce anomalous harm, or do they only describe conditions the House discovered by other means?
+- Has the House certified any object currently inside A.C.T custody?
+- Who pays the House when an object is declared unsaleable?
+- What does the House do with objects whose rightful owners no longer exist?
+
+
+FILE METADATA
+
+Created: 2014-08-11
+Author Desk: Legal Division / Containment Division / Central Archive
+Review Status: Reviewed by Legal Division; clause interpretation restricted
+Next Review: 2026-02-19
