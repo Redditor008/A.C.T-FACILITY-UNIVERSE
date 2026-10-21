@@ -89,9 +89,8 @@ observations must be held closest because the knowledge itself has operational w
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and sealing doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and sealing doctrine. 3 figures below are blank: Holding
+capacity, Review turnaround, Escorted session length. Each is filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | VAULT PARAMETER            | VALUE                                                                                 |

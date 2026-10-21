@@ -103,9 +103,8 @@ been allowed to fade.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and application text. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and application text. Canister volume, Stated half-life
+figure, Dry time and coverage per canister are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRODUCT PARAMETER          | VALUE                                                                                 |

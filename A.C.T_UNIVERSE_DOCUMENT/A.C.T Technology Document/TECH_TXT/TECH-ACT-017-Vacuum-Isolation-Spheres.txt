@@ -97,9 +97,8 @@ maker marks, or undocumented seals not present in current models.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and legacy history. Values the
-archive does not
-hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and legacy history. 3 figures below are blank: Vacuum
+level achieved, Shell thickness, Pump-down time. Each is filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | SPHERE PARAMETER           | VALUE                                                                                 |

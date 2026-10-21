@@ -103,9 +103,9 @@ burned, or convinced to move.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and application doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and application doctrine. 3 values below are not held by
+the archive: Active compound ratio, Approved open-tub time, Shelf life refrigerated. They are filed under OPEN
+QUESTIONS.
 
 | GEL PARAMETER | VALUE |
 |---|---|

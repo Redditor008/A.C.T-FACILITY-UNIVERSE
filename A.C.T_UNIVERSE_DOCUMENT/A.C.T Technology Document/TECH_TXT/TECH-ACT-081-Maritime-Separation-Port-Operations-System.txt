@@ -88,9 +88,8 @@ integration with F-6 and F-5 systems.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and separation doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and separation doctrine. The archive holds no figure for
+Berth capacity, Offload rate, Sightline coverage. Those 3 gaps are carried in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | PORT PARAMETER             | VALUE                                                                                 |

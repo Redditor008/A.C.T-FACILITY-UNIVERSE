@@ -102,9 +102,8 @@ people in A.C.T.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's reader description and denial history. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's reader description and denial history. Scan duration, Accepted pulse
+band width, Receipt retention period, and 2 more are not measured here. Those 5 gaps sit in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | READER PARAMETER           | VALUE                                                                                 |

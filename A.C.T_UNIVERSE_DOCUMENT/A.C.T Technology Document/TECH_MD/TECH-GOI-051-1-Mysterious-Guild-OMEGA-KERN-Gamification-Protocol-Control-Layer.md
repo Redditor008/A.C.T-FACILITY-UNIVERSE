@@ -135,9 +135,9 @@ Every other row in this record inherits that uncertainty.
 
 ## TECHNICAL SPECIFICATION
 
-Values are restated from the GOI-HY-U-051 dossier and the AFD-SU-020 files. Nothing here is
-measured on live equipment, because no live equipment is held. Values the archive does
-not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Values are restated from the GOI-HY-U-051 dossier and the AFD-SU-020 files. Nothing here is measured on live
+equipment, because no live equipment is held. The archive holds no figure for Version state after Purge, Confirmed
+exposure events. Those 2 gaps are carried in OPEN QUESTIONS.
 
 | PROTOCOL PARAMETER | VALUE |
 |---|---|

@@ -86,9 +86,8 @@ STHVS therefore makes time, transfer destination, and parent authority part of e
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and holding doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and holding doctrine. 3 figures below are blank: Unit
+count, Median hold time, Overstay events. Each is filed under OPEN QUESTIONS.
 
 | VAULT PARAMETER | VALUE |
 |---|---|

@@ -109,9 +109,8 @@ could build false routes that feel official to the instrument.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and survey doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and survey doctrine. The archive holds no figure for
+Battery runtime, Density scale definition, Thread-lock range, and 1 more. Those 4 gaps are carried in OPEN QUESTIONS.
 
 | COMPASS PARAMETER | VALUE |
 |---|---|

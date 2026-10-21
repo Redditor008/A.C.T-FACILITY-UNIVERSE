@@ -127,8 +127,8 @@ no reason to compare their experience with anyone else's.
 
 TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-CP-B-049 dossier and from batch recovery review. Values the
-archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-CP-B-049 dossier and from batch recovery review. 2 figures below are blank: Batches
+recovered, Wish categories per batch. Each is filed under OPEN QUESTIONS.
 
 
 +----------------------------+---------------------------------------------------------------------------------------+

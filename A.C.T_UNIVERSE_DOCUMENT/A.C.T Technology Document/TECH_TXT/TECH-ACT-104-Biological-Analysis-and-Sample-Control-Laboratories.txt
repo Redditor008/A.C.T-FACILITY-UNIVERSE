@@ -92,9 +92,8 @@ the context that made the sample meaningful.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and custody doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and custody doctrine. 3 figures below are blank: Bench
+count, Median analysis time, Chain breaks. Each is filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | LABORATORY PARAMETER       | VALUE                                                                                 |

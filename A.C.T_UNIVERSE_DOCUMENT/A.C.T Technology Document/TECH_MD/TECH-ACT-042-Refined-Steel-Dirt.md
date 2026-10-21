@@ -106,9 +106,8 @@ Current RSD batches are still restricted and not approved for casual constructio
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and deployment doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and deployment doctrine. The archive holds no figure for
+Hardening time refined, Hopper pressure range, Bloom density. Those 3 gaps are carried in OPEN QUESTIONS.
 
 | SEALANT PARAMETER | VALUE |
 |---|---|

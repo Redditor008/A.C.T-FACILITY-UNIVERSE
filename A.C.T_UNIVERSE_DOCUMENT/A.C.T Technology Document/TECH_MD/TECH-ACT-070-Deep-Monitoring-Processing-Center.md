@@ -88,9 +88,8 @@ should stop being ordinary seismic data and become a partially sealed file.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and routing doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and routing doctrine. Watch staffing, Routing decision
+time, Baseline coverage are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 | CENTER PARAMETER | VALUE |
 |---|---|

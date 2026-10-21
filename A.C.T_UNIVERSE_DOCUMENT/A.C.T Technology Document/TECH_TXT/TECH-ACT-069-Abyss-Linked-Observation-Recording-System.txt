@@ -94,9 +94,8 @@ responsible for knowing it.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and custody doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and custody doctrine. The archive holds no figure for
+Retention period, Capsule capacity. Those 2 gaps are carried in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | SYSTEM PARAMETER           | VALUE                                                                                 |

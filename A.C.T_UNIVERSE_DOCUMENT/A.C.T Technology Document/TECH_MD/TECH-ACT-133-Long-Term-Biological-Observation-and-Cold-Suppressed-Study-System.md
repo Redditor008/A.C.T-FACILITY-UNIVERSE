@@ -88,9 +88,8 @@ itself is an instrument when the subject changes slowly enough.
 
 ## TECHNICAL SPECIFICATION
 
-Figures are restated from this record's study component list and White Grave F-4 research
-doctrine. Values
-the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from this record's study component list and White Grave F-4 research doctrine. The archive holds
+no figure for Chamber count, Longest study, Condition-lock drifts. Those 3 gaps are carried in OPEN QUESTIONS.
 
 | STUDY PARAMETER | VALUE |
 |---|---|

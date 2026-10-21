@@ -89,9 +89,8 @@ preventing that world from expanding into the rest of the reserve.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and habitat doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and habitat doctrine. 3 values below are not held by the
+archive: Chamber count, Match success, Transfer instability events. They are filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | CHAMBER PARAMETER          | VALUE                                                                                 |

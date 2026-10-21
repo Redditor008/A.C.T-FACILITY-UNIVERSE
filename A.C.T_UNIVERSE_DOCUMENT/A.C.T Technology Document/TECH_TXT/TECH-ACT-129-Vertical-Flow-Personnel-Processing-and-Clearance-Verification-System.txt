@@ -94,9 +94,8 @@ as an unaccounted consequence.
 
 TECHNICAL SPECIFICATION
 
-Figures are restated from this record's gateway component list and F-8 personnel doctrine. Values
-the
-archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from this record's gateway component list and F-8 personnel doctrine. 3 values below are not held
+by the archive: Shift volume, Median processing time, Clearance refusals. They are filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | GATEWAY PARAMETER          | VALUE                                                                                 |

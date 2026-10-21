@@ -88,9 +88,8 @@ standard-object doctrine.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and holding doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and holding doctrine. Room count, Recipe accuracy,
+Climate drift events are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 | HOLDING PARAMETER | VALUE |
 |---|---|

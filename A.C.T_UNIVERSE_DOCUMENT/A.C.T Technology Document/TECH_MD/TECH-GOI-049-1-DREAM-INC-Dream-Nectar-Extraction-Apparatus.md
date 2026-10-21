@@ -116,8 +116,8 @@ or through a combined system.
 
 ## TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-CP-B-049 dossier and from restricted source intelligence. Values the
-archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-CP-B-049 dossier and from restricted source intelligence. 2 values below are not
+held by the archive: Location, Machine instances. They are filed under OPEN QUESTIONS.
 
 | APPARATUS PARAMETER | VALUE |
 |---|---|

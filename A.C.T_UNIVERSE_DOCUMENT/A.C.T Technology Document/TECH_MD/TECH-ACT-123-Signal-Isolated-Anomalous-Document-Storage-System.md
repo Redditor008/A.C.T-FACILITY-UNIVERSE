@@ -87,9 +87,8 @@ them as ordinary records.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and holding doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and holding doctrine. 3 values below are not held by the
+archive: Unit count, Median holding time, Signal escapes. They are filed under OPEN QUESTIONS.
 
 | STORAGE PARAMETER | VALUE |
 |---|---|

@@ -98,9 +98,8 @@ system, not just as a shelf.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and continuity doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and continuity doctrine. Hardening coverage, Checksum
+comparison rate, Record depth preserved are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | STRUCTURE PARAMETER        | VALUE                                                                                 |

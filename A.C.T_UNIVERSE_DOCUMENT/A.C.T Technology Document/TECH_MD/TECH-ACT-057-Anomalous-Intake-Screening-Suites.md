@@ -94,9 +94,8 @@ a breach waiting for a label.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and triage doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and triage doctrine. The archive holds no figure for
+First-pass threshold, Screening throughput, Exposure panel rating. Those 3 gaps are carried in OPEN QUESTIONS.
 
 | SUITE PARAMETER | VALUE |
 |---|---|

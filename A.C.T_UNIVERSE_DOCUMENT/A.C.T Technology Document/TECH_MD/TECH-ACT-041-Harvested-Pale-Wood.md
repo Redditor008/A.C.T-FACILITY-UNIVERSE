@@ -105,9 +105,8 @@ use.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's material description and custody doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's material description and custody doctrine. 3 figures below are blank:
+Plank dimensions, Harvest yield per expedition, Gold loss per cut. Each is filed under OPEN QUESTIONS.
 
 | TIMBER PARAMETER | VALUE |
 |---|---|

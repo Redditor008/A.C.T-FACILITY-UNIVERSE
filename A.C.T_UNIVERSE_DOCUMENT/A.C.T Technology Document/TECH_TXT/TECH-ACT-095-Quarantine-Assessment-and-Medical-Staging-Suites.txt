@@ -91,9 +91,8 @@ those meanings before the wrong destination is chosen.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and assessment doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and assessment doctrine. 3 values below are not held by
+the archive: Chamber count, Median assessment time, False release events. They are filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | ASSESSMENT PARAMETER       | VALUE                                                                                 |

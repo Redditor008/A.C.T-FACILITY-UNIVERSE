@@ -169,9 +169,8 @@ fallback concepts. No confirmed non-A.C.T actor has reproduced a full RSA unit.
 TECHNICAL SPECIFICATION
 -----------------------
 
-Figures below are restated from the Visual Reference Guide entry and this record's component
-list. Values the archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from the Visual Reference Guide entry and this record's component list. 4 figures below are
+blank: Unit mass, Power draw, Field radius per unit, and 1 more. Each is filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | PARAMETER                  | VALUE                                                                                 |

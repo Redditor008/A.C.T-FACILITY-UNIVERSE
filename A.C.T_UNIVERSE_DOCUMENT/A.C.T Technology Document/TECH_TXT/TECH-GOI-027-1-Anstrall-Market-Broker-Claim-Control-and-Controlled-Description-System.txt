@@ -129,8 +129,8 @@ the Market treat brokers as expendable and route knowledge as durable.
 
 TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-BS-T-027 dossier and from intercepted broker contact. Values the
-archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-BS-T-027 dossier and from intercepted broker contact. Market-wide standard, Claims
+recovered, Broker identities are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 
 +----------------------------+---------------------------------------------------------------------------------------+

@@ -91,9 +91,8 @@ subordinate to custody.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and study doctrine. Values the
-archive does not
-hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and study doctrine. The archive holds no figure for Loop
+volume, Chemistry band held, Sample throughput. Those 3 gaps are carried in OPEN QUESTIONS.
 
 | SUITE PARAMETER | VALUE |
 |---|---|

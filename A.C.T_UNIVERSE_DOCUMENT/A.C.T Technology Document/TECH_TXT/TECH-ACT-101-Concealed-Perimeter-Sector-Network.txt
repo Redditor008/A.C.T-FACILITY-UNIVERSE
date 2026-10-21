@@ -87,9 +87,8 @@ knowledge.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and perimeter doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and perimeter doctrine. The archive holds no figure for
+Sector count, Marker relocation rate, Incursion events. Those 3 gaps are carried in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | PERIMETER PARAMETER        | VALUE                                                                                 |

@@ -96,9 +96,8 @@ the exact moment it should flex.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and array doctrine. Values the
-archive does not
-hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and array doctrine. Cooling output, Effective radius per
+unit, Nitrogen capacity and boil-off are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | UNIT PARAMETER             | VALUE                                                                                 |

@@ -100,8 +100,8 @@ publication in waiting, and it is reviewed as one.
 
 ## TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-ML-X-014 dossier and from Kurokawa contamination review records. Values
-the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-ML-X-014 dossier and from Kurokawa contamination review records. 3 figures below are
+blank: Packages recovered, Chains mapped, Endpoints identified. Each is filed under OPEN QUESTIONS.
 
 | LEAK-SET PARAMETER | VALUE |
 |---|---|

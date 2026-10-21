@@ -86,9 +86,8 @@ present and unknown at the same time.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and vault doctrine. Values the
-archive does not
-hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and vault doctrine. The archive holds no figure for Vault
+count, Retrieval frequency, Preservation failures. Those 3 gaps are carried in OPEN QUESTIONS.
 
 | VAULT PARAMETER | VALUE |
 |---|---|

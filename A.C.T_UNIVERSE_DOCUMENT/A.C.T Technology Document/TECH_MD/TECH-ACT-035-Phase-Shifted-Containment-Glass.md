@@ -102,9 +102,8 @@ monitored procedure.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and observation doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and observation doctrine. Phase offset range, Fidelity
+reduction scale, Panel calibration record are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 | PANEL PARAMETER | VALUE |
 |---|---|

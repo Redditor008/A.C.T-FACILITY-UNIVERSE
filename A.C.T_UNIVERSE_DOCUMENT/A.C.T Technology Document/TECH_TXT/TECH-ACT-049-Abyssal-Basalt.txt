@@ -100,9 +100,8 @@ at its surface.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's custody description and handling doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's custody description and handling doctrine. 2 figures below are blank:
+Density, Compression tolerance. Each is filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | STONE PARAMETER            | VALUE                                                                                 |

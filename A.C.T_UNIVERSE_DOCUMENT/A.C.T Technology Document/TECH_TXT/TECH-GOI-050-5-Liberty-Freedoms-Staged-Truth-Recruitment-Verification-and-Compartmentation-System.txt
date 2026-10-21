@@ -119,8 +119,8 @@ they can describe and knows nothing about the stage they were kept away from.
 
 TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-ML-X-050 dossier and from returnee interviews. Values the archive
-does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-ML-X-050 dossier and from returnee interviews. 3 figures below are blank: Recruiters
+identified, Vulnerability profiles, Approaches to staff. Each is filed under OPEN QUESTIONS.
 
 
 +----------------------------+---------------------------------------------------------------------------------------+

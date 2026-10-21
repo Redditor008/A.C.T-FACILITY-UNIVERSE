@@ -92,9 +92,8 @@ already participating in reality before staff disturb it.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and intake doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and intake doctrine. The archive holds no figure for
+Pulse resolution, Baseline noise floor, Scan duration range. Those 3 gaps are carried in OPEN QUESTIONS.
 
 | SUITE PARAMETER | VALUE |
 |---|---|

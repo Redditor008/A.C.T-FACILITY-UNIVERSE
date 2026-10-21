@@ -103,9 +103,9 @@ what it still allows.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's clinical description and implant doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's clinical description and implant doctrine. 4 values below are not held
+by the archive: Signal-sink capacity, Approved exposure cap, Lattice lifespan, and 1 more. They are filed under OPEN
+QUESTIONS.
 
 | IMPLANT PARAMETER | VALUE |
 |---|---|

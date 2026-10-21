@@ -94,9 +94,8 @@ hardware.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and decision doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and decision doctrine. The archive holds no figure for
+Feed count, Mean decision latency, Handoff errors. Those 3 gaps are carried in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | COMMAND PARAMETER          | VALUE                                                                                 |

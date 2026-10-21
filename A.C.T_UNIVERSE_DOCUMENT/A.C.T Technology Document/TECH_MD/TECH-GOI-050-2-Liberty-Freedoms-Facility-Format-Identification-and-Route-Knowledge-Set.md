@@ -110,8 +110,8 @@ is why format rotation has to change the reasoning and not only the paperwork.
 
 ## TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-ML-X-050 dossier and from interception analysis. Values the archive
-does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-ML-X-050 dossier and from interception analysis. The archive holds no figure for
+Defectors identified, Knowledge currency, Formats rotated. Those 3 gaps are carried in OPEN QUESTIONS.
 
 | KNOWLEDGE PARAMETER | VALUE |
 |---|---|

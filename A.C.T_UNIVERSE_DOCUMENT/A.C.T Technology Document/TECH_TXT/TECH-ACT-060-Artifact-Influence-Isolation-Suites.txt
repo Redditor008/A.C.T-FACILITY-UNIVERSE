@@ -94,9 +94,8 @@ system fails if they are not cared for.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and clinical doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and clinical doctrine. 3 figures below are blank:
+Isolation duration, Ward capacity, Atmospheric exchange rate. Each is filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | SUITE PARAMETER            | VALUE                                                                                 |

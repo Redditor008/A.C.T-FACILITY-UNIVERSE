@@ -90,9 +90,8 @@ officer, or administrator into someone who can descend with the correct reflexes
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and training doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and training doctrine. 3 figures below are blank: Course
+count, Median course length, Certification failures. Each is filed under OPEN QUESTIONS.
 
 | TRAINING PARAMETER | VALUE |
 |---|---|

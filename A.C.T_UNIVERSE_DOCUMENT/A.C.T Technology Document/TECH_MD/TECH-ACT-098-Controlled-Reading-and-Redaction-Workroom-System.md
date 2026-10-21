@@ -84,9 +84,8 @@ enough to stop reading.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and review doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and review doctrine. Cell count, Median exposure time,
+Bad redaction events are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 | WORKROOM PARAMETER | VALUE |
 |---|---|

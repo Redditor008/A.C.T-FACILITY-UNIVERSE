@@ -91,9 +91,8 @@ deeper A.C.T review standards is not allowed to circulate as ordinary seismic da
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and analysis doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and analysis doctrine. 3 figures below are blank:
+Baseline set size, Latency to output, Buffer depth. Each is filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | ARCHITECTURE PARAMETER     | VALUE                                                                                 |

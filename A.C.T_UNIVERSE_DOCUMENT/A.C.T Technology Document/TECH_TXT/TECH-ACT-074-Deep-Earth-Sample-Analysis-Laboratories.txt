@@ -86,9 +86,8 @@ become uncontrolled engineering or alarm response.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and analysis doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and analysis doctrine. Sample mass limit, Thermal range,
+Resonance resolution are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | LABORATORY PARAMETER       | VALUE                                                                                 |

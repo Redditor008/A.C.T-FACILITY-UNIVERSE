@@ -115,8 +115,9 @@ channel often enough to be reconstructed.
 
 TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-GV-P-001 dossier and from Intelligence liaison review records. Values
-the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-GV-P-001 dossier and from Intelligence liaison review records. 4 values below are
+not held by the archive: Compartments mapped, Channels in service, Integrity failures, and 1 more. They are filed
+under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | AWARENESS PARAMETER        | VALUE                                                                                 |

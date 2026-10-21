@@ -84,9 +84,8 @@ survive being seen.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and cover doctrine. Values the
-archive does not
-hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and cover doctrine. 3 figures below are blank: Glasshouse
+count, Restricted area share, External contacts. Each is filed under OPEN QUESTIONS.
 
 | CAMPUS PARAMETER | VALUE |
 |---|---|

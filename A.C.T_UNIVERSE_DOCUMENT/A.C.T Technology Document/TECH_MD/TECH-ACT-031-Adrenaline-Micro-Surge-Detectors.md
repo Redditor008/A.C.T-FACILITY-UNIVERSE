@@ -100,9 +100,8 @@ entities, reproductive compulsion subjects, and anomalies that use panic as a ta
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and suite doctrine. Values the
-archive does not
-hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and suite doctrine. Threshold values, Canister dose and
+refills, Vibration latency are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 | BAND PARAMETER | VALUE |
 |---|---|

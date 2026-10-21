@@ -87,9 +87,8 @@ it means.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and monitoring doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and monitoring doctrine. 3 values below are not held by
+the archive: Node count, Depth reached, Detection threshold. They are filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | ARRAY PARAMETER            | VALUE                                                                                 |

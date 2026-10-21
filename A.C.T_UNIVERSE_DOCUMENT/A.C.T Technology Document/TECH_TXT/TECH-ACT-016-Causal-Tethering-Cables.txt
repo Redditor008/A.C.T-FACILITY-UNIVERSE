@@ -108,9 +108,9 @@ contraband through site boundaries or pull A.C.T equipment out of alignment.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and field handling text. Values
-the archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and field handling text. 4 values below are not held by
+the archive: Rated physical load, Ontological drag scale, Maximum deployed length, and 1 more. They are filed under
+OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | CABLE PARAMETER            | VALUE                                                                                 |

@@ -123,8 +123,8 @@ authors who have never met.
 
 TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-CU-X-048 dossier and from the inland mouth review. Values
-the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-CU-X-048 dossier and from the inland mouth review. 2 values below are not held by
+the archive: Maps recovered, Confirmed mouth sites. They are filed under OPEN QUESTIONS.
 
 
 +----------------------------+---------------------------------------------------------------------------------------+

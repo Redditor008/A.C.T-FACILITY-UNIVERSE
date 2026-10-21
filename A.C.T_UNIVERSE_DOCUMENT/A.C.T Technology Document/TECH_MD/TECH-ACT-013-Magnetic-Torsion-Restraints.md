@@ -99,9 +99,8 @@ how the lock thinks.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and doctrine text. Values the
-archive does not
-hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and doctrine text. 3 figures below are blank: Certified
+hold rating, Helium capacity and boil-off, Ring diameter and arc. Each is filed under OPEN QUESTIONS.
 
 | RIG PARAMETER | VALUE |
 |---|---|

@@ -113,8 +113,8 @@ to find out is not an assessment method this record authorises.
 
 ## TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-CU-X-048 dossier and from custody-site recoveries. Values the archive
-does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-CU-X-048 dossier and from custody-site recoveries. 3 figures below are blank: Effect
+on target, Items recovered, Container contents. Each is filed under OPEN QUESTIONS.
 
 | PRESSURE-SET PARAMETER | VALUE |
 |---|---|

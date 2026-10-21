@@ -87,9 +87,8 @@ priorities.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's instrument list and separation doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's instrument list and separation doctrine. 3 values below are not held by
+the archive: Feed delay, Instrument count, Bleed incidents. They are filed under OPEN QUESTIONS.
 
 | NETWORK PARAMETER | VALUE |
 |---|---|

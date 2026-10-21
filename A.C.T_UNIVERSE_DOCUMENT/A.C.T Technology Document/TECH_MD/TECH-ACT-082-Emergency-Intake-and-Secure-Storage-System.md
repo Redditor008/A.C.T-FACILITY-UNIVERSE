@@ -88,9 +88,8 @@ the watchpoint's doctrine that emergency intake is temporary by design.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and readiness doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and readiness doctrine. Storage capacity, Transfer clock
+limit, Environmental band are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 | INTAKE PARAMETER | VALUE |
 |---|---|

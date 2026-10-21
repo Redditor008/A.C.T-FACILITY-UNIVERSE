@@ -102,9 +102,8 @@ dependent entities.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and feeding procedure. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and feeding procedure. The archive holds no figure for
+Mixture bands, Viscosity range, Shelf life and storage band. Those 3 gaps are carried in OPEN QUESTIONS.
 
 | FUEL PARAMETER | VALUE |
 |---|---|

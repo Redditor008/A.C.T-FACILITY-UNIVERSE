@@ -86,9 +86,8 @@ a visible campus rhythm.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and traffic doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and traffic doctrine. The archive holds no figure for Bay
+throughput, Weekly operational moves, Transition breaches. Those 3 gaps are carried in OPEN QUESTIONS.
 
 | LOGISTICS PARAMETER | VALUE |
 |---|---|

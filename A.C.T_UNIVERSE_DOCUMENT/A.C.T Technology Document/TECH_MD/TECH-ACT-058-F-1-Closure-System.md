@@ -91,9 +91,8 @@ one action: separate the terminal floor from everything above it.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and closure doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and closure doctrine. Closure time, Emergency plant
+endurance, Personnel capacity held are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 | CLOSURE PARAMETER | VALUE |
 |---|---|

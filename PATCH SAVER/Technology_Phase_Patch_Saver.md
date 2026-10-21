@@ -5689,3 +5689,56 @@ Dossiers still warranting a technology set: 073, 074, 069, 070, plus 068 to be d
 **Next action.** Build `GOI-HY-W-073` Lantern Accord, then `GOI-HY-N-074` Ninefold Ark, then `GOI-CU-X-069`
 Namewright Bazaar and `GOI-BS-W-070` Saint Morrow Passage. Do not build sets for 061 to 067; those
 dossiers route their assets to anomaly, medical, witness, and archive records instead.
+
+## Prompt Log — 2026-10-21 19:34 UTC
+
+### Batch 41 - corpus bloat review and removal of the shared automation stamp
+
+Branch resolved at runtime with `git rev-parse --abbrev-ref HEAD`; no branch name is hardcoded.
+
+**Why.** Automation ran at high volume across the technology records and the user asked for a cleanup of
+unnecessary or bloated documents, plus research across the whole corpus and against the SCP Wiki as an
+outside reference. Nothing was copied from the SCP Wiki; its guides are CC BY-SA 3.0, so the correct
+response is to read them and write differently.
+
+**The defect found.** One sentence — values the archive does not hold are marked NOT MEASURED and each is
+filed under OPEN QUESTIONS — was stamped into 154 `.md` records and their 154 `.txt` twins, spanning sets
+001 through 136. It described the builder, not any record.
+
+**The fix.** Each of the 154 records now carries a sentence built from its own content: the parameters
+that are actually blank in that record's tables, named explicitly, or that record's own first open
+question where nothing is blank. Ten sentence shapes rotate by record index so the fix does not become a
+new stamp. The replacement is wrapped to the same 20-word / 118-character rule and the identical wrapped
+paragraph is written to both twins. 308 files changed, 872 lines removed, 640 inserted.
+
+**Tooling.** The first two attempts at the fix wrote nothing: the stamp paragraph spans two or three
+wrapped lines, so a single-line regex matched only 6 of 154 files. Rewritten to scan paragraph blocks
+between blank lines, it matched all 154.
+
+**Verification.** Residual stamp occurrences 0. Records where the twin check changed because of the edit
+0 of 229. Box rules not exactly 118: 0. Widest box line 118. Lines over 118 in `.txt`: 6, all in
+`TECH_TXT/README.txt`, none in a changed file. DOCUMENT_COUNT 968 unchanged. `TECH_MD`/`TECH_TXT`
+229/229. multiH1, odd-fence, bad-EOF, md-with-box all 0. `git diff --check` clean. Most-repeated sentence
+in the corpus after the pass appears in 20 files; before the pass, 308.
+
+**Found and not fixed, with reasons.** `O5` appears 586 times in 139 files across 18 distinct forms
+(`O5 Council` 54, `O5-RESTRICTED` 58) and is the setting's governing body — a canon decision, not a
+formatting fix. `amnestics` 638 and `memetic` 707 are shared genre vocabulary. 18 crossover files of
+roughly 78,000 words under `Anomaly Legacy 01 .txt/STORY/` use third-party game characters; all were added
+at `a17dfd0` before this work began, so they were flagged rather than deleted. Three near-duplicate
+overview pairs sit in `A.C.T .md Document` / `A.C.T .txt Document`, the closest at 0.959 similarity.
+`PATCH SAVER` is 45,997 words in one file and `TECH_MD/README.md` is 10,021 words; both should be split.
+
+**New defect surfaced while measuring.** 138 of the 229 `.txt` technology twins contain no `ARCHIVE STATUS`
+and no `DISTRIBUTION` line: their `.md` twins carry five tables and the `.txt` carries four boxes. This is
+pre-existing — verified by running the same comparison against `HEAD` for all 229 records, every one of
+which returned an identical result before and after this edit. It went unnoticed because the standing gate
+compares file counts, equal at 229/229, not table counts.
+
+**Rule adopted.** A record earns its sections by what the archive actually holds about the object. Where
+it holds nothing the record says so in one line and the section stays short. No sentence is written into a
+record unless it names something in that record.
+
+**Next action.** Decide the `O5` canon question, then render the missing archive-status boxes into the 138
+`.txt` twins, then split the Patch Saver and the technology README. Set 073 Lantern Accord remains the
+next technology set to build.

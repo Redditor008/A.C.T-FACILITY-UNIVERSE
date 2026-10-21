@@ -98,9 +98,8 @@ than myth.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and screening doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and screening doctrine. 2 values below are not held by
+the archive: Scan duration, Site static calibration. They are filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | GATE PARAMETER             | VALUE                                                                                 |

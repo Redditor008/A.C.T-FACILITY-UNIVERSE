@@ -116,8 +116,9 @@ and repositories are a standing intelligence priority rather than a secondary on
 
 TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-ML-X-014 dossier and from interdiction and tracing records. Values
-the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-ML-X-014 dossier and from interdiction and tracing records. The archive holds no
+figure for Workshops dismantled, Contacts traced, Shared routes mapped, and 1 more. Those 4 gaps are carried in OPEN
+QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | WORKSHOP PARAMETER         | VALUE                                                                                 |

@@ -87,9 +87,8 @@ that prevent the tracker from becoming a new distribution point.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and tracking doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and tracking doctrine. 3 values below are not held by the
+archive: Terminal count, Median ruling time, Replication escapes. They are filed under OPEN QUESTIONS.
 
 | TRACKING PARAMETER | VALUE |
 |---|---|

@@ -99,9 +99,8 @@ meant to play.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and field doctrine. Values the
-archive does not
-hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and field doctrine. The archive holds no figure for Drift
+trigger thresholds, Battery endurance. Those 2 gaps are carried in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | EARPIECE PARAMETER         | VALUE                                                                                 |

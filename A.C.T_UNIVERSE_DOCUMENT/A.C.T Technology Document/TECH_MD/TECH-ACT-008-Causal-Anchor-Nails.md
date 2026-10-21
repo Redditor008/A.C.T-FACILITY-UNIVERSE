@@ -110,9 +110,8 @@ contaminated, partially loaded with site stress, or evidence in an incident file
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and field handling text. Values
-the archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and field handling text. 5 values below are not held by
+the archive: Hold duration window, Unit mass, Certified hold load, and 2 more. They are filed under OPEN QUESTIONS.
 
 | COMPONENT PARAMETER | VALUE |
 |---|---|

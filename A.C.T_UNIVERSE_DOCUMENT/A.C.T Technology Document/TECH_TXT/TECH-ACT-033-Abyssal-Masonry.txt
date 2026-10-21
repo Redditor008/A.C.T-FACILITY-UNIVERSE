@@ -97,9 +97,8 @@ a hungry will.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's material description and installation doctrine. Values the
-archive does not hold are marked NOT MEASURED and each is filed under OPEN
-QUESTIONS.
+Figures below are restated from this record's material description and installation doctrine. 2 figures below are
+blank: Block dimensions, Compression rating. Each is filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | BLOCK PARAMETER            | VALUE                                                                                 |

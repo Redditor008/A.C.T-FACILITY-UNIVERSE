@@ -87,9 +87,8 @@ need to invent questions about what lies below it.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and cover doctrine. Values the
-archive does not
-hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and cover doctrine. 3 values below are not held by the
+archive: Publication rate, Visitor throughput, Cover audit interval. They are filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | CAMPUS PARAMETER           | VALUE                                                                                 |

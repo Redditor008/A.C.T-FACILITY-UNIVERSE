@@ -111,8 +111,8 @@ the reader is left with an implication that no individual document supports.
 
 ## TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-ML-X-050 dossier and from Site 03 leak forensics. Values
-the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-ML-X-050 dossier and from Site 03 leak forensics. 3 values below are not held by
+the archive: Assemblies seized, Relay points mapped, Insider-source cases. They are filed under OPEN QUESTIONS.
 
 | PUBLICATION PARAMETER | VALUE |
 |---|---|

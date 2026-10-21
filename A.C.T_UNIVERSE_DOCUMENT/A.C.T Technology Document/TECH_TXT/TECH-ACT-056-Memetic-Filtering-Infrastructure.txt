@@ -97,9 +97,8 @@ injure the next mind that touches it.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and reading doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and reading doctrine. 3 figures below are blank: Exposure
+limit scale, Filter suppression depth, Session duration cap. Each is filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | CELL PARAMETER             | VALUE                                                                                 |

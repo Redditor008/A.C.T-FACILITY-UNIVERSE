@@ -105,9 +105,8 @@ moon state, and time since extraction.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's custody description and etching doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's custody description and etching doctrine. 3 values below are not held by
+the archive: Molecular weight, Etch rate per surface, Stabilized shelf life. They are filed under OPEN QUESTIONS.
 
 | ACID PARAMETER | VALUE |
 |---|---|

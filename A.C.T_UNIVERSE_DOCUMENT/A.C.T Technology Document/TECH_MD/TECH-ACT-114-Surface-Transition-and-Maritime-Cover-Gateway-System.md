@@ -89,9 +89,8 @@ its surface without making surface use suspicious.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and gateway doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and gateway doctrine. Gate throughput, Weekly descents,
+Transition exposures are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 | GATEWAY PARAMETER | VALUE |
 |---|---|

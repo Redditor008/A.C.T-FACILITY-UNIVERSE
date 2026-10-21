@@ -91,9 +91,8 @@ SARCTCS formalizes the relationship between real surface science and concealed s
 
 TECHNICAL SPECIFICATION
 
-Figures are restated from this record's cover component list and White Grave surface doctrine.
-Values the
-archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from this record's cover component list and White Grave surface doctrine. 3 figures below are
+blank: Season length, Windows per season, Cover incidents. Each is filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | COVER PARAMETER            | VALUE                                                                                 |

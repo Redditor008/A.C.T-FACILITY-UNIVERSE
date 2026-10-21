@@ -117,8 +117,8 @@ record.
 
 ## TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-BS-T-027 dossier and from interdiction recovery records. Values the
-archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-BS-T-027 dossier and from interdiction recovery records. 3 figures below are blank:
+Chains reconstructed, Settlements interdicted, Counterparties named. Each is filed under OPEN QUESTIONS.
 
 | SETTLEMENT PARAMETER | VALUE |
 |---|---|

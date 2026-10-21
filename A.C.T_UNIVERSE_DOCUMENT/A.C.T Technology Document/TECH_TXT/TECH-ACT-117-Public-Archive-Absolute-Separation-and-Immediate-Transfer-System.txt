@@ -92,9 +92,8 @@ the public floor its rules.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and separation doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and separation doctrine. The archive holds no figure for
+Public throughput, Median transfer time, Cover incidents. Those 3 gaps are carried in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | SEPARATION PARAMETER       | VALUE                                                                                 |

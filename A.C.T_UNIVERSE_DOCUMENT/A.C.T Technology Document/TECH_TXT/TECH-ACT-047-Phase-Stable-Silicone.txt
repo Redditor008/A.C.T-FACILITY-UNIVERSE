@@ -92,9 +92,8 @@ had rewritten into identity. The PSS program now distinguishes technical suitabi
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's material description and fabrication doctrine. Values the
-archive does not hold are marked NOT MEASURED and each is filed under OPEN
-QUESTIONS.
+Figures below are restated from this record's material description and fabrication doctrine. Tear rating, Phase offset
+tolerance, Roll shelf life are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | POLYMER PARAMETER          | VALUE                                                                                 |

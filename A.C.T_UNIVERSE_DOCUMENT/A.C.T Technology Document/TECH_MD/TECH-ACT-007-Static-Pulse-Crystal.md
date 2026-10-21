@@ -113,9 +113,8 @@ discarded chips, and black-market replicas are treated as direct threats to cont
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's material description, packaging list, and processed-form list.
-Values the archive does not hold are marked NOT MEASURED and each is filed
-under OPEN QUESTIONS.
+Figures below are restated from this record's material description, packaging list, and processed-form list. Mass band
+values, Thermal band limits, Pulse band values are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 | MATERIAL PARAMETER | VALUE |
 |---|---|

@@ -88,9 +88,8 @@ containment infrastructure.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and clearance doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and clearance doctrine. 3 values below are not held by
+the archive: Staff count, Median processing time, Clearance misuses. They are filed under OPEN QUESTIONS.
 
 | CLEARANCE PARAMETER | VALUE |
 |---|---|

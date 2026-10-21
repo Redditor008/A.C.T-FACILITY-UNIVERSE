@@ -97,9 +97,8 @@ post-use environmental survey.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and installation doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and installation doctrine. Density, Absorption capacity
+per litre, Pipe load rating are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | BARRIER PARAMETER          | VALUE                                                                                 |

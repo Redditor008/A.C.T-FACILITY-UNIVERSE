@@ -108,9 +108,8 @@ convenient shape and call the result health.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and clinical procedure. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and clinical procedure. Mist concentration band, Scrubber
+capacity, Pod atmosphere composition are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 | SUITE PARAMETER | VALUE |
 |---|---|

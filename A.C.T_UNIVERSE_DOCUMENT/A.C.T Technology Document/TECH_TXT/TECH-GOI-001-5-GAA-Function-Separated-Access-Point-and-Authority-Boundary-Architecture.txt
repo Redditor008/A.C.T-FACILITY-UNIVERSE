@@ -110,8 +110,9 @@ separate in any sense that matters.
 
 TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-GV-P-001 dossier and from Intelligence access review records. Values
-the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-GV-P-001 dossier and from Intelligence access review records. 4 figures below are
+blank: Access points active, Median activation life, Confirmed exposures, and 1 more. Each is filed under OPEN
+QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | ACCESS PARAMETER           | VALUE                                                                                 |

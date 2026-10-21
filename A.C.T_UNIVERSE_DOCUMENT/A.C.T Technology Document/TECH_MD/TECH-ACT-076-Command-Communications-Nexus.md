@@ -93,9 +93,8 @@ sensor and records systems: if F-1 listens and F-2 remembers, F-5 commands.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and command doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and command doctrine. 3 figures below are blank: Channel
+count, Order latency, Continuity endurance. Each is filed under OPEN QUESTIONS.
 
 | NEXUS PARAMETER | VALUE |
 |---|---|

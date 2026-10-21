@@ -122,8 +122,8 @@ for the length of an operation and is then administratively unremarkable.
 
 TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-GV-P-001 dossier and from Civil Covert review records. Values
-the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-GV-P-001 dossier and from Civil Covert review records. 3 figures below are blank:
+Instruments reviewed, Median instrument life, Reductions on record. Each is filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | INSTRUMENT PARAMETER       | VALUE                                                                                 |

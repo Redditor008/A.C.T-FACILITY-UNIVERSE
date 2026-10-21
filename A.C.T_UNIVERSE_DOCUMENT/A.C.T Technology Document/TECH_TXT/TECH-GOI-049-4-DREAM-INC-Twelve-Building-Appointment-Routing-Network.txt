@@ -123,8 +123,8 @@ single building, which is why the index has to be refreshed rather than filed.
 
 TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-CP-B-049 dossier and from the open building survey. Values
-the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-CP-B-049 dossier and from the open building survey. Support locations,
+Source-building identity, Decoy count are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 
 +----------------------------+---------------------------------------------------------------------------------------+

@@ -89,9 +89,8 @@ hazards.
 
 ## TECHNICAL SPECIFICATION
 
-Figures are taken from this record's ward component list and F-6 clinical doctrine. Values
-the archive does
-not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are taken from this record's ward component list and F-6 clinical doctrine. Bed count, Median isolation stay,
+Return-to-duty refusals are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 | WARD PARAMETER | VALUE |
 |---|---|

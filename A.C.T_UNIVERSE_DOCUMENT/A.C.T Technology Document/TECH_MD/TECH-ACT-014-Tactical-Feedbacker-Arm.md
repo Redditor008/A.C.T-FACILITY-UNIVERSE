@@ -110,9 +110,8 @@ replacement are medical events, not equipment checkout.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component text and doctrine. Values the archive
-does not hold
-are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component text and doctrine. The archive holds no figure for Parry
+window duration, Deflection energy ceiling, Unit mass, and 2 more. Those 5 gaps are carried in OPEN QUESTIONS.
 
 | PROSTHESIS PARAMETER | VALUE |
 |---|---|

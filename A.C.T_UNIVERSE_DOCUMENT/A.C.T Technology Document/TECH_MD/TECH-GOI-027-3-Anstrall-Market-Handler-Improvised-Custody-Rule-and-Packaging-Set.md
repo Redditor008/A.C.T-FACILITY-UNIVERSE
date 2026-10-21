@@ -115,8 +115,8 @@ is being held steady or being held apart from something.
 
 ## TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-BS-T-027 dossier and from intercept recovery records. Values the
-archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-BS-T-027 dossier and from intercept recovery records. 3 values below are not held by
+the archive: Rule origin, Rules recovered, Handler identities. They are filed under OPEN QUESTIONS.
 
 | CUSTODY-RULE PARAMETER | VALUE |
 |---|---|

@@ -90,9 +90,8 @@ unseen.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and processing doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and processing doctrine. The archive holds no figure for
+Suite count, Median processing time, Post-release contradiction. Those 3 gaps are carried in OPEN QUESTIONS.
 
 | SUITE PARAMETER | VALUE |
 |---|---|

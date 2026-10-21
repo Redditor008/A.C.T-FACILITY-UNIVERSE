@@ -105,9 +105,8 @@ being forest, door, bone, or boundary.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and boring procedure. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and boring procedure. Bit diameter range, Gold plating
+thickness, Cutting rate in Pale Wood, and 1 more are not measured here. Those 4 gaps sit in OPEN QUESTIONS.
 
 | DRILL PARAMETER | VALUE |
 |---|---|

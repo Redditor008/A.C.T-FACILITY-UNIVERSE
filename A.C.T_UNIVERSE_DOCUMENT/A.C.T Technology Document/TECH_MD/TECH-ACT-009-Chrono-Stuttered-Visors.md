@@ -111,10 +111,8 @@ optical core is logged, patched, inspected, and reclaimed.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list, variant list, and delay text.
-Values the
-archive does not hold are marked NOT MEASURED and each is filed under OPEN
-QUESTIONS.
+Figures below are restated from this record's component list, variant list, and delay text. 3 figures below are blank:
+Approved delay band range, Battery runtime, Unit mass. Each is filed under OPEN QUESTIONS.
 
 | VISOR PARAMETER | VALUE |
 |---|---|

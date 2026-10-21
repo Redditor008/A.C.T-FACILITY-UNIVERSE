@@ -115,8 +115,8 @@ apparatus are not independent.
 
 ## TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-CP-B-049 dossier and from protected consumer interviews. Values the
-archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-CP-B-049 dossier and from protected consumer interviews. The archive holds no figure
+for Databases held, Consumer count, Prediction accuracy. Those 3 gaps are carried in OPEN QUESTIONS.
 
 | INTAKE PARAMETER | VALUE |
 |---|---|

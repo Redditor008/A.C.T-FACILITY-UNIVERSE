@@ -102,9 +102,8 @@ is rare and requires O5-level review.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's custody description and observation doctrine. Values the
-archive does not hold are marked NOT MEASURED and each is filed under OPEN
-QUESTIONS.
+Figures below are restated from this record's custody description and observation doctrine. 3 values below are not
+held by the archive: Sample volume held, Stasis field draw, Reaction onset time. They are filed under OPEN QUESTIONS.
 
 | MEDIUM PARAMETER | VALUE |
 |---|---|

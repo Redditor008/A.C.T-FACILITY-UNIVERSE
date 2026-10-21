@@ -122,8 +122,8 @@ a demonstration is irreversible while a transaction is not.
 
 TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-BS-T-027 dossier and from catalogue containment review. Values the
-archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-BS-T-027 dossier and from catalogue containment review. The archive holds no figure
+for Catalogues in circulation, Apparatus status. Those 2 gaps are carried in OPEN QUESTIONS.
 
 
 +----------------------------+---------------------------------------------------------------------------------------+

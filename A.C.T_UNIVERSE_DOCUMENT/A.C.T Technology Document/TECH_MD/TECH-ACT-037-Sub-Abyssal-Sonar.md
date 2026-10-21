@@ -103,9 +103,8 @@ outside.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and survey doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and survey doctrine. 3 figures below are blank: Operating
+depth rating, Ping interval and range, Wireframe resolution. Each is filed under OPEN QUESTIONS.
 
 | SONAR PARAMETER | VALUE |
 |---|---|

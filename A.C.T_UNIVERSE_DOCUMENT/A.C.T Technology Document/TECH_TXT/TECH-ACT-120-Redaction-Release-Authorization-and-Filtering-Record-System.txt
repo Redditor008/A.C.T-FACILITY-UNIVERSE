@@ -89,9 +89,8 @@ and why the final version was judged safe enough to leave the cell.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and release doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and release doctrine. 3 figures below are blank: Release
+count, Median decision time, Recall actions. Each is filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | RELEASE PARAMETER          | VALUE                                                                                 |

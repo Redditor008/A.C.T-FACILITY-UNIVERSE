@@ -89,9 +89,8 @@ while still obeying parent-relay command.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and staging doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and staging doctrine. The archive holds no figure for
+Team size, Kit readiness cycle, Launch notice time. Those 3 gaps are carried in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | STAGING PARAMETER          | VALUE                                                                                 |

@@ -151,11 +151,9 @@ Command controls departure and receiving authority.
 TECHNICAL SPECIFICATION
 -----------------------
 
-Figures below are restated from the Master Catalog entry, the technological timeline, the visual
-reference
-guide entry, and this record's own component list. Values the archive does not hold
-are marked NOT MEASURED
-and each is filed under OPEN QUESTIONS.
+Figures below are restated from the Master Catalog entry, the technological timeline, the visual reference guide
+entry, and this record's own component list. The archive holds no figure for Cargo bay volume, Maximum takeoff mass,
+Range and endurance, and 3 more. Those 6 gaps are carried in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | AIRFRAME PARAMETER         | VALUE                                                                                 |

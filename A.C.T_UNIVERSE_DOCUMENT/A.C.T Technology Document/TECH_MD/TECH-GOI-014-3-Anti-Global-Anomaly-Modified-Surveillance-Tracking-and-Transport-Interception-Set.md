@@ -103,8 +103,8 @@ standing response to exposure.
 
 ## TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-ML-X-014 dossier and from interdiction and false target review
-records. Values the archive does not hold are marked NOT MEASURED and filed under
+Figures are restated from the GOI-ML-X-014 dossier and from interdiction and false target review records. 3 values
+below are not held by the archive: Sets recovered, Packages reconstructed, Confirmed deceptions. They are filed under
 OPEN QUESTIONS.
 
 | WATCH-SET PARAMETER | VALUE |

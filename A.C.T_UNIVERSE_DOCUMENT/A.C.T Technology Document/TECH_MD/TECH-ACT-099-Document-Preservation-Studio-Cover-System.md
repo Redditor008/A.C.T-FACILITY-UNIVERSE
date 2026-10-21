@@ -88,9 +88,8 @@ post.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and studio doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and studio doctrine. 3 values below are not held by the
+archive: Client throughput, Restricted work share, Cover challenges. They are filed under OPEN QUESTIONS.
 
 | STUDIO PARAMETER | VALUE |
 |---|---|

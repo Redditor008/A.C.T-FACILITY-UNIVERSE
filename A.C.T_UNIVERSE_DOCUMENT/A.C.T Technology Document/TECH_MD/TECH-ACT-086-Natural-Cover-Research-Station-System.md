@@ -87,9 +87,8 @@ of security.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and station doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and station doctrine. Genuine research share, Visitor
+throughput, Boundary watch coverage are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 | STATION PARAMETER | VALUE |
 |---|---|

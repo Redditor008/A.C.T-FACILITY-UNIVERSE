@@ -89,9 +89,8 @@ gap between them.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and transfer doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and transfer doctrine. The archive holds no figure for
+Bay throughput, Median transfer time, Custody breaks. Those 3 gaps are carried in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | INTAKE PARAMETER           | VALUE                                                                                 |

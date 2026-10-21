@@ -99,9 +99,8 @@ whole enclosure starts negotiating with the anomaly.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and installation doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and installation doctrine. The archive holds no figure
+for Tile dimensions, Certified load per tile, Thermal-sink capacity. Those 3 gaps are carried in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | TILE PARAMETER             | VALUE                                                                                 |

@@ -90,9 +90,8 @@ and one named perception protocol.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and perception doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and perception doctrine. Unit count, Median viewing time,
+Perception breaches are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 | PERCEPTION PARAMETER | VALUE |
 |---|---|

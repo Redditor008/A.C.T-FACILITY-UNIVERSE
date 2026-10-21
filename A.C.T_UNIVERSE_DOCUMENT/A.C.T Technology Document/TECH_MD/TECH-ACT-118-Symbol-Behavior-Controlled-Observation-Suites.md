@@ -83,9 +83,8 @@ of analysis remains a tracked exposure event.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and observation doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and observation doctrine. Cell count, Median exposure
+time, Exposure incidents are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 | OBSERVATION PARAMETER | VALUE |
 |---|---|

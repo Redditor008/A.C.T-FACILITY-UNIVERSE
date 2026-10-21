@@ -87,9 +87,8 @@ disposition control. A stable frozen case is still a transient case.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and interim doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and interim doctrine. Unit count, Thermal buffer
+endurance, Suppression failures are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 | HOLDING PARAMETER | VALUE |
 |---|---|

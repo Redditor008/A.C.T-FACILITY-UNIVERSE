@@ -103,9 +103,9 @@ attaches during acoustic bridge sessions. Site Command approves any movement out
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and proximity doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and proximity doctrine. The archive holds no figure for
+Approved separation distance, Resonance Stability scale, Glass thickness, and 1 more. Those 4 gaps are carried in OPEN
+QUESTIONS.
 
 | HARNESS PARAMETER | VALUE |
 |---|---|

@@ -96,9 +96,9 @@ still be part of a speaking system.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and stasis procedure. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and stasis procedure. 4 figures below are blank:
+Operating temperature band, Approved stasis duration, Rhythm baseline definition, and 1 more. Each is filed under OPEN
+QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | UNIT PARAMETER             | VALUE                                                                                 |

@@ -114,8 +114,8 @@ paper substitutes for one.
 
 ## TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-CU-X-048 dossier and from interdiction review. Values the archive
-does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-CU-X-048 dossier and from interdiction review. The archive holds no figure for Texts
+recovered, Recordings recovered. Those 2 gaps are carried in OPEN QUESTIONS.
 
 | COMPARTMENT PARAMETER | VALUE |
 |---|---|

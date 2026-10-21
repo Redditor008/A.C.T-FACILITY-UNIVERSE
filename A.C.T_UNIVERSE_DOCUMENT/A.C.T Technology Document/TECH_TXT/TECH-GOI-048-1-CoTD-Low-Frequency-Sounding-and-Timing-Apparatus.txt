@@ -125,8 +125,8 @@ a defect to be repaired by inference.
 
 TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-CU-X-048 dossier and from interdiction records. Values the archive
-does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-CU-X-048 dossier and from interdiction records. Effect on target, Rigs intercepted,
+Cells synchronized are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 
 +----------------------------+---------------------------------------------------------------------------------------+

@@ -113,8 +113,8 @@ cannot currently distinguish the two.
 
 ## TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-CP-B-049 dossier and from the recovered communication. Values the
-archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-CP-B-049 dossier and from the recovered communication. 2 values below are not held
+by the archive: Declaration authority, Underlying cause. They are filed under OPEN QUESTIONS.
 
 | INDICATOR PARAMETER | VALUE |
 |---|---|

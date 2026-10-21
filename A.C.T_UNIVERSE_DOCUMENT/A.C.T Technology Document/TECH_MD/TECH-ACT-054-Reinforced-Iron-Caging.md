@@ -98,9 +98,8 @@ worsened containment. RIC became the ancestor of the Massive Box, not its final 
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and legacy-review doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and legacy-review doctrine. 3 values below are not held
+by the archive: Bar spacing standard, Rated load, Floor pin depth. They are filed under OPEN QUESTIONS.
 
 | CAGE PARAMETER | VALUE |
 |---|---|

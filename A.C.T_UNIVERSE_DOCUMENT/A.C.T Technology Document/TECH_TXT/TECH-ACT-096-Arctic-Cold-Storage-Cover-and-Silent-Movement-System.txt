@@ -92,9 +92,8 @@ can enter the depot as part of a normal cold chain.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and receiving doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and receiving doctrine. 3 figures below are blank: Bay
+throughput, Weekly silent moves, Cover breaches. Each is filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | COVER PARAMETER            | VALUE                                                                                 |

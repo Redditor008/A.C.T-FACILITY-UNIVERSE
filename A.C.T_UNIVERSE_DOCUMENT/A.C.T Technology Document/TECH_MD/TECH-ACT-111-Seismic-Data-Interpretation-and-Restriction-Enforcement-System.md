@@ -88,9 +88,8 @@ structures or the deeper architecture beneath the Primary Facility.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and interpretation doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and interpretation doctrine. 3 values below are not held
+by the archive: Console count, Median review time, Refusal records. They are filed under OPEN QUESTIONS.
 
 | INTERPRETATION PARAMETER | VALUE |
 |---|---|

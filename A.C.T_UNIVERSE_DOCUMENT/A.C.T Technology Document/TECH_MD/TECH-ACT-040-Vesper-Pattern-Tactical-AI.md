@@ -101,9 +101,8 @@ parameters entered the cube.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and command doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and command doctrine. 3 values below are not held by the
+archive: Model horizon, Concurrent asset count, Uplink latency limit. They are filed under OPEN QUESTIONS.
 
 | CORE PARAMETER | VALUE |
 |---|---|

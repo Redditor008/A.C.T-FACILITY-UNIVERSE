@@ -120,8 +120,8 @@ ordinary containment.
 
 TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-ML-X-050 dossier and from recovery and returnee records. Values
-the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-ML-X-050 dossier and from recovery and returnee records. Subjects travelling,
+Willing travel count, Handling harm cases are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 
 +----------------------------+---------------------------------------------------------------------------------------+

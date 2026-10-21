@@ -101,9 +101,8 @@ from a transformed anomaly, not as a generic pharmaceutical reagent.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's custody description and handling doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's custody description and handling doctrine. 3 figures below are blank:
+Grade scale, Stabilizer expiry, Open-vial time limit. Each is filed under OPEN QUESTIONS.
 
 | SAP PARAMETER | VALUE |
 |---|---|

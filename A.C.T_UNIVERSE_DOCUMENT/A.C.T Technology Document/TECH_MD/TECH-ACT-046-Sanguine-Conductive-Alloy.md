@@ -104,9 +104,8 @@ authorizes mixed-sample study.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and testing doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and testing doctrine. The archive holds no figure for
+Conductivity range, Sample volume per well, Plate reuse limit. Those 3 gaps are carried in OPEN QUESTIONS.
 
 | ALLOY PARAMETER | VALUE |
 |---|---|

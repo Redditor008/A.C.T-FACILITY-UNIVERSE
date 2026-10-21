@@ -94,9 +94,8 @@ research circulation.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and research doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and research doctrine. 3 values below are not held by the
+archive: Replay fidelity, Void-event count held, Filter attenuation. They are filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | PROGRAM PARAMETER          | VALUE                                                                                 |

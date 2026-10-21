@@ -91,10 +91,8 @@ remain damage instead of becoming breach.
 
 TECHNICAL SPECIFICATION
 
-Figures are restated from this record's holding component list and White Grave F-2 restricted-hold
-doctrine.
-Values the archive does not hold are marked NOT MEASURED and filed under OPEN
-QUESTIONS.
+Figures are restated from this record's holding component list and White Grave F-2 restricted-hold doctrine. Repair
+events, Sensor sample rate, Escalations raised are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | HOLDING PARAMETER          | VALUE                                                                                 |

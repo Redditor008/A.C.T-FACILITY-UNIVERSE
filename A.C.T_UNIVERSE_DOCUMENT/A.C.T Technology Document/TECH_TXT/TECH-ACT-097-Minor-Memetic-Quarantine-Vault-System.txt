@@ -86,9 +86,8 @@ annex's buffer doctrine: nothing here belongs here forever.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and buffer doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and buffer doctrine. The archive holds no figure for Cell
+count, Median buffer time, Spillover events. Those 3 gaps are carried in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | VAULT PARAMETER            | VALUE                                                                                 |

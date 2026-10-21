@@ -106,9 +106,8 @@ material with very different consequences.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and surgical procedure. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and surgical procedure. 2 values below are not held by
+the archive: Blade length and mass, Tracking rail range. They are filed under OPEN QUESTIONS.
 
 | TOOL PARAMETER | VALUE |
 |---|---|

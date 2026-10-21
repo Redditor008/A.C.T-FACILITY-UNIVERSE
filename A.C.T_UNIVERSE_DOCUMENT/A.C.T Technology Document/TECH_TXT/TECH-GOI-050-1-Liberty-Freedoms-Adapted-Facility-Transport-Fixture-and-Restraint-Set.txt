@@ -121,8 +121,8 @@ same time.
 
 TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-ML-X-050 dossier and from interdiction recovery records. Values the
-archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-ML-X-050 dossier and from interdiction recovery records. 3 figures below are blank:
+Fixtures recovered, Source lots identified, Subjects harmed by misuse. Each is filed under OPEN QUESTIONS.
 
 
 +----------------------------+---------------------------------------------------------------------------------------+

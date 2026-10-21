@@ -89,9 +89,8 @@ the surface and exact to A.C.T.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and boundary doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and boundary doctrine. 3 figures below are blank:
+Transition count, Descent time, Seal closing time. Each is filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | TRANSITION PARAMETER       | VALUE                                                                                 |

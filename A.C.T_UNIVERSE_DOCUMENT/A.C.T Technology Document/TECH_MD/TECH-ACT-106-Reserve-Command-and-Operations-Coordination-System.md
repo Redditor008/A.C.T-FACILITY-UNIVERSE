@@ -91,9 +91,8 @@ sectors, and patrols.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and command doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and command doctrine. Sector count, Mean incident
+response, Command-channel failures are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 | COMMAND PARAMETER | VALUE |
 |---|---|

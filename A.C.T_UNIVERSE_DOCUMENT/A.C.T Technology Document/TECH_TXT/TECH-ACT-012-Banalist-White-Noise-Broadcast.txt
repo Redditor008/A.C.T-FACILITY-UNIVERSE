@@ -102,9 +102,9 @@ identify cover sites, or build counter-broadcasts that ride inside the dullness.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list, library description, and installation text.
-Values the archive does not hold are marked NOT MEASURED and each is filed
-under OPEN QUESTIONS.
+Figures below are restated from this record's component list, library description, and installation text. 4 values
+below are not held by the archive: Coverage radius per node, Output level and flood ceiling, Entropy scale definition,
+and 1 more. They are filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | NODE PARAMETER             | VALUE                                                                                 |

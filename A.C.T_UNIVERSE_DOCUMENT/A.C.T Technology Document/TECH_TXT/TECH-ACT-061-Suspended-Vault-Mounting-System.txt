@@ -95,9 +95,8 @@ assumed.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and inspection doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and inspection doctrine. The archive holds no figure for
+Mount load rating, Damper travel, Shaft depth. Those 3 gaps are carried in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | MOUNT PARAMETER            | VALUE                                                                                 |

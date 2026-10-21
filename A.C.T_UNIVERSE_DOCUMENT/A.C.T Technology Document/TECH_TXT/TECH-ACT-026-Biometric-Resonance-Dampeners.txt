@@ -95,9 +95,8 @@ detectors, or move past anomalies that A.C.T relies on as passive warning system
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and wear procedure. Values the
-archive does not
-hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and wear procedure. The archive holds no figure for
+Approved wear duration, Injector dose, Detection reduction achieved. Those 3 gaps are carried in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | PATCH PARAMETER            | VALUE                                                                                 |

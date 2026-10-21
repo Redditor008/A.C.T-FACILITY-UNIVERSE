@@ -87,9 +87,8 @@ levels below.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and campus doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and campus doctrine. 3 figures below are blank:
+Researcher count, Monitoring stations, Cover incidents. Each is filed under OPEN QUESTIONS.
 
 | CAMPUS PARAMETER | VALUE |
 |---|---|

@@ -86,9 +86,8 @@ monitoring, concealed staff access, research observation, perimeter discipline, 
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and field doctrine. Values the
-archive does not
-hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and field doctrine. 3 figures below are blank: Sector
+count, Root-zone extent, Relocation attempts. Each is filed under OPEN QUESTIONS.
 
 | FIELD PARAMETER | VALUE |
 |---|---|

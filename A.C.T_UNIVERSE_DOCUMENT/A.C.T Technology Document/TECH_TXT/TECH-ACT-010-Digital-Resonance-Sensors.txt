@@ -109,9 +109,8 @@ ones, or learn how A.C.T classifies unknown artifacts before contact.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and variant list. Values the
-archive does not
-hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and variant list. The archive holds no figure for
+Detection range, Threshold bands, Battery runtime and unit mass. Those 3 gaps are carried in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | SENSOR PARAMETER           | VALUE                                                                                 |

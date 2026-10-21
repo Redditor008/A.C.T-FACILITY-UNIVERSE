@@ -114,8 +114,8 @@ and the intermediary may never learn who the buyer was.
 
 ## TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-CU-X-048 dossier and from interdiction and departure records. Values
-the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-CU-X-048 dossier and from interdiction and departure records. Data obtained,
+External contacts are not measured here. Those 2 gaps sit in OPEN QUESTIONS.
 
 | PROCUREMENT PARAMETER | VALUE |
 |---|---|

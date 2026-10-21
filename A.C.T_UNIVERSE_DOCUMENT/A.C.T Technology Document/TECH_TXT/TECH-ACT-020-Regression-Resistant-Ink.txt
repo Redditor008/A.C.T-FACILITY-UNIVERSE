@@ -94,9 +94,8 @@ A forged record that resists correction can outlive the truth it imitates.
 
 TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and archive practice. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and archive practice. 3 values below are not held by the
+archive: Shelf life, Drying time, Regression resistance limit. They are filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | INK PARAMETER              | VALUE                                                                                 |

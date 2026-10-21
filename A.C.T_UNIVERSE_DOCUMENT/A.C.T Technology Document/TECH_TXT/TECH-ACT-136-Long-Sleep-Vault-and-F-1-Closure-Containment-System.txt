@@ -99,8 +99,8 @@ than personnel, programs, or assumptions.
 
 TECHNICAL SPECIFICATION
 
-Figures are restated from this record's vault component list and F-1 deep-hold doctrine. Values
-the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from this record's vault component list and F-1 deep-hold doctrine. 3 values below are not held
+by the archive: Vault count, Median sleep duration, Closures executed. They are filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | VAULT PARAMETER            | VALUE                                                                                 |

@@ -88,9 +88,8 @@ make immediate upward movement unsafe or unauthorized.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and response doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and response doctrine. Shelter capacity, Supply
+endurance, Alert latency are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 
 | SHELTER PARAMETER | VALUE |
 |---|---|

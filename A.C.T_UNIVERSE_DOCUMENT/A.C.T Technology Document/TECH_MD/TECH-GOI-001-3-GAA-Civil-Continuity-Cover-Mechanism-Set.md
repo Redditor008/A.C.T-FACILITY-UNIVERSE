@@ -105,8 +105,8 @@ unusual reach.
 
 ## TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-GV-P-001 dossier and from Civil Covert proportionality reviews. Values
-the archive does not hold are marked NOT MEASURED and filed under OPEN QUESTIONS.
+Figures are restated from the GOI-GV-P-001 dossier and from Civil Covert proportionality reviews. Measures issued,
+Median measure life, Proportionality reductions, and 1 more are not measured here. Those 4 gaps sit in OPEN QUESTIONS.
 
 | CONTINUITY PARAMETER | VALUE |
 |---|---|

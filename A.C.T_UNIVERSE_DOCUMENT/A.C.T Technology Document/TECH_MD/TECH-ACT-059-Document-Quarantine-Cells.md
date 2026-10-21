@@ -91,9 +91,8 @@ clearance alone.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and custody doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and custody doctrine. 3 values below are not held by the
+archive: Environmental band, Comparison interval, Cell capacity. They are filed under OPEN QUESTIONS.
 
 | CELL PARAMETER | VALUE |
 |---|---|

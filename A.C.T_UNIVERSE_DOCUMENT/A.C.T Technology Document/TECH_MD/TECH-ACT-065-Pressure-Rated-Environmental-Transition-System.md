@@ -98,9 +98,8 @@ remains a reference case for high-threat pressure management.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and transfer doctrine. Values the
-archive does
-not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and transfer doctrine. The archive holds no figure for
+Rated pressure range, Equalization rate, Transfer time. Those 3 gaps are carried in OPEN QUESTIONS.
 
 | SYSTEM PARAMETER | VALUE |
 |---|---|

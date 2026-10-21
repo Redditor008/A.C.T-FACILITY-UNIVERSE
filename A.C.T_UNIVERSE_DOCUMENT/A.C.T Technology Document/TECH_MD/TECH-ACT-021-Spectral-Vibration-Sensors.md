@@ -106,9 +106,8 @@ thresholds.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and monitoring doctrine. Values the
-archive
-does not hold are marked NOT MEASURED and each is filed under OPEN QUESTIONS.
+Figures below are restated from this record's component list and monitoring doctrine. 4 figures below are blank:
+Frequency range, Needle baseline definition, Amber threshold, and 1 more. Each is filed under OPEN QUESTIONS.
 
 | SENSOR PARAMETER | VALUE |
 |---|---|
