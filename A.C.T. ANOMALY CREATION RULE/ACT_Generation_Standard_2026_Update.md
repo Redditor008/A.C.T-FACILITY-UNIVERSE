@@ -138,3 +138,14 @@ the O5 Council while respecting the fragile humanity of the survivors we contain
 
 ---
 **END OF STANDARD**
+
+## Canonical Term: O5
+
+`O5` is A.C.T canon and stands for **Overseer Five**. It is the Facility's own governing
+authority, not a borrowed term, and it is not to be rewritten, replaced, or flagged as
+foreign vocabulary. Its compounds follow the same reading: `O5 Council` is the council of
+Overseers, `O5-1` is the first Overseer, `O5-RESTRICTED` and `O5-Sealed` are clearance
+states set by that authority, and `O5 Access`, `O5 Liaison`, `O5 Oversight`, and
+`O5 Headquarters` name functions and places belonging to it. Where a record needs the
+clearance level alone rather than the authority, `Level 5` is the correct form and both
+readings are valid in their own place.

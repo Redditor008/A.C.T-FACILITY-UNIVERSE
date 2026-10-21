@@ -71,7 +71,7 @@ The most important source foundations are:
 ```text
 GOI Registry, Rival Powers, and External Threat Doctrine, Archive Record
 A.C.T_UNIVERSE_DOCUMENT/A.C.T .md
-Document/Part/ACT_Universe_Part_4_GOI_Registry_Rival_Powers_and_External_Threat_Doctrine.md
+Document/A.C.T Universe Part Four.md
 Title Statement, Archive Record
 Global Site Registry, Archive Record
 Site Map and Jurisdiction Doctrine, Archive Record

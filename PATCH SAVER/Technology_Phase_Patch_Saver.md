@@ -5783,3 +5783,47 @@ overview pairs need an editorial call on which copy is canonical. `PATCH SAVER` 
 
 **Next action.** Take the owner's decision on the six open items above, then build set 073 Lantern
 Accord.
+
+## Prompt Log — 2026-10-21 20:02 UTC
+
+### Batch 43 - owner decisions executed: merge, ledger compression, README split, 068 ruling
+
+Branch resolved at runtime with `git rev-parse --abbrev-ref HEAD`; no branch name is hardcoded.
+
+**O5 ruled canon.** The owner confirmed `O5` stands for Overseer Five and is A.C.T's own governing
+authority. Nothing is rewritten across the 139 files. The reading, including the compound forms
+`O5 Council`, `O5-1`, `O5-RESTRICTED`, `O5-Sealed`, `O5 Access`, `O5 Liaison`, `O5 Oversight`, and
+`O5 Headquarters`, is recorded in `ACT_Generation_Standard_2026_Update.md` under a new heading
+Canonical Term: O5 so no future pass flags it as borrowed vocabulary.
+
+**Duplicate documents merged.** The near-duplicate scan named three pairs; measuring the whole folder
+showed the real shape. Six archive-form documents in `A.C.T .md Document` duplicate the six-part
+`A.C.T Universe` series in `Part/` at 0.863 to 0.975 line similarity, and Part One existed a third
+time as `ACT_Universe_Part_1_Overview_Document`. Each of the six archive records now carries a
+Series Position section giving its part number, its series title, and the one substantive sentence
+held only by the Part Three file. The `Part/` and `PART/` folders are removed, 14 files, and the five
+citations to them in `README.md`, the GOI development roadmap in both formats, and the personnel
+exposure doctrine `.txt` were rewritten to name the A.C.T Universe part instead of the file.
+
+**Compact ledger written.** `PATCH SAVER/Technology_Phase_Patch_Ledger_Compact.md`, 42 entries, one
+row each, 2,085 words. The full log is untouched and still holds all 43 entries.
+
+**Technology README split.** `TECH_MD/README.md` 10,021 words down to 5,818; `TECH_TXT/README.txt`
+10,056 down to 5,853. The `Current Status` text, 4,255 and 4,252 words, moved to
+`PATCH SAVER/Technology_Phase_Current_Status.md` and `.txt`. Each index now holds the record list,
+the numbering rule, and the active format rules, and nothing else.
+
+**GOI-068 ruled at two records.** `RESEARCH FOLDER/2026-10-22_GOI-068_Velvet_Provenance_House_
+Technology_Set_Decision.md` tests every candidate asset against the four purposes a technology record
+serves. Two pass, because they are the two A.C.T physically holds: six certificates, two forged
+receipts, and one authentic return clause for the receipt instrument, and one damaged buyer-book page
+for the mark system. The velvet inspection cloth fails because the dossier's own Persistent Questions
+leave it unresolved as to whether it is a tool at all, and A.C.T holds none. The provenance ledger
+fails because the dossier states it is unrecovered. The viewing room fails because it is a location.
+Carrying all three as open questions instead of records avoids repeating the `NOT MEASURED` failure
+mode of sets 057 to 060.
+
+**Not touched.** `docs/index.html` remains 0 bytes at the owner's instruction. `amnestics` 638 and
+`memetic` 707 remain. Section-level uniformity across the 229 technology records is unchanged.
+
+**Next action.** Build `GOI-HY-W-073` Lantern Accord, then 074, 069, 070, then 068 at two records.

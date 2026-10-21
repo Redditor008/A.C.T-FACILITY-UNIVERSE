@@ -157,8 +157,8 @@ The repository runs a strong **`.md` / `.txt` twin** discipline:
 
 Per the **2026-09-07 Core Worldbuilding Consistency Review** (`RESEARCH FOLDER/`):
 
-- **Part series** — `Part/ACT_Universe_Part_1_Overview.md` is the **canonical** universe-compilation edition.
-  `ACT_Universe_Part_1_Overview_Document.md` is its companion ("Introduction / Closing Note" framing) edition; the
+- **Part series** — `A.C.T Universe Part One.md` is the **canonical** universe-compilation edition.
+  `A.C.T Universe Part One.md` is its companion ("Introduction / Closing Note" framing) edition; the
   Archive folder holds the in-universe archive copy. All three number identically.
 — **Archive series** (…`_Archive.md`/`.txt` under `.md Document` / `.txt Document`) are the in-universe institutional
   copies of the same doctrine. Do not let them drift from the Part series.

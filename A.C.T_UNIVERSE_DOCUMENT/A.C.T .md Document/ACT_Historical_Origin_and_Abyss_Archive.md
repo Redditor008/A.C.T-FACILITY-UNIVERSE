@@ -369,3 +369,10 @@ never be captured—only contained, hidden, and kept asleep.
 The ABYSS Floor was the first foundation. The first doctrine was mercy through dormancy.
 And the Facility that grew
 above it became A.C.T.
+
+## Series Position
+
+This record is Part Five of the A.C.T Universe reading order, History of A.C.T, First Deployment, and the ABYSS Origin. Part Five of the A.C.T Universe records the origin of the Facility, its first deployment, and the ABYSS event that shaped both. The separate file of the A.C.T Universe series that carried the same content was
+consolidated into this record
+on 2026-10-22; every sentence held only in that file is carried above or in the body of this
+document.

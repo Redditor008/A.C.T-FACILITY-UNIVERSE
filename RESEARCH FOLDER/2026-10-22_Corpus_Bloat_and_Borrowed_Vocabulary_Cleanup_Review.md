@@ -137,15 +137,17 @@ Most-repeated sentence in the corpus after the pass, for comparison: 20 files. B
 
 ## 6. Not resolved, with reasons
 
-- **`O5` across 139 files.** Canon decision, not formatting. Scale recorded in section 3.2.
+- **`O5` across 139 files — RESOLVED as canon.** The owner confirmed `O5` stands for Overseer Five and is A.C.T's own governing authority. Nothing is rewritten. The reading is recorded in `ACT_Generation_Standard_2026_Update.md` under Canonical Term: O5 so it is not flagged again.
 - **`amnestics` 638 and `memetic` 707.** Shared genre vocabulary; rewriting exceeds the problem.
-- **3 redundant overview pairs.** Editorial call on which copy is canonical.
-- **Patch Saver at 45,997 words and TECH README at 10,021 words.** Both should be split; neither was restructured here.
-- **`docs/index.html` is 0 bytes.** Still empty.
+- **Redundant overview documents — RESOLVED.** Measuring the whole folder showed six archive records duplicating the six-part A.C.T Universe series at 0.863 to 0.975 line similarity, with Part One present a third time. Each archive record now carries a Series Position section, the Part folders are removed, and the five citations to them were rewritten.
+- **Patch Saver and TECH README — RESOLVED.** A compact ledger of all 43 entries was written to `PATCH SAVER/Technology_Phase_Patch_Ledger_Compact.md` (2,128 words) and the full log left intact. `TECH_MD/README.md` went from 10,021 to 5,818 words and `TECH_TXT/README.txt` from 10,056 to 5,853, with the Current Status text moved to `PATCH SAVER/Technology_Phase_Current_Status.md` and `.txt`.
+- **`docs/index.html` is 0 bytes.** Left alone at the owner's instruction; the document folder work is not finished yet.
 - **Section-level uniformity across the technology records.** Removing one repeated sentence does not undo the fact that 229 records share one 14-section skeleton in the same order. That is a house shape decision, not a defect, and changing it is an editorial call.
 - **The `^  \S` orphan-line metric reads 6629 across 453 files, and that number is not a defect count.** It matches ordinary indented prose. The true orphan count inside technology records is 209. The figure is recorded so it is not mistaken for a finding.
 
 ## 6.1 Resolved after this review was written
+
+- **`O5` across 139 files** — ruled canon by the owner, standing for Overseer Five. Recorded in `ACT_Generation_Standard_2026_Update.md`.
 
 - **18 crossover files, ~78,000 words** — removed by the owner at `d093b98`. See section 3.3.
 - **137 `.txt` twins with archive status as plain lines** — rendered as boxes, see section 4.

@@ -319,7 +319,7 @@ name and O5 has sealed the reason.
 ## 2.13 Related Records
 
 - ACT_Divisions_Personnel_and_Operational_Life_Archive.md
-- ACT_Universe_Part_6_Facility_Divisions_Personnel_Roles_and_Operational_Life.md
+- A.C.T Universe Part Six.md
 - NEMNOLIA-004-Series-Amnestic-Archive.md
 - Subject Care Division anomaly records
 - Medical Care Division exposure logs

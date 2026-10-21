@@ -457,3 +457,10 @@ chaotic external anomaly world into something operationally readable.
 
 Not every threat is an entity in a box. Some threats have leaders, markets,
 flags, militias, clients, and beliefs.
+
+## Series Position
+
+This record is Part Four of the A.C.T Universe reading order, GOI Registry, Rival Powers, and External Threat Doctrine. Part Four of the A.C.T Universe defines how the Facility records the organisations that act outside it and the doctrine that governs contact with them. The separate file of the A.C.T Universe series that carried the same content was
+consolidated into this record
+on 2026-10-22; every sentence held only in that file is carried above or in the body of this
+document.
