@@ -5527,12 +5527,13 @@ survivor found elsewhere. Each is filed as a timed association with causation ex
 and each record carries a servicing task whose stated purpose is to stop the association hardening into a
 mechanism in a later file.
 
-**Builder defects.** Four table cells exceeded the 26-character first column and were shortened before any
+**Builder defects.** Five table cells exceeded the 26-character first column and were shortened before any
 file was written: `Coincidence register review` at 27, `Retention observation review` at 28,
 `Reproduction policy briefing` at 28, `Call dismissed for location` at 27, and `Kits in Directorate
-service` at 27. The last was caught by the build assertion after the pre-run scan had already cleared the
-other four, which means the scan and the assertion are checking different sets and the scan must not be
-trusted alone. One tail paragraph naming a shortened servicing row was updated with it.
+service` at 27. The first four were found on review; the fifth was found by the pre-run cell scan, and the
+build assertion then failed on that same cell. The scan and the assertion agree, so the scan is a valid
+pre-check rather than a partial one, and no file was written until both were clear. One tail paragraph
+naming a shortened servicing row was updated with it.
 
 **Validation.** DOCUMENT_COUNT 937 to 947; `TECH_MD` 214 to 219 == `TECH_TXT` 219; multiH1 0;
 BELOW_200 0; EMPTY 0; bad-EOF 0; odd-fence 0; md-with-box 0; glued 0; date-violations 0 against the
