@@ -5269,7 +5269,8 @@ defect.
 
 ### Batch 34 - GOI set 071 Mercy Lock retrofit (final five records)
 
-Branch resolved at runtime with `git rev-parse --abbrev-ref HEAD` (recorded here as `arena/01a0ab57-a-c-t-facility-universe`); no branch name
+Branch resolved at runtime with `git rev-parse --abbrev-ref HEAD` (recorded here as
+`arena/01a0ab57-a-c-t-facility-universe`); no branch name
 is hardcoded anywhere in the saver or the tooling.
 
 **Action taken.** Retrofitted the five missing reference chapters into all ten Mercy Lock twins:
@@ -5318,3 +5319,53 @@ distribution cell exceeded the 85-character wrapped body width.
 **Next action.** GOI sets 057 to 070 and 072 to 074 still have no technology set; the 209 two-space orphan
 lines across sets 054, 056 and 071 need per-block hand reconstruction; 655 lines still exceed 118
 characters outside the box rules; `docs/index.html` is still 0 bytes.
+## Prompt Log — 2026-10-21 17:21 UTC
+
+### Batch 35 - one-H1 repair across ten .txt records
+
+Branch resolved at runtime with `git rev-parse --abbrev-ref HEAD` (recorded here as
+`arena/01a0ab57-a-c-t-facility-universe`); no branch name is hardcoded in the saver or the tooling.
+
+**Defect.** Ten `.txt` records carried two or more level-one headings, against the house rule of one H1
+per document. In every case the extra heading was a chapter title written with a single `#` where its
+`.md` twin carries `##` (or `###`) for the same title. The repair promoted each stray heading by one
+level after confirming the identical title exists in the `.md` twin; no heading was renamed, reordered,
+merged or deleted, and no title was invented.
+
+| DOCUMENT | STRAY HEADING PROMOTED | COUNT |
+| --- | --- | --- |
+| `ACT_Normalcy_Management_and_Public_Narrative_Doctrine.txt` | NORMALCY MANAGEMENT FOUNDATION | 1 |
+| `ACT_Personnel_Exposure_E_Class_and_Resilience_Doctrine.txt` | PERSONNEL CARE FOUNDATION | 1 |
+| `ACT_Standing_Field_Units_and_Cross_Containment_Interaction_Doctrine.txt` | FIELD UNIT AND INTERACTION FOUNDATION | 1 |
+| `ACT_Transformation_Review_Board_and_Field_Asset_Register_Doctrine.txt` | TRANSFORMATION GOVERNANCE FOUNDATION | 1 |
+| `Operational Forms/ACT_Access_and_Egress_Ledger_Form.txt` | ACCESS AND EGRESS FOUNDATION | 1 |
+| `Operational Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.txt` | AMNESTIC REVIEW FOUNDATION | 1 |
+| `Operational Forms/ACT_Witness_Statement_and_Testimony_Form.txt` | WITNESS STATEMENT FOUNDATION | 1 |
+| `GOI_TXT/00_GOI_Recovered_Document_Format.txt` | RECOVERED GOI DOCUMENT FOUNDATION | 1 |
+| `GOI_TXT/GOI-HY-U-051-Mysterious-Guild.txt` | ten registry chapters | 10 |
+| `GOI_TXT/GOI-HY-X-052-Amazoo-Circus.txt` | ten registry chapters | 10 |
+
+Totals: 10 files, 28 headings promoted. Two GOI registry twins (051 Mysterious Guild, 052 Amazoo Circus)
+account for 20 of the 28 - each had all ten of its chapters written at level one.
+
+**Correction of an earlier figure.** Two numbers quoted in the previous report were wrong and are
+restated here. The claim that 655 lines exceed 118 characters was measured with a pattern that counted
+box-rule lines; the correct count is 16, and 14 of those are unbreakable markdown link URLs. The claim
+that 7 em-dash bullets remained was scoped to sets 054, 056 and 071 only; corpus-wide `^— ` appears on
+2209 lines - 206 in technology records across 11 files, 160 in GOI dossiers across 29, 1843 elsewhere.
+Neither figure was corrected at the time it was reported.
+
+**Also fixed here.** The 141-character sentence in entry 34 that named the runtime branch command was
+wrapped to two lines, leaving the one pre-existing 294-character log line as the only over-budget prose
+line in the saver.
+
+**Validation.** DOCUMENT_COUNT 917; multiH1 0 (fence-aware, all `.md` and `.txt`); BELOW_200 0; EMPTY 0;
+bad-EOF 0; odd-fence 0; md-with-box 0; glued 0; date-violations 0 against the 1598-2026 archive cycle;
+`TECH_MD` 204 == `TECH_TXT` 204; `GOI_MD` 34 == `GOI_TXT` 34; heading parity 0 problems across the ten
+changed files, meaning every `##` chapter in each `.md` twin is present in its `.txt`; `git diff --check`
+clean. Measured but not treated as a defect: 511 documents carry no `#` line at all, which is the normal
+shape for plain-text twins elsewhere in the corpus and was not examined file by file.
+
+**Next action.** GOI sets 057 to 070 and 072 to 074 have no technology set (17 of 34 dossiers); 209
+two-space orphan continuation lines remain across sets 054, 056 and 071; 206 em-dash bullets remain in
+technology records; `docs/index.html` is still 0 bytes.

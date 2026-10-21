@@ -19,7 +19,7 @@ and an event that may not have obeyed the same rules for every observer.
 
 ---
 
-# WITNESS STATEMENT FOUNDATION
+## WITNESS STATEMENT FOUNDATION
 
 ## 1. Use Conditions
 

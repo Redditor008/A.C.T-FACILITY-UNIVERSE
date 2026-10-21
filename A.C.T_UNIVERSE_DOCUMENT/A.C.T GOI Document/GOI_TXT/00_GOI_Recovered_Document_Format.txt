@@ -20,7 +20,7 @@ different records and must remain different even when they describe the same eve
 
 ---
 
-# RECOVERED GOI DOCUMENT FOUNDATION
+## RECOVERED GOI DOCUMENT FOUNDATION
 
 ## 1. Purpose
 

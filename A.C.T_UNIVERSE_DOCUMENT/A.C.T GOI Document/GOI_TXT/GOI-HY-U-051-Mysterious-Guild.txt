@@ -88,7 +88,7 @@ complete history.
 
 ---
 
-# IDENTITY AND INSTITUTIONAL FUNCTION
+## IDENTITY AND INSTITUTIONAL FUNCTION
 
 ## Group Function
 
@@ -140,7 +140,7 @@ missing pattern.
 
 ---
 
-# ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
+## ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
 
 ## Leadership Condition
 
@@ -212,7 +212,7 @@ disasters caused by the Guild itself.
 
 ---
 
-# IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
+## IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
 
 ## Stated Belief
 
@@ -269,7 +269,7 @@ refugee, scavenger, or survivor an asset.
 
 ---
 
-# OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
+## OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
 
 ## Operational Regions
 
@@ -320,7 +320,7 @@ easier to use by making reality harder for her to experience as reality.
 
 ---
 
-# HISTORY WITH A.C.T
+## HISTORY WITH A.C.T
 
 ## Contact History
 
@@ -350,7 +350,7 @@ emergency authorization.
 
 ---
 
-# A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
+## A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
 
 ## Responsible Jurisdiction
 
@@ -397,7 +397,7 @@ live system logs.
 
 ---
 
-# OPERATIONAL RECORDS
+## OPERATIONAL RECORDS
 
 ## Restricted Operational Extract
 
@@ -428,7 +428,7 @@ A.C.T NOTE:   The term "leash" is treated as a coercive control marker until
 
 ---
 
-# INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
+## INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
 
 ## Confirmed Operational Facts
 
@@ -500,7 +500,7 @@ filtered through VESPERSYS.
 
 ---
 
-# CROSS-REFERENCE STATUS
+## CROSS-REFERENCE STATUS
 
 ## Anomaly and Record Relationship
 
@@ -532,7 +532,7 @@ the GOI record.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 ```text
 FILE CREATED:            11/10/1928

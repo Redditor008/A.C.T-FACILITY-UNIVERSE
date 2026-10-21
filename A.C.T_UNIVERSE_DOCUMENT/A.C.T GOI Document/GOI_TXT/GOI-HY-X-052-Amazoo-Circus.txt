@@ -85,7 +85,7 @@ is captured or proven dead.
 
 ---
 
-# IDENTITY AND INSTITUTIONAL FUNCTION
+## IDENTITY AND INSTITUTIONAL FUNCTION
 
 ## Group Function
 
@@ -118,7 +118,7 @@ reconstruction, victim shorthand, or a public rumor.
 
 ---
 
-# ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
+## ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
 
 ## Leadership Condition
 
@@ -171,7 +171,7 @@ hostile.
 
 ---
 
-# IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
+## IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
 
 ## Stated Belief
 
@@ -238,7 +238,7 @@ erased Amazoo Circus.
 
 ---
 
-# OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
+## OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
 
 ## Operational Regions
 
@@ -290,7 +290,7 @@ In AFD-SU-507's case, the method included:
 
 ---
 
-# HISTORY WITH A.C.T
+## HISTORY WITH A.C.T
 
 ## Contact History
 
@@ -318,7 +318,7 @@ A.C.T is not authorized to use AFD-SU-507 as bait for Grand Master Amazoo.
 
 ---
 
-# A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
+## A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
 
 ## Responsible Jurisdiction
 
@@ -361,7 +361,7 @@ song,"
 
 ---
 
-# OPERATIONAL RECORDS
+## OPERATIONAL RECORDS
 
 ## Restricted Operational Extract
 
@@ -399,7 +399,7 @@ A.C.T NOTE:   This phrase is restricted from casual quotation around AFD-SU-507.
 
 ---
 
-# INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
+## INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
 
 ## Confirmed Operational Facts
 
@@ -477,7 +477,7 @@ route evidence identifies the missing acts.
 
 ---
 
-# CROSS-REFERENCE STATUS
+## CROSS-REFERENCE STATUS
 
 ## Anomaly and Record Relationship
 
@@ -509,7 +509,7 @@ missing-person files and must not be reduced to circus property.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 ```text
 FILE CREATED:            15/10/2024

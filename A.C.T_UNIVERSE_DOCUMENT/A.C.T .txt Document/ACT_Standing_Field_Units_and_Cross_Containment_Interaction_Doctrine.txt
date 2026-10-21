@@ -14,7 +14,7 @@ anomaly-derived tools, or anomaly-influenced subjects interact with each other.
 
 ---
 
-# FIELD UNIT AND INTERACTION FOUNDATION
+## FIELD UNIT AND INTERACTION FOUNDATION
 
 ## 5.1 Purpose
 
