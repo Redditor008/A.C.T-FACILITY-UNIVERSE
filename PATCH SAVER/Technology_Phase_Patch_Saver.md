@@ -5146,8 +5146,8 @@ Twenty-seven em-dash bullet markers were repaired across the five markdown files
 These were list items rendered with an em dash instead of a hyphen, which markdown does not treat as
 a bullet, so the affected lines collapsed into the preceding paragraph. The plain-text twins carried
 none. The related defect, list items indented two spaces with no marker at all, is measured at 130
-lines across the fifteen records in sets 054, 056 and 071 and is scheduled rather than repaired
-here.
+lines in set 054 alone and 198 lines across the fifteen records in sets 054, 056 and 071, and is
+scheduled rather than repaired here.
 
 One build defect was caught by the validator and the affected files were reverted before the second
 run.
