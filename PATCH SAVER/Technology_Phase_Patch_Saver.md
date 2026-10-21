@@ -5265,3 +5265,56 @@ Next action.
 
 Retrofit the five sections into the GOI set 071 Mercy Lock records, then clear the orphan bullet
 defect.
+## Prompt Log — 2026-10-21 16:36 UTC
+
+### Batch 34 - GOI set 071 Mercy Lock retrofit (final five records)
+
+Branch resolved at runtime with `git rev-parse --abbrev-ref HEAD` (recorded here as `arena/01a0ab57-a-c-t-facility-universe`); no branch name
+is hardcoded anywhere in the saver or the tooling.
+
+**Action taken.** Retrofitted the five missing reference chapters into all ten Mercy Lock twins:
+`TECHNICAL SPECIFICATION`, `INTERFACE AND OPERATING ENVELOPE` (three H3 subsections), a numbered
+`OPERATING PROCEDURE` sequence of eight steps, `SERVICING AND CALIBRATION`, and `FAULT ISOLATION`,
+each table followed by a one-paragraph tail naming the operative row, plus three added `OPEN QUESTIONS`.
+
+**Per-record outcome.**
+
+| DESIGNATION | RECORD | H2 | TABLES | WORDS |
+| --- | --- | --- | --- | --- |
+| `TECH-GOI-071-1` | Mercy Lock Gentle Lock System | 10 to 14 | 2 to 5 | 2809 to 3530 |
+| `TECH-GOI-071-2` | Mercy Lock Patient Bell / Distress Signal System | 10 to 14 | 2 to 5 | 1436 to 2089 |
+| `TECH-GOI-071-3` | Mercy Lock Consent Ledger and Custody Status System | 10 to 14 | 2 to 5 | 1399 to 2095 |
+| `TECH-GOI-071-4` | Mercy Lock Quiet Room Low-Stimulation Care Architecture | 10 to 14 | 2 to 5 | 1335 to 1993 |
+| `TECH-GOI-071-5` | Mercy Lock Shielded Ambulance Transfer System | 9 to 13 | 1 to 4 | 1720 to 2443 |
+
+Set totals: H2 49 to 70; tables 9 to 24; words 8699 to 12150 (+3451).
+
+**Twin lockstep defect found and fixed.** All four `.md` twins 071-1 to 071-4 carried an archive-status
+pipe table with no corresponding box in the `.txt` twin. Four boxes were rendered and inserted after the
+registry box, so every record now reads `tables == boxes` (5/5/5/5/4). Box width is exactly 118 characters
+with columns `[28, 87]`; values longer than the column wrap inside the cell instead of overflowing.
+
+**Legacy bullet repair.** Six `^— ` em-dash bullets (three in 071-3, three in 071-5) were rewritten to
+`- `. Set 071 now reports 0 em-dash bullets; 130 two-space orphan continuation lines in set 054, 22 in
+056 and 57 in 071 remain and are reported, not repaired, because each needs a per-block hand edit.
+
+**Validation.** DOCUMENT_COUNT 917; BELOW_200 0; EMPTY 0; NO_FINAL_NL 0; md-with-box 0; glued 0;
+odd-fence 0; date-violations 0 (checked against the 1598-2026 archive cycle on real date strings only);
+`TECH_MD` 204 == `TECH_TXT` 204; widest box line 118; `git diff --check` clean; multiH1 0 across all
+`.md` documents. Per-record twin check: 0 missing cells, every `.md` pipe cell present in its `.txt`
+box after wrapped columns are rejoined and header rows are collected.
+
+**Checker defects found in this batch and corrected before reporting.** Three counters I ran mid-batch
+were wrong and are corrected here rather than left standing: (1) a date regex containing `19\d\d`
+flagged 356 files, every one a valid 1900s archive year - the correct check tests parsed date strings
+against 1598-2026 and returns 0; (2) a `^  \S` counter returned 6625 corpus-wide because it matches
+wrapped-prose continuation lines everywhere, not orphan bullets; (3) a first-pass twin checker keyed
+table presence on the header row, but the archive table shares the `REGISTRY FIELD` header with the
+registry table, so it reported the four missing boxes as already present - the second pass keys on the
+first body cell and found them. Two throwaway width assertions also failed before any file was written:
+`Bell fails after name change` at 28 characters exceeded the 26-character first column, and a 97-character
+distribution cell exceeded the 85-character wrapped body width.
+
+**Next action.** GOI sets 057 to 070 and 072 to 074 still have no technology set; the 209 two-space orphan
+lines across sets 054, 056 and 071 need per-block hand reconstruction; 655 lines still exceed 118
+characters outside the box rules; `docs/index.html` is still 0 bytes.

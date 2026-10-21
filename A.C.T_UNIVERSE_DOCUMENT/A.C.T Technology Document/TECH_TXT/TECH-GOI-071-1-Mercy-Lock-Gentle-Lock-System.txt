@@ -36,6 +36,17 @@ TECHNOLOGY RECORD - MERCY LOCK GENTLE LOCK SYSTEM
 |                            | lock construction notes                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Technology Record                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Medical / Containment / Subject Care / Engineering / Legal / Intelligence / Command   |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Medical Division, Containment Division, Engineering Division, Legal Division, and     |
+|                            | Central Archive                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+
 Archive Status: Active Restricted Technology Record
 Distribution: Medical / Containment / Subject Care / Engineering / Legal / Intelligence /
 Command
@@ -219,6 +230,71 @@ RED LOCK: failed lock or failed plan; ward closed until review.
 A.C.T must confirm local meaning before operational use. Regional Mercy Lock wards may adjust
 color terms.
 
+TECHNICAL SPECIFICATION
+
+Values are restated from observed installations, handled inactive components, and Mercy Lock training material. A.C.T
+holds no complete schematic, so nothing below is a design figure.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| SPECIFICATION FIELD        | RECORDED VALUE                                                                        |
++============================+=======================================================================================+
+| Design principle           | hold harm at the smallest boundary                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Soft interior plate        | polymer, wood, ceramic, padded                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Hard latch position        | concealed inside the wall                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Patient contact point      | push, hold, tap, warm, or speak                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Staff keyway               | behind a sliding medical label                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Manifestation buffer       | hinge, threshold, handle, or vent                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Consent marker slot        | voluntary, substitute, emergency                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Emergency release          | two staff roles minimum                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Core rule                  | lock the harm, not the person                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Schematics held            | incomplete, withheld                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The design-principle row governs every other. A gentle lock restricts heat transfer at a handle before it restrains
+arms, and changes shadow acceptance at a threshold before it isolates anyone in darkness, so the boundary chosen
+matters more than the strength of the seal.
+
+---
+
+INTERFACE AND OPERATING ENVELOPE
+
+Boundary Selection And Manifestation Vector
+
+- the manifestation vector is identified before the lock is used
+- a patient whose danger exits through speech is not managed by door reinforcement
+- a resident whose panic rises with darkness is not placed behind an opaque plate
+- a child whose shadow opens doors may need light control rather than heavier bolts
+
+Deployment Context And Custody Controls
+
+- four approved contexts, all involving Mercy Lock or A.C.T medical care
+- no seizure of a functioning lock unless it causes immediate harm
+- seizure also permitted where a mass-risk condition is shielded
+- seizure also permitted where the lock is modified for punitive use
+
+Handling Limits And Weaknesses
+
+- Do not use a gentle lock as a prison lock.
+- Do not bypass consent marker logic.
+- Do not treat a colour term as an A.C.T containment class.
+- Do not assume a nonhuman resident understands a threshold.
+- Weakest where a patient profile is not updated after a name or body change.
+- Weakest where corridor lighting differs from the ward design.
+
+Component essentiality, bell interaction, and long-term outcome differences against hard containment are NOT MEASURED.
+A gentle lock does not make an unsafe resident harmless and cannot replace sedation where sedation is medically
+necessary.
+
+---
 ---
 
 OPERATING PROCEDURE
@@ -280,6 +356,61 @@ patient bell interface without
 Medical review. Never test the lock by provoking a resident. Never remove the consent
 marker to make the door look
 ordinary for visiting officials.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Per deployment             | log context, vector, and marker state                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Per shift                  | confirm the emergency release path is clear                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | review patient profiles for stale identity markers                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | audit consent-marker bypass reports                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Annually                   | review the seizure limits with Containment                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Servicing is mostly record hygiene, because the most common technical fault is a profile that was never updated after
+a change of name, memory, or body.
+
+---
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Forced impact failure      | strength exceeds design                   | reassess, Engineering                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Consent logic bypassed     | staff override                            | restore marker, Legal                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Outdated identity marker   | profile not updated                       | update, Subject Care                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Heat retained in room      | poor venting                              | vent, Engineering                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Shadow leakage at door     | corridor lighting mismatch                | adjust lighting                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+---
+Numbered Operating Sequence
+
+The sequence follows Mercy Lock training on the point that matters most: a gentle lock begins with the room. Step
+1 comes before any hardware because locking the wrong boundary can worsen the event rather than contain it.
+
+1. Identify the manifestation vector before choosing a boundary.
+2. Confirm the consent marker state displayed at the door.
+3. Check buffer placement against the identified vector.
+4. Verify the emergency release path and the roles it requires.
+5. Brief staff that the lock begins with the room, not the key.
+6. Log which of the four approved contexts applies.
+7. Do not seize a functioning lock absent immediate harm.
+8. Report the boundary locked, not the resident restrained.
+
+Step 8 is the reporting discipline. Describing the outcome as a restrained resident invites the next shift to treat
+the lock as custody, which is the failure mode the training names explicitly.
 
 ---
 

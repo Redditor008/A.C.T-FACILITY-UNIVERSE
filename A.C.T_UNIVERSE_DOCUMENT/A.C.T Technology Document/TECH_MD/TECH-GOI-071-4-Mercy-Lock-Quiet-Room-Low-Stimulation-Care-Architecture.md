@@ -109,6 +109,58 @@ The correct room is defined by the patient. A technically calm room can be
 wrong if it removes the one stimulus that
 keeps the resident oriented.
 
+## TECHNICAL SPECIFICATION
+
+Values are restated from inspected rooms and Mercy Lock consultation during transfer. Room tuning is patient-specific
+and varies by region, so nothing below is a build standard.
+
+| SPECIFICATION FIELD | RECORDED VALUE |
+|---|---|
+| Purpose | reduce stimuli and manifestation routes |
+| Not a padded cell | assumes the room provokes |
+| Acoustic baffle layer | fitted, layered |
+| Lighting | low-glare and adjustable |
+| Shadow control | panel and stable corners |
+| Radiant damping | surface fitted |
+| Door behaviour | non-slam, covered hinges |
+| Bell reach point | required |
+| Consent marker visibility | required |
+| Correct room defined by | the patient, not the design |
+
+The last row is the operating constraint. A technically calm room can be the wrong room if it removes the
+one stimulus a patient needs to stay oriented, so the specification is set per resident rather than per ward.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Environmental Controls And Readouts
+
+- sound, light, texture, and airflow are adjusted rather than fixed
+- corridor approach, door behaviour, and staff visibility are part of the design
+- patient bell access and consent marker visibility are required features
+- some rooms carry family-contact partitions or voice-safe intercoms
+
+### Occupancy And Conduct Controls
+
+- no visible weapons unless the risk requires them
+- no shouting of forbidden names and no slamming metal
+- no crowding of the threshold
+- monitoring documented without becoming intimidation
+
+### Handling Limits And Weaknesses
+
+- Do not confuse low stimulation with abandonment.
+- Do not remove all stimulus from a memory-sensitive resident.
+- Do not keep a resident in a quiet room after the need ends.
+- Do not use quiet-room design to isolate without review.
+- Weakest where a patient needs sound or family voice to orient.
+- Weakest where observation reads as intimidation.
+
+Which features are engineered and which depend on patient-specific anomalous compatibility is NOT MEASURED, as is the
+point at which quiet becomes sensory deprivation for a memory-sensitive resident.
+
+---
 ---
 
 ## OPERATING PROCEDURE
@@ -129,6 +181,50 @@ into
 intimidation. Quiet is maintained as care, not punishment. If the patient escalates, staff must
 ask whether the room
 failed before assuming the resident chose violence.
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per placement | record tolerated and escalation stimuli |
+| Per shift | confirm bell reach and marker visibility |
+| Monthly | review continued need for each occupied room |
+| Quarterly | audit for observation read as intimidation |
+| Annually | review the deprivation threshold with Medical |
+
+Servicing is a review schedule rather than a maintenance one. Nothing wears out; the risk is that a room stays
+in use because nobody re-asked whether it was still the right room.
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Room-patient mismatch | stimuli removed wrongly | reassess, Medical |
+| Bell unreachable | layout change | restore reach point |
+| Excessive darkness | over-damping | raise light level |
+| Observation intimidates | monitoring method | change route, Subject Care |
+| Quiet continues too long | review lapsed | review, Legal |
+
+---
+### Numbered Operating Sequence
+
+The sequence puts the patient's stimulus profile ahead of the room's specification, which inverts the usual order.
+Step 7 is the part that distinguishes this from ordinary holding: escalation triggers a question about the environment
+before a conclusion about the resident.
+
+1. Record tolerated and escalation stimuli before placement.
+2. Note communication method, airflow need, and safe light level.
+3. Have Engineering review acoustic, light, shadow, and door behaviour.
+4. Have Subject Care assess whether isolation will worsen distress.
+5. Confirm bell reach and consent marker visibility.
+6. Keep quiet as care, not as punishment.
+7. On escalation, ask whether the room failed first.
+8. Review continued need at each scheduled interval.
+
+Step 8 exists because the quietest failure in this record is a room that keeps being used after it stopped
+being needed, and nothing in the environment announces that.
 
 ---
 

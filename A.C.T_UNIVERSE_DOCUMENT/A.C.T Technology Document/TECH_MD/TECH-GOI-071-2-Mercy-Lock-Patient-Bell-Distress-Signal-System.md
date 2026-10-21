@@ -118,6 +118,58 @@ A bell may be assigned to the patient rather than the room. During transfer,
 Mercy Lock may require the bell to stay
 in the patient's hand, pouch, bed rail, or visible reach.
 
+## TECHNICAL SPECIFICATION
+
+Values are restated from observed bells, transfer notes, and inactive components. Bell tuning is patient-specific, so
+no value below generalises across a ward.
+
+| SPECIFICATION FIELD | RECORDED VALUE |
+|---|---|
+| Function | distress signal without a breach |
+| Bell forms | hand, pull, vibration, call tab |
+| Mounting | bed-side, lock plate, or ward key |
+| Materials | linen, polymer, copper, brass |
+| Assignment | to the patient, not the room |
+| Gentle-lock interface | present in some units |
+| Unanswered-bell timer | fitted |
+| Removal while active | prohibited without proven harm |
+| Response definition | containment event, not entry |
+| Identity-linked failure | reported on name or body change |
+
+The assignment row is the one that changes handling. A bell belongs to a patient rather than to a bed,
+so it travels with them through transfer, and a room left without a bell is not thereby safe.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Signal Surface And Response Definition
+
+- activation is answered as a containment event
+- the correct response may be voice, vent, advocate call, or window clearance
+- entry is one possible response and not the default
+- an unanswered bell is a logged incident, not a nuisance
+
+### Custody And Cleaning Controls
+
+- no removal to make a room quieter
+- removal permitted only where immediate harm is proven
+- replacement communication established before any removal
+- cloth wrapping is never wetted with disinfectant
+
+### Handling Limits And Weaknesses
+
+- Do not remove a bell to reduce noise.
+- Do not silence a staff-side chime.
+- Do not treat bell status as a comfort preference.
+- Do not assume a bell is mundane routing.
+- Weakest where repeated calls are read as attention-seeking.
+- Weakest where a name change breaks the bell's link.
+
+Which bells use anomalous ward routing, and whether vibration reaches a gentle lock directly or only alerts staff, are
+NOT MEASURED. Maximum safe response time before neglect becomes containment failure is unresolved.
+
+---
 ---
 
 ## OPERATING PROCEDURE
@@ -138,6 +190,50 @@ review, or
 emergency release. Removing the bell to make a room quieter is prohibited unless immediate
 harm is proven and
 replacement communication is established.
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per activation | log response and elapsed time |
+| Per shift | confirm the bell is reachable by the patient |
+| Monthly | inspect cloth wrapping and contact surfaces |
+| Quarterly | review unanswered-bell incidents |
+| Annually | review the removal prohibition with Medical |
+
+Servicing is weighted toward reachability and wrapping, because both degrade through ordinary cleaning rather than
+through use, and neither announces itself.
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Cloth wrap removed | cleaning practice | replace, Medical |
+| Bell unanswered | staff neglect | escalate, log timer |
+| Wrap wetted | disinfectant damage | replace, do not clean |
+| Bell fails on name change | identity-linked | update ledger |
+| Bell wired to punishment | hostile repurposing | seize, Containment |
+
+---
+### Numbered Operating Sequence
+
+The sequence is the intake order Medical Division uses before accepting a bell into A.C.T custody, followed by the
+response rule. Steps 1 to 4 exist because a bell without its paperwork becomes an object staff feel entitled to
+remove.
+
+1. Record the patient's safe name and permitted contact before use.
+2. Note bell location and whether it travels with the patient.
+3. Record whether the bell may be removed during sedation.
+4. Note any gentle-lock interface and escalation triggers.
+5. Answer every activation as a containment event.
+6. Choose a response before choosing whether to enter.
+7. Log any unanswered call against the incident timer.
+8. Report the signal answered, not the room quieted.
+
+Step 8 names the actual failure. A quieter room reads as success in every ward report, and the only evidence
+that it was bought with a removed bell is a timer nobody checked.
 
 ---
 

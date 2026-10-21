@@ -117,6 +117,66 @@ Components removed from context must not be installed in A.C.T vehicles without 
 consultation and Legal
 approval.
 
+TECHNICAL SPECIFICATION
+
+Values are restated from the transfer notation block, observed vehicle features, and the restrictions already recorded
+in this file. A.C.T has not stripped a vehicle, so nothing below is a build figure.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| SPECIFICATION FIELD        | RECORDED VALUE                                                                        |
++============================+=======================================================================================+
+| Platform                   | a temporary ward with wheels                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Route curtains             | conceal the path, reduce fixation                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Patient bell mounts        | usable while comms are masked                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Restraint points           | fail toward release or slack                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Gentle lock plates         | rear, side, or bay threshold                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Transfer notation fields   | mandatory, listed in procedure                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Unknown field handling     | transfer treated as unstable                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Seizure for transport      | prohibited                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Vehicle identity copying   | prohibited                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Armed escort sight line    | excluded unless marked                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The unknown-field row is the operative rule of the whole record. Any notation field left blank makes the transfer
+unstable by definition, which converts an administrative gap into a decision that has to be made before the vehicle
+moves.
+
+INTERFACE AND OPERATING ENVELOPE
+
+Vehicle Features And Transfer Notation
+
+- route curtains conceal the travel path and reduce destination fixation
+- soft restraint points fail toward release rather than cutting skin
+- gentle lock plates mount at the rear, side, or bay threshold
+- the notation block is completed before movement, not after
+
+Escort, Search, And Public Contact Controls
+
+- the bay is not searched in front of the patient unless the card allows it
+- armed personnel stay outside the patient's sight line unless marked
+- Civil Covert controls explanation before police or family reinterpret it
+- no repaint, unmarking, or duplication of Mercy Lock identity
+
+Handling Limits And Weaknesses
+
+- Do not seize a shielded ambulance for general transport.
+- Do not use the route curtain as generic anti-surveillance.
+- Do not remove a bell, sleeve, or plate from an active transfer.
+- Do not confirm a surname against a no-surname note.
+- Weakest where soft custody is read as weak custody.
+- Weakest where hostile actors mimic the vehicle markings.
+
+Whether soft treatment holds for a resident who exploits it is NOT MEASURED. Both readings of the vehicle can be
+true at once, and which one applies depends on the resident rather than on the vehicle.
 Transfer Procedure
 
 A.C.T may interact with a Mercy Lock shielded ambulance in five approved contexts: cooperative
@@ -142,6 +202,58 @@ even when the resident appears calm.
 Mercy Lock repeatedly warns that calm behavior inside the ambulance may be a product
 of the system and may not survive
 ordinary A.C.T intake lighting, shouted orders, visible weapons, or corridor exposure.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Per transfer               | complete and retain the notation block                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Per arrival                | verify plate, bell, and marker against the card                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | review notation gaps across completed transfers                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | audit for surname use against no-surname notes                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Annually                   | review the seizure prohibition with Containment                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Servicing is notation discipline. The vehicle cannot be maintained by A.C.T and is not seized for study, so the only
+thing this file can maintain is the record of what was declared before each journey.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Route curtain torn         | pursuit damage                            | close route, log                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Bell removed in transit    | mistaken for clutter                      | restore, Medical                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Doors opened by police     | uncoordinated response                    | Civil Covert first                        |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Surname used at intake     | note not read                             | halt, Subject Care                        |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Markings mimicked          | hostile imitation                         | verify, Intelligence                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+Numbered Operating Sequence
+
+The sequence is the notation block turned into an order of operations. It runs before movement because every field in
+the block is a decision that becomes impossible to make properly once the vehicle is under way.
+
+1. Complete the transfer notation before the vehicle moves.
+2. Treat any unknown field as making the transfer unstable.
+3. Confirm the patient bell is mounted and reachable.
+4. Confirm the gentle lock plate position or its absence.
+5. Record the consent marker and name-use limits.
+6. Keep armed personnel out of the patient's sight line.
+7. Let Civil Covert speak first to public responders.
+8. Report the notation, not an assessment of the method.
+
+Step 8 is the discipline that prevents the most common misreading. Describing the transfer as a soft custody method
+invites the next team to add restraints, which is the change most likely to trigger the manifestation the vehicle was
+designed to avoid.
 
 Failure Modes
 

@@ -26,6 +26,17 @@ TECHNOLOGY RECORD - MERCY LOCK CONSENT LEDGER AND CUSTODY STATUS SYSTEM
 |                            | anomaly, and ward location links                                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active GOI-Acquired Technology Record                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Legal / Medical / Subject Care / Containment / Intelligence / Archive                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Legal Division, Medical Division, Subject Care Division, Intelligence Division, and   |
+|                            | Central Archive                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+
 Archive Status: Active GOI-Acquired Technology Record
 Distribution: Legal / Medical / Subject Care / Containment / Intelligence / Archive
 Authority: Legal Division, Medical Division, Subject Care Division, Intelligence Division, and Central Archive
@@ -111,6 +122,66 @@ The ledger is designed to follow the patient across ward, ambulance, A.C.T medic
 and review office without
 collapsing the person into a hazard label.
 
+TECHNICAL SPECIFICATION
+
+Values are restated from transfer-relevant ledger fields, marker cards, and legal review records. A.C.T holds no
+original ledger, so every value below describes an interface rather than the archive.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| SPECIFICATION FIELD        | RECORDED VALUE                                                                        |
++============================+=======================================================================================+
+| Function                   | live restraint-control instrument                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Forms observed             | book, file, card, slot, packet                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Status categories          | six, including disputed                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Dual-key approval          | high-risk residents                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Identity condition field   | present                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Name entries               | preferred and forbidden                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Advocate objection line    | can block a transfer                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Marker slot on lock        | present                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Red or disputed status     | pauses non-emergency transfer                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Originals held by A.C.T    | none, transfer fields only                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The function row is why Legal treats this as technology rather than paperwork. A marker state changes how a lock
+behaves, an objection line can stop a transfer, and a clerk can update a marker when ordinary speech fails, so
+the ledger changes what rooms and staff do around a patient.
+
+INTERFACE AND OPERATING ENVELOPE
+
+Record Surface And Authority Effects
+
+- a marker state can be displayed or read at a gentle lock
+- an active advocate objection blocks transfer
+- a red or disputed status pauses non-emergency movement
+- a black or dual-key status requires advocate and command review
+
+Update And Verification Controls
+
+- identity, memory, body, or risk changes update the ledger first
+- Legal verifies custody authority before any transfer
+- Medical verifies clinical necessity separately
+- Subject Care reviews whether advocacy has been erased
+
+Handling Limits And Weaknesses
+
+- Do not treat an old restraint plan as current.
+- Do not use a forbidden name at any point in a transfer.
+- Do not let emergency custody continue unreviewed.
+- Do not separate custody paperwork from the patient.
+- Weakest where a lawful guardian is not a safe guardian.
+- Weakest where consent is filed as completed history.
+
+Whether the ledger resists anomalous memory alteration or only ordinary bureaucratic loss is NOT MEASURED. A ledger
+can be accurate and still ignored, and A.C.T has no instrument that detects the second condition.
 OPERATING PROCEDURE
 
 Before A.C.T accepts a Mercy Lock transfer, MLCLCSS fields must record patient condition, lawful
@@ -130,6 +201,58 @@ pauses nonemergency transfer. A black or
 dual-key status requires advocate and command review. A ledger note may prevent a technically
 available door, lock, or
 ambulance restraint from being used.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Per transfer               | verify all fields before acceptance                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Per identity change        | update the ledger before action                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | review emergency statuses for lapse                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | audit for paperwork separated from patients                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Annually                   | review the dual-key rule with Command                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Servicing is review rather than maintenance. The system has no parts to service, only statuses that go stale, and an
+emergency custody that is never reviewed quietly becomes ordinary custody.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Marker outdated            | identity changed                          | update before action                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Objection line missing     | ledger incomplete                         | halt transfer, Legal                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Emergency status stale     | never reviewed                            | review, Legal                             |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Forbidden name used        | staff error                               | halt, Subject Care                        |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Ledger split from patient  | paperwork separation                      | reunite, Legal                            |
++----------------------------+-------------------------------------------+-------------------------------------------+
+Numbered Operating Sequence
+
+The sequence is the pre-transfer field set A.C.T must have before accepting a Mercy Lock patient. It ends on reporting
+a state rather than a completed form because consent here is an active condition that can lapse, not a signature
+collected once.
+
+1. Record patient condition and lawful custody basis.
+2. Note who may authorise care and what the patient objects to.
+3. Record the name the patient must not be called.
+4. Note whether the bell travels and whether restraints are barred.
+5. Have Legal verify custody authority before transfer.
+6. Update the ledger before acting on any identity change.
+7. Pause non-emergency transfer on a red or disputed status.
+8. Report the consent state, not the completion of a form.
+
+Step 6 is the one most often skipped under time pressure, and it is the step the whole system exists
+for: an old restraint plan applied to a changed patient is the failure mode the ledger was built to prevent.
 
 KNOWN LIMITS AND FAILURE CONDITIONS
 
