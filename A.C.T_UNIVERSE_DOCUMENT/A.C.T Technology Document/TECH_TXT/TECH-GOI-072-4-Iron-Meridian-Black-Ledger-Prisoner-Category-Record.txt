@@ -1,0 +1,318 @@
+A.C.T FACILITY ARCHIVE FILE
+TECHNOLOGY RECORD - IRON MERIDIAN BLACK LEDGER PRISONER CATEGORY RECORD
+
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-072-4                                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| TECHNOLOGY NAME            | Iron Meridian Black Ledger Prisoner Category Record                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| SHORT NAME                 | IMBLP                                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | RECOVERED ADVERSARY RECORD / HARDENED RECORD TECHNOLOGY / DUAL FILING MANDATORY       |
++----------------------------+---------------------------------------------------------------------------------------+
+| ORIGIN                     | IRON MERIDIAN AUTHORITY (GOI-HY-X-072) / IRON MAGISTRATE AND ZONE COMMANDANT RECORDS  |
++----------------------------+---------------------------------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Central Archive with Legal and Subject Care review                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Central Archive, Legal, Subject Care, Intelligence, Civil Covert, Containment         |
++----------------------------+---------------------------------------------------------------------------------------+
+| OPERATIONAL STATUS         | ONE WARRANT BOOK HELD / NO BLACK LEDGER VOLUME HELD                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| RISK STATUS                | CLASSIFICATION ADOPTION / DATABASE FILING / PERSON REDUCED TO VALUE                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for warrant material; Level 5 for any ledger volume                           |
++----------------------------+---------------------------------------------------------------------------------------+
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Recovered Adversary Record                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Central Archive, Legal, Subject Care, Intelligence, Civil Covert, Command             |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Central Archive and Legal review with Subject Care, restricted holding                |
++----------------------------+---------------------------------------------------------------------------------------+
+
+ARCHIVE NOTE
+
+This record covers the black ledger and the classification system it carries. The dossier states that black ledgers
+preserve prisoner categories after public records are altered, names the black ledger as a priority candidate for
+individual technology documentation, and records that A.C.T holds one warrant book and no ledger volume. The dossier
+asks whether black ledgers are anomalous or hardened record systems designed to survive normalcy alteration, and A.C.T
+has not resolved it.
+
+The recovered classifications are recorded here verbatim because they are the system's content: CITIZEN-HELD,
+WITNESS-IRON, HAZARD-LIVING, ASSET-BREATHING, EXILE-RELEASED, OBJECT-LEGAL, and LINE-ENEMY. Two of them treat a person
+as property — ASSET-BREATHING records a living captive with technical, anomalous, or political value, and OBJECT-LEGAL
+records an anomalous object claimed through emergency title. A.C.T files the list as evidence of the Authority's
+categories and prohibits adopting any of them in an A.C.T record.
+
+The second property is the ledger's persistence. It preserves categories after public records are altered, which makes
+it the only surviving account of some detentions. That is why A.C.T treats a recovered ledger as evidence of persons
+rather than as a prisoner index, and why it is never filed into a public casualty or detainee database: doing
+so would place the Authority's categories inside a system that would then reproduce them.
+
+Controlled label: BLACK LEDGER EVIDENCE RULE.
+
+Core handling rule:
+
+A BLACK LEDGER IS EVIDENCE OF PERSONS, NOT A PRISONER INDEX. READ IT AS A RECORD OF PEOPLE.
+IT SURVIVES ALTERATION OF PUBLIC RECORDS. DO NOT FILE IT INTO ANY PUBLIC DATABASE.
+
+
+FUNCTION SUMMARY
+
+A black ledger records prisoners, assets, hazards, and labour values by Authority classification, and continues to
+record them after the public record of the same people has been altered or removed. It is the system of
+record for a detention that no public system acknowledges.
+
+- preserves prisoner categories after public records are altered;
+- records labour value alongside the person it is assigned to;
+- carries the classification list that zone tribunals apply;
+- survives alteration of the public record, by an unresolved mechanism;
+- provides the only account of some detentions.
+
+A.C.T keeps detainee records inside Central Archive under its own classification. The black ledger is not an
+equivalent record and must not be treated as one, because its categories assign value to a person and A.C.T's do
+not. Reading it is necessary; importing it is not.
+
+
+ORIGIN AND CUSTODY
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| FIELD                      | VALUE                                                                                 |
++============================+=======================================================================================+
+| Ledger volumes held        | None                                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Warrant book held          | One                                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Tribunal audio held        | One fragment                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Classification list        | Recovered; recorded verbatim                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Persistence mechanism      | Unresolved - anomalous or hardened                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Dual filing basis          | Legal and record effects                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The operative row is the persistence-mechanism row. Whether the ledger survives alteration because it is anomalous or
+because it is a hardened record system determines whether it is an object review or an archive question, and A.C.T
+has not decided which. Both routes are kept open in this record rather than one being chosen.
+
+
+PHYSICAL OR SYSTEM DESCRIPTION
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| COMPONENT                  | DESCRIPTION                                                                           |
++============================+=======================================================================================+
+| Ledger volume              | Not recovered; format not determined                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Warrant book               | One held; iron warrants and custody papers                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Classification field       | One of seven recovered categories                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Labour value field         | Records value assigned to a person                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Tribunal record            | Audio fragment held; transcript partial                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Alteration resistance      | Survives public record alteration                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The labour value field is the component that makes this a hazard to A.C.T's own records rather than merely an
+enemy document. It assigns a value to a living person, and any A.C.T file that reproduces the field reproduces the
+assignment.
+
+
+TECHNICAL SPECIFICATION
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| PARAMETER                  | RECORDED VALUE                                                                        |
++============================+=======================================================================================+
+| Record scope               | Prisoners, assets, hazards, labour values                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Categories recovered       | Seven, recorded verbatim                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Persistence                | Survives alteration of public records                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Persistence cause          | NOT MEASURED - anomalous or hardened                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Labour valuation           | Confirmed; applies to living persons                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Format                     | NOT MEASURED - no volume recovered                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Filing prohibition         | Not to be filed into a public database                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Classification adoption    | Prohibited in A.C.T records                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| A.C.T equivalent           | Central Archive detainee record, no value field                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Volumes in Authority use   | Unknown                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The governing row is the labour-valuation row. A record that assigns value to a living person cannot be summarised,
+indexed, or excerpted without carrying the valuation with it, which is why the record requires verbatim transcription
+with an explicit A.C.T assessment alongside rather than in place of it.
+
+
+INTERFACE AND OPERATING ENVELOPE
+
+Ledger Reading Controls
+
+- read the ledger as a record of persons, not as an index;
+- transcribe classifications verbatim and mark them as Authority terms;
+- record labour values as recorded, without converting or omitting them;
+- add an A.C.T assessment alongside each entry, never in place of it;
+- route any ledger volume through Central Archive at Level 5.
+
+Ledger Readouts
+
+- entry list, transcribed verbatim with Authority terms marked;
+- labour value entries, recorded as recorded;
+- any entry whose public record has been altered, noted as such;
+- any person A.C.T can identify, cross-referenced to a Subject Care file;
+- warrant citations, with the zone and the claim text.
+
+Handling Limits And Weaknesses
+
+- no filing of ledger content into a public detainee or casualty database;
+- no adoption of an Authority classification in an A.C.T record;
+- no omission of a labour value in order to make an entry readable;
+- no summary that replaces the verbatim transcription;
+- no release of an entry to a family without Legal review.
+
+
+OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+Applies when A.C.T recovers a black ledger, a warrant book, or tribunal material.
+
+1. Secure the material; route a ledger volume to Central Archive at Level 5.
+2. Transcribe entries verbatim, marking every Authority term as such.
+3. Record labour values as recorded; do not convert or omit them.
+4. Note every entry whose public record has been altered.
+5. Cross-reference any identifiable person to a Subject Care file.
+6. Add an A.C.T assessment alongside each entry, never in place of it.
+7. Do not file any content into a public database.
+8. Refer warrant claims to Legal for charter-chain analysis.
+
+
+SERVICING AND CALIBRATION
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| TASK                       | INTERVAL AND CONDITION                                                                |
++============================+=======================================================================================+
+| Transcription audit        | After every recovery of ledger material                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Classification check       | Annual, across A.C.T records                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Labour value register      | Annual, entries recorded as recorded                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Altered record register    | Annual, per affected person                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Subject Care referral      | On every identifiable person                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Mechanism review referral  | Outstanding; anomalous or hardened                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The classification check is the row that keeps the Authority's vocabulary out of A.C.T's. Each year A.C.T records are
+searched for the seven categories, because a term that enters one file spreads through cross-references without anyone
+deciding to adopt it.
+
+
+FAULT ISOLATION
+
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| OBSERVED FAULT             | ASSESSED CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Ledger filed to database   | A.C.T handling breach                     | Withdraw; report                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Authority term adopted     | Vocabulary drift                          | Replace; record the drift                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Labour value omitted       | Readability shortcut                      | Restore the entry verbatim                |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Summary replaces entry     | A.C.T handling breach                     | Restore transcription                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Entry released to family   | No Legal review                           | Withdraw; refer to Legal                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Person not referred        | Identification missed                     | Re-check; open Subject Care file          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+Row two is the fault most likely to occur without anyone noticing. The Authority's categories are short, descriptive,
+and convenient, and a single adopted term in one file will propagate through every cross-reference that points at it.
+
+
+KNOWN LIMITS
+
+- A.C.T holds a warrant book and no ledger volume.
+- The ledger format has not been determined.
+- Whether the persistence is anomalous or hardened is unresolved.
+- A.C.T cannot verify a ledger entry against any public record.
+- The number of volumes in Authority use is unknown.
+- How many entries concern persons still alive is unknown.
+
+
+FAILURE HISTORY
+
+MECHANIC AS A USE, NOT A STATUS — RECORDED PRACTICE
+
+A captive statement records that the captive said they were a mechanic and the clerk answered that mechanic was a
+use and not a status, writing hazard instead. A.C.T files this as the clearest available statement of how the
+classification system treats a person's own account of themselves.
+
+SURVIVAL OF ALTERATION — UNRESOLVED
+
+Black ledgers preserve prisoner categories after public records are altered. A.C.T has not determined whether the
+cause is anomalous or a hardened record design, and keeps both routes open because the answer decides whether the
+ledger needs object review or archive handling.
+
+CHARTER CHAIN — UNRECOGNISED AUTHORITY
+
+A.C.T Legal finds no recognised authority behind a recovered iron warrant, and Intelligence assesses the charter
+signature as linked to a sponsor state that denies knowledge of Iron Meridian operations. The warrant book is held as
+evidence of that gap rather than as a valid instrument.
+
+
+DIVISION USE
+
+- Central Archive: holds recovered material and keeps the transcription register.
+- Legal: analyses warrant claims and the charter chain.
+- Subject Care: receives every identifiable person as a case, not an entry.
+- Intelligence: tracks classification use across zones.
+- Civil Covert: keeps altered public records from being corrected publicly.
+- Containment: treats ledger evidence as part of the zone case file.
+
+
+CROSS-REFERENCES
+
+- GOI-HY-X-072 — Iron Meridian Authority, Group of Interest Registry.
+- TECH-GOI-072-3 — Iron Meridian Custody Train And Sealed Transport System, Technology Record.
+- TECH-GOI-072-5 — Iron Meridian Restraint Door And Hazard-Label Locking System, Technology Record.
+- GOI-HY-P-071 — Mercy Lock Institute, Group of Interest Registry.
+- WITNESS STATEMENT AND TESTIMONY FORM, Operational Form.
+- Restricted captive, warrant, and charter case chains held under Central Archive routing.
+
+
+OPEN QUESTIONS
+
+- Are black ledgers anomalous, or hardened records built to survive alteration?
+- Which governments or ministries have signed actual Meridian charters?
+- How many ledger entries concern persons who are still alive?
+- Can a ledger entry be reversed, and by whom?
+- How many A.C.T cover entities have been approached by Meridian charter lawyers?
+
+
+FILE METADATA
+
+Created: 2010-01-19
+Author Desk: Containment review / Intelligence Division / Central Archive
+Review Status: Active restricted recovered adversary record; ledger volumes held at Level 5
+Next Review: After any ledger recovery, any warrant recovery, or any mechanism determination

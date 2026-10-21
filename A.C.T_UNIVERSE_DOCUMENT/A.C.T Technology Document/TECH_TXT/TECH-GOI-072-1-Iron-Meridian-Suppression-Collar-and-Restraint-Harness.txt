@@ -1,0 +1,318 @@
+A.C.T FACILITY ARCHIVE FILE
+TECHNOLOGY RECORD - IRON MERIDIAN SUPPRESSION COLLAR AND RESTRAINT HARNESS
+
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-072-1                                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| TECHNOLOGY NAME            | Iron Meridian Suppression Collar And Restraint Harness                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| SHORT NAME                 | IMSCR                                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | RECOVERED ADVERSARY DEVICE / PERSONAL SUPPRESSION TECHNOLOGY / DUAL FILING MANDATORY  |
++----------------------------+---------------------------------------------------------------------------------------+
+| ORIGIN                     | IRON MERIDIAN AUTHORITY (GOI-HY-X-072) / CUSTODY MARSHAL EQUIPMENT ISSUE              |
++----------------------------+---------------------------------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Containment Division with Subject Care review                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Containment, Subject Care, Medical Care, Engineering, Intelligence, Legal             |
++----------------------------+---------------------------------------------------------------------------------------+
+| OPERATIONAL STATUS         | TWO DAMAGED COLLARS HELD / TECHNICAL ANALYSIS INCOMPLETE                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| RISK STATUS                | ACTIVE HAZARD / PAIN INDUCTION / IDENTITY NUMBNESS / REMOVAL RISK                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for custody of damaged units; Level 5 for any handling                        |
++----------------------------+---------------------------------------------------------------------------------------+
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Recovered Adversary Device Record                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Containment, Subject Care, Medical Care, Engineering, Intelligence, Command           |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Containment Division and Subject Care review, restricted holding                      |
++----------------------------+---------------------------------------------------------------------------------------+
+
+ARCHIVE NOTE
+
+This record covers the suppression collar and restraint harness issued to Iron Meridian custody marshals. The dossier
+states that suppression collars dampen limited manifestation events while causing pain or identity numbness, names the
+collar as a priority candidate for individual technology documentation, and records that A.C.T holds two damaged units
+with technical analysis incomplete. Dual filing is mandatory: a collar recovered from Authority custody is filed here
+because it produces pain, identity, and containment effects, not because it is inventory.
+
+The device works on a person and its stated effect is inseparable from its cost. It suppresses a limited manifestation
+and it hurts, and the dossier records identity numbness as a second effect alongside pain. A.C.T therefore does not
+treat the collar as a containment tool that could be adopted with refinement. The suppression and the harm are the
+same mechanism, and the record is written to prevent a later file from separating them.
+
+The unresolved question is removal. The dossier asks directly whether suppression collars can be removed safely after
+long-term use, and A.C.T has no answer. Every captive recovered wearing one is therefore a Subject Care case before it
+is a containment case, and no removal is attempted without Subject Care present. The two damaged units A.C.T holds
+have never been fitted to a person and must not be.
+
+Controlled label: SUPPRESSION COLLAR HAZARD RULE.
+
+Core handling rule:
+
+A RECOVERED COLLAR IS AN ACTIVE HAZARD, NOT A COMPONENT. DO NOT FIT IT TO ANY PERSON.
+REMOVAL AFTER LONG USE IS UNRESOLVED. SUBJECT CARE ATTENDS EVERY REMOVAL ATTEMPT.
+
+
+FUNCTION SUMMARY
+
+The collar is fitted to a detained person and dampens limited manifestation events. The restraint harness is the
+companion fitting that holds the collar in place and restricts the arms. Both are issued to custody marshals and both
+are applied before classification is recorded, which the dossier's captive statement places directly: they asked my
+name after they put the collar on.
+
+- dampens limited manifestation events in a fitted subject;
+- induces pain as part of the same mechanism;
+- produces identity numbness as a second recorded effect;
+- restrains the arms through the companion harness;
+- is applied before, not after, the person is classified.
+
+A.C.T has no equivalent device and does not seek one. Its suppression methods act on an anomaly; this device acts
+on a person and bills the anomaly's suppression to them. That distinction is the reason the record sits in the
+adversary-device series rather than in the containment equipment series.
+
+
+ORIGIN AND CUSTODY
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| FIELD                      | VALUE                                                                                 |
++============================+=======================================================================================+
+| Units held                 | Two, both damaged                                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Condition                  | Damaged; not operational                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Fitted to a person         | Never, in A.C.T custody                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Analysis status            | Incomplete                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Issue authority            | Custody marshal equipment issue                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Dual filing basis          | Pain, identity, and containment effects                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The operative row is the analysis-status row. A.C.T holds two units and does not fully understand them, which is why
+this record specifies observed behaviour rather than design. Every field the dossier does not support is marked, and
+nothing is inferred from the shape of the device.
+
+
+PHYSICAL OR SYSTEM DESCRIPTION
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| COMPONENT                  | DESCRIPTION                                                                           |
++============================+=======================================================================================+
+| Collar band                | Damaged; material and gauge not determined                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Suppression element        | Dampens limited manifestation events                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Pain mechanism             | Same mechanism as suppression; not separable                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Harness                    | Restrains arms; holds the collar in position                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Fastening                  | Not determined from the damaged units                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Control interface          | Not recovered; no controller held                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The missing control interface is the largest gap in this record. A.C.T holds the fitted part and not the part
+that operates it, so the record cannot state how suppression is set, varied, or released. That gap is why no
+removal procedure can be written and why Subject Care attends every removal attempt on a recovered captive.
+
+
+TECHNICAL SPECIFICATION
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| PARAMETER                  | RECORDED VALUE                                                                        |
++============================+=======================================================================================+
+| Suppression scope          | Limited manifestation events                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Pain induction             | Confirmed; part of the same mechanism                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Identity numbness          | Confirmed as a second effect                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Duration tolerance         | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Safe removal               | Unresolved - open question in the dossier                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Fitting requirement        | Direct contact with the neck                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Controller                 | Not recovered                                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Power source               | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| A.C.T equivalent           | None; A.C.T suppresses anomalies, not persons                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Units in Authority issue   | Unknown                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The governing row is the pain-induction row. It states that suppression and harm are one mechanism, which is what
+removes the device from consideration as a tool A.C.T could adopt. A specification that listed suppression without
+pain would describe a different device than the one the dossier records.
+
+
+INTERFACE AND OPERATING ENVELOPE
+
+Recovered Unit Handling Controls
+
+- treat every recovered collar as an active hazard until assessed;
+- do not fit a recovered unit to any person, for any reason;
+- do not attempt to power, test, or complete a damaged unit;
+- store each unit separately, bagged, with its recovery site recorded;
+- record damage extent before any handling or movement.
+
+Recovered Captive Readouts
+
+- whether the captive is still wearing a collar on recovery;
+- visible injury at the fitting point, recorded before removal;
+- reported identity numbness, recorded in the captive's own words;
+- estimated duration of wear, if the captive can state it;
+- classification the Authority assigned, recorded verbatim.
+
+Handling Limits And Weaknesses
+
+- no removal attempt without Subject Care present;
+- no fitting of a recovered unit, including on a volunteer;
+- no test energising of a damaged unit;
+- no transfer of a unit outside restricted holding;
+- no classification of a captive by the collar they were made to wear.
+
+
+OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+Applies when A.C.T recovers a collar, or a captive still wearing one, from Authority custody.
+
+1. Treat the collar as an active hazard; do not touch the band directly.
+2. If a captive is wearing one, call Subject Care before any removal attempt.
+3. Record injury at the fitting point before the collar is moved.
+4. Record the captive's reported numbness in their own words.
+5. Photograph the unit in place, then removed, with a scale reference.
+6. Bag the unit separately; record its recovery site and damage extent.
+7. Do not energise, complete, or fit the unit at any point.
+8. File the captive record and the device record separately, cross-linked.
+
+
+SERVICING AND CALIBRATION
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| TASK                       | INTERVAL AND CONDITION                                                                |
++============================+=======================================================================================+
+| Unit condition check       | Annual, recorded without energising                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Damage extent record       | On receipt and after any handling                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Removal case review        | After every captive recovered wearing one                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Subject Care review        | Annual, against removal outcomes                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Analysis gap register      | Annual, listing what remains undetermined                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Holding audit              | On any change of storage location                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The analysis gap register is the row that keeps the incompleteness visible. Each year it restates that the controller,
+power source, and safe removal method are undetermined. Repeating that is what stops a later file from describing the
+two damaged units as understood because they have been held a long time.
+
+
+FAULT ISOLATION
+
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| OBSERVED FAULT             | ASSESSED CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Unit energises on touch    | Residual charge or defect                 | Isolate; do not handle                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Captive still wearing one  | Not removed at extraction                 | Subject Care before removal               |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Numbness after removal     | Long-term wear effect                     | Medical and Subject Care review           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Unit fitted by A.C.T       | A.C.T handling breach                     | Report at highest level                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Unit energised in test     | A.C.T handling breach                     | Report; quarantine the unit               |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Damage worsens in store    | Handling or storage fault                 | Re-record; change storage                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+Rows four and five are the only faults in this table A.C.T can cause, and both are absolute breaches rather
+than errors of judgement. The device's defining property is that it works on a person, so fitting or energising one
+converts a hazard review into the abuse the review exists to document.
+
+
+KNOWN LIMITS
+
+- A.C.T holds two damaged units and no controller.
+- Power source, fastening, and control interface are undetermined.
+- Whether collars can be removed safely after long use is unresolved.
+- No unit has been tested, and none will be fitted to a person.
+- Duration tolerance has not been measured.
+- Whether the Authority has variants is unknown.
+
+
+FAILURE HISTORY
+
+NAME ASKED AFTER FITTING — RECORDED PRACTICE
+
+A recovered captive states that the Authority asked their name after the collar was fitted, and that a clerk recorded
+hazard where the captive said mechanic, on the grounds that mechanic was a use and not a status. A.C.T files
+this as evidence of the order in which the device is applied, and of the classification practice that follows it.
+
+IDENTITY NUMBNESS — CONFIRMED EFFECT
+
+The dossier records identity numbness alongside pain as an effect of the collar. A.C.T treats it as a confirmed effect
+rather than as a reported complaint, and records it in the captive's own words wherever a captive can give them.
+
+REMOVAL SAFETY — UNRESOLVED
+
+Whether a collar can be removed safely after long-term use is an open question in the dossier and remains open
+here. No removal procedure is published in this record, because publishing one would imply a safety A.C.T has not
+established.
+
+
+DIVISION USE
+
+- Containment: holds recovered units as active hazards.
+- Subject Care: attends every removal and leads captive aftercare.
+- Medical Care: records fitting-point injury and numbness.
+- Engineering: records what the damaged units do and do not show.
+- Intelligence: tracks issue patterns and possible variants.
+- Legal: uses collar evidence in charter and custody challenges.
+
+
+CROSS-REFERENCES
+
+- GOI-HY-X-072 — Iron Meridian Authority, Group of Interest Registry.
+- TECH-GOI-072-4 — Iron Meridian Black Ledger Prisoner Category Record, Technology Record.
+- TECH-GOI-072-3 — Iron Meridian Custody Train And Sealed Transport System, Technology Record.
+- TECH-GOI-071-1 — Mercy Lock Gentle Lock System, Technology Record.
+- WITNESS STATEMENT AND TESTIMONY FORM, Operational Form.
+- Restricted captive recovery and adversary-device case chains held under Central Archive routing.
+
+
+OPEN QUESTIONS
+
+- Can suppression collars be removed safely after long-term use?
+- Has Iron Meridian captured or copied technology from Mercy Lock Institute?
+- What operates the collar, and is the controller separable from the band?
+- Is identity numbness reversible, and over what interval?
+- Does the Authority issue variants for altered persons and for civilians?
+
+
+FILE METADATA
+
+Created: 2002-06-14
+Author Desk: Containment review / Intelligence Division / Central Archive
+Review Status: Active restricted recovered adversary device record; handling held at Level 5
+Next Review: After any new unit recovered, any captive removal, or any analysis advance

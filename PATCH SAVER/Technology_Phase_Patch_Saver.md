@@ -5611,3 +5611,81 @@ exact, 14 H2, 8 H3 and 1 H4 matching the 055-1 reference, 8 numbered steps, tabl
 **Next action.** Sets 061 to 070 and 072 to 074 still have no technology set (13 dossiers); 209 two-space
 orphan lines remain across sets 054, 056 and 071; 206 em-dash bullets remain in technology records;
 `docs/index.html` is still 0 bytes.
+## Prompt Log — 2026-10-21 19:06 UTC
+
+### Batch 40 - new technology set 072, Iron Meridian Authority
+
+Branch resolved at runtime with `git rev-parse --abbrev-ref HEAD`; no branch name is hardcoded in the
+saver or the tooling.
+
+**Why this set and not the next by number.** Batch order now follows the necessity review committed at
+`343f028` rather than the dossier numbering. `GOI-HY-X-072` is the first of the six dossiers that
+warrant a technology set: Dual Filing is MANDATORY, the dossier states in its own text that the
+Authority's technology requires later individual technology documents, and it names the five priority
+candidates that this set records - suppression collars, survey guns, custody trains, black ledgers, and
+restraint doors.
+
+| DESIGNATION | RECORD | SHORT | WORDS | CREATED | `NOT MEASURED` |
+| --- | --- | --- | --- | --- | --- |
+| `TECH-GOI-072-1` | Iron Meridian Suppression Collar And Restraint Harness | IMSCR | 2051 | 2002-06-14 | 2 |
+| `TECH-GOI-072-2` | Iron Meridian Survey Gun And Line Marker System | IMSGL | 2006 | 2004-03-08 | 3 |
+| `TECH-GOI-072-3` | Iron Meridian Custody Train And Sealed Transport System | IMCTS | 1894 | 2007-09-25 | 4 |
+| `TECH-GOI-072-4` | Iron Meridian Black Ledger Prisoner Category Record | IMBLP | 2001 | 2010-01-19 | 2 |
+| `TECH-GOI-072-5` | Iron Meridian Restraint Door And Hazard-Label Locking System | IMRDH | 2036 | 2013-05-30 | 2 |
+
+Set totals: 5 records, 10 files, 9988 words, 35 tables, 35 boxes, 40 operating steps, 13 `NOT MEASURED`
+cells across the whole set.
+
+**The `NOT MEASURED` count is the finding worth recording.** Sets 057 to 060 averaged roughly two such
+cells per table because their sources were legal and procedural institutions with nothing engineered to
+specify. This set averages 2.6 per record, and each instance marks a specific gap in A.C.T's own holdings
+rather than an absence of engineering in the source: no controller recovered for the collar, no survey gun
+recovered at all, photographs of a train interior rather than a vehicle, no ledger volume, no door unit.
+The dossier supports that reading directly - A.C.T holds two damaged collars, one warrant book, one
+tribunal audio fragment, and photographs of a custody train interior, with full technical analysis
+incomplete.
+
+**Purpose framing.** Each record is written as hazard review of a recovered adversary device, which is the
+purpose the necessity review identified from the dossier's own dual-filing language. Suppression collars
+are recorded as active hazards that must never be fitted to a person. The black ledger is recorded as
+evidence of persons rather than a prisoner index, with all seven Authority classifications transcribed
+verbatim and their adoption in any A.C.T record prohibited. The restraint door record states plainly that
+the only available bypass is a relabelling, and prohibits it absolutely because a relabelling is a false
+assertion about a person rather than a mechanical act.
+
+**Cross-reference to set 071.** The dossier asks whether Iron Meridian has captured or copied technology
+from Mercy Lock Institute, and whether some entities prefer Meridian custody because it concentrates
+fear, pain, or names inside a line. Both questions are carried into the open questions of the collar and
+door records, which links the two sets at the point where their doctrines oppose each other - the
+Authority's own phrase is written to be opposed to Mercy Lock doctrine.
+
+**Builder defects.** Twelve table cells exceeded the 26-character first column and were shortened before
+any file was written: `Subject Care protocol review` at 28, `Vehicles in Authority service` at 29,
+`Compartment clearance audit` at 27, `Classification adoption check` at 29, `Subject Care cross-reference`
+at 28, `Person not cross-referenced` at 27, `Unexplained opening register` at 28, `Bypass attempt
+prohibition brief` at 32, `Door opens, label unchanged` at 27, `Label adopted in A.C.T file` at 27,
+`Unit recovered unauthorised` at 27, and `State recorded without label` at 28. Two tail paragraphs naming
+shortened servicing rows were updated with them. The width guard in the rebuilt engine raised on the
+first of these before any write, and the full scan then found the other eleven, so the guard alone would
+have taken twelve passes to clear.
+
+**Tooling note.** The workspace had been reset again and `.arena` was empty, so the renderer, the width
+guard, the house-order guard, and the per-set validator were all re-authored this batch. The renderer is
+now a single module with the guards built into `build_all`, and it takes the record module as an argument,
+so a new set needs only its record file. One write failed because the module uses paths relative to the
+repository root and was invoked from inside `.arena`; the fix is to invoke it from the root with the
+module on `PYTHONPATH`.
+
+**Validation.** DOCUMENT_COUNT 958 to 968; `TECH_MD` 224 to 229 == `TECH_TXT` 229; multiH1 0;
+BELOW_200 0; EMPTY 0; bad-EOF 0; odd-fence 0; md-with-box 0; glued 0; date-violations 0 against the
+1598-2026 archive cycle; widest box line 118; `git diff --check` clean. Per record: house chapter order
+exact, 14 H2, 8 H3 and 1 H4 matching the 055-1 reference, 8 numbered steps, tables == boxes at 7,
+0 missing twin cells after wrapped columns are rejoined and header rows collected, 0 two-space lines,
+0 em-dash bullets, metadata dates 2002 to 2013 spanning the dossier's own 1999-2015 window.
+
+**Counters.** GOI dossiers with a technology set 18 of 30; `TECH-GOI` records 90; `TECH-ACT` 137 of 137.
+Dossiers still warranting a technology set: 073, 074, 069, 070, plus 068 to be decided.
+
+**Next action.** Build `GOI-HY-W-073` Lantern Accord, then `GOI-HY-N-074` Ninefold Ark, then `GOI-CU-X-069`
+Namewright Bazaar and `GOI-BS-W-070` Saint Morrow Passage. Do not build sets for 061 to 067; those
+dossiers route their assets to anomaly, medical, witness, and archive records instead.
