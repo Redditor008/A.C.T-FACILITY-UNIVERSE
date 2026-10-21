@@ -1,0 +1,331 @@
+A.C.T FACILITY ARCHIVE FILE
+TECHNOLOGY RECORD - BUREAU QUIET-LINE HOLD SEAL AND NONARRIVAL STAMP SET
+
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-057-1                                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| TECHNOLOGY NAME            | Bureau Quiet-Line Hold Seal And Nonarrival Stamp Set                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| SHORT NAME                 | QLHSS                                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | ACQUIRED BY RECOVERY / JURISDICTIONAL SEAL TECHNOLOGY / DOCUMENTARY HOLD SYSTEM       |
++----------------------------+---------------------------------------------------------------------------------------+
+| ORIGIN                     | BUREAU OF UNQUIET BORDERS (GOI-GV-W-057) / FOURTH GATE DESK AND TREATY SEAL OFFICE    |
++----------------------------+---------------------------------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Intelligence review with Legal liaison                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Intelligence, Legal, Recovery, Containment, Civil Covert, Central Archive             |
++----------------------------+---------------------------------------------------------------------------------------+
+| OPERATIONAL STATUS         | TWO INERT IMPRESSIONS HELD / ONE INCOMPLETE STAMP PAD HELD                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| RISK STATUS                | FOREIGN RECOGNITION / PREMATURE REMOVAL / DATE CONTRADICTION                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for impressions; Level 5 for any live seal application                        |
++----------------------------+---------------------------------------------------------------------------------------+
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted GOI-Acquired Seal Technology Record                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Intelligence, Legal, Recovery, Containment, Civil Covert, Command                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Intelligence review and Legal liaison, Central Archive custody                        |
++----------------------------+---------------------------------------------------------------------------------------+
+
+ARCHIVE NOTE
+
+This record covers the seal and stamp instruments by which the Bureau of Unquiet Borders places cargo, evidence, and
+disputed objects into a temporary legal state that ordinary customs vocabulary cannot express. The dossier names
+treaty seals that mark evidence as not yet arrived, stamp sets that display different dates under different light, and
+an incomplete quiet-line stamp pad. A.C.T holds two inert seal impressions and one incomplete pad. No active seal set
+has been recovered, and no application manual exists in A.C.T custody.
+
+The technical problem the seal solves is that a customs system admits only two answers about an object: arrived or
+not arrived. A container that reaches a port before the ship carrying it fits neither, and a database that rejects
+the case leaves the object ownerless in practice even while it sits in a warehouse. The Bureau's instrument asserts a
+third state. The recovered customs tag fragment states it as three negations: cargo not arrived, cargo not absent,
+cargo not ownerless, held until the third manifest stops naming the dead importer. That third state is the whole
+function of the seal, and it is the reason A.C.T cannot substitute an ordinary impound tag for it.
+
+The second hazard is recognition without understanding. The dossier records that some seals may be recognized by
+foreign authorities even when A.C.T does not understand them, so appropriation of an active Bureau tool requires legal
+review before handling, not after. An inert impression in a Central Archive drawer is evidence; the same impression
+pressed onto a crate at a live border is a legal act performed by an institution A.C.T does not command.
+
+Controlled label: QUIET-LINE NONARRIVAL SEAL RULE.
+
+Core handling rule:
+
+A NONARRIVAL SEAL ASSERTS A THIRD STATE: NOT ARRIVED, NOT ABSENT, NOT OWNERLESS.
+NO SEALED OBJECT LEAVES CUSTODY BEFORE THE HOLD EXPIRES OR LEGAL REVIEW RELEASES IT.
+
+
+FUNCTION SUMMARY
+
+The quiet-line hold seal places a physical object into a documented interim custody state when the crossing that
+produced it cannot be resolved by ordinary arrival paperwork. It is applied to cargo, sealed crates, evidence bundles,
+and disputed transfer items. Its output is not a measurement but a status: the object is held, named, and legally
+non-ownerless until a condition in the hold notice is satisfied.
+
+- asserts interim custody without asserting arrival or absence;
+- survives database rejection, because the hold lives on paper and on the object itself;
+- travels with the object across jurisdictions, which an A.C.T internal tag cannot do;
+- makes premature removal a legal contradiction rather than a handling error.
+
+The stamp set is the date-bearing half of the same instrument. The dossier records stamp sets that display different
+dates under different light, and a traveler carrying a stamp dated after the interview. A.C.T has not determined
+whether the shifting date is a security feature, a production artefact, or a property of the crossings the stamps are
+used on. It is therefore recorded as an observed behaviour with no confirmed mechanism.
+
+
+ORIGIN AND CUSTODY
+
+Origin is the Bureau of Unquiet Borders, specifically the Fourth Gate Desk and the treaty seal office that issues
+quiet-line instruments. A.C.T recovered two inert seal impressions and one incomplete quiet-line stamp pad. The
+dossier does not state where the recovery took place, whether the impressions were surrendered or left behind, or how
+many seal designs the Bureau holds in total.
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| FIELD                      | VALUE                                                                                 |
++============================+=======================================================================================+
+| RECOVERED ITEMS            | 2 inert seal impressions, 1 incomplete stamp pad                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| RECOVERY CHANNEL           | Not stated in dossier - open question                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| ACTIVE SETS HELD           | None                                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| APPLICATION MANUAL         | None recovered                                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| LEGAL STATUS               | Appropriation requires legal review before handling                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| CUSTODY ROUTE              | Recovery escort to Central Archive restricted holding                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The operative row is the legal status row. Because a Bureau seal may carry authority A.C.T cannot read, the recovery
+channel matters: an impression obtained without a documented transfer cannot be proven to have left Bureau authority,
+and cannot be used to justify any hold A.C.T applies later.
+
+
+PHYSICAL OR SYSTEM DESCRIPTION
+
+The instrument has two physical parts. The seal is a pressed impression, held in inert form, whose matrix and material
+are not recorded in the dossier. The stamp set is an ink-bearing pad assembly, recovered incomplete, which the dossier
+associates with date display that changes under different light.
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| COMPONENT                  | DESCRIPTION                                                                           |
++============================+=======================================================================================+
+| Seal impression            | Pressed mark, inert, matrix material not recorded                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Stamp pad assembly         | Recovered incomplete; pad count and ink type not recorded                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Date layer                 | Displays different dates under different light                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Hold notice                | Paper document naming checkpoint, subjects, and status                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Customs tag                | Paper tag carrying the three-negation hold text                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Ledger entry               | Paper or microfilm line recording the hold and its expiry                             |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The operative component is the hold notice, not the seal. The seal marks the object; the notice is what makes
+the mark meaningful, because it carries the condition under which the hold ends. An impression without its notice is
+an unexplained mark, which is exactly the state A.C.T is trying to avoid creating.
+
+
+TECHNICAL SPECIFICATION
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| PARAMETER                  | RECORDED VALUE                                                                        |
++============================+=======================================================================================+
+| Hold class                 | Temporary legal nonarrival, paper-borne                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Asserted states            | Not arrived / not absent / not ownerless                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Substrate                  | Paper tag, crate surface, evidence wrap                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Date behaviour             | Differs under different light - cause NOT MEASURED                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Hold duration              | Case-specific; one recorded A.C.T hold ran 58 minutes                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Expiry authority           | Bureau desk issuing the notice                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Database dependency        | None; hold survives database rejection                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Recognised abroad          | Assessed yes for some seals - unverified by A.C.T                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Reproduced by A.C.T        | No - fabrication prohibited pending legal review                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Service life               | NOT MEASURED - no active set held                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The governing row is the asserted-states row. Everything else in the table describes how the state is carried; only
+that row describes what the instrument does. A.C.T has no equivalent instrument, because an A.C.T impound tag can only
+record that A.C.T holds something, not that the object has not yet legally arrived anywhere.
+
+
+INTERFACE AND OPERATING ENVELOPE
+
+Seal Reading Controls
+
+- read the hold notice before reading the impression;
+- record the issuing desk and the checkpoint name as printed, censored or not;
+- record the expiry condition in the notice, never an assumed interval;
+- compare the impression against the two held reference impressions only;
+- photograph the seal under the light in which it was found.
+
+Seal Readouts
+
+- date shown under incident light, recorded as observed, not corrected;
+- date shown under archive light, recorded separately;
+- subjects named in the notice, including objects held as subjects;
+- hold status phrase, copied verbatim rather than paraphrased;
+- presence or absence of a matching ledger line.
+
+Handling Limits And Weaknesses
+
+- no A.C.T officer may press a Bureau seal onto any object;
+- removal before expiry is a legal contradiction, not a handling choice;
+- light-dependent dates cannot be reconciled by choosing one reading;
+- an incomplete pad cannot establish which seals the Bureau issues;
+- recognition by a foreign authority is not evidence of A.C.T authority.
+
+
+OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+This sequence applies when A.C.T encounters a Bureau-sealed object during a border incident. It assumes no A.C.T
+authority to release the hold.
+
+1. Stop handling. Do not open, move, or re-tag the sealed object.
+2. Locate the hold notice and record the issuing desk verbatim.
+3. Record checkpoint name, subjects, and stated status without paraphrase.
+4. Photograph the impression under found light, then under archive light.
+5. Record both displayed dates as separate observations.
+6. Request the matching ledger line from the issuing desk.
+7. Notify Legal liaison before any transfer, sampling, or opening request.
+8. Hold in place until expiry or written Bureau release, and log elapsed time.
+
+
+SERVICING AND CALIBRATION
+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| TASK                       | INTERVAL AND CONDITION                                                                |
++============================+=======================================================================================+
+| Reference impression check | Annual, and after any transfer of custody                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| Pad completeness review    | On receipt, and after any handling incident                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Light-response re-read     | After any change of storage lighting                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Ledger reconciliation      | On every new hold notice received                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Legal review refresh       | Before any request to apply or copy a seal                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Custody route audit        | After any joint custody arrangement ends                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The light-response re-read is the row that matters. Because the displayed date depends on illumination, a record made
+under one lighting condition cannot be compared to a record made under another. Re-reading after a lighting change is
+what keeps two observations of the same seal from being filed as a contradiction.
+
+
+FAULT ISOLATION
+
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| OBSERVED FAULT             | ASSESSED CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Date differs between reads | Light-dependent date layer                | Record both; do not reconcile             |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Notice missing from object | Separation during transfer                | Treat mark as unexplained                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Stamp dated post-interview | Known Bureau contradiction                | Refer to issuing desk                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Ledger line absent         | Database rejected the case                | Request paper line                        |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Impression matches none    | Unknown seal design                       | Level 5 review before handling            |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Object moved before expiry | A.C.T handling breach                     | Report as legal contradiction             |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+The final row is the one A.C.T can actually cause. Every other fault originates with the instrument or with the
+crossing. Moving a sealed object before its hold expires is the only entry in this table that A.C.T personnel produce
+themselves, and the dossier raises it directly as a persistent question rather than as a settled procedure.
+
+
+KNOWN LIMITS
+
+- A.C.T holds no active seal set and cannot apply the instrument itself.
+- The seal matrix material and the ink composition are not recorded.
+- The number of seal designs in Bureau use is unknown.
+- Whether a seal creates legal status or only preserves failing status is unresolved.
+- No A.C.T test has been run on a sealed object, because removal is prohibited.
+- The 58-minute hold is a single recorded case, not a service interval.
+
+
+FAILURE HISTORY
+
+PREMATURE REMOVAL — PROHIBITED, UNTESTED
+
+The dossier asks what happens if A.C.T removes an object marked NONARRIVAL PENDING before the hold expires. A.C.T has
+not tested this and will not. The question is recorded here as the reason step 1 of the operating sequence
+is a stop rather than an assessment.
+
+POST-INTERVIEW DATE — RECORDED CONTRADICTION
+
+A traveler was recorded carrying a stamp dated after the interview in which the stamp was described. The dossier
+treats this as a normal trigger for Bureau intervention rather than as a malfunction. A.C.T files it as evidence that
+the date layer is not a reliable chronological reference.
+
+INCOMPLETE PAD — STANDING CONDITION
+
+The recovered stamp pad is incomplete. A.C.T cannot enumerate the seals the Bureau issues from it, so any impression
+that does not match the two held references must be escalated rather than classified. This condition will not clear
+until a complete set is surrendered.
+
+
+DIVISION USE
+
+- Intelligence: reads hold notices and reconciles them against crossing records.
+- Legal liaison: authorises any handling that touches a live seal.
+- Recovery: escorts sealed objects and records custody legs.
+- Containment: treats a sealed object as jurisdictionally held, not contained.
+- Civil Covert: prevents the hold from entering public explanation.
+- Central Archive: keeps reference impressions and the light-response log.
+
+
+CROSS-REFERENCES
+
+- GOI-GV-W-057 — Bureau of Unquiet Borders, Group of Interest Registry.
+- TECH-GOI-057-3 — Bureau Sealed Crossing Ledger And Paper Transfer Slip System, Technology Record.
+- TECH-GOI-057-2 — Bureau Quiet-Line Station And Grey Holding Room Architecture, Technology Record.
+- ACCESS AND EGRESS LEDGER FORM, Operational Form.
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry.
+- Restricted customs tag and nonarrival case chains held under Central Archive routing.
+
+
+OPEN QUESTIONS
+
+- What happens if A.C.T removes an object marked NONARRIVAL PENDING before the hold expires?
+- Do Bureau seals create temporary legal status, or only preserve status that would otherwise fail?
+- How many seal designs are in Bureau service, and are any recognisable by A.C.T personnel?
+- Where were the two inert impressions recovered, and were they surrendered or left behind?
+- Is the light-dependent date a designed security feature or a property of the crossing?
+
+
+FILE METADATA
+
+Created: 1982-03-11
+Author Desk: Intelligence review / Recovery Division / Central Archive
+Review Status: Active restricted GOI-acquired seal technology record; live seal application held at Level 5
+Next Review: After any new impression recovery, any hold notice received, or any legal review change

@@ -1,0 +1,277 @@
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - BUREAU SEALED CROSSING LEDGER AND PAPER TRANSFER SLIP SYSTEM
+
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-057-3 |
+| TECHNOLOGY NAME | Bureau Sealed Crossing Ledger And Paper Transfer Slip System |
+| SHORT NAME | SCLTS |
+| TECHNOLOGY FAMILY | ACQUIRED BY RECOVERY / DOCUMENTARY PERSISTENCE TECHNOLOGY / PAPER LEDGER SYSTEM |
+| ORIGIN | BUREAU OF UNQUIET BORDERS (GOI-GV-W-057) / QUIET-LINE STATIONS AND CENTRAL LEDGER DESK |
+| PRIMARY CONTROLLER | Central Archive with Intelligence review |
+| ATTACHED DIVISIONS | Central Archive, Intelligence, Legal, Recovery, Containment, Civil Covert |
+| OPERATIONAL STATUS | ONE CUSTOMS TAG FRAGMENT HELD / ORIGINAL INK PERSISTS |
+| RISK STATUS | PHOTOCOPY DESTRUCTION / DATABASE REJECTION / INK PERSISTENCE |
+| CLEARANCE REQUIRED | Level 4 for fragments; Level 5 for any duplication request |
+
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted GOI-Acquired Ledger Technology Record |
+| DISTRIBUTION | Central Archive, Intelligence, Legal, Recovery, Containment, Command |
+| AUTHORITY | Central Archive and Intelligence review, restricted holding |
+
+#### Archive Note
+
+This record covers the paper and microfilm record system by which the Bureau of Unquiet Borders preserves transfer
+slips, crossing ledgers, and customs tags when a national database refuses the case. The dossier names sealed crossing
+ledgers kept on paper and microfilm, preserved paper transfer slips, and a customs tag fragment held by A.C.T whose
+third manifest dissolved after photocopying while the original ink persisted. A.C.T holds that fragment and no ledger
+volume.
+
+The system's technical claim is narrow and testable in principle: the paper line persists where the electronic record
+does not. The dossier supports this directly, recording that Bureau officers preserve paper transfer slips when
+databases reject the case. What A.C.T cannot yet separate is cause from consequence. A database may reject a case
+because the crossing is contradictory, or the crossing may become contradictory because the case was rejected. Both
+readings are consistent with the record, and neither is confirmed.
+
+The behaviour that governs handling is the photocopy result. The third manifest dissolved after photocopying; the
+original ink persists. A.C.T therefore treats duplication as a destructive act on the copy rather than as a
+preservation measure, and the operating sequence forbids copying in order to protect a document. This is the reverse
+of standard archive practice and is the single most important line in this record.
+
+Controlled label: **SEALED CROSSING LEDGER DUPLICATION RULE**.
+
+Core handling rule:
+
+```text
+THE PAPER LINE IS THE RECORD. THE DATABASE IS A COPY THAT MAY BE REFUSED.
+PHOTOCOPYING A SEALED MANIFEST DESTROYS THE COPY, NOT THE ORIGINAL. NEVER COPY TO PRESERVE.
+```
+
+---
+
+## FUNCTION SUMMARY
+
+The sealed crossing ledger keeps a crossing's legal history in a form that survives rejection by every electronic
+system that would normally hold it. Each crossing receives a line; each transfer receives a slip; each disputed object
+receives a tag. The system exists so that no case becomes ownerless because a database refused to store it.
+
+- preserves a transfer slip when a database rejects the case;
+- keeps a custody chain readable across two or more jurisdictions;
+- carries the hold condition alongside the object it governs;
+- survives the dissolution of its own photocopies;
+- gives a family-notification form a source it can cite.
+
+A.C.T operates an equivalent function through Central Archive, but A.C.T's system assumes the electronic record is
+primary and paper is backup. The Bureau's system assumes the opposite. That inversion is the whole technical
+difference, and it is why an A.C.T digitisation request against a Bureau ledger is not a neutral act.
+
+---
+
+## ORIGIN AND CUSTODY
+
+| FIELD | VALUE |
+|---|---|
+| Items held | One customs tag fragment |
+| Ledger volumes held | None |
+| Microfilm held | None |
+| Ink condition | Original ink persists |
+| Copy condition | Third manifest dissolved after photocopying |
+| Custody status | Under review; not released to general archive |
+
+The operative row is the copy-condition row. A.C.T holds the fragment because the original survived and the copy did
+not. Had the copy been filed as the working record, A.C.T would hold nothing at all, and the case would
+have no documentary basis.
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+| COMPONENT | DESCRIPTION |
+|---|---|
+| Crossing ledger | Bound paper volume; format not recovered |
+| Microfilm stock | Named in dossier; none held by A.C.T |
+| Transfer slip | Single-sheet paper record of one custody leg |
+| Customs tag | Paper tag carrying the three-negation hold text |
+| Ink layer | Original ink persists after copy dissolution |
+| Hold notice | Paper document naming checkpoint and subjects |
+
+The ink layer is the only component A.C.T has physically examined, and only in the sense that it was observed
+to persist. Ink composition, paper stock, and binding are not recorded. The record deliberately does not speculate
+about why the original survives, because the dossier does not say.
+
+---
+
+## TECHNICAL SPECIFICATION
+
+| PARAMETER | RECORDED VALUE |
+|---|---|
+| Primary medium | Paper, with microfilm as secondary |
+| Electronic dependency | None; system assumes database rejection |
+| Copy behaviour | Photocopy of third manifest dissolved |
+| Original behaviour | Ink persists after copy dissolution |
+| Slip retention | Indefinite in Bureau practice; NOT MEASURED by A.C.T |
+| Redaction | Checkpoint names censored in some notices |
+| Language coverage | Includes languages spoken by no current state |
+| Duplication policy | Prohibited as a preservation measure |
+| A.C.T equivalent | Central Archive paper backup, electronic primary |
+| Volumes in Bureau service | Unknown |
+
+The governing row is the duplication-policy row. Every other row describes what the ledger is; this row describes what
+an A.C.T archiver must not do with it. Copying to preserve is standard practice everywhere else in the archive and
+is forbidden here.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Ledger Reading Controls
+
+- read the original; never read from a copy of a sealed manifest;
+- record censored fields as censored, without attempting restoration;
+- record the language of each field as printed, including unknown scripts;
+- note the ink condition before and after handling;
+- request the ledger line by hold notice number, not by date.
+
+### Ledger Readouts
+
+- crossing line, copied verbatim into the A.C.T case file;
+- transfer slip chain, listed leg by leg with named authorities;
+- hold condition and its expiry, as stated on the tag;
+- any manifest that no longer exists, recorded as absent by name;
+- any field whose language is not attributable to a current state.
+
+### Handling Limits And Weaknesses
+
+- no photocopy, scan, or photograph of a sealed manifest for preservation;
+- no digitisation request without Legal liaison approval;
+- no restoration of censored checkpoint names;
+- no assumption that an absent manifest is a filing error;
+- no removal of a fragment from restricted holding for convenience.
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Applies when A.C.T receives or reads a Bureau ledger line, transfer slip, or customs tag.
+
+```text
+1. Confirm the item is an original and not a copy before reading.
+2. Record ink condition, paper condition, and any censored field.
+3. Transcribe by hand into the A.C.T case file; do not photocopy.
+4. List every transfer leg with the authority named on the slip.
+5. Record the hold condition and expiry exactly as the tag states them.
+6. Note any manifest referenced but no longer extant, by name.
+7. Flag any field in a language attributable to no current state.
+8. Return the item to restricted holding and log handling time.
+```
+
+---
+
+## SERVICING AND CALIBRATION
+
+| TASK | INTERVAL AND CONDITION |
+|---|---|
+| Ink condition inspection | Annual, and after any handling |
+| Transcription verification | After every new ledger line received |
+| Fragment custody audit | On every change of holding location |
+| Absent-manifest review | Annual |
+| Duplication briefing | Before any new archivist is assigned |
+| Legal review refresh | Before any digitisation request |
+
+The absent-manifest review is the row that carries the system's logic forward. A manifest that dissolved is still part
+of the custody chain, and recording its absence by name each year is what keeps the chain complete in the
+only form the Bureau recognises.
+
+---
+
+## FAULT ISOLATION
+
+| OBSERVED FAULT | ASSESSED CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Copy dissolves on making | Known Bureau behaviour | Discard copy; keep original |
+| Database rejects the case | Contradictory crossing | Use paper line as primary |
+| Checkpoint name censored | Treaty redaction | Record as censored |
+| Field in unknown script | Stateless language coverage | Refer to Bureau translator |
+| Manifest absent | Prior dissolution | Record absence by name |
+| Fragment handled unlogged | A.C.T handling breach | Report; re-inspect ink |
+
+The first row is the fault that defines the system. An archiver who treats a dissolving copy as a copying
+failure will retry the copy, and each retry produces another loss. The required action is to stop copying, which is
+why the core handling rule states it as a prohibition.
+
+---
+
+## KNOWN LIMITS
+
+- A.C.T holds one fragment and no ledger volume or microfilm.
+- Ink and paper composition are not recorded.
+- Why the original persists while the copy dissolves is unconfirmed.
+- Whether all manifests behave this way, or only the third, is unknown.
+- No A.C.T test has been run, because testing requires making a copy.
+- The number of ledger volumes in Bureau service is unknown.
+
+---
+
+## FAILURE HISTORY
+
+### THIRD MANIFEST DISSOLUTION — RECORDED LOSS
+
+The customs tag fragment remains under review because the third manifest dissolved after photocopying while the
+original ink persisted. A.C.T records this as a loss with a surviving source, not as a copy failure. The dissolution
+is the reason the duplication prohibition exists.
+
+### DATABASE REJECTION — STANDING CONDITION
+
+Bureau practice preserves paper transfer slips specifically when databases reject a case. A.C.T has no record of a
+Bureau crossing being accepted into a national database. Until one is observed, rejection is treated as the normal
+condition of the system rather than as an exception.
+
+### UNKNOWN SCRIPT — UNRESOLVED
+
+The Bureau employs translators trained for languages spoken by no current state. A field written in such a language
+cannot be verified by A.C.T and cannot be transcribed with confidence. Any such field is filed untranslated with its
+script described.
+
+---
+
+## DIVISION USE
+
+- Central Archive: holds the fragment and the absent-manifest register.
+- Intelligence: reconciles ledger lines against crossing records.
+- Legal liaison: approves or refuses any digitisation request.
+- Recovery: matches transfer slips to escorted custody legs.
+- Containment: reads the hold condition before acting on any object.
+- Civil Covert: keeps censored checkpoint names out of public explanation.
+
+---
+
+## CROSS-REFERENCES
+
+- GOI-GV-W-057 — Bureau of Unquiet Borders, Group of Interest Registry.
+- TECH-GOI-057-1 — Bureau Quiet-Line Hold Seal And Nonarrival Stamp Set, Technology Record.
+- TECH-GOI-057-4 — Bureau Custody Vehicle Interchangeable State Plate System, Technology Record.
+- GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry.
+- ACCESS AND EGRESS LEDGER FORM, Operational Form.
+- Restricted customs and extradition case chains held under Central Archive routing.
+
+---
+
+## OPEN QUESTIONS
+
+- Does every sealed manifest dissolve when copied, or only the third in a set?
+- Is ink persistence a property of the ink, the paper, or the crossing recorded on it?
+- How many ledger volumes exist, and is there a central ledger desk?
+- Which languages spoken by no current state appear in Bureau fields?
+- Has any Bureau crossing ever been accepted into a national database?
+
+---
+
+## FILE METADATA
+
+- **Created:** 1984-07-19
+- **Author Desk:** Intelligence review / Recovery Division / Central Archive
+- **Review Status:** Active restricted GOI-acquired ledger record; duplication held at Level 5
+- **Next Review:** After any new fragment, any ledger line received, or any dissolution event

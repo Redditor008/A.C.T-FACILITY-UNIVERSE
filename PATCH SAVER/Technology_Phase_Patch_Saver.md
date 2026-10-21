@@ -5369,3 +5369,58 @@ shape for plain-text twins elsewhere in the corpus and was not examined file by 
 **Next action.** GOI sets 057 to 070 and 072 to 074 have no technology set (17 of 34 dossiers); 209
 two-space orphan continuation lines remain across sets 054, 056 and 071; 206 em-dash bullets remain in
 technology records; `docs/index.html` is still 0 bytes.
+## Prompt Log — 2026-10-21 17:30 UTC
+
+### Batch 36 - new technology set 057, Bureau of Unquiet Borders
+
+Branch resolved at runtime with `git rev-parse --abbrev-ref HEAD`; no branch name is hardcoded in the
+saver or the tooling.
+
+**Action taken.** Built a complete five-record technology set for `GOI-GV-W-057`, Bureau of Unquiet
+Borders, in both formats. Each record carries the full house shape: 14 level-two chapters in house order,
+7 level-three sections plus the level-four archive note, a 10-row registry table, a 3-row archive table,
+a controlled label, a two-line core handling rule, 7 tables rendered as 7 boxes in the `.txt` twin at
+exactly 118 characters, an eight-step numbered operating sequence, and a dated metadata block.
+
+| DESIGNATION | RECORD | SHORT | WORDS | CREATED |
+| --- | --- | --- | --- | --- |
+| `TECH-GOI-057-1` | Bureau Quiet-Line Hold Seal And Nonarrival Stamp Set | QLHSS | 2363 | 1982-03-11 |
+| `TECH-GOI-057-2` | Bureau Quiet-Line Station And Grey Holding Room Architecture | QLSRA | 2117 | 1983-09-14 |
+| `TECH-GOI-057-3` | Bureau Sealed Crossing Ledger And Paper Transfer Slip System | SCLTS | 2041 | 1984-07-19 |
+| `TECH-GOI-057-4` | Bureau Custody Vehicle Interchangeable State Plate System | CVIPS | 2055 | 1987-11-30 |
+| `TECH-GOI-057-5` | Bureau Treaty Corridor Routing Map And Removed-Road Atlas | TCRMA | 2112 | 1990-02-06 |
+
+Set totals: 5 records, 10 files, 10688 words, 35 tables, 35 boxes, 40 operating steps.
+
+**Source discipline.** Every technical claim is drawn from the dossier's named assets and instructions:
+treaty seals marking evidence as not yet arrived, stamp sets displaying different dates under different
+light, the recovered customs tag fragment whose third manifest dissolved after photocopying while the
+original ink persisted, quiet-line stations hidden inside customs facilities, grey holding rooms absent
+from public floor plans, border-health rooms for wrong-place sickness, custody vehicles with
+interchangeable state plates, corridor maps including roads removed from official atlases, and the two
+standing instructions about the older bridge and about not asking a traveler their origin until the map
+stops moving. Nothing was invented to fill a table cell; unmeasured properties are written as
+`NOT MEASURED`, and the dossier's own persistent questions are carried into each record's open questions.
+
+**Builder defects found and corrected before shipping.** Five faults were caught by assertion or by
+dry run and fixed: eleven table cells exceeded the 26-character first column (five fault rows and six
+servicing rows) and were shortened; `box()` was being called with two-column widths for three-column
+fault tables; an augmented assignment inside the nested chapter renderer made the accumulator local and
+raised `UnboundLocalError`; and the `.txt` renderer was indenting level-three headings and bullets with
+two spaces, which would have shipped 80 new orphan continuation lines against a canonical twin that
+carries zero. The last one was caught only because the validator counted two-space lines against the
+055-1 reference rather than against itself.
+
+**Validation.** DOCUMENT_COUNT 917 to 927; `TECH_MD` 204 to 209 == `TECH_TXT` 209; `GOI_MD` 34 ==
+`GOI_TXT` 34; multiH1 0; BELOW_200 0; EMPTY 0; bad-EOF 0; odd-fence 0; md-with-box 0; glued 0;
+date-violations 0 against the 1598-2026 archive cycle; widest box line 118; `git diff --check` clean.
+Per record: house chapter order exact, 14 H2, 8 H3 and 1 H4 matching the 055-1 reference, 8 numbered
+steps, tables == boxes at 7, 0 missing twin cells after wrapped columns are rejoined and header rows
+collected, 0 two-space lines, 0 em-dash bullets, metadata dates 1982 to 1990 inside the dossier's own
+1981-1986 creation window and its aftermath.
+
+**Counters.** GOI dossiers with a technology set 14 of 30; `TECH-GOI` records 70; `TECH-ACT` 137 of 137.
+
+**Next action.** Sets 058 to 070 and 072 to 074 still have no technology set (16 dossiers); 209 two-space
+orphan lines remain across sets 054, 056 and 071; 206 em-dash bullets remain in technology records;
+`docs/index.html` is still 0 bytes.

@@ -1,0 +1,283 @@
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - BUREAU QUIET-LINE STATION AND GREY HOLDING ROOM ARCHITECTURE
+
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-057-2 |
+| TECHNOLOGY NAME | Bureau Quiet-Line Station And Grey Holding Room Architecture |
+| SHORT NAME | QLSRA |
+| TECHNOLOGY FAMILY | ACQUIRED BY OBSERVATION / CONCEALMENT ARCHITECTURE / RECOGNITION SUPPRESSION SYSTEM |
+| ORIGIN | BUREAU OF UNQUIET BORDERS (GOI-GV-W-057) / QUIET-LINE STATIONS AND BORDER HEALTH ROOMS |
+| PRIMARY CONTROLLER | Civil Covert review with Intelligence Division |
+| ATTACHED DIVISIONS | Civil Covert, Intelligence, Medical Care, Recovery, Containment, Central Archive |
+| OPERATIONAL STATUS | STATIONS OBSERVED IN SITU / NO ROOM IN A.C.T CUSTODY |
+| RISK STATUS | FLOOR-PLAN ABSENCE / PREMATURE QUESTIONING / WRONG-PLACE SICKNESS |
+| CLEARANCE REQUIRED | Level 4 for station observation; Level 5 for interior access |
+
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted GOI-Acquired Architecture Technology Record |
+| DISTRIBUTION | Civil Covert, Intelligence, Medical Care, Recovery, Containment, Command |
+| AUTHORITY | Civil Covert review and Intelligence Division, Central Archive custody |
+
+#### Archive Note
+
+This record covers the built environment the Bureau of Unquiet Borders operates inside ordinary border facilities:
+quiet-line stations hidden within customs buildings, grey holding rooms that do not appear on public floor plans,
+checkpoint rooms sealed from public recognition during interviews, and border-health rooms used for wrong-place
+sickness. The dossier records that A.C.T recovered no room and holds no plan. Everything below is derived from
+observation during a single documented hold, from the station's visible behaviour, and from the Bureau's own operating
+instructions.
+
+The technical property worth recording is that the concealment is representational before it is physical. A grey
+holding room is absent from the plan, and the dossier does not claim it is absent from the building. A.C.T
+therefore treats the defect as a document problem: a search conducted against a public floor plan will not find the
+room, while a search conducted against the building will. This distinction governs the operating sequence, which
+begins with the plan rather than the corridor.
+
+The second property is that the room changes what may be said inside it. The recorded hold notice permits A.C.T
+to observe an interview from behind glass but forbids containment questions until citizenship stabilizes. The room is
+therefore also a procedural boundary, and an A.C.T officer who treats it as merely a quiet space will breach the
+hold without touching anything.
+
+Controlled label: **GREY HOLDING ROOM RECOGNITION RULE**.
+
+Core handling rule:
+
+```text
+A GREY ROOM IS ABSENT FROM THE PLAN, NOT FROM THE BUILDING. SEARCH THE PLAN, NOT THE WALL.
+NO CONTAINMENT QUESTION IS ASKED THROUGH THE GLASS UNTIL CITIZENSHIP STABILIZES.
+```
+
+---
+
+## FUNCTION SUMMARY
+
+A quiet-line station provides a place where a crossing that produced a contradiction can be slowed, documented, and
+resolved without either country having to admit the contradiction publicly. It houses the desk, the holding space, the
+interview glass, and the health room used when a traveler arrives sick from a place that cannot be named.
+
+- holds a traveler between jurisdictions until identity stabilizes;
+- keeps the hold out of public floor plans and therefore out of public inquiry;
+- provides an observation position that does not make the observer a party to the interview;
+- supplies a medical space for wrong-place sickness without a diagnosis route;
+- lets the Bureau complete paperwork that a national database would reject.
+
+A.C.T has no equivalent space. An A.C.T interview room is on an A.C.T plan, is entered under A.C.T authority, and
+produces a record A.C.T owns. The quiet-line station produces a record that two jurisdictions can both accept, which
+is the function A.C.T cannot replicate.
+
+---
+
+## ORIGIN AND CUSTODY
+
+Origin is the Bureau of Unquiet Borders. The dossier states that quiet-line stations are hidden inside ordinary
+customs facilities and that the number of active stations is an open intelligence question. A.C.T holds no plan, no
+key, and no room.
+
+| FIELD | VALUE |
+|---|---|
+| Rooms in A.C.T custody | None |
+| Plans recovered | None |
+| Station count | Unknown - open intelligence question |
+| Observation basis | One documented 58-minute hold |
+| Interior access | Not granted; Level 5 if ever granted |
+| Physical samples held | None |
+
+The operative row is the observation-basis row. Every structural claim in this record rests on one hold and on the
+Bureau's own instructions. A second observation at a different station should be treated as new evidence rather than
+as confirmation.
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+| ELEMENT | RECORDED PROPERTY |
+|---|---|
+| Station shell | Inside an ordinary customs facility; no external marking recorded |
+| Grey holding room | Absent from public floor plan; interior not recorded |
+| Interview glass | One-way observation position for A.C.T observers |
+| Border-health room | Used for wrong-place sickness; no diagnosis route recorded |
+| Recognition seal | Room sealed from public recognition during interviews |
+| Desk position | Fourth Gate Desk named in the recorded hold notice |
+
+The recognition seal is the least understood element. The dossier says the Bureau seals a checkpoint room from public
+recognition during interviews, without stating whether the seal is architectural, documentary, or anomalous. A.C.T
+records it as an observed capability with no confirmed mechanism and no test route, because testing it would require
+entering the room during an interview.
+
+---
+
+## TECHNICAL SPECIFICATION
+
+| PARAMETER | RECORDED VALUE |
+|---|---|
+| Concealment mode | Absence from public floor plan |
+| Physical concealment | NOT MEASURED - interior never accessed |
+| Recognition suppression | Confirmed during interviews; mechanism NOT MEASURED |
+| Observation provision | One-way glass, observer excluded from questioning |
+| Medical provision | Border-health room for wrong-place sickness |
+| Capacity | NOT MEASURED |
+| Signage | None recorded; station is unmarked from outside |
+| Plan revision history | Not available to A.C.T |
+| Station count in service | Unknown |
+| A.C.T equivalent | None - A.C.T rooms are plan-listed and A.C.T-owned |
+
+The governing row is the concealment-mode row. Because the room is missing from the plan rather than from the
+building, a search keyed to documentation fails while a search keyed to structure succeeds. A.C.T field teams have
+been briefed accordingly, and the operating sequence opens with the plan for that reason.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Station Approach Controls
+
+- request the station through the issuing desk, never by corridor search;
+- carry the hold notice number, not a containment authority;
+- enter as an observer, with questioning rights deferred;
+- record the desk name and the checkpoint name as printed;
+- leave medical assessment to the border-health room unless life is at risk.
+
+### Station Readouts
+
+- whether the room appears on any plan held by A.C.T;
+- the stated hold status phrase, copied verbatim;
+- elapsed hold time, recorded to the minute;
+- which jurisdiction is named as receiving the subject;
+- whether citizenship is recorded as stable or stabilizing.
+
+### Handling Limits And Weaknesses
+
+- no containment question through the glass before citizenship stabilizes;
+- no photograph of the interior without desk permission;
+- no reliance on public floor plans for search or evacuation routing;
+- no A.C.T assumption that the room is on an A.C.T site plan;
+- no medical transfer out of the health room without a named receiving authority.
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Applies when A.C.T is admitted to a quiet-line station during a Bureau hold.
+
+```text
+1. Confirm the hold notice number with the issuing desk before entry.
+2. Establish the observation position and confirm questioning is deferred.
+3. Record the checkpoint name and subjects exactly as the notice states them.
+4. Start an elapsed-time log at the moment of admission.
+5. Observe without speaking; log identity statements as heard, not as assessed.
+6. Wait for the citizenship-stable statement before any containment question.
+7. Request the paper ledger line for the hold before leaving.
+8. Log exit time, total hold duration, and any medical room use.
+```
+
+---
+
+## SERVICING AND CALIBRATION
+
+| TASK | INTERVAL AND CONDITION |
+|---|---|
+| Plan comparison review | Annual, against any A.C.T plan covering the site |
+| Observation-log audit | After every admitted hold |
+| Elapsed-time log check | After every hold, against the desk's own record |
+| Medical route confirmation | Before any hold involving a sick traveler |
+| Briefing refresh | Before any new field team is admitted |
+| Legal posture review | After any change in Bureau cooperation |
+
+The plan comparison review is the row that keeps this record honest. Since A.C.T holds no station plan, the review
+can only confirm that the room is still absent from A.C.T documentation. Recording that negative result each year is
+what stops an assumption of familiarity forming around a space nobody has measured.
+
+---
+
+## FAULT ISOLATION
+
+| OBSERVED FAULT | ASSESSED CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Room not on any plan | Grey-room design intent | Search structure, not documents |
+| Observer asks too early | A.C.T handling breach | Withdraw observer; log breach |
+| Hold overruns notice | Desk extension not recorded | Request written extension |
+| Sickness with no origin | Wrong-place sickness | Border-health room; no diagnosis |
+| Interior photograph taken | A.C.T handling breach | Surrender image to desk |
+| Two desks claim the hold | Jurisdiction contradiction | Escalate to Legal liaison |
+
+Two rows in this table are A.C.T-caused, and both concern speaking or recording where the station's rules forbid it.
+The remaining four originate with the station or with the crossing. That split is the practical summary of the room:
+it fails A.C.T mainly through impatience.
+
+---
+
+## KNOWN LIMITS
+
+- No interior has ever been measured, photographed, or planned by A.C.T.
+- The recognition-suppression mechanism is unconfirmed and untested.
+- The number of active stations is unknown.
+- Wrong-place sickness has no A.C.T diagnosis route.
+- The station cannot be seized, searched, or replicated without Bureau consent.
+- All structural claims rest on one documented hold.
+
+---
+
+## FAILURE HISTORY
+
+### FLOOR-PLAN ABSENCE — STANDING CONDITION
+
+Every search A.C.T has run against public floor plans has failed to locate a grey holding room. This is recorded
+as a standing condition rather than a failure, because the absence is the design. It will not clear while the
+Bureau withholds plans.
+
+### PREMATURE QUESTIONING — PROHIBITION OF RECORD
+
+The recorded hold notice forbids containment questions until citizenship stabilizes. A.C.T treats any question asked
+before that point as a breach of the hold, not as an interview technique. No such breach is recorded in
+the observed case, and the prohibition stands.
+
+### WRONG-PLACE SICKNESS — UNRESOLVED
+
+The border-health room exists for travelers sick from a place that cannot be named. The dossier does not record a
+diagnosis, a treatment, or an outcome. A.C.T has no equivalent room and no route to one, so this entry remains
+open.
+
+---
+
+## DIVISION USE
+
+- Civil Covert: keeps the station's existence out of public explanation.
+- Intelligence: tracks station locations and desk assignments.
+- Medical Care: receives wrong-place sickness referrals with no diagnosis route.
+- Recovery: escorts subjects and objects out of the station.
+- Containment: treats the station as jurisdictionally held space.
+- Central Archive: keeps observation logs and elapsed-time records.
+
+---
+
+## CROSS-REFERENCES
+
+- GOI-GV-W-057 — Bureau of Unquiet Borders, Group of Interest Registry.
+- TECH-GOI-057-1 — Bureau Quiet-Line Hold Seal And Nonarrival Stamp Set, Technology Record.
+- TECH-GOI-057-5 — Bureau Treaty Corridor Routing Map And Removed-Road Atlas, Technology Record.
+- ACCESS AND EGRESS LEDGER FORM, Operational Form.
+- Normalcy Management and Public Narrative Doctrine, Archive Record.
+- Restricted border-hole and missing-citizen case chains held under Central Archive routing.
+
+---
+
+## OPEN QUESTIONS
+
+- How many quiet-line stations are active inside ordinary border facilities?
+- Is recognition suppression architectural, documentary, or anomalous in mechanism?
+- Has the Bureau ever held a person in a room that no plan of any state records?
+- What treatment does the border-health room provide for wrong-place sickness?
+- Can A.C.T be admitted as a party rather than an observer, and under what instrument?
+
+---
+
+## FILE METADATA
+
+- **Created:** 1983-09-14
+- **Author Desk:** Intelligence review / Recovery Division / Central Archive
+- **Review Status:** Active restricted GOI-acquired architecture record; interior access held at Level 5
+- **Next Review:** After any new station observation, any admitted hold, or any plan recovery
