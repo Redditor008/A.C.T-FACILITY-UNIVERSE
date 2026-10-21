@@ -119,6 +119,68 @@ patients unable to return home immediately, and funds pay ordinary hospitals for
 transfer. Both create
 paper trails that contradict civic death records.
 
+TECHNICAL SPECIFICATION
+
+Values are restated from incomplete patient cards, failure labels, and the Concern's own asset list. A.C.T has not
+secured a ledger volume and no operation to obtain one is authorised, so every value below describes fragments rather
+than the archive.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| SPECIFICATION FIELD        | RECORDED VALUE                                                                        |
++============================+=======================================================================================+
+| Ledger volumes held        | none, fragments only                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Patient cards held         | yes, incomplete                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cold, meaning of           | unexplained in any document                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Failure archive marking    | DO NOT CALL THIS MERCY                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Restoration licences       | seal nature unresolved                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Entry fields observed      | fifteen, on cards and fragments                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Dual-name rule             | record both, neither proves death                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Update point               | each transfer                                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Censored content           | names, routes, refusals                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Full-ledger operation      | none authorised                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The dual-name rule is a ledger-writing instruction rather than a bedside courtesy, and it is the clearest statement of
+the archive's purpose. Neither answer is proof of death, which is precisely the inference a civic record invites and
+this one refuses to make.
+
+INTERFACE AND OPERATING ENVELOPE
+
+Record Surface And Continuity Function
+
+- the ledger keeps an account where civic, A.C.T, and family accounts disagree
+- entries are updated at each transfer between house, clinic, and hospital
+- patient cards are the only part A.C.T has physically held
+- a card is a pointer into a record A.C.T will never see in full
+
+Access, Censorship, And Disclosure Controls
+
+- names, mobile clinic routes, and refusals stay censored
+- censorship protects survivors, not A.C.T reputation
+- no disclosure of ledger content to family or local authorities
+- no operation to secure a full ledger without authorisation
+
+Handling Limits And Weaknesses
+
+- Do not merge a ledger account with a civic death record.
+- Do not publish a patient name recovered from a card.
+- Do not treat a refusal label as discardable paperwork.
+- Do not propose seizure of a ledger volume.
+- Weakest where an official death is read as the end of the case.
+- Weakest where a fragment is cited as the archive's content.
+
+Ledger volume count, patients officially dead elsewhere, and Excommunicated Class overlap are NOT MEASURED.
+Intelligence Division assesses that a full ledger would raise confidence on the parent file, and no operation to
+obtain one is authorised.
 OPERATING PROCEDURE
 
 An entry is opened when the Concern takes a case. Fields A.C.T has observed
@@ -140,6 +202,58 @@ ordinary hospital, the ledger is the only continuous thread. A.C.T field teams e
 Saint-Vera card should
 treat it as a pointer into a record they will never see in full.
 
+Numbered Operating Sequence
+
+The sequence applies to the only part of this system A.C.T ever touches. Cataloguing comes before interpretation
+because a card is written for whoever receives the patient next, and reading it as an intelligence document loses the
+instruction it is carrying.
+
+1. Treat a recovered card as a pointer, not as the record.
+2. Catalogue the card before interpreting its instruction lines.
+3. Record both names where a patient answers to both.
+4. Note body status, refusal reason, and aftercare destination.
+5. Do not merge the entry with a civic death record.
+6. Keep names, routes, and refusal reasons censored.
+7. File any contradiction between accounts without resolving it.
+8. Report what the card shows, not what the ledger would say.
+
+Step 7 is the discipline. Three accounts disagree by design, and a report that reconciles them has usually just chosen
+the civic one, which is the account the ledger exists to contradict.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Per card                   | catalogue, then read the instruction lines                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Per contradiction          | file both accounts, resolve neither                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | review censored-field handling                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | audit files for merged civic records                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Annually                   | review the no-seizure position with Intelligence                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Servicing is archival. The system cannot be inspected, only encountered one card at a time, so the schedule is built
+around keeping contradictions visible and censored fields censored.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Card recovered in field    | transfer instrument                       | treat as pointer                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Civic record says dead     | ledger contradicts                        | file both, do not merge                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Name published             | disclosure breach                         | withdraw, Civil Covert                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Ledger seizure proposed    | not authorised                            | refuse, Intelligence                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Refusal label discarded    | doctrine breach                           | preserve, Subject Care                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 KNOWN LIMITS
 
 No complete ledger exists in A.C.T custody. Every field name above is inferred from

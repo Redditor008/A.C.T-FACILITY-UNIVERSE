@@ -106,6 +106,56 @@ form can therefore reject a procedure that is technically consented to by an aut
 party, on the grounds that the
 authorized party is not the patient.
 
+## TECHNICAL SPECIFICATION
+
+Values are restated from sealed consent copies, patient cards, and failure labels. A.C.T holds no blank stock and no
+printing method, and has never observed a refusal board session, so every value below is behavioural rather than
+measured.
+
+| SPECIFICATION FIELD | RECORDED VALUE |
+|---|---|
+| Reported effects | state change, contradiction, payer |
+| Document state change | reported, never controlled |
+| Body-state contradiction | speech against signature |
+| Payer separation | evaluates who is asking |
+| Blank stock held | none |
+| Printing method | unknown |
+| Authorship | unresolved |
+| Refusal board observed | never |
+| False-negative evidence | none |
+| A.C.T equivalent | none |
+
+The last row is the reason this record exists. A.C.T consent practice records a signature and a witness; it does
+not test whether the signature contradicts speech, and it does not distinguish sedated agreement from agreement. No
+A.C.T form currently answers the question these forms answer.
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Detection Surface And Readouts
+
+- a form may change state when the signer is drugged or pressured
+- contradiction is detected between channels of the same person
+- the system evaluates who is asking, not only who is signing
+- a refusal is issued with a reason and archived either way
+
+### Witnessing And Substitution Controls
+
+- A.C.T may witness a consent read
+- no A.C.T custody form may replace a Saint-Vera form without review
+- substitution requires Medical, Legal, and Subject Care together
+- a Saint-Vera refusal is not an obstacle to be worked around
+
+### Handling Limits And Weaknesses
+
+- Do not treat a refusal as an administrative delay.
+- Do not substitute an A.C.T form without triple review.
+- Do not record a mechanism the file does not support.
+- Do not assume absence of refusal means absence of coercion.
+- Weakest where a form that detected nothing reads as a clear case.
+- Weakest where competence is treated as fixed rather than variable.
+
+Mechanism, false-negative rate, and board composition are NOT MEASURED. A form that failed to detect coercion would
+look identical to a form that detected none, and A.C.T has no route to telling them apart.
 ## OPERATING PROCEDURE
 
 The consent read happens after stabilization and before restoration. Sequence reported across cases: the
@@ -138,6 +188,46 @@ not because the
 Concern's forms are better paperwork, but because A.C.T has no instrument that can answer
 the question they answer.
 
+### Numbered Operating Sequence
+
+The sequence is the order reported across cases: stabilisation first, consent read second, restoration third. Steps 3
+and 4 use the two Saint-Vera labels verbatim, because both exist to protect the patient from a binary the situation
+does not support.
+
+1. Ask the patient what they remember, want, fear, and can still do.
+2. Complete or attempt the form before any procedure decision.
+3. Record self-recognition as yes, no, or uncertain.
+4. Record whether a memory gap predates care.
+5. Refer the read to the refusal board.
+6. Preserve the label whether or not it refuses.
+7. Witness the read without substituting an A.C.T form.
+8. Report the refusal and its reason, not an assessment of it.
+
+Step 6 is the one A.C.T staff most often skip. A label that approves a procedure carries the same evidential
+weight as one that refuses it, and discarding the approvals leaves a file that only ever shows refusals.
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per read | record labels and reasons verbatim |
+| Per refusal | preserve the label, notify Legal |
+| Monthly | review witnessed reads for substitution lapses |
+| Quarterly | review the false-negative gap with Subject Care |
+| Annually | review the competence-as-variable assumption |
+
+Servicing is the preservation of judgements A.C.T cannot reproduce. Nothing can be recalibrated, because the same
+patient cannot be run through the same form twice, so the schedule protects the record rather than the instrument.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Form reads differently | reported state change | log, no controlled test |
+| Signature vs speech | sedated agreement | treat as refusal |
+| Payer requests obedience | doctrine refusal | preserve the label |
+| A.C.T form substituted | unreviewed substitution | Medical, Legal, Subject Care |
+| Refusal worked around | doctrine breach | preserve, Subject Care |
 ## KNOWN LIMITS
 
 A.C.T does not know the mechanism. Every description above is behavioural.

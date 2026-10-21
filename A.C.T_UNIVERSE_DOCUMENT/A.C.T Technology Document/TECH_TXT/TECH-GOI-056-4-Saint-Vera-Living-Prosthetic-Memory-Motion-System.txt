@@ -122,6 +122,66 @@ permanent by design.
 a negative cast, a
 growth substrate, or a record of the missing limb is not established.
 
+TECHNICAL SPECIFICATION
+
+Values are restated from the parent dossier's assessed capabilities and from transfer-case reporting. A.C.T holds no
+implant and has never held one, so no value below comes from an examined component.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| SPECIFICATION FIELD        | RECORDED VALUE                                                                        |
++============================+=======================================================================================+
+| Limb assemblies            | per-patient mold, sensation restored                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Nerve media                | memory-linked, not recovered                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Voice grafts               | outcome recorded, not described                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Ocular implants            | filter, not a replacement eye                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Organ support              | permanent by design                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Unlearned motion           | reported, unexplained                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Mold nature                | unresolved                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Registered manufacturer    | none                                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Implants held by A.C.T     | none, custody barred                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Identity performance test  | prohibited                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Custody is barred where an implant is life-sustaining or function-sustaining, which is the strictest appropriation
+limit in this set for a simple reason: the object is inside a person. That single fact governs every other
+row, because it means A.C.T will never hold a specimen to test against.
+
+INTERFACE AND OPERATING ENVELOPE
+
+Restoration Surface And Reported Behaviour
+
+- sensation is reported as restored rather than simulated
+- some assemblies appear to retain motion the patient never learned
+- ocular implants preserve sight while removing something from what is seen
+- a grafted voice is not always the voice the patient had
+
+Fitting, Custody, And Assessment Controls
+
+- fitting follows the consent read and is gated by it
+- a refusal is recorded on a failure label and archived
+- no seizure of a life- or function-sustaining implant
+- no demand that a patient perform pre-injury identity
+
+Handling Limits And Weaknesses
+
+- Do not request removal of a function-sustaining implant.
+- Do not ask a patient to prove they are still who they were.
+- Do not record unlearned motion as a malfunction.
+- Do not assume ocular glass and theatre glass are the same material.
+- Weakest where assessment becomes a demand for proof of identity.
+- Weakest where a changed voice is filed as a fitting failure.
+
+Nerve-media composition, storage of unlearned motion, and mold behaviour are NOT MEASURED. Site 03 attaches where
+speech and identity continuity are affected; Site 04 where the tissue interface is non-natural.
 OPERATING PROCEDURE
 
 Fitting follows the consent read and is gated by it. A patient who refuses
@@ -142,6 +202,58 @@ purpose of that ban is to prevent assessment from becoming a demand that the
 survivor prove they are still the person
 they were.
 
+Numbered Operating Sequence
+
+The sequence is gated at step 1 because fitting without a completed consent read is the one failure this system
+cannot recover from. Everything after it is observation, since A.C.T has no route to examining a fitted implant.
+
+1. Confirm the consent read is complete before any fitting.
+2. Record a refusal on a failure label if the patient declines.
+3. Note which assembly type is fitted and to whom.
+4. Attach Site 03 or Site 04 by the interface affected.
+5. Do not request implant removal or sampling from the patient.
+6. Do not ask the patient to demonstrate pre-injury identity.
+7. Record any unlearned motion as reported, not as a fault.
+8. Report function restored and identity questions open.
+
+Step 6 exists because the ban is easy to violate without noticing. Asking a survivor to demonstrate that they are
+unchanged feels like assessment and functions as a demand for proof.
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Per fitting                | record assembly type and consent state                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Per report                 | log unlearned motion verbatim                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | review custody-bar applications                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | review identity-demand reports with Subject Care                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Annually                   | review the glass-family question with Engineering                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Servicing is limited to records, because every physical route runs through a person. The annual glass question is kept
+open deliberately: theatre lamp glass and ocular implant glass are described in the same family, and nobody has
+established whether that is material or metaphor.
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Limb moves unlearned       | memory-linked media                       | log, Site 03                              |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Voice changed              | graft outcome                             | record, Subject Care                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Implant removal requested  | custody barred                            | refuse, Medical                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Identity test demanded     | prohibited demand                         | halt, Subject Care                        |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Mold retained              | nature unresolved                         | log, Engineering                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
 KNOWN LIMITS
 
 A.C.T does not know whether a living prosthetic is alive, semi-autonomous, memory-reactive, or simply

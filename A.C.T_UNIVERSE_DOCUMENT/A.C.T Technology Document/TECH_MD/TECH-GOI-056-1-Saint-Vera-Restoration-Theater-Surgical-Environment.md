@@ -138,6 +138,55 @@ The reason is not documented. Whether this reflects altered-tissue runoff, coola
 lamps, or ordinary
 surgical waste is unresolved and must not be assumed.
 
+## TECHNICAL SPECIFICATION
+
+Values are restated from recovered tool kits, incomplete patient cards, glass fragments, and secondhand descriptions
+from transfer cases. A.C.T holds no complete specification and has never operated a theater, so nothing below is
+measured in one.
+
+| SPECIFICATION FIELD | RECORDED VALUE |
+|---|---|
+| Environment type | room, not a device |
+| Glass theatre lamp | reveals damaged tissue boundaries |
+| Lamp mechanism | unresolved, three hypotheses |
+| Lamp colour | not confirmed, not asserted |
+| Surgical tool kits | no registered manufacturer |
+| Patient card rack | required for a functioning theater |
+| Temperature control | held below the fever threshold |
+| Recovery beds | calm without amnestic effect |
+| Drainage routing | preserved, reason undocumented |
+| Full surgical manual | none recovered |
+
+The lamp-colour row is a prohibition rather than a gap. Field teams have described the light as unusual without
+agreeing on its hue, so no colour is recorded here and none may be added from recollection.
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Glass Lighting And Diagnostic Surface
+
+- lamp is assessed to show where altered tissue stops and ordinary tissue begins
+- three open hypotheses: filtered wavelength, polarisation, or room-dependent effect
+- no colour is recorded, and none may be asserted from memory
+- whether the effect survives removal from the room is unresolved
+
+### Environment Custody And Transfer Controls
+
+- the theater is an environment, not a device, and cannot be seized intact
+- patient cards are the transfer instrument and the only part A.C.T has held
+- a theater without a card supply is not treated as a functioning theater
+- drainage routes are preserved if a theater is recovered empty
+
+### Handling Limits And Weaknesses
+
+- Do not classify a patient before the fever breaks.
+- Do not reverse a procedure before the patient has been asked.
+- Do not copy Saint-Vera technique from recovered fragments.
+- Do not record a lamp colour that no controlled observation supports.
+- Weakest where a recovered fragment is read as a specification.
+- Weakest where calming is assumed to be amnestic action.
+
+Lamp wavelength, bed mechanism, and drainage purpose are NOT MEASURED. Medical Division's standing warning is that
+copying technique from fragments could permanently worsen a survivor's condition.
 ## OPERATING PROCEDURE
 
 A typical intervention begins after a person survives injury that conventional medicine cannot stabilize
@@ -164,6 +213,46 @@ conceal the patient until immediate death risk passes. Both behaviours are docum
 are consistent with
 the same doctrine.
 
+### Numbered Operating Sequence
+
+The sequence is the order reported across transfer cases rather than an A.C.T invention, and step 5 is the part
+A.C.T practice does not normally allow. Deferral is deliberate: two Saint-Vera labels govern it, and both are
+reproduced in OPERATING PROCEDURE.
+
+1. Stabilise airway and temperature before anything else.
+2. Apply green-thread closure to any spreading injury.
+3. Complete the memory-sensitive consent read.
+4. Decide between restoration, stabilization, or refusal.
+5. Defer classification of the patient as anomaly, hazard, or evidence.
+6. Keep the patient below the fever threshold throughout.
+7. Attach a patient card before any transfer.
+8. Report the intervention and the deferral, not a classification.
+
+Step 7 matters more than it looks. The card is how the Concern transfers instruction to whoever receives the patient
+next, and a survivor moved without one arrives with no account attached.
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per transfer case | record card text and delivery condition |
+| Monthly | review recovered fragments against new descriptions |
+| Quarterly | re-check the fragment-imitation warning with Medical |
+| Semi-annually | review site-jurisdiction attachment by case type |
+| Annually | review the no-classification-before-fever rule |
+
+Nothing here can be calibrated, because A.C.T holds components rather than a room. Servicing is the maintenance of a
+description that is known to be incomplete, and of the warning that goes with it.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Lamp removed from room | effect may not survive | log, Medical |
+| Fragment imitation | imitation risk | halt, Medical |
+| No card supply present | theater non-functional | log, do not treat as SV |
+| Drainage altered or sealed | purpose undocumented | preserve, Engineering |
+| Patient classified early | doctrine breach | defer, Subject Care |
 ## KNOWN LIMITS
 
 The Concern is not assessed as capable of broad resurrection. Claims that Saint-Vera can

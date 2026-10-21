@@ -98,6 +98,55 @@ spelling.
 to
 temperature. Whether heat degrades the fiber, accelerates the injury, or both is not established.
 
+## TECHNICAL SPECIFICATION
+
+Values are restated from the one confirmed case, from Medical Division's written instruction on the transfer case, and
+from loose fibres in storage. No diameter, tensile figure, or composition is on file, and none is estimated here.
+
+| SPECIFICATION FIELD | RECORDED VALUE |
+|---|---|
+| Confirmed effect | held a symbol burn, about 18 hours |
+| Confirmed cases | one |
+| Boundary type | physical or semantic, unresolved |
+| Fibre appearance | pale green, fine, fibrous |
+| Diameter or tensile figure | none on file |
+| Composition | unknown |
+| Storage degradation | none observed |
+| Loose fibre activity | not demonstrated |
+| Removal for study | prohibited while stabilising |
+| Seizure while life-saving | barred, overrides inventory |
+
+The confirmed-cases row is the one that limits every other claim. Eighteen hours comes from a single patient and was
+recorded by Medical Division as an approximation, so it is cited as a figure from one case and never as
+a service life.
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Closure Behaviour And Boundary
+
+- thread is laid along or across the edge of an injury and closes it
+- reported action is holding a boundary rather than approximating wound edges
+- in the confirmed case the spread held was a burn continuing to write
+- what happens at the end of the window is not recorded
+
+### Sampling And Custody Controls
+
+- photograph first, then sample loose fibres only
+- thread attached to a living patient is medical equipment before evidence
+- no seizure of a stabiliser that is keeping a patient alive
+- maintain patient temperature below the fever threshold
+
+### Handling Limits And Weaknesses
+
+- Do not cut stabilising thread for study.
+- Do not treat a loose fibre sample as a working device.
+- Do not cite eighteen hours as a general service life.
+- Do not assume the three related products share one fibre.
+- Weakest where the boundary is assumed to be physical.
+- Weakest where a stored fibre is assumed to still act.
+
+Composition, tensile behaviour, and end-of-window outcome are NOT MEASURED. The phrase until the burn stops spelling
+comes from a Saint-Vera card and is the only direct evidence that the injury behaves as language.
 ## OPERATING PROCEDURE
 
 Field teams encountering green thread on a patient follow a fixed order. Photograph the
@@ -124,6 +173,46 @@ recorded because
 neither answer settles continuity, and forcing a choice would create a record that the
 patient did not give.
 
+### Numbered Operating Sequence
+
+The sequence follows Medical Division's written instruction on the transfer case, which ordered photography,
+loose-fibre sampling only, and temperature control. A.C.T adopted it rather than writing its own, because it is the
+only instruction on file that came from a clinician who had the patient in front of them.
+
+1. Photograph the closure in place before any sampling.
+2. Sample loose fibres only, never thread attached to a patient.
+3. Maintain the patient below the fever threshold.
+4. Record the time the closure was applied.
+5. Do not cut the thread to obtain a specimen.
+6. Re-evaluate at the end of the recorded window.
+7. Refer any removal proposal to Medical Division.
+8. Report the boundary held and the duration, not a mechanism.
+
+Step 8 keeps the report inside what was observed. Whether the thread holds tissue or holds meaning is unresolved, and
+a report that picks one closes a question the case is still open on.
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per closure | record application time and window |
+| Per sample | log provenance and storage condition |
+| Monthly | confirm stored fibres show no degradation |
+| Quarterly | review the no-cut rule with Medical |
+| Annually | review the single-case basis of the 18-hour figure |
+
+The annual review exists because a figure from one patient tends to harden into a specification through repetition.
+Nothing in the file supports that, and the review is the point at which the distinction is restated.
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Spread resumes | window elapsed | re-evaluate, Medical |
+| Thread cut for study | policy breach | restore, Medical |
+| Fibre sampled from patient | evidence precedence | photograph, loose fibres only |
+| Patient febrile | active process | hold below threshold |
+| Loose fibre inert | expected, not a device | record, do not infer |
 ## KNOWN LIMITS
 
 One confirmed case is not a performance specification. Eighteen hours against one injury type,
