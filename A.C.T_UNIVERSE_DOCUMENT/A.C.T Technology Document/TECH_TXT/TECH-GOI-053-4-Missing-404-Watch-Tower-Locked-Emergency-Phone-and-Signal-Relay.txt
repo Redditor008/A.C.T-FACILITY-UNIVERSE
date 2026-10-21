@@ -1,78 +1,350 @@
-TECH-GOI-053-4 - MISSING 404 WATCH TOWER LOCKED EMERGENCY PHONE AND SIGNAL RELAY
+A.C.T FACILITY ARCHIVE FILE
+TECHNOLOGY RECORD - MISSING 404 WATCH TOWER LOCKED EMERGENCY PHONE AND SIGNAL RELAY
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
 +============================+=======================================================================================+
 | TECHNOLOGY DESIGNATION     | TECH-GOI-053-4                                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
-| TECHNOLOGY NAME            | Missing 404 Watch Tower Locked Emergency Phone and Signal Relay                       |
+| TECHNOLOGY NAME            | Missing 404 Watch Tower Locked Phone and Signal Relay                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
-| COMMON ABBREVIATIONS       | Locked Phone / Signal Relay / North Window Relay                                      |
+| SHORT NAME                 | MTLER                                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ORIGIN                     | Missing 404 Watch Tower                                                               |
+| TECHNOLOGY FAMILY          | ACQUIRED BY COOPERATION / SIGNAL PRESERVATION TECHNOLOGY / DEAD-LINE RELAY            |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ACQUISITION STATUS         | Cooperative signal notice and A.C.T call verification; hardware access limited        |
+| ORIGIN                     | MISSING 404 WATCH TOWER (GOI-HY-W-053) / NORTH WINDOW RELAY                           |
 +----------------------------+---------------------------------------------------------------------------------------+
-| PRIMARY A.C.T INTEREST     | Distress-signal preservation, removed-location contact, missing-team recovery,        |
-|                            | communications hazard control                                                         |
+| PRIMARY CONTROLLER         | Recovery Division with Intelligence Division                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ARCHIVE HANDLING           | M404-WT SIGNAL RESTRICTED / RECOVERY AND INTELLIGENCE JOINT REVIEW                    |
+| ATTACHED DIVISIONS         | Recovery, Intelligence, Containment, Civil Covert, Communications, Command            |
++----------------------------+---------------------------------------------------------------------------------------+
+| OPERATIONAL STATUS         | ONE IMPOSSIBLE CALL VERIFIED / HARDWARE ACCESS LIMITED                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| RISK STATUS                | NETWORK CONTAMINATION / HOSTILE SIGNAL TRUST / DISPATCH DELETION                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for signal notices; Level 5 for sealed ledgers                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Functional Identity
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Cooperative-Signal Technology Record                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Recovery / Intelligence / Containment / Civil Covert / Communications                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Recovery Division and Intelligence Division, joint review                             |
++----------------------------+---------------------------------------------------------------------------------------+
 
-The Missing 404 Watch Tower Locked Emergency Phone and Signal Relay is the communication
-technology used to preserve
-calls, radio fragments, dead-line responses, and emergency signals after ordinary dispatch records fail. The
-GOI
-dossier identifies private radio relays, signal ledgers, hidden listening rooms, locked emergency phones receiving
-calls from removed locations, and a North Window Relay notice involving a demolished school
-basement telephone. A.C.T
-classifies this as acquired GOI technology because Recovery Division verified at least one inbound
-call through a
-phone line with no active service account.
+Archive Note
+This record covers the communication method the Tower uses to preserve calls, radio fragments,
+dead-line responses, and emergency signals after ordinary dispatch records fail. The dossier names private
+radio relays, signal ledgers, hidden listening rooms, and locked emergency phones that receive calls
+from removed locations. Access is cooperative and partial: A.C.T holds signal notices and has
+verified one inbound call, and hardware access is limited.
 
-The system does not make missing persons safe by itself. It keeps a signal
-from being dismissed as impossible before
-recovery can act. In Missing 404 cases, the call may arrive after the team
-record is deleted, from a building that was
-demolished, or through a device no civic inventory admits still exists.
+The verified instance decides how this record is written. A call arrived through a
+school basement telephone in a building demolished eleven years earlier, on a line with
+no active service account, and the notice was logged as actionable only after independent
+confirmation. The system's function is therefore not to make missing persons safe but to
+keep a signal from being dismissed as impossible before recovery can act, which means
+the hazard is not the call. It is the routing.
 
-Known Structure
+A.C.T's instinct with an unexplained signal is to put it on a network so
+that it can be analysed, and that instinct is the failure mode this record
+prohibits. Signal captures are duplicated onto isolated media and paired with an analog transcript
+before anything else happens. Personnel do not answer repeated calls alone, because a missing
+voice may be a survivor, an echo, bait, a delayed record, or a place
+speaking with borrowed human sound.
 
-Known elements include radio logs, telephone line traces, listening rooms, relay stamps, bell cross-references,
-signal
-clerk notes, and warnings attached to route instructions. Tower operators record time, weather, medium,
-response
-attempt, voice count, and whether the signal agrees with known deployment records. A.C.T has
-not confirmed whether the
-locked phones receive signals, hold them, replay them, or anchor them long enough for
-a responder to be named.
+Controlled label: **M404-WT IMPOSSIBLE-CALL VERIFICATION RULE**.
 
-The phrase North Window Relay appears in a recovered dead-address notice. A.C.T does not
-know whether this is a
-location, office, radio direction, station nickname, or rotating duty title.
+Core handling rule:
 
-A.C.T Handling Rules
+NO TOWER SIGNAL IS ROUTED INTO A LIVE A.C.T NETWORK.
+AN IMPOSSIBLE CALL IS VERIFIED ON ISOLATED MEDIA BEFORE IT IS ANSWERED.
 
-A.C.T communications teams must not automatically route Tower signals into live site networks. Signal
-captures should
-be duplicated onto isolated media and paired with analog transcript. If a call appears
-to originate from a demolished
-or unlisted location, Civil Covert must verify public infrastructure records while Recovery treats the
-call as
-actionable but hazardous.
 
-Personnel must not answer repeated calls alone. A missing voice may be a survivor,
-echo, bait, delayed record, or
-place speaking with borrowed human sound.
+FUNCTION SUMMARY
 
-Failure and Open Questions
+The relay exists because a signal that cannot be explained is usually discarded before
+it is investigated. A call from a demolished building reads as a fault in
+the exchange; a radio contact after a dispatch record has been deleted reads as
+confusion; a voice on a line with no service account reads as a prank.
+The Tower's equipment keeps those signals in a ledger with a time, a weather
+note, a medium, and a voice count, which is enough to make one of
+them actionable.
 
-Failure modes include ignoring impossible calls, overtrusting hostile signals, contaminating A.C.T networks, and
-letting dispatch deletion erase team existence. Open questions include whether locked phones can call
-outward, whether
-signal relays can reach locations already missing, and whether some voices are preserved after
-death. Archive
-confidence is High for at least one verified impossible call and Moderate for the
-broader relay system.
+That is the confirmed contribution. In the case that produced the North Window Relay
+notice, four responders entered the east service road at 19:42, three voices returned by
+radio after midnight, and the fourth answered through the school basement telephone. Recovery Division
+recovered two survivors and one body. Without the preserved signal the fourth would have
+been a name with no supporting record at all.
+
+The record's practical output is a routing prohibition rather than a capability. A.C.T does
+not operate Tower relays and does not claim to understand them. It holds a
+rule about what never happens to a captured signal, and a discipline about how
+many people are present when one is answered.
+
+
+
+ORIGIN AND CUSTODY
+
+Signal material arrives as Tower notices and as A.C.T verification work. Hardware access is
+limited and has not been requested as a condition of cooperation. The phrase North
+Window Relay appears in a recovered dead-address notice, and A.C.T does not know whether
+it names a location, an office, a radio direction, a station nickname, or a
+rotating duty title.
+
+Custody sits with Recovery Division and the Intelligence Division, with Containment attached for network
+isolation and Civil Covert attached for public infrastructure verification. Communications staff handle
+capture and duplication and are bound by the routing prohibition.
+
+Every capture is duplicated onto isolated media and paired with an analog transcript before
+analysis. Repeated calls are never answered by one person, and no response attempt is
+made without a log entry recording the attempt and its outcome.
+
+
+
+PHYSICAL OR SYSTEM DESCRIPTION
+
+Known elements are described from the notices and from A.C.T verification work:
+
+- locked emergency phones at fixed posts;
+- private radio relays and listening rooms;
+- signal ledgers with time, weather, and medium;
+- voice count recorded per contact;
+- response attempt logged per call;
+- relay stamps and signal clerk notes;
+- bell cross-reference per signal;
+- warnings attached to route instructions;
+- outbound capability, unresolved;
+- North Window Relay identity, unresolved.
+
+The last two rows bound the record. A.C.T does not know whether a locked
+phone can place an outbound call, and does not know what North Window Relay
+is. Both questions are filed rather than guessed, because an answer invented here would
+become the basis for field decisions made by people who cannot check it.
+
+
+
+TECHNICAL SPECIFICATION
+
+Values are restated from the GOI-HY-W-053 dossier and from the verified call record. Nothing
+is measured by placing an outbound call or by connecting a relay to Facility
+infrastructure.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| SIGNAL PARAMETER           | VALUE                                                                                 |
++============================+=======================================================================================+
+| Verified instances         | one, demolished-line inbound call                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Service account            | none active on that line                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Signal forms               | radio, telephone, dead line                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Recorded per contact       | time, weather, medium, voices                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Network routing            | prohibited, isolated media only                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| Analog transcript          | required, paired with capture                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Solo answering             | prohibited                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Outbound capability        | unresolved                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Relay identity             | unresolved                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Signals held by A.C.T      | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Network routing is the row that protects the Facility. Every other value describes what
+the Tower does or what A.C.T has observed; this one prevents an unexplained signal
+from becoming a path back into baseline systems, which is the only way this
+technology could harm A.C.T directly.
+
+
+
+INTERFACE AND OPERATING ENVELOPE
+
+Signal Handling Controls
+
+- capture duplicated onto isolated media
+- analog transcript paired with every capture
+- no routing into live site networks
+- no solo answering of a repeated call
+
+Signal Readouts
+
+- signal inventory per case
+- voice count and medium per contact
+- infrastructure verification status
+- response attempts and their outcome
+
+Handling Limits And Weaknesses
+
+- Do not route a Tower signal into a live A.C.T network.
+- Do not answer a repeated call alone.
+- Do not treat a verified impossible call as a safe channel.
+- Do not let dispatch deletion stand as the team's only record.
+- Weakest where an unexplained signal is treated as a fault to clear.
+- Weakest where a survivor voice is assumed to be a survivor.
+
+Signal counts and response outcomes are NOT MEASURED and are tracked per case by
+Recovery Division.
+
+
+
+OPERATING PROCEDURE
+
+Numbered Operating Sequence
+
+The sequence applies when a signal is reported that ordinary systems cannot account for.
+It isolates and transcribes before it analyses, and it verifies the infrastructure before it
+treats the call as contact, because both steps are cheap and both are skipped
+under pressure.
+
+1. Duplicate the capture onto isolated media.
+2. Produce an analog transcript beside the capture.
+3. Verify public infrastructure records through Civil Covert.
+4. Treat the call as actionable but hazardous.
+5. Assign two personnel before any response attempt.
+6. Log time, weather, medium, and voice count.
+7. Cross-reference the bell and dead-address entries.
+8. Report the signal as evidence of existence, not contact.
+
+Step 8 is the discipline. A call from a demolished building proves that four
+people entered a road; it does not establish that anyone is reachable now. A
+report that implies contact sends the next team looking for a conversation instead of
+a body.
+
+
+
+SERVICING AND CALIBRATION
+
++----------------------------+---------------------------------------------------------------------------------------+
+| INTERVAL                   | TASK                                                                                  |
++============================+=======================================================================================+
+| Per capture                | isolate, transcribe, log                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Per case                   | verify infrastructure records                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Monthly                    | review signal inventory and duplicates                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Quarterly                  | audit network paths for signal routing                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Annually                   | review the solo-answering rule with Command                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The routing audit protects the Facility, because a signal placed on a live network
+is indistinguishable afterwards from any other traffic on it, and the only record that
+it happened is the absence of an isolation log.
+
+
+
+FAULT ISOLATION
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
++============================+===========================================+===========================================+
+| Call from removed site     | absent-location signal                    | isolate, verify                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Signal on a network        | routing lapse                             | sever, Containment                        |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Repeated calls             | pattern forming                           | assign two, log                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Dispatch record gone       | deletion event                            | reconstruct, Archive                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Voice assumed known        | identification drift                      | verify, Subject Care                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+
+
+KNOWN LIMITS
+
+One call is verified and nothing beyond it is characterised. A.C.T does not know
+whether locked phones receive signals, hold them, replay them, or anchor them long enough
+for a responder to be named, and hardware access has not been granted. The
+record therefore describes a verified event and a handling discipline rather than a device.
+
+The record also cannot say what was on the line. A missing voice may
+be a survivor, an echo, bait, a delayed record, or a place speaking with
+borrowed human sound, and no measurement available to A.C.T distinguishes those cases in advance.
+That is why answering is paired and why the capture is isolated before it
+is analysed.
+
+
+
+FAILURE HISTORY
+
+DEMOLISHED SCHOOL LINE — INBOUND CALL VERIFIED
+
+The fourth responder answered through the school basement telephone, a building demolished eleven years
+earlier, on a line with no active service account. A.C.T logged the notice as
+actionable after independent confirmation, recovered two surviving responders and one body, and listed the
+fourth under continuance review. This is the confirmed instance in the record and the
+reason the routing prohibition exists.
+
+DISPATCH DELETION — CONFIRMED CONDITION
+
+The notice instructs the reader not to trust the county dispatch printout, and the
+case establishes that four responders entered the east service road at 19:42 while the
+deployment record became unavailable. The deletion is filed separately from the disappearance because it
+is the deletion, not the loss, that would have made the team unprovable.
+
+NETWORK CONTAMINATION — STANDING CONDITION
+
+No signal has been routed into a live A.C.T network. The condition is filed
+because analysis wants a network and the request arrives as a technical necessity rather
+than as a breach of doctrine. The audit runs against network paths for that
+reason rather than against the staff who asked.
+
+
+
+DIVISION USE
+
+Recovery Division holds the capture discipline, the paired-answering rule, and the decision to treat
+a signal as actionable. The Intelligence Division verifies infrastructure claims and reads signals against
+other cases. Containment enforces isolation and severs any path found on a live network.
+
+Civil Covert verifies public infrastructure records where a demolished or unlisted location is involved,
+which is the step that turned one strange call into a confirmed anomaly. Communications
+handles capture, duplication, and transcription. Command authorises escalation and holds the standing
+prohibition on routing.
+
+
+
+CROSS-REFERENCES
+
+- GOI-HY-W-053 — Missing 404 Watch Tower, Group of Interest Registry;
+- TECH-GOI-053-1 — Missing 404 Watch Tower Dead-Address Ledger System, Technology Record;
+- TECH-GOI-053-2 — Missing 404 Watch Tower Null-Coordinate Map Set, Technology Record;
+- TECH-GOI-053-3 — Missing 404 Watch Tower Rescue Bell Continuance Register, Technology Record;
+- TECH-GOI-053-5 — Missing 404 Watch Tower Analog Photograph and Dead-Link Vault, Technology Record;
+- TECH-GOI-048-1 — CoTD Low-Frequency Sounding and Timing Apparatus, Technology Record;
+- Dead-address notice from the North Window Relay, Recovered Document [Level 4].
+
+The sounding apparatus is cited because both records concern signals that behave outside ordinary
+communication limits, and both are read by staff who must decide whether to respond.
+The difference is intent. The sounding apparatus calls adherents toward a site; this relay
+keeps a missing team in existence long enough for someone to look.
+
+
+
+OPEN QUESTIONS
+
+- Can a locked phone place an outbound call?
+- Can a relay reach a location that is already missing?
+- Are some voices preserved after death?
+- Is North Window Relay a place, an office, or a duty title?
+- What distinguishes a survivor voice from a borrowed one?
+- Do relays survive the loss of the post that housed them?
+
+
+
+FILE METADATA
+
+- **Created:** 2011-08-30
+- **Author Desk:** Recovery Division / Intelligence Division / Central Archive
+- **Review Status:** Active restricted cooperative-signal technology record; sealed tower ledgers held at Level
+5
+- **Next Review:** After any new signal, any infrastructure verification, or any routing finding

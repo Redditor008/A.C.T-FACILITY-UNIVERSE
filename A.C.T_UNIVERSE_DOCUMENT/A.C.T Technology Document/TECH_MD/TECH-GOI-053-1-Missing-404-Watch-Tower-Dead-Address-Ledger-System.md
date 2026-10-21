@@ -1,75 +1,329 @@
-# TECH-GOI-053-1 - MISSING 404 WATCH TOWER DEAD-ADDRESS LEDGER SYSTEM
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - MISSING 404 WATCH TOWER DEAD-ADDRESS LEDGER SYSTEM
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | TECHNOLOGY DESIGNATION | TECH-GOI-053-1 |
 | TECHNOLOGY NAME | Missing 404 Watch Tower Dead-Address Ledger System |
-| COMMON ABBREVIATIONS | Dead-Address Ledger / DAL / Tower Address Book |
-| ORIGIN | Missing 404 Watch Tower |
-| ACQUISITION STATUS | Cooperative access to extracts and protected copies; full tower ledger custody withheld |
-| PRIMARY A.C.T INTEREST | Vanished-location continuity, record-loss resistance, missing-person proof preservation, A.C.T archive comparison |
-| ARCHIVE HANDLING | M404-WT LEDGER RESTRICTED / CENTRAL ARCHIVE AND RECOVERY REVIEW |
+| SHORT NAME | MTDAL |
+| TECHNOLOGY FAMILY | ACQUIRED BY COOPERATION / ANALOG RECORD TECHNOLOGY / CONTINUANCE INSTRUMENT |
+| ORIGIN | MISSING 404 WATCH TOWER (GOI-HY-W-053) / DEAD-ADDRESS WARDEN OFFICE |
+| PRIMARY CONTROLLER | Intelligence Division / Recovery Division |
+| ATTACHED DIVISIONS | Intelligence, Recovery, Central Archive, Civil Covert, Legal, Subject Care, Command |
+| OPERATIONAL STATUS | EXTRACTS AND PROTECTED COPIES HELD / FULL LEDGER WITHHELD |
+| RISK STATUS | CONTRADICTION LOST TO NORMALISATION / SENSITIVE SITE EXPOSURE |
+| CLEARANCE REQUIRED | Level 4 for extracts; Level 5 for sealed tower ledgers |
 
-## Functional Identity
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Cooperative-Record Technology Record |
+| DISTRIBUTION | Intelligence / Recovery / Central Archive / Civil Covert / Legal / Command |
+| AUTHORITY | Intelligence Division and Central Archive, Recovery Division joint review |
 
-The Missing 404 Watch Tower Dead-Address Ledger System is the analog record technology used
-by the Tower to preserve
-roads, homes, websites, case pages, public offices, phone lines, and civic addresses after ordinary
-lookup systems
-return absence. The GOI dossier identifies dead-address ledgers as known assets and states that
-the group keeps
-physical copies of vanished roads, homes, websites, and case pages. A.C.T classifies the ledger
-system as acquired GOI
-technology because Recovery Division has used Tower extracts during cases where digital, civic, and
-local archive
-paths failed.
+#### Archive Note
+This record covers the analog ledger technology the Tower uses to hold roads, homes,
+websites, case pages, phone lines, and civic addresses open after ordinary lookup systems return
+absence. GOI-HY-W-053 is filed at HYBRID nature, WORK alignment, TRANSNATIONAL reach, HANDLER capability,
+Threat Level 3, and LEAKING secrecy risk, under an A.C.T posture of COOPERATED /
+MONITOR / HELP. Access is cooperative: Recovery Division holds extracts, copied pages, dead-link notices,
+and case-specific continuance cards, and the full tower ledger is withheld.
 
-The ledger is not only a notebook. It is a continuity instrument. In Missing
-404 patterning, a place can disappear
-twice: first from the field, then from the record systems that would prove it
-was ever searchable. A dead-address
-entry holds the failed address open long enough for investigators to test whether absence
-is ordinary error,
-bureaucratic loss, deliberate deletion, or an active anomalous condition.
+The ledger's value is the contradiction rather than the address. In Missing 404 patterning
+a place disappears twice: first from the field, then from the record systems that
+would prove it was ever searchable. An entry holds the failed lookup open as
+a state instead of resolving it, which is what allows an investigator to separate
+ordinary error, bureaucratic loss, deliberate deletion, and an active anomalous condition. Normalising that
+entry into a clean address destroys the only thing that made the case visible.
 
-## Known Structure
+The analog preference is operational rather than nostalgic, and A.C.T assessment agrees with it:
+paper, microfilm, stamped copies, and duplicate storage held away from networked indexing survive some
+record-loss effects better than automated systems do. The Facility has its own evidence on
+the point. During the North Window Relay case the first digital recovery report corrupted
+twice before Central Archive ordered analog duplication, which is the Tower's method vindicated inside
+A.C.T's own archive.
 
-A.C.T has not received a complete tower ledger. Access has been limited to extracts,
-copied pages, dead-link notices,
-and case-specific continuance cards. Known fields include original address, last successful lookup, first failed
-lookup, witness name, medium of failure, analog backup location, related bell entry, and hazard
-note. Some ledgers
-describe a place by the way attempts to reach it fail rather than by
-stable coordinates.
+Controlled label: **M404-WT DEAD-ADDRESS CONTRADICTION PRESERVATION RULE**.
 
-The Tower prefers paper, microfilm, handwritten corrections, stamped copies, and duplicate storage away from
-networked
-indexing. This is operational, not decorative. A.C.T assessment agrees that analog forms survive some
-record-loss
-effects better than automated systems.
+Core handling rule:
 
-## A.C.T Handling Rules
+```text
+THE FAILED LOOKUP IS THE EVIDENCE; DO NOT NORMALISE IT INTO AN ADDRESS.
+NO TOWER EXTRACT IS COPIED WITHOUT ITS SOURCE MARK INTACT.
+```
 
-A.C.T may copy a dead-address extract into Central Archive only with the Tower source
-mark intact. Staff must not
-normalize the entry into a clean address if the failure pattern is part of
-the evidence. Recovery teams must carry
-printed copies when entering a related search zone, because digital navigation may correct itself
-into the wrong
-route.
+---
 
-If a dead-address ledger entry is the last proof that a missing civilian, responder,
-or team existed, normalcy cleanup
-is prohibited until Recovery, Legal, and Central Archive agree on continuance handling.
+## FUNCTION SUMMARY
 
-## Failure and Open Questions
+The ledger keeps a failed address usable. Where a civic lookup returns nothing, a
+digital archive returns not found, or a phone line has no service account, the
+entry preserves what the address was, when it last resolved, when it stopped, and
+who can still attest to it. That is a small amount of information and
+it is the only information that survives the second disappearance.
 
-Failure occurs when A.C.T treats a dead address as a clerical error and overwrites
-the very contradiction that made
-the case visible. Another failure occurs when Tower records preserve A.C.T-sensitive locations too well.
-Open
-questions include whether ledger pages actively resist deletion, whether bell recitation strengthens them, and
-whether
-full ledger custody would protect A.C.T or expose more people to absence. Archive confidence
-is High for extract
-utility and Moderate for anomalous resistance.
+A.C.T files it as technology rather than as good clerical practice because the format
+does something a normal address book cannot. It records failure as a dated event
+with a medium attached, so a lookup that fails twice in two different systems
+reads as a pattern rather than as bad data. Recovery Division has used extracts
+in exactly those cases, where the digital, civic, and local archive paths had already
+failed.
+
+The record's practical output is a prohibition on tidiness. An extract is copied with
+its source mark, its failure fields are carried as recorded, and no automated correction
+is run over it. The Facility gets less useful-looking data and keeps the only
+datum that identifies the case as Missing 404 at all.
+
+
+---
+
+## ORIGIN AND CUSTODY
+
+Material arrives through cooperative contact rather than recovery. A.C.T holds extracts, copied pages,
+dead-link notices, and continuance cards; the full tower ledger is withheld and the dossier
+does not treat that withholding as obstruction. Contact developed through recurring dead-address incidents
+rather than a single introduction, and early notices were mistaken for civilian tips or
+private-investigator material.
+
+Custody sits with the Intelligence Division and Recovery Division under Central Archive oversight, with
+site jurisdiction transferring to the active case location. Civil Covert is attached where families,
+municipal clerks, or public agencies are involved, and Legal Division reviews any closure that
+would remove a name from an active file.
+
+Extracts are copied with the Tower source mark intact and stored with an off-index
+duplicate. Where an entry is the last proof that a missing civilian, responder, or
+team existed, normalcy cleanup is prohibited until Recovery, Legal, and Central Archive agree on
+continuance handling.
+
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A.C.T has not received a complete ledger. The format is described from the extracts
+and notices actually held:
+
+- original address as first recorded;
+- last successful lookup, dated;
+- first failed lookup, dated;
+- witness name and relationship;
+- medium of failure, civic, digital, or legal;
+- analog backup location, off-index;
+- related bell entry cross-reference;
+- hazard note for field entry;
+- failed-route description in place of coordinates;
+- deletion resistance, unresolved.
+
+The last row is the one A.C.T cannot settle. Whether a ledger page actively
+resists deletion or is simply harder to delete because it is paper is unresolved,
+and the dossier keeps both open. The handling rule does not wait on the
+answer, because a record that survives for ordinary reasons is still the last copy
+once every other path has failed.
+
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Values are restated from the GOI-HY-W-053 dossier and from the extracts held. Nothing is
+measured by attempting to delete, correct, or re-resolve an entry.
+
+| LEDGER PARAMETER | VALUE |
+|---|---|
+| Ledger status | extracts held, original withheld |
+| Entry fields known | nine, listed under description |
+| Storage medium | paper, microfilm, stamped copies |
+| Off-index copies | confirmed practice |
+| Normalisation permitted | never on a failure field |
+| Source mark required | yes, on every copy |
+| Deletion resistance | unresolved |
+| Bell cross-reference | per entry |
+| Cases supported | NOT MEASURED |
+| Pages held by A.C.T | NOT MEASURED |
+
+Normalisation permitted is the operative row. Every other value describes what the Tower does;
+this one describes what A.C.T must refrain from doing, and it is the row
+a clerk can violate while believing they are correcting an error in good faith.
+
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Copy Controls
+
+- source mark intact on every copy
+- failure fields copied exactly as recorded
+- off-index duplicate stored at intake
+- Recovery and Legal consulted before any closure
+
+### Ledger Readouts
+
+- extract inventory per case
+- lookup failure sequence per entry
+- off-index duplicate state
+- normalisation attempts and their refusal
+
+### Handling Limits And Weaknesses
+
+- Do not normalise a failed lookup into a clean address.
+- Do not run an extract through automated address correction.
+- Do not publish a Tower entry that names an A.C.T Site.
+- Do not destroy a last-proof entry during normalcy cleanup.
+- Weakest where a tidy file reads as a competent one.
+- Weakest where an extract is copied without its source mark.
+
+Case counts and page counts are NOT MEASURED and are tracked per case by
+Central Archive.
+
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence applies whenever a Tower extract enters A.C.T custody or a related field
+entry is planned. It fixes the entry before anyone works from it, because the
+working copy is where the contradiction gets lost.
+
+1. Copy the extract with its source mark intact.
+2. Record the lookup sequence exactly as the ledger holds it.
+3. Store an off-index duplicate at intake.
+4. Mark the entry as normalisation-prohibited.
+5. Print the entry before any related field entry.
+6. Cross-reference the associated bell entry.
+7. Refer any closure proposal to Recovery and Legal.
+8. Report the failure pattern, not a corrected address.
+
+Step 8 is the discipline. A report that supplies a corrected address closes the
+question the case was opened to ask, and the next team inherits a file
+that no longer shows why anyone was looking in the first place.
+
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per extract | copy with source mark, store off-index |
+| Per field entry | print before deployment |
+| Monthly | verify off-index duplicates against originals |
+| Quarterly | audit files for normalised failure fields |
+| Annually | review continuance handling with Legal |
+
+The quarterly audit is the maintenance with a real surface, because normalisation is performed
+by staff who believe they are correcting an error and it is invisible afterwards
+by definition. A cleaned field gives no indication that it ever held a contradiction.
+
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Address corrected | normalisation drift | restore, Central Archive |
+| Source mark lost | copying lapse | re-request from Tower |
+| Lookup fails again | Missing 404 patterning | escalate, Recovery |
+| Site named in entry | sensitive exposure | redact, Civil Covert |
+| Cleanup proposed | normalcy pressure | hold, Legal Division |
+
+
+---
+
+## KNOWN LIMITS
+
+A.C.T holds extracts rather than the ledger. No complete tower ledger has been received,
+so this record describes a format and a discipline rather than an inventory, and
+the Facility cannot state how many entries exist, how they are indexed across stations,
+or whether a single central archive exists at all. The dossier asks that question
+directly and leaves it open.
+
+The record also cannot confirm the resistance claim. Whether ledger pages actively resist deletion
+or survive for mundane reasons is unresolved, and A.C.T will not test the question
+by attempting to delete a last-proof entry. What is confirmed is utility: extracts have
+been used in cases where every other lookup path had already failed.
+
+
+---
+
+## FAILURE HISTORY
+
+### NORTH WINDOW RELAY — ANALOG DUPLICATION ORDERED
+
+During the case that produced the North Window Relay notice, the first A.C.T digital
+recovery report corrupted twice before Central Archive ordered analog duplication. The same case produced
+a verified inbound call through a demolished school basement telephone with no active service
+account. The event is filed here because the Tower's storage preference was demonstrated inside
+A.C.T's own archive rather than argued for.
+
+### NORMALISATION DRIFT — STANDING CONDITION
+
+No file has been restored after normalisation. The condition is filed because correcting a
+failed lookup is ordinary clerical good practice, and the harm is visible only to
+someone who knows the failure was the finding. The audit therefore runs against A.C.T
+files rather than against staff.
+
+### LEDGER CUSTODY — UNRESOLVED
+
+Whether full ledger custody would protect A.C.T or expose more people to absence is
+unresolved. The dossier records that Tower archives may contain vanished Site references, sealed witness
+names, and deleted incident fragments, which means the Facility could acquire records it is
+then responsible for losing.
+
+
+---
+
+## DIVISION USE
+
+The Intelligence Division verifies Tower notices before they become actionable leads and reads extracts
+against other dead-address cases. Recovery Division uses extracts in the field and holds the
+pause on any closure that would remove a name from an active file. Central
+Archive holds the copies, the off-index duplicates, and the source-mark requirement.
+
+Civil Covert handles family, municipal, and media contact where a lookup failure has public
+consequences. Legal Division reviews continuance and closure questions. Subject Care is attached where a
+recovered person has suffered identity loss or legal nonexistence. Command authorises escalation and holds
+no authority to order normalisation of a failure field.
+
+
+---
+
+## CROSS-REFERENCES
+
+- GOI-HY-W-053 — Missing 404 Watch Tower, Group of Interest Registry;
+- TECH-GOI-053-2 — Missing 404 Watch Tower Null-Coordinate Map Set, Technology Record;
+- TECH-GOI-053-3 — Missing 404 Watch Tower Rescue Bell Continuance Register, Technology Record;
+- TECH-GOI-053-4 — Missing 404 Watch Tower Locked Phone and Signal Relay, Technology Record;
+- TECH-GOI-053-5 — Missing 404 Watch Tower Analog Photograph and Dead-Link Vault, Technology Record;
+- TECH-GOI-051-5 — Mysterious Guild Ghost File Record Erasure System, Technology Record;
+- Dead-address notice from the North Window Relay, Recovered Document [Level 4].
+
+The Ghost File record is cited because the two systems are exact inverses working
+on the same surface. One removes the record so that no inference can be
+assembled; this one holds the failed lookup open so that the inference cannot be
+foreclosed. Both are archive technologies, and neither is answered by better storage alone.
+
+
+---
+
+## OPEN QUESTIONS
+
+- Does one central ledger exist, or do stations share by signal exchange?
+- Do ledger pages actively resist deletion?
+- Does bell recitation strengthen an entry?
+- Would full custody protect A.C.T or expose more people?
+- How are entries indexed across separate tower offices?
+- Can an entry be forged well enough to misdirect a recovery?
+
+
+---
+
+## FILE METADATA
+
+- **Created:** 1979-04-17
+- **Author Desk:** Intelligence Division / Recovery Division / Central Archive
+- **Review Status:** Active restricted cooperative-record technology record; sealed tower ledgers held at Level
+  5
+- **Next Review:** After any new extract, any lookup-failure recurrence, or any normalisation finding

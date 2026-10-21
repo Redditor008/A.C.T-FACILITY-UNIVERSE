@@ -1,73 +1,326 @@
-# TECH-GOI-053-2 - MISSING 404 WATCH TOWER NULL-COORDINATE MAP SET
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - MISSING 404 WATCH TOWER NULL-COORDINATE MAP SET
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | TECHNOLOGY DESIGNATION | TECH-GOI-053-2 |
 | TECHNOLOGY NAME | Missing 404 Watch Tower Null-Coordinate Map Set |
-| COMMON ABBREVIATIONS | Null-Coordinate Map / NCM / Failed-Route Map |
-| ORIGIN | Missing 404 Watch Tower |
-| ACQUISITION STATUS | Cooperative field use and copied route extracts; original tower maps withheld |
-| PRIMARY A.C.T INTEREST | Absent-location navigation, recovery-route correction, map-failure comparison, field team survival |
-| ARCHIVE HANDLING | M404-WT ROUTE RESTRICTED / RECOVERY DIVISION CONTROL |
+| SHORT NAME | MTNCM |
+| TECHNOLOGY FAMILY | ACQUIRED BY COOPERATION / ANALOG CARTOGRAPHY / FAILED-ROUTE RECORD |
+| ORIGIN | MISSING 404 WATCH TOWER (GOI-HY-W-053) / NULL-COORDINATE CARTOGRAPHER |
+| PRIMARY CONTROLLER | Recovery Division with Intelligence Division |
+| ATTACHED DIVISIONS | Recovery, Intelligence, Containment, Civil Covert, Central Archive, Command |
+| OPERATIONAL STATUS | ROUTE EXTRACTS IN FIELD USE / ORIGINAL TOWER MAPS WITHHELD |
+| RISK STATUS | ROUTE AVERAGING / DIGITAL NORMALISATION / OVERTRUST |
+| CLEARANCE REQUIRED | Level 4 for route extracts; Level 5 for sealed ledgers |
 
-## Functional Identity
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Cooperative-Routing Technology Record |
+| DISTRIBUTION | Recovery / Intelligence / Containment / Civil Covert / Central Archive |
+| AUTHORITY | Recovery Division and Intelligence Division, Central Archive oversight |
 
-The Missing 404 Watch Tower Null-Coordinate Map Set is the cartographic technology used to
-describe places by failed
+#### Archive Note
+This record covers the cartographic method the Tower uses to describe places by failed
 routes, vanished road lines, impossible coordinates, and disagreements between old maps and current terrain.
-The GOI
-dossier identifies null-coordinate maps as known assets and states that absence cartographers compare old
-maps,
-emergency routes, missing trail records, and impossible coordinates. A.C.T classifies the map set as
-acquired GOI
-technology because Tower route extracts have guided A.C.T recovery teams when ordinary navigation corrected
-itself
-away from the hazard.
+The dossier names absence cartographers as a distinct role and null-coordinate maps as known
+assets. Access is cooperative: Recovery Division uses copied route extracts in the field and
+the original tower maps are withheld.
 
-A null-coordinate map does not promise a stable location. It preserves the pattern of
-not reaching one. This
-distinction matters. In Missing 404 cases, a search team may lose the site because
-every digital map silently updates,
-a road appears after dogs refuse a treeline, or a building's civic address survives
-while its physical approach
-vanishes.
+A null-coordinate map does not promise a location. It preserves the pattern of not
+reaching one, which in a Missing 404 case is the only stable fact available.
+That distinction governs every handling rule in this file, because a map that records
+refusal has no equivalent field in ordinary cartography: the operative content is negative direction,
+such as do not follow the new road line, do not accept the second
+bridge, or stop when the trail sign names a town the county does not
+contain.
 
-## Known Structure
+It follows that the map cannot be normalised. Redrawing an extract into a clean
+GIS layer removes the contradictions, and the contradictions are the route evidence. Where a
+Tower map and A.C.T digital navigation disagree during a Missing 404 event, teams pause
+and report rather than averaging the two, because an averaged route may describe a
+path that neither system actually supports.
 
-Known map markings include crossed road lines, bell numbers, last-seen witness positions, deleted dispatch
-routes,
-places where photographs stop matching terrain, and hand-written warnings such as carry paper maps
-only. The map may
-also include negative directions: do not follow the new road line, do not accept
-the second bridge, do not use the
-hospital archive coordinate, or stop when the trail sign points to a town that
-is not in the county.
+Controlled label: **M404-WT ROUTE AVERAGING PROHIBITION**.
 
-A.C.T does not know whether null-coordinate maps are anomalous objects or disciplined analog records
-that resist an
-external effect. The Tower's repeated success suggests method, but method is not the same
-as full explanation.
+Core handling rule:
 
-## A.C.T Handling Rules
+```text
+A NULL-COORDINATE MAP RECORDS REFUSAL; IT DOES NOT PROMISE A POSITION.
+WHERE THE MAP AND DIGITAL NAVIGATION DISAGREE, PAUSE AND REPORT.
+```
 
-Recovery teams may use Tower map extracts only with live command monitoring and analog
-duplication. A null-coordinate
-map must not be redrawn into a clean GIS layer unless the original contradictions
-are preserved beside it. Removing
-contradiction destroys the route evidence.
+---
 
-If a Tower map and A.C.T digital navigation disagree during a Missing 404 event,
-teams must pause and report rather
-than averaging the two. An averaged route may create a path that neither system
-actually supports.
+## FUNCTION SUMMARY
 
-## Failure and Open Questions
+The map set exists because in a Missing 404 case the ground can be
+the unreliable party. A search team may lose a site because every digital map
+silently updates, because a road appears after the dogs refuse a treeline, or because
+a building's civic address survives while its physical approach does not. Conventional cartography has
+nothing to say about any of those conditions, so the Tower drew a different
+kind of sheet.
 
-Failure modes include overtrust, aesthetic copying, digital normalization, and panic rerouting. A printed map
-can
-still be wrong, baited, outdated, or misunderstood. Open questions include whether some Tower posts
-are built inside
-missing places, whether maps can be made for future disappearances, and why carved signs
-and paper bearings sometimes
-survive better than satellite records. Archive confidence is Moderate for field utility and Low
-for mechanism.
+What the sheet records is the history of attempts. Crossed road lines, deleted dispatch
+routes, the position where photographs stop matching terrain, and explicit prohibitions are all entries
+in the same register. A team reading it learns where the last three teams
+failed and in which direction failure lay, which is more useful than a coordinate
+that may have stopped being true.
+
+A.C.T files the method as technology because it is repeatable and because it has
+worked. Route extracts have guided recovery teams when ordinary navigation corrected itself away from
+the hazard, and the record treats that as confirmed field utility while leaving the
+mechanism open.
+
+
+---
+
+## ORIGIN AND CUSTODY
+
+The map set comes from the Tower's absence cartographers, whose work the dossier describes
+as comparing old maps, emergency routes, missing trail records, and impossible coordinates. A.C.T uses
+copied route extracts; original tower maps are withheld and are not claimed. Extracts are
+treated as leads and as route discipline, never as verified ground truth.
+
+Custody sits with Recovery Division and the Intelligence Division under Central Archive oversight, with
+Containment attached where a route crosses a hazard boundary. Field use requires live command
+monitoring and an analog duplicate carried by the team.
+
+No extract is redrawn into a clean GIS layer on its own. Where a
+conversion is genuinely needed, the original contradictions are preserved beside it, and the conversion
+is filed as a derivative rather than as a replacement.
+
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+Known markings are described from the extracts held:
+
+- crossed road lines and abandoned alignments;
+- bell numbers tied to continuance entries;
+- last-seen witness positions, attributed;
+- deleted dispatch routes, preserved;
+- places where photographs stop matching terrain;
+- handwritten field warnings;
+- negative directions and prohibitions;
+- coordinates recorded as failures, not positions;
+- paper stock and duplication practice;
+- anomalous status of the sheet, unresolved.
+
+The last row matters for custody rather than for navigation. A.C.T does not know
+whether a null-coordinate map is an anomalous object or a disciplined analog record that
+survives an external effect, and the Tower's repeated usefulness settles neither. Method and mechanism
+are different claims, and this record makes only the first.
+
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Values are restated from the GOI-HY-W-053 dossier and from the extracts in field use.
+Nothing is validated by sending a team to confirm a position the map says
+cannot be reached.
+
+| MAP PARAMETER | VALUE |
+|---|---|
+| Map status | extracts in field use |
+| Describes | failed routes, not positions |
+| Negative directions | yes, and they are the content |
+| Coordinate basis | recorded failures |
+| GIS conversion | prohibited without contradiction copy |
+| Averaging permitted | never during a Missing 404 event |
+| Duplication | analog, before deployment |
+| Command monitoring | live, during field use |
+| Anomalous status | unresolved |
+| Routes recovered by | NOT MEASURED |
+
+Averaging permitted is the row that keeps teams alive. Two conflicting references invite a
+compromise, and the compromise produces a single clean line that looks authoritative, fits on
+one sheet, and may describe nothing that exists.
+
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Field Use Controls
+
+- analog duplication before any deployment
+- live command monitoring during use
+- original contradictions kept beside any conversion
+- pause and report on disagreement with navigation
+
+### Route Readouts
+
+- extract inventory per case
+- disagreement events logged in the field
+- negative directions carried per team
+- route outcomes recorded against the extract
+
+### Handling Limits And Weaknesses
+
+- Do not redraw an extract into a clean GIS layer alone.
+- Do not average a Tower map with digital navigation.
+- Do not treat a printed map as verified ground truth.
+- Do not follow a road line that appeared after the search began.
+- Weakest where a team under time pressure wants one clear route.
+- Weakest where contradiction is read as poor drafting.
+
+Route outcomes and disagreement counts are NOT MEASURED and are tracked per case by
+Recovery Division.
+
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+The sequence covers a field entry made against a Tower route extract. It puts
+the paper sheet first and the digital reference second, which is the reverse of
+normal practice and is deliberate, because the digital reference is the one that quietly
+changes.
+
+1. Duplicate the extract on paper before deployment.
+2. Record every negative direction on the team card.
+3. Confirm live command monitoring is established.
+4. Carry the extract as the primary reference, not the backup.
+5. Stop and report at any disagreement with navigation.
+6. Log the disagreement with time, weather, and position.
+7. Refuse any road line that appeared after the search began.
+8. Report the refusal pattern, not a corrected route.
+
+Step 5 is the one that saves the team. Averaging is the natural response
+to two conflicting references and it feels like competence; the log entry that replaces
+it feels like delay, and only one of the two has ever brought a
+team back.
+
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per deployment | duplicate, brief negative directions |
+| Per disagreement | log time, weather, and position |
+| Monthly | verify extract inventory against cases |
+| Quarterly | audit conversions for preserved contradiction |
+| Annually | review the field-use rule with Command |
+
+The conversion audit catches the quiet failure. A GIS layer built from a null-coordinate
+extract looks like progress in any review, and the contradiction it dropped is not
+visible on the layer that lost it.
+
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Routes disagree | Missing 404 patterning | pause, report |
+| New road appeared | absent-location effect | refuse the line |
+| Layer built clean | contradiction dropped | restore, Archive |
+| Map trusted alone | overtrust | verify, Containment |
+| Team rerouted | panic routing | halt, Command |
+
+
+---
+
+## KNOWN LIMITS
+
+A.C.T holds extracts rather than the maps, and nothing in this record establishes that
+Tower cartography is anomalous. The claim made here is narrower: the method is disciplined,
+it is repeatable, and it has produced routes that ordinary navigation did not. Whether
+the sheets resist an external effect or simply record one carefully is unresolved.
+
+The record also cannot validate an extract against ground, because in a Missing 404
+case there may be no ground left to validate against. A printed map can
+be wrong, outdated, baited, or misread, and the file requires teams to treat disagreement
+as information rather than settling it by preferring one source over the other.
+
+
+---
+
+## FAILURE HISTORY
+
+### EAST SERVICE ROAD — NEW ROAD LINE REFUSED
+
+The recovered North Window Relay notice records that four responders entered the east service
+road, that three voices returned by radio after midnight, and that a new road
+line appeared after the first search dog refused the treeline. The notice instructed teams
+to carry paper maps only and not to follow the new line. Recovery Division
+recovered two responders and one body; the fourth remains under continuance review.
+
+### DIGITAL NORMALISATION — STANDING CONDITION
+
+No conversion has been rolled back. The condition is filed because a clean layer
+is more useful in a briefing than a contradictory sheet, and the pressure to
+produce one arrives as professionalism rather than as carelessness. The audit therefore runs against
+conversions rather than against the teams that carried the paper.
+
+### MAP PROVENANCE — UNRESOLVED
+
+Whether any tower post is built inside a place that is already missing, whether
+a map can be prepared for a disappearance that has not happened, and why
+carved signs and paper bearings sometimes outlast satellite records are all unresolved. The dossier
+holds the questions open and this record does not close them.
+
+
+---
+
+## DIVISION USE
+
+Recovery Division holds field use, the duplication requirement, and the pause-and-report rule. The
+Intelligence Division reads extracts against other route cases and verifies Tower notices before they
+become actionable. Containment is attached where a route crosses a hazard boundary and holds
+the refusal on any entry that would cross it unmonitored.
+
+Civil Covert handles municipal and mapping-authority contact where a public road record is involved.
+Central Archive holds the extracts, the duplicates, and the conversion derivatives. Command holds the
+halt authority during a field disagreement, which is the only decision in this record
+that must be made quickly.
+
+
+---
+
+## CROSS-REFERENCES
+
+- GOI-HY-W-053 — Missing 404 Watch Tower, Group of Interest Registry;
+- TECH-GOI-053-1 — Missing 404 Watch Tower Dead-Address Ledger System, Technology Record;
+- TECH-GOI-053-3 — Missing 404 Watch Tower Rescue Bell Continuance Register, Technology Record;
+- TECH-GOI-053-4 — Missing 404 Watch Tower Locked Phone and Signal Relay, Technology Record;
+- TECH-GOI-053-5 — Missing 404 Watch Tower Analog Photograph and Dead-Link Vault, Technology Record;
+- TECH-GOI-048-2 — CoTD Inland-Mouth Overlay Map Set, Technology Record;
+- Dead-address notice from the North Window Relay, Recovered Document [Level 4].
+
+The overlay map set is cited as the nearest comparison in the archive: both
+encode information that conventional cartography has no field for, and both are read by
+people who must trust the sheet in front of them. The difference is direction.
+The overlay set leads adherents toward a site; this set tells a recovery team
+which way not to go.
+
+
+---
+
+## OPEN QUESTIONS
+
+- Are any tower posts built inside places already missing?
+- Can a null-coordinate map be prepared before a disappearance?
+- Why do carved signs and paper bearings outlast satellite records?
+- Can an extract be forged well enough to misdirect a team?
+- Does a converted layer retain any of the original refusal data?
+- How are extracts dated and superseded across stations?
+
+
+---
+
+## FILE METADATA
+
+- **Created:** 1994-10-06
+- **Author Desk:** Recovery Division / Intelligence Division / Central Archive
+- **Review Status:** Active restricted cooperative-routing technology record; sealed tower ledgers held at Level
+  5
+- **Next Review:** After any field disagreement, any new extract, or any conversion request

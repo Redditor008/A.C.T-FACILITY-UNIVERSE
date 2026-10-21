@@ -4935,3 +4935,89 @@ still hold glued separator lines in their markdown OPEN QUESTIONS blocks.
 Next action.
 
 Rebuild the TECH-GOI-053 set.
+
+## Prompt Log — 2026-10-21 14:36 UTC
+
+TECH-GOI-053, Missing 404 Watch Tower, rebuilt.
+
+The five records move from four-chapter summaries of 499 to 533 words each to full dossiers of 2194
+to 2305 words across 14 chapters, on the house shape used for GOI-001, GOI-014, GOI-027, GOI-048,
+GOI-049, GOI-050, GOI-051, and GOI-052. Every fact in the old records survives: the dead-address
+ledger fields, null-coordinate route markings, bell states, the verified inbound call through a
+demolished school line, the analog vault methods, the North Window Relay notice, and the prohibition
+on normalcy cleanup of last-proof material.
+
+The set is written as cooperation rather than acquisition, and that changes the shape of every rule.
+
+GOI-HY-W-053 is a WORK-relationship network at Threat Level 3, so nothing here was seized. Access is
+extracts, notices, copied pages, and inspected storage practice, and the originals are withheld
+without that being treated as obstruction. The hazard in each record is therefore not the Tower but
+what A.C.T does to the material afterwards: normalising a contradiction, averaging two routes,
+closing a name, routing a signal, or running a cleanup tool across a case folder.
+
+Each record carries its own argument, and no two share a thesis.
+
+The ledger record holds that the value of an entry is the failed lookup rather than the address,
+because the failure is what separates ordinary error from bureaucratic loss, deliberate deletion,
+and an active anomalous condition. The map record holds that a null-coordinate sheet records refusal
+and does not promise a position, so it cannot be redrawn into a clean layer and must never be
+averaged with digital navigation, since the average may describe a path neither system supports.
+
+The remaining three records argue their own cases.
+
+The bell record holds that the states form a diagnostic vocabulary, that a failed lookup is not a
+death certificate, and that the operative substitution is a watch interval in place of a closure
+date. The signal record holds that the hazard is the routing rather than the call, because an
+unexplained signal placed on a live network becomes a path back into baseline systems, and no
+available measurement distinguishes a survivor voice from a borrowed one.
+
+The vault record treats the dead link as the artifact.
+
+Proof held in a form that does not ask a network for permission to exist cannot silently revise its
+own history, and a dead link carries the date the second disappearance began, which is often the
+only timestamp the case will ever have. The confirmed A.C.T-side instance is filed: the Facility's
+first digital recovery report corrupted twice before Central Archive ordered analog duplication,
+which is the Tower's method vindicated inside A.C.T's own archive.
+
+The builder and checker were re-authored again this turn.
+
+The working directory had been reset to the base commit a further time, with 3340 files missing from
+the tree, so the scratch folder was empty at the start. The tree was recovered by byte-comparing
+FETCH_HEAD and resetting to it, and the builder was rewritten carrying both standing fixes: the
+plain-text box wrapper flushing its final line, and the 118-character guard running per physical
+line rather than per paragraph.
+
+The census walker was carried over in its corrected form.
+
+An empty first column on a box continuation line means column two wrapped, which is harmless; the
+signature of a first-column wrap is a continuation line carrying text in column one. Run over the
+nine rebuilt sets the census returns 225 tables and 1708 rows, being 225 header rows and 1483 body
+rows, with 0 first-column wraps.
+
+Verification.
+
+Each record was checked for chapter count and order, a single H1, one archive note, exactly eight H3
+sections including one Numbered Operating Sequence with eight steps, fourteen chapter separators,
+exactly five tables matched by five plain-text boxes, a single fenced handling rule, no markdown
+artefacts carried into the twin, every heading present as a bare line in the twin, every table cell
+present in the twin once box columns are rejoined, box rules exactly 118 wide, no O5 reference,
+correct cross-reference designations, generated dates inside the 1598 to 2026 archive cycle and
+identical in both twins, and a single trailing newline.
+
+Validation.
+
+DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, CONFLICT 0, multiH1 0, odd-fence 0, md-
+with-box 0, glued separator lines 0, placeholders 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204,
+GOI_MD 34 = GOI_TXT 34, widest box line 118, date-rule violations 0, twin date mismatches 0,
+truncated registry cells 0 across 7640 shared-label rows, gated records 182 with 0 missing sections,
+git diff --check rc=0.
+
+Remaining GOI technology backlog.
+
+One stub set remains on the old four-chapter shape, five records: 055. Separately, the full dossiers
+that do not yet carry the retrofit chapters are GOI sets 054, 056, and 071, which still hold glued
+separator lines in their markdown OPEN QUESTIONS blocks. No ACT records remain.
+
+Next action.
+
+Rebuild the TECH-GOI-055 set, the last stub set.
