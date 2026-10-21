@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - RED-RIVER ACID (STABILIZED)
 |                            | exposure, and Dark World export                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Anomalous Chemical Technology Record
-Distribution: Hazardous Materials / Dark World Survey / Engineering / Materials Custody / Medical
-/ White Grave
-Authority: Hazardous Materials Desk, Dark World Survey, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Anomalous Chemical Technology Record                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Hazardous Materials / Dark World Survey / Engineering / Materials Custody / Medical / |
+|                            | White Grave                                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Hazardous Materials Desk, Dark World Survey, and Central Archive                      |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Red-River Acid (Stabilized) is the forty-eighth main A.C.T technology expanded into an individual record.

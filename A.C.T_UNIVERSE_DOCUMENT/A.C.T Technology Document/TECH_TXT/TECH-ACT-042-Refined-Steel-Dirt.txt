@@ -26,10 +26,17 @@ TECHNOLOGY RECORD - REFINED STEEL-DIRT
 |                            | deployment, and outgassing suppression                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Refined Anomalous Material Technology Record
-Distribution: Materials Custody / Hazardous Materials / Engineering / Dark World Survey / Biological
-Containment
-Authority: Materials Custody, Hazardous Materials Desk, Engineering Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Refined Anomalous Material Technology Record                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Materials Custody / Hazardous Materials / Engineering / Dark World Survey /           |
+|                            | Biological Containment                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Materials Custody, Hazardous Materials Desk, Engineering Division, and Central        |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Refined Steel-Dirt is the forty-second main A.C.T technology expanded into an individual record. The

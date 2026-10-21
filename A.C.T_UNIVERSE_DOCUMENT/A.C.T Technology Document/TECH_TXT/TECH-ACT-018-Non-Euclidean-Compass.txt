@@ -26,10 +26,17 @@ TECHNOLOGY RECORD - NON-EUCLIDEAN COMPASS
 |                            | Aether-Filter access, and route records                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Expedition Navigation Technology Record
-Distribution: Survey / Dark World Expedition Desk / Recovery / Engineering / Site Command
-/ Archive
-Authority: Survey Division, Dark World Expedition Desk, Engineering Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Expedition Navigation Technology Record                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Survey / Dark World Expedition Desk / Recovery / Engineering / Site Command /         |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Survey Division, Dark World Expedition Desk, Engineering Division, and Central        |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 The Non-Euclidean Compass is the eighteenth main A.C.T technology expanded into an individual record.

@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - REGRESSION-RESISTANT INK
 |                            | shift-resistant witness record handling                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Archival Material Record
-Distribution: Archive / O5 Liaison / Info-Hazard / Materials Custody / Site-03
-Authority: Archive Division, Materials Custody Desk, O5 Liaison, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Archival Material Record                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Archive / O5 Liaison / Info-Hazard / Materials Custody / Site-03                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Archive Division, Materials Custody Desk, O5 Liaison, and Central Archive             |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Regression-Resistant Ink is the twentieth main A.C.T technology expanded into an individual record. The

@@ -26,9 +26,16 @@ TECHNOLOGY RECORD - VERTICAL-FLOW PERSONNEL PROCESSING AND CLEARANCE VERIFICATIO
 |                            | assignment verified per shift                                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Redwood Veil Administrative Technology Record
-Distribution: Redwood Veil Complex / Administration / Personnel / Security / Training / Command
-Authority: Site Director, Site Administration, Personnel Office, Security Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Redwood Veil Administrative Technology Record                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Redwood Veil Complex / Administration / Personnel / Security / Training / Command     |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Site Director, Site Administration, Personnel Office, Security Division, and Central  |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Vertical-Flow Personnel Processing and Clearance Verification System is the one-hundred-twenty-ninth main A.C.T

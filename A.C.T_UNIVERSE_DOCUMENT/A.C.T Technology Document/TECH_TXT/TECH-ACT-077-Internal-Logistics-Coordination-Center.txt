@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - INTERNAL LOGISTICS COORDINATION CENTER
 |                            | deep-floor movement                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Logistics Infrastructure Technology Record
-Distribution: Administration / Logistics / Recovery / Containment / Research / Security / Nusantara
-Deep Relay
-Authority: Relay Administration, Site Director, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Logistics Infrastructure Technology Record                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Administration / Logistics / Recovery / Containment / Research / Security / Nusantara |
+|                            | Deep Relay                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Relay Administration, Site Director, and Central Archive                              |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Internal Logistics Coordination Center is the seventy-seventh main A.C.T technology expanded into an individual

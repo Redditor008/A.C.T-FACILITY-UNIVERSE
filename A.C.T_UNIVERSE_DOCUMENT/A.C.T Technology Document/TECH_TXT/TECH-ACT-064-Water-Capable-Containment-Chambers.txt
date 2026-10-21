@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - WATER-CAPABLE CONTAINMENT CHAMBERS
 |                            | environmental alteration, or breach use                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Maritime Containment Technology Record
-Distribution: Containment / Recovery / Research / Medical / Security / Nusantara Deep Relay
-Authority: Maritime-Hold Command, Nusantara Site Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Maritime Containment Technology Record                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Containment / Recovery / Research / Medical / Security / Nusantara Deep Relay         |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Maritime-Hold Command, Nusantara Site Command, and Central Archive                    |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Water-Capable Containment Chambers are the sixty-fourth main A.C.T technology expanded into an individual record.

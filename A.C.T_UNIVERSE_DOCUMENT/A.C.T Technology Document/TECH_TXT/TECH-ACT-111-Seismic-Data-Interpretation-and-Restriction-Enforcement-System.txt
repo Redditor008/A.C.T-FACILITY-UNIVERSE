@@ -26,9 +26,16 @@ TECHNOLOGY RECORD - SEISMIC DATA INTERPRETATION AND RESTRICTION ENFORCEMENT SYST
 |                            | correlation release                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Nusantara Research-Data Technology Record
-Distribution: Nusantara Deep Relay / Research / Seismic Analysis Support / Security / Archive
-Authority: Floor Research Chief, Seismic Analysis Support Liaison, Restricted Review Chain, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Nusantara Research-Data Technology Record                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Nusantara Deep Relay / Research / Seismic Analysis Support / Security / Archive       |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Floor Research Chief, Seismic Analysis Support Liaison, Restricted Review Chain, and  |
+|                            | Central Archive                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Seismic Data Interpretation and Restriction Enforcement System is the one-hundred-eleventh main A.C.T technology

@@ -26,9 +26,16 @@ TECHNOLOGY RECORD - REINFORCED IRON CAGING
 |                            | resident-adjacent inspection                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Retired Heavy Containment Technology Record
-Distribution: Historical Engineering Archive / Heavy Containment / Engineering / Site Safety / Archive
-Authority: Historical Engineering Archive, Heavy Containment, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Retired Heavy Containment Technology Record                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Historical Engineering Archive / Heavy Containment / Engineering / Site Safety /      |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Historical Engineering Archive, Heavy Containment, and Central Archive                |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Reinforced Iron Caging is the fifty-fourth main A.C.T technology expanded into an individual record.

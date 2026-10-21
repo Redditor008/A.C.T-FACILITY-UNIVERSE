@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - SUSPENDED VAULT MOUNTING SYSTEM
 |                            | transfer, or shaft redesign                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Deep Vault Architecture Technology Record
-Distribution: Containment / Engineering / Security / Deep-Hold Command / Medical / Archive
-Authority: Containment Division, Engineering Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Deep Vault Architecture Technology Record                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Containment / Engineering / Security / Deep-Hold Command / Medical / Archive          |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Containment Division, Engineering Division, and Central Archive                       |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 The Suspended Vault Mounting System is the sixty-first main A.C.T technology expanded into an

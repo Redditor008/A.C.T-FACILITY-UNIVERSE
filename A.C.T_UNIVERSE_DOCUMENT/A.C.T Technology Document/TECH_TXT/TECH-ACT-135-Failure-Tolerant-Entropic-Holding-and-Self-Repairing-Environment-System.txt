@@ -27,9 +27,16 @@ TECHNOLOGY RECORD - FAILURE-TOLERANT ENTROPIC HOLDING AND SELF-REPAIRING ENVIRON
 +----------------------------+---------------------------------------------------------------------------------------+
 
 
-Archive Status: Active White Grave Restricted-Holding Technology Record
-Distribution: White Grave Station / Containment / Engineering / Security / Medical / Archive
-Authority: Floor Holding Chief, Containment Division, Engineering Support, Site Director, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active White Grave Restricted-Holding Technology Record                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | White Grave Station / Containment / Engineering / Security / Medical / Archive        |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Floor Holding Chief, Containment Division, Engineering Support, Site Director, and    |
+|                            | Central Archive                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Failure-Tolerant Entropic Holding and Self-Repairing Environment System is the one-hundred-thirty-fifth main A.C.T

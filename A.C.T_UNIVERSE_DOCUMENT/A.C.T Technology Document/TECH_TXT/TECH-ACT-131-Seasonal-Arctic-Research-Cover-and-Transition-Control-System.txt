@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - SEASONAL ARCTIC RESEARCH COVER AND TRANSITION CONTROL SYSTEM
 |                            | per person and shipment                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active White Grave Surface Technology Record
-Distribution: White Grave Station / Research Surface Program / Administration / Logistics / Engineering
-/ Security
-Authority: Surface Chief, Station Administration, Site Director, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active White Grave Surface Technology Record                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | White Grave Station / Research Surface Program / Administration / Logistics /         |
+|                            | Engineering / Security                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Surface Chief, Station Administration, Site Director, and Central Archive             |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Seasonal Arctic Research Cover and Transition Control System is the one-hundred-thirty-first main A.C.T technology

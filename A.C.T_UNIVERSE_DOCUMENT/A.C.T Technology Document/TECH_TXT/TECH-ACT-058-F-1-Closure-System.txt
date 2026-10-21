@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - F-1 CLOSURE SYSTEM
 |                            | activation                                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Deep Containment Infrastructure Technology Record
-Distribution: Containment / Security / Engineering / Site Command / Medical / Archive
-Authority: Deep-Hold Command, Site Director, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Deep Containment Infrastructure Technology Record                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Containment / Security / Engineering / Site Command / Medical / Archive               |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Deep-Hold Command, Site Director, and Central Archive                                 |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 The F-1 Closure System is the fifty-eighth main A.C.T technology expanded into an individual

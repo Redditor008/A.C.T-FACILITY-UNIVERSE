@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - VACUUM ISOLATION SPHERES
 |                            | cycling, and acoustic evidence                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Legacy-Derived Containment Technology Record
-Distribution: Containment / Archive / Info-Hazard / Engineering / Site Command
-Authority: Containment Division, Archive Division, Engineering Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Legacy-Derived Containment Technology Record                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Containment / Archive / Info-Hazard / Engineering / Site Command                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Containment Division, Archive Division, Engineering Division, and Central Archive     |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Vacuum Isolation Spheres are the seventeenth main A.C.T technology expanded into an individual record.

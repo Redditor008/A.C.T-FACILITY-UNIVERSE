@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - COMMAND COMMUNICATIONS NEXUS
 |                            | sealed operational channel access                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Command Infrastructure Technology Record
-Distribution: Command / Security / Administration / Division Chiefs / Nusantara Deep Relay
-Authority: Site Director, Command Support, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Command Infrastructure Technology Record                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Command / Security / Administration / Division Chiefs / Nusantara Deep Relay          |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Site Director, Command Support, and Central Archive                                   |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Command Communications Nexus is the seventy-sixth main A.C.T technology expanded into an individual record.

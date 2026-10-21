@@ -26,11 +26,16 @@ TECHNOLOGY RECORD - NATURAL COVER RESEARCH STATION SYSTEM
 |                            | concealed-watch integration                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Surface Cover Technology Record
-Distribution: Station Management / Security / Administration / Watch Staff / Nusantara Deep Relay
-/ Ash Tide
-Watchpoint
-Authority: Station Manager, Watch Chief, Nusantara Site Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Surface Cover Technology Record                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Station Management / Security / Administration / Watch Staff / Nusantara Deep Relay / |
+|                            | Ash Tide Watchpoint                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Station Manager, Watch Chief, Nusantara Site Command, and Central Archive             |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Natural Cover Research Station System is the eighty-sixth main A.C.T technology expanded into an

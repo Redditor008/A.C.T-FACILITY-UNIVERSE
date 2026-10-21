@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - MARITIME PLATFORM CONTAINMENT INFRASTRUCTURE
 |                            | or hostile maritime response                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Maritime Recovery Technology Record
-Distribution: Recovery / Containment / Security / Nusantara Deep Relay / Maritime Field Commands
-Authority: Maritime Recovery Command, Nusantara Site Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Maritime Recovery Technology Record                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Recovery / Containment / Security / Nusantara Deep Relay / Maritime Field Commands    |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Maritime Recovery Command, Nusantara Site Command, and Central Archive                |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Maritime Platform Containment Infrastructure is the sixty-sixth main A.C.T technology expanded into an individual

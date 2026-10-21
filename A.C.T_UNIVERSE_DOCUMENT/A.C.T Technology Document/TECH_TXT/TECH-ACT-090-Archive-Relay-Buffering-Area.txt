@@ -26,12 +26,17 @@ TECHNOLOGY RECORD - ARCHIVE RELAY BUFFERING AREA
 |                            | or parent-archive exception                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Archive Relay Technology Record
-Distribution: Glass Orchard Relay / Redwood Veil Complex / Limited Archive / Security /
-Recovery Support / Central
-Archive
-Authority: Limited Archive Lead, Processing Officer, Sub-Site Chief, Redwood Veil Archive Command, and Central
-Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Archive Relay Technology Record                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Glass Orchard Relay / Redwood Veil Complex / Limited Archive / Security / Recovery    |
+|                            | Support / Central Archive                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Limited Archive Lead, Processing Officer, Sub-Site Chief, Redwood Veil Archive        |
+|                            | Command, and Central Archive                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Archive Relay Buffering Area is the ninetieth main A.C.T technology expanded into an individual

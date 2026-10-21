@@ -26,11 +26,17 @@ TECHNOLOGY RECORD - SHARED-INSTRUMENT OBSERVATION NETWORK
 |                            | for concealed routing review                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Dual-Use Observation Technology Record
-Distribution: Station Staff / Watch Coordination / Security / Administration / Nusantara Deep Relay
-/ Ash Tide
-Watchpoint
-Authority: Station Manager, Watch Officer, Watch Chief, Nusantara Site Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Dual-Use Observation Technology Record                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Station Staff / Watch Coordination / Security / Administration / Nusantara Deep Relay |
+|                            | / Ash Tide Watchpoint                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Station Manager, Watch Officer, Watch Chief, Nusantara Site Command, and Central      |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Shared-Instrument Observation Network is the eighty-seventh main A.C.T technology expanded into an individual record.

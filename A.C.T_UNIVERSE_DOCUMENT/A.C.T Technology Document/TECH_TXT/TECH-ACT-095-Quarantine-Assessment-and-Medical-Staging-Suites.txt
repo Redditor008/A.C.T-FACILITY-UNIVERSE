@@ -26,11 +26,17 @@ TECHNOLOGY RECORD - QUARANTINE ASSESSMENT AND MEDICAL STAGING SUITES
 |                            | escalation, or failed assessment                                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Quarantine Assessment Technology Record
-Distribution: Frost Hollow Depot / White Grave Station / Medical Quarantine / Assessment Laboratory
-/ Security
-Authority: Medical Quarantine Lead, Assessment Officer, Sub-Site Chief, White Grave Site Command, and Central
-Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Quarantine Assessment Technology Record                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Frost Hollow Depot / White Grave Station / Medical Quarantine / Assessment Laboratory |
+|                            | / Security                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Medical Quarantine Lead, Assessment Officer, Sub-Site Chief, White Grave Site         |
+|                            | Command, and Central Archive                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Quarantine Assessment and Medical Staging Suites are the ninety-fifth main A.C.T technology expanded into

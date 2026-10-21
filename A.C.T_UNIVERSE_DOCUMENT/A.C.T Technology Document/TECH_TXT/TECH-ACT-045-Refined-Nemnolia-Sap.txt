@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - REFINED NEMNOLIA SAP
 |                            | high-concentration release                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Anomaly-Derived Material Technology Record
-Distribution: Medical / Transformation / Normalcy / Memory Review / Materials Custody / O5
-Oversight
-Authority: Medical Division, Transformation Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Anomaly-Derived Material Technology Record                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Medical / Transformation / Normalcy / Memory Review / Materials Custody / O5          |
+|                            | Oversight                                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Medical Division, Transformation Division, and Central Archive                        |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Refined NEMNOLIA Sap is the forty-fifth main A.C.T technology expanded into an individual record.

@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - CAUSAL-REACTIVE MERCURY
 |                            | stasis-field configuration                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Temporal Material Technology Record
-Distribution: Temporal Analysis / Materials Custody / Kurokawa / Object Containment / O5 Oversight
-Authority: Temporal Analysis Desk, Materials Custody, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Temporal Material Technology Record                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Temporal Analysis / Materials Custody / Kurokawa / Object Containment / O5 Oversight  |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Temporal Analysis Desk, Materials Custody, and Central Archive                        |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Causal-Reactive Mercury is the forty-fourth main A.C.T technology expanded into an individual record. The

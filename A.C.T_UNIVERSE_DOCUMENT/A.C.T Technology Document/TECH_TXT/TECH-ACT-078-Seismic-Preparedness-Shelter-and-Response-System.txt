@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - SEISMIC PREPAREDNESS SHELTER AND RESPONSE SYSTEM
 |                            | override, or route reprioritizing                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Personnel Safety Technology Record
-Distribution: Security / Administration / Medical / Command / Engineering / Nusantara Deep Relay
-Authority: Security Division, Relay Administration, Site Director, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Personnel Safety Technology Record                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Security / Administration / Medical / Command / Engineering / Nusantara Deep Relay    |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Security Division, Relay Administration, Site Director, and Central Archive           |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Seismic Preparedness Shelter and Response System is the seventy-eighth main A.C.T technology expanded into

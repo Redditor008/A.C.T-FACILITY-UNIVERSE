@@ -26,9 +26,16 @@ TECHNOLOGY RECORD - SIGNAL-ISOLATED ANOMALOUS DOCUMENT STORAGE SYSTEM
 |                            | sample-control release                                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Kurokawa Active-Storage Technology Record
-Distribution: Kurokawa Archive Node / Archive / Intelligence / Researcher Division / Security
-Authority: Floor Holding Archivist, Document-Holding Command, Archive Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Kurokawa Active-Storage Technology Record                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Kurokawa Archive Node / Archive / Intelligence / Researcher Division / Security       |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Floor Holding Archivist, Document-Holding Command, Archive Division, and Central      |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Signal-Isolated Anomalous Document Storage System is the one-hundred-twenty-third main A.C.T technology expanded into

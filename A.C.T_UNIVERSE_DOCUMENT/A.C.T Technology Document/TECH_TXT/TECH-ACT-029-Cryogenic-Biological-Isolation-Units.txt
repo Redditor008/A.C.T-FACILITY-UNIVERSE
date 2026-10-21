@@ -26,9 +26,16 @@ TECHNOLOGY RECORD - CRYOGENIC BIOLOGICAL ISOLATION UNITS
 |                            | consciousness-adjacent containment                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Medical Stasis Technology Record
-Distribution: Medical / Biological Containment / Stasis Technology / Logistics / Site Command
-Authority: Medical Division, Stasis Technology Desk, Biological Containment Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Medical Stasis Technology Record                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Medical / Biological Containment / Stasis Technology / Logistics / Site Command       |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Medical Division, Stasis Technology Desk, Biological Containment Division, and        |
+|                            | Central Archive                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Cryogenic Biological Isolation Units are the twenty-ninth main A.C.T technology expanded into an individual

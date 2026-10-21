@@ -26,10 +26,17 @@ TECHNOLOGY RECORD - PERSONNEL PROCESSING AND RESERVE CLEARANCE SYSTEM
 |                            | Level 4 for denial override                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Verde Null Personnel Technology Record
-Distribution: Verde Null Bio-Reserve / Administration / Security / Medical / Environmental Containment /
-Archive
-Authority: Personnel Processing Office, Security Administration, Site Director's Office, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Verde Null Personnel Technology Record                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Verde Null Bio-Reserve / Administration / Security / Medical / Environmental          |
+|                            | Containment / Archive                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Personnel Processing Office, Security Administration, Site Director's Office, and     |
+|                            | Central Archive                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Personnel Processing and Reserve Clearance System is the one-hundred-seventh main A.C.T technology expanded into

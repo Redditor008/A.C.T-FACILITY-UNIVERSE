@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - MEMETIC FILTERING INFRASTRUCTURE
 |                            | restricted document release                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Archive Safety Technology Record
-Distribution: Archiver Division / Kurokawa Archive Node / Intelligence / Research / Security /
-Medical Cognitive Care
-Authority: Kurokawa Redaction Chief, Archiver Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Archive Safety Technology Record                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Archiver Division / Kurokawa Archive Node / Intelligence / Research / Security /      |
+|                            | Medical Cognitive Care                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Kurokawa Redaction Chief, Archiver Division, and Central Archive                      |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Memetic Filtering Infrastructure is the fifty-sixth main A.C.T technology expanded into an individual record.

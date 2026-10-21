@@ -26,10 +26,17 @@ TECHNOLOGY RECORD - ISLAND PERSONNEL HABITATION AND SUSTAINMENT SYSTEM
 |                            | administration                                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Nusantara Personnel Technology Record
-Distribution: Nusantara Deep Relay / Administration / Medical / Security / Command / Internal
-Logistics
-Authority: Relay Administration, Personnel Support Office, Site Director's Command Floor, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Nusantara Personnel Technology Record                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Nusantara Deep Relay / Administration / Medical / Security / Command / Internal       |
+|                            | Logistics                                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Relay Administration, Personnel Support Office, Site Director's Command Floor, and    |
+|                            | Central Archive                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Island Personnel Habitation and Sustainment System is the one-hundred-twelfth main A.C.T technology expanded into

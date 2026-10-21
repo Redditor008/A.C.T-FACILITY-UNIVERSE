@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - BIOMETRIC RESONANCE DAMPENERS
 |                            | heart-signature predator missions                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Field Safety Technology Record
-Distribution: Field Safety / Medical / Recovery / Biological Containment / Security / Engineering
-Authority: Field Safety Desk, Medical Division, Engineering Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Field Safety Technology Record                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Field Safety / Medical / Recovery / Biological Containment / Security / Engineering   |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Field Safety Desk, Medical Division, Engineering Division, and Central Archive        |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Biometric Resonance Dampeners are the twenty-sixth main A.C.T technology expanded into an individual record.

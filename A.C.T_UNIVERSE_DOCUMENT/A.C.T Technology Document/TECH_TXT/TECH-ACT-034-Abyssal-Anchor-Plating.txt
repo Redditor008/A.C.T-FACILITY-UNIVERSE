@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - ABYSSAL ANCHOR PLATING
 |                            | and anchor-load override                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Heavy Containment Technology Record
-Distribution: Engineering / Heavy Containment / Abyss Floor / Site Command / Logistics /
-World-Scale Recovery
-Authority: Engineering Division, Heavy Containment Structural Desk, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Heavy Containment Technology Record                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Engineering / Heavy Containment / Abyss Floor / Site Command / Logistics /            |
+|                            | World-Scale Recovery                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Engineering Division, Heavy Containment Structural Desk, and Central Archive          |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Abyssal Anchor Plating is the thirty-fourth main A.C.T technology expanded into an individual record.

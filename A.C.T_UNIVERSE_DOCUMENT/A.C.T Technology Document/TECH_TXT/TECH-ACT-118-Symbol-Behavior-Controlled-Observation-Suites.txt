@@ -26,10 +26,17 @@ TECHNOLOGY RECORD - SYMBOL BEHAVIOR CONTROLLED OBSERVATION SUITES
 |                            | full-effect review                                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Kurokawa Research Technology Record
-Distribution: Kurokawa Archive Node / Researcher Division / Archive / Intelligence / Medical /
-Security
-Authority: Floor Research Chief, Symbol Behavior Study Lead, Cognitive Care Liaison, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Kurokawa Research Technology Record                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Kurokawa Archive Node / Researcher Division / Archive / Intelligence / Medical /      |
+|                            | Security                                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Floor Research Chief, Symbol Behavior Study Lead, Cognitive Care Liaison, and Central |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Symbol Behavior Controlled Observation Suites is the one-hundred-eighteenth main A.C.T technology expanded into an

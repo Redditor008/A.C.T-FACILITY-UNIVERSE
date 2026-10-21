@@ -26,12 +26,17 @@ TECHNOLOGY RECORD - LOW-VISIBILITY PROCESSING LOGISTICS SYSTEM
 |                            | emergency surface sealing                                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Cover Logistics Technology Record
-Distribution: Glass Orchard Relay / Redwood Veil Complex / Security / Campus Administration /
-Recovery Support /
-Limited Archive
-Authority: Campus Manager, Security Boundary Lead, Sub-Site Chief, Redwood Veil Site Command, and Central
-Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Cover Logistics Technology Record                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Glass Orchard Relay / Redwood Veil Complex / Security / Campus Administration /       |
+|                            | Recovery Support / Limited Archive                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Campus Manager, Security Boundary Lead, Sub-Site Chief, Redwood Veil Site Command,    |
+|                            | and Central Archive                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Low-Visibility Processing Logistics System is the ninety-third main A.C.T technology expanded into an individual

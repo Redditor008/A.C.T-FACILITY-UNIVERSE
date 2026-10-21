@@ -26,12 +26,17 @@ TECHNOLOGY RECORD - HOLLOW CANOPY FIELD STATION AND REMOTE MONITORING SYSTEM
 |                            | parent-reserve research override                                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Field Monitoring Technology Record
-Distribution: Hollow Canopy Enclosure / Verde Null Bio-Reserve / Environmental Containment / Research Support
-/
-Limited Security
-Authority: Environmental Containment Lead, Research Support Lead, Enclosure Supervisor, Verde Null Site Command, and
-Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Field Monitoring Technology Record                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Hollow Canopy Enclosure / Verde Null Bio-Reserve / Environmental Containment /        |
+|                            | Research Support / Limited Security                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Environmental Containment Lead, Research Support Lead, Enclosure Supervisor, Verde    |
+|                            | Null Site Command, and Central Archive                                                |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Hollow Canopy Field Station and Remote Monitoring System is the one-hundred-second main A.C.T technology

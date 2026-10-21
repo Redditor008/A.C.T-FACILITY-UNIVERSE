@@ -26,11 +26,17 @@ TECHNOLOGY RECORD - CONCEALED PERIMETER SECTOR NETWORK
 |                            | resident perimeter expansion                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Concealed Perimeter Technology Record
-Distribution: Hollow Canopy Enclosure / Verde Null Bio-Reserve / Limited Security / Environmental Containment
-/
-Research Support
-Authority: Enclosure Supervisor, Limited Security Lead, Verde Null Site Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Concealed Perimeter Technology Record                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Hollow Canopy Enclosure / Verde Null Bio-Reserve / Limited Security / Environmental   |
+|                            | Containment / Research Support                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Enclosure Supervisor, Limited Security Lead, Verde Null Site Command, and Central     |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Concealed Perimeter Sector Network is the one-hundred-first main A.C.T technology expanded into an individual

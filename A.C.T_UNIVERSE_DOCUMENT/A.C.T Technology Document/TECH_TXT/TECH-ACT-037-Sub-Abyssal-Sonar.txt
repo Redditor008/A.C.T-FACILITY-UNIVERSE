@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - SUB-ABYSSAL SONAR
 |                            | sub-abyssal depth export                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Maritime and Abyssal Mapping Technology Record
-Distribution: Maritime Observation / Engineering / Site-05 / Recovery / Heavy Containment / Abyss
-Survey
-Authority: Maritime Observation Desk, Engineering Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Maritime and Abyssal Mapping Technology Record                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Maritime Observation / Engineering / Site-05 / Recovery / Heavy Containment / Abyss   |
+|                            | Survey                                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Maritime Observation Desk, Engineering Division, and Central Archive                  |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Sub-Abyssal Sonar is the thirty-seventh main A.C.T technology expanded into an individual record. The

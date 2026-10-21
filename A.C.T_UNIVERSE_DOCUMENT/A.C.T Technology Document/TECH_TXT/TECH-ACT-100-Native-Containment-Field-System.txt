@@ -26,11 +26,17 @@ TECHNOLOGY RECORD - NATIVE CONTAINMENT FIELD SYSTEM
 |                            | or parent-reserve override                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active In-Place Flora Containment Technology Record
-Distribution: Hollow Canopy Enclosure / Verde Null Bio-Reserve / Environmental Containment / Research Support
-/
-Limited Security
-Authority: Enclosure Supervisor, Verde Null Site Command, Environmental Containment Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active In-Place Flora Containment Technology Record                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Hollow Canopy Enclosure / Verde Null Bio-Reserve / Environmental Containment /        |
+|                            | Research Support / Limited Security                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Enclosure Supervisor, Verde Null Site Command, Environmental Containment Division,    |
+|                            | and Central Archive                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Native Containment Field System is the one-hundredth main A.C.T technology expanded into an individual

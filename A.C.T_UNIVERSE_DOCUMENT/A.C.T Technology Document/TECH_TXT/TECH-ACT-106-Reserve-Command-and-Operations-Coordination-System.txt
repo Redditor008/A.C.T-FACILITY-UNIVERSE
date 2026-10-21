@@ -26,10 +26,17 @@ TECHNOLOGY RECORD - RESERVE COMMAND AND OPERATIONS COORDINATION SYSTEM
 |                            | cross-site escalation                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Verde Null Command Technology Record
-Distribution: Verde Null Bio-Reserve / Command / Security / Environmental Containment / Recovery /
-Archive
-Authority: Site Director, Reserve Operations Command, Security Command Center, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Verde Null Command Technology Record                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Verde Null Bio-Reserve / Command / Security / Environmental Containment / Recovery /  |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Site Director, Reserve Operations Command, Security Command Center, and Central       |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Reserve Command and Operations Coordination System is the one-hundred-sixth main A.C.T technology expanded into

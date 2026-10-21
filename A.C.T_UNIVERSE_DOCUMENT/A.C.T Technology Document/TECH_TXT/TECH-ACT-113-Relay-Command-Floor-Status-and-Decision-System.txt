@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - RELAY COMMAND FLOOR STATUS AND DECISION SYSTEM
 |                            | vault decision routing                                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Nusantara Command Technology Record
-Distribution: Nusantara Deep Relay / Command / Administration / Security / Recovery / Containment
-/ Research / Medical
-Authority: Site Director, Duty Command Officer, Relay Administration, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Nusantara Command Technology Record                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Nusantara Deep Relay / Command / Administration / Security / Recovery / Containment / |
+|                            | Research / Medical                                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Site Director, Duty Command Officer, Relay Administration, and Central Archive        |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Relay Command Floor Status and Decision System is the one-hundred-thirteenth main A.C.T technology expanded

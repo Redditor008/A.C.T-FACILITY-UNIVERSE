@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - CONTROLLED STUDY ENVIRONMENT AND RESEARCH SAMPLE-CUSTODY SYS
 |                            | resident object                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Redwood Veil Research Technology Record
-Distribution: Redwood Veil Complex / Research / Transformation / Containment / Medical / Archive
-Authority: Floor Research Chief, Research Division, Site Director, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Redwood Veil Research Technology Record                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Redwood Veil Complex / Research / Transformation / Containment / Medical / Archive    |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Floor Research Chief, Research Division, Site Director, and Central Archive           |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Controlled Study Environment and Research Sample-Custody System is the one-hundred-twenty-sixth main A.C.T technology

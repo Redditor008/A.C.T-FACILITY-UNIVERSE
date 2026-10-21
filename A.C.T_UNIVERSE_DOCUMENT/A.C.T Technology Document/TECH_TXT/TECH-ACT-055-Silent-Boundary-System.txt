@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - SILENT BOUNDARY SYSTEM
 |                            | Level 5 for structural operations                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Normalcy Infrastructure Technology Record
-Distribution: Civil Covert / Intelligence / Recovery / Medical Care / Archiver Division /
-Site Command
-Authority: Civil Covert Division, Intelligence Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Normalcy Infrastructure Technology Record                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Civil Covert / Intelligence / Recovery / Medical Care / Archiver Division / Site      |
+|                            | Command                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Civil Covert Division, Intelligence Division, and Central Archive                     |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 The Silent Boundary System is the fifty-fifth main A.C.T technology expanded into an individual

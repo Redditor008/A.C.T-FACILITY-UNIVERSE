@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - NEURAL LACING TYPE 004-MOD
 |                            | permanent memory exclusions                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Restricted Medical Technology Record
-Distribution: Medical / Info-Hazard / Personnel Resilience / Engineering / Site Command
-Authority: Medical Division, Info-Hazard Division, Engineering Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Medical Technology Record                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Medical / Info-Hazard / Personnel Resilience / Engineering / Site Command             |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Medical Division, Info-Hazard Division, Engineering Division, and Central Archive     |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Neural Lacing Type 004-MOD is the twenty-eighth main A.C.T technology expanded into an individual

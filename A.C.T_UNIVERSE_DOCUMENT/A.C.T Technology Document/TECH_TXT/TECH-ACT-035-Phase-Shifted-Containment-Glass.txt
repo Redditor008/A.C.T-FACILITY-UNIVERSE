@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - PHASE-SHIFTED CONTAINMENT GLASS
 |                            | desynchronized-subject interface override                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Observation Safety Technology Record
-Distribution: Engineering / Observation Safety / Subject Care / Biological Containment / Security /
-Site Command
-Authority: Engineering Division, Observation Safety Desk, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Observation Safety Technology Record                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Engineering / Observation Safety / Subject Care / Biological Containment / Security / |
+|                            | Site Command                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Engineering Division, Observation Safety Desk, and Central Archive                    |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Phase-Shifted Containment Glass is the thirty-fifth main A.C.T technology expanded into an individual record.

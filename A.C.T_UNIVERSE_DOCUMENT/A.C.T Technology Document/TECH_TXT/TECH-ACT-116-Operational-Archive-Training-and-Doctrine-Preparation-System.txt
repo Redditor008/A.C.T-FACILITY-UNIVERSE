@@ -26,9 +26,16 @@ TECHNOLOGY RECORD - OPERATIONAL ARCHIVE TRAINING AND DOCTRINE PREPARATION SYSTEM
 |                            | or doctrine alteration                                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Kurokawa Training Technology Record
-Distribution: Kurokawa Archive Node / Administration / Archive / Security / Research / Medical
-Authority: Training Office, Node Administration, Site Director's Command Floor, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Kurokawa Training Technology Record                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Kurokawa Archive Node / Administration / Archive / Security / Research / Medical      |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Training Office, Node Administration, Site Director's Command Floor, and Central      |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Operational Archive Training and Doctrine Preparation System is the one-hundred-sixteenth main A.C.T technology

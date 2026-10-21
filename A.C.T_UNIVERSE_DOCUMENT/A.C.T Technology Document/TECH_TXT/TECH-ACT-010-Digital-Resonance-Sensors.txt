@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - DIGITAL RESONANCE SENSORS
 |                            | hostile-signal comparison files                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Detection Technology Record
-Distribution: Survey / Recovery / Engineering / Containment / Maritime Observation / Archive
-Authority: Survey Division, Engineering Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Detection Technology Record                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Survey / Recovery / Engineering / Containment / Maritime Observation / Archive        |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Survey Division, Engineering Division, and Central Archive                            |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Digital Resonance Sensors are the tenth main A.C.T technology expanded into an individual record.

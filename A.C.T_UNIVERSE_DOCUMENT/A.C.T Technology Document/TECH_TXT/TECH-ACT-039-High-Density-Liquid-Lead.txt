@@ -26,9 +26,16 @@ TECHNOLOGY RECORD - HIGH-DENSITY LIQUID LEAD
 |                            | shielding configuration                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Hazardous Barrier Material Technology Record
-Distribution: Engineering / Hazardous Materials / Artifact Storage / Biological Containment / Site Safety
-Authority: Engineering Division, Hazardous Materials Desk, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Hazardous Barrier Material Technology Record                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Engineering / Hazardous Materials / Artifact Storage / Biological Containment / Site  |
+|                            | Safety                                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Engineering Division, Hazardous Materials Desk, and Central Archive                   |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 High-Density Liquid Lead is the thirty-ninth main A.C.T technology expanded into an individual record.

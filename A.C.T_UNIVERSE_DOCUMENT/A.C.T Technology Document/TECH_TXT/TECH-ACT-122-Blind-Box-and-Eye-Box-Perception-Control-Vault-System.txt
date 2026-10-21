@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - BLIND BOX AND EYE BOX PERCEPTION-CONTROL VAULT SYSTEM
 |                            | alteration, or F-1 transfer                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Kurokawa Restricted-Vault Technology Record
-Distribution: Kurokawa Archive Node / Archive / Intelligence / Security / Medical / Researcher
-Division
-Authority: Floor Vault Chief, Restricted-Vault Command, Site Director, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Kurokawa Restricted-Vault Technology Record                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Kurokawa Archive Node / Archive / Intelligence / Security / Medical / Researcher      |
+|                            | Division                                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Floor Vault Chief, Restricted-Vault Command, Site Director, and Central Archive       |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Blind Box and Eye Box Perception-Control Vault System is the one-hundred-twenty-second main A.C.T technology

@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - ANOMALOUS INTAKE SCREENING SUITES
 |                            | anomalous-media triage or route override                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Archive Intake Technology Record
-Distribution: Archiver Division / Kurokawa Archive Node / Intelligence / Research / Security /
-Redaction / Containment
-Authority: Kurokawa Intake Chief, Archiver Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Archive Intake Technology Record                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Archiver Division / Kurokawa Archive Node / Intelligence / Research / Security /      |
+|                            | Redaction / Containment                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Kurokawa Intake Chief, Archiver Division, and Central Archive                         |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Anomalous Intake Screening Suites are the fifty-seventh main A.C.T technology expanded into an individual

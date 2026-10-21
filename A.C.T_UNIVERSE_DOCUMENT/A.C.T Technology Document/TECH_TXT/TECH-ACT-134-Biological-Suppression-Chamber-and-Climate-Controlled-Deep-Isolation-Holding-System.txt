@@ -27,9 +27,15 @@ TECHNOLOGY RECORD - BIOLOGICAL SUPPRESSION CHAMBER AND CLIMATE-CONTROLLED DEEP-I
 +----------------------------+---------------------------------------------------------------------------------------+
 
 
-Archive Status: Active White Grave Containment Technology Record
-Distribution: White Grave Station / Containment / Security / Medical / Research / Archive
-Authority: Floor Holding Chief, Containment Division, Site Director, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active White Grave Containment Technology Record                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | White Grave Station / Containment / Security / Medical / Research / Archive           |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Floor Holding Chief, Containment Division, Site Director, and Central Archive         |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Biological Suppression Chamber and Climate-Controlled Deep-Isolation Holding System is the one-hundred-thirty-fourth

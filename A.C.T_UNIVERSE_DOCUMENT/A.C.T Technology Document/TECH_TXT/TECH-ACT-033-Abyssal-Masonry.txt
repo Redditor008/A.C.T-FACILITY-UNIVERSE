@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - ABYSSAL MASONRY
 |                            | Floor core placement                                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Structural Material Technology Record
-Distribution: Engineering / Abyss Floor / Site Command / Heavy Containment / Artifact Storage
-/ Archive
-Authority: Engineering Division, Abyss Floor Structural Desk, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Structural Material Technology Record                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Engineering / Abyss Floor / Site Command / Heavy Containment / Artifact Storage /     |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Engineering Division, Abyss Floor Structural Desk, and Central Archive                |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Abyssal Masonry is the thirty-third main A.C.T technology expanded into an individual record. The

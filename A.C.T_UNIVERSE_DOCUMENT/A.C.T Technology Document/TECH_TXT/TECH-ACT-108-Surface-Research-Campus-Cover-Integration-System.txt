@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - SURFACE RESEARCH CAMPUS COVER INTEGRATION SYSTEM
 |                            | adjustment or concealed access routing                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Verde Null Cover Technology Record
-Distribution: Verde Null Bio-Reserve / Research / Administration / Security / Environmental Containment /
-Archive
-Authority: Campus Director, Surface Cover Administration, Site Director, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Verde Null Cover Technology Record                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Verde Null Bio-Reserve / Research / Administration / Security / Environmental         |
+|                            | Containment / Archive                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Campus Director, Surface Cover Administration, Site Director, and Central Archive     |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Surface Research Campus Cover Integration System is the one-hundred-eighth main A.C.T technology expanded into

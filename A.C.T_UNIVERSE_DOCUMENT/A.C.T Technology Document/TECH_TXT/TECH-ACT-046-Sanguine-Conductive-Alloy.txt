@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - SANGUINE-CONDUCTIVE ALLOY
 |                            | and alloy-network testing                                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Anomalous Material Technology Record
-Distribution: Materials Custody / Medical Engineering / Medical / Biological Containment / Data Security
-/ O5 Review
-Authority: Materials Custody, Medical Engineering Desk, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Anomalous Material Technology Record                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Materials Custody / Medical Engineering / Medical / Biological Containment / Data     |
+|                            | Security / O5 Review                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Materials Custody, Medical Engineering Desk, and Central Archive                      |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Sanguine-Conductive Alloy is the forty-sixth main A.C.T technology expanded into an individual record. The

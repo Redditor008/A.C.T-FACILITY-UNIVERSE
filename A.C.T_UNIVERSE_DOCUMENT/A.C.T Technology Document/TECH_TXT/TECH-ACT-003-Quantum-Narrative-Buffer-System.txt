@@ -29,10 +29,17 @@ TECHNOLOGY RECORD - QUANTUM NARRATIVE BUFFER SYSTEM
 |                            | sub-atomic etching tables, and timeline restoration authority                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Restricted Technology Record
-Distribution: Archive / Engineering / Containment / Site Command / Intelligence / Memory Review
-/ Command
-Authority: Archive Division, Engineering Division, Site Command, Memory Review, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Technology Record                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Archive / Engineering / Containment / Site Command / Intelligence / Memory Review /   |
+|                            | Command                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Archive Division, Engineering Division, Site Command, Memory Review, and Central      |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 ............

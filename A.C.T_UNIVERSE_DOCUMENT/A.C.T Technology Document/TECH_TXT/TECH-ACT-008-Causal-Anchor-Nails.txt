@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - CAUSAL ANCHOR NAILS
 |                            | review                                                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Field Technology Record
-Distribution: Recovery / Engineering / Containment / Logistics / Site Command
-Authority: Recovery Division, Engineering Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Field Technology Record                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Recovery / Engineering / Containment / Logistics / Site Command                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Recovery Division, Engineering Division, and Central Archive                          |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Causal Anchor Nails are the eighth main A.C.T technology expanded into an individual record.

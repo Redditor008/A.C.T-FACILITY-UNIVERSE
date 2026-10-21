@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - STATIC-PULSE CRYSTAL
 |                            | discarded-shard inventory                                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Restricted Material Record
-Distribution: Engineering / Containment / Materials Custody / Logistics / Command
-Authority: Engineering Division, Materials Custody Desk, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Material Record                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Engineering / Containment / Materials Custody / Logistics / Command                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Engineering Division, Materials Custody Desk, and Central Archive                     |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Static-Pulse Crystal is the seventh main A.C.T technology expanded into an individual record. The

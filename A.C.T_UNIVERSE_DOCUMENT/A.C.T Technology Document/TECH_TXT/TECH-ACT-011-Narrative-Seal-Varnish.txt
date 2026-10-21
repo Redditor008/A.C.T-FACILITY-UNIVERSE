@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - NARRATIVE SEAL VARNISH
 |                            | artifacts, and reapplication orders                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Archival Technology Record
-Distribution: Archive / Info-Hazard / Site-03 / Engineering / Containment
-Authority: Archive Division, Engineering Division, Info-Hazard Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Archival Technology Record                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Archive / Info-Hazard / Site-03 / Engineering / Containment                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Archive Division, Engineering Division, Info-Hazard Division, and Central Archive     |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Narrative Seal Varnish is the eleventh main A.C.T technology expanded into an individual record.

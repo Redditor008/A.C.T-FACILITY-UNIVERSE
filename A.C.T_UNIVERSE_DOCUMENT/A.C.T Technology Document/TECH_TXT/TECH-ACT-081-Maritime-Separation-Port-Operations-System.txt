@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - MARITIME SEPARATION PORT OPERATIONS SYSTEM
 |                            | retasking, or anomaly offload                                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Maritime Operations Technology Record
-Distribution: Port Operations / Recovery / Security / Logistics / Nusantara Deep Relay
-Authority: Port Operations, Maritime Recovery Command, Campus Director, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Maritime Operations Technology Record                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Port Operations / Recovery / Security / Logistics / Nusantara Deep Relay              |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Port Operations, Maritime Recovery Command, Campus Director, and Central Archive      |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Maritime Separation Port Operations System is the eighty-first main A.C.T technology expanded into an

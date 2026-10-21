@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - ABYSS-LINKED OBSERVATION RECORDING SYSTEM
 |                            | inter-site comparison                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Restricted Observation Technology Record
-Distribution: Central Archive / Seismic Analysis / Nusantara Site Command / Restricted Review Chain
-Authority: Central Archive, Restricted Review Chain, and Nusantara Site Command
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Observation Technology Record                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Central Archive / Seismic Analysis / Nusantara Site Command / Restricted Review Chain |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Central Archive, Restricted Review Chain, and Nusantara Site Command                  |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Abyss-Linked Observation Recording System is the sixty-ninth main A.C.T technology expanded into an individual

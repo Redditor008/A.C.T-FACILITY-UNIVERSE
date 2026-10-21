@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - CAUSAL TETHERING CABLES
 |                            | deployment, and recovery rigs                                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Spatial Restraint Technology Record
-Distribution: Engineering / Recovery / Containment / Logistics / Site Command
-Authority: Engineering Division, Recovery Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Spatial Restraint Technology Record                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Engineering / Recovery / Containment / Logistics / Site Command                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Engineering Division, Recovery Division, and Central Archive                          |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Causal Tethering Cables are the sixteenth main A.C.T technology expanded into an individual record.

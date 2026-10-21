@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - MAGNETIC TORSION RESTRAINTS
 |                            | and mobile rig authorization                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Containment Technology Record
-Distribution: Containment / Engineering / Object Containment / Tactical Review / Site Command /
-Security
-Authority: Containment Division, Engineering Division, Tactical Review Desk, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Containment Technology Record                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Containment / Engineering / Object Containment / Tactical Review / Site Command /     |
+|                            | Security                                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Containment Division, Engineering Division, Tactical Review Desk, and Central Archive |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Magnetic Torsion Restraints are the thirteenth main A.C.T technology expanded into an individual record.

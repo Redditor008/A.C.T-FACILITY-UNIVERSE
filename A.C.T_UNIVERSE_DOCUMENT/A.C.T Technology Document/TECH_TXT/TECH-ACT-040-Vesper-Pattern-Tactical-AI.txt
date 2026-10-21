@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - VESPER-PATTERN TACTICAL AI
 |                            | recognition-filter modification                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Tactical Coordination Technology Record
-Distribution: Tactical Review / Engineering / Recovery / Security / Artifact Storage / Simulation
-Command
-Authority: Tactical Review Desk, Engineering Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Tactical Coordination Technology Record                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Tactical Review / Engineering / Recovery / Security / Artifact Storage / Simulation   |
+|                            | Command                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Tactical Review Desk, Engineering Division, and Central Archive                       |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Vesper-Pattern Tactical AI is the fortieth main A.C.T technology expanded into an individual record.

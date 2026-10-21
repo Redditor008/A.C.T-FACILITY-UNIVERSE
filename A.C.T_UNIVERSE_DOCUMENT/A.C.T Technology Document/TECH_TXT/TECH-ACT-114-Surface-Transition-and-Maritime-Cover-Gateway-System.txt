@@ -26,11 +26,17 @@ TECHNOLOGY RECORD - SURFACE TRANSITION AND MARITIME COVER GATEWAY SYSTEM
 |                            | separation, or surface seal action                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Nusantara Surface-Transition Technology Record
-Distribution: Nusantara Deep Relay / Security / Research / Campus Administration / Port Operations
-/ Recovery /
-Command
-Authority: Campus Director, Security Boundary Command, Site Director's Office, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Nusantara Surface-Transition Technology Record                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Nusantara Deep Relay / Security / Research / Campus Administration / Port Operations  |
+|                            | / Recovery / Command                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Campus Director, Security Boundary Command, Site Director's Office, and Central       |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Surface Transition and Maritime Cover Gateway System is the one-hundred-fourteenth main A.C.T technology expanded

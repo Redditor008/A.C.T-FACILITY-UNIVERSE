@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - RESTRICTED RECORDS VAULTS
 |                            | copying, transfer, or downgrading                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Restricted Archive Technology Record
-Distribution: Central Archive / Seismic Analysis / Security / Nusantara Deep Relay / Restricted
-Review Chain
-Authority: Central Archive, Restricted Review Chain, and Nusantara Site Command
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Archive Technology Record                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Central Archive / Seismic Analysis / Security / Nusantara Deep Relay / Restricted     |
+|                            | Review Chain                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Central Archive, Restricted Review Chain, and Nusantara Site Command                  |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Restricted Records Vaults are the seventy-second main A.C.T technology expanded into an individual record.

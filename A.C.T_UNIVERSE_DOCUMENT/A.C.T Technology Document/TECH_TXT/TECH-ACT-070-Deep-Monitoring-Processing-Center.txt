@@ -25,9 +25,15 @@ TECHNOLOGY RECORD - DEEP MONITORING PROCESSING CENTER
 | CLEARANCE REQUIRED         | Level 4 for live processing, review routing, and sealed observation handling          |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Monitoring-Operations Technology Record
-Distribution: Seismic Analysis / Archive / Research / Containment / Nusantara Deep Relay
-Authority: Records and Monitoring Chief, Seismic Analysis Support, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Monitoring-Operations Technology Record                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Seismic Analysis / Archive / Research / Containment / Nusantara Deep Relay            |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Records and Monitoring Chief, Seismic Analysis Support, and Central Archive           |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Deep Monitoring Processing Center is the seventieth main A.C.T technology expanded into an individual

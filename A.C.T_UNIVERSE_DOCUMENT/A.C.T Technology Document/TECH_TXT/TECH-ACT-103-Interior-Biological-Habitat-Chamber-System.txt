@@ -26,9 +26,16 @@ TECHNOLOGY RECORD - INTERIOR BIOLOGICAL HABITAT CHAMBER SYSTEM
 |                            | open-sector transfer, or resident move                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Built Biological Holding Technology Record
-Distribution: Verde Null Bio-Reserve / Research / Environmental Containment / Medical / Security
-Authority: F-2 Holding Officer, Environmental Containment Liaison, Verde Null Site Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Built Biological Holding Technology Record                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Verde Null Bio-Reserve / Research / Environmental Containment / Medical / Security    |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | F-2 Holding Officer, Environmental Containment Liaison, Verde Null Site Command, and  |
+|                            | Central Archive                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Interior Biological Habitat Chamber System is the one-hundred-third main A.C.T technology expanded into an

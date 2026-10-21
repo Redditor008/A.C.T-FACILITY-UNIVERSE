@@ -26,11 +26,17 @@ TECHNOLOGY RECORD - BIOLOGICAL ANALYSIS AND SAMPLE CONTROL LABORATORIES
 |                            | research, or medical-subject crossover                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Biological Laboratory Technology Record
-Distribution: Verde Null Bio-Reserve / Research / Medical / Environmental Containment / Archive /
-Security
-Authority: Laboratory and Medical Chief, Research Division Command, Verde Null Site Command, and Central
-Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Biological Laboratory Technology Record                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Verde Null Bio-Reserve / Research / Medical / Environmental Containment / Archive /   |
+|                            | Security                                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Laboratory and Medical Chief, Research Division Command, Verde Null Site Command, and |
+|                            | Central Archive                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Biological Analysis and Sample Control Laboratories are the one-hundred-fourth main A.C.T technology expanded into

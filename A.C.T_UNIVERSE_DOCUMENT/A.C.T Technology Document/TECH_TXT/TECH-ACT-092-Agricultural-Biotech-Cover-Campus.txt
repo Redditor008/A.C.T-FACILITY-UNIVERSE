@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - AGRICULTURAL BIOTECH COVER CAMPUS
 |                            | buried-relay integration                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Cover Campus Technology Record
-Distribution: Glass Orchard Relay / Redwood Veil Complex / Campus Administration / Security /
-Cover Research Staff
-Authority: Campus Manager, Sub-Site Chief, Redwood Veil Site Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Cover Campus Technology Record                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Glass Orchard Relay / Redwood Veil Complex / Campus Administration / Security / Cover |
+|                            | Research Staff                                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Campus Manager, Sub-Site Chief, Redwood Veil Site Command, and Central Archive        |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Agricultural Biotech Cover Campus is the ninety-second main A.C.T technology expanded into an individual

@@ -26,9 +26,16 @@ TECHNOLOGY RECORD - TACTICAL FEEDBACKER ARM
 |                            | anomaly-contact parry authorization                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Tactical Prosthetic Record
-Distribution: Tactical Engineering / Medical / Recovery / Field Command / Training / Security
-Authority: Tactical Engineering Desk, Medical Prosthetics Desk, Field Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Tactical Prosthetic Record                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Tactical Engineering / Medical / Recovery / Field Command / Training / Security       |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Tactical Engineering Desk, Medical Prosthetics Desk, Field Command, and Central       |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 The Tactical Feedbacker Arm is the fourteenth main A.C.T technology expanded into an individual

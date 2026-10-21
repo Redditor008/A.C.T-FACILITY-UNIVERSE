@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - MINOR MEMETIC QUARANTINE VAULT SYSTEM
 |                            | or black-archive referral                                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Memetic Quarantine Technology Record
-Distribution: Silent Reed Annex / Kurokawa Archive Node / Archive / Intelligence / Limited
-Medical Cognitive Staff
-Authority: F-1 Quarantine Officer, Sub-Site Chief, Kurokawa Archive Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Memetic Quarantine Technology Record                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Silent Reed Annex / Kurokawa Archive Node / Archive / Intelligence / Limited Medical  |
+|                            | Cognitive Staff                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | F-1 Quarantine Officer, Sub-Site Chief, Kurokawa Archive Command, and Central Archive |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Minor Memetic Quarantine Vault System is the ninety-seventh main A.C.T technology expanded into an

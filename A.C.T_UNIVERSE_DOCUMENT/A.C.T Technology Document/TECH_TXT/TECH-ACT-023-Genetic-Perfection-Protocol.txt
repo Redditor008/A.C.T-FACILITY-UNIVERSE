@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - GENETIC PERFECTION PROTOCOL
 |                            | response, and irreversible changes                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Medical Technology Record
-Distribution: Medical / Transformation Review / Biological Containment / Engineering / Site Command
-Authority: Medical Division, Transformation Review Board, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Medical Technology Record                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Medical / Transformation Review / Biological Containment / Engineering / Site Command |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Medical Division, Transformation Review Board, and Central Archive                    |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 The Genetic Perfection Protocol is the twenty-third main A.C.T technology expanded into an individual

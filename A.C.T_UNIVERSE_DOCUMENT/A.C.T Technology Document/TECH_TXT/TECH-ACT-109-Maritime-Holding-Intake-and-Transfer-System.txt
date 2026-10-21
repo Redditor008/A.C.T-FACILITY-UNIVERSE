@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - MARITIME HOLDING INTAKE AND TRANSFER SYSTEM
 |                            | deep-sensitivity routing                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Nusantara Maritime Technology Record
-Distribution: Nusantara Deep Relay / Containment / Recovery / Research / Medical / Security
-Authority: Maritime-Hold Command, Floor Holding Chief, Recovery Liaison, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Nusantara Maritime Technology Record                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Nusantara Deep Relay / Containment / Recovery / Research / Medical / Security         |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Maritime-Hold Command, Floor Holding Chief, Recovery Liaison, and Central Archive     |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Maritime Holding Intake and Transfer System is the one-hundred-ninth main A.C.T technology expanded into

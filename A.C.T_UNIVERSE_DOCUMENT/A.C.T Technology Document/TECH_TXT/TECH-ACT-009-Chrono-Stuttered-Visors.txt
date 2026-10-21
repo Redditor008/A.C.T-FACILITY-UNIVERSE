@@ -27,10 +27,16 @@ TECHNOLOGY RECORD - CHRONO-STUTTERED VISORS
 |                            | vault and causal mercury use                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Field Safety Technology Record
-Distribution: Field Safety / Info-Hazard / Temporal Analysis / Biological Containment / Archive /
-Medical
-Authority: Field Safety Desk, Info-Hazard Division, Temporal Analysis Desk, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Field Safety Technology Record                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Field Safety / Info-Hazard / Temporal Analysis / Biological Containment / Archive /   |
+|                            | Medical                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Field Safety Desk, Info-Hazard Division, Temporal Analysis Desk, and Central Archive  |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Chrono-Stuttered Visors are the ninth main A.C.T technology expanded into an individual record. The

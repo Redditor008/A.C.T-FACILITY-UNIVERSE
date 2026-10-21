@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - SEISMIC RECORDS VAULTS
 |                            | or sensitivity reclassification                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Archival Infrastructure Technology Record
-Distribution: Archive / Seismic Analysis / Research / Security / Nusantara Deep Relay
-Authority: Archive Division, Records and Monitoring Chief, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Archival Infrastructure Technology Record                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Archive / Seismic Analysis / Research / Security / Nusantara Deep Relay               |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Archive Division, Records and Monitoring Chief, and Central Archive                   |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Seismic Records Vaults are the seventy-first main A.C.T technology expanded into an individual record.

@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - CRYO-SEISMIC STABILIZERS
 |                            | world-scale event response                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Infrastructure Technology Record
-Distribution: Engineering / Site Infrastructure / Abyss Floor Operations / Containment / Command
-Authority: Engineering Division, Site Infrastructure Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Infrastructure Technology Record                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Engineering / Site Infrastructure / Abyss Floor Operations / Containment / Command    |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Engineering Division, Site Infrastructure Command, and Central Archive                |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Cryo-Seismic Stabilizers are the nineteenth main A.C.T technology expanded into an individual record. The

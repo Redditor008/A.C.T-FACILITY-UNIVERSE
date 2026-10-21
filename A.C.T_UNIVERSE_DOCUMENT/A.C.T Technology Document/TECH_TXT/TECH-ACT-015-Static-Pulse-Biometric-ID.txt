@@ -26,10 +26,15 @@ TECHNOLOGY RECORD - STATIC PULSE BIOMETRIC ID
 |                            | staff records, and override rules                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Identity Technology Record
-Distribution: Security / Identity Control / O5 Liaison / Site Command / Engineering /
-Archive
-Authority: Security Division, Identity Control Desk, O5 Liaison, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Identity Technology Record                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Security / Identity Control / O5 Liaison / Site Command / Engineering / Archive       |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Security Division, Identity Control Desk, O5 Liaison, and Central Archive             |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Static Pulse Biometric ID is the fifteenth main A.C.T technology expanded into an individual

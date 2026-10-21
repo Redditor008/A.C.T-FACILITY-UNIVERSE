@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - MEMETIC CONTAMINATION TREATMENT SUITES
 |                            | exposure or containment-linked cognitive effect review                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Medical Cognitive-Care Technology Record
-Distribution: Medical / Cognitive Care / Containment / Research / Archive / Security
-Authority: Medical Division, Cognitive Care, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Medical Cognitive-Care Technology Record                                       |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Medical / Cognitive Care / Containment / Research / Archive / Security                |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Medical Division, Cognitive Care, and Central Archive                                 |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Memetic Contamination Treatment Suites are the sixty-third main A.C.T technology expanded into an individual

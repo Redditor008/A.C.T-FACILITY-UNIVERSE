@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - VOLCANIC-SEISMIC MONITORING SUITES
 |                            | alert, or relay escalation                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Volcanic-Seismic Monitoring Technology Record
-Distribution: Seismic Monitoring / Watch Staff / Security / Nusantara Deep Relay / Ash
-Tide Watchpoint
-Authority: Watch Officer, Seismic Monitoring Staff, Nusantara Site Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Volcanic-Seismic Monitoring Technology Record                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Seismic Monitoring / Watch Staff / Security / Nusantara Deep Relay / Ash Tide         |
+|                            | Watchpoint                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Watch Officer, Seismic Monitoring Staff, Nusantara Site Command, and Central Archive  |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Volcanic-Seismic Monitoring Suites are the eighty-fourth main A.C.T technology expanded into an individual record.

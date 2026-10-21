@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - SYNTHETIC SANGUINE-FUEL
 |                            | and blood-fuel dependency review                                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Medical Support Technology Record
-Distribution: Medical / Biological Containment / Logistics / Transformation / Site Command
-Authority: Medical Division, Biological Containment Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Medical Support Technology Record                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Medical / Biological Containment / Logistics / Transformation / Site Command          |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Medical Division, Biological Containment Division, and Central Archive                |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Synthetic Sanguine-Fuel is the twenty-second main A.C.T technology expanded into an individual record. The

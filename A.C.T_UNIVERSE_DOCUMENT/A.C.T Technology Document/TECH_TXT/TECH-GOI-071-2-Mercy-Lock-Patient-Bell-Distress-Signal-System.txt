@@ -37,10 +37,6 @@ TECHNOLOGY RECORD - MERCY LOCK PATIENT BELL DISTRESS SIGNAL SYSTEM
 |                            | Central Archive                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active GOI-Acquired Technology Record
-Distribution: Medical / Subject Care / Containment / Legal / Intelligence / Engineering
-Authority: Medical Division, Subject Care Division, Legal Division, Intelligence Division, and Central Archive
-
 Archive Note
 Mercy Lock Patient Bell Distress Signal System is the second registered technology record derived
 from Mercy Lock

@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - CAUSAL STATIC EARPIECES
 |                            | consensus-hazard deployment override                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Narrative-Bleed Field Gear Technology Record
-Distribution: Narrative Hazard / Field Containment / Security / Banalist Operators / Site-03 /
-Engineering
-Authority: Narrative Hazard Desk, Field Containment Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Narrative-Bleed Field Gear Technology Record                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Narrative Hazard / Field Containment / Security / Banalist Operators / Site-03 /      |
+|                            | Engineering                                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Narrative Hazard Desk, Field Containment Division, and Central Archive                |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Causal Static Earpieces are the thirty-eighth main A.C.T technology expanded into an individual record.

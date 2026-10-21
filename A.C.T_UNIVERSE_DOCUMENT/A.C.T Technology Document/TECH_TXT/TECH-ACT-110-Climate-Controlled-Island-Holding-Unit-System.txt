@@ -26,9 +26,16 @@ TECHNOLOGY RECORD - CLIMATE-CONTROLLED ISLAND HOLDING UNIT SYSTEM
 |                            | or cross-floor transfer                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Nusantara Island-Holding Technology Record
-Distribution: Nusantara Deep Relay / Containment / Research / Medical / Recovery / Security
-Authority: Floor Holding Chief, Environmental Holding Staff, Maritime-Hold Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Nusantara Island-Holding Technology Record                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Nusantara Deep Relay / Containment / Research / Medical / Recovery / Security         |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Floor Holding Chief, Environmental Holding Staff, Maritime-Hold Command, and Central  |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Climate-Controlled Island Holding Unit System is the one-hundred-tenth main A.C.T technology expanded into an

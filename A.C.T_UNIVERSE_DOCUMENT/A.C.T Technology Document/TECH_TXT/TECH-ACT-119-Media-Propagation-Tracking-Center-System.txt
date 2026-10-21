@@ -26,9 +26,16 @@ TECHNOLOGY RECORD - MEDIA PROPAGATION TRACKING CENTER SYSTEM
 |                            | unrestricted pattern export                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Kurokawa Media Technology Record
-Distribution: Kurokawa Archive Node / Researcher Division / Intelligence / Archive / Security
-Authority: Media Propagation Lead, Floor Research Chief, Intelligence Liaison, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Kurokawa Media Technology Record                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Kurokawa Archive Node / Researcher Division / Intelligence / Archive / Security       |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Media Propagation Lead, Floor Research Chief, Intelligence Liaison, and Central       |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Media Propagation Tracking Center System is the one-hundred-nineteenth main A.C.T technology expanded into an

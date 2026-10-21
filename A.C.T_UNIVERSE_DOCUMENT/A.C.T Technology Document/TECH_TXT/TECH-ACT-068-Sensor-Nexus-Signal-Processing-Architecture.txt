@@ -25,9 +25,15 @@ TECHNOLOGY RECORD - SENSOR NEXUS SIGNAL PROCESSING ARCHITECTURE
 | CLEARANCE REQUIRED         | Level 4; restricted review escalation for abyss-linked correlation output             |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Sensor-Nexus Technology Record
-Distribution: Seismic Analysis / Research / Containment / Central Archive / Nusantara Deep Relay
-Authority: Vault Listening Chief, Seismic Analysis Support, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Sensor-Nexus Technology Record                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Seismic Analysis / Research / Containment / Central Archive / Nusantara Deep Relay    |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Vault Listening Chief, Seismic Analysis Support, and Central Archive                  |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Sensor Nexus Signal Processing Architecture is the sixty-eighth main A.C.T technology expanded into an

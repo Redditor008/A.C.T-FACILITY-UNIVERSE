@@ -26,9 +26,16 @@ TECHNOLOGY RECORD - BANALIST WHITE-NOISE BROADCAST
 |                            | site-wide emergency tuning                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Containment Technology Record
-Distribution: Containment / Civil Covert / Engineering / Site Command / Security / Medical
-Authority: Containment Division, Civil Covert Division, Engineering Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Containment Technology Record                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Containment / Civil Covert / Engineering / Site Command / Security / Medical          |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Containment Division, Civil Covert Division, Engineering Division, and Central        |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Banalist White-Noise Broadcast is the twelfth main A.C.T technology expanded into an individual record.

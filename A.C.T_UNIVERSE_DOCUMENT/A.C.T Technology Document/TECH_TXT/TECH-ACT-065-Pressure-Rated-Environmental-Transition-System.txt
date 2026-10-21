@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - PRESSURE-RATED ENVIRONMENTAL TRANSITION SYSTEM
 |                            | or emergency override                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Maritime Containment Technology Record
-Distribution: Containment / Recovery / Engineering / Medical / Research / Nusantara Deep Relay
-Authority: Maritime-Hold Command, Engineering Desk, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Maritime Containment Technology Record                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Containment / Recovery / Engineering / Medical / Research / Nusantara Deep Relay      |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Maritime-Hold Command, Engineering Desk, and Central Archive                          |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Pressure-Rated Environmental Transition System is the sixty-fifth main A.C.T technology expanded into an individual

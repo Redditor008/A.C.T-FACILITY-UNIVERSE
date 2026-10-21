@@ -26,10 +26,17 @@ TECHNOLOGY RECORD - CONTROLLED READING AND REDACTION WORKROOM SYSTEM
 |                            | release, or parent-node exception                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Controlled Review Technology Record
-Distribution: Silent Reed Annex / Kurokawa Archive Node / Archive / Intelligence / Cognitive
-Medical
-Authority: Review Officer, Redaction Lead, Sub-Site Chief, Kurokawa Archive Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Controlled Review Technology Record                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Silent Reed Annex / Kurokawa Archive Node / Archive / Intelligence / Cognitive        |
+|                            | Medical                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Review Officer, Redaction Lead, Sub-Site Chief, Kurokawa Archive Command, and Central |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Controlled Reading and Redaction Workroom System is the ninety-eighth main A.C.T technology expanded into

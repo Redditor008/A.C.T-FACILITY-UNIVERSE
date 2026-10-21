@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - GALAXY-MOTIVE TEXTILE
 |                            | and hydrophobic treatment                                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Protective Equipment Technology Record
-Distribution: Materials Custody / Protective Equipment / Biological Containment / Recovery / Medical /
-Site Safety
-Authority: Materials Custody, Protective Equipment Desk, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Protective Equipment Technology Record                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Materials Custody / Protective Equipment / Biological Containment / Recovery /        |
+|                            | Medical / Site Safety                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Materials Custody, Protective Equipment Desk, and Central Archive                     |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Galaxy-Motive Textile is the forty-third main A.C.T technology expanded into an individual record. The

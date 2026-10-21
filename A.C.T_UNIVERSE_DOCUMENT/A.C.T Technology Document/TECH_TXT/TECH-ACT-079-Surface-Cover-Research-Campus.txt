@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - SURFACE COVER RESEARCH CAMPUS
 |                            | concealed-transition control, or exposure event                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Normalcy Infrastructure Technology Record
-Distribution: Administration / Research / Security / Cover / Nusantara Deep Relay
-Authority: Campus Director, Site Director, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Normalcy Infrastructure Technology Record                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Administration / Research / Security / Cover / Nusantara Deep Relay                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Campus Director, Site Director, and Central Archive                                   |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Surface Cover Research Campus is the seventy-ninth main A.C.T technology expanded into an individual

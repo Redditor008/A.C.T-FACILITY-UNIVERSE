@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - ARTIFACT-INFLUENCE ISOLATION SUITES
 |                            | anomalous influence escalation                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Medical Containment Technology Record
-Distribution: Medical / Containment / Research / Security / Archive
-Authority: Medical Division, Chief Medical Officer, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Medical Containment Technology Record                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Medical / Containment / Research / Security / Archive                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Medical Division, Chief Medical Officer, and Central Archive                          |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Artifact-Influence Isolation Suites are the sixtieth main A.C.T technology expanded into an individual record.

@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - ADRENALINE MICRO-SURGE DETECTORS
 |                            | sedative integration                                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Personnel Safety Technology Record
-Distribution: Medical / Biological Containment / Subject Care / Security / Site Command
-Authority: Medical Division, Personnel Safety Desk, and Containment Safety Board
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Personnel Safety Technology Record                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Medical / Biological Containment / Subject Care / Security / Site Command             |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Medical Division, Personnel Safety Desk, and Containment Safety Board                 |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Adrenaline Micro-Surge Detectors are the thirty-first main A.C.T technology expanded into an individual record.

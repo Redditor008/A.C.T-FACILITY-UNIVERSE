@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - GOLD-TIPPED MINING DRILLS
 |                            | plans, and recovered core samples                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Engineering Technology Record
-Distribution: Engineering / Dark World Survey / Materials Custody / Recovery / Site Infrastructure
-Authority: Engineering Division, Dark World Survey Desk, Materials Custody, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Engineering Technology Record                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Engineering / Dark World Survey / Materials Custody / Recovery / Site Infrastructure  |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Engineering Division, Dark World Survey Desk, Materials Custody, and Central Archive  |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Gold-Tipped Mining Drills are the twenty-seventh main A.C.T technology expanded into an individual record.

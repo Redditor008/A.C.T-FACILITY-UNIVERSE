@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - COASTAL WATCH COORDINATION CENTER
 |                            | or recovery staging command                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Coastal Watch Technology Record
-Distribution: Watch Staff / Recovery Support / Security / Nusantara Deep Relay / Ash
-Tide Watchpoint
-Authority: Watch Officer, Watch Chief, Nusantara Site Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Coastal Watch Technology Record                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Watch Staff / Recovery Support / Security / Nusantara Deep Relay / Ash Tide           |
+|                            | Watchpoint                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Watch Officer, Watch Chief, Nusantara Site Command, and Central Archive               |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Coastal Watch Coordination Center is the eighty-third main A.C.T technology expanded into an individual

@@ -26,9 +26,16 @@ TECHNOLOGY RECORD - ARCHIVE BOUNDARY PERSONNEL CLEARANCE SYSTEM
 |                            | assignment, or denial reversal                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Kurokawa Personnel Technology Record
-Distribution: Kurokawa Archive Node / Administration / Security / Archive / Command
-Authority: Personnel and Clearance Office, Node Administration, Site Director's Command Floor, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Kurokawa Personnel Technology Record                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Kurokawa Archive Node / Administration / Security / Archive / Command                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Personnel and Clearance Office, Node Administration, Site Director's Command Floor,   |
+|                            | and Central Archive                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Archive Boundary Personnel Clearance System is the one-hundred-fifteenth main A.C.T technology expanded into an

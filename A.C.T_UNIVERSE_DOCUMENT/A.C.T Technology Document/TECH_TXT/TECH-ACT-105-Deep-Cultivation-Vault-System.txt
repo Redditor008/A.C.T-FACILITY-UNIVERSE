@@ -26,10 +26,17 @@ TECHNOLOGY RECORD - DEEP CULTIVATION VAULT SYSTEM
 |                            | or closure override                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Deep Cultivation Technology Record
-Distribution: Verde Null Bio-Reserve / Research / Transformation / Environmental Containment / Security /
-Medical
-Authority: Deep-Cultivation Command, F-1 Vault Officer, Verde Null Site Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Deep Cultivation Technology Record                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Verde Null Bio-Reserve / Research / Transformation / Environmental Containment /      |
+|                            | Security / Medical                                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Deep-Cultivation Command, F-1 Vault Officer, Verde Null Site Command, and Central     |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Deep Cultivation Vault System is the one-hundred-fifth main A.C.T technology expanded into an individual

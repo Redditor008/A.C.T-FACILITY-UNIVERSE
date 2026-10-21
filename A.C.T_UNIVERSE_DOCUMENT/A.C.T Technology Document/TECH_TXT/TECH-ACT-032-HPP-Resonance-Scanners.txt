@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - HPP RESONANCE SCANNERS
 |                            | assignment override                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Personnel Screening Technology Record
-Distribution: Personnel Screening / Medical / Human Resources / Artifact Review / White Grave
-/ Site Command
-Authority: Personnel Screening Desk, Medical Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Personnel Screening Technology Record                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Personnel Screening / Medical / Human Resources / Artifact Review / White Grave /     |
+|                            | Site Command                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Personnel Screening Desk, Medical Division, and Central Archive                       |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 HPP Resonance Scanners are the thirty-second main A.C.T technology expanded into an individual record.

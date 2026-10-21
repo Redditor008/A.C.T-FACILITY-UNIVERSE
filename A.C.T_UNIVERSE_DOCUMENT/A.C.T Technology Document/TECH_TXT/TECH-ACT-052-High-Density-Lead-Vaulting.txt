@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - HIGH-DENSITY LEAD VAULTING
 |                            | refitting historical lead shielding                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Legacy-Active Foundational Technology Record
-Distribution: Historical Engineering Archive / Materials Custody / Artifact Storage / Site Safety /
-Archive
-Authority: Historical Engineering Archive, Materials Custody, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Legacy-Active Foundational Technology Record                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Historical Engineering Archive / Materials Custody / Artifact Storage / Site Safety / |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Historical Engineering Archive, Materials Custody, and Central Archive                |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 High-Density Lead Vaulting is the fifty-second main A.C.T technology expanded into an individual record.

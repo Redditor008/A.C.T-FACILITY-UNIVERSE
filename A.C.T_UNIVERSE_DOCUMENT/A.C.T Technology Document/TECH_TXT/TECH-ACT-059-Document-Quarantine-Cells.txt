@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - DOCUMENT QUARANTINE CELLS
 |                            | relocation, or quarantine release                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Archive Containment Technology Record
-Distribution: Archive / Containment / Security / Recovery / Medical / Administration
-Authority: Archive Division, Floor Archivist, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Archive Containment Technology Record                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Archive / Containment / Security / Recovery / Medical / Administration                |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Archive Division, Floor Archivist, and Central Archive                                |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Document Quarantine Cells are the fifty-ninth main A.C.T technology expanded into an individual record.

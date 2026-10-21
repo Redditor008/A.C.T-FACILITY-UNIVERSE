@@ -26,9 +26,16 @@ TECHNOLOGY RECORD - PUBLIC ARCHIVE ABSOLUTE SEPARATION AND IMMEDIATE TRANSFER SY
 |                            | anomalous-material exception                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Kurokawa Surface-Archive Technology Record
-Distribution: Kurokawa Archive Node / Foundation Administration / Archive / Security / Command
-Authority: Foundation Director, Security Boundary Office, Site Director's Command Floor, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Kurokawa Surface-Archive Technology Record                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Kurokawa Archive Node / Foundation Administration / Archive / Security / Command      |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Foundation Director, Security Boundary Office, Site Director's Command Floor, and     |
+|                            | Central Archive                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Public Archive Absolute Separation and Immediate Transfer System is the one-hundred-seventeenth main A.C.T technology

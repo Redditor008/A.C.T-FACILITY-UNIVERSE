@@ -26,9 +26,16 @@ TECHNOLOGY RECORD - THERMAL-LURE BEACON
 |                            | settings and predator routing                                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Biological Handling Technology Record
-Distribution: Subject Care / Biological Containment / Recovery / Medical / Site-04 Command
-Authority: Subject Care Division, Biological Containment Division, Engineering Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Biological Handling Technology Record                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Subject Care / Biological Containment / Recovery / Medical / Site-04 Command          |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Subject Care Division, Biological Containment Division, Engineering Division, and     |
+|                            | Central Archive                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Thermal-Lure Beacon is the twenty-fifth main A.C.T technology expanded into an individual record. The

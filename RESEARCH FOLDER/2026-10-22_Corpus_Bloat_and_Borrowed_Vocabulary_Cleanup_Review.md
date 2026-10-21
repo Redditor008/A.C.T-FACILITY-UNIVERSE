@@ -81,11 +81,15 @@ The same overview exists both standalone and inside a `Part/` series, and Part 1
 
 `TECH_MD/README.md` is **10,021 words** across four sections, of which *Current Individual Technology Records* is 5,426 words and *Current Status* is 4,252. An index that runs to ten thousand words has become a second corpus.
 
-### 3.6 A defect found while measuring, not while cleaning
+### 3.6 A format defect found while measuring — now fixed
 
-**138 of the 229 `.txt` technology twins contain no `ARCHIVE STATUS` and no `DISTRIBUTION` line at all.** Their `.md` twins carry five tables; the `.txt` carries four boxes. The archive-status table is simply absent from the `.txt` render of those records.
+**137 of the 229 `.txt` technology twins carried the archive status as three plain `Label: value` lines while their `.md` twins carried it as a pipe table.** House policy is that `.txt` always uses the box, so those 137 twins broke the policy in one section each. One further twin, `TECH-GOI-071-5`, has no archive table in either format and is internally consistent. Four `TECH-GOI-071` twins carried the archive data twice — once as a correct box and again as plain lines.
 
-This is pre-existing and was not introduced by this cleanup — verified by running the same comparison against `HEAD` for all 229 records, where every record returned an identical result before and after the edit. It went unnoticed because the standing gate compares file counts, which are equal at 229/229, not table counts.
+**Correcting the first draft of this section.** An earlier version of this memo said the archive-status table was *absent* from 138 `.txt` twins. That was wrong. The data was present in every one of them, rendered as plain label lines instead of a box. Nothing was missing; the format was wrong. The count was also 137, not 138.
+
+**This is fixed.** All 137 plain blocks were rendered as house boxes at the standard two-column widths of 28 and 87, with each value wrapped inside its own column. The four redundant plain blocks were removed, since those twins already carried the box. Every one of the 141 conversions was verified value-identical against `HEAD` — all three fields, word for word, in all 141 files.
+
+The result is that **all 229 technology records now have `.md` table counts equal to `.txt` box counts**, where before 137 did not. The defect went unnoticed for as long as it did because the standing gate compared file counts, which were equal at 229/229, and never compared table counts.
 
 ## 4. What was cleaned in this pass
 
@@ -102,20 +106,30 @@ Ten sentence shapes are used, rotated by record index, so the fix does not becom
 
 Net effect: **308 files changed, 872 lines removed, 640 inserted** — the corpus is 232 lines shorter and no longer repeats one sentence 308 times.
 
+### Second pass — archive status rendered as boxes
+
+A second pass converted the 137 plain `Archive Status:` / `Distribution:` / `Authority:` line blocks into house boxes at widths 28 and 87, with each value wrapped inside its own column, and removed the 4 redundant plain blocks in the `TECH-GOI-071` twins that already carried a box.
+
+Every conversion was verified value-identical against `HEAD`: all three fields, word for word, in all 141 files. Four `TECH-GOI-071` twins were first given a duplicate box by the converter — they already had one — and were reverted before the redundant plain blocks were removed instead. That mistake was caught by a duplicate-row check, not by the parity check.
+
+Net effect of the second pass: **141 files changed, 1344 lines added, 512 removed.** All 229 technology records now have `.md` table counts equal to `.txt` box counts, where 137 previously did not.
+
 ## 5. Verification
 
-| Check | Result |
-| --- | --- |
-| Residual stamp occurrences | 0 |
-| Files changed | 308 (154 `.md` + 154 `.txt`) |
-| Records where the twin check changed because of this edit | 0 of 229 |
-| Box rules not exactly 118 characters | 0 |
-| Widest box line in the repository | 118 |
-| Lines over 118 characters in `.txt` | 6, all in `TECH_TXT/README.txt`, none in a changed file |
-| DOCUMENT_COUNT | 968, unchanged |
-| `TECH_MD` / `TECH_TXT` file counts | 229 / 229 |
-| multiH1 / odd-fence / bad-EOF / md-with-box | 0 / 0 / 0 / 0 |
-| `git diff --check` | clean |
+| Check | After pass 1 | After pass 2 |
+| --- | --- | --- |
+| Residual stamp occurrences | 0 | 0 |
+| Records where `.md` tables ≠ `.txt` boxes | 137 | **0** |
+| Twins with a duplicated archive box | 4 | **0** |
+| Twins with plain archive label lines | 137 | **0** |
+| Archive values changed by the conversion | — | **0 of 423 fields** |
+| Box rules not exactly 118 characters | 0 | 0 |
+| Widest box line in the repository | 118 | 118 |
+| Lines over 118 in `.txt` | 6, all in `TECH_TXT/README.txt` | 6, same file, unchanged |
+| DOCUMENT_COUNT | 968 | 969 (this memo added) |
+| `TECH_MD` / `TECH_TXT` file counts | 229 / 229 | 229 / 229 |
+| multiH1 / odd-fence / bad-EOF / md-with-box | 0 / 0 / 0 / 0 | 0 / 0 / 0 / 0 |
+| `git diff --check` | clean | clean |
 
 Most-repeated sentence in the corpus after the pass, for comparison: 20 files. Before the pass: 308.
 
@@ -125,9 +139,9 @@ Most-repeated sentence in the corpus after the pass, for comparison: 20 files. B
 - **`amnestics` 638 and `memetic` 707.** Shared genre vocabulary; rewriting exceeds the problem.
 - **18 crossover files, ~78,000 words.** Pre-existing authored content by another author at `a17dfd0`. Flagged, not deleted.
 - **3 redundant overview pairs.** Editorial call on which copy is canonical.
-- **138 `.txt` twins missing the archive-status box.** Real defect, pre-existing, needs a separate render pass.
 - **Patch Saver at 45,997 words and TECH README at 10,021 words.** Both should be split; neither was restructured here.
 - **`docs/index.html` is 0 bytes.** Still empty.
+- **Section-level uniformity across the technology records.** Removing one repeated sentence does not undo the fact that 229 records share one 14-section skeleton in the same order. That is a house shape decision, not a defect, and changing it is an editorial call.
 - **The `^  \S` orphan-line metric reads 6629 across 453 files, and that number is not a defect count.** It matches ordinary indented prose. The true orphan count inside technology records is 209. The figure is recorded so it is not mistaken for a finding.
 
 ## 7. Rule adopted going forward

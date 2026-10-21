@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - PALE WOOD SCALPEL
 |                            | laser-tracking calibration, and breach use                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Surgical Tool Technology Record
-Distribution: Medical / Biological Containment / Recovery / Engineering / Site Command
-Authority: Medical Division, Surgical Materials Custody, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Surgical Tool Technology Record                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Medical / Biological Containment / Recovery / Engineering / Site Command              |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Medical Division, Surgical Materials Custody, and Central Archive                     |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 The Pale Wood Scalpel is the twenty-fourth main A.C.T technology expanded into an individual

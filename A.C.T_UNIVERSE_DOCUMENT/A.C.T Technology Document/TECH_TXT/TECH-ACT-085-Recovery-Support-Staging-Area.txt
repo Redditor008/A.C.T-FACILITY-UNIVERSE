@@ -26,10 +26,17 @@ TECHNOLOGY RECORD - RECOVERY SUPPORT STAGING AREA
 |                            | handoff, or parent-relay override                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Recovery Staging Technology Record
-Distribution: Recovery Support / Watch Staff / Security / Intake / Nusantara Deep Relay
-/ Ash Tide Watchpoint
-Authority: Watch Officer, Recovery Support Lead, Intake Officer, Nusantara Site Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Recovery Staging Technology Record                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Recovery Support / Watch Staff / Security / Intake / Nusantara Deep Relay /           |
+|                            | Ash Tide Watchpoint                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Watch Officer, Recovery Support Lead, Intake Officer, Nusantara Site Command, and     |
+|                            | Central Archive                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Recovery Support Staging Area is the eighty-fifth main A.C.T technology expanded into an individual

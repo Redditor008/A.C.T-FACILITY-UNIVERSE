@@ -30,11 +30,17 @@ TECHNOLOGY RECORD - 004-SERIES AMNESTIC COMPOUND SYSTEM
 |                            | handling, refinement tables, and institutional misconduct review                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Restricted Technology Record
-Distribution: Medical Care / Civil Covert / Transformation Review / Subject Care / Archive
-/ Site Command / Command
-Authority: Medical Care Division, Civil Covert Division, Transformation Review Board, Memory Review, and Central
-Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Technology Record                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Medical Care / Civil Covert / Transformation Review / Subject Care / Archive /        |
+|                            | Site Command / Command                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Medical Care Division, Civil Covert Division, Transformation Review Board, Memory     |
+|                            | Review, and Central Archive                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 ............

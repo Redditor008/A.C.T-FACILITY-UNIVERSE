@@ -26,9 +26,16 @@ TECHNOLOGY RECORD - SONAR VOID RESEARCH PROGRAM INFRASTRUCTURE
 |                            | correlation                                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Maritime-Acoustic Research Technology Record
-Distribution: Research / Seismic Analysis / Recovery / Containment / Nusantara Deep Relay
-Authority: Floor Research Chief, Seismic Analysis Support, Maritime Recovery Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Maritime-Acoustic Research Technology Record                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Research / Seismic Analysis / Recovery / Containment / Nusantara Deep Relay           |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Floor Research Chief, Seismic Analysis Support, Maritime Recovery Command, and        |
+|                            | Central Archive                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Sonar Void Research Program Infrastructure is the seventy-fifth main A.C.T technology expanded into an

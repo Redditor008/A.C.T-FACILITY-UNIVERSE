@@ -5742,3 +5742,44 @@ record unless it names something in that record.
 **Next action.** Decide the `O5` canon question, then render the missing archive-status boxes into the 138
 `.txt` twins, then split the Patch Saver and the technology README. Set 073 Lantern Accord remains the
 next technology set to build.
+
+## Prompt Log — 2026-10-21 19:50 UTC
+
+### Batch 42 - second audit pass: archive status rendered as boxes in 137 .txt twins
+
+Branch resolved at runtime with `git rev-parse --abbrev-ref HEAD`; no branch name is hardcoded.
+
+**The defect.** 137 of the 229 `.txt` technology twins carried the archive status as three plain
+`Label: value` lines while their `.md` twins carried it as a pipe table. House policy is that `.txt`
+always uses the box. Four `TECH-GOI-071` twins carried the same data twice, once as a correct box and
+once as plain lines. One twin, `TECH-GOI-071-5`, has no archive table in either format and is internally
+consistent at four tables and four boxes.
+
+**Correction to batch 41.** The previous entry and the first draft of the cleanup review said the
+archive-status table was absent from 138 `.txt` twins. That was wrong. The data was present in every one
+of them, rendered as plain label lines rather than as a box. Nothing was missing; the format was wrong,
+and the count was 137, not 138. Both the entry and the review have been corrected.
+
+**The fix.** All 137 plain blocks were rendered as house boxes at widths 28 and 87 with each value
+wrapped inside its own column, and the 4 redundant plain blocks were removed. Every conversion was
+verified value-identical against `HEAD` — all three fields, word for word, in all 141 files, 423 fields
+in total.
+
+**Mistake caught during the run.** The converter gave the four `TECH-GOI-071` twins a second archive box,
+because they already had one and the script only tested for the plain-line form. Caught by a
+duplicate-row check, not by the parity check. Those four were reverted to `HEAD` and their redundant
+plain blocks removed instead.
+
+**Verification.** Records where `.md` tables differ from `.txt` boxes: 137 before, 0 after. Twins with a
+duplicated archive box: 4 during the run, 0 after. Twins with plain archive label lines: 137 before,
+0 after. Archive fields changed by the conversion: 0 of 423. Box rules not exactly 118: 0. Widest box
+line 118. Lines over 118 in `.txt`: 6, all in `TECH_TXT/README.txt`, unchanged. DOCUMENT_COUNT 969.
+`TECH_MD`/`TECH_TXT` 229/229. multiH1, odd-fence, bad-EOF, md-with-box all 0. `git diff --check` clean.
+
+**Still open.** `O5` across 139 files is a canon decision. `amnestics` 638 and `memetic` 707 are shared
+genre vocabulary. 18 crossover files of roughly 78,000 words predate this work. Three near-duplicate
+overview pairs need an editorial call on which copy is canonical. `PATCH SAVER` at 45,997 words and
+`TECH_MD/README.md` at 10,021 words both need splitting. `docs/index.html` is still 0 bytes.
+
+**Next action.** Take the owner's decision on the six open items above, then build set 073 Lantern
+Accord.

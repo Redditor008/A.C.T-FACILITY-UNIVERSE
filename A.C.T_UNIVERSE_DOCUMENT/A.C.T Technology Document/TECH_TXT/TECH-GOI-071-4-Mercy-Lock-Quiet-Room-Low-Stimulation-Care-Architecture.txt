@@ -36,11 +36,6 @@ TECHNOLOGY RECORD - MERCY LOCK QUIET ROOM LOW-STIMULATION CARE ARCHITECTURE
 | AUTHORITY                  | Archive                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active GOI-Acquired Technology Record
-Distribution: Medical / Subject Care / Containment / Engineering / Legal / Intelligence
-Authority: Medical Division, Subject Care Division, Containment Division, Engineering Division, Legal Division, and
-Central Archive
-
 Archive Note
 Mercy Lock Quiet Room Low-Stimulation Care Architecture is the fourth registered technology record derived
 from Mercy

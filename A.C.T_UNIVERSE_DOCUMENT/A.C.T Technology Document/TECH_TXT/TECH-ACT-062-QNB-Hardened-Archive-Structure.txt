@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - QNB-HARDENED ARCHIVE STRUCTURE
 |                            | authority, or causal conflict review                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Archival Infrastructure Technology Record
-Distribution: Archive / Engineering / Site Command / Containment / Recovery / Medical /
-Digital Systems
-Authority: Archive Division, Engineering Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Archival Infrastructure Technology Record                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Archive / Engineering / Site Command / Containment / Recovery / Medical / Digital     |
+|                            | Systems                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Archive Division, Engineering Division, and Central Archive                           |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 QNB-Hardened Archive Structure is the sixty-second main A.C.T technology expanded into an individual record.

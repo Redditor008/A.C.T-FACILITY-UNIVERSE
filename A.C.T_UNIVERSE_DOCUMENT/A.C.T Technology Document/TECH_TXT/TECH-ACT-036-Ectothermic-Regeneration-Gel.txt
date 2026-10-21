@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - ECTOTHERMIC REGENERATION GEL
 |                            | transmutation-repair experimentation                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Biological Medical Technology Record
-Distribution: Medical / Verde Null / Subject Care / Herpetology Review / Transformation Review
-Authority: Medical Division, Biological Subject Care Desk, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Biological Medical Technology Record                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Medical / Verde Null / Subject Care / Herpetology Review / Transformation Review      |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Medical Division, Biological Subject Care Desk, and Central Archive                   |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Ectothermic Regeneration Gel is the thirty-sixth main A.C.T technology expanded into an individual record.

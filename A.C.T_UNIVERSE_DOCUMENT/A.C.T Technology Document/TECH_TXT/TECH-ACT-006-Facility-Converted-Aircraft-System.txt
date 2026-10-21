@@ -29,10 +29,17 @@ TECHNOLOGY RECORD - FACILITY CONVERTED AIRCRAFT SYSTEM
 |                            | access, RSA-rail calibration, and world-scale sample movement                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Restricted Technology Record
-Distribution: Logistics / Recovery / Engineering / Containment / Site Command / Civil Covert
-/ Command
-Authority: Logistics Division, Recovery Division, Engineering Division, Containment Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Technology Record                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Logistics / Recovery / Engineering / Containment / Site Command / Civil Covert /      |
+|                            | Command                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Logistics Division, Recovery Division, Engineering Division, Containment Division,    |
+|                            | and Central Archive                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 ............

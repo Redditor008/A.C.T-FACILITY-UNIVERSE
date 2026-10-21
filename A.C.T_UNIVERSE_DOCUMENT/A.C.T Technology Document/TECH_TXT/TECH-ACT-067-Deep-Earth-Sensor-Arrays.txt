@@ -25,9 +25,15 @@ TECHNOLOGY RECORD - DEEP-EARTH SENSOR ARRAYS
 | CLEARANCE REQUIRED         | Level 4 for live readings, array maintenance, or abyss- linked correlation review     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Seismic Monitoring Technology Record
-Distribution: Seismic Analysis / Containment / Research / Engineering / Nusantara Deep Relay
-Authority: Seismic Analysis Support, Nusantara Site Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Seismic Monitoring Technology Record                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Seismic Analysis / Containment / Research / Engineering / Nusantara Deep Relay        |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Seismic Analysis Support, Nusantara Site Command, and Central Archive                 |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Deep-Earth Sensor Arrays are the sixty-seventh main A.C.T technology expanded into an individual record.

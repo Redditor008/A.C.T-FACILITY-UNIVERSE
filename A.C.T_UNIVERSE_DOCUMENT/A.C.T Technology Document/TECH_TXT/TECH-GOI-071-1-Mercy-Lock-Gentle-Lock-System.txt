@@ -47,11 +47,6 @@ TECHNOLOGY RECORD - MERCY LOCK GENTLE LOCK SYSTEM
 |                            | Central Archive                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Restricted Technology Record
-Distribution: Medical / Containment / Subject Care / Engineering / Legal / Intelligence /
-Command
-Authority: Medical Division, Containment Division, Engineering Division, Legal Division, and Central Archive
-
 Archive Note
 ............
 The Mercy Lock Gentle Lock System is a GOI-origin nonviolent containment technology used by

@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - PHASE-STABLE SILICONE
 |                            | chassis or high-phase exposure                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Synthetic Polymer Technology Record
-Distribution: Engineering / Medical Fabrication / Artificial Cognition / Medical / Subject Care /
-Materials Custody
-Authority: Engineering Division, Medical Fabrication Desk, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Synthetic Polymer Technology Record                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Engineering / Medical Fabrication / Artificial Cognition / Medical / Subject Care /   |
+|                            | Materials Custody                                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Engineering Division, Medical Fabrication Desk, and Central Archive                   |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Phase-Stable Silicone is the forty-seventh main A.C.T technology expanded into an individual record. The

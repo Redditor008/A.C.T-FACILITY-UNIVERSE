@@ -29,10 +29,17 @@ TECHNOLOGY RECORD - CAUSAL STATIC GENERATOR SYSTEM
 |                            | tables, and site-wide overlap                                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Restricted Technology Record
-Distribution: Engineering / Containment / Archive / Civil Covert / Field Command / Intelligence
-/ Command
-Authority: Engineering Division, Containment Division, Archive Division, Site Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Technology Record                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Engineering / Containment / Archive / Civil Covert / Field Command / Intelligence /   |
+|                            | Command                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Engineering Division, Containment Division, Archive Division, Site Command, and       |
+|                            | Central Archive                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 ............

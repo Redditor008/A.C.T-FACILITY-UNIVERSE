@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - LONG SLEEP VAULT AND F-1 CLOSURE CONTAINMENT SYSTEM
 |                            | release or sleep-state interruption                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active White Grave Deep-Hold Technology Record
-Distribution: White Grave Station / Deep-Hold Command / Security / Medical / Research /
-Archive
-Authority: Sleep Vault Chief, Containment Division Deep-Hold Command, Site Director, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active White Grave Deep-Hold Technology Record                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | White Grave Station / Deep-Hold Command / Security / Medical / Research / Archive     |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Sleep Vault Chief, Containment Division Deep-Hold Command, Site Director, and Central |
+|                            | Archive                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Long Sleep Vault and F-1 Closure Containment System is the one-hundred-thirty-sixth main A.C.T technology

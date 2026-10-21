@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - STANDARD BOX HOLDING CHAMBER SYSTEM
 |                            | hold or F-4 transformation review                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Redwood Veil Containment Technology Record
-Distribution: Redwood Veil Complex / Containment / Security / Recovery / Archive / Transformation
-Authority: Floor Holding Chief, Containment Division, Site Director, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Redwood Veil Containment Technology Record                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Redwood Veil Complex / Containment / Security / Recovery / Archive / Transformation   |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Floor Holding Chief, Containment Division, Site Director, and Central Archive         |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Standard Box Holding Chamber System is the one-hundred-twenty-fourth main A.C.T technology expanded into an

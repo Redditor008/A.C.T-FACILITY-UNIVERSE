@@ -26,11 +26,17 @@ TECHNOLOGY RECORD - INTAKE STAGING AND ROUTING SYSTEM
 |                            | parent-site routing override                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Intake Routing Technology Record
-Distribution: Glass Orchard Relay / Redwood Veil Complex / Recovery Support / Security /
-Medical / Limited Archive
-Authority: Processing Officer, Recovery Support Lead, Sub-Site Chief, Redwood Veil Site Command, and Central
-Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Intake Routing Technology Record                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Glass Orchard Relay / Redwood Veil Complex / Recovery Support / Security / Medical    |
+|                            | / Limited Archive                                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Processing Officer, Recovery Support Lead, Sub-Site Chief, Redwood Veil Site Command, |
+|                            | and Central Archive                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Intake Staging and Routing System is the ninety-first main A.C.T technology expanded into an

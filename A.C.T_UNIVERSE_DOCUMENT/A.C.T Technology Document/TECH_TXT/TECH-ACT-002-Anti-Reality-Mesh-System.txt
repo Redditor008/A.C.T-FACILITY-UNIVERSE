@@ -29,10 +29,17 @@ TECHNOLOGY RECORD - ANTI REALITY MESH SYSTEM
 |                            | and civilian-perception tables                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Restricted Technology Record
-Distribution: Engineering / Civil Covert / Site Command / Containment / Intelligence / Archive
-/ Command
-Authority: Engineering Division, Civil Covert Division, Site Command, Normalcy Management, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Technology Record                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Engineering / Civil Covert / Site Command / Containment / Intelligence / Archive /    |
+|                            | Command                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Engineering Division, Civil Covert Division, Site Command, Normalcy Management, and   |
+|                            | Central Archive                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 ............

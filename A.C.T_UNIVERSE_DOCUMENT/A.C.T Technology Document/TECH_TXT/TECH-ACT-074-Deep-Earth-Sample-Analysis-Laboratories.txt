@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - DEEP-EARTH SAMPLE ANALYSIS LABORATORIES
 |                            | abyss-linked samples                                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Deep-Earth Research Technology Record
-Distribution: Research / Seismic Analysis / Engineering / Containment / Nusantara Deep Relay
-Authority: Deep-Earth Analysis Desk, Floor Research Chief, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Deep-Earth Research Technology Record                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Research / Seismic Analysis / Engineering / Containment / Nusantara Deep Relay        |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Deep-Earth Analysis Desk, Floor Research Chief, and Central Archive                   |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Deep-Earth Sample Analysis Laboratories are the seventy-fourth main A.C.T technology expanded into an individual

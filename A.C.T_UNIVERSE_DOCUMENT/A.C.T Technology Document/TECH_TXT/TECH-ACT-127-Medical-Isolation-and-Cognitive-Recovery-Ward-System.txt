@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - MEDICAL ISOLATION AND COGNITIVE RECOVERY WARD SYSTEM
 |                            | influence or memetic contamination                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Redwood Veil Medical Technology Record
-Distribution: Redwood Veil Complex / Medical / Containment / Research / Security / Archive
-Authority: Chief Medical Officer, Medical Division, Site Director, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Redwood Veil Medical Technology Record                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Redwood Veil Complex / Medical / Containment / Research / Security / Archive          |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Chief Medical Officer, Medical Division, Site Director, and Central Archive           |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Medical Isolation and Cognitive Recovery Ward System is the one-hundred-twenty-seventh main A.C.T technology expanded

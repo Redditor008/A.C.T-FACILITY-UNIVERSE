@@ -26,10 +26,17 @@ TECHNOLOGY RECORD - DOCUMENT PRESERVATION STUDIO COVER SYSTEM
 |                            | buried-annex transition control                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Document Cover Technology Record
-Distribution: Silent Reed Annex / Kurokawa Archive Node / Studio Management / Security /
-Archive / Intelligence
-Authority: Studio Manager, Security Boundary Lead, Sub-Site Chief, Kurokawa Archive Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Document Cover Technology Record                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Silent Reed Annex / Kurokawa Archive Node / Studio Management / Security / Archive    |
+|                            | / Intelligence                                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Studio Manager, Security Boundary Lead, Sub-Site Chief, Kurokawa Archive Command, and |
+|                            | Central Archive                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Document Preservation Studio Cover System is the ninety-ninth main A.C.T technology expanded into an

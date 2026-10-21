@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - HARVESTED PALE WOOD
 |                            | gold-tool modification plans                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Anomalous Material Technology Record
-Distribution: Materials Custody / Dark World Survey / Engineering / Medical / White Grave
-/ Site Infrastructure
-Authority: Materials Custody, Dark World Survey, Engineering Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Anomalous Material Technology Record                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Materials Custody / Dark World Survey / Engineering / Medical / White Grave /         |
+|                            | Site Infrastructure                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Materials Custody, Dark World Survey, Engineering Division, and Central Archive       |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Harvested Pale Wood is the forty-first main A.C.T technology expanded into an individual record.

@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - EMERGENCY INTAKE AND SECURE STORAGE SYSTEM
 |                            | F-1 closure authority                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Emergency Intake Technology Record
-Distribution: Recovery Support / Security / Limited Medical / Nusantara Deep Relay / Ash
-Tide Watchpoint
-Authority: Watch Chief, Intake Officer, Nusantara Site Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Emergency Intake Technology Record                                             |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Recovery Support / Security / Limited Medical / Nusantara Deep Relay / Ash Tide       |
+|                            | Watchpoint                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Watch Chief, Intake Officer, Nusantara Site Command, and Central Archive              |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Emergency Intake and Secure Storage System is the eighty-second main A.C.T technology expanded into

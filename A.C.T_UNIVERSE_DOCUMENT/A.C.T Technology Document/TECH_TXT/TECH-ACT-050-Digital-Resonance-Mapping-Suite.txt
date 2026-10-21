@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - DIGITAL RESONANCE MAPPING SUITE
 |                            | disputes, or method changes                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Facility Instrument Technology Record
-Distribution: Research / Archive / Containment / Transformation / Medical / Redwood Veil
-Authority: Research Division, Redwood Veil F-5, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Facility Instrument Technology Record                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Research / Archive / Containment / Transformation / Medical / Redwood Veil            |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Research Division, Redwood Veil F-5, and Central Archive                              |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 The Digital Resonance Mapping Suite is the fiftieth main A.C.T technology expanded into an

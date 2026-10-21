@@ -26,9 +26,16 @@ TECHNOLOGY RECORD - UNREAD ARCHIVE ANTI-READING PRESERVATION VAULT SYSTEM
 |                            | direct content exposure                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Kurokawa Deep-Archive Technology Record
-Distribution: Kurokawa Archive Node / Deep-Archive Command / Security / Intelligence / Medical
-Authority: Unread Archive Chief, Site Director, Archive Division Deep-Archive Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Kurokawa Deep-Archive Technology Record                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Kurokawa Archive Node / Deep-Archive Command / Security / Intelligence / Medical      |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Unread Archive Chief, Site Director, Archive Division Deep-Archive Command, and       |
+|                            | Central Archive                                                                       |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Unread Archive Anti-Reading Preservation Vault System is the one-hundred-twenty-first main A.C.T technology expanded

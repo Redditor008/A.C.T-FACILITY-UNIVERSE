@@ -26,10 +26,16 @@ TECHNOLOGY RECORD - SOUL-STASIS HARNESS
 |                            | and pendant-distance override                                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Case-Restricted Medical Technology Record
-Distribution: Medical / White Grave / Subject Care / Engineering / Narrative Analysis /
-Site Command
-Authority: Medical Division, White Grave Stasis Desk, Engineering Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Case-Restricted Medical Technology Record                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Medical / White Grave / Subject Care / Engineering / Narrative Analysis / Site        |
+|                            | Command                                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Medical Division, White Grave Stasis Desk, Engineering Division, and Central Archive  |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 The Soul-Stasis Harness is the thirtieth main A.C.T technology expanded into an individual record.

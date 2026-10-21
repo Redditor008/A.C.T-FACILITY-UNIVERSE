@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - SPECTRAL VIBRATION SENSORS
 |                            | response, and log access                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Early-Warning Technology Record
-Distribution: Archive / Info-Hazard / Containment / Engineering / Site Command / Security
-Authority: Archive Division, Info-Hazard Division, Engineering Division, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Early-Warning Technology Record                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Archive / Info-Hazard / Containment / Engineering / Site Command / Security           |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Archive Division, Info-Hazard Division, Engineering Division, and Central Archive     |
++----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
 Spectral Vibration Sensors are the twenty-first main A.C.T technology expanded into an individual record.

@@ -26,9 +26,16 @@ TECHNOLOGY RECORD - STEAM-DRILL EXCAVATOR
 |                            | reconstruction proposal                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Retired Historical Technology Record
-Distribution: Historical Engineering Archive / Abyss Engineering / Materials Custody / Site Archives
-Authority: Historical Engineering Archive, Abyss Engineering, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Retired Historical Technology Record                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Historical Engineering Archive / Abyss Engineering / Materials Custody / Site         |
+|                            | Archives                                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Historical Engineering Archive, Abyss Engineering, and Central Archive                |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 The Steam-Drill Excavator is the fifty-first main A.C.T technology expanded into an individual record.

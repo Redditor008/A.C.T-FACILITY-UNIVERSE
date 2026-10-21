@@ -26,9 +26,15 @@ TECHNOLOGY RECORD - REDACTION RELEASE AUTHORIZATION AND FILTERING RECORD SYSTEM
 |                            | minimum-release override, or source return                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Archive Status: Active Kurokawa Redaction Technology Record
-Distribution: Kurokawa Archive Node / Archive / Intelligence / Researcher / Security / Medical
-Authority: Redaction Authority Desk, Archive Division, Floor Command, and Central Archive
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Kurokawa Redaction Technology Record                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Kurokawa Archive Node / Archive / Intelligence / Researcher / Security / Medical      |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Redaction Authority Desk, Archive Division, Floor Command, and Central Archive        |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
 Redaction Release Authorization and Filtering Record System is the one-hundred-twentieth main A.C.T technology
