@@ -139,7 +139,7 @@ Known external features:
   a **battery plate** at the base or rear, behind which a production tag
   may
   be stitched or adhered;
-— an **instruction slip** stored beneath the battery cover, printed rather than handwritten;
+- an **instruction slip** stored beneath the battery cover, printed rather than handwritten;
   a **shell casing** that remains structurally complete after the active components are removed,
   and
   that A.C.T has
@@ -174,6 +174,61 @@ Lullaby Works item with a written procedure attached.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Values below are restated from the recovered instruction slip, the shelter delivery record, and controlled inspection
+of the three units in custody. Nothing is measured by provoking a response, because every available provocation route
+requires staging fear in front of a child.
+
+| SPECIFICATION FIELD | RECORDED VALUE |
+|---|---|
+| Confirmed states | steady, intensification, blue shift |
+| Auditory behaviour | shade hum, never produced |
+| Detection target | unregistered presence, undefined |
+| Enumerated output | headcount, message 17/17 |
+| Coverage | one child-occupied room |
+| Sensor array located | none |
+| Power cell located | none matching runtime |
+| Warm-up period | not measurable |
+| Authorized test route | none |
+| Units held / in service | 3 held, 14 in service |
+
+The two rows that govern field behaviour are the coverage row and the authorized test route. A unit answers for
+one room and cannot be checked, so a steady lamp is not evidence that a room is clear and cannot
+be made into evidence by anyone standing in the doorway.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Readable Output And Reporting Surface
+
+- output is light behaviour, with no port, panel, or alarm contact
+- intensification is reported as immediate, preceding any occupant report
+- blue shift is treated as something has been seen, not as a classification
+- shade hum directs a double headcount and is unconfirmed
+
+### Placement And Custody Limits
+
+- one unit per child-occupied room, within sight of a shelf or sill
+- no switching off, moving, or cleaning without Subject Care authorization
+- units in service remain monitored-care assets, not recovered evidence
+- abrupt removal prohibited outside an active containment emergency
+
+### Handling Limits And Weaknesses
+
+- Do not unscrew the moon element while children are sleeping.
+- Do not test the light by pretending to be afraid.
+- Do not name an extra child if a count returns eighteen.
+- Do not describe the unit as confiscated in front of a minor.
+- Weakest where a steady lamp is read as a clear room.
+- Weakest where staff have no training in the three states.
+
+Coverage beyond the assigned room is NOT MEASURED and is not claimed. The unit does not protect an adult, an
+empty room, or a child who has left.
+
+---
+
 ## OPERATING PROCEDURE
 
 Units in service are left in service. Field personnel do not switch them off,
@@ -201,6 +256,52 @@ Inspection of an inert unit proceeds from the outside inward: shell, shade, aper
 plate, tag, slip.
 Disassembly of the moon element is a Level 5 action and has not been
 authorized for any recovered unit.
+
+### Numbered Operating Sequence
+
+The sequence applies to a unit already in service, which is the normal case. It deliberately ends on reporting the
+state rather than the cause, because the device supplies no classification and any cause written into the log is the
+reporter's inference.
+
+1. Confirm the room and the child the unit is assigned to.
+2. Record the state observed and the time it was observed.
+3. If the shade hums, count every child twice before anything else.
+4. Do not name an extra child if the count returns eighteen.
+5. Check the child first, the room second, the unit last.
+6. Refer any removal or relocation to Subject Care.
+7. Log the observation even where nothing appeared to happen.
+8. Report the state, not an interpretation of the cause.
+
+Steps 3 and 4 come from recovered instruction rather than from A.C.T practice, and both are followed verbatim. The
+instruction to count twice is the only evidence that the unit enumerates, and the prohibition on naming an extra child
+is the manufacturer's own containment rule.
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per observation | record state, time, and headcount |
+| Monthly | confirm every service unit is still in place |
+| Quarterly | review instruction compliance with shelter staff |
+| Semi-annually | re-inspect inert units externally |
+| Annually | review removal policy with Subject Care |
+
+Servicing here is observational by necessity. No calibration route exists that does not involve frightening a child,
+so the schedule records what was seen rather than what was adjusted.
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Lamp steady all night | no event, or unread state | log, do not clear room |
+| Sudden intensification | unregistered presence reported | check child first |
+| Colour changed | blue shift observed | do not question child |
+| Shade humming | enumeration condition | count twice, Subject Care |
+| Unit removed abruptly | unauthorised handling | restore, Subject Care |
 
 ---
 
@@ -305,19 +406,19 @@ and does not intend to.
   that
   internal volume does not
   account for the observed function?
-— What powers a unit that shows no identifiable cell matching its observed runtime?
+- What powers a unit that shows no identifiable cell matching its observed runtime?
   What condition distinguishes a steady state from a blue shift, and does the
   device
   distinguish between threat types?
-— What triggers the shade hum, and why has it never occurred under inspection?
+- What triggers the shade hum, and why has it never occurred under inspection?
   What does the device mean by an unregistered presence, and against what register
   is
   registration measured?
   How does a unit enumerate occupants, and where does the count of eighteen
   come
   from?
-— Does lot SLEEP-SAFE-7 differ from earlier or later lots in construction or behaviour?
-— Can a unit be built or repaired by anyone other than Lullaby Works?
+- Does lot SLEEP-SAFE-7 differ from earlier or later lots in construction or behaviour?
+- Can a unit be built or repaired by anyone other than Lullaby Works?
   Does a unit continue to function after the child it was placed for
   has
   left the room permanently?

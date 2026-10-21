@@ -5115,3 +5115,72 @@ Next action.
 
 Retrofit the five missing sections into the fifteen records in GOI sets 054, 056, and 071, starting
 with 054 Lullaby Works.
+
+## Prompt Log — 2026-10-21 16:11 UTC
+
+TECH-GOI-054, Lullaby Works, retrofitted. Five records, five sections each.
+
+The five records already held full dossiers of 1802 to 2211 words but carried only 10 chapters and 2
+tables, and were missing all five retrofit sections. Each now carries TECHNICAL SPECIFICATION,
+INTERFACE AND OPERATING ENVELOPE with three H3 groups, a Numbered Operating Sequence of eight steps
+inside OPERATING PROCEDURE, SERVICING AND CALIBRATION, and FAULT ISOLATION. Chapters run 10 to 14,
+tables 2 to 5, and every plain-text twin received the matching box.
+
+Content was taken from each record's own dossier rather than from a shared pattern.
+
+The nightlight specification turns on coverage and the absence of an authorized test route, because
+a steady lamp cannot be made into evidence that a room is clear. The plush record is built around
+the missing lot label, which is what prevents any recall list from being matched to the line. The
+blanket record treats the memory-suppression row as the one A.C.T is bound by rather than the one it
+reports on.
+
+The music box and ledger records are organised around their own limiting quantity.
+
+For the music box that quantity is service life: finite, unknown, and therefore logged night by
+night, because an exhausted unit is indistinguishable from a broken one or a finished treatment
+without the log. For the ledger it is the unmatched recall lot, which is read as a gap inventory of
+product lines A.C.T has never assessed rather than as a compliance document.
+
+Twenty-seven em-dash bullet markers were repaired across the five markdown files.
+
+These were list items rendered with an em dash instead of a hyphen, which markdown does not treat as
+a bullet, so the affected lines collapsed into the preceding paragraph. The plain-text twins carried
+none. The related defect, list items indented two spaces with no marker at all, is measured at 130
+lines across the fifteen records in sets 054, 056 and 071 and is scheduled rather than repaired
+here.
+
+One build defect was caught by the validator and the affected files were reverted before the second
+run.
+
+The specification rows were passed to the table renderer as a flat list of strings instead of a list
+of pairs, so the renderer zipped each string against the column widths and emitted one column per
+character. The twin-cell check reported 670 single-character cells, the ten files were reverted with
+git checkout, the builder was patched to pair flat rows, and the build was run again. The dry run
+alone did not catch it.
+
+Verification.
+
+Each record was checked for chapter count and order, a single H1, eight H3 sections including one
+Numbered Operating Sequence of eight steps, five tables matched by five plain-text boxes, a single
+fenced handling rule, no markdown artefacts in the twin, every heading present bare in the twin,
+every table cell present in the twin once box columns are rejoined, box rules exactly 118 wide, no
+em-dash bullets remaining, dates identical in both twins, and a single trailing newline. problems 0,
+RC 0.
+
+Validation.
+
+DOCUMENT_COUNT 917, BELOW_200 0, EMPTY 0, NO_FINAL_NL 0, CONFLICT 0, multiH1 0, odd-fence 0, md-
+with-box 0, glued separator lines 0, placeholders 0, broken_links 0/277, TECH_MD 204 = TECH_TXT 204,
+GOI_MD 34 = GOI_TXT 34, widest box line 118, date-rule violations 0, twin date mismatches 0, git
+diff --check rc=0.
+
+Remaining backlog.
+
+Ten records still lack the five retrofit sections, being the five in GOI set 056 Saint Vera and the
+five in GOI set 071 Mercy Lock. GOI technology records on the full fourteen-chapter shape now stand
+at 55 of 65. Separately, 17 GOI dossiers have no technology set at all, numbered 057 to 070 and 072
+to 074.
+
+Next action.
+
+Retrofit the five sections into the GOI set 056 Saint Vera records.

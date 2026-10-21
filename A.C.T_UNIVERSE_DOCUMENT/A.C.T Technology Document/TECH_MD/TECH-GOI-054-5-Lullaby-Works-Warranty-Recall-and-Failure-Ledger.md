@@ -134,6 +134,60 @@ why A.C.T treats it as a recoverable target rather than as a rumour.
 
 ---
 
+## TECHNICAL SPECIFICATION
+
+Values are restated from recovered fragments: the warranty card, the blue card, ledger pages, recall lists, catalogue
+remains, and crate markings. Nothing below is inferred from contact, because only one contact has ever been made.
+
+| SPECIFICATION FIELD | RECORDED VALUE |
+|---|---|
+| Confirmed functions | intake, recall, quarantine, retention |
+| Live interface observed | one, the blue card number |
+| Call result | 32 second lullaby, then a voice |
+| Recorded line | extra child leaves when nobody gives it a bed |
+| Recall lots recovered | some unknown to A.C.T |
+| Crate marking | DO NOT RETURN TO CHILD |
+| Per-unit identifier | stitched or adhered production tag |
+| Catalogue condition | pages missing, presumed unassessed |
+| Unauthorised contact | prohibited without exception |
+| Contacts ever made | one |
+
+The recall-lot row is the intelligence payload of this record. A lot A.C.T has never encountered in the field is
+a product line A.C.T has never assessed, so a recovered list is read as a gap inventory rather than as
+a compliance document.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Documentary Interface And Recovery Order
+
+- every contact leaves paper, which makes the system a recoverable target
+- fragments are catalogued on recovery, including envelope and paper stock
+- content analysis follows cataloguing, never precedes it
+- missing catalogue pages are filed as evidence, not as damage
+
+### Contact And Disclosure Controls
+
+- no call to any recovered number without Command-level exception
+- no return of a failed unit to a family
+- no failure-crate unit in any holding area used for service items
+- no disclosure of recall status or failure history to a family
+
+### Handling Limits And Weaknesses
+
+- Do not call a recovered number or write to a return address.
+- Do not place a failure-crate unit with service items.
+- Do not disclose failure history to a parent.
+- Do not treat a missing catalogue page as ordinary damage.
+- Weakest where a parent learns of a failure record and removes the item.
+- Weakest where a recovered lot is filed without reconciliation.
+
+Ledger location, lot totals, and crate disposition are NOT MEASURED. Subject Care holds veto authority over any use of
+ledger material that could reach a family, and exercises it by default.
+
+---
+
 ## OPERATING PROCEDURE
 
 Standing rules for ledger material:
@@ -156,6 +210,51 @@ most needs to avoid.
 
 Field personnel who recover a warranty card log it and pass it to Intelligence.
 They do not call the number.
+
+### Numbered Operating Sequence
+
+The sequence applies to any field recovery of ledger material, which is the common case. Cataloguing comes first
+because the paper itself is evidence and content analysis tends to destroy the habit of recording it.
+
+1. Catalogue the fragment before analysing its content.
+2. Record envelope, handwriting, and paper stock.
+3. Do not call any number or write to any address on it.
+4. Reconcile any recall lot against A.C.T lot knowledge.
+5. File unmatched lots as unassessed product lines.
+6. Log missing catalogue pages as evidence of an unassessed item.
+7. Pass the fragment to Intelligence with its catalogue entry.
+8. Report what the fragment proves, not what it implies.
+
+Step 8 is the discipline that keeps the file usable. A recall list naming an unknown lot proves that a
+product line exists which A.C.T has never seen; it does not prove what that product does, and a report that
+implies otherwise sends someone looking for the wrong thing.
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per fragment | catalogue, then analyse content |
+| Per recall list | reconcile lots, file the gaps |
+| Monthly | review uncatalogued recoveries |
+| Quarterly | audit holding areas for crate units |
+| Annually | review the contact exception rule with Command |
+
+Servicing is archival and reconciliatory. The system cannot be inspected, only read, so the schedule is built around
+keeping the fragment record complete and the lot gaps visible.
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Number called in field | unauthorised contact | log, Command |
+| Crate unit misfiled | storage lapse | separate, Containment |
+| Recall lot unmatched | unassessed product line | file the gap |
+| Family told of failure | disclosure lapse | Subject Care, Civil Covert |
+| Catalogue page missing | removed content presumed | file as evidence |
 
 ---
 

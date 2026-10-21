@@ -106,10 +106,10 @@ Known external features:
   a **winding key or crank**, present on all recovered parts, whose function A.C.T
   has
   not been able to confirm;
-— a **hinged lid** in most variants;
-— a **movement housing** that should contain a cylinder or disc mechanism;
-— a **sewn or adhered label area** under which a production tag may sit;
-— a **battery plate** in some variants, behind which a tag may be hidden.
+- a **hinged lid** in most variants;
+- a **movement housing** that should contain a cylinder or disc mechanism;
+- a **sewn or adhered label area** under which a production tag may sit;
+- a **battery plate** in some variants, behind which a tag may be hidden.
 
 Known construction findings:
 
@@ -120,7 +120,7 @@ Known construction findings:
   no spring, no governor, no comb, and no cylinder have been recovered that
   correspond
   to the audible tune;
-— winding the key produces no resistance and no sound in any recovered part;
+- winding the key produces no resistance and no sound in any recovered part;
   material samples from the range **remain warm when separated from the item body**,
   the
   shared Lullaby Works finding.
@@ -136,6 +136,60 @@ warranty card.
 Whether the winding key is functional, decorative, or a ritual control is unresolved. Whether
 the finite night count
 is stored mechanically, materially, or not at all is unresolved.
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Values are restated from caregiver reporting and from inspection of non-functional parts. A.C.T holds no working unit,
+by policy, so no value below comes from a functioning device.
+
+| SPECIFICATION FIELD | RECORDED VALUE |
+|---|---|
+| Confirmed effect | nightmare loop interrupted |
+| Memory suppression | none |
+| Service life | finite, count unknown |
+| Audible output | lullaby, treated as functional |
+| Lullaby language | not the family's language |
+| Movement housing | empty or non-functional |
+| Spring, comb, cylinder | none recovered |
+| Winding key effect | no resistance, no sound |
+| Winding a service unit | prohibited |
+| Working units held | none, by policy |
+
+Service life is the row that drives the operating procedure. The count is confirmed to be limited and unknown, so
+every night in service is logged, because nobody can tell from outside how much remains and the end of the
+unit is not the end of the risk.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Audible Intervention Behaviour
+
+- output is a lullaby, sometimes in a language the family does not speak
+- recovered instruction treats continued sound as part of the protocol
+- interruption breaks the loop without deleting the dream
+- no threat detection, relay, or room protection is provided
+
+### Charge Tracking And Custody Controls
+
+- a unit in a child's possession stays there
+- no opening, winding, or testing of a service unit
+- night count recorded for every unit in service
+- no silent replacement when a unit stops
+
+### Handling Limits And Weaknesses
+
+- Do not open a service unit at any clearance level.
+- Do not wind a service unit; charge cannot be measured.
+- Do not test the interruption by inducing a nightmare.
+- Do not replace an exhausted unit without telling the family.
+- Weakest where a stopped unit is read as broken rather than finished.
+- Weakest where the night count is not logged and charge is lost.
+
+Night count per unit, charge consumed per night, and restoration behaviour are NOT MEASURED. Medical Division holds
+the written query on whether three quiet nights was ever a promise at all.
 
 ---
 
@@ -168,6 +222,51 @@ Standing rules:
 If a family reports that the unit has stopped working, treat it as exhausted
 rather than broken until proven
 otherwise, and do not attempt repair.
+
+### Numbered Operating Sequence
+
+The sequence is built around an endpoint. Every other product in the range is assessed while it works; this one
+has to be managed through the moment it stops, which is when the child is most likely to be left
+without either the device or the care.
+
+1. Confirm the unit is in service and record the starting night count.
+2. Log every night the unit is in service.
+3. Keep the room singing on any night the unit is active.
+4. Do not wind, open, or test the unit.
+5. Do not attempt repair if a family reports it has stopped.
+6. Treat a stopped unit as exhausted until proven otherwise.
+7. Notify Medical Division and tell the family plainly it has finished.
+8. Begin follow-up care, because the risk outlasts the charge.
+
+Step 8 is the reason the record exists in this form. An exhausted unit looks identical to a broken one
+and to a finished treatment, and only the night log distinguishes them.
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per night | increment the unit's night count |
+| Per stop | notify Medical, inform family, open follow-up |
+| Monthly | reconcile night logs against units in service |
+| Quarterly | re-inspect held non-functional parts |
+| Annually | review the service-life query with Medical |
+
+Servicing is bookkeeping. The only quantity A.C.T can actually track is the number of nights a unit has been in
+service, and that number is the entire basis on which an exhausted unit can be distinguished from a failed one.
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Unit stopped | charge exhausted | Medical, follow-up care |
+| Key wound in field | possible charge spent | log, do not rewind |
+| No mechanism in housing | known construction finding | record, do not escalate |
+| Foreign-language lullaby | expected, functional | log, keep room singing |
+| Unit opened | policy breach | withdraw, Engineering |
 
 ---
 
@@ -262,19 +361,19 @@ a device whose only important property is how much of its life is left.
   How many nights does a unit last, and is the count fixed per
   unit
   or per child?
-— What is consumed as the unit exhausts?
-— Is the winding key functional, and does winding it spend charge?
+- What is consumed as the unit exhausts?
+- Is the winding key functional, and does winding it spend charge?
   What produces the tune, given that no mechanism has been found in any
   housing?
-— Does the language of the lullaby matter to the effect?
+- Does the language of the lullaby matter to the effect?
   Can an exhausted unit be restored by the manufacturer, and does the warranty
   cover
   it?
   Does the interruption end the loop permanently or only for the duration of
   the
   charge?
-— Does a music box line lot label exist?
-— What does the manufacturer expect a family to do when the box stops?
+- Does a music box line lot label exist?
+- What does the manufacturer expect a family to do when the box stops?
 
 ---
 

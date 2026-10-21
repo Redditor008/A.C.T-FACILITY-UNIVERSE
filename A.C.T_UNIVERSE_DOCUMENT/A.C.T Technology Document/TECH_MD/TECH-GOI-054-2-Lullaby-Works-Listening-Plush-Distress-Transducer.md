@@ -125,7 +125,7 @@ Known external features:
   stitched;
   a **battery plate** in some variants, behind which a tag may be hidden
   instead;
-— no visible speaker grille, no switch, no charging contact, and no manufacturer label;
+- no visible speaker grille, no switch, no charging contact, and no manufacturer label;
   a **mouth or jaw region** capable of closing on a hand with enough
   force
   to injure an adult.
@@ -152,6 +152,60 @@ on a person rather than on a room. A lamp reports.
 A blanket damps. The plush closes its jaw on whatever is nearest, and the
 manufacturer's own warranty fragment shows
 it answering for the result afterwards.
+
+---
+
+## TECHNICAL SPECIFICATION
+
+Values are restated from witness accounts, the recovered warranty fragment, and construction study of the force-opened
+shell and seam fragments. A.C.T holds no functioning unit, so no value below is derived from a test.
+
+| SPECIFICATION FIELD | RECORDED VALUE |
+|---|---|
+| Confirmed behaviours | vocal relay, bite response |
+| Sound character | child's voice, carries further |
+| Trigger subset | unconfirmed for this line |
+| Injury on record | one adult hand, bitten |
+| Manufacturer position | bite treated as a misfire |
+| Driver, coil, membrane | none located |
+| Warmth after separation | confirmed on samples |
+| Lot label recovered | none |
+| Opening a service unit | prohibited at all levels |
+| Units held by A.C.T | one force-opened shell |
+
+The absence of a lot label is the row that limits every other investigation. Without it A.C.T cannot state production
+volume, distribution route, or how many units are in civilian hands, and the recall lists recovered under
+TECH-GOI-054-5 cannot be matched to this line.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Audible Relay Behaviour
+
+- output is an adult-audible distress sound in a child's voice
+- reported as carrying further than a normal cry from the same room
+- no location, classification, or all-clear is supplied
+- every sound is the same sound, whatever the cause
+
+### Handling And Custody Controls
+
+- a unit in a child's possession stays there
+- no confiscation, squeezing, shaking, or testing of a service unit
+- no hand near the mouth region during handling or transport
+- no provocation of a relay by frightening or restraining a child
+
+### Handling Limits And Weaknesses
+
+- Do not open a service unit at any clearance level.
+- Do not place a hand near the mouth region.
+- Do not return a unit after a bite before Subject Care review.
+- Do not punish a child for a unit that has bitten.
+- Weakest where a caregiver hears the sound and cannot locate the child.
+- Weakest where the sound is assumed to mean an intruder.
+
+Relay range, trigger subset, and civilian unit counts are NOT MEASURED. The only repeatable physical measurement A.C.T
+holds is that separated material samples remain warm.
 
 ---
 
@@ -182,6 +236,53 @@ and submit for replacement review.
 External inspection proceeds seam, tag, plate, shell, weight, warmth. Warmth at rest is recorded,
 not investigated in
 the field.
+
+### Numbered Operating Sequence
+
+The sequence is written for a caregiver or responder who is already in the room, which is where the device
+is useful. It ends on referral rather than resolution because A.C.T cannot repair, test, or replace the unit and the
+manufacturer's own route is replacement after review.
+
+1. Leave the unit with the child holding it.
+2. If it sounds, check the child first, the room second, the unit last.
+3. Keep hands clear of the mouth region throughout.
+4. Do not squeeze, shake, or open the unit to identify the cause.
+5. Record the sound, the time, and what the child reported.
+6. If an adult has been bitten, remove the adult from the room.
+7. Wrap any injured caregiver statement in plain paper.
+8. Refer the unit and the incident to Subject Care before return.
+
+Steps 6 and 7 follow the recovered warranty fragment exactly. A.C.T adopted the manufacturer's procedure rather than
+writing its own, because the fragment is the only document that shows how the bite failure is meant to be
+handled.
+
+---
+
+## SERVICING AND CALIBRATION
+
+| INTERVAL | TASK |
+|---|---|
+| Per incident | log sound, time, child report |
+| Per bite | medical statement, Subject Care review |
+| Monthly | confirm service units remain with their children |
+| Quarterly | re-inspect the shell and seam fragments |
+| Annually | review the no-opening rule with Engineering |
+
+No calibration is possible and none is scheduled. Servicing is limited to custody confirmation and external
+inspection, because every diagnostic route A.C.T could construct requires damaging a unit that is still protecting a
+child.
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Unit sounds, no cause | distress relay active | check child first |
+| Adult bitten | jaw closure misfire | Subject Care, Medical |
+| Unit silent when expected | unverifiable, no test route | log as inconclusive |
+| Unit opened in field | policy breach | withdraw, Engineering |
+| Sample warm at rest | known range finding | record, do not investigate |
 
 ---
 
@@ -283,20 +384,20 @@ anything except an empty shell that no longer works.
   What produces the vocal relay, given that no driver, coil, membrane, or cell
   has
   been located?
-— Whose voice is used, and is it the child's own?
+- Whose voice is used, and is it the child's own?
   What distinguishes a legitimate relay from the bite misfire, and does the unit
   track
   who is holding it?
-— Why do separated material samples remain warm, and for how long?
+- Why do separated material samples remain warm, and for how long?
   What is inside the unit, given that the interior does not match the
   external
   volume?
-— Does a plush line lot label exist equivalent to SLEEP-SAFE-7?
-— Can a unit be reactivated after force-opening, or is the loss permanent?
+- Does a plush line lot label exist equivalent to SLEEP-SAFE-7?
+- Can a unit be reactivated after force-opening, or is the loss permanent?
   Does the manufacturer replace bitten units freely, and what does it do with
   returned
   ones?
-— How many units are in civilian homes?
+- How many units are in civilian homes?
 
 ---
 
