@@ -1,0 +1,279 @@
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - GREY HARBOR BODY AND SURVIVOR LEDGER AND SEALED AUDIO ARCHIVE SYSTEM
+
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-059-5 |
+| TECHNOLOGY NAME | Grey Harbor Body And Survivor Ledger And Sealed Audio Archive System |
+| SHORT NAME | GHBSL |
+| TECHNOLOGY FAMILY | ACQUIRED BY OBSERVATION / CIVIL RECORD TECHNOLOGY / CASUALTY CONTINUITY SYSTEM |
+| ORIGIN | GREY HARBOR CIVIL RESCUE DIRECTORATE (GOI-GV-P-059) / LEDGER DESK AND DISPATCH ARCHIVE |
+| PRIMARY CONTROLLER | Central Archive with Civil Covert review |
+| ATTACHED DIVISIONS | Central Archive, Civil Covert, Intelligence, Medical Care, Recovery, Containment |
+| OPERATIONAL STATUS | LEDGER PRACTICE OBSERVED / SEALED AUDIO NOT RELEASED TO A.C.T |
+| RISK STATUS | DATABASE ABSORPTION / CALL DISMISSED / MEMORY-CARE EXPOSURE |
+| CLEARANCE REQUIRED | Level 4 for ledger practice; Level 5 for any sealed audio request |
+
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted GOI-Acquired Record Technology Record |
+| DISTRIBUTION | Central Archive, Civil Covert, Intelligence, Medical Care, Recovery, Command |
+| AUTHORITY | Central Archive and Civil Covert review, restricted holding |
+
+#### Archive Note
+
+This record covers the body and survivor ledger and the sealed audio archive by which Grey Harbor Civil Rescue
+Directorate keeps casualty continuity where the public record cannot. The dossier names body and survivor ledgers kept
+outside public casualty databases, sealed audio archives from impossible calls, the Directorate's capacity to preserve
+emergency calls from places later listed as empty, and responder memory-care files. A.C.T holds no ledger volume and
+no sealed audio.
+
+The ledger's defining choice is where it is kept. By staying outside the public casualty database it can contradict a
+public-cover narrative, and the dossier records that Grey Harbor maintains records that may contradict A.C.T
+narratives. Filing the ledger into a public database would remove its only distinctive function, so A.C.T records the
+prohibition rather than treating the separation as an administrative preference.
+
+The sealed audio is the harder half. The recorded transcript has a unit reporting the same street with different
+water, nine people on a roof, and one voice under a boat saying he is still at home. The dispatcher
+ordered the roof pulled first. The audio remains sealed because the voice under the boat matched a civilian later
+found alive inside an apartment three blocks away. A.C.T records the transcript as evidence that a person existed and
+was heard, not as evidence about a location, and does not treat the mismatch as a reason to dismiss the
+call.
+
+Controlled label: **SURVIVOR LEDGER AND SEALED AUDIO RULE**.
+
+Core handling rule:
+
+```text
+THE LEDGER IS KEPT OUTSIDE THE PUBLIC CASUALTY DATABASE. DO NOT FILE IT INTO ONE.
+AN IMPOSSIBLE CALL IS EVIDENCE OF A PERSON, NOT OF A PLACE. PULL THE ROOF FIRST.
+```
+
+---
+
+## FUNCTION SUMMARY
+
+The ledger records bodies and survivors outside the public casualty system, so that a count can be kept that a
+public-cover narrative does not have to agree with. The sealed audio archive preserves emergency calls from places
+later listed as empty, so that a person heard once is still on record when the place they called from
+no longer appears anywhere.
+
+- keeps a casualty count independent of the public database;
+- preserves calls from locations later listed as empty;
+- records a person as heard even where the location cannot be verified;
+- supports family notification where the public cause cannot be named;
+- holds responder memory-care files alongside the operational record.
+
+A.C.T keeps its own casualty records inside Central Archive, tied to a public cover. The Grey Harbor ledger is
+deliberately untied, which is why it can contradict the cover and why A.C.T depends on it during an incident even
+while unable to file it.
+
+---
+
+## ORIGIN AND CUSTODY
+
+| FIELD | VALUE |
+|---|---|
+| Ledgers held by A.C.T | None |
+| Sealed audio held | None; not released |
+| Transcript held | One fragment, quoted in the dossier |
+| Call location status | Place later listed as empty |
+| Voice match | Civilian found alive three blocks away |
+| Memory-care files | Held by Directorate; not reviewed by A.C.T |
+
+The operative row is the voice-match row. The call was real, the speaker was alive, and the location was wrong.
+Those three facts are recorded together because treating any one of them as disqualifying would remove a person from
+the record who was in fact present.
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+| COMPONENT | DESCRIPTION |
+|---|---|
+| Body ledger | Kept outside public casualty databases |
+| Survivor ledger | Same separation; matched to tags and cards |
+| Dispatch archive | Protected; held in mobile command posts |
+| Sealed audio | Calls from places later listed as empty |
+| Memory-care file | Responder record; not reviewed by A.C.T |
+| Family notification | Uses the ledger where cause is restricted |
+
+The memory-care file is the component A.C.T has least visibility into, and the dossier asks directly how many such
+files contain unreported A.C.T operational failures. A.C.T records the question rather than assuming the answer, and
+does not request the files as a matter of routine.
+
+---
+
+## TECHNICAL SPECIFICATION
+
+| PARAMETER | RECORDED VALUE |
+|---|---|
+| Storage location | Outside public casualty databases |
+| Narrative relation | May contradict A.C.T public cover |
+| Call preservation | Confirmed for places listed as empty |
+| Location reliability | Not reliable; person reliability is |
+| Sealing basis | Match against a survivor found elsewhere |
+| Access route | Through the Directorate; not by A.C.T request |
+| Memory-care files | Held by Directorate; count NOT MEASURED |
+| Filing into A.C.T archive | Prohibited |
+| A.C.T equivalent | Central Archive casualty record, cover-tied |
+| Ledgers in service | Unknown |
+
+The governing row is the storage-location row. The ledger's ability to contradict a public narrative exists only
+because it is stored outside the systems that produce that narrative. Filing it into an A.C.T or public database would
+not preserve the record; it would end the function the record performs.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Ledger Reading Controls
+
+- read the ledger as a separate record; do not merge it into an A.C.T file;
+- record a call as evidence of a person, not of a place;
+- record the location as reported, and separately as verified or not;
+- record any match between a voice and a survivor found elsewhere;
+- do not request sealed audio as a matter of routine.
+
+### Ledger Readouts
+
+- body and survivor counts, as the ledger states them;
+- call log, with location reported and location verified kept apart;
+- any place listed as empty that produced a call;
+- voice-to-survivor matches, with the distance and the interval;
+- family notification entries, with the cause stated or restricted.
+
+### Handling Limits And Weaknesses
+
+- no filing of ledger content into a public casualty database;
+- no dismissal of a call because its location cannot be verified;
+- no request for sealed audio without a stated operational need;
+- no routine request for responder memory-care files;
+- no correction of a ledger entry to match an A.C.T narrative.
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Applies when A.C.T works from a Grey Harbor ledger or transcript during a joint operation.
+
+```text
+1. Record the ledger counts as stated, without merging them into an A.C.T file.
+2. For each call, record the speaker as a person and the location separately.
+3. Mark the location reported and the location verified as distinct fields.
+4. Record any place listed as empty that produced a call.
+5. Record any voice matched to a survivor found elsewhere, with distance.
+6. Prioritise extraction of confirmed living persons over location checks.
+7. Request sealed audio only on a stated operational need, through Civil Covert.
+8. Close the entry with counts, calls, and matches listed separately.
+```
+
+---
+
+## SERVICING AND CALIBRATION
+
+| TASK | INTERVAL AND CONDITION |
+|---|---|
+| Ledger separation check | After every joint operation |
+| Call location audit | On every call, reported against verified |
+| Voice match register | Annual, against survivor records |
+| Empty-place register | Annual, listing places that produced calls |
+| Sealed audio request log | On every request, granted or refused |
+| Memory-care query log | On any query, recorded without request |
+
+The empty-place register is the row that keeps the archive honest about location. Each year it lists the places
+recorded as empty that nonetheless produced a call. Repeating that list is what stops a later file from concluding
+that those places were quiet.
+
+---
+
+## FAULT ISOLATION
+
+| OBSERVED FAULT | ASSESSED CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Call from empty place | Location unreliable, person real | Record both; do not dismiss |
+| Voice matches survivor | Sealed audio condition | Log the match; keep sealed |
+| Ledger filed to database | A.C.T handling breach | Withdraw the entry; report |
+| Ledger corrected to cover | A.C.T handling breach | Restore entry; report |
+| Call dismissed on location | Assessment error | Reinstate; re-check persons |
+| Memory-care file requested | Routine request breach | Withdraw; state the need |
+
+The first row is the fault the recorded transcript exists to prevent. The dispatcher's answer to an unresolvable
+location was to pull the roof first, which is the ordering this record adopts: confirmed living persons before
+location verification.
+
+---
+
+## KNOWN LIMITS
+
+- A.C.T holds no ledger volume and no sealed audio.
+- The number of responder memory-care files is not measured.
+- Why a call originates from a place listed as empty is unconfirmed.
+- A.C.T cannot verify a location it cannot reach.
+- Sealed audio is not released on request without stated need.
+- The number of ledgers in Directorate service is unknown.
+
+---
+
+## FAILURE HISTORY
+
+### VOICE UNDER THE BOAT — SEALED, MATCHED
+
+A responder reported one voice under a boat saying he was still at home. The audio remains sealed because the
+voice matched a civilian later found alive inside an apartment three blocks away. A.C.T files the call as evidence of
+a person and records the location mismatch without treating it as grounds for dismissal.
+
+### SAME STREET, DIFFERENT WATER — UNRESOLVED
+
+The transcript records a unit reporting the same street with different water, and a dispatcher who could not resolve
+it. A.C.T has no explanation and no test route, and adopts the dispatcher's ordering as procedure: pull the roof
+first.
+
+### MEMORY-CARE FILES — UNEXAMINED
+
+The dossier asks how many responder memory-care files contain unreported A.C.T operational failures. A.C.T has not
+examined the files and does not request them routinely. The question is recorded as open rather than answered by
+assumption in either direction.
+
+---
+
+## DIVISION USE
+
+- Central Archive: keeps ledger counts separate from A.C.T casualty files.
+- Civil Covert: routes sealed audio requests and holds the request log.
+- Intelligence: maintains the voice match and empty-place registers.
+- Medical Care: matches survivors to ledger entries at hospital transfer.
+- Recovery: prioritises confirmed living persons over location checks.
+- Containment: treats an unresolved call as an open person question.
+
+---
+
+## CROSS-REFERENCES
+
+- GOI-GV-P-059 — Grey Harbor Civil Rescue Directorate, Group of Interest Registry.
+- TECH-GOI-059-3 — Grey Harbor Siren Tower Coded Evacuation Tone System, Technology Record.
+- TECH-GOI-059-4 — Grey Harbor Child Extraction Bag And Paper Identity Card System, Technology Record.
+- GOI-GV-P-001 — Government Anti Anomaly GAA, Group of Interest Registry.
+- WITNESS STATEMENT AND TESTIMONY FORM, Operational Form.
+- Restricted disaster, maritime, and hospital case chains held under Central Archive routing.
+
+---
+
+## OPEN QUESTIONS
+
+- How many responder memory-care files contain unreported A.C.T failures?
+- Why does a call originate from a place later listed as empty?
+- Has Grey Harbor ever hidden a survivor from A.C.T for safety reasons?
+- Who authorises Grey Harbor overrides during an A.C.T incident?
+- Can a sealed audio recording ever be released, and on what condition?
+
+---
+
+## FILE METADATA
+
+- **Created:** 1983-10-11
+- **Author Desk:** Civil Covert review / Recovery Division / Central Archive
+- **Review Status:** Active restricted GOI-acquired record; sealed audio requests held at Level 5
+- **Next Review:** After any joint operation, any voice match, or any sealed audio request

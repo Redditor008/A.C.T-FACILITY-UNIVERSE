@@ -1,0 +1,273 @@
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - GREY HARBOR SIREN TOWER CODED EVACUATION TONE SYSTEM
+
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-059-3 |
+| TECHNOLOGY NAME | Grey Harbor Siren Tower Coded Evacuation Tone System |
+| SHORT NAME | GHSTC |
+| TECHNOLOGY FAMILY | ACQUIRED BY OBSERVATION / CIVIL ALERT TECHNOLOGY / CODED TONE TRANSMISSION SYSTEM |
+| ORIGIN | GREY HARBOR CIVIL RESCUE DIRECTORATE (GOI-GV-P-059) / SIREN TOWER NETWORK AND DISPATCH |
+| PRIMARY CONTROLLER | Civil Covert review with Intelligence Division |
+| ATTACHED DIVISIONS | Civil Covert, Intelligence, Recovery, Medical Care, Containment, Central Archive |
+| OPERATIONAL STATUS | TONES HEARD IN JOINT OPERATIONS / NO TOWER CONTROLLED BY A.C.T |
+| RISK STATUS | MEMORY RETENTION / MANIFEST REMOVAL / TONE MISUSE AS COVER |
+| CLEARANCE REQUIRED | Level 4 for tone analysis; Level 5 for any tone reproduction |
+
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted GOI-Acquired Alert Technology Record |
+| DISTRIBUTION | Civil Covert, Intelligence, Recovery, Medical Care, Containment, Command |
+| AUTHORITY | Civil Covert review and Intelligence Division, Central Archive custody |
+
+#### Archive Note
+
+This record covers the coded siren system by which Grey Harbor Civil Rescue Directorate orders evacuation under public
+disaster cover. The dossier names siren towers able to transmit coded evacuation tones and asks why some siren tones
+reduce panic while increasing witness memory retention. A.C.T controls no tower and holds no tone schedule.
+
+The recorded operational fact is that the second siren coincided with three children's names being removed from the
+bus list. The children were physically present and the removal was wrong, but the association between the tone and the
+manifest change is recorded because it is the only timed relationship A.C.T has between a tone and a document effect.
+A.C.T has not established causation and does not assert one.
+
+The second property is the reason this record restricts tone use. A tone that reduces panic while increasing memory
+retention produces witnesses who are calmer and remember more, which is the opposite of what a public cover narrative
+usually wants. A.C.T therefore prohibits using a coded tone as a cover sound or as a means of calming a
+crowd, because the memory effect travels with the calming effect and cannot be selected separately.
+
+Controlled label: **CODED SIREN TONE RULE**.
+
+Core handling rule:
+
+```text
+A CODED TONE IS AN EVACUATION ORDER, NOT AN ANNOUNCEMENT. LOG WHO HEARD WHICH TONE.
+SOME TONES REDUCE PANIC AND INCREASE MEMORY RETENTION. DO NOT USE ONE AS A COVER SOUND.
+```
+
+---
+
+## FUNCTION SUMMARY
+
+A coded tone carries an evacuation instruction to responders and to the public without stating a cause. Different
+tones carry different orders, which allows a district to be moved in stages while the public hears only an ordinary
+disaster alert.
+
+- orders staged evacuation without disclosing a restricted cause;
+- reaches a district where ordinary communication is unavailable;
+- reduces panic among the population that hears it;
+- increases witness memory retention, by an unconfirmed mechanism;
+- coordinates boats and buses through temporarily misdirected routes.
+
+A.C.T issues alerts through public cover channels, which state a cause and are worded to be forgotten. A coded tone
+states nothing and is remembered. Those two properties make it useful for rescue and hazardous for narrative control
+at the same time.
+
+---
+
+## ORIGIN AND CUSTODY
+
+| FIELD | VALUE |
+|---|---|
+| Towers controlled by A.C.T | None |
+| Tone schedule held | None |
+| Tones heard | During joint operations |
+| Recorded association | Second siren and bus-list removal |
+| Memory effect | Assessed; mechanism NOT MEASURED |
+| Reproduction policy | Prohibited below Level 5 |
+
+The operative row is the recorded-association row. It is a timed coincidence, not a demonstrated cause, and A.C.T
+files it that way. The value of recording it is that a future manifest discrepancy can be checked against the
+tone log rather than being treated as a clerical error.
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+| COMPONENT | DESCRIPTION |
+|---|---|
+| Siren tower | Fixed installation; network extent unknown |
+| Coded tone | Carries a specific evacuation order |
+| Tone schedule | Held by Directorate; not available to A.C.T |
+| Dispatch link | Mobile command post with protected archives |
+| Public reception | Heard as an ordinary disaster alert |
+| Responder reception | Heard as a specific order |
+
+The split reception is the system's design. The same sound functions as an alert to the public and as an
+instruction to responders, which is what allows a staged evacuation to proceed without an explanation that cannot be
+given.
+
+---
+
+## TECHNICAL SPECIFICATION
+
+| PARAMETER | RECORDED VALUE |
+|---|---|
+| Transmission mode | Coded tone from fixed tower |
+| Public meaning | Ordinary disaster alert |
+| Responder meaning | Specific staged evacuation order |
+| Panic effect | Reduced, per Directorate assessment |
+| Memory effect | Increased retention; mechanism NOT MEASURED |
+| Document association | Second siren and bus-list removal |
+| Causation | Not established |
+| Coverage | NOT MEASURED |
+| A.C.T equivalent | Public cover alert, worded to be forgotten |
+| Towers in service | Unknown |
+
+The governing row is the memory-effect row. It is the property that determines how A.C.T may use the system, and
+it cannot be separated from the calming effect. A tone chosen to steady a crowd also produces better witnesses, which
+is why the core rule forbids using one as a cover sound.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Tone Observation Controls
+
+- log every tone heard, with time, location, and who heard it;
+- record the public interpretation separately from the responder order;
+- record any document change that coincides with a tone;
+- do not reproduce a tone, at any volume, below Level 5;
+- do not request a tone to calm a crowd or to cover an operation.
+
+### Tone Readouts
+
+- tone log, in sequence, with hearing population described;
+- order carried, as stated by the Directorate;
+- document changes coinciding with the tone, by name and time;
+- witness retention observations, recorded as observed;
+- route coordination effect on boats and buses.
+
+### Handling Limits And Weaknesses
+
+- no use of a coded tone as a cover sound;
+- no use of a coded tone to calm a crowd;
+- no reproduction, recording, or synthesis of a tone below Level 5;
+- no assertion of causation between a tone and a document change;
+- no reliance on a tone log held only by the Directorate.
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Applies when A.C.T operates in a district under a Grey Harbor coded tone.
+
+```text
+1. Start the tone log at the first tone heard; record time and location.
+2. Record who heard the tone, separating public from responders.
+3. Obtain the order the tone carried, from the Directorate, in writing.
+4. Record any document or manifest change that coincides with the tone.
+5. Record witness retention observations as observed, without assessing cause.
+6. Do not request a tone for calming, cover, or crowd control.
+7. Cross-check the tone log against shelter counts and transport lists.
+8. Close the log at stand-down, noting every tone and every coincidence.
+```
+
+---
+
+## SERVICING AND CALIBRATION
+
+| TASK | INTERVAL AND CONDITION |
+|---|---|
+| Tone log audit | After every operation with a tone heard |
+| Coincidence register | Annual, against manifest changes |
+| Retention review | After any witness statement taken |
+| Reproduction briefing | Before any joint deployment |
+| Cover-narrative check | Before any public explanation is issued |
+| Dispatch archive request | After any disputed tone sequence |
+
+The coincidence register is the row that keeps a timed association from hardening into a cause. Each year the register
+is re-read and the entry still reads as an association. That repetition is what stops a later file from stating
+that a siren removed names from a list.
+
+---
+
+## FAULT ISOLATION
+
+| OBSERVED FAULT | ASSESSED CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Tone heard, order unknown | Schedule not held by A.C.T | Request order in writing |
+| Manifest changed at tone | Association, not proven cause | Log coincidence; keep entries |
+| Witnesses recall too much | Memory retention effect | Record; adjust cover narrative |
+| Tone used to calm crowd | A.C.T handling breach | Report; review witness list |
+| Tone reproduced | A.C.T handling breach | Destroy recording; report |
+| Tone log incomplete | Late log start | Reconstruct from dispatch |
+
+The third row is the operational consequence A.C.T must plan for rather than prevent. A population that heard the tone
+will remember more than a public cover narrative expects, so the narrative is adjusted to the witnesses rather than
+the witnesses being adjusted to the narrative.
+
+---
+
+## KNOWN LIMITS
+
+- A.C.T controls no tower and holds no tone schedule.
+- The mechanism of the memory-retention effect is unconfirmed.
+- Whether the tone caused the bus-list removal is not established.
+- Tone coverage and network extent have not been measured.
+- A.C.T cannot verify a tone sequence it did not log itself.
+- The number of towers in service is unknown.
+
+---
+
+## FAILURE HISTORY
+
+### BUS-LIST REMOVAL AT SECOND SIREN — RECORDED ASSOCIATION
+
+Three children's names were removed from the bus list when the second siren sounded. The children were physically
+present. A.C.T records the timing and explicitly does not record a cause, because none has been established and
+asserting one would put a mechanism into the archive that no observation supports.
+
+### MEMORY RETENTION — STANDING CONSTRAINT
+
+Some tones reduce panic while increasing witness memory retention. A.C.T treats this as a constraint on its own public
+narrative rather than as a Directorate problem, and prohibits requesting a tone for calming or cover purposes.
+
+### TONE AS COVER — PROHIBITION OF RECORD
+
+Using a coded tone as a cover sound would combine an unmeasured memory effect with a narrative A.C.T controls. The
+prohibition stands because the two effects cannot be separated, and because the resulting witnesses would contradict
+the cover they were calmed by.
+
+---
+
+## DIVISION USE
+
+- Civil Covert: adjusts public narrative to the witnesses a tone produces.
+- Intelligence: keeps the tone log and the coincidence register.
+- Recovery: coordinates boats and buses under tone-ordered routes.
+- Medical Care: records retention effects in witness statements.
+- Containment: treats a tone log as part of the incident timeline.
+- Central Archive: holds tone logs and dispatch archive requests.
+
+---
+
+## CROSS-REFERENCES
+
+- GOI-GV-P-059 — Grey Harbor Civil Rescue Directorate, Group of Interest Registry.
+- TECH-GOI-059-2 — Grey Harbor Shelter Count And Restricted Triage Architecture, Technology Record.
+- TECH-GOI-059-5 — Grey Harbor Body And Survivor Ledger And Sealed Audio Archive System, Technology Record.
+- Normalcy Management and Public Narrative Doctrine, Archive Record.
+- WITNESS STATEMENT AND TESTIMONY FORM, Operational Form.
+- Restricted evacuation and maritime case chains held under Central Archive routing.
+
+---
+
+## OPEN QUESTIONS
+
+- Why do some siren tones reduce panic while increasing witness memory retention?
+- Did the second siren cause the bus-list removal, or coincide with it?
+- How many siren towers are in the Directorate network?
+- Can a tone be heard by a population that retains nothing from it?
+- Who authorises a tone during an A.C.T incident?
+
+---
+
+## FILE METADATA
+
+- **Created:** 1974-02-18
+- **Author Desk:** Civil Covert review / Recovery Division / Central Archive
+- **Review Status:** Active restricted GOI-acquired alert record; tone reproduction held at Level 5
+- **Next Review:** After any tone heard, any coincidence logged, or any witness retention finding

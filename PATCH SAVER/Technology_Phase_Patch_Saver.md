@@ -5484,3 +5484,68 @@ exact, 14 H2, 8 H3 and 1 H4 matching the 055-1 reference, 8 numbered steps, tabl
 **Next action.** Sets 059 to 070 and 072 to 074 still have no technology set (15 dossiers); 209 two-space
 orphan lines remain across sets 054, 056 and 071; 206 em-dash bullets remain in technology records;
 `docs/index.html` is still 0 bytes.
+## Prompt Log — 2026-10-21 18:05 UTC
+
+### Batch 38 - new technology set 059, Grey Harbor Civil Rescue Directorate
+
+Branch resolved at runtime with `git rev-parse --abbrev-ref HEAD`; no branch name is hardcoded in the
+saver or the tooling.
+
+**Action taken.** Built a complete five-record technology set for `GOI-GV-P-059`, Grey Harbor Civil Rescue
+Directorate, in both formats, reusing the shared builder. Each record carries the full house shape: 14
+level-two chapters in house order, 8 level-three sections and one level-four archive note matching the
+055-1 reference, a 10-row registry table, a 3-row archive table, a controlled label, a two-line core
+handling rule, 7 tables rendered as 7 boxes at exactly 118 characters, an eight-step numbered operating
+sequence, and a dated metadata block.
+
+| DESIGNATION | RECORD | SHORT | WORDS | CREATED |
+| --- | --- | --- | --- | --- |
+| `TECH-GOI-059-1` | Grey Harbor Grey-Tag Survivor Status Marking Kit | GHGTK | 2046 | 1968-04-22 |
+| `TECH-GOI-059-2` | Grey Harbor Shelter Count And Restricted Triage Architecture | GHSCR | 1973 | 1971-08-09 |
+| `TECH-GOI-059-3` | Grey Harbor Siren Tower Coded Evacuation Tone System | GHSTC | 1981 | 1974-02-18 |
+| `TECH-GOI-059-4` | Grey Harbor Child Extraction Bag And Paper Identity Card System | GHCEB | 2033 | 1979-06-05 |
+| `TECH-GOI-059-5` | Grey Harbor Body And Survivor Ledger And Sealed Audio Archive System | GHBSL | 2095 | 1983-10-11 |
+
+Set totals: 5 records, 10 files, 10128 words, 35 tables, 35 boxes, 40 operating steps.
+
+**Source discipline.** Every technical claim comes from the dossier's named assets, instructions, and the
+recorded evacuation sheet: grey-tag kits for survivor status marking, the order not to merge families
+until faces are seen twice, three children who were not duplicate entries after their names were removed
+from the bus list at the second siren, shelter counts reading 309 then 312 breathing, the instruction to
+keep feeding everyone until the number settles, grey lighting correlated with reduced corridor route
+confusion while white light shows the wrong pier, siren towers transmitting coded evacuation tones, the
+open question about tones that reduce panic while increasing witness memory retention, child extraction
+bags with blankets, masks, paper identity cards and comfort objects, the instruction to write both names
+when a child gives two, body and survivor ledgers kept outside public casualty databases, sealed audio
+archives from impossible calls, and the Unit Seven transcript whose voice under the boat matched a
+civilian later found alive three blocks away. Unmeasured properties are written as `NOT MEASURED` and
+the dossier's own persistent questions carry into each record's open questions.
+
+**Three associations recorded without being turned into causes.** The second siren coincided with the
+bus-list removal; grey lighting coincided with reduced route confusion; the sealed voice matched a
+survivor found elsewhere. Each is filed as a timed association with causation explicitly not established,
+and each record carries a servicing task whose stated purpose is to stop the association hardening into a
+mechanism in a later file.
+
+**Builder defects.** Four table cells exceeded the 26-character first column and were shortened before any
+file was written: `Coincidence register review` at 27, `Retention observation review` at 28,
+`Reproduction policy briefing` at 28, `Call dismissed for location` at 27, and `Kits in Directorate
+service` at 27. The last was caught by the build assertion after the pre-run scan had already cleared the
+other four, which means the scan and the assertion are checking different sets and the scan must not be
+trusted alone. One tail paragraph naming a shortened servicing row was updated with it.
+
+**Validation.** DOCUMENT_COUNT 937 to 947; `TECH_MD` 214 to 219 == `TECH_TXT` 219; multiH1 0;
+BELOW_200 0; EMPTY 0; bad-EOF 0; odd-fence 0; md-with-box 0; glued 0; date-violations 0 against the
+1598-2026 archive cycle; widest box line 118; `git diff --check` clean. Per record: house chapter order
+exact, 14 H2, 8 H3 and 1 H4 matching the 055-1 reference, 8 numbered steps, tables == boxes at 7,
+0 missing twin cells after wrapped columns are rejoined and header rows collected, 0 two-space lines,
+0 em-dash bullets, metadata dates 1968 to 1983 spanning the dossier's own 1967-1986 window.
+
+**Tooling note.** The per-set validator is now a standalone script taking the set number as an argument,
+so it is no longer re-authored inline each batch and cannot drift between sets.
+
+**Counters.** GOI dossiers with a technology set 16 of 30; `TECH-GOI` records 80; `TECH-ACT` 137 of 137.
+
+**Next action.** Sets 060 to 070 and 072 to 074 still have no technology set (14 dossiers); 209 two-space
+orphan lines remain across sets 054, 056 and 071; 206 em-dash bullets remain in technology records;
+`docs/index.html` is still 0 bytes.

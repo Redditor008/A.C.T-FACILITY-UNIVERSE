@@ -1,0 +1,276 @@
+# A.C.T FACILITY ARCHIVE FILE
+### TECHNOLOGY RECORD - GREY HARBOR SHELTER COUNT AND RESTRICTED TRIAGE ARCHITECTURE
+
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-059-2 |
+| TECHNOLOGY NAME | Grey Harbor Shelter Count And Restricted Triage Architecture |
+| SHORT NAME | GHSCR |
+| TECHNOLOGY FAMILY | ACQUIRED BY JOINT USE / CIVIL SHELTER TECHNOLOGY / COUNT PERSISTENCE SYSTEM |
+| ORIGIN | GREY HARBOR CIVIL RESCUE DIRECTORATE (GOI-GV-P-059) / SHELTER AND TRIAGE COMMAND |
+| PRIMARY CONTROLLER | Recovery Division with Medical Care review |
+| ATTACHED DIVISIONS | Recovery, Medical Care, Civil Covert, Containment, Intelligence, Central Archive |
+| OPERATIONAL STATUS | SHELTERS USED IN JOINT OPERATIONS / NONE OWNED BY A.C.T |
+| RISK STATUS | COUNT DRIFT / WHITE-LIGHT ROUTING / BACK-ROOM EXPOSURE |
+| CLEARANCE REQUIRED | Level 3 for shelter operation; Level 4 for restricted back rooms |
+
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Cooperative Shelter Technology Record |
+| DISTRIBUTION | Recovery, Medical Care, Civil Covert, Containment, Intelligence, Command |
+| AUTHORITY | Recovery Division and Medical Care review, Central Archive custody |
+
+#### Archive Note
+
+This record covers the shelter architecture and counting practice by which Grey Harbor Civil Rescue Directorate holds
+evacuees during anomaly-adjacent disasters. The dossier names civil shelters with restricted back rooms for abnormal
+triage, the Directorate's capacity to maintain shelter counts when evacuee numbers change between rooms, and a
+recorded evacuation sheet in which Shelter Count 01 read 309 breathing and Shelter Count 02 read 312 breathing. A.C.T
+has used these shelters and owns none of them.
+
+The counting rule is the technical core. Where a count drifts between rooms, ordinary practice would reconcile by
+recount and correction. The Directorate's instruction is to keep feeding everyone until the number settles, which
+treats the discrepancy as a condition to be waited out rather than as an error to be removed. A.C.T records
+this as a deliberate procedure, not as sloppiness, because reconciling early would have required deciding which of two
+counts described the people actually present.
+
+The second recorded property is lighting. The sheet orders that the lights be kept grey because white light shows the
+wrong pier, and A.C.T review found that the grey lighting condition corresponded with reduced route confusion in the
+shelter corridor. No causal mechanism was confirmed. The finding is therefore recorded as a correlation observed once,
+and the grey-light instruction is followed on Directorate authority rather than on A.C.T's own evidence.
+
+Controlled label: **SHELTER COUNT AND GREY-LIGHT RULE**.
+
+Core handling rule:
+
+```text
+IF THE SHELTER COUNT CHANGES, KEEP FEEDING EVERYONE UNTIL THE NUMBER SETTLES.
+KEEP THE LIGHTS GREY. WHITE LIGHT SHOWS THE WRONG PIER.
+```
+
+---
+
+## FUNCTION SUMMARY
+
+The shelter holds evacuees, keeps a count that survives drift, provides a restricted back room where abnormal triage
+can occur out of public view, and keeps the corridor lighting at a level that does not misdirect people toward
+a pier that is not there.
+
+- maintains a count across rooms whose numbers change between readings;
+- provides restricted back rooms for triage with concealed anomalous cause;
+- keeps corridor routing stable under grey lighting;
+- keeps families unmerged until faces have been seen twice;
+- keeps hospitals operating during public-cover disasters.
+
+A.C.T operates containment holding, which assumes a stable population and a known cause. A Grey Harbor shelter assumes
+neither. That is why the count is maintained rather than corrected, and why the triage space is restricted rather than
+merely separate.
+
+---
+
+## ORIGIN AND CUSTODY
+
+| FIELD | VALUE |
+|---|---|
+| Shelters owned by A.C.T | None |
+| Shelters used | During joint operations |
+| Back rooms | Restricted; used for abnormal triage |
+| Recorded counts | 309 breathing, then 312 breathing |
+| Lighting condition | Grey; correlated with reduced confusion |
+| Causal mechanism | NOT MEASURED |
+
+The operative row is the recorded-counts row. The two readings differ by three, and the evacuation sheet states that
+three children were not duplicate entries. The drift and the children are recorded together because treating them as
+unrelated would have removed three present people from the count.
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+| COMPONENT | DESCRIPTION |
+|---|---|
+| Shelter hall | Civil shelter; holds evacuee population |
+| Restricted back room | Used for triage with concealed cause |
+| Count board | Records breathing count per room, per reading |
+| Corridor lighting | Kept grey; white light misdirects |
+| Feeding line | Continues while the count is unsettled |
+| Family grouping | Not merged until faces seen twice |
+
+The feeding line is the physical expression of the counting rule. Continuing to feed everyone while the number is
+unsettled is what prevents the reconciliation from being settled by withdrawing service from the entries in dispute.
+
+---
+
+## TECHNICAL SPECIFICATION
+
+| PARAMETER | RECORDED VALUE |
+|---|---|
+| Count behaviour | Drifts between rooms and readings |
+| Reconciliation rule | Wait for the number to settle |
+| Feeding rule | Continues for all while unsettled |
+| Recorded drift | 309 to 312 breathing |
+| Lighting | Grey; white light shows the wrong pier |
+| Observed effect | Reduced corridor route confusion |
+| Causal mechanism | NOT MEASURED |
+| Back room access | Restricted; abnormal triage only |
+| A.C.T equivalent | Containment holding, stable population assumed |
+| Shelters in service | Unknown |
+
+The governing row is the reconciliation rule. Waiting for the number to settle is what keeps three physically present
+children inside a count that a recount would have corrected downward. The rule costs time and supplies, and A.C.T
+records that cost as accepted rather than as an inefficiency.
+
+---
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Shelter Operation Controls
+
+- record every count reading with room, time, and reader;
+- do not correct a count by recount while the number is drifting;
+- keep the feeding line running for everyone while unsettled;
+- keep corridor lighting grey; do not switch to white for convenience;
+- restrict back-room access to abnormal triage only.
+
+### Shelter Readouts
+
+- count readings in sequence, unreconciled, as taken;
+- the interval between readings and the moment the number settled;
+- lighting state, recorded per corridor, per shift;
+- back-room entries, with cause recorded as concealed where applicable;
+- family groupings, with the faces-seen-twice condition noted.
+
+### Handling Limits And Weaknesses
+
+- no reconciliation of a drifting count by recount alone;
+- no withdrawal of feeding service from disputed entries;
+- no white lighting in a corridor used for evacuation routing;
+- no civilian access to a restricted back room;
+- no closure of a shelter while a count is unsettled.
+
+---
+
+## OPERATING PROCEDURE
+
+### Numbered Operating Sequence
+
+Applies when A.C.T personnel operate inside a Grey Harbor shelter during a joint operation.
+
+```text
+1. Confirm corridor lighting is grey before any evacuation routing begins.
+2. Record the first count reading with room, time, and reader named.
+3. Keep the feeding line running for everyone, whatever the count reads.
+4. Record each subsequent reading in sequence without correcting earlier ones.
+5. Do not merge family groupings; wait for faces to be seen twice.
+6. Restrict back-room access; record cause as concealed where applicable.
+7. Log the moment the number settles and the reading it settled at.
+8. Record the total drift and close the count only after reconciliation.
+```
+
+---
+
+## SERVICING AND CALIBRATION
+
+| TASK | INTERVAL AND CONDITION |
+|---|---|
+| Count reading audit | After every shelter operation |
+| Lighting state check | Per shift, per corridor |
+| Back-room access log | After every abnormal triage |
+| Feeding line verification | Continuous while a count is unsettled |
+| Family grouping review | Before any shelter closure |
+| Corridor routing test | After any lighting change |
+
+The lighting state check runs per shift because the grey-light instruction is easy to break innocently. A responder
+switching a corridor to white for visibility has changed the routing behaviour of the shelter, and the check exists to
+catch that before a pier is shown that is not there.
+
+---
+
+## FAULT ISOLATION
+
+| OBSERVED FAULT | ASSESSED CAUSE | REQUIRED ACTION |
+|---|---|---|
+| Count drifts upward | Condition, not error | Keep feeding; wait to settle |
+| Count drifts downward | Condition, not error | Do not remove entries |
+| White light switched on | Responder convenience | Revert to grey; log the change |
+| Corridor misrouting | Lighting condition | Check lighting before routing |
+| Back room entered | Access breach | Record; restrict again |
+| Shelter closed early | A.C.T handling breach | Reopen count; report |
+
+The second row is the fault that would have caused the recorded loss. A downward drift invites correction, and
+correction in these conditions means deciding that people present are not present. The required action is to leave the
+entries alone.
+
+---
+
+## KNOWN LIMITS
+
+- A.C.T owns no shelter and has not replicated the counting practice.
+- The cause of count drift between rooms is unconfirmed.
+- The grey-light effect was observed once, with no causal mechanism confirmed.
+- Back-room triage procedures have not been documented for A.C.T.
+- Whether the count always settles is unknown.
+- The number of shelters in Directorate service is unknown.
+
+---
+
+## FAILURE HISTORY
+
+### COUNT DRIFT — RESOLVED BY WAITING
+
+Shelter Count 01 read 309 breathing and Shelter Count 02 read 312 breathing. The Directorate kept feeding everyone
+until the number settled rather than reconciling by recount. A.C.T files the drift as a condition of the shelter and
+the waiting as the correct response.
+
+### WHITE-LIGHT MISROUTING — RECORDED CORRELATION
+
+The sheet records that white light shows the wrong pier, and A.C.T review found reduced route confusion under grey
+lighting. No causal mechanism was confirmed, so the finding is filed as a single observed correlation and the
+instruction is followed on Directorate authority.
+
+### REGISTRAR DISCIPLINE — PREVENTED
+
+Civil Covert recorded that the shelter registrar was not to be disciplined through GAA channels for refusing to merge
+duplicate entries, and requested a joint debrief after child-witness stabilization. The addendum exists because the
+correct action looked like an error from outside the shelter.
+
+---
+
+## DIVISION USE
+
+- Recovery: operates cordons and moves evacuees into shelter.
+- Medical Care: conducts abnormal triage in restricted back rooms.
+- Civil Covert: keeps the public cover consistent with shelter activity.
+- Containment: treats an unsettled count as an open condition.
+- Intelligence: tracks drift patterns across operations.
+- Central Archive: keeps count sequences and lighting logs.
+
+---
+
+## CROSS-REFERENCES
+
+- GOI-GV-P-059 — Grey Harbor Civil Rescue Directorate, Group of Interest Registry.
+- TECH-GOI-059-1 — Grey Harbor Grey-Tag Survivor Status Marking Kit, Technology Record.
+- TECH-GOI-059-3 — Grey Harbor Siren Tower Coded Evacuation Tone System, Technology Record.
+- Normalcy Management and Public Narrative Doctrine, Archive Record.
+- ACCESS AND EGRESS LEDGER FORM, Operational Form.
+- Restricted evacuation and shelter case chains held under Central Archive routing.
+
+---
+
+## OPEN QUESTIONS
+
+- What causes a shelter count to drift between rooms and readings?
+- Does the count always settle, and within what interval?
+- Why does white light show a pier that is not there?
+- What triage occurs in a restricted back room that cannot occur in the hall?
+- Do some shelter registrars hold training from another outside group?
+
+---
+
+## FILE METADATA
+
+- **Created:** 1971-08-09
+- **Author Desk:** Civil Covert review / Recovery Division / Central Archive
+- **Review Status:** Active restricted cooperative shelter record; back rooms held at Level 4
+- **Next Review:** After any shelter operation, any lighting change, or any unresolved drift
