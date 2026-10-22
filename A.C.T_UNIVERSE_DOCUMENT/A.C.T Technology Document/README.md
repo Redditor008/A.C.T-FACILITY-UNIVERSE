@@ -13,7 +13,7 @@ Any record stands alone. A good first read is `TECH_MD/TECH-ACT-007-Static-Pulse
 
 | Path | What it is |
 |---|---|
-| `TECH_MD/` | 231 technology records in Markdown |
+| `TECH_MD/` | 229 technology records in Markdown |
 | `TECH_TXT/` | Plain-text mirrors of the same records |
 | `TECH_MD/00_Technology_Record_Template.md` | The blank template every record follows |
 
@@ -38,6 +38,6 @@ records what it does not know rather than filling the gap.
 
 ## Markdown and plain-text twins
 
-`TECH_MD/` and `TECH_TXT/` carry the same 231 records. The Markdown editions use pipe
+`TECH_MD/` and `TECH_TXT/` carry the same 229 records. The Markdown editions use pipe
 tables; the plain-text editions draw the same tables as ASCII boxes. Neither is a summary
 of the other.
