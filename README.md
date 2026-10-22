@@ -118,7 +118,7 @@ Narrative,
 Outlines)
 │   ├── Junior Handbook/          ← ACT Orientation Handbook (junior/Level 1–2 edition)
 │   └── 'A History of Anomaly Containment Transformation' BOOK.md  ← in-universe history book
-├── RESEARCH FOLDER/              ← dated maintenance reviews, research records, and provenance notes
+├── _ARCHIVE-OPS/RESEARCH FOLDER/              ← dated maintenance reviews, research records, and provenance notes
 ├── LOGO/                         ← project logo assets (png / svg / seal)
 └── docs/                         ← future wiki/site scaffold (empty landing page)
 ```
@@ -155,7 +155,7 @@ The repository runs a strong **`.md` / `.txt` twin** discipline:
 
 ## Canon / Authority Guidance
 
-Per the **2026-09-07 Core Worldbuilding Consistency Review** (`RESEARCH FOLDER/`):
+Per the **2026-09-07 Core Worldbuilding Consistency Review** (`_ARCHIVE-OPS/RESEARCH FOLDER/`):
 
 - **Part series** — `A.C.T Universe Part One.md` is the **canonical** universe-compilation edition.
   `A.C.T Universe Part One.md` is its companion ("Introduction / Closing Note" framing) edition; the
@@ -204,7 +204,7 @@ Per the **2026-09-07 Core Worldbuilding Consistency Review** (`RESEARCH FOLDER/`
 | Main story | `…/ACT MAIN STORY/` | Outlines |
 | Handbook | `…/Junior Handbook/` | `ACT_Orientation_Handbook` (md+txt) |
 | BOOK | `…/'A History of Anomaly Containment Transformation' BOOK.md` | In-universe history, md-only |
-| Reviews | `RESEARCH FOLDER/` | Dated consistency/style reviews + working/provenance notes — read before large edits |
+| Reviews | `_ARCHIVE-OPS/RESEARCH FOLDER/` | Dated consistency/style reviews + working/provenance notes — read before large edits |
 
 ---
 

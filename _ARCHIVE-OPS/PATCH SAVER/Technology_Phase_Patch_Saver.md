@@ -121,7 +121,7 @@ Task And What To Do Next, You Do This Every New Prompt`.
 
 Action taken for this prompt:
 
-Created this Patch Saver file in separate `PATCH SAVER` folder because it is out-of-world
+Created this Patch Saver file in separate `_ARCHIVE-OPS/PATCH SAVER` folder because it is out-of-world
 task tracking, not an
 in-world A.C.T archive document. Next action is to continue the technology phase from `TECH-ACT-088`
 using fully read
@@ -2255,7 +2255,7 @@ Current count before new drafting in this prompt:
 
 Precaution-file standing instruction reaffirmed:
 
-  `PATCH SAVER/Technology_Phase_Patch_Saver.md` must be updated at the start of every new user prompt
+  `_ARCHIVE-OPS/PATCH SAVER/Technology_Phase_Patch_Saver.md` must be updated at the start of every new user prompt
   before
   continuing
   work.
@@ -3551,7 +3551,7 @@ breaks are structure in plain text. Every `.txt` was reverted to HEAD and only
 the surgical
 dash fix applied. Do not reflow `.txt`.
 
-**Also fixed.** `PATCH SAVER` prose contained a literal triple-backtick run and a literal
+**Also fixed.** `_ARCHIVE-OPS/PATCH SAVER` prose contained a literal triple-backtick run and a literal
 a bare Markdown link token, which tripped the odd-fence and broken-link checks; both reworded.
 Trailing
 whitespace stripped from 30 lines that the dash fix exposed to `git diff --check`.
@@ -5767,7 +5767,7 @@ formatting fix. `amnestics` 638 and `memetic` 707 are shared genre vocabulary. 1
 roughly 78,000 words under `Anomaly Legacy 01 .txt/STORY/` use third-party game characters; all were added
 at `a17dfd0` before this work began, so they were flagged rather than deleted. Three near-duplicate
 overview pairs sit in `A.C.T .md Document` / `A.C.T .txt Document`, the closest at 0.959 similarity.
-`PATCH SAVER` is 45,997 words in one file and `TECH_MD/README.md` is 10,021 words; both should be split.
+`_ARCHIVE-OPS/PATCH SAVER` is 45,997 words in one file and `TECH_MD/README.md` is 10,021 words; both should be split.
 
 **New defect surfaced while measuring.** 138 of the 229 `.txt` technology twins contain no `ARCHIVE STATUS`
 and no `DISTRIBUTION` line: their `.md` twins carry five tables and the `.txt` carries four boxes. This is
@@ -5818,7 +5818,7 @@ line 118. Lines over 118 in `.txt`: 6, all in `TECH_TXT/README.txt`, unchanged. 
 
 **Still open.** `O5` across 139 files is a canon decision. `amnestics` 638 and `memetic` 707 are shared
 genre vocabulary. 18 crossover files of roughly 78,000 words predate this work. Three near-duplicate
-overview pairs need an editorial call on which copy is canonical. `PATCH SAVER` at 45,997 words and
+overview pairs need an editorial call on which copy is canonical. `_ARCHIVE-OPS/PATCH SAVER` at 45,997 words and
 `TECH_MD/README.md` at 10,021 words both need splitting. `docs/index.html` is still 0 bytes.
 
 **Next action.** Take the owner's decision on the six open items above, then build set 073 Lantern
@@ -5845,15 +5845,15 @@ held only by the Part Three file. The `Part/` and `PART/` folders are removed, 1
 citations to them in `README.md`, the GOI development roadmap in both formats, and the personnel
 exposure doctrine `.txt` were rewritten to name the A.C.T Universe part instead of the file.
 
-**Compact ledger written.** `PATCH SAVER/Technology_Phase_Patch_Ledger_Compact.md`, 42 entries, one
+**Compact ledger written.** `_ARCHIVE-OPS/PATCH SAVER/Technology_Phase_Patch_Ledger_Compact.md`, 42 entries, one
 row each, 2,085 words. The full log is untouched and still holds all 43 entries.
 
 **Technology README split.** `TECH_MD/README.md` 10,021 words down to 5,818; `TECH_TXT/README.txt`
 10,056 down to 5,853. The `Current Status` text, 4,255 and 4,252 words, moved to
-`PATCH SAVER/Technology_Phase_Current_Status.md` and `.txt`. Each index now holds the record list,
+`_ARCHIVE-OPS/PATCH SAVER/Technology_Phase_Current_Status.md` and `.txt`. Each index now holds the record list,
 the numbering rule, and the active format rules, and nothing else.
 
-**GOI-068 ruled at two records.** `RESEARCH FOLDER/2026-10-22_GOI-068_Velvet_Provenance_House_
+**GOI-068 ruled at two records.** `_ARCHIVE-OPS/RESEARCH FOLDER/2026-10-22_GOI-068_Velvet_Provenance_House_
 Technology_Set_Decision.md` tests every candidate asset against the four purposes a technology record
 serves. Two pass, because they are the two A.C.T physically holds: six certificates, two forged
 receipts, and one authentic return clause for the receipt instrument, and one damaged buyer-book page

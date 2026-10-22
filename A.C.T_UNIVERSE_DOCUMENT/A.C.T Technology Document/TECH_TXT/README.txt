@@ -729,6 +729,6 @@ Current Status
 --------------
 
 Moved out of this index on 2026-10-21. The status report is maintained
-separately as PATCH SAVER/Technology_Phase_Current_Status.txt, which carries the full
+separately as _ARCHIVE-OPS/PATCH SAVER/Technology_Phase_Current_Status.txt, which carries the full
 current-status text that used to occupy the bottom of this file. This index now holds the
 record list, the numbering rule, and the active format rules, and nothing else.

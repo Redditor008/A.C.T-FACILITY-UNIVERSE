@@ -601,5 +601,5 @@ approve that specific asset or a
 small bounded set. The wider SVG-first, no-generation, external-art prohibition, and phased-review rules remain
 binding under:
 
-RESEARCH FOLDER/2026-09-06_A.C.T._Wiki_Scope_and_Visual_Asset_Policy.md
+_ARCHIVE-OPS/RESEARCH FOLDER/2026-09-06_A.C.T._Wiki_Scope_and_Visual_Asset_Policy.md
 (../../../RESEARCH%20FOLDER/2026-09-06_A.C.T._Wiki_Scope_and_Visual_Asset_Policy.md)

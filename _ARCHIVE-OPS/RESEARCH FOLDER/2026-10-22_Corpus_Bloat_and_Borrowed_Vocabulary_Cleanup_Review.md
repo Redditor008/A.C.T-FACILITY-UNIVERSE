@@ -63,7 +63,7 @@ These are crossover fiction using named characters and concepts from a commercia
 
 Residual third-party proper nouns across the corpus after that deletion: **70**, all inside the comparative research memos (`Project-Moon-and-SCP-Wiki_Research.md` 43, `Cross-Wiki_Worldbuilding_Gap_Research.md` 17, `Wiki_Style_Research` 3) and two `TECH-GOI-058-1` twins. Those memos are the record of what was compared and why, and the two technology twins use one term in a passing simile, so nothing further was removed.
 
-The same applies to `RESEARCH FOLDER/2026-09-06_Project-Moon-and-SCP-Wiki_Research.md` (11,096 words) and `RESEARCH FOLDER/2026-09-11_A.C.T._Cross-Wiki_Worldbuilding_Gap_Research.md` (9,404 words). Both are legitimate comparative research and both contain the bulk of the borrowed-class-name hits in section 3.2.
+The same applies to `_ARCHIVE-OPS/RESEARCH FOLDER/2026-09-06_Project-Moon-and-SCP-Wiki_Research.md` (11,096 words) and `_ARCHIVE-OPS/RESEARCH FOLDER/2026-09-11_A.C.T._Cross-Wiki_Worldbuilding_Gap_Research.md` (9,404 words). Both are legitimate comparative research and both contain the bulk of the borrowed-class-name hits in section 3.2.
 
 ### 3.4 Redundant overview documents
 
@@ -79,7 +79,7 @@ The same overview exists both standalone and inside a `Part/` series, and Part 1
 
 ### 3.5 Process scaffolding
 
-`PATCH SAVER/Technology_Phase_Patch_Saver.md` is **45,997 words in one file** with 40 log entries. It is the largest document in the repository and is not an in-world document at all — it is build scaffolding. It is useful, but at this size it belongs split into a live log and an archive rather than growing without bound.
+`_ARCHIVE-OPS/PATCH SAVER/Technology_Phase_Patch_Saver.md` is **45,997 words in one file** with 40 log entries. It is the largest document in the repository and is not an in-world document at all — it is build scaffolding. It is useful, but at this size it belongs split into a live log and an archive rather than growing without bound.
 
 `TECH_MD/README.md` is **10,021 words** across four sections, of which *Current Individual Technology Records* is 5,426 words and *Current Status* is 4,252. An index that runs to ten thousand words has become a second corpus.
 
@@ -140,7 +140,7 @@ Most-repeated sentence in the corpus after the pass, for comparison: 20 files. B
 - **`O5` across 139 files — RESOLVED as canon.** The owner confirmed `O5` stands for Overseer Five and is A.C.T's own governing authority. Nothing is rewritten. The reading is recorded in `ACT_Generation_Standard_2026_Update.md` under Canonical Term: O5 so it is not flagged again.
 - **`amnestics` 638 and `memetic` 707 — RESOLVED as canon.** The owner ruled both stay. Their house forms are now defined in `ACT_Generation_Standard_2026_Update.md` under Canonical Term: Amnestics and Canonical Term: Memetic, alongside the O5 ruling, so no future pass flags them.
 - **Redundant overview documents — RESOLVED.** Measuring the whole folder showed six archive records duplicating the six-part A.C.T Universe series at 0.863 to 0.975 line similarity, with Part One present a third time. Each archive record now carries a Series Position section, the Part folders are removed, and the five citations to them were rewritten.
-- **Patch Saver and TECH README — RESOLVED.** A compact ledger of all 43 entries was written to `PATCH SAVER/Technology_Phase_Patch_Ledger_Compact.md` (2,128 words) and the full log left intact. `TECH_MD/README.md` went from 10,021 to 5,818 words and `TECH_TXT/README.txt` from 10,056 to 5,853, with the Current Status text moved to `PATCH SAVER/Technology_Phase_Current_Status.md` and `.txt`.
+- **Patch Saver and TECH README — RESOLVED.** A compact ledger of all 43 entries was written to `_ARCHIVE-OPS/PATCH SAVER/Technology_Phase_Patch_Ledger_Compact.md` (2,128 words) and the full log left intact. `TECH_MD/README.md` went from 10,021 to 5,818 words and `TECH_TXT/README.txt` from 10,056 to 5,853, with the Current Status text moved to `_ARCHIVE-OPS/PATCH SAVER/Technology_Phase_Current_Status.md` and `.txt`.
 - **`docs/index.html` is 0 bytes.** Left alone at the owner's instruction; the document folder work is not finished yet.
 - **Section-level uniformity across the technology records.** Removing one repeated sentence does not undo the fact that 229 records share one 14-section skeleton in the same order. That is a house shape decision, not a defect, and changing it is an editorial call.
 - **The `^  \S` orphan-line metric reads 6629 across 453 files, and that number is not a defect count.** It matches ordinary indented prose. The true orphan count inside technology records is 209. The figure is recorded so it is not mistaken for a finding.

@@ -2,7 +2,7 @@
 
 - **Generated:** 2026-10-22
 - **Covers:** Patch Saver entries 1 through 43
-- **Full text:** `PATCH SAVER/Technology_Phase_Patch_Saver.md`
+- **Full text:** `_ARCHIVE-OPS/PATCH SAVER/Technology_Phase_Patch_Saver.md`
 
 One row per entry, numbered by order in the log. Read this for the sequence of what was done;
 read the full log for the reasoning, the verification numbers, and the disclosure of what failed.

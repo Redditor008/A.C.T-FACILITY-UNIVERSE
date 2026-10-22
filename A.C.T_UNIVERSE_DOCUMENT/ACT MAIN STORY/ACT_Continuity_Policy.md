@@ -211,7 +211,7 @@ recommendations.
 Primary location:
 
 ```text
-RESEARCH FOLDER/
+_ARCHIVE-OPS/RESEARCH FOLDER/
 ```
 
 Research files are not canon by default. They may recommend canon additions, document archive
