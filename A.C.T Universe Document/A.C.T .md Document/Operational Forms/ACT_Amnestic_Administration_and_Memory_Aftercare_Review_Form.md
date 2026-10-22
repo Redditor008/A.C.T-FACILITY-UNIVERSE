@@ -1,10 +1,10 @@
-# A.C.T FACILITY ARCHIVE FILE
+# A.C.T FACILITY ARCHIVE FILE — AMNESTIC REVIEW FOUNDATION
 ### AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM
 
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Working Form |
-| DISTRIBUTION | Medical Care Division / Civil Covert Division / Archiver Division / Site Command /<br>Subject Care Division |
+| DISTRIBUTION | Medical Care / Civil Covert / Archiver / Site Command / Subject Care Division |
 | AUTHORITY | Medical Care Division, Civil Covert Division, and Central Archive |
 
 #### Archive Note

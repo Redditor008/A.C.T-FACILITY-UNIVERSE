@@ -1,4 +1,4 @@
-A.C.T. Groups of Interest - Archive and Development Folder
+A.C.T FACILITY ARCHIVE FILE — RECOVERED GOI DOCUMENT RECORDS - HOLDING FOLDER
 ==========================================================
 
 Status: Three expanded source-anchored registry dossiers, three registry-integrated original dossiers, two

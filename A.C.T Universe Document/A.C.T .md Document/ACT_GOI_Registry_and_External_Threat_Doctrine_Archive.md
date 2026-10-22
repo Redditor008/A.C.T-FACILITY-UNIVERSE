@@ -1,4 +1,4 @@
-# A.C.T FACILITY ARCHIVE FILE
+# A.C.T FACILITY ARCHIVE FILE — GOI Registry, Rival Powers, and External Threat Doctrine
 ## Contents
 
 - [GOI Registry, Rival Powers, and External Threat Doctrine](#goi-registry-rival-powers-and-external-threat-doctrine)

@@ -1,4 +1,4 @@
-# A.C.T FACILITY ARCHIVE FILE
+# A.C.T FACILITY ARCHIVE FILE — Standard Anomaly File Format Reference
 ## Contents
 
 - [Standard Anomaly File Format Reference](#standard-anomaly-file-format-reference)

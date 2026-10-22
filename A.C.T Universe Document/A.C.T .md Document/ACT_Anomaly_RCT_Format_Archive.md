@@ -1,4 +1,4 @@
-# A.C.T FACILITY ARCHIVE FILE
+# A.C.T FACILITY ARCHIVE FILE — RCT Anomaly File Format Reference
 ## Contents
 
 - [RCT Anomaly File Format Reference](#rct-anomaly-file-format-reference)
