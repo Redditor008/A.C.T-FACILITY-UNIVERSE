@@ -5873,3 +5873,53 @@ stamp 0; `git diff --check` clean.
 
 **Next action.** Build `GOI-HY-W-073` Lantern Accord, then 074 Ninefold Ark, 069 Namewright Bazaar,
 070 Saint Morrow Passage. Sets 061 to 067 remain excluded.
+
+## Prompt Log — 2026-10-22 00:40 UTC
+
+### Batch 45 - two audit findings retracted as checker errors; 071-5 metadata restored
+
+Branch resolved at runtime with `git rev-parse --abbrev-ref HEAD`; no branch name is hardcoded.
+
+**Retraction one.** The 220 "over-118 box lines" in the GOI folder are not box lines. Every one is a
+`.md` pipe-table source row. Measured separately: the GOI folder has 0 `.txt` box lines over 118 and
+0 `.txt` prose lines over 118. The technology folder, which has passed the width gate for many
+batches, carries 196 of the same `.md` pipe cells. A Markdown pipe table renders with wrapped cells,
+so a long source row does not scroll. The 118 rule exists because monospaced `.txt` box lines do
+scroll, and against that rule the GOI folder is clean.
+
+**Why the attempted fix could never have worked.** The wrapper inserted `<br>` into long cells.
+Inserting `<br>` makes the source line longer, not shorter; it changes rendering, never the character
+count. The tool reported 220 wrapped and the recount returned 220, which was the wrapper reporting its
+own impossibility. Reverted in full, nothing committed.
+
+**Retraction two.** All four dossiers reported as missing a capability classification carry one, as a
+registry row: 027 HANDLER, 048 PRACTITIONER, 001 HANDLER, 014 ENGINEERING. The checker looked for
+prose forms and missed the row form. All 30 GOI dossiers are classified.
+
+**Correction.** The 144 records reported as off the house chapter order all have 14 chapters; none is
+missing a section. What differs is naming and the position of two sections: 90 use ORIGIN AND
+DEVELOPMENT for ORIGIN AND CUSTODY, 122 hold TECHNICAL SPECIFICATION and PHYSICAL OR SYSTEM
+DESCRIPTION in the opposite order, 16 use FUNCTION OUTLINE, 8 use ORIGIN AND DEPLOYMENT, and 4 use two
+legacy heading names. The reordering is mechanical; the renaming is not, because several of those
+sections cover development history rather than custody and a blind rename would mislabel them.
+
+**Fixed.** `TECH-GOI-071-5-Mercy-Lock-Shielded-Ambulance-Transfer-System` now carries FILE METADATA in
+both twins, in the set-071 seven-field form used by its four siblings, dated 17/04/1988 created and
+22/09/2013 updated. Only the template and the README remain without that section, and neither is a
+record.
+
+**A silent workspace reset occurred during the audit** and took the local checkout back to base
+`a17dfd0`. The remote was never affected. Recovered with `git fetch` plus `git reset --hard
+FETCH_HEAD`; all prior work verified present before continuing.
+
+**Verification.** odd-fence 0; bad-EOF 0; date violations 0; `TECH_MD`/`TECH_TXT` 231/231; records
+missing FILE METADATA 2, both non-records; `git diff --check` clean.
+
+**Rule adopted.** A checker that counts lines must know which format it is reading. `.md` pipe rows and
+`.txt` box rules both begin with a pipe and mean different things; conflating them produced two false
+findings and one impossible fix in a single pass. Width gates now separate the two by file suffix
+before counting.
+
+**Next action.** Reorder TECHNICAL SPECIFICATION and PHYSICAL OR SYSTEM DESCRIPTION in the 122 records
+where they are swapped, rename FUNCTION OUTLINE in 16 and the 4 legacy pairs, and read the 90 ORIGIN
+AND DEVELOPMENT records before deciding which headings actually say custody.

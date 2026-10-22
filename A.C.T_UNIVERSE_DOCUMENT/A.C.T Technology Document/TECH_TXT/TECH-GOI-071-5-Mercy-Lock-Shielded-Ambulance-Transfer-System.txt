@@ -347,3 +347,15 @@ Confidence is limited by withheld schematics, redacted routes, patient-specific 
 and the Institute's refusal to allow unsupervised reproduction. The system should be treated as
 real, useful,
 diplomatically sensitive, and dangerous when removed from Mercy Lock's care discipline.
+
+FILE METADATA
+-------------
+
+FILE CREATED:            17/04/1988
+FILE LAST UPDATED:       22/09/2013
+FILE AUTHOR:             Medical Division / Containment / Logistics / Legal Joint Desk
+REVIEWED BY:             Central Archive
+FILE STATUS:             ACTIVE / RESTRICTED
+DESIGNATION HISTORY: TECH-GOI-071-5 assigned for the Mercy Lock Institute shielded ambulance transfer
+platform under GOI-linked technology numbering
+RECORD CONDITION:        OPERATIONAL / PARTIAL SCHEMATIC ACCESS
