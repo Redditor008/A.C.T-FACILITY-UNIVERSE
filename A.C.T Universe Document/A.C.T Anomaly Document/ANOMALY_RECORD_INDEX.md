@@ -3,15 +3,23 @@
 Every file in this folder, grouped so a reader can pick a record deliberately rather than
 opening files at random. Titles are the record names; codes are the filing designations.
 
+Counts are measured from the designations written inside each record, not from the filenames:
+most filenames in this folder carry no designation at all.
+
 **176 files in total.**
 
 ## Code families
 
-| Prefix | Meaning | Records |
-|---|---|---|
-| `AFD` | Anomaly, filed | 129 |
-| `ANM` | Anomaly, modern | 4 |
-| `UFD` | Unfiled | 3 |
+| Prefix | Meaning | Designation form | Records |
+|---|---|---|---|
+| `AFD` | Anomaly, filed | `AFD-XX-000` | 153 |
+| `UFD` | Unfiled | `UFD-XX-000` | 2 |
+| `ANM` | Anomaly, modern | `ANM-XX-XX-0000` | 4 |
+| _none_ | Carries no designation | — | 15 |
+
+`ANM` records use a four-segment designation and were missed by an earlier count that looked
+only for three segments. The counts above are measured from the designations written inside
+each record; most filenames in this folder carry no designation at all.
 
 ## Type codes
 

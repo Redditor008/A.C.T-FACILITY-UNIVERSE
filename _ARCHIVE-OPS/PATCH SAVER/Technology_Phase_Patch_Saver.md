@@ -6133,10 +6133,17 @@ uses AFD in 153 files, UFD in 16, UA in 3, QU in 2, AB in 2. **Every family in u
 Zero undocumented families.** `BL` is documented and unused. `XX` is the anatomy placeholder in
 I-1, not a family.
 
-**A prior finding of mine is hereby retracted.** An earlier index recorded the families as
-"AFD 129, ANM 4, UFD 3". There is no ANM family. The doctrine does not define one, no record uses
-one, and a content search across the anomaly folder returns zero. The ANM figure was wrong and the
-AFD and UFD figures were counts of something other than files carrying the designation.
+**RETRACTION WITHDRAWN — the ANM figure was right and my retraction of it was wrong.** An earlier
+index recorded the families as "AFD 129, ANM 4, UFD 3". I retracted the ANM figure on the evidence
+that a content search returned zero. The search was the fault, not the figure: `ANM` records use a
+**four-segment** designation, `ANM-XX-XX-0000`, and the pattern used looked only for three segments
+`XXX-XX-000`. It therefore matched the inner `QU-AS-0003` of `ANM-QU-AS-0003` and reported `QU` as
+a family. Corrected measurement across all 174 files: **AFD 153, ANM 4, UFD 2, no designation 15.**
+Three distinct ANM designations exist across four files.
+
+The lesson is sharper than the one it replaced. A retraction is a finding like any other and needs
+the same proof. Retracting a true number on a bad instrument is worse than leaving it alone, because
+the reader then has two wrong statements instead of one.
 
 **Ruling recorded: the four sets measure as 4 / 5 / 4 / 4 = 17 records, not 20.** Set 074's "Nine
 Seats" is an open question rather than a fifth object, because the dossier says the phrase may
@@ -6145,3 +6152,20 @@ literal seats. Set 069's victim statements are testimony rather than equipment.
 
 **Reporting rule restated by the owner: always link the GitHub blob URL when asking a question.**
 The rule applies to option menus, not only to closing reports.
+
+## Prompt End Update — 2026-10-22, Anomaly Index Regenerated; Retraction Withdrawn
+
+The Code families table in `ANOMALY_RECORD_INDEX.md` is rebuilt from measurement and now records
+the designation form alongside each count, so a future reader can see why ANM was missed:
+
+    | `AFD` | Anomaly, filed    | `AFD-XX-000`      | 153 |
+    | `UFD` | Unfiled           | `UFD-XX-000`      |   2 |
+    | `ANM` | Anomaly, modern   | `ANM-XX-XX-0000`  |   4 |
+    | _none_ | Carries no designation | —            |  15 |
+
+174 files scanned. `UA`, `QU` and `AB` are type codes rather than families and belong to the Type
+codes table, where they already were; an intermediate edit briefly listed them as families and that
+edit is superseded by this one.
+
+**The four-set ruling stands at 4 / 5 / 4 / 4 = 17 records.** PARTS II, III and IV of the reference
+doctrine are still unaudited, and records 073-2, -3 and -4 are still unbuilt.
