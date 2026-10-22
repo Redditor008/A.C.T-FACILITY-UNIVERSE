@@ -1,4 +1,20 @@
 # A.C.T FACILITY ARCHIVE FILE
+## Contents
+
+- [GOI Registry, Rival Powers, and External Threat Doctrine](#goi-registry-rival-powers-and-external-threat-doctrine)
+- [Introduction](#introduction)
+- [4.1 — What Qualifies as a GOI](#41--what-qualifies-as-a-goi)
+- [4.2 — GOI Designation Rules](#42--goi-designation-rules)
+- [**GOI-XX-X-XXX**](#goi-xx-x-xxx)
+- [4.3 — GOI Classification Structure](#43--goi-classification-structure)
+- [4.4 — GOI Registry File Standard](#44--goi-registry-file-standard)
+- [4.4.1 Site Monitoring and Jurisdiction](#441-site-monitoring-and-jurisdiction)
+- [4.5 — A.C.T External Threat Doctrine](#45--act-external-threat-doctrine)
+- [4.6 — GOI and Anomaly Overlap](#46--goi-and-anomaly-overlap)
+- [4.7 — Sample GOI Entries](#47--sample-goi-entries)
+- [Closing Summary](#closing-summary)
+- [Series Position](#series-position)
+
 ## GOI Registry, Rival Powers, and External Threat Doctrine
 
 | FIELD | VALUE |

@@ -17,6 +17,10 @@ visible.
 
 ---
 
+## Contents
+
+- [TRANSFORMATION GOVERNANCE FOUNDATION](#transformation-governance-foundation)
+
 ## TRANSFORMATION GOVERNANCE FOUNDATION
 
 ### 4.1 Purpose

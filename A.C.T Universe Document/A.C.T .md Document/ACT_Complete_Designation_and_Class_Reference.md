@@ -57,6 +57,14 @@ value without expansion, the working interpretation is stated openly in the entr
 
 ---
 
+## Contents
+
+- [PART I — ANOMALY FILE DESIGNATIONS AND CLASSES](#part-i--anomaly-file-designations-and-classes)
+- [PART II — GOI DESIGNATION AND CLASSIFICATION STACK](#part-ii--goi-designation-and-classification-stack)
+- [PART III — SITE, SUB-SITE, AND FLOOR DESIGNATIONS](#part-iii--site-sub-site-and-floor-designations)
+- [PART IV — SUPPORTING RECORD AND LOG CATEGORIES](#part-iv--supporting-record-and-log-categories)
+- [CLOSING NOTE](#closing-note)
+
 ## PART I — ANOMALY FILE DESIGNATIONS AND CLASSES
 
 This Part explains the designation and classification system that appears on every modern anomaly

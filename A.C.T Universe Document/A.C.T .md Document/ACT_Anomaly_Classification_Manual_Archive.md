@@ -1,4 +1,25 @@
 # A.C.T FACILITY ARCHIVE FILE
+## Contents
+
+- [Anomaly Classification Manual and File Standard](#anomaly-classification-manual-and-file-standard)
+- [Introduction](#introduction)
+- [3.0 Historical Preface — The First Vault Record](#30-historical-preface--the-first-vault-record)
+- [3.1 Transition to Formal Anomaly Doctrine](#31-transition-to-formal-anomaly-doctrine)
+- [3.2 Official A.C.T File Categories](#32-official-act-file-categories)
+- [3.3 Designation Rules](#33-designation-rules)
+- [3.4 Fracture Index](#34-fracture-index)
+- [3.5 Containment Procedure Writing Standard](#35-containment-procedure-writing-standard)
+- [3.6 Observation and Handling Restrictions](#36-observation-and-handling-restrictions)
+- [3.7 Breach State Recording](#37-breach-state-recording)
+- [3.8 Transformation Authorization Protocol](#38-transformation-authorization-protocol)
+- [3.9 Anomaly Lifecycle State](#39-anomaly-lifecycle-state)
+- [3.10 Anomaly Hazard Tags](#310-anomaly-hazard-tags)
+- [3.11 Information Suppression and Redaction Format](#311-information-suppression-and-redaction-format)
+- [3.12 Supplementary Log Categories](#312-supplementary-log-categories)
+- [3.13 Sample Modern Anomaly Entry](#313-sample-modern-anomaly-entry)
+- [Closing Summary](#closing-summary)
+- [Series Position](#series-position)
+
 ## Anomaly Classification Manual and File Standard
 
 | FIELD | VALUE |

@@ -22,6 +22,11 @@ This registry follows the naming standards established under **ACT-SITE-XX-##-#*
 
 ---
 
+## Contents
+
+- [Section I — Major SITE Installations](#section-i--major-site-installations)
+- [Section II — Recognized SUB-SITE Installations](#section-ii--recognized-sub-site-installations)
+
 ## Section I — Major SITE Installations
 
 ### 1. ACT-SITE-01-US-W

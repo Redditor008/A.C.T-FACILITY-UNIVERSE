@@ -356,6 +356,11 @@ survived.
 
 ---
 
+## Contents
+
+- [**Closing Summary**](#closing-summary)
+- [Series Position](#series-position)
+
 ## **Closing Summary**
 Part Five establishes the true origin of the A.C.T Facility. Before the modern world
 knew of anomalies, before

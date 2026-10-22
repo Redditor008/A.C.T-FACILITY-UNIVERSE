@@ -294,6 +294,13 @@ DESIGNATION HISTORY:     [UFD-XX-### → AFD-XX-###]
 
 ---
 
+## Contents
+
+- [FILE SAVING CONVENTION](#file-saving-convention)
+- [FIELD TYPE CODE REFERENCE](#field-type-code-reference)
+- [DESIGNATION FORMAT](#designation-format)
+- [EXAMPLE TEST ANOMALY](#example-test-anomaly)
+
 ## FILE SAVING CONVENTION
 
 When an anomaly file is saved for distribution, archive transfer, or direct download, the

@@ -1,4 +1,21 @@
 # A.C.T FACILITY ARCHIVE FILE
+## Contents
+
+- [Divisions, Personnel Roles, and Operational Life](#divisions-personnel-roles-and-operational-life)
+- [Introduction](#introduction)
+- [6.1 — The Facility as a Living System](#61--the-facility-as-a-living-system)
+- [6.1.1 Site Network and Distributed Operation](#611-site-network-and-distributed-operation)
+- [6.2 — Division Function by Wing](#62--division-function-by-wing)
+- [6.3 — Personnel Roles in Daily Practice](#63--personnel-roles-in-daily-practice)
+- [6.4 — Recruitment, Initiation, and Internalization](#64--recruitment-initiation-and-internalization)
+- [6.5 — Daily Operational Life](#65--daily-operational-life)
+- [6.6 — E-Class and Disposable Exposure](#66--e-class-and-disposable-exposure)
+- [6.7 — Internal Discipline and Secrecy](#67--internal-discipline-and-secrecy)
+- [6.8 — Hazard Burden and Psychological Attrition](#68--hazard-burden-and-psychological-attrition)
+- [6.9 — Operational Culture](#69--operational-culture)
+- [6.10 — Closing Summary](#610--closing-summary)
+- [Series Position](#series-position)
+
 ## Divisions, Personnel Roles, and Operational Life
 
 | FIELD | VALUE |

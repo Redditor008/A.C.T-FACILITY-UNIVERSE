@@ -1,4 +1,14 @@
 # A.C.T FACILITY — ANOMALY FILE FORMAT
+## Contents
+
+- [Research / Containment / Transformation Focus](#research--containment--transformation-focus)
+- [FILE SAVING CONVENTION](#file-saving-convention)
+- [SITE INTEGRATION NOTE](#site-integration-note)
+- [BLOCK REFERENCE](#block-reference)
+- [DESIGNATION FORMAT](#designation-format)
+- [TYPE CODES](#type-codes)
+- [EXAMPLE TEST ANOMALY](#example-test-anomaly)
+
 ## Research / Containment / Transformation Focus
 
 ---

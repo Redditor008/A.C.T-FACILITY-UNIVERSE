@@ -16,6 +16,10 @@ survive.
 
 ---
 
+## Contents
+
+- [NORMALCY MANAGEMENT FOUNDATION](#normalcy-management-foundation)
+
 ## NORMALCY MANAGEMENT FOUNDATION
 
 ### 3.1 Purpose

@@ -1,4 +1,12 @@
 # A.C.T FACILITY ARCHIVE FILE
+## Contents
+
+- [Standard Anomaly File Format Reference](#standard-anomaly-file-format-reference)
+- [FILE SAVING CONVENTION](#file-saving-convention)
+- [FIELD TYPE CODE REFERENCE](#field-type-code-reference)
+- [DESIGNATION FORMAT](#designation-format)
+- [EXAMPLE TEST ANOMALY](#example-test-anomaly)
+
 ## Standard Anomaly File Format Reference
 
 | FIELD | VALUE |

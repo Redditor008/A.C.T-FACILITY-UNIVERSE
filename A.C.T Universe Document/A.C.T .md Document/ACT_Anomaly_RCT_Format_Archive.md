@@ -1,4 +1,13 @@
 # A.C.T FACILITY ARCHIVE FILE
+## Contents
+
+- [RCT Anomaly File Format Reference](#rct-anomaly-file-format-reference)
+- [FILE SAVING CONVENTION](#file-saving-convention)
+- [BLOCK REFERENCE](#block-reference)
+- [DESIGNATION FORMAT](#designation-format)
+- [TYPE CODES](#type-codes)
+- [EXAMPLE TEST ANOMALY](#example-test-anomaly)
+
 ## RCT Anomaly File Format Reference
 
 | FIELD | VALUE |
