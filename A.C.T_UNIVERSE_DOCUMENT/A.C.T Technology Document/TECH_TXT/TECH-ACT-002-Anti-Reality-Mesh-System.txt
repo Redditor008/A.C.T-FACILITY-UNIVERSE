@@ -171,6 +171,75 @@ deliveries and routes through ARM-treated access points.
 ---
 
 
+PHYSICAL AND SYSTEM DESCRIPTION
+-------------------------------
+
+Mesh Nodes
+----------
+
+The visual reference guide describes ARM as a network of coin-sized flat copper nodes
+embedded into walls, floors, or
+ceilings. Each node contains a microscopic [BLANK] Aperture that pulses with dull orange light
+when active. Nodes
+connect through a sub-surface data lattice. Technicians monitor the mesh through a ruggedized tablet
+that visualizes
+the field as a glowing green geometric web. If a node fails, the corresponding
+point on the grid turns high-contrast
+red and emits an acoustic alert.
+
+Those details are approved for identification and maintenance orientation. They are not enough to
+reproduce an ARM
+field. The aperture material, field weighting, civilian-perception tables, and lattice handshake remain Level 5
+restricted.
+
+Known Components
+----------------
+
+Known components include:
+
+- flat copper mesh nodes;
+- microscopic aperture inserts;
+- sub-surface data lattice;
+- local power taps and isolated backup cells;
+- ruggedized ARM field tablet;
+- green web field-visualization interface;
+- node-failure red alert display;
+- acoustic maintenance warning tone;
+- cover-story weighting table;
+- public-camera interpretation filter;
+- delivery-route dampening map;
+- emergency dulling mode;
+- ARM to RSA separation interlock.
+
+The ARM to RSA separation interlock is critical. ARM must not be allowed to
+treat a reality-fracture as merely
+uninteresting. If an event is structurally dangerous, RSA and Containment alerts must override ARM
+dulling.
+
+Site and Mobile Variants
+------------------------
+
+Fixed ARM grids cover surface campuses, approach roads, exterior walls, access corridors, vehicle bays,
+delivery
+gates, and some administrative floors. Redwood Veil uses ARM across the campus and primary
+nodes to maintain
+unremarkable status. White Grave uses ARM to preserve its public identity as a legitimate
+arctic research station.
+Other facilities tune ARM according to cover: reserve, relay, archive node, estate, warehouse, office,
+or restricted
+industrial site.
+
+Mobile ARM variants exist but are weaker and shorter-lived. They are used on convoy
+tarps, temporary doors, emergency
+tents, false maintenance barriers, and transport containers that must pass through public space without
+drawing
+pattern attention. Mobile ARM is not authorized for long-term concealment of active anomalies without
+site support.
+
+---
+
+
+
 TECHNICAL SPECIFICATION
 -----------------------
 
@@ -249,74 +318,6 @@ Envelope And Personnel Limits
 ARM must never suppress evacuation signals, medical alarms, fire alarms, or containment warnings. That
 restriction
 outranks every concealment objective.
-
-
-PHYSICAL AND SYSTEM DESCRIPTION
--------------------------------
-
-Mesh Nodes
-----------
-
-The visual reference guide describes ARM as a network of coin-sized flat copper nodes
-embedded into walls, floors, or
-ceilings. Each node contains a microscopic [BLANK] Aperture that pulses with dull orange light
-when active. Nodes
-connect through a sub-surface data lattice. Technicians monitor the mesh through a ruggedized tablet
-that visualizes
-the field as a glowing green geometric web. If a node fails, the corresponding
-point on the grid turns high-contrast
-red and emits an acoustic alert.
-
-Those details are approved for identification and maintenance orientation. They are not enough to
-reproduce an ARM
-field. The aperture material, field weighting, civilian-perception tables, and lattice handshake remain Level 5
-restricted.
-
-Known Components
-----------------
-
-Known components include:
-
-- flat copper mesh nodes;
-- microscopic aperture inserts;
-- sub-surface data lattice;
-- local power taps and isolated backup cells;
-- ruggedized ARM field tablet;
-- green web field-visualization interface;
-- node-failure red alert display;
-- acoustic maintenance warning tone;
-- cover-story weighting table;
-- public-camera interpretation filter;
-- delivery-route dampening map;
-- emergency dulling mode;
-- ARM to RSA separation interlock.
-
-The ARM to RSA separation interlock is critical. ARM must not be allowed to
-treat a reality-fracture as merely
-uninteresting. If an event is structurally dangerous, RSA and Containment alerts must override ARM
-dulling.
-
-Site and Mobile Variants
-------------------------
-
-Fixed ARM grids cover surface campuses, approach roads, exterior walls, access corridors, vehicle bays,
-delivery
-gates, and some administrative floors. Redwood Veil uses ARM across the campus and primary
-nodes to maintain
-unremarkable status. White Grave uses ARM to preserve its public identity as a legitimate
-arctic research station.
-Other facilities tune ARM according to cover: reserve, relay, archive node, estate, warehouse, office,
-or restricted
-industrial site.
-
-Mobile ARM variants exist but are weaker and shorter-lived. They are used on convoy
-tarps, temporary doors, emergency
-tents, false maintenance barriers, and transport containers that must pass through public space without
-drawing
-pattern attention. Mobile ARM is not authorized for long-term concealment of active anomalies without
-site support.
-
----
 
 OPERATING PROCEDURE
 -------------------

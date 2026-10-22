@@ -101,6 +101,26 @@ failure did
 not make ABM useless. It proved that a wall can dampen pressure without defeating
 a hungry will.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+A standard ABM block is dark grey-black with a rough volcanic texture. It feels
+colder and heavier than standard
+concrete. Each block is hollowed around an internal lead-shielded restricted core. The surface may
+show faint tooling
+seams, anchor sockets, or joint channels depending on site generation. Blocks installed in older
+corridors are usually
+larger and less regular. Modern blocks are manufactured for easier replacement, but their composition
+remains
+restricted.
+
+Known components include high-density mineral aggregate; abyssal residue infusion layer; lead-shielded restricted
+core; seismic echo absorption channel; cold-binding structural matrix; joint-lock grooves; resonance survey marks;
+installation orientation code; surface abrasion layer; and maintenance sampling plug.
+
+ABM should never be cut with ordinary tools. Approved modification requires Engineering oversight and,
+where Pale Wood
+or Dark World material is involved, gold-tipped drilling or other specialized interface procedures.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -145,25 +165,6 @@ The core does not make the block alive; it gives the masonry something to
 argue with. Orientation matters,
 because a block placed backward still works as mass but may return echo through
 the wrong face.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-A standard ABM block is dark grey-black with a rough volcanic texture. It feels
-colder and heavier than standard
-concrete. Each block is hollowed around an internal lead-shielded restricted core. The surface may
-show faint tooling
-seams, anchor sockets, or joint channels depending on site generation. Blocks installed in older
-corridors are usually
-larger and less regular. Modern blocks are manufactured for easier replacement, but their composition
-remains
-restricted.
-
-Known components include high-density mineral aggregate; abyssal residue infusion layer; lead-shielded restricted
-core; seismic echo absorption channel; cold-binding structural matrix; joint-lock grooves; resonance survey marks;
-installation orientation code; surface abrasion layer; and maintenance sampling plug.
-
-ABM should never be cut with ordinary tools. Approved modification requires Engineering oversight and,
-where Pale Wood
-or Dark World material is involved, gold-tipped drilling or other specialized interface procedures.
 
 INTERFACE AND OPERATING ENVELOPE
 

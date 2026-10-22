@@ -104,6 +104,27 @@ from Queen chromatic flashes;
 GMT protects skin and body lines from dust contact and gamma-grade contamination in the
 same operation.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+GMT appears as soft, dark purple fabric with shifting star-like points across the weave.
+The pattern may drift slowly
+under changing light, but it should not pulse with the wearer's heartbeat. Each garment
+includes a radiation-counter
+strip in the hem. Under safe conditions the strip remains violet. Under high gamma
+exposure the strip darkens toward
+black. Hydrophobic-treated units bead water aggressively and must be inspected for gaps after laundering,
+repair, or
+field use.
+
+Known components include dark purple self-luminous weave; restricted radiation-resistant fibers; shifting star-motive
+thread pattern; radiation-counter hem strip; hydrophobic treatment layer; sealed cuff and collar bindings;
+contamination-visible seam thread; low-light fold contrast pattern; repair patch kit; and post-use exposure log
+tag.
+
+Garments are issued by size, hazard class, and treatment state. Untreated GMT is not
+accepted as Crystal Butterfly
+PPE.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -147,26 +168,6 @@ low light,
 and it should drift with light rather than pulse with the wearer's heartbeat. The
 hem strip is not a
 suggestion: black means leave.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-GMT appears as soft, dark purple fabric with shifting star-like points across the weave.
-The pattern may drift slowly
-under changing light, but it should not pulse with the wearer's heartbeat. Each garment
-includes a radiation-counter
-strip in the hem. Under safe conditions the strip remains violet. Under high gamma
-exposure the strip darkens toward
-black. Hydrophobic-treated units bead water aggressively and must be inspected for gaps after laundering,
-repair, or
-field use.
-
-Known components include dark purple self-luminous weave; restricted radiation-resistant fibers; shifting star-motive
-thread pattern; radiation-counter hem strip; hydrophobic treatment layer; sealed cuff and collar bindings;
-contamination-visible seam thread; low-light fold contrast pattern; repair patch kit; and post-use exposure log
-tag.
-
-Garments are issued by size, hazard class, and treatment state. Untreated GMT is not
-accepted as Crystal Butterfly
-PPE.
 
 INTERFACE AND OPERATING ENVELOPE
 

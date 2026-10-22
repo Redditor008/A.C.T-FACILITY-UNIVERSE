@@ -105,6 +105,25 @@ Viral-vector libraries are Level 5 because a hostile or careless repair vector c
 a patient into a more
 convenient shape and call the result health.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+A standard GPP suite centers on a large egg-shaped pod with a clear glass
+lid. The lid allows visual medical
+monitoring while preserving sealed atmosphere. Internal laser-point bio-scanners map DNA and tissue state in
+real
+time. Biological scrubbers cycle the pink mist every sixty seconds, removing failed vector residue
+and keeping
+concentration within narrow limits. A side screen displays Mending Progress, vital signs, baseline confidence,
+and
+redacted bloodstream concentration.
+
+Known components include egg-shaped sealed medical pod; clear reinforced glass lid; laser-point bio-scanners;
+biological scrubber array; pink mist delivery cycle; Mending Progress screen; bloodstream concentration monitor;
+baseline comparison lock; emergency purge system; and patient consent and authority port.
+
+The patient is never alone with the machine as a matter of procedure, even
+when sedated.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -150,24 +169,6 @@ scrubbers remove
 failed vectors and shed residue. The five-minute figure is an advertised capability rather than
 a promise,
 because fast correction raises risk when the machine misreads anomaly influence.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-A standard GPP suite centers on a large egg-shaped pod with a clear glass
-lid. The lid allows visual medical
-monitoring while preserving sealed atmosphere. Internal laser-point bio-scanners map DNA and tissue state in
-real
-time. Biological scrubbers cycle the pink mist every sixty seconds, removing failed vector residue
-and keeping
-concentration within narrow limits. A side screen displays Mending Progress, vital signs, baseline confidence,
-and
-redacted bloodstream concentration.
-
-Known components include egg-shaped sealed medical pod; clear reinforced glass lid; laser-point bio-scanners;
-biological scrubber array; pink mist delivery cycle; Mending Progress screen; bloodstream concentration monitor;
-baseline comparison lock; emergency purge system; and patient consent and authority port.
-
-The patient is never alone with the machine as a matter of procedure, even
-when sedated.
 
 INTERFACE AND OPERATING ENVELOPE
 

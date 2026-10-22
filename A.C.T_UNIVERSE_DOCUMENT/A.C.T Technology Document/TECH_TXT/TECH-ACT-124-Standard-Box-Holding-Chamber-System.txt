@@ -97,6 +97,31 @@ working heart of
 Redwood Veil because SBHCS made ordinary anomalous custody scalable without pretending the residents were
 harmless.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+
+A SBHCS installation includes chamber-row galleries, Small Box units, Medium Box units, Large Box
+units, handling
+corridors, observation routes, intake and triage bays, documentation offices, floor command panels, environmental
+controls, monitoring circuits, and transfer gates connected to F-2 and F-4 routing.
+
+Known components include:
+
+- Small Box resident unit;
+- Medium Box resident unit;
+- Large Box resident unit;
+- independent Box monitoring connection;
+- adjustable environmental service branch;
+- chamber observation pane or sensor route;
+- controlled handling threshold;
+- resident documentation identity tag;
+- F-2 restricted-hold routing lock;
+- F-4 ascending-authorization routing gate.
+
+The standard Box is defined less by its walls than by its record. If
+the chamber cannot be identified, monitored,
+documented, and routed, it is not a Box under SBHCS doctrine.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -145,30 +170,6 @@ maintenance problem while one that affects a row is a containment problem, and t
 two cannot be told apart
 if they share a circuit. The default is observation without entry: an entry is
 an event, not a routine.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-
-A SBHCS installation includes chamber-row galleries, Small Box units, Medium Box units, Large Box
-units, handling
-corridors, observation routes, intake and triage bays, documentation offices, floor command panels, environmental
-controls, monitoring circuits, and transfer gates connected to F-2 and F-4 routing.
-
-Known components include:
-
-- Small Box resident unit;
-- Medium Box resident unit;
-- Large Box resident unit;
-- independent Box monitoring connection;
-- adjustable environmental service branch;
-- chamber observation pane or sensor route;
-- controlled handling threshold;
-- resident documentation identity tag;
-- F-2 restricted-hold routing lock;
-- F-4 ascending-authorization routing gate.
-
-The standard Box is defined less by its walls than by its record. If
-the chamber cannot be identified, monitored,
-documented, and routed, it is not a Box under SBHCS doctrine.
 
 INTERFACE AND OPERATING ENVELOPE
 

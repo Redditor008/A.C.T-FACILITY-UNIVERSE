@@ -99,6 +99,23 @@ Pulse-sync settings are restricted because hostile groups could use them to imit
 bypass living
 detectors, or move past anomalies that A.C.T relies on as passive warning systems.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+A standard BRD is a skin-colored adhesive patch worn behind the ear. It contains
+a micro-injector node, Pulse-Sync
+Chip, conductive gel layer, adhesive seal, and a tiny blinking green LED. The LED
+confirms active masking but does not
+prove that the wearer is medically safe. Some variants include dull amber warnings for
+adhesive failure, pulse
+overload, or injector depletion.
+
+Known components include skin-colored adhesive patch; micro-injector node; Pulse-Sync Chip; conductive gel layer;
+blinking green status LED; adhesive seal; short-wear timer; pulse overload warning; subject-profile setting; and
+disposal tab.
+
+The patch is disposable after use. Reuse risks bad readings, skin contamination, and false
+green confirmation.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -144,22 +161,6 @@ The green LED confirms active masking and does not prove the wearer is medically
 safe. The patch is
 disposable after use, because reuse risks bad readings, skin contamination, and a false green
 confirmation.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-A standard BRD is a skin-colored adhesive patch worn behind the ear. It contains
-a micro-injector node, Pulse-Sync
-Chip, conductive gel layer, adhesive seal, and a tiny blinking green LED. The LED
-confirms active masking but does not
-prove that the wearer is medically safe. Some variants include dull amber warnings for
-adhesive failure, pulse
-overload, or injector depletion.
-
-Known components include skin-colored adhesive patch; micro-injector node; Pulse-Sync Chip; conductive gel layer;
-blinking green status LED; adhesive seal; short-wear timer; pulse overload warning; subject-profile setting; and
-disposal tab.
-
-The patch is disposable after use. Reuse risks bad readings, skin contamination, and false
-green confirmation.
 
 INTERFACE AND OPERATING ENVELOPE
 

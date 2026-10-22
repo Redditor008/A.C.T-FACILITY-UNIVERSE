@@ -98,6 +98,31 @@ of containment. The
 question is not only whether the signal is true. The question is who becomes
 responsible for knowing it.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+
+An ALORS installation includes sealed local buffers, raw signal preservation drives, processed-reading mirrors,
+QNB-aware archive capsules, access ledger interfaces, restricted route gates, analyst annotation locks, correlation
+tag modules, and emergency closure storage inside F-1. It is designed to survive temporary
+severance from upper
+command during F-1 closure and to reconcile records after communication returns.
+
+Known components include:
+
+- raw signal capture buffer;
+- processed reading mirror;
+- analyst annotation lock;
+- abyss-correlation tag module;
+- restricted route gate;
+- access ledger interface;
+- QNB-aware preservation capsule;
+- closure-mode local store;
+- review-chain release seal;
+- contradiction retention field.
+
+The contradiction retention field preserves disagreement between raw data, processed data, and analyst interpretation.
+In abyss-linked review, disagreement may be evidence rather than error.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -142,30 +167,6 @@ The system does not decide what the abyss is. It prevents abyss-linked records f
 being treated as
 ordinary seismic files, ordinary curiosities, or harmless environmental data, and it reconciles records
 after communication returns.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-
-An ALORS installation includes sealed local buffers, raw signal preservation drives, processed-reading mirrors,
-QNB-aware archive capsules, access ledger interfaces, restricted route gates, analyst annotation locks, correlation
-tag modules, and emergency closure storage inside F-1. It is designed to survive temporary
-severance from upper
-command during F-1 closure and to reconcile records after communication returns.
-
-Known components include:
-
-- raw signal capture buffer;
-- processed reading mirror;
-- analyst annotation lock;
-- abyss-correlation tag module;
-- restricted route gate;
-- access ledger interface;
-- QNB-aware preservation capsule;
-- closure-mode local store;
-- review-chain release seal;
-- contradiction retention field.
-
-The contradiction retention field preserves disagreement between raw data, processed data, and analyst interpretation.
-In abyss-linked review, disagreement may be evidence rather than error.
 
 INTERFACE AND OPERATING ENVELOPE
 

@@ -103,6 +103,25 @@ Current deployment is mandatory for consensus-sensitive hazards, narrative-bleed
 readings, and any operation where staff are likely to ask what role they are
 meant to play.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+A standard CSE kit contains paired tactical earbuds, a rugged transceiver box, insulated cable
+or short-range secure
+link depending on issue model, charging cradle, hygiene seals, and calibration tabs. Each earpiece
+contains a
+miniature static emitter and Logic-Anchor Chip. The transceiver box stores mission baselines, static profiles,
+and
+operator brainwave warning thresholds. Field units are intentionally sturdy and unglamorous; bright or dramatic
+design
+elements are forbidden in narrative-hazard gear.
+
+Known components include paired tactical earbuds; rugged transceiver box; internal Logic-Anchor Chip; ear-canal
+vibration motor; controlled static emitter; brainwave drift sampler; procedural cue bank; secure mission baseline
+memory; battery status light; and post-exposure log buffer.
+
+The device must fit correctly. A loose earpiece may still play static while failing
+to deliver vibration warning.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -148,24 +167,6 @@ the anomaly prefers.
 It does not make a person immune to memetics, and a loose earpiece may
 keep playing static while failing to
 sample drift.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-A standard CSE kit contains paired tactical earbuds, a rugged transceiver box, insulated cable
-or short-range secure
-link depending on issue model, charging cradle, hygiene seals, and calibration tabs. Each earpiece
-contains a
-miniature static emitter and Logic-Anchor Chip. The transceiver box stores mission baselines, static profiles,
-and
-operator brainwave warning thresholds. Field units are intentionally sturdy and unglamorous; bright or dramatic
-design
-elements are forbidden in narrative-hazard gear.
-
-Known components include paired tactical earbuds; rugged transceiver box; internal Logic-Anchor Chip; ear-canal
-vibration motor; controlled static emitter; brainwave drift sampler; procedural cue bank; secure mission baseline
-memory; battery status light; and post-exposure log buffer.
-
-The device must fit correctly. A loose earpiece may still play static while failing
-to deliver vibration warning.
 
 INTERFACE AND OPERATING ENVELOPE
 

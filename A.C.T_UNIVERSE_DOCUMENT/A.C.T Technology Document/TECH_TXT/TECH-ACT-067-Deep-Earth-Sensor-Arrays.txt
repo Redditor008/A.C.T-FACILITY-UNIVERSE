@@ -91,6 +91,31 @@ DESA development follows the relay's listening doctrine: observation first, inte
 The array is designed to let a signal be preserved before personnel decide what
 it means.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+
+A DESA installation includes buried sensor strings, foundation-bonded resonance pickups, deep bore receivers, pressure
+and vibration monitors, shielded cable runs, local buffering nodes, maintenance galleries, signal authentication
+relays, and F-1 termination racks. Some nodes are embedded into natural stone; others are
+suspended in engineered
+sleeves to prevent ordinary facility vibration from contaminating readings.
+
+Known components include:
+
+- deep sensor string;
+- foundation resonance pickup;
+- bore receiver sleeve;
+- vibration isolation collar;
+- abyss-linked anomaly flagging circuit;
+- hardened cable run;
+- local buffer node;
+- signal-authentication relay;
+- F-1 termination panel;
+- maintenance denial seal.
+
+The array is deliberately distributed. A single bad node should not be able to
+invent the deep.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -133,30 +158,6 @@ The array is deliberately distributed so a single bad node cannot invent the dee
 Some nodes are embedded
 in natural stone; others hang in engineered sleeves to keep ordinary facility vibration out
 of the reading.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-
-A DESA installation includes buried sensor strings, foundation-bonded resonance pickups, deep bore receivers, pressure
-and vibration monitors, shielded cable runs, local buffering nodes, maintenance galleries, signal authentication
-relays, and F-1 termination racks. Some nodes are embedded into natural stone; others are
-suspended in engineered
-sleeves to prevent ordinary facility vibration from contaminating readings.
-
-Known components include:
-
-- deep sensor string;
-- foundation resonance pickup;
-- bore receiver sleeve;
-- vibration isolation collar;
-- abyss-linked anomaly flagging circuit;
-- hardened cable run;
-- local buffer node;
-- signal-authentication relay;
-- F-1 termination panel;
-- maintenance denial seal.
-
-The array is deliberately distributed. A single bad node should not be able to
-invent the deep.
 
 INTERFACE AND OPERATING ENVELOPE
 

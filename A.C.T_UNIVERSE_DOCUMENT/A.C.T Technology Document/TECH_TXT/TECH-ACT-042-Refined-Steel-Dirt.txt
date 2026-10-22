@@ -106,6 +106,23 @@ clean floor.
 
 Current RSD batches are still restricted and not approved for casual construction.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+RSD appears as vivid blue powder. It is stored in pressurized hoppers designed to
+prevent humidity intrusion, static
+clumping, and accidental valve activation. Each hopper includes a hydration-trigger valve, dry-pressure gauge,
+particulate agitation system, seal monitor, emergency dump lock, and post-bloom toxicity sampler. Deployment nozzles
+produce a controlled spray pattern so the material forms where the breach plan expects
+it rather than wherever gravity
+takes it.
+
+Known components and custody elements include vivid blue refined powder; pressurized dry hopper; hydration-trigger
+valve; dry-pressure gauge; humidity exclusion seal; particulate agitation rotor; spray-pattern nozzle; post-bloom
+toxicity sampler; Blue Haze warning strip; and sealed spent-hopper canister.
+
+RSD is never stored near open water, wet cleaning lines, humid biological suites, or
+unshielded personnel showers.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -149,22 +166,6 @@ can create a
 wall faster than a team can correct a mistake, so it is not used
 in uncertain rooms, crowded corridors, or
 patient-care areas.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-RSD appears as vivid blue powder. It is stored in pressurized hoppers designed to
-prevent humidity intrusion, static
-clumping, and accidental valve activation. Each hopper includes a hydration-trigger valve, dry-pressure gauge,
-particulate agitation system, seal monitor, emergency dump lock, and post-bloom toxicity sampler. Deployment nozzles
-produce a controlled spray pattern so the material forms where the breach plan expects
-it rather than wherever gravity
-takes it.
-
-Known components and custody elements include vivid blue refined powder; pressurized dry hopper; hydration-trigger
-valve; dry-pressure gauge; humidity exclusion seal; particulate agitation rotor; spray-pattern nozzle; post-bloom
-toxicity sampler; Blue Haze warning strip; and sealed spent-hopper canister.
-
-RSD is never stored near open water, wet cleaning lines, humid biological suites, or
-unshielded personnel showers.
 
 INTERFACE AND OPERATING ENVELOPE
 

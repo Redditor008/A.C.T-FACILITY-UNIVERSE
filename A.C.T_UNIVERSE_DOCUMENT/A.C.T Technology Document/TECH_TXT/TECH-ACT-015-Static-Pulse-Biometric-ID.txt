@@ -105,6 +105,24 @@ shift a person's accepted pulse range.
 Pulse libraries remain Level 5 because they are identity maps of the most sensitive
 people in A.C.T.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+A standard SPBID unit is a brushed-aluminum wall scanner mounted beside high-security doors, vault
+entries, command
+lifts, medical re-interface suites, and O5-restricted corridors. The high-resolution palm pad records contact pattern,
+pressure, heat, pulse, and micro-movement. The ultraviolet spectrograph scans through the hand and reads
+response
+behavior that ordinary cameras cannot see. The access-log receipt slot prints a small strip
+containing time, door,
+match level, denial code if applicable, and archive routing marker.
+
+Known components include brushed-aluminum wall housing; ultraviolet spectrograph; high-resolution palm pad; Static
+Pulse comparator; receipt printer; denial tone speaker; emergency guard alert; sealed profile port; QNB-compatible
+access log output; and tamper-evident faceplate.
+
+The unit is intentionally plain. A scanner that draws attention teaches intruders where identity
+matters most.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -144,23 +162,6 @@ be catastrophic. It does not
 replace guards, passphrases, command authority, or medical review, and no door should rely on
 it alone when
 the situation already smells wrong.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-A standard SPBID unit is a brushed-aluminum wall scanner mounted beside high-security doors, vault
-entries, command
-lifts, medical re-interface suites, and O5-restricted corridors. The high-resolution palm pad records contact pattern,
-pressure, heat, pulse, and micro-movement. The ultraviolet spectrograph scans through the hand and reads
-response
-behavior that ordinary cameras cannot see. The access-log receipt slot prints a small strip
-containing time, door,
-match level, denial code if applicable, and archive routing marker.
-
-Known components include brushed-aluminum wall housing; ultraviolet spectrograph; high-resolution palm pad; Static
-Pulse comparator; receipt printer; denial tone speaker; emergency guard alert; sealed profile port; QNB-compatible
-access log output; and tamper-evident faceplate.
-
-The unit is intentionally plain. A scanner that draws attention teaches intruders where identity
-matters most.
 
 INTERFACE AND OPERATING ENVELOPE
 

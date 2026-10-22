@@ -93,6 +93,30 @@ monitoring, content-avoidant access, and preservation records written to avoid b
 from the realization that an archive can serve the Facility by keeping a record
 present and unknown at the same time.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+
+A UAARPV installation includes isolated preservation vaults, sealed content trays, blind retrieval frames,
+non-disclosing condition sensors, compartmented air handling, independent emergency power links, access-core
+checkpoints, content-obscuring custody labels, vault-service corridors, monitoring gallery displays, and a floor
+archive alcove for non-comprehensive records.
+
+Known components include:
+
+- unreadable preservation vault;
+- blind condition sensor cluster;
+- content-obscuring custody marker;
+- non-view retrieval frame;
+- compartmented environmental envelope;
+- sealed service route;
+- access-core authorization gate;
+- monitoring gallery condition display;
+- F-1 closure interface;
+- unreadable register record terminal.
+
+The system is built so personnel can know that a vault requires service without
+learning what waits inside it.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -140,29 +164,6 @@ sensors report
 condition without reporting content, the custody marker obscures rather than describes, and the retrieval
 frame moves an item without presenting it. Reading is not a privilege here but
 a recorded breach.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-
-A UAARPV installation includes isolated preservation vaults, sealed content trays, blind retrieval frames,
-non-disclosing condition sensors, compartmented air handling, independent emergency power links, access-core
-checkpoints, content-obscuring custody labels, vault-service corridors, monitoring gallery displays, and a floor
-archive alcove for non-comprehensive records.
-
-Known components include:
-
-- unreadable preservation vault;
-- blind condition sensor cluster;
-- content-obscuring custody marker;
-- non-view retrieval frame;
-- compartmented environmental envelope;
-- sealed service route;
-- access-core authorization gate;
-- monitoring gallery condition display;
-- F-1 closure interface;
-- unreadable register record terminal.
-
-The system is built so personnel can know that a vault requires service without
-learning what waits inside it.
 
 INTERFACE AND OPERATING ENVELOPE
 

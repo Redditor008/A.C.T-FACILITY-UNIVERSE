@@ -94,6 +94,31 @@ treats recovery as a single event. RSSA breaks the event into accountable stages
 that Ash Tide can move quickly
 while still obeying parent-relay command.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+
+A standard RSSA installation includes briefing boards, equipment cages, route-status panels, vessel contact terminals,
+intake handoff forms, protective gear racks, field kit benches, security alert controls, decontamination pre-check
+stations, and post-action reconstruction storage. It is placed on F-2 so staging remains near
+watch coordination and
+above the intake floor.
+
+Known components include:
+
+- recovery briefing board;
+- route and tide status panel;
+- vessel coordination terminal;
+- sea-entry equipment cage;
+- intake handoff tray;
+- emergency kit bench;
+- Security alert control;
+- personnel muster strip;
+- recovery clock and authorization marker;
+- post-action reconstruction drawer.
+
+The area is designed to look calm when it is working correctly. Panic in
+staging becomes panic at the shoreline.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -139,30 +164,6 @@ procedural arrangement
 that keeps readiness from becoming disorder. A staged team is not a launched team,
 and a prepared intake is
 not a completed transfer.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-
-A standard RSSA installation includes briefing boards, equipment cages, route-status panels, vessel contact terminals,
-intake handoff forms, protective gear racks, field kit benches, security alert controls, decontamination pre-check
-stations, and post-action reconstruction storage. It is placed on F-2 so staging remains near
-watch coordination and
-above the intake floor.
-
-Known components include:
-
-- recovery briefing board;
-- route and tide status panel;
-- vessel coordination terminal;
-- sea-entry equipment cage;
-- intake handoff tray;
-- emergency kit bench;
-- Security alert control;
-- personnel muster strip;
-- recovery clock and authorization marker;
-- post-action reconstruction drawer.
-
-The area is designed to look calm when it is working correctly. Panic in
-staging becomes panic at the shoreline.
 
 INTERFACE AND OPERATING ENVELOPE
 

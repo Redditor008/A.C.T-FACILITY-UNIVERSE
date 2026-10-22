@@ -101,6 +101,25 @@ reptilian repair must
 fail honestly when confronted with a body that cannot be injured, sampled, frozen, cut,
 burned, or convinced to move.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+ERG is a thick translucent green gel with a medicinal mint scent. It is
+stored in refrigerated tubs. Each tub lid
+contains an automated agitator disc that slowly turns the compound to prevent anomalous separation.
+If the gel
+separates into clear fluid and opaque green strands, it is not used until Medical
+clears it. The gel warms under
+gloved hands but must not be heated aggressively, because uneven warming can create overactive
+repair streaks.
+
+Known components include refrigerated storage tub; automated agitator disc; translucent green repair matrix;
+moisture-retention layer; ectothermic metabolic buffer; mint-scented antiseptic carrier; separation indicator strip;
+application spatula set; temperature-safe glove kit; and post-application residue swabs.
+
+ERG is logged by tub, subject, anatomical site, temperature, humidity, and application time. Shared
+tubs are
+prohibited except during declared emergency triage.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -147,24 +166,6 @@ controlled healing inside the
 current body plan. Shared tubs are prohibited, and a tub whose gel has separated
 into clear fluid and opaque
 green strands is not used until Medical clears it.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-ERG is a thick translucent green gel with a medicinal mint scent. It is
-stored in refrigerated tubs. Each tub lid
-contains an automated agitator disc that slowly turns the compound to prevent anomalous separation.
-If the gel
-separates into clear fluid and opaque green strands, it is not used until Medical
-clears it. The gel warms under
-gloved hands but must not be heated aggressively, because uneven warming can create overactive
-repair streaks.
-
-Known components include refrigerated storage tub; automated agitator disc; translucent green repair matrix;
-moisture-retention layer; ectothermic metabolic buffer; mint-scented antiseptic carrier; separation indicator strip;
-application spatula set; temperature-safe glove kit; and post-application residue swabs.
-
-ERG is logged by tub, subject, anatomical site, temperature, humidity, and application time. Shared
-tubs are
-prohibited except during declared emergency triage.
 
 INTERFACE AND OPERATING ENVELOPE
 

@@ -96,6 +96,31 @@ that separation, making domestic support part of the station's containment archi
 administrative
 afterthought.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+
+A LRHMSCS installation includes private and shared quarters, mess hall, food storage and preparation
+systems,
+recreation rooms, routine medical clinic, internal command offices, environmental controls, domestic monitoring,
+personnel access gates, and the main security checkpoint leading to the operational floors.
+
+Known components include:
+
+- long-rotation living quarter;
+- shared habitation corridor;
+- mess and food-service block;
+- recreation support room;
+- routine medical clinic;
+- internal command office node;
+- domestic environmental control branch;
+- personnel-access monitor;
+- main security checkpoint gate;
+- duty descent and ascent ledger.
+
+The checkpoint is not only security hardware. It is the station's deliberate line between
+the human habitat and the
+work that habitat sustains.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -145,30 +170,6 @@ The floor keeps domestic space separate from duty space on purpose: the checkpoi
 and the descent
 ledger sit at the boundary, and the monitor is placed there rather than in
 the corridor.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-
-A LRHMSCS installation includes private and shared quarters, mess hall, food storage and preparation
-systems,
-recreation rooms, routine medical clinic, internal command offices, environmental controls, domestic monitoring,
-personnel access gates, and the main security checkpoint leading to the operational floors.
-
-Known components include:
-
-- long-rotation living quarter;
-- shared habitation corridor;
-- mess and food-service block;
-- recreation support room;
-- routine medical clinic;
-- internal command office node;
-- domestic environmental control branch;
-- personnel-access monitor;
-- main security checkpoint gate;
-- duty descent and ascent ledger.
-
-The checkpoint is not only security hardware. It is the station's deliberate line between
-the human habitat and the
-work that habitat sustains.
 
 INTERFACE AND OPERATING ENVELOPE
 

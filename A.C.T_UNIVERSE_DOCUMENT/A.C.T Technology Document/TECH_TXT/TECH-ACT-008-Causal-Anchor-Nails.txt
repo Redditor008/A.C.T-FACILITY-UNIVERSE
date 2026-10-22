@@ -111,6 +111,32 @@ returned to a field kit. They enter extraction review, where Engineering decides
 unit is dead,
 contaminated, partially loaded with site stress, or evidence in an incident file.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+A standard CAN is a thirty-centimeter spike made of violet-tinted alloy. The point is
+reinforced for concrete, basalt
+plate, heavy containment flooring, cargo decking, and emergency ground anchors. The head contains a
+revolving
+mechanical disc. When the nail is fully seated, the disc clicks into a locked
+state that can be felt through gloves.
+Staff are trained to listen for the click but never to rely on sound
+alone, because some auditory anomalies imitate
+it.
+
+Known components include violet-tinted alloy spike body; revolving mechanical disc head; internal heated core
+used to
+prevent temporal and spatial slippage; grip bands for insulated gloves; deployment depth mark; red
+extraction warning
+line; short-window status notch; and dead-core discoloration strip.
+
+The nail feels magnetically stuck in the hand before deployment because its internal core
+is already trying to agree
+with a surface. Personnel sometimes describe the sensation as the nail wanting to be
+somewhere. This is expected at
+low intensity. If the pull becomes directional enough to steer the handler, the nail
+is returned to its case and
+marked for Engineering review.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -157,31 +183,6 @@ driving it into a second surface produces a lock nobody has tested. The dead-cor
 discoloration strip exists
 so a spent nail cannot be mistaken for a fresh one inside a field
 case.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-A standard CAN is a thirty-centimeter spike made of violet-tinted alloy. The point is
-reinforced for concrete, basalt
-plate, heavy containment flooring, cargo decking, and emergency ground anchors. The head contains a
-revolving
-mechanical disc. When the nail is fully seated, the disc clicks into a locked
-state that can be felt through gloves.
-Staff are trained to listen for the click but never to rely on sound
-alone, because some auditory anomalies imitate
-it.
-
-Known components include violet-tinted alloy spike body; revolving mechanical disc head; internal heated core
-used to
-prevent temporal and spatial slippage; grip bands for insulated gloves; deployment depth mark; red
-extraction warning
-line; short-window status notch; and dead-core discoloration strip.
-
-The nail feels magnetically stuck in the hand before deployment because its internal core
-is already trying to agree
-with a surface. Personnel sometimes describe the sensation as the nail wanting to be
-somewhere. This is expected at
-low intensity. If the pull becomes directional enough to steer the handler, the nail
-is returned to its case and
-marked for Engineering review.
 
 INTERFACE AND OPERATING ENVELOPE
 

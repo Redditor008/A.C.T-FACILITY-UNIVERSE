@@ -111,6 +111,25 @@ The arm remains A.C.T property attached to a living operator under medical agree
 retirement, and
 replacement are medical events, not equipment checkout.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+A standard TFA appears as a blue-tinted steel prosthetic arm with reinforced joints and
+visible harmonic fins along
+the forearm. The palm contains a pressure-sensitive disc that reads incoming force and operator
+contact angle. The
+wrist-screen displays parry-window timing, capacitor readiness, biological stress, and feedback warning. Successful
+timing produces a sharp ding and a yellow light pulse from the redacted capacitor
+assembly. The sound is intentionally
+simple because the operator cannot read long text during impact.
+
+Known components include blue-tinted steel forearm shell; vibrating harmonic fins; pressure-sensitive palm disc;
+tactical wrist-screen; redacted capacitor housing; nerve-link socket; shoulder feedback sink; yellow success light;
+misfire vibration warning; and post-impact strain log.
+
+The arm is calibrated to one operator. Unbonded use may produce delayed response, joint
+rejection, or full feedback
+into the user's skeleton.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -155,24 +174,6 @@ very small timing window in which
 incoming force can be answered with the correct harmonic disagreement, and the rest of
 the body still has to
 survive the transferred stress.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-A standard TFA appears as a blue-tinted steel prosthetic arm with reinforced joints and
-visible harmonic fins along
-the forearm. The palm contains a pressure-sensitive disc that reads incoming force and operator
-contact angle. The
-wrist-screen displays parry-window timing, capacitor readiness, biological stress, and feedback warning. Successful
-timing produces a sharp ding and a yellow light pulse from the redacted capacitor
-assembly. The sound is intentionally
-simple because the operator cannot read long text during impact.
-
-Known components include blue-tinted steel forearm shell; vibrating harmonic fins; pressure-sensitive palm disc;
-tactical wrist-screen; redacted capacitor housing; nerve-link socket; shoulder feedback sink; yellow success light;
-misfire vibration warning; and post-impact strain log.
-
-The arm is calibrated to one operator. Unbonded use may produce delayed response, joint
-rejection, or full feedback
-into the user's skeleton.
 
 INTERFACE AND OPERATING ENVELOPE
 

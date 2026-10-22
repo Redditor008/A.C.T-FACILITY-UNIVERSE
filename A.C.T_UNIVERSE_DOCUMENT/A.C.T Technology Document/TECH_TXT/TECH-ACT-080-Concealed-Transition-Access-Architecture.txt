@@ -93,6 +93,29 @@ only if its visible purpose
 makes sense and its concealed purpose is logged. The route must be ordinary to
 the surface and exact to A.C.T.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+
+A CTAA installation includes disguised doors, dual-purpose service lifts, biometric or static-pulse checks where
+appropriate, cargo screening locks, surveillance disguised as campus safety monitoring, boundary alarm circuits,
+visitor diversion routes, concealed descent indicators, ordinary maintenance signage, access ledgers, and emergency
+seal mechanisms. The best transition point is not invisible; it is uninteresting.
+
+Known components include:
+
+- ordinary-facing access mask;
+- concealed authorization panel;
+- transition ledger terminal;
+- cargo screening lock;
+- personnel identity checkpoint;
+- visitor diversion route;
+- boundary alarm circuit;
+- dual-purpose service lift;
+- emergency surface seal;
+- F-5 handoff confirmation point.
+
+Route maps are restricted because a transition map is also an exposure map.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -138,28 +161,6 @@ a legitimate
 institute, and the buried relay must stay accessible enough to function. Surveillance is disguised
 as campus
 safety monitoring rather than removed.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-
-A CTAA installation includes disguised doors, dual-purpose service lifts, biometric or static-pulse checks where
-appropriate, cargo screening locks, surveillance disguised as campus safety monitoring, boundary alarm circuits,
-visitor diversion routes, concealed descent indicators, ordinary maintenance signage, access ledgers, and emergency
-seal mechanisms. The best transition point is not invisible; it is uninteresting.
-
-Known components include:
-
-- ordinary-facing access mask;
-- concealed authorization panel;
-- transition ledger terminal;
-- cargo screening lock;
-- personnel identity checkpoint;
-- visitor diversion route;
-- boundary alarm circuit;
-- dual-purpose service lift;
-- emergency surface seal;
-- F-5 handoff confirmation point.
-
-Route maps are restricted because a transition map is also an exposure map.
 
 INTERFACE AND OPERATING ENVELOPE
 

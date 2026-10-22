@@ -163,6 +163,69 @@ confirmed to match full QNB behavior.
 ---
 
 
+PHYSICAL AND SYSTEM DESCRIPTION
+-------------------------------
+
+Standard Rack Unit
+------------------
+
+The visual reference guide describes QNB as a rack-mounted server hub containing pressurized crystal
+canisters instead
+of traditional drives. Each canister is fitted with a [REDACTED]-Etching Laser that writes data
+at the sub-atomic
+level. The rack features manual override cranks used to physically reset the data stream
+during a causal-wipe event. A
+wide front monitor displays scrolling hex-code and Narrative Drift percentages.
+
+Those details are approved for recognition and maintenance orientation. They are not sufficient for
+manufacture or
+restoration. The canister material, etching method, and drift equations remain Level 5 restricted.
+
+Known Components
+----------------
+
+Known components include:
+
+- pressurized crystal canisters;
+- sub-atomic etching laser arrays;
+- rack isolation frame;
+- narrative drift monitor;
+- manual override cranks;
+- archive sequence clock;
+- causal checksum board;
+- sealed restoration bus;
+- document identity register;
+- read-only quarantine slot;
+- witness-media ingest port;
+- paper-to-buffer transcription cradle;
+- hardline link to Central Archive validation;
+- emergency dead-power crank path.
+
+QNB architecture is deliberately physical. Manual cranks and sealed canisters exist because purely digital
+restoration
+failed in early trials when the digital environment accepted the rewritten past before staff
+could detect it.
+
+Site and Field Variants
+-----------------------
+
+Fixed QNB racks serve Central Archive, F-7 archive structures, Site 03 Kurokawa Archive Node,
+major command archives,
+and selected high-risk document vaults. Kurokawa records are hardened with QNB technology against causal
+rewrites and
+temporal resets. F-7's QNB-hardened structure is built around the principle that the complex's records
+must remain the
+records the complex wrote.
+
+Field variants include portable evidence buffers, head-mounted recording buffers, sealed testimony buffers, and
+temporary document-ingest units. Field QNB can preserve footage or testimony from unstable spaces, but
+it is weaker
+than rack hardening and must be reconciled after recovery.
+
+---
+
+
+
 TECHNICAL SPECIFICATION
 -----------------------
 
@@ -247,68 +310,6 @@ Envelope And Personnel Limits
 
 QNB is not a substitute for witness care, amnestic review, or anomaly containment, and
 must not be used as one.
-
-
-PHYSICAL AND SYSTEM DESCRIPTION
--------------------------------
-
-Standard Rack Unit
-------------------
-
-The visual reference guide describes QNB as a rack-mounted server hub containing pressurized crystal
-canisters instead
-of traditional drives. Each canister is fitted with a [REDACTED]-Etching Laser that writes data
-at the sub-atomic
-level. The rack features manual override cranks used to physically reset the data stream
-during a causal-wipe event. A
-wide front monitor displays scrolling hex-code and Narrative Drift percentages.
-
-Those details are approved for recognition and maintenance orientation. They are not sufficient for
-manufacture or
-restoration. The canister material, etching method, and drift equations remain Level 5 restricted.
-
-Known Components
-----------------
-
-Known components include:
-
-- pressurized crystal canisters;
-- sub-atomic etching laser arrays;
-- rack isolation frame;
-- narrative drift monitor;
-- manual override cranks;
-- archive sequence clock;
-- causal checksum board;
-- sealed restoration bus;
-- document identity register;
-- read-only quarantine slot;
-- witness-media ingest port;
-- paper-to-buffer transcription cradle;
-- hardline link to Central Archive validation;
-- emergency dead-power crank path.
-
-QNB architecture is deliberately physical. Manual cranks and sealed canisters exist because purely digital
-restoration
-failed in early trials when the digital environment accepted the rewritten past before staff
-could detect it.
-
-Site and Field Variants
------------------------
-
-Fixed QNB racks serve Central Archive, F-7 archive structures, Site 03 Kurokawa Archive Node,
-major command archives,
-and selected high-risk document vaults. Kurokawa records are hardened with QNB technology against causal
-rewrites and
-temporal resets. F-7's QNB-hardened structure is built around the principle that the complex's records
-must remain the
-records the complex wrote.
-
-Field variants include portable evidence buffers, head-mounted recording buffers, sealed testimony buffers, and
-temporary document-ingest units. Field QNB can preserve footage or testimony from unstable spaces, but
-it is weaker
-than rack hardening and must be reconciled after recovery.
-
----
 
 OPERATING PROCEDURE
 -------------------

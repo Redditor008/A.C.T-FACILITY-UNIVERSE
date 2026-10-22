@@ -98,6 +98,24 @@ Formula and particle origin remain Level 5 because counterfeit RRI would be near
 dangerous as stolen real stock.
 A forged record that resists correction can outlive the truth it imitates.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+RRI is stored in heavy glass inkwells with drip-prevention valves. The liquid is pitch
+black with a violet sparkle
+under angled archive light. It is thicker than ordinary ink and moves slowly, as
+if resisting the decision to flow.
+Each inkwell uses a pressurized reservoir to keep particle distribution stable. The cap is
+sealed by a biometric
+thumbprint lock and a custody tag.
+
+Known components include heavy glass inkwell; drip-prevention valve; pressurized reservoir; biometric thumbprint cap;
+suspended causal-memory particles; batch light-test strip; particle-settling warning band; used-nib quarantine cup;
+solvent exposure tag; and O5 stock seal where applicable.
+
+The ink should not be decanted into ordinary pens unless the pen is certified.
+Disposable nibs are preferred for
+hazardous anomaly records.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -142,23 +160,6 @@ The ink is the mark itself. QNB preserves data across larger causal events and
 NSV protects page surface, so
 RRI is never a substitute for either; it is the layer that insists the
 original mark was made.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-RRI is stored in heavy glass inkwells with drip-prevention valves. The liquid is pitch
-black with a violet sparkle
-under angled archive light. It is thicker than ordinary ink and moves slowly, as
-if resisting the decision to flow.
-Each inkwell uses a pressurized reservoir to keep particle distribution stable. The cap is
-sealed by a biometric
-thumbprint lock and a custody tag.
-
-Known components include heavy glass inkwell; drip-prevention valve; pressurized reservoir; biometric thumbprint cap;
-suspended causal-memory particles; batch light-test strip; particle-settling warning band; used-nib quarantine cup;
-solvent exposure tag; and O5 stock seal where applicable.
-
-The ink should not be decanted into ordinary pens unless the pen is certified.
-Disposable nibs are preferred for
-hazardous anomaly records.
 
 INTERFACE AND OPERATING ENVELOPE
 

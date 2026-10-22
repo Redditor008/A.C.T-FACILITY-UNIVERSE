@@ -96,6 +96,24 @@ Argon Internal's refusal shaped PSS ethics. Technicians saw a better chassis. Ar
 forced move out of a body it
 had rewritten into identity. The PSS program now distinguishes technical suitability from personhood consent.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+PSS is stored as translucent flesh-colored polymer rolled around a sterile core. It may
+look like ordinary medical
+silicone until angled light reveals faint internal alignment bands. Each roll includes a Tear-Resistance
+Gauge along
+the outer edge and a Thermal-Alignment Strip that changes shade across safe, cold, hot,
+and phase-stress ranges.
+Surgical strips are cut with sterile nonreactive tools. Chassis-grade sheets are thicker and include
+embedded mount
+points.
+
+Known components include translucent flesh-colored polymer body; internal phase-stability threading; Tear-Resistance
+Gauge; Thermal-Alignment Strip; sterile roll core; precision surgical backing; phase-bonding primer; desynchronization
+stress indicator; medical cut grid; and fabrication custody tag.
+
+PSS must not be used as cosmetic skin, novelty covering, or improvised electronics insulation.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -139,23 +157,6 @@ for a sentient subject, and the two carry
 different ethical controls. The material is deliberately flexible but never casual: it is not
 cosmetic skin,
 novelty covering, or improvised insulation.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-PSS is stored as translucent flesh-colored polymer rolled around a sterile core. It may
-look like ordinary medical
-silicone until angled light reveals faint internal alignment bands. Each roll includes a Tear-Resistance
-Gauge along
-the outer edge and a Thermal-Alignment Strip that changes shade across safe, cold, hot,
-and phase-stress ranges.
-Surgical strips are cut with sterile nonreactive tools. Chassis-grade sheets are thicker and include
-embedded mount
-points.
-
-Known components include translucent flesh-colored polymer body; internal phase-stability threading; Tear-Resistance
-Gauge; Thermal-Alignment Strip; sterile roll core; precision surgical backing; phase-bonding primer; desynchronization
-stress indicator; medical cut grid; and fabrication custody tag.
-
-PSS must not be used as cosmetic skin, novelty covering, or improvised electronics insulation.
 
 INTERFACE AND OPERATING ENVELOPE
 

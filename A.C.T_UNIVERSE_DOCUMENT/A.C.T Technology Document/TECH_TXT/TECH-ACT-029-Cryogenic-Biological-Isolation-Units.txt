@@ -101,6 +101,23 @@ Consciousness-adjacent cases, including anchor-linked host bodies, require Level
 may
 still be part of a speaking system.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+A standard CBI unit is a horizontal stasis coffin made of Abyssal Basalt and
+glass. The basalt provides mass,
+shielding, and psychic dampening. The glass uses an anti-crystallization coating and remains perfectly clear,
+allowing
+continuous visual review without opening the unit. The Cellular-Rhythm Monitor sits near the headboard
+and tracks
+rhythm, not only heartbeat. The Manual Hand-Pump provides emergency oxygenation when power or automated
+flow fails.
+
+Known components include Abyssal Basalt coffin body; clear anti-crystallization glass lid; Cellular-Rhythm Monitor;
+Manual Hand-Pump; resonant cooling coils; emergency oxygenation line; frost-pattern alarm; biohazard seal; transport
+cradle locks; and thaw authorization port.
+
+The unit should look calm. If it looks dramatic, something has already gone wrong.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -145,22 +162,6 @@ QUESTIONS.
 Resonant cooling is the difference between storage and damage: ordinary ice-crystal formation tears tissue
 apart. The unit should look calm, and if it looks dramatic something has already
 gone wrong.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-A standard CBI unit is a horizontal stasis coffin made of Abyssal Basalt and
-glass. The basalt provides mass,
-shielding, and psychic dampening. The glass uses an anti-crystallization coating and remains perfectly clear,
-allowing
-continuous visual review without opening the unit. The Cellular-Rhythm Monitor sits near the headboard
-and tracks
-rhythm, not only heartbeat. The Manual Hand-Pump provides emergency oxygenation when power or automated
-flow fails.
-
-Known components include Abyssal Basalt coffin body; clear anti-crystallization glass lid; Cellular-Rhythm Monitor;
-Manual Hand-Pump; resonant cooling coils; emergency oxygenation line; frost-pattern alarm; biohazard seal; transport
-cradle locks; and thaw authorization port.
-
-The unit should look calm. If it looks dramatic, something has already gone wrong.
 
 INTERFACE AND OPERATING ENVELOPE
 

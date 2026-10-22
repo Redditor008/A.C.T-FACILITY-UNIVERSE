@@ -92,6 +92,31 @@ real schedules and real cargo. Concealed recovery has controlled timing, restric
 and route
 integration with F-6 and F-5 systems.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+
+An MSPOS installation includes public piers, restricted service berths, scientific cargo lanes, concealed offload
+points, vessel identity scheduling, water-transfer sleeves, port security sightline control, submersible support bays,
+sample intake rooms, ordinary paperwork offices, and emergency harbor barriers. The system must support
+legitimate
+maritime research and concealed anomaly transfer without making either function unbelievable.
+
+Known components include:
+
+- public research vessel berth;
+- restricted service berth;
+- scientific cargo lane;
+- concealed offload point;
+- vessel schedule mask;
+- water-capable holding interface;
+- submersible support bay;
+- port sightline control;
+- sample intake room;
+- harbor incident ledger.
+
+The restricted berth is not hidden by emptiness. It is hidden by having a
+reason to be busy.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -136,30 +161,6 @@ The system does not pretend the port is inactive; the port is active because
 a real island research
 institute needs vessels, fuel, maintenance, and crews. Concealed work is inserted only after Security,
 Recovery, Logistics, and Cover agree the port can absorb it.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-
-An MSPOS installation includes public piers, restricted service berths, scientific cargo lanes, concealed offload
-points, vessel identity scheduling, water-transfer sleeves, port security sightline control, submersible support bays,
-sample intake rooms, ordinary paperwork offices, and emergency harbor barriers. The system must support
-legitimate
-maritime research and concealed anomaly transfer without making either function unbelievable.
-
-Known components include:
-
-- public research vessel berth;
-- restricted service berth;
-- scientific cargo lane;
-- concealed offload point;
-- vessel schedule mask;
-- water-capable holding interface;
-- submersible support bay;
-- port sightline control;
-- sample intake room;
-- harbor incident ledger.
-
-The restricted berth is not hidden by emptiness. It is hidden by having a
-reason to be busy.
 
 INTERFACE AND OPERATING ENVELOPE
 

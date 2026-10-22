@@ -100,6 +100,23 @@ RSA interval timing is restricted because a badly timed stabilizer may lock a fa
 a floor, or a containment wall at
 the exact moment it should flex.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+A standard CSS is a tripod-mounted industrial canister roughly the size of a field
+generator. It vents white nitrogen
+fog when active. The side screen displays Crustal Temperature Index, Tectonic Stress indices, coolant
+pressure, RSA
+interval synchronization, and causal heat load. The base houses a rotating piston sensor that
+vibrates with tremors
+and distinguishes ordinary movement from reality-seismic disagreement.
+
+Known components include tripod-mounted industrial canister; liquid nitrogen reservoir; rotating piston sensor;
+Crustal Temperature Index display; Tectonic Stress index display; vapor-release valve; internal redacted thermal-cell;
+wired remote with calibration sliders; RSA interval synchronization port; and emergency thaw command.
+
+The visible fog is not the containment effect. It is the waste sign of
+a colder argument happening below the floor.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -144,22 +161,6 @@ a colder argument happening below the
 floor. Engineering describes the intended result as making the crust hesitate long enough for
 containment
 systems to catch up.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-A standard CSS is a tripod-mounted industrial canister roughly the size of a field
-generator. It vents white nitrogen
-fog when active. The side screen displays Crustal Temperature Index, Tectonic Stress indices, coolant
-pressure, RSA
-interval synchronization, and causal heat load. The base houses a rotating piston sensor that
-vibrates with tremors
-and distinguishes ordinary movement from reality-seismic disagreement.
-
-Known components include tripod-mounted industrial canister; liquid nitrogen reservoir; rotating piston sensor;
-Crustal Temperature Index display; Tectonic Stress index display; vapor-release valve; internal redacted thermal-cell;
-wired remote with calibration sliders; RSA interval synchronization port; and emergency thaw command.
-
-The visible fog is not the containment effect. It is the waste sign of
-a colder argument happening below the floor.
 
 INTERFACE AND OPERATING ENVELOPE
 

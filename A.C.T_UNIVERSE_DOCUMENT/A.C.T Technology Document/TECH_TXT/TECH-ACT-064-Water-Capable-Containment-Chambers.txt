@@ -103,6 +103,32 @@ only how a subject dies.
 The Death Angler's Abyssal Aquarium is the most visible example, but WCCC doctrine applies
 beyond one resident.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+
+A WCCC unit contains sealed aquatic volume, marine-compatible wall material, compartmented water circulation, filtered
+intake and drain loops, resident-specific salinity control, visibility control, indirect sensor mounts, pressure
+interface ports, feeding locks, and emergency isolation valves. Chambers may be paired with Phase-Shifted
+Containment
+Glass, Sub-Abyssal Sonar, Digital Resonance Sensors, Banalist White-Noise systems, or Abyssal Anchor Plating when
+the
+resident file demands it.
+
+Known components include:
+
+- sealed aquatic chamber body;
+- marine-compatible inner lining;
+- salinity and chemistry control loop;
+- compartmented intake and drain valves;
+- indirect monitoring mount;
+- pressure interface port;
+- feeding and sample lock;
+- emergency water isolation gate;
+- biological waste filter;
+- chamber-status command panel.
+
+No WCCC chamber is filled, drained, heated, cleaned, or chemically adjusted without resident-specific authorization.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -145,31 +171,6 @@ Water is treated as structure, atmosphere, evidence, and sometimes part of the r
 field.
 The chamber cannot reproduce the entire sea: current, pressure, darkness, prey behaviour, mineral content,
 and ecological relationship may all be absent.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-
-A WCCC unit contains sealed aquatic volume, marine-compatible wall material, compartmented water circulation, filtered
-intake and drain loops, resident-specific salinity control, visibility control, indirect sensor mounts, pressure
-interface ports, feeding locks, and emergency isolation valves. Chambers may be paired with Phase-Shifted
-Containment
-Glass, Sub-Abyssal Sonar, Digital Resonance Sensors, Banalist White-Noise systems, or Abyssal Anchor Plating when
-the
-resident file demands it.
-
-Known components include:
-
-- sealed aquatic chamber body;
-- marine-compatible inner lining;
-- salinity and chemistry control loop;
-- compartmented intake and drain valves;
-- indirect monitoring mount;
-- pressure interface port;
-- feeding and sample lock;
-- emergency water isolation gate;
-- biological waste filter;
-- chamber-status command panel.
-
-No WCCC chamber is filled, drained, heated, cleaned, or chemically adjusted without resident-specific authorization.
 
 INTERFACE AND OPERATING ENVELOPE
 

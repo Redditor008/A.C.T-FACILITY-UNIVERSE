@@ -96,6 +96,30 @@ clearance technology: a combined record, access, screening, and duty-route syste
 as
 containment infrastructure.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+
+A PPRCS installation includes intake desks, identity verification stations, reserve clearance terminals, access-core
+enrollment equipment, personnel file storage, Medical flag interfaces, field-assignment review boards, cover-role
+separation ledgers, duty-cycle trackers, isolation-fatigue monitoring references, and command review terminals.
+
+Known components include:
+
+- arrival processing station;
+- reserve identity verification terminal;
+- clearance assignment board;
+- access-core credential writer;
+- personnel duty ledger;
+- Medical exposure and fatigue flag interface;
+- Environmental Containment suitability note;
+- public-campus cover-role ledger;
+- field-sector assignment approval queue;
+- denial and removal review file.
+
+The system keeps personnel records close to command because staffing failures at Verde Null
+can become containment
+failures.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -143,29 +167,6 @@ a campus employee
 holding enclosure credentials is a cover breach waiting for a single misplaced badge, and
 a campus role that
 cannot be performed by its holder is a different kind of failure.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-
-A PPRCS installation includes intake desks, identity verification stations, reserve clearance terminals, access-core
-enrollment equipment, personnel file storage, Medical flag interfaces, field-assignment review boards, cover-role
-separation ledgers, duty-cycle trackers, isolation-fatigue monitoring references, and command review terminals.
-
-Known components include:
-
-- arrival processing station;
-- reserve identity verification terminal;
-- clearance assignment board;
-- access-core credential writer;
-- personnel duty ledger;
-- Medical exposure and fatigue flag interface;
-- Environmental Containment suitability note;
-- public-campus cover-role ledger;
-- field-sector assignment approval queue;
-- denial and removal review file.
-
-The system keeps personnel records close to command because staffing failures at Verde Null
-can become containment
-failures.
 
 INTERFACE AND OPERATING ENVELOPE
 

@@ -96,6 +96,23 @@ Air handling is compartmented so one vault atmosphere cannot reach another. The 
 binds these pieces into
 one action: separate the terminal floor from everything above it.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+
+F1-CS is not a single sealed door. It is a sequence of mechanical, electrical,
+atmospheric, procedural, and command
+locks distributed across the floor and its access path. The access core is a
+checkpoint sequence before normal
+operation; during closure, it becomes the main severance line. The service ring can be
+isolated from site-wide routes.
+The emergency plant carries the floor's full containment and environmental load.
+
+Known components include access-core severance gate; resident-specific authorization interlock; service-ring isolation
+valves; independent emergency plant; compartmented air handling shutters; hardened command link; closure status board;
+vault-gallery pressure sensors; reentry authorization lock; and post-closure evidence ledger.
+
+The system is drilled because hesitation is treated as a failure mode.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -141,22 +158,6 @@ carries a human cost by design
 because it may trap personnel inside with the event that caused the closure, and
 hesitation is treated as a
 failure mode.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-
-F1-CS is not a single sealed door. It is a sequence of mechanical, electrical,
-atmospheric, procedural, and command
-locks distributed across the floor and its access path. The access core is a
-checkpoint sequence before normal
-operation; during closure, it becomes the main severance line. The service ring can be
-isolated from site-wide routes.
-The emergency plant carries the floor's full containment and environmental load.
-
-Known components include access-core severance gate; resident-specific authorization interlock; service-ring isolation
-valves; independent emergency plant; compartmented air handling shutters; hardened command link; closure status board;
-vault-gallery pressure sensors; reentry authorization lock; and post-closure evidence ledger.
-
-The system is drilled because hesitation is treated as a failure mode.
 
 INTERFACE AND OPERATING ENVELOPE
 

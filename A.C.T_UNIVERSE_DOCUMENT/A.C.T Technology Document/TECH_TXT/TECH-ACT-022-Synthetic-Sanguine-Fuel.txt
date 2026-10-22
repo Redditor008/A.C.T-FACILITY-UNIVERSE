@@ -101,6 +101,22 @@ Formula details remain restricted because hostile groups could use SSF to bait, 
 weaponize blood-fuel
 dependent entities.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+SSF is stored in industrial-grade blue canisters. The fluid is deep red, viscous, and
+warm when correctly maintained.
+The friction-less magnetic pump prevents ordinary mechanical grinding from denaturing the mixture. The dispensing
+valve includes a digital O2-saturation monitor, and the handle display shows current temperature. Internal
+thermal
+coils maintain 37 degrees C unless a subject file specifies a different range.
+
+Known components include blue industrial canister; deep red viscous SSF reservoir; friction-less magnetic pump;
+O2-saturation monitor; internal thermal coil; temperature handle display; subject-mixture tag; sterile line connector;
+backflow lock; and disposal seal for rejected fuel.
+
+Any canister without a readable subject tag is treated as unissued stock and cannot
+be fed to a contained subject.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -143,21 +159,6 @@ Any canister without a readable subject tag is unissued stock and cannot be fed
 to a contained subject. The
 fuel imitates enough biological function to sustain containment without providing a full living prey
 event.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-SSF is stored in industrial-grade blue canisters. The fluid is deep red, viscous, and
-warm when correctly maintained.
-The friction-less magnetic pump prevents ordinary mechanical grinding from denaturing the mixture. The dispensing
-valve includes a digital O2-saturation monitor, and the handle display shows current temperature. Internal
-thermal
-coils maintain 37 degrees C unless a subject file specifies a different range.
-
-Known components include blue industrial canister; deep red viscous SSF reservoir; friction-less magnetic pump;
-O2-saturation monitor; internal thermal coil; temperature handle display; subject-mixture tag; sterile line connector;
-backflow lock; and disposal seal for rejected fuel.
-
-Any canister without a readable subject tag is treated as unissued stock and cannot
-be fed to a contained subject.
 
 INTERFACE AND OPERATING ENVELOPE
 

@@ -93,6 +93,30 @@ authorization side of that work. It preserves how a document was filtered, who a
 release, what risks remained,
 and why the final version was judged safe enough to leave the cell.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+
+A RRAFRS installation includes redaction workroom terminals, controlled-reading record feeds, filtering history
+vaults, release authorization panels, safe-copy comparison tools, source-to-release chain ledgers, Intelligence review
+fields, Medical exposure notation, recall trigger files, and Archive custody export locks.
+
+Known components include:
+
+- redaction decision terminal;
+- source custody ledger;
+- controlled-reading history feed;
+- memetic filtering action log;
+- minimum-release checklist;
+- safe-copy comparison pane;
+- release authorization panel;
+- Intelligence objection field;
+- Medical exposure note channel;
+- recall and rollback trigger file.
+
+The system's output is not merely a cleaner document. Its output is a documented
+reason the cleaner document is
+allowed to exist.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -141,29 +165,6 @@ overrelease harms the archive, but only one of those can be undone, which is
 why the recall and rollback
 file is treated as part of the decision rather than as a consequence of
 it.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-
-A RRAFRS installation includes redaction workroom terminals, controlled-reading record feeds, filtering history
-vaults, release authorization panels, safe-copy comparison tools, source-to-release chain ledgers, Intelligence review
-fields, Medical exposure notation, recall trigger files, and Archive custody export locks.
-
-Known components include:
-
-- redaction decision terminal;
-- source custody ledger;
-- controlled-reading history feed;
-- memetic filtering action log;
-- minimum-release checklist;
-- safe-copy comparison pane;
-- release authorization panel;
-- Intelligence objection field;
-- Medical exposure note channel;
-- recall and rollback trigger file.
-
-The system's output is not merely a cleaner document. Its output is a documented
-reason the cleaner document is
-allowed to exist.
 
 INTERFACE AND OPERATING ENVELOPE
 

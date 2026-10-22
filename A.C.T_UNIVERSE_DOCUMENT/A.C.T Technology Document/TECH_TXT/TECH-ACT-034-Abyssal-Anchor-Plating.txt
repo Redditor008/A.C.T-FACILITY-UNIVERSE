@@ -103,6 +103,25 @@ The wall promises not to flex. The plate promises not to ring. The anchor
 promises not to drift. If one part lies, the
 whole enclosure starts negotiating with the anomaly.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+A standard AAP tile is matte black, colder than the surrounding wall, and noticeably
+quiet under direct touch. The
+face is crossed by hexagonal reinforcement grooves. The rear surface carries anchoring ribs that
+bite into prepared
+Abyssal Masonry. Internal layers include tungsten reinforcement, thermal-sink channels, resonance-spread mesh, sealant
+locks, and diagnostic points. Installed plating often makes a room feel acoustically smaller because
+sound is absorbed
+into the plate grid rather than reflected normally.
+
+Known components include interlocking matte-black tile face; hexagonal reinforcement groove field; tungsten load
+lattice; Abyssal Masonry anchor ribs; internal thermal-sink layer; acoustic absorption face; resonance-spread mesh;
+seam-pressure locks; cold-contact diagnostic strip; and anchor-load inspection port.
+
+The plate is not installed alone. It requires masonry backing, load mapping, seam survey,
+and post-installation quiet
+testing.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -146,24 +165,6 @@ tile shares stress with its
 neighbours through interlocking edges, so a grid that returns stress into the room is
 failing in the one way
 the design was meant to prevent.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-A standard AAP tile is matte black, colder than the surrounding wall, and noticeably
-quiet under direct touch. The
-face is crossed by hexagonal reinforcement grooves. The rear surface carries anchoring ribs that
-bite into prepared
-Abyssal Masonry. Internal layers include tungsten reinforcement, thermal-sink channels, resonance-spread mesh, sealant
-locks, and diagnostic points. Installed plating often makes a room feel acoustically smaller because
-sound is absorbed
-into the plate grid rather than reflected normally.
-
-Known components include interlocking matte-black tile face; hexagonal reinforcement groove field; tungsten load
-lattice; Abyssal Masonry anchor ribs; internal thermal-sink layer; acoustic absorption face; resonance-spread mesh;
-seam-pressure locks; cold-contact diagnostic strip; and anchor-load inspection port.
-
-The plate is not installed alone. It requires masonry backing, load mapping, seam survey,
-and post-installation quiet
-testing.
 
 INTERFACE AND OPERATING ENVELOPE
 

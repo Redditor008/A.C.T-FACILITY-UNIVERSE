@@ -123,6 +123,40 @@ usable, and cannot verify a new interface against anything except an existing on
 
 ---
 
+PHYSICAL AND SYSTEM DESCRIPTION
+
+Matte-black carbon-tungsten spurs, paired, mounted to a pelvic frame that sits against the sacrum.
+The finish is
+non-reflective and does not take polish; attempts to polish it produce a dulling that
+Engineering has not been able to
+reverse.
+
+Components:
+
+- **spur bodies**, carbon-tungsten, replaceable, wear visibly and are retired on measurement rather than
+on schedule;
+- **High-Speed Pneumatic Pistons**, one per spur, serviceable by Engineering, the only fully understood
+part of the
+system;
+- **Bio-Feed Connector**, seated against the sacral nerve group, the sole control path;
+- **pelvic frame**, adjustable, load-bearing, transfers stroke recoil into the operator's core;
+- **manual disconnect**, present on every fitted unit, which severs the bio-feed but does
+not remove the implant.
+
+The connector has no readable output, no indicator, and no diagnostic port. An operator
+knows the spurs are live by
+feel. Medical Division records this as the system's most significant safety defect: there is
+no way for anyone other
+than the operator to confirm the interface is functioning, degraded, or misfiring.
+
+Wear behaviour is unusual. Spur bodies degrade at rates that do not correlate with
+stroke count, and retired spurs
+have been observed to differ in mass from their recorded issue weight by amounts
+Engineering cannot account for.
+
+---
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -169,39 +203,6 @@ explain them, and the record is written to that limit. Anchoring and piercing ar
 the same stroke read two ways, so the system cannot be issued as one
 and not the other; it is loud, it damages the surface it enters, and
 it has never been issued as a stealth asset.
-
-PHYSICAL AND SYSTEM DESCRIPTION
-
-Matte-black carbon-tungsten spurs, paired, mounted to a pelvic frame that sits against the sacrum.
-The finish is
-non-reflective and does not take polish; attempts to polish it produce a dulling that
-Engineering has not been able to
-reverse.
-
-Components:
-
-- **spur bodies**, carbon-tungsten, replaceable, wear visibly and are retired on measurement rather than
-on schedule;
-- **High-Speed Pneumatic Pistons**, one per spur, serviceable by Engineering, the only fully understood
-part of the
-system;
-- **Bio-Feed Connector**, seated against the sacral nerve group, the sole control path;
-- **pelvic frame**, adjustable, load-bearing, transfers stroke recoil into the operator's core;
-- **manual disconnect**, present on every fitted unit, which severs the bio-feed but does
-not remove the implant.
-
-The connector has no readable output, no indicator, and no diagnostic port. An operator
-knows the spurs are live by
-feel. Medical Division records this as the system's most significant safety defect: there is
-no way for anyone other
-than the operator to confirm the interface is functioning, degraded, or misfiring.
-
-Wear behaviour is unusual. Spur bodies degrade at rates that do not correlate with
-stroke count, and retired spurs
-have been observed to differ in mass from their recorded issue weight by amounts
-Engineering cannot account for.
-
----
 
 FITMENT AND BIO-FEED INTEGRATION
 

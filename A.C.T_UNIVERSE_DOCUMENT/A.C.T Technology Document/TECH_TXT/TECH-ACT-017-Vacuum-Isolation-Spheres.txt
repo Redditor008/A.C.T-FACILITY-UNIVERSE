@@ -101,6 +101,26 @@ Historical Custody keeps a separate register for pre-modern spheres because olde
 design habits,
 maker marks, or undocumented seals not present in current models.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+The standard VIS is a seamless two-meter sphere of milky-white opaque glass-ceramic. The opacity
+is deliberate. Staff
+should not assume that an acoustic hazard cannot also have a visual component. Exterior
+acoustic decibel sensors
+measure vibration transfer through the shell and mounting cradle. The mechanical pressure disc gives
+a physical
+reading of internal vacuum even when the digital monitor fails. The heavy circular hatch
+includes a digital keypad and
+a manual override wheel made of anti-magnetic brass alloy.
+
+Known components include milky-white opaque glass-ceramic sphere; external acoustic decibel sensors; mechanical
+pressure disc; heavy circular hatch; digital keypad; anti-magnetic brass override wheel; internal atmospheric purity
+monitor; decibel count display; shell vibration gasket; and evidence cradle or suspension rack.
+
+A clean VIS looks simple. That simplicity is part of its strength. Fewer internal
+surfaces means fewer places for
+resonance to hide.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -146,25 +166,6 @@ interior stays plain. The
 2018 request for a transparent shell was refused for the same reason the glass-ceramic
 is opaque in the
 first place.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-The standard VIS is a seamless two-meter sphere of milky-white opaque glass-ceramic. The opacity
-is deliberate. Staff
-should not assume that an acoustic hazard cannot also have a visual component. Exterior
-acoustic decibel sensors
-measure vibration transfer through the shell and mounting cradle. The mechanical pressure disc gives
-a physical
-reading of internal vacuum even when the digital monitor fails. The heavy circular hatch
-includes a digital keypad and
-a manual override wheel made of anti-magnetic brass alloy.
-
-Known components include milky-white opaque glass-ceramic sphere; external acoustic decibel sensors; mechanical
-pressure disc; heavy circular hatch; digital keypad; anti-magnetic brass override wheel; internal atmospheric purity
-monitor; decibel count display; shell vibration gasket; and evidence cradle or suspension rack.
-
-A clean VIS looks simple. That simplicity is part of its strength. Fewer internal
-surfaces means fewer places for
-resonance to hide.
 
 INTERFACE AND OPERATING ENVELOPE
 

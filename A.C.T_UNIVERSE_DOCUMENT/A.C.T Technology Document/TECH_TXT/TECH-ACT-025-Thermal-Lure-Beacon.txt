@@ -104,6 +104,24 @@ High-output settings are restricted because a lure bright enough to redirect an 
 may also cook a room,
 trigger mating behavior, or attract the wrong organism.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+A standard TLB is a floor-standing industrial lamp on a weighted base. The folding
+Focus Hood shapes the beam. The
+output appears dark orange when visible, though much of its lure value is infrared.
+A Digital Heat-Dial controls
+intensity and ramp speed. The base contains a redacted-grade cooling unit that prevents the
+housing from melting
+during sustained use. Field models have carry handles and locking legs. Habitat models may
+be wall or track mounted.
+
+Known components include floor-standing lamp housing; folding Focus Hood; Digital Heat-Dial; dark orange directional
+beam; cooling unit; ramp-speed limiter; thermal spill sensor; subject-profile setting tag; emergency shutter; and
+post-use heat log.
+
+A clean beam is more important than a bright beam. Scatter can create several
+false targets and confuse the subject.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -145,23 +163,6 @@ Maximum output, Beam angle and throw. Each is filed under OPEN QUESTIONS.
 A clean beam matters more than a bright one, because scatter creates several false
 targets and confuses the
 subject. The beacon offers a better option; it does not issue a command.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-A standard TLB is a floor-standing industrial lamp on a weighted base. The folding
-Focus Hood shapes the beam. The
-output appears dark orange when visible, though much of its lure value is infrared.
-A Digital Heat-Dial controls
-intensity and ramp speed. The base contains a redacted-grade cooling unit that prevents the
-housing from melting
-during sustained use. Field models have carry handles and locking legs. Habitat models may
-be wall or track mounted.
-
-Known components include floor-standing lamp housing; folding Focus Hood; Digital Heat-Dial; dark orange directional
-beam; cooling unit; ramp-speed limiter; thermal spill sensor; subject-profile setting tag; emergency shutter; and
-post-use heat log.
-
-A clean beam is more important than a bright beam. Scatter can create several
-false targets and confuse the subject.
 
 INTERFACE AND OPERATING ENVELOPE
 

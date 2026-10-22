@@ -104,6 +104,27 @@ produced psychic effect, altered gravity, carried disease, provoked caretakers, 
 ways that
 worsened containment. RIC became the ancestor of the Massive Box, not its final form.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+
+A standard RIC installation used multi-layered iron hulls, cross-braced bars, riveted plates, external locking
+beams,
+heavy hinge trees, service slots, reinforced floor pins, and inspection galleries set outside reach.
+Some cages
+included sliding feed drawers, drainage troughs, chain points, and emergency drop shutters. Surviving examples
+show
+repeated patching and mismatched ironwork from decades of repair.
+
+Known components include layered iron hull; cross-braced containment bars; riveted outer plate; external locking
+beam;
+heavy hinge tree; floor pin socket; feed drawer and service slot; inspection gallery rail;
+emergency drop shutter; and
+repair plate ledger mark.
+
+No RIC structure is treated as resident-ready without modern review. Iron can preserve old
+force while hiding old
+fatigue.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -146,26 +167,6 @@ No RIC structure is treated as resident-ready without modern review, because iro
 old force
 while hiding old fatigue. The system did not solve modern containment; it created the
 vocabulary for it.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-
-A standard RIC installation used multi-layered iron hulls, cross-braced bars, riveted plates, external locking
-beams,
-heavy hinge trees, service slots, reinforced floor pins, and inspection galleries set outside reach.
-Some cages
-included sliding feed drawers, drainage troughs, chain points, and emergency drop shutters. Surviving examples
-show
-repeated patching and mismatched ironwork from decades of repair.
-
-Known components include layered iron hull; cross-braced containment bars; riveted outer plate; external locking
-beam;
-heavy hinge tree; floor pin socket; feed drawer and service slot; inspection gallery rail;
-emergency drop shutter; and
-repair plate ledger mark.
-
-No RIC structure is treated as resident-ready without modern review. Iron can preserve old
-force while hiding old
-fatigue.
 
 INTERFACE AND OPERATING ENVELOPE
 

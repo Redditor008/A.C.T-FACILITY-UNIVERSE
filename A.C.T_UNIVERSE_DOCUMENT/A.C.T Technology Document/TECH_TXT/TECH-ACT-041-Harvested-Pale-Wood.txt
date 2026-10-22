@@ -103,6 +103,24 @@ yard. Each plank must justify why the risk
 of crossing the threshold, disturbing local ecology, and importing dimensional material is worth the
 use.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+Prepared HPW appears as white or bone-pale timber with no bark. The surface feels
+like polished bone rather than Earth
+wood. A low-level pearlescent sheen may appear under angled light. Grain patterns are subtle,
+sometimes visible only
+after cold condensation or ultraviolet inspection. Each plank receives a microscopic restricted ID tag
+for location
+tracking, orientation, harvest point, gold-tool history, dust capture state, and storage assignment.
+
+Known material and custody elements include white barkless timber body; polished-bone tactile surface; low-level
+pearlescent sheen; clear ozone-scented sap residues; microscopic restricted ID tag; harvest-orientation mark;
+gold-tool modification log; dust-capture seal; dry storage cradle; and Dark World residue inspection swab.
+
+HPW dust is active custody material. Dust from cutting, drilling, shaping, or sample preparation
+is sealed and
+tracked.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -147,23 +165,6 @@ handler with gold alter what
 ordinary force cannot. Dust is active custody material, not waste, and shared work zones
 are treated as
 contamination events.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-Prepared HPW appears as white or bone-pale timber with no bark. The surface feels
-like polished bone rather than Earth
-wood. A low-level pearlescent sheen may appear under angled light. Grain patterns are subtle,
-sometimes visible only
-after cold condensation or ultraviolet inspection. Each plank receives a microscopic restricted ID tag
-for location
-tracking, orientation, harvest point, gold-tool history, dust capture state, and storage assignment.
-
-Known material and custody elements include white barkless timber body; polished-bone tactile surface; low-level
-pearlescent sheen; clear ozone-scented sap residues; microscopic restricted ID tag; harvest-orientation mark;
-gold-tool modification log; dust-capture seal; dry storage cradle; and Dark World residue inspection swab.
-
-HPW dust is active custody material. Dust from cutting, drilling, shaping, or sample preparation
-is sealed and
-tracked.
 
 INTERFACE AND OPERATING ENVELOPE
 

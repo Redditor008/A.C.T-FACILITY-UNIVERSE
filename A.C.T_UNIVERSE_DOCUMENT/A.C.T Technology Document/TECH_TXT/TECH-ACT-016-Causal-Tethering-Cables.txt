@@ -112,6 +112,25 @@ The phase-lock geometry remains restricted because a hostile group could use sto
 to anchor
 contraband through site boundaries or pull A.C.T equipment out of alignment.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+A standard CTC line is a five-centimeter iridescent industrial cable with visible carbon-fiber reinforcement
+weave.
+The surface shifts color under stress, usually violet, blue, green, or dull silver. Oversized
+connectors sit at both
+ends and engage with a heavy bolt sound when the phase lock seats. The
+internal liquid-cooling channels prevent the
+alloy from overheating or shattering when causal load rises faster than physical load.
+
+Known components include iridescent high-tensile cable body; carbon-fiber reinforcement weave; oversized phase-lock
+connectors; internal liquid-cooling channels; digital shunt displays every five meters; causal tension readout;
+ontological drag readout; heat warning band; emergency release collar; and post-use stress memory tag.
+
+A cable that looks slack may still carry severe ontological drag. A cable that
+looks taut may be physically tense but
+causally safe. Operators are trained to read the shunt displays instead of judging by
+appearance.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -158,24 +177,6 @@ ontological drag, and a line that
 looks taut may be physically tense but causally safe, which is why the shunt
 displays are spaced along the
 run instead of sitting only at the ends.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-A standard CTC line is a five-centimeter iridescent industrial cable with visible carbon-fiber reinforcement
-weave.
-The surface shifts color under stress, usually violet, blue, green, or dull silver. Oversized
-connectors sit at both
-ends and engage with a heavy bolt sound when the phase lock seats. The
-internal liquid-cooling channels prevent the
-alloy from overheating or shattering when causal load rises faster than physical load.
-
-Known components include iridescent high-tensile cable body; carbon-fiber reinforcement weave; oversized phase-lock
-connectors; internal liquid-cooling channels; digital shunt displays every five meters; causal tension readout;
-ontological drag readout; heat warning band; emergency release collar; and post-use stress memory tag.
-
-A cable that looks slack may still carry severe ontological drag. A cable that
-looks taut may be physically tense but
-causally safe. Operators are trained to read the shunt displays instead of judging by
-appearance.
 
 INTERFACE AND OPERATING ENVELOPE
 

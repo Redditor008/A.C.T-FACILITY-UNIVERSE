@@ -99,6 +99,26 @@ Current deployment remains isolated by hardware. Wired uplink is required so ope
 when and how mission
 parameters entered the cube.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+A standard VPT-AI core is an armored black cube mounted on a vibration-damped tactical
+base. A rotating sensor turret
+rises from the top face. The front-facing green eye lens houses restricted pattern-recognition optics.
+The rear panel
+contains the wired tactical uplink port, physical mission key slot, cooling vents, status lights,
+and an emergency
+logic-seal switch. The cube is heavy enough that field teams do not carry it
+casually; it is usually deployed on a
+command bench, drone cradle, or sealed simulation rack.
+
+Known components include armored black cube chassis; rotating sensor turret; green recognition eye lens;
+restricted
+pattern-recognition board; wired tactical uplink port; physical mission key slot; isolated combat-logic core; drone
+command output bus; simulation sandbox memory; and emergency logic-seal switch.
+
+The green lens must remain covered when the system is not in active use.
+Idle pattern collection is prohibited.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -143,25 +163,6 @@ The system is intentionally isolated: it is not connected to site intelligence, 
 personnel
 files, or open archive records. The green lens stays covered when the core is
 not on an authorised mission.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-A standard VPT-AI core is an armored black cube mounted on a vibration-damped tactical
-base. A rotating sensor turret
-rises from the top face. The front-facing green eye lens houses restricted pattern-recognition optics.
-The rear panel
-contains the wired tactical uplink port, physical mission key slot, cooling vents, status lights,
-and an emergency
-logic-seal switch. The cube is heavy enough that field teams do not carry it
-casually; it is usually deployed on a
-command bench, drone cradle, or sealed simulation rack.
-
-Known components include armored black cube chassis; rotating sensor turret; green recognition eye lens;
-restricted
-pattern-recognition board; wired tactical uplink port; physical mission key slot; isolated combat-logic core; drone
-command output bus; simulation sandbox memory; and emergency logic-seal switch.
-
-The green lens must remain covered when the system is not in active use.
-Idle pattern collection is prohibited.
 
 INTERFACE AND OPERATING ENVELOPE
 

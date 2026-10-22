@@ -100,6 +100,24 @@ under Archive custody.
 AISS exists because an archive without intake discipline is not an archive. It is
 a breach waiting for a label.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+
+AISS installations sit between reception and routing. A standard suite includes controlled tables, document
+cradles,
+isolated media readers, evidence trays, low-exposure viewing panels, intake terminals, route locks, item status
+lights, and monitoring that records every movement through the process. Environmental systems preserve documents
+while
+allowing suite-by-suite regulation for suspect material.
+
+Known components include reception transfer hatch; intake logging terminal; controlled screening table; document
+cradle; isolated media reader; low-exposure viewing panel; triage status light; cleared-material route lock;
+anomalous-material route lock; and chain-of-custody printer.
+
+The dual routing architecture is treated as part of the technology. One door sends
+cleared material upward or outward.
+The other sends anomalous material downward under controlled protocol.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -143,23 +161,6 @@ upward or outward,
 the other sends anomalous material deeper. A screening suite is not a room full
 of desks, and screening is
 not interpretation.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-
-AISS installations sit between reception and routing. A standard suite includes controlled tables, document
-cradles,
-isolated media readers, evidence trays, low-exposure viewing panels, intake terminals, route locks, item status
-lights, and monitoring that records every movement through the process. Environmental systems preserve documents
-while
-allowing suite-by-suite regulation for suspect material.
-
-Known components include reception transfer hatch; intake logging terminal; controlled screening table; document
-cradle; isolated media reader; low-exposure viewing panel; triage status light; cleared-material route lock;
-anomalous-material route lock; and chain-of-custody printer.
-
-The dual routing architecture is treated as part of the technology. One door sends
-cleared material upward or outward.
-The other sends anomalous material downward under controlled protocol.
 
 INTERFACE AND OPERATING ENVELOPE
 

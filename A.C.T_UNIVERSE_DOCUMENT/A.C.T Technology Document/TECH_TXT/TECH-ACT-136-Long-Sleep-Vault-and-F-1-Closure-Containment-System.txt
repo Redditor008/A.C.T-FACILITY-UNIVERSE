@@ -103,6 +103,31 @@ natural end of
 custody. The system exists to preserve a state that may need to last longer
 than personnel, programs, or assumptions.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+
+A LSVF1CCS installation includes a single access core descending from F-2, resident-specific checkpoint sequence,
+sleep vault gallery, independent vault shells, monitoring gallery, service ring, duplicated environmental plant,
+independent emergency power plant, archive alcove, command post, peripheral intrusion sensors, utility-routing
+monitors, and floor closure barriers.
+
+Known components include:
+
+- individual sleep vault;
+- resident environmental envelope;
+- sleep-state monitoring suite;
+- deep-cold reinforcement shell;
+- duplicated environmental plant;
+- independent emergency power plant;
+- access-core checkpoint sequence;
+- vault gallery isolation gate;
+- service-ring separation route;
+- F-1 closure severance barrier.
+
+The vaults are engineered as separate containment problems. The floor avoids shared structure where
+possible because
+no resident of the Long Sleep is allowed to borrow another resident's failure.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -148,30 +173,6 @@ deeper walls. The doctrine refuses to treat release as the expected outcome, so 
 vault is built to keep holding with nobody on the floor: deep-cold reinforcement, a
 duplicated environmental plant, and an emergency power source that shares nothing with the station
 above.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-
-A LSVF1CCS installation includes a single access core descending from F-2, resident-specific checkpoint sequence,
-sleep vault gallery, independent vault shells, monitoring gallery, service ring, duplicated environmental plant,
-independent emergency power plant, archive alcove, command post, peripheral intrusion sensors, utility-routing
-monitors, and floor closure barriers.
-
-Known components include:
-
-- individual sleep vault;
-- resident environmental envelope;
-- sleep-state monitoring suite;
-- deep-cold reinforcement shell;
-- duplicated environmental plant;
-- independent emergency power plant;
-- access-core checkpoint sequence;
-- vault gallery isolation gate;
-- service-ring separation route;
-- F-1 closure severance barrier.
-
-The vaults are engineered as separate containment problems. The floor avoids shared structure where
-possible because
-no resident of the Long Sleep is allowed to borrow another resident's failure.
 
 INTERFACE AND OPERATING ENVELOPE
 

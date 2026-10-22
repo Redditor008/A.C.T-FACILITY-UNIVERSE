@@ -113,6 +113,34 @@ whether the material grows faster when used heavily. This uncertainty is not dec
 prospecting,
 discarded chips, and black-market replicas are treated as direct threats to containment infrastructure.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+Registered Static-Pulse Crystal appears as raw violet shards with internal pale flashes. Larger pieces
+may show four
+natural stress lines that appear useful for RSA cutting, though Engineering does not trust
+natural lines without
+instrument confirmation. Active pieces feel cooler than the surrounding room until they are loaded
+into a system. Once
+loaded, the crystal produces vibration-heat that must be tracked by digital temperature gauges and
+dampening cases.
+
+Known packaging includes red or black dampening cases with internal suspension foam; digital temperature-gauge
+lids;
+vibration-heat alarm strips; shard orientation marks; dual-seal custody locks; and insulated waste capsules for
+powder, dust, failed slivers, and cracked corners.
+
+Known processed forms include uncut source shards, quarter-core segments, calibration chips, dead reference chips,
+and
+fracture quarantine pieces. Only the first three are approved for normal use. Dead reference
+chips remain in teaching
+kits only after Materials Custody confirms that they hold no active pulse. Fracture quarantine
+pieces are not training
+aids.
+
+A normal case label gives designation, mass band, thermal band, pulse band, handler initials,
+and last contact date.
+It does not list source tunnel, source depth, cutting plan, or compatible RSA geometry.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -160,33 +188,6 @@ That
 omission is a custody control rather than an oversight: a case that leaves Materials
 Custody should not
 carry enough information for someone to rebuild a core from it.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-Registered Static-Pulse Crystal appears as raw violet shards with internal pale flashes. Larger pieces
-may show four
-natural stress lines that appear useful for RSA cutting, though Engineering does not trust
-natural lines without
-instrument confirmation. Active pieces feel cooler than the surrounding room until they are loaded
-into a system. Once
-loaded, the crystal produces vibration-heat that must be tracked by digital temperature gauges and
-dampening cases.
-
-Known packaging includes red or black dampening cases with internal suspension foam; digital temperature-gauge
-lids;
-vibration-heat alarm strips; shard orientation marks; dual-seal custody locks; and insulated waste capsules for
-powder, dust, failed slivers, and cracked corners.
-
-Known processed forms include uncut source shards, quarter-core segments, calibration chips, dead reference chips,
-and
-fracture quarantine pieces. Only the first three are approved for normal use. Dead reference
-chips remain in teaching
-kits only after Materials Custody confirms that they hold no active pulse. Fracture quarantine
-pieces are not training
-aids.
-
-A normal case label gives designation, mass band, thermal band, pulse band, handler initials,
-and last contact date.
-It does not list source tunnel, source depth, cutting plan, or compatible RSA geometry.
 
 INTERFACE AND OPERATING ENVELOPE
 

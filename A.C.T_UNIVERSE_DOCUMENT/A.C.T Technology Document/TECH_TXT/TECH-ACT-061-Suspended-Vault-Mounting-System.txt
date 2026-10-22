@@ -99,6 +99,24 @@ residents are literally above, within, and around them in suspended masses whose
 be checked rather than
 assumed.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+
+A standard SVMS installation includes a dedicated vault shaft, upper anchor frame, lower tension
+frame, dampened
+mountings, structural witness lines, vibration sensors, access isolation points, service-flex routes, and a floor-side
+inspection gallery. The vault body itself varies by resident. The mounting system must therefore
+be designed around
+the resident's restriction set, expected movement, environmental load, observation limits, and closure behavior.
+
+Known components include resident vault shaft; upper anchor frame; lower tension frame; dampened mounting
+cluster;
+vibration isolation pad; structural witness line; shaft pressure sensor; service-flex route; inspection gallery port;
+and emergency lowering denial lock.
+
+The emergency lowering denial lock exists because not every crisis is solved by putting
+the vault on the floor.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -141,23 +159,6 @@ The system does not make a resident safe; it prevents the building from helping
 the resident by accident.
 The lowering denial lock exists because not every crisis is solved by putting the
 vault down.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-
-A standard SVMS installation includes a dedicated vault shaft, upper anchor frame, lower tension
-frame, dampened
-mountings, structural witness lines, vibration sensors, access isolation points, service-flex routes, and a floor-side
-inspection gallery. The vault body itself varies by resident. The mounting system must therefore
-be designed around
-the resident's restriction set, expected movement, environmental load, observation limits, and closure behavior.
-
-Known components include resident vault shaft; upper anchor frame; lower tension frame; dampened mounting
-cluster;
-vibration isolation pad; structural witness line; shaft pressure sensor; service-flex route; inspection gallery port;
-and emergency lowering denial lock.
-
-The emergency lowering denial lock exists because not every crisis is solved by putting
-the vault on the floor.
 
 INTERFACE AND OPERATING ENVELOPE
 

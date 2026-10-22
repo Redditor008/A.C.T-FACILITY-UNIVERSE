@@ -94,6 +94,31 @@ written into ICHS through custody clocks, transfer schedules, suppression monito
 Grave
 disposition control. A stable frozen case is still a transient case.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+
+An ICHS installation includes intake and staging bay, cryogenic storage units, suppression monitoring stations,
+transfer preparation area, environmental control trunks, documentation alcove, floor command post, emergency power,
+sealed access controls, and F-1 closure hardware. Storage units are arranged for observation and
+extraction rather
+than resident comfort.
+
+Known components include:
+
+- cold intake staging bay;
+- cryogenic storage unit row;
+- suppression monitoring station;
+- transfer preparation cradle;
+- biological state recorder;
+- custody clock board;
+- parent-station disposition terminal;
+- emergency power and thermal buffer;
+- F-1 closure control;
+- silent removal authorization file.
+
+The system is considered active even when empty, because seasonal pressure can return without
+warning.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -141,30 +166,6 @@ because arctic transport
 disruption routinely turns a short hold into a season. The thermal buffer protects the
 material; the clock
 protects the doctrine.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-
-An ICHS installation includes intake and staging bay, cryogenic storage units, suppression monitoring stations,
-transfer preparation area, environmental control trunks, documentation alcove, floor command post, emergency power,
-sealed access controls, and F-1 closure hardware. Storage units are arranged for observation and
-extraction rather
-than resident comfort.
-
-Known components include:
-
-- cold intake staging bay;
-- cryogenic storage unit row;
-- suppression monitoring station;
-- transfer preparation cradle;
-- biological state recorder;
-- custody clock board;
-- parent-station disposition terminal;
-- emergency power and thermal buffer;
-- F-1 closure control;
-- silent removal authorization file.
-
-The system is considered active even when empty, because seasonal pressure can return without
-warning.
 
 INTERFACE AND OPERATING ENVELOPE
 

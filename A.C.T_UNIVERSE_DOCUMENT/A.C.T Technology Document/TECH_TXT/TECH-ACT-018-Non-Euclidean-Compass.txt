@@ -110,6 +110,27 @@ Narrative North calibration remains restricted because an enemy that knows how A
 pressure
 could build false routes that feel official to the instrument.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+A standard NEC resembles a rugged handheld GPS unit with reinforced corners, sealed buttons,
+and a circular digital
+display. The display renders three-dimensional topographic probability maps rather than ordinary flat coordinates.
+Peaks indicate high route pressure, valleys indicate low pressure, and moving bands may show
+temporal fog, repeating
+corridors, or story convergence. The retractable adjustable focus lens can lock onto a specific
+causal thread when a
+sample, tag, name, or authorized link is provided. The flip-open Aether-Filter changes the sensor
+view for localized
+temporal fog.
+
+Known components include rugged handheld shell; circular probability-map display; gyro-stabilized sensor array;
+retractable adjustable focus lens; Aether-Filter flap; Narrative Density overlay; route-stress indicator; thread-lock
+slot; return-path marker; and dead-map alarm.
+
+The compass may show movement while held still. That usually means the route pressure
+is changing, not that the device
+is broken.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -152,26 +173,6 @@ The device does not ask where north is. It asks which direction the local
 event structure wants movement to
 become meaningful, which is why a strong reading is treated as significance rather than
 as safety.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-A standard NEC resembles a rugged handheld GPS unit with reinforced corners, sealed buttons,
-and a circular digital
-display. The display renders three-dimensional topographic probability maps rather than ordinary flat coordinates.
-Peaks indicate high route pressure, valleys indicate low pressure, and moving bands may show
-temporal fog, repeating
-corridors, or story convergence. The retractable adjustable focus lens can lock onto a specific
-causal thread when a
-sample, tag, name, or authorized link is provided. The flip-open Aether-Filter changes the sensor
-view for localized
-temporal fog.
-
-Known components include rugged handheld shell; circular probability-map display; gyro-stabilized sensor array;
-retractable adjustable focus lens; Aether-Filter flap; Narrative Density overlay; route-stress indicator; thread-lock
-slot; return-path marker; and dead-map alarm.
-
-The compass may show movement while held still. That usually means the route pressure
-is changing, not that the device
-is broken.
 
 INTERFACE AND OPERATING ENVELOPE
 

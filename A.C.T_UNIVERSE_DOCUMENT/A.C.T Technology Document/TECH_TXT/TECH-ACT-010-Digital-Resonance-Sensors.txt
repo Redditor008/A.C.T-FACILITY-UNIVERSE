@@ -113,6 +113,27 @@ DRS calibration libraries are restricted because hostile groups could use them t
 signatures, hide unsafe
 ones, or learn how A.C.T classifies unknown artifacts before contact.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+The common field model is a blue polymer wand with a protected handle display.
+The miniaturized spectrogram display
+shows pulse shape, strength, rhythm, and comparison warnings. The intensity trigger vibrates the user's
+arm when
+resonance crosses a configured threshold. The tuning-fork array at the front hums when within
+two meters of a fracture
+or strong causal pulse. A small speaker may tick, click, or pulse when audio
+output is safer than visual display.
+
+Known components include blue polymer impact shell; miniaturized spectrogram display; vibration intensity trigger;
+tuning-fork array; mechanical tick speaker; field-type suggestion band; sealed calibration port; scan-memory chip;
+glove-safe lock switch; and warning light for library mismatch.
+
+Fixed models use wall mounts, pressure-hardened housings, tank brackets, or locker wiring. Maritime models
+connect to
+sonar and deep pressure rigs. Artifact-vault models listen for narrow signatures such as crimson-frequency
+blade
+vibration.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -161,26 +182,6 @@ whole. Staff who read it as
 the sensor's range close distance on targets that are still far away. Digital describes
 the processing and
 display layer; resonance describes what is actually being measured.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-The common field model is a blue polymer wand with a protected handle display.
-The miniaturized spectrogram display
-shows pulse shape, strength, rhythm, and comparison warnings. The intensity trigger vibrates the user's
-arm when
-resonance crosses a configured threshold. The tuning-fork array at the front hums when within
-two meters of a fracture
-or strong causal pulse. A small speaker may tick, click, or pulse when audio
-output is safer than visual display.
-
-Known components include blue polymer impact shell; miniaturized spectrogram display; vibration intensity trigger;
-tuning-fork array; mechanical tick speaker; field-type suggestion band; sealed calibration port; scan-memory chip;
-glove-safe lock switch; and warning light for library mismatch.
-
-Fixed models use wall mounts, pressure-hardened housings, tank brackets, or locker wiring. Maritime models
-connect to
-sonar and deep pressure rigs. Artifact-vault models listen for narrow signatures such as crimson-frequency
-blade
-vibration.
 
 INTERFACE AND OPERATING ENVELOPE
 

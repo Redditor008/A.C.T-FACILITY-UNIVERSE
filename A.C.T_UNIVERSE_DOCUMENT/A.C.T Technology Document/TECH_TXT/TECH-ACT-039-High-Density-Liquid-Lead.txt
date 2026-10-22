@@ -102,6 +102,25 @@ Current deployment is pipe-controlled. Open HDLL use requires Site Safety review
 and
 post-use environmental survey.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+HDLL appears as a shimmering grey liquid. It moves slowly, carries unusual weight, and
+reflects light as if the
+surface were a dull mirror under pressure. Standard installations use lead-glass pipes so operators
+can visually
+confirm movement while remaining shielded from direct contact. Every joint must include a digital
+flow-meter and
+molecular-leak sensor. Floor-coating deployments use shallow recessed channels and recovery lips to prevent migration
+beyond the approved zone.
+
+Known components include high-density grey barrier fluid; lead-glass pipe sections; digital flow-meter; molecular-leak
+sensor; joint pressure collar; recovery sump; floor-coating spreader; sealed sampling port; contamination alarm strip;
+and hazardous waste transfer canister.
+
+HDLL must not be improvised into ordinary plumbing. Its weight can rupture systems designed
+for water, oil, or
+coolant.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -146,24 +165,6 @@ forgive poor containment. It must
 never be improvised into ordinary plumbing, because its weight can rupture systems designed for
 water, oil,
 or coolant.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-HDLL appears as a shimmering grey liquid. It moves slowly, carries unusual weight, and
-reflects light as if the
-surface were a dull mirror under pressure. Standard installations use lead-glass pipes so operators
-can visually
-confirm movement while remaining shielded from direct contact. Every joint must include a digital
-flow-meter and
-molecular-leak sensor. Floor-coating deployments use shallow recessed channels and recovery lips to prevent migration
-beyond the approved zone.
-
-Known components include high-density grey barrier fluid; lead-glass pipe sections; digital flow-meter; molecular-leak
-sensor; joint pressure collar; recovery sump; floor-coating spreader; sealed sampling port; contamination alarm strip;
-and hazardous waste transfer canister.
-
-HDLL must not be improvised into ordinary plumbing. Its weight can rupture systems designed
-for water, oil, or
-coolant.
 
 INTERFACE AND OPERATING ENVELOPE
 

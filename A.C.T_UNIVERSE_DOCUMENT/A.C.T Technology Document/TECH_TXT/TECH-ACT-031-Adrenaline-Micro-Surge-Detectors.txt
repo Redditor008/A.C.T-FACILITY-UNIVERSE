@@ -99,6 +99,26 @@ Current deployment is mandatory in select Subject Care, Biological Containment, 
 may also require AMSD wear during interviews with attraction hazards, fear accelerators, predator-recognition
 entities, reproductive compulsion subjects, and anomalies that use panic as a targeting signature.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+The standard AMSD appears as a sleek silver wristband. The circular gauge shows surge
+intensity. The LCD readout
+displays baseline state, current stress band, suite-link status, sedative canister pressure, and alarm route.
+The
+wristband contains a refillable sedative canister for local micro-release where approved, but larger room-vapor
+deployment is handled by the containment suite rather than the band alone. An emergency
+auto-release pin allows
+medical staff to disable the unit's sedative release without disabling monitoring.
+
+Known components include silver wristband shell; circular adrenaline gauge; LCD status readout; pulse and
+endocrine
+response sensors; refillable sedative canister; emergency auto-release pin; vibration warning motor; suite-link
+transmitter; and post-event stress log buffer.
+
+AMSD units are fitted to living personnel and must not be placed on mannequins,
+deceased tissue, anomalous decoys, or
+captured civilians without Medical authorization.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -142,25 +162,6 @@ walls. An affected
 person may walk normally, speak clearly, and claim procedural control, so the wristband record
 matters more
 than the wearer's own account.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-The standard AMSD appears as a sleek silver wristband. The circular gauge shows surge
-intensity. The LCD readout
-displays baseline state, current stress band, suite-link status, sedative canister pressure, and alarm route.
-The
-wristband contains a refillable sedative canister for local micro-release where approved, but larger room-vapor
-deployment is handled by the containment suite rather than the band alone. An emergency
-auto-release pin allows
-medical staff to disable the unit's sedative release without disabling monitoring.
-
-Known components include silver wristband shell; circular adrenaline gauge; LCD status readout; pulse and
-endocrine
-response sensors; refillable sedative canister; emergency auto-release pin; vibration warning motor; suite-link
-transmitter; and post-event stress log buffer.
-
-AMSD units are fitted to living personnel and must not be placed on mannequins,
-deceased tissue, anomalous decoys, or
-captured civilians without Medical authorization.
 
 INTERFACE AND OPERATING ENVELOPE
 

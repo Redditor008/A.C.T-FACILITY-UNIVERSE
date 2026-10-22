@@ -172,6 +172,75 @@ fallback concepts. No confirmed non-A.C.T actor has reproduced a full RSA unit.
 ---
 
 
+PHYSICAL AND SYSTEM DESCRIPTION
+-------------------------------
+
+Standard Pillar Unit
+--------------------
+
+The visual reference guide describes the standard RSA unit as a 1.5-meter tall hexagonal
+pillar composed of
+matte-black non-reflective tungsten alloy. The unit is supported by a heavy-duty tungsten tripod base
+with adjustable
+leveling feet. The top carries an adjustable laser point dynamic sensor that sweeps the
+area with a faint violet beam.
+A folding detachable connector allows interface with a Wireless Anti-Shifting Tablet for remote monitoring.
+A heavy
+mechanical front hatch opens to a pressurized core used for releasing crystallized stress and
+manually adjusting the
+four-split crystal core. A side-mounted LCD panel displays real-time waveforms of the [REDACTED] synchronization
+link.
+
+Those details are approved for identification training. They are not sufficient for repair. Field
+personnel must treat
+a visible RSA pillar as site-critical infrastructure unless it is explicitly marked as a
+training shell.
+
+Core Components
+---------------
+
+Known components include:
+
+- matte-black tungsten alloy pillar body;
+- tungsten tripod base with leveling feet;
+- adjustable laser point dynamic sensor;
+- Wireless Anti-Shifting Tablet connector;
+- pressurized stress-release core chamber;
+- four-split Static-Pulse Crystal core;
+- side LCD waveform display;
+- sealed synchronization board;
+- grounding braid tied into site structural mass;
+- manual hatch interlock;
+- local field geometry memory;
+- hardline or isolated relay connection to site stabilization monitor.
+
+The four-split crystal core appears to distribute causal load across four quarter segments rather
+than one continuous
+crystal. Engineering notes indicate that single-core prototypes suffered catastrophic stress bloom under high
+distortion. The split design allows controlled disagreement inside the core instead of uncontrolled disagreement
+in
+the room.
+
+Site Grid and Transport Variants
+--------------------------------
+
+Fixed site units are installed as grids. Redwood Veil maintains continuous RSA support through
+the buried core, with
+the densest concentration on F-1 through F-3. White Grave maintains RSA support throughout holding
+levels,
+particularly F-1 and F-2 where entropic and unstable residents exert strong pressure on local
+conditions. Other sites
+use different densities according to floor function, anomaly type, and structural doctrine.
+
+Transport variants include RSA-equipped sealed containers, RSA-equipped intermodal containers, and systems integrated
+into Facility Converted Aircraft. Transport anchors are weaker than fixed grids and are not
+authorized for long-term
+holding unless paired with static site support.
+
+---
+
+
+
 TECHNICAL SPECIFICATION
 -----------------------
 
@@ -250,74 +319,6 @@ Envelope And Personnel Limits
 Temperature, humidity, altitude, and power tolerance limits are not recorded anywhere in this file
 or the source
 catalog. Environmental envelope: NOT MEASURED.
-
-
-PHYSICAL AND SYSTEM DESCRIPTION
--------------------------------
-
-Standard Pillar Unit
---------------------
-
-The visual reference guide describes the standard RSA unit as a 1.5-meter tall hexagonal
-pillar composed of
-matte-black non-reflective tungsten alloy. The unit is supported by a heavy-duty tungsten tripod base
-with adjustable
-leveling feet. The top carries an adjustable laser point dynamic sensor that sweeps the
-area with a faint violet beam.
-A folding detachable connector allows interface with a Wireless Anti-Shifting Tablet for remote monitoring.
-A heavy
-mechanical front hatch opens to a pressurized core used for releasing crystallized stress and
-manually adjusting the
-four-split crystal core. A side-mounted LCD panel displays real-time waveforms of the [REDACTED] synchronization
-link.
-
-Those details are approved for identification training. They are not sufficient for repair. Field
-personnel must treat
-a visible RSA pillar as site-critical infrastructure unless it is explicitly marked as a
-training shell.
-
-Core Components
----------------
-
-Known components include:
-
-- matte-black tungsten alloy pillar body;
-- tungsten tripod base with leveling feet;
-- adjustable laser point dynamic sensor;
-- Wireless Anti-Shifting Tablet connector;
-- pressurized stress-release core chamber;
-- four-split Static-Pulse Crystal core;
-- side LCD waveform display;
-- sealed synchronization board;
-- grounding braid tied into site structural mass;
-- manual hatch interlock;
-- local field geometry memory;
-- hardline or isolated relay connection to site stabilization monitor.
-
-The four-split crystal core appears to distribute causal load across four quarter segments rather
-than one continuous
-crystal. Engineering notes indicate that single-core prototypes suffered catastrophic stress bloom under high
-distortion. The split design allows controlled disagreement inside the core instead of uncontrolled disagreement
-in
-the room.
-
-Site Grid and Transport Variants
---------------------------------
-
-Fixed site units are installed as grids. Redwood Veil maintains continuous RSA support through
-the buried core, with
-the densest concentration on F-1 through F-3. White Grave maintains RSA support throughout holding
-levels,
-particularly F-1 and F-2 where entropic and unstable residents exert strong pressure on local
-conditions. Other sites
-use different densities according to floor function, anomaly type, and structural doctrine.
-
-Transport variants include RSA-equipped sealed containers, RSA-equipped intermodal containers, and systems integrated
-into Facility Converted Aircraft. Transport anchors are weaker than fixed grids and are not
-authorized for long-term
-holding unless paired with static site support.
-
----
 
 OPERATING PROCEDURE
 -------------------

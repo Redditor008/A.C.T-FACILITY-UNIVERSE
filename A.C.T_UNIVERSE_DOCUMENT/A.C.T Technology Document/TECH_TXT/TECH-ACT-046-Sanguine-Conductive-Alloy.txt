@@ -102,6 +102,24 @@ bridge for multiple subjects. That is prohibited. Blood-data channels must remai
 Review
 authorizes mixed-sample study.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+SCA appears as blue metal sheet stock, usually stored as plates, narrow bridge strips,
+or sealed contact pads. The
+surface contains a visible or semi-visible micro-vein network. Under activation, the network may darken,
+brighten, or
+pulse according to sample load. A small Data-Flow Indicator LED blinks during biological transfer.
+Medical-grade units
+include sterile edge seals, contact wells, insulated backing, chain-of-custody tags, and removable isolation couplers.
+
+Known components include blue conductive alloy sheet; micro-vein network; Data-Flow Indicator LED; sterile
+blood-contact well; insulated backing layer; sample identity tag; isolation coupler; post-use residue swab port;
+biohazard seal strip; and non-networked readout connector.
+
+SCA must never be wired into general site networks. Biological data channels remain air-gapped
+unless a cleared
+protocol explicitly states otherwise.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -146,23 +164,6 @@ Blood is not a neutral input in A.C.T files. The alloy must never be
 wired into general site networks;
 biological data channels stay air-gapped unless a clearance states otherwise, and plates are single-subject
 by default.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-SCA appears as blue metal sheet stock, usually stored as plates, narrow bridge strips,
-or sealed contact pads. The
-surface contains a visible or semi-visible micro-vein network. Under activation, the network may darken,
-brighten, or
-pulse according to sample load. A small Data-Flow Indicator LED blinks during biological transfer.
-Medical-grade units
-include sterile edge seals, contact wells, insulated backing, chain-of-custody tags, and removable isolation couplers.
-
-Known components include blue conductive alloy sheet; micro-vein network; Data-Flow Indicator LED; sterile
-blood-contact well; insulated backing layer; sample identity tag; isolation coupler; post-use residue swab port;
-biohazard seal strip; and non-networked readout connector.
-
-SCA must never be wired into general site networks. Biological data channels remain air-gapped
-unless a cleared
-protocol explicitly states otherwise.
 
 INTERFACE AND OPERATING ENVELOPE
 

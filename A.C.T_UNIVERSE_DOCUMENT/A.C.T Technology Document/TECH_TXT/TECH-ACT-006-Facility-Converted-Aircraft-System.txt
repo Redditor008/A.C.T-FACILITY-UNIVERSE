@@ -155,53 +155,6 @@ Command controls departure and receiving authority.
 
 ---
 
-
-TECHNICAL SPECIFICATION
------------------------
-
-Figures below are restated from the Master Catalog entry, the technological timeline, the visual reference guide
-entry, and this record's own component list. The archive holds no figure for Cargo bay volume, Maximum takeoff mass,
-Range and endurance, and 3 more. Those 6 gaps are carried in OPEN QUESTIONS.
-
-+----------------------------+---------------------------------------------------------------------------------------+
-| AIRFRAME PARAMETER         | VALUE                                                                                 |
-+============================+=======================================================================================+
-| Airframe                   | lifting-body cargo plane, heavy-lift class                                            |
-+----------------------------+---------------------------------------------------------------------------------------+
-| Lift                       | VTOL turbofan array; vertical takeoff and landing                                     |
-+----------------------------+---------------------------------------------------------------------------------------+
-| Introduction               | 1995 heavy VTOL transport platform                                                    |
-+----------------------------+---------------------------------------------------------------------------------------+
-| Catalog position           | Master Catalog of Operational Assets, Item 22                                         |
-+----------------------------+---------------------------------------------------------------------------------------+
-| Cargo stabilization        | integrated RSA support preserving cargo state in flight                               |
-+----------------------------+---------------------------------------------------------------------------------------+
-| Cargo handling             | Magnetic RSA-Rails controlling cargo mass and position                                |
-+----------------------------+---------------------------------------------------------------------------------------+
-| Mass control               | Cargo-Weight Stabilizer                                                               |
-+----------------------------+---------------------------------------------------------------------------------------+
-| Attention damping          | hull-mounted ARM-emitter nodes                                                        |
-+----------------------------+---------------------------------------------------------------------------------------+
-| Cargo bay volume           | NOT MEASURED                                                                          |
-+----------------------------+---------------------------------------------------------------------------------------+
-| Maximum takeoff mass       | NOT MEASURED                                                                          |
-+----------------------------+---------------------------------------------------------------------------------------+
-| Range and endurance        | NOT MEASURED                                                                          |
-+----------------------------+---------------------------------------------------------------------------------------+
-| Cruise speed and ceiling   | NOT MEASURED                                                                          |
-+----------------------------+---------------------------------------------------------------------------------------+
-| Crew complement            | NOT MEASURED                                                                          |
-+----------------------------+---------------------------------------------------------------------------------------+
-| RSA-rail certified load    | NOT MEASURED                                                                          |
-+----------------------------+---------------------------------------------------------------------------------------+
-
-The airframe is a conversion, not a clean design. Aviation performance and containment performance
-compete
-for the same mass budget, which is why the rail and stabilizer figures are
-the ones this file still cannot
-state. A transport that flies well and holds its cargo badly is not a
-containment asset.
-
 PHYSICAL AND SYSTEM DESCRIPTION
 -------------------------------
 
@@ -258,6 +211,54 @@ FCA-SHADOW: low-observation covert flight under heavy ARM and Civil Covert routi
 Variant names are operational profiles, not confirmed separate aircraft models.
 
 ---
+
+
+
+TECHNICAL SPECIFICATION
+-----------------------
+
+Figures below are restated from the Master Catalog entry, the technological timeline, the visual reference guide
+entry, and this record's own component list. The archive holds no figure for Cargo bay volume, Maximum takeoff mass,
+Range and endurance, and 3 more. Those 6 gaps are carried in OPEN QUESTIONS.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| AIRFRAME PARAMETER         | VALUE                                                                                 |
++============================+=======================================================================================+
+| Airframe                   | lifting-body cargo plane, heavy-lift class                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Lift                       | VTOL turbofan array; vertical takeoff and landing                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Introduction               | 1995 heavy VTOL transport platform                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Catalog position           | Master Catalog of Operational Assets, Item 22                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cargo stabilization        | integrated RSA support preserving cargo state in flight                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cargo handling             | Magnetic RSA-Rails controlling cargo mass and position                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Mass control               | Cargo-Weight Stabilizer                                                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Attention damping          | hull-mounted ARM-emitter nodes                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cargo bay volume           | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Maximum takeoff mass       | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Range and endurance        | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Cruise speed and ceiling   | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Crew complement            | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| RSA-rail certified load    | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+
+The airframe is a conversion, not a clean design. Aviation performance and containment performance
+compete
+for the same mass budget, which is why the rail and stabilizer figures are
+the ones this file still cannot
+state. A transport that flies well and holds its cargo badly is not a
+containment asset.
 
 INTERFACE AND OPERATING ENVELOPE
 --------------------------------

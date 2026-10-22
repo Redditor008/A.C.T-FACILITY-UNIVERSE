@@ -107,6 +107,28 @@ propaganda,
 protect forged anomaly records, or lock infected wording into a document that should have
 been allowed to fade.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+The standard NSV canister is a pressurized archival spray unit with a digital precision
+nozzle. The surface-tension
+gauge confirms that the liquid is spreading evenly across paper, leather, parchment, coated tags,
+or approved
+synthetic archive sheets. The LCD shows remaining volume and estimated narrative half-life. The liquid
+appears clear,
+smells faintly of ozone and old paper, and dries into a matte invisible finish
+that should not shine under standard
+archive light.
+
+Known components include pressurized canister body; digital precision nozzle; surface-tension gauge; half-life
+display; volume readout; batch seal; anti-clog purge cap; application distance marks; contaminated-tip capsule; and
+post-seal verification strip.
+
+The varnish is never poured. It is never brushed by hand except in restoration-lab
+exceptions. Uneven application can
+create sealed and unsealed zones on the same page, which may cause text to
+shear, duplicate, or migrate toward
+untreated margins.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -156,27 +178,6 @@ leaves
 sealed and unsealed zones on one page, and text responds to that boundary by
 shearing, duplicating, or
 migrating toward the untreated margin.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-The standard NSV canister is a pressurized archival spray unit with a digital precision
-nozzle. The surface-tension
-gauge confirms that the liquid is spreading evenly across paper, leather, parchment, coated tags,
-or approved
-synthetic archive sheets. The LCD shows remaining volume and estimated narrative half-life. The liquid
-appears clear,
-smells faintly of ozone and old paper, and dries into a matte invisible finish
-that should not shine under standard
-archive light.
-
-Known components include pressurized canister body; digital precision nozzle; surface-tension gauge; half-life
-display; volume readout; batch seal; anti-clog purge cap; application distance marks; contaminated-tip capsule; and
-post-seal verification strip.
-
-The varnish is never poured. It is never brushed by hand except in restoration-lab
-exceptions. Uneven application can
-create sealed and unsealed zones on the same page, which may cause text to
-shear, duplicate, or migrate toward
-untreated margins.
 
 INTERFACE AND OPERATING ENVELOPE
 

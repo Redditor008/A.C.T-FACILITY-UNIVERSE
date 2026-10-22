@@ -107,6 +107,27 @@ The manifest libraries are restricted because a hostile group with the full set 
 pattern-match site routines,
 identify cover sites, or build counter-broadcasts that ride inside the dullness.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+A standard BWB node is a wall-mounted digital speaker with a Banal-Status Monitor. The
+monitor displays output health,
+entropy level, pattern risk, volume band, local override state, and library freshness. The internal
+Pattern-Randomizer
+Disc selects, cuts, overlaps, and de-emphasizes audio fragments so that the broadcast stays boring
+without becoming
+repetitive. Site-wide installations use chained nodes, ceiling speakers, corridor emitters, and control panels tied
+to
+Site Command.
+
+Known components include wall-mounted digital speaker; Banal-Status Monitor; Pattern-Randomizer Disc; dullness entropy
+meter; volume governor; manifest fragment library; dead-air alarm; phrase repetition warning; local maintenance jack;
+and emergency mute and emergency flood settings.
+
+Civil Covert variants may disguise nodes as ordinary public-address speakers, ventilation rattle, elevator chime
+boxes, or waiting-room noise systems. Containment variants are more visible because staff need fast
+status checks
+during breach response.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -154,26 +175,6 @@ movement, copier hum, unimportant route codes, empty schedule language, syntheti
 weather reports. The randomizer disc exists to stop that material becoming a chant, song,
 command, prayer,
 or recognizable message.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-A standard BWB node is a wall-mounted digital speaker with a Banal-Status Monitor. The
-monitor displays output health,
-entropy level, pattern risk, volume band, local override state, and library freshness. The internal
-Pattern-Randomizer
-Disc selects, cuts, overlaps, and de-emphasizes audio fragments so that the broadcast stays boring
-without becoming
-repetitive. Site-wide installations use chained nodes, ceiling speakers, corridor emitters, and control panels tied
-to
-Site Command.
-
-Known components include wall-mounted digital speaker; Banal-Status Monitor; Pattern-Randomizer Disc; dullness entropy
-meter; volume governor; manifest fragment library; dead-air alarm; phrase repetition warning; local maintenance jack;
-and emergency mute and emergency flood settings.
-
-Civil Covert variants may disguise nodes as ordinary public-address speakers, ventilation rattle, elevator chime
-boxes, or waiting-room noise systems. Containment variants are more visible because staff need fast
-status checks
-during breach response.
 
 INTERFACE AND OPERATING ENVELOPE
 

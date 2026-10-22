@@ -101,6 +101,25 @@ Filter lists remain Level 5 because a hostile actor who knows what the implant
 refuses could route an attack through
 what it still allows.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+NL-004 appears on high-level scans as a fine golden neural lattice distributed along approved
+neural routes. The
+visible external sign is usually a small scar near the base of the skull,
+protected by a redacted medical patch during
+early healing or after maintenance. The micro-receiver rests at the base of the skull
+and manages incoming filter
+instructions. The signal-sink does not store readable content. It collapses selected input into non-retained
+residue.
+
+Known components include golden neural lattice; base-of-skull micro-receiver; internal signal-sink; redacted surgical
+patch; filter-list handshake; high-level scan signature; aftercare diagnostic pulse; emergency dampening setting;
+memory-exclusion log; and removal-risk marker.
+
+A clean scan proves the lattice is present. It does not prove the patient
+is unharmed by what the lattice has
+prevented them from knowing.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -145,24 +164,6 @@ dangerous information
 from completing memory formation at all. Broad filters are denied because they can erase
 context, flatten
 personality, or hide institutional misconduct.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-NL-004 appears on high-level scans as a fine golden neural lattice distributed along approved
-neural routes. The
-visible external sign is usually a small scar near the base of the skull,
-protected by a redacted medical patch during
-early healing or after maintenance. The micro-receiver rests at the base of the skull
-and manages incoming filter
-instructions. The signal-sink does not store readable content. It collapses selected input into non-retained
-residue.
-
-Known components include golden neural lattice; base-of-skull micro-receiver; internal signal-sink; redacted surgical
-patch; filter-list handshake; high-level scan signature; aftercare diagnostic pulse; emergency dampening setting;
-memory-exclusion log; and removal-risk marker.
-
-A clean scan proves the lattice is present. It does not prove the patient
-is unharmed by what the lattice has
-prevented them from knowing.
 
 INTERFACE AND OPERATING ENVELOPE
 

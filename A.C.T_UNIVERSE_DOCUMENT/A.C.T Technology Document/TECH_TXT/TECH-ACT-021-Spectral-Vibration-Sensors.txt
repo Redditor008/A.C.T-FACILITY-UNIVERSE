@@ -105,6 +105,24 @@ Calibration remains restricted because a hostile song or script could be written
 just below published
 thresholds.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+A standard SVS is a wall-mounted box with a sensitivity calibrator dial, a bone-white
+needle behind a glass pane, an
+amber digital warning light, and an internal clicker that produces a low metallic sound
+as the needle moves. The
+housing is usually matte gray or off-white to avoid drawing attention in archive corridors.
+The device may be paired
+with remote logs, room microphones, CSG panels, BWB monitors, or local lockdown indicators.
+
+Known components include wall-mounted sensor housing; sensitivity calibrator dial; bone-white narrative-tempo needle;
+glass pane; amber script-manifestation warning light; low metallic clicker; vibration pickup plate; acoustic-leak
+comparison chip; event log spool; and CSG alert output line.
+
+The clicker is intentionally audible to staff nearby. A silent alarm may preserve calm,
+but a small click teaches
+personnel to stop talking and listen.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -147,23 +165,6 @@ The needle can move during silence because the signal is not always audible yet,
 and the amber light marks
 script-manifestation risk rather than confirmed breach. The clicker is deliberately audible: a silent alarm
 preserves calm, but a small click teaches personnel to stop talking and listen.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-A standard SVS is a wall-mounted box with a sensitivity calibrator dial, a bone-white
-needle behind a glass pane, an
-amber digital warning light, and an internal clicker that produces a low metallic sound
-as the needle moves. The
-housing is usually matte gray or off-white to avoid drawing attention in archive corridors.
-The device may be paired
-with remote logs, room microphones, CSG panels, BWB monitors, or local lockdown indicators.
-
-Known components include wall-mounted sensor housing; sensitivity calibrator dial; bone-white narrative-tempo needle;
-glass pane; amber script-manifestation warning light; low metallic clicker; vibration pickup plate; acoustic-leak
-comparison chip; event log spool; and CSG alert output line.
-
-The clicker is intentionally audible to staff nearby. A silent alarm may preserve calm,
-but a small click teaches
-personnel to stop talking and listen.
 
 INTERFACE AND OPERATING ENVELOPE
 

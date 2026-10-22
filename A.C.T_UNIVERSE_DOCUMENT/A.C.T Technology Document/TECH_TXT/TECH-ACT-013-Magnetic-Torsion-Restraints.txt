@@ -100,6 +100,26 @@ rare and require route, floor, and power review before movement.
 Frequency dial data remains Level 4 because the wrong setting may teach a weapon
 how the lock thinks.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+A fixed MTR station consists of wall-mounted rings of brushed surgical steel surrounding a
+target position, locker
+mouth, specimen cradle, or weapon arc. Liquid-helium circulation vents keep the superconducting array within
+safe
+operating range. Gravity-compensation arms adjust pitch when the subject changes mass or load direction.
+The control
+console holds manual lockdown levers, the redacted frequency dial, load gauge, field-balance indicators, and
+an
+emergency dump cover.
+
+Known components include brushed surgical-steel restraint rings; superconducting magnetic array; liquid-helium
+circulation vents; gravity-compensation arm; redacted frequency dial; manual lockdown levers; digital magnetic load
+gauge; power conduits with blue pulse indicators; load-transfer anchors; and field-collapse alarm.
+
+The rings may look overbuilt. That is intentional. A restraint that looks elegant is
+usually underestimating the
+subject.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -145,25 +165,6 @@ class lock still fails if the subject turns through a causal seam, transfers str
 into the mount, or
 convinces the field that the dangerous part is not metal at the moment of
 attack.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-A fixed MTR station consists of wall-mounted rings of brushed surgical steel surrounding a
-target position, locker
-mouth, specimen cradle, or weapon arc. Liquid-helium circulation vents keep the superconducting array within
-safe
-operating range. Gravity-compensation arms adjust pitch when the subject changes mass or load direction.
-The control
-console holds manual lockdown levers, the redacted frequency dial, load gauge, field-balance indicators, and
-an
-emergency dump cover.
-
-Known components include brushed surgical-steel restraint rings; superconducting magnetic array; liquid-helium
-circulation vents; gravity-compensation arm; redacted frequency dial; manual lockdown levers; digital magnetic load
-gauge; power conduits with blue pulse indicators; load-transfer anchors; and field-collapse alarm.
-
-The rings may look overbuilt. That is intentional. A restraint that looks elegant is
-usually underestimating the
-subject.
 
 INTERFACE AND OPERATING ENVELOPE
 

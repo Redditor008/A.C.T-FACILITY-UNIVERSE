@@ -1,5 +1,12 @@
 # Technology Phase Patch Saver
 
+
+### Patch 46 — Reordered TECHNICAL SPECIFICATION and PHYSICAL DESCRIPTION in 136 records (both twins)
+
+136 technology records held TECHNICAL SPECIFICATION before the physical or system description, with INTERFACE AND OPERATING ENVELOPE between the two. The house order puts the physical description first, then the specification, then the interface. Each record now follows it in the .md and in its .txt twin. Whole sections moved; no heading text and no body content changed. Records exactly on the house 14-name order rose from 85 to 109.
+
+**Defect found and fixed in this pass.** The first run reordered the .md files correctly but left every .txt twin untouched except for one stray blank line. The cause was in the section-boundary scan: when the physical description had blank lines before its heading, the scan for "the next chapter after the block start" matched the physical heading itself, so the block came out empty and the write inserted only a separator. The fix compares against the heading's own position rather than the blank-trimmed block start. Both twins are now in step, verified by comparing chapter order across all 229 records: 0 out of step.
+
 ## Purpose
 This file exists because the user ordered a Patch Saver to prevent task-state loss
 when the session starts producing

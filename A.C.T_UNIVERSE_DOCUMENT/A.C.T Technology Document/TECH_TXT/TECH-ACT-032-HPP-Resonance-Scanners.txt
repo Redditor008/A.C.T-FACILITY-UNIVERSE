@@ -102,6 +102,26 @@ be morally
 special, heroic, cursed, or safe. They are resonant. The archive records physical result rather
 than myth.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+The standard HPP-RS is a walk-through gateway. Two vertical light-pillars hold restricted sensor arrays.
+The top beam
+carries a PR-Score digital counter visible to the operator but shielded from public display.
+In standby, the pillars
+remain white. During active scan, the pillars read body field, pulse stability, neural timing,
+local static response,
+and psychic weight. If a High-Psychic Potential signature is detected, the pillars turn deep
+violet and the counter
+locks a score band for authorized review.
+
+Known components include walk-through scanner frame; paired vertical light-pillars; restricted resonance sensors;
+PR-Score digital counter; static-pulse comparison board; medical baseline interface; assignment flag module; operator
+privacy shield; scan log buffer; and deep-violet HPP detection light.
+
+The scanner must be calibrated against site static conditions. A scanner moved from White
+Grave to Verde Null without
+recalibration may produce misleading scores.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -145,25 +165,6 @@ high score may mean
 sensitivity, danger, suitability, or fragility, and a low score only means the scanner did
 not detect that
 profile on that day.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-The standard HPP-RS is a walk-through gateway. Two vertical light-pillars hold restricted sensor arrays.
-The top beam
-carries a PR-Score digital counter visible to the operator but shielded from public display.
-In standby, the pillars
-remain white. During active scan, the pillars read body field, pulse stability, neural timing,
-local static response,
-and psychic weight. If a High-Psychic Potential signature is detected, the pillars turn deep
-violet and the counter
-locks a score band for authorized review.
-
-Known components include walk-through scanner frame; paired vertical light-pillars; restricted resonance sensors;
-PR-Score digital counter; static-pulse comparison board; medical baseline interface; assignment flag module; operator
-privacy shield; scan log buffer; and deep-violet HPP detection light.
-
-The scanner must be calibrated against site static conditions. A scanner moved from White
-Grave to Verde Null without
-recalibration may produce misleading scores.
 
 INTERFACE AND OPERATING ENVELOPE
 

@@ -113,6 +113,28 @@ The visor belongs to the site or kit, not to the operator. Personnel may
 be assigned a fitted face seal, but the
 optical core is logged, patched, inspected, and reclaimed.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+A standard CSV resembles rugged tactical goggles with multi-layer digital lenses and an integrated
+HUD. The frame is
+thicker than normal field eyewear because it contains the processing stack, shielded battery housing,
+temporal
+insulation, and fail-shut relay. The external focus dial physically adjusts lens gap and processing
+depth. The HUD
+displays delay in milliseconds, battery life, hazard threat probability, filter state, and recording status
+where
+recording is permitted.
+
+Known components include multi-layer delayed-display lenses; external focus dial; integrated HUD; shielded battery
+pack; frame-delay processor; flash-dulling circuit; threat probability meter; face seal or full-face hood mount;
+emergency blackout shutter; and post-exposure log chip.
+
+Full-face biological models seal over respirators and hydrophobic textile hoods. Temporal vault models have
+reduced
+decoration, hardened clock shielding, and stricter log chips. Archive station models are heavier and
+not field
+wearable.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -160,27 +182,6 @@ the shielded
 battery housing, the temporal insulation, and the fail-shut relay. None of that is comfort
 engineering.
 Archive station models are heavier again and are not field wearable.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-A standard CSV resembles rugged tactical goggles with multi-layer digital lenses and an integrated
-HUD. The frame is
-thicker than normal field eyewear because it contains the processing stack, shielded battery housing,
-temporal
-insulation, and fail-shut relay. The external focus dial physically adjusts lens gap and processing
-depth. The HUD
-displays delay in milliseconds, battery life, hazard threat probability, filter state, and recording status
-where
-recording is permitted.
-
-Known components include multi-layer delayed-display lenses; external focus dial; integrated HUD; shielded battery
-pack; frame-delay processor; flash-dulling circuit; threat probability meter; face seal or full-face hood mount;
-emergency blackout shutter; and post-exposure log chip.
-
-Full-face biological models seal over respirators and hydrophobic textile hoods. Temporal vault models have
-reduced
-decoration, hardened clock shielding, and stricter log chips. Archive station models are heavier and
-not field
-wearable.
 
 INTERFACE AND OPERATING ENVELOPE
 

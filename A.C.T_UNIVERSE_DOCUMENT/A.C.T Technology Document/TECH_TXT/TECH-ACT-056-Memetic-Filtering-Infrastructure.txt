@@ -101,6 +101,24 @@ process. A filtered document is not raw truth. It is a surviving form of
 truth shaped so it does not immediately
 injure the next mind that touches it.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+
+MFI is installed into controlled-reading cells and redaction workrooms. A standard cell includes isolated
+display
+surfaces, filtered lighting, acoustic dampening, page-view shutters, timed reveal controls, reader biometric
+monitoring, cognitive-care alert lines, document cradle locks, and exit seals that prevent a reader
+from carrying an
+unfinished exposure into the corridor.
+
+Known components include controlled-reading cell; memetic filter projector or screen layer; timed page-reveal shutter;
+symbol contrast limiter; acoustic muting field; reader exposure monitor; cognitive-care alarm line; document cradle
+lock; filtered copy output tray; and release authorization terminal.
+
+The most important component is the protocol binding reader, document, filter setting, and exposure
+limit into one
+recorded event.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -145,23 +163,6 @@ The most important component is the protocol binding reader, document, filter se
 limit
 into one recorded event. Research and Intelligence may add questions but do not control
 the filter settings.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-
-MFI is installed into controlled-reading cells and redaction workrooms. A standard cell includes isolated
-display
-surfaces, filtered lighting, acoustic dampening, page-view shutters, timed reveal controls, reader biometric
-monitoring, cognitive-care alert lines, document cradle locks, and exit seals that prevent a reader
-from carrying an
-unfinished exposure into the corridor.
-
-Known components include controlled-reading cell; memetic filter projector or screen layer; timed page-reveal shutter;
-symbol contrast limiter; acoustic muting field; reader exposure monitor; cognitive-care alarm line; document cradle
-lock; filtered copy output tray; and release authorization terminal.
-
-The most important component is the protocol binding reader, document, filter setting, and exposure
-limit into one
-recorded event.
 
 INTERFACE AND OPERATING ENVELOPE
 

@@ -103,6 +103,25 @@ Modification plans remain Level 5 because Dark World architecture is not passive
 walls may remember
 being forest, door, bone, or boundary.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+A standard GTMD is a heavy industrial drill assembly with 24k gold-plated bits. The
+acoustic vibration disc sits near
+the bit housing and listens to density response during contact. The cooled engine housing
+prevents heat from changing
+gold behavior or provoking the target material. Analog pressure gauges remain present because digital
+readings can lag
+during anomalous resistance. The digital RPM display tracks bit speed and flags harmonic risk.
+
+Known components include heavy industrial drill frame; 24k gold-plated drill bits; acoustic vibration disc;
+cooled
+engine housing; analog pressure gauges; digital RPM readout; gold-wear indicator; dust capture shroud; core
+sample
+sleeve; and emergency reverse lock.
+
+Gold bits are counted before and after work. Missing gold is treated as contaminated
+material, not lost hardware.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -146,24 +165,6 @@ contaminated material rather
 than lost hardware. The analog gauges stay on the frame because a digital reading
 can lag at exactly the
 moment anomalous resistance begins.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-A standard GTMD is a heavy industrial drill assembly with 24k gold-plated bits. The
-acoustic vibration disc sits near
-the bit housing and listens to density response during contact. The cooled engine housing
-prevents heat from changing
-gold behavior or provoking the target material. Analog pressure gauges remain present because digital
-readings can lag
-during anomalous resistance. The digital RPM display tracks bit speed and flags harmonic risk.
-
-Known components include heavy industrial drill frame; 24k gold-plated drill bits; acoustic vibration disc;
-cooled
-engine housing; analog pressure gauges; digital RPM readout; gold-wear indicator; dust capture shroud; core
-sample
-sleeve; and emergency reverse lock.
-
-Gold bits are counted before and after work. Missing gold is treated as contaminated
-material, not lost hardware.
 
 INTERFACE AND OPERATING ENVELOPE
 

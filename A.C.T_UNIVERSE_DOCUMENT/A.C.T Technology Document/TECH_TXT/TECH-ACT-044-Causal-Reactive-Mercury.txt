@@ -99,6 +99,25 @@ Modern CRM samples are held in magnetic-containment flasks with stasis-field gen
 flasks
 is rare and requires O5-level review.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+CRM appears as silver liquid metal. In calm state it resembles mercury under glass,
+but its surface may ripple before
+nearby movement occurs. During temporal fluctuation, it can flow counter to tilt, curl upward,
+or pull into thin
+threads pointing toward a prior or future event. Magnetic-containment flasks use reinforced transparent walls,
+internal field rings, stasis-field generators, and orientation gauges. The flask prevents the liquid from
+falling
+upward, climbing the cap, or occupying a previous fill state.
+
+Known components and custody elements include silver causal-reactive liquid metal; magnetic-containment flask;
+stasis-field generator; reverse-flow orientation gauge; temporal ripple indicator; sealed sample neck; visor-only
+observation label; toxic metal handling shield; regression event log tag; and Kurokawa vault transfer
+cradle.
+
+CRM must never be placed in ordinary thermometers, clocks, syringes, pumps, or decorative sealed
+glass.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -142,24 +161,6 @@ held by the archive: Sample volume held, Stasis field draw, Reaction onset time.
 Ordinary containers hold where the liquid is, not when the liquid believes it is.
 The flask exists to stop
 the medium falling upward, climbing the cap, or occupying a previous fill state.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-CRM appears as silver liquid metal. In calm state it resembles mercury under glass,
-but its surface may ripple before
-nearby movement occurs. During temporal fluctuation, it can flow counter to tilt, curl upward,
-or pull into thin
-threads pointing toward a prior or future event. Magnetic-containment flasks use reinforced transparent walls,
-internal field rings, stasis-field generators, and orientation gauges. The flask prevents the liquid from
-falling
-upward, climbing the cap, or occupying a previous fill state.
-
-Known components and custody elements include silver causal-reactive liquid metal; magnetic-containment flask;
-stasis-field generator; reverse-flow orientation gauge; temporal ripple indicator; sealed sample neck; visor-only
-observation label; toxic metal handling shield; regression event log tag; and Kurokawa vault transfer
-cradle.
-
-CRM must never be placed in ordinary thermometers, clocks, syringes, pumps, or decorative sealed
-glass.
 
 INTERFACE AND OPERATING ENVELOPE
 

@@ -105,6 +105,27 @@ and isolate, but it could not monitor. That weakness is why later A.C.T technolo
 developed sensors, flow meters,
 resonance mapping, and active stabilization.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+
+A standard inherited HDLV installation consists of refined lead panels, layered masonry backing, thick
+mechanical
+hinges, weight-bearing floor stone, sealed access seams, and archive tags that may predate modern
+designation rules.
+Some compartments also include lead-lined glass, waxed ledger pockets, or iron outer straps added
+during later
+repairs.
+
+Known components include refined lead shielding panels; layered stone or brick vault support; mechanical
+hinge and bar
+lock; seam wax or pitch residue; early artifact tag plate; hand ledger pocket; later
+contamination warning label;
+inspection hatch plug; lift chain scars; and modern retrofit sensor clip.
+
+No surviving HDLV unit is assumed safe because of age. Old lead can crack,
+creep, powder, or conceal contamination
+inside seams.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -148,26 +169,6 @@ powder, or conceal
 contamination inside seams, and a scan returning nothing through lead is not proof that
 the compartment is
 empty.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-
-A standard inherited HDLV installation consists of refined lead panels, layered masonry backing, thick
-mechanical
-hinges, weight-bearing floor stone, sealed access seams, and archive tags that may predate modern
-designation rules.
-Some compartments also include lead-lined glass, waxed ledger pockets, or iron outer straps added
-during later
-repairs.
-
-Known components include refined lead shielding panels; layered stone or brick vault support; mechanical
-hinge and bar
-lock; seam wax or pitch residue; early artifact tag plate; hand ledger pocket; later
-contamination warning label;
-inspection hatch plug; lift chain scars; and modern retrofit sensor clip.
-
-No surviving HDLV unit is assumed safe because of age. Old lead can crack,
-creep, powder, or conceal contamination
-inside seams.
 
 INTERFACE AND OPERATING ENVELOPE
 

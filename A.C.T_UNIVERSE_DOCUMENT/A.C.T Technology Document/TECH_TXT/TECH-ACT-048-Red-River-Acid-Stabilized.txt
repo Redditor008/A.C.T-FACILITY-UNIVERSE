@@ -102,6 +102,23 @@ RRA-S remains tied to Dark World Survey because the material's behavior may depe
 source cycle, river location,
 moon state, and time since extraction.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+RRA-S appears as bubbling red liquid, usually darker than blood and brighter than rust.
+It may emit a low hum through
+the container under quiet conditions. Standard storage uses reinforced ceramic jugs with sealed lids,
+carry frames,
+temperature strips, corrosion witness plates, and a Neutralization-Tab Slot built into the lid. The
+tab slot accepts
+only approved shutdown tabs; improvised bases, powders, water, or neutralizing agents are prohibited.
+
+Known components and custody elements include stabilized bubbling red acid; reinforced ceramic jug; Neutralization-Tab
+Slot; sealed ceramic lid; corrosion witness plate; low-frequency hum monitor; carry-frame shock collar; sample-pour
+restrictor; spill-shadow marker dye; and post-use ceramic waste canister.
+
+RRA-S must not be stored in titanium, standard glass, unlined steel, plastic, or ordinary
+chemical cabinets.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -146,22 +163,6 @@ Stabilization makes the fluid transportable and briefly usable; it does not make
 The tab slot
 accepts only approved shutdown tabs, and improvised bases, powders, water, or neutralising agents are
 prohibited outright.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-RRA-S appears as bubbling red liquid, usually darker than blood and brighter than rust.
-It may emit a low hum through
-the container under quiet conditions. Standard storage uses reinforced ceramic jugs with sealed lids,
-carry frames,
-temperature strips, corrosion witness plates, and a Neutralization-Tab Slot built into the lid. The
-tab slot accepts
-only approved shutdown tabs; improvised bases, powders, water, or neutralizing agents are prohibited.
-
-Known components and custody elements include stabilized bubbling red acid; reinforced ceramic jug; Neutralization-Tab
-Slot; sealed ceramic lid; corrosion witness plate; low-frequency hum monitor; carry-frame shock collar; sample-pour
-restrictor; spill-shadow marker dye; and post-use ceramic waste canister.
-
-RRA-S must not be stored in titanium, standard glass, unlined steel, plastic, or ordinary
-chemical cabinets.
 
 INTERFACE AND OPERATING ENVELOPE
 

@@ -100,6 +100,25 @@ aircraft, ROV
 deployment, Massive Box inspection, and surveys of terrain that has become larger inside than
 outside.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+A standard SAS unit uses a rugged dual-monitor console. One screen displays real-time acoustic
+return. The second
+screen renders three-dimensional wireframes of mapped space, mass, void, and pressure flow. Field kits
+include
+two-meter insertion spikes with laser-alignment points, pneumatic pistons, pressure cables, insulated connector locks,
+and sealed calibration weights. In deep water, spikes are placed by ROV or remote
+cradle. In rock or plating,
+Engineering seats them through prepared sockets.
+
+Known components include rugged dual-monitor console; two-meter acoustic insertion spikes; laser-alignment points;
+pneumatic insertion pistons; pressure-rated cables; false-void analysis board; wireframe rendering screen;
+low-frequency emitter stack; acoustic return buffer; and blind-monitoring event recorder.
+
+SAS readings must be interpreted by trained technicians. A clean void can mean empty
+space, echo absorption, subject
+permission, or equipment failure.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -144,24 +163,6 @@ The system does not rely on silhouette, colour, or visible behaviour; it listens
 displacement, echo
 refusal, pressure contours, and acoustic return. Readings must be interpreted by trained technicians,
 because a clean map is not an empty room.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-A standard SAS unit uses a rugged dual-monitor console. One screen displays real-time acoustic
-return. The second
-screen renders three-dimensional wireframes of mapped space, mass, void, and pressure flow. Field kits
-include
-two-meter insertion spikes with laser-alignment points, pneumatic pistons, pressure cables, insulated connector locks,
-and sealed calibration weights. In deep water, spikes are placed by ROV or remote
-cradle. In rock or plating,
-Engineering seats them through prepared sockets.
-
-Known components include rugged dual-monitor console; two-meter acoustic insertion spikes; laser-alignment points;
-pneumatic insertion pistons; pressure-rated cables; false-void analysis board; wireframe rendering screen;
-low-frequency emitter stack; acoustic return buffer; and blind-monitoring event recorder.
-
-SAS readings must be interpreted by trained technicians. A clean void can mean empty
-space, echo absorption, subject
-permission, or equipment failure.
 
 INTERFACE AND OPERATING ENVELOPE
 

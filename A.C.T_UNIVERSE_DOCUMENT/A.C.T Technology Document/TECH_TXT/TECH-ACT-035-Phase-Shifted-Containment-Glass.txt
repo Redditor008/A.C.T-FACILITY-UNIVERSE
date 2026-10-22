@@ -101,6 +101,26 @@ viewing. PSCG does not make the view safe by itself, but it reduces fidelity
 and gaze-lock risk enough to support
 monitored procedure.
 
+PHYSICAL OR SYSTEM DESCRIPTION
+A PSCG panel appears almost ordinary from a distance. Close inspection shows a faint
+rainbow oil-slick sheen,
+especially along angled light. The pane is mounted inside a reinforced frame containing a
+polarizing dial, a digital
+phase-slider, power couplers, and safety locks. The slider adjusts observation phase. The dial adjusts
+polarization
+and visual fidelity. Some frames include operator presets for interview, medical check, visual hazard,
+spatial phase,
+and emergency opaque mode.
+
+Known components include multi-layer transparent phase medium; oil-slick resonance sheen; polarizing dial; digital
+phase-slider; reinforced containment frame; emergency opacity circuit; gaze-diffusion laminate; tangibility-offset
+controller; observation-side status strip; and maintenance phase lock.
+
+The panel must be mapped to its room. A pane calibrated for one suite
+may produce dangerous distortion if moved to
+another without phase survey.
+
+
 
 TECHNICAL SPECIFICATION
 
@@ -144,25 +164,6 @@ room: a panel calibrated for one suite can
 produce dangerous distortion in another without a phase survey. In some settings it is
 the room's first line
 of mercy.
-
-PHYSICAL OR SYSTEM DESCRIPTION
-A PSCG panel appears almost ordinary from a distance. Close inspection shows a faint
-rainbow oil-slick sheen,
-especially along angled light. The pane is mounted inside a reinforced frame containing a
-polarizing dial, a digital
-phase-slider, power couplers, and safety locks. The slider adjusts observation phase. The dial adjusts
-polarization
-and visual fidelity. Some frames include operator presets for interview, medical check, visual hazard,
-spatial phase,
-and emergency opaque mode.
-
-Known components include multi-layer transparent phase medium; oil-slick resonance sheen; polarizing dial; digital
-phase-slider; reinforced containment frame; emergency opacity circuit; gaze-diffusion laminate; tangibility-offset
-controller; observation-side status strip; and maintenance phase lock.
-
-The panel must be mapped to its room. A pane calibrated for one suite
-may produce dangerous distortion if moved to
-another without phase survey.
 
 INTERFACE AND OPERATING ENVELOPE
 
