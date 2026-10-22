@@ -6108,3 +6108,40 @@ are work relationships, so theirs are custody records for appropriated kit.
 **A defect noticed while reading the dossiers.** All four use `<br>` inside their `KNOWN ASSETS`
 and `KNOWN HOLDINGS` pipe cells. That wrapper makes a source line longer, never shorter, and was
 the cause of a failed width fix earlier in the session.
+
+## Prompt End Update — 2026-10-22, Measuring Instruments Fixed; Doctrine PART I Found Sound
+
+The owner ruled that the broken instruments be fixed before the doctrine audit continued. Three
+failures were traced to one cause.
+
+**The cause.** `ACT_Complete_Designation_and_Class_Reference.md` carries a `## Contents` list that
+repeats every chapter title. `s.find("PART I")` therefore landed in the contents list and sliced
+2,588 characters of front matter instead of the 63,966-character chapter. Every extraction run
+against that slice returned nothing, and the emptiness was read as a property of the doctrine
+rather than of the slice. This is the same class of failure as a generator that derives a name
+from "the first H2" and breaks once a contents list is inserted.
+
+**Second cause.** PART I holds **0 table rows**. Its 9,314 words are prose across 17 numbered H3
+sections. Every table-shaped extractor was looking for a format the chapter does not use.
+
+**Third cause.** Anomaly designations live **inside** the documents, not in the filenames. 164 of
+174 files in the anomaly folder have no designation prefix at all, so a filename census returns
+`UNCODED: 164` and finds no families.
+
+**The corrected result.** Doctrine PART I documents AFD, UFD, UA, QU, AB, BL. The anomaly folder
+uses AFD in 153 files, UFD in 16, UA in 3, QU in 2, AB in 2. **Every family in use is documented.
+Zero undocumented families.** `BL` is documented and unused. `XX` is the anatomy placeholder in
+I-1, not a family.
+
+**A prior finding of mine is hereby retracted.** An earlier index recorded the families as
+"AFD 129, ANM 4, UFD 3". There is no ANM family. The doctrine does not define one, no record uses
+one, and a content search across the anomaly folder returns zero. The ANM figure was wrong and the
+AFD and UFD figures were counts of something other than files carrying the designation.
+
+**Ruling recorded: the four sets measure as 4 / 5 / 4 / 4 = 17 records, not 20.** Set 074's "Nine
+Seats" is an open question rather than a fifth object, because the dossier says the phrase may
+refer to vessel classes, a council, nine founding disasters, nine preservation categories, or nine
+literal seats. Set 069's victim statements are testimony rather than equipment.
+
+**Reporting rule restated by the owner: always link the GitHub blob URL when asking a question.**
+The rule applies to option menus, not only to closing reports.
