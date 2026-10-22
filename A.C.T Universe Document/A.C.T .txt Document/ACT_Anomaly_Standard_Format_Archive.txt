@@ -332,7 +332,6 @@ FIELD TYPE CODE REFERENCE
 +-------+-----------------------------------------------------+------------------------------------------------------+
 | Code  | Designation                                         | Definition                                           |
 +=======+=====================================================+======================================================+
-| :---: | ---                                                 | ---                                                  |
 +-------+-----------------------------------------------------+------------------------------------------------------+
 | OB    | Object                                              | Anomalous object — items, artifacts, devices, or     |
 |       |                                                     | materials with properties outside natural law        |
@@ -388,7 +387,6 @@ transformation viability. It is a filing number — nothing more.
 Example Designations
 
 | Designation | Meaning |
-|:---:|---|
 | `UFD-OB-119` | Unverified anomalous object #119 |
 | `AFD-SU-047` | Verified anomalous subject #047 |
 | `AFD-CH-999` | Verified cosmic hazard #999 |

@@ -1859,7 +1859,6 @@ III-3 The Registered Site and Sub-Site Network
 The Global Site Registry records ten major recognized installations:
 
 | Designation | Codename | Class |
-|---|---|---|
 | ACT-SITE-01-US-W | Redwood Veil Complex | Regional Site |
 | ACT-SITE-02-RU-N | White Grave Station | Regional Site |
 | ACT-SITE-03-JP-E | Kurokawa Archive Node | Regional Site |

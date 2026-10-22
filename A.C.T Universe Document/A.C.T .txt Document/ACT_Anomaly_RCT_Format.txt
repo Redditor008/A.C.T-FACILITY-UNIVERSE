@@ -353,7 +353,6 @@ BLOCK REFERENCE
 +---------------------+----------------------------------------------+-----------------------------------------------+
 | Block               | Focus                                        | Core Question                                 |
 +=====================+==============================================+===============================================+
-| :---:               | ---                                          | ---                                           |
 +---------------------+----------------------------------------------+-----------------------------------------------+
 | CO — Containment    | How do we keep it in?                        | *What does it take to hold this anomaly, and  |
 |                     |                                              | what happens when we fail?*                   |
@@ -369,7 +368,6 @@ BLOCK REFERENCE
 DESIGNATION FORMAT
 
 | Prefix | Status | Meaning |
-|:---:|---|---|
 | UFD | Provisional | Unknown Field Designation — assigned during DETECT/VERIFY |
 | AFD | Verified | Anomaly Field Designation — assigned after confirmation |
 
