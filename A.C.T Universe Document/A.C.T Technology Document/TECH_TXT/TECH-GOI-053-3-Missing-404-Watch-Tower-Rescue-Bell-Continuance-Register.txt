@@ -58,7 +58,7 @@ no Tower bell is rung casually, because a bell may be memorial, signal, archive
 lock, or active notice, and an unauthorised ringing could mark a living person as
 missing or draw attention out of an absent site.
 
-Controlled label: **M404-WT NAME CONTINUANCE RULE**.
+Controlled label: M404-WT NAME CONTINUANCE RULE.
 
 Core handling rule:
 
@@ -346,8 +346,8 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2003-02-25
-- **Author Desk:** Subject Care Division / Recovery Division / Central Archive
-- **Review Status:** Active restricted cooperative-continuance technology record; survivor continuance records
+- Created: 2003-02-25
+- Author Desk: Subject Care Division / Recovery Division / Central Archive
+- Review Status: Active restricted cooperative-continuance technology record; survivor continuance records
 held at Level 5
-- **Next Review:** After any state change, any closure proposal, or any unauthorised ringing report
+- Next Review: After any state change, any closure proposal, or any unauthorised ringing report

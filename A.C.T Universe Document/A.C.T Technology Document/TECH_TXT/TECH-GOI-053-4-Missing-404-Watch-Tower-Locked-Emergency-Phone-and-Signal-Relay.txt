@@ -56,7 +56,7 @@ before anything else happens. Personnel do not answer repeated calls alone, beca
 voice may be a survivor, an echo, bait, a delayed record, or a place
 speaking with borrowed human sound.
 
-Controlled label: **M404-WT IMPOSSIBLE-CALL VERIFICATION RULE**.
+Controlled label: M404-WT IMPOSSIBLE-CALL VERIFICATION RULE.
 
 Core handling rule:
 
@@ -343,8 +343,8 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2011-08-30
-- **Author Desk:** Recovery Division / Intelligence Division / Central Archive
-- **Review Status:** Active restricted cooperative-signal technology record; sealed tower ledgers held at Level
+- Created: 2011-08-30
+- Author Desk: Recovery Division / Intelligence Division / Central Archive
+- Review Status: Active restricted cooperative-signal technology record; sealed tower ledgers held at Level
 5
-- **Next Review:** After any new signal, any infrastructure verification, or any routing finding
+- Next Review: After any new signal, any infrastructure verification, or any routing finding

@@ -53,7 +53,7 @@ anomaly, the extraction apparatus, product output, or consumer dream effect is c
 visible incident occurs. Understood carelessly, it produces false confidence, because the same phrase covers
 routine maintenance, emergency source distress, product contamination, and deliberate deception.
 
-Controlled label: **DREAM .INC QUIET-CONDITION PHRASE PRESERVATION RULE**.
+Controlled label: DREAM .INC QUIET-CONDITION PHRASE PRESERVATION RULE.
 
 Core handling rule:
 
@@ -323,9 +323,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2025-06-11
-- **Author Desk:** Intelligence Division / Containment Division / Central Archive
-- **Review Status:** Active restricted corporate-exploitation technology record; original messages preserved and
+- Created: 2025-06-11
+- Author Desk: Intelligence Division / Containment Division / Central Archive
+- Review Status: Active restricted corporate-exploitation technology record; original messages preserved and
 machine location sealed
-- **Next Review:** After any further quiet-condition communication, any confirmed declaration authority, or any
+- Next Review: After any further quiet-condition communication, any confirmed declaration authority, or any
 correlated source-anomaly change

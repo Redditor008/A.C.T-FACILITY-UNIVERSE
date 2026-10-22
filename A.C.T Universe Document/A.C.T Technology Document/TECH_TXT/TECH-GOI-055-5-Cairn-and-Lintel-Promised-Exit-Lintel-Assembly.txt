@@ -58,7 +58,7 @@ with witnesses until nightmares reduce. That treats witness memory as part of th
 aftercare condition rather than as psychological residue, and A.C.T allows case-by-case Subject Care review
 without adopting the view.
 
-Controlled label: **C&L PROMISED EXIT PRESERVATION RULE**.
+Controlled label: C&L PROMISED EXIT PRESERVATION RULE.
 
 Core handling rule:
 
@@ -352,8 +352,8 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 1996-09-12
-- **Author Desk:** Engineering review / Civil Covert Division / Central Archive
-- **Review Status:** Active restricted cooperative-threshold technology record; inhabited shelter interiors held
+- Created: 1996-09-12
+- Author Desk: Engineering review / Civil Covert Division / Central Archive
+- Review Status: Active restricted cooperative-threshold technology record; inhabited shelter interiors held
 at Level 5
-- **Next Review:** After any new preservation, any removal request, or any relocation survey
+- Next Review: After any new preservation, any removal request, or any relocation survey

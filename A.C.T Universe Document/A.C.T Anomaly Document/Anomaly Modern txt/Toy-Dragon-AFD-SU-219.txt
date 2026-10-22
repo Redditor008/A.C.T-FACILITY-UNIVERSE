@@ -120,7 +120,7 @@ AFD-SU-219 is housed in a "Juvenile Habitat" within the Subject Care
 Wing at ACT-SITE-04-BR-C.
 
 1. HABITAT MAINTENANCE: The suite is to be kept at a base temperature
-   of 24°C. The floor must be covered in **Refined Steel-Dirt (Item 42)**
+   of 24°C. The floor must be covered in Refined Steel-Dirt (Item 42)
    to provide a durable, non-abrasive surface for the subject's
    claws and tail.
 
@@ -146,7 +146,7 @@ MONITORING FREQUENCY:    Daily (Welfare checks).
 MAINTENANCE CYCLE:       Weekly habitat cleaning.
 
 BREACH PROTOCOL:         The subject is non-hostile. If it leaves its suite,
-                         utilize **Thermal-Lure Beacons (Item 15)** or
+                         utilize Thermal-Lure Beacons (Item 15) or
                          fatty-fruit lures to guide it back. It is
                          easily distracted by shiny objects.
 

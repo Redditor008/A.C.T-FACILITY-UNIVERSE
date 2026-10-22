@@ -27,7 +27,7 @@ DOSSIER STATUS:      Open / Boundary Geometry Logged
                          CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
-This dossier documents the **Boundary Audit of October 2024**. The goal
+This dossier documents the Boundary Audit of October 2024. The goal
 was to determine if the "Unround" fog perimeter can be predicted using
 non-Euclidean geometry and to measure the physical sensation of the
 recursive "Snap" during displacement.

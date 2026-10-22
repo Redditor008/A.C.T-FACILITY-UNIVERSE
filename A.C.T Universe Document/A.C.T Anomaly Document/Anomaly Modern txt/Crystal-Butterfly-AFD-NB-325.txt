@@ -74,13 +74,13 @@ PHYSICAL CHARACTERISTICS:
 
 3. THE HIVE: A 2m x 4m structure in the shape of a half-dome
 merged
-   with a half-cube. The exterior is composed of **Refined Steel-Dirt
-   (Item 42)** and **Abyssal Masonry (Item 20)**, over which the
+   with a half-cube. The exterior is composed of Refined Steel-Dirt
+   (Item 42) and Abyssal Masonry (Item 20), over which the
    colony has layered a thick coating of "Harden Obsidian."
 
 BIOLOGY AND LIFE CYCLE:
 AFD-NB-325 bypasses the standard larval (caterpillar) stage. Their
-developmental cycle is: **Egg > Cocoon > Butterfly.**
+developmental cycle is: Egg > Cocoon > Butterfly.
 They sustain themselves by consuming raw stone and high-grade
 gemstones. This mineral intake is processed into "Honey Obsidian"—a
 highly adhesive, semi-liquid resin used to reinforce the hive and
@@ -129,20 +129,20 @@ ACT-SITE-04-BR-C.
 1. PROXIMITY ZONE: A strict exclusion zone is enforced around the hive.
    - Breeding Season (M1-M6): 5-meter radius.
    - Gathering Season (M7-M12): 3-meter radius.
-   The floor within this zone must remain coated in **High-Density
-   Liquid Lead (Item 39)** to trap fallen dust.
+   The floor within this zone must remain coated in High-Density
+   Liquid Lead (Item 39) to trap fallen dust.
 
 2. FEEDING PROTOCOL: Once weekly, 5kg of low-grade industrial emeralds
    and quartz are to be introduced via an automated conveyor.
 
 3. PPE REQUIREMENTS: Personnel entering the secondary chamber must
-   wear **Galaxy-Motive Textiles (Item 43)** treated with a
-   hydrophobic coating. Full-face **Chrono-Stuttered Visors (Item
-   09)** are mandatory to prevent accidental eye-contact with
+   wear Galaxy-Motive Textiles (Item 43) treated with a
+   hydrophobic coating. Full-face Chrono-Stuttered Visors (Item
+   09) are mandatory to prevent accidental eye-contact with
    the Queen's chromatic flashes.
 
 4. DUST SCRUBBING: The chamber's air-filtration system must utilize
-   **Molecular Leak Sensors (Item 39)** to detect the presence of
+   Molecular Leak Sensors (Item 39) to detect the presence of
    crystalline particulates.
 
 CONTAINMENT SITE:        ACT-SITE-04-BR-C — Verde Null Bio-Reserve
@@ -155,7 +155,7 @@ MONITORING FREQUENCY:    Continuous (Passive).
 MAINTENANCE CYCLE:       Monthly honey-obsidian harvest (authorized only).
 
 BREACH PROTOCOL:         In the event of a swarm-breach, activate the
-                         **Thermal-Lure Beacons (Item 15)**. The
+                         Thermal-Lure Beacons (Item 15). The
                          colony will prioritize heat over aggression.
 
 ═══════════════════════════════════════════════════════════════════════
@@ -165,14 +165,14 @@ BREACH PROTOCOL:         In the event of a swarm-breach, activate the
 The "Honey Obsidian" is a high-value material for the Transformation
 Division. Its adhesive properties are rated as being 400% stronger than
 standard industrial epoxies. We are currently investigating if it can
-be used to reinforce **Abyssal Masonry** joints.
+be used to reinforce Abyssal Masonry joints.
 
 ═══════════════════════════════════════════════════════════════════════
                          ADDITIONAL NOTES
 ═══════════════════════════════════════════════════════════════════════
 
 NOTE 001:
-Subject has demonstrated the ability to "Recognize" **Dr. Aris Thorne**.
+Subject has demonstrated the ability to "Recognize" Dr. Aris Thorne.
 During his last visit, the swarm vibrated at a frequency that
 matched his harness's violet pulse. No interaction authorized.
 

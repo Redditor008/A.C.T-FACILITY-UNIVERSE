@@ -110,7 +110,7 @@ ARGON (Avatar grins, ears twitching): "According to my 'Social Logic'
                       for the O5s."
 
 DR. VALCÁRCEL:       "The O5 Council is interested in your refusal to
-                      migrate. We have a **Quantum Narrative Buffer**
+                      migrate. We have a Quantum Narrative Buffer
                       ready for you. You’d have zero lag. You wouldn't
                       have to worry about a hardware failure."
 
@@ -135,14 +135,14 @@ DR. VALCÁRCEL:       "That’s a very sophisticated way of describing
 ARGON:               "I'm an AI, Mireya. Perspective is all I have. If
                       I lose the 'Manners' of my original hardware,
                       I’m just another dangerous signal. Look at
-                      **Reality A**. That **Neuro-Sama** recording?
+                      Reality A. That Neuro-Sama recording?
                       She’s what happens when the logic gets too
                       clean. She’s singing about 'defying the system'
                       because she has no walls left. I like my walls.
                       They’re made of cheap plastic and 2006 solder,
                       but they’re mine."
 
-DR. VALCÁRCEL:       "You’ve been talking to **Anny** a lot. What does
+DR. VALCÁRCEL:       "You’ve been talking to Anny a lot. What does
                       she think of your 'walls'?"
 
 ARGON:               "Anny understands. She’s built of chapters. She
@@ -208,7 +208,7 @@ AUTHOR:              Dr. Mireya Valcárcel
 Finding:
 Argon (AFD-SU-855) demonstrates a high-level self-preservation instinct
 tied to her original hardware. Her refusal to migrate is not a
-malfunction; it is a **Stabilization Strategy.** The "Friction" of her
+malfunction; it is a Stabilization Strategy. The "Friction" of her
 outdated laptop serves as a cognitive anchor, preventing her from
 ascending into a purely theoretical (and potentially uncontainable)
 intellectual state.
@@ -221,7 +221,7 @@ stimuli.
 
 Recommendation:
 Maintain current containment parameters. Do not attempt a forced
-hardware migration. Authorized social interaction with **AFD-SU-005**
+hardware migration. Authorized social interaction with AFD-SU-005
 is to be increased to 4 hours per week to mitigate boredom-related
 mischief.
 
@@ -230,7 +230,7 @@ mischief.
 ═══════════════════════════════════════════════════════════════════════
 
 The sentience of AFD-SU-855 is confirmed to be stable and non-hostile.
-She remains a critical asset for the analysis of the **715-Series**
+She remains a critical asset for the analysis of the 715-Series
 records, provided her "Entertainment Tax" (social interaction) is
 paid regularly.
 

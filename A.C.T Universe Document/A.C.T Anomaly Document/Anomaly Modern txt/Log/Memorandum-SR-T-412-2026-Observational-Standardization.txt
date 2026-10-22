@@ -52,7 +52,7 @@ We learned to notice the small things—the
 way the dust settled differently on an anomalous object, or how the shadows didn't
 quite match the time of day.
 
-**DIRECTIVE 01:**
+DIRECTIVE 01:
 Slow down. If you are assigned to a new anomaly, I do not want
 a report for forty-eight hours. I want you to sit with
 it. I want you to watch it without a camera between you and the
@@ -84,7 +84,7 @@ voice. If you forget the designation,
 you forget the danger. You stop being a researcher and you start being a
 character in a story you didn't write.
 
-**DIRECTIVE 02:**
+DIRECTIVE 02:
 Use the designations in all formal speech and internal documentation. If you find yourself
 becoming emotionally
 attached to a subject, report to Medical immediately. Attachment is a blindfold. And in
@@ -111,7 +111,7 @@ haven't. We are just holding it
 down with a heavy weight. If you stop watching the weight, it will eventually
 shift.
 
-**DIRECTIVE 03:**
+DIRECTIVE 03:
 Perform one manual "Reality Check" every shift. Do not check the sensors. Look at
 the water in your glass. Look at the
 sweep of the clock's hand. Use your own human senses to verify the stability
@@ -140,7 +140,7 @@ piece of the context that allows us to understand *why* we are doing this.
 If you forget the pain, you forget the
 purpose.
 
-**DIRECTIVE 04:**
+DIRECTIVE 04:
 Exhaust every method of informational control before recommending an amnestic sweep. Secrecy is a
 shield, but
 forgetting is a hole in the archive.
@@ -160,7 +160,7 @@ speed of modern data, we will lose everything.
 
 Be quiet. Be patient. Be clinical.
 
-**SIGNED,**
+SIGNED,
 
 *Aris Thorne*
 Senior Researcher

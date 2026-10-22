@@ -81,7 +81,7 @@ CORE ANOMALOUS FEATURES:
    clearance A.C.T credit chips, and anomalous currency.
 
 3. SPATIAL SIZE CONSTRAINT: Regardless of the item’s origin or value,
-   the dispensed object is **always between 30 cm and 90 cm** in its
+   the dispensed object is always between 30 cm and 90 cm in its
    largest dimension. If a requested item (e.g., a car) is naturally
    larger, the machine dispenses a 90 cm "Truncated" or "Miniature"
    version that retains the weight and functionality of the original.

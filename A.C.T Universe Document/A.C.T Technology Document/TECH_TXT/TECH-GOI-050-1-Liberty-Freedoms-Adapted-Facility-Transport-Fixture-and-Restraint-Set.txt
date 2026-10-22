@@ -54,7 +54,7 @@ condition they were designed to preserve is not maintained. That combination is 
 than crude improvisation, because a correctly fitted fixture on an unmaintained condition looks like
 competent handling from the outside.
 
-Controlled label: **L.F. ADAPTED-FIXTURE DIVERSION-FIRST RULE**.
+Controlled label: L.F. ADAPTED-FIXTURE DIVERSION-FIRST RULE.
 
 Core handling rule:
 
@@ -322,9 +322,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2012-09-18
-- **Author Desk:** Containment Division / Hostile Networks Desk / Central Archive
-- **Review Status:** Active restricted hostile-network technology record; defector identities and diversion
+- Created: 2012-09-18
+- Author Desk: Containment Division / Hostile Networks Desk / Central Archive
+- Review Status: Active restricted hostile-network technology record; defector identities and diversion
 source details sealed
-- **Next Review:** After any fixture recovery, any traced diversion lot, or any subject injury
+- Next Review: After any fixture recovery, any traced diversion lot, or any subject injury
 attributed to restraint

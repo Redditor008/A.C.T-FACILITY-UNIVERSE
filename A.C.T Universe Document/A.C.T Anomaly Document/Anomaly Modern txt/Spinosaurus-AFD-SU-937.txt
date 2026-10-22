@@ -122,11 +122,11 @@ AFD-SU-937 is housed in a "Massive Box" biological arena at
 ACT-SITE-04-BR-C.
 
 1. STRUCTURAL REINFORCEMENT: The containment walls are composed of
-   layered **Abyssal Anchor Plating (Item 34)** to withstand the
+   layered Abyssal Anchor Plating (Item 34) to withstand the
    subject's reinforced physical strikes.
 
-2. THERMAL MANAGEMENT: The arena utilizes **Thermal-Lure Beacons
-   (Item 15)** to guide the subject into its feeding and medical bays.
+2. THERMAL MANAGEMENT: The arena utilizes Thermal-Lure Beacons
+   (Item 15) to guide the subject into its feeding and medical bays.
    Maintaining a 30°C baseline is essential for behavioral stability.
 
 3. TRANQUILIZATION PROTOCOL: Standard tranquilizers are ineffective.
@@ -148,8 +148,8 @@ REQUIRED PERSONNEL:      1 Paleontological Consultant, 2 Heavy Security
 MONITORING FREQUENCY:    Continuous (Acoustic and Thermal).
 MAINTENANCE CYCLE:       Monthly structural-integrity audit of plating.
 
-BREACH PROTOCOL:         If a breach occurs, deploy the **FCA (Facility
-                         Converted Aircraft)** with heavy cable-restraints.
+BREACH PROTOCOL:         If a breach occurs, deploy the FCA (Facility
+                         Converted Aircraft) with heavy cable-restraints.
                          Do not engage with small arms; utilize
                          industrial-grade magnetic torsion restraints
                          to pin the subject's tungsten skeleton.

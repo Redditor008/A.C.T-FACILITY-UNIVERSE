@@ -55,7 +55,7 @@ normal law, so the highest bidder is not necessarily the wealthiest party in an
 ordinary sense. A ledger read as a financial document is unread; a ledger read
 as a demand document is intelligence.
 
-Controlled label: **ANSTRALL MARKET PRICE-AS-RISK-RATING PROHIBITION**.
+Controlled label: ANSTRALL MARKET PRICE-AS-RISK-RATING PROHIBITION.
 
 Core handling rule:
 
@@ -323,9 +323,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2004-03-26
-- **Author Desk:** Intelligence Division / Trade Interdiction Desk / Central Archive
-- **Review Status:** Active restricted trade-interdiction technology record; buyer identities and live demand
+- Created: 2004-03-26
+- Author Desk: Intelligence Division / Trade Interdiction Desk / Central Archive
+- Review Status: Active restricted trade-interdiction technology record; buyer identities and live demand
 lines censored
-- **Next Review:** After any recovered valuation note, any confirmed repeat client, or any price
+- Next Review: After any recovered valuation note, any confirmed repeat client, or any price
 movement on an object already held

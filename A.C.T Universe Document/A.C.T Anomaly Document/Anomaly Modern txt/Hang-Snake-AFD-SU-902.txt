@@ -122,8 +122,8 @@ AFD-SU-902 is housed in a "Sanded-Steel" biological vault at
 ACT-SITE-02-RU-N.
 
 1. TENSION MONITORING: The subject must be kept in a "Slack State"
-   within its vault. The floor is lined with **Abyssal Anchor Plating
-   (Item 34)** to prevent the subject from burrowing or
+   within its vault. The floor is lined with Abyssal Anchor Plating
+   (Item 34) to prevent the subject from burrowing or
    leveraging itself against standard concrete.
 
 2. NO LOOSE ENDS: Personnel entering the secondary chamber are
@@ -137,7 +137,7 @@ ACT-SITE-02-RU-N.
    feeding is authorized.
 
 4. THERMAL DAMPENING: The vault temperature is maintained at 10°C
-   via a **Cryo-Seismic Stabilizer (Item 26)** loop. This induces
+   via a Cryo-Seismic Stabilizer (Item 26) loop. This induces
    a state of "Fiber-Stiffness," significantly slowing the subject's
    reaction time.
 
@@ -150,11 +150,11 @@ REQUIRED PERSONNEL:      2 Animal Handlers, 1 Bio-Maintenance Tech.
 MONITORING FREQUENCY:    Continuous (CCTV and Tension-Sensors).
 MAINTENANCE CYCLE:       Quarterly fiber-integrity scan.
 
-BREACH PROTOCOL:         In the event of a breach, utilize **Causal
-                         Anchor Nails (Item 30)** to pin sections of
+BREACH PROTOCOL:         In the event of a breach, utilize Causal
+                         Anchor Nails (Item 30) to pin sections of
                          the rope to a hard surface. Do not attempt
                          to cut the subject with standard blades; use
-                         **Pale Wood Scalpels (Item 14)** if
+                         Pale Wood Scalpels (Item 14) if
                          disarticulation is necessary.
 
 ═══════════════════════════════════════════════════════════════════════

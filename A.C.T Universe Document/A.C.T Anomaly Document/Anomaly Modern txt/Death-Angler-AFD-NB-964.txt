@@ -77,7 +77,7 @@ STAGE I — THE HYPNOTIC LURE:
 When the luminescent lure is active, it emits a memetic visual signal.
 Any sentient viewer perceives the light as "profoundly beautiful" and
 develops an irresistible compulsion to approach the light source. If
-the lure is **inactive**, the subject becomes functionally invisible.
+the lure is inactive, the subject becomes functionally invisible.
 It cannot be seen, photographed, or detected via standard light-based
 sensors.
 
@@ -120,20 +120,20 @@ AFD-NB-964 is housed in a "Blind Box" Abyssal Aquarium at
 ACT-SITE-05-ID-C.
 
 1. STRUCTURAL REINFORCEMENT: The tank walls are constructed of
-   2-meter thick **Abyssal Anchor Plating (Item 34)** to withstand
+   2-meter thick Abyssal Anchor Plating (Item 34) to withstand
    Dread Hunt impact events.
 
 2. SENSORY MONITORING: As the subject is invisible to standard optics,
-   monitoring is performed exclusively via **Sub-Abyssal Sonar (Item 37)**
-   and **Digital Resonance Sensors (Item 10)**.
+   monitoring is performed exclusively via Sub-Abyssal Sonar (Item 37)
+   and Digital Resonance Sensors (Item 10).
 
-3. OPTICAL LOCKDOWN: The observation deck is fitted with **Phase-
-   Shifted Containment Glass (Item 35)**. Unfiltered direct viewing of
+3. OPTICAL LOCKDOWN: The observation deck is fitted with Phase-
+   Shifted Containment Glass (Item 35). Unfiltered direct viewing of
    the active lure is strictly prohibited.
 
 4. FEEDING: Subject is fed non-sentient biological mass every 30 days.
-   During feeding, the room must be flooded with **Banalist White-Noise
-   (Item 24)** to dampen the acoustic impact of the hunt-screech.
+   During feeding, the room must be flooded with Banalist White-Noise
+   (Item 24) to dampen the acoustic impact of the hunt-screech.
 
 CONTAINMENT SITE:        ACT-SITE-05-ID-C — Nusantara Deep Relay
 SITE TYPE:               Primary Site / Maritime and Abyssal Containment

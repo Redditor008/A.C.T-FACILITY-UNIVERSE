@@ -82,12 +82,12 @@ current high-tech era.
 ═══════════════════════════════════════════════════════════════════════
 
 SPECIAL SKILLS:
-*   **Causal-Pulse Sensing:** Thorne can "hear" the resonance of other
+*   Causal-Pulse Sensing: Thorne can "hear" the resonance of other
     anomalies. He describes it as a hum or a specific tone that
     identifies the Field Type (OB, SU, PL, etc.) of an object before
     it is even scanned.
-— **Ancient Linguistics:** Proficient in 14 dead languages.
-— **Stasis Endurance:** Capable of working in high-pressure or
+— Ancient Linguistics: Proficient in 14 dead languages.
+— Stasis Endurance: Capable of working in high-pressure or
     toxic environments without fatigue or metabolic failure.
 
 DEMEANOR:
@@ -97,7 +97,7 @@ delay. He still wears his 1990s-era lab coat, claiming that modern
 textiles "feel wrong" against his harness.
 
 RELATIONS:
-Maintains a professional but protective bond with **Anny (AFD-SU-005)**.
+Maintains a professional but protective bond with Anny (AFD-SU-005).
 He refers to her as the "only other person in the building who
 remembers the silence correctly."
 

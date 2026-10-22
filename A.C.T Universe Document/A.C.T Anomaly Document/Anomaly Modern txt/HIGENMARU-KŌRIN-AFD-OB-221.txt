@@ -58,13 +58,13 @@ NARRATIVE STATUS:    The incident was suppressed as a technical failure
                          DESCRIPTION
 ═══════════════════════════════════════════════════════════════════════
 
-AFD-OB-221 consists of a curved single-handed sword named **緋玄丸
-(HIGENMARU)** and its specialized scabbard named **紅鱗 (KŌRIN)**. The
+AFD-OB-221 consists of a curved single-handed sword named 緋玄丸
+(HIGENMARU) and its specialized scabbard named 紅鱗 (KŌRIN). The
 pair measures 90 cm in length and possesses unique physical and
 metaphysical traits derived from their disparate material compositions.
 
 PHYSICAL CHARACTERISTICS:
-1. THE BLADE (**緋玄丸 / HIGENMARU**):
+1. THE BLADE (緋玄丸 / HIGENMARU):
    Refers to the 90 cm primary asset. Denotes the synthesis of the
    pulsating scarlet upper edge (Absolute Cutting Force) and the
    matte-black lower edge (Selective Causal Breach). The *-maru* suffix
@@ -79,17 +79,17 @@ PHYSICAL CHARACTERISTICS:
      the wielder's line of sight, cutting only the intended object while
      leaving all surrounding material entirely unaffected.
 
-2. THE HILT: Composed of a rare, non-terrestrial **Blue Wood**. The
-   grain of the wood is fitted with a **Pressure-Sensitive Disc** that
+2. THE HILT: Composed of a rare, non-terrestrial Blue Wood. The
+   grain of the wood is fitted with a Pressure-Sensitive Disc that
    monitors the wielder's biological output and stamina-drain status.
 
-3. THE SCABBARD (**紅鱗 / KŌRIN**):
+3. THE SCABBARD (紅鱗 / KŌRIN):
    Refers to the containment scabbard architecture. Logged after the
    structural analysis confirmed an exterior weave of unknown,
    thermally fluctuating scales layered over anomalous red wood.
 
 THE COST OF USE:
-Utilization of **緋玄丸 (HIGENMARU)** requires an immense expenditure of
+Utilization of 緋玄丸 (HIGENMARU) requires an immense expenditure of
 biological stamina. The weapon establishes a metabolic link with the
 wielder to fuel its "Focus" and "Selective Breach" subroutines.
 Prolonged usage (exceeding 30 seconds) results in acute exhaustion,
@@ -109,7 +109,7 @@ SECONDARY EFFECT:    Selective Intent-Based Slashing (Onyx Edge). The
 TERTIARY EFFECT:     Metabolic Siphoning. The weapon uses the wielder's
                      stamina as a tactical fuel-source.
 
-TRIGGER CONDITION:   Manual draw from **紅鱗 (KŌRIN)** / Intent to strike.
+TRIGGER CONDITION:   Manual draw from 紅鱗 (KŌRIN) / Intent to strike.
 
 RANGE / AREA OF
 INFLUENCE:           Physical reach / 5m Intent-Radius.
@@ -126,19 +126,19 @@ REALITY INTERACTION: Causal-Matter Decoupling / Biological Energy
 AFD-OB-221 is contained in a "High-Tension Magnetic Locker" at
 ACT-SITE-01-US-W.
 
-1. SHEATHED MANDATE: **緋玄丸 (HIGENMARU)** must remain inside
-   **紅鱗 (KŌRIN)** at all times. The scabbard is fitted with a
-   **[ REDACTED ]-phase lock** that can only be disengaged via a
+1. SHEATHED MANDATE: 緋玄丸 (HIGENMARU) must remain inside
+   紅鱗 (KŌRIN) at all times. The scabbard is fitted with a
+   [ REDACTED ]-phase lock that can only be disengaged via a
    Level-4 biometric key.
 
-2. STASIS STORAGE: The locker is lined with **Abyssal Masonry (Item 20)**
-   and monitored by **Digital Resonance Sensors (Item 10)**. Any
+2. STASIS STORAGE: The locker is lined with Abyssal Masonry (Item 20)
+   and monitored by Digital Resonance Sensors (Item 10). Any
    vibration in the "Crimson Frequency" triggers an immediate
    automated lockdown.
 
 3. PERSONNEL LIMIT: No personnel with a "Low Stamina" medical rating
    are permitted to handle the artifact. Training with the weapon is
-   restricted to **Vesper-Pattern Tactical AI (Item 40)**
+   restricted to Vesper-Pattern Tactical AI (Item 40)
    simulations to avoid personnel fatalities.
 
 CONTAINMENT SITE:        ACT-SITE-01-US-W — Redwood Veil Complex
@@ -151,7 +151,7 @@ MONITORING FREQUENCY:    Weekly inventory audit.
 MAINTENANCE CYCLE:       N/A.
 
 BREACH PROTOCOL:         In the event of an unsheathed breach, utilize
-                         **Magnetic Torsion Restraints (Item 05)** to
+                         Magnetic Torsion Restraints (Item 05) to
                          lock the blade in space. Do not attempt to
                          parry with standard equipment.
 
@@ -159,12 +159,12 @@ BREACH PROTOCOL:         In the event of an unsheathed breach, utilize
                          RESEARCH SUMMARY
 ═══════════════════════════════════════════════════════════════════════
 
-The **HIGENMARU-KŌRIN** is an apex example of a "Causal Tool." The onyx
+The HIGENMARU-KŌRIN is an apex example of a "Causal Tool." The onyx
 side suggests a high-level mastery of intent-based reality warping,
 while the crimson side is a brute-force violation of material physics.
 
-The **Blue Wood** hilt has been cross-referenced with the **Dark World
-(AFD-PL-932)** archive; while not an exact match to **Pale Wood**, it
+The Blue Wood hilt has been cross-referenced with the Dark World
+(AFD-PL-932) archive; while not an exact match to Pale Wood, it
 shares similar trace elements.
 
 ═══════════════════════════════════════════════════════════════════════
@@ -177,7 +177,7 @@ TRANSFORMATION NOTES:
 The Engineering Division is investigating whether the "Selective
 Slashing" effect can be reverse-engineered for surgical use. If we can
 "Cut" the anomalous growth without harming healthy tissue, subjects like
-**Vivienne Argent** could potentially be reverted.
+Vivienne Argent could potentially be reverted.
 
 ═══════════════════════════════════════════════════════════════════════
                          ADDITIONAL NOTES

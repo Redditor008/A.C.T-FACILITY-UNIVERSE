@@ -50,14 +50,14 @@ reverse-engineered from
 future-displaced tech. The visual reference records matte-black carbon-tungsten spurs with high-speed pneumatic
 pistons and a Bio-Feed Connector linking the hardware directly to the user's sacral nerves.
 The Mysterious Guild
-dossier lists **Item-M2 Neuro-Mantid Sacral-Scythes** among Guild assets, and the naming correspondence is close
+dossier lists Item-M2 Neuro-Mantid Sacral-Scythes among Guild assets, and the naming correspondence is close
 enough that Engineering treats the two as related rather than identical.
 
 Nothing in this record claims that A.C.T understands how the spurs work. The reverse-engineering
 is complete enough to
 build them and not complete enough to explain them.
 
-Controlled label: **NMSS PROVENANCE DISCLOSURE LIMIT**.
+Controlled label: NMSS PROVENANCE DISCLOSURE LIMIT.
 
 Core issue rule:
 
@@ -71,7 +71,7 @@ FUNCTION SUMMARY
 The spurs serve two functions that are mechanically the same action read two different
 ways.
 
-**Anchoring.** Fired downward into a floor, wall, or slope, a spur holds an operator
+Anchoring. Fired downward into a floor, wall, or slope, a spur holds an operator
 in place against forces that
 would otherwise move them: spatial shear, pressure differential, recoil from a heavy system, or
 the local drag of a
@@ -79,7 +79,7 @@ distortion event. Field Command issues them primarily for this. A.C.T has lost f
 on unstable geometry
 since fitment began than it did in the equivalent period before.
 
-**Piercing.** The same stroke driven horizontally is a high-velocity piercing weapon. The Master Catalog
+Piercing. The same stroke driven horizontally is a high-velocity piercing weapon. The Master Catalog
 records this
 as part of the system, and Field Command does not pretend otherwise. The spurs
 are issued as an anchoring tool and are
@@ -95,12 +95,12 @@ stealth system and has never been issued as one.
 
 PROVENANCE AND REVERSE-ENGINEERING STATUS
 
-The Catalog's phrase is **future-displaced tech**, and A.C.T has not improved on it. The
+The Catalog's phrase is future-displaced tech, and A.C.T has not improved on it. The
 source material predates
 A.C.T's ability to date it and does not match any manufacturing tradition in the
 Engineering reference set.
 
-The Mysterious Guild holds a related asset under the designation **Item-M2 Neuro-Mantid Sacral-Scythes**. Whether
+The Mysterious Guild holds a related asset under the designation Item-M2 Neuro-Mantid Sacral-Scythes. Whether
 A.C.T's spurs are a copy of Guild hardware, a parallel development from the same
 displaced source, or an earlier
 variant of it is unresolved. The Guild dossier does not describe Item-M2's construction, and
@@ -110,8 +110,8 @@ been recovered intact.
 What Engineering has established:
 
 - the carbon-tungsten spur body can be manufactured to specification using A.C.T metallurgy;
-- the **High-Speed Pneumatic Pistons** can be manufactured, serviced, and replaced;
-- the **Bio-Feed Connector** cannot be manufactured from first principles. It is reproduced by
+- the High-Speed Pneumatic Pistons can be manufactured, serviced, and replaced;
+- the Bio-Feed Connector cannot be manufactured from first principles. It is reproduced by
 copying recovered
 geometry, and Engineering cannot explain why the copied geometry works;
 - no A.C.T-built connector has ever been fitted without a recovered reference unit present
@@ -133,14 +133,14 @@ reverse.
 
 Components:
 
-- **spur bodies**, carbon-tungsten, replaceable, wear visibly and are retired on measurement rather than
+- spur bodies, carbon-tungsten, replaceable, wear visibly and are retired on measurement rather than
 on schedule;
-- **High-Speed Pneumatic Pistons**, one per spur, serviceable by Engineering, the only fully understood
+- High-Speed Pneumatic Pistons, one per spur, serviceable by Engineering, the only fully understood
 part of the
 system;
-- **Bio-Feed Connector**, seated against the sacral nerve group, the sole control path;
-- **pelvic frame**, adjustable, load-bearing, transfers stroke recoil into the operator's core;
-- **manual disconnect**, present on every fitted unit, which severs the bio-feed but does
+- Bio-Feed Connector, seated against the sacral nerve group, the sole control path;
+- pelvic frame, adjustable, load-bearing, transfers stroke recoil into the operator's core;
+- manual disconnect, present on every fitted unit, which severs the bio-feed but does
 not remove the implant.
 
 The connector has no readable output, no indicator, and no diagnostic port. An operator
@@ -427,11 +427,11 @@ does it send back?
 
 FILE METADATA
 
-**Created:** 2025-07-15
+Created: 2025-07-15
 
-**Author Desk:** Field Command / Engineering Division / Medical Division / Central Archive
+Author Desk: Field Command / Engineering Division / Medical Division / Central Archive
 
-**Review Status:** Active restricted tactical technology record; provenance and connector derivation unresolved
+Review Status: Active restricted tactical technology record; provenance and connector derivation unresolved
 
-**Next Review:** After any Guild Item-M2 recovery, any connector manufacturing breakthrough, or any mass-drift
+Next Review: After any Guild Item-M2 recovery, any connector manufacturing breakthrough, or any mass-drift
 explanation

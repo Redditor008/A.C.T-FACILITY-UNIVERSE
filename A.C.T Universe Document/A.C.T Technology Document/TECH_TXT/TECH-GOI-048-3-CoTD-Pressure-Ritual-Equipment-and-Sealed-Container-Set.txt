@@ -53,7 +53,7 @@ water-control, drainage, or submerged industrial location, the same items become
 technology here is not the hardware; it is the legality of every component and
 the ordinary professional access that lets the components accumulate in one place.
 
-Controlled label: **COTD PRESSURE-SET ASSEMBLY PROHIBITION**.
+Controlled label: COTD PRESSURE-SET ASSEMBLY PROHIBITION.
 
 Core handling rule:
 
@@ -325,9 +325,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2018-03-07
-- **Author Desk:** Containment Division / Cultic Networks Desk / Central Archive
-- **Review Status:** Active restricted cultic-networks technology record; custody site addresses and separated
+- Created: 2018-03-07
+- Author Desk: Containment Division / Cultic Networks Desk / Central Archive
+- Review Status: Active restricted cultic-networks technology record; custody site addresses and separated
 material sealed
-- **Next Review:** After any custody-site recovery, any anomalous material separation, or any confirmed pressure
+- Next Review: After any custody-site recovery, any anomalous material separation, or any confirmed pressure
 apparatus effect

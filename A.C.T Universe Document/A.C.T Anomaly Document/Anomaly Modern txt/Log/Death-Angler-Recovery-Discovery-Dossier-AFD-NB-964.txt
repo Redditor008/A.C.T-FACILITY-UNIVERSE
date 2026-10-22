@@ -81,17 +81,17 @@ subject remained invisible for the next 22 days.
 LOG ID:              AFD-NB-964/REC-03
 DATE:                2024-02-12
 
-Following the integration of **Sub-Abyssal Sonar (Item 37)**, the
+Following the integration of Sub-Abyssal Sonar (Item 37), the
 recovery team was able to track the subject's physical mass regardless
 of its optical state.
 
 THE TRAP:
-A high-capacity **FCA (Facility Converted Aircraft)** was positioned in
+A high-capacity FCA (Facility Converted Aircraft) was positioned in
 a low-hover over the deployment zone. Tactical divers used remote-
 controlled "Dummy" submersibles to trigger the "Dread Hunt" screech.
 
-When the subject attacked the decoys, it was snared using **Causal
-Tethering Cables (Item 03)** and heavy magnetic torsion collars.
+When the subject attacked the decoys, it was snared using Causal
+Tethering Cables (Item 03) and heavy magnetic torsion collars.
 Extraction took 48 hours to reach the Site-05 surface elevator.
 
 ═══════════════════════════════════════════════════════════════════════

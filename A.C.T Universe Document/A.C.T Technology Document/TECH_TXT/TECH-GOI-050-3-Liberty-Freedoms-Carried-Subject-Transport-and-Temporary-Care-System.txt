@@ -51,7 +51,7 @@ care rather than destroy them, which preserves L.F. doctrine and complicates rec
 abandoned subject is often still conditioned by the care it received. A.C.T therefore treats
 abandonment as an operational state to be assessed rather than as a fortunate outcome.
 
-Controlled label: **L.F. CARRIED-SUBJECT DISPOSABILITY PROHIBITION**.
+Controlled label: L.F. CARRIED-SUBJECT DISPOSABILITY PROHIBITION.
 
 Core handling rule:
 
@@ -320,8 +320,8 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2019-11-27
-- **Author Desk:** Containment Division / Medical Care Division / Central Archive
-- **Review Status:** Active restricted hostile-network technology record; seized-subject files and case chains
+- Created: 2019-11-27
+- Author Desk: Containment Division / Medical Care Division / Central Archive
+- Review Status: Active restricted hostile-network technology record; seized-subject files and case chains
 held separately
-- **Next Review:** After any subject recovery, any abandonment event, or any confirmed handling-harm pattern
+- Next Review: After any subject recovery, any abandonment event, or any confirmed handling-harm pattern

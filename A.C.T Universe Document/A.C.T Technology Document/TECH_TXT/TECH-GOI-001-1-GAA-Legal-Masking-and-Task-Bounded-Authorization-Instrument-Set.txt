@@ -54,7 +54,7 @@ of a document: its scope, its duration, and its specificity. Those three fields 
 the secrecy, and a wider authorization signed at a higher rank is a weaker
 control than a narrow one signed at a lower rank.
 
-Controlled label: **GAA AUTHORIZATION-SCOPE DISCLOSURE LIMIT**.
+Controlled label: GAA AUTHORIZATION-SCOPE DISCLOSURE LIMIT.
 
 Core handling rule:
 
@@ -318,8 +318,8 @@ later?
 
 FILE METADATA
 
-- **Created:** 2011-02-17
-- **Author Desk:** Intelligence Division / Civil Covert Division / Central Archive
-- **Review Status:** Active restricted GOI technology record; liaison route identities censored
-- **Next Review:** After any standing-authority proposal, any confirmed authority persistence, or any change in
+- Created: 2011-02-17
+- Author Desk: Intelligence Division / Civil Covert Division / Central Archive
+- Review Status: Active restricted GOI technology record; liaison route identities censored
+- Next Review: After any standing-authority proposal, any confirmed authority persistence, or any change in
 GAA cooperation posture

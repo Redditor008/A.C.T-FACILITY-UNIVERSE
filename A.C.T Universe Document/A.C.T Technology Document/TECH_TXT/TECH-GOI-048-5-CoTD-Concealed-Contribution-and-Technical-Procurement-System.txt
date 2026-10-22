@@ -53,7 +53,7 @@ fact is the operational core of this record: preparation equipment keeps moving 
 channels while most participants believe they are supporting harmless local activity, so the supply
 chain contains no member who can describe it.
 
-Controlled label: **COTD TARGET-BARGAINING PROHIBITION**.
+Controlled label: COTD TARGET-BARGAINING PROHIBITION.
 
 Core handling rule:
 
@@ -326,9 +326,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2025-02-25
-- **Author Desk:** Intelligence Division / Cultic Networks Desk / Central Archive
-- **Review Status:** Active restricted cultic-networks technology record; live sources, departure identities,
+- Created: 2025-02-25
+- Author Desk: Intelligence Division / Cultic Networks Desk / Central Archive
+- Review Status: Active restricted cultic-networks technology record; live sources, departure identities,
 and carrier names sealed
-- **Next Review:** After any procurement interdiction, any new deep-water data request, or any confirmed
+- Next Review: After any procurement interdiction, any new deep-water data request, or any confirmed
 Dredger external contact

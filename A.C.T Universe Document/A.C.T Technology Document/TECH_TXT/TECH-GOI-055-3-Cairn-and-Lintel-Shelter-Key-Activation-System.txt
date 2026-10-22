@@ -57,7 +57,7 @@ can follow them, and the dossier does not choose. Either way the handling rule
 is the same: an active shelter key is not taken from a civilian carrier,
 and where a child holds it, Subject Care controls communication.
 
-Controlled label: **C&L SHELTER KEY CUSTODY RULE**.
+Controlled label: C&L SHELTER KEY CUSTODY RULE.
 
 Core handling rule:
 
@@ -350,8 +350,8 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 1978-07-24
-- **Author Desk:** Recovery Division / Subject Care Division / Central Archive
-- **Review Status:** Active restricted cooperative-authorization technology record; inhabited shelter interiors
+- Created: 1978-07-24
+- Author Desk: Recovery Division / Subject Care Division / Central Archive
+- Review Status: Active restricted cooperative-authorization technology record; inhabited shelter interiors
 held at Level 5
-- **Next Review:** After any new recovery, any carrier-removal report, or any Engineering forensic ruling
+- Next Review: After any new recovery, any carrier-removal report, or any Engineering forensic ruling

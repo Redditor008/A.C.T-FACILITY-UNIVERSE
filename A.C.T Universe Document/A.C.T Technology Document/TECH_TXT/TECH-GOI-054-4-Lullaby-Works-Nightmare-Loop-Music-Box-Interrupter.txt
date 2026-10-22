@@ -39,21 +39,21 @@ TECHNOLOGY RECORD - LULLABY WORKS NIGHTMARE-LOOP MUSIC BOX INTERRUPTER
 Archive Note
 The Nightmare-Loop Music Box is the fourth Lullaby Works product expanded into an individual
 technology record. It is
-catalogued because it is the only item in the recovered range with a **finite
-service life**, and because that makes
+catalogued because it is the only item in the recovered range with a finite
+service life, and because that makes
 it the only one A.C.T can watch run out.
 
-The Lullaby Works dossier records music boxes that **interrupt nightmare loops for a limited
-number of nights**. It
+The Lullaby Works dossier records music boxes that interrupt nightmare loops for a limited
+number of nights. It
 also records lullaby recordings in languages not spoken by the purchasing family, and the
 nightlight instruction line
-**keep the room singing**. Those details are the technical basis of this file.
+keep the room singing. Those details are the technical basis of this file.
 
 A.C.T holds parts but no working unit. As with the rest of the range,
 no service unit is opened at any clearance
 level.
 
-Controlled label: **LULLABY WORKS CHILD-CARE DISCLOSURE LIMIT**.
+Controlled label: LULLABY WORKS CHILD-CARE DISCLOSURE LIMIT.
 
 Core handling rule:
 
@@ -71,14 +71,14 @@ stops.
 
 Three properties define the device:
 
-- **Interruption, not suppression.** The loop is broken, not deleted. The child still remembers
+- Interruption, not suppression. The loop is broken, not deleted. The child still remembers
 the dream. Consistent
 with the rest of the range, nothing about the product suppresses memory.
-- **Finite charge.** The unit exhausts. A.C.T has not established the night count for
+- Finite charge. The unit exhausts. A.C.T has not established the night count for
 any recovered part, and the
 dossier does not state one. That the count is limited is confirmed; the number
 is not.
-- **Audible output.** The unit plays a lullaby. The dossier records Lullaby Works lullaby
+- Audible output. The unit plays a lullaby. The dossier records Lullaby Works lullaby
 recordings in languages not
 spoken by the purchasing family, and the nightlight instruction directs caregivers to keep the
 room singing. A.C.T
@@ -117,29 +117,29 @@ the exterior indicates function.
 
 Known external features:
 
-- a **winding key or crank**, present on all recovered parts, whose function A.C.T
+- a winding key or crank, present on all recovered parts, whose function A.C.T
 has not been able to confirm;
-- a **hinged lid** in most variants;
-- a **movement housing** that should contain a cylinder or disc mechanism;
-- a **sewn or adhered label area** under which a production tag may sit;
-- a **battery plate** in some variants, behind which a tag may be hidden.
+- a hinged lid in most variants;
+- a movement housing that should contain a cylinder or disc mechanism;
+- a sewn or adhered label area under which a production tag may sit;
+- a battery plate in some variants, behind which a tag may be hidden.
 
 Known construction findings:
 
-- the movement housing of recovered parts is **empty or does not contain a
+- the movement housing of recovered parts is empty or does not contain a
 mechanism capable of producing the reported
-output**;
+output;
 - no spring, no governor, no comb, and no cylinder have been recovered that
 correspond to the audible tune;
 - winding the key produces no resistance and no sound in any recovered part;
-- material samples from the range **remain warm when separated from the item body**,
+- material samples from the range remain warm when separated from the item body,
 the shared Lullaby Works finding.
 
-The music box carries the **half-moon** mark and the **three quiet nights** line. For
+The music box carries the half-moon mark and the three quiet nights line. For
 this product that phrase stops
 reading like a guarantee and starts reading like a specification. Medical Division has asked
 in writing whether
-**three quiet nights** was ever a promise at all, or the manufacturer's way of
+three quiet nights was ever a promise at all, or the manufacturer's way of
 printing the service life on the
 warranty card.
 
@@ -405,11 +405,11 @@ the charge?
 
 FILE METADATA
 
-**Created:** 1958-10-22
+Created: 1958-10-22
 
-**Author Desk:** Subject Care Division / Medical Division / Central Archive
+Author Desk: Subject Care Division / Medical Division / Central Archive
 
-**Review Status:** Active restricted GOI technology record; service life and mechanism unresolved
+Review Status: Active restricted GOI technology record; service life and mechanism unresolved
 
-**Next Review:** After any night-count completion, any working unit recovery, or any movement identification
+Next Review: After any night-count completion, any working unit recovery, or any movement identification
 result

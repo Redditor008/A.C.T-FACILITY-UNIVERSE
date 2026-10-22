@@ -51,7 +51,7 @@ GAA holdings are therefore functionally real but institutionally diffuse. The pa
 authority boundary, which lists what the GAA may do under active A.C.T authorization and,
 separately, what it may not do without explicit Facility authorization.
 
-Controlled label: **GAA ACCESS-POINT LOCATION SEAL**.
+Controlled label: GAA ACCESS-POINT LOCATION SEAL.
 
 Core handling rule:
 
@@ -304,8 +304,8 @@ rooms?
 
 FILE METADATA
 
-- **Created:** 2015-09-30
-- **Author Desk:** Intelligence Division / Civil Covert Division / Central Archive
-- **Review Status:** Active restricted GOI technology record; access-point locations sealed
-- **Next Review:** After any confirmed exposure, any boundary crossing, or any unexplained convergence around
+- Created: 2015-09-30
+- Author Desk: Intelligence Division / Civil Covert Division / Central Archive
+- Review Status: Active restricted GOI technology record; access-point locations sealed
+- Next Review: After any confirmed exposure, any boundary crossing, or any unexplained convergence around
 a restricted Site

@@ -54,7 +54,7 @@ are the same act. The yield stays NOT MEASURED by design, and the response
 is interruptive rather than analytical: the frame depends on five conditions, and the audience
 is the cheapest of them to remove.
 
-Controlled label: **AMAZOO SIPHON YIELD-UNKNOWN RULE**.
+Controlled label: AMAZOO SIPHON YIELD-UNKNOWN RULE.
 
 Core handling rule:
 
@@ -342,9 +342,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2023-11-16
-- **Author Desk:** Tactical Containment / Subject Care Division / Central Archive
-- **Review Status:** Active restricted suspected-yield technology record; survivor-linked review sealed at Level
+- Created: 2023-11-16
+- Author Desk: Tactical Containment / Subject Care Division / Central Archive
+- Review Status: Active restricted suspected-yield technology record; survivor-linked review sealed at Level
 4
-- **Next Review:** After any scene showing the escalation phrases, any residue finding, or any
+- Next Review: After any scene showing the escalation phrases, any residue finding, or any
 measurement proposal

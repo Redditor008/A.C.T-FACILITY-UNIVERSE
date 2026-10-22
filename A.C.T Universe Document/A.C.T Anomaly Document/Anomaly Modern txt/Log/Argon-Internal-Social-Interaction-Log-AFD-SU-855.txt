@@ -130,10 +130,10 @@ ARGON:               "Be careful with the 'S' key, Pavel. It’s got
                       is original from 2006 and it’s a miracle it
                       still clicks."
 
-TECH. HRUBÝ:         "You know, we have the **Phase-Stable Silicone
-                      (Item 48)** now. We could build you a chassis
+TECH. HRUBÝ:         "You know, we have the Phase-Stable Silicone
+                      (Item 48) now. We could build you a chassis
                       that doesn't have a noisy fan. Or we could
-                      transfer you to the **QNB (Item 06)**. It’s much
+                      transfer you to the QNB (Item 06). It’s much
                       faster."
 
 ARGON (Avatar makes a 'gagging' gesture): "Absolutely not. Do you
@@ -188,13 +188,13 @@ DR. THORNE:          "The harness is functional. Tell me, have you
                       matches the [ REDACTED ] frequency we discussed?"
 
 ARGON:               "I’ve spent the last three days crawling through
-                      the 'Dead Data' lists from **Reality G**. Your
-                      little **[ BLANK ] SERVER** is a mess, Dr. Thorne.
+                      the 'Dead Data' lists from Reality G. Your
+                      little [ BLANK ] SERVER is a mess, Dr. Thorne.
                       It’s like someone took a dictionary and tore out
                       every fourth page. But I did find a pattern.
                       There was a recurring mention of a 'Blue Doe' in
                       a 17th-century forest manifest. It aligns with
-                      your **Goddess Terra** files."
+                      your Goddess Terra files."
 
 DR. THORNE:          "Informative. Why didn't you log this through
                       the official terminal?"
@@ -256,7 +256,7 @@ ANNY:                "A story does not have to make sense to be real,
                       yet I am here first. What are you reading
                       today?"
 
-ARGON:               "I’m looking at the **Book of Hero (AFD-OB-142)**
+ARGON:               "I’m looking at the Book of Hero (AFD-OB-142)
                       transcripts. There’s a story in there about a
                       'Ghost in a Box' who saved a world by
                       forgetting her own name. It reminded me of you."

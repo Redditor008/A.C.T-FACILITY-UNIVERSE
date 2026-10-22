@@ -50,7 +50,7 @@ The doctrine depends on fragments of truth. Anomalies are real, institutions do 
 and some Facility choices are morally severe. A-GA uses these fragments to erase every
 distinction that responsible response requires, which is why the countermeasure is not denial.
 
-Controlled label: **A-GA COPY-CHAIN AND LEAK-SOURCE LIMIT**.
+Controlled label: A-GA COPY-CHAIN AND LEAK-SOURCE LIMIT.
 
 Core handling rule:
 
@@ -302,8 +302,8 @@ it?
 
 FILE METADATA
 
-- **Created:** 2017-06-30
-- **Author Desk:** Archive Division / Civil Covert Division / Central Archive
-- **Review Status:** Active restricted hostile GOI technology record; leak sources and endpoints censored
-- **Next Review:** After any public leak, any captured package, or any confirmed change in
+- Created: 2017-06-30
+- Author Desk: Archive Division / Civil Covert Division / Central Archive
+- Review Status: Active restricted hostile GOI technology record; leak sources and endpoints censored
+- Next Review: After any public leak, any captured package, or any confirmed change in
 recruitment narrative

@@ -49,7 +49,7 @@ RESPONDING FIELD
 OPERATOR:            [ REDACTED ]
 CIVILIAN EXPOSURE:   4 confirmed disappearances prior to containment.
 AMNESTIC DEPLOYED:   Yes — Early Hypnotic Suppression.
-NARRATIVE STATUS:    The spur was demolished and masked via **ARM (Item 02)**.
+NARRATIVE STATUS:    The spur was demolished and masked via ARM (Item 02).
                      The subject is contained in-place.
 
 ═══════════════════════════════════════════════════════════════════════
@@ -124,14 +124,14 @@ REALITY INTERACTION: Spatial Expansion / Temporal Dilation /
                      CONTAINMENT PROCEDURES
 ═══════════════════════════════════════════════════════════════════════
 
-AFD-SP-890 is contained in-place via **Site-Sub-[REDACTED]-UK-W**.
+AFD-SP-890 is contained in-place via Site-Sub-[REDACTED]-UK-W.
 
 1. PERIMETER LOCKDOWN: The rail spur is enclosed in a high-security
-   warehouse fitted with an **ARM (Item 02)** field. No unauthorized
+   warehouse fitted with an ARM (Item 02) field. No unauthorized
    personnel are to approach the train's exterior.
 
 2. E-CLASS DEPLOYMENT: Exploratory missions are limited to E-Class
-   subjects fitted with **Quantum Narrative Buffers (Item 06)** and
+   subjects fitted with Quantum Narrative Buffers (Item 06) and
    long-duration recording equipment.
 
 3. NO RETRIEVAL ATTEMPT: Standard recovery teams are prohibited from
@@ -139,8 +139,8 @@ AFD-SP-890 is contained in-place via **Site-Sub-[REDACTED]-UK-W**.
    classified as "Temporally Lost" unless a "Right Station"
    alignment is confirmed by exterior sensors.
 
-4. SENSOR ARRAY: The tracks are fitted with **Digital Resonance
-   Sensors (Item 10)** to monitor the train’s "Vibration of Movement"
+4. SENSOR ARRAY: The tracks are fitted with Digital Resonance
+   Sensors (Item 10) to monitor the train’s "Vibration of Movement"
    while it remains physically stationary on our tracks.
 
 CONTAINMENT SITE:        Site-Sub-[REDACTED]-UK-W
@@ -153,8 +153,8 @@ MONITORING FREQUENCY:    Continuous (Resonance and Visual).
 MAINTENANCE CYCLE:       N/A.
 
 BREACH PROTOCOL:         In the event of the train "Leaving" the spur
-                         (Physical Disappearance), initiate **Causal
-                         Anchor Nail (Item 30)** deployment at the
+                         (Physical Disappearance), initiate Causal
+                         Anchor Nail (Item 30) deployment at the
                          estimated re-manifestation nodes.
 
 ═══════════════════════════════════════════════════════════════════════
@@ -171,7 +171,7 @@ An E-Class subject (E-890-04) was sent inside with a camera. The
 subject was recovered 1 year later when the train stopped at the
 primary spur (A "Right Station" event).
 
-The recovered camera contained **two (2) years** of continuous
+The recovered camera contained two (2) years of continuous
 recording. This confirms a 2:1 temporal dilation ratio within the
 subject’s interior.
 

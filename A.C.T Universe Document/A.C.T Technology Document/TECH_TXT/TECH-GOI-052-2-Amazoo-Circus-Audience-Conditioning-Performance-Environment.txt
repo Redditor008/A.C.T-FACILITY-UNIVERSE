@@ -56,7 +56,7 @@ and fatalities before 004-D Grade amnestics and public erasure were applied. Eve
 performs carries the same property, which is why no-audience testing is a standing condition
 in this file.
 
-Controlled label: **AMAZOO NO-AUDIENCE RECONSTRUCTION RULE**.
+Controlled label: AMAZOO NO-AUDIENCE RECONSTRUCTION RULE.
 
 Core handling rule:
 
@@ -341,8 +341,8 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2022-06-02
-- **Author Desk:** Tactical Containment / Intelligence Division / Subject Care Division
-- **Review Status:** Active restricted performance-environment technology record; survivor-linked review sealed
+- Created: 2022-06-02
+- Author Desk: Tactical Containment / Intelligence Division / Subject Care Division
+- Review Status: Active restricted performance-environment technology record; survivor-linked review sealed
 at Level 4
-- **Next Review:** After any travelling-attraction escalation, any new fragment, or any reconstruction request
+- Next Review: After any travelling-attraction escalation, any new fragment, or any reconstruction request

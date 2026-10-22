@@ -58,7 +58,7 @@ as evasion: a complete map teaches civilians to search for routes that are safe
 only during one interval, and a shelter address published in clear becomes a target
 list.
 
-Controlled label: **C&L LIVING FLOOR PLAN DOCTRINE**.
+Controlled label: C&L LIVING FLOOR PLAN DOCTRINE.
 
 Core handling rule:
 
@@ -345,8 +345,8 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 1989-02-08
-- **Author Desk:** Central Archive / Intelligence Division / Civil Covert
-- **Review Status:** Active restricted cooperative-plan technology record; living plans and inhabited interiors
+- Created: 1989-02-08
+- Author Desk: Central Archive / Intelligence Division / Civil Covert
+- Review Status: Active restricted cooperative-plan technology record; living plans and inhabited interiors
 held at Level 5
-- **Next Review:** After any new extract, any disclosure request, or any merged-composite finding
+- Next Review: After any new extract, any disclosure request, or any merged-composite finding

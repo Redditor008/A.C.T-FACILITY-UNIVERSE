@@ -54,7 +54,7 @@ when an object is intercepted mid-route, and because a rule that worked is easil
 mistaken for a rule that is known. Every rule in a recovered set is
 survivorship evidence: it exists because breaking it once already cost somebody something.
 
-Controlled label: **ANSTRALL MARKET HANDLER-RULE ADOPTION PROHIBITION**.
+Controlled label: ANSTRALL MARKET HANDLER-RULE ADOPTION PROHIBITION.
 
 Core handling rule:
 
@@ -327,9 +327,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2011-08-15
-- **Author Desk:** Containment Division / Intelligence Division / Central Archive
-- **Review Status:** Active restricted trade-interdiction technology record; handler identities and holding
+- Created: 2011-08-15
+- Author Desk: Containment Division / Intelligence Division / Central Archive
+- Review Status: Active restricted trade-interdiction technology record; handler identities and holding
 locations censored
-- **Next Review:** After any intercepted shipment, any handler exposure, or any rule Containment cannot
+- Next Review: After any intercepted shipment, any handler exposure, or any rule Containment cannot
 explain

@@ -43,10 +43,10 @@ LOG ID:              AFD-OB-221/COR-01
 DATE:                2025-02-14
 AUTHOR:              Security Director Graham West
 
-Following the 2024 audits, the **HIGENMARU** blade demonstrated an
+Following the 2024 audits, the HIGENMARU blade demonstrated an
 aggressive escalation in its "Biological Siphoning" routine. Despite
 being housed in a triple-locked magnetic vault at Site-01, the
-artifact began to "reach" through the **Abyssal Masonry (Item 20)**.
+artifact began to "reach" through the Abyssal Masonry (Item 20).
 
 Three junior technicians working in the adjacent corridor suffered
 unexplained "Stamina Spikes" followed by severe lethargy. I requested
@@ -69,8 +69,8 @@ weapon requires a "Manners-Based" environment (Reference: SR-Thorne
 Memorandum 2026).
 
 Directive:
-AFD-OB-221 is to be relocated to the **Kazumi Temple** sub-site.
-The high-intensity reality-deviant signature of **KAZUMI** provides a
+AFD-OB-221 is to be relocated to the Kazumi Temple sub-site.
+The high-intensity reality-deviant signature of KAZUMI provides a
 natural "Suppression Field" that harmonizes with the blade’s
 predatory frequency.
 
@@ -85,18 +85,18 @@ LOG ID:              AFD-OB-221/PLC-01
 LOCATION:            Kazumi Temple / Central Inner Sanctum
 
 PROTOCOL:
-The **HIGENMARU-KŌRIN** is to be placed on a traditional black-lacquer
+The HIGENMARU-KŌRIN is to be placed on a traditional black-lacquer
 katana stand, situated exactly 1.2 meters behind KAZUMI’s primary
 seating area.
 
 REASONING:
-1. **Deterrence:** The proximity of KAZUMI’s presence forces the
+1. Deterrence: The proximity of KAZUMI’s presence forces the
    *-maru* routine into a state of "Passive Respect." The blade
    recognizes her as an apex peer and ceases its outward siphoning.
-2. **Safety:** Placing the blade behind her ensures that any
+2. Safety: Placing the blade behind her ensures that any
    "Unauthored" manifestation or attempt by a third party to draw
    the sword is immediately suppressed by her field.
-3. **Manners:** This arrangement fulfills the subject’s requirement
+3. Manners: This arrangement fulfills the subject’s requirement
    for "Dignity." The sword is no longer "Paperwork" in a box; it is
    a "Sovereign Asset" in a place of honor.
 

@@ -84,7 +84,7 @@ function-sustaining. This is the strictest appropriation limit in the Saint-Vera
 is inside a
 person.
 
-The Concern's secrecy classification is **Leaking** largely because of this technology. A person with
+The Concern's secrecy classification is Leaking largely because of this technology. A person with
 a living
 prosthetic, an impossible scar, a replacement voice, or nonstandard organ support can expose anomaly
 reality through
@@ -94,31 +94,31 @@ but it will not always erase a survivor's memory to protect normalcy.
 
 PHYSICAL OR SYSTEM DESCRIPTION
 
-**Limb assemblies.** Formed from a per-patient mold and connected through what the source record
+Limb assemblies. Formed from a per-patient mold and connected through what the source record
 calls memory-linked
 nerve media. Sensation is restored, not simulated: patients report feeling through the limb. The
 medium itself has not
 been recovered or described.
 
-**Voice grafts.** Used where original speech was consumed or forbidden by anomalous exposure. The
+Voice grafts. Used where original speech was consumed or forbidden by anomalous exposure. The
 dossier does
 not describe the graft physically. What is recorded is the outcome — a patient
 who could not speak and then could
 — and the fact that the new voice is not always the old one.
 
-**Glass ocular implants.** These filter hostile visual residues without full blindness. The wording matters:
+Glass ocular implants. These filter hostile visual residues without full blindness. The wording matters:
 the
 implant is a filter, not a replacement eye, and it preserves sight while removing
 something from what is seen. This is
 the same glass family reported in Saint-Vera theatre lighting, and the relationship between the
 two is unresolved.
 
-**Organ support.** For patients whose internal anatomy has become partially nonstandard. No component description
+Organ support. For patients whose internal anatomy has become partially nonstandard. No component description
 exists. Medical Division notes that such support cannot be fully returned to pre-incident condition,
 which makes it
 permanent by design.
 
-**Mould and fitting.** Living prosthetic molds are prepared before fitting. Whether a mold is
+Mould and fitting. Living prosthetic molds are prepared before fitting. Whether a mold is
 a negative cast, a
 growth substrate, or a record of the missing limb is not established.
 

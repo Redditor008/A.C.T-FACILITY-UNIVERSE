@@ -51,7 +51,7 @@ an enemy, and Facility transport or recovery routes. A-GA may choose a low-threa
 precisely because it is poorly guarded, easy to publicize, or important to a larger
 containment arrangement the cell does not understand.
 
-Controlled label: **A-GA FAILED-DEMOLITION LEAK-EVENT CLASSIFICATION**.
+Controlled label: A-GA FAILED-DEMOLITION LEAK-EVENT CLASSIFICATION.
 
 Core handling rule:
 
@@ -307,8 +307,8 @@ understand them?
 
 FILE METADATA
 
-- **Created:** 2016-08-25
-- **Author Desk:** Containment Division / Engineering Division / Central Archive
-- **Review Status:** Active restricted hostile GOI technology record; scene locations and cell identities censored
-- **Next Review:** After any detonation, any released condition, or any confirmed change in targeting
+- Created: 2016-08-25
+- Author Desk: Containment Division / Engineering Division / Central Archive
+- Review Status: Active restricted hostile GOI technology record; scene locations and cell identities censored
+- Next Review: After any detonation, any released condition, or any confirmed change in targeting
 logic

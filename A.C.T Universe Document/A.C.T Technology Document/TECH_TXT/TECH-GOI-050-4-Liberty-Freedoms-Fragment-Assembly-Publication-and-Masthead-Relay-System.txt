@@ -54,7 +54,7 @@ only be answered by archive discipline and by a denial narrow enough not to
 become the doctrine's proof, which is why the response is coordinated between Archive and
 Civil Covert rather than led by either.
 
-Controlled label: **L.F. PUBLICATION DENIAL LIMIT**.
+Controlled label: L.F. PUBLICATION DENIAL LIMIT.
 
 Core handling rule:
 
@@ -323,9 +323,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2022-05-09
-- **Author Desk:** Archive Division / Civil Covert Division / Central Archive
-- **Review Status:** Active restricted leak-forensics technology record; leak sources and approved response
+- Created: 2022-05-09
+- Author Desk: Archive Division / Civil Covert Division / Central Archive
+- Review Status: Active restricted leak-forensics technology record; leak sources and approved response
 wording sealed
-- **Next Review:** After any seized assembly, any insider indication, or any confirmed masthead or
+- Next Review: After any seized assembly, any insider indication, or any confirmed masthead or
 relay change

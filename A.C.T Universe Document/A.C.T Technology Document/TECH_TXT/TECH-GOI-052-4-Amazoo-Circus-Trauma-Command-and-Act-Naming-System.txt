@@ -56,7 +56,7 @@ the survivor's own. This record treats that drift as a technical defect rather t
 as insensitivity, because a file that cannot produce the survivor's chosen name has been
 captured by the system it is documenting.
 
-Controlled label: **AMAZOO COMMAND-LANGUAGE SEALING RULE**.
+Controlled label: AMAZOO COMMAND-LANGUAGE SEALING RULE.
 
 Core handling rule:
 
@@ -343,8 +343,8 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2024-08-05
-- **Author Desk:** Subject Care Division / Intelligence Division / Central Archive
-- **Review Status:** Active restricted command-language technology record; survivor interviews sealed at Level 4
-- **Next Review:** After any encounter using escalation phrases, any new survivor intake, or any
+- Created: 2024-08-05
+- Author Desk: Subject Care Division / Intelligence Division / Central Archive
+- Review Status: Active restricted command-language technology record; survivor interviews sealed at Level 4
+- Next Review: After any encounter using escalation phrases, any new survivor intake, or any
 phrase-leak finding

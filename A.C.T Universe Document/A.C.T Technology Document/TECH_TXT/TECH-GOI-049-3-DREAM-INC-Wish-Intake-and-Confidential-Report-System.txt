@@ -53,7 +53,7 @@ how much of the wish was already disclosed. That inversion is the system's produ
 not the dream, but the consumer's inability to attribute it correctly, which is what
 makes a second purchase feel like their own idea.
 
-Controlled label: **DREAM .INC WISH-DATA COLLECTION LIMIT**.
+Controlled label: DREAM .INC WISH-DATA COLLECTION LIMIT.
 
 Core handling rule:
 
@@ -328,8 +328,8 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2019-01-22
-- **Author Desk:** Intelligence Division / Corporate Exploitation Desk / Central Archive
-- **Review Status:** Active restricted corporate-exploitation technology record; all wish content and consumer
+- Created: 2019-01-22
+- Author Desk: Intelligence Division / Corporate Exploitation Desk / Central Archive
+- Review Status: Active restricted corporate-exploitation technology record; all wish content and consumer
 identities sealed
-- **Next Review:** After any database recovery, any reclassification order, or any confirmed machine interface
+- Next Review: After any database recovery, any reclassification order, or any confirmed machine interface

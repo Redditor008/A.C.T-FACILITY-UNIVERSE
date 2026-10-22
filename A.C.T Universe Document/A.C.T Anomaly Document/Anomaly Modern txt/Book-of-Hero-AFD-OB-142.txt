@@ -110,13 +110,13 @@ AFD-OB-142 is housed in the Low-Threat Archive at
 ACT-SITE-03-JP-E (Kurokawa Archive Node).
 
 1. DOCUMENT PROTECTION: The cover and existing pages have been
-   treated with **Narrative Seal Varnish (Item 08)** to ensure
+   treated with Narrative Seal Varnish (Item 08) to ensure
    ink stability and prevent external editing.
 
 2. LOGGING PROTOCOL: On the first of every month, an archivist must
    perform a "Page Count." If a new story has manifested, it must
-   be transcribed and mirrored in the **Quantum Narrative Buffer
-   (Item 06)** for safety.
+   be transcribed and mirrored in the Quantum Narrative Buffer
+   (Item 06) for safety.
 
 3. HANDLING: No specialized gloves are required, but standard archival
    discipline is mandatory. Personnel are encouraged to read the
@@ -140,7 +140,7 @@ BREACH PROTOCOL:         The subject poses no physical breach threat.
 ═══════════════════════════════════════════════════════════════════════
 
 Research into AFD-OB-142 focuses on the "Source of the Stories." Unlike
-the **Dramatugy Script (AFD-715)**, the Book of Hero does not
+the Dramatugy Script (AFD-715), the Book of Hero does not
 force projection; it is a passive record.
 
 Analysis suggests the book is a "Causal Sink"—a repository for the
@@ -153,7 +153,7 @@ active, recurring constant in reality.
 
 NOTE 001:
 The 1,000th story, manifested in 2004, bore a striking resemblance
-to the **First Descent (1888)**, though the names of the Five
+to the First Descent (1888), though the names of the Five
 Founders were replaced with symbolic glyphs.
 
 NOTE 002:

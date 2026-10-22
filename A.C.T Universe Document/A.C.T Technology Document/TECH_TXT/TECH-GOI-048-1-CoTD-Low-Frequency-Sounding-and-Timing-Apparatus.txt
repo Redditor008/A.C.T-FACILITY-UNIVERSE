@@ -54,7 +54,7 @@ and no full reconstruction has been authorized. A recovered rig cannot be assume
 represent the cult's best equipment, and a rig that appears inert cannot be assumed
 harmless.
 
-Controlled label: **COTD SOUNDING-APPARATUS OPERATIONAL PROHIBITION**.
+Controlled label: COTD SOUNDING-APPARATUS OPERATIONAL PROHIBITION.
 
 Core handling rule:
 
@@ -330,9 +330,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2009-05-14
-- **Author Desk:** Intelligence Division / Cultic Networks Desk / Central Archive
-- **Review Status:** Active restricted target-anomaly technology record; target identity and cell identities
+- Created: 2009-05-14
+- Author Desk: Intelligence Division / Cultic Networks Desk / Central Archive
+- Review Status: Active restricted target-anomaly technology record; target identity and cell identities
 sealed
-- **Next Review:** After any acoustic correlation, any further rig interdiction, or any change in
+- Next Review: After any acoustic correlation, any further rig interdiction, or any change in
 deep-sea indicator readings

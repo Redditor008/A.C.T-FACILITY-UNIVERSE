@@ -56,7 +56,7 @@ that output is not proof of safety. A machine can produce a valuable result
 for years without its operators knowing what it removes, where the material is held
 before bottling, or what it leaves behind in the source.
 
-Controlled label: **DREAM .INC APPARATUS SEIZURE-SEQUENCE PROHIBITION**.
+Controlled label: DREAM .INC APPARATUS SEIZURE-SEQUENCE PROHIBITION.
 
 Core handling rule:
 
@@ -329,9 +329,9 @@ source?
 
 FILE METADATA
 
-- **Created:** 2020-04-09
-- **Author Desk:** Intelligence Division / Corporate Exploitation Desk / Central Archive
-- **Review Status:** Active restricted corporate-exploitation technology record; source anomaly identity and
+- Created: 2020-04-09
+- Author Desk: Intelligence Division / Corporate Exploitation Desk / Central Archive
+- Review Status: Active restricted corporate-exploitation technology record; source anomaly identity and
 machine location sealed
-- **Next Review:** After any quiet machine condition, any component recovery, or any confirmed source-anomaly
+- Next Review: After any quiet machine condition, any component recovery, or any confirmed source-anomaly
 location

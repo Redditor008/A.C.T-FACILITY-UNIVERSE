@@ -52,7 +52,7 @@ that its former-insider knowledge of schedules and formats remained current. Tha
 than the hardware recovered at the same scene, because it establishes that L.F. actively
 measures the decay of its own inside knowledge and refreshes it through new recruitment.
 
-Controlled label: **L.F. FORMAT-COMPROMISE ROTATION RULE**.
+Controlled label: L.F. FORMAT-COMPROMISE ROTATION RULE.
 
 Core handling rule:
 
@@ -321,9 +321,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2016-02-04
-- **Author Desk:** Intelligence Division / Hostile Networks Desk / Central Archive
-- **Review Status:** Active restricted hostile-network technology record; route, schedule, and defector identity
+- Created: 2016-02-04
+- Author Desk: Intelligence Division / Hostile Networks Desk / Central Archive
+- Review Status: Active restricted hostile-network technology record; route, schedule, and defector identity
 material sealed
-- **Next Review:** After any format compromise, any defector interview, or any interception assessed as
+- Next Review: After any format compromise, any defector interview, or any interception assessed as
 a defector-test

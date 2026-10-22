@@ -52,7 +52,7 @@ verifiable. The prospect's own scepticism is the recruitment instrument: the net
 precisely because verification succeeds, and a person who has confirmed one concealment has already
 accepted the premise the doctrine needs.
 
-Controlled label: **L.F. RETURNEE ASSUMPTION PROHIBITION**.
+Controlled label: L.F. RETURNEE ASSUMPTION PROHIBITION.
 
 Core handling rule:
 
@@ -322,9 +322,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2024-12-02
-- **Author Desk:** Intelligence Division / Hostile Networks Desk / Central Archive
-- **Review Status:** Active restricted hostile-network technology record; defector identities and gate-cell
+- Created: 2024-12-02
+- Author Desk: Intelligence Division / Hostile Networks Desk / Central Archive
+- Review Status: Active restricted hostile-network technology record; defector identities and gate-cell
 sources sealed
-- **Next Review:** After any returnee interview, any reported approach to current staff, or any
+- Next Review: After any returnee interview, any reported approach to current staff, or any
 confirmed gate-cell identification

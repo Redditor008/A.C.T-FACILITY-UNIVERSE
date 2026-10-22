@@ -57,7 +57,7 @@ the interface that defined its categories, it may misread allies as attackers, d
 reflexes the user does not have, or convert a defensive posture into a combat
 job.
 
-Controlled label: **FEEDBACKER RETURN-PATH PROHIBITION**.
+Controlled label: FEEDBACKER RETURN-PATH PROHIBITION.
 
 Core handling rule:
 
@@ -346,8 +346,8 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2023-10-03
-- **Author Desk:** Tactical Review Desk / Subject Care Division / Central Archive
-- **Review Status:** Active restricted future-origin defensive-system record; reconstruction proposals sealed at
+- Created: 2023-10-03
+- Author Desk: Tactical Review Desk / Subject Care Division / Central Archive
+- Review Status: Active restricted future-origin defensive-system record; reconstruction proposals sealed at
 Level 5
-- **Next Review:** After any recovered armory entry, any derived-concept finding, or any joint-ruling request
+- Next Review: After any recovered armory entry, any derived-concept finding, or any joint-ruling request

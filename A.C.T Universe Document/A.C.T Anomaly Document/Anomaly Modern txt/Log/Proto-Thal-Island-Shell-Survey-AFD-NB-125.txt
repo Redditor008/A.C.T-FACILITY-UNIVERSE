@@ -28,10 +28,10 @@ DOSSIER STATUS:      Open / Biological Census Archived
                          CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
-This dossier contains the logs from **Operation Shell-Gazer**, an
+This dossier contains the logs from Operation Shell-Gazer, an
 unmanned ROV (Remotely Operated Vehicle) survey of the "Submerged
 Island" located atop the shell of AFD-NB-125. The survey utilized
-**Sub-Abyssal Sonar (Item 37)** and **Abyssal Anchor Plating (Item 34)**
+Sub-Abyssal Sonar (Item 37) and Abyssal Anchor Plating (Item 34)
 to withstand the pressure.
 
 INCLUDED LOG TYPES:

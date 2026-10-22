@@ -54,7 +54,7 @@ of one submerged ritual system. The second function is the more durable: sites c
 be abandoned, but a member who has learned to read a drainage corridor as
 a mouth keeps that reading.
 
-Controlled label: **COTD OVERLAY-MAP EVIDENCE LIMIT**.
+Controlled label: COTD OVERLAY-MAP EVIDENCE LIMIT.
 
 Core handling rule:
 
@@ -327,9 +327,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2014-11-21
-- **Author Desk:** Intelligence Division / Cultic Networks Desk / Central Archive
-- **Review Status:** Active restricted cultic-networks technology record; mapped target data and site addresses
+- Created: 2014-11-21
+- Author Desk: Intelligence Division / Cultic Networks Desk / Central Archive
+- Review Status: Active restricted cultic-networks technology record; mapped target data and site addresses
 sealed
-- **Next Review:** After any newly recovered map, any site approach, or any change in
+- Next Review: After any newly recovered map, any site approach, or any change in
 the inland mouth classification set

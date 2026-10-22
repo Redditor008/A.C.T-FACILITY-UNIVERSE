@@ -53,7 +53,7 @@ language, so that separate congregations can act in coordination without exchang
 is the property that defeats communications interception: there is no message to intercept, only
 a date that several groups already know.
 
-Controlled label: **COTD DEVOTIONAL-MATERIAL REPLICATION PROHIBITION**.
+Controlled label: COTD DEVOTIONAL-MATERIAL REPLICATION PROHIBITION.
 
 Core handling rule:
 
@@ -324,9 +324,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2022-06-16
-- **Author Desk:** Archive Division / Cultic Networks Desk / Central Archive
-- **Review Status:** Active restricted cultic-networks technology record; rite material and interpreter
+- Created: 2022-06-16
+- Author Desk: Archive Division / Cultic Networks Desk / Central Archive
+- Review Status: Active restricted cultic-networks technology record; rite material and interpreter
 identities sealed
-- **Next Review:** After any recovered text or recording, any confirmed synchronized date, or any
+- Next Review: After any recovered text or recording, any confirmed synchronized date, or any
 departure interview corroborating the calendar

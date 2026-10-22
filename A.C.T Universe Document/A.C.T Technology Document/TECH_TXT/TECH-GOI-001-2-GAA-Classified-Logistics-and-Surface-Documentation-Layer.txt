@@ -51,7 +51,7 @@ not manage the anomalous load. Where an anomaly requires reality-stabilization s
 a sealed containment team, or specialized environmental control, the Facility retains operational command and
 the layer remains a covering document.
 
-Controlled label: **GAA ACTIVE-ROUTE DISCLOSURE LIMIT**.
+Controlled label: GAA ACTIVE-ROUTE DISCLOSURE LIMIT.
 
 Core handling rule:
 
@@ -301,8 +301,8 @@ permission?
 
 FILE METADATA
 
-- **Created:** 2012-07-03
-- **Author Desk:** Recovery Division / Intelligence Division / Central Archive
-- **Review Status:** Active restricted GOI technology record; active route identities censored
-- **Next Review:** After any retention incident, any confirmed route recognition, or any change in
+- Created: 2012-07-03
+- Author Desk: Recovery Division / Intelligence Division / Central Archive
+- Review Status: Active restricted GOI technology record; active route identities censored
+- Next Review: After any retention incident, any confirmed route recognition, or any change in
 channel availability

@@ -3882,11 +3882,11 @@ message banner. No audible alert. Just a sealed command window already open when
 sat down, the black field of it
 cut by a single strip of pale administrative gold.
 
-**MEDICAL REVIEW REQUIRED**
+MEDICAL REVIEW REQUIRED
 
 Beneath it, in smaller text:
 
-**Archive / continuity variance threshold exceeded**
+Archive / continuity variance threshold exceeded
 
 For a long time Sera only looked at the words.
 
@@ -3990,7 +3990,7 @@ This place had taught her better.
 
 She deleted the lines one by one, then rewrote them shorter.
 
-**Do not descend whole.**
+Do not descend whole.
 
 That was better.
 Not kinder. Better.
@@ -4191,7 +4191,7 @@ It was an ordinary ceiling. Smooth white paneling. Soft seams. Light without cha
 
 She thought of the twelve fragments.
 The note hidden in the checksum shell.
-The line: **Do not descend whole.**
+The line: Do not descend whole.
 
 Then she thought of the founders.
 How they must have sat somewhere beneath the world, or above it, or half
@@ -4356,7 +4356,7 @@ Not the abyss.
 
 Only the sentence she had hidden for whoever came next.
 
-**Do not descend whole.**
+Do not descend whole.
 
 Then even that softened, and she drifted into a mercy she no longer trusted,
 beneath a world that remained alive

@@ -60,7 +60,7 @@ real failure mode rather than a theoretical one. No active stone is removed or
 altered until Recovery and Civil Covert confirm that no resident, patient, student, shelter occupant,
 or evacuee depends on the route it identifies.
 
-Controlled label: **C&L THRESHOLD STONE MARK RULE**.
+Controlled label: C&L THRESHOLD STONE MARK RULE.
 
 Core handling rule:
 
@@ -348,8 +348,8 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 1954-11-02
-- **Author Desk:** Engineering review / Recovery Division / Central Archive
-- **Review Status:** Active restricted cooperative-marking technology record; inhabited shelter interiors held
+- Created: 1954-11-02
+- Author Desk: Engineering review / Recovery Division / Central Archive
+- Review Status: Active restricted cooperative-marking technology record; inhabited shelter interiors held
 at Level 5
-- **Next Review:** After any new mark, any paint-over report, or any removal request
+- Next Review: After any new mark, any paint-over report, or any removal request

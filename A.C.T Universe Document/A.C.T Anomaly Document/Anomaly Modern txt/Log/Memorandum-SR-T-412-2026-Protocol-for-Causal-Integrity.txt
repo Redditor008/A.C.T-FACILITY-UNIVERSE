@@ -60,7 +60,7 @@ was afraid. I can tell if the object in the room was
 resonance. They are sanitized.
 And a sanitized log is the first step toward a breach.
 
-**MANDATORY DIRECTIVE 01:**
+MANDATORY DIRECTIVE 01:
 Henceforth, all primary observational notes for Class-2 or higher anomalies must be drafted in
 longhand on physical
 paper before being transferred to the digital archive. I want to see the ink.
@@ -93,7 +93,7 @@ acknowledge the anomaly's presence, the anomaly will eventually acknowledge your
 usually results in a
 medical-incident report.
 
-**MANDATORY DIRECTIVE 02:**
+MANDATORY DIRECTIVE 02:
 Address the room. I do not care if the object is a "Small Box"
 or an "Inverted Singularity." Before you touch the
 lock, you are to speak your name and your intent clearly. If you feel
@@ -127,7 +127,7 @@ a "Narrative Feedback Loop" (Reference: AFD-SU-442, Dramaturgy). Once you believ
 "Villain," the
 subject will begin to act like one. You are literally scripting your own death.
 
-**MANDATORY DIRECTIVE 03:**
+MANDATORY DIRECTIVE 03:
 Scrub your adjectives. If I see a report that describes an anomaly as "Malevolent,"
 "Cruel," or "Beautiful," I will
 have the author reassigned to the [ REDACTED ] drainage maintenance for six months.
@@ -185,7 +185,7 @@ TI-class artifact and not count the seconds. If you count, you are already caugh
 in its rhythm. You must be able to
 look at a [ BLANK ] and see the space it *isn't* occupying.
 
-**PRACTICE EXERCISE:**
+PRACTICE EXERCISE:
 Spend 20 minutes a day staring at a blank wall. Do not think. Do
 not plan. Just listen to the air. If you can hear the
 building "Breathing," then you are ready to start real research.
@@ -222,7 +222,7 @@ You will find it "Boring." You will call it
 
 That is acceptable. The 10% of you who understand the significance of "Friction," "Manners,"
 and "Resonance" are the
-ones I will be selecting for the **Artifact Awakening** project.
+ones I will be selecting for the Artifact Awakening project.
 
 The universe is not a machine to be fixed. It is a sovereign that
 demands respect. If you continue to treat it like a
@@ -231,7 +231,7 @@ clerk, it will eventually remind you of your place.
 MANDATORY PHRASE FOR RECEIPT ACKNOWLEDGMENT:
                      "I am here first. I am listening to the static."
 
-**SIGNED,**
+SIGNED,
 
 *Dr. Aris Thorne*
 Senior Researcher

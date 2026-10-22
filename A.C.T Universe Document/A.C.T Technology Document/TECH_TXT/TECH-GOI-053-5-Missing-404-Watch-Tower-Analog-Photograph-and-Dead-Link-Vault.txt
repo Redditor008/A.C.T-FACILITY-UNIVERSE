@@ -58,7 +58,7 @@ handling consequence is a prohibition on tools that overwrite: no automatic clea
 pass, no public database matching, and no broad facial recognition over vault material without
 Central Archive approval.
 
-Controlled label: **M404-WT LAST-PROOF CLEANUP PROHIBITION**.
+Controlled label: M404-WT LAST-PROOF CLEANUP PROHIBITION.
 
 Core handling rule:
 
@@ -344,9 +344,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2019-05-13
-- **Author Desk:** Central Archive / Intelligence Division / Civil Covert
-- **Review Status:** Active restricted cooperative-archive technology record; sealed tower ledgers held at Level
+- Created: 2019-05-13
+- Author Desk: Central Archive / Intelligence Division / Civil Covert
+- Review Status: Active restricted cooperative-archive technology record; sealed tower ledgers held at Level
 5
-- **Next Review:** After any new notice, any cleanup or enhancement request, or any last-proof
+- Next Review: After any new notice, any cleanup or enhancement request, or any last-proof
 flag

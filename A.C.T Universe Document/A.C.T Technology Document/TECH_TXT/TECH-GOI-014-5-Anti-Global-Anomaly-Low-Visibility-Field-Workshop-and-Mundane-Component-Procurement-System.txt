@@ -53,7 +53,7 @@ one restricted engineering route interdiction, otherwise unrelated technical pur
 containment-interference profile. Protective gear is adapted for contact the builders have not verified, so
 the workshop also produces the network's own exposure risk.
 
-Controlled label: **A-GA PROCUREMENT-PROFILE CONVERGENCE RULE**.
+Controlled label: A-GA PROCUREMENT-PROFILE CONVERGENCE RULE.
 
 Core handling rule:
 
@@ -310,9 +310,9 @@ benefits an outside actor?
 
 FILE METADATA
 
-- **Created:** 2017-10-19
-- **Author Desk:** Intelligence Division / Engineering Division / Central Archive
-- **Review Status:** Active restricted hostile GOI technology record; procurement sources and workshop locations
+- Created: 2017-10-19
+- Author Desk: Intelligence Division / Engineering Division / Central Archive
+- Review Status: Active restricted hostile GOI technology record; procurement sources and workshop locations
 censored
-- **Next Review:** After any confirmed shared supply route, any detainee contamination finding, or any
+- Next Review: After any confirmed shared supply route, any detainee contamination finding, or any
 confirmed outside redirection

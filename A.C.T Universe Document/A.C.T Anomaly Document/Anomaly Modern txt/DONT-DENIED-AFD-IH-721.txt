@@ -58,8 +58,8 @@ NARRATIVE STATUS:    The item was seized and replaced with a replica.
 
 AFD-IH-721 is a 10 cm cubic block composed of an unidentified yellow
 material. The texture is smooth, resembling polished resin or aged
-ivory, though it possesses the weight and density of **Abyssal Basalt
-(Item 50)**.
+ivory, though it possesses the weight and density of Abyssal Basalt
+(Item 50).
 
 PHYSICAL CHARACTERISTICS:
 1. TOP SURFACE: Features a carved "Simple EYE" symbol.
@@ -118,12 +118,12 @@ AFD-IH-721 is stored in an opaque locker at Site-03.
    authorized personnel only.
 
 2. DOCUMENTATION CONTROL: To prevent the spread of the info-hazard via
-   detailed description, this file utilizes **Narrative Seal Varnish
-   (Item 08)** to ensure the facts remain static.
+   detailed description, this file utilizes Narrative Seal Varnish
+   (Item 08) to ensure the facts remain static.
 
 3. BLIND HANDLING: If the object must be moved for cleaning or
    inventory, staff are encouraged to use tactile-only methods or
-   **Chrono-Stuttered Visors (Item 09)** to avoid direct imprinting.
+   Chrono-Stuttered Visors (Item 09) to avoid direct imprinting.
 
 CONTAINMENT SITE:        ACT-SITE-03-JP-E — Kurokawa Archive Node
 SITE TYPE:               Primary Site / Info-Hazard and Memetic Storage
@@ -150,7 +150,7 @@ manipulate reality; it manipulates the *reporting* of reality.
 Researchers are investigating whether this effect can be transformed
 into a training tool for new Recruits. By exposing staff to a
 controlled, "Undeniable" truth, we may be able to calibrate their
-resilience against more hostile deceptions found in the **715-Series**.
+resilience against more hostile deceptions found in the 715-Series.
 
 ═══════════════════════════════════════════════════════════════════════
                          ADDITIONAL NOTES

@@ -51,7 +51,7 @@ circulated information indicating an imminent attack on a low-threat object in o
 response resources away from a separate transport route. The set therefore has to be
 read as an argument as well as as hardware.
 
-Controlled label: **A-GA ADVERTISED-TARGET DECEPTION LIMIT**.
+Controlled label: A-GA ADVERTISED-TARGET DECEPTION LIMIT.
 
 Core handling rule:
 
@@ -304,9 +304,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2017-02-14
-- **Author Desk:** Intelligence Division / Security Division / Central Archive
-- **Review Status:** Active restricted hostile GOI technology record; observation positions and route identities
+- Created: 2017-02-14
+- Author Desk: Intelligence Division / Security Division / Central Archive
+- Review Status: Active restricted hostile GOI technology record; observation positions and route identities
 censored
-- **Next Review:** After any confirmed deception, any route compromise, or any recovered tracker found
+- Next Review: After any confirmed deception, any route compromise, or any recovered tracker found
 transmitting

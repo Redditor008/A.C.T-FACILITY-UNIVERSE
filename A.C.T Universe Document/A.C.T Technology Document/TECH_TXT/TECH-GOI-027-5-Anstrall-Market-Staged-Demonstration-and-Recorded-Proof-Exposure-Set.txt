@@ -54,7 +54,7 @@ provenance, or a partial claim can be enough to make an object desirable to
 an unqualified buyer, and containment of market information is part of containment of market
 objects.
 
-Controlled label: **ANSTRALL MARKET PROOF-MATERIAL EXPOSURE CLASSIFICATION**.
+Controlled label: ANSTRALL MARKET PROOF-MATERIAL EXPOSURE CLASSIFICATION.
 
 Core handling rule:
 
@@ -324,9 +324,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2023-01-30
-- **Author Desk:** Archive Division / Intelligence Division / Central Archive
-- **Review Status:** Active restricted exposure-handling technology record; catalogue entries and proof content
+- Created: 2023-01-30
+- Author Desk: Archive Division / Intelligence Division / Central Archive
+- Review Status: Active restricted exposure-handling technology record; catalogue entries and proof content
 quarantined
-- **Next Review:** After any recovered catalogue, any demonstration report, or any confirmed unrecovered proof
+- Next Review: After any recovered catalogue, any demonstration report, or any confirmed unrecovered proof
 recipient

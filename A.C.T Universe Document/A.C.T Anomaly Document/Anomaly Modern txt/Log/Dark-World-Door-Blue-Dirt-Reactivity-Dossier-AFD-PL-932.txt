@@ -75,7 +75,7 @@ LOG ID:              AFD-PL-932/THORNE-REF
 AUTHOR:              Aris Thorne (SR-412)
 
 "I analyzed the steel block after the subject was removed. It has
-the same density as **Abyssal Basalt (Item 50)**, but it’s 90% lighter.
+the same density as Abyssal Basalt (Item 50), but it’s 90% lighter.
 
 The 'Blue Haze' is the real problem. It isn't just toxic; it’s a
 biological reminder that we don't belong in the Dark World. The gas

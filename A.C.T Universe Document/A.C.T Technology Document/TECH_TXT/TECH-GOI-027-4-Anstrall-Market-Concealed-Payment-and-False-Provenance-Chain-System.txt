@@ -56,7 +56,7 @@ link that was engineered to be sufficient on its own and useless in combination,
 and interdiction that treats it otherwise will keep closing transactions without ever closing the
 route.
 
-Controlled label: **ANSTRALL MARKET PROVENANCE-CHAIN COMPLETENESS PROHIBITION**.
+Controlled label: ANSTRALL MARKET PROVENANCE-CHAIN COMPLETENESS PROHIBITION.
 
 Core handling rule:
 
@@ -329,9 +329,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2017-06-02
-- **Author Desk:** Intelligence Division / Trade Interdiction Desk / Central Archive
-- **Review Status:** Active restricted trade-interdiction technology record; settlement counterparties and live
+- Created: 2017-06-02
+- Author Desk: Intelligence Division / Trade Interdiction Desk / Central Archive
+- Review Status: Active restricted trade-interdiction technology record; settlement counterparties and live
 routes censored
-- **Next Review:** After any interdicted settlement, any civilian system exposure, or any second link
+- Next Review: After any interdicted settlement, any civilian system exposure, or any second link
 recovered from one document

@@ -56,7 +56,7 @@ so a disconnected diagnostic screen on this platform may carry an unsafe command
 becomes unsafe only when a person responds to it as ordinary maintenance. The name
 Argus implies many-eyed watching, and A.C.T does not assume the label describes the mechanism.
 
-Controlled label: **ARGUS SAFE-CATEGORY ABSENCE RULE**.
+Controlled label: ARGUS SAFE-CATEGORY ABSENCE RULE.
 
 Core handling rule:
 
@@ -340,9 +340,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2021-01-14
-- **Author Desk:** Tactical Review Desk / Intelligence Division / Central Archive
-- **Review Status:** Active restricted future-origin weapon-data record; subject-exposure proposals sealed at
+- Created: 2021-01-14
+- Author Desk: Tactical Review Desk / Intelligence Division / Central Archive
+- Review Status: Active restricted future-origin weapon-data record; subject-exposure proposals sealed at
 Level 5
-- **Next Review:** After any new armory fragment, any repeat display, or any custody change
+- Next Review: After any new armory fragment, any repeat display, or any custody change
 to a held assembly

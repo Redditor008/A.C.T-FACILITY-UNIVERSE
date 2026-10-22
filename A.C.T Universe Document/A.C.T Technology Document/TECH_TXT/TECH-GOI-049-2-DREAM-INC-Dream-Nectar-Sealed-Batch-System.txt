@@ -56,7 +56,7 @@ active anomalous material until Containment and Medical review clear it, and the
 is preserved with the dose because the words around the vial may be part
 of the dose technology.
 
-Controlled label: **DREAM .INC NECTAR CONSUMPTION PROHIBITION**.
+Controlled label: DREAM .INC NECTAR CONSUMPTION PROHIBITION.
 
 Core handling rule:
 
@@ -333,9 +333,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2023-08-14
-- **Author Desk:** Containment Division / Medical Care Division / Central Archive
-- **Review Status:** Active restricted corporate-exploitation technology record; consumer identities and
+- Created: 2023-08-14
+- Author Desk: Containment Division / Medical Care Division / Central Archive
+- Review Status: Active restricted corporate-exploitation technology record; consumer identities and
 referral routes sealed
-- **Next Review:** After any further batch recovery, any new aftereffect pattern, or any confirmed
+- Next Review: After any further batch recovery, any new aftereffect pattern, or any confirmed
 dosage or shelf standard

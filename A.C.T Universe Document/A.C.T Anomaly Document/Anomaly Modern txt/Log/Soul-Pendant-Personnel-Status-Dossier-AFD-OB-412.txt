@@ -100,7 +100,7 @@ M09-M10:             Stability Review: Thorne remains 100% focused on his
 LOG ID:              AFD-OB-412/PER-2012
 DATE RANGE:          2012-01-01 → 2012-12-31
 
-M01-M02:             Thorne assigned to the **Gems of Change (AFD-OB-612)**
+M01-M02:             Thorne assigned to the Gems of Change (AFD-OB-612)
                      recovery task force. His immunity to standard
                      biological fatigue allowed for a 72-hour continuous
                      archival sweep.

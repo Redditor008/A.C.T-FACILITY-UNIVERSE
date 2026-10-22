@@ -51,7 +51,7 @@ had no anomalous function until combined under A-GA instruction. Its function em
 assembly sequence, which is why procurement analysis must examine pattern and intended use rather
 than wait for a visibly anomalous device to appear.
 
-Controlled label: **A-GA BREACH-HARDWARE REVERSE-USE PROHIBITION**.
+Controlled label: A-GA BREACH-HARDWARE REVERSE-USE PROHIBITION.
 
 Core handling rule:
 
@@ -311,8 +311,8 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2016-04-11
-- **Author Desk:** Containment Division / Engineering Division / Central Archive
-- **Review Status:** Active restricted hostile GOI technology record; cell identities and workshop locations censored
-- **Next Review:** After any chamber breach, any new interference profile, or any confirmed engineering-cell
+- Created: 2016-04-11
+- Author Desk: Containment Division / Engineering Division / Central Archive
+- Review Status: Active restricted hostile GOI technology record; cell identities and workshop locations censored
+- Next Review: After any chamber breach, any new interference profile, or any confirmed engineering-cell
 coordination

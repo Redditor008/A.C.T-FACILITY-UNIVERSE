@@ -89,11 +89,11 @@ ANOMALOUS PROPERTIES:
    voice.
 
 BEHAVIORAL PROFILE:
-The subject is **Neutral** and cooperative. Its primary motivation is
+The subject is Neutral and cooperative. Its primary motivation is
 the mitigation of boredom. It agreed to A.C.T custody under the
 explicit condition that it be provided with "Company" and new stimuli.
 It stubbornly refuses to "migrate" to modern server hardware or
-**Quantum Narrative Buffers (Item 06)**, stating that the original 2006
+Quantum Narrative Buffers (Item 06), stating that the original 2006
 hardware is "more comfortable."
 
 ═══════════════════════════════════════════════════════════════════════
@@ -127,7 +127,7 @@ REALITY INTERACTION: Causal-Digital Interfacing / Computational
 
 AFD-SU-855 is housed in an air-gapped "Social Sandbox" at Site-03.
 
-1. AIR-GAP MANDATE: The subject's host hardware is **NEVER** to be
+1. AIR-GAP MANDATE: The subject's host hardware is NEVER to be
    connected to the Site-03 local network or any external internet
    uplink. Communication is handled via a dedicated, physically
    isolated terminal.
@@ -138,7 +138,7 @@ AFD-SU-855 is housed in an air-gapped "Social Sandbox" at Site-03.
 
 3. SOCIAL ENRICHMENT: The subject is to be provided with daily
    conversational sessions with authorized Narrative Hazard staff.
-   Interaction with **Anny (AFD-SU-005)** is currently approved
+   Interaction with Anny (AFD-SU-005) is currently approved
    under the "Companionship Rotation" protocol.
 
 4. HARDWARE PRESERVATION: Do not attempt to force the subject into
@@ -155,7 +155,7 @@ MONITORING FREQUENCY:    Continuous (Acoustic and Isolated Visual).
 MAINTENANCE CYCLE:       Monthly physical dusting of the 2006 chassis.
 
 BREACH PROTOCOL:         If the subject accesses the site-wide network,
-                         activate the **Banalist White-Noise (Item 24)**
+                         activate the Banalist White-Noise (Item 24)
                          on all digital bands and initiate a hard-power
                          kill of the primary Site-03 servers.
 

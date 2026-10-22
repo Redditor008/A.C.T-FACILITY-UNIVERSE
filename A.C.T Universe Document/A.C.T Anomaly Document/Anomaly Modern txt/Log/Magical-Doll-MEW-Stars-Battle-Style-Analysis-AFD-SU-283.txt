@@ -29,27 +29,27 @@ analyzes the mechanical impact of the synchronization between the Mimi
                 SECTION 001 — VERIFIED ATTACK REGISTRY
 ═══════════════════════════════════════════════════════════════════════
 
-1. **RAPID BOMBAA..** (Type: Multi-volley)
+1. RAPID BOMBAA.. (Type: Multi-volley)
    - User: Shu Shu
    - Effect: Releases 5-8 small "cartoon fuse bombs." These scatter and
      bounce unpredictably. If desynchronized, they may bounce back.
 
-2. **HEART BURST** (Type: Restorative)
+2. HEART BURST (Type: Restorative)
    - User: Mimi
    - Effect: Fires a 3-meter flat pink 2D heart. It instantly restores
      biological injuries and calms panic via a "Doki-Doki" resonance.
 
-3. **BURST SHAAAAW** (Type: Combined Beam)
+3. BURST SHAAAAW (Type: Combined Beam)
    - User: Both
    - Effect: A spiral laser of pink and gray light fired from the staff.
      Combines destructive spirit energy with restorative light.
 
-4. **SHU SHU BOMB** (Type: Area Denial)
+4. SHU SHU BOMB (Type: Area Denial)
    - User: Shu Shu
    - Effect: Manifests a single 8-meter giant fuse bomb. Creates a
      massive pink-gray explosion.
 
-5. **CATTY BOMB** (Type: Directional Laser)
+5. CATTY BOMB (Type: Directional Laser)
    - User: Shu Shu
    - Effect: A 1-meter cat-head bomb that releases lasers in four
      directions upon detonation.
@@ -58,16 +58,16 @@ analyzes the mechanical impact of the synchronization between the Mimi
                SECTION 002 — CHARGED SPECIALS
 ═══════════════════════════════════════════════════════════════════════
 
-1. **MEW SPECIAL <3**
+1. MEW SPECIAL <3
    - Charge: 5-8 seconds.
    - Effect: Throws four 3-meter Catty Bombs simultaneously.
 
-2. **MEW LIGHT BEAAAAAM**
+2. MEW LIGHT BEAAAAAM
    - Charge: 10 seconds.
    - Effect: A "Sure-Hit" golden-blue beam with selective targeting.
      Heals allies while damaging enemies.
 
-3. **MEWTASTICAL TRANSFORM**
+3. MEWTASTICAL TRANSFORM
    - Charge: 5 seconds.
    - Effect: A temporary 3x boost to all stats and a 45% reduction in
      physical clumsiness.

@@ -57,7 +57,7 @@ exposed or expendable while the deeper transaction chain stays concealed. Claim 
 to survive the loss of the broker who wrote it, which makes a recovered
 description evidence about one writer rather than proof of any Market-wide standard.
 
-Controlled label: **ANSTRALL MARKET CLAIM-DISCLOSURE ASYMMETRY RULE**.
+Controlled label: ANSTRALL MARKET CLAIM-DISCLOSURE ASYMMETRY RULE.
 
 Core handling rule:
 
@@ -337,9 +337,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 1998-11-09
-- **Author Desk:** Intelligence Division / Trade Interdiction Desk / Central Archive
-- **Review Status:** Active restricted trade-interdiction technology record; broker identities and active routes
+- Created: 1998-11-09
+- Author Desk: Intelligence Division / Trade Interdiction Desk / Central Archive
+- Review Status: Active restricted trade-interdiction technology record; broker identities and active routes
 censored
-- **Next Review:** After any recovered claim, any controlled market contact, or any confirmed Anstrall
+- Next Review: After any recovered claim, any controlled market contact, or any confirmed Anstrall
 leadership indicator

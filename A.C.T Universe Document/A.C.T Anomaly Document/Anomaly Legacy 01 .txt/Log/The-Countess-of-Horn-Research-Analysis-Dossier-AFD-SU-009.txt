@@ -51,7 +51,7 @@ RANGE:               1926 → 1950
 Contact was formally established in 1926 by the Five Founders. At the
 time, the O5 Council possessed over 300 years of independent research
 into the "Static Condition" (Reference: LEGACY-HIST-001) and the
-foundational "Abyssal Pulsing" associated with **ITHYOS**.
+foundational "Abyssal Pulsing" associated with ITHYOS.
 
 The subject, AFD-SU-009, was identified as a peer in longevity. The
 early consultation focused on the reconciliation of the Founders'
@@ -62,8 +62,8 @@ THE 1950 TRANSITION:
 ------------------------------------------------------------------------
 The shift from the Entity Research Exploration (ERE) to the modern
 Anomaly Containment Transformation (ACT) was finalized during this era.
-The O5 provided the technical mastery of **RSA (Item 01)** and
-**ARM (Item 02)** systems, while the subject provided the "Causal
+The O5 provided the technical mastery of RSA (Item 01) and
+ARM (Item 02) systems, while the subject provided the "Causal
 Manners"—the specific social and structural rules required to maintain
 secrecy on a global scale.
 
@@ -95,7 +95,7 @@ III. THE ARCHITECTURE OF THE LATTICE
      — SOURCE: The O5 tectonic mapping of faults and abyssal nodes.
      — REFINEMENT: The subject's "Map of Vanished Provinces,"
        identifying areas where reality possesses natural density. This
-       governed the placement of **ACT-SITE-01** through **05**.
+       governed the placement of ACT-SITE-01 through 05.
 
 ═══════════════════════════════════════════════════════════════════════
                  SECTION 003 — ARCHIVIST'S REVIEW

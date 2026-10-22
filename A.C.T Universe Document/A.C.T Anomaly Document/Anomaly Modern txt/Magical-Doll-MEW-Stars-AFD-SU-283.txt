@@ -74,8 +74,8 @@ PHYSICAL CHARACTERISTICS & PERSONALITIES:
 1. MIMI (The Primary Persona):
    Trait Profile: "The Sweet / Lovey-Dovey dere."
    Visual State: When Mimi is dominant, the subject’s entire magical girl
-   outfit glows with a **bright pink** luminescence. Her eyes shift to a
-   **bright blue** coloration containing a **yellow shining star** in
+   outfit glows with a bright pink luminescence. Her eyes shift to a
+   bright blue coloration containing a yellow shining star in
    the center of each iris.
    Behavior: Mimi is clingy, romantic, and uses constant cat-puns. She
    represents the "Heroic" and "Healing" aspects of the anomaly.
@@ -83,8 +83,8 @@ PHYSICAL CHARACTERISTICS & PERSONALITIES:
 2. SHU SHU (The Ghost/Spirit Persona):
    Trait Profile: "The Chaotic / Tsundere / Yandere."
    Visual State: When Shu Shu takes control, the outfit's color palette
-   instantly shifts to **light gray and white**. Her eyes change to a
-   **shiny red** with a **dark blue star** motif.
+   instantly shifts to light gray and white. Her eyes change to a
+   shiny red with a dark blue star motif.
    Behavior: Shu Shu is violent, prideful, and defensive. She
    frequently attempts to "censor" Mimi's behavior or attack perceived
    "intruders" into their narrative space.
@@ -105,9 +105,9 @@ Self-inflicted damage from "Magic Bombs" causes a "Cartoon Soot State,"
 appearing covered in black ash with only eyes visible.
 
 ANOMALOUS HARDWARE:
-The subject possesses a single physical focal point: **THE STAR-STAFF**.
-A 1.5-meter white rod terminated at the top by a **Star-Shaped Golden
-Casing**. The casing serves as the exit-aperture for all high-energy
+The subject possesses a single physical focal point: THE STAR-STAFF.
+A 1.5-meter white rod terminated at the top by a Star-Shaped Golden
+Casing. The casing serves as the exit-aperture for all high-energy
 discharges.
 
 ═══════════════════════════════════════════════════════════════════════
@@ -141,11 +141,11 @@ AFD-SU-283 is housed in a "High-Ceiling Reinforced Suite" at
 ACT-SITE-03-JP-E.
 
 1. CEILING HEIGHT: Minimum clearance of 6m required.
-2. NARRATIVE INTERRUPTION: Utilize **Banalist White-Noise Speakers
-   (Item 24)** to disrupt "Shu Shu Escalations."
+2. NARRATIVE INTERRUPTION: Utilize Banalist White-Noise Speakers
+   (Item 24) to disrupt "Shu Shu Escalations."
 3. PHYSICAL BUFFER: All furniture must be secured and rounded.
-4. SOCIAL COMPANIONSHIP: Interaction is coordinated via **Anny
-   (AFD-SU-005)** as a primary conversational anchor.
+4. SOCIAL COMPANIONSHIP: Interaction is coordinated via Anny
+   (AFD-SU-005) as a primary conversational anchor.
 
 CONTAINMENT SITE:        ACT-SITE-03-JP-E — Kurokawa Archive Node
 SITE TYPE:               Primary Site / Memetic and Artificial Sentience

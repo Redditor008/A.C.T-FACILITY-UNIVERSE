@@ -58,7 +58,7 @@ able to recognise people, consent, domestic contact, rest, pain, or refusal. Thi
 treats vocabulary discipline as a technical control alongside isolation, and files every instance of
 Guild interface language in A.C.T reporting as a partial re-instantiation of the layer.
 
-Controlled label: **OMEGA-KERN VOCABULARY RE-ENTRY RULE**.
+Controlled label: OMEGA-KERN VOCABULARY RE-ENTRY RULE.
 
 Core handling rule:
 
@@ -368,9 +368,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2015-03-11
-- **Author Desk:** Intelligence Division / Temporal Evidence Review Desk / Central Archive
-- **Review Status:** Active restricted future-origin software record; VESPER-origin reconstruction material
+- Created: 2015-03-11
+- Author Desk: Intelligence Division / Temporal Evidence Review Desk / Central Archive
+- Review Status: Active restricted future-origin software record; VESPER-origin reconstruction material
 sealed at Level 5
-- **Next Review:** After any recovered Guild fragment, any display event, or any proposed subject-facing
+- Next Review: After any recovered Guild fragment, any display event, or any proposed subject-facing
 test

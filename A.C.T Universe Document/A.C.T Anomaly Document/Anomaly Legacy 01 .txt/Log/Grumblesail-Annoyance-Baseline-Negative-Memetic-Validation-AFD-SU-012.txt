@@ -111,7 +111,7 @@ HYPOTHESIS:          The subject's groans contain infrasonic waves that
                      agitation.
 METHOD:              Continuous acoustic recording during a 4-hour
                      "Grumble Cycle."
-RESULT:              **NEGATIVE.** The groan is within the standard
+RESULT:              NEGATIVE. The groan is within the standard
                      acoustic range for a large reptile. No mind-altering
                      vibrations detected.
 CONCLUSION:          The groan is just a very annoying sound.
@@ -123,7 +123,7 @@ HYPOTHESIS:          The subject's skin or breath secretes an airborne
                      chemical irritant that triggers an anger response.
 METHOD:              Air-quality sampling inside a sealed room after
                      subject had been active for 12 hours.
-RESULT:              **NEGATIVE.** Samples contained only moisture, CO2,
+RESULT:              NEGATIVE. Samples contained only moisture, CO2,
                      and a trace scent of wet red clay and fish-meal.
 CONCLUSION:          The subject does not smell like a hazard. He just
                      smells like a lizard.
@@ -136,7 +136,7 @@ HYPOTHESIS:          The subject's "Indestructibility" is maintained by
                      stability.
 METHOD:              Full-spectrum EM monitoring during a "Doorway
                      Blocking" event.
-RESULT:              **NEGATIVE.** Zero anomalous EM activity.
+RESULT:              NEGATIVE. Zero anomalous EM activity.
 CONCLUSION:          The brain-wave interference reported by staff is
                      caused by the subject refusing to move, not by a
                      field.
@@ -148,7 +148,7 @@ HYPOTHESIS:          The pattern of the subject's scales or the shape of
                      his dorsal sail is a memetic trigger for impatience.
 METHOD:              Visual algorithms analyzed the subject’s surface
                      topology against the "Global Hazard Database."
-RESULT:              **NEGATIVE.** No hidden symbols or patterns found.
+RESULT:              NEGATIVE. No hidden symbols or patterns found.
 CONCLUSION:          The red color is vivid, but it does not contain
                      information-hazards.
 
@@ -160,7 +160,7 @@ HYPOTHESIS:          The subject is a passive "Luck Leech," making local
                      else.
 METHOD:              A probability-meter (standard coin-flipper) was
                      placed within 2m of the subject.
-RESULT:              **NEGATIVE.** Probability remained at a perfect
+RESULT:              NEGATIVE. Probability remained at a perfect
                      50/50.
 ADDITIONAL:          Little Unlucky (AFD-OB-713) was brought into the
                      room. The die rolled a 1. Grumblesail sat on it.
@@ -187,7 +187,7 @@ OBSERVATION:         Dr. Brooks spent 3 hours using classical
                      data unrecoverable due to the lizard's mass.
 REACTION:            Dr. Brooks began arguing with the lizard about the
                      merits of scientific inquiry.
-ANOMALY CHECK:       **NEGATIVE.** EEG showed standard frustration.
+ANOMALY CHECK:       NEGATIVE. EEG showed standard frustration.
                      No memetic hijacking recorded.
 
 ------------------------------------------------------------------------
@@ -203,7 +203,7 @@ OBSERVATION:         Subject laid across the hallway. Every time
 REACTION:            Officer Ward began shouting at his own boots after
                      the 14th trip. He requested to be reassigned to the
                      Butcher Vanity (AFD-OB-801) wing for "some peace."
-ANOMALY CHECK:       **NEGATIVE.** No external EM or psychic influence.
+ANOMALY CHECK:       NEGATIVE. No external EM or psychic influence.
                      The officer was simply tired of being tripped.
 
 ------------------------------------------------------------------------
@@ -220,7 +220,7 @@ OBSERVATION:         During the extraction, the subject followed Agent
 REACTION:            Hale, a seasoned veteran of cosmic-hazard recovery,
                      put his face in his hands and refused to speak for
                      the rest of the day.
-ANOMALY CHECK:       **NEGATIVE.** No "Fear-Pulse" or "Hate-Bleed."
+ANOMALY CHECK:       NEGATIVE. No "Fear-Pulse" or "Hate-Bleed."
                      Just a complete tactical breakdown caused by
                      unforeseen nuisance.
 
@@ -237,7 +237,7 @@ OBSERVATION:         Subject 12-09 tried to sleep. Grumblesail sat on the
                      his chin on the table, groaning every 4 seconds.
 REACTION:            Subject 12-09 begged the guards to put him back
                      in solitary confinement.
-ANOMALY CHECK:       **NEGATIVE.** The subject wasn't being mind-controlled;
+ANOMALY CHECK:       NEGATIVE. The subject wasn't being mind-controlled;
                      he was just being bothered by a heavy creature.
 
 ═══════════════════════════════════════════════════════════════════════

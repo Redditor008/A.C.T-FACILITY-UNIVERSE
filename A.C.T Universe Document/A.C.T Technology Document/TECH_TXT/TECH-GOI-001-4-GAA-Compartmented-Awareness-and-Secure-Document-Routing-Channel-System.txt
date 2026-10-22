@@ -52,7 +52,7 @@ staff. Personnel who demand a complete picture are not considered useful merely 
 possess ordinary authority, and in GAA practice an office becomes valuable when it can
 perform a needed action while remaining unable to reconstruct the concealed system around it.
 
-Controlled label: **GAA AWARENESS-COMPARTMENT DISCLOSURE LIMIT**.
+Controlled label: GAA AWARENESS-COMPARTMENT DISCLOSURE LIMIT.
 
 Core handling rule:
 
@@ -309,8 +309,8 @@ formal name?
 
 FILE METADATA
 
-- **Created:** 2014-05-22
-- **Author Desk:** Intelligence Division / Central Archive
-- **Review Status:** Active restricted GOI technology record; compartment map censored
-- **Next Review:** After any confirmed forgery, any parallel-registry indicator, or any compartment inferred to
+- Created: 2014-05-22
+- Author Desk: Intelligence Division / Central Archive
+- Review Status: Active restricted GOI technology record; compartment map censored
+- Next Review: After any confirmed forgery, any parallel-registry indicator, or any compartment inferred to
 know its neighbours

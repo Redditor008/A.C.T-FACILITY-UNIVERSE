@@ -57,7 +57,7 @@ the point. During the North Window Relay case the first digital recovery report 
 twice before Central Archive ordered analog duplication, which is the Tower's method vindicated inside
 A.C.T's own archive.
 
-Controlled label: **M404-WT DEAD-ADDRESS CONTRADICTION PRESERVATION RULE**.
+Controlled label: M404-WT DEAD-ADDRESS CONTRADICTION PRESERVATION RULE.
 
 Core handling rule:
 
@@ -344,8 +344,8 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 1979-04-17
-- **Author Desk:** Intelligence Division / Recovery Division / Central Archive
-- **Review Status:** Active restricted cooperative-record technology record; sealed tower ledgers held at Level
+- Created: 1979-04-17
+- Author Desk: Intelligence Division / Recovery Division / Central Archive
+- Review Status: Active restricted cooperative-record technology record; sealed tower ledgers held at Level
 5
-- **Next Review:** After any new extract, any lookup-failure recurrence, or any normalisation finding
+- Next Review: After any new extract, any lookup-failure recurrence, or any normalisation finding

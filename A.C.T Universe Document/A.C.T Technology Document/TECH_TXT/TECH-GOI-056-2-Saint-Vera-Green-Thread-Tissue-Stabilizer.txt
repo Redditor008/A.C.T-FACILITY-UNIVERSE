@@ -56,7 +56,7 @@ The Green-Thread Tissue Stabilizer is a surgical closure material that holds dam
 and, in at least one
 confirmed case, prevented a symbol-burn injury from spreading further across the body for roughly
 eighteen hours. It
-is assessed under the Concern's **Engineering** anomalous capability.
+is assessed under the Concern's Engineering anomalous capability.
 
 It is not suture. Ordinary suture approximates wound edges and waits for biology. Green
 thread appears to hold a
@@ -97,20 +97,20 @@ noted but unexplained.
 
 The clinically reported behaviour has three parts.
 
-**Boundary holding.** The thread is laid along or across the edge of an injury
+Boundary holding. The thread is laid along or across the edge of an injury
 and closes it in a way that stops
 lateral spread. In the confirmed case the injury was a symbol burn, and the
 spread being held was the burn's continued
 writing across the patient's body.
 
-**Time-limited action.** Eighteen hours is the only confirmed figure, from one case. Medical Division
+Time-limited action. Eighteen hours is the only confirmed figure, from one case. Medical Division
 recorded it as
 an approximation. There is no evidence the thread works indefinitely, and no evidence about
 what happens at the end of
 the window other than the instruction not to cut it until the burn stops
 spelling.
 
-**Heat sensitivity.** The instruction to keep the patient below fever threshold ties thread performance
+Heat sensitivity. The instruction to keep the patient below fever threshold ties thread performance
 to
 temperature. Whether heat degrades the fiber, accelerates the injury, or both is not established.
 

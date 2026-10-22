@@ -55,7 +55,7 @@ a device. It is heterogeneous redundancy across storage methods that do not shar
 failure mode, plus a filing rule that refuses to let an absence become a
 fact about a person.
 
-Controlled label: **GHOST FILE ABSENCE-NOT-STANDARD RULE**.
+Controlled label: GHOST FILE ABSENCE-NOT-STANDARD RULE.
 
 Core handling rule:
 
@@ -344,8 +344,8 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2025-04-29
-- **Author Desk:** Central Archive / Intelligence Division / Subject Care Division
-- **Review Status:** Active restricted future-origin archive-integrity record; subject identity material sealed
+- Created: 2025-04-29
+- Author Desk: Central Archive / Intelligence Division / Subject Care Division
+- Review Status: Active restricted future-origin archive-integrity record; subject identity material sealed
 at Level 5
-- **Next Review:** After any new fragment, any copy-integrity failure, or any external reconciliation attempt
+- Next Review: After any new fragment, any copy-integrity failure, or any external reconciliation attempt

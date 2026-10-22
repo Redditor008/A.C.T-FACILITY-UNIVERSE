@@ -53,7 +53,7 @@ with privacy paperwork and a plausible service can delay investigation long enou
 routes to move. The company has made the twelve-building condition strategically useful, converting
 distribution into plausible administration.
 
-Controlled label: **DREAM .INC BUILDING-ADDRESS PUBLICATION PROHIBITION**.
+Controlled label: DREAM .INC BUILDING-ADDRESS PUBLICATION PROHIBITION.
 
 Core handling rule:
 
@@ -325,9 +325,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2021-10-05
-- **Author Desk:** Intelligence Division / Civil Covert Division / Central Archive
-- **Review Status:** Active restricted corporate-exploitation technology record; all building addresses and the
+- Created: 2021-10-05
+- Author Desk: Intelligence Division / Civil Covert Division / Central Archive
+- Review Status: Active restricted corporate-exploitation technology record; all building addresses and the
 location index sealed
-- **Next Review:** After any newly linked building, any node closure, or any confirmed change
+- Next Review: After any newly linked building, any node closure, or any confirmed change
 in the twelve-building minimum

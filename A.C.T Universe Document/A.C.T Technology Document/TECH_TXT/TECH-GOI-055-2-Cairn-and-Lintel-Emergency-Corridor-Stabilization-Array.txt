@@ -57,7 +57,7 @@ three are reasons not to reopen it. Recovery teams do not force a closed
 corridor without Engineering review, and every route is logged as A.C.T-controlled, municipal, C&L-maintained,
 or unresolved, because a route that saved civilians once may not survive structural settlement.
 
-Controlled label: **C&L EMERGENCY CORRIDOR INTERVAL RULE**.
+Controlled label: C&L EMERGENCY CORRIDOR INTERVAL RULE.
 
 Core handling rule:
 
@@ -349,7 +349,7 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 1967-03-19
-- **Author Desk:** Recovery Division / Engineering review / Central Archive
-- **Review Status:** Active restricted cooperative-route technology record; sealed city maps held at Level 5
-- **Next Review:** After any new evacuation, any closure event, or any settlement inspection
+- Created: 1967-03-19
+- Author Desk: Recovery Division / Engineering review / Central Archive
+- Review Status: Active restricted cooperative-route technology record; sealed city maps held at Level 5
+- Next Review: After any new evacuation, any closure event, or any settlement inspection

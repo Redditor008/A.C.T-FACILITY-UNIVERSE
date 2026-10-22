@@ -55,7 +55,7 @@ record authorities. Answering a maintenance request may therefore authorise beha
 overwrite, loyalty verification, body adjustment, or record erasure. A.C.T treats the instruction as an
 unbounded action and forbids every form of response, including emulation.
 
-Controlled label: **GUILD REGISTRY CONTACT-STATE PROHIBITION**.
+Controlled label: GUILD REGISTRY CONTACT-STATE PROHIBITION.
 
 Core handling rule:
 
@@ -343,9 +343,9 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2018-07-26
-- **Author Desk:** Intelligence Division / Engineering Liaison / Central Archive
-- **Review Status:** Active restricted future-origin contact-vector record; registry signal-path work sealed at
+- Created: 2018-07-26
+- Author Desk: Intelligence Division / Engineering Liaison / Central Archive
+- Review Status: Active restricted future-origin contact-vector record; registry signal-path work sealed at
 Level 5
-- **Next Review:** After any repeat display, any new future-origin device intake, or any external
+- Next Review: After any repeat display, any new future-origin device intake, or any external
 ownership claim

@@ -46,7 +46,7 @@ the field.
 
 The dossier records warranty ledgers storing child drawings and caregiver notes, recall lists naming
 product lots that
-A.C.T has not recovered, sealed failure crates marked **DO NOT RETURN TO CHILD**, product
+A.C.T has not recovered, sealed failure crates marked DO NOT RETURN TO CHILD, product
 catalogues with missing
 pages, and a warranty fragment proving that replacement review exists. Together these constitute a
 functioning
@@ -54,7 +54,7 @@ product-safety organisation operating outside every registry A.C.T can read.
 
 A.C.T holds fragments. The ledger itself has never been recovered.
 
-Controlled label: **LULLABY WORKS CHILD-CARE DISCLOSURE LIMIT**.
+Controlled label: LULLABY WORKS CHILD-CARE DISCLOSURE LIMIT.
 
 Core handling rule:
 
@@ -67,21 +67,21 @@ FUNCTION SUMMARY
 
 The ledger system performs four functions that A.C.T has confirmed from recovered material:
 
-- **Failure intake.** A caregiver reports a fault. The recovered warranty fragment shows the
+- Failure intake. A caregiver reports a fault. The recovered warranty fragment shows the
 manufacturer
-acknowledging a specific injury — **We are sorry the bear bit the wrong hand**
+acknowledging a specific injury — We are sorry the bear bit the wrong hand
 - instructing that the injured
-caregiver's statement be wrapped in plain paper, stating **Do not punish the child for
-teaching it fear**, and
+caregiver's statement be wrapped in plain paper, stating Do not punish the child for
+teaching it fear, and
 approving replacement after review.
-- **Recall issuance.** Recall lists exist and name product lots. A.C.T has recovered lists
+- Recall issuance. Recall lists exist and name product lots. A.C.T has recovered lists
 naming lots it has never
 encountered in the field, which means the recall system reaches products outside A.C.T visibility.
-- **Failure quarantine.** Failed units are sealed in crates marked **DO NOT RETURN TO
-CHILD**. The marking confirms
+- Failure quarantine. Failed units are sealed in crates marked DO NOT RETURN TO
+CHILD. The marking confirms
 that the manufacturer distinguishes a repairable unit from a unit that must never go
 back into a child's hands.
-- **Evidence retention.** Ledgers store child drawings and caregiver notes. The manufacturer is collecting
+- Evidence retention. Ledgers store child drawings and caregiver notes. The manufacturer is collecting
 witness
 material as a matter of routine, not as an incident response.
 
@@ -117,26 +117,26 @@ PHYSICAL OR SYSTEM DESCRIPTION
 
 The system is documentary and logistical rather than mechanical. Its recovered components are:
 
-- **warranty cards** carrying the three-quiet-nights line and a return route;
-- **a blue card** bearing a telephone number, recovered from shelter staff during the
+- warranty cards carrying the three-quiet-nights line and a return route;
+- a blue card bearing a telephone number, recovered from shelter staff during the
 nightlight incident;
-- **warranty ledger pages** storing child drawings and caregiver notes;
-- **recall lists** naming product lots, some unknown to A.C.T;
-- **product catalogues with missing pages**, where the removed pages are presumed to describe
+- warranty ledger pages storing child drawings and caregiver notes;
+- recall lists naming product lots, some unknown to A.C.T;
+- product catalogues with missing pages, where the removed pages are presumed to describe
 items A.C.T has not
 recovered;
-- **sealed failure crates** marked **DO NOT RETURN TO CHILD**;
-- **caregiver instruction cards** written to be understood by a frightened adult, shared across
+- sealed failure crates marked DO NOT RETURN TO CHILD;
+- caregiver instruction cards written to be understood by a frightened adult, shared across
 the whole product
 range;
-- **production tags** stitched under seams or hidden behind battery plates, which are the
+- production tags stitched under seams or hidden behind battery plates, which are the
 only per-unit identifiers
 A.C.T has ever located.
 
 The blue card is the only live interface A.C.T has observed. When called, the
 number connected to a recorded lullaby
-for thirty-two seconds, followed by a woman's voice stating: **The extra child leaves when
-nobody gives it a bed.**
+for thirty-two seconds, followed by a woman's voice stating: The extra child leaves when
+nobody gives it a bed.
 Whether that is an automated message, a live operator, or something else is unresolved.
 
 The system's most significant physical property is that it produces paper. Every contact leaves
@@ -323,8 +323,8 @@ BLUE CARD CONTACT — DATE WITHHELD
 A.C.T recovered the blue card from a shelter staff member during the nightlight incident
 and called the number. The
 line connected to a recorded lullaby for thirty-two seconds, followed by a woman's voice
-stating **The extra child
-leaves when nobody gives it a bed.** Containment teams maintained room count protocol until
+stating The extra child
+leaves when nobody gives it a bed. Containment teams maintained room count protocol until
 dawn. No additional entity
 was recovered, and four minors reported uninterrupted sleep for the first time since relocation.
 This is the only
@@ -405,11 +405,11 @@ failure?
 
 FILE METADATA
 
-**Created:** 2005-07-14
+Created: 2005-07-14
 
-**Author Desk:** Intelligence Division / Archive Division / Central Archive
+Author Desk: Intelligence Division / Archive Division / Central Archive
 
-**Review Status:** Active restricted GOI technology record; manufacturer identity and ledger location unresolved
+Review Status: Active restricted GOI technology record; manufacturer identity and ledger location unresolved
 
-**Next Review:** After any new fragment recovery, any recall lot reconciliation, or any authorized
+Next Review: After any new fragment recovery, any recall lot reconciliation, or any authorized
 contact attempt

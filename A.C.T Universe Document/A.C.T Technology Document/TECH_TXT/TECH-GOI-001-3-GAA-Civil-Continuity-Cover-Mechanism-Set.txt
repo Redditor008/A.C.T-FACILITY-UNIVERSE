@@ -52,7 +52,7 @@ infrastructure, legal, and continuity structures rather than on a distinct anoma
 no stable public identity, emblem, address, or unified formal name is assigned to the
 body that operates it.
 
-Controlled label: **GAA CIVIL-CONTINUITY PROPORTIONALITY LIMIT**.
+Controlled label: GAA CIVIL-CONTINUITY PROPORTIONALITY LIMIT.
 
 Core handling rule:
 
@@ -307,8 +307,8 @@ absorb the evidence?
 
 FILE METADATA
 
-- **Created:** 2013-11-08
-- **Author Desk:** Civil Covert Division / Intelligence Division / Central Archive
-- **Review Status:** Active restricted GOI technology record; measure identities censored
-- **Next Review:** After any measure persisting past its event, any failed explanation, or any
+- Created: 2013-11-08
+- Author Desk: Civil Covert Division / Intelligence Division / Central Archive
+- Review Status: Active restricted GOI technology record; measure identities censored
+- Next Review: After any measure persisting past its event, any failed explanation, or any
 proportionality dispute

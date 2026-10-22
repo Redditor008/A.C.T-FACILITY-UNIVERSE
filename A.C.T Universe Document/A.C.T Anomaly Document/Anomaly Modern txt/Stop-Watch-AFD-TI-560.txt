@@ -59,8 +59,8 @@ NARRATIVE STATUS:    The item was replaced with a non-anomalous 19th-
 AFD-TI-560 is an ornate golden pocket-watch measuring 5 cm in diameter.
 The casing is composed of 18k gold and features intricate engravings
 of [ REDACTED ] motifs. Internally, the object possesses no standard
-gears or springs; the cavity is filled with **Causal-Reactive Mercury
-(Item 45)**.
+gears or springs; the cavity is filled with Causal-Reactive Mercury
+(Item 45).
 
 The object functions as a localized temporal suspension device.
 
@@ -78,7 +78,7 @@ CHRONOLOGICAL MECHANICS:
    from the 12-mark back to the 12-mark.
 4. CONDITIONAL REDUCTION (THE MISFIRE): If the activation is
    "Unsuccessful"—defined as an attempt to stop time within the
-   radius of a **Reality Stabilization Anchor (Item 01)** or a
+   radius of a Reality Stabilization Anchor (Item 01) or a
    failure to fulfill a chronological intent—the cooldown is reduced by
    50% (3.5 days).
 
@@ -111,7 +111,7 @@ REALITY INTERACTION: Causal Lock / Localized Temporal Acceleration.
 AFD-TI-560 is housed in a "Time-Shielded Vault" at ACT-SITE-03-JP-E.
 
 1. RSA INTERFERENCE: The vault must be equipped with an active
-   **RSA (Item 01)** set to a "Misfire Frequency." This ensures
+   RSA (Item 01) set to a "Misfire Frequency." This ensures
    that any unauthorized attempt to use the watch results in an
    Unsuccessful Activation, shortening the window for recovery.
 
@@ -121,7 +121,7 @@ AFD-TI-560 is housed in a "Time-Shielded Vault" at ACT-SITE-03-JP-E.
    protocols.
 
 3. LOGGING: The position of the second hand must be monitored via
-   **Chrono-Stuttered Visors (Item 09)** to avoid accidental
+   Chrono-Stuttered Visors (Item 09) to avoid accidental
    imprinting by the Causal-Reactive Mercury.
 
 CONTAINMENT SITE:        ACT-SITE-03-JP-E — Kurokawa Archive Node
@@ -147,7 +147,7 @@ AFD-TI-560 is one of the few anomalies that has been successfully
 prevent a [ REDACTED ] level breach at Site-01.
 
 Dr. Aris Thorne’s Note:
-"I carried this watch during the recovery of the **Ball of Knife**.
+"I carried this watch during the recovery of the Ball of Knife.
 Stopping sixty seconds of time sounds like a miracle, but when you
 are the only thing moving in a world of statues, the silence is
 deafening. It doesn't feel like power. It feels like a very fast

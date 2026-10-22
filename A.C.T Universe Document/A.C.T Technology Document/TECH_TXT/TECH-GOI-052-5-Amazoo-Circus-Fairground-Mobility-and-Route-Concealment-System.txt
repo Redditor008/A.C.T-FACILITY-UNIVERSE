@@ -58,7 +58,7 @@ discard site, or an endpoint prepared to absorb a raid. The concealment method i
 unresolved as well: collective memory distortion and the ordinary ambiguity of carnival movement produce
 the same witness pattern, so the pattern cannot select between them.
 
-Controlled label: **AMAZOO ERASURE-IS-NOT-DISMANTLEMENT RULE**.
+Controlled label: AMAZOO ERASURE-IS-NOT-DISMANTLEMENT RULE.
 
 Core handling rule:
 
@@ -345,8 +345,8 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2026-01-22
-- **Author Desk:** Intelligence Division / Regional Command / Central Archive
-- **Review Status:** Active restricted route-reconstruction technology record; POI-0507 pursuit sealed at Level
+- Created: 2026-01-22
+- Author Desk: Intelligence Division / Regional Command / Central Archive
+- Review Status: Active restricted route-reconstruction technology record; POI-0507 pursuit sealed at Level
 4
-- **Next Review:** After any node identification, any rebuilt-attraction indicator, or any missing-act recovery
+- Next Review: After any node identification, any rebuilt-attraction indicator, or any missing-act recovery

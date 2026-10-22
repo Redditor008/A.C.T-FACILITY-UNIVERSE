@@ -101,6 +101,6 @@ hour. It would always be moving.
 
 And it would always be empty.
 
-***
+*
 
 END OF TALE

@@ -29,9 +29,9 @@ DOSSIER STATUS:      Open / Exploration Records Compiled
 ═══════════════════════════════════════════════════════════════════════
 
 This dossier contains the audio-visual and sensory logs from
-**Expedition Pale-01**, the first authorized manned mission through
+Expedition Pale-01, the first authorized manned mission through
 the threshold of AFD-PL-932. The mission was conducted by Recovery
-Team Gamma-9 using Level-A Hazmat suits and early **RSA (Item 01)**
+Team Gamma-9 using Level-A Hazmat suits and early RSA (Item 01)
 stabilization tech.
 
 INCLUDED LOG TYPES:
@@ -58,7 +58,7 @@ TEAM:                Gamma-9 (Sokolov, Veyr, Novak)
               experiences 2.4 seconds of chromatic aberration.
 
 [00:00:17] — ARRIVAL: Team is standing on a plain of vivid "Blue Dirt."
-              The sky is absolute black. A single **Blue Moon** is at
+              The sky is absolute black. A single Blue Moon is at
               zenith, providing a dim, ultraviolet-shifted
               illumination.
 
@@ -117,13 +117,13 @@ VEYR (Analysis):     "Acid sensors are pegged. It's roughly 20% HCl-
 SOKOLOV (Comms):     "Contacts. 3 o'clock. Move to a defensive triangle.
                       Shields up."
 
-[03:14:00] — VISUAL: Four **Bones Hounds** emerge from the Pale Woods.
+[03:14:00] — VISUAL: Four Bones Hounds emerge from the Pale Woods.
               They move with a staggering, non-biological gait. Their
               "Shiny Blue Eyes" are fixed on the team's thermal
               signatures.
 
 [03:15:00] — ENGAGEMENT: One Hound lunges at Novak. Novak activates
-              the **Tactical Feedbacker Arm (Item 21)**. The impact
+              the Tactical Feedbacker Arm (Item 21). The impact
               vibration shatters the Hound's front limb-bone, but the
               entity does not vocalize pain. It simply re-orients
               using its tail.

@@ -24,8 +24,8 @@ DOSSIER STATUS:      Open / Incident Recovery Logged
                          CATEGORY CONTENTS
 ═══════════════════════════════════════════════════════════════════════
 
-This dossier contains the reconstructed logs from **Operation Tight
-Knot**, detailing the recovery of the "Gallows Constrictor" following
+This dossier contains the reconstructed logs from Operation Tight
+Knot, detailing the recovery of the "Gallows Constrictor" following
 a botched execution in 1992.
 
 INCLUDED LOG TYPES:

@@ -55,7 +55,7 @@ carries the naming with it, and recovered bars, floor plates, locks, blankets, s
 bowls, curtain hooks, and placards are all filed as possible trauma-anchor evidence. Whether the
 survivor views any object is a Subject Care decision and not an evidential one.
 
-Controlled label: **AMAZOO CAGE NON-REUSE RULE**.
+Controlled label: AMAZOO CAGE NON-REUSE RULE.
 
 Core handling rule:
 
@@ -346,8 +346,8 @@ OPEN QUESTIONS
 
 FILE METADATA
 
-- **Created:** 2021-09-14
-- **Author Desk:** Intelligence Division / Subject Care Division / Regional Command
-- **Review Status:** Active restricted survivor-evidence technology record; survivor routing details sealed at
+- Created: 2021-09-14
+- Author Desk: Intelligence Division / Subject Care Division / Regional Command
+- Review Status: Active restricted survivor-evidence technology record; survivor routing details sealed at
 Level 4
-- **Next Review:** After any new component recovery, any cage-linked scene, or any reuse request
+- Next Review: After any new component recovery, any cage-linked scene, or any reuse request

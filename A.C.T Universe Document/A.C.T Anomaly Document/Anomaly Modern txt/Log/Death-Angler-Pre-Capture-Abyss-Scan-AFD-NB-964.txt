@@ -28,10 +28,10 @@ DOSSIER STATUS:      Open / Mission Log Archived
 ═══════════════════════════════════════════════════════════════════════
 
 This dossier contains the reconstructed sonar and audio logs from
-**Mission Sunda-09**, the final deep-sea drone survey conducted before
+Mission Sunda-09, the final deep-sea drone survey conducted before
 the successful capture of AFD-NB-964. The drone, *Nusantara-9*, was
 lost during this mission but the data was successfully transmitted via
-**Sub-Abyssal Sonar (Item 37)**.
+Sub-Abyssal Sonar (Item 37).
 
 INCLUDED LOG TYPES:
    - Drone Log: Descent to 7,500m (The Optical Void)
@@ -50,7 +50,7 @@ DATE:                2024-01-20
 [00:00:00] — *Nusantara-9* enters the trench.
 [03:45:00] — DEPTH 7,500m: High-intensity floodlights are activated.
               The external cameras show only clear water.
-[03:45:14] — ANALYSIS: **Digital Resonance Sensors (Item 10)** detect
+[03:45:14] — ANALYSIS: Digital Resonance Sensors (Item 10) detect
               a 10.4-ton biological signature 20m in front of the
               drone.
 
@@ -73,8 +73,8 @@ OPERATOR (Comms):    "Oh. It’s beautiful. I... I want to get closer.
                       Let me adjust the thrusters."
 
 SUPERVISOR:          "Do not engage, Operator. Maintain the 20m safety
-                      distance. Check your **Adrenaline Monitor (Item
-                      18)**."
+                      distance. Check your Adrenaline Monitor (Item
+                      18)."
 
 ANALYSIS:
 The lure light is non-thermal. It does not heat the water around it,
