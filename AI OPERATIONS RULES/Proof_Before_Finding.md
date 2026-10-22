@@ -52,6 +52,36 @@ bad instrument leaves the reader holding two wrong statements instead of one. Wi
 retraction in the same place it was recorded, say which statement was false, and give the
 corrected measurement.
 
+## Splice anchors and clean exit codes
+
+**Search a splice anchor after the section start.** A section is replaced by slicing from a start
+index to an end index. If the end anchor is searched from the beginning of the file and that
+string appears more than once, the end index can land *before* the start index, and the splice
+then duplicates everything between them instead of replacing anything.
+
+```
+s.index(anchor)          # wrong: finds the first occurrence anywhere in the file
+s.index(anchor, start)   # right: finds the first occurrence at or after the section start
+```
+
+This happened for real. `**Reading examples.**` appears twice in
+`ACT_Complete_Designation_and_Class_Reference.md`, once in PART I and once in PART II. The
+unanchored search gave `old_start=70020, old_end=36574`, and the resulting splice inserted 863
+lines and a second copy of a chapter heading.
+
+**A clean exit code is not a pass.** That splice exited zero and wrote the file. What caught it
+was counting afterwards:
+
+```
+git diff --numstat   ->  863  0     (863 insertions and no deletions is a duplication)
+chapter count        ->  PART II listed twice
+line count           ->  3053 against a known 2190
+```
+
+After any edit that splices, replaces or rewrites a region, verify the result by counting
+something the edit should not have changed — total lines, chapter headings, word count — and
+compare against the figure measured before the edit. Report both numbers.
+
 ## Related standing gates
 
 - Compare `git rev-parse HEAD` against `git ls-remote origin <branch>` before the first edit of
