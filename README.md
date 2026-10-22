@@ -123,8 +123,8 @@ A.C.T-FACILITY-UNIVERSE/
 │   ├── Junior Handbook/            orientation for new junior staff
 │   └── 'A History of …' BOOK.md    the in-universe history, md only
 │
-├── A.C.T Anomaly Creation Rule/   generation standards and writer guides
-├── AI OPERATIONS RULES/           rules for AI agents editing this archive
+├── A.C.T Anomaly Creation Rule/   in-world generation standards and canonical terms
+├── AI OPERATIONS RULES/           rules and generation guides for AI agents
 │
 └── _ARCHIVE-OPS/                   backstage, kept apart from the fiction
     ├── PATCH SAVER/                working task-continuation log

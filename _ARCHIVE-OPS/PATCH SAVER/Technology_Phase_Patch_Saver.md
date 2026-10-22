@@ -6044,7 +6044,7 @@ learn the distinction the README warns about.
 Measured across the corpus, both forms are live: **100** spaced `[ BLANK ]` redaction markers and
 **74** unspaced `[BLANK]` containment classes.
 
-`ACT_Anomaly_Generation_AI_Guide.md` gains a subsection inside its containment-class chapter, placed
+`AI OPERATIONS RULES/ACT_Anomaly_Generation_AI_Guide.md` gains a subsection inside its containment-class chapter, placed
 immediately after the class list where `[BLANK]` is defined, stating that the spaced form is a
 redaction marker carrying no classification meaning and that writing either form with the wrong
 spacing destroys information rather than merely misformatting it.
