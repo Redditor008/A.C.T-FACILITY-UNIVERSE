@@ -1701,9 +1701,15 @@ do not center on the Facility.
 anomalous world or with A.C.T.
 - B — Business — the relationship is commercial; the group's dealings are the
 point of contact.
+- W — Work — the relationship is a working arrangement; the group and A.C.T operate
+together on defined matters without alignment either way.
 - G — Guild — the relationship is that of a craft or protective
 body with its own rules, neither purely hostile nor
 purely aligned.
+
+W for Work was issued before this list recorded it and appears on six live dossiers. G for
+Guild is recognized and has not been issued. A recognized marker with no dossiers attached is
+not a defect.
 
 Reading examples. GOI-CU-X-048 Children of the Deep — Cultic, Negative. GOI-BS-T-027 Anstrall Market —
 Business,

@@ -1736,22 +1736,23 @@ system, part anomaly.
 
 Alignment Class records the GOI's broad relationship to A.C.T. Recognized markers:
 
-  **N — Neutral** — neither aligned against nor with A.C.T; its purposes simply
-  do
-  not center on the Facility.
-— **P — Positive** — aligned with A.C.T or actively cooperative in intent.
-— **X — Negative** — hostile or opposed to A.C.T.
-— **U — Unknown** — the relationship cannot yet be assessed.
-  **T — Trade** — the relationship is transactional; the group trades with the
-  anomalous
-  world or with A.C.T.
-  **B — Business** — the relationship is commercial; the group's dealings are the
-  point
-  of contact.
-  **G — Guild** — the relationship is that of a craft or protective
-  body
-  with its own rules, neither purely hostile nor
-  purely aligned.
+- **N — Neutral** — neither aligned against nor with A.C.T; its purposes simply do not center
+  on the Facility.
+- **P — Positive** — aligned with A.C.T or actively cooperative in intent.
+- **X — Negative** — hostile or opposed to A.C.T.
+- **U — Unknown** — the relationship cannot yet be assessed.
+- **T — Trade** — the relationship is transactional; the group trades with the anomalous world
+  or with A.C.T.
+- **B — Business** — the relationship is commercial; the group's dealings are the point of
+  contact.
+- **W — Work** — the relationship is a working arrangement; the group and A.C.T operate
+  together on defined matters without alignment either way.
+- **G — Guild** — the relationship is that of a craft or protective body with its own rules,
+  neither purely hostile nor purely aligned.
+
+`W` for Work was issued before this list recorded it and appears on six live dossiers. `G` for
+Guild is recognized and has not been issued. A recognized marker with no dossiers attached is
+not a defect.
 
 **Reading examples.** `GOI-CU-X-048` Children of the Deep — Cultic, Negative. `GOI-BS-T-027` Anstrall Market —
 Business, Trade. `GOI-ML-G-039` (roadmap provisional) — Militant, Guild.
