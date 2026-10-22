@@ -1,11 +1,13 @@
 A.C.T FACILITY ARCHIVE FILE — OPERATIONAL FORMS HOLDING FOLDER
-## OPERATIONAL FORMS HOLDING FOLDER
+OPERATIONAL FORMS HOLDING FOLDER
+--------------------------------
 
 Archive Status: Active Holding Folder
 Distribution: Internal / Field / Archive / Civil Covert / Medical Care
 Authority: Central Archive and Field Operating Chief Council
 
-### Archive Note
+Archive Note
+------------
 This folder holds reusable A.C.T working forms. A working form is an in-world document
 that personnel can copy,
 complete, attach to an anomaly record, or route through the archive. It is not
@@ -18,7 +20,8 @@ make each case dangerous.
 
 ---
 
-## Folder Function
+Folder Function
+---------------
 
 Use this folder for blank or semi-blank operational forms connected to:
 
@@ -39,7 +42,8 @@ or operational dossier.
 
 ---
 
-## Twin Rule
+Twin Rule
+---------
 
 Every Markdown form in this folder requires a plain-text mirror in the matching text
 folder:
@@ -48,13 +52,13 @@ text
 Operational Forms collection, Central Archive
 Operational Forms collection, plain-text reading copies
 
-
 The Markdown form is the editable authority copy. The text form is the plain
 reading and field-copy version.
 
 ---
 
-## Current Forms
+Current Forms
+-------------
 
 text
 ACT_Witness_Statement_and_Testimony_Form.md
@@ -64,10 +68,10 @@ ACT_Access_and_Egress_Ledger_Form.txt
 ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md
 ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.txt
 
-
 ---
 
-## Storage Rule
+Storage Rule
+------------
 
 Do not store completed witness records in this folder. Completed forms should be copied
 into the relevant case
@@ -77,6 +81,5 @@ text
 A.C.T Universe Document/A.C.T Anomaly Document/[CASE FAMILY]/Log/
 Group of Interest Registry collection, Central ArchiveRecovered_Document_Records/
 Site Dossier collection, Central Archive[SITE]/
-
 
 The original blank form must remain reusable.

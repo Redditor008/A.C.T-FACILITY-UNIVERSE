@@ -1,12 +1,14 @@
 A.C.T FACILITY ARCHIVE FILE — AMNESTIC REVIEW FOUNDATION
-## AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM
+AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM
+--------------------------------------------------------
 
 Archive Status: Active Working Form
 Distribution: Medical Care Division / Civil Covert Division / Archiver Division / Site Command
 / Subject Care Division
 Authority: Medical Care Division, Civil Covert Division, and Central Archive
 
-### Archive Note
+Archive Note
+------------
 This form governs the review, authorization, administration, and aftercare record for amnestic use. It
 exists because
 memory treatment is not a cleanup tool. It is an intervention against a person's
@@ -19,9 +21,11 @@ that habit visible.
 
 ---
 
-## AMNESTIC REVIEW FOUNDATION
+AMNESTIC REVIEW FOUNDATION
+--------------------------
 
-## 1. Use Conditions
+1. Use Conditions
+-----------------
 
 Use this form whenever A.C.T considers, approves, denies, administers, withholds, reverses, audits, or follows
 up on
@@ -50,7 +54,8 @@ Central Archive.
 
 ---
 
-## 2. Review Header
+2. Review Header
+----------------
 
 text
 AMNESTIC REVIEW ID:
@@ -75,14 +80,14 @@ RELATED WITNESS STATEMENT ID:
 RELATED ACCESS / EGRESS LEDGER ID:
 RELATED EXPOSURE LEDGER ID:
 
-
 If the person cannot safely be named, use the sealed identifier already established in
 the witness, personnel,
 subject-care, or custody record.
 
 ---
 
-## 3. Person Category
+3. Person Category
+------------------
 
 Mark all applicable categories.
 
@@ -105,14 +110,14 @@ text
 [ ] DECEASED-RECORD RECONSTRUCTION
 [ ] OTHER: ______________________________
 
-
 Person category affects safeguards. It does not erase personhood. A.C.T may alter memory under
 authority, but it may
 not pretend the altered person has become only a record problem.
 
 ---
 
-## 4. Request Reason
+4. Request Reason
+-----------------
 
 text
 PRIMARY REQUEST REASON:
@@ -134,13 +139,13 @@ PRIMARY REQUEST REASON:
 
 DETAILED REASON:
 
-
 The request must describe the memory or exposure condition to be treated. "Knows too
 much" is not sufficient.
 
 ---
 
-## 5. Memory Scope Assessment
+5. Memory Scope Assessment
+--------------------------
 
 text
 MEMORY TARGET:
@@ -169,13 +174,13 @@ EXPECTED POST-TREATMENT STORY:
 RISK IF MEMORY REMAINS:
 RISK IF MEMORY IS REMOVED:
 
-
 Some memories are load-bearing. Removing them may break grief processing, location avoidance, family continuity,
 subject trust, or the person's ability to explain their own scars.
 
 ---
 
-## 6. Amnestic Grade and Method
+6. Amnestic Grade and Method
+----------------------------
 
 text
 PROPOSED AMNESTIC GRADE:
@@ -193,14 +198,14 @@ REPEATED USE HISTORY:
 NEMNOLIA-LINEAGE MATERIAL INVOLVED:
 TRANSFORMATION-DERIVED MATERIAL INVOLVED:
 
-
 If 004-series material or NEMNOLIA-lineage derivatives are involved, the review must acknowledge transformation
 provenance. A.C.T cannot safely use transformed memory tools while forgetting the anomaly that made
 them possible.
 
 ---
 
-## 7. Partial Truth Shard Review
+7. Partial Truth Shard Review
+-----------------------------
 
 A partial truth shard is a controlled fragment of truth left intact because full
 erasure would cause worse
@@ -219,14 +224,14 @@ WHEN SHARD MAY BE DISCLOSED:
 HOW SHARD MUST BE PHRASED:
 FOLLOW-UP IF SHARD DESTABILIZES PERSON:
 
-
 A partial truth shard is not mercy by default. It is controlled damage left
 visible because invisible damage would
 spread.
 
 ---
 
-## 8. Consent, Refusal, and Authority
+8. Consent, Refusal, and Authority
+----------------------------------
 
 text
 PERSON CAPABLE OF CONSENT:
@@ -242,14 +247,14 @@ MINOR / DEPENDENT SAFEGUARD PRESENT:
 E-CLASS SAFEGUARD PRESENT:
 GOI-RISK REVIEW PRESENT:
 
-
 A.C.T may administer amnestics without consent under restricted authority. The form must record that
 authority
 plainly. Memory removed under command is not consent retroactively created.
 
 ---
 
-## 9. Administration Record
+9. Administration Record
+------------------------
 
 text
 ADMINISTRATION APPROVED:
@@ -275,14 +280,14 @@ FALSE MEMORY INSERTION TEXT:
 NO FALSE MEMORY INSERTION USED:
 REASON:
 
-
 False memory insertion requires its own justification. A blank space may be safer than
 a lie. A lie may be safer than
 a blank space. Neither is clean.
 
 ---
 
-## 10. Post-Amnestic Aftercare
+10. Post-Amnestic Aftercare
+---------------------------
 
 text
 AFTERCARE REQUIRED:
@@ -308,14 +313,14 @@ WORDS / LOCATIONS / PEOPLE TO AVOID:
 RECONTACT PERMITTED:
 RECONTACT PROHIBITED:
 
-
 Aftercare belongs to the person, not to the cover story. A successful public narrative
 does not prove the treated
 person is stable.
 
 ---
 
-## 11. Personnel Repeated-Use Review
+11. Personnel Repeated-Use Review
+---------------------------------
 
 Complete when the person is A.C.T personnel, contractor, embedded liaison, E-Class, or recurring witness.
 
@@ -333,13 +338,13 @@ RETIREMENT / AFTERCARE REVIEW REQUIRED:
 EXPOSURE LEDGER UPDATED:
 PERSONNEL RESILIENCE PROFILE UPDATED:
 
-
 A person cannot be made safe for repeated harm by repeatedly removing the memory
 of harm.
 
 ---
 
-## 12. GOI Exposure Attachment
+12. GOI Exposure Attachment
+---------------------------
 
 Complete when memory treatment is tied to a Group of Interest.
 
@@ -363,12 +368,12 @@ GOI RECOVERED DOCUMENT RECORD REQUIRED:
 INTELLIGENCE FOLLOW-UP REQUIRED:
 RISK OF RECONTACT:
 
-
 Some GOI words are hooks. Some are evidence. Some are both.
 
 ---
 
-## 13. Archive and Narrative Closure
+13. Archive and Narrative Closure
+---------------------------------
 
 text
 TRUE EVENT RECORD UPDATED:
@@ -384,14 +389,14 @@ SEALED ANNEX REQUIRED:
 ARCHIVE LOCATION:
 NEXT REVIEW DATE:
 
-
 A.C.T must preserve both the treatment and the reason for treatment. If the archive
 forgets why a memory was removed,
 the institution inherits the same wound it created in the person.
 
 ---
 
-## 14. Red Lines
+14. Red Lines
+-------------
 
 A.C.T will not:
 
@@ -407,7 +412,8 @@ A.C.T will not:
 
 ---
 
-## 15. Blank Field Copy
+15. Blank Field Copy
+--------------------
 
 text
 A.C.T FACILITY ARCHIVE FILE
@@ -556,10 +562,10 @@ NEXT REVIEW DATE:
 CLOSING AUTHORITY:
 CLOSING DATE:
 
-
 ---
 
-## File Metadata
+File Metadata
+-------------
 
 text
 FILE CREATED:        15/08/1926

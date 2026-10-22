@@ -1,12 +1,14 @@
 A.C.T FACILITY ARCHIVE FILE — WITNESS STATEMENT FOUNDATION
-## WITNESS STATEMENT AND TESTIMONY FORM
+WITNESS STATEMENT AND TESTIMONY FORM
+------------------------------------
 
 Archive Status: Active Working Form
 Distribution: Field Operators / Civil Covert / Medical Care / Archiver Division / Intelligence
 Division
 Authority: Central Archive, Civil Covert Division, and Medical Care Division
 
-### Archive Note
+Archive Note
+------------
 This form is used when a civilian, personnel member, contained subject, GOI contact, or
 other witness provides
 testimony connected to an anomalous event. The purpose is to preserve what was perceived
@@ -19,9 +21,11 @@ and an event that may not have obeyed the same rules for every observer.
 
 ---
 
-## WITNESS STATEMENT FOUNDATION
+WITNESS STATEMENT FOUNDATION
+----------------------------
 
-## 1. Use Conditions
+1. Use Conditions
+-----------------
 
 Use this form when testimony may affect:
 
@@ -45,7 +49,8 @@ itself is the required evidence.
 
 ---
 
-## 2. Witness Category
+2. Witness Category
+-------------------
 
 Mark one primary category and any secondary category required.
 
@@ -64,7 +69,6 @@ text
 [ ] DECEASED / RECONSTRUCTED TESTIMONY
 [ ] OTHER: ______________________________
 
-
 Witness category does not decide credibility by itself. A frightened civilian may be more
 accurate than a trained
 researcher exposed to a memetic field. A hostile witness may tell the truth for
@@ -73,7 +77,8 @@ remains a person even when the institution has excommunicated them from ordinary
 
 ---
 
-## 3. Statement Header
+3. Statement Header
+-------------------
 
 text
 STATEMENT ID:
@@ -99,13 +104,13 @@ MEMETIC / COGNITIVE SCREENING STATUS:
 NORMALCY NARRATIVE STATUS:
 ARCHIVE ROUTING:
 
-
 If witness identity is unsafe to preserve, use a sealed identifier and record the
 sealing authority.
 
 ---
 
-## 4. Pre-Statement Handling Check
+4. Pre-Statement Handling Check
+-------------------------------
 
 Before testimony begins, the interviewer must confirm:
 
@@ -124,13 +129,13 @@ way that invalidates raw perception
 [ ] GOI-risk observer is present if the witness may be affiliated with a
 GOI
 
-
 Failure to complete a check does not always stop testimony. It must be recorded
 before testimony is trusted.
 
 ---
 
-## 5. Free Statement Section
+5. Free Statement Section
+-------------------------
 
 The interviewer should begin with a free statement before guided questions.
 
@@ -141,23 +146,23 @@ order for me. If something happened twice,
 happened before itself, sounded wrong, looked staged, or feels impossible to place, say that
 directly."
 
-
 text
 FREE STATEMENT:
 [Write or attach the witness's account here. Preserve uncertain wording, pauses, repeated phrases, drawings,
 gestures,
 emotional breaks, and refusal to answer where relevant.]
 
-
 Do not correct the witness into A.C.T terminology during the first account.
 
 ---
 
-## 6. Guided Question Block
+6. Guided Question Block
+------------------------
 
 Use only the questions needed for the case.
 
-### Perception
+Perception
+----------
 
 text
 What did you see?
@@ -168,8 +173,8 @@ What changed first?
 What did not change when it should have?
 Did anyone else react differently from you?
 
-
-### Time and Sequence
+Time and Sequence
+-----------------
 
 text
 What happened before the event?
@@ -178,8 +183,8 @@ Did time skip, repeat, slow, stop, or arrive out of order?
 Did you remember something before it happened?
 Did clocks, phones, cameras, shadows, or reflections disagree?
 
-
-### Body and Mind
+Body and Mind
+-------------
 
 text
 Did your body feel altered?
@@ -188,8 +193,8 @@ Did you forget names, places, language, pain, fear, or identity?
 Did you feel ordered to act?
 Did you want something that did not feel like your own want?
 
-
-### People and Entities
+People and Entities
+-------------------
 
 text
 Who was present?
@@ -199,8 +204,8 @@ Did anyone speak in a voice that was not theirs?
 Did anyone behave like they knew a script?
 Did any person, animal, object, or place seem to notice being watched?
 
-
-### Objects and Environment
+Objects and Environment
+-----------------------
 
 text
 What object, doorway, sound, symbol, document, machine, animal, body, weather, road, room, screen, or
@@ -209,8 +214,8 @@ central?
 Was anything too clean, too old, too new, too staged, or impossible to damage?
 Did the environment behave as if it had rules?
 
-
-### Public Narrative
+Public Narrative
+----------------
 
 text
 What explanation did people give before A.C.T arrived?
@@ -218,8 +223,8 @@ What explanation would you have believed if no one stopped you?
 What explanation are others repeating now?
 Who benefits if that explanation is accepted?
 
-
-### GOI Indicators
+GOI Indicators
+--------------
 
 text
 Did you see a name, logo, badge, uniform, chant, ticket, catalogue, contract, ritual phrase,
@@ -228,10 +233,10 @@ company label, market price, or political slogan?
 Did anyone claim ownership, rescue, authority, payment, faith, liberation, or eradication?
 Did anyone try to remove evidence before emergency services arrived?
 
-
 ---
 
-## 7. Reliability and Alteration Assessment
+7. Reliability and Alteration Assessment
+----------------------------------------
 
 This section is completed by A.C.T personnel, not the witness.
 
@@ -261,13 +266,13 @@ ALTERATION INDICATORS:
 [ ] information hazard contamination
 [ ] other: ______________________________
 
-
 Low reliability does not mean low value. A distorted statement may reveal the shape
 of the distortion.
 
 ---
 
-## 8. Immediate Handling Orders
+8. Immediate Handling Orders
+----------------------------
 
 text
 [ ] release under public narrative
@@ -289,12 +294,12 @@ text
 [ ] transfer to Archiver Division
 [ ] other: ______________________________
 
-
 Do not select amnestic treatment only because the testimony is inconvenient.
 
 ---
 
-## 9. Normalcy Narrative Attachment
+9. Normalcy Narrative Attachment
+--------------------------------
 
 Civil Covert must complete this section if the witness will return to public life.
 
@@ -308,14 +313,14 @@ WITNESS MUST AVOID SPECIFIC LOCATION / PERSON / OBJECT:
 FOLLOW-UP DATE:
 FOLLOW-UP AUTHORITY:
 
-
 A partial truth shard is a controlled fragment of truth left intact because full
 erasure would cause worse
 instability, obsession, grief collapse, or pattern-seeking behavior.
 
 ---
 
-## 10. E-Class / Excommunicated Class Attachment
+10. E-Class / Excommunicated Class Attachment
+---------------------------------------------
 
 Complete only if the witness is E-Class.
 
@@ -330,14 +335,14 @@ AFTERCARE REQUIREMENT:
 RETURN TO DUTY ALLOWED:
 RETURN TO DUTY AUTHORITY:
 
-
 E-Class testimony is not less human because the witness is excommunicated. It may be
 more institutionally dangerous
 because the witness has seen what protected staff were spared.
 
 ---
 
-## 11. GOI-Affiliated Witness Attachment
+11. GOI-Affiliated Witness Attachment
+-------------------------------------
 
 Complete only if a Group of Interest is involved or suspected.
 
@@ -363,14 +368,14 @@ GOI THREATS MADE:
 GOI OFFERS MADE:
 GOI RECOVERED DOCUMENT RECORD REQUIRED:
 
-
 A GOI-affiliated witness may require both witness filing and recovered-document filing if they carry
 written, spoken,
 digital, ritual, or commercial material from the group.
 
 ---
 
-## 12. Closing Certification
+12. Closing Certification
+-------------------------
 
 text
 INTERVIEWER CERTIFICATION:
@@ -391,10 +396,10 @@ DUPLICATE COPY CREATED:
 TEXT COPY CREATED:
 RELATED FILES UPDATED:
 
-
 ---
 
-## 13. Red Lines
+13. Red Lines
+-------------
 
 A.C.T will not:
 
@@ -409,7 +414,8 @@ A.C.T will not:
 
 ---
 
-## 14. Blank Field Copy
+14. Blank Field Copy
+--------------------
 
 text
 A.C.T FACILITY ARCHIVE FILE
@@ -481,10 +487,10 @@ DUPLICATE COPY CREATED:
 TEXT COPY CREATED:
 RELATED FILES UPDATED:
 
-
 ---
 
-## File Metadata
+File Metadata
+-------------
 
 text
 FILE CREATED:        12/08/2022

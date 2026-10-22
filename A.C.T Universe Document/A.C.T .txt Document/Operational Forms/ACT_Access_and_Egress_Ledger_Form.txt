@@ -1,12 +1,14 @@
 A.C.T FACILITY ARCHIVE FILE — ACCESS AND EGRESS FOUNDATION
-## ACCESS AND EGRESS LEDGER FORM
+ACCESS AND EGRESS LEDGER FORM
+-----------------------------
 
 Archive Status: Active Working Form
 Distribution: Security Division / Recovery Division / Containment Division / Archiver Division / Site
 Command
 Authority: Security Division, Site Command, and Central Archive
 
-### Archive Note
+Archive Note
+------------
 This form records controlled movement through A.C.T sites, sub-sites, containment zones, field perimeters, anomaly
 influence areas, temporary recovery scenes, and sealed archive routes. It exists because containment often
 fails at
@@ -22,9 +24,11 @@ contamination, pursuit, obligation, evidence, or silence.
 
 ---
 
-## ACCESS AND EGRESS FOUNDATION
+ACCESS AND EGRESS FOUNDATION
+----------------------------
 
-## 1. Use Conditions
+1. Use Conditions
+-----------------
 
 Use this ledger when movement involves any of the following:
 
@@ -49,7 +53,8 @@ to an incident, breach, exposure review, or audit.
 
 ---
 
-## 2. Ledger Identification
+2. Ledger Identification
+------------------------
 
 text
 LEDGER ID:
@@ -78,14 +83,14 @@ NORMALCY NARRATIVE LINK:
 RELATED CASE DESIGNATION:
 RELATED FORM / DOSSIER:
 
-
 A ledger may cover one movement event or a bounded operation. It must not
 become a permanent substitute for site
 access control logs.
 
 ---
 
-## 3. Movement Party Classification
+3. Movement Party Classification
+--------------------------------
 
 Mark all that apply.
 
@@ -111,14 +116,14 @@ text
 [ ] UNKNOWN MOVEMENT SIGNATURE
 [ ] OTHER: ______________________________
 
-
 If an individual is both witness and subject, or personnel and affected party, mark
 both. The ledger tracks risk
 conditions, not social comfort.
 
 ---
 
-## 4. Access Point Record
+4. Access Point Record
+----------------------
 
 text
 ACCESS POINT ID:
@@ -147,14 +152,14 @@ FAILSAFE STATUS:
 LAST MAINTENANCE CHECK:
 KNOWN ANOMALY INTERFERENCE:
 
-
 An anomalous threshold includes any doorway, road, train car, mirror, forest line, tent flap,
 elevator, stairwell,
 pool, screen, document margin, or other boundary where crossing may change rules.
 
 ---
 
-## 5. Entry Record
+5. Entry Record
+---------------
 
 text
 ENTRY TIME:
@@ -176,14 +181,14 @@ STATEMENT FORM REQUIRED:
 EXPOSURE LEDGER REQUIRED:
 CHAIN OF CUSTODY RECORD REQUIRED:
 
-
 No entry should be approved solely because the person has high clearance. Clearance permits
 knowledge. It does not
 make a body safe to move through a hazardous threshold.
 
 ---
 
-## 6. Exit Record
+6. Exit Record
+--------------
 
 text
 EXIT TIME:
@@ -210,14 +215,14 @@ NORMALCY REVIEW REQUIRED:
 ISOLATION REQUIRED:
 RETURN TO DUTY / RELEASE STATUS:
 
-
 The exit record is not complete until A.C.T knows what left. A person may
 leave carrying a memory that is more
 dangerous than the object they returned.
 
 ---
 
-## 7. Custody Transfer Block
+7. Custody Transfer Block
+-------------------------
 
 Complete when responsibility changes between divisions, sites, units, or field teams.
 
@@ -237,14 +242,14 @@ CHAIN OF CUSTODY CONTINUED:
 CHAIN OF CUSTODY BROKEN:
 REASON IF BROKEN:
 
-
 A.C.T has lost containment before because one team transferred an object while keeping the
 warning inside a separate
 file. A custody transfer must carry enough truth to keep the receiving authority alive.
 
 ---
 
-## 8. E-Class / Excommunicated Class Movement Attachment
+8. E-Class / Excommunicated Class Movement Attachment
+-----------------------------------------------------
 
 Complete when the movement party includes E-Class personnel.
 
@@ -262,14 +267,14 @@ AFTERCARE ROUTE:
 RETURN ROUTE:
 AUTHORIZED REPEAT MOVEMENT:
 
-
 E-Class movement must not be made invisible because the person is already excommunicated. The
 ledger must show where
 they were taken, why they were taken there, and whether they returned.
 
 ---
 
-## 9. Subject Care Movement Attachment
+9. Subject Care Movement Attachment
+-----------------------------------
 
 Complete when a contained subject or humanoid anomaly is moved for care, interview, relocation,
 recreation, ritual
@@ -290,14 +295,14 @@ RETURN ENVIRONMENT PREPARED:
 SUBJECT DISTRESS SIGNS:
 SUBJECT STABILIZATION PHRASE:
 
-
 A subject moved like cargo will often behave like cargo that learned fear. Subject
 movement is containment, care, and
 moral evidence at the same time.
 
 ---
 
-## 10. GOI Evidence Movement Attachment
+10. GOI Evidence Movement Attachment
+------------------------------------
 
 Complete when a movement event involves GOI material, GOI-linked individuals, recovered documents, outside technology,
 ritual items, commercial records, or hostile propaganda.
@@ -317,7 +322,6 @@ CALL-HOME / SIGNAL RISK:
 WITNESS STATEMENT REQUIRED:
 GOI RECOVERED DOCUMENT RECORD REQUIRED:
 
-
 GOI material may move even when no person moves. A price list, chant sheet,
 company vial, Guild maintenance
 instruction, circus ticket, or leaked A.C.T file can cross a threshold and change the
@@ -325,7 +329,8 @@ operation around it.
 
 ---
 
-## 11. Vehicle and Transport Attachment
+11. Vehicle and Transport Attachment
+------------------------------------
 
 text
 TRANSPORT UNIT:
@@ -343,13 +348,13 @@ CIVILIAN TRAFFIC EXPOSURE:
 ROUTE INTERRUPTION:
 ARRIVAL CONFIRMATION:
 
-
 Transport is a moving containment chamber. If the route is public, it is also
 a moving normalcy operation.
 
 ---
 
-## 12. Emergency Egress Block
+12. Emergency Egress Block
+--------------------------
 
 Use when personnel, subjects, civilians, or materials leave under breach, fire, flood, structural failure,
 hostile
@@ -374,14 +379,14 @@ CONTAINMENT SACRIFICES MADE:
 PUBLIC EXPOSURE RISK:
 POST-EGRESS RALLY POINT:
 
-
 Emergency egress does not end when bodies reach the rally point. It ends when
 the archive can say what failed, what
 escaped, what was left behind, and what followed.
 
 ---
 
-## 13. Audit and Reconciliation
+13. Audit and Reconciliation
+----------------------------
 
 At ledger close, the responsible authority must reconcile:
 
@@ -399,14 +404,14 @@ ALL NORMALCY NARRATIVE UPDATES ROUTED:
 ALL BREACH CONDITIONS ESCALATED:
 ALL UNRESOLVED SIGNATURES SEALED FOR REVIEW:
 
-
 A ledger that balances too perfectly after a chaotic anomaly event should be reviewed
 for falsification, memory
 smoothing, time correction, or a threshold that edited the record.
 
 ---
 
-## 14. Red Lines
+14. Red Lines
+-------------
 
 A.C.T will not:
 
@@ -421,7 +426,8 @@ A.C.T will not:
 
 ---
 
-## 15. Blank Field Copy
+15. Blank Field Copy
+--------------------
 
 text
 A.C.T FACILITY ARCHIVE FILE
@@ -518,10 +524,10 @@ CLOSING AUTHORITY:
 CLOSING DATE:
 ARCHIVE RECEIPT:
 
-
 ---
 
-## File Metadata
+File Metadata
+-------------
 
 text
 FILE CREATED:        14/04/2001

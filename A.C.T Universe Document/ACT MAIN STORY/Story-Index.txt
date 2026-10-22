@@ -1,41 +1,51 @@
-# Main Story Index
+Main Story Index
+----------------
 
 Generated from the contents of this folder, so it cannot drift from what is actually here.
 
-## The Facility That Forgot Its First Lie
+The Facility That Forgot Its First Lie
+--------------------------------------
 
-### Continuity Policy
+Continuity Policy
+-----------------
 
 ACT_Continuity_Policy.md
 ACT_Continuity_Policy.txt
 
-### Complete Files
+Complete Files
+--------------
 
 The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md
 The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.txt
 
-### Archives
+Archives
+--------
 
 The-Facility-That-Forgot-Its-First-Lie-Archive.md
 
-### Narrative
+Narrative
+---------
 
 The-Facility-That-Forgot-Its-First-Lie-Narrative.md
 
-### Characters
+Characters
+----------
 
 The-Facility-That-Forgot-Its-First-Lie-Character-Archive-Profiles.md
 
-### Outlines
+Outlines
+--------
 
 The-Facility-That-Forgot-Its-First-Lie-Chapter-Outline.md
 
-### Related Dossiers
+Related Dossiers
+----------------
 
 The_Complete_Abyssal_Archive_Dossier.md
 The_Complete_Abyssal_Archive_Dossier.txt
 
-### Chapters
+Chapters
+--------
 
 13 chapters, each in Markdown and plain text.
 
